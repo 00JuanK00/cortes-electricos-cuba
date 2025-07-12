@@ -1,88 +1,57 @@
 import os
 import requests
 from telethon.sync import TelegramClient
-from datetime import datetime, timedelta
+from telethon.sessions import StringSession
 import json
 import logging
+from datetime import datetime, timedelta
 
-# Configuración de logging
+# Configuración
 logging.basicConfig(level=logging.INFO)
 logger = logging.getLogger(__name__)
 
-# Configuración de Telegram (variables de entorno)
-api_id = os.getenv('API_ID')
-api_hash = os.getenv('API_HASH')
-channel_username = 'une_cuba'
+# Credenciales
+API_ID = os.getenv('API_ID')
+API_HASH = os.getenv('API_HASH')
+SESSION_STRING = os.getenv('TELEGRAM_SESSION')
+CHANNEL = 'une_cuba'
 
-# Configuración de rutas
-JSON_PATH = 'data/cortes.json'
-MAX_ENTRIES = 100  # Límite de entradas en el historial
+def load_client():
+    """Inicia el cliente de Telegram con sesión persistente"""
+    return TelegramClient(StringSession(SESSION_STRING), API_ID, API_HASH)
 
-def load_current_data():
-    """Carga los datos existentes desde GitHub o archivo local"""
+def fetch_messages(client):
+    """Obtiene los últimos mensajes del canal"""
     try:
-        url_json = 'https://raw.githubusercontent.com/00JuanK00/cortes-electricos-cuba/main/data/cortes.json'
-        response = requests.get(url_json, timeout=10)
-        response.raise_for_status()
-        return response.json()
-    except (requests.RequestException, json.JSONDecodeError) as e:
-        logger.warning(f"No se pudo cargar JSON remoto: {e}. Usando archivo local.")
-        try:
-            with open(JSON_PATH, 'r', encoding='utf-8') as f:
-                return json.load(f)
-        except (FileNotFoundError, json.JSONDecodeError):
-            return []
-
-def process_messages(messages, existing_data):
-    """Procesa TODOS los mensajes sin filtrar"""
-    existing_ids = {entry['id'] for entry in existing_data}
-    new_entries = []
-    
-    for message in messages:
-        if not message.text:
-            continue
-            
-        entry = {
-            "id": message.id,
-            "fecha": message.date.strftime("%Y-%m-%d %H:%M"),
-            "mensaje": message.text,
-            "timestamp": int(message.date.timestamp())
-        }
-        
-        if message.id not in existing_ids:
-            new_entries.append(entry)
-            logger.info(f"Mensaje añadido: {message.date} - {message.text[:50]}...")
-    
-    return new_entries
+        messages = client.get_messages(CHANNEL, limit=20)
+        return [
+            {
+                "id": msg.id,
+                "date": msg.date.strftime("%Y-%m-%d %H:%M"),
+                "text": msg.text,
+                "timestamp": int(msg.date.timestamp())
+            }
+            for msg in messages if msg.text
+        ]
+    except Exception as e:
+        logger.error(f"Error al obtener mensajes: {e}")
+        return []
 
 def save_data(data):
-    """Guarda los datos ordenados y limitados"""
-    data_sorted = sorted(data, key=lambda x: x['timestamp'], reverse=True)
-    
-    if len(data_sorted) > MAX_ENTRIES:
-        data_sorted = data_sorted[:MAX_ENTRIES]
-    
-    with open(JSON_PATH, 'w', encoding='utf-8') as f:
-        json.dump(data_sorted, f, ensure_ascii=False, indent=2)
-    logger.info(f"Datos guardados. Total de entradas: {len(data_sorted)}")
+    """Guarda los datos en formato JSON"""
+    try:
+        with open('data/cortes.json', 'w', encoding='utf-8') as f:
+            json.dump(data, f, ensure_ascii=False, indent=2)
+        logger.info(f"Datos guardados ({len(data)} registros)")
+    except Exception as e:
+        logger.error(f"Error al guardar datos: {e}")
 
 def main():
-    try:
-        current_data = load_current_data()
-        
-        with TelegramClient('session_name', api_id, api_hash) as client:
-            messages = client.get_messages(
-                channel_username,
-                limit=20  # Últimos 20 mensajes (sin filtro temporal)
-            )
-            
-            new_entries = process_messages(messages, current_data)
-            updated_data = new_entries + current_data
-            save_data(updated_data)
-            
-    except Exception as e:
-        logger.error(f"Error: {e}")
-        raise
+    client = load_client()
+    with client:
+        messages = fetch_messages(client)
+        if messages:
+            save_data(messages)
 
 if __name__ == '__main__':
     main()
