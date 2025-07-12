@@ -1,4 +1,4 @@
-name: Actualizar cortes eléctricos
+name: Actualización Multi-Provincial
 on:
   schedule:
     - cron: '0 */2 * * *'  # Ejecución cada 2 horas
@@ -14,43 +14,66 @@ jobs:
       - name: Checkout repo
         uses: actions/checkout@v4
         with:
-          persist-credentials: false  # Crucial para autenticación posterior
+          persist-credentials: false
+          fetch-depth: 0    # Necesario para el diff de múltiples archivos
 
       - name: Set up Python
         uses: actions/setup-python@v4
         with:
           python-version: '3.10'
-          cache: 'pip'      # Cache para instalaciones más rápidas
+          cache: 'pip'
 
       - name: Install dependencies
         run: |
           python -m pip install --upgrade pip
           pip install telethon requests
+          sudo apt-get install -y jq  # Para procesamiento JSON en bash
 
-      - name: Run scraper
+      - name: Run multi-province scraper
         env:
           API_ID: ${{ secrets.API_ID }}
           API_HASH: ${{ secrets.API_HASH }}
           TELEGRAM_SESSION: ${{ secrets.TELEGRAM_SESSION }}
         run: |
           python scripts/scrape_and_update.py
+          echo "Provincias actualizadas:"
+          ls -l data/provincias/ | grep .json
+
+      - name: Get changed provinces
+        id: changes
+        run: |
+          # Obtiene lista de provincias modificadas
+          git diff --name-only HEAD | grep 'data/provincias/' > changed_files.txt
+          if [ -s changed_files.txt ]; then
+            echo "Modified provinces:"
+            cat changed_files.txt
+            # Extrae nombres de provincias para el mensaje de commit
+            PROVINCIAS=$(cat changed_files.txt | sed 's|data/provincias/||;s|\.json||' | tr '\n' ', ' | sed 's/, $//')
+            echo "::set-output name=PROVINCIAS::$PROVINCIAS"
+          else
+            echo "No changes detected"
+            echo "::set-output name=PROVINCIAS::none"
+          fi
 
       - name: Commit and push changes
+        if: steps.changes.outputs.PROVINCIAS != 'none'
         run: |
-          # Configuración inicial robusta
+          # Configuración inicial
           git config --global --add safe.directory /github/workspace
           git config --global user.name "github-actions"
           git config --global user.email "actions@github.com"
-          
-          # Autenticación segura
           git remote set-url origin https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }}
+
+          # Añade todos los JSON modificados
+          git add data/provincias/*.json
+
+          # Mensaje de commit inteligente
+          COMMIT_MSG="Actualización provincias: ${{ steps.changes.outputs.PROVINCIAS }} - $(date +'%Y-%m-%d %H:%M %Z')"
           
-          # Manejo inteligente de cambios
-          git add data/cortes.json
-          
-          # Solo hace commit si hay cambios reales
+          # Commit y push con control de errores
           git diff-index --quiet HEAD || {
-            git commit -m "Actualización automática: $(date +'%Y-%m-%d %H:%M %Z')"
-            git pull --rebase origin main  # Evita conflictos
+            git commit -m "$COMMIT_MSG"
+            git pull --rebase origin main
             git push origin HEAD:main
+            echo "✅ Changes pushed successfully"
           }
