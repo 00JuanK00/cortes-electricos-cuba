@@ -1,7 +1,8 @@
 import os
 import json
 from telethon.sync import TelegramClient
-from datetime import datetime, timedelta
+from telethon.sessions import StringSession
+from datetime import datetime
 import logging
 from pytz import timezone
 
@@ -56,7 +57,7 @@ def save_data(channel_name, data):
     filename = f"{DATA_DIR}/{channel_name}.json"
     try:
         with open(filename, 'w', encoding='utf-8') as f:
-            json.dump(data, f, ensure_ascii=False, indent=2, ensure_ascii=False)
+            json.dump(data, f, ensure_ascii=False, indent=2)  # CORRECCIÓN: ensure_ascii solo una vez
     except Exception as e:
         logger.error(f"Error al guardar {filename}: {str(e)}")
 
