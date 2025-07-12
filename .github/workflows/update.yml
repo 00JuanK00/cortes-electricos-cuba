@@ -1,11 +1,11 @@
-name: Actualizar datos de cortes
+name: Actualizar cortes eléctricos
 on:
   schedule:
     - cron: '0 */2 * * *'  # Cada 2 horas
-  workflow_dispatch:       # Permite ejecución manual
+  workflow_dispatch:
 
 jobs:
-  scrape-and-update:
+  update-data:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout repo
@@ -17,24 +17,20 @@ jobs:
           python-version: '3.10'
 
       - name: Install dependencies
-        run: |
-          pip install telethon requests
+        run: pip install telethon requests
 
-      - name: Run scraping script
+      - name: Run scraper
         env:
           API_ID: ${{ secrets.API_ID }}
           API_HASH: ${{ secrets.API_HASH }}
-        run: |
-          python scripts/scrape_and_update.py
+          TELEGRAM_SESSION: ${{ secrets.TELEGRAM_SESSION }}
+        run: python scripts/scrape_and_update.py
 
-      - name: Configure Git
+      - name: Commit and push changes
         run: |
           git config --global user.name "github-actions"
           git config --global user.email "actions@github.com"
           git remote set-url origin https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }}
-
-      - name: Commit and push changes
-        run: |
           git add data/cortes.json
-          git commit -m "Actualización automática de cortes: $(date +'%Y-%m-%d %H:%M')"
+          git commit -m "Actualización automática: $(date +'%Y-%m-%d %H:%M')"
           git push
