@@ -40,7 +40,7 @@ def scrape_channel(client, channel):
                 cuba_time = convert_to_cuba_time(msg.date)
                 processed_messages.append({
                     "id": msg.id,
-                    "fecha": cuba_time.strftime("%Y-%m-%d %H:%M"),
+                    "fecha": cuba_time.strftime("%d de %b del %Y a las %I:%M %p"),
                     "hora_utc": msg.date.strftime("%Y-%m-%d %H:%M"),  # Opcional: guardar UTC también
                     "mensaje": msg.text,
                     "timestamp": int(msg.date.timestamp()),
