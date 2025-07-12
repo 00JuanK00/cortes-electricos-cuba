@@ -26,8 +26,8 @@ jobs:
       - name: Install dependencies
         run: |
           python -m pip install --upgrade pip
-          pip install telethon requests
-          sudo apt-get install -y jq  # Para procesamiento JSON en bash
+          pip install telethon requests pytz  # Añadido pytz aquí
+          sudo apt-get install -y jq
 
       - name: Run multi-province scraper
         env:
