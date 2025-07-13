@@ -1,5 +1,13 @@
 [
   {
+    "id": 41597,
+    "fecha": "13 de Jul del 2025 a las 12:26 AM",
+    "hora_utc": "2025-07-13 04:26",
+    "mensaje": "🚨Estimados clientes se les informa que quedan afectados por Déficit de Capacidad de Generación  los circuitos 24,25 de Santiago.",
+    "timestamp": 1752380814,
+    "timestamp_local": 1752380814
+  },
+  {
     "id": 41596,
     "fecha": "13 de Jul del 2025 a las 12:12 AM",
     "hora_utc": "2025-07-13 04:12",
@@ -134,21 +142,5 @@
     "mensaje": "🔴 Disparo Automático de Frecuencia (DAF):\nOcurre cuando la frecuencia está por debajo de los 60Hz y determinada carga o circuito se desconecta del sistema automáticamente hasta que se estabilice.",
     "timestamp": 1752346371,
     "timestamp_local": 1752346371
-  },
-  {
-    "id": 41578,
-    "fecha": "12 de Jul del 2025 a las 02:52 PM",
-    "hora_utc": "2025-07-12 18:52",
-    "mensaje": "👉 Estimados clientes se les informa que en estos momentos se encuentran Disparados por DAF los circuitos 25 y 1 Palma.",
-    "timestamp": 1752346352,
-    "timestamp_local": 1752346352
-  },
-  {
-    "id": 41577,
-    "fecha": "12 de Jul del 2025 a las 02:46 PM",
-    "hora_utc": "2025-07-12 18:46",
-    "mensaje": "🔴 Manipulaciones:\nAcciones que se realizan en los circuitos para dar paso al trabajo en zonas afectadas por averías o Vía Libre y posteriormente para restablecer el servicio eléctrico en los circuitos que se encontraban afectados y en los que se trabaja con anterioridad, luego de culminadas las labores pertinentes",
-    "timestamp": 1752346010,
-    "timestamp_local": 1752346010
   }
 ]
