@@ -1,5 +1,37 @@
 [
   {
+    "id": 31591,
+    "fecha": "13 de Jul del 2025 a las 12:23 AM",
+    "hora_utc": "2025-07-13 04:23",
+    "mensaje": "⛔Se mantiene afectado por déficit el siguiente circuito \n\n➡️3220 de San Antonio \n\n❌ Tenemos una afectación de 150 MW",
+    "timestamp": 1752380617,
+    "timestamp_local": 1752380617
+  },
+  {
+    "id": 31590,
+    "fecha": "13 de Jul del 2025 a las 12:16 AM",
+    "hora_utc": "2025-07-13 04:16",
+    "mensaje": "⛔Se mantienen afectados por déficit los siguientes circuitos   \n\n➡️Sub San Cristóbal\n➡️4 caminos y el Marti de San Cristóbal\n\n❌ Tenemos una afectación de 150 MW",
+    "timestamp": 1752380191,
+    "timestamp_local": 1752380191
+  },
+  {
+    "id": 31589,
+    "fecha": "12 de Jul del 2025 a las 11:54 PM",
+    "hora_utc": "2025-07-13 03:54",
+    "mensaje": "⛔Se mantienen afectados por déficit el siguiente circuito \n\n➡️3517 de Mariel\n\n❌ Tenemos una afectación de 161  MW",
+    "timestamp": 1752378893,
+    "timestamp_local": 1752378893
+  },
+  {
+    "id": 31588,
+    "fecha": "12 de Jul del 2025 a las 11:40 PM",
+    "hora_utc": "2025-07-13 03:40",
+    "mensaje": "⛔Se mantienen afectados por déficit el siguiente circuito \n\n➡️1270 de Artemisa\n\n❌ Tenemos una afectación de 161  MW",
+    "timestamp": 1752378053,
+    "timestamp_local": 1752378053
+  },
+  {
     "id": 31587,
     "fecha": "12 de Jul del 2025 a las 11:20 PM",
     "hora_utc": "2025-07-13 03:20",
@@ -51,7 +83,7 @@
     "id": 31581,
     "fecha": "12 de Jul del 2025 a las 08:39 PM",
     "hora_utc": "2025-07-13 00:39",
-    "mensaje": "⛔Se mantienen afectados por déficit el siguiente circuito \n\n➡️Gran Panel , Beliert y Pilar \n\n❌ Tenemos una afectación de 127  MW",
+    "mensaje": "❌ Tenemos una afectación de 127  MW",
     "timestamp": 1752367182,
     "timestamp_local": 1752367182
   },
@@ -75,7 +107,7 @@
     "id": 31578,
     "fecha": "12 de Jul del 2025 a las 07:22 PM",
     "hora_utc": "2025-07-12 23:22",
-    "mensaje": "⛔Se mantienen afectados por déficit los siguientes circuitos   \n➡️341 de San Cristóbal \n➡️246 excepto la parte del hospital \n➡️1940 de San Antonio  \n➡️5040 de Caimito \n➡️Bombeo Ceiba 1\n➡️San Gabriel de Caimito \n\n❌ Tenemos una afectación de 117 MW",
+    "mensaje": "⛔Se mantienen afectados por déficit los siguientes circuitos   \n➡️246 excepto la parte del hospital \n\n❌ Tenemos una afectación de 117 MW",
     "timestamp": 1752362548,
     "timestamp_local": 1752362548
   },
@@ -126,37 +158,5 @@
     "mensaje": "Restablecido el disparo del circuito 236 de Bahía Honda",
     "timestamp": 1752358845,
     "timestamp_local": 1752358845
-  },
-  {
-    "id": 31571,
-    "fecha": "12 de Jul del 2025 a las 05:23 PM",
-    "hora_utc": "2025-07-12 21:23",
-    "mensaje": "Disparado Circuito 236 de Bahía Honda por Tormenta ❌",
-    "timestamp": 1752355393,
-    "timestamp_local": 1752355393
-  },
-  {
-    "id": 31570,
-    "fecha": "12 de Jul del 2025 a las 04:54 PM",
-    "hora_utc": "2025-07-12 20:54",
-    "mensaje": "⛔Se mantienen afectados por déficit el siguiente circuito \n\n➡️3205 de Cabaña-Quiebra Hacha \n\n❌ Tenemos una afectación de 67  MW",
-    "timestamp": 1752353678,
-    "timestamp_local": 1752353678
-  },
-  {
-    "id": 31569,
-    "fecha": "12 de Jul del 2025 a las 04:25 PM",
-    "hora_utc": "2025-07-12 20:25",
-    "mensaje": "⛔Se mantienen afectados por déficit el siguiente circuito \n\n➡️Bauta Nueva\n\n❌ Tenemos una afectación de 62  MW",
-    "timestamp": 1752351938,
-    "timestamp_local": 1752351938
-  },
-  {
-    "id": 31568,
-    "fecha": "12 de Jul del 2025 a las 04:22 PM",
-    "hora_utc": "2025-07-12 20:22",
-    "mensaje": "⛔Se mantienen afectados por déficit el siguiente circuito \n\n➡️1258 de Artemisa\n\n❌ Tenemos una afectación de 62  MW",
-    "timestamp": 1752351767,
-    "timestamp_local": 1752351767
   }
 ]

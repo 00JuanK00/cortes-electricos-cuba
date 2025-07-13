@@ -1,5 +1,29 @@
 [
   {
+    "id": 24971,
+    "fecha": "13 de Jul del 2025 a las 12:12 AM",
+    "hora_utc": "2025-07-13 04:12",
+    "mensaje": "⚠️Serán afectados por déficit de capacidad de generación los siguientes circuitos\n🔹 Bloque 2\nMunicipio Cifuentes \nCto 114 y 117\nCto 116 y 155 Mata \nCto 186 Batey Unidad Proletaria  \nCto 184 Sitio Grande",
+    "timestamp": 1752379972,
+    "timestamp_local": 1752379972
+  },
+  {
+    "id": 24970,
+    "fecha": "13 de Jul del 2025 a las 12:00 AM",
+    "hora_utc": "2025-07-13 04:00",
+    "mensaje": "🕕Actualización del servicio eléctrico en las últimas 6 horas.\n✍️El déficit de capacidad de generación osciló entre los 113 MW y los 121 MW.\n✍️De los 156 circuitos apagables que presenta la provincia, se mantienen afectados 122 circuitos.\n✍️ Cuenta con 172 afectaciones por averías secundarias y de servicio:\nCorralillo (1)\nCamajuani (1)\nManicaragua (29)\nPlacetas (3)\nRemedios (6)\nSagua (3)\nSanta Clara (73)\nSanto Domingo (18)\n🛠️Se encuentran 5 averías en vías de solución.\n🛠️Pendientes a solucionar por el área técnica 30.\nLa provincia no presenta averías primarias.",
+    "timestamp": 1752379242,
+    "timestamp_local": 1752379242
+  },
+  {
+    "id": 24969,
+    "fecha": "12 de Jul del 2025 a las 11:51 PM",
+    "hora_utc": "2025-07-13 03:51",
+    "mensaje": "⚠️Serán afectados por déficit de capacidad de generación los siguientes circuitos:\n🔹Bloque 2\nMunicipio Cifuentes:\nCtos 114 y 117\nCtos 116 y 155 Mata\nCto 186 Batey Unidad Proletaria\nCto 184 Sitio Grande",
+    "timestamp": 1752378694,
+    "timestamp_local": 1752378694
+  },
+  {
     "id": 24968,
     "fecha": "12 de Jul del 2025 a las 11:15 PM",
     "hora_utc": "2025-07-13 03:15",
@@ -118,29 +142,5 @@
     "mensaje": "Afectados 127 MW en la provincia, demanda máxima posible a apagar en estos momentos.",
     "timestamp": 1752367632,
     "timestamp_local": 1752367632
-  },
-  {
-    "id": 24951,
-    "fecha": "12 de Jul del 2025 a las 08:33 PM",
-    "hora_utc": "2025-07-13 00:33",
-    "mensaje": "Continúan las labores de reparación en la Subestación Villa Alegre",
-    "timestamp": 1752366827,
-    "timestamp_local": 1752366827
-  },
-  {
-    "id": 24950,
-    "fecha": "12 de Jul del 2025 a las 08:12 PM",
-    "hora_utc": "2025-07-13 00:12",
-    "mensaje": "💡 Restablecido el servicio eléctrico en los siguientes circuitos:\n🔹Bloque 2\nMunicipio Cifuentes \nCto 114 y 117\nCto 116 y 155 Mata \nCto 186 Batey Unidad Proletaria  \nCto 184 Sitio Grande",
-    "timestamp": 1752365574,
-    "timestamp_local": 1752365574
-  },
-  {
-    "id": 24949,
-    "fecha": "12 de Jul del 2025 a las 07:40 PM",
-    "hora_utc": "2025-07-12 23:40",
-    "mensaje": "‼️Sabia Usted‼️\n**¿Qué es un disparo de circuito y porque ocurre?**\n✍️Los disparos de circuito tienen diferentes aristas todas con distintos significados, es decir que ocurren por varias causas. Entre ellas encontramos:\n\n**👉Disparo de Circuito con Recierre**: El conocido por los clientes como “quita y pon de corriente” es un tipo de protección utilizada mundialmente a partir del 80% aproximadamente de las interrupciones eléctricas son transitorias. Este fenómeno lo hace una sola vez ante un evento de red y no es dañino para para nuestros equipos electrodomésticos. \n\n**👉** **Disparo Automático por Frecuencia (DAF):**  El disparo por DAF ocurre cuando la frecuencia llega a valores mínimos permisibles que ponen en peligro la estabilidad del mismo y como protección desconecta varios circuitos de la Capital. Los mismo restablecen a medida que se vaya recuperando la frecuencia que tiene un valor de 60hz o ciclos por segundo.\n\n👉**Disparo de Circuito por Sobrecarga: **Este ocurre mayormente en los horarios pico y en verano, ya que las altas temperaturas generan elevados consumos en la población y como consecuencia de ello fallas en los circuitos.\n\n👉**Disparo de Circuito por posible Avería**: Este fenómeno ocurre cuando existe una falla en algún circuito, ya sea soterrado, aéreo o en una subestación. Estas, a pesar de que son mucho más frecuentes cuando existe algún evento climatológico, pueden ocurrir en cualquier momento del día o la noche, ya que son situaciones que no cuentan con programación.",
-    "timestamp": 1752363615,
-    "timestamp_local": 1752363615
   }
 ]
