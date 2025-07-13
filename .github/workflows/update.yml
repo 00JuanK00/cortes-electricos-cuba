@@ -1,7 +1,7 @@
 name: Actualización Multi-Provincial
 on:
   schedule:
-    - cron: '0 */2 * * *'  # Ejecución cada 2 horas
+     - cron: '*/45 * * * *'  # Ejecutar cada 45 minutos
   workflow_dispatch:        # Permite ejecución manual
 
 jobs:
