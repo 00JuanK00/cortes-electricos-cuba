@@ -1,5 +1,93 @@
 [
   {
+    "id": 24968,
+    "fecha": "12 de Jul del 2025 a las 11:15 PM",
+    "hora_utc": "2025-07-13 03:15",
+    "mensaje": "Afectados 121 MW en la provincia, demanda máxima posible a apagar en estos momentos.",
+    "timestamp": 1752376539,
+    "timestamp_local": 1752376539
+  },
+  {
+    "id": 24967,
+    "fecha": "12 de Jul del 2025 a las 11:11 PM",
+    "hora_utc": "2025-07-13 03:11",
+    "mensaje": "💡Será restablecido el servicio eléctrico en los siguientes circuitos\n🔹Bloque 5\nMunicipio Santo Domingo\n👉 Cto134\n👉Cto 87 Bermejal",
+    "timestamp": 1752376303,
+    "timestamp_local": 1752376303
+  },
+  {
+    "id": 24966,
+    "fecha": "12 de Jul del 2025 a las 11:10 PM",
+    "hora_utc": "2025-07-13 03:10",
+    "mensaje": "⚠️Serán afectados por déficit de capacidad de generación los siguientes circuitos:\n🔹Bloque 2\nMunicipio Santo Domingo\n👉Cto 195 Batey George Washington\n👉Cto 83 y 165 Manacas \n👉Cto 85 y 86 Pajarito\n👉Cto 161 y 160 Cascajal",
+    "timestamp": 1752376211,
+    "timestamp_local": 1752376211
+  },
+  {
+    "id": 24965,
+    "fecha": "12 de Jul del 2025 a las 11:08 PM",
+    "hora_utc": "2025-07-13 03:08",
+    "mensaje": "💡Será restablecido el servicio eléctrico en los siguientes circuitos\n🔹Bloque 1\nMunicipio Encrucijada \n👉Cto 120 Calabazar",
+    "timestamp": 1752376083,
+    "timestamp_local": 1752376083
+  },
+  {
+    "id": 24964,
+    "fecha": "12 de Jul del 2025 a las 10:51 PM",
+    "hora_utc": "2025-07-13 02:51",
+    "mensaje": "💡Restablecido el servicio eléctrico en la Subestación Villa Alegre perteneciente al municipio de Sagua\n👉 Cto 50 Sagua\n👉Cto 147 Villa Alegre",
+    "timestamp": 1752375069,
+    "timestamp_local": 1752375069
+  },
+  {
+    "id": 24963,
+    "fecha": "12 de Jul del 2025 a las 10:47 PM",
+    "hora_utc": "2025-07-13 02:47",
+    "mensaje": "⚠️Serán afectados por déficit de capacidad de generación \n👉Ctos 47 Caguagua",
+    "timestamp": 1752374875,
+    "timestamp_local": 1752374875
+  },
+  {
+    "id": 24962,
+    "fecha": "12 de Jul del 2025 a las 10:37 PM",
+    "hora_utc": "2025-07-13 02:37",
+    "mensaje": "⚠️Serán afectados por déficit de capacidad de generación los siguientes circuitos:\n🔹Bloque 5\nMunicipio Santo Domingo\n👉 Cto134\n👉Cto 87 y 96 Bermejal\n👉Cto 187 Batey Carlos Baliño\n👉 Cto 82 Ulacia\n👉Cto 84 Rodrigo\nMunicipio Corralillo\n👉Cto 58 y 159 Corralillo\n👉Cto 57 Motembo\n👉Cto 56 Yabre\n👉Cto 60 La Sierra",
+    "timestamp": 1752374265,
+    "timestamp_local": 1752374265
+  },
+  {
+    "id": 24961,
+    "fecha": "12 de Jul del 2025 a las 10:36 PM",
+    "hora_utc": "2025-07-13 02:36",
+    "mensaje": "💡 Restablecido el servicio eléctrico en los siguientes circuitos\n🔹Bloque 6\nMunicipio Santa Clara\n👉 Cto 141 Manuelita",
+    "timestamp": 1752374181,
+    "timestamp_local": 1752374181
+  },
+  {
+    "id": 24960,
+    "fecha": "12 de Jul del 2025 a las 10:05 PM",
+    "hora_utc": "2025-07-13 02:05",
+    "mensaje": "💡 Restablecido el servicio eléctrico en los siguientes circuitos\nMunicipio Camajuani\n👉Cto 78 Jutiero \n👉Cto 77,59,185 Vueltas",
+    "timestamp": 1752372319,
+    "timestamp_local": 1752372319
+  },
+  {
+    "id": 24959,
+    "fecha": "12 de Jul del 2025 a las 10:01 PM",
+    "hora_utc": "2025-07-13 02:01",
+    "mensaje": "💡Restablecido el servicio eléctrico en el circuito 126 Emilio Córdova perteneciente al municipio de Encrucijada",
+    "timestamp": 1752372111,
+    "timestamp_local": 1752372111
+  },
+  {
+    "id": 24957,
+    "fecha": "12 de Jul del 2025 a las 09:56 PM",
+    "hora_utc": "2025-07-13 01:56",
+    "mensaje": "Culminan las labores de reparación en la Subestación Villa Alegre.",
+    "timestamp": 1752371774,
+    "timestamp_local": 1752371774
+  },
+  {
     "id": 24956,
     "fecha": "12 de Jul del 2025 a las 09:30 PM",
     "hora_utc": "2025-07-13 01:30",
@@ -54,77 +142,5 @@
     "mensaje": "‼️Sabia Usted‼️\n**¿Qué es un disparo de circuito y porque ocurre?**\n✍️Los disparos de circuito tienen diferentes aristas todas con distintos significados, es decir que ocurren por varias causas. Entre ellas encontramos:\n\n**👉Disparo de Circuito con Recierre**: El conocido por los clientes como “quita y pon de corriente” es un tipo de protección utilizada mundialmente a partir del 80% aproximadamente de las interrupciones eléctricas son transitorias. Este fenómeno lo hace una sola vez ante un evento de red y no es dañino para para nuestros equipos electrodomésticos. \n\n**👉** **Disparo Automático por Frecuencia (DAF):**  El disparo por DAF ocurre cuando la frecuencia llega a valores mínimos permisibles que ponen en peligro la estabilidad del mismo y como protección desconecta varios circuitos de la Capital. Los mismo restablecen a medida que se vaya recuperando la frecuencia que tiene un valor de 60hz o ciclos por segundo.\n\n👉**Disparo de Circuito por Sobrecarga: **Este ocurre mayormente en los horarios pico y en verano, ya que las altas temperaturas generan elevados consumos en la población y como consecuencia de ello fallas en los circuitos.\n\n👉**Disparo de Circuito por posible Avería**: Este fenómeno ocurre cuando existe una falla en algún circuito, ya sea soterrado, aéreo o en una subestación. Estas, a pesar de que son mucho más frecuentes cuando existe algún evento climatológico, pueden ocurrir en cualquier momento del día o la noche, ya que son situaciones que no cuentan con programación.",
     "timestamp": 1752363615,
     "timestamp_local": 1752363615
-  },
-  {
-    "id": 24946,
-    "fecha": "12 de Jul del 2025 a las 07:12 PM",
-    "hora_utc": "2025-07-12 23:12",
-    "mensaje": "Concluye el traslado de transformador hacia la Subestación Villa Alegre del municipio de Sagua donde brigadas y especialistas de nuestra Empresa creaban las condiciones necesarias para el montaje del mismo para brindarle el servicio eléctrico a nuestros clientes en el menor tiempo posible.",
-    "timestamp": 1752361929,
-    "timestamp_local": 1752361929
-  },
-  {
-    "id": 24945,
-    "fecha": "12 de Jul del 2025 a las 06:59 PM",
-    "hora_utc": "2025-07-12 22:59",
-    "mensaje": "⚠️Afectados por déficit de capacidad de generación los siguientes circuitos\n🔹Bloque 9\nMunicipio Placetas \n👉Cto 101 y 145 Cumbre",
-    "timestamp": 1752361161,
-    "timestamp_local": 1752361161
-  },
-  {
-    "id": 24944,
-    "fecha": "12 de Jul del 2025 a las 06:34 PM",
-    "hora_utc": "2025-07-12 22:34",
-    "mensaje": "Afectados 113 MW en la provincia, demanda máxima posible a apagar en estos momentos.",
-    "timestamp": 1752359666,
-    "timestamp_local": 1752359666
-  },
-  {
-    "id": 24943,
-    "fecha": "12 de Jul del 2025 a las 06:33 PM",
-    "hora_utc": "2025-07-12 22:33",
-    "mensaje": "🕕Actualización del servicio eléctrico en las últimas 6 horas.\n✍️El déficit de capacidad de generación osciló entre los 68 MW y los 113 MW.\n✍️De los 156 circuitos apagables que presenta la provincia, se mantienen afectados 102 circuitos.\n✍️ Cuenta con 172 afectaciones por averías secundarias y de servicio:\n Corralillo (1)\n Encrucijada (3)\n Manicaragua (33)\n Placetas (3)\n Ranchuelo (3)\n Remedios (5) \n Sagua (2) \n Santa Clara (70)\n Santo Domingo (17)\n🛠️Se encuentran 8 averías en vías de solución.\n🛠️Pendientes a solucionar por el área técnica 27.\nLa provincia no presenta averías primarias.\n\n⚡Avería⚡\n⚡Afectados los Ctos 50 y 147 pertenecientes a la Sub Eléctrica de Villa Alegre , municipio de Sagua por Transformador dañado en la Sub.\n🛠️Afecatdo parcialmente el Cto 15(Maleza) para cambio de Transformador en la CPA Ovidio Rivero.",
-    "timestamp": 1752359617,
-    "timestamp_local": 1752359617
-  },
-  {
-    "id": 24942,
-    "fecha": "12 de Jul del 2025 a las 06:00 PM",
-    "hora_utc": "2025-07-12 22:00",
-    "mensaje": "🛠️Vía Libre🛠️\n\nAfectado el Cto 15(Maleza) para cambio de Transformador en la CPA Ovidio Rivero, quedara afectado el Cto parcialmente hasta terminar el trabajo, brigadas de nuestra empresa trabajan para dar servicio en el menor tiempo posible.",
-    "timestamp": 1752357630,
-    "timestamp_local": 1752357630
-  },
-  {
-    "id": 24941,
-    "fecha": "12 de Jul del 2025 a las 05:52 PM",
-    "hora_utc": "2025-07-12 21:52",
-    "mensaje": "⚠️Afectados por déficit de capacidad de generación los siguientes circuitos:\n\n🔹Bloque 1\nMunicipio Encrucijada\n👉Cto 120 Calabazar\n👉Ctos 121 y 127 Perucho\nMunicipio Manicaragua:\n👉Ctos 109 y 150\n👉Ctos 108 y 110 La Piedra\n👉Cto 111 Mataguá\n🔹Bloque 2\nMunicipio Camajuaní:\n👉Ctos 72 y 129\n👉Cto 75 La Quinta\n👉Cto 157 Luis Arcos Bergnes\n👉Ctos 76 y 90 Vega Alta\n🔹Bloque 7\nMunicipio Ranchuelo: \n👉Ctos 89, 97, 188 y 189\n👉Ctos 148 y 149 San Juan\n👉Cto 91 Batey Osvaldo Herrera\n👉Cto 181 Batey Ifraín Alfonso",
-    "timestamp": 1752357176,
-    "timestamp_local": 1752357176
-  },
-  {
-    "id": 24940,
-    "fecha": "12 de Jul del 2025 a las 05:48 PM",
-    "hora_utc": "2025-07-12 21:48",
-    "mensaje": "💡Restablecido el servicio eléctrico en el Cto 95 (Bermejal), municipio de Santo Domingo.",
-    "timestamp": 1752356882,
-    "timestamp_local": 1752356882
-  },
-  {
-    "id": 24939,
-    "fecha": "12 de Jul del 2025 a las 05:45 PM",
-    "hora_utc": "2025-07-12 21:45",
-    "mensaje": "💡Será  restablecido el servicio eléctrico en los siguientes circuitos:Municipio Santo Domingo:\n👉Cto 195 Batey George Washington\n👉Ctos 83 y 165 Manacas\n👉Ctos 85 y 86 Pajarito\n👉Ctos 160 y 161 Cascajal",
-    "timestamp": 1752356759,
-    "timestamp_local": 1752356759
-  },
-  {
-    "id": 24938,
-    "fecha": "12 de Jul del 2025 a las 05:42 PM",
-    "hora_utc": "2025-07-12 21:42",
-    "mensaje": "⚠️Afectados por déficit de capacidad de generación los siguientes circuitos:\n🔹Bloque 6\nMunicipio Ranchuelo:\n👉Cto 92 Esperanza (Pueblo)\n👉Cto 93 Esperanza (Campo)\n🔹Bloque 5\nMunicipio Santo Domingo:\n👉Cto 134\n👉Cto 187 Batey Carlos Baliño",
-    "timestamp": 1752356540,
-    "timestamp_local": 1752356540
   }
 ]
