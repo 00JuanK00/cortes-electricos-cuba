@@ -1,5 +1,21 @@
 [
   {
+    "id": 31597,
+    "fecha": "13 de Jul del 2025 a las 05:09 AM",
+    "hora_utc": "2025-07-13 09:09",
+    "mensaje": "⛔Se mantienen afectados por déficit los siguientes circuitos   \n\n➡️1940 San Antonio\n➡️1570 Artemisa Candelaria\n\n❌ Tenemos una afectación de 116 MW",
+    "timestamp": 1752397747,
+    "timestamp_local": 1752397747
+  },
+  {
+    "id": 31596,
+    "fecha": "13 de Jul del 2025 a las 05:09 AM",
+    "hora_utc": "2025-07-13 09:09",
+    "mensaje": "⛔Se mantiene afectado por déficit el siguiente circuito \n\n➡️ 3305 de Güira de Melena\n\n❌ Tenemos una afectación de 116 MW",
+    "timestamp": 1752397740,
+    "timestamp_local": 1752397740
+  },
+  {
     "id": 31595,
     "fecha": "13 de Jul del 2025 a las 01:32 AM",
     "hora_utc": "2025-07-13 05:32",
@@ -27,7 +43,7 @@
     "id": 31592,
     "fecha": "13 de Jul del 2025 a las 12:36 AM",
     "hora_utc": "2025-07-13 04:36",
-    "mensaje": "⛔Se mantiene afectado por déficit el siguiente circuito \n\n➡️1580 de Alquizar\n\n❌ Tenemos una afectación de 150 MW",
+    "mensaje": "❌ Tenemos una afectación de 150 MW",
     "timestamp": 1752381369,
     "timestamp_local": 1752381369
   },
@@ -35,7 +51,7 @@
     "id": 31591,
     "fecha": "13 de Jul del 2025 a las 12:23 AM",
     "hora_utc": "2025-07-13 04:23",
-    "mensaje": "⛔Se mantiene afectado por déficit el siguiente circuito \n\n➡️3220 de San Antonio \n\n❌ Tenemos una afectación de 150 MW",
+    "mensaje": "❌ Tenemos una afectación de 150 MW",
     "timestamp": 1752380617,
     "timestamp_local": 1752380617
   },
@@ -142,21 +158,5 @@
     "mensaje": "❌ Tenemos una afectación de 117 MW",
     "timestamp": 1752362548,
     "timestamp_local": 1752362548
-  },
-  {
-    "id": 31577,
-    "fecha": "12 de Jul del 2025 a las 07:17 PM",
-    "hora_utc": "2025-07-12 23:17",
-    "mensaje": "✅Restablecido el circuito 1570 que estaba afectado por sobrecarga",
-    "timestamp": 1752362222,
-    "timestamp_local": 1752362222
-  },
-  {
-    "id": 31576,
-    "fecha": "12 de Jul del 2025 a las 06:53 PM",
-    "hora_utc": "2025-07-12 22:53",
-    "mensaje": "⛔Se mantienen afectados por déficit el siguiente circuito \n\n➡️246 de Bahía Honda excepto la parte del hospital \n\n❌ Tenemos una afectación de 99  MW",
-    "timestamp": 1752360810,
-    "timestamp_local": 1752360810
   }
 ]
