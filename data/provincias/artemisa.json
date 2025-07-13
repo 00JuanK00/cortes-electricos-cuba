@@ -1,5 +1,21 @@
 [
   {
+    "id": 31595,
+    "fecha": "13 de Jul del 2025 a las 01:32 AM",
+    "hora_utc": "2025-07-13 05:32",
+    "mensaje": "❌Tenemos una afectación de 135 MW",
+    "timestamp": 1752384746,
+    "timestamp_local": 1752384746
+  },
+  {
+    "id": 31594,
+    "fecha": "13 de Jul del 2025 a las 01:30 AM",
+    "hora_utc": "2025-07-13 05:30",
+    "mensaje": "❌Circuito 3 de Junco en Güira de Melena está en avería pendiente a recorrer de día",
+    "timestamp": 1752384624,
+    "timestamp_local": 1752384624
+  },
+  {
     "id": 31593,
     "fecha": "13 de Jul del 2025 a las 12:39 AM",
     "hora_utc": "2025-07-13 04:39",
@@ -35,7 +51,7 @@
     "id": 31589,
     "fecha": "12 de Jul del 2025 a las 11:54 PM",
     "hora_utc": "2025-07-13 03:54",
-    "mensaje": "⛔Se mantienen afectados por déficit el siguiente circuito \n\n➡️3517 de Mariel\n\n❌ Tenemos una afectación de 161  MW",
+    "mensaje": "❌ Tenemos una afectación de 161  MW",
     "timestamp": 1752378893,
     "timestamp_local": 1752378893
   },
@@ -51,7 +67,7 @@
     "id": 31587,
     "fecha": "12 de Jul del 2025 a las 11:20 PM",
     "hora_utc": "2025-07-13 03:20",
-    "mensaje": "⛔Se mantienen afectados por déficit los siguientes circuitos   \n\n➡️ 1500 de Artemisa\n➡️3305 de Güira de Melena\n\n❌ Tenemos una afectación de 161 MW",
+    "mensaje": "⛔Se mantienen afectados por déficit los siguientes circuitos   \n\n➡️ 1500 de Artemisa\n\n❌ Tenemos una afectación de 161 MW",
     "timestamp": 1752376831,
     "timestamp_local": 1752376831
   },
@@ -142,21 +158,5 @@
     "mensaje": "⛔Se mantienen afectados por déficit el siguiente circuito \n\n➡️246 de Bahía Honda excepto la parte del hospital \n\n❌ Tenemos una afectación de 99  MW",
     "timestamp": 1752360810,
     "timestamp_local": 1752360810
-  },
-  {
-    "id": 31575,
-    "fecha": "12 de Jul del 2025 a las 06:46 PM",
-    "hora_utc": "2025-07-12 22:46",
-    "mensaje": "✅ Restablecida la Vía libre del circuito A1270 de Artemisa",
-    "timestamp": 1752360408,
-    "timestamp_local": 1752360408
-  },
-  {
-    "id": 31574,
-    "fecha": "12 de Jul del 2025 a las 06:45 PM",
-    "hora_utc": "2025-07-12 22:45",
-    "mensaje": "❌Circuito 1570 abierto por sobrecarga",
-    "timestamp": 1752360352,
-    "timestamp_local": 1752360352
   }
 ]
