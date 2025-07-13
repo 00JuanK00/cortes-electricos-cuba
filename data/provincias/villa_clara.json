@@ -1,9 +1,41 @@
 [
   {
+    "id": 24994,
+    "fecha": "13 de Jul del 2025 a las 07:06 AM",
+    "hora_utc": "2025-07-13 11:06",
+    "mensaje": "💡Será restablecido el servicio eléctrico en los siguientes circuitos\n🔹Bloque 1\nMunicipio Manicaragua:\n👉Ctos 109 y 150\n👉Ctos 108 y 110 La Piedra\n👉Cto 111 Mataguá",
+    "timestamp": 1752404808,
+    "timestamp_local": 1752404808
+  },
+  {
+    "id": 24993,
+    "fecha": "13 de Jul del 2025 a las 07:05 AM",
+    "hora_utc": "2025-07-13 11:05",
+    "mensaje": "⚠️Serán afectados por déficit de capacidad de generación los siguientes circuitos\n🔹Bloque 5 \nMunicipio Santo Domingo:👉Cto 134\n👉Ctos 87 y 96 Bermejal\n👉Cto 187 Batey Carlos Baliño\n👉Cto 82 Ulacia\n👉Cto 84 Rodrigo",
+    "timestamp": 1752404705,
+    "timestamp_local": 1752404705
+  },
+  {
+    "id": 24992,
+    "fecha": "13 de Jul del 2025 a las 07:03 AM",
+    "hora_utc": "2025-07-13 11:03",
+    "mensaje": "💡Restablecido el servicio eléctrico en los siguientes circuitos\n🔹Bloque 7 \nMunicipio Camajuaní:\n👉Ctos 73 y 156 \n👉Cto 74 José María Pérez",
+    "timestamp": 1752404597,
+    "timestamp_local": 1752404597
+  },
+  {
+    "id": 24991,
+    "fecha": "13 de Jul del 2025 a las 07:01 AM",
+    "hora_utc": "2025-07-13 11:01",
+    "mensaje": "⚠️Afectados por déficit de capacidad de generación los siguientes circuitos\n🔹Bloque 10\nMunicipio Placetas\n👉98 y 99 Placetas",
+    "timestamp": 1752404485,
+    "timestamp_local": 1752404485
+  },
+  {
     "id": 24990,
     "fecha": "13 de Jul del 2025 a las 06:37 AM",
     "hora_utc": "2025-07-13 10:37",
-    "mensaje": "🕕Actualización del servicio eléctrico en las últimas 6 horas.\n✍️El déficit de capacidad de generación osciló entre los 121 MW y los 99MW.\n✍️De los 156 circuitos apagables que presenta la provincia, se mantienen afectados 126 circuitos.\n✍️ Cuenta con 120 afectaciones por averías secundarias y de servicio:\nCamajuani (1)\nManicaragua (29)\n\nPlacetas (3)\nRanchuelo (2)\nRemedios (6)\nSanta Clara (64)\n\nSanto Domingo (18)\n🛠️Se encuentra 1 averías en vías de solución.\n🛠️Pendientes a solucionar por el área técnica 32\nLa provincia no presenta averías primarias.",
+    "mensaje": "🕕Actualización del servicio eléctrico en las últimas 6 horas.\n✍️El déficit de capacidad de generación osciló entre los 121 MW y los 99MW.\n✍️De los 156 circuitos apagables que presenta la provincia, se mantienen afectados 126 circuitos.\n✍️ Cuenta con 120 afectaciones por averías secundarias y de servicio:\nCamajuani (1)\nManicaragua (29)\nPlacetas (3)\nRanchuelo (2)\nRemedios (6)\nSanta Clara (64)\nSanto Domingo (18)\n🛠️Se encuentra 1 averías en vías de solución.\n🛠️Pendientes a solucionar por el área técnica 32\nLa provincia no presenta averías primarias.",
     "timestamp": 1752403037,
     "timestamp_local": 1752403037
   },
@@ -118,37 +150,5 @@
     "mensaje": "🛠Disparo por 110kV Santa Clara- La Moza, se encuentran afectados los siguientes circuitos:\nMunicipio Manicaragua \n👉Cto 112 Hoyo Manicaragua \n👉Ctos 113 y 137 La Campana\n👉Ctos 109 y 150 \n👉Ctos 108 y 110 La piedra \n👉Cto 111 Matagua",
     "timestamp": 1752381571,
     "timestamp_local": 1752381571
-  },
-  {
-    "id": 24973,
-    "fecha": "13 de Jul del 2025 a las 12:31 AM",
-    "hora_utc": "2025-07-13 04:31",
-    "mensaje": "💡Será restablecido el servicio eléctrico en los siguientes circuitos\n🔹Bloque 11\nMunicipio Remedios:👉Ctos 67 y 152, 68 y 118 \n👉Ctos 69 y 70 Zuluetas\n👉Cto 143 Batey Heriberto Duquesne\n👉Cto 71 Buena Vista",
-    "timestamp": 1752381101,
-    "timestamp_local": 1752381101
-  },
-  {
-    "id": 24972,
-    "fecha": "13 de Jul del 2025 a las 12:24 AM",
-    "hora_utc": "2025-07-13 04:24",
-    "mensaje": "⚠️Serán afectados por déficit de capacidad de generación los siguientes circuitos\nBloque 10\nMunicipio Placetas \n👉100 y 151 Placetas\n👉Cto 104 Hermanos Almejeiras",
-    "timestamp": 1752380650,
-    "timestamp_local": 1752380650
-  },
-  {
-    "id": 24970,
-    "fecha": "13 de Jul del 2025 a las 12:00 AM",
-    "hora_utc": "2025-07-13 04:00",
-    "mensaje": "🕛Actualización del servicio eléctrico en las últimas 6 horas.\n✍️El déficit de capacidad de generación osciló entre los 113 MW y los 121 MW.\n✍️De los 156 circuitos apagables que presenta la provincia, se mantienen afectados 122 circuitos.\n✍️ Cuenta con 172 afectaciones por averías secundarias y de servicio:\nCorralillo (1)\nCamajuani (1)\nManicaragua (29)\nPlacetas (3)\nRemedios (6)\nSagua (3)\nSanta Clara (73)\nSanto Domingo (18)\n🛠️Se encuentran 5 averías en vías de solución.\n🛠️Pendientes a solucionar por el área técnica 30.\nLa provincia no presenta averías primarias.",
-    "timestamp": 1752379242,
-    "timestamp_local": 1752379242
-  },
-  {
-    "id": 24969,
-    "fecha": "12 de Jul del 2025 a las 11:51 PM",
-    "hora_utc": "2025-07-13 03:51",
-    "mensaje": "⚠️Serán afectados por déficit de capacidad de generación los siguientes circuitos:\n🔹Bloque 2\nMunicipio Cifuentes:\nCtos 114 y 117\nCtos 116 y 155 Mata\nCto 186 Batey Unidad Proletaria\nCto 184 Sitio Grande",
-    "timestamp": 1752378694,
-    "timestamp_local": 1752378694
   }
 ]
