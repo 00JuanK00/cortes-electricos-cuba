@@ -1,5 +1,21 @@
 [
   {
+    "id": 22672,
+    "fecha": "13 de Jul del 2025 a las 04:04 AM",
+    "hora_utc": "2025-07-13 08:04",
+    "mensaje": "Tenemos afectados por déficit de capacidad de generación en nuestra provincia 97 MW.",
+    "timestamp": 1752393882,
+    "timestamp_local": 1752393882
+  },
+  {
+    "id": 22671,
+    "fecha": "13 de Jul del 2025 a las 03:58 AM",
+    "hora_utc": "2025-07-13 07:58",
+    "mensaje": "Terminología eléctrica: \n⚠️Disparo automático por frecuencia (DAF).\nUn disparo por frecuencia o Descarga Automática por Frecuencia (DAF) , es una protección que posee el sistema eléctrico para cuando la frecuencia llega a valores mínimos permisibles que ponen en peligro la estabilidad de todo el sistema en su conjunto y provoca una desconexión automática de algunos circuitos hasta que se vuelva a recuperar su valor nominal a 60Hz o ciclos por segundo.\n\nAnte cualquier anomalía con el servicio eléctrico, usted debe llamar al 18888 y reportar la queja. Las operadoras en línea deben darle un número de reporte, guárdelo por si necesita llamar nuevamente para saber en qué proceso se encuentra la misma.",
+    "timestamp": 1752393530,
+    "timestamp_local": 1752393530
+  },
+  {
     "id": 22670,
     "fecha": "13 de Jul del 2025 a las 03:03 AM",
     "hora_utc": "2025-07-13 07:03",
@@ -134,21 +150,5 @@
     "mensaje": "Tenemos afectados por déficit de capacidad de generación en nuestra provincia 92 MW.",
     "timestamp": 1752355728,
     "timestamp_local": 1752355728
-  },
-  {
-    "id": 22652,
-    "fecha": "12 de Jul del 2025 a las 05:01 PM",
-    "hora_utc": "2025-07-12 21:01",
-    "mensaje": "Tenemos afectados por déficit de capacidad de generación en nuestra provincia 82 MW.",
-    "timestamp": 1752354095,
-    "timestamp_local": 1752354095
-  },
-  {
-    "id": 22651,
-    "fecha": "12 de Jul del 2025 a las 04:46 PM",
-    "hora_utc": "2025-07-12 20:46",
-    "mensaje": "Tenemos afectados por déficit de capacidad de generación en nuestra provincia 72 MW.",
-    "timestamp": 1752353202,
-    "timestamp_local": 1752353202
   }
 ]
