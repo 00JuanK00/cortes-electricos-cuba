@@ -1,5 +1,21 @@
 [
   {
+    "id": 22692,
+    "fecha": "13 de Jul del 2025 a las 01:21 PM",
+    "hora_utc": "2025-07-13 17:21",
+    "mensaje": "En estos momentos tenemos afectados por déficit de capacidad de generación 101 MW en la provincia",
+    "timestamp": 1752427272,
+    "timestamp_local": 1752427272
+  },
+  {
+    "id": 22691,
+    "fecha": "13 de Jul del 2025 a las 01:18 PM",
+    "hora_utc": "2025-07-13 17:18",
+    "mensaje": "📢  Nota Informativa - Situación del SEN al 13 de julio de 2025\n\nEn el día de ayer se afectó el servicio las 24 horas y se mantuvo afectado durante toda la madrugada de hoy. La máxima afectación en el día de ayer fue de 1431 MW a las 22:40 horas, coincidente con la hora de máxima demanda. \n\n☀️ Producción de energía de los 19 parques solares fotovoltaicos: 2165 MWh, con 503 MW como máxima potencia entregada en el horario de la media.\n\n🔧 Estado actual:\n\nDisponibilidad: 2110 MW.\nDemanda: 3170 MW.\nAfectación actual: 1090 MW. \nPronóstico para el mediodía: 1050 MW afectados.\n\n🔴 Pronóstico para el horario pico:\nSe proyecta una disponibilidad de 2300 MW y una demanda de 3600 MW, lo que generaría un déficit de 1300 MW, para una afectación de 1370 MW.",
+    "timestamp": 1752427123,
+    "timestamp_local": 1752427123
+  },
+  {
     "id": 22690,
     "fecha": "13 de Jul del 2025 a las 01:07 PM",
     "hora_utc": "2025-07-13 17:07",
@@ -134,21 +150,5 @@
     "mensaje": "Tenemos afectados por déficit de capacidad de generación en nuestra provincia 97 MW.",
     "timestamp": 1752393882,
     "timestamp_local": 1752393882
-  },
-  {
-    "id": 22671,
-    "fecha": "13 de Jul del 2025 a las 03:58 AM",
-    "hora_utc": "2025-07-13 07:58",
-    "mensaje": "Terminología eléctrica: \n⚠️Disparo automático por frecuencia (DAF).\nUn disparo por frecuencia o Descarga Automática por Frecuencia (DAF) , es una protección que posee el sistema eléctrico para cuando la frecuencia llega a valores mínimos permisibles que ponen en peligro la estabilidad de todo el sistema en su conjunto y provoca una desconexión automática de algunos circuitos hasta que se vuelva a recuperar su valor nominal a 60Hz o ciclos por segundo.\n\nAnte cualquier anomalía con el servicio eléctrico, usted debe llamar al 18888 y reportar la queja. Las operadoras en línea deben darle un número de reporte, guárdelo por si necesita llamar nuevamente para saber en qué proceso se encuentra la misma.",
-    "timestamp": 1752393530,
-    "timestamp_local": 1752393530
-  },
-  {
-    "id": 22670,
-    "fecha": "13 de Jul del 2025 a las 03:03 AM",
-    "hora_utc": "2025-07-13 07:03",
-    "mensaje": "Tenemos afectados por déficit de capacidad de generación en nuestra provincia 131 MW.",
-    "timestamp": 1752390210,
-    "timestamp_local": 1752390210
   }
 ]
