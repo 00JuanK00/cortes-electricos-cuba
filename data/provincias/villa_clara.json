@@ -1,5 +1,21 @@
 [
   {
+    "id": 25006,
+    "fecha": "13 de Jul del 2025 a las 11:00 AM",
+    "hora_utc": "2025-07-13 15:00",
+    "mensaje": "⚡Afectada por disparo la Línea 108 donde están afectados los circuitos siguientes:\n🔹Línea 108\n👉Municipio Ranchuelo:\nCto 92 Esperanza (Pueblo)\nCto 93 Esperanza (Campo)\nCto 54, 94 y 95 Jicotea  \n\n👉Municipio Santa Clara:\nCtos 26 y 141 (Manuelita)\n\nCto 191 (Quemado de Hilario)\n👉Municipio Santo Domingo:\nCto 195 Batey George Washington\nCtos 83 y 165 Manacas\nCtos 85 y 86 Pajarito\n\nCtos 160 y 161 Cascajal\n👉Municipio Santo Domingo:\nCto 134\nCtos 87 y 96 Bermejal\nCto 187 Batey Carlos Baliño\nCto 82 Ulacia\nCto 84 Rodrigo",
+    "timestamp": 1752418810,
+    "timestamp_local": 1752418810
+  },
+  {
+    "id": 25005,
+    "fecha": "13 de Jul del 2025 a las 10:53 AM",
+    "hora_utc": "2025-07-13 14:53",
+    "mensaje": "⚡Continúa en avería por 110kV la Línea 332 perteneciente al municipio Manicaragua donde están afectados los siguientes circuitos:\n👉Municipio Manicaragua:\nCtos 113 y 137 La Campana\nCto 112 Hoyo Manicaragua",
+    "timestamp": 1752418395,
+    "timestamp_local": 1752418395
+  },
+  {
     "id": 25003,
     "fecha": "13 de Jul del 2025 a las 10:00 AM",
     "hora_utc": "2025-07-13 14:00",
@@ -118,21 +134,5 @@
     "mensaje": "✍️Ante cualquier duda con la terminología eléctrica, les volvemos explicar: \n     \n✅Las averías pueden ser primarias (afecta un volumen grande de población pues son las líneas de distribución a 13.8kV y puede afectar varias manzanas, incluso repartos completos).\n\n✅Secundarias (afecta a todos los clientes que se alimenten del mismo transformador, puede afectar una o varias cuadras). \n\n✅De servicio (afectan 1 solo cliente o instalación generalmente producto a daños en la acometida, metro contador, etc.).",
     "timestamp": 1752394095,
     "timestamp_local": 1752394095
-  },
-  {
-    "id": 24986,
-    "fecha": "13 de Jul del 2025 a las 04:06 AM",
-    "hora_utc": "2025-07-13 08:06",
-    "mensaje": "🔸Actualización del servicio eléctrico en la provincia.🔸\n✍️De los 156 circuitos apagables que presenta la provincia, se mantienen afectados 122 circuitos.\n✍️En el momento de hacer esta nota la provincia tiene\n 100 MW de afectación por déficit de capacidad de generación, demanda máxima posible a apagar.\n✍️Cuenta con 120 afectaciones por averías secundarias y de servicio.",
-    "timestamp": 1752393997,
-    "timestamp_local": 1752393997
-  },
-  {
-    "id": 24985,
-    "fecha": "13 de Jul del 2025 a las 02:42 AM",
-    "hora_utc": "2025-07-13 06:42",
-    "mensaje": "⚠️Afectados por déficit de capacidad de generación los siguientes circuitos:\n🔹Bloque 7 \nMunicipio Camajuaní:\n👉Ctos 73 y 156 \n👉Cto 74 José María Pérez",
-    "timestamp": 1752388925,
-    "timestamp_local": 1752388925
   }
 ]
