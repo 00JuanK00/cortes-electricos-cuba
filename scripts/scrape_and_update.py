@@ -54,12 +54,18 @@ def get_bot_file_url(file_id):
         return None
 
 def get_public_media_url(msg, channel_username):
-    """Genera enlaces públicos alternativos cuando falla la API de bots"""
+    """Genera URLs compatibles con Glide"""
     try:
-        if hasattr(msg.media, 'photo') or hasattr(msg.media, 'document'):
-            return f"https://t.me/{channel_username}/{msg.id}?embed=1&mode=tme"
+        if hasattr(msg.media, 'photo'):
+            # Para fotos en canales públicos
+            return f"https://cdn4.telegram-cdn.org/file/{msg.media.photo.id}.jpg"
+            
+        elif hasattr(msg.media, 'document') and 'image' in msg.document.mime_type:
+            # Para documentos/imágenes
+            return f"https://cdn4.telegram-cdn.org/file/{msg.document.id}.jpg"
+            
     except Exception as e:
-        logger.error(f"Error generando enlace público: {str(e)}")
+        logger.error(f"Error generando URL: {str(e)}")
     return None
 
 def get_media_url(msg, channel_username):
