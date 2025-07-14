@@ -6,6 +6,7 @@ from telethon.sessions import StringSession
 from datetime import datetime
 import logging
 from pytz import timezone
+from collections import Counter  # Importación movida aquí
 
 # Configuración de logging
 logging.basicConfig(level=logging.INFO)
@@ -55,17 +56,10 @@ def get_bot_file_url(file_id):
 def get_public_media_url(msg, channel_username):
     """Genera enlaces públicos alternativos cuando falla la API de bots"""
     try:
-        # Para fotos en canales públicos
-        if hasattr(msg.media, 'photo'):
+        if hasattr(msg.media, 'photo') or hasattr(msg.media, 'document'):
             return f"https://t.me/{channel_username}/{msg.id}?embed=1&mode=tme"
-            
-        # Para documentos en canales públicos
-        elif hasattr(msg.media, 'document'):
-            return f"https://t.me/{channel_username}/{msg.id}?embed=1&mode=tme"
-            
     except Exception as e:
         logger.error(f"Error generando enlace público: {str(e)}")
-        
     return None
 
 def get_media_url(msg, channel_username):
@@ -76,7 +70,6 @@ def get_media_url(msg, channel_username):
     try:
         file_id = None
         
-        # Identificar tipo de medio
         if hasattr(msg.media, 'photo'):
             file_id = msg.media.photo.id
         elif hasattr(msg.media, 'document') and 'image' in msg.document.mime_type:
@@ -84,13 +77,11 @@ def get_media_url(msg, channel_username):
         elif hasattr(msg.media, 'sticker'):
             file_id = msg.media.sticker.id
             
-        # Método 1: API oficial de bots (preferido)
         if file_id:
             bot_url = get_bot_file_url(file_id)
             if bot_url:
                 return bot_url
                 
-        # Método 2: Enlace público alternativo
         public_url = get_public_media_url(msg, channel_username)
         if public_url:
             logger.info(f"Usando enlace público para {channel_username}/{msg.id}")
@@ -100,6 +91,19 @@ def get_media_url(msg, channel_username):
         logger.error(f"Error procesando medios: {str(e)}", exc_info=True)
         
     return None
+
+def get_media_type(msg):
+    """Identifica el tipo de medio adjunto"""
+    if not msg.media:
+        return None
+        
+    if hasattr(msg.media, 'photo'):
+        return "foto"
+    elif hasattr(msg.media, 'document'):
+        return "documento"
+    elif hasattr(msg.media, 'sticker'):
+        return "sticker"
+    return "otro"
 
 def scrape_channel(client, channel):
     try:
@@ -114,8 +118,8 @@ def scrape_channel(client, channel):
                     "fecha": cuba_time.strftime("%d de %b del %Y a las %I:%M %p"),
                     "mensaje": msg.text if msg.text else "[Contenido multimedia]",
                     "timestamp": int(msg.date.timestamp()),
-                    "media_url": get_media_url(msg, channel['username']),  # Pasa el username del canal
-                    "tipo_medio": get_media_type(msg)  # Nuevo: identifica tipo de medio
+                    "media_url": get_media_url(msg, channel['username']),
+                    "tipo_medio": get_media_type(msg)
                 }
                 processed_messages.append(message_data)
         
@@ -124,19 +128,6 @@ def scrape_channel(client, channel):
     except Exception as e:
         logger.error(f"Error en {channel['name']}: {str(e)}", exc_info=True)
         return []
-
-def get_media_type(msg):
-    """Identifica el tipo de medio adjunto"""
-    if not msg.media:
-        return None
-        
-    if hasattr(msg.media, 'photo'):
-        return "foto"
-    elif hasattr(msg.media, 'document'):
-        return "documento"
-    elif hasattr(msg.media, 'sticker'):
-        return "sticker"
-    return "otro"
 
 def save_data(channel_name, data):
     filename = f"{DATA_DIR}/{channel_name}.json"
@@ -158,12 +149,13 @@ def main():
                 if messages:
                     save_data(channel['name'], messages)
                     media_count = sum(1 for m in messages if m.get('media_url'))
-                    logger.info(f"✅ {len(messages)} mensajes | {media_count} con medios | Tipos: {Counter(m['tipo_medio'] for m in messages if m['tipo_medio']})")
+                    # LÍNEA CORREGIDA:
+                    tipos_medio = Counter(m['tipo_medio'] for m in messages if m.get('tipo_medio'))
+                    logger.info(f"✅ {len(messages)} mensajes | {media_count} con medios | Tipos: {tipos_medio}")
                     
     except Exception as e:
         logger.error(f"Error fatal: {str(e)}", exc_info=True)
         raise
 
 if __name__ == '__main__':
-    from collections import Counter
     main()
