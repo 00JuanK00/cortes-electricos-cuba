@@ -1,7 +1,7 @@
 name: Actualización Multi-Provincial
 on:
   schedule:
-     - cron: '*/45 * * * *'  # Ejecutar cada 45 minutos
+    - cron: '*/45 * * * *'  # Ejecutar cada 45 minutos
   workflow_dispatch:        # Permite ejecución manual
 
 jobs:
@@ -9,6 +9,7 @@ jobs:
     runs-on: ubuntu-latest
     permissions:
       contents: write       # Permisos explícitos de escritura
+    timeout-minutes: 15     # Nuevo: timeout para evitar ejecuciones largas
 
     steps:
       - name: Checkout repo
@@ -26,7 +27,7 @@ jobs:
       - name: Install dependencies
         run: |
           python -m pip install --upgrade pip
-          pip install telethon requests pytz  # Añadido pytz aquí
+          pip install telethon requests pytz  # requests es necesario para la API de bots
           sudo apt-get install -y jq
 
       - name: Run multi-province scraper
@@ -34,25 +35,31 @@ jobs:
           API_ID: ${{ secrets.API_ID }}
           API_HASH: ${{ secrets.API_HASH }}
           TELEGRAM_SESSION: ${{ secrets.TELEGRAM_SESSION }}
+          TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}  # Nuevo: Token para URLs permanentes
         run: |
+          # Verifica que los medios se procesen correctamente
           python scripts/scrape_and_update.py
-          echo "Provincias actualizadas:"
-          ls -l data/provincias/ | grep .json
+          echo "=== Resumen de medios ==="
+          find data/provincias -name "*.json" -exec grep -l "media_url" {} \; | xargs -I {} sh -c 'echo "{}: $(grep -c "media_url" {}) medios"'
+          echo "========================="
 
       - name: Get changed provinces
         id: changes
         run: |
-          # Obtiene lista de provincias modificadas
-          git diff --name-only HEAD | grep 'data/provincias/' > changed_files.txt
+          # Obtiene lista de provincias y medios modificados
+          git diff --name-only HEAD | grep -E 'data/provincias/.*\.json' > changed_files.txt
           if [ -s changed_files.txt ]; then
             echo "Modified provinces:"
             cat changed_files.txt
-            # Extrae nombres de provincias para el mensaje de commit
+            # Extrae nombres y conteo de medios
             PROVINCIAS=$(cat changed_files.txt | sed 's|data/provincias/||;s|\.json||' | tr '\n' ', ' | sed 's/, $//')
+            MEDIA_COUNT=$(cat changed_files.txt | xargs -I {} grep -c "media_url" {} | awk '{sum+=$1} END {print sum}')
             echo "::set-output name=PROVINCIAS::$PROVINCIAS"
+            echo "::set-output name=MEDIA_COUNT::$MEDIA_COUNT"
           else
             echo "No changes detected"
             echo "::set-output name=PROVINCIAS::none"
+            echo "::set-output name=MEDIA_COUNT::0"
           fi
 
       - name: Commit and push changes
@@ -64,11 +71,11 @@ jobs:
           git config --global user.email "actions@github.com"
           git remote set-url origin https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }}
 
-          # Añade todos los JSON modificados
-          git add data/provincias/*.json
+          # Añade todos los cambios
+          git add data/provincias/
 
-          # Mensaje de commit inteligente
-          COMMIT_MSG="Actualización provincias: ${{ steps.changes.outputs.PROVINCIAS }} - $(date +'%Y-%m-%d %H:%M %Z')"
+          # Mensaje de commit mejorado
+          COMMIT_MSG="Actualización: ${{ steps.changes.outputs.PROVINCIAS }} | ${{ steps.changes.outputs.MEDIA_COUNT }} nuevos medios - $(date +'%Y-%m-%d %H:%M %Z')"
           
           # Commit y push con control de errores
           git diff-index --quiet HEAD || {
