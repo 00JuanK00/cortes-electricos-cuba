@@ -1,5 +1,37 @@
 [
   {
+    "id": 41722,
+    "fecha": "15 de Jul del 2025 a las 01:46 PM",
+    "hora_utc": "2025-07-15 17:46",
+    "mensaje": "👉 Estimados clientes se le informa que en estos momentos están afectados por Déficit de Capacidad de Generación el circuito 19",
+    "timestamp": 1752601616,
+    "timestamp_local": 1752601616
+  },
+  {
+    "id": 41721,
+    "fecha": "15 de Jul del 2025 a las 01:27 PM",
+    "hora_utc": "2025-07-15 17:27",
+    "mensaje": "🔴 Disparo Automático de Frecuencia (DAF):\nOcurre cuando la frecuencia está por debajo de los 60Hz y determinada carga o circuito se desconecta del sistema automáticamente hasta que se estabilice",
+    "timestamp": 1752600463,
+    "timestamp_local": 1752600463
+  },
+  {
+    "id": 41720,
+    "fecha": "15 de Jul del 2025 a las 01:27 PM",
+    "hora_utc": "2025-07-15 17:27",
+    "mensaje": "👉 Estimados clientes se les informa que en estos momentos están a afectados los circuitos 25, 1 Palma por DAF",
+    "timestamp": 1752600446,
+    "timestamp_local": 1752600446
+  },
+  {
+    "id": 41719,
+    "fecha": "15 de Jul del 2025 a las 01:22 PM",
+    "hora_utc": "2025-07-15 17:22",
+    "mensaje": "👉 Estimados clientes se le informa que en estos momentos están afectados por Déficit de Capacidad de Generación los circuitos 16, 4 Palma, LI 5395 San Luis",
+    "timestamp": 1752600132,
+    "timestamp_local": 1752600132
+  },
+  {
     "id": 41718,
     "fecha": "15 de Jul del 2025 a las 12:16 PM",
     "hora_utc": "2025-07-15 16:16",
@@ -110,29 +142,5 @@
     "mensaje": "Disparo Automático de Frecuencia (DAF):\nOcurre cuando la frecuencia está por debajo de los 60Hz y determinada carga o circuito se desconecta del sistema automáticamente hasta que se estabilice.",
     "timestamp": 1752566100,
     "timestamp_local": 1752566100
-  },
-  {
-    "id": 41701,
-    "fecha": "15 de Jul del 2025 a las 02:10 AM",
-    "hora_utc": "2025-07-15 06:10",
-    "mensaje": "🔴Estimados clientes en estos momentos se está manipulando la línea 5330 del Cristo.",
-    "timestamp": 1752559852,
-    "timestamp_local": 1752559852
-  },
-  {
-    "id": 41700,
-    "fecha": "15 de Jul del 2025 a las 01:18 AM",
-    "hora_utc": "2025-07-15 05:18",
-    "mensaje": "Manipulaciones:\nAcciones que se realizan en los circuitos para dar paso al trabajo en zonas afectadas por averías o Vía Libre y posteriormente para restablecer el servicio eléctrico en los circuitos que se encontraban afectados y en los que se trabaja con anterioridad, luego de culminadas las labores pertinentes.",
-    "timestamp": 1752556727,
-    "timestamp_local": 1752556727
-  },
-  {
-    "id": 41699,
-    "fecha": "15 de Jul del 2025 a las 01:18 AM",
-    "hora_utc": "2025-07-15 05:18",
-    "mensaje": "🔴Estimados clientes en estos momentos se esta manipulando el circuito 11 de Santiago.",
-    "timestamp": 1752556723,
-    "timestamp_local": 1752556723
   }
 ]
