@@ -1,5 +1,21 @@
 [
   {
+    "id": 41725,
+    "fecha": "15 de Jul del 2025 a las 02:29 PM",
+    "hora_utc": "2025-07-15 18:29",
+    "mensaje": "🔴 Disparo Automático de Frecuencia (DAF):\nOcurre cuando la frecuencia está por debajo de los 60Hz y determinada carga o circuito se desconecta del sistema automáticamente hasta que se estabilice",
+    "timestamp": 1752604154,
+    "timestamp_local": 1752604154
+  },
+  {
+    "id": 41724,
+    "fecha": "15 de Jul del 2025 a las 02:28 PM",
+    "hora_utc": "2025-07-15 18:28",
+    "mensaje": "👉 Estimados clientes se les informa que en estos momentos se encuentran afectados los circuito 25, 1 Palma por DAF",
+    "timestamp": 1752604139,
+    "timestamp_local": 1752604139
+  },
+  {
     "id": 41723,
     "fecha": "15 de Jul del 2025 a las 01:57 PM",
     "hora_utc": "2025-07-15 17:57",
@@ -126,21 +142,5 @@
     "mensaje": "🔴Estimados clientes en estos momentos se encuentran afectados por déficit de capacidad de generación el circuito 25 de Santiago y la línea 5380 de Mella.",
     "timestamp": 1752573514,
     "timestamp_local": 1752573514
-  },
-  {
-    "id": 41705,
-    "fecha": "15 de Jul del 2025 a las 05:26 AM",
-    "hora_utc": "2025-07-15 09:26",
-    "mensaje": "🔴Estimados clientes en estos momentos se encuentran afectados por déficit de capacidad de generación los circuitos 2, 24 y 26 de Santiago.",
-    "timestamp": 1752571594,
-    "timestamp_local": 1752571594
-  },
-  {
-    "id": 41704,
-    "fecha": "15 de Jul del 2025 a las 04:25 AM",
-    "hora_utc": "2025-07-15 08:25",
-    "mensaje": "🔴Estimados clientes en estos momentos se encuentran afectados por déficit de capacidad de generación los circuitos 16 y 19 de Santiago y las líneas 4390 de Contramaestre, 5330 del Cristo, 5335 de Guamá, 5390 de la Maya y 5975 de Baconao.",
-    "timestamp": 1752567918,
-    "timestamp_local": 1752567918
   }
 ]
