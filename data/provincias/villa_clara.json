@@ -1,5 +1,29 @@
 [
   {
+    "id": 25185,
+    "fecha": "15 de Jul del 2025 a las 06:24 PM",
+    "hora_utc": "2025-07-15 22:24",
+    "mensaje": "🛠️Averia en la Linea 861 por primario partido afectando los circuitos siguientes:\nMunicipio Santa Clara:\n👉Cto 5 (Dobarganes)\n👉Cto 17 (Subplanta) \n👉Ctos 37 y 38 (Yabú)   \n👉Cto 13 (Zona Industrial)  \n👉Cto 9 (Moldes y Troqueles)\n👉Cto 133 (Cafetera)",
+    "timestamp": 1752618249,
+    "timestamp_local": 1752618249
+  },
+  {
+    "id": 25184,
+    "fecha": "15 de Jul del 2025 a las 06:13 PM",
+    "hora_utc": "2025-07-15 22:13",
+    "mensaje": "⚠️Afectados por déficit de capacidad generación los circuitos siguientes:\n🔹Bloque 11\nMunicipio Quemado:\n👉Ctos 164, 52 y 53 Quemado.\n👉Cto 196 Batey Panchito Gómez Toro.\nMunicipio Corralillo:\n👉Cto 55 Rancho Veloz",
+    "timestamp": 1752617586,
+    "timestamp_local": 1752617586
+  },
+  {
+    "id": 25183,
+    "fecha": "15 de Jul del 2025 a las 06:09 PM",
+    "hora_utc": "2025-07-15 22:09",
+    "mensaje": "🕕 Actualización del servicio eléctrico en las últimas 6 horas.\n El déficit de capacidad de generación osciló entre los 166 MW y los 137 MW.\n De los 193 circuitos apagables que presenta la provincia, se mantienen afectados 135 circuitos.\n Cuenta con 123 afectaciones por averías secundarias y de servicio:\n Camajuaní (8)\n Cifuentes (2)\n Corralillo (3)\n Placetas(8)\n Encrucijada(7)\n Ranchuelo(3) \n Manicaragua (13) \n Remedios (7) \n Sagua (6)\n Santa Clara (55)\n Santo Domingo (9)\n Se encuentra 11 avería en vías de solución.\n Pendientes a solucionar por el área técnica 26.\n La provincia presenta 1 averías primarias\nDisparo en la Linea 4608(Se estudian sus causas)",
+    "timestamp": 1752617397,
+    "timestamp_local": 1752617397
+  },
+  {
     "id": 25182,
     "fecha": "15 de Jul del 2025 a las 05:39 PM",
     "hora_utc": "2025-07-15 21:39",
@@ -134,29 +158,5 @@
     "mensaje": "🕛Actualización del servicio eléctrico en las últimas 6 horas.\n El déficit de capacidad de generación osciló entre los 136 MW y los 166 MW.\n De los 193 circuitos apagables que presenta la provincia, se mantienen afectados 172 circuitos.\n Cuenta con 131 afectaciones por averías secundarias y de servicio:\n Caibarién (2)\n Camajuaní (7)\n Cifuentes (3)\n Corralillo (4)\n Encrucijada(5)\n Ranchuelo(5)\n Placetas(1)\n Manicaragua (12) \n Remedios (8) \n Sagua (6)\n Santa Clara (69)\n Santo Domingo (9)\n Se encuentra 11 avería en vías de solución.\n Pendientes a solucionar por el área técnica 28.\n La provincia no presenta averías primarias",
     "timestamp": 1752595504,
     "timestamp_local": 1752595504
-  },
-  {
-    "id": 25165,
-    "fecha": "15 de Jul del 2025 a las 12:01 PM",
-    "hora_utc": "2025-07-15 16:01",
-    "mensaje": "La Provincia cuenta con 9 afectaciones de servicio eléctrico  por transformador dañado:\n👉Municipio Santo Domingo: Circuito 86 ( Pajarito) en Manacas 4 , Comunidad Palo Bonito.\n👉Municipio Santo Domingo: Circuito 79 en Carretera Central, detrás del Inivit.\n👉Municipio Santo Domingo: Carretera a Corralillo, después de la Subestación.\n 👉Municipio Santo Domingo: Circuito. 160 Ramal Santa Rosa ,CPA Mariana Grajales. Cascajal.\n👉Municipio Santa Clara: Circuito 6 Ave 7 de Diciembre e/ 2da y 3ra.\n👉Municipio Santa Clara: Circuito 146 Aeropuerto , Carretera de Maleza Vial Nuevo.\n 👉Municipio Santa Clara: Circuito 169 calle Paseo de la Paz e/ Capitán Velazco y Nueva Gerona.\n👉Municipio Santa Clara: Circuito 22 , carretera de Camajuaní, al bajar el elevado.\n👉Municipio Remedios: Circuito 118 en carretera a Guanabanabo, frente al IPA Lidia Doce",
-    "timestamp": 1752595293,
-    "timestamp_local": 1752595293
-  },
-  {
-    "id": 25164,
-    "fecha": "15 de Jul del 2025 a las 11:32 AM",
-    "hora_utc": "2025-07-15 15:32",
-    "mensaje": "💡Restablecido el servicio eléctrico en los circuitos siguientes:\n🔹Bloque 9\nMunicipio Placetas:\n👉Cto 101 y 145 Cumbres",
-    "timestamp": 1752593554,
-    "timestamp_local": 1752593554
-  },
-  {
-    "id": 25163,
-    "fecha": "15 de Jul del 2025 a las 10:48 AM",
-    "hora_utc": "2025-07-15 14:48",
-    "mensaje": "💡Restablecido el servicio eléctrico a los Ctos 5 (Dobarganes) y Cto 17(Subplanta) pertenecientes al municipio Santa Clara",
-    "timestamp": 1752590905,
-    "timestamp_local": 1752590905
   }
 ]
