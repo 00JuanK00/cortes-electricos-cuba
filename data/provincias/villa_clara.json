@@ -1,5 +1,21 @@
 [
   {
+    "id": 25172,
+    "fecha": "15 de Jul del 2025 a las 02:08 PM",
+    "hora_utc": "2025-07-15 18:08",
+    "mensaje": "🔸Actualización del servicio eléctrico en la provincia🔸\n✍️De los 193 circuitos apagables que presenta la provincia, se mantienen afectados 172 circuitos.\n✍️En el momento de hacer esta nota la provincia tiene 151 MW de afectación por déficit de capacidad de generación, demanda máxima posible a apagar.\n✍️Cuenta con 116 afectaciones por averías secundarias y de servicio.",
+    "timestamp": 1752602883,
+    "timestamp_local": 1752602883
+  },
+  {
+    "id": 25171,
+    "fecha": "15 de Jul del 2025 a las 01:54 PM",
+    "hora_utc": "2025-07-15 17:54",
+    "mensaje": "⚠️Afectados por déficit de capacidad generación los circuitos siguientes:\n🔹Bloque 11\nMunicipio Remedios:\nCtos 67 y 152, 68 y 118",
+    "timestamp": 1752602052,
+    "timestamp_local": 1752602052
+  },
+  {
     "id": 25170,
     "fecha": "15 de Jul del 2025 a las 01:15 PM",
     "hora_utc": "2025-07-15 17:15",
@@ -142,21 +158,5 @@
     "mensaje": "💡Restablecidos los circuitos 182 y 183 (Van Troi), del municipio Caibarién, perteneciente al bloque 8.",
     "timestamp": 1752576943,
     "timestamp_local": 1752576943
-  },
-  {
-    "id": 25152,
-    "fecha": "15 de Jul del 2025 a las 06:53 AM",
-    "hora_utc": "2025-07-15 10:53",
-    "mensaje": "⚠️Afectado por déficit de capacidad generación el circuito 62 del municipio Caibarién, perteneciente al Bloque 8.",
-    "timestamp": 1752576814,
-    "timestamp_local": 1752576814
-  },
-  {
-    "id": 25151,
-    "fecha": "15 de Jul del 2025 a las 06:42 AM",
-    "hora_utc": "2025-07-15 10:42",
-    "mensaje": "📣Debido a las condiciones que presenta nuestro sistema, por el deficit de capacidad de generación elevado que existe en estos momentos, estará afectando temporalmente nuestra capacidad para cumplir con la planificación en los horarios establecidos.\n✍️Debido a ello no será posible restablecer según su planificación todos los circuitos correspondientes a los Bloques 2 y 4.\n✍ Estamos monitoreando constantemente las condiciones del sistema eléctrico.\nLa estabilización de estas condiciones determinará el momento en que podremos restablecer la planificación de servicio con normalidad.\n\n✍Manténgase informado a través de nuestro canal",
-    "timestamp": 1752576173,
-    "timestamp_local": 1752576173
   }
 ]
