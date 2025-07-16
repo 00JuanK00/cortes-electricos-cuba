@@ -1,5 +1,21 @@
 [
   {
+    "id": 81820,
+    "fecha": "16 de Jul del 2025 a las 05:44 PM",
+    "hora_utc": "2025-07-16 21:44",
+    "mensaje": "🔷 Restablecido el servicio en el circuito 3140 que se encontraba afectado por disparo por DAF 🔷",
+    "timestamp": 1752702287,
+    "timestamp_local": 1752702287
+  },
+  {
+    "id": 81819,
+    "fecha": "16 de Jul del 2025 a las 05:34 PM",
+    "hora_utc": "2025-07-16 21:34",
+    "mensaje": "♦️ Afectado el servicio en el circuito 3140 por disparo por DAF ♦️",
+    "timestamp": 1752701650,
+    "timestamp_local": 1752701650
+  },
+  {
     "id": 81818,
     "fecha": "16 de Jul del 2025 a las 04:58 PM",
     "hora_utc": "2025-07-16 20:58",
@@ -142,21 +158,5 @@
     "mensaje": "🔷♦️Se restablece el servicio en el siguiente circuito que se encontraba afectado por déficit de capacidad de generación: \n  *Jaruco ♦️ 🔷",
     "timestamp": 1752689357,
     "timestamp_local": 1752689357
-  },
-  {
-    "id": 81800,
-    "fecha": "16 de Jul del 2025 a las 02:06 PM",
-    "hora_utc": "2025-07-16 18:06",
-    "mensaje": "🚨Por déficit de capacidad de generación se afecta el servicio en el siguiente circuito:\n*Bío 2🚨",
-    "timestamp": 1752689167,
-    "timestamp_local": 1752689167
-  },
-  {
-    "id": 81799,
-    "fecha": "16 de Jul del 2025 a las 02:06 PM",
-    "hora_utc": "2025-07-16 18:06",
-    "mensaje": "🔷♦️Se restablece el servicio en el siguiente circuito que se encontraba afectado por déficit de capacidad de generación: \n  *Bío 1 ♦️ 🔷",
-    "timestamp": 1752689167,
-    "timestamp_local": 1752689167
   }
 ]
