@@ -1,5 +1,21 @@
 [
   {
+    "id": 31714,
+    "fecha": "16 de Jul del 2025 a las 02:40 PM",
+    "hora_utc": "2025-07-16 18:40",
+    "mensaje": "⛔Se mantiene afectado por dèficit el circuito\n\n➡️1270 de Artemisa\n\n❌Nos mantenemos con una afectación de 106MW",
+    "timestamp": 1752691215,
+    "timestamp_local": 1752691215
+  },
+  {
+    "id": 31713,
+    "fecha": "16 de Jul del 2025 a las 02:40 PM",
+    "hora_utc": "2025-07-16 18:40",
+    "mensaje": "❌ Tenemos una afectación de 96 MW",
+    "timestamp": 1752691215,
+    "timestamp_local": 1752691215
+  },
+  {
     "id": 31712,
     "fecha": "16 de Jul del 2025 a las 01:55 PM",
     "hora_utc": "2025-07-16 17:55",
@@ -27,7 +43,7 @@
     "id": 31709,
     "fecha": "16 de Jul del 2025 a las 10:36 AM",
     "hora_utc": "2025-07-16 14:36",
-    "mensaje": "⛔Se mantienen afectados por dèficit los siguientes circuitos\n\n\n➡️Sub San Cristóbal\n➡️ Maní, 4 Caminos y el Martí de San Cristóbal\n➡️1570 Artemisa Candelaria\n➡️1940 de San Antonio\n\n❌ Tenemos una afectación de 128 MW",
+    "mensaje": "⛔Se mantienen afectados por dèficit los siguientes circuitos\n\n\n➡️Sub San Cristóbal\n➡️4 Caminos y el Martí de San Cristóbal\n➡️1570 Artemisa Candelaria\n➡️1940 de San Antonio\n\n❌ Tenemos una afectación de 128 MW",
     "timestamp": 1752676560,
     "timestamp_local": 1752676560
   },
@@ -86,21 +102,5 @@
     "mensaje": "⚠️ Pronóstico para el horario pico (16/07/2025):\n\nDisponibilidad: 1920 MW\nDemanda máxima: 3700 MW\nDéficit: 1780 MW\nAfectación: 1850 MW\n\nMás detalles sobre el estado del SEN en 👉 https://www.unionelectrica.cu/nota-informativa/",
     "timestamp": 1752666424,
     "timestamp_local": 1752666424
-  },
-  {
-    "id": 31694,
-    "fecha": "16 de Jul del 2025 a las 06:48 AM",
-    "hora_utc": "2025-07-16 10:48",
-    "mensaje": "❌Nos mantenemos con una afectación de 144 MW",
-    "timestamp": 1752662905,
-    "timestamp_local": 1752662905
-  },
-  {
-    "id": 31693,
-    "fecha": "16 de Jul del 2025 a las 06:19 AM",
-    "hora_utc": "2025-07-16 10:19",
-    "mensaje": "❌ Tenemos una afectación de 144 MW",
-    "timestamp": 1752661177,
-    "timestamp_local": 1752661177
   }
 ]
