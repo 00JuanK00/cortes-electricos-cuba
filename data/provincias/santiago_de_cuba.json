@@ -1,5 +1,21 @@
 [
   {
+    "id": 41740,
+    "fecha": "15 de Jul del 2025 a las 08:38 PM",
+    "hora_utc": "2025-07-16 00:38",
+    "mensaje": "Estimados Clientes  en estos momentos se encuentra afectado por Deficis de Capacidad de Generación el Circuito 1 de Santiago",
+    "timestamp": 1752626291,
+    "timestamp_local": 1752626291
+  },
+  {
+    "id": 41739,
+    "fecha": "15 de Jul del 2025 a las 08:08 PM",
+    "hora_utc": "2025-07-16 00:08",
+    "mensaje": "Estimados Clientes en estos momentos se encuentra afectado por Deficit De Capacidad de Generacion el Circuito 20 de Santiago de Cuba",
+    "timestamp": 1752624520,
+    "timestamp_local": 1752624520
+  },
+  {
     "id": 41738,
     "fecha": "15 de Jul del 2025 a las 07:35 PM",
     "hora_utc": "2025-07-15 23:35",
@@ -142,21 +158,5 @@
     "mensaje": "🔴 Disparo Automático de Frecuencia (DAF):\nOcurre cuando la frecuencia está por debajo de los 60Hz y determinada carga o circuito se desconecta del sistema automáticamente hasta que se estabilice",
     "timestamp": 1752600463,
     "timestamp_local": 1752600463
-  },
-  {
-    "id": 41720,
-    "fecha": "15 de Jul del 2025 a las 01:27 PM",
-    "hora_utc": "2025-07-15 17:27",
-    "mensaje": "👉 Estimados clientes se les informa que en estos momentos están a afectados los circuitos 25, 1 Palma por DAF",
-    "timestamp": 1752600446,
-    "timestamp_local": 1752600446
-  },
-  {
-    "id": 41719,
-    "fecha": "15 de Jul del 2025 a las 01:22 PM",
-    "hora_utc": "2025-07-15 17:22",
-    "mensaje": "👉 Estimados clientes se le informa que en estos momentos están afectados por Déficit de Capacidad de Generación los circuitos 16, 4 Palma, LI 5395 San Luis",
-    "timestamp": 1752600132,
-    "timestamp_local": 1752600132
   }
 ]

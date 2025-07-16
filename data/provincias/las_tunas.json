@@ -1,5 +1,21 @@
 [
   {
+    "id": 16164,
+    "fecha": "15 de Jul del 2025 a las 08:22 PM",
+    "hora_utc": "2025-07-16 00:22",
+    "mensaje": "Aviso de la Empresa EléctricaLas Tunas \n\nInformamos a nuestros clientes que, en este momento nos encontramos en la máxima capacidad apagable, lo que\nimpide el restablecimiento inmediato del servicio eléctrico en los circuitos afectados.La situación podrá mejorar en la medida en que el Sistema Electroenergético\nNacional permita recuperar la capacidad de generación y distribución.\nDebido al significativodéficit energético que enfrenta nuestro país y la disponibilidad limitada del Sistema\nEléctrico Nacional(SEN) en comparación con la demanda actual, lamentamos nopoder proporcionar una programación detallada de las afectaciones en el\nsuministro eléctrico.",
+    "timestamp": 1752625335,
+    "timestamp_local": 1752625335
+  },
+  {
+    "id": 16163,
+    "fecha": "15 de Jul del 2025 a las 08:20 PM",
+    "hora_utc": "2025-07-16 00:20",
+    "mensaje": "Se encuentra en avería el circuito Tk 5,se trabaja para su restablecimiento",
+    "timestamp": 1752625239,
+    "timestamp_local": 1752625239
+  },
+  {
     "id": 16162,
     "fecha": "15 de Jul del 2025 a las 01:29 PM",
     "hora_utc": "2025-07-15 17:29",
@@ -126,21 +142,5 @@
     "mensaje": "Afectado por emergencia el circuito:\nCircuito 33 Kv: 4220\nTK28 La Guinea\nTK52 Covarrubias\nTK31 Pueblo Manatí\nTK33 Pueblo Manatí\nTK34 Pueblo Manatí\nSe trabaja para restablecer en el menor tiempo posible. Ofrecemos disculpas por las molestias ocasionadas.",
     "timestamp": 1752435952,
     "timestamp_local": 1752435952
-  },
-  {
-    "id": 16142,
-    "fecha": "13 de Jul del 2025 a las 12:21 PM",
-    "hora_utc": "2025-07-13 16:21",
-    "mensaje": "La provincia presenta máxima capacidad apagable en estos momentos, lo que no ha permitido realizar la rotación de los circuitos con mayor tiempo de afectación. Se irán restableciendo en la medida que el Sistema Electroenergético lo permita.",
-    "timestamp": 1752423685,
-    "timestamp_local": 1752423685
-  },
-  {
-    "id": 16141,
-    "fecha": "13 de Jul del 2025 a las 10:26 AM",
-    "hora_utc": "2025-07-13 14:26",
-    "mensaje": "📢  Nota Informativa - Situación del SEN al 13 de julio de 2025\n\nEn el día de ayer se afectó el servicio las 24 horas y se mantuvo afectado durante toda la madrugada de hoy. La máxima afectación en el día de ayer fue de 1431 MW a las 22:40 horas, coincidente con la hora de máxima demanda. \n\n☀️ Producción de energía de los 19 parques solares fotovoltaicos: 2165 MWh, con 503 MW como máxima potencia entregada en el horario de la media.\n\n🔧 Estado actual:\n\nDisponibilidad: 2110 MW.\nDemanda: 3170 MW.\nAfectación actual: 1090 MW. \nPronóstico para el mediodía: 1050 MW afectados.\n\n🔴 Pronóstico para el horario pico:\nSe proyecta una disponibilidad de 2300 MW y una demanda de 3600 MW, lo que generaría un déficit de 1300 MW, para una afectación de 1370 MW.\n\nMás detalles en 👇",
-    "timestamp": 1752416789,
-    "timestamp_local": 1752416789
   }
 ]
