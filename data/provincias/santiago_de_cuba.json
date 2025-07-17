@@ -1,5 +1,29 @@
 [
   {
+    "id": 41841,
+    "fecha": "17 de Jul del 2025 a las 02:08 PM",
+    "hora_utc": "2025-07-17 18:08",
+    "mensaje": "🔴Se les informa a nuestros clientes que se afecta por Déficit de Capacidad de Generación la línea 5380 Mella y circuito 2 de Palma",
+    "timestamp": 1752775686,
+    "timestamp_local": 1752775686
+  },
+  {
+    "id": 41839,
+    "fecha": "17 de Jul del 2025 a las 01:53 PM",
+    "hora_utc": "2025-07-17 17:53",
+    "mensaje": "🔴Disparo Automático de Frecuencia (DAF):\nOcurre cuando la frecuencia está por debajo de los 60Hz y determinada carga o circuito se desconecta del sistema automáticamente hasta que se estabilice.",
+    "timestamp": 1752774781,
+    "timestamp_local": 1752774781
+  },
+  {
+    "id": 41838,
+    "fecha": "17 de Jul del 2025 a las 01:52 PM",
+    "hora_utc": "2025-07-17 17:52",
+    "mensaje": "🔴Se les informa a nuestros clientes que se afectan los circuitos 25 de Santiago y 1 de Palma por un disparo por DAF.",
+    "timestamp": 1752774763,
+    "timestamp_local": 1752774763
+  },
+  {
     "id": 41837,
     "fecha": "17 de Jul del 2025 a las 01:37 PM",
     "hora_utc": "2025-07-17 17:37",
@@ -126,37 +150,5 @@
     "mensaje": "Empresa Eléctrica de Santiago de Cuba informa a sus clientes que actualmente se encuentran sin servicio eléctrico en la provincia los siguientes circuitos:\n\n📌2, 26, Guamá, 24,  Baconao,  La Línea 5390 (Songo La Maya-Segundo Frente), 13, 23,  la línea 4385 (Contramaestre), 11, línea 5395 (San Luis) , 9 (seccionalizado), 20, 19 14,  línea 4435, 8.\n\n📌En estos momentos están con servicio los circuitos con  centros vitales.\n\n📌Debido a la compleja situación que presenta el Sistema Electroenergético Nacional (SEN) y el déficit reportado para hoy,  no es posible cumplir con la programación prevista.\n\n📌Recomendamos mantenerse informados por nuestro canal de Telegram y nuesta página de Facebook.",
     "timestamp": 1752754928,
     "timestamp_local": 1752754928
-  },
-  {
-    "id": 41821,
-    "fecha": "17 de Jul del 2025 a las 08:06 AM",
-    "hora_utc": "2025-07-17 12:06",
-    "mensaje": "🔴Se les informa a nuestros clientes que se afecta por Déficit de Capacidad de Generación el circuito 8 de Santiago.",
-    "timestamp": 1752754011,
-    "timestamp_local": 1752754011
-  },
-  {
-    "id": 41820,
-    "fecha": "17 de Jul del 2025 a las 07:44 AM",
-    "hora_utc": "2025-07-17 11:44",
-    "mensaje": "En la madrugada de hoy, a las 2:43 a.m., se produjo una falla técnica  en la red eléctrica a partir del disparo de la línea de 110 kV de Melones y Generación 2. \n\n🔌 Como consecuencia, salieron de funcionamiento varias plantas generadoras:\n\nGeneración Móvil 2 y 3\n\nEnergás Varadero 4\n\nMáximo Gómez 6\n\nSe redujo la generación en Energás Jaruco 6\n\n📉 Esto provocó una pérdida total de 350 MW de generación, lo que hizo caer la frecuencia eléctrica hasta los 58.20 Hz, generando afectaciones en el servicio en todo el país por 189.5 MW. En Santiago de Cuba fueron afectados 18 MW por esta causa.\n\n⚠️ Para evitar el colapso del sistema  tomaron medidas de emergencia, desconectando grandes cargas eléctricas y estabilizando poco a poco el sistema.\n\n🔌 Actualmente tienen servicio:\n\nCircuitos: 22, 26, 1, 10+3, 15, 18, 9 (parcialmente),\n\nCIs: 5980, 5330, 5335 (parcialmente)\n\n📍 Seguimos trabajando para restablecer completamente el servicio lo antes posible.Manténgase informado a través de nuestras redes sociales.",
-    "timestamp": 1752752667,
-    "timestamp_local": 1752752667
-  },
-  {
-    "id": 41819,
-    "fecha": "17 de Jul del 2025 a las 07:15 AM",
-    "hora_utc": "2025-07-17 11:15",
-    "mensaje": "👉Estimados clientes se les informa que se encuentran afectado por Déficit de Capacidad de Generación el circuito 14 y el LI 4435 Contramaestre.",
-    "timestamp": 1752750935,
-    "timestamp_local": 1752750935
-  },
-  {
-    "id": 41818,
-    "fecha": "17 de Jul del 2025 a las 05:54 AM",
-    "hora_utc": "2025-07-17 09:54",
-    "mensaje": "👉Estimados clientes se les informa que se encuentran afectado por Déficit de Capacidad de Generación los circuitos  9 seccionalizado, 16,19 y el 20, el LI 5390 La Maya-II Frente ,LI 4395 Contramaestre-III Frente",
-    "timestamp": 1752746080,
-    "timestamp_local": 1752746080
   }
 ]
