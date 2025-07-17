@@ -1,5 +1,21 @@
 [
   {
+    "id": 25304,
+    "fecha": "17 de Jul del 2025 a las 10:59 AM",
+    "hora_utc": "2025-07-17 14:59",
+    "mensaje": "Afectados 130 MW en la provincia, demanda máxima posible a apagar en estos momentos.",
+    "timestamp": 1752764351,
+    "timestamp_local": 1752764351
+  },
+  {
+    "id": 25303,
+    "fecha": "17 de Jul del 2025 a las 10:55 AM",
+    "hora_utc": "2025-07-17 14:55",
+    "mensaje": "La Provincia cuenta con 5 afectaciones de servicio eléctrico  por transformador dañado:\n👉Municipio Santo Domingo: Circuito 86 ( Pajarito) en Manacas 4 , Comunidad Palo Bonito.\n👉Municipio Santo Domingo: Circuito 79 en Carretera Central, detrás del Inivit.\n👉Municipio Camajuaní: Circuito 24  , Crucero Carmita.\n👉Municipio Cifuentes: Circuito 95 , Batey Los Fresnedos.\n👉Municipio Placetas: Circuito 99, Calle 12 de Oeste e/ 3ra y 4ta del Norte.",
+    "timestamp": 1752764112,
+    "timestamp_local": 1752764112
+  },
+  {
     "id": 25302,
     "fecha": "17 de Jul del 2025 a las 10:48 AM",
     "hora_utc": "2025-07-17 14:48",
@@ -134,21 +150,5 @@
     "mensaje": "🕕Actualización del servicio eléctrico en las últimas 6 horas.\n✍️El déficit de capacidad de generación osciló entre los 171MW y los 133 MW.\n✍️De los 193 circuitos apagables que presenta la provincia, se mantienen afectados 161 circuitos.\n ✍️Cuenta con 99 afectaciones por averías secundarias y de servicio:\n Cifuentes (1)\n Manicaragua (14)\n Remedios (10) \n Santa Clara (33)\n Santo Domingo (17)\n🛠️Se encuentran 1 averías en vías de solución.\n🛠️Pendientes a solucionar por el área técnica 23.\n⚡Avería.⚡\n📣Estimados clientes:📣\n✍Debido a una avería ocurrida por 110kV  se encuentra en estos momentos afectada  la línea 4608  perteneciente al municipio Corralillo, el circuito 55 Rancho Veloz y el circuito 196 Panchito Gómez del municipio de Quemado ya que los mismos se encuentran enlazados a la línea antes mencionada",
     "timestamp": 1752747970,
     "timestamp_local": 1752747970
-  },
-  {
-    "id": 25284,
-    "fecha": "17 de Jul del 2025 a las 03:17 AM",
-    "hora_utc": "2025-07-17 07:17",
-    "mensaje": "⚠️Afectados por déficit de capacidad generación los circuitos siguientes:\n🔹Bloque 2\n\nMunicipio Cifuentes:\n👉Ctos 114 y 117\n👉Ctos 116 y 155 Mata\n👉Cto 186 Batey Unidad Proletaria\n👉Cto 184 Sitio Grande",
-    "timestamp": 1752736638,
-    "timestamp_local": 1752736638
-  },
-  {
-    "id": 25283,
-    "fecha": "17 de Jul del 2025 a las 03:15 AM",
-    "hora_utc": "2025-07-17 07:15",
-    "mensaje": "📣Disparo automático por frecuencia (DAF). \n✍️Un disparo por frecuencia o Descarga Automática por Frecuencia DAF es una protección que posee el sistema eléctrico para cuando la frecuencia llega a valores mínimos permisibles que ponen en peligro la estabilidad de todo el sistema en su conjunto y provoca una desconexión automática de algunos circuitos hasta que esta vuelva a recuperar su valor nominal a 60 Hz o ciclos por segundo. Esto ocurre al salir de forma imprevista o repentina una planta generadora con una potencia determinada y el sistema en su conjunto necesita liberar esa carga hasta tanto se puedan recuperar la potencia de generación perdida anteriormente o dar las afectaciones al servicio por déficit de generación",
-    "timestamp": 1752736510,
-    "timestamp_local": 1752736510
   }
 ]
