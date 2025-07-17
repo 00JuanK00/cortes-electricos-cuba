@@ -1,5 +1,29 @@
 [
   {
+    "id": 22818,
+    "fecha": "17 de Jul del 2025 a las 12:21 PM",
+    "hora_utc": "2025-07-17 16:21",
+    "mensaje": "Terminología eléctrica: \n⚠️Disparo automático por frecuencia (DAF).\nUn disparo por frecuencia o Descarga Automática por Frecuencia (DAF) , es una protección que posee el sistema eléctrico para cuando la frecuencia llega a valores mínimos permisibles que ponen en peligro la estabilidad de todo el sistema en su conjunto y provoca una desconexión automática de algunos circuitos hasta que se vuelva a recuperar su valor nominal a 60Hz o ciclos por segundo.",
+    "timestamp": 1752769276,
+    "timestamp_local": 1752769276
+  },
+  {
+    "id": 22817,
+    "fecha": "17 de Jul del 2025 a las 12:19 PM",
+    "hora_utc": "2025-07-17 16:19",
+    "mensaje": "Disparo por DAF del circuito 4945.",
+    "timestamp": 1752769159,
+    "timestamp_local": 1752769159
+  },
+  {
+    "id": 22816,
+    "fecha": "17 de Jul del 2025 a las 12:05 PM",
+    "hora_utc": "2025-07-17 16:05",
+    "mensaje": "En estos momentos tenemos afectados por déficit de capacidad de generación 156 MW en la provincia.",
+    "timestamp": 1752768355,
+    "timestamp_local": 1752768355
+  },
+  {
     "id": 22815,
     "fecha": "17 de Jul del 2025 a las 10:56 AM",
     "hora_utc": "2025-07-17 14:56",
@@ -134,29 +158,5 @@
     "mensaje": "En estos momentos tenemos afectados por déficit de capacidad de generación 180 MW en la provincia",
     "timestamp": 1752710644,
     "timestamp_local": 1752710644
-  },
-  {
-    "id": 22797,
-    "fecha": "16 de Jul del 2025 a las 06:34 PM",
-    "hora_utc": "2025-07-16 22:34",
-    "mensaje": "En estos momentos tenemos afectados por déficit de capacidad de generación 165 MW en la provincia",
-    "timestamp": 1752705248,
-    "timestamp_local": 1752705248
-  },
-  {
-    "id": 22796,
-    "fecha": "16 de Jul del 2025 a las 05:53 PM",
-    "hora_utc": "2025-07-16 21:53",
-    "mensaje": "En estos momentos tenemos afectados por déficit de capacidad de generación 158 MW en la provincia.",
-    "timestamp": 1752702798,
-    "timestamp_local": 1752702798
-  },
-  {
-    "id": 22795,
-    "fecha": "16 de Jul del 2025 a las 04:39 PM",
-    "hora_utc": "2025-07-16 20:39",
-    "mensaje": "En estos momentos tenemos afectados por déficit de capacidad de generación 152 MW en la provincia.",
-    "timestamp": 1752698394,
-    "timestamp_local": 1752698394
   }
 ]
