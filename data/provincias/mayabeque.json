@@ -1,5 +1,21 @@
 [
   {
+    "id": 81874,
+    "fecha": "17 de Jul del 2025 a las 05:42 AM",
+    "hora_utc": "2025-07-17 09:42",
+    "mensaje": "♦️ Afectado el servicio en el circuito:\n*4105♦️",
+    "timestamp": 1752745349,
+    "timestamp_local": 1752745349
+  },
+  {
+    "id": 81873,
+    "fecha": "17 de Jul del 2025 a las 05:41 AM",
+    "hora_utc": "2025-07-17 09:41",
+    "mensaje": "♦️ Afectado el servicio en los siguientes circuitos:\n*2320\n*2495\n*2435\n*3130\n*2420\n*3665♦️",
+    "timestamp": 1752745295,
+    "timestamp_local": 1752745295
+  },
+  {
     "id": 81871,
     "fecha": "17 de Jul del 2025 a las 05:16 AM",
     "hora_utc": "2025-07-17 09:16",
@@ -102,29 +118,5 @@
     "mensaje": "🔷♦️Se restablece el servicio en los siguientes circuitos que se encontraban afectados por déficit de capacidad de generación: \n *Güines 1\n*Güines 4\n*Santa Cruz ♦️ 🔷",
     "timestamp": 1752725002,
     "timestamp_local": 1752725002
-  },
-  {
-    "id": 81854,
-    "fecha": "17 de Jul del 2025 a las 12:02 AM",
-    "hora_utc": "2025-07-17 04:02",
-    "mensaje": "🔷♦️Se restablece el servicio en el siguiente circuito que se encontraba afectado por déficit de capacidad de generación: \n *2320 ♦️ 🔷",
-    "timestamp": 1752724922,
-    "timestamp_local": 1752724922
-  },
-  {
-    "id": 81853,
-    "fecha": "17 de Jul del 2025 a las 12:01 AM",
-    "hora_utc": "2025-07-17 04:01",
-    "mensaje": "🚨Por déficit de capacidad de generación se afecta el servicio en el siguiente circuito:\n*2420🚨",
-    "timestamp": 1752724894,
-    "timestamp_local": 1752724894
-  },
-  {
-    "id": 81852,
-    "fecha": "16 de Jul del 2025 a las 11:57 PM",
-    "hora_utc": "2025-07-17 03:57",
-    "mensaje": "🚨Por déficit de capacidad de generación se afecta el servicio en el siguiente circuito:\n*Güines 3 🚨",
-    "timestamp": 1752724646,
-    "timestamp_local": 1752724646
   }
 ]
