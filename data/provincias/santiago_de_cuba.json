@@ -1,5 +1,37 @@
 [
   {
+    "id": 41808,
+    "fecha": "17 de Jul del 2025 a las 02:51 AM",
+    "hora_utc": "2025-07-17 06:51",
+    "mensaje": "🔴 Disparo Automático de Frecuencia (DAF):\nOcurre cuando la frecuencia está por debajo de los 60Hz y determinada carga o circuito se desconecta del sistema automáticamente hasta que se estabilice.",
+    "timestamp": 1752735091,
+    "timestamp_local": 1752735091
+  },
+  {
+    "id": 41807,
+    "fecha": "17 de Jul del 2025 a las 02:50 AM",
+    "hora_utc": "2025-07-17 06:50",
+    "mensaje": "🚨Se les informa a los clientes que se encuentran disparados por DAF  los  14,25.",
+    "timestamp": 1752735008,
+    "timestamp_local": 1752735008
+  },
+  {
+    "id": 41806,
+    "fecha": "17 de Jul del 2025 a las 02:22 AM",
+    "hora_utc": "2025-07-17 06:22",
+    "mensaje": "🚨🔊Manipulaciones:\nAcciones que se realizan en los circuitos para dar paso al trabajo en zonas afectadas por averías o Vía Libre y posteriormente para restablecer el servicio eléctrico en los circuitos que se encontraban afectados y en los que se trabaja con anterioridad, luego de culminadas las labores pertinentes.",
+    "timestamp": 1752733326,
+    "timestamp_local": 1752733326
+  },
+  {
+    "id": 41805,
+    "fecha": "17 de Jul del 2025 a las 02:20 AM",
+    "hora_utc": "2025-07-17 06:20",
+    "mensaje": "👉 Se les informa a los clientes que se está manipulando el circuito 15",
+    "timestamp": 1752733212,
+    "timestamp_local": 1752733212
+  },
+  {
     "id": 41804,
     "fecha": "17 de Jul del 2025 a las 01:40 AM",
     "hora_utc": "2025-07-17 05:40",
@@ -118,29 +150,5 @@
     "mensaje": "🚨Estimados clientes en estos momentos se afectaron por Déficit los circuitos 19 y 11 de Santiago.",
     "timestamp": 1752696177,
     "timestamp_local": 1752696177
-  },
-  {
-    "id": 41787,
-    "fecha": "16 de Jul del 2025 a las 02:36 PM",
-    "hora_utc": "2025-07-16 18:36",
-    "mensaje": "🔊Le informamos a nuestros clientes que se afecto por Déficit de Capacidad de Generación los circuitos 20,12 y 23.",
-    "timestamp": 1752690964,
-    "timestamp_local": 1752690964
-  },
-  {
-    "id": 41786,
-    "fecha": "16 de Jul del 2025 a las 02:34 PM",
-    "hora_utc": "2025-07-16 18:34",
-    "mensaje": "🔉Le informamos a nuestros clientes  que se afecto por Déficit los circuitos Baire-lll Frente y Dos Caminos .",
-    "timestamp": 1752690897,
-    "timestamp_local": 1752690897
-  },
-  {
-    "id": 41785,
-    "fecha": "16 de Jul del 2025 a las 02:33 PM",
-    "hora_utc": "2025-07-16 18:33",
-    "mensaje": "🚨Estimados clientes en estos momentos se afecto por Déficit los circuitos El Pilar, El Alambre, 1y 2 de San Luis .",
-    "timestamp": 1752690803,
-    "timestamp_local": 1752690803
   }
 ]
