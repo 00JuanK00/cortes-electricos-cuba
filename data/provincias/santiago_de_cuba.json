@@ -1,5 +1,29 @@
 [
   {
+    "id": 41829,
+    "fecha": "17 de Jul del 2025 a las 09:34 AM",
+    "hora_utc": "2025-07-17 13:34",
+    "mensaje": "🔴Se les informa a nuestros clientes que ha sido restablecido el servicio eléctrico de el circuito 9 de Santiago.",
+    "timestamp": 1752759292,
+    "timestamp_local": 1752759292
+  },
+  {
+    "id": 41828,
+    "fecha": "17 de Jul del 2025 a las 09:24 AM",
+    "hora_utc": "2025-07-17 13:24",
+    "mensaje": "🔴Se les informa a nuestros clientes que ha sido restablecido el servicio eléctrico de el circuito 11 de Santiago.",
+    "timestamp": 1752758669,
+    "timestamp_local": 1752758669
+  },
+  {
+    "id": 41827,
+    "fecha": "17 de Jul del 2025 a las 09:23 AM",
+    "hora_utc": "2025-07-17 13:23",
+    "mensaje": "🔴Se les informa a nuestros clientes que se afecta por Déficit de Capacidad de Generación el   Ramal ll Frente.",
+    "timestamp": 1752758611,
+    "timestamp_local": 1752758611
+  },
+  {
     "id": 41826,
     "fecha": "17 de Jul del 2025 a las 09:17 AM",
     "hora_utc": "2025-07-17 13:17",
@@ -134,29 +158,5 @@
     "mensaje": "🚨👉Estimados clientes se les informa que debido al alto nivel de Déficit de Capacidad de Generación que existe en la provincia, no ha  sido posible mantener la rotación de los bloques planificados anteriormente, por lo que se hace necesario extender el tiempo de afectación, así como adelantar la afectación de algunos circuitos antes de la hora prevista. Ofrecemos disculpas por las molestias ocasionadas por esta causa.",
     "timestamp": 1752736518,
     "timestamp_local": 1752736518
-  },
-  {
-    "id": 41809,
-    "fecha": "17 de Jul del 2025 a las 03:02 AM",
-    "hora_utc": "2025-07-17 07:02",
-    "mensaje": "Estimados clientes se les informa que se encuentra afectado por Déficit de Capacidad de Generación el circuito 7,24",
-    "timestamp": 1752735763,
-    "timestamp_local": 1752735763
-  },
-  {
-    "id": 41808,
-    "fecha": "17 de Jul del 2025 a las 02:51 AM",
-    "hora_utc": "2025-07-17 06:51",
-    "mensaje": "🔴 Disparo Automático de Frecuencia (DAF):\nOcurre cuando la frecuencia está por debajo de los 60Hz y determinada carga o circuito se desconecta del sistema automáticamente hasta que se estabilice.",
-    "timestamp": 1752735091,
-    "timestamp_local": 1752735091
-  },
-  {
-    "id": 41807,
-    "fecha": "17 de Jul del 2025 a las 02:50 AM",
-    "hora_utc": "2025-07-17 06:50",
-    "mensaje": "🚨Se les informa a los clientes que se encuentran disparados por DAF  los  14,17,25.",
-    "timestamp": 1752735008,
-    "timestamp_local": 1752735008
   }
 ]
