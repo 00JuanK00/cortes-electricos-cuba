@@ -1,9 +1,11 @@
-[
-  "title":"null",
-  "descripction":"null",
-  "img":"null",
-  "link":"null",
-  "btn1":"null",
-  "btn2":"null",
-  "cancelable":"null"
-]
+{
+	"show_dialog":"true",
+	"title":"Info",
+	"description":"null",
+	"btn_acept":"Aceptar",
+	"btn_cancel":"Cancelar",
+	"show_btn_cancel":"true",
+	"cardview_image":"true",
+	"url_image":"null",
+	"cancelable":"true"
+}
