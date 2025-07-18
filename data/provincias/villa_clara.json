@@ -1,9 +1,33 @@
 [
   {
+    "id": 25349,
+    "fecha": "18 de Jul del 2025 a las 12:58 AM",
+    "hora_utc": "2025-07-18 04:58",
+    "mensaje": "Afectados 139 MW en la provincia, demanda máxima posible a apagar en estos momentos.",
+    "timestamp": 1752814706,
+    "timestamp_local": 1752814706
+  },
+  {
+    "id": 25348,
+    "fecha": "18 de Jul del 2025 a las 12:35 AM",
+    "hora_utc": "2025-07-18 04:35",
+    "mensaje": "💡Será restablecido el servicio eléctrico en el circuito 13 zona Industrial, del municipio Santa Clara.",
+    "timestamp": 1752813306,
+    "timestamp_local": 1752813306
+  },
+  {
+    "id": 25347,
+    "fecha": "18 de Jul del 2025 a las 12:33 AM",
+    "hora_utc": "2025-07-18 04:33",
+    "mensaje": "⚠️Afectados por déficit de generación los siguientes circuitos:\n🔹Bloque 4\n👉Municipio Santa Clara:\nCto 5 (Dobarganes)\nCto 17 (Subplanta)",
+    "timestamp": 1752813234,
+    "timestamp_local": 1752813234
+  },
+  {
     "id": 25346,
     "fecha": "18 de Jul del 2025 a las 12:27 AM",
     "hora_utc": "2025-07-18 04:27",
-    "mensaje": "💡Restablecido el servicio eléctrico en los siguientes circuitos:\n🔹Bloque 5\n👉Municipio Corralillo:\nCtos 58 y 159\nCto 57 Motembo\nCto 56 Yabre\nCto 60 La Sierra\n👉Municipio Santa Clara:\nCtos 1, 2, 4 (Consejo- Centro)\n\n🔹Bloque 7\n👉Municipio Ranchuelo: \nCtos 89, 97, 188 y 189\nCtos 148 y 149 San Juan\nCto 91 Batey Osvaldo Herrera\nCto 181 Batey Ifraín Alfonso",
+    "mensaje": "💡Restablecido el servicio eléctrico en los siguientes circuitos:\n🔹Bloque 5\n👉Municipio Corralillo:\nCtos 58 y 159\nCto 57 Motembo\nCto 56 Yabre\n\nCto 60 La Sierra\n👉Municipio Quemado:\nCto 196 Batey Panchito Gómez Toro.\n👉Municipio Corralillo:\nCto 55 Rancho Veloz \n\n👉Municipio Santa Clara:\nCtos 1, 2, 4 (Consejo- Centro)\n\n🔹Bloque 7\n👉Municipio Ranchuelo: \nCtos 89, 97, 188 y 189\nCtos 148 y 149 San Juan\nCto 91 Batey Osvaldo Herrera\nCto 181 Batey Ifraín Alfonso",
     "timestamp": 1752812845,
     "timestamp_local": 1752812845
   },
@@ -118,29 +142,5 @@
     "mensaje": "🔸Actualización del servicio eléctrico en la provincia🔸\n✍️De los 193 circuitos apagables que presenta la provincia, se mantienen afectados 152 circuitos.\n✍️En el momento de hacer esta nota la provincia tiene 151 MW de afectación por déficit de capacidad de generación, demanda máxima posible a apagar.\n✍️Cuenta con 103 afectaciones por averías secundarias y de servicio.",
     "timestamp": 1752796929,
     "timestamp_local": 1752796929
-  },
-  {
-    "id": 25328,
-    "fecha": "17 de Jul del 2025 a las 07:53 PM",
-    "hora_utc": "2025-07-17 23:53",
-    "mensaje": "⚠️Afectado el servicio eléctrico en los siguientes circuitos:\n🔹Bloque 5\n👉Municipio Santa Clara:\nCtos 1, 2, 3 y 4 (Consejo- Centro)\n🔹Bloque 3\n👉Municipio Santa Clara:\nCto 168 (Condado- XX Aniversario)",
-    "timestamp": 1752796398,
-    "timestamp_local": 1752796398
-  },
-  {
-    "id": 25327,
-    "fecha": "17 de Jul del 2025 a las 07:37 PM",
-    "hora_utc": "2025-07-17 23:37",
-    "mensaje": "💡Restablecido el servicio eléctrico en los circuitos siguientes:\nBloque 3\nMunicipio Santa Clara:\nCto 166 (Condado)\nCto 167 (Virginia)\nCto 170 (José Martí)\nCto 171 (Los Caneyes)\nCto 31 (Sakenaf)",
-    "timestamp": 1752795454,
-    "timestamp_local": 1752795454
-  },
-  {
-    "id": 25326,
-    "fecha": "17 de Jul del 2025 a las 07:34 PM",
-    "hora_utc": "2025-07-17 23:34",
-    "mensaje": "💡Restablecido el servicio eléctrico en los siguientes circuitos:\n🔹Bloque 1\n👉Municipio Manicaragua:\nCtos 109 y 150\nCtos 108 y 110 La Piedra\nCto 111 Mataguá",
-    "timestamp": 1752795299,
-    "timestamp_local": 1752795299
   }
 ]
