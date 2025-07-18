@@ -1,5 +1,29 @@
 [
   {
+    "id": 25385,
+    "fecha": "18 de Jul del 2025 a las 12:48 PM",
+    "hora_utc": "2025-07-18 16:48",
+    "mensaje": "⚠️Será afectado por déficit de generación circuito 30 SC Industrial perteneciente al municipio de Santa Clara.",
+    "timestamp": 1752857287,
+    "timestamp_local": 1752857287
+  },
+  {
+    "id": 25384,
+    "fecha": "18 de Jul del 2025 a las 12:41 PM",
+    "hora_utc": "2025-07-18 16:41",
+    "mensaje": "🕛Actualización del servicio eléctrico en las últimas 6 horas.\n👉El déficit de capacidad de generación osciló entre los 118 MW y los 152MW.\n👉De los 193 circuitos apagables que presenta la provincia, se mantienen afectados 151 circuitos.\n👉Cuenta con 91 afectaciones por averías secundarias y de servicio:\nCaibarién (1)\nCamajuaní (2)\nEncrucijada (5)Manicaragua (13)\nRemedios (7)\nQuemado (1)\nRanchuelo (1)\nRemedios (5)\nSagua (4)\nSanta Clara (42)\nSanto Domingo (15)\n🛠️Se encuentran 8 averías en vías de solución.\n🛠️Pendientes a solucionar por el área técnica 20.\n⚡Averías Primarias:\n👉Linea 1365 afectando los circuitos 71 Buena Vista y 143 Heriberto Duquezne.\n👉Cto 122 Encrucijada.\n👉Cto 110 La Piedra afectado de manera parcial afectado Ramal Pico Blanco.\n👉 Linea 1915 afectando los circuitos 192 Benito Juarez y 103 Peroti. pertenecientes al municipio de Placetas.",
+    "timestamp": 1752856868,
+    "timestamp_local": 1752856868
+  },
+  {
+    "id": 25383,
+    "fecha": "18 de Jul del 2025 a las 12:17 PM",
+    "hora_utc": "2025-07-18 16:17",
+    "mensaje": "📣Clientes del municipio Caibarién pertenecientes al bloque 8 , debido ante la compleja situación actual  del alto nivel de déficit de capacidad de generación que existe en la Provincia no ha sido posible restablecer y cumplir con el horario de rotación de dicho municipio por tanto , el restablecimiento del servicio dependerá del comportamiento y la disponibilidad del sistema y se tendrá en cuenta a la hora de restablecer el servicio siempre y cuando las condiciones del sistema lo permitan.",
+    "timestamp": 1752855464,
+    "timestamp_local": 1752855464
+  },
+  {
     "id": 25381,
     "fecha": "18 de Jul del 2025 a las 11:43 AM",
     "hora_utc": "2025-07-18 15:43",
@@ -134,29 +158,5 @@
     "mensaje": "⚡Afectado por emergencia el circuito 122 del municipio Encrucijada. Brigada eléctrica prepara las condiciones necesarias para trabajar en el lugar.",
     "timestamp": 1752842790,
     "timestamp_local": 1752842790
-  },
-  {
-    "id": 25364,
-    "fecha": "18 de Jul del 2025 a las 08:41 AM",
-    "hora_utc": "2025-07-18 12:41",
-    "mensaje": "🛠️ Afectada por disparo Línea 108:\nAfecta los siguientes circuitos:\nMunicipio Ranchuelo:\n👉Cto 92 Esperanza (Pueblo)\n👉Cto 93 Esperanza (Campo)\nMunicipio Santa Clara:\n👉Ctos 26 y 141 (Manuelita)\n👉Cto 191 (Quemado de Hilario)",
-    "timestamp": 1752842513,
-    "timestamp_local": 1752842513
-  },
-  {
-    "id": 25363,
-    "fecha": "18 de Jul del 2025 a las 08:28 AM",
-    "hora_utc": "2025-07-18 12:28",
-    "mensaje": "Debido a la compleja situación del SEN (Sistema Eléctrico Nacional) que presenta la provincia, con los altos niveles de déficit de capacidad de generación, no es posible cumplir con la programación establecida.\n✍️La provincia se encuentra en su máxima capacidad apagable debido al incremento de la demanda por déficit de capacidad de generación.\n ✍️El restablecimiento del servicio eléctrico dependerá del comportamiento, la demanda y la disponibilidad del sistema eléctrico.",
-    "timestamp": 1752841721,
-    "timestamp_local": 1752841721
-  },
-  {
-    "id": 25362,
-    "fecha": "18 de Jul del 2025 a las 08:27 AM",
-    "hora_utc": "2025-07-18 12:27",
-    "mensaje": "⚡Afectado parcialmente el circuito 110 (La Piedra), del municipio Manicaragua en el ramal Pico Blanco. Se estudian las causas.",
-    "timestamp": 1752841637,
-    "timestamp_local": 1752841637
   }
 ]
