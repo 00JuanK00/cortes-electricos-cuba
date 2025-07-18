@@ -1,11 +1,27 @@
 [
   {
-    "id": 41909,
-    "fecha": "18 de Jul del 2025 a las 05:52 PM",
-    "hora_utc": "2025-07-18 21:52",
-    "mensaje": "🔴Se les informa a nuestros clientes que ha sido restablecido el servicio eléctrico de la línea 5975 Baconao.",
-    "timestamp": 1752875553,
-    "timestamp_local": 1752875553
+    "id": 41912,
+    "fecha": "18 de Jul del 2025 a las 06:14 PM",
+    "hora_utc": "2025-07-18 22:14",
+    "mensaje": "🔴Se les informa a nuestros clientes que se afecta por Déficit de Capacidad de Generación los circuitos 25 de Santiago y 1 de Palma .",
+    "timestamp": 1752876876,
+    "timestamp_local": 1752876876
+  },
+  {
+    "id": 41911,
+    "fecha": "18 de Jul del 2025 a las 06:01 PM",
+    "hora_utc": "2025-07-18 22:01",
+    "mensaje": "🔴Disparo Automático de Frecuencia (DAF):\nOcurre cuando la frecuencia está por debajo de los 60Hz y determinada carga o circuito se desconecta del sistema automáticamente hasta que se estabilice.",
+    "timestamp": 1752876085,
+    "timestamp_local": 1752876085
+  },
+  {
+    "id": 41910,
+    "fecha": "18 de Jul del 2025 a las 06:00 PM",
+    "hora_utc": "2025-07-18 22:00",
+    "mensaje": "🔴Se les informa a nuestros clientes que se encuentran disparados por DAF los circuitos 25 de Santiago y 1 de Palma .",
+    "timestamp": 1752876058,
+    "timestamp_local": 1752876058
   },
   {
     "id": 41908,
@@ -142,21 +158,5 @@
     "mensaje": "🚨Estimados clientes se le informa que en estos momentos están afectados por Déficit de Capacidad de Generación  el circuito 20 de Santiago de Cuba .",
     "timestamp": 1752856110,
     "timestamp_local": 1752856110
-  },
-  {
-    "id": 41891,
-    "fecha": "18 de Jul del 2025 a las 11:34 AM",
-    "hora_utc": "2025-07-18 15:34",
-    "mensaje": "Disparo:\nApertura no voluntaria de un interruptor como vía de protección para desconectar uno o varios elementos del circuito, subestación o sistema, restableciéndose el servicio rápidamente en dependencia de la causa",
-    "timestamp": 1752852864,
-    "timestamp_local": 1752852864
-  },
-  {
-    "id": 41890,
-    "fecha": "18 de Jul del 2025 a las 11:34 AM",
-    "hora_utc": "2025-07-18 15:34",
-    "mensaje": "🚨 Estimados clientes se les informa que la Línea 4435 está Disparado , disculpen por las molestias ocasionadas.",
-    "timestamp": 1752852844,
-    "timestamp_local": 1752852844
   }
 ]
