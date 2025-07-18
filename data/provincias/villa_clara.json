@@ -1,5 +1,29 @@
 [
   {
+    "id": 25389,
+    "fecha": "18 de Jul del 2025 a las 01:34 PM",
+    "hora_utc": "2025-07-18 17:34",
+    "mensaje": "💡Restablecido el servicio eléctrico en la linea 1915.\nMunicipio Placetas:\n👉Cto 192 Benito Juárez\n👉Cto 102 Peroti",
+    "timestamp": 1752860055,
+    "timestamp_local": 1752860055
+  },
+  {
+    "id": 25388,
+    "fecha": "18 de Jul del 2025 a las 01:18 PM",
+    "hora_utc": "2025-07-18 17:18",
+    "mensaje": "💡Restablecido el servicio eléctrico en la linea 1365 perteneciente al municipio de Remedios.",
+    "timestamp": 1752859083,
+    "timestamp_local": 1752859083
+  },
+  {
+    "id": 25387,
+    "fecha": "18 de Jul del 2025 a las 01:16 PM",
+    "hora_utc": "2025-07-18 17:16",
+    "mensaje": "💡Restablecido el servicio eléctrico en los siguientes circuitos:👉Cto 162 y 132 SC Industrial.",
+    "timestamp": 1752859012,
+    "timestamp_local": 1752859012
+  },
+  {
     "id": 25386,
     "fecha": "18 de Jul del 2025 a las 12:58 PM",
     "hora_utc": "2025-07-18 16:58",
@@ -134,29 +158,5 @@
     "mensaje": "⚠️Afectados por déficit de capacidad de generación los circuitos 132 y 162 (SC Industrial).",
     "timestamp": 1752845052,
     "timestamp_local": 1752845052
-  },
-  {
-    "id": 25368,
-    "fecha": "18 de Jul del 2025 a las 09:13 AM",
-    "hora_utc": "2025-07-18 13:13",
-    "mensaje": "🔸Actualización del servicio eléctrico en la provincia🔸\n✍️De los 193 circuitos apagables que presenta la provincia, se mantienen afectados 152 circuitos.\n✍️En el momento de hacer esta nota la provincia tiene 123 MW de afectación por déficit de capacidad de generación, demanda máxima posible a apagar.\n✍️Cuenta con 96 afectaciones por averías secundarias y de servicio.",
-    "timestamp": 1752844418,
-    "timestamp_local": 1752844418
-  },
-  {
-    "id": 25367,
-    "fecha": "18 de Jul del 2025 a las 09:02 AM",
-    "hora_utc": "2025-07-18 13:02",
-    "mensaje": "⚡Afectada la línea 1915 al momento de restablecerse por déficit de capacidad de generación:\nAfecta los siguientes circuitos:\nMunicipio Placetas:\n👉Cto 192 Benito Juárez\n👉Cto 102 Peroti\n✍️ Se estudian las causas.",
-    "timestamp": 1752843761,
-    "timestamp_local": 1752843761
-  },
-  {
-    "id": 25366,
-    "fecha": "18 de Jul del 2025 a las 08:53 AM",
-    "hora_utc": "2025-07-18 12:53",
-    "mensaje": "🛠️ 💡Con servicio línea 108:\nMunicipio Ranchuelo:\n👉Cto 92 Esperanza (Pueblo)\n👉Cto 93 Esperanza (Campo)\nMunicipio Santa Clara:\n👉Ctos 26 y 141 (Manuelita)\n👉Cto 191 (Quemado de Hilario)",
-    "timestamp": 1752843186,
-    "timestamp_local": 1752843186
   }
 ]
