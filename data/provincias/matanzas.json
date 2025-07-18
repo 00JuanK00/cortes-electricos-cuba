@@ -1,5 +1,29 @@
 [
   {
+    "id": 22890,
+    "fecha": "18 de Jul del 2025 a las 02:11 PM",
+    "hora_utc": "2025-07-18 18:11",
+    "mensaje": "En estos momentos tenemos afectados por déficit de capacidad de generación 136 MW en la provincia.",
+    "timestamp": 1752862281,
+    "timestamp_local": 1752862281
+  },
+  {
+    "id": 22889,
+    "fecha": "18 de Jul del 2025 a las 02:02 PM",
+    "hora_utc": "2025-07-18 18:02",
+    "mensaje": "En estos momentos tenemos afectados por déficit de capacidad de generación 120 MW en la provincia.",
+    "timestamp": 1752861762,
+    "timestamp_local": 1752861762
+  },
+  {
+    "id": 22888,
+    "fecha": "18 de Jul del 2025 a las 02:01 PM",
+    "hora_utc": "2025-07-18 18:01",
+    "mensaje": "En estos momentos tenemos afectados por déficit de capacidad de generación 121 MW en la provincia.",
+    "timestamp": 1752861701,
+    "timestamp_local": 1752861701
+  },
+  {
     "id": 22887,
     "fecha": "18 de Jul del 2025 a las 12:56 PM",
     "hora_utc": "2025-07-18 16:56",
@@ -126,29 +150,5 @@
     "mensaje": "En estos momentos tenemos afectados por déficit de capacidad de generación 146 MW en la provincia.",
     "timestamp": 1752833916,
     "timestamp_local": 1752833916
-  },
-  {
-    "id": 22870,
-    "fecha": "18 de Jul del 2025 a las 06:15 AM",
-    "hora_utc": "2025-07-18 10:15",
-    "mensaje": "En estos momentos tenemos afectados por déficit de capacidad de generación 136 MW en la provincia.",
-    "timestamp": 1752833700,
-    "timestamp_local": 1752833700
-  },
-  {
-    "id": 22869,
-    "fecha": "18 de Jul del 2025 a las 06:01 AM",
-    "hora_utc": "2025-07-18 10:01",
-    "mensaje": "Ante cualquier anomalía con el servicio eléctrico, usted debe llamar al 18888 y reportar la queja. Las operadoras en línea deben darle un número de reporte, guárdelo por si necesita llamar nuevamente para saber en qué proceso se encuentra la misma.",
-    "timestamp": 1752832918,
-    "timestamp_local": 1752832918
-  },
-  {
-    "id": 22868,
-    "fecha": "18 de Jul del 2025 a las 05:31 AM",
-    "hora_utc": "2025-07-18 09:31",
-    "mensaje": "Terminología eléctrica: \n⚠️Disparo automático por frecuencia (DAF).\nUn disparo por frecuencia o Descarga Automática por Frecuencia (DAF) , es una protección que posee el sistema eléctrico para cuando la frecuencia llega a valores mínimos permisibles que ponen en peligro la estabilidad de todo el sistema en su conjunto y provoca una desconexión automática de algunos circuitos hasta que se vuelva a recuperar su valor nominal a 60Hz o ciclos por segundo.",
-    "timestamp": 1752831118,
-    "timestamp_local": 1752831118
   }
 ]
