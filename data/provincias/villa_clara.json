@@ -1,5 +1,21 @@
 [
   {
+    "id": 25425,
+    "fecha": "19 de Jul del 2025 a las 12:34 AM",
+    "hora_utc": "2025-07-19 04:34",
+    "mensaje": "💡Restablecido el servicio eléctrico en los siguientes circuitos:Municipio Santa Clara\n👉Cto 7 (Universidad)\n👉Cto 22 (Construcciones Textil)\n👉Cto 131 (Las Antillas)\n👉Cto 153 (EIDE)",
+    "timestamp": 1752899687,
+    "timestamp_local": 1752899687
+  },
+  {
+    "id": 25424,
+    "fecha": "19 de Jul del 2025 a las 12:19 AM",
+    "hora_utc": "2025-07-19 04:19",
+    "mensaje": "Afectados 166 MW en la provincia, demanda máxima posible a apagar en estos momentos.",
+    "timestamp": 1752898762,
+    "timestamp_local": 1752898762
+  },
+  {
     "id": 25423,
     "fecha": "19 de Jul del 2025 a las 12:02 AM",
     "hora_utc": "2025-07-19 04:02",
@@ -134,21 +150,5 @@
     "mensaje": "🕕Actualización del servicio eléctrico en las últimas 6 horas.\n✍️El déficit de capacidad de generación osciló entre los 140 MW y los 176 MW.\n✍️De los 193 circuitos apagables que presenta la provincia, se mantienen afectados 171 circuitos.\n ✍️Cuenta con 99 afectaciones por averías secundarias y de servicio:\n Caibarién (3)\n Camajuaní (1)\n Cifuentes (2)\n Encrucijada (7)\n Manicaragua (6)\n Placetas (1)\n Remedios (13) \n Sagua (7) \n Santa Clara (27)\n Santo Domingo (11)\nSe encuentran 4 averías en vías de solución.\nPendientes a solucionar por el área técnica 17.\n\n⚡Avería.⚡\nAfectado parcialmente el Cto 110 (La Piedra)en el ramal Pico Blanco ,perteneciente al municipio de Manicaragua.",
     "timestamp": 1752878115,
     "timestamp_local": 1752878115
-  },
-  {
-    "id": 25405,
-    "fecha": "18 de Jul del 2025 a las 06:22 PM",
-    "hora_utc": "2025-07-18 22:22",
-    "mensaje": "Afectados 176 MW en la provincia, demanda máxima posible a apagar en estos momentos.",
-    "timestamp": 1752877369,
-    "timestamp_local": 1752877369
-  },
-  {
-    "id": 25404,
-    "fecha": "18 de Jul del 2025 a las 06:08 PM",
-    "hora_utc": "2025-07-18 22:08",
-    "mensaje": "💡Será restablecido el servicio eléctrico en los siguientes circuitos:\n🔹Bloque 2\nMunicipio Santo Domingo:\n👉Cto 195 Batey George Washington\n👉Ctos 83 y 165 Manacas\n👉Ctos 85 y 86 Pajarito\n👉Ctos 160 y 161 Cascajal\n🔹Bloque 9\nMunicipio Santa Clara:\n👉Cto 16 Cubanacán\n👉Ctos 23 y 130 La Ceniza\n👉Cto 42 Manajanabo\nMunicipio Placetas\n👉Cto 139 Miller\n👉Cto 190 Oliver\n👉Cto 106 Falcón",
-    "timestamp": 1752876511,
-    "timestamp_local": 1752876511
   }
 ]
