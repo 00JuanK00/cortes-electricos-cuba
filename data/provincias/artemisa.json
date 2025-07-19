@@ -1,5 +1,21 @@
 [
   {
+    "id": 31807,
+    "fecha": "19 de Jul del 2025 a las 05:50 PM",
+    "hora_utc": "2025-07-19 21:50",
+    "mensaje": "❌En estos momentos 130 MW de afectación",
+    "timestamp": 1752961806,
+    "timestamp_local": 1752961806
+  },
+  {
+    "id": 31806,
+    "fecha": "19 de Jul del 2025 a las 05:49 PM",
+    "hora_utc": "2025-07-19 21:49",
+    "mensaje": "⛔Afectado por déficit circuito 3185 de Artemisa",
+    "timestamp": 1752961765,
+    "timestamp_local": 1752961765
+  },
+  {
     "id": 31805,
     "fecha": "19 de Jul del 2025 a las 04:12 PM",
     "hora_utc": "2025-07-19 20:12",
@@ -51,7 +67,7 @@
     "id": 31799,
     "fecha": "19 de Jul del 2025 a las 01:01 PM",
     "hora_utc": "2025-07-19 17:01",
-    "mensaje": "⛔Se mantienen afectados los circuitos:\n\n➡️246 de Bahía\n➡️1580 de Alquizar\n➡️3220 de San Antonio\n➡️Circuito 13000 de Cada mito\n➡️341 de San Cristóbal\n➡️Circuito Maní de San Cristóbal\n➡️Circuito 1258 de Artemisa\n➡️Circuito 1580 de Alquizar\n\n❌En estos momentos 122 MW de Afectación",
+    "mensaje": "⛔Se mantienen afectados los circuitos:\n\n➡️246 de Bahía\n➡️1580 de Alquizar\n➡️3220 de San Antonio\n➡️Circuito 13000 de Caimito\n➡️341 de San Cristóbal\n➡️Circuito Maní de San Cristóbal\n➡️Circuito 1258 de Artemisa\n➡️Circuito 1580 de Alquizar\n\n❌En estos momentos 122 MW de Afectación",
     "timestamp": 1752944518,
     "timestamp_local": 1752944518
   },
@@ -134,21 +150,5 @@
     "mensaje": "🚨Restablecida la avería en el circuito 1424 de San Pedro , quedando afectado el \ncircuito de Bauta Nueva y Villa Salado de Caimito , pendiente a recorrer en el día de hoy 🚨",
     "timestamp": 1752922873,
     "timestamp_local": 1752922873
-  },
-  {
-    "id": 31786,
-    "fecha": "19 de Jul del 2025 a las 06:48 AM",
-    "hora_utc": "2025-07-19 10:48",
-    "mensaje": "🚨se mantienen afectado por déficit de generación los circuitos 🚨\n➡️Circuito Balkan de Caimito                                                                  ➡️Circuito Caimito Pueblo                                                  ➡️Circuito 1580 de Alquizar                                                               ➡️Circuito A1270 de Artemisa                                                  ➡️Circuito 246 de Bahía Honda                                                        ➡️Circuito 3305 de Guira de Melena                                                \n                                                       ‼️tenemos una afectación de 133MW en la provincia  ‼️",
-    "timestamp": 1752922104,
-    "timestamp_local": 1752922104
-  },
-  {
-    "id": 31785,
-    "fecha": "19 de Jul del 2025 a las 01:30 AM",
-    "hora_utc": "2025-07-19 05:30",
-    "mensaje": "🚨se mantienen afectado por déficit de generación los circuitos 🚨\n➡️Circuito 1580 de Alquizar             ➡️Circuito 1940 de San Antonio                                                          ➡️Circuito A1262 y A1258 de Artemisa                                                                      ➡️Circuito 241 de Bahía Honda                                                        ➡️Circuito 1570 de Artemisa\n➡️Circuito 1500 de Artemisa                                           ➡️Circuito 341 de San Cristóbal                                                                    \n‼️tenemos una afectación de 149 MW en la provincia  ‼️",
-    "timestamp": 1752903057,
-    "timestamp_local": 1752903057
   }
 ]
