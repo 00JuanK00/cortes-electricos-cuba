@@ -1,9 +1,25 @@
 [
   {
+    "id": 30862,
+    "fecha": "19 de Jul del 2025 a las 05:35 PM",
+    "hora_utc": "2025-07-19 21:35",
+    "mensaje": "‼️ Información ‼️\n👉 Se encuentra sin servicio eléctrico por emergencia el circuito 1 y 3, para eliminar puntos calientes en las cuchillas. Hasta las 6:30 p.m aproximadamente. Ofrecemos disculpas por las molestias ocasionadas.",
+    "timestamp": 1752960926,
+    "timestamp_local": 1752960926
+  },
+  {
+    "id": 30861,
+    "fecha": "19 de Jul del 2025 a las 05:06 PM",
+    "hora_utc": "2025-07-19 21:06",
+    "mensaje": "‼️ Información ‼️\n👉 Restablecido el servicio eléctrico del circuito 5.",
+    "timestamp": 1752959219,
+    "timestamp_local": 1752959219
+  },
+  {
     "id": 30860,
     "fecha": "19 de Jul del 2025 a las 03:50 PM",
     "hora_utc": "2025-07-19 19:50",
-    "mensaje": "‼️ Déficit de Generación ‼️    \n👉 Tenemos afectados 60 MW en la provincia.\n  💥Se afectan los siguientes circuitos:\n👉 Patria, Turiguanó\n⏰ Reiteramos que los circuitos se afectarán o se restablecerán en dependencia del déficit solicitado en cada momento de la jornada que es muy variable.",
+    "mensaje": "‼️ Déficit de Generación ‼️    \n👉 Tenemos afectados 60 MW en la provincia.\n  💥Se afectan los siguientes circuitos:\n👉 Micro Norte, Patria, Turiguanó\n⏰ Reiteramos que los circuitos se afectarán o se restablecerán en dependencia del déficit solicitado en cada momento de la jornada que es muy variable.",
     "timestamp": 1752954608,
     "timestamp_local": 1752954608
   },
@@ -142,21 +158,5 @@
     "mensaje": "🚨Déficit de Generación🚨\n\n    \n👉 Tenemos afectados 67 MW de déficit  en la provincia.\n \n\n⏰ Reiteramos que los circuitos se afectarán o se restablecerán en dependencia del déficit solicitado en cada momento de la jornada que es muy variable.",
     "timestamp": 1752857880,
     "timestamp_local": 1752857880
-  },
-  {
-    "id": 30841,
-    "fecha": "18 de Jul del 2025 a las 12:55 PM",
-    "hora_utc": "2025-07-18 16:55",
-    "mensaje": "✅ Información.\n👉 Se restablece el servicio en el circuito 1.",
-    "timestamp": 1752857733,
-    "timestamp_local": 1752857733
-  },
-  {
-    "id": 30840,
-    "fecha": "18 de Jul del 2025 a las 12:41 PM",
-    "hora_utc": "2025-07-18 16:41",
-    "mensaje": "✅ Información.\n👉 Se encuentra sin servicio el circuito 1, se trabaja para restablecer el servicio en el menor tiempo posible.",
-    "timestamp": 1752856911,
-    "timestamp_local": 1752856911
   }
 ]
