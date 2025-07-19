@@ -1,5 +1,13 @@
 [
   {
+    "id": 22902,
+    "fecha": "19 de Jul del 2025 a las 03:01 AM",
+    "hora_utc": "2025-07-19 07:01",
+    "mensaje": "En estos momentos tenemos afectados 157 MW afectados por déficit de capacidad de generación.",
+    "timestamp": 1752908499,
+    "timestamp_local": 1752908499
+  },
+  {
     "id": 22901,
     "fecha": "19 de Jul del 2025 a las 02:03 AM",
     "hora_utc": "2025-07-19 06:03",
@@ -142,13 +150,5 @@
     "mensaje": "- Cárdenas : Cuevas Viejas 10  afectados                                                                                                                                                                                    -Cárdenas : Bombeo La Fé 17  afectados                                                                                                                                                                                    -Cárdenas : Guásima , Finca Los Mangos 30  afectados                                                                                                                                                            -Varadero : La Conchita 50  clientes afectados                                                                                                                                                                                       -Matanzas: Capricho entre Callejón La Paz y Zargazazo 60 clientes afectados                                                                                                                                        -Colón : Calle Martí 80 clientes afectados- Cárdenas : Cuevas Viejas 10  afectados",
     "timestamp": 1752849288,
     "timestamp_local": 1752849288
-  },
-  {
-    "id": 22882,
-    "fecha": "18 de Jul del 2025 a las 09:58 AM",
-    "hora_utc": "2025-07-18 13:58",
-    "mensaje": "-Colón MK1702 México clientes afectados 2700                                                                                                                                                                -Cólon MK202 Guareiras y La Rosa afectados 690 clientes                                                                                                                                                       -Jaguey MU 4470 afectados 2102 clientes",
-    "timestamp": 1752847091,
-    "timestamp_local": 1752847091
   }
 ]
