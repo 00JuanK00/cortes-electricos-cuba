@@ -1,5 +1,37 @@
 [
   {
+    "id": 25461,
+    "fecha": "19 de Jul del 2025 a las 03:44 PM",
+    "hora_utc": "2025-07-19 19:44",
+    "mensaje": "⚠️Afectada por emergencia línea 861 perteneciente al municipio Santa Clara.\nLínea 861 \nMunicipio Santa Clara:\nCto 5 (Dobarganes)\nCto 17 (Subplanta) \nCtos 37 y 38 (Yabú)   \nCto 13 (Zona Industrial)  \nCto 9 (Moldes y Troqueles)\nCto 133 (Cafetera)",
+    "timestamp": 1752954263,
+    "timestamp_local": 1752954263
+  },
+  {
+    "id": 25460,
+    "fecha": "19 de Jul del 2025 a las 03:40 PM",
+    "hora_utc": "2025-07-19 19:40",
+    "mensaje": "⚠️Afectados por déficit de generación los siguientes circuitos:\n🔸Bloque 2\nMunicipio Camajuaní:\n👉Ctos 72 y 129\n👉Cto 75 La Quinta\n👉Cto 157 Luis Arcos Bergnes\n👉Ctos 76 y 90 Vega Alta\nMunicipio Cifuentes:\n👉Ctos 114 y 117\n👉Ctos 116 y 155 Mata\n👉Cto 186 Batey Unidad Proletaria\n👉Cto 184 Sitio Grande",
+    "timestamp": 1752954003,
+    "timestamp_local": 1752954003
+  },
+  {
+    "id": 25459,
+    "fecha": "19 de Jul del 2025 a las 03:10 PM",
+    "hora_utc": "2025-07-19 19:10",
+    "mensaje": "Afectados 117 MW en la provincia, demanda máxima posible a apagar en estos momentos.",
+    "timestamp": 1752952200,
+    "timestamp_local": 1752952200
+  },
+  {
+    "id": 25458,
+    "fecha": "19 de Jul del 2025 a las 03:08 PM",
+    "hora_utc": "2025-07-19 19:08",
+    "mensaje": "⚠️Se encuentra disparada la línea 1210 perteneciente al municipio Quemado, se estudian las posibles causas.\nLínea 1210\nMunicipio Quemado:\nCtos 164, 52 y 53 Quemado.\nCto 196 Batey Panchito Gómez Toro.\nMunicipio Corralillo:\nCto 55 Rancho Veloz",
+    "timestamp": 1752952127,
+    "timestamp_local": 1752952127
+  },
+  {
     "id": 25457,
     "fecha": "19 de Jul del 2025 a las 02:51 PM",
     "hora_utc": "2025-07-19 18:51",
@@ -110,37 +142,5 @@
     "mensaje": "💡Restablecido el servicio eléctrico en los siguientes circuitos:\n🔹Bloque 8\nMunicipio Caibarién\n👉Ctos 63 y 64\n👉Ctos 182 y 183 Van Troi",
     "timestamp": 1752930253,
     "timestamp_local": 1752930253
-  },
-  {
-    "id": 25441,
-    "fecha": "19 de Jul del 2025 a las 09:00 AM",
-    "hora_utc": "2025-07-19 13:00",
-    "mensaje": "Afectados 131 MW en la provincia, demanda máxima posible a apagar en estos momentos.",
-    "timestamp": 1752930036,
-    "timestamp_local": 1752930036
-  },
-  {
-    "id": 25440,
-    "fecha": "19 de Jul del 2025 a las 08:52 AM",
-    "hora_utc": "2025-07-19 12:52",
-    "mensaje": "⚡Avería⚡\nAfectados los siguientes circuitos pertenecientes al municipio Santo Domingo, se estudian las posibles causas.\n👉Ctos 87 y 96 Bermejal\n👉Cto 134",
-    "timestamp": 1752929578,
-    "timestamp_local": 1752929578
-  },
-  {
-    "id": 25439,
-    "fecha": "19 de Jul del 2025 a las 08:35 AM",
-    "hora_utc": "2025-07-19 12:35",
-    "mensaje": "💡Restablecido el servicio eléctrico en los siguientes circuitos:\n🔹Bloque 2 \nMunicipio Camajuaní:\n👉Ctos 72 y 129\n👉Cto 75 La Quinta\n👉Cto 157 Luis Arcos Bergnes\n👉Ctos 76 y 90 Vega Alta\nMunicipio Santo Domingo:\n👉Cto 195 Batey George Washington\n👉Ctos 83 y 165 Manacas\n👉Ctos 85 y 86 Pajarito\n👉Ctos 160 y 161 Cascajal\n🔹Bloque 8\nMunicipio Caibarién:\n👉Ctos 61, 62 \n🔹Bloque 5\nMunicipio Santo Domingo:\n👉Cto 134\n👉Ctos 87 y 96 Bermejal\n👉Cto 187 Batey Carlos Baliño\n👉Cto 82 Ulacia\n👉Cto 84 Rodrigo\n🔹Bloque 11\nMunicipio Remedios:\n👉Ctos 67 y 152, 68 y 118 \n👉Ctos 69 y 70 Zuluetas\n👉Cto 143 Batey Heriberto Duquesne\n👉Cto 71 Buena Vista",
-    "timestamp": 1752928503,
-    "timestamp_local": 1752928503
-  },
-  {
-    "id": 25438,
-    "fecha": "19 de Jul del 2025 a las 08:03 AM",
-    "hora_utc": "2025-07-19 12:03",
-    "mensaje": "🔸Actualización del servicio eléctrico en la provincia🔸\n✍️De los 193 circuitos apagables que presenta la provincia, se mantienen afectados 170 circuitos.\n✍️En el momento de hacer esta nota la provincia tiene 148 MW de afectación por déficit de capacidad de generación, demanda máxima posible a apagar.\n✍️Cuenta con 80 afectaciones por averías secundarias y de servicio.",
-    "timestamp": 1752926612,
-    "timestamp_local": 1752926612
   }
 ]
