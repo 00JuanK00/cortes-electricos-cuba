@@ -1,5 +1,13 @@
 [
   {
+    "id": 22937,
+    "fecha": "20 de Jul del 2025 a las 06:21 AM",
+    "hora_utc": "2025-07-20 10:21",
+    "mensaje": "En estos momentos tenemos afectados 160 MW afectados por déficit de capacidad de generación.",
+    "timestamp": 1753006919,
+    "timestamp_local": 1753006919
+  },
+  {
     "id": 22936,
     "fecha": "20 de Jul del 2025 a las 05:01 AM",
     "hora_utc": "2025-07-20 09:01",
@@ -150,13 +158,5 @@
     "mensaje": "Circuitos no apagables que se afectarán debido al alto déficit:\n\n- Circuitos CI185, JI48 y GI101 se afectarán de 18:00 a 01:00\n\n- Circuito Z1183 se afectará de 19:00 a 00:00\n\n- Circuito Z130 se afectará de 20:00 a 23:00\n\n- Circuito 5223 se afectará de 20:00 a 02:00\n\nAl amanecer de mañana:\n- Circuito CI185 y GI101 se afectarán de 04:00 a 07:00",
     "timestamp": 1752945807,
     "timestamp_local": 1752945807
-  },
-  {
-    "id": 22917,
-    "fecha": "19 de Jul del 2025 a las 01:06 PM",
-    "hora_utc": "2025-07-19 17:06",
-    "mensaje": "En estos momentos tenemos afectados 121MW afectados por déficit de capacidad de generación.",
-    "timestamp": 1752944762,
-    "timestamp_local": 1752944762
   }
 ]
