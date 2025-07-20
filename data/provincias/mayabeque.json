@@ -1,9 +1,25 @@
 [
   {
+    "id": 82218,
+    "fecha": "20 de Jul del 2025 a las 09:20 AM",
+    "hora_utc": "2025-07-20 13:20",
+    "mensaje": "🚨Por déficit de capacidad de generación se afecta el servicio en el siguiente circuito:\n*Aguacate 🚨",
+    "timestamp": 1753017607,
+    "timestamp_local": 1753017607
+  },
+  {
+    "id": 82217,
+    "fecha": "20 de Jul del 2025 a las 09:19 AM",
+    "hora_utc": "2025-07-20 13:19",
+    "mensaje": "🔷♦️Se restablece el servicio en el siguiente circuito que se encontraba afectado por déficit de capacidad de generación:\n*Madruga ♦️🔷",
+    "timestamp": 1753017580,
+    "timestamp_local": 1753017580
+  },
+  {
     "id": 82216,
     "fecha": "20 de Jul del 2025 a las 09:12 AM",
     "hora_utc": "2025-07-20 13:12",
-    "mensaje": "🔷 Restablecido el servicio en el siguiente circuito que se encontraba afectado por avería:\n*Jamaica 🔷",
+    "mensaje": "🔷 Restablecido el servicio en los siguientes circuitos que se encontraban afectados por avería:\n*Jamaica \n*Nazareno 🔷",
     "timestamp": 1753017131,
     "timestamp_local": 1753017131
   },
@@ -11,7 +27,7 @@
     "id": 82215,
     "fecha": "20 de Jul del 2025 a las 09:09 AM",
     "hora_utc": "2025-07-20 13:09",
-    "mensaje": "♦️ Afectado el servicio en los siguientes circuitos por avería:\n*Babiney\n*Menocal\n*Nazareno ♦️",
+    "mensaje": "♦️ Afectado el servicio en los siguientes circuitos por avería:\n*Babiney\n*Menocal ♦️",
     "timestamp": 1753016950,
     "timestamp_local": 1753016950
   },
@@ -134,21 +150,5 @@
     "mensaje": "🔷♦️Se restablece el servicio en el siguiente circuito que se encontraba afectado por déficit de capacidad de generación:\n*2440 ♦️🔷",
     "timestamp": 1753007586,
     "timestamp_local": 1753007586
-  },
-  {
-    "id": 82198,
-    "fecha": "20 de Jul del 2025 a las 06:32 AM",
-    "hora_utc": "2025-07-20 10:32",
-    "mensaje": "🔷♦️Se restablece el servicio en el siguiente circuito que se encontraba afectado por déficit de capacidad de generación:\n*Somorrostro ♦️🔷",
-    "timestamp": 1753007561,
-    "timestamp_local": 1753007561
-  },
-  {
-    "id": 82197,
-    "fecha": "20 de Jul del 2025 a las 06:27 AM",
-    "hora_utc": "2025-07-20 10:27",
-    "mensaje": "🔷♦️Se restablece el servicio en los siguientes circuitos que se encontraban afectados por déficit de capacidad de generación:\n*Catalina 1 y 2 ♦️🔷",
-    "timestamp": 1753007274,
-    "timestamp_local": 1753007274
   }
 ]
