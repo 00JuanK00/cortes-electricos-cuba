@@ -1,5 +1,45 @@
 [
   {
+    "id": 25532,
+    "fecha": "20 de Jul del 2025 a las 12:39 PM",
+    "hora_utc": "2025-07-20 16:39",
+    "mensaje": "⚡Afectada Linea 1915 por disparo en la Sub Estación Eléctrica perteneciente al Municipio de Placetas , se estudian las causas, afectados los siguientes circuitos:Municipio Placetas:\n👉Cto 192 Benito Juárez\n👉Cto 102 Peroti",
+    "timestamp": 1753029554,
+    "timestamp_local": 1753029554
+  },
+  {
+    "id": 25531,
+    "fecha": "20 de Jul del 2025 a las 12:22 PM",
+    "hora_utc": "2025-07-20 16:22",
+    "mensaje": "Afectados 174 MW en la provincia, demanda máxima posible a apagar en estos momentos.",
+    "timestamp": 1753028534,
+    "timestamp_local": 1753028534
+  },
+  {
+    "id": 25530,
+    "fecha": "20 de Jul del 2025 a las 12:20 PM",
+    "hora_utc": "2025-07-20 16:20",
+    "mensaje": "🕛Actualización del servicio eléctrico en las últimas 6 horas.\n✍️ El déficit de capacidad de generación osciló entre los 143 MW y los 174 MW.\n✍️ De los 193 circuitos apagables que presenta la provincia, se mantienen afectados 177 circuitos.\n✍️ Cuenta con 106 afectaciones por averías secundarias y de servicio:\nCaibarién (6)\nCifuentes (1)\nCorralillo (5)\nManicaragua (11)\nPlacetas (1)\nRemedios (6) \nSagua (2) \nSanta Clara (48)\nSanto Domingo (7)\n🛠️Se encuentran 7 averías en vías de solución.\n🛠️Pendientes a solucionar por el área técnica 13.\n✅La provincia no presenta averías primarias",
+    "timestamp": 1753028444,
+    "timestamp_local": 1753028444
+  },
+  {
+    "id": 25529,
+    "fecha": "20 de Jul del 2025 a las 12:11 PM",
+    "hora_utc": "2025-07-20 16:11",
+    "mensaje": "💡Restablecido el servicio en el Cto 70(Zulueta) perteneciente al Municipio de Remedios.",
+    "timestamp": 1753027879,
+    "timestamp_local": 1753027879
+  },
+  {
+    "id": 25528,
+    "fecha": "20 de Jul del 2025 a las 12:09 PM",
+    "hora_utc": "2025-07-20 16:09",
+    "mensaje": "✍️Debido a la compleja situación del SEN (Sistema Eléctrico Nacional) que presenta la provincia, no es posible cumplir con la planificación establecida.\n ✍️El restablecimiento del servicio eléctrico dependerá del comportamiento, la demanda y la disponibilidad del sistema eléctrico.\n✍️Al restablecer los circuitos se les esta brindando servicio aproximadamente por 2 Horas para así poder rotar los circuitos de la provincia.",
+    "timestamp": 1753027773,
+    "timestamp_local": 1753027773
+  },
+  {
     "id": 25527,
     "fecha": "20 de Jul del 2025 a las 12:04 PM",
     "hora_utc": "2025-07-20 16:04",
@@ -110,45 +150,5 @@
     "mensaje": "💡Restablecido el servicio eléctrico en los siguientes circuitos:\n🔹Bloque 11\nMunicipio Remedios:\n👉Ctos 67 y 152, 68 y 118 \n👉Ctos 69 y 70 Zuluetas\n👉Cto 143 Batey Heriberto Duquesne\n👉Cto 71 Buena Vista",
     "timestamp": 1753019644,
     "timestamp_local": 1753019644
-  },
-  {
-    "id": 25512,
-    "fecha": "20 de Jul del 2025 a las 09:33 AM",
-    "hora_utc": "2025-07-20 13:33",
-    "mensaje": "💡Restablecido el servicio eléctrico en los siguientes circuitos:\n🔹Bloque 2\n Municipio Santo Domingo:\n👉Cto 195 Batey George Washington\n👉Ctos 83 y 165 Manacas\n👉Ctos 85 y 86 Pajarito\n👉Ctos 160 y 161 Cascajal",
-    "timestamp": 1753018429,
-    "timestamp_local": 1753018429
-  },
-  {
-    "id": 25511,
-    "fecha": "20 de Jul del 2025 a las 09:25 AM",
-    "hora_utc": "2025-07-20 13:25",
-    "mensaje": "Afectados 153 MW en la provincia, demanda máxima posible a apagar en estos momentos.",
-    "timestamp": 1753017916,
-    "timestamp_local": 1753017916
-  },
-  {
-    "id": 25510,
-    "fecha": "20 de Jul del 2025 a las 09:20 AM",
-    "hora_utc": "2025-07-20 13:20",
-    "mensaje": "🛠️Manipulación en Linea 861 y continuarán afectados por déficit de capacidad de generación los siguientes circuitos:\nMunicipio Santa Clara:\n👉Cto 5 (Dobarganes)\n👉Cto 17 (Subplanta)",
-    "timestamp": 1753017603,
-    "timestamp_local": 1753017603
-  },
-  {
-    "id": 25509,
-    "fecha": "20 de Jul del 2025 a las 09:15 AM",
-    "hora_utc": "2025-07-20 13:15",
-    "mensaje": "⚠️Afectado el servicio eléctrico en el siguiente circuito:\n👉Cto 30 (SC. Industrial)",
-    "timestamp": 1753017330,
-    "timestamp_local": 1753017330
-  },
-  {
-    "id": 25508,
-    "fecha": "20 de Jul del 2025 a las 09:13 AM",
-    "hora_utc": "2025-07-20 13:13",
-    "mensaje": "💡Restablecido el servicio eléctrico en los siguientes circuitos:**👉Cto 132 SC. Industrial**\n**👉Cto 162 SC. Industrial**",
-    "timestamp": 1753017224,
-    "timestamp_local": 1753017224
   }
 ]
