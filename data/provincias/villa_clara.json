@@ -1,5 +1,21 @@
 [
   {
+    "id": 25564,
+    "fecha": "20 de Jul del 2025 a las 06:12 PM",
+    "hora_utc": "2025-07-20 22:12",
+    "mensaje": "Afectados 175 MW en la provincia, demanda máxima posible a apagar en estos momentos.",
+    "timestamp": 1753049541,
+    "timestamp_local": 1753049541
+  },
+  {
+    "id": 25562,
+    "fecha": "20 de Jul del 2025 a las 06:09 PM",
+    "hora_utc": "2025-07-20 22:09",
+    "mensaje": "⚠️Afectados por déficit de generación los siguientes circuitos:\n🔹Bloque 4\nMunicipio Santa Clara:\n👉Cto 5 (Dobarganes)\n👉Cto 17 (Subplanta) \n\n🔹Bloque 6\nMunicipio Sagua\n👉Cto 48 Finalet\n👉Ctos 46 y 128 Sitiecito\n\n🔹Bloque 7\nMunicipio Ranchuelo: \n👉Ctos 89, 97, 188 y 189\n👉Ctos 148 y 149 San Juan\n👉Cto 91 Batey Osvaldo Herrera\n👉Cto 181 Batey Ifraín Alfonso",
+    "timestamp": 1753049372,
+    "timestamp_local": 1753049372
+  },
+  {
     "id": 25561,
     "fecha": "20 de Jul del 2025 a las 05:51 PM",
     "hora_utc": "2025-07-20 21:51",
@@ -142,21 +158,5 @@
     "mensaje": "⚠️Afectados por déficit de generación los siguientes circuitos:\n\n🔹Bloque 3\n👉Cto 166 (Condado)\n👉Cto 153 (EIDE)",
     "timestamp": 1753036830,
     "timestamp_local": 1753036830
-  },
-  {
-    "id": 25542,
-    "fecha": "20 de Jul del 2025 a las 02:29 PM",
-    "hora_utc": "2025-07-20 18:29",
-    "mensaje": "Afectados 160 MW en la provincia, demanda máxima posible a apagar en estos momentos.",
-    "timestamp": 1753036166,
-    "timestamp_local": 1753036166
-  },
-  {
-    "id": 25541,
-    "fecha": "20 de Jul del 2025 a las 02:24 PM",
-    "hora_utc": "2025-07-20 18:24",
-    "mensaje": "🛠️Se afectará  Linea 1715, perteneciente al municipio de Santo Domingo por manipulación.",
-    "timestamp": 1753035897,
-    "timestamp_local": 1753035897
   }
 ]
