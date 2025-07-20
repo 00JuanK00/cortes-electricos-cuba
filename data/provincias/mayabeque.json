@@ -1,9 +1,25 @@
 [
   {
+    "id": 82266,
+    "fecha": "20 de Jul del 2025 a las 07:11 PM",
+    "hora_utc": "2025-07-20 23:11",
+    "mensaje": "♦️ Disparado el circuito 3140 por DAF ♦️",
+    "timestamp": 1753053081,
+    "timestamp_local": 1753053081
+  },
+  {
+    "id": 82265,
+    "fecha": "20 de Jul del 2025 a las 07:01 PM",
+    "hora_utc": "2025-07-20 23:01",
+    "mensaje": "🚨Por déficit de capacidad de generación se afecta el servicio en el siguiente circuito:\n*3660 🚨",
+    "timestamp": 1753052493,
+    "timestamp_local": 1753052493
+  },
+  {
     "id": 82264,
     "fecha": "20 de Jul del 2025 a las 06:58 PM",
     "hora_utc": "2025-07-20 22:58",
-    "mensaje": "🚨Por déficit de capacidad de generación se afecta el servicio en el siguiente circuito:\n*6 y 8 🚨",
+    "mensaje": "🚨Por déficit de capacidad de generación se afecta el servicio en el siguiente circuito:\n*6 y 8 de San José 🚨",
     "timestamp": 1753052322,
     "timestamp_local": 1753052322
   },
@@ -142,21 +158,5 @@
     "mensaje": "🔷♦️Se restablece el servicio en el siguiente circuito que se encontraba afectado por déficit de capacidad de generación:\n*Camacho ♦️🔷",
     "timestamp": 1753041743,
     "timestamp_local": 1753041743
-  },
-  {
-    "id": 82246,
-    "fecha": "20 de Jul del 2025 a las 03:09 PM",
-    "hora_utc": "2025-07-20 19:09",
-    "mensaje": "🔷 Restablecido el servicio en el circuito 3140 q se encontraba afectado por disparo por DAF 🔷",
-    "timestamp": 1753038570,
-    "timestamp_local": 1753038570
-  },
-  {
-    "id": 82245,
-    "fecha": "20 de Jul del 2025 a las 02:56 PM",
-    "hora_utc": "2025-07-20 18:56",
-    "mensaje": "♦️ Disparado el circuito 3140 por DAF ♦️",
-    "timestamp": 1753037770,
-    "timestamp_local": 1753037770
   }
 ]
