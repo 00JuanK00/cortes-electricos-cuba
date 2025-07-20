@@ -1,5 +1,21 @@
 [
   {
+    "id": 42003,
+    "fecha": "20 de Jul del 2025 a las 04:36 PM",
+    "hora_utc": "2025-07-20 20:36",
+    "mensaje": "🚨 Estimados clientes se le informa que en estos momentos están afectados por Déficit de Capacidad de Generación los circuitos 9 y 13",
+    "timestamp": 1753043812,
+    "timestamp_local": 1753043812
+  },
+  {
+    "id": 42002,
+    "fecha": "20 de Jul del 2025 a las 04:19 PM",
+    "hora_utc": "2025-07-20 20:19",
+    "mensaje": "🚨 Estimados clientes se le informa que en estos momentos están afectados por Déficit de Capacidad de Generación los circuitos 11, 14, 25, 1 de Palma y línea 5380 San Luis - Mella",
+    "timestamp": 1753042792,
+    "timestamp_local": 1753042792
+  },
+  {
     "id": 42001,
     "fecha": "20 de Jul del 2025 a las 04:01 PM",
     "hora_utc": "2025-07-20 20:01",
@@ -126,21 +142,5 @@
     "mensaje": "🚨 Estimados clientes se le informa que en estos momentos se queda afectado del circuito 10+3 la zona desde Santo Tomás hasta la Alameda por la vía libre",
     "timestamp": 1753022584,
     "timestamp_local": 1753022584
-  },
-  {
-    "id": 41983,
-    "fecha": "20 de Jul del 2025 a las 10:35 AM",
-    "hora_utc": "2025-07-20 14:35",
-    "mensaje": "🚨 Estimados clientes se le informa que en estos momentos se queda afectado el  circuito 10+3 para realizar una vía libre",
-    "timestamp": 1753022144,
-    "timestamp_local": 1753022144
-  },
-  {
-    "id": 41982,
-    "fecha": "20 de Jul del 2025 a las 10:31 AM",
-    "hora_utc": "2025-07-20 14:31",
-    "mensaje": "🚨 Estimados clientes se le informa que en estos momentos están afectados por Déficit de Capacidad de Generación los circuitos 12, 20, 4 de Palma, línea 5395 de San Luis",
-    "timestamp": 1753021894,
-    "timestamp_local": 1753021894
   }
 ]
