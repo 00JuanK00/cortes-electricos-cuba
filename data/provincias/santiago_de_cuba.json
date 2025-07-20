@@ -1,5 +1,21 @@
 [
   {
+    "id": 41973,
+    "fecha": "20 de Jul del 2025 a las 04:51 AM",
+    "hora_utc": "2025-07-20 08:51",
+    "mensaje": "🚨Informamos a nuestros clientes que en estos momentos se ha afectado el servicio eléctrico del circuito 25 de Santiago de Cuba, por un disparo automático de frecuencia (DAF) esto ocurre cuando la frecuencia está por debajo de los parámetros establecidos (60Hz), este circuito se desconecta del Sistema automáticamente hasta que se estabilice.",
+    "timestamp": 1753001481,
+    "timestamp_local": 1753001481
+  },
+  {
+    "id": 41972,
+    "fecha": "20 de Jul del 2025 a las 04:48 AM",
+    "hora_utc": "2025-07-20 08:48",
+    "mensaje": "Estimados clientes, debido a la compleja situación que presenta el sistema Eléctrico Nacional (SEN) no es posible cumplir con la rotación prevista según la programación diseñada, por lo que se extenderá el horario de afectación del servicio eléctrico, y su restablecimiento dependerá del comportamiento de la demanda y de la disponibilidad del sistema.",
+    "timestamp": 1753001294,
+    "timestamp_local": 1753001294
+  },
+  {
     "id": 41971,
     "fecha": "20 de Jul del 2025 a las 04:10 AM",
     "hora_utc": "2025-07-20 08:10",
@@ -134,21 +150,5 @@
     "mensaje": "Manipulaciones:\nAcciones que se realizan en los circuitos para dar paso al trabajo en zonas afectadas por averías o Vía Libre y posteriormente para restablecer el servicio eléctrico en los circuitos que se encontraban afectados y en los que se trabaja con anterioridad, luego de culminadas las labores pertinentes.",
     "timestamp": 1752964117,
     "timestamp_local": 1752964117
-  },
-  {
-    "id": 41953,
-    "fecha": "19 de Jul del 2025 a las 06:28 PM",
-    "hora_utc": "2025-07-19 22:28",
-    "mensaje": "🚨Estimados clientes se les informa que el circuito 15 se está manipulando , disculpen por las molestias ocasionadas.",
-    "timestamp": 1752964105,
-    "timestamp_local": 1752964105
-  },
-  {
-    "id": 41952,
-    "fecha": "19 de Jul del 2025 a las 05:35 PM",
-    "hora_utc": "2025-07-19 21:35",
-    "mensaje": "🚨Estimados clientes se le informa que en estos momentos están afectados por Déficit de Capacidad de Generación la Línea 5380 Mella , 5395 San Luis , 5390  La Maya .",
-    "timestamp": 1752960955,
-    "timestamp_local": 1752960955
   }
 ]
