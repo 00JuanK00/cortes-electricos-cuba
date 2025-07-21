@@ -1,5 +1,21 @@
 [
   {
+    "id": 42013,
+    "fecha": "20 de Jul del 2025 a las 11:23 PM",
+    "hora_utc": "2025-07-21 03:23",
+    "mensaje": "🔴 Disparo Automático de Frecuencia (DAF)🔴\nOcurre cuando la frecuencia está por debajo de los 60Hz y determinada carga o circuito se desconecta del sistema automáticamente hasta que se estabilice",
+    "timestamp": 1753068198,
+    "timestamp_local": 1753068198
+  },
+  {
+    "id": 42012,
+    "fecha": "20 de Jul del 2025 a las 11:22 PM",
+    "hora_utc": "2025-07-21 03:22",
+    "mensaje": "🔴🚨Estimados clientes en estos momentos se encuentran afectados por un disparo por DAF los circuitos 25 de Santiago y 1 de Palma,pedimos disculpas por las molestias ocasionadas.🔴🚨",
+    "timestamp": 1753068174,
+    "timestamp_local": 1753068174
+  },
+  {
     "id": 42011,
     "fecha": "20 de Jul del 2025 a las 10:54 PM",
     "hora_utc": "2025-07-21 02:54",
@@ -126,21 +142,5 @@
     "mensaje": "🚨 Estimados clientes se le informa que en estos momentos están afectados por Déficit de Capacidad de Generación la línea 5390 La Maya - II Frente",
     "timestamp": 1753033273,
     "timestamp_local": 1753033273
-  },
-  {
-    "id": 41993,
-    "fecha": "20 de Jul del 2025 a las 01:19 PM",
-    "hora_utc": "2025-07-20 17:19",
-    "mensaje": "🚨 Estimados clientes se le informa que en estos momentos están afectados por Déficit de Capacidad de Generación los circuitos 2, 16, 24, 26, línea 5330 Cristo y línea 5975 Baconao",
-    "timestamp": 1753031998,
-    "timestamp_local": 1753031998
-  },
-  {
-    "id": 41992,
-    "fecha": "20 de Jul del 2025 a las 12:48 PM",
-    "hora_utc": "2025-07-20 16:48",
-    "mensaje": "🚨 Estimados clientes se le informa que en estos momentos están afectados por Déficit de Capacidad de Generación los circuitos Palma Oeste, El Pilar, El Alambre y Protesta",
-    "timestamp": 1753030106,
-    "timestamp_local": 1753030106
   }
 ]
