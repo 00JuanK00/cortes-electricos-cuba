@@ -1,5 +1,29 @@
 [
   {
+    "id": 82335,
+    "fecha": "21 de Jul del 2025 a las 09:48 AM",
+    "hora_utc": "2025-07-21 13:48",
+    "mensaje": "🔷 Restablecido el servicio en el circuito UNAH por emergencia 🔷",
+    "timestamp": 1753105692,
+    "timestamp_local": 1753105692
+  },
+  {
+    "id": 82334,
+    "fecha": "21 de Jul del 2025 a las 09:42 AM",
+    "hora_utc": "2025-07-21 13:42",
+    "mensaje": "🚨 Continúa afectado el servicio por déficit de capacidad de generación en el circuito 2320 🚨",
+    "timestamp": 1753105347,
+    "timestamp_local": 1753105347
+  },
+  {
+    "id": 82333,
+    "fecha": "21 de Jul del 2025 a las 09:41 AM",
+    "hora_utc": "2025-07-21 13:41",
+    "mensaje": "🔷 Restablecido el servicio en el circuito 2320 por manipulación 🔷",
+    "timestamp": 1753105296,
+    "timestamp_local": 1753105296
+  },
+  {
     "id": 82331,
     "fecha": "21 de Jul del 2025 a las 08:51 AM",
     "hora_utc": "2025-07-21 12:51",
@@ -118,29 +142,5 @@
     "mensaje": "🚨Por déficit de capacidad de generación se afecta el servicio en el siguiente circuito:\n* Camacho  🚨",
     "timestamp": 1753098548,
     "timestamp_local": 1753098548
-  },
-  {
-    "id": 82314,
-    "fecha": "21 de Jul del 2025 a las 07:09 AM",
-    "hora_utc": "2025-07-21 11:09",
-    "mensaje": "🔷 Restablecido el servicio en el circuito 3140 que se encontraba afectado por disparo por DAF 🔷",
-    "timestamp": 1753096162,
-    "timestamp_local": 1753096162
-  },
-  {
-    "id": 82313,
-    "fecha": "21 de Jul del 2025 a las 07:03 AM",
-    "hora_utc": "2025-07-21 11:03",
-    "mensaje": "♦️ Afectado el servicio en el circuito de Sopapo por fusible fundido por 33 KVA ♦️",
-    "timestamp": 1753095812,
-    "timestamp_local": 1753095812
-  },
-  {
-    "id": 82312,
-    "fecha": "21 de Jul del 2025 a las 06:58 AM",
-    "hora_utc": "2025-07-21 10:58",
-    "mensaje": "🚨Por déficit de capacidad de generación se afecta el servicio en el siguiente circuito:\n*Somorrostro 🚨",
-    "timestamp": 1753095514,
-    "timestamp_local": 1753095514
   }
 ]
