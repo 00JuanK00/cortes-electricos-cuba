@@ -1,5 +1,21 @@
 [
   {
+    "id": 42016,
+    "fecha": "21 de Jul del 2025 a las 01:18 AM",
+    "hora_utc": "2025-07-21 05:18",
+    "mensaje": "🔴 Disparo Automático de Frecuencia (DAF)🔴\nOcurre cuando la frecuencia está por debajo de los 60Hz y determinada carga o circuito se desconecta del sistema automáticamente hasta que se estabilice",
+    "timestamp": 1753075109,
+    "timestamp_local": 1753075109
+  },
+  {
+    "id": 42015,
+    "fecha": "21 de Jul del 2025 a las 01:18 AM",
+    "hora_utc": "2025-07-21 05:18",
+    "mensaje": "🔴🚨Estimados clientes en estos momentos se encuentran afectados por un disparo por DAF los circuitos 25 de Santiago y 1 de Palma,pedimos disculpas por las molestias ocasionadas.🔴🚨",
+    "timestamp": 1753075085,
+    "timestamp_local": 1753075085
+  },
+  {
     "id": 42013,
     "fecha": "20 de Jul del 2025 a las 11:23 PM",
     "hora_utc": "2025-07-21 03:23",
@@ -118,21 +134,5 @@
     "mensaje": "🔴🔊🚨Estimados clientes se le informa que en estos momentos está disparado el circuito 25",
     "timestamp": 1753037987,
     "timestamp_local": 1753037987
-  },
-  {
-    "id": 41996,
-    "fecha": "20 de Jul del 2025 a las 02:44 PM",
-    "hora_utc": "2025-07-20 18:44",
-    "mensaje": "🔴 Manipulaciones:\nAcciones que se realizan en los circuitos para dar paso al trabajo en zonas afectadas por averías o Vía Libre y posteriormente para restablecer el servicio eléctrico en los circuitos que se encontraban afectados y en los que se trabaja con anterioridad, luego de culminadas las labores pertinentes.",
-    "timestamp": 1753037090,
-    "timestamp_local": 1753037090
-  },
-  {
-    "id": 41995,
-    "fecha": "20 de Jul del 2025 a las 02:44 PM",
-    "hora_utc": "2025-07-20 18:44",
-    "mensaje": "🔊🚨 Estimados clientes se le informa que en estos momentos están afectado el circuito 9 para reponer un fuse al aire",
-    "timestamp": 1753037053,
-    "timestamp_local": 1753037053
   }
 ]
