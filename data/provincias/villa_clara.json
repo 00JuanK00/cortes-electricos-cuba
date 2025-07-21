@@ -1,5 +1,21 @@
 [
   {
+    "id": 25611,
+    "fecha": "21 de Jul del 2025 a las 12:40 PM",
+    "hora_utc": "2025-07-21 16:40",
+    "mensaje": "⚡Se encuentra en avería la Línea 4608 afectando los siguientes circuitos:\n🔹Línea 4608\n👉Municipio Corralillo:\nCtos 58 y 159\nCto 57 Motembo\nCto 56 Yabre\nCto 60 La Sierra",
+    "timestamp": 1753116059,
+    "timestamp_local": 1753116059
+  },
+  {
+    "id": 25610,
+    "fecha": "21 de Jul del 2025 a las 12:02 PM",
+    "hora_utc": "2025-07-21 16:02",
+    "mensaje": "⚡Se encuentran en avería los circuitos 14 Maleza y 144 Camacho, por estar faltando una fase en la subestación.",
+    "timestamp": 1753113765,
+    "timestamp_local": 1753113765
+  },
+  {
     "id": 25609,
     "fecha": "21 de Jul del 2025 a las 11:59 AM",
     "hora_utc": "2025-07-21 15:59",
@@ -126,21 +142,5 @@
     "mensaje": "Afectados 141 MW en la provincia, demanda máxima posible a apagar en estos momentos.",
     "timestamp": 1753088944,
     "timestamp_local": 1753088944
-  },
-  {
-    "id": 25591,
-    "fecha": "21 de Jul del 2025 a las 02:19 AM",
-    "hora_utc": "2025-07-21 06:19",
-    "mensaje": "⚠️  Afectados por déficit de generación los siguientes circuitos:\n🔹Bloque 3\n👉Cto 167 (Virginia)\n👉Cto 170 (José Martí)\n👉Cto 171 (Los Caneyes)",
-    "timestamp": 1753078790,
-    "timestamp_local": 1753078790
-  },
-  {
-    "id": 25590,
-    "fecha": "21 de Jul del 2025 a las 02:14 AM",
-    "hora_utc": "2025-07-21 06:14",
-    "mensaje": "⚠️  Afectados por déficit de generación los siguientes circuitos:\n🔹Bloque 2Municipio Santo Domingo:\n👉Cto 195 Batey George Washington\n👉Ctos 83 y 165 Manacas\n👉Ctos 85 y 86 Pajarito\n👉Ctos 160 y 161 Cascajal\nMunicipio Camajuaní:\n👉Ctos 72 y 129\n👉Cto 75 La Quinta\n👉Cto 157 Luis Arcos Bergnes\n👉Ctos 76 y 90 Vega Alta\nMunicipio Cifuentes:\n👉Ctos 114 y 117\n👉Ctos 116 y 155 Mata\n👉Cto 186 Batey Unidad Proletaria\n👉Cto 184 Sitio Grande",
-    "timestamp": 1753078449,
-    "timestamp_local": 1753078449
   }
 ]
