@@ -1,5 +1,21 @@
 [
   {
+    "id": 25629,
+    "fecha": "21 de Jul del 2025 a las 06:24 PM",
+    "hora_utc": "2025-07-21 22:24",
+    "mensaje": "⚠️Afectados por déficit de generación los siguientes circuitos:\n🔹Bloque 4\n👉Municipio Santa Clara:\nCto 5 (Dobarganes)\nCto 17 (Subplanta)",
+    "timestamp": 1753136699,
+    "timestamp_local": 1753136699
+  },
+  {
+    "id": 25628,
+    "fecha": "21 de Jul del 2025 a las 06:08 PM",
+    "hora_utc": "2025-07-21 22:08",
+    "mensaje": "Clientes del municipio de Manicaragua pertenecientes al  Bloque 1 :\n\n✍ Debido a la compleja situación del SEN (Sistema Eléctrico Nacional) que presenta la provincia, no ha sido posible cumplir con la planificación establecida.\n\n✍️La provincia se encuentra en su máxima capacidad apagable debido al incremento de la demanda por déficit de capacidad de generación.       \n\n✍El restablecimiento dependerá del comportamiento y la disponibilidad del sistema, por lo que se tendrá en cuenta a la hora de restablecer el mismo , siempre y cuando las condiciones del sistema lo permitan",
+    "timestamp": 1753135711,
+    "timestamp_local": 1753135711
+  },
+  {
     "id": 25627,
     "fecha": "21 de Jul del 2025 a las 05:59 PM",
     "hora_utc": "2025-07-21 21:59",
@@ -142,21 +158,5 @@
     "mensaje": "🕛Actualización del servicio eléctrico en las últimas 6 horas.\n\n👉El déficit de capacidad de generación osciló entre los 173 MW y los 156 MW.\n👉De los 193 circuitos apagables que presenta la provincia, se mantienen afectados 163 circuitos.\n 👉Cuenta con 116 afectaciones por averías secundarias y de servicio:\n Caibarién (5)\n Encrucijada (3)\n Manicaragua (9)\n Placetas (1)\n Ranchuelo (1)\n Remedios (5) \n Sagua (3) \n Santa Clara (63)\n Santo Domingo (5)\n🛠️Se encuentran 7 averías en vías de solución.\n🛠️Pendientes a solucionar por el área técnica 15.\n⚡La provincia presenta avería en los circuitos 14 Maleza y 144 Camacho por estar faltando una fase en la subestación.",
     "timestamp": 1753113577,
     "timestamp_local": 1753113577
-  },
-  {
-    "id": 25608,
-    "fecha": "21 de Jul del 2025 a las 11:29 AM",
-    "hora_utc": "2025-07-21 15:29",
-    "mensaje": "🛠Disparo de la línea 119 , se estudian las causas.\nMunicipio Santa Clara\n👉Cto 144 ( Camacho)\n👉Cto 15 Maleza\n👉Cto 27 Maleza\n👉Cto 14 Maleza",
-    "timestamp": 1753111742,
-    "timestamp_local": 1753111742
-  },
-  {
-    "id": 25607,
-    "fecha": "21 de Jul del 2025 a las 11:26 AM",
-    "hora_utc": "2025-07-21 15:26",
-    "mensaje": "💡Restablecido el servicio eléctrico en las Líneas 6375 y 119, quedando afectados por déficit de generación los circuitos siguientes:\n🔹Bloque 10\n👉Municipio Santa Clara:\nCtos 15 y 27 (Maleza)",
-    "timestamp": 1753111562,
-    "timestamp_local": 1753111562
   }
 ]
