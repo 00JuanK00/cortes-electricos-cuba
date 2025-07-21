@@ -1,5 +1,29 @@
 [
   {
+    "id": 82340,
+    "fecha": "21 de Jul del 2025 a las 11:30 AM",
+    "hora_utc": "2025-07-21 15:30",
+    "mensaje": "🔷 Restablecido el servicio en las siguientes zonas correspondientes al circuito ML 45 que se encontraban afectados por avería \n* Batabanó\n* Surgidero 🔷",
+    "timestamp": 1753111849,
+    "timestamp_local": 1753111849
+  },
+  {
+    "id": 82339,
+    "fecha": "21 de Jul del 2025 a las 11:29 AM",
+    "hora_utc": "2025-07-21 15:29",
+    "mensaje": "♦️ Afectado el servicio en la zona de Palmarejo correspondiente al circuito Puerto Escondido por vía libre para cambio de transformador ♦️",
+    "timestamp": 1753111757,
+    "timestamp_local": 1753111757
+  },
+  {
+    "id": 82338,
+    "fecha": "21 de Jul del 2025 a las 11:13 AM",
+    "hora_utc": "2025-07-21 15:13",
+    "mensaje": "🔷♦️Se restablece el servicio en el siguiente circuito que se encontraba afectado por déficit de capacidad de generación:\n* Güines 1 ♦️🔷",
+    "timestamp": 1753110810,
+    "timestamp_local": 1753110810
+  },
+  {
     "id": 82337,
     "fecha": "21 de Jul del 2025 a las 10:03 AM",
     "hora_utc": "2025-07-21 14:03",
@@ -118,29 +142,5 @@
     "mensaje": "🚨Por déficit de capacidad de generación se afecta el servicio en el siguiente circuito:\n* Fénix  🚨",
     "timestamp": 1753100617,
     "timestamp_local": 1753100617
-  },
-  {
-    "id": 82320,
-    "fecha": "21 de Jul del 2025 a las 08:19 AM",
-    "hora_utc": "2025-07-21 12:19",
-    "mensaje": "🔷♦️Se restablece el servicio en el siguiente circuito que se encontraba afectado por déficit de capacidad de generación:\n* Camilo ♦️🔷",
-    "timestamp": 1753100342,
-    "timestamp_local": 1753100342
-  },
-  {
-    "id": 82319,
-    "fecha": "21 de Jul del 2025 a las 08:19 AM",
-    "hora_utc": "2025-07-21 12:19",
-    "mensaje": "🔷♦️Se restablece el servicio en el siguiente circuito que se encontraba afectado por déficit de capacidad de generación:\n* Bio 1 ♦️🔷",
-    "timestamp": 1753100340,
-    "timestamp_local": 1753100340
-  },
-  {
-    "id": 82318,
-    "fecha": "21 de Jul del 2025 a las 08:19 AM",
-    "hora_utc": "2025-07-21 12:19",
-    "mensaje": "🚨Por déficit de capacidad de generación se afecta el servicio en el siguiente circuito:\n* Bio 2  🚨",
-    "timestamp": 1753100340,
-    "timestamp_local": 1753100340
   }
 ]

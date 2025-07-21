@@ -1,5 +1,37 @@
 [
   {
+    "id": 42034,
+    "fecha": "21 de Jul del 2025 a las 11:30 AM",
+    "hora_utc": "2025-07-21 15:30",
+    "mensaje": "Disparo:\nApertura no voluntaria de un interruptor como vía de protección para desconectar uno o varios elementos del circuito, subestación o sistema, restableciéndose el servicio rápidamente en dependencia de la causa",
+    "timestamp": 1753111808,
+    "timestamp_local": 1753111808
+  },
+  {
+    "id": 42033,
+    "fecha": "21 de Jul del 2025 a las 11:28 AM",
+    "hora_utc": "2025-07-21 15:28",
+    "mensaje": "🚨Estimados clientes se les informa que el circuito 4 de Palma , se encuentra Disparado , disculpen por las molestias ocasionadas .",
+    "timestamp": 1753111707,
+    "timestamp_local": 1753111707
+  },
+  {
+    "id": 42032,
+    "fecha": "21 de Jul del 2025 a las 11:20 AM",
+    "hora_utc": "2025-07-21 15:20",
+    "mensaje": "🚨Estimados clientes se le informa que en estos momentos están afectados por Déficit de Capacidad de Generación el circuito El Pilar .",
+    "timestamp": 1753111220,
+    "timestamp_local": 1753111220
+  },
+  {
+    "id": 42031,
+    "fecha": "21 de Jul del 2025 a las 11:04 AM",
+    "hora_utc": "2025-07-21 15:04",
+    "mensaje": "🚨Estimados clientes se le informa que en estos momentos están afectados por Déficit de Capacidad de Generación  el circuito 11 de Santiago de Cuba .",
+    "timestamp": 1753110267,
+    "timestamp_local": 1753110267
+  },
+  {
     "id": 42030,
     "fecha": "21 de Jul del 2025 a las 10:23 AM",
     "hora_utc": "2025-07-21 14:23",
@@ -110,29 +142,5 @@
     "mensaje": "🔴🚨Estimados clientes en estos momentos se encuentran afectados por un disparo por DAF los circuitos 25 de Santiago y 1 de Palma,pedimos disculpas por las molestias ocasionadas.🔴🚨",
     "timestamp": 1753075085,
     "timestamp_local": 1753075085
-  },
-  {
-    "id": 42013,
-    "fecha": "20 de Jul del 2025 a las 11:23 PM",
-    "hora_utc": "2025-07-21 03:23",
-    "mensaje": "🔴 Disparo Automático de Frecuencia (DAF)🔴\nOcurre cuando la frecuencia está por debajo de los 60Hz y determinada carga o circuito se desconecta del sistema automáticamente hasta que se estabilice",
-    "timestamp": 1753068198,
-    "timestamp_local": 1753068198
-  },
-  {
-    "id": 42012,
-    "fecha": "20 de Jul del 2025 a las 11:22 PM",
-    "hora_utc": "2025-07-21 03:22",
-    "mensaje": "🔴🚨Estimados clientes en estos momentos se encuentran afectados por un disparo por DAF los circuitos 25 de Santiago y 1 de Palma,pedimos disculpas por las molestias ocasionadas.🔴🚨",
-    "timestamp": 1753068174,
-    "timestamp_local": 1753068174
-  },
-  {
-    "id": 42011,
-    "fecha": "20 de Jul del 2025 a las 10:54 PM",
-    "hora_utc": "2025-07-21 02:54",
-    "mensaje": "🔴🚨Estimados clientes se le informa que en estos momentos están afectados por Déficit de Capacidad de Generación los circuitos 7  y  16  de Santiago y las líneas 5330 de El Cristo, 5390 Songo-ll Frente y 4395 Contramaestre.🔴🚨",
-    "timestamp": 1753066451,
-    "timestamp_local": 1753066451
   }
 ]
