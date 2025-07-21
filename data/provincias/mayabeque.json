@@ -1,5 +1,61 @@
 [
   {
+    "id": 82358,
+    "fecha": "21 de Jul del 2025 a las 01:51 PM",
+    "hora_utc": "2025-07-21 17:51",
+    "mensaje": "🚨 Pasa a quedar afectado por déficit de capacidad de generación el circuito 3140 que se encontraba afectado por disparo por DAF 🚨",
+    "timestamp": 1753120269,
+    "timestamp_local": 1753120269
+  },
+  {
+    "id": 82357,
+    "fecha": "21 de Jul del 2025 a las 01:49 PM",
+    "hora_utc": "2025-07-21 17:49",
+    "mensaje": "🚨Por déficit de capacidad de generación se afecta el servicio en el siguiente circuito:\n* Picadura   🚨",
+    "timestamp": 1753120187,
+    "timestamp_local": 1753120187
+  },
+  {
+    "id": 82356,
+    "fecha": "21 de Jul del 2025 a las 01:48 PM",
+    "hora_utc": "2025-07-21 17:48",
+    "mensaje": "🔷 Restablecido el servicio en la zona Palmarejo correspondiente al circuito Puerto Escondido que se encontraba afectado por vía libre 🔷",
+    "timestamp": 1753120137,
+    "timestamp_local": 1753120137
+  },
+  {
+    "id": 82355,
+    "fecha": "21 de Jul del 2025 a las 01:33 PM",
+    "hora_utc": "2025-07-21 17:33",
+    "mensaje": "🔷 Restablecido el servicio en las siguientes zonas correspondientes al circuito ML 35 que se encontraban afectados por vía libre\n* Gamarra \n* Loma Candela\n* Tierra Colorada\n* Julián García 🔷",
+    "timestamp": 1753119236,
+    "timestamp_local": 1753119236
+  },
+  {
+    "id": 82354,
+    "fecha": "21 de Jul del 2025 a las 01:32 PM",
+    "hora_utc": "2025-07-21 17:32",
+    "mensaje": "🔷 Restablecido el servicio en el circuito ML 35 que se encontraba afectado por manipulación 🔷",
+    "timestamp": 1753119160,
+    "timestamp_local": 1753119160
+  },
+  {
+    "id": 82353,
+    "fecha": "21 de Jul del 2025 a las 01:28 PM",
+    "hora_utc": "2025-07-21 17:28",
+    "mensaje": "♦️ Afectado el servicio en el circuito 3140 por disparo por DAF ♦️",
+    "timestamp": 1753118926,
+    "timestamp_local": 1753118926
+  },
+  {
+    "id": 82352,
+    "fecha": "21 de Jul del 2025 a las 01:26 PM",
+    "hora_utc": "2025-07-21 17:26",
+    "mensaje": "♦️ Afectado el servicio en el circuito ML 35 por manipulación ♦️",
+    "timestamp": 1753118801,
+    "timestamp_local": 1753118801
+  },
+  {
     "id": 82351,
     "fecha": "21 de Jul del 2025 a las 12:33 PM",
     "hora_utc": "2025-07-21 16:33",
@@ -102,53 +158,5 @@
     "mensaje": "♦️ Afectado el servicio en la zona de Palmarejo correspondiente al circuito Puerto Escondido por vía libre para cambio de transformador ♦️",
     "timestamp": 1753111757,
     "timestamp_local": 1753111757
-  },
-  {
-    "id": 82338,
-    "fecha": "21 de Jul del 2025 a las 11:13 AM",
-    "hora_utc": "2025-07-21 15:13",
-    "mensaje": "🔷♦️Se restablece el servicio en el siguiente circuito que se encontraba afectado por déficit de capacidad de generación:\n* Güines 1 ♦️🔷",
-    "timestamp": 1753110810,
-    "timestamp_local": 1753110810
-  },
-  {
-    "id": 82337,
-    "fecha": "21 de Jul del 2025 a las 10:03 AM",
-    "hora_utc": "2025-07-21 14:03",
-    "mensaje": "🔷 Restablecido el servicio en el circuito ML 35 que se encontraba afectado por manipulación 🔷\n\n♦️ Quedando afectado el servicio en las siguientes zonas correspondientes al circuito Vedado de Güines por vía libre\n* Gamarra \n* Loma de Candela\n* Tierra Colorada\n* Julián García ♦️",
-    "timestamp": 1753106608,
-    "timestamp_local": 1753106608
-  },
-  {
-    "id": 82336,
-    "fecha": "21 de Jul del 2025 a las 10:00 AM",
-    "hora_utc": "2025-07-21 14:00",
-    "mensaje": "♦️ Afectado el servicio en el circuito ML 35 por manipulación ♦️",
-    "timestamp": 1753106406,
-    "timestamp_local": 1753106406
-  },
-  {
-    "id": 82335,
-    "fecha": "21 de Jul del 2025 a las 09:48 AM",
-    "hora_utc": "2025-07-21 13:48",
-    "mensaje": "🔷 Restablecido el servicio en el circuito UNAH por emergencia 🔷",
-    "timestamp": 1753105692,
-    "timestamp_local": 1753105692
-  },
-  {
-    "id": 82334,
-    "fecha": "21 de Jul del 2025 a las 09:42 AM",
-    "hora_utc": "2025-07-21 13:42",
-    "mensaje": "🚨 Continúa afectado el servicio por déficit de capacidad de generación en el circuito 2320 🚨",
-    "timestamp": 1753105347,
-    "timestamp_local": 1753105347
-  },
-  {
-    "id": 82333,
-    "fecha": "21 de Jul del 2025 a las 09:41 AM",
-    "hora_utc": "2025-07-21 13:41",
-    "mensaje": "🔷 Restablecido el servicio en el circuito 2320 por manipulación 🔷",
-    "timestamp": 1753105296,
-    "timestamp_local": 1753105296
   }
 ]
