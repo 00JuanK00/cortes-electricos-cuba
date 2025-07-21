@@ -1,5 +1,13 @@
 [
   {
+    "id": 25625,
+    "fecha": "21 de Jul del 2025 a las 04:59 PM",
+    "hora_utc": "2025-07-21 20:59",
+    "mensaje": "✅Ante cualquier duda con la terminología eléctrica, les volvemos explicar: \n     \n➡️Las averías pueden ser primarias (afecta un volumen grande de población pues son las líneas de distribución a 13.8kV y puede afectar varias manzanas, incluso repartos completos).\n\n➡️Secundarias (afecta a todos los clientes que se alimenten del mismo transformador, puede afectar una o varias cuadras). \n\n➡️De servicio (afectan 1 solo cliente o instalación generalmente producto a daños en la acometida, metro contador, etc.).",
+    "timestamp": 1753131556,
+    "timestamp_local": 1753131556
+  },
+  {
     "id": 25624,
     "fecha": "21 de Jul del 2025 a las 04:22 PM",
     "hora_utc": "2025-07-21 20:22",
@@ -150,13 +158,5 @@
     "mensaje": "✍️Debido a la compleja situación del SEN (Sistema Eléctrico Nacional) que presenta la provincia, no es posible cumplir con la planificación establecida.\n\n✍️La provincia se encuentra en su máxima capacidad apagable debido al incremento de la demanda por déficit de capacidad de generación.\n\n ✍️El restablecimiento del servicio eléctrico dependerá del comportamiento, la demanda y la disponibilidad del sistema eléctrico.",
     "timestamp": 1753110972,
     "timestamp_local": 1753110972
-  },
-  {
-    "id": 25604,
-    "fecha": "21 de Jul del 2025 a las 11:12 AM",
-    "hora_utc": "2025-07-21 15:12",
-    "mensaje": "Afectados 156 MW en la provincia, demanda máxima posible a apagar en estos momentos.",
-    "timestamp": 1753110723,
-    "timestamp_local": 1753110723
   }
 ]
