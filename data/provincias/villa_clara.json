@@ -1,9 +1,17 @@
 [
   {
+    "id": 25609,
+    "fecha": "21 de Jul del 2025 a las 11:59 AM",
+    "hora_utc": "2025-07-21 15:59",
+    "mensaje": "🕛Actualización del servicio eléctrico en las últimas 6 horas.\n\n👉El déficit de capacidad de generación osciló entre los 173 MW y los 156 MW.\n👉De los 193 circuitos apagables que presenta la provincia, se mantienen afectados 163 circuitos.\n 👉Cuenta con 116 afectaciones por averías secundarias y de servicio:\n Caibarién (5)\n Encrucijada (3)\n Manicaragua (9)\n Placetas (1)\n Ranchuelo (1)\n Remedios (5) \n Sagua (3) \n Santa Clara (63)\n Santo Domingo (5)\n🛠️Se encuentran 7 averías en vías de solución.\n🛠️Pendientes a solucionar por el área técnica 15.\n⚡La provincia presenta avería en los circuitos 14 Maleza y 144 Camacho por estar faltando una fase en la subestación.",
+    "timestamp": 1753113577,
+    "timestamp_local": 1753113577
+  },
+  {
     "id": 25608,
     "fecha": "21 de Jul del 2025 a las 11:29 AM",
     "hora_utc": "2025-07-21 15:29",
-    "mensaje": "🛠Disparo de la línea 119 , se estudian las causas.\nMunicipio Santa Clara\n👉Cto 144 ( Camacho)\n👉Cto 15 Maleza\n👉Cto 27 Maleza",
+    "mensaje": "🛠Disparo de la línea 119 , se estudian las causas.\nMunicipio Santa Clara\n👉Cto 144 ( Camacho)\n👉Cto 15 Maleza\n👉Cto 27 Maleza\n👉Cto 14 Maleza",
     "timestamp": 1753111742,
     "timestamp_local": 1753111742
   },
@@ -19,7 +27,7 @@
     "id": 25606,
     "fecha": "21 de Jul del 2025 a las 11:18 AM",
     "hora_utc": "2025-07-21 15:18",
-    "mensaje": "⚡️Afectada línea 6375 y 119 por manipulación.\nMunicipio Santa Clara\n👉Cto 144 ( Camacho)\n👉Cto 15 Maleza\n👉Cto 27 Maleza\n👉Cto 7 ( Universidad)\n👉 Cto146 (Aeropuerto)\n👉Cto 22 ( Construcciones Textil)\n👉 Cto 131 ( Las Antillas)\n👉 Cto 153 (Eide)",
+    "mensaje": "⚡️Afectada línea 6375 y 119 por manipulación.\nMunicipio Santa Clara\n👉Cto 144 ( Camacho)\n👉Cto 15 Maleza\n👉Cto 27 Maleza\n👉Cto 14 Maleza\n👉Cto 7 ( Universidad)\n👉 Cto146 (Aeropuerto)\n👉Cto 22 ( Construcciones Textil)\n👉 Cto 131 ( Las Antillas)\n👉 Cto 153 (Eide)",
     "timestamp": 1753111080,
     "timestamp_local": 1753111080
   },
@@ -134,13 +142,5 @@
     "mensaje": "⚠️  Afectados por déficit de generación los siguientes circuitos:\n🔹Bloque 2Municipio Santo Domingo:\n👉Cto 195 Batey George Washington\n👉Ctos 83 y 165 Manacas\n👉Ctos 85 y 86 Pajarito\n👉Ctos 160 y 161 Cascajal\nMunicipio Camajuaní:\n👉Ctos 72 y 129\n👉Cto 75 La Quinta\n👉Cto 157 Luis Arcos Bergnes\n👉Ctos 76 y 90 Vega Alta\nMunicipio Cifuentes:\n👉Ctos 114 y 117\n👉Ctos 116 y 155 Mata\n👉Cto 186 Batey Unidad Proletaria\n👉Cto 184 Sitio Grande",
     "timestamp": 1753078449,
     "timestamp_local": 1753078449
-  },
-  {
-    "id": 25589,
-    "fecha": "21 de Jul del 2025 a las 02:11 AM",
-    "hora_utc": "2025-07-21 06:11",
-    "mensaje": "💡 Restablecido el servicio eléctrico en los siguientes circuitos:\n🔹Bloque 5\nMunicipio Corralillo:\n👉Ctos 58 y 159\n👉Cto 57 Motembo\n👉Cto 56 Yabre\n👉Cto 60 La Sierra",
-    "timestamp": 1753078274,
-    "timestamp_local": 1753078274
   }
 ]
