@@ -1,5 +1,21 @@
 [
   {
+    "id": 22981,
+    "fecha": "21 de Jul del 2025 a las 09:04 AM",
+    "hora_utc": "2025-07-21 13:04",
+    "mensaje": "Ante cualquier anomalía con el servicio eléctrico, usted debe llamar al 18888 y reportar la queja. Las operadoras en línea deben darle un número de reporte, guárdelo por si necesita llamar nuevamente para saber en qué proceso se encuentra la misma.",
+    "timestamp": 1753103060,
+    "timestamp_local": 1753103060
+  },
+  {
+    "id": 22980,
+    "fecha": "21 de Jul del 2025 a las 08:33 AM",
+    "hora_utc": "2025-07-21 12:33",
+    "mensaje": "Terminología eléctrica:\n\n⚠Disparo automático por frecuencia (DAF).\nUn disparo por frecuencia o Descarga Automática por Frecuencia (DAF) , es una protección que posee el sistema eléctrico para cuando la frecuencia llega a valores mínimos permisibles que ponen en peligro la estabilidad de todo el sistema en su conjunto y provoca una desconexión automática de algunos circuitos hasta que se vuelva a recuperar su valor nominal a 60Hz o ciclos por segundo.",
+    "timestamp": 1753101203,
+    "timestamp_local": 1753101203
+  },
+  {
     "id": 22979,
     "fecha": "21 de Jul del 2025 a las 08:04 AM",
     "hora_utc": "2025-07-21 12:04",
@@ -142,21 +158,5 @@
     "mensaje": "En estos momentos tenemos afectados 178 MW afectados por déficit de capacidad de generación.",
     "timestamp": 1753056442,
     "timestamp_local": 1753056442
-  },
-  {
-    "id": 22959,
-    "fecha": "20 de Jul del 2025 a las 06:41 PM",
-    "hora_utc": "2025-07-20 22:41",
-    "mensaje": "En estos momentos tenemos afectados 168 MW afectados por déficit de capacidad de generación.",
-    "timestamp": 1753051300,
-    "timestamp_local": 1753051300
-  },
-  {
-    "id": 22958,
-    "fecha": "20 de Jul del 2025 a las 06:04 PM",
-    "hora_utc": "2025-07-20 22:04",
-    "mensaje": "En estos momentos tenemos afectados 166 MW afectados por déficit de capacidad de generación.",
-    "timestamp": 1753049096,
-    "timestamp_local": 1753049096
   }
 ]
