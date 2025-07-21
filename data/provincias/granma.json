@@ -1,9 +1,25 @@
 [
   {
+    "id": 22458,
+    "fecha": "21 de Jul del 2025 a las 12:24 AM",
+    "hora_utc": "2025-07-21 04:24",
+    "mensaje": "🛎️ Actualización del sistema electroenergético en la provincia Granma \n\n🔹Afectación contra demanda: 70 MW \n🔹Con servicio eléctrico: 28 MW \n\n✅Se restablece el servicio eléctrico para los circuitos:\n*Yara \n*Fabrica de conservas \n*Cayo Redondo \n*Sofía \n*Las Novillas \n\n\n❎ Afectado el servicio eléctrico para los circuitos:\n*Desarrollo \n\n🕚 Circuitos con mayor tiempo de afectación:\n*Jiguaní (8horas 30 min)\n\n\nContinuaremos informando.",
+    "timestamp": 1753071846,
+    "timestamp_local": 1753071846
+  },
+  {
+    "id": 22457,
+    "fecha": "21 de Jul del 2025 a las 12:10 AM",
+    "hora_utc": "2025-07-21 04:10",
+    "mensaje": "#**Nota**** : en estos momentos se encuentra en falla el circuito Zarzal**.\nContinuamos informando.",
+    "timestamp": 1753071025,
+    "timestamp_local": 1753071025
+  },
+  {
     "id": 22456,
     "fecha": "20 de Jul del 2025 a las 11:59 PM",
     "hora_utc": "2025-07-21 03:59",
-    "mensaje": "🛎️ Actualización del sistema electroenergético en la provincia Granma \n\n🔹Afectación contra demanda:72  MW \n🔹Con servicio eléctrico:33 MW \n\n✅ Restablecido el servicio eléctrico para los circuitos:\nBartolomé Masó \n\n\n\n🕚 Circuitos con mayor tiempo de afectación:\nJiguaní (8horas 10 min)\n\n\n\nContinuaremos informando.",
+    "mensaje": "🛎️ Actualización del sistema electroenergético en la provincia Granma \n\n🔹Afectación contra demanda:72  MW \n🔹Con servicio eléctrico:33 MW \n\n✅ Restablecido el servicio eléctrico para los circuitos:\n*Bartolomé Masó \n\n❎ Afectado el servicio eléctrico para el circuito:\n*Molino Rojo \n\n\n\n🕚 Circuitos con mayor tiempo de afectación:\nJiguaní (8horas 10 min)\n\n\n\nContinuaremos informando.",
     "timestamp": 1753070377,
     "timestamp_local": 1753070377
   },
@@ -142,21 +158,5 @@
     "mensaje": "🛎️ Actualización del sistema electroenergético en la provincia Granma \n\n🔹Afectación contra demanda: 70 MW \n🔹Con servicio eléctrico: 29 MW\n\n\n✅ Restablecido el servicio eléctrico para los circuitos:\n\n*Desarrollo \n*Diesel Caymare \n\n🕚 Circuitos con mayor tiempo de afectación:\n\n*Jiguaní (17h.20min)\n*Jiguaní Desarrollo (17h.29min)\n\n\n\nContinuaremos informando.",
     "timestamp": 1753019888,
     "timestamp_local": 1753019888
-  },
-  {
-    "id": 22438,
-    "fecha": "20 de Jul del 2025 a las 08:34 AM",
-    "hora_utc": "2025-07-20 12:34",
-    "mensaje": "📢  Nota Informativa - Situación del SEN al 20 de julio de 2025\n\nEn el día de ayer se afectó el servicio las 24 horas y se mantuvo afectado durante toda la madrugada de hoy. La máxima afectación por déficit de capacidad de generación en el día de ayer fue de 1897 MW a las 22:50 horas, coincidente con la hora de máxima demanda. \n\n☀️ Producción de energía de los 22 parques solares fotovoltaicos: 2557 MWh, con 482 MW como máxima potencia entregada en el horario de la media.\n\n🔧 Estado actual:\n\nDisponibilidad: 1746 MW.\nDemanda: 3273 MW.\nAfectación actual: 1590 MW. \nPronóstico para el mediodía: 1400 MW afectados.\n\n🔴 Pronóstico para el horario pico:\nSe proyecta una disponibilidad de 1936 MW y una demanda de 3700 MW, lo que generaría un déficit de 1764 MW, para una afectación de 1834 MW.\n\nMás detalles en 👇\nhttps://www.unionelectrica.cu/nota-informativa/\n\n#UNE #SEN #NotaInformativa #UniónEléctrica #PorCubaJuntosCreamos",
-    "timestamp": 1753014880,
-    "timestamp_local": 1753014880
-  },
-  {
-    "id": 22437,
-    "fecha": "20 de Jul del 2025 a las 07:44 AM",
-    "hora_utc": "2025-07-20 11:44",
-    "mensaje": "🛎️ Actualización del sistema electroenergético en la provincia Granma \n\n🔹Afectación contra demanda: 73 MW \n🔹Con servicio eléctrico: 25 MW\n\n\n\n✅ Restablecido el servicio eléctrico para los circuitos:\n* Cayama \n* Cayama Desarrollo \n* El pastor \n\n\n🕚 Circuitos con mayor tiempo de afectación:\n* Jiguaní (15horas 54 min)\n* Jiguaní Desarrollo \n\n\n\n\nContinuaremos informando.",
-    "timestamp": 1753011845,
-    "timestamp_local": 1753011845
   }
 ]
