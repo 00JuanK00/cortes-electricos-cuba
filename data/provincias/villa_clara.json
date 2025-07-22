@@ -1,5 +1,21 @@
 [
   {
+    "id": 25664,
+    "fecha": "22 de Jul del 2025 a las 07:47 AM",
+    "hora_utc": "2025-07-22 11:47",
+    "mensaje": "Afectados 151 MW en la provincia, demanda máxima posible  apagar en estos momentos.",
+    "timestamp": 1753184825,
+    "timestamp_local": 1753184825
+  },
+  {
+    "id": 25663,
+    "fecha": "22 de Jul del 2025 a las 07:45 AM",
+    "hora_utc": "2025-07-22 11:45",
+    "mensaje": "✍Ante la compleja situación actual, con alto niveles de déficit en la capacidad de generación, no resulta cumplir con la rotación de los bloques establecida para la provincia.\n \n👉Los circuitos se afectarán o se restablecerán en dependencia del déficit y la demanda máxima en cada momento de la jornada, que es muy variable\n\n✍Con esta condición, no es posible establecer horario ni tiempo de afectación.",
+    "timestamp": 1753184741,
+    "timestamp_local": 1753184741
+  },
+  {
     "id": 25661,
     "fecha": "22 de Jul del 2025 a las 06:14 AM",
     "hora_utc": "2025-07-22 10:14",
@@ -118,29 +134,5 @@
     "mensaje": "✍Ante la compleja situación actual, con alto niveles de déficit en la capacidad de generación, no resulta cumplir con la rotación de los bloques establecida para la provincia.\n \n👉Los circuitos se afectarán o se restablecerán en dependencia del déficit y la demanda máxima en cada momento de la jornada, que es muy variable\n\n✍Con esta condición, no es posible establecer horario ni tiempo de afectación.",
     "timestamp": 1753156704,
     "timestamp_local": 1753156704
-  },
-  {
-    "id": 25644,
-    "fecha": "21 de Jul del 2025 a las 11:40 PM",
-    "hora_utc": "2025-07-22 03:40",
-    "mensaje": "🕛Actualización del servicio eléctrico en las últimas 6 horas.\n\n👉El déficit de capacidad de generación osciló entre los 168 MW y los 166 MW.\n👉De los 193 circuitos apagables que presenta la provincia, se mantienen afectados 161 circuitos.\n 👉Cuenta con 111 afectaciones por averías secundarias y de servicio:\n Caibarién (6)\n Camajuaní (4)\n Corralillo (1)\n Encrucijada (2)\n Manicaragua (4)\n Remedios (9) \n Sagua (4) \n Santa Clara (55)\n Santo Domingo (2)\n🛠️Se encuentran 7 averías en vías de solución.\n🛠️Pendientes a solucionar por el área técnica 16.\n⚡La provincia no presenta averías primarias.",
-    "timestamp": 1753155639,
-    "timestamp_local": 1753155639
-  },
-  {
-    "id": 25643,
-    "fecha": "21 de Jul del 2025 a las 11:35 PM",
-    "hora_utc": "2025-07-22 03:35",
-    "mensaje": "💡Restablecido el circuito 3 Centro, de Santa Clara.",
-    "timestamp": 1753155307,
-    "timestamp_local": 1753155307
-  },
-  {
-    "id": 25642,
-    "fecha": "21 de Jul del 2025 a las 11:04 PM",
-    "hora_utc": "2025-07-22 03:04",
-    "mensaje": "⚠️Afectados por déficit de generación los siguientes circuitos:\n🔹Bloque 7\n👉Municipio Camajuaní:\nCtos 73 y 156 \nCto 74 José María Pérez",
-    "timestamp": 1753153476,
-    "timestamp_local": 1753153476
   }
 ]
