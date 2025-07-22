@@ -1,5 +1,21 @@
 [
   {
+    "id": 25671,
+    "fecha": "22 de Jul del 2025 a las 09:53 AM",
+    "hora_utc": "2025-07-22 13:53",
+    "mensaje": "Afectados 134 MW en la provincia, demanda máxima posible  apagar en estos momentos.",
+    "timestamp": 1753192406,
+    "timestamp_local": 1753192406
+  },
+  {
+    "id": 25670,
+    "fecha": "22 de Jul del 2025 a las 09:27 AM",
+    "hora_utc": "2025-07-22 13:27",
+    "mensaje": "🔸Actualización del servicio eléctrico en la provincia🔸\n✍️De los 193 circuitos apagables que presenta la provincia, se mantienen afectados 175 circuitos.\n✍️En el momento de hacer esta nota la provincia tiene 150 MW de afectación por déficit de capacidad de generación, demanda máxima posible a apagar.\n✍️Cuenta con 104 afectaciones por averías secundarias y de servicio.",
+    "timestamp": 1753190851,
+    "timestamp_local": 1753190851
+  },
+  {
     "id": 25669,
     "fecha": "22 de Jul del 2025 a las 09:22 AM",
     "hora_utc": "2025-07-22 13:22",
@@ -126,21 +142,5 @@
     "mensaje": "💡Restablecido el servicio eléctrico en el circuito 4 Centro.",
     "timestamp": 1753161044,
     "timestamp_local": 1753161044
-  },
-  {
-    "id": 25651,
-    "fecha": "22 de Jul del 2025 a las 01:10 AM",
-    "hora_utc": "2025-07-22 05:10",
-    "mensaje": "⚠️Afectados por déficit de generación los siguientes circuitos:\n🔹Bloque 9\n👉Municipio Santa Clara:\nCto 16 Cubanacán\nCtos 23 y 130 La Ceniza\nCto 42 Manajanabo\n👉Municipio Placetas\nCto 139 Miller\nCto 190 Oliver\nCto 106 Falcón",
-    "timestamp": 1753161003,
-    "timestamp_local": 1753161003
-  },
-  {
-    "id": 25650,
-    "fecha": "22 de Jul del 2025 a las 12:45 AM",
-    "hora_utc": "2025-07-22 04:45",
-    "mensaje": "💡Se restablece el servicio eléctrico en los circuitos siguientes:\n🔹Bloque 10\n👉Municipio Santa Clara:\nCtos 15 y 27 (Maleza)\n🔹Bloque 4\n👉Municipio Santa Clara:\nCto 5 (Dobarganes)\nCto 17 (Subplanta)",
-    "timestamp": 1753159507,
-    "timestamp_local": 1753159507
   }
 ]
