@@ -1,5 +1,45 @@
 [
   {
+    "id": 25722,
+    "fecha": "22 de Jul del 2025 a las 07:36 PM",
+    "hora_utc": "2025-07-22 23:36",
+    "mensaje": "Afectados 165 MW en la provincia, demanda máxima posible  apagar en estos momentos.",
+    "timestamp": 1753227380,
+    "timestamp_local": 1753227380
+  },
+  {
+    "id": 25721,
+    "fecha": "22 de Jul del 2025 a las 07:34 PM",
+    "hora_utc": "2025-07-22 23:34",
+    "mensaje": "💡Restablecido el servicio eléctrico en los siguientes circuitos:\n\n🔹Bloque 11\nMunicipio Quemado:\nCtos 52 y 53 Quemado.",
+    "timestamp": 1753227282,
+    "timestamp_local": 1753227282
+  },
+  {
+    "id": 25720,
+    "fecha": "22 de Jul del 2025 a las 07:22 PM",
+    "hora_utc": "2025-07-22 23:22",
+    "mensaje": "💡Restablecido el servicio eléctrico en los siguientes circuitos:\n🔹Bloque 4\nMunicipio Santa Clara:\n👉Cto 5 (Dobarganes)\n👉Cto 17 (Subplanta) \n👉Ctos 37 y 38 (Yabú)   \n👉Cto 13 (Zona Industrial)  \n👉Cto 9 (Moldes y Troqueles)\n👉Cto 133 (Cafetera)",
+    "timestamp": 1753226579,
+    "timestamp_local": 1753226579
+  },
+  {
+    "id": 25719,
+    "fecha": "22 de Jul del 2025 a las 07:06 PM",
+    "hora_utc": "2025-07-22 23:06",
+    "mensaje": "⚠️Afectados por déficit de generación el siguiente circuito:\n🔹Bloque 2\n👉Ctos 72 y 129👉Cto 75 La Quinta\n👉Cto 157 Luis Arcos Bergnes\n👉Ctos 76 y 90 Vega Alta\nMunicipio Cifuentes:\n👉Ctos 114 y 117\n👉Ctos 116 y 155 Mata\n👉Cto 186 Batey Unidad Proletaria\n👉Cto 184 Sitio Grande",
+    "timestamp": 1753225569,
+    "timestamp_local": 1753225569
+  },
+  {
+    "id": 25718,
+    "fecha": "22 de Jul del 2025 a las 07:01 PM",
+    "hora_utc": "2025-07-22 23:01",
+    "mensaje": "⚠️ Continua afectado el Cto 15 (Maleza ), Municipio Santa Clara por no ser posible restablecer el servicio en este momento",
+    "timestamp": 1753225266,
+    "timestamp_local": 1753225266
+  },
+  {
     "id": 25717,
     "fecha": "22 de Jul del 2025 a las 06:45 PM",
     "hora_utc": "2025-07-22 22:45",
@@ -118,45 +158,5 @@
     "mensaje": "⚠️Será afectado por déficit de generación el siguiente circuito:\n🔹Bloque 5\n👉Cto 2 ( Cosejo- Centro)",
     "timestamp": 1753213053,
     "timestamp_local": 1753213053
-  },
-  {
-    "id": 25701,
-    "fecha": "22 de Jul del 2025 a las 03:32 PM",
-    "hora_utc": "2025-07-22 19:32",
-    "mensaje": "⚠️Serán afectados por déficit de generación los siguientes circuitos:\n🔹Bloque 11\nMunicipio Corralillo\n👉Cto 55 Rancho Veloz\nMunicipio Quemado\n👉Cto 164 Lugardita",
-    "timestamp": 1753212749,
-    "timestamp_local": 1753212749
-  },
-  {
-    "id": 25700,
-    "fecha": "22 de Jul del 2025 a las 03:27 PM",
-    "hora_utc": "2025-07-22 19:27",
-    "mensaje": "⚠️Serán afectados por déficit de generación los siguientes circuitos:\n🔹Bloque 5 \n👉Ctos 1y 4 ( Consejo -Centro)",
-    "timestamp": 1753212425,
-    "timestamp_local": 1753212425
-  },
-  {
-    "id": 25699,
-    "fecha": "22 de Jul del 2025 a las 03:25 PM",
-    "hora_utc": "2025-07-22 19:25",
-    "mensaje": "⚠️Será afectado por déficit de generación el siguiente circuito:\n🔹Bloque 10\nMunicipio Placetas \n👉Circuito 99 Placetas",
-    "timestamp": 1753212300,
-    "timestamp_local": 1753212300
-  },
-  {
-    "id": 25698,
-    "fecha": "22 de Jul del 2025 a las 03:22 PM",
-    "hora_utc": "2025-07-22 19:22",
-    "mensaje": "💡Será restablecido el servicio eléctrico en los siguientes circuitos:\n🔹Bloque 7 \nMunicipio Camajuaní \n👉 Cto 73  y 156 Camajuaní \n👉Cto 74 José María Perez",
-    "timestamp": 1753212179,
-    "timestamp_local": 1753212179
-  },
-  {
-    "id": 25697,
-    "fecha": "22 de Jul del 2025 a las 03:11 PM",
-    "hora_utc": "2025-07-22 19:11",
-    "mensaje": "⚠️Serán afectados por déficit de generación los siguientes circuitos:\n🔹Bloque 6\nMunicipio Ranchuelo \n👉 Cto 92 Esperanza (Pueblo)\n👉 Cto 93 Esperanza ( Campo)",
-    "timestamp": 1753211485,
-    "timestamp_local": 1753211485
   }
 ]
