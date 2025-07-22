@@ -1,5 +1,21 @@
 [
   {
+    "id": 23007,
+    "fecha": "22 de Jul del 2025 a las 02:45 AM",
+    "hora_utc": "2025-07-22 06:45",
+    "mensaje": "En estos momentos tenemos afectados por déficit de capacidad de generación 165 MW en la provincia.",
+    "timestamp": 1753166740,
+    "timestamp_local": 1753166740
+  },
+  {
+    "id": 23006,
+    "fecha": "22 de Jul del 2025 a las 02:20 AM",
+    "hora_utc": "2025-07-22 06:20",
+    "mensaje": "Ante cualquier anomalía con el servicio eléctrico, usted debe llamar al 18888 y reportar la queja. Las operadoras en línea deben darle un número de reporte, guárdelo por si necesita llamar nuevamente para saber en qué proceso se encuentra la misma.",
+    "timestamp": 1753165232,
+    "timestamp_local": 1753165232
+  },
+  {
     "id": 23005,
     "fecha": "22 de Jul del 2025 a las 01:27 AM",
     "hora_utc": "2025-07-22 05:27",
@@ -142,21 +158,5 @@
     "mensaje": "-Matanzas: Pueblo Nuevo, calle Monserrate e/n Tenaza y Buen Viaje, se afectan 85 clientes.",
     "timestamp": 1753131232,
     "timestamp_local": 1753131232
-  },
-  {
-    "id": 22987,
-    "fecha": "21 de Jul del 2025 a las 04:49 PM",
-    "hora_utc": "2025-07-21 20:49",
-    "mensaje": "Se encuentra en avería el circuito MU4945  que da servicio a Cidra, Sabanilla.                                                                                                                     Se trabaja para solucionar la afectación lo antes posible.",
-    "timestamp": 1753130994,
-    "timestamp_local": 1753130994
-  },
-  {
-    "id": 22986,
-    "fecha": "21 de Jul del 2025 a las 04:48 PM",
-    "hora_utc": "2025-07-21 20:48",
-    "mensaje": "En estos momentos tenemos afectados por déficit de capacidad de generación 156 MW en la provincia.",
-    "timestamp": 1753130929,
-    "timestamp_local": 1753130929
   }
 ]
