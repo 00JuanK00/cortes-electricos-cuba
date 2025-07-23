@@ -1,5 +1,21 @@
 [
   {
+    "id": 23095,
+    "fecha": "23 de Jul del 2025 a las 02:14 AM",
+    "hora_utc": "2025-07-23 06:14",
+    "mensaje": "RECORDAMOS los Circuitos no apagables que se afectarán debido al alto déficit:\n\nAl amanecer:\n* Circuito GI101 se afectará de 04:00 a 07:00",
+    "timestamp": 1753251264,
+    "timestamp_local": 1753251264
+  },
+  {
+    "id": 23094,
+    "fecha": "23 de Jul del 2025 a las 02:03 AM",
+    "hora_utc": "2025-07-23 06:03",
+    "mensaje": "En estos momentos tenemos afectados 170 MW afectados por déficit de capacidad de generación.                                                                                     En cuanto las condiciones del sistema lo permitan se restablecerán de manera paulatina los circuitos que más tiempo de afectación presenten.                                                                                                                Los circuitos con mayor afectación en la provincia en estos momentos y por lo tanto los próximos a recibir servicio eléctrico una vez las condiciones lo permitan son los siguientes:                                                                                                                                                                                                                                                                                                                                                                                 - Circuito Z-723 que da servicio a Colón.                                                                                                                                                                                                               - Circuito Z-720 que da servicio desde Calle Martorel hasta el Reparto 14 Festival y desde Calle América hasta batey Por Fuerza.                                                                                               - Circuito Z-132 que da servicio a Colón circuito 10 desde calle Alberto Nodarse hasta Zona desarrollo y desde López Coloma planta gran panel y comunidad la SEPMI.                                                                                               - Circuito 1510 que da servicio a Santa Martha desde el policlínico hasta la lavandería.                                                                                                                    - Circuito 4220 que da servicio a Fines, Coliseo, Lagunilla, Ponce, Picadora A Maceo, San Miguel.",
+    "timestamp": 1753250589,
+    "timestamp_local": 1753250589
+  },
+  {
     "id": 23093,
     "fecha": "23 de Jul del 2025 a las 01:45 AM",
     "hora_utc": "2025-07-23 05:45",
@@ -142,21 +158,5 @@
     "mensaje": "En estos momentos nos mantenemos con 204 MW afectados por déficit de capacidad de generación. \nEn cuanto las condiciones del sistema lo permitan se restablecerán de manera paulatina los circuitos que más tiempo de afectación presenten.",
     "timestamp": 1753234463,
     "timestamp_local": 1753234463
-  },
-  {
-    "id": 23072,
-    "fecha": "22 de Jul del 2025 a las 09:04 PM",
-    "hora_utc": "2025-07-23 01:04",
-    "mensaje": "En estos momentos tenemos afectados 204 MW afectados por déficit de capacidad de generación.                                                                                                                                                                                 En cuanto las condiciones del sistema lo permitan se restablecerán de manera paulatina los circuitos que más tiempo de afectación presenten.                                                                                                                Los circuitos con mayor afectación en la provincia en estos momentos y por lo tanto los próximos a recibir servicio eléctrico una vez las condiciones lo permitan son los siguientes:                                                                                                                                                                                                                                                                                                                                                                    - Circuito 4427 que da servicio a Reparto 13 de marzo, circuitos 2 y 3 desde Salud hasta Obispo y desde García hasta Génes, Playa Larga, Smith Comas.                                                                                                                       - Circuito Z-723 que da servicio a Colón.                                                                                                                                                                                                               - Circuito Z-720 que da servicio desde Calle Martorel hasta el Reparto 14 Festival y desde Calle América hasta batey Por Fuerza.                                                                                               - Circuito Z-132 que da servicio a Colón circuito 10 desde calle Alberto Nodarse hasta Zona desarrollo y desde López Coloma planta gran panel y comunidad la SEPMI.",
-    "timestamp": 1753232671,
-    "timestamp_local": 1753232671
-  },
-  {
-    "id": 23071,
-    "fecha": "22 de Jul del 2025 a las 08:35 PM",
-    "hora_utc": "2025-07-23 00:35",
-    "mensaje": "Terminología eléctrica:\n\n⚠Disparo automático por frecuencia (DAF).\n\nUn disparo por frecuencia o Descarga Automática por Frecuencia (DAF) , es una protección que\nposee el sistema eléctrico para cuando la frecuencia llega a valores mínimos permisibles que ponen en peligro la estabilidad de todo el sistema en su\nconjunto y provoca una desconexión automática de algunos circuitos hasta que se vuelva a recuperar su valor nominal a 60Hz o ciclos por segundo.",
-    "timestamp": 1753230946,
-    "timestamp_local": 1753230946
   }
 ]
