@@ -1,5 +1,37 @@
 [
   {
+    "id": 42142,
+    "fecha": "23 de Jul del 2025 a las 04:38 PM",
+    "hora_utc": "2025-07-23 20:38",
+    "mensaje": "Disparo Automático de Frecuencia (DAF):\nOcurre cuando la frecuencia está por debajo de los 60Hz y determinada carga o circuito se desconecta del sistema automáticamente hasta que se estabilice.",
+    "timestamp": 1753303114,
+    "timestamp_local": 1753303114
+  },
+  {
+    "id": 42141,
+    "fecha": "23 de Jul del 2025 a las 04:37 PM",
+    "hora_utc": "2025-07-23 20:37",
+    "mensaje": "🚨Estimados clientes se le informa que en estos momentos esta disparado por DAF el circuito 25.",
+    "timestamp": 1753303072,
+    "timestamp_local": 1753303072
+  },
+  {
+    "id": 42140,
+    "fecha": "23 de Jul del 2025 a las 04:36 PM",
+    "hora_utc": "2025-07-23 20:36",
+    "mensaje": "🚨Estimados clientes se le informa que en estos momentos están afectados por Déficit de Capacidad de Generación el circuito 14 seccionalizado.",
+    "timestamp": 1753303006,
+    "timestamp_local": 1753303006
+  },
+  {
+    "id": 42139,
+    "fecha": "23 de Jul del 2025 a las 04:13 PM",
+    "hora_utc": "2025-07-23 20:13",
+    "mensaje": "🚨Estimados clientes se le informa que en estos momentos están afectados por Déficit de Capacidad de Generación los circuitos 26 , La Línea 5335 Guama y la  5975 Baconao .",
+    "timestamp": 1753301621,
+    "timestamp_local": 1753301621
+  },
+  {
     "id": 42138,
     "fecha": "23 de Jul del 2025 a las 03:16 PM",
     "hora_utc": "2025-07-23 19:16",
@@ -126,37 +158,5 @@
     "mensaje": "🚨Estimados clientes se le informa que en estos momentos están afectados por Déficit de Capacidad de Generación los circuitos 19, 1, 14 , 25 y 1 de Palma .",
     "timestamp": 1753272885,
     "timestamp_local": 1753272885
-  },
-  {
-    "id": 42120,
-    "fecha": "23 de Jul del 2025 a las 06:31 AM",
-    "hora_utc": "2025-07-23 10:31",
-    "mensaje": "🚨Estimados clientes se le informa que en estos momentos están afectados por Déficit de Capacidad de Generación la Línea 5390 La Maya - II  Frente .",
-    "timestamp": 1753266685,
-    "timestamp_local": 1753266685
-  },
-  {
-    "id": 42119,
-    "fecha": "23 de Jul del 2025 a las 06:19 AM",
-    "hora_utc": "2025-07-23 10:19",
-    "mensaje": "Usted puede mantenerse informado a través de  nuestras redes y unirse a nuestro canal de Telegram. Le ofrecemos información actualizada sobre el comportamiento de la situación electroenergética en el país y en nuestra provincia. Puede llamar al 18888,  prestamos servicios las 24 horas.",
-    "timestamp": 1753265985,
-    "timestamp_local": 1753265985
-  },
-  {
-    "id": 42118,
-    "fecha": "23 de Jul del 2025 a las 05:21 AM",
-    "hora_utc": "2025-07-23 09:21",
-    "mensaje": "🚨Estimados clientes en estos momentos se encuentran afectados por déficit de capacidad de generación los circuitos 2, 16 y 26 de Santiago de Cuba y las líneas 5330 del Cristo y 5975 de Baconao.",
-    "timestamp": 1753262474,
-    "timestamp_local": 1753262474
-  },
-  {
-    "id": 42117,
-    "fecha": "23 de Jul del 2025 a las 05:16 AM",
-    "hora_utc": "2025-07-23 09:16",
-    "mensaje": "Usted puede mantenerse informado por nuestras Redes y unirse a nuestro canal de Telegram ,para usted trabajamos para darle una explicación a cada ciudadano sobre la Información clara y precisa, de la situación actualizada, de cómo se está comportando la situación del Sistema Energético Nacional, puede llamar al 18888 que prestamos servicios las 24 horas.",
-    "timestamp": 1753262202,
-    "timestamp_local": 1753262202
   }
 ]

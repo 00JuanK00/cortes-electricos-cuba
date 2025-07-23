@@ -1,5 +1,37 @@
 [
   {
+    "id": 82630,
+    "fecha": "23 de Jul del 2025 a las 04:28 PM",
+    "hora_utc": "2025-07-23 20:28",
+    "mensaje": "🚨 Continúa afectado el servicio en el circuito 3655 por déficit de capacidad de generación 🚨",
+    "timestamp": 1753302501,
+    "timestamp_local": 1753302501
+  },
+  {
+    "id": 82628,
+    "fecha": "23 de Jul del 2025 a las 04:18 PM",
+    "hora_utc": "2025-07-23 20:18",
+    "mensaje": "🚨Pasa a déficit de capacidad de generación el circuito 3590 que se encontraba afectado por DAF🚨",
+    "timestamp": 1753301887,
+    "timestamp_local": 1753301887
+  },
+  {
+    "id": 82627,
+    "fecha": "23 de Jul del 2025 a las 04:12 PM",
+    "hora_utc": "2025-07-23 20:12",
+    "mensaje": "🚨Por déficit de capacidad de generación se afecta el servicio en el siguiente circuito\n*Aguacate 🚨",
+    "timestamp": 1753301524,
+    "timestamp_local": 1753301524
+  },
+  {
+    "id": 82626,
+    "fecha": "23 de Jul del 2025 a las 04:05 PM",
+    "hora_utc": "2025-07-23 20:05",
+    "mensaje": "🔷Se restablece el servicio en el circuito 3655 momentáneamente 🔷",
+    "timestamp": 1753301146,
+    "timestamp_local": 1753301146
+  },
+  {
     "id": 82625,
     "fecha": "23 de Jul del 2025 a las 03:44 PM",
     "hora_utc": "2025-07-23 19:44",
@@ -59,7 +91,7 @@
     "id": 82618,
     "fecha": "23 de Jul del 2025 a las 03:11 PM",
     "hora_utc": "2025-07-23 19:11",
-    "mensaje": "🚨Por déficit de capacidad de generación se afecta el servicio en el siguiente circuito\n*Surgidero 🚨",
+    "mensaje": "🚨Por déficit de capacidad de generación se afecta el servicio en los siguientes circuitos\n*Surgidero\n*3140 🚨",
     "timestamp": 1753297865,
     "timestamp_local": 1753297865
   },
@@ -118,45 +150,5 @@
     "mensaje": "🔷♦️Se restablece el servicio en el siguiente circuito que se encontraba afectado por déficit de capacidad de generación:\n*Santa Cruz ♦️🔷",
     "timestamp": 1753294806,
     "timestamp_local": 1753294806
-  },
-  {
-    "id": 82610,
-    "fecha": "23 de Jul del 2025 a las 02:18 PM",
-    "hora_utc": "2025-07-23 18:18",
-    "mensaje": "🔷♦️Se restablece el servicio en los siguientes circuitos que se encontraban afectados por déficit de capacidad de generación:\n*1657\n*Bío 2♦️🔷",
-    "timestamp": 1753294686,
-    "timestamp_local": 1753294686
-  },
-  {
-    "id": 82609,
-    "fecha": "23 de Jul del 2025 a las 02:16 PM",
-    "hora_utc": "2025-07-23 18:16",
-    "mensaje": "🚨Por déficit de capacidad de generación se afecta el servicio en el siguiente circuito:\n*Jaruco 🚨",
-    "timestamp": 1753294567,
-    "timestamp_local": 1753294567
-  },
-  {
-    "id": 82608,
-    "fecha": "23 de Jul del 2025 a las 02:14 PM",
-    "hora_utc": "2025-07-23 18:14",
-    "mensaje": "🔷Con servicio el circuito de Palomo que se encontraba afectado por avería 🔷",
-    "timestamp": 1753294442,
-    "timestamp_local": 1753294442
-  },
-  {
-    "id": 82607,
-    "fecha": "23 de Jul del 2025 a las 02:08 PM",
-    "hora_utc": "2025-07-23 18:08",
-    "mensaje": "🚨Por déficit de capacidad de generación se afecta el servicio en el siguiente circuito:\n*Bío -1 🚨",
-    "timestamp": 1753294119,
-    "timestamp_local": 1753294119
-  },
-  {
-    "id": 82606,
-    "fecha": "23 de Jul del 2025 a las 02:01 PM",
-    "hora_utc": "2025-07-23 18:01",
-    "mensaje": "🚨Por déficit de capacidad de generación se afecta el servicio en el siguiente circuito:\n*Magela 🚨",
-    "timestamp": 1753293705,
-    "timestamp_local": 1753293705
   }
 ]
