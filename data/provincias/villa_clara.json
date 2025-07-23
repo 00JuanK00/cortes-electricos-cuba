@@ -1,5 +1,29 @@
 [
   {
+    "id": 25759,
+    "fecha": "23 de Jul del 2025 a las 09:41 AM",
+    "hora_utc": "2025-07-23 13:41",
+    "mensaje": "⚠️Será afectado por déficit de generación el siguiente circuito:\nMunicipio Santa Clara:\n👉Cto 13 (Zona Industrial)",
+    "timestamp": 1753278087,
+    "timestamp_local": 1753278087
+  },
+  {
+    "id": 25758,
+    "fecha": "23 de Jul del 2025 a las 09:29 AM",
+    "hora_utc": "2025-07-23 13:29",
+    "mensaje": "💡 Será restablecido el servicio eléctrico en los siguientes circuitos:\n🔹Bloque 7\nMunicipio Ranchuelo: \nCtos 89, 97, 188 y 189\nCtos 148 y 149 San Juan\nCto 91 Batey Osvaldo Herrera\nCto 181 Batey Ifraín Alfonso",
+    "timestamp": 1753277368,
+    "timestamp_local": 1753277368
+  },
+  {
+    "id": 25757,
+    "fecha": "23 de Jul del 2025 a las 09:28 AM",
+    "hora_utc": "2025-07-23 13:28",
+    "mensaje": "💡 Restablecido el servicio eléctrico en los siguientes circuitos:\n🔹Bloque 2  \nMunicipio Camajuaní:\nCtos 72 y 129\nCto 75 La Quinta\nCto 157 Luis Arcos Bergnes\nCtos 76 y 90 Vega Alta \nMunicipio Santo Domingo:\nCto 195 Batey George Washington\nCtos 83 y 165 Manacas\nCtos 85 y 86 Pajarito\nCtos 160 y 161 Cascajal\n🔹Bloque 5\nMunicipio Santo Domingo:\nCto 134\nCtos 87 y 96 Bermejal\nCto 187 Batey Carlos Baliño\nCto 82 Ulacia\nCto 84 Rodrigo",
+    "timestamp": 1753277314,
+    "timestamp_local": 1753277314
+  },
+  {
     "id": 25756,
     "fecha": "23 de Jul del 2025 a las 09:00 AM",
     "hora_utc": "2025-07-23 13:00",
@@ -19,7 +43,7 @@
     "id": 25754,
     "fecha": "23 de Jul del 2025 a las 08:50 AM",
     "hora_utc": "2025-07-23 12:50",
-    "mensaje": "⚠️Afectados por déficit de generación los siguientes circuitos:\n🔸Bloque 4\nMunicipio Santa Clara:\nCto 5 (Dobarganes)\nCto 17 (Subplanta) \nCtos 37 y 38 (Yabú)   \nCto 13 (Zona Industrial)  \nCto 9 (Moldes y Troqueles)\nCto 133 (Cafetera)",
+    "mensaje": "⚠️Afectados por déficit de generación los siguientes circuitos:\n🔸Bloque 4\nMunicipio Santa Clara:\nCto 5 (Dobarganes)\nCto 17 (Subplanta) \nCtos 37 y 38 (Yabú)     \nCto 9 (Moldes y Troqueles)\nCto 133 (Cafetera)",
     "timestamp": 1753275003,
     "timestamp_local": 1753275003
   },
@@ -134,29 +158,5 @@
     "mensaje": "💡Restablecido el servicio eléctrico en los siguientes circuitos:\n🔹Bloque 10\nMunicipio Santa Clara:\n👉Ctos 14, 15 y 27 (Maleza)\n👉Cto 144   (Camacho)",
     "timestamp": 1753251577,
     "timestamp_local": 1753251577
-  },
-  {
-    "id": 25739,
-    "fecha": "23 de Jul del 2025 a las 02:06 AM",
-    "hora_utc": "2025-07-23 06:06",
-    "mensaje": "🔸Actualización del servicio eléctrico en la provincia🔸\n✍️De los 193 circuitos apagables que presenta la provincia, se mantienen afectados 177 circuitos.\n✍️En el momento de hacer esta nota la provincia tiene 158 MW de afectación por déficit de capacidad de generación, demanda máxima posible a apagar.\n✍️Cuenta con 55 afectaciones por averías secundarias y de servicio.",
-    "timestamp": 1753250785,
-    "timestamp_local": 1753250785
-  },
-  {
-    "id": 25738,
-    "fecha": "23 de Jul del 2025 a las 02:04 AM",
-    "hora_utc": "2025-07-23 06:04",
-    "mensaje": "Afectados 158 MW en la provincia, demanda máxima posible  apagar en estos momentos.",
-    "timestamp": 1753250698,
-    "timestamp_local": 1753250698
-  },
-  {
-    "id": 25737,
-    "fecha": "23 de Jul del 2025 a las 01:05 AM",
-    "hora_utc": "2025-07-23 05:05",
-    "mensaje": "💡Restablecido el servicio eléctrico en los siguientes circuitos:\n\n🔹Bloque 1\nMunicipio Manicaragua:\n👉Ctos 109 y 150\n👉Ctos 108 y 110 La Piedra\n👉Cto 111 Mataguá\n🔹Bloque 4\n👉Cto 13 (Santa Clara Industrial)",
-    "timestamp": 1753247143,
-    "timestamp_local": 1753247143
   }
 ]
