@@ -1,5 +1,21 @@
 [
   {
+    "id": 23093,
+    "fecha": "23 de Jul del 2025 a las 01:45 AM",
+    "hora_utc": "2025-07-23 05:45",
+    "mensaje": "Ante cualquier anomalía con el servicio eléctrico, usted debe llamar al 18888 y reportar la queja. Las\noperadoras en línea deben darle un número de reporte, guárdelo por si necesita llamar nuevamente para saber en qué proceso se encuentra la misma.",
+    "timestamp": 1753249530,
+    "timestamp_local": 1753249530
+  },
+  {
+    "id": 23092,
+    "fecha": "23 de Jul del 2025 a las 01:27 AM",
+    "hora_utc": "2025-07-23 05:27",
+    "mensaje": "En estos momentos nos mantenemos con 177 MW afectados por déficit de capacidad de generación.",
+    "timestamp": 1753248420,
+    "timestamp_local": 1753248420
+  },
+  {
     "id": 23091,
     "fecha": "23 de Jul del 2025 a las 01:02 AM",
     "hora_utc": "2025-07-23 05:02",
@@ -142,21 +158,5 @@
     "mensaje": "Terminología eléctrica:\n\n⚠Disparo automático por frecuencia (DAF).\n\nUn disparo por frecuencia o Descarga Automática por Frecuencia (DAF) , es una protección que\nposee el sistema eléctrico para cuando la frecuencia llega a valores mínimos permisibles que ponen en peligro la estabilidad de todo el sistema en su\nconjunto y provoca una desconexión automática de algunos circuitos hasta que se vuelva a recuperar su valor nominal a 60Hz o ciclos por segundo.",
     "timestamp": 1753230946,
     "timestamp_local": 1753230946
-  },
-  {
-    "id": 23070,
-    "fecha": "22 de Jul del 2025 a las 08:17 PM",
-    "hora_utc": "2025-07-23 00:17",
-    "mensaje": "- Una parte del Circuito CI185 que da servicio al Hospital de Cárdenas se encuentra afectado por primario partido en el piso.",
-    "timestamp": 1753229821,
-    "timestamp_local": 1753229821
-  },
-  {
-    "id": 23069,
-    "fecha": "22 de Jul del 2025 a las 08:05 PM",
-    "hora_utc": "2025-07-23 00:05",
-    "mensaje": "RECORDAMOS los Circuitos no apagables que se afectarán debido al alto déficit:\n\n* Circuitos JI48 y GI101se afectarán de 18:00 a 01:00\n\n* Circuito Z1183 se afectará de 19:00 a 00:00\n\n* Circuito MI1453 se afectará de 18:00 a 22:00\n\n\n* Circuito Z130 se afectará de 20:00 a 23:00\n\n\n* Circuito 5223 se afectará de 20:00 a 02:00\n\n\nAl amanecer:\n* Circuito GI101 se afectará de 04:00 a 07:00",
-    "timestamp": 1753229105,
-    "timestamp_local": 1753229105
   }
 ]
