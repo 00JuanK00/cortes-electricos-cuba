@@ -1,5 +1,21 @@
 [
   {
+    "id": 23097,
+    "fecha": "23 de Jul del 2025 a las 02:47 AM",
+    "hora_utc": "2025-07-23 06:47",
+    "mensaje": "Terminología eléctrica:\n\n⚠Disparo automático por frecuencia (DAF).\n\nUn disparo por frecuencia o Descarga Automática por Frecuencia (DAF) , es una protección que\nposee el sistema eléctrico para cuando la frecuencia llega a valores mínimospermisibles que ponen en peligro la estabilidad de todo el sistema en su\nconjunto y provoca una desconexión automática de algunos circuitos hasta que se vuelva a recuperar su valor nominal a 60Hz o ciclos por segundo.",
+    "timestamp": 1753253264,
+    "timestamp_local": 1753253264
+  },
+  {
+    "id": 23096,
+    "fecha": "23 de Jul del 2025 a las 02:31 AM",
+    "hora_utc": "2025-07-23 06:31",
+    "mensaje": "En estos momentos nos mantenemos con 170 MW afectados por déficit de capacidad de generación.",
+    "timestamp": 1753252315,
+    "timestamp_local": 1753252315
+  },
+  {
     "id": 23095,
     "fecha": "23 de Jul del 2025 a las 02:14 AM",
     "hora_utc": "2025-07-23 06:14",
@@ -142,21 +158,5 @@
     "mensaje": "RECORDAMOS los Circuitos no apagables que se afectarán debido al alto déficit:\n\n* Circuitos JI48 y GI101se afectarán de 18:00 a 01:00\n\n* Circuito Z1183 se afectará de 19:00 a 00:00\n\n* Circuito Z130 se afectará de 20:00 a 23:00\n\n* Circuito 5223 se afectará de 20:00 a 02:00\n\nAl amanecer:\n* Circuito GI101 se afectará de 04:00 a 07:00",
     "timestamp": 1753236260,
     "timestamp_local": 1753236260
-  },
-  {
-    "id": 23077,
-    "fecha": "22 de Jul del 2025 a las 09:52 PM",
-    "hora_utc": "2025-07-23 01:52",
-    "mensaje": "Ante cualquier anomalía con el servicio eléctrico, usted debe llamar al 18888 y reportar la queja. Las\noperadoras en línea deben darle un número de reporte, guárdelo por si necesita llamar nuevamente para saber en qué proceso se encuentra la misma.",
-    "timestamp": 1753235549,
-    "timestamp_local": 1753235549
-  },
-  {
-    "id": 23076,
-    "fecha": "22 de Jul del 2025 a las 09:34 PM",
-    "hora_utc": "2025-07-23 01:34",
-    "mensaje": "En estos momentos nos mantenemos con 204 MW afectados por déficit de capacidad de generación. \nEn cuanto las condiciones del sistema lo permitan se restablecerán de manera paulatina los circuitos que más tiempo de afectación presenten.",
-    "timestamp": 1753234463,
-    "timestamp_local": 1753234463
   }
 ]
