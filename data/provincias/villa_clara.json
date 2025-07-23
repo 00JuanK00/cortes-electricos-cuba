@@ -1,5 +1,29 @@
 [
   {
+    "id": 25768,
+    "fecha": "23 de Jul del 2025 a las 11:03 AM",
+    "hora_utc": "2025-07-23 15:03",
+    "mensaje": "Afectados 175 MW en la provincia, demanda máxima posible  apagar en estos momentos.",
+    "timestamp": 1753282991,
+    "timestamp_local": 1753282991
+  },
+  {
+    "id": 25767,
+    "fecha": "23 de Jul del 2025 a las 11:01 AM",
+    "hora_utc": "2025-07-23 15:01",
+    "mensaje": "⚡Avería⚡\nAfectados los siguientes circuitos pertenecientes al municipio Santo Domingo por avería en la Subestación.\n👉Cto 134\n👉Ctos 87 y 96 Bermejal",
+    "timestamp": 1753282919,
+    "timestamp_local": 1753282919
+  },
+  {
+    "id": 25766,
+    "fecha": "23 de Jul del 2025 a las 10:55 AM",
+    "hora_utc": "2025-07-23 14:55",
+    "mensaje": "💡 Será restablecido el servicio eléctrico en los siguientes circuitos:\n🔹Bloque 2\nMunicipio Cifuentes:\nCtos 114 y 117\nCtos 116 y 155 Mata\nCto 186 Batey Unidad Proletaria\nCto 184 Sitio Grande\n🔹Bloque 5\nMunicipio Corralillo:\nCtos 58 y 159\nCto 57 Motembo\nCto 56 Yabre\nCto 60 La Sierra",
+    "timestamp": 1753282546,
+    "timestamp_local": 1753282546
+  },
+  {
     "id": 25765,
     "fecha": "23 de Jul del 2025 a las 10:53 AM",
     "hora_utc": "2025-07-23 14:53",
@@ -134,29 +158,5 @@
     "mensaje": "🔸Actualización del servicio eléctrico en la provincia🔸\n✍️De los 193 circuitos apagables que presenta la provincia, se mantienen afectados 177 circuitos.\n✍️En el momento de hacer esta nota la provincia tiene 153 MW de afectación por déficit de capacidad de generación, demanda máxima posible a apagar.\n✍️Cuenta con 59 afectaciones por averías secundarias y de servicio.",
     "timestamp": 1753272519,
     "timestamp_local": 1753272519
-  },
-  {
-    "id": 25748,
-    "fecha": "23 de Jul del 2025 a las 08:06 AM",
-    "hora_utc": "2025-07-23 12:06",
-    "mensaje": "⚠️Afectado por déficit de generación el siguiente circuito:\nMunicipio Santa Clara:\n**👉Cto 169 Gran Panel**",
-    "timestamp": 1753272366,
-    "timestamp_local": 1753272366
-  },
-  {
-    "id": 25747,
-    "fecha": "23 de Jul del 2025 a las 08:04 AM",
-    "hora_utc": "2025-07-23 12:04",
-    "mensaje": "💡Restablecido el servicio eléctrico en el siguiente circuito:\nMunicipio Santa Clara:\n👉 Cto 30 SC. Industrial",
-    "timestamp": 1753272284,
-    "timestamp_local": 1753272284
-  },
-  {
-    "id": 25746,
-    "fecha": "23 de Jul del 2025 a las 08:03 AM",
-    "hora_utc": "2025-07-23 12:03",
-    "mensaje": "💡 Será restablecido el servicio eléctrico en los siguientes circuitos:\n🔹Bloque 10\nMunicipio Placetas \nCtos 98 y 99 Placetas\nCtos 100 y 151 Placetas\nCto 104 Hermanos Amejeiras\n🔹Bloque 3  \nMunicipio Placetas:\nCto 192 Benito Juárez\nCto 102 Peroti",
-    "timestamp": 1753272191,
-    "timestamp_local": 1753272191
   }
 ]
