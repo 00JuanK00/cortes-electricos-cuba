@@ -1,5 +1,13 @@
 [
   {
+    "id": 42115,
+    "fecha": "23 de Jul del 2025 a las 04:12 AM",
+    "hora_utc": "2025-07-23 08:12",
+    "mensaje": "Circuito en avería:                                                                                                                        \n Sucede si un circuito se interrumpe por causa de un defecto en un cable conductor de corriente (fase o neutro), un fusible fundido o disyuntor. En sistemas trifásicos una falla puede implicar una fase, más de una fase con la tierra o puede ocurrir solo entre fases.",
+    "timestamp": 1753258352,
+    "timestamp_local": 1753258352
+  },
+  {
     "id": 42114,
     "fecha": "23 de Jul del 2025 a las 01:26 AM",
     "hora_utc": "2025-07-23 05:26",
@@ -142,13 +150,5 @@
     "mensaje": "📌Debido a la compleja situación que presenta el Sistema Electroenergético Nacional (SEN) y el déficit reportado para hoy,  no es posible cumplir con la programación prevista.",
     "timestamp": 1753215574,
     "timestamp_local": 1753215574
-  },
-  {
-    "id": 42095,
-    "fecha": "22 de Jul del 2025 a las 03:14 PM",
-    "hora_utc": "2025-07-22 19:14",
-    "mensaje": "🔴Se le informa a nuestros clientes que queda afectado por Déficit de Generación los circuitos El Pilar,Palma Oeste y El Alambre...",
-    "timestamp": 1753211641,
-    "timestamp_local": 1753211641
   }
 ]
