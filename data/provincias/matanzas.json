@@ -1,5 +1,21 @@
 [
   {
+    "id": 23117,
+    "fecha": "23 de Jul del 2025 a las 07:29 AM",
+    "hora_utc": "2025-07-23 11:29",
+    "mensaje": "En estos momentos tenemos afectados 145 MW afectados por déficit de capacidad de generación.",
+    "timestamp": 1753270142,
+    "timestamp_local": 1753270142
+  },
+  {
+    "id": 23116,
+    "fecha": "23 de Jul del 2025 a las 07:17 AM",
+    "hora_utc": "2025-07-23 11:17",
+    "mensaje": "Terminología eléctrica: \n⚠Disparo automático por frecuencia (DAF).\nUn disparo por frecuencia o Descarga Automática por Frecuencia (DAF) , es una protección que posee el sistema eléctrico para cuando la frecuencia llega a valores mínimos permisibles que ponen en peligro la estabilidad de todo el sistema en su conjunto y provoca una desconexión automática de algunos circuitos hasta que se vuelva a recuperar su valor nominal a 60Hz o ciclos por segundo.",
+    "timestamp": 1753269472,
+    "timestamp_local": 1753269472
+  },
+  {
     "id": 23115,
     "fecha": "23 de Jul del 2025 a las 07:00 AM",
     "hora_utc": "2025-07-23 11:00",
@@ -142,21 +158,5 @@
     "mensaje": "Terminología eléctrica:\n\n⚠Disparo automático por frecuencia (DAF).\n\nUn disparo por frecuencia o Descarga Automática por Frecuencia (DAF) , es una protección que\nposee el sistema eléctrico para cuando la frecuencia llega a valores mínimospermisibles que ponen en peligro la estabilidad de todo el sistema en su\nconjunto y provoca una desconexión automática de algunos circuitos hasta que se vuelva a recuperar su valor nominal a 60Hz o ciclos por segundo.",
     "timestamp": 1753253264,
     "timestamp_local": 1753253264
-  },
-  {
-    "id": 23096,
-    "fecha": "23 de Jul del 2025 a las 02:31 AM",
-    "hora_utc": "2025-07-23 06:31",
-    "mensaje": "En estos momentos nos mantenemos con 170 MW afectados por déficit de capacidad de generación.",
-    "timestamp": 1753252315,
-    "timestamp_local": 1753252315
-  },
-  {
-    "id": 23095,
-    "fecha": "23 de Jul del 2025 a las 02:14 AM",
-    "hora_utc": "2025-07-23 06:14",
-    "mensaje": "RECORDAMOS los Circuitos no apagables que se afectarán debido al alto déficit:\n\nAl amanecer:\n* Circuito GI101 se afectará de 04:00 a 07:00",
-    "timestamp": 1753251264,
-    "timestamp_local": 1753251264
   }
 ]
