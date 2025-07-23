@@ -1,5 +1,13 @@
 [
   {
+    "id": 42143,
+    "fecha": "23 de Jul del 2025 a las 05:33 PM",
+    "hora_utc": "2025-07-23 21:33",
+    "mensaje": "🔴Se les informa a nuestros clientes que se afecta por Déficit de Capacidad de Generación la línea 5380 Mella.",
+    "timestamp": 1753306410,
+    "timestamp_local": 1753306410
+  },
+  {
     "id": 42142,
     "fecha": "23 de Jul del 2025 a las 04:38 PM",
     "hora_utc": "2025-07-23 20:38",
@@ -11,7 +19,7 @@
     "id": 42141,
     "fecha": "23 de Jul del 2025 a las 04:37 PM",
     "hora_utc": "2025-07-23 20:37",
-    "mensaje": "🚨Estimados clientes se le informa que en estos momentos esta disparado por DAF el circuito 25.",
+    "mensaje": "🚨Estimados clientes se le informa que en estos momentos esta disparado por DAF el circuito 25 y 1 de Palma .",
     "timestamp": 1753303072,
     "timestamp_local": 1753303072
   },
@@ -150,13 +158,5 @@
     "mensaje": "🚨Estimados clientes se le informa que en estos momentos están afectados por Déficit de Capacidad de Generación los circuitos 13 y 9.",
     "timestamp": 1753273786,
     "timestamp_local": 1753273786
-  },
-  {
-    "id": 42121,
-    "fecha": "23 de Jul del 2025 a las 08:14 AM",
-    "hora_utc": "2025-07-23 12:14",
-    "mensaje": "🚨Estimados clientes se le informa que en estos momentos están afectados por Déficit de Capacidad de Generación los circuitos 19, 1, 14 , 25 y 1 de Palma .",
-    "timestamp": 1753272885,
-    "timestamp_local": 1753272885
   }
 ]
