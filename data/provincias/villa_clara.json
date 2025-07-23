@@ -1,9 +1,33 @@
 [
   {
+    "id": 25783,
+    "fecha": "23 de Jul del 2025 a las 02:00 PM",
+    "hora_utc": "2025-07-23 18:00",
+    "mensaje": "💡Restablecido el servicio eléctrico en los siguientes circuitos del municipio Santa Clara:\n👉Ctos 30 y 193 **SC. Industrial**",
+    "timestamp": 1753293629,
+    "timestamp_local": 1753293629
+  },
+  {
+    "id": 25782,
+    "fecha": "23 de Jul del 2025 a las 01:55 PM",
+    "hora_utc": "2025-07-23 17:55",
+    "mensaje": "💡Será restablecido el servicio eléctrico en los siguientes circuitos: \nMunicipio Sagua\n👉Cto 48 Finalet\n👉Cto 46 Sitiecito\n👉Cto 128 Sitiecito",
+    "timestamp": 1753293335,
+    "timestamp_local": 1753293335
+  },
+  {
+    "id": 25781,
+    "fecha": "23 de Jul del 2025 a las 01:54 PM",
+    "hora_utc": "2025-07-23 17:54",
+    "mensaje": "⚠️Disparo de la línea 6585 perteneciente al municipio Camajuaní por tormenta.\n👉Línea 6585  \nCtos 72 y 129\nCto 75 La Quinta\nCto 157 Luis Arcos Bergnes\nCtos 76 y 90 Vega Alta",
+    "timestamp": 1753293269,
+    "timestamp_local": 1753293269
+  },
+  {
     "id": 25780,
     "fecha": "23 de Jul del 2025 a las 01:46 PM",
     "hora_utc": "2025-07-23 17:46",
-    "mensaje": "⚠️Afectadas las líneas 1710, 1715 y 1720 pertenecientes al municipio Santo Domingo por déficit energético:\n👉Línea 1710\nCto 163 Batey 26 de Julio\nCto 54 Jicotea\nCto 94 Jicotea\nCto 95 Jicotea\nCto 81 26 Julio\n👉Línea 1715 \nCto 134\nCtos 87 y 96 Bermejal\nCto 187 Batey Carlos Baliño\nCto 82 Ulacia\nCto 84 Rodrigo\n👉Línea 1720 \nCto 195 Batey George Washington\nCtos 83 y 165 Manacas\nCtos 85 y 86 Pajarito\nCtos 160 y 161 Cascajal",
+    "mensaje": "⚠️Afectadas las líneas 1710, 1715 y 1720 pertenecientes al municipio Santo Domingo por déficit de capacidad de generación:\n👉Línea 1710\nCto 163 Batey 26 de Julio\nCto 54 Jicotea\nCto 94 Jicotea\nCto 95 Jicotea\nCto 81 26 Julio\n👉Línea 1715 \nCto 134\nCtos 87 y 96 Bermejal\nCto 187 Batey Carlos Baliño\nCto 82 Ulacia\nCto 84 Rodrigo\n👉Línea 1720 \nCto 195 Batey George Washington\nCtos 83 y 165 Manacas\nCtos 85 y 86 Pajarito\nCtos 160 y 161 Cascajal",
     "timestamp": 1753292797,
     "timestamp_local": 1753292797
   },
@@ -134,29 +158,5 @@
     "mensaje": "La provincia cuenta con 2 afectaciones de servicio eléctrico  por transformador dañado: \n👉Municipio Santa Clara: Carretera a los Caneyes y Circunvalación, Escuela Pedagógica Manuel Ascunse.\n👉Municipio Santa Clara: Ciclón e/ Rodrigo y Serafín Sanchez. Condado",
     "timestamp": 1753281280,
     "timestamp_local": 1753281280
-  },
-  {
-    "id": 25763,
-    "fecha": "23 de Jul del 2025 a las 10:09 AM",
-    "hora_utc": "2025-07-23 14:09",
-    "mensaje": "⚠️Afectados por déficit de generación los siguientes circuitos:\n🔸Bloque 8\nMunicipio Caibarién\nCtos 63 y 64\nCtos 182 y 183 Van Troi",
-    "timestamp": 1753279788,
-    "timestamp_local": 1753279788
-  },
-  {
-    "id": 25762,
-    "fecha": "23 de Jul del 2025 a las 10:07 AM",
-    "hora_utc": "2025-07-23 14:07",
-    "mensaje": "✍Ante la compleja situación actual, con alto niveles de déficit en la capacidad de generación, no resulta cumplir con la rotación de los bloques establecida para la provincia.\n \n👉Los circuitos se afectarán o se restablecerán en dependencia del déficit y la demanda máxima en cada momento de la jornada, que es muy variable\n\n✍Con esta condición, no es posible establecer horario ni tiempo de afectación.",
-    "timestamp": 1753279623,
-    "timestamp_local": 1753279623
-  },
-  {
-    "id": 25761,
-    "fecha": "23 de Jul del 2025 a las 10:03 AM",
-    "hora_utc": "2025-07-23 14:03",
-    "mensaje": "💡 Será restablecido el servicio eléctrico en los siguientes circuitos:\n🔹Bloque 7\nMunicipio Camajuaní:\nCtos 73 y 156 \nCto 74 José María Pérez",
-    "timestamp": 1753279394,
-    "timestamp_local": 1753279394
   }
 ]
