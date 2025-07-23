@@ -1,5 +1,45 @@
 [
   {
+    "id": 31881,
+    "fecha": "22 de Jul del 2025 a las 10:45 PM",
+    "hora_utc": "2025-07-23 02:45",
+    "mensaje": "🚨Del circuito 1940 se encuentra afectado por una avería el circuito Los Pilotos de San Antonio 🚨",
+    "timestamp": 1753238756,
+    "timestamp_local": 1753238756
+  },
+  {
+    "id": 31880,
+    "fecha": "22 de Jul del 2025 a las 10:44 PM",
+    "hora_utc": "2025-07-23 02:44",
+    "mensaje": "Bn, En servicio el transformador principal de la SE Ariguanabo 110 kV, con la carga del circuito 5045 y 5040, llevando 5 MVA.\nCaimito por su esquema normal.\n5040 desde Ariguanabo alimentando las SE Cayo La Rosa ,Balkan, Caimito Cementerio, Bombeo Ceiba 1(Pellejero) y San Gabriel.\n5045 desde Ariguanabo alimentando Pueblo Textil y El PSFV Ariguanabo",
+    "timestamp": 1753238647,
+    "timestamp_local": 1753238647
+  },
+  {
+    "id": 31879,
+    "fecha": "22 de Jul del 2025 a las 10:14 PM",
+    "hora_utc": "2025-07-23 02:14",
+    "mensaje": "❌ Abierto por emergencia Circuito 1940 de San Antonio por primario partido ❌",
+    "timestamp": 1753236862,
+    "timestamp_local": 1753236862
+  },
+  {
+    "id": 31878,
+    "fecha": "22 de Jul del 2025 a las 09:15 PM",
+    "hora_utc": "2025-07-23 01:15",
+    "mensaje": "🚨Los Circuitos Martí de San Cristobal y 236 de Bahía Honda se encuentran en avería 🚨",
+    "timestamp": 1753233302,
+    "timestamp_local": 1753233302
+  },
+  {
+    "id": 31877,
+    "fecha": "22 de Jul del 2025 a las 09:13 PM",
+    "hora_utc": "2025-07-23 01:13",
+    "mensaje": "📌Se mantienen afectados los circuitos  📌\n➡️Circuito Maní de San Cristobal                                        ➡️Circuito 3185 de Artemisa                                           ➡️ Circuito Bauta Vieja                                                                                ➡️Circuito 3220 de San Antonio                                                                    ➡️Circuito Fabrica de Carretas de Guira                           ➡️Circuito 341 de San Cristobal                                              ➡️Circuito A1270 de Artemisa                                                      ➡️Circuito 3210 de Guanajay                                                     ➡️Circuito Cayo Lenin de Mariel                                                                         📌Tenemos una afectación de 151 MW 📌",
+    "timestamp": 1753233217,
+    "timestamp_local": 1753233217
+  },
+  {
     "id": 31876,
     "fecha": "22 de Jul del 2025 a las 06:21 PM",
     "hora_utc": "2025-07-22 22:21",
@@ -110,45 +150,5 @@
     "mensaje": "‼️Afectado por déficit circuito 341 San Cristóbal ,tenemos una afectación de 143 MW ‼️",
     "timestamp": 1753166504,
     "timestamp_local": 1753166504
-  },
-  {
-    "id": 31861,
-    "fecha": "22 de Jul del 2025 a las 12:40 AM",
-    "hora_utc": "2025-07-22 04:40",
-    "mensaje": "📌Afectado por déficit  circuito 3220  y 1500 tenemos una afectación de 153 MW en la provincia 📌",
-    "timestamp": 1753159201,
-    "timestamp_local": 1753159201
-  },
-  {
-    "id": 31860,
-    "fecha": "21 de Jul del 2025 a las 10:09 PM",
-    "hora_utc": "2025-07-22 02:09",
-    "mensaje": "‼️Afectado por déficit  Gran Panel Artemisa tenemos una afectación de 175 MW ‼️",
-    "timestamp": 1753150187,
-    "timestamp_local": 1753150187
-  },
-  {
-    "id": 31859,
-    "fecha": "21 de Jul del 2025 a las 10:09 PM",
-    "hora_utc": "2025-07-22 02:09",
-    "mensaje": "‼️Continúan en afectación por deficit de generación los circuitos \n ➡️5040\n➡️341\n➡️Maní \n➡️Plátano y Fca de Pienso \n➡️1570\n➡️1940\n➡️5045\n➡️3305\n➡️1580 \n➡️236\n➡️1500\n➡️246 excepto el Hospital \n➡️Martí , 4 caminos \n➡️1270 \n \n‼️Tenemos una afectación de 172 MW ‼️ \n\n📌Circuito 3210 afectado por sobrecarga en el transformador de la subestación de Zaya 📌",
-    "timestamp": 1753150183,
-    "timestamp_local": 1753150183
-  },
-  {
-    "id": 31858,
-    "fecha": "21 de Jul del 2025 a las 08:05 PM",
-    "hora_utc": "2025-07-22 00:05",
-    "mensaje": "📌Circuito 236 Bahía y 1580 Alquizar Manipulado ,afectados por déficit de generación 📌",
-    "timestamp": 1753142738,
-    "timestamp_local": 1753142738
-  },
-  {
-    "id": 31857,
-    "fecha": "21 de Jul del 2025 a las 07:01 PM",
-    "hora_utc": "2025-07-21 23:01",
-    "mensaje": "‼️Afectado circuito 5040 por déficit , A1258 Artemisa  se encuentra en falla .\nTenemos una afectación de 166 MW ‼️",
-    "timestamp": 1753138911,
-    "timestamp_local": 1753138911
   }
 ]
