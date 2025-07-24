@@ -1,5 +1,21 @@
 [
   {
+    "id": 23211,
+    "fecha": "24 de Jul del 2025 a las 07:29 PM",
+    "hora_utc": "2025-07-24 23:29",
+    "mensaje": "⚠️ En este momento, nos mantenemos con **166 MW** afectados debido a un déficit en la capacidad de generación en la provincia.",
+    "timestamp": 1753399783,
+    "timestamp_local": 1753399783
+  },
+  {
+    "id": 23210,
+    "fecha": "24 de Jul del 2025 a las 07:22 PM",
+    "hora_utc": "2025-07-24 23:22",
+    "mensaje": "Ante cualquier anomalía con el servicio eléctrico, usted debe llamar al 18888 y reportar la queja. Las operadoras en línea deben darle un número de reporte, guárdelo por si necesita llamar nuevamente para saber en qué proceso se encuentra la misma.",
+    "timestamp": 1753399340,
+    "timestamp_local": 1753399340
+  },
+  {
     "id": 23209,
     "fecha": "24 de Jul del 2025 a las 06:56 PM",
     "hora_utc": "2025-07-24 22:56",
@@ -142,21 +158,5 @@
     "mensaje": "En estos momentos tenemos afectados por déficit de capacidad de generación 129 MW en la provincia",
     "timestamp": 1753383947,
     "timestamp_local": 1753383947
-  },
-  {
-    "id": 23191,
-    "fecha": "24 de Jul del 2025 a las 02:49 PM",
-    "hora_utc": "2025-07-24 18:49",
-    "mensaje": "En estos momentos tenemos afectados por déficit de capacidad de generación 118 MW en la provincia",
-    "timestamp": 1753382986,
-    "timestamp_local": 1753382986
-  },
-  {
-    "id": 23190,
-    "fecha": "24 de Jul del 2025 a las 02:24 PM",
-    "hora_utc": "2025-07-24 18:24",
-    "mensaje": "Los circuitos con mayor afectación en la provincia en estos momentos  son los siguientes:                                                                                                                -  Circuito MK 1150 que da servicio a Población y Acueducto La Carlota, Bateyes (Junco, La Mulata, El Mamey, La Piña, Teheran), Turbinas de Riego de Plátano.                                                                                                                      - Circuito MK 078 Población y Acueducto La Isabel, Bateyes Sofia y Ciro Redondo, Fábrica de Embutidos Ciro Redondo, Turbinas de Riego de Plátano.",
-    "timestamp": 1753381452,
-    "timestamp_local": 1753381452
   }
 ]
