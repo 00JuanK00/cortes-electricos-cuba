@@ -1,5 +1,21 @@
 [
   {
+    "id": 25892,
+    "fecha": "24 de Jul del 2025 a las 05:32 PM",
+    "hora_utc": "2025-07-24 21:32",
+    "mensaje": "Afectados 152 MW en la provincia, demanda máxima posible  apagar en estos momentos.",
+    "timestamp": 1753392761,
+    "timestamp_local": 1753392761
+  },
+  {
+    "id": 25891,
+    "fecha": "24 de Jul del 2025 a las 05:30 PM",
+    "hora_utc": "2025-07-24 21:30",
+    "mensaje": "⚠️Afectados por déficit de capacidad de generación los siguientes circuitos:\n\n🔹Bloque 11\nMunicipio Quemado:\n👉Cto 196 Batey Panchito Gómez Toro.\nMunicipio Corralillo:\n👉Cto 55 Rancho Veloz \n🔹Bloque 7\nMunicipio Camajuaní:\n👉Ctos 73 y 156 \n👉Cto 74 José María Pérez\n🔹Bloque 6\nMunicipio Sagua\n👉Cto 48 Finalet\n👉Ctos 46 y 128 Sitiecito",
+    "timestamp": 1753392631,
+    "timestamp_local": 1753392631
+  },
+  {
     "id": 25890,
     "fecha": "24 de Jul del 2025 a las 04:52 PM",
     "hora_utc": "2025-07-24 20:52",
@@ -75,7 +91,7 @@
     "id": 25881,
     "fecha": "24 de Jul del 2025 a las 02:38 PM",
     "hora_utc": "2025-07-24 18:38",
-    "mensaje": "🔸Actualización del servicio eléctrico en la provincia🔸\n✍️De los 193 circuitos apagables que presenta la provincia, se mantienen afectados 128 circuitos.\n✍️En el momento de hacer esta nota la provincia tiene 99 MW de afectación por déficit de capacidad de generación, demanda máxima posible a apagar.\n✍️Cuenta con 125 afectaciones por averías secundarias y de",
+    "mensaje": "🔸Actualización del servicio eléctrico en la provincia🔸\n✍️De los 193 circuitos apagables que presenta la provincia, se mantienen afectados 128 circuitos.\n✍️En el momento de hacer esta nota la provincia tiene 99 MW de afectación por déficit de capacidad de generación, demanda máxima posible a apagar.\n✍️Cuenta con 125 afectaciones por averías secundarias y de servicio",
     "timestamp": 1753382296,
     "timestamp_local": 1753382296
   },
@@ -142,21 +158,5 @@
     "mensaje": "⚠️Será afectado por déficit de capacidad de generación el siguiente circuito:\n🔹Bloque 3\nMunicipio Santa Clara \n👉 Cto 166 (Condado)",
     "timestamp": 1753373188,
     "timestamp_local": 1753373188
-  },
-  {
-    "id": 25872,
-    "fecha": "24 de Jul del 2025 a las 11:57 AM",
-    "hora_utc": "2025-07-24 15:57",
-    "mensaje": "⚠️Afectados por déficit de capacidad de generación los siguientes circuitos:\n🔹Bloque 10 \nMunicipio Manicaragua \n👉Cto 112 Hoyo Manicaragua \n👉Ctos 113 y 137 La Campana",
-    "timestamp": 1753372642,
-    "timestamp_local": 1753372642
-  },
-  {
-    "id": 25871,
-    "fecha": "24 de Jul del 2025 a las 11:56 AM",
-    "hora_utc": "2025-07-24 15:56",
-    "mensaje": "⚠️Serán afectados por déficit de capacidad de generación los siguientes circuitos:\n🔹Bloque 9\nMunicipio Placetas \n👉Cto 101 y 145 Cumbres\nMunicipio Santa Clara\n👉Cto 6 Vigía\n👉 Cto 39 (Sandino)\n🔹Bloque 10 \nMunicipio Santa Clara\n👉Cto 27 Maleza",
-    "timestamp": 1753372592,
-    "timestamp_local": 1753372592
   }
 ]
