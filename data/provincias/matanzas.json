@@ -1,5 +1,21 @@
 [
   {
+    "id": 23194,
+    "fecha": "24 de Jul del 2025 a las 03:48 PM",
+    "hora_utc": "2025-07-24 19:48",
+    "mensaje": "En estos momentos tenemos afectados por déficit de capacidad de generación 119 MW en la provincia",
+    "timestamp": 1753386489,
+    "timestamp_local": 1753386489
+  },
+  {
+    "id": 23193,
+    "fecha": "24 de Jul del 2025 a las 03:47 PM",
+    "hora_utc": "2025-07-24 19:47",
+    "mensaje": "Circuitos no apagables que se afectarán debido al alto déficit:          - Circuito Z1183, MK1453, JI48, Z130   de 18:00 a 2:00                          -Circuito 5223   de 20:00 a 2:00",
+    "timestamp": 1753386447,
+    "timestamp_local": 1753386447
+  },
+  {
     "id": 23192,
     "fecha": "24 de Jul del 2025 a las 03:05 PM",
     "hora_utc": "2025-07-24 19:05",
@@ -142,21 +158,5 @@
     "mensaje": "Circuitos no apagables que se afectarán debido al alto déficit:\n\n- Circuitos Z1183, Z130, MI1453, GI101 y JI48 se afectarán de 11:00 a 13:00\n\n- Circuitos Z1183, MI1453, GI101 y JI48 se afectarán de 18:00 a 01:00\n\n\n- Circuito Z130 se afectará de 20:00 a 00:00\n\n\n- Circuito 5223 se afectará de 20:00 a 02:00",
     "timestamp": 1753368602,
     "timestamp_local": 1753368602
-  },
-  {
-    "id": 23174,
-    "fecha": "24 de Jul del 2025 a las 10:39 AM",
-    "hora_utc": "2025-07-24 14:39",
-    "mensaje": "En estos momentos tenemos afectados 120 MW  por déficit de capacidad de generación en la provincia.",
-    "timestamp": 1753367970,
-    "timestamp_local": 1753367970
-  },
-  {
-    "id": 23173,
-    "fecha": "24 de Jul del 2025 a las 09:46 AM",
-    "hora_utc": "2025-07-24 13:46",
-    "mensaje": "- Circuito MU 4071 que da servicio a Cítrico, La Carlota e Isabel.            - Circuito MU 4470 **que da servicio a Cítrico, Torriente, San Joaquín.** y Circuito MU 4073 que da servicio a Batey Luisa, Peralta, San Carlos, Poblado San José de Marcos.",
-    "timestamp": 1753364776,
-    "timestamp_local": 1753364776
   }
 ]
