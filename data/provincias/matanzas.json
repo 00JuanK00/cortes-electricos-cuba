@@ -1,5 +1,21 @@
 [
   {
+    "id": 23205,
+    "fecha": "24 de Jul del 2025 a las 05:56 PM",
+    "hora_utc": "2025-07-24 21:56",
+    "mensaje": "En estos momentos tenemos afectados por déficit de capacidad de generación 163 MW en la provincia",
+    "timestamp": 1753394168,
+    "timestamp_local": 1753394168
+  },
+  {
+    "id": 23204,
+    "fecha": "24 de Jul del 2025 a las 05:54 PM",
+    "hora_utc": "2025-07-24 21:54",
+    "mensaje": "En estos momentos tenemos afectados 153 MW afectados por déficit de capacidad de generación. En cuanto las condiciones del sistema lo permitan se restablecerán de manera paulatina los circuitos que más tiempo de afectación presenten.                                                                                                                Los circuitos con mayor afectación en la provincia en estos momentos y por lo tanto los próximos a recibir servicio eléctrico una vez las condiciones lo permitan son los siguientes:                                                                                       - Circuito MK1139 que da servicio a Guásimas y oficinas del petróleo                -  Circuito MU4427 que da servicio a Reparto 13 de marzo, circuitos 2 y 3 desde Salud hasta Obispo y desde García hasta Génes, Playa Larga, Smith Comas.                                                                                                                           - Circuito MJ143 que da servicio a Rápido de Versalles , Panadería , Zona Baja de Versalles , Desde Isabel Primera hasta calle 3ra y desde Narciso Lopez hasta calle Unión                                                                                               -Circuito MJ147 que da servicio a   Rebombeo la Cumbre y desde calle Poza hasta Santa Cristina  y desde San Isidro hasta Arnguren",
+    "timestamp": 1753394074,
+    "timestamp_local": 1753394074
+  },
+  {
     "id": 23203,
     "fecha": "24 de Jul del 2025 a las 05:45 PM",
     "hora_utc": "2025-07-24 21:45",
@@ -142,21 +158,5 @@
     "mensaje": "‼️Se encuentra en AVERÍA el **Circuito 4071 que da servicio a Cítrico, La Carlota e Isabel.**",
     "timestamp": 1753377523,
     "timestamp_local": 1753377523
-  },
-  {
-    "id": 23185,
-    "fecha": "24 de Jul del 2025 a las 01:13 PM",
-    "hora_utc": "2025-07-24 17:13",
-    "mensaje": "‼️Se encuentra en AVERÍA el Circuito MI 1505 que da servicio a Reparto Iglesias, Reparto Reynold García, Ramal Las Cuevas.",
-    "timestamp": 1753377185,
-    "timestamp_local": 1753377185
-  },
-  {
-    "id": 23184,
-    "fecha": "24 de Jul del 2025 a las 01:05 PM",
-    "hora_utc": "2025-07-24 17:05",
-    "mensaje": "En estos momentos tenemos afectados 120 MW  por déficit de capacidad de generación en la provincia.",
-    "timestamp": 1753376738,
-    "timestamp_local": 1753376738
   }
 ]
