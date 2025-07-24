@@ -1,5 +1,37 @@
 [
   {
+    "id": 31925,
+    "fecha": "24 de Jul del 2025 a las 12:24 PM",
+    "hora_utc": "2025-07-24 16:24",
+    "mensaje": "✅Restablecida la Vía libre de Güira de Melena ✅",
+    "timestamp": 1753374279,
+    "timestamp_local": 1753374279
+  },
+  {
+    "id": 31924,
+    "fecha": "24 de Jul del 2025 a las 12:16 PM",
+    "hora_utc": "2025-07-24 16:16",
+    "mensaje": "⛔Se mantienen afectados los circuitos:\n\n➡️ Circuito 3205 Cabañas y Quiebra Hacha\n➡️ Circuito 236 de Bahía Honda\n\n❌En estos momentos 128 MW de Afectación",
+    "timestamp": 1753373812,
+    "timestamp_local": 1753373812
+  },
+  {
+    "id": 31923,
+    "fecha": "24 de Jul del 2025 a las 12:06 PM",
+    "hora_utc": "2025-07-24 16:06",
+    "mensaje": "🚨Vía Libre en el Circuito 341 de San Cristóbal por puntos calientes",
+    "timestamp": 1753373208,
+    "timestamp_local": 1753373208
+  },
+  {
+    "id": 31922,
+    "fecha": "24 de Jul del 2025 a las 12:06 PM",
+    "hora_utc": "2025-07-24 16:06",
+    "mensaje": "⛔Se mantienen afectados los circuitos:\n\n➡️ Circuito 241 de Bahía\n➡️ Circuito 3220 de San Antonio\n➡️ Circuito 1580 de Alquizar\n➡️ Circuito 1258 de Artemisa\n➡️Circuitos Sub San Cristóbal, Martí y 4 Caminos de San Cristóbal\n\n❌En estos momentos 123 MW de Afectación",
+    "timestamp": 1753373195,
+    "timestamp_local": 1753373195
+  },
+  {
     "id": 31921,
     "fecha": "24 de Jul del 2025 a las 09:40 AM",
     "hora_utc": "2025-07-24 13:40",
@@ -11,7 +43,7 @@
     "id": 31920,
     "fecha": "24 de Jul del 2025 a las 08:45 AM",
     "hora_utc": "2025-07-24 12:45",
-    "mensaje": "⛔Afectados por dèficit:\n\n➡️Circuito 5040 de Caimito ( afecta Bombeo de Ceiba 1 y San Gabriel ).\n\n❌ Tenemos una afectación de 133 MW.",
+    "mensaje": "❌ Tenemos una afectación de 133 MW.",
     "timestamp": 1753361104,
     "timestamp_local": 1753361104
   },
@@ -35,7 +67,7 @@
     "id": 31916,
     "fecha": "24 de Jul del 2025 a las 06:13 AM",
     "hora_utc": "2025-07-24 10:13",
-    "mensaje": "⛔Se mantienen afectados los  circuitos:\n\n➡️CIrcuito 236 de Bahía \n➡️Circuito1570 de Artemisa\n➡️Circuito 1940 de San Antonio\n➡️Circuito 1270 de Artemisa\n➡️ Circuito Maní de San Cristóbal\n➡️ Circuito Güira 13000 ,4000 y Junco q se encuentran en Avería pasan a cubrir déficit\n\n\n‼️En estos momentos 140 MW de afectación",
+    "mensaje": "‼️En estos momentos 140 MW de afectación",
     "timestamp": 1753352009,
     "timestamp_local": 1753352009
   },
@@ -118,37 +150,5 @@
     "mensaje": "‼️Circuito 3305 de Güira disparado por tormenta‼️",
     "timestamp": 1753320951,
     "timestamp_local": 1753320951
-  },
-  {
-    "id": 31905,
-    "fecha": "23 de Jul del 2025 a las 09:35 PM",
-    "hora_utc": "2025-07-24 01:35",
-    "mensaje": "‼️Circuito 337 d San Cristóbal en falla",
-    "timestamp": 1753320941,
-    "timestamp_local": 1753320941
-  },
-  {
-    "id": 31904,
-    "fecha": "23 de Jul del 2025 a las 09:13 PM",
-    "hora_utc": "2025-07-24 01:13",
-    "mensaje": "⛔Se mantiene afectados los circuitos:\n\n➡️Circuito Playa Baracoa\n➡️Circuito Maní en San Cristóbal\n➡️ Circuito Sub San Cristóbal, Martí y 4 Caminos\n➡️Circuiti1570 de Artemisa\n➡️Circuito1940 de San Antonio\n➡️Circuito 236 de Bahía\n➡️Circuito 3185 de  Artemisa\n➡️Circuito1270 de Artemisa\n\n\n❌En estos momentos 160 MW de afectación",
-    "timestamp": 1753319598,
-    "timestamp_local": 1753319598
-  },
-  {
-    "id": 31903,
-    "fecha": "23 de Jul del 2025 a las 07:55 PM",
-    "hora_utc": "2025-07-23 23:55",
-    "mensaje": "💥Transformador Quemado  de 50 KVA 13,2/7,6 KV 120/240  CB: SB301 NT:1082  FQ:28414 ‼️ en  Calle C % Mango Jobo  San Cristóbal 👉🏼 afecta aproximadamente 70 casas",
-    "timestamp": 1753314925,
-    "timestamp_local": 1753314925
-  },
-  {
-    "id": 31902,
-    "fecha": "23 de Jul del 2025 a las 06:45 PM",
-    "hora_utc": "2025-07-23 22:45",
-    "mensaje": "❌Circuito 1424 disparado por tormenta se afecta San Pedro ,Bauta Nueva y Villa Salado",
-    "timestamp": 1753310727,
-    "timestamp_local": 1753310727
   }
 ]
