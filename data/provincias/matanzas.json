@@ -1,5 +1,29 @@
 [
   {
+    "id": 23251,
+    "fecha": "25 de Jul del 2025 a las 07:20 AM",
+    "hora_utc": "2025-07-25 11:20",
+    "mensaje": "💡El restablecimiento del servicio eléctrico dependerá del comportamiento de la demanda y la disponibilidad del sistema eléctrico. Una vez se pueda rotar se irán restableciendo de manera paulatina los circuitos que más tiempo de afectación presenten.",
+    "timestamp": 1753442408,
+    "timestamp_local": 1753442408
+  },
+  {
+    "id": 23250,
+    "fecha": "25 de Jul del 2025 a las 07:11 AM",
+    "hora_utc": "2025-07-25 11:11",
+    "mensaje": "En estos momentos tenemos afectados por déficit de capacidad de generación 135 MW en la provincia",
+    "timestamp": 1753441891,
+    "timestamp_local": 1753441891
+  },
+  {
+    "id": 23249,
+    "fecha": "25 de Jul del 2025 a las 07:09 AM",
+    "hora_utc": "2025-07-25 11:09",
+    "mensaje": "📌 Nos mantenemos con **145 MW** afectados por déficit de capacidad de generación en la provincia.",
+    "timestamp": 1753441742,
+    "timestamp_local": 1753441742
+  },
+  {
     "id": 23248,
     "fecha": "25 de Jul del 2025 a las 06:20 AM",
     "hora_utc": "2025-07-25 10:20",
@@ -134,29 +158,5 @@
     "mensaje": "Los **Circuitos** que actualmente presentan mayor afectación en la provincia son los siguientes:                                                                                                         - Circuito MK41 que da servicio a La Pista, La Victoria, Cuatro Caminos, La Perla, Guayabilo, Carpintería EMPRESTUR, Nuevo Amanecer, Bon Cañero, Camino SINU, Barrio Nuevo                                                                                         -Circuito MK69 que da servicio a Playa Larga. Gobierno, Oficinas EMPRESTUR, ETECSA, FINTUR, Escuadrilla Naval, Emisora de Radio, Caleton, Retransmisor Radio La Criolla                                                                       -Circuito MK73 que da servicio a Campamento de Pioneros, Soplillar, Cayo Fidel, Guama.",
     "timestamp": 1753422316,
     "timestamp_local": 1753422316
-  },
-  {
-    "id": 23231,
-    "fecha": "25 de Jul del 2025 a las 01:17 AM",
-    "hora_utc": "2025-07-25 05:17",
-    "mensaje": "⚠️RECORDEMOS:                                                                                                                 Circuitos no apagables que se afectan debido al alto déficit:                             - Circuitos Z1183, MK1453, JI48, Z130 y CI185  se afectarán hasta las 2:00                        - Circuito 5223 se afectará hasta las 2:00",
-    "timestamp": 1753420666,
-    "timestamp_local": 1753420666
-  },
-  {
-    "id": 23230,
-    "fecha": "25 de Jul del 2025 a las 01:13 AM",
-    "hora_utc": "2025-07-25 05:13",
-    "mensaje": "‼️Nos mantenemos con **181 MW** afectados por déficit de capacidad de generación en la provincia.",
-    "timestamp": 1753420404,
-    "timestamp_local": 1753420404
-  },
-  {
-    "id": 23229,
-    "fecha": "25 de Jul del 2025 a las 12:38 AM",
-    "hora_utc": "2025-07-25 04:38",
-    "mensaje": "En estos momentos tenemos afectados 181 MW afectados por déficit de capacidad de generación. En cuanto las condiciones del sistema lo permitan se restablecerán de manera paulatina los circuitos que más tiempo de afectación presenten.                                                                                                                Los circuitos con mayor afectación en la provincia en estos momentos y por lo tanto los próximos a recibir servicio eléctrico una vez las condiciones lo permitan son los siguientes:                                                                                       - Circuito MK1510 que da servicio a Santa Marta desde el policlínico hasta la Lavandería                                                                                                                    - Circuito MK69 que da servicio a Playa Larga. Gobierno, Oficinas EMPRESTUR, ETECSA, FINTUR, Escuadrilla Naval, Emisora de Radio, Caleton, Retransmisor Radio La Criolla                                                                       -Circuito MK73 que da servicio a Campamento de Pioneros, Soplillar, Cayo Fidel, Guama.                                                                                                                  -Circuito MK41 que da servicio a La Pista, La Victoria, Cuatro Caminos, La Perla, Guayabilo, Carpintería EMPRESTUR, Nuevo Amanecer, Bon Cañero, Camino SINU, Barrio Nuevo.                                                                                       - Circuito 4470 que da servicio al Cítrico, Torriente, San Joaquín                             -.- Circuito 4073 Batey Luisa, Peralta, San Carlos, Poblado San José de Marcos.",
-    "timestamp": 1753418286,
-    "timestamp_local": 1753418286
   }
 ]
