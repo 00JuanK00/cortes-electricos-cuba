@@ -1,5 +1,29 @@
 [
   {
+    "id": 42219,
+    "fecha": "25 de Jul del 2025 a las 07:30 PM",
+    "hora_utc": "2025-07-25 23:30",
+    "mensaje": "🔴Disparo🔴\nApertura no voluntaria de un interruptor como vía de protección para desconectar uno o varios elementos del circuito, subestación o sistema, restableciéndose el servicio rápidamente en dependencia de la causa",
+    "timestamp": 1753486219,
+    "timestamp_local": 1753486219
+  },
+  {
+    "id": 42218,
+    "fecha": "25 de Jul del 2025 a las 07:24 PM",
+    "hora_utc": "2025-07-25 23:24",
+    "mensaje": "🔴Estimados clientes en estos momentos se encuentra afectado el circuito 10+3 de Santiago por un disparo,pedimos disculpas por las molestias ocasionadas.🔴",
+    "timestamp": 1753485859,
+    "timestamp_local": 1753485859
+  },
+  {
+    "id": 42217,
+    "fecha": "25 de Jul del 2025 a las 07:03 PM",
+    "hora_utc": "2025-07-25 23:03",
+    "mensaje": "🔴🚨Estimados clientes se le informa que en estos momentos están afectados por Déficit de Capacidad de Generación los circuitos 16 y 19 de Santiago y las líneas 4385 de Contramaestre y 5975 de Baconao.🔴🚨",
+    "timestamp": 1753484624,
+    "timestamp_local": 1753484624
+  },
+  {
     "id": 42216,
     "fecha": "25 de Jul del 2025 a las 05:40 PM",
     "hora_utc": "2025-07-25 21:40",
@@ -134,21 +158,5 @@
     "mensaje": "🔴Se les informa a nuestros clientes que se afecta por Déficit de Capacidad de Generación los el circuito 21 de Santiago y la línea Gl7064 Guama .",
     "timestamp": 1753457236,
     "timestamp_local": 1753457236
-  },
-  {
-    "id": 42198,
-    "fecha": "25 de Jul del 2025 a las 11:15 AM",
-    "hora_utc": "2025-07-25 15:15",
-    "mensaje": "🔴Se les informa a nuestros clientes que se afecta por Déficit de Capacidad de Generación el circuito 2 de Palma .",
-    "timestamp": 1753456509,
-    "timestamp_local": 1753456509
-  },
-  {
-    "id": 42196,
-    "fecha": "25 de Jul del 2025 a las 09:05 AM",
-    "hora_utc": "2025-07-25 13:05",
-    "mensaje": "🔴 Les seguiremos informando a través de nuestro canal de Telegram sobre la situación de la Disponibilidad del Sistema en nuestra provincia.",
-    "timestamp": 1753448703,
-    "timestamp_local": 1753448703
   }
 ]
