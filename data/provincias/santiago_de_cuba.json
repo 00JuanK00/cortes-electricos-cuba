@@ -1,5 +1,29 @@
 [
   {
+    "id": 42212,
+    "fecha": "25 de Jul del 2025 a las 03:43 PM",
+    "hora_utc": "2025-07-25 19:43",
+    "mensaje": "🔴Disparo Automático de Frecuencia (DAF):\nOcurre cuando la frecuencia está por debajo de los 60Hz y determinada carga o circuito se desconecta del sistema automáticamente hasta que se estabilice.",
+    "timestamp": 1753472602,
+    "timestamp_local": 1753472602
+  },
+  {
+    "id": 42211,
+    "fecha": "25 de Jul del 2025 a las 03:42 PM",
+    "hora_utc": "2025-07-25 19:42",
+    "mensaje": "🔴Se les informa a nuestros clientes que se afecta por DAF el circuito 1 de Palma .",
+    "timestamp": 1753472572,
+    "timestamp_local": 1753472572
+  },
+  {
+    "id": 42210,
+    "fecha": "25 de Jul del 2025 a las 03:42 PM",
+    "hora_utc": "2025-07-25 19:42",
+    "mensaje": "🔴Se les informa a nuestros clientes que se afecta por Déficit de Capacidad de Generación los circuitos 8 y 25 de Santiago",
+    "timestamp": 1753472543,
+    "timestamp_local": 1753472543
+  },
+  {
     "id": 42209,
     "fecha": "25 de Jul del 2025 a las 03:11 PM",
     "hora_utc": "2025-07-25 19:11",
@@ -118,29 +142,5 @@
     "mensaje": "👉🔊🔊Estimados clientes, se les reitera que el comportamiento de las afectaciones eléctricas y el restablecimiento del servicio, estará en dependencia de la situación que presente el Sistema Electroenergético Nacional.🚨🚨🚨",
     "timestamp": 1753437956,
     "timestamp_local": 1753437956
-  },
-  {
-    "id": 42191,
-    "fecha": "25 de Jul del 2025 a las 05:58 AM",
-    "hora_utc": "2025-07-25 09:58",
-    "mensaje": "🚨🚨 Estimados clientes se le informa que en estos momentos están afectados por Déficit de Capacidad de Generación los circuitos 11 y 23",
-    "timestamp": 1753437519,
-    "timestamp_local": 1753437519
-  },
-  {
-    "id": 42190,
-    "fecha": "25 de Jul del 2025 a las 05:36 AM",
-    "hora_utc": "2025-07-25 09:36",
-    "mensaje": "🚨 Estimados clientes se le informa que en estos momentos están afectados por Déficit de Capacidad de Generación los circuitos 1y 2 de Contramaestre y ramal Baire - III Frente",
-    "timestamp": 1753436194,
-    "timestamp_local": 1753436194
-  },
-  {
-    "id": 42189,
-    "fecha": "25 de Jul del 2025 a las 04:16 AM",
-    "hora_utc": "2025-07-25 08:16",
-    "mensaje": "🚨 Estimados clientes se le informa que en estos momentos están afectados por Déficit de Capacidad de Generación el circuito 14 seccionalizado",
-    "timestamp": 1753431366,
-    "timestamp_local": 1753431366
   }
 ]
