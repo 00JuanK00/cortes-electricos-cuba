@@ -1,9 +1,17 @@
 [
   {
+    "id": 31946,
+    "fecha": "25 de Jul del 2025 a las 03:41 AM",
+    "hora_utc": "2025-07-25 07:41",
+    "mensaje": "❌ Tenemos una afectación de 151 MW.",
+    "timestamp": 1753429309,
+    "timestamp_local": 1753429309
+  },
+  {
     "id": 31945,
     "fecha": "25 de Jul del 2025 a las 12:36 AM",
     "hora_utc": "2025-07-25 04:36",
-    "mensaje": "⛔ Afectado por dèficit :\n\nCircuito 5040 de Caimito\n\n❌ Tenemos una afectación de 160 MW.",
+    "mensaje": "❌ Tenemos una afectación de 160 MW.",
     "timestamp": 1753418162,
     "timestamp_local": 1753418162
   },
@@ -115,7 +123,7 @@
     "id": 31931,
     "fecha": "24 de Jul del 2025 a las 04:54 PM",
     "hora_utc": "2025-07-24 20:54",
-    "mensaje": "⛔Se mantienen afectados los circuitos:\n\n➡️ Circuito 341 de San Cristóbal\n➡️Circuito 1940 de San Antonio\n\n❌En estos momentos 130 MW de Afectación",
+    "mensaje": "⛔Se mantienen afectados los circuitos:\n\n➡️Circuito 1940 de San Antonio\n\n❌En estos momentos 130 MW de Afectación",
     "timestamp": 1753390457,
     "timestamp_local": 1753390457
   },
@@ -150,13 +158,5 @@
     "mensaje": "❌ Tenemos una afectación de 119 MW.",
     "timestamp": 1753382883,
     "timestamp_local": 1753382883
-  },
-  {
-    "id": 31926,
-    "fecha": "24 de Jul del 2025 a las 01:53 PM",
-    "hora_utc": "2025-07-24 17:53",
-    "mensaje": "✅ Restablecido la vía Libre en el Circuito 341 de San Cristóbal✅",
-    "timestamp": 1753379614,
-    "timestamp_local": 1753379614
   }
 ]
