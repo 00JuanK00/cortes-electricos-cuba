@@ -1,5 +1,21 @@
 [
   {
+    "id": 25936,
+    "fecha": "25 de Jul del 2025 a las 01:05 PM",
+    "hora_utc": "2025-07-25 17:05",
+    "mensaje": "⚠️Afectado por déficit de generación el circuito 15 Maleza.",
+    "timestamp": 1753463143,
+    "timestamp_local": 1753463143
+  },
+  {
+    "id": 25935,
+    "fecha": "25 de Jul del 2025 a las 01:04 PM",
+    "hora_utc": "2025-07-25 17:04",
+    "mensaje": "💡Restablecido el servicio eléctrico en los circuitos siguientes:\n🔹Bloque 4\n👉Municipio Camajuaní:\nCtos 77, 59 y 185 Vueltas",
+    "timestamp": 1753463087,
+    "timestamp_local": 1753463087
+  },
+  {
     "id": 25934,
     "fecha": "25 de Jul del 2025 a las 12:35 PM",
     "hora_utc": "2025-07-25 16:35",
@@ -126,21 +142,5 @@
     "mensaje": "🕕Actualización del servicio eléctrico en las últimas 6 horas.\n✍️El déficit de capacidad de generación osciló entre los 176 MW y los 139 MW.\n✍️De los 193 circuitos apagables que presenta la provincia, se mantienen afectados 172 circuitos.\n✍️ Cuenta con 112 afectaciones por averías secundarias y de servicio:\n Caibarién (4)\n Camajuaní (4)\n Encrucijada (5)\n Manicaragua (4)\n Ranchuelo (1)\n Remedios (8) \n Santa Clara (64)\n Santo Domingo (2)\n🛠️Pendientes a solucionar por el área técnica 20.\n✅La provincia no presenta averías primarias.",
     "timestamp": 1753438555,
     "timestamp_local": 1753438555
-  },
-  {
-    "id": 25916,
-    "fecha": "25 de Jul del 2025 a las 06:09 AM",
-    "hora_utc": "2025-07-25 10:09",
-    "mensaje": "Afectados 139 MW en la provincia, demanda máxima posible  apagar en estos momentos.",
-    "timestamp": 1753438144,
-    "timestamp_local": 1753438144
-  },
-  {
-    "id": 25915,
-    "fecha": "25 de Jul del 2025 a las 03:37 AM",
-    "hora_utc": "2025-07-25 07:37",
-    "mensaje": "Afectados 148 MW en la provincia, demanda máxima posible  apagar en estos momentos.",
-    "timestamp": 1753429039,
-    "timestamp_local": 1753429039
   }
 ]
