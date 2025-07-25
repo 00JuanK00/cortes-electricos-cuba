@@ -1,5 +1,37 @@
 [
   {
+    "id": 31940,
+    "fecha": "24 de Jul del 2025 a las 08:28 PM",
+    "hora_utc": "2025-07-25 00:28",
+    "mensaje": "⛔Afectados por dèficit:\n\n➡️Circuito 3210 de Guanajay\n\n❌ Tenemos una afectación de 163 MW.",
+    "timestamp": 1753403316,
+    "timestamp_local": 1753403316
+  },
+  {
+    "id": 31939,
+    "fecha": "24 de Jul del 2025 a las 08:18 PM",
+    "hora_utc": "2025-07-25 00:18",
+    "mensaje": "⛔Afectados por dèficit:\n\n➡️Circuito 1270 de Artemisa \n\n❌ Tenemos una afectación de 163 MW.",
+    "timestamp": 1753402686,
+    "timestamp_local": 1753402686
+  },
+  {
+    "id": 31938,
+    "fecha": "24 de Jul del 2025 a las 08:17 PM",
+    "hora_utc": "2025-07-25 00:17",
+    "mensaje": "✅ Restablecido el circuito 5050 de Bauta que se encontraba en falla",
+    "timestamp": 1753402644,
+    "timestamp_local": 1753402644
+  },
+  {
+    "id": 31937,
+    "fecha": "24 de Jul del 2025 a las 08:17 PM",
+    "hora_utc": "2025-07-25 00:17",
+    "mensaje": "⛔Circuito 5050 de Bauta en falla.",
+    "timestamp": 1753402644,
+    "timestamp_local": 1753402644
+  },
+  {
     "id": 31936,
     "fecha": "24 de Jul del 2025 a las 07:32 PM",
     "hora_utc": "2025-07-24 23:32",
@@ -51,7 +83,7 @@
     "id": 31930,
     "fecha": "24 de Jul del 2025 a las 03:47 PM",
     "hora_utc": "2025-07-24 19:47",
-    "mensaje": "⛔Se mantienen afectados los circuitos:\n\n➡️ Circuito 3517 de Mariel.\n➡️ Circuito 1570 de Artemisa, Candelaria. \n➡️Circuitos 3205 de Quiebra Hacha y Cabañas.\n\n❌En estos momentos 131 MW de Afectación",
+    "mensaje": "⛔Se mantienen afectados los circuitos:\n\n➡️ Circuito 1570 de Artemisa, Candelaria. \n➡️Circuitos 3205 de Quiebra Hacha y Cabañas.\n\n❌En estos momentos 131 MW de Afectación",
     "timestamp": 1753386461,
     "timestamp_local": 1753386461
   },
@@ -126,29 +158,5 @@
     "mensaje": "🚨Vía Libre en el Circuito de Güira de Melena para solucionar la Avería que afecta Güira 4 mil, 13 mil y Junco.",
     "timestamp": 1753364428,
     "timestamp_local": 1753364428
-  },
-  {
-    "id": 31920,
-    "fecha": "24 de Jul del 2025 a las 08:45 AM",
-    "hora_utc": "2025-07-24 12:45",
-    "mensaje": "❌ Tenemos una afectación de 133 MW.",
-    "timestamp": 1753361104,
-    "timestamp_local": 1753361104
-  },
-  {
-    "id": 31919,
-    "fecha": "24 de Jul del 2025 a las 08:19 AM",
-    "hora_utc": "2025-07-24 12:19",
-    "mensaje": "📢  Nota Informativa - Situación del SEN al 24 de julio de 2025\n\nEn el día de ayer se afectó el servicio las 24 horas y se mantuvo afectado durante toda la madrugada de hoy. La máxima afectación por déficit de capacidad de generación en el día de ayer fue de 1775 MW a las 21:40 horas, coincidente con la hora de máxima demanda. \n\n☀️ Producción de energía de los 23 parques solares fotovoltaicos: 1708 MWh, con 352 MW como máxima potencia entregada en el horario de la media.\n\n🔧 Estado actual:\n\nDisponibilidad: 1770 MW.\nDemanda: 3130 MW.\nAfectación actual: 1384 MW. \nPronóstico para el mediodía: 1300 MW afectados.\n\n🔴 Pronóstico para el horario pico:\nSe proyecta una disponibilidad de 1920 MW y una demanda de 3600 MW, lo que generaría un déficit de 1680 MW, para una afectación de 1750 MW.\n\nMás detalles en 👇\nhttps://www.unionelectrica.cu/nota-informativa/\n\n#UNE #SEN #NotaInformativa #UniónEléctrica #PorCubaJuntosCreamos",
-    "timestamp": 1753359558,
-    "timestamp_local": 1753359558
-  },
-  {
-    "id": 31917,
-    "fecha": "24 de Jul del 2025 a las 08:12 AM",
-    "hora_utc": "2025-07-24 12:12",
-    "mensaje": "#Actualización \n🇨🇺 Para el pico se estima la entrada de la Unidad de la CTE Guiteras, con 150 MW, que se encuentra en proceso de completamiento de la carga.",
-    "timestamp": 1753359153,
-    "timestamp_local": 1753359153
   }
 ]

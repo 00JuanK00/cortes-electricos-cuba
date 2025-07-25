@@ -1,9 +1,25 @@
 [
   {
+    "id": 23213,
+    "fecha": "24 de Jul del 2025 a las 08:05 PM",
+    "hora_utc": "2025-07-25 00:05",
+    "mensaje": "⚠️En estos momentos tenemos 179 MW afectados por déficit de capacidad de generación en la provincia.",
+    "timestamp": 1753401932,
+    "timestamp_local": 1753401932
+  },
+  {
+    "id": 23212,
+    "fecha": "24 de Jul del 2025 a las 07:59 PM",
+    "hora_utc": "2025-07-24 23:59",
+    "mensaje": "En estos momentos tenemos afectados por déficit de capacidad de generación 170 MW en la provincia",
+    "timestamp": 1753401556,
+    "timestamp_local": 1753401556
+  },
+  {
     "id": 23211,
     "fecha": "24 de Jul del 2025 a las 07:29 PM",
     "hora_utc": "2025-07-24 23:29",
-    "mensaje": "⚠️ En este momento, nos mantenemos con **166 MW** afectados debido a un déficit en la capacidad de generación en la provincia.",
+    "mensaje": "⚠️ Nos mantenemos con **166 MW** afectados por déficit de capacidad de generación en la provincia.",
     "timestamp": 1753399783,
     "timestamp_local": 1753399783
   },
@@ -142,21 +158,5 @@
     "mensaje": "En estos momentos tenemos afectados por déficit de capacidad de generación 119 MW en la provincia",
     "timestamp": 1753386489,
     "timestamp_local": 1753386489
-  },
-  {
-    "id": 23193,
-    "fecha": "24 de Jul del 2025 a las 03:47 PM",
-    "hora_utc": "2025-07-24 19:47",
-    "mensaje": "Circuitos no apagables que se afectarán debido al alto déficit:          - Circuito Z1183, MK1453, JI48, Z130, CI185   de 18:00 a 2:00                          -Circuito 5223   de 20:00 a 2:00",
-    "timestamp": 1753386447,
-    "timestamp_local": 1753386447
-  },
-  {
-    "id": 23192,
-    "fecha": "24 de Jul del 2025 a las 03:05 PM",
-    "hora_utc": "2025-07-24 19:05",
-    "mensaje": "En estos momentos tenemos afectados por déficit de capacidad de generación 129 MW en la provincia",
-    "timestamp": 1753383947,
-    "timestamp_local": 1753383947
   }
 ]
