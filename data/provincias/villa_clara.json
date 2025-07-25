@@ -1,5 +1,29 @@
 [
   {
+    "id": 25941,
+    "fecha": "25 de Jul del 2025 a las 02:23 PM",
+    "hora_utc": "2025-07-25 18:23",
+    "mensaje": "💡En breve será restablecido el servicio eléctrico en el circuito 15 Maleza.",
+    "timestamp": 1753467824,
+    "timestamp_local": 1753467824
+  },
+  {
+    "id": 25940,
+    "fecha": "25 de Jul del 2025 a las 02:20 PM",
+    "hora_utc": "2025-07-25 18:20",
+    "mensaje": "💡Restablecido el servicio eléctrico en los circuitos siguientes:\n👉Cto 132 Vigía\n👉Cto 162 Escambray\n👉Cto 170 José Martí",
+    "timestamp": 1753467659,
+    "timestamp_local": 1753467659
+  },
+  {
+    "id": 25939,
+    "fecha": "25 de Jul del 2025 a las 02:19 PM",
+    "hora_utc": "2025-07-25 18:19",
+    "mensaje": "💡Restablecido el servicio eléctrico en los siguientes circuitos:\n🔹Bloque 5\n👉Municipio Santo Domingo:\nCto 134\nCtos 87 y 96 Bermejal\nCto 187 Batey Carlos Baliño\nCto 82 Ulacia\nCto 84 Rodrigo\n🔹Bloque 1\n👉Municipio Manicaragua:\nCtos 109 y 150\nCtos 108 y 110 La Piedra\nCto 111 Mataguá\n👉Municipio Encrucijada\nCto 120 Calabazar\nCtos 121 y 127 Perucho",
+    "timestamp": 1753467555,
+    "timestamp_local": 1753467555
+  },
+  {
     "id": 25938,
     "fecha": "25 de Jul del 2025 a las 02:11 PM",
     "hora_utc": "2025-07-25 18:11",
@@ -16,14 +40,6 @@
     "timestamp_local": 1753466940
   },
   {
-    "id": 25936,
-    "fecha": "25 de Jul del 2025 a las 01:05 PM",
-    "hora_utc": "2025-07-25 17:05",
-    "mensaje": "⚠️Afectado por déficit de generación el circuito 15 Maleza.",
-    "timestamp": 1753463143,
-    "timestamp_local": 1753463143
-  },
-  {
     "id": 25935,
     "fecha": "25 de Jul del 2025 a las 01:04 PM",
     "hora_utc": "2025-07-25 17:04",
@@ -35,7 +51,7 @@
     "id": 25934,
     "fecha": "25 de Jul del 2025 a las 12:35 PM",
     "hora_utc": "2025-07-25 16:35",
-    "mensaje": "⚠️Afectado el servicio eléctrico en los circuitos siguientes:\n🔹Bloque 4\n👉Municipio Santa Clara:\nCto 5 (Dobarganes)\nCto 17 (Subplanta)",
+    "mensaje": "💡Restablecido el servicio eléctrico en los circuitos siguientes:\n🔹Bloque 4\n👉Municipio Santa Clara:\nCto 5 (Dobarganes)\nCto 17 (Subplanta)",
     "timestamp": 1753461331,
     "timestamp_local": 1753461331
   },
@@ -118,29 +134,5 @@
     "mensaje": "🔸Actualización del servicio eléctrico en la provincia🔸\n✍️De los 193 circuitos apagables que presenta la provincia, se mantienen afectados 176 circuitos.\n✍️En el momento de hacer esta nota la provincia tiene 148 MW de afectación por déficit de capacidad de generación, demanda máxima posible a apagar.\n✍️Cuenta con 95 afectaciones por averías secundarias y de servicio.",
     "timestamp": 1753444914,
     "timestamp_local": 1753444914
-  },
-  {
-    "id": 25921,
-    "fecha": "25 de Jul del 2025 a las 07:31 AM",
-    "hora_utc": "2025-07-25 11:31",
-    "mensaje": "🚨Nota informativa.🚨\n\n👉Situación del SEN para el 25 de julio de 2025.\n\n👉En el día de ayer se afectó el servicio las 24 horas y se mantuvo afectado durante toda la madrugada de hoy. La máxima afectación por déficit de capacidad de generación en el día de ayer fue de 1848 MW a las 21:30 horas, coincidente con la hora de máxima demanda. La afectación fue superior a lo planificado por la no entrada de la unidad de la CTE Guiteras.\n \n👉La producción de energía de los 23 nuevos parques solares fotovoltaicos fue de 2265 MWh, con 472 MW como máxima potencia entregada en el horario de la media con esta fuente de generación. \n\n👉La disponibilidad del SEN a las0 7:00 horas es de 1890 MW  la demanda 3210 MW con 1333 MW afectados por déficit de capacidad, en el horario de la media se estima una afectación de 1300 MW.\n \n👉Se encuentran en avería la unidad5 de la CTE Mariel, la unidad 3 de la CTE Renté, la unidad 6 de la CTE Rente y la unidad 2 de la CTE Felton. Se encuentran en mantenimiento la unidad 2 de la CTE Santa Cruz, la unidad 4 de la CTE Cienfuegos y la unidad 5 de la CTE Renté. \n \n👉Las limitaciones en la generación térmica son de 491 MW. \n\n 👉Se encuentran fuera de servicio por combustible 89 centrales de\ngeneración distribuida con 759 MW y 5 motores en la patana de Regla con 40 MW, para un total de 799 MW afectados por esta causa. \n\n 👉Para el pico se estima la recuperación de 100 MW en motores de la generación distribuida que están fuera por combustible,  la entrada de la unidad3 de la CTE Renté con 60 MW y la entrada de la unidad 5 de la CTE Mariel con 60 MW.\n \n👉Con este pronóstico, en el horario pico se estima una disponibilidad de 2110 MW y una demanda máxima de 3500 MW, para un déficit de 1390 MW, por lo que de mantenerse las condiciones previstas se pronostica una afectación de 1460 MW en este horario.\n \nUNE-MINEM",
-    "timestamp": 1753443119,
-    "timestamp_local": 1753443119
-  },
-  {
-    "id": 25920,
-    "fecha": "25 de Jul del 2025 a las 07:13 AM",
-    "hora_utc": "2025-07-25 11:13",
-    "mensaje": "Afectados 150 MW en la provincia, demanda máxima posible  apagar en estos momentos.",
-    "timestamp": 1753442037,
-    "timestamp_local": 1753442037
-  },
-  {
-    "id": 25919,
-    "fecha": "25 de Jul del 2025 a las 06:49 AM",
-    "hora_utc": "2025-07-25 10:49",
-    "mensaje": "🚨Usted puede mantenerse informado por nuestras redes🛜, y unirse a nuestro canal de Telegram, para usted trabajamos🛠️ , para darle una actualización  clara y precisa de cómo se está comportando el Sistema Eléctrico Nacional💡, puede llamar☎️ al 18888, donde prestamos servicio las 24 horas",
-    "timestamp": 1753440587,
-    "timestamp_local": 1753440587
   }
 ]
