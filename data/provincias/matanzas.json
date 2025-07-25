@@ -1,5 +1,37 @@
 [
   {
+    "id": 23273,
+    "fecha": "25 de Jul del 2025 a las 11:50 AM",
+    "hora_utc": "2025-07-25 15:50",
+    "mensaje": "Existe una afectación de 116 MW en estos momentos por déficit de capacidad de generación",
+    "timestamp": 1753458634,
+    "timestamp_local": 1753458634
+  },
+  {
+    "id": 23272,
+    "fecha": "25 de Jul del 2025 a las 11:38 AM",
+    "hora_utc": "2025-07-25 15:38",
+    "mensaje": "‼️‼️Los circuitos con mayor afectación en la provincia en estos momentos y por lo tanto los próximos a recibir servicio eléctrico una vez las condiciones lo permitan son los siguientes:  \n- Circuito 4220 que da servicio a Fines, Coliseo, Lagunilla, Ponce, Picadora A Maceo, San Miguel.                                                                                                     - **Circuito 4985 que da servicio a Poblado de Cantel, Guásimas, Finca Vega,\nSanta Martha desde el Policlínico hasta la Lavandería y por vía rápida hasta\nVilla Nicaragua, Humberto Álvarez, Pozos de Petróleo los Canteles, Pozos\nPetróleo camino el basurero Santa Marta.                                                             -Circuito 4074 que da servicio a Gratitud, Indio Hatuey, Máximo Gómez y\nAdmiración.**",
+    "timestamp": 1753457917,
+    "timestamp_local": 1753457917
+  },
+  {
+    "id": 23270,
+    "fecha": "25 de Jul del 2025 a las 11:35 AM",
+    "hora_utc": "2025-07-25 15:35",
+    "mensaje": "En estos momentos se encuentra en avería el circuito MK110 de la rosa Colón, se recorren las líneas para encontrar el motivo de la misma.",
+    "timestamp": 1753457700,
+    "timestamp_local": 1753457700
+  },
+  {
+    "id": 23269,
+    "fecha": "25 de Jul del 2025 a las 11:14 AM",
+    "hora_utc": "2025-07-25 15:14",
+    "mensaje": "✅✅✅Ante cualquier anomalía con el servicio eléctrico, usted debe llamar al 18888 y reportar la queja. Las operadoras en línea deben darle un número de reporte, guárdelo por si necesita llamar nuevamente para saber en qué proceso se encuentra la misma.",
+    "timestamp": 1753456443,
+    "timestamp_local": 1753456443
+  },
+  {
     "id": 23268,
     "fecha": "25 de Jul del 2025 a las 10:35 AM",
     "hora_utc": "2025-07-25 14:35",
@@ -126,37 +158,5 @@
     "mensaje": "💡El restablecimiento del servicio eléctrico dependerá del comportamiento de la demanda y la disponibilidad del sistema eléctrico. Una vez se pueda rotar se irán restableciendo de manera paulatina los circuitos que más tiempo de afectación presenten.",
     "timestamp": 1753442408,
     "timestamp_local": 1753442408
-  },
-  {
-    "id": 23250,
-    "fecha": "25 de Jul del 2025 a las 07:11 AM",
-    "hora_utc": "2025-07-25 11:11",
-    "mensaje": "En estos momentos tenemos afectados por déficit de capacidad de generación 135 MW en la provincia",
-    "timestamp": 1753441891,
-    "timestamp_local": 1753441891
-  },
-  {
-    "id": 23249,
-    "fecha": "25 de Jul del 2025 a las 07:09 AM",
-    "hora_utc": "2025-07-25 11:09",
-    "mensaje": "📌 Nos mantenemos con **145 MW** afectados por déficit de capacidad de generación en la provincia.",
-    "timestamp": 1753441742,
-    "timestamp_local": 1753441742
-  },
-  {
-    "id": 23248,
-    "fecha": "25 de Jul del 2025 a las 06:20 AM",
-    "hora_utc": "2025-07-25 10:20",
-    "mensaje": "En estos momentos tenemos afectados por déficit de capacidad de generación 145 MW en la provincia",
-    "timestamp": 1753438812,
-    "timestamp_local": 1753438812
-  },
-  {
-    "id": 23247,
-    "fecha": "25 de Jul del 2025 a las 06:17 AM",
-    "hora_utc": "2025-07-25 10:17",
-    "mensaje": "En estos momentos tenemos  141 MW afectados por déficit de capacidad de generación. En cuanto las condiciones del sistema lo permitan se restablecerán de manera paulatina los circuitos que más tiempo de afectación presenten.                                                                                                                Los circuitos con mayor afectación en la provincia en estos momentos y por lo tanto los próximos a recibir servicio eléctrico una vez las condiciones lo permitan son los siguientes:        -Circuito MU4072 que da servicio al pueblo de Agramonte mediante el enlace con Yaguaramas perteneciente a la provincia de Cienfuegos.                                         -Circuito MU4071 que da servicio a Cítrico, La Carlota e Isabel.               -Circuito MU5175 Santa marta desde la calle c hasta el semáforo",
-    "timestamp": 1753438660,
-    "timestamp_local": 1753438660
   }
 ]
