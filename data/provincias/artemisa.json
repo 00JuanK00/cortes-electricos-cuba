@@ -1,5 +1,21 @@
 [
   {
+    "id": 31942,
+    "fecha": "24 de Jul del 2025 a las 10:36 PM",
+    "hora_utc": "2025-07-25 02:36",
+    "mensaje": "⛔Afectados por dèficit:\n\n➡️Circuito 1580 de Alquizar\n\n❌ Tenemos una afectación de 170 MW.",
+    "timestamp": 1753411011,
+    "timestamp_local": 1753411011
+  },
+  {
+    "id": 31941,
+    "fecha": "24 de Jul del 2025 a las 10:36 PM",
+    "hora_utc": "2025-07-25 02:36",
+    "mensaje": "⛔Afectados por dèficit:\n\n➡️Circuito 3305 de Güira de Melena\n\n❌ Tenemos una afectación de 170 MW.",
+    "timestamp": 1753411003,
+    "timestamp_local": 1753411003
+  },
+  {
     "id": 31940,
     "fecha": "24 de Jul del 2025 a las 08:28 PM",
     "hora_utc": "2025-07-25 00:28",
@@ -51,7 +67,7 @@
     "id": 31934,
     "fecha": "24 de Jul del 2025 a las 07:25 PM",
     "hora_utc": "2025-07-24 23:25",
-    "mensaje": "⛔Afectados por dèficit:\n\n➡️Circuito 3185 de Artemisa\n\n❌ Tenemos una afectación de 150 MW.",
+    "mensaje": "❌ Tenemos una afectación de 150 MW.",
     "timestamp": 1753399511,
     "timestamp_local": 1753399511
   },
@@ -59,7 +75,7 @@
     "id": 31933,
     "fecha": "24 de Jul del 2025 a las 05:54 PM",
     "hora_utc": "2025-07-24 21:54",
-    "mensaje": "⛔Afectados por dèficit:\n\n➡️Circuito Bauta Nueva\n\n❌ Tenemos una afectación de 141 MW.",
+    "mensaje": "❌ Tenemos una afectación de 141 MW.",
     "timestamp": 1753394098,
     "timestamp_local": 1753394098
   },
@@ -67,7 +83,7 @@
     "id": 31932,
     "fecha": "24 de Jul del 2025 a las 04:57 PM",
     "hora_utc": "2025-07-24 20:57",
-    "mensaje": "⛔Afectados por dèficit:\n\n➡️Circuito A1258 de Artemisa\n\n❌ Tenemos una afectación de 138 MW.",
+    "mensaje": "❌ Tenemos una afectación de 138 MW.",
     "timestamp": 1753390638,
     "timestamp_local": 1753390638
   },
@@ -75,7 +91,7 @@
     "id": 31931,
     "fecha": "24 de Jul del 2025 a las 04:54 PM",
     "hora_utc": "2025-07-24 20:54",
-    "mensaje": "⛔Se mantienen afectados los circuitos:\n\n➡️ Circuito 341 de San Cristóbal\n➡️ Circuito Maní de San Cristóbal\n➡️Circuito 1940 de San Antonio\n➡️ Circuito 5040 de Caimito \n➡️Circuito 246 de Bahía Honda\n\n❌En estos momentos 130 MW de Afectación",
+    "mensaje": "⛔Se mantienen afectados los circuitos:\n\n➡️ Circuito 341 de San Cristóbal\n➡️Circuito 1940 de San Antonio\n➡️Circuito 246 de Bahía Honda\n\n❌En estos momentos 130 MW de Afectación",
     "timestamp": 1753390457,
     "timestamp_local": 1753390457
   },
@@ -83,7 +99,7 @@
     "id": 31930,
     "fecha": "24 de Jul del 2025 a las 03:47 PM",
     "hora_utc": "2025-07-24 19:47",
-    "mensaje": "⛔Se mantienen afectados los circuitos:\n\n➡️ Circuito 1570 de Artemisa, Candelaria. \n➡️Circuitos 3205 de Quiebra Hacha y Cabañas.\n\n❌En estos momentos 131 MW de Afectación",
+    "mensaje": "❌En estos momentos 131 MW de Afectación",
     "timestamp": 1753386461,
     "timestamp_local": 1753386461
   },
@@ -142,21 +158,5 @@
     "mensaje": "🚨Vía Libre en el Circuito 341 de San Cristóbal por puntos calientes",
     "timestamp": 1753373208,
     "timestamp_local": 1753373208
-  },
-  {
-    "id": 31922,
-    "fecha": "24 de Jul del 2025 a las 12:06 PM",
-    "hora_utc": "2025-07-24 16:06",
-    "mensaje": "❌En estos momentos 123 MW de Afectación",
-    "timestamp": 1753373195,
-    "timestamp_local": 1753373195
-  },
-  {
-    "id": 31921,
-    "fecha": "24 de Jul del 2025 a las 09:40 AM",
-    "hora_utc": "2025-07-24 13:40",
-    "mensaje": "🚨Vía Libre en el Circuito de Güira de Melena para solucionar la Avería que afecta Güira 4 mil, 13 mil y Junco.",
-    "timestamp": 1753364428,
-    "timestamp_local": 1753364428
   }
 ]
