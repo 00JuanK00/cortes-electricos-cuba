@@ -1,5 +1,21 @@
 [
   {
+    "id": 25979,
+    "fecha": "26 de Jul del 2025 a las 06:41 AM",
+    "hora_utc": "2025-07-26 10:41",
+    "mensaje": "⚠️Afectados por déficit de generación los siguientes circuitos:\n🔹Bloque 5\n👉Municipio Santo Domingo:\nCto 134\nCtos 87 y 96 Bermejal\nCto 187 Batey Carlos Baliño\nCto 82 Ulacia\nCto 84 Rodrigo\n👉Municipio Corralillo:\nCtos 58 y 159\nCto 57 Motembo\nCto 56 Yabre\nCto 60 La Sierra",
+    "timestamp": 1753526464,
+    "timestamp_local": 1753526464
+  },
+  {
+    "id": 25978,
+    "fecha": "26 de Jul del 2025 a las 06:36 AM",
+    "hora_utc": "2025-07-26 10:36",
+    "mensaje": "💡Restablecido el servicio eléctrico en los siguientes circuitos:\n🔹Bloque 3\n👉Municipio Placetas:\nCto 192 Benito Juárez\nCto 102 Peroti",
+    "timestamp": 1753526182,
+    "timestamp_local": 1753526182
+  },
+  {
     "id": 25977,
     "fecha": "26 de Jul del 2025 a las 05:58 AM",
     "hora_utc": "2025-07-26 09:58",
@@ -142,21 +158,5 @@
     "mensaje": "🔸Actualización del servicio eléctrico en la provincia🔸\n✍️De los 193 circuitos apagables que presenta la provincia, se mantienen afectados 176 circuitos.\n✍️En el momento de hacer esta nota la provincia tiene 183 MW de afectación por déficit de capacidad de generación, demanda máxima posible a apagar.\n✍️Cuenta con 131 afectaciones por averías secundarias y de servicio.",
     "timestamp": 1753495248,
     "timestamp_local": 1753495248
-  },
-  {
-    "id": 25959,
-    "fecha": "25 de Jul del 2025 a las 09:54 PM",
-    "hora_utc": "2025-07-26 01:54",
-    "mensaje": "✅Ante cualquier duda con la terminología eléctrica, les volvemos explicar: \n     \n👉Las averías pueden ser primarias (afecta un volumen grande de población pues son las líneas de distribución a 13.8kV y puede afectar varias manzanas, incluso repartos completos).\n\n👉Secundarias (afecta a todos los clientes que se alimenten del mismo transformador, puede afectar una o varias cuadras). \n\n👉De servicio (afectan 1 solo cliente o instalación generalmente producto a daños en la acometida, metro contador, etc.).",
-    "timestamp": 1753494843,
-    "timestamp_local": 1753494843
-  },
-  {
-    "id": 25958,
-    "fecha": "25 de Jul del 2025 a las 08:56 PM",
-    "hora_utc": "2025-07-26 00:56",
-    "mensaje": "⚠️Afectados por déficit de generación los siguientes circuitos:\n🔹Bloque 11\n👉Municipio Remedios:\nCtos 67 y 152, 68 y 118 \nCtos 69 y 70 Zuluetas\nCto 143 Batey Heriberto Duquesne\nCto 71 Buena Vista",
-    "timestamp": 1753491413,
-    "timestamp_local": 1753491413
   }
 ]
