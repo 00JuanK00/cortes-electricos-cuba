@@ -1,5 +1,21 @@
 [
   {
+    "id": 25967,
+    "fecha": "26 de Jul del 2025 a las 12:20 AM",
+    "hora_utc": "2025-07-26 04:20",
+    "mensaje": "⚡Afectado por emergencia el circuito 1 Centro, por cable secundario partido.",
+    "timestamp": 1753503652,
+    "timestamp_local": 1753503652
+  },
+  {
+    "id": 25966,
+    "fecha": "25 de Jul del 2025 a las 11:59 PM",
+    "hora_utc": "2025-07-26 03:59",
+    "mensaje": "🕛Actualización del servicio eléctrico en las últimas 6 horas.\n\n👉El déficit de capacidad de generación osciló entre los 151 MW y los 177 MW.\n\n👉De los 193 circuitos apagables que presenta la provincia, se mantienen afectados 176 circuitos.\n 👉Cuenta con 131 afectaciones por averías secundarias y de servicio:\n Caibarién (3)\n Camajuaní (3)\n Encrucijada (3)\n Manicaragua (9)\n Placetas (6)\n Ranchuelo (2)\n Remedios (6) \n Santa Clara (67)\n Santo Domingo (13)\n🛠️Se encuentran 6 averías en vías de solución.\n🛠️Pendientes a solucionar por el área técnica 12.\n⚡La provincia no presenta averías primarias.",
+    "timestamp": 1753502370,
+    "timestamp_local": 1753502370
+  },
+  {
     "id": 25965,
     "fecha": "25 de Jul del 2025 a las 11:10 PM",
     "hora_utc": "2025-07-26 03:10",
@@ -142,21 +158,5 @@
     "mensaje": "🕕Actualización del servicio eléctrico en las últimas 6 horas.\n\n👉El déficit de capacidad de generación osciló entre los 143 MW y los 151 MW.\n\n👉De los 193 circuitos apagables que presenta la provincia, se mantienen afectados 168 circuitos.\n 👉Cuenta con 164 afectaciones por averías secundarias y de servicio:\n Caibarién (2)\n Camajuaní (8)\n Encrucijada (15)\n Manicaragua (8)\n Placetas (4)\n Remedios (13) \n Sagua (5) \n Santa Clara (78)\n Santo Domingo (13)\n🛠️Se encuentran 6 averías en vías de solución.\n🛠️Pendientes a solucionar por el área técnica 12.\n⚡La provincia no presenta averías primarias.",
     "timestamp": 1753480807,
     "timestamp_local": 1753480807
-  },
-  {
-    "id": 25947,
-    "fecha": "25 de Jul del 2025 a las 05:46 PM",
-    "hora_utc": "2025-07-25 21:46",
-    "mensaje": "⚠️Afectados por déficit de generación los circuitos siguientes:\n🔹Bloque 1\n👉Municipio Manicaragua:\nCtos 109 y 150\nCtos 108 y 110 La Piedra\nCto 111 Mataguá\n👉Municipio Encrucijada\nCto 120 Calabazar\nCtos 121 y 127 Perucho",
-    "timestamp": 1753479991,
-    "timestamp_local": 1753479991
-  },
-  {
-    "id": 25946,
-    "fecha": "25 de Jul del 2025 a las 05:00 PM",
-    "hora_utc": "2025-07-25 21:00",
-    "mensaje": "⚠️Afectado el servicio eléctrico por déficit de capacidad de generación los siguientes circuitos:\n🔹Bloque 9\n👉Municipio Santa Clara:\nCto 16 Cubanacán\nCtos 23 y 130 La Ceniza\nCto 42 Manajanabo\n👉Municipio Placetas\nCto 139 Miller\nCto 190 Oliver\nCto 106 Falcón\n👉Municipio Placetas:\nCto 101 y 145 Cumbre",
-    "timestamp": 1753477223,
-    "timestamp_local": 1753477223
   }
 ]
