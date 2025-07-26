@@ -1,5 +1,13 @@
 [
   {
+    "id": 42232,
+    "fecha": "26 de Jul del 2025 a las 09:05 AM",
+    "hora_utc": "2025-07-26 13:05",
+    "mensaje": "🚨Estimados clientes se le informa que en estos momentos están afectados por Déficit de Capacidad de Generación el circuito 26 , 4 de Palma y 5975 Baconao .",
+    "timestamp": 1753535128,
+    "timestamp_local": 1753535128
+  },
+  {
     "id": 42229,
     "fecha": "26 de Jul del 2025 a las 06:40 AM",
     "hora_utc": "2025-07-26 10:40",
@@ -118,21 +126,5 @@
     "mensaje": "🔴Disparo Automático de Frecuencia (DAF):\nOcurre cuando la frecuencia está por debajo de los 60Hz y determinada carga o circuito se desconecta del sistema automáticamente hasta que se estabilice.",
     "timestamp": 1753472602,
     "timestamp_local": 1753472602
-  },
-  {
-    "id": 42211,
-    "fecha": "25 de Jul del 2025 a las 03:42 PM",
-    "hora_utc": "2025-07-25 19:42",
-    "mensaje": "🔴Se les informa a nuestros clientes que se afecta por DAF el circuito 1 de Palma .",
-    "timestamp": 1753472572,
-    "timestamp_local": 1753472572
-  },
-  {
-    "id": 42210,
-    "fecha": "25 de Jul del 2025 a las 03:42 PM",
-    "hora_utc": "2025-07-25 19:42",
-    "mensaje": "🔴Se les informa a nuestros clientes que se afecta por Déficit de Capacidad de Generación los circuitos 8 y 25 de Santiago",
-    "timestamp": 1753472543,
-    "timestamp_local": 1753472543
   }
 ]
