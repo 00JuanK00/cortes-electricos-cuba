@@ -1,5 +1,21 @@
 [
   {
+    "id": 42234,
+    "fecha": "26 de Jul del 2025 a las 09:38 AM",
+    "hora_utc": "2025-07-26 13:38",
+    "mensaje": "🚨Estimados clientes se le informa que en estos momentos están afectados por Déficit de Capacidad de Generación el circuito 12 y 19 de Santiago de Cuba .",
+    "timestamp": 1753537108,
+    "timestamp_local": 1753537108
+  },
+  {
+    "id": 42233,
+    "fecha": "26 de Jul del 2025 a las 09:24 AM",
+    "hora_utc": "2025-07-26 13:24",
+    "mensaje": "🚨Estimados clientes se le informa que en estos momentos están afectados por Déficit de Capacidad de Generación el circuito 8 de Santiago de Cuba .",
+    "timestamp": 1753536241,
+    "timestamp_local": 1753536241
+  },
+  {
     "id": 42232,
     "fecha": "26 de Jul del 2025 a las 09:05 AM",
     "hora_utc": "2025-07-26 13:05",
@@ -110,21 +126,5 @@
     "mensaje": "🔴🚨Estimados clientes les informamos que en estos momentos se afecta la línea de San Juan por una manipulación,pedimos disculpas por las molestias ocasionadas.🔴🚨",
     "timestamp": 1753479469,
     "timestamp_local": 1753479469
-  },
-  {
-    "id": 42213,
-    "fecha": "25 de Jul del 2025 a las 04:42 PM",
-    "hora_utc": "2025-07-25 20:42",
-    "mensaje": "🔴🚨Estimados clientes se le informa que en estos momentos están afectados por Déficit de Capacidad de Generación las líneas 5380 de Mella , 5390 de Songo-ll Frente y 5330 Cristo.🔴🚨",
-    "timestamp": 1753476139,
-    "timestamp_local": 1753476139
-  },
-  {
-    "id": 42212,
-    "fecha": "25 de Jul del 2025 a las 03:43 PM",
-    "hora_utc": "2025-07-25 19:43",
-    "mensaje": "🔴Disparo Automático de Frecuencia (DAF):\nOcurre cuando la frecuencia está por debajo de los 60Hz y determinada carga o circuito se desconecta del sistema automáticamente hasta que se estabilice.",
-    "timestamp": 1753472602,
-    "timestamp_local": 1753472602
   }
 ]
