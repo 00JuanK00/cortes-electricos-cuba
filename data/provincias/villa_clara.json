@@ -1,5 +1,37 @@
 [
   {
+    "id": 26001,
+    "fecha": "26 de Jul del 2025 a las 11:05 AM",
+    "hora_utc": "2025-07-26 15:05",
+    "mensaje": "Afectados 115 MW en la provincia, demanda máxima posible  apagar en estos momentos.",
+    "timestamp": 1753542358,
+    "timestamp_local": 1753542358
+  },
+  {
+    "id": 26000,
+    "fecha": "26 de Jul del 2025 a las 11:04 AM",
+    "hora_utc": "2025-07-26 15:04",
+    "mensaje": "⚠️Afectados por déficit de generación los siguientes circuitos:\n🔹Bloque 1\nMunicipio Manicaragua:\n👉Ctos 109 y 150\n👉Ctos 108 y 110 La Piedra\n👉Cto 111 Mataguá",
+    "timestamp": 1753542257,
+    "timestamp_local": 1753542257
+  },
+  {
+    "id": 25999,
+    "fecha": "26 de Jul del 2025 a las 11:03 AM",
+    "hora_utc": "2025-07-26 15:03",
+    "mensaje": "⚠️Afectados por déficit de generación los siguientes circuitos:\n🔹Bloque 4\nMunicipio Santa Clara:\n👉Cto 5 (Dobarganes)\n👉Cto 17 (Subplanta) \n👉Ctos 37 y 38 (Yabú)   \n👉Cto 13 (Zona Industrial)  \n👉Cto 9 (Moldes y Troqueles)\n👉Cto 133 (Cafetera)",
+    "timestamp": 1753542202,
+    "timestamp_local": 1753542202
+  },
+  {
+    "id": 25998,
+    "fecha": "26 de Jul del 2025 a las 11:01 AM",
+    "hora_utc": "2025-07-26 15:01",
+    "mensaje": "💡Con servicio el circuito 110 (La Piedra), del municipio Manicaragua.",
+    "timestamp": 1753542077,
+    "timestamp_local": 1753542077
+  },
+  {
     "id": 25997,
     "fecha": "26 de Jul del 2025 a las 10:30 AM",
     "hora_utc": "2025-07-26 14:30",
@@ -126,37 +158,5 @@
     "mensaje": "💡Restablecido el servicio eléctrico en los siguientes circuitos:\n🔹Bloque 1\nMunicipio Manicaragua:\nCtos 109 y 150\nCtos 108 y 110 La Piedra\nCto 111 Mataguá",
     "timestamp": 1753531635,
     "timestamp_local": 1753531635
-  },
-  {
-    "id": 25981,
-    "fecha": "26 de Jul del 2025 a las 08:03 AM",
-    "hora_utc": "2025-07-26 12:03",
-    "mensaje": "🛠️ Afectadas por manipulación las líneas 119 y 6375:\nSe afectan los siguientes circuitos:\nMunicipio Santa Clara:\nCtos 15 y 27 (Maleza)\nCto 144 (Camacho)\nCto 7 (Universidad)  \nCto 146 (Elevado Aeropuerto) \nCto 22 (Construcciones Textil)\nCto 131 (Las Antillas)\nCto 153 (EIDE)\nCto 24 Planta Asfalto\nCto 25 Los Güiros\nCto 35 Biotecnología",
-    "timestamp": 1753531416,
-    "timestamp_local": 1753531416
-  },
-  {
-    "id": 25980,
-    "fecha": "26 de Jul del 2025 a las 07:48 AM",
-    "hora_utc": "2025-07-26 11:48",
-    "mensaje": "🚨Nota informativa. 🚨\n\n👉Situación del SEN para el 26 de julio de 2025.\n\n👉En el día de ayer se afectó el servicio las 24 horas y se mantuvo afectado durante toda la madrugada de hoy. La máxima afectación por déficit de capacidad de generación en el día de ayer fue de 1753 MW a las 21:20 horas, coincidente con la hora de máxima demanda. La afectación fue superior a lo planificado por la no entrada de la unidad 5 de la CTE Mariel y demanda superior al pronóstico.\n\n👉La producción de energía de los 23 nuevos parques solares fotovoltaicos fue de 2685 MWh, con 458 MW como máxima potencia entregada en el horario de la media con esta fuente de generación. \n\n👉La disponibilidad del SEN a las 07:00 horas es de 1930 MW  la demanda 3160 MW con 1259 MW afectados por déficit de capacidad, en el horario de la media se estima una afectación de 1180 MW.\n\n👉Se encuentran en avería la unidad 5 de la CTE Mariel, la unidad 6 de la CTE Rente y la unidad 2 de la CTE Felton. Se encuentran en mantenimiento la unidad 2 de la CTE Santa Cruz, la unidad 4 de la CTE Cienfuegos y  la unidad 5 de la CTE Renté. \n\n👉Las limitaciones en la generación térmica son de 362 MW. \n\n👉Se encuentran fuera de servicio por combustible  86 centrales de generación distribuida con 733 MW y 5 motores en la patana de Regla con 40 MW, para un total de 773 MW afectados por esta causa. \n\n👉Para el pico se estima la recuperación de 100 MW en motores de la generación distribuida que están fuera por combustible, y la entrada de la unidad 5 de la CTE Mariel con 60 MW.\n\n👉Con este pronóstico, en el horario pico se estima una disponibilidad de 2090 MW y una demanda máxima de 3650 MW, para un déficit de 1560 MW, por lo que de mantenerse las condiciones previstas se pronostica una afectación de 1630 MW en este horario.\n\nUNE-MINEM",
-    "timestamp": 1753530516,
-    "timestamp_local": 1753530516
-  },
-  {
-    "id": 25979,
-    "fecha": "26 de Jul del 2025 a las 06:41 AM",
-    "hora_utc": "2025-07-26 10:41",
-    "mensaje": "⚠️Afectados por déficit de generación los siguientes circuitos:\n🔹Bloque 5\n👉Municipio Santo Domingo:\nCto 134\nCtos 87 y 96 Bermejal\nCto 187 Batey Carlos Baliño\nCto 82 Ulacia\nCto 84 Rodrigo\n👉Municipio Corralillo:\nCtos 58 y 159\nCto 57 Motembo\nCto 56 Yabre\nCto 60 La Sierra",
-    "timestamp": 1753526464,
-    "timestamp_local": 1753526464
-  },
-  {
-    "id": 25978,
-    "fecha": "26 de Jul del 2025 a las 06:36 AM",
-    "hora_utc": "2025-07-26 10:36",
-    "mensaje": "💡Restablecido el servicio eléctrico en los siguientes circuitos:\n🔹Bloque 3\n👉Municipio Placetas:\nCto 192 Benito Juárez\nCto 102 Peroti",
-    "timestamp": 1753526182,
-    "timestamp_local": 1753526182
   }
 ]
