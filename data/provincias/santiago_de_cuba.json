@@ -1,5 +1,29 @@
 [
   {
+    "id": 42263,
+    "fecha": "26 de Jul del 2025 a las 05:20 PM",
+    "hora_utc": "2025-07-26 21:20",
+    "mensaje": "🔴Disparo:\nApertura no voluntaria de un interruptor como vía de protección para desconectar uno o varios elementos del circuito, subestación o sistema, restableciéndose el servicio rápidamente en dependencia de la causa.",
+    "timestamp": 1753564837,
+    "timestamp_local": 1753564837
+  },
+  {
+    "id": 42262,
+    "fecha": "26 de Jul del 2025 a las 05:20 PM",
+    "hora_utc": "2025-07-26 21:20",
+    "mensaje": "🔴Se les informa a nuestros clientes que se afecta por un disparo el circuito 11 de Santiago.",
+    "timestamp": 1753564822,
+    "timestamp_local": 1753564822
+  },
+  {
+    "id": 42261,
+    "fecha": "26 de Jul del 2025 a las 05:14 PM",
+    "hora_utc": "2025-07-26 21:14",
+    "mensaje": "🔴Se les informa a nuestros clientes que se afecta por Déficit de Capacidad de Generación los circuitos 13 y 21 de Santiago.",
+    "timestamp": 1753564479,
+    "timestamp_local": 1753564479
+  },
+  {
     "id": 42260,
     "fecha": "26 de Jul del 2025 a las 04:55 PM",
     "hora_utc": "2025-07-26 20:55",
@@ -70,29 +94,5 @@
     "mensaje": "🔴La Empresa Eléctrica de Santiago de Cuba pone a disposición de sus clientes la  planificación correspondiente a la semana del 26/07 al 01/08.\n\nNota: El comportamiento de las afectaciones estará en dependencia de la situación que presente el Sistema Electronergético Nacional.",
     "timestamp": 1753551081,
     "timestamp_local": 1753551081
-  },
-  {
-    "id": 42243,
-    "fecha": "26 de Jul del 2025 a las 01:18 PM",
-    "hora_utc": "2025-07-26 17:18",
-    "mensaje": "🚨Estimados clientes se le informa que en estos momentos están afectados por Déficit de Capacidad de Generación  el circuito 13 , 21 , 23 de Santiago de Cuba .",
-    "timestamp": 1753550312,
-    "timestamp_local": 1753550312
-  },
-  {
-    "id": 42242,
-    "fecha": "26 de Jul del 2025 a las 12:14 PM",
-    "hora_utc": "2025-07-26 16:14",
-    "mensaje": "Circuito en avería:                                                                                                                        \n Sucede si un circuito se interrumpe por causa de un defecto en un cable conductor de corriente (fase o neutro), un fusible fundido o disyuntor. En sistemas trifásicos una falla puede implicar una fase, más de una fase con la tierra o puede ocurrir solo entre fases.",
-    "timestamp": 1753546476,
-    "timestamp_local": 1753546476
-  },
-  {
-    "id": 42241,
-    "fecha": "26 de Jul del 2025 a las 12:14 PM",
-    "hora_utc": "2025-07-26 16:14",
-    "mensaje": "🚨Estimados clientes se les informa que el circuito 24 se encuentra en avería, disculpen por las molestias ocasionadas .",
-    "timestamp": 1753546454,
-    "timestamp_local": 1753546454
   }
 ]
