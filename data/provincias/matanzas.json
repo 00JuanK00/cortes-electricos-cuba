@@ -1,9 +1,25 @@
 [
   {
+    "id": 23380,
+    "fecha": "26 de Jul del 2025 a las 08:23 PM",
+    "hora_utc": "2025-07-27 00:23",
+    "mensaje": "En estos momentos tenemos afectados 182 MW  por déficit de capacidad de generación.",
+    "timestamp": 1753575821,
+    "timestamp_local": 1753575821
+  },
+  {
+    "id": 23379,
+    "fecha": "26 de Jul del 2025 a las 07:53 PM",
+    "hora_utc": "2025-07-26 23:53",
+    "mensaje": "**Terminología eléctrica:\n**\n**⚠Disparoautomático por frecuencia (DAF).\n**\n**Un disparo porfrecuencia o Descarga Automática por Frecuencia (DAF) , es una protección que\nposee el sistema eléctrico para cuando la frecuencia llega a valores mínimospermisibles que ponen en peligro la estabilidad de todo el sistema en su\nconjunto y provoca una desconexión automática de algunos circuitos hasta que sevuelva a recuperar su valor nominal a 60Hz o ciclos por segundo.\n \n**\n**Ante cualquier anomalíacon el servicio eléctrico, usted debe llamar al 18888 y reportar la queja. Las\noperadoras en línea deben darle un número de reporte, guárdelo por si necesitallamar nuevamente para saber en qué proceso se encuentra la misma.**",
+    "timestamp": 1753573992,
+    "timestamp_local": 1753573992
+  },
+  {
     "id": 23378,
     "fecha": "26 de Jul del 2025 a las 07:21 PM",
     "hora_utc": "2025-07-26 23:21",
-    "mensaje": "Informa que en estos momentos tenemos afectados 171 MW  por déficit de capacidad de generación.",
+    "mensaje": "En estos momentos tenemos afectados 171 MW  por déficit de capacidad de generación.",
     "timestamp": 1753572075,
     "timestamp_local": 1753572075
   },
@@ -19,7 +35,7 @@
     "id": 23376,
     "fecha": "26 de Jul del 2025 a las 06:49 PM",
     "hora_utc": "2025-07-26 22:49",
-    "mensaje": "Informa que en estos momentos tenemos afectados 162 MW  por déficit de capacidad de generación.",
+    "mensaje": "En estos momentos tenemos afectados 162 MW  por déficit de capacidad de generación.",
     "timestamp": 1753570143,
     "timestamp_local": 1753570143
   },
@@ -134,21 +150,5 @@
     "mensaje": "En estos momentos tenemos afectados 100 MW  por déficit de capacidad de generación.",
     "timestamp": 1753560140,
     "timestamp_local": 1753560140
-  },
-  {
-    "id": 23360,
-    "fecha": "26 de Jul del 2025 a las 01:37 PM",
-    "hora_utc": "2025-07-26 17:37",
-    "mensaje": "‼‼Actualizamos la situación de las Averías: Solucionada -Circuito 4935 que da servicio a San Pedro, Los Arabos, Colón Este, Central Méjico y Mario Muñoz.  4074 que da servicio aIndio Hatuey, Batey Admiración, San Antonio, La Angelina, Máximo Gómez, Batey‼",
-    "timestamp": 1753551455,
-    "timestamp_local": 1753551455
-  },
-  {
-    "id": 23359,
-    "fecha": "26 de Jul del 2025 a las 01:24 PM",
-    "hora_utc": "2025-07-26 17:24",
-    "mensaje": "La Guásima, 25 clientes",
-    "timestamp": 1753550680,
-    "timestamp_local": 1753550680
   }
 ]
