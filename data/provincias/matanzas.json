@@ -1,5 +1,29 @@
 [
   {
+    "id": 23383,
+    "fecha": "26 de Jul del 2025 a las 10:32 PM",
+    "hora_utc": "2025-07-27 02:32",
+    "mensaje": "‼️‼️‼️Tenemos una afectación de 181 MW por déficit de capacidad de generación en la provincia.",
+    "timestamp": 1753583557,
+    "timestamp_local": 1753583557
+  },
+  {
+    "id": 23382,
+    "fecha": "26 de Jul del 2025 a las 09:58 PM",
+    "hora_utc": "2025-07-27 01:58",
+    "mensaje": "‼El restablecimiento del servicio eléctrico dependerá del comportamiento de la demanda y la disponibilidad del sistema eléctrico. Una vez se pueda rotar se irán restableciendo de manera paulatina los circuitos que más tiempo de afectación presenten.",
+    "timestamp": 1753581539,
+    "timestamp_local": 1753581539
+  },
+  {
+    "id": 23381,
+    "fecha": "26 de Jul del 2025 a las 09:16 PM",
+    "hora_utc": "2025-07-27 01:16",
+    "mensaje": "‼️‼️‼️Tenemos una afectación de 193 MW por déficit de capacidad de generación en la provincia.",
+    "timestamp": 1753578975,
+    "timestamp_local": 1753578975
+  },
+  {
     "id": 23380,
     "fecha": "26 de Jul del 2025 a las 08:23 PM",
     "hora_utc": "2025-07-27 00:23",
@@ -11,7 +35,7 @@
     "id": 23379,
     "fecha": "26 de Jul del 2025 a las 07:53 PM",
     "hora_utc": "2025-07-26 23:53",
-    "mensaje": "**Terminología eléctrica:\n**\n**⚠Disparoautomático por frecuencia (DAF).\n**\n**Un disparo porfrecuencia o Descarga Automática por Frecuencia (DAF) , es una protección que\nposee el sistema eléctrico para cuando la frecuencia llega a valores mínimospermisibles que ponen en peligro la estabilidad de todo el sistema en su\nconjunto y provoca una desconexión automática de algunos circuitos hasta que sevuelva a recuperar su valor nominal a 60Hz o ciclos por segundo.\n \n**\n**Ante cualquier anomalíacon el servicio eléctrico, usted debe llamar al 18888 y reportar la queja. Las\noperadoras en línea deben darle un número de reporte, guárdelo por si necesitallamar nuevamente para saber en qué proceso se encuentra la misma.**",
+    "mensaje": "**Terminología eléctrica:\n**\n**⚠Disparo  automático por frecuencia (DAF).\n**\n**Un disparo por frecuencia o Descarga Automática por Frecuencia (DAF) , es una protección que\nposee el sistema eléctrico para cuando la frecuencia llega a valores mínimos permisibles que ponen en peligro la estabilidad de todo el sistema en su\nconjunto y provoca una desconexión automática de algunos circuitos hasta que se vuelva a recuperar su valor nominal a 60Hz o ciclos por segundo.\n Ante cualquier anomalía con el servicio eléctrico, usted debe llamar al 18888 y reportar la queja. Las operadoras en línea deben darle un número de reporte, guárdelo por si necesita llamar nuevamente para saber en qué proceso se encuentra la misma.**",
     "timestamp": 1753573992,
     "timestamp_local": 1753573992
   },
@@ -126,29 +150,5 @@
     "mensaje": "Los circuitos con mayor afectación en la provincia en estos momentos y por lo tanto los próximos a recibir servicio eléctrico una vez las condiciones lo permitan son los siguientes:  \n- Circuito 4819 que da servicio a Poblado da Carlos Rojas.  - Circuito 4985 que da servicio a Poblado de Cantel, Guásimas, Finca Vega, Santa Martha desde el Policlínico hasta la Lavandería y por vía rápida hasta Villa Nicaragua, Humberto Alvarez, Pozos de Petróleo los Canteles, Pozos Petróleo camino el basurero Santa Marta CI140,160,278,170. \n El restablecimiento del servicio eléctrico dependerá del comportamiento de la demanda y la disponibilidad del sistema eléctrico. Una vez se pueda rotar se irán restableciendo de manera paulatina los circuitos que más tiempo de afectación presenten.",
     "timestamp": 1753561113,
     "timestamp_local": 1753561113
-  },
-  {
-    "id": 23363,
-    "fecha": "26 de Jul del 2025 a las 04:11 PM",
-    "hora_utc": "2025-07-26 20:11",
-    "mensaje": "✅✅✅Estimados clientes, recuerden ante cables en el suelo o a poca altura, no tocarlos y crear alguna señalización para evitar accidentes ante la espera del carro de guardia.",
-    "timestamp": 1753560661,
-    "timestamp_local": 1753560661
-  },
-  {
-    "id": 23362,
-    "fecha": "26 de Jul del 2025 a las 04:07 PM",
-    "hora_utc": "2025-07-26 20:07",
-    "mensaje": "‼️‼️Informamos Avería Solucionada: - Circuito 4814 que da servicio a Jaime López.",
-    "timestamp": 1753560432,
-    "timestamp_local": 1753560432
-  },
-  {
-    "id": 23361,
-    "fecha": "26 de Jul del 2025 a las 04:02 PM",
-    "hora_utc": "2025-07-26 20:02",
-    "mensaje": "En estos momentos tenemos afectados 100 MW  por déficit de capacidad de generación.",
-    "timestamp": 1753560140,
-    "timestamp_local": 1753560140
   }
 ]
