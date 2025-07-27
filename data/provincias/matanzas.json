@@ -1,19 +1,27 @@
 [
   {
+    "id": 23408,
+    "fecha": "27 de Jul del 2025 a las 09:45 AM",
+    "hora_utc": "2025-07-27 13:45",
+    "mensaje": "En estos momentos tenemos afectados 101 MW afectados por déficit de capacidad de generación.",
+    "timestamp": 1753623946,
+    "timestamp_local": 1753623946
+  },
+  {
+    "id": 23407,
+    "fecha": "27 de Jul del 2025 a las 09:30 AM",
+    "hora_utc": "2025-07-27 13:30",
+    "mensaje": "‼️‼️Tenemos una afectación de 108 MW por déficit de capacidad de generación en la provincia.",
+    "timestamp": 1753623028,
+    "timestamp_local": 1753623028
+  },
+  {
     "id": 23406,
     "fecha": "27 de Jul del 2025 a las 08:59 AM",
     "hora_utc": "2025-07-27 12:59",
     "mensaje": "🔸Con servicio el circuito **4405 queda servicio a Limonar.**🔸",
     "timestamp": 1753621164,
     "timestamp_local": 1753621164
-  },
-  {
-    "id": 23405,
-    "fecha": "27 de Jul del 2025 a las 08:55 AM",
-    "hora_utc": "2025-07-27 12:55",
-    "mensaje": "🔸Con servicio el circuito **4819 queda servicio a Poblado da Carlos Rojas.**🔸",
-    "timestamp": 1753620956,
-    "timestamp_local": 1753620956
   },
   {
     "id": 23404,
@@ -150,13 +158,5 @@
     "mensaje": "‼️‼️‼️Tenemos una afectación de 172 MW por déficit de capacidad de generación en la provincia.",
     "timestamp": 1753589600,
     "timestamp_local": 1753589600
-  },
-  {
-    "id": 23387,
-    "fecha": "26 de Jul del 2025 a las 11:38 PM",
-    "hora_utc": "2025-07-27 03:38",
-    "mensaje": "Recordamos  los circuitos no apagables que se afectarán debido al alto déficit:\n* Circuito Z130, se afectará de 20:00 a 00:00\n* Circuito 5223 se afectará de 20:00 a 02:00\nAl amanecer:\n* Circuito CI185 se afectará de 04:00 a 07:0",
-    "timestamp": 1753587494,
-    "timestamp_local": 1753587494
   }
 ]
