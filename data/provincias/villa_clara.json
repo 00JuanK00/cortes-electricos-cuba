@@ -1,5 +1,45 @@
 [
   {
+    "id": 26057,
+    "fecha": "27 de Jul del 2025 a las 03:27 AM",
+    "hora_utc": "2025-07-27 07:27",
+    "mensaje": "💡Restablecido el servicio eléctrico en los siguientes circuitos:\nCto 163 Batey 26 de Julio\nCto 54, 94, 95 Jicotea\nCto 81 26 Julio",
+    "timestamp": 1753601271,
+    "timestamp_local": 1753601271
+  },
+  {
+    "id": 26056,
+    "fecha": "27 de Jul del 2025 a las 03:26 AM",
+    "hora_utc": "2025-07-27 07:26",
+    "mensaje": "⚠️Afectados por déficit de generación los siguientes circuitos:\n🔹Bloque 2\nMunicipio Camajuaní:\nCtos 72 y 129\nCto 75 La Quinta\nCto 157 Luis Arcos Bergnes\nCtos 76 y 90 Vega Alta\nMunicipio Cifuentes:\nCtos 114 y 117\nCtos 116 y 155 Mata\nCto 186 Batey Unidad Proletaria\nCto 184 Sitio Grande",
+    "timestamp": 1753601186,
+    "timestamp_local": 1753601186
+  },
+  {
+    "id": 26055,
+    "fecha": "27 de Jul del 2025 a las 03:25 AM",
+    "hora_utc": "2025-07-27 07:25",
+    "mensaje": "💡Será restablecido el servicio eléctrico en los siguientes circuitos:\n🔹Bloque 6\nMunicipio Ranchuelo:\nCto 92 Esperanza (Pueblo)\nCto 93 Esperanza (Campo)",
+    "timestamp": 1753601116,
+    "timestamp_local": 1753601116
+  },
+  {
+    "id": 26054,
+    "fecha": "27 de Jul del 2025 a las 03:24 AM",
+    "hora_utc": "2025-07-27 07:24",
+    "mensaje": "💡Restablecido el servicio eléctrico en los siguientes circuitos:\n🔹Bloque 5\nMunicipio Santo Domingo:\nCto 134\nCtos 87 y 96 Bermejal",
+    "timestamp": 1753601062,
+    "timestamp_local": 1753601062
+  },
+  {
+    "id": 26053,
+    "fecha": "27 de Jul del 2025 a las 03:23 AM",
+    "hora_utc": "2025-07-27 07:23",
+    "mensaje": "💡Restablecido el servicio eléctrico en los siguientes circuitos:\n🔹Bloque 2\nMunicipio Santo Domingo:\nCto 195 Batey George Washington\nCtos 83 y 165 Manacas\nCtos 85 y 86 Pajarito\nCtos 160 y 161 Cascajal",
+    "timestamp": 1753601015,
+    "timestamp_local": 1753601015
+  },
+  {
     "id": 26052,
     "fecha": "27 de Jul del 2025 a las 02:01 AM",
     "hora_utc": "2025-07-27 06:01",
@@ -118,45 +158,5 @@
     "mensaje": "🛠️Afectada por disparo la línea 1960 al momento de restablecerse por déficit de capacidad de generación:\nAfecta los siguientes circuitos:\nMunicipio Encrucijada\n👉Cto 120 Calabazar\n👉Ctos 121 y 127 Perucho\n✍️Se estudian las causas.",
     "timestamp": 1753583230,
     "timestamp_local": 1753583230
-  },
-  {
-    "id": 26037,
-    "fecha": "26 de Jul del 2025 a las 10:23 PM",
-    "hora_utc": "2025-07-27 02:23",
-    "mensaje": "💡Restablecido el servicio eléctrico en los circuitos 98 y 99 del municipio Placetas, pertenecientes al bloque 10.",
-    "timestamp": 1753583004,
-    "timestamp_local": 1753583004
-  },
-  {
-    "id": 26036,
-    "fecha": "26 de Jul del 2025 a las 10:06 PM",
-    "hora_utc": "2025-07-27 02:06",
-    "mensaje": "🔸Actualización del servicio eléctrico en la provincia🔸\n✍️De los 193 circuitos apagables que presenta la provincia, se mantienen afectados 166 circuitos.\n✍️En el momento de hacer esta nota la provincia tiene 159 MW de afectación por déficit de capacidad de generación, demanda máxima posible a apagar.\n✍️Cuenta con 156 afectaciones por averías secundarias y de servicio.",
-    "timestamp": 1753581989,
-    "timestamp_local": 1753581989
-  },
-  {
-    "id": 26035,
-    "fecha": "26 de Jul del 2025 a las 09:41 PM",
-    "hora_utc": "2025-07-27 01:41",
-    "mensaje": "💡Restablecido el servicio eléctrico en los siguientes circuitos:\n🔹Bloque 6Municipio Ranchuelo:\nMunicipio Santa Clara:\nCtos 26 y 141 (Manuelita)\nCto 191 (Quemado de Hilario)",
-    "timestamp": 1753580509,
-    "timestamp_local": 1753580509
-  },
-  {
-    "id": 26034,
-    "fecha": "26 de Jul del 2025 a las 08:52 PM",
-    "hora_utc": "2025-07-27 00:52",
-    "mensaje": "💡Restablecido el circuito 4 (Consejo-Centro), del municipio Santa Clara, perteneciente al bloque 5.",
-    "timestamp": 1753577567,
-    "timestamp_local": 1753577567
-  },
-  {
-    "id": 26033,
-    "fecha": "26 de Jul del 2025 a las 08:42 PM",
-    "hora_utc": "2025-07-27 00:42",
-    "mensaje": "⚠️Afectados por déficit de generación los siguientes circuitos:\nCto 163 Batey 26 de Julio\nCto 54, 94 y 95 Jicotea\nCto 81 26 Julio",
-    "timestamp": 1753576965,
-    "timestamp_local": 1753576965
   }
 ]
