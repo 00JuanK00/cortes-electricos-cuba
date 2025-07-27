@@ -1,5 +1,13 @@
 [
   {
+    "id": 83117,
+    "fecha": "27 de Jul del 2025 a las 07:27 PM",
+    "hora_utc": "2025-07-27 23:27",
+    "mensaje": "♦️Afectado el servicio en el circuito La Salud - 2 por disparo en las líneas♦️",
+    "timestamp": 1753658824,
+    "timestamp_local": 1753658824
+  },
+  {
     "id": 83116,
     "fecha": "27 de Jul del 2025 a las 06:41 PM",
     "hora_utc": "2025-07-27 22:41",
@@ -27,7 +35,7 @@
     "id": 83113,
     "fecha": "27 de Jul del 2025 a las 06:10 PM",
     "hora_utc": "2025-07-27 22:10",
-    "mensaje": "🔷♦️Se restablece el servicio en los circuitos que se encontraban afectados por déficit de capacidad de generación:\n*Los Palos\n*Sureste♦️🔷",
+    "mensaje": "🚨Por déficit de capacidad de generación se afecta el servicio en los siguientes circuitos:\n*Los Palos\n*Sureste 🚨",
     "timestamp": 1753654216,
     "timestamp_local": 1753654216
   },
@@ -150,13 +158,5 @@
     "mensaje": "🚨Por déficit de capacidad de generación se afecta el servicio en el siguiente circuito:\n*Batabanó 🚨",
     "timestamp": 1753644725,
     "timestamp_local": 1753644725
-  },
-  {
-    "id": 83097,
-    "fecha": "27 de Jul del 2025 a las 03:17 PM",
-    "hora_utc": "2025-07-27 19:17",
-    "mensaje": "🚨Por déficit de capacidad de generación se afecta el servicio en los siguientes circuitos:\n*1790\n*Bio - 1 🚨",
-    "timestamp": 1753643864,
-    "timestamp_local": 1753643864
   }
 ]

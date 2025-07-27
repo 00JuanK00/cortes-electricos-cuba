@@ -1,5 +1,21 @@
 [
   {
+    "id": 26094,
+    "fecha": "27 de Jul del 2025 a las 07:40 PM",
+    "hora_utc": "2025-07-27 23:40",
+    "mensaje": "💡Restablecido el servicio eléctrico en los siguientes circuitos:\n🔹Bloque 3\nMunicipio Santa Clara:\nCto 166 (Condado)",
+    "timestamp": 1753659637,
+    "timestamp_local": 1753659637
+  },
+  {
+    "id": 26093,
+    "fecha": "27 de Jul del 2025 a las 07:02 PM",
+    "hora_utc": "2025-07-27 23:02",
+    "mensaje": "Afectados 158 MW en la provincia, demanda máxima posible a apagar en estos momentos.",
+    "timestamp": 1753657331,
+    "timestamp_local": 1753657331
+  },
+  {
     "id": 26092,
     "fecha": "27 de Jul del 2025 a las 06:48 PM",
     "hora_utc": "2025-07-27 22:48",
@@ -35,7 +51,7 @@
     "id": 26088,
     "fecha": "27 de Jul del 2025 a las 05:04 PM",
     "hora_utc": "2025-07-27 21:04",
-    "mensaje": "Afectados 128 MW en la provincia, demanda máxima posible apagar en estos momentos.",
+    "mensaje": "Afectados 128 MW en la provincia, demanda máxima posible a apagar en estos momentos.",
     "timestamp": 1753650291,
     "timestamp_local": 1753650291
   },
@@ -83,7 +99,7 @@
     "id": 26081,
     "fecha": "27 de Jul del 2025 a las 03:03 PM",
     "hora_utc": "2025-07-27 19:03",
-    "mensaje": "Afectados 115 MW en la provincia, demanda máxima posible 101 apagar en estos momentos.",
+    "mensaje": "Afectados 115 MW en la provincia, demanda máxima posible a apagar en estos momentos.",
     "timestamp": 1753642990,
     "timestamp_local": 1753642990
   },
@@ -134,21 +150,5 @@
     "mensaje": "🕛Actualización del servicio eléctrico en las últimas 6 horas.\n👉El déficit de capacidad de generación osciló entre los 123 MW y los 113 MW.\n👉De los 193 circuitos apagables que presenta la provincia, se mantienen afectados 127 circuitos.\n 👉Cuenta con 109 afectaciones por averías secundarias y de servicio:\n🔸Corralillo (2)\n🔸Camajuaní (10)\n🔸Encrucijada (4)\n🔸Manicaragua (18)\n🔸Placetas (8)\n🔸Remedios (7) \n🔸Sagua (2)\n🔸Santa Clara (44)\n🔸Santo Domingo (12)\n🛠️Se encuentra 2 avería en vía de solución.\n🛠️Pendientes a solucionar por el área técnica 12.\n⚠️Se mantienen afectados los siguientes circuitos:\nLínea 1715 \nMunicipio Santo Domingo:\nCto 134\nCtos 87 Bermejal\nLínea 1720 \nMunicipio Santo Domingo:\nCto 195 Batey George Washington\nCtos 83 y 165 Manacas\nCtos 85 y 86 Pajarito\nCtos 160 y 161 Cascajal\nLínea 1210\nMunicipio Quemado:\nCtos 164, 52 y 53 Quemado.\nCto 196 Batey Panchito Gómez Toro.\nMunicipio Corralillo:\nCto 55 Rancho Veloz",
     "timestamp": 1753632231,
     "timestamp_local": 1753632231
-  },
-  {
-    "id": 26074,
-    "fecha": "27 de Jul del 2025 a las 11:06 AM",
-    "hora_utc": "2025-07-27 15:06",
-    "mensaje": "Afectados 113 MW en la provincia, demanda máxima posible  apagar en estos momentos.",
-    "timestamp": 1753628784,
-    "timestamp_local": 1753628784
-  },
-  {
-    "id": 26073,
-    "fecha": "27 de Jul del 2025 a las 10:06 AM",
-    "hora_utc": "2025-07-27 14:06",
-    "mensaje": "💡Será restablecido el servicio eléctrico en los siguientes circuitos:\n🔹Bloque 9\nMunicipio Placetas:\nCto 101 y 145 Cumbre\nBloque 7\nMunicipio Camajuaní:\nCtos 73 y 156 \nCto 74 José María Pérez",
-    "timestamp": 1753625218,
-    "timestamp_local": 1753625218
   }
 ]
