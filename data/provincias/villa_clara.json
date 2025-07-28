@@ -1,5 +1,21 @@
 [
   {
+    "id": 26112,
+    "fecha": "28 de Jul del 2025 a las 03:00 AM",
+    "hora_utc": "2025-07-28 07:00",
+    "mensaje": "Afectados 134 MW en la provincia, demanda máxima posible a apagar en estos momentos.",
+    "timestamp": 1753686049,
+    "timestamp_local": 1753686049
+  },
+  {
+    "id": 26110,
+    "fecha": "28 de Jul del 2025 a las 03:00 AM",
+    "hora_utc": "2025-07-28 07:00",
+    "mensaje": "🔸Actualización del servicio eléctrico en la provincia🔸\n✍️De los 193 circuitos apagables que presenta la provincia, se mantienen afectados 166 circuitos.\n✍️En el momento de hacer esta nota la provincia tiene 139 MW de afectación por déficit de capacidad de generación, demanda máxima posible a apagar.\n✍️Cuenta con 89 afectaciones por averías secundarias y de servicio.",
+    "timestamp": 1753686004,
+    "timestamp_local": 1753686004
+  },
+  {
     "id": 26109,
     "fecha": "28 de Jul del 2025 a las 01:14 AM",
     "hora_utc": "2025-07-28 05:14",
@@ -126,29 +142,5 @@
     "mensaje": "Afectados 158 MW en la provincia, demanda máxima posible a apagar en estos momentos.",
     "timestamp": 1753657331,
     "timestamp_local": 1753657331
-  },
-  {
-    "id": 26092,
-    "fecha": "27 de Jul del 2025 a las 06:48 PM",
-    "hora_utc": "2025-07-27 22:48",
-    "mensaje": "⚠️Serán afectados por déficit de generación los siguientes circuitos:\n🔹Bloque 4  \nMunicipio Encrucijada:\nCto 122 Encrucijada \nCto 123 Vizcaya \nCto 142 Comunidad La Sierra \nCto 126 Batey Emilio Córdova\nCto 125 Cavarrocas\nCto 124 El Santo\nMunicipio Camajuaní:\nCto 78 Jutiero \nMunicipio Camajuaní:\nCtos 77, 59 y 185 Vueltas",
-    "timestamp": 1753656507,
-    "timestamp_local": 1753656507
-  },
-  {
-    "id": 26091,
-    "fecha": "27 de Jul del 2025 a las 06:34 PM",
-    "hora_utc": "2025-07-27 22:34",
-    "mensaje": "⚠️Serán afectados por déficit de generación los siguientes circuitos:\n🔹Bloque 1 \nMunicipio Encrucijada\nCto 120 Calabazar\nCtos 121 y 127 Perucho\n🔹Bloque 2 \nMunicipio Camajuaní:\nCtos 72 y 129\nCto 75 La Quinta\nCto 157 Luis Arcos Bergnes\nCtos 76 y 90 Vega Alta",
-    "timestamp": 1753655650,
-    "timestamp_local": 1753655650
-  },
-  {
-    "id": 26090,
-    "fecha": "27 de Jul del 2025 a las 06:03 PM",
-    "hora_utc": "2025-07-27 22:03",
-    "mensaje": "🕕Actualización del servicio eléctrico en las últimas 6 horas.\n👉El déficit de capacidad de generación osciló entre los 96 MW y los 128 MW.\n👉De los 193 circuitos apagables que presenta la provincia, se mantienen afectados 156 circuitos.\n 👉Cuenta con 100 afectaciones por averías secundarias y de servicio:\n🔸Corralillo (3)\n🔸Encrucijada (3)\n🔸Manicaragua (19)\n🔸Placetas (8)\n🔸Remedios (11) \n🔸Sagua (1)\n🔸Santa Clara (49)\n🔸Santo Domingo (6)\n🛠️Se encuentra 3 avería en vía de solución.\n🛠️Pendientes a solucionar por el área técnica 22.\n✅La provincia no presenta averías primarias.",
-    "timestamp": 1753653790,
-    "timestamp_local": 1753653790
   }
 ]
