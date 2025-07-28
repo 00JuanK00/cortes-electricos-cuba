@@ -1,5 +1,29 @@
 [
   {
+    "id": 23478,
+    "fecha": "28 de Jul del 2025 a las 02:58 PM",
+    "hora_utc": "2025-07-28 18:58",
+    "mensaje": "En estos momentos tenemos afectados 135 MW por déficit de capacidad de generación.",
+    "timestamp": 1753729115,
+    "timestamp_local": 1753729115
+  },
+  {
+    "id": 23477,
+    "fecha": "28 de Jul del 2025 a las 02:38 PM",
+    "hora_utc": "2025-07-28 18:38",
+    "mensaje": "Circuitos no apagables que se afectarán debido al alto déficit:\n\n* Circuitos JI48, Z1183 y CI 185 se afectarán de 18:00 a 01:00\n\n* Circuito Z130, se afectará de 20:00 a 00:00\n\n* Circuito 5223 se afectará de 20:00 a 02:00",
+    "timestamp": 1753727923,
+    "timestamp_local": 1753727923
+  },
+  {
+    "id": 23476,
+    "fecha": "28 de Jul del 2025 a las 02:25 PM",
+    "hora_utc": "2025-07-28 18:25",
+    "mensaje": "📌 El restablecimiento del servicio eléctrico dependerá del comportamiento de la demanda y la disponibilidad del sistema eléctrico. Una vez se pueda rotar se irán restableciendo de manera paulatina los circuitos que más tiempo de afectación presenten.",
+    "timestamp": 1753727142,
+    "timestamp_local": 1753727142
+  },
+  {
     "id": 23475,
     "fecha": "28 de Jul del 2025 a las 02:06 PM",
     "hora_utc": "2025-07-28 18:06",
@@ -134,29 +158,5 @@
     "mensaje": "⚡📣 Los circuitos con mayor afectación en la provincia, **__próximos a restablecer el servicio:\n* Circuito MK2901 que da servicio a Poblado Amarillas\n*Circuito MK801 que da servicio a Poblado Amarillas, Batey Solis, Batey Biajaca, Batey La Plata\n*Circuito MK1131 que da servicio a Batey Recreo, Batey Jesus Rabi, Batey 2 Rios\n*Circuito MK701 que da servicio a Poblado Calimete, Batey Quintana, Batey 4 Caminos, Batey Marias, Batey Indarra__**",
     "timestamp": 1753711018,
     "timestamp_local": 1753711018
-  },
-  {
-    "id": 23458,
-    "fecha": "28 de Jul del 2025 a las 09:32 AM",
-    "hora_utc": "2025-07-28 13:32",
-    "mensaje": "‼‼ En estos momentos tenemos afectados 123 MW por déficit de capacidad de generación.",
-    "timestamp": 1753709546,
-    "timestamp_local": 1753709546
-  },
-  {
-    "id": 23457,
-    "fecha": "28 de Jul del 2025 a las 09:00 AM",
-    "hora_utc": "2025-07-28 13:00",
-    "mensaje": "⚡📣 Los circuitos con mayor afectación en la provincia, próximos a restablecer el servicio:\n*Circuito MJ1083 que da servicio a Cárdenas circuitos 2 y 3 desde Salud hasta Obispo y desde García hasta Genes\n*Circuito  MK120 que da servicio a Ciudad de Cárdenas Reparto 13 de Marzo, Valdez Reyes, El Cerro\n*Circuito MK145  que da servicio a Ciudad de Cárdenas desde Industria hasta Héctor, desde Sáez hasta San José y Playa Larga",
-    "timestamp": 1753707607,
-    "timestamp_local": 1753707607
-  },
-  {
-    "id": 23456,
-    "fecha": "28 de Jul del 2025 a las 08:46 AM",
-    "hora_utc": "2025-07-28 12:46",
-    "mensaje": "-Martí: Itabo, 39 clientes.",
-    "timestamp": 1753706788,
-    "timestamp_local": 1753706788
   }
 ]
