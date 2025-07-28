@@ -1,5 +1,29 @@
 [
   {
+    "id": 23435,
+    "fecha": "27 de Jul del 2025 a las 10:31 PM",
+    "hora_utc": "2025-07-28 02:31",
+    "mensaje": "‼‼ En estos momentos tenemos afectados 175 MW por déficit de capacidad de generación.",
+    "timestamp": 1753669880,
+    "timestamp_local": 1753669880
+  },
+  {
+    "id": 23434,
+    "fecha": "27 de Jul del 2025 a las 09:15 PM",
+    "hora_utc": "2025-07-28 01:15",
+    "mensaje": "**👷Terminología eléctrica: Disparo automático por frecuencia (DAF).\n**\n⚠** **La DAF es un sistema de protección del sistema eléctrico que actúa automáticamente cuando la frecuencia cae por debajo de valores mínimos críticos. Esta caída compromete la estabilidad general, por lo que se desconectan algunos circuitos para proteger la red. \n🔁 El servicio se restaura gradualmente una vez que la frecuencia recupera su valor nominal de 60Hz (ciclos por segundo)",
+    "timestamp": 1753665335,
+    "timestamp_local": 1753665335
+  },
+  {
+    "id": 23433,
+    "fecha": "27 de Jul del 2025 a las 09:12 PM",
+    "hora_utc": "2025-07-28 01:12",
+    "mensaje": "‼‼ En estos momentos tenemos afectados 177 MW por déficit de capacidad de generación.",
+    "timestamp": 1753665125,
+    "timestamp_local": 1753665125
+  },
+  {
     "id": 23432,
     "fecha": "27 de Jul del 2025 a las 08:23 PM",
     "hora_utc": "2025-07-28 00:23",
@@ -126,29 +150,5 @@
     "mensaje": "En estos momentos tenemos afectados 92 MW por déficit de capacidad de generación.",
     "timestamp": 1753638153,
     "timestamp_local": 1753638153
-  },
-  {
-    "id": 23415,
-    "fecha": "27 de Jul del 2025 a las 01:32 PM",
-    "hora_utc": "2025-07-27 17:32",
-    "mensaje": "**📣Sabía usted? \n📌El uso incorrecto o inseguro de la electricidad en la población, constituye una preocupación por las víctimas que cobra. \n**\n**Dentro de las principales causas de accidente por contacto eléctrico⚡️ están: \n\n❌Tocar cables caídos en el suelo. \n❌Reparar instalaciones eléctricas⚡️ sin el conocimiento, la calificación y las herramientas adecuadas.\n❌El incumplimiento de las regulaciones emitidas por Planificación Física en cuanto a la distancia: límite entre la cubierta de edificaciones y el tendido eléctrico⚡️, lo cual muchas veces ocasiona accidentes al colocar antenas de televisión o hacer otras manipulaciones.**",
-    "timestamp": 1753637553,
-    "timestamp_local": 1753637553
-  },
-  {
-    "id": 23414,
-    "fecha": "27 de Jul del 2025 a las 01:11 PM",
-    "hora_utc": "2025-07-27 17:11",
-    "mensaje": "⚡📣 El circuito con mayor afectación en la provincia, próximo a restablecer el servicio:\n🔌  **Circuito 501**:  que da servicio 6 de Agosto, Manguito, La Montaña, Calimete, Amarillas, Plan de arroz.",
-    "timestamp": 1753636260,
-    "timestamp_local": 1753636260
-  },
-  {
-    "id": 23413,
-    "fecha": "27 de Jul del 2025 a las 01:00 PM",
-    "hora_utc": "2025-07-27 17:00",
-    "mensaje": "En estos momentos tenemos afectados 98 MW por déficit de capacidad de generación.",
-    "timestamp": 1753635618,
-    "timestamp_local": 1753635618
   }
 ]
