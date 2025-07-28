@@ -1,5 +1,21 @@
 [
   {
+    "id": 23472,
+    "fecha": "28 de Jul del 2025 a las 12:29 PM",
+    "hora_utc": "2025-07-28 16:29",
+    "mensaje": "✅ Se restableció el **servicio** en los Circuitos MU4985 y MU4220.",
+    "timestamp": 1753720166,
+    "timestamp_local": 1753720166
+  },
+  {
+    "id": 23471,
+    "fecha": "28 de Jul del 2025 a las 12:18 PM",
+    "hora_utc": "2025-07-28 16:18",
+    "mensaje": "En estos momentos tenemos afectados 134 MW por déficit de capacidad de generación.",
+    "timestamp": 1753719538,
+    "timestamp_local": 1753719538
+  },
+  {
     "id": 23470,
     "fecha": "28 de Jul del 2025 a las 12:05 PM",
     "hora_utc": "2025-07-28 16:05",
@@ -142,21 +158,5 @@
     "mensaje": "‼️Nota informativa‼️. \n\nSituación del SEN para el 28 de julio de 2025.\n\n✅En el día de ayer se afectó el servicio las 24 horas y se mantuvo afectado durante toda la madrugada de hoy. La máxima afectación por déficit de capacidad de generación en el día de ayer fue de 1730 MW a las 20:10 horas, coincidente con la hora de máxima demanda. Afectación superior a lo planificado por la salida imprevista de la unidad 8 de la CTE Mariel.\n\n✅La producción de energía de los 23 nuevos parques solares fotovoltaicos fue de 2715 MWh, con 520 MW como máxima potencia entregada en el horario de la media con esta fuente de generación.\n\n✅La disponibilidad del SEN a las 07:00 horas es de 1960 MW  la demanda 3225 MW con 1290 MW afectados por déficit de capacidad, en el horario de la media se estima una afectación de 1150 MW.\n\nLas limitaciones en la generación térmica son de 422 MW. \n\n✅Se encuentran fuera de servicio por combustible                                90 centrales de generación distribuida con 749 MW.\n\n✅Para el pico se estima la recuperación de 100 MW en motores de la generación distribuida que están fuera por combustible.\n\n✅Con este pronóstico, en el horario pico se estima una disponibilidad de 2060 MW y una demanda máxima de                   3700 MW, para un déficit de 1640 MW, por lo que de mantenerse las condiciones previstas se pronostica una afectación de 1710 MW en este horario.\n\nUNE-MINEM",
     "timestamp": 1753705833,
     "timestamp_local": 1753705833
-  },
-  {
-    "id": 23452,
-    "fecha": "28 de Jul del 2025 a las 08:10 AM",
-    "hora_utc": "2025-07-28 12:10",
-    "mensaje": "‼‼ En estos momentos tenemos afectados 127 MW por déficit de capacidad de generación.",
-    "timestamp": 1753704636,
-    "timestamp_local": 1753704636
-  },
-  {
-    "id": 23451,
-    "fecha": "28 de Jul del 2025 a las 08:08 AM",
-    "hora_utc": "2025-07-28 12:08",
-    "mensaje": "Circuitos no apagables que se afectarán debido al alto déficit:\n\n* Circuitos Z1183, Z130 y JI48 se afectarán de 11:00 a 13:00\n\n* Circuitos JI48, Z1183 y CI 185 se afectarán de 18:00 a 01:00\n\n* Circuito Z130, se afectará de 20:00 a 00:00\n\n* Circuito 5223 se afectará de 20:00 a 02:00\n\n\nAl amanecer:\n* Circuito CI185 se afectará de 04:00 a 07:00",
-    "timestamp": 1753704524,
-    "timestamp_local": 1753704524
   }
 ]
