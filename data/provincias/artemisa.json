@@ -1,5 +1,13 @@
 [
   {
+    "id": 32024,
+    "fecha": "28 de Jul del 2025 a las 07:43 AM",
+    "hora_utc": "2025-07-28 11:43",
+    "mensaje": "❌Se mantienen 134 MW de afectación",
+    "timestamp": 1753702997,
+    "timestamp_local": 1753702997
+  },
+  {
     "id": 32023,
     "fecha": "28 de Jul del 2025 a las 06:36 AM",
     "hora_utc": "2025-07-28 10:36",
@@ -19,7 +27,7 @@
     "id": 32021,
     "fecha": "28 de Jul del 2025 a las 06:12 AM",
     "hora_utc": "2025-07-28 10:12",
-    "mensaje": "⛔Se mantienen afectados por déficit los siguientes circuitos \n\n➡️Circuito 1580 de Alquizar \n➡️Circuito 246 de Bahía Honda \n➡️Circuito 341 de San Cristóbal \n➡️Circuito 5045 de Pueblo Textil y Escuela de Cine \n➡️Circuito 3220 de San Antonio -- se afectan las Subestaciones de Vereda , Borgita , Ceiba y Yaguajay",
+    "mensaje": "⛔Se mantienen afectados por déficit los siguientes circuitos \n\n➡️Circuito 1580 de Alquizar \n➡️Circuito 246 de Bahía Honda(excepto el hospital)\n➡️Circuito 341 de San Cristóbal",
     "timestamp": 1753697534,
     "timestamp_local": 1753697534
   },
@@ -142,13 +150,5 @@
     "mensaje": "‼️Nota informativa‼️. \n\nSituación del SEN para el 27 de julio de 2025.\n\n✅En el día de ayer se afectó el servicio las 24 horas y se mantuvo afectado durante toda la madrugada de hoy. La máxima afectación por déficit de capacidad de generación en el día de ayer fue de 1779 MW a las 20:40 horas, no coincidente con la hora de máxima demanda. La afectación fue superior a lo planificado por que demanda fue superior al pronóstico.\n\n✅La producción de energía de los 23 nuevos parques solares fotovoltaicos fue de 2892 MWh, con 568 MW como máxima potencia entregada en el horario de la media con esta fuente de generación. \n\n✅La disponibilidad del SEN a las 07:00 horas es de 2002 MW  la demanda 3230 MW con 1228 MW afectados por déficit de capacidad, en el horario de la media se estima una afectación de 1050 MW.\n\n✅Las limitaciones en la generación térmica son de 400 MW. \n\nSe encuentran fuera de servicio por combustible                                87 centrales de generación distribuida con 749 MW y 5 motores en la patana de Regla con 40 MW, para un total de 789 MW afectados por esta causa. \n\n✅Para el pico se estima la recuperación de 100 MW en motores de la generación distribuida que están fuera por combustible.\n\n✅Con este pronóstico, en el horario pico se estima una disponibilidad de 2095 MW y una demanda máxima de                   3700 MW, para un déficit de 1605 MW, por lo que de mantenerse las condiciones previstas se pronostica una afectación de 1675 MW en este horario.\n\nUNE-MINEM",
     "timestamp": 1753622891,
     "timestamp_local": 1753622891
-  },
-  {
-    "id": 32004,
-    "fecha": "27 de Jul del 2025 a las 06:52 AM",
-    "hora_utc": "2025-07-27 10:52",
-    "mensaje": "⛔Se mantiene afectados los circuitos:\n\n➡️Circuito 3210 de Guanajay                                                       \n                                                             \n❌En estos momentos 129 MW de afectación en la provincia",
-    "timestamp": 1753613555,
-    "timestamp_local": 1753613555
   }
 ]
