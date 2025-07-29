@@ -1,5 +1,61 @@
 [
   {
+    "id": 23534,
+    "fecha": "29 de Jul del 2025 a las 09:17 AM",
+    "hora_utc": "2025-07-29 13:17",
+    "mensaje": "Circuitos no apagables que se afectarán debido al alto déficit:\n\n- Circuitos Z1183, Z130, MI1453 y JI48 se afectarán de 11:00 a 13:00\n\n- Circuitos Z1183, MI1453, JI48 y CI185 se afectarán de 18:00 a 01:00\n\n- Circuitos Z130 se afectarán de 20:00 a 00:00\n\n- Circuitos 5223 se afectarán de 20:00 a 02:00\n\nAl amanecer:\n- Circuito CI185 se afectará de 04:00 a 07:00",
+    "timestamp": 1753795048,
+    "timestamp_local": 1753795048
+  },
+  {
+    "id": 23533,
+    "fecha": "29 de Jul del 2025 a las 09:09 AM",
+    "hora_utc": "2025-07-29 13:09",
+    "mensaje": "🚨 #AHORA 9:00 a.m. Fuera de línea la CTE Antonio Guiteras por salidero en la caldera. Se estiman 96 horas para su reincorporación al SEN.",
+    "timestamp": 1753794556,
+    "timestamp_local": 1753794556
+  },
+  {
+    "id": 23532,
+    "fecha": "29 de Jul del 2025 a las 09:03 AM",
+    "hora_utc": "2025-07-29 13:03",
+    "mensaje": "Se encuentra en avería el Batey Jesús Rabí debido a  afectación ocurrida en la subestación que dañó el banco de transformadores, 453 clientes damnificados.",
+    "timestamp": 1753794233,
+    "timestamp_local": 1753794233
+  },
+  {
+    "id": 23531,
+    "fecha": "29 de Jul del 2025 a las 08:51 AM",
+    "hora_utc": "2025-07-29 12:51",
+    "mensaje": "En estos momentos se encuentra afectado por transformador dañado:\n• Jovellanos, reparto Luisa calle 9 entre 4 y 6, afectando a 60 clientes.\n• Matanzas, Pastorita calle 142 entre 143 y 145, afectando a 75 clientes.",
+    "timestamp": 1753793504,
+    "timestamp_local": 1753793504
+  },
+  {
+    "id": 23530,
+    "fecha": "29 de Jul del 2025 a las 08:43 AM",
+    "hora_utc": "2025-07-29 12:43",
+    "mensaje": "📢  Nota Informativa - Situación del SEN al 29 de julio de 2025\n\nEn el día de ayer se afectó el servicio las 24 horas y se mantuvo afectado durante toda la madrugada de hoy. La máxima afectación por déficit de capacidad de generación en el día de ayer fue de 1916 MW a las 23:00 horas, coincidente con la hora de máxima demanda. Afectación superior a lo planificado por la salida imprevista de la 4 de Energas Varadero y de la unidad 3 de la CTE Santa Cruz.\n\n☀️ Producción de energía de los 24 parques solares fotovoltaicos: 2513 MWh, con 503 MW como máxima potencia entregada en el horario de la media.\n\n🔧 Estado actual:\n\nDisponibilidad: 1650 MW.\nDemanda: 3070 MW.\nAfectación actual: 1447 MW. \nPronóstico para el mediodía: 1480 MW afectados.\n\n🔴 Pronóstico para el horario pico:\nSe proyecta una disponibilidad de 1728 MW y una demanda de 3650 MW, lo que generaría un déficit de 1922 MW, para una afectación de 1992 MW.\n\nMás detalles en 👇\nhttps://www.unionelectrica.cu/nota-informativa/\n\n#UNE #SEN #NotaInformativa #UniónEléctrica #PorCubaJuntosCreamos",
+    "timestamp": 1753793007,
+    "timestamp_local": 1753793007
+  },
+  {
+    "id": 23529,
+    "fecha": "29 de Jul del 2025 a las 08:33 AM",
+    "hora_utc": "2025-07-29 12:33",
+    "mensaje": "‼️‼️‼️ Los circuitos con mayor afectación en la provincia en estos momentos y por lo tanto los próximos a recibir servicio eléctrico una vez las condiciones lo permitan en las próximas horas en dependencia del comportamiento de la demanda son los siguientes:\n Circuito 4074 que da servicio a indio Hatuey, Batey Admiración, San Antonio, La Angelina, Máximo Gómez, Batey el Coloso, Carolina, Santa Rosa, Capitolio, Población de Julio Reyes Cairo, Gratitud, Batey Cuba Libre y la Rueda, Batey y Pollera La Fermina, Acueducto San Vicente, Bombeo Epica, Finca Fortunita y Rolando.\n Circuito 4071 que da servicio a Cítrico, La Carlota e Isabel.\n Circuito 4072 que da servicio a Cítrico y Pueblo de Agramonte.\n Circuito GI103 que da servicio a Jagüey Ciudad.",
+    "timestamp": 1753792430,
+    "timestamp_local": 1753792430
+  },
+  {
+    "id": 23528,
+    "fecha": "29 de Jul del 2025 a las 08:23 AM",
+    "hora_utc": "2025-07-29 12:23",
+    "mensaje": "‼️‼️‼️En estos momentos tenemos una afectación de 130 MW en la provincia por déficit de capacidad de generación.",
+    "timestamp": 1753791800,
+    "timestamp_local": 1753791800
+  },
+  {
     "id": 23527,
     "fecha": "29 de Jul del 2025 a las 08:03 AM",
     "hora_utc": "2025-07-29 12:03",
@@ -102,61 +158,5 @@
     "mensaje": "✅Con servicio **__Circuito MK1454 y Circuito MK1456.__**",
     "timestamp": 1753773858,
     "timestamp_local": 1753773858
-  },
-  {
-    "id": 23514,
-    "fecha": "29 de Jul del 2025 a las 03:19 AM",
-    "hora_utc": "2025-07-29 07:19",
-    "mensaje": "En estos momentos tenemos afectados 150 MW por déficit de capacidad de generación.",
-    "timestamp": 1753773594,
-    "timestamp_local": 1753773594
-  },
-  {
-    "id": 23513,
-    "fecha": "29 de Jul del 2025 a las 03:15 AM",
-    "hora_utc": "2025-07-29 07:15",
-    "mensaje": "⚠️Los circuitos con mayor afectación en la provincia y a los que se les restablecerá el servicio en dependencia del comportamiento de la demanda son los siguientes:**__\n*Circuito MK1454 que da servicio a COMPOSTELA.\n*Circuito MK1456 que da servicio a Calzada de San Luis hasta Parque Maceo y La Jaiba.__**",
-    "timestamp": 1753773342,
-    "timestamp_local": 1753773342
-  },
-  {
-    "id": 23512,
-    "fecha": "29 de Jul del 2025 a las 02:37 AM",
-    "hora_utc": "2025-07-29 06:37",
-    "mensaje": "👉Nos mantenemos con 160 MW afectados por déficit de capacidad de generación en la provincia.",
-    "timestamp": 1753771035,
-    "timestamp_local": 1753771035
-  },
-  {
-    "id": 23511,
-    "fecha": "29 de Jul del 2025 a las 02:11 AM",
-    "hora_utc": "2025-07-29 06:11",
-    "mensaje": "**__El restablecimiento del servicio eléctrico dependerá del comportamiento de la demanda y la disponibilidad del sistema eléctrico. Una vez se pueda rotar se irán restableciendo de manera paulatina los circuitos que más tiempo de afectación presenten.__**",
-    "timestamp": 1753769491,
-    "timestamp_local": 1753769491
-  },
-  {
-    "id": 23510,
-    "fecha": "29 de Jul del 2025 a las 02:11 AM",
-    "hora_utc": "2025-07-29 06:11",
-    "mensaje": "Los circuitos con mayor afectación en la provincia y a los que se les restablecerá el servicio en dependencia del comportamiento de la demanda son los siguientes:**__\n*Circuito MK1454 que da servicio a COMPOSTELA.\n*Circuito MK1456 que da servicio a Calzada de San Luis hasta Parque Maceo y La Jaiba.__**",
-    "timestamp": 1753769470,
-    "timestamp_local": 1753769470
-  },
-  {
-    "id": 23509,
-    "fecha": "29 de Jul del 2025 a las 02:09 AM",
-    "hora_utc": "2025-07-29 06:09",
-    "mensaje": "‼️En estos momentos tenemos afectados 160 MW por déficit de capacidad de generación.",
-    "timestamp": 1753769362,
-    "timestamp_local": 1753769362
-  },
-  {
-    "id": 23508,
-    "fecha": "29 de Jul del 2025 a las 01:39 AM",
-    "hora_utc": "2025-07-29 05:39",
-    "mensaje": "¿Cómo comunicarme con la Empresa Eléctrica de Matanzas💡 🔌? \n📞 Llamando al 18888.\n💻 Enviando un correo a la dirección: poblacion@elecmtz.une.cu \n☎ Contactando vía telefónica a la oficina provincial de atención al cliente en el horario de 8:30 a.m. a 5:00 p.m. al teléfono 45245033 extensión 8645.\n📲 Escribiendo a nuestro perfil en Facebook: Empresa Eléctrica Matanzas.",
-    "timestamp": 1753767576,
-    "timestamp_local": 1753767576
   }
 ]
