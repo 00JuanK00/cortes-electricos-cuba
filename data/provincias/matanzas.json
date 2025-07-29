@@ -1,5 +1,21 @@
 [
   {
+    "id": 23514,
+    "fecha": "29 de Jul del 2025 a las 03:19 AM",
+    "hora_utc": "2025-07-29 07:19",
+    "mensaje": "En estos momentos tenemos afectados 150 MW por déficit de capacidad de generación.",
+    "timestamp": 1753773594,
+    "timestamp_local": 1753773594
+  },
+  {
+    "id": 23513,
+    "fecha": "29 de Jul del 2025 a las 03:15 AM",
+    "hora_utc": "2025-07-29 07:15",
+    "mensaje": "⚠️Los circuitos con mayor afectación en la provincia y a los que se les restablecerá el servicio en dependencia del comportamiento de la demanda son los siguientes:**__\n*Circuito MK1454 que da servicio a COMPOSTELA.\n*Circuito MK1456 que da servicio a Calzada de San Luis hasta Parque Maceo y La Jaiba.\n*Circuito MK1063 que da servicio Finca La Rosita, Finca Los Monzones__**",
+    "timestamp": 1753773342,
+    "timestamp_local": 1753773342
+  },
+  {
     "id": 23512,
     "fecha": "29 de Jul del 2025 a las 02:37 AM",
     "hora_utc": "2025-07-29 06:37",
@@ -142,21 +158,5 @@
     "mensaje": "⚠️En estos momentos tenemos afectados 180 MW por déficit de capacidad de generación.",
     "timestamp": 1753751188,
     "timestamp_local": 1753751188
-  },
-  {
-    "id": 23494,
-    "fecha": "28 de Jul del 2025 a las 09:05 PM",
-    "hora_utc": "2025-07-29 01:05",
-    "mensaje": "💡Circuitos a los que se les **restablecerá** el servicio en las** próximas horas** en dependencia del comportamiento de la demanda:\n- Circuito 4819 que da servicio a Poblado da Carlos Rojas.\n- Circuito MI1406 que da servicio a Circuito 2 y 3.\n-Circuito MI5670 que da servicio a Manuelito, Bolondrón, Unión de Reyes, Cabezas, Bermejas y Alacranes.",
-    "timestamp": 1753751159,
-    "timestamp_local": 1753751159
-  },
-  {
-    "id": 23493,
-    "fecha": "28 de Jul del 2025 a las 08:50 PM",
-    "hora_utc": "2025-07-29 00:50",
-    "mensaje": "💡**Circuitos no apagables que se afectarán debido al alto déficit:**\n\n* Circuitos JI48, Z1183 y CI 185 se afectarán de 18:00 a 01:00\n\n* Circuito Z130, se afectará de 20:00 a 00:00\n\n* Circuito 5223 se afectará de 20:00 a 02:00",
-    "timestamp": 1753750245,
-    "timestamp_local": 1753750245
   }
 ]
