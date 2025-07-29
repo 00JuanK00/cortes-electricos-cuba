@@ -1,5 +1,21 @@
 [
   {
+    "id": 83311,
+    "fecha": "29 de Jul del 2025 a las 10:53 AM",
+    "hora_utc": "2025-07-29 14:53",
+    "mensaje": "🚨Por déficit de capacidad de generación se afecta el servicio en el siguiente circuito:\n* Guines 1🚨",
+    "timestamp": 1753800835,
+    "timestamp_local": 1753800835
+  },
+  {
+    "id": 83310,
+    "fecha": "29 de Jul del 2025 a las 10:24 AM",
+    "hora_utc": "2025-07-29 14:24",
+    "mensaje": "🔷 Restablecido el servicio en el circuito Perú que se encontraba afectado por disparo en las líneas 🔷",
+    "timestamp": 1753799089,
+    "timestamp_local": 1753799089
+  },
+  {
     "id": 83309,
     "fecha": "29 de Jul del 2025 a las 09:46 AM",
     "hora_utc": "2025-07-29 13:46",
@@ -43,7 +59,7 @@
     "id": 83303,
     "fecha": "29 de Jul del 2025 a las 08:36 AM",
     "hora_utc": "2025-07-29 12:36",
-    "mensaje": "🔷♦️Se restablece el servicio en el siguiente circuito que se encontraba afectado por déficit de capacidad de generación:\n* Aguacate ♦️🔷",
+    "mensaje": "🔷♦️Se restablece el servicio en el siguiente circuito que se encontraba afectado por déficit de capacidad de generación:\n* Aguacate \n* Picadura ♦️🔷",
     "timestamp": 1753792617,
     "timestamp_local": 1753792617
   },
@@ -134,21 +150,5 @@
     "mensaje": "🔷♦️Se restablece el servicio en el siguiente circuito que se encontraba afectado por déficit de capacidad de generación:\n* Camilo ♦️🔷",
     "timestamp": 1753788828,
     "timestamp_local": 1753788828
-  },
-  {
-    "id": 83291,
-    "fecha": "29 de Jul del 2025 a las 07:33 AM",
-    "hora_utc": "2025-07-29 11:33",
-    "mensaje": "🚨Por déficit de capacidad de generación se afecta el servicio en los siguientes circuitos:\n* 6 y 8 San José 🚨",
-    "timestamp": 1753788805,
-    "timestamp_local": 1753788805
-  },
-  {
-    "id": 83290,
-    "fecha": "29 de Jul del 2025 a las 07:11 AM",
-    "hora_utc": "2025-07-29 11:11",
-    "mensaje": "🔷 Restablecido el servicio en el circuito 3140 que se encontraba afectado por disparo por DAF 🔷",
-    "timestamp": 1753787467,
-    "timestamp_local": 1753787467
   }
 ]
