@@ -1,9 +1,17 @@
 [
   {
+    "id": 23535,
+    "fecha": "29 de Jul del 2025 a las 09:46 AM",
+    "hora_utc": "2025-07-29 13:46",
+    "mensaje": "‼️‼️‼️En estos momentos tenemos 138 MW de afectación por déficit de capacidad de generación en nuestra provincia.",
+    "timestamp": 1753796782,
+    "timestamp_local": 1753796782
+  },
+  {
     "id": 23534,
     "fecha": "29 de Jul del 2025 a las 09:17 AM",
     "hora_utc": "2025-07-29 13:17",
-    "mensaje": "Circuitos no apagables que se afectarán debido al alto déficit:\n\n- Circuitos Z1183, Z130, MI1453 y JI48 se afectarán de 11:00 a 13:00\n\n- Circuitos Z1183, MI1453, JI48 y CI185 se afectarán de 18:00 a 01:00\n\n- Circuitos Z130 se afectarán de 20:00 a 00:00\n\n- Circuitos 5223 se afectarán de 20:00 a 02:00\n\nAl amanecer:\n- Circuito CI185 se afectará de 04:00 a 07:00",
+    "mensaje": "Circuitos no apagables que se afectarán debido al alto déficit:\n\n- Circuitos Z1183, Z130 y JI48 se afectarán de 11:00 a 13:00\n\n- Circuitos Z1183, JI48 y CI185 se afectarán de 18:00 a 01:00\n\n- Circuitos Z130 se afectarán de 20:00 a 00:00\n\n- Circuitos 5223 se afectarán de 20:00 a 02:00\n\nAl amanecer:\n- Circuito CI185 se afectará de 04:00 a 07:00",
     "timestamp": 1753795048,
     "timestamp_local": 1753795048
   },
@@ -150,13 +158,5 @@
     "mensaje": "💡Se les restablecerá el servicio a dichos circuitos en las **próximas horas** en dependencia del comportamiento de la demanda:\n*Circuito 4074 que da servicio a Indio Hatuey, Batey Admiración, San Antonio, La Angelina, Máximo Gómez, Batey el Coloso, Carolina, Santa Rosa, Capitolio, Población de Julio Reyes Cairo, Gratitud, Batey Cuba Libre y la Rueda, Batey y Pollera La Fermina, Acueducto San Vicente, Bombeo Epica, Finca Fortunita y Rolando. \n*Circuito 4427 que da servicio a  Reparto 13 de marzo, circuitos 2 y 3 desde Salud hasta Obispo y desde García hasta Génes, Playa Larga, Smith Comas.\n*Circuito MK103 que da servicio a Jagüey Ciudad.",
     "timestamp": 1753774909,
     "timestamp_local": 1753774909
-  },
-  {
-    "id": 23515,
-    "fecha": "29 de Jul del 2025 a las 03:24 AM",
-    "hora_utc": "2025-07-29 07:24",
-    "mensaje": "✅Con servicio **__Circuito MK1454 y Circuito MK1456.__**",
-    "timestamp": 1753773858,
-    "timestamp_local": 1753773858
   }
 ]
