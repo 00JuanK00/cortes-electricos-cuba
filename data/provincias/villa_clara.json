@@ -1,5 +1,45 @@
 [
   {
+    "id": 26232,
+    "fecha": "29 de Jul del 2025 a las 02:49 PM",
+    "hora_utc": "2025-07-29 18:49",
+    "mensaje": "💡Restablecido el servicio eléctrico en el circuito 28 (Plaza).",
+    "timestamp": 1753814992,
+    "timestamp_local": 1753814992
+  },
+  {
+    "id": 26231,
+    "fecha": "29 de Jul del 2025 a las 02:45 PM",
+    "hora_utc": "2025-07-29 18:45",
+    "mensaje": "💡En breve serán restablecidos los circuitos siguientes:\n🔹Bloque 4\n👉Municipio Santa Clara:\nCto 5 (Dobarganes)\nCto 17 (Subplanta)",
+    "timestamp": 1753814732,
+    "timestamp_local": 1753814732
+  },
+  {
+    "id": 26230,
+    "fecha": "29 de Jul del 2025 a las 02:44 PM",
+    "hora_utc": "2025-07-29 18:44",
+    "mensaje": "⚠️Afectados por déficit de generación los siguientes circuitos:\n🔹Bloque 10\n👉Municipio Santa Clara:\nCtos 15 y 27 (Maleza)",
+    "timestamp": 1753814666,
+    "timestamp_local": 1753814666
+  },
+  {
+    "id": 26229,
+    "fecha": "29 de Jul del 2025 a las 02:40 PM",
+    "hora_utc": "2025-07-29 18:40",
+    "mensaje": "⚡Afectados por avería los circuitos siguientes:\n👉Municipio Santo Domingo:\nCto 187 Batey Carlos Baliño\nCto 82 Ulacia\nCto 84 Rodrigo\n👉Municipio Quemado:\nCtos 164, 52 y 53 Quemado.",
+    "timestamp": 1753814457,
+    "timestamp_local": 1753814457
+  },
+  {
+    "id": 26228,
+    "fecha": "29 de Jul del 2025 a las 02:24 PM",
+    "hora_utc": "2025-07-29 18:24",
+    "mensaje": "⚡Afectado el circuito 28 (Plaza), por una vía libre para reparar puentes abiertos.",
+    "timestamp": 1753813484,
+    "timestamp_local": 1753813484
+  },
+  {
     "id": 26227,
     "fecha": "29 de Jul del 2025 a las 02:00 PM",
     "hora_utc": "2025-07-29 18:00",
@@ -110,37 +150,5 @@
     "mensaje": "💡Restablecido el servicio eléctrico en los circuitos siguientes:\n🔹Bloque 3\n👉Municipio Santa Clara:\nCto 167 (Virginia)\nCto 170 (José Martí)\nCto 171 (Los Caneyes)",
     "timestamp": 1753797910,
     "timestamp_local": 1753797910
-  },
-  {
-    "id": 26211,
-    "fecha": "29 de Jul del 2025 a las 09:02 AM",
-    "hora_utc": "2025-07-29 13:02",
-    "mensaje": "💡Restablecido el servicio eléctrico en los siguientes circuitos:\n🔹Bloque 7\n👉Municipio Ranchuelo: \nCtos 89, 97, 188 y 189\nCtos 148 y 149 San Juan\nCto 91 Batey Osvaldo Herrera\nCto 181 Batey Ifraín Alfonso",
-    "timestamp": 1753794166,
-    "timestamp_local": 1753794166
-  },
-  {
-    "id": 26210,
-    "fecha": "29 de Jul del 2025 a las 08:35 AM",
-    "hora_utc": "2025-07-29 12:35",
-    "mensaje": "💡Restablecido el servicio eléctrico en los siguientes circuitos:\n🔹Bloque 7\n👉Municipio Camajuaní:\nCtos 73 y 156 \nCto 74 José María Pérez",
-    "timestamp": 1753792507,
-    "timestamp_local": 1753792507
-  },
-  {
-    "id": 26209,
-    "fecha": "29 de Jul del 2025 a las 08:11 AM",
-    "hora_utc": "2025-07-29 12:11",
-    "mensaje": "✅Resumen de afectaciones por déficit de capacidad de generación el 28/07/2025:                    \n \n👉En el día de ayer se afecta el servicio por déficit de generación de forma ininterrumpida durante todo el día, con una afectación máxima de 189 MW en el horario pico.\n \n👉Actualmente tenemos 154 MW afectados por déficit de generación.  \n \n👉Tiempo promedio de afectación 22:22 horas\n \n👉Existen en este instante 59 interrupciones al servicio eléctrico por atender. Siendo Santa Clara con 32, Remedios 9 y Placetas 8 los municipios de mayor Incidencia.",
-    "timestamp": 1753791094,
-    "timestamp_local": 1753791094
-  },
-  {
-    "id": 26208,
-    "fecha": "29 de Jul del 2025 a las 08:07 AM",
-    "hora_utc": "2025-07-29 12:07",
-    "mensaje": "🔸Actualización del servicio eléctrico en la provincia🔸\n✍️De los 193 circuitos apagables que presenta la provincia, se mantienen afectados 178 circuitos.\n✍️En el momento de hacer esta nota la provincia tiene 154 MW de afectación por déficit de capacidad de generación, demanda máxima posible a apagar.\n✍️Cuenta con 61 afectaciones por averías secundarias y de servicio.",
-    "timestamp": 1753790821,
-    "timestamp_local": 1753790821
   }
 ]

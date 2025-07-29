@@ -1,5 +1,21 @@
 [
   {
+    "id": 83333,
+    "fecha": "29 de Jul del 2025 a las 02:58 PM",
+    "hora_utc": "2025-07-29 18:58",
+    "mensaje": "♦️Afectado el servicio en el circuito 3140 por disparo por DAF ♦️",
+    "timestamp": 1753815531,
+    "timestamp_local": 1753815531
+  },
+  {
+    "id": 83332,
+    "fecha": "29 de Jul del 2025 a las 02:51 PM",
+    "hora_utc": "2025-07-29 18:51",
+    "mensaje": "🔷♦️Se restablece el servicio en el siguiente circuito que se encontraba afectado por déficit de capacidad de generación:\n* Madruga ♦️🔷",
+    "timestamp": 1753815098,
+    "timestamp_local": 1753815098
+  },
+  {
     "id": 83330,
     "fecha": "29 de Jul del 2025 a las 01:26 PM",
     "hora_utc": "2025-07-29 17:26",
@@ -110,45 +126,5 @@
     "mensaje": "🚨 Continúa afectado el servicio por déficit de capacidad de generación en el circuito 2420 🚨",
     "timestamp": 1753804162,
     "timestamp_local": 1753804162
-  },
-  {
-    "id": 83316,
-    "fecha": "29 de Jul del 2025 a las 11:47 AM",
-    "hora_utc": "2025-07-29 15:47",
-    "mensaje": "🔷 Restablecido el servicio en el circuito de Batabanó que se encontraba afectado por disparos en las líneas 🔷\n\n♦️ Quedando afectado el servicio en las siguientes zonas por avería\n* Maquina de Riego Santa Rita ♦️",
-    "timestamp": 1753804033,
-    "timestamp_local": 1753804033
-  },
-  {
-    "id": 83315,
-    "fecha": "29 de Jul del 2025 a las 11:45 AM",
-    "hora_utc": "2025-07-29 15:45",
-    "mensaje": "🔷 Restablecido el servicio en el circuito 2420 por manipulación 🔷",
-    "timestamp": 1753803922,
-    "timestamp_local": 1753803922
-  },
-  {
-    "id": 83314,
-    "fecha": "29 de Jul del 2025 a las 11:40 AM",
-    "hora_utc": "2025-07-29 15:40",
-    "mensaje": "♦️ Afectado el servicio en el circuito Batabanó por disparo en las líneas ♦️",
-    "timestamp": 1753803630,
-    "timestamp_local": 1753803630
-  },
-  {
-    "id": 83313,
-    "fecha": "29 de Jul del 2025 a las 11:40 AM",
-    "hora_utc": "2025-07-29 15:40",
-    "mensaje": "🔷 Restablecido el servicio en las siguientes zonas correspondientes al circuito Caamaño que se encontraban afectados por avería \n* Peniche\n* Los Gamas 🔷",
-    "timestamp": 1753803601,
-    "timestamp_local": 1753803601
-  },
-  {
-    "id": 83311,
-    "fecha": "29 de Jul del 2025 a las 10:53 AM",
-    "hora_utc": "2025-07-29 14:53",
-    "mensaje": "🚨Por déficit de capacidad de generación se afecta el servicio en el siguiente circuito:\n* Guines 1🚨",
-    "timestamp": 1753800835,
-    "timestamp_local": 1753800835
   }
 ]
