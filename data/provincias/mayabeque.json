@@ -1,5 +1,53 @@
 [
   {
+    "id": 83512,
+    "fecha": "30 de Jul del 2025 a las 07:48 PM",
+    "hora_utc": "2025-07-30 23:48",
+    "mensaje": "♦️Afectado el servicio en el circuito 3140 por disparo por DAF♦️",
+    "timestamp": 1753919301,
+    "timestamp_local": 1753919301
+  },
+  {
+    "id": 83511,
+    "fecha": "30 de Jul del 2025 a las 07:43 PM",
+    "hora_utc": "2025-07-30 23:43",
+    "mensaje": "🚨Por déficit de capacidad de generación se afecta el servicio en el siguiente circuito:\n*Güines 3 🚨",
+    "timestamp": 1753919010,
+    "timestamp_local": 1753919010
+  },
+  {
+    "id": 83510,
+    "fecha": "30 de Jul del 2025 a las 07:24 PM",
+    "hora_utc": "2025-07-30 23:24",
+    "mensaje": "♦️Afectado el servicio en la zona de Meseta Roja correspondiente al circuito Ganuza por avería♦️",
+    "timestamp": 1753917885,
+    "timestamp_local": 1753917885
+  },
+  {
+    "id": 83509,
+    "fecha": "30 de Jul del 2025 a las 07:24 PM",
+    "hora_utc": "2025-07-30 23:24",
+    "mensaje": "♦️Afectado el servicio en la zona de Finca el Roble correspondiente al circuito Somorrostro por avería♦️",
+    "timestamp": 1753917861,
+    "timestamp_local": 1753917861
+  },
+  {
+    "id": 83507,
+    "fecha": "30 de Jul del 2025 a las 07:15 PM",
+    "hora_utc": "2025-07-30 23:15",
+    "mensaje": "🔷♦️Se restablece el servicio en el siguiente circuito que se encontraba afectado por déficit de capacidad de generación:\n*2440 ♦️🔷",
+    "timestamp": 1753917358,
+    "timestamp_local": 1753917358
+  },
+  {
+    "id": 83506,
+    "fecha": "30 de Jul del 2025 a las 07:14 PM",
+    "hora_utc": "2025-07-30 23:14",
+    "mensaje": "🔷♦️Se restablece el servicio en el siguiente circuito que se encontraba afectado por déficit de capacidad de generación:\n*Somorrostro♦️🔷",
+    "timestamp": 1753917283,
+    "timestamp_local": 1753917283
+  },
+  {
     "id": 83505,
     "fecha": "30 de Jul del 2025 a las 07:07 PM",
     "hora_utc": "2025-07-30 23:07",
@@ -110,45 +158,5 @@
     "mensaje": "♦️Afectado el servicio en la Sub San Nicolás 110kv quedando afectado el servicio en los siguientes circuitos por disparo en las líneas:\n*3665\n*3655\n*3660♦️",
     "timestamp": 1753911698,
     "timestamp_local": 1753911698
-  },
-  {
-    "id": 83490,
-    "fecha": "30 de Jul del 2025 a las 04:19 PM",
-    "hora_utc": "2025-07-30 20:19",
-    "mensaje": "🚨Por déficit de capacidad de generación se afecta el servicio en los siguientes circuitos:\n*6 y 8 de San José 🚨",
-    "timestamp": 1753906783,
-    "timestamp_local": 1753906783
-  },
-  {
-    "id": 83489,
-    "fecha": "30 de Jul del 2025 a las 04:17 PM",
-    "hora_utc": "2025-07-30 20:17",
-    "mensaje": "🔷♦️Se restablece el servicio en el siguiente circuito que se encontraba afectado por déficit de capacidad de generación:\n*Aguacate♦️🔷",
-    "timestamp": 1753906632,
-    "timestamp_local": 1753906632
-  },
-  {
-    "id": 83488,
-    "fecha": "30 de Jul del 2025 a las 04:17 PM",
-    "hora_utc": "2025-07-30 20:17",
-    "mensaje": "🚨Por déficit de capacidad de generación se afecta el servicio en el siguiente circuito:\n*Madruga 🚨",
-    "timestamp": 1753906622,
-    "timestamp_local": 1753906622
-  },
-  {
-    "id": 83487,
-    "fecha": "30 de Jul del 2025 a las 04:01 PM",
-    "hora_utc": "2025-07-30 20:01",
-    "mensaje": "🔷Restablecido el servicio en el circuito Bio 1 que se encontraba afectado por manipulación🔷",
-    "timestamp": 1753905715,
-    "timestamp_local": 1753905715
-  },
-  {
-    "id": 83486,
-    "fecha": "30 de Jul del 2025 a las 04:00 PM",
-    "hora_utc": "2025-07-30 20:00",
-    "mensaje": "🔷♦️Se restablece el servicio en el siguiente circuito que se encontraba afectado por déficit de capacidad de generación:\n*3140 ♦️🔷",
-    "timestamp": 1753905605,
-    "timestamp_local": 1753905605
   }
 ]
