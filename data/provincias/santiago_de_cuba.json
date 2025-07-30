@@ -1,5 +1,45 @@
 [
   {
+    "id": 42425,
+    "fecha": "30 de Jul del 2025 a las 04:39 PM",
+    "hora_utc": "2025-07-30 20:39",
+    "mensaje": "🔴Se les informa a nuestros clientes que se afecta por Déficit de Capacidad de Generación la línea 5975 Baconao.",
+    "timestamp": 1753907992,
+    "timestamp_local": 1753907992
+  },
+  {
+    "id": 42424,
+    "fecha": "30 de Jul del 2025 a las 04:36 PM",
+    "hora_utc": "2025-07-30 20:36",
+    "mensaje": "🔴Se les informa a nuestros clientes que se afecta por Déficit de Capacidad de Generación la línea 5380 Mella .",
+    "timestamp": 1753907793,
+    "timestamp_local": 1753907793
+  },
+  {
+    "id": 42423,
+    "fecha": "30 de Jul del 2025 a las 04:27 PM",
+    "hora_utc": "2025-07-30 20:27",
+    "mensaje": "🔴Manipulaciones:\nAcción que se realizan en los circuitos para dar paso al trabajo en zonas afectadas por averías o Vía Libre y posteriormente para restablecer el servicio eléctrico en los circuitos que se encontraban afectados y en los que se trabaja con anterioridad, luego de culminadas las labores pertinentes.",
+    "timestamp": 1753907221,
+    "timestamp_local": 1753907221
+  },
+  {
+    "id": 42422,
+    "fecha": "30 de Jul del 2025 a las 04:26 PM",
+    "hora_utc": "2025-07-30 20:26",
+    "mensaje": "🔴Se les informa a nuestros clientes que se afecta por una manipulación el circuito 11 de Santiago.",
+    "timestamp": 1753907204,
+    "timestamp_local": 1753907204
+  },
+  {
+    "id": 42421,
+    "fecha": "30 de Jul del 2025 a las 04:19 PM",
+    "hora_utc": "2025-07-30 20:19",
+    "mensaje": "🔴Se les informa a nuestros clientes que se afecta por Déficit de Capacidad de Generación el circuito 9 Seccionalizado .",
+    "timestamp": 1753906740,
+    "timestamp_local": 1753906740
+  },
+  {
     "id": 42420,
     "fecha": "30 de Jul del 2025 a las 03:53 PM",
     "hora_utc": "2025-07-30 19:53",
@@ -110,45 +150,5 @@
     "mensaje": "🔴Se les informa a nuestros clientes que se afecta por Déficit de Capacidad de Generación los circuitos 13,21,23,24,20,26 de Santiago.",
     "timestamp": 1753885183,
     "timestamp_local": 1753885183
-  },
-  {
-    "id": 42405,
-    "fecha": "30 de Jul del 2025 a las 09:59 AM",
-    "hora_utc": "2025-07-30 13:59",
-    "mensaje": "🔴Se les informa a nuestros clientes que se afecta por Déficit de Capacidad de Generación el circuito El Alambre .",
-    "timestamp": 1753883969,
-    "timestamp_local": 1753883969
-  },
-  {
-    "id": 42404,
-    "fecha": "30 de Jul del 2025 a las 09:39 AM",
-    "hora_utc": "2025-07-30 13:39",
-    "mensaje": "🔴Se les informa a nuestros clientes que se afecta por Déficit de Capacidad de Generación la línea El Pilar y Palma Oeste.",
-    "timestamp": 1753882747,
-    "timestamp_local": 1753882747
-  },
-  {
-    "id": 42403,
-    "fecha": "30 de Jul del 2025 a las 09:34 AM",
-    "hora_utc": "2025-07-30 13:34",
-    "mensaje": "🔴Disparo Automático de Frecuencia (DAF):\nOcurre cuando la frecuencia está por debajo de los 60Hz y determinada carga o circuito se desconecta del sistema automáticamente hasta que se estabilice.",
-    "timestamp": 1753882479,
-    "timestamp_local": 1753882479
-  },
-  {
-    "id": 42402,
-    "fecha": "30 de Jul del 2025 a las 09:34 AM",
-    "hora_utc": "2025-07-30 13:34",
-    "mensaje": "🔴Se les informa a nuestros clientes que se encuentra disparado por DAF  el circuito 25 de Santiago .",
-    "timestamp": 1753882465,
-    "timestamp_local": 1753882465
-  },
-  {
-    "id": 42401,
-    "fecha": "30 de Jul del 2025 a las 08:57 AM",
-    "hora_utc": "2025-07-30 12:57",
-    "mensaje": "📌Nota Informativa: Estado del Sistema Eléctrico Nacional (SEN) para hoy 30 de julio de 2025.\n\n👉 En el día de ayer se afectó el servicio las 24 horas y se mantuvo afectado durante toda la madrugada de hoy. La máxima afectación fue de  ⚡1928 MW a las  ⏰9:50pm, coincidente con la hora de máxima demanda. \n\n🌞La producción de energía de los 24 nuevos parques solares fotovoltaicos fue de 2562 MWh, con 558 MW como máxima potencia entregada en el horario de la media 👍 \n\n🔊 Para el horario de la media se estima una afectación de  1300 MW.\n\n🛠️En Avería:                                                                                                                                                                ➡️ Unidad 4 de Energas Varadero.                                                                    ➡️ Unidad CTE Guiteras.                                                                                                                                                    \n➡️ Unidad 2 de la CTE Felton.\n➡️ Unidad 6 de la CTE Renté.                                                                             \n\n🛠️ En Mantenimiento\n➡️ Unidad 2 de la CTE Santa Cruz.\n➡️ Unidad 4 de la CTE Carlos Manuel de Céspedes en Cienfuegos.\n➡️ Unidad 5 de la CTE Renté.\n\n👉 Limitaciones térmicas: 305 MW fuera de servicio.\n\n👉 Problemas por falta de combustible. \n➡️ 94 centrales de generación distribuida con 835 MW.\n                          \n🔊 Pronóstico para el horario pico:  \n 🏭 Se estima la recuperación de 80 MW en motores de la generación distribuida que están fuera por combustible.\n                                                                                    \n➡️ Disponibilidad de 1810 MW.\n➡️ Demanda máxima de 3650 MW.\n➡️ Déficit de ⚡1840 MW.\n➡️ Afectación de ⚡1910 MW.",
-    "timestamp": 1753880276,
-    "timestamp_local": 1753880276
   }
 ]
