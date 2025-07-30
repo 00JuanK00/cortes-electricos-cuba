@@ -1,5 +1,37 @@
 [
   {
+    "id": 42405,
+    "fecha": "30 de Jul del 2025 a las 09:59 AM",
+    "hora_utc": "2025-07-30 13:59",
+    "mensaje": "🔴Se les informa a nuestros clientes que se afecta por Déficit de Capacidad de Generación el circuito El Alambre .",
+    "timestamp": 1753883969,
+    "timestamp_local": 1753883969
+  },
+  {
+    "id": 42404,
+    "fecha": "30 de Jul del 2025 a las 09:39 AM",
+    "hora_utc": "2025-07-30 13:39",
+    "mensaje": "🔴Se les informa a nuestros clientes que se afecta por Déficit de Capacidad de Generación la línea El Pilar y Palma Oeste.",
+    "timestamp": 1753882747,
+    "timestamp_local": 1753882747
+  },
+  {
+    "id": 42403,
+    "fecha": "30 de Jul del 2025 a las 09:34 AM",
+    "hora_utc": "2025-07-30 13:34",
+    "mensaje": "🔴Disparo Automático de Frecuencia (DAF):\nOcurre cuando la frecuencia está por debajo de los 60Hz y determinada carga o circuito se desconecta del sistema automáticamente hasta que se estabilice.",
+    "timestamp": 1753882479,
+    "timestamp_local": 1753882479
+  },
+  {
+    "id": 42402,
+    "fecha": "30 de Jul del 2025 a las 09:34 AM",
+    "hora_utc": "2025-07-30 13:34",
+    "mensaje": "🔴Se les informa a nuestros clientes que se encuentra disparado por DAF  el circuito 25 de Santiago .",
+    "timestamp": 1753882465,
+    "timestamp_local": 1753882465
+  },
+  {
     "id": 42401,
     "fecha": "30 de Jul del 2025 a las 08:57 AM",
     "hora_utc": "2025-07-30 12:57",
@@ -118,37 +150,5 @@
     "mensaje": "Disparo:\nApertura no voluntaria de un interruptor como vía de protección para desconectar uno o varios elementos del circuito, subestación o sistema, restableciéndose el servicio rápidamente en dependencia de la causa",
     "timestamp": 1753841423,
     "timestamp_local": 1753841423
-  },
-  {
-    "id": 42385,
-    "fecha": "29 de Jul del 2025 a las 10:09 PM",
-    "hora_utc": "2025-07-30 02:09",
-    "mensaje": "🚨 Se les informa a nuestros clientes que se encuentra disparada la Sub de Bolaños .",
-    "timestamp": 1753841387,
-    "timestamp_local": 1753841387
-  },
-  {
-    "id": 42383,
-    "fecha": "29 de Jul del 2025 a las 08:53 PM",
-    "hora_utc": "2025-07-30 00:53",
-    "mensaje": "Vía Libre:\nTrabajos planificados o por emergencias que se realizan con el fin de construir y mantener líneas aéreas y soterradas; así como contribuir a la constante mejora en la entrega de la energía eléctrica.",
-    "timestamp": 1753836834,
-    "timestamp_local": 1753836834
-  },
-  {
-    "id": 42382,
-    "fecha": "29 de Jul del 2025 a las 08:53 PM",
-    "hora_utc": "2025-07-30 00:53",
-    "mensaje": "Manipulaciones:\nAcciones que se realizan en los circuitos para dar paso al trabajo en zonas afectadas por averías o Vía Libre y posteriormente para restablecer el servicio eléctrico en los circuitos que se encontraban afectados y en los que se trabaja con anterioridad, luego de culminadas las labores pertinentes.",
-    "timestamp": 1753836792,
-    "timestamp_local": 1753836792
-  },
-  {
-    "id": 42381,
-    "fecha": "29 de Jul del 2025 a las 08:50 PM",
-    "hora_utc": "2025-07-30 00:50",
-    "mensaje": "🚨 Se les informa a nuestros clientes que se esta manipulando la Sub el Alambre para efectuar una Vía Libre par el cambio de un Trasformador .",
-    "timestamp": 1753836604,
-    "timestamp_local": 1753836604
   }
 ]
