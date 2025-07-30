@@ -1,5 +1,61 @@
 [
   {
+    "id": 83470,
+    "fecha": "30 de Jul del 2025 a las 12:56 PM",
+    "hora_utc": "2025-07-30 16:56",
+    "mensaje": "🚨Por déficit de capacidad de generación se afecta el servicio en el siguiente circuito:\n*2 de San José 🚨",
+    "timestamp": 1753894580,
+    "timestamp_local": 1753894580
+  },
+  {
+    "id": 83469,
+    "fecha": "30 de Jul del 2025 a las 12:55 PM",
+    "hora_utc": "2025-07-30 16:55",
+    "mensaje": "🚨Por déficit de capacidad de generación se afecta el servicio en el siguiente circuito:\n*Caamaño🚨",
+    "timestamp": 1753894558,
+    "timestamp_local": 1753894558
+  },
+  {
+    "id": 83465,
+    "fecha": "30 de Jul del 2025 a las 12:48 PM",
+    "hora_utc": "2025-07-30 16:48",
+    "mensaje": "♦️Afectado el servicio en el circuito 3590 por disparo por DAF♦️",
+    "timestamp": 1753894118,
+    "timestamp_local": 1753894118
+  },
+  {
+    "id": 83464,
+    "fecha": "30 de Jul del 2025 a las 12:41 PM",
+    "hora_utc": "2025-07-30 16:41",
+    "mensaje": "🔷♦️Se restablece el servicio en el siguiente circuito que se encontraba afectado por déficit de capacidad de generación:\n*Jamaica♦️🔷",
+    "timestamp": 1753893719,
+    "timestamp_local": 1753893719
+  },
+  {
+    "id": 83463,
+    "fecha": "30 de Jul del 2025 a las 12:41 PM",
+    "hora_utc": "2025-07-30 16:41",
+    "mensaje": "🔷♦️Se restablece el servicio en los circuitos que se encontraban afectados por déficit de capacidad de generación:\n*Nazareno\n*Babiney\n*Menocal♦️🔷",
+    "timestamp": 1753893710,
+    "timestamp_local": 1753893710
+  },
+  {
+    "id": 83462,
+    "fecha": "30 de Jul del 2025 a las 12:15 PM",
+    "hora_utc": "2025-07-30 16:15",
+    "mensaje": "🔷Restablecido el servicio en el circuito Güines 1🔷",
+    "timestamp": 1753892137,
+    "timestamp_local": 1753892137
+  },
+  {
+    "id": 83461,
+    "fecha": "30 de Jul del 2025 a las 12:15 PM",
+    "hora_utc": "2025-07-30 16:15",
+    "mensaje": "🔷♦️Se restablece el servicio en el siguiente circuito que se encontraba afectado por déficit de capacidad de generación:\n*Güines 4♦️🔷",
+    "timestamp": 1753892117,
+    "timestamp_local": 1753892117
+  },
+  {
     "id": 83460,
     "fecha": "30 de Jul del 2025 a las 12:10 PM",
     "hora_utc": "2025-07-30 16:10",
@@ -78,77 +134,5 @@
     "mensaje": "📣♦️Afectado nuevamente por déficit de capacidad de generación el servicio en el circuito San Nicolás 3 que se encontraba restablecido por manipulación♦️📣",
     "timestamp": 1753883842,
     "timestamp_local": 1753883842
-  },
-  {
-    "id": 83450,
-    "fecha": "30 de Jul del 2025 a las 09:55 AM",
-    "hora_utc": "2025-07-30 13:55",
-    "mensaje": "📣🔷Se restablecerá momentáneamente el servicio en el circuito San Nicolás 3 por manipulación🔷📣",
-    "timestamp": 1753883755,
-    "timestamp_local": 1753883755
-  },
-  {
-    "id": 83449,
-    "fecha": "30 de Jul del 2025 a las 09:55 AM",
-    "hora_utc": "2025-07-30 13:55",
-    "mensaje": "🔷♦️Se restablece el servicio en el siguiente circuito que se encontraba afectado por déficit de capacidad de generación:\n*Río Seco ♦️🔷",
-    "timestamp": 1753883731,
-    "timestamp_local": 1753883731
-  },
-  {
-    "id": 83448,
-    "fecha": "30 de Jul del 2025 a las 09:38 AM",
-    "hora_utc": "2025-07-30 13:38",
-    "mensaje": "♦️Afectado el servicio en el circuito Güines 1♦️",
-    "timestamp": 1753882708,
-    "timestamp_local": 1753882708
-  },
-  {
-    "id": 83446,
-    "fecha": "30 de Jul del 2025 a las 09:31 AM",
-    "hora_utc": "2025-07-30 13:31",
-    "mensaje": "♦️Afectado el servicio en el circuito Acueductos Integrales por Vía Libre♦️",
-    "timestamp": 1753882279,
-    "timestamp_local": 1753882279
-  },
-  {
-    "id": 83445,
-    "fecha": "30 de Jul del 2025 a las 09:06 AM",
-    "hora_utc": "2025-07-30 13:06",
-    "mensaje": "🚨Por déficit de capacidad de generación se afecta el servicio en el siguiente circuito:\n*Aguacate🚨",
-    "timestamp": 1753880794,
-    "timestamp_local": 1753880794
-  },
-  {
-    "id": 83444,
-    "fecha": "30 de Jul del 2025 a las 09:05 AM",
-    "hora_utc": "2025-07-30 13:05",
-    "mensaje": "📣♦️Afectado nuevamente por déficit de capacidad de generación el servicio en el circuito Vegas que se encontraba restablecido por manipulación♦️📣",
-    "timestamp": 1753880731,
-    "timestamp_local": 1753880731
-  },
-  {
-    "id": 83443,
-    "fecha": "30 de Jul del 2025 a las 09:05 AM",
-    "hora_utc": "2025-07-30 13:05",
-    "mensaje": "📣♦️Afectado nuevamente por déficit de capacidad de generación el servicio en el circuito Nueva Paz que se encontraba restablecido por manipulación♦️📣",
-    "timestamp": 1753880718,
-    "timestamp_local": 1753880718
-  },
-  {
-    "id": 83442,
-    "fecha": "30 de Jul del 2025 a las 09:04 AM",
-    "hora_utc": "2025-07-30 13:04",
-    "mensaje": "🔷 Restablecido el servicio en el circuito 3130 que se encontraba afectado por Vía Libre🔷",
-    "timestamp": 1753880651,
-    "timestamp_local": 1753880651
-  },
-  {
-    "id": 83441,
-    "fecha": "30 de Jul del 2025 a las 09:02 AM",
-    "hora_utc": "2025-07-30 13:02",
-    "mensaje": "📣🔷Se restablecerá momentáneamente el servicio en los siguientes circuitos por manipulación:\n*Nueva Paz\n*Vegas 🔷📣",
-    "timestamp": 1753880552,
-    "timestamp_local": 1753880552
   }
 ]
