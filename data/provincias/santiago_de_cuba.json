@@ -1,5 +1,21 @@
 [
   {
+    "id": 42411,
+    "fecha": "30 de Jul del 2025 a las 11:52 AM",
+    "hora_utc": "2025-07-30 15:52",
+    "mensaje": "🔴Se les informa a nuestros clientes que se afecta por Déficit de Capacidad de Generación el circuito 7 de Santiago.",
+    "timestamp": 1753890743,
+    "timestamp_local": 1753890743
+  },
+  {
+    "id": 42410,
+    "fecha": "30 de Jul del 2025 a las 11:45 AM",
+    "hora_utc": "2025-07-30 15:45",
+    "mensaje": "🔴Se les informa a nuestros clientes que se afecta por Déficit de Capacidad de Generación el circuito 25 de Santiago.",
+    "timestamp": 1753890359,
+    "timestamp_local": 1753890359
+  },
+  {
     "id": 42409,
     "fecha": "30 de Jul del 2025 a las 10:33 AM",
     "hora_utc": "2025-07-30 14:33",
@@ -27,7 +43,7 @@
     "id": 42406,
     "fecha": "30 de Jul del 2025 a las 10:19 AM",
     "hora_utc": "2025-07-30 14:19",
-    "mensaje": "🔴Se les informa a nuestros clientes que se afecta por Déficit de Capacidad de Generación los circuitos 13,21,23,24 de Santiago.",
+    "mensaje": "🔴Se les informa a nuestros clientes que se afecta por Déficit de Capacidad de Generación los circuitos 13,21,23,24,20,26 de Santiago.",
     "timestamp": 1753885183,
     "timestamp_local": 1753885183
   },
@@ -134,21 +150,5 @@
     "mensaje": "🚨 Estimados clientes se les informa que se encuentran afectados por Déficit de Capacidad de Generación los circuitos 2, 24, 26 el GI5335 Guamá y el SI5975 Baconao.",
     "timestamp": 1753854107,
     "timestamp_local": 1753854107
-  },
-  {
-    "id": 42391,
-    "fecha": "30 de Jul del 2025 a las 12:25 AM",
-    "hora_utc": "2025-07-30 04:25",
-    "mensaje": "🚨Estimados clientes se les informa que se encuentra afectado por Déficit de Capacidad de Generación el  circuito 23",
-    "timestamp": 1753849543,
-    "timestamp_local": 1753849543
-  },
-  {
-    "id": 42390,
-    "fecha": "29 de Jul del 2025 a las 11:04 PM",
-    "hora_utc": "2025-07-30 03:04",
-    "mensaje": "🚨Estimados clientes se les informa que se encuentra afectado por Déficit de Capacidad de Generación el circuito 16.",
-    "timestamp": 1753844694,
-    "timestamp_local": 1753844694
   }
 ]
