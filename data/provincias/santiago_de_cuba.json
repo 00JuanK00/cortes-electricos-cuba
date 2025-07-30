@@ -1,5 +1,29 @@
 [
   {
+    "id": 42417,
+    "fecha": "30 de Jul del 2025 a las 02:31 PM",
+    "hora_utc": "2025-07-30 18:31",
+    "mensaje": "🔴Se les informa a nuestros clientes que se afecta por Déficit de Capacidad de Generación el circuito 19 de Santiago y línea 5395 San Luis .",
+    "timestamp": 1753900284,
+    "timestamp_local": 1753900284
+  },
+  {
+    "id": 42416,
+    "fecha": "30 de Jul del 2025 a las 02:30 PM",
+    "hora_utc": "2025-07-30 18:30",
+    "mensaje": "🔴Disparo Automático de Frecuencia (DAF):\nOcurre cuando la frecuencia está por debajo de los 60Hz y determinada carga o circuito se desconecta del sistema automáticamente hasta que se estabilice.",
+    "timestamp": 1753900229,
+    "timestamp_local": 1753900229
+  },
+  {
+    "id": 42415,
+    "fecha": "30 de Jul del 2025 a las 02:29 PM",
+    "hora_utc": "2025-07-30 18:29",
+    "mensaje": "🔴Se les informa a nuestros clientes que esta disparado por DAF  el circuito 1 de Palma .",
+    "timestamp": 1753900194,
+    "timestamp_local": 1753900194
+  },
+  {
     "id": 42414,
     "fecha": "30 de Jul del 2025 a las 01:27 PM",
     "hora_utc": "2025-07-30 17:27",
@@ -126,21 +150,5 @@
     "mensaje": "🔴Se les informa a nuestros clientes que se afecta por Déficit de Capacidad de Generación el circuito 7 de Santiago.",
     "timestamp": 1753875283,
     "timestamp_local": 1753875283
-  },
-  {
-    "id": 42397,
-    "fecha": "30 de Jul del 2025 a las 06:52 AM",
-    "hora_utc": "2025-07-30 10:52",
-    "mensaje": "Estimados clientes se les informa que se encuentran afectados por Déficit de Capacidad de Generación los circuitos 8, 12, 20, 4 de Palma y el LI 5395-San Luis",
-    "timestamp": 1753872724,
-    "timestamp_local": 1753872724
-  },
-  {
-    "id": 42396,
-    "fecha": "30 de Jul del 2025 a las 04:44 AM",
-    "hora_utc": "2025-07-30 08:44",
-    "mensaje": "🚨Estimados clientes se les informa que se encuentran afectados por Déficit de Capacidad de Generación los circuitos 1,7,9,13,14,25, GI 5335 Guamá.",
-    "timestamp": 1753865083,
-    "timestamp_local": 1753865083
   }
 ]
