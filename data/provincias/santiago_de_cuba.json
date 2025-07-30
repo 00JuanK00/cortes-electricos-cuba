@@ -1,5 +1,37 @@
 [
   {
+    "id": 42409,
+    "fecha": "30 de Jul del 2025 a las 10:33 AM",
+    "hora_utc": "2025-07-30 14:33",
+    "mensaje": "🔴Manipulaciones:\nAcción que se realizan en los circuitos para dar paso al trabajo en zonas afectadas por averías o Vía Libre y posteriormente para restablecer el servicio eléctrico en los circuitos que se encontraban afectados y en los que se trabaja con anterioridad, luego de culminadas las labores pertinentes.",
+    "timestamp": 1753886034,
+    "timestamp_local": 1753886034
+  },
+  {
+    "id": 42408,
+    "fecha": "30 de Jul del 2025 a las 10:33 AM",
+    "hora_utc": "2025-07-30 14:33",
+    "mensaje": "🔴Se les informa a nuestros clientes que se esta manipulando el circuito 11 de Santiago.",
+    "timestamp": 1753886021,
+    "timestamp_local": 1753886021
+  },
+  {
+    "id": 42407,
+    "fecha": "30 de Jul del 2025 a las 10:21 AM",
+    "hora_utc": "2025-07-30 14:21",
+    "mensaje": "🔴Se les informa a nuestros clientes que se afecta por Déficit de Capacidad de Generación la línea Cl9506 Contramaestre-lll Frente.",
+    "timestamp": 1753885298,
+    "timestamp_local": 1753885298
+  },
+  {
+    "id": 42406,
+    "fecha": "30 de Jul del 2025 a las 10:19 AM",
+    "hora_utc": "2025-07-30 14:19",
+    "mensaje": "🔴Se les informa a nuestros clientes que se afecta por Déficit de Capacidad de Generación los circuitos 13,21,23,24 de Santiago.",
+    "timestamp": 1753885183,
+    "timestamp_local": 1753885183
+  },
+  {
     "id": 42405,
     "fecha": "30 de Jul del 2025 a las 09:59 AM",
     "hora_utc": "2025-07-30 13:59",
@@ -118,37 +150,5 @@
     "mensaje": "🚨Estimados clientes se les informa que se encuentra afectado por Déficit de Capacidad de Generación el circuito 16.",
     "timestamp": 1753844694,
     "timestamp_local": 1753844694
-  },
-  {
-    "id": 42389,
-    "fecha": "29 de Jul del 2025 a las 10:23 PM",
-    "hora_utc": "2025-07-30 02:23",
-    "mensaje": "Manipulaciones:\nAcciones que se realizan en los circuitos para dar paso al trabajo en zonas afectadas por averías o Vía Libre y posteriormente para restablecer el servicio eléctrico en los circuitos que se encontraban afectados y en los que se trabaja con anterioridad, luego de culminadas las labores pertinentes.",
-    "timestamp": 1753842198,
-    "timestamp_local": 1753842198
-  },
-  {
-    "id": 42388,
-    "fecha": "29 de Jul del 2025 a las 10:22 PM",
-    "hora_utc": "2025-07-30 02:22",
-    "mensaje": "🚨🚨Estimados clientes se les informa que se encuentra afectado por manipulación el circuito 15 para reponer un Fuse al aire.",
-    "timestamp": 1753842152,
-    "timestamp_local": 1753842152
-  },
-  {
-    "id": 42387,
-    "fecha": "29 de Jul del 2025 a las 10:19 PM",
-    "hora_utc": "2025-07-30 02:19",
-    "mensaje": "🚨 Estimados clientes se les informa que se  encuentran afectados por Déficit de Capacidad de Generación el circuito 19 y el 2 de Palma",
-    "timestamp": 1753841953,
-    "timestamp_local": 1753841953
-  },
-  {
-    "id": 42386,
-    "fecha": "29 de Jul del 2025 a las 10:10 PM",
-    "hora_utc": "2025-07-30 02:10",
-    "mensaje": "Disparo:\nApertura no voluntaria de un interruptor como vía de protección para desconectar uno o varios elementos del circuito, subestación o sistema, restableciéndose el servicio rápidamente en dependencia de la causa",
-    "timestamp": 1753841423,
-    "timestamp_local": 1753841423
   }
 ]
