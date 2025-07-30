@@ -1,5 +1,21 @@
 [
   {
+    "id": 31031,
+    "fecha": "30 de Jul del 2025 a las 02:59 AM",
+    "hora_utc": "2025-07-30 06:59",
+    "mensaje": "✅ Restablecido el servicio eléctrico en el circuito  A206.",
+    "timestamp": 1753858795,
+    "timestamp_local": 1753858795
+  },
+  {
+    "id": 31030,
+    "fecha": "30 de Jul del 2025 a las 02:56 AM",
+    "hora_utc": "2025-07-30 06:56",
+    "mensaje": "✅ Se encuentra sin servicio eléctrico el circuito A206.\n👉Se recorren las líneas para encontrar la causa. \n👉Si usted observa corto circuito en las redes o alguna irregularidad, por favor comuníquelo a través del ☎18888.",
+    "timestamp": 1753858612,
+    "timestamp_local": 1753858612
+  },
+  {
     "id": 31029,
     "fecha": "30 de Jul del 2025 a las 02:20 AM",
     "hora_utc": "2025-07-30 06:20",
@@ -142,21 +158,5 @@
     "mensaje": "🚨Déficit de Generación🚨  \n👉 Continuamos afectados con 87 MW en la provincia por déficit de generación.\n⏰ Reiteramos que los circuitos se afectarán o se restablecerán en dependencia del déficit solicitado en cada momento de la jornada que es muy variable.\n👉 Se priorizan los circuitos asociados a Hospitales, Lácteos y Estaciones de Bombeo de Agua.",
     "timestamp": 1753773014,
     "timestamp_local": 1753773014
-  },
-  {
-    "id": 31011,
-    "fecha": "29 de Jul del 2025 a las 12:03 AM",
-    "hora_utc": "2025-07-29 04:03",
-    "mensaje": "🚨Déficit de Generación🚨  \n👉 Nos mantenemos afectados con 87 MW en la provincia por déficit de generación.\n⏰ Reiteramos que los circuitos se afectarán o se restablecerán en dependencia del déficit solicitado en cada momento de la jornada que es muy variable.\n👉 Se priorizan los circuitos asociados a Hospitales, Lácteos y Estaciones de Bombeo de Agua.",
-    "timestamp": 1753761803,
-    "timestamp_local": 1753761803
-  },
-  {
-    "id": 31010,
-    "fecha": "29 de Jul del 2025 a las 12:02 AM",
-    "hora_utc": "2025-07-29 04:02",
-    "mensaje": "‼️ Información ‼️\n👉Se encuentra sin servicio del circuito Micro Norte en Línea San Fernando entre Libertad y Primera Norte por transformador dañado. Se crean las condiciones para trabajar y restablecer lo antes posible el servicio. Ofrecemos disculpas por las molestias ocasionadas.",
-    "timestamp": 1753761739,
-    "timestamp_local": 1753761739
   }
 ]
