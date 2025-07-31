@@ -1,5 +1,45 @@
 [
   {
+    "id": 42488,
+    "fecha": "31 de Jul del 2025 a las 04:36 PM",
+    "hora_utc": "2025-07-31 20:36",
+    "mensaje": "🔴. Disparo Automático de Frecuencia (DAF):\nOcurre cuando la frecuencia está por debajo de los 60Hz y determinada carga o circuito se desconecta del sistema automáticamente hasta que se estabilice",
+    "timestamp": 1753994186,
+    "timestamp_local": 1753994186
+  },
+  {
+    "id": 42487,
+    "fecha": "31 de Jul del 2025 a las 04:35 PM",
+    "hora_utc": "2025-07-31 20:35",
+    "mensaje": "🚨 Informamos a nuestros clientes que se encuentra disparado por DAF  el circuito 1 de Palma .",
+    "timestamp": 1753994159,
+    "timestamp_local": 1753994159
+  },
+  {
+    "id": 42486,
+    "fecha": "31 de Jul del 2025 a las 04:28 PM",
+    "hora_utc": "2025-07-31 20:28",
+    "mensaje": "🔴 Disparo:\nApertura no voluntaria de un interruptor como vía de protección para desconectar uno o varios elementos del circuito, subestación o sistema, restableciéndose el servicio rápidamente en dependencia de la causa",
+    "timestamp": 1753993730,
+    "timestamp_local": 1753993730
+  },
+  {
+    "id": 42485,
+    "fecha": "31 de Jul del 2025 a las 04:25 PM",
+    "hora_utc": "2025-07-31 20:25",
+    "mensaje": "🚨 Informamos a nuestros clientes que se encuentra disparada la línea 5380 Mella .",
+    "timestamp": 1753993538,
+    "timestamp_local": 1753993538
+  },
+  {
+    "id": 42484,
+    "fecha": "31 de Jul del 2025 a las 04:23 PM",
+    "hora_utc": "2025-07-31 20:23",
+    "mensaje": "👉 Informamos a nuestros  clientes que quedan afectados por Déficit de Capacidad de Generación los siguientes circuitos 21, 23 ,9 seccionalizado , la línea 5975 Baconao y Guama  , pedimos disculpas por las molestias ocasionadas.",
+    "timestamp": 1753993438,
+    "timestamp_local": 1753993438
+  },
+  {
     "id": 42483,
     "fecha": "31 de Jul del 2025 a las 03:15 PM",
     "hora_utc": "2025-07-31 19:15",
@@ -118,45 +158,5 @@
     "mensaje": ". Disparo Automático de Frecuencia (DAF):\nOcurre cuando la frecuencia está por debajo de los 60Hz y determinada carga o circuito se desconecta del sistema automáticamente hasta que se estabilice",
     "timestamp": 1753979315,
     "timestamp_local": 1753979315
-  },
-  {
-    "id": 42468,
-    "fecha": "31 de Jul del 2025 a las 12:27 PM",
-    "hora_utc": "2025-07-31 16:27",
-    "mensaje": "🔊 Informamos a nuestros clientes que se encuentra disparado por DAF  el circuito 25 de Santiago .",
-    "timestamp": 1753979259,
-    "timestamp_local": 1753979259
-  },
-  {
-    "id": 42467,
-    "fecha": "31 de Jul del 2025 a las 11:31 AM",
-    "hora_utc": "2025-07-31 15:31",
-    "mensaje": "Manipulaciones:\nAcciones que se realizan en los circuitos para dar paso al trabajo en zonas afectadas por averías o Vía Libre y posteriormente para restablecer el servicio eléctrico en los circuitos que se encontraban afectados y en los que se trabaja con anterioridad, luego de culminadas las labores pertinentes.",
-    "timestamp": 1753975877,
-    "timestamp_local": 1753975877
-  },
-  {
-    "id": 42466,
-    "fecha": "31 de Jul del 2025 a las 11:30 AM",
-    "hora_utc": "2025-07-31 15:30",
-    "mensaje": "🚨 Informamos a nuestros clientes que se esta manipulando Protesta de Baragua para cambiar un Trasformador ,pedimos disculpas por las molestias ocasionadas .",
-    "timestamp": 1753975826,
-    "timestamp_local": 1753975826
-  },
-  {
-    "id": 42465,
-    "fecha": "31 de Jul del 2025 a las 11:22 AM",
-    "hora_utc": "2025-07-31 15:22",
-    "mensaje": ". Disparo Automático de Frecuencia (DAF):\nOcurre cuando la frecuencia está por debajo de los 60Hz y determinada carga o circuito se desconecta del sistema automáticamente hasta que se estabilice",
-    "timestamp": 1753975373,
-    "timestamp_local": 1753975373
-  },
-  {
-    "id": 42464,
-    "fecha": "31 de Jul del 2025 a las 11:22 AM",
-    "hora_utc": "2025-07-31 15:22",
-    "mensaje": "🔊 Informamos a nuestros clientes que se encuentran disparado por DAF los  circuito 1de Palma y el 25 de Santiago  .",
-    "timestamp": 1753975320,
-    "timestamp_local": 1753975320
   }
 ]
