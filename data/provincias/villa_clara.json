@@ -1,5 +1,21 @@
 [
   {
+    "id": 26390,
+    "fecha": "31 de Jul del 2025 a las 03:01 PM",
+    "hora_utc": "2025-07-31 19:01",
+    "mensaje": "Afectados 149 MW en la provincia, demanda máxima posible a apagar en estos momentos.",
+    "timestamp": 1753988485,
+    "timestamp_local": 1753988485
+  },
+  {
+    "id": 26388,
+    "fecha": "31 de Jul del 2025 a las 02:59 PM",
+    "hora_utc": "2025-07-31 18:59",
+    "mensaje": "⚠️Afectadas por DAF las líneas 6580 y 1955:\nLínea 6580 \nMunicipio Camajuaní:\nCtos 77, 59 y 185 Vueltas \nLínea 1955  \nMunicipio Encrucijada:\nCto 122 Encrucijada \nCto 123 Vizcaya \nCto 142 Comunidad La Sierra \nCto 126 Batey Emilio Córdova\nCto 125 Cavarrocas\nCto 124 El Santo\nMunicipio Camajuaní:\nCto 78 Jutiero",
+    "timestamp": 1753988366,
+    "timestamp_local": 1753988366
+  },
+  {
     "id": 26387,
     "fecha": "31 de Jul del 2025 a las 02:48 PM",
     "hora_utc": "2025-07-31 18:48",
@@ -110,29 +126,5 @@
     "mensaje": "🛠️ Se encuentra en avería circuito 146 Aeropuerto perteneciente al municipio de Santa Clara por primario partido (ramal Manaquita)",
     "timestamp": 1753972005,
     "timestamp_local": 1753972005
-  },
-  {
-    "id": 26369,
-    "fecha": "31 de Jul del 2025 a las 10:07 AM",
-    "hora_utc": "2025-07-31 14:07",
-    "mensaje": "💡Restablecido el servicio eléctrico en los siguientes circuitos:\n🔹Bloque 1 \nMunicipio Manicaragua:\n👉Ctos 109 y 150\n👉Ctos 108 y 110 La Piedra\n👉Cto 111 Mataguá\nMunicipio Encrucijada\n👉Cto 120 Calabazar\n👉Ctos 121 y 127 Perucho",
-    "timestamp": 1753970866,
-    "timestamp_local": 1753970866
-  },
-  {
-    "id": 26368,
-    "fecha": "31 de Jul del 2025 a las 10:03 AM",
-    "hora_utc": "2025-07-31 14:03",
-    "mensaje": "🔸Actualización del servicio eléctrico en la provincia🔸\n✍️De los 193 circuitos apagables que presenta la provincia, se mantienen afectados 152 circuitos.\n✍️En el momento de hacer esta nota la provincia tiene 142 MW de afectación por déficit de capacidad de generación, demanda máxima posible a apagar.\n✍️Cuenta con 124 afectaciones por averías secundarias y de servicio",
-    "timestamp": 1753970597,
-    "timestamp_local": 1753970597
-  },
-  {
-    "id": 26367,
-    "fecha": "31 de Jul del 2025 a las 09:48 AM",
-    "hora_utc": "2025-07-31 13:48",
-    "mensaje": "💡Restablecido el servicio eléctrico en los siguientes circuitos:\n🔹Bloque 8\nMunicipio Sagua:\nCtos 43 y 50 y 51\nCto 147 Villa Alegre \nCto 44 Isabela",
-    "timestamp": 1753969739,
-    "timestamp_local": 1753969739
   }
 ]
