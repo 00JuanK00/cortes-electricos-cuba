@@ -1,5 +1,13 @@
 [
   {
+    "id": 32105,
+    "fecha": "31 de Jul del 2025 a las 02:29 PM",
+    "hora_utc": "2025-07-31 18:29",
+    "mensaje": "⚠️ Pronostico para el horario pico (31/07/2025):\n\nDisponibilidad: 1855 MW\nDemanda maxima: 3650 MW\nDéficit: 1795 MW\nAfectacion: 1865 MW\n\nMas detalles sobre el estado del SEN en 👉 https://www.unionelectrica.cu/nota-informativa/",
+    "timestamp": 1753986551,
+    "timestamp_local": 1753986551
+  },
+  {
     "id": 32103,
     "fecha": "31 de Jul del 2025 a las 01:48 PM",
     "hora_utc": "2025-07-31 17:48",
@@ -142,21 +150,5 @@
     "mensaje": "🚨Afectado por déficit   de generación los circuitos 🚨\n➡️Circuito Junco de Guira de Melena                                             \n\n👉 Tenemos una afectación de 126 MW en la provincia 👈",
     "timestamp": 1753898090,
     "timestamp_local": 1753898090
-  },
-  {
-    "id": 32084,
-    "fecha": "30 de Jul del 2025 a las 01:53 PM",
-    "hora_utc": "2025-07-30 17:53",
-    "mensaje": "✅Restablecida la avería en el circuito 3305 de Guira de Melena ✅",
-    "timestamp": 1753898037,
-    "timestamp_local": 1753898037
-  },
-  {
-    "id": 32083,
-    "fecha": "30 de Jul del 2025 a las 01:20 PM",
-    "hora_utc": "2025-07-30 17:20",
-    "mensaje": "🚨Se mantienen afectados por déficit   de generación los circuitos 🚨\n➡️Circuito 1940 de San Antonio                                                   ➡️Circuito 1580 de Alquizar                                                          ➡️Circuito 236 de Bahía Honda                                                     ➡️Circuito 3205 de Cabaña y Quiebra Hacha                     ➡️Circuito 341 de San Cristobal \n➡️Circuito 3305 de Guira de Melena que se encuentra en avería pasa a cubrir el déficit\n➡Circuito 1570 de Artemisa                                                               👉 Tenemos una afectación de 120 MW en la provincia 👈",
-    "timestamp": 1753896020,
-    "timestamp_local": 1753896020
   }
 ]
