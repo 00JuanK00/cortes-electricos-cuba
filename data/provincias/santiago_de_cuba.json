@@ -1,5 +1,21 @@
 [
   {
+    "id": 42450,
+    "fecha": "31 de Jul del 2025 a las 04:08 AM",
+    "hora_utc": "2025-07-31 08:08",
+    "mensaje": "🔊Informamos a nuestros  clientes que quedan afectados por Déficit de Capacidad de Generación   la Línea 4385  Contramaestre y 5390 La Maya , pedimos disculpas por las molestias ocasionadas.",
+    "timestamp": 1753949303,
+    "timestamp_local": 1753949303
+  },
+  {
+    "id": 42449,
+    "fecha": "31 de Jul del 2025 a las 04:07 AM",
+    "hora_utc": "2025-07-31 08:07",
+    "mensaje": "🔊Informamos a nuestros  clientes que quedan afectados por Déficit de Capacidad de Generación  el circuito 13 ,23\n, 21 de  Santiago de Cuba  , pedimos disculpas por las molestias ocasionadas.",
+    "timestamp": 1753949242,
+    "timestamp_local": 1753949242
+  },
+  {
     "id": 42447,
     "fecha": "31 de Jul del 2025 a las 12:50 AM",
     "hora_utc": "2025-07-31 04:50",
@@ -126,37 +142,5 @@
     "mensaje": "Déficit de Capacidad de Generación:  \nSe produce cuando la demanda del Sistema Eléctrico Nacional, en determinado horario del día, supera la generación disponible del país, provocando la desconexión de los circuitos o líneas que permitan garantizar la frecuencia del SEN.",
     "timestamp": 1753916008,
     "timestamp_local": 1753916008
-  },
-  {
-    "id": 42431,
-    "fecha": "30 de Jul del 2025 a las 06:53 PM",
-    "hora_utc": "2025-07-30 22:53",
-    "mensaje": "🔊Informamos a nuestros  clientes que quedan afectados por Déficit de Capacidad de Generación el circuito 1 , 25 , 24 de Santiago de Cuba , pedimos disculpas por las molestias ocasionadas.",
-    "timestamp": 1753915986,
-    "timestamp_local": 1753915986
-  },
-  {
-    "id": 42430,
-    "fecha": "30 de Jul del 2025 a las 06:30 PM",
-    "hora_utc": "2025-07-30 22:30",
-    "mensaje": "Disparo:\nApertura no voluntaria de un interruptor como vía de protección para desconectar uno o varios elementos del circuito, subestación o sistema, restableciéndose el servicio rápidamente en dependencia de la causa",
-    "timestamp": 1753914645,
-    "timestamp_local": 1753914645
-  },
-  {
-    "id": 42429,
-    "fecha": "30 de Jul del 2025 a las 06:30 PM",
-    "hora_utc": "2025-07-30 22:30",
-    "mensaje": "🔊 Se les informa a los clientes que la Sub Autopista de San Luis  se encuentra Disparada ,disculpen por las molestias ocasionadas.",
-    "timestamp": 1753914633,
-    "timestamp_local": 1753914633
-  },
-  {
-    "id": 42428,
-    "fecha": "30 de Jul del 2025 a las 05:47 PM",
-    "hora_utc": "2025-07-30 21:47",
-    "mensaje": "Circuito en avería:                                                                                                                        \n Sucede si un circuito se interrumpe por causa de un defecto en un cable conductor de corriente (fase o neutro), un fusible fundido o disyuntor. En sistemas trifásicos una falla puede implicar una fase, más de una fase con la tierra o puede ocurrir solo entre fases.",
-    "timestamp": 1753912034,
-    "timestamp_local": 1753912034
   }
 ]
