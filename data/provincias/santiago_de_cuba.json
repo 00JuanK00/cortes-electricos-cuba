@@ -1,5 +1,21 @@
 [
   {
+    "id": 42435,
+    "fecha": "30 de Jul del 2025 a las 08:37 PM",
+    "hora_utc": "2025-07-31 00:37",
+    "mensaje": "🔊Informamos a nuestros  clientes que quedan afectados por Déficit de Capacidad de Generación la Línea 5395  San Luis y 7 de Santiago de Cuba   , pedimos disculpas por las molestias ocasionadas.",
+    "timestamp": 1753922224,
+    "timestamp_local": 1753922224
+  },
+  {
+    "id": 42434,
+    "fecha": "30 de Jul del 2025 a las 08:36 PM",
+    "hora_utc": "2025-07-31 00:36",
+    "mensaje": "🔊Informamos a nuestros  clientes que quedan afectados por Déficit de Capacidad de Generación el circuito 12, 20 , 4 de Palma , 1 de Palma , pedimos disculpas por las molestias ocasionadas.",
+    "timestamp": 1753922183,
+    "timestamp_local": 1753922183
+  },
+  {
     "id": 42433,
     "fecha": "30 de Jul del 2025 a las 07:20 PM",
     "hora_utc": "2025-07-30 23:20",
@@ -142,21 +158,5 @@
     "mensaje": "🔴Disparo Automático de Frecuencia (DAF):\nOcurre cuando la frecuencia está por debajo de los 60Hz y determinada carga o circuito se desconecta del sistema automáticamente hasta que se estabilice.",
     "timestamp": 1753900229,
     "timestamp_local": 1753900229
-  },
-  {
-    "id": 42415,
-    "fecha": "30 de Jul del 2025 a las 02:29 PM",
-    "hora_utc": "2025-07-30 18:29",
-    "mensaje": "🔴Se les informa a nuestros clientes que esta disparado por DAF  el circuito 1 de Palma .",
-    "timestamp": 1753900194,
-    "timestamp_local": 1753900194
-  },
-  {
-    "id": 42414,
-    "fecha": "30 de Jul del 2025 a las 01:27 PM",
-    "hora_utc": "2025-07-30 17:27",
-    "mensaje": "🔴Se les informa a nuestros clientes que se afecta por Déficit de Capacidad de Generación el circuito 12 de Santiago.",
-    "timestamp": 1753896430,
-    "timestamp_local": 1753896430
   }
 ]

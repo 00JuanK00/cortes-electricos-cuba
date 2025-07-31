@@ -1,5 +1,29 @@
 [
   {
+    "id": 26335,
+    "fecha": "30 de Jul del 2025 a las 08:20 PM",
+    "hora_utc": "2025-07-31 00:20",
+    "mensaje": "🔸Actualización del servicio eléctrico en la provincia🔸\n✍️De los 193 circuitos apagables que presenta la provincia, se mantienen afectados 178 circuitos.\n✍️En el momento de hacer esta nota la provincia tiene 188 MW de afectación por déficit de capacidad de generación, demanda máxima posible a apagar.\n✍️Cuenta con 145 afectaciones por averías secundarias y de servicio.",
+    "timestamp": 1753921213,
+    "timestamp_local": 1753921213
+  },
+  {
+    "id": 26334,
+    "fecha": "30 de Jul del 2025 a las 08:18 PM",
+    "hora_utc": "2025-07-31 00:18",
+    "mensaje": "Ante a la compleja situación actual, con alto niveles de déficit de capacidad de generación, no se podrá  cumplir con la planificación de los bloques establecidas para la provincia, por tanto, los circuitos se afectaran o se restablecerán en dependencia del déficit y la demanda máxima en cada momento de la jornada, que puede llegar hacer muy variable.\nCon esta condición, no es posible establecer horario ni tiempo de afectación.",
+    "timestamp": 1753921126,
+    "timestamp_local": 1753921126
+  },
+  {
+    "id": 26333,
+    "fecha": "30 de Jul del 2025 a las 08:10 PM",
+    "hora_utc": "2025-07-31 00:10",
+    "mensaje": "⚡Afectado por disparo el circuito 144 (Maleza), perteneciente al municipio Santa Clara. Se estudian las causas.",
+    "timestamp": 1753920601,
+    "timestamp_local": 1753920601
+  },
+  {
     "id": 26332,
     "fecha": "30 de Jul del 2025 a las 07:06 PM",
     "hora_utc": "2025-07-30 23:06",
@@ -134,29 +158,5 @@
     "mensaje": "⚠️Serán afectados por déficit de capacidad de generación los siguientes circuitos:\n🔹Bloque 9\nMunicipio Placetas \n👉Cto 101 y 145 Cumbres",
     "timestamp": 1753903772,
     "timestamp_local": 1753903772
-  },
-  {
-    "id": 26315,
-    "fecha": "30 de Jul del 2025 a las 03:27 PM",
-    "hora_utc": "2025-07-30 19:27",
-    "mensaje": "⚠️Serán afectados por déficit de capacidad de generación los siguientes circuitos:\n🔹Bloque 11\nMunicipio Remedios\n👉Cto 71 Buena Vista\n👉Cto 143 Batey Heriberto  Duquesne\n👉Cto 69 Zuluetas\n👉Cto 70 Zuluetas\n👉Cto 67 Remedios\n👉Cto 152 Remedios \n👉Cto 68 Remedios\n👉Cto 118 Remedios",
-    "timestamp": 1753903673,
-    "timestamp_local": 1753903673
-  },
-  {
-    "id": 26314,
-    "fecha": "30 de Jul del 2025 a las 03:26 PM",
-    "hora_utc": "2025-07-30 19:26",
-    "mensaje": "⚠️Serán afectados por déficit de capacidad de generación los siguientes circuitos:\n🔹Bloque 4\nMunicipio Encrucijada \n👉Cto 122 Encrucijada\n👉Cto 123 Vizcaya \n👉Cto 142 comunidad la Sierra \n👉Cto 126 Batey Emilio Córdoba \n👉Cto 125 Cavarrocas \n👉Cto 124 El Santo \nMunicipio Camajuani\n👉Cto 78 Jutiero \n👉Cto 77,59,185 Vueltas",
-    "timestamp": 1753903574,
-    "timestamp_local": 1753903574
-  },
-  {
-    "id": 26313,
-    "fecha": "30 de Jul del 2025 a las 03:18 PM",
-    "hora_utc": "2025-07-30 19:18",
-    "mensaje": "💡Con servicio línea 1715 y 1210:\nMunicipio Santo Domingo:\n👉Cto 134\n👉Ctos 87 y 96 Bermejal\n👉Cto 187 Batey Carlos Baliño\n👉Cto 82 Ulacia\n👉Cto 84 Rodrigo\nMunicipio Quemado:\n👉Ctos 164, 52 y 53 Quemado.\n👉Cto 196 Batey Panchito Gómez Toro",
-    "timestamp": 1753903082,
-    "timestamp_local": 1753903082
   }
 ]

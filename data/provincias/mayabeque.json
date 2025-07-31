@@ -1,5 +1,21 @@
 [
   {
+    "id": 83517,
+    "fecha": "30 de Jul del 2025 a las 08:31 PM",
+    "hora_utc": "2025-07-31 00:31",
+    "mensaje": "🔷Restablecido el servicio en la zona de Meseta Roja correspondiente al circuito Ganuza que se encontraba afectada por avería🔷",
+    "timestamp": 1753921876,
+    "timestamp_local": 1753921876
+  },
+  {
+    "id": 83513,
+    "fecha": "30 de Jul del 2025 a las 08:08 PM",
+    "hora_utc": "2025-07-31 00:08",
+    "mensaje": "🔷Restablecido el servicio en el circuito 3140 que se encontraba afectado por disparo por DAF🔷",
+    "timestamp": 1753920513,
+    "timestamp_local": 1753920513
+  },
+  {
     "id": 83512,
     "fecha": "30 de Jul del 2025 a las 07:48 PM",
     "hora_utc": "2025-07-30 23:48",
@@ -118,45 +134,5 @@
     "mensaje": "📣🚨Pasa a quedar afectado por déficit de capacidad de generación el servicio en el circuito 3665 que se encontraba afectado por disparo en las líneas🚨📣",
     "timestamp": 1753912993,
     "timestamp_local": 1753912993
-  },
-  {
-    "id": 83496,
-    "fecha": "30 de Jul del 2025 a las 05:52 PM",
-    "hora_utc": "2025-07-30 21:52",
-    "mensaje": "♦️Afectado el servicio en el circuito de Ganuza por posible avería♦️",
-    "timestamp": 1753912345,
-    "timestamp_local": 1753912345
-  },
-  {
-    "id": 83495,
-    "fecha": "30 de Jul del 2025 a las 05:52 PM",
-    "hora_utc": "2025-07-30 21:52",
-    "mensaje": "🔷♦️Se restablece el servicio en el siguiente circuito que se encontraba afectado por déficit de capacidad de generación:\n*Ganuza♦️🔷",
-    "timestamp": 1753912329,
-    "timestamp_local": 1753912329
-  },
-  {
-    "id": 83494,
-    "fecha": "30 de Jul del 2025 a las 05:51 PM",
-    "hora_utc": "2025-07-30 21:51",
-    "mensaje": "🔷Restablecido el servicio en el circuito Güines 3 que se encontraba afectado por disparo en las líneas🔷",
-    "timestamp": 1753912302,
-    "timestamp_local": 1753912302
-  },
-  {
-    "id": 83493,
-    "fecha": "30 de Jul del 2025 a las 05:44 PM",
-    "hora_utc": "2025-07-30 21:44",
-    "mensaje": "♦️Afectado el servicio en el circuito Güines 3 por disparo en las líneas♦️",
-    "timestamp": 1753911898,
-    "timestamp_local": 1753911898
-  },
-  {
-    "id": 83492,
-    "fecha": "30 de Jul del 2025 a las 05:41 PM",
-    "hora_utc": "2025-07-30 21:41",
-    "mensaje": "♦️Afectado el servicio en la Sub San Nicolás 110kv quedando afectado el servicio en los siguientes circuitos por disparo en las líneas:\n*3665\n*3655\n*3660♦️",
-    "timestamp": 1753911698,
-    "timestamp_local": 1753911698
   }
 ]
