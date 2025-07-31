@@ -1,5 +1,37 @@
 [
   {
+    "id": 16263,
+    "fecha": "31 de Jul del 2025 a las 09:12 AM",
+    "hora_utc": "2025-07-31 13:12",
+    "mensaje": "**QUE SIGNIFICA E IMPLICA LA MÁXIMA CAPACIDAD APAGABLE EN LA PROVINCIA: **\nMáxima capacidad apagable se refiere al nivel máximo de demanda eléctrica que puede ser desconectada o suspendida temporalmente en la provincia, explica la complejidad del déficit de generación o contingencias en el sistema eléctrico.\nRepresenta el límite superior de la reducción de carga que la empresa puede lograr mediante cortes de energía (apagones). Cuanto mayor sea la máxima capacidad apagable, mayor será el déficit de energía.\n¿Qué implica esto?\nSe identifica cuántos circuitos pueden ser apagados para equilibrar la carga del sistema, esto imposibilita realizar rotaciones, pues a excepción de los servicios priorizados, se encuentran afectados todos los circuitos apagables del territorio. Podrán presentarse afectaciones en el servicio de electricidad durante varias horas al día y el tiempo con servicio dependerá del comportamiento del SEN. Esta medida es necesaria para evitar fallas mayores y proteger la infraestructura eléctrica.",
+    "timestamp": 1753967537,
+    "timestamp_local": 1753967537
+  },
+  {
+    "id": 16262,
+    "fecha": "31 de Jul del 2025 a las 09:08 AM",
+    "hora_utc": "2025-07-31 13:08",
+    "mensaje": "Debido a una vía libre de emergencia por cable  primario en el suelo, se afecta el servicio eléctrico a los clientes que pertenecen al circuito TK42: Gastón, municipio de Majibacoa.",
+    "timestamp": 1753967290,
+    "timestamp_local": 1753967290
+  },
+  {
+    "id": 16261,
+    "fecha": "31 de Jul del 2025 a las 09:05 AM",
+    "hora_utc": "2025-07-31 13:05",
+    "mensaje": "Estimados clientes,\n\nLes informamos que, debido a la actual situación energética del país, nuestra provincia se encuentra operando bajo la máxima capacidad apagable. Esto significa que todos los circuitos eléctricos que pueden ser desconectados temporalmente están siendo utilizados para mantener el equilibrio del sistema nacional.",
+    "timestamp": 1753967137,
+    "timestamp_local": 1753967137
+  },
+  {
+    "id": 16260,
+    "fecha": "31 de Jul del 2025 a las 08:57 AM",
+    "hora_utc": "2025-07-31 12:57",
+    "mensaje": "La Empresa Eléctrica Las Tunas informa que, según la nota emitida por la Unión Eléctrica para el 31 de julio, ayer se registraron afectaciones durante las 24horas debido a déficit de capacidad de generación, situación que se extendió durante la madrugada de hoy. Actualmente están fuera de servicio por averías:\n·       La unidad de la CTE Guiteras\n·       La unidad 4 de Energas Varadero\n·       La unidad 6 de la CTE Renté \n·       La unidad 2 de la CTE Felton.\nEn mantenimiento se encuentran:\n·       La Unidad 2 de la CTE Santa Cruz\n·       La Unidad 4 de la CTE Carlos Manuel de Céspedes\n·       La Unidad 5 de la CTE Renté.\nSe pronostica en el horario de la media una afectación de 1350 MW y de 1992 MW en el horario pico nocturno.\nPara hoy, las afectaciones en la provincia podrían alcanzar el 90% de los circuitos apagables. Estos valores pueden variar según la demanda nacional.",
+    "timestamp": 1753966625,
+    "timestamp_local": 1753966625
+  },
+  {
     "id": 16259,
     "fecha": "31 de Jul del 2025 a las 08:08 AM",
     "hora_utc": "2025-07-31 12:08",
@@ -94,37 +126,5 @@
     "mensaje": "Se encentra sin servicio los siguientes circuitos por Disparo Automático por Frecuencia (DAF):\n\nCircuito33 Kv: 6310\nTK20Becerra \nTK21Tunazúcar\nTK39Providencia IV                                            \nTK50Vázquez \nTK51Santa Teresa \nTK54Vázquez",
     "timestamp": 1753724345,
     "timestamp_local": 1753724345
-  },
-  {
-    "id": 16243,
-    "fecha": "28 de Jul del 2025 a las 01:08 PM",
-    "hora_utc": "2025-07-28 17:08",
-    "mensaje": "Se restablecen las vías libre en el TK110 El Batey y TK39 Providencia 4.",
-    "timestamp": 1753722498,
-    "timestamp_local": 1753722498
-  },
-  {
-    "id": 16242,
-    "fecha": "28 de Jul del 2025 a las 11:42 AM",
-    "hora_utc": "2025-07-28 15:42",
-    "mensaje": "Se afecta el TK39 Providencia 4 para realizar trabajos de mantenimiento en la subestación. Lamentamos las molestias ocasionadas.",
-    "timestamp": 1753717348,
-    "timestamp_local": 1753717348
-  },
-  {
-    "id": 16241,
-    "fecha": "28 de Jul del 2025 a las 08:45 AM",
-    "hora_utc": "2025-07-28 12:45",
-    "mensaje": "Se afecta el circuito TK110 El Batey de Amancio por Vía libre por emergencia para realizar trabajos en la línea",
-    "timestamp": 1753706756,
-    "timestamp_local": 1753706756
-  },
-  {
-    "id": 16240,
-    "fecha": "28 de Jul del 2025 a las 08:01 AM",
-    "hora_utc": "2025-07-28 12:01",
-    "mensaje": "‼️Nota informativa‼️. \n\nSituación del SEN para el 28 de julio de 2025.\n\n✅En el día de ayer se afectó el servicio las 24 horas y se mantuvo afectado\n durante toda la madrugada de hoy. La máxima afectación por déficit de capacidad de generación en el día de ayer fue de 1730 MW a las 20:10 horas, coincidente con la hora de máxima demanda. Afectación superior a lo planificado por la salida imprevista de la unidad 8 de la CTE Mariel.\n✅La producción de energía de los 23 nuevos parques solares fotovoltaicos fue de 2715 MWh, con 520 MW como máxima potencia entregada en el horario\n de la media con esta fuente de generación.\n✅La disponibilidad del SEN a las 07:00 horas es de 1960 MW  la demanda 3225\n MW con 1290 MW afectados por déficit de capacidad, en el horario de la media se estima una afectación de 1150 MW.\nLas limitaciones en la generación térmica son de 422 MW. \n✅Se encuentran fuera de servicio por combustible 90 centrales de generación distribuida con 749 MW.\n✅Para el pico se estima la recuperación de 100 MW en motores de la generación distribuida que están fuera por combustible.\n✅Con\n este pronóstico, en el horario pico se estima una disponibilidad de 2060 MW y una demanda máxima de 3700 MW, para un \ndéficit de 1640 MW, por lo que de mantenerse las condiciones previstas se pronostica una afectación de 1710 MW en este horario.\nUNE-MINEM",
-    "timestamp": 1753704071,
-    "timestamp_local": 1753704071
   }
 ]
