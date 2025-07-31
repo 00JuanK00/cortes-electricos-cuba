@@ -1,5 +1,13 @@
 [
   {
+    "id": 26379,
+    "fecha": "31 de Jul del 2025 a las 01:00 PM",
+    "hora_utc": "2025-07-31 17:00",
+    "mensaje": "Afectados 149 MW en la provincia, demanda máxima posible a apagar en estos momentos.",
+    "timestamp": 1753981229,
+    "timestamp_local": 1753981229
+  },
+  {
     "id": 26377,
     "fecha": "31 de Jul del 2025 a las 12:00 PM",
     "hora_utc": "2025-07-31 16:00",
@@ -134,13 +142,5 @@
     "mensaje": "Resumen de afectaciones por déficit de capacidad de generación el 30/07/2025:                    \n \nEn el día de ayer se afecta el servicio por déficit de generación de forma ininterrumpida durante todo el día, con una afectación máxima de 188 MW en el horario pico.\n \nActualmente tenemos 153 MW afectados por déficit de generación.  \n \nTiempo promedio de afectación 21:01 horas\n \nExisten en este instante 95 interrupciones al servicio eléctrico por atender. Siendo Santa Clara con 57, Manicaragua 14 y Santo Domingo 8 los municipios de mayor Incidencia.",
     "timestamp": 1753963641,
     "timestamp_local": 1753963641
-  },
-  {
-    "id": 26359,
-    "fecha": "31 de Jul del 2025 a las 08:06 AM",
-    "hora_utc": "2025-07-31 12:06",
-    "mensaje": "🔸Actualización del servicio eléctrico en la provincia🔸\n✍️De los 193 circuitos apagables que presenta la provincia, se mantienen afectados 176 circuitos.\n✍️En el momento de hacer esta nota la provincia tiene 153 MW de afectación por déficit de capacidad de generación, demanda máxima posible a apagar.\n✍️Cuenta con 97 afectaciones por averías secundarias y de servicio",
-    "timestamp": 1753963561,
-    "timestamp_local": 1753963561
   }
 ]
