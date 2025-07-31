@@ -1,5 +1,37 @@
 [
   {
+    "id": 42499,
+    "fecha": "31 de Jul del 2025 a las 06:43 PM",
+    "hora_utc": "2025-07-31 22:43",
+    "mensaje": "🔴Se les informa a nuestros clientes que se afecta por Déficit de Capacidad de Generación el circuito 25 de Santiago.",
+    "timestamp": 1754001827,
+    "timestamp_local": 1754001827
+  },
+  {
+    "id": 42498,
+    "fecha": "31 de Jul del 2025 a las 06:40 PM",
+    "hora_utc": "2025-07-31 22:40",
+    "mensaje": "🔴Se les informa a nuestros clientes que se afecta por Déficit de Capacidad de Generación la línea 4390 Palma - Contramaestre.",
+    "timestamp": 1754001644,
+    "timestamp_local": 1754001644
+  },
+  {
+    "id": 42497,
+    "fecha": "31 de Jul del 2025 a las 06:26 PM",
+    "hora_utc": "2025-07-31 22:26",
+    "mensaje": "🔴Se les informa a nuestros clientes que se afecta por Déficit de Capacidad de Generación el circuito 13 de Santiago.",
+    "timestamp": 1754000790,
+    "timestamp_local": 1754000790
+  },
+  {
+    "id": 42496,
+    "fecha": "31 de Jul del 2025 a las 06:16 PM",
+    "hora_utc": "2025-07-31 22:16",
+    "mensaje": "🔴Se les informa a nuestros clientes que se afecta por Déficit de Capacidad de Generación el circuito 24 de Santiago y línea Cl9506 Contramaestre - lll Frente.",
+    "timestamp": 1754000219,
+    "timestamp_local": 1754000219
+  },
+  {
     "id": 42495,
     "fecha": "31 de Jul del 2025 a las 05:58 PM",
     "hora_utc": "2025-07-31 21:58",
@@ -126,37 +158,5 @@
     "mensaje": "🚨 informamos a nuestros clientes que se encuentra disparada la Sub de La Prueba .",
     "timestamp": 1753988759,
     "timestamp_local": 1753988759
-  },
-  {
-    "id": 42479,
-    "fecha": "31 de Jul del 2025 a las 03:04 PM",
-    "hora_utc": "2025-07-31 19:04",
-    "mensaje": "👉 Informamos a nuestros  clientes que quedan afectados por Déficit de Capacidad de Generación el circuito 13 de Santiago  , pedimos disculpas por las molestias ocasionadas.",
-    "timestamp": 1753988657,
-    "timestamp_local": 1753988657
-  },
-  {
-    "id": 42478,
-    "fecha": "31 de Jul del 2025 a las 02:26 PM",
-    "hora_utc": "2025-07-31 18:26",
-    "mensaje": "🔴  Disparo Automático de Frecuencia (DAF):\nOcurre cuando la frecuencia está por debajo de los 60Hz y determinada carga o circuito se desconecta del sistema automáticamente hasta que se estabilice",
-    "timestamp": 1753986394,
-    "timestamp_local": 1753986394
-  },
-  {
-    "id": 42477,
-    "fecha": "31 de Jul del 2025 a las 02:25 PM",
-    "hora_utc": "2025-07-31 18:25",
-    "mensaje": "🚨 Informamos a nuestros clientes que se encuentra disparado por DAF  el circuito 25 de Santiago .",
-    "timestamp": 1753986354,
-    "timestamp_local": 1753986354
-  },
-  {
-    "id": 42476,
-    "fecha": "31 de Jul del 2025 a las 02:23 PM",
-    "hora_utc": "2025-07-31 18:23",
-    "mensaje": "🔴 Disparo:\nApertura no voluntaria de un interruptor como vía de protección para desconectar uno o varios elementos del circuito, subestación o sistema, restableciéndose el servicio rápidamente en dependencia de la causa",
-    "timestamp": 1753986211,
-    "timestamp_local": 1753986211
   }
 ]

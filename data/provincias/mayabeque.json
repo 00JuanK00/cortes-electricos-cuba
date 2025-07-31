@@ -1,5 +1,53 @@
 [
   {
+    "id": 83645,
+    "fecha": "31 de Jul del 2025 a las 06:29 PM",
+    "hora_utc": "2025-07-31 22:29",
+    "mensaje": "🚨Por déficit de capacidad de generación se afecta el servicio en los siguientes circuitos:\n*CENSA\n*Somorrostro 🚨",
+    "timestamp": 1754000958,
+    "timestamp_local": 1754000958
+  },
+  {
+    "id": 83644,
+    "fecha": "31 de Jul del 2025 a las 06:29 PM",
+    "hora_utc": "2025-07-31 22:29",
+    "mensaje": "🔷♦️Se restablece el servicio en el siguiente circuito que se encontraba afectado por déficit de capacidad de generación:\n*2 de San José ♦️🔷",
+    "timestamp": 1754000950,
+    "timestamp_local": 1754000950
+  },
+  {
+    "id": 83643,
+    "fecha": "31 de Jul del 2025 a las 06:16 PM",
+    "hora_utc": "2025-07-31 22:16",
+    "mensaje": "🔷Se restablece el servicio en el circuito de Aguacate por manipulación 🔷",
+    "timestamp": 1754000204,
+    "timestamp_local": 1754000204
+  },
+  {
+    "id": 83642,
+    "fecha": "31 de Jul del 2025 a las 06:09 PM",
+    "hora_utc": "2025-07-31 22:09",
+    "mensaje": "🔷Se restablece el servicio en el siguiente circuito que se encontraba afectado por avería :\n*Catalina 1 🔷",
+    "timestamp": 1753999794,
+    "timestamp_local": 1753999794
+  },
+  {
+    "id": 83641,
+    "fecha": "31 de Jul del 2025 a las 06:07 PM",
+    "hora_utc": "2025-07-31 22:07",
+    "mensaje": "🚨Por déficit de capacidad de generación se afecta el servicio en los siguientes circuitos:\n*3660\n*3655🚨",
+    "timestamp": 1753999659,
+    "timestamp_local": 1753999659
+  },
+  {
+    "id": 83640,
+    "fecha": "31 de Jul del 2025 a las 06:01 PM",
+    "hora_utc": "2025-07-31 22:01",
+    "mensaje": "🔷♦️Se restablece el servicio en los siguientes circuitos que se encontraban afectados por déficit de capacidad de generación:\n*Melena 1 y  2 ♦️🔷",
+    "timestamp": 1753999285,
+    "timestamp_local": 1753999285
+  },
+  {
     "id": 83639,
     "fecha": "31 de Jul del 2025 a las 05:54 PM",
     "hora_utc": "2025-07-31 21:54",
@@ -102,53 +150,5 @@
     "mensaje": "🚨Por déficit de capacidad de generación se afecta el servicio en el siguiente circuito:\n*Aguacate 🚨",
     "timestamp": 1753990507,
     "timestamp_local": 1753990507
-  },
-  {
-    "id": 83625,
-    "fecha": "31 de Jul del 2025 a las 03:34 PM",
-    "hora_utc": "2025-07-31 19:34",
-    "mensaje": "🚨Por déficit de capacidad de generación se afecta el servicio en el siguiente circuito:\n*Bío -1 🚨",
-    "timestamp": 1753990468,
-    "timestamp_local": 1753990468
-  },
-  {
-    "id": 83624,
-    "fecha": "31 de Jul del 2025 a las 03:17 PM",
-    "hora_utc": "2025-07-31 19:17",
-    "mensaje": "🚨Por déficit de capacidad de generación se afecta el servicio en el siguiente circuito:\n*1790🚨",
-    "timestamp": 1753989467,
-    "timestamp_local": 1753989467
-  },
-  {
-    "id": 83623,
-    "fecha": "31 de Jul del 2025 a las 03:10 PM",
-    "hora_utc": "2025-07-31 19:10",
-    "mensaje": "🔷 Restablecido el servicio en el circuito 3140 que se encontraba afectado por disparo por DAF🔷",
-    "timestamp": 1753989019,
-    "timestamp_local": 1753989019
-  },
-  {
-    "id": 83622,
-    "fecha": "31 de Jul del 2025 a las 03:09 PM",
-    "hora_utc": "2025-07-31 19:09",
-    "mensaje": "🔷 Restablecido el servicio en el circuito 3590 que se encontraba afectado por disparo por DAF🔷",
-    "timestamp": 1753988985,
-    "timestamp_local": 1753988985
-  },
-  {
-    "id": 83621,
-    "fecha": "31 de Jul del 2025 a las 03:01 PM",
-    "hora_utc": "2025-07-31 19:01",
-    "mensaje": "♦️ Afectado el servicio en el circuito 3590 por disparo por DAF ♦️",
-    "timestamp": 1753988491,
-    "timestamp_local": 1753988491
-  },
-  {
-    "id": 83620,
-    "fecha": "31 de Jul del 2025 a las 02:29 PM",
-    "hora_utc": "2025-07-31 18:29",
-    "mensaje": "♦️ Afectado el servicio en el circuito 3140 por disparo por DAF ♦️",
-    "timestamp": 1753986576,
-    "timestamp_local": 1753986576
   }
 ]
