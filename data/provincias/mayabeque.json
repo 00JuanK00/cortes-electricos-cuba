@@ -1,5 +1,29 @@
 [
   {
+    "id": 83561,
+    "fecha": "31 de Jul del 2025 a las 01:01 AM",
+    "hora_utc": "2025-07-31 05:01",
+    "mensaje": "🚨Por déficit de capacidad de generación se afecta el servicio en el siguiente circuito:\n*San Nicolás 1 🚨",
+    "timestamp": 1753938083,
+    "timestamp_local": 1753938083
+  },
+  {
+    "id": 83560,
+    "fecha": "31 de Jul del 2025 a las 12:55 AM",
+    "hora_utc": "2025-07-31 04:55",
+    "mensaje": "🔷Restablecido el servicio en el circuito 3590 que se encontraba afectado por disparo por DAF🔷",
+    "timestamp": 1753937702,
+    "timestamp_local": 1753937702
+  },
+  {
+    "id": 83559,
+    "fecha": "31 de Jul del 2025 a las 12:53 AM",
+    "hora_utc": "2025-07-31 04:53",
+    "mensaje": "🚨Por déficit de capacidad de generación se afecta el servicio en el siguiente circuito:\n*2440🚨",
+    "timestamp": 1753937594,
+    "timestamp_local": 1753937594
+  },
+  {
     "id": 83555,
     "fecha": "31 de Jul del 2025 a las 12:33 AM",
     "hora_utc": "2025-07-31 04:33",
@@ -110,29 +134,5 @@
     "mensaje": "🔷♦️Se restablece el servicio en el siguiente circuito que se encontraba afectado por déficit de capacidad de generación:\n*Santa Cruz ♦️🔷",
     "timestamp": 1753932889,
     "timestamp_local": 1753932889
-  },
-  {
-    "id": 83541,
-    "fecha": "30 de Jul del 2025 a las 11:28 PM",
-    "hora_utc": "2025-07-31 03:28",
-    "mensaje": "🔷♦️Se restablece el servicio en los circuitos que se encontraban afectados por déficit de capacidad de generación:\n*Sopapo 1 y 2 ♦️🔷",
-    "timestamp": 1753932501,
-    "timestamp_local": 1753932501
-  },
-  {
-    "id": 83540,
-    "fecha": "30 de Jul del 2025 a las 11:21 PM",
-    "hora_utc": "2025-07-31 03:21",
-    "mensaje": "🚨Por déficit de capacidad de generación se afecta el servicio en el siguiente circuito:\n*El Camilo 🚨",
-    "timestamp": 1753932065,
-    "timestamp_local": 1753932065
-  },
-  {
-    "id": 83539,
-    "fecha": "30 de Jul del 2025 a las 11:19 PM",
-    "hora_utc": "2025-07-31 03:19",
-    "mensaje": "♦️Afectado el servicio en Zona de desarrollo correspondiente al circuito Catalina 1 por avería♦️",
-    "timestamp": 1753931989,
-    "timestamp_local": 1753931989
   }
 ]
