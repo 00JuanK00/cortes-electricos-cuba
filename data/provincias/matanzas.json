@@ -1,5 +1,21 @@
 [
   {
+    "id": 23685,
+    "fecha": "31 de Jul del 2025 a las 05:26 PM",
+    "hora_utc": "2025-07-31 21:26",
+    "mensaje": "**Circuitos no apagables que se afectarán debido al alto déficit:**\n\n- Circuitos MI1453 se afectarán de 18:00 a 02:00\n\n- Circuitos Z130 se afectarán de 20:00 a 00:00\n- Circuitos 5223 se afectarán de 20:00 a 02:00\n\nAl amanecer:\n- Circuito CI185 se afectará de 04:00 a 07:00",
+    "timestamp": 1753997209,
+    "timestamp_local": 1753997209
+  },
+  {
+    "id": 23684,
+    "fecha": "31 de Jul del 2025 a las 05:16 PM",
+    "hora_utc": "2025-07-31 21:16",
+    "mensaje": "**⚠Disparo automático por frecuencia (DAF) del circuito 4945 que da servicio a Cidra, Sabanilla.\n**\nUn disparo por frecuencia o Descarga Automática por Frecuencia (DAF), es una protección que posee el sistema eléctrico para cuando la frecuencia llega a valores mínimos permisibles que ponen en peligro la estabilidad de todo el sistema en su conjunto y provoca una desconexión automática de algunos circuitos hasta que se vuelva a recuperar su valor nominal a 60Hz o ciclos por segundo.",
+    "timestamp": 1753996578,
+    "timestamp_local": 1753996578
+  },
+  {
     "id": 23683,
     "fecha": "31 de Jul del 2025 a las 04:50 PM",
     "hora_utc": "2025-07-31 20:50",
@@ -142,21 +158,5 @@
     "mensaje": "Circuitos no apagables que se afectarán debido al alto déficit:\n\n- Circuitos Z1183, Z130, GI101 y JI48 se afectarán de 11:00 a 13:00\n\n- Circuitos Z1183, Z130, GI101 y JI48 se afectarán de 11:00 a 13:00\n\n- Circuitos MI1453 se afectarán de 11:00 a 14:00 y 18:00 a 02:00\n\n- Circuitos Z130 se afectarán de 20:00 a 00:00\n\n- Circuitos 5223 se afectarán de 20:00 a 02:00\n\nAl amanecer:\n- Circuito CI185 se afectará de 04:00 a 07:00",
     "timestamp": 1753974733,
     "timestamp_local": 1753974733
-  },
-  {
-    "id": 23665,
-    "fecha": "31 de Jul del 2025 a las 11:07 AM",
-    "hora_utc": "2025-07-31 15:07",
-    "mensaje": "⚠ **Atención Información**⚠\nEl circuito 5670 que da servicio** **a Manuelito, Bolondrón, Unión de Reyes, Cabezas, Bermejas y Alacranes se encuentra disparado por sobre carga. Esto sucede cuando el flujo de corriente es mayor a lo que el circuito puede soportar.",
-    "timestamp": 1753974450,
-    "timestamp_local": 1753974450
-  },
-  {
-    "id": 23664,
-    "fecha": "31 de Jul del 2025 a las 10:43 AM",
-    "hora_utc": "2025-07-31 14:43",
-    "mensaje": "**⚠Disparo automático por frecuencia (DAF) del circuito 4945 que da servicio a Cidra, Sabanilla.\n**\nUn disparo por frecuencia o Descarga Automática por Frecuencia (DAF), es una protección que posee el sistema eléctrico para cuando la frecuencia llega a valores mínimos permisibles que ponen en peligro la estabilidad de todo el sistema en su conjunto y provoca una desconexión automática de algunos circuitos hasta que se vuelva a recuperar su valor nominal a 60Hz o ciclos por segundo.",
-    "timestamp": 1753973010,
-    "timestamp_local": 1753973010
   }
 ]
