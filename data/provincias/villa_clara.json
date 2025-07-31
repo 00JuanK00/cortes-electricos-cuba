@@ -1,5 +1,21 @@
 [
   {
+    "id": 26401,
+    "fecha": "31 de Jul del 2025 a las 07:10 PM",
+    "hora_utc": "2025-07-31 23:10",
+    "mensaje": "⚠️Afectados por déficit de capacidad de generación los siguientes circuitos:\n🔹Bloque 4\nMunicipio Santa Clara:\nCto 5 (Dobarganes)\nCto 17 (Subplanta) \nCtos 37 y 38 (Yabú)     \nCto 9 (Moldes y Troqueles)\nCto 133 (Cafetera)",
+    "timestamp": 1754003436,
+    "timestamp_local": 1754003436
+  },
+  {
+    "id": 26400,
+    "fecha": "31 de Jul del 2025 a las 07:00 PM",
+    "hora_utc": "2025-07-31 23:00",
+    "mensaje": "Afectados 179 MW en la provincia, demanda máxima posible a apagar en estos momentos.",
+    "timestamp": 1754002853,
+    "timestamp_local": 1754002853
+  },
+  {
     "id": 26399,
     "fecha": "31 de Jul del 2025 a las 06:57 PM",
     "hora_utc": "2025-07-31 22:57",
@@ -126,21 +142,5 @@
     "mensaje": "⚠️Afectadas por DAF las líneas 6580 y 1955:\nLínea 6580 \nMunicipio Camajuaní:\nCtos 77, 59 y 185 Vueltas \nLínea 1955  \nMunicipio Encrucijada:\nCto 122 Encrucijada \nCto 123 Vizcaya \nCto 142 Comunidad La Sierra \nCto 126 Batey Emilio Córdova\nCto 125 Cavarrocas\nCto 124 El Santo\nMunicipio Camajuaní:\nCto 78 Jutiero",
     "timestamp": 1753984093,
     "timestamp_local": 1753984093
-  },
-  {
-    "id": 26381,
-    "fecha": "31 de Jul del 2025 a las 01:17 PM",
-    "hora_utc": "2025-07-31 17:17",
-    "mensaje": "💡Restablecido el servicio eléctrico en los siguientes circuitos:\n🔹Bloque 4\nMunicipio Camajuaní:\nCtos 77, 59 y 185 Vueltas",
-    "timestamp": 1753982235,
-    "timestamp_local": 1753982235
-  },
-  {
-    "id": 26379,
-    "fecha": "31 de Jul del 2025 a las 01:00 PM",
-    "hora_utc": "2025-07-31 17:00",
-    "mensaje": "Afectados 149 MW en la provincia, demanda máxima posible a apagar en estos momentos.",
-    "timestamp": 1753981229,
-    "timestamp_local": 1753981229
   }
 ]
