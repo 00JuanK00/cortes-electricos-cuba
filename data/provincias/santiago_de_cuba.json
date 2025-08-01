@@ -1,5 +1,29 @@
 [
   {
+    "id": 42508,
+    "fecha": "31 de Jul del 2025 a las 10:33 PM",
+    "hora_utc": "2025-08-01 02:33",
+    "mensaje": "👉Estimados clientes se les informa que quedan afectados por Déficit de Capacidad de Generación los circuitos , 12 , 20 , 8 y el 4 de Palma .",
+    "timestamp": 1754015583,
+    "timestamp_local": 1754015583
+  },
+  {
+    "id": 42507,
+    "fecha": "31 de Jul del 2025 a las 09:21 PM",
+    "hora_utc": "2025-08-01 01:21",
+    "mensaje": "🔴Estimados clientes se les informa que quedan afectados por Déficit de Capacidad de Generación la línea de Contramaestre - Baire - lll Frente y los circuitos , 24 y 25 , la línea 4390 , el 2 de Palma y los circuitos , 13 , 16 y 1 . 👈",
+    "timestamp": 1754011295,
+    "timestamp_local": 1754011295
+  },
+  {
+    "id": 42506,
+    "fecha": "31 de Jul del 2025 a las 08:54 PM",
+    "hora_utc": "2025-08-01 00:54",
+    "mensaje": "🔴Estimados clientes se les informa que quedan afectados por Déficit de Capacidad de Generación , el Cristo , Mella , El Pilar y Palma Oeste .👈",
+    "timestamp": 1754009679,
+    "timestamp_local": 1754009679
+  },
+  {
     "id": 42505,
     "fecha": "31 de Jul del 2025 a las 08:22 PM",
     "hora_utc": "2025-08-01 00:22",
@@ -126,29 +150,5 @@
     "mensaje": "🔴. Disparo Automático de Frecuencia (DAF):\nOcurre cuando la frecuencia está por debajo de los 60Hz y determinada carga o circuito se desconecta del sistema automáticamente hasta que se estabilice",
     "timestamp": 1753994186,
     "timestamp_local": 1753994186
-  },
-  {
-    "id": 42487,
-    "fecha": "31 de Jul del 2025 a las 04:35 PM",
-    "hora_utc": "2025-07-31 20:35",
-    "mensaje": "🚨 Informamos a nuestros clientes que se encuentra disparado por DAF  el circuito 1 de Palma .",
-    "timestamp": 1753994159,
-    "timestamp_local": 1753994159
-  },
-  {
-    "id": 42486,
-    "fecha": "31 de Jul del 2025 a las 04:28 PM",
-    "hora_utc": "2025-07-31 20:28",
-    "mensaje": "🔴 Disparo:\nApertura no voluntaria de un interruptor como vía de protección para desconectar uno o varios elementos del circuito, subestación o sistema, restableciéndose el servicio rápidamente en dependencia de la causa",
-    "timestamp": 1753993730,
-    "timestamp_local": 1753993730
-  },
-  {
-    "id": 42485,
-    "fecha": "31 de Jul del 2025 a las 04:25 PM",
-    "hora_utc": "2025-07-31 20:25",
-    "mensaje": "🚨 Informamos a nuestros clientes que se encuentra disparada la línea 5380 Mella .",
-    "timestamp": 1753993538,
-    "timestamp_local": 1753993538
   }
 ]
