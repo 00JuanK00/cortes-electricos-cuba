@@ -1,5 +1,21 @@
 [
   {
+    "id": 32124,
+    "fecha": "01 de Aug del 2025 a las 10:38 AM",
+    "hora_utc": "2025-08-01 14:38",
+    "mensaje": "⚠️ Pronostico para el horario pico (01/08/2025):\n\nDisponibilidad: 1877 MW\nDemanda maxima: 3650 MW\nDéficit: 1773 MW\nAfectacion: 1843 MW\n\nMas detalles sobre el estado del SEN en 👉 https://www.unionelectrica.cu/nota-informativa/",
+    "timestamp": 1754059131,
+    "timestamp_local": 1754059131
+  },
+  {
+    "id": 32122,
+    "fecha": "01 de Aug del 2025 a las 10:31 AM",
+    "hora_utc": "2025-08-01 14:31",
+    "mensaje": "⛔Se mantienen afectados :\n\n➡️Circuito 236 de Bahía\n➡️ Circuito 1570 de Artemisa Candelaria \n➡️Circuito 341 de San Cristóbal\n\n❌En estos momentos 117  MW de Afectación",
+    "timestamp": 1754058673,
+    "timestamp_local": 1754058673
+  },
+  {
     "id": 32121,
     "fecha": "01 de Aug del 2025 a las 08:58 AM",
     "hora_utc": "2025-08-01 12:58",
@@ -19,7 +35,7 @@
     "id": 32119,
     "fecha": "01 de Aug del 2025 a las 06:36 AM",
     "hora_utc": "2025-08-01 10:36",
-    "mensaje": "⛔Se mantienen afectados los circuitos:\n\n➡️Circuito 3220 de San Antonio\n➡️Circuito 1580 de Alquilar\n➡️Circuito Maní \n➡️Circuito 246\n➡️Circuito Sub San Cristóbal\n➡️Circuito Martí y 4 Caminos\n➡️ Circuito 1270 de Artemisa\n➡️ Circuito 5040\n\n\n❌En estos momentos 140 MW de afectación",
+    "mensaje": "⛔Se mantienen afectados los circuitos:\n\n➡️Circuito 3220 de San Antonio\n➡️ Circuito 1270 de Artemisa\n\n\n\n❌En estos momentos 140 MW de afectación",
     "timestamp": 1754044617,
     "timestamp_local": 1754044617
   },
@@ -126,29 +142,5 @@
     "mensaje": "⚠️ Pronostico para el horario pico (31/07/2025):\n\nDisponibilidad: 1855 MW\nDemanda maxima: 3650 MW\nDéficit: 1795 MW\nAfectacion: 1865 MW\n\nMas detalles sobre el estado del SEN en 👉 https://www.unionelectrica.cu/nota-informativa/",
     "timestamp": 1753986551,
     "timestamp_local": 1753986551
-  },
-  {
-    "id": 32103,
-    "fecha": "31 de Jul del 2025 a las 01:48 PM",
-    "hora_utc": "2025-07-31 17:48",
-    "mensaje": "⛔Afectado circuito 3205 de Cabañas\n\n❌Nos mantenemos en 115 MW de afectación",
-    "timestamp": 1753984122,
-    "timestamp_local": 1753984122
-  },
-  {
-    "id": 32102,
-    "fecha": "31 de Jul del 2025 a las 12:37 PM",
-    "hora_utc": "2025-07-31 16:37",
-    "mensaje": "⛔ Se mantienen afectados los circuitos:\n\n➡️241 de bahía Honda\n➡️A 1258 de Artemisa\n➡️A 1270 de Artemisa\n➡️Circuito San Pedro de Bauta\n\n❌En estos momentos 115 MW de afectación",
-    "timestamp": 1753979857,
-    "timestamp_local": 1753979857
-  },
-  {
-    "id": 32101,
-    "fecha": "31 de Jul del 2025 a las 11:47 AM",
-    "hora_utc": "2025-07-31 15:47",
-    "mensaje": "🚨🚨Banco abierto pend a cambios o medir aislamiento  porque el bajante tierra Alto voltaje y bajo Aislamiento del transformador NT:1155 CB:MB141 con FQ:29643  👉🏼afecta 65 casas",
-    "timestamp": 1753976838,
-    "timestamp_local": 1753976838
   }
 ]
