@@ -1,9 +1,25 @@
 [
   {
+    "id": 32127,
+    "fecha": "01 de Aug del 2025 a las 11:35 AM",
+    "hora_utc": "2025-08-01 15:35",
+    "mensaje": "⛔Se mantiene afectado :\n\n➡️Circuito 3210 de Guanajay\n\n❌En estos momentos 132 MW de Afectación",
+    "timestamp": 1754062528,
+    "timestamp_local": 1754062528
+  },
+  {
+    "id": 32126,
+    "fecha": "01 de Aug del 2025 a las 11:06 AM",
+    "hora_utc": "2025-08-01 15:06",
+    "mensaje": "❌Se mantienen 132 mw de Afectación",
+    "timestamp": 1754060760,
+    "timestamp_local": 1754060760
+  },
+  {
     "id": 32125,
     "fecha": "01 de Aug del 2025 a las 10:57 AM",
     "hora_utc": "2025-08-01 14:57",
-    "mensaje": "⛔Se mantiene afectado :\n\n➡️Circuito 3517 de Mariel\n\n❌En estos momentos 128  MW de Afectación",
+    "mensaje": "❌En estos momentos 128  MW de Afectación",
     "timestamp": 1754060224,
     "timestamp_local": 1754060224
   },
@@ -43,7 +59,7 @@
     "id": 32119,
     "fecha": "01 de Aug del 2025 a las 06:36 AM",
     "hora_utc": "2025-08-01 10:36",
-    "mensaje": "⛔Se mantienen afectados los circuitos:\n\n➡️Circuito 3220 de San Antonio\n➡️ Circuito 1270 de Artemisa\n\n\n\n❌En estos momentos 140 MW de afectación",
+    "mensaje": "⛔Se mantienen afectados los circuitos:\n\n➡️Circuito 3220 de San Antonio\n\n\n\n❌En estos momentos 140 MW de afectación",
     "timestamp": 1754044617,
     "timestamp_local": 1754044617
   },
@@ -134,21 +150,5 @@
     "mensaje": "💥Transformador Quemado 15KVA 7.6/13.2 120/240 NT:1158 CB:SB718 ‼️ en Los Guerras % y  Sabanilla San Cristóbal 👉🏼Afecta 4 casas",
     "timestamp": 1753996783,
     "timestamp_local": 1753996783
-  },
-  {
-    "id": 32106,
-    "fecha": "31 de Jul del 2025 a las 03:58 PM",
-    "hora_utc": "2025-07-31 19:58",
-    "mensaje": "⛔Se mantienen afectados los circuitos :\n\n➡️Circuito Cayo Lenin que continúa en avería pasa a cubrir déficit\n➡️Circuito San Pedro de Bauta\n➡️Circuito 3205 de Cabañas \n➡️Circuito 236 de Bahía \n➡️Circuito 1570 de Artemisa\n➡️Circuito Cárcel y 4000 de Guanajay\n➡️Circuito 1940 de San Antonio\n➡️Circuito 341 de San Cristóbal\n\n❌En estos momentos 120 MW de afectación",
-    "timestamp": 1753991898,
-    "timestamp_local": 1753991898
-  },
-  {
-    "id": 32105,
-    "fecha": "31 de Jul del 2025 a las 02:29 PM",
-    "hora_utc": "2025-07-31 18:29",
-    "mensaje": "⚠️ Pronostico para el horario pico (31/07/2025):\n\nDisponibilidad: 1855 MW\nDemanda maxima: 3650 MW\nDéficit: 1795 MW\nAfectacion: 1865 MW\n\nMas detalles sobre el estado del SEN en 👉 https://www.unionelectrica.cu/nota-informativa/",
-    "timestamp": 1753986551,
-    "timestamp_local": 1753986551
   }
 ]
