@@ -1,5 +1,37 @@
 [
   {
+    "id": 83746,
+    "fecha": "01 de Aug del 2025 a las 03:39 PM",
+    "hora_utc": "2025-08-01 19:39",
+    "mensaje": "🔷 Restablecido el servicio en el circuito 3140 q se encontraba afectado por DAF 🔷",
+    "timestamp": 1754077150,
+    "timestamp_local": 1754077150
+  },
+  {
+    "id": 83745,
+    "fecha": "01 de Aug del 2025 a las 03:29 PM",
+    "hora_utc": "2025-08-01 19:29",
+    "mensaje": "🚨Por déficit de capacidad de generación se afecta el servicio en el siguiente circuito:\n*Santa Cruz 🚨",
+    "timestamp": 1754076590,
+    "timestamp_local": 1754076590
+  },
+  {
+    "id": 83741,
+    "fecha": "01 de Aug del 2025 a las 03:25 PM",
+    "hora_utc": "2025-08-01 19:25",
+    "mensaje": "♦️ Disparado el circuito 3140 por DAF ♦️",
+    "timestamp": 1754076323,
+    "timestamp_local": 1754076323
+  },
+  {
+    "id": 83740,
+    "fecha": "01 de Aug del 2025 a las 03:15 PM",
+    "hora_utc": "2025-08-01 19:15",
+    "mensaje": "🚨Por déficit de capacidad de generación se afecta el servicio en el siguiente circuito:\n*Madruga 🚨",
+    "timestamp": 1754075715,
+    "timestamp_local": 1754075715
+  },
+  {
     "id": 83739,
     "fecha": "01 de Aug del 2025 a las 03:13 PM",
     "hora_utc": "2025-08-01 19:13",
@@ -94,45 +126,5 @@
     "mensaje": "🔷♦️Se restablece el servicio en el siguiente circuito que se encontraba afectado por déficit de capacidad de generación:\n*3140 ♦️🔷",
     "timestamp": 1754074383,
     "timestamp_local": 1754074383
-  },
-  {
-    "id": 83726,
-    "fecha": "01 de Aug del 2025 a las 01:29 PM",
-    "hora_utc": "2025-08-01 17:29",
-    "mensaje": "♦️Se afectará el servicio en el circuito de Catalina 2 por Vía Libre♦️",
-    "timestamp": 1754069363,
-    "timestamp_local": 1754069363
-  },
-  {
-    "id": 83725,
-    "fecha": "01 de Aug del 2025 a las 12:54 PM",
-    "hora_utc": "2025-08-01 16:54",
-    "mensaje": "🔷 Restablecidas las siguientes zonas pertenecientes al circuito de Río Seco que se encontraban afectados por Vía Libre:\n*Pinillos\n*Barbudos\n*Ponce🔷",
-    "timestamp": 1754067271,
-    "timestamp_local": 1754067271
-  },
-  {
-    "id": 83723,
-    "fecha": "01 de Aug del 2025 a las 12:47 PM",
-    "hora_utc": "2025-08-01 16:47",
-    "mensaje": "🔷 Restablecido el servicio en los circuitos de Melena 1 y 2 que se encontraban afectados por fusible fundido por 33 KVA 🔷",
-    "timestamp": 1754066845,
-    "timestamp_local": 1754066845
-  },
-  {
-    "id": 83722,
-    "fecha": "01 de Aug del 2025 a las 12:46 PM",
-    "hora_utc": "2025-08-01 16:46",
-    "mensaje": "♦️ Afectado el servicio en los circuitos de Melena 1 y 2 por fusible fundido por 33 KVA ♦️",
-    "timestamp": 1754066779,
-    "timestamp_local": 1754066779
-  },
-  {
-    "id": 83720,
-    "fecha": "01 de Aug del 2025 a las 11:59 AM",
-    "hora_utc": "2025-08-01 15:59",
-    "mensaje": "🔷 Restablecido el servicio en el circuito Bío 2 q se encontraba afectado por manipulación  🔷",
-    "timestamp": 1754063978,
-    "timestamp_local": 1754063978
   }
 ]
