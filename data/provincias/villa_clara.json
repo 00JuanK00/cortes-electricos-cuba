@@ -1,5 +1,29 @@
 [
   {
+    "id": 26458,
+    "fecha": "01 de Aug del 2025 a las 12:09 PM",
+    "hora_utc": "2025-08-01 16:09",
+    "mensaje": "Afectados 147 MW en la provincia, demanda máxima posible a apagar en estos momentos.",
+    "timestamp": 1754064543,
+    "timestamp_local": 1754064543
+  },
+  {
+    "id": 26457,
+    "fecha": "01 de Aug del 2025 a las 12:03 PM",
+    "hora_utc": "2025-08-01 16:03",
+    "mensaje": "💡Restablecido el servicio en el Cto 67(Remedios )",
+    "timestamp": 1754064210,
+    "timestamp_local": 1754064210
+  },
+  {
+    "id": 26456,
+    "fecha": "01 de Aug del 2025 a las 12:02 PM",
+    "hora_utc": "2025-08-01 16:02",
+    "mensaje": "🕛Actualización del servicio eléctrico en las últimas 6 horas.\n✍️El déficit de capacidad de generación osciló entre los 142 MW y los 155 MW.\n✍️De los 193 circuitos apagables que presenta la provincia, se mantienen afectados 132 circuitos.\n✍️ Cuenta con 155 afectaciones por averías secundarias y de servicio:\n Camajuaní (2)\n Corralillo (2)\n Manicaragua (22)\n Placetas (2)\n Quemado (1)\n Ranchuelo (1)\n Remedios (13) \n Sagua (3) \n Santa Clara (73)\n Santo Domingo (13)\n🛠️Se encuentran 12 averías en vías de solución.\n🛠️Pendientes a solucionar por el área técnica 11.\n✅La provincia no presenta averías primarias.",
+    "timestamp": 1754064151,
+    "timestamp_local": 1754064151
+  },
+  {
     "id": 26455,
     "fecha": "01 de Aug del 2025 a las 11:47 AM",
     "hora_utc": "2025-08-01 15:47",
@@ -126,29 +150,5 @@
     "mensaje": "💡 Restablecido el servicio eléctrico en los siguientes circuitos:\n🔹Bloque 11\nMunicipio Remedios:\n👉Ctos 67 y 152, 68 y 118 \n👉Ctos 69 y 70 Zuluetas\n👉Cto 143 Batey Heriberto Duquesne\n👉Cto 71 Buena Vista\nMunicipio Quemado:\n👉Ctos 164, 52 y 53 Quemado.",
     "timestamp": 1754055212,
     "timestamp_local": 1754055212
-  },
-  {
-    "id": 26438,
-    "fecha": "01 de Aug del 2025 a las 09:28 AM",
-    "hora_utc": "2025-08-01 13:28",
-    "mensaje": "⚠️Afectados por déficit de capacidad de generación los siguientes circuitos:\n\n🔹Bloque 9\nMunicipio Placetas:\n👉Cto 101 y 145 Cumbre\nMunicipio Santa Clara:\n👉Cto 16 Cubanacán\n👉Ctos 23 y 130 La Ceniza\n👉Cto 42 Manajanabo\nMunicipio Placetas\n👉Cto 139 Miller\n👉Cto 190 Oliver\n👉Cto 106 Falcón",
-    "timestamp": 1754054916,
-    "timestamp_local": 1754054916
-  },
-  {
-    "id": 26437,
-    "fecha": "01 de Aug del 2025 a las 08:51 AM",
-    "hora_utc": "2025-08-01 12:51",
-    "mensaje": "🔸Actualización del servicio eléctrico en la provincia🔸\n✍️De los 193 circuitos apagables que presenta la provincia, se mantienen afectados 176 circuitos.\n✍️En el momento de hacer esta nota la provincia tiene 152 MW de afectación por déficit de capacidad de generación, demanda máxima posible a apagar.\n✍️Cuenta con 116 afectaciones por averías secundarias y de servicio",
-    "timestamp": 1754052708,
-    "timestamp_local": 1754052708
-  },
-  {
-    "id": 26436,
-    "fecha": "01 de Aug del 2025 a las 08:36 AM",
-    "hora_utc": "2025-08-01 12:36",
-    "mensaje": "⚡Avería.⚡👉Afectado el Cto 6 (Vigia), perteneciente al Municipio Santa Clara por emergencia.",
-    "timestamp": 1754051793,
-    "timestamp_local": 1754051793
   }
 ]
