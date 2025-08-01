@@ -1,5 +1,29 @@
 [
   {
+    "id": 23756,
+    "fecha": "01 de Aug del 2025 a las 04:05 PM",
+    "hora_utc": "2025-08-01 20:05",
+    "mensaje": "‼️‼️En estos momentos tenemos afectados por déficit de capacidad de generación 138 MW en la provincia.",
+    "timestamp": 1754078700,
+    "timestamp_local": 1754078700
+  },
+  {
+    "id": 23755,
+    "fecha": "01 de Aug del 2025 a las 04:02 PM",
+    "hora_utc": "2025-08-01 20:02",
+    "mensaje": "**Circuitos no apagables que se afectarán debido al alto déficit:\n**\n- Circuitos Z1183, JI48, GI101 y CI185 se afectarán de 18:00 a 01:00\n\n- Circuitos Z130 se afectarán de 20:00 a 00:00\n\n- Circuitos 5223 se afectarán de 20:00 a 02:00",
+    "timestamp": 1754078570,
+    "timestamp_local": 1754078570
+  },
+  {
+    "id": 23754,
+    "fecha": "01 de Aug del 2025 a las 03:50 PM",
+    "hora_utc": "2025-08-01 19:50",
+    "mensaje": "⚠️⚠️\nEn estos momentos tenemos afectados por déficit de capacidad de generación 136 MW en la provincia.",
+    "timestamp": 1754077821,
+    "timestamp_local": 1754077821
+  },
+  {
     "id": 23753,
     "fecha": "01 de Aug del 2025 a las 03:27 PM",
     "hora_utc": "2025-08-01 19:27",
@@ -134,29 +158,5 @@
     "mensaje": "‼️En estos momentos tenemos afectados por déficit de capacidad de generación 126 MW en la provincia.",
     "timestamp": 1754060827,
     "timestamp_local": 1754060827
-  },
-  {
-    "id": 23736,
-    "fecha": "01 de Aug del 2025 a las 10:54 AM",
-    "hora_utc": "2025-08-01 14:54",
-    "mensaje": "⚠️Circuito MU4985 se encuentra en AVERÍA⚠️",
-    "timestamp": 1754060062,
-    "timestamp_local": 1754060062
-  },
-  {
-    "id": 23735,
-    "fecha": "01 de Aug del 2025 a las 10:45 AM",
-    "hora_utc": "2025-08-01 14:45",
-    "mensaje": "‼️En estos momentos tenemos afectados por déficit de capacidad de generación 122 MW en la provincia.",
-    "timestamp": 1754059544,
-    "timestamp_local": 1754059544
-  },
-  {
-    "id": 23734,
-    "fecha": "01 de Aug del 2025 a las 10:45 AM",
-    "hora_utc": "2025-08-01 14:45",
-    "mensaje": "**🔹Circuitos no apagables que se afectarán debido al alto déficit:\n**\n- Circuitos Z1183, Z130, GI101 y JI48 se afectarán de 11:00 a 13:00",
-    "timestamp": 1754059529,
-    "timestamp_local": 1754059529
   }
 ]

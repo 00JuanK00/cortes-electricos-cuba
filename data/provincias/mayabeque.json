@@ -1,5 +1,21 @@
 [
   {
+    "id": 83749,
+    "fecha": "01 de Aug del 2025 a las 04:01 PM",
+    "hora_utc": "2025-08-01 20:01",
+    "mensaje": "🔷 Restablecido el servicio en el circuito 3140 q se encontraba afectado por DAF 🔷",
+    "timestamp": 1754078472,
+    "timestamp_local": 1754078472
+  },
+  {
+    "id": 83748,
+    "fecha": "01 de Aug del 2025 a las 04:00 PM",
+    "hora_utc": "2025-08-01 20:00",
+    "mensaje": "♦️ Disparado el circuito 3140 por DAF ♦️",
+    "timestamp": 1754078455,
+    "timestamp_local": 1754078455
+  },
+  {
     "id": 83746,
     "fecha": "01 de Aug del 2025 a las 03:39 PM",
     "hora_utc": "2025-08-01 19:39",
@@ -118,13 +134,5 @@
     "mensaje": "🚨Por déficit de capacidad de generación se afecta el servicio en el siguiente circuito:\n*Fénix 🚨",
     "timestamp": 1754074776,
     "timestamp_local": 1754074776
-  },
-  {
-    "id": 83728,
-    "fecha": "01 de Aug del 2025 a las 02:53 PM",
-    "hora_utc": "2025-08-01 18:53",
-    "mensaje": "🔷♦️Se restablece el servicio en el siguiente circuito que se encontraba afectado por déficit de capacidad de generación:\n*3140 ♦️🔷",
-    "timestamp": 1754074383,
-    "timestamp_local": 1754074383
   }
 ]
