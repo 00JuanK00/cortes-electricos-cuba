@@ -1,5 +1,21 @@
 [
   {
+    "id": 42512,
+    "fecha": "01 de Aug del 2025 a las 01:00 AM",
+    "hora_utc": "2025-08-01 05:00",
+    "mensaje": "🔴Estimados clientes se les informa que queda afectado por Déficit de Capacidad de Generación el circuito 10 + 3 .",
+    "timestamp": 1754024409,
+    "timestamp_local": 1754024409
+  },
+  {
+    "id": 42511,
+    "fecha": "01 de Aug del 2025 a las 12:46 AM",
+    "hora_utc": "2025-08-01 04:46",
+    "mensaje": "🔴Estimados clientes se les informa que queda afectado por Déficit de Capacidad de Generación el circuito 24 .",
+    "timestamp": 1754023591,
+    "timestamp_local": 1754023591
+  },
+  {
     "id": 42510,
     "fecha": "01 de Aug del 2025 a las 12:31 AM",
     "hora_utc": "2025-08-01 04:31",
@@ -134,21 +150,5 @@
     "mensaje": "🔴Se les informa a nuestros clientes que se afecta por Déficit de Capacidad de Generación la línea 5390 La Maya - ll Frente.",
     "timestamp": 1753997840,
     "timestamp_local": 1753997840
-  },
-  {
-    "id": 42491,
-    "fecha": "31 de Jul del 2025 a las 05:35 PM",
-    "hora_utc": "2025-07-31 21:35",
-    "mensaje": "🔴 Circuito en avería:                                                                                                                         Sucede si un circuito se interrumpe por causa de un defecto en un cable conductor de corriente (fase o neutro), un fusible fundido o disyuntor. En sistemas trifásicos una falla puede implicar una fase, más de una fase con la tierra o puede ocurrir solo entre fases",
-    "timestamp": 1753997707,
-    "timestamp_local": 1753997707
-  },
-  {
-    "id": 42490,
-    "fecha": "31 de Jul del 2025 a las 05:34 PM",
-    "hora_utc": "2025-07-31 21:34",
-    "mensaje": "🔴Se les informa a nuestros clientes que se encuentra en avería la línea 4390 Palma - Contramaestre .",
-    "timestamp": 1753997668,
-    "timestamp_local": 1753997668
   }
 ]

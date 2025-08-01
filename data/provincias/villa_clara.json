@@ -1,5 +1,21 @@
 [
   {
+    "id": 26416,
+    "fecha": "01 de Aug del 2025 a las 01:10 AM",
+    "hora_utc": "2025-08-01 05:10",
+    "mensaje": "💡Será restablecido el servicio eléctrico en los siguientes circuitos:\n🔹Bloque 6\nMunicipio Ranchuelo:\nCto 92 Esperanza (Pueblo)\nCto 93 Esperanza (Campo)",
+    "timestamp": 1754025013,
+    "timestamp_local": 1754025013
+  },
+  {
+    "id": 26415,
+    "fecha": "01 de Aug del 2025 a las 01:01 AM",
+    "hora_utc": "2025-08-01 05:01",
+    "mensaje": "Afectados 161 MW en la provincia, demanda máxima posible a apagar en estos momentos.",
+    "timestamp": 1754024469,
+    "timestamp_local": 1754024469
+  },
+  {
     "id": 26414,
     "fecha": "01 de Aug del 2025 a las 12:04 AM",
     "hora_utc": "2025-08-01 04:04",
@@ -134,21 +150,5 @@
     "mensaje": "⚠️Serán afectados por déficit de capacidad de generación los siguientes circuitos:\n🔹Bloque 5\nLínea 1715 \nMunicipio Santo Domingo:\nCto 134\nCtos 87 y 96 Bermejal\nCto 187 Batey Carlos Baliño\nCto 82 Ulacia\nCto 84 Rodrigo\n🔹Bloque 11\nMunicipio Quemado:\nCtos 164, 52 y 53 Quemado.\nCto 196 Batey Panchito Gómez Toro.\nMunicipio Corralillo:\nCto 55 Rancho Veloz",
     "timestamp": 1753998172,
     "timestamp_local": 1753998172
-  },
-  {
-    "id": 26396,
-    "fecha": "31 de Jul del 2025 a las 05:04 PM",
-    "hora_utc": "2025-07-31 21:04",
-    "mensaje": "Afectados 163 MW en la provincia, demanda máxima posible a apagar en estos momentos.",
-    "timestamp": 1753995890,
-    "timestamp_local": 1753995890
-  },
-  {
-    "id": 26395,
-    "fecha": "31 de Jul del 2025 a las 04:47 PM",
-    "hora_utc": "2025-07-31 20:47",
-    "mensaje": "⚠️Serán afectados por déficit de capacidad de generación los siguientes circuitos pertenecientes al municipio Santa Clara:\nCto 2 (Consejo- Centro)\nCtos 26 y 141 (Manuelita)\nCto 39 (Sandino)\nCto 6 (Vigía)\nCtos 15 y 27 (Maleza)\nCto 153 (EIDE)",
-    "timestamp": 1753994850,
-    "timestamp_local": 1753994850
   }
 ]
