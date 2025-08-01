@@ -1,5 +1,21 @@
 [
   {
+    "id": 26403,
+    "fecha": "31 de Jul del 2025 a las 08:05 PM",
+    "hora_utc": "2025-08-01 00:05",
+    "mensaje": "⚠️Afectado por déficit de capacidad de generación el Cto 4 (Centro), perteneciente al municipio Santa Clara.",
+    "timestamp": 1754006723,
+    "timestamp_local": 1754006723
+  },
+  {
+    "id": 26402,
+    "fecha": "31 de Jul del 2025 a las 08:00 PM",
+    "hora_utc": "2025-08-01 00:00",
+    "mensaje": "🔸Actualización del servicio eléctrico en la provincia🔸\n✍️De los 193 circuitos apagables que presenta la provincia, se mantienen afectados 176 circuitos.\n✍️En el momento de hacer esta nota la provincia tiene 184 MW de afectación por déficit de capacidad de generación, demanda máxima posible a apagar.\n✍️Cuenta con 145 afectaciones por averías secundarias y de servicio",
+    "timestamp": 1754006458,
+    "timestamp_local": 1754006458
+  },
+  {
     "id": 26401,
     "fecha": "31 de Jul del 2025 a las 07:10 PM",
     "hora_utc": "2025-07-31 23:10",
@@ -134,13 +150,5 @@
     "mensaje": "💡Restablecido el servicio eléctrico en el Cto 169 (Condado), perteneciente al municipio Santa Clara.",
     "timestamp": 1753984750,
     "timestamp_local": 1753984750
-  },
-  {
-    "id": 26382,
-    "fecha": "31 de Jul del 2025 a las 01:48 PM",
-    "hora_utc": "2025-07-31 17:48",
-    "mensaje": "⚠️Afectadas por DAF las líneas 6580 y 1955:\nLínea 6580 \nMunicipio Camajuaní:\nCtos 77, 59 y 185 Vueltas \nLínea 1955  \nMunicipio Encrucijada:\nCto 122 Encrucijada \nCto 123 Vizcaya \nCto 142 Comunidad La Sierra \nCto 126 Batey Emilio Córdova\nCto 125 Cavarrocas\nCto 124 El Santo\nMunicipio Camajuaní:\nCto 78 Jutiero",
-    "timestamp": 1753984093,
-    "timestamp_local": 1753984093
   }
 ]
