@@ -1,5 +1,21 @@
 [
   {
+    "id": 26443,
+    "fecha": "01 de Aug del 2025 a las 10:12 AM",
+    "hora_utc": "2025-08-01 14:12",
+    "mensaje": "🔸Actualización del servicio eléctrico en la provincia🔸\n✍️De los 193 circuitos apagables que presenta la provincia, se mantienen afectados 176 circuitos.\n✍️En el momento de hacer esta nota la provincia tiene 149 MW de afectación por déficit de capacidad de generación, demanda máxima posible a apagar.\n✍️Cuenta con 122 afectaciones por averías secundarias y de servicio",
+    "timestamp": 1754057572,
+    "timestamp_local": 1754057572
+  },
+  {
+    "id": 26442,
+    "fecha": "01 de Aug del 2025 a las 10:06 AM",
+    "hora_utc": "2025-08-01 14:06",
+    "mensaje": "⚠️Afectados por déficit de capacidad de generación los siguientes circuitos:\n🔹Bloque 5\nMunicipio Corralillo:\n👉Ctos 58 y 159\n👉Cto 57 Motembo\n👉Cto 56 Yabre\n👉Cto 60 La Sierra",
+    "timestamp": 1754057187,
+    "timestamp_local": 1754057187
+  },
+  {
     "id": 26441,
     "fecha": "01 de Aug del 2025 a las 09:46 AM",
     "hora_utc": "2025-08-01 13:46",
@@ -134,21 +150,5 @@
     "mensaje": "⚠️Se encuentran disparados los Ctos 109 y 150 pertenecientes al municipio Manicaragua.",
     "timestamp": 1754035037,
     "timestamp_local": 1754035037
-  },
-  {
-    "id": 26423,
-    "fecha": "01 de Aug del 2025 a las 03:50 AM",
-    "hora_utc": "2025-08-01 07:50",
-    "mensaje": "⚡Avería⚡\nAfectado el Cto 117 perteneciente al municipio Cifuentes, por presencia de fuego en cable primario.",
-    "timestamp": 1754034619,
-    "timestamp_local": 1754034619
-  },
-  {
-    "id": 26422,
-    "fecha": "01 de Aug del 2025 a las 03:28 AM",
-    "hora_utc": "2025-08-01 07:28",
-    "mensaje": "💡Restablecido el servicio eléctrico en el siguiente circuito:\n🔹Bloque 2  \nMunicipio Camajuaní:\nCtos 72 y 129\nCto 75 La Quinta\nCto 157 Luis Arcos Bergnes\nCtos 76 y 90 Vega Alta \nMunicipio Cifuentes:\nCtos 114 y 117\nCtos 116 y 155 Mata\nCto 186 Batey Unidad Proletaria\nCto 184 Sitio Grande \nMunicipio Santo Domingo:\nCto 195 Batey George Washington\nCtos 83 y 165 Manacas\nCtos 85 y 86 Pajarito\nCtos 160 y 161 Cascajal",
-    "timestamp": 1754033327,
-    "timestamp_local": 1754033327
   }
 ]
