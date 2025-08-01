@@ -1,5 +1,13 @@
 [
   {
+    "id": 26451,
+    "fecha": "01 de Aug del 2025 a las 10:59 AM",
+    "hora_utc": "2025-08-01 14:59",
+    "mensaje": "⚠️Afectados por déficit de capacidad de generación los siguientes circuitos:\n🔹Bloque 10\nMunicipio Manicaragua:\n👉Ctos 113 y 137 La Campana\n👉Cto 112 Hoyo Manicaragua\nMunicipio Santa Clara:\n👉Ctos 15 y 27 (Maleza)",
+    "timestamp": 1754060391,
+    "timestamp_local": 1754060391
+  },
+  {
     "id": 26450,
     "fecha": "01 de Aug del 2025 a las 10:43 AM",
     "hora_utc": "2025-08-01 14:43",
@@ -11,7 +19,7 @@
     "id": 26448,
     "fecha": "01 de Aug del 2025 a las 10:30 AM",
     "hora_utc": "2025-08-01 14:30",
-    "mensaje": "⚡️Disparo de la línea 1955 por DAF, afectando los siguientes circuitos:\nMunicipio Encrucijada \n👉Cto 122 Encrucijada\n👉Cto 123 Vizcaya \n👉Cto 142 comunidad la Sierra \n👉Cto 126 Batey Emilio Córdoba \n👉Cto 125 Cavarrocas \n👉Cto 124 El Santo",
+    "mensaje": "⚡️Disparo de la línea 1955 por DAF, afectando los siguientes circuitos:\nMunicipio Encrucijada \n👉Cto 123 Vizcaya \n👉Cto 142 comunidad la Sierra \n👉Cto 126 Batey Emilio Córdoba \n👉Cto 125 Cavarrocas \n👉Cto 124 El Santo",
     "timestamp": 1754058617,
     "timestamp_local": 1754058617
   },
@@ -134,13 +142,5 @@
     "mensaje": "📣Resumen de afectaciones por déficit de capacidad de generación el 31/07/2025:                    \n \n✍️En el día de ayer se afecta el servicio por déficit de generación de forma ininterrumpida durante todo el día, con una afectación máxima de 186 MW en el horario pico.\n \n✍️Actualmente tenemos 152 MW afectados por déficit de generación.  \n \n✍️Tiempo promedio de afectación 14:59 horas\n \n✍️Existen en este instante 104 interrupciones al servicio eléctrico por atender. Siendo Santa Clara con 56, Manicaragua 19, Santo Domingo 13 y Remedios 6 los municipios de mayor Incidencia.",
     "timestamp": 1754049089,
     "timestamp_local": 1754049089
-  },
-  {
-    "id": 26431,
-    "fecha": "01 de Aug del 2025 a las 07:41 AM",
-    "hora_utc": "2025-08-01 11:41",
-    "mensaje": "Afectados 152 MW en la provincia, demanda máxima posible a apagar en estos momentos.",
-    "timestamp": 1754048518,
-    "timestamp_local": 1754048518
   }
 ]

@@ -1,5 +1,21 @@
 [
   {
+    "id": 83716,
+    "fecha": "01 de Aug del 2025 a las 10:59 AM",
+    "hora_utc": "2025-08-01 14:59",
+    "mensaje": "♦️ Afectado el servicio en el circuito Bío 2 por manipulación ♦️",
+    "timestamp": 1754060372,
+    "timestamp_local": 1754060372
+  },
+  {
+    "id": 83715,
+    "fecha": "01 de Aug del 2025 a las 10:58 AM",
+    "hora_utc": "2025-08-01 14:58",
+    "mensaje": "🔷 Restablecido el servicio en el circuito 3590 q se encontraba afectado por DAF 🔷",
+    "timestamp": 1754060311,
+    "timestamp_local": 1754060311
+  },
+  {
     "id": 83714,
     "fecha": "01 de Aug del 2025 a las 10:49 AM",
     "hora_utc": "2025-08-01 14:49",
@@ -142,21 +158,5 @@
     "mensaje": "🔷♦️Se restablece el servicio en el siguiente circuito que se encontraba afectado por déficit de capacidad de generación:\n*Bío 2 ♦️🔷",
     "timestamp": 1754049839,
     "timestamp_local": 1754049839
-  },
-  {
-    "id": 83695,
-    "fecha": "01 de Aug del 2025 a las 08:03 AM",
-    "hora_utc": "2025-08-01 12:03",
-    "mensaje": "🚨Por déficit de capacidad de generación se afecta el servicio en el siguiente circuito:\n*Bío-1 🚨",
-    "timestamp": 1754049799,
-    "timestamp_local": 1754049799
-  },
-  {
-    "id": 83694,
-    "fecha": "01 de Aug del 2025 a las 08:01 AM",
-    "hora_utc": "2025-08-01 12:01",
-    "mensaje": "🚨Por déficit de capacidad de generación se afecta el servicio en los siguientes circuitos:\n*San Felipe\n*Palomo🚨",
-    "timestamp": 1754049688,
-    "timestamp_local": 1754049688
   }
 ]
