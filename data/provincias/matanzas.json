@@ -1,5 +1,37 @@
 [
   {
+    "id": 23706,
+    "fecha": "01 de Aug del 2025 a las 12:13 AM",
+    "hora_utc": "2025-08-01 04:13",
+    "mensaje": "‼️‼️‼️Tenemos una afectación de 179 MW por déficit de capacidad de generación en la provincia.",
+    "timestamp": 1754021621,
+    "timestamp_local": 1754021621
+  },
+  {
+    "id": 23705,
+    "fecha": "01 de Aug del 2025 a las 12:09 AM",
+    "hora_utc": "2025-08-01 04:09",
+    "mensaje": "‼️‼️‼️Tenemos una afectación de 182 MW por déficit de capacidad de generación en la provincia.",
+    "timestamp": 1754021340,
+    "timestamp_local": 1754021340
+  },
+  {
+    "id": 23704,
+    "fecha": "01 de Aug del 2025 a las 12:00 AM",
+    "hora_utc": "2025-08-01 04:00",
+    "mensaje": "✅👷** Solucionada la Avería del Circuito MI1504 y MI1455 **que da servicio a Cítrico, Torriente, San Joaquín y Pueblo Nuevo desde Calle Comercio hasta San Fernando y desde la calle Monserrate hasta la calle San Carlos.",
+    "timestamp": 1754020857,
+    "timestamp_local": 1754020857
+  },
+  {
+    "id": 23703,
+    "fecha": "31 de Jul del 2025 a las 11:13 PM",
+    "hora_utc": "2025-08-01 03:13",
+    "mensaje": "‼️‼️‼️Nos mantenemos con una afectación de 194 MW por déficit de capacidad de generación en la provincia.",
+    "timestamp": 1754018001,
+    "timestamp_local": 1754018001
+  },
+  {
     "id": 23702,
     "fecha": "31 de Jul del 2025 a las 10:52 PM",
     "hora_utc": "2025-08-01 02:52",
@@ -126,37 +158,5 @@
     "mensaje": "✅✅✅**Servicio restablecido✅✅✅**\n\n🔌 Circuito 4604 que da servicio a Martí-Itabo-Hoyo Colorado.**\n\nEl restablecimiento del servicio eléctrico dependerá del comportamiento de la demanda y la disponibilidad de Sistema Eléctrico.**",
     "timestamp": 1754000295,
     "timestamp_local": 1754000295
-  },
-  {
-    "id": 23686,
-    "fecha": "31 de Jul del 2025 a las 06:09 PM",
-    "hora_utc": "2025-07-31 22:09",
-    "mensaje": "‼️‼️Tenemos una afectación de 147 MW por déficit de capacidad de generación en la provincia.",
-    "timestamp": 1753999784,
-    "timestamp_local": 1753999784
-  },
-  {
-    "id": 23685,
-    "fecha": "31 de Jul del 2025 a las 05:26 PM",
-    "hora_utc": "2025-07-31 21:26",
-    "mensaje": "**Circuitos no apagables que se afectarán debido al alto déficit:**\n\n- Circuitos MI1453 se afectarán de 18:00 a 02:00\n\n- Circuitos Z130 se afectarán de 20:00 a 00:00\n- Circuitos 5223 se afectarán de 20:00 a 02:00\n\nAl amanecer:\n- Circuito CI185 se afectará de 04:00 a 07:00",
-    "timestamp": 1753997209,
-    "timestamp_local": 1753997209
-  },
-  {
-    "id": 23684,
-    "fecha": "31 de Jul del 2025 a las 05:16 PM",
-    "hora_utc": "2025-07-31 21:16",
-    "mensaje": "**⚠Disparo automático por frecuencia (DAF) del circuito 4945 que da servicio a Cidra, Sabanilla.\n**\nUn disparo por frecuencia o Descarga Automática por Frecuencia (DAF), es una protección que posee el sistema eléctrico para cuando la frecuencia llega a valores mínimos permisibles que ponen en peligro la estabilidad de todo el sistema en su conjunto y provoca una desconexión automática de algunos circuitos hasta que se vuelva a recuperar su valor nominal a 60Hz o ciclos por segundo.",
-    "timestamp": 1753996578,
-    "timestamp_local": 1753996578
-  },
-  {
-    "id": 23683,
-    "fecha": "31 de Jul del 2025 a las 04:50 PM",
-    "hora_utc": "2025-07-31 20:50",
-    "mensaje": "‼️‼️Tenemos una afectación de 140 MW por déficit de capacidad de generación en la provincia.",
-    "timestamp": 1753995007,
-    "timestamp_local": 1753995007
   }
 ]

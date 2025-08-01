@@ -1,5 +1,21 @@
 [
   {
+    "id": 42510,
+    "fecha": "01 de Aug del 2025 a las 12:31 AM",
+    "hora_utc": "2025-08-01 04:31",
+    "mensaje": "🔴Estimados clientes se les informa que queda afectado por por Déficit de Capacidad de Generación el circuito 11.",
+    "timestamp": 1754022680,
+    "timestamp_local": 1754022680
+  },
+  {
+    "id": 42509,
+    "fecha": "31 de Jul del 2025 a las 11:31 PM",
+    "hora_utc": "2025-08-01 03:31",
+    "mensaje": "🔴Estimados clientes se les informa que quedan afectados por Déficit de Capacidad de Generación  la línea de San Luis y el circuito 1 de Palma .👍",
+    "timestamp": 1754019086,
+    "timestamp_local": 1754019086
+  },
+  {
     "id": 42508,
     "fecha": "31 de Jul del 2025 a las 10:33 PM",
     "hora_utc": "2025-08-01 02:33",
@@ -134,21 +150,5 @@
     "mensaje": "🔴Se les informa a nuestros clientes que se encuentra en avería la línea 4390 Palma - Contramaestre .",
     "timestamp": 1753997668,
     "timestamp_local": 1753997668
-  },
-  {
-    "id": 42489,
-    "fecha": "31 de Jul del 2025 a las 05:12 PM",
-    "hora_utc": "2025-07-31 21:12",
-    "mensaje": "👉Informamos a nuestros  clientes que quedan afectados por Déficit de Capacidad de Generación el circuito 12 de Santiago  , pedimos disculpas por las molestias ocasionadas.",
-    "timestamp": 1753996326,
-    "timestamp_local": 1753996326
-  },
-  {
-    "id": 42488,
-    "fecha": "31 de Jul del 2025 a las 04:36 PM",
-    "hora_utc": "2025-07-31 20:36",
-    "mensaje": "🔴. Disparo Automático de Frecuencia (DAF):\nOcurre cuando la frecuencia está por debajo de los 60Hz y determinada carga o circuito se desconecta del sistema automáticamente hasta que se estabilice",
-    "timestamp": 1753994186,
-    "timestamp_local": 1753994186
   }
 ]
