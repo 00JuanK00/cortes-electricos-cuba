@@ -1,5 +1,37 @@
 [
   {
+    "id": 26466,
+    "fecha": "01 de Aug del 2025 a las 02:46 PM",
+    "hora_utc": "2025-08-01 18:46",
+    "mensaje": "Afectados 137 MW en la provincia, demanda máxima posible a apagar en estos momentos.",
+    "timestamp": 1754073973,
+    "timestamp_local": 1754073973
+  },
+  {
+    "id": 26465,
+    "fecha": "01 de Aug del 2025 a las 02:44 PM",
+    "hora_utc": "2025-08-01 18:44",
+    "mensaje": "💡Será restablecido el servicio eléctrico en los siguientes circuitos:\n🔹Bloque 2 \nMunicipio Camajuani \n👉Ctos 72 y 129 Camajuani \n👉Cto 75 La quinta \n👉Cto 157 Luis arcos Bergnes \n👉Cto 76 y 90 Vega alta \nMunicipio Cifuentes \n👉Cto 114 y 117\n👉Cto 116 y 155 Mata \n👉Cto 186 Batey Unidad Proletaria  \n👉Cto 184 Sitio Grande\nMunicipio Santo Domingo\n👉Cto 195 Batey George Washington\n👉Cto 83 y 165 Manacas \n👉Cto 85 y 86 Pajarito\n👉Cto 161 y 160 Cascajal",
+    "timestamp": 1754073895,
+    "timestamp_local": 1754073895
+  },
+  {
+    "id": 26464,
+    "fecha": "01 de Aug del 2025 a las 02:43 PM",
+    "hora_utc": "2025-08-01 18:43",
+    "mensaje": "💡Restablecido el servicio eléctrico en el siguiente circuito:\n🔹Bloque 3\nMunicipio Santa Clara:\n👉Cto 6 (Vigía)",
+    "timestamp": 1754073811,
+    "timestamp_local": 1754073811
+  },
+  {
+    "id": 26463,
+    "fecha": "01 de Aug del 2025 a las 02:42 PM",
+    "hora_utc": "2025-08-01 18:42",
+    "mensaje": "⚠️ Afectado por déficit de capacidad de generación el siguiente circuito:\n🔹Bloque 3\nMunicipio Santa Clara\n👉Cto 170 (José Martí)\n👉Cto 171 (Los Caneyes)",
+    "timestamp": 1754073720,
+    "timestamp_local": 1754073720
+  },
+  {
     "id": 26462,
     "fecha": "01 de Aug del 2025 a las 02:12 PM",
     "hora_utc": "2025-08-01 18:12",
@@ -118,37 +150,5 @@
     "mensaje": "💡Será restablecido el servicio eléctrico en el circuito 39 Sandino perteneciente al municipio de Santa Clara.",
     "timestamp": 1754058497,
     "timestamp_local": 1754058497
-  },
-  {
-    "id": 26446,
-    "fecha": "01 de Aug del 2025 a las 10:27 AM",
-    "hora_utc": "2025-08-01 14:27",
-    "mensaje": "⚠️ Afectado por déficit de capacidad de generación el siguiente circuito:\n🔹Bloque 9\nMunicipio Santa Clara\n👉Cto 6 Vigía",
-    "timestamp": 1754058454,
-    "timestamp_local": 1754058454
-  },
-  {
-    "id": 26445,
-    "fecha": "01 de Aug del 2025 a las 10:24 AM",
-    "hora_utc": "2025-08-01 14:24",
-    "mensaje": "📣Recordamos a nuestros clientes\n \n1. Si presenta o conoce alguna avería, haga su reporte al Centro de Atención Telefónico mediante el 18888, estamos a su servicio.\n2. Conocer de forma exacta la dirección de su vivienda (número de casa, calle, entre calles, reparto, localidad)\n3. Ubicar un punto de referencia, que permita llegar hasta su vivienda con mayor rapidez (lugar o persona reconocida en la zona)\n4. En caso de un cable caído, aunque usted crea que no está energizado, NO LO TOQUE. Repórtelo y preserve el lugar, hasta que llegue el personal de la Empresa.\n5. Anote el número de su reporte para ser utilizado en caso de reclamaciones, o para comprobar el estado del mismo.\n6. Si usted tiene servicio eléctrico, pero existen variaciones del voltaje, desconecte los equipos, para que no se dañen.",
-    "timestamp": 1754058296,
-    "timestamp_local": 1754058296
-  },
-  {
-    "id": 26444,
-    "fecha": "01 de Aug del 2025 a las 10:23 AM",
-    "hora_utc": "2025-08-01 14:23",
-    "mensaje": "💡Restablecido el servicio eléctrico en los siguientes circuitos:\n🔹Bloque 3\nMunicipio Santa Clara:\n👉Cto 167 (Virginia)\n👉Cto 170 (José Martí)\n👉Cto 7 (Universidad)  \n👉Cto 131 (Las Antillas)",
-    "timestamp": 1754058225,
-    "timestamp_local": 1754058225
-  },
-  {
-    "id": 26443,
-    "fecha": "01 de Aug del 2025 a las 10:12 AM",
-    "hora_utc": "2025-08-01 14:12",
-    "mensaje": "🔸Actualización del servicio eléctrico en la provincia🔸\n✍️De los 193 circuitos apagables que presenta la provincia, se mantienen afectados 176 circuitos.\n✍️En el momento de hacer esta nota la provincia tiene 149 MW de afectación por déficit de capacidad de generación, demanda máxima posible a apagar.\n✍️Cuenta con 122 afectaciones por averías secundarias y de servicio",
-    "timestamp": 1754057572,
-    "timestamp_local": 1754057572
   }
 ]
