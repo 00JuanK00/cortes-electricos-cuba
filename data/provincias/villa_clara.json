@@ -1,5 +1,29 @@
 [
   {
+    "id": 26423,
+    "fecha": "01 de Aug del 2025 a las 03:50 AM",
+    "hora_utc": "2025-08-01 07:50",
+    "mensaje": "⚡Avería⚡\nAfectado el Cto 117 perteneciente al municipio Cifuentes, por presencia de fuego en cable primario.",
+    "timestamp": 1754034619,
+    "timestamp_local": 1754034619
+  },
+  {
+    "id": 26422,
+    "fecha": "01 de Aug del 2025 a las 03:28 AM",
+    "hora_utc": "2025-08-01 07:28",
+    "mensaje": "💡Restablecido el servicio eléctrico en el siguiente circuito:\n🔹Bloque 2  \nMunicipio Camajuaní:\nCtos 72 y 129\nCto 75 La Quinta\nCto 157 Luis Arcos Bergnes\nCtos 76 y 90 Vega Alta \nMunicipio Cifuentes:\nCtos 114 y 117\nCtos 116 y 155 Mata\nCto 186 Batey Unidad Proletaria\nCto 184 Sitio Grande \nMunicipio Santo Domingo:\nCto 195 Batey George Washington\nCtos 83 y 165 Manacas\nCtos 85 y 86 Pajarito\nCtos 160 y 161 Cascajal",
+    "timestamp": 1754033327,
+    "timestamp_local": 1754033327
+  },
+  {
+    "id": 26421,
+    "fecha": "01 de Aug del 2025 a las 03:19 AM",
+    "hora_utc": "2025-08-01 07:19",
+    "mensaje": "Afectados 150 MW en la provincia, demanda máxima posible a apagar en estos momentos.",
+    "timestamp": 1754032747,
+    "timestamp_local": 1754032747
+  },
+  {
     "id": 26420,
     "fecha": "01 de Aug del 2025 a las 02:20 AM",
     "hora_utc": "2025-08-01 06:20",
@@ -126,29 +150,5 @@
     "mensaje": "💡Restablecido el servicio eléctrico en los siguientes circuitos:\n🔹Bloque 4 \nMunicipio Santa Clara:\nCto 5 (Dobarganes)\nCto 17 (Subplanta) \nCtos 37 y 38 (Yabú)    \nCto 9 (Moldes y Troqueles)\nCto 133 (Cafetera)",
     "timestamp": 1754009735,
     "timestamp_local": 1754009735
-  },
-  {
-    "id": 26403,
-    "fecha": "31 de Jul del 2025 a las 08:05 PM",
-    "hora_utc": "2025-08-01 00:05",
-    "mensaje": "⚠️Afectado por déficit de capacidad de generación el Cto 4 (Centro), perteneciente al municipio Santa Clara.",
-    "timestamp": 1754006723,
-    "timestamp_local": 1754006723
-  },
-  {
-    "id": 26402,
-    "fecha": "31 de Jul del 2025 a las 08:00 PM",
-    "hora_utc": "2025-08-01 00:00",
-    "mensaje": "🔸Actualización del servicio eléctrico en la provincia🔸\n✍️De los 193 circuitos apagables que presenta la provincia, se mantienen afectados 176 circuitos.\n✍️En el momento de hacer esta nota la provincia tiene 184 MW de afectación por déficit de capacidad de generación, demanda máxima posible a apagar.\n✍️Cuenta con 145 afectaciones por averías secundarias y de servicio",
-    "timestamp": 1754006458,
-    "timestamp_local": 1754006458
-  },
-  {
-    "id": 26401,
-    "fecha": "31 de Jul del 2025 a las 07:10 PM",
-    "hora_utc": "2025-07-31 23:10",
-    "mensaje": "⚠️Afectados por déficit de capacidad de generación los siguientes circuitos:\n🔹Bloque 4\nMunicipio Santa Clara:\nCto 5 (Dobarganes)\nCto 17 (Subplanta) \nCtos 37 y 38 (Yabú)     \nCto 9 (Moldes y Troqueles)\nCto 133 (Cafetera)",
-    "timestamp": 1754003436,
-    "timestamp_local": 1754003436
   }
 ]
