@@ -1,5 +1,29 @@
 [
   {
+    "id": 26435,
+    "fecha": "01 de Aug del 2025 a las 08:10 AM",
+    "hora_utc": "2025-08-01 12:10",
+    "mensaje": "💡Restablecido el servicio eléctrico en el siguiente circuito:\n\n🔹Bloque 7\nMunicipio Camajuaní:\n👉Ctos 73 y 156 \n👉Cto 74 José María Pérez\n🔹Bloque 8\nMunicipio Sagua:\n👉Ctos 43 y 50 y 51\n👉Cto 147 Villa Alegre \n👉Cto 44 Isabela",
+    "timestamp": 1754050223,
+    "timestamp_local": 1754050223
+  },
+  {
+    "id": 26434,
+    "fecha": "01 de Aug del 2025 a las 07:52 AM",
+    "hora_utc": "2025-08-01 11:52",
+    "mensaje": "🚨Nota informativa🚨\n\n👉Situación del SEN para el 1 de agosto de 2025.\n\n\n\n👉En el día de ayer se afectó el servicio las 24 horas y se mantuvo afectado durante toda la madrugada de hoy. La máxima afectación por déficit de capacidad de generación en el día de ayer fue de 1895 MW a las 21:10 horas, no coincidente con la hora de máxima demanda. \n\n👉La producción de energía de los 24 nuevos parques solares fotovoltaicos fue de 2708 MWh, con 576 MW como máxima potencia entregada en el horario de la media con esta fuente de generación. \n\n👉La disponibilidad del SEN a las 07:00 horas es de 1850 MW  la demanda 3226 MW con 1424 MW afectados por déficit de capacidad, en el horario de la media se estima una afectación de 1350 MW.\n\n👉Se encuentran en avería la unidad de la CTE Guiteras, la unidad 4 de Energas Varadero, la unidad 6 de la CTE Rente y la unidad 2 de la CTE Felton. Se encuentran en mantenimiento la unidad 2 de la CTE Santa Cruz, la unidad 4 de la CTE Carlos Manuel de Céspedes en Cienfuegos y  la unidad 5 de la CTE Renté. \n\n👉Las limitaciones en la generación térmica son de 322 MW. \n\n👉Se encuentran fuera de servicio por combustible   80 centrales de generación distribuida con 666 MW y 27 MW en la Patana de Regla, para un total de 693 MW afectados por esta causa.\n\n👉Para el pico se estima la entrada de 4 motores en la patana de Regla con 27 MW.\n\n👉Con este pronóstico, en el horario pico se estima una disponibilidad de 1877 MW y una demanda máxima de                   3650 MW, para un déficit de 1773 MW, por lo que de mantenerse las condiciones previstas se pronostica una afectación de 1843 MW en este horario.\n\nUNE-MINEM---07:00 horas",
+    "timestamp": 1754049176,
+    "timestamp_local": 1754049176
+  },
+  {
+    "id": 26433,
+    "fecha": "01 de Aug del 2025 a las 07:51 AM",
+    "hora_utc": "2025-08-01 11:51",
+    "mensaje": "📣Resumen de afectaciones por déficit de capacidad de generación el 31/07/2025:                    \n \n✍️En el día de ayer se afecta el servicio por déficit de generación de forma ininterrumpida durante todo el día, con una afectación máxima de 186 MW en el horario pico.\n \n✍️Actualmente tenemos 152 MW afectados por déficit de generación.  \n \n✍️Tiempo promedio de afectación 14:59 horas\n \n✍️Existen en este instante 104 interrupciones al servicio eléctrico por atender. Siendo Santa Clara con 56, Manicaragua 19, Santo Domingo 13 y Remedios 6 los municipios de mayor Incidencia.",
+    "timestamp": 1754049089,
+    "timestamp_local": 1754049089
+  },
+  {
     "id": 26431,
     "fecha": "01 de Aug del 2025 a las 07:41 AM",
     "hora_utc": "2025-08-01 11:41",
@@ -126,29 +150,5 @@
     "mensaje": "💡Será restablecido el servicio eléctrico en los siguientes circuitos:\n🔹Bloque 6\nMunicipio Ranchuelo:\nCto 92 Esperanza (Pueblo)\nCto 93 Esperanza (Campo)",
     "timestamp": 1754025013,
     "timestamp_local": 1754025013
-  },
-  {
-    "id": 26415,
-    "fecha": "01 de Aug del 2025 a las 01:01 AM",
-    "hora_utc": "2025-08-01 05:01",
-    "mensaje": "Afectados 161 MW en la provincia, demanda máxima posible a apagar en estos momentos.",
-    "timestamp": 1754024469,
-    "timestamp_local": 1754024469
-  },
-  {
-    "id": 26414,
-    "fecha": "01 de Aug del 2025 a las 12:04 AM",
-    "hora_utc": "2025-08-01 04:04",
-    "mensaje": "🕛Actualización del servicio eléctrico en las últimas 6 horas.\n👉El déficit de capacidad de generación osciló entre los 184 MW y los 178 MW.\n👉De los 193 circuitos apagables que presenta la provincia, se mantienen afectados 167 circuitos.\n 👉Cuenta con 108 afectaciones por averías secundarias y de servicio:\n🔸Manicaragua (16)\n🔸Camajuaní (1)\n🔸Cifuentes (1)\n🔸Placetas (1)\n🔸Ranchuelo (3)\n🔸Sagua (3)\n🔸Remedios (6)  \n🔸Santa Clara (66)\n🔸Santo Domingo (11)\n🛠️Pendientes a solucionar por el área técnica 13.\n⚡La provincia no presenta averías primarias.",
-    "timestamp": 1754021079,
-    "timestamp_local": 1754021079
-  },
-  {
-    "id": 26413,
-    "fecha": "31 de Jul del 2025 a las 11:11 PM",
-    "hora_utc": "2025-08-01 03:11",
-    "mensaje": "Afectados 178 MW en la provincia, demanda máxima posible a apagar en estos momentos.",
-    "timestamp": 1754017916,
-    "timestamp_local": 1754017916
   }
 ]
