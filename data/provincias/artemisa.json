@@ -1,9 +1,41 @@
 [
   {
+    "id": 32138,
+    "fecha": "01 de Aug del 2025 a las 10:05 PM",
+    "hora_utc": "2025-08-02 02:05",
+    "mensaje": "✅Restablecida la Vía libre que afectaba Villa Salado✅",
+    "timestamp": 1754100353,
+    "timestamp_local": 1754100353
+  },
+  {
+    "id": 32137,
+    "fecha": "01 de Aug del 2025 a las 10:04 PM",
+    "hora_utc": "2025-08-02 02:04",
+    "mensaje": "⛔Se mantiene afectado :\n\n➡️Circuito 1500 de Artemisa \n\n❌En estos momentos 160 MW de Afectación",
+    "timestamp": 1754100283,
+    "timestamp_local": 1754100283
+  },
+  {
+    "id": 32136,
+    "fecha": "01 de Aug del 2025 a las 09:40 PM",
+    "hora_utc": "2025-08-02 01:40",
+    "mensaje": "⛔Se mantiene afectado :\n\n➡️Circuito 3210 de Guanajay \n\n❌En estos momentos 163 MW de Afectación",
+    "timestamp": 1754098801,
+    "timestamp_local": 1754098801
+  },
+  {
+    "id": 32135,
+    "fecha": "01 de Aug del 2025 a las 09:40 PM",
+    "hora_utc": "2025-08-02 01:40",
+    "mensaje": "⛔Se mantienen afectados :\n\n➡️Circuito 1570 Artemisa Candelaria \n➡️Circuito 3220 de San Antonio\n➡️Circuito de Vereda \n\n❌En estos momentos 163 MW de Afectación",
+    "timestamp": 1754098801,
+    "timestamp_local": 1754098801
+  },
+  {
     "id": 32134,
     "fecha": "01 de Aug del 2025 a las 06:54 PM",
     "hora_utc": "2025-08-01 22:54",
-    "mensaje": "⛔Se mantiene afectado :\n\n➡️Circuito 3517 del Mariel\n\n❌En estos momentos 150  MW de Afectación",
+    "mensaje": "❌En estos momentos 150  MW de Afectación",
     "timestamp": 1754088893,
     "timestamp_local": 1754088893
   },
@@ -118,37 +150,5 @@
     "mensaje": "❌En estos momentos 140 MW de afectación",
     "timestamp": 1754044617,
     "timestamp_local": 1754044617
-  },
-  {
-    "id": 32118,
-    "fecha": "01 de Aug del 2025 a las 01:06 AM",
-    "hora_utc": "2025-08-01 05:06",
-    "mensaje": "⛔Se mantienen afectados :\n\n➡️Circuito 236 de Bahía\n➡️ Circuito 1940 de San Antonio\n➡️ Circuito 3305 de Güira\n➡️ Circuito 1570 de Artemisa\n➡️Circuito 341 de San Cristóbal\n\n❌En estos momentos 150 MW de Afectación",
-    "timestamp": 1754024807,
-    "timestamp_local": 1754024807
-  },
-  {
-    "id": 32117,
-    "fecha": "01 de Aug del 2025 a las 12:45 AM",
-    "hora_utc": "2025-08-01 04:45",
-    "mensaje": "⛔Restablecido circuito Cayo Lenin de Mariel",
-    "timestamp": 1754023513,
-    "timestamp_local": 1754023513
-  },
-  {
-    "id": 32116,
-    "fecha": "31 de Jul del 2025 a las 09:48 PM",
-    "hora_utc": "2025-08-01 01:48",
-    "mensaje": "📤Circuito 2 y 3 de  Junco en avería pendiente a recorrer de día",
-    "timestamp": 1754012937,
-    "timestamp_local": 1754012937
-  },
-  {
-    "id": 32115,
-    "fecha": "31 de Jul del 2025 a las 09:48 PM",
-    "hora_utc": "2025-08-01 01:48",
-    "mensaje": "📤Circuito Dagame se encuentra en Avería por postes y cables partidos pendiente a trabajo de brigada",
-    "timestamp": 1754012906,
-    "timestamp_local": 1754012906
   }
 ]
