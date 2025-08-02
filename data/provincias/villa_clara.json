@@ -1,5 +1,13 @@
 [
   {
+    "id": 26526,
+    "fecha": "02 de Aug del 2025 a las 04:21 PM",
+    "hora_utc": "2025-08-02 20:21",
+    "mensaje": "⚠️Afectados por déficit de generación los siguientes circuitos:\n🔹Bloque 1\n👉Municipio Manicaragua:\nCtos 109 y 150\nCtos 108 y 110 La Piedra\nCto 111 Mataguá",
+    "timestamp": 1754166082,
+    "timestamp_local": 1754166082
+  },
+  {
     "id": 26525,
     "fecha": "02 de Aug del 2025 a las 04:00 PM",
     "hora_utc": "2025-08-02 20:00",
@@ -99,7 +107,7 @@
     "id": 26511,
     "fecha": "02 de Aug del 2025 a las 07:43 AM",
     "hora_utc": "2025-08-02 11:43",
-    "mensaje": "‼️Nota informativa. \n\n \n👉Situación del SEN para el 2 de agosto de 2025.\n\n \nEn el día de ayer se afectó el servicio las 24 horas y se mantuvo afectado durante toda la madrugada de hoy. La máxima afectación por déficit de capacidad de generación en el día de ayer fue de 1822 MW a las 19:50 horas, no coincidente con la hora de máxima demanda. \n \nLa producción de energía de los 24 nuevos parques solares fotovoltaicos fue de 2742 MWh, con 545 MW como máxima potencia entregada en el horario de la media con esta fuente de generación. \n\nLa disponibilidad del SEN a las 07:00 horas es de 1895 MW  la demanda 3245 MW con 1325 MW afectados por déficit de capacidad. En el horario de la media se estima una afectación de 1280 MW.\n \n\nSe encuentran en avería la unidad6 de la CTE Rente y la unidad 2 de la CTE Felton. Se encuentran en mantenimiento la unidad 2 de la CTE Santa Cruz, la unidad 4 de la CTE Carlos Manuel de Céspedes en Cienfuegos y  la unidad 5 de la CTE Renté. \n \nLas limitaciones en la generación térmica son de 434 MW. \n \nSe encuentran fuera de servicio por combustible   75 centrales de generación distribuida con 634 MW y 64 MW en la Patana de Regla, para un total de 698 MW afectados por esta causa.\n\n \nEn el día de hoy, por razones comerciales, está prevista la desconexión, del Sistema Eléctrico Nacional, de la patana de 240 MW de La Habana. En lo inmediato se han adoptado medidas que permiten que no se agrave la situación actual.\n\n \nPara el pico se estima la entrada de  la unidad 6 de la CTE Renté con 50 MW (en proceso de arranque), el completamiento de la unidad 4 de Energás Varadero con 17 MW y 8 motores en la patana de Regla con 64 MW.\n\n \nCon este pronóstico, en el horario pico se estima una disponibilidad de 2022 MW y una demanda máxima de   3700 MW, para un déficit de 1674 MW, por lo que de mantenerse las condiciones previstas se pronostica una afectación de 1744MW en este horario.\n\n \nUNE-MINEM---07:00 horas",
+    "mensaje": "⚠️ Pronostico para el horario pico (02/08/2025):\n\nDisponibilidad: 2022 MW\nDemanda maxima: 3700 MW\nDéficit: 1674 MW\nAfectacion: 1744 MW\n\nMas detalles sobre el estado del SEN en 👉 https://www.unionelectrica.cu/nota-informativa/",
     "timestamp": 1754135017,
     "timestamp_local": 1754135017
   },
@@ -134,13 +142,5 @@
     "mensaje": "⚠️Afectados por déficit de capacidad de generación los siguientes circuitos:\n🔹Bloque 1Municipio Encrucijada\n👉Cto 120 Calabaza\n👉Ctos 121 y 127 Perucho\n🔹Bloque 2\nMunicipio Camajuaní:\n👉Ctos 72 y 129\n👉Cto 75 La Quinta\n👉Cto 157 Luis Arcos Bergnes\n👉Ctos 76 y 90 Vega Alta\nLínea 1965 \nMunicipio Cifuentes:\n👉Ctos 114 y 117\n👉Ctos 116 y 155 Mata\n👉Cto 186 Batey Unidad Proletaria\n👉Cto 184 Sitio Grande",
     "timestamp": 1754131056,
     "timestamp_local": 1754131056
-  },
-  {
-    "id": 26506,
-    "fecha": "02 de Aug del 2025 a las 06:33 AM",
-    "hora_utc": "2025-08-02 10:33",
-    "mensaje": "🕛Actualización del servicio eléctrico en las últimas 6 horas.\n✍️El déficit de capacidad de generación osciló entre los 133MW y los 185 MW.\n✍️De los 193 circuitos apagables que presenta la provincia, se mantienen afectados 171 circuitos.\n✍️ Cuenta con 97 afectaciones por averías secundarias y de servicio:\n Caibarien (5) \n Manicaragua (14)\n Placetas (1) Remedios (12) \n Santa Clara (42)\n Santo Domingo (3)\n🛠️Se encuentran 7 averías en vías de solución.\n🛠️Pendientes a solucionar por el área técnica 15.\n✅La provincia no presenta averías primarias",
-    "timestamp": 1754130817,
-    "timestamp_local": 1754130817
   }
 ]
