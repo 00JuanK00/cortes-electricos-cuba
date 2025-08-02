@@ -1,5 +1,37 @@
 [
   {
+    "id": 26489,
+    "fecha": "01 de Aug del 2025 a las 08:42 PM",
+    "hora_utc": "2025-08-02 00:42",
+    "mensaje": "📣Debido al incremento de la demanda por déficit de capacidad de generación, ya que la misma resulta mayor a la disponibilidad del sistema electro energético,no será  posible restablecer en el horario establecido el bloque  4 , se les tendrá en cuenta el horario de servicio a partir de la hora en que se restablezca, quedando afectados los siguientes circuitos :\nMunicipio Santa Clara:\n\n👉 Ctos14,  15 y 27 (Maleza)\n👉Cto 144 (Camacho)",
+    "timestamp": 1754095328,
+    "timestamp_local": 1754095328
+  },
+  {
+    "id": 26488,
+    "fecha": "01 de Aug del 2025 a las 08:10 PM",
+    "hora_utc": "2025-08-02 00:10",
+    "mensaje": "🔸Actualización del servicio eléctrico en la provincia🔸\n✍️De los 193 circuitos apagables que presenta la provincia, se mantienen afectados 177 circuitos.\n✍️En el momento de hacer esta nota la provincia tiene 185 MW de afectación por déficit de capacidad de generación, demanda máxima posible a apagar.\n✍️Cuenta con 121 afectaciones por averías secundarias y de servicio",
+    "timestamp": 1754093442,
+    "timestamp_local": 1754093442
+  },
+  {
+    "id": 26487,
+    "fecha": "01 de Aug del 2025 a las 08:01 PM",
+    "hora_utc": "2025-08-02 00:01",
+    "mensaje": "💡 Restablecido el servicio eléctrico en los siguientes circuitos:\n🔹Bloque 4\nMunicipio Encrucijada:\n👉Cto 122 Encrucijada\n 👉Cto 123 Vizcaya \n👉Cto 142 Comunidad La Sierra \n👉Cto 126 Batey Emilio Córdova\n👉Cto 125 Cavarrocas\n👉Cto 124 El Santo\nMunicipio Camajuaní:\n👉Cto 78 Jutiero",
+    "timestamp": 1754092889,
+    "timestamp_local": 1754092889
+  },
+  {
+    "id": 26486,
+    "fecha": "01 de Aug del 2025 a las 07:57 PM",
+    "hora_utc": "2025-08-01 23:57",
+    "mensaje": "⚠️Afectados por déficit de capacidad de generación los siguientes circuitos:\n🔹Bloque 4\nMunicipio Santa Clara:\n👉Ctos 14, 15 y 27 (Maleza)\n👉Cto 144 (Camacho)",
+    "timestamp": 1754092640,
+    "timestamp_local": 1754092640
+  },
+  {
     "id": 26485,
     "fecha": "01 de Aug del 2025 a las 07:46 PM",
     "hora_utc": "2025-08-01 23:46",
@@ -126,37 +158,5 @@
     "mensaje": "⚠️Afectados por déficit de capacidad de generación los siguientes circuitos:🔹Bloque 4 \nMunicipio Encrucijada:\n👉Cto 122 Encrucijada \n👉Cto 123 Vizcaya \n👉Cto 142 Comunidad La Sierra \n👉Cto 126 Batey Emilio Córdova\n👉Cto 125 Cavarrocas\n👉Cto 124 El Santo\nMunicipio Camajuaní:\n👉Cto 78 Jutiero \nMunicipio Camajuaní:\n👉Ctos 77, 59 y 185 Vueltas",
     "timestamp": 1754080143,
     "timestamp_local": 1754080143
-  },
-  {
-    "id": 26469,
-    "fecha": "01 de Aug del 2025 a las 03:48 PM",
-    "hora_utc": "2025-08-01 19:48",
-    "mensaje": "⚠️Afectados por déficit de capacidad de generación los siguientes circuitos:\n🔹Bloque 1 \nMunicipio Manicaragua:\n👉Ctos 109 y 150\n👉Ctos 108 y 110 La Piedra\n👉Cto 111 Mataguá \nMunicipio Encrucijada\n👉Cto 120 Calabazar\n👉Ctos 121 y 127 Perucho",
-    "timestamp": 1754077719,
-    "timestamp_local": 1754077719
-  },
-  {
-    "id": 26468,
-    "fecha": "01 de Aug del 2025 a las 03:45 PM",
-    "hora_utc": "2025-08-01 19:45",
-    "mensaje": "💡 Restablecido el servicio eléctrico en los siguientes circuitos:\n🔹Bloque 10\n👉Ctos 98  Placetas\n👉Ctos 100 y 151 Placetas\n👉Cto 104 Hermanos Amejeiras\n👉Cto 103 Batey Carbó Servía",
-    "timestamp": 1754077504,
-    "timestamp_local": 1754077504
-  },
-  {
-    "id": 26467,
-    "fecha": "01 de Aug del 2025 a las 03:20 PM",
-    "hora_utc": "2025-08-01 19:20",
-    "mensaje": "💡Restablecido el servicio eléctrico en el siguiente circuito:\n\n🔹Bloque 9\nMunicipio Placetas:\n👉Cto 101 y 145 Cumbre",
-    "timestamp": 1754076012,
-    "timestamp_local": 1754076012
-  },
-  {
-    "id": 26466,
-    "fecha": "01 de Aug del 2025 a las 02:46 PM",
-    "hora_utc": "2025-08-01 18:46",
-    "mensaje": "Afectados 137 MW en la provincia, demanda máxima posible a apagar en estos momentos.",
-    "timestamp": 1754073973,
-    "timestamp_local": 1754073973
   }
 ]
