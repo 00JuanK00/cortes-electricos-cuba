@@ -1,9 +1,33 @@
 [
   {
+    "id": 26567,
+    "fecha": "03 de Aug del 2025 a las 10:30 AM",
+    "hora_utc": "2025-08-03 14:30",
+    "mensaje": "💡Restablecido el servicio eléctrico en las líneas 108, 1710 y 1715:\nMunicipio Ranchuelo\n👉Cto 163 Batey 26 de Julio👉Cto 54, 94 y 95 Jicotea\n👉Cto 81 26 Julio\nMunicipio Santo Domingo:\n👉Cto 134\n👉Ctos 87 y 96 Bermejal\n👉Cto 187 Batey Carlos Baliño\n👉Cto 82 Ulacia\n👉Cto 84 Rodrigo\nMunicipio Ranchuelo:\n🔸Cto 92 Esperanza (Pueblo)\n🔸Cto 93 Esperanza (Campo)\nMunicipio Santa Clara:\n🔸Ctos 26 y 141 (Manuelita)\n🔸Cto 191 (Quemado de Hilario)",
+    "timestamp": 1754231438,
+    "timestamp_local": 1754231438
+  },
+  {
+    "id": 26566,
+    "fecha": "03 de Aug del 2025 a las 10:07 AM",
+    "hora_utc": "2025-08-03 14:07",
+    "mensaje": "🔸Actualización del servicio eléctrico en la provincia🔸\n✍️De los 193 circuitos apagables que presenta la provincia, se mantienen afectados 128 circuitos.\n✍️En el momento de hacer esta nota la provincia tiene 120 MW de afectación por déficit de capacidad de generación, demanda máxima posible a apagar.\n✍️Cuenta con 102 afectaciones por averías secundarias y de servicio.",
+    "timestamp": 1754230077,
+    "timestamp_local": 1754230077
+  },
+  {
+    "id": 26565,
+    "fecha": "03 de Aug del 2025 a las 10:06 AM",
+    "hora_utc": "2025-08-03 14:06",
+    "mensaje": "💡Con servicio eléctrico el circuito 122 del municipio Encrucijada.",
+    "timestamp": 1754229980,
+    "timestamp_local": 1754229980
+  },
+  {
     "id": 26564,
     "fecha": "03 de Aug del 2025 a las 10:00 AM",
     "hora_utc": "2025-08-03 14:00",
-    "mensaje": "🛠️En breve manipulación de las líneas 108, 1710 y 1715 para reponer drop out en la Subestación.\n👉Afecta los siguientes circuitos:\nCto 163 Batey 26 de Julio\nCto 54, 94 y 95 Jicotea\nCto 81 26 Julio\nMunicipio Santo Domingo:\nCto 134\nCtos 87 y 96 Bermejal\nCto 187 Batey Carlos Baliño\nCto 82 Ulacia\nCto 84 Rodrigo\nMunicipio Ranchuelo:\nCto 92 Esperanza (Pueblo)\nCto 93 Esperanza (Campo)\nMunicipio Santa Clara:\nCtos 26 y 141 (Manuelita)\nCto 191 (Quemado de Hilario)",
+    "mensaje": "🛠️En breve manipulación de las líneas 108, 1710 y 1715 para reponer drop out en la Subestación.\n🔸Afecta los siguientes circuitos:\nMunicipio Ranchuelo\n👉Cto 163 Batey 26 de Julio👉Cto 54, 94 y 95 Jicotea\n👉Cto 81 26 Julio\nMunicipio Santo Domingo:\n👉Cto 134\n👉Ctos 87 y 96 Bermejal\n👉Cto 187 Batey Carlos Baliño\n👉Cto 82 Ulacia\n👉Cto 84 Rodrigo\nMunicipio Ranchuelo:\n🔸Cto 92 Esperanza (Pueblo)\n🔸Cto 93 Esperanza (Campo)\nMunicipio Santa Clara:\n🔸Ctos 26 y 141 (Manuelita)\n🔸Cto 191 (Quemado de Hilario)",
     "timestamp": 1754229600,
     "timestamp_local": 1754229600
   },
@@ -86,29 +110,5 @@
     "mensaje": "⚠️Afectados por déficit de generación los circuitos siguientes:\n🔹Bloque 8\n👉Municipio Sagua:\nCtos 43 y 50 y 51\nCto 147 Villa Alegre \nCto 44 Isabela",
     "timestamp": 1754194583,
     "timestamp_local": 1754194583
-  },
-  {
-    "id": 26547,
-    "fecha": "03 de Aug del 2025 a las 12:14 AM",
-    "hora_utc": "2025-08-03 04:14",
-    "mensaje": "💡Restablecido el servicio eléctrico en los siguientes circuitos:\n🔹Bloque 1\n👉Municipio Manicaragua:\nCtos 109 y 150\nCtos 108 y 110 La Piedra\nCto 111 Mataguá",
-    "timestamp": 1754194451,
-    "timestamp_local": 1754194451
-  },
-  {
-    "id": 26546,
-    "fecha": "02 de Aug del 2025 a las 11:52 PM",
-    "hora_utc": "2025-08-03 03:52",
-    "mensaje": "🕛Actualización del servicio eléctrico en las últimas 6 horas.\n\n👉El déficit de capacidad de generación osciló entre los 154 MW y los 168 MW.\n👉De los 193 circuitos apagables que presenta la provincia, se mantienen afectados 173 circuitos.\n 👉Cuenta con 113 afectaciones por averías secundarias y de servicio:\n Caibarién (4)\n Manicaragua (15)\n Placetas (6)\n Ranchuelo (2)\n Remedios (7) \n Santa Clara (48)\n Santo Domingo (12)\n🛠️Se encuentran 9 averías en vías de solución.\n🛠️Pendientes a solucionar por el área técnica 10.\n⚡La provincia no presenta averías primarias.",
-    "timestamp": 1754193153,
-    "timestamp_local": 1754193153
-  },
-  {
-    "id": 26545,
-    "fecha": "02 de Aug del 2025 a las 11:41 PM",
-    "hora_utc": "2025-08-03 03:41",
-    "mensaje": "💡Restablecido el servicio eléctrico en el circuito 6 Vigía.",
-    "timestamp": 1754192486,
-    "timestamp_local": 1754192486
   }
 ]
