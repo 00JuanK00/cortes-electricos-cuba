@@ -1,5 +1,29 @@
 [
   {
+    "id": 42607,
+    "fecha": "03 de Aug del 2025 a las 03:11 AM",
+    "hora_utc": "2025-08-03 07:11",
+    "mensaje": "Disparo:\nApertura no voluntaria de un interruptor como vía de protección para desconectar uno o varios elementos del circuito, subestación o sistema, restableciéndose el servicio rápidamente en dependencia de la causa.",
+    "timestamp": 1754205069,
+    "timestamp_local": 1754205069
+  },
+  {
+    "id": 42606,
+    "fecha": "03 de Aug del 2025 a las 03:10 AM",
+    "hora_utc": "2025-08-03 07:10",
+    "mensaje": "🚨En estos momentos se encuentra Disparado el circuito 2 de Santiago.",
+    "timestamp": 1754205033,
+    "timestamp_local": 1754205033
+  },
+  {
+    "id": 42605,
+    "fecha": "03 de Aug del 2025 a las 03:04 AM",
+    "hora_utc": "2025-08-03 07:04",
+    "mensaje": "Si presenta o conoce alguna avería haga su reporte al Centro Telefónico mediante el 1️⃣8️⃣8️⃣8️⃣8️⃣. Asegúrese de:\n1.Tener a mano el comprobante de pago del servicio eléctrico para ofrecer a la operadora el código de cliente (ID).\n2. Conocer de forma exacta la dirección de su vivienda (número de la casa, calle, entre calles, reparto   , localidad).\n3. Ubicar un punto de referencia que permita llegar hasta su vivienda con mayor rapidez (lugar o persona reconocida en la zona).\n4. En caso de haber algún cable caído, aunque usted crea que no está energizado   . NO LO TOQUE. Repórtelo y preserve el lugar hasta que llegue el personal de la empresa.\n5. Anote el número de reporte para ser utilizado en caso de reclamaciones o para comprobar el estado de su reporte.\n6. Si usted tiene servicio eléctrico   , pero existen de voltaje  , desconecte los equipos para que no se dañen.",
+    "timestamp": 1754204679,
+    "timestamp_local": 1754204679
+  },
+  {
     "id": 42604,
     "fecha": "03 de Aug del 2025 a las 02:26 AM",
     "hora_utc": "2025-08-03 06:26",
@@ -86,21 +110,5 @@
     "mensaje": "🚨Estimados clientes en estos momentos se afectaron por Déficit los circuitos 1 de Palma,  1, 25, 19 y la línea 5380- Mella .",
     "timestamp": 1754176367,
     "timestamp_local": 1754176367
-  },
-  {
-    "id": 42587,
-    "fecha": "02 de Aug del 2025 a las 07:07 PM",
-    "hora_utc": "2025-08-02 23:07",
-    "mensaje": "En el día de ayer se afectó el servicio las 24 horas y se mantuvo afectado durante toda la madrugada de hoy. La máxima afectación por déficit de capacidad de generación en el día de ayer fue de 1822 MW a las 19:50 horas, no coincidente con la hora de máxima demanda.\n\n📌La producción de energía de los 24 nuevos parques solares fotovoltaicos fue de 2742 MWh.\n\nLa disponibilidad del SEN a las 07:00 horas es de 1895 MW la demanda 3245 MW con 1325 MW afectados por déficit de capacidad. En el horario de la media se estima una afectación de 1280 MW.\n\n➡️Principales incidencias\nAvería: Unidad 6 de la CTE Renté y Unidad 2 de la CTE Felton.\nMantenimiento: Unidad 2 de la CTE Santa Cruz, Unidad 4 de la CTE Carlos Manuel de Céspedes en Cienfuegos y Unidad 5 de la CTE Renté.\nLimitaciones térmicas: 434 MW fuera de servicio.\nProblemas por falta de combustible\n75 centrales de generación distribuida con 634 MW.\n64 MW en la Patana de Regla\nTotal de MW afectados por esta causa: 698 MW.\n\nPronóstico para el horario pico\nPara el pico se estima la entrada de la unidad 6 de la CTE Renté con 50 MW (en proceso de arranque), el completamiento de la unidad 4 de Energás Varadero con 17 MW y 8 motores en la patana de Regla con 64 MW.\n\n📌Con este pronóstico, en el horario pico se estima una disponibilidad de 2022 MW y una demanda máxima de 3700 MW, para un déficit de 1674 MW, por lo que de mantenerse las condiciones previstas se pronostica una afectación de 1744 MW en este horario.",
-    "timestamp": 1754176061,
-    "timestamp_local": 1754176061
-  },
-  {
-    "id": 42586,
-    "fecha": "02 de Aug del 2025 a las 06:38 PM",
-    "hora_utc": "2025-08-02 22:38",
-    "mensaje": "🚨Le informamos a nuestros clientes que en estos momentos se afecto por Déficit el circuito 14 de Santiago.",
-    "timestamp": 1754174327,
-    "timestamp_local": 1754174327
   }
 ]
