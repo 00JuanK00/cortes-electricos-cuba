@@ -1,5 +1,29 @@
 [
   {
+    "id": 26557,
+    "fecha": "03 de Aug del 2025 a las 07:41 AM",
+    "hora_utc": "2025-08-03 11:41",
+    "mensaje": "Nota informativa. \n\nSituación del SEN para el 3 de agosto de 2025.\n\nEn el día de ayer se afectó el servicio las 24 horas y se mantuvo afectado durante toda la madrugada de hoy. La máxima afectación por déficit de capacidad de generación en el día de ayer fue de 1756 MW a las 21:10 horas, no coincidente con la hora de máxima demanda. \n\nLa producción de energía de los 24 nuevos parques solares fotovoltaicos fue de 2360 MWh , con 520 MW como máxima potencia entregada en el horario de la media con esta fuente de generación. \nLa disponibilidad del SEN a las 07:00 horas es de 2095 MW  la demanda 3200 MW con 1140 MW afectados por déficit de capacidad. En el horario de la media se estima una afectación de 1100 MW.\n\nSe encuentran en avería la unidad 2 de la CTE Felton y la unidad 5 de la CTE Diez de Octubre. Se encuentran en mantenimiento la unidad 2 de la CTE Santa Cruz, la unidad 4 de la CTE Carlos Manuel de Céspedes en Cienfuegos y  la unidad 5 de la CTE Renté. \n\nLas limitaciones en la generación térmica son de 392 MW. \n\nSe encuentran fuera de servicio por combustible  71 centrales de generación distribuida con 501 MW.\n\nCon este pronóstico, en el horario pico se estima una disponibilidad de 2095 MW y una demanda máxima de 3700 MW, para un déficit de 1605 MW, por lo que de mantenerse las condiciones previstas se pronostica una afectación de 1675 MW en este horario.\n\nUNE-MINEM",
+    "timestamp": 1754221299,
+    "timestamp_local": 1754221299
+  },
+  {
+    "id": 26556,
+    "fecha": "03 de Aug del 2025 a las 07:18 AM",
+    "hora_utc": "2025-08-03 11:18",
+    "mensaje": "💡Será restablecido el servicio eléctrico en los siguientes circuitos:\n🔹Bloque 8\n👉Municipio Sagua:\nCtos 43 y 50 y 51\nCto 147 Villa Alegre \nCto 44 Isabela",
+    "timestamp": 1754219918,
+    "timestamp_local": 1754219918
+  },
+  {
+    "id": 26555,
+    "fecha": "03 de Aug del 2025 a las 07:05 AM",
+    "hora_utc": "2025-08-03 11:05",
+    "mensaje": "👉Ante cualquier duda con la terminología eléctrica, les volvemos explicar: \n     \n⚡Las averías pueden ser primarias (afecta un volumen grande de población pues son las líneas de distribución a 13.8kV y puede afectar varias manzanas, incluso repartos completos).\n\n⚡⚡Secundarias (afecta a todos los clientes que se alimenten del mismo transformador, puede afectar una o varias cuadras). \n\n⚡⚡⚡De servicio (afectan 1 solo cliente o instalación generalmente producto a daños en la acometida, metro contador, etc.).",
+    "timestamp": 1754219113,
+    "timestamp_local": 1754219113
+  },
+  {
     "id": 26553,
     "fecha": "03 de Aug del 2025 a las 04:53 AM",
     "hora_utc": "2025-08-03 08:53",
@@ -94,29 +118,5 @@
     "mensaje": "⚠️Afectados por déficit de generación los circuitos siguientes:\n🔹Bloque 11\n👉Municipio Remedios:\nCtos 67 y 152, 68 y 118 \nCtos 69 y 70 Zuluetas\nCto 143 Batey Heriberto Duquesne\nCto 71 Buena Vista",
     "timestamp": 1754185912,
     "timestamp_local": 1754185912
-  },
-  {
-    "id": 26537,
-    "fecha": "02 de Aug del 2025 a las 09:50 PM",
-    "hora_utc": "2025-08-03 01:50",
-    "mensaje": "💡Restablecido el servicio eléctrico en los siguientes circuitos:\n🔹Bloque 4\n👉Municipio Camajuaní:\nCtos 77, 59 y 185 Vueltas",
-    "timestamp": 1754185859,
-    "timestamp_local": 1754185859
-  },
-  {
-    "id": 26536,
-    "fecha": "02 de Aug del 2025 a las 09:10 PM",
-    "hora_utc": "2025-08-03 01:10",
-    "mensaje": "💡Restablecido el servicio eléctrico en los siguientes circuitos:\n🔹Bloque 7\n👉Municipio Camajuaní:\nCtos 73 y 156 \nCto 74 José María Pérez",
-    "timestamp": 1754183430,
-    "timestamp_local": 1754183430
-  },
-  {
-    "id": 26535,
-    "fecha": "02 de Aug del 2025 a las 08:45 PM",
-    "hora_utc": "2025-08-03 00:45",
-    "mensaje": "💡Restablecido el servicio eléctrico en los siguientes circuitos:\n🔹Bloque 4\n👉Municipio Santa Clara:\nCto 5 (Dobarganes)\nCto 17 (Subplanta) \nCtos 37 y 38 (Yabú)   \nCto 13 (Zona Industrial)  \nCto 9 (Moldes y Troqueles)\nCto 133 (Cafetera)",
-    "timestamp": 1754181913,
-    "timestamp_local": 1754181913
   }
 ]
