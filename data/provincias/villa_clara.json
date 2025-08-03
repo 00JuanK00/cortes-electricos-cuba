@@ -1,5 +1,21 @@
 [
   {
+    "id": 26576,
+    "fecha": "03 de Aug del 2025 a las 03:42 PM",
+    "hora_utc": "2025-08-03 19:42",
+    "mensaje": "⚡Afectada la línea 1210 por faltar una fase por 33 Kv:\nAfecta los siguientes circuitos:\n👉Ctos 45 y 47 Caguagua\nMunicipio Quemado:\n👉Ctos 164, 52 y 53 Quemado.\n👉Cto 196 Batey Panchito Gómez Toro.\nMunicipio Corralillo\n👉Cto 55 Rancho Veloz\n✍️Brigadas de nuestra empresa se encuentran trabajando para restablecer el servicio en el menor tiempo posible.",
+    "timestamp": 1754250179,
+    "timestamp_local": 1754250179
+  },
+  {
+    "id": 26575,
+    "fecha": "03 de Aug del 2025 a las 03:33 PM",
+    "hora_utc": "2025-08-03 19:33",
+    "mensaje": "⚠️ Afectados por déficit de capacidad de generación los siguientes circuitos:\n🔹Bloque 4\nMunicipio Camajuaní:\n👉Ctos 77, 59 y 185 Vueltas \nMunicipio Santa Clara:\n👉Cto 5 (Dobarganes)\n👉Cto 17 (Subplanta) \n👉Ctos 37 y 38 (Yabú)   \n👉Cto 13 (Zona Industrial)  \n👉Cto 9 (Moldes y Troqueles)\n👉Cto 133 (Cafetera)",
+    "timestamp": 1754249631,
+    "timestamp_local": 1754249631
+  },
+  {
     "id": 26574,
     "fecha": "03 de Aug del 2025 a las 02:30 PM",
     "hora_utc": "2025-08-03 18:30",
@@ -126,21 +142,5 @@
     "mensaje": "Nota informativa. \n\nSituación del SEN para el 3 de agosto de 2025.\n\nEn el día de ayer se afectó el servicio las 24 horas y se mantuvo afectado durante toda la madrugada de hoy. La máxima afectación por déficit de capacidad de generación en el día de ayer fue de 1756 MW a las 21:10 horas, no coincidente con la hora de máxima demanda. \n\nLa producción de energía de los 24 nuevos parques solares fotovoltaicos fue de 2360 MWh , con 520 MW como máxima potencia entregada en el horario de la media con esta fuente de generación. \nLa disponibilidad del SEN a las 07:00 horas es de 2095 MW  la demanda 3200 MW con 1140 MW afectados por déficit de capacidad. En el horario de la media se estima una afectación de 1100 MW.\n\nSe encuentran en avería la unidad 2 de la CTE Felton y la unidad 5 de la CTE Diez de Octubre. Se encuentran en mantenimiento la unidad 2 de la CTE Santa Cruz, la unidad 4 de la CTE Carlos Manuel de Céspedes en Cienfuegos y  la unidad 5 de la CTE Renté. \n\nLas limitaciones en la generación térmica son de 392 MW. \n\nSe encuentran fuera de servicio por combustible  71 centrales de generación distribuida con 501 MW.\n\nCon este pronóstico, en el horario pico se estima una disponibilidad de 2095 MW y una demanda máxima de 3700 MW, para un déficit de 1605 MW, por lo que de mantenerse las condiciones previstas se pronostica una afectación de 1675 MW en este horario.\n\nUNE-MINEM",
     "timestamp": 1754221299,
     "timestamp_local": 1754221299
-  },
-  {
-    "id": 26556,
-    "fecha": "03 de Aug del 2025 a las 07:18 AM",
-    "hora_utc": "2025-08-03 11:18",
-    "mensaje": "💡Será restablecido el servicio eléctrico en los siguientes circuitos:\n🔹Bloque 8\n👉Municipio Sagua:\nCtos 43 y 50 y 51\nCto 147 Villa Alegre \nCto 44 Isabela",
-    "timestamp": 1754219918,
-    "timestamp_local": 1754219918
-  },
-  {
-    "id": 26555,
-    "fecha": "03 de Aug del 2025 a las 07:05 AM",
-    "hora_utc": "2025-08-03 11:05",
-    "mensaje": "👉Ante cualquier duda con la terminología eléctrica, les volvemos explicar: \n     \n⚡Las averías pueden ser primarias (afecta un volumen grande de población pues son las líneas de distribución a 13.8kV y puede afectar varias manzanas, incluso repartos completos).\n\n⚡⚡Secundarias (afecta a todos los clientes que se alimenten del mismo transformador, puede afectar una o varias cuadras). \n\n⚡⚡⚡De servicio (afectan 1 solo cliente o instalación generalmente producto a daños en la acometida, metro contador, etc.).",
-    "timestamp": 1754219113,
-    "timestamp_local": 1754219113
   }
 ]
