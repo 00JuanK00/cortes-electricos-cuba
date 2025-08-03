@@ -1,9 +1,57 @@
 [
   {
+    "id": 26548,
+    "fecha": "03 de Aug del 2025 a las 12:16 AM",
+    "hora_utc": "2025-08-03 04:16",
+    "mensaje": "⚠️Afectados por déficit de generación los circuitos siguientes:\n🔹Bloque 8\n👉Municipio Sagua:\nCtos 43 y 50 y 51\nCto 147 Villa Alegre \nCto 44 Isabela",
+    "timestamp": 1754194583,
+    "timestamp_local": 1754194583
+  },
+  {
+    "id": 26547,
+    "fecha": "03 de Aug del 2025 a las 12:14 AM",
+    "hora_utc": "2025-08-03 04:14",
+    "mensaje": "💡Restablecido el servicio eléctrico en los siguientes circuitos:\n🔹Bloque 1\n👉Municipio Manicaragua:\nCtos 109 y 150\nCtos 108 y 110 La Piedra\nCto 111 Mataguá",
+    "timestamp": 1754194451,
+    "timestamp_local": 1754194451
+  },
+  {
+    "id": 26546,
+    "fecha": "02 de Aug del 2025 a las 11:52 PM",
+    "hora_utc": "2025-08-03 03:52",
+    "mensaje": "🕛Actualización del servicio eléctrico en las últimas 6 horas.\n\n👉El déficit de capacidad de generación osciló entre los 154 MW y los 168 MW.\n👉De los 193 circuitos apagables que presenta la provincia, se mantienen afectados 173 circuitos.\n 👉Cuenta con 113 afectaciones por averías secundarias y de servicio:\n Caibarién (4)\n Manicaragua (15)\n Placetas (6)\n Ranchuelo (2)\n Remedios (7) \n Santa Clara (48)\n Santo Domingo (12)\n🛠️Se encuentran 9 averías en vías de solución.\n🛠️Pendientes a solucionar por el área técnica 10.\n⚡La provincia no presenta averías primarias.",
+    "timestamp": 1754193153,
+    "timestamp_local": 1754193153
+  },
+  {
+    "id": 26545,
+    "fecha": "02 de Aug del 2025 a las 11:41 PM",
+    "hora_utc": "2025-08-03 03:41",
+    "mensaje": "💡Restablecido el servicio eléctrico en el circuito 6 Vigía.",
+    "timestamp": 1754192486,
+    "timestamp_local": 1754192486
+  },
+  {
+    "id": 26544,
+    "fecha": "02 de Aug del 2025 a las 11:05 PM",
+    "hora_utc": "2025-08-03 03:05",
+    "mensaje": "⚠️Afectados por déficit de generación los siguientes circuitos:\n🔹Bloque 7\n👉Municipio Ranchuelo: \nCtos 89, 97, 188 y 189\nCtos 148 y 149 San Juan\nCto 91 Batey Osvaldo Herrera\nCto 181 Batey Ifraín Alfonso",
+    "timestamp": 1754190300,
+    "timestamp_local": 1754190300
+  },
+  {
+    "id": 26543,
+    "fecha": "02 de Aug del 2025 a las 11:03 PM",
+    "hora_utc": "2025-08-03 03:03",
+    "mensaje": "💡Restablecido el servicio eléctrico en los siguientes circuitos:\n🔹Bloque 1\n👉Municipio Encrucijada\nCto 120 Calabazar\nCtos 121 y 127 Perucho",
+    "timestamp": 1754190225,
+    "timestamp_local": 1754190225
+  },
+  {
     "id": 26542,
     "fecha": "02 de Aug del 2025 a las 10:40 PM",
     "hora_utc": "2025-08-03 02:40",
-    "mensaje": "⚡Afectado por avería el circuito 6 Vigía por presentar cable primario partido, brigadas de nuestra Empresa se dirigen hacia el lugar para reparar la avería en el menor tiempo posible.",
+    "mensaje": "⚡Afectado por avería el circuito 6 (Vigía) por presentar cable primario partido.  Brigadas de nuestra Empresa se dirigen hacia el lugar para reparar la avería en el menor tiempo posible.",
     "timestamp": 1754188813,
     "timestamp_local": 1754188813
   },
@@ -102,45 +150,5 @@
     "mensaje": "🕕Actualización del servicio eléctrico en las últimas 6 horas.\n\n👉El déficit de capacidad de generación osciló entre los 127 MW y los 154 MW.\n👉De los 193 circuitos apagables que presenta la provincia, se mantienen afectados 166 circuitos.\n 👉Cuenta con 146 afectaciones por averías secundarias y de servicio:\n Caibarién (13)\n Camajuaní (2)\n Cifuentes (1)\n Corralillo (1)\n Encrucijada (6)\n Manicaragua (21)\n Placetas (2)\n Ranchuelo (2)\n Remedios (5) \n Sagua (2) \n Santa Clara (59)\n Santo Domingo (6)\n🛠️Se encuentran 7 averías en vías de solución.\n🛠️Pendientes a solucionar por el área técnica 12.\n⚡La provincia no presenta averías primarias.",
     "timestamp": 1754171768,
     "timestamp_local": 1754171768
-  },
-  {
-    "id": 26528,
-    "fecha": "02 de Aug del 2025 a las 05:16 PM",
-    "hora_utc": "2025-08-02 21:16",
-    "mensaje": "⚠️Afectados por déficit de generación los siguientes circuitos:\n🔹Bloque 4\n👉Municipio Camajuaní:\nCtos 77, 59 y 185 Vueltas",
-    "timestamp": 1754169383,
-    "timestamp_local": 1754169383
-  },
-  {
-    "id": 26527,
-    "fecha": "02 de Aug del 2025 a las 04:51 PM",
-    "hora_utc": "2025-08-02 20:51",
-    "mensaje": "💡Restablecido el servicio eléctrico en la Línea 1715 del municipio Santo Domingo.\n🔹Línea 1715 \n👉Municipio Santo Domingo:\nCto 134\nCtos 87 y 96 Bermejal\nCto 187 Batey Carlos Baliño\nCto 82 Ulacia\nCto 84 Rodrigo",
-    "timestamp": 1754167897,
-    "timestamp_local": 1754167897
-  },
-  {
-    "id": 26526,
-    "fecha": "02 de Aug del 2025 a las 04:21 PM",
-    "hora_utc": "2025-08-02 20:21",
-    "mensaje": "⚠️Afectados por déficit de generación los siguientes circuitos:\n🔹Bloque 1\n👉Municipio Manicaragua:\nCtos 109 y 150\nCtos 108 y 110 La Piedra\nCto 111 Mataguá",
-    "timestamp": 1754166082,
-    "timestamp_local": 1754166082
-  },
-  {
-    "id": 26525,
-    "fecha": "02 de Aug del 2025 a las 04:00 PM",
-    "hora_utc": "2025-08-02 20:00",
-    "mensaje": "🔸Actualización del servicio eléctrico en la provincia🔸\n✍️De los 193 circuitos apagables que presenta la provincia, se mantienen afectados 147 circuitos.\n✍️En el momento de hacer esta nota la provincia tiene 129 MW de afectación por déficit de capacidad de generación, demanda máxima posible a apagar.\n✍️Cuenta con 127 afectaciones por averías secundarias y de servicio",
-    "timestamp": 1754164828,
-    "timestamp_local": 1754164828
-  },
-  {
-    "id": 26523,
-    "fecha": "02 de Aug del 2025 a las 02:07 PM",
-    "hora_utc": "2025-08-02 18:07",
-    "mensaje": "🔸Actualización del servicio eléctrico en la provincia🔸\n✍️De los 193 circuitos apagables que presenta la provincia, se mantienen afectados 139 circuitos.\n✍️En el momento de hacer esta nota la provincia tiene 121 MW de afectación por déficit de capacidad de generación, demanda máxima posible a apagar.\n✍️Cuenta con 131 afectaciones por averías secundarias y de servicio",
-    "timestamp": 1754158071,
-    "timestamp_local": 1754158071
   }
 ]
