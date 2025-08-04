@@ -1,5 +1,29 @@
 [
   {
+    "id": 42702,
+    "fecha": "04 de Aug del 2025 a las 06:31 PM",
+    "hora_utc": "2025-08-04 22:31",
+    "mensaje": "Disparo Automático de Frecuencia (DAF):\nOcurre cuando la frecuencia está por debajo de los 60Hz y determinada carga o circuito se desconecta del sistema automáticamente hasta que se estabilice",
+    "timestamp": 1754346696,
+    "timestamp_local": 1754346696
+  },
+  {
+    "id": 42701,
+    "fecha": "04 de Aug del 2025 a las 06:31 PM",
+    "hora_utc": "2025-08-04 22:31",
+    "mensaje": "🔊Estimados clientes se les informa que el circuito 12 y 20 se encuentra disparado por DAF, disculpen por las molestias ocasionadas.",
+    "timestamp": 1754346671,
+    "timestamp_local": 1754346671
+  },
+  {
+    "id": 42700,
+    "fecha": "04 de Aug del 2025 a las 06:23 PM",
+    "hora_utc": "2025-08-04 22:23",
+    "mensaje": "🔊Informamos a nuestros  clientes que quedan afectados por Déficit de Capacidad de Generación La Línea 5385 afecta El Pilar y El Alambre . Pedimos disculpa por las molestias ocasionadas",
+    "timestamp": 1754346238,
+    "timestamp_local": 1754346238
+  },
+  {
     "id": 42699,
     "fecha": "04 de Aug del 2025 a las 05:55 PM",
     "hora_utc": "2025-08-04 21:55",
@@ -102,29 +126,5 @@
     "mensaje": "🚨🔴Informamos a nuestros  clientes que quedan afectados por Déficit de Capacidad de Generación los circuitos 16 y 24 de Santiago y la línea de Guama.🚨🔴",
     "timestamp": 1754333155,
     "timestamp_local": 1754333155
-  },
-  {
-    "id": 42682,
-    "fecha": "04 de Aug del 2025 a las 02:32 PM",
-    "hora_utc": "2025-08-04 18:32",
-    "mensaje": "🚨🔴Estimados clientes en estos momentos se encuentra disparado el circuito 14 de Santiago,pedimos disculpas por las molestias ocasionadas.🚨🔴",
-    "timestamp": 1754332321,
-    "timestamp_local": 1754332321
-  },
-  {
-    "id": 42681,
-    "fecha": "04 de Aug del 2025 a las 01:41 PM",
-    "hora_utc": "2025-08-04 17:41",
-    "mensaje": "🚨🔴Informamos a nuestros  clientes que quedan afectados por Déficit de Capacidad de Generación los circuitos 7 , 8 , 12 , 19  y  20  de Santiago y la línea de ll Frente.🚨🔴",
-    "timestamp": 1754329267,
-    "timestamp_local": 1754329267
-  },
-  {
-    "id": 42680,
-    "fecha": "04 de Aug del 2025 a las 12:22 PM",
-    "hora_utc": "2025-08-04 16:22",
-    "mensaje": "🔴Disparo Automático de Frecuencia (DAF):🔴\nOcurre cuando la frecuencia está por debajo de los 60Hz y determinada carga o circuito se desconecta del sistema automáticamente hasta que se estabilice.",
-    "timestamp": 1754324528,
-    "timestamp_local": 1754324528
   }
 ]
