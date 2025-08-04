@@ -1,5 +1,21 @@
 [
   {
+    "id": 26688,
+    "fecha": "04 de Aug del 2025 a las 05:05 PM",
+    "hora_utc": "2025-08-04 21:05",
+    "mensaje": "Afectados 150 MW en la provincia, demanda máxima posible a apagar en estos momentos.",
+    "timestamp": 1754341525,
+    "timestamp_local": 1754341525
+  },
+  {
+    "id": 26687,
+    "fecha": "04 de Aug del 2025 a las 04:57 PM",
+    "hora_utc": "2025-08-04 20:57",
+    "mensaje": "⚠️Afectados por déficit de capacidad de generación los siguientes circuitos:\nMunicipio Santa Clara:\nCto 5 (Dobarganes)\nCto 17 (Subplanta) \nCto 4 (Consejo- Centro)",
+    "timestamp": 1754341031,
+    "timestamp_local": 1754341031
+  },
+  {
     "id": 26686,
     "fecha": "04 de Aug del 2025 a las 04:41 PM",
     "hora_utc": "2025-08-04 20:41",
@@ -134,21 +150,5 @@
     "mensaje": "⚠️ Serán afectados por déficit de capacidad de generación los siguientes circuitos:\n🔹Bloque 9\nMunicipio Placetas:\nCto 101 y 145 Cumbre",
     "timestamp": 1754328954,
     "timestamp_local": 1754328954
-  },
-  {
-    "id": 26668,
-    "fecha": "04 de Aug del 2025 a las 01:31 PM",
-    "hora_utc": "2025-08-04 17:31",
-    "mensaje": "⚠️ Serán afectados por déficit de capacidad de generación los siguientes circuitos:\n🔹Bloque 7\nMunicipio Camajuaní:\nCtos 73 y 156 \nCto 74 José María Pérez",
-    "timestamp": 1754328718,
-    "timestamp_local": 1754328718
-  },
-  {
-    "id": 26667,
-    "fecha": "04 de Aug del 2025 a las 01:29 PM",
-    "hora_utc": "2025-08-04 17:29",
-    "mensaje": "🛠Afectado el Circuito 3 (Centro) por emergencia, perteneciente al municipio Santa Clara.",
-    "timestamp": 1754328582,
-    "timestamp_local": 1754328582
   }
 ]
