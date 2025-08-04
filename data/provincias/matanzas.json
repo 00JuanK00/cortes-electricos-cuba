@@ -1,5 +1,21 @@
 [
   {
+    "id": 23928,
+    "fecha": "04 de Aug del 2025 a las 02:00 AM",
+    "hora_utc": "2025-08-04 06:00",
+    "mensaje": "El restablecimiento del servicio eléctrico dependerá del comportamiento de la demanda y la disponibilidad del sistema eléctrico. Una vez se pueda rotar se irán restableciendo de manera paulatina los circuitos que más tiempo de afectación presenten.",
+    "timestamp": 1754287223,
+    "timestamp_local": 1754287223
+  },
+  {
+    "id": 23927,
+    "fecha": "04 de Aug del 2025 a las 01:28 AM",
+    "hora_utc": "2025-08-04 05:28",
+    "mensaje": "⚠Disparo automático por frecuencia (DAF).\nUn disparo por frecuencia o Descarga Automática por Frecuencia (DAF) , es una protección que posee el sistema eléctrico para cuando la frecuencia llega a valores mínimos permisibles que ponen en peligro la estabilidad de todo el sistema en su conjunto y provoca una desconexión automática de algunos circuitos hasta que se vuelva a recuperar su valor nominal a 60Hz o ciclos por segundo.\n\nAnte cualquier anomalía con el servicio eléctrico, usted debe llamar al 18888 y reportar la queja. Las operadoras en línea deben darle un número de reporte, guárdelo por si necesita llamar nuevamente para saber en qué proceso se encuentra la misma.",
+    "timestamp": 1754285307,
+    "timestamp_local": 1754285307
+  },
+  {
     "id": 23926,
     "fecha": "04 de Aug del 2025 a las 12:40 AM",
     "hora_utc": "2025-08-04 04:40",
@@ -142,21 +158,5 @@
     "mensaje": "Terminología eléctrica: \n⚠Disparo automático por frecuencia (DAF).\nUn disparo por frecuencia o Descarga Automática por Frecuencia (DAF) , es una protección que posee el sistema eléctrico para cuando la frecuencia llega a valores mínimos permisibles que ponen en peligro la estabilidad de todo el sistema en su conjunto y provoca una desconexión automática de algunos circuitos hasta que se vuelva a recuperar su valor nominal a 60Hz o ciclos por segundo.\n\nAnte cualquier anomalía con el servicio eléctrico, usted debe llamar al 18888 y reportar la queja. Las operadoras en línea deben darle un número de reporte, guárdelo por si necesita llamar nuevamente para saber en qué proceso se encuentra la misma.",
     "timestamp": 1754247930,
     "timestamp_local": 1754247930
-  },
-  {
-    "id": 23907,
-    "fecha": "03 de Aug del 2025 a las 02:33 PM",
-    "hora_utc": "2025-08-03 18:33",
-    "mensaje": "📌📌En estos momentos tenemos una afectación por déficit de capacidad de generación de 119 MW en la provincia📌",
-    "timestamp": 1754246014,
-    "timestamp_local": 1754246014
-  },
-  {
-    "id": 23906,
-    "fecha": "03 de Aug del 2025 a las 01:48 PM",
-    "hora_utc": "2025-08-03 17:48",
-    "mensaje": "RECORDAMOS                                                                                                          ❌Circuitos no apagables que estarán afectados debido al alto déficit:❌ \n\n🕕 NOCHE\nZ 1183, GI 101, JI48, CI 185 de 18:00 pm a 2:00 am\nZ130 de 20:00 pm a 00:00 m\n5323 de 20:00 pm a 2:00 am\n🕓 Al amanecer:\nCI 185 de 4:00 am a 7:00 am",
-    "timestamp": 1754243282,
-    "timestamp_local": 1754243282
   }
 ]
