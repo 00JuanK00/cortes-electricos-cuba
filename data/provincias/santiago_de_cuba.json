@@ -1,5 +1,21 @@
 [
   {
+    "id": 42649,
+    "fecha": "03 de Aug del 2025 a las 07:51 PM",
+    "hora_utc": "2025-08-03 23:51",
+    "mensaje": "🔴Disparo Automático de Frecuencia (DAF):\nOcurre cuando la frecuencia está por debajo de los 60Hz y determinada carga o circuito se desconecta del sistema automáticamente hasta que se estabilice.",
+    "timestamp": 1754265068,
+    "timestamp_local": 1754265068
+  },
+  {
+    "id": 42648,
+    "fecha": "03 de Aug del 2025 a las 07:50 PM",
+    "hora_utc": "2025-08-03 23:50",
+    "mensaje": "🔴Se les informa a nuestros clientes que se encuentra disparado por DAF  el circuito 1 de Palma .",
+    "timestamp": 1754265042,
+    "timestamp_local": 1754265042
+  },
+  {
     "id": 42647,
     "fecha": "03 de Aug del 2025 a las 07:48 PM",
     "hora_utc": "2025-08-03 23:48",
@@ -142,21 +158,5 @@
     "mensaje": "🔊Estimados clientes se les informa que el circuito 15 está abierto  por Emergencia , disculpen por las molestias ocasionadas",
     "timestamp": 1754249499,
     "timestamp_local": 1754249499
-  },
-  {
-    "id": 42629,
-    "fecha": "03 de Aug del 2025 a las 03:23 PM",
-    "hora_utc": "2025-08-03 19:23",
-    "mensaje": "🔊Informamos a nuestros  clientes que quedan afectados por Déficit de Capacidad de Generación el circuito 2 y 24 de Santiago de Cuba  .  Pedimos disculpas por las molestias ocasionadas .",
-    "timestamp": 1754249010,
-    "timestamp_local": 1754249010
-  },
-  {
-    "id": 42628,
-    "fecha": "03 de Aug del 2025 a las 03:22 PM",
-    "hora_utc": "2025-08-03 19:22",
-    "mensaje": "🔊Informamos a nuestros  clientes que quedan afectados por Déficit de Capacidad de Generación la Línea 5395 Contramaestre - Baire  .  Pedimos disculpas por las molestias ocasionadas .",
-    "timestamp": 1754248974,
-    "timestamp_local": 1754248974
   }
 ]
