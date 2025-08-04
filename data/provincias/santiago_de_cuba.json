@@ -1,5 +1,21 @@
 [
   {
+    "id": 42680,
+    "fecha": "04 de Aug del 2025 a las 12:22 PM",
+    "hora_utc": "2025-08-04 16:22",
+    "mensaje": "🔴Disparo Automático de Frecuencia (DAF):🔴\nOcurre cuando la frecuencia está por debajo de los 60Hz y determinada carga o circuito se desconecta del sistema automáticamente hasta que se estabilice.",
+    "timestamp": 1754324528,
+    "timestamp_local": 1754324528
+  },
+  {
+    "id": 42679,
+    "fecha": "04 de Aug del 2025 a las 12:21 PM",
+    "hora_utc": "2025-08-04 16:21",
+    "mensaje": "🚨🔴Estimados clientes en estos momentos se encuentra afectado por un disparo por DAF el circuito 11 de Santiago,pedimos disculpas por las molestias ocasionadas.🚨🔴",
+    "timestamp": 1754324498,
+    "timestamp_local": 1754324498
+  },
+  {
     "id": 42678,
     "fecha": "04 de Aug del 2025 a las 11:45 AM",
     "hora_utc": "2025-08-04 15:45",
@@ -142,21 +158,5 @@
     "mensaje": "🔴Se les informa a nuestros clientes que se afecta el circuito 7 de Santiago por una manipulación",
     "timestamp": 1754280538,
     "timestamp_local": 1754280538
-  },
-  {
-    "id": 42660,
-    "fecha": "03 de Aug del 2025 a las 11:28 PM",
-    "hora_utc": "2025-08-04 03:28",
-    "mensaje": "🔴Disparo Automático de Frecuencia (DAF):\nOcurre cuando la frecuencia está por debajo de los 60Hz y determinada carga o circuito se desconecta del sistema automáticamente hasta que se estabilice.",
-    "timestamp": 1754278082,
-    "timestamp_local": 1754278082
-  },
-  {
-    "id": 42659,
-    "fecha": "03 de Aug del 2025 a las 11:27 PM",
-    "hora_utc": "2025-08-04 03:27",
-    "mensaje": "🔴Se les informa a nuestros clientes que se encuentran disparados por DAF los circuitos 11 y 17 de Santiago",
-    "timestamp": 1754278058,
-    "timestamp_local": 1754278058
   }
 ]
