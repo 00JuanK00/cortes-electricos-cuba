@@ -1,9 +1,33 @@
 [
   {
+    "id": 26686,
+    "fecha": "04 de Aug del 2025 a las 04:41 PM",
+    "hora_utc": "2025-08-04 20:41",
+    "mensaje": "⚠️Afectados por déficit de capacidad de generación los siguientes circuitos:\n🔹Bloque 4  \nMunicipio Encrucijada:\nCto 122 Encrucijada \nCto 123 Vizcaya \nCto 142 Comunidad La Sierra \nCto 126 Batey Emilio Córdova\nCto 125 Cavarrocas\nCto 124 El Santo\nMunicipio Camajuaní:\nCto 78 Jutiero \nMunicipio Camajuaní:\nCtos 77, 59 y 185 Vueltas",
+    "timestamp": 1754340109,
+    "timestamp_local": 1754340109
+  },
+  {
+    "id": 26685,
+    "fecha": "04 de Aug del 2025 a las 04:35 PM",
+    "hora_utc": "2025-08-04 20:35",
+    "mensaje": "💡Restablecido el Circuito 146 Aeropuerto.",
+    "timestamp": 1754339756,
+    "timestamp_local": 1754339756
+  },
+  {
+    "id": 26684,
+    "fecha": "04 de Aug del 2025 a las 04:06 PM",
+    "hora_utc": "2025-08-04 20:06",
+    "mensaje": "🔸Actualización del servicio eléctrico en la provincia🔸\n✍️De los 193 circuitos apagables que presenta la provincia, se mantienen afectados 170 circuitos.\n✍️En el momento de hacer esta nota la provincia tiene 146 MW de afectación por déficit de capacidad de generación, demanda máxima posible a apagar.\n✍️Cuenta con 149 afectaciones por averías secundarias y de servicio.",
+    "timestamp": 1754338009,
+    "timestamp_local": 1754338009
+  },
+  {
     "id": 26683,
     "fecha": "04 de Aug del 2025 a las 03:38 PM",
     "hora_utc": "2025-08-04 19:38",
-    "mensaje": "⚠️Disparado el Circuito 146 Aeropuerto perteneciente al municipio Santa Clara.",
+    "mensaje": "⚠️Disparo del circuito 146 Aeropuerto perteneciente al municipio Santa Clara.",
     "timestamp": 1754336291,
     "timestamp_local": 1754336291
   },
@@ -126,29 +150,5 @@
     "mensaje": "🛠Afectado el Circuito 3 (Centro) por emergencia, perteneciente al municipio Santa Clara.",
     "timestamp": 1754328582,
     "timestamp_local": 1754328582
-  },
-  {
-    "id": 26666,
-    "fecha": "04 de Aug del 2025 a las 01:28 PM",
-    "hora_utc": "2025-08-04 17:28",
-    "mensaje": "⚠️Se encuentran afectados por déficit de capacidad de generacion los siguientes circuitos:\nMunicipio Encrucijada \n👉Cto 122 Encrucijada\n👉Cto 123 Vizcaya \n👉Cto 142 comunidad la Sierra \n👉Cto 126 Batey Emilio Córdoba \n👉Cto 125 Cavarrocas \n👉Cto 124 El Santo",
-    "timestamp": 1754328514,
-    "timestamp_local": 1754328514
-  },
-  {
-    "id": 26665,
-    "fecha": "04 de Aug del 2025 a las 01:12 PM",
-    "hora_utc": "2025-08-04 17:12",
-    "mensaje": "⚠️ Serán afectados por déficit de capacidad de generación los siguientes circuitos:\n🔹Bloque 2  \nMunicipio Camajuaní:\nCtos 72 y 129\nCto 75 La Quinta\nCto 157 Luis Arcos Bergnes\nCtos 76 y 90 Vega Alta\nMunicipio Cifuentes:\nCtos 114 y 117\nCtos 116 y 155 Mata\nCto 186 Batey Unidad Proletaria\nCto 184 Sitio Grande",
-    "timestamp": 1754327533,
-    "timestamp_local": 1754327533
-  },
-  {
-    "id": 26664,
-    "fecha": "04 de Aug del 2025 a las 01:07 PM",
-    "hora_utc": "2025-08-04 17:07",
-    "mensaje": "💡Restablecido el Circuito 7 Universidad.",
-    "timestamp": 1754327244,
-    "timestamp_local": 1754327244
   }
 ]
