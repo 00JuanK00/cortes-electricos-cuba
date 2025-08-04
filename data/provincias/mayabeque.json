@@ -1,5 +1,21 @@
 [
   {
+    "id": 84081,
+    "fecha": "04 de Aug del 2025 a las 06:15 AM",
+    "hora_utc": "2025-08-04 10:15",
+    "mensaje": "🔷 Restablecido el servicio en el circuito 3130 que se encontraba afectado por disparo en las líneas 🔷",
+    "timestamp": 1754302506,
+    "timestamp_local": 1754302506
+  },
+  {
+    "id": 84080,
+    "fecha": "04 de Aug del 2025 a las 06:13 AM",
+    "hora_utc": "2025-08-04 10:13",
+    "mensaje": "🚨Por déficit de capacidad de generación se afecta el servicio en los siguientes circuitos:\n* 6 y 8 de San José 🚨",
+    "timestamp": 1754302428,
+    "timestamp_local": 1754302428
+  },
+  {
     "id": 84074,
     "fecha": "04 de Aug del 2025 a las 01:26 AM",
     "hora_utc": "2025-08-04 05:26",
@@ -102,29 +118,5 @@
     "mensaje": "🚨Por déficit de capacidad de generación se afecta el servicio en el siguiente circuito:\n* Melena 1 🚨",
     "timestamp": 1754280047,
     "timestamp_local": 1754280047
-  },
-  {
-    "id": 84061,
-    "fecha": "03 de Aug del 2025 a las 11:48 PM",
-    "hora_utc": "2025-08-04 03:48",
-    "mensaje": "🚨Por déficit de capacidad de generación se afecta el servicio en el siguiente circuito:\n* Somorrostro 🚨",
-    "timestamp": 1754279331,
-    "timestamp_local": 1754279331
-  },
-  {
-    "id": 84060,
-    "fecha": "03 de Aug del 2025 a las 11:41 PM",
-    "hora_utc": "2025-08-04 03:41",
-    "mensaje": "♦️ Afectado el servicio en los siguientes circuitos por disparo en línea de 110 KV:\n*1657\n*3300\n*3845\n*3295\n*4996 ♦️",
-    "timestamp": 1754278904,
-    "timestamp_local": 1754278904
-  },
-  {
-    "id": 84059,
-    "fecha": "03 de Aug del 2025 a las 11:12 PM",
-    "hora_utc": "2025-08-04 03:12",
-    "mensaje": "🚨Por déficit de capacidad de generación se afecta el servicio en el siguiente circuito:\n* Batabanó 🚨",
-    "timestamp": 1754277151,
-    "timestamp_local": 1754277151
   }
 ]
