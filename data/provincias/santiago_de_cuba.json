@@ -1,5 +1,21 @@
 [
   {
+    "id": 42699,
+    "fecha": "04 de Aug del 2025 a las 05:55 PM",
+    "hora_utc": "2025-08-04 21:55",
+    "mensaje": "Disparo:\nApertura no voluntaria de un interruptor como vía de protección para desconectar uno o varios elementos del circuito, subestación o sistema, restableciéndose el servicio rápidamente en dependencia de la causa",
+    "timestamp": 1754344530,
+    "timestamp_local": 1754344530
+  },
+  {
+    "id": 42698,
+    "fecha": "04 de Aug del 2025 a las 05:55 PM",
+    "hora_utc": "2025-08-04 21:55",
+    "mensaje": "🔊Estimados clientes se les informa que el circuito 11 se encuentra Disparado , disculpen por las molestias ocasionadas.",
+    "timestamp": 1754344520,
+    "timestamp_local": 1754344520
+  },
+  {
     "id": 42697,
     "fecha": "04 de Aug del 2025 a las 05:18 PM",
     "hora_utc": "2025-08-04 21:18",
@@ -110,21 +126,5 @@
     "mensaje": "🔴Disparo Automático de Frecuencia (DAF):🔴\nOcurre cuando la frecuencia está por debajo de los 60Hz y determinada carga o circuito se desconecta del sistema automáticamente hasta que se estabilice.",
     "timestamp": 1754324528,
     "timestamp_local": 1754324528
-  },
-  {
-    "id": 42679,
-    "fecha": "04 de Aug del 2025 a las 12:21 PM",
-    "hora_utc": "2025-08-04 16:21",
-    "mensaje": "🚨🔴Estimados clientes en estos momentos se encuentra afectado por un disparo por DAF el circuito 11 de Santiago,pedimos disculpas por las molestias ocasionadas.🚨🔴",
-    "timestamp": 1754324498,
-    "timestamp_local": 1754324498
-  },
-  {
-    "id": 42678,
-    "fecha": "04 de Aug del 2025 a las 11:45 AM",
-    "hora_utc": "2025-08-04 15:45",
-    "mensaje": "🔴Circuito en avería🔴                                                                                                                        \n Sucede si un circuito se interrumpe por causa de un defecto en un cable conductor de corriente (fase o neutro), un fusible fundido o disyuntor. En sistemas trifásicos una falla puede implicar una fase, más de una fase con la tierra o puede ocurrir solo entre fases.",
-    "timestamp": 1754322314,
-    "timestamp_local": 1754322314
   }
 ]
