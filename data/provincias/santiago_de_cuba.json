@@ -1,5 +1,13 @@
 [
   {
+    "id": 42669,
+    "fecha": "04 de Aug del 2025 a las 05:33 AM",
+    "hora_utc": "2025-08-04 09:33",
+    "mensaje": "🔴Se les informa a nuestros clientes que se afecta por Déficit de Capacidad de Generación los circuitos 1 de Santiago y lìnea 5380 Mella.",
+    "timestamp": 1754299991,
+    "timestamp_local": 1754299991
+  },
+  {
     "id": 42668,
     "fecha": "04 de Aug del 2025 a las 05:07 AM",
     "hora_utc": "2025-08-04 09:07",
@@ -150,13 +158,5 @@
     "mensaje": "🔴 Les seguiremos informando a través de nuestro canal de Telegram sobre la situación de la Disponibilidad del Sistema en nuestra provincia.",
     "timestamp": 1754269365,
     "timestamp_local": 1754269365
-  },
-  {
-    "id": 42649,
-    "fecha": "03 de Aug del 2025 a las 07:51 PM",
-    "hora_utc": "2025-08-03 23:51",
-    "mensaje": "🔴Disparo Automático de Frecuencia (DAF):\nOcurre cuando la frecuencia está por debajo de los 60Hz y determinada carga o circuito se desconecta del sistema automáticamente hasta que se estabilice.",
-    "timestamp": 1754265068,
-    "timestamp_local": 1754265068
   }
 ]
