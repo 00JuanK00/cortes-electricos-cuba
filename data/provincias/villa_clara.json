@@ -1,5 +1,29 @@
 [
   {
+    "id": 26700,
+    "fecha": "04 de Aug del 2025 a las 07:01 PM",
+    "hora_utc": "2025-08-04 23:01",
+    "mensaje": "Afectados 166 MW en la provincia, demanda máxima posible a apagar en estos momentos.",
+    "timestamp": 1754348460,
+    "timestamp_local": 1754348460
+  },
+  {
+    "id": 26699,
+    "fecha": "04 de Aug del 2025 a las 06:56 PM",
+    "hora_utc": "2025-08-04 22:56",
+    "mensaje": "💡Restablecido el Circuito 3 Centro, perteneciente al municipio Santa Clara.",
+    "timestamp": 1754348182,
+    "timestamp_local": 1754348182
+  },
+  {
+    "id": 26698,
+    "fecha": "04 de Aug del 2025 a las 06:55 PM",
+    "hora_utc": "2025-08-04 22:55",
+    "mensaje": "⚠️Afectado por emergencia el Circuito 31 Sakenaf perteneciente al municipio Santa Clara.",
+    "timestamp": 1754348127,
+    "timestamp_local": 1754348127
+  },
+  {
     "id": 26696,
     "fecha": "04 de Aug del 2025 a las 06:38 PM",
     "hora_utc": "2025-08-04 22:38",
@@ -126,29 +150,5 @@
     "mensaje": "💡Restablecido el servicio en los siguientes circuitos:\n🔸Bloque 4 \nMunicipio Encrucijada:\nCto 122 Encrucijada \nCto 123 Vizcaya \nCto 142 Comunidad La Sierra \nCto 126 Batey Emilio Córdova\nCto 125 Cavarrocas\nCto 124 El Santo\nMunicipio Camajuaní:\nCto 78 Jutiero\nMunicipio Camajuaní:\nCtos 77, 59 y 185 Vueltas",
     "timestamp": 1754335081,
     "timestamp_local": 1754335081
-  },
-  {
-    "id": 26680,
-    "fecha": "04 de Aug del 2025 a las 03:16 PM",
-    "hora_utc": "2025-08-04 19:16",
-    "mensaje": "⚠️Afectados por déficit de capacidad de generación los siguientes circuitos:\n🔹Bloque 8\nMunicipio Caibarién:\nCtos 61, 62 \nCtos 63 y 64\nCtos 182 y 183 Van Troi\n🔹Bloque 10\nMunicipio Placetas \nCtos 98 y 99 Placetas\nCtos 100 y 151 Placetas\nCto 104 Hermanos Amejeiras\nCto 103 Batey Carbó Servía",
-    "timestamp": 1754335000,
-    "timestamp_local": 1754335000
-  },
-  {
-    "id": 26679,
-    "fecha": "04 de Aug del 2025 a las 03:14 PM",
-    "hora_utc": "2025-08-04 19:14",
-    "mensaje": "⚠️Serán afectados por déficit de capacidad de generación los siguientes circuitos:\n🔹Bloque 1\n Municipio manicaragua \n👉Ctos 109 y 150 \n👉Ctos 108 y 110 La Piedra \n👉Cto 111 Mataguá \nMunicipio Encrucijada \n👉Cto 120 Calabazar \n👉Ctos 121 y 127 Perucho",
-    "timestamp": 1754334885,
-    "timestamp_local": 1754334885
-  },
-  {
-    "id": 26678,
-    "fecha": "04 de Aug del 2025 a las 03:11 PM",
-    "hora_utc": "2025-08-04 19:11",
-    "mensaje": "Afectados 148 MW en la provincia, demanda máxima posible a apagar en estos momentos.",
-    "timestamp": 1754334672,
-    "timestamp_local": 1754334672
   }
 ]
