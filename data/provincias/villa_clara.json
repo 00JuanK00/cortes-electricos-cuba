@@ -1,5 +1,29 @@
 [
   {
+    "id": 26665,
+    "fecha": "04 de Aug del 2025 a las 01:12 PM",
+    "hora_utc": "2025-08-04 17:12",
+    "mensaje": "⚠️ Serán afectados por déficit de capacidad de generación los siguientes circuitos:\n🔹Bloque 2  \nMunicipio Camajuaní:\nCtos 72 y 129\nCto 75 La Quinta\nCto 157 Luis Arcos Bergnes\nCtos 76 y 90 Vega Alta\nMunicipio Cifuentes:\nCtos 114 y 117\nCtos 116 y 155 Mata\nCto 186 Batey Unidad Proletaria\nCto 184 Sitio Grande",
+    "timestamp": 1754327533,
+    "timestamp_local": 1754327533
+  },
+  {
+    "id": 26664,
+    "fecha": "04 de Aug del 2025 a las 01:07 PM",
+    "hora_utc": "2025-08-04 17:07",
+    "mensaje": "💡Restablecido el Circuito 7 Universidad.",
+    "timestamp": 1754327244,
+    "timestamp_local": 1754327244
+  },
+  {
+    "id": 26663,
+    "fecha": "04 de Aug del 2025 a las 01:04 PM",
+    "hora_utc": "2025-08-04 17:04",
+    "mensaje": "Afectados 155 MW en la provincia, demanda máxima posible a apagar en estos momentos.",
+    "timestamp": 1754327081,
+    "timestamp_local": 1754327081
+  },
+  {
     "id": 26662,
     "fecha": "04 de Aug del 2025 a las 12:40 PM",
     "hora_utc": "2025-08-04 16:40",
@@ -126,29 +150,5 @@
     "mensaje": "Afectado circuito 4 ( Consejo- Centro) perteneciente al municipio de Santa Clara por manipulación para reponer transformador .",
     "timestamp": 1754314768,
     "timestamp_local": 1754314768
-  },
-  {
-    "id": 26645,
-    "fecha": "04 de Aug del 2025 a las 09:03 AM",
-    "hora_utc": "2025-08-04 13:03",
-    "mensaje": "⚠️ Afectados por déficit de capacidad de generación los siguientes circuitos:\n🔹Bloque 1 \nMunicipio Manicaragua:\nCtos 109 y 150\nCtos 108 y 110 La Piedra\nCto 111 Mataguá",
-    "timestamp": 1754312596,
-    "timestamp_local": 1754312596
-  },
-  {
-    "id": 26644,
-    "fecha": "04 de Aug del 2025 a las 09:00 AM",
-    "hora_utc": "2025-08-04 13:00",
-    "mensaje": "Afectados 143 MW en la provincia, demanda máxima posible a apagar en estos momentos.",
-    "timestamp": 1754312430,
-    "timestamp_local": 1754312430
-  },
-  {
-    "id": 26643,
-    "fecha": "04 de Aug del 2025 a las 08:15 AM",
-    "hora_utc": "2025-08-04 12:15",
-    "mensaje": "Nota informativa. \nSituación del SEN para el 4 de agosto de 2025.\n\n En el día de ayer se afectó el servicio las 24 horas y se mantuvo afectado durante toda la madrugada de hoy. La máxima afectación por déficit de capacidad de generación en el día de ayer fue de 1799 MW a las 20:30 horas, no coincidente con la hora de máxima demanda. \n \nLa producción de energía de los 24 nuevos parques solares fotovoltaicos fue de 2654 MWh, con 549 MW como máxima potencia entregada en el horario de la media con esta fuente de generación. \n La disponibilidad del SEN a las 06:00horas es de 1760 MW  la demanda 3210 MW   con 1538 MW afectados por déficit de capacidad. En el horario de la media se estima una afectación de 1340 MW.\n\nSe encuentran en avería la unidad6 de la CTE Mariel, la unidad 2 de la CTE Felton y la unidad 5 de la CTE Diez\nde Octubre. Se encuentran en mantenimiento la unidad 2 de la CTE Santa Cruz, la unidad 4 de la CTE Carlos Manuel de Céspedes en Cienfuegos y  la unidad 5 de la CTE Renté. \n \nLas limitaciones en la generación térmica son de 393 MW. \n\n Se encuentran fuera de servicio por combustible                               \n61 centrales de generación distribuida con 485 MW y las patanas de Regla con 89 MW para un total de 574 MW.\n\n Para el horario pico se estima la entrada de 7 Motores en la Patana de Regla con 48 MW y el completamiento de la\nCentral de Energás Boca de Jaruco con 100 MW.\n\n Con este pronóstico, en el horario pico se estima una disponibilidad de 1908 MW y una demanda máxima de  3700 MW, para un déficit de 1792 MW, por lo que de mantenerse las condiciones previstas se pronostica una afectación de 1862MW en este horario.\n\n UNE-MINEM---07:00 horas",
-    "timestamp": 1754309731,
-    "timestamp_local": 1754309731
   }
 ]
