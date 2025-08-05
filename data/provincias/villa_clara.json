@@ -1,5 +1,29 @@
 [
   {
+    "id": 26716,
+    "fecha": "05 de Aug del 2025 a las 01:01 AM",
+    "hora_utc": "2025-08-05 05:01",
+    "mensaje": "Afectados 156 MW en la provincia, demanda máxima posible a apagar en estos momentos.",
+    "timestamp": 1754370068,
+    "timestamp_local": 1754370068
+  },
+  {
+    "id": 26715,
+    "fecha": "05 de Aug del 2025 a las 12:27 AM",
+    "hora_utc": "2025-08-05 04:27",
+    "mensaje": "🛠️Afectado por manipulación el Circuito 31 Sakenaf perteneciente al municipio Santa Clara.",
+    "timestamp": 1754368039,
+    "timestamp_local": 1754368039
+  },
+  {
+    "id": 26714,
+    "fecha": "05 de Aug del 2025 a las 12:05 AM",
+    "hora_utc": "2025-08-05 04:05",
+    "mensaje": "🕛Actualización del servicio eléctrico en las últimas 6 horas.\n👉El déficit de capacidad de generación osciló entre los 66 MW y los 175 MW.\n👉De los 193 circuitos apagables que presenta la provincia, se mantienen afectados 172 circuitos.\n 👉Cuenta con 162 afectaciones por averías secundarias y de servicio:\n🔸Caibarién (1)\n🔸Cifuentes (1)\n🔸Manicaragua (20)\n🔸Placetas (5)\n🔸Quemado (1)\n🔸Ranchuelo (1)\n🔸Remedio (1)\n🔸Sagua (4)\n🔸Santa Clara (116)\n🔸Santo Domingo (12)\n🛠️Se encuentra 1 avería en vía de solución.\n🛠️Pendientes a solucionar por el área técnica 16.\n🔷Actualización de Averías🔷\nMunicipio Santa Clara:\nCto 32 y 33 (RF-33kv)\nCto 31 Sakenaf\nCto 22 (Construcciones Textiles)\nMunicipio Santo Domingo:\nLínea 1715\nCto 187 Batey Carlos Baliño\nCto 82 Ulacia\nCto 84 Rodrigo\nLínea 1720 \nCto 195 Batey George Washington\nCtos 83 y 165 Manacas\nCtos 85 y 86 Pajarito\nCtos 160 y 161 Cascajal\nMunicipio Camajuaní\nCto 72\nMunicipio Remedios\nCto 71 Buena Vista",
+    "timestamp": 1754366747,
+    "timestamp_local": 1754366747
+  },
+  {
     "id": 26713,
     "fecha": "04 de Aug del 2025 a las 11:18 PM",
     "hora_utc": "2025-08-05 03:18",
@@ -118,29 +142,5 @@
     "mensaje": "⚠️Afectado por emergencia el Circuito 31 Sakenaf perteneciente al municipio Santa Clara.",
     "timestamp": 1754348127,
     "timestamp_local": 1754348127
-  },
-  {
-    "id": 26696,
-    "fecha": "04 de Aug del 2025 a las 06:38 PM",
-    "hora_utc": "2025-08-04 22:38",
-    "mensaje": "🛠️Será afectado por manipulación el Circuito 3 Centro perteneciente al municipio Santa Clara para reponer un transformador.",
-    "timestamp": 1754347137,
-    "timestamp_local": 1754347137
-  },
-  {
-    "id": 26695,
-    "fecha": "04 de Aug del 2025 a las 06:28 PM",
-    "hora_utc": "2025-08-04 22:28",
-    "mensaje": "⚠️Disparado el Cto 42 Manajanabo, perteneciente al municipio Santa Clara.",
-    "timestamp": 1754346528,
-    "timestamp_local": 1754346528
-  },
-  {
-    "id": 26694,
-    "fecha": "04 de Aug del 2025 a las 06:26 PM",
-    "hora_utc": "2025-08-04 22:26",
-    "mensaje": "⚠️Serán afectados por déficit de capacidad de generación los siguientes circuitos:\nBloque 4\nMunicipio Santa Clara:\nCto 5 (Dobarganes)\nCto 17 (Subplanta)  \nCto 9 (Moldes y Troqueles)\nCto 133 (Cafetera)\nCto 13 (Zona Industrial)",
-    "timestamp": 1754346385,
-    "timestamp_local": 1754346385
   }
 ]
