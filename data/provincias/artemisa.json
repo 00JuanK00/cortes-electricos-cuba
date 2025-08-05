@@ -1,5 +1,21 @@
 [
   {
+    "id": 32214,
+    "fecha": "05 de Aug del 2025 a las 09:25 AM",
+    "hora_utc": "2025-08-05 13:25",
+    "mensaje": "⚠️ Pronostico para el horario pico (05/08/2025):\n\nDisponibilidad: 1948 MW\nDemanda maxima: 3750 MW\nDéficit: 1802 MW\nAfectacion: 1872 MW\n\nMas detalles sobre el estado del SEN en 👉 https://www.unionelectrica.cu/nota-informativa/",
+    "timestamp": 1754400350,
+    "timestamp_local": 1754400350
+  },
+  {
+    "id": 32212,
+    "fecha": "05 de Aug del 2025 a las 08:37 AM",
+    "hora_utc": "2025-08-05 12:37",
+    "mensaje": "⛔Se mantienen afectados por dèficit los siguientes circuitos\n\n➡️Circuito Fábrica de Carretas de Güira de Melena\n➡️Circuito 5040 de Caimito \n➡️Circuito Maní de San Cristóbal\n➡️Circuito 1258 de Artemisa \n\n\n❌ Tenemos una afectación de 132MW",
+    "timestamp": 1754397425,
+    "timestamp_local": 1754397425
+  },
+  {
     "id": 32211,
     "fecha": "05 de Aug del 2025 a las 06:48 AM",
     "hora_utc": "2025-08-05 10:48",
@@ -134,29 +150,5 @@
     "mensaje": "🚨‼️ Disparado el circuito de 5050 de Bauta",
     "timestamp": 1754341333,
     "timestamp_local": 1754341333
-  },
-  {
-    "id": 32192,
-    "fecha": "04 de Aug del 2025 a las 04:25 PM",
-    "hora_utc": "2025-08-04 20:25",
-    "mensaje": "⛔Se mantienen afectados por dèficit los siguientes circuitos\n\n➡️Maní en San Cristóbal\n➡️San Pedro de Bauta\n➡️241 y 246 de Bahía Honda\n➡️3205 de Cabaña y Quiebra Hacha\n➡️1570 de Artemisa y Candelaria\n➡️3210 de Guanajay\n➡️Playa Baracoa \n➡️Bauta Vieja\n➡️236 de Bahía Honda\n➡️1940 de San Antonio\n➡️Sub San Cristóbal\n➡️Sub Plátano de Artemisa\n\n➡️3305 de Güira se encuentra en Avería por 110 KV en la subestación del Gabriel y pasa a cubrir el dèficit\n\n❌ Tenemos una afectación de 137 MW",
-    "timestamp": 1754339106,
-    "timestamp_local": 1754339106
-  },
-  {
-    "id": 32191,
-    "fecha": "04 de Aug del 2025 a las 01:45 PM",
-    "hora_utc": "2025-08-04 17:45",
-    "mensaje": "⛔Se mantiene afectado por dèficit el circuito\n\n➡️Circuito 3205 de Cabaña y Quiebra Hacha\n\n❌ Tenemos una afectación de 140 MW",
-    "timestamp": 1754329539,
-    "timestamp_local": 1754329539
-  },
-  {
-    "id": 32190,
-    "fecha": "04 de Aug del 2025 a las 01:41 PM",
-    "hora_utc": "2025-08-04 17:41",
-    "mensaje": "🚨‼️ Circuito 1570 de Artemisa y Candelaria disparado",
-    "timestamp": 1754329312,
-    "timestamp_local": 1754329312
   }
 ]
