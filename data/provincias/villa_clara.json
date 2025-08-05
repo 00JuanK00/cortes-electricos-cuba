@@ -1,9 +1,33 @@
 [
   {
+    "id": 26769,
+    "fecha": "05 de Aug del 2025 a las 06:37 PM",
+    "hora_utc": "2025-08-05 22:37",
+    "mensaje": "💡Restablecido el servicio eléctrico en la línea 4608  perteneciente al municipio Corralillo.",
+    "timestamp": 1754433432,
+    "timestamp_local": 1754433432
+  },
+  {
+    "id": 26768,
+    "fecha": "05 de Aug del 2025 a las 06:34 PM",
+    "hora_utc": "2025-08-05 22:34",
+    "mensaje": "💡Restablecido el servicio eléctrico al Cto 83 Manacas perteneciente al municipio Santo Domingo",
+    "timestamp": 1754433287,
+    "timestamp_local": 1754433287
+  },
+  {
+    "id": 26767,
+    "fecha": "05 de Aug del 2025 a las 06:16 PM",
+    "hora_utc": "2025-08-05 22:16",
+    "mensaje": "⚠️Afectados por déficit de capacidad de generación los siguientes circuitos:\n🔹Bloque 9\nMunicipio Santa Clara:\n👉Cto 6 (Vigía)\n🔹Bloque 6\nMunicipio Santa Clara:\n👉Cto 141 (Manuelita)",
+    "timestamp": 1754432166,
+    "timestamp_local": 1754432166
+  },
+  {
     "id": 26766,
     "fecha": "05 de Aug del 2025 a las 06:07 PM",
     "hora_utc": "2025-08-05 22:07",
-    "mensaje": "🕕Actualización del servicio eléctrico en las últimas 6 horas.\n\n👉El déficit de capacidad de generación osciló entre los 140 MW y los 159 MW.\n👉De los 193 circuitos apagables que presenta la provincia, se mantienen afectados 170 circuitos.\n\n 👉Cuenta con 182 afectaciones por averías secundarias y de servicio:🔸Caibarien (1)\n🔸Encrucijada(1)\n🔸Corralillo (1)\n🔸Cifuentes (1)\n🔸Manicaragua (7)\n🔸Ranchuelo (6)\n🔸Sagua (3)\n🔸Placetas (7)\n🔸Remedio (8)\n🔸Santa Clara (132)\n🔸Santo Domingo (10)\n🛠️Se encuentran 7 averías en vías de solución.\n🛠️Pendientes a solucionar por el área técnica 15.\n🔷Actualización de Averías🔷\nMunicipio Santo Domingo \n👉Cto 83 Manacas\nMunicipio Santa Clara \n👉circuito 13 (Zona Industrial)",
+    "mensaje": "🕕Actualización del servicio eléctrico en las últimas 6 horas.\n\n👉El déficit de capacidad de generación osciló entre los 140 MW y los 159 MW.\n👉De los 193 circuitos apagables que presenta la provincia, se mantienen afectados 170 circuitos.\n 👉Cuenta con 182 afectaciones por averías secundarias y de servicio:\n🔸Caibarien (1)\n🔸Encrucijada(1)\n🔸Corralillo (1)\n🔸Cifuentes (1)\n🔸Manicaragua (7)\n🔸Ranchuelo (6)\n🔸Sagua (3)\n🔸Placetas (7)\n🔸Remedio (8)\n🔸Santa Clara (132)\n🔸Santo Domingo (10)\n🛠️Se encuentran 7 averías en vías de solución.\n🛠️Pendientes a solucionar por el área técnica 15.\n🔷Actualización de Averías🔷\nMunicipio Santo Domingo \n👉Cto 83 Manacas\nMunicipio Santa Clara \n👉circuito 13 (Zona Industrial)\n🛠️Se encuentra afectada por avería la linea 4608 afectando los siguientes circuitos (Se estudian sus causas",
     "timestamp": 1754431673,
     "timestamp_local": 1754431673
   },
@@ -134,29 +158,5 @@
     "mensaje": "🛠 Brigadas de nuestra Empresa continúan las labores de reparación en  línea 1720 perteneciente al municipio de Santo Domingo por poste y cruceta partida.",
     "timestamp": 1754412034,
     "timestamp_local": 1754412034
-  },
-  {
-    "id": 26748,
-    "fecha": "05 de Aug del 2025 a las 12:36 PM",
-    "hora_utc": "2025-08-05 16:36",
-    "mensaje": "⚠️ Serán afectados por déficit de capacidad de generación los siguientes circuitos:\n🔹Bloque 11\nMunicipio Remedios\n👉Cto 71 Buena Vista\n👉Cto 143 Batey Heriberto  Duquesne\n👉Cto 69 Zuluetas\n👉Cto 70 Zuluetas\n👉Cto 67 Remedios\n👉Cto 152 Remedios \n👉Cto 68 Remedios\n👉Cto 118 Remedios",
-    "timestamp": 1754411810,
-    "timestamp_local": 1754411810
-  },
-  {
-    "id": 26746,
-    "fecha": "05 de Aug del 2025 a las 12:26 PM",
-    "hora_utc": "2025-08-05 16:26",
-    "mensaje": "⚠️Afectados por déficit de capacidad de generación los siguientes circuitos:\n🔹Bloque 1 \nMunicipio Manicaragua:\n👉Ctos 109 y 150\n👉Ctos 108 y 110 La Piedra\n👉Cto 111 Mataguá\nMunicipio Encrucijada\n👉Cto 120 Calabazar\n👉Ctos 121 y 127 Perucho",
-    "timestamp": 1754411197,
-    "timestamp_local": 1754411197
-  },
-  {
-    "id": 26745,
-    "fecha": "05 de Aug del 2025 a las 12:14 PM",
-    "hora_utc": "2025-08-05 16:14",
-    "mensaje": "🛠️Se encuentra afectada por avería la linea 4608 afectando los siguientes circuitos (Se estudian sus causas)\nMunicipio Corralillo:\n👉Ctos 58 y 159\n👉Cto 57 Motembo\n👉Cto 56 Yabre\n👉Cto 60 La Sierra",
-    "timestamp": 1754410497,
-    "timestamp_local": 1754410497
   }
 ]
