@@ -1,5 +1,13 @@
 [
   {
+    "id": 24000,
+    "fecha": "05 de Aug del 2025 a las 07:10 AM",
+    "hora_utc": "2025-08-05 11:10",
+    "mensaje": "📌En estos momentos tenemos una afectación por déficit de capacidad de generación de 152 MW en la provincia📌",
+    "timestamp": 1754392225,
+    "timestamp_local": 1754392225
+  },
+  {
     "id": 23999,
     "fecha": "05 de Aug del 2025 a las 06:31 AM",
     "hora_utc": "2025-08-05 10:31",
@@ -150,13 +158,5 @@
     "mensaje": "⚠️ATENCIÓN⚠️: Restablecido el circuito 4945, que se encontraba en Disparo Automático por Frecuencia (DAF), el cual da servicio a Cidra y Sabanilla.",
     "timestamp": 1754347199,
     "timestamp_local": 1754347199
-  },
-  {
-    "id": 23980,
-    "fecha": "04 de Aug del 2025 a las 06:27 PM",
-    "hora_utc": "2025-08-04 22:27",
-    "mensaje": "⚠Disparo automático por frecuencia (DAF) del circuito 4945 que da servicio Cidra y Sabanilla.⚠",
-    "timestamp": 1754346464,
-    "timestamp_local": 1754346464
   }
 ]
