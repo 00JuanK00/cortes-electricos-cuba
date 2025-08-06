@@ -1,5 +1,13 @@
 [
   {
+    "id": 26806,
+    "fecha": "06 de Aug del 2025 a las 03:57 PM",
+    "hora_utc": "2025-08-06 19:57",
+    "mensaje": "🔸Actualización del servicio eléctrico en la provincia🔸\n✍️De los 165 circuitos apagables que presenta la provincia, se mantienen afectados 162 circuitos.\n✍️En el momento de hacer esta nota la provincia tiene 135 MW de afectación por déficit de capacidad de generación, demanda máxima posible a apagar.\n✍️Cuenta con 130 afectaciones por averías secundarias y de servicio.",
+    "timestamp": 1754510264,
+    "timestamp_local": 1754510264
+  },
+  {
     "id": 26805,
     "fecha": "06 de Aug del 2025 a las 03:18 PM",
     "hora_utc": "2025-08-06 19:18",
@@ -134,13 +142,5 @@
     "mensaje": "🛠️Disparo por DAF de la Linea 1915 perteneciente al municipio Placetas afectando los circuitos: Su solución esta en proceso \nMunicipio Placetas:\n👉Cto 192 Benito Juárez\n👉Cto 102 Peroti",
     "timestamp": 1754477655,
     "timestamp_local": 1754477655
-  },
-  {
-    "id": 26785,
-    "fecha": "06 de Aug del 2025 a las 06:43 AM",
-    "hora_utc": "2025-08-06 10:43",
-    "mensaje": "✍️Disparo automático por frecuencia (DAF). \nUn disparo por frecuencia o Descarga Automática por Frecuencia DAF es una protección que posee el sistema eléctrico para cuando la frecuencia llega a valores mínimos permisibles que ponen en peligro la estabilidad de todo el sistema en su conjunto y provoca una desconexión automática de algunos circuitos hasta que esta vuelva a recuperar su valor nominal a 60 Hz o ciclos por segundo. Esto ocurre al salir de forma imprevista o repentina una planta generadora con una potencia determinada y el sistema en su conjunto necesita liberar esa carga hasta tanto se puedan recuperar la potencia de generación perdida anteriormente o dar las afectaciones al servicio por déficit de generación.",
-    "timestamp": 1754477019,
-    "timestamp_local": 1754477019
   }
 ]
