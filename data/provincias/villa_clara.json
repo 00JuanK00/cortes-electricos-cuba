@@ -1,5 +1,13 @@
 [
   {
+    "id": 26805,
+    "fecha": "06 de Aug del 2025 a las 03:18 PM",
+    "hora_utc": "2025-08-06 19:18",
+    "mensaje": "⚠️Afectados por déficit de generación los siguientes circuitos:\n🔹Bloque 8\n👉Municipio Caibarién:\nCtos 61, 62 \n👉Municipio Caibarién\nCtos 63 y 64\nCtos 182 y 183 Van Troi",
+    "timestamp": 1754507907,
+    "timestamp_local": 1754507907
+  },
+  {
     "id": 26804,
     "fecha": "06 de Aug del 2025 a las 02:15 PM",
     "hora_utc": "2025-08-06 18:15",
@@ -134,13 +142,5 @@
     "mensaje": "✍️Disparo automático por frecuencia (DAF). \nUn disparo por frecuencia o Descarga Automática por Frecuencia DAF es una protección que posee el sistema eléctrico para cuando la frecuencia llega a valores mínimos permisibles que ponen en peligro la estabilidad de todo el sistema en su conjunto y provoca una desconexión automática de algunos circuitos hasta que esta vuelva a recuperar su valor nominal a 60 Hz o ciclos por segundo. Esto ocurre al salir de forma imprevista o repentina una planta generadora con una potencia determinada y el sistema en su conjunto necesita liberar esa carga hasta tanto se puedan recuperar la potencia de generación perdida anteriormente o dar las afectaciones al servicio por déficit de generación.",
     "timestamp": 1754477019,
     "timestamp_local": 1754477019
-  },
-  {
-    "id": 26784,
-    "fecha": "06 de Aug del 2025 a las 06:42 AM",
-    "hora_utc": "2025-08-06 10:42",
-    "mensaje": "🛠️Disparo por DAF de la Linea 1910 perteneciente al municipio Placetas afectando los circuitos:\nMunicipio Placetas \n👉Ctos 98 y 99 Placetas\n👉Ctos 100 y 151 Placetas\n👉Cto 104 Hermanos Amejeiras\n👉Cto 103 Batey Carbó Servía",
-    "timestamp": 1754476957,
-    "timestamp_local": 1754476957
   }
 ]
