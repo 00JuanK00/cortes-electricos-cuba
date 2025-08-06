@@ -1,5 +1,37 @@
 [
   {
+    "id": 24068,
+    "fecha": "06 de Aug del 2025 a las 08:15 AM",
+    "hora_utc": "2025-08-06 12:15",
+    "mensaje": "‼️En estos momentos tenemos una afectación de 151 MW de afectación por déficit de capacidad de generación en la provincia.",
+    "timestamp": 1754482536,
+    "timestamp_local": 1754482536
+  },
+  {
+    "id": 24067,
+    "fecha": "06 de Aug del 2025 a las 08:13 AM",
+    "hora_utc": "2025-08-06 12:13",
+    "mensaje": "**🧏➡️Circuitos no apagables que se afectarán debido al alto déficit:**\n\n- Circuitos Z1183, Z130, GI101, JI48 y MI1453 se afectarán de 11:00 a 14:00\n-MI1453 de 13:00 a 19:00\n-Circuitos Z1183, JI48, GI101, Z130, MI1453 y  CI185 se afectarán de 19:00 a 02:00\n- Circuito 5223 se afectará de 20:00 a 02:00\nAl amanecer:\n- Circuito CI185 se afectará de 05:00 a 07:00",
+    "timestamp": 1754482438,
+    "timestamp_local": 1754482438
+  },
+  {
+    "id": 24066,
+    "fecha": "06 de Aug del 2025 a las 08:07 AM",
+    "hora_utc": "2025-08-06 12:07",
+    "mensaje": "📢  Nota Informativa - Situación del SEN al 6 de agosto de 2025\n\nEn el día de ayer se afectó el servicio las 24 horas y se mantuvo afectado durante toda la madrugada de hoy. La máxima afectación por déficit de capacidad de generación en el día de ayer fue de 2010 MW a las 21:10 horas, superior a lo planificado debido a la limitación tecnologica en la Unidad 3 de la CTE Carlos Manuel de Céspedes y la salida imprevista de la Unidad 6 de la CTE Renté.\n\n☀️ Producción de energía de los 24 parques solares fotovoltaicos: 2621 MWh, con 551 MW como máxima potencia entregada en el horario de la media.\n\n🔧 Estado actual:\n\nDisponibilidad: 1680 MW.\nDemanda: 3050 MW.\nAfectación actual: 1418 MW. \nPronóstico para el mediodía: 1550 MW afectados.\n\n🔴 Pronóstico para el horario pico:\nSe proyecta una disponibilidad de 1962 MW y una demanda de 3750 MW, lo que generaría un déficit de 1788 MW, para una afectación de 1858 MW.\n\nMás detalles en 👇\nhttps://www.unionelectrica.cu/nota-informativa/",
+    "timestamp": 1754482066,
+    "timestamp_local": 1754482066
+  },
+  {
+    "id": 24065,
+    "fecha": "06 de Aug del 2025 a las 07:54 AM",
+    "hora_utc": "2025-08-06 11:54",
+    "mensaje": "✅Resumen de afectaciones por déficit de capacidad de generación en la provincia del 06/08/2025:\n En el día de ayer se afectó el servicio eléctrico por déficit de capacidad de generación de forma ininterrumpida durante todo el día y no fue posible cerrar la carga en la madrugada de hoy, con una afectación máxima de 195 MW en el horario pico. Se afectaron 129 circuitos, con un tiempo promedio de 19:21 horas y un tiempo máximo de 22:20 horas.\n Cierre de la Información 12:00am",
+    "timestamp": 1754481259,
+    "timestamp_local": 1754481259
+  },
+  {
     "id": 24064,
     "fecha": "06 de Aug del 2025 a las 07:19 AM",
     "hora_utc": "2025-08-06 11:19",
@@ -126,37 +158,5 @@
     "mensaje": "En estos momentos tenemos afectados por déficit de capacidad de generación 175 MW en la provincia.",
     "timestamp": 1754450270,
     "timestamp_local": 1754450270
-  },
-  {
-    "id": 24048,
-    "fecha": "05 de Aug del 2025 a las 10:54 PM",
-    "hora_utc": "2025-08-06 02:54",
-    "mensaje": "⚠️En estos momentos tenemos afectados por déficit de capacidad de generación 179 MW en la provincia.",
-    "timestamp": 1754448854,
-    "timestamp_local": 1754448854
-  },
-  {
-    "id": 24047,
-    "fecha": "05 de Aug del 2025 a las 10:49 PM",
-    "hora_utc": "2025-08-06 02:49",
-    "mensaje": "⚠️En estos momentos tenemos afectados por déficit de capacidad de generación 188 MW en la provincia.",
-    "timestamp": 1754448591,
-    "timestamp_local": 1754448591
-  },
-  {
-    "id": 24046,
-    "fecha": "05 de Aug del 2025 a las 10:29 PM",
-    "hora_utc": "2025-08-06 02:29",
-    "mensaje": "🔊Circuitos MK1451 y MK1452 con Servicio.",
-    "timestamp": 1754447360,
-    "timestamp_local": 1754447360
-  },
-  {
-    "id": 24045,
-    "fecha": "05 de Aug del 2025 a las 10:24 PM",
-    "hora_utc": "2025-08-06 02:24",
-    "mensaje": "✅✅Solucionadas las averías:\n -Martí: **Circuito 4604.**\n-Unión de Reyes: **Circuito 5670.**",
-    "timestamp": 1754447066,
-    "timestamp_local": 1754447066
   }
 ]
