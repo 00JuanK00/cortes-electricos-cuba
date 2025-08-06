@@ -1,5 +1,21 @@
 [
   {
+    "id": 32228,
+    "fecha": "05 de Aug del 2025 a las 10:21 PM",
+    "hora_utc": "2025-08-06 02:21",
+    "mensaje": "❌Tenemos una afectación de 160 MW❌",
+    "timestamp": 1754446899,
+    "timestamp_local": 1754446899
+  },
+  {
+    "id": 32227,
+    "fecha": "05 de Aug del 2025 a las 08:56 PM",
+    "hora_utc": "2025-08-06 00:56",
+    "mensaje": "⛔Se mantiene  afectados los circuitos:\n \n➡️ Circuito 3220 de San Antonio\n➡️Circuito 241 de Bahía Honda \n➡️ Circuito 1500 de Artemisa \n➡️Circuito 1262 de Artemisa \n➡️ Circuito 1570 de Artemisa Candelaria\n➡️Circuito Bauta Vieja \n➡️Circuitos Sub San Cristóbal, 4 Caminos y el Martí de San Cristóbal\n\n❌ Tenemos una afectación de 163  MW",
+    "timestamp": 1754441804,
+    "timestamp_local": 1754441804
+  },
+  {
     "id": 32226,
     "fecha": "05 de Aug del 2025 a las 06:43 PM",
     "hora_utc": "2025-08-05 22:43",
@@ -11,7 +27,7 @@
     "id": 32225,
     "fecha": "05 de Aug del 2025 a las 05:12 PM",
     "hora_utc": "2025-08-05 21:12",
-    "mensaje": "⛔Se mantiene  afectados los circuitos:\n\n➡️ Circuito Bauta Nueva\n➡️ Circuito 3517 de Mariel \n\n\n❌ Tenemos una afectación de 129 MW",
+    "mensaje": "❌ Tenemos una afectación de 129 MW",
     "timestamp": 1754428376,
     "timestamp_local": 1754428376
   },
@@ -19,7 +35,7 @@
     "id": 32224,
     "fecha": "05 de Aug del 2025 a las 04:28 PM",
     "hora_utc": "2025-08-05 20:28",
-    "mensaje": "⛔Se mantiene  afectados los circuitos:\n\n➡️Circuito Fábrica de Carretas de Güira de Melena\n➡️ Circuito 1580 de Alquizar\n➡️ Circuito 246 de Bahía Honda (excepto el hospital)\n➡️ Circuito 5040 de Caimito \n➡️ Circuito 341 de San Cristóbal\n➡️Circuito Maní de San Cristóbal\n➡️ Circuito 1258 de Artemisa\n \n❌ Tenemos una afectación de 127  MW",
+    "mensaje": "❌ Tenemos una afectación de 127  MW",
     "timestamp": 1754425686,
     "timestamp_local": 1754425686
   },
@@ -134,21 +150,5 @@
     "mensaje": "⛔Afectado circuito 1940 de San Antonio",
     "timestamp": 1754374523,
     "timestamp_local": 1754374523
-  },
-  {
-    "id": 32208,
-    "fecha": "05 de Aug del 2025 a las 01:09 AM",
-    "hora_utc": "2025-08-05 05:09",
-    "mensaje": "📌Circuito 2 de Güira 13000 afectado por avería pendiente a recorrer",
-    "timestamp": 1754370572,
-    "timestamp_local": 1754370572
-  },
-  {
-    "id": 32206,
-    "fecha": "05 de Aug del 2025 a las 01:04 AM",
-    "hora_utc": "2025-08-05 05:04",
-    "mensaje": "⛔Se mantiene  afectados los circuitos:\n\n➡️Circuito 246  de Bahía \n➡️Circuito Maní de San Cristóbal\n➡️ Circuito 1270 de Artemisa\n➡️ Circuito 241 de Bahía\n➡️ Circuito 3220 de San Antonio\n➡️ Circuito Sub San Cristóbal ,Martí y 4 Caminos\n➡️Circuito 1570 de Artemisa\n\n\n❌ Tenemos una afectación de 170 MW",
-    "timestamp": 1754370275,
-    "timestamp_local": 1754370275
   }
 ]
