@@ -1,5 +1,29 @@
 [
   {
+    "id": 42795,
+    "fecha": "06 de Aug del 2025 a las 02:35 PM",
+    "hora_utc": "2025-08-06 18:35",
+    "mensaje": "Disparo Automático de Frecuencia (DAF):\nOcurre cuando la frecuencia está por debajo de los 60Hz y determinada carga o circuito se desconecta del sistema automáticamente hasta que se estabilice",
+    "timestamp": 1754505358,
+    "timestamp_local": 1754505358
+  },
+  {
+    "id": 42794,
+    "fecha": "06 de Aug del 2025 a las 02:35 PM",
+    "hora_utc": "2025-08-06 18:35",
+    "mensaje": "🔴Estimados clientes en estos momentos se encuentran Disparados por DAF los circuitos 12 y 20 de Santiago de Cuba.",
+    "timestamp": 1754505355,
+    "timestamp_local": 1754505355
+  },
+  {
+    "id": 42793,
+    "fecha": "06 de Aug del 2025 a las 02:14 PM",
+    "hora_utc": "2025-08-06 18:14",
+    "mensaje": "🚨Estimados clientes en estos momentos se encuentran afectados por déficit de capacidad de generación el circuito 25 de Santiago de Cuba y la línea 5380 de Mella.",
+    "timestamp": 1754504055,
+    "timestamp_local": 1754504055
+  },
+  {
     "id": 42792,
     "fecha": "06 de Aug del 2025 a las 02:10 PM",
     "hora_utc": "2025-08-06 18:10",
@@ -118,21 +142,5 @@
     "mensaje": "🚨Se les informa a nuestros clientes que se incorporan a la afectación por Déficit la Línea 4395-Contramaestre-III Frente y  Línea 4390-Contramaestre.",
     "timestamp": 1754476002,
     "timestamp_local": 1754476002
-  },
-  {
-    "id": 42775,
-    "fecha": "06 de Aug del 2025 a las 06:23 AM",
-    "hora_utc": "2025-08-06 10:23",
-    "mensaje": "Estimados clientes se les informa que se incorporan a la afectación los circuitos 1, 14, 21, 24 , 23 y línea 5335-Guamá,",
-    "timestamp": 1754475815,
-    "timestamp_local": 1754475815
-  },
-  {
-    "id": 42774,
-    "fecha": "06 de Aug del 2025 a las 06:22 AM",
-    "hora_utc": "2025-08-06 10:22",
-    "mensaje": "🚨Estimados clientes en estos momentos se afectaron por Déficit los circuitos 2, 26, 1 de Palma 25 y 13 .",
-    "timestamp": 1754475726,
-    "timestamp_local": 1754475726
   }
 ]
