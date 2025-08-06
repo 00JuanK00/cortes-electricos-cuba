@@ -1,9 +1,33 @@
 [
   {
+    "id": 32235,
+    "fecha": "06 de Aug del 2025 a las 06:48 AM",
+    "hora_utc": "2025-08-06 10:48",
+    "mensaje": "⛔Se mantiene  afectado el circuito\n\n➡️ Circuito 3220 de San Antonio\n\n❌ Tenemos una afectación de 143 MW",
+    "timestamp": 1754477291,
+    "timestamp_local": 1754477291
+  },
+  {
+    "id": 32234,
+    "fecha": "06 de Aug del 2025 a las 06:42 AM",
+    "hora_utc": "2025-08-06 10:42",
+    "mensaje": "⛔Se mantiene  afectados los circuitos\n\n➡️ Circuitos A1270 y A1262 de Artemisa\n\n❌ Tenemos una afectación de 143 MW",
+    "timestamp": 1754476929,
+    "timestamp_local": 1754476929
+  },
+  {
+    "id": 32233,
+    "fecha": "06 de Aug del 2025 a las 06:27 AM",
+    "hora_utc": "2025-08-06 10:27",
+    "mensaje": "⛔Se mantiene  afectados los circuitos\n\n➡️ Circuito Sub San Cristóbal, 4 Caminos y el Marti \n\n❌ Tenemos una afectación de 145 MW",
+    "timestamp": 1754476078,
+    "timestamp_local": 1754476078
+  },
+  {
     "id": 32232,
     "fecha": "06 de Aug del 2025 a las 05:46 AM",
     "hora_utc": "2025-08-06 09:46",
-    "mensaje": "⛔Se mantiene  afectados los circuitos\n\n➡️ Circuito 1940 de San Antonio\n➡️ Circuito 1258 de Artemisa\n➡️Circuito 341 de San Cristóbal\n➡️ Circuito 236 de Bahía Honda\n➡️ Circuito Maní de San Cristóbal\n➡️Circuito 1570 de Artemisa Candelaria \n➡️ Circuito 5040 de Caimito \n\n❌ Tenemos una afectación de 145 MW",
+    "mensaje": "⛔Se mantiene  afectados los circuitos\n\n\n➡️Circuito 341 de San Cristóbal\n➡️ Circuito 236 de Bahía Honda\n➡️ Circuito Maní de San Cristóbal\n➡️Circuito 1570 de Artemisa Candelaria \n➡️ Circuito 5040 de Caimito \n\n❌ Tenemos una afectación de 145 MW",
     "timestamp": 1754473584,
     "timestamp_local": 1754473584
   },
@@ -134,21 +158,5 @@
     "mensaje": "❌ Tenemos una afectación de 130  MW",
     "timestamp": 1754405902,
     "timestamp_local": 1754405902
-  },
-  {
-    "id": 32215,
-    "fecha": "05 de Aug del 2025 a las 09:43 AM",
-    "hora_utc": "2025-08-05 13:43",
-    "mensaje": "❌ Tenemos una afectación de 128 MW",
-    "timestamp": 1754401416,
-    "timestamp_local": 1754401416
-  },
-  {
-    "id": 32214,
-    "fecha": "05 de Aug del 2025 a las 09:25 AM",
-    "hora_utc": "2025-08-05 13:25",
-    "mensaje": "⚠️ Pronostico para el horario pico (05/08/2025):\n\nDisponibilidad: 1948 MW\nDemanda maxima: 3750 MW\nDéficit: 1802 MW\nAfectacion: 1872 MW\n\nMas detalles sobre el estado del SEN en 👉 https://www.unionelectrica.cu/nota-informativa/",
-    "timestamp": 1754400350,
-    "timestamp_local": 1754400350
   }
 ]
