@@ -1,5 +1,37 @@
 [
   {
+    "id": 24125,
+    "fecha": "07 de Aug del 2025 a las 09:22 AM",
+    "hora_utc": "2025-08-07 13:22",
+    "mensaje": "MK2802 Banagüises. Afecta 1277 clientes",
+    "timestamp": 1754572956,
+    "timestamp_local": 1754572956
+  },
+  {
+    "id": 24124,
+    "fecha": "07 de Aug del 2025 a las 09:19 AM",
+    "hora_utc": "2025-08-07 13:19",
+    "mensaje": "Resumen de afectaciones por déficit de capacidad de generación en la provincia del 07/08/2025:\nEn el día de ayer se afectó el servicio eléctrico por déficit de capacidad de generación de forma ininterrumpida durante todo el día y no fue posible cerrar la carga en la madrugada de hoy, con una afectación máxima de 190 MW en el horario pico. Se afectaron 128 circuitos, con un tiempo promedio de 19:46 horas y un tiempo máximo de 23:59 horas.\nCierre de la Información 12:00am",
+    "timestamp": 1754572783,
+    "timestamp_local": 1754572783
+  },
+  {
+    "id": 24123,
+    "fecha": "07 de Aug del 2025 a las 09:03 AM",
+    "hora_utc": "2025-08-07 13:03",
+    "mensaje": "📢  Nota Informativa - Situación del SEN al 7 de agosto de 2025\n\nEn el día de ayer se afectó el servicio las 24 horas y se mantuvo afectado durante toda la madrugada de hoy. La máxima afectación por déficit de capacidad de generación en el día de ayer fue de 1911 MW a las 21:50 horas coincidente con la hora de máxima demanda y superior a lo planificado por no entrar a la hora pico la unidad 6 de la CTE Máximo Gómez (Mariel).\n\n☀️ Producción de energía de los 25 parques solares fotovoltaicos: 2086 MWh, con 375 MW como máxima potencia entregada en el horario de la media.\n\n🔧 Estado actual:\n\nDisponibilidad: 1795 MW.\nDemanda: 3150 MW.\nAfectación actual: 1405 MW. \nPronóstico para el mediodía: 1550 MW afectados.\n\n🔴 Pronóstico para el horario pico:\nSe proyecta una disponibilidad de 1985 MW y una demanda de 3000 MW, lo que generaría un déficit de 1715 MW, para una afectación de 1785 MW.",
+    "timestamp": 1754571788,
+    "timestamp_local": 1754571788
+  },
+  {
+    "id": 24122,
+    "fecha": "07 de Aug del 2025 a las 08:22 AM",
+    "hora_utc": "2025-08-07 12:22",
+    "mensaje": "QUEJAS PENDIENTES EN EL DÍA\n🔔Al cierre de las 8.15am del día 7 de Agosto se encuentran 180 quejas pendientes en el sistema. El desglose por municipio es el siguiente: \n 🔸Matanzas:  153\n🔸Cárdenas:  10\n🔸Jovellanos:  5\n🔸Perico:   5\n🔸Colón:   3\n🔸Martí:   2 \n🔸Limonar:   2\nNuestros Linieros ⚡️👷 continúan trabajando para restablecer el servicio a todos los clientes con quejas pendientes.‼️",
+    "timestamp": 1754569354,
+    "timestamp_local": 1754569354
+  },
+  {
     "id": 24121,
     "fecha": "07 de Aug del 2025 a las 08:14 AM",
     "hora_utc": "2025-08-07 12:14",
@@ -126,37 +158,5 @@
     "mensaje": "**💡🔌SERVICIO RESTABLECIDO**\n**- Circuito 4071 que da servicio a Cítrico, La Carlota e Isabel.\n-Circuito 4072 que da servicio a Cítrico y Pueblo de Agramonte.\n- Circuito 4985 que da servicio a Poblado de Cantel, Guásimas, Finca\nVega, Santa Martha desde el Policlínico hasta la Lavandería y por vía rápida\nhasta Villa Nicaragua, Humberto Alvarez, Pozos de Petróleo los Canteles, Pozos Petróleo camino el basurero Santa Marta**",
     "timestamp": 1754531829,
     "timestamp_local": 1754531829
-  },
-  {
-    "id": 24105,
-    "fecha": "06 de Aug del 2025 a las 09:49 PM",
-    "hora_utc": "2025-08-07 01:49",
-    "mensaje": "‼️‼️‼️En estos momentos la afectación en la provincia por déficit de capacidad de generación es de 190 MW",
-    "timestamp": 1754531344,
-    "timestamp_local": 1754531344
-  },
-  {
-    "id": 24104,
-    "fecha": "06 de Aug del 2025 a las 09:02 PM",
-    "hora_utc": "2025-08-07 01:02",
-    "mensaje": "✅✅✅En el día de hoy se cambió el transformador GB170 en Calle C entre 56 y 58 Jagüey Grande, que afectaba a 60 clientes.",
-    "timestamp": 1754528545,
-    "timestamp_local": 1754528545
-  },
-  {
-    "id": 24103,
-    "fecha": "06 de Aug del 2025 a las 08:31 PM",
-    "hora_utc": "2025-08-07 00:31",
-    "mensaje": "‼️‼️‼️En estos momentos la afectación en la provincia por déficit de capacidad de generación es de 181 MW",
-    "timestamp": 1754526710,
-    "timestamp_local": 1754526710
-  },
-  {
-    "id": 24102,
-    "fecha": "06 de Aug del 2025 a las 08:09 PM",
-    "hora_utc": "2025-08-07 00:09",
-    "mensaje": "‼️‼️‼️En estos momentos la afectación en la provincia por déficit de capacidad de generación es de 177 MW",
-    "timestamp": 1754525371,
-    "timestamp_local": 1754525371
   }
 ]
