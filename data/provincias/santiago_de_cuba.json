@@ -1,5 +1,29 @@
 [
   {
+    "id": 42838,
+    "fecha": "07 de Aug del 2025 a las 03:54 PM",
+    "hora_utc": "2025-08-07 19:54",
+    "mensaje": "🔴Disparo Automático de Frecuencia (DAF):\nOcurre cuando la frecuencia está por debajo de los 60Hz y determinada carga o circuito se desconecta del sistema automáticamente hasta que se estabilice.",
+    "timestamp": 1754596493,
+    "timestamp_local": 1754596493
+  },
+  {
+    "id": 42837,
+    "fecha": "07 de Aug del 2025 a las 03:54 PM",
+    "hora_utc": "2025-08-07 19:54",
+    "mensaje": "🔴Se les informa a nuestros clientes que se afecta por un disparo por DAF el circuito 12 de Santiago.",
+    "timestamp": 1754596467,
+    "timestamp_local": 1754596467
+  },
+  {
+    "id": 42836,
+    "fecha": "07 de Aug del 2025 a las 03:49 PM",
+    "hora_utc": "2025-08-07 19:49",
+    "mensaje": "🔴 Les seguiremos informando a través de nuestro canal de Telegram sobre la situación de la Disponibilidad del Sistema en nuestra provincia.",
+    "timestamp": 1754596177,
+    "timestamp_local": 1754596177
+  },
+  {
     "id": 42835,
     "fecha": "07 de Aug del 2025 a las 02:32 PM",
     "hora_utc": "2025-08-07 18:32",
@@ -126,29 +150,5 @@
     "mensaje": "🔴 Circuito en avería:                                                                                                                        \n Sucede si un circuito se interrumpe por causa de un defecto en un cable conductor de corriente (fase o neutro), un fusible fundido o disyuntor. En sistemas trifásicos una falla puede implicar una fase, más de una fase con la tierra o puede ocurrir solo entre fases.",
     "timestamp": 1754563416,
     "timestamp_local": 1754563416
-  },
-  {
-    "id": 42818,
-    "fecha": "07 de Aug del 2025 a las 06:43 AM",
-    "hora_utc": "2025-08-07 10:43",
-    "mensaje": "👉 Estimados clientes se les informa que en estos momentos esta afectado el circuito 11( una parte de de Micro 2 y Micro 3 ) están en Avería",
-    "timestamp": 1754563385,
-    "timestamp_local": 1754563385
-  },
-  {
-    "id": 42817,
-    "fecha": "07 de Aug del 2025 a las 06:41 AM",
-    "hora_utc": "2025-08-07 10:41",
-    "mensaje": "👉 Estimados clientes se le informa que en estos momentos están afectados por Déficit de Capacidad de Generación los circuitos 16 , LI 5390 La Maya - II Frente, 19, 2, LI 5975 Baconao.",
-    "timestamp": 1754563285,
-    "timestamp_local": 1754563285
-  },
-  {
-    "id": 42816,
-    "fecha": "07 de Aug del 2025 a las 04:33 AM",
-    "hora_utc": "2025-08-07 08:33",
-    "mensaje": "👉 Estimados clientes se le informa que en estos momentos están afectados por Déficit de Capacidad de Generación los circuitos 8, LI 5395 San Luis, 4 Palma",
-    "timestamp": 1754555586,
-    "timestamp_local": 1754555586
   }
 ]
