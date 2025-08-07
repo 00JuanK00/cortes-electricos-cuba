@@ -1,5 +1,37 @@
 [
   {
+    "id": 42815,
+    "fecha": "07 de Aug del 2025 a las 04:02 AM",
+    "hora_utc": "2025-08-07 08:02",
+    "mensaje": "🔴 . Disparo Automático de Frecuencia (DAF):\nOcurre cuando la frecuencia está por debajo de los 60Hz y determinada carga o circuito se desconecta del sistema automáticamente hasta que se estabilice",
+    "timestamp": 1754553764,
+    "timestamp_local": 1754553764
+  },
+  {
+    "id": 42814,
+    "fecha": "07 de Aug del 2025 a las 04:02 AM",
+    "hora_utc": "2025-08-07 08:02",
+    "mensaje": "👉 Estimados clientes se les informa que los circuitos 12 y 20 están Disparados por DAF",
+    "timestamp": 1754553750,
+    "timestamp_local": 1754553750
+  },
+  {
+    "id": 42813,
+    "fecha": "07 de Aug del 2025 a las 04:01 AM",
+    "hora_utc": "2025-08-07 08:01",
+    "mensaje": "🔴 Disparo:\nApertura no voluntaria de un interruptor como vía de protección para desconectar uno o varios elementos del circuito, subestación o sistema, restableciéndose el servicio rápidamente en dependencia de la causa",
+    "timestamp": 1754553660,
+    "timestamp_local": 1754553660
+  },
+  {
+    "id": 42812,
+    "fecha": "07 de Aug del 2025 a las 04:00 AM",
+    "hora_utc": "2025-08-07 08:00",
+    "mensaje": "👉 Estimados clientes se le informa que en estos momentos está afectado por un disparo el circuito 11.",
+    "timestamp": 1754553640,
+    "timestamp_local": 1754553640
+  },
+  {
     "id": 42811,
     "fecha": "07 de Aug del 2025 a las 12:22 AM",
     "hora_utc": "2025-08-07 04:22",
@@ -126,37 +158,5 @@
     "mensaje": "🚨Estimados clientes en estos momentos se encuentran afectados por déficit de capacidad de generación los circuitos 14, 21 y 24 de Santiago de Cuba.",
     "timestamp": 1754507015,
     "timestamp_local": 1754507015
-  },
-  {
-    "id": 42795,
-    "fecha": "06 de Aug del 2025 a las 02:35 PM",
-    "hora_utc": "2025-08-06 18:35",
-    "mensaje": "Disparo Automático de Frecuencia (DAF):\nOcurre cuando la frecuencia está por debajo de los 60Hz y determinada carga o circuito se desconecta del sistema automáticamente hasta que se estabilice",
-    "timestamp": 1754505358,
-    "timestamp_local": 1754505358
-  },
-  {
-    "id": 42794,
-    "fecha": "06 de Aug del 2025 a las 02:35 PM",
-    "hora_utc": "2025-08-06 18:35",
-    "mensaje": "🔴Estimados clientes en estos momentos se encuentran Disparados por DAF los circuitos 12 y 20 de Santiago de Cuba.",
-    "timestamp": 1754505355,
-    "timestamp_local": 1754505355
-  },
-  {
-    "id": 42793,
-    "fecha": "06 de Aug del 2025 a las 02:14 PM",
-    "hora_utc": "2025-08-06 18:14",
-    "mensaje": "🚨Estimados clientes en estos momentos se encuentran afectados por déficit de capacidad de generación el circuito 25 de Santiago de Cuba y la línea 5380 de Mella.",
-    "timestamp": 1754504055,
-    "timestamp_local": 1754504055
-  },
-  {
-    "id": 42792,
-    "fecha": "06 de Aug del 2025 a las 02:10 PM",
-    "hora_utc": "2025-08-06 18:10",
-    "mensaje": "🚨Estimados clientes en estos momentos se encuentran afectados por déficit de capacidad de generación los circuitos 1 y 2 de Santiago de Cuba y 1 de Palma.",
-    "timestamp": 1754503811,
-    "timestamp_local": 1754503811
   }
 ]
