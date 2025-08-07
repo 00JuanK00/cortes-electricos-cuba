@@ -1,5 +1,21 @@
 [
   {
+    "id": 42840,
+    "fecha": "07 de Aug del 2025 a las 04:28 PM",
+    "hora_utc": "2025-08-07 20:28",
+    "mensaje": "🔴Disparo:\nApertura no voluntaria de un interruptor como vía de protección para desconectar uno o varios elementos del circuito, subestación o sistema, restableciéndose el servicio rápidamente en dependencia de la causa.",
+    "timestamp": 1754598539,
+    "timestamp_local": 1754598539
+  },
+  {
+    "id": 42839,
+    "fecha": "07 de Aug del 2025 a las 04:28 PM",
+    "hora_utc": "2025-08-07 20:28",
+    "mensaje": "🔴Se les informa a nuestros clientes que se afecta por un disparo la línea 4390 Palma - Contramaestre .",
+    "timestamp": 1754598481,
+    "timestamp_local": 1754598481
+  },
+  {
     "id": 42838,
     "fecha": "07 de Aug del 2025 a las 03:54 PM",
     "hora_utc": "2025-08-07 19:54",
@@ -134,21 +150,5 @@
     "mensaje": "🔴Les seguiremos informando a través de nuestro canal de Telegram sobre la situación de la Disponibilidad del Sistema en nuestra provincia.",
     "timestamp": 1754572758,
     "timestamp_local": 1754572758
-  },
-  {
-    "id": 42820,
-    "fecha": "07 de Aug del 2025 a las 08:24 AM",
-    "hora_utc": "2025-08-07 12:24",
-    "mensaje": "🔴Se les informa a nuestros clientes que se afecta por Déficit de Capacidad de Generación los circuitos 7 y 24 de Santiago.",
-    "timestamp": 1754569469,
-    "timestamp_local": 1754569469
-  },
-  {
-    "id": 42819,
-    "fecha": "07 de Aug del 2025 a las 06:43 AM",
-    "hora_utc": "2025-08-07 10:43",
-    "mensaje": "🔴 Circuito en avería:                                                                                                                        \n Sucede si un circuito se interrumpe por causa de un defecto en un cable conductor de corriente (fase o neutro), un fusible fundido o disyuntor. En sistemas trifásicos una falla puede implicar una fase, más de una fase con la tierra o puede ocurrir solo entre fases.",
-    "timestamp": 1754563416,
-    "timestamp_local": 1754563416
   }
 ]
