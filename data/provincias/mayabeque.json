@@ -1,5 +1,29 @@
 [
   {
+    "id": 84551,
+    "fecha": "07 de Aug del 2025 a las 08:24 PM",
+    "hora_utc": "2025-08-08 00:24",
+    "mensaje": "♦️Afectado el servicio en el circuito Magela por disparo en las líneas♦️",
+    "timestamp": 1754612663,
+    "timestamp_local": 1754612663
+  },
+  {
+    "id": 84550,
+    "fecha": "07 de Aug del 2025 a las 08:16 PM",
+    "hora_utc": "2025-08-08 00:16",
+    "mensaje": "🔷Restablecido el servicio en el circuito Magela que se encontraba afectado por avería🔷",
+    "timestamp": 1754612164,
+    "timestamp_local": 1754612164
+  },
+  {
+    "id": 84549,
+    "fecha": "07 de Aug del 2025 a las 08:04 PM",
+    "hora_utc": "2025-08-08 00:04",
+    "mensaje": "♦️Afectado el servicio en el circuito Babiney por manipulación♦️",
+    "timestamp": 1754611452,
+    "timestamp_local": 1754611452
+  },
+  {
     "id": 84547,
     "fecha": "07 de Aug del 2025 a las 06:54 PM",
     "hora_utc": "2025-08-07 22:54",
@@ -102,37 +126,5 @@
     "mensaje": "🔷Restablecido el servicio en los siguientes circuitos que se encontraban afectados por avería:\n*1790\n*Bio 1🔷\n\n♦️Quedando afectado el servicio en el circuito Magela por avería♦️",
     "timestamp": 1754603451,
     "timestamp_local": 1754603451
-  },
-  {
-    "id": 84531,
-    "fecha": "07 de Aug del 2025 a las 04:58 PM",
-    "hora_utc": "2025-08-07 20:58",
-    "mensaje": "📣🚨Continúa afectado el servicio en los siguientes circuitos por avería:\n*1790\n*Bio 1🚨📣",
-    "timestamp": 1754600339,
-    "timestamp_local": 1754600339
-  },
-  {
-    "id": 84530,
-    "fecha": "07 de Aug del 2025 a las 04:47 PM",
-    "hora_utc": "2025-08-07 20:47",
-    "mensaje": "🚨Por déficit de capacidad de generación se afecta el servicio en los siguientes circuitos:\n*6 y 8 de San José 🚨",
-    "timestamp": 1754599662,
-    "timestamp_local": 1754599662
-  },
-  {
-    "id": 84529,
-    "fecha": "07 de Aug del 2025 a las 04:06 PM",
-    "hora_utc": "2025-08-07 20:06",
-    "mensaje": "🔷♦️Se restablece el servicio en el siguiente circuito que se encontraba afectado por déficit de capacidad de generación:\n*Bacunayagua♦️🔷",
-    "timestamp": 1754597194,
-    "timestamp_local": 1754597194
-  },
-  {
-    "id": 84528,
-    "fecha": "07 de Aug del 2025 a las 03:49 PM",
-    "hora_utc": "2025-08-07 19:49",
-    "mensaje": "🔷♦️Se restablece el servicio en el siguiente circuito que se encontraba afectado por déficit de capacidad de generación:\n*Picadura ♦️🔷",
-    "timestamp": 1754596177,
-    "timestamp_local": 1754596177
   }
 ]
