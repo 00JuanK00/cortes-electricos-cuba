@@ -1,9 +1,17 @@
 [
   {
+    "id": 26943,
+    "fecha": "08 de Aug del 2025 a las 02:24 AM",
+    "hora_utc": "2025-08-08 06:24",
+    "mensaje": "Con servicio el circuito 6 (Vigía), del municipio Santa Clara.",
+    "timestamp": 1754634266,
+    "timestamp_local": 1754634266
+  },
+  {
     "id": 26942,
     "fecha": "08 de Aug del 2025 a las 02:06 AM",
     "hora_utc": "2025-08-08 06:06",
-    "mensaje": "⚡Afectado por faltar una fase, el circuito 153 (EIDE), del municipio Santa Clara. Brigada de nuestra empresa prepara las condiciones necesarias para trabajar en el lugar y restablecer el servicio en el menor tiempo posible.",
+    "mensaje": "⚡Afectado por faltar una fase, por 33 Kv debido a puentes abiertos, el circuito 153 (EIDE), del municipio Santa Clara. Brigada de nuestra empresa prepara las condiciones necesarias para trabajar en el lugar.",
     "timestamp": 1754633196,
     "timestamp_local": 1754633196
   },
@@ -150,13 +158,5 @@
     "mensaje": "🛠️ Afectado por disparo el circuito 55 (Rancho Veloz), del municipio Corralillo.",
     "timestamp": 1754621740,
     "timestamp_local": 1754621740
-  },
-  {
-    "id": 26923,
-    "fecha": "07 de Aug del 2025 a las 10:39 PM",
-    "hora_utc": "2025-08-08 02:39",
-    "mensaje": "💡Restablecido el circuito 65 (Dolores), del municipio Caibarién.",
-    "timestamp": 1754620788,
-    "timestamp_local": 1754620788
   }
 ]
