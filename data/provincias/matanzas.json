@@ -1,5 +1,21 @@
 [
   {
+    "id": 24180,
+    "fecha": "08 de Aug del 2025 a las 03:28 PM",
+    "hora_utc": "2025-08-08 19:28",
+    "mensaje": "‼️‼️En estos momentos tenemos una afectación por  déficit de capacidad de generación es de 122 MW",
+    "timestamp": 1754681291,
+    "timestamp_local": 1754681291
+  },
+  {
+    "id": 24179,
+    "fecha": "08 de Aug del 2025 a las 03:15 PM",
+    "hora_utc": "2025-08-08 19:15",
+    "mensaje": "‼️‼️En estos momentos tenemos una afectación por  déficit de capacidad de generación es de 125 MW",
+    "timestamp": 1754680538,
+    "timestamp_local": 1754680538
+  },
+  {
     "id": 24178,
     "fecha": "08 de Aug del 2025 a las 03:00 PM",
     "hora_utc": "2025-08-08 19:00",
@@ -142,21 +158,5 @@
     "mensaje": "📢 Nota Informativa - Situación del SEN al 8 de agosto de 2025\n\nEn el día de ayer se afectó el servicio las 24 horas y se mantuvo afectado durante toda la madrugada de hoy. La máxima afectación por déficit de capacidad de generación en el día de ayer fue de 1819 MW a las 21:40 horas coincidente con la hora de máxima demanda y superior a lo planificado por no entrar a la hora pico la unidad 6 de la CTE Nuevitas.\n\n☀️ Producción de energía de los 25 parques solares fotovoltaicos: 2450 MWh, con 472 MW como máxima potencia entregada en el horario de la media.\n\n🔧 Estado actual:\nDisponibilidad: 1890 MW.\nDemanda: 3150 MW.\nAfectación actual: 1329 MW. \nPronóstico para el mediodía: 1280 MW afectados.\n\n🔴 Pronóstico para el horario pico:\n\nSe proyecta una disponibilidad de 2040 MW y una demanda de 3700 MW, lo que generaría un déficit de 1660 MW, para una afectación de 1730 MW.",
     "timestamp": 1754656674,
     "timestamp_local": 1754656674
-  },
-  {
-    "id": 24160,
-    "fecha": "08 de Aug del 2025 a las 08:37 AM",
-    "hora_utc": "2025-08-08 12:37",
-    "mensaje": "‼️‼️En estos momentos tenemos una afectación por  déficit de capacidad de generación es de 119 MW",
-    "timestamp": 1754656642,
-    "timestamp_local": 1754656642
-  },
-  {
-    "id": 24159,
-    "fecha": "08 de Aug del 2025 a las 08:35 AM",
-    "hora_utc": "2025-08-08 12:35",
-    "mensaje": "⚠️**Circuitos no apagables que se afectarán debido al alto déficit:**⚠️\n\n- Circuitos Z1183, Z130, GI101, JI48 y MI1453 se afectarán de 11:00 a 14:00\n\n- Circuito MI1437 se afectará de 13:00 a 19:00\n\n- Circuitos Z1183, JI48, Z130,  MI1453, GI101 y CI185 se afectarán de 19:00 a 02:00\n\n- Circuito 5223 se afectará de 20:00 a 02:00\n\nAl amanecer:\n- Circuito CI185 se afectará de 05:00 a 07:00",
-    "timestamp": 1754656537,
-    "timestamp_local": 1754656537
   }
 ]
