@@ -1,5 +1,37 @@
 [
   {
+    "id": 26932,
+    "fecha": "08 de Aug del 2025 a las 12:17 AM",
+    "hora_utc": "2025-08-08 04:17",
+    "mensaje": "💡Restablecido el servicio eléctrico en los siguientes circuitos:\n🔹Bloque 3\nMunicipio Placetas:\n👉Cto 192 Benito Juárez\n👉Cto 102 Peroti",
+    "timestamp": 1754626662,
+    "timestamp_local": 1754626662
+  },
+  {
+    "id": 26931,
+    "fecha": "08 de Aug del 2025 a las 12:17 AM",
+    "hora_utc": "2025-08-08 04:17",
+    "mensaje": "💡Será restablecido el servicio eléctrico en los siguientes circuitos:\n🔹Bloque 3\n👉Cto 131 (Las Antillas)\n👉Cto 153 (EIDE)",
+    "timestamp": 1754626625,
+    "timestamp_local": 1754626625
+  },
+  {
+    "id": 26930,
+    "fecha": "08 de Aug del 2025 a las 12:15 AM",
+    "hora_utc": "2025-08-08 04:15",
+    "mensaje": "💡Restablecido el servicio eléctrico en los siguientes circuitos:\n🔹Bloque 3\nMunicipio Santa Clara:\n👉Cto 166 (Condado)\n👉Cto 167 (Virginia)\n👉Cto 170 (José Martí)\n👉Cto 171 (Los Caneyes)",
+    "timestamp": 1754626531,
+    "timestamp_local": 1754626531
+  },
+  {
+    "id": 26929,
+    "fecha": "08 de Aug del 2025 a las 12:08 AM",
+    "hora_utc": "2025-08-08 04:08",
+    "mensaje": "🕛Actualización del servicio eléctrico en las últimas 6 horas.\n👉El déficit de capacidad de generación osciló entre los 171 MW y los 164 MW.\n👉De los 165 circuitos apagables que presenta la provincia, se mantienen afectados 167 circuitos.\n 👉Cuenta con 121 afectaciones por averías secundarias y de servicio:\n🔸Caibarién (2)\n🔸Corralillo (3)\n🔸Encrucijada (1)\n🔸Manicaragua (3)\n🔸Ranchuelo (5)\n🔸Remedios (9) \n🔸Sagua (9) \n🔸Santa Clara (49)\n🔸Santo Domingo (17)\n🛠️Se encuentran 8 averías en vías de solución.\n🛠️Pendientes a solucionar por el área técnica 15.\n⚡La provincia presenta 3 averías primarias, el circuito 6 (Vigía), del municipio Santa Clara, afectado por cable primario partido, el circuito 13 (Zona Industrial), del municipio Santa Clara, ambas averías se encuentran en vías de solución y se encuentra afectado por disparo el circuito 55 (Rancho Veloz), del municipio Corralillo.",
+    "timestamp": 1754626101,
+    "timestamp_local": 1754626101
+  },
+  {
     "id": 26928,
     "fecha": "07 de Aug del 2025 a las 11:43 PM",
     "hora_utc": "2025-08-08 03:43",
@@ -126,37 +158,5 @@
     "mensaje": "Afectado por faltar una fase el circuito 37 (Yabú), del municipio Santa Clara. Brigada eléctrica prepara las condiciones necesarias para trabajar en el lugar.",
     "timestamp": 1754614539,
     "timestamp_local": 1754614539
-  },
-  {
-    "id": 26911,
-    "fecha": "07 de Aug del 2025 a las 08:53 PM",
-    "hora_utc": "2025-08-08 00:53",
-    "mensaje": "⚡Afectado el circuito 6 (Vigía) del municipio Santa Clara, por cable primario partido. Brigada eléctrica se encuentra trabajando en el lugar para reponer el servicio en el menor tiempo posible.",
-    "timestamp": 1754614415,
-    "timestamp_local": 1754614415
-  },
-  {
-    "id": 26909,
-    "fecha": "07 de Aug del 2025 a las 08:51 PM",
-    "hora_utc": "2025-08-08 00:51",
-    "mensaje": "Con servicio el circuito 169 (Gran Panel), del municipio Santa Clara.",
-    "timestamp": 1754614284,
-    "timestamp_local": 1754614284
-  },
-  {
-    "id": 26908,
-    "fecha": "07 de Aug del 2025 a las 08:47 PM",
-    "hora_utc": "2025-08-08 00:47",
-    "mensaje": "🛠️ Afectado por manipulación el circuito 169 (Gran Panel), del municipio Santa Clara.",
-    "timestamp": 1754614069,
-    "timestamp_local": 1754614069
-  },
-  {
-    "id": 26907,
-    "fecha": "07 de Aug del 2025 a las 08:20 PM",
-    "hora_utc": "2025-08-08 00:20",
-    "mensaje": "💡Restablecido el circuito 169 (Gran Panel), del municipio Santa Clara.",
-    "timestamp": 1754612413,
-    "timestamp_local": 1754612413
   }
 ]
