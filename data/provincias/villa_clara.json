@@ -1,5 +1,21 @@
 [
   {
+    "id": 27000,
+    "fecha": "08 de Aug del 2025 a las 11:03 PM",
+    "hora_utc": "2025-08-09 03:03",
+    "mensaje": "Afectados 151 MW en la provincia, demanda máxima posible a apagar en estos momentos.",
+    "timestamp": 1754708619,
+    "timestamp_local": 1754708619
+  },
+  {
+    "id": 26999,
+    "fecha": "08 de Aug del 2025 a las 11:02 PM",
+    "hora_utc": "2025-08-09 03:02",
+    "mensaje": "⚡Avería⚡\nAfectado el circuito 13 (Zona industrial) perteneciente al municipio Santa Clara, se estudian las posibles causas.",
+    "timestamp": 1754708566,
+    "timestamp_local": 1754708566
+  },
+  {
     "id": 26998,
     "fecha": "08 de Aug del 2025 a las 10:04 PM",
     "hora_utc": "2025-08-09 02:04",
@@ -142,21 +158,5 @@
     "mensaje": "🕛Actualización del servicio eléctrico en las últimas 6 horas.\n👉El déficit de capacidad de generación osciló entre los 111 MW y los 123 MW.\n👉Se mantienen afectados en la provincia 160 circuitos.\n👉Cuenta con 149 afectaciones por averías secundarias y de servicio:\n🔸Caibarién (1)\n🔸Camajuaní (3)\n🔸Cifuentes (3)\n🔸Corralillo (3)\n🔸Manicaragua (9)\n🔸Placetas (6)\n🔸Quemado (4)\n🔸Ranchuelo (6)\n🔸Remedios (8) \n🔸Sagua (18) \n🔸Santa Clara (61)\n🔸Santo Domingo (27)\n🛠️Se encuentran 4 averías en vías de solución.\n🛠️Pendientes a solucionar por el área técnica 15.\n⚡Averías⚡\n👉Afectado el Cto 14 Maleza, perteneciente a Santa Clara.\n👉Afectado el Cto 146 Elevado Aeropuerto, perteneciente a Santa Clara.\n👉Afectado el Cto 55 Rancho Veloz, perteneciente a Corralillo.\n👉Disparada Línea 4608 perteneciente a Corralillo.",
     "timestamp": 1754691961,
     "timestamp_local": 1754691961
-  },
-  {
-    "id": 26980,
-    "fecha": "08 de Aug del 2025 a las 05:28 PM",
-    "hora_utc": "2025-08-08 21:28",
-    "mensaje": "⚠️Se encuentra disparada linea 4608 perteneciente al municipio Corralillo por tormenta.\nMunicipio Corralillo:\nCtos 58 y 159\nCto 57 Motembo\nCto 56 Yabre\nCto 60 La Sierra",
-    "timestamp": 1754688513,
-    "timestamp_local": 1754688513
-  },
-  {
-    "id": 26979,
-    "fecha": "08 de Aug del 2025 a las 05:04 PM",
-    "hora_utc": "2025-08-08 21:04",
-    "mensaje": "⚠️Serán afectados por déficit de capacidad de generación los siguientes circuitos:\n🔹Bloque 1 \nMunicipio Manicaragua:\nCtos 109 y 150\nCtos 108 y 110 La Piedra\nCto 111 Mataguá\nMunicipio Encrucijada\nCto 120 Calabazar\nCtos 121 y 127 Perucho\n🔹Bloque 2 \nMunicipio Camajuaní:\nCtos 72 y 129\nCto 75 La Quinta\nCto 157 Luis Arcos Bergnes\nCtos 76 y 90 Vega Alta \nMunicipio Cifuentes:\nCtos 114 y 117\nCtos 116 y 155 Mata\nCto 186 Batey Unidad Proletaria\nCto 184 Sitio Grande \nMunicipio Santo Domingo:\nCto 195 Batey George Washington\nCtos 83 y 165 Manacas\nCtos 85 y 86 Pajarito\nCtos 160 y 161 Cascajal\n🔹Bloque 5\nMunicipio Santo Domingo:\nCto 134\nCtos 87 y 96 Bermejal\nCto 187 Batey Carlos Baliño\nCto 82 Ulacia\nCto 84 Rodrigo",
-    "timestamp": 1754687075,
-    "timestamp_local": 1754687075
   }
 ]
