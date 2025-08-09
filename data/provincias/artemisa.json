@@ -1,5 +1,29 @@
 [
   {
+    "id": 32310,
+    "fecha": "09 de Aug del 2025 a las 10:44 AM",
+    "hora_utc": "2025-08-09 14:44",
+    "mensaje": "⚠️ Pronostico para el horario pico (09/08/2025):\n\nDisponibilidad: 2150 MW\nDemanda maxima: 3600 MW\nDéficit: 1450 MW\nAfectacion: 1520 MW\n\nMas detalles sobre el estado del SEN en 👉 https://www.unionelectrica.cu/nota-informativa/",
+    "timestamp": 1754750672,
+    "timestamp_local": 1754750672
+  },
+  {
+    "id": 32308,
+    "fecha": "09 de Aug del 2025 a las 10:41 AM",
+    "hora_utc": "2025-08-09 14:41",
+    "mensaje": "⛔Afectados por dèficit los circuitos:\n\n➡️ Circuito 236 de Bahía Honda\n➡️ Circuito 1570 de Artemisa Candelaria\n➡️ Circuito 1940 de San Antonio\n➡️Circuito 241 de Bahía Honda\n\n\n📌En estos momentos 76  MW de afectacion",
+    "timestamp": 1754750487,
+    "timestamp_local": 1754750487
+  },
+  {
+    "id": 32307,
+    "fecha": "09 de Aug del 2025 a las 10:37 AM",
+    "hora_utc": "2025-08-09 14:37",
+    "mensaje": "🚨Disparada la Subestación de Ariguanabo, afecta los circuitos 5040 , 5050 y 5045",
+    "timestamp": 1754750276,
+    "timestamp_local": 1754750276
+  },
+  {
     "id": 32306,
     "fecha": "09 de Aug del 2025 a las 07:50 AM",
     "hora_utc": "2025-08-09 11:50",
@@ -126,37 +150,5 @@
     "mensaje": "✅ Restablecida la Vía Libre del Entronque de Mariel",
     "timestamp": 1754670297,
     "timestamp_local": 1754670297
-  },
-  {
-    "id": 32289,
-    "fecha": "08 de Aug del 2025 a las 12:18 PM",
-    "hora_utc": "2025-08-08 16:18",
-    "mensaje": "🚨‼️Disparado por tormenta circuito 3210 de Guanajay",
-    "timestamp": 1754669887,
-    "timestamp_local": 1754669887
-  },
-  {
-    "id": 32288,
-    "fecha": "08 de Aug del 2025 a las 11:48 AM",
-    "hora_utc": "2025-08-08 15:48",
-    "mensaje": "🚨 Afectado el circuito de Cabañas por emergencia",
-    "timestamp": 1754668096,
-    "timestamp_local": 1754668096
-  },
-  {
-    "id": 32287,
-    "fecha": "08 de Aug del 2025 a las 11:39 AM",
-    "hora_utc": "2025-08-08 15:39",
-    "mensaje": "‼️Vía Libre en el circuito de Bauta Nueva para darle mantenimiento al transformador",
-    "timestamp": 1754667588,
-    "timestamp_local": 1754667588
-  },
-  {
-    "id": 32286,
-    "fecha": "08 de Aug del 2025 a las 11:09 AM",
-    "hora_utc": "2025-08-08 15:09",
-    "mensaje": "🚨 Afectados por dèficit los siguientes circuitos\n\n➡️Circuito de Bombeo Ceiba 1 y San Gabriel\n➡️Circuito 3220 de San Antonio excepto el hospital\n➡️Circuito 246 de Bahía Honda excepto el hospital\n➡️Circuito 1580 de Alquizar\n➡️Circuitos 1258 y 1270 de Artemisa\n\n‼️ Tenemos una afectación de 120 MW",
-    "timestamp": 1754665748,
-    "timestamp_local": 1754665748
   }
 ]
