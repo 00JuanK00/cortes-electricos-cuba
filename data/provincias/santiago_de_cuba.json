@@ -1,5 +1,29 @@
 [
   {
+    "id": 42950,
+    "fecha": "10 de Aug del 2025 a las 01:18 PM",
+    "hora_utc": "2025-08-10 17:18",
+    "mensaje": "🔴Disparo:\nApertura no voluntaria de un interruptor como vía de protección para desconectar uno o varios elementos del circuito, subestación o sistema, restableciéndose el servicio rápidamente en dependencia de la causa.",
+    "timestamp": 1754846304,
+    "timestamp_local": 1754846304
+  },
+  {
+    "id": 42949,
+    "fecha": "10 de Aug del 2025 a las 01:18 PM",
+    "hora_utc": "2025-08-10 17:18",
+    "mensaje": "🔴Se les informa a nuestros clientes que se encuentra disparada la línea 5390 La Maya - ll Frente .",
+    "timestamp": 1754846289,
+    "timestamp_local": 1754846289
+  },
+  {
+    "id": 42948,
+    "fecha": "10 de Aug del 2025 a las 01:07 PM",
+    "hora_utc": "2025-08-10 17:07",
+    "mensaje": "🔴Se les informa a nuestros clientes que se afecta por Déficit de Capacidad de Generación los circuitos 14 y 25 de Santiago.",
+    "timestamp": 1754845634,
+    "timestamp_local": 1754845634
+  },
+  {
     "id": 42946,
     "fecha": "10 de Aug del 2025 a las 12:04 PM",
     "hora_utc": "2025-08-10 16:04",
@@ -110,21 +134,5 @@
     "mensaje": "Disparo Automático de Frecuencia (DAF):\nOcurre cuando la frecuencia está por debajo de los 60Hz y determinada carga o circuito se desconecta del sistema automáticamente hasta que se estabilice.",
     "timestamp": 1754766933,
     "timestamp_local": 1754766933
-  },
-  {
-    "id": 42930,
-    "fecha": "09 de Aug del 2025 a las 03:15 PM",
-    "hora_utc": "2025-08-09 19:15",
-    "mensaje": "🚨Le informamos a nuestros clientes que el circuito 20 se encuentra Disparado por DAF.",
-    "timestamp": 1754766906,
-    "timestamp_local": 1754766906
-  },
-  {
-    "id": 42929,
-    "fecha": "09 de Aug del 2025 a las 03:14 PM",
-    "hora_utc": "2025-08-09 19:14",
-    "mensaje": "🚨Estimados clientes en estos momentos se afecto por Déficit la línea 5390-La Maya y el circuito 8 .",
-    "timestamp": 1754766860,
-    "timestamp_local": 1754766860
   }
 ]
