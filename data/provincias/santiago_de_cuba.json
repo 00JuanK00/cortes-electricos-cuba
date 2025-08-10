@@ -1,5 +1,37 @@
 [
   {
+    "id": 42955,
+    "fecha": "10 de Aug del 2025 a las 02:44 PM",
+    "hora_utc": "2025-08-10 18:44",
+    "mensaje": "🔴Se les informa a nuestros clientes que se afecta por Déficit de Capacidad de Generación el circuito 7 de Santiago.",
+    "timestamp": 1754851442,
+    "timestamp_local": 1754851442
+  },
+  {
+    "id": 42954,
+    "fecha": "10 de Aug del 2025 a las 02:32 PM",
+    "hora_utc": "2025-08-10 18:32",
+    "mensaje": "🔴Se les informa a nuestros clientes que se afecta por Déficit de Capacidad de Generación la línea 4395 Contramaestre - lll Frente.",
+    "timestamp": 1754850731,
+    "timestamp_local": 1754850731
+  },
+  {
+    "id": 42953,
+    "fecha": "10 de Aug del 2025 a las 02:31 PM",
+    "hora_utc": "2025-08-10 18:31",
+    "mensaje": "🔴Manipulaciones:\nAcción que se realizan en los circuitos para dar paso al trabajo en zonas afectadas por averías o Vía Libre y posteriormente para restablecer el servicio eléctrico en los circuitos que se encontraban afectados y en los que se trabaja con anterioridad, luego de culminadas las labores pertinentes.",
+    "timestamp": 1754850673,
+    "timestamp_local": 1754850673
+  },
+  {
+    "id": 42952,
+    "fecha": "10 de Aug del 2025 a las 02:30 PM",
+    "hora_utc": "2025-08-10 18:30",
+    "mensaje": "🔴Se les informa a nuestros clientes que se afecta por una manipulación el circuito 1 de Santiago.",
+    "timestamp": 1754850659,
+    "timestamp_local": 1754850659
+  },
+  {
     "id": 42950,
     "fecha": "10 de Aug del 2025 a las 01:18 PM",
     "hora_utc": "2025-08-10 17:18",
@@ -94,45 +126,5 @@
     "mensaje": "👉Estimados clientes se le informa que en estos momentos están afectados por Déficit de Capacidad de Generación los circuitos 1 y 2 Contramaestre, 13, 2 Santiago de Cuba, Ramal Baire - III Frente",
     "timestamp": 1754775528,
     "timestamp_local": 1754775528
-  },
-  {
-    "id": 42935,
-    "fecha": "09 de Aug del 2025 a las 04:40 PM",
-    "hora_utc": "2025-08-09 20:40",
-    "mensaje": "Estimados clientes en estos momentos se afecto por Déficit el circuito 1 de Palma.",
-    "timestamp": 1754772042,
-    "timestamp_local": 1754772042
-  },
-  {
-    "id": 42934,
-    "fecha": "09 de Aug del 2025 a las 04:15 PM",
-    "hora_utc": "2025-08-09 20:15",
-    "mensaje": "🚨Le informamos a nuestros clientes que se afectaron por Déficit los circuitos 14, 1 y 25 .",
-    "timestamp": 1754770550,
-    "timestamp_local": 1754770550
-  },
-  {
-    "id": 42933,
-    "fecha": "09 de Aug del 2025 a las 03:51 PM",
-    "hora_utc": "2025-08-09 19:51",
-    "mensaje": "🚨Le informamos a nuestros clientes que se afectaron por Déficit el circuito 26 y la línea 5975-Baconao.",
-    "timestamp": 1754769077,
-    "timestamp_local": 1754769077
-  },
-  {
-    "id": 42932,
-    "fecha": "09 de Aug del 2025 a las 03:45 PM",
-    "hora_utc": "2025-08-09 19:45",
-    "mensaje": "🚨Le informamos a nuestros clientes que en estos momentos se afectaron por Déficit los circuitos 19,16 y Guamá .",
-    "timestamp": 1754768716,
-    "timestamp_local": 1754768716
-  },
-  {
-    "id": 42931,
-    "fecha": "09 de Aug del 2025 a las 03:15 PM",
-    "hora_utc": "2025-08-09 19:15",
-    "mensaje": "Disparo Automático de Frecuencia (DAF):\nOcurre cuando la frecuencia está por debajo de los 60Hz y determinada carga o circuito se desconecta del sistema automáticamente hasta que se estabilice.",
-    "timestamp": 1754766933,
-    "timestamp_local": 1754766933
   }
 ]
