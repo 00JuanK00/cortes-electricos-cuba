@@ -1,5 +1,37 @@
 [
   {
+    "id": 42959,
+    "fecha": "10 de Aug del 2025 a las 02:56 PM",
+    "hora_utc": "2025-08-10 18:56",
+    "mensaje": "🔴Disparo:\nApertura no voluntaria de un interruptor como vía de protección para desconectar uno o varios elementos del circuito, subestación o sistema, restableciéndose el servicio rápidamente en dependencia de la causa.",
+    "timestamp": 1754852172,
+    "timestamp_local": 1754852172
+  },
+  {
+    "id": 42958,
+    "fecha": "10 de Aug del 2025 a las 02:55 PM",
+    "hora_utc": "2025-08-10 18:55",
+    "mensaje": "🔴Se les informa a nuestros clientes que se afecta por un disparo el circuito 8 de Santiago.",
+    "timestamp": 1754852158,
+    "timestamp_local": 1754852158
+  },
+  {
+    "id": 42957,
+    "fecha": "10 de Aug del 2025 a las 02:54 PM",
+    "hora_utc": "2025-08-10 18:54",
+    "mensaje": "🔴Disparo Automático de Frecuencia (DAF):\nOcurre cuando la frecuencia está por debajo de los 60Hz y determinada carga o circuito se desconecta del sistema automáticamente hasta que se estabilice.",
+    "timestamp": 1754852098,
+    "timestamp_local": 1754852098
+  },
+  {
+    "id": 42956,
+    "fecha": "10 de Aug del 2025 a las 02:54 PM",
+    "hora_utc": "2025-08-10 18:54",
+    "mensaje": "🔴Se les informa a nuestros clientes que se encuentran disparados por DAF  los circuitos 12 y 20 de Santiago.",
+    "timestamp": 1754852079,
+    "timestamp_local": 1754852079
+  },
+  {
     "id": 42955,
     "fecha": "10 de Aug del 2025 a las 02:44 PM",
     "hora_utc": "2025-08-10 18:44",
@@ -102,29 +134,5 @@
     "mensaje": "👉 Estimados clientes se le informa que en estos momentos están afectados por Déficit de Capacidad de Generación los circuitos 19, 26",
     "timestamp": 1754799412,
     "timestamp_local": 1754799412
-  },
-  {
-    "id": 42939,
-    "fecha": "09 de Aug del 2025 a las 11:57 PM",
-    "hora_utc": "2025-08-10 03:57",
-    "mensaje": "🔴 Manipulaciones:\nAcciones que se realizan en los circuitos para dar paso al trabajo en zonas afectadas por averías o Vía Libre y posteriormente para restablecer el servicio eléctrico en los circuitos que se encontraban afectados y en los que se trabaja con anterioridad, luego de culminadas las labores pertinentes.",
-    "timestamp": 1754798279,
-    "timestamp_local": 1754798279
-  },
-  {
-    "id": 42938,
-    "fecha": "09 de Aug del 2025 a las 11:57 PM",
-    "hora_utc": "2025-08-10 03:57",
-    "mensaje": "👉 Estimados clientes se les informa que en estos momentos están manipulando el LI 5975 Baconao para reponer un Fuse al Aire",
-    "timestamp": 1754798264,
-    "timestamp_local": 1754798264
-  },
-  {
-    "id": 42936,
-    "fecha": "09 de Aug del 2025 a las 05:38 PM",
-    "hora_utc": "2025-08-09 21:38",
-    "mensaje": "👉Estimados clientes se le informa que en estos momentos están afectados por Déficit de Capacidad de Generación los circuitos 1 y 2 Contramaestre, 13, 2 Santiago de Cuba, Ramal Baire - III Frente",
-    "timestamp": 1754775528,
-    "timestamp_local": 1754775528
   }
 ]
