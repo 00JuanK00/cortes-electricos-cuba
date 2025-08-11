@@ -1,5 +1,45 @@
 [
   {
+    "id": 84979,
+    "fecha": "11 de Aug del 2025 a las 06:50 AM",
+    "hora_utc": "2025-08-11 10:50",
+    "mensaje": "🔷 Restablecido el servicio en el circuito CTO que se encontraba afectado por disparo en las líneas 🔷",
+    "timestamp": 1754909455,
+    "timestamp_local": 1754909455
+  },
+  {
+    "id": 84978,
+    "fecha": "11 de Aug del 2025 a las 06:50 AM",
+    "hora_utc": "2025-08-11 10:50",
+    "mensaje": "🔷 Restablecido el servicio en el circuito 2315 que se encontraba afectado por manipulación 🔷",
+    "timestamp": 1754909419,
+    "timestamp_local": 1754909419
+  },
+  {
+    "id": 84977,
+    "fecha": "11 de Aug del 2025 a las 06:45 AM",
+    "hora_utc": "2025-08-11 10:45",
+    "mensaje": "♦️ Afectado el servicio en el circuito 2315 por manipulación ♦️",
+    "timestamp": 1754909126,
+    "timestamp_local": 1754909126
+  },
+  {
+    "id": 84975,
+    "fecha": "11 de Aug del 2025 a las 06:22 AM",
+    "hora_utc": "2025-08-11 10:22",
+    "mensaje": "♦️ Afectado el servicio en el circuito CTO por disparo en las líneas ♦️",
+    "timestamp": 1754907742,
+    "timestamp_local": 1754907742
+  },
+  {
+    "id": 84974,
+    "fecha": "11 de Aug del 2025 a las 06:21 AM",
+    "hora_utc": "2025-08-11 10:21",
+    "mensaje": "🔷♦️Se restablece el servicio en el circuito que se encontraba afectado por déficit de capacidad de generación:\n* 2420 ♦️🔷",
+    "timestamp": 1754907717,
+    "timestamp_local": 1754907717
+  },
+  {
     "id": 84972,
     "fecha": "11 de Aug del 2025 a las 05:37 AM",
     "hora_utc": "2025-08-11 09:37",
@@ -62,53 +102,5 @@
     "mensaje": "🔷♦️Se restablece el servicio en el circuito que se encontraba afectado por déficit de capacidad de generación:\n* Guines 3 ♦️🔷",
     "timestamp": 1754885841,
     "timestamp_local": 1754885841
-  },
-  {
-    "id": 84959,
-    "fecha": "11 de Aug del 2025 a las 12:16 AM",
-    "hora_utc": "2025-08-11 04:16",
-    "mensaje": "🔷♦️Se restablece el servicio en el circuito que se encontraba afectado por déficit de capacidad de generación:\n* 2 de San José ♦️🔷",
-    "timestamp": 1754885810,
-    "timestamp_local": 1754885810
-  },
-  {
-    "id": 84958,
-    "fecha": "11 de Aug del 2025 a las 12:07 AM",
-    "hora_utc": "2025-08-11 04:07",
-    "mensaje": "🔷♦️Se restablece el servicio en el circuito que se encontraba afectado por déficit de capacidad de generación:\n* UNAH ♦️🔷",
-    "timestamp": 1754885272,
-    "timestamp_local": 1754885272
-  },
-  {
-    "id": 84957,
-    "fecha": "11 de Aug del 2025 a las 12:06 AM",
-    "hora_utc": "2025-08-11 04:06",
-    "mensaje": "📣♦️ Continúa afectado por avería las zonas pertenecientes al circuito de Güines 4 por avería:\n*La Polleria \n*Cebadero de Toros\n*La Riva ♦️📣",
-    "timestamp": 1754885165,
-    "timestamp_local": 1754885165
-  },
-  {
-    "id": 84956,
-    "fecha": "10 de Aug del 2025 a las 11:58 PM",
-    "hora_utc": "2025-08-11 03:58",
-    "mensaje": "🔷♦️Se restablece el servicio en el circuito que se encontraba afectado por déficit de capacidad de generación:\n* Censa ♦️🔷",
-    "timestamp": 1754884737,
-    "timestamp_local": 1754884737
-  },
-  {
-    "id": 84955,
-    "fecha": "10 de Aug del 2025 a las 11:49 PM",
-    "hora_utc": "2025-08-11 03:49",
-    "mensaje": "🔷♦️Se restablece el servicio en los circuitos que se encontraban afectados por déficit de capacidad de generación:\n* Sopapo 1 y 2 ♦️🔷",
-    "timestamp": 1754884157,
-    "timestamp_local": 1754884157
-  },
-  {
-    "id": 84954,
-    "fecha": "10 de Aug del 2025 a las 11:47 PM",
-    "hora_utc": "2025-08-11 03:47",
-    "mensaje": "🔷♦️Se restablece el servicio en el circuito que se encontraba afectado por déficit de capacidad de generación:\n* 3140 ♦️🔷",
-    "timestamp": 1754884072,
-    "timestamp_local": 1754884072
   }
 ]
