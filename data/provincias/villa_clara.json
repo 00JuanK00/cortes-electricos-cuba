@@ -1,5 +1,29 @@
 [
   {
+    "id": 27128,
+    "fecha": "11 de Aug del 2025 a las 08:11 AM",
+    "hora_utc": "2025-08-11 12:11",
+    "mensaje": "Resumen de afectaciones por déficit de capacidad de generación el 10/08/2025:                    \n \nEn el día de ayer se afecta el servicio por déficit de generación de forma ininterrumpida durante todo el día, con una afectación máxima de 136 MW en el horario pico.\n \nActualmente tenemos 68 MW afectados por déficit de generación.  \n \nTiempo promedio de afectación 13:30 horas\n \nExisten en este instante 148 interrupciones al servicio eléctrico por atender. Siendo Santa Clara con 72, Manicaragua 24, Remedios 13, Santo Domingo 10, Camajuaní 8, Corralillo 7 y Sagua 6 los municipios de mayor Incidencia.",
+    "timestamp": 1754914283,
+    "timestamp_local": 1754914283
+  },
+  {
+    "id": 27127,
+    "fecha": "11 de Aug del 2025 a las 08:01 AM",
+    "hora_utc": "2025-08-11 12:01",
+    "mensaje": "Actualización del servicio eléctrico en la provincia🔸\n✍️Se mantienen afectados en la provincia 90 circuitos.\n✍️En el momento de hacer esta nota la provincia tiene 68 MW de afectación por déficit de capacidad de generación, demanda máxima posible a apagar.\n✍️Cuenta con 148 afectaciones por averías secundarias y de servicio.",
+    "timestamp": 1754913711,
+    "timestamp_local": 1754913711
+  },
+  {
+    "id": 27126,
+    "fecha": "11 de Aug del 2025 a las 07:58 AM",
+    "hora_utc": "2025-08-11 11:58",
+    "mensaje": "Nota informativa. \n\nSituación del SEN para el 11 de agosto de 2025.  \nEn el día de ayer se afectó el servicio las 24 horas y se mantuvo afectado durante toda la madrugada de hoy. La máxima afectación por déficit de capacidad de generación en el día de ayer fue de 1248 MW a las 20:20 horas.\n \nLa producción de energía de los 25 nuevos parques solares fotovoltaicos fue de 2368 MWh, con 481 MW como máxima potencia entregada en el horario de la media con esta fuente de generación.  \n \nLa disponibilidad del SEN a las 06:00 horas es de 2000 MW  la demanda 2558 MW con 596 MW afectados por déficit de capacidad. En el horario de la media se estima una afectación de 750 MW.\n \nSe encuentran en avería la unidad 2 de la CTE Felton. Se encuentran en mantenimiento la unidad 2 de la CTE Santa Cruz, la unidad 4 de la CTE Cienfuegos y la unidad 5 de la CTE Renté. \n \nLas limitaciones en la generación térmica son de 490 MW. \n \nSe encuentran fuera de servicio por combustible 72 centrales de generación distribuida con 578 MW.\n \nPara el pico se estima la recuperación de 170 MW en motores de la generación distribuida que están fuera por combustible.\n \nCon este pronóstico, en el horario pico se estima una disponibilidad de 2170 MW y una demanda máxima de 3450 MW, para un déficit de 1280 MW, por lo que de mantenerse las condiciones previstas se pronostica una afectación de 1350 MW en este horario.\n \nUNE-MINEM---07:00 horas",
+    "timestamp": 1754913522,
+    "timestamp_local": 1754913522
+  },
+  {
     "id": 27125,
     "fecha": "11 de Aug del 2025 a las 07:15 AM",
     "hora_utc": "2025-08-11 11:15",
@@ -27,7 +51,7 @@
     "id": 27122,
     "fecha": "11 de Aug del 2025 a las 05:57 AM",
     "hora_utc": "2025-08-11 09:57",
-    "mensaje": "🕕Actualización del servicio eléctrico en las últimas 6 horas.\n\n👉El déficit de capacidad de generación osciló entre los 99 MW y los 62 MW.\n👉De los 161 circuitos apagables que presenta la provincia, se mantienen afectados 82 circuitos.\n 👉Cuenta con 153 afectaciones por averías secundarias y de servicio:\n Camajuaní (8)\n Corralillo (7)\n Encrucijada (1)\n Manicaragua (23)\n Remedios (13) \n Sagua (4) \n Santa Clara (67)\n Santo Domingo (8)\n🛠️Se encuentran 2 averías en vías de solución.\n🛠️Pendientes a solucionar por el área técnica 20.\n\n⚡Averías⚡\n👉Avería en circuito 71 Buena Vista.\n👉Avería en circuito 110 La Piedra (afectado parcialmente).",
+    "mensaje": "🕕Actualización del servicio eléctrico en las últimas 6 horas.\n\n👉El déficit de capacidad de generación osciló entre los 99 MW y los 62 MW.\n👉Se mantienen afectados 82 circuitos en la Provincia. \n 👉Cuenta con 153 afectaciones por averías secundarias y de servicio:\n Camajuaní (8)\n Corralillo (7)\n Encrucijada (1)\n Manicaragua (23)\n Remedios (13) \n Sagua (4) \n Santa Clara (67)\n Santo Domingo (8)\n🛠️Se encuentran 2 averías en vías de solución.\n🛠️Pendientes a solucionar por el área técnica 20.\n\n⚡Averías⚡\n👉Avería en circuito 71 Buena Vista.\n👉Avería en circuito 110 La Piedra (afectado parcialmente).",
     "timestamp": 1754906255,
     "timestamp_local": 1754906255
   },
@@ -110,29 +134,5 @@
     "mensaje": "⚡Afectado por avería el circuito 66 Las Torres del municipio Caibarien, por puente primario partido.",
     "timestamp": 1754879206,
     "timestamp_local": 1754879206
-  },
-  {
-    "id": 27108,
-    "fecha": "10 de Aug del 2025 a las 10:21 PM",
-    "hora_utc": "2025-08-11 02:21",
-    "mensaje": "💡Restablecido el servicio eléctrico en los circuitos 89 y 188 pertenecientes al municipio Ranchuelo.",
-    "timestamp": 1754878913,
-    "timestamp_local": 1754878913
-  },
-  {
-    "id": 27107,
-    "fecha": "10 de Aug del 2025 a las 10:00 PM",
-    "hora_utc": "2025-08-11 02:00",
-    "mensaje": "🚨Usted puede mantenerse informado por nuestras redes🛜, y unirse a nuestro canal de Telegram, para usted trabajamos🛠️ , para darle una actualización  clara y precisa de cómo se está comportando el Sistema Eléctrico Nacional💡, puede llamar☎️ al 18888, donde prestamos servicio las 24 horas.",
-    "timestamp": 1754877611,
-    "timestamp_local": 1754877611
-  },
-  {
-    "id": 27106,
-    "fecha": "10 de Aug del 2025 a las 09:55 PM",
-    "hora_utc": "2025-08-11 01:55",
-    "mensaje": "Actualización del servicio eléctrico en la provincia🔸\n✍️Se mantienen afectados en la provincia 123 circuitos.\n✍️En el momento de hacer esta nota la provincia tiene 126 MW de afectación por déficit de capacidad de generación, demanda máxima posible a apagar.\n✍️Cuenta con 175 afectaciones por averías secundarias y de servicio.",
-    "timestamp": 1754877314,
-    "timestamp_local": 1754877314
   }
 ]
