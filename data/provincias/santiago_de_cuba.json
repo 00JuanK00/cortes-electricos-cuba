@@ -1,5 +1,29 @@
 [
   {
+    "id": 42972,
+    "fecha": "10 de Aug del 2025 a las 08:33 PM",
+    "hora_utc": "2025-08-11 00:33",
+    "mensaje": "🚨Estimados clientes en estos momentos se afecto por Déficit el circuito 2 de Santiago.",
+    "timestamp": 1754872429,
+    "timestamp_local": 1754872429
+  },
+  {
+    "id": 42971,
+    "fecha": "10 de Aug del 2025 a las 08:18 PM",
+    "hora_utc": "2025-08-11 00:18",
+    "mensaje": "Déficit de Capacidad de Generación:\nEs cuando la demanda o consumo de energía es mayor que la disponibilidad del sistema electro energético.",
+    "timestamp": 1754871515,
+    "timestamp_local": 1754871515
+  },
+  {
+    "id": 42970,
+    "fecha": "10 de Aug del 2025 a las 08:00 PM",
+    "hora_utc": "2025-08-11 00:00",
+    "mensaje": "🔴Estimados clientes se incorporan a la afectación los circuitos El Alambre y El Pilar.",
+    "timestamp": 1754870436,
+    "timestamp_local": 1754870436
+  },
+  {
     "id": 42969,
     "fecha": "10 de Aug del 2025 a las 07:21 PM",
     "hora_utc": "2025-08-10 23:21",
@@ -126,21 +150,5 @@
     "mensaje": "🔴Manipulaciones:\nAcción que se realizan en los circuitos para dar paso al trabajo en zonas afectadas por averías o Vía Libre y posteriormente para restablecer el servicio eléctrico en los circuitos que se encontraban afectados y en los que se trabaja con anterioridad, luego de culminadas las labores pertinentes.",
     "timestamp": 1754850673,
     "timestamp_local": 1754850673
-  },
-  {
-    "id": 42952,
-    "fecha": "10 de Aug del 2025 a las 02:30 PM",
-    "hora_utc": "2025-08-10 18:30",
-    "mensaje": "🔴Se les informa a nuestros clientes que se afecta por una manipulación el circuito 1 de Santiago.",
-    "timestamp": 1754850659,
-    "timestamp_local": 1754850659
-  },
-  {
-    "id": 42950,
-    "fecha": "10 de Aug del 2025 a las 01:18 PM",
-    "hora_utc": "2025-08-10 17:18",
-    "mensaje": "🔴Disparo:\nApertura no voluntaria de un interruptor como vía de protección para desconectar uno o varios elementos del circuito, subestación o sistema, restableciéndose el servicio rápidamente en dependencia de la causa.",
-    "timestamp": 1754846304,
-    "timestamp_local": 1754846304
   }
 ]
