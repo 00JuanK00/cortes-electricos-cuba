@@ -1,5 +1,37 @@
 [
   {
+    "id": 27163,
+    "fecha": "11 de Aug del 2025 a las 06:41 PM",
+    "hora_utc": "2025-08-11 22:41",
+    "mensaje": "⚠️Afectados por déficit de capacidad de generación los siguientes circuitos:\n🔹Bloque 4\nMunicipio Encrucijada:\n👉Cto 122 Encrucijada \n👉Cto 123 Vizcaya \n👉Cto 142 Comunidad La Sierra \n👉Cto 126 Batey Emilio Córdova\n👉Cto 125 Cavarrocas\n👉Cto 124 El Santo\nMunicipio Camajuaní:\n👉Cto 78 Jutiero",
+    "timestamp": 1754952092,
+    "timestamp_local": 1754952092
+  },
+  {
+    "id": 27162,
+    "fecha": "11 de Aug del 2025 a las 06:40 PM",
+    "hora_utc": "2025-08-11 22:40",
+    "mensaje": "⚠️Afectados por déficit de capacidad de generación los siguientes circuitos:\n🔹Bloque 1\nMunicipio Encrucijada\n👉Cto 120 Calabazar\n👉Ctos 121 y 127 Perucho",
+    "timestamp": 1754952027,
+    "timestamp_local": 1754952027
+  },
+  {
+    "id": 27161,
+    "fecha": "11 de Aug del 2025 a las 06:39 PM",
+    "hora_utc": "2025-08-11 22:39",
+    "mensaje": "💡Restablecido el servicio eléctrico en los siguientes circuitos:\n🔹Bloque 5\nMunicipio Santa Clara:\n👉Ctos 1 y 4 (Consejo- Centro)",
+    "timestamp": 1754951978,
+    "timestamp_local": 1754951978
+  },
+  {
+    "id": 27160,
+    "fecha": "11 de Aug del 2025 a las 06:09 PM",
+    "hora_utc": "2025-08-11 22:09",
+    "mensaje": "🕕Actualización del servicio eléctrico en las últimas 6 horas.\n✍️El déficit de capacidad de generación osciló entre los 93 MW y los 103 MW.\n✍️Se mantienen afectados 125 circuitos en la provincia. \n ✍️Cuenta con 247 afectaciones por averías secundarias y de servicio:\n🔸Caibarién (1)\n🔸Camajuaní (10)\n🔸Cifuentes (8)\n🔸Corralillo (18)\n🔸Encrucijada (15)\n🔸Manicaragua (29)\n🔸Placetas (14)\n🔸Quemado (2)\n🔸Ranchuelo (12)\n🔸Remedios (13) \n🔸Sagua (8) \n🔸Santa Clara (77)\n🔸Santo Domingo (13)\n🛠️Se encuentran 11 averías en vías de solución.\n🛠️Pendientes a solucionar por el área técnica 14.\n⚡La provincia presenta 2 averías primarias, en el circuito 111 (Mataguá), del municipio Manicaragua el cual se encuentra en vías de solución y en el circuito 92 (Esperanza), del municipio Ranchuelo. Se estudian las causas.",
+    "timestamp": 1754950191,
+    "timestamp_local": 1754950191
+  },
+  {
     "id": 27158,
     "fecha": "11 de Aug del 2025 a las 05:50 PM",
     "hora_utc": "2025-08-11 21:50",
@@ -126,37 +158,5 @@
     "mensaje": "🛠 Continúa afectado por avería circuito 162 SC Industrial perteneciente al municipio de Santa Clara por puente primario partido. Brigadas de nuestra Empresa crean las condiciones necesarias para trabajar en el lugar y restablecer el servicio en el menor tiempo posible.",
     "timestamp": 1754936890,
     "timestamp_local": 1754936890
-  },
-  {
-    "id": 27142,
-    "fecha": "11 de Aug del 2025 a las 02:12 PM",
-    "hora_utc": "2025-08-11 18:12",
-    "mensaje": "Actualización del servicio eléctrico en la provincia🔸\n✍️Se mantienen afectados en la provincia 113 circuitos.\n✍️En el momento de hacer esta nota la provincia tiene 93 MW de afectación por déficit de capacidad de generación, demanda máxima posible a apagar.\n✍️Cuenta con 211 afectaciones por averías secundarias y de servicio.",
-    "timestamp": 1754935949,
-    "timestamp_local": 1754935949
-  },
-  {
-    "id": 27141,
-    "fecha": "11 de Aug del 2025 a las 01:38 PM",
-    "hora_utc": "2025-08-11 17:38",
-    "mensaje": "💡Con servicio el circuito 21 (Sabana- Rebacadero), del municipio Santa Clara.",
-    "timestamp": 1754933886,
-    "timestamp_local": 1754933886
-  },
-  {
-    "id": 27140,
-    "fecha": "11 de Aug del 2025 a las 01:22 PM",
-    "hora_utc": "2025-08-11 17:22",
-    "mensaje": "💡Restablecido el servicio eléctrico en los siguientes circuitos:\n🔹Bloque 1\nMunicipio Manicaragua:\n👉Ctos 109 y 150\n👉Ctos 108 y 110 La Piedra\n👉Cto 111 Mataguá",
-    "timestamp": 1754932976,
-    "timestamp_local": 1754932976
-  },
-  {
-    "id": 27139,
-    "fecha": "11 de Aug del 2025 a las 01:21 PM",
-    "hora_utc": "2025-08-11 17:21",
-    "mensaje": "✍️Línea 1960 perteneciente al municipio Encrucijada, la cual se encontraba afectada por déficit de capacidad de generación, no será restablecida en su horario correspondiente a la planificación del Bloque 1, debido a que la misma se encuentra en vía libre para realizar cambio de transformador dañado.\n✍️Será restablecida una vez concluido el trabajo.",
-    "timestamp": 1754932914,
-    "timestamp_local": 1754932914
   }
 ]
