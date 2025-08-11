@@ -1,5 +1,29 @@
 [
   {
+    "id": 16341,
+    "fecha": "11 de Aug del 2025 a las 12:47 PM",
+    "hora_utc": "2025-08-11 16:47",
+    "mensaje": "La Empresa Eléctrica Las Tunas informa que, según la nota emitida por la Unión Eléctrica para el 11 de agosto, ayer se registraron afectaciones durante las 24 horas debido a déficit de capacidad de generación, situación que se extendió durante la madrugada de hoy. En nuestra provincia la máxima afectación fue de 47 MW a las 19 horas. Actualmente está fuera de servicio por avería:\n·        La Unidad 2 de la CTE Felton \nEn mantenimiento se encuentran:\n·       La Unidad 2 de la CTE Santa Cruz\n·       La Unidad 4 de la CTE Carlos Manuel de Céspedes\nen Cienfuegos \n·       La Unidad 5 de la CTE Renté\nSe estima una afectación en el horario de la media de 750 MW y de 1350 MW en el horario pico nocturno.\nPara hoy, las afectaciones en la provincia podrían alcanzar los 45 MW en el horario diurno, lo cual representa el 50% de los circuitos apagables. En el horario pico nocturno la máxima afectación puede alcanzar los 75.2 MW, lo cual representa el 80%. Estos valores pueden variar según la demanda nacional.",
+    "timestamp": 1754930867,
+    "timestamp_local": 1754930867
+  },
+  {
+    "id": 16340,
+    "fecha": "11 de Aug del 2025 a las 12:45 PM",
+    "hora_utc": "2025-08-11 16:45",
+    "mensaje": "Se mantienen en avería los siguientes circuitos: TK19, TK82, la zona de Dos Hermanos que pertenece al circuito 2020",
+    "timestamp": 1754930722,
+    "timestamp_local": 1754930722
+  },
+  {
+    "id": 16339,
+    "fecha": "11 de Aug del 2025 a las 12:43 PM",
+    "hora_utc": "2025-08-11 16:43",
+    "mensaje": "Solucionadas las averías de los siguientes circuitos: TK14, TK20, y la parte del TK1 que se encontraba afectada por esta causa.",
+    "timestamp": 1754930612,
+    "timestamp_local": 1754930612
+  },
+  {
     "id": 16338,
     "fecha": "11 de Aug del 2025 a las 08:26 AM",
     "hora_utc": "2025-08-11 12:26",
@@ -118,29 +142,5 @@
     "mensaje": "Se encuentra disparado el circuito de 33Kv 6100 Manatí",
     "timestamp": 1754737758,
     "timestamp_local": 1754737758
-  },
-  {
-    "id": 16321,
-    "fecha": "08 de Aug del 2025 a las 10:33 PM",
-    "hora_utc": "2025-08-09 02:33",
-    "mensaje": "Se encuentra disparado el circuito TK 25 Cuatro Camino.",
-    "timestamp": 1754706784,
-    "timestamp_local": 1754706784
-  },
-  {
-    "id": 16320,
-    "fecha": "08 de Aug del 2025 a las 06:37 PM",
-    "hora_utc": "2025-08-08 22:37",
-    "mensaje": "Aviso de la Empresa EléctricaLas Tunas \n\nInformamos a nuestros clientesque, en este momento nos encontramos en la máxima capacidad apagable, lo que\nimpide el restablecimiento inmediato del servicio eléctrico en los circuitos afectados.La situación podrá mejorar en la medida en que el Sistema Electroenergético\nNacional permita recuperar la capacidad de generación y distribución.\nDebido al significativodéficit energético que enfrenta nuestro país y la disponibilidad limitada del Sistema\nEléctrico Nacional(SEN) en comparación con la demanda actual, lamentamos nopoder proporcionar una programación detallada de las afectaciones en el\nsuministro eléctrico.",
-    "timestamp": 1754692639,
-    "timestamp_local": 1754692639
-  },
-  {
-    "id": 16319,
-    "fecha": "08 de Aug del 2025 a las 05:29 PM",
-    "hora_utc": "2025-08-08 21:29",
-    "mensaje": "Debido al significativo déficit energético que enfrenta nuestro país y la disponibilidad limitada del Sistema Eléctrico Nacional(SEN)\nen comparación con la demanda actual, lamentamos no poder proporcionar una programación detallada de las afectaciones en el suministro eléctrico.\nAgradecemos su compresión y ofrecemos nuestras más sinceras disculpas por las molestias que esto pueda causarles.",
-    "timestamp": 1754688581,
-    "timestamp_local": 1754688581
   }
 ]
