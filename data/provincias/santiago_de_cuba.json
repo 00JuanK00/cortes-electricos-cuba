@@ -1,5 +1,37 @@
 [
   {
+    "id": 42988,
+    "fecha": "11 de Aug del 2025 a las 07:39 AM",
+    "hora_utc": "2025-08-11 11:39",
+    "mensaje": "Disparo:\nApertura no voluntaria de un interruptor como vía de protección para desconectar uno o varios elementos del circuito, subestación o sistema, restableciéndose el servicio rápidamente en dependencia de la causa.",
+    "timestamp": 1754912341,
+    "timestamp_local": 1754912341
+  },
+  {
+    "id": 42987,
+    "fecha": "11 de Aug del 2025 a las 07:38 AM",
+    "hora_utc": "2025-08-11 11:38",
+    "mensaje": "🚨Estimados clientes en estos momentos se encuentra Disparado el circuito 15 y la línea 5390-La Maya-II Frente.",
+    "timestamp": 1754912299,
+    "timestamp_local": 1754912299
+  },
+  {
+    "id": 42986,
+    "fecha": "11 de Aug del 2025 a las 07:23 AM",
+    "hora_utc": "2025-08-11 11:23",
+    "mensaje": "Déficit de Capacidad de Generación:  \nSe produce cuando la demanda del Sistema Eléctrico Nacional, en determinado horario del día, supera la generación disponible del país, provocando la desconexión de los circuitos o líneas que permitan garantizar la frecuencia del SEN.",
+    "timestamp": 1754911388,
+    "timestamp_local": 1754911388
+  },
+  {
+    "id": 42985,
+    "fecha": "11 de Aug del 2025 a las 07:22 AM",
+    "hora_utc": "2025-08-11 11:22",
+    "mensaje": "🚨Le informamos a nuestros clientes que se afecto por Déficit el circuito 14 y el 1 de Santiago.",
+    "timestamp": 1754911365,
+    "timestamp_local": 1754911365
+  },
+  {
     "id": 42984,
     "fecha": "11 de Aug del 2025 a las 06:33 AM",
     "hora_utc": "2025-08-11 10:33",
@@ -86,37 +118,5 @@
     "mensaje": "🔴Estimados clientes se incorporan a la afectación los circuitos El Alambre y El Pilar.",
     "timestamp": 1754870436,
     "timestamp_local": 1754870436
-  },
-  {
-    "id": 42969,
-    "fecha": "10 de Aug del 2025 a las 07:21 PM",
-    "hora_utc": "2025-08-10 23:21",
-    "mensaje": "🚨Estimados clientes en estos momentos se afecto por Déficit el circuito 14 y II Frente.",
-    "timestamp": 1754868066,
-    "timestamp_local": 1754868066
-  },
-  {
-    "id": 42967,
-    "fecha": "10 de Aug del 2025 a las 05:56 PM",
-    "hora_utc": "2025-08-10 21:56",
-    "mensaje": "🔴Estimados clientes en estos momentos se incorporan a la afectación los circuitos 23 ,26 y Guamá.",
-    "timestamp": 1754863019,
-    "timestamp_local": 1754863019
-  },
-  {
-    "id": 42966,
-    "fecha": "10 de Aug del 2025 a las 05:29 PM",
-    "hora_utc": "2025-08-10 21:29",
-    "mensaje": "Disparo Automático de Frecuencia (DAF):\nOcurre cuando la frecuencia está por debajo de los 60Hz y determinada carga o circuito se desconecta del sistema automáticamente hasta que se estabilice.",
-    "timestamp": 1754861372,
-    "timestamp_local": 1754861372
-  },
-  {
-    "id": 42965,
-    "fecha": "10 de Aug del 2025 a las 05:28 PM",
-    "hora_utc": "2025-08-10 21:28",
-    "mensaje": "🔈Estimados clientes en estos momentos se encuentra Disparado por DAF los circuitos 12 y 20 de Santiago.",
-    "timestamp": 1754861290,
-    "timestamp_local": 1754861290
   }
 ]
