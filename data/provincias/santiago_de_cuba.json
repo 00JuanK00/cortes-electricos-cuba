@@ -1,5 +1,21 @@
 [
   {
+    "id": 43046,
+    "fecha": "12 de Aug del 2025 a las 02:02 PM",
+    "hora_utc": "2025-08-12 18:02",
+    "mensaje": "Déficit de Capacidad de Generación:  \nSe produce cuando la demanda del Sistema Eléctrico Nacional, en determinado horario del día, supera la generación disponible del país, provocando la desconexión de los circuitos o líneas que permitan garantizar la frecuencia del SEN.",
+    "timestamp": 1755021741,
+    "timestamp_local": 1755021741
+  },
+  {
+    "id": 43045,
+    "fecha": "12 de Aug del 2025 a las 02:00 PM",
+    "hora_utc": "2025-08-12 18:00",
+    "mensaje": "🚨Estimados clientes en estos momentos se afecto por Déficit el circuito 8 y la línea 5390 -La Maya-ll Frente.",
+    "timestamp": 1755021619,
+    "timestamp_local": 1755021619
+  },
+  {
     "id": 43043,
     "fecha": "12 de Aug del 2025 a las 12:56 PM",
     "hora_utc": "2025-08-12 16:56",
@@ -118,21 +134,5 @@
     "mensaje": "🔴La Empresa Eléctrica de Santiago de Cuba informa que, debido a trabajos de Vía Libre  en la Subestación Héctor Pavón, el circuito 7 podría verse afectado este martes a partir de las 9:00 a.m debido  las altas transferencias en el transformador en servicio.\n\nLa ocurrencia de dicha afectación fuera del horario previsto se originará por la demanda en el transformador. Este circuito se afectará solo si es necesario.  Los circuitos 1, 8, y 9 se afectarán según la rotación correspondiente.",
     "timestamp": 1754985312,
     "timestamp_local": 1754985312
-  },
-  {
-    "id": 43026,
-    "fecha": "12 de Aug del 2025 a las 01:30 AM",
-    "hora_utc": "2025-08-12 05:30",
-    "mensaje": "🔴Disparo:\nApertura no voluntaria de un interruptor como vía de protección para desconectar uno o varios elementos del circuito, subestación o sistema, restableciéndose el servicio rápidamente en dependencia de la causa.",
-    "timestamp": 1754976648,
-    "timestamp_local": 1754976648
-  },
-  {
-    "id": 43025,
-    "fecha": "12 de Aug del 2025 a las 01:30 AM",
-    "hora_utc": "2025-08-12 05:30",
-    "mensaje": "🔴Se les informa a nuestros clientes que se afecta por un disparo el circuito 10 +3 de Santiago.",
-    "timestamp": 1754976626,
-    "timestamp_local": 1754976626
   }
 ]
