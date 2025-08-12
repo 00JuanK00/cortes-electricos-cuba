@@ -1,5 +1,37 @@
 [
   {
+    "id": 27170,
+    "fecha": "11 de Aug del 2025 a las 08:17 PM",
+    "hora_utc": "2025-08-12 00:17",
+    "mensaje": "🛠️Afectado por DAF (Disparo Automático por Frecuencia), la línea 1915:\nAfecta los siguientes circuitos:\nMunicipio Placetas:\n👉Cto 192 Benito Juárez\n👉Cto 102 Peroti",
+    "timestamp": 1754957833,
+    "timestamp_local": 1754957833
+  },
+  {
+    "id": 27169,
+    "fecha": "11 de Aug del 2025 a las 08:10 PM",
+    "hora_utc": "2025-08-12 00:10",
+    "mensaje": "💡Restablecido el servicio eléctrico en el circuito 6 (Vigía), del municipio Santa Clara, perteneciente al Bloque 9.",
+    "timestamp": 1754957455,
+    "timestamp_local": 1754957455
+  },
+  {
+    "id": 27168,
+    "fecha": "11 de Aug del 2025 a las 08:10 PM",
+    "hora_utc": "2025-08-12 00:10",
+    "mensaje": "⚠️Afectados por déficit de capacidad de generación los siguientes circuitos:\n🔹Bloque 1\nMunicipio Manicaragua:\n👉Ctos 109 y 150\n👉Ctos 108 y 110 La Piedra\n👉Cto 111 Mataguá",
+    "timestamp": 1754957400,
+    "timestamp_local": 1754957400
+  },
+  {
+    "id": 27167,
+    "fecha": "11 de Aug del 2025 a las 08:02 PM",
+    "hora_utc": "2025-08-12 00:02",
+    "mensaje": "Actualización del servicio eléctrico en la provincia🔸\n✍️Se mantienen afectados en la provincia 143 circuitos.\n✍️En el momento de hacer esta nota la provincia tiene 140 MW de afectación por déficit de capacidad de generación, demanda máxima posible a apagar.\n✍️Cuenta con 207 afectaciones por averías secundarias y de servicio.",
+    "timestamp": 1754956967,
+    "timestamp_local": 1754956967
+  },
+  {
     "id": 27166,
     "fecha": "11 de Aug del 2025 a las 07:13 PM",
     "hora_utc": "2025-08-11 23:13",
@@ -118,45 +150,5 @@
     "mensaje": "⚠️Afectados por déficit de capacidad de generación los siguientes circuitos:\n🔹Bloque 5\nMunicipio Santa Clara:\n👉Ctos 1 y 4 (Consejo- Centro)",
     "timestamp": 1754945522,
     "timestamp_local": 1754945522
-  },
-  {
-    "id": 27150,
-    "fecha": "11 de Aug del 2025 a las 04:25 PM",
-    "hora_utc": "2025-08-11 20:25",
-    "mensaje": "Actualización del servicio eléctrico en la provincia🔸\n✍️Se mantienen afectados en la provincia 125 circuitos.\n✍️En el momento de hacer esta nota la provincia tiene 103 MW de afectación por déficit de capacidad de generación, demanda máxima posible a apagar.\n✍️Cuenta con 229 afectaciones por averías secundarias y de servicio.",
-    "timestamp": 1754943954,
-    "timestamp_local": 1754943954
-  },
-  {
-    "id": 27149,
-    "fecha": "11 de Aug del 2025 a las 03:57 PM",
-    "hora_utc": "2025-08-11 19:57",
-    "mensaje": "⚠️Serán afectados por déficit de capacidad de generación los siguientes circuitos:\n🔹Bloque 11\nMunicipio Quemado:\n👉Ctos 164, 52 y 53 Quemado.\n👉Cto 196 Batey Panchito Gómez Toro.\nMunicipio Corralillo:\n👉Cto 55 Rancho Veloz",
-    "timestamp": 1754942245,
-    "timestamp_local": 1754942245
-  },
-  {
-    "id": 27148,
-    "fecha": "11 de Aug del 2025 a las 03:56 PM",
-    "hora_utc": "2025-08-11 19:56",
-    "mensaje": "⚠️Serán afectados por déficit de capacidad de generación los siguientes circuitos:\n🔹Bloque 7\nMunicipio Ranchuelo: \n👉Ctos 89, 97, 188 y 189\n👉Ctos 148 y 149 San Juan\n👉Cto 91 Batey Osvaldo Herrera\n👉Cto 181 Batey Ifraín Alfonso",
-    "timestamp": 1754942178,
-    "timestamp_local": 1754942178
-  },
-  {
-    "id": 27147,
-    "fecha": "11 de Aug del 2025 a las 03:49 PM",
-    "hora_utc": "2025-08-11 19:49",
-    "mensaje": "💡Restablecido el servicio eléctrico en la línea 1960:\nMunicipio Encrucijada\n👉Cto 120 Calabazar\n👉Ctos 121 y 127 Perucho",
-    "timestamp": 1754941787,
-    "timestamp_local": 1754941787
-  },
-  {
-    "id": 27146,
-    "fecha": "11 de Aug del 2025 a las 03:23 PM",
-    "hora_utc": "2025-08-11 19:23",
-    "mensaje": "⚠️Afectado por déficit de capacidad de generación los siguientes circuitos:\n🔹Bloque 11\nMunicipio Remedios\n👉Cto 71 Buena Vista\n👉Cto 143 Batey Heriberto  Duquesne\n👉Cto 69 Zuluetas\n👉Cto 70 Zuluetas\n👉Cto 67 Remedios\n👉Cto 152 Remedios \n👉Cto 68 Remedios\n👉Cto 118 Remedios",
-    "timestamp": 1754940226,
-    "timestamp_local": 1754940226
   }
 ]

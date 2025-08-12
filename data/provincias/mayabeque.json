@@ -1,5 +1,29 @@
 [
   {
+    "id": 85070,
+    "fecha": "11 de Aug del 2025 a las 08:31 PM",
+    "hora_utc": "2025-08-12 00:31",
+    "mensaje": "♦️ Afectado el servicio en el circuito UNAH por avería ♦️",
+    "timestamp": 1754958664,
+    "timestamp_local": 1754958664
+  },
+  {
+    "id": 85069,
+    "fecha": "11 de Aug del 2025 a las 08:18 PM",
+    "hora_utc": "2025-08-12 00:18",
+    "mensaje": "🔷 Restablecido el servicio en el circuito ML 35 que se encontraba afectado por emergencia 🔷",
+    "timestamp": 1754957925,
+    "timestamp_local": 1754957925
+  },
+  {
+    "id": 85068,
+    "fecha": "11 de Aug del 2025 a las 08:05 PM",
+    "hora_utc": "2025-08-12 00:05",
+    "mensaje": "🚨Por déficit de capacidad de generación se afecta el servicio en el siguiente circuito:\n* Vegas🚨",
+    "timestamp": 1754957117,
+    "timestamp_local": 1754957117
+  },
+  {
     "id": 85064,
     "fecha": "11 de Aug del 2025 a las 07:26 PM",
     "hora_utc": "2025-08-11 23:26",
@@ -110,29 +134,5 @@
     "mensaje": "♦️ Afectado el servicio en el circuito 2495 por disparo en las líneas ♦️",
     "timestamp": 1754947472,
     "timestamp_local": 1754947472
-  },
-  {
-    "id": 85050,
-    "fecha": "11 de Aug del 2025 a las 05:22 PM",
-    "hora_utc": "2025-08-11 21:22",
-    "mensaje": "🔷 Restablecido el servicio en el circuito 2495 que se encontraba afectado por disparo en las líneas🔷",
-    "timestamp": 1754947328,
-    "timestamp_local": 1754947328
-  },
-  {
-    "id": 85049,
-    "fecha": "11 de Aug del 2025 a las 05:17 PM",
-    "hora_utc": "2025-08-11 21:17",
-    "mensaje": "♦️ Afectado el servicio en los siguientes circuitos por disparo en las líneas:\n* 2420\n* 2495♦️",
-    "timestamp": 1754947045,
-    "timestamp_local": 1754947045
-  },
-  {
-    "id": 85048,
-    "fecha": "11 de Aug del 2025 a las 04:57 PM",
-    "hora_utc": "2025-08-11 20:57",
-    "mensaje": "📣🚨 Afectado nuevamente por déficit de capacidad de generación el circuito 3 de San José que se encontraba restablecido momentáneamente por manipulación 🚨📣",
-    "timestamp": 1754945826,
-    "timestamp_local": 1754945826
   }
 ]
