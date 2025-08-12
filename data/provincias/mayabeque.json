@@ -1,5 +1,61 @@
 [
   {
+    "id": 85188,
+    "fecha": "12 de Aug del 2025 a las 07:43 PM",
+    "hora_utc": "2025-08-12 23:43",
+    "mensaje": "🔷 Restablecido el servicio en el circuito 2495 que se encontraba afectado por disparo en las líneas 🔷",
+    "timestamp": 1755042222,
+    "timestamp_local": 1755042222
+  },
+  {
+    "id": 85187,
+    "fecha": "12 de Aug del 2025 a las 07:41 PM",
+    "hora_utc": "2025-08-12 23:41",
+    "mensaje": "♦️ Afectado el servicio en el circuito 2495 por disparo en las líneas ♦️",
+    "timestamp": 1755042101,
+    "timestamp_local": 1755042101
+  },
+  {
+    "id": 85186,
+    "fecha": "12 de Aug del 2025 a las 07:41 PM",
+    "hora_utc": "2025-08-12 23:41",
+    "mensaje": "🔷 Restablecido el servicio en el circuito 3130 que se encontraba afectado por disparo en las líneas 🔷",
+    "timestamp": 1755042069,
+    "timestamp_local": 1755042069
+  },
+  {
+    "id": 85185,
+    "fecha": "12 de Aug del 2025 a las 07:38 PM",
+    "hora_utc": "2025-08-12 23:38",
+    "mensaje": "♦️ Afectado el servicio en el siguiente circuito por disparo en las líneas:\n*3130♦️",
+    "timestamp": 1755041917,
+    "timestamp_local": 1755041917
+  },
+  {
+    "id": 85184,
+    "fecha": "12 de Aug del 2025 a las 07:35 PM",
+    "hora_utc": "2025-08-12 23:35",
+    "mensaje": "🚨Por déficit de capacidad de generación se afecta el servicio en el siguiente circuito:\n*CENSA 🚨",
+    "timestamp": 1755041719,
+    "timestamp_local": 1755041719
+  },
+  {
+    "id": 85183,
+    "fecha": "12 de Aug del 2025 a las 07:30 PM",
+    "hora_utc": "2025-08-12 23:30",
+    "mensaje": "♦️ Afectado el servicio en los siguientes circuitos por disparo en las líneas:\n*Madruga\n*Flor de Itabo♦️",
+    "timestamp": 1755041423,
+    "timestamp_local": 1755041423
+  },
+  {
+    "id": 85182,
+    "fecha": "12 de Aug del 2025 a las 07:22 PM",
+    "hora_utc": "2025-08-12 23:22",
+    "mensaje": "🚨Por déficit de capacidad de generación se afecta el servicio en el siguiente circuito:\n*Ganuza 🚨",
+    "timestamp": 1755040926,
+    "timestamp_local": 1755040926
+  },
+  {
     "id": 85181,
     "fecha": "12 de Aug del 2025 a las 06:58 PM",
     "hora_utc": "2025-08-12 22:58",
@@ -78,61 +134,5 @@
     "mensaje": "🔷♦️Se restablece el servicio en los circuitos que se encontraban afectados por déficit de capacidad de generación:\n*6 y 8 de San José ♦️🔷",
     "timestamp": 1755029524,
     "timestamp_local": 1755029524
-  },
-  {
-    "id": 85168,
-    "fecha": "12 de Aug del 2025 a las 04:01 PM",
-    "hora_utc": "2025-08-12 20:01",
-    "mensaje": "🚨Por déficit de capacidad de generación se afecta el servicio en el siguiente circuito:\n*Güines - 4 🚨",
-    "timestamp": 1755028911,
-    "timestamp_local": 1755028911
-  },
-  {
-    "id": 85167,
-    "fecha": "12 de Aug del 2025 a las 03:37 PM",
-    "hora_utc": "2025-08-12 19:37",
-    "mensaje": "🚨Por déficit de capacidad de generación se afecta el servicio en el siguiente circuito:\n*Surgidero 🚨",
-    "timestamp": 1755027457,
-    "timestamp_local": 1755027457
-  },
-  {
-    "id": 85166,
-    "fecha": "12 de Aug del 2025 a las 03:33 PM",
-    "hora_utc": "2025-08-12 19:33",
-    "mensaje": "🚨Por déficit de capacidad de generación se afecta el servicio en el siguiente circuito:\n*Magela 🚨",
-    "timestamp": 1755027185,
-    "timestamp_local": 1755027185
-  },
-  {
-    "id": 85165,
-    "fecha": "12 de Aug del 2025 a las 03:31 PM",
-    "hora_utc": "2025-08-12 19:31",
-    "mensaje": "🔷♦️Se restablece el servicio en el circuito que se encontraba afectado por déficit de capacidad de generación:\n*Madruga ♦️🔷",
-    "timestamp": 1755027094,
-    "timestamp_local": 1755027094
-  },
-  {
-    "id": 85164,
-    "fecha": "12 de Aug del 2025 a las 03:25 PM",
-    "hora_utc": "2025-08-12 19:25",
-    "mensaje": "🚨Por déficit de capacidad de generación se afecta el servicio en el siguiente circuito:\n*Jaruco 🚨",
-    "timestamp": 1755026726,
-    "timestamp_local": 1755026726
-  },
-  {
-    "id": 85163,
-    "fecha": "12 de Aug del 2025 a las 03:18 PM",
-    "hora_utc": "2025-08-12 19:18",
-    "mensaje": "🔷♦️Se restablece el servicio en el circuito que se encontraba afectado por déficit de capacidad de generación:\n*Fénix ♦️🔷",
-    "timestamp": 1755026307,
-    "timestamp_local": 1755026307
-  },
-  {
-    "id": 85162,
-    "fecha": "12 de Aug del 2025 a las 03:13 PM",
-    "hora_utc": "2025-08-12 19:13",
-    "mensaje": "🚨Por déficit de capacidad de generación se afecta el servicio en los siguientes circuitos:\n*Quivicán\n*San Felipe\n*Palomo🚨",
-    "timestamp": 1755026010,
-    "timestamp_local": 1755026010
   }
 ]
