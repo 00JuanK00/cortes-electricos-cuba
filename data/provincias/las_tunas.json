@@ -1,5 +1,21 @@
 [
   {
+    "id": 16348,
+    "fecha": "12 de Aug del 2025 a las 02:25 PM",
+    "hora_utc": "2025-08-12 18:25",
+    "mensaje": "QUE SIGNIFICA E IMPLICA LA MÁXIMA CAPACIDAD APAGABLE EN LA PROVINCIA: \nMáxima capacidad apagable se refiere al nivel máximo de demanda eléctrica que puede ser desconectada o suspendida temporalmente en la provincia, explica la complejidad del déficit de generación o contingencias en el sistema eléctrico.\nRepresenta el límite superior de la reducción de carga que la empresa puede lograr mediante cortes de energía (apagones). Cuanto mayor sea la máxima capacidad apagable, mayor será el déficit de energía.\n¿Qué implica esto?\nSe identifica cuántos circuitos pueden ser apagados para equilibrar la carga del sistema, esto imposibilita realizar rotaciones, pues a excepción de los servicios priorizados, se encuentran afectados todos los circuitos apagables del territorio. Podrán presentarse afectaciones en el servicio de electricidad durante varias horas al día y el tiempo con servicio dependerá del comportamiento del SEN. Esta medida es necesaria para evitar fallas mayores y proteger la infraestructura eléctrica.",
+    "timestamp": 1755023138,
+    "timestamp_local": 1755023138
+  },
+  {
+    "id": 16347,
+    "fecha": "12 de Aug del 2025 a las 02:22 PM",
+    "hora_utc": "2025-08-12 18:22",
+    "mensaje": "La Empresa Eléctrica Las Tunas informa que, según la nota emitida por la Unión Eléctrica para el 12 de agosto, ayer se registraron afectaciones durante las 24 horas debido a déficit de capacidad de generación, situación que se extendió durante la madrugada de hoy. En nuestra provincia la máxima afectación fue de 75.95MW a las 19 horas. Actualmente están fuera de servicio por avería:\n·       La Unidad 5 de la CTE Mariel\n·       La Unidad 6 de la CTE Nuevitas \n·       La Unidad 2 de la CTE Felton.\nEn mantenimiento se encuentran:\n·       La Unidad 2 de la CTE Santa Cruz\n·       La Unidad 4 de la CTE Carlos Manuel de Céspedes\nen Cienfuegos \n·       La Unidad 5 de la CTE Renté\nSe estima una afectación de 1365 MW en el horario pico nocturno.\nEn el horario pico nocturno la máxima afectación puede alcanzar los 75.2 MW, lo cual representa el 80%. Estos valores pueden variar según la demanda nacional.",
+    "timestamp": 1755022965,
+    "timestamp_local": 1755022965
+  },
+  {
     "id": 16346,
     "fecha": "12 de Aug del 2025 a las 09:30 AM",
     "hora_utc": "2025-08-12 13:30",
@@ -134,29 +150,5 @@
     "mensaje": "Se afecta el circuito 6220 Menéndez por Vía Libre por Emergencia para trabajar en la línea",
     "timestamp": 1754789485,
     "timestamp_local": 1754789485
-  },
-  {
-    "id": 16329,
-    "fecha": "09 de Aug del 2025 a las 04:12 PM",
-    "hora_utc": "2025-08-09 20:12",
-    "mensaje": "Se encuentra en avería el TK5 Buena Vista Los Pinos.",
-    "timestamp": 1754770362,
-    "timestamp_local": 1754770362
-  },
-  {
-    "id": 16328,
-    "fecha": "09 de Aug del 2025 a las 03:03 PM",
-    "hora_utc": "2025-08-09 19:03",
-    "mensaje": "Se encuentran disparados los siguientes circuitos \nTK4 Aeropuerto, Casa Piedra y Aurora\n**Circuito 33 Kv: 6230**\nTK59 Vedado 3\nTK67 Porcino\nTK68 Vedado 6\nTK69 Poblado de Menéndez\nTK70 Transporte\nTK99 Santa Marías\nTK98 San Manuel, La\nPedrera\nTK64 Palma Picada\n**Circuito de 33Kv 6225**\nTK93 Batey Delicias\nTK48 Puerto Padre y Maniabón\nTK53 La Morena y El Malecón** **\nTK47 La Micro Puerto Padre",
-    "timestamp": 1754766224,
-    "timestamp_local": 1754766224
-  },
-  {
-    "id": 16327,
-    "fecha": "09 de Aug del 2025 a las 12:21 PM",
-    "hora_utc": "2025-08-09 16:21",
-    "mensaje": "Se afecta por vía libre para realizar trabajos en la linea los siguientes lugares del municipo Majibacoa: Robotán, La Guásima, El Mango, La Arenera y lugares aledaños a la División de Holguín . Lamentamos las molestias ocasionadas.",
-    "timestamp": 1754756489,
-    "timestamp_local": 1754756489
   }
 ]
