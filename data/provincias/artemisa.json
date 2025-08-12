@@ -1,5 +1,45 @@
 [
   {
+    "id": 32405,
+    "fecha": "12 de Aug del 2025 a las 11:39 AM",
+    "hora_utc": "2025-08-12 15:39",
+    "mensaje": "✅Restablecido circuito Bauta Vieja q se encontraba en Vía Libre",
+    "timestamp": 1755013181,
+    "timestamp_local": 1755013181
+  },
+  {
+    "id": 32404,
+    "fecha": "12 de Aug del 2025 a las 10:55 AM",
+    "hora_utc": "2025-08-12 14:55",
+    "mensaje": "🚨‼️Vía libre en el circuito de Fábrica de carretas a partir de la X420 para darle tensión a la Vía Primaria",
+    "timestamp": 1755010526,
+    "timestamp_local": 1755010526
+  },
+  {
+    "id": 32403,
+    "fecha": "12 de Aug del 2025 a las 10:53 AM",
+    "hora_utc": "2025-08-12 14:53",
+    "mensaje": "🚨Afectados por deficit los siguientes circuitos\n\n➡️Circuitos de Bombeo de Ceiba 1 y San Gabriel\n➡️Circuito 3220 de San Antonio\n➡️Circuitos 241 y 246 de Bahía Honda \n➡️Circuito 1580 de Alquizar\n➡️Circuito Maní de San Cristóbal\n\n‼️ Tenemos una afectación de 105 MW",
+    "timestamp": 1755010403,
+    "timestamp_local": 1755010403
+  },
+  {
+    "id": 32402,
+    "fecha": "12 de Aug del 2025 a las 10:49 AM",
+    "hora_utc": "2025-08-12 14:49",
+    "mensaje": "⚠️ Pronostico para el horario pico (12/08/2025):\n\nDisponibilidad: 2155 MW\nDemanda maxima: 3450 MW\nDéficit: 1295 MW\nAfectacion: 1365 MW\n\nMas detalles sobre el estado del SEN en 👉 https://www.unionelectrica.cu/nota-informativa/",
+    "timestamp": 1755010175,
+    "timestamp_local": 1755010175
+  },
+  {
+    "id": 32400,
+    "fecha": "12 de Aug del 2025 a las 09:40 AM",
+    "hora_utc": "2025-08-12 13:40",
+    "mensaje": "🚨‼️Vía libre en el circuito de Bauta Vieja para darle mantenimiento a la Subestación",
+    "timestamp": 1755006008,
+    "timestamp_local": 1755006008
+  },
+  {
     "id": 32399,
     "fecha": "12 de Aug del 2025 a las 07:19 AM",
     "hora_utc": "2025-08-12 11:19",
@@ -110,53 +150,5 @@
     "mensaje": "🚨Circuito 1940 de San Antonio se encuentra disparado por tormenta 🚨",
     "timestamp": 1754944840,
     "timestamp_local": 1754944840
-  },
-  {
-    "id": 32385,
-    "fecha": "11 de Aug del 2025 a las 04:25 PM",
-    "hora_utc": "2025-08-11 20:25",
-    "mensaje": "📌Afectado por déficit de generación los circuitos 📌\n➡️Circuito Maní de San Cristobal \n\n📌Tenemos una afectación en la provincia de 115MW 📌",
-    "timestamp": 1754943956,
-    "timestamp_local": 1754943956
-  },
-  {
-    "id": 32384,
-    "fecha": "11 de Aug del 2025 a las 03:55 PM",
-    "hora_utc": "2025-08-11 19:55",
-    "mensaje": "🚨 Afectados por dèficit los siguientes circuitos\n\n➡️Circuitos A1270 de Artemisa\n➡️Circuito 1500 de Artemisa\n➡️Circuitos Bombeo Ceiba 1 y San Gabriel de Caimito \n➡️Circuitos 3220 de San Antonio\n➡️Circuito 341 de San Cristóbal\n➡️Circuito 236 de Bahía Honda\n➡️Circuito Quiebra Hacha \n\n\n‼️ Tenemos una afectación de 105MW",
-    "timestamp": 1754942152,
-    "timestamp_local": 1754942152
-  },
-  {
-    "id": 32383,
-    "fecha": "11 de Aug del 2025 a las 03:36 PM",
-    "hora_utc": "2025-08-11 19:36",
-    "mensaje": "🚨 Circuito 3185 de Artemisa abierto por emergencia por poste con candela 🚨",
-    "timestamp": 1754940997,
-    "timestamp_local": 1754940997
-  },
-  {
-    "id": 32382,
-    "fecha": "11 de Aug del 2025 a las 01:22 PM",
-    "hora_utc": "2025-08-11 17:22",
-    "mensaje": "📢Estimado Cliente:\n✅Recuerde que a través del Cajero Auntomático también puede pagar su Factura Eléctrica de manera muy sencilla y aquí le mostramos los pasos a seguir.\nMás rápido, seguro y fácil.\n\n⚡Empresa Eléctrica de Artemisa⚡",
-    "timestamp": 1754932958,
-    "timestamp_local": 1754932958
-  },
-  {
-    "id": 32381,
-    "fecha": "11 de Aug del 2025 a las 12:51 PM",
-    "hora_utc": "2025-08-11 16:51",
-    "mensaje": "📌Afectado por déficit de generación los circuitos 📌\n➡️Circuito 1570 de Artemisa, Candelaria  \n\n📌Tenemos una afectación en la provincia de 91M",
-    "timestamp": 1754931069,
-    "timestamp_local": 1754931069
-  },
-  {
-    "id": 32380,
-    "fecha": "11 de Aug del 2025 a las 12:41 PM",
-    "hora_utc": "2025-08-11 16:41",
-    "mensaje": "📌Afectado por déficit de generación los circuitos 📌\n➡️Circuito 3205 de Cabaña y Quiebra Hacha \n\n📌Tenemos una afectación en la provincia de 91MW 📌",
-    "timestamp": 1754930487,
-    "timestamp_local": 1754930487
   }
 ]
