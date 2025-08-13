@@ -1,5 +1,21 @@
 [
   {
+    "id": 32433,
+    "fecha": "13 de Aug del 2025 a las 12:53 PM",
+    "hora_utc": "2025-08-13 16:53",
+    "mensaje": "🚨 Disparada la su subestación de 110 del Gabriel en Güira de Melena 🚨",
+    "timestamp": 1755103999,
+    "timestamp_local": 1755103999
+  },
+  {
+    "id": 32432,
+    "fecha": "13 de Aug del 2025 a las 12:53 PM",
+    "hora_utc": "2025-08-13 16:53",
+    "mensaje": "🚨 Afectado por deficit el circuito\n\n➡️Circuito Cárcel de Guanajay \n\n‼️ Tenemos una afectación de 86 MW",
+    "timestamp": 1755103988,
+    "timestamp_local": 1755103988
+  },
+  {
     "id": 32431,
     "fecha": "13 de Aug del 2025 a las 12:17 PM",
     "hora_utc": "2025-08-13 16:17",
@@ -19,7 +35,7 @@
     "id": 32429,
     "fecha": "13 de Aug del 2025 a las 10:22 AM",
     "hora_utc": "2025-08-13 14:22",
-    "mensaje": "🚨Afectados por deficit los siguientes circuitos\n\n➡️Circuitos 4 caminos y el Marti de San Cristóbal\n➡️Circuito 1940 de San Antonio\n➡️Circuito 1570 de Artemisa Candelaria\n➡️Circuito 236 de Bahía Honda\n➡️Circuito Sub Plátano de Artemisa \n\n‼️ Tenemos una afectación de 84 MW",
+    "mensaje": "🚨Afectados por deficit los siguientes circuitos\n\n➡️Circuitos 4 caminos y el Marti de San Cristóbal\n➡️Circuito 1940 de San Antonio\n➡️Circuito 1570 de Artemisa Candelaria\n➡️Circuito Sub Plátano de Artemisa \n\n‼️ Tenemos una afectación de 84 MW",
     "timestamp": 1755094946,
     "timestamp_local": 1755094946
   },
@@ -134,21 +150,5 @@
     "mensaje": "⛔‼️Vía Libre en el circuito de Bombeo Ceiba 1 para reparar puente partido dentro de la Subestación",
     "timestamp": 1755034199,
     "timestamp_local": 1755034199
-  },
-  {
-    "id": 32413,
-    "fecha": "12 de Aug del 2025 a las 04:21 PM",
-    "hora_utc": "2025-08-12 20:21",
-    "mensaje": "🚨Afectados por deficit los circuitos\n \n➡️Circuito Villa Salado de Caimito\n➡️Circuito de Baracoa Playa \n➡️Circuitos de Güira 13 y 4 mil\n\n‼️ Tenemos una afectación de 105 MW",
-    "timestamp": 1755030082,
-    "timestamp_local": 1755030082
-  },
-  {
-    "id": 32412,
-    "fecha": "12 de Aug del 2025 a las 03:58 PM",
-    "hora_utc": "2025-08-12 19:58",
-    "mensaje": "⛔Se mantienen afectados por déficit los siguientes circuitos \n\n➡️Circuitos 241 y 246 de Bahia Honda \n➡️Circuito 3205 de Cabaña y Quiebra Hacha \n➡️Circuito 236 de Bahia Honda \n➡️Circuito Pedro Díaz de Guira de Melena \n➡️Circuito 1570 de Artemisa y Candelaria \n➡️Circuito 1940 de San Antonio \n➡️Circuitos Sub San Cristóbal , 4 caminos y el Martí \n➡️Circuito Cárcel de Guanajay\n➡️Circuito San Pedro de Bauta \n\n❌Tenemos una afectación de 105 MW",
-    "timestamp": 1755028701,
-    "timestamp_local": 1755028701
   }
 ]
