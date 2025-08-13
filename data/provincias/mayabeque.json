@@ -1,5 +1,29 @@
 [
   {
+    "id": 85270,
+    "fecha": "13 de Aug del 2025 a las 11:44 AM",
+    "hora_utc": "2025-08-13 15:44",
+    "mensaje": "♦️ Afectado el servicio en el circuito ML 35 por manipulación ♦️",
+    "timestamp": 1755099882,
+    "timestamp_local": 1755099882
+  },
+  {
+    "id": 85261,
+    "fecha": "13 de Aug del 2025 a las 11:02 AM",
+    "hora_utc": "2025-08-13 15:02",
+    "mensaje": "♦️ Afectado el servicio en el circuito Vedado de Güines por vía libre ♦️",
+    "timestamp": 1755097352,
+    "timestamp_local": 1755097352
+  },
+  {
+    "id": 85260,
+    "fecha": "13 de Aug del 2025 a las 11:01 AM",
+    "hora_utc": "2025-08-13 15:01",
+    "mensaje": "🔷 Restablecido el servicio en el circuito ML 35 que se encontraba afectado por manipulación 🔷\n\n🚨 Continúa afectado el servicio por déficit de capacidad de generación el siguiente circuito:\n*Melena 1🚨",
+    "timestamp": 1755097304,
+    "timestamp_local": 1755097304
+  },
+  {
     "id": 85259,
     "fecha": "13 de Aug del 2025 a las 10:56 AM",
     "hora_utc": "2025-08-13 14:56",
@@ -94,61 +118,5 @@
     "mensaje": "🔷♦️Se restablece el servicio en los circuitos que se encontraban afectados por déficit de capacidad de generación:\n*Sopapo 1 y 2 ♦️🔷",
     "timestamp": 1755087414,
     "timestamp_local": 1755087414
-  },
-  {
-    "id": 85247,
-    "fecha": "13 de Aug del 2025 a las 08:15 AM",
-    "hora_utc": "2025-08-13 12:15",
-    "mensaje": "🚨Por déficit de capacidad de generación se afecta el servicio en el siguiente circuito:\n*Magela🚨",
-    "timestamp": 1755087310,
-    "timestamp_local": 1755087310
-  },
-  {
-    "id": 85246,
-    "fecha": "13 de Aug del 2025 a las 08:12 AM",
-    "hora_utc": "2025-08-13 12:12",
-    "mensaje": "🚨Por déficit de capacidad de generación se afecta el servicio en el siguiente circuito:\n*Batabanó 🚨",
-    "timestamp": 1755087178,
-    "timestamp_local": 1755087178
-  },
-  {
-    "id": 85245,
-    "fecha": "13 de Aug del 2025 a las 08:12 AM",
-    "hora_utc": "2025-08-13 12:12",
-    "mensaje": "🔷♦️Se restablece el servicio en el siguiente circuito que se encontraban afectado por déficit de capacidad de generación:\n*1657♦️🔷",
-    "timestamp": 1755087161,
-    "timestamp_local": 1755087161
-  },
-  {
-    "id": 85244,
-    "fecha": "13 de Aug del 2025 a las 08:06 AM",
-    "hora_utc": "2025-08-13 12:06",
-    "mensaje": "🔷♦️Se restablece el servicio en el circuito que se encontraba afectado por déficit de capacidad de generación:\n*Santa Cruz ♦️🔷",
-    "timestamp": 1755086811,
-    "timestamp_local": 1755086811
-  },
-  {
-    "id": 85243,
-    "fecha": "13 de Aug del 2025 a las 08:06 AM",
-    "hora_utc": "2025-08-13 12:06",
-    "mensaje": "🔷♦️Se restablece el servicio en el circuito que se encontraba afectado por déficit de capacidad de generación:\n*Fénix\n ♦️🔷",
-    "timestamp": 1755086793,
-    "timestamp_local": 1755086793
-  },
-  {
-    "id": 85242,
-    "fecha": "13 de Aug del 2025 a las 08:05 AM",
-    "hora_utc": "2025-08-13 12:05",
-    "mensaje": "🚨Por déficit de capacidad de generación se afecta el servicio en el siguiente circuito:\n*3140 🚨",
-    "timestamp": 1755086733,
-    "timestamp_local": 1755086733
-  },
-  {
-    "id": 85241,
-    "fecha": "13 de Aug del 2025 a las 07:56 AM",
-    "hora_utc": "2025-08-13 11:56",
-    "mensaje": "📝 Nota informativa‼️\n\n📅 Situación del SEN para el 13 de agosto de 2025.\n\n👉 En el día de ayer se afectó el servicio las 24 horas y se mantuvo afectado durante toda la madrugada de hoy. La máxima afectación por déficit de capacidad de generación en el día de ayer fue de 1576 MW a las 20:20 horas. La afectación fue superior a lo planificado debido a un aumento de la demanda respecto a la planificada.\n\n🌞 La producción de energía de los 25 nuevos parques solares fotovoltaicos fue de 2506 MWh, con 457 MW como máxima potencia entregada en el horario de la media con esta fuente de generación. 🪟\n\n👉 La disponibilidad del SEN a las 06:00 horas es de 2040 MW  la demanda 2917 MW con 907 MW afectados por déficit de capacidad. En el horario de la media se estima una afectación de 950 MW.\n\n🛠️ Se encuentran en avería:\n➡️ la unidad 5 de la CTE Máximo Gómez,\n➡️ la unidad 1 de la CTE Santa Cruz\n➡️ y la unidad 2 de la CTE Felton. \n\n🛠️ Se encuentran en mantenimiento:\n➡️ la unidad 2 de la CTE Santa Cruz, \n➡️ la unidad 4 de la CTE Cienfuegos \n➡️ y la unidad 5 de la CTE Renté. \n\n👉 Las limitaciones en la generación térmica son de 384 MW. \n\n⛽ Se encuentran fuera de servicio por combustible 68 centrales de generación distribuida con 418 MW.\n\n📈 Para el pico se estima la entrada de la unidad 1 de la CTE Santa Cruz con 60 MW, la entrada de 7 motores de la patana de Melones con 45 MW y la recuperación de 50 MW en motores de la generación distribuida que están fuera por combustible.\n\n📃 Con este pronóstico, en el horario pico se estima una disponibilidad de 2195 MW y una demanda máxima de 3600 MW, para un déficit de 1405 MW, por lo que de mantenerse las condiciones previstas se pronostica una afectación de 1475 MW en este horario.\n\nUNE-MINEM",
-    "timestamp": 1755086173,
-    "timestamp_local": 1755086173
   }
 ]
