@@ -1,5 +1,13 @@
 [
   {
+    "id": 27297,
+    "fecha": "13 de Aug del 2025 a las 03:40 PM",
+    "hora_utc": "2025-08-13 19:40",
+    "mensaje": "Estimados clientes:\n\nInformamos que debido a una condición técnica imprevista en la subestación 110kV Camajuani se realizaron algunos cambios en los bloques de afectación por déficit de capacidad de generación:\n👉Los circuitos 72 y 129 Camajuaní pertenecientes al bloque 2 pasarán a formar parte del bloque 7 (línea 6595).\n👉Línea 6580 ( Circuitos 77,59 y 185 Vueltas) pertenecientes al bloque 4 pasarán a formar parte del bloque 2.\n\n✍ Estos cambios se mantendrán hasta tanto demos solución a la avería.\nNuestro canal le mantendrá actualizado de la situación.",
+    "timestamp": 1755114010,
+    "timestamp_local": 1755114010
+  },
+  {
     "id": 27296,
     "fecha": "13 de Aug del 2025 a las 03:06 PM",
     "hora_utc": "2025-08-13 19:06",
@@ -35,7 +43,7 @@
     "id": 27291,
     "fecha": "13 de Aug del 2025 a las 02:05 PM",
     "hora_utc": "2025-08-13 18:05",
-    "mensaje": "⚠️Serán afectados por deficit de capacidad de generación los siguientes circuitos:\n🔹Bloque 8:\nMunicipio Sagua:\n👉Ctos 43,50 y 51\n👉Cto 147 Villa Alegre \n👉Cto 44 Isabela",
+    "mensaje": "⚠️Serán afectados por deficit de capacidad de generación los siguientes circuitos:\n🔹Bloque 8:\nMunicipio Sagua:\n👉Ctos 43,50 y 51\n👉Cto 147 Villa Alegre",
     "timestamp": 1755108334,
     "timestamp_local": 1755108334
   },
@@ -142,13 +150,5 @@
     "mensaje": "💡Restablecida línea 1785, perteneciente al municipio de Santa Clara .",
     "timestamp": 1755100320,
     "timestamp_local": 1755100320
-  },
-  {
-    "id": 27276,
-    "fecha": "13 de Aug del 2025 a las 11:49 AM",
-    "hora_utc": "2025-08-13 15:49",
-    "mensaje": "⚠️Línea 1785 afectada por manipulación:\n🔹Municipio Santa Clara:\n👉Cto 6 (Vigía)\n👉Cto 34(Sabana Rebacadero)\n👉Ctos 32 y 33 (RF-33Kv)\n👉Cto 39 (Sandino)",
-    "timestamp": 1755100156,
-    "timestamp_local": 1755100156
   }
 ]
