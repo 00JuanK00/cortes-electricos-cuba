@@ -1,5 +1,21 @@
 [
   {
+    "id": 24504,
+    "fecha": "13 de Aug del 2025 a las 03:06 PM",
+    "hora_utc": "2025-08-13 19:06",
+    "mensaje": "En estos momentos la afectación en nuestra provincia es de 87 MW por déficit de capacidad de generación.",
+    "timestamp": 1755112001,
+    "timestamp_local": 1755112001
+  },
+  {
+    "id": 24503,
+    "fecha": "13 de Aug del 2025 a las 02:55 PM",
+    "hora_utc": "2025-08-13 18:55",
+    "mensaje": "‼️En estos momentos la afectación en nuestra provincia es de 85 MW por déficit de capacidad de generación.",
+    "timestamp": 1755111325,
+    "timestamp_local": 1755111325
+  },
+  {
     "id": 24502,
     "fecha": "13 de Aug del 2025 a las 02:14 PM",
     "hora_utc": "2025-08-13 18:14",
@@ -142,21 +158,5 @@
     "mensaje": "💡Se les restablecerá el servicio a dichos circuitos en las **próximas horas** en dependencia del comportamiento de la demanda:\n\n**-Circuito 4405 que da servicio a Caserío de Niña Bonita, Fabrica de Mosaico, Finca La Victoria, Rebombeo de la Bellotex, Finca el Bolo, Somatón, Almacenes del CIMEX, Las Marías, Bombeo de Guanábana, Caserío La conga. Poblado de Carbonera.\n-Circuito MJ143 que da servicio a Rápido de Versalles , Panadería , Zona Baja de Versalles , Desde Isabel Primera hasta calle 3ra y desde Narciso Lopez hasta calle Unión **\n\n**__El restablecimiento del servicio eléctrico dependerá del comportamiento de la demanda y la disponibilidad del sistema eléctrico. Una vez se pueda rotar se irán restableciendo de manera paulatina los circuitos que más tiempo de afectación presenten.__**",
     "timestamp": 1755092864,
     "timestamp_local": 1755092864
-  },
-  {
-    "id": 24484,
-    "fecha": "13 de Aug del 2025 a las 09:16 AM",
-    "hora_utc": "2025-08-13 13:16",
-    "mensaje": "📣Actualmente tenemos 95 MW afectados por déficit de capacidad de generación en la provincia.",
-    "timestamp": 1755090979,
-    "timestamp_local": 1755090979
-  },
-  {
-    "id": 24483,
-    "fecha": "13 de Aug del 2025 a las 08:51 AM",
-    "hora_utc": "2025-08-13 12:51",
-    "mensaje": "‼️Resumen de afectaciones por déficit de capacidad de generación en la provincia del 13/08/2025:\n En el día de ayer se afectó el servicio eléctrico por déficit de capacidad de generación de forma ininterrumpida durante todo el día y no fue posible cerrar la carga en la madrugada de hoy, con una afectación máxima de 156 MW en el horario pico. Se afectaron 130 circuitos, con un tiempo promedio de 12:12 horas y un tiempo máximo de 17:57 horas.\n\n➡️Cierre de la Información 12:00am",
-    "timestamp": 1755089461,
-    "timestamp_local": 1755089461
   }
 ]
