@@ -1,5 +1,29 @@
 [
   {
+    "id": 32420,
+    "fecha": "12 de Aug del 2025 a las 10:20 PM",
+    "hora_utc": "2025-08-13 02:20",
+    "mensaje": "🚨Vía Libre en el circuito 1 de los Pilotos en San Antonio para reparar un puente partido",
+    "timestamp": 1755051645,
+    "timestamp_local": 1755051645
+  },
+  {
+    "id": 32419,
+    "fecha": "12 de Aug del 2025 a las 10:15 PM",
+    "hora_utc": "2025-08-13 02:15",
+    "mensaje": "🚨‼️ Afectada la Subestación de Cayajabos en Artemisa por Drop Out partido de 33Kv \n\n‼️Se trabaja para restablecer lo más pronto posible",
+    "timestamp": 1755051311,
+    "timestamp_local": 1755051311
+  },
+  {
+    "id": 32418,
+    "fecha": "12 de Aug del 2025 a las 09:23 PM",
+    "hora_utc": "2025-08-13 01:23",
+    "mensaje": "🚨 Afectados por deficit los siguientes circuitos\n\n➡️1258 , 1262 y 1270 de Artemisa\n\n‼️ Tenemos una afectación de 160 MW",
+    "timestamp": 1755048200,
+    "timestamp_local": 1755048200
+  },
+  {
     "id": 32417,
     "fecha": "12 de Aug del 2025 a las 08:23 PM",
     "hora_utc": "2025-08-13 00:23",
@@ -126,29 +150,5 @@
     "mensaje": "⚠️ Pronostico para el horario pico (12/08/2025):\n\nDisponibilidad: 2155 MW\nDemanda maxima: 3450 MW\nDéficit: 1295 MW\nAfectacion: 1365 MW\n\nMas detalles sobre el estado del SEN en 👉 https://www.unionelectrica.cu/nota-informativa/",
     "timestamp": 1755010175,
     "timestamp_local": 1755010175
-  },
-  {
-    "id": 32400,
-    "fecha": "12 de Aug del 2025 a las 09:40 AM",
-    "hora_utc": "2025-08-12 13:40",
-    "mensaje": "🚨‼️Vía libre en el circuito de Bauta Vieja para darle mantenimiento a la Subestación",
-    "timestamp": 1755006008,
-    "timestamp_local": 1755006008
-  },
-  {
-    "id": 32399,
-    "fecha": "12 de Aug del 2025 a las 07:19 AM",
-    "hora_utc": "2025-08-12 11:19",
-    "mensaje": "🚨 Afectado por deficit el circuito 1940 de San Antonio\n\n‼️ Tenemos una afectación de 100 MW",
-    "timestamp": 1754997570,
-    "timestamp_local": 1754997570
-  },
-  {
-    "id": 32398,
-    "fecha": "12 de Aug del 2025 a las 06:55 AM",
-    "hora_utc": "2025-08-12 10:55",
-    "mensaje": "🚨Se mantienen afectados por dèficit los siguientes circuitos\n\n➡️Circuitos S-20 de San Cristobal                                                            ➡️Circuito 4 camino de San Cristobal                                                         ➡️Circuitos Martí de San Cristobal                                                 \n                                                                                 \n\n‼️ Tenemos una afectación de 90MW",
-    "timestamp": 1754996104,
-    "timestamp_local": 1754996104
   }
 ]
