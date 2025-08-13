@@ -1,9 +1,25 @@
 [
   {
+    "id": 32428,
+    "fecha": "13 de Aug del 2025 a las 08:27 AM",
+    "hora_utc": "2025-08-13 12:27",
+    "mensaje": "❌En estos momentos tenemos 82 MW ❌",
+    "timestamp": 1755088055,
+    "timestamp_local": 1755088055
+  },
+  {
+    "id": 32427,
+    "fecha": "13 de Aug del 2025 a las 08:26 AM",
+    "hora_utc": "2025-08-13 12:26",
+    "mensaje": "⚠️ Pronostico para el horario pico (13/08/2025):\n\nDisponibilidad: 2195 MW\nDemanda maxima: 3600 MW\nDéficit: 1405 MW\nAfectacion: 1475 MW\n\nMas detalles sobre el estado del SEN en 👉 https://www.unionelectrica.cu/nota-informativa/",
+    "timestamp": 1755088011,
+    "timestamp_local": 1755088011
+  },
+  {
     "id": 32425,
     "fecha": "13 de Aug del 2025 a las 06:59 AM",
     "hora_utc": "2025-08-13 10:59",
-    "mensaje": "🚨 Afectados por deficit los circuitos\n\n➡️1258 y 1262 de Artemisa\n➡️5040 de Caimito\n\n‼️ Tenemos una afectación de 100 MW",
+    "mensaje": "🚨 Afectados por deficit los circuitos\n\n➡️5040 de Caimito\n\n‼️ Tenemos una afectación de 100 MW",
     "timestamp": 1755082743,
     "timestamp_local": 1755082743
   },
@@ -11,7 +27,7 @@
     "id": 32424,
     "fecha": "13 de Aug del 2025 a las 06:17 AM",
     "hora_utc": "2025-08-13 10:17",
-    "mensaje": "🚨 Afectado por deficit el circuito 341 de San Cristóbal\n\n‼️ Tenemos una afectación de 90 MW",
+    "mensaje": "‼️ Tenemos una afectación de 90 MW",
     "timestamp": 1755080252,
     "timestamp_local": 1755080252
   },
@@ -134,29 +150,5 @@
     "mensaje": "🚨Afectado por deficit el circuito 1580 de Alquizar\n\n‼️ Tenemos una afectación de 90 MW",
     "timestamp": 1755021208,
     "timestamp_local": 1755021208
-  },
-  {
-    "id": 32408,
-    "fecha": "12 de Aug del 2025 a las 01:24 PM",
-    "hora_utc": "2025-08-12 17:24",
-    "mensaje": "🚨‼️Vía libre en el circuito 2 de Aguacate en Caimito para normalizar puentes primarios",
-    "timestamp": 1755019457,
-    "timestamp_local": 1755019457
-  },
-  {
-    "id": 32407,
-    "fecha": "12 de Aug del 2025 a las 12:09 PM",
-    "hora_utc": "2025-08-12 16:09",
-    "mensaje": "🚨 Afectado por deficit el circuito 3205 de Cabañas y Quiebra Hacha\n\n‼️Nos mantenemos con una afectación de 105 MW",
-    "timestamp": 1755014969,
-    "timestamp_local": 1755014969
-  },
-  {
-    "id": 32406,
-    "fecha": "12 de Aug del 2025 a las 11:54 AM",
-    "hora_utc": "2025-08-12 15:54",
-    "mensaje": "🚨Afectado por deficit el circuito 1258 de Artemisa\n\n‼️Nos mantenemos con una afectación de 105 MW",
-    "timestamp": 1755014043,
-    "timestamp_local": 1755014043
   }
 ]
