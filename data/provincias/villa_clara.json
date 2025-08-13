@@ -1,5 +1,29 @@
 [
   {
+    "id": 27278,
+    "fecha": "13 de Aug del 2025 a las 11:56 AM",
+    "hora_utc": "2025-08-13 15:56",
+    "mensaje": "⚠️ Afectados por manipulación:\n🔹Municipio Santa Clara:\n👉Cto 162 Santa Clara Industrial \n👉Cto 132 Santa Clara Industrial",
+    "timestamp": 1755100582,
+    "timestamp_local": 1755100582
+  },
+  {
+    "id": 27277,
+    "fecha": "13 de Aug del 2025 a las 11:52 AM",
+    "hora_utc": "2025-08-13 15:52",
+    "mensaje": "💡Restablecida línea 1785, perteneciente al municipio de Santa Clara .",
+    "timestamp": 1755100320,
+    "timestamp_local": 1755100320
+  },
+  {
+    "id": 27276,
+    "fecha": "13 de Aug del 2025 a las 11:49 AM",
+    "hora_utc": "2025-08-13 15:49",
+    "mensaje": "⚠️Línea 1785 afectada por manipulación:\n🔹Municipio Santa Clara:\n👉Cto 6 (Vigía)\n👉Cto 34(Sabana Rebacadero)\n👉Ctos 32 y 33 (RF-33Kv)\n👉Cto 39 (Sandino)",
+    "timestamp": 1755100156,
+    "timestamp_local": 1755100156
+  },
+  {
     "id": 27275,
     "fecha": "13 de Aug del 2025 a las 11:35 AM",
     "hora_utc": "2025-08-13 15:35",
@@ -126,29 +150,5 @@
     "mensaje": "Resumen de afectaciones por déficit de capacidad de generación el 12/08/2025:                    \n \nEn el día de ayer se afecta el servicio por déficit de generación de forma ininterrumpida durante todo el día, con una afectación máxima de 146 MW en el horario pico.\n \nActualmente tenemos 92 MW afectados por déficit de generación.  \n \nTiempo promedio de afectación 20:50 horas\n \nExisten en este instante 106 interrupciones al servicio eléctrico por atender. Siendo Santa Clara con 38, Manicaragua 22, Remedios 12, Corralillo 8 y Placetas 8 los municipios de mayor Incidencia.",
     "timestamp": 1755086583,
     "timestamp_local": 1755086583
-  },
-  {
-    "id": 27258,
-    "fecha": "13 de Aug del 2025 a las 07:48 AM",
-    "hora_utc": "2025-08-13 11:48",
-    "mensaje": "💡Será restablecido el servicio eléctrico en los siguientes circuitos:\n🔹Bloque 1 \nMunicipio Manicaragua:\n👉Ctos 109 y 150\n👉Ctos 108 y 110 La Piedra\n👉Cto 111 Mataguá",
-    "timestamp": 1755085688,
-    "timestamp_local": 1755085688
-  },
-  {
-    "id": 27257,
-    "fecha": "13 de Aug del 2025 a las 07:12 AM",
-    "hora_utc": "2025-08-13 11:12",
-    "mensaje": "⚠️Serán afectados por déficit de capacidad de generación los siguientes circuitos:\n🔹Bloque 11\nMunicipio Remedios:\nCtos 67 y 152, 68 y 118 \nCtos 69 y 70 Zuluetas\nCto 143 Batey Heriberto Duquesne\nCto 71 Buena Vista",
-    "timestamp": 1755083534,
-    "timestamp_local": 1755083534
-  },
-  {
-    "id": 27256,
-    "fecha": "13 de Aug del 2025 a las 07:07 AM",
-    "hora_utc": "2025-08-13 11:07",
-    "mensaje": "Afectados 92 MW en la provincia, demanda máxima a apagar en estos momentos.",
-    "timestamp": 1755083228,
-    "timestamp_local": 1755083228
   }
 ]
