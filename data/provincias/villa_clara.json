@@ -1,5 +1,37 @@
 [
   {
+    "id": 27302,
+    "fecha": "13 de Aug del 2025 a las 04:41 PM",
+    "hora_utc": "2025-08-13 20:41",
+    "mensaje": "Afectados 95 MW en la provincia, demanda máxima a apagar en estos momentos.",
+    "timestamp": 1755117699,
+    "timestamp_local": 1755117699
+  },
+  {
+    "id": 27301,
+    "fecha": "13 de Aug del 2025 a las 04:34 PM",
+    "hora_utc": "2025-08-13 20:34",
+    "mensaje": "⚠️ Afectados por deficit de capacidad de generación los siguientes circuitos:\n🔹Bloque 7 :\nMunicipio Camajuaní:\n👉Ctos 73 y 156 \n👉Cto 74 José María Pérez\n👉Ctos 72 y 129",
+    "timestamp": 1755117243,
+    "timestamp_local": 1755117243
+  },
+  {
+    "id": 27300,
+    "fecha": "13 de Aug del 2025 a las 04:08 PM",
+    "hora_utc": "2025-08-13 20:08",
+    "mensaje": "⚠️ Afectados por deficit de capacidad de generación los siguientes circuitos:\n🔹Bloque 9:\nMunicipio de Placetas :\n👉Cto 107 Baez\n👉Cto 105 Nazareno",
+    "timestamp": 1755115682,
+    "timestamp_local": 1755115682
+  },
+  {
+    "id": 27299,
+    "fecha": "13 de Aug del 2025 a las 04:03 PM",
+    "hora_utc": "2025-08-13 20:03",
+    "mensaje": "Actualización del servicio eléctrico en la provincia🔸\n✍️Se mantienen afectados en la provincia 107 circuitos.\n✍️En el momento de hacer esta nota la provincia tiene 84 MW de afectación por déficit de capacidad de generación, demanda máxima posible a apagar.\n✍️Cuenta con 124 afectaciones por averías secundarias y de servicio.",
+    "timestamp": 1755115400,
+    "timestamp_local": 1755115400
+  },
+  {
     "id": 27297,
     "fecha": "13 de Aug del 2025 a las 03:40 PM",
     "hora_utc": "2025-08-13 19:40",
@@ -83,7 +115,7 @@
     "id": 27285,
     "fecha": "13 de Aug del 2025 a las 01:26 PM",
     "hora_utc": "2025-08-13 17:26",
-    "mensaje": "Afectados 70 MW en la provincia, demanda máxima a apagar en estos momentos.",
+    "mensaje": "Afectados 76 MW en la provincia, demanda máxima a apagar en estos momentos.",
     "timestamp": 1755105994,
     "timestamp_local": 1755105994
   },
@@ -110,37 +142,5 @@
     "mensaje": "🛠 Disparo de los circuitos 148 y 149 San Juan pertenecientes al municipio de Ranchuelo , se estudian las causas.",
     "timestamp": 1755102320,
     "timestamp_local": 1755102320
-  },
-  {
-    "id": 27281,
-    "fecha": "13 de Aug del 2025 a las 12:09 PM",
-    "hora_utc": "2025-08-13 16:09",
-    "mensaje": "Afectados 87 MW en la provincia, demanda máxima a apagar en estos momentos.",
-    "timestamp": 1755101341,
-    "timestamp_local": 1755101341
-  },
-  {
-    "id": 27280,
-    "fecha": "13 de Aug del 2025 a las 12:03 PM",
-    "hora_utc": "2025-08-13 16:03",
-    "mensaje": "💡Restablecidos Ctos 132 y 162 de Santa Clara Industrial , pertenecientes al municipio de Santa Clara .",
-    "timestamp": 1755101016,
-    "timestamp_local": 1755101016
-  },
-  {
-    "id": 27279,
-    "fecha": "13 de Aug del 2025 a las 12:01 PM",
-    "hora_utc": "2025-08-13 16:01",
-    "mensaje": "🕛Actualización del servicio eléctrico en las últimas 6 horas.\n✍️El déficit de capacidad de generación osciló entre los 86 MW y los 99 MW.\n✍️Se mantienen afectados 95 circuitos en la provincia. \n ✍️Cuenta con 130 afectaciones por averías secundarias y de servicio:\n🔸Corralillo (8)\n🔸Camajuaní (3)\n🔸Encrucijada (7)\n🔸Manicaragua (23)\n🔸Placetas (3)\n🔸Ranchuelo (8)\n🔸Remedios (11) \n🔸Sagua (8) \n🔸Santa Clara (53)\n🔸Santo Domingo (6)\n🛠️Pendientes a solucionar por el área técnica 16.\n⚡Avería⚡\n👉Ctos 110 y 111 pertenecientes al Municipio de Manicaragua por primarios partidos en la zona  .\n👉Línea 1955:  \nMunicipio Encrucijada:\nCto 126 Batey Emilio Córdova\nCto 125 Cavarrocas\nCto 124 El Santo",
-    "timestamp": 1755100916,
-    "timestamp_local": 1755100916
-  },
-  {
-    "id": 27278,
-    "fecha": "13 de Aug del 2025 a las 11:56 AM",
-    "hora_utc": "2025-08-13 15:56",
-    "mensaje": "⚠️ Afectados por manipulación:\n🔹Municipio Santa Clara:\n👉Cto 162 Santa Clara Industrial \n👉Cto 132 Santa Clara Industrial",
-    "timestamp": 1755100582,
-    "timestamp_local": 1755100582
   }
 ]
