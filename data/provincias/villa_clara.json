@@ -1,5 +1,29 @@
 [
   {
+    "id": 27363,
+    "fecha": "14 de Aug del 2025 a las 09:18 AM",
+    "hora_utc": "2025-08-14 13:18",
+    "mensaje": "💡Resumen de afectaciones por déficit de capacidad de generación el 13/08/2025:                    \n \nEn el día de ayer se afecta el servicio por déficit de generación de forma ininterrumpida durante todo el día, con una afectación máxima de 169 MW en el horario pico.\n \nActualmente tenemos 80 MW afectados por déficit de generación.  \n \nTiempo promedio de afectación 15:53 horas\n \nExisten en este instante 87 interrupciones al servicio eléctrico por atender. Siendo Santa Clara con 52 y Remedios 8 los municipios de mayor Incidencia.",
+    "timestamp": 1755177481,
+    "timestamp_local": 1755177481
+  },
+  {
+    "id": 27362,
+    "fecha": "14 de Aug del 2025 a las 08:29 AM",
+    "hora_utc": "2025-08-14 12:29",
+    "mensaje": "💡Será restablecido el servicio eléctrico en los circuitos siguientes:\n🔹Bloque 8\n👉Municipio Caibarién:\nCtos 61, 62 \n👉Municipio Caibarién\nCtos 63 y 64\nCtos 182 y 183 Van Troi",
+    "timestamp": 1755174574,
+    "timestamp_local": 1755174574
+  },
+  {
+    "id": 27361,
+    "fecha": "14 de Aug del 2025 a las 08:28 AM",
+    "hora_utc": "2025-08-14 12:28",
+    "mensaje": "💡Restablecido el servicio eléctrico en los siguientes circuitos:\n🔹Bloque 1\n👉Municipio Manicaragua:\nCtos 109 y 150\nCtos 108 y 110 La Piedra\nCto 111 Mataguá",
+    "timestamp": 1755174481,
+    "timestamp_local": 1755174481
+  },
+  {
     "id": 27360,
     "fecha": "14 de Aug del 2025 a las 08:00 AM",
     "hora_utc": "2025-08-14 12:00",
@@ -118,29 +142,5 @@
     "mensaje": "⚡Afectado Cto 2 Consejo Centro   perteneciente al municipio de Santa Clara  por manipulación.",
     "timestamp": 1755152945,
     "timestamp_local": 1755152945
-  },
-  {
-    "id": 27343,
-    "fecha": "14 de Aug del 2025 a las 02:01 AM",
-    "hora_utc": "2025-08-14 06:01",
-    "mensaje": "Actualización del servicio eléctrico en la provincia🔸\n✍️Se mantienen afectados en la provincia 104 circuitos.\n✍️En el momento de hacer esta nota la provincia tiene 99 MW de afectación por déficit de capacidad de generación, demanda máxima posible a apagar.\n✍️Cuenta con 68 afectaciones por averías secundarias y de servicio.",
-    "timestamp": 1755151283,
-    "timestamp_local": 1755151283
-  },
-  {
-    "id": 27342,
-    "fecha": "14 de Aug del 2025 a las 01:45 AM",
-    "hora_utc": "2025-08-14 05:45",
-    "mensaje": "⚠️Será afectado el servicio eléctrico en los siguientes circuitos:\n🔹Bloque 8:\nMunicipio Caibarién:\n👉Ctos 61, 62 \n👉Ctos 63 y 64\n👉Ctos 182 y 183 Van Troi",
-    "timestamp": 1755150335,
-    "timestamp_local": 1755150335
-  },
-  {
-    "id": 27341,
-    "fecha": "14 de Aug del 2025 a las 01:43 AM",
-    "hora_utc": "2025-08-14 05:43",
-    "mensaje": "💡Restablecido  Cto 2 Consejo de Santa Clara  perteneciente al municipio de Santa Clara.",
-    "timestamp": 1755150225,
-    "timestamp_local": 1755150225
   }
 ]
