@@ -1,5 +1,29 @@
 [
   {
+    "id": 32461,
+    "fecha": "14 de Aug del 2025 a las 12:49 AM",
+    "hora_utc": "2025-08-14 04:49",
+    "mensaje": "❌Tenemos una afectación de 143MW❌",
+    "timestamp": 1755146994,
+    "timestamp_local": 1755146994
+  },
+  {
+    "id": 32460,
+    "fecha": "14 de Aug del 2025 a las 12:38 AM",
+    "hora_utc": "2025-08-14 04:38",
+    "mensaje": "🚨Avería en la subestación de Artemisa que afecta del circuito 3185 Gran Panel, Pilar y Beliert🚨",
+    "timestamp": 1755146293,
+    "timestamp_local": 1755146293
+  },
+  {
+    "id": 32459,
+    "fecha": "14 de Aug del 2025 a las 12:35 AM",
+    "hora_utc": "2025-08-14 04:35",
+    "mensaje": "🚨 Afectado por deficit lo circuito\n\n➡️Circuito 1580 de Alquizar\n‼️ Tenemos una afectación de 153 MW",
+    "timestamp": 1755146139,
+    "timestamp_local": 1755146139
+  },
+  {
     "id": 32458,
     "fecha": "13 de Aug del 2025 a las 11:41 PM",
     "hora_utc": "2025-08-14 03:41",
@@ -75,7 +99,7 @@
     "id": 32449,
     "fecha": "13 de Aug del 2025 a las 08:03 PM",
     "hora_utc": "2025-08-14 00:03",
-    "mensaje": "🚨 Afectado por deficit el circuito\n\n➡️Circuito 1570 de  Artemisa Candelaria \n\n‼️ Tenemos una afectación de 154 MW",
+    "mensaje": "‼️ Tenemos una afectación de 154 MW",
     "timestamp": 1755129784,
     "timestamp_local": 1755129784
   },
@@ -99,7 +123,7 @@
     "id": 32446,
     "fecha": "13 de Aug del 2025 a las 06:43 PM",
     "hora_utc": "2025-08-13 22:43",
-    "mensaje": "🚨 Afectado por deficit el circuito\n\n➡️Circuito 1 de Pedro Díaz en Güira de Melena \n\n‼️ Tenemos una afectación de 147 MW",
+    "mensaje": "‼️ Tenemos una afectación de 147 MW",
     "timestamp": 1755125037,
     "timestamp_local": 1755125037
   },
@@ -107,7 +131,7 @@
     "id": 32445,
     "fecha": "13 de Aug del 2025 a las 06:42 PM",
     "hora_utc": "2025-08-13 22:42",
-    "mensaje": "⛔ Afectados por deficit los circuitos:\n\n➡️ Circuito 236 de Bahía Honda \n\n\n❌En estos momentos  147  MW de afectación",
+    "mensaje": "❌En estos momentos  147  MW de afectación",
     "timestamp": 1755124930,
     "timestamp_local": 1755124930
   },
@@ -134,29 +158,5 @@
     "mensaje": "❌Tenemos una afectación de 100 MW❌",
     "timestamp": 1755119098,
     "timestamp_local": 1755119098
-  },
-  {
-    "id": 32441,
-    "fecha": "13 de Aug del 2025 a las 04:59 PM",
-    "hora_utc": "2025-08-13 20:59",
-    "mensaje": "✅ Restablecido el Circuito 236 de Bahia Honda  que se encontraba Disparado ✅",
-    "timestamp": 1755118766,
-    "timestamp_local": 1755118766
-  },
-  {
-    "id": 32440,
-    "fecha": "13 de Aug del 2025 a las 04:46 PM",
-    "hora_utc": "2025-08-13 20:46",
-    "mensaje": "✅ Restablecido el Circuito Bauta Nueva que se encontraba Disparado ✅",
-    "timestamp": 1755117975,
-    "timestamp_local": 1755117975
-  },
-  {
-    "id": 32439,
-    "fecha": "13 de Aug del 2025 a las 04:44 PM",
-    "hora_utc": "2025-08-13 20:44",
-    "mensaje": "❌Tenemos una afectación de 90 MW❌",
-    "timestamp": 1755117899,
-    "timestamp_local": 1755117899
   }
 ]
