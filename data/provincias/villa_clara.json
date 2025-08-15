@@ -1,5 +1,45 @@
 [
   {
+    "id": 27389,
+    "fecha": "14 de Aug del 2025 a las 08:31 PM",
+    "hora_utc": "2025-08-15 00:31",
+    "mensaje": "⚠️Afectado por una vía libre el circuito 27 Maleza, para realizar un cambio de transformador.",
+    "timestamp": 1755217917,
+    "timestamp_local": 1755217917
+  },
+  {
+    "id": 27388,
+    "fecha": "14 de Aug del 2025 a las 08:30 PM",
+    "hora_utc": "2025-08-15 00:30",
+    "mensaje": "⚠️Serán afectados por déficit de generación los siguientes circuitos:\n🔹Bloque 11\n👉Municipio Quemado:\nCtos 164, 52 y 53 Quemado.\nCto 196 Batey Panchito Gómez Toro.\n👉Municipio Corralillo:\nCto 55 Rancho Veloz",
+    "timestamp": 1755217846,
+    "timestamp_local": 1755217846
+  },
+  {
+    "id": 27387,
+    "fecha": "14 de Aug del 2025 a las 08:20 PM",
+    "hora_utc": "2025-08-15 00:20",
+    "mensaje": "💡Será restablecido el servicio eléctrico en los siguientes circuitos:\n🔹Bloque 8\n👉Municipio Caibarién:\nCtos 61, 62 \n👉Municipio Caibarién\nCtos 63 y 64\nCtos 182 y 183 Van Troi",
+    "timestamp": 1755217238,
+    "timestamp_local": 1755217238
+  },
+  {
+    "id": 27386,
+    "fecha": "14 de Aug del 2025 a las 08:01 PM",
+    "hora_utc": "2025-08-15 00:01",
+    "mensaje": "⚠️Afectados por déficit de generación los siguientes circuitos:\n🔹Bloque 11\n👉Municipio Remedios:\nCtos 67 y 152, 68 y 118 \nCtos 69 y 70 Zuluetas\nCto 143 Batey Heriberto Duquesne\nCto 71 Buena Vista",
+    "timestamp": 1755216109,
+    "timestamp_local": 1755216109
+  },
+  {
+    "id": 27385,
+    "fecha": "14 de Aug del 2025 a las 08:00 PM",
+    "hora_utc": "2025-08-15 00:00",
+    "mensaje": "Actualización del servicio eléctrico en la provincia🔸\n✍️Se mantienen afectados en la provincia 124  circuitos.\n✍️En el momento de hacer esta nota la provincia tiene 123  MW de afectación por déficit de capacidad de generación, demanda máxima posible a apagar.\n✍️Cuenta con 95  afectaciones por averías secundarias y de servicio.",
+    "timestamp": 1755216012,
+    "timestamp_local": 1755216012
+  },
+  {
     "id": 27383,
     "fecha": "14 de Aug del 2025 a las 06:26 PM",
     "hora_utc": "2025-08-14 22:26",
@@ -102,37 +142,5 @@
     "mensaje": "Actualización del servicio eléctrico en la provincia🔸\n✍️Se mantienen afectados en la provincia 70  circuitos.\n✍️En el momento de hacer esta nota la provincia tiene 65  MW de afectación por déficit de capacidad de generación, demanda máxima posible a apagar.\n✍️Cuenta con 113  afectaciones por averías secundarias y de servicio.",
     "timestamp": 1755195268,
     "timestamp_local": 1755195268
-  },
-  {
-    "id": 27370,
-    "fecha": "14 de Aug del 2025 a las 01:56 PM",
-    "hora_utc": "2025-08-14 17:56",
-    "mensaje": "⚠️Afectados por déficit de generación los circuitos siguientes:\n🔹Bloque 5\n👉Municipio Santo Domingo:\nCto 134\nCtos 87 y 96 Bermejal\nCto 187 Batey Carlos Baliño\nCto 82 Ulacia\nCto 84 Rodrigo",
-    "timestamp": 1755194173,
-    "timestamp_local": 1755194173
-  },
-  {
-    "id": 27368,
-    "fecha": "14 de Aug del 2025 a las 12:00 PM",
-    "hora_utc": "2025-08-14 16:00",
-    "mensaje": "🕛Actualización del servicio eléctrico en las últimas 6 horas.\n\n👉El déficit de capacidad de generación osciló entre los 74 MW y los 68 MW.\n👉En el momento de esta nota se mantienen afectados 63 circuitos.\n Cuenta con * afectaciones por averías secundarias y de servicio:\n Camajuaní (5)\n Cifuentes (4)\n Corralillo (6)\n Encrucijada (4)\n Manicaragua (7)\n Placetas (4)\n Quemado (1)\n Ranchuelo (6)\n Remedios (8) \n Santa Clara (53)\n Santo Domingo (3)\n🛠️Se encuentran 7 averías en vías de solución.\n🛠️Pendientes a solucionar por el área técnica 16.\n⚡La provincia no presenta averías primarias.",
-    "timestamp": 1755187241,
-    "timestamp_local": 1755187241
-  },
-  {
-    "id": 27366,
-    "fecha": "14 de Aug del 2025 a las 10:27 AM",
-    "hora_utc": "2025-08-14 14:27",
-    "mensaje": "💡Restablecido el sistema eléctrico en los siguientes circuitos:\n🔹Bloque 5\n👉Municipio Santo Domingo:\nCto 134\nCtos 87 y 96 Bermejal\nCto 187 Batey Carlos Baliño\nCto 82 Ulacia\nCto 84 Rodrigo",
-    "timestamp": 1755181666,
-    "timestamp_local": 1755181666
-  },
-  {
-    "id": 27365,
-    "fecha": "14 de Aug del 2025 a las 10:09 AM",
-    "hora_utc": "2025-08-14 14:09",
-    "mensaje": "Actualización del servicio eléctrico en la provincia🔸\n✍️Se mantienen afectados en la provincia 63  circuitos.\n✍️En el momento de hacer esta nota la provincia tiene 62  MW de afectación por déficit de capacidad de generación, demanda máxima posible a apagar.\n✍️Cuenta con 93  afectaciones por averías secundarias y de servicio.",
-    "timestamp": 1755180593,
-    "timestamp_local": 1755180593
   }
 ]
