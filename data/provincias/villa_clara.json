@@ -1,5 +1,37 @@
 [
   {
+    "id": 27446,
+    "fecha": "15 de Aug del 2025 a las 04:10 PM",
+    "hora_utc": "2025-08-15 20:10",
+    "mensaje": "⚠️Afectados por déficit de capacidad de generación los siguientes  circuitos:\n🔹Bloque 10\n👉Ctos 100 y 151 Placetas",
+    "timestamp": 1755288610,
+    "timestamp_local": 1755288610
+  },
+  {
+    "id": 27445,
+    "fecha": "15 de Aug del 2025 a las 04:05 PM",
+    "hora_utc": "2025-08-15 20:05",
+    "mensaje": "⚠️Afectados por déficit de capacidad de generación los  circuitos 61 y 62 del municipio Caibarién.",
+    "timestamp": 1755288335,
+    "timestamp_local": 1755288335
+  },
+  {
+    "id": 27444,
+    "fecha": "15 de Aug del 2025 a las 04:02 PM",
+    "hora_utc": "2025-08-15 20:02",
+    "mensaje": "Restablecidos los circuitos 193 y 30 (SC Industrial).",
+    "timestamp": 1755288158,
+    "timestamp_local": 1755288158
+  },
+  {
+    "id": 27443,
+    "fecha": "15 de Aug del 2025 a las 04:01 PM",
+    "hora_utc": "2025-08-15 20:01",
+    "mensaje": "⚠️Afectados por déficit de capacidad de generación los siguientes  circuitos:\n🔹Bloque 1\nMunicipio Manicaragua:\n👉Ctos 109 y 150\n👉Ctos 108 y 110 La Piedra\n👉Cto 111 Mataguá",
+    "timestamp": 1755288110,
+    "timestamp_local": 1755288110
+  },
+  {
     "id": 27442,
     "fecha": "15 de Aug del 2025 a las 03:55 PM",
     "hora_utc": "2025-08-15 19:55",
@@ -59,7 +91,7 @@
     "id": 27435,
     "fecha": "15 de Aug del 2025 a las 02:06 PM",
     "hora_utc": "2025-08-15 18:06",
-    "mensaje": "⚠️Afectados por déficit de generación los siguientes  circuitos:\n🔹Bloque 2\nMunicipio Camajuaní:\n👉Cto 75 La Quinta\n👉Cto 157 Luis Arcos Bergnes\n👉Ctos 76 y 90 Vega Alta",
+    "mensaje": "⚠️Afectados por déficit de capacidad de generación los siguientes  circuitos:\n🔹Bloque 2\nMunicipio Camajuaní:\n👉Cto 75 La Quinta\n👉Cto 157 Luis Arcos Bergnes\n👉Ctos 76 y 90 Vega Alta",
     "timestamp": 1755281166,
     "timestamp_local": 1755281166
   },
@@ -126,37 +158,5 @@
     "mensaje": "✍️ Las líneas 1365, 1380 y 1375 el día de hoy serán afectados por déficit de capacidad de generación de manera rotativa, no acorde a lo establecido por su programación habitual, debido a trabajos que se están realizando en las redes eléctricas en la subestación de Remedios 110 Kv.\n🔸Afecta los siguientes circuitos:\nMunicipio Remedios:\n👉Ctos 67 y 152, 68 y 118 \n👉Ctos 69 y 70 Zuluetas\n👉Cto 143 Batey Heriberto Duquesne\n👉Cto 71 Buena Vista\nMunicipio Caibarién:\n👉Ctos 61, 62, 63 y 64\n👉Ctos 182 y 183 Van Troi\n👉Cto 65 Dolores\n👉 Cto 66 Las Torres",
     "timestamp": 1755269983,
     "timestamp_local": 1755269983
-  },
-  {
-    "id": 27425,
-    "fecha": "15 de Aug del 2025 a las 10:39 AM",
-    "hora_utc": "2025-08-15 14:39",
-    "mensaje": "💡Restablecido el servicio eléctrico en los siguientes circuitos:\n🔹Bloque 1\nMunicipio Manicaragua:\n👉Ctos 109 y 150\n👉Ctos 108 y 110 La Piedra\n👉Cto 111 Mataguá",
-    "timestamp": 1755268792,
-    "timestamp_local": 1755268792
-  },
-  {
-    "id": 27424,
-    "fecha": "15 de Aug del 2025 a las 10:25 AM",
-    "hora_utc": "2025-08-15 14:25",
-    "mensaje": "Restablecido el circuito 129 del municipio Camajuaní.",
-    "timestamp": 1755267925,
-    "timestamp_local": 1755267925
-  },
-  {
-    "id": 27423,
-    "fecha": "15 de Aug del 2025 a las 10:09 AM",
-    "hora_utc": "2025-08-15 14:09",
-    "mensaje": "💡Restablecido el servicio eléctrico en los siguientes circuitos:\n🔹Bloque 6\nMunicipio Ranchuelo:\n👉Cto 92 Esperanza (Pueblo)\n👉Cto 93 Esperanza (Campo)",
-    "timestamp": 1755266987,
-    "timestamp_local": 1755266987
-  },
-  {
-    "id": 27422,
-    "fecha": "15 de Aug del 2025 a las 10:08 AM",
-    "hora_utc": "2025-08-15 14:08",
-    "mensaje": "Actualización del servicio eléctrico en la provincia🔸\n✍️Se mantienen afectados en la provincia 119  circuitos.\n✍️En el momento de hacer esta nota la provincia tiene 110  MW de afectación por déficit de capacidad de generación, demanda máxima posible a apagar.\n✍️Cuenta con 89  afectaciones por averías secundarias y de servicio.",
-    "timestamp": 1755266880,
-    "timestamp_local": 1755266880
   }
 ]
