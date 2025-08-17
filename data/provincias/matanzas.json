@@ -1,5 +1,13 @@
 [
   {
+    "id": 24692,
+    "fecha": "17 de Aug del 2025 a las 06:21 PM",
+    "hora_utc": "2025-08-17 22:21",
+    "mensaje": "❌En estos momentos el déficit de capacidad de generación  en la provincia es de 152 MW",
+    "timestamp": 1755469267,
+    "timestamp_local": 1755469267
+  },
+  {
     "id": 24691,
     "fecha": "17 de Aug del 2025 a las 05:42 PM",
     "hora_utc": "2025-08-17 21:42",
@@ -150,13 +158,5 @@
     "mensaje": "📢 Nota Informativa - Situación del SEN al 17 de agosto de 2025\n\nEn el día de ayer se afectó el servicio las 24 horas y se mantuvo afectado durante toda la madrugada de hoy. La máxima afectación por déficit de capacidad de generación en el día de ayer fue de 1794 MW a las 21:00 horas. La afectación fue superior a lo planificado debido a la salida por emergencia de la unidad 3 de la CTE Renté y la demanda superior a lo pronosticado.\n\n☀️ Producción de energía de los 25 parques solares fotovoltaicos: 2615 MWh, con 550 MW como máxima potencia entregada en el horario de la media.\n\n🔧 Estado actual:\nDisponibilidad: 1840 MW.\nDemanda: 3120 MW.\nAfectación actual: 1305 MW. \nPronóstico para el mediodía: 1400 MW afectados.\n\n🔴 Pronóstico para el horario pico:\n\nSe proyecta una disponibilidad de 2155 MW y una demanda de 3800 MW, lo que generaría un déficit de 1645 MW, para una afectación de 1715 MW.",
     "timestamp": 1755434590,
     "timestamp_local": 1755434590
-  },
-  {
-    "id": 24672,
-    "fecha": "17 de Aug del 2025 a las 08:37 AM",
-    "hora_utc": "2025-08-17 12:37",
-    "mensaje": "**Circuitos no apagables que se afectarán debido al alto déficit:\n**\n- Circuitos Z1183, MI1453, GI101, JI48 y Z130 se afectarán de 11:00 a 13:00\n\n- Circuitos Z1183, JI48, GI101, CI185 y MI1453 se afectarán de 19:00 a 01:00\n\n- Circuito Z130 se afectará de 20:00 a 23:30\n\n\n- Circuito 5223 se afectará de 20:00 a 02:00\n\nAl amanecer:\n- Circuito CI185 se afectará de 05:00 a 07:00",
-    "timestamp": 1755434244,
-    "timestamp_local": 1755434244
   }
 ]
