@@ -1,5 +1,21 @@
 [
   {
+    "id": 27532,
+    "fecha": "16 de Aug del 2025 a las 11:00 PM",
+    "hora_utc": "2025-08-17 03:00",
+    "mensaje": "Afectados 144 MW en la provincia, demanda máxima a apagar en estos momentos",
+    "timestamp": 1755399625,
+    "timestamp_local": 1755399625
+  },
+  {
+    "id": 27531,
+    "fecha": "16 de Aug del 2025 a las 10:52 PM",
+    "hora_utc": "2025-08-17 02:52",
+    "mensaje": "💡 Restablecido el servicio eléctrico en los siguientes circuitos:\n🔹Bloque 7\nMunicipio Camajuaní:\nCtos 72, 129, 73 y 156 \nCto 74 José María Pérez",
+    "timestamp": 1755399176,
+    "timestamp_local": 1755399176
+  },
+  {
     "id": 27530,
     "fecha": "16 de Aug del 2025 a las 10:22 PM",
     "hora_utc": "2025-08-17 02:22",
@@ -118,21 +134,5 @@
     "mensaje": "⚠️Serán afectados por déficit de capacidad de generación los siguientes  circuitos:\n🔹Bloque 10\nMunicipio Placetas \nCtos 100 y 151 Placetas\nCto 104 Hermanos Amejeiras\nCto 103 Batey Carbó Servía",
     "timestamp": 1755375633,
     "timestamp_local": 1755375633
-  },
-  {
-    "id": 27512,
-    "fecha": "16 de Aug del 2025 a las 04:01 PM",
-    "hora_utc": "2025-08-16 20:01",
-    "mensaje": "Actualización del servicio eléctrico en la provincia🔸\n✍️Se mantienen afectados en la provincia 130 circuitos.\n✍️En el momento de hacer esta nota la provincia tiene 121 MW de afectación por déficit de capacidad de generación, demanda máxima posible a apagar.\n✍️Cuenta con 82 afectaciones por averías secundarias y de servicio.",
-    "timestamp": 1755374502,
-    "timestamp_local": 1755374502
-  },
-  {
-    "id": 27511,
-    "fecha": "16 de Aug del 2025 a las 03:38 PM",
-    "hora_utc": "2025-08-16 19:38",
-    "mensaje": "⚠️Serán afectados por déficit de capacidad de generación los siguientes  circuitos:\n🔹Bloque 7\nMunicipio Ranchuelo: \nCtos 89, 97, 188 y 189\nCtos 148 y 149 San Juan\nCto 91 Batey Osvaldo Herrera\nCto 181 Batey Ifraín Alfonso",
-    "timestamp": 1755373118,
-    "timestamp_local": 1755373118
   }
 ]
