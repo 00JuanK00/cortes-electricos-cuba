@@ -1,5 +1,21 @@
 [
   {
+    "id": 27610,
+    "fecha": "18 de Aug del 2025 a las 08:00 AM",
+    "hora_utc": "2025-08-18 12:00",
+    "mensaje": "🔸Actualización del servicio eléctrico en la provincia🔸\n✍️Se mantienen afectados en la provincia 154 circuitos.\n✍️En el momento de hacer esta nota la provincia tiene 123 MW de afectación por déficit de capacidad de generación, demanda máxima posible a apagar.\n✍️Cuenta con 88 afectaciones por averías secundarias y de servicio",
+    "timestamp": 1755518412,
+    "timestamp_local": 1755518412
+  },
+  {
+    "id": 27609,
+    "fecha": "18 de Aug del 2025 a las 07:54 AM",
+    "hora_utc": "2025-08-18 11:54",
+    "mensaje": "⚠️Afectados por déficit de generación los siguientes circuitos:\n🔹Bloque 2\n👉Municipio Santo Domingo:\nCto 195 Batey George Washington\nCtos 83 y 165 Manacas\nCtos 85 y 86 Pajarito\nCtos 160 y 161 Cascajal\n👉Municipio Cifuentes:\nCtos 114 y 117\nCtos 116 y 155 Mata\nCto 186 Batey Unidad Proletaria\nCto 184 Sitio Grande",
+    "timestamp": 1755518095,
+    "timestamp_local": 1755518095
+  },
+  {
     "id": 27608,
     "fecha": "18 de Aug del 2025 a las 07:43 AM",
     "hora_utc": "2025-08-18 11:43",
@@ -134,21 +150,5 @@
     "mensaje": "⚠️ Afectados por déficit de capacidad de generación los siguientes  circuitos:\n🔹Bloque 8:\nMunicipio Caibarién:\n👉Ctos 61, 62 \n👉Ctos 63 y 64\n👉Ctos 182 y 183 Van Troi",
     "timestamp": 1755494111,
     "timestamp_local": 1755494111
-  },
-  {
-    "id": 27589,
-    "fecha": "18 de Aug del 2025 a las 01:13 AM",
-    "hora_utc": "2025-08-18 05:13",
-    "mensaje": "💡Sera restablecido el servicio eléctrico en los siguientes circuitos:\n🔹Bloque 9:\nMunicipio Placetas:\n👉Cto 101 y 145 Cumbre",
-    "timestamp": 1755494026,
-    "timestamp_local": 1755494026
-  },
-  {
-    "id": 27588,
-    "fecha": "18 de Aug del 2025 a las 01:06 AM",
-    "hora_utc": "2025-08-18 05:06",
-    "mensaje": "💡Restablecido el servicio eléctrico en los siguientes circuitos:\n🔹Bloque 2:\nMunicipio Cifuentes:\n👉Ctos 114 y 117\n👉Ctos 116 y 155 Mata\n👉Cto 186 Batey Unidad Proletaria\n👉Cto 184 Sitio Grande",
-    "timestamp": 1755493596,
-    "timestamp_local": 1755493596
   }
 ]
