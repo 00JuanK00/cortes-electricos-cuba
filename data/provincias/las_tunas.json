@@ -1,5 +1,21 @@
 [
   {
+    "id": 16383,
+    "fecha": "20 de Aug del 2025 a las 09:20 AM",
+    "hora_utc": "2025-08-20 13:20",
+    "mensaje": "Se mantienen en avería los siguientes circuitos:\nTK53: La morena y El Malecón\nTK1: parte de Ciencias Médicas\nTK26: parte de La Larga",
+    "timestamp": 1755696042,
+    "timestamp_local": 1755696042
+  },
+  {
+    "id": 16382,
+    "fecha": "20 de Aug del 2025 a las 09:17 AM",
+    "hora_utc": "2025-08-20 13:17",
+    "mensaje": "📢 Nota Informativa - Situación del SEN al 20 de agosto de 2025\n\nEn el día de ayer se afectó el servicio las 24 horas y se mantuvo afectado durante toda la madrugada de hoy. La máxima afectación por déficit de capacidad de generación en el día de ayer fue de 1857 MW a las 21:00 horas no coincidente con la hora de máxima demanda. \n\n☀️ Producción de energía de los 25 parques solares fotovoltaicos: 2408 MWh, con 495 MW como máxima potencia entregada en el horario de la media.\n\n🔧 Estado actual:\nDisponibilidad: 1980 MW.\nDemanda: 3340 MW.\nAfectación actual: 1374 MW. \nPronóstico para el mediodía: 1280 MW afectados.\n\n🔴 Pronóstico para el horario pico:\n\nSe proyecta una disponibilidad de 2080 MW y una demanda de 3800 MW, lo que generaría un déficit de 1720, para una afectación de 1790 MW.\n\nMás detalles en 👇\n[https://www.unionelectrica.cu/nota-informativa/](https://www.unionelectrica.cu/nota-informativa/)\n\n[#NotaInformativa](tg://search_hashtag?hashtag=NotaInformativa)[#UNE](tg://search_hashtag?hashtag=UNE)[#SEN](tg://search_hashtag?hashtag=SEN)[#UnidosXCuba](tg://search_hashtag?hashtag=UnidosXCuba)[#UniónEléctrica](tg://search_hashtag?hashtag=Uni%C3%B3nEl%C3%A9ctrica)",
+    "timestamp": 1755695843,
+    "timestamp_local": 1755695843
+  },
+  {
     "id": 16378,
     "fecha": "19 de Aug del 2025 a las 06:07 PM",
     "hora_utc": "2025-08-19 22:07",
@@ -70,21 +86,5 @@
     "mensaje": "QUE SIGNIFICA E IMPLICA LA MÁXIMA CAPACIDAD APAGABLE EN LA PROVINCIA: \nMáxima capacidad apagable se refiere al nivel máximo de demanda eléctrica que puede ser desconectada o suspendida temporalmente en la provincia, explica la complejidad del déficit de generación o contingencias en el sistema eléctrico.\nRepresenta el límite superior de la reducción de carga que la empresa puede lograr mediante cortes de energía (apagones). Cuanto mayor sea la máxima capacidad apagable, mayor será el déficit de energía.\n¿Qué implica esto?\nSe identifica cuántos circuitos pueden ser apagados para equilibrar la carga del sistema, esto imposibilita realizar rotaciones, pues a excepción de los servicios priorizados, se encuentran afectados todos los circuitos apagables del territorio. Podrán presentarse afectaciones en el servicio de electricidad durante varias horas al día y el tiempo con servicio dependerá del comportamiento del SEN. Esta medida es necesaria para evitar fallas mayores y proteger la infraestructura eléctrica.",
     "timestamp": 1755317597,
     "timestamp_local": 1755317597
-  },
-  {
-    "id": 16361,
-    "fecha": "15 de Aug del 2025 a las 08:40 PM",
-    "hora_utc": "2025-08-16 00:40",
-    "mensaje": "Estimados clientes,\nLes informamos que, debido a la actual situación energética del país, nuestra provincia se encuentra operando bajo la máxima capacidad apagable. Esto significa que todos los circuitos eléctricos que pueden ser desconectados temporalmente están siendo utilizados para mantener el equilibrio del sistema nacional.",
-    "timestamp": 1755304801,
-    "timestamp_local": 1755304801
-  },
-  {
-    "id": 16360,
-    "fecha": "15 de Aug del 2025 a las 09:11 AM",
-    "hora_utc": "2025-08-15 13:11",
-    "mensaje": "La Empresa Eléctrica Las Tunas informa que, según la nota emitida por la Unión Eléctrica para el 15 de agosto, ayer se registraron afectaciones durante las 24horas debido a déficit de capacidad de generación, situación que se extendió durante la madrugada de hoy. En nuestra provincia la máxima afectación fue de 81.1MW a las 18 horas. Actualmente están fuera de servicio por avería:\n·       La Unidad 8 de la CTE Mariel\n·       La Unidad 5 de la CTE Nuevitas\n·       La Unidad 3 de la CTE Renté \n·       La Unidad 2 de la CTE Felton\nEn mantenimiento se encuentran:\n·       La Unidad 2 de la CTE Santa Cruz\n·       La Unidad 4 de la CTE Carlos Manuel de Céspedes en Cienfuegos \n·       La Unidad 5 de la CTE Renté\nSe estima una afectación de 1100 MW en el horario del mediodía y de 1720 MW en el horario pico nocturno.\nPara hoy, las afectaciones en la provincia podrían alcanzar los 63 MW en el horario diurno, lo cual representa el 70% de los circuitos apagables. En el horario pico nocturno la máxima afectación puede alcanzar los 84.6 MW, lo cual representa el 90%. Estos valores pueden variar según la demanda nacional.",
-    "timestamp": 1755263482,
-    "timestamp_local": 1755263482
   }
 ]
