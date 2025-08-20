@@ -1,9 +1,89 @@
 [
   {
+    "id": 27746,
+    "fecha": "19 de Aug del 2025 a las 10:06 PM",
+    "hora_utc": "2025-08-20 02:06",
+    "mensaje": "🔸Actualización del servicio eléctrico en la provincia🔸\n✍️Se mantienen afectados en la provincia 176 circuitos.\n✍️En el momento de hacer esta nota la provincia tiene 178 MW de afectación por déficit de capacidad de generación, demanda máxima posible a apagar.\n✍️Cuenta con 71 afectaciones por averías secundarias y de servicio",
+    "timestamp": 1755655579,
+    "timestamp_local": 1755655579
+  },
+  {
+    "id": 27745,
+    "fecha": "19 de Aug del 2025 a las 09:47 PM",
+    "hora_utc": "2025-08-20 01:47",
+    "mensaje": "Con servicio el circuito 14 (Maleza), del municipio Santa Clara.",
+    "timestamp": 1755654476,
+    "timestamp_local": 1755654476
+  },
+  {
+    "id": 27744,
+    "fecha": "19 de Aug del 2025 a las 09:45 PM",
+    "hora_utc": "2025-08-20 01:45",
+    "mensaje": "🛠️Afectado por disparo el circuito 14 (Maleza), del municipio Santa Clara. Se estudian las causas.",
+    "timestamp": 1755654328,
+    "timestamp_local": 1755654328
+  },
+  {
+    "id": 27743,
+    "fecha": "19 de Aug del 2025 a las 09:30 PM",
+    "hora_utc": "2025-08-20 01:30",
+    "mensaje": "Con servicio el circuito 14 (Maleza), del municipio Santa Clara.",
+    "timestamp": 1755653446,
+    "timestamp_local": 1755653446
+  },
+  {
+    "id": 27742,
+    "fecha": "19 de Aug del 2025 a las 09:26 PM",
+    "hora_utc": "2025-08-20 01:26",
+    "mensaje": "Con servicio el circuito 144 (Maleza), del municipio Santa Clara.",
+    "timestamp": 1755653162,
+    "timestamp_local": 1755653162
+  },
+  {
+    "id": 27741,
+    "fecha": "19 de Aug del 2025 a las 09:18 PM",
+    "hora_utc": "2025-08-20 01:18",
+    "mensaje": "🛠️ 💡Restablecida parcialmente la línea 119:\nMunicipio Santa Clara:\n👉Ctos 15 y 27 (Maleza)",
+    "timestamp": 1755652718,
+    "timestamp_local": 1755652718
+  },
+  {
+    "id": 27740,
+    "fecha": "19 de Aug del 2025 a las 09:14 PM",
+    "hora_utc": "2025-08-20 01:14",
+    "mensaje": "💡Restablecido el servicio eléctrico en los siguientes circuitos \n🔹Bloque 1\nMunicipio Encrucijada\n👉Cto 120 Calabazar\n👉Ctos 121 y 127 Perucho",
+    "timestamp": 1755652499,
+    "timestamp_local": 1755652499
+  },
+  {
+    "id": 27739,
+    "fecha": "19 de Aug del 2025 a las 08:55 PM",
+    "hora_utc": "2025-08-20 00:55",
+    "mensaje": "🛠️💡Con servicio el circuito 30 (Santa Clara Industrial).",
+    "timestamp": 1755651312,
+    "timestamp_local": 1755651312
+  },
+  {
+    "id": 27738,
+    "fecha": "19 de Aug del 2025 a las 08:53 PM",
+    "hora_utc": "2025-08-20 00:53",
+    "mensaje": "🛠️Afectado por disparo el circuito 30 (Santa Clara Industrial). Se estudian las causas.",
+    "timestamp": 1755651216,
+    "timestamp_local": 1755651216
+  },
+  {
+    "id": 27737,
+    "fecha": "19 de Aug del 2025 a las 08:40 PM",
+    "hora_utc": "2025-08-20 00:40",
+    "mensaje": "💡Restablecido el servicio eléctrico en los siguientes circuitos \n🔹Bloque 4\nMunicipio Santa Clara:\n👉Cto 5 (Dobarganes)\n👉Cto 17 (Subplanta) \n👉Ctos 37 y 38 (Yabú)    \n👉Cto 9 (Moldes y Troqueles)\n👉Cto 133 (Cafetera)",
+    "timestamp": 1755650448,
+    "timestamp_local": 1755650448
+  },
+  {
     "id": 27736,
     "fecha": "19 de Aug del 2025 a las 08:38 PM",
     "hora_utc": "2025-08-20 00:38",
-    "mensaje": "🛠️ Afectada la línea 119 por emergencia:\nAfecta los siguientes circuitos:\nMunicipio Santa Clara:\n👉Ctos 15 y 27 (Maleza)\n👉Cto 144 (Camacho)\n👉Cto 14  de Malezas",
+    "mensaje": "🛠️ Afectada la línea 119 por emergencia:\nAfecta los siguientes circuitos:\nMunicipio Santa Clara:\n👉Ctos 14, 15 y 27 (Maleza)\n👉Cto 144 (Camacho)",
     "timestamp": 1755650319,
     "timestamp_local": 1755650319
   },
@@ -78,85 +158,5 @@
     "mensaje": "⚠️Afectados por déficit de capacidad de generación los siguientes circuitos:\n🔹Bloque 6\nMunicipio Ranchuelo:\n👉Cto 92 Esperanza (Pueblo)\n👉Cto 93 Esperanza (Campo)\n👉Cto 54 94 y 95 Jicotea  \nMunicipio Santa Clara:\n👉Ctos 26 y 141 (Manuelita)\n👉Cto 191 (Quemado de Hilario)",
     "timestamp": 1755639689,
     "timestamp_local": 1755639689
-  },
-  {
-    "id": 27726,
-    "fecha": "19 de Aug del 2025 a las 05:21 PM",
-    "hora_utc": "2025-08-19 21:21",
-    "mensaje": "⚠️Afectado por déficit de capacidad de generación el circuito 2 (Consejo-Centro), del municipio Santa Clara, perteneciente al bloque 5.",
-    "timestamp": 1755638461,
-    "timestamp_local": 1755638461
-  },
-  {
-    "id": 27725,
-    "fecha": "19 de Aug del 2025 a las 05:18 PM",
-    "hora_utc": "2025-08-19 21:18",
-    "mensaje": "⚠️Afectado por déficit de capacidad de generación el circuito 131 (Las Antillas), del municipio Santa Clara, perteneciente al Bloque 3.",
-    "timestamp": 1755638292,
-    "timestamp_local": 1755638292
-  },
-  {
-    "id": 27724,
-    "fecha": "19 de Aug del 2025 a las 05:13 PM",
-    "hora_utc": "2025-08-19 21:13",
-    "mensaje": "⚠️Afectado por déficit de capacidad de generación el circuito 7 (Universidad), del municipio Santa Clara, perteneciente al Bloque 3.",
-    "timestamp": 1755638031,
-    "timestamp_local": 1755638031
-  },
-  {
-    "id": 27723,
-    "fecha": "19 de Aug del 2025 a las 05:12 PM",
-    "hora_utc": "2025-08-19 21:12",
-    "mensaje": "Afectados 144 MW en la provincia, demanda máxima a apagar en estos momentos.",
-    "timestamp": 1755637939,
-    "timestamp_local": 1755637939
-  },
-  {
-    "id": 27722,
-    "fecha": "19 de Aug del 2025 a las 04:51 PM",
-    "hora_utc": "2025-08-19 20:51",
-    "mensaje": "⚠️Afectados por déficit de capacidad de generación los siguientes circuitos:\n🔹Bloque 7\nMunicipio Ranchuelo: \n👉Ctos 89, 97, 188 y 189\n👉Ctos 148 y 149 San Juan\n👉Cto 91 Batey Osvaldo Herrera\n👉Cto 181 Batey Ifraín Alfonso",
-    "timestamp": 1755636678,
-    "timestamp_local": 1755636678
-  },
-  {
-    "id": 27721,
-    "fecha": "19 de Aug del 2025 a las 04:33 PM",
-    "hora_utc": "2025-08-19 20:33",
-    "mensaje": "⚠️Serán afectados por déficit de capacidad de generación los siguientes circuitos:\n🔹Bloque 9\nMunicipio Santa Clara:\n👉Cto 16 Cubanacán\n👉Ctos 23 y 130 La Ceniza\n👉Cto 42 Manajanabo\nMunicipio Placetas\n👉Cto 139 Miller\n👉Cto 190 Oliver\n👉Cto 106 Falcón",
-    "timestamp": 1755635602,
-    "timestamp_local": 1755635602
-  },
-  {
-    "id": 27720,
-    "fecha": "19 de Aug del 2025 a las 04:24 PM",
-    "hora_utc": "2025-08-19 20:24",
-    "mensaje": "⚠️Será afectado por déficit de capacidad de generación el circuito 153 (EIDE), del municipio Santa Clara, perteneciente al Bloque 3.",
-    "timestamp": 1755635094,
-    "timestamp_local": 1755635094
-  },
-  {
-    "id": 27719,
-    "fecha": "19 de Aug del 2025 a las 04:23 PM",
-    "hora_utc": "2025-08-19 20:23",
-    "mensaje": "⚠️Afectados por déficit de capacidad de generación los siguientes circuitos:\n🔹Bloque 10\nMunicipio Placetas \n👉Cto 98 (Parcial)\n👉Ctos 100 y 151 Placetas\n👉Cto 104 Hermanos Amejeiras\n👉Cto 103 Batey Carbó Servía",
-    "timestamp": 1755635022,
-    "timestamp_local": 1755635022
-  },
-  {
-    "id": 27718,
-    "fecha": "19 de Aug del 2025 a las 04:21 PM",
-    "hora_utc": "2025-08-19 20:21",
-    "mensaje": "✍️Ante la compleja situación actual, con altos niveles de déficit de capacidad de generación que presenta la provincia, no se podrá  cumplir con la planificación correspondiente a los circuitos pertenecientes al Bloque 10, el cual será afectado antes de su horario planificado.",
-    "timestamp": 1755634899,
-    "timestamp_local": 1755634899
-  },
-  {
-    "id": 27717,
-    "fecha": "19 de Aug del 2025 a las 04:17 PM",
-    "hora_utc": "2025-08-19 20:17",
-    "mensaje": "⚠️Afectados por déficit de capacidad de generación los siguientes circuitos:\n🔹Bloque 9\nMunicipio Santa Clara:\n👉Cto 6 (Vigía)\n👉Cto 39 (Sandino)",
-    "timestamp": 1755634662,
-    "timestamp_local": 1755634662
   }
 ]
