@@ -1,5 +1,29 @@
 [
   {
+    "id": 27773,
+    "fecha": "20 de Aug del 2025 a las 07:06 AM",
+    "hora_utc": "2025-08-20 11:06",
+    "mensaje": "Afectados 149 MW en la provincia, demanda máxima a apagar en estos momentos.",
+    "timestamp": 1755687976,
+    "timestamp_local": 1755687976
+  },
+  {
+    "id": 27772,
+    "fecha": "20 de Aug del 2025 a las 07:04 AM",
+    "hora_utc": "2025-08-20 11:04",
+    "mensaje": "⚠️Será afectado por déficit de capacidad de generación el circuito 141 (Manuelita), del municipio Santa Clara, perteneciente al bloque 6.",
+    "timestamp": 1755687872,
+    "timestamp_local": 1755687872
+  },
+  {
+    "id": 27771,
+    "fecha": "20 de Aug del 2025 a las 07:04 AM",
+    "hora_utc": "2025-08-20 11:04",
+    "mensaje": "⚠️Afectados por déficit de capacidad de generación los siguientes circuitos:\n🔹Bloque 2\nMunicipio Cifuentes:\n👉Ctos 114 y 117\n👉Ctos 116 y 155 Mata\n👉Cto 186 Batey Unidad Proletaria\n👉Cto 184 Sitio Grande",
+    "timestamp": 1755687842,
+    "timestamp_local": 1755687842
+  },
+  {
     "id": 27770,
     "fecha": "20 de Aug del 2025 a las 06:53 AM",
     "hora_utc": "2025-08-20 10:53",
@@ -134,29 +158,5 @@
     "mensaje": "🛠️Afectado por DAF (Disparo Automático de Frecuencia), la línea 1915:\nAfecta los siguientes circuitos:\nMunicipio Placetas:\n👉Cto 192 Benito Juárez\n👉Cto 102 Peroti",
     "timestamp": 1755662233,
     "timestamp_local": 1755662233
-  },
-  {
-    "id": 27753,
-    "fecha": "19 de Aug del 2025 a las 11:54 PM",
-    "hora_utc": "2025-08-20 03:54",
-    "mensaje": "💡Restablecido el servicio eléctrico en los siguientes circuitos \n🔹Bloque 7\nMunicipio Ranchuelo: \n👉Ctos 89, 97, 188 y 189\n👉Ctos 148 y 149 San Juan\n👉Cto 91 Batey Osvaldo Herrera\n👉Cto 181 Batey Ifraín Alfonso",
-    "timestamp": 1755662048,
-    "timestamp_local": 1755662048
-  },
-  {
-    "id": 27752,
-    "fecha": "19 de Aug del 2025 a las 11:27 PM",
-    "hora_utc": "2025-08-20 03:27",
-    "mensaje": "💡Será restablecido el circuito 134 del municipio Santo Domingo, perteneciente al bloque 5.",
-    "timestamp": 1755660464,
-    "timestamp_local": 1755660464
-  },
-  {
-    "id": 27751,
-    "fecha": "19 de Aug del 2025 a las 11:26 PM",
-    "hora_utc": "2025-08-20 03:26",
-    "mensaje": "💡Restablecido el servicio eléctrico en los siguientes circuitos \n🔹Bloque 5\nMunicipio Santo Domingo:\n👉Ctos 87 y 96 Bermejal\n👉Cto 187 Batey Carlos Baliño\n👉Cto 82 Ulacia\n👉Cto 84 Rodrigo",
-    "timestamp": 1755660389,
-    "timestamp_local": 1755660389
   }
 ]
