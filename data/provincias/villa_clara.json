@@ -1,5 +1,53 @@
 [
   {
+    "id": 27752,
+    "fecha": "19 de Aug del 2025 a las 11:27 PM",
+    "hora_utc": "2025-08-20 03:27",
+    "mensaje": "💡Será restablecido el circuito 134 del municipio Santo Domingo, perteneciente al bloque 5.",
+    "timestamp": 1755660464,
+    "timestamp_local": 1755660464
+  },
+  {
+    "id": 27751,
+    "fecha": "19 de Aug del 2025 a las 11:26 PM",
+    "hora_utc": "2025-08-20 03:26",
+    "mensaje": "💡Restablecido el servicio eléctrico en los siguientes circuitos \n🔹Bloque 5\nMunicipio Santo Domingo:\n👉Ctos 87 y 96 Bermejal\n👉Cto 187 Batey Carlos Baliño\n👉Cto 82 Ulacia\n👉Cto 84 Rodrigo",
+    "timestamp": 1755660389,
+    "timestamp_local": 1755660389
+  },
+  {
+    "id": 27750,
+    "fecha": "19 de Aug del 2025 a las 11:22 PM",
+    "hora_utc": "2025-08-20 03:22",
+    "mensaje": "💡Restablecido el servicio eléctrico en los siguientes circuitos \n🔹Bloque 2\nMunicipio Cifuentes:\n👉Ctos 114 y 117\n👉Ctos 116 y 155 Mata\n👉Cto 186 Batey Unidad Proletaria\n👉Cto 184 Sitio Grande",
+    "timestamp": 1755660159,
+    "timestamp_local": 1755660159
+  },
+  {
+    "id": 27749,
+    "fecha": "19 de Aug del 2025 a las 11:15 PM",
+    "hora_utc": "2025-08-20 03:15",
+    "mensaje": "🛠️ Afectado por emergencia el circuito 3 (Consejo-Centro), del municipio Santa Clara.",
+    "timestamp": 1755659747,
+    "timestamp_local": 1755659747
+  },
+  {
+    "id": 27748,
+    "fecha": "19 de Aug del 2025 a las 11:15 PM",
+    "hora_utc": "2025-08-20 03:15",
+    "mensaje": "💡Restablecido el servicio eléctrico en los siguientes circuitos \n🔹Bloque 3\nMunicipio Santa Clara:\n👉Cto 166 (Condado)\n👉Cto 167 (Virginia)\n👉Cto 170 (José Martí)\n👉Cto 7 (Universidad)  \n👉Cto 22 (Construcciones Textil)\n👉Cto 153 (EIDE)\nMunicipio Placetas:\n👉Cto 192 Benito Juárez\n👉Cto 102 Peroti",
+    "timestamp": 1755659701,
+    "timestamp_local": 1755659701
+  },
+  {
+    "id": 27747,
+    "fecha": "19 de Aug del 2025 a las 11:12 PM",
+    "hora_utc": "2025-08-20 03:12",
+    "mensaje": "💡Restablecido el servicio eléctrico en los siguientes circuitos \n🔹Bloque 1\nMunicipio Manicaragua:\n👉Ctos 109 y 150\n👉Ctos 108 y 110 La Piedra\n👉Cto 111 Mataguá",
+    "timestamp": 1755659526,
+    "timestamp_local": 1755659526
+  },
+  {
     "id": 27746,
     "fecha": "19 de Aug del 2025 a las 10:06 PM",
     "hora_utc": "2025-08-20 02:06",
@@ -110,53 +158,5 @@
     "mensaje": "⚠️Afectados por déficit de capacidad de generación los siguientes circuitos:\n🔹Bloque 6\nMunicipio Sagua\n👉Cto 48 Finalet\n👉Ctos 46 y 128 Sitiecito",
     "timestamp": 1755646459,
     "timestamp_local": 1755646459
-  },
-  {
-    "id": 27732,
-    "fecha": "19 de Aug del 2025 a las 07:31 PM",
-    "hora_utc": "2025-08-19 23:31",
-    "mensaje": "⚠️Afectados por déficit de capacidad de generación los siguientes circuitos:\n🔹Bloque 4\nMunicipio Santa Clara:\n👉Cto 5 (Dobarganes)\n👉Cto 17 (Subplanta) \n👉Ctos 37 y 38 (Yabú)   \n👉Cto 9 (Moldes y Troqueles)\n👉Cto 133 (Cafetera)",
-    "timestamp": 1755646317,
-    "timestamp_local": 1755646317
-  },
-  {
-    "id": 27731,
-    "fecha": "19 de Aug del 2025 a las 07:23 PM",
-    "hora_utc": "2025-08-19 23:23",
-    "mensaje": "💡Restablecido el servicio eléctrico en los circuitos 1 y 2 (Consejo-Centro), del municipio Santa Clara, perteneciente al bloque 5.",
-    "timestamp": 1755645784,
-    "timestamp_local": 1755645784
-  },
-  {
-    "id": 27730,
-    "fecha": "19 de Aug del 2025 a las 07:18 PM",
-    "hora_utc": "2025-08-19 23:18",
-    "mensaje": "⚠️Será afectado por déficit de capacidad de generación el circuito 164 (Lugardita), del municipio Quemado, perteneciente al bloque 11.",
-    "timestamp": 1755645507,
-    "timestamp_local": 1755645507
-  },
-  {
-    "id": 27729,
-    "fecha": "19 de Aug del 2025 a las 06:13 PM",
-    "hora_utc": "2025-08-19 22:13",
-    "mensaje": "🕕Actualización del servicio eléctrico en las últimas 6 horas.\n\n👉El déficit de capacidad de generación osciló entre los 155 MW y los 169 MW.\n👉En el momento de esta nota, se mantienen afectados 161 circuitos.\n 👉Cuenta con 83 afectaciones por averías secundarias y de servicio:\n🔸Corralillo (4)\n🔸Encrucijada (7)\n🔸Manicaragua (7)\n🔸Placetas (2)\n🔸Ranchuelo (3)\n🔸Remedios (1)\n🔸Santa Clara (33)\n🔸Santo Domingo (8)\n🛠️Se encuentran 8 averías en vías de solución.\n🛠️Pendientes a solucionar por el área técnica 10.\n⚡La provincia no presenta averías primarias.",
-    "timestamp": 1755641601,
-    "timestamp_local": 1755641601
-  },
-  {
-    "id": 27728,
-    "fecha": "19 de Aug del 2025 a las 06:01 PM",
-    "hora_utc": "2025-08-19 22:01",
-    "mensaje": "⚠️Afectados por déficit de capacidad de generación los siguientes circuitos:\n🔹Bloque 10\nMunicipio Santa Clara:\n👉Ctos 14, 15 y 27 (Maleza)\n👉Cto 144 (Camacho)",
-    "timestamp": 1755640909,
-    "timestamp_local": 1755640909
-  },
-  {
-    "id": 27727,
-    "fecha": "19 de Aug del 2025 a las 05:41 PM",
-    "hora_utc": "2025-08-19 21:41",
-    "mensaje": "⚠️Afectados por déficit de capacidad de generación los siguientes circuitos:\n🔹Bloque 6\nMunicipio Ranchuelo:\n👉Cto 92 Esperanza (Pueblo)\n👉Cto 93 Esperanza (Campo)\n👉Cto 54 94 y 95 Jicotea  \nMunicipio Santa Clara:\n👉Ctos 26 y 141 (Manuelita)\n👉Cto 191 (Quemado de Hilario)",
-    "timestamp": 1755639689,
-    "timestamp_local": 1755639689
   }
 ]
