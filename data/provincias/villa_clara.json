@@ -1,5 +1,37 @@
 [
   {
+    "id": 27869,
+    "fecha": "21 de Aug del 2025 a las 06:26 AM",
+    "hora_utc": "2025-08-21 10:26",
+    "mensaje": "⚠️Serán afectados por déficit de capacidad de generación los siguientes circuitos:\n🔹Bloque 3\nMunicipio Santa Clara:\nCto 166 (Condado)\nCto 167 (Virginia)\nCto 170 (José Martí)",
+    "timestamp": 1755772008,
+    "timestamp_local": 1755772008
+  },
+  {
+    "id": 27868,
+    "fecha": "21 de Aug del 2025 a las 06:23 AM",
+    "hora_utc": "2025-08-21 10:23",
+    "mensaje": "⚡Avería⚡\nAfectada línea 1365, perteneciente al municipio Remedios.\nLínea 1365\nMunicipio Remedios:\nCtos 67 y 152, 68 y 118 \nCtos 69 y 70 Zuluetas\nCto 143 Batey Heriberto Duquesne\nCto 71 Buena Vista",
+    "timestamp": 1755771789,
+    "timestamp_local": 1755771789
+  },
+  {
+    "id": 27867,
+    "fecha": "21 de Aug del 2025 a las 06:18 AM",
+    "hora_utc": "2025-08-21 10:18",
+    "mensaje": "⚠️Disparo en línea 1365, perteneciente al municipio Remedios.\nLínea 1365\nMunicipio Remedios:\nCtos 67 y 152, 68 y 118 \nCtos 69 y 70 Zuluetas\nCto 143 Batey Heriberto Duquesne\nCto 71 Buena Vista",
+    "timestamp": 1755771536,
+    "timestamp_local": 1755771536
+  },
+  {
+    "id": 27866,
+    "fecha": "21 de Aug del 2025 a las 06:10 AM",
+    "hora_utc": "2025-08-21 10:10",
+    "mensaje": "🕛Actualización del servicio eléctrico en las últimas 6 horas.\n👉El déficit de capacidad de generación osciló entre los 171 MW y los 127 MW.\n👉En el momento de esta nota, se mantienen afectados 169 circuitos.\n👉Cuenta con 73 afectaciones por averías secundarias y de servicio:\n🔸Caibarién (1)\n🔸Camajuaní (3)\n🔸Manicaragua (13)\n🔸Corralillo (5)\n🔸Encrucijada (3)\n🔸Placetas (3)\n🔸Remedios (4)\n🔸Sagua (5)\n🔸Santa Clara (29)\n🔸Santo Domingo (13)\n🛠️Pendientes a solucionar por el área técnica 15.\n\n⚡Averías⚡\n👉Afectados los siguientes circuitos de la línea 1710 perteneciente a Santo Domingo:\nCto 163 Batey 26 de Julio\nCto 81 26 Julio\nCto 79",
+    "timestamp": 1755771027,
+    "timestamp_local": 1755771027
+  },
+  {
     "id": 27865,
     "fecha": "21 de Aug del 2025 a las 05:10 AM",
     "hora_utc": "2025-08-21 09:10",
@@ -118,37 +150,5 @@
     "mensaje": "💡Restablecido el servicio eléctrico en los siguientes circuitos:\n🔸Bloque 1\nLínea 331 \nMunicipio Manicaragua:\nCtos 109 y 150\nCtos 108 y 110 La Piedra\nCto 111 Mataguá\n🔸Bloque 3\nMunicipio Santa Clara:\nCto 166 (Condado)\nCto 167 (Virginia)\nCto 170 (José Martí)  \nMunicipio Placetas:\nCto 192 Benito Juárez\nCto 102 Peroti",
     "timestamp": 1755745719,
     "timestamp_local": 1755745719
-  },
-  {
-    "id": 27849,
-    "fecha": "20 de Aug del 2025 a las 11:07 PM",
-    "hora_utc": "2025-08-21 03:07",
-    "mensaje": "Afectados 163 MW en la provincia, demanda máxima a apagar en estos momentos.",
-    "timestamp": 1755745640,
-    "timestamp_local": 1755745640
-  },
-  {
-    "id": 27848,
-    "fecha": "20 de Aug del 2025 a las 10:09 PM",
-    "hora_utc": "2025-08-21 02:09",
-    "mensaje": "⚠️Disparado el Cto 144 Maleza, perteneciente al municipio Santa Clara.",
-    "timestamp": 1755742195,
-    "timestamp_local": 1755742195
-  },
-  {
-    "id": 27847,
-    "fecha": "20 de Aug del 2025 a las 10:09 PM",
-    "hora_utc": "2025-08-21 02:09",
-    "mensaje": "💡Restablecido el servicio eléctrico en los circuitos 14, 15 y 27 Maleza, perteneciente al municipio Santa Clara.",
-    "timestamp": 1755742151,
-    "timestamp_local": 1755742151
-  },
-  {
-    "id": 27846,
-    "fecha": "20 de Aug del 2025 a las 10:06 PM",
-    "hora_utc": "2025-08-21 02:06",
-    "mensaje": "🔸Actualización del servicio eléctrico en la provincia🔸\n✍️Se mantienen afectados en la provincia 169 circuitos.\n✍️En el momento de hacer esta nota la provincia tiene 168 MW de afectación por déficit de capacidad de generación, demanda máxima posible a apagar.\n✍️Cuenta con 86 afectaciones por averías secundarias y de servicio",
-    "timestamp": 1755741972,
-    "timestamp_local": 1755741972
   }
 ]
