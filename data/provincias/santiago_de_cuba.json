@@ -1,5 +1,29 @@
 [
   {
+    "id": 43444,
+    "fecha": "21 de Aug del 2025 a las 04:44 AM",
+    "hora_utc": "2025-08-21 08:44",
+    "mensaje": "Déficit de Capacidad de Generación:  \nSe produce cuando la demanda del Sistema Eléctrico Nacional, en determinado horario del día, supera la generación disponible del país, provocando la desconexión de los circuitos o líneas que permitan garantizar la frecuencia del SEN.",
+    "timestamp": 1755765845,
+    "timestamp_local": 1755765845
+  },
+  {
+    "id": 43443,
+    "fecha": "21 de Aug del 2025 a las 04:43 AM",
+    "hora_utc": "2025-08-21 08:43",
+    "mensaje": "🔊Estimados clientes se le informa que en estos momentos están afectados por Déficit de Capacidad de Generación los circuitos 2  , 24 , 26 , disculpen por las molestias ocasionadas",
+    "timestamp": 1755765826,
+    "timestamp_local": 1755765826
+  },
+  {
+    "id": 43442,
+    "fecha": "21 de Aug del 2025 a las 04:42 AM",
+    "hora_utc": "2025-08-21 08:42",
+    "mensaje": "🔊Estimados clientes se le informa que en estos momentos están afectados por Déficit de Capacidad de Generación la Línea 5335 Guamá , 5975  Baconao , 4390 Contramaestre , disculpen por las molestias ocasionadas",
+    "timestamp": 1755765769,
+    "timestamp_local": 1755765769
+  },
+  {
     "id": 43441,
     "fecha": "21 de Aug del 2025 a las 02:43 AM",
     "hora_utc": "2025-08-21 06:43",
@@ -134,29 +158,5 @@
     "mensaje": "Déficit de Capacidad de Generación:  \nSe produce cuando la demanda del Sistema Eléctrico Nacional, en determinado horario del día, supera la generación disponible del país, provocando la desconexión de los circuitos o líneas que permitan garantizar la frecuencia del SEN.",
     "timestamp": 1755736815,
     "timestamp_local": 1755736815
-  },
-  {
-    "id": 43424,
-    "fecha": "20 de Aug del 2025 a las 08:39 PM",
-    "hora_utc": "2025-08-21 00:39",
-    "mensaje": "🔊Estimados clientes se le informa que en estos momentos están afectados por Déficit de Capacidad de Generación  los circuitos 14 seccionalizado  , 15 , 16 de Santiago de Cuba , disculpen por las molestias ocasionadas.",
-    "timestamp": 1755736792,
-    "timestamp_local": 1755736792
-  },
-  {
-    "id": 43423,
-    "fecha": "20 de Aug del 2025 a las 08:38 PM",
-    "hora_utc": "2025-08-21 00:38",
-    "mensaje": "🔊Estimados clientes se le informa que en estos momentos están afectados por Déficit de Capacidad de Generación la Línea 5330 El Cristo  , disculpen por las molestias ocasionadas.",
-    "timestamp": 1755736727,
-    "timestamp_local": 1755736727
-  },
-  {
-    "id": 43422,
-    "fecha": "20 de Aug del 2025 a las 08:05 PM",
-    "hora_utc": "2025-08-21 00:05",
-    "mensaje": "Disparo Automático de Frecuencia (DAF):\nOcurre cuando.  la frecuencia está por debajo de los 60Hz y determinada carga o circuito se desconecta del sistema automáticamente hasta que se estabilice",
-    "timestamp": 1755734749,
-    "timestamp_local": 1755734749
   }
 ]
