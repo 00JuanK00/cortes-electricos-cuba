@@ -1,9 +1,41 @@
 [
   {
+    "id": 24905,
+    "fecha": "22 de Aug del 2025 a las 09:15 AM",
+    "hora_utc": "2025-08-22 13:15",
+    "mensaje": "Nota Informativa - Situación del SEN al 22 de agosto de 2025\nEn el día de ayer se afectó el servicio las 24 horas y se mantuvo afectado durante toda la madrugada de hoy. La máxima afectación por déficit de capacidad de generación en el día de ayer fue de 1724 MW a las 20:20 horas, no coincidente con la hora de máxima demanda. La afectación fue mayor a lo planificado por demanda superior a la pronosticada. \n Producción de energía de los 25 parques solares fotovoltaicos: 2578 MWh, con 519 MW como máxima potencia entregada en el horario de la media.\n Estado actual:\nDisponibilidad: 2120 MW.\nDemanda: 3230 MW.\nAfectación actual: 1180 MW. \nPronóstico para el mediodía: 1300 MW afectados.\n Pronóstico para el horario pico:\nSe proyecta una disponibilidad de 2220 MW y una demanda de 3850 MW, lo que generaría un déficit de 1630, para una afectación de 1700 MW.\nMás detalles en  \nhttps://www.unionelectrica.cu/nota-informativa/\n#NotaInformativa #UNE #SEN #UnidosXCuba #UniónEléctrica",
+    "timestamp": 1755868507,
+    "timestamp_local": 1755868507
+  },
+  {
+    "id": 24904,
+    "fecha": "22 de Aug del 2025 a las 08:52 AM",
+    "hora_utc": "2025-08-22 12:52",
+    "mensaje": "‼️La afectación actual de la provincia por déficit en la capacidad de generación es de 114 MW",
+    "timestamp": 1755867174,
+    "timestamp_local": 1755867174
+  },
+  {
+    "id": 24903,
+    "fecha": "22 de Aug del 2025 a las 08:50 AM",
+    "hora_utc": "2025-08-22 12:50",
+    "mensaje": "👉Circuito 4604 que da servicio a Marti-Itabo-Hoyo Colorado, en avería por interruptor dañado.\n👉Circuito 4071 que da servicio a Cítrico, La Carlota e Isabel, en avería por por conductores partidos afectando a 1500 clientes \n\n__✅Estamos trabajando para resolver la afectación y restaurar el suministro de energía.__",
+    "timestamp": 1755867034,
+    "timestamp_local": 1755867034
+  },
+  {
+    "id": 24902,
+    "fecha": "22 de Aug del 2025 a las 08:32 AM",
+    "hora_utc": "2025-08-22 12:32",
+    "mensaje": "Circuitos no apagables que estarán afectados en el día de hoy debido al alto déficit: \nMI1453, GI 101, JI48, Z130 de 11:00 a 13:00\nJI48, GI101, CI185, MI1453, DE 19:00 a 1:00\nZ130 de 20:00 a 2:00\nAl amanecer:\nCI185 de 5:00 a 7:00",
+    "timestamp": 1755865926,
+    "timestamp_local": 1755865926
+  },
+  {
     "id": 24901,
     "fecha": "22 de Aug del 2025 a las 08:11 AM",
     "hora_utc": "2025-08-22 12:11",
-    "mensaje": "📣📣ATENCIÓN📣📣\nLos circuitos con mayor afectación en la provincia en estos momentos y por lo tanto los próximos a recibir servicio eléctrico son:\n- Circuito 501 que da servicio a 6 de agosto, Manguito, La Montaña, Calimete, Amarillas, Plan de arroz.\n-Circuito 1406 que da servicio a Casco Histórico.                  \n- Circuito MI1410 que da servicio a Circuito 6 Casco Histórico.\n - Circuito VI2020 que da servicio a Boca de Camarioca.",
+    "mensaje": "📣📣ATENCIÓN📣📣\nLos circuitos con mayor afectación en la provincia en estos momentos y por lo tanto los próximos a recibir servicio eléctrico son:\n- Circuito 501 que da servicio a 6 de agosto, Manguito, La Montaña, Calimete, Amarillas, Plan de arroz.\n-Circuito 1406 que da servicio a Casco Histórico.                  \n - Circuito VI2020 que da servicio a Boca de Camarioca.",
     "timestamp": 1755864688,
     "timestamp_local": 1755864688
   },
@@ -126,37 +158,5 @@
     "mensaje": "⚠️En estos momentos tenemos afectados por déficit de capacidad de generación 185 MW en la provincia.",
     "timestamp": 1755825750,
     "timestamp_local": 1755825750
-  },
-  {
-    "id": 24885,
-    "fecha": "21 de Aug del 2025 a las 08:03 PM",
-    "hora_utc": "2025-08-22 00:03",
-    "mensaje": "⚠️En estos momentos tenemos afectados por déficit de capacidad de generación 181 MW en la provincia.",
-    "timestamp": 1755821000,
-    "timestamp_local": 1755821000
-  },
-  {
-    "id": 24884,
-    "fecha": "21 de Aug del 2025 a las 07:53 PM",
-    "hora_utc": "2025-08-21 23:53",
-    "mensaje": "‼️‼️En estos momentos tenemos afectados por déficit de capacidad de generación 169 MW en la provincia.",
-    "timestamp": 1755820405,
-    "timestamp_local": 1755820405
-  },
-  {
-    "id": 24883,
-    "fecha": "21 de Aug del 2025 a las 06:56 PM",
-    "hora_utc": "2025-08-21 22:56",
-    "mensaje": "__**💡Los circuitos próximos a restablecer el servicio: **\n\n__🔌Circuito Z1139 que da servicio a Poblado de Guásimas y oficina del Petróleo. \n🔌Circuito GI103 que da servicio a Jagüey Ciudad\n🔌Circuito 4427 que da servicio a Reparto 13 de marzo, circuitos 2 y 3 desde Salud hasta Obispo y desde García hasta Génes, Playa Larga, Smith Comas.\n\n**🧏 El restablecimiento del servicio eléctrico dependerá del comportamiento de la demanda y la disponibilidad de Sistema Eléctrico.**",
-    "timestamp": 1755816990,
-    "timestamp_local": 1755816990
-  },
-  {
-    "id": 24882,
-    "fecha": "21 de Aug del 2025 a las 06:14 PM",
-    "hora_utc": "2025-08-21 22:14",
-    "mensaje": "En estos momentos tenemos un déficit por capacidad de generación de 168 MW en nuestra provincia",
-    "timestamp": 1755814443,
-    "timestamp_local": 1755814443
   }
 ]
