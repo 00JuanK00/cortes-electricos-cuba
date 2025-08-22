@@ -1,5 +1,29 @@
 [
   {
+    "id": 32613,
+    "fecha": "21 de Aug del 2025 a las 08:38 PM",
+    "hora_utc": "2025-08-22 00:38",
+    "mensaje": "🚨 Afectado por dèficit el siguiente circuito\n\n➡️Circuito 1262 de Artemisa\n\n‼️ Tenemos una afectación de 150 MW",
+    "timestamp": 1755823087,
+    "timestamp_local": 1755823087
+  },
+  {
+    "id": 32612,
+    "fecha": "21 de Aug del 2025 a las 08:17 PM",
+    "hora_utc": "2025-08-22 00:17",
+    "mensaje": "🚨 Afectado por dèficit el siguiente circuito\n\n➡️Circuito 1940 de San Antonio\n\n‼️ Tenemos una afectación de 150 MW",
+    "timestamp": 1755821846,
+    "timestamp_local": 1755821846
+  },
+  {
+    "id": 32611,
+    "fecha": "21 de Aug del 2025 a las 08:02 PM",
+    "hora_utc": "2025-08-22 00:02",
+    "mensaje": "🚨 Afectados por dèficit los siguientes circuitos\n\n➡️Circuitos Sub San Cristóbal, 4 Caminos y el Martí de San Cristóbal\n➡️Circuito 3185 de Artemisa \n\n‼️ Tenemos una afectación de 150 MW",
+    "timestamp": 1755820938,
+    "timestamp_local": 1755820938
+  },
+  {
     "id": 32610,
     "fecha": "21 de Aug del 2025 a las 07:31 PM",
     "hora_utc": "2025-08-21 23:31",
@@ -35,7 +59,7 @@
     "id": 32606,
     "fecha": "21 de Aug del 2025 a las 04:48 PM",
     "hora_utc": "2025-08-21 20:48",
-    "mensaje": "🚨 Afectados por dèficit los siguientes circuitos\n\n➡️Circuitos 1258 de Artemisa\n➡️Circuito 3220 de San Antonio excepto el hospital\n➡️Circuito 5040 de Caimito\n➡️Circuito Bombeo Ceiba 1 y San Gabriel\n➡️Circuito 341 de San Cristóbal\n\n‼️ Tenemos una afectación de 128 MW",
+    "mensaje": "🚨 Afectados por dèficit los siguientes circuitos\n\n\n➡️Circuito Bombeo Ceiba 1 y San Gabriel\n➡️Circuito 341 de San Cristóbal\n\n‼️ Tenemos una afectación de 128 MW",
     "timestamp": 1755809295,
     "timestamp_local": 1755809295
   },
@@ -43,7 +67,7 @@
     "id": 32605,
     "fecha": "21 de Aug del 2025 a las 01:30 PM",
     "hora_utc": "2025-08-21 17:30",
-    "mensaje": "🚨Afectado por dèficit el circuito 3205 de Quiebra Hacha, Cabaña \n‼️Tenemos una afectación de 114 MW",
+    "mensaje": "‼️Tenemos una afectación de 114 MW",
     "timestamp": 1755797442,
     "timestamp_local": 1755797442
   },
@@ -134,29 +158,5 @@
     "mensaje": "✅ Restablecida la Vía libre del circuito 4 mil de Ceiba que afectaba la Finca Michuri",
     "timestamp": 1755739580,
     "timestamp_local": 1755739580
-  },
-  {
-    "id": 32593,
-    "fecha": "20 de Aug del 2025 a las 09:21 PM",
-    "hora_utc": "2025-08-21 01:21",
-    "mensaje": "‼️🚨 Continuan afectados los clientes del circuito 246 de Bahía Honda donde se afecta el Entronque del Pablo, Cayo Juan Tomás, San Diego de Nuñez por la envergadura que presenta la averia y falta de iluminación para trabajar , quedan pendiente para continuar el trabajo el día de mañana\n\n🚨 Ofrecemos disculpas por las molestias ocasionadas",
-    "timestamp": 1755739300,
-    "timestamp_local": 1755739300
-  },
-  {
-    "id": 32592,
-    "fecha": "20 de Aug del 2025 a las 08:32 PM",
-    "hora_utc": "2025-08-21 00:32",
-    "mensaje": "🚨 Afectados por dèficit los circuitos 1258, 1270 y 1262 de Artemisa\n\n‼️ Tenemos una afectación de 160 MW",
-    "timestamp": 1755736322,
-    "timestamp_local": 1755736322
-  },
-  {
-    "id": 32591,
-    "fecha": "20 de Aug del 2025 a las 08:29 PM",
-    "hora_utc": "2025-08-21 00:29",
-    "mensaje": "✅ Restablecida la Vía libre del circuito 2 de Alquitex en Alquizar",
-    "timestamp": 1755736192,
-    "timestamp_local": 1755736192
   }
 ]
