@@ -1,9 +1,25 @@
 [
   {
+    "id": 32618,
+    "fecha": "21 de Aug del 2025 a las 11:22 PM",
+    "hora_utc": "2025-08-22 03:22",
+    "mensaje": "‼️ Tenemos una afectación de 158 MW",
+    "timestamp": 1755832924,
+    "timestamp_local": 1755832924
+  },
+  {
+    "id": 32617,
+    "fecha": "21 de Aug del 2025 a las 10:33 PM",
+    "hora_utc": "2025-08-22 02:33",
+    "mensaje": "‼️ Tenemos una afectación de 168 MW",
+    "timestamp": 1755830031,
+    "timestamp_local": 1755830031
+  },
+  {
     "id": 32616,
     "fecha": "21 de Aug del 2025 a las 08:56 PM",
     "hora_utc": "2025-08-22 00:56",
-    "mensaje": "🚨 Afectados por dèficit los siguientes circuitos\n\n➡️Circuitos 13 mil y 4 mil de Güira de Melena \n\n‼️ Tenemos una afectación de 150 MW",
+    "mensaje": "‼️ Tenemos una afectación de 150 MW",
     "timestamp": 1755824165,
     "timestamp_local": 1755824165
   },
@@ -43,7 +59,7 @@
     "id": 32611,
     "fecha": "21 de Aug del 2025 a las 08:02 PM",
     "hora_utc": "2025-08-22 00:02",
-    "mensaje": "🚨 Afectados por dèficit los siguientes circuitos\n\n➡️Circuitos Sub San Cristóbal, 4 Caminos y el Martí de San Cristóbal\n➡️Circuito 3185 de Artemisa \n\n‼️ Tenemos una afectación de 150 MW",
+    "mensaje": "🚨 Afectados por dèficit los siguientes circuitos\n\n➡️Circuitos Sub San Cristóbal, 4 Caminos y el Martí de San Cristóbal\n\n‼️ Tenemos una afectación de 150 MW",
     "timestamp": 1755820938,
     "timestamp_local": 1755820938
   },
@@ -142,21 +158,5 @@
     "mensaje": "‼️ Tenemos una afectación de 150 MW",
     "timestamp": 1755773255,
     "timestamp_local": 1755773255
-  },
-  {
-    "id": 32598,
-    "fecha": "21 de Aug del 2025 a las 01:05 AM",
-    "hora_utc": "2025-08-21 05:05",
-    "mensaje": "🚨Afectados por dèficit los siguientes circuitos\n\n➡️Circuito 1570 de Artemisa y Candelaria excepto el circuito 2 de Cayajabo \n➡️Circuito 236 de Bahía Honda\n➡️Circuito 1940 de San Antonio\n➡️Circuitos Sub San Cristóbal, 4 caminos y el Martí\n\n‼️Se mantienen los circuitos\n\n➡️Maní de San Cristóbal\n➡️1270 de Artemisa\n\n‼️ Tenemos una afectación de 150 MW",
-    "timestamp": 1755752751,
-    "timestamp_local": 1755752751
-  },
-  {
-    "id": 32597,
-    "fecha": "21 de Aug del 2025 a las 12:17 AM",
-    "hora_utc": "2025-08-21 04:17",
-    "mensaje": "‼️ Circuito 1 de Pedro Díaz de Güira en avería a partir de la A0152 queda pendiente para mañana a recorrer líneas",
-    "timestamp": 1755749844,
-    "timestamp_local": 1755749844
   }
 ]
