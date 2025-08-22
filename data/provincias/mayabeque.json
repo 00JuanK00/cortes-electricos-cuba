@@ -1,5 +1,21 @@
 [
   {
+    "id": 86449,
+    "fecha": "22 de Aug del 2025 a las 02:35 PM",
+    "hora_utc": "2025-08-22 18:35",
+    "mensaje": "♦️ Afectado el servicio en el circuito 3140 por disparo por DAF ♦️",
+    "timestamp": 1755887738,
+    "timestamp_local": 1755887738
+  },
+  {
+    "id": 86448,
+    "fecha": "22 de Aug del 2025 a las 02:12 PM",
+    "hora_utc": "2025-08-22 18:12",
+    "mensaje": "🚨 Continúa afectado el servicio por déficit de capacidad de generación en el circuito Jamaica 🚨",
+    "timestamp": 1755886322,
+    "timestamp_local": 1755886322
+  },
+  {
     "id": 86447,
     "fecha": "22 de Aug del 2025 a las 02:11 PM",
     "hora_utc": "2025-08-22 18:11",
@@ -19,7 +35,7 @@
     "id": 86445,
     "fecha": "22 de Aug del 2025 a las 01:27 PM",
     "hora_utc": "2025-08-22 17:27",
-    "mensaje": "🚨Por déficit de capacidad de generación se afecta el servicio en los siguientes circuitos:\n* Catalina 1 y 2 🚨",
+    "mensaje": "🚨Por déficit de capacidad de generación se afecta el servicio en los siguientes circuitos:\n* Catalina 1 y 2 \n* Surgidero 🚨",
     "timestamp": 1755883632,
     "timestamp_local": 1755883632
   },
@@ -118,37 +134,5 @@
     "mensaje": "🔷 Restablecido el servicio en el circuito ML 35 que se encontraba afectado por manipulación 🔷",
     "timestamp": 1755875561,
     "timestamp_local": 1755875561
-  },
-  {
-    "id": 86432,
-    "fecha": "22 de Aug del 2025 a las 11:11 AM",
-    "hora_utc": "2025-08-22 15:11",
-    "mensaje": "♦️ Afectado el servicio en el circuito ML 35 por manipulación ♦️",
-    "timestamp": 1755875463,
-    "timestamp_local": 1755875463
-  },
-  {
-    "id": 86430,
-    "fecha": "22 de Aug del 2025 a las 09:30 AM",
-    "hora_utc": "2025-08-22 13:30",
-    "mensaje": "🚨Por déficit de capacidad de generación se afecta el servicio en el siguiente circuito:\n* Fénix  🚨",
-    "timestamp": 1755869409,
-    "timestamp_local": 1755869409
-  },
-  {
-    "id": 86429,
-    "fecha": "22 de Aug del 2025 a las 09:20 AM",
-    "hora_utc": "2025-08-22 13:20",
-    "mensaje": "🔷♦️Se restablece el servicio en el siguiente circuito que se encontraba afectado por déficit de capacidad de generación:\n* Camacho ♦️🔷",
-    "timestamp": 1755868840,
-    "timestamp_local": 1755868840
-  },
-  {
-    "id": 86428,
-    "fecha": "22 de Aug del 2025 a las 09:14 AM",
-    "hora_utc": "2025-08-22 13:14",
-    "mensaje": "🔷♦️Se restablece el servicio en el siguiente circuito que se encontraba afectado por déficit de capacidad de generación:\n* Picadura ♦️🔷",
-    "timestamp": 1755868497,
-    "timestamp_local": 1755868497
   }
 ]
