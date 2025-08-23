@@ -1,5 +1,37 @@
 [
   {
+    "id": 28001,
+    "fecha": "23 de Aug del 2025 a las 07:56 AM",
+    "hora_utc": "2025-08-23 11:56",
+    "mensaje": "🛠️ Se encuentra afectado circuito 196 Panchito perteneciente al municipio de Quemado de manera parcial. Se estudian las causas.",
+    "timestamp": 1755950198,
+    "timestamp_local": 1755950198
+  },
+  {
+    "id": 28000,
+    "fecha": "23 de Aug del 2025 a las 07:55 AM",
+    "hora_utc": "2025-08-23 11:55",
+    "mensaje": "🛠️ Se encuentra en avería circuito 55 Rancho Veloz perteneciente al municipio de Corralillo de manera parcial por Primario partido.",
+    "timestamp": 1755950104,
+    "timestamp_local": 1755950104
+  },
+  {
+    "id": 27999,
+    "fecha": "23 de Aug del 2025 a las 07:53 AM",
+    "hora_utc": "2025-08-23 11:53",
+    "mensaje": "Afectados 98 MW en la provincia, demanda máxima a apagar en estos momentos.",
+    "timestamp": 1755950028,
+    "timestamp_local": 1755950028
+  },
+  {
+    "id": 27998,
+    "fecha": "23 de Aug del 2025 a las 07:52 AM",
+    "hora_utc": "2025-08-23 11:52",
+    "mensaje": "✍️La Provincia cuenta con 7 afectaciones de servicio eléctrico  por transformador dañado:\n👉Municipio Caibarien: calle 10 e/ 11 y 13 . (afectando la Clínica Dental)\n👉Municipio Caibarien: Ave 33 e/12 y 14\n👉Municipio Camajuani: calle Paradero Sur e/ Estadio y Ceiba Histórica. Vueltas.\n👉Municipio Cifuentes: carretera a Wilfredo Page , Barrio La Vega.\n👉Municipio Encrucijada : Linea Playa , después de la iglesia, Emilio Cordova\n👉Municipio Santa Clara: carretera de Sagua , Escuela Yabu 1.\n👉Municipio Santo Domingo: Carretera Central,  frente al Inivit,  Turbina para la población.",
+    "timestamp": 1755949929,
+    "timestamp_local": 1755949929
+  },
+  {
     "id": 27997,
     "fecha": "23 de Aug del 2025 a las 07:22 AM",
     "hora_utc": "2025-08-23 11:22",
@@ -118,37 +150,5 @@
     "mensaje": "⚠️Serán afectados por déficit de generación los siguientes circuitos:\n🔹Bloque 10\n👉Municipio Manicaragua:\nCtos 113 y 137 La Campana\nCto 112 Hoyo Manicaragua\n👉Municipio Placetas \nCtos 98 y 99 Placetas\nCtos 100 y 151 Placetas\nCto 104 Hermanos Amejeiras\nCto 103 Batey Carbó Servía",
     "timestamp": 1755917528,
     "timestamp_local": 1755917528
-  },
-  {
-    "id": 27981,
-    "fecha": "22 de Aug del 2025 a las 10:50 PM",
-    "hora_utc": "2025-08-23 02:50",
-    "mensaje": "💡Se restablece el servicio eléctrico en los siguientes circuitos:\n🔹Bloque 1\n👉Municipio Manicaragua:\nCtos 109 y 150\nCtos 108 y 110 La Piedra\nCto 111 Mataguá",
-    "timestamp": 1755917401,
-    "timestamp_local": 1755917401
-  },
-  {
-    "id": 27980,
-    "fecha": "22 de Aug del 2025 a las 10:35 PM",
-    "hora_utc": "2025-08-23 02:35",
-    "mensaje": "💡Con servicio eléctrico los circuitos siguientes:\n🔹Bloque 1\n👉Municipio Encrucijada\nCto 120 Calabazar\nCtos 121 y 127 Perucho",
-    "timestamp": 1755916553,
-    "timestamp_local": 1755916553
-  },
-  {
-    "id": 27979,
-    "fecha": "22 de Aug del 2025 a las 10:08 PM",
-    "hora_utc": "2025-08-23 02:08",
-    "mensaje": "💡Restablecido el servicio eléctrico en los circuitos siguientes:\n🔹Bloque 7\n👉Municipio Camajuaní:\nCtos 73 y 156 \nCto 74 José María Pérez\n🔹Bloque 5\n👉Municipio Santo Domingo:\nCto 134 Santo Domingo\nCtos 87 y 96 Bermejal\nCto 187 Batey Carlos Baliño\nCto 82 Ulacia\nCto 84 Rodrigo",
-    "timestamp": 1755914939,
-    "timestamp_local": 1755914939
-  },
-  {
-    "id": 27978,
-    "fecha": "22 de Aug del 2025 a las 10:07 PM",
-    "hora_utc": "2025-08-23 02:07",
-    "mensaje": "⚠️Afectados por déficit de generación los circuitos siguientes:\n🔹Bloque 2\n👉Municipio Cifuentes:\nCtos 114 y 117\nCtos 116 y 155 Mata\nCto 186 Batey Unidad Proletaria\nCto 184 Sitio Grande",
-    "timestamp": 1755914831,
-    "timestamp_local": 1755914831
   }
 ]
