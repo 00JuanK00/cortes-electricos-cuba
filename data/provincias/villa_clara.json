@@ -1,5 +1,45 @@
 [
   {
+    "id": 28039,
+    "fecha": "23 de Aug del 2025 a las 03:58 PM",
+    "hora_utc": "2025-08-23 19:58",
+    "mensaje": "💡Restablecida Linea 1720 perteneciente al municipio de Santo Domingo.",
+    "timestamp": 1755979084,
+    "timestamp_local": 1755979084
+  },
+  {
+    "id": 28038,
+    "fecha": "23 de Aug del 2025 a las 03:57 PM",
+    "hora_utc": "2025-08-23 19:57",
+    "mensaje": "💡Restablecido Circuito 170 Gran Panel (Jose Marti)",
+    "timestamp": 1755979022,
+    "timestamp_local": 1755979022
+  },
+  {
+    "id": 28037,
+    "fecha": "23 de Aug del 2025 a las 03:52 PM",
+    "hora_utc": "2025-08-23 19:52",
+    "mensaje": "💡Restablecida Linea 861 perteneciente al municipio de Santa Clara.",
+    "timestamp": 1755978754,
+    "timestamp_local": 1755978754
+  },
+  {
+    "id": 28036,
+    "fecha": "23 de Aug del 2025 a las 03:50 PM",
+    "hora_utc": "2025-08-23 19:50",
+    "mensaje": "⚡Disparo de los siguientes circuitos pertenecientes al municipio de Santa Clara por tormenta:\n👉Cto 31 ( Sakenaf)\n👉Cto 193 ( Escambray)\n👉Cto 194 SC Industrial ( Materno-Infantil)",
+    "timestamp": 1755978622,
+    "timestamp_local": 1755978622
+  },
+  {
+    "id": 28035,
+    "fecha": "23 de Aug del 2025 a las 03:46 PM",
+    "hora_utc": "2025-08-23 19:46",
+    "mensaje": "⚡Disparo del circuito 170 ( José Marti) y circuito 171 Gran Panel por tormenta",
+    "timestamp": 1755978366,
+    "timestamp_local": 1755978366
+  },
+  {
     "id": 28034,
     "fecha": "23 de Aug del 2025 a las 03:44 PM",
     "hora_utc": "2025-08-23 19:44",
@@ -11,7 +51,7 @@
     "id": 28033,
     "fecha": "23 de Aug del 2025 a las 03:28 PM",
     "hora_utc": "2025-08-23 19:28",
-    "mensaje": "⚡Disparo de la linea 6375 por tormenta \nMunicipio Santa Clara\n⚡Cto 7 (Universidad)  \n👉Cto 146 (Elevado Aeropuerto) \n👉Cto 22 (Construcciones Textil)\n⚡Cto 131 (Las Antillas)\n👉Cto 153 (EIDE)",
+    "mensaje": "⚡Disparo de la linea 6375 por tormenta \nMunicipio Santa Clara\n👉Cto 7 (Universidad)  \n👉Cto 146 (Elevado Aeropuerto) \n👉Cto 22 (Construcciones Textil)\n👉Cto 131 (Las Antillas)\n👉Cto 153 (EIDE)\n👉Cto 24 planta Asfalto\n👉Cto 35 Biotecnología\n👉Cto 25 Los Guiros",
     "timestamp": 1755977300,
     "timestamp_local": 1755977300
   },
@@ -110,45 +150,5 @@
     "mensaje": "💡Restablecido el servicio eléctrico en el circuito 170 Gran Panel (José Marti).",
     "timestamp": 1755967291,
     "timestamp_local": 1755967291
-  },
-  {
-    "id": 28019,
-    "fecha": "23 de Aug del 2025 a las 12:37 PM",
-    "hora_utc": "2025-08-23 16:37",
-    "mensaje": "🛠️ Disparo del circuito 170 Gran Panel (José Marti) perteneciente al municipio de Santa Clara, se desconocen las causas.",
-    "timestamp": 1755967022,
-    "timestamp_local": 1755967022
-  },
-  {
-    "id": 28018,
-    "fecha": "23 de Aug del 2025 a las 12:26 PM",
-    "hora_utc": "2025-08-23 16:26",
-    "mensaje": "⚠️Afectados por déficit de generación los siguientes circuitos: \n🔹Bloque 11 \n\nMunicipio Quemado:                                                                                                        👉Ctos 164, 52 y 53 Quemado.",
-    "timestamp": 1755966364,
-    "timestamp_local": 1755966364
-  },
-  {
-    "id": 28017,
-    "fecha": "23 de Aug del 2025 a las 12:23 PM",
-    "hora_utc": "2025-08-23 16:23",
-    "mensaje": "✍️Clientes del municipio de Santo Domingo pertenecientes al bloque 2 Linea 1720 debido a una condición técnica imprevista en la subestación no podrá ser restablecido en el horario establecido según su planificación. Brigadas de nuestra empresa se dirigen al lugar para reparar y restablecer en el menor tiempo posible.\n🔹Municipio Santo Domingo:\n👉Cto 195 Batey George Washington\n👉Ctos 83 y 165 Manacas\n👉Ctos 85 y 86 Pajarito\n👉Ctos 160 y 161 Cascajal",
-    "timestamp": 1755966192,
-    "timestamp_local": 1755966192
-  },
-  {
-    "id": 28016,
-    "fecha": "23 de Aug del 2025 a las 12:12 PM",
-    "hora_utc": "2025-08-23 16:12",
-    "mensaje": "💡Serán restablecidos los siguientes circuitos:     \n🔹Bloque 2\nMunicipio Camajuaní:\n👉Ctos 72, 129 Camajuaní\n👉Cto 75 La Quinta\n👉Cto 157 Luis Arcos Bergnes\n👉Ctos 76 y 90 Vega Alta \n🔹Municipio Cifuentes:\n👉Ctos 114 y 117\n👉Ctos 116 y 155 Mata\n👉Cto 186 Batey Unidad Proletaria\n👉Cto 184 Sitio Grande\n🔹Municipio Santo Domingo:\n👉Cto 195 Batey George Washington\n👉Ctos 83 y 165 Manacas\n👉Ctos 85 y 86 Pajarito\n👉Ctos 160 y 161 Cascajal",
-    "timestamp": 1755965558,
-    "timestamp_local": 1755965558
-  },
-  {
-    "id": 28015,
-    "fecha": "23 de Aug del 2025 a las 12:07 PM",
-    "hora_utc": "2025-08-23 16:07",
-    "mensaje": "🕛Actualización del servicio eléctrico en las últimas 6 horas.\n👉El déficit de capacidad de generación osciló entre los 83 MW y los 115 MW.\n👉En el momento de esta nota, se mantienen afectados 131 circuitos.\n 👉Cuenta con 103 afectaciones por averías secundarias y de servicio:\n Cifuentes (2)\n Corralillo (7)\n Encrucijada (8)\n Manicaragua (7)\n Placetas (5)\n Quemado (1)\n Ranchuelo (18)\n Remedios (6) \n Sagua (12) \nSanta Clara (19)\n Santo Domingo (20)\n🛠️Se encuentran 13 averías en vías de solución.\n🛠️Pendientes a solucionar por el área técnica 12.\n⚡Averías\n👉Circuito 55 Rancho Veloz de manera parcial  por primario partido ,brigadas de nuestra empresa se encuentran en el lugar trabajando.\n👉Circuito 196 Panchito afectado de manera parcial, se estudian las causas.",
-    "timestamp": 1755965260,
-    "timestamp_local": 1755965260
   }
 ]
