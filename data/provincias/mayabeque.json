@@ -1,5 +1,21 @@
 [
   {
+    "id": 86711,
+    "fecha": "24 de Aug del 2025 a las 07:19 PM",
+    "hora_utc": "2025-08-24 23:19",
+    "mensaje": "🔷Restablecido el servicio en el circuito 2495 que se encontraba disparado por tormenta 🔷",
+    "timestamp": 1756077565,
+    "timestamp_local": 1756077565
+  },
+  {
+    "id": 86710,
+    "fecha": "24 de Aug del 2025 a las 07:14 PM",
+    "hora_utc": "2025-08-24 23:14",
+    "mensaje": "♦️ Afectado el servicio en el circuito Flor de Itabo por disparo en las líneas ♦️",
+    "timestamp": 1756077258,
+    "timestamp_local": 1756077258
+  },
+  {
     "id": 86709,
     "fecha": "24 de Aug del 2025 a las 06:51 PM",
     "hora_utc": "2025-08-24 22:51",
@@ -19,7 +35,7 @@
     "id": 86707,
     "fecha": "24 de Aug del 2025 a las 06:44 PM",
     "hora_utc": "2025-08-24 22:44",
-    "mensaje": "📣♦️Afectado nuevamente por vía libre el servicio en el circuito Güines - 3 que se encontraba restablecido por manipulación♦️📣",
+    "mensaje": "📣♦️Afectado por déficit de capacidad de generación el servicio en el circuito Güines - 3 que se encontraba restablecido por manipulación♦️📣",
     "timestamp": 1756075493,
     "timestamp_local": 1756075493
   },
@@ -118,13 +134,5 @@
     "mensaje": "🚨Por déficit de capacidad de generación se afecta el servicio en los  siguientes circuitos:\n*5 y 7 de San José 🚨",
     "timestamp": 1756071147,
     "timestamp_local": 1756071147
-  },
-  {
-    "id": 86690,
-    "fecha": "24 de Aug del 2025 a las 05:28 PM",
-    "hora_utc": "2025-08-24 21:28",
-    "mensaje": "♦️ Afectado el servicio en el circuito 3140 por disparo por DAF♦️",
-    "timestamp": 1756070912,
-    "timestamp_local": 1756070912
   }
 ]
