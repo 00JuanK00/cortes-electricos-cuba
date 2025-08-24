@@ -1,11 +1,43 @@
 [
   {
-    "id": 31476,
-    "fecha": "24 de Aug del 2025 a las 03:42 AM",
-    "hora_utc": "2025-08-24 07:42",
-    "mensaje": "‼️ Deficit de Generación ‼️   \n👉  Tenemos afectados 56 MW en la provincia por déficit de generación.\n\n⏰ Reiteramos que los circuitos se afectarán o se restablecerán en dependencia del déficit solicitado en cada momento de la jornada que es muy variable.",
-    "timestamp": 1756021347,
-    "timestamp_local": 1756021347
+    "id": 31481,
+    "fecha": "24 de Aug del 2025 a las 04:33 AM",
+    "hora_utc": "2025-08-24 08:33",
+    "mensaje": "‼️ Deficit de Generación ‼️   \n👉  Tenemos 78 MW en la provincia por déficit de generación.\n\n⏰ Reiteramos que los circuitos se afectarán o se restablecerán en dependencia del déficit solicitado en cada momento de la jornada que es muy variable.",
+    "timestamp": 1756024437,
+    "timestamp_local": 1756024437
+  },
+  {
+    "id": 31480,
+    "fecha": "24 de Aug del 2025 a las 04:33 AM",
+    "hora_utc": "2025-08-24 08:33",
+    "mensaje": "👉 Restablecidos los circuitos que estaban afectados por el DAF.",
+    "timestamp": 1756024381,
+    "timestamp_local": 1756024381
+  },
+  {
+    "id": 31479,
+    "fecha": "24 de Aug del 2025 a las 04:14 AM",
+    "hora_utc": "2025-08-24 08:14",
+    "mensaje": "❌Un Disparo Automática por Frecuencia (DAF) es una protección que posee el sistema eléctrico para cuando la frecuencia llega a valores mínimos permisibles que ponen en peligro la estabilidad de todo el sistema en su conjunto y provoca una desconexión automática de algunos circuitos hasta que esta vuelva a recuperar su valor nominal a 60 Hz o ciclos por segundo. Esto ocurre al salir de forma imprevista o repentina una planta generadora con una potencia determinada y el sistema en su conjunto necesita liberar esa carga hasta tanto se puedan recuperar la potencia de generación perdida anteriormente o dar las afectaciones al servicio por déficit de generación.",
+    "timestamp": 1756023249,
+    "timestamp_local": 1756023249
+  },
+  {
+    "id": 31478,
+    "fecha": "24 de Aug del 2025 a las 04:13 AM",
+    "hora_utc": "2025-08-24 08:13",
+    "mensaje": "🔊Información 🔊\n\n🚨DAF (Disparo por aumento de frecuencia)🚨\n\n📍Se encuentran afectados por el DAF los circuitos: 📍\n\n👉 Turiguanó, San Fernando, Patria y Nereida.",
+    "timestamp": 1756023218,
+    "timestamp_local": 1756023218
+  },
+  {
+    "id": 31477,
+    "fecha": "24 de Aug del 2025 a las 04:11 AM",
+    "hora_utc": "2025-08-24 08:11",
+    "mensaje": "‼️ Deficit de Generación ‼️   \n👉  Tenemos 65 MW en la provincia por déficit de generación.\n\n⏰ Reiteramos que los circuitos se afectarán o se restablecerán en dependencia del déficit solicitado en cada momento de la jornada que es muy variable.",
+    "timestamp": 1756023114,
+    "timestamp_local": 1756023114
   },
   {
     "id": 31475,
@@ -126,37 +158,5 @@
     "mensaje": "‼️ Déficit de Generación ‼️   \n👉  Tenemos afectados 45 MW en la provincia por déficit de generación.\n\n\n⏰ Reiteramos que los circuitos se afectarán o se restablecerán en dependencia del déficit solicitado en cada momento de la jornada que es muy variable.",
     "timestamp": 1755967876,
     "timestamp_local": 1755967876
-  },
-  {
-    "id": 31460,
-    "fecha": "23 de Aug del 2025 a las 11:44 AM",
-    "hora_utc": "2025-08-23 15:44",
-    "mensaje": "‼️ Déficit de Generación ‼️   \n👉  Tenemos afectados 55 MW en la provincia por déficit de generación.\n\n💥Se afectan los  siguientes circuito: \n👉 A102, A106.\n\n⏰ Reiteramos que los circuitos se afectarán o se restablecerán en dependencia del déficit solicitado en cada momento de la jornada que es muy variable.",
-    "timestamp": 1755963881,
-    "timestamp_local": 1755963881
-  },
-  {
-    "id": 31459,
-    "fecha": "23 de Aug del 2025 a las 11:37 AM",
-    "hora_utc": "2025-08-23 15:37",
-    "mensaje": "✅ Información.\n👉 Se están realizando manipulaciones en el circuito 2 para restablecer una parte afectada, Calle Cuba /  Simón Reyes y Maceo le ofrecemos disculpas por las molestias ocasionadas.",
-    "timestamp": 1755963439,
-    "timestamp_local": 1755963439
-  },
-  {
-    "id": 31458,
-    "fecha": "23 de Aug del 2025 a las 11:19 AM",
-    "hora_utc": "2025-08-23 15:19",
-    "mensaje": "‼️ Déficit de Generación ‼️   \n👉  Tenemos afectados 45 MW en la provincia por déficit de generación.\n\n💥Se afecta el siguientes circuito: \n👉 Turiguanó.\n\n⏰ Reiteramos que los circuitos se afectarán o se restablecerán en dependencia del déficit solicitado en cada momento de la jornada que es muy variable.",
-    "timestamp": 1755962345,
-    "timestamp_local": 1755962345
-  },
-  {
-    "id": 31457,
-    "fecha": "23 de Aug del 2025 a las 10:53 AM",
-    "hora_utc": "2025-08-23 14:53",
-    "mensaje": "✅ Información.\n👉 Se encuentra sin servicio del circuito Cítrico II, Loma de la Carolina y lugares aledaños por primario en el suelo, se trabaja para restablecer el servicio en el menor tiempo posible.",
-    "timestamp": 1755960833,
-    "timestamp_local": 1755960833
   }
 ]
