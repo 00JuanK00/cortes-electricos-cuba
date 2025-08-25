@@ -1,5 +1,21 @@
 [
   {
+    "id": 28166,
+    "fecha": "25 de Aug del 2025 a las 03:08 AM",
+    "hora_utc": "2025-08-25 07:08",
+    "mensaje": "💡Será restablecido el servicio eléctrico en los siguientes circuitos:\n🔸Bloque 2\nMunicipio Santo Domingo:\nCto 195 Batey George Washington\nCtos 83 y 165 Manacas\nCtos 85 y 86 Pajarito\nCtos 160 y 161 Cascajal",
+    "timestamp": 1756105684,
+    "timestamp_local": 1756105684
+  },
+  {
+    "id": 28165,
+    "fecha": "25 de Aug del 2025 a las 03:06 AM",
+    "hora_utc": "2025-08-25 07:06",
+    "mensaje": "Afectados 119 MW en la provincia, demanda máxima a apagar en estos momentos.",
+    "timestamp": 1756105565,
+    "timestamp_local": 1756105565
+  },
+  {
     "id": 28163,
     "fecha": "25 de Aug del 2025 a las 02:02 AM",
     "hora_utc": "2025-08-25 06:02",
@@ -134,13 +150,5 @@
     "mensaje": "‼️Ante cualquier duda con la terminología eléctrica, les volvemos explicar:    \n✍️Las averías pueden ser:\n👉Primarias (afecta un volumen grande de población pues son las líneas de distribución a 13.8kV y puede afectar varias manzanas, incluso repartos completos)\n👉Secundarias (afecta a todos los clientes que se alimenten del mismo transformador, puede afectar una o varias cuadras). \n👉De servicio (afectan 1 solo cliente o instalación generalmente producto a daños en la acometida, metro contador, etc.).",
     "timestamp": 1756084980,
     "timestamp_local": 1756084980
-  },
-  {
-    "id": 28146,
-    "fecha": "24 de Aug del 2025 a las 09:00 PM",
-    "hora_utc": "2025-08-25 01:00",
-    "mensaje": "Afectados 156 MW en la provincia, demanda máxima a apagar en estos momentos.",
-    "timestamp": 1756083645,
-    "timestamp_local": 1756083645
   }
 ]
