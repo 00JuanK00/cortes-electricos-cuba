@@ -1,5 +1,21 @@
 [
   {
+    "id": 28297,
+    "fecha": "26 de Aug del 2025 a las 06:30 PM",
+    "hora_utc": "2025-08-26 22:30",
+    "mensaje": "⚠️Afectados por déficit de generación los circuitos siguientes:\n🔹Bloque 3\n👉Municipio Santa Clara:\nCto 166 (Condado)\nCto 167 (Virginia)\nCto 170 (José Martí)",
+    "timestamp": 1756247416,
+    "timestamp_local": 1756247416
+  },
+  {
+    "id": 28296,
+    "fecha": "26 de Aug del 2025 a las 06:24 PM",
+    "hora_utc": "2025-08-26 22:24",
+    "mensaje": "⚠️Afectados por déficit de generación los siguientes circuitos:\n🔹Bloque 7\n👉Municipio Ranchuelo: \nCtos 89, 97, 188 y 189\nCtos 148 y 149 San Juan\nCto 91 Batey Osvaldo Herrera\nCto 181 Batey Ifraín Alfonso\n🔹Bloque 11\n👉Municipio Quemado:\nCtos 164, 52 y 53 Quemado.\nCto 196 Batey Panchito Gómez Toro.\n👉Municipio Corralillo:\nCto 55 Rancho Veloz",
+    "timestamp": 1756247099,
+    "timestamp_local": 1756247099
+  },
+  {
     "id": 28295,
     "fecha": "26 de Aug del 2025 a las 06:00 PM",
     "hora_utc": "2025-08-26 22:00",
@@ -126,21 +142,5 @@
     "mensaje": "💡Restablecido el servicio eléctrico en el circuito 31 Sakenaf.",
     "timestamp": 1756221661,
     "timestamp_local": 1756221661
-  },
-  {
-    "id": 28277,
-    "fecha": "26 de Aug del 2025 a las 11:17 AM",
-    "hora_utc": "2025-08-26 15:17",
-    "mensaje": "⚡Afectado el circuito 31 Sakenaf, por manipulación.",
-    "timestamp": 1756221453,
-    "timestamp_local": 1756221453
-  },
-  {
-    "id": 28276,
-    "fecha": "26 de Aug del 2025 a las 11:00 AM",
-    "hora_utc": "2025-08-26 15:00",
-    "mensaje": "👉Afectados 96 MW en la provincia, demanda máxima a apagar en estos momentos.",
-    "timestamp": 1756220430,
-    "timestamp_local": 1756220430
   }
 ]
