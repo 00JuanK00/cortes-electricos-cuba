@@ -1,5 +1,29 @@
 [
   {
+    "id": 25089,
+    "fecha": "26 de Aug del 2025 a las 08:50 AM",
+    "hora_utc": "2025-08-26 12:50",
+    "mensaje": "‼️En estos momentos la afectación en la provincia es de 123 MW por déficit de capacidad de generación",
+    "timestamp": 1756212604,
+    "timestamp_local": 1756212604
+  },
+  {
+    "id": 25088,
+    "fecha": "26 de Aug del 2025 a las 08:47 AM",
+    "hora_utc": "2025-08-26 12:47",
+    "mensaje": "Se encuentran afectadas por transformador dañado las siguientes direcciones:\n-Matanzas Planta Granma afectando a 45 clientes.\n-Cárdenas Calzada entre García y López afectando a 40 clientes.\n-Matanzas Versalles San Alejandro entre Glorieta y Santa Matilde afectando a 60 clientes.\n-Agramonte Calle Matilde afectando a 7 clientes.",
+    "timestamp": 1756212435,
+    "timestamp_local": 1756212435
+  },
+  {
+    "id": 25087,
+    "fecha": "26 de Aug del 2025 a las 08:36 AM",
+    "hora_utc": "2025-08-26 12:36",
+    "mensaje": "En avería Circuito MK1502 en Agüica, Colón, Ramal de Los Moya, por conductores partidos por tormenta.",
+    "timestamp": 1756211766,
+    "timestamp_local": 1756211766
+  },
+  {
     "id": 25086,
     "fecha": "26 de Aug del 2025 a las 08:05 AM",
     "hora_utc": "2025-08-26 12:05",
@@ -134,29 +158,5 @@
     "mensaje": "‼️En estos momentos tenemos afectados por déficit de capacidad de generación 131 MW en la provincia.",
     "timestamp": 1756155864,
     "timestamp_local": 1756155864
-  },
-  {
-    "id": 25069,
-    "fecha": "25 de Aug del 2025 a las 04:26 PM",
-    "hora_utc": "2025-08-25 20:26",
-    "mensaje": "‼️En estos momentos tenemos afectados por déficit de capacidad de generación 128 MW en la provincia.",
-    "timestamp": 1756153615,
-    "timestamp_local": 1756153615
-  },
-  {
-    "id": 25068,
-    "fecha": "25 de Aug del 2025 a las 03:42 PM",
-    "hora_utc": "2025-08-25 19:42",
-    "mensaje": "‼️En estos momentos tenemos afectados por déficit de capacidad de generación 118 MW en la provincia.",
-    "timestamp": 1756150935,
-    "timestamp_local": 1756150935
-  },
-  {
-    "id": 25067,
-    "fecha": "25 de Aug del 2025 a las 03:26 PM",
-    "hora_utc": "2025-08-25 19:26",
-    "mensaje": "✔️Servicio Restablecido: Circuitos 4940; MI1406 y MI1410",
-    "timestamp": 1756149972,
-    "timestamp_local": 1756149972
   }
 ]
