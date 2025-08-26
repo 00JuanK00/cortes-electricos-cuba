@@ -1,5 +1,21 @@
 [
   {
+    "id": 28276,
+    "fecha": "26 de Aug del 2025 a las 11:00 AM",
+    "hora_utc": "2025-08-26 15:00",
+    "mensaje": "👉Afectados 96 MW en la provincia, demanda máxima a apagar en estos momentos.",
+    "timestamp": 1756220430,
+    "timestamp_local": 1756220430
+  },
+  {
+    "id": 28275,
+    "fecha": "26 de Aug del 2025 a las 10:50 AM",
+    "hora_utc": "2025-08-26 14:50",
+    "mensaje": "💡Restablecido el servicio eléctrico en los circuitos afectados por disparo por 110 kV quedando afectadas por avería las siguientes Líneas:\n🔹Línea 1380\n👉Municipio Caibarién:\nCtos 61, 62 \n🔹Línea 1375\n👉Municipio Caibarién\nCtos 63 y 64\nCtos 182 y 183 Van Troi\n🔹Línea 1365\n👉Municipio Remedios:\nCtos 67 y 152, 68 y 118 \nCtos 69 y 70 Zuluetas\nCto 143 Batey Heriberto Duquesne\nCto 71 Buena Vista",
+    "timestamp": 1756219846,
+    "timestamp_local": 1756219846
+  },
+  {
     "id": 28274,
     "fecha": "26 de Aug del 2025 a las 10:32 AM",
     "hora_utc": "2025-08-26 14:32",
@@ -134,21 +150,5 @@
     "mensaje": "⚠️ Afectados por déficit de capacidad de generación los siguientes circuitos\n\n🔹Bloque 4\nMunicipio Camajuaní:\n👉Ctos 77, 59 y 185 Vueltas",
     "timestamp": 1756201526,
     "timestamp_local": 1756201526
-  },
-  {
-    "id": 28255,
-    "fecha": "26 de Aug del 2025 a las 05:33 AM",
-    "hora_utc": "2025-08-26 09:33",
-    "mensaje": "Afectados 106 MW en la provincia, demanda máxima a apagar en estos momentos.",
-    "timestamp": 1756200797,
-    "timestamp_local": 1756200797
-  },
-  {
-    "id": 28254,
-    "fecha": "26 de Aug del 2025 a las 04:06 AM",
-    "hora_utc": "2025-08-26 08:06",
-    "mensaje": "🔸Actualización del servicio eléctrico en la provincia🔸\n✍️Se mantienen afectados en la provincia 151 circuitos.\n✍️En el momento de hacer esta nota la provincia tiene 116 MW de afectación por déficit de capacidad de generación, demanda máxima posible a apagar.\n✍️Cuenta con 124 afectaciones por averías secundarias y de servicio",
-    "timestamp": 1756195605,
-    "timestamp_local": 1756195605
   }
 ]
