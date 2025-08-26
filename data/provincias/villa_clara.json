@@ -1,5 +1,37 @@
 [
   {
+    "id": 28264,
+    "fecha": "26 de Aug del 2025 a las 06:36 AM",
+    "hora_utc": "2025-08-26 10:36",
+    "mensaje": "Afectados 121 MW en la provincia, demanda máxima a apagar en estos momentos.",
+    "timestamp": 1756204598,
+    "timestamp_local": 1756204598
+  },
+  {
+    "id": 28262,
+    "fecha": "26 de Aug del 2025 a las 06:10 AM",
+    "hora_utc": "2025-08-26 10:10",
+    "mensaje": "💡Restablecido  el servicio eléctrico en los siguientes circuitos:\n\n🔹Bloque 4\nMunicipio Camajuaní:\n👉Ctos 77, 59 y 185 Vueltas",
+    "timestamp": 1756203009,
+    "timestamp_local": 1756203009
+  },
+  {
+    "id": 28261,
+    "fecha": "26 de Aug del 2025 a las 06:05 AM",
+    "hora_utc": "2025-08-26 10:05",
+    "mensaje": "📣Recordamos a nuestros clientes📣\n \n1. Si presenta o conoce alguna avería, haga su reporte al Centro de Atención Telefónico mediante el 18888, estamos a su servicio.\n2. Conocer de forma exacta la dirección de su vivienda (número de casa, calle, entre calles, reparto, localidad)\n3. Ubicar un punto de referencia, que permita llegar hasta su vivienda con mayor rapidez (lugar o persona reconocida en la zona)\n4. En caso de un cable caído, aunque usted crea que no está energizado, NO LO TOQUE. Repórtelo y preserve el lugar, hasta que llegue el personal de la Empresa.\n5. Anote el número de su reporte para ser utilizado en caso de reclamaciones, o para comprobar el estado del mismo.\n6. Si usted tiene servicio eléctrico, pero existen variaciones del voltaje, desconecte los equipos, para que no se dañen.",
+    "timestamp": 1756202731,
+    "timestamp_local": 1756202731
+  },
+  {
+    "id": 28259,
+    "fecha": "26 de Aug del 2025 a las 06:03 AM",
+    "hora_utc": "2025-08-26 10:03",
+    "mensaje": "🕕Actualización del servicio eléctrico en las últimas 6 horas.\n\n✍️El déficit de capacidad de generación osciló entre los 164 MW y los 106 MW.\n✍️En el momento de esta nota, se mantienen afectados 140 circuitos.\n✍️ Cuenta con 126 afectaciones por averías secundarias y de servicio:\n Corralillo (10)\n Encrucijada (3)\n Manicaragua (9)\nRanchuelo (8)\n Remedios (13)\n Santa Clara (51)\n Santo Domingo (5)\n🛠️Se encuentran 4 averías en vías de solución.\n🛠️Pendientes a solucionar por el área técnica 23.\n✅La provincia no presenta averías primarias.",
+    "timestamp": 1756202636,
+    "timestamp_local": 1756202636
+  },
+  {
     "id": 28258,
     "fecha": "26 de Aug del 2025 a las 05:52 AM",
     "hora_utc": "2025-08-26 09:52",
@@ -118,45 +150,5 @@
     "mensaje": "💡Restablecido  el servicio eléctrico en los siguientes circuitos:\nMunicipio Santa Clara➡️Línea 6375\n👉Cto 7 (Universidad)  \n👉Cto 146 (Elevado Aeropuerto) \n👉Cto 22 (Construcciones Textil)\n👉Cto 131 (Las Antillas)\n\n👉Cto 153 (EIDE)\n➡️Línea 1780\nMunicipio Santa Clara:\n👉Ctos 23 y 130 La Ceniza\n👉Cto 42 Manajanabo\nMunicipio Placetas\n👉Cto 139 Miller\n👉Cto 190 Oliver\n👉Cto 106 Falcón",
     "timestamp": 1756184266,
     "timestamp_local": 1756184266
-  },
-  {
-    "id": 28243,
-    "fecha": "26 de Aug del 2025 a las 12:22 AM",
-    "hora_utc": "2025-08-26 04:22",
-    "mensaje": "💡Restablecido  el servicio eléctrico en los siguientes circuitos:\n👉Cto 30 Santa Clara Industrial\n👉Cto 31 Santa Clara Industrial",
-    "timestamp": 1756182172,
-    "timestamp_local": 1756182172
-  },
-  {
-    "id": 28242,
-    "fecha": "26 de Aug del 2025 a las 12:15 AM",
-    "hora_utc": "2025-08-26 04:15",
-    "mensaje": "💡Restablecido  el servicio eléctrico en los siguientes circuitos:\n👉Cto 132 Santa Clara Industrial\n👉Cto 162 Santa Clara Industrial",
-    "timestamp": 1756181710,
-    "timestamp_local": 1756181710
-  },
-  {
-    "id": 28241,
-    "fecha": "26 de Aug del 2025 a las 12:03 AM",
-    "hora_utc": "2025-08-26 04:03",
-    "mensaje": "⚠️ Afectados por déficit de capacidad de generación los siguientes circuitos\n\n🔹Bloque 1\nMunicipio Manicaragua:\n👉Ctos 109 y 150\n👉Ctos 108 y 110 La Piedra\n👉Cto 111 Mataguá",
-    "timestamp": 1756181036,
-    "timestamp_local": 1756181036
-  },
-  {
-    "id": 28240,
-    "fecha": "26 de Aug del 2025 a las 12:00 AM",
-    "hora_utc": "2025-08-26 04:00",
-    "mensaje": "💡Restablecido  el servicio eléctrico en el siguiente circuito:\n\nMunicipio Santa Clara\n👉Cto 3 (Consejo Centro)",
-    "timestamp": 1756180800,
-    "timestamp_local": 1756180800
-  },
-  {
-    "id": 28239,
-    "fecha": "25 de Aug del 2025 a las 11:57 PM",
-    "hora_utc": "2025-08-26 03:57",
-    "mensaje": "💡Restablecido  el servicio eléctrico en el siguiente circuito:\nMunicipio Santa Clara\n👉Cto 194 Santa Clara Industrial(Hospitales)",
-    "timestamp": 1756180665,
-    "timestamp_local": 1756180665
   }
 ]
