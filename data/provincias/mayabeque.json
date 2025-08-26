@@ -1,5 +1,21 @@
 [
   {
+    "id": 86925,
+    "fecha": "26 de Aug del 2025 a las 01:52 PM",
+    "hora_utc": "2025-08-26 17:52",
+    "mensaje": "♦️ Afectado el servicio en el circuito 2315 por manipulación ♦️",
+    "timestamp": 1756230767,
+    "timestamp_local": 1756230767
+  },
+  {
+    "id": 86924,
+    "fecha": "26 de Aug del 2025 a las 01:51 PM",
+    "hora_utc": "2025-08-26 17:51",
+    "mensaje": "🔷♦️Se restablece el servicio en el siguiente circuito que se encontraba afectado por déficit de capacidad de generación:\n* 3655 ♦️🔷\n\n♦️ Quedando afectado el servicio en el circuito Río Seco por avería ♦️",
+    "timestamp": 1756230672,
+    "timestamp_local": 1756230672
+  },
+  {
     "id": 86923,
     "fecha": "26 de Aug del 2025 a las 01:34 PM",
     "hora_utc": "2025-08-26 17:34",
@@ -110,21 +126,5 @@
     "mensaje": "📢 Nota Informativa - Situación del SEN al 26 de agosto de 2025\n\nEn el día de ayer se afectó el servicio las 24 horas y se mantuvo afectado durante toda la madrugada de hoy. La máxima afectación por déficit de capacidad de generación en el día de ayer fue de 1709 MW a las 20:30 horas, no coincidente con la hora de máxima demanda. \n\n☀️ Producción de energía de los 25 parques solares fotovoltaicos: 2613 MWh, con 552 MW como máxima potencia entregada en el horario de la media.\n\n🔧 Estado actual:\nDisponibilidad: 2130 MW.\nDemanda: 3345 MW.\nAfectación actual: 1235 MW. \nPronóstico para el mediodía: 1320 MW afectados.\n\n🔴 Pronóstico para el horario pico:\n\nSe proyecta una disponibilidad de 2230 MW y una demanda de 3800 MW, lo que generaría un déficit de 1590, para una afectación de 1660 MW.\n\nMás detalles en 👇\nhttps://www.unionelectrica.cu/nota-informativa/\n\n#NotaInformativa #UNE #SEN #UnidosXCuba #UniónEléctrica",
     "timestamp": 1756212300,
     "timestamp_local": 1756212300
-  },
-  {
-    "id": 86905,
-    "fecha": "26 de Aug del 2025 a las 08:36 AM",
-    "hora_utc": "2025-08-26 12:36",
-    "mensaje": "🚨 Pasa a quedar afectado el servicio por déficit de capacidad de generación en el circuito 3655 🚨",
-    "timestamp": 1756211783,
-    "timestamp_local": 1756211783
-  },
-  {
-    "id": 86904,
-    "fecha": "26 de Aug del 2025 a las 08:34 AM",
-    "hora_utc": "2025-08-26 12:34",
-    "mensaje": "♦️ Afectado el servicio en el circuito 3655 por disparo en las líneas ♦️",
-    "timestamp": 1756211652,
-    "timestamp_local": 1756211652
   }
 ]
