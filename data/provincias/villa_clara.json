@@ -1,5 +1,29 @@
 [
   {
+    "id": 28242,
+    "fecha": "26 de Aug del 2025 a las 12:15 AM",
+    "hora_utc": "2025-08-26 04:15",
+    "mensaje": "💡Restablecido  el servicio eléctrico en los siguientes circuitos:\n👉Cto 132 Santa Clara Industrial\n👉Cto 162 Santa Clara Industrial",
+    "timestamp": 1756181710,
+    "timestamp_local": 1756181710
+  },
+  {
+    "id": 28241,
+    "fecha": "26 de Aug del 2025 a las 12:03 AM",
+    "hora_utc": "2025-08-26 04:03",
+    "mensaje": "⚠️ Afectados por déficit de capacidad de generación los siguientes circuitos\n\n🔹Bloque 1\nMunicipio Manicaragua:\n👉Ctos 109 y 150\n👉Ctos 108 y 110 La Piedra\n👉Cto 111 Mataguá",
+    "timestamp": 1756181036,
+    "timestamp_local": 1756181036
+  },
+  {
+    "id": 28240,
+    "fecha": "26 de Aug del 2025 a las 12:00 AM",
+    "hora_utc": "2025-08-26 04:00",
+    "mensaje": "💡Restablecido  el servicio eléctrico en el siguiente circuito:\n\nMunicipio Santa Clara\n👉Cto 3 (Consejo Centro)",
+    "timestamp": 1756180800,
+    "timestamp_local": 1756180800
+  },
+  {
     "id": 28239,
     "fecha": "25 de Aug del 2025 a las 11:57 PM",
     "hora_utc": "2025-08-26 03:57",
@@ -134,29 +158,5 @@
     "mensaje": "💡Restablecido  el servicio eléctrico en el siguiente circuito:\nMunicipio Remedios.\n👉Cto 152 (Remedios)",
     "timestamp": 1756167443,
     "timestamp_local": 1756167443
-  },
-  {
-    "id": 28219,
-    "fecha": "25 de Aug del 2025 a las 07:55 PM",
-    "hora_utc": "2025-08-25 23:55",
-    "mensaje": "⚠️ Afectados por déficit de capacidad de generación los siguientes circuitos\n\n🔹Bloque 5\nMunicipio Santo Domingo:\n👉Cto 134 Santo Domingo\n👉Ctos 87 y 96 Bermejal\n👉Cto 187 Batey Carlos Baliño\n👉Cto 82 Ulacia\n👉Cto 84 Rodrigo",
-    "timestamp": 1756166124,
-    "timestamp_local": 1756166124
-  },
-  {
-    "id": 28218,
-    "fecha": "25 de Aug del 2025 a las 07:43 PM",
-    "hora_utc": "2025-08-25 23:43",
-    "mensaje": "💡Restablecido  el servicio eléctrico en los siguientes circuitos:\n🔹Bloque 10\nMunicipio Manicaragua:\n👉Ctos 113 y 137 La Campana\n👉Cto 112 Hoyo Manicaragua\nMunicipio Placetas \n👉Ctos 100 y 151 Placetas",
-    "timestamp": 1756165393,
-    "timestamp_local": 1756165393
-  },
-  {
-    "id": 28217,
-    "fecha": "25 de Aug del 2025 a las 07:01 PM",
-    "hora_utc": "2025-08-25 23:01",
-    "mensaje": "⚠️Quedan afectados por deficit de capacidad de generación los siguientes circuitos\nMunicipio Placetas:\n🔹Bloque 9\nCto 101 y 145 Cumbre\n🔹Bloque 10\nMunicipio Placetas \n👉Ctos 100 y 151 Placetas\n🔹Bloque 3\n👉Cto 192 Benito Juárez\n👉Cto 102 Peroti",
-    "timestamp": 1756162875,
-    "timestamp_local": 1756162875
   }
 ]
