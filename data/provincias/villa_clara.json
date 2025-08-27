@@ -1,5 +1,29 @@
 [
   {
+    "id": 28386,
+    "fecha": "27 de Aug del 2025 a las 05:42 PM",
+    "hora_utc": "2025-08-27 21:42",
+    "mensaje": "💡Restablecido Circuito 13 Zona Industrial.",
+    "timestamp": 1756330923,
+    "timestamp_local": 1756330923
+  },
+  {
+    "id": 28385,
+    "fecha": "27 de Aug del 2025 a las 05:36 PM",
+    "hora_utc": "2025-08-27 21:36",
+    "mensaje": "⚠️ Continúan afectados por déficit de capacidad de generación los siguientes circuitos: \n🔹Bloque 3\nMunicipio Santa Clara\n👉Cto 7 (Universidad)  \n👉Cto 131 (Las Antillas)",
+    "timestamp": 1756330573,
+    "timestamp_local": 1756330573
+  },
+  {
+    "id": 28384,
+    "fecha": "27 de Aug del 2025 a las 05:33 PM",
+    "hora_utc": "2025-08-27 21:33",
+    "mensaje": "⚠️Será afectado por déficit de generación el siguiente circuito:\nBloque 3\n👉Cto 153 (EIDE)",
+    "timestamp": 1756330432,
+    "timestamp_local": 1756330432
+  },
+  {
     "id": 28383,
     "fecha": "27 de Aug del 2025 a las 04:57 PM",
     "hora_utc": "2025-08-27 20:57",
@@ -134,29 +158,5 @@
     "mensaje": "Afectados 124 MW en la provincia, demanda máxima a apagar en estos momentos.",
     "timestamp": 1756317209,
     "timestamp_local": 1756317209
-  },
-  {
-    "id": 28366,
-    "fecha": "27 de Aug del 2025 a las 01:39 PM",
-    "hora_utc": "2025-08-27 17:39",
-    "mensaje": "💡Restablecida linea 108\nMunicipio Ranchuelo:\n👉Cto 93 Esperanza (Campo)\nMunicipio Santa Clara:\n👉Ctos 26 y 141 (Manuelita)\n👉Cto 191 (Quemado de Hilario)",
-    "timestamp": 1756316382,
-    "timestamp_local": 1756316382
-  },
-  {
-    "id": 28365,
-    "fecha": "27 de Aug del 2025 a las 01:19 PM",
-    "hora_utc": "2025-08-27 17:19",
-    "mensaje": "💡Restablecido circuito 30 SC Industrial.",
-    "timestamp": 1756315141,
-    "timestamp_local": 1756315141
-  },
-  {
-    "id": 28364,
-    "fecha": "27 de Aug del 2025 a las 01:10 PM",
-    "hora_utc": "2025-08-27 17:10",
-    "mensaje": "⚠️ Afectados por déficit de generación los circuitos siguientes:\n🔹Bloque 10\nMunicipio Placetas  \n👉Ctos 100 y 151 Placetas\n👉Cto 104 Hermanos Amejeiras\n👉Cto 103 Batey Carbó Servía",
-    "timestamp": 1756314655,
-    "timestamp_local": 1756314655
   }
 ]
