@@ -1,5 +1,13 @@
 [
   {
+    "id": 43740,
+    "fecha": "28 de Aug del 2025 a las 10:10 AM",
+    "hora_utc": "2025-08-28 14:10",
+    "mensaje": "🔴Déficit de Capacidad de Generación:  \nSe produce cuando la demanda del Sistema Eléctrico Nacional, en determinado horario del día, supera la generación disponible del país, provocando la desconexión de los circuitos o líneas que permitan garantizar la frecuencia del SEN.",
+    "timestamp": 1756390222,
+    "timestamp_local": 1756390222
+  },
+  {
     "id": 43739,
     "fecha": "28 de Aug del 2025 a las 09:34 AM",
     "hora_utc": "2025-08-28 13:34",
@@ -94,21 +102,5 @@
     "mensaje": "🔊🔊Estimados clientes se encuentra afectado por Déficit de Generación la línea 5395 que alimenta San Luis...",
     "timestamp": 1756345104,
     "timestamp_local": 1756345104
-  },
-  {
-    "id": 43721,
-    "fecha": "27 de Aug del 2025 a las 08:23 PM",
-    "hora_utc": "2025-08-28 00:23",
-    "mensaje": "🔴Estimados clientes se encuentra el circuito 20 disparado por DAF..",
-    "timestamp": 1756340613,
-    "timestamp_local": 1756340613
-  },
-  {
-    "id": 43720,
-    "fecha": "27 de Aug del 2025 a las 07:52 PM",
-    "hora_utc": "2025-08-27 23:52",
-    "mensaje": "🔊🔊Se incorpora a la afectación la línea 5390 ,que le da servicio  a La maya-2do Frente....",
-    "timestamp": 1756338760,
-    "timestamp_local": 1756338760
   }
 ]

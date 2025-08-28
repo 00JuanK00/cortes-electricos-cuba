@@ -1,5 +1,13 @@
 [
   {
+    "id": 28443,
+    "fecha": "28 de Aug del 2025 a las 10:14 AM",
+    "hora_utc": "2025-08-28 14:14",
+    "mensaje": "Actualización del servicio eléctrico en la provincia🔸\n✍️Se mantienen afectados en la provincia 131 circuitos.\n✍️En el momento de hacer esta nota la provincia tiene 116 MW de afectación por déficit de capacidad de generación, demanda máxima posible a apagar.\n✍️Cuenta con 136 afectaciones por averías secundarias y de servicio.",
+    "timestamp": 1756390460,
+    "timestamp_local": 1756390460
+  },
+  {
     "id": 28442,
     "fecha": "28 de Aug del 2025 a las 09:59 AM",
     "hora_utc": "2025-08-28 13:59",
@@ -142,13 +150,5 @@
     "mensaje": "💡Restablecido el servicio eléctrico en los siguientes circuitos:\n🔹Boloque 2:\nMunicipio Camajuaní:\n👉Cto 72 y 129 Camajuani\n👉Cto 75 La Quinta\n👉Cto 157 Luis Arcos Bergnes\n👉Ctos 76 y 90 Vega Alta\n🔹Bloque 5:\nMunicipio Santo Domingo:\n👉Cto 134 Santo Domingo\n👉Ctos 87 y 96 Bermejal\n👉Cto 187 Batey Carlos Baliño\n👉Cto 82 Ulacia\n👉Cto 84 Rodrigo",
     "timestamp": 1756376920,
     "timestamp_local": 1756376920
-  },
-  {
-    "id": 28422,
-    "fecha": "28 de Aug del 2025 a las 06:23 AM",
-    "hora_utc": "2025-08-28 10:23",
-    "mensaje": "Disparo automático por frecuencia (DAF). \nUn disparo por frecuencia o Descarga Automática por Frecuencia DAF es una protección que posee el sistema eléctrico para cuando la frecuencia llega a valores mínimos permisibles que ponen en peligro la estabilidad de todo el sistema en su conjunto y provoca una desconexión automática de algunos circuitos hasta que esta vuelva a recuperar su valor nominal a 60 Hz o ciclos por segundo. Esto ocurre al salir de forma imprevista o repentina una planta generadora con una potencia determinada y el sistema en su conjunto necesita liberar esa carga hasta tanto se puedan recuperar la potencia de generación perdida anteriormente o dar las afectaciones al servicio por déficit de generación.",
-    "timestamp": 1756376617,
-    "timestamp_local": 1756376617
   }
 ]
