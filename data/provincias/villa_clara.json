@@ -1,5 +1,13 @@
 [
   {
+    "id": 28442,
+    "fecha": "28 de Aug del 2025 a las 09:59 AM",
+    "hora_utc": "2025-08-28 13:59",
+    "mensaje": "🛠️ Se encuentra afectada  linea 1910 perteneciente al municipio de Placetas por avería en la subestación quedando afectados los siguientes circuitos:\n🔹Municipio Placetas \n👉Cto 99 Placetas\n👉Ctos 100 y 151 Placetas\n👉Cto 104 Hermanos Amejeiras\n👉Cto 103 Batey Carbó Servía",
+    "timestamp": 1756389565,
+    "timestamp_local": 1756389565
+  },
+  {
     "id": 28441,
     "fecha": "28 de Aug del 2025 a las 09:38 AM",
     "hora_utc": "2025-08-28 13:38",
@@ -142,13 +150,5 @@
     "mensaje": "Disparo automático por frecuencia (DAF). \nUn disparo por frecuencia o Descarga Automática por Frecuencia DAF es una protección que posee el sistema eléctrico para cuando la frecuencia llega a valores mínimos permisibles que ponen en peligro la estabilidad de todo el sistema en su conjunto y provoca una desconexión automática de algunos circuitos hasta que esta vuelva a recuperar su valor nominal a 60 Hz o ciclos por segundo. Esto ocurre al salir de forma imprevista o repentina una planta generadora con una potencia determinada y el sistema en su conjunto necesita liberar esa carga hasta tanto se puedan recuperar la potencia de generación perdida anteriormente o dar las afectaciones al servicio por déficit de generación.",
     "timestamp": 1756376617,
     "timestamp_local": 1756376617
-  },
-  {
-    "id": 28421,
-    "fecha": "28 de Aug del 2025 a las 06:22 AM",
-    "hora_utc": "2025-08-28 10:22",
-    "mensaje": "🛠️Disparadas por DAF Lineas 6580 y 1915:\nMunicipio Camajuaní:\n👉Ctos 77, 59 y 185 Vueltas\nMunicipio Placetas:\n👉Cto 192 Benito Juárez\n👉Cto 102 Peroti",
-    "timestamp": 1756376572,
-    "timestamp_local": 1756376572
   }
 ]
