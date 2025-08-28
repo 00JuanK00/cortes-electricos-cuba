@@ -1,5 +1,45 @@
 [
   {
+    "id": 28417,
+    "fecha": "28 de Aug del 2025 a las 01:16 AM",
+    "hora_utc": "2025-08-28 05:16",
+    "mensaje": "💡Restablecido el servicio eléctrico en la linea 861 perteneciente al municipio de Santa Clara.",
+    "timestamp": 1756358174,
+    "timestamp_local": 1756358174
+  },
+  {
+    "id": 28416,
+    "fecha": "28 de Aug del 2025 a las 01:15 AM",
+    "hora_utc": "2025-08-28 05:15",
+    "mensaje": "💡Restablecido el servicio eléctrico en los siguientes circuitos:\n🔹Bloque 4:\nMunicipio Camajuaní:\n👉Ctos 77, 59 y 185 Vueltas",
+    "timestamp": 1756358129,
+    "timestamp_local": 1756358129
+  },
+  {
+    "id": 28415,
+    "fecha": "28 de Aug del 2025 a las 01:12 AM",
+    "hora_utc": "2025-08-28 05:12",
+    "mensaje": "⚠️Afectados por déficit de generación los circuitos siguientes:\n🔹Bloque 2:\nMunicipio Camajuaní:\n👉Cto 72 y 129 Camajuani\n👉Cto 75 La Quinta\n👉Cto 157 Luis Arcos Bergnes\n👉Ctos 76 y 90 Vega Alta",
+    "timestamp": 1756357970,
+    "timestamp_local": 1756357970
+  },
+  {
+    "id": 28414,
+    "fecha": "28 de Aug del 2025 a las 01:06 AM",
+    "hora_utc": "2025-08-28 05:06",
+    "mensaje": "⚠️Afectados por déficit de generación los circuitos siguientes:\n🔹Bloque 1:\nMunicipio Encrucijada\n👉Cto 120 Calabazar\n👉Ctos 121 y 127 Perucho",
+    "timestamp": 1756357603,
+    "timestamp_local": 1756357603
+  },
+  {
+    "id": 28413,
+    "fecha": "28 de Aug del 2025 a las 01:03 AM",
+    "hora_utc": "2025-08-28 05:03",
+    "mensaje": "💡Restablecido el servicio eléctrico en los siguientes circuitos:\n🔹Bloque 3:\nMunicipio Santa Clara:\n👉Cto 166 (Condado)\n👉Cto 167 (Virginia)\n👉Cto 170 (José Martí)\n👉Cto 171 (Los Caneyes)",
+    "timestamp": 1756357421,
+    "timestamp_local": 1756357421
+  },
+  {
     "id": 28412,
     "fecha": "28 de Aug del 2025 a las 12:10 AM",
     "hora_utc": "2025-08-28 04:10",
@@ -118,45 +158,5 @@
     "mensaje": "🛠️Afectada por Emergencia Linea 108  afectando los siguientes ctos:\nMunicipio Ranchuelo:\n👉Cto 92 Esperanza (Pueblo)\n👉Cto 93 Esperanza (Campo)\nMunicipio Santa Clara:\n👉Ctos 26 y 141 (Manuelita)\n👉Cto 191 (Quemado de Hilario)",
     "timestamp": 1756340652,
     "timestamp_local": 1756340652
-  },
-  {
-    "id": 28397,
-    "fecha": "27 de Aug del 2025 a las 08:16 PM",
-    "hora_utc": "2025-08-28 00:16",
-    "mensaje": "💡Restablecido el servicio eléctrico en el Cto 197 de Jumagua.",
-    "timestamp": 1756340189,
-    "timestamp_local": 1756340189
-  },
-  {
-    "id": 28396,
-    "fecha": "27 de Aug del 2025 a las 08:13 PM",
-    "hora_utc": "2025-08-28 00:13",
-    "mensaje": "🛠️Afectado  Cto 37 del Yabu perteneciente al municipio de Santa Clara, se estudian las causas.",
-    "timestamp": 1756340021,
-    "timestamp_local": 1756340021
-  },
-  {
-    "id": 28395,
-    "fecha": "27 de Aug del 2025 a las 08:04 PM",
-    "hora_utc": "2025-08-28 00:04",
-    "mensaje": "⚠️Afectados por déficit de generación los circuitos siguientes:\n🔹Bloque 2:\nMunicipio Camajuaní:\n👉Cto 72 y 129 Camajuani\n👉Cto 75 La Quinta\n👉Cto 157 Luis Arcos Bergnes\n👉Ctos 76 y 90 Vega Alta",
-    "timestamp": 1756339463,
-    "timestamp_local": 1756339463
-  },
-  {
-    "id": 28394,
-    "fecha": "27 de Aug del 2025 a las 08:02 PM",
-    "hora_utc": "2025-08-28 00:02",
-    "mensaje": "💡Restablecido el servicio eléctrico en los siguientes circuitos:\n🔹Bloque 4 :\nMunicipio Encrucijada:\n👉Cto 122 Encrucijada \n👉Cto 123 Vizcaya \n👉Cto 142 Comunidad La Sierra \n👉Cto 126 Batey Emilio Córdova\n👉Cto 125 Cavarrocas\n👉Cto 124 El Santo",
-    "timestamp": 1756339358,
-    "timestamp_local": 1756339358
-  },
-  {
-    "id": 28393,
-    "fecha": "27 de Aug del 2025 a las 08:01 PM",
-    "hora_utc": "2025-08-28 00:01",
-    "mensaje": "Actualización del servicio eléctrico en la provincia🔸\n✍️Se mantienen afectados en la provincia 158 circuitos.\n✍️En el momento de hacer esta nota la provincia tiene 160 MW de afectación por déficit de capacidad de generación, demanda máxima posible a apagar.\n✍️Cuenta con 118 afectaciones por averías secundarias y de servicio",
-    "timestamp": 1756339272,
-    "timestamp_local": 1756339272
   }
 ]
