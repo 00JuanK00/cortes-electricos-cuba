@@ -1,5 +1,21 @@
 [
   {
+    "id": 16439,
+    "fecha": "28 de Aug del 2025 a las 04:45 PM",
+    "hora_utc": "2025-08-28 20:45",
+    "mensaje": "Estimados clientes,\n\nLes informamos que, debido a la actual situación energética del país, nuestra provincia se encuentra operando bajo la máxima capacidad apagable. Esto significa que todos los circuitos eléctricos que pueden ser desconectados temporalmente están siendo utilizados para mantener el equilibrio del sistema nacional.",
+    "timestamp": 1756413911,
+    "timestamp_local": 1756413911
+  },
+  {
+    "id": 16438,
+    "fecha": "28 de Aug del 2025 a las 04:42 PM",
+    "hora_utc": "2025-08-28 20:42",
+    "mensaje": "Finalizada la vía libre por emergencia del circuito TK10",
+    "timestamp": 1756413736,
+    "timestamp_local": 1756413736
+  },
+  {
     "id": 16437,
     "fecha": "28 de Aug del 2025 a las 03:13 PM",
     "hora_utc": "2025-08-28 19:13",
@@ -11,7 +27,7 @@
     "id": 16436,
     "fecha": "28 de Aug del 2025 a las 03:08 PM",
     "hora_utc": "2025-08-28 19:08",
-    "mensaje": "Solucionadas las averías de los circuitos: 6100, TK61, TK40 y la zona del rincón.",
+    "mensaje": "Solucionadas las averías de los circuitos: 6100, TK61, TK40 y la zona del Rincón.",
     "timestamp": 1756408125,
     "timestamp_local": 1756408125
   },
@@ -118,21 +134,5 @@
     "mensaje": "Para el horario pico se estima una disponibilidad de 2080 MW y una demanda máxima de 3780 MW, para un déficit de 1720 MW, por lo que de mantenerse las condiciones previstas se pronostica una afectación de 1790 MW en este horario.",
     "timestamp": 1756328742,
     "timestamp_local": 1756328742
-  },
-  {
-    "id": 16419,
-    "fecha": "27 de Aug del 2025 a las 05:04 PM",
-    "hora_utc": "2025-08-27 21:04",
-    "mensaje": "Se informa a nuestros clientes que dentro de las principales incidencias en la situación electroenergética nacional se encuentran:\n\n3 Centrales Térmicas en Averías: Unidades 3 y 6 de la CTE Renté y Unidad 2 de la CTE Felton.\n\nCentrales Térmica en Mantenimiento: Unidad 2 de la CTE Santa Cruz, Unidad 4 de la CTE Carlos Manuel de Céspedes en Cienfuegos y Unidad 5 de la CTE Renté.\n\nExistencia de Limitaciones térmicas: 427 MW fuera de servicio.\n\nProblemas por falta de combustible\n38 centrales de generación distribuida con 140 MW.",
-    "timestamp": 1756328646,
-    "timestamp_local": 1756328646
-  },
-  {
-    "id": 16418,
-    "fecha": "27 de Aug del 2025 a las 04:57 PM",
-    "hora_utc": "2025-08-27 20:57",
-    "mensaje": "Se informa la existencia de avería en el circuito 6100 Manatí-LasTunas",
-    "timestamp": 1756328246,
-    "timestamp_local": 1756328246
   }
 ]
