@@ -1,5 +1,21 @@
 [
   {
+    "id": 28471,
+    "fecha": "28 de Aug del 2025 a las 04:59 PM",
+    "hora_utc": "2025-08-28 20:59",
+    "mensaje": "Afectados 138 MW en la provincia, demanda máxima a apagar en estos momentos.",
+    "timestamp": 1756414787,
+    "timestamp_local": 1756414787
+  },
+  {
+    "id": 28470,
+    "fecha": "28 de Aug del 2025 a las 04:51 PM",
+    "hora_utc": "2025-08-28 20:51",
+    "mensaje": "⚠️ Afectados por déficit de capacidad de generación los siguientes circuitos:\n🔹Bloque 9\nMunicipio Placetas:\nCto 101 y 145 Cumbre",
+    "timestamp": 1756414263,
+    "timestamp_local": 1756414263
+  },
+  {
     "id": 28469,
     "fecha": "28 de Aug del 2025 a las 04:32 PM",
     "hora_utc": "2025-08-28 20:32",
@@ -134,21 +150,5 @@
     "mensaje": "💡Restablecido el servicio eléctrico en linea 1365.",
     "timestamp": 1756401775,
     "timestamp_local": 1756401775
-  },
-  {
-    "id": 28451,
-    "fecha": "28 de Aug del 2025 a las 01:21 PM",
-    "hora_utc": "2025-08-28 17:21",
-    "mensaje": "⚠️ Serán afectados por déficit de capacidad de generación los siguientes circuitos:\n🔹Bloque 1 \nMunicipio Encrucijada\n\n👉Cto 120 Calabazar\n👉Ctos 121 y 127 Perucho",
-    "timestamp": 1756401665,
-    "timestamp_local": 1756401665
-  },
-  {
-    "id": 28450,
-    "fecha": "28 de Aug del 2025 a las 01:20 PM",
-    "hora_utc": "2025-08-28 17:20",
-    "mensaje": "⚠️ Serán afectados por déficit de capacidad de generación los siguientes circuitos:\n\n🔹Bloque 2\nMunicipio Cifuentes:\n👉Ctos 114 y 117\n👉Ctos 116 y 155 Mata\n👉Cto 186 Batey Unidad Proletaria\n👉Cto 184 Sitio Grande",
-    "timestamp": 1756401606,
-    "timestamp_local": 1756401606
   }
 ]
