@@ -1,5 +1,21 @@
 [
   {
+    "id": 31559,
+    "fecha": "29 de Aug del 2025 a las 07:20 AM",
+    "hora_utc": "2025-08-29 11:20",
+    "mensaje": "✅ Información.\n👉 Se encuentra en fallo el circuito A208, se recorren las lineas para encontrar la avería.",
+    "timestamp": 1756466452,
+    "timestamp_local": 1756466452
+  },
+  {
+    "id": 31558,
+    "fecha": "29 de Aug del 2025 a las 07:12 AM",
+    "hora_utc": "2025-08-29 11:12",
+    "mensaje": "‼️ Déficit de Generación ‼️   \n👉   Tenemos afectados 60 MW en la provincia por déficit de generación.\n⏰ Reiteramos que los circuitos se afectarán o se restablecerán en dependencia del déficit solicitado en cada momento de la jornada que es muy variable.",
+    "timestamp": 1756465977,
+    "timestamp_local": 1756465977
+  },
+  {
     "id": 31557,
     "fecha": "29 de Aug del 2025 a las 02:59 AM",
     "hora_utc": "2025-08-29 06:59",
@@ -142,21 +158,5 @@
     "mensaje": "‼️ Información ‼️\n✅ Se encuentra en fallo el circuito Santana.\n👉Se recorren las líneas para encontrar la causa. \n👉Si usted observa corto circuito en las redes o alguna irregularidad, por favor comuníquelo a través del ☎18888",
     "timestamp": 1756404233,
     "timestamp_local": 1756404233
-  },
-  {
-    "id": 31539,
-    "fecha": "28 de Aug del 2025 a las 01:28 PM",
-    "hora_utc": "2025-08-28 17:28",
-    "mensaje": "‼️ Información ‼️\n👉 Restablecido el servicio eléctrico del circuito A106 en calle Camino Jiquí entre 7ma y 9na.",
-    "timestamp": 1756402095,
-    "timestamp_local": 1756402095
-  },
-  {
-    "id": 31538,
-    "fecha": "28 de Aug del 2025 a las 11:18 AM",
-    "hora_utc": "2025-08-28 15:18",
-    "mensaje": "‼️ Déficit de Generación ‼️   \n👉   Tenemos afectados 60 MW en la provincia por déficit de generación.\n👉 Se afectan los siguientes circuitos:\n💥2, A206, A208, Venezuela, Baraguá, Colorado, Gaspar, La Piña, Venezuela, Júcaro, Morón Sur, San Fernando, Violeta, Pablo, Tres Marías, Velazco, Miraflores, Falla, Ranchuelo, La Juanita y Bolivia. \n⏰ Reiteramos que los circuitos se afectarán o se restablecerán en dependencia del déficit solicitado en cada momento de la jornada que es muy variable.",
-    "timestamp": 1756394299,
-    "timestamp_local": 1756394299
   }
 ]
