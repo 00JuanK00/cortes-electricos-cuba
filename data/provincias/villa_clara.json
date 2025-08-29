@@ -1,5 +1,29 @@
 [
   {
+    "id": 28514,
+    "fecha": "29 de Aug del 2025 a las 10:35 AM",
+    "hora_utc": "2025-08-29 14:35",
+    "mensaje": "📣Recordamos a nuestros clientes📣\n \n1. Si presenta o conoce alguna avería, haga su reporte al Centro de Atención Telefónico mediante el 18888, estamos a su servicio.\n2. Conocer de forma exacta la dirección de su vivienda (número de casa, calle, entre calles, reparto, localidad)\n3. Ubicar un punto de referencia, que permita llegar hasta su vivienda con mayor rapidez (lugar o persona reconocida en la zona)\n4. En caso de un cable caído, aunque usted crea que no está energizado, NO LO TOQUE. Repórtelo y preserve el lugar, hasta que llegue el personal de la Empresa.\n5. Anote el número de su reporte para ser utilizado en caso de reclamaciones, o para comprobar el estado del mismo.\n6. Si usted tiene servicio eléctrico, pero existen variaciones del voltaje, desconecte los equipos, para que no se dañen.",
+    "timestamp": 1756478128,
+    "timestamp_local": 1756478128
+  },
+  {
+    "id": 28513,
+    "fecha": "29 de Aug del 2025 a las 10:20 AM",
+    "hora_utc": "2025-08-29 14:20",
+    "mensaje": "🛠️Manipulación en linea 861 con los siguientes circuitos\nMunicipio Santa Clara:\n👉Cto 5 (Dobarganes)\n👉Cto 17 (Subplanta) \n👉Ctos 37 y 38 (Yabú)   \n👉Cto 9 (Moldes y Troqueles)\n👉Cto 133 (Cafetera)",
+    "timestamp": 1756477243,
+    "timestamp_local": 1756477243
+  },
+  {
+    "id": 28511,
+    "fecha": "29 de Aug del 2025 a las 10:06 AM",
+    "hora_utc": "2025-08-29 14:06",
+    "mensaje": "Actualización del servicio eléctrico en la provincia🔸\n✍️Se mantienen afectados en la provincia 107circuitos.\n✍️En el momento de hacer esta nota la provincia tiene 89 MW de afectación por déficit de capacidad de generación, demanda máxima posible a apagar.\n✍️Cuenta con 108 afectaciones por averías secundarias y de servicio.",
+    "timestamp": 1756476377,
+    "timestamp_local": 1756476377
+  },
+  {
     "id": 28510,
     "fecha": "29 de Aug del 2025 a las 09:19 AM",
     "hora_utc": "2025-08-29 13:19",
@@ -126,29 +150,5 @@
     "mensaje": "Actualización del servicio eléctrico en la provincia🔸\n✍️Se mantienen afectados en la provincia 110 circuitos.\n✍️En el momento de hacer esta nota la provincia tiene 84 MW de afectación por déficit de capacidad de generación, demanda máxima posible a apagar.\n✍️Cuenta con 82 afectaciones por averías secundarias y de servicio.",
     "timestamp": 1756455520,
     "timestamp_local": 1756455520
-  },
-  {
-    "id": 28493,
-    "fecha": "29 de Aug del 2025 a las 03:29 AM",
-    "hora_utc": "2025-08-29 07:29",
-    "mensaje": "⚠️Será afectado por emergencia el Cto 3 Centro perteneciente al municipio Santa Clara.",
-    "timestamp": 1756452552,
-    "timestamp_local": 1756452552
-  },
-  {
-    "id": 28492,
-    "fecha": "29 de Aug del 2025 a las 03:14 AM",
-    "hora_utc": "2025-08-29 07:14",
-    "mensaje": "Afectados 102 MW en la provincia, demanda máxima a apagar en estos momentos.",
-    "timestamp": 1756451674,
-    "timestamp_local": 1756451674
-  },
-  {
-    "id": 28491,
-    "fecha": "29 de Aug del 2025 a las 03:13 AM",
-    "hora_utc": "2025-08-29 07:13",
-    "mensaje": "Ante cualquier duda con la terminología eléctrica, les volvemos explicar: \n     \nLas averías pueden ser primarias (afecta un volumen grande de población pues son las líneas de distribución a 13.8kV y puede afectar varias manzanas, incluso repartos completos).\n\nSecundarias (afecta a todos los clientes que se alimenten del mismo transformador, puede afectar una o varias cuadras). \n\nDe servicio (afectan 1 solo cliente o instalación generalmente producto a daños en la acometida, metro contador, etc.).",
-    "timestamp": 1756451636,
-    "timestamp_local": 1756451636
   }
 ]
