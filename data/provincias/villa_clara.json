@@ -1,5 +1,29 @@
 [
   {
+    "id": 28519,
+    "fecha": "29 de Aug del 2025 a las 12:40 PM",
+    "hora_utc": "2025-08-29 16:40",
+    "mensaje": "💡Restablecido el servicio eléctrico en el circuito 168 (Condado- XX Aniversario) quedando afectado circuito 28 total (Monumento del Che) para retirar transformador.",
+    "timestamp": 1756485600,
+    "timestamp_local": 1756485600
+  },
+  {
+    "id": 28518,
+    "fecha": "29 de Aug del 2025 a las 12:38 PM",
+    "hora_utc": "2025-08-29 16:38",
+    "mensaje": "🕛Actualización del servicio eléctrico en las últimas 6 horas.\nEl déficit de capacidad de generación osciló entre los 84 MW y los 113 MW.\n\nEn el momento de esta nota, se mantienen afectados 117 circuitos.\n Cuenta con 126 afectaciones por averías secundarias y de servicio:\n Camajuaní (3 )\n Cifuentes (1)\n Corralillo (5)\n Encrucijada (4)\n Manicaragua (11)\n Placetas (10)\n Ranchuelo (6)\n Remedios (12) \n Sagua (2) \n Santa Clara (58)\n Santo Domingo (14)\nSe encuentran 10 averías en vías de solución.\nPendientes a solucionar por el área técnica 19.\nLa provincia no presenta averías primarias.",
+    "timestamp": 1756485485,
+    "timestamp_local": 1756485485
+  },
+  {
+    "id": 28517,
+    "fecha": "29 de Aug del 2025 a las 12:20 PM",
+    "hora_utc": "2025-08-29 16:20",
+    "mensaje": "🛠️Manipulación en los siguientes circuitos\n\nMunicipio Santa Clara:\n👉Cto 168 y 28 (Condado- XX Aniversario)",
+    "timestamp": 1756484447,
+    "timestamp_local": 1756484447
+  },
+  {
     "id": 28516,
     "fecha": "29 de Aug del 2025 a las 11:36 AM",
     "hora_utc": "2025-08-29 15:36",
@@ -134,29 +158,5 @@
     "mensaje": "⚠️ Afectados por déficit de capacidad de generación los siguientes circuitos:\n\n🔹Bloque 7\n  Municipio Camajuaní:  \n👉Ctos 73 y 156 \n👉Cto 74 José María Pérez",
     "timestamp": 1756466897,
     "timestamp_local": 1756466897
-  },
-  {
-    "id": 28498,
-    "fecha": "29 de Aug del 2025 a las 06:37 AM",
-    "hora_utc": "2025-08-29 10:37",
-    "mensaje": "🕕Actualización del servicio eléctrico en las últimas 6 horas.\n👉El déficit de capacidad de generación osciló entre los 127 MW y los 84 MW.\n👉En el momento de esta nota, se mantienen afectados 118 circuitos.\n👉Cuenta con 82 afectaciones por averías secundarias y de servicio:Corralillo (9)\nEncrucijada (3)\nManicaragua (5)\nPlacetas (12)\nRemedios (12)\nSanta Clara (33)\nSanto Domingo (10)\n🛠️Pendientes a solucionar por el área técnica 23.\n🛠️La provincia no presenta averías primarias en este momento.",
-    "timestamp": 1756463839,
-    "timestamp_local": 1756463839
-  },
-  {
-    "id": 28497,
-    "fecha": "29 de Aug del 2025 a las 04:34 AM",
-    "hora_utc": "2025-08-29 08:34",
-    "mensaje": "💡Con servicio el Cto 3 Centro perteneciente a Santa Clara.",
-    "timestamp": 1756456471,
-    "timestamp_local": 1756456471
-  },
-  {
-    "id": 28496,
-    "fecha": "29 de Aug del 2025 a las 04:33 AM",
-    "hora_utc": "2025-08-29 08:33",
-    "mensaje": "⚠️Afectado por emergencia línea 861, perteneciente a Santa Clara:\nLínea 861 \nCto 5 (Dobarganes)\nCto 17 (Subplanta) \nCtos 37 y 38 (Yabú)   \nCto 9 (Moldes y Troqueles)\nCto 133 (Cafetera)",
-    "timestamp": 1756456403,
-    "timestamp_local": 1756456403
   }
 ]
