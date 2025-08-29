@@ -1,5 +1,77 @@
 [
   {
+    "id": 87351,
+    "fecha": "29 de Aug del 2025 a las 07:40 PM",
+    "hora_utc": "2025-08-29 23:40",
+    "mensaje": "♦️ Afectado el servicio en el circuito 3140 por avería ♦️",
+    "timestamp": 1756510846,
+    "timestamp_local": 1756510846
+  },
+  {
+    "id": 87350,
+    "fecha": "29 de Aug del 2025 a las 07:29 PM",
+    "hora_utc": "2025-08-29 23:29",
+    "mensaje": "♦️ Afectado el servicio en el circuito Flor de Itabo por disparo en las líneas ♦️",
+    "timestamp": 1756510196,
+    "timestamp_local": 1756510196
+  },
+  {
+    "id": 87349,
+    "fecha": "29 de Aug del 2025 a las 07:27 PM",
+    "hora_utc": "2025-08-29 23:27",
+    "mensaje": "♦️ Afectado el servicio en el circuito Aguacate por avería ♦️",
+    "timestamp": 1756510055,
+    "timestamp_local": 1756510055
+  },
+  {
+    "id": 87348,
+    "fecha": "29 de Aug del 2025 a las 07:20 PM",
+    "hora_utc": "2025-08-29 23:20",
+    "mensaje": "🔷 Restablecido el servicio en el circuito 2440 que se encontraba afectado por tormenta 🔷",
+    "timestamp": 1756509635,
+    "timestamp_local": 1756509635
+  },
+  {
+    "id": 87347,
+    "fecha": "29 de Aug del 2025 a las 07:20 PM",
+    "hora_utc": "2025-08-29 23:20",
+    "mensaje": "📣🚨 Pasa a quedar afectado por déficit de capacidad de generación el siguiente circuito que se encontraba afectado por tormenta:\n*2320🚨📣",
+    "timestamp": 1756509635,
+    "timestamp_local": 1756509635
+  },
+  {
+    "id": 87346,
+    "fecha": "29 de Aug del 2025 a las 07:15 PM",
+    "hora_utc": "2025-08-29 23:15",
+    "mensaje": "📣🚨 Buenas tardes , informamos que se encuentra restablecido el servicio del Centro Telefónico correspondiente al 18888 y sus números alternativos\n\nGracias por su comprensión 🚨📣",
+    "timestamp": 1756509313,
+    "timestamp_local": 1756509313
+  },
+  {
+    "id": 87345,
+    "fecha": "29 de Aug del 2025 a las 07:12 PM",
+    "hora_utc": "2025-08-29 23:12",
+    "mensaje": "🔷 Restablecido el servicio en el circuito 3130 que se encontraba afectado por tormenta 🔷",
+    "timestamp": 1756509157,
+    "timestamp_local": 1756509157
+  },
+  {
+    "id": 87344,
+    "fecha": "29 de Aug del 2025 a las 07:12 PM",
+    "hora_utc": "2025-08-29 23:12",
+    "mensaje": "♦️ Afectado el servicio en el circuito Somorrostro por avería ♦️",
+    "timestamp": 1756509123,
+    "timestamp_local": 1756509123
+  },
+  {
+    "id": 87343,
+    "fecha": "29 de Aug del 2025 a las 07:11 PM",
+    "hora_utc": "2025-08-29 23:11",
+    "mensaje": "🔷 Restablecido el servicio en el circuito 3140 que se encontraba afectado por disparo por DAF 🔷",
+    "timestamp": 1756509097,
+    "timestamp_local": 1756509097
+  },
+  {
     "id": 87342,
     "fecha": "29 de Aug del 2025 a las 06:54 PM",
     "hora_utc": "2025-08-29 22:54",
@@ -78,53 +150,5 @@
     "mensaje": "🔷♦️Se restablece el servicio en el siguiente circuito que se encontraba afectado por déficit de capacidad de generación:\n*San Nicolás 1 ♦️🔷",
     "timestamp": 1756505671,
     "timestamp_local": 1756505671
-  },
-  {
-    "id": 87331,
-    "fecha": "29 de Aug del 2025 a las 06:03 PM",
-    "hora_utc": "2025-08-29 22:03",
-    "mensaje": "🚨Por déficit de capacidad de generación se afecta el servicio en los siguientes circuitos:\n*Güines 1\n*Güines 4 🚨",
-    "timestamp": 1756505008,
-    "timestamp_local": 1756505008
-  },
-  {
-    "id": 87330,
-    "fecha": "29 de Aug del 2025 a las 05:56 PM",
-    "hora_utc": "2025-08-29 21:56",
-    "mensaje": "🚨Por déficit de capacidad de generación se afecta el servicio en el siguiente circuito:\n*3665🚨",
-    "timestamp": 1756504575,
-    "timestamp_local": 1756504575
-  },
-  {
-    "id": 87329,
-    "fecha": "29 de Aug del 2025 a las 05:44 PM",
-    "hora_utc": "2025-08-29 21:44",
-    "mensaje": "⚡♦️ Afectado el servicio en el circuito 3130 por tormenta ♦️⚡",
-    "timestamp": 1756503867,
-    "timestamp_local": 1756503867
-  },
-  {
-    "id": 87328,
-    "fecha": "29 de Aug del 2025 a las 05:40 PM",
-    "hora_utc": "2025-08-29 21:40",
-    "mensaje": "⚡♦️ Afectado el servicio en el circuito 2440 por tormenta ♦️⚡",
-    "timestamp": 1756503644,
-    "timestamp_local": 1756503644
-  },
-  {
-    "id": 87327,
-    "fecha": "29 de Aug del 2025 a las 05:36 PM",
-    "hora_utc": "2025-08-29 21:36",
-    "mensaje": "⚡♦️ Afectado el servicio en el circuito 2320 por tormenta ♦️⚡",
-    "timestamp": 1756503390,
-    "timestamp_local": 1756503390
-  },
-  {
-    "id": 87323,
-    "fecha": "29 de Aug del 2025 a las 05:33 PM",
-    "hora_utc": "2025-08-29 21:33",
-    "mensaje": "♦️ Afectado el servicio en el circuito 3140 por disparo por DAF ♦️",
-    "timestamp": 1756503238,
-    "timestamp_local": 1756503238
   }
 ]
