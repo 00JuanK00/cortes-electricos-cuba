@@ -1,5 +1,29 @@
 [
   {
+    "id": 28493,
+    "fecha": "29 de Aug del 2025 a las 03:29 AM",
+    "hora_utc": "2025-08-29 07:29",
+    "mensaje": "⚠️Será afectado por emergencia el Cto 3 Centro perteneciente al municipio Santa Clara.",
+    "timestamp": 1756452552,
+    "timestamp_local": 1756452552
+  },
+  {
+    "id": 28492,
+    "fecha": "29 de Aug del 2025 a las 03:14 AM",
+    "hora_utc": "2025-08-29 07:14",
+    "mensaje": "Afectados 102 MW en la provincia, demanda máxima a apagar en estos momentos.",
+    "timestamp": 1756451674,
+    "timestamp_local": 1756451674
+  },
+  {
+    "id": 28491,
+    "fecha": "29 de Aug del 2025 a las 03:13 AM",
+    "hora_utc": "2025-08-29 07:13",
+    "mensaje": "Ante cualquier duda con la terminología eléctrica, les volvemos explicar: \n     \nLas averías pueden ser primarias (afecta un volumen grande de población pues son las líneas de distribución a 13.8kV y puede afectar varias manzanas, incluso repartos completos).\n\nSecundarias (afecta a todos los clientes que se alimenten del mismo transformador, puede afectar una o varias cuadras). \n\nDe servicio (afectan 1 solo cliente o instalación generalmente producto a daños en la acometida, metro contador, etc.).",
+    "timestamp": 1756451636,
+    "timestamp_local": 1756451636
+  },
+  {
     "id": 28490,
     "fecha": "29 de Aug del 2025 a las 02:10 AM",
     "hora_utc": "2025-08-29 06:10",
@@ -126,29 +150,5 @@
     "mensaje": "⚠️ Serán afectados por déficit de capacidad de generación los siguientes circuitos:\n🔹Bloque 3\nMunicipio Santa Clara:\nCto 166 (Condado)\nCto 167 (Virginia)\nCto 170 (José Martí)",
     "timestamp": 1756419468,
     "timestamp_local": 1756419468
-  },
-  {
-    "id": 28473,
-    "fecha": "28 de Aug del 2025 a las 06:16 PM",
-    "hora_utc": "2025-08-28 22:16",
-    "mensaje": "⚠️ Serán afectados por déficit de capacidad de generación los siguientes circuitos:\n🔹Bloque 10\nMunicipio Placetas \nCtos 100 y 151 Placetas\nCto 104 Hermanos Amejeiras\nCto 103 Batey Carbó Servía",
-    "timestamp": 1756419379,
-    "timestamp_local": 1756419379
-  },
-  {
-    "id": 28472,
-    "fecha": "28 de Aug del 2025 a las 06:11 PM",
-    "hora_utc": "2025-08-28 22:11",
-    "mensaje": "🕕Actualización del servicio eléctrico en las últimas 6 horas.\n👉El déficit de capacidad de generación osciló entre los 111 MW y los 138 MW.\n👉En el momento de esta nota, se mantienen afectados 158 circuitos.\n👉Cuenta con 100 afectaciones por averías secundarias y de servicio:Camajuani (2)\nCifuentes (5)\nCorralillo (8)\nEncrucijada (6)\nManicaragua (3)\nPlacetas (11)\nRanchuelo (1)\nRemedios (9)\nSagua (8)\nSanta Clara (40)\nSanto Domingo (7)\n🛠️Pendientes a solucionar por el área técnica 20.\n⚡Avería⚡\nAfectado el Cto 60 La Sierra perteneciente al municipio Corralillo.",
-    "timestamp": 1756419076,
-    "timestamp_local": 1756419076
-  },
-  {
-    "id": 28471,
-    "fecha": "28 de Aug del 2025 a las 04:59 PM",
-    "hora_utc": "2025-08-28 20:59",
-    "mensaje": "Afectados 138 MW en la provincia, demanda máxima a apagar en estos momentos.",
-    "timestamp": 1756414787,
-    "timestamp_local": 1756414787
   }
 ]
