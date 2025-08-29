@@ -1,9 +1,25 @@
 [
   {
+    "id": 28542,
+    "fecha": "29 de Aug del 2025 a las 05:54 PM",
+    "hora_utc": "2025-08-29 21:54",
+    "mensaje": "⚠️ Serán afectados por déficit de capacidad de generación los siguientes circuitos:\n\n🔹Bloque 8\nMunicipio Caibarién:\n👉Ctos 61, 62 \n👉Ctos 63 y 64\n👉Ctos 182 y 183 Van Troi",
+    "timestamp": 1756504471,
+    "timestamp_local": 1756504471
+  },
+  {
+    "id": 28541,
+    "fecha": "29 de Aug del 2025 a las 05:50 PM",
+    "hora_utc": "2025-08-29 21:50",
+    "mensaje": "⚠️Afectado por déficit de capacidad de generación el siguiente circuito:\n\nMunicipio Santa Clara:\n👉Cto 31 (Sta Clara Industrial)",
+    "timestamp": 1756504259,
+    "timestamp_local": 1756504259
+  },
+  {
     "id": 28540,
     "fecha": "29 de Aug del 2025 a las 05:40 PM",
     "hora_utc": "2025-08-29 21:40",
-    "mensaje": "⚠️ Serán afectados por déficit de capacidad de generación los siguientes circuitos:\n\n🔹Bloque 10\nMunicipio Placetas 👉Ctos 100 y 151 Placetas\n👉Cto 104 Hermanos Amejeiras\n👉Cto 103 Batey Carbó Servía",
+    "mensaje": "⚠️ Serán afectados por déficit de capacidad de generación los siguientes circuitos:\n🔹Bloque 10\nMunicipio Placetas\n 👉Ctos 100 y 151 Placetas\n👉Cto 104 Hermanos Amejeiras\n👉Cto 103 Batey Carbó Servía",
     "timestamp": 1756503620,
     "timestamp_local": 1756503620
   },
@@ -142,21 +158,5 @@
     "mensaje": "⚡Afectado el circuito 27(Maleza) por disparo, se estudian las causas.",
     "timestamp": 1756493768,
     "timestamp_local": 1756493768
-  },
-  {
-    "id": 28522,
-    "fecha": "29 de Aug del 2025 a las 02:42 PM",
-    "hora_utc": "2025-08-29 18:42",
-    "mensaje": "⚡Afectado el circuito 30(Santa Clara Industrial) por disparo, se estudian las causas.",
-    "timestamp": 1756492963,
-    "timestamp_local": 1756492963
-  },
-  {
-    "id": 28521,
-    "fecha": "29 de Aug del 2025 a las 02:22 PM",
-    "hora_utc": "2025-08-29 18:22",
-    "mensaje": "Actualización del servicio eléctrico en la provincia🔸\n✍️Se mantienen afectados en la provincia 108circuitos.\n✍️En el momento de hacer esta nota la provincia tiene 88 MW de afectación por déficit de capacidad de generación, demanda máxima posible a apagar.\n✍️Cuenta con 131 afectaciones por averías secundarias y de servicio.",
-    "timestamp": 1756491729,
-    "timestamp_local": 1756491729
   }
 ]
