@@ -1,5 +1,45 @@
 [
   {
+    "id": 28622,
+    "fecha": "30 de Aug del 2025 a las 06:41 PM",
+    "hora_utc": "2025-08-30 22:41",
+    "mensaje": "💡Restablecido el servicio eléctrico el circuito 3 Centro.",
+    "timestamp": 1756593685,
+    "timestamp_local": 1756593685
+  },
+  {
+    "id": 28621,
+    "fecha": "30 de Aug del 2025 a las 06:39 PM",
+    "hora_utc": "2025-08-30 22:39",
+    "mensaje": "⚠️Afectado por déficit de generación los circuitos siguientes:\n🔹Bloque 7\n👉Municipio Camajuaní:\nCtos 73 y 156 \nCto 74 José María Pérez",
+    "timestamp": 1756593549,
+    "timestamp_local": 1756593549
+  },
+  {
+    "id": 28620,
+    "fecha": "30 de Aug del 2025 a las 06:12 PM",
+    "hora_utc": "2025-08-30 22:12",
+    "mensaje": "⚠️Afectados por déficit de generación los siguientes circuitos:\n🔹Bloque 4\n👉Municipio Encrucijada:\nCto 122 Encrucijada \nCto 123 Vizcaya \nCto 142 Comunidad La Sierra \nCto 126 Batey Emilio Córdova\nCto 125 Cavarrocas\nCto 124 El Santo\n👉Municipio Camajuaní:\nCto 78 Jutiero",
+    "timestamp": 1756591959,
+    "timestamp_local": 1756591959
+  },
+  {
+    "id": 28619,
+    "fecha": "30 de Aug del 2025 a las 06:10 PM",
+    "hora_utc": "2025-08-30 22:10",
+    "mensaje": "💡Restablecido el servicio eléctrico en la Línea 4608.",
+    "timestamp": 1756591800,
+    "timestamp_local": 1756591800
+  },
+  {
+    "id": 28618,
+    "fecha": "30 de Aug del 2025 a las 06:07 PM",
+    "hora_utc": "2025-08-30 22:07",
+    "mensaje": "💡Restablecido el servicio eléctrico en el circuito 30 Capiro.",
+    "timestamp": 1756591635,
+    "timestamp_local": 1756591635
+  },
+  {
     "id": 28617,
     "fecha": "30 de Aug del 2025 a las 05:56 PM",
     "hora_utc": "2025-08-30 21:56",
@@ -118,45 +158,5 @@
     "mensaje": "⚡Afectado el circuito 3 Centro por una vía libre.",
     "timestamp": 1756574954,
     "timestamp_local": 1756574954
-  },
-  {
-    "id": 28602,
-    "fecha": "30 de Aug del 2025 a las 12:47 PM",
-    "hora_utc": "2025-08-30 16:47",
-    "mensaje": "Afectados 73 MW en la provincia, demanda máxima a apagar en estos momentos.",
-    "timestamp": 1756572432,
-    "timestamp_local": 1756572432
-  },
-  {
-    "id": 28601,
-    "fecha": "30 de Aug del 2025 a las 12:19 PM",
-    "hora_utc": "2025-08-30 16:19",
-    "mensaje": "⚡Afectado por vía libre el circuito 60 La Sierra, perteneciente al municipio Corralillo.",
-    "timestamp": 1756570747,
-    "timestamp_local": 1756570747
-  },
-  {
-    "id": 28600,
-    "fecha": "30 de Aug del 2025 a las 12:10 PM",
-    "hora_utc": "2025-08-30 16:10",
-    "mensaje": "💡Restablecido el servicio eléctrico en los siguientes circuitos:\n🔹Bloque 6\n👉Municipio Ranchuelo:\nCto 92 Esperanza (Pueblo)\nCto 93 Esperanza (Campo)\n🔹Bloque 7\n👉Municipio Camajuaní:\nCtos 73 y 156 \nCto 74 José María Pérez",
-    "timestamp": 1756570208,
-    "timestamp_local": 1756570208
-  },
-  {
-    "id": 28599,
-    "fecha": "30 de Aug del 2025 a las 11:56 AM",
-    "hora_utc": "2025-08-30 15:56",
-    "mensaje": "🕛Actualización del servicio eléctrico en las últimas 6 horas.\n\n👉El déficit de capacidad de generación osciló entre los 77 MW y los 98 MW.\n👉En el momento de esta nota, se mantienen afectados 105 circuitos.\n 👉Cuenta con 191 afectaciones por averías secundarias y de servicio: Caibarién (1)\n Camajuaní (5)\n Cifuentes (7)\n Corralillo (4)\n Encrucijada (7)\n Manicaragua (11)\n Placetas (7)\n Ranchuelo (8)\n Remedios (12) \n Sagua (3) \n Santa Clara (78)\n Santo Domingo (24)\n🛠️Se encuentran 3 averías en vías de solución.\n🛠️Pendientes a solucionar por el área técnica 23.\n⚡La provincia no presenta averías primarias.",
-    "timestamp": 1756569399,
-    "timestamp_local": 1756569399
-  },
-  {
-    "id": 28598,
-    "fecha": "30 de Aug del 2025 a las 11:27 AM",
-    "hora_utc": "2025-08-30 15:27",
-    "mensaje": "💡Con servicio eléctrico el circuito 15 Maleza.",
-    "timestamp": 1756567625,
-    "timestamp_local": 1756567625
   }
 ]
