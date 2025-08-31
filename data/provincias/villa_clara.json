@@ -1,5 +1,29 @@
 [
   {
+    "id": 28662,
+    "fecha": "31 de Aug del 2025 a las 09:24 AM",
+    "hora_utc": "2025-08-31 13:24",
+    "mensaje": "🛠️Queda afectado el Cto 16 de Cubanacán,Ctos 23 y 130 La Ceniza,Cto 42 Manajanabo por Via Libre planificada.",
+    "timestamp": 1756646665,
+    "timestamp_local": 1756646665
+  },
+  {
+    "id": 28661,
+    "fecha": "31 de Aug del 2025 a las 09:17 AM",
+    "hora_utc": "2025-08-31 13:17",
+    "mensaje": "💡Restablecido el servicio eléctrico en la Linea 1780 perteneciente al municipio de Santa Clara.",
+    "timestamp": 1756646232,
+    "timestamp_local": 1756646232
+  },
+  {
+    "id": 28660,
+    "fecha": "31 de Aug del 2025 a las 09:07 AM",
+    "hora_utc": "2025-08-31 13:07",
+    "mensaje": "🛠️Afectada por manipulación Linea 1780 afectando los siguientes circuitos:\n🔹Bloque 9:\nMunicipio Santa Clara:\n👉Cto 16 Cubanacán\n👉Ctos 23 y 130 La Ceniza\n👉Cto 42 Manajanabo\nMunicipio Placetas\n👉Cto 139 Miller\n👉Cto 190 Oliver\n👉Cto 106 Falcón",
+    "timestamp": 1756645638,
+    "timestamp_local": 1756645638
+  },
+  {
     "id": 28659,
     "fecha": "31 de Aug del 2025 a las 08:53 AM",
     "hora_utc": "2025-08-31 12:53",
@@ -118,29 +142,5 @@
     "mensaje": "🕛Actualización del servicio eléctrico en las últimas 6 horas.\n\n👉El déficit de capacidad de generación osciló entre los 114 MW y los 143 MW.\n👉En el momento de esta nota, se mantienen afectados 154 circuitos.\n👉 Cuenta con 229 afectaciones por averías secundarias y de servicio:\n Camajuaní (2)\n Cifuentes (7)\n Corralillo (16)\n Encrucijada (7)\n Manicaragua (8)\n Placetas (5)\n Quemado (2)\n Ranchuelo (15)\n Remedios (14) \n Sagua (3) \n Santa Clara (93)\n Santo Domingo (27)\n🛠️Se encuentran 4 averías en vías de solución.\n🛠️Pendientes a solucionar por el área técnica 26.\n⚡La provincia presenta avería primaria en el circuito de  Matagua.",
     "timestamp": 1756612235,
     "timestamp_local": 1756612235
-  },
-  {
-    "id": 28642,
-    "fecha": "30 de Aug del 2025 a las 11:23 PM",
-    "hora_utc": "2025-08-31 03:23",
-    "mensaje": "⚡Disparada la Línea 108, se estudian las causas.\n🔹Línea 108\n👉Municipio Ranchuelo:\nCto 92 Esperanza (Pueblo)\nCto 93 Esperanza (Campo)\n\n👉Municipio Santa Clara:\nCtos 26 y 141 (Manuelita)\nCto 191 (Quemado de Hilario)",
-    "timestamp": 1756610628,
-    "timestamp_local": 1756610628
-  },
-  {
-    "id": 28641,
-    "fecha": "30 de Aug del 2025 a las 11:20 PM",
-    "hora_utc": "2025-08-31 03:20",
-    "mensaje": "⚡Se mantiene disparada la Línea 331 después de restablecido el servicio.\n🔹Línea 331 \n👉Municipio Manicaragua:\nCtos 109 y 150\nCtos 108 y 110 La Piedra\nCto 111 Mataguá",
-    "timestamp": 1756610418,
-    "timestamp_local": 1756610418
-  },
-  {
-    "id": 28640,
-    "fecha": "30 de Aug del 2025 a las 10:50 PM",
-    "hora_utc": "2025-08-31 02:50",
-    "mensaje": "Afectados 148 MW en la provincia, demanda máxima a apagar en estos momentos.",
-    "timestamp": 1756608639,
-    "timestamp_local": 1756608639
   }
 ]
