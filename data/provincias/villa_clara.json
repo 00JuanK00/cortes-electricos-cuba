@@ -1,9 +1,33 @@
 [
   {
+    "id": 28765,
+    "fecha": "01 de Sep del 2025 a las 03:40 PM",
+    "hora_utc": "2025-09-01 19:40",
+    "mensaje": "⚠️Afectada por DAF línea 1920:\nLínea 1920\nMunicipio Placetas:\nCto 101 y 145 Cumbre\nCto 107 Baez\nCto 105 Nazareno",
+    "timestamp": 1756755653,
+    "timestamp_local": 1756755653
+  },
+  {
+    "id": 28764,
+    "fecha": "01 de Sep del 2025 a las 03:39 PM",
+    "hora_utc": "2025-09-01 19:39",
+    "mensaje": "⚠️Serán afectados por déficit de capacidad de generación los siguientes circuitos:\nBloque 11\nMunicipio Quemado:\nCtos, 52 y 53 Quemado.",
+    "timestamp": 1756755580,
+    "timestamp_local": 1756755580
+  },
+  {
+    "id": 28762,
+    "fecha": "01 de Sep del 2025 a las 03:14 PM",
+    "hora_utc": "2025-09-01 19:14",
+    "mensaje": "⚠️Afectada por DAF línea 6580:\nLínea 6580  \nMunicipio Camajuaní:\nCtos 77, 59 y 185 Vueltas",
+    "timestamp": 1756754051,
+    "timestamp_local": 1756754051
+  },
+  {
     "id": 28761,
     "fecha": "01 de Sep del 2025 a las 03:00 PM",
     "hora_utc": "2025-09-01 19:00",
-    "mensaje": "Afectados 279 MW en la provincia, demanda máxima a apagar en estos momentos.",
+    "mensaje": "Afectados 111 MW en la provincia, demanda máxima a apagar en estos momentos.",
     "timestamp": 1756753243,
     "timestamp_local": 1756753243
   },
@@ -126,37 +150,5 @@
     "mensaje": "⚠️Serán afectados por déficit de capacidad de generación los siguientes circuitos:\nBloque 9\nMunicipio Placetas:\nCto 101 y 145 Cumbre",
     "timestamp": 1756734895,
     "timestamp_local": 1756734895
-  },
-  {
-    "id": 28745,
-    "fecha": "01 de Sep del 2025 a las 09:51 AM",
-    "hora_utc": "2025-09-01 13:51",
-    "mensaje": "💡Restablecido el servicio eléctrico en los siguientes circuitos:\nBloque 1 \nMunicipio Manicaragua:\nCtos 109 y 150\nCtos 108 y 110 La Piedra\nCto 111 Mataguá \nMunicipio Encrucijada\nCto 120 Calabazar\nCtos 121 y 127 Perucho",
-    "timestamp": 1756734699,
-    "timestamp_local": 1756734699
-  },
-  {
-    "id": 28744,
-    "fecha": "01 de Sep del 2025 a las 09:26 AM",
-    "hora_utc": "2025-09-01 13:26",
-    "mensaje": "La Provincia cuenta con 11 afectaciones de servicio por transformador dañado:\n👉 Municipio Camajuani: Carretera a Aeropuerto entre Barrio San Pedro y limites de Sta Clara.\n-👉 Municipio Camajuani: Carret Charco Hondo entre Batey Mujica despues del cartel Charco Hondo\n👉Municipio  Cifuentes: Carret de Sagua km 33 entre Barrio Loma la Candela antes de Sitio Grande\n👉Municipio Corralillo:Carret de Panchita entre Finca San Vicente en la misma carretera\n👉 Municipio Encrucijada:Carretera a Encrucijada entre Barrio Oriente despues de la iglesia.\n👉Municipio Placetas: Carret a Fomento en el Entronque de Cumbre\n👉Municipio Placetas: Carret a Fomento  Barrio Hernando y el camino a Cacagual\n👉Municipio Quemado: Carret a Panchito Gomez Toro entre Batey Galloso antes de la cooperativa\n👉Municipio Ranchuelo: Carretera a Cienfuegos entre Batey la Guanajera a la salida de Ranchuelo\n👉Municipio Santa Clara: calle 6ta entre 5ta y final. Rpto los Moros\n👉Municipio Santa Clara :Carret a Camajuani Km 5  en la misma Universidad.",
-    "timestamp": 1756733184,
-    "timestamp_local": 1756733184
-  },
-  {
-    "id": 28743,
-    "fecha": "01 de Sep del 2025 a las 09:20 AM",
-    "hora_utc": "2025-09-01 13:20",
-    "mensaje": "Afectados 110 MW en la provincia, demanda máxima a apagar en estos momentos.",
-    "timestamp": 1756732828,
-    "timestamp_local": 1756732828
-  },
-  {
-    "id": 28742,
-    "fecha": "01 de Sep del 2025 a las 08:52 AM",
-    "hora_utc": "2025-09-01 12:52",
-    "mensaje": "💡Restablecido el servicio eléctrico en los siguientes circuitos:\nBloque 2  \nMunicipio Camajuaní:\nCto 72 y 129 Camajuani\nCto 75 La Quinta\nCto 157 Luis Arcos Bergnes\nCtos 76 y 90 Vega Alta",
-    "timestamp": 1756731159,
-    "timestamp_local": 1756731159
   }
 ]
