@@ -1,5 +1,21 @@
 [
   {
+    "id": 28750,
+    "fecha": "01 de Sep del 2025 a las 10:59 AM",
+    "hora_utc": "2025-09-01 14:59",
+    "mensaje": "Afectados 83 MW en la provincia, demanda máxima a apagar en estos momentos.",
+    "timestamp": 1756738769,
+    "timestamp_local": 1756738769
+  },
+  {
+    "id": 28749,
+    "fecha": "01 de Sep del 2025 a las 10:58 AM",
+    "hora_utc": "2025-09-01 14:58",
+    "mensaje": "Ante cualquier duda con la terminología eléctrica, les volvemos explicar: \n     \nLas averías pueden ser primarias (afecta un volumen grande de población pues son las líneas de distribución a 13.8kV y puede afectar varias manzanas, incluso repartos completos).\n\nSecundarias (afecta a todos los clientes que se alimenten del mismo transformador, puede afectar una o varias cuadras). \n\nDe servicio (afectan 1 solo cliente o instalación generalmente producto a daños en la acometida, metro contador, etc.).",
+    "timestamp": 1756738721,
+    "timestamp_local": 1756738721
+  },
+  {
     "id": 28748,
     "fecha": "01 de Sep del 2025 a las 10:21 AM",
     "hora_utc": "2025-09-01 14:21",
@@ -126,21 +142,5 @@
     "mensaje": "🕕Actualización del servicio eléctrico en las últimas 6 horas.\n👉El déficit de capacidad de generación osciló entre los 147 MW y los 116 MW.\n👉En el momento de esta nota, se mantienen afectados 152 circuitos.\n👉 Cuenta con 238 afectaciones por averías secundarias y de servicio:\n Cifuentes (1)\n Camajuani (1)\n Encrucijada (8)\n Manicaragua (21)\n Placetas (4)\n Ranchuelo (25)\n Remedios (5)     \nCaibarien(1)\n Santa Clara (123)\nSanto Domingo(49)\n🛠️Pendientes a solucionar por el área técnica 29.\n⚡La provincia presenta avería primaria en el  Cto 57 de Motembo perteneciente al municipio de Corralillo.",
     "timestamp": 1756721529,
     "timestamp_local": 1756721529
-  },
-  {
-    "id": 28730,
-    "fecha": "01 de Sep del 2025 a las 05:44 AM",
-    "hora_utc": "2025-09-01 09:44",
-    "mensaje": "⚠️Afectados por déficit de generación los circuitos siguientes:\n🔹Bloque 3:\nMunicipio Santa Clara:\n👉Cto 166 (Condado)\n👉Cto 167 (Virginia)\n👉Cto 170 (José Martí)\n👉Cto 171 (Los Caneyes)",
-    "timestamp": 1756719874,
-    "timestamp_local": 1756719874
-  },
-  {
-    "id": 28729,
-    "fecha": "01 de Sep del 2025 a las 05:30 AM",
-    "hora_utc": "2025-09-01 09:30",
-    "mensaje": "⚠️Afectados por déficit de generación los circuitos siguientes:\n🔹Bloque 4:\nMunicipio Camajuaní:\n👉Ctos 77, 59 y 185 Vueltas",
-    "timestamp": 1756719015,
-    "timestamp_local": 1756719015
   }
 ]
