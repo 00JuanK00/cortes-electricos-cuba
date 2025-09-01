@@ -1,5 +1,29 @@
 [
   {
+    "id": 43932,
+    "fecha": "01 de Sep del 2025 a las 12:17 AM",
+    "hora_utc": "2025-09-01 04:17",
+    "mensaje": "Disparo Automático de Frecuencia (DAF):\nOcurre cuando la frecuencia está por debajo de los 60Hz y determinada carga o circuito se desconecta del sistema automáticamente hasta que se estabilice.",
+    "timestamp": 1756700274,
+    "timestamp_local": 1756700274
+  },
+  {
+    "id": 43931,
+    "fecha": "01 de Sep del 2025 a las 12:17 AM",
+    "hora_utc": "2025-09-01 04:17",
+    "mensaje": "🔉 Estimados clientes se les informa que se encuentran Disparados los circuitos 12 , 20 de Santiago (DAF) .",
+    "timestamp": 1756700253,
+    "timestamp_local": 1756700253
+  },
+  {
+    "id": 43930,
+    "fecha": "01 de Sep del 2025 a las 12:16 AM",
+    "hora_utc": "2025-09-01 04:16",
+    "mensaje": "🔉 Estimados clientes se les informa que se encuentran afectados los circuitos 25 , 25 de Santiago , Línea GI7064 Guamá por déficit en capacidad de generación .",
+    "timestamp": 1756700163,
+    "timestamp_local": 1756700163
+  },
+  {
     "id": 43928,
     "fecha": "31 de Aug del 2025 a las 10:17 PM",
     "hora_utc": "2025-09-01 02:17",
@@ -118,29 +142,5 @@
     "mensaje": "🔴Estimados clientes se les informa que se incorporan a la afectación Baire - lll Frente .",
     "timestamp": 1756671831,
     "timestamp_local": 1756671831
-  },
-  {
-    "id": 43912,
-    "fecha": "31 de Aug del 2025 a las 04:10 PM",
-    "hora_utc": "2025-08-31 20:10",
-    "mensaje": "🔴Estimados clientes se les informa que se incorpora a la afectación la línea 5395 de San Luis .",
-    "timestamp": 1756671045,
-    "timestamp_local": 1756671045
-  },
-  {
-    "id": 43911,
-    "fecha": "31 de Aug del 2025 a las 04:09 PM",
-    "hora_utc": "2025-08-31 20:09",
-    "mensaje": "🔴Estimados clientes se les informa que se incorpora a la afectación el circuito 23 .",
-    "timestamp": 1756670949,
-    "timestamp_local": 1756670949
-  },
-  {
-    "id": 43910,
-    "fecha": "31 de Aug del 2025 a las 04:06 PM",
-    "hora_utc": "2025-08-31 20:06",
-    "mensaje": "🔴Estimados clientes se les informa que se incorpora a la afectación el circuito 2 de Contramaestre .",
-    "timestamp": 1756670814,
-    "timestamp_local": 1756670814
   }
 ]
