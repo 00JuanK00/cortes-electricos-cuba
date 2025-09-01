@@ -1,9 +1,49 @@
 [
   {
+    "id": 28770,
+    "fecha": "01 de Sep del 2025 a las 04:29 PM",
+    "hora_utc": "2025-09-01 20:29",
+    "mensaje": "💡Restablecido el servicio eléctrico en linea 861",
+    "timestamp": 1756758596,
+    "timestamp_local": 1756758596
+  },
+  {
+    "id": 28769,
+    "fecha": "01 de Sep del 2025 a las 04:18 PM",
+    "hora_utc": "2025-09-01 20:18",
+    "mensaje": "⚠️Será afectado por manipulación línea 861 perteneciente al municipio Santa Clara:\nLínea 861 \nMunicipio Santa Clara:\n👉Cto 5 (Dobarganes)\n👉Cto 17 (Subplanta) \n👉Ctos 37 y 38 (Yabú)   \n👉Cto 9 (Moldes y Troqueles)\n👉Cto 133 (Cafetera)",
+    "timestamp": 1756757920,
+    "timestamp_local": 1756757920
+  },
+  {
+    "id": 28768,
+    "fecha": "01 de Sep del 2025 a las 04:17 PM",
+    "hora_utc": "2025-09-01 20:17",
+    "mensaje": "⚠️Serán afectados por déficit de capacidad de generación los siguientes circuitos:\n🔹Bloque 7\nMunicipio Camajuaní:\n👉Ctos 73 y 156 \n👉Cto 74 José María Pérez",
+    "timestamp": 1756757876,
+    "timestamp_local": 1756757876
+  },
+  {
+    "id": 28767,
+    "fecha": "01 de Sep del 2025 a las 04:13 PM",
+    "hora_utc": "2025-09-01 20:13",
+    "mensaje": "⚠️Afectados por déficit de capacidad de generación los siguientes circuitos:\n🔹Bloque 8\nMunicipio Caibarién:\n👉Cto 62 \n👉Ctos 63 y 64\n👉Ctos 182 y 183 Van Troi",
+    "timestamp": 1756757598,
+    "timestamp_local": 1756757598
+  },
+  {
+    "id": 28766,
+    "fecha": "01 de Sep del 2025 a las 04:01 PM",
+    "hora_utc": "2025-09-01 20:01",
+    "mensaje": "Actualización del servicio eléctrico en la provincia🔸\n✍️Se mantienen afectados en la provincia 133 circuitos.\n✍️En el momento de hacer esta nota la provincia tiene 108 MW de afectación por déficit de capacidad de generación, demanda máxima posible a apagar.\n✍️Cuenta con 272 afectaciones por averías secundarias y de servicio.",
+    "timestamp": 1756756910,
+    "timestamp_local": 1756756910
+  },
+  {
     "id": 28765,
     "fecha": "01 de Sep del 2025 a las 03:40 PM",
     "hora_utc": "2025-09-01 19:40",
-    "mensaje": "⚠️Afectada por DAF línea 1920:\nLínea 1920\nMunicipio Placetas:\nCto 101 y 145 Cumbre\nCto 107 Baez\nCto 105 Nazareno",
+    "mensaje": "⚠️Afectada por DAF línea 1920:\nLínea 1920\n🔹Municipio Placetas:\n👉Cto 101 y 145 Cumbre\n👉Cto 107 Baez\n👉Cto 105 Nazareno",
     "timestamp": 1756755653,
     "timestamp_local": 1756755653
   },
@@ -11,7 +51,7 @@
     "id": 28764,
     "fecha": "01 de Sep del 2025 a las 03:39 PM",
     "hora_utc": "2025-09-01 19:39",
-    "mensaje": "⚠️Serán afectados por déficit de capacidad de generación los siguientes circuitos:\nBloque 11\nMunicipio Quemado:\nCtos, 52 y 53 Quemado.",
+    "mensaje": "⚠️Serán afectados por déficit de capacidad de generación los siguientes circuitos:\nBloque 11\nMunicipio Quemado:\n👉Ctos, 52 y 53 Quemado.",
     "timestamp": 1756755580,
     "timestamp_local": 1756755580
   },
@@ -19,7 +59,7 @@
     "id": 28762,
     "fecha": "01 de Sep del 2025 a las 03:14 PM",
     "hora_utc": "2025-09-01 19:14",
-    "mensaje": "⚠️Afectada por DAF línea 6580:\nLínea 6580  \nMunicipio Camajuaní:\nCtos 77, 59 y 185 Vueltas",
+    "mensaje": "⚠️Afectada por DAF línea 6580:\nLínea 6580  \nMunicipio Camajuaní:\n👉Ctos 77, 59 y 185 Vueltas",
     "timestamp": 1756754051,
     "timestamp_local": 1756754051
   },
@@ -35,7 +75,7 @@
     "id": 28760,
     "fecha": "01 de Sep del 2025 a las 02:38 PM",
     "hora_utc": "2025-09-01 18:38",
-    "mensaje": "⚠️Afectados por déficit de capacidad de generación los siguientes circuitos:\nBloque 11\nMunicipio Remedios:\nCtos 67 y 152, 68 y 118 \nCtos 69 y 70 Zuluetas\nCto 143 Batey Heriberto Duquesne\nCto 71 Buena Vista",
+    "mensaje": "⚠️Afectados por déficit de capacidad de generación los siguientes circuitos:\n🔹Bloque 11\nMunicipio Remedios:\n👉Ctos 67 y 152, 68 y 118 \n👉Ctos 69 y 70 Zuluetas\n👉Cto 143 Batey Heriberto Duquesne\n👉Cto 71 Buena Vista",
     "timestamp": 1756751927,
     "timestamp_local": 1756751927
   },
@@ -51,7 +91,7 @@
     "id": 28758,
     "fecha": "01 de Sep del 2025 a las 01:38 PM",
     "hora_utc": "2025-09-01 17:38",
-    "mensaje": "⚠️Serán afectados por déficit de capacidad de generación los siguientes circuitos:\nBloque 1 \nMunicipio Encrucijada\nCto 120 Calabazar\nCtos 121 y 127 Perucho",
+    "mensaje": "⚠️Serán afectados por déficit de capacidad de generación los siguientes circuitos:\n🔹Bloque 1 \nMunicipio Encrucijada\n👉Cto 120 Calabazar\n👉Ctos 121 y 127 Perucho",
     "timestamp": 1756748332,
     "timestamp_local": 1756748332
   },
@@ -59,7 +99,7 @@
     "id": 28757,
     "fecha": "01 de Sep del 2025 a las 01:17 PM",
     "hora_utc": "2025-09-01 17:17",
-    "mensaje": "⚠️Serán afectados por déficit de capacidad de generación los siguientes circuitos:\nBloque 4  \nMunicipio Encrucijada:\nCto 122 Encrucijada \nCto 123 Vizcaya \nCto 142 Comunidad La Sierra \nCto 126 Batey Emilio Córdova\nCto 125 Cavarrocas\nCto 124 El Santo\nMunicipio Camajuaní:\nCto 78 Jutiero",
+    "mensaje": "⚠️Serán afectados por déficit de capacidad de generación los siguientes circuitos:\n🔹Bloque 4  \nMunicipio Encrucijada:\n👉Cto 122 Encrucijada \n👉Cto 123 Vizcaya \n👉Cto 142 Comunidad La Sierra \n👉Cto 126 Batey Emilio Córdova\n👉Cto 125 Cavarrocas\n👉Cto 124 El Santo\nMunicipio Camajuaní:\n👉Cto 78 Jutiero",
     "timestamp": 1756747036,
     "timestamp_local": 1756747036
   },
@@ -67,7 +107,7 @@
     "id": 28756,
     "fecha": "01 de Sep del 2025 a las 01:15 PM",
     "hora_utc": "2025-09-01 17:15",
-    "mensaje": "⚠️Serán afectados por déficit de capacidad de generación los siguientes circuitos:\nBloque 1 \nMunicipio Manicaragua:\nCtos 109 y 150\nCtos 108 y 110 La Piedra\nCto 111 Mataguá",
+    "mensaje": "⚠️Serán afectados por déficit de capacidad de generación los siguientes circuitos:\n🔹Bloque 1 \nMunicipio Manicaragua:\n👉Ctos 109 y 150\n👉Ctos 108 y 110 La Piedra\n👉Cto 111 Mataguá",
     "timestamp": 1756746905,
     "timestamp_local": 1756746905
   },
@@ -83,7 +123,7 @@
     "id": 28754,
     "fecha": "01 de Sep del 2025 a las 12:01 PM",
     "hora_utc": "2025-09-01 16:01",
-    "mensaje": "💡Será restablecido el servicio eléctrico en los siguientes circuitos:\nBloque 5 \nMunicipio Santo Domingo:\nCto 134 Santo Domingo\nCtos 87 y 96 Bermejal\nCto 187 Batey Carlos Baliño\nCto 82 Ulacia\nCto 84 Rodrigo",
+    "mensaje": "💡Será restablecido el servicio eléctrico en los siguientes circuitos:\n🔸Bloque 5 \nMunicipio Santo Domingo:\n👉Cto 134 Santo Domingo\n👉Ctos 87 y 96 Bermejal\n👉Cto 187 Batey Carlos Baliño\n👉Cto 82 Ulacia\n👉Cto 84 Rodrigo",
     "timestamp": 1756742484,
     "timestamp_local": 1756742484
   },
@@ -99,7 +139,7 @@
     "id": 28752,
     "fecha": "01 de Sep del 2025 a las 11:53 AM",
     "hora_utc": "2025-09-01 15:53",
-    "mensaje": "⚠️Afectado por manipulación línea 861 perteneciente al municipio Santa Clara:\nLínea 861 \nMunicipio Santa Clara:\nCto 5 (Dobarganes)\nCto 17 (Subplanta) \nCtos 37 y 38 (Yabú)   \nCto 9 (Moldes y Troqueles)\nCto 133 (Cafetera)",
+    "mensaje": "⚠️Afectado por manipulación línea 861 perteneciente al municipio Santa Clara:\nLínea 861 \nMunicipio Santa Clara:\n👉Cto 5 (Dobarganes)\n👉Cto 17 (Subplanta) \n👉Ctos 37 y 38 (Yabú)   \n👉Cto 9 (Moldes y Troqueles)\n👉Cto 133 (Cafetera)",
     "timestamp": 1756741991,
     "timestamp_local": 1756741991
   },
@@ -110,45 +150,5 @@
     "mensaje": "⚡Actualización de averías en la provincia⚡\nMunicipio Manicaragua:\n👉Cto 111 Mataguá, ramal Jorobada.\nMunicipio Corralillo:\n👉Cto 57 Motembo, de manera parcial.\nMunicipio Santa Clara:\n👉Ctos 37 y 38 Yabú\n👉Cto 16 Cubanacán",
     "timestamp": 1756741071,
     "timestamp_local": 1756741071
-  },
-  {
-    "id": 28750,
-    "fecha": "01 de Sep del 2025 a las 10:59 AM",
-    "hora_utc": "2025-09-01 14:59",
-    "mensaje": "Afectados 92 MW en la provincia, demanda máxima a apagar en estos momentos.",
-    "timestamp": 1756738769,
-    "timestamp_local": 1756738769
-  },
-  {
-    "id": 28749,
-    "fecha": "01 de Sep del 2025 a las 10:58 AM",
-    "hora_utc": "2025-09-01 14:58",
-    "mensaje": "Ante cualquier duda con la terminología eléctrica, les volvemos explicar: \n     \nLas averías pueden ser primarias (afecta un volumen grande de población pues son las líneas de distribución a 13.8kV y puede afectar varias manzanas, incluso repartos completos).\n\nSecundarias (afecta a todos los clientes que se alimenten del mismo transformador, puede afectar una o varias cuadras). \n\nDe servicio (afectan 1 solo cliente o instalación generalmente producto a daños en la acometida, metro contador, etc.).",
-    "timestamp": 1756738721,
-    "timestamp_local": 1756738721
-  },
-  {
-    "id": 28748,
-    "fecha": "01 de Sep del 2025 a las 10:21 AM",
-    "hora_utc": "2025-09-01 14:21",
-    "mensaje": "💡Será restablecido el servicio eléctrico en los siguientes circuitos:\nBloque 9\nMunicipio Placetas:\nCto 101 y 145 Cumbre",
-    "timestamp": 1756736483,
-    "timestamp_local": 1756736483
-  },
-  {
-    "id": 28747,
-    "fecha": "01 de Sep del 2025 a las 10:03 AM",
-    "hora_utc": "2025-09-01 14:03",
-    "mensaje": "Actualización del servicio eléctrico en la provincia🔸\n✍️Se mantienen afectados en la provincia 133 circuitos.\n✍️En el momento de hacer esta nota la provincia tiene 115 MW de afectación por déficit de capacidad de generación, demanda máxima posible a apagar.\n✍️Cuenta con 265 afectaciones por averías secundarias y de servicio.",
-    "timestamp": 1756735436,
-    "timestamp_local": 1756735436
-  },
-  {
-    "id": 28746,
-    "fecha": "01 de Sep del 2025 a las 09:54 AM",
-    "hora_utc": "2025-09-01 13:54",
-    "mensaje": "⚠️Serán afectados por déficit de capacidad de generación los siguientes circuitos:\nBloque 9\nMunicipio Placetas:\nCto 101 y 145 Cumbre",
-    "timestamp": 1756734895,
-    "timestamp_local": 1756734895
   }
 ]

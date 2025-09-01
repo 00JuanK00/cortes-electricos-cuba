@@ -1,5 +1,53 @@
 [
   {
+    "id": 87703,
+    "fecha": "01 de Sep del 2025 a las 04:37 PM",
+    "hora_utc": "2025-09-01 20:37",
+    "mensaje": "📣🚨 **Se les informa a nuestros clientes que debido a las actuales limitaciones del Sistema Eléctrico Nacional, durante la tarde del día de hoy las afectaciones podrán aumentar con respecto a días anteriores, por lo cual, el tiempo sin servicio será mayor y el tiempo con servicio será menor. Agradecemos su comprensión. Ofrecemos nuestras disculpas**. 🚨📣",
+    "timestamp": 1756759039,
+    "timestamp_local": 1756759039
+  },
+  {
+    "id": 87702,
+    "fecha": "01 de Sep del 2025 a las 04:37 PM",
+    "hora_utc": "2025-09-01 20:37",
+    "mensaje": "🚨Por déficit de capacidad de generación se afecta el servicio en el siguiente circuito:\n*Magela🚨",
+    "timestamp": 1756759035,
+    "timestamp_local": 1756759035
+  },
+  {
+    "id": 87701,
+    "fecha": "01 de Sep del 2025 a las 04:37 PM",
+    "hora_utc": "2025-09-01 20:37",
+    "mensaje": "🔷Restablecido el servicio en el circuito 1790 que se encontraba afectado por disparo por DAF🔷\n📣🚨 Continúa afectado por déficit de capacidad de generación los siguientes circuitos:\n*Quivicán\n*San Felipe\n*Palomo🚨📣",
+    "timestamp": 1756759035,
+    "timestamp_local": 1756759035
+  },
+  {
+    "id": 87700,
+    "fecha": "01 de Sep del 2025 a las 04:23 PM",
+    "hora_utc": "2025-09-01 20:23",
+    "mensaje": "⚡️🔷Restablecido el servicio en el circuito ML-45 que se encontraba afectado por tormenta🔷⚡️",
+    "timestamp": 1756758199,
+    "timestamp_local": 1756758199
+  },
+  {
+    "id": 87699,
+    "fecha": "01 de Sep del 2025 a las 04:12 PM",
+    "hora_utc": "2025-09-01 20:12",
+    "mensaje": "🔷Restablecido el servicio en el circuito 3 de San José que se encontraba afectado por disparo en las líneas🔷",
+    "timestamp": 1756757520,
+    "timestamp_local": 1756757520
+  },
+  {
+    "id": 87698,
+    "fecha": "01 de Sep del 2025 a las 04:03 PM",
+    "hora_utc": "2025-09-01 20:03",
+    "mensaje": "🚨Por déficit de capacidad de generación se afecta el servicio en el siguiente circuito:\n*ML-35 🚨",
+    "timestamp": 1756757037,
+    "timestamp_local": 1756757037
+  },
+  {
     "id": 87697,
     "fecha": "01 de Sep del 2025 a las 03:51 PM",
     "hora_utc": "2025-09-01 19:51",
@@ -110,53 +158,5 @@
     "mensaje": "⚡️♦️Afectado el servicio en el circuito ML-45 por tormenta♦️⚡️",
     "timestamp": 1756754536,
     "timestamp_local": 1756754536
-  },
-  {
-    "id": 87683,
-    "fecha": "01 de Sep del 2025 a las 03:14 PM",
-    "hora_utc": "2025-09-01 19:14",
-    "mensaje": "♦️Afectado el servicio en el circuito 3 de San José por disparo en las líneas♦️",
-    "timestamp": 1756754083,
-    "timestamp_local": 1756754083
-  },
-  {
-    "id": 87682,
-    "fecha": "01 de Sep del 2025 a las 03:11 PM",
-    "hora_utc": "2025-09-01 19:11",
-    "mensaje": "🚨Por déficit de capacidad de generación se afecta el servicio en el siguiente circuito:\n*3140🚨",
-    "timestamp": 1756753903,
-    "timestamp_local": 1756753903
-  },
-  {
-    "id": 87681,
-    "fecha": "01 de Sep del 2025 a las 03:10 PM",
-    "hora_utc": "2025-09-01 19:10",
-    "mensaje": "🔷♦️Se restablece el servicio en los circuitos que se encontraban afectados por déficit de capacidad de generación:\n *Sopapo 1 y 2 ♦️🔷",
-    "timestamp": 1756753833,
-    "timestamp_local": 1756753833
-  },
-  {
-    "id": 87680,
-    "fecha": "01 de Sep del 2025 a las 03:09 PM",
-    "hora_utc": "2025-09-01 19:09",
-    "mensaje": "🔷♦️Se restablece el servicio en el siguiente circuito que se encontraba afectado por déficit de capacidad de generación:\n*Santa Cruz ♦️🔷",
-    "timestamp": 1756753773,
-    "timestamp_local": 1756753773
-  },
-  {
-    "id": 87679,
-    "fecha": "01 de Sep del 2025 a las 03:06 PM",
-    "hora_utc": "2025-09-01 19:06",
-    "mensaje": "🚨Por déficit de capacidad de generación se afecta el servicio en los siguientes circuitos:\n*Camacho 1 y 2 🚨",
-    "timestamp": 1756753599,
-    "timestamp_local": 1756753599
-  },
-  {
-    "id": 87678,
-    "fecha": "01 de Sep del 2025 a las 03:03 PM",
-    "hora_utc": "2025-09-01 19:03",
-    "mensaje": "🚨Por déficit de capacidad de generación se afecta el servicio en los siguientes circuitos:\n*Surgidero\n*Batabanó🚨",
-    "timestamp": 1756753432,
-    "timestamp_local": 1756753432
   }
 ]
