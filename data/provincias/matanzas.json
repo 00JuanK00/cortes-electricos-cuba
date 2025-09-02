@@ -1,5 +1,29 @@
 [
   {
+    "id": 25414,
+    "fecha": "02 de Sep del 2025 a las 11:40 AM",
+    "hora_utc": "2025-09-02 15:40",
+    "mensaje": "✔ Solucionada Avería del Circuito MU4604.",
+    "timestamp": 1756827636,
+    "timestamp_local": 1756827636
+  },
+  {
+    "id": 25413,
+    "fecha": "02 de Sep del 2025 a las 11:36 AM",
+    "hora_utc": "2025-09-02 15:36",
+    "mensaje": "‼En estos momentos tenemos afectados por déficit de capacidad de\ngeneración 104 MW en la provincia.",
+    "timestamp": 1756827417,
+    "timestamp_local": 1756827417
+  },
+  {
+    "id": 25412,
+    "fecha": "02 de Sep del 2025 a las 11:01 AM",
+    "hora_utc": "2025-09-02 15:01",
+    "mensaje": "‼En estos momentos tenemos afectados por déficit de capacidad de\ngeneración 98 MW en la provincia.",
+    "timestamp": 1756825273,
+    "timestamp_local": 1756825273
+  },
+  {
     "id": 25411,
     "fecha": "02 de Sep del 2025 a las 10:55 AM",
     "hora_utc": "2025-09-02 14:55",
@@ -67,7 +91,7 @@
     "id": 25403,
     "fecha": "02 de Sep del 2025 a las 08:54 AM",
     "hora_utc": "2025-09-02 12:54",
-    "mensaje": "* Circuito MU460: afectando Batey Artemisa, 435 clientes perjudicados.\n* Circuito MU4985: afectando Ramal Sub Sale, 2253 clientes perjudicados",
+    "mensaje": "* Circuito MU4604: afectando Batey Artemisa, 435 clientes perjudicados.\n* Circuito MU4985: afectando Ramal Sub Sale, 2253 clientes perjudicados",
     "timestamp": 1756817673,
     "timestamp_local": 1756817673
   },
@@ -134,29 +158,5 @@
     "mensaje": "‼️La afectación de la provincia es de 143 MW por déficit de capacidad de generación en este momento.‼️",
     "timestamp": 1756789411,
     "timestamp_local": 1756789411
-  },
-  {
-    "id": 25394,
-    "fecha": "02 de Sep del 2025 a las 12:19 AM",
-    "hora_utc": "2025-09-02 04:19",
-    "mensaje": "‼️La afectación de la provincia es de 150 MW por déficit de capacidad de generación en este momento.‼️",
-    "timestamp": 1756786776,
-    "timestamp_local": 1756786776
-  },
-  {
-    "id": 25393,
-    "fecha": "01 de Sep del 2025 a las 11:42 PM",
-    "hora_utc": "2025-09-02 03:42",
-    "mensaje": "Se encuentra en Avería los siguientes circuitos: \n🔸 Circuito 4985 Avería a partir de 5374 que afecta a la Subestación Salé. \n🔸 Circuito 4604 de Hoyo entre el 4921 y la grampa MW6083 que afecta a la Subestación de Altamisal.",
-    "timestamp": 1756784555,
-    "timestamp_local": 1756784555
-  },
-  {
-    "id": 25392,
-    "fecha": "01 de Sep del 2025 a las 11:26 PM",
-    "hora_utc": "2025-09-02 03:26",
-    "mensaje": "💡💡✅✅ SERVICIO RESTABLECIDO ✅✅💡💡\n🔌 Circuito 4935 que da servicio a San Pedro, Los Arabos, Colón Este, Central Méjico y Mario Muñoz.",
-    "timestamp": 1756783585,
-    "timestamp_local": 1756783585
   }
 ]
