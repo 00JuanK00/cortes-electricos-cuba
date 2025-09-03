@@ -1,5 +1,37 @@
 [
   {
+    "id": 44035,
+    "fecha": "03 de Sep del 2025 a las 10:46 AM",
+    "hora_utc": "2025-09-03 14:46",
+    "mensaje": "🔴Estimados clientes se les informa que el  circuito 13 y la línea 5975 de Baconao están afectado por DAF .",
+    "timestamp": 1756910819,
+    "timestamp_local": 1756910819
+  },
+  {
+    "id": 44034,
+    "fecha": "03 de Sep del 2025 a las 10:34 AM",
+    "hora_utc": "2025-09-03 14:34",
+    "mensaje": "🔴Estimados clientes se les informa que se incorpora a la afectación el circuito 11.",
+    "timestamp": 1756910062,
+    "timestamp_local": 1756910062
+  },
+  {
+    "id": 44033,
+    "fecha": "03 de Sep del 2025 a las 10:29 AM",
+    "hora_utc": "2025-09-03 14:29",
+    "mensaje": "🔴Estimados clientes se les informa que en estos momentos queda afectado por manipulación el circuito 9 .",
+    "timestamp": 1756909755,
+    "timestamp_local": 1756909755
+  },
+  {
+    "id": 44032,
+    "fecha": "03 de Sep del 2025 a las 10:25 AM",
+    "hora_utc": "2025-09-03 14:25",
+    "mensaje": "🔴Estimados clientes se les informa que se incorpora a la afectación el circuito 8 .",
+    "timestamp": 1756909501,
+    "timestamp_local": 1756909501
+  },
+  {
     "id": 44031,
     "fecha": "03 de Sep del 2025 a las 09:55 AM",
     "hora_utc": "2025-09-03 13:55",
@@ -126,37 +158,5 @@
     "mensaje": "👉 Estimados clientes se le informa que en estos momentos están Disparados por DAF los circuitos 13 y LI 5975 Baconao.",
     "timestamp": 1756870173,
     "timestamp_local": 1756870173
-  },
-  {
-    "id": 44015,
-    "fecha": "02 de Sep del 2025 a las 10:23 PM",
-    "hora_utc": "2025-09-03 02:23",
-    "mensaje": "👉 Estimados clientes se le informa que en estos momentos están afectados por Déficit de Capacidad de Generación, el servicio eléctrico de los circuitos 1, 14(seccionalizado) y 25 de Santiago, y el circuito 1 de Palma.",
-    "timestamp": 1756866209,
-    "timestamp_local": 1756866209
-  },
-  {
-    "id": 44014,
-    "fecha": "02 de Sep del 2025 a las 09:57 PM",
-    "hora_utc": "2025-09-03 01:57",
-    "mensaje": "🔴 Disparo Automático de Frecuencia (DAF):\nOcurre cuando.  la frecuencia está por debajo de los 60Hz y determinada carga o circuito se desconecta del sistema automáticamente hasta que se estabilice",
-    "timestamp": 1756864641,
-    "timestamp_local": 1756864641
-  },
-  {
-    "id": 44013,
-    "fecha": "02 de Sep del 2025 a las 09:56 PM",
-    "hora_utc": "2025-09-03 01:56",
-    "mensaje": "👉 Estimados clientes se le informa que en estos momentos el circuito 13 esta Disparado por DAF",
-    "timestamp": 1756864619,
-    "timestamp_local": 1756864619
-  },
-  {
-    "id": 44012,
-    "fecha": "02 de Sep del 2025 a las 09:21 PM",
-    "hora_utc": "2025-09-03 01:21",
-    "mensaje": "👉 Estimados clientes se le informa que en estos momentos están afectados por Déficit de Capacidad de Generación el circuito 7",
-    "timestamp": 1756862509,
-    "timestamp_local": 1756862509
   }
 ]
