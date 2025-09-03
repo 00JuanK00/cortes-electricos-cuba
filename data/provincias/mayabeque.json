@@ -1,5 +1,37 @@
 [
   {
+    "id": 88003,
+    "fecha": "03 de Sep del 2025 a las 07:45 PM",
+    "hora_utc": "2025-09-03 23:45",
+    "mensaje": "🔷 Restablecido el servicio en el circuito Aguacate que se encontraba afectado por disparo en las líneas 🔷",
+    "timestamp": 1756943113,
+    "timestamp_local": 1756943113
+  },
+  {
+    "id": 88002,
+    "fecha": "03 de Sep del 2025 a las 07:44 PM",
+    "hora_utc": "2025-09-03 23:44",
+    "mensaje": "🚨 Continúa afectado el servicio por déficit de capacidad de generación en el circuito San Nicolás 1 🚨",
+    "timestamp": 1756943083,
+    "timestamp_local": 1756943083
+  },
+  {
+    "id": 88001,
+    "fecha": "03 de Sep del 2025 a las 07:43 PM",
+    "hora_utc": "2025-09-03 23:43",
+    "mensaje": "🔷 Restablecido el servicio en el circuito San Nicolás 1 por manipulación 🔷",
+    "timestamp": 1756942997,
+    "timestamp_local": 1756942997
+  },
+  {
+    "id": 88000,
+    "fecha": "03 de Sep del 2025 a las 07:21 PM",
+    "hora_utc": "2025-09-03 23:21",
+    "mensaje": "🚨Por déficit de capacidad de generación se afecta el servicio en el siguiente circuito:\n* 2420 🚨",
+    "timestamp": 1756941704,
+    "timestamp_local": 1756941704
+  },
+  {
     "id": 87999,
     "fecha": "03 de Sep del 2025 a las 06:47 PM",
     "hora_utc": "2025-09-03 22:47",
@@ -118,29 +150,5 @@
     "mensaje": "🚨🚨Estimado cliente se ha realizado un cambio de esquema en el circuito Melena 1 donde las siguientes zonas se alimentarán por el circuito Melena 2🚨🚨\n* Clínica Estomatologica\n* Empresa Cubana del Pan\n* Bandec\n* Cimex\n* Panadería '' La Mia ''\n* GEE Comunitaria TV",
     "timestamp": 1756934630,
     "timestamp_local": 1756934630
-  },
-  {
-    "id": 87983,
-    "fecha": "03 de Sep del 2025 a las 05:05 PM",
-    "hora_utc": "2025-09-03 21:05",
-    "mensaje": "🚨Por déficit de capacidad de generación se afecta el servicio en el siguiente circuito:\n* 2440 🚨",
-    "timestamp": 1756933504,
-    "timestamp_local": 1756933504
-  },
-  {
-    "id": 87982,
-    "fecha": "03 de Sep del 2025 a las 05:04 PM",
-    "hora_utc": "2025-09-03 21:04",
-    "mensaje": "🚨Por déficit de capacidad de generación se afecta el servicio en el siguiente circuito:\n* Héctor Molina 🚨",
-    "timestamp": 1756933473,
-    "timestamp_local": 1756933473
-  },
-  {
-    "id": 87981,
-    "fecha": "03 de Sep del 2025 a las 04:59 PM",
-    "hora_utc": "2025-09-03 20:59",
-    "mensaje": "🔷 Restablecido el servicio en el circuito 3130 que se encontraba afectado por tormenta 🔷\n\n🚨 Continuando afectado el servicio por déficit de capacidad de generación en el circuito Jaruco 🚨",
-    "timestamp": 1756933185,
-    "timestamp_local": 1756933185
   }
 ]
