@@ -1,5 +1,37 @@
 [
   {
+    "id": 32897,
+    "fecha": "02 de Sep del 2025 a las 08:21 PM",
+    "hora_utc": "2025-09-03 00:21",
+    "mensaje": "🚨 Afectados por deficit los circuitos\n\n➡️Gran Panel, Pilar y Beliert \n➡️1262 de Artemisa \n➡️Bombeo Ceiba 1\n\n\n‼️ Tenemos una afectación de 170   MW",
+    "timestamp": 1756858879,
+    "timestamp_local": 1756858879
+  },
+  {
+    "id": 32896,
+    "fecha": "02 de Sep del 2025 a las 08:14 PM",
+    "hora_utc": "2025-09-03 00:14",
+    "mensaje": "🚨 Afectado por deficit el circuito\n\n➡️Circuito Bauta Vieja \n\n‼️ Tenemos una afectación de 170 MW",
+    "timestamp": 1756858454,
+    "timestamp_local": 1756858454
+  },
+  {
+    "id": 32895,
+    "fecha": "02 de Sep del 2025 a las 08:01 PM",
+    "hora_utc": "2025-09-03 00:01",
+    "mensaje": "✅ Restablecido el circuito 5050 que estaba abierto por emergencia",
+    "timestamp": 1756857709,
+    "timestamp_local": 1756857709
+  },
+  {
+    "id": 32894,
+    "fecha": "02 de Sep del 2025 a las 07:54 PM",
+    "hora_utc": "2025-09-02 23:54",
+    "mensaje": "❌Abierto el circuito 5050 de Bauta por emergencia",
+    "timestamp": 1756857240,
+    "timestamp_local": 1756857240
+  },
+  {
     "id": 32893,
     "fecha": "02 de Sep del 2025 a las 07:38 PM",
     "hora_utc": "2025-09-02 23:38",
@@ -43,7 +75,7 @@
     "id": 32888,
     "fecha": "02 de Sep del 2025 a las 05:08 PM",
     "hora_utc": "2025-09-02 21:08",
-    "mensaje": "🚨 Afectado por deficit el circuito\n\n➡️Circuito Bauta Nueva \n\n‼️ Tenemos una afectación de 140 MW",
+    "mensaje": "‼️ Tenemos una afectación de 140 MW",
     "timestamp": 1756847327,
     "timestamp_local": 1756847327
   },
@@ -67,7 +99,7 @@
     "id": 32885,
     "fecha": "02 de Sep del 2025 a las 04:51 PM",
     "hora_utc": "2025-09-02 20:51",
-    "mensaje": "🚨 Afectados por deficit los circuitos\n\n➡️341 de San Cristóbal\n➡️1580 de Alquizar\n➡️246 de Bahía Honda excepto el hospital\n➡️3220 de San Antonio excepto el hospital\n➡️ 3205 de Cabañas \n➡️ 5040 de Caimito \n➡️236 de Bahía Honda\n\n\n‼️ Tenemos una afectación de 129  MW",
+    "mensaje": "🚨 Afectados por deficit los circuitos\n\n➡️341 de San Cristóbal\n➡️246 de Bahía Honda excepto el hospital\n➡️3220 de San Antonio excepto el hospital \n➡️236 de Bahía Honda\n\n\n‼️ Tenemos una afectación de 129  MW",
     "timestamp": 1756846289,
     "timestamp_local": 1756846289
   },
@@ -126,37 +158,5 @@
     "mensaje": "‼️ Tenemos una afectación de 126 MW",
     "timestamp": 1756827885,
     "timestamp_local": 1756827885
-  },
-  {
-    "id": 32877,
-    "fecha": "02 de Sep del 2025 a las 11:19 AM",
-    "hora_utc": "2025-09-02 15:19",
-    "mensaje": "‼️ Tenemos una afectación de 132 MW",
-    "timestamp": 1756826382,
-    "timestamp_local": 1756826382
-  },
-  {
-    "id": 32875,
-    "fecha": "02 de Sep del 2025 a las 09:46 AM",
-    "hora_utc": "2025-09-02 13:46",
-    "mensaje": "‼️Tenemos una afectación 126 MW",
-    "timestamp": 1756820789,
-    "timestamp_local": 1756820789
-  },
-  {
-    "id": 32874,
-    "fecha": "02 de Sep del 2025 a las 08:20 AM",
-    "hora_utc": "2025-09-02 12:20",
-    "mensaje": "‼️ Tenemos una afectación de 127 MW",
-    "timestamp": 1756815659,
-    "timestamp_local": 1756815659
-  },
-  {
-    "id": 32873,
-    "fecha": "02 de Sep del 2025 a las 06:41 AM",
-    "hora_utc": "2025-09-02 10:41",
-    "mensaje": "‼️ Circuito 236 de Bahía Honda en falla",
-    "timestamp": 1756809670,
-    "timestamp_local": 1756809670
   }
 ]
