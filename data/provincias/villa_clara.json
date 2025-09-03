@@ -1,5 +1,21 @@
 [
   {
+    "id": 28902,
+    "fecha": "03 de Sep del 2025 a las 01:01 AM",
+    "hora_utc": "2025-09-03 05:01",
+    "mensaje": "💡Restablecido el servicio eléctrico en los siguientes circuitos:\n\n🔹Bloque 8\nMunicipio Sagua:\n👉Ctos 43, 50 y 51\n👉Cto 147 Villa Alegre \n👉Cto 44 Isabela",
+    "timestamp": 1756875668,
+    "timestamp_local": 1756875668
+  },
+  {
+    "id": 28901,
+    "fecha": "03 de Sep del 2025 a las 12:56 AM",
+    "hora_utc": "2025-09-03 04:56",
+    "mensaje": "💡Restablecido el servicio eléctrico en el siguiente circuito:\nMunicipio Santa Clara👉Cto 167 (Virginia)",
+    "timestamp": 1756875404,
+    "timestamp_local": 1756875404
+  },
+  {
     "id": 28900,
     "fecha": "03 de Sep del 2025 a las 12:28 AM",
     "hora_utc": "2025-09-03 04:28",
@@ -43,7 +59,7 @@
     "id": 28895,
     "fecha": "02 de Sep del 2025 a las 11:20 PM",
     "hora_utc": "2025-09-03 03:20",
-    "mensaje": "💡Restablecido el servicio eléctrico en el siguiente circuito:\n🔹Bloque 3\nMunicipio Santa Clara\n👉Cto 170 (Condado)",
+    "mensaje": "💡Restablecido el servicio eléctrico en el siguiente circuito:\n🔹Bloque 3\nMunicipio Santa Clara\n👉Cto 170 (Virginia -José Marti)",
     "timestamp": 1756869640,
     "timestamp_local": 1756869640
   },
@@ -142,21 +158,5 @@
     "mensaje": "💡Será restablecido el servicio eléctrico en  los siguientes circuitos:\n\nMunicipio Ranchuelo:\n👉Cto 54, 94 y 95 Jicotea",
     "timestamp": 1756859099,
     "timestamp_local": 1756859099
-  },
-  {
-    "id": 28882,
-    "fecha": "02 de Sep del 2025 a las 08:15 PM",
-    "hora_utc": "2025-09-03 00:15",
-    "mensaje": "💡Será restablecido el servicio eléctrico en  los siguientes circuitos:\n\n🔹Bloque 6\nMunicipio Ranchuelo:\n👉Cto 92 Esperanza (Pueblo)\n👉Cto 93 Esperanza (Campo)",
-    "timestamp": 1756858554,
-    "timestamp_local": 1756858554
-  },
-  {
-    "id": 28881,
-    "fecha": "02 de Sep del 2025 a las 08:07 PM",
-    "hora_utc": "2025-09-03 00:07",
-    "mensaje": "Actualización del servicio eléctrico en la provincia\n✍️Se mantienen afectados en la provincia 170 circuitos.\n✍️En el momento de hacer esta nota la provincia tiene 164 MW de afectación por déficit de capacidad de generación, demanda máxima posible a apagar.\n✍️Cuenta con 140 afectaciones por averías secundarias y de servicio.",
-    "timestamp": 1756858031,
-    "timestamp_local": 1756858031
   }
 ]
