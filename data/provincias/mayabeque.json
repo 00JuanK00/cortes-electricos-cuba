@@ -1,5 +1,29 @@
 [
   {
+    "id": 87956,
+    "fecha": "03 de Sep del 2025 a las 02:00 PM",
+    "hora_utc": "2025-09-03 18:00",
+    "mensaje": "🔷 Restablecido el servicio en el circuito 1790 que se encontraba afectado por disparo en las líneas 🔷",
+    "timestamp": 1756922420,
+    "timestamp_local": 1756922420
+  },
+  {
+    "id": 87955,
+    "fecha": "03 de Sep del 2025 a las 01:59 PM",
+    "hora_utc": "2025-09-03 17:59",
+    "mensaje": "♦️ Afectado el servicio en el circuito 1790 por disparo en las líneas ♦️",
+    "timestamp": 1756922390,
+    "timestamp_local": 1756922390
+  },
+  {
+    "id": 87954,
+    "fecha": "03 de Sep del 2025 a las 01:56 PM",
+    "hora_utc": "2025-09-03 17:56",
+    "mensaje": "🔷 Restablecido el servicio en el circuito Güines 3 que se encontraba afectado por vía libre 🔷",
+    "timestamp": 1756922190,
+    "timestamp_local": 1756922190
+  },
+  {
     "id": 87952,
     "fecha": "03 de Sep del 2025 a las 01:14 PM",
     "hora_utc": "2025-09-03 17:14",
@@ -102,21 +126,5 @@
     "mensaje": "♦️ Afectado el servicio en el circuito 3655 por disparo en las líneas ♦️",
     "timestamp": 1756908854,
     "timestamp_local": 1756908854
-  },
-  {
-    "id": 87935,
-    "fecha": "03 de Sep del 2025 a las 09:22 AM",
-    "hora_utc": "2025-09-03 13:22",
-    "mensaje": "🔷♦️Se restablece el servicio en el siguiente circuito que se encontraba afectado por déficit de capacidad de generación:\n* 3 de San José ♦️🔷",
-    "timestamp": 1756905732,
-    "timestamp_local": 1756905732
-  },
-  {
-    "id": 87934,
-    "fecha": "03 de Sep del 2025 a las 09:21 AM",
-    "hora_utc": "2025-09-03 13:21",
-    "mensaje": "🚨Por déficit de capacidad de generación se afecta el servicio en el siguiente circuito:\n* 2 de San José 🚨",
-    "timestamp": 1756905706,
-    "timestamp_local": 1756905706
   }
 ]
