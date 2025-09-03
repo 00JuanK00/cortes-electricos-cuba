@@ -1,5 +1,37 @@
 [
   {
+    "id": 28932,
+    "fecha": "03 de Sep del 2025 a las 12:44 PM",
+    "hora_utc": "2025-09-03 16:44",
+    "mensaje": "⚠️Afectados por déficit de generación los circuitos siguientes:\n🔹Bloque 2\n👉Municipio Camajuaní:\nCto 75 La Quinta\nCto 157 Luis Arcos Bergnes\nCtos 76 y 90 Vega Alta",
+    "timestamp": 1756917870,
+    "timestamp_local": 1756917870
+  },
+  {
+    "id": 28931,
+    "fecha": "03 de Sep del 2025 a las 12:16 PM",
+    "hora_utc": "2025-09-03 16:16",
+    "mensaje": "📣El circuito 96 Bermejal, perteneciente al municipio Santo Domingo no será restablecido por encontrarse en una vía libre.",
+    "timestamp": 1756916169,
+    "timestamp_local": 1756916169
+  },
+  {
+    "id": 28930,
+    "fecha": "03 de Sep del 2025 a las 12:14 PM",
+    "hora_utc": "2025-09-03 16:14",
+    "mensaje": "💡Serán restablecidos los siguientes circuitos:\n🔹Bloque 5\n👉Municipio Santo Domingo:\nCto 134\nCtos 87  Bermejal\nCto 187 Batey Carlos Baliño\nCto 82 Ulacia\nCto 84 Rodrigo",
+    "timestamp": 1756916084,
+    "timestamp_local": 1756916084
+  },
+  {
+    "id": 28929,
+    "fecha": "03 de Sep del 2025 a las 12:03 PM",
+    "hora_utc": "2025-09-03 16:03",
+    "mensaje": "🕛Actualización del servicio eléctrico en las últimas 6 horas.\n\n👉El déficit de capacidad de generación osciló entre los 114 MW y los 101 MW.\n👉En el momento de esta nota, se mantienen afectados 119 circuitos.\n 👉Cuenta con 159 afectaciones por averías secundarias y de servicio:\n Manicaragua (17)\n Placetas (2)\n Quemado (2)\n Remedios (5) \n Sagua (2) \n Santa Clara (80)\n Santo Domingo (19)\n🛠️Se encuentran 5 averías en vías de solución.\n🛠️Pendientes a solucionar por el área técnica 28.\n\n⚡Avería primaria⚡\n🔹Municipio Remedios:\n👉Cto 71 Buena Vista\n👉Cto 70 Zuluetas",
+    "timestamp": 1756915392,
+    "timestamp_local": 1756915392
+  },
+  {
     "id": 28927,
     "fecha": "03 de Sep del 2025 a las 10:27 AM",
     "hora_utc": "2025-09-03 14:27",
@@ -118,37 +150,5 @@
     "mensaje": "🕕Actualización del servicio eléctrico en las últimas 6 horas.\n✍️El déficit de capacidad de generación osciló entre los 143 MW y los 114 MW.\n✍️En el momento de esta nota, se mantienen afectados 170 circuitos.\n✍️ Cuenta con 165 afectaciones por averías secundarias y de servicio:\n Corralillo (2)\n Manicaragua (16)\n Placetas (3)\n Quemado (2)\n Remedios (5) \n Santa Clara (86)\n Santo Domingo (20)\n🛠️Se encuentran 2 averías en vías de solución.\n🛠️Pendientes a solucionar por el área técnica 28.\n\n⚡Avería primaria.⚡\n\n➡️En estos momentos se encuentra afectado por cables primarios partidos el Cto 70 (Zulueta) perteneciente al Municipio Remedios.",
     "timestamp": 1756892783,
     "timestamp_local": 1756892783
-  },
-  {
-    "id": 28912,
-    "fecha": "03 de Sep del 2025 a las 05:32 AM",
-    "hora_utc": "2025-09-03 09:32",
-    "mensaje": "⚠️Afectados por déficit de capacidad de generación los siguientes circuitos:\n\n🔹Bloque 5\nMunicipio Santo Domingo:\n👉Cto 134\n👉Ctos 87 y 96 Bermejal\n👉Cto 187 Batey Carlos Baliño\n👉Cto 82 Ulacia\n👉Cto 84 Rodrigo",
-    "timestamp": 1756891961,
-    "timestamp_local": 1756891961
-  },
-  {
-    "id": 28911,
-    "fecha": "03 de Sep del 2025 a las 05:30 AM",
-    "hora_utc": "2025-09-03 09:30",
-    "mensaje": "⚠️Afectados por déficit de capacidad de generación los siguientes circuitos:\n\n🔹Bloque 3\nMunicipio Placetas:\n👉Cto 192 Benito Juárez\n👉Cto 102 Peroti",
-    "timestamp": 1756891810,
-    "timestamp_local": 1756891810
-  },
-  {
-    "id": 28910,
-    "fecha": "03 de Sep del 2025 a las 03:49 AM",
-    "hora_utc": "2025-09-03 07:49",
-    "mensaje": "Actualización del servicio eléctrico en la provincia\n✍️Se mantienen afectados en la provincia 170 circuitos.\n✍️En el momento de hacer esta nota la provincia tiene 119 MW de afectación por déficit de capacidad de generación, demanda máxima posible a apagar.\n✍️Cuenta con 135 afectaciones por averías secundarias y de servicio.",
-    "timestamp": 1756885751,
-    "timestamp_local": 1756885751
-  },
-  {
-    "id": 28909,
-    "fecha": "03 de Sep del 2025 a las 03:47 AM",
-    "hora_utc": "2025-09-03 07:47",
-    "mensaje": "⚠️Afectados por déficit de capacidad de generación los siguientes circuitos:\n\n🔹Bloque 1\nMunicipio Manicaragua:\n👉Ctos 109 y 150\n👉Ctos 108 y 110 La Piedra\n👉Cto 111 Mataguá\nMunicipio Encrucijada\n👉Cto 120 Calabazar\n👉Ctos 121 y 127 Perucho",
-    "timestamp": 1756885654,
-    "timestamp_local": 1756885654
   }
 ]
