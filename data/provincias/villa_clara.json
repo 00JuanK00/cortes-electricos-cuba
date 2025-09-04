@@ -1,5 +1,37 @@
 [
   {
+    "id": 28999,
+    "fecha": "04 de Sep del 2025 a las 06:38 PM",
+    "hora_utc": "2025-09-04 22:38",
+    "mensaje": "⚠️Afectados por déficit de generación los siguientes circuitos:\n🔹Bloque 11\n👉Ctos 69 y 70 Zuluetas\n👉Cto 143 Batey Heriberto Duquesne\n👉Cto 71 Buena Vista",
+    "timestamp": 1757025532,
+    "timestamp_local": 1757025532
+  },
+  {
+    "id": 28998,
+    "fecha": "04 de Sep del 2025 a las 06:23 PM",
+    "hora_utc": "2025-09-04 22:23",
+    "mensaje": "⚠️Afectados por déficit de generación los siguientes circuitos:\n🔹Bloque 3\nMunicipio Santa Clara:\n👉Cto 166 (Condado)\n👉Cto 167 (Virginia)\n👉Cto 168 (Condado- XX Aniversario)\n👉Cto 170 (José Martí)\n👉Cto 171 (Los Caneyes)",
+    "timestamp": 1757024630,
+    "timestamp_local": 1757024630
+  },
+  {
+    "id": 28997,
+    "fecha": "04 de Sep del 2025 a las 06:18 PM",
+    "hora_utc": "2025-09-04 22:18",
+    "mensaje": "💡Se ha restablecido el servicio eléctrico al Circuito 4 perteneciente al municipio Santa Clara.",
+    "timestamp": 1757024315,
+    "timestamp_local": 1757024315
+  },
+  {
+    "id": 28996,
+    "fecha": "04 de Sep del 2025 a las 06:15 PM",
+    "hora_utc": "2025-09-04 22:15",
+    "mensaje": "🕛Actualización del servicio eléctrico en las últimas 6 horas.\n👉El déficit de capacidad de generación osciló entre los 79 MW y los 112 MW.\n👉En el momento de esta nota, se mantienen afectados 113 circuitos.\n 👉Cuenta con 190 afectaciones por averías secundarias y de servicio:\nCamajuani(3)\nCifuentes(6)\nEncrucijada(7)\n Corralillo (3)\n Manicaragua (29)\n Placetas (10)\n Ranchuelo (10)\n Remedios (9) \n Sagua(8)\n Santa Clara (80)\n Santo Domingo (24)\n🛠️Se encuentran 19 averías en vías de solución.\n🛠️Pendientes a solucionar por el área técnica 9.\n⚡Avería primaria⚡\n👉🛠️Se encuentra afectado el 109 150 Manicaragua Pueblo por avería",
+    "timestamp": 1757024125,
+    "timestamp_local": 1757024125
+  },
+  {
     "id": 28995,
     "fecha": "04 de Sep del 2025 a las 05:23 PM",
     "hora_utc": "2025-09-04 21:23",
@@ -126,37 +158,5 @@
     "mensaje": "🕛Actualización del servicio eléctrico en las últimas 6 horas.\n👉El déficit de capacidad de generación osciló entre los 82 MW y los 79 MW.\n👉En el momento de esta nota, se mantienen afectados 89 circuitos.\n 👉Cuenta con 179 afectaciones por averías secundarias y de servicio:\nCaibarien(4)\nCamajuani(5)\nCifuentes(4)\nEncrucijada(6)\n Corralillo (6)\n Manicaragua (18)\n Quemado (1)\n Placetas (7)\n Ranchuelo (6)\n Remedios (13) \n Sagua(4)\n Santa Clara (85)\n Santo Domingo (22)\n🛠️Se encuentran 12 averías en vías de solución.\n🛠️Pendientes a solucionar por el área técnica 31.\n⚡Avería primaria⚡\n👉Se encuentra afectado de forma parcial el circuito 111 Matagua\n👉🛠️Averia en la Linea 1375 \n👉🛠️Se encuentra afectado el 109 150 Manicaragua Pueblo por avería",
     "timestamp": 1757001819,
     "timestamp_local": 1757001819
-  },
-  {
-    "id": 28979,
-    "fecha": "04 de Sep del 2025 a las 11:50 AM",
-    "hora_utc": "2025-09-04 15:50",
-    "mensaje": "💡Restablecido el servicio eléctrico en la Linea 861",
-    "timestamp": 1757001021,
-    "timestamp_local": 1757001021
-  },
-  {
-    "id": 28978,
-    "fecha": "04 de Sep del 2025 a las 11:30 AM",
-    "hora_utc": "2025-09-04 15:30",
-    "mensaje": "🛠️Será afectada por manipulación  Linea 861 afectando los circuitos:\n👉Cto 5 (Dobarganes)\n👉Cto 17 (Subplanta) \n👉Ctos 37 y 38 (Yabú)   \n👉Cto 9 (Moldes y Troqueles)\n👉Cto 133 (Cafetera)",
-    "timestamp": 1756999844,
-    "timestamp_local": 1756999844
-  },
-  {
-    "id": 28977,
-    "fecha": "04 de Sep del 2025 a las 11:14 AM",
-    "hora_utc": "2025-09-04 15:14",
-    "mensaje": "🛠️Averia en la Linea 1375 perteneciente al municipio Caibarien pendiente a manipulación de Sancti Spiritus afectando los circuitos :\n👉Ctos 63 y 64\n👉Ctos 182 y 183 Van Troi",
-    "timestamp": 1756998856,
-    "timestamp_local": 1756998856
-  },
-  {
-    "id": 28976,
-    "fecha": "04 de Sep del 2025 a las 10:04 AM",
-    "hora_utc": "2025-09-04 14:04",
-    "mensaje": "⚠️Afectados por déficit de generación los siguientes circuitos:\n🔹Bloque 11\nMunicipio Quemado:\n👉Ctos 52 y 53 Quemado.\n👉Cto 196 Batey Panchito Gómez Toro.\nMunicipio Corralillo:\n👉Cto 55 Rancho Veloz",
-    "timestamp": 1756994685,
-    "timestamp_local": 1756994685
   }
 ]
