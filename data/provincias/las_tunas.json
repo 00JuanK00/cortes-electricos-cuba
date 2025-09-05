@@ -1,5 +1,21 @@
 [
   {
+    "id": 16519,
+    "fecha": "05 de Sep del 2025 a las 10:12 AM",
+    "hora_utc": "2025-09-05 14:12",
+    "mensaje": "El servicio eléctrico está temporalmente interrumpido en los circuitos TK62 y TK63 (zona de Lora) debido a una sobrecarga en el circuito.",
+    "timestamp": 1757081521,
+    "timestamp_local": 1757081521
+  },
+  {
+    "id": 16518,
+    "fecha": "05 de Sep del 2025 a las 10:02 AM",
+    "hora_utc": "2025-09-05 14:02",
+    "mensaje": "Se mantiene afectado el servicio eléctrico a los clientes de la calle Julián Grimau de Vázquez por un transformador dañado.",
+    "timestamp": 1757080921,
+    "timestamp_local": 1757080921
+  },
+  {
     "id": 16517,
     "fecha": "05 de Sep del 2025 a las 09:59 AM",
     "hora_utc": "2025-09-05 13:59",
@@ -126,21 +142,5 @@
     "mensaje": "Restablecida la avería en el circuito TK50 Vázquez",
     "timestamp": 1756955432,
     "timestamp_local": 1756955432
-  },
-  {
-    "id": 16498,
-    "fecha": "03 de Sep del 2025 a las 10:03 PM",
-    "hora_utc": "2025-09-04 02:03",
-    "mensaje": "Se declara en avería el circuito de 33Kv 6220\n\nTK61La Yaya\n\nTK58La Calera\n\nTK62Lora\n\nTK63Lora\n\nTJ95Poblado Menéndez\n\n6220Carúpano, La Salina y La Playa",
-    "timestamp": 1756951405,
-    "timestamp_local": 1756951405
-  },
-  {
-    "id": 16497,
-    "fecha": "03 de Sep del 2025 a las 08:54 PM",
-    "hora_utc": "2025-09-04 00:54",
-    "mensaje": "Se declara en avería los circuitos TK 50 y TK 54 Vázquez",
-    "timestamp": 1756947244,
-    "timestamp_local": 1756947244
   }
 ]
