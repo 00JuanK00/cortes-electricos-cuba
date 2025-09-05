@@ -1,5 +1,29 @@
 [
   {
+    "id": 29008,
+    "fecha": "04 de Sep del 2025 a las 11:13 PM",
+    "hora_utc": "2025-09-05 03:13",
+    "mensaje": "⚠️Afectados por déficit de generación los siguientes circuitos:\n🔹Bloque 4\nMunicipio Camajuaní\n👉Ctos 77, 59, 185 Vueltas",
+    "timestamp": 1757041996,
+    "timestamp_local": 1757041996
+  },
+  {
+    "id": 29007,
+    "fecha": "04 de Sep del 2025 a las 10:55 PM",
+    "hora_utc": "2025-09-05 02:55",
+    "mensaje": "💡Restablecido el servicio eléctrico en los siguientes circuitos:\n🔹Bloque 9\nMunicipio Santa Clara:\n👉Cto 16 Cubanacán\n👉Ctos 23 y 130 La Ceniza\n👉Cto 42 Manajanabo\nMunicipio Placetas\n👉Cto 139 Miller\n👉Cto 190 Oliver\n👉Cto 106 Falcón",
+    "timestamp": 1757040908,
+    "timestamp_local": 1757040908
+  },
+  {
+    "id": 29006,
+    "fecha": "04 de Sep del 2025 a las 10:37 PM",
+    "hora_utc": "2025-09-05 02:37",
+    "mensaje": "Actualización del servicio eléctrico en la provincia\n✍️Se mantienen afectados en la provincia 137 circuitos.\n✍️En el momento de hacer esta nota la provincia tiene 121 MW de afectación por déficit de capacidad de generación, demanda máxima posible a apagar.\n✍️Cuenta con 170 afectaciones por averías secundarias y de servicio.",
+    "timestamp": 1757039839,
+    "timestamp_local": 1757039839
+  },
+  {
     "id": 29005,
     "fecha": "04 de Sep del 2025 a las 09:57 PM",
     "hora_utc": "2025-09-05 01:57",
@@ -134,29 +158,5 @@
     "mensaje": "Actualización del servicio eléctrico en la provincia\n✍️Se mantienen afectados en la provincia 89 circuitos.\n✍️En el momento de hacer esta nota la provincia tiene 74 MW de afectación por déficit de capacidad de generación, demanda máxima posible a apagar.\n✍️Cuenta con 204 afectaciones por averías secundarias y de servicio.",
     "timestamp": 1757009351,
     "timestamp_local": 1757009351
-  },
-  {
-    "id": 28987,
-    "fecha": "04 de Sep del 2025 a las 01:30 PM",
-    "hora_utc": "2025-09-04 17:30",
-    "mensaje": "⚠️Serán afectados por déficit de generación los siguientes circuitos:\n🔹Bloque 9\nMunicipio Placetas:\n👉Cto 107 Baez\n👉Cto 105 Nazareno",
-    "timestamp": 1757007051,
-    "timestamp_local": 1757007051
-  },
-  {
-    "id": 28986,
-    "fecha": "04 de Sep del 2025 a las 01:27 PM",
-    "hora_utc": "2025-09-04 17:27",
-    "mensaje": "⚠️Afectados por déficit de generación los siguientes circuitos:🔹Bloque 2\nMunicipio Camajuaní:\n👉Cto 75 La Quinta\n👉Cto 157 Luis Arcos Bergne\n👉Ctos 76 y 90 Vega Alta \nMunicipio Cifuentes:\n👉Ctos 114 y 117\n👉Ctos 116 y 155 Mata\n👉Cto 186 Batey Unidad Proletaria\n👉Cto 184 Sitio Grande\n 🔹Bloque 1\nMunicipio Encrucijada\n👉Cto 120 Calabazar\n👉Ctos 121 y 127 Perucho",
-    "timestamp": 1757006853,
-    "timestamp_local": 1757006853
-  },
-  {
-    "id": 28985,
-    "fecha": "04 de Sep del 2025 a las 01:19 PM",
-    "hora_utc": "2025-09-04 17:19",
-    "mensaje": "La provincia tiene 75 MW de afectación por déficit de capacidad de generación,",
-    "timestamp": 1757006398,
-    "timestamp_local": 1757006398
   }
 ]
