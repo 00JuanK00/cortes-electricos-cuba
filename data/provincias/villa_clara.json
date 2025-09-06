@@ -1,5 +1,21 @@
 [
   {
+    "id": 29095,
+    "fecha": "06 de Sep del 2025 a las 03:00 AM",
+    "hora_utc": "2025-09-06 07:00",
+    "mensaje": "La provincia tiene 120 MW de afectación por déficit de capacidad de generación.",
+    "timestamp": 1757142038,
+    "timestamp_local": 1757142038
+  },
+  {
+    "id": 29094,
+    "fecha": "06 de Sep del 2025 a las 02:55 AM",
+    "hora_utc": "2025-09-06 06:55",
+    "mensaje": "⚠️Afectados por déficit de generación los siguientes circuitos:\n🔹Bloque 5 \nMunicipio Santo Domingo:\n👉Cto 134 Santo Domingo\n👉Ctos 87 y 96 Bermejal\n👉Cto 187 Batey Carlos Baliño\n👉Cto 82 Ulacia\n👉Cto 84 Rodrigo",
+    "timestamp": 1757141701,
+    "timestamp_local": 1757141701
+  },
+  {
     "id": 29093,
     "fecha": "06 de Sep del 2025 a las 02:03 AM",
     "hora_utc": "2025-09-06 06:03",
@@ -134,21 +150,5 @@
     "mensaje": "💡Restablecido el servicio eléctrico en los siguientes circuitos:\n🔸Bloque 10\nMunicipio Santa Clara:\n👉Ctos 15 y 27 (Maleza)\n👉Cto 144 (Camacho)\n👉Cto 14  de Malezas",
     "timestamp": 1757117018,
     "timestamp_local": 1757117018
-  },
-  {
-    "id": 29075,
-    "fecha": "05 de Sep del 2025 a las 08:01 PM",
-    "hora_utc": "2025-09-06 00:01",
-    "mensaje": "Actualización del servicio eléctrico en la provincia\n✍️Se mantienen afectados en la provincia 146 circuitos.\n✍️En el momento de hacer esta nota la provincia tiene 150 MW de afectación por déficit de capacidad de generación, demanda máxima posible a apagar.\n✍️Cuenta con 183 afectaciones por averías secundarias y de servicio.",
-    "timestamp": 1757116911,
-    "timestamp_local": 1757116911
-  },
-  {
-    "id": 29074,
-    "fecha": "05 de Sep del 2025 a las 07:45 PM",
-    "hora_utc": "2025-09-05 23:45",
-    "mensaje": "➡️Ante cualquier duda con la terminología eléctrica, les volvemos explicar: \n     \n👉Las averías pueden ser primarias (afecta un volumen grande de población pues son las líneas de distribución a 13.8kV y puede afectar varias manzanas, incluso repartos completos).\n\n👉Secundarias (afecta a todos los clientes que se alimenten del mismo transformador, puede afectar una o varias cuadras). \n\n👉De servicio (afectan 1 solo cliente o instalación generalmente producto a daños en la acometida, metro contador, etc.).",
-    "timestamp": 1757115955,
-    "timestamp_local": 1757115955
   }
 ]
