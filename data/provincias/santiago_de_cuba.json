@@ -1,5 +1,29 @@
 [
   {
+    "id": 44168,
+    "fecha": "06 de Sep del 2025 a las 06:45 AM",
+    "hora_utc": "2025-09-06 10:45",
+    "mensaje": "Disparo Automático de Frecuencia (DAF):\nOcurre cuando la frecuencia está por debajo de los 60Hz y determinada carga o circuito se desconecta del sistema automáticamente hasta que se estabilice.",
+    "timestamp": 1757155529,
+    "timestamp_local": 1757155529
+  },
+  {
+    "id": 44167,
+    "fecha": "06 de Sep del 2025 a las 06:44 AM",
+    "hora_utc": "2025-09-06 10:44",
+    "mensaje": "🔉 Estimados clientes se les informa que se encuentra la línea 5975 Baconao Disparado por (DAF) .",
+    "timestamp": 1757155495,
+    "timestamp_local": 1757155495
+  },
+  {
+    "id": 44166,
+    "fecha": "06 de Sep del 2025 a las 06:35 AM",
+    "hora_utc": "2025-09-06 10:35",
+    "mensaje": "🔉 Les seguiremos informando a través de nuestro canal de Telegram sobre la situación de la Disponibilidad del Sistema en nuestra provincia.",
+    "timestamp": 1757154904,
+    "timestamp_local": 1757154904
+  },
+  {
     "id": 44165,
     "fecha": "06 de Sep del 2025 a las 05:42 AM",
     "hora_utc": "2025-09-06 09:42",
@@ -19,7 +43,7 @@
     "id": 44163,
     "fecha": "06 de Sep del 2025 a las 02:18 AM",
     "hora_utc": "2025-09-06 06:18",
-    "mensaje": "🔉 Estimados clientes se les informa que se encuentran afectados el circuito 19 de Santiago y la Línea 5975 Baconao por déficit en capacidad de generación .",
+    "mensaje": "🔉 Estimados clientes se les informa que se encuentran afectados el circuito 11 , 13 , 19 de Santiago y la Línea 5975 Baconao por déficit en capacidad de generación .",
     "timestamp": 1757139501,
     "timestamp_local": 1757139501
   },
@@ -118,29 +142,5 @@
     "mensaje": "🚨Estimados clientes se les informa que se encuentran afectados por Déficit los circuitos 8 de Santiago , 4 Palma ,III Frente (contramaestre).",
     "timestamp": 1757103433,
     "timestamp_local": 1757103433
-  },
-  {
-    "id": 44148,
-    "fecha": "05 de Sep del 2025 a las 03:34 PM",
-    "hora_utc": "2025-09-05 19:34",
-    "mensaje": "🚨Estimado clientes se les informa que se encuentran en estos momentos afectos por Déficit  los circuitos 1,7 de Santiago.",
-    "timestamp": 1757100863,
-    "timestamp_local": 1757100863
-  },
-  {
-    "id": 44147,
-    "fecha": "05 de Sep del 2025 a las 03:19 PM",
-    "hora_utc": "2025-09-05 19:19",
-    "mensaje": "🚨Estimados clientes se les informa que en estos momentos se encuentran afectados por Déficit  los circuitos 9,11,12 de Santiago.",
-    "timestamp": 1757099987,
-    "timestamp_local": 1757099987
-  },
-  {
-    "id": 44146,
-    "fecha": "05 de Sep del 2025 a las 03:06 PM",
-    "hora_utc": "2025-09-05 19:06",
-    "mensaje": "🚨Estimados clientes se les informa que se encuentra el circuito 13 de Santiago disparado.",
-    "timestamp": 1757099211,
-    "timestamp_local": 1757099211
   }
 ]

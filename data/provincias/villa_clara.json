@@ -1,5 +1,37 @@
 [
   {
+    "id": 29099,
+    "fecha": "06 de Sep del 2025 a las 06:45 AM",
+    "hora_utc": "2025-09-06 10:45",
+    "mensaje": "⚡Avería⚡Línea 861 \nMunicipio Santa Clara:\nCto 5 (Dobarganes)\nCto 17 (Subplanta) \nCtos 37 y 38 (Yabú)   \nCto 9 (Moldes y Troqueles)\nCto 133 (Cafetera)",
+    "timestamp": 1757155540,
+    "timestamp_local": 1757155540
+  },
+  {
+    "id": 29098,
+    "fecha": "06 de Sep del 2025 a las 06:34 AM",
+    "hora_utc": "2025-09-06 10:34",
+    "mensaje": "⚠️Disparado el Cto 13 perteneciente al municipio Santa Clara.",
+    "timestamp": 1757154881,
+    "timestamp_local": 1757154881
+  },
+  {
+    "id": 29097,
+    "fecha": "06 de Sep del 2025 a las 06:32 AM",
+    "hora_utc": "2025-09-06 10:32",
+    "mensaje": "⚠️Disparo en línea 861 perteneciente a Santa Clara:\nLínea 861 \nMunicipio Santa Clara:\nCto 5 (Dobarganes)\nCto 17 (Subplanta) \nCtos 37 y 38 (Yabú)   \nCto 9 (Moldes y Troqueles)\nCto 133 (Cafetera)",
+    "timestamp": 1757154742,
+    "timestamp_local": 1757154742
+  },
+  {
+    "id": 29096,
+    "fecha": "06 de Sep del 2025 a las 06:31 AM",
+    "hora_utc": "2025-09-06 10:31",
+    "mensaje": "🕛Actualización del servicio eléctrico en las últimas 6 horas.\n👉El déficit de capacidad de generación osciló entre los 131 MW y los 120 MW.\n👉En el momento de esta nota, se mantienen afectados 163 circuitos.\n👉Cuenta con 162 afectaciones por averías secundarias y de servicio:\nCaibarién (4)\nCamajuani(3)\nCorralillo (7)\nEncrucijada(3)\nManicaragua (33)\nPlacetas (5)\nQuemado (2)\nRanchuelo (4)\nRemedios (12) \nSagua(8)\nSanta Clara (43)\nSanto Domingo (38)\n🛠️Se encuentran 0 averías en vías de solución.\n🛠️Pendientes a solucionar por el área técnica 34.\n⚡Actualización de averías en la provincia⚡\n👉Cto 86 (Pajarito), perteneciente al municipio Santo Domingo.",
+    "timestamp": 1757154674,
+    "timestamp_local": 1757154674
+  },
+  {
     "id": 29095,
     "fecha": "06 de Sep del 2025 a las 03:00 AM",
     "hora_utc": "2025-09-06 07:00",
@@ -118,37 +150,5 @@
     "mensaje": "💡Será restablecido el servicio eléctrico en los siguientes circuitos:\n🔸Bloque 4  \nMunicipio Encrucijada:\n👉Cto 122 Encrucijada \n👉Cto 123 Vizcaya \n👉Cto 142 Comunidad La Sierra \n👉Cto 126 Batey Emilio Córdova\n👉Cto 125 Cavarrocas\n👉Cto 124 El Santo\nMunicipio Camajuaní:\n👉Cto 78 Jutiero  \nMunicipio Camajuaní:\n👉Ctos 77, 59 y 185 Vueltas",
     "timestamp": 1757120865,
     "timestamp_local": 1757120865
-  },
-  {
-    "id": 29079,
-    "fecha": "05 de Sep del 2025 a las 09:02 PM",
-    "hora_utc": "2025-09-06 01:02",
-    "mensaje": "La provincia tiene 145 MW de afectación por déficit de capacidad de generación.",
-    "timestamp": 1757120529,
-    "timestamp_local": 1757120529
-  },
-  {
-    "id": 29078,
-    "fecha": "05 de Sep del 2025 a las 08:09 PM",
-    "hora_utc": "2025-09-06 00:09",
-    "mensaje": "💡Restablecido el servicio eléctrico en los siguientes circuitos:\n🔸Bloque 6\nMunicipio Ranchuelo:\nCto 92 Esperanza (Pueblo)\nCto 93 Esperanza (Campo)\nCto 54 94 y 95 Jicotea\nMunicipio Santa Clara:\nCtos 26 y 141 (Manuelita)\nCto 191 (Quemado de Hilario)",
-    "timestamp": 1757117367,
-    "timestamp_local": 1757117367
-  },
-  {
-    "id": 29077,
-    "fecha": "05 de Sep del 2025 a las 08:04 PM",
-    "hora_utc": "2025-09-06 00:04",
-    "mensaje": "⚠️Disparado el Cto 14 (Maleza), perteneciente al municipio Santa Clara.",
-    "timestamp": 1757117067,
-    "timestamp_local": 1757117067
-  },
-  {
-    "id": 29076,
-    "fecha": "05 de Sep del 2025 a las 08:03 PM",
-    "hora_utc": "2025-09-06 00:03",
-    "mensaje": "💡Restablecido el servicio eléctrico en los siguientes circuitos:\n🔸Bloque 10\nMunicipio Santa Clara:\n👉Ctos 15 y 27 (Maleza)\n👉Cto 144 (Camacho)\n👉Cto 14  de Malezas",
-    "timestamp": 1757117018,
-    "timestamp_local": 1757117018
   }
 ]
