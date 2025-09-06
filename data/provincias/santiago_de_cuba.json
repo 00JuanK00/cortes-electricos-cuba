@@ -1,5 +1,29 @@
 [
   {
+    "id": 44172,
+    "fecha": "06 de Sep del 2025 a las 07:30 AM",
+    "hora_utc": "2025-09-06 11:30",
+    "mensaje": "Disparo:\nApertura no voluntaria de un interruptor como vía de protección para desconectar uno o varios elementos del circuito, subestación o sistema, restableciéndose el servicio rápidamente en dependencia de la causa.",
+    "timestamp": 1757158215,
+    "timestamp_local": 1757158215
+  },
+  {
+    "id": 44171,
+    "fecha": "06 de Sep del 2025 a las 07:29 AM",
+    "hora_utc": "2025-09-06 11:29",
+    "mensaje": "🔉 Estimados clientes se les informa que se encuentra el circuito 1 de Palma disparado .",
+    "timestamp": 1757158198,
+    "timestamp_local": 1757158198
+  },
+  {
+    "id": 44170,
+    "fecha": "06 de Sep del 2025 a las 07:29 AM",
+    "hora_utc": "2025-09-06 11:29",
+    "mensaje": "🔉 Estimados clientes se les informa que se encuentra afectados los circuitos 7 , 21 , 16 , 19 de Santiago por déficit en capacidad de generación .",
+    "timestamp": 1757158146,
+    "timestamp_local": 1757158146
+  },
+  {
     "id": 44169,
     "fecha": "06 de Sep del 2025 a las 06:56 AM",
     "hora_utc": "2025-09-06 10:56",
@@ -126,29 +150,5 @@
     "mensaje": "🔉Estimados clientes se les informa que se encuentran afectados los circuitos 16 , 19 de Santiago , línea 5390 La Maya , Palma Oeste , El Alambre , El Pilar por déficit en capacidad de generación .",
     "timestamp": 1757114353,
     "timestamp_local": 1757114353
-  },
-  {
-    "id": 44152,
-    "fecha": "05 de Sep del 2025 a las 06:27 PM",
-    "hora_utc": "2025-09-05 22:27",
-    "mensaje": "🔉 Estimados clientes se les informa que se encuentran afectados los circuitos 2 , 11 , 20 de Santiago , 2 de Palma , línea 4385 Contramaestre por déficit en capacidad de generación .",
-    "timestamp": 1757111266,
-    "timestamp_local": 1757111266
-  },
-  {
-    "id": 44151,
-    "fecha": "05 de Sep del 2025 a las 05:54 PM",
-    "hora_utc": "2025-09-05 21:54",
-    "mensaje": "🔉Estimados clientes se les informa que se encuentran afectados el circuito 25 de Santiago y la línea 5395 San Luis por déficit en capacidad de generación .",
-    "timestamp": 1757109264,
-    "timestamp_local": 1757109264
-  },
-  {
-    "id": 44150,
-    "fecha": "05 de Sep del 2025 a las 04:17 PM",
-    "hora_utc": "2025-09-05 20:17",
-    "mensaje": "🚨Estimados clientes se les informa que se encuentran afectados por Déficit los circuitos 8 de Santiago , 4 Palma ,III Frente (contramaestre).",
-    "timestamp": 1757103433,
-    "timestamp_local": 1757103433
   }
 ]
