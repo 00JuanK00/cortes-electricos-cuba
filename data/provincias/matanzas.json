@@ -1,5 +1,13 @@
 [
   {
+    "id": 25698,
+    "fecha": "08 de Sep del 2025 a las 06:03 PM",
+    "hora_utc": "2025-09-08 22:03",
+    "mensaje": "⚡La afectación de nuestra provincia en este momento por déficit en la capacidad de generación es de 161 MW",
+    "timestamp": 1757369016,
+    "timestamp_local": 1757369016
+  },
+  {
     "id": 25697,
     "fecha": "08 de Sep del 2025 a las 05:45 PM",
     "hora_utc": "2025-09-08 21:45",
@@ -19,7 +27,7 @@
     "id": 25694,
     "fecha": "08 de Sep del 2025 a las 03:42 PM",
     "hora_utc": "2025-09-08 19:42",
-    "mensaje": "⚡La afectación de nuestra provincia en este momento por déficit en la capacidad de generación es de 141 MW.\n\nUna vez haya disponibilidad se comenzará a dar servicio a los circuitos que tuvieron servicio poco tiempo. (Circuito 501)",
+    "mensaje": "⚡La afectación de nuestra provincia en este momento por déficit en la capacidad de generación es de 141 MW.\n\nUna vez haya disponibilidad se comenzará a dar servicio a los circuitos que tuvieron servicio poco tiempo.",
     "timestamp": 1757360524,
     "timestamp_local": 1757360524
   },
@@ -142,13 +150,5 @@
     "mensaje": "⚡Informamos a la población matancera que la afectación por déficit de capacidad de generación en este momento es de 105 MW",
     "timestamp": 1757337701,
     "timestamp_local": 1757337701
-  },
-  {
-    "id": 25678,
-    "fecha": "08 de Sep del 2025 a las 08:58 AM",
-    "hora_utc": "2025-09-08 12:58",
-    "mensaje": "**__⚠Circuitos no apagables que estarán afectados debido al altodéficit: \n__**⚠\n**__ __**\n**__ MI1453, GI101, JI48, Z130 de 11:00 a 13:00\nZ1183 de 11:00 a 14:00__**\n**__Z1183, MI1453 de 19:00 a 22:00__**\n**__JI48, GI101, CI185 de 19:00 a 01:00__**\n**__Z130 de 20:00 a 23:30__**\n**__5223 de 20:00 a 2:00__**\n**__Al amanecer:__**\n**__CI185 de 5:00 a 7:00__**",
-    "timestamp": 1757336323,
-    "timestamp_local": 1757336323
   }
 ]
