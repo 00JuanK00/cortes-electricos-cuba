@@ -1,5 +1,37 @@
 [
   {
+    "id": 29256,
+    "fecha": "07 de Sep del 2025 a las 10:10 PM",
+    "hora_utc": "2025-09-08 02:10",
+    "mensaje": "💡Restablecido el servicio eléctrico en los circuitos 1, 2 y 4 zona centro.",
+    "timestamp": 1757297455,
+    "timestamp_local": 1757297455
+  },
+  {
+    "id": 29255,
+    "fecha": "07 de Sep del 2025 a las 09:58 PM",
+    "hora_utc": "2025-09-08 01:58",
+    "mensaje": "Actualización del servicio eléctrico en la provincia\n✍️Se mantienen afectados en la provincia 163 circuitos.\n✍️En el momento de hacer esta nota la provincia tiene 153 MW de afectación por déficit de capacidad de generación, demanda máxima posible a apagar.\n✍️Cuenta con 202 afectaciones por averías secundarias y de servicio.",
+    "timestamp": 1757296686,
+    "timestamp_local": 1757296686
+  },
+  {
+    "id": 29254,
+    "fecha": "07 de Sep del 2025 a las 09:31 PM",
+    "hora_utc": "2025-09-08 01:31",
+    "mensaje": "💡Será restablecido el servicio eléctrico en la Línea 861.",
+    "timestamp": 1757295088,
+    "timestamp_local": 1757295088
+  },
+  {
+    "id": 29253,
+    "fecha": "07 de Sep del 2025 a las 08:43 PM",
+    "hora_utc": "2025-09-08 00:43",
+    "mensaje": "Restablecido el servicio eléctrico en las Líneas 1910 y 1920.",
+    "timestamp": 1757292236,
+    "timestamp_local": 1757292236
+  },
+  {
     "id": 29252,
     "fecha": "07 de Sep del 2025 a las 08:27 PM",
     "hora_utc": "2025-09-08 00:27",
@@ -22,14 +54,6 @@
     "mensaje": "⚡Afectados por disparo las Líneas 6580 y 1955 después de restablecido el servicio.\n🔹Línea 1955  \n👉Municipio Encrucijada:\nCto 122 Encrucijada \nCto 123 Vizcaya \nCto 142 Comunidad La Sierra \nCto 126 Batey Emilio Córdova\nCto 125 Cavarrocas\nCto 124 El Santo\n👉Municipio Camajuaní:\nCto 78 Jutiero\n🔹Línea 6580  \n👉Municipio Camajuaní:\nCtos 77, 59 y 185 Vueltas",
     "timestamp": 1757290585,
     "timestamp_local": 1757290585
-  },
-  {
-    "id": 29249,
-    "fecha": "07 de Sep del 2025 a las 08:14 PM",
-    "hora_utc": "2025-09-08 00:14",
-    "mensaje": "+",
-    "timestamp": 1757290457,
-    "timestamp_local": 1757290457
   },
   {
     "id": 29248,
@@ -118,29 +142,5 @@
     "mensaje": "⚠️Afectados por déficit de generación los siguientes circuitos:\n🔹Bloque 3\n👉Municipio Placetas:\nCto 192 Benito Juárez\nCto 102 Peroti",
     "timestamp": 1757282837,
     "timestamp_local": 1757282837
-  },
-  {
-    "id": 29235,
-    "fecha": "07 de Sep del 2025 a las 05:54 PM",
-    "hora_utc": "2025-09-07 21:54",
-    "mensaje": "⚡Se encuentra en avería el circuito 169 Chambery, brigadas de nuestra Empresa estudian las causas.",
-    "timestamp": 1757282077,
-    "timestamp_local": 1757282077
-  },
-  {
-    "id": 29234,
-    "fecha": "07 de Sep del 2025 a las 05:53 PM",
-    "hora_utc": "2025-09-07 21:53",
-    "mensaje": "🕕Actualización del servicio eléctrico en las últimas 6 horas.\n\n👉El déficit de capacidad de generación osciló entre los 95 MW y los 150 MW.\n👉En el momento de esta nota, se mantienen afectados 164 circuitos.\n👉 Cuenta con 275 afectaciones por averías secundarias y de servicio:\n Caibarién (3)\n Camajuaní (3)\n Cifuentes (5)\n Corralillo (6)\n Encrucijada ()\n Manicaragua (34)\n Placetas (18)\n Quemado (1)\n Ranchuelo (5)\n Remedios (16) \n Sagua (11) \n Santa Clara (99)\n Santo Domingo (30)\n🛠️Se encuentran 10 averías en vías de solución.\n🛠️Pendientes a solucionar por el área técnica 35.\n\n⚡Averías⚡\n👉Se encuentra en avería primaria el circuito 169 Chambery-Condado.",
-    "timestamp": 1757282005,
-    "timestamp_local": 1757282005
-  },
-  {
-    "id": 29233,
-    "fecha": "07 de Sep del 2025 a las 05:20 PM",
-    "hora_utc": "2025-09-07 21:20",
-    "mensaje": "⚠️Afectados por déficit de generación los siguientes circuitos:\n🔹Bloque 2\n👉Municipio Santo Domingo:\nCto 195 Batey George Washington\nCtos 83 y 165 Manacas\nCtos 85 y 86 Pajarito\nCtos 160 y 161 Cascajal",
-    "timestamp": 1757280012,
-    "timestamp_local": 1757280012
   }
 ]
