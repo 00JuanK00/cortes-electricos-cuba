@@ -1,5 +1,29 @@
 [
   {
+    "id": 44261,
+    "fecha": "09 de Sep del 2025 a las 12:24 AM",
+    "hora_utc": "2025-09-09 04:24",
+    "mensaje": "🔉 Estimados clientes se les informa que se encuentra afectado el circuito 11 de Santiago por déficit en capacidad de generación .",
+    "timestamp": 1757391864,
+    "timestamp_local": 1757391864
+  },
+  {
+    "id": 44260,
+    "fecha": "09 de Sep del 2025 a las 12:04 AM",
+    "hora_utc": "2025-09-09 04:04",
+    "mensaje": "Disparo Automático de Frecuencia (DAF):\nOcurre cuando la frecuencia está por debajo de los 60Hz y determinada carga o circuito se desconecta del sistema automáticamente hasta que se estabilice.",
+    "timestamp": 1757390652,
+    "timestamp_local": 1757390652
+  },
+  {
+    "id": 44259,
+    "fecha": "09 de Sep del 2025 a las 12:03 AM",
+    "hora_utc": "2025-09-09 04:03",
+    "mensaje": "🔉 Estimados clientes se les informan que se encuentra afectado el circuito 13 de Santiago por disparo (DAF) .",
+    "timestamp": 1757390633,
+    "timestamp_local": 1757390633
+  },
+  {
     "id": 44257,
     "fecha": "08 de Sep del 2025 a las 10:18 PM",
     "hora_utc": "2025-09-09 02:18",
@@ -110,29 +134,5 @@
     "mensaje": "🔴Se les informa a nuestros clientes que se afecta por Déficit de Capacidad de Generación los circuitos 1 y 2 de Contramaestre y línea 5390 La Maya - ll Frente.",
     "timestamp": 1757344235,
     "timestamp_local": 1757344235
-  },
-  {
-    "id": 44241,
-    "fecha": "08 de Sep del 2025 a las 10:33 AM",
-    "hora_utc": "2025-09-08 14:33",
-    "mensaje": "🔴Se les informa a nuestros clientes que se afecta por Déficit de Capacidad de Generación los circuitos 4 de Palma y 21 de Santiago.",
-    "timestamp": 1757341990,
-    "timestamp_local": 1757341990
-  },
-  {
-    "id": 44240,
-    "fecha": "08 de Sep del 2025 a las 10:17 AM",
-    "hora_utc": "2025-09-08 14:17",
-    "mensaje": "🔴Se les informa a nuestros clientes que se afecta por Déficit de Capacidad de Generación el circuito 20 de Santiago.",
-    "timestamp": 1757341027,
-    "timestamp_local": 1757341027
-  },
-  {
-    "id": 44239,
-    "fecha": "08 de Sep del 2025 a las 08:57 AM",
-    "hora_utc": "2025-09-08 12:57",
-    "mensaje": "📌Nota Informativa: Estado del Sistema Eléctrico Nacional (SEN) para hoy 8 de Septiembre  de 2025.\n\n👉 En el día de ayer se afectó el servicio las 24 horas y se mantuvo afectado durante toda la madrugada de hoy. La máxima afectación fue a las ⏰10:30pm con 1265 MW por déficit de generación y 716 MW por desconexión de la parte oriental del país desde las Tunas hasta Guantánamo, para un total de 1981 MW.\n\n🌞La producción de energía de los 28 nuevos parques solares fotovoltaicos fue de 2929 MWh, con 523MW como máxima potencia entregada en el horario de la media  👍 \n\n🔊 Para el horario de la media se estima una afectación de 1100 MW.\n\n🛠En averia:                                                                                                               ➡️ Unidad 6 de la CTE Mariel.                                                                                                       ➡️ Unidad 2 de la CTE Felton.                                                                                ➡️ Unidad 3,5 y 6 de la CTE Renté.                                                                          \n                                                                  \n🛠 En Mantenimiento                                                                                               ➡️ Unidad 1 de la CTE Felton\n➡️ Unidad 2 de la CTE Santa Cruz.\n➡️ Unidad 4 de Carlos Manuel de Céspedes en Cienfuegos.                                        \n👉 Limitaciones térmicas: 388 MW fuera de servicio.\n\n👉 Problemas por falta de combustible. \n\n➡️ 34 centrales de generación distribuida con 128 MW.                                                                                                                                              ➡️ No disponible por falta de lubricante  475 MW .                                            👉 Total 603 MW                                                              \n\n🔊 Pronóstico para el horario pico:                                                                        👉 Se estima la entrada de 50 MW en motores de generación distribuida que están fuera por combustible y/o lubricante, la entrada de la unidad 6 de la CTE de Mariel con 90 MW y la entrada de la unidad 6 de la CTE Renté con 50 MW. 👍\n\n➡️ Disponibilidad de 1910 MW.\n➡️ Demanda máxima de 3450 MW.\n➡️ Déficit de ⚡️1540 MW.\n➡️ Afectación de ⚡️1610 MW",
-    "timestamp": 1757336260,
-    "timestamp_local": 1757336260
   }
 ]
