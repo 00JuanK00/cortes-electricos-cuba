@@ -1,5 +1,13 @@
 [
   {
+    "id": 31822,
+    "fecha": "08 de Sep del 2025 a las 11:33 PM",
+    "hora_utc": "2025-09-09 03:33",
+    "mensaje": "‼️ Déficit de Generación ‼️   \n👉 Tenemos afectados 87 MW en la provincia por déficit de generación.\n\n⏰ Reiteramos que los circuitos se afectarán o se restablecerán en dependencia del déficit solicitado en cada momento de la jornada que es muy variable.\n 👉 Se priorizan los circuitos asociados a Hospitales, Lácteos y Estaciones de Bombeo de agua.",
+    "timestamp": 1757388827,
+    "timestamp_local": 1757388827
+  },
+  {
     "id": 31821,
     "fecha": "08 de Sep del 2025 a las 08:15 PM",
     "hora_utc": "2025-09-09 00:15",
@@ -142,13 +150,5 @@
     "mensaje": "👉 Restablecidos los circuitos que estaban afectados por el DAF.",
     "timestamp": 1757290841,
     "timestamp_local": 1757290841
-  },
-  {
-    "id": 31800,
-    "fecha": "07 de Sep del 2025 a las 07:51 PM",
-    "hora_utc": "2025-09-07 23:51",
-    "mensaje": "❌Un Disparo Automática por Frecuencia (DAF) es una protección que posee el sistema eléctrico para cuando la frecuencia llega a valores mínimos permisibles que ponen en peligro la estabilidad de todo el sistema en su conjunto y provoca una desconexión automática de algunos circuitos hasta que esta vuelva a recuperar su valor nominal a 60 Hz o ciclos por segundo. Esto ocurre al salir de forma imprevista o repentina una planta generadora con una potencia determinada y el sistema en su conjunto necesita liberar esa carga hasta tanto se puedan recuperar la potencia de generación perdida anteriormente o dar las afectaciones al servicio por déficit de generación.",
-    "timestamp": 1757289071,
-    "timestamp_local": 1757289071
   }
 ]
