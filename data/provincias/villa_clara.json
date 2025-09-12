@@ -1,5 +1,69 @@
 [
   {
+    "id": 29527,
+    "fecha": "12 de Sep del 2025 a las 11:40 AM",
+    "hora_utc": "2025-09-12 15:40",
+    "mensaje": "⚠️ Afectado el circuito 164 (Lugardita), del municipio Quemado.",
+    "timestamp": 1757691649,
+    "timestamp_local": 1757691649
+  },
+  {
+    "id": 29526,
+    "fecha": "12 de Sep del 2025 a las 11:39 AM",
+    "hora_utc": "2025-09-12 15:39",
+    "mensaje": "💡Restablecido el servicio eléctrico en el circuito 52 del municipio Quemado.",
+    "timestamp": 1757691570,
+    "timestamp_local": 1757691570
+  },
+  {
+    "id": 29525,
+    "fecha": "12 de Sep del 2025 a las 11:32 AM",
+    "hora_utc": "2025-09-12 15:32",
+    "mensaje": "💡Será restablecido el servicio eléctrico en el circuito 96 (Bermejal), del municipio Santo Domingo.",
+    "timestamp": 1757691125,
+    "timestamp_local": 1757691125
+  },
+  {
+    "id": 29524,
+    "fecha": "12 de Sep del 2025 a las 11:31 AM",
+    "hora_utc": "2025-09-12 15:31",
+    "mensaje": "💡Será restablecido el servicio eléctrico en el circuito 134 del municipio Santo Domingo.",
+    "timestamp": 1757691095,
+    "timestamp_local": 1757691095
+  },
+  {
+    "id": 29523,
+    "fecha": "12 de Sep del 2025 a las 11:25 AM",
+    "hora_utc": "2025-09-12 15:25",
+    "mensaje": "Restablecido el servicio eléctrico en la línea 1955:\nMunicipio Encrucijada:\n👉Cto 122 Encrucijada \n👉Cto 123 Vizcaya \n👉Cto 142 Comunidad La Sierra \n👉Cto 126 Batey Emilio Córdova\n👉Cto 125 Cavarrocas\n👉Cto 124 El Santo\nMunicipio Camajuaní:\n👉Cto 78 Jutiero",
+    "timestamp": 1757690732,
+    "timestamp_local": 1757690732
+  },
+  {
+    "id": 29522,
+    "fecha": "12 de Sep del 2025 a las 11:23 AM",
+    "hora_utc": "2025-09-12 15:23",
+    "mensaje": "🛠️ Afectado por DAF (Disparo Automático por Frecuencia), la línea 1955:\nAfecta los siguientes circuitos:\nMunicipio Encrucijada:\n👉Cto 122 Encrucijada \n👉Cto 123 Vizcaya \n👉Cto 142 Comunidad La Sierra \n👉Cto 126 Batey Emilio Córdova\n👉Cto 125 Cavarrocas\n👉Cto 124 El Santo\nMunicipio Camajuaní:\n👉Cto 78 Jutiero",
+    "timestamp": 1757690605,
+    "timestamp_local": 1757690605
+  },
+  {
+    "id": 29521,
+    "fecha": "12 de Sep del 2025 a las 11:18 AM",
+    "hora_utc": "2025-09-12 15:18",
+    "mensaje": "💡Restablecido el servicio eléctrico en el circuito 110 (La Piedra), del municipio Manicaragua.",
+    "timestamp": 1757690335,
+    "timestamp_local": 1757690335
+  },
+  {
+    "id": 29520,
+    "fecha": "12 de Sep del 2025 a las 11:07 AM",
+    "hora_utc": "2025-09-12 15:07",
+    "mensaje": "💡Restablecido el servicio eléctrico en los siguientes circuitos:\nMunicipio Santa Clara:\n👉Cto 16 Cubanacán\n👉Ctos 23 y 130 La Ceniza\n👉Cto 42 Manajanabo",
+    "timestamp": 1757689645,
+    "timestamp_local": 1757689645
+  },
+  {
     "id": 29519,
     "fecha": "12 de Sep del 2025 a las 10:41 AM",
     "hora_utc": "2025-09-12 14:41",
@@ -94,69 +158,5 @@
     "mensaje": "💡Restablecido el servicio eléctrico en el circuito 43 perteneciente al municipio Sagua.",
     "timestamp": 1757679553,
     "timestamp_local": 1757679553
-  },
-  {
-    "id": 29507,
-    "fecha": "12 de Sep del 2025 a las 08:12 AM",
-    "hora_utc": "2025-09-12 12:12",
-    "mensaje": "💡Restablecido el servicio eléctrico en el circuito 164 (Lugardita), perteneciente al municipio Quemado.",
-    "timestamp": 1757679164,
-    "timestamp_local": 1757679164
-  },
-  {
-    "id": 29506,
-    "fecha": "12 de Sep del 2025 a las 07:44 AM",
-    "hora_utc": "2025-09-12 11:44",
-    "mensaje": "Nota informativa.\nSituación del SEN para el 12 de septiembre de 2025.\n\nEn el día de ayer se afectó el servicio las 24 horas y se mantuvo afectado durante toda la madrugada de hoy. La máxima afectación por déficit de capacidad de generación en el día de ayer fue de 1733 MW a las 21:50 horas.\n\nLa disponibilidad del SEN a las 06:00 horas es de 1550 MW  y la demanda 2810 MW, con 1285 MW afectados por déficit de capacidad. En el horario de la media se estima una afectación de 1200 MW.\n\nSe encuentra en avería la unidad 2 de la CTE Felton, la unidad 8 de la CTE Mariel y las unidades 3 y 5 de la CTE Renté. \n\nSe encuentran en mantenimiento la unidad 5 de la CTE Mariel, la unidad 2 de la CTE Santa Cruz, la unidad 4 de la CTE Cienfuegos y la unidad 1 de la CTE Felton. \n  \nLas limitaciones en la generación térmica son de 354 MW. \n\nSe encuentran fuera de servicio por combustible 44 centrales de generación distribuida con 201 MW. \n\nPara el horario pico se estima la entrada de 50 MW en motores de generación distribuida que están fuera por combustible, la entrada de la unidad 5 de Rente con 70 MW y la entrada de la central de motores Fuel Oil Mariel con 105 MW.\n\nCon este pronóstico, en el horario pico se estima una disponibilidad de 1775 MW y una demanda máxima de 3330 MW, para un déficit de 1525 MW, por lo que de mantenerse las condiciones previstas se pronostica una afectación de 1595 MW en este horario.\n\nUNE-MINEM---07:00 horas",
-    "timestamp": 1757677490,
-    "timestamp_local": 1757677490
-  },
-  {
-    "id": 29505,
-    "fecha": "12 de Sep del 2025 a las 07:39 AM",
-    "hora_utc": "2025-09-12 11:39",
-    "mensaje": "Resumen de afectaciones por déficit de capacidad de generación el 11/09/2025:                    \n \nEn el día de ayer se afecta el servicio por déficit de generación de forma ininterrumpida durante todo el día, con una afectación máxima de 176 MW en el horario pico.\n \nActualmente tenemos 137 MW afectados por déficit de generación.  \n \nTiempo promedio de afectación 19:06 horas\n \nExisten en este instante 128 interrupciones al servicio eléctrico por atender. Siendo Santa Clara con 87, Santo Domingo 22, Remedios 8 y Sagua 6 los municipios de mayor Incidencia.",
-    "timestamp": 1757677140,
-    "timestamp_local": 1757677140
-  },
-  {
-    "id": 29504,
-    "fecha": "12 de Sep del 2025 a las 07:18 AM",
-    "hora_utc": "2025-09-12 11:18",
-    "mensaje": "⚠️Restablecido el servicio eléctrico en los circuitos siguientes:\n👉Municipio Manicaragua:\nCtos 113 y 137 La Campana\nCto 112 Hoyo Manicaragua",
-    "timestamp": 1757675939,
-    "timestamp_local": 1757675939
-  },
-  {
-    "id": 29503,
-    "fecha": "12 de Sep del 2025 a las 05:33 AM",
-    "hora_utc": "2025-09-12 09:33",
-    "mensaje": "⚠️Afectado el servicio eléctrico el circuito 170 José Martí.",
-    "timestamp": 1757669619,
-    "timestamp_local": 1757669619
-  },
-  {
-    "id": 29502,
-    "fecha": "12 de Sep del 2025 a las 03:19 AM",
-    "hora_utc": "2025-09-12 07:19",
-    "mensaje": "💡Se restablece el servicio eléctrico en los siguientes circuitos:\n👉Municipio Santa Clara:\nCto 5 (Dobarganes)\nCto 17 (Subplanta) \nCtos 37 y 38 (Yabú)   \nCto 9 (Moldes y Troqueles)\nCto 133 (Cafetera)",
-    "timestamp": 1757661564,
-    "timestamp_local": 1757661564
-  },
-  {
-    "id": 29501,
-    "fecha": "12 de Sep del 2025 a las 02:54 AM",
-    "hora_utc": "2025-09-12 06:54",
-    "mensaje": "💡Se restablece el servicio eléctrico en los circuitos siguientes:\n👉Municipio Camajuaní:\nCto 75 La Quinta\nCto 157 Luis Arcos Bergnes\nCtos 76 y 90 Vega Alta",
-    "timestamp": 1757660092,
-    "timestamp_local": 1757660092
-  },
-  {
-    "id": 29500,
-    "fecha": "12 de Sep del 2025 a las 02:53 AM",
-    "hora_utc": "2025-09-12 06:53",
-    "mensaje": "⚠️Se afecta el servicio eléctrico en los siguientes circuito:\n👉Municipio Encrucijada:\nCto 122 Encrucijada \nCto 123 Vizcaya \nCto 142 Comunidad La Sierra \nCto 126 Batey Emilio Córdova\nCto 125 Cavarrocas\nCto 124 El Santo\n👉Municipio Camajuaní:\nCto 78 Jutiero",
-    "timestamp": 1757659980,
-    "timestamp_local": 1757659980
   }
 ]
