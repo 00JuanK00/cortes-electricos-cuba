@@ -1,9 +1,17 @@
 [
   {
+    "id": 89021,
+    "fecha": "12 de Sep del 2025 a las 05:39 AM",
+    "hora_utc": "2025-09-12 09:39",
+    "mensaje": "🚨Por déficit de capacidad de generación se afecta el servicio en los siguientes  circuitos:\n* 1657\n* Bio 2 🚨",
+    "timestamp": 1757669965,
+    "timestamp_local": 1757669965
+  },
+  {
     "id": 89016,
     "fecha": "12 de Sep del 2025 a las 02:01 AM",
     "hora_utc": "2025-09-12 06:01",
-    "mensaje": "🔷♦️Se restablece el servicio en los siguientes circuitos que se encontraban afectados por déficit de capacidad de generación:\n* Batabanó \n* Surgidero ♦️🔷",
+    "mensaje": "🔷♦️Se restablece el servicio en los siguientes circuitos que se encontraban afectados por déficit de capacidad de generación:\n* Batabanó \n* Surgidero \n* 1790\n* Bio 1 ♦️🔷",
     "timestamp": 1757656877,
     "timestamp_local": 1757656877
   },
@@ -19,7 +27,7 @@
     "id": 89013,
     "fecha": "12 de Sep del 2025 a las 12:12 AM",
     "hora_utc": "2025-09-12 04:12",
-    "mensaje": "🔷♦️Se restablece el servicio en el siguiente circuito que se encontraba afectado por déficit de capacidad de generación:\n* 2440 ♦️🔷",
+    "mensaje": "🔷♦️Se restablece el servicio en los siguientes circuitos que se encontraban afectados por déficit de capacidad de generación:\n* 2440 \n* 1657\n* Bio 2 ♦️🔷",
     "timestamp": 1757650335,
     "timestamp_local": 1757650335
   },
@@ -110,13 +118,5 @@
     "mensaje": "🔷 Restablecido el servicio en el circuito San Nicolás 3 🔷",
     "timestamp": 1757641279,
     "timestamp_local": 1757641279
-  },
-  {
-    "id": 89001,
-    "fecha": "11 de Sep del 2025 a las 09:40 PM",
-    "hora_utc": "2025-09-12 01:40",
-    "mensaje": "📣📣A las 19:10 horas de hoy salió de servicio la CTE Antonio Guiteras por actuación de la protección de bajo vacío en el condensador, en el proceso para restablecer los valores de este parámetro se produjo una disminución  en el cabezal de vapor que provocó la salida del bloque.\n\nSe investigan las operaciones realizadas y se procede al arranque de la unidad en coordinación con el Despacho Nacional de Carga.\n\n#DePieYCombatiendo\n#UnidosXCuba",
-    "timestamp": 1757641255,
-    "timestamp_local": 1757641255
   }
 ]
