@@ -1,5 +1,29 @@
 [
   {
+    "id": 29506,
+    "fecha": "12 de Sep del 2025 a las 07:44 AM",
+    "hora_utc": "2025-09-12 11:44",
+    "mensaje": "Nota informativa.\nSituación del SEN para el 12 de septiembre de 2025.\n\nEn el día de ayer se afectó el servicio las 24 horas y se mantuvo afectado durante toda la madrugada de hoy. La máxima afectación por déficit de capacidad de generación en el día de ayer fue de 1733 MW a las 21:50 horas.\n\nLa disponibilidad del SEN a las 06:00 horas es de 1550 MW  y la demanda 2810 MW, con 1285 MW afectados por déficit de capacidad. En el horario de la media se estima una afectación de 1200 MW.\n\nSe encuentra en avería la unidad 2 de la CTE Felton, la unidad 8 de la CTE Mariel y las unidades 3 y 5 de la CTE Renté. \n\nSe encuentran en mantenimiento la unidad 5 de la CTE Mariel, la unidad 2 de la CTE Santa Cruz, la unidad 4 de la CTE Cienfuegos y la unidad 1 de la CTE Felton. \n  \nLas limitaciones en la generación térmica son de 354 MW. \n\nSe encuentran fuera de servicio por combustible 44 centrales de generación distribuida con 201 MW. \n\nPara el horario pico se estima la entrada de 50 MW en motores de generación distribuida que están fuera por combustible, la entrada de la unidad 5 de Rente con 70 MW y la entrada de la central de motores Fuel Oil Mariel con 105 MW.\n\nCon este pronóstico, en el horario pico se estima una disponibilidad de 1775 MW y una demanda máxima de 3330 MW, para un déficit de 1525 MW, por lo que de mantenerse las condiciones previstas se pronostica una afectación de 1595 MW en este horario.\n\nUNE-MINEM---07:00 horas",
+    "timestamp": 1757677490,
+    "timestamp_local": 1757677490
+  },
+  {
+    "id": 29505,
+    "fecha": "12 de Sep del 2025 a las 07:39 AM",
+    "hora_utc": "2025-09-12 11:39",
+    "mensaje": "Resumen de afectaciones por déficit de capacidad de generación el 11/09/2025:                    \n \nEn el día de ayer se afecta el servicio por déficit de generación de forma ininterrumpida durante todo el día, con una afectación máxima de 176 MW en el horario pico.\n \nActualmente tenemos 137 MW afectados por déficit de generación.  \n \nTiempo promedio de afectación 19:06 horas\n \nExisten en este instante 128 interrupciones al servicio eléctrico por atender. Siendo Santa Clara con 87, Santo Domingo 22, Remedios 8 y Sagua 6 los municipios de mayor Incidencia.",
+    "timestamp": 1757677140,
+    "timestamp_local": 1757677140
+  },
+  {
+    "id": 29504,
+    "fecha": "12 de Sep del 2025 a las 07:18 AM",
+    "hora_utc": "2025-09-12 11:18",
+    "mensaje": "⚠️Restablecido el servicio eléctrico en los circuitos siguientes:\n👉Municipio Manicaragua:\nCtos 113 y 137 La Campana\nCto 112 Hoyo Manicaragua",
+    "timestamp": 1757675939,
+    "timestamp_local": 1757675939
+  },
+  {
     "id": 29503,
     "fecha": "12 de Sep del 2025 a las 05:33 AM",
     "hora_utc": "2025-09-12 09:33",
@@ -134,29 +158,5 @@
     "mensaje": "💡Será restablecido el servicio eléctrico en los siguientes circuitos:\n👉Municipio Encrucijada:\nCto 122 Encrucijada \nCto 123 Vizcaya \nCto 142 Comunidad La Sierra \nCto 126 Batey Emilio Córdova\nCto 125 Cavarrocas\nCto 124 El Santo\n👉Municipio Camajuaní:\nCto 78 Jutiero",
     "timestamp": 1757642608,
     "timestamp_local": 1757642608
-  },
-  {
-    "id": 29486,
-    "fecha": "11 de Sep del 2025 a las 09:52 PM",
-    "hora_utc": "2025-09-12 01:52",
-    "mensaje": "💡Restablecido de manera parcial el circuito 14 Maleza, quedando afectado el ramal del hogar de amparo filial.",
-    "timestamp": 1757641960,
-    "timestamp_local": 1757641960
-  },
-  {
-    "id": 29485,
-    "fecha": "11 de Sep del 2025 a las 08:58 PM",
-    "hora_utc": "2025-09-12 00:58",
-    "mensaje": "💡Restablecido el servicio eléctrico en los siguientes circuitos:\n👉Municipio Encrucijada\nCto 120 Calabazar\nCtos 121 y 127 Perucho",
-    "timestamp": 1757638690,
-    "timestamp_local": 1757638690
-  },
-  {
-    "id": 29484,
-    "fecha": "11 de Sep del 2025 a las 08:11 PM",
-    "hora_utc": "2025-09-12 00:11",
-    "mensaje": "⚠️Afectado el servicio eléctrico en los siguientes circuitos:\n👉Municipio Santa Clara:\nCto 5 (Dobarganes)\nCto 17 (Subplanta) \nCtos 37 y 38 (Yabú)   \nCto 9 (Moldes y Troqueles)\nCto 133 (Cafetera)\nCto 31 SC Industrial",
-    "timestamp": 1757635916,
-    "timestamp_local": 1757635916
   }
 ]
