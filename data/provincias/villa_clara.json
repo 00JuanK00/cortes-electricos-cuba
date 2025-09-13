@@ -1,5 +1,37 @@
 [
   {
+    "id": 29639,
+    "fecha": "13 de Sep del 2025 a las 05:45 PM",
+    "hora_utc": "2025-09-13 21:45",
+    "mensaje": "💡Restablecido el servicio eléctrico en los siguientes circuitos:\nMunicipio Encrucijada\n👉Cto 120 Calabazar\n👉Ctos 121 y 127 Perucho",
+    "timestamp": 1757799926,
+    "timestamp_local": 1757799926
+  },
+  {
+    "id": 29638,
+    "fecha": "13 de Sep del 2025 a las 05:44 PM",
+    "hora_utc": "2025-09-13 21:44",
+    "mensaje": "⚠️Afectado por déficit de generación el Cto 153 (EIDE) perteneciente al municipio Santa Clara.",
+    "timestamp": 1757799875,
+    "timestamp_local": 1757799875
+  },
+  {
+    "id": 29637,
+    "fecha": "13 de Sep del 2025 a las 05:38 PM",
+    "hora_utc": "2025-09-13 21:38",
+    "mensaje": "⚠️Afectados por déficit de capacidad de generación los siguientes circuitos:\nMunicipio Camajuaní:\n👉Ctos 72, 129, 73 y 156 \n👉Cto 74 José María Pérez",
+    "timestamp": 1757799506,
+    "timestamp_local": 1757799506
+  },
+  {
+    "id": 29636,
+    "fecha": "13 de Sep del 2025 a las 05:04 PM",
+    "hora_utc": "2025-09-13 21:04",
+    "mensaje": "Afectados 150 MW en la provincia, demanda máxima a apagar en estos momentos.",
+    "timestamp": 1757797477,
+    "timestamp_local": 1757797477
+  },
+  {
     "id": 29635,
     "fecha": "13 de Sep del 2025 a las 04:57 PM",
     "hora_utc": "2025-09-13 20:57",
@@ -118,37 +150,5 @@
     "mensaje": "⚠️Continúan afectados por déficit de capacidad de generación los siguientes circuitos de Manicaragua:\n👉Ctos 108 y 110 La Piedra\n👉Cto 111 Mataguá",
     "timestamp": 1757787277,
     "timestamp_local": 1757787277
-  },
-  {
-    "id": 29619,
-    "fecha": "13 de Sep del 2025 a las 02:10 PM",
-    "hora_utc": "2025-09-13 18:10",
-    "mensaje": "⚠️Disparado el Cto 1(Centro), perteneciente al municipio Santa Clara.",
-    "timestamp": 1757787044,
-    "timestamp_local": 1757787044
-  },
-  {
-    "id": 29618,
-    "fecha": "13 de Sep del 2025 a las 01:12 PM",
-    "hora_utc": "2025-09-13 17:12",
-    "mensaje": "💡Restablecido el servicio eléctrico en el Cto 1 (Centro), perteneciente al municipio Santa Clara.",
-    "timestamp": 1757783522,
-    "timestamp_local": 1757783522
-  },
-  {
-    "id": 29617,
-    "fecha": "13 de Sep del 2025 a las 01:08 PM",
-    "hora_utc": "2025-09-13 17:08",
-    "mensaje": "⚠️Disparado el Cto 1(Centro), perteneciente al municipio Santa Clara.",
-    "timestamp": 1757783322,
-    "timestamp_local": 1757783322
-  },
-  {
-    "id": 29616,
-    "fecha": "13 de Sep del 2025 a las 01:00 PM",
-    "hora_utc": "2025-09-13 17:00",
-    "mensaje": "Afectados 148 MW en la provincia, demanda máxima a apagar en estos momentos.",
-    "timestamp": 1757782838,
-    "timestamp_local": 1757782838
   }
 ]
