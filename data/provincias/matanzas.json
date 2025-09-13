@@ -1,5 +1,21 @@
 [
   {
+    "id": 25888,
+    "fecha": "13 de Sep del 2025 a las 07:07 AM",
+    "hora_utc": "2025-09-13 11:07",
+    "mensaje": "‼️La afectación de la provincia es de 118  MW por déficit de capacidad de generación en este momento.",
+    "timestamp": 1757761659,
+    "timestamp_local": 1757761659
+  },
+  {
+    "id": 25887,
+    "fecha": "13 de Sep del 2025 a las 07:04 AM",
+    "hora_utc": "2025-09-13 11:04",
+    "mensaje": "📍CIRCUITO EN FALLO, PENDIENTE A RECORRIDO.\n\n-Circuito 4604 que da servicio a Martí-Itabo-Hoyo Colorado.",
+    "timestamp": 1757761472,
+    "timestamp_local": 1757761472
+  },
+  {
     "id": 25886,
     "fecha": "13 de Sep del 2025 a las 07:00 AM",
     "hora_utc": "2025-09-13 11:00",
@@ -142,21 +158,5 @@
     "mensaje": "AVERÍA SOLUCIONADA\n\nCircuito  Z- 720  COLÓN, \nCircuito  Z- 723  COLÓN",
     "timestamp": 1757707794,
     "timestamp_local": 1757707794
-  },
-  {
-    "id": 25867,
-    "fecha": "12 de Sep del 2025 a las 03:51 PM",
-    "hora_utc": "2025-09-12 19:51",
-    "mensaje": "‼️La afectación de la provincia es de 134  MW por déficit de capacidad de generación en este momento.‼️",
-    "timestamp": 1757706671,
-    "timestamp_local": 1757706671
-  },
-  {
-    "id": 25866,
-    "fecha": "12 de Sep del 2025 a las 03:44 PM",
-    "hora_utc": "2025-09-12 19:44",
-    "mensaje": "AVERÍA\n\nCircuito  Z- 720  COLÓN,  Aislador partido.\nCircuito  Z- 723  COLÓN,   por puente partido a la salida de la Subestación. Colón 33.",
-    "timestamp": 1757706254,
-    "timestamp_local": 1757706254
   }
 ]
