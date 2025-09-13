@@ -1,5 +1,21 @@
 [
   {
+    "id": 26769,
+    "fecha": "12 de Sep del 2025 a las 08:09 PM",
+    "hora_utc": "2025-09-13 00:09",
+    "mensaje": "👉 Sobre las afectaciones por déficit de Generación.\n\nPara el día de hoy, 12 septiembre se planificó un déficit para el horario pico de 1595 MW y en estos momentos, próximo a las 19.00 ya el país está muy cerca de los 1900 MW de afectación. Las causas fundamentales del incremento del déficit son:\n1. Salida por emergencia de la unidad 3 de la CTE Carlos Manuel de Céspedes. (150 MW)\n2. No sincronizó al SEN el Fuel del Mariel como estaba previsto. (105 MW).\n\nEsto provoca que estemos operando en estos momentos con 255 MW menos de lo planificado para la jornada y el déficit se ha incrementado a valores muy elevados durante la jornada con más de 40 MW por encima del máximo apagable.\nPor esta razón es que en estos momentos solo tenemos servicio en los circuitos que alimentan objetivos vitales como hospitales y Bombeos.\nEn la medida en que la situación del SEN mejore podremos ir restableciendo algunos circuitos.",
+    "timestamp": 1757722162,
+    "timestamp_local": 1757722162
+  },
+  {
+    "id": 26768,
+    "fecha": "12 de Sep del 2025 a las 07:59 PM",
+    "hora_utc": "2025-09-12 23:59",
+    "mensaje": "🚨ACTUALIZACIÓN🚨 \n👉 En estos momentos la provincia se mantiene con 184MW afectados por déficit en la capacidad de generación.",
+    "timestamp": 1757721569,
+    "timestamp_local": 1757721569
+  },
+  {
     "id": 26767,
     "fecha": "12 de Sep del 2025 a las 06:40 PM",
     "hora_utc": "2025-09-12 22:40",
@@ -126,21 +142,5 @@
     "mensaje": "👉Cto San Andrés 2. Ofrecemos disculpas por las molestias ocasionadas.",
     "timestamp": 1757676530,
     "timestamp_local": 1757676530
-  },
-  {
-    "id": 26748,
-    "fecha": "12 de Sep del 2025 a las 07:08 AM",
-    "hora_utc": "2025-09-12 11:08",
-    "mensaje": "🚨ACTUALIZACIÓN🚨 \n👉 En estos momentos la provincia tiene 106MW afectados por déficit en la capacidad de generación",
-    "timestamp": 1757675336,
-    "timestamp_local": 1757675336
-  },
-  {
-    "id": 26747,
-    "fecha": "12 de Sep del 2025 a las 07:06 AM",
-    "hora_utc": "2025-09-12 11:06",
-    "mensaje": "🚨Nota informativa. 🚨\n\n📆 Situación del SEN para el 12 de septiembre de 2025.\n\n👉En el día de ayer se afectó el servicio las 24 horas y se mantuvo afectado durante toda la madrugada de hoy. La máxima afectación por déficit de capacidad de generación en el día de ayer fue de 1733 MW a las 21:50 horas.\n👉La disponibilidad del SEN a las 06:00 horas es de 1550 MW  y la demanda 2810 MW, con 1285 MW afectados por déficit de capacidad. En el horario de la media se estima una afectación de 1200 MW.\n\n🛠️Se encuentra en avería la unidad 2 de la CTE Felton, la unidad 8 de la CTE Mariel y las unidades 3 y 5 de la CTE Renté. \n🛠️Se encuentran en mantenimiento la unidad 5 de la CTE Mariel, la unidad 2 de la CTE Santa Cruz, la unidad 4 de la CTE Cienfuegos y la unidad 1 de la CTE Felton. \n  \n👉Las limitaciones en la generación térmica son de 354 MW. \n\n⛽Se encuentran fuera de servicio por combustible 44 centrales de generación distribuida con 201 MW. \n\n📉Para el horario pico se estima la entrada de 50 MW en motores de generación distribuida que están fuera por combustible, la entrada de la unidad 5 de Rente con 70 MW y la entrada de la central de motores Fuel Oil Mariel con 105 MW.\n\n📝Con este pronóstico, en el horario pico se estima una disponibilidad de 1775 MW y una demanda máxima de 3330 MW, para un déficit de 1525 MW, por lo que de mantenerse las condiciones previstas se pronostica una afectación de 1595 MW en este horario.\n\nUNE-MINEM---07:00 horas",
-    "timestamp": 1757675189,
-    "timestamp_local": 1757675189
   }
 ]

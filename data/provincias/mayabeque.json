@@ -1,5 +1,37 @@
 [
   {
+    "id": 89133,
+    "fecha": "12 de Sep del 2025 a las 08:06 PM",
+    "hora_utc": "2025-09-13 00:06",
+    "mensaje": "🔷Restablecido el servicio en el circuito Güines 3 que se encontraba afectado por avería🔷",
+    "timestamp": 1757721961,
+    "timestamp_local": 1757721961
+  },
+  {
+    "id": 89132,
+    "fecha": "12 de Sep del 2025 a las 08:02 PM",
+    "hora_utc": "2025-09-13 00:02",
+    "mensaje": "🚨Por déficit de capacidad de generación se afecta el servicio en el siguiente circuito:\n*3140🚨",
+    "timestamp": 1757721776,
+    "timestamp_local": 1757721776
+  },
+  {
+    "id": 89131,
+    "fecha": "12 de Sep del 2025 a las 08:02 PM",
+    "hora_utc": "2025-09-13 00:02",
+    "mensaje": "🔷Restablecido el servicio en el circuito 3140 que se encontraba afectado por disparo por DAF🔷",
+    "timestamp": 1757721755,
+    "timestamp_local": 1757721755
+  },
+  {
+    "id": 89129,
+    "fecha": "12 de Sep del 2025 a las 07:55 PM",
+    "hora_utc": "2025-09-12 23:55",
+    "mensaje": "♦️Afectado el servicio en el circuito 3140 por disparo por DAF♦️",
+    "timestamp": 1757721305,
+    "timestamp_local": 1757721305
+  },
+  {
     "id": 89128,
     "fecha": "12 de Sep del 2025 a las 07:33 PM",
     "hora_utc": "2025-09-12 23:33",
@@ -118,45 +150,5 @@
     "mensaje": "🚨Por déficit de capacidad de generación se afecta el servicio en el siguiente circuito:\n*Aguacate🚨",
     "timestamp": 1757715753,
     "timestamp_local": 1757715753
-  },
-  {
-    "id": 89113,
-    "fecha": "12 de Sep del 2025 a las 06:19 PM",
-    "hora_utc": "2025-09-12 22:19",
-    "mensaje": "♦️Afectado el servicio en el circuito 3140 por disparo por DAF♦️",
-    "timestamp": 1757715560,
-    "timestamp_local": 1757715560
-  },
-  {
-    "id": 89112,
-    "fecha": "12 de Sep del 2025 a las 06:18 PM",
-    "hora_utc": "2025-09-12 22:18",
-    "mensaje": "🚨Por déficit de capacidad de generación se afecta el servicio en el siguiente circuito:\n*2 de San José 🚨",
-    "timestamp": 1757715496,
-    "timestamp_local": 1757715496
-  },
-  {
-    "id": 89111,
-    "fecha": "12 de Sep del 2025 a las 06:10 PM",
-    "hora_utc": "2025-09-12 22:10",
-    "mensaje": "🔷♦️Se restablece el servicio en los circuitos que se encontraban afectados por déficit de capacidad de generación:\n *Batabanó\n*Surgidero\n*Camacho 1 y 2♦️🔷",
-    "timestamp": 1757715018,
-    "timestamp_local": 1757715018
-  },
-  {
-    "id": 89110,
-    "fecha": "12 de Sep del 2025 a las 06:09 PM",
-    "hora_utc": "2025-09-12 22:09",
-    "mensaje": "🚨Por déficit de capacidad de generación se afecta el servicio en los siguientes circuitos:\n*Sopapo 1 y 2 🚨",
-    "timestamp": 1757714990,
-    "timestamp_local": 1757714990
-  },
-  {
-    "id": 89109,
-    "fecha": "12 de Sep del 2025 a las 06:09 PM",
-    "hora_utc": "2025-09-12 22:09",
-    "mensaje": "🚨Por déficit de capacidad de generación se afecta el servicio en los siguientes circuitos:\n*1657\n*Bio 2 🚨",
-    "timestamp": 1757714965,
-    "timestamp_local": 1757714965
   }
 ]
