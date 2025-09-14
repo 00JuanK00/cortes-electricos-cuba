@@ -1,5 +1,21 @@
 [
   {
+    "id": 44453,
+    "fecha": "13 de Sep del 2025 a las 10:12 PM",
+    "hora_utc": "2025-09-14 02:12",
+    "mensaje": "🔴Estimados clientes en estos momentos se encuentran afectados por déficit de capacidad de generación el circuito 24 de Santiago y las líneas 4390 de Contramaestre y 5335 de Guamá.",
+    "timestamp": 1757815920,
+    "timestamp_local": 1757815920
+  },
+  {
+    "id": 44452,
+    "fecha": "13 de Sep del 2025 a las 09:11 PM",
+    "hora_utc": "2025-09-14 01:11",
+    "mensaje": "🔴Estimados clientes en estos momentos se encuentra afectado por déficit de capacidad de generación el circuito 16 de Santiago.",
+    "timestamp": 1757812308,
+    "timestamp_local": 1757812308
+  },
+  {
     "id": 44450,
     "fecha": "13 de Sep del 2025 a las 08:15 PM",
     "hora_utc": "2025-09-14 00:15",
@@ -126,21 +142,5 @@
     "mensaje": "🔴Circuito en avería:                                                                                                                        \n Sucede si un circuito se interrumpe por causa de un defecto en un cable conductor de corriente (fase o neutro), un fusible fundido o disyuntor. En sistemas trifásicos una falla puede implicar una fase, más de una fase con la tierra o puede ocurrir solo entre fases.",
     "timestamp": 1757787900,
     "timestamp_local": 1757787900
-  },
-  {
-    "id": 44433,
-    "fecha": "13 de Sep del 2025 a las 02:16 PM",
-    "hora_utc": "2025-09-13 18:16",
-    "mensaje": "🚨Estimados clientes en estos momentos Baire se encuentra en avería .",
-    "timestamp": 1757787403,
-    "timestamp_local": 1757787403
-  },
-  {
-    "id": 44432,
-    "fecha": "13 de Sep del 2025 a las 01:34 PM",
-    "hora_utc": "2025-09-13 17:34",
-    "mensaje": "🚨Estimados clientes en estos momentos se afecto por Déficit los circuitos 7 , 2 , 3, 11 y Guamá.",
-    "timestamp": 1757784860,
-    "timestamp_local": 1757784860
   }
 ]
