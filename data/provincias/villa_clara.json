@@ -1,9 +1,41 @@
 [
   {
+    "id": 29722,
+    "fecha": "14 de Sep del 2025 a las 02:43 PM",
+    "hora_utc": "2025-09-14 18:43",
+    "mensaje": "Afectados 154 MW en la provincia, demanda máxima a apagar en estos momentos.",
+    "timestamp": 1757875422,
+    "timestamp_local": 1757875422
+  },
+  {
+    "id": 29721,
+    "fecha": "14 de Sep del 2025 a las 02:42 PM",
+    "hora_utc": "2025-09-14 18:42",
+    "mensaje": "Actualización del servicio eléctrico en la provincia\n✍️Se mantienen afectados en la provincia 177 circuitos.\n✍️En el momento de hacer esta nota la provincia tiene 154 MW de afectación por déficit de capacidad de generación, demanda máxima posible a apagar.\n✍️Cuenta con 130 afectaciones por averías secundarias y de servicio.",
+    "timestamp": 1757875363,
+    "timestamp_local": 1757875363
+  },
+  {
+    "id": 29720,
+    "fecha": "14 de Sep del 2025 a las 02:40 PM",
+    "hora_utc": "2025-09-14 18:40",
+    "mensaje": "⚠️Afectado por déficit de capacidad de generación el siguiente circuito:\nMunicipio Santa Clara:\n👉Cto 28 y169 (Condado-Monumento Che)",
+    "timestamp": 1757875215,
+    "timestamp_local": 1757875215
+  },
+  {
+    "id": 29719,
+    "fecha": "14 de Sep del 2025 a las 02:39 PM",
+    "hora_utc": "2025-09-14 18:39",
+    "mensaje": "💡Restablecido el servicio eléctrico en  los siguientes circuitos:\nMunicipio Caibarién:\n👉Ctos 61, 62, 63 y 64\n👉Ctos 182 y 183 Van Troi\nMunicipio Santa Clara:\n👉Cto 169 (Condado)",
+    "timestamp": 1757875144,
+    "timestamp_local": 1757875144
+  },
+  {
     "id": 29718,
     "fecha": "14 de Sep del 2025 a las 01:11 PM",
     "hora_utc": "2025-09-14 17:11",
-    "mensaje": "💡Será restablecido el servicio eléctrico en los siguientes circuitos:\n\nMunicipio Manicaragua:\n👉Ctos 109 y 150 Manicaragua",
+    "mensaje": "💡Será restablecido el servicio eléctrico en los siguientes circuitos:\nMunicipio Manicaragua:\n👉Ctos 109 y 150 Manicaragua",
     "timestamp": 1757869887,
     "timestamp_local": 1757869887
   },
@@ -126,37 +158,5 @@
     "mensaje": "Afectados 154 MW en la provincia, demanda máxima a apagar en estos momentos.",
     "timestamp": 1757862091,
     "timestamp_local": 1757862091
-  },
-  {
-    "id": 29701,
-    "fecha": "14 de Sep del 2025 a las 10:44 AM",
-    "hora_utc": "2025-09-14 14:44",
-    "mensaje": "💡Será restablecido el servicio eléctrico en los siguientes circuitos:\nMunicipio Remedios:\n👉Ctos 67 y 152 Remedios",
-    "timestamp": 1757861088,
-    "timestamp_local": 1757861088
-  },
-  {
-    "id": 29700,
-    "fecha": "14 de Sep del 2025 a las 10:42 AM",
-    "hora_utc": "2025-09-14 14:42",
-    "mensaje": "💡Será restablecido el servicio eléctrico en los siguientes circuitos:Municipio Santo Domingo:\n👉Cto 134 Santo\n👉Ctos 87  Bermejal",
-    "timestamp": 1757860953,
-    "timestamp_local": 1757860953
-  },
-  {
-    "id": 29699,
-    "fecha": "14 de Sep del 2025 a las 10:39 AM",
-    "hora_utc": "2025-09-14 14:39",
-    "mensaje": "💡Será restablecido el servicio eléctrico en el siguiente circuito:\nMunicipio Santa Clara:\n👉Cto 153 (EIDE)",
-    "timestamp": 1757860785,
-    "timestamp_local": 1757860785
-  },
-  {
-    "id": 29698,
-    "fecha": "14 de Sep del 2025 a las 10:29 AM",
-    "hora_utc": "2025-09-14 14:29",
-    "mensaje": "💡Será restablecido el servicio eléctrico en los siguientes circuitos:\nMunicipio Santa Clara:\n👉Ctos 37 y 38 (Yabú)",
-    "timestamp": 1757860142,
-    "timestamp_local": 1757860142
   }
 ]
