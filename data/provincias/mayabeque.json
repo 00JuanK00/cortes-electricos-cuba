@@ -1,5 +1,29 @@
 [
   {
+    "id": 89264,
+    "fecha": "13 de Sep del 2025 a las 10:41 PM",
+    "hora_utc": "2025-09-14 02:41",
+    "mensaje": "♦️ Afectado el servicio en el circuito de Catalina 1 por manipulación ♦️",
+    "timestamp": 1757817704,
+    "timestamp_local": 1757817704
+  },
+  {
+    "id": 89263,
+    "fecha": "13 de Sep del 2025 a las 10:38 PM",
+    "hora_utc": "2025-09-14 02:38",
+    "mensaje": "🚨Por déficit de capacidad de generación se afecta el servicio en los siguientes circuitos:\n*La Salud 1 y 2 🚨",
+    "timestamp": 1757817491,
+    "timestamp_local": 1757817491
+  },
+  {
+    "id": 89262,
+    "fecha": "13 de Sep del 2025 a las 10:35 PM",
+    "hora_utc": "2025-09-14 02:35",
+    "mensaje": "🔷♦️Se restablece el servicio en los siguientes circuitos que se encontraban afectados por déficit de capacidad de generación:\n*Quivicán\n*San Felipe\n*Magela\n*Palomo♦️🔷",
+    "timestamp": 1757817336,
+    "timestamp_local": 1757817336
+  },
+  {
     "id": 89261,
     "fecha": "13 de Sep del 2025 a las 09:40 PM",
     "hora_utc": "2025-09-14 01:40",
@@ -118,37 +142,5 @@
     "mensaje": "🔷Con servicio el circuito de Güines 3 que se encontraba afectado por disparo en las líneas🔷",
     "timestamp": 1757804949,
     "timestamp_local": 1757804949
-  },
-  {
-    "id": 89245,
-    "fecha": "13 de Sep del 2025 a las 06:23 PM",
-    "hora_utc": "2025-09-13 22:23",
-    "mensaje": "♦️ Afectado el servicio en el circuito Güines 3 por disparo en las líneas ♦️",
-    "timestamp": 1757802238,
-    "timestamp_local": 1757802238
-  },
-  {
-    "id": 89244,
-    "fecha": "13 de Sep del 2025 a las 06:17 PM",
-    "hora_utc": "2025-09-13 22:17",
-    "mensaje": "🚨Por déficit de capacidad de generación se afecta el servicio en el siguiente circuito:\n*4105🚨",
-    "timestamp": 1757801860,
-    "timestamp_local": 1757801860
-  },
-  {
-    "id": 89243,
-    "fecha": "13 de Sep del 2025 a las 06:11 PM",
-    "hora_utc": "2025-09-13 22:11",
-    "mensaje": "♦️ Afectado el servicio en el circuito Catalina 1 por disparo en las líneas ♦️",
-    "timestamp": 1757801477,
-    "timestamp_local": 1757801477
-  },
-  {
-    "id": 89242,
-    "fecha": "13 de Sep del 2025 a las 06:09 PM",
-    "hora_utc": "2025-09-13 22:09",
-    "mensaje": "🔷Restablecido el servicio en el circuito de Güines 4 ,y Güines 1 que se encontraba afectados por tormenta, quedando afectado las siguientes zonas correspondientes a Güines 1 por avería:\n*Campamento Paraíso\n*Comunidad la 5ta\n*Palenque ♦️",
-    "timestamp": 1757801371,
-    "timestamp_local": 1757801371
   }
 ]
