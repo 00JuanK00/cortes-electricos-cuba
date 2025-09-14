@@ -1,5 +1,29 @@
 [
   {
+    "id": 29743,
+    "fecha": "14 de Sep del 2025 a las 07:17 PM",
+    "hora_utc": "2025-09-14 23:17",
+    "mensaje": "⚡Avería⚡\nMunicipio Santa Clara\nAfectado Cto 4(Consejo Centro),se estudian las causas.",
+    "timestamp": 1757891821,
+    "timestamp_local": 1757891821
+  },
+  {
+    "id": 29742,
+    "fecha": "14 de Sep del 2025 a las 07:03 PM",
+    "hora_utc": "2025-09-14 23:03",
+    "mensaje": "💡Restablecido el servicio eléctrico en  los siguientes circuitos:\nMunicipio Caibarién\n👉Ctos 182 y 183 Van Troi\nMunicipio Santa Clara:\n👉Cto 170 (José Martí)",
+    "timestamp": 1757891013,
+    "timestamp_local": 1757891013
+  },
+  {
+    "id": 29741,
+    "fecha": "14 de Sep del 2025 a las 07:01 PM",
+    "hora_utc": "2025-09-14 23:01",
+    "mensaje": "⚠️Afectados por déficit de capacidad de generación los siguientes circuitos:\nMunicipio Caibarien\n👉Ctos 61, 62 Caibarien",
+    "timestamp": 1757890913,
+    "timestamp_local": 1757890913
+  },
+  {
     "id": 29740,
     "fecha": "14 de Sep del 2025 a las 06:30 PM",
     "hora_utc": "2025-09-14 22:30",
@@ -134,29 +158,5 @@
     "mensaje": "⚠️Serán afectados por déficit de capacidad de generación los siguientes circuitos:\nMunicipio Encrucijada:\n👉Cto 122 Encrucijada \n👉Cto 123 Vizcaya \n👉Cto 142 Comunidad La Sierra \n👉Cto 126 Batey Emilio Córdova\n👉Cto 125 Cavarrocas\n👉Cto 124 El Santo\nMunicipio Camajuaní:\n👉Cto 78 Jutiero",
     "timestamp": 1757877888,
     "timestamp_local": 1757877888
-  },
-  {
-    "id": 29723,
-    "fecha": "14 de Sep del 2025 a las 03:07 PM",
-    "hora_utc": "2025-09-14 19:07",
-    "mensaje": "Afectados 156 MW en la provincia, demanda máxima a apagar en estos momentos.",
-    "timestamp": 1757876861,
-    "timestamp_local": 1757876861
-  },
-  {
-    "id": 29722,
-    "fecha": "14 de Sep del 2025 a las 02:43 PM",
-    "hora_utc": "2025-09-14 18:43",
-    "mensaje": "Afectados 154 MW en la provincia, demanda máxima a apagar en estos momentos.",
-    "timestamp": 1757875422,
-    "timestamp_local": 1757875422
-  },
-  {
-    "id": 29721,
-    "fecha": "14 de Sep del 2025 a las 02:42 PM",
-    "hora_utc": "2025-09-14 18:42",
-    "mensaje": "Actualización del servicio eléctrico en la provincia\n✍️Se mantienen afectados en la provincia 177 circuitos.\n✍️En el momento de hacer esta nota la provincia tiene 154 MW de afectación por déficit de capacidad de generación, demanda máxima posible a apagar.\n✍️Cuenta con 130 afectaciones por averías secundarias y de servicio.",
-    "timestamp": 1757875363,
-    "timestamp_local": 1757875363
   }
 ]
