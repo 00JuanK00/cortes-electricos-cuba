@@ -1,9 +1,17 @@
 [
   {
+    "id": 44468,
+    "fecha": "14 de Sep del 2025 a las 05:32 AM",
+    "hora_utc": "2025-09-14 09:32",
+    "mensaje": "🔴Estimados clientes en estos momentos se encuentra afecta por déficit de capacidad de generación la línea 5385 de Palma.",
+    "timestamp": 1757842358,
+    "timestamp_local": 1757842358
+  },
+  {
     "id": 44467,
     "fecha": "14 de Sep del 2025 a las 04:46 AM",
     "hora_utc": "2025-09-14 08:46",
-    "mensaje": "🔴Estimados clientes en estos momentos se suma a la afectación por déficit de capacidad de generación la línea 4395 de Contramaestre.",
+    "mensaje": "🔴Estimados clientes en estos momentos se suma a la afectación por déficit de capacidad de generación las líneas 4390 y 4395 de Contramaestre.",
     "timestamp": 1757839612,
     "timestamp_local": 1757839612
   },
@@ -11,7 +19,7 @@
     "id": 44466,
     "fecha": "14 de Sep del 2025 a las 04:12 AM",
     "hora_utc": "2025-09-14 08:12",
-    "mensaje": "🔴Estimados clientes en estos momentos se encuentran afectados por déficit de capacidad de generación los circuitos 8, 9 y 13 de Santiago y 4 de Palma.",
+    "mensaje": "🔴Estimados clientes en estos momentos se encuentran afectados por déficit de capacidad de generación los circuitos 8, 9, 13 Y 20 de Santiago y 4 de Palma.",
     "timestamp": 1757837529,
     "timestamp_local": 1757837529
   },
@@ -110,13 +118,5 @@
     "mensaje": "Disparo Automático de Frecuencia (DAF):\nOcurre cuando.  la frecuencia está por debajo de los 60Hz y determinada carga o circuito se desconecta del sistema automáticamente hasta que se estabilice",
     "timestamp": 1757806700,
     "timestamp_local": 1757806700
-  },
-  {
-    "id": 44448,
-    "fecha": "13 de Sep del 2025 a las 07:38 PM",
-    "hora_utc": "2025-09-13 23:38",
-    "mensaje": "🚨Estimados clientes en estos momentos está disparado por (DAF) la línea 5975 de Baconao.",
-    "timestamp": 1757806695,
-    "timestamp_local": 1757806695
   }
 ]
