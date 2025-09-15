@@ -1,5 +1,21 @@
 [
   {
+    "id": 29805,
+    "fecha": "15 de Sep del 2025 a las 05:45 PM",
+    "hora_utc": "2025-09-15 21:45",
+    "mensaje": "🕕Actualización del servicio eléctrico en las últimas  horas.\n\n👉El déficit de capacidad de generación osciló entre los 165 MW y los 180 MW.\n👉En el momento de esta nota, se mantienen afectados 183 circuitos.\n 👉Cuenta con 251 afectaciones por averías secundarias y de servicio:\n Caibarién (4)\n Camajuaní (7)\n Cifuentes (5)\n Corralillo (6)\n Encrucijada (16)\n Manicaragua (3)\n Placetas (6)\n Ranchuelo (2)\n Remedios (8) \n Sagua (9) \n Santa Clara (140)\n Santo Domingo (15)\n🛠️Se encuentran 4 averías en vías de solución.\n🛠️Pendientes a solucionar por el área técnica 28.\n\n⚡Avería⚡\n👉Cto 14 Maleza",
+    "timestamp": 1757972734,
+    "timestamp_local": 1757972734
+  },
+  {
+    "id": 29804,
+    "fecha": "15 de Sep del 2025 a las 05:01 PM",
+    "hora_utc": "2025-09-15 21:01",
+    "mensaje": "💡Se restablece el servicio eléctrico en el circuito 168 Condado-XX Aniversario.",
+    "timestamp": 1757970086,
+    "timestamp_local": 1757970086
+  },
+  {
     "id": 29803,
     "fecha": "15 de Sep del 2025 a las 04:46 PM",
     "hora_utc": "2025-09-15 20:46",
@@ -126,21 +142,5 @@
     "mensaje": "⚠️Afectados por déficit de generación los siguientes circuitos:\n\n🔹Municipio Santa Clara:\nCto 166 (Condado)\nCto 167 (Virginia)\nCto 170 (José Martí)",
     "timestamp": 1757950758,
     "timestamp_local": 1757950758
-  },
-  {
-    "id": 29785,
-    "fecha": "15 de Sep del 2025 a las 11:07 AM",
-    "hora_utc": "2025-09-15 15:07",
-    "mensaje": "✅¿Qué es un disparo de circuito y porque ocurre?\nLos disparos de circuito tienen diferentes aristas todas con distintos significados, es decir que ocurren por varias causas. Entre ellas encontramos:\n\n👉-Disparo de Circuito con Recierre: El conocido por los clientes como “quita y pon de corriente” es un tipo de protección utilizada mundialmente a partir del 80% aproximadamente de las interrupciones eléctricas son transitorias. Este fenómeno lo hace una sola vez ante un evento de red y no es dañino para para nuestros equipos electrodomésticos. \n\n👉- Disparo Automático por Frecuencia (DAF):  El disparo por DAF ocurre cuando la frecuencia llega a valores mínimos permisibles que ponen en peligro la estabilidad del mismo y como protección desconecta varios circuitos de la Capital. Los mismo restablecen a medida que se vaya recuperando la frecuencia que tiene un valor de 60hz o ciclos por segundo.\n\n👉-Disparo de Circuito por Sobrecarga: Este ocurre mayormente en los horarios pico y en verano, ya que las altas temperaturas generan elevados consumos en la población y como consecuencia de ello fallas en los circuitos.\n\n👉-Disparo de Circuito por Posible Avería: Este fenómeno ocurre cuando existe una falla en algún circuito, ya sea soterrado, aéreo o en una subestación. Estas, a pesar de que son mucho más frecuentes cuando existe algún evento climatológico, pueden ocurrir en cualquier momento del día o la noche, ya que son situaciones que no cuentan con programación.",
-    "timestamp": 1757948843,
-    "timestamp_local": 1757948843
-  },
-  {
-    "id": 29784,
-    "fecha": "15 de Sep del 2025 a las 09:59 AM",
-    "hora_utc": "2025-09-15 13:59",
-    "mensaje": "Actualización del servicio eléctrico en la provincia\n✍️Se mantienen afectados en la provincia 183 circuitos.\n✍️En el momento de hacer esta nota la provincia tiene 153 MW de afectación por déficit de capacidad de generación, demanda máxima posible a apagar.\n✍️Cuenta con 122 afectaciones por averías secundarias y de servicio.",
-    "timestamp": 1757944746,
-    "timestamp_local": 1757944746
   }
 ]
