@@ -1,5 +1,53 @@
 [
   {
+    "id": 44547,
+    "fecha": "15 de Sep del 2025 a las 03:31 PM",
+    "hora_utc": "2025-09-15 19:31",
+    "mensaje": "Disparo:  \nApertura no voluntaria de un interruptor como vía de protección para desconectar uno o varios elementos del circuito, subestación o sistema, restableciéndose el servicio rápidamente en dependencia de la causa.",
+    "timestamp": 1757964680,
+    "timestamp_local": 1757964680
+  },
+  {
+    "id": 44546,
+    "fecha": "15 de Sep del 2025 a las 03:31 PM",
+    "hora_utc": "2025-09-15 19:31",
+    "mensaje": "🔊Estimados clientes se le informa que en estos momentos se encuentran disparados las líneas 5390 de la Maya-II Frente y 5395 de San Luis.",
+    "timestamp": 1757964668,
+    "timestamp_local": 1757964668
+  },
+  {
+    "id": 44545,
+    "fecha": "15 de Sep del 2025 a las 03:28 PM",
+    "hora_utc": "2025-09-15 19:28",
+    "mensaje": "🔴Estimados clientes se le informa que en estos momentos se encuentra afectado por déficit de capacidad de generación la línea 4395 de Contramaestre.",
+    "timestamp": 1757964492,
+    "timestamp_local": 1757964492
+  },
+  {
+    "id": 44544,
+    "fecha": "15 de Sep del 2025 a las 03:10 PM",
+    "hora_utc": "2025-09-15 19:10",
+    "mensaje": "Disparo:  \nApertura no voluntaria de un interruptor como vía de protección para desconectar uno o varios elementos del circuito, subestación o sistema, restableciéndose el servicio rápidamente en dependencia de la causa.",
+    "timestamp": 1757963402,
+    "timestamp_local": 1757963402
+  },
+  {
+    "id": 44543,
+    "fecha": "15 de Sep del 2025 a las 03:09 PM",
+    "hora_utc": "2025-09-15 19:09",
+    "mensaje": "🔊Estimados clientes en estos momentos se encuentra disparada la línea 5390 de la Maya-II Frente.",
+    "timestamp": 1757963397,
+    "timestamp_local": 1757963397
+  },
+  {
+    "id": 44542,
+    "fecha": "15 de Sep del 2025 a las 03:01 PM",
+    "hora_utc": "2025-09-15 19:01",
+    "mensaje": "🔴Estimados clientes se le informa que en estos momentos se incorpora a la afectación el circuito 15 de Santiago.",
+    "timestamp": 1757962912,
+    "timestamp_local": 1757962912
+  },
+  {
     "id": 44541,
     "fecha": "15 de Sep del 2025 a las 02:39 PM",
     "hora_utc": "2025-09-15 18:39",
@@ -27,7 +75,7 @@
     "id": 44538,
     "fecha": "15 de Sep del 2025 a las 02:09 PM",
     "hora_utc": "2025-09-15 18:09",
-    "mensaje": "🔴Estimados clientes se le informa que en estos momentos se suman a la afectación por déficit de capacidad de generación los circuitos 1 de Santiago y 4 de Palma.",
+    "mensaje": "🔴Estimados clientes se le informa que en estos momentos se incorpora a la afectación por déficit de capacidad de generación los circuitos 1 de Santiago y 4 de Palma.",
     "timestamp": 1757959740,
     "timestamp_local": 1757959740
   },
@@ -67,7 +115,7 @@
     "id": 44533,
     "fecha": "15 de Sep del 2025 a las 12:27 PM",
     "hora_utc": "2025-09-15 16:27",
-    "mensaje": "🔴Estimados clientes en estos momentos se suma a la afectados por déficit de capacidad de generación la línea 4390 de Contramaestre.",
+    "mensaje": "🔴Estimados clientes en estos momentos se incorpora a la afectados por déficit de capacidad de generación la línea 4390 de Contramaestre.",
     "timestamp": 1757953633,
     "timestamp_local": 1757953633
   },
@@ -110,53 +158,5 @@
     "mensaje": "Disparo Automático de Frecuencia (DAF):\nOcurre cuando la frecuencia está por debajo de los 60Hz y determinada carga o circuito se desconecta del sistema automáticamente hasta que se estabilice.",
     "timestamp": 1757949866,
     "timestamp_local": 1757949866
-  },
-  {
-    "id": 44527,
-    "fecha": "15 de Sep del 2025 a las 11:24 AM",
-    "hora_utc": "2025-09-15 15:24",
-    "mensaje": "🔉 Estimados clientes se les informa que se encuentran afectados el circuito 13 de Santiago y la línea 5975 Baconao por Disparo (DAF).",
-    "timestamp": 1757949842,
-    "timestamp_local": 1757949842
-  },
-  {
-    "id": 44526,
-    "fecha": "15 de Sep del 2025 a las 10:26 AM",
-    "hora_utc": "2025-09-15 14:26",
-    "mensaje": "Manipulaciones:\nAcciones que se realizan en los circuitos para dar paso al trabajo en zonas afectadas por averías o Vía Libre y posteriormente para restablecer el servicio eléctrico en los circuitos que se encontraban afectados y en los que se trabaja con anterioridad, luego de culminadas las labores pertinentes.",
-    "timestamp": 1757946384,
-    "timestamp_local": 1757946384
-  },
-  {
-    "id": 44525,
-    "fecha": "15 de Sep del 2025 a las 10:25 AM",
-    "hora_utc": "2025-09-15 14:25",
-    "mensaje": "🔴Estimados clientes en estos momentos se está manipulando el circuito Chile.",
-    "timestamp": 1757946358,
-    "timestamp_local": 1757946358
-  },
-  {
-    "id": 44524,
-    "fecha": "15 de Sep del 2025 a las 10:16 AM",
-    "hora_utc": "2025-09-15 14:16",
-    "mensaje": "🚨Estimados clientes se le informa que en estos momentos se encuentran afectados por déficit de capacidad de generación los circuitos 8 ,  16 y 19 de Santiago.",
-    "timestamp": 1757945782,
-    "timestamp_local": 1757945782
-  },
-  {
-    "id": 44523,
-    "fecha": "15 de Sep del 2025 a las 09:07 AM",
-    "hora_utc": "2025-09-15 13:07",
-    "mensaje": "Disparo Automático de Frecuencia (DAF):\nOcurre cuando.  la frecuencia está por debajo de los 60Hz y determinada carga o circuito se desconecta del sistema automáticamente hasta que se estabilice.",
-    "timestamp": 1757941651,
-    "timestamp_local": 1757941651
-  },
-  {
-    "id": 44522,
-    "fecha": "15 de Sep del 2025 a las 09:07 AM",
-    "hora_utc": "2025-09-15 13:07",
-    "mensaje": "🔊Estimados clientes se le informa que en estos momentos se encuentran disparados por (DAF) el circuito 13 y la línea 5975 de Baconao.🔊",
-    "timestamp": 1757941642,
-    "timestamp_local": 1757941642
   }
 ]
