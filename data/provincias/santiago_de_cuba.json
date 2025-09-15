@@ -1,5 +1,37 @@
 [
   {
+    "id": 44541,
+    "fecha": "15 de Sep del 2025 a las 02:39 PM",
+    "hora_utc": "2025-09-15 18:39",
+    "mensaje": "🔴Estimados clientes se le informa que en estos momentos se encuentran afectados por déficit de capacidad de generación los circuitos 2 de Santiago y 2 de Palma.",
+    "timestamp": 1757961580,
+    "timestamp_local": 1757961580
+  },
+  {
+    "id": 44540,
+    "fecha": "15 de Sep del 2025 a las 02:29 PM",
+    "hora_utc": "2025-09-15 18:29",
+    "mensaje": "Disparo Automático de Frecuencia (DAF):\nOcurre cuando.  la frecuencia está por debajo de los 60Hz y determinada carga o circuito se desconecta del sistema automáticamente hasta que se estabilice.",
+    "timestamp": 1757960948,
+    "timestamp_local": 1757960948
+  },
+  {
+    "id": 44539,
+    "fecha": "15 de Sep del 2025 a las 02:29 PM",
+    "hora_utc": "2025-09-15 18:29",
+    "mensaje": "🔉 Estimados clientes se les informa que se encuentran afectados el circuito 13 de Santiago y la línea 5975 Baconao por Disparo (DAF).🔉",
+    "timestamp": 1757960941,
+    "timestamp_local": 1757960941
+  },
+  {
+    "id": 44538,
+    "fecha": "15 de Sep del 2025 a las 02:09 PM",
+    "hora_utc": "2025-09-15 18:09",
+    "mensaje": "🔴Estimados clientes se le informa que en estos momentos se suman a la afectación por déficit de capacidad de generación los circuitos 1 de Santiago y 4 de Palma.",
+    "timestamp": 1757959740,
+    "timestamp_local": 1757959740
+  },
+  {
     "id": 44537,
     "fecha": "15 de Sep del 2025 a las 01:49 PM",
     "hora_utc": "2025-09-15 17:49",
@@ -126,37 +158,5 @@
     "mensaje": "🔊Estimados clientes se le informa que en estos momentos se encuentran disparados por (DAF) el circuito 13 y la línea 5975 de Baconao.🔊",
     "timestamp": 1757941642,
     "timestamp_local": 1757941642
-  },
-  {
-    "id": 44521,
-    "fecha": "15 de Sep del 2025 a las 09:04 AM",
-    "hora_utc": "2025-09-15 13:04",
-    "mensaje": "🚨Estimados clientes se le informa que en estos momentos se encuentra afectado por déficit de capacidad de generación la línea 5390 de la Maya-II Frente.",
-    "timestamp": 1757941455,
-    "timestamp_local": 1757941455
-  },
-  {
-    "id": 44520,
-    "fecha": "15 de Sep del 2025 a las 08:22 AM",
-    "hora_utc": "2025-09-15 12:22",
-    "mensaje": "🚨Estimados clientes se le informa que en estos momentos se encuentra afectado por déficit de capacidad de generación la línea 5395 de San Luis.",
-    "timestamp": 1757938951,
-    "timestamp_local": 1757938951
-  },
-  {
-    "id": 44519,
-    "fecha": "15 de Sep del 2025 a las 06:40 AM",
-    "hora_utc": "2025-09-15 10:40",
-    "mensaje": "🚨Estimados clientes se le informa que en estos momentos se encuentra afectado por Déficit la Línea 4395 Contramaestre",
-    "timestamp": 1757932844,
-    "timestamp_local": 1757932844
-  },
-  {
-    "id": 44518,
-    "fecha": "15 de Sep del 2025 a las 06:34 AM",
-    "hora_utc": "2025-09-15 10:34",
-    "mensaje": "🔴Vía Libre:\nTrabajos planificados o por emergencias que se realizan con el fin de construir y mantener líneas aéreas y soterradas; así como contribuir a la constante mejora en la entrega de la energía eléctrica.",
-    "timestamp": 1757932483,
-    "timestamp_local": 1757932483
   }
 ]
