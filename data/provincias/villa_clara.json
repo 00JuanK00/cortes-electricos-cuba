@@ -1,9 +1,41 @@
 [
   {
+    "id": 29756,
+    "fecha": "14 de Sep del 2025 a las 11:16 PM",
+    "hora_utc": "2025-09-15 03:16",
+    "mensaje": "⚠️Afectado por déficit de capacidad de generación los siguientes circuitos:\nMunicipio Placetas:\n👉Cto 107 Baez\n👉Cto 105 Nazareno",
+    "timestamp": 1757906192,
+    "timestamp_local": 1757906192
+  },
+  {
+    "id": 29755,
+    "fecha": "14 de Sep del 2025 a las 11:01 PM",
+    "hora_utc": "2025-09-15 03:01",
+    "mensaje": "⚠️Afectado por déficit de capacidad de generación el siguiente circuito:\n\nMunicipio Santa Clara\n👉Cto 170 José Marti",
+    "timestamp": 1757905306,
+    "timestamp_local": 1757905306
+  },
+  {
+    "id": 29754,
+    "fecha": "14 de Sep del 2025 a las 10:56 PM",
+    "hora_utc": "2025-09-15 02:56",
+    "mensaje": "💡Restablecido el servicio eléctrico en los siguientes circuitos:\nMunicipio Sagua:\n👉Ctos 43 y 51\n👉Ctos 50 y 147 Villa Alegre",
+    "timestamp": 1757904988,
+    "timestamp_local": 1757904988
+  },
+  {
+    "id": 29753,
+    "fecha": "14 de Sep del 2025 a las 10:19 PM",
+    "hora_utc": "2025-09-15 02:19",
+    "mensaje": "⚠️Afectados por déficit de capacidad de generación  en el siguiente circuito:\nMunicipio Sagua\n👉Cto 44 Isabela",
+    "timestamp": 1757902754,
+    "timestamp_local": 1757902754
+  },
+  {
     "id": 29752,
     "fecha": "14 de Sep del 2025 a las 09:50 PM",
     "hora_utc": "2025-09-15 01:50",
-    "mensaje": "💡Será restablecido el servicio eléctrico en los siguientes circuitos:\n\nMunicipio Santa Clara:👉Ctos 15 y 27 (Maleza)",
+    "mensaje": "💡Será restablecido el servicio eléctrico en los siguientes circuitos:\nMunicipio Santa Clara:\n👉Ctos 15 y 27 (Maleza)",
     "timestamp": 1757901002,
     "timestamp_local": 1757901002
   },
@@ -126,37 +158,5 @@
     "mensaje": "⚠️Serán afectados por déficit de capacidad de generación los siguientes circuitos:\nMunicipio Santa Clara\n👉Cto 6 (Vigía)\n👉Cto 39 (Sandino)\n👉Cto 22 (Construcciones Textil)\n👉Cto 153 (EIDE)",
     "timestamp": 1757887659,
     "timestamp_local": 1757887659
-  },
-  {
-    "id": 29736,
-    "fecha": "14 de Sep del 2025 a las 06:03 PM",
-    "hora_utc": "2025-09-14 22:03",
-    "mensaje": "🕕Actualización del servicio eléctrico en las últimas 6 horas.\n\n✍️ El déficit de capacidad de generación osciló entre los 154 MW y los  174 MW.\n✍️ En el momento de esta nota, se mantienen afectados 174 circuitos.\n✍️ Cuenta con 156 afectaciones por averías secundarias y de servicio:\n Caibarién (6)\n Camajuaní (8)\n Cifuentes (2)\n Corralillo (2)\n Encrucijada (6)\n Placetas (2)\n Remedios (3) \n Santa Clara (92)\n Santo Domingo (4)\n🛠️Se encuentran 11 averías en vías de solución.\n🛠️Pendientes a solucionar por el área técnica 20.\n\n⚡Avería⚡\nMunicipio Santa Clara\nAfectado Cto 144(Camacho) , faltando una fase.",
-    "timestamp": 1757887417,
-    "timestamp_local": 1757887417
-  },
-  {
-    "id": 29735,
-    "fecha": "14 de Sep del 2025 a las 05:53 PM",
-    "hora_utc": "2025-09-14 21:53",
-    "mensaje": "⚠️Serán afectados por déficit de capacidad de generación los siguientes circuitos:\nMunicipio Remedios:\n👉Ctos 67 y 152, 68 y 118",
-    "timestamp": 1757886839,
-    "timestamp_local": 1757886839
-  },
-  {
-    "id": 29734,
-    "fecha": "14 de Sep del 2025 a las 05:46 PM",
-    "hora_utc": "2025-09-14 21:46",
-    "mensaje": "⚡Avería.⚡\nAfectado el Cto 144(Camacho) perteneciente al municipio Santa Clara , faltando una fase por disparo en la Sub eléctrica .",
-    "timestamp": 1757886385,
-    "timestamp_local": 1757886385
-  },
-  {
-    "id": 29733,
-    "fecha": "14 de Sep del 2025 a las 05:33 PM",
-    "hora_utc": "2025-09-14 21:33",
-    "mensaje": "💡Será establecido el servicio eléctrico en el siguiente circuito:\nMunicipio Santa Clara:\n👉Cto 2 Concejo Centro",
-    "timestamp": 1757885615,
-    "timestamp_local": 1757885615
   }
 ]
