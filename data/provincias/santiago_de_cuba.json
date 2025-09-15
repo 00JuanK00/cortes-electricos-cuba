@@ -1,5 +1,37 @@
 [
   {
+    "id": 44551,
+    "fecha": "15 de Sep del 2025 a las 04:39 PM",
+    "hora_utc": "2025-09-15 20:39",
+    "mensaje": "Disparo Automático de Frecuencia (DAF):\nOcurre cuando.  la frecuencia está por debajo de los 60Hz y determinada carga o circuito se desconecta del sistema automáticamente hasta que se estabilice.",
+    "timestamp": 1757968740,
+    "timestamp_local": 1757968740
+  },
+  {
+    "id": 44550,
+    "fecha": "15 de Sep del 2025 a las 04:38 PM",
+    "hora_utc": "2025-09-15 20:38",
+    "mensaje": "🔉 Estimados clientes se les informa que se encuentran afectados los circuitos 13 y 14 de Santiago y la línea 5975 Baconao por Disparo (DAF).🔉",
+    "timestamp": 1757968705,
+    "timestamp_local": 1757968705
+  },
+  {
+    "id": 44549,
+    "fecha": "15 de Sep del 2025 a las 04:17 PM",
+    "hora_utc": "2025-09-15 20:17",
+    "mensaje": "🔴Estimados clientes se le informa que en estos momentos se incorpora a la afectación por déficit de capacidad de generación la línea 5390 de la Maya-II Frente.",
+    "timestamp": 1757967450,
+    "timestamp_local": 1757967450
+  },
+  {
+    "id": 44548,
+    "fecha": "15 de Sep del 2025 a las 04:05 PM",
+    "hora_utc": "2025-09-15 20:05",
+    "mensaje": "🔴Estimados clientes se le informa que en estos momentos se encuentran afectados por déficit de capacidad de generación los circuitos 8, 12 y 20 de Santiago y la línea 5395 de San Luis.",
+    "timestamp": 1757966704,
+    "timestamp_local": 1757966704
+  },
+  {
     "id": 44547,
     "fecha": "15 de Sep del 2025 a las 03:31 PM",
     "hora_utc": "2025-09-15 19:31",
@@ -126,37 +158,5 @@
     "mensaje": "🔴Estimados clientes se le informa que en estos momentos se encuentran afectados por déficit de capacidad de generación el circuito 2 de Santiago y la línea 5335 de Guamá.",
     "timestamp": 1757952228,
     "timestamp_local": 1757952228
-  },
-  {
-    "id": 44531,
-    "fecha": "15 de Sep del 2025 a las 11:56 AM",
-    "hora_utc": "2025-09-15 15:56",
-    "mensaje": "Disparo:  \nApertura no voluntaria de un interruptor como vía de protección para desconectar uno o varios elementos del circuito, subestación o sistema, restableciéndose el servicio rápidamente en dependencia de la causa.",
-    "timestamp": 1757951806,
-    "timestamp_local": 1757951806
-  },
-  {
-    "id": 44530,
-    "fecha": "15 de Sep del 2025 a las 11:56 AM",
-    "hora_utc": "2025-09-15 15:56",
-    "mensaje": "🔉Estimados clientes en estos momentos se encuentra disparada la línea 5380 de Mella.",
-    "timestamp": 1757951800,
-    "timestamp_local": 1757951800
-  },
-  {
-    "id": 44529,
-    "fecha": "15 de Sep del 2025 a las 11:28 AM",
-    "hora_utc": "2025-09-15 15:28",
-    "mensaje": "🔉 Estimados clientes se les informa que se encuentran afectados los circuitos 14 , 24 de Santiago , línea 5330 por déficit en capacidad de generación .",
-    "timestamp": 1757950105,
-    "timestamp_local": 1757950105
-  },
-  {
-    "id": 44528,
-    "fecha": "15 de Sep del 2025 a las 11:24 AM",
-    "hora_utc": "2025-09-15 15:24",
-    "mensaje": "Disparo Automático de Frecuencia (DAF):\nOcurre cuando la frecuencia está por debajo de los 60Hz y determinada carga o circuito se desconecta del sistema automáticamente hasta que se estabilice.",
-    "timestamp": 1757949866,
-    "timestamp_local": 1757949866
   }
 ]
