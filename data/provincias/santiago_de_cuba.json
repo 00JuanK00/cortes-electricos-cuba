@@ -1,5 +1,29 @@
 [
   {
+    "id": 44529,
+    "fecha": "15 de Sep del 2025 a las 11:28 AM",
+    "hora_utc": "2025-09-15 15:28",
+    "mensaje": "🔉 Estimados clientes se les informa que se encuentran afectados los circuitos 14 , 24 de Santiago , línea 5330 por déficit en capacidad de generación .",
+    "timestamp": 1757950105,
+    "timestamp_local": 1757950105
+  },
+  {
+    "id": 44528,
+    "fecha": "15 de Sep del 2025 a las 11:24 AM",
+    "hora_utc": "2025-09-15 15:24",
+    "mensaje": "Disparo Automático de Frecuencia (DAF):\nOcurre cuando la frecuencia está por debajo de los 60Hz y determinada carga o circuito se desconecta del sistema automáticamente hasta que se estabilice.",
+    "timestamp": 1757949866,
+    "timestamp_local": 1757949866
+  },
+  {
+    "id": 44527,
+    "fecha": "15 de Sep del 2025 a las 11:24 AM",
+    "hora_utc": "2025-09-15 15:24",
+    "mensaje": "🔉 Estimados clientes se les informa que se encuentran afectados el circuito 13 de Santiago y la línea 5975 Baconao por Disparo (DAF).",
+    "timestamp": 1757949842,
+    "timestamp_local": 1757949842
+  },
+  {
     "id": 44526,
     "fecha": "15 de Sep del 2025 a las 10:26 AM",
     "hora_utc": "2025-09-15 14:26",
@@ -19,7 +43,7 @@
     "id": 44524,
     "fecha": "15 de Sep del 2025 a las 10:16 AM",
     "hora_utc": "2025-09-15 14:16",
-    "mensaje": "🚨Estimados clientes se le informa que en estos momentos se encuentran afectados por déficit de capacidad de generación los circuitos 16 y 19 de Santiago.",
+    "mensaje": "🚨Estimados clientes se le informa que en estos momentos se encuentran afectados por déficit de capacidad de generación los circuitos 8 ,  16 y 19 de Santiago.",
     "timestamp": 1757945782,
     "timestamp_local": 1757945782
   },
@@ -110,21 +134,5 @@
     "mensaje": "🚨Estimados clientes en estos momentos se afecta por Déficit el circuito 8",
     "timestamp": 1757906090,
     "timestamp_local": 1757906090
-  },
-  {
-    "id": 44508,
-    "fecha": "14 de Sep del 2025 a las 10:56 PM",
-    "hora_utc": "2025-09-15 02:56",
-    "mensaje": "🔴Si presenta o conoce alguna avería, haga su reporte al Centro Telefónico mediante el 18888.Gracias.",
-    "timestamp": 1757905018,
-    "timestamp_local": 1757905018
-  },
-  {
-    "id": 44507,
-    "fecha": "14 de Sep del 2025 a las 10:21 PM",
-    "hora_utc": "2025-09-15 02:21",
-    "mensaje": "Estimados clientes en estos momentos se afectan por Déficit los circuitos 12, Línea 5395- San Luis, 20, Línea 4395 Contramaestre - III Frente.",
-    "timestamp": 1757902865,
-    "timestamp_local": 1757902865
   }
 ]
