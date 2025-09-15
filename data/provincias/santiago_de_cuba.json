@@ -1,5 +1,21 @@
 [
   {
+    "id": 44553,
+    "fecha": "15 de Sep del 2025 a las 04:50 PM",
+    "hora_utc": "2025-09-15 20:50",
+    "mensaje": "Disparo Automático de Frecuencia (DAF):\nOcurre cuando.  la frecuencia está por debajo de los 60Hz y determinada carga o circuito se desconecta del sistema automáticamente hasta que se estabilice",
+    "timestamp": 1757969449,
+    "timestamp_local": 1757969449
+  },
+  {
+    "id": 44552,
+    "fecha": "15 de Sep del 2025 a las 04:50 PM",
+    "hora_utc": "2025-09-15 20:50",
+    "mensaje": "🔊Estimados clientes se les informa que se encuentra disparado por DAF el circuito 17",
+    "timestamp": 1757969430,
+    "timestamp_local": 1757969430
+  },
+  {
     "id": 44551,
     "fecha": "15 de Sep del 2025 a las 04:39 PM",
     "hora_utc": "2025-09-15 20:39",
@@ -142,21 +158,5 @@
     "mensaje": "🔊Estimados clientes se le informa que en estos momentos se encuentra disparada la línea de 110kv de la Subestación Pavón.",
     "timestamp": 1757954254,
     "timestamp_local": 1757954254
-  },
-  {
-    "id": 44533,
-    "fecha": "15 de Sep del 2025 a las 12:27 PM",
-    "hora_utc": "2025-09-15 16:27",
-    "mensaje": "🔴Estimados clientes en estos momentos se incorpora a la afectados por déficit de capacidad de generación la línea 4390 de Contramaestre.",
-    "timestamp": 1757953633,
-    "timestamp_local": 1757953633
-  },
-  {
-    "id": 44532,
-    "fecha": "15 de Sep del 2025 a las 12:03 PM",
-    "hora_utc": "2025-09-15 16:03",
-    "mensaje": "🔴Estimados clientes se le informa que en estos momentos se encuentran afectados por déficit de capacidad de generación el circuito 2 de Santiago y la línea 5335 de Guamá.",
-    "timestamp": 1757952228,
-    "timestamp_local": 1757952228
   }
 ]
