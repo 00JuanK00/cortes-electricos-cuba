@@ -1,5 +1,29 @@
 [
   {
+    "id": 29771,
+    "fecha": "15 de Sep del 2025 a las 04:30 AM",
+    "hora_utc": "2025-09-15 08:30",
+    "mensaje": "💡Restablecido el servicio eléctrico en el siguiente circuito:\nMunicipio Santa Clara\n👉Cto 166 Condado",
+    "timestamp": 1757925045,
+    "timestamp_local": 1757925045
+  },
+  {
+    "id": 29770,
+    "fecha": "15 de Sep del 2025 a las 04:30 AM",
+    "hora_utc": "2025-09-15 08:30",
+    "mensaje": "⚠️Afectado por déficit de capacidad de generación el siguiente circuito:\nMunicipio Santa Clara:\n👉Cto 167 Virginia",
+    "timestamp": 1757925006,
+    "timestamp_local": 1757925006
+  },
+  {
+    "id": 29769,
+    "fecha": "15 de Sep del 2025 a las 04:25 AM",
+    "hora_utc": "2025-09-15 08:25",
+    "mensaje": "⚠️Afectado por déficit de capacidad de generación el siguiente circuito:\n\nMunicipio Santa Clara:\n👉Cto 15 Maleza",
+    "timestamp": 1757924709,
+    "timestamp_local": 1757924709
+  },
+  {
     "id": 29768,
     "fecha": "15 de Sep del 2025 a las 02:45 AM",
     "hora_utc": "2025-09-15 06:45",
@@ -134,29 +158,5 @@
     "mensaje": "💡Será restablecido el servicio eléctrico en los siguientes circuitos:\nMunicipio Santa Clara:\n👉Ctos 15 y 27 (Maleza)",
     "timestamp": 1757901002,
     "timestamp_local": 1757901002
-  },
-  {
-    "id": 29751,
-    "fecha": "14 de Sep del 2025 a las 09:44 PM",
-    "hora_utc": "2025-09-15 01:44",
-    "mensaje": "Actualización del servicio eléctrico en la provincia\n✍️Se mantienen afectados en la provincia 181 circuitos.\n✍️En el momento de hacer esta nota la provincia tiene 179 MW de afectación por déficit de capacidad de generación, demanda máxima posible a apagar.\n✍️Cuenta con 123 afectaciones por averías secundarias y de servicio.",
-    "timestamp": 1757900680,
-    "timestamp_local": 1757900680
-  },
-  {
-    "id": 29750,
-    "fecha": "14 de Sep del 2025 a las 09:42 PM",
-    "hora_utc": "2025-09-15 01:42",
-    "mensaje": "Afectados 179 MW en la provincia, demanda máxima a apagar en estos momentos.",
-    "timestamp": 1757900532,
-    "timestamp_local": 1757900532
-  },
-  {
-    "id": 29749,
-    "fecha": "14 de Sep del 2025 a las 09:36 PM",
-    "hora_utc": "2025-09-15 01:36",
-    "mensaje": "💡Restablecido el servicio eléctrico en el siguiente circuito:\nMunicipio Santa Clara\n👉Cto 167 Virginia",
-    "timestamp": 1757900167,
-    "timestamp_local": 1757900167
   }
 ]
