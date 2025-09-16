@@ -1,5 +1,45 @@
 [
   {
+    "id": 29883,
+    "fecha": "16 de Sep del 2025 a las 05:37 PM",
+    "hora_utc": "2025-09-16 21:37",
+    "mensaje": "💡Restablecido el servicio eléctrico en los circuitos siguientes:\nMunicipio Ranchuelo:\n👉Ctos 148 y 149 San Juan",
+    "timestamp": 1758058628,
+    "timestamp_local": 1758058628
+  },
+  {
+    "id": 29882,
+    "fecha": "16 de Sep del 2025 a las 05:35 PM",
+    "hora_utc": "2025-09-16 21:35",
+    "mensaje": "⚠️Afectado el servicio eléctrico por déficit capacidad de generación en los siguientes circuitos:\nMunicipio Ranchuelo: \n👉Ctos 89, 97, 188 y 189",
+    "timestamp": 1758058505,
+    "timestamp_local": 1758058505
+  },
+  {
+    "id": 29881,
+    "fecha": "16 de Sep del 2025 a las 05:22 PM",
+    "hora_utc": "2025-09-16 21:22",
+    "mensaje": "💡Restablecido el servicio eléctrico en los circuitos siguientes:\nMunicipio Placetas:\n👉Cto 101 y 145 Cumbre",
+    "timestamp": 1758057753,
+    "timestamp_local": 1758057753
+  },
+  {
+    "id": 29880,
+    "fecha": "16 de Sep del 2025 a las 05:17 PM",
+    "hora_utc": "2025-09-16 21:17",
+    "mensaje": "⚠️Afectado el servicio eléctrico por déficit capacidad de generación en los siguientes circuitos:\nMunicipio Remedios:\n👉Ctos 67 y 152, 68 y 118 \n👉Ctos 69 y 70 Zuluetas\n👉Cto 143 Batey Heriberto Duquesne\n👉Cto 71 Buena Vista",
+    "timestamp": 1758057478,
+    "timestamp_local": 1758057478
+  },
+  {
+    "id": 29879,
+    "fecha": "16 de Sep del 2025 a las 05:14 PM",
+    "hora_utc": "2025-09-16 21:14",
+    "mensaje": "Restablecidas las líneas 1955 y 1915:\nMunicipio Encrucijada:\n👉Cto 122 Encrucijada \n👉Cto 123 Vizcaya \n👉Cto 142 Comunidad La Sierra \n👉Cto 126 Batey Emilio Córdova\n👉Cto 125 Cavarrocas\n👉Cto 124 El Santo\nMunicipio Camajuaní:\n👉Cto 78 Jutiero\nMunicipio Placetas:\n👉Cto 192 Benito Juárez\n👉Cto 102 Peroti",
+    "timestamp": 1758057287,
+    "timestamp_local": 1758057287
+  },
+  {
     "id": 29878,
     "fecha": "16 de Sep del 2025 a las 04:47 PM",
     "hora_utc": "2025-09-16 20:47",
@@ -118,45 +158,5 @@
     "mensaje": "🛠️ Afectado por manipulación la línea 6375:\nAfecta los circuitos siguientes:\nMunicipio Santa Clara\n👉Cto 7 (Universidad)  \n👉Cto 146 (Elevado Aeropuerto) \n👉Cto 22 (Construcciones Textil)\n👉Cto 131 (Las Antillas)\n👉Cto 153 (EIDE)\n👉Cto 35 Biotecnología\n👉Cto 24 Planta Asfalto\n👉Cto 25 Los Güiros",
     "timestamp": 1758043941,
     "timestamp_local": 1758043941
-  },
-  {
-    "id": 29863,
-    "fecha": "16 de Sep del 2025 a las 01:13 PM",
-    "hora_utc": "2025-09-16 17:13",
-    "mensaje": "Con servicio la línea 861:\nMunicipio Santa Clara:\n👉Cto 5 (Dobarganes)\n👉Cto 17 (Subplanta) \n👉Ctos 37 y 38 (Yabú)   \n👉Cto 9 (Moldes y Troqueles)\n👉Cto 133 (Cafetera)\n👉Cto 13 Zona Industrial",
-    "timestamp": 1758042810,
-    "timestamp_local": 1758042810
-  },
-  {
-    "id": 29862,
-    "fecha": "16 de Sep del 2025 a las 01:12 PM",
-    "hora_utc": "2025-09-16 17:12",
-    "mensaje": "⚠️Afectado el servicio eléctrico por déficit de generación en los siguientes circuitos: \nMunicipio Placetas\n👉Ctos 98 y 99 (Parcial)",
-    "timestamp": 1758042745,
-    "timestamp_local": 1758042745
-  },
-  {
-    "id": 29861,
-    "fecha": "16 de Sep del 2025 a las 01:06 PM",
-    "hora_utc": "2025-09-16 17:06",
-    "mensaje": "🛠️Afectado por manipulación la línea 861:\nAfecta los siguientes circuitos:\nMunicipio Santa Clara:\n👉Cto 5 (Dobarganes)\n👉Cto 17 (Subplanta) \n👉Ctos 37 y 38 (Yabú)   \n👉Cto 9 (Moldes y Troqueles)\n👉Cto 133 (Cafetera)\n👉Cto 13 Zona Industrial",
-    "timestamp": 1758042408,
-    "timestamp_local": 1758042408
-  },
-  {
-    "id": 29860,
-    "fecha": "16 de Sep del 2025 a las 01:05 PM",
-    "hora_utc": "2025-09-16 17:05",
-    "mensaje": "💡Restablecida la línea 6375:\nMunicipio Santa Clara\n👉Cto 7 (Universidad)  \n👉Cto 146 (Elevado Aeropuerto) \n👉Cto 22 (Construcciones Textil)\n👉Cto 131 (Las Antillas)\n👉Cto 153 (EIDE)\n👉Cto 35 Biotecnología\n👉Cto 24 Planta Asfalto\n👉Cto 25 Los Güiros",
-    "timestamp": 1758042309,
-    "timestamp_local": 1758042309
-  },
-  {
-    "id": 29859,
-    "fecha": "16 de Sep del 2025 a las 12:43 PM",
-    "hora_utc": "2025-09-16 16:43",
-    "mensaje": "🕛Actualización del servicio eléctrico en las últimas 6 horas.\n\n✍️El déficit de capacidad de generación osciló entre los 148 MW y los 178 MW.\n✍️En el momento de esta nota, se mantienen afectados 182 circuitos.\n✍️ Cuenta con 265 afectaciones por averías secundarias y de servicio:\n🔸Caibarién (3)\n🔸Camajuaní (8)\n🔸Cifuentes (1)\n🔸Corralillo (2)\n🔸Encrucijada (16)\n🔸Manicaragua (8)\n🔸Placetas (5)\n🔸Ranchuelo (8)\n🔸Remedios (11) \n🔸Sagua (8)\n🔸Santa Clara (142)\n🔸Santo Domingo (18)\n🛠️Se encuentran 15 averías en vías de solución.\n🛠️Pendientes a solucionar por el área técnica 22.\n⚡La provincia presenta 1 avería primaria en el circuito 2 (Consejo Centro), perteneciente al municipio de Santa Clara. Brigadas de nuestra empresa preparan las condiciones necesarias para trabajar en el lugar y reponer el servicio en el menor tiempo posible.",
-    "timestamp": 1758041012,
-    "timestamp_local": 1758041012
   }
 ]
