@@ -1,5 +1,29 @@
 [
   {
+    "id": 29841,
+    "fecha": "16 de Sep del 2025 a las 06:44 AM",
+    "hora_utc": "2025-09-16 10:44",
+    "mensaje": "⚠️Afectado el servicio eléctrico en los siguientes circuitos:\n🔹Municipio Santa Clara:\nCtos 26 y 141 (Manuelita)",
+    "timestamp": 1758019467,
+    "timestamp_local": 1758019467
+  },
+  {
+    "id": 29840,
+    "fecha": "16 de Sep del 2025 a las 06:22 AM",
+    "hora_utc": "2025-09-16 10:22",
+    "mensaje": "💡Restablecido el servicio eléctrico en los circuitos siguientes:\n🔹Municipio Cifuentes:\nCtos 114 y 117\nCtos 116 y 155 Mata\nCto 186 Batey Unidad Proletaria\nCto 184 Sitio Grande",
+    "timestamp": 1758018132,
+    "timestamp_local": 1758018132
+  },
+  {
+    "id": 29839,
+    "fecha": "16 de Sep del 2025 a las 06:16 AM",
+    "hora_utc": "2025-09-16 10:16",
+    "mensaje": "🕕Actualización del servicio eléctrico en las últimas 6 horas.\n\n👉El déficit de capacidad de generación osciló entre los 172 MW y los 148 MW.\n👉En el momento de esta nota, se mantienen afectados 183 circuitos.\n👉 Cuenta con 210 afectaciones por averías secundarias y de servicio:\n Camajuaní (3)\n Encrucijada (12)\n Manicaragua (3)\n Placetas (3)\n Ranchuelo (1)\n Remedios (12) \n Sagua (1) \n Santa Clara (129)\n Santo Domingo (15)\n🛠️Se encuentran 7 averías en vías de solución.\n🛠️Pendientes a solucionar por el área técnica 24.\n⚡La provincia no presenta averías primarias.",
+    "timestamp": 1758017784,
+    "timestamp_local": 1758017784
+  },
+  {
     "id": 29837,
     "fecha": "16 de Sep del 2025 a las 04:04 AM",
     "hora_utc": "2025-09-16 08:04",
@@ -126,29 +150,5 @@
     "mensaje": "💡Restablecido el servicio eléctrico en el circuito 44 Isabela, perteneciente al municipio Sagua.",
     "timestamp": 1757990051,
     "timestamp_local": 1757990051
-  },
-  {
-    "id": 29821,
-    "fecha": "15 de Sep del 2025 a las 10:17 PM",
-    "hora_utc": "2025-09-16 02:17",
-    "mensaje": "💡Restablecido el servicio eléctrico en el circuito 144 Camacho después de solucionada la avería.",
-    "timestamp": 1757989052,
-    "timestamp_local": 1757989052
-  },
-  {
-    "id": 29820,
-    "fecha": "15 de Sep del 2025 a las 10:15 PM",
-    "hora_utc": "2025-09-16 02:15",
-    "mensaje": "💡Será restablecido el servicio eléctrico en el circuito 107 Baez, perteneciente al municipio Placetas.",
-    "timestamp": 1757988935,
-    "timestamp_local": 1757988935
-  },
-  {
-    "id": 29819,
-    "fecha": "15 de Sep del 2025 a las 09:57 PM",
-    "hora_utc": "2025-09-16 01:57",
-    "mensaje": "Actualización del servicio eléctrico en la provincia\n✍️Se mantienen afectados en la provincia 183 circuitos.\n✍️En el momento de hacer esta nota la provincia tiene 185 MW de afectación por déficit de capacidad de generación, demanda máxima posible a apagar.\n✍️Cuenta con 199 afectaciones por averías secundarias y de servicio.",
-    "timestamp": 1757987851,
-    "timestamp_local": 1757987851
   }
 ]
