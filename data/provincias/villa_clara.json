@@ -1,9 +1,25 @@
 [
   {
+    "id": 29856,
+    "fecha": "16 de Sep del 2025 a las 11:18 AM",
+    "hora_utc": "2025-09-16 15:18",
+    "mensaje": "💡Restablecido el servicio eléctrico en los circuitos siguientes:\n🔹Municipio Caibarien:\n👉 Ctos 61 y 62",
+    "timestamp": 1758035884,
+    "timestamp_local": 1758035884
+  },
+  {
+    "id": 29855,
+    "fecha": "16 de Sep del 2025 a las 11:15 AM",
+    "hora_utc": "2025-09-16 15:15",
+    "mensaje": "⚠️Afectado el servicio eléctrico por déficit de generación en los siguientes circuitos: \n🔹Municipio Caibarien\n👉Ctos 63 y 64\n👉Ctos 182 y 183 Almest Van Troi",
+    "timestamp": 1758035726,
+    "timestamp_local": 1758035726
+  },
+  {
     "id": 29854,
     "fecha": "16 de Sep del 2025 a las 10:52 AM",
     "hora_utc": "2025-09-16 14:52",
-    "mensaje": "💡Restablecido el servicio eléctrico en el circuitos siguiente:\nMunicipio Santa Clara:\n👉Cto 26 Manuelita",
+    "mensaje": "💡Restablecido el servicio eléctrico en el circuito siguiente:\nMunicipio Santa Clara:\n👉Cto 26 Manuelita",
     "timestamp": 1758034323,
     "timestamp_local": 1758034323
   },
@@ -134,21 +150,5 @@
     "mensaje": "⚡Se encuentra afectado por una vía libre el circuito 6 Vigía para reparar puentes primarios partidos.",
     "timestamp": 1758009877,
     "timestamp_local": 1758009877
-  },
-  {
-    "id": 29836,
-    "fecha": "16 de Sep del 2025 a las 03:58 AM",
-    "hora_utc": "2025-09-16 07:58",
-    "mensaje": "Actualización del servicio eléctrico en la provincia\n✍️Se mantienen afectados en la provincia 166 circuitos.\n✍️En el momento de hacer esta nota la provincia tiene 134 MW de afectación por déficit de capacidad de generación, demanda máxima posible a apagar.\n✍️Cuenta con 179 afectaciones por averías secundarias y de servicio.",
-    "timestamp": 1758009525,
-    "timestamp_local": 1758009525
-  },
-  {
-    "id": 29835,
-    "fecha": "16 de Sep del 2025 a las 01:56 AM",
-    "hora_utc": "2025-09-16 05:56",
-    "mensaje": "Actualización del servicio eléctrico en la provincia\n✍️Se mantienen afectados en la provincia 166 circuitos.\n✍️En el momento de hacer esta nota la provincia tiene 145 MW de afectación por déficit de capacidad de generación, demanda máxima posible a apagar.\n✍️Cuenta con 186 afectaciones por averías secundarias y de servicio.",
-    "timestamp": 1758002217,
-    "timestamp_local": 1758002217
   }
 ]
