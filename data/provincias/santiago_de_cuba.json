@@ -1,5 +1,37 @@
 [
   {
+    "id": 44602,
+    "fecha": "16 de Sep del 2025 a las 06:16 PM",
+    "hora_utc": "2025-09-16 22:16",
+    "mensaje": "🔴Estimados clientes en estos momentos se incorporan a la afectación por déficit de capacidad de generación los circuitos 23 y 26 de Santiago y 4 de Palma.",
+    "timestamp": 1758060995,
+    "timestamp_local": 1758060995
+  },
+  {
+    "id": 44601,
+    "fecha": "16 de Sep del 2025 a las 06:13 PM",
+    "hora_utc": "2025-09-16 22:13",
+    "mensaje": "Disparo Automático de Frecuencia (DAF):\nOcurre cuando.  la frecuencia está por debajo de los 60Hz y determinada carga o circuito se desconecta del sistema automáticamente hasta que se estabilice.",
+    "timestamp": 1758060806,
+    "timestamp_local": 1758060806
+  },
+  {
+    "id": 44600,
+    "fecha": "16 de Sep del 2025 a las 06:13 PM",
+    "hora_utc": "2025-09-16 22:13",
+    "mensaje": "🔊Estimados clientes en estos momentos se encuentra disparado por (DAF) el circuito 13 de Santiago.",
+    "timestamp": 1758060794,
+    "timestamp_local": 1758060794
+  },
+  {
+    "id": 44599,
+    "fecha": "16 de Sep del 2025 a las 06:11 PM",
+    "hora_utc": "2025-09-16 22:11",
+    "mensaje": "🔴Estimados clientes en estos momentos se encuentra afectada por déficit de capacidad de generación la línea 4395 de Contramaestre.",
+    "timestamp": 1758060678,
+    "timestamp_local": 1758060678
+  },
+  {
     "id": 44598,
     "fecha": "16 de Sep del 2025 a las 05:47 PM",
     "hora_utc": "2025-09-16 21:47",
@@ -110,29 +142,5 @@
     "mensaje": "🔴Se les informa a nuestros clientes que se afecta por Déficit de Capacidad de Generación los circuitos 2 de Palma y línea 4385 Contramaestre.",
     "timestamp": 1758038010,
     "timestamp_local": 1758038010
-  },
-  {
-    "id": 44582,
-    "fecha": "16 de Sep del 2025 a las 11:24 AM",
-    "hora_utc": "2025-09-16 15:24",
-    "mensaje": "🔴Vía Libre:\nTrabajos planificados que se realizan con el fin de construir y mantener líneas aéreas y soterradas; así como contribuir a la constante mejora en la entrega de la energía eléctrica.",
-    "timestamp": 1758036289,
-    "timestamp_local": 1758036289
-  },
-  {
-    "id": 44581,
-    "fecha": "16 de Sep del 2025 a las 11:24 AM",
-    "hora_utc": "2025-09-16 15:24",
-    "mensaje": "🔴Se les informa a nuestros clientes que se afecta por vía libre el circuito 8 de Santiago.",
-    "timestamp": 1758036258,
-    "timestamp_local": 1758036258
-  },
-  {
-    "id": 44580,
-    "fecha": "16 de Sep del 2025 a las 11:23 AM",
-    "hora_utc": "2025-09-16 15:23",
-    "mensaje": "🔴Se les informa a nuestros clientes que se afecta por Déficit de Capacidad de Generación los circuitos 12 y 20 de Santiago.",
-    "timestamp": 1758036219,
-    "timestamp_local": 1758036219
   }
 ]
