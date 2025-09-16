@@ -1,5 +1,21 @@
 [
   {
+    "id": 29885,
+    "fecha": "16 de Sep del 2025 a las 06:00 PM",
+    "hora_utc": "2025-09-16 22:00",
+    "mensaje": "💡Restablecido el servicio eléctrico en el circuito 13 (Zona Industrial), del municipio Santa Clara.",
+    "timestamp": 1758060009,
+    "timestamp_local": 1758060009
+  },
+  {
+    "id": 29884,
+    "fecha": "16 de Sep del 2025 a las 05:50 PM",
+    "hora_utc": "2025-09-16 21:50",
+    "mensaje": "⚠️Afectado el servicio eléctrico por déficit capacidad de generación en los siguientes circuitos:\nMunicipio Santa Clara:\n👉Cto 166 (Condado)\n👉Cto 167 (Virginia)\n👉Cto 170 (José Martí)",
+    "timestamp": 1758059445,
+    "timestamp_local": 1758059445
+  },
+  {
     "id": 29883,
     "fecha": "16 de Sep del 2025 a las 05:37 PM",
     "hora_utc": "2025-09-16 21:37",
@@ -142,21 +158,5 @@
     "mensaje": "Actualización del servicio eléctrico en la provincia\n✍️Se mantienen afectados en la provincia 182 circuitos.\n✍️En el momento de hacer esta nota la provincia tiene 169 MW de afectación por déficit de capacidad de generación, demanda máxima posible a apagar.\n✍️Cuenta con 236 afectaciones por averías secundarias y de servicio.",
     "timestamp": 1758045334,
     "timestamp_local": 1758045334
-  },
-  {
-    "id": 29865,
-    "fecha": "16 de Sep del 2025 a las 01:49 PM",
-    "hora_utc": "2025-09-16 17:49",
-    "mensaje": "💡Con servicio la línea 6375\nMunicipio Santa Clara\n👉Cto 7 (Universidad)  \n👉Cto 146 (Elevado Aeropuerto) \n👉Cto 22 (Construcciones Textil)\n👉Cto 131 (Las Antillas)\n👉Cto 153 (EIDE)\n👉Cto 35 Biotecnología\n👉Cto 24 Planta Asfalto\n👉Cto 25 Los Güiros",
-    "timestamp": 1758044964,
-    "timestamp_local": 1758044964
-  },
-  {
-    "id": 29864,
-    "fecha": "16 de Sep del 2025 a las 01:32 PM",
-    "hora_utc": "2025-09-16 17:32",
-    "mensaje": "🛠️ Afectado por manipulación la línea 6375:\nAfecta los circuitos siguientes:\nMunicipio Santa Clara\n👉Cto 7 (Universidad)  \n👉Cto 146 (Elevado Aeropuerto) \n👉Cto 22 (Construcciones Textil)\n👉Cto 131 (Las Antillas)\n👉Cto 153 (EIDE)\n👉Cto 35 Biotecnología\n👉Cto 24 Planta Asfalto\n👉Cto 25 Los Güiros",
-    "timestamp": 1758043941,
-    "timestamp_local": 1758043941
   }
 ]
