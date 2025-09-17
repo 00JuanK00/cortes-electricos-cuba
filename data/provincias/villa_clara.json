@@ -1,5 +1,21 @@
 [
   {
+    "id": 29909,
+    "fecha": "17 de Sep del 2025 a las 12:00 AM",
+    "hora_utc": "2025-09-17 04:00",
+    "mensaje": "⚠️Afectado el servicio eléctrico por déficit capacidad de generación en el circuito 111 (Mataguá), del municipio Manicaragua.",
+    "timestamp": 1758081604,
+    "timestamp_local": 1758081604
+  },
+  {
+    "id": 29908,
+    "fecha": "16 de Sep del 2025 a las 11:58 PM",
+    "hora_utc": "2025-09-17 03:58",
+    "mensaje": "💡Restablecido el servicio eléctrico en los circuitos siguientes:\nMunicipio Placetas:\n👉Cto 101 y 145 Cumbre\n👉Cto 107 Baez\n👉Cto 105 Nazareno",
+    "timestamp": 1758081517,
+    "timestamp_local": 1758081517
+  },
+  {
     "id": 29907,
     "fecha": "16 de Sep del 2025 a las 11:44 PM",
     "hora_utc": "2025-09-17 03:44",
@@ -142,21 +158,5 @@
     "mensaje": "💡Restablecido el servicio eléctrico en el circuito 31 (Sakenaf), del municipio Santa Clara.",
     "timestamp": 1758062773,
     "timestamp_local": 1758062773
-  },
-  {
-    "id": 29888,
-    "fecha": "16 de Sep del 2025 a las 06:13 PM",
-    "hora_utc": "2025-09-16 22:13",
-    "mensaje": "💡Restablecido el servicio eléctrico en el circuito 22 (Construcciones Textil), del municipio Santa Clara.",
-    "timestamp": 1758060780,
-    "timestamp_local": 1758060780
-  },
-  {
-    "id": 29887,
-    "fecha": "16 de Sep del 2025 a las 06:12 PM",
-    "hora_utc": "2025-09-16 22:12",
-    "mensaje": "🛠️Afectada por Disparo Automático por Frecuencia (DAF) la línea 1915:\nAfecta los siguientes circuitos:\nMunicipio Placetas:\n👉Cto 192 Benito Juárez\n👉Cto 102 Peroti",
-    "timestamp": 1758060743,
-    "timestamp_local": 1758060743
   }
 ]
