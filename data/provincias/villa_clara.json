@@ -1,5 +1,21 @@
 [
   {
+    "id": 29959,
+    "fecha": "17 de Sep del 2025 a las 01:00 PM",
+    "hora_utc": "2025-09-17 17:00",
+    "mensaje": "Afectados 139 MW en la provincia, demanda máxima a apagar en estos momentos.",
+    "timestamp": 1758128421,
+    "timestamp_local": 1758128421
+  },
+  {
+    "id": 29958,
+    "fecha": "17 de Sep del 2025 a las 12:58 PM",
+    "hora_utc": "2025-09-17 16:58",
+    "mensaje": "💡Restablecido el servicio eléctrico en los circuitos siguientes:\nMunicipio Encrucijada:\n👉Cto 122 Encrucijada \n👉Cto 123 Vizcaya \n👉Cto 142 Comunidad La Sierra \n👉Cto 126 Batey Emilio Córdova\n👉Cto 125 Cavarrocas\n👉Cto 124 El Santo\nMunicipio Camajuaní:\n👉Cto 78 Jutiero",
+    "timestamp": 1758128306,
+    "timestamp_local": 1758128306
+  },
+  {
     "id": 29957,
     "fecha": "17 de Sep del 2025 a las 12:43 PM",
     "hora_utc": "2025-09-17 16:43",
@@ -134,21 +150,5 @@
     "mensaje": "Actualización del servicio eléctrico en la provincia\n✍️Se mantienen afectados en la provincia 176 circuitos.\n✍️En el momento de hacer esta nota la provincia tiene 157 MW de afectación por déficit de capacidad de generación, demanda máxima posible a apagar.\n✍️Cuenta con 184 afectaciones por averías secundarias y de servicio.",
     "timestamp": 1758117662,
     "timestamp_local": 1758117662
-  },
-  {
-    "id": 29939,
-    "fecha": "17 de Sep del 2025 a las 09:48 AM",
-    "hora_utc": "2025-09-17 13:48",
-    "mensaje": "⚠️Afectado el servicio eléctrico por déficit capacidad de generación el siguiente circuito:\n🔹Municipio Santa Clara:\n👉Cto 31 (Sakenaf)",
-    "timestamp": 1758116926,
-    "timestamp_local": 1758116926
-  },
-  {
-    "id": 29938,
-    "fecha": "17 de Sep del 2025 a las 09:44 AM",
-    "hora_utc": "2025-09-17 13:44",
-    "mensaje": "💡Restablecido el servicio eléctrico en los circuitos siguientes:\n🔹Municipio Ranchuelo: \n👉Ctos 89, 97, 188 y 189",
-    "timestamp": 1758116669,
-    "timestamp_local": 1758116669
   }
 ]
