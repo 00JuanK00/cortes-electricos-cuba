@@ -1,5 +1,21 @@
 [
   {
+    "id": 29961,
+    "fecha": "17 de Sep del 2025 a las 01:37 PM",
+    "hora_utc": "2025-09-17 17:37",
+    "mensaje": "➡️Ante cualquier duda con la terminología eléctrica, les volvemos explicar: \n     \n✍️Las averías pueden ser primarias (afecta un volumen grande de población pues son las líneas de distribución a 13.8kV y puede afectar varias manzanas, incluso repartos completos).\n\n✍️Secundarias (afecta a todos los clientes que se alimenten del mismo transformador, puede afectar una o varias cuadras). \n\n✍️De servicio (afectan 1 solo cliente o instalación generalmente producto a daños en la acometida, metro contador, etc.).",
+    "timestamp": 1758130620,
+    "timestamp_local": 1758130620
+  },
+  {
+    "id": 29960,
+    "fecha": "17 de Sep del 2025 a las 01:35 PM",
+    "hora_utc": "2025-09-17 17:35",
+    "mensaje": "⚠️Afectado el servicio eléctrico por déficit capacidad de generación en el siguiente circuito:\nMunicipio Santa Clara:\n**👉Cto 31 SC. Industrial**",
+    "timestamp": 1758130502,
+    "timestamp_local": 1758130502
+  },
+  {
     "id": 29959,
     "fecha": "17 de Sep del 2025 a las 01:00 PM",
     "hora_utc": "2025-09-17 17:00",
@@ -134,21 +150,5 @@
     "mensaje": "Afectados 142 MW en la provincia, demanda máxima a apagar en estos momentos.",
     "timestamp": 1758121252,
     "timestamp_local": 1758121252
-  },
-  {
-    "id": 29941,
-    "fecha": "17 de Sep del 2025 a las 10:06 AM",
-    "hora_utc": "2025-09-17 14:06",
-    "mensaje": "💡Restablecido el servicio eléctrico en los circuitos siguientes:\nMunicipio Manicaragua:\n👉Ctos 113 y 137 La Campana\n👉Cto 112 Hoyo Manicaragua",
-    "timestamp": 1758117961,
-    "timestamp_local": 1758117961
-  },
-  {
-    "id": 29940,
-    "fecha": "17 de Sep del 2025 a las 10:01 AM",
-    "hora_utc": "2025-09-17 14:01",
-    "mensaje": "Actualización del servicio eléctrico en la provincia\n✍️Se mantienen afectados en la provincia 176 circuitos.\n✍️En el momento de hacer esta nota la provincia tiene 157 MW de afectación por déficit de capacidad de generación, demanda máxima posible a apagar.\n✍️Cuenta con 184 afectaciones por averías secundarias y de servicio.",
-    "timestamp": 1758117662,
-    "timestamp_local": 1758117662
   }
 ]
