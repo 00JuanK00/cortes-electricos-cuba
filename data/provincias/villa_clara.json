@@ -1,5 +1,21 @@
 [
   {
+    "id": 29907,
+    "fecha": "16 de Sep del 2025 a las 11:44 PM",
+    "hora_utc": "2025-09-17 03:44",
+    "mensaje": "⚠️Afectado el servicio eléctrico por déficit capacidad de generación en los siguientes circuitos:\nMunicipio Sagua:\n👉Ctos 43, 50 y 51\n👉Cto 147 Villa Alegre",
+    "timestamp": 1758080652,
+    "timestamp_local": 1758080652
+  },
+  {
+    "id": 29906,
+    "fecha": "16 de Sep del 2025 a las 11:33 PM",
+    "hora_utc": "2025-09-17 03:33",
+    "mensaje": "💡Restablecido el servicio eléctrico en los circuitos siguientes:\nMunicipio Santa Clara:\n👉Cto 166 (Condado)\n👉Cto 167 (Virginia)\n👉Cto 170 (José Martí)",
+    "timestamp": 1758080016,
+    "timestamp_local": 1758080016
+  },
+  {
     "id": 29905,
     "fecha": "16 de Sep del 2025 a las 10:59 PM",
     "hora_utc": "2025-09-17 02:59",
@@ -142,21 +158,5 @@
     "mensaje": "🛠️Afectada por Disparo Automático por Frecuencia (DAF) la línea 1915:\nAfecta los siguientes circuitos:\nMunicipio Placetas:\n👉Cto 192 Benito Juárez\n👉Cto 102 Peroti",
     "timestamp": 1758060743,
     "timestamp_local": 1758060743
-  },
-  {
-    "id": 29886,
-    "fecha": "16 de Sep del 2025 a las 06:11 PM",
-    "hora_utc": "2025-09-16 22:11",
-    "mensaje": "🕕Actualización del servicio eléctrico en las últimas 6 horas.\n✍️El déficit de capacidad de generación osciló entre los 178 MW y los 195 MW.\n✍️En el momento de esta nota, se mantienen afectados 182 circuitos.\n✍️ Cuenta con 229 afectaciones por averías secundarias y de servicio:\n🔸Caibarién (1)\n🔸Camajuaní (2)\n🔸Corralillo (1)\n🔸Encrucijada (6)\n🔸Manicaragua (13)\n🔸Placetas (3)\n🔸Ranchuelo (3)\n🔸Remedios (9) \n🔸Sagua (15)\n🔸Santa Clara (121)\n🔸Santo Domingo (22)\n🛠️Se encuentran 11 averías en vías de solución.\n🛠️Pendientes a solucionar por el área técnica 22.\n⚡La provincia presenta 1 avería primaria en el circuito 27 (Maleza), perteneciente al municipio de Santa Clara, por neutro primario partido. Brigadas de nuestra empresa se encuentran trabajando en el lugar para reponer el servicio en el menor tiempo posible.",
-    "timestamp": 1758060702,
-    "timestamp_local": 1758060702
-  },
-  {
-    "id": 29885,
-    "fecha": "16 de Sep del 2025 a las 06:00 PM",
-    "hora_utc": "2025-09-16 22:00",
-    "mensaje": "💡Restablecido el servicio eléctrico en el circuito 13 (Zona Industrial), del municipio Santa Clara.",
-    "timestamp": 1758060009,
-    "timestamp_local": 1758060009
   }
 ]
