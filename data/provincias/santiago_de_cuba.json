@@ -1,5 +1,21 @@
 [
   {
+    "id": 44621,
+    "fecha": "17 de Sep del 2025 a las 06:18 AM",
+    "hora_utc": "2025-09-17 10:18",
+    "mensaje": "Disparo Automático de Frecuencia (DAF):\nOcurre cuando la frecuencia está por debajo de los 60Hz y determinada carga o circuito se desconecta del sistema automáticamente hasta que se estabilice.",
+    "timestamp": 1758104318,
+    "timestamp_local": 1758104318
+  },
+  {
+    "id": 44620,
+    "fecha": "17 de Sep del 2025 a las 06:17 AM",
+    "hora_utc": "2025-09-17 10:17",
+    "mensaje": "🔉 Estimados clientes se les informa que se encuentran afectados el circuito 13 de Santiago y la línea 5975 Baconao por disparo (DAF)",
+    "timestamp": 1758104265,
+    "timestamp_local": 1758104265
+  },
+  {
     "id": 44617,
     "fecha": "17 de Sep del 2025 a las 02:56 AM",
     "hora_utc": "2025-09-17 06:56",
@@ -102,21 +118,5 @@
     "mensaje": "🔴Estimados clientes en estos momentos se incorporan a la afectación por déficit de capacidad de generación los circuitos 23 y 26 de Santiago y 4 de Palma.",
     "timestamp": 1758060995,
     "timestamp_local": 1758060995
-  },
-  {
-    "id": 44601,
-    "fecha": "16 de Sep del 2025 a las 06:13 PM",
-    "hora_utc": "2025-09-16 22:13",
-    "mensaje": "Disparo Automático de Frecuencia (DAF):\nOcurre cuando.  la frecuencia está por debajo de los 60Hz y determinada carga o circuito se desconecta del sistema automáticamente hasta que se estabilice.",
-    "timestamp": 1758060806,
-    "timestamp_local": 1758060806
-  },
-  {
-    "id": 44600,
-    "fecha": "16 de Sep del 2025 a las 06:13 PM",
-    "hora_utc": "2025-09-16 22:13",
-    "mensaje": "🔊Estimados clientes en estos momentos se encuentra disparado por (DAF) el circuito 13 de Santiago.",
-    "timestamp": 1758060794,
-    "timestamp_local": 1758060794
   }
 ]
