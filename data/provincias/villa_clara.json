@@ -1,5 +1,29 @@
 [
   {
+    "id": 29982,
+    "fecha": "17 de Sep del 2025 a las 06:00 PM",
+    "hora_utc": "2025-09-17 22:00",
+    "mensaje": "🕕Actualización del servicio eléctrico en las últimas 6 horas.\n✍️El déficit de capacidad de generación osciló entre los 136 MW y los 160 MW.\n✍️En el momento de esta nota, se mantienen afectados 174 circuitos.\n✍️ Cuenta con 158 afectaciones por averías secundarias y de servicio:\n🔸Caibarién (4)\n🔸Encrucijada (5)\n🔸Camajuaní (1)\n🔸Manicaragua (16)\n🔸Placetas (2)\n🔸Ranchuelo (12)\n🔸Remedios (11)\n🔸Sagua (8)\n🔸Santa Clara (79)\n🔸Santo Domingo (20)\n🛠️Se encuentran 3 averías en vías de solución.\n🛠️Pendientes a solucionar por el área técnica 18.\n⚡La provincia no presenta averías primarias en este momento.",
+    "timestamp": 1758146425,
+    "timestamp_local": 1758146425
+  },
+  {
+    "id": 29981,
+    "fecha": "17 de Sep del 2025 a las 05:55 PM",
+    "hora_utc": "2025-09-17 21:55",
+    "mensaje": "⚠️Afectado el servicio eléctrico por déficit capacidad de generación en los siguientes circuitos:\nMunicipio Santa Clara:\n👉Ctos 14 y 27 (Maleza)\n👉Cto 144 (Camacho)",
+    "timestamp": 1758146133,
+    "timestamp_local": 1758146133
+  },
+  {
+    "id": 29980,
+    "fecha": "17 de Sep del 2025 a las 05:52 PM",
+    "hora_utc": "2025-09-17 21:52",
+    "mensaje": "💡Restablecido el servicio eléctrico en el siguiente circuito del municipio Santa Clara:\n👉Cto 168 (Condado - XX Aniversario)",
+    "timestamp": 1758145929,
+    "timestamp_local": 1758145929
+  },
+  {
     "id": 29979,
     "fecha": "17 de Sep del 2025 a las 05:35 PM",
     "hora_utc": "2025-09-17 21:35",
@@ -134,29 +158,5 @@
     "mensaje": "⚠️Afectado el servicio eléctrico por déficit capacidad de generación en los siguientes circuitos:\nMunicipio Caibarién:\n👉Ctos 61, 62",
     "timestamp": 1758132575,
     "timestamp_local": 1758132575
-  },
-  {
-    "id": 29962,
-    "fecha": "17 de Sep del 2025 a las 02:03 PM",
-    "hora_utc": "2025-09-17 18:03",
-    "mensaje": "Actualización del servicio eléctrico en la provincia\n✍️Se mantienen afectados en la provincia 146 circuitos.\n✍️En el momento de hacer esta nota la provincia tiene 136 MW de afectación por déficit de capacidad de generación, demanda máxima posible a apagar.\n✍️Cuenta con 180 afectaciones por averías secundarias y de servicio.",
-    "timestamp": 1758132227,
-    "timestamp_local": 1758132227
-  },
-  {
-    "id": 29961,
-    "fecha": "17 de Sep del 2025 a las 01:37 PM",
-    "hora_utc": "2025-09-17 17:37",
-    "mensaje": "➡️Ante cualquier duda con la terminología eléctrica, les volvemos explicar: \n     \n✍️Las averías pueden ser primarias (afecta un volumen grande de población pues son las líneas de distribución a 13.8kV y puede afectar varias manzanas, incluso repartos completos).\n\n✍️Secundarias (afecta a todos los clientes que se alimenten del mismo transformador, puede afectar una o varias cuadras). \n\n✍️De servicio (afectan 1 solo cliente o instalación generalmente producto a daños en la acometida, metro contador, etc.).",
-    "timestamp": 1758130620,
-    "timestamp_local": 1758130620
-  },
-  {
-    "id": 29960,
-    "fecha": "17 de Sep del 2025 a las 01:35 PM",
-    "hora_utc": "2025-09-17 17:35",
-    "mensaje": "⚠️Afectado el servicio eléctrico por déficit capacidad de generación en el siguiente circuito:\nMunicipio Santa Clara:\n**👉Cto 31 SC. Industrial**",
-    "timestamp": 1758130502,
-    "timestamp_local": 1758130502
   }
 ]
