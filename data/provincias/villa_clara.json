@@ -1,9 +1,17 @@
 [
   {
+    "id": 30061,
+    "fecha": "18 de Sep del 2025 a las 05:01 PM",
+    "hora_utc": "2025-09-18 21:01",
+    "mensaje": "💡Será restablecido el servicio eléctrico en el siguiente circuito:\nMunicipio Quemado:\n👉Ctos 52 Quemado.",
+    "timestamp": 1758229315,
+    "timestamp_local": 1758229315
+  },
+  {
     "id": 30060,
     "fecha": "18 de Sep del 2025 a las 04:45 PM",
     "hora_utc": "2025-09-18 20:45",
-    "mensaje": "🛠️Afectado por Vía Libre.🛠️\n\n⚡Afectado por Vía Libre Cto 93 Esperanza , perteneciente al municipio Ranchuelo para reponer Transformador.",
+    "mensaje": "🛠️Afectado por Vía Libre.🛠️\n\n⚡Afectado por Vía Libre Cto 93 Esperanza , perteneciente al municipio Ranchuelo para cambio de Transformador.",
     "timestamp": 1758228308,
     "timestamp_local": 1758228308
   },
@@ -150,13 +158,5 @@
     "mensaje": "⚠️Afectado el servicio eléctrico por déficit capacidad de generación en el siguiente circuito:\nMunicipio Santa Clara:\n👉Cto 13 (Zona Industrial)",
     "timestamp": 1758214565,
     "timestamp_local": 1758214565
-  },
-  {
-    "id": 30041,
-    "fecha": "18 de Sep del 2025 a las 12:33 PM",
-    "hora_utc": "2025-09-18 16:33",
-    "mensaje": "💡Restablecido el servicio eléctrico en los circuitos siguientes:\nMunicipio Santa Clara:\n👉Ctos 14 y 15  (Maleza)",
-    "timestamp": 1758213189,
-    "timestamp_local": 1758213189
   }
 ]
