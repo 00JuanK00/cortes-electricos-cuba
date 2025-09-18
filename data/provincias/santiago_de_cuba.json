@@ -1,5 +1,29 @@
 [
   {
+    "id": 44666,
+    "fecha": "17 de Sep del 2025 a las 09:52 PM",
+    "hora_utc": "2025-09-18 01:52",
+    "mensaje": "🔴Estimados clientes se les informa que se incorpora a la afectación el circuito 25 .",
+    "timestamp": 1758160323,
+    "timestamp_local": 1758160323
+  },
+  {
+    "id": 44665,
+    "fecha": "17 de Sep del 2025 a las 08:46 PM",
+    "hora_utc": "2025-09-18 00:46",
+    "mensaje": "🔴Estimados clientes se les informa que se incorpora a la afectación  el circuito 1 de Palma .",
+    "timestamp": 1758156370,
+    "timestamp_local": 1758156370
+  },
+  {
+    "id": 44664,
+    "fecha": "17 de Sep del 2025 a las 08:43 PM",
+    "hora_utc": "2025-09-18 00:43",
+    "mensaje": "🔴Estimados clientes se les informa que se incorpora a la afectación la línea 5380 de Mella .",
+    "timestamp": 1758156239,
+    "timestamp_local": 1758156239
+  },
+  {
     "id": 44663,
     "fecha": "17 de Sep del 2025 a las 08:10 PM",
     "hora_utc": "2025-09-18 00:10",
@@ -11,7 +35,7 @@
     "id": 44662,
     "fecha": "17 de Sep del 2025 a las 08:03 PM",
     "hora_utc": "2025-09-18 00:03",
-    "mensaje": "🔴Estimados clientes se les informa que debido a una falla en la línea  de 110kv en la subastación de Pavón  quedaron afectados los circuitos 1 , 2 , 3 , 7 , 8 , 9 , y 10 y de Santiago del  Este los circuitos 11 , 12 , 13 ,14 , 15 y 16  y de Santiago Norte los circuitos 17, 18 , 19 , 20 y 21 y se les dará servicio paulatinamente según la disponibilidad del Sistema .",
+    "mensaje": "🔴Estimados clientes se les informa que debido a una falla en la línea  de 110kv en la subastación Héctor Pavón  quedaron afectados los circuitos 1 , 2 , 3 , 7 , 8 , 9 , y 10 y de Santiago del  Este los circuitos 11 , 12 , 13 ,14 , 15 y 16  y de Santiago Norte los circuitos 17, 18 , 19 , 20 y 21 y se les dará servicio paulatinamente según la disponibilidad del Sistema .",
     "timestamp": 1758153805,
     "timestamp_local": 1758153805
   },
@@ -35,7 +59,7 @@
     "id": 44659,
     "fecha": "17 de Sep del 2025 a las 07:24 PM",
     "hora_utc": "2025-09-17 23:24",
-    "mensaje": "🔴Estimados clientes se les informa que en estos momentos tenemos una afectación debido a un disparó en la línea de 110kv afectando la subestación Pavón Santiago Del Este y Santiago Norte .",
+    "mensaje": "🔴Estimados clientes se les informa que en estos momentos tenemos una afectación debido a un disparó en la línea de 110kv afectando la subestación Héctor Pavón , Santiago Del Este y Santiago Norte .",
     "timestamp": 1758151441,
     "timestamp_local": 1758151441
   },
@@ -110,37 +134,5 @@
     "mensaje": "🔴Estimados clientes se encuentran disparados por DAF el circuito 13 de Santiago y la Línea 5975 de Baconao.Pedimos disculpas por las molestias ocasionadas",
     "timestamp": 1758136962,
     "timestamp_local": 1758136962
-  },
-  {
-    "id": 44647,
-    "fecha": "17 de Sep del 2025 a las 02:57 PM",
-    "hora_utc": "2025-09-17 18:57",
-    "mensaje": "🔴Estimados clientes  se les informa que los circuitos 12 y 20 de Santiago están afectados por déficit de capacidad de generación",
-    "timestamp": 1758135476,
-    "timestamp_local": 1758135476
-  },
-  {
-    "id": 44646,
-    "fecha": "17 de Sep del 2025 a las 02:35 PM",
-    "hora_utc": "2025-09-17 18:35",
-    "mensaje": "🔴Estimados clientes se les informa que el circuito 8 de Santiago y el 2 de Contramaestre están afectados por déficit de capacidad de generación",
-    "timestamp": 1758134117,
-    "timestamp_local": 1758134117
-  },
-  {
-    "id": 44645,
-    "fecha": "17 de Sep del 2025 a las 02:19 PM",
-    "hora_utc": "2025-09-17 18:19",
-    "mensaje": "🔴Estimados clientes se les informa que los circuitos 26 de Santiago,4 de Palma y la Línea 5395 de San Luis están afectados por Déficit de Capacidad de Generación",
-    "timestamp": 1758133155,
-    "timestamp_local": 1758133155
-  },
-  {
-    "id": 44644,
-    "fecha": "17 de Sep del 2025 a las 02:12 PM",
-    "hora_utc": "2025-09-17 18:12",
-    "mensaje": "Disparo Automático de Frecuencia (DAF):\nOcurre cuando.  la frecuencia está por debajo de los 60Hz y determinada carga o circuito se desconecta del sistema automáticamente hasta que se estabilice.",
-    "timestamp": 1758132758,
-    "timestamp_local": 1758132758
   }
 ]
