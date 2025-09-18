@@ -1,5 +1,29 @@
 [
   {
+    "id": 44663,
+    "fecha": "17 de Sep del 2025 a las 08:10 PM",
+    "hora_utc": "2025-09-18 00:10",
+    "mensaje": "🔴 Empresa Eléctrica de Santiago de Cuba comunica a sus clientes que se están restableciendo paulatinamente los circuitos afectados pertenecientes a las subestaciones Santiago Norte y Santiago Este. \n\nLos circuitos que estaban sin servicio eléctrico según la planificación prevista se mantienen con la afectación.",
+    "timestamp": 1758154233,
+    "timestamp_local": 1758154233
+  },
+  {
+    "id": 44662,
+    "fecha": "17 de Sep del 2025 a las 08:03 PM",
+    "hora_utc": "2025-09-18 00:03",
+    "mensaje": "🔴Estimados clientes se les informa que debido a una falla en la línea  de 110kv en la subastación de Pavón  quedaron afectados los circuitos 1 , 2 , 3 , 7 , 8 , 9 , y 10 y de Santiago del  Este los circuitos 11 , 12 , 13 ,14 , 15 y 16  y de Santiago Norte los circuitos 17, 18 , 19 , 20 y 21 y se les dará servicio paulatinamente según la disponibilidad del Sistema .",
+    "timestamp": 1758153805,
+    "timestamp_local": 1758153805
+  },
+  {
+    "id": 44661,
+    "fecha": "17 de Sep del 2025 a las 07:46 PM",
+    "hora_utc": "2025-09-17 23:46",
+    "mensaje": "🔴Estimados clientes se les informa que se incorpora a la afectación Palma Oeste .",
+    "timestamp": 1758152782,
+    "timestamp_local": 1758152782
+  },
+  {
     "id": 44660,
     "fecha": "17 de Sep del 2025 a las 07:32 PM",
     "hora_utc": "2025-09-17 23:32",
@@ -11,7 +35,7 @@
     "id": 44659,
     "fecha": "17 de Sep del 2025 a las 07:24 PM",
     "hora_utc": "2025-09-17 23:24",
-    "mensaje": "🔴Estimados clientes se les informa que en estos momentos tenemos una afectación debido a un disparó en la línea de 110kv afectando la subestación Pavón Santiago Este y Santiago Norte .",
+    "mensaje": "🔴Estimados clientes se les informa que en estos momentos tenemos una afectación debido a un disparó en la línea de 110kv afectando la subestación Pavón Santiago Del Este y Santiago Norte .",
     "timestamp": 1758151441,
     "timestamp_local": 1758151441
   },
@@ -118,29 +142,5 @@
     "mensaje": "Disparo Automático de Frecuencia (DAF):\nOcurre cuando.  la frecuencia está por debajo de los 60Hz y determinada carga o circuito se desconecta del sistema automáticamente hasta que se estabilice.",
     "timestamp": 1758132758,
     "timestamp_local": 1758132758
-  },
-  {
-    "id": 44643,
-    "fecha": "17 de Sep del 2025 a las 02:12 PM",
-    "hora_utc": "2025-09-17 18:12",
-    "mensaje": "🔴Estimados clientes se encuentra disparada por DAF  la Línea 5975 de Baconao.Pedimos disculpas por las molestias ocasionadas",
-    "timestamp": 1758132747,
-    "timestamp_local": 1758132747
-  },
-  {
-    "id": 44642,
-    "fecha": "17 de Sep del 2025 a las 01:47 PM",
-    "hora_utc": "2025-09-17 17:47",
-    "mensaje": "🔴Estimados clientes se les informa que el circuito  16 de Santiago esta disparado.Pedimos disculpas por las molestias ocasionadas.",
-    "timestamp": 1758131239,
-    "timestamp_local": 1758131239
-  },
-  {
-    "id": 44641,
-    "fecha": "17 de Sep del 2025 a las 01:30 PM",
-    "hora_utc": "2025-09-17 17:30",
-    "mensaje": "🔴Estimados clientes se les informa que se encuentran afectados los circuitos 7 ,21 de Santiago y la Línea 4395 de Contramaestre seccionalizada por Déficit de Capacidad de Generación",
-    "timestamp": 1758130235,
-    "timestamp_local": 1758130235
   }
 ]
