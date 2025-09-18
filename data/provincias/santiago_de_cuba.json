@@ -1,5 +1,37 @@
 [
   {
+    "id": 44701,
+    "fecha": "18 de Sep del 2025 a las 07:35 PM",
+    "hora_utc": "2025-09-18 23:35",
+    "mensaje": "🚨Estimados clientes se le informa que en estos momentos está disparado por DAF el circuito 24",
+    "timestamp": 1758238554,
+    "timestamp_local": 1758238554
+  },
+  {
+    "id": 44700,
+    "fecha": "18 de Sep del 2025 a las 07:34 PM",
+    "hora_utc": "2025-09-18 23:34",
+    "mensaje": "🔊Estimados clientes se le informa que en estos momentos están afectados por Déficit de Capacidad de Generación , el circuito El Alambre",
+    "timestamp": 1758238476,
+    "timestamp_local": 1758238476
+  },
+  {
+    "id": 44699,
+    "fecha": "18 de Sep del 2025 a las 07:32 PM",
+    "hora_utc": "2025-09-18 23:32",
+    "mensaje": "🔊Estimados clientes se le informa que en estos momentos están afectados por Déficit de Capacidad de Generación , el circuito del Pilar y 19 de Santiago",
+    "timestamp": 1758238367,
+    "timestamp_local": 1758238367
+  },
+  {
+    "id": 44698,
+    "fecha": "18 de Sep del 2025 a las 07:17 PM",
+    "hora_utc": "2025-09-18 23:17",
+    "mensaje": "🔊Estimados clientes se le informa que en estos momentos están afectados por Déficit de Capacidad de Generación el circuito 16 de Santiago",
+    "timestamp": 1758237433,
+    "timestamp_local": 1758237433
+  },
+  {
     "id": 44697,
     "fecha": "18 de Sep del 2025 a las 06:15 PM",
     "hora_utc": "2025-09-18 22:15",
@@ -118,29 +150,5 @@
     "mensaje": "🔴Disparo Automático de Frecuencia (DAF)🔴\nOcurre cuando.  la frecuencia está por debajo de los 60Hz y determinada carga o circuito se desconecta del sistema automáticamente hasta que se estabilice.",
     "timestamp": 1758209073,
     "timestamp_local": 1758209073
-  },
-  {
-    "id": 44681,
-    "fecha": "18 de Sep del 2025 a las 11:23 AM",
-    "hora_utc": "2025-09-18 15:23",
-    "mensaje": "🔴🚨Estimados clientes en estos momentos se encuentra afectada la línea de Baconao por un disparo por DAF,pedimos disculpas por las molestias ocasionadas.🔴🚨",
-    "timestamp": 1758209038,
-    "timestamp_local": 1758209038
-  },
-  {
-    "id": 44680,
-    "fecha": "18 de Sep del 2025 a las 10:16 AM",
-    "hora_utc": "2025-09-18 14:16",
-    "mensaje": "🔴La Empresa Eléctrica de Santiago de Cuba informa a la población que ya se han restablecido paulatinamente los circuitos que llevaban mayor tiempo de afectación desde la jornada de ayer.",
-    "timestamp": 1758205005,
-    "timestamp_local": 1758205005
-  },
-  {
-    "id": 44679,
-    "fecha": "18 de Sep del 2025 a las 09:43 AM",
-    "hora_utc": "2025-09-18 13:43",
-    "mensaje": "🔴 Empresa Eléctrica de Santiago de Cuba comunica a sus clientes que se están restableciendo paulatinamente los circuitos afectados pertenecientes a las subestaciones Santiago Norte y Santiago Este. \n\nLos circuitos que estaban sin servicio eléctrico según la planificación prevista se mantienen con la afectación.",
-    "timestamp": 1758203007,
-    "timestamp_local": 1758203007
   }
 ]
