@@ -1,5 +1,21 @@
 [
   {
+    "id": 30014,
+    "fecha": "18 de Sep del 2025 a las 05:49 AM",
+    "hora_utc": "2025-09-18 09:49",
+    "mensaje": "Afectados 125 MW en la provincia, demanda máxima a apagar en estos momentos.",
+    "timestamp": 1758188974,
+    "timestamp_local": 1758188974
+  },
+  {
+    "id": 30013,
+    "fecha": "18 de Sep del 2025 a las 05:48 AM",
+    "hora_utc": "2025-09-18 09:48",
+    "mensaje": "⚠️Afectado el servicio eléctrico por déficit capacidad de generación en los siguientes circuitos:\nMunicipio Remedios:\n👉Ctos 67 y 152, 68 y 118 \n👉Ctos 69 y 70 Zuluetas\n👉Cto 143 Batey Heriberto Duquesne\n👉Cto 71 Buena Vista",
+    "timestamp": 1758188897,
+    "timestamp_local": 1758188897
+  },
+  {
     "id": 30012,
     "fecha": "18 de Sep del 2025 a las 04:43 AM",
     "hora_utc": "2025-09-18 08:43",
@@ -134,21 +150,5 @@
     "mensaje": "💡Restablecido el servicio eléctrico en los circuitos siguientes:\nMunicipio Santa Clara:\n👉Ctos 14 ,15 y 27 (Maleza)\n👉Cto 144 (Camacho)",
     "timestamp": 1758157724,
     "timestamp_local": 1758157724
-  },
-  {
-    "id": 29994,
-    "fecha": "17 de Sep del 2025 a las 09:07 PM",
-    "hora_utc": "2025-09-18 01:07",
-    "mensaje": "⚠️Afectado el servicio eléctrico por déficit capacidad de generación en el siguiente circuito:\nMunicipio Santa Clara:\n👉Cto 4 (Centro)",
-    "timestamp": 1758157627,
-    "timestamp_local": 1758157627
-  },
-  {
-    "id": 29993,
-    "fecha": "17 de Sep del 2025 a las 09:03 PM",
-    "hora_utc": "2025-09-18 01:03",
-    "mensaje": "Afectados 180 MW en la provincia, demanda máxima a apagar en estos momentos.",
-    "timestamp": 1758157412,
-    "timestamp_local": 1758157412
   }
 ]
