@@ -1,5 +1,37 @@
 [
   {
+    "id": 30111,
+    "fecha": "19 de Sep del 2025 a las 11:39 AM",
+    "hora_utc": "2025-09-19 15:39",
+    "mensaje": "⚠️Afectado por déficit de generación el circuito 6 Vigía, del municipio Santa Clara.",
+    "timestamp": 1758296349,
+    "timestamp_local": 1758296349
+  },
+  {
+    "id": 30110,
+    "fecha": "19 de Sep del 2025 a las 11:24 AM",
+    "hora_utc": "2025-09-19 15:24",
+    "mensaje": "⚠️Afectados por déficit de generación los circuitos siguientes:\n👉Municipio Sagua:\nCtos 43 y 51\nCtos 50 y 147 Villa Alegre \nCto 44 Isabela",
+    "timestamp": 1758295472,
+    "timestamp_local": 1758295472
+  },
+  {
+    "id": 30109,
+    "fecha": "19 de Sep del 2025 a las 11:23 AM",
+    "hora_utc": "2025-09-19 15:23",
+    "mensaje": "💡Restablecido el servicio eléctrico en los circuitos siguientes:\n👉Municipio Manicaragua:\nCtos 109 y 150\nCtos 108 y 110 La Piedra\nCto 111 Mataguá",
+    "timestamp": 1758295383,
+    "timestamp_local": 1758295383
+  },
+  {
+    "id": 30108,
+    "fecha": "19 de Sep del 2025 a las 11:11 AM",
+    "hora_utc": "2025-09-19 15:11",
+    "mensaje": "⚠️Afectado el servicio eléctrico en los circuitos siguientes:\n👉Municipio Remedios:\nCtos 67 y 152, 68 y 118 \nCtos 69 y 70 Zuluetas\nCto 143 Batey Heriberto Duquesne\nCto 71 Buena Vista",
+    "timestamp": 1758294660,
+    "timestamp_local": 1758294660
+  },
+  {
     "id": 30107,
     "fecha": "19 de Sep del 2025 a las 10:55 AM",
     "hora_utc": "2025-09-19 14:55",
@@ -126,37 +158,5 @@
     "mensaje": "Actualización del servicio eléctrico en la provincia\n✍️Se mantienen afectados en la provincia 146 circuitos.\n✍️En el momento de hacer esta nota la provincia tiene 101 MW de afectación por déficit de capacidad de generación, demanda máxima posible a apagar.\n✍️Cuenta con 134 afectaciones por averías secundarias y de servicio.",
     "timestamp": 1758269165,
     "timestamp_local": 1758269165
-  },
-  {
-    "id": 30091,
-    "fecha": "19 de Sep del 2025 a las 03:54 AM",
-    "hora_utc": "2025-09-19 07:54",
-    "mensaje": "⚠️Será afectado el servicio eléctrico por déficit capacidad de generación en los siguientes circuitos:\nMunicipio Placetas:\n👉Cto 101 y 145 Cumbre",
-    "timestamp": 1758268443,
-    "timestamp_local": 1758268443
-  },
-  {
-    "id": 30090,
-    "fecha": "19 de Sep del 2025 a las 02:12 AM",
-    "hora_utc": "2025-09-19 06:12",
-    "mensaje": "💡Será restablecido el servicio eléctrico en los circuitos siguientes:\nMunicipio Sagua:\n👉Ctos 50 y 147 Villa Alegre \nMunicipio Santa Clara:\n👉Cto 167 (Virginia)",
-    "timestamp": 1758262347,
-    "timestamp_local": 1758262347
-  },
-  {
-    "id": 30089,
-    "fecha": "19 de Sep del 2025 a las 02:10 AM",
-    "hora_utc": "2025-09-19 06:10",
-    "mensaje": "⚠️Será afectado el servicio eléctrico por déficit capacidad de generación en los siguientes circuitos:\nMunicipio Sagua:\n👉Ctos 43 y 51",
-    "timestamp": 1758262239,
-    "timestamp_local": 1758262239
-  },
-  {
-    "id": 30088,
-    "fecha": "19 de Sep del 2025 a las 02:05 AM",
-    "hora_utc": "2025-09-19 06:05",
-    "mensaje": "Actualización del servicio eléctrico en la provincia\n✍️Se mantienen afectados en la provincia 157 circuitos.\n✍️En el momento de hacer esta nota la provincia tiene 119 MW de afectación por déficit de capacidad de generación, demanda máxima posible a apagar.\n✍️Cuenta con 134 afectaciones por averías secundarias y de servicio.",
-    "timestamp": 1758261916,
-    "timestamp_local": 1758261916
   }
 ]
