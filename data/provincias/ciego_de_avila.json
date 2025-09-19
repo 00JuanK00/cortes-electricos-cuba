@@ -1,5 +1,21 @@
 [
   {
+    "id": 32091,
+    "fecha": "18 de Sep del 2025 a las 08:35 PM",
+    "hora_utc": "2025-09-19 00:35",
+    "mensaje": "❌Un Disparo Automática por Frecuencia (DAF) es una protección que posee el sistema eléctrico para cuando la frecuencia llega a valores mínimos permisibles que ponen en peligro la estabilidad de todo el sistema en su conjunto y provoca una desconexión automática de algunos circuitos hasta que esta vuelva a recuperar su valor nominal a 60 Hz o ciclos por segundo. Esto ocurre al salir de forma imprevista o repentina una planta generadora con una potencia determinada y el sistema en su conjunto necesita liberar esa carga hasta tanto se puedan recuperar la potencia de generación perdida anteriormente o dar las afectaciones al servicio por déficit de generación.",
+    "timestamp": 1758242101,
+    "timestamp_local": 1758242101
+  },
+  {
+    "id": 32090,
+    "fecha": "18 de Sep del 2025 a las 08:34 PM",
+    "hora_utc": "2025-09-19 00:34",
+    "mensaje": "🔊Información 🔊\n\n🚨DAF (Disparo por aumento de frecuencia)🚨\n\n📍Se encuentran afectados por el DAF los circuitos: 📍\n\n👉 A108, Combinado Minaz, Delfín Moreno, Santana, Nereida y Peonia.",
+    "timestamp": 1758242077,
+    "timestamp_local": 1758242077
+  },
+  {
     "id": 32089,
     "fecha": "18 de Sep del 2025 a las 05:00 PM",
     "hora_utc": "2025-09-18 21:00",
@@ -142,21 +158,5 @@
     "mensaje": "✅ Información.\n👉 Se restablece el servicio en el circuito A208.",
     "timestamp": 1758156888,
     "timestamp_local": 1758156888
-  },
-  {
-    "id": 32070,
-    "fecha": "17 de Sep del 2025 a las 08:51 PM",
-    "hora_utc": "2025-09-18 00:51",
-    "mensaje": "‼️ Información ‼️   \n👉Debido a la situación energética que tiene el país, nos es imposible cumplir con una programación de afectaciones. En estos momentos tenemos 90 MW en la provincia afectados. Reiteramos que los circuitos se afectarán o se restablecerán en dependencia del déficit en cada momento del día.",
-    "timestamp": 1758156661,
-    "timestamp_local": 1758156661
-  },
-  {
-    "id": 32069,
-    "fecha": "17 de Sep del 2025 a las 08:25 PM",
-    "hora_utc": "2025-09-18 00:25",
-    "mensaje": "✅ Información.\n👉 Se encuentra sin servicio el circuito A208, se recorren las lineas para encontrar  la avería.",
-    "timestamp": 1758155114,
-    "timestamp_local": 1758155114
   }
 ]
