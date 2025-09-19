@@ -1,5 +1,37 @@
 [
   {
+    "id": 30123,
+    "fecha": "19 de Sep del 2025 a las 03:33 PM",
+    "hora_utc": "2025-09-19 19:33",
+    "mensaje": "⚡Continúa en avería el circuito 132 en conjunto con el circuito 162, del municipio Santa Clara.",
+    "timestamp": 1758310432,
+    "timestamp_local": 1758310432
+  },
+  {
+    "id": 30122,
+    "fecha": "19 de Sep del 2025 a las 03:15 PM",
+    "hora_utc": "2025-09-19 19:15",
+    "mensaje": "💡Restablecido el servicio eléctrico en los siguientes circuitos:\n👉Municipio Caibarién:\nCtos 61, 62 \nCtos 63 y 64\nCtos 182 y 183 Van Troi",
+    "timestamp": 1758309342,
+    "timestamp_local": 1758309342
+  },
+  {
+    "id": 30121,
+    "fecha": "19 de Sep del 2025 a las 03:14 PM",
+    "hora_utc": "2025-09-19 19:14",
+    "mensaje": "💡Restablecido el servicio eléctrico en el circuito 31 Sakenaf.",
+    "timestamp": 1758309285,
+    "timestamp_local": 1758309285
+  },
+  {
+    "id": 30120,
+    "fecha": "19 de Sep del 2025 a las 03:14 PM",
+    "hora_utc": "2025-09-19 19:14",
+    "mensaje": "⚠️Afectados por déficit de generación los siguientes circuitos:\n👉Municipio Manicaragua:\nCtos 109 y 150\nCtos 108 y 110 La Piedra\nCto 111 Mataguá\n👉Municipio Remedios:\nCtos 67 y 152, 68 y 118 \nCtos 69 y 70 Zuluetas\nCto 143 Batey Heriberto Duquesne\nCto 71 Buena Vista",
+    "timestamp": 1758309243,
+    "timestamp_local": 1758309243
+  },
+  {
     "id": 30119,
     "fecha": "19 de Sep del 2025 a las 02:28 PM",
     "hora_utc": "2025-09-19 18:28",
@@ -126,37 +158,5 @@
     "mensaje": "Afectados 131 MW en la provincia, demanda máxima a apagar en estos momentos.",
     "timestamp": 1758287073,
     "timestamp_local": 1758287073
-  },
-  {
-    "id": 30103,
-    "fecha": "19 de Sep del 2025 a las 08:31 AM",
-    "hora_utc": "2025-09-19 12:31",
-    "mensaje": "💡Restablecido el servicio eléctrico en los siguientes circuitos:\n👉Municipio Camajuaní:\nCtos  73 y 156 \nCto 74 José María Pérez",
-    "timestamp": 1758285071,
-    "timestamp_local": 1758285071
-  },
-  {
-    "id": 30102,
-    "fecha": "19 de Sep del 2025 a las 08:04 AM",
-    "hora_utc": "2025-09-19 12:04",
-    "mensaje": "Actualización del servicio eléctrico en la provincia\n✍️Se mantienen afectados en la provincia 166 circuitos.\n✍️En el momento de hacer esta nota la provincia tiene 127 MW de afectación por déficit de capacidad de generación, demanda máxima posible a apagar.\n✍️Cuenta con 137 afectaciones por averías secundarias y de servicio.",
-    "timestamp": 1758283486,
-    "timestamp_local": 1758283486
-  },
-  {
-    "id": 30101,
-    "fecha": "19 de Sep del 2025 a las 07:42 AM",
-    "hora_utc": "2025-09-19 11:42",
-    "mensaje": "⚠️Afectados por déficit de generación los siguientes circuitos:\n👉Municipio Encrucijada\nCto 120 Calabazar\nCtos 121 y 127 Perucho",
-    "timestamp": 1758282124,
-    "timestamp_local": 1758282124
-  },
-  {
-    "id": 30100,
-    "fecha": "19 de Sep del 2025 a las 07:31 AM",
-    "hora_utc": "2025-09-19 11:31",
-    "mensaje": "🚨Nota informativa.🚨 \n\n👉Situación del SEN para el 19 de septiembre de 2025\n\n👉En el día de ayer se afectó el servicio las 24 horas y se mantuvo afectado durante toda la madrugada de hoy. La máxima afectación por déficit de capacidad de generación en el día de ayer fue de 1826 MW a las 20:10 horas. \n\n👉 La producción de energía de los 31 nuevos parques solares fotovoltaicos fue de 2555 MWh, con 359 MW como máxima potencia entregada en el horario de la media con esta fuente de generación. \n\n👉La disponibilidad del SEN a las 06:00 horas es de 1660 MW  y la demanda 2820 MW con 1190 MW afectados por déficit de capacidad. En el horario de la media se estima una afectación de 1300 MW. \n\n👉Se encuentran en avería la unidad 2 de la CTE Felton. Se encuentran en mantenimiento la unidad 5 de la CTE Mariel, la unidad 2 de la CTE Santa Cruz, la unidad 4 de la CTE Cienfuegos y la unidad 1 de la CTE Felton, en horario de la mañana saldrá de servicio por avería  la unidad 6 de la CTE Nuevitas.      \n  \n👉Las limitaciones en la generación térmica son de 483 MW.\n\n👉Se encuentran fuera de servicio por combustible 53 centrales de generación distribuida con 345 MW y 117 MW indisponible por falta de lubricante, para un total de 462 MW. \n\n👉Para el horario pico se estima la entrada de 100 MW en motores de generación distribuida que están fuera por combustible. \n   \n👉Con este pronóstico, en el horario pico se estima una disponibilidad de  1760 MW y una demanda máxima de 3450 MW, para un déficit de 1690 MW, por lo que de mantenerse las condiciones previstas se pronostica una afectación de 1760 MW en este horario. \n\nUNE-MINEM",
-    "timestamp": 1758281473,
-    "timestamp_local": 1758281473
   }
 ]
