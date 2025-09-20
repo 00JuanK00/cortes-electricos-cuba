@@ -1,5 +1,29 @@
 [
   {
+    "id": 30208,
+    "fecha": "20 de Sep del 2025 a las 04:36 PM",
+    "hora_utc": "2025-09-20 20:36",
+    "mensaje": "⚠️Afectado por déficit de capacidad de generación circuito 30 (Santa Clara Industrial)",
+    "timestamp": 1758400612,
+    "timestamp_local": 1758400612
+  },
+  {
+    "id": 30207,
+    "fecha": "20 de Sep del 2025 a las 04:17 PM",
+    "hora_utc": "2025-09-20 20:17",
+    "mensaje": "⚠️Afectados por déficit de generación los circuitos siguientes:\nMunicipio Camajuaní\n👉Ctos 77, 59, 185 Vueltas\nMunicipio Remedios:\n👉Ctos 67 y 152, 68 y 118 \n👉Ctos 69 y 70 Zuluetas\n👉Cto 143 Batey Heriberto Duquesne\n👉Cto 71 Buena Vista",
+    "timestamp": 1758399475,
+    "timestamp_local": 1758399475
+  },
+  {
+    "id": 30206,
+    "fecha": "20 de Sep del 2025 a las 04:01 PM",
+    "hora_utc": "2025-09-20 20:01",
+    "mensaje": "Actualización del servicio eléctrico en la provincia\n✍️Se mantienen afectados en la provincia 171 circuitos.\n✍️En el momento de hacer esta nota la provincia tiene 144 MW de afectación por déficit de capacidad de generación, demanda máxima posible a apagar.\n✍️Cuenta con 149 afectaciones por averías secundarias y de servicio.",
+    "timestamp": 1758398482,
+    "timestamp_local": 1758398482
+  },
+  {
     "id": 30205,
     "fecha": "20 de Sep del 2025 a las 03:48 PM",
     "hora_utc": "2025-09-20 19:48",
@@ -134,29 +158,5 @@
     "mensaje": "💡Restablecidos los siguientes circuitos:\nMunicipio Encrucijada:\n👉Cto 122 Encrucijada \n👉Cto 123 Vizcaya \n👉Cto 142 Comunidad La Sierra \n👉Cto 126 Batey Emilio Córdova\n👉Cto 125 Cavarrocas\n👉Cto 124 El Santo\nMunicipio Camajuaní:\n👉Cto 78 Jutiero",
     "timestamp": 1758387289,
     "timestamp_local": 1758387289
-  },
-  {
-    "id": 30187,
-    "fecha": "20 de Sep del 2025 a las 12:52 PM",
-    "hora_utc": "2025-09-20 16:52",
-    "mensaje": "💡Restablecidos los siguientes circuitos:\nMunicipio Encrucijada\n👉Cto 120 Calabazar\n👉Ctos 121 y 127 Perucho",
-    "timestamp": 1758387154,
-    "timestamp_local": 1758387154
-  },
-  {
-    "id": 30186,
-    "fecha": "20 de Sep del 2025 a las 12:38 PM",
-    "hora_utc": "2025-09-20 16:38",
-    "mensaje": "💡Restablecidos los circuitos 68 y 118 (Parcial) 13Kv del municipio Remedios.",
-    "timestamp": 1758386308,
-    "timestamp_local": 1758386308
-  },
-  {
-    "id": 30185,
-    "fecha": "20 de Sep del 2025 a las 12:34 PM",
-    "hora_utc": "2025-09-20 16:34",
-    "mensaje": "🛠️Afectada la línea 861 por cruzamientos en la línea 108 la cual se encuentra en avería:\nAfecta los siguientes circuitos:\nMunicipio Santa Clara:\n👉Cto 5 (Dobarganes)\n👉Cto 17 (Subplanta) \n👉Ctos 37 y 38 (Yabú)   \n👉Cto 9 (Moldes y Troqueles)\n👉Cto 133 (Cafetera)\n👉Cto 13 Zona Industrial",
-    "timestamp": 1758386098,
-    "timestamp_local": 1758386098
   }
 ]
