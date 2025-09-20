@@ -1,9 +1,41 @@
 [
   {
+    "id": 30190,
+    "fecha": "20 de Sep del 2025 a las 01:00 PM",
+    "hora_utc": "2025-09-20 17:00",
+    "mensaje": "💡Serán restablecidos los siguientes circuitos:\nMunicipio Camajuaní\n👉Ctos 77, 59, 185 Vueltas",
+    "timestamp": 1758387612,
+    "timestamp_local": 1758387612
+  },
+  {
+    "id": 30189,
+    "fecha": "20 de Sep del 2025 a las 12:59 PM",
+    "hora_utc": "2025-09-20 16:59",
+    "mensaje": "⚠️Serán afectados por déficit de generación los circuitos siguientes:\nMunicipio Camajuaní:\n👉Ctos 72 y 129 Camajuani\n👉Cto 75 La Quinta\n👉Cto 157 Luis Arcos Bergnes\n👉Ctos 76 y 90 Vega Alta",
+    "timestamp": 1758387568,
+    "timestamp_local": 1758387568
+  },
+  {
+    "id": 30188,
+    "fecha": "20 de Sep del 2025 a las 12:54 PM",
+    "hora_utc": "2025-09-20 16:54",
+    "mensaje": "💡Restablecidos los siguientes circuitos:\nMunicipio Encrucijada:\n👉Cto 122 Encrucijada \n👉Cto 123 Vizcaya \n👉Cto 142 Comunidad La Sierra \n👉Cto 126 Batey Emilio Córdova\n👉Cto 125 Cavarrocas\n👉Cto 124 El Santo\nMunicipio Camajuaní:\n👉Cto 78 Jutiero",
+    "timestamp": 1758387289,
+    "timestamp_local": 1758387289
+  },
+  {
+    "id": 30187,
+    "fecha": "20 de Sep del 2025 a las 12:52 PM",
+    "hora_utc": "2025-09-20 16:52",
+    "mensaje": "💡Restablecidos los siguientes circuitos:\nMunicipio Encrucijada\n👉Cto 120 Calabazar\n👉Ctos 121 y 127 Perucho",
+    "timestamp": 1758387154,
+    "timestamp_local": 1758387154
+  },
+  {
     "id": 30186,
     "fecha": "20 de Sep del 2025 a las 12:38 PM",
     "hora_utc": "2025-09-20 16:38",
-    "mensaje": "💡Restablecidos los circuitos 68 y 118 13Kv del municipio Remedios.",
+    "mensaje": "💡Restablecidos los circuitos 68 y 118 (Parcial) 13Kv del municipio Remedios.",
     "timestamp": 1758386308,
     "timestamp_local": 1758386308
   },
@@ -35,7 +67,7 @@
     "id": 30180,
     "fecha": "20 de Sep del 2025 a las 12:10 PM",
     "hora_utc": "2025-09-20 16:10",
-    "mensaje": "🛠️Afectado por disparo el circuito 14(Maleza) del municipio Santa Clara. Se estudian las causas.",
+    "mensaje": "🛠️Afectado por disparo el circuito 14 (Maleza) del municipio Santa Clara. Se estudian las causas.",
     "timestamp": 1758384612,
     "timestamp_local": 1758384612
   },
@@ -118,37 +150,5 @@
     "mensaje": "Restablecidos los siguientes circuitos:\n🔸Municipio Remedios\n👉Ctos 68 y 118 (Parcial)",
     "timestamp": 1758377635,
     "timestamp_local": 1758377635
-  },
-  {
-    "id": 30169,
-    "fecha": "20 de Sep del 2025 a las 09:40 AM",
-    "hora_utc": "2025-09-20 13:40",
-    "mensaje": "💡Restablecido el circuito 14(Maleza) del municipio Santa Clara.",
-    "timestamp": 1758375608,
-    "timestamp_local": 1758375608
-  },
-  {
-    "id": 30168,
-    "fecha": "20 de Sep del 2025 a las 09:19 AM",
-    "hora_utc": "2025-09-20 13:19",
-    "mensaje": "🛠️Afectado por disparo el circuito 14(Maleza) del municipio Santa Clara. Se estudian las causas.",
-    "timestamp": 1758374387,
-    "timestamp_local": 1758374387
-  },
-  {
-    "id": 30167,
-    "fecha": "20 de Sep del 2025 a las 09:11 AM",
-    "hora_utc": "2025-09-20 13:11",
-    "mensaje": "Restablecidos los siguientes circuitos:\n🔸Municipio Quemado:\n👉Ctos 164, 52 y 53 Quemado.\n👉Cto 196 Batey Panchito Gómez Toro.",
-    "timestamp": 1758373871,
-    "timestamp_local": 1758373871
-  },
-  {
-    "id": 30166,
-    "fecha": "20 de Sep del 2025 a las 08:05 AM",
-    "hora_utc": "2025-09-20 12:05",
-    "mensaje": "Actualización del servicio eléctrico en la provincia\n✍️Se mantienen afectados en la provincia 173 circuitos.\n✍️En el momento de hacer esta nota la provincia tiene 135 MW de afectación por déficit de capacidad de generación, demanda máxima posible a apagar.\n✍️Cuenta con 157 afectaciones por averías secundarias y de servicio.",
-    "timestamp": 1758369935,
-    "timestamp_local": 1758369935
   }
 ]
