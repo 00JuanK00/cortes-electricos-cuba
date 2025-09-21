@@ -1,5 +1,37 @@
 [
   {
+    "id": 30262,
+    "fecha": "21 de Sep del 2025 a las 10:44 AM",
+    "hora_utc": "2025-09-21 14:44",
+    "mensaje": "⚠️Se encuentran disparados los siguientes circuitos:\nMunicipio Santo Domingo:\n👉Ctos 85 y 86 Pajarito",
+    "timestamp": 1758465896,
+    "timestamp_local": 1758465896
+  },
+  {
+    "id": 30261,
+    "fecha": "21 de Sep del 2025 a las 10:29 AM",
+    "hora_utc": "2025-09-21 14:29",
+    "mensaje": "💡Será restablecido el servicio eléctrico en los siguientes circuitos:\nMunicipio Quemado\n👉Ctos 164, 52 y 53 Quemado\n👉Cto 196 Batey Panchito Gómez Toro.",
+    "timestamp": 1758464950,
+    "timestamp_local": 1758464950
+  },
+  {
+    "id": 30260,
+    "fecha": "21 de Sep del 2025 a las 10:05 AM",
+    "hora_utc": "2025-09-21 14:05",
+    "mensaje": "Actualización del servicio eléctrico en la provincia\n✍️Se mantienen afectados en la provincia 178 circuitos.\n✍️En el momento de hacer esta nota la provincia tiene 147 MW de afectación por déficit de capacidad de generación, demanda máxima posible a apagar.\n✍️Cuenta con 197 afectaciones por averías secundarias y de servicio.",
+    "timestamp": 1758463542,
+    "timestamp_local": 1758463542
+  },
+  {
+    "id": 30259,
+    "fecha": "21 de Sep del 2025 a las 10:04 AM",
+    "hora_utc": "2025-09-21 14:04",
+    "mensaje": "💡Restablecido el servicio eléctrico en los siguientes circuitos:\nMunicipio Encrucijada\n👉Cto 120 Calabazar\n👉Ctos 121 y 127 Perucho\n👉Cto 122 Encrucijada \n👉Cto 123 Vizcaya \n👉Cto 142 Comunidad La Sierra \n👉Cto 126 Batey Emilio Córdova\n👉Cto 125 Cavarrocas\n👉Cto 124 El Santo\nMunicipio Camajuaní:\n👉Cto 78 Jutiero",
+    "timestamp": 1758463488,
+    "timestamp_local": 1758463488
+  },
+  {
     "id": 30257,
     "fecha": "21 de Sep del 2025 a las 09:01 AM",
     "hora_utc": "2025-09-21 13:01",
@@ -118,37 +150,5 @@
     "mensaje": "💡Serán restablecidos los circuitos 6 (Vigía), 39 (Sandino) y 153 (EIDE), del municipio Santa Clara.",
     "timestamp": 1758431221,
     "timestamp_local": 1758431221
-  },
-  {
-    "id": 30241,
-    "fecha": "21 de Sep del 2025 a las 12:00 AM",
-    "hora_utc": "2025-09-21 04:00",
-    "mensaje": "🕛Actualización del servicio eléctrico en las últimas 6 horas.\n✍️El déficit de capacidad de generación osciló entre los 162 MW y los 152 MW.\n✍️En el momento de esta nota, se mantienen afectados 178 circuitos.\n ✍️Cuenta con 220 afectaciones por averías secundarias y de servicio:\n🔸Caibarién (3)\n🔸Camajuaní (1)\n🔸Encrucijada (1)\n🔸Manicaragua (7)\n🔸Placetas (3)\n🔸Ranchuelo (4)\n🔸Remedios (9)\n🔸Santa Clara (155)\n🔸Santo Domingo (9)\n🛠️Se encuentran 9 averías en vías de solución.\n🛠️Pendientes a solucionar por el área técnica 19.\n⚡Averías⚡\n👉Cto 110 Guinía (Parcial), del municipio Manicaragua.",
-    "timestamp": 1758427230,
-    "timestamp_local": 1758427230
-  },
-  {
-    "id": 30240,
-    "fecha": "20 de Sep del 2025 a las 11:54 PM",
-    "hora_utc": "2025-09-21 03:54",
-    "mensaje": "💡Restablecido el circuito 167 (Virginia), del municipio Santa Clara.",
-    "timestamp": 1758426891,
-    "timestamp_local": 1758426891
-  },
-  {
-    "id": 30239,
-    "fecha": "20 de Sep del 2025 a las 11:51 PM",
-    "hora_utc": "2025-09-21 03:51",
-    "mensaje": "🛠️ Afectado el circuito 167 (Virginia), del municipio Santa Clara, para reponer banco de transformadores.",
-    "timestamp": 1758426674,
-    "timestamp_local": 1758426674
-  },
-  {
-    "id": 30238,
-    "fecha": "20 de Sep del 2025 a las 11:42 PM",
-    "hora_utc": "2025-09-21 03:42",
-    "mensaje": "💡Restablecida la línea 861:\n👉Cto 5 (Dobarganes)\n👉Cto 17 (Subplanta)\n👉Ctos 37 y 38 (Yabú)  \n👉Cto 9 (Moldes y Troqueles)\n👉Cto 133 (Cafetera)\n👉Cto 13 Zona Industrial",
-    "timestamp": 1758426137,
-    "timestamp_local": 1758426137
   }
 ]
