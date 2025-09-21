@@ -1,5 +1,29 @@
 [
   {
+    "id": 90228,
+    "fecha": "21 de Sep del 2025 a las 03:16 PM",
+    "hora_utc": "2025-09-21 19:16",
+    "mensaje": "♦️Afectado el servicio en el circuito 3140 por disparo por DAF ♦️",
+    "timestamp": 1758482215,
+    "timestamp_local": 1758482215
+  },
+  {
+    "id": 90227,
+    "fecha": "21 de Sep del 2025 a las 03:14 PM",
+    "hora_utc": "2025-09-21 19:14",
+    "mensaje": "🔷Se restablece el servicio en los siguientes circuitos que se encontraban afectados por manipulación en las líneas: \n*Flor de Itabo\n*Madruga 🔷",
+    "timestamp": 1758482081,
+    "timestamp_local": 1758482081
+  },
+  {
+    "id": 90226,
+    "fecha": "21 de Sep del 2025 a las 03:06 PM",
+    "hora_utc": "2025-09-21 19:06",
+    "mensaje": "♦️Se afecta el servicio por manipulación  en las líneas en los siguientes circuitos: \n*Flor de Itabo\n*Madruga ♦️",
+    "timestamp": 1758481578,
+    "timestamp_local": 1758481578
+  },
+  {
     "id": 90225,
     "fecha": "21 de Sep del 2025 a las 01:49 PM",
     "hora_utc": "2025-09-21 17:49",
@@ -11,7 +35,7 @@
     "id": 90223,
     "fecha": "21 de Sep del 2025 a las 01:41 PM",
     "hora_utc": "2025-09-21 17:41",
-    "mensaje": "🔷♦️Se restablece el servicio en el siguiente circuito que se encontraba afectado por déficit:\n*Güines 4 ♦️🔷",
+    "mensaje": "🔷♦️Se restablece el servicio en el siguiente circuito que se encontraba afectado por déficit de capacidad de generación :\n*Güines 4 ♦️🔷",
     "timestamp": 1758476485,
     "timestamp_local": 1758476485
   },
@@ -110,45 +134,5 @@
     "mensaje": "📍Situación del SEN para el 21 de septiembre de 2025.\n\nEn el día de ayer se afectó el servicio las 24 horas y se mantuvo afectado durante toda la madrugada de hoy. La máxima afectación por déficit de capacidad de generación en el día de ayer fue de 2010 MW a las 20:50 horas, superior a lo planificado por salida imprevista de la unidad 6 de la CTE Renté y no entrar la unidad 5 de la CTE Mariel. .\n\nLa producción de energía de los 31 nuevos parques solares fotovoltaicos fue de 2594 MWh, con 466 MW como máxima potencia entregada en el horario de la media con esta fuente de generación. \n\nLa disponibilidad del SEN a las 06:00 horas es de 1700 MW  y la demanda 3000 MW con 1330 MW afectados por déficit de capacidad. En el horario de la media se estima una afectación de 1200 MW. \n\nSe encuentran en avería la unidad 2 de la CTE Felton y la unidad 6 de la CTE Nuevitas. Se encuentran en mantenimiento la unidad 2 de la CTE Santa Cruz, la unidad 4 de la CTE Cienfuegos y la unidad 1 de la CTE Felton.\n \nLas limitaciones en la generación térmica son de 492 MW. \n\nSe encuentran fuera de servicio por combustible                                46 centrales de generación distribuida con 369 MW y 120 MW indisponible por falta de lubricante, para un total de 489 MW.\n\nPara el horario pico se estima la entrada de 160 MW en motores de generación distribuida que están fuera por combustible.\n\nCon este pronóstico, en el horario pico se estima una disponibilidad de 1860 MW y una demanda máxima de                  3500 MW, para un déficit de 1640 MW, por lo que de mantenerse las condiciones previstas se pronostica una afectación de 1710 MW en este horario.\n\nUNE-MINEM",
     "timestamp": 1758473592,
     "timestamp_local": 1758473592
-  },
-  {
-    "id": 90209,
-    "fecha": "21 de Sep del 2025 a las 12:45 PM",
-    "hora_utc": "2025-09-21 16:45",
-    "mensaje": ".🚨Por déficit de capacidad de generación se afecta el servicio en el siguiente circuito:\n*UNAH 🚨",
-    "timestamp": 1758473145,
-    "timestamp_local": 1758473145
-  },
-  {
-    "id": 90208,
-    "fecha": "21 de Sep del 2025 a las 12:42 PM",
-    "hora_utc": "2025-09-21 16:42",
-    "mensaje": "🔷♦️Se restablece el servicio en los siguientes circuitos que se encontraba afectado por déficit:\n*Melena 1 y 2♦️🔷",
-    "timestamp": 1758472937,
-    "timestamp_local": 1758472937
-  },
-  {
-    "id": 90207,
-    "fecha": "21 de Sep del 2025 a las 12:28 PM",
-    "hora_utc": "2025-09-21 16:28",
-    "mensaje": ".🚨Por déficit de capacidad de generación se afecta el servicio en el siguiente circuito:\n*Güines 1 🚨",
-    "timestamp": 1758472101,
-    "timestamp_local": 1758472101
-  },
-  {
-    "id": 90206,
-    "fecha": "21 de Sep del 2025 a las 12:23 PM",
-    "hora_utc": "2025-09-21 16:23",
-    "mensaje": "🔷♦️Se restablece el servicio en el siguiente circuito que se encontraba afectado por déficit:\n*Caamaño ♦️🔷",
-    "timestamp": 1758471806,
-    "timestamp_local": 1758471806
-  },
-  {
-    "id": 90204,
-    "fecha": "21 de Sep del 2025 a las 12:11 PM",
-    "hora_utc": "2025-09-21 16:11",
-    "mensaje": ".🚨Por déficit de capacidad de generación se afecta el servicio en el siguiente circuito:\n*Jamaica 🚨",
-    "timestamp": 1758471081,
-    "timestamp_local": 1758471081
   }
 ]
