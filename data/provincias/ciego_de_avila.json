@@ -1,9 +1,25 @@
 [
   {
+    "id": 32133,
+    "fecha": "20 de Sep del 2025 a las 11:19 PM",
+    "hora_utc": "2025-09-21 03:19",
+    "mensaje": "💫 Información.\n👉 Se restablece el servicio en Sanguily, quedando afectada la zona de La Ofelia, se recorren las lineas para encontrar la avería y restablecer el servicio en el menor tiempo posible.",
+    "timestamp": 1758424776,
+    "timestamp_local": 1758424776
+  },
+  {
+    "id": 32132,
+    "fecha": "20 de Sep del 2025 a las 11:09 PM",
+    "hora_utc": "2025-09-21 03:09",
+    "mensaje": "‼️ Información ‼️   \n👉 Tenemos afectados  85 MW en la provincia afectados por déficit de generación. Con este déficit no podemos cumplir con una programación estable, por lo que los circuitos se afectarán o se restablecerán en dependencia del déficit que haya en cada momento de la jornada.",
+    "timestamp": 1758424194,
+    "timestamp_local": 1758424194
+  },
+  {
     "id": 32131,
     "fecha": "20 de Sep del 2025 a las 09:44 PM",
     "hora_utc": "2025-09-21 01:44",
-    "mensaje": "💫 Información.\n👉 Se encuentra sin servicio la Ofelia, La Teresa, El Burro se trabaja para restablecer el servicio en el menor tiempo posible.",
+    "mensaje": "💫 Información.\n👉 Se encuentra sin servicio la Ofelia, La Teresa, El Burro, La Piña se trabaja para restablecer el servicio en el menor tiempo posible.",
     "timestamp": 1758419070,
     "timestamp_local": 1758419070
   },
@@ -142,21 +158,5 @@
     "mensaje": "👉Se encuentra sin servicio eléctrico del circuito Baraguá en el Batey San Isidro por transformador dañado, se crean las condiciones para trabajar y restablecer lo antes posible el servicio. Ofrecemos disculpas por las molestias ocasionadas.",
     "timestamp": 1758340813,
     "timestamp_local": 1758340813
-  },
-  {
-    "id": 32113,
-    "fecha": "19 de Sep del 2025 a las 11:52 PM",
-    "hora_utc": "2025-09-20 03:52",
-    "mensaje": "👉Se encuentra sin servicio eléctrico del circuito Nereida en El Vaquerito, calle Roberto Rodríguez, Esquina Frank País por transformador dañado, se crean las condiciones para trabajar y restablecer lo antes posible el servicio. Ofrecemos disculpas por las molestias ocasionadas.",
-    "timestamp": 1758340331,
-    "timestamp_local": 1758340331
-  },
-  {
-    "id": 32112,
-    "fecha": "19 de Sep del 2025 a las 11:11 PM",
-    "hora_utc": "2025-09-20 03:11",
-    "mensaje": "‼️ Déficit de Generación ‼️   \n👉Continuamos con 88 MW en la provincia afectados por déficit de generación.\n⏰ Reiteramos que los circuitos se afectarán o se restablecerán en dependencia del déficit en cada momento de la jornada, que es muy variable.",
-    "timestamp": 1758337906,
-    "timestamp_local": 1758337906
   }
 ]

@@ -1,5 +1,37 @@
 [
   {
+    "id": 30234,
+    "fecha": "20 de Sep del 2025 a las 11:27 PM",
+    "hora_utc": "2025-09-21 03:27",
+    "mensaje": "🛠️ Afectado el circuito 167 (Virginia), para reponer transformador.",
+    "timestamp": 1758425225,
+    "timestamp_local": 1758425225
+  },
+  {
+    "id": 30233,
+    "fecha": "20 de Sep del 2025 a las 11:25 PM",
+    "hora_utc": "2025-09-21 03:25",
+    "mensaje": "💡Restablecidos los siguientes circuitos:\nMunicipio Cifuentes:\n👉Ctos 114 y 117\n👉Ctos 116 y 155 Mata\n👉Cto 186 Batey Unidad Proletaria\n👉Cto 184 Sitio Grande",
+    "timestamp": 1758425119,
+    "timestamp_local": 1758425119
+  },
+  {
+    "id": 30232,
+    "fecha": "20 de Sep del 2025 a las 11:21 PM",
+    "hora_utc": "2025-09-21 03:21",
+    "mensaje": "💡Restablecidos los siguientes circuitos:\nMunicipio Manicaragua:\n👉Ctos 113 y 137 La Campana\n👉Cto 112 Hoyo Manicaragua",
+    "timestamp": 1758424884,
+    "timestamp_local": 1758424884
+  },
+  {
+    "id": 30231,
+    "fecha": "20 de Sep del 2025 a las 11:14 PM",
+    "hora_utc": "2025-09-21 03:14",
+    "mensaje": "⚠️Afectados por déficit de capacidad de generación los siguientes circuitos:\nMunicipio Caibarién:\n👉Ctos 61, 62, 63 y 64\n👉Ctos 182 y 183 Van Troi",
+    "timestamp": 1758424467,
+    "timestamp_local": 1758424467
+  },
+  {
     "id": 30230,
     "fecha": "20 de Sep del 2025 a las 09:59 PM",
     "hora_utc": "2025-09-21 01:59",
@@ -126,37 +158,5 @@
     "mensaje": "⚠️Afectados por déficit de capacidad de generación los circuitos 63 y 64 del municipio Caibarién.",
     "timestamp": 1758405002,
     "timestamp_local": 1758405002
-  },
-  {
-    "id": 30213,
-    "fecha": "20 de Sep del 2025 a las 05:03 PM",
-    "hora_utc": "2025-09-20 21:03",
-    "mensaje": "⚠️Afectados por déficit de capacidad de generación los siguientes circuitos:\nMunicipio Ranchuelo: \n👉Ctos 89, 97, 188 y 189\n👉Ctos 148 y 149 San Juan\n👉Cto 91 Batey Osvaldo Herrera\n👉Cto 181 Batey Ifraín Alfonso",
-    "timestamp": 1758402204,
-    "timestamp_local": 1758402204
-  },
-  {
-    "id": 30212,
-    "fecha": "20 de Sep del 2025 a las 04:54 PM",
-    "hora_utc": "2025-09-20 20:54",
-    "mensaje": "⚠️Afectados por déficit de capacidad de generación los siguientes circuitos:\nMunicipio Santa Clara:\n👉Cto 22 (Construcciones Textil)\n👉Cto 153 (EIDE)",
-    "timestamp": 1758401693,
-    "timestamp_local": 1758401693
-  },
-  {
-    "id": 30211,
-    "fecha": "20 de Sep del 2025 a las 04:53 PM",
-    "hora_utc": "2025-09-20 20:53",
-    "mensaje": "⚠️Afectados por déficit de capacidad de generación los circuitos siguientes:\nMunicipio Santa Clara:\n👉Cto 166 (Condado)\n👉Cto 167 (Virginia)\n👉Cto 170 (José Martí)",
-    "timestamp": 1758401590,
-    "timestamp_local": 1758401590
-  },
-  {
-    "id": 30210,
-    "fecha": "20 de Sep del 2025 a las 04:51 PM",
-    "hora_utc": "2025-09-20 20:51",
-    "mensaje": "⚠️Afectados por déficit de capacidad de generación los circuitos siguientes:\nMunicipio Santa Clara:\n👉Ctos 1, 2, 4 (Consejo- Centro)",
-    "timestamp": 1758401513,
-    "timestamp_local": 1758401513
   }
 ]
