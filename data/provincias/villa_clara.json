@@ -1,5 +1,45 @@
 [
   {
+    "id": 30303,
+    "fecha": "21 de Sep del 2025 a las 06:37 PM",
+    "hora_utc": "2025-09-21 22:37",
+    "mensaje": "💡Será restablecido el servicio eléctrico en los siguientes circuitos:\nMunicipio Camajuaní\n👉Ctos 77, 59, 185 Vueltas",
+    "timestamp": 1758494241,
+    "timestamp_local": 1758494241
+  },
+  {
+    "id": 30302,
+    "fecha": "21 de Sep del 2025 a las 06:33 PM",
+    "hora_utc": "2025-09-21 22:33",
+    "mensaje": "💡Restablecido el servicio eléctrico en los siguientes circuitos:\nMunicipio Santa Clara:\n👉Cto 6 (Vigía)\n👉Ctos 15 (Maleza)\n👉Cto 153 (EIDE)",
+    "timestamp": 1758494009,
+    "timestamp_local": 1758494009
+  },
+  {
+    "id": 30301,
+    "fecha": "21 de Sep del 2025 a las 06:29 PM",
+    "hora_utc": "2025-09-21 22:29",
+    "mensaje": "⚠️Serán afectados por déficit de capacidad de generación los siguientes circuitos:\nMunicipio Sagua:\n👉Ctos 43 y 51\n👉Ctos 50 y 147 Villa Alegre",
+    "timestamp": 1758493751,
+    "timestamp_local": 1758493751
+  },
+  {
+    "id": 30300,
+    "fecha": "21 de Sep del 2025 a las 06:17 PM",
+    "hora_utc": "2025-09-21 22:17",
+    "mensaje": "⚠️Se encuentran afectados por déficit de capacidad de generación los siguientes circuitos:\nMunicipio Ranchuelo:\n👉Cto 92 Esperanza (Pueblo)\n👉Cto 93 Esperanza (Campo)\n👉Cto 54 94 y 95 Jicotea",
+    "timestamp": 1758493029,
+    "timestamp_local": 1758493029
+  },
+  {
+    "id": 30299,
+    "fecha": "21 de Sep del 2025 a las 06:14 PM",
+    "hora_utc": "2025-09-21 22:14",
+    "mensaje": "🕕Actualización del servicio eléctrico en las últimas 6 horas.\n✍️El déficit de capacidad de generación osciló entre los 148 MW y los 121 MW.\n✍️En el momento de esta nota, se mantienen afectados 169 circuitos.\n ✍️Cuenta con 239 afectaciones por averías secundarias y de servicio:\n🔸Caibarién (1)\n🔸Camajuaní (1)\n🔸Corralillo (1)\n🔸Encrucijada (3)\n🔸Manicaragua (14)\n🔸Placetas (7)\n🔸Ranchuelo (7)\n🔸Remedios (16)\n🔸Sagua (1)\n🔸Santa Clara (171)\n🔸Santo Domingo (17)\n🛠️Se encuentran 2 averías en vía de solución.\n🛠️Pendientes a solucionar por el área técnica 20.\n⚡Averías⚡\nMunicipio Santa Clara \n👉Cto 169 ( Condado) de manera parcial por puentes abiertos.\n👉Cto 141 ( Manuelita) de manera parcial por puentes abiertos.\n👉Cto 9 (Moldes y Troqueles) por trabajo en la Subestación.",
+    "timestamp": 1758492841,
+    "timestamp_local": 1758492841
+  },
+  {
     "id": 30298,
     "fecha": "21 de Sep del 2025 a las 05:03 PM",
     "hora_utc": "2025-09-21 21:03",
@@ -110,45 +150,5 @@
     "mensaje": "💡Restablecido el servicio eléctrico en el Cto 170 perteneciente al municipio Santa Clara.",
     "timestamp": 1758478526,
     "timestamp_local": 1758478526
-  },
-  {
-    "id": 30283,
-    "fecha": "21 de Sep del 2025 a las 02:15 PM",
-    "hora_utc": "2025-09-21 18:15",
-    "mensaje": "⚠️Afectados por déficit de capacidad de generación los siguientes circuitos:\nMunicipio Santa Clara\n👉Cto 153 (EIDE)\n👉Cto 6 (Vigía)",
-    "timestamp": 1758478504,
-    "timestamp_local": 1758478504
-  },
-  {
-    "id": 30282,
-    "fecha": "21 de Sep del 2025 a las 02:13 PM",
-    "hora_utc": "2025-09-21 18:13",
-    "mensaje": "💡Restablecido el servicio eléctrico en el Cto 30 perteneciente al municipio Santa Clara.",
-    "timestamp": 1758478388,
-    "timestamp_local": 1758478388
-  },
-  {
-    "id": 30281,
-    "fecha": "21 de Sep del 2025 a las 02:00 PM",
-    "hora_utc": "2025-09-21 18:00",
-    "mensaje": "Actualización del servicio eléctrico en la provincia\n✍️Se mantienen afectados en la provincia 154 circuitos.\n✍️En el momento de hacer esta nota la provincia tiene 121 MW de afectación por déficit de capacidad de generación, demanda máxima posible a apagar.\n✍️Cuenta con 247 afectaciones por averías secundarias y de servicio.",
-    "timestamp": 1758477650,
-    "timestamp_local": 1758477650
-  },
-  {
-    "id": 30280,
-    "fecha": "21 de Sep del 2025 a las 01:43 PM",
-    "hora_utc": "2025-09-21 17:43",
-    "mensaje": "🛠️Afectado por manipulación el Cto 30 (SC Industrial) perteneciente al municipio Santa Clara, para reponer transformador.",
-    "timestamp": 1758476594,
-    "timestamp_local": 1758476594
-  },
-  {
-    "id": 30279,
-    "fecha": "21 de Sep del 2025 a las 01:39 PM",
-    "hora_utc": "2025-09-21 17:39",
-    "mensaje": "💡Será restablecido el servicio eléctrico en los siguientes circuitos:\nMunicipio Placetas:\n👉Cto 192 Benito Juárez\n👉Cto 102 Peroti",
-    "timestamp": 1758476366,
-    "timestamp_local": 1758476366
   }
 ]
