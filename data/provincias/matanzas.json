@@ -1,5 +1,37 @@
 [
   {
+    "id": 26215,
+    "fecha": "21 de Sep del 2025 a las 09:31 AM",
+    "hora_utc": "2025-09-21 13:31",
+    "mensaje": "⚠**Circuitos no apagables que se afectarán debido al alto déficit**⚠\n\nCircuitos GI101, JI48, MI1453, Z130 y  Z1183 se afectarán de 10:30 a 14:00.\n\nCircuitos GI101, JI48, Z130, CI185 y Z1183 se afectarán de 19:00 a 02:00.\n\nCircuito MI1453 se afectará de 19:00 a 22:30.",
+    "timestamp": 1758461474,
+    "timestamp_local": 1758461474
+  },
+  {
+    "id": 26214,
+    "fecha": "21 de Sep del 2025 a las 09:16 AM",
+    "hora_utc": "2025-09-21 13:16",
+    "mensaje": "⚡En estos momentos tenemos una afectación de 92 MW por déficit de capacidad de generación ⚡",
+    "timestamp": 1758460616,
+    "timestamp_local": 1758460616
+  },
+  {
+    "id": 26213,
+    "fecha": "21 de Sep del 2025 a las 09:10 AM",
+    "hora_utc": "2025-09-21 13:10",
+    "mensaje": "💡Los circuitos __próximos a restablecer el servicio: __\n\n🔌 Circuito 4220 que da servicio a Fines, Coliseo, Lagunilla, Ponce, Picadora A Maceo, San Miguel.\n🔌 Circuito 1510 Santa Martha desde el policlínico hasta la lavandería\n🔌 Circuito 5175 Santa Martha desde la calle C hasta el Semáforo\n\n**🧏 El restablecimiento del servicio eléctrico dependerá del comportamiento de la demanda y la disponibilidad del Sistema.**",
+    "timestamp": 1758460230,
+    "timestamp_local": 1758460230
+  },
+  {
+    "id": 26212,
+    "fecha": "21 de Sep del 2025 a las 09:04 AM",
+    "hora_utc": "2025-09-21 13:04",
+    "mensaje": "🔹Resumen de afectaciones por déficit de capacidad de generación en la provincia del 21/09/2025🔹\n\nEn el día de ayer se afectó el servicio eléctrico por déficit de capacidad de generación de forma ininterrumpida durante todo el día y no fue posible cerrar la carga en la madrugada de hoy, con una afectación máxima de 182 MW en el horario pico. Se afectaron 126 circuitos, con un tiempo promedio de 19:32 horas y un tiempo máximo de 22:11 horas.\n\n➡ Cierre de la Información 12:00am",
+    "timestamp": 1758459883,
+    "timestamp_local": 1758459883
+  },
+  {
     "id": 26211,
     "fecha": "21 de Sep del 2025 a las 07:56 AM",
     "hora_utc": "2025-09-21 11:56",
@@ -126,37 +158,5 @@
     "mensaje": "CIRCUITO PROXIMO A RESTABLECER\n\n\n• Circuito MJ662 que da servicio a Gelpys-Frutas Selectas.\n• Circuito 5385. Guanábana\n• Circuitos de Agramonte. (MK 1150, 078, 96)\n• Circuitos de Bolondrón.(MJ 149, 90, 159)\n• Circuitos de Jovellanos (MK 610)\n• Circuitos Agramonte (MK78)\n• Circuitos de Jaguey (MlK 1145)\n• -Circuito MI1456 que da servicio a Calzada de San Luis hasta Parque Maceo y La Jaiba.",
     "timestamp": 1758409160,
     "timestamp_local": 1758409160
-  },
-  {
-    "id": 26195,
-    "fecha": "20 de Sep del 2025 a las 06:23 PM",
-    "hora_utc": "2025-09-20 22:23",
-    "mensaje": "**__⚡Tenemos una afectación en nuestra provincia en estos momentos de 133 MW por déficit de capacidad de generación⚡__**",
-    "timestamp": 1758407004,
-    "timestamp_local": 1758407004
-  },
-  {
-    "id": 26194,
-    "fecha": "20 de Sep del 2025 a las 05:32 PM",
-    "hora_utc": "2025-09-20 21:32",
-    "mensaje": "**__⚡En estos momentos la afectación de nuestra provincia es de 130 MW por déficit de capacidad de generación.⚡__**",
-    "timestamp": 1758403964,
-    "timestamp_local": 1758403964
-  },
-  {
-    "id": 26193,
-    "fecha": "20 de Sep del 2025 a las 05:31 PM",
-    "hora_utc": "2025-09-20 21:31",
-    "mensaje": "**__Le recordamos a nuestros clientes que el restablecimiento del servicio estará en función de la disponibilidad que se tenga en la provincia según las condiciones del sistema.__**",
-    "timestamp": 1758403877,
-    "timestamp_local": 1758403877
-  },
-  {
-    "id": 26192,
-    "fecha": "20 de Sep del 2025 a las 05:29 PM",
-    "hora_utc": "2025-09-20 21:29",
-    "mensaje": "**__CIRCUITOS PRÓXIMOS A RESTABLECER\n\n• Circuito MI1454 que da servicio a Compostela\n• -MI1452 que da servicio a Laboratorio Epidemiología, Tele Centro, Los Mangos.__**",
-    "timestamp": 1758403773,
-    "timestamp_local": 1758403773
   }
 ]
