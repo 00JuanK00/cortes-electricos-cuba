@@ -1,5 +1,21 @@
 [
   {
+    "id": 30353,
+    "fecha": "22 de Sep del 2025 a las 02:33 PM",
+    "hora_utc": "2025-09-22 18:33",
+    "mensaje": "📣Ante cualquier duda con la terminología eléctrica, les volvemos explicar: \n    \n\n➡️Las averías pueden ser:\n👉 **Primarias** (afecta un volumen grande de población pues son las líneas de distribución a 13.8kV y puede afectar varias manzanas, incluso repartos completos).\n**👉Secundarias** (afecta a todos los clientes que se alimenten del mismo transformador, puede afectar una o varias cuadras). \n**👉De servicio** (afectan 1 solo cliente o instalación generalmente producto a daños en la acometida, metro contador, etc.).",
+    "timestamp": 1758566011,
+    "timestamp_local": 1758566011
+  },
+  {
+    "id": 30352,
+    "fecha": "22 de Sep del 2025 a las 02:13 PM",
+    "hora_utc": "2025-09-22 18:13",
+    "mensaje": "Actualización del servicio eléctrico en la provincia\n✍️Se mantienen afectados en la provincia 66 circuitos.\n✍️En el momento de hacer esta nota la provincia tiene 73 MW de afectación por déficit de capacidad de generación, demanda máxima posible a apagar.\n✍️Cuenta con 241 afectaciones por averías secundarias y de servicio.",
+    "timestamp": 1758564788,
+    "timestamp_local": 1758564788
+  },
+  {
     "id": 30351,
     "fecha": "22 de Sep del 2025 a las 12:51 PM",
     "hora_utc": "2025-09-22 16:51",
@@ -142,21 +158,5 @@
     "mensaje": "Afectados 127 MW en la provincia, demanda máxima a apagar en estos momentos.",
     "timestamp": 1758541431,
     "timestamp_local": 1758541431
-  },
-  {
-    "id": 30332,
-    "fecha": "22 de Sep del 2025 a las 07:27 AM",
-    "hora_utc": "2025-09-22 11:27",
-    "mensaje": "🚨Nota informativa🚨\n\n👉Situación del SEN para el 22 de septiembre de 2025.\n\n\n\n👉En el día de ayer se afectó el servicio las 24 horas y se mantuvo afectado durante toda la madrugada de hoy. La máxima afectación por déficit de capacidad de generación en el día de ayer fue de 1733 MW a las 20:40 horas. .\n\n\n☀️La producción de energía de los 31 nuevos parques solares fotovoltaicos fue de 2989 MWh, con 462 MW como máxima potencia entregada en el horario de la media con esta fuente de generación. \n\n\n👉La disponibilidad del SEN a las 06:00 horas es de 1730 MW  y la demanda 3000 MW con 1270 MW afectados por déficit de capacidad. En el horario de la media se estima una afectación de 1200 MW. \n\n🛠️Se encuentran en avería la unidad 2 de la CTE Felton, la unidad 6 de la CTE Nuevitas y la unidad 6 de la CTE Renté. Se encuentran en mantenimiento la unidad 2 de la CTE Santa Cruz y la unidad 4 de la CTE Cienfuegos.\n  \n👉Las limitaciones en la generación térmica son de 527 MW. \n\n⛽Se encuentran fuera de servicio por combustible   53 centrales de generación distribuida con 381 MW y 120 MW indisponible por falta de lubricante, para un total de 501 MW.\n\n👉Para el horario pico se estima la entrada de 100 MW en motores de generación distribuida que están fuera por combustible y la unidad 6 de la CTE Nuevitas con 90 MW.\n\n📈Con este pronóstico, en el horario pico se estima una disponibilidad de 1910 MW y una demanda máxima de    3500 MW, para un déficit de 1590 MW, por lo que de mantenerse las condiciones previstas se pronostica una afectación de 1660 MW en este horario.\n\nUNE-MINEM---07:00 horas",
-    "timestamp": 1758540420,
-    "timestamp_local": 1758540420
-  },
-  {
-    "id": 30331,
-    "fecha": "22 de Sep del 2025 a las 07:13 AM",
-    "hora_utc": "2025-09-22 11:13",
-    "mensaje": "⚠️Se encuentran afectados por déficit de capacidad de generación los siguientes circuitos:\nMunicipio Encrucijada:\n👉Cto 122 Encrucijada \n👉Cto 123 Vizcaya \n👉Cto 142 Comunidad La Sierra \n👉Cto 126 Batey Emilio Córdova\n👉Cto 125 Cavarrocas\n👉Cto 124 El Santo\nMunicipio Camajuaní:\n👉Cto 78 Jutiero\nMunicipio Encrucijada\n👉Cto 120 Calabazar\n👉Ctos 121 y 127 Perucho",
-    "timestamp": 1758539593,
-    "timestamp_local": 1758539593
   }
 ]
