@@ -1,5 +1,21 @@
 [
   {
+    "id": 30313,
+    "fecha": "21 de Sep del 2025 a las 11:12 PM",
+    "hora_utc": "2025-09-22 03:12",
+    "mensaje": "Afectados 144 MW en la provincia, demanda máxima a apagar en estos momentos.",
+    "timestamp": 1758510763,
+    "timestamp_local": 1758510763
+  },
+  {
+    "id": 30312,
+    "fecha": "21 de Sep del 2025 a las 11:12 PM",
+    "hora_utc": "2025-09-22 03:12",
+    "mensaje": "💡Restablecido el servicio eléctrico en los siguientes circuitos:\nMunicipio Cifuentes:\n👉Ctos 114 y 117\n👉Ctos 116 y 155 Mata\n👉Cto 186 Batey Unidad Proletaria\n👉Cto 184 Sitio Grande",
+    "timestamp": 1758510734,
+    "timestamp_local": 1758510734
+  },
+  {
     "id": 30311,
     "fecha": "21 de Sep del 2025 a las 10:00 PM",
     "hora_utc": "2025-09-22 02:00",
@@ -134,21 +150,5 @@
     "mensaje": "Actualización del servicio eléctrico en la provincia\n✍️Se mantienen afectados en la provincia 159 circuitos.\n✍️En el momento de hacer esta nota la provincia tiene 129 MW de afectación por déficit de capacidad de generación, demanda máxima posible a apagar.\n✍️Cuenta con 249 afectaciones por averías secundarias y de servicio.",
     "timestamp": 1758484854,
     "timestamp_local": 1758484854
-  },
-  {
-    "id": 30293,
-    "fecha": "21 de Sep del 2025 a las 03:59 PM",
-    "hora_utc": "2025-09-21 19:59",
-    "mensaje": "⚠️Se encuentran disparadas las líneas del 1715 y 1720:\nLínea 1715 \nMunicipio Santo Domingo:\n👉Cto 134\n👉Ctos 87 y 96 Bermejal\n👉Cto 187 Batey Carlos Baliño\n👉Cto 82 Ulacia\n👉Cto 84 Rodrigo\nLínea 1720 \nMunicipio Santo Domingo:\n👉Cto 195 Batey George Washington\n👉Ctos 83 y 165 Manacas\n👉Ctos 85 y 86 Pajarito\n👉Ctos 160 y 161 Cascajal",
-    "timestamp": 1758484767,
-    "timestamp_local": 1758484767
-  },
-  {
-    "id": 30292,
-    "fecha": "21 de Sep del 2025 a las 03:44 PM",
-    "hora_utc": "2025-09-21 19:44",
-    "mensaje": "⚠️Se encuentra afectado por déficit de capacidad de generación los siguiente circuito:\nMunicipio Santa Clara:\n👉Ctos 15 (Maleza)",
-    "timestamp": 1758483870,
-    "timestamp_local": 1758483870
   }
 ]

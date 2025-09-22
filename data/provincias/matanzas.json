@@ -1,5 +1,21 @@
 [
   {
+    "id": 26236,
+    "fecha": "21 de Sep del 2025 a las 11:16 PM",
+    "hora_utc": "2025-09-22 03:16",
+    "mensaje": "⚡En estos momentos tenemos una afectación de 132 MW por déficit de capacidad de generación ⚡",
+    "timestamp": 1758511006,
+    "timestamp_local": 1758511006
+  },
+  {
+    "id": 26235,
+    "fecha": "21 de Sep del 2025 a las 11:15 PM",
+    "hora_utc": "2025-09-22 03:15",
+    "mensaje": "💡Los circuitos __próximos a restablecer el servicio: __\n\n🔌 Circuito JI44 que da servicio a Jovellanos pueblo circuito 1.\n🔌 Circuito 1387 que da servicio a caserío Niña Bonita, Fábrica de Mosaico, Finca La Victoria, Rebombeo de la Bellotex, Finca el Bolo, Somatón, Almacenes del CIMEX, Prisión de mujeres, Las Marías, Bombeo de Guanábana, caserío La Conga.\n🔌 Circuito MI 1390 que da servicio a Guanábana, Álvaro Reynoso, Pre Henrique Hard, Base Santa Clara, La Biofan, Hospital Psiquiátrico y Finca el Retiro.\n\n**🧏 El restablecimiento del servicio eléctrico dependerá del comportamiento de la demanda y la disponibilidad del Sistema.**",
+    "timestamp": 1758510939,
+    "timestamp_local": 1758510939
+  },
+  {
     "id": 26234,
     "fecha": "21 de Sep del 2025 a las 10:15 PM",
     "hora_utc": "2025-09-22 02:15",
@@ -142,21 +158,5 @@
     "mensaje": "💡Los circuitos __próximos a restablecer el servicio: __\n\n🔌 Circuito GI103 que da servicio a Jagüey Ciudad.\n🔌 **Circuito **4604 que da servicio a Martí-Itabo-Hoyo Colorado.\n🔌 Circuito 739 que da servicio a La Conchita, Boca de Camarioca, Camarioca \n\n**🧏 El restablecimiento del servicio eléctrico dependerá del comportamiento de la demanda y la disponibilidad del Sistema.**",
     "timestamp": 1758466531,
     "timestamp_local": 1758466531
-  },
-  {
-    "id": 26216,
-    "fecha": "21 de Sep del 2025 a las 10:09 AM",
-    "hora_utc": "2025-09-21 14:09",
-    "mensaje": "📍Situación del SEN para el 21 de septiembre de 2025.\n\nEn el día de ayer se afectó el servicio las 24 horas y se mantuvo afectado durante toda la madrugada de hoy. La máxima afectación por déficit de capacidad de generación en el día de ayer fue de 2010 MW a las 20:50 horas, superior a lo planificado por salida imprevista de la unidad 6 de la CTE Renté y no entrar la unidad 5 de la CTE Mariel. .\n\nLa producción de energía de los 31 nuevos parques solares fotovoltaicos fue de 2594 MWh, con 466 MW como máxima potencia entregada en el horario de la media con esta fuente de generación. \n\nLa disponibilidad del SEN a las 06:00 horas es de 1700 MW  y la demanda 3000 MW con 1330 MW afectados por déficit de capacidad. En el horario de la media se estima una afectación de 1200 MW. \n\nSe encuentran en avería la unidad 2 de la CTE Felton y la unidad 6 de la CTE Nuevitas. Se encuentran en mantenimiento la unidad 2 de la CTE Santa Cruz, la unidad 4 de la CTE Cienfuegos y la unidad 1 de la CTE Felton.\n \nLas limitaciones en la generación térmica son de 492 MW. \n\nSe encuentran fuera de servicio por combustible                                46 centrales de generación distribuida con 369 MW y 120 MW indisponible por falta de lubricante, para un total de 489 MW.\n\nPara el horario pico se estima la entrada de 160 MW en motores de generación distribuida que están fuera por combustible.\n\nCon este pronóstico, en el horario pico se estima una disponibilidad de 1860 MW y una demanda máxima de                  3500 MW, para un déficit de 1640 MW, por lo que de mantenerse las condiciones previstas se pronostica una afectación de 1710 MW en este horario.\n\nUNE-MINEM",
-    "timestamp": 1758463761,
-    "timestamp_local": 1758463761
-  },
-  {
-    "id": 26215,
-    "fecha": "21 de Sep del 2025 a las 09:31 AM",
-    "hora_utc": "2025-09-21 13:31",
-    "mensaje": "⚠**Circuitos no apagables que se afectarán debido al alto déficit**⚠\n\nCircuitos GI101, JI48, MI1453, Z130 y  Z1183 se afectarán de 10:30 a 14:00.\n\nCircuitos GI101, JI48, Z130, CI185 y Z1183 se afectarán de 19:00 a 02:00.\n\nCircuito MI1453 se afectará de 19:00 a 22:30.",
-    "timestamp": 1758461474,
-    "timestamp_local": 1758461474
   }
 ]
