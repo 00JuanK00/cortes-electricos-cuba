@@ -1,5 +1,21 @@
 [
   {
+    "id": 26234,
+    "fecha": "21 de Sep del 2025 a las 10:15 PM",
+    "hora_utc": "2025-09-22 02:15",
+    "mensaje": "⚡En estos momentos tenemos una afectación de 141 MW por déficit de capacidad de generación ⚡",
+    "timestamp": 1758507351,
+    "timestamp_local": 1758507351
+  },
+  {
+    "id": 26233,
+    "fecha": "21 de Sep del 2025 a las 09:30 PM",
+    "hora_utc": "2025-09-22 01:30",
+    "mensaje": "💡Los circuitos __próximos a restablecer el servicio: __\n\n🔌 **Circuito 4819 que da servicio a Poblado de Carlos Rojas.**\n🔌 **Circuito **MI5660 que da servicio a Güira-Betancourt.\n🔌 Circuito 4485 que da servicio a Cítrico, Jagüey.\n\n**🧏 El restablecimiento del servicio eléctrico dependerá del comportamiento de la demanda y la disponibilidad del Sistema.**",
+    "timestamp": 1758504603,
+    "timestamp_local": 1758504603
+  },
+  {
     "id": 26232,
     "fecha": "21 de Sep del 2025 a las 08:29 PM",
     "hora_utc": "2025-09-22 00:29",
@@ -142,21 +158,5 @@
     "mensaje": "⚠**Circuitos no apagables que se afectarán debido al alto déficit**⚠\n\nCircuitos GI101, JI48, MI1453, Z130 y  Z1183 se afectarán de 10:30 a 14:00.\n\nCircuitos GI101, JI48, Z130, CI185 y Z1183 se afectarán de 19:00 a 02:00.\n\nCircuito MI1453 se afectará de 19:00 a 22:30.",
     "timestamp": 1758461474,
     "timestamp_local": 1758461474
-  },
-  {
-    "id": 26214,
-    "fecha": "21 de Sep del 2025 a las 09:16 AM",
-    "hora_utc": "2025-09-21 13:16",
-    "mensaje": "⚡En estos momentos tenemos una afectación de 92 MW por déficit de capacidad de generación ⚡",
-    "timestamp": 1758460616,
-    "timestamp_local": 1758460616
-  },
-  {
-    "id": 26213,
-    "fecha": "21 de Sep del 2025 a las 09:10 AM",
-    "hora_utc": "2025-09-21 13:10",
-    "mensaje": "💡Los circuitos __próximos a restablecer el servicio: __\n\n🔌 Circuito 4220 que da servicio a Fines, Coliseo, Lagunilla, Ponce, Picadora A Maceo, San Miguel.\n🔌 Circuito 1510 Santa Martha desde el policlínico hasta la lavandería\n🔌 Circuito 5175 Santa Martha desde la calle C hasta el Semáforo\n\n**🧏 El restablecimiento del servicio eléctrico dependerá del comportamiento de la demanda y la disponibilidad del Sistema.**",
-    "timestamp": 1758460230,
-    "timestamp_local": 1758460230
   }
 ]
