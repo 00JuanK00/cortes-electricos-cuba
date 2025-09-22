@@ -1,5 +1,53 @@
 [
   {
+    "id": 30375,
+    "fecha": "22 de Sep del 2025 a las 06:44 PM",
+    "hora_utc": "2025-09-22 22:44",
+    "mensaje": "Afectados 137 MW en la provincia, demanda máxima a apagar en estos momentos.",
+    "timestamp": 1758581050,
+    "timestamp_local": 1758581050
+  },
+  {
+    "id": 30374,
+    "fecha": "22 de Sep del 2025 a las 06:35 PM",
+    "hora_utc": "2025-09-22 22:35",
+    "mensaje": "⚠️Serán afectados por déficit de capacidad de generación los siguientes circuitos:Municipio Manicaragua:\n👉Ctos 109 y 150\n👉Ctos 108 y 110 La Piedra\n👉Cto 111 Mataguá",
+    "timestamp": 1758580509,
+    "timestamp_local": 1758580509
+  },
+  {
+    "id": 30373,
+    "fecha": "22 de Sep del 2025 a las 06:32 PM",
+    "hora_utc": "2025-09-22 22:32",
+    "mensaje": "⚠️Serán afectados por déficit de capacidad de generación los siguientes circuitos:Municipio Placetas:\n👉Cto 192 Benito Juárez\n👉Cto 102 Peroti",
+    "timestamp": 1758580358,
+    "timestamp_local": 1758580358
+  },
+  {
+    "id": 30372,
+    "fecha": "22 de Sep del 2025 a las 06:30 PM",
+    "hora_utc": "2025-09-22 22:30",
+    "mensaje": "⚡Afectado por Disparo.⚡\n➡️Afectados por tormenta los siguientes circuitos\nMunicipio Caibarien\n👉Ctos 61 y 62 (Caibarien)\n👉Cto 66 (Las Torres)",
+    "timestamp": 1758580206,
+    "timestamp_local": 1758580206
+  },
+  {
+    "id": 30371,
+    "fecha": "22 de Sep del 2025 a las 06:18 PM",
+    "hora_utc": "2025-09-22 22:18",
+    "mensaje": "🕕Actualización del servicio eléctrico en las últimas 6 horas.\n✍️El déficit de capacidad de generación osciló entre los 72 MW y los 128MW.\n✍️En el momento de esta nota, se mantienen afectados 107 circuitos.\n✍️Cuenta con 232 afectaciones por averías secundarias y de servicio:\n🔸Corralillo (2)\n🔸Encrucijada (10)\n🔸Manicaragua (19)\n🔸Placetas (4)\n🔸Ranchuelo (5) \n🔸Remedios (16)\n🔸Sagua (2)\n🔸Santa Clara (128)\n🔸Santo Domingo (18)\n🛠️Se encuentran 6 averías en vía de solución.\n🛠️Pendientes a solucionar por el área técnica 22.\n⚡La Provincia cuenta con averías Primarias.\n➡️Municipio Coralillo:\n👉Cto 55 Rancho Veloz, afectado por tormenta.\n➡️ Municipio Quemado:\n👉Cto 196 Batey Panchito Gómez Toro, afectado por tormenta.\n➡️Municipio Manicaragua\n👉Cto 110 Guinia (Parcial)",
+    "timestamp": 1758579528,
+    "timestamp_local": 1758579528
+  },
+  {
+    "id": 30370,
+    "fecha": "22 de Sep del 2025 a las 06:02 PM",
+    "hora_utc": "2025-09-22 22:02",
+    "mensaje": "💡Restablecido el servicio eléctrico en el Cto 144 (Camacho) perteneciente al municipio Santa Clara",
+    "timestamp": 1758578534,
+    "timestamp_local": 1758578534
+  },
+  {
     "id": 30369,
     "fecha": "22 de Sep del 2025 a las 05:58 PM",
     "hora_utc": "2025-09-22 21:58",
@@ -110,53 +158,5 @@
     "mensaje": "⚠️Serán afectados por déficit de capacidad de generación los siguientes circuitos:\nMunicipio Encrucijada\n👉Cto 120 Calabazar\n👉Ctos 121 y 127 Perucho",
     "timestamp": 1758568930,
     "timestamp_local": 1758568930
-  },
-  {
-    "id": 30355,
-    "fecha": "22 de Sep del 2025 a las 03:07 PM",
-    "hora_utc": "2025-09-22 19:07",
-    "mensaje": "⚠️Serán afectados por déficit de capacidad de generación los siguientes circuitos:\nMunicipio Manicaragua:\n👉Ctos 109 y 150\n👉Ctos 108 y 110 La Piedra\n👉Cto 111 Mataguá",
-    "timestamp": 1758568072,
-    "timestamp_local": 1758568072
-  },
-  {
-    "id": 30354,
-    "fecha": "22 de Sep del 2025 a las 03:01 PM",
-    "hora_utc": "2025-09-22 19:01",
-    "mensaje": "⚠️Serán afectados por déficit de capacidad de generación los siguientes circuitos:\nMunicipio Sagua\n👉Ctos 43 y 51\n👉Ctos 50  \n👉Cto 44 Isabela",
-    "timestamp": 1758567671,
-    "timestamp_local": 1758567671
-  },
-  {
-    "id": 30353,
-    "fecha": "22 de Sep del 2025 a las 02:33 PM",
-    "hora_utc": "2025-09-22 18:33",
-    "mensaje": "📣Ante cualquier duda con la terminología eléctrica, les volvemos explicar: \n    \n\n➡️Las averías pueden ser:\n👉 **Primarias** (afecta un volumen grande de población pues son las líneas de distribución a 13.8kV y puede afectar varias manzanas, incluso repartos completos).\n**👉Secundarias** (afecta a todos los clientes que se alimenten del mismo transformador, puede afectar una o varias cuadras). \n**👉De servicio** (afectan 1 solo cliente o instalación generalmente producto a daños en la acometida, metro contador, etc.).",
-    "timestamp": 1758566011,
-    "timestamp_local": 1758566011
-  },
-  {
-    "id": 30352,
-    "fecha": "22 de Sep del 2025 a las 02:13 PM",
-    "hora_utc": "2025-09-22 18:13",
-    "mensaje": "Actualización del servicio eléctrico en la provincia\n✍️Se mantienen afectados en la provincia 66 circuitos.\n✍️En el momento de hacer esta nota la provincia tiene 73 MW de afectación por déficit de capacidad de generación, demanda máxima posible a apagar.\n✍️Cuenta con 241 afectaciones por averías secundarias y de servicio.",
-    "timestamp": 1758564788,
-    "timestamp_local": 1758564788
-  },
-  {
-    "id": 30351,
-    "fecha": "22 de Sep del 2025 a las 12:51 PM",
-    "hora_utc": "2025-09-22 16:51",
-    "mensaje": "Afectados 82 MW en la provincia, demanda máxima a apagar en estos momentos.",
-    "timestamp": 1758559901,
-    "timestamp_local": 1758559901
-  },
-  {
-    "id": 30350,
-    "fecha": "22 de Sep del 2025 a las 12:14 PM",
-    "hora_utc": "2025-09-22 16:14",
-    "mensaje": "⚠️Serán afectados por déficit de capacidad de generación los siguientes circuitos:\nMunicipio Remedios:\n👉Ctos 67 y 152, 68 y 118 \n👉Ctos 69 y 70 Zuluetas\n👉Cto 143 Batey Heriberto Duquesne\n👉Cto 71 Buena Vista",
-    "timestamp": 1758557674,
-    "timestamp_local": 1758557674
   }
 ]
