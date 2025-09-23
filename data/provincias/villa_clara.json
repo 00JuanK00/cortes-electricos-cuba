@@ -1,5 +1,29 @@
 [
   {
+    "id": 30384,
+    "fecha": "22 de Sep del 2025 a las 09:54 PM",
+    "hora_utc": "2025-09-23 01:54",
+    "mensaje": "Afectados 130 MW en la provincia, demanda máxima a apagar en estos momentos.",
+    "timestamp": 1758592496,
+    "timestamp_local": 1758592496
+  },
+  {
+    "id": 30383,
+    "fecha": "22 de Sep del 2025 a las 09:44 PM",
+    "hora_utc": "2025-09-23 01:44",
+    "mensaje": "💡Será restablecido el servicio eléctrico en los siguientes circuitos:\nMunicipio Sagua\n👉Ctos 43 y 51\n👉Ctos 50  \n👉Cto 44 Isabela",
+    "timestamp": 1758591856,
+    "timestamp_local": 1758591856
+  },
+  {
+    "id": 30382,
+    "fecha": "22 de Sep del 2025 a las 09:38 PM",
+    "hora_utc": "2025-09-23 01:38",
+    "mensaje": "Actualización del servicio eléctrico en la provincia\n✍️Se mantienen afectados en la provincia 123 circuitos.\n✍️En el momento de hacer esta nota la provincia tiene 138 MW de afectación por déficit de capacidad de generación, demanda máxima posible a apagar.\n✍️Cuenta con 216 afectaciones por averías secundarias y de servicio.",
+    "timestamp": 1758591523,
+    "timestamp_local": 1758591523
+  },
+  {
     "id": 30381,
     "fecha": "22 de Sep del 2025 a las 08:29 PM",
     "hora_utc": "2025-09-23 00:29",
@@ -134,29 +158,5 @@
     "mensaje": "Afectados 98 MW en la provincia, demanda máxima a apagar en estos momentos.",
     "timestamp": 1758577051,
     "timestamp_local": 1758577051
-  },
-  {
-    "id": 30364,
-    "fecha": "22 de Sep del 2025 a las 05:09 PM",
-    "hora_utc": "2025-09-22 21:09",
-    "mensaje": "⚡Afectado por Disparo.⚡\n👉Afectado el Cto 144 (Camacho) por disparo , perteneciente al municipio Santa Clara , se estudian las causas.",
-    "timestamp": 1758575385,
-    "timestamp_local": 1758575385
-  },
-  {
-    "id": 30363,
-    "fecha": "22 de Sep del 2025 a las 05:00 PM",
-    "hora_utc": "2025-09-22 21:00",
-    "mensaje": "⚠️Serán afectados por déficit de capacidad de generación los siguientes circuitos:\nMunicipio Remedios:\n👉Ctos 67 y 152, 68 y 118 \n👉Ctos 69 y 70 Zuluetas\n👉Cto 143 Batey Heriberto Duquesne\n👉Cto 71 Buena Vista",
-    "timestamp": 1758574807,
-    "timestamp_local": 1758574807
-  },
-  {
-    "id": 30362,
-    "fecha": "22 de Sep del 2025 a las 04:55 PM",
-    "hora_utc": "2025-09-22 20:55",
-    "mensaje": "⚠️Serán afectados por déficit de capacidad de generación los siguientes circuitos:\nMunicipio Ranchuelo:\n👉Cto 92 Esperanza (Pueblo)\n👉Cto 93 Esperanza (Campo)\n👉Cto 54 94 y 95 Jicotea",
-    "timestamp": 1758574559,
-    "timestamp_local": 1758574559
   }
 ]
