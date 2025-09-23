@@ -1,5 +1,21 @@
 [
   {
+    "id": 32187,
+    "fecha": "23 de Sep del 2025 a las 06:30 PM",
+    "hora_utc": "2025-09-23 22:30",
+    "mensaje": "✅ Información.\n👉 Se encuentra sin servicio el circuito A208, se realizaran varias pruebas para restablecer el servicio en el menor tiempo posible.",
+    "timestamp": 1758666636,
+    "timestamp_local": 1758666636
+  },
+  {
+    "id": 32186,
+    "fecha": "23 de Sep del 2025 a las 06:16 PM",
+    "hora_utc": "2025-09-23 22:16",
+    "mensaje": "‼️ Información ‼️   \n👉En estos momentos tenemos 90 MW en la provincia afectados por déficit de generación. Con este déficit no podemos cumplir con una programación estable, por lo que los circuitos se afectarán o se restablecerán en dependencia del déficit que haya en cada momento de la jornada.",
+    "timestamp": 1758665773,
+    "timestamp_local": 1758665773
+  },
+  {
     "id": 32185,
     "fecha": "23 de Sep del 2025 a las 05:06 PM",
     "hora_utc": "2025-09-23 21:06",
@@ -142,21 +158,5 @@
     "mensaje": "‼️ Déficit de Generación ‼️   \n👉Tenemos 75 MW en la provincia afectados por déficit de generación.\n⏰ Reiteramos que los circuitos se afectarán o se restablecerán en dependencia del déficit en cada momento de la jornada, que es muy variable.",
     "timestamp": 1758574468,
     "timestamp_local": 1758574468
-  },
-  {
-    "id": 32167,
-    "fecha": "22 de Sep del 2025 a las 04:45 PM",
-    "hora_utc": "2025-09-22 20:45",
-    "mensaje": "‼️ Información ‼️   \n👉En estos momentos tenemos 65 MW en la provincia afectados por déficit de generación. Con este déficit no podemos cumplir con una programación estable, por lo que los circuitos se afectarán o se restablecerán en dependencia del déficit que haya en cada momento de la jornada.",
-    "timestamp": 1758573907,
-    "timestamp_local": 1758573907
-  },
-  {
-    "id": 32166,
-    "fecha": "22 de Sep del 2025 a las 03:56 PM",
-    "hora_utc": "2025-09-22 19:56",
-    "mensaje": "‼️ Déficit de Generación ‼️   \n👉Tenemos 55 MW en la provincia afectados por déficit de generación.\n\n⏰ Reiteramos que los circuitos se afectarán o se restablecerán en dependencia del déficit que haya en cada momento de la jornada que es muy variable.",
-    "timestamp": 1758570999,
-    "timestamp_local": 1758570999
   }
 ]
