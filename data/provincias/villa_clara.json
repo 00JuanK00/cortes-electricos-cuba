@@ -1,5 +1,37 @@
 [
   {
+    "id": 30452,
+    "fecha": "24 de Sep del 2025 a las 11:44 AM",
+    "hora_utc": "2025-09-24 15:44",
+    "mensaje": "🛠️Afectado por Disparo Automático por Frecuencia (DAF), la línea 1915:\nAfecta los circuitos siguientes:\nMunicipio Placetas:\n👉Cto 192 Benito Juárez\n👉Cto 102 Peroti",
+    "timestamp": 1758728641,
+    "timestamp_local": 1758728641
+  },
+  {
+    "id": 30451,
+    "fecha": "24 de Sep del 2025 a las 11:40 AM",
+    "hora_utc": "2025-09-24 15:40",
+    "mensaje": "Restablecido el circuito 4 (Consejo-Centro) del municipio de Santa Clara.\n✍️Quedará afectado banco de transformadores situado en la calle Toscano entre San Miguel y Candelaria hasta que culmine el trabajo por parte de la brigada eléctrica.",
+    "timestamp": 1758728450,
+    "timestamp_local": 1758728450
+  },
+  {
+    "id": 30450,
+    "fecha": "24 de Sep del 2025 a las 11:38 AM",
+    "hora_utc": "2025-09-24 15:38",
+    "mensaje": "🛠️Afectado el circuito 7 (Universidad), del municipio Santa Clara, para realizar cambio de transformador.",
+    "timestamp": 1758728282,
+    "timestamp_local": 1758728282
+  },
+  {
+    "id": 30449,
+    "fecha": "24 de Sep del 2025 a las 11:29 AM",
+    "hora_utc": "2025-09-24 15:29",
+    "mensaje": "🛠️Afectado por manipulación el circuito 4 (Consejo-Centro), para abrir banco de transformadores.",
+    "timestamp": 1758727787,
+    "timestamp_local": 1758727787
+  },
+  {
     "id": 30448,
     "fecha": "24 de Sep del 2025 a las 10:53 AM",
     "hora_utc": "2025-09-24 14:53",
@@ -43,7 +75,7 @@
     "id": 30442,
     "fecha": "24 de Sep del 2025 a las 09:50 AM",
     "hora_utc": "2025-09-24 13:50",
-    "mensaje": "🛠️Brigadas de nuestra empresa se encuentran trabajando en Ramal Bermejo, perteneciente al circuito 110 (Guinia), del municipio Remedios, afectado por postes y spanes de líneas partidos",
+    "mensaje": "🛠️Brigadas de nuestra empresa se encuentran trabajando en Ramal Bermejo, perteneciente al circuito 110 (Guinia), del municipio Manicaragua, afectado por postes y spanes de líneas partidos",
     "timestamp": 1758721808,
     "timestamp_local": 1758721808
   },
@@ -118,37 +150,5 @@
     "mensaje": "Afectados 88 MW en la provincia, demanda máxima a apagar en estos momentos.",
     "timestamp": 1758709950,
     "timestamp_local": 1758709950
-  },
-  {
-    "id": 30432,
-    "fecha": "24 de Sep del 2025 a las 06:31 AM",
-    "hora_utc": "2025-09-24 10:31",
-    "mensaje": "⚠️Serán afectados por déficit de generación los circuitos siguientes:\n🔹Bloque 2\n\n👉Municipio Camajuaní:\nCtos 72 y 129 Camajuani\nCto 75 La Quinta\nCto 157 Luis Arcos Bergnes\nCtos 76 y 90 Vega Alta\n👉Municipio Cifuentes:\nCtos 114 y 117\nCtos 116 y 155 Mata\nCto 186 Batey Unidad Proletaria\nCto 184 Sitio Grande\n🔹Bloque 4\n👉Municipio Encrucijada:\nCto 122 Encrucijada \nCto 123 Vizcaya \nCto 142 Comunidad La Sierra \nCto 126 Batey Emilio Córdova\nCto 125 Cavarrocas\nCto 124 El Santo\n👉Municipio Camajuaní:\nCto 78 Jutiero",
-    "timestamp": 1758709866,
-    "timestamp_local": 1758709866
-  },
-  {
-    "id": 30431,
-    "fecha": "24 de Sep del 2025 a las 05:22 AM",
-    "hora_utc": "2025-09-24 09:22",
-    "mensaje": "⚠️Serán afectados por déficit de generación los circuitos siguientes:\n🔹Bloque 1\n👉Municipio Manicaragua:\nCtos 109 y 150\nCtos 108 y 110 La Piedra\nCto 111 Mataguá\n👉Municipio Encrucijada\nCto 120 Calabazar\nCtos 121 y 127 Perucho",
-    "timestamp": 1758705740,
-    "timestamp_local": 1758705740
-  },
-  {
-    "id": 30430,
-    "fecha": "24 de Sep del 2025 a las 02:19 AM",
-    "hora_utc": "2025-09-24 06:19",
-    "mensaje": "💡Será restablecido el servicio eléctrico en los circuitos siguientes:\n🔹Bloque 8\n👉Municipio Caibarién:\nCtos 61, 62 \n👉Municipio Caibarién\nCtos 63 y 64\nCtos 182 y 183 Van Troi\n🔹Bloque 10\n👉Municipio Manicaragua:\nCtos 113 y 137 La Campana\nCto 112 Hoyo Manicaragua",
-    "timestamp": 1758694778,
-    "timestamp_local": 1758694778
-  },
-  {
-    "id": 30429,
-    "fecha": "24 de Sep del 2025 a las 02:03 AM",
-    "hora_utc": "2025-09-24 06:03",
-    "mensaje": "💡Será restablecido el servicio eléctrico en los siguientes circuitos:\n👉Municipio Camajuaní:\nCtos 72 y 129 Camajuani\nCto 75 La Quinta\nCto 157 Luis Arcos Bergnes\nCtos 76 y 90 Vega Alta\n👉Municipio Placetas:\nCto 192 Benito Juárez\n👉Municipio Santo Domingo:\nCto 134\nCtos 87 y 96 Bermejal\nCto 187 Batey Carlos Baliño\nCto 82 Ulacia\nCto 84 Rodrigo",
-    "timestamp": 1758693795,
-    "timestamp_local": 1758693795
   }
 ]
