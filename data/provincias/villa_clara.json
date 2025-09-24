@@ -1,5 +1,61 @@
 [
   {
+    "id": 30479,
+    "fecha": "24 de Sep del 2025 a las 03:32 PM",
+    "hora_utc": "2025-09-24 19:32",
+    "mensaje": "⚠️Afectados por déficit de generación los circuitos siguientes:\n🔹Bloque 2\nMunicipio Camajuaní:\n👉Ctos 72 y 129 Camajuani\n👉Cto 75 La Quinta\n👉Cto 157 Luis Arcos Bergnes\n👉Ctos 76 y 90 Vega Alta \nMunicipio Cifuentes:\n👉Ctos 114 y 117\n👉Ctos 116 y 155 Mata\n👉Cto 186 Batey Unidad Proletaria\n👉Cto 184 Sitio Grande",
+    "timestamp": 1758742334,
+    "timestamp_local": 1758742334
+  },
+  {
+    "id": 30478,
+    "fecha": "24 de Sep del 2025 a las 03:28 PM",
+    "hora_utc": "2025-09-24 19:28",
+    "mensaje": "Restablecida la línea 1720:\nMunicipio Santo Domingo:\n👉Cto 195 Batey George Washington\n👉Ctos 83 y 165 Manacas\n👉Ctos 85 y 86 Pajarito\n👉Ctos 160 y 161 Cascajal",
+    "timestamp": 1758742139,
+    "timestamp_local": 1758742139
+  },
+  {
+    "id": 30477,
+    "fecha": "24 de Sep del 2025 a las 03:27 PM",
+    "hora_utc": "2025-09-24 19:27",
+    "mensaje": "Restablecida la línea 1715:\nMunicipio Santo Domingo:\n👉Cto 134\n👉Ctos 87 y 96 Bermejal\n👉Cto 187 Batey Carlos Baliño\n👉Cto 82 Ulacia\n👉Cto 84 Rodrigo",
+    "timestamp": 1758742070,
+    "timestamp_local": 1758742070
+  },
+  {
+    "id": 30476,
+    "fecha": "24 de Sep del 2025 a las 03:13 PM",
+    "hora_utc": "2025-09-24 19:13",
+    "mensaje": "🛠️Afectado por manipulación la línea 1715:\nAfecta los siguientes circuitos:\nMunicipio Santo Domingo:\n👉Cto 134\n👉Ctos 87 y 96 Bermejal\n👉Cto 187 Batey Carlos Baliño\n👉Cto 82 Ulacia\n👉Cto 84 Rodrigo",
+    "timestamp": 1758741218,
+    "timestamp_local": 1758741218
+  },
+  {
+    "id": 30475,
+    "fecha": "24 de Sep del 2025 a las 03:06 PM",
+    "hora_utc": "2025-09-24 19:06",
+    "mensaje": "Restablecido parcialmente el circuito 74 (José María Pérez), del municipio Camajuaní, quedando afectado el Banco de Semillas Azcuba y el Bombeo Lobaton.",
+    "timestamp": 1758740772,
+    "timestamp_local": 1758740772
+  },
+  {
+    "id": 30474,
+    "fecha": "24 de Sep del 2025 a las 03:03 PM",
+    "hora_utc": "2025-09-24 19:03",
+    "mensaje": "Restablecido el circuito 30 (Capiro- Santa Catalina), del municipio Santa Clara.",
+    "timestamp": 1758740634,
+    "timestamp_local": 1758740634
+  },
+  {
+    "id": 30473,
+    "fecha": "24 de Sep del 2025 a las 03:02 PM",
+    "hora_utc": "2025-09-24 19:02",
+    "mensaje": "⚠️Afectados por déficit de capacidad de generación los circuitos siguientes:\n🔹Bloque 4\nMunicipio Encrucijada:\n👉Cto 122 Encrucijada \n👉Cto 123 Vizcaya \n👉Cto 142 Comunidad La Sierra \n👉Cto 126 Batey Emilio Córdova (Brigadas de nuestra empresa aún se encuentran trabajando en la avería)\n👉Cto 125 Cavarrocas (Brigadas de nuestra empresa aún se encuentran trabajando en la avería)\nCto 124 El Santo (Brigadas de nuestra empresa aún se encuentran trabajando en la avería)\nMunicipio Camajuaní:\n👉Cto 78 Jutiero",
+    "timestamp": 1758740557,
+    "timestamp_local": 1758740557
+  },
+  {
     "id": 30472,
     "fecha": "24 de Sep del 2025 a las 02:54 PM",
     "hora_utc": "2025-09-24 18:54",
@@ -43,7 +99,7 @@
     "id": 30467,
     "fecha": "24 de Sep del 2025 a las 02:34 PM",
     "hora_utc": "2025-09-24 18:34",
-    "mensaje": "Se encuentran afectados los circuitos siguientes por trabajo de brigada para levantar postes caídos:\n🔸Municipio Ranchuelo\n 👉Ctos 54, 94 y 95 Jicotea\nMunicipio Santo Domingo\n👉Cto 79",
+    "mensaje": "Se encuentran afectados los circuitos siguientes por trabajo de brigada para levantar postes caídos:\n🔸Municipio Ranchuelo\n 👉Ctos 54, 94 y 95 Jicotea\nMunicipio Santo Domingo\n👉Cto 79\n✍️Brigadas de nuestra empresa se encuentran creando las condiciones necesarias para trabajar en el lugar.",
     "timestamp": 1758738880,
     "timestamp_local": 1758738880
   },
@@ -102,61 +158,5 @@
     "mensaje": "Restablecido en su totalidad el circuito 4 (Consejo-Centro) del municipio de Santa Clara.",
     "timestamp": 1758731898,
     "timestamp_local": 1758731898
-  },
-  {
-    "id": 30459,
-    "fecha": "24 de Sep del 2025 a las 12:31 PM",
-    "hora_utc": "2025-09-24 16:31",
-    "mensaje": "🛠️Afectado por manipulación el circuito 4 (Consejo-Centro), para cerrar banco de transformadores.",
-    "timestamp": 1758731486,
-    "timestamp_local": 1758731486
-  },
-  {
-    "id": 30458,
-    "fecha": "24 de Sep del 2025 a las 12:26 PM",
-    "hora_utc": "2025-09-24 16:26",
-    "mensaje": "Afectada la línea 108:\n🔸Afecta los siguientes circuitos:\nMunicipio Ranchuelo:\n👉Cto 92 Esperanza (Pueblo)\n👉Cto 93 Esperanza (Campo)\nMunicipio Santa Clara:\n👉Ctos 26 y 141 (Manuelita)\n👉Cto 191 (Quemado de Hilario)\n✍️Se estudian las causas.",
-    "timestamp": 1758731189,
-    "timestamp_local": 1758731189
-  },
-  {
-    "id": 30457,
-    "fecha": "24 de Sep del 2025 a las 12:23 PM",
-    "hora_utc": "2025-09-24 16:23",
-    "mensaje": "Restablecido el circuito 114 perteneciente al municipio Cifuentes.",
-    "timestamp": 1758730995,
-    "timestamp_local": 1758730995
-  },
-  {
-    "id": 30455,
-    "fecha": "24 de Sep del 2025 a las 12:03 PM",
-    "hora_utc": "2025-09-24 16:03",
-    "mensaje": "🕛Actualización del servicio eléctrico en las últimas  horas.\n👉El déficit de capacidad de generación osciló entre los 88 MW y los 43 MW.\n👉En el momento de esta nota, se mantienen afectados 123 circuitos.\n👉 Cuenta con 428 afectaciones por averías secundarias y de servicio:\n Caibarién (5)\n Camajuaní (6)\n Cifuentes (16)\n Corralillo (7)\n Encrucijada (6)\n Manicaragua (28)\n Placetas (10)\n Quemado (2)\n Ranchuelo (26)\n Remedios (39) \n Sagua (16) \n Santa Clara (192)\n Santo Domingo (44)\n🛠️Se encuentran 4 averías en vías de solución.\n🛠️Pendientes a solucionar por el área técnica 27.\n\n⚡Averías⚡\n👉Cto 110 Guinia del municipio Manicaragua, (Afectado de manera  parcial el Ramal Bermejo). Brigadas de nuestra empresa se encuentran trabajando en el lugar.\n👉Cto 74 José María Pérez del municipio Camajuaní, (Afectado de manera parcial) Brigadas de nuestra empresa se encuentran trabajando en el lugar para restablecer el servicio en el menor tiempo posible.\n👉Cto 143 (Heriberto Duquesne), del municipio Remedios, afectado por faltar una fase.\n👉Cto 118 (Jinaguayabo), del municipio Remedios, afectado por faltar una fase. Brigadas de nuestra empresa se encuentran trabajando en el lugar para restablecer el servicio en el menor tiempo posible.",
-    "timestamp": 1758729809,
-    "timestamp_local": 1758729809
-  },
-  {
-    "id": 30454,
-    "fecha": "24 de Sep del 2025 a las 11:53 AM",
-    "hora_utc": "2025-09-24 15:53",
-    "mensaje": "Con servicio el circuito 110 (La Piedra) perteneciente al municipio de Manicaragua.",
-    "timestamp": 1758729211,
-    "timestamp_local": 1758729211
-  },
-  {
-    "id": 30453,
-    "fecha": "24 de Sep del 2025 a las 11:47 AM",
-    "hora_utc": "2025-09-24 15:47",
-    "mensaje": "Con servicio la línea 1915:\nMunicipio Placetas:\n👉Cto 192 Benito Juárez\n👉Cto 102 Peroti",
-    "timestamp": 1758728828,
-    "timestamp_local": 1758728828
-  },
-  {
-    "id": 30452,
-    "fecha": "24 de Sep del 2025 a las 11:44 AM",
-    "hora_utc": "2025-09-24 15:44",
-    "mensaje": "🛠️Afectado por Disparo Automático por Frecuencia (DAF), la línea 1915:\nAfecta los circuitos siguientes:\nMunicipio Placetas:\n👉Cto 192 Benito Juárez\n👉Cto 102 Peroti",
-    "timestamp": 1758728641,
-    "timestamp_local": 1758728641
   }
 ]
