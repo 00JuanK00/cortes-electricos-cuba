@@ -1,9 +1,41 @@
 [
   {
+    "id": 30496,
+    "fecha": "24 de Sep del 2025 a las 05:31 PM",
+    "hora_utc": "2025-09-24 21:31",
+    "mensaje": "Restablecido el servicio eléctrico en el circuito 146 (Elevado Aeropuerto), del municipio Santa Clara.",
+    "timestamp": 1758749478,
+    "timestamp_local": 1758749478
+  },
+  {
+    "id": 30495,
+    "fecha": "24 de Sep del 2025 a las 05:20 PM",
+    "hora_utc": "2025-09-24 21:20",
+    "mensaje": "⚡Afectado por faltar fase el  circuito 96 (Bermejal), del municipio Santo Domingo",
+    "timestamp": 1758748810,
+    "timestamp_local": 1758748810
+  },
+  {
+    "id": 30494,
+    "fecha": "24 de Sep del 2025 a las 05:07 PM",
+    "hora_utc": "2025-09-24 21:07",
+    "mensaje": "⚠️Serán afectados por déficit de capacidad de generación los circuitos siguientes:\n🔹Bloque 8\nMunicipio Caibarién:\n👉Ctos 61, 62, 63 y 64\n👉Ctos 182 y 183 Van Troi",
+    "timestamp": 1758748028,
+    "timestamp_local": 1758748028
+  },
+  {
+    "id": 30493,
+    "fecha": "24 de Sep del 2025 a las 05:04 PM",
+    "hora_utc": "2025-09-24 21:04",
+    "mensaje": "⚠️Afectados por déficit de capacidad de generación los circuitos siguientes:\n🔹Bloque 1\nMunicipio Manicaragua:\n👉Ctos 109 y 150\n👉Ctos 108 y 110 La Piedra\n👉Cto 111 Mataguá\nMunicipio Encrucijada\n👉Cto 120 Calabazar\n👉Ctos 121 y 127 Perucho",
+    "timestamp": 1758747892,
+    "timestamp_local": 1758747892
+  },
+  {
     "id": 30492,
     "fecha": "24 de Sep del 2025 a las 05:00 PM",
     "hora_utc": "2025-09-24 21:00",
-    "mensaje": "⚠️Afectados por déficit de capacidad de generación los circuitos siguientes:\n\n🔹Bloque 11\nMunicipio Quemado:\n👉Ctos 164, 52 y 53 Quemado.\n👉Cto 196 Batey Panchito Gómez Toro.",
+    "mensaje": "⚠️Afectados por déficit de capacidad de generación los circuitos siguientes:\n🔹Bloque 11\nMunicipio Quemado:\n👉Ctos 164, 52 y 53 Quemado.\n👉Cto 196 Batey Panchito Gómez Toro.",
     "timestamp": 1758747656,
     "timestamp_local": 1758747656
   },
@@ -126,37 +158,5 @@
     "mensaje": "Restablecida la línea 1715:\nMunicipio Santo Domingo:\n👉Cto 134\n👉Ctos 87 y 96 Bermejal\n👉Cto 187 Batey Carlos Baliño\n👉Cto 82 Ulacia\n👉Cto 84 Rodrigo",
     "timestamp": 1758742070,
     "timestamp_local": 1758742070
-  },
-  {
-    "id": 30476,
-    "fecha": "24 de Sep del 2025 a las 03:13 PM",
-    "hora_utc": "2025-09-24 19:13",
-    "mensaje": "🛠️Afectado por manipulación la línea 1715:\nAfecta los siguientes circuitos:\nMunicipio Santo Domingo:\n👉Cto 134\n👉Ctos 87 y 96 Bermejal\n👉Cto 187 Batey Carlos Baliño\n👉Cto 82 Ulacia\n👉Cto 84 Rodrigo",
-    "timestamp": 1758741218,
-    "timestamp_local": 1758741218
-  },
-  {
-    "id": 30475,
-    "fecha": "24 de Sep del 2025 a las 03:06 PM",
-    "hora_utc": "2025-09-24 19:06",
-    "mensaje": "Restablecido parcialmente el circuito 74 (José María Pérez), del municipio Camajuaní, quedando afectado el Banco de Semillas Azcuba y el Bombeo Lobaton.",
-    "timestamp": 1758740772,
-    "timestamp_local": 1758740772
-  },
-  {
-    "id": 30474,
-    "fecha": "24 de Sep del 2025 a las 03:03 PM",
-    "hora_utc": "2025-09-24 19:03",
-    "mensaje": "Restablecido el circuito 30 (Capiro- Santa Catalina), del municipio Santa Clara.",
-    "timestamp": 1758740634,
-    "timestamp_local": 1758740634
-  },
-  {
-    "id": 30473,
-    "fecha": "24 de Sep del 2025 a las 03:02 PM",
-    "hora_utc": "2025-09-24 19:02",
-    "mensaje": "⚠️Afectados por déficit de capacidad de generación los circuitos siguientes:\n🔹Bloque 4\nMunicipio Encrucijada:\n👉Cto 122 Encrucijada \n👉Cto 123 Vizcaya \n👉Cto 142 Comunidad La Sierra \n👉Cto 126 Batey Emilio Córdova (Brigadas de nuestra empresa aún se encuentran trabajando en la avería)\n👉Cto 125 Cavarrocas (Brigadas de nuestra empresa aún se encuentran trabajando en la avería)\nCto 124 El Santo (Brigadas de nuestra empresa aún se encuentran trabajando en la avería)\nMunicipio Camajuaní:\n👉Cto 78 Jutiero",
-    "timestamp": 1758740557,
-    "timestamp_local": 1758740557
   }
 ]
