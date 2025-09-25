@@ -1,5 +1,61 @@
 [
   {
+    "id": 30567,
+    "fecha": "25 de Sep del 2025 a las 12:40 PM",
+    "hora_utc": "2025-09-25 16:40",
+    "mensaje": "💡Será restablecido el servicio eléctrico en los siguientes circuitos:\n🔸Municipio Placetas:\n👉Cto 101 y 145 Cumbre",
+    "timestamp": 1758818411,
+    "timestamp_local": 1758818411
+  },
+  {
+    "id": 30566,
+    "fecha": "25 de Sep del 2025 a las 12:39 PM",
+    "hora_utc": "2025-09-25 16:39",
+    "mensaje": "⚠️Serán afectados por déficit de capacidad de generación el siguientes circuitos:\n🔹Municipio Placetas \n👉Ctos 100 y 151 Placetas\n👉Cto 104 Hermanos Amejeiras\n👉Cto 103 Batey Carbó Servia",
+    "timestamp": 1758818359,
+    "timestamp_local": 1758818359
+  },
+  {
+    "id": 30565,
+    "fecha": "25 de Sep del 2025 a las 12:32 PM",
+    "hora_utc": "2025-09-25 16:32",
+    "mensaje": "💡Restablecido el servicio eléctrico en las líneas del 6580 y 6585:  \nLínea 6580\nMunicipio Camajuaní\n👉Ctos 77, 59, 185 Vueltas\nLínea 6585  \nMunicipio Camajuaní:\n👉Ctos 72 y 129 Camajuani\n👉Cto 75 La Quinta\n👉Cto 157 Luis Arcos Bergnes\n👉Ctos 76 y 90 Vega Alta",
+    "timestamp": 1758817956,
+    "timestamp_local": 1758817956
+  },
+  {
+    "id": 30564,
+    "fecha": "25 de Sep del 2025 a las 12:30 PM",
+    "hora_utc": "2025-09-25 16:30",
+    "mensaje": "⚠️Se encuentran disparadas las líneas del 6580 y el 6585:\nLínea 6580\nMunicipio Camajuaní\n👉Ctos 77, 59, 185 Vueltas\nLínea 6585  \nMunicipio Camajuaní:\n👉Ctos 72 y 129 Camajuani\n👉Cto 75 La Quinta\n👉Cto 157 Luis Arcos Bergnes\n👉Ctos 76 y 90 Vega Alta",
+    "timestamp": 1758817829,
+    "timestamp_local": 1758817829
+  },
+  {
+    "id": 30563,
+    "fecha": "25 de Sep del 2025 a las 12:18 PM",
+    "hora_utc": "2025-09-25 16:18",
+    "mensaje": "⚠️Afectada por sobrecarga la línea del 332:\nLínea 332\nMunicipio Manicaragua:\n👉Ctos 113 y 137 La Campana\n👉Cto 112 Hoyo Manicaragua",
+    "timestamp": 1758817138,
+    "timestamp_local": 1758817138
+  },
+  {
+    "id": 30562,
+    "fecha": "25 de Sep del 2025 a las 12:05 PM",
+    "hora_utc": "2025-09-25 16:05",
+    "mensaje": "💡Restablecido el servicio eléctrico en la línea del 1955:  \nMunicipio Encrucijada:\n👉Cto 122 Encrucijada \n👉Cto 123 Vizcaya \n👉Cto 142 Comunidad La Sierra \n👉Cto 126 Batey Emilio Córdova\n👉Cto 125 Cavarrocas\n👉Cto 124 El Santo\nMunicipio Camajuaní:\n👉Cto 78 Jutiero",
+    "timestamp": 1758816337,
+    "timestamp_local": 1758816337
+  },
+  {
+    "id": 30561,
+    "fecha": "25 de Sep del 2025 a las 12:03 PM",
+    "hora_utc": "2025-09-25 16:03",
+    "mensaje": "🕛Actualización del servicio eléctrico en las últimas  horas.\n✍️El déficit de capacidad de generación osciló entre los 96 MW y los 70 MW.\n✍️En el momento de esta nota, se mantienen afectados 100 circuitos.\n✍️Cuenta con 291 afectaciones por averías secundarias y de servicio:\n 🔸Caibarién (7)\n 🔸Camajuaní (5)\n 🔸Cifuentes (8)\n 🔸Corralillo (4)\n 🔸Encrucijada (10)\n 🔸Manicaragua (22)\n 🔸Placetas (13)\n 🔸Quemado (4)\n 🔸Ranchuelo (13)\n 🔸Remedios (33) \n 🔸Sagua (17) \n 🔸Santa Clara (126)\n 🔸Santo Domingo (29)\n🛠️Pendientes a solucionar por el área técnica 26.\n⚡Averías⚡\n👉Cto 110 Guinia del municipio Manicaragua, afectado de manera parcial (Pico Blanco).\n👉Cto 118 (Jinaguayabo), del municipio Remedios afectado de manera parcial.\n👉Cto 30 (Capiro-Santa Catalina), del municipio Santa Clara, afectado de manera parcial.",
+    "timestamp": 1758816232,
+    "timestamp_local": 1758816232
+  },
+  {
     "id": 30560,
     "fecha": "25 de Sep del 2025 a las 11:37 AM",
     "hora_utc": "2025-09-25 15:37",
@@ -11,7 +67,7 @@
     "id": 30559,
     "fecha": "25 de Sep del 2025 a las 11:36 AM",
     "hora_utc": "2025-09-25 15:36",
-    "mensaje": "⚡Disparo por DAF la siguiente linea:\nMunicipio Encrucijada:\n👉Cto 122 Encrucijada \n👉Cto 123 Vizcaya \n👉Cto 142 Comunidad La Sierra \n👉Cto 126 Batey Emilio Córdova\n👉Cto 125 Cavarrocas\n👉Cto 124 El Santo\nMunicipio Camajuaní:\n👉Cto 78 Jutiero",
+    "mensaje": "⚡Disparo por DAF la siguiente linea:\nLínea 1955  \nMunicipio Encrucijada:\n👉Cto 122 Encrucijada \n👉Cto 123 Vizcaya \n👉Cto 142 Comunidad La Sierra \n👉Cto 126 Batey Emilio Córdova\n👉Cto 125 Cavarrocas\n👉Cto 124 El Santo\nMunicipio Camajuaní:\n👉Cto 78 Jutiero",
     "timestamp": 1758814581,
     "timestamp_local": 1758814581
   },
@@ -102,53 +158,5 @@
     "mensaje": "💡Restablecido el servicio eléctrico en los siguientes circuitos:\n🔸Municipio Santo Domingo:\n👉Cto 195 Batey George Washington\n👉Ctos 83 y 165 Manacas\n👉Ctos 85 y 86 Pajarito\n👉Ctos 160 y 161 Cascajal\n👉Cto 134\n👉Ctos 87 y 96 Bermejal\n👉Cto 187 Batey Carlos Baliño\n👉Cto 82 Ulacia\n👉Cto 84 Rodrigo",
     "timestamp": 1758802621,
     "timestamp_local": 1758802621
-  },
-  {
-    "id": 30547,
-    "fecha": "25 de Sep del 2025 a las 08:01 AM",
-    "hora_utc": "2025-09-25 12:01",
-    "mensaje": "Actualización del servicio eléctrico en la provincia\n✍️Se mantienen afectados en la provincia 138 circuitos.\n✍️En el momento de hacer esta nota la provincia tiene 96 MW de afectación por déficit de capacidad de generación, demanda máxima posible a apagar.\n✍️Cuenta con 269 afectaciones por averías secundarias y de servicio.",
-    "timestamp": 1758801670,
-    "timestamp_local": 1758801670
-  },
-  {
-    "id": 30546,
-    "fecha": "25 de Sep del 2025 a las 07:51 AM",
-    "hora_utc": "2025-09-25 11:51",
-    "mensaje": "Resumen de afectaciones por déficit de capacidad de generación el 24/09/2025:                    \n \nEn el día de ayer se afecta el servicio por déficit de generación de forma ininterrumpida durante todo el día, con una afectación máxima de 142 MW en el horario pico.\n \nActualmente tenemos 98 MW afectados por déficit de generación.  \n \nTiempo promedio de afectación 17:23 horas\n \nExisten en este instante 266 interrupciones al servicio eléctrico por atender. Siendo Santa Clara con 127, Santo Domingo 21, Manicaragua 21 y Remedios 40.",
-    "timestamp": 1758801075,
-    "timestamp_local": 1758801075
-  },
-  {
-    "id": 30544,
-    "fecha": "25 de Sep del 2025 a las 07:33 AM",
-    "hora_utc": "2025-09-25 11:33",
-    "mensaje": "🚨Nota informativa.🚨\n\n👉Situación del SEN para el 25 de septiembre de 2025.\n\n👉En el día de ayer se afectó el servicio las 24 horas y se mantuvo afectado durante toda la madrugada de hoy. La máxima afectación por déficit de capacidad de generación en el día de ayer fue de 1686 MW a las 20:50 horas. \n\n☀️La producción de energía de los 31 nuevos parques solares fotovoltaicos fue de 3011 MWh, con 670 MW como máxima potencia entregada en el horario de la media con esta fuente de generación. \n\n👉La disponibilidad del SEN a las 06:00 horas es de 1910 MW  y la demanda 3070 MW con 1179 MW afectados por déficit de capacidad. En el horario de la media se estima una afectación de 900 MW. \n\n🛠️Se encuentran en avería la unidad 2 de la CTE Felton. Se encuentran en mantenimiento las unidades 1 y 2 de la CTE Santa Cruz y la unidad 4 de la CTE Cienfuegos.\n  \n👉Las limitaciones en la generación térmica son de 484 MW. \n\n⛽Se encuentran fuera de servicio por combustible 53 centrales de generación distribuida con 385 MW y 145 MW no disponible por falta de lubricante, para un total de 530 MW.\n\n📝En el horario pico se estima una disponibilidad de 1910 MW y una demanda máxima de 3600 MW, para un déficit de 1640 MW, por lo que de mantenerse las condiciones previstas se pronostica una afectación de 1710 MW en este horario.\n\nUNE-MINEM---07:00 horas",
-    "timestamp": 1758799988,
-    "timestamp_local": 1758799988
-  },
-  {
-    "id": 30543,
-    "fecha": "25 de Sep del 2025 a las 06:55 AM",
-    "hora_utc": "2025-09-25 10:55",
-    "mensaje": "⚡Afectada la línea 1910 perteneciente al municipio Placetas:\n🔸Afecta los siguientes circuitos:\n👉Ctos 98, 99, 100 y 151\n👉Cto 104 Hermanos Amejeiras\n👉Cto 103 Batey Carbó Servia\n✍️Se estudian las causas.",
-    "timestamp": 1758797708,
-    "timestamp_local": 1758797708
-  },
-  {
-    "id": 30542,
-    "fecha": "25 de Sep del 2025 a las 06:33 AM",
-    "hora_utc": "2025-09-25 10:33",
-    "mensaje": "💡Restablecidos los circuitos siguientes:\n🔹Bloque 7\nMunicipio Camajuaní:\n👉Ctos  73 y 156 \n👉Cto 74 José María Pérez",
-    "timestamp": 1758796433,
-    "timestamp_local": 1758796433
-  },
-  {
-    "id": 30541,
-    "fecha": "25 de Sep del 2025 a las 06:32 AM",
-    "hora_utc": "2025-09-25 10:32",
-    "mensaje": "⚠️Afectados por déficit de capacidad de generación los circuitos siguientes:\n🔹Bloque 1\nMunicipio Manicaragua:\n👉Ctos 109 y 150\n👉Ctos 108 y 110 La Piedra\n👉Cto 111 Mataguá",
-    "timestamp": 1758796354,
-    "timestamp_local": 1758796354
   }
 ]
