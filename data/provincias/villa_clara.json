@@ -1,5 +1,13 @@
 [
   {
+    "id": 30511,
+    "fecha": "24 de Sep del 2025 a las 07:55 PM",
+    "hora_utc": "2025-09-24 23:55",
+    "mensaje": "Actualización del servicio eléctrico en la provincia\n✍️Se mantienen afectados en la provincia 151 circuitos.\n✍️En el momento de hacer esta nota la provincia tiene 143 MW de afectación por déficit de capacidad de generación, demanda máxima posible a apagar.\n✍️Cuenta con 296 afectaciones por averías secundarias y de servicio.",
+    "timestamp": 1758758143,
+    "timestamp_local": 1758758143
+  },
+  {
     "id": 30509,
     "fecha": "24 de Sep del 2025 a las 07:37 PM",
     "hora_utc": "2025-09-24 23:37",
@@ -11,7 +19,7 @@
     "id": 30508,
     "fecha": "24 de Sep del 2025 a las 07:36 PM",
     "hora_utc": "2025-09-24 23:36",
-    "mensaje": "⚠️Afectados por déficit de capacidad de generación los circuitos siguientes:\n🔹Bloque 6\nMunicipio Ranchuelo:\n👉Cto 92 Esperanza (Pueblo)\n👉Cto 93 Esperanza (Campo)\nMunicipio Santa Clara:\n👉Ctos 26 y 141 (Manuelita)\n👉Cto 191 (Quemado de Hilario)",
+    "mensaje": "⚠️Afectados por déficit de capacidad de generación los circuitos siguientes:\n🔹Bloque 6\nMunicipio Ranchuelo:\n👉Cto 92 Esperanza (Pueblo)\n👉Cto 93 Esperanza (Campo)\n👉Ctos 54, 94 y 95 Jicotea\nMunicipio Santa Clara:\n👉Ctos 26 y 141 (Manuelita)\n👉Cto 191 (Quemado de Hilario)",
     "timestamp": 1758756996,
     "timestamp_local": 1758756996
   },
@@ -150,13 +158,5 @@
     "mensaje": "Con servicio las líneas 1715 y 1720:\nMunicipio Santo Domingo:\n👉Cto 134\n👉Ctos 87 y 96 Bermejal\n👉Cto 187 Batey Carlos Baliño\n👉Cto 82 Ulacia\n👉Cto 84 Rodrigo\nMunicipio Santo Domingo:\n👉Cto 195 Batey George Washington\n👉Ctos 83 y 165 Manacas\n👉Ctos 85 y 86 Pajarito\n👉Ctos 160 y 161 Cascajal",
     "timestamp": 1758747576,
     "timestamp_local": 1758747576
-  },
-  {
-    "id": 30490,
-    "fecha": "24 de Sep del 2025 a las 04:51 PM",
-    "hora_utc": "2025-09-24 20:51",
-    "mensaje": "Con servicio el circuito 7 (Universidad), del municipio Santa Clara.",
-    "timestamp": 1758747088,
-    "timestamp_local": 1758747088
   }
 ]
