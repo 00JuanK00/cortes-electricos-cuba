@@ -1,5 +1,29 @@
 [
   {
+    "id": 30623,
+    "fecha": "26 de Sep del 2025 a las 07:19 PM",
+    "hora_utc": "2025-09-26 23:19",
+    "mensaje": "Afectados 129 MW en la provincia, demanda máxima a apagar en estos momentos.",
+    "timestamp": 1758928770,
+    "timestamp_local": 1758928770
+  },
+  {
+    "id": 30622,
+    "fecha": "26 de Sep del 2025 a las 07:04 PM",
+    "hora_utc": "2025-09-26 23:04",
+    "mensaje": "⚠️Será afectado el servicio eléctrico en el siguiente circuito:\n🔹Municipio Santa Clara:\n👉Cto 31 (Sakenaf)",
+    "timestamp": 1758927858,
+    "timestamp_local": 1758927858
+  },
+  {
+    "id": 30621,
+    "fecha": "26 de Sep del 2025 a las 07:03 PM",
+    "hora_utc": "2025-09-26 23:03",
+    "mensaje": "⚠️Serán afectados por déficit de capacidad de generación los siguientes circuitos:\n🔹Municipio Santa Clara\n👉Cto 16 Cubanacán\n👉Ctos 23 y 130 La Ceniza\n👉Cto 42 Manajanabo\n🔹Municipio Placetas\n👉Cto 139 Miller\n👉Cto 190 Olive\n👉Cto 106 Falcón\n🔹Municipio Corralillo:\n👉Ctos 58 y 159\n👉Cto 57 Motembo\n👉Cto 56 Yabre\n👉Cto 60 La Sierra",
+    "timestamp": 1758927796,
+    "timestamp_local": 1758927796
+  },
+  {
     "id": 30620,
     "fecha": "26 de Sep del 2025 a las 06:53 PM",
     "hora_utc": "2025-09-26 22:53",
@@ -134,29 +158,5 @@
     "mensaje": "💡Será restablecido el servicio eléctrico en los siguientes circuitos:\n🔹Municipio Remedios:\n👉Ctos 67 y 152, 68 y 118 \n👉Ctos 69 y 70 Zuluetas\n👉Cto 143 Batey Heriberto Duquesne\n👉Cto 71 Buena Vista",
     "timestamp": 1758903641,
     "timestamp_local": 1758903641
-  },
-  {
-    "id": 30603,
-    "fecha": "26 de Sep del 2025 a las 12:12 PM",
-    "hora_utc": "2025-09-26 16:12",
-    "mensaje": "💡Será restablecido el servicio eléctrico en los siguientes circuitos:\n🔹Municipio Manicaragua:\n👉Ctos 109 y 150\n👉Ctos 108 y 110 La Piedra\n👉Cto 111 Mataguá",
-    "timestamp": 1758903177,
-    "timestamp_local": 1758903177
-  },
-  {
-    "id": 30602,
-    "fecha": "26 de Sep del 2025 a las 12:06 PM",
-    "hora_utc": "2025-09-26 16:06",
-    "mensaje": "🕛Actualización del servicio eléctrico en las últimas  horas.\n✍️El déficit de capacidad de generación osciló entre los 98 MW y los 103 MW.\n✍️En el momento de esta nota, se mantienen afectados 102 circuitos.\n✍️Cuenta con 286 afectaciones por averías secundarias y de servicio:\n 🔸Caibarién (1)\n 🔸Camajuaní (5)\n 🔸Cifuentes (3)\n 🔸Encrucijada (6)\n 🔸Manicaragua (26)\n 🔸Placetas (8)\n 🔸Quemado (6)\n 🔸Ranchuelo (12)\n 🔸Remedios (32) \n 🔸Sagua (19) \n 🔸Santa Clara (114)\n 🔸Santo Domingo (27)\n🛠️Se encuentra 8 averías en vías de solución.\n🛠️Pendientes a solucionar por el área técnica 26.",
-    "timestamp": 1758902800,
-    "timestamp_local": 1758902800
-  },
-  {
-    "id": 30601,
-    "fecha": "26 de Sep del 2025 a las 11:34 AM",
-    "hora_utc": "2025-09-26 15:34",
-    "mensaje": "🚨Nota informativa🚨\n\n👉Situación del SEN para el 26 de septiembre de 2025.\n\n\n👉En el día de ayer se afectó el servicio las 24 horas y se mantuvo afectado durante toda la madrugada de hoy. La máxima afectación por déficit de capacidad de generación en el día de ayer fue de 1691 MW a las 21:30 horas. \n\n\n☀️La producción de energía de los 31 nuevos parques solares fotovoltaicos fue de 3260 MWh, con 662 MW como máxima potencia entregada en el horario de la media con esta fuente de generación. \n\n\n👉La disponibilidad del SEN a las 06:00 horas es de 1870 MW  y la demanda 3020 MW con 1175 MW afectados por déficit de capacidad. En el horario de la media se estima una afectación de 980 MW. \n\n🛠️Se encuentran en avería la unidad 2 de la CTE Felton. Se encuentran en mantenimiento las unidades 1 y 2 de la CTE Santa Cruz y la unidad 4 de la CTE Cienfuegos.\n  \n👉Las limitaciones en la generación térmica son de 492 MW. \n\n⛽Se encuentran fuera de servicio por combustible 56 centrales de generación distribuida con 460 MW y 153 MW indisponible por falta de lubricante, para un total de 624 MW.\n\n👉Para el pico se estima la recuperación de 80 MW en motores de la generación distribuida que se encuentran fuera por combustible.\n   \n📈Con este pronóstico en el horario pico se estima una disponibilidad de 1950 MW y una demanda máxima de 3550 MW, para un déficit de 1600 MW, por lo que de mantenerse las condiciones previstas se pronostica una afectación de 1670 MW en este horario.\n\nUNE-MINEM---07:00 horas",
-    "timestamp": 1758900876,
-    "timestamp_local": 1758900876
   }
 ]
