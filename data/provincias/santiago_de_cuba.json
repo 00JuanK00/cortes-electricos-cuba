@@ -1,5 +1,21 @@
 [
   {
+    "id": 45004,
+    "fecha": "25 de Sep del 2025 a las 08:30 PM",
+    "hora_utc": "2025-09-26 00:30",
+    "mensaje": "🔴Se les informa a nuestros clientes que se afecta por Déficit de Capacidad de Generación el circuito 2 de Santiago.",
+    "timestamp": 1758846646,
+    "timestamp_local": 1758846646
+  },
+  {
+    "id": 45003,
+    "fecha": "25 de Sep del 2025 a las 08:08 PM",
+    "hora_utc": "2025-09-26 00:08",
+    "mensaje": "🔴Se les informa a nuestros clientes que se afecta por Déficit de Capacidad de Generación el circuito 11 de Santiago.",
+    "timestamp": 1758845318,
+    "timestamp_local": 1758845318
+  },
+  {
     "id": 45002,
     "fecha": "25 de Sep del 2025 a las 07:34 PM",
     "hora_utc": "2025-09-25 23:34",
@@ -142,21 +158,5 @@
     "mensaje": "👉 Estimados clientes se le informa que en estos momentos están afectados por Déficit de Capacidad de Generación el circuito 14, LI 5975 Baconao",
     "timestamp": 1758814945,
     "timestamp_local": 1758814945
-  },
-  {
-    "id": 44984,
-    "fecha": "25 de Sep del 2025 a las 11:13 AM",
-    "hora_utc": "2025-09-25 15:13",
-    "mensaje": "🔴 Disparo Automático de Frecuencia (DAF):\nOcurre cuando.  la frecuencia está por debajo de los 60Hz y determinada carga o circuito se desconecta del sistema automáticamente hasta que se estabilice.",
-    "timestamp": 1758813216,
-    "timestamp_local": 1758813216
-  },
-  {
-    "id": 44983,
-    "fecha": "25 de Sep del 2025 a las 11:13 AM",
-    "hora_utc": "2025-09-25 15:13",
-    "mensaje": "🔴 Estimados clientes en estos momentos se encuentra disparado por DAF la Sub Palma,.",
-    "timestamp": 1758813202,
-    "timestamp_local": 1758813202
   }
 ]
