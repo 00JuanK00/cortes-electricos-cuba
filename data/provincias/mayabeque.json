@@ -1,5 +1,69 @@
 [
   {
+    "id": 90807,
+    "fecha": "26 de Sep del 2025 a las 12:46 AM",
+    "hora_utc": "2025-09-26 04:46",
+    "mensaje": "🚨Por déficit de capacidad de generación se afecta el servicio en el siguiente circuito:\n*UNAH 🚨",
+    "timestamp": 1758861980,
+    "timestamp_local": 1758861980
+  },
+  {
+    "id": 90806,
+    "fecha": "26 de Sep del 2025 a las 12:38 AM",
+    "hora_utc": "2025-09-26 04:38",
+    "mensaje": "🔷♦️Se restablece el servicio en los circuitos que se encontraban afectados por déficit de capacidad de generación:\n*2 y 3 de San José ♦️🔷",
+    "timestamp": 1758861498,
+    "timestamp_local": 1758861498
+  },
+  {
+    "id": 90805,
+    "fecha": "26 de Sep del 2025 a las 12:33 AM",
+    "hora_utc": "2025-09-26 04:33",
+    "mensaje": "🔷♦️Se restablece el servicio en los circuitos que se encontraban afectados por déficit de capacidad de generación:\n*6 y 8 de San José ♦️🔷",
+    "timestamp": 1758861233,
+    "timestamp_local": 1758861233
+  },
+  {
+    "id": 90804,
+    "fecha": "26 de Sep del 2025 a las 12:29 AM",
+    "hora_utc": "2025-09-26 04:29",
+    "mensaje": "🔷♦️Se restablece el servicio en el siguiente circuito que se encontraba afectado por déficit de capacidad de generación:\n*Güines 4♦️🔷",
+    "timestamp": 1758860964,
+    "timestamp_local": 1758860964
+  },
+  {
+    "id": 90802,
+    "fecha": "26 de Sep del 2025 a las 12:21 AM",
+    "hora_utc": "2025-09-26 04:21",
+    "mensaje": "🚨Por déficit de capacidad de generación se afecta el servicio en el siguiente circuito:\n*Jamaica  🚨",
+    "timestamp": 1758860492,
+    "timestamp_local": 1758860492
+  },
+  {
+    "id": 90801,
+    "fecha": "26 de Sep del 2025 a las 12:07 AM",
+    "hora_utc": "2025-09-26 04:07",
+    "mensaje": "🔷♦️Se restablece el servicio en los circuitos que se encontraban afectados por déficit de capacidad de generación:\n*Melena 1 y 2 ♦️🔷",
+    "timestamp": 1758859621,
+    "timestamp_local": 1758859621
+  },
+  {
+    "id": 90800,
+    "fecha": "26 de Sep del 2025 a las 12:06 AM",
+    "hora_utc": "2025-09-26 04:06",
+    "mensaje": "🚨Por déficit de capacidad de generación se afecta el servicio en los siguientes circuitos:\n*3655\n*3660🚨",
+    "timestamp": 1758859588,
+    "timestamp_local": 1758859588
+  },
+  {
+    "id": 90799,
+    "fecha": "26 de Sep del 2025 a las 12:04 AM",
+    "hora_utc": "2025-09-26 04:04",
+    "mensaje": "♦️ Afectado el servicio en el circuito de Surgidero por manipulación ♦️",
+    "timestamp": 1758859454,
+    "timestamp_local": 1758859454
+  },
+  {
     "id": 90798,
     "fecha": "25 de Sep del 2025 a las 11:16 PM",
     "hora_utc": "2025-09-26 03:16",
@@ -78,77 +142,5 @@
     "mensaje": "🚨Por déficit de capacidad de generación se afecta el servicio en el siguiente circuito:\n*Fénix  🚨",
     "timestamp": 1758844156,
     "timestamp_local": 1758844156
-  },
-  {
-    "id": 90787,
-    "fecha": "25 de Sep del 2025 a las 07:48 PM",
-    "hora_utc": "2025-09-25 23:48",
-    "mensaje": "🔷Con servicio el circuito 2320 que se encontraba afectado por manipulación 🔷",
-    "timestamp": 1758844089,
-    "timestamp_local": 1758844089
-  },
-  {
-    "id": 90786,
-    "fecha": "25 de Sep del 2025 a las 07:44 PM",
-    "hora_utc": "2025-09-25 23:44",
-    "mensaje": "🔷Con servicio el circuito de Villa Trópico que se encontraba afectado por manipulación 🔷",
-    "timestamp": 1758843887,
-    "timestamp_local": 1758843887
-  },
-  {
-    "id": 90785,
-    "fecha": "25 de Sep del 2025 a las 07:44 PM",
-    "hora_utc": "2025-09-25 23:44",
-    "mensaje": "♦️ Afectado el servicio en el circuito 2320 por manipulación ♦️",
-    "timestamp": 1758843875,
-    "timestamp_local": 1758843875
-  },
-  {
-    "id": 90784,
-    "fecha": "25 de Sep del 2025 a las 07:30 PM",
-    "hora_utc": "2025-09-25 23:30",
-    "mensaje": "🔷Con servicio el circuito de Güines 1 que se encontraba afectado por manipulación 🔷",
-    "timestamp": 1758843045,
-    "timestamp_local": 1758843045
-  },
-  {
-    "id": 90783,
-    "fecha": "25 de Sep del 2025 a las 07:25 PM",
-    "hora_utc": "2025-09-25 23:25",
-    "mensaje": "♦️ Afectado el servicio en el circuito Güines 1 por manipulación ♦️",
-    "timestamp": 1758842721,
-    "timestamp_local": 1758842721
-  },
-  {
-    "id": 90782,
-    "fecha": "25 de Sep del 2025 a las 07:13 PM",
-    "hora_utc": "2025-09-25 23:13",
-    "mensaje": "♦️ Afectado el servicio en el circuito de Villa Trópico por manipulación ♦️",
-    "timestamp": 1758842000,
-    "timestamp_local": 1758842000
-  },
-  {
-    "id": 90781,
-    "fecha": "25 de Sep del 2025 a las 07:12 PM",
-    "hora_utc": "2025-09-25 23:12",
-    "mensaje": "🚨Por déficit de capacidad de generación se afecta el servicio en los siguientes circuitos:\n*Sopapo 1 y 2 \n*Bío -2\n*1657🚨",
-    "timestamp": 1758841958,
-    "timestamp_local": 1758841958
-  },
-  {
-    "id": 90780,
-    "fecha": "25 de Sep del 2025 a las 07:03 PM",
-    "hora_utc": "2025-09-25 23:03",
-    "mensaje": "🚨Por déficit de capacidad de generación se afecta el servicio en el siguiente circuito:\n*Vedado 🚨",
-    "timestamp": 1758841381,
-    "timestamp_local": 1758841381
-  },
-  {
-    "id": 90779,
-    "fecha": "25 de Sep del 2025 a las 06:50 PM",
-    "hora_utc": "2025-09-25 22:50",
-    "mensaje": "🚨Por déficit de capacidad de generación se afecta el servicio en el siguiente circuito:\n*Ganuza 🚨",
-    "timestamp": 1758840640,
-    "timestamp_local": 1758840640
   }
 ]

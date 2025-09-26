@@ -1,5 +1,13 @@
 [
   {
+    "id": 26400,
+    "fecha": "26 de Sep del 2025 a las 12:10 AM",
+    "hora_utc": "2025-09-26 04:10",
+    "mensaje": "⚡En estos momentos tenemos una afectación de 130 MW por déficit de capacidad de generación ⚡",
+    "timestamp": 1758859830,
+    "timestamp_local": 1758859830
+  },
+  {
     "id": 26399,
     "fecha": "25 de Sep del 2025 a las 11:19 PM",
     "hora_utc": "2025-09-26 03:19",
@@ -150,13 +158,5 @@
     "mensaje": "⚡Nos mantenemos con una afectación de 60 MW por déficit de capacidad de generación ⚡",
     "timestamp": 1758809332,
     "timestamp_local": 1758809332
-  },
-  {
-    "id": 26380,
-    "fecha": "25 de Sep del 2025 a las 10:02 AM",
-    "hora_utc": "2025-09-25 14:02",
-    "mensaje": "⚠**Circuitos no apagables que se afectarán debido al alto déficit**⚠\n\nCircuitos GI101, JI48, CI185 y Z1183 se afectarán de 19:00 a 01:00.\n\nCircuito MI1453 se afectará de 19:00 a 22:30.\n\nCircuito Z130 se afectará de 19:00 a 23:00.",
-    "timestamp": 1758808951,
-    "timestamp_local": 1758808951
   }
 ]
