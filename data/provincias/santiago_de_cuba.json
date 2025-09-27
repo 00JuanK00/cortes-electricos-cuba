@@ -1,5 +1,29 @@
 [
   {
+    "id": 45068,
+    "fecha": "27 de Sep del 2025 a las 02:57 PM",
+    "hora_utc": "2025-09-27 18:57",
+    "mensaje": "🔴Se les informa a nuestros clientes que se afecta por Déficit de Capacidad de Generación los circuitos 8 de Santiago y 2 de Contramaestre.",
+    "timestamp": 1758999437,
+    "timestamp_local": 1758999437
+  },
+  {
+    "id": 45067,
+    "fecha": "27 de Sep del 2025 a las 02:51 PM",
+    "hora_utc": "2025-09-27 18:51",
+    "mensaje": "🔴Disparo Automático de Frecuencia (DAF):\nDisparo automático de frecuencia (DAF).  Es una protección que posee el sistema eléctrico, para cuando la frecuencia llega a valores mínimos permisibles que ponen en peligro la estabilidad de todo el sistema en su conjunto, provoca una desconexión automática de algunos circuitos hasta que ésta vuelva a recuperar su valor nominal a 60 Hz o ciclos por segundo..",
+    "timestamp": 1758999079,
+    "timestamp_local": 1758999079
+  },
+  {
+    "id": 45066,
+    "fecha": "27 de Sep del 2025 a las 02:50 PM",
+    "hora_utc": "2025-09-27 18:50",
+    "mensaje": "🔴Estimados clientes en estos momentos se encuentra disparado el circuito 24 de Santiago  por DAF.",
+    "timestamp": 1758999035,
+    "timestamp_local": 1758999035
+  },
+  {
     "id": 45065,
     "fecha": "27 de Sep del 2025 a las 02:42 PM",
     "hora_utc": "2025-09-27 18:42",
@@ -134,29 +158,5 @@
     "mensaje": "👉 Estimados clientes en estos momentos se encuentra disparado por DAF  el circuito 4 Palma",
     "timestamp": 1758968590,
     "timestamp_local": 1758968590
-  },
-  {
-    "id": 45048,
-    "fecha": "27 de Sep del 2025 a las 06:20 AM",
-    "hora_utc": "2025-09-27 10:20",
-    "mensaje": "👉 Estimados clientes se le informa que en estos momentos están afectados por Déficit de Capacidad de Generación el circuito 8, 1, 25, 20, 1 Palma, Guama, LI 5390 La Maya - II Frente, LI 5395 San Luis.",
-    "timestamp": 1758968427,
-    "timestamp_local": 1758968427
-  },
-  {
-    "id": 45047,
-    "fecha": "27 de Sep del 2025 a las 05:44 AM",
-    "hora_utc": "2025-09-27 09:44",
-    "mensaje": "🔴 Circuito en avería:                                                                                                                        \n Sucede si un circuito se interrumpe por causa de un defecto en un cable conductor de corriente (fase o neutro), un fusible fundido o disyuntor. En sistemas trifásicos una falla puede implicar una fase, más de una fase con la tierra o puede ocurrir solo entre fases.",
-    "timestamp": 1758966297,
-    "timestamp_local": 1758966297
-  },
-  {
-    "id": 45046,
-    "fecha": "27 de Sep del 2025 a las 05:44 AM",
-    "hora_utc": "2025-09-27 09:44",
-    "mensaje": "🚨 Estimados clientes se le informa que en estos momentos el circuito 17 se encuentra en avería",
-    "timestamp": 1758966281,
-    "timestamp_local": 1758966281
   }
 ]
