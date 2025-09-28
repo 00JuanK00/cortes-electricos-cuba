@@ -1,5 +1,109 @@
 [
   {
+    "id": 91169,
+    "fecha": "28 de Sep del 2025 a las 06:45 PM",
+    "hora_utc": "2025-09-28 22:45",
+    "mensaje": "🔷♦️Se restablece el servicio en el siguiente circuito que se encontraba afectado por déficit de capacidad de generación:\n*Güines 1♦️🔷",
+    "timestamp": 1759099527,
+    "timestamp_local": 1759099527
+  },
+  {
+    "id": 91168,
+    "fecha": "28 de Sep del 2025 a las 06:43 PM",
+    "hora_utc": "2025-09-28 22:43",
+    "mensaje": "🚨Por déficit de capacidad de generación se afecta el servicio en los siguientes circuitos:\n*Catalina 1 y 2🚨",
+    "timestamp": 1759099387,
+    "timestamp_local": 1759099387
+  },
+  {
+    "id": 91167,
+    "fecha": "28 de Sep del 2025 a las 06:24 PM",
+    "hora_utc": "2025-09-28 22:24",
+    "mensaje": "♦️Afectado el servicio en el circuito 3140 por disparo por DAF♦️",
+    "timestamp": 1759098268,
+    "timestamp_local": 1759098268
+  },
+  {
+    "id": 91166,
+    "fecha": "28 de Sep del 2025 a las 06:23 PM",
+    "hora_utc": "2025-09-28 22:23",
+    "mensaje": "🔷♦️Se restablece el servicio en el siguiente circuito que se encontraba afectado por déficit de capacidad de generación:\n*Somorrostro ♦️🔷",
+    "timestamp": 1759098189,
+    "timestamp_local": 1759098189
+  },
+  {
+    "id": 91165,
+    "fecha": "28 de Sep del 2025 a las 06:23 PM",
+    "hora_utc": "2025-09-28 22:23",
+    "mensaje": "🔷♦️Se restablece el servicio en el siguiente circuito que se encontraba afectado por déficit de capacidad de generación:\n*3660 ♦️🔷",
+    "timestamp": 1759098181,
+    "timestamp_local": 1759098181
+  },
+  {
+    "id": 91164,
+    "fecha": "28 de Sep del 2025 a las 06:21 PM",
+    "hora_utc": "2025-09-28 22:21",
+    "mensaje": "🚨Por déficit de capacidad de generación se afecta el servicio en el siguiente circuito:\n*2440 🚨",
+    "timestamp": 1759098102,
+    "timestamp_local": 1759098102
+  },
+  {
+    "id": 91163,
+    "fecha": "28 de Sep del 2025 a las 06:20 PM",
+    "hora_utc": "2025-09-28 22:20",
+    "mensaje": "🔷Restablecido el servicio en el circuito 3140 que se encontraba afectado por disparo por DAF🔷",
+    "timestamp": 1759098058,
+    "timestamp_local": 1759098058
+  },
+  {
+    "id": 91162,
+    "fecha": "28 de Sep del 2025 a las 06:20 PM",
+    "hora_utc": "2025-09-28 22:20",
+    "mensaje": "🔷Restablecido el servicio en el circuito 3590 que se encontraba afectado por disparo por DAF🔷",
+    "timestamp": 1759098051,
+    "timestamp_local": 1759098051
+  },
+  {
+    "id": 91161,
+    "fecha": "28 de Sep del 2025 a las 06:20 PM",
+    "hora_utc": "2025-09-28 22:20",
+    "mensaje": "🚨Por déficit de capacidad de generación se afecta el servicio en el siguiente circuito:\n*Vegas🚨",
+    "timestamp": 1759098004,
+    "timestamp_local": 1759098004
+  },
+  {
+    "id": 91160,
+    "fecha": "28 de Sep del 2025 a las 06:10 PM",
+    "hora_utc": "2025-09-28 22:10",
+    "mensaje": "♦️Afectado el servicio en el circuito 3140 por disparo por DAF♦️",
+    "timestamp": 1759097420,
+    "timestamp_local": 1759097420
+  },
+  {
+    "id": 91159,
+    "fecha": "28 de Sep del 2025 a las 06:10 PM",
+    "hora_utc": "2025-09-28 22:10",
+    "mensaje": "♦️Afectado el servicio en el circuito 3590 por disparo por DAF♦️",
+    "timestamp": 1759097418,
+    "timestamp_local": 1759097418
+  },
+  {
+    "id": 91158,
+    "fecha": "28 de Sep del 2025 a las 06:09 PM",
+    "hora_utc": "2025-09-28 22:09",
+    "mensaje": "🔷♦️Se restablece el servicio en el siguiente circuito que se encontraba afectado por déficit de capacidad de generación:\n*3655♦️🔷",
+    "timestamp": 1759097358,
+    "timestamp_local": 1759097358
+  },
+  {
+    "id": 91157,
+    "fecha": "28 de Sep del 2025 a las 06:02 PM",
+    "hora_utc": "2025-09-28 22:02",
+    "mensaje": "🔷♦️Se restablece el servicio en los circuitos que se encontraban afectados por déficit de capacidad de generación:\n * 5 y 7 de San José  ♦️🔷",
+    "timestamp": 1759096922,
+    "timestamp_local": 1759096922
+  },
+  {
     "id": 91156,
     "fecha": "28 de Sep del 2025 a las 06:00 PM",
     "hora_utc": "2025-09-28 22:00",
@@ -30,85 +134,5 @@
     "mensaje": "🔷Restablecido el servicio en el circuito 2495 que se encontraba afectado por disparo en las líneas🔷",
     "timestamp": 1759091674,
     "timestamp_local": 1759091674
-  },
-  {
-    "id": 91149,
-    "fecha": "28 de Sep del 2025 a las 04:32 PM",
-    "hora_utc": "2025-09-28 20:32",
-    "mensaje": "♦️Afectado el servicio en el circuito 2495  por disparo en las líneas ♦️",
-    "timestamp": 1759091526,
-    "timestamp_local": 1759091526
-  },
-  {
-    "id": 91148,
-    "fecha": "28 de Sep del 2025 a las 04:31 PM",
-    "hora_utc": "2025-09-28 20:31",
-    "mensaje": "🔷Restablecido el servicio en el circuito 1790 que se encontraba afectado por disparo por DAF🔷",
-    "timestamp": 1759091468,
-    "timestamp_local": 1759091468
-  },
-  {
-    "id": 91147,
-    "fecha": "28 de Sep del 2025 a las 04:16 PM",
-    "hora_utc": "2025-09-28 20:16",
-    "mensaje": "🔷Restablecido el servicio en el circuito 3140 que se encontraba afectado por disparo por DAF🔷",
-    "timestamp": 1759090562,
-    "timestamp_local": 1759090562
-  },
-  {
-    "id": 91146,
-    "fecha": "28 de Sep del 2025 a las 04:15 PM",
-    "hora_utc": "2025-09-28 20:15",
-    "mensaje": "🔷Restablecido el servicio en el circuito 3590 que se encontraba afectado por disparo por DAF🔷",
-    "timestamp": 1759090533,
-    "timestamp_local": 1759090533
-  },
-  {
-    "id": 91145,
-    "fecha": "28 de Sep del 2025 a las 04:12 PM",
-    "hora_utc": "2025-09-28 20:12",
-    "mensaje": "♦️Afectado el servicio en el circuito 1790 por disparo por DAF♦️",
-    "timestamp": 1759090354,
-    "timestamp_local": 1759090354
-  },
-  {
-    "id": 91144,
-    "fecha": "28 de Sep del 2025 a las 04:10 PM",
-    "hora_utc": "2025-09-28 20:10",
-    "mensaje": "♦️Afectado el servicio en el circuito 3590 por disparo por DAF♦️",
-    "timestamp": 1759090244,
-    "timestamp_local": 1759090244
-  },
-  {
-    "id": 91140,
-    "fecha": "28 de Sep del 2025 a las 04:04 PM",
-    "hora_utc": "2025-09-28 20:04",
-    "mensaje": "♦️Afectado el servicio en el circuito 3140 por disparo por DAF♦️",
-    "timestamp": 1759089854,
-    "timestamp_local": 1759089854
-  },
-  {
-    "id": 91139,
-    "fecha": "28 de Sep del 2025 a las 03:36 PM",
-    "hora_utc": "2025-09-28 19:36",
-    "mensaje": "🚨Por déficit de capacidad de generación se afecta el servicio en los siguientes circuitos:\n*5 y 7 de San José🚨",
-    "timestamp": 1759088178,
-    "timestamp_local": 1759088178
-  },
-  {
-    "id": 91138,
-    "fecha": "28 de Sep del 2025 a las 03:28 PM",
-    "hora_utc": "2025-09-28 19:28",
-    "mensaje": "🚨Por déficit de capacidad de generación se afecta el servicio en el siguiente circuito:\n*3 de San José 🚨",
-    "timestamp": 1759087692,
-    "timestamp_local": 1759087692
-  },
-  {
-    "id": 91137,
-    "fecha": "28 de Sep del 2025 a las 03:00 PM",
-    "hora_utc": "2025-09-28 19:00",
-    "mensaje": "🔷♦️Se restablece el servicio en el siguiente circuito que se encontraba afectado por déficit de capacidad de generación:\n*UNAH♦️🔷",
-    "timestamp": 1759086023,
-    "timestamp_local": 1759086023
   }
 ]
