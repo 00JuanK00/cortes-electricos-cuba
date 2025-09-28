@@ -1,5 +1,21 @@
 [
   {
+    "id": 30682,
+    "fecha": "27 de Sep del 2025 a las 10:50 PM",
+    "hora_utc": "2025-09-28 02:50",
+    "mensaje": "Concluida la avería por 33 kV se irán restableciendo los circuitos afectados:\n👉Cto 31 SC Industrial\n👉Cto 194 Hospital Materno - Infantil\n👉Cto 32 RF\n👉Cto 33 RF\n👉Cto 34 Rebacadero\n👉Cto 6 Vigía\n👉Cto 39 Sandino",
+    "timestamp": 1759027847,
+    "timestamp_local": 1759027847
+  },
+  {
+    "id": 30681,
+    "fecha": "27 de Sep del 2025 a las 10:36 PM",
+    "hora_utc": "2025-09-28 02:36",
+    "mensaje": "⚠️Afectados por déficit de generación los siguientes circuitos:\n👉Municipio Santa Clara:\nCtos 26 y 141 (Manuelita)",
+    "timestamp": 1759026996,
+    "timestamp_local": 1759026996
+  },
+  {
     "id": 30680,
     "fecha": "27 de Sep del 2025 a las 10:20 PM",
     "hora_utc": "2025-09-28 02:20",
@@ -142,21 +158,5 @@
     "mensaje": "💡Restablecido el servicio eléctrico en los siguientes circuitos:\n👉Cto 6 Vigía\n👉Cto 39 Sandino\n👉Cto 132 SC Industrial\n👉Cto 162 SC Industrial",
     "timestamp": 1758998549,
     "timestamp_local": 1758998549
-  },
-  {
-    "id": 30662,
-    "fecha": "27 de Sep del 2025 a las 02:15 PM",
-    "hora_utc": "2025-09-27 18:15",
-    "mensaje": "Actualización del servicio eléctrico en la provincia\n✍️Se mantienen afectados en la provincia 139 circuitos.\n✍️En el momento de hacer esta nota la provincia tiene 110 MW de afectación por déficit de capacidad de generación, demanda máxima posible a apagar.\n✍️Cuenta con 158 afectaciones por averías secundarias y de servicio.",
-    "timestamp": 1758996903,
-    "timestamp_local": 1758996903
-  },
-  {
-    "id": 30661,
-    "fecha": "27 de Sep del 2025 a las 02:07 PM",
-    "hora_utc": "2025-09-27 18:07",
-    "mensaje": "💡Con servicio eléctrico los circuitos siguientes:\n👉Cto 31 SC Industrial\n👉Cto 194 Hospital Materno-Infantil",
-    "timestamp": 1758996455,
-    "timestamp_local": 1758996455
   }
 ]
