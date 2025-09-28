@@ -1,5 +1,37 @@
 [
   {
+    "id": 45102,
+    "fecha": "28 de Sep del 2025 a las 12:36 AM",
+    "hora_utc": "2025-09-28 04:36",
+    "mensaje": "🔴Circuito en avería:                                                                                                                        \n Sucede si un circuito se interrumpe por causa de un defecto en un cable conductor de corriente (fase o neutro), un fusible fundido o disyuntor. En sistemas trifásicos una falla puede implicar una fase, más de una fase con la tierra o puede ocurrir solo entre fases.",
+    "timestamp": 1759034183,
+    "timestamp_local": 1759034183
+  },
+  {
+    "id": 45101,
+    "fecha": "28 de Sep del 2025 a las 12:35 AM",
+    "hora_utc": "2025-09-28 04:35",
+    "mensaje": "🚨Le informamos a nuestros clientes que en estos momentos  se encuentran en avería los circuitos 22 y 15 .",
+    "timestamp": 1759034159,
+    "timestamp_local": 1759034159
+  },
+  {
+    "id": 45100,
+    "fecha": "28 de Sep del 2025 a las 12:34 AM",
+    "hora_utc": "2025-09-28 04:34",
+    "mensaje": "Disparo:  \nApertura no voluntaria de un interruptor como vía de protección para desconectar uno o varios elementos del circuito, subestación o sistema, restableciéndose el servicio rápidamente en dependencia de la causa.",
+    "timestamp": 1759034040,
+    "timestamp_local": 1759034040
+  },
+  {
+    "id": 45099,
+    "fecha": "28 de Sep del 2025 a las 12:31 AM",
+    "hora_utc": "2025-09-28 04:31",
+    "mensaje": "Estimados clientes en estos momentos se encuentran Disparados los circuitos  22, 15, 23 y 25.",
+    "timestamp": 1759033868,
+    "timestamp_local": 1759033868
+  },
+  {
     "id": 45097,
     "fecha": "27 de Sep del 2025 a las 11:40 PM",
     "hora_utc": "2025-09-28 03:40",
@@ -110,45 +142,5 @@
     "mensaje": "🔴Disparo Automático de Frecuencia (DAF):\nDisparo automático de frecuencia (DAF).  Es una protección que posee el sistema eléctrico, para cuando la frecuencia llega a valores mínimos permisibles que ponen en peligro la estabilidad de todo el sistema en su conjunto, provoca una desconexión automática de algunos circuitos hasta que ésta vuelva a recuperar su valor nominal a 60 Hz o ciclos por segundo..",
     "timestamp": 1759006825,
     "timestamp_local": 1759006825
-  },
-  {
-    "id": 45081,
-    "fecha": "27 de Sep del 2025 a las 05:00 PM",
-    "hora_utc": "2025-09-27 21:00",
-    "mensaje": "🔴Se les informa a nuestros clientes que se afecta por DAF el circuito 24 de Santiago.",
-    "timestamp": 1759006806,
-    "timestamp_local": 1759006806
-  },
-  {
-    "id": 45080,
-    "fecha": "27 de Sep del 2025 a las 04:59 PM",
-    "hora_utc": "2025-09-27 20:59",
-    "mensaje": "🔴Se les informa a nuestros clientes que se afecta por Déficit de Capacidad de Generación el circuito 14 de Santiago.",
-    "timestamp": 1759006762,
-    "timestamp_local": 1759006762
-  },
-  {
-    "id": 45079,
-    "fecha": "27 de Sep del 2025 a las 04:57 PM",
-    "hora_utc": "2025-09-27 20:57",
-    "mensaje": "🔴Se les informa a nuestros clientes que se afecta por Déficit de Capacidad de Generación el circuito 2 de Santiago.",
-    "timestamp": 1759006664,
-    "timestamp_local": 1759006664
-  },
-  {
-    "id": 45078,
-    "fecha": "27 de Sep del 2025 a las 04:33 PM",
-    "hora_utc": "2025-09-27 20:33",
-    "mensaje": "🔴Se les informa a nuestros clientes que se afecta por Déficit de Capacidad de Generación los circuitos 1 de Contramaestre y 12 de Santiago.",
-    "timestamp": 1759005237,
-    "timestamp_local": 1759005237
-  },
-  {
-    "id": 45077,
-    "fecha": "27 de Sep del 2025 a las 04:33 PM",
-    "hora_utc": "2025-09-27 20:33",
-    "mensaje": "🔴Se les informa a nuestros clientes que se afecta por Déficit de Capacidad de Generación el circuito 11 de Santiago.",
-    "timestamp": 1759005196,
-    "timestamp_local": 1759005196
   }
 ]
