@@ -1,5 +1,21 @@
 [
   {
+    "id": 45124,
+    "fecha": "28 de Sep del 2025 a las 07:55 AM",
+    "hora_utc": "2025-09-28 11:55",
+    "mensaje": "🔴Circuito en avería:                                                                                                                        \n Sucede si un circuito se interrumpe por causa de un defecto en un cable conductor de corriente (fase o neutro), un fusible fundido o disyuntor. En sistemas trifásicos una falla puede implicar una fase, más de una fase con la tierra o puede ocurrir solo entre fases.",
+    "timestamp": 1759060558,
+    "timestamp_local": 1759060558
+  },
+  {
+    "id": 45123,
+    "fecha": "28 de Sep del 2025 a las 07:55 AM",
+    "hora_utc": "2025-09-28 11:55",
+    "mensaje": "Estimados clientes en estos momentos se encuentra en Avería el circuito 25 .",
+    "timestamp": 1759060545,
+    "timestamp_local": 1759060545
+  },
+  {
     "id": 45122,
     "fecha": "28 de Sep del 2025 a las 07:31 AM",
     "hora_utc": "2025-09-28 11:31",
@@ -102,21 +118,5 @@
     "mensaje": "🔊Estimados clientes en estos momentos se afectaron por Déficit los circuitos 12 y 20.",
     "timestamp": 1759037397,
     "timestamp_local": 1759037397
-  },
-  {
-    "id": 45105,
-    "fecha": "28 de Sep del 2025 a las 01:24 AM",
-    "hora_utc": "2025-09-28 05:24",
-    "mensaje": "🔴Disparo:  \nApertura no voluntaria de un interruptor como vía de protección para desconectar uno o varios elementos del circuito, subestación o sistema, restableciéndose el servicio rápidamente en dependencia de la causa.",
-    "timestamp": 1759037088,
-    "timestamp_local": 1759037088
-  },
-  {
-    "id": 45104,
-    "fecha": "28 de Sep del 2025 a las 01:24 AM",
-    "hora_utc": "2025-09-28 05:24",
-    "mensaje": "🚨Estimados clientes en estos momentos se encuentra Disparado el circuito 21.",
-    "timestamp": 1759037070,
-    "timestamp_local": 1759037070
   }
 ]
