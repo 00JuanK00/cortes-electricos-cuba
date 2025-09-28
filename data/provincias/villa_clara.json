@@ -1,5 +1,29 @@
 [
   {
+    "id": 30690,
+    "fecha": "28 de Sep del 2025 a las 01:54 AM",
+    "hora_utc": "2025-09-28 05:54",
+    "mensaje": "⚠️Afectado por déficit de generación el circuito 166 Condado.",
+    "timestamp": 1759038863,
+    "timestamp_local": 1759038863
+  },
+  {
+    "id": 30689,
+    "fecha": "28 de Sep del 2025 a las 01:53 AM",
+    "hora_utc": "2025-09-28 05:53",
+    "mensaje": "💡Restablecido el servicio eléctrico en los circuitos siguientes:\n👉Municipio Manicaragua:\nCtos 109 y 150\nCtos 108 y 110 La Piedra\nCto 111 Mataguá",
+    "timestamp": 1759038810,
+    "timestamp_local": 1759038810
+  },
+  {
+    "id": 30688,
+    "fecha": "28 de Sep del 2025 a las 01:52 AM",
+    "hora_utc": "2025-09-28 05:52",
+    "mensaje": "⚠️Afectados por déficit de generación los siguientes circuitos:\n👉Municipio Santa Clara\nCto 7 (Universidad)  \nCto 146 (Elevado Aeropuerto) \nCto 22 (Construcciones Textil)\nCto 131 (Las Antillas)\nCto 153 (EIDE)",
+    "timestamp": 1759038725,
+    "timestamp_local": 1759038725
+  },
+  {
     "id": 30687,
     "fecha": "28 de Sep del 2025 a las 01:37 AM",
     "hora_utc": "2025-09-28 05:37",
@@ -134,29 +158,5 @@
     "mensaje": "💡Restablecido el servicio eléctrico en el circuito 30 Capiro.",
     "timestamp": 1759009298,
     "timestamp_local": 1759009298
-  },
-  {
-    "id": 30670,
-    "fecha": "27 de Sep del 2025 a las 05:40 PM",
-    "hora_utc": "2025-09-27 21:40",
-    "mensaje": "⚡Afectado por disparo el circuito 30 Capiro.",
-    "timestamp": 1759009259,
-    "timestamp_local": 1759009259
-  },
-  {
-    "id": 30669,
-    "fecha": "27 de Sep del 2025 a las 05:39 PM",
-    "hora_utc": "2025-09-27 21:39",
-    "mensaje": "🛠️Serán afectados por vía libre los circuitos siguientes:\n👉Cto 6 (Vigía)\n👉Cto 39 (Sandino)\n👉Cto 31 SC Industrial\n👉Cto 194 Hospital Materno-Infantil",
-    "timestamp": 1759009149,
-    "timestamp_local": 1759009149
-  },
-  {
-    "id": 30668,
-    "fecha": "27 de Sep del 2025 a las 04:25 PM",
-    "hora_utc": "2025-09-27 20:25",
-    "mensaje": "Actualización del servicio eléctrico en la provincia\n✍️Se mantienen afectados en la provincia 171 circuitos.\n✍️En el momento de hacer esta nota la provincia tiene 144 MW de afectación por déficit de capacidad de generación, demanda máxima posible a apagar.\n✍️Cuenta con 160 afectaciones por averías secundarias y de servicio.",
-    "timestamp": 1759004732,
-    "timestamp_local": 1759004732
   }
 ]
