@@ -1,5 +1,29 @@
 [
   {
+    "id": 32292,
+    "fecha": "28 de Sep del 2025 a las 04:31 PM",
+    "hora_utc": "2025-09-28 20:31",
+    "mensaje": "✅ Información.\n👉 Se restablecen los circuitos afectados por DAF.",
+    "timestamp": 1759091487,
+    "timestamp_local": 1759091487
+  },
+  {
+    "id": 32291,
+    "fecha": "28 de Sep del 2025 a las 04:22 PM",
+    "hora_utc": "2025-09-28 20:22",
+    "mensaje": "❌Un Disparo Automática por Frecuencia (DAF) es una protección que posee el sistema eléctrico para cuando la frecuencia llega a valores mínimos permisibles que ponen en peligro la estabilidad de todo el sistema en su conjunto y provoca una desconexión automática de algunos circuitos hasta que esta vuelva a recuperar su valor nominal a 60 Hz o ciclos por segundo. Esto ocurre al salir de forma imprevista o repentina una planta generadora con una potencia determinada y el sistema en su conjunto necesita liberar esa carga hasta tanto se puedan recuperar la potencia de generación perdida anteriormente o dar las afectaciones al servicio por déficit de generación.",
+    "timestamp": 1759090958,
+    "timestamp_local": 1759090958
+  },
+  {
+    "id": 32290,
+    "fecha": "28 de Sep del 2025 a las 04:21 PM",
+    "hora_utc": "2025-09-28 20:21",
+    "mensaje": "✅ Información.\n👉 Se encuentra disparado por DAF los siguientes circuitos Patria, Turiguano y San Fernando.",
+    "timestamp": 1759090864,
+    "timestamp_local": 1759090864
+  },
+  {
     "id": 32289,
     "fecha": "28 de Sep del 2025 a las 02:07 PM",
     "hora_utc": "2025-09-28 18:07",
@@ -126,29 +150,5 @@
     "mensaje": "‼️ Déficit de Generación ‼️   \n👉  Subimos a 70 MW en la provincia por déficit de generación.\n\n⏰ Reiteramos que los circuitos se afectarán o se restablecerán en dependencia del déficit solicitado en cada momento de la jornada que es muy variable.",
     "timestamp": 1759000841,
     "timestamp_local": 1759000841
-  },
-  {
-    "id": 32272,
-    "fecha": "27 de Sep del 2025 a las 03:12 PM",
-    "hora_utc": "2025-09-27 19:12",
-    "mensaje": "‼️ Déficit de Generación ‼️   \n👉  Subimos a 58 MW en la provincia por déficit de generación.\n💥Se afectan los siguientes circuitos:\n👉  Morón Norte y Micro Norte.\n⏰ Reiteramos que los circuitos se afectarán o se restablecerán en dependencia del déficit solicitado en cada momento de la jornada que es muy variable.",
-    "timestamp": 1759000379,
-    "timestamp_local": 1759000379
-  },
-  {
-    "id": 32271,
-    "fecha": "27 de Sep del 2025 a las 02:13 PM",
-    "hora_utc": "2025-09-27 18:13",
-    "mensaje": "‼️ Déficit de Generación ‼️   \n👉  Nos Mantenemos con  50 MW en la provincia por déficit de generación.\n💥Se afectan los siguientes circuitos:\n👉 1, 2, A102, A104, A106, Vicente, Venezuela , El Mambí, Jagüeyal, Baragua, Colorado, La Piña, La Teresa, El Burro, Sanguily, La Ofelia, Morón Centro, Patria, Turiguanó y Bolivia.\n⏰ Reiteramos que los circuitos se afectarán o se restablecerán en dependencia del déficit solicitado en cada momento de la jornada que es muy variable.",
-    "timestamp": 1758996795,
-    "timestamp_local": 1758996795
-  },
-  {
-    "id": 32269,
-    "fecha": "27 de Sep del 2025 a las 11:55 AM",
-    "hora_utc": "2025-09-27 15:55",
-    "mensaje": "‼️ Déficit de Generación ‼️   \n👉  Tenemos afectados 50 MW en la provincia por déficit de generación.\n💥Se afectan los siguientes circuitos:\n👉 3, Expreso, A110, Cítrico IV, Ceballos Pueblo, Majagua, Nereida, Peonia y Politécnico de Informática.\n⏰ Reiteramos que los circuitos se afectarán o se restablecerán en dependencia del déficit solicitado en cada momento de la jornada que es muy variable.",
-    "timestamp": 1758988511,
-    "timestamp_local": 1758988511
   }
 ]
