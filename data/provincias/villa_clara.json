@@ -1,5 +1,37 @@
 [
   {
+    "id": 30748,
+    "fecha": "28 de Sep del 2025 a las 05:40 PM",
+    "hora_utc": "2025-09-28 21:40",
+    "mensaje": "⚠️Serán afectados por déficit de capacidad de generación los circuitos siguientes:\nMunicipio Manicaragua:\n👉Ctos 109 y 150\n👉Ctos 108 y 110 La Piedra\n👉Cto 111 Mataguá",
+    "timestamp": 1759095652,
+    "timestamp_local": 1759095652
+  },
+  {
+    "id": 30747,
+    "fecha": "28 de Sep del 2025 a las 05:40 PM",
+    "hora_utc": "2025-09-28 21:40",
+    "mensaje": "⚠️Afectados por déficit de capacidad de generación los circuitos siguientes:\nMunicipio Encrucijada\n👉Cto 120 Calabazar\n👉Ctos 121 y 127 Perucho",
+    "timestamp": 1759095610,
+    "timestamp_local": 1759095610
+  },
+  {
+    "id": 30746,
+    "fecha": "28 de Sep del 2025 a las 05:10 PM",
+    "hora_utc": "2025-09-28 21:10",
+    "mensaje": "Restablecido parcialmente el circuito 111 (Mataguá), del municipio Manicaragua, quedando afectado Ramal de Jorobada.",
+    "timestamp": 1759093831,
+    "timestamp_local": 1759093831
+  },
+  {
+    "id": 30745,
+    "fecha": "28 de Sep del 2025 a las 05:07 PM",
+    "hora_utc": "2025-09-28 21:07",
+    "mensaje": "⚠️Afectados por déficit de capacidad de generación los circuitos 132 y 162 (Santa Clara Industrial)",
+    "timestamp": 1759093672,
+    "timestamp_local": 1759093672
+  },
+  {
     "id": 30744,
     "fecha": "28 de Sep del 2025 a las 04:53 PM",
     "hora_utc": "2025-09-28 20:53",
@@ -126,37 +158,5 @@
     "mensaje": "Con servicio el circuito 170 (José Martí) del municipio Santa Clara.",
     "timestamp": 1759083643,
     "timestamp_local": 1759083643
-  },
-  {
-    "id": 30728,
-    "fecha": "28 de Sep del 2025 a las 02:19 PM",
-    "hora_utc": "2025-09-28 18:19",
-    "mensaje": "💡Con servicio la línea 1915:\nMunicipio Placetas:\n👉Cto 192 Benito Juárez\n👉Cto 102 Peroti",
-    "timestamp": 1759083559,
-    "timestamp_local": 1759083559
-  },
-  {
-    "id": 30727,
-    "fecha": "28 de Sep del 2025 a las 02:17 PM",
-    "hora_utc": "2025-09-28 18:17",
-    "mensaje": "🛠️Afectado por Disparo Automático por Frecuencia (DAF) la línea 1915:\n🔸Afecta los siguientes circuitos:\nMunicipio Placetas:\n👉Cto 192 Benito Juárez\n👉Cto 102 Peroti",
-    "timestamp": 1759083458,
-    "timestamp_local": 1759083458
-  },
-  {
-    "id": 30726,
-    "fecha": "28 de Sep del 2025 a las 02:07 PM",
-    "hora_utc": "2025-09-28 18:07",
-    "mensaje": "Actualización del servicio eléctrico en la provincia\n✍️Se mantienen afectados en la provincia 130 circuitos.\n✍️En el momento de hacer esta nota la provincia tiene 113 MW de afectación por déficit de capacidad de generación, demanda máxima posible a apagar.\n✍️Cuenta con 187 afectaciones por averías secundarias y de servicio.",
-    "timestamp": 1759082837,
-    "timestamp_local": 1759082837
-  },
-  {
-    "id": 30725,
-    "fecha": "28 de Sep del 2025 a las 02:05 PM",
-    "hora_utc": "2025-09-28 18:05",
-    "mensaje": "💡Restablecido la línea 6585:\nMunicipio Camajuaní:\n👉Cto 75 La Quinta\n👉Cto 157 Luis Arcos Bergnes\n👉Ctos 76 y 90 Vega Alta\n👉Ctos 77, 59, 185 Vueltas",
-    "timestamp": 1759082747,
-    "timestamp_local": 1759082747
   }
 ]
