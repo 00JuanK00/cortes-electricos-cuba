@@ -1,5 +1,45 @@
 [
   {
+    "id": 30814,
+    "fecha": "29 de Sep del 2025 a las 09:13 AM",
+    "hora_utc": "2025-09-29 13:13",
+    "mensaje": "💡Restablecido el servicio eléctrico en los siguientes circuitos:\n🔹Municipio Santo Domingo:\n👉Cto 195 Batey George Washington\n👉Ctos 83 y 165 Manacas\n👉Ctos 85 y 86 Pajarito\n👉Ctos 160 y 161 Cascajal",
+    "timestamp": 1759151590,
+    "timestamp_local": 1759151590
+  },
+  {
+    "id": 30813,
+    "fecha": "29 de Sep del 2025 a las 09:11 AM",
+    "hora_utc": "2025-09-29 13:11",
+    "mensaje": "💡Restablecido el servicio eléctrico en el siguiente circuito:\n🔹Municipio Santa Clara\n👉Cto 153 (EIDE)",
+    "timestamp": 1759151471,
+    "timestamp_local": 1759151471
+  },
+  {
+    "id": 30812,
+    "fecha": "29 de Sep del 2025 a las 08:32 AM",
+    "hora_utc": "2025-09-29 12:32",
+    "mensaje": "⚠️Afectado por déficit de capacidad de generación el siguiente circuito:\n🔹Municipio Santa Clara:\n**👉Cto 169 Gran Panel**",
+    "timestamp": 1759149124,
+    "timestamp_local": 1759149124
+  },
+  {
+    "id": 30811,
+    "fecha": "29 de Sep del 2025 a las 08:22 AM",
+    "hora_utc": "2025-09-29 12:22",
+    "mensaje": "Actualización del servicio eléctrico en la provincia\n✍️Se mantienen afectados en la provincia 157 circuitos.\n✍️En el momento de hacer esta nota la provincia tiene 113 MW de afectación por déficit de capacidad de generación, demanda máxima posible a apagar.\n✍️Cuenta con 176 afectaciones por averías secundarias y de servicio.",
+    "timestamp": 1759148535,
+    "timestamp_local": 1759148535
+  },
+  {
+    "id": 30810,
+    "fecha": "29 de Sep del 2025 a las 08:21 AM",
+    "hora_utc": "2025-09-29 12:21",
+    "mensaje": "💡Restablecidos los circuitos siguientes:\n🔹Municipio Placetas:\n👉Cto 192 Benito Juárez\n👉Cto 102 Peroti",
+    "timestamp": 1759148464,
+    "timestamp_local": 1759148464
+  },
+  {
     "id": 30809,
     "fecha": "29 de Sep del 2025 a las 07:39 AM",
     "hora_utc": "2025-09-29 11:39",
@@ -118,45 +158,5 @@
     "mensaje": "⚠️Afectado por déficit de capacidad de generación el circuito 153 (EIDE), del municipio Santa Clara, perteneciente al bloque 3.",
     "timestamp": 1759135738,
     "timestamp_local": 1759135738
-  },
-  {
-    "id": 30794,
-    "fecha": "29 de Sep del 2025 a las 04:14 AM",
-    "hora_utc": "2025-09-29 08:14",
-    "mensaje": "Actualización del servicio eléctrico en la provincia\n✍️Se mantienen afectados en la provincia 174 circuitos.\n✍️En el momento de hacer esta nota la provincia tiene 123 MW de afectación por déficit de capacidad de generación, demanda máxima posible a apagar.\n✍️Cuenta con 165 afectaciones por averías secundarias y de servicio.",
-    "timestamp": 1759133697,
-    "timestamp_local": 1759133697
-  },
-  {
-    "id": 30793,
-    "fecha": "29 de Sep del 2025 a las 04:11 AM",
-    "hora_utc": "2025-09-29 08:11",
-    "mensaje": "⚠️Afectados por déficit de capacidad de generación los circuitos siguientes:\n🔹Bloque 5\nMunicipio Santo Domingo:\n👉Cto 134\n👉Ctos 87 y 96 Bermejal\n👉Cto 187 Batey Carlos Baliño\n👉Cto 82 Ulacia\n👉Cto 84 Rodrigo",
-    "timestamp": 1759133476,
-    "timestamp_local": 1759133476
-  },
-  {
-    "id": 30792,
-    "fecha": "29 de Sep del 2025 a las 04:10 AM",
-    "hora_utc": "2025-09-29 08:10",
-    "mensaje": "💡Restablecidos los circuitos siguientes:\n🔹Bloque 4\nMunicipio Encrucijada:\n👉Cto 122 Encrucijada \n👉Cto 123 Vizcaya \n👉Cto 142 Comunidad La Sierra \n👉Cto 126 Batey Emilio Córdova\n👉Cto 125 Cavarrocas\n👉Cto 124 El Santo\nMunicipio Camajuaní:\n👉Cto 78 Jutiero",
-    "timestamp": 1759133403,
-    "timestamp_local": 1759133403
-  },
-  {
-    "id": 30791,
-    "fecha": "29 de Sep del 2025 a las 04:05 AM",
-    "hora_utc": "2025-09-29 08:05",
-    "mensaje": "Restablecidos en su totalidad los circuitos 162 y 132 (Santa Clara Industrial)",
-    "timestamp": 1759133148,
-    "timestamp_local": 1759133148
-  },
-  {
-    "id": 30790,
-    "fecha": "29 de Sep del 2025 a las 03:11 AM",
-    "hora_utc": "2025-09-29 07:11",
-    "mensaje": "💡Restablecidos los circuitos siguientes:\n🔹Bloque 1\nMunicipio Encrucijada\n👉Cto 120 Calabazar\n👉Ctos 121 y 127 Perucho",
-    "timestamp": 1759129881,
-    "timestamp_local": 1759129881
   }
 ]
