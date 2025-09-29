@@ -1,5 +1,45 @@
 [
   {
+    "id": 30819,
+    "fecha": "29 de Sep del 2025 a las 09:40 AM",
+    "hora_utc": "2025-09-29 13:40",
+    "mensaje": "⚠️Afectados por déficit de capacidad de generación los siguientes circuitos:\n🔹Municipio Sagua\n👉Cto 48 Finalet\n👉Ctos 46 y 128 Sitiecito",
+    "timestamp": 1759153217,
+    "timestamp_local": 1759153217
+  },
+  {
+    "id": 30818,
+    "fecha": "29 de Sep del 2025 a las 09:38 AM",
+    "hora_utc": "2025-09-29 13:38",
+    "mensaje": "💡Restablecido el servicio eléctrico en el siguiente circuito:\n🔹Municipio Santa Clara\n👉Ctos 1 (Consejo- Centro)",
+    "timestamp": 1759153098,
+    "timestamp_local": 1759153098
+  },
+  {
+    "id": 30817,
+    "fecha": "29 de Sep del 2025 a las 09:36 AM",
+    "hora_utc": "2025-09-29 13:36",
+    "mensaje": "💡Restablecido el servicio eléctrico en los siguientes circuitos:\n🔹Municipio Placetas \n👉Ctos 100 y 151 Placetas\n👉Cto 104 Hermanos Amejeiras\n👉Cto 103 Batey Carbó Servía",
+    "timestamp": 1759153010,
+    "timestamp_local": 1759153010
+  },
+  {
+    "id": 30816,
+    "fecha": "29 de Sep del 2025 a las 09:24 AM",
+    "hora_utc": "2025-09-29 13:24",
+    "mensaje": "Afectados 118 MW en la provincia, demanda máxima a apagar en estos momentos.",
+    "timestamp": 1759152264,
+    "timestamp_local": 1759152264
+  },
+  {
+    "id": 30815,
+    "fecha": "29 de Sep del 2025 a las 09:16 AM",
+    "hora_utc": "2025-09-29 13:16",
+    "mensaje": "⚠️Afectados por déficit de capacidad de generación los siguientes circuitos:\n🔹Municipio Santa Clara:\n👉Ctos 1, 2, 4 (Consejo- Centro)",
+    "timestamp": 1759151817,
+    "timestamp_local": 1759151817
+  },
+  {
     "id": 30814,
     "fecha": "29 de Sep del 2025 a las 09:13 AM",
     "hora_utc": "2025-09-29 13:13",
@@ -118,45 +158,5 @@
     "mensaje": "💡Restablecidos los circuitos siguientes:\n🔹Bloque 8\nMunicipio Sagua:\n👉Ctos 43 y 51\n👉Ctos 50 y 147 Villa Alegre \n👉Cto 44 Isabela",
     "timestamp": 1759140423,
     "timestamp_local": 1759140423
-  },
-  {
-    "id": 30799,
-    "fecha": "29 de Sep del 2025 a las 06:05 AM",
-    "hora_utc": "2025-09-29 10:05",
-    "mensaje": "⚠️Afectados por déficit de capacidad de generación los circuitos siguientes:\n🔹Bloque 1\nMunicipio Manicaragua:\n👉Ctos 109 y 150\n👉Ctos 108 y 110 La Piedra\n👉Cto 111 Mataguá",
-    "timestamp": 1759140318,
-    "timestamp_local": 1759140318
-  },
-  {
-    "id": 30798,
-    "fecha": "29 de Sep del 2025 a las 05:03 AM",
-    "hora_utc": "2025-09-29 09:03",
-    "mensaje": "Ante la compleja situación actual, con altos niveles de déficit de capacidad de generación, no se podrá  cumplir con la planificación establecida correspondiente al bloque 6. El restablecimiento del servicio eléctrico dependerá del comportamiento, la demanda y la disponibilidad del sistema eléctrico.",
-    "timestamp": 1759136627,
-    "timestamp_local": 1759136627
-  },
-  {
-    "id": 30797,
-    "fecha": "29 de Sep del 2025 a las 04:51 AM",
-    "hora_utc": "2025-09-29 08:51",
-    "mensaje": "💡Restablecidos los circuitos 6 (Vigía) y 39 (Sandino), del municipio Santa Clara, perteneciente al bloque 9.",
-    "timestamp": 1759135890,
-    "timestamp_local": 1759135890
-  },
-  {
-    "id": 30796,
-    "fecha": "29 de Sep del 2025 a las 04:49 AM",
-    "hora_utc": "2025-09-29 08:49",
-    "mensaje": "⚠️Afectado por déficit de capacidad de generación el circuito 15 (Maleza), del municipio Santa Clara, perteneciente al bloque 10.",
-    "timestamp": 1759135793,
-    "timestamp_local": 1759135793
-  },
-  {
-    "id": 30795,
-    "fecha": "29 de Sep del 2025 a las 04:48 AM",
-    "hora_utc": "2025-09-29 08:48",
-    "mensaje": "⚠️Afectado por déficit de capacidad de generación el circuito 153 (EIDE), del municipio Santa Clara, perteneciente al bloque 3.",
-    "timestamp": 1759135738,
-    "timestamp_local": 1759135738
   }
 ]
