@@ -1,5 +1,45 @@
 [
   {
+    "id": 30803,
+    "fecha": "29 de Sep del 2025 a las 06:33 AM",
+    "hora_utc": "2025-09-29 10:33",
+    "mensaje": "Ante a la compleja situación actual, con alto niveles de déficit de capacidad de generación, no se podrá  cumplir con la planificación de los bloques establecidas para la provincia, por tanto, los circuitos se afectaran o se restablecerán en dependencia del déficit y la demanda máxima en cada momento de la jornada, que puede llegar hacer muy variable.\nCon esta condición, no es posible establecer horario ni tiempo de afectación.",
+    "timestamp": 1759142013,
+    "timestamp_local": 1759142013
+  },
+  {
+    "id": 30802,
+    "fecha": "29 de Sep del 2025 a las 06:31 AM",
+    "hora_utc": "2025-09-29 10:31",
+    "mensaje": "🛠️Afectada por emergencia la línea 1205:\nAfecta los siguientes circuitos:\nMunicipio Sagua:\n👉Ctos 43 y 51\n👉Ctos 50 y 147 Villa Alegre \n👉Cto 44 Isabela",
+    "timestamp": 1759141894,
+    "timestamp_local": 1759141894
+  },
+  {
+    "id": 30801,
+    "fecha": "29 de Sep del 2025 a las 06:14 AM",
+    "hora_utc": "2025-09-29 10:14",
+    "mensaje": "🕕Actualización del servicio eléctrico en las últimas 6 horas.\n👉El déficit de capacidad de generación osciló entre los 174 MW y los 129 MW.\n👉En el momento de esta nota, se mantienen afectados 174 circuitos.\n👉Cuenta con 192 afectaciones por averías secundarias y de servicio:\n🔸Caibarién (1)\n🔸Camajuaní (2)\n🔸Encrucijada (6)\n🔸Manicaragua (6)\n🔸Placetas (4)\n🔸Quemado (2)\n🔸Ranchuelo (3)\n🔸Remedios (15) \n🔸Santa Clara (120)\n🔸Santo Domingo (10)\n🛠️Se encuentran 3 averías en vías de solución.\n🛠️Pendientes a solucionar por el área técnica 22.\n⚡La provincia presenta 3 averías primarias:\n🔸Cto 74 (José María Pérez) del municipio Camajuaní, afectado el Banco de Semillas y Lobaton.(Afectado en este momento por déficit de capacidad de generación)\n🔸Cto 108 (La Piedra), del municipio Manicaragua, afectado parcialmente por spanes primarios de línea partidos en Ramal Boquerones.(Afectado en este momento por déficit de capacidad de generación)\n🔸Cto 111 (Mataguá), del municipio Manicaragua, quedando afectado Ramal de Jorobada.(Afectado en este momento por déficit de capacidad de generación)",
+    "timestamp": 1759140842,
+    "timestamp_local": 1759140842
+  },
+  {
+    "id": 30800,
+    "fecha": "29 de Sep del 2025 a las 06:07 AM",
+    "hora_utc": "2025-09-29 10:07",
+    "mensaje": "💡Restablecidos los circuitos siguientes:\n🔹Bloque 8\nMunicipio Sagua:\n👉Ctos 43 y 51\n👉Ctos 50 y 147 Villa Alegre \n👉Cto 44 Isabela",
+    "timestamp": 1759140423,
+    "timestamp_local": 1759140423
+  },
+  {
+    "id": 30799,
+    "fecha": "29 de Sep del 2025 a las 06:05 AM",
+    "hora_utc": "2025-09-29 10:05",
+    "mensaje": "⚠️Afectados por déficit de capacidad de generación los circuitos siguientes:\n🔹Bloque 1\nMunicipio Manicaragua:\n👉Ctos 109 y 150\n👉Ctos 108 y 110 La Piedra\n👉Cto 111 Mataguá",
+    "timestamp": 1759140318,
+    "timestamp_local": 1759140318
+  },
+  {
     "id": 30798,
     "fecha": "29 de Sep del 2025 a las 05:03 AM",
     "hora_utc": "2025-09-29 09:03",
@@ -118,45 +158,5 @@
     "mensaje": "🛠️Afectados parcialmente los circuitos 162 y 132 (Santa Clara Industrial) por puentes abiertos.",
     "timestamp": 1759125515,
     "timestamp_local": 1759125515
-  },
-  {
-    "id": 30783,
-    "fecha": "29 de Sep del 2025 a las 01:30 AM",
-    "hora_utc": "2025-09-29 05:30",
-    "mensaje": "💡Restablecidos los circuitos siguientes:\n🔹Bloque 2\nMunicipio Camajuaní:\n👉Cto 75 La Quinta\n👉Cto 157 Luis Arcos Bergnes\n👉Ctos 76 y 90 Vega Alta\n👉Ctos 77, 59, 185 Vueltas",
-    "timestamp": 1759123858,
-    "timestamp_local": 1759123858
-  },
-  {
-    "id": 30782,
-    "fecha": "29 de Sep del 2025 a las 01:16 AM",
-    "hora_utc": "2025-09-29 05:16",
-    "mensaje": "💡Restablecidos los circuitos siguientes:\nMunicipio Santo Domingo:\n🔹Bloque 5\n👉Cto 134\n👉Ctos 87 y 96 Bermejal\n👉Cto 187 Batey Carlos Baliño\n👉Cto 82 Ulacia\n👉Cto 84 Rodrigo",
-    "timestamp": 1759123005,
-    "timestamp_local": 1759123005
-  },
-  {
-    "id": 30781,
-    "fecha": "29 de Sep del 2025 a las 01:13 AM",
-    "hora_utc": "2025-09-29 05:13",
-    "mensaje": "⚠️Afectados por déficit de capacidad de generación los circuitos siguientes:\n🔹Bloque 11\nMunicipio Quemado:\n👉Ctos 164, 52 y 53 Quemado.\n👉Cto 196 Batey Panchito Gómez Toro.",
-    "timestamp": 1759122791,
-    "timestamp_local": 1759122791
-  },
-  {
-    "id": 30780,
-    "fecha": "29 de Sep del 2025 a las 01:10 AM",
-    "hora_utc": "2025-09-29 05:10",
-    "mensaje": "⚠️Quedará afectado luego del disparo por déficit de capacidad de generación el circuito 31 (Sakenaf) del municipio Santa Clara.",
-    "timestamp": 1759122607,
-    "timestamp_local": 1759122607
-  },
-  {
-    "id": 30779,
-    "fecha": "29 de Sep del 2025 a las 01:08 AM",
-    "hora_utc": "2025-09-29 05:08",
-    "mensaje": "✍️ Restablecidos los circuitos 30 (Capiro-Santa Catalina), 132, 162, 194 (Santa Clara Industrial).",
-    "timestamp": 1759122522,
-    "timestamp_local": 1759122522
   }
 ]
