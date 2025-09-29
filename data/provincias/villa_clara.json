@@ -1,5 +1,29 @@
 [
   {
+    "id": 30824,
+    "fecha": "29 de Sep del 2025 a las 10:57 AM",
+    "hora_utc": "2025-09-29 14:57",
+    "mensaje": "⚡Será afectado por manipulación el siguiente circuito:\n🔹Municipio Santa Clara:\n👉Cto 166 (Condado)",
+    "timestamp": 1759157862,
+    "timestamp_local": 1759157862
+  },
+  {
+    "id": 30823,
+    "fecha": "29 de Sep del 2025 a las 10:57 AM",
+    "hora_utc": "2025-09-29 14:57",
+    "mensaje": "💡Restablecido el servicio eléctrico en los siguientes circuitos:\n🔸Municipio Santa Clara:\n👉Ctos 2 y 4 (Consejo- Centro)",
+    "timestamp": 1759157823,
+    "timestamp_local": 1759157823
+  },
+  {
+    "id": 30822,
+    "fecha": "29 de Sep del 2025 a las 10:55 AM",
+    "hora_utc": "2025-09-29 14:55",
+    "mensaje": "⚠️Afectado por déficit de capacidad de generación el siguiente circuito:\n🔹Municipio Santa Clara:\n👉Cto 27 (Maleza)\n🔹Municipio Encrucijada\n👉Cto 120 Calabazar\n👉Ctos 121 y 127 Perucho\n🔹Municipio Camajuaní:\n👉Ctos 72, 129, 73 y 156 \n👉Cto 74 José María Pérez",
+    "timestamp": 1759157752,
+    "timestamp_local": 1759157752
+  },
+  {
     "id": 30821,
     "fecha": "29 de Sep del 2025 a las 10:04 AM",
     "hora_utc": "2025-09-29 14:04",
@@ -134,29 +158,5 @@
     "mensaje": "💡Restablecido el circuito 170 (José Martí), del municipio Santa Clara, perteneciente al bloque 3.",
     "timestamp": 1759144627,
     "timestamp_local": 1759144627
-  },
-  {
-    "id": 30804,
-    "fecha": "29 de Sep del 2025 a las 06:49 AM",
-    "hora_utc": "2025-09-29 10:49",
-    "mensaje": "💡Restablecidos los circuitos siguientes:\n🔹Bloque 7\nMunicipio Camajuaní:\n👉Ctos 72, 129, 73 y 156 \n👉Cto 74 José María Pérez",
-    "timestamp": 1759142960,
-    "timestamp_local": 1759142960
-  },
-  {
-    "id": 30803,
-    "fecha": "29 de Sep del 2025 a las 06:33 AM",
-    "hora_utc": "2025-09-29 10:33",
-    "mensaje": "Ante a la compleja situación actual, con alto niveles de déficit de capacidad de generación, no se podrá  cumplir con la planificación de los bloques establecidas para la provincia, por tanto, los circuitos se afectaran o se restablecerán en dependencia del déficit y la demanda máxima en cada momento de la jornada, que puede llegar hacer muy variable.\nCon esta condición, no es posible establecer horario ni tiempo de afectación.",
-    "timestamp": 1759142013,
-    "timestamp_local": 1759142013
-  },
-  {
-    "id": 30802,
-    "fecha": "29 de Sep del 2025 a las 06:31 AM",
-    "hora_utc": "2025-09-29 10:31",
-    "mensaje": "🛠️Afectada por emergencia la línea 1205:\nAfecta los siguientes circuitos:\nMunicipio Sagua:\n👉Ctos 43 y 51\n👉Ctos 50 y 147 Villa Alegre \n👉Cto 44 Isabela",
-    "timestamp": 1759141894,
-    "timestamp_local": 1759141894
   }
 ]
