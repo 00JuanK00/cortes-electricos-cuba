@@ -1,5 +1,53 @@
 [
   {
+    "id": 30783,
+    "fecha": "29 de Sep del 2025 a las 01:30 AM",
+    "hora_utc": "2025-09-29 05:30",
+    "mensaje": "💡Restablecidos los circuitos siguientes:\nMunicipio Camajuaní:\n👉Cto 75 La Quinta\n👉Cto 157 Luis Arcos Bergnes\n👉Ctos 76 y 90 Vega Alta\n👉Ctos 77, 59, 185 Vueltas",
+    "timestamp": 1759123858,
+    "timestamp_local": 1759123858
+  },
+  {
+    "id": 30782,
+    "fecha": "29 de Sep del 2025 a las 01:16 AM",
+    "hora_utc": "2025-09-29 05:16",
+    "mensaje": "💡Restablecidos los circuitos siguientes:\nMunicipio Santo Domingo:\n👉Cto 134\n👉Ctos 87 y 96 Bermejal\n👉Cto 187 Batey Carlos Baliño\n👉Cto 82 Ulacia\n👉Cto 84 Rodrigo",
+    "timestamp": 1759123005,
+    "timestamp_local": 1759123005
+  },
+  {
+    "id": 30781,
+    "fecha": "29 de Sep del 2025 a las 01:13 AM",
+    "hora_utc": "2025-09-29 05:13",
+    "mensaje": "⚠️Afectados por déficit de capacidad de generación los circuitos siguientes:\nMunicipio Quemado:\n👉Ctos 164, 52 y 53 Quemado.\n👉Cto 196 Batey Panchito Gómez Toro.",
+    "timestamp": 1759122791,
+    "timestamp_local": 1759122791
+  },
+  {
+    "id": 30780,
+    "fecha": "29 de Sep del 2025 a las 01:10 AM",
+    "hora_utc": "2025-09-29 05:10",
+    "mensaje": "⚠️Quedará afectado luego del disparo por déficit de capacidad de generación el circuito 31 (Sakenaf) del municipio Santa Clara.",
+    "timestamp": 1759122607,
+    "timestamp_local": 1759122607
+  },
+  {
+    "id": 30779,
+    "fecha": "29 de Sep del 2025 a las 01:08 AM",
+    "hora_utc": "2025-09-29 05:08",
+    "mensaje": "✍️ Restablecidos los circuitos 30 (Capiro-Santa Catalina), 132, 162, 194 (Santa Clara Industrial).",
+    "timestamp": 1759122522,
+    "timestamp_local": 1759122522
+  },
+  {
+    "id": 30778,
+    "fecha": "29 de Sep del 2025 a las 01:01 AM",
+    "hora_utc": "2025-09-29 05:01",
+    "mensaje": "🛠️ Afectados por disparo los circuitos 30 (Capiro-Santa Catalina), 132, 162 (Santa Clara Industrial) y circuito 31 (Sakenaf). Se estudian las causas.",
+    "timestamp": 1759122084,
+    "timestamp_local": 1759122084
+  },
+  {
     "id": 30777,
     "fecha": "29 de Sep del 2025 a las 12:42 AM",
     "hora_utc": "2025-09-29 04:42",
@@ -110,53 +158,5 @@
     "mensaje": "💡Restablecidos los circuitos siguientes:\nMunicipio Santa Clara\n👉Cto 7 (Universidad)  \n👉Cto 146 (Elevado Aeropuerto) \n👉Cto 22 (Construcciones Textil)\n👉Cto 131 (Las Antillas)\n👉Cto 153 (EIDE)",
     "timestamp": 1759104300,
     "timestamp_local": 1759104300
-  },
-  {
-    "id": 30763,
-    "fecha": "28 de Sep del 2025 a las 08:02 PM",
-    "hora_utc": "2025-09-29 00:02",
-    "mensaje": "⚠️Afectado por déficit de capacidad de generación el circuito 170 (José Martí), del municipio Santa Clara.",
-    "timestamp": 1759104175,
-    "timestamp_local": 1759104175
-  },
-  {
-    "id": 30762,
-    "fecha": "28 de Sep del 2025 a las 07:53 PM",
-    "hora_utc": "2025-09-28 23:53",
-    "mensaje": "💡Restablecido el circuito 2 (Consejo-Centro), del municipio Santa Clara.",
-    "timestamp": 1759103580,
-    "timestamp_local": 1759103580
-  },
-  {
-    "id": 30761,
-    "fecha": "28 de Sep del 2025 a las 07:39 PM",
-    "hora_utc": "2025-09-28 23:39",
-    "mensaje": "💡Restablecidos los circuitos 132 y 162 (Santa Clara Industrial)",
-    "timestamp": 1759102789,
-    "timestamp_local": 1759102789
-  },
-  {
-    "id": 30760,
-    "fecha": "28 de Sep del 2025 a las 07:38 PM",
-    "hora_utc": "2025-09-28 23:38",
-    "mensaje": "⚠️Afectados por déficit de capacidad de generación los circuitos siguientes:\nMunicipio Ranchuelo:\n👉Cto 92 Esperanza (Pueblo)\n👉Cto 93 Esperanza (Campo)\n👉Cto 54 94 y 95 Jicotea",
-    "timestamp": 1759102720,
-    "timestamp_local": 1759102720
-  },
-  {
-    "id": 30759,
-    "fecha": "28 de Sep del 2025 a las 07:22 PM",
-    "hora_utc": "2025-09-28 23:22",
-    "mensaje": "⚠️Afectados por déficit de capacidad de generación los circuitos 6 (Vigía) y 39 (Sandino), del municipio Santa Clara.",
-    "timestamp": 1759101770,
-    "timestamp_local": 1759101770
-  },
-  {
-    "id": 30758,
-    "fecha": "28 de Sep del 2025 a las 06:51 PM",
-    "hora_utc": "2025-09-28 22:51",
-    "mensaje": "Afectados 174 MW en la provincia, demanda máxima a apagar en estos momentos.",
-    "timestamp": 1759099903,
-    "timestamp_local": 1759099903
   }
 ]
