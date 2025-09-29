@@ -1,5 +1,21 @@
 [
   {
+    "id": 30786,
+    "fecha": "29 de Sep del 2025 a las 02:08 AM",
+    "hora_utc": "2025-09-29 06:08",
+    "mensaje": "Actualización del servicio eléctrico en la provincia\n✍️Se mantienen afectados en la provincia 174 circuitos.\n✍️En el momento de hacer esta nota la provincia tiene 131 MW de afectación por déficit de capacidad de generación, demanda máxima posible a apagar.\n✍️Cuenta con 165 afectaciones por averías secundarias y de servicio.",
+    "timestamp": 1759126101,
+    "timestamp_local": 1759126101
+  },
+  {
+    "id": 30785,
+    "fecha": "29 de Sep del 2025 a las 02:02 AM",
+    "hora_utc": "2025-09-29 06:02",
+    "mensaje": "💡Restablecido el circuito 31 (Sakenaf), del municipio Santa Clara.",
+    "timestamp": 1759125738,
+    "timestamp_local": 1759125738
+  },
+  {
     "id": 30784,
     "fecha": "29 de Sep del 2025 a las 01:58 AM",
     "hora_utc": "2025-09-29 05:58",
@@ -11,7 +27,7 @@
     "id": 30783,
     "fecha": "29 de Sep del 2025 a las 01:30 AM",
     "hora_utc": "2025-09-29 05:30",
-    "mensaje": "💡Restablecidos los circuitos siguientes:\nMunicipio Camajuaní:\n👉Cto 75 La Quinta\n👉Cto 157 Luis Arcos Bergnes\n👉Ctos 76 y 90 Vega Alta\n👉Ctos 77, 59, 185 Vueltas",
+    "mensaje": "💡Restablecidos los circuitos siguientes:\n🔹Bloque 2\nMunicipio Camajuaní:\n👉Cto 75 La Quinta\n👉Cto 157 Luis Arcos Bergnes\n👉Ctos 76 y 90 Vega Alta\n👉Ctos 77, 59, 185 Vueltas",
     "timestamp": 1759123858,
     "timestamp_local": 1759123858
   },
@@ -19,7 +35,7 @@
     "id": 30782,
     "fecha": "29 de Sep del 2025 a las 01:16 AM",
     "hora_utc": "2025-09-29 05:16",
-    "mensaje": "💡Restablecidos los circuitos siguientes:\nMunicipio Santo Domingo:\n👉Cto 134\n👉Ctos 87 y 96 Bermejal\n👉Cto 187 Batey Carlos Baliño\n👉Cto 82 Ulacia\n👉Cto 84 Rodrigo",
+    "mensaje": "💡Restablecidos los circuitos siguientes:\nMunicipio Santo Domingo:\n🔹Bloque 5\n👉Cto 134\n👉Ctos 87 y 96 Bermejal\n👉Cto 187 Batey Carlos Baliño\n👉Cto 82 Ulacia\n👉Cto 84 Rodrigo",
     "timestamp": 1759123005,
     "timestamp_local": 1759123005
   },
@@ -27,7 +43,7 @@
     "id": 30781,
     "fecha": "29 de Sep del 2025 a las 01:13 AM",
     "hora_utc": "2025-09-29 05:13",
-    "mensaje": "⚠️Afectados por déficit de capacidad de generación los circuitos siguientes:\nMunicipio Quemado:\n👉Ctos 164, 52 y 53 Quemado.\n👉Cto 196 Batey Panchito Gómez Toro.",
+    "mensaje": "⚠️Afectados por déficit de capacidad de generación los circuitos siguientes:\n🔹Bloque 11\nMunicipio Quemado:\n👉Ctos 164, 52 y 53 Quemado.\n👉Cto 196 Batey Panchito Gómez Toro.",
     "timestamp": 1759122791,
     "timestamp_local": 1759122791
   },
@@ -142,21 +158,5 @@
     "mensaje": "💡Restablecidos los circuitos 98 y 99 del municipio Placetas.",
     "timestamp": 1759108113,
     "timestamp_local": 1759108113
-  },
-  {
-    "id": 30766,
-    "fecha": "28 de Sep del 2025 a las 08:53 PM",
-    "hora_utc": "2025-09-29 00:53",
-    "mensaje": "Actualización del servicio eléctrico en la provincia\n✍️Se mantienen afectados en la provincia 174 circuitos.\n✍️En el momento de hacer esta nota la provincia tiene 173 MW de afectación por déficit de capacidad de generación, demanda máxima posible a apagar.\n✍️Cuenta con 167 afectaciones por averías secundarias y de servicio.",
-    "timestamp": 1759107224,
-    "timestamp_local": 1759107224
-  },
-  {
-    "id": 30765,
-    "fecha": "28 de Sep del 2025 a las 08:37 PM",
-    "hora_utc": "2025-09-29 00:37",
-    "mensaje": "💡Restablecidos los circuitos siguientes:\nMunicipio Santa Clara:\n👉Cto 5 (Dobarganes)\n👉Cto 17 (Subplanta) \n👉Ctos 37 y 38 (Yabú)   \n👉Cto 9 (Moldes y Troqueles)\n👉Cto 133 (Cafetera)",
-    "timestamp": 1759106243,
-    "timestamp_local": 1759106243
   }
 ]
