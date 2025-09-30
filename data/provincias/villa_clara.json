@@ -1,5 +1,29 @@
 [
   {
+    "id": 30898,
+    "fecha": "30 de Sep del 2025 a las 07:43 AM",
+    "hora_utc": "2025-09-30 11:43",
+    "mensaje": "Afectados 111 MW en la provincia, demanda máxima a apagar en estos momentos.",
+    "timestamp": 1759232610,
+    "timestamp_local": 1759232610
+  },
+  {
+    "id": 30896,
+    "fecha": "30 de Sep del 2025 a las 07:14 AM",
+    "hora_utc": "2025-09-30 11:14",
+    "mensaje": "💡Será restablecido el servicio eléctrico en los siguientes circuitos:\n🔸Municipio Encrucijada:\n👉Cto 122 Encrucijada \n👉Cto 123 Vizcaya \n👉Cto 142 Comunidad La Sierra \n👉Cto 126 Batey Emilio Córdova\n👉Cto 125 Cavarrocas\n👉Cto 124 El Santo\n🔸Municipio Camajuaní:\n👉Cto 78 Jutiero",
+    "timestamp": 1759230892,
+    "timestamp_local": 1759230892
+  },
+  {
+    "id": 30895,
+    "fecha": "30 de Sep del 2025 a las 07:01 AM",
+    "hora_utc": "2025-09-30 11:01",
+    "mensaje": "Afectados 111 MW en la provincia, demanda máxima a apagar en estos momentos.",
+    "timestamp": 1759230095,
+    "timestamp_local": 1759230095
+  },
+  {
     "id": 30894,
     "fecha": "30 de Sep del 2025 a las 06:48 AM",
     "hora_utc": "2025-09-30 10:48",
@@ -118,37 +142,5 @@
     "mensaje": "💡Restablecido el servicio eléctrico en el siguiente circuito:\n🔸Municipio Santa Clara:\n👉Cto 4 (Centro)",
     "timestamp": 1759202812,
     "timestamp_local": 1759202812
-  },
-  {
-    "id": 30878,
-    "fecha": "29 de Sep del 2025 a las 11:00 PM",
-    "hora_utc": "2025-09-30 03:00",
-    "mensaje": "Afectados 129 MW en la provincia, demanda máxima a apagar en estos momentos.",
-    "timestamp": 1759201232,
-    "timestamp_local": 1759201232
-  },
-  {
-    "id": 30877,
-    "fecha": "29 de Sep del 2025 a las 10:58 PM",
-    "hora_utc": "2025-09-30 02:58",
-    "mensaje": "⚠️Disparado el Cto 4 (Centro), perteneciente al municipio Santa Clara.",
-    "timestamp": 1759201086,
-    "timestamp_local": 1759201086
-  },
-  {
-    "id": 30876,
-    "fecha": "29 de Sep del 2025 a las 10:27 PM",
-    "hora_utc": "2025-09-30 02:27",
-    "mensaje": "💡Será restablecido el servicio eléctrico en los siguientes circuitos:\n🔸Municipio Santa Clara:\n👉Ctos 1, 2, 4 (Consejo- Centro)",
-    "timestamp": 1759199230,
-    "timestamp_local": 1759199230
-  },
-  {
-    "id": 30875,
-    "fecha": "29 de Sep del 2025 a las 10:08 PM",
-    "hora_utc": "2025-09-30 02:08",
-    "mensaje": "Actualización del servicio eléctrico en la provincia\n✍️Se mantienen afectados en la provincia 143 circuitos.\n✍️En el momento de hacer esta nota la provincia tiene 134 MW de afectación por déficit de capacidad de generación, demanda máxima posible a apagar.\n✍️Cuenta con 149 afectaciones por averías secundarias y de servicio.",
-    "timestamp": 1759198098,
-    "timestamp_local": 1759198098
   }
 ]
