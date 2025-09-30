@@ -1,5 +1,21 @@
 [
   {
+    "id": 45224,
+    "fecha": "30 de Sep del 2025 a las 04:42 AM",
+    "hora_utc": "2025-09-30 08:42",
+    "mensaje": "Circuito en avería:                                                                                                                        \n Sucede si un circuito se interrumpe por causa de un defecto en un cable conductor de corriente (fase o neutro), un fusible fundido o disyuntor. En sistemas trifásicos una falla puede implicar una fase, más de una fase con la tierra o puede ocurrir solo entre fases.",
+    "timestamp": 1759221760,
+    "timestamp_local": 1759221760
+  },
+  {
+    "id": 45223,
+    "fecha": "30 de Sep del 2025 a las 04:42 AM",
+    "hora_utc": "2025-09-30 08:42",
+    "mensaje": "🚨Estimados clientes en estos momentos se encuentra en avería el circuito 20 de Santiago.",
+    "timestamp": 1759221757,
+    "timestamp_local": 1759221757
+  },
+  {
     "id": 45222,
     "fecha": "30 de Sep del 2025 a las 03:26 AM",
     "hora_utc": "2025-09-30 07:26",
@@ -134,21 +150,5 @@
     "mensaje": "Manipulaciones:\nAcciones que se realizan en los circuitos para dar paso al trabajo en zonas afectadas por averías o Vía Libre y posteriormente para restablecer el servicio eléctrico en los circuitos que se encontraban afectados y en los que se trabaja con anterioridad, luego de culminadas las labores pertinentes.",
     "timestamp": 1759189937,
     "timestamp_local": 1759189937
-  },
-  {
-    "id": 45204,
-    "fecha": "29 de Sep del 2025 a las 07:52 PM",
-    "hora_utc": "2025-09-29 23:52",
-    "mensaje": "🔴Estimados clientes en estos momentos se está manipulando la línea 5385 de Palma.",
-    "timestamp": 1759189934,
-    "timestamp_local": 1759189934
-  },
-  {
-    "id": 45203,
-    "fecha": "29 de Sep del 2025 a las 06:10 PM",
-    "hora_utc": "2025-09-29 22:10",
-    "mensaje": "Circuito en avería:                                                                                                                        \n Sucede si un circuito se interrumpe por causa de un defecto en un cable conductor de corriente (fase o neutro), un fusible fundido o disyuntor. En sistemas trifásicos una falla puede implicar una fase, más de una fase con la tierra o puede ocurrir solo entre fases.",
-    "timestamp": 1759183841,
-    "timestamp_local": 1759183841
   }
 ]
