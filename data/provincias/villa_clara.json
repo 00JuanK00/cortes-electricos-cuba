@@ -1,9 +1,25 @@
 [
   {
+    "id": 30957,
+    "fecha": "01 de Oct del 2025 a las 10:26 AM",
+    "hora_utc": "2025-10-01 14:26",
+    "mensaje": "Actualización del servicio eléctrico en la provincia\n✍️Se mantienen afectados en la provincia 140 circuitos.\n✍️En el momento de hacer esta nota la provincia tiene 115 MW de afectación por déficit de capacidad de generación, demanda máxima posible a apagar.\n✍️Cuenta con 156 afectaciones por averías secundarias y de servicio.",
+    "timestamp": 1759328813,
+    "timestamp_local": 1759328813
+  },
+  {
+    "id": 30956,
+    "fecha": "01 de Oct del 2025 a las 10:13 AM",
+    "hora_utc": "2025-10-01 14:13",
+    "mensaje": "Afectados 118 MW en la provincia, demanda máxima a apagar en estos momentos.",
+    "timestamp": 1759328016,
+    "timestamp_local": 1759328016
+  },
+  {
     "id": 30955,
     "fecha": "01 de Oct del 2025 a las 09:54 AM",
     "hora_utc": "2025-10-01 13:54",
-    "mensaje": "💡Sera Restablecido el servicio eléctrico en los siguientes circuitos :\n🔹Bloque 11\nMunicipio Quemado:\n👉Ctos, 52 y 53 Quemado.\n👉Cto 196 Batey Panchito Gómez Toro.\n👉Cto 164 Lugardita\nMunicipio Corralillo:\n👉Cto 55 Rancho Veloz \n🔹Bloque 5\nMunicipio Corralillo:\n👉Ctos 58 y 159\n👉Cto 57 Motembo\n👉Cto 56 Yabre\n👉Cto 60 La Sierra",
+    "mensaje": "💡Será restablecido el servicio eléctrico en los siguientes circuitos :\n🔹Municipio Quemado:\n👉Ctos, 52 y 53 Quemado.\n👉Cto 196 Batey Panchito Gómez Toro.\n👉Cto 164 Lugardita\n🔹Municipio Corralillo:\n👉Cto 55 Rancho Veloz \n🔹Municipio Corralillo:\n👉Ctos 58 y 159\n👉Cto 57 Motembo\n👉Cto 56 Yabre\n👉Cto 60 La Sierra",
     "timestamp": 1759326888,
     "timestamp_local": 1759326888
   },
@@ -126,21 +142,5 @@
     "mensaje": "⚠️Serán afectados por déficit de capacidad de generación los siguientes circuitos:\n🔹Municipio Corralillo:\n👉Ctos 58 y 159\n👉Cto 57 Motembo\n👉Cto 56 Yabre\n👉Cto 60 La Sierra",
     "timestamp": 1759280288,
     "timestamp_local": 1759280288
-  },
-  {
-    "id": 30937,
-    "fecha": "30 de Sep del 2025 a las 08:35 PM",
-    "hora_utc": "2025-10-01 00:35",
-    "mensaje": "⚠️Continúan afectados por déficit de capacidad de generación los siguientes circuitos:\n🔹Municipio Caibarién\n👉Ctos 63 y 64\n👉Ctos 182 y 183 Van Troi",
-    "timestamp": 1759278946,
-    "timestamp_local": 1759278946
-  },
-  {
-    "id": 30936,
-    "fecha": "30 de Sep del 2025 a las 08:15 PM",
-    "hora_utc": "2025-10-01 00:15",
-    "mensaje": "⚠️Serán afectados por déficit de capacidad de generación los siguientes circuitos:\n🔹Municipio Placetas:\n👉Cto 101 y 145 Cumbre\n👉Cto 107 Baez\n👉Cto 105 Nazareno",
-    "timestamp": 1759277745,
-    "timestamp_local": 1759277745
   }
 ]
