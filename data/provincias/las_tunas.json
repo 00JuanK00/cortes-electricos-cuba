@@ -1,5 +1,29 @@
 [
   {
+    "id": 16794,
+    "fecha": "01 de Oct del 2025 a las 09:35 AM",
+    "hora_utc": "2025-10-01 13:35",
+    "mensaje": "QUE SIGNIFICA E IMPLICA LA MÁXIMA CAPACIDAD APAGABLE EN LA PROVINCIA:    \n                                                                                             Máxima capacidad apagable se refiere al nivel máximo de demanda eléctrica que puede ser desconectada o suspendida temporalmente en la provincia, explica la complejidad del déficit de generación o contingencias en el sistema eléctrico.\n\nRepresenta el límite superior de la reducción de carga que la empresa puede lograr mediante cortes de energía (apagones). Cuanto mayor sea la máxima capacidad apagable, mayor será el déficit de energía.\n\n¿Qué implica esto?\nSe identifica cuántos circuitos pueden ser apagados para equilibrar la carga del sistema, esto imposibilita realizar rotaciones, pues a \nexcepción de los servicios priorizados, se encuentran afectados todos los circuitos apagables del territorio. Podrán presentarse afectaciones \nen el servicio de electricidad durante varias horas al día y el tiempo con servicio dependerá del comportamiento del SEN. \n\nEsta medida es \nnecesaria para evitar fallas mayores y proteger la infraestructura eléctrica.",
+    "timestamp": 1759325704,
+    "timestamp_local": 1759325704
+  },
+  {
+    "id": 16793,
+    "fecha": "01 de Oct del 2025 a las 09:34 AM",
+    "hora_utc": "2025-10-01 13:34",
+    "mensaje": "Estimados clientes, les informamos que, debido a la actual situación energética del país, nuestra provincia se encuentra operando bajo la\nmáxima capacidad apagable. Esto significa que todos los circuitos eléctricos que pueden ser desconectados temporalmente están siendo utilizados para mantener el equilibrio del sistema nacional.",
+    "timestamp": 1759325672,
+    "timestamp_local": 1759325672
+  },
+  {
+    "id": 16792,
+    "fecha": "01 de Oct del 2025 a las 09:34 AM",
+    "hora_utc": "2025-10-01 13:34",
+    "mensaje": "Se mantiene en avería el circuito TK 19, que afecta a los clientes de las localidades Melanio I, II, IV, Ciruelito, San Antonio, Aguas Blancas, Las Margaritas y Feijó, todos del municipio de Jobabo",
+    "timestamp": 1759325641,
+    "timestamp_local": 1759325641
+  },
+  {
     "id": 16789,
     "fecha": "01 de Oct del 2025 a las 09:13 AM",
     "hora_utc": "2025-10-01 13:13",
@@ -110,29 +134,5 @@
     "mensaje": "Aviso a los clientes de Las Pelonas, Jobabo.\nEl transformador de la zona está dañado, lo que está afectando el servicio eléctrico a 22 clientes. Se trabaja en su pronta solución.",
     "timestamp": 1759167504,
     "timestamp_local": 1759167504
-  },
-  {
-    "id": 16774,
-    "fecha": "29 de Sep del 2025 a las 12:23 PM",
-    "hora_utc": "2025-09-29 16:23",
-    "mensaje": "Se declara en avería el circuito 6305:\nTK41: Calixto\nTK40: Vista Alegre \nTK42: Gastón \nTK45: La Ceiba\nTK44: Vivienda\nTK43: Las Parras y Omaja",
-    "timestamp": 1759162988,
-    "timestamp_local": 1759162988
-  },
-  {
-    "id": 16773,
-    "fecha": "29 de Sep del 2025 a las 10:16 AM",
-    "hora_utc": "2025-09-29 14:16",
-    "mensaje": "La Empresa Eléctrica Las Tunas informa a sus clientes que, como consecuencia de las intensas lluvias ocurridas durante este fin de  semana en la provincia, se han producido afectaciones en varios circuitos eléctricos que actualmente se encuentran en avería.\n\nLos circuitos afectados son los siguientes:\n\n- 🔌 **TK48**: Puerto Padre y Maniabón  \n- 🔌 **TK25**: Cuatro Caminos y Dormitorio  \n- 🔌 **TK19**: Km 7, San Antonio y Ciruelito  \n- 🔌 **TK88**: Dos Hermanos  \n- 🔌 **TK107**: La Islita y Sabalo\nSe trabaja para restablecer el servicio eléctrico en el menor tiempo posible.\nPedimos disculpas por las molestias ocasionadas.",
-    "timestamp": 1759155381,
-    "timestamp_local": 1759155381
-  },
-  {
-    "id": 16772,
-    "fecha": "29 de Sep del 2025 a las 09:44 AM",
-    "hora_utc": "2025-09-29 13:44",
-    "mensaje": "La Empresa Eléctrica Las Tunas informa que, según la nota emitida por la Unión Eléctrica para el 29 de septiembre, ayer se registraron afectaciones durante las 24 horas debido a déficit de capacidad de generación, situación que se extendió durante la madrugada de hoy. En nuestra provincia se afectaron la totalidad de los circuitos apagables con un tiempo promedio de 18:07 horas. El tiempo promedio con servicio eléctrico fue de 5:53 horas. La máxima afectación fue de 69.94 MW. \nActualmente están fuera de servicio por avería:\nUnidad 2 de la CTE Felton\nUnidad 5 de la CTE Nuevitas\nUnidad 3, 5 y 6 de la CTE Renté  \nEn mantenimiento se encuentran:\nUnidad 1 y 2 de la CTE Santa Cruz \nUnidad 4 de la CTE Carlos Manuel de Céspedes en Cienfuegos.\nEn el horario de la media se estima una afectación de 1250 MW y de 1860 MW en el horario pico nocturno.\nEn nuestra provincia la máxima afectación en el horario diurno puede alcanzar los 72 MW, lo cual representa el 80 % y en el horario pico de 89.3 MW, lo que representa el 95 % de los circuitos apagables. Estos valores pueden variar según la demanda nacional.",
-    "timestamp": 1759153494,
-    "timestamp_local": 1759153494
   }
 ]
