@@ -1,5 +1,29 @@
 [
   {
+    "id": 30981,
+    "fecha": "01 de Oct del 2025 a las 08:20 PM",
+    "hora_utc": "2025-10-02 00:20",
+    "mensaje": "Actualización del servicio eléctrico en la provincia\n✍️Se mantienen afectados en la provincia 150 circuitos.\n✍️En el momento de hacer esta nota la provincia tiene 146 MW de afectación por déficit de capacidad de generación, demanda máxima posible a apagar.\n✍️Cuenta con 131 afectaciones por averías secundarias y de servicio",
+    "timestamp": 1759364441,
+    "timestamp_local": 1759364441
+  },
+  {
+    "id": 30980,
+    "fecha": "01 de Oct del 2025 a las 07:55 PM",
+    "hora_utc": "2025-10-01 23:55",
+    "mensaje": "🛠️Disparo en el circuito 14 ( Maleza ) perteneciente al municipio Santa Clara \n( Se estudian la causas)",
+    "timestamp": 1759362957,
+    "timestamp_local": 1759362957
+  },
+  {
+    "id": 30979,
+    "fecha": "01 de Oct del 2025 a las 07:47 PM",
+    "hora_utc": "2025-10-01 23:47",
+    "mensaje": "💡Restablecido todos los circuitos de la linea 119 perteneciente al municipio Santa Clara",
+    "timestamp": 1759362454,
+    "timestamp_local": 1759362454
+  },
+  {
     "id": 30978,
     "fecha": "01 de Oct del 2025 a las 06:34 PM",
     "hora_utc": "2025-10-01 22:34",
@@ -126,29 +150,5 @@
     "mensaje": "👉Brigadas de nuestra empresa se encuentran trabajando en avería localizada en la Sub Maleza para restablecer en el menor tiempo posible.",
     "timestamp": 1759340576,
     "timestamp_local": 1759340576
-  },
-  {
-    "id": 30961,
-    "fecha": "01 de Oct del 2025 a las 01:38 PM",
-    "hora_utc": "2025-10-01 17:38",
-    "mensaje": "⚡Afectado Circuito 170 (José Marti)perteneciente al municipio de Santa Clara  por manipulación",
-    "timestamp": 1759340284,
-    "timestamp_local": 1759340284
-  },
-  {
-    "id": 30960,
-    "fecha": "01 de Oct del 2025 a las 01:30 PM",
-    "hora_utc": "2025-10-01 17:30",
-    "mensaje": "Afectados 133 MW en la provincia, demanda máxima a apagar en estos momentos.",
-    "timestamp": 1759339842,
-    "timestamp_local": 1759339842
-  },
-  {
-    "id": 30959,
-    "fecha": "01 de Oct del 2025 a las 12:01 PM",
-    "hora_utc": "2025-10-01 16:01",
-    "mensaje": "🛠Se encuentra en averia línea 119 perteneciente al municipio de Santa Clara por estar faltando un fase en la subestación afectando los siguientes circuitos: \n🔹Municipio Santa Clara\n👉Cto 144 ( Camacho)\n👉Cto 15 Maleza\n👉Cto 27 Maleza\n👉Cto 14 Maleza",
-    "timestamp": 1759334498,
-    "timestamp_local": 1759334498
   }
 ]
