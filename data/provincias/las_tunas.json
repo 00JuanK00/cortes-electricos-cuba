@@ -1,5 +1,13 @@
 [
   {
+    "id": 16802,
+    "fecha": "02 de Oct del 2025 a las 09:09 AM",
+    "hora_utc": "2025-10-02 13:09",
+    "mensaje": "En el día de ayer se afectó el servicio las 24 horas y se mantuvo afectado durante toda la madrugada de hoy. La máxima afectación por déficit de capacidad de generación en el día de ayer fue de 1906 MW a las 20:40 hora no coincidente con la hora pico, superior a lo planificado por no estar la Unidad 3 de la CTE Renté y la salida imprevista de la Unidad 6 de Energás Jaruco.\nLa producción de energía de los 32 nuevos parques solares fotovoltaicos fue de 3188 MWh, con 565 MW como máxima potencia entregada en el horario de la media con esta fuente de generación.\nEstado actual del SEN\nLa disponibilidad del SEN a las 06:00 horas es de 1640 MW y la demanda 2800 MW con 1190MW afectados por déficit de capacidad. En el horario de la media se estima una afectación de 1150 MW.\nPrincipales incidencias\n• Avería: Unidad 2 de la CTE Felton, Unida 5 de Mariel y Unidad 3 y 5 de la CTE Renté.\n• Mantenimiento: Unidad 1 y 2 de la CTE Santa Cruz y Unidad 4 de la CTE Carlos Manuel de Céspedes en Cienfuegos.\n• Limitaciones térmicas: 387 MW fuera de servicio.\n• Problemas por falta de combustible \no 68 centrales de generación distribuida con 478 MW.\no 160 MW indisponibles por falta de lubricante.\no Total de MW afectados por esta causa: 638 MW.\nPronóstico para el horario pico\nPara el pico se estima la entrada de las unidades 3 y 5 de la CTE Renté con 50 cada una.\nCon este pronóstico en el horario pico se estima una disponibilidad de 1740 MW y una demanda máxima de 3480 MW, para un déficit de 1740 MW, por lo que de mantenerse las condiciones previstas se pronostica una afectación de 1810 MW en este horario.",
+    "timestamp": 1759410555,
+    "timestamp_local": 1759410555
+  },
+  {
     "id": 16799,
     "fecha": "01 de Oct del 2025 a las 09:04 PM",
     "hora_utc": "2025-10-02 01:04",
@@ -110,13 +118,5 @@
     "mensaje": "Solucionada la avería del circuito TK 88",
     "timestamp": 1759266481,
     "timestamp_local": 1759266481
-  },
-  {
-    "id": 16781,
-    "fecha": "30 de Sep del 2025 a las 02:15 PM",
-    "hora_utc": "2025-09-30 18:15",
-    "mensaje": "Solucionada la avería del circuito TK 107: La Islita y Sábalo.",
-    "timestamp": 1759256115,
-    "timestamp_local": 1759256115
   }
 ]
