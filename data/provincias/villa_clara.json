@@ -1,5 +1,29 @@
 [
   {
+    "id": 31113,
+    "fecha": "03 de Oct del 2025 a las 11:05 PM",
+    "hora_utc": "2025-10-04 03:05",
+    "mensaje": "La provincia presenta 144 MW por déficit de capacidad de generación, demanda máxima a apagar en estos momentos.",
+    "timestamp": 1759547137,
+    "timestamp_local": 1759547137
+  },
+  {
+    "id": 31112,
+    "fecha": "03 de Oct del 2025 a las 11:02 PM",
+    "hora_utc": "2025-10-04 03:02",
+    "mensaje": "⚠️Afectada por manipulación la línea del 861:\nLínea 861 \n🔹Municipio Santa Clara:\n👉Cto 5 (Dobarganes)\n👉Cto 17 (Subplanta) \n👉Ctos 37 y 38 (Yabú)   \n👉Cto 9 (Moldes y Troqueles)\n👉Cto 133 (Cafetera)",
+    "timestamp": 1759546924,
+    "timestamp_local": 1759546924
+  },
+  {
+    "id": 31111,
+    "fecha": "03 de Oct del 2025 a las 10:24 PM",
+    "hora_utc": "2025-10-04 02:24",
+    "mensaje": "⚠️Disparado el Cto 14 Maleza , perteneciente al municipio Santa Clara.",
+    "timestamp": 1759544697,
+    "timestamp_local": 1759544697
+  },
+  {
     "id": 31110,
     "fecha": "03 de Oct del 2025 a las 10:02 PM",
     "hora_utc": "2025-10-04 02:02",
@@ -126,29 +150,5 @@
     "mensaje": "🕕Actualización del servicio eléctrico en las últimas 6 horas.\n✍️El déficit de capacidad de generación osciló entre los 104 MW y 166 MW.\n✍️En el momento de esta nota, se mantienen afectados 160 circuitos.\n✍️Cuenta con 115 afectaciones por averías secundarias y de servicio:\n🔹Camajuaní (2)\n🔹Cifuentes (2)\n🔹Encrucijada (5)\n🔹 Manicaragua (4)\n🔹Ranchuelo (8)\n🔹 Remedios (19)\n🔹Sagua (11)\n🔹Santa Clara (60)\n🔹Santo Domingo (4)\n🛠️Pendientes a solucionar por el área técnica 20.\n⚡Averías⚡\n👉Ctos 97 y 189 pertenecientes al municipio Ranchuelo.",
     "timestamp": 1759529767,
     "timestamp_local": 1759529767
-  },
-  {
-    "id": 31093,
-    "fecha": "03 de Oct del 2025 a las 05:20 PM",
-    "hora_utc": "2025-10-03 21:20",
-    "mensaje": "⚠️ En déficit de capacidad de generación los siguientes circuitos:\n🔹Municipio Cifuentes:\n👉Ctos 114 y 117\n👉Ctos 116 y 155 Mata\n👉Cto 186 Batey Unidad Proletaria\n👉Cto 184 Sitio Grande",
-    "timestamp": 1759526429,
-    "timestamp_local": 1759526429
-  },
-  {
-    "id": 31092,
-    "fecha": "03 de Oct del 2025 a las 05:17 PM",
-    "hora_utc": "2025-10-03 21:17",
-    "mensaje": "⚠️ En déficit de capacidad de generación los siguientes circuitos:\n🔹Municipio Sagua\n👉Cto 48 Finalet\n👉Ctos 46 y 128 Sitiecito",
-    "timestamp": 1759526257,
-    "timestamp_local": 1759526257
-  },
-  {
-    "id": 31091,
-    "fecha": "03 de Oct del 2025 a las 05:12 PM",
-    "hora_utc": "2025-10-03 21:12",
-    "mensaje": "La provincia presenta 166 MW por déficit de capacidad de generación, demanda máxima a apagar en estos momentos.",
-    "timestamp": 1759525938,
-    "timestamp_local": 1759525938
   }
 ]
