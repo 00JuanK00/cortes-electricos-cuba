@@ -1,5 +1,21 @@
 [
   {
+    "id": 31102,
+    "fecha": "03 de Oct del 2025 a las 08:13 PM",
+    "hora_utc": "2025-10-04 00:13",
+    "mensaje": "Actualización del servicio eléctrico en la provincia\n✍️Se mantienen afectados en la provincia 154 circuitos.\n✍️En el momento de hacer esta nota la provincia tiene 167 MW de afectación por déficit de capacidad de generación, demanda máxima posible a apagar.\n✍️Cuenta con 120 afectaciones por averías secundarias y de servicio",
+    "timestamp": 1759536822,
+    "timestamp_local": 1759536822
+  },
+  {
+    "id": 31101,
+    "fecha": "03 de Oct del 2025 a las 07:49 PM",
+    "hora_utc": "2025-10-03 23:49",
+    "mensaje": "⚠️ En déficit de capacidad de generación los siguientes circuitos:\n🔹Municipio Santa Clara:\n👉Cto 5 (Dobarganes)\n👉Cto 17 (Subplanta) \n👉Ctos 37 y 38 (Yabú)   \n👉Cto 9 (Moldes y Troqueles)\n👉Cto 133 (Cafetera)",
+    "timestamp": 1759535384,
+    "timestamp_local": 1759535384
+  },
+  {
     "id": 31100,
     "fecha": "03 de Oct del 2025 a las 07:29 PM",
     "hora_utc": "2025-10-03 23:29",
@@ -142,21 +158,5 @@
     "mensaje": "⚠️ En déficit de capacidad de generación los siguientes circuitos:\n🔹Municipio Ranchuelo:\n👉Cto 92 Esperanza (Pueblo)\n👉Cto 93 Esperanza (Campo)\n👉Cto 54 94 y 95 Jicotea  \nMunicipio Santa Clara:\n👉Ctos 26 y 141 (Manuelita)\n👉Cto 191 (Quemado de Hilario)",
     "timestamp": 1759521578,
     "timestamp_local": 1759521578
-  },
-  {
-    "id": 31082,
-    "fecha": "03 de Oct del 2025 a las 03:49 PM",
-    "hora_utc": "2025-10-03 19:49",
-    "mensaje": "💡Restablecido el siguiente circuito: \n🔸Municipio Santa Clara:\n👉Cto 30 SC. Industrial",
-    "timestamp": 1759520950,
-    "timestamp_local": 1759520950
-  },
-  {
-    "id": 31081,
-    "fecha": "03 de Oct del 2025 a las 03:48 PM",
-    "hora_utc": "2025-10-03 19:48",
-    "mensaje": "⚠️ En déficit de capacidad de generación los siguientes circuitos:\n🔹Municipio Placetas:\n👉Cto 192 Benito Juárez\n👉Cto 102 Peroti",
-    "timestamp": 1759520911,
-    "timestamp_local": 1759520911
   }
 ]
