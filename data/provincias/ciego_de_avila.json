@@ -1,5 +1,21 @@
 [
   {
+    "id": 32404,
+    "fecha": "03 de Oct del 2025 a las 11:17 PM",
+    "hora_utc": "2025-10-04 03:17",
+    "mensaje": "❌Un Disparo Automática por Frecuencia (DAF) es una protección que posee el sistema eléctrico para cuando la frecuencia llega a valores mínimos permisibles que ponen en peligro la estabilidad de todo el sistema en su conjunto y provoca una desconexión automática de algunos circuitos hasta que esta vuelva a recuperar su valor nominal a 60 Hz o ciclos por segundo. Esto ocurre al salir de forma imprevista o repentina una planta generadora con una potencia determinada y el sistema en su conjunto necesita liberar esa carga hasta tanto se puedan recuperar la potencia de generación perdida anteriormente o dar las afectaciones al servicio por déficit de generación.",
+    "timestamp": 1759547854,
+    "timestamp_local": 1759547854
+  },
+  {
+    "id": 32403,
+    "fecha": "03 de Oct del 2025 a las 11:16 PM",
+    "hora_utc": "2025-10-04 03:16",
+    "mensaje": "🔊Información 🔊\n\n🚨DAF (Disparo por aumento de frecuencia)🚨\n\n📍Se encuentran afectados por el DAF los circuitos: 📍\n\n👉  Nereida, Peonía, Politécnico de Informática,  Patria, Turiguanó, San Fernando.",
+    "timestamp": 1759547806,
+    "timestamp_local": 1759547806
+  },
+  {
     "id": 32401,
     "fecha": "03 de Oct del 2025 a las 09:56 PM",
     "hora_utc": "2025-10-04 01:56",
@@ -126,29 +142,5 @@
     "mensaje": "‼️ Información ‼️\n\n👉 Restablecido el servicio eléctrico en los circuito Nereida, Peonía, Politécnico de Informática",
     "timestamp": 1759466574,
     "timestamp_local": 1759466574
-  },
-  {
-    "id": 32384,
-    "fecha": "02 de Oct del 2025 a las 11:58 PM",
-    "hora_utc": "2025-10-03 03:58",
-    "mensaje": "‼️ Información ‼️   \n👉En estos momentos tenemos 73 MW en la provincia afectados por déficit de generación. Con este déficit no podemos cumplir con una programación estable, por lo que los circuitos se afectarán o se restablecerán en dependencia del déficit que haya en cada momento de la jornada.",
-    "timestamp": 1759463925,
-    "timestamp_local": 1759463925
-  },
-  {
-    "id": 32383,
-    "fecha": "02 de Oct del 2025 a las 11:47 PM",
-    "hora_utc": "2025-10-03 03:47",
-    "mensaje": "‼️ Información ‼️\n\n👉 Restablecido el servicio eléctrico en los circuito Patria y Turiguanó.",
-    "timestamp": 1759463235,
-    "timestamp_local": 1759463235
-  },
-  {
-    "id": 32382,
-    "fecha": "02 de Oct del 2025 a las 11:21 PM",
-    "hora_utc": "2025-10-03 03:21",
-    "mensaje": "Información.\n👉Se encuentra en fallo los circuito Patria y Turiguanó.\n👉Se recorren las líneas para encontrar la causa. \n👉Si usted observa corto circuito en las redes o alguna irregularidad, por favor comuníquelo a través del ☎️18888.",
-    "timestamp": 1759461692,
-    "timestamp_local": 1759461692
   }
 ]
