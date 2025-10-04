@@ -1,5 +1,13 @@
 [
   {
+    "id": 32426,
+    "fecha": "04 de Oct del 2025 a las 03:18 PM",
+    "hora_utc": "2025-10-04 19:18",
+    "mensaje": "👉Se encuentra afectado el circuito La Juanita para cerrar puentes en La Finca Los Cocos. Se trabaja para restablecer lo antes posible el servicio. Ofrecemos disculpas por las molestias ocasionadas.",
+    "timestamp": 1759605482,
+    "timestamp_local": 1759605482
+  },
+  {
     "id": 32424,
     "fecha": "04 de Oct del 2025 a las 02:52 PM",
     "hora_utc": "2025-10-04 18:52",
@@ -110,29 +118,5 @@
     "mensaje": "‼️ Información del déficit de generación ‼️   \n👉Nos mantenemos con  70 MW en la provincia afectados por déficit de generación.\n⏰ Con este déficit, la carga a apagar en la provincia no nos permite realizar una rotación estable de los circuitos, por lo que se afectarán o se restablecerán en dependencia del déficit que haya en cada momento de la jornada, que es muy variable.",
     "timestamp": 1759555899,
     "timestamp_local": 1759555899
-  },
-  {
-    "id": 32406,
-    "fecha": "04 de Oct del 2025 a las 12:01 AM",
-    "hora_utc": "2025-10-04 04:01",
-    "mensaje": "Información del déficit de generación ‼️\n   \n👉Bajamos a 70 MW en la provincia afectados por déficit de generación.\n\n⏰ Con este déficit, la carga a apagar en la provincia no nos permite realizar una rotación estable de los circuitos, por lo que se afectarán o se restablecerán en dependencia del déficit que haya en cada momento de la jornada, que es muy variable.",
-    "timestamp": 1759550494,
-    "timestamp_local": 1759550494
-  },
-  {
-    "id": 32405,
-    "fecha": "03 de Oct del 2025 a las 11:59 PM",
-    "hora_utc": "2025-10-04 03:59",
-    "mensaje": "✅ Información.\n👉 Se restablecen los circuitos que estaban afectados por Disparo por Frecuencia, ahora se encuentran afectados por Déficit.",
-    "timestamp": 1759550382,
-    "timestamp_local": 1759550382
-  },
-  {
-    "id": 32404,
-    "fecha": "03 de Oct del 2025 a las 11:17 PM",
-    "hora_utc": "2025-10-04 03:17",
-    "mensaje": "❌Un Disparo Automática por Frecuencia (DAF) es una protección que posee el sistema eléctrico para cuando la frecuencia llega a valores mínimos permisibles que ponen en peligro la estabilidad de todo el sistema en su conjunto y provoca una desconexión automática de algunos circuitos hasta que esta vuelva a recuperar su valor nominal a 60 Hz o ciclos por segundo. Esto ocurre al salir de forma imprevista o repentina una planta generadora con una potencia determinada y el sistema en su conjunto necesita liberar esa carga hasta tanto se puedan recuperar la potencia de generación perdida anteriormente o dar las afectaciones al servicio por déficit de generación.",
-    "timestamp": 1759547854,
-    "timestamp_local": 1759547854
   }
 ]

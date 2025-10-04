@@ -1,9 +1,17 @@
 [
   {
+    "id": 31150,
+    "fecha": "04 de Oct del 2025 a las 03:39 PM",
+    "hora_utc": "2025-10-04 19:39",
+    "mensaje": "🛠️Afectado parcialmente el Cto 71(Buena Vista) perteneciente al Municipio de Remedios para cambio de Transformador, quedando afectado el ramal a General Carrillo.",
+    "timestamp": 1759606773,
+    "timestamp_local": 1759606773
+  },
+  {
     "id": 31149,
     "fecha": "04 de Oct del 2025 a las 02:48 PM",
     "hora_utc": "2025-10-04 18:48",
-    "mensaje": "⚠️ En déficit de capacidad de generación el siguiente circuito:\nMunicipio Placetas:👉Cto 107 Baez\n👉Cto 105 Nazareno",
+    "mensaje": "⚠️ En déficit de capacidad de generación el siguiente circuito:\nMunicipio Placetas:\n👉Cto 107 Baez\n👉Cto 105 Nazareno",
     "timestamp": 1759603696,
     "timestamp_local": 1759603696
   },
@@ -11,7 +19,7 @@
     "id": 31148,
     "fecha": "04 de Oct del 2025 a las 01:54 PM",
     "hora_utc": "2025-10-04 17:54",
-    "mensaje": "⚠️ En déficit de capacidad de generación los siguientes circuitos:Municipio Sagua:\n👉Ctos 43 y 51",
+    "mensaje": "⚠️ En déficit de capacidad de generación los siguientes circuitos:\nMunicipio Sagua:\n👉Ctos 43 y 51",
     "timestamp": 1759600496,
     "timestamp_local": 1759600496
   },
@@ -150,13 +158,5 @@
     "mensaje": "🕕Actualización del servicio eléctrico en las últimas 6 horas.\n✍️El déficit de capacidad de generación osciló entre los 127 MW y 102 MW.\n✍️En el momento de esta nota, se mantienen afectados 137 circuitos.\n✍️Cuenta con 97 afectaciones por averías secundarias y de servicio:\n🔹Caibarién (1)\n🔹Camajuaní (2)\n🔹Encrucijada (2)\n🔹 Manicaragua (9)\n🔹Ranchuelo (5)\n🔹 Remedios (21)\n🔹Sagua (2)\n🔹Santa Clara (51)\n🔹Santo Domingo (4)\n🛠️Pendientes a solucionar por el área técnica 22.\n✅La provincia no presenta averías primarias en este momento.",
     "timestamp": 1759572178,
     "timestamp_local": 1759572178
-  },
-  {
-    "id": 31129,
-    "fecha": "04 de Oct del 2025 a las 05:51 AM",
-    "hora_utc": "2025-10-04 09:51",
-    "mensaje": "⚠️ En déficit de capacidad de generación el siguiente circuito:\n🔹Municipio Santa Clara:\n👉Cto 170 (José Martí)",
-    "timestamp": 1759571483,
-    "timestamp_local": 1759571483
   }
 ]
