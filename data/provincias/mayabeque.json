@@ -1,5 +1,29 @@
 [
   {
+    "id": 92127,
+    "fecha": "05 de Oct del 2025 a las 07:18 PM",
+    "hora_utc": "2025-10-05 23:18",
+    "mensaje": "🚨Por déficit de capacidad de generación se afecta el servicio en los siguientes circuitos:\n* 1657\n* Bio 2 🚨",
+    "timestamp": 1759706337,
+    "timestamp_local": 1759706337
+  },
+  {
+    "id": 92126,
+    "fecha": "05 de Oct del 2025 a las 07:06 PM",
+    "hora_utc": "2025-10-05 23:06",
+    "mensaje": "🚨Por déficit de capacidad de generación se afecta el servicio en el siguiente circuito:\n*Madruga 🚨",
+    "timestamp": 1759705583,
+    "timestamp_local": 1759705583
+  },
+  {
+    "id": 92125,
+    "fecha": "05 de Oct del 2025 a las 07:03 PM",
+    "hora_utc": "2025-10-05 23:03",
+    "mensaje": "🚨Por déficit de capacidad de generación se afecta el servicio en el siguiente circuito:\n*CENSA 🚨",
+    "timestamp": 1759705432,
+    "timestamp_local": 1759705432
+  },
+  {
     "id": 92124,
     "fecha": "05 de Oct del 2025 a las 06:47 PM",
     "hora_utc": "2025-10-05 22:47",
@@ -27,7 +51,7 @@
     "id": 92121,
     "fecha": "05 de Oct del 2025 a las 06:20 PM",
     "hora_utc": "2025-10-05 22:20",
-    "mensaje": "🔷 Restablecido el servicio en el que circuito Bío 2 que se encontraba afectado por manipulación 🔷",
+    "mensaje": "🔷 Restablecido el servicio en el que circuito Bío 2 que se encontraba afectado por manipulación 🔷\n\n🔷 Restablecido el servicio en las siguientes zonas que se encontraban afectados por cambio de transformador\n* Ciudad de los niños \n* Caguazo\n* Tienda Cimex\n* Policlínico Bejucal\n* Lugares aledaños 🔷",
     "timestamp": 1759702802,
     "timestamp_local": 1759702802
   },
@@ -118,21 +142,5 @@
     "mensaje": "♦️ Afectado el servicio en el circuito Bío 2 por manipulación ♦️",
     "timestamp": 1759698711,
     "timestamp_local": 1759698711
-  },
-  {
-    "id": 92106,
-    "fecha": "05 de Oct del 2025 a las 04:05 PM",
-    "hora_utc": "2025-10-05 20:05",
-    "mensaje": "♦️⚡ Afectado el servicio en el circuito 3130 por tormenta ⚡♦️",
-    "timestamp": 1759694714,
-    "timestamp_local": 1759694714
-  },
-  {
-    "id": 92105,
-    "fecha": "05 de Oct del 2025 a las 03:52 PM",
-    "hora_utc": "2025-10-05 19:52",
-    "mensaje": "🔷 Restablecido el servicio en el que 3590  que se encontraba afectado por disparo por DAF 🔷",
-    "timestamp": 1759693949,
-    "timestamp_local": 1759693949
   }
 ]
