@@ -1,5 +1,45 @@
 [
   {
+    "id": 31253,
+    "fecha": "06 de Oct del 2025 a las 03:36 PM",
+    "hora_utc": "2025-10-06 19:36",
+    "mensaje": "La provincia presenta 91 MW por déficit de capacidad de generación, demanda máxima a apagar en estos momentos.",
+    "timestamp": 1759779383,
+    "timestamp_local": 1759779383
+  },
+  {
+    "id": 31252,
+    "fecha": "06 de Oct del 2025 a las 03:32 PM",
+    "hora_utc": "2025-10-06 19:32",
+    "mensaje": "⚠️En déficit de capacidad de generación los siguientes circuitos:\nMunicipio Santa Clara:\n👉Cto 167 (Virginia)\n👉Cto 170 (José Martí)",
+    "timestamp": 1759779165,
+    "timestamp_local": 1759779165
+  },
+  {
+    "id": 31251,
+    "fecha": "06 de Oct del 2025 a las 03:28 PM",
+    "hora_utc": "2025-10-06 19:28",
+    "mensaje": "Restablecido el circuito 144 (Camacho) del municipio Santa Clara.",
+    "timestamp": 1759778890,
+    "timestamp_local": 1759778890
+  },
+  {
+    "id": 31250,
+    "fecha": "06 de Oct del 2025 a las 03:06 PM",
+    "hora_utc": "2025-10-06 19:06",
+    "mensaje": "⚠️En déficit de capacidad de generación los siguientes circuitos:\nMunicipio Camajuaní:\n👉Cto 75 La Quinta\n👉Cto 157 Luis Arcos Bergnes\n👉Ctos 76 y 90 Vega Alta\n👉Ctos 77, 59, 185 Vueltas",
+    "timestamp": 1759777565,
+    "timestamp_local": 1759777565
+  },
+  {
+    "id": 31249,
+    "fecha": "06 de Oct del 2025 a las 03:05 PM",
+    "hora_utc": "2025-10-06 19:05",
+    "mensaje": "💡Restablecida la línea 1910: \nMunicipio Placetas \n👉Ctos 100 y 151 Placetas\n👉Cto 104 Hermanos Amejeiras\n👉Cto 103 Batey Carbó Servia",
+    "timestamp": 1759777501,
+    "timestamp_local": 1759777501
+  },
+  {
     "id": 31248,
     "fecha": "06 de Oct del 2025 a las 03:00 PM",
     "hora_utc": "2025-10-06 19:00",
@@ -118,45 +158,5 @@
     "mensaje": "🔹Ante la compleja situación actual, con alto niveles de déficit de capacidad de generación, se adelantó la afectación de los circuitos 107 (Baez) y 105 (Nazareno), del municipio Placetas en su programación por bloques establecidos para la provincia.",
     "timestamp": 1759768927,
     "timestamp_local": 1759768927
-  },
-  {
-    "id": 31233,
-    "fecha": "06 de Oct del 2025 a las 12:35 PM",
-    "hora_utc": "2025-10-06 16:35",
-    "mensaje": "⚠️En déficit de capacidad de generación los circuitos 89 y 188 del municipio Ranchuelo.",
-    "timestamp": 1759768549,
-    "timestamp_local": 1759768549
-  },
-  {
-    "id": 31232,
-    "fecha": "06 de Oct del 2025 a las 12:27 PM",
-    "hora_utc": "2025-10-06 16:27",
-    "mensaje": "⚠️En déficit de capacidad de generación el circuito 169 (Santa Clara Industrial)",
-    "timestamp": 1759768035,
-    "timestamp_local": 1759768035
-  },
-  {
-    "id": 31231,
-    "fecha": "06 de Oct del 2025 a las 12:25 PM",
-    "hora_utc": "2025-10-06 16:25",
-    "mensaje": "Con servicio las líneas 1720 y 1710:\nAfecta los siguientes circuitos:\nMunicipio Santo Domingo:\n👉Cto 195 Batey George Washington\n👉Ctos 83 y 165 Manacas\n👉Ctos 85 y 86 Pajarito\n👉Ctos 160 y 161 Cascajal\nMunicipio Ranchuelo                                 \n👉Cto 163 Batey 26 de Julio\n👉Cto 54, 94 y 95 Jicotea\n👉Cto 81 26 Julio",
-    "timestamp": 1759767943,
-    "timestamp_local": 1759767943
-  },
-  {
-    "id": 31230,
-    "fecha": "06 de Oct del 2025 a las 12:08 PM",
-    "hora_utc": "2025-10-06 16:08",
-    "mensaje": "🛠️Afectada por disparo las líneas 1720 y 1710:\nAfecta los siguientes circuitos:\nMunicipio Santo Domingo:\n👉Cto 195 Batey George Washington\n👉Ctos 83 y 165 Manacas\n👉Ctos 85 y 86 Pajarito\n👉Ctos 160 y 161 Cascajal\nMunicipio Ranchuelo                                 \n👉Cto 163 Batey 26 de Julio\n👉Cto 54, 94 y 95 Jicotea\n👉Cto 81 26 Julio\n✍️ Se estudian las causas.",
-    "timestamp": 1759766906,
-    "timestamp_local": 1759766906
-  },
-  {
-    "id": 31229,
-    "fecha": "06 de Oct del 2025 a las 12:06 PM",
-    "hora_utc": "2025-10-06 16:06",
-    "mensaje": "La provincia presenta 85 MW por déficit de capacidad de generación, demanda máxima a apagar en estos momentos.",
-    "timestamp": 1759766766,
-    "timestamp_local": 1759766766
   }
 ]
