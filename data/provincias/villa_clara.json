@@ -1,5 +1,21 @@
 [
   {
+    "id": 31313,
+    "fecha": "07 de Oct del 2025 a las 08:09 AM",
+    "hora_utc": "2025-10-07 12:09",
+    "mensaje": "Actualización del servicio eléctrico en la provincia\n✍️Se mantienen afectados en la provincia 140 circuitos.\n✍️En el momento de hacer esta nota la provincia tiene 108 MW de afectación por déficit de capacidad de generación, demanda máxima posible a apagar.\n✍️Cuenta con 88 afectaciones por averías secundarias y de servicio",
+    "timestamp": 1759838950,
+    "timestamp_local": 1759838950
+  },
+  {
+    "id": 31312,
+    "fecha": "07 de Oct del 2025 a las 07:57 AM",
+    "hora_utc": "2025-10-07 11:57",
+    "mensaje": "🚨Nota informativa🚨\n\n📆Situación del SEN para el 07 de octubre de 2025.\n\n👉En el día de ayer se afectó el servicio las 24 horas y se mantuvo afectado durante toda la madrugada de hoy. La máxima afectación por déficit de capacidad de generación en el día de ayer fue de 1765 MW a las 19:40 horas, demanda superior a lo planificado.\n\n☀️La producción de energía de los 32 nuevos parques solares fotovoltaicos fue de 3271 MWh, con 591 MW como máxima potencia entregada en el horario de la media con esta fuente de generación.\n\n📉La disponibilidad del SEN a las 06:00 horas es de 1680 MW  y la demanda 2730 MW con 1082 MW afectados por déficit de capacidad. En el horario de la media se estima una afectación de 1150 MW. \n\n🛠️Se encuentran en avería la unidad 8 de la CTE Mariel, la unidad 3 de la CTE Santa Cruz, la unidad 2 de la CTE Felton y las unidades 3, 5 y 6 de la CTE Renté. Se encuentran en mantenimiento las unidades 1 y 2 de la CTE Santa Cruz y la unidad 4 de la CTE Cienfuegos.\n  \nLas limitaciones en la generación térmica son de 307 MW. \n\n⛽Se encuentran fuera de servicio por combustible                                54 centrales de generación distribuida con 270 MW y 229 MW indisponible por falta de lubricante, para un total de 499 MW.\n\nPara el pico se estima la recuperación de 50 MW en motores de generación distribuida que se encuentran fuera por combustible.\n   \n📝Con este pronóstico en el horario pico se estima una disponibilidad de 1730 MW y una demanda máxima de 3400 MW, para un déficit de 1670 MW, por lo que de mantenerse las condiciones previstas se pronostica una afectación de 1740 MW en este horario.\n\nUNE-MINEM---07:00 horas",
+    "timestamp": 1759838229,
+    "timestamp_local": 1759838229
+  },
+  {
     "id": 31311,
     "fecha": "07 de Oct del 2025 a las 07:12 AM",
     "hora_utc": "2025-10-07 11:12",
@@ -142,21 +158,5 @@
     "mensaje": "🕛Actualización del servicio eléctrico en las últimas 6 horas.\n✍️El déficit de capacidad de generación osciló entre los 75 MW y 151 MW.\n✍️En el momento de esta nota, se mantienen afectados 142 circuitos.\n✍️Cuenta con 127 afectaciones por averías secundarias y de servicio:\n🔹Caibarién (11)\n🔹Camajuaní (2)\n🔹Cifuentes (1)\n🔹Encrucijada (2)\n🔹Manicaragua (3)\n🔹Placetas (7)\n🔹Remedios (18)\n🔹Sagua (1)\n🔹Santa Clara (48)\n🔹Santo Domingo (8)\n🛠️Se encuentran 4 averías en vías de solución.\n🛠️Pendientes a solucionar por el área técnica 22.\n⚡Avería.⚡\n👉Cto 143 Batey Heriberto Duquesne\n👉Cto 71 de Buena Vista",
     "timestamp": 1759810592,
     "timestamp_local": 1759810592
-  },
-  {
-    "id": 31293,
-    "fecha": "06 de Oct del 2025 a las 11:21 PM",
-    "hora_utc": "2025-10-07 03:21",
-    "mensaje": "💡Restablecidos los siguientes circuitos:\nMunicipio Placetas:\n👉Cto 101 y 145 Cumbre\n👉Cto 107 Baez\n👉Cto 105 Nazareno",
-    "timestamp": 1759807306,
-    "timestamp_local": 1759807306
-  },
-  {
-    "id": 31292,
-    "fecha": "06 de Oct del 2025 a las 11:19 PM",
-    "hora_utc": "2025-10-07 03:19",
-    "mensaje": "Restablecida parcialmente línea 1365:\nMunicipio Remedios:\n👉Ctos 67 y 152, 68 y 118\n\n👉Ctos 69 y 70 Zuluetas\n\n✍️ Quedan afectados los circuitos 143 Batey Heriberto Duquesne y circuito 71 de Buena Vista",
-    "timestamp": 1759807163,
-    "timestamp_local": 1759807163
   }
 ]
