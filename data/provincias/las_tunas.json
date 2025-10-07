@@ -1,5 +1,13 @@
 [
   {
+    "id": 16845,
+    "fecha": "07 de Oct del 2025 a las 09:09 AM",
+    "hora_utc": "2025-10-07 13:09",
+    "mensaje": "La Empresa Eléctrica Las Tunas informa que, según la nota emitida por la Unión Eléctrica para el 7 de octubre, ayer se registraron afectaciones durante las 24 horas debido a déficit de capacidad de generación, situación que se extendió durante la madrugada de hoy. En nuestra provincia se afectaron la totalidad de los circuitos apagables con un tiempo promedio de 17:31 horas. El tiempo promedio con servicio eléctrico fue de 6:29 horas. La máxima afectación fue de 78.25 MW. \nActualmente están fuera de servicio por avería:\n• Unidad 2 de la CTE Felton\n• Unidad 3 de Santa Cruz\n• Unidad 8 de Mariel \n• Unidad 3, 5 y 6 de la CTE Renté.\nEn mantenimiento se encuentran:\n• Unidad 1 y 2 de la CTE Santa Cruz \n• Unidad 4 de la CTE Carlos Manuel de Céspedes en Cienfuegos.\nEn el horario de la media se estima una afectación de 1150 MW y de 1740 MW en el horario pico nocturno.\nEn nuestra provincia la máxima afectación en el horario diurno puede alcanzar el 65 % de los circuitos apagables y en el horario pico nocturno hasta el 90 %. Estos valores pueden variar según la demanda nacional.",
+    "timestamp": 1759842585,
+    "timestamp_local": 1759842585
+  },
+  {
     "id": 16844,
     "fecha": "07 de Oct del 2025 a las 08:26 AM",
     "hora_utc": "2025-10-07 12:26",
@@ -102,13 +110,5 @@
     "mensaje": "**Nota Informativa: Estado del Sistema Eléctrico Nacional (SEN) – 3 de octubre de 2025**\nEn el día de ayer se afectó el servicio las 24 horas y se mantuvo afectado durante toda la madrugada de hoy. La máxima afectación por déficit de capacidad de generación en el día de ayer fue de 1842 MW a las 19:20 horas coincidente con la hora pico, superior a lo planificado por salida imprevista de las Unidades 3 y 6 de la CTE Renté.\nLa producción de energía de los 32 nuevos parques solares fotovoltaicos fue de 2917 MWh, con 583 MW como máxima potencia entregada en el horario de la media con esta fuente de generación.\n**Estado actual del SEN**\nLa disponibilidad del SEN a las 06:00 horas es de 1420 MW y la demanda 2680 MW con 1274 MW afectados por déficit de capacidad. En el horario de la media se estima una afectación de 1200 MW.\n**Principales incidencias**\nAvería: Unidad 2 de la CTE Felton, Unidad 5 y 8 de Mariel, Unidad 5 de la CTE Nuevitas y Unidad 3, 5 y 6 de la CTE Renté.\nMantenimiento: Unidad 1 y 2 de la CTE Santa Cruz y Unidad 4 de la CTE Carlos Manuel de Céspedes en Cienfuegos.\nLimitaciones térmicas: 264 MW fuera de servicio.\nProblemas por falta de combustible\n66 centrales de generación distribuida con 556 MW.\n157 MW indisponibles por falta de lubricante.\nTotal de MW afectados por esta causa: 713 MW.\n**Pronóstico para el horario pico**\nPara el pico se estima la entrada de la unidad 5 de la CTE Mariel con 50 MW, en proceso de arranque.\nCon este pronóstico en el horario pico se estima una disponibilidad de 1470 MW y una demanda máxima de 3300 MW, para un déficit de 1830 MW, por lo que de mantenerse las condiciones previstas se pronostica una afectación de 1900 MW en este horario.",
     "timestamp": 1759581845,
     "timestamp_local": 1759581845
-  },
-  {
-    "id": 16824,
-    "fecha": "04 de Oct del 2025 a las 07:43 AM",
-    "hora_utc": "2025-10-04 11:43",
-    "mensaje": "Se mantiene en avería el circuito **Circuito 33 Kv: 6220**\nTK61 La Yaya\nTK58 La Calera\nTK62 Lora\nTK63 Lora\nTJ95 Poblado Menéndez\n6220 Carúpano, La Salina y La Playa\nTK15Tunas El Pueblo \nTK2 Bonachea",
-    "timestamp": 1759578187,
-    "timestamp_local": 1759578187
   }
 ]
