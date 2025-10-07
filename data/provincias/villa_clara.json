@@ -1,5 +1,21 @@
 [
   {
+    "id": 31299,
+    "fecha": "07 de Oct del 2025 a las 03:55 AM",
+    "hora_utc": "2025-10-07 07:55",
+    "mensaje": "Actualización del servicio eléctrico en la provincia\n✍️Se mantienen afectados en la provincia 105 circuitos.\n✍️En el momento de hacer esta nota la provincia tiene 142  MW de afectación por déficit de capacidad de generación, demanda máxima posible a apagar.\n✍️Cuenta con 97 afectaciones por averías secundarias y de servicio",
+    "timestamp": 1759823758,
+    "timestamp_local": 1759823758
+  },
+  {
+    "id": 31298,
+    "fecha": "07 de Oct del 2025 a las 03:52 AM",
+    "hora_utc": "2025-10-07 07:52",
+    "mensaje": "⚠️En déficit de capacidad de generación los siguientes circuitos:\nMunicipio Remedios:\n👉Ctos 67 y 152, 68 y 118 \n👉Ctos 69 y 70 Zuluetas\n👉Cto 143 Batey Heriberto Duquesne (Avería)\n👉Cto 71 Buena Vista (Avería)",
+    "timestamp": 1759823576,
+    "timestamp_local": 1759823576
+  },
+  {
     "id": 31297,
     "fecha": "07 de Oct del 2025 a las 02:02 AM",
     "hora_utc": "2025-10-07 06:02",
@@ -142,21 +158,5 @@
     "mensaje": "Restablecida la línea 1365:\nMunicipio Remedios:\n👉Ctos 67 y 152, 68 y 118\n👉Ctos 69 y 70 Zuluetas\n👉Cto 143 Batey Heriberto Duquesne\n👉Cto 71 Buena Vista",
     "timestamp": 1759799867,
     "timestamp_local": 1759799867
-  },
-  {
-    "id": 31279,
-    "fecha": "06 de Oct del 2025 a las 09:09 PM",
-    "hora_utc": "2025-10-07 01:09",
-    "mensaje": "La provincia presenta 151 MW por déficit de capacidad de generación, demanda máxima a apagar en estos momentos.",
-    "timestamp": 1759799344,
-    "timestamp_local": 1759799344
-  },
-  {
-    "id": 31278,
-    "fecha": "06 de Oct del 2025 a las 08:40 PM",
-    "hora_utc": "2025-10-07 00:40",
-    "mensaje": "🛠️Afectada por disparo por tormenta la línea 1365:\nMunicipio Remedios:\n👉Ctos 67 y 152, 68 y 118\n👉Ctos 69 y 70 Zuluetas\n👉Cto 143 Batey Heriberto Duquesne\n👉Cto 71 Buena Vista",
-    "timestamp": 1759797613,
-    "timestamp_local": 1759797613
   }
 ]
