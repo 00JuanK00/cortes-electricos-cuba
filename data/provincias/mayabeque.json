@@ -1,9 +1,73 @@
 [
   {
+    "id": 92502,
+    "fecha": "08 de Oct del 2025 a las 09:09 AM",
+    "hora_utc": "2025-10-08 13:09",
+    "mensaje": "🔷♦️Se restablece el servicio en el siguiente circuito que se encontraba afectado por déficit de capacidad de generación:\n*2420♦️🔷",
+    "timestamp": 1759928945,
+    "timestamp_local": 1759928945
+  },
+  {
+    "id": 92500,
+    "fecha": "08 de Oct del 2025 a las 08:53 AM",
+    "hora_utc": "2025-10-08 12:53",
+    "mensaje": "🔷♦️Se restablece el servicio en el circuito que se encontraba afectado por déficit de capacidad de generación:\n*3655 ♦️🔷",
+    "timestamp": 1759928009,
+    "timestamp_local": 1759928009
+  },
+  {
+    "id": 92499,
+    "fecha": "08 de Oct del 2025 a las 08:51 AM",
+    "hora_utc": "2025-10-08 12:51",
+    "mensaje": "🔷♦️Se restablece el servicio en el circuito que se encontraba afectado por déficit de capacidad de generación:\n*Surgidero ♦️🔷",
+    "timestamp": 1759927875,
+    "timestamp_local": 1759927875
+  },
+  {
+    "id": 92498,
+    "fecha": "08 de Oct del 2025 a las 08:50 AM",
+    "hora_utc": "2025-10-08 12:50",
+    "mensaje": "🔷♦️Se restablece el servicio en el circuito 2495 que se encontraba afectado por Vía Libre 🔷♦️",
+    "timestamp": 1759927845,
+    "timestamp_local": 1759927845
+  },
+  {
+    "id": 92497,
+    "fecha": "08 de Oct del 2025 a las 08:48 AM",
+    "hora_utc": "2025-10-08 12:48",
+    "mensaje": "🔷♦️Se restablece el servicio en el circuito que se encontraba afectado por déficit de capacidad de generación:\n*3660♦️🔷",
+    "timestamp": 1759927734,
+    "timestamp_local": 1759927734
+  },
+  {
+    "id": 92496,
+    "fecha": "08 de Oct del 2025 a las 08:42 AM",
+    "hora_utc": "2025-10-08 12:42",
+    "mensaje": "🚨Por déficit de capacidad de generación se afecta el servicio en el siguiente circuito:\n*Camilo 🚨",
+    "timestamp": 1759927346,
+    "timestamp_local": 1759927346
+  },
+  {
+    "id": 92494,
+    "fecha": "08 de Oct del 2025 a las 08:36 AM",
+    "hora_utc": "2025-10-08 12:36",
+    "mensaje": "🔷♦️Se restablece el servicio en el siguiente circuito que se encontraba afectado por déficit de capacidad de generación:\n*2320♦️🔷",
+    "timestamp": 1759926963,
+    "timestamp_local": 1759926963
+  },
+  {
+    "id": 92493,
+    "fecha": "08 de Oct del 2025 a las 08:35 AM",
+    "hora_utc": "2025-10-08 12:35",
+    "mensaje": "**Nota Informativa: Estado del Sistema Eléctrico Nacional (SEN) – 8 de octubre de 2025\n**En el día de ayer se afectó el servicio las 24 horas y se mantuvo afectado durante toda la madrugada de hoy. La máxima afectación por déficit de capacidad de generación en el día de ayer fue de 1772 MW a las 19:30 horas, superior a lo planificado por la salida de los motores de Moa y del ciclo combinado de Energás Jaruco.\nLa producción de energía de los 32 nuevos parques solares fotovoltaicos fue de 2292 MWh, con 472 MW como máxima potencia entregada en el horario de la media con esta fuente de generación. \n**Estado actual del SEN\n**La disponibilidad del SEN a las 06:00 horas es de 1460 MW y la demanda 2730 MW con 1082 MW afectados por déficit de capacidad. En el horario de la media se estima una afectación de 1300 MW. \n**Principales incidencias\n** • Avería: Unidad 2 de la CTE Felton, Unidad 3 de Santa Cruz, Unidad 8 de Mariel y Unidad 3, 5 y 6 de la CTE Renté.\n • Mantenimiento: Unidad 1 y 2 de la CTE Santa Cruz y Unidad 4 de la CTE Carlos Manuel de Céspedes en Cienfuegos.\n • Limitaciones térmicas: 312 MW fuera de servicio.\n • Problemas por falta de combustible\n • 47 centrales de generación distribuida con 295 MW.\n • 240 MW indisponibles por falta de lubricante.\n • Total de MW afectados por esta causa: 535 MW.\n**Pronóstico para el horario pico\n**Para el pico se estima la recuperación de 50 MW en motores de generación distribuida que se encuentran fuera por combustible y la entrada de la unidad 3 de la CTE Santa Cruz con 50 MW.\nCon este pronóstico en el horario pico se estima una disponibilidad de 1560 MW y una demanda máxima de 3240 MW, para un déficit de 1680 MW, por lo que de mantenerse las condiciones previstas se pronostica una afectación de 1750 MW en este horario.",
+    "timestamp": 1759926948,
+    "timestamp_local": 1759926948
+  },
+  {
     "id": 92492,
     "fecha": "08 de Oct del 2025 a las 08:15 AM",
     "hora_utc": "2025-10-08 12:15",
-    "mensaje": "♦️Se afecta el servicio en el circuito de Catalina por Vía Libre ♦️",
+    "mensaje": "♦️Se afecta el servicio en el circuito 2495: (Catalina y Ganuza) por Vía Libre ♦️",
     "timestamp": 1759925750,
     "timestamp_local": 1759925750
   },
@@ -54,101 +118,5 @@
     "mensaje": "🚨Por déficit de capacidad de generación se afecta el servicio en los siguientes circuitos:\n*Magela\n*Quivicán 🚨",
     "timestamp": 1759921729,
     "timestamp_local": 1759921729
-  },
-  {
-    "id": 92484,
-    "fecha": "08 de Oct del 2025 a las 07:07 AM",
-    "hora_utc": "2025-10-08 11:07",
-    "mensaje": "🔷♦️Se restablece el servicio en el siguiente circuito que se encontraba afectado por déficit de capacidad de generación:\n*1657♦️🔷",
-    "timestamp": 1759921624,
-    "timestamp_local": 1759921624
-  },
-  {
-    "id": 92483,
-    "fecha": "08 de Oct del 2025 a las 07:01 AM",
-    "hora_utc": "2025-10-08 11:01",
-    "mensaje": "🚨Por déficit de capacidad de generación se afecta el servicio en el siguiente circuito:\n*Bio 2 🚨",
-    "timestamp": 1759921314,
-    "timestamp_local": 1759921314
-  },
-  {
-    "id": 92482,
-    "fecha": "08 de Oct del 2025 a las 07:01 AM",
-    "hora_utc": "2025-10-08 11:01",
-    "mensaje": "🔷♦️Se restablece el servicio en el siguiente circuito que se encontraba afectado por déficit de capacidad de generación:\n*Bio 1 ♦️🔷",
-    "timestamp": 1759921302,
-    "timestamp_local": 1759921302
-  },
-  {
-    "id": 92481,
-    "fecha": "08 de Oct del 2025 a las 07:01 AM",
-    "hora_utc": "2025-10-08 11:01",
-    "mensaje": "🔷♦️Se restablece el servicio en el siguiente circuito que se encontraba afectado por déficit de capacidad de generación:\n*Jaruco ♦️🔷",
-    "timestamp": 1759921291,
-    "timestamp_local": 1759921291
-  },
-  {
-    "id": 92480,
-    "fecha": "08 de Oct del 2025 a las 06:28 AM",
-    "hora_utc": "2025-10-08 10:28",
-    "mensaje": "🔷♦️Se restablece el servicio en el siguiente circuito que se encontraba afectado por déficit de capacidad de generación:\n*2440♦️🔷",
-    "timestamp": 1759919284,
-    "timestamp_local": 1759919284
-  },
-  {
-    "id": 92479,
-    "fecha": "08 de Oct del 2025 a las 06:26 AM",
-    "hora_utc": "2025-10-08 10:26",
-    "mensaje": "🔹Se restablece  el servicio en el circuito 2420 que se encontraba afectado por emergencia🔹",
-    "timestamp": 1759919189,
-    "timestamp_local": 1759919189
-  },
-  {
-    "id": 92478,
-    "fecha": "08 de Oct del 2025 a las 06:24 AM",
-    "hora_utc": "2025-10-08 10:24",
-    "mensaje": "🔷♦️Se restablece el servicio en los siguientes circuitos que se encontraban afectados por déficit de capacidad de generación:\n*Catalina 1 y 2 ♦️🔷",
-    "timestamp": 1759919062,
-    "timestamp_local": 1759919062
-  },
-  {
-    "id": 92477,
-    "fecha": "08 de Oct del 2025 a las 06:22 AM",
-    "hora_utc": "2025-10-08 10:22",
-    "mensaje": "🔷♦️Se restablece el servicio en el siguiente circuito que se encontraba afectado por déficit de capacidad de generación:\n*Vega ♦️🔷",
-    "timestamp": 1759918943,
-    "timestamp_local": 1759918943
-  },
-  {
-    "id": 92476,
-    "fecha": "08 de Oct del 2025 a las 06:21 AM",
-    "hora_utc": "2025-10-08 10:21",
-    "mensaje": "🔷♦️Se restablece el servicio en los siguientes circuitos que se encontraban afectados por déficit de capacidad de generación:\n*Los Palos\n*Sureste ♦️🔷",
-    "timestamp": 1759918888,
-    "timestamp_local": 1759918888
-  },
-  {
-    "id": 92475,
-    "fecha": "08 de Oct del 2025 a las 06:18 AM",
-    "hora_utc": "2025-10-08 10:18",
-    "mensaje": "🔷♦️Se restablece el servicio en el siguiente circuito que se encontraba afectado por déficit de capacidad de generación:\n*Nueva Paz ♦️🔷",
-    "timestamp": 1759918698,
-    "timestamp_local": 1759918698
-  },
-  {
-    "id": 92474,
-    "fecha": "08 de Oct del 2025 a las 06:17 AM",
-    "hora_utc": "2025-10-08 10:17",
-    "mensaje": "🚨Por déficit de capacidad de generación se afecta el servicio en los siguientes circuitos:\n*6 y 8 de San José🚨",
-    "timestamp": 1759918672,
-    "timestamp_local": 1759918672
-  },
-  {
-    "id": 92473,
-    "fecha": "08 de Oct del 2025 a las 06:16 AM",
-    "hora_utc": "2025-10-08 10:16",
-    "mensaje": "🚨Por déficit de capacidad de generación se afecta el servicio en el siguiente circuito:\n*Melena 1 🚨",
-    "timestamp": 1759918595,
-    "timestamp_local": 1759918595
   }
 ]
