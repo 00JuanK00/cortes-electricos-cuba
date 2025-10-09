@@ -1,5 +1,29 @@
 [
   {
+    "id": 27003,
+    "fecha": "09 de Oct del 2025 a las 09:27 AM",
+    "hora_utc": "2025-10-09 13:27",
+    "mensaje": "⚡En estos momentos tenemos  afectados por déficit de capacidad de generación 94 MW en la provincia.⚡",
+    "timestamp": 1760016469,
+    "timestamp_local": 1760016469
+  },
+  {
+    "id": 27002,
+    "fecha": "09 de Oct del 2025 a las 09:23 AM",
+    "hora_utc": "2025-10-09 13:23",
+    "mensaje": "Transformadores dañados:\n-Jovellanos, Jaime López afectando a 30 clientes \n- Unión de Reyes, Cabezas, El Pilar afectando a 15 clientes \n- Matanzas Versalles, Nueva Esperanza  entre Versalles y San Juan afectando a  80 clientes \n- Jagüey Grande, Pedro Betancourt calle 18 entre 23 y 25 afectando a 45 clientes",
+    "timestamp": 1760016186,
+    "timestamp_local": 1760016186
+  },
+  {
+    "id": 27001,
+    "fecha": "09 de Oct del 2025 a las 09:17 AM",
+    "hora_utc": "2025-10-09 13:17",
+    "mensaje": "Se encuentra en avería \n- GI 41, Jagüey Grande afectando a Batey 4 caminos, Perla , La Conchita.\n- Mk 610, Jaime López, Batey Palo Seco y San Joaquín",
+    "timestamp": 1760015830,
+    "timestamp_local": 1760015830
+  },
+  {
     "id": 27000,
     "fecha": "09 de Oct del 2025 a las 09:04 AM",
     "hora_utc": "2025-10-09 13:04",
@@ -134,29 +158,5 @@
     "mensaje": "‼En estos momentos tenemos  afectados por déficit de capacidad de generación 139**MW** en la provincia.‼",
     "timestamp": 1759983473,
     "timestamp_local": 1759983473
-  },
-  {
-    "id": 26982,
-    "fecha": "09 de Oct del 2025 a las 12:17 AM",
-    "hora_utc": "2025-10-09 04:17",
-    "mensaje": "✅SERVICIO RESTABLECIDO✅\n\nCircuito MI5680.\nCircuito 4470.\nCircuito MK1510.\nCircuito Z1139.\nCircuito MI5660.\nCircuito 4073.\nCircuito 4485.\nCircuito MI1451.",
-    "timestamp": 1759983422,
-    "timestamp_local": 1759983422
-  },
-  {
-    "id": 26981,
-    "fecha": "08 de Oct del 2025 a las 11:34 PM",
-    "hora_utc": "2025-10-09 03:34",
-    "mensaje": "💡Se les restablecerá el servicio a dichos circuitos en las próximas horas** en dependencia del comportamiento de la demanda:\n\n**- Circuito MI5680 que da servicio a Cítrico y Sabana Grande.\n- Circuito 4470 que da servicio a Cítrico, Torriente, San Joaquín.\n- Circuito MK1510 que da servicio a Santa Marta desde el policlínico hasta la lavandería.\n- Circuito  Z-1139 que da servicio a Santa Marta desde el policlínico hasta la lavandería.\n- Circuito MI5660 que da servicio  a Güira-Betancourt.",
-    "timestamp": 1759980885,
-    "timestamp_local": 1759980885
-  },
-  {
-    "id": 26980,
-    "fecha": "08 de Oct del 2025 a las 11:24 PM",
-    "hora_utc": "2025-10-09 03:24",
-    "mensaje": "Información a la población‼️\n👉En estos momentos tenemos 146**MW** afectados por déficit de capacidad degeneración.\n\n📌En cuanto las condiciones del sistema lo permitan se restablecerán de manera paulatina los circuitos que más tiempo de afectación presenten.",
-    "timestamp": 1759980282,
-    "timestamp_local": 1759980282
   }
 ]
