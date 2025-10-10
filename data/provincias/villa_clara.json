@@ -1,5 +1,61 @@
 [
   {
+    "id": 31523,
+    "fecha": "10 de Oct del 2025 a las 02:47 PM",
+    "hora_utc": "2025-10-10 18:47",
+    "mensaje": "🛠️Afectados por disparo los circuitos 68 y 118 del municipio Remedios. Se estudian las causas.",
+    "timestamp": 1760122074,
+    "timestamp_local": 1760122074
+  },
+  {
+    "id": 31522,
+    "fecha": "10 de Oct del 2025 a las 02:37 PM",
+    "hora_utc": "2025-10-10 18:37",
+    "mensaje": "⚠️En déficit de capacidad de generación los siguientes circuitos:\nMunicipio Placetas:\n👉Cto 192 Benito Juárez\n👉Cto 102 Peroti",
+    "timestamp": 1760121447,
+    "timestamp_local": 1760121447
+  },
+  {
+    "id": 31521,
+    "fecha": "10 de Oct del 2025 a las 02:33 PM",
+    "hora_utc": "2025-10-10 18:33",
+    "mensaje": "Con servicio parcial la línea 1910:\nMunicipio Placetas \n👉Ctos 98 y 99 Placetas\n👉Ctos 100 y 151 Placetas\n👉Cto 104 Hermanos Amejeiras\n👉Cto 103 Batey Carbó Servia\n✍️Quedan afectados Batey Francisco Pérez y San Ramón.",
+    "timestamp": 1760121200,
+    "timestamp_local": 1760121200
+  },
+  {
+    "id": 31520,
+    "fecha": "10 de Oct del 2025 a las 02:23 PM",
+    "hora_utc": "2025-10-10 18:23",
+    "mensaje": "💡Restablecido el servicio eléctrico en el circuito 30 (Santa Clara Industrial)",
+    "timestamp": 1760120630,
+    "timestamp_local": 1760120630
+  },
+  {
+    "id": 31519,
+    "fecha": "10 de Oct del 2025 a las 02:22 PM",
+    "hora_utc": "2025-10-10 18:22",
+    "mensaje": "⚠️En déficit de capacidad de generación los circuitos 167 (Virginia) y 170 (José Martí), del municipio Santa Clara.",
+    "timestamp": 1760120540,
+    "timestamp_local": 1760120540
+  },
+  {
+    "id": 31518,
+    "fecha": "10 de Oct del 2025 a las 02:11 PM",
+    "hora_utc": "2025-10-10 18:11",
+    "mensaje": "⚠️En déficit de capacidad de generación los siguientes circuitos:\nMunicipio Cifuentes:\n👉Ctos 114 y 117\n👉Ctos 116 y 155 Mata\n👉Cto 186 Batey Unidad Proletaria\n👉Cto 184 Sitio Grande",
+    "timestamp": 1760119905,
+    "timestamp_local": 1760119905
+  },
+  {
+    "id": 31517,
+    "fecha": "10 de Oct del 2025 a las 02:01 PM",
+    "hora_utc": "2025-10-10 18:01",
+    "mensaje": "🛠️Afectada la línea 1910:\nAfecta los siguientes circuitos:\nMunicipio Placetas \n👉Ctos 98 y 99 Placetas\n👉Ctos 100 y 151 Placetas\n👉Cto 104 Hermanos Amejeiras\n👉Cto 103 Batey Carbó Servia\n✍️Se estudian las causas.",
+    "timestamp": 1760119303,
+    "timestamp_local": 1760119303
+  },
+  {
     "id": 31516,
     "fecha": "10 de Oct del 2025 a las 01:59 PM",
     "hora_utc": "2025-10-10 17:59",
@@ -102,61 +158,5 @@
     "mensaje": "🛠️Afectado el circuito 114 del municipio Cifuentes para reponer un transformador esquelético.",
     "timestamp": 1760111756,
     "timestamp_local": 1760111756
-  },
-  {
-    "id": 31503,
-    "fecha": "10 de Oct del 2025 a las 11:44 AM",
-    "hora_utc": "2025-10-10 15:44",
-    "mensaje": "⚠️En déficit de capacidad de generación el circuito 4 (Consejo-Centro), del municipio Santa Clara.",
-    "timestamp": 1760111077,
-    "timestamp_local": 1760111077
-  },
-  {
-    "id": 31502,
-    "fecha": "10 de Oct del 2025 a las 11:27 AM",
-    "hora_utc": "2025-10-10 15:27",
-    "mensaje": "⚠️En déficit de capacidad de generación los siguientes circuitos:\nMunicipio Santo Domingo:\n👉Cto 134\n👉Ctos 87 y 96 Bermejal\n👉Cto 187 Batey Carlos Baliño\n👉Cto 82 Ulacia\n👉Cto 84 Rodrigo",
-    "timestamp": 1760110069,
-    "timestamp_local": 1760110069
-  },
-  {
-    "id": 31501,
-    "fecha": "10 de Oct del 2025 a las 11:07 AM",
-    "hora_utc": "2025-10-10 15:07",
-    "mensaje": "⚠️En déficit de capacidad de generación los siguientes circuitos:\nMunicipio Camajuaní:\n👉Ctos  73 y 156 \n👉Cto 74 José María Pérez (Parcialmente en avería)",
-    "timestamp": 1760108843,
-    "timestamp_local": 1760108843
-  },
-  {
-    "id": 31500,
-    "fecha": "10 de Oct del 2025 a las 10:38 AM",
-    "hora_utc": "2025-10-10 14:38",
-    "mensaje": "⚠️En déficit de capacidad de generación el circuito  30 (Santa Clara Industrial)",
-    "timestamp": 1760107093,
-    "timestamp_local": 1760107093
-  },
-  {
-    "id": 31499,
-    "fecha": "10 de Oct del 2025 a las 10:30 AM",
-    "hora_utc": "2025-10-10 14:30",
-    "mensaje": "⚠️En déficit de capacidad de generación los siguientes circuitos:\nMunicipio Sagua\n👉Cto 48 Finalet\n👉Ctos 46 y 128 Sitiecito",
-    "timestamp": 1760106614,
-    "timestamp_local": 1760106614
-  },
-  {
-    "id": 31498,
-    "fecha": "10 de Oct del 2025 a las 10:21 AM",
-    "hora_utc": "2025-10-10 14:21",
-    "mensaje": "⚠️En déficit de capacidad de generación los siguientes circuitos:\nMunicipio Remedios:\n👉Ctos 67 y 152",
-    "timestamp": 1760106112,
-    "timestamp_local": 1760106112
-  },
-  {
-    "id": 31497,
-    "fecha": "10 de Oct del 2025 a las 10:12 AM",
-    "hora_utc": "2025-10-10 14:12",
-    "mensaje": "⚠️En déficit de capacidad de generación los siguientes circuitos:\nMunicipio Placetas:\n👉Cto 101 y 145 Cumbre",
-    "timestamp": 1760105522,
-    "timestamp_local": 1760105522
   }
 ]
