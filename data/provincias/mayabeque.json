@@ -1,5 +1,53 @@
 [
   {
+    "id": 92711,
+    "fecha": "10 de Oct del 2025 a las 06:30 AM",
+    "hora_utc": "2025-10-10 10:30",
+    "mensaje": "🚨Por déficit de capacidad de generación se afecta el servicio en el siguiente circuito: \n* UNAH  🚨",
+    "timestamp": 1760092238,
+    "timestamp_local": 1760092238
+  },
+  {
+    "id": 92710,
+    "fecha": "10 de Oct del 2025 a las 06:25 AM",
+    "hora_utc": "2025-10-10 10:25",
+    "mensaje": "🚨Por déficit de capacidad de generación se afecta el servicio en el siguiente circuito: \n* 3655 🚨",
+    "timestamp": 1760091932,
+    "timestamp_local": 1760091932
+  },
+  {
+    "id": 92709,
+    "fecha": "10 de Oct del 2025 a las 06:22 AM",
+    "hora_utc": "2025-10-10 10:22",
+    "mensaje": "🚨Por déficit de capacidad de generación se afecta el servicio en el siguiente circuito: \n* 3660 🚨",
+    "timestamp": 1760091763,
+    "timestamp_local": 1760091763
+  },
+  {
+    "id": 92708,
+    "fecha": "10 de Oct del 2025 a las 06:21 AM",
+    "hora_utc": "2025-10-10 10:21",
+    "mensaje": "🚨Por déficit de capacidad de generación se afecta el servicio en el siguiente circuito: \n* Censa 🚨",
+    "timestamp": 1760091675,
+    "timestamp_local": 1760091675
+  },
+  {
+    "id": 92707,
+    "fecha": "10 de Oct del 2025 a las 06:08 AM",
+    "hora_utc": "2025-10-10 10:08",
+    "mensaje": "🚨Por déficit de capacidad de generación se afecta el servicio en el siguiente circuito: \n* Somorrostro 🚨",
+    "timestamp": 1760090936,
+    "timestamp_local": 1760090936
+  },
+  {
+    "id": 92706,
+    "fecha": "10 de Oct del 2025 a las 06:01 AM",
+    "hora_utc": "2025-10-10 10:01",
+    "mensaje": "🚨Por déficit de capacidad de generación se afecta el servicio en el siguiente circuito: \n* Jamaica 🚨",
+    "timestamp": 1760090491,
+    "timestamp_local": 1760090491
+  },
+  {
     "id": 92705,
     "fecha": "10 de Oct del 2025 a las 05:54 AM",
     "hora_utc": "2025-10-10 09:54",
@@ -27,7 +75,7 @@
     "id": 92700,
     "fecha": "10 de Oct del 2025 a las 04:26 AM",
     "hora_utc": "2025-10-10 08:26",
-    "mensaje": "🔷♦️Se restablece el servicio en el siguiente circuito que se encontraba afectado por déficit de capacidad de generación:\n* Melena 2\n *  Vedado de Güines ♦️🔷",
+    "mensaje": "🔷♦️Se restablece el servicio en el siguiente circuito que se encontraba afectado por déficit de capacidad de generación:\n * Melena 2\n * Vedado de Güines \n * Caamaño ♦️🔷",
     "timestamp": 1760084792,
     "timestamp_local": 1760084792
   },
@@ -70,53 +118,5 @@
     "mensaje": "🔷♦️Se restablece el servicio en el siguiente circuito que se encontraba afectado por déficit de capacidad de generación:\n* Jamaica ♦️🔷",
     "timestamp": 1760071048,
     "timestamp_local": 1760071048
-  },
-  {
-    "id": 92691,
-    "fecha": "10 de Oct del 2025 a las 12:35 AM",
-    "hora_utc": "2025-10-10 04:35",
-    "mensaje": "🔷♦️Se restablece el servicio en el siguiente circuito que se encontraba afectado por déficit de capacidad de generación:\n*San Nicolás 1 ♦️🔷",
-    "timestamp": 1760070948,
-    "timestamp_local": 1760070948
-  },
-  {
-    "id": 92690,
-    "fecha": "10 de Oct del 2025 a las 12:33 AM",
-    "hora_utc": "2025-10-10 04:33",
-    "mensaje": "🔷♦️Se restablece el servicio en el siguiente circuito que se encontraba afectado por déficit de capacidad de generación:\n* Güines 1 ♦️🔷",
-    "timestamp": 1760070832,
-    "timestamp_local": 1760070832
-  },
-  {
-    "id": 92689,
-    "fecha": "10 de Oct del 2025 a las 12:29 AM",
-    "hora_utc": "2025-10-10 04:29",
-    "mensaje": "🔷♦️Se restablece el servicio en el siguiente circuito que se encontraba afectado por déficit de capacidad de generación:\n* Somorrostro ♦️🔷",
-    "timestamp": 1760070555,
-    "timestamp_local": 1760070555
-  },
-  {
-    "id": 92688,
-    "fecha": "10 de Oct del 2025 a las 12:25 AM",
-    "hora_utc": "2025-10-10 04:25",
-    "mensaje": "🚨Por déficit de capacidad de generación se afecta el servicio en los siguientes circuitos\n* Vega \n* Nueva Paz 🚨",
-    "timestamp": 1760070323,
-    "timestamp_local": 1760070323
-  },
-  {
-    "id": 92687,
-    "fecha": "10 de Oct del 2025 a las 12:21 AM",
-    "hora_utc": "2025-10-10 04:21",
-    "mensaje": "🚨Por déficit de capacidad de generación se afecta el servicio en los siguientes circuitos\n* Los Palos \n* Sureste 🚨",
-    "timestamp": 1760070098,
-    "timestamp_local": 1760070098
-  },
-  {
-    "id": 92686,
-    "fecha": "10 de Oct del 2025 a las 12:21 AM",
-    "hora_utc": "2025-10-10 04:21",
-    "mensaje": "🚨Por déficit de capacidad de generación se afecta el servicio en el siguiente circuito: \n* Catalina 1 y 2 🚨",
-    "timestamp": 1760070064,
-    "timestamp_local": 1760070064
   }
 ]
