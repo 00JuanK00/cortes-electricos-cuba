@@ -1,5 +1,37 @@
 [
   {
+    "id": 31489,
+    "fecha": "10 de Oct del 2025 a las 08:55 AM",
+    "hora_utc": "2025-10-10 12:55",
+    "mensaje": "🛠️Manipulación de la línea 861:\nAfecta los siguientes circuitos:\nMunicipio Santa Clara:\n👉Cto 5 (Dobarganes)\n👉Cto 17 (Subplanta)\n👉Ctos 37 y 38 (Yabú)   \n👉Cto 133 (Cafetera)\n👉Cto 5 (Dobarganes)\n👉Cto 17 (Subplanta)\n👉Ctos 37 y 38 (Yabú)   \n👉Cto 9 (Moldes y Troqueles)\n👉Cto 133 (Cafetera)\n✍️Quedarán afectados los circuitos 37 y 38 (Yabú), del municipio Santa Clara, por mantenimiento estructural para la segunda salida del parque fotovoltaico Batalla de Santa Clara.",
+    "timestamp": 1760100926,
+    "timestamp_local": 1760100926
+  },
+  {
+    "id": 31488,
+    "fecha": "10 de Oct del 2025 a las 08:43 AM",
+    "hora_utc": "2025-10-10 12:43",
+    "mensaje": "💡 Con servicio  los siguientes circuitos:\nMunicipio Santo Domingo:\n👉Cto 195 Batey George Washington\n👉Ctos 83 y 165 Manacas\n👉Ctos 85 y 86 Pajarito\n👉Ctos 160 y 161 Cascajal",
+    "timestamp": 1760100208,
+    "timestamp_local": 1760100208
+  },
+  {
+    "id": 31487,
+    "fecha": "10 de Oct del 2025 a las 08:42 AM",
+    "hora_utc": "2025-10-10 12:42",
+    "mensaje": "⚠️En déficit de capacidad de generación los siguientes circuitos:\nMunicipio Placetas:\n👉Cto 192 Benito Juárez\n👉Cto 102 Peroti",
+    "timestamp": 1760100138,
+    "timestamp_local": 1760100138
+  },
+  {
+    "id": 31486,
+    "fecha": "10 de Oct del 2025 a las 08:25 AM",
+    "hora_utc": "2025-10-10 12:25",
+    "mensaje": "⚠️En déficit de capacidad de generación los siguientes circuitos:\n🔹Municipio Encrucijada\n👉Cto 120 Calabazar\n👉Ctos 121 y 127 Perucho",
+    "timestamp": 1760099151,
+    "timestamp_local": 1760099151
+  },
+  {
     "id": 31485,
     "fecha": "10 de Oct del 2025 a las 08:11 AM",
     "hora_utc": "2025-10-10 12:11",
@@ -126,37 +158,5 @@
     "mensaje": "Actualización del servicio eléctrico en la provincia\n✍️Se mantienen afectados en la provincia 141 circuitos.\n✍️En el momento de hacer esta nota la provincia tiene 113 MW de afectación por déficit de capacidad de generación, demanda máxima posible a apagar.\n✍️Cuenta con 127 afectaciones por averías secundarias y de servicio",
     "timestamp": 1760061983,
     "timestamp_local": 1760061983
-  },
-  {
-    "id": 31468,
-    "fecha": "09 de Oct del 2025 a las 08:23 PM",
-    "hora_utc": "2025-10-10 00:23",
-    "mensaje": "Actualización del servicio eléctrico en la provincia\n✍️Se mantienen afectados en la provincia 150 circuitos.\n✍️En el momento de hacer esta nota la provincia tiene 146 MW de afectación por déficit de capacidad de generación, demanda máxima posible a apagar.\n✍️Cuenta con 145 afectaciones por averías secundarias y de servicio",
-    "timestamp": 1760055788,
-    "timestamp_local": 1760055788
-  },
-  {
-    "id": 31467,
-    "fecha": "09 de Oct del 2025 a las 07:23 PM",
-    "hora_utc": "2025-10-09 23:23",
-    "mensaje": "⚠️En déficit de capacidad de generación los siguientes circuitos:\n🔹Municipio Santo Domingo:\n👉Ctos 83 y 165 Manacas\n👉Cto 195 Batey George Washington\n👉Ctos 85 y 86 Pajarito\n👉Ctos 160 y 161 Cascajal",
-    "timestamp": 1760052237,
-    "timestamp_local": 1760052237
-  },
-  {
-    "id": 31466,
-    "fecha": "09 de Oct del 2025 a las 06:19 PM",
-    "hora_utc": "2025-10-09 22:19",
-    "mensaje": "⚠️En déficit de capacidad de generación los siguientes circuitos:\n🔹Municipio Camajuaní\n👉Ctos 77, 59, 185 Vueltas\n👉Cto 75 La Quinta\n👉Cto 157 Luis Arcos Bergnes\n👉Ctos 76 y 90 Vega Alta",
-    "timestamp": 1760048357,
-    "timestamp_local": 1760048357
-  },
-  {
-    "id": 31465,
-    "fecha": "09 de Oct del 2025 a las 06:10 PM",
-    "hora_utc": "2025-10-09 22:10",
-    "mensaje": "💡Con servicio el siguiente circuito \n👉Cto 149 San Juan perteneciente al municipio Ranchuelo",
-    "timestamp": 1760047844,
-    "timestamp_local": 1760047844
   }
 ]
