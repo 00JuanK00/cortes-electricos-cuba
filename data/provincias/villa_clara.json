@@ -1,9 +1,33 @@
 [
   {
+    "id": 31492,
+    "fecha": "10 de Oct del 2025 a las 09:39 AM",
+    "hora_utc": "2025-10-10 13:39",
+    "mensaje": "⚠️En déficit de capacidad de generación los siguientes circuitos:\nMunicipio Encrucijada:\n👉Cto 122 Encrucijada \n👉Cto 123 Vizcaya \n👉Cto 142 Comunidad La Sierra \n👉Cto 126 Batey Emilio Córdova\n👉Cto 125 Cavarrocas\n👉Cto 124 El Santo\nMunicipio Camajuaní:\n👉Cto 78 Jutiero",
+    "timestamp": 1760103572,
+    "timestamp_local": 1760103572
+  },
+  {
+    "id": 31491,
+    "fecha": "10 de Oct del 2025 a las 09:12 AM",
+    "hora_utc": "2025-10-10 13:12",
+    "mensaje": "💡 Con servicio  los siguientes circuitos:\n🔹Municipio Ranchuelo:\n👉Cto 92 Esperanza (Pueblo)\n👉Cto 93 Esperanza (Campo)\n👉Ctos 54, 94 y 95 Jicotea",
+    "timestamp": 1760101965,
+    "timestamp_local": 1760101965
+  },
+  {
+    "id": 31490,
+    "fecha": "10 de Oct del 2025 a las 09:07 AM",
+    "hora_utc": "2025-10-10 13:07",
+    "mensaje": "💡Restablecida parcialmente la línea 861:\nMunicipio Santa Clara:\n👉Cto 5 (Dobarganes)\n👉Cto 17 (Subplanta)\n👉Cto 9 (Moldes y Troqueles)\n👉Cto 133 (Cafetera)",
+    "timestamp": 1760101647,
+    "timestamp_local": 1760101647
+  },
+  {
     "id": 31489,
     "fecha": "10 de Oct del 2025 a las 08:55 AM",
     "hora_utc": "2025-10-10 12:55",
-    "mensaje": "🛠️Manipulación de la línea 861:\nAfecta los siguientes circuitos:\nMunicipio Santa Clara:\n👉Cto 5 (Dobarganes)\n👉Cto 17 (Subplanta)\n👉Ctos 37 y 38 (Yabú)   \n👉Cto 133 (Cafetera)\n👉Cto 5 (Dobarganes)\n👉Cto 17 (Subplanta)\n👉Ctos 37 y 38 (Yabú)   \n👉Cto 9 (Moldes y Troqueles)\n👉Cto 133 (Cafetera)\n✍️Quedarán afectados los circuitos 37 y 38 (Yabú), del municipio Santa Clara, por mantenimiento estructural para la segunda salida del parque fotovoltaico Batalla de Santa Clara.",
+    "mensaje": "🛠️Manipulación de la línea 861:\nAfecta los siguientes circuitos:\nMunicipio Santa Clara:\n👉Cto 5 (Dobarganes)\n👉Cto 17 (Subplanta)\n👉Ctos 37 y 38 (Yabú)  \n👉Cto 9 (Moldes y Troqueles)\n👉Cto 133 (Cafetera)\n✍️Quedarán afectados los circuitos 37 y 38 (Yabú), del municipio Santa Clara, por mantenimiento estructural para la segunda salida del parque fotovoltaico Batalla de Santa Clara.",
     "timestamp": 1760100926,
     "timestamp_local": 1760100926
   },
@@ -134,29 +158,5 @@
     "mensaje": "💡Con servicio  los siguientes circuitos :\n🔹Municipio Cifuentes:\n👉Ctos 114 y 117\n👉Ctos 116 y 155 Mata\n👉Cto 186 Batey Unidad Proletaria\n👉Cto 184 Sitio Grande\n🔹Municipio Camajuaní:\n👉Cto 75 La Quinta\n👉Cto 157 Luis Arcos Bergnes\n👉Ctos 76 y 90 Vega Alta\n👉Ctos 77, 59, 185 Vueltas",
     "timestamp": 1760069651,
     "timestamp_local": 1760069651
-  },
-  {
-    "id": 31471,
-    "fecha": "10 de Oct del 2025 a las 12:10 AM",
-    "hora_utc": "2025-10-10 04:10",
-    "mensaje": "🕛Actualización del servicio eléctrico en las últimas 6 horas.\n✍️El déficit de capacidad de generación osciló entre los 131 MW y 103 MW.\n✍️En el momento de esta nota, se mantienen afectados 143 circuitos.\n✍️Cuenta con 117 afectaciones por averías secundarias y de servicio:\n🔹Caibarién (10)\n🔹Encrucijada (7)\n🔹Ranchuelo (11)\n🔹Remedios (24)\n🔹Santa Clara (48)\n🔹Santo Domingo (17)\n🛠️Pendientes a solucionar por el área técnica 32.\n🛠️ En vías de solución 4.\n⚡Avería⚡\n👉Cto 35 Biotecnología  perteneciente al municipio Santa clara (Se estudian las causas)",
-    "timestamp": 1760069434,
-    "timestamp_local": 1760069434
-  },
-  {
-    "id": 31470,
-    "fecha": "09 de Oct del 2025 a las 10:13 PM",
-    "hora_utc": "2025-10-10 02:13",
-    "mensaje": "⚡Avería⚡\nCto 35 Biotecnología  perteneciente al municipio Santa clara (Se estudian las causas)",
-    "timestamp": 1760062404,
-    "timestamp_local": 1760062404
-  },
-  {
-    "id": 31469,
-    "fecha": "09 de Oct del 2025 a las 10:06 PM",
-    "hora_utc": "2025-10-10 02:06",
-    "mensaje": "Actualización del servicio eléctrico en la provincia\n✍️Se mantienen afectados en la provincia 141 circuitos.\n✍️En el momento de hacer esta nota la provincia tiene 113 MW de afectación por déficit de capacidad de generación, demanda máxima posible a apagar.\n✍️Cuenta con 127 afectaciones por averías secundarias y de servicio",
-    "timestamp": 1760061983,
-    "timestamp_local": 1760061983
   }
 ]
