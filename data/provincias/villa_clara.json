@@ -1,5 +1,69 @@
 [
   {
+    "id": 31557,
+    "fecha": "10 de Oct del 2025 a las 06:37 PM",
+    "hora_utc": "2025-10-10 22:37",
+    "mensaje": "⚠️En déficit de capacidad de generación los siguientes circuitos:\nMunicipio Santa Clara:\n👉Cto 27 (Maleza)\n👉Cto 144 (Camacho)",
+    "timestamp": 1760135833,
+    "timestamp_local": 1760135833
+  },
+  {
+    "id": 31556,
+    "fecha": "10 de Oct del 2025 a las 06:27 PM",
+    "hora_utc": "2025-10-10 22:27",
+    "mensaje": "🛠️ Afectado por faltar una fase el circuito 30 (Santa Clara Industrial)",
+    "timestamp": 1760135233,
+    "timestamp_local": 1760135233
+  },
+  {
+    "id": 31554,
+    "fecha": "10 de Oct del 2025 a las 06:24 PM",
+    "hora_utc": "2025-10-10 22:24",
+    "mensaje": "💡Restablecido el servicio eléctrico en los siguientes circuitos:\n Municipio Manicaragua:\n👉Ctos 113 y 137 La Campana\n👉Cto 112 Hoyo Manicaragua",
+    "timestamp": 1760135077,
+    "timestamp_local": 1760135077
+  },
+  {
+    "id": 31553,
+    "fecha": "10 de Oct del 2025 a las 06:11 PM",
+    "hora_utc": "2025-10-10 22:11",
+    "mensaje": "Con servicio el circuito 30 del municipio Santa Clara.",
+    "timestamp": 1760134290,
+    "timestamp_local": 1760134290
+  },
+  {
+    "id": 31552,
+    "fecha": "10 de Oct del 2025 a las 06:09 PM",
+    "hora_utc": "2025-10-10 22:09",
+    "mensaje": "⚠️En déficit de capacidad de generación los siguientes circuitos:\nMunicipio Ranchuelo\n👉Ctos 148 y 149 San Juan\n👉Cto 91 Batey Osvaldo Herrera",
+    "timestamp": 1760134166,
+    "timestamp_local": 1760134166
+  },
+  {
+    "id": 31551,
+    "fecha": "10 de Oct del 2025 a las 06:05 PM",
+    "hora_utc": "2025-10-10 22:05",
+    "mensaje": "🛠️Afectado por disparo el circuito 30 del municipio Santa Clara. Se estudian las causas.",
+    "timestamp": 1760133912,
+    "timestamp_local": 1760133912
+  },
+  {
+    "id": 31550,
+    "fecha": "10 de Oct del 2025 a las 06:04 PM",
+    "hora_utc": "2025-10-10 22:04",
+    "mensaje": "Con servicio el circuito 16 (Cubanacán), del municipio Santa Clara.",
+    "timestamp": 1760133878,
+    "timestamp_local": 1760133878
+  },
+  {
+    "id": 31548,
+    "fecha": "10 de Oct del 2025 a las 06:01 PM",
+    "hora_utc": "2025-10-10 22:01",
+    "mensaje": "🕕Actualización del servicio eléctrico en las últimas 6 horas.\n✍️El déficit de capacidad de generación osciló entre los 109 MW y 125 MW.\n✍️En el momento de esta nota, se mantienen afectados 131 circuitos.\n✍️Cuenta con 236 afectaciones por averías secundarias y de servicio:\n🔹Caibarién (12)\n🔹Camajuaní (3)\n🔹Cifuentes (1)\n🔹Corralillo (3)\n🔹Encrucijada (1)\n🔹Manicaragua (11)\n🔹Placetas (9)\n🔹Quemado (1)\n🔹Ranchuelo (15)\n🔹Remedios (34)\n🔹Sagua (8)\n🔹Santa Clara (81)\n🔹Santo Domingo (18)\n🛠️Pendientes a solucionar por el área técnica 30.\n🛠️ En vías de solución 9.\n⚡Averías⚡\n👉Cto 70 Zuluetas (Parcial) quedando afectado el ramal Bombeo Chiquitico Fabregat.\n👉Cto 74 José María Pérez (Parcial) perteneciente al municipio de Camajuaní (En déficit)\n 👉 Afectado en la línea 1910 Batey Francisco Pérez y San Ramón.\n👉 Cto 189 del municipio Ranchuelo afectado por emergencia.",
+    "timestamp": 1760133715,
+    "timestamp_local": 1760133715
+  },
+  {
     "id": 31547,
     "fecha": "10 de Oct del 2025 a las 05:26 PM",
     "hora_utc": "2025-10-10 21:26",
@@ -94,69 +158,5 @@
     "mensaje": "⚠️En déficit de capacidad de generación los siguientes circuitos:\nMunicipio Manicaragua:\n👉Ctos 113 y 137 La Campana\n👉Cto 112 Hoyo Manicaragua",
     "timestamp": 1760128424,
     "timestamp_local": 1760128424
-  },
-  {
-    "id": 31533,
-    "fecha": "10 de Oct del 2025 a las 04:31 PM",
-    "hora_utc": "2025-10-10 20:31",
-    "mensaje": "⚠️En déficit de capacidad de generación los circuitos 188 y 89 del municipio Ranchuelo.",
-    "timestamp": 1760128299,
-    "timestamp_local": 1760128299
-  },
-  {
-    "id": 31532,
-    "fecha": "10 de Oct del 2025 a las 04:27 PM",
-    "hora_utc": "2025-10-10 20:27",
-    "mensaje": "⚠️En déficit de capacidad de generación los siguientes circuitos:\nMunicipio Encrucijada:\n👉Cto 122 Encrucijada \n👉Cto 123 Vizcaya \n👉Cto 142 Comunidad La Sierra \n👉Cto 126 Batey Emilio Córdova\n👉Cto 125 Cavarrocas\n👉Cto 124 El Santo\nMunicipio Camajuaní:\n👉Cto 78 Jutiero",
-    "timestamp": 1760128063,
-    "timestamp_local": 1760128063
-  },
-  {
-    "id": 31531,
-    "fecha": "10 de Oct del 2025 a las 04:00 PM",
-    "hora_utc": "2025-10-10 20:00",
-    "mensaje": "Actualización del servicio eléctrico en la provincia\n✍️Se mantienen afectados en la provincia 129 circuitos.\n✍️En el momento de hacer esta nota la provincia tiene 102 MW de afectación por déficit de capacidad de generación, demanda máxima posible a apagar.\n✍️Cuenta con 201 afectaciones por averías secundarias y de servicio",
-    "timestamp": 1760126400,
-    "timestamp_local": 1760126400
-  },
-  {
-    "id": 31529,
-    "fecha": "10 de Oct del 2025 a las 03:35 PM",
-    "hora_utc": "2025-10-10 19:35",
-    "mensaje": "⚠️En déficit de capacidad de generación los siguientes circuitos:\nMunicipio Ranchuelo:\n👉Cto 92 Esperanza (Pueblo)\n👉Cto 93 Esperanza (Campo)\n👉Cto 54 94 y 95 Jicotea \nMunicipio Santa Clara:\n👉Ctos 26 y 141 (Manuelita)\n👉Cto 191 (Quemado de Hilario)",
-    "timestamp": 1760124917,
-    "timestamp_local": 1760124917
-  },
-  {
-    "id": 31528,
-    "fecha": "10 de Oct del 2025 a las 03:30 PM",
-    "hora_utc": "2025-10-10 19:30",
-    "mensaje": "Con servicio la línea 1365:\nMunicipio Remedios:\n👉Ctos 67 y 152 (Continúan en déficit de capacidad de generación)\n👉Ctos 68 y 118 \n👉Ctos 69 y 70 Zuluetas\n👉Cto 143 Batey Heriberto Duquesne\n✍️ Queda afectado el circuito 71 Buena Vista para reparar primarios partidos.",
-    "timestamp": 1760124607,
-    "timestamp_local": 1760124607
-  },
-  {
-    "id": 31527,
-    "fecha": "10 de Oct del 2025 a las 03:21 PM",
-    "hora_utc": "2025-10-10 19:21",
-    "mensaje": "🛠️Afectada por manipulación la línea 1365:\nAfecta los siguientes circuitos:\nMunicipio Remedios:\n👉Ctos 67 y 152 (En déficit)\n👉Ctos 68 y 118 \n👉Ctos 69 y 70 Zuluetas\n👉Cto 143 Batey Heriberto Duquesne\n👉Cto 71 Buena Vista",
-    "timestamp": 1760124104,
-    "timestamp_local": 1760124104
-  },
-  {
-    "id": 31526,
-    "fecha": "10 de Oct del 2025 a las 03:19 PM",
-    "hora_utc": "2025-10-10 19:19",
-    "mensaje": "⚠️En déficit de capacidad de generación los siguientes circuitos:\nMunicipio Camajuaní:\n👉Cto 75 La Quinta\n👉Cto 157 Luis Arcos Bergnes\n👉Ctos 76 y 90 Vega Alta\n👉Ctos 77, 59, 185 Vueltas",
-    "timestamp": 1760123962,
-    "timestamp_local": 1760123962
-  },
-  {
-    "id": 31525,
-    "fecha": "10 de Oct del 2025 a las 03:02 PM",
-    "hora_utc": "2025-10-10 19:02",
-    "mensaje": "💡Restablecidos los circuitos 68 y 118 del municipio Remedios.",
-    "timestamp": 1760122979,
-    "timestamp_local": 1760122979
   }
 ]
