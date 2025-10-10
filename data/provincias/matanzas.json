@@ -1,9 +1,25 @@
 [
   {
+    "id": 27070,
+    "fecha": "10 de Oct del 2025 a las 05:37 PM",
+    "hora_utc": "2025-10-10 21:37",
+    "mensaje": "CON SERVICIO.\n**-**Circuito 4604 que da servicio a Martí-Itabo-Hoyo Colorado.",
+    "timestamp": 1760132258,
+    "timestamp_local": 1760132258
+  },
+  {
+    "id": 27069,
+    "fecha": "10 de Oct del 2025 a las 05:12 PM",
+    "hora_utc": "2025-10-10 21:12",
+    "mensaje": "Actualizamos el déficit por capacidad de generación:  109 MW",
+    "timestamp": 1760130768,
+    "timestamp_local": 1760130768
+  },
+  {
     "id": 27068,
     "fecha": "10 de Oct del 2025 a las 04:40 PM",
     "hora_utc": "2025-10-10 20:40",
-    "mensaje": "AVERÍA  REPORTADA\n\n📌S O L U C I O N A D A 📌\n\nMU 4485,  Jagüey circuito  que da servicio a  Cítrico,  en fallo afecta 309 clientes.",
+    "mensaje": "AVERÍA  REPORTADA\n\n📌S O L U C I O N A D A 📌\n\nMU 4485,  Jagüey circuito  que da servicio a  Cítrico.",
     "timestamp": 1760128809,
     "timestamp_local": 1760128809
   },
@@ -142,21 +158,5 @@
     "mensaje": "⚡Informamos a la población que la afectación de la provincia en estos momentos es de 91 MW por déficit de capacidad de generación⚡",
     "timestamp": 1760098963,
     "timestamp_local": 1760098963
-  },
-  {
-    "id": 27044,
-    "fecha": "10 de Oct del 2025 a las 08:19 AM",
-    "hora_utc": "2025-10-10 12:19",
-    "mensaje": "AVERÍA\n\n\n Se reportó en el día de ayer una avería en la siguiente dirección: \n\nMU 4485,  Jagüey circuito  que da servicio a  Cítrico,  en fallo afecta 309 clientes.",
-    "timestamp": 1760098742,
-    "timestamp_local": 1760098742
-  },
-  {
-    "id": 27043,
-    "fecha": "10 de Oct del 2025 a las 08:15 AM",
-    "hora_utc": "2025-10-10 12:15",
-    "mensaje": "Se reportaron en el día de ayer transformadores dañados en las siguientes direcciones:\n\n• Jovellanos, MK 48, Ave 6 entre 7 y 9, afecta 60 clientes.\n• Jovellanos, MK 75, Manolito, Vaq 167, afecta a 2 clientes\n• Jovellanos, MK610, Jaime López, Batey Nueva Luisa, afecta 30 clientes.",
-    "timestamp": 1760098546,
-    "timestamp_local": 1760098546
   }
 ]
