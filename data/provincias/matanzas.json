@@ -1,5 +1,21 @@
 [
   {
+    "id": 27106,
+    "fecha": "11 de Oct del 2025 a las 10:30 AM",
+    "hora_utc": "2025-10-11 14:30",
+    "mensaje": "‼En estos momentos tenemos afectados por déficit de capacidad de generación 71** MW** en la provincia.‼",
+    "timestamp": 1760193000,
+    "timestamp_local": 1760193000
+  },
+  {
+    "id": 27105,
+    "fecha": "11 de Oct del 2025 a las 10:24 AM",
+    "hora_utc": "2025-10-11 14:24",
+    "mensaje": "⚠**Circuitos no apagables que estarán afectados debido al alto déficit: **⚠\n\nCircuitos GI101, JI48 y Z130 se afectarán de 11:00 a 14:00.\n\nCircuitos GI101, JI48, CI185 y Z130 se afectarán de 19:00 a 01:00.",
+    "timestamp": 1760192657,
+    "timestamp_local": 1760192657
+  },
+  {
     "id": 27104,
     "fecha": "11 de Oct del 2025 a las 09:53 AM",
     "hora_utc": "2025-10-11 13:53",
@@ -142,21 +158,5 @@
     "mensaje": "CON SERVICIO\n\n**-Circuito  **MI5670 que da servicio a Manuelito, Bolondrón, Unión de Reyes, Cabezas, Bermejas y Alacranes.",
     "timestamp": 1760166058,
     "timestamp_local": 1760166058
-  },
-  {
-    "id": 27086,
-    "fecha": "11 de Oct del 2025 a las 01:53 AM",
-    "hora_utc": "2025-10-11 05:53",
-    "mensaje": "CON SERVICIO\n\n**- **Circuito 4480 que da servicio a Cítrico y Jagüey circuitos 1 y 2.",
-    "timestamp": 1760162028,
-    "timestamp_local": 1760162028
-  },
-  {
-    "id": 27085,
-    "fecha": "11 de Oct del 2025 a las 01:45 AM",
-    "hora_utc": "2025-10-11 05:45",
-    "mensaje": "Actualizamos el déficit por capacidad de generación:  54MW",
-    "timestamp": 1760161527,
-    "timestamp_local": 1760161527
   }
 ]
