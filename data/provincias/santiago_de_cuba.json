@@ -1,5 +1,29 @@
 [
   {
+    "id": 45660,
+    "fecha": "12 de Oct del 2025 a las 12:33 AM",
+    "hora_utc": "2025-10-12 04:33",
+    "mensaje": "Manipulaciones:\nAcciones que se realizan en los circuitos para dar paso al trabajo en zonas afectadas por averías o Vía Libre y posteriormente para restablecer el servicio eléctrico en los circuitos que se encontraban afectados y en los que se trabaja con anterioridad, luego de culminadas las labores pertinentes.\nManipulaciones:\nAcciones que se realizan en los circuitos para dar paso al trabajo en zonas afectadas por averías o Vía Libre y posteriormente para restablecer el servicio eléctrico en los circuitos que se encontraban afectados y en los que se trabaja con anterioridad, luego de culminadas las labores pertinentes.",
+    "timestamp": 1760243585,
+    "timestamp_local": 1760243585
+  },
+  {
+    "id": 45659,
+    "fecha": "12 de Oct del 2025 a las 12:30 AM",
+    "hora_utc": "2025-10-12 04:30",
+    "mensaje": "Disparo:  \nApertura no voluntaria de un interruptor como vía de protección para desconectar uno o varios elementos del circuito, subestación o sistema, restableciéndose el servicio rápidamente en dependencia de la causa.",
+    "timestamp": 1760243456,
+    "timestamp_local": 1760243456
+  },
+  {
+    "id": 45658,
+    "fecha": "12 de Oct del 2025 a las 12:26 AM",
+    "hora_utc": "2025-10-12 04:26",
+    "mensaje": "🔴Estimados clientes se les informa que se incorpora a la afectación la línea 5390 de San Luis.",
+    "timestamp": 1760243197,
+    "timestamp_local": 1760243197
+  },
+  {
     "id": 45657,
     "fecha": "11 de Oct del 2025 a las 11:48 PM",
     "hora_utc": "2025-10-12 03:48",
@@ -118,29 +142,5 @@
     "mensaje": "🔊Estimados clientes se le informa que en estos momentos están afectados por Déficit de Capacidad de Generación el circuito 1 de Palma",
     "timestamp": 1760209645,
     "timestamp_local": 1760209645
-  },
-  {
-    "id": 45640,
-    "fecha": "11 de Oct del 2025 a las 01:05 PM",
-    "hora_utc": "2025-10-11 17:05",
-    "mensaje": "🔊Estimados clientes se le informa que en estos momentos están afectados por Déficit de Capacidad de Generación el circuito 9 seccionalizado",
-    "timestamp": 1760202332,
-    "timestamp_local": 1760202332
-  },
-  {
-    "id": 45639,
-    "fecha": "11 de Oct del 2025 a las 11:03 AM",
-    "hora_utc": "2025-10-11 15:03",
-    "mensaje": "🔊Estimados clientes se le informa que en estos momentos están afectados por Déficit de Capacidad de Generación la Línea 4395 seccionalizado",
-    "timestamp": 1760194994,
-    "timestamp_local": 1760194994
-  },
-  {
-    "id": 45638,
-    "fecha": "11 de Oct del 2025 a las 10:52 AM",
-    "hora_utc": "2025-10-11 14:52",
-    "mensaje": "🔊Estimados clientes se le informa que en estos momentos están afectados por Déficit de Capacidad de Generación el LI5380 San Luis",
-    "timestamp": 1760194327,
-    "timestamp_local": 1760194327
   }
 ]
