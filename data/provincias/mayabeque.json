@@ -1,5 +1,45 @@
 [
   {
+    "id": 93087,
+    "fecha": "13 de Oct del 2025 a las 08:58 AM",
+    "hora_utc": "2025-10-13 12:58",
+    "mensaje": "🚨 Continúa afectado el servicio por déficit de capacidad de generación en el circuito San Nicolás 1 🚨",
+    "timestamp": 1760360313,
+    "timestamp_local": 1760360313
+  },
+  {
+    "id": 93086,
+    "fecha": "13 de Oct del 2025 a las 08:47 AM",
+    "hora_utc": "2025-10-13 12:47",
+    "mensaje": "🟠 || Situación del SEN para el 13 de octubre de 2025.\n\n👉 En el día de ayer se afectó el servicio las 24 horas y se mantuvo afectado durante toda la madrugada de hoy. La máxima afectación por déficit de capacidad de generación en el día de ayer fue de 1752 MW a las 19:00 horas.\n\n☀️ La producción de energía de los 32 nuevos parques solares fotovoltaicos fue de 2033 MWh, con 322 MW como máxima potencia entregada en el horario de la media con esta fuente de generación 🪟\n\n👉 La disponibilidad del SEN a las 06:00 horas es de 1632 MW  y la demanda 2617 MW con 1027 MW afectados por déficit de capacidad. En el horario de la media se estima una afectación de 1300 MW. \n\n🛠️ Se encuentran en avería:\n➡️ la unidad 8 de la CTE Mariel,\n➡️ las unidades 1 y 2 de la CTE Felton\n➡️ y la unidad 3 de la CTE Renté.\n\n🛠️ Se encuentran en mantenimiento:\n➡️ la unidad 2 de la CTE Santa Cruz\n➡️ y la unidad 4 de la CTE Cienfuegos.\n \n👉 Las limitaciones en la generación térmica son de 426 MW. \n\n⛽ Se encuentran fuera de servicio por combustible 39 centrales de generación distribuida con 292 MW y 316 MW indisponible por falta de lubricante, para un total de 608 MW.\n\n📈 Para el pico se estima la recuperación de 100 MW que estaban indisponibles por falta de lubricantes.\n \n📝 Con este pronóstico en el horario pico se estima una disponibilidad de 1732 MW y una demanda máxima de 3400 MW, para un déficit de 1668 MW, por lo que de mantenerse las condiciones previstas se pronostica una afectación de 1738 MW en este horario.\n\nUNE-MINEM",
+    "timestamp": 1760359631,
+    "timestamp_local": 1760359631
+  },
+  {
+    "id": 93084,
+    "fecha": "13 de Oct del 2025 a las 08:29 AM",
+    "hora_utc": "2025-10-13 12:29",
+    "mensaje": "🔷 Restablecido el servicio en el circuito 3140 que se encontraba afectado por disparo por DAF 🔷",
+    "timestamp": 1760358571,
+    "timestamp_local": 1760358571
+  },
+  {
+    "id": 93083,
+    "fecha": "13 de Oct del 2025 a las 08:26 AM",
+    "hora_utc": "2025-10-13 12:26",
+    "mensaje": "🔷 Restablecido el servicio en el circuito 3660 por manipulación 🔷",
+    "timestamp": 1760358370,
+    "timestamp_local": 1760358370
+  },
+  {
+    "id": 93079,
+    "fecha": "13 de Oct del 2025 a las 08:24 AM",
+    "hora_utc": "2025-10-13 12:24",
+    "mensaje": "♦️ Afectado el servicio en el circuito 3140 por disparo por DAF ♦️",
+    "timestamp": 1760358261,
+    "timestamp_local": 1760358261
+  },
+  {
     "id": 93078,
     "fecha": "13 de Oct del 2025 a las 07:55 AM",
     "hora_utc": "2025-10-13 11:55",
@@ -78,45 +118,5 @@
     "mensaje": "🚨Por déficit de capacidad de generación se afecta el servicio en el siguiente circuito: \n*Güines 1 🚨",
     "timestamp": 1760350047,
     "timestamp_local": 1760350047
-  },
-  {
-    "id": 93067,
-    "fecha": "13 de Oct del 2025 a las 06:04 AM",
-    "hora_utc": "2025-10-13 10:04",
-    "mensaje": "🚨Por déficit de capacidad de generación se afecta el servicio en los siguientes circuitos: \n*3655\n*3660🚨",
-    "timestamp": 1760349849,
-    "timestamp_local": 1760349849
-  },
-  {
-    "id": 93066,
-    "fecha": "13 de Oct del 2025 a las 06:01 AM",
-    "hora_utc": "2025-10-13 10:01",
-    "mensaje": "🔷♦️Se restablece el servicio en el siguiente circuito que se encontraba afectado por por déficit de capacidad de generación:\n*Melena 1 ♦️🔷",
-    "timestamp": 1760349705,
-    "timestamp_local": 1760349705
-  },
-  {
-    "id": 93065,
-    "fecha": "13 de Oct del 2025 a las 06:00 AM",
-    "hora_utc": "2025-10-13 10:00",
-    "mensaje": "🔷♦️Se restablece el servicio en el siguiente circuito que se encontraba afectado por por déficit de capacidad de generación:\n*2420 ♦️🔷",
-    "timestamp": 1760349649,
-    "timestamp_local": 1760349649
-  },
-  {
-    "id": 93064,
-    "fecha": "13 de Oct del 2025 a las 06:00 AM",
-    "hora_utc": "2025-10-13 10:00",
-    "mensaje": "🚨Por déficit de capacidad de generación se afecta el servicio en el siguiente circuito: \n*2320 🚨",
-    "timestamp": 1760349628,
-    "timestamp_local": 1760349628
-  },
-  {
-    "id": 93063,
-    "fecha": "13 de Oct del 2025 a las 06:00 AM",
-    "hora_utc": "2025-10-13 10:00",
-    "mensaje": "🔷♦️Se restablece el servicio en los siguientes circuitos que se encontraban afectados por por déficit de capacidad de generación:\n*6 y 8 de San José\n*3 de San José ♦️🔷",
-    "timestamp": 1760349600,
-    "timestamp_local": 1760349600
   }
 ]
