@@ -1,5 +1,37 @@
 [
   {
+    "id": 45734,
+    "fecha": "13 de Oct del 2025 a las 04:25 PM",
+    "hora_utc": "2025-10-13 20:25",
+    "mensaje": "🔴Se les informa a nuestros clientes que se afecta por Déficit de Capacidad de Generación los circuitos 20 de Santiago.",
+    "timestamp": 1760387123,
+    "timestamp_local": 1760387123
+  },
+  {
+    "id": 45733,
+    "fecha": "13 de Oct del 2025 a las 04:19 PM",
+    "hora_utc": "2025-10-13 20:19",
+    "mensaje": "🔴Disparo Automático de Frecuencia (DAF):\nDisparo automático de frecuencia (DAF).  Es una protección que posee el sistema eléctrico, para cuando la frecuencia llega a valores mínimos permisibles que ponen en peligro la estabilidad de todo el sistema en su conjunto, provoca una desconexión automática de algunos circuitos hasta que ésta vuelva a recuperar su valor nominal a 60 Hz o ciclos por segundo..",
+    "timestamp": 1760386751,
+    "timestamp_local": 1760386751
+  },
+  {
+    "id": 45732,
+    "fecha": "13 de Oct del 2025 a las 04:18 PM",
+    "hora_utc": "2025-10-13 20:18",
+    "mensaje": "🔴Se les informa a nuestros clientes que se encuentran disparados por DAF los circuitos 17 y 11 de Santiago.",
+    "timestamp": 1760386736,
+    "timestamp_local": 1760386736
+  },
+  {
+    "id": 45731,
+    "fecha": "13 de Oct del 2025 a las 04:08 PM",
+    "hora_utc": "2025-10-13 20:08",
+    "mensaje": "🔴Se les informa a nuestros clientes que se afecta por Déficit de Capacidad de Generación los circuitos 7 de Santiago y Ll 5395 San Luis .",
+    "timestamp": 1760386107,
+    "timestamp_local": 1760386107
+  },
+  {
     "id": 45730,
     "fecha": "13 de Oct del 2025 a las 02:43 PM",
     "hora_utc": "2025-10-13 18:43",
@@ -126,37 +158,5 @@
     "mensaje": "🔊Estimados clientes en estos momentos se encuentra disparado La Línea 5335 Guama y la 5330 Cristo",
     "timestamp": 1760349787,
     "timestamp_local": 1760349787
-  },
-  {
-    "id": 45712,
-    "fecha": "13 de Oct del 2025 a las 05:53 AM",
-    "hora_utc": "2025-10-13 09:53",
-    "mensaje": "🔊Estimados clientes se le informa que en estos momentos están afectados por Déficit de Capacidad de Generación los circuitos 16 , 20 y 8 de Santiago, y la Línea 5330 (Cristo).",
-    "timestamp": 1760349223,
-    "timestamp_local": 1760349223
-  },
-  {
-    "id": 45711,
-    "fecha": "13 de Oct del 2025 a las 04:49 AM",
-    "hora_utc": "2025-10-13 08:49",
-    "mensaje": "🔴Disparo:  \nApertura no voluntaria de un interruptor como vía de protección para desconectar uno o varios elementos del circuito, subestación o sistema, restableciéndose el servicio rápidamente en dependencia de la causa.",
-    "timestamp": 1760345349,
-    "timestamp_local": 1760345349
-  },
-  {
-    "id": 45710,
-    "fecha": "13 de Oct del 2025 a las 04:48 AM",
-    "hora_utc": "2025-10-13 08:48",
-    "mensaje": "🔊Estimados clientes en estos momentos se encuentra disparado el circuito 9",
-    "timestamp": 1760345315,
-    "timestamp_local": 1760345315
-  },
-  {
-    "id": 45709,
-    "fecha": "13 de Oct del 2025 a las 02:49 AM",
-    "hora_utc": "2025-10-13 06:49",
-    "mensaje": "🔴Circuito en avería:                                                                                                                        \n Sucede si un circuito se interrumpe por causa de un defecto en un cable conductor de corriente (fase o neutro), un fusible fundido o disyuntor. En sistemas trifásicos una falla puede implicar una fase, más de una fase con la tierra o puede ocurrir solo entre fases",
-    "timestamp": 1760338176,
-    "timestamp_local": 1760338176
   }
 ]
