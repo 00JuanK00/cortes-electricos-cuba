@@ -1,5 +1,21 @@
 [
   {
+    "id": 32654,
+    "fecha": "13 de Oct del 2025 a las 03:59 PM",
+    "hora_utc": "2025-10-13 19:59",
+    "mensaje": "❌Un Disparo Automática por Frecuencia (DAF) es una protección que posee el sistema eléctrico para cuando la frecuencia llega a valores mínimos permisibles que ponen en peligro la estabilidad de todo el sistema en su conjunto y provoca una desconexión automática de algunos circuitos hasta que esta vuelva a recuperar su valor nominal a 60 Hz o ciclos por segundo. Esto ocurre al salir de forma imprevista o repentina una planta generadora con una potencia determinada y el sistema en su conjunto necesita liberar esa carga hasta tanto se puedan recuperar la potencia de generación perdida anteriormente o dar las afectaciones al servicio por déficit de generación.",
+    "timestamp": 1760385587,
+    "timestamp_local": 1760385587
+  },
+  {
+    "id": 32653,
+    "fecha": "13 de Oct del 2025 a las 03:59 PM",
+    "hora_utc": "2025-10-13 19:59",
+    "mensaje": "🔊Información 🔊\n\n🚨DAF (Disparo por aumento de frecuencia)🚨\n\n📍Se encuentran afectados por el DAF los circuitos: 📍\n\n👉 Nereida, Peonía, Politécnico de Informática, Turiguanó, San Fernando y Patria.",
+    "timestamp": 1760385551,
+    "timestamp_local": 1760385551
+  },
+  {
     "id": 32652,
     "fecha": "13 de Oct del 2025 a las 03:33 PM",
     "hora_utc": "2025-10-13 19:33",
@@ -142,21 +158,5 @@
     "mensaje": "‼️ Déficit de Generación ‼️   \n👉 Bajamos a 62 MW en la provincia afectados por déficit de generación.\n💥Se encuentran afectados los siguientes circuitos:\n👉 1, 5, A102, A106, A206, A208, Expreso,  Cítrico I, Cítrico III, Cítrico IV, Ceballos, Combinado Cítrico, Las Grullas, Cítrico II, Isaca, Sanguily, Morón Sur, San Fernando, Micro Norte, La Cuba, Majagua, Morón Norte, Santana, Delfin Moreno, Combinado Minaz, Vicente, Expreso, Morón Centro, Patria, Turiguanó, Falla, Ranchuelo, Nereida, Peonía, Politécnico de Informática, Chambas, Los Perros, El Asiento, Punta Alegre.\n\n⏰ Reiteramos que los circuitos se afectarán o se restablecerán en dependencia del déficit solicitado en cada momento de la jornada que es muy variable.",
     "timestamp": 1760287057,
     "timestamp_local": 1760287057
-  },
-  {
-    "id": 32634,
-    "fecha": "12 de Oct del 2025 a las 11:51 AM",
-    "hora_utc": "2025-10-12 15:51",
-    "mensaje": "✅ Se encuentra sin servicio eléctrico del circuito Baraguá: CPA La Guira, Carrillo, San Rafael, Pueblo Nuevo, La Palma, San Pedro, La Angelita y zonas aledañas. \n👉Se recorren las líneas para encontrar la causa. \n👉Si usted observa corto circuito en las redes o alguna irregularidad, por favor comuníquelo a través del ☎️18888.",
-    "timestamp": 1760284310,
-    "timestamp_local": 1760284310
-  },
-  {
-    "id": 32633,
-    "fecha": "12 de Oct del 2025 a las 11:05 AM",
-    "hora_utc": "2025-10-12 15:05",
-    "mensaje": "Déficit de Generación ‼️   \n👉Subimos a 80 MW en la provincia afectados por déficit de generación.\n⏰ Reiteramos que los circuitos se afectarán o se restablecerán en dependencia del déficit en cada momento de la jornada, que es muy variable.",
-    "timestamp": 1760281558,
-    "timestamp_local": 1760281558
   }
 ]
