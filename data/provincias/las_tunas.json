@@ -1,5 +1,21 @@
 [
   {
+    "id": 16900,
+    "fecha": "14 de Oct del 2025 a las 02:29 PM",
+    "hora_utc": "2025-10-14 18:29",
+    "mensaje": "Se encuentran en avería los siguientes circuitos: TK 50: Vázquez, municipio de Puerto  Padre                                                                                               TK74: La Lomita, municipio de Amancio                                                          TK 75: Vicente Pérez, municipio de Amancio                                                                                                                        TK 76: El Paraíso, municipio de Amancio",
+    "timestamp": 1760466552,
+    "timestamp_local": 1760466552
+  },
+  {
+    "id": 16899,
+    "fecha": "14 de Oct del 2025 a las 02:27 PM",
+    "hora_utc": "2025-10-14 18:27",
+    "mensaje": "La Empresa Eléctrica Las Tunas informa a sus clientes que actualmente se registran afectaciones en el servicio eléctrico debido a transformadores dañados en varias localidades del territorio. En el municipio de Amancio, se reporta un cliente afectado en la localidad de Vicente Pérez y quince clientes en Algodones. En Manatí, la interrupción impacta a un cliente en San Martín, específicamente en la Estación de Bombeo. En Puerto Padre, se encuentra afectado un cliente en la Calle Lenin, en la Estación de Bombeo Romérico Oro. Por su parte, en el municipio de Las Tunas, se reporta un cliente sin servicio en el área de Suministro Agropecuario El Cornito, y en la Calle 56 entre 13 de octubre y Ángel Guerra, se encuentran afectados 113 clientes. La limitada disponibilidad de transformadores en el país ha impedido la reposición inmediata de los equipos dañados, lo que ha generado estas afectaciones. Ante esta situación, la Empresa Eléctrica Las Tunas, en coordinación con la Unión Eléctrica, continúa trabajando para ofrecer una solución. Los trabajadores eléctricos se mantienen activos, ejecutando acciones concretas para restablecer el servicio lo antes posible en cada zona afectada.",
+    "timestamp": 1760466451,
+    "timestamp_local": 1760466451
+  },
+  {
     "id": 16898,
     "fecha": "14 de Oct del 2025 a las 09:24 AM",
     "hora_utc": "2025-10-14 13:24",
@@ -118,21 +134,5 @@
     "mensaje": "Debido al significativo déficit energético que enfrenta nuestro país y la disponibilidad limitada\ndel Sistema Eléctrico Nacional(SEN) en comparación con la demanda actual, lamentamos no\npoder proporcionar una programación detallada de las afectaciones en el suministro eléctrico.\nAgradecemos su compresión y ofrecemos nuestras más sinceras disculpas por las molestias que\nesto pueda causarles.",
     "timestamp": 1760314972,
     "timestamp_local": 1760314972
-  },
-  {
-    "id": 16874,
-    "fecha": "12 de Oct del 2025 a las 01:18 PM",
-    "hora_utc": "2025-10-12 17:18",
-    "mensaje": "Restablecida la avería de Circuito 33 kW 2020 Colombia.",
-    "timestamp": 1760289488,
-    "timestamp_local": 1760289488
-  },
-  {
-    "id": 16873,
-    "fecha": "12 de Oct del 2025 a las 12:20 PM",
-    "hora_utc": "2025-10-12 16:20",
-    "mensaje": "Se encuentra en avería los siguientes circuitos:\n**Circuito 33 Kv: 2020**\n**TK85 Leningrado **\n**TK108 Tasajera**\n**TK84 El Triángulo **\n**TK86 Poblado Colombia **\n**TK88 Dos Hermanos**\n**TK107 La Islita **\n**TK 112 Argentina Norte **\n**TK111 Ramíre**z",
-    "timestamp": 1760286038,
-    "timestamp_local": 1760286038
   }
 ]
