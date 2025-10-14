@@ -1,5 +1,21 @@
 [
   {
+    "id": 16897,
+    "fecha": "14 de Oct del 2025 a las 03:18 AM",
+    "hora_utc": "2025-10-14 07:18",
+    "mensaje": "Se restablece la parte de circunvalación Sur que estaba en avería.",
+    "timestamp": 1760426307,
+    "timestamp_local": 1760426307
+  },
+  {
+    "id": 16896,
+    "fecha": "14 de Oct del 2025 a las 03:16 AM",
+    "hora_utc": "2025-10-14 07:16",
+    "mensaje": "Se declara en avería TK50 Vázquez .",
+    "timestamp": 1760426192,
+    "timestamp_local": 1760426192
+  },
+  {
     "id": 16895,
     "fecha": "13 de Oct del 2025 a las 10:38 PM",
     "hora_utc": "2025-10-14 02:38",
@@ -110,21 +126,5 @@
     "mensaje": "Se encuentra en avería los siguientes circuitos:\n**Circuito 33 Kv: 2020**\n**TK85 Leningrado **\n**TK108 Tasajera**\n**TK84 El Triángulo **\n**TK86 Poblado Colombia **\n**TK88 Dos Hermanos**\n**TK107 La Islita **\n**TK 112 Argentina Norte **\n**TK111 Ramíre**z",
     "timestamp": 1760286038,
     "timestamp_local": 1760286038
-  },
-  {
-    "id": 16871,
-    "fecha": "12 de Oct del 2025 a las 09:57 AM",
-    "hora_utc": "2025-10-12 13:57",
-    "mensaje": "**Nota Informativa: Estado del Sistema Eléctrico Nacional (SEN) – 12 de octubre de 2025**\nEn el día de ayer se afectó el servicio las 24 horas y se mantuvo afectado durante toda la madrugada de hoy. La máxima afectación por déficit de capacidad de generación en el día de ayer fue de 1584 MW a las 19:00 horas.\nLa producción de energía de los 32 nuevos parques solares fotovoltaicos fue de 2443 MWh, con 318 MW como máxima potencia entregada en el horario de la media con esta fuente de generación.\n**Estado actual del SEN**\nLa disponibilidad del SEN a las 06:00 horas es de 1480 MW y la demanda 2520 MW con 1029 MW afectados por déficit de capacidad. En el horario de la media se estima una afectación de 1300 MW.\n**Principales incidencias**\nAvería: Unidad 1 y 2 de la CTE Felton, Unidad 8 de Mariel y Unidad 3 de la CTE Renté.\nMantenimiento: Unidad 2 de la CTE Santa Cruz y Unidad 4 de la CTE Carlos Manuel de Céspedes en Cienfuegos.\nLimitaciones térmicas: 422 MW fuera de servicio.\nProblemas por falta de combustible\n47 centrales de generación distribuida con 285 MW.\n327 MW indisponibles por falta de lubricante.\nTotal de MW afectados por esta causa: 612 MW.\n**Pronóstico para el horario pico**\nPara el pico se estima el completamiento de la unidad 3 de la CTE Cienfuegos con 70 MW.\nCon este pronóstico en el horario pico se estima una disponibilidad de 1570 MW y una demanda máxima de 3250 MW, para un déficit de 1680 MW, por lo que de mantenerse las condiciones previstas se pronostica una afectación de 1750 MW en este horario.",
-    "timestamp": 1760277427,
-    "timestamp_local": 1760277427
-  },
-  {
-    "id": 16870,
-    "fecha": "12 de Oct del 2025 a las 08:19 AM",
-    "hora_utc": "2025-10-12 12:19",
-    "mensaje": "Se encuentran en avería los siguientes circuitos:\n**Circuitode 33Kv 6225T**\n**K93 Batey DeliciasT**\n**K48 Puerto Padre y Maniabó**n\n**TK53 La Morena y El Malecón **\n**TK47 La Micro Puerto Padre**",
-    "timestamp": 1760271599,
-    "timestamp_local": 1760271599
   }
 ]
