@@ -1,5 +1,13 @@
 [
   {
+    "id": 32672,
+    "fecha": "14 de Oct del 2025 a las 04:01 AM",
+    "hora_utc": "2025-10-14 08:01",
+    "mensaje": "‼️ Información del déficit de generación ‼️   \n👉Nos mantenemos con 60 MW en la provincia afectados por déficit de generación.\n✅Se afectan los siguientes circuitos:\n👉2, A102, A208, Baraguá, Colorado, Vicente, Citrico I, III, IV, Ceballos Pueblo, Las Gruyas y Micro Norte.\n💫 Con este déficit, la carga a apagar en la provincia no nos permite realizar una rotación estable de los circuitos, por lo que se afectarán o se restablecerán en dependencia del déficit que haya en cada momento de la jornada, que es muy variable.",
+    "timestamp": 1760428881,
+    "timestamp_local": 1760428881
+  },
+  {
     "id": 32670,
     "fecha": "14 de Oct del 2025 a las 02:27 AM",
     "hora_utc": "2025-10-14 06:27",
@@ -94,21 +102,5 @@
     "mensaje": "❌Un Disparo Automática por Frecuencia (DAF) es una protección que posee el sistema eléctrico para cuando la frecuencia llega a valores mínimos permisibles que ponen en peligro la estabilidad de todo el sistema en su conjunto y provoca una desconexión automática de algunos circuitos hasta que esta vuelva a recuperar su valor nominal a 60 Hz o ciclos por segundo. Esto ocurre al salir de forma imprevista o repentina una planta generadora con una potencia determinada y el sistema en su conjunto necesita liberar esa carga hasta tanto se puedan recuperar la potencia de generación perdida anteriormente o dar las afectaciones al servicio por déficit de generación.",
     "timestamp": 1760385587,
     "timestamp_local": 1760385587
-  },
-  {
-    "id": 32653,
-    "fecha": "13 de Oct del 2025 a las 03:59 PM",
-    "hora_utc": "2025-10-13 19:59",
-    "mensaje": "🔊Información 🔊\n\n🚨DAF (Disparo por aumento de frecuencia)🚨\n\n📍Se encuentran afectados por el DAF los circuitos: 📍\n\n👉 Nereida, Peonía, Politécnico de Informática, Turiguanó, San Fernando y Patria.",
-    "timestamp": 1760385551,
-    "timestamp_local": 1760385551
-  },
-  {
-    "id": 32652,
-    "fecha": "13 de Oct del 2025 a las 03:33 PM",
-    "hora_utc": "2025-10-13 19:33",
-    "mensaje": "‼️ Déficit de Generación ‼️   \n👉 Tenemos afectados 50 MW en la provincia por déficit de generación.\n💥Están afectados los siguientes circuitos:\n👉 1, 2, 5,  A208, Expreso, Cítrico II, Isaca, Cítrico I, Cítrico III, Cítrico IV, Ceballos, Combinado Cítrico, Las Grullas, Falla, Ranchuelo, Morón Centro, Patria, Turiguanó, San Fernando, Morón Sur, Micro Norte, Morón Norte,  Combinado Minaz, Delfín Moreno, Santana, Chambas, Los Perros, El Asiento, Punta Alegre,  Violeta, Pablo, Ognara, Montoto, Tres Marías, Velazco y Miraflores.\n ⏰ Reiteramos que los circuitos se afectarán o se restablecerán en dependencia del déficit solicitado en cada momento de la jornada que es muy variable.",
-    "timestamp": 1760384019,
-    "timestamp_local": 1760384019
   }
 ]
