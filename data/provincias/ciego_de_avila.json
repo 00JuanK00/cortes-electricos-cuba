@@ -1,5 +1,21 @@
 [
   {
+    "id": 32675,
+    "fecha": "14 de Oct del 2025 a las 05:45 AM",
+    "hora_utc": "2025-10-14 09:45",
+    "mensaje": "‼️ Información del déficit de generación ‼️   \n👉Nos mantenemos con 68 MW en la provincia afectados por déficit de generación.\n✅Se incorporan los siguientes circuitos:\n👉Cítrico 2, Isaca, Patria, Turiguano y Morón Centro.\n💫 Con este déficit, la carga a apagar en la provincia no nos permite realizar una rotación estable de los circuitos, por lo que se afectarán o se restablecerán en dependencia del déficit que haya en cada momento de la jornada, que es muy variable.",
+    "timestamp": 1760435156,
+    "timestamp_local": 1760435156
+  },
+  {
+    "id": 32674,
+    "fecha": "14 de Oct del 2025 a las 05:28 AM",
+    "hora_utc": "2025-10-14 09:28",
+    "mensaje": "‼️ Información ‼️   \n👉En estos momentos Subimos a 68 MW en la provincia afectados por déficit de generación. Con este déficit no podemos cumplir con una programación estable, por lo que los circuitos se afectarán o se restablecerán en dependencia del déficit que haya en cada momento de la jornada.",
+    "timestamp": 1760434103,
+    "timestamp_local": 1760434103
+  },
+  {
     "id": 32672,
     "fecha": "14 de Oct del 2025 a las 04:01 AM",
     "hora_utc": "2025-10-14 08:01",
@@ -86,21 +102,5 @@
     "mensaje": "‼️ Información ‼️\n\n👉 Restablecido el servicio eléctrico en los circuitos afectados por DAF.",
     "timestamp": 1760388784,
     "timestamp_local": 1760388784
-  },
-  {
-    "id": 32655,
-    "fecha": "13 de Oct del 2025 a las 04:24 PM",
-    "hora_utc": "2025-10-13 20:24",
-    "mensaje": "‼️ Información ‼️   \nDebido a la situación energética que tiene el país, nos es imposible cumplir con una programación de afectaciones. En estos momentos tenemos 65 MW en la provincia afectados. Reiteramos que los circuitos se afectarán o se restablecerán en dependencia del déficit en cada momento del día.",
-    "timestamp": 1760387094,
-    "timestamp_local": 1760387094
-  },
-  {
-    "id": 32654,
-    "fecha": "13 de Oct del 2025 a las 03:59 PM",
-    "hora_utc": "2025-10-13 19:59",
-    "mensaje": "❌Un Disparo Automática por Frecuencia (DAF) es una protección que posee el sistema eléctrico para cuando la frecuencia llega a valores mínimos permisibles que ponen en peligro la estabilidad de todo el sistema en su conjunto y provoca una desconexión automática de algunos circuitos hasta que esta vuelva a recuperar su valor nominal a 60 Hz o ciclos por segundo. Esto ocurre al salir de forma imprevista o repentina una planta generadora con una potencia determinada y el sistema en su conjunto necesita liberar esa carga hasta tanto se puedan recuperar la potencia de generación perdida anteriormente o dar las afectaciones al servicio por déficit de generación.",
-    "timestamp": 1760385587,
-    "timestamp_local": 1760385587
   }
 ]
