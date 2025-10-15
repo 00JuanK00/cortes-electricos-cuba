@@ -1,5 +1,21 @@
 [
   {
+    "id": 32707,
+    "fecha": "15 de Oct del 2025 a las 07:44 PM",
+    "hora_utc": "2025-10-15 23:44",
+    "mensaje": "✅ Información.\n👉 Se restablece el servicio en el circuito 2.",
+    "timestamp": 1760571860,
+    "timestamp_local": 1760571860
+  },
+  {
+    "id": 32706,
+    "fecha": "15 de Oct del 2025 a las 07:41 PM",
+    "hora_utc": "2025-10-15 23:41",
+    "mensaje": "✅ Información.\n👉 Se encuentra sin servicio el circuito 2 se trabaja para restablecer el servicio en el menor tiempo posible.",
+    "timestamp": 1760571666,
+    "timestamp_local": 1760571666
+  },
+  {
     "id": 32705,
     "fecha": "15 de Oct del 2025 a las 06:17 PM",
     "hora_utc": "2025-10-15 22:17",
@@ -126,21 +142,5 @@
     "mensaje": "‼️ Información del déficit de generación ‼️   \n👉Tenemos 64 MW en la provincia afectados por déficit de generación.\n⏰ Con este déficit, la carga a apagar en la provincia no nos permite realizar una rotación estable de los circuitos, por lo que se afectarán o se restablecerán en dependencia del déficit que haya en cada momento de la jornada, que es muy variable.",
     "timestamp": 1760472364,
     "timestamp_local": 1760472364
-  },
-  {
-    "id": 32687,
-    "fecha": "14 de Oct del 2025 a las 03:52 PM",
-    "hora_utc": "2025-10-14 19:52",
-    "mensaje": "Información del déficit de generación ‼️   \n👎 Nos mantenemos  con  41 MW en la provincia afectados por déficit de generación.\n✅Se encuentran afectados los siguientes circuitos:\n👉  A102, A104, A106, A206,  Baraguá, Vicente, Colorado, Morón Norte, Violeta, Pablo, Tres Marías,  Velazco, Miraflores, Florencia y Tamarindo.\n\n⏰  Los  circuitos se afectarán o se restablecerán en dependencia del déficit que haya en cada momento de la jornada, que es muy variable.",
-    "timestamp": 1760471530,
-    "timestamp_local": 1760471530
-  },
-  {
-    "id": 32686,
-    "fecha": "14 de Oct del 2025 a las 03:46 PM",
-    "hora_utc": "2025-10-14 19:46",
-    "mensaje": "✅ Información.\n👉 Se encuentra sin servicio Patria, Turiguanó se trabaja apra restablecer el servicio en el menor tiempo posible.",
-    "timestamp": 1760471217,
-    "timestamp_local": 1760471217
   }
 ]
