@@ -1,5 +1,29 @@
 [
   {
+    "id": 31700,
+    "fecha": "15 de Oct del 2025 a las 07:57 AM",
+    "hora_utc": "2025-10-15 11:57",
+    "mensaje": "💡 Con servicio eléctrico los siguientes circuitos:\n🔹Municipio Camajuani \n👉Cto 75 La quinta \n👉Cto 157 Luis arcos Bergnes \n👉Cto 76 y 90 Vega alta",
+    "timestamp": 1760529468,
+    "timestamp_local": 1760529468
+  },
+  {
+    "id": 31699,
+    "fecha": "15 de Oct del 2025 a las 07:48 AM",
+    "hora_utc": "2025-10-15 11:48",
+    "mensaje": "⚠️ Afectados por déficit de capacidad de generación los siguientes circuitos:\n🔹Municipio Manicaragua \n👉Ctos 109 y 150 \n👉Ctos 108 (en averia )y 110  La Piedra \n👉Cto 111 Mataguá",
+    "timestamp": 1760528929,
+    "timestamp_local": 1760528929
+  },
+  {
+    "id": 31698,
+    "fecha": "15 de Oct del 2025 a las 07:46 AM",
+    "hora_utc": "2025-10-15 11:46",
+    "mensaje": "🛠 Continúa en avería Cto 108 La Piedra perteneciente al municipio de Manicaragua.",
+    "timestamp": 1760528798,
+    "timestamp_local": 1760528798
+  },
+  {
     "id": 31697,
     "fecha": "15 de Oct del 2025 a las 07:45 AM",
     "hora_utc": "2025-10-15 11:45",
@@ -126,29 +150,5 @@
     "mensaje": "Clientes del municipio de Manicaragua\n📣Debido a la avería ocurrida en la red de transmisión 110kv Santa Clara -La Moza en la mañana de hoy se tomó  como alternativa para brindar  servicio el uso de la generación de la  Hidroeléctrica Robustiano León por lo que pueden presentar en ocasiones fallas en el servicio eléctrico por sobrecarga . Puede mantenerse esta situacion hasta tanto finalicen las reparaciones pertinentes de dicha avería por 110kV.",
     "timestamp": 1760497438,
     "timestamp_local": 1760497438
-  },
-  {
-    "id": 31679,
-    "fecha": "14 de Oct del 2025 a las 10:27 PM",
-    "hora_utc": "2025-10-15 02:27",
-    "mensaje": "💡Restablecido linea 331 perteneciente al municipio de Manicaragua , quedando afectado el  Cto 108 La Piedra por avería",
-    "timestamp": 1760495255,
-    "timestamp_local": 1760495255
-  },
-  {
-    "id": 31678,
-    "fecha": "14 de Oct del 2025 a las 10:15 PM",
-    "hora_utc": "2025-10-15 02:15",
-    "mensaje": "Actualización del servicio eléctrico en la provincia\n✍️Se mantienen afectados en la provincia 152 circuitos.\n✍️En el momento de hacer esta nota la provincia tiene 118 MW de afectación por déficit de capacidad de generación, demanda máxima posible a apagar.\n✍️Cuenta con 123 afectaciones por averías secundarias y de servicio",
-    "timestamp": 1760494523,
-    "timestamp_local": 1760494523
-  },
-  {
-    "id": 31677,
-    "fecha": "14 de Oct del 2025 a las 08:10 PM",
-    "hora_utc": "2025-10-15 00:10",
-    "mensaje": "💡Restablecido linea 6595 perteneciente al municipio de Camajuani por manipulación  \n🔹Municipio Camajuaní:\n👉Ctos 72, 129, 73 y 156 \n👉Cto 74 José María Pérez",
-    "timestamp": 1760487056,
-    "timestamp_local": 1760487056
   }
 ]
