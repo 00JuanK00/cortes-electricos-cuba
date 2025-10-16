@@ -1,5 +1,45 @@
 [
   {
+    "id": 31800,
+    "fecha": "16 de Oct del 2025 a las 07:29 PM",
+    "hora_utc": "2025-10-16 23:29",
+    "mensaje": "Afectados 130 MW en la provincia, demanda máxima a apagar en estos momentos.",
+    "timestamp": 1760657376,
+    "timestamp_local": 1760657376
+  },
+  {
+    "id": 31799,
+    "fecha": "16 de Oct del 2025 a las 07:18 PM",
+    "hora_utc": "2025-10-16 23:18",
+    "mensaje": "⚠️En déficit de capacidad de generación los siguientes \nMunicipio Santo Domingo:\n👉Cto 134\n👉Ctos 87 y 96 Bermejal\n👉Cto 187 Batey Carlos Baliño\n👉Cto 82 Ulacia\n👉Cto 84 Rodrigo\nMunicipio Ranchuelo: \n👉Ctos 89, 97, 188 y 189\n👉Ctos 148 y 149 San Juan\n👉Cto 91 Batey Osvaldo Herrera\n👉Cto 181 Batey Ifraín Alfonso",
+    "timestamp": 1760656698,
+    "timestamp_local": 1760656698
+  },
+  {
+    "id": 31798,
+    "fecha": "16 de Oct del 2025 a las 07:10 PM",
+    "hora_utc": "2025-10-16 23:10",
+    "mensaje": "⚠️En déficit de capacidad de generación los siguientes circuitos:Municipio Santo Domingo:\n👉Cto 195 Batey George Washington\n👉Ctos 83 y 165 Manacas\n👉Ctos 85 y 86 Pajarito\n👉Ctos 160 y 161 Cascajal\nMunicipio Placetas:\n👉Cto 192 Benito Juárez\n👉Cto 102 Peroti",
+    "timestamp": 1760656247,
+    "timestamp_local": 1760656247
+  },
+  {
+    "id": 31797,
+    "fecha": "16 de Oct del 2025 a las 07:05 PM",
+    "hora_utc": "2025-10-16 23:05",
+    "mensaje": "⚠️En déficit de capacidad de generación los siguientes circuitos:\n🔹Municipio Encrucijada\n👉Cto 120 Calabazar\n👉Ctos 121 y 127 Perucho\nMunicipio Cifuentes:\n👉Ctos 114 y 117\n👉Ctos 116 y 155 Mata\n👉Cto 186 Batey Unidad Proletaria\n👉Cto 184 Sitio Grande",
+    "timestamp": 1760655921,
+    "timestamp_local": 1760655921
+  },
+  {
+    "id": 31796,
+    "fecha": "16 de Oct del 2025 a las 07:02 PM",
+    "hora_utc": "2025-10-16 23:02",
+    "mensaje": "Afectados 92 MW en la provincia, demanda máxima a apagar en estos momentos.",
+    "timestamp": 1760655726,
+    "timestamp_local": 1760655726
+  },
+  {
     "id": 31795,
     "fecha": "16 de Oct del 2025 a las 06:58 PM",
     "hora_utc": "2025-10-16 22:58",
@@ -118,45 +158,5 @@
     "mensaje": "💡 Restablecido el servicio eléctrico en el circuito 181 Ifrain Alfonso perteneciente al municipio de Ranchuelo",
     "timestamp": 1760638311,
     "timestamp_local": 1760638311
-  },
-  {
-    "id": 31779,
-    "fecha": "16 de Oct del 2025 a las 02:00 PM",
-    "hora_utc": "2025-10-16 18:00",
-    "mensaje": "Afectados 29 MW en la provincia, demanda máxima a apagar en estos momentos.",
-    "timestamp": 1760637607,
-    "timestamp_local": 1760637607
-  },
-  {
-    "id": 31778,
-    "fecha": "16 de Oct del 2025 a las 01:58 PM",
-    "hora_utc": "2025-10-16 17:58",
-    "mensaje": "⚠️En déficit de capacidad de generación los siguientes circuitos:\n🔹Municipio Placetas \n👉Ctos 100 y 151 Placetas\n👉Cto 104 Hermanos Amejeiras\n👉Cto 103 Batey Carbó Servía",
-    "timestamp": 1760637510,
-    "timestamp_local": 1760637510
-  },
-  {
-    "id": 31777,
-    "fecha": "16 de Oct del 2025 a las 01:52 PM",
-    "hora_utc": "2025-10-16 17:52",
-    "mensaje": "💡 Restablecido el servicio eléctrico en linea 6375 perteneciente al municipio de Santa Clara.",
-    "timestamp": 1760637178,
-    "timestamp_local": 1760637178
-  },
-  {
-    "id": 31776,
-    "fecha": "16 de Oct del 2025 a las 01:47 PM",
-    "hora_utc": "2025-10-16 17:47",
-    "mensaje": "🛠️ 🛠️Manipulación\n 🛠️Municipio Santa Clara:\n👉Cto 7 (Universidad)  \n👉Cto 146 (Elevado Aeropuerto) \n👉Cto 22 (Construcciones Textil)\n👉Cto 131 (Las Antillas)\n👉Cto 153 (EIDE)",
-    "timestamp": 1760636875,
-    "timestamp_local": 1760636875
-  },
-  {
-    "id": 31775,
-    "fecha": "16 de Oct del 2025 a las 01:46 PM",
-    "hora_utc": "2025-10-16 17:46",
-    "mensaje": "💡 Restablecido linea 119 , quedando afectado el Circuito 14 Maleza perteneciente al municipio de Santa Clara de manera parcial para reparar primario partido.",
-    "timestamp": 1760636790,
-    "timestamp_local": 1760636790
   }
 ]
