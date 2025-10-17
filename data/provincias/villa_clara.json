@@ -1,5 +1,45 @@
 [
   {
+    "id": 31840,
+    "fecha": "17 de Oct del 2025 a las 12:34 PM",
+    "hora_utc": "2025-10-17 16:34",
+    "mensaje": "💡Con servicio eléctrico en los siguientes circuitos:\n👉Municipio Manicaragua:\nCtos 109 y 150\nCtos 108 y 110 La Piedra\nCto 111 Mataguá",
+    "timestamp": 1760718840,
+    "timestamp_local": 1760718840
+  },
+  {
+    "id": 31839,
+    "fecha": "17 de Oct del 2025 a las 12:33 PM",
+    "hora_utc": "2025-10-17 16:33",
+    "mensaje": "⚠️Afectados por déficit de generación los siguientes circuitos:\n👉Municipio Placetas:\nCto 192 Benito Juárez\nCto 102 Peroti",
+    "timestamp": 1760718790,
+    "timestamp_local": 1760718790
+  },
+  {
+    "id": 31838,
+    "fecha": "17 de Oct del 2025 a las 12:29 PM",
+    "hora_utc": "2025-10-17 16:29",
+    "mensaje": "⚠️Afectados por déficit de generación los circuitos siguientes:\n👉Municipio Cifuentes:\nCtos 114 y 117\nCtos 116 y 155 Mata\nCto 186 Batey Unidad Proletaria\nCto 184 Sitio Grande",
+    "timestamp": 1760718562,
+    "timestamp_local": 1760718562
+  },
+  {
+    "id": 31837,
+    "fecha": "17 de Oct del 2025 a las 12:16 PM",
+    "hora_utc": "2025-10-17 16:16",
+    "mensaje": "➡️ La Provincia cuenta con 11 afectaciones de servicio por transformador dañado:\n👉Municipio Caibarién: calle G ,camino a los pozos.  Las Torres\n👉Municipio Caibarién: Carretera a Remedios.  Batey Rojas\n👉Municipio Caibarién: Calle 2da Edif 43. Van Troy 2\n👉Municipio Camajuaní: Carretera de Camajuani a Placetas, CAI José María Perez \n👉Municipio Manicaragua: Carretera a Jibacoa , Cdad Rincón Naranjo.\n👉Municipio Manicaragua: calle Real, fte al taller  de la EMA. Jibacoa\n👉Municipio Remedios: calle Egido Norte. Desp del pozo de agua , Barrio la Malanga\n👉Municipio Remedios: Carretera a Carrillo , Camino a Centro Acopio.\n👉Municipio Santa Clara: Carretera de Maleza km 8 , Crucero Magalis \n👉Municipio Santa Clara: Carretera Sagua km 3 1/2 , camino al Pirey. Yabu \n👉Municipio Santa Clara: Carretera Camajuani km 3 1/2 , antes de la Escuela. El Gigante",
+    "timestamp": 1760717785,
+    "timestamp_local": 1760717785
+  },
+  {
+    "id": 31836,
+    "fecha": "17 de Oct del 2025 a las 12:05 PM",
+    "hora_utc": "2025-10-17 16:05",
+    "mensaje": "🕛Actualización del servicio eléctrico en las últimas 6 horas.\n\n👉El déficit de capacidad de generación osciló entre los 21 MW y los 39 MW.\n\n👉En el momento de esta nota, se mantienen afectados 42 circuitos.\n 👉Cuenta con 156 afectaciones por averías secundarias y de servicio: Caibarién (3)\n Camajuaní (7)\n Cifuentes (3)\n Corralillo (5)\n Encrucijada (1)\n Manicaragua (17)\n Placetas (8)\n Quemado (1)\n Ranchuelo (8)\n Remedios (7) \n Sagua (8) \n Santa Clara (48)\n Santo Domingo (9)\n🛠️Se encuentran 2 averías en vías de solución.\n🛠️Pendientes a solucionar por el área técnica 29.\n⚡La provincia no presenta averías primarias.",
+    "timestamp": 1760717141,
+    "timestamp_local": 1760717141
+  },
+  {
     "id": 31835,
     "fecha": "17 de Oct del 2025 a las 11:17 AM",
     "hora_utc": "2025-10-17 15:17",
@@ -110,45 +150,5 @@
     "mensaje": "⚠️En déficit de capacidad de generación los siguientes \nMunicipio Camajuaní:\n👉Cto 75 La Quinta\n👉Cto 157 Luis Arcos Bergnes\n👉Ctos 76 y 90 Vega Alta",
     "timestamp": 1760695826,
     "timestamp_local": 1760695826
-  },
-  {
-    "id": 31820,
-    "fecha": "17 de Oct del 2025 a las 05:56 AM",
-    "hora_utc": "2025-10-17 09:56",
-    "mensaje": "⚠️En déficit de capacidad de generación los siguientes \nMunicipio Sagua\n👉Cto 48 Finalet\n👉Ctos 46 y 128 Sitiecito",
-    "timestamp": 1760694981,
-    "timestamp_local": 1760694981
-  },
-  {
-    "id": 31819,
-    "fecha": "17 de Oct del 2025 a las 05:40 AM",
-    "hora_utc": "2025-10-17 09:40",
-    "mensaje": "🕕Actualización del servicio eléctrico en las últimas 6 horas.\n✍️El déficit de capacidad de generación osciló entre los 56 MW y los 21 MW.\n✍️En el momento de esta nota, se mantienen afectados 38 circuitos.\n✍️ Cuenta con 93 afectaciones por averías secundarias y de servicio:\nManicaragua (15)\nRemedios (11) \nSanta Clara (37)\nSanto Domingo (5)\n🛠️Pendientes a solucionar por el área técnica 25.\n⚡La provincia no presenta averías primarias en este momento.",
-    "timestamp": 1760694024,
-    "timestamp_local": 1760694024
-  },
-  {
-    "id": 31818,
-    "fecha": "17 de Oct del 2025 a las 05:35 AM",
-    "hora_utc": "2025-10-17 09:35",
-    "mensaje": "Afectados 26 MW en la provincia, demanda máxima a apagar en estos momentos",
-    "timestamp": 1760693704,
-    "timestamp_local": 1760693704
-  },
-  {
-    "id": 31817,
-    "fecha": "17 de Oct del 2025 a las 05:32 AM",
-    "hora_utc": "2025-10-17 09:32",
-    "mensaje": "⚠️En déficit de capacidad de generación los siguientes \nMunicipio Camajuaní:\n👉Ctos 72, 129, 73 y 156 \n👉Cto 74 José María Pérez\nMunicipio Caibarién:\n👉Ctos 61, 62 ,63, 64\n👉Ctos 182 y 183 Van Troi",
-    "timestamp": 1760693568,
-    "timestamp_local": 1760693568
-  },
-  {
-    "id": 31816,
-    "fecha": "17 de Oct del 2025 a las 05:02 AM",
-    "hora_utc": "2025-10-17 09:02",
-    "mensaje": "Afectados 21 MW en la provincia, demanda máxima a apagar en estos momentos",
-    "timestamp": 1760691736,
-    "timestamp_local": 1760691736
   }
 ]
