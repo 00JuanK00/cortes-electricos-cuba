@@ -1,5 +1,37 @@
 [
   {
+    "id": 31829,
+    "fecha": "17 de Oct del 2025 a las 08:00 AM",
+    "hora_utc": "2025-10-17 12:00",
+    "mensaje": "💡Restablecido el servicio eléctrico en los siguientes circuitos:\n👉Municipio Sagua\nCto 48 Finalet\nCtos 46 y 128 Sitiecito",
+    "timestamp": 1760702439,
+    "timestamp_local": 1760702439
+  },
+  {
+    "id": 31828,
+    "fecha": "17 de Oct del 2025 a las 07:59 AM",
+    "hora_utc": "2025-10-17 11:59",
+    "mensaje": "Actualización del servicio eléctrico en la provincia\n✍️Se mantienen afectados en la provincia 67 circuitos.\n✍️En el momento de hacer esta nota la provincia tiene 51 MW de afectación por déficit de capacidad de generación, demanda máxima posible a apagar.\n✍️Cuenta con 78 afectaciones por averías secundarias y de servicio",
+    "timestamp": 1760702349,
+    "timestamp_local": 1760702349
+  },
+  {
+    "id": 31827,
+    "fecha": "17 de Oct del 2025 a las 07:54 AM",
+    "hora_utc": "2025-10-17 11:54",
+    "mensaje": "💡Restablecido el servicio eléctrico en los circuitos siguientes:\n👉Municipio Encrucijada:\nCto 122 Encrucijada \nCto 123 Vizcaya \nCto 142 Comunidad La Sierra \nCto 126 Batey Emilio Córdova\nCto 125 Cavarrocas\nCto 124 El Santo\n👉Municipio Camajuaní:\nCto 78 Jutiero",
+    "timestamp": 1760702073,
+    "timestamp_local": 1760702073
+  },
+  {
+    "id": 31826,
+    "fecha": "17 de Oct del 2025 a las 07:53 AM",
+    "hora_utc": "2025-10-17 11:53",
+    "mensaje": "⚠️Afectados por déficit de generación los siguientes circuitos:\n👉Municipio Santo Domingo:\nCto 134\nCtos 87 y 96 Bermejal\nCto 187 Batey Carlos Baliño\nCto 82 Ulacia\nCto 84 Rodrigo",
+    "timestamp": 1760702020,
+    "timestamp_local": 1760702020
+  },
+  {
     "id": 31824,
     "fecha": "17 de Oct del 2025 a las 07:12 AM",
     "hora_utc": "2025-10-17 11:12",
@@ -118,37 +150,5 @@
     "mensaje": "Afectados 56 MW en la provincia, demanda máxima a apagar en estos momentos.",
     "timestamp": 1760673717,
     "timestamp_local": 1760673717
-  },
-  {
-    "id": 31809,
-    "fecha": "16 de Oct del 2025 a las 11:36 PM",
-    "hora_utc": "2025-10-17 03:36",
-    "mensaje": "💡 Con servicio eléctrico los siguientes circuitos:\nMunicipio Camajuaní:\n👉Cto 75 La Quinta\n👉Cto 157 Luis Arcos Bergnes\n👉Ctos 76 y 90 Vega Alta",
-    "timestamp": 1760672182,
-    "timestamp_local": 1760672182
-  },
-  {
-    "id": 31808,
-    "fecha": "16 de Oct del 2025 a las 11:16 PM",
-    "hora_utc": "2025-10-17 03:16",
-    "mensaje": "💡 Con servicio eléctrico los siguientes circuitos:\nMunicipio Placetas:\n👉Cto 192 Benito Juárez\n👉Cto 102 Peroti",
-    "timestamp": 1760670967,
-    "timestamp_local": 1760670967
-  },
-  {
-    "id": 31807,
-    "fecha": "16 de Oct del 2025 a las 11:01 PM",
-    "hora_utc": "2025-10-17 03:01",
-    "mensaje": "Afectados 79 MW en la provincia, demanda máxima a apagar en estos momentos.",
-    "timestamp": 1760670114,
-    "timestamp_local": 1760670114
-  },
-  {
-    "id": 31806,
-    "fecha": "16 de Oct del 2025 a las 11:01 PM",
-    "hora_utc": "2025-10-17 03:01",
-    "mensaje": "💡 Con servicio eléctrico los siguientes circuitos:\nMunicipio Caibarién:\n👉Ctos 61, 62 ,63, 64\n👉Ctos 182 y 183 Van Troi",
-    "timestamp": 1760670060,
-    "timestamp_local": 1760670060
   }
 ]
