@@ -1,5 +1,45 @@
 [
   {
+    "id": 31917,
+    "fecha": "18 de Oct del 2025 a las 02:45 PM",
+    "hora_utc": "2025-10-18 18:45",
+    "mensaje": "🛠️Afectados por manipulación los siguientes circuitos:\n🔹Municipio Santa Clara:\n👉Cto 5 (Dobarganes)\n👉Cto 17 (Subplanta)\n👉Ctos 37 y 38 (Yabú)(Trabajo de Vía Libre)  \n👉Cto 9 (Moldes y Troqueles)\n👉Cto 133 (Cafetera)",
+    "timestamp": 1760813139,
+    "timestamp_local": 1760813139
+  },
+  {
+    "id": 31916,
+    "fecha": "18 de Oct del 2025 a las 02:14 PM",
+    "hora_utc": "2025-10-18 18:14",
+    "mensaje": "⚠️Afectados por déficit de capacidad de generación los siguientes circuitos:\n🔹Municipio Placetas:\n👉Cto 101 y 145 Cumbre",
+    "timestamp": 1760811285,
+    "timestamp_local": 1760811285
+  },
+  {
+    "id": 31915,
+    "fecha": "18 de Oct del 2025 a las 02:11 PM",
+    "hora_utc": "2025-10-18 18:11",
+    "mensaje": "💡Restablecido el servicio eléctrico en los siguientes circuitos:\n🔹Municipio Encrucijada\n👉Cto 120 Calabazar\n👉Ctos 121 y 127 Perucho\n🔹Municipio Cifuentes:\n👉Ctos 114 y 117\n👉Ctos 116 y 155 Mata\n👉Cto 186 Batey Unidad Proletaria\n👉Cto 184 Sitio Grande",
+    "timestamp": 1760811107,
+    "timestamp_local": 1760811107
+  },
+  {
+    "id": 31914,
+    "fecha": "18 de Oct del 2025 a las 02:04 PM",
+    "hora_utc": "2025-10-18 18:04",
+    "mensaje": "💡Restablecido el servicio eléctrico en los siguientes circuitos:\n🔹Municipio Manicaragua:\n👉Ctos 109 y 150\n👉Ctos 108 y 110 La Piedra\n👉Cto 111 Mataguá",
+    "timestamp": 1760810666,
+    "timestamp_local": 1760810666
+  },
+  {
+    "id": 31913,
+    "fecha": "18 de Oct del 2025 a las 02:02 PM",
+    "hora_utc": "2025-10-18 18:02",
+    "mensaje": "⚠️Afectados por déficit de capacidad de generación los siguientes circuitos:\n🔹Municipio Sagua:\n👉Ctos 43 y 51\n👉Ctos 50 y 147 Villa Alegre \n👉Cto 44 Isabela",
+    "timestamp": 1760810548,
+    "timestamp_local": 1760810548
+  },
+  {
     "id": 31912,
     "fecha": "18 de Oct del 2025 a las 02:00 PM",
     "hora_utc": "2025-10-18 18:00",
@@ -118,45 +158,5 @@
     "mensaje": "💡Restablecido el servicio eléctrico en los siguientes circuitos:\n🔹Municipio Santa Clara:\n👉Cto 5 (Dobarganes)\n👉Cto 17 (Subplanta)  \n👉Cto 9 (Moldes y Troqueles)\n👉Cto 133 (Cafetera)\n✍️ Quedan afectados los circuitos 37 y 38 (Yabú), por trabajo de vía libre planificada.",
     "timestamp": 1760801429,
     "timestamp_local": 1760801429
-  },
-  {
-    "id": 31896,
-    "fecha": "18 de Oct del 2025 a las 11:09 AM",
-    "hora_utc": "2025-10-18 15:09",
-    "mensaje": "⚠️Afectados por déficit de capacidad de generación los siguientes circuitos:\n🔹Municipio Encrucijada\n👉Cto 120 Calabazar\n👉Ctos 121 y 127 Perucho",
-    "timestamp": 1760800161,
-    "timestamp_local": 1760800161
-  },
-  {
-    "id": 31895,
-    "fecha": "18 de Oct del 2025 a las 11:08 AM",
-    "hora_utc": "2025-10-18 15:08",
-    "mensaje": "⚠️Afectados por déficit de capacidad de generación los siguientes circuitos:\nMunicipio Cifuentes:\n👉Ctos 114 y 117\n👉Ctos 116 y 155 Mata\n👉Cto 186 Batey Unidad Proletaria\n👉Cto 184 Sitio Grande",
-    "timestamp": 1760800109,
-    "timestamp_local": 1760800109
-  },
-  {
-    "id": 31894,
-    "fecha": "18 de Oct del 2025 a las 11:07 AM",
-    "hora_utc": "2025-10-18 15:07",
-    "mensaje": "🛠️Afectado por DAF (Disparo Automático por frecuencia) de la línea 1915:\nAfecta los siguientes circuitos:\nMunicipio Placetas:\n👉Cto 192 Benito Juárez\n👉Cto 102 Peroti",
-    "timestamp": 1760800047,
-    "timestamp_local": 1760800047
-  },
-  {
-    "id": 31893,
-    "fecha": "18 de Oct del 2025 a las 10:43 AM",
-    "hora_utc": "2025-10-18 14:43",
-    "mensaje": "💡Restablecido el servicio eléctrico en los siguientes circuitos:\n🔹Municipio Santa Clara:\n👉Cto 166 (Condado)\n👉Cto 167 (Virginia)\n👉Cto 170 (José Martí)",
-    "timestamp": 1760798626,
-    "timestamp_local": 1760798626
-  },
-  {
-    "id": 31892,
-    "fecha": "18 de Oct del 2025 a las 10:16 AM",
-    "hora_utc": "2025-10-18 14:16",
-    "mensaje": "🛠️Afectado por trabajo de vía libre planificada el circuito 13 (Santa Clara Industrial)",
-    "timestamp": 1760797008,
-    "timestamp_local": 1760797008
   }
 ]
