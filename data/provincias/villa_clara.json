@@ -1,5 +1,29 @@
 [
   {
+    "id": 31909,
+    "fecha": "18 de Oct del 2025 a las 01:17 PM",
+    "hora_utc": "2025-10-18 17:17",
+    "mensaje": "💡Restablecido el servicio eléctrico en los siguientes circuitos:\n🔹Municipio Remedios:\n👉Ctos 67 y 152, 68 y 118 \n👉Ctos 69 y 70 Zuluetas\n👉Cto 143 Batey Heriberto Duquesne\n👉Cto 71 Buena Vista",
+    "timestamp": 1760807824,
+    "timestamp_local": 1760807824
+  },
+  {
+    "id": 31908,
+    "fecha": "18 de Oct del 2025 a las 01:16 PM",
+    "hora_utc": "2025-10-18 17:16",
+    "mensaje": "⚠️Afectados por déficit de capacidad de generación los siguientes circuitos:\n🔹Municipio Santo Domingo:\n👉Cto 134\n👉Ctos 87 y 96 Bermejal\n👉Cto 187 Batey Carlos Baliño\n👉Cto 82 Ulacia\n👉Cto 84 Rodrigo",
+    "timestamp": 1760807764,
+    "timestamp_local": 1760807764
+  },
+  {
+    "id": 31907,
+    "fecha": "18 de Oct del 2025 a las 01:01 PM",
+    "hora_utc": "2025-10-18 17:01",
+    "mensaje": "💡Restablecido totalmente el circuito 86 (Pajarito), del municipio Santo Domingo.",
+    "timestamp": 1760806904,
+    "timestamp_local": 1760806904
+  },
+  {
     "id": 31905,
     "fecha": "18 de Oct del 2025 a las 12:59 PM",
     "hora_utc": "2025-10-18 16:59",
@@ -134,29 +158,5 @@
     "mensaje": "⚠️Afectados por déficit de capacidad de generación los siguientes circuitos:\n🔹Municipio Santa Clara:\n👉Cto 166 (Condado)\n👉Cto 167 (Virginia)\n👉Cto 170 (José Martí)",
     "timestamp": 1760796344,
     "timestamp_local": 1760796344
-  },
-  {
-    "id": 31888,
-    "fecha": "18 de Oct del 2025 a las 10:04 AM",
-    "hora_utc": "2025-10-18 14:04",
-    "mensaje": "Actualización del servicio eléctrico en la provincia\n✍️Se mantienen afectados en la provincia 30 circuitos.\n✍️En el momento de hacer esta nota la provincia tiene 28 MW de afectación por déficit de capacidad de generación, demanda máxima posible a apagar.\n✍️Cuenta con 102 afectaciones por averías secundarias y de servicio",
-    "timestamp": 1760796295,
-    "timestamp_local": 1760796295
-  },
-  {
-    "id": 31887,
-    "fecha": "18 de Oct del 2025 a las 09:42 AM",
-    "hora_utc": "2025-10-18 13:42",
-    "mensaje": "Restablecido el servicio eléctrico el circuito 196 (Batey Panchito Gómez Toro), del municipio Quemado.",
-    "timestamp": 1760794947,
-    "timestamp_local": 1760794947
-  },
-  {
-    "id": 31886,
-    "fecha": "18 de Oct del 2025 a las 09:35 AM",
-    "hora_utc": "2025-10-18 13:35",
-    "mensaje": "🛠️ Afectado por disparo el circuito 196 (Batey Panchito Gomez Toro), del municipio Quemado. Se estudian las causas.",
-    "timestamp": 1760794558,
-    "timestamp_local": 1760794558
   }
 ]
