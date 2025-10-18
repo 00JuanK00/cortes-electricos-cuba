@@ -1,5 +1,29 @@
 [
   {
+    "id": 31912,
+    "fecha": "18 de Oct del 2025 a las 02:00 PM",
+    "hora_utc": "2025-10-18 18:00",
+    "mensaje": "Actualización del servicio eléctrico en la provincia\n✍️Se mantienen afectados en la provincia 36 circuitos.\n✍️En el momento de hacer esta nota la provincia tiene 23 MW de afectación por déficit de capacidad de generación, demanda máxima posible a apagar.\n✍️Cuenta con 126 afectaciones por averías secundarias y de servicio.",
+    "timestamp": 1760810441,
+    "timestamp_local": 1760810441
+  },
+  {
+    "id": 31911,
+    "fecha": "18 de Oct del 2025 a las 01:57 PM",
+    "hora_utc": "2025-10-18 17:57",
+    "mensaje": "Con servicio los circuitos 132 y 162 (Santa Clara Industrial).",
+    "timestamp": 1760810236,
+    "timestamp_local": 1760810236
+  },
+  {
+    "id": 31910,
+    "fecha": "18 de Oct del 2025 a las 01:51 PM",
+    "hora_utc": "2025-10-18 17:51",
+    "mensaje": "🛠️Manipulación de los circuitos 132 y 162 (Santa Clara Industrial) para reponer drop out.",
+    "timestamp": 1760809893,
+    "timestamp_local": 1760809893
+  },
+  {
     "id": 31909,
     "fecha": "18 de Oct del 2025 a las 01:17 PM",
     "hora_utc": "2025-10-18 17:17",
@@ -134,29 +158,5 @@
     "mensaje": "🛠️Afectado por trabajo de vía libre planificada el circuito 13 (Santa Clara Industrial)",
     "timestamp": 1760797008,
     "timestamp_local": 1760797008
-  },
-  {
-    "id": 31891,
-    "fecha": "18 de Oct del 2025 a las 10:12 AM",
-    "hora_utc": "2025-10-18 14:12",
-    "mensaje": "💡Restablecido el servicio eléctrico en los siguientes circuitos:\n🔹Municipio Camajuaní:\n👉Ctos  73 y 156 \n👉Cto 74 José María Pérez",
-    "timestamp": 1760796746,
-    "timestamp_local": 1760796746
-  },
-  {
-    "id": 31890,
-    "fecha": "18 de Oct del 2025 a las 10:10 AM",
-    "hora_utc": "2025-10-18 14:10",
-    "mensaje": "⚠️Afectados por déficit de capacidad de generación el circuito 168 (Condado- XX Aniversario), del municipio Santa Clara.",
-    "timestamp": 1760796650,
-    "timestamp_local": 1760796650
-  },
-  {
-    "id": 31889,
-    "fecha": "18 de Oct del 2025 a las 10:05 AM",
-    "hora_utc": "2025-10-18 14:05",
-    "mensaje": "⚠️Afectados por déficit de capacidad de generación los siguientes circuitos:\n🔹Municipio Santa Clara:\n👉Cto 166 (Condado)\n👉Cto 167 (Virginia)\n👉Cto 170 (José Martí)",
-    "timestamp": 1760796344,
-    "timestamp_local": 1760796344
   }
 ]
