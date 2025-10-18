@@ -1,5 +1,45 @@
 [
   {
+    "id": 31887,
+    "fecha": "18 de Oct del 2025 a las 09:42 AM",
+    "hora_utc": "2025-10-18 13:42",
+    "mensaje": "Restablecido el servicio eléctrico el circuito 196 (Batey Panchito Gómez Toro), del municipio Quemado.",
+    "timestamp": 1760794947,
+    "timestamp_local": 1760794947
+  },
+  {
+    "id": 31886,
+    "fecha": "18 de Oct del 2025 a las 09:35 AM",
+    "hora_utc": "2025-10-18 13:35",
+    "mensaje": "🛠️ Afectado por disparo el circuito 196 (Batey Panchito Gomez Toro), del municipio Quemado. Se estudian las causas.",
+    "timestamp": 1760794558,
+    "timestamp_local": 1760794558
+  },
+  {
+    "id": 31885,
+    "fecha": "18 de Oct del 2025 a las 09:33 AM",
+    "hora_utc": "2025-10-18 13:33",
+    "mensaje": "⚠️Afectados por déficit de capacidad de generación los siguientes circuitos:\n🔹Municipio Quemado:\n👉Ctos 164, 52 y 53 Quemado.",
+    "timestamp": 1760794435,
+    "timestamp_local": 1760794435
+  },
+  {
+    "id": 31884,
+    "fecha": "18 de Oct del 2025 a las 09:10 AM",
+    "hora_utc": "2025-10-18 13:10",
+    "mensaje": "💡Restablecido el circuito 144 (Maleza), del municipio Santa Clara.",
+    "timestamp": 1760793047,
+    "timestamp_local": 1760793047
+  },
+  {
+    "id": 31883,
+    "fecha": "18 de Oct del 2025 a las 09:06 AM",
+    "hora_utc": "2025-10-18 13:06",
+    "mensaje": "⚠️Afectados por déficit de capacidad de generación los siguientes circuitos:\n🔹Municipio Manicaragua:\n👉Ctos 109 y 150\n👉Ctos 108 y 110 La Piedra\n👉Cto 111 Mataguá",
+    "timestamp": 1760792783,
+    "timestamp_local": 1760792783
+  },
+  {
     "id": 31882,
     "fecha": "18 de Oct del 2025 a las 08:57 AM",
     "hora_utc": "2025-10-18 12:57",
@@ -118,45 +158,5 @@
     "mensaje": "🕕Actualización del servicio eléctrico en las últimas 6 horas.\n\n👉El déficit de capacidad de generación osciló entre los 59 MW y los 31 MW.\n👉En el momento de esta nota, se mantienen afectados 45 circuitos.\n👉Cuenta con 104 afectaciones por averías secundarias y de servicio:\n Caibarién (1)\n Camajuaní (5)\n Manicaragua (10)\n Placetas (7)\n Remedios (14) \n Santa Clara (29)\n Santo Domingo (12)\n🛠️Se encuentran 1 averías en vías de solución.\n🛠️Pendientes a solucionar por el área técnica 25.\n⚡La provincia no presenta averías primarias.",
     "timestamp": 1760782136,
     "timestamp_local": 1760782136
-  },
-  {
-    "id": 31867,
-    "fecha": "18 de Oct del 2025 a las 04:25 AM",
-    "hora_utc": "2025-10-18 08:25",
-    "mensaje": "Actualización del servicio eléctrico en la provincia\n✍️Se mantienen afectados en la provincia 45 circuitos.\n✍️En el momento de hacer esta nota la provincia tiene 29 MW de afectación por déficit de capacidad de generación, demanda máxima posible a apagar.\n✍️Cuenta con 77 afectaciones por averías secundarias y de servicio",
-    "timestamp": 1760775926,
-    "timestamp_local": 1760775926
-  },
-  {
-    "id": 31866,
-    "fecha": "18 de Oct del 2025 a las 02:15 AM",
-    "hora_utc": "2025-10-18 06:15",
-    "mensaje": "💡Restablecido el servicio eléctrico en los siguientes circuitos:\n👉Municipio Caibarién\nCtos 63 y 64\nCtos 182 y 183 Van Troi\n👉Municipio Caibarién:\nCtos 61, 62",
-    "timestamp": 1760768104,
-    "timestamp_local": 1760768104
-  },
-  {
-    "id": 31865,
-    "fecha": "18 de Oct del 2025 a las 02:02 AM",
-    "hora_utc": "2025-10-18 06:02",
-    "mensaje": "Actualización del servicio eléctrico en la provincia\n✍️Se mantienen afectados en la provincia 51 circuitos.\n✍️En el momento de hacer esta nota la provincia tiene 38 MW de afectación por déficit de capacidad de generación, demanda máxima posible a apagar.\n✍️Cuenta con 80 afectaciones por averías secundarias y de servicio",
-    "timestamp": 1760767379,
-    "timestamp_local": 1760767379
-  },
-  {
-    "id": 31864,
-    "fecha": "18 de Oct del 2025 a las 01:32 AM",
-    "hora_utc": "2025-10-18 05:32",
-    "mensaje": "💡Se restablece el servicio eléctrico en los circuitos siguientes:\n👉Municipio Remedios:\nCtos 67 y 152, 68 y 118 \nCtos 69 y 70 Zuluetas\nCto 143 Batey Heriberto Duquesne\nCto 71 Buena Vista",
-    "timestamp": 1760765544,
-    "timestamp_local": 1760765544
-  },
-  {
-    "id": 31863,
-    "fecha": "18 de Oct del 2025 a las 12:33 AM",
-    "hora_utc": "2025-10-18 04:33",
-    "mensaje": "💡Restablecido el servicio eléctrico en los circuitos siguientes:\n👉Municipio Camajuaní:\nCtos 72, 129, 73 y 156 \nCto 74 José María Pérez",
-    "timestamp": 1760762007,
-    "timestamp_local": 1760762007
   }
 ]
