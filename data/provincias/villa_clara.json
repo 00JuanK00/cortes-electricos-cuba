@@ -1,5 +1,21 @@
 [
   {
+    "id": 32002,
+    "fecha": "19 de Oct del 2025 a las 05:40 PM",
+    "hora_utc": "2025-10-19 21:40",
+    "mensaje": "⚠️Afectado por déficit de capacidad de generación el siguiente circuito:\n🔹Municipio Santa Clara \n👉Cto 27 Maleza",
+    "timestamp": 1760910007,
+    "timestamp_local": 1760910007
+  },
+  {
+    "id": 32001,
+    "fecha": "19 de Oct del 2025 a las 05:02 PM",
+    "hora_utc": "2025-10-19 21:02",
+    "mensaje": "Afectados 111 MW en la provincia, demanda máxima a apagar en estos momentos.",
+    "timestamp": 1760907766,
+    "timestamp_local": 1760907766
+  },
+  {
     "id": 32000,
     "fecha": "19 de Oct del 2025 a las 04:34 PM",
     "hora_utc": "2025-10-19 20:34",
@@ -142,21 +158,5 @@
     "mensaje": "💡Restablecidos los siguientes circuitos:\n👉Cto 30 **SC. Industrial**\n👉Cto 31 **SC. Industrial**\n👉Cto 193 **SC. Industrial**\n👉Cto 194 SC. Industrial\n\n⚠️Se mantienen afectados los siguientes circuitos por el disparo en la Subestación:\n👉Cto 132 **SC. Industrial**\n👉Cto 162 **SC. Industrial**",
     "timestamp": 1760887778,
     "timestamp_local": 1760887778
-  },
-  {
-    "id": 31982,
-    "fecha": "19 de Oct del 2025 a las 11:27 AM",
-    "hora_utc": "2025-10-19 15:27",
-    "mensaje": "💡Restablecidos los siguientes circuitos:\n🔹Municipio Camajuaní:\n👉Ctos  73 y 156 \n👉Cto 74 José María Pérez",
-    "timestamp": 1760887661,
-    "timestamp_local": 1760887661
-  },
-  {
-    "id": 31981,
-    "fecha": "19 de Oct del 2025 a las 11:26 AM",
-    "hora_utc": "2025-10-19 15:26",
-    "mensaje": "⚠️Afectados por déficit de capacidad de generación los siguientes circuitos:\n🔹Municipio Remedios:\n👉Ctos 67 y 152, 68 y 118 \n👉Ctos 69 y 70 Zuluetas\n👉Cto 143 Batey Heriberto Duquesne\n👉Cto 71 Buena Vista",
-    "timestamp": 1760887569,
-    "timestamp_local": 1760887569
   }
 ]
