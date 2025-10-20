@@ -1,5 +1,13 @@
 [
   {
+    "id": 32820,
+    "fecha": "19 de Oct del 2025 a las 08:35 PM",
+    "hora_utc": "2025-10-20 00:35",
+    "mensaje": "✅ Déficit de Generación.\n👍 Subimos a 93 MW en la provincia por Déficit de generación.\n ⏰ Con este déficit, la carga a apagar en la provincia no nos permite realizar una rotación estable de los circuitos, por lo que se afectarán o se restablecerán en dependencia del déficit que haya en cada momento de la jornada, que es muy variable.",
+    "timestamp": 1760920528,
+    "timestamp_local": 1760920528
+  },
+  {
     "id": 32819,
     "fecha": "19 de Oct del 2025 a las 06:57 PM",
     "hora_utc": "2025-10-19 22:57",
@@ -142,13 +150,5 @@
     "mensaje": "✅ Información.\n👉 Se encuentra sin servicio el circuito Falla, se trabaja para restablecer el servicio en el menor tiempo posible.",
     "timestamp": 1760841905,
     "timestamp_local": 1760841905
-  },
-  {
-    "id": 32800,
-    "fecha": "18 de Oct del 2025 a las 09:01 PM",
-    "hora_utc": "2025-10-19 01:01",
-    "mensaje": "‼️ Déficit de Generación ‼️   \n👉Tenemos 60 MW en la provincia afectados por déficit de generación.\n💥Están afectado los siguientes circuitos:\n👉1, A102, A106, A110, Cítrico II, Isaca, Cítrico I, Cítrico III, Cítrico IV, Ceballos, Combinado Cítrico, Las Grulla, Jicotea, Majagua, Orlando González, Guayacanes, Falla, Ranchuelo, Nereida, Peonia, Politécnico de Informática,  Morón Centro, Turiguanó, Chambas, Los Perros, El Asiento, Punta Alegre y Bolivia.\n⏰ Reiteramos que los circuitos se afectarán o se restablecerán en dependencia del déficit en cada momento de la jornada, que es muy variable.",
-    "timestamp": 1760835670,
-    "timestamp_local": 1760835670
   }
 ]
