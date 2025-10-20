@@ -1,5 +1,29 @@
 [
   {
+    "id": 32069,
+    "fecha": "20 de Oct del 2025 a las 02:16 PM",
+    "hora_utc": "2025-10-20 18:16",
+    "mensaje": "⚠️Continua afectado Cto 14(Maleza) para trabajar en avería en transformador .",
+    "timestamp": 1760984170,
+    "timestamp_local": 1760984170
+  },
+  {
+    "id": 32068,
+    "fecha": "20 de Oct del 2025 a las 02:15 PM",
+    "hora_utc": "2025-10-20 18:15",
+    "mensaje": "💡Restablecida Linea 119.\nMunicipio Santa Clara:\n👉Ctos 15 y 27 (Maleza)\n👉Cto 144 (Camacho)",
+    "timestamp": 1760984154,
+    "timestamp_local": 1760984154
+  },
+  {
+    "id": 32067,
+    "fecha": "20 de Oct del 2025 a las 02:02 PM",
+    "hora_utc": "2025-10-20 18:02",
+    "mensaje": "🛠️Manipulacion🛠️\nAfectada Linea 119 por manipulación afecta los siguientes circuitos:\nMunicipio Santa Clara:\n👉Ctos 14, 15 y 27 (Maleza)\n👉Cto 144 (Camacho)",
+    "timestamp": 1760983378,
+    "timestamp_local": 1760983378
+  },
+  {
     "id": 32066,
     "fecha": "20 de Oct del 2025 a las 01:53 PM",
     "hora_utc": "2025-10-20 17:53",
@@ -134,29 +158,5 @@
     "mensaje": "🚨Nota informativa🚨\n\n👉Situación del SEN para el 20 de octubre de 2025.\n\n\n👉En el día de ayer se afectó el servicio las 24 horas y se mantuvo afectado durante toda la madrugada de hoy. La máxima afectación por déficit de capacidad de generación en el día de ayer fue de 1582 MW a las 19:00 horas, superior a lo planificado por demanda superior al pronóstico. \n\n☀️La producción de energía de los 32 nuevos parques solares fotovoltaicos fue de 2891 MWh, con 680 MW como máxima potencia entregada en el horario de la media con esta fuente de generación. \n\n\n👉La disponibilidad del SEN a las 06:00 horas es de 1635 MW  y la demanda 2552 MW con 893 MW afectados por déficit de capacidad. En el horario de la media se estima una afectación de 980 MW. \n\n🛠️Se encuentran en avería la unidad 8 de la CTE Mariel, las unidades 1 y 3 de la CTE Santa Cruz, la unidad 2 de la CTE Felton y la unidad 3 de la CTE Renté. Se encuentran en mantenimiento la unidad 2 de la CTE Santa Cruz y la unidad 4 de la CTE Cienfuegos.\n  \n👉Las limitaciones en la generación térmica son de 395 MW. \n\n⛽Se encuentran fuera de servicio por combustible                                54 centrales de generación distribuida con 485 MW y 166 MW indisponible por falta de lubricante, para un total de 651 MW.\n\n📈Para el horario pico se estima la entrada de la unidad 3 de la CTE Santa Cruz con 45 MW.\n  \n👉Con este pronóstico en el horario pico se estima una disponibilidad de 1680 MW y una demanda máxima de 3450 MW, para un déficit de 1770 MW, por lo que de mantenerse las condiciones previstas se pronostica una afectación de 1840 MW en este horario\n\nUNE-MINEM---07:00 horas.",
     "timestamp": 1760959587,
     "timestamp_local": 1760959587
-  },
-  {
-    "id": 32049,
-    "fecha": "20 de Oct del 2025 a las 07:01 AM",
-    "hora_utc": "2025-10-20 11:01",
-    "mensaje": "Afectados 101 MW en la provincia, demanda máxima a apagar en estos momentos.",
-    "timestamp": 1760958082,
-    "timestamp_local": 1760958082
-  },
-  {
-    "id": 32048,
-    "fecha": "20 de Oct del 2025 a las 06:26 AM",
-    "hora_utc": "2025-10-20 10:26",
-    "mensaje": "⚠️Afectados por déficit de capacidad de generación los siguientes circuitos:\n🔹Municipio Sagua:\n👉Ctos 43 y 51\n👉Ctos 50 y 147 Villa Alegre \n👉Cto 44 Isabela",
-    "timestamp": 1760956018,
-    "timestamp_local": 1760956018
-  },
-  {
-    "id": 32047,
-    "fecha": "20 de Oct del 2025 a las 06:13 AM",
-    "hora_utc": "2025-10-20 10:13",
-    "mensaje": "⚠️Afectados por déficit de capacidad de generación los siguientes circuitos:\n🔹Municipio Manicaragua:\n👉Ctos 109 y 150\n👉Ctos 108 y 110 La Piedra\n👉Cto 111 Mataguá",
-    "timestamp": 1760955216,
-    "timestamp_local": 1760955216
   }
 ]
