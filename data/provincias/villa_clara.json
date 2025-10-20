@@ -1,5 +1,29 @@
 [
   {
+    "id": 32042,
+    "fecha": "20 de Oct del 2025 a las 03:24 AM",
+    "hora_utc": "2025-10-20 07:24",
+    "mensaje": "💡Con servicio el Cto 37 Yabu, perteneciente al municipio Santa Clara.",
+    "timestamp": 1760945095,
+    "timestamp_local": 1760945095
+  },
+  {
+    "id": 32041,
+    "fecha": "20 de Oct del 2025 a las 03:17 AM",
+    "hora_utc": "2025-10-20 07:17",
+    "mensaje": "⚠️Afectado por manipulación la línea del 1785:\n🔹Municipio Santa Clara:\n👉Cto 6 (Vigía)\n👉Cto 34(Sabana Rebacadero)\n👉Ctos 32 y 33 (RF-33Kv)\n👉Cto 39 (Sandino)",
+    "timestamp": 1760944638,
+    "timestamp_local": 1760944638
+  },
+  {
+    "id": 32040,
+    "fecha": "20 de Oct del 2025 a las 03:12 AM",
+    "hora_utc": "2025-10-20 07:12",
+    "mensaje": "⚠️Afectado por manipulación la línea del 861:\n🔹Municipio Santa Clara:\n👉Cto 5 (Dobarganes)\n👉Cto 17 (Subplanta)\n👉Ctos 37 y 38 (Yabú)   \n👉Cto 9 (Moldes y Troqueles)\n👉Cto 133 (Cafetera)",
+    "timestamp": 1760944322,
+    "timestamp_local": 1760944322
+  },
+  {
     "id": 32039,
     "fecha": "20 de Oct del 2025 a las 02:59 AM",
     "hora_utc": "2025-10-20 06:59",
@@ -134,29 +158,5 @@
     "mensaje": "⚠️Disparada la línea del 119:\n🔹Municipio Santa Clara:\n👉Cto 144 (Camacho)",
     "timestamp": 1760930482,
     "timestamp_local": 1760930482
-  },
-  {
-    "id": 32021,
-    "fecha": "19 de Oct del 2025 a las 11:16 PM",
-    "hora_utc": "2025-10-20 03:16",
-    "mensaje": "⚠️Disparada la línea del 129 afectando el siguiente circuito:\n👉Cto 40 Hospital Militar",
-    "timestamp": 1760930161,
-    "timestamp_local": 1760930161
-  },
-  {
-    "id": 32020,
-    "fecha": "19 de Oct del 2025 a las 10:54 PM",
-    "hora_utc": "2025-10-20 02:54",
-    "mensaje": "⚠️Disparados los siguientes circuitos.\n👉Cto 30 SC. Industrial\n👉Cto 31 SC. Industrial\n👉Cto 132 SC. Industrial\n👉Cto 162 SC. Industrial",
-    "timestamp": 1760928870,
-    "timestamp_local": 1760928870
-  },
-  {
-    "id": 32019,
-    "fecha": "19 de Oct del 2025 a las 10:32 PM",
-    "hora_utc": "2025-10-20 02:32",
-    "mensaje": "💡Restablecidos los siguientes circuitos:\n👉Cto 132 SC. Industrial\n👉Cto 162 SC. Industrial",
-    "timestamp": 1760927546,
-    "timestamp_local": 1760927546
   }
 ]
