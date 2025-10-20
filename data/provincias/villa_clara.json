@@ -1,9 +1,25 @@
 [
   {
+    "id": 32053,
+    "fecha": "20 de Oct del 2025 a las 09:07 AM",
+    "hora_utc": "2025-10-20 13:07",
+    "mensaje": "Afectados 76 MW en la provincia, demanda máxima a apagar en estos momentos.",
+    "timestamp": 1760965673,
+    "timestamp_local": 1760965673
+  },
+  {
+    "id": 32052,
+    "fecha": "20 de Oct del 2025 a las 08:49 AM",
+    "hora_utc": "2025-10-20 12:49",
+    "mensaje": "Actualización del servicio eléctrico en la provincia\n✍️Se mantienen afectados en la provincia 94 circuitos.\n✍️En el momento de hacer esta nota la provincia tiene 64 MW de afectación por déficit de capacidad de generación, demanda máxima posible a apagar.\n✍️Cuenta con 99 afectaciones por averías secundarias y de servicio.",
+    "timestamp": 1760964595,
+    "timestamp_local": 1760964595
+  },
+  {
     "id": 32051,
     "fecha": "20 de Oct del 2025 a las 07:56 AM",
     "hora_utc": "2025-10-20 11:56",
-    "mensaje": "💡Restablecidos los siguientes circuitos:\n🔹Municipio Manicaragua:\n👉Ctos 109 y 150\n👉Ctos 108 y 110 La Piedra\n👉Cto 111 Mataguá\n🔹Municipio Placetas \n👉Ctos 98 y 99 Placetas\n👉Ctos 100 y 151 Placetas\n👉Cto 104 Hermanos Amejeiras\n👉Cto 103 Batey Carbó Servia\n🔹Municipio Santo Domingo:\n👉Cto 195 Batey George Washington\n👉Ctos 83 y 165 Manacas\n👉Ctos 85 y 86 Pajarito\n👉Ctos 160 y 161 Cascajal",
+    "mensaje": "💡Restablecidos los siguientes circuitos:\n🔹Municipio Manicaragua:\n👉Ctos 109 y 150\n👉Ctos 108 y 110 La Piedra\n👉Cto 111 Mataguá\n🔹Municipio Santo Domingo:\n👉Cto 195 Batey George Washington\n👉Ctos 83 y 165 Manacas\n👉Ctos 85 y 86 Pajarito\n👉Ctos 160 y 161 Cascajal",
     "timestamp": 1760961413,
     "timestamp_local": 1760961413
   },
@@ -142,21 +158,5 @@
     "mensaje": "Afectados 79 MW en la provincia, demanda máxima a apagar en estos momentos.",
     "timestamp": 1760937987,
     "timestamp_local": 1760937987
-  },
-  {
-    "id": 32032,
-    "fecha": "20 de Oct del 2025 a las 01:23 AM",
-    "hora_utc": "2025-10-20 05:23",
-    "mensaje": "💡Serán restablecidos los siguientes circuitos:\n🔹Municipio Placetas:\n👉Cto 101 y 145 Cumbre\n🔹Municipio Santa Clara:\n👉Cto 6 (Vigía)",
-    "timestamp": 1760937814,
-    "timestamp_local": 1760937814
-  },
-  {
-    "id": 32031,
-    "fecha": "20 de Oct del 2025 a las 01:09 AM",
-    "hora_utc": "2025-10-20 05:09",
-    "mensaje": "💡Con servicio el Cto 30 SC Industrial de manera parcial, perteneciente al municipio Santa Clara.",
-    "timestamp": 1760936957,
-    "timestamp_local": 1760936957
   }
 ]

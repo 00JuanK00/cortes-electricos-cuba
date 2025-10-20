@@ -1,5 +1,45 @@
 [
   {
+    "id": 93864,
+    "fecha": "20 de Oct del 2025 a las 09:03 AM",
+    "hora_utc": "2025-10-20 13:03",
+    "mensaje": "🚨Por déficit de capacidad de generación se afecta el servicio en el siguiente circuito: \n*Güines 3🚨",
+    "timestamp": 1760965432,
+    "timestamp_local": 1760965432
+  },
+  {
+    "id": 93863,
+    "fecha": "20 de Oct del 2025 a las 08:52 AM",
+    "hora_utc": "2025-10-20 12:52",
+    "mensaje": "🔷♦️Se restablece el servicio en el siguiente circuito que se encontraba afectado por déficit de capacidad de generación: \n*Güines 3 🔷♦️",
+    "timestamp": 1760964767,
+    "timestamp_local": 1760964767
+  },
+  {
+    "id": 93862,
+    "fecha": "20 de Oct del 2025 a las 08:52 AM",
+    "hora_utc": "2025-10-20 12:52",
+    "mensaje": "🚨Por déficit de capacidad de generación se afecta el servicio en los siguientes circuitos: \n*Picadura\n*Aguacate 🚨",
+    "timestamp": 1760964749,
+    "timestamp_local": 1760964749
+  },
+  {
+    "id": 93861,
+    "fecha": "20 de Oct del 2025 a las 08:17 AM",
+    "hora_utc": "2025-10-20 12:17",
+    "mensaje": "**Nota Informativa: Estado del Sistema Eléctrico Nacional (SEN) – 20 de octubre de 2025\n\n**En el día de ayer se afectó el servicio las 24 horas y se mantuvo afectado durante toda la madrugada de hoy. La máxima afectación por déficit de capacidad de generación en el día de ayer fue de 1582 MW a las 19:00 horas, superior a lo planificado por demanda superior al pronóstico. \nLa producción de energía de los 32 nuevos parques solares fotovoltaicos fue de 2891 MWh, con 680 MW como máxima potencia entregada en el horario de la media con esta fuente de generación. \n\n**Estado actual del SEN\n**La disponibilidad del SEN a las 06:00 horas es de 1635 MW y la demanda 2552 MW con 893 MW afectados por déficit de capacidad. En el horario de la media se estima una afectación de 980 MW. \n\n**Principales incidencias\n** • Avería: Unidad 2 de la CTE Felton, Unidad 1 y 3 de la CTE Santa Cruz, Unidad 8 de Mariel y Unidad 3 de la CTE Renté.\n • Mantenimiento: Unidad 2 de la CTE Santa Cruz y Unidad 4 de la CTE Carlos Manuel de Céspedes en Cienfuegos.\n • Limitaciones en la generación térmica: 395 MW fuera de servicio.\n • Problemas por falta de combustible\n • 54 centrales de generación distribuida con 485 MW.\n • 166 MW indisponibles por falta de lubricante.\n • Total de MW afectados por esta causa: 651 MW.\n\n**Pronóstico para el horario pico\n**Para el horario pico se estima la entrada de la unidad 3 de la CTE Santa Cruz con 45 MW.\nCon este pronóstico en el horario pico se estima una disponibilidad de 1680 MW y una demanda máxima de 3450 MW, para un déficit de 1770 MW, por lo que de mantenerse las condiciones previstas se pronostica una afectación de 1840 MW en este horario.",
+    "timestamp": 1760962638,
+    "timestamp_local": 1760962638
+  },
+  {
+    "id": 93859,
+    "fecha": "20 de Oct del 2025 a las 08:05 AM",
+    "hora_utc": "2025-10-20 12:05",
+    "mensaje": "🚨Por déficit de capacidad de generación se afecta el servicio en el siguiente circuito: \n*Camilo 🚨",
+    "timestamp": 1760961936,
+    "timestamp_local": 1760961936
+  },
+  {
     "id": 93858,
     "fecha": "20 de Oct del 2025 a las 07:45 AM",
     "hora_utc": "2025-10-20 11:45",
@@ -110,37 +150,5 @@
     "mensaje": "🔷♦️Se restablece el servicio en los siguientes circuitos que se encontraban afectados por déficit de capacidad de generación:\n*Catalina 1 y 2🔷♦️",
     "timestamp": 1760957582,
     "timestamp_local": 1760957582
-  },
-  {
-    "id": 93844,
-    "fecha": "20 de Oct del 2025 a las 06:51 AM",
-    "hora_utc": "2025-10-20 10:51",
-    "mensaje": "🚨Por déficit de capacidad de generación se afecta el servicio en el siguiente circuito: \n*Melena 1 🚨",
-    "timestamp": 1760957496,
-    "timestamp_local": 1760957496
-  },
-  {
-    "id": 93843,
-    "fecha": "20 de Oct del 2025 a las 06:49 AM",
-    "hora_utc": "2025-10-20 10:49",
-    "mensaje": "🔷♦️Se restablece el servicio en el siguiente circuito que se encontraba afectado por déficit de capacidad de generación: \n*2440🔷♦️",
-    "timestamp": 1760957391,
-    "timestamp_local": 1760957391
-  },
-  {
-    "id": 93841,
-    "fecha": "20 de Oct del 2025 a las 06:41 AM",
-    "hora_utc": "2025-10-20 10:41",
-    "mensaje": "🔷♦️Se restablece el servicio en el siguiente circuito que se encontraba afectado por déficit de capacidad de generación: \n*Ganuza 🔷♦️",
-    "timestamp": 1760956905,
-    "timestamp_local": 1760956905
-  },
-  {
-    "id": 93840,
-    "fecha": "20 de Oct del 2025 a las 06:32 AM",
-    "hora_utc": "2025-10-20 10:32",
-    "mensaje": "🚨Por déficit de capacidad de generación se afecta el servicio en el siguiente circuito: \n*2420🚨",
-    "timestamp": 1760956335,
-    "timestamp_local": 1760956335
   }
 ]
