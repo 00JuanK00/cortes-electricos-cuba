@@ -1,5 +1,13 @@
 [
   {
+    "id": 32832,
+    "fecha": "20 de Oct del 2025 a las 06:23 AM",
+    "hora_utc": "2025-10-20 10:23",
+    "mensaje": "✅ Déficit de Generación.\n👍 Subimos a 70 MW en la provincia por Déficit de generación.\n ⏰ Con este déficit, la carga a apagar en la provincia no nos permite realizar una rotación estable de los circuitos, por lo que se afectarán o se restablecerán en dependencia del déficit que haya en cada momento de la jornada, que es muy variable.",
+    "timestamp": 1760955819,
+    "timestamp_local": 1760955819
+  },
+  {
     "id": 32830,
     "fecha": "20 de Oct del 2025 a las 03:37 AM",
     "hora_utc": "2025-10-20 07:37",
@@ -11,7 +19,7 @@
     "id": 32829,
     "fecha": "20 de Oct del 2025 a las 03:31 AM",
     "hora_utc": "2025-10-20 07:31",
-    "mensaje": "✅ Información\n👉 Se restablece el servicio en el circuito de Chambas.",
+    "mensaje": "✅ Información\n👉 Se restablece el servicio en el circuito de Chambas, quedando en fallo Mabuya, Bizcucia y lugares aledaños se recorren las lineas para encontrar la avería.",
     "timestamp": 1760945513,
     "timestamp_local": 1760945513
   },
@@ -126,13 +134,5 @@
     "mensaje": "‼️ Déficit de Generación ‼️   \n👉Tenemos 25 MW en la provincia afectados por déficit de generación.\n💥Están afectado los siguientes circuitos:\n👉Cítrico II, Isaca,Cítrico I, Cítrico IV, Ceballos, Combinado \nCítrico, Las Grullas,  Morón Centro, Nereida y Peonia.\n\n⏰ Reiteramos que los circuitos se afectarán o se restablecerán en dependencia del déficit en cada momento de la jornada, que es muy variable.",
     "timestamp": 1760888465,
     "timestamp_local": 1760888465
-  },
-  {
-    "id": 32811,
-    "fecha": "19 de Oct del 2025 a las 10:25 AM",
-    "hora_utc": "2025-10-19 14:25",
-    "mensaje": "‼️ Déficit de Generación ‼️   \n👉  Bajamos a 25 MW en la provincia por déficit de generación.\n💥Se incorporan a la rotación los siguientes circuitos:\n👉Patria y Turiguano.\n ⏰ Reiteramos que los circuitos se afectarán o se restablecerán en dependencia del déficit solicitado en cada momento de la jornada que es muy variable.",
-    "timestamp": 1760883909,
-    "timestamp_local": 1760883909
   }
 ]

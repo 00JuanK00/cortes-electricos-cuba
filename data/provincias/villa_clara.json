@@ -1,9 +1,41 @@
 [
   {
+    "id": 32048,
+    "fecha": "20 de Oct del 2025 a las 06:26 AM",
+    "hora_utc": "2025-10-20 10:26",
+    "mensaje": "⚠️Afectados por déficit de capacidad de generación los siguientes circuitos:\n🔹Municipio Sagua:\n👉Ctos 43 y 51\n👉Ctos 50 y 147 Villa Alegre \n👉Cto 44 Isabela",
+    "timestamp": 1760956018,
+    "timestamp_local": 1760956018
+  },
+  {
+    "id": 32047,
+    "fecha": "20 de Oct del 2025 a las 06:13 AM",
+    "hora_utc": "2025-10-20 10:13",
+    "mensaje": "⚠️Afectados por déficit de capacidad de generación los siguientes circuitos:\n🔹Municipio Manicaragua:\n👉Ctos 109 y 150\n👉Ctos 108 y 110 La Piedra\n👉Cto 111 Mataguá",
+    "timestamp": 1760955216,
+    "timestamp_local": 1760955216
+  },
+  {
+    "id": 32046,
+    "fecha": "20 de Oct del 2025 a las 06:08 AM",
+    "hora_utc": "2025-10-20 10:08",
+    "mensaje": "🕕Actualización del servicio eléctrico en las últimas 6 horas.\n✍️El déficit de capacidad de generación osciló entre los 79 MW y los 57 MW.\n✍️En el momento de esta nota, se mantienen afectados 129 circuitos.\n✍️Cuenta con 78 afectaciones por averías secundarias y de servicio\n🔸Corralillo (1)\n🔸Encrucijada (1)\n🔸Manicaragua (15)\n🔸Remedios (7)\n🔸Placetas (10)\n🔸Santa Clara (33)\n🔸Santo Domingo (11)\n🛠️Se encuentra 2 avería en vías de solución.\n🛠️Pendientes a solucionar por el área técnica 21.\n⚡Avería⚡\n🔹Disparados los Ctos 68 y 118 pertenecientes al municipio Remedios.",
+    "timestamp": 1760954932,
+    "timestamp_local": 1760954932
+  },
+  {
+    "id": 32045,
+    "fecha": "20 de Oct del 2025 a las 06:01 AM",
+    "hora_utc": "2025-10-20 10:01",
+    "mensaje": "⚠️Afectados por déficit de capacidad de generación los siguientes circuitos:\n🔹Municipio Placetas:\n👉Cto 192 Benito Juárez\n👉Cto 102 Peroti\n🔹Municipio Caibarién:\n👉Ctos 61, 62 \n👉Ctos 63 y 64\n👉Ctos 182 y 183 Van Troi\n🔹Municipio Cifuentes:\n👉Ctos 114 y 117\n👉Ctos 116 y 155 Mata\n👉Cto 186 Batey Unidad Proletaria\n👉Cto 184 Sitio Grande",
+    "timestamp": 1760954501,
+    "timestamp_local": 1760954501
+  },
+  {
     "id": 32044,
     "fecha": "20 de Oct del 2025 a las 05:15 AM",
     "hora_utc": "2025-10-20 09:15",
-    "mensaje": "⚠️Afectados por déficit de capacidad de generación los siguientes circuitos:\n🔹Municipio Remedios:\n👉Ctos 67 y 152, 68 y 118 \n👉Ctos 69 y 70 Zuluetas\n👉Cto 143 Batey Heriberto Duquesne\n👉Cto 71 Buena Vista\n🔹Municipio Santo Domingo:\n👉Cto 134\n👉Ctos 87 y 96 Bermejal\n👉Cto 187 Batey Carlos Baliño\n👉Cto 82 Ulacia\n👉Cto 84 Rodrigo",
+    "mensaje": "⚠️Afectados por déficit de capacidad de generación los siguientes circuitos:\n🔹Municipio Remedios:\n👉Ctos 67 y 152, 68 y 118 \n👉Ctos 69 y 70 Zuluetas\n👉Cto 143 Batey Heriberto Duquesne\n👉Cto 71 Buena Vista\n🔹Municipio Santo Domingo:\n👉Cto 134\n👉Ctos 87 y 96 Bermejal\n👉Cto 187 Batey Carlos Baliño\n👉Cto 82 Ulacia\n👉Cto 84 Rodrigo\n\n💡Normalizada la línea del 1955:\n 🔸Municipio Encrucijada:\n👉Cto 122 Encrucijada \n👉Cto 123 Vizcaya \n👉Cto 142 Comunidad La Sierra \n👉Cto 126 Batey Emilio Córdova\n👉Cto 125 Cavarrocas\n👉Cto 124 El Santo\nMunicipio Camajuaní:\n👉Cto 78 Jutiero",
     "timestamp": 1760951755,
     "timestamp_local": 1760951755
   },
@@ -19,7 +51,7 @@
     "id": 32042,
     "fecha": "20 de Oct del 2025 a las 03:24 AM",
     "hora_utc": "2025-10-20 07:24",
-    "mensaje": "💡Con servicio el Cto 37 Yabu, perteneciente al municipio Santa Clara.",
+    "mensaje": "💡Con servicio los Ctos 26 Manuelita y 37 Yabu, pertenecientes al municipio Santa Clara.",
     "timestamp": 1760945095,
     "timestamp_local": 1760945095
   },
@@ -126,37 +158,5 @@
     "mensaje": "⚠️Resumen de afectaciones por disparos en líneas y circuitos:\n🔹Disparada la línea del 6375:\nMunicipio Santa Clara\n👉Cto 7 (Universidad)  \n👉Cto 146 (Elevado Aeropuerto) \n👉Cto 22 (Construcciones Textil)\n👉Cto 131 (Las Antillas)\n👉Cto 153 (EIDE)\nMunicipio Santa Clara:\n👉Ctos 14, 15 y 27 (Maleza)\n🔹Disparada la línea del 129 afectando el siguiente circuito:\n👉Cto 40 Hospital Militar\n🔹Posible disparo en el Cto 37 Yabu, perteneciente al municipio Santa Clara.\n🔹Disparados los Ctos 68 y 118 pertenecientes al municipio Remedios.\n🔹Disparado el Cto 30 SC Industrial perteneciente al municipio Santa Clara.\n🔹Disparado el Cto 26 Manuelita, perteneciente al municipio Santa Clara.",
     "timestamp": 1760933956,
     "timestamp_local": 1760933956
-  },
-  {
-    "id": 32027,
-    "fecha": "20 de Oct del 2025 a las 12:15 AM",
-    "hora_utc": "2025-10-20 04:15",
-    "mensaje": "🕛Actualización del servicio eléctrico en las últimas 6 horas.\n✍️El déficit de capacidad de generación osciló entre los 128 MW y los 113 MW.\n✍️En el momento de esta nota, se mantienen afectados 128 circuitos.\n✍️Cuenta con 87 afectaciones por averías secundarias y de servicio\n🔸Caibarién (6)\n🔸Corralillo (1)\n🔸Encrucijada (5)\n🔸Manicaragua (15)\n🔸Remedios (7)\n🔸Placetas (10)\n🔸Santa Clara (32)\n🔸Santo Domingo (11)\n🛠️Se encuentra 2 avería en vías de solución.\n🛠️Pendientes a solucionar por el área técnica 20.\n⚡La provincia en estos momentos no presenta averías primarias.",
-    "timestamp": 1760933711,
-    "timestamp_local": 1760933711
-  },
-  {
-    "id": 32026,
-    "fecha": "19 de Oct del 2025 a las 11:59 PM",
-    "hora_utc": "2025-10-20 03:59",
-    "mensaje": "💡Restablecida la línea del 119.",
-    "timestamp": 1760932784,
-    "timestamp_local": 1760932784
-  },
-  {
-    "id": 32025,
-    "fecha": "19 de Oct del 2025 a las 11:58 PM",
-    "hora_utc": "2025-10-20 03:58",
-    "mensaje": "⚠️Disparado el Cto 26 Manuelita, perteneciente al municipio Santa Clara.",
-    "timestamp": 1760932708,
-    "timestamp_local": 1760932708
-  },
-  {
-    "id": 32024,
-    "fecha": "19 de Oct del 2025 a las 11:52 PM",
-    "hora_utc": "2025-10-20 03:52",
-    "mensaje": "💡Serán restablecidos los siguientes circuitos:\n🔹Municipio Santa Clara:\n👉Ctos 2 y 4 (Consejo- Centro)",
-    "timestamp": 1760932336,
-    "timestamp_local": 1760932336
   }
 ]
