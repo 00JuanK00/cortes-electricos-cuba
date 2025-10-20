@@ -1,5 +1,21 @@
 [
   {
+    "id": 32081,
+    "fecha": "20 de Oct del 2025 a las 05:34 PM",
+    "hora_utc": "2025-10-20 21:34",
+    "mensaje": "Afectados 127 MW en la provincia, demanda máxima a apagar en estos momentos.",
+    "timestamp": 1760996040,
+    "timestamp_local": 1760996040
+  },
+  {
+    "id": 32080,
+    "fecha": "20 de Oct del 2025 a las 05:04 PM",
+    "hora_utc": "2025-10-20 21:04",
+    "mensaje": "⚠️En déficit de capacidad de generación los siguientes circuitos:\n🔹Municipio Santa Clara:\n👉Ctos 14, 15 y 27 (Maleza)\n👉Cto 144 (Camacho)",
+    "timestamp": 1760994256,
+    "timestamp_local": 1760994256
+  },
+  {
     "id": 32079,
     "fecha": "20 de Oct del 2025 a las 05:00 PM",
     "hora_utc": "2025-10-20 21:00",
@@ -134,21 +150,5 @@
     "mensaje": "Afectados 89 MW en la provincia, demanda máxima a apagar en estos momentos.",
     "timestamp": 1760977014,
     "timestamp_local": 1760977014
-  },
-  {
-    "id": 32061,
-    "fecha": "20 de Oct del 2025 a las 12:13 PM",
-    "hora_utc": "2025-10-20 16:13",
-    "mensaje": "🕛Actualización del servicio eléctrico en las últimas 6 horas.\n✍️El déficit de capacidad de generación osciló entre los 68 MW y los 101 MW.\n✍️En el momento de esta nota, se mantienen afectados 99 circuitos.\n✍️Cuenta con 160 afectaciones por averías secundarias y de servicio\n🔸Caibarien (6)\n🔸Camajuani (1)\n🔸Corralillo (1)\n🔸Encrucijada (1)\n🔸Manicaragua (17)\n🔸Placetas (9)\n🔸Ranchuelo (3)\n🔸Remedios (12)\n🔸Sagua (5)\n🔸Santa Clara (60)\n🔸Santo Domingo (13)\n🛠️Se encuentra 10 avería en vías de solución.\n🛠️Pendientes a solucionar por el área técnica 22.\n⚡Avería⚡\n🔹Afectados  los Ctos 68 y 118 pertenecientes al municipio Remedios por avería en la sub por 13KV.\n🔹Afectado el Cto 162 de manera parcial afectando el Estadio Sandino perteneciente al municipio Santa Clara.\n🔹Afectada de manera parcial la línea del 129 perteneciente al municipio Santa Clara.",
-    "timestamp": 1760976798,
-    "timestamp_local": 1760976798
-  },
-  {
-    "id": 32060,
-    "fecha": "20 de Oct del 2025 a las 11:05 AM",
-    "hora_utc": "2025-10-20 15:05",
-    "mensaje": "⚡Avería⚡\n\n⚠️ Continúan afectados, por avería en la Subestación eléctrica (linea de 13KV) perteneciente al municipio Remedios, los siguientes circuitos:\n\n👉 Ctos  68 y 118",
-    "timestamp": 1760972731,
-    "timestamp_local": 1760972731
   }
 ]
