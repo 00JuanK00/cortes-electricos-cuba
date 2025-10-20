@@ -1,5 +1,37 @@
 [
   {
+    "id": 32016,
+    "fecha": "19 de Oct del 2025 a las 10:23 PM",
+    "hora_utc": "2025-10-20 02:23",
+    "mensaje": "⚠️Disparada la Subestación de Industrial afectando los siguientes circuitos.\n👉Cto 30 SC. Industrial\n👉Cto 31 SC. Industrial\n👉Cto 132 SC. Industrial\n👉Cto 162 SC. Industrial\n👉Cto 193 SC. Industrial\n👉Cto 194 SC. Industrial",
+    "timestamp": 1760927034,
+    "timestamp_local": 1760927034
+  },
+  {
+    "id": 32015,
+    "fecha": "19 de Oct del 2025 a las 10:23 PM",
+    "hora_utc": "2025-10-20 02:23",
+    "mensaje": "⚠️Disparada la línea del 6375:\n🔹Municipio Santa Clara\n👉Cto 7 (Universidad)  \n👉Cto 146 (Elevado Aeropuerto) \n👉Cto 22 (Construcciones Textil)\n👉Cto 131 (Las Antillas)\n👉Cto 153 (EIDE)\n🔹Municipio Santa Clara:\n👉Ctos 14, 15 y 27 (Maleza)",
+    "timestamp": 1760927015,
+    "timestamp_local": 1760927015
+  },
+  {
+    "id": 32014,
+    "fecha": "19 de Oct del 2025 a las 10:02 PM",
+    "hora_utc": "2025-10-20 02:02",
+    "mensaje": "Actualización del servicio eléctrico en la provincia\n✍️Se mantienen afectados en la provincia 141 circuitos.\n✍️En el momento de hacer esta nota la provincia tiene 113 MW de afectación por déficit de capacidad de generación, demanda máxima posible a apagar.\n✍️Cuenta con 87 afectaciones por averías secundarias y de servicio.",
+    "timestamp": 1760925752,
+    "timestamp_local": 1760925752
+  },
+  {
+    "id": 32013,
+    "fecha": "19 de Oct del 2025 a las 09:07 PM",
+    "hora_utc": "2025-10-20 01:07",
+    "mensaje": "Afectados 120 MW en la provincia, demanda máxima a apagar en estos momentos.",
+    "timestamp": 1760922439,
+    "timestamp_local": 1760922439
+  },
+  {
     "id": 32012,
     "fecha": "19 de Oct del 2025 a las 08:30 PM",
     "hora_utc": "2025-10-20 00:30",
@@ -126,37 +158,5 @@
     "mensaje": "⚠️Afectados por déficit de capacidad de generación los siguientes circuitos:\n🔹Municipio Camajuaní:\n👉Ctos 72 y 129 Camajuani\n👉Cto 75 La Quinta\n👉Cto 157 Luis Arcos Bergnes\n👉Ctos 76 y 90 Vega Alta",
     "timestamp": 1760904612,
     "timestamp_local": 1760904612
-  },
-  {
-    "id": 31996,
-    "fecha": "19 de Oct del 2025 a las 04:06 PM",
-    "hora_utc": "2025-10-19 20:06",
-    "mensaje": "Actualización del servicio eléctrico en la provincia\n✍️Se mantienen afectados en la provincia 100 circuitos.\n✍️En el momento de hacer esta nota la provincia tiene 87 MW de afectación por déficit de capacidad de generación, demanda máxima posible a apagar.\n✍️Cuenta con 102 afectaciones por averías secundarias y de servicio.",
-    "timestamp": 1760904365,
-    "timestamp_local": 1760904365
-  },
-  {
-    "id": 31995,
-    "fecha": "19 de Oct del 2025 a las 04:01 PM",
-    "hora_utc": "2025-10-19 20:01",
-    "mensaje": "⚠️Disparada la línea del 6375:\n🔹Municipio Santa Clara\n👉Cto 7 (Universidad)  \n👉Cto 146 (Elevado Aeropuerto) \n👉Cto 22 (Construcciones Textil)\n👉Cto 131 (Las Antillas)\n👉Cto 153 (EIDE)\n🔹Municipio Santa Clara:\n👉Ctos 14, 15 y 27 (Maleza)",
-    "timestamp": 1760904100,
-    "timestamp_local": 1760904100
-  },
-  {
-    "id": 31994,
-    "fecha": "19 de Oct del 2025 a las 03:58 PM",
-    "hora_utc": "2025-10-19 19:58",
-    "mensaje": "⚠️Afectados por déficit de capacidad de generación los siguientes circuitos:\n🔹Municipio Cifuentes:\n👉Ctos 114 y 117\n👉Ctos 116 y 155 Mata\n👉Cto 186 Batey Unidad Proletaria\n👉Cto 184 Sitio Grande",
-    "timestamp": 1760903907,
-    "timestamp_local": 1760903907
-  },
-  {
-    "id": 31993,
-    "fecha": "19 de Oct del 2025 a las 03:41 PM",
-    "hora_utc": "2025-10-19 19:41",
-    "mensaje": "⚠️Afectado por déficit de capacidad de generación el siguiente circuito:\n🔹Municipio Santa Clara \n👉Cto 22 (Construcciones Textil)",
-    "timestamp": 1760902871,
-    "timestamp_local": 1760902871
   }
 ]
