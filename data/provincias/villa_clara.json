@@ -1,5 +1,29 @@
 [
   {
+    "id": 32130,
+    "fecha": "21 de Oct del 2025 a las 04:53 PM",
+    "hora_utc": "2025-10-21 20:53",
+    "mensaje": "⚡Afectado por avería el circuito 3 Centro, del municipio Santa Clara.",
+    "timestamp": 1761079994,
+    "timestamp_local": 1761079994
+  },
+  {
+    "id": 32129,
+    "fecha": "21 de Oct del 2025 a las 04:51 PM",
+    "hora_utc": "2025-10-21 20:51",
+    "mensaje": "⚠️En déficit de capacidad de generación el circuito 30 Capiro, del municipio Santa Clara.",
+    "timestamp": 1761079888,
+    "timestamp_local": 1761079888
+  },
+  {
+    "id": 32128,
+    "fecha": "21 de Oct del 2025 a las 04:50 PM",
+    "hora_utc": "2025-10-21 20:50",
+    "mensaje": "⚠️En déficit de capacidad de generación los siguientes circuitos:\n👉Municipio Santa Clara:\nCto 16 Cubanacán\nCtos 23 y 130 La Ceniza\nCto 42 Manajanabo\n👉Municipio Placetas\nCto 139 Miller\nCto 190 Oliver\nCto 106 Falcón",
+    "timestamp": 1761079843,
+    "timestamp_local": 1761079843
+  },
+  {
     "id": 32127,
     "fecha": "21 de Oct del 2025 a las 04:41 PM",
     "hora_utc": "2025-10-21 20:41",
@@ -126,29 +150,5 @@
     "mensaje": "🛠️Afectados por vía libre los siguientes circuitos:\n👉Cto 132 SC Industrial\n👉Cto 162 SC Industrial",
     "timestamp": 1761055635,
     "timestamp_local": 1761055635
-  },
-  {
-    "id": 32110,
-    "fecha": "21 de Oct del 2025 a las 10:00 AM",
-    "hora_utc": "2025-10-21 14:00",
-    "mensaje": "Actualización del servicio eléctrico en la provincia\n✍️Se mantienen afectados en la provincia 114 circuitos.\n✍️En el momento de hacer esta nota la provincia tiene 80 MW de afectación por déficit de capacidad de generación, demanda máxima posible a apagar.\n✍️Cuenta con 96 afectaciones por averías secundarias y de servicio.",
-    "timestamp": 1761055216,
-    "timestamp_local": 1761055216
-  },
-  {
-    "id": 32109,
-    "fecha": "21 de Oct del 2025 a las 08:47 AM",
-    "hora_utc": "2025-10-21 12:47",
-    "mensaje": "⚠️En déficit de capacidad de generación los siguientes circuitos:\nMunicipio Caibarién:\nCtos 61, 62 \n\nMunicipio Caibarién\nCtos 63 y 64\nCtos 182 y 183 Van Troi",
-    "timestamp": 1761050843,
-    "timestamp_local": 1761050843
-  },
-  {
-    "id": 32108,
-    "fecha": "21 de Oct del 2025 a las 08:45 AM",
-    "hora_utc": "2025-10-21 12:45",
-    "mensaje": "💡Con servicio eléctrico los circuitos siguientes:\n👉Municipio Santo Domingo:\nCto 195 Batey George Washington\nCtos 83 y 165 Manacas\nCtos 85 y 86 Pajarito\nCtos 160 y 161 Cascajal",
-    "timestamp": 1761050753,
-    "timestamp_local": 1761050753
   }
 ]
