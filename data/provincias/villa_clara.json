@@ -1,9 +1,25 @@
 [
   {
+    "id": 32093,
+    "fecha": "21 de Oct del 2025 a las 01:40 AM",
+    "hora_utc": "2025-10-21 05:40",
+    "mensaje": "Afectados 90 MW en la provincia, demanda máxima a apagar en estos momentos.",
+    "timestamp": 1761025218,
+    "timestamp_local": 1761025218
+  },
+  {
+    "id": 32091,
+    "fecha": "21 de Oct del 2025 a las 01:06 AM",
+    "hora_utc": "2025-10-21 05:06",
+    "mensaje": "Afectados 132 MW en la provincia, demanda máxima a apagar en estos momentos.",
+    "timestamp": 1761023219,
+    "timestamp_local": 1761023219
+  },
+  {
     "id": 32090,
     "fecha": "21 de Oct del 2025 a las 12:44 AM",
     "hora_utc": "2025-10-21 04:44",
-    "mensaje": "🕕Actualización del servicio eléctrico en las últimas 6 horas.\n✍️El déficit de capacidad de generación osciló entre los 90 MW y los 127 MW.\n✍️En el momento de esta nota, se mantienen afectados 132 circuitos.\n✍️Cuenta con 81 afectaciones por averías secundarias y de servicio\n🔸Caibarien (7)\n🔸Encrucijada (2)\n🔸Manicaragua (3)\n🔸Remedios (10)\n🔸Sagua (1)\n🔸Santa Clara (50)\n🔸Santo Domingo (8)\n🛠️Se encuentra 6 avería en vías de solución.\n🛠️Pendientes a solucionar por el área técnica 21.\n✅La provincia no presenta averías primarias.",
+    "mensaje": "🕕Actualización del servicio eléctrico en las últimas 6 horas.\n✍️El déficit de capacidad de generación osciló entre los 90 MW y los 143 MW.\n✍️En el momento de esta nota, se mantienen afectados 132 circuitos.\n✍️Cuenta con 81 afectaciones por averías secundarias y de servicio\n🔸Caibarien (7)\n🔸Encrucijada (2)\n🔸Manicaragua (3)\n🔸Remedios (10)\n🔸Sagua (1)\n🔸Santa Clara (50)\n🔸Santo Domingo (8)\n🛠️Se encuentra 6 avería en vías de solución.\n🛠️Pendientes a solucionar por el área técnica 21.\n✅La provincia no presenta averías primarias.",
     "timestamp": 1761021862,
     "timestamp_local": 1761021862
   },
@@ -126,29 +142,5 @@
     "mensaje": "⚠️En déficit de capacidad de generación los siguientes circuitos:\n🔹Municipio Remedios:\n👉Ctos 67 y 152, 68 y 118 \n👉Ctos 69 y 70 Zuluetas\n👉Cto 143 Batey Heriberto Duquesne\n👉Cto 71 Buena Vista",
     "timestamp": 1760992124,
     "timestamp_local": 1760992124
-  },
-  {
-    "id": 32073,
-    "fecha": "20 de Oct del 2025 a las 03:55 PM",
-    "hora_utc": "2025-10-20 19:55",
-    "mensaje": "⚠️En déficit de capacidad de generación los siguientes circuitos:\n🔹Municipio Ranchuelo: \n👉Ctos 89, 97, 188 y 189\n👉Ctos 148 y 149 San Juan\n👉Cto 91 Batey Osvaldo Herrera\n👉Cto 181 Batey Ifraín Alfonso",
-    "timestamp": 1760990146,
-    "timestamp_local": 1760990146
-  },
-  {
-    "id": 32072,
-    "fecha": "20 de Oct del 2025 a las 03:54 PM",
-    "hora_utc": "2025-10-20 19:54",
-    "mensaje": "Actualización del servicio eléctrico en la provincia\n✍️Se mantienen afectados en la provincia 123 circuitos.\n✍️En el momento de hacer esta nota la provincia tiene 90 MW de afectación por déficit de capacidad de generación, demanda máxima posible a apagar.\n✍️Cuenta con 111 afectaciones por averías secundarias y de servicio.",
-    "timestamp": 1760990081,
-    "timestamp_local": 1760990081
-  },
-  {
-    "id": 32071,
-    "fecha": "20 de Oct del 2025 a las 03:54 PM",
-    "hora_utc": "2025-10-20 19:54",
-    "mensaje": "Afectados 90 MW en la provincia, demanda máxima a apagar en estos momentos.",
-    "timestamp": 1760990080,
-    "timestamp_local": 1760990080
   }
 ]
