@@ -1,5 +1,53 @@
 [
   {
+    "id": 94075,
+    "fecha": "21 de Oct del 2025 a las 03:43 PM",
+    "hora_utc": "2025-10-21 19:43",
+    "mensaje": "🚨 Afectado nuevamente el servicio por déficit de capacidad de generación en el circuito 3655 🚨",
+    "timestamp": 1761075819,
+    "timestamp_local": 1761075819
+  },
+  {
+    "id": 94074,
+    "fecha": "21 de Oct del 2025 a las 03:42 PM",
+    "hora_utc": "2025-10-21 19:42",
+    "mensaje": "🔷 Restablecido el servicio en el circuito 3655 por manipulación 🔷",
+    "timestamp": 1761075726,
+    "timestamp_local": 1761075726
+  },
+  {
+    "id": 94073,
+    "fecha": "21 de Oct del 2025 a las 03:41 PM",
+    "hora_utc": "2025-10-21 19:41",
+    "mensaje": "🔷 Restablecido el servicio en el circuito 3140  que se encontraba afectado por disparo por DAF 🔷",
+    "timestamp": 1761075699,
+    "timestamp_local": 1761075699
+  },
+  {
+    "id": 94072,
+    "fecha": "21 de Oct del 2025 a las 03:38 PM",
+    "hora_utc": "2025-10-21 19:38",
+    "mensaje": "♦️ Afectado el servicio en el circuito 3140 por disparo por DAF ♦️",
+    "timestamp": 1761075520,
+    "timestamp_local": 1761075520
+  },
+  {
+    "id": 94071,
+    "fecha": "21 de Oct del 2025 a las 03:29 PM",
+    "hora_utc": "2025-10-21 19:29",
+    "mensaje": "🔷 Restablecido el servicio en las siguientes zonas correspondientes al circuito Vedado de Güines que se encontraban afectados por vía libre\n* Gamarra \n* Loma de Candela\n* Loma de Cachimbo\n* Tierra Colorada 🔷",
+    "timestamp": 1761074976,
+    "timestamp_local": 1761074976
+  },
+  {
+    "id": 94070,
+    "fecha": "21 de Oct del 2025 a las 03:26 PM",
+    "hora_utc": "2025-10-21 19:26",
+    "mensaje": "🔷 Restablecido el servicio en el circuito Surgidero de Batabano por manipulación 🔷",
+    "timestamp": 1761074810,
+    "timestamp_local": 1761074810
+  },
+  {
     "id": 94068,
     "fecha": "21 de Oct del 2025 a las 02:22 PM",
     "hora_utc": "2025-10-21 18:22",
@@ -102,61 +150,5 @@
     "mensaje": "🚨Por déficit de capacidad de generación se afecta el servicio en los siguientes circuitos: \n* Quivicán \n* Palomo \n* San Felipe  🚨",
     "timestamp": 1761068120,
     "timestamp_local": 1761068120
-  },
-  {
-    "id": 94055,
-    "fecha": "21 de Oct del 2025 a las 01:32 PM",
-    "hora_utc": "2025-10-21 17:32",
-    "mensaje": "🚨Por déficit de capacidad de generación se afecta el servicio en los siguientes circuitos: \n* 3655\n *  3660 🚨",
-    "timestamp": 1761067971,
-    "timestamp_local": 1761067971
-  },
-  {
-    "id": 94054,
-    "fecha": "21 de Oct del 2025 a las 01:32 PM",
-    "hora_utc": "2025-10-21 17:32",
-    "mensaje": "🔷♦️Se restablece el servicio en los siguientes circuitos que se encontraban afectados por déficit de capacidad de generación:\n*Sopapo 1 y 2  🔷♦️",
-    "timestamp": 1761067925,
-    "timestamp_local": 1761067925
-  },
-  {
-    "id": 94053,
-    "fecha": "21 de Oct del 2025 a las 01:31 PM",
-    "hora_utc": "2025-10-21 17:31",
-    "mensaje": "🚨Por déficit de capacidad de generación se afecta el servicio en los siguientes circuitos: \n* Camacho 1 y 2 🚨",
-    "timestamp": 1761067883,
-    "timestamp_local": 1761067883
-  },
-  {
-    "id": 94052,
-    "fecha": "21 de Oct del 2025 a las 01:28 PM",
-    "hora_utc": "2025-10-21 17:28",
-    "mensaje": "♦️ Afectado el servicio en el circuito 3140 por disparo por DAF ♦️",
-    "timestamp": 1761067736,
-    "timestamp_local": 1761067736
-  },
-  {
-    "id": 94051,
-    "fecha": "21 de Oct del 2025 a las 01:22 PM",
-    "hora_utc": "2025-10-21 17:22",
-    "mensaje": "🚨Por déficit de capacidad de generación se afecta el servicio en los siguientes circuitos: \n* Batabano  \n* Surgidero 🚨",
-    "timestamp": 1761067352,
-    "timestamp_local": 1761067352
-  },
-  {
-    "id": 94050,
-    "fecha": "21 de Oct del 2025 a las 01:17 PM",
-    "hora_utc": "2025-10-21 17:17",
-    "mensaje": "🔷 Restablecido el servicio en el circuito ML -35 que se encontraba afectado por manipulación 🔷\n\n♦️ Quedando afectado el servicio en las siguientes zonas por vía libre\n* Gamarra\n* Loma de Candela\n* Loma Cachimbo\n* Tierra Colorada ♦️",
-    "timestamp": 1761067033,
-    "timestamp_local": 1761067033
-  },
-  {
-    "id": 94049,
-    "fecha": "21 de Oct del 2025 a las 01:13 PM",
-    "hora_utc": "2025-10-21 17:13",
-    "mensaje": "♦️ Afectado el servicio en el circuito ML -35 por manipulación ♦️",
-    "timestamp": 1761066823,
-    "timestamp_local": 1761066823
   }
 ]
