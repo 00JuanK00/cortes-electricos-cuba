@@ -1,5 +1,21 @@
 [
   {
+    "id": 32869,
+    "fecha": "21 de Oct del 2025 a las 11:30 AM",
+    "hora_utc": "2025-10-21 15:30",
+    "mensaje": "✅ Información.\n👉 Se encuentra sin servicio el circuito Falla, se trabaja para restablecer el servicio en el menor tiempo posible.",
+    "timestamp": 1761060616,
+    "timestamp_local": 1761060616
+  },
+  {
+    "id": 32868,
+    "fecha": "21 de Oct del 2025 a las 11:16 AM",
+    "hora_utc": "2025-10-21 15:16",
+    "mensaje": "‼️ Déficit de Generación ‼️   \n👉  Bajamos a  37 MW en la provincia por déficit de generación.\n💥Se encuentran  afectados los siguientes circuitos:\n👉 A104, A108,  A110, A206, Baraguá, Vicente, Colorado, Gaspar, Corojo, Cítrico II, Isaca, Jicotea, Majagua, Orlando González,  Combinado Minaz, Delfín Moreno, Santana, Ranchuelo, Nereida, Peonia, Politécnico de Informática.\n ⏰ Reiteramos que los circuitos se afectarán o se restablecerán en dependencia del déficit solicitado en cada momento de la jornada que es muy variable.",
+    "timestamp": 1761059772,
+    "timestamp_local": 1761059772
+  },
+  {
     "id": 32867,
     "fecha": "21 de Oct del 2025 a las 10:27 AM",
     "hora_utc": "2025-10-21 14:27",
@@ -118,21 +134,5 @@
     "mensaje": "‼️ Información ‼️   \n👉En estos momentos tenemos 82 MW en la provincia afectados por déficit de generación. Con este déficit no podemos cumplir con una programación estable, por lo que los circuitos se afectarán o se restablecerán en dependencia del déficit que haya en cada momento de la jornada",
     "timestamp": 1760987819,
     "timestamp_local": 1760987819
-  },
-  {
-    "id": 32848,
-    "fecha": "20 de Oct del 2025 a las 02:55 PM",
-    "hora_utc": "2025-10-20 18:55",
-    "mensaje": "‼️ Déficit de Generación ‼️   \n\n👉 Subimos a 52 MW en la provincia por déficit de generación.\n\n  ⏰ Reiteramos que los circuitos se afectarán o se restablecerán en dependencia del déficit solicitado en cada momento de la jornada que es muy variable.",
-    "timestamp": 1760986525,
-    "timestamp_local": 1760986525
-  },
-  {
-    "id": 32847,
-    "fecha": "20 de Oct del 2025 a las 02:09 PM",
-    "hora_utc": "2025-10-20 18:09",
-    "mensaje": "Información.\n👉Se encuentra en fallo el circuito Jicotea, Guayacanes, Orlando González, Majagua.\n\n👉Se recorren las líneas para encontrar la causa. \n👉Si usted observa corto circuito en las redes o alguna irregularidad, por favor comuníquelo a través del ☎️18888.",
-    "timestamp": 1760983780,
-    "timestamp_local": 1760983780
   }
 ]
