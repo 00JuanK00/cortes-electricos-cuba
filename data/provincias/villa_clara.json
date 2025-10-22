@@ -1,5 +1,21 @@
 [
   {
+    "id": 32209,
+    "fecha": "22 de Oct del 2025 a las 06:50 PM",
+    "hora_utc": "2025-10-22 22:50",
+    "mensaje": "⚠️En déficit de capacidad de generación el circuito 134 del municipio Santo Domingo.",
+    "timestamp": 1761173411,
+    "timestamp_local": 1761173411
+  },
+  {
+    "id": 32208,
+    "fecha": "22 de Oct del 2025 a las 06:49 PM",
+    "hora_utc": "2025-10-22 22:49",
+    "mensaje": "⚠️En déficit de capacidad de generación el circuito 22 (Construcciones Textil), del municipio Santa Clara.",
+    "timestamp": 1761173377,
+    "timestamp_local": 1761173377
+  },
+  {
     "id": 32207,
     "fecha": "22 de Oct del 2025 a las 06:13 PM",
     "hora_utc": "2025-10-22 22:13",
@@ -142,21 +158,5 @@
     "mensaje": "Restablecido parcialmente el circuito 110 (La Piedra), del municipio Manicaragua. (Queda afectado el Ramal Pico Blanco)",
     "timestamp": 1761161843,
     "timestamp_local": 1761161843
-  },
-  {
-    "id": 32189,
-    "fecha": "22 de Oct del 2025 a las 03:06 PM",
-    "hora_utc": "2025-10-22 19:06",
-    "mensaje": "⚠️En déficit de capacidad de generación los circuitos siguientes:\n🔹Municipio Caibarién:\n👉Ctos 61, 62, 63 y 64",
-    "timestamp": 1761159983,
-    "timestamp_local": 1761159983
-  },
-  {
-    "id": 32188,
-    "fecha": "22 de Oct del 2025 a las 03:05 PM",
-    "hora_utc": "2025-10-22 19:05",
-    "mensaje": "Restablecida la línea 1910:\n🔹Municipio Placetas:\n👉Ctos 98 y 99 Placetas\n👉Ctos 100 y 151 Placetas\n👉Cto 104 Hermanos Amejeiras\n👉Cto 103 Batey Carbó Servia",
-    "timestamp": 1761159930,
-    "timestamp_local": 1761159930
   }
 ]
