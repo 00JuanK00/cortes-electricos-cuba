@@ -1,5 +1,21 @@
 [
   {
+    "id": 32151,
+    "fecha": "22 de Oct del 2025 a las 06:08 AM",
+    "hora_utc": "2025-10-22 10:08",
+    "mensaje": "⚠️En déficit de capacidad de generación los circuitos siguientes:\n👉Cto 6 Vigía\n👉Cto 5 Dobarganes\n👉Cto 17 SubPlanta",
+    "timestamp": 1761127739,
+    "timestamp_local": 1761127739
+  },
+  {
+    "id": 32150,
+    "fecha": "22 de Oct del 2025 a las 06:05 AM",
+    "hora_utc": "2025-10-22 10:05",
+    "mensaje": "🕕Actualización del servicio eléctrico en las últimas 6 horas.\n\n👉El déficit de capacidad de generación osciló entre los 92 MW y los 89 MW.\n👉En el momento de esta nota, se mantienen afectados 140 circuitos.\n👉Cuenta con 86 afectaciones por averías secundarias y de servicio:\n Placetas (4)\n Remedios (11) \n Santa Clara (45)\n Santo Domingo (6)\n🛠️Se encuentran 1 averías en vías de solución.\n🛠️Pendientes a solucionar por el área técnica 20.\n⚡La provincia no presenta averías primarias.",
+    "timestamp": 1761127547,
+    "timestamp_local": 1761127547
+  },
+  {
     "id": 32149,
     "fecha": "22 de Oct del 2025 a las 05:59 AM",
     "hora_utc": "2025-10-22 09:59",
@@ -118,21 +134,5 @@
     "mensaje": "🕕Actualización del servicio eléctrico en las últimas 6 horas.\n\n👉El déficit de capacidad de generación osciló entre los 72 MW y los 123 MW.\n👉En el momento de esta nota, se mantienen afectados 134 circuitos.\n👉Cuenta con 139 afectaciones por averías secundarias y de servicio:\n Caibarién (8)\n Camajuaní (3)\n Cifuentes (2)\n Corralillo (2)\n Encrucijada (4)\n Manicaragua (2)\n Placetas (2)\n Ranchuelo (5)\n Remedios (15) \n Sagua (10) \n Santa Clara (61)\n Santo Domingo (5)\n🛠️Se encuentran 4 averías en vías de solución.\n🛠️Pendientes a solucionar por el área técnica 16.\n⚡La provincia no presenta averías primarias.",
     "timestamp": 1761084121,
     "timestamp_local": 1761084121
-  },
-  {
-    "id": 32131,
-    "fecha": "21 de Oct del 2025 a las 05:19 PM",
-    "hora_utc": "2025-10-21 21:19",
-    "mensaje": "⚠️En déficit de generación los siguientes circuitos:\n👉Municipio Remedios:\nCtos 67 y 152, 68 y 118 \nCtos 69 y 70 Zuluetas\nCto 143 Batey Heriberto Duquesne\nCto 71 Buena Vista",
-    "timestamp": 1761081570,
-    "timestamp_local": 1761081570
-  },
-  {
-    "id": 32130,
-    "fecha": "21 de Oct del 2025 a las 04:53 PM",
-    "hora_utc": "2025-10-21 20:53",
-    "mensaje": "⚡Afectado por avería el circuito 3 Centro, del municipio Santa Clara.",
-    "timestamp": 1761079994,
-    "timestamp_local": 1761079994
   }
 ]
