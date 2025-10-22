@@ -1,5 +1,53 @@
 [
   {
+    "id": 32174,
+    "fecha": "22 de Oct del 2025 a las 12:44 PM",
+    "hora_utc": "2025-10-22 16:44",
+    "mensaje": "⚠️En déficit de capacidad de generación el circuito 30 (Santa Clara Industrial)",
+    "timestamp": 1761151485,
+    "timestamp_local": 1761151485
+  },
+  {
+    "id": 32173,
+    "fecha": "22 de Oct del 2025 a las 12:38 PM",
+    "hora_utc": "2025-10-22 16:38",
+    "mensaje": "⚠️En déficit de capacidad de generación los circuitos siguientes:\n🔹Municipio Encrucijada:\n👉Cto 122 Encrucijada (En Avería) \n👉Cto 123 Vizcaya \n👉Cto 142 Comunidad La Sierra \n👉Cto 126 Batey Emilio Córdova\n👉Cto 125 Cavarrocas\n👉Cto 124 El Santo\n🔹Municipio Camajuaní:\n👉Cto 78 Jutiero",
+    "timestamp": 1761151087,
+    "timestamp_local": 1761151087
+  },
+  {
+    "id": 32172,
+    "fecha": "22 de Oct del 2025 a las 12:19 PM",
+    "hora_utc": "2025-10-22 16:19",
+    "mensaje": "🛠️Concluido el trabajo de Vía Libre en los circuitos 58 y 159 del municipio Corralillo.",
+    "timestamp": 1761149985,
+    "timestamp_local": 1761149985
+  },
+  {
+    "id": 32171,
+    "fecha": "22 de Oct del 2025 a las 12:08 PM",
+    "hora_utc": "2025-10-22 16:08",
+    "mensaje": "🛠️Restablecida la línea 6375:\n🔸Municipio Santa Clara\n👉Cto 7 (Universidad)  \n👉Cto 146 (Elevado Aeropuerto) \n👉Cto 22 (Construcciones Textil)\n👉Cto 131 (Las Antillas)\n👉Cto 153 (EIDE)\n👉Cto 24 Planta Asfalto\n👉Cto 25 Los Güiros\n👉Cto 35 Biotecnología",
+    "timestamp": 1761149338,
+    "timestamp_local": 1761149338
+  },
+  {
+    "id": 32170,
+    "fecha": "22 de Oct del 2025 a las 12:05 PM",
+    "hora_utc": "2025-10-22 16:05",
+    "mensaje": "🛠️Manipulación de la línea 6375 para reponer drop out :\nAfecta los siguientes circuitos:\nMunicipio Santa Clara\n👉Cto 7 (Universidad)  \n👉Cto 146 (Elevado Aeropuerto) \n👉Cto 22 (Construcciones Textil)\n👉Cto 131 (Las Antillas)\n👉Cto 153 (EIDE)\n👉Cto 24 Planta Asfalto\n👉Cto 25 Los Güiros\n👉Cto 35 Biotecnología",
+    "timestamp": 1761149116,
+    "timestamp_local": 1761149116
+  },
+  {
+    "id": 32169,
+    "fecha": "22 de Oct del 2025 a las 12:01 PM",
+    "hora_utc": "2025-10-22 16:01",
+    "mensaje": "🕛Actualización del servicio eléctrico en las últimas 6 horas.\n👉El déficit de capacidad de generación osciló entre los 98 MW y los 88 MW.\n👉En el momento de esta nota, se mantienen afectados 106 circuitos.\n👉Cuenta con 129 afectaciones por averías secundarias y de servicio:\n🔸Caibarién (3)\n🔸Camajuaní (2)\n🔸Corralillo (2)\n🔸Encrucijada (9)\n🔸Manicaragua (2)\n🔸Placetas (4)\n🔸Remedios (11)\n🔸Sagua (2)\n🔸Santa Clara (64)\n🔸Santo Domingo (4)\n🛠️Se encuentran 10 averías en vías de solución.\n🛠️Pendientes a solucionar por el área técnica 18.\n⚡La provincia no presenta averías primarias.",
+    "timestamp": 1761148889,
+    "timestamp_local": 1761148889
+  },
+  {
     "id": 32168,
     "fecha": "22 de Oct del 2025 a las 11:47 AM",
     "hora_utc": "2025-10-22 15:47",
@@ -102,53 +150,5 @@
     "mensaje": "💡Con servicio eléctrico los circuitos siguientes:\n🔹Municipio Encrucijada\n👉Cto 120 Calabazar\n👉Ctos 121 y 127 Perucho\n🔹Municipio Encrucijada:\n👉Cto 122 Encrucijada \n👉Cto 123 Vizcaya \n👉Cto 142 Comunidad La Sierra \n👉Cto 126 Batey Emilio Córdova\n👉Cto 125 Cavarrocas\n👉Cto 124 El Santo\n🔹Municipio Camajuaní:\n👉Cto 78 Jutiero",
     "timestamp": 1761137514,
     "timestamp_local": 1761137514
-  },
-  {
-    "id": 32154,
-    "fecha": "22 de Oct del 2025 a las 08:38 AM",
-    "hora_utc": "2025-10-22 12:38",
-    "mensaje": "💡Con servicio eléctrico los circuitos siguientes:\n🔹Municipio Sagua:\n👉Cto 50\n👉Cto 147 Villa Alegre \n🔹Municipio Manicaragua\n👉Cto 109\n👉Cto 111 Mataguá",
-    "timestamp": 1761136701,
-    "timestamp_local": 1761136701
-  },
-  {
-    "id": 32153,
-    "fecha": "22 de Oct del 2025 a las 08:00 AM",
-    "hora_utc": "2025-10-22 12:00",
-    "mensaje": "Actualización del servicio eléctrico en la provincia\n✍️Se mantienen afectados en la provincia 140 circuitos.\n✍️En el momento de hacer esta nota la provincia tiene 98 MW de afectación por déficit de capacidad de generación, demanda máxima posible a apagar.\n✍️Cuenta con 75 afectaciones por averías secundarias y de servicio.",
-    "timestamp": 1761134449,
-    "timestamp_local": 1761134449
-  },
-  {
-    "id": 32152,
-    "fecha": "22 de Oct del 2025 a las 07:13 AM",
-    "hora_utc": "2025-10-22 11:13",
-    "mensaje": "🚨Nota informativa. 🚨\n\n👉Situación del SEN para el 22 de octubre de 2025.\n\n☀️En el día de ayer se afectó el servicio las 24 horas y se mantuvo afectado durante toda la madrugada de hoy. La máxima afectación por déficit de capacidad de generación en el día de ayer fue de 1703 MW a las 19:40 horas. \n\n🪟La producción de energía de los 32 nuevos parques solares fotovoltaicos fue de 2745MWh, con 612 MW como máxima potencia entregada en el horario de la media con esta fuente de generación. \n\n👉La disponibilidad del SEN a las 06:00 horas es de 1554 MW  y la demanda 2609 MW con 1068 MW afectados por déficit de capacidad. En el horario de la media se estima una afectación de 950 MW. \n\n🛠️Se encuentran en avería la unidad 8 de la CTE Mariel, las unidad 3 de la CTE Santa Cruz, la unidad 2 de la CTE Felton, las unidades 3  y 6 de la CTE Renté. Se encuentran en mantenimiento la unidad 2 de la CTE Santa Cruz, la unidad 4 de la CTE Cienfuegos y la Unidad 6 de la CTE Diez de Octubre en Nuevitas.\n  \n👉Las limitaciones en la generación térmica son de 322 MW. \n\n⛽Se encuentran fuera de servicio por combustible  67 centrales de generación distribuida con 641 MW y 163 MW indisponible por falta de lubricante, para un total de 804 MW.\n\n📈Para el horario pico se estima la entrada de la unidad 3 de la CTE Santa Cruz con 45 MW y la Unidad 3 de la CTE Antonio Maceo (Renté) con 55 MW.\n  \n📉Con este pronóstico en el horario pico se estima una disponibilidad de 1654 MW y una demanda máxima de 3300MW, para un déficit de 1646 MW, por lo que de mantenerse las condiciones previstas se pronostica una afectación de 1716 MW en este horario\n\nUNE-MINEM",
-    "timestamp": 1761131631,
-    "timestamp_local": 1761131631
-  },
-  {
-    "id": 32151,
-    "fecha": "22 de Oct del 2025 a las 06:08 AM",
-    "hora_utc": "2025-10-22 10:08",
-    "mensaje": "⚠️En déficit de capacidad de generación los circuitos siguientes:\n👉Cto 6 Vigía\n👉Cto 5 Dobarganes\n👉Cto 17 SubPlanta",
-    "timestamp": 1761127739,
-    "timestamp_local": 1761127739
-  },
-  {
-    "id": 32150,
-    "fecha": "22 de Oct del 2025 a las 06:05 AM",
-    "hora_utc": "2025-10-22 10:05",
-    "mensaje": "🕕Actualización del servicio eléctrico en las últimas 6 horas.\n\n👉El déficit de capacidad de generación osciló entre los 92 MW y los 89 MW.\n👉En el momento de esta nota, se mantienen afectados 140 circuitos.\n👉Cuenta con 86 afectaciones por averías secundarias y de servicio:\n Placetas (4)\n Remedios (11) \n Santa Clara (45)\n Santo Domingo (6)\n🛠️Se encuentran 1 averías en vías de solución.\n🛠️Pendientes a solucionar por el área técnica 20.\n⚡La provincia no presenta averías primarias.",
-    "timestamp": 1761127547,
-    "timestamp_local": 1761127547
-  },
-  {
-    "id": 32149,
-    "fecha": "22 de Oct del 2025 a las 05:59 AM",
-    "hora_utc": "2025-10-22 09:59",
-    "mensaje": "⚠️En déficit de capacidad de generación los circuitos siguientes:\n👉Municipio Santa Clara:\nCto 16 Cubanacán\nCtos 23 y 130 La Ceniza\nCto 42 Manajanabo\n👉Municipio Placetas\nCto 139 Miller\nCto 190 Oliver\nCto 106 Falcón",
-    "timestamp": 1761127144,
-    "timestamp_local": 1761127144
   }
 ]
