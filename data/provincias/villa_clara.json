@@ -1,5 +1,21 @@
 [
   {
+    "id": 32226,
+    "fecha": "23 de Oct del 2025 a las 05:45 AM",
+    "hora_utc": "2025-10-23 09:45",
+    "mensaje": "⚠️En déficit de capacidad de generación el circuito 169 (Gran Panel), del municipio Santa Clara.",
+    "timestamp": 1761212748,
+    "timestamp_local": 1761212748
+  },
+  {
+    "id": 32225,
+    "fecha": "23 de Oct del 2025 a las 05:27 AM",
+    "hora_utc": "2025-10-23 09:27",
+    "mensaje": "⚠️En déficit de capacidad de generación los circuitos siguientes:\n🔹Municipio Santa Clara:\n👉Cto 5 (Dobarganes)\n👉Cto 17 (Subplanta)\n👉Ctos 37 y 38 (Yabú)   \n👉Cto 9 (Moldes y Troqueles)\n👉Cto 133 (Cafetera)",
+    "timestamp": 1761211642,
+    "timestamp_local": 1761211642
+  },
+  {
     "id": 32223,
     "fecha": "23 de Oct del 2025 a las 01:55 AM",
     "hora_utc": "2025-10-23 05:55",
@@ -134,21 +150,5 @@
     "mensaje": "⚠️En déficit de capacidad de generación los circuitos siguientes:\n🔹Municipio Santo Domingo:\n👉Cto 195 Batey George Washington\n👉Ctos 83 y 165 Manacas\n👉Ctos 85 y 86 Pajarito\n👉Ctos 160 y 161 Cascajal",
     "timestamp": 1761171208,
     "timestamp_local": 1761171208
-  },
-  {
-    "id": 32206,
-    "fecha": "22 de Oct del 2025 a las 06:04 PM",
-    "hora_utc": "2025-10-22 22:04",
-    "mensaje": "🕕Actualización del servicio eléctrico en las últimas 6 horas.\n👉El déficit de capacidad de generación osciló entre los 98 MW y los 144 MW.\n👉En el momento de esta nota, se mantienen afectados 161 circuitos.\n👉Cuenta con 90 afectaciones por averías secundarias y de servicio:\n🔸Caibarién (5)\n🔸Camajuaní (5)\n🔸Encrucijada (5)\n🔸Manicaragua (4)\n🔸Placetas (6)\n🔸Ranchuelo (4)\n🔸Remedios (4)\n🔸Sagua (3)\n🔸Santa Clara (52)\n🔸Santo Domingo (2)\n🛠️Se encuentran 11 averías en vías de solución.\n🛠️Pendientes a solucionar por el área técnica 19.\n⚡La provincia presenta 4 averías primarias:\n🔸 Ctos 68 y 118 del municipio Remedios. Se estudian las causas. (Se encuentran afectados en estos momentos por déficit de capacidad de generación).\n🔸Cto 110 (La Piedra), del municipio Manicaragua, queda afectado el Ramal Pico Blanco. (Se encuentra afectado en estos momentos por déficit de capacidad de generación).\n🔸Cto 122 del municipio Encrucijada afectado por puentes abiertos. (Se encuentra afectado en estos momentos por déficit de capacidad de generación)\n🔸Cto 70 (Zuluetas), del municipio Remedios. Se estudian las causas.",
-    "timestamp": 1761170650,
-    "timestamp_local": 1761170650
-  },
-  {
-    "id": 32205,
-    "fecha": "22 de Oct del 2025 a las 05:48 PM",
-    "hora_utc": "2025-10-22 21:48",
-    "mensaje": "⚠️En déficit de capacidad de generación los circuitos siguientes:\n🔹Municipio Placetas \n👉Cto 99 Placetas (Parcial)\n👉Ctos 100 y 151 Placetas\n👉Cto 104 Hermanos Amejeiras\n👉Cto 103 Batey Carbó Servia",
-    "timestamp": 1761169695,
-    "timestamp_local": 1761169695
   }
 ]
