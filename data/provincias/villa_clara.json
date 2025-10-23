@@ -1,5 +1,29 @@
 [
   {
+    "id": 32218,
+    "fecha": "22 de Oct del 2025 a las 10:06 PM",
+    "hora_utc": "2025-10-23 02:06",
+    "mensaje": "Actualización del servicio eléctrico en la provincia\n✍️Se mantienen afectados en la provincia 161 circuitos.\n✍️En el momento de hacer esta nota la provincia tiene 124 MW de afectación por déficit de capacidad de generación, demanda máxima posible a apagar.\n✍️Cuenta con 93 afectaciones por averías secundarias y de servicio.",
+    "timestamp": 1761185176,
+    "timestamp_local": 1761185176
+  },
+  {
+    "id": 32217,
+    "fecha": "22 de Oct del 2025 a las 10:02 PM",
+    "hora_utc": "2025-10-23 02:02",
+    "mensaje": "⚠️En déficit de capacidad de generación los circuitos siguientes:\n🔹Municipio Santo Domingo:\n👉Ctos 87 y 96 Bermejal\n👉Cto 187 Batey Carlos Baliño\n👉Cto 82 Ulacia\n👉Cto 84 Rodrigo",
+    "timestamp": 1761184950,
+    "timestamp_local": 1761184950
+  },
+  {
+    "id": 32216,
+    "fecha": "22 de Oct del 2025 a las 08:46 PM",
+    "hora_utc": "2025-10-23 00:46",
+    "mensaje": "💡Restablecido parcialmente el circuito 70 (Zuluetas), del municipio Remedios, quedando afectado el Ramal Remate Ariosa.",
+    "timestamp": 1761180394,
+    "timestamp_local": 1761180394
+  },
+  {
     "id": 32215,
     "fecha": "22 de Oct del 2025 a las 08:12 PM",
     "hora_utc": "2025-10-23 00:12",
@@ -134,29 +158,5 @@
     "mensaje": "⚠️En déficit de capacidad de generación los circuitos siguientes:\n🔹Municipio Manicaragua:\n👉Ctos 109 y 150\n👉Cto 108 La Piedra\n👉Cto 110 La Piedra (Avería Parcial)\n👉Cto 111 Mataguá",
     "timestamp": 1761166019,
     "timestamp_local": 1761166019
-  },
-  {
-    "id": 32198,
-    "fecha": "22 de Oct del 2025 a las 04:38 PM",
-    "hora_utc": "2025-10-22 20:38",
-    "mensaje": "⚡Afectado el circuito 70 (Zuluetas), del municipio de Remedios. Se estudian las causas.",
-    "timestamp": 1761165536,
-    "timestamp_local": 1761165536
-  },
-  {
-    "id": 32197,
-    "fecha": "22 de Oct del 2025 a las 04:36 PM",
-    "hora_utc": "2025-10-22 20:36",
-    "mensaje": "⚠️En déficit de capacidad de generación los circuitos siguientes:\n🔹Municipio Quemado:\n👉Cto 53 Quemado.\n👉Cto 196 Batey Panchito Gómez Toro",
-    "timestamp": 1761165384,
-    "timestamp_local": 1761165384
-  },
-  {
-    "id": 32196,
-    "fecha": "22 de Oct del 2025 a las 04:14 PM",
-    "hora_utc": "2025-10-22 20:14",
-    "mensaje": "⚠️En déficit de capacidad de generación los circuitos siguientes:\n🔹Municipio Remedios:\n👉Ctos 67 y 152 \n👉Ctos 68 y 118 (Avería Parcial)",
-    "timestamp": 1761164076,
-    "timestamp_local": 1761164076
   }
 ]
