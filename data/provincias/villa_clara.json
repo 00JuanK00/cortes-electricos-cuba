@@ -1,5 +1,29 @@
 [
   {
+    "id": 32232,
+    "fecha": "23 de Oct del 2025 a las 07:42 AM",
+    "hora_utc": "2025-10-23 11:42",
+    "mensaje": "🚨Nota informativa🚨\n\n📆Situación del SEN para el 23 de octubre de 2025.\n\n📌En el día de ayer se afectó el servicio las 24 horas y se mantuvo afectado durante toda la madrugada de hoy. La máxima afectación por déficit de capacidad de generación en el día de ayer fue de 1818 MW a las 19:10 horas, superior a lo planificado por la no entrada de las unidades 3 de Santa Cruz y 3 de Renté. \n\n☀️La producción de energía de los 32 nuevos parques solares fotovoltaicos fue de 2901 MWh, con 539 MW como máxima potencia entregada en el horario de la media con esta fuente de generación. \n\n👉La disponibilidad del SEN a las 06:00 horas es de 1550 MW  y la demanda 2526 MW con 1043 MW afectados por déficit de capacidad. En el horario de la media se estima una afectación de 980 MW. \n\n🛠️Se encuentran en avería la unidad 8 de la CTE Mariel, la unidad 3 de la CTE Santa Cruz, la unidad 2 de la CTE Felton y la unidad 6 de la CTE Renté. Se encuentran en mantenimiento la unidad 2 de la CTE Santa Cruz, la unidad 4 de la CTE Cienfuegos y la Unidad 6 de la CTE Diez de Octubre en Nuevitas.\n  \n👉Las limitaciones en la generación térmica son de 417 MW. \n\n⛽Se encuentran fuera de servicio por combustible                                72 centrales de generación distribuida con 658 MW y 158 MW indisponible por falta de lubricante, para un total de 816 MW.\n\n📝Para el horario pico se estima la entrada de la unidad 3 de la CTE Santa Cruz con 45 MW.\n  \n📈Con este pronóstico en el horario pico se estima una disponibilidad de 1595 MW y una demanda máxima de 3320MW, para un déficit de 1725 MW, por lo que de mantenerse las condiciones previstas se pronostica una afectación de 1795 MW en este horario\n\nUNE-MINEM---07:00 horas.",
+    "timestamp": 1761219752,
+    "timestamp_local": 1761219752
+  },
+  {
+    "id": 32231,
+    "fecha": "23 de Oct del 2025 a las 07:20 AM",
+    "hora_utc": "2025-10-23 11:20",
+    "mensaje": "⚠️En déficit de capacidad de generación los circuitos 132 y 162 (Santa Clara Industrial).",
+    "timestamp": 1761218414,
+    "timestamp_local": 1761218414
+  },
+  {
+    "id": 32230,
+    "fecha": "23 de Oct del 2025 a las 07:09 AM",
+    "hora_utc": "2025-10-23 11:09",
+    "mensaje": "⚠️En déficit de capacidad de generación los circuitos 1 y 4 (Consejo-Centro), del municipio Santa Clara.",
+    "timestamp": 1761217751,
+    "timestamp_local": 1761217751
+  },
+  {
     "id": 32229,
     "fecha": "23 de Oct del 2025 a las 06:39 AM",
     "hora_utc": "2025-10-23 10:39",
@@ -126,29 +150,5 @@
     "mensaje": "⚠️En déficit de capacidad de generación los circuitos siguientes:\n🔹Municipio Corralillo:\n👉Ctos 58 y 159\n👉Cto 57 Motembo\n👉Cto 56 Yabre\n👉Cto 60 La Sierra\n👉Cto 55 Rancho Veloz",
     "timestamp": 1761175588,
     "timestamp_local": 1761175588
-  },
-  {
-    "id": 32212,
-    "fecha": "22 de Oct del 2025 a las 07:19 PM",
-    "hora_utc": "2025-10-22 23:19",
-    "mensaje": "⚠️En déficit de capacidad de generación los circuitos siguientes:\n🔹Municipio Santa Clara:\n👉Cto 6 (Vigía)\n👉Cto 34(Sabana Rebacadero)\n👉Ctos 32 y 33 (RF-33Kv)\n👉Cto 39 (Sandino)",
-    "timestamp": 1761175164,
-    "timestamp_local": 1761175164
-  },
-  {
-    "id": 32211,
-    "fecha": "22 de Oct del 2025 a las 07:04 PM",
-    "hora_utc": "2025-10-22 23:04",
-    "mensaje": "⚠️En déficit de capacidad de generación el circuito 153 (EIDE), del municipio Santa Clara.",
-    "timestamp": 1761174268,
-    "timestamp_local": 1761174268
-  },
-  {
-    "id": 32210,
-    "fecha": "22 de Oct del 2025 a las 07:03 PM",
-    "hora_utc": "2025-10-22 23:03",
-    "mensaje": "⚠️En déficit de capacidad de generación los circuitos siguientes:\n🔹Municipio Remedios: \n👉Cto 69 \n👉 Cto 70 Zuluetas (Avería)\n👉Cto 143 Batey Heriberto Duquesne\n👉Cto 71 Buena Vista",
-    "timestamp": 1761174185,
-    "timestamp_local": 1761174185
   }
 ]
