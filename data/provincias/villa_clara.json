@@ -1,5 +1,37 @@
 [
   {
+    "id": 32323,
+    "fecha": "24 de Oct del 2025 a las 12:51 PM",
+    "hora_utc": "2025-10-24 16:51",
+    "mensaje": "Afectados 86 MW en la provincia, demanda máxima a apagar en estos momentos.",
+    "timestamp": 1761324669,
+    "timestamp_local": 1761324669
+  },
+  {
+    "id": 32322,
+    "fecha": "24 de Oct del 2025 a las 12:45 PM",
+    "hora_utc": "2025-10-24 16:45",
+    "mensaje": "⚡Afectada Linea 1780 por disparo⚡\n⚡Afectada Linea 1780 , se estudian las causas , afectados  los circuitos siguientes:\n🔹Municipio Santa Clara:\n👉Cto 16 Cubanacán\n👉Ctos 23 y 130 La Ceniza\n👉Cto 42 Manajanabo\n🔹Municipio Placetas\n👉Cto 139 Miller\n👉Cto 190 Oliver\n👉Cto 106 Falcón",
+    "timestamp": 1761324359,
+    "timestamp_local": 1761324359
+  },
+  {
+    "id": 32321,
+    "fecha": "24 de Oct del 2025 a las 12:42 PM",
+    "hora_utc": "2025-10-24 16:42",
+    "mensaje": "⚠️En déficit de capacidad de generación los circuitos siguientes:🔹Municipio Placetas \n👉Ctos 100 y 151 Placetas\n👉Cto 104 Hermanos Amejeiras\n👉Cto 103 Batey Carbó Servia",
+    "timestamp": 1761324147,
+    "timestamp_local": 1761324147
+  },
+  {
+    "id": 32320,
+    "fecha": "24 de Oct del 2025 a las 12:26 PM",
+    "hora_utc": "2025-10-24 16:26",
+    "mensaje": "🕛Actualización del servicio eléctrico en las últimas 6 horas.\n👉El déficit de capacidad de generación osciló entre los 40 MW y los 85 MW.\n👉En el momento de esta nota, se mantienen afectados 97 circuitos.\n👉Cuenta con 145 afectaciones por averías secundarias y de servicio:\n🔸Caibarien (2)\n🔸Cifuentes (2)\n🔸Manicaragua (11)\n🔸Placetas (2)\n🔸Ranchuelo (7)\n🔸Remedios (9)\n🔸Sagua (6)\n🔸Santa Clara (65)\n🔸Santo Domingo (13)\n🛠️Se encuentra 10 avería en vía de solución.\n🛠️Pendientes a solucionar por el área técnica 18.\n➡️ La provincia presenta 3averías primarias:\n⚡Afectado parcialmente el circuito 110 (La Piedra), del municipio Manicaragua, (Ramal Pico Blanco). Se encuentra afectado en estos momentos por déficit de capacidad de generación.\n⚡Afectado parcialmente el circuito 107(Baez)por cables  primarios partidos.\n⚡Afectado parcialmente el circuito (189)Santo Domingo , se estudian las causas.",
+    "timestamp": 1761323172,
+    "timestamp_local": 1761323172
+  },
+  {
     "id": 32319,
     "fecha": "24 de Oct del 2025 a las 11:56 AM",
     "hora_utc": "2025-10-24 15:56",
@@ -126,29 +158,5 @@
     "mensaje": "💡Con servicio eléctrico los circuitos siguientes:\n🔹Municipio Remedios:\n👉Ctos 67 y 152, 68 y 118 \n👉Ctos 69 y 70 Zuluetas\n👉Cto 143 Batey Heriberto Duquesne\n👉Cto 71 Buena Vista",
     "timestamp": 1761313526,
     "timestamp_local": 1761313526
-  },
-  {
-    "id": 32303,
-    "fecha": "24 de Oct del 2025 a las 09:25 AM",
-    "hora_utc": "2025-10-24 13:25",
-    "mensaje": "📣Ante cualquier duda con la terminología eléctrica, les volvemos explicar: \n     \n➡️Las averías pueden ser primarias (afecta un volumen grande de población pues son las líneas de distribución a 13.8kV y puede afectar varias manzanas, incluso repartos completos).\n\n➡️Secundarias (afecta a todos los clientes que se alimenten del mismo transformador, puede afectar una o varias cuadras). \n\n➡️ De servicio (afectan 1 solo cliente o instalación generalmente producto a daños en la acometida, metro contador, etc.).",
-    "timestamp": 1761312338,
-    "timestamp_local": 1761312338
-  },
-  {
-    "id": 32301,
-    "fecha": "24 de Oct del 2025 a las 09:02 AM",
-    "hora_utc": "2025-10-24 13:02",
-    "mensaje": "Afectados 61 MW en la provincia, demanda máxima a apagar en estos momentos.",
-    "timestamp": 1761310925,
-    "timestamp_local": 1761310925
-  },
-  {
-    "id": 32300,
-    "fecha": "24 de Oct del 2025 a las 08:53 AM",
-    "hora_utc": "2025-10-24 12:53",
-    "mensaje": "➡️ La Provincia cuenta con 8 afectaciones de servicio por transformador dañado:\n👉Municipio Caibarién: calle G ,camino a los pozos.  Las Torres\n👉Municipio Caibarién: Carretera a Remedios.  Batey Rojas\n👉Municipio Camajuani: Carret Batalla e/ Loma la Pedrera y detrás del Circulo. Vueltas.\n👉Municipio Cifuentes: Carretera a Unidad .Finca San Juan .CAI Unidad\n👉Municipio Santa Clara: Calle B , Callejón del salado y Prolongación de Martha Abreu\n👉Municipio Santa Clara: Carretera de Sagua , entrada de Yabu 1 . Yabu\n👉Municipio Santa Clara: Prolongación Marta Abreus e/ Silverio y Circunvalación. Virginia \n👉Municipio Santa Clara: B e/ 1ray 3ra . Las Minas",
-    "timestamp": 1761310405,
-    "timestamp_local": 1761310405
   }
 ]
