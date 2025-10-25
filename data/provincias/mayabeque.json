@@ -1,5 +1,69 @@
 [
   {
+    "id": 94620,
+    "fecha": "25 de Oct del 2025 a las 06:35 PM",
+    "hora_utc": "2025-10-25 22:35",
+    "mensaje": "🚨Por déficit de capacidad de generación se afecta el servicio en los siguientes circuitos: \n*Catalina 1 y 2  🚨",
+    "timestamp": 1761431728,
+    "timestamp_local": 1761431728
+  },
+  {
+    "id": 94619,
+    "fecha": "25 de Oct del 2025 a las 06:30 PM",
+    "hora_utc": "2025-10-25 22:30",
+    "mensaje": "🔷 Restablecido el servicio en el circuito 3140 que se encontraba afectado por disparo por DAF 🔷",
+    "timestamp": 1761431443,
+    "timestamp_local": 1761431443
+  },
+  {
+    "id": 94618,
+    "fecha": "25 de Oct del 2025 a las 06:29 PM",
+    "hora_utc": "2025-10-25 22:29",
+    "mensaje": "🔷 Restablecido el servicio en el circuito 3590 que se encontraba afectado por disparo por DAF 🔷",
+    "timestamp": 1761431378,
+    "timestamp_local": 1761431378
+  },
+  {
+    "id": 94617,
+    "fecha": "25 de Oct del 2025 a las 06:28 PM",
+    "hora_utc": "2025-10-25 22:28",
+    "mensaje": "🔷♦️Se restablece el servicio en el siguiente circuito que se encontraba afectado por déficit de capacidad de generación: \n*2320🔷♦️",
+    "timestamp": 1761431314,
+    "timestamp_local": 1761431314
+  },
+  {
+    "id": 94616,
+    "fecha": "25 de Oct del 2025 a las 06:23 PM",
+    "hora_utc": "2025-10-25 22:23",
+    "mensaje": "🔷♦️Se restablece el servicio en el siguiente circuito que se encontraba afectado por déficit de capacidad de generación: \n*San Nicolás 1🔷♦️",
+    "timestamp": 1761430987,
+    "timestamp_local": 1761430987
+  },
+  {
+    "id": 94615,
+    "fecha": "25 de Oct del 2025 a las 06:06 PM",
+    "hora_utc": "2025-10-25 22:06",
+    "mensaje": "🔷♦️Se restablece el servicio en el siguiente circuito que se encontraba afectado por déficit de capacidad de generación: \n*Güines 1🔷♦️",
+    "timestamp": 1761429961,
+    "timestamp_local": 1761429961
+  },
+  {
+    "id": 94614,
+    "fecha": "25 de Oct del 2025 a las 06:05 PM",
+    "hora_utc": "2025-10-25 22:05",
+    "mensaje": "🚨Por déficit de capacidad de generación se afecta el servicio en el siguiente circuito: \n * Güines 3 🚨",
+    "timestamp": 1761429929,
+    "timestamp_local": 1761429929
+  },
+  {
+    "id": 94613,
+    "fecha": "25 de Oct del 2025 a las 06:02 PM",
+    "hora_utc": "2025-10-25 22:02",
+    "mensaje": "🚨Por déficit de capacidad de generación se afecta el servicio en el siguiente circuito: \n * 3665  🚨",
+    "timestamp": 1761429733,
+    "timestamp_local": 1761429733
+  },
+  {
     "id": 94612,
     "fecha": "25 de Oct del 2025 a las 06:00 PM",
     "hora_utc": "2025-10-25 22:00",
@@ -70,69 +134,5 @@
     "mensaje": "♦️ Afectado el servicio en el circuito 2440 por manipulación ♦️",
     "timestamp": 1761422925,
     "timestamp_local": 1761422925
-  },
-  {
-    "id": 94600,
-    "fecha": "25 de Oct del 2025 a las 04:02 PM",
-    "hora_utc": "2025-10-25 20:02",
-    "mensaje": "♦️ Afectado el servicio en el circuito 1790 por disparo en las líneas ♦️",
-    "timestamp": 1761422547,
-    "timestamp_local": 1761422547
-  },
-  {
-    "id": 94599,
-    "fecha": "25 de Oct del 2025 a las 03:59 PM",
-    "hora_utc": "2025-10-25 19:59",
-    "mensaje": "♦️ Afectado el servicio en el circuito Perú por disparo en las líneas ♦️",
-    "timestamp": 1761422361,
-    "timestamp_local": 1761422361
-  },
-  {
-    "id": 94598,
-    "fecha": "25 de Oct del 2025 a las 03:55 PM",
-    "hora_utc": "2025-10-25 19:55",
-    "mensaje": "🔷 Restablecido el servicio en el circuito Santa Cruz que se encontraba afectado por manipulación 🔷",
-    "timestamp": 1761422159,
-    "timestamp_local": 1761422159
-  },
-  {
-    "id": 94597,
-    "fecha": "25 de Oct del 2025 a las 03:52 PM",
-    "hora_utc": "2025-10-25 19:52",
-    "mensaje": "🔷 Restablecido el servicio en el circuito Perú que se encontraba afectado por avería 🔷",
-    "timestamp": 1761421945,
-    "timestamp_local": 1761421945
-  },
-  {
-    "id": 94596,
-    "fecha": "25 de Oct del 2025 a las 03:50 PM",
-    "hora_utc": "2025-10-25 19:50",
-    "mensaje": "♦️ Afectado el servicio en el circuito 3590 por disparo por DAF ♦️",
-    "timestamp": 1761421856,
-    "timestamp_local": 1761421856
-  },
-  {
-    "id": 94595,
-    "fecha": "25 de Oct del 2025 a las 03:35 PM",
-    "hora_utc": "2025-10-25 19:35",
-    "mensaje": "♦️ Afectado el servicio en el circuito de Santa Cruz por manipulación ♦️",
-    "timestamp": 1761420951,
-    "timestamp_local": 1761420951
-  },
-  {
-    "id": 94594,
-    "fecha": "25 de Oct del 2025 a las 03:25 PM",
-    "hora_utc": "2025-10-25 19:25",
-    "mensaje": "🔷 Restablecido el servicio en los siguientes circuitos que se encontraban afectados por avería \n* La Salud 1 y 2 🔷",
-    "timestamp": 1761420341,
-    "timestamp_local": 1761420341
-  },
-  {
-    "id": 94593,
-    "fecha": "25 de Oct del 2025 a las 03:24 PM",
-    "hora_utc": "2025-10-25 19:24",
-    "mensaje": "♦️ Afectado el servicio en el circuito 3140 por disparo por DAF ♦️",
-    "timestamp": 1761420250,
-    "timestamp_local": 1761420250
   }
 ]
