@@ -1,5 +1,21 @@
 [
   {
+    "id": 94645,
+    "fecha": "25 de Oct del 2025 a las 10:42 PM",
+    "hora_utc": "2025-10-26 02:42",
+    "mensaje": "🚨Por déficit de capacidad de generación se afecta el servicio en los siguientes circuitos: \n* 3655\n* 3660  🚨",
+    "timestamp": 1761446541,
+    "timestamp_local": 1761446541
+  },
+  {
+    "id": 94644,
+    "fecha": "25 de Oct del 2025 a las 10:41 PM",
+    "hora_utc": "2025-10-26 02:41",
+    "mensaje": "🔷 Restablecido el servicio en el circuito 2320 que se encontraba afectado por emergencia 🔷",
+    "timestamp": 1761446465,
+    "timestamp_local": 1761446465
+  },
+  {
     "id": 94643,
     "fecha": "25 de Oct del 2025 a las 10:01 PM",
     "hora_utc": "2025-10-26 02:01",
@@ -78,37 +94,5 @@
     "mensaje": "🚨Por déficit de capacidad de generación se afecta el servicio en el siguiente circuito: \n * Bío -2 🚨",
     "timestamp": 1761434184,
     "timestamp_local": 1761434184
-  },
-  {
-    "id": 94627,
-    "fecha": "25 de Oct del 2025 a las 07:15 PM",
-    "hora_utc": "2025-10-25 23:15",
-    "mensaje": "🚨Por déficit de capacidad de generación se afecta el servicio en el siguiente circuito: \n * Fénix  🚨",
-    "timestamp": 1761434125,
-    "timestamp_local": 1761434125
-  },
-  {
-    "id": 94626,
-    "fecha": "25 de Oct del 2025 a las 07:13 PM",
-    "hora_utc": "2025-10-25 23:13",
-    "mensaje": "♦️ Afectado el servicio en los circuitos 3140  y 3590 por disparo por DAF ♦️",
-    "timestamp": 1761434019,
-    "timestamp_local": 1761434019
-  },
-  {
-    "id": 94625,
-    "fecha": "25 de Oct del 2025 a las 07:12 PM",
-    "hora_utc": "2025-10-25 23:12",
-    "mensaje": "♦️ Afectado el servicio en el circuito 2320 por emergencia ♦️",
-    "timestamp": 1761433975,
-    "timestamp_local": 1761433975
-  },
-  {
-    "id": 94624,
-    "fecha": "25 de Oct del 2025 a las 07:12 PM",
-    "hora_utc": "2025-10-25 23:12",
-    "mensaje": "🔷 Restablecido el servicio en la siguiente zona correspondiente al circuito Bío -2 que se encontraba afectado por vía libre\n* Carretera la Ceiba 🔷",
-    "timestamp": 1761433943,
-    "timestamp_local": 1761433943
   }
 ]
