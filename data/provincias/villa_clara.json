@@ -1,5 +1,53 @@
 [
   {
+    "id": 32456,
+    "fecha": "26 de Oct del 2025 a las 02:37 PM",
+    "hora_utc": "2025-10-26 18:37",
+    "mensaje": "💡Con servicio el circuito 83 (Manacas), del municipio Santo Domingo.",
+    "timestamp": 1761503878,
+    "timestamp_local": 1761503878
+  },
+  {
+    "id": 32455,
+    "fecha": "26 de Oct del 2025 a las 02:35 PM",
+    "hora_utc": "2025-10-26 18:35",
+    "mensaje": "Con servicio el circuito 185 (Vueltas), del municipio Camajuaní.",
+    "timestamp": 1761503759,
+    "timestamp_local": 1761503759
+  },
+  {
+    "id": 32454,
+    "fecha": "26 de Oct del 2025 a las 02:33 PM",
+    "hora_utc": "2025-10-26 18:33",
+    "mensaje": "⚠️En déficit de capacidad de generación los circuitos 52, 53 y 164 del municipio Quemado.",
+    "timestamp": 1761503620,
+    "timestamp_local": 1761503620
+  },
+  {
+    "id": 32453,
+    "fecha": "26 de Oct del 2025 a las 02:11 PM",
+    "hora_utc": "2025-10-26 18:11",
+    "mensaje": "⚠️En déficit de capacidad de generación el circuito 111 (Mataguá) del municipio Manicaragua.",
+    "timestamp": 1761502314,
+    "timestamp_local": 1761502314
+  },
+  {
+    "id": 32452,
+    "fecha": "26 de Oct del 2025 a las 02:10 PM",
+    "hora_utc": "2025-10-26 18:10",
+    "mensaje": "🛠️Afectado por disparo el circuito 185 (Vueltas), del municipio Camajuaní. Se estudian las causas.",
+    "timestamp": 1761502212,
+    "timestamp_local": 1761502212
+  },
+  {
+    "id": 32451,
+    "fecha": "26 de Oct del 2025 a las 02:04 PM",
+    "hora_utc": "2025-10-26 18:04",
+    "mensaje": "Actualización del servicio eléctrico en la provincia\n✍️Se mantienen afectados en la provincia 117 circuitos.\n✍️En el momento de hacer esta nota la provincia tiene 88 MW de afectación por déficit de capacidad de generación, demanda máxima posible a apagar.\n✍️Cuenta con 217 afectaciones por averías secundarias y de servicio.",
+    "timestamp": 1761501851,
+    "timestamp_local": 1761501851
+  },
+  {
     "id": 32450,
     "fecha": "26 de Oct del 2025 a las 01:25 PM",
     "hora_utc": "2025-10-26 17:25",
@@ -110,45 +158,5 @@
     "mensaje": "⚠️En déficit de capacidad de generación los circuitos siguientes:\n🔹Municipio Manicaragua:\n👉Ctos 113 y 137 La Campana\n👉Cto 112 Hoyo Manicaragua\n🔹Municipio Santa Clara:\n👉Ctos 15 y 27 (Maleza)\n👉Cto 144 (Camacho)",
     "timestamp": 1761495569,
     "timestamp_local": 1761495569
-  },
-  {
-    "id": 32436,
-    "fecha": "26 de Oct del 2025 a las 12:16 PM",
-    "hora_utc": "2025-10-26 16:16",
-    "mensaje": "🕛Actualización del servicio eléctrico en las últimas 6 horas.\n👉El déficit de capacidad de generación osciló entre los 78 MW y los 113 MW.\n👉En el momento de esta nota, se mantienen afectados 124 circuitos.\n👉Cuenta con 226 afectaciones por averías secundarias y de servicio:\n 🔸Caibarién (3)\n 🔸Camajuaní (8)\n 🔸Cifuentes (1)\n 🔸Corralillo (2)\n🔸Encrucijada (1)\n 🔸Manicaragua (7)\n 🔸Placetas (3)\n 🔸Ranchuelo (11)\n 🔸Remedios (4) \n 🔸Sagua (16) \n 🔸Santa Clara (122)\n 🔸Santo Domingo (15)\n🛠️Se encuentran 9 averías en vías de solución.\n🛠️Pendientes a solucionar por el área técnica 25.\n⚡Averías⚡\n✍️Afectada la línea 1715 por problemas con el interruptor de la Subestación.\n✍️ Afectada por Vía libre el circuito 14 (Maleza), del municipio Santa Clara, el cual se encuentra afectado parcialmente por cables primarios partidos.  ✍️ Afectada parcialmente la línea 4608:\nCircuitos 60 (La Sierra) y circuito 55 (Rancho Veloz), por trabajo de vía libre por cruzamiento de las líneas.",
-    "timestamp": 1761495408,
-    "timestamp_local": 1761495408
-  },
-  {
-    "id": 32435,
-    "fecha": "26 de Oct del 2025 a las 12:00 PM",
-    "hora_utc": "2025-10-26 16:00",
-    "mensaje": "⚠️En déficit de capacidad de generación el circuito 92 (Esperanza- Pueblo), del municipio Ranchuelo.",
-    "timestamp": 1761494423,
-    "timestamp_local": 1761494423
-  },
-  {
-    "id": 32434,
-    "fecha": "26 de Oct del 2025 a las 11:33 AM",
-    "hora_utc": "2025-10-26 15:33",
-    "mensaje": "⚠️En déficit de capacidad de generación los circuitos siguientes:\n🔹Municipio Placetas \n👉Ctos 100 y 151 Placetas\n👉Cto 104 Hermanos Amejeiras\n👉Cto 103 Batey Carbó Servia",
-    "timestamp": 1761492826,
-    "timestamp_local": 1761492826
-  },
-  {
-    "id": 32433,
-    "fecha": "26 de Oct del 2025 a las 11:31 AM",
-    "hora_utc": "2025-10-26 15:31",
-    "mensaje": "💡Restablecida parcialmente la línea 4608:\n🔹Municipio Corralillo:\n👉Ctos 58 y 159\n👉Cto 57 Motembo\n👉Cto 56 Yabre\n\n✍️ Quedan afectados los circuitos 60 (La Sierra) y circuito 55 (Rancho Veloz), por trabajo de vía libre por cruzamiento de las líneas.\n✍️Brigadas de nuestra empresa preparan las condiciones necesarias para trabajar en el lugar.",
-    "timestamp": 1761492686,
-    "timestamp_local": 1761492686
-  },
-  {
-    "id": 32432,
-    "fecha": "26 de Oct del 2025 a las 11:23 AM",
-    "hora_utc": "2025-10-26 15:23",
-    "mensaje": "⚠️En déficit de capacidad de generación los circuitos 1 y 2 (Consejo-Centro), del municipio Santa Clara.",
-    "timestamp": 1761492239,
-    "timestamp_local": 1761492239
   }
 ]
