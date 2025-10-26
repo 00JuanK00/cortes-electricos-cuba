@@ -1,5 +1,21 @@
 [
   {
+    "id": 33000,
+    "fecha": "26 de Oct del 2025 a las 11:38 AM",
+    "hora_utc": "2025-10-26 15:38",
+    "mensaje": "✅ Información.\n👉 Se restablece el servicio en el  circuito de Turiguanó.",
+    "timestamp": 1761493128,
+    "timestamp_local": 1761493128
+  },
+  {
+    "id": 32999,
+    "fecha": "26 de Oct del 2025 a las 11:12 AM",
+    "hora_utc": "2025-10-26 15:12",
+    "mensaje": "‼️ Información ‼️   \n👍  Subimos a 75 MW en la provincia afectados por déficit de generación. Con este déficit no podemos cumplir con una programación estable, por lo que los circuitos se afectarán o se restablecerán en dependencia del déficit que haya en cada momento de la jornada.",
+    "timestamp": 1761491545,
+    "timestamp_local": 1761491545
+  },
+  {
     "id": 32998,
     "fecha": "26 de Oct del 2025 a las 10:46 AM",
     "hora_utc": "2025-10-26 14:46",
@@ -102,21 +118,5 @@
     "mensaje": "👉Restablecido el servicio eléctrico Venezuela.",
     "timestamp": 1761434261,
     "timestamp_local": 1761434261
-  },
-  {
-    "id": 32980,
-    "fecha": "25 de Oct del 2025 a las 07:17 PM",
-    "hora_utc": "2025-10-25 23:17",
-    "mensaje": "👉Restablecido el circuito que se encontraba afectado x DAF.",
-    "timestamp": 1761434249,
-    "timestamp_local": 1761434249
-  },
-  {
-    "id": 32979,
-    "fecha": "25 de Oct del 2025 a las 06:53 PM",
-    "hora_utc": "2025-10-25 22:53",
-    "mensaje": "❌Un Disparo Automático por Frecuencia (DAF) es una protección que posee el sistema eléctrico para cuando la frecuencia llega a valores mínimos permisibles que ponen en peligro la estabilidad de todo el sistema en su conjunto y provoca una desconexión automática de algunos circuitos hasta que esta vuelva a recuperar su valor nominal a 60 Hz o ciclos por segundo. Esto ocurre al salir de forma imprevista o repentina una planta generadora con una potencia determinada y el sistema en su conjunto necesita liberar esa carga hasta tanto se puedan recuperar la potencia de generación perdida anteriormente o dar las afectaciones al servicio por déficit de generación.",
-    "timestamp": 1761432809,
-    "timestamp_local": 1761432809
   }
 ]
