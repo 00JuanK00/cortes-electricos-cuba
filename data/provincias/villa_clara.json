@@ -1,5 +1,29 @@
 [
   {
+    "id": 32422,
+    "fecha": "26 de Oct del 2025 a las 09:34 AM",
+    "hora_utc": "2025-10-26 13:34",
+    "mensaje": "🛠️Afectada la línea 6375:\nAfecta los siguientes circuitos:\n🔹Municipio Santa Clara\n👉Cto 7 (Universidad)  \n👉Cto 146 (Elevado Aeropuerto) \n👉Cto 22 (Construcciones Textil)\n👉Cto 131 (Las Antillas)\n👉Cto 153 (EIDE)(Afectado por déficit de capacidad de generación)\n✍️ Se estudian las causas.",
+    "timestamp": 1761485694,
+    "timestamp_local": 1761485694
+  },
+  {
+    "id": 32421,
+    "fecha": "26 de Oct del 2025 a las 09:14 AM",
+    "hora_utc": "2025-10-26 13:14",
+    "mensaje": "⚠️En déficit de capacidad de generación los circuitos siguientes:\n🔹Municipio Encrucijada:\n👉Cto 122 Encrucijada \n👉Cto 123 Vizcaya \n👉Cto 142 Comunidad La Sierra \n👉Cto 126 Batey Emilio Córdova\n👉Cto 125 Cavarrocas\n👉Cto 124 El Santo\n🔹Municipio Camajuaní:\n👉Cto 78 Jutiero",
+    "timestamp": 1761484470,
+    "timestamp_local": 1761484470
+  },
+  {
+    "id": 32420,
+    "fecha": "26 de Oct del 2025 a las 09:13 AM",
+    "hora_utc": "2025-10-26 13:13",
+    "mensaje": "🛠️ Afectado por trabajo de vía libre para poda el circuito 27 (Maleza), del municipio Santa Clara.",
+    "timestamp": 1761484396,
+    "timestamp_local": 1761484396
+  },
+  {
     "id": 32419,
     "fecha": "26 de Oct del 2025 a las 08:31 AM",
     "hora_utc": "2025-10-26 12:31",
@@ -134,21 +158,5 @@
     "mensaje": "Actualización del servicio eléctrico en la provincia\n✍️Se mantienen afectados en la provincia 132 circuitos.\n✍️En el momento de hacer esta nota la provincia tiene 85 MW de afectación por déficit de capacidad de generación, demanda máxima posible a apagar.\n✍️Cuenta con 166 afectaciones por averías secundarias y de servicio.",
     "timestamp": 1761459385,
     "timestamp_local": 1761459385
-  },
-  {
-    "id": 32402,
-    "fecha": "26 de Oct del 2025 a las 12:51 AM",
-    "hora_utc": "2025-10-26 04:51",
-    "mensaje": "✅Ante cualquier duda con la terminología eléctrica, les volvemos explicar: \n     \n👉Las averías pueden ser primarias (afecta un volumen grande de población pues son las líneas de distribución a 13.8kV y puede afectar varias manzanas, incluso repartos completos).\n\n👉Secundarias (afecta a todos los clientes que se alimenten del mismo transformador, puede afectar una o varias cuadras). \n\n👉De servicio (afectan 1 solo cliente o instalación generalmente producto a daños en la acometida, metro contador, etc.).",
-    "timestamp": 1761454318,
-    "timestamp_local": 1761454318
-  },
-  {
-    "id": 32401,
-    "fecha": "26 de Oct del 2025 a las 12:00 AM",
-    "hora_utc": "2025-10-26 04:00",
-    "mensaje": "🕛Actualización del servicio eléctrico en las últimas 6 horas.\n\n👉El déficit de capacidad de generación osciló entre los 136 MW y los 92 MW.\n👉En el momento de esta nota, se mantienen afectados 132 circuitos.\n👉Cuenta con 201 afectaciones por averías secundarias y de servicio:\n Caibarién (1)\n Camajuaní (4)\n Corralillo (3)\n Manicaragua (2)\n Placetas (4)\n Ranchuelo (10)\n Remedios (5) \n Sagua (16) \n Santa Clara (110)\n Santo Domingo (14)\n🛠️Se encuentran 6 averías en vías de solución.\n🛠️Pendientes a solucionar por el área técnica 26.\n⚡La provincia no presenta averías primarias.",
-    "timestamp": 1761451247,
-    "timestamp_local": 1761451247
   }
 ]
