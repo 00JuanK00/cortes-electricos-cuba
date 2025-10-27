@@ -1,5 +1,21 @@
 [
   {
+    "id": 46269,
+    "fecha": "27 de Oct del 2025 a las 01:54 PM",
+    "hora_utc": "2025-10-27 17:54",
+    "mensaje": "Disparo:  \nApertura no voluntaria de un interruptor como vía de protección para desconectar uno o varios elementos del circuito, subestación o sistema, restableciéndose el servicio rápidamente en dependencia de la causa.",
+    "timestamp": 1761587687,
+    "timestamp_local": 1761587687
+  },
+  {
+    "id": 46268,
+    "fecha": "27 de Oct del 2025 a las 01:52 PM",
+    "hora_utc": "2025-10-27 17:52",
+    "mensaje": "🔊Estimados clientes, se les informa que en estos momentos se encuentran disparados  los circuitos de la Sub Pavón, excepto el circuito 7, 14 y 9 seccionalizado, pedimos disculpas por las molestias ocasionadas.",
+    "timestamp": 1761587577,
+    "timestamp_local": 1761587577
+  },
+  {
     "id": 46266,
     "fecha": "27 de Oct del 2025 a las 01:40 PM",
     "hora_utc": "2025-10-27 17:40",
@@ -102,21 +118,5 @@
     "mensaje": "🔊 Disparo Automático de Frecuencia (DAF):\nOcurre cuando la frecuencia está por debajo de los 60Hz y determinada carga o circuito se desconecta del sistema automáticamente hasta que se estabilice.",
     "timestamp": 1761560689,
     "timestamp_local": 1761560689
-  },
-  {
-    "id": 46247,
-    "fecha": "27 de Oct del 2025 a las 06:23 AM",
-    "hora_utc": "2025-10-27 10:23",
-    "mensaje": "🔊Estimados clientes se les informa que en estos momentos se encuentra disparado el circuito 11 de Santiago,disculpen por las molestias ocasionadas.",
-    "timestamp": 1761560613,
-    "timestamp_local": 1761560613
-  },
-  {
-    "id": 46246,
-    "fecha": "27 de Oct del 2025 a las 04:22 AM",
-    "hora_utc": "2025-10-27 08:22",
-    "mensaje": "🔊Circuito en avería:                                                                                  \n Sucede si un circuito se interrumpe por causa de un defecto en un cable conductor de corriente (fase o neutro), un fusible fundido o disyuntor. En sistemas trifásicos una falla puede implicar una fase, más de una fase con la tierra o puede ocurrir solo entre fases.",
-    "timestamp": 1761553364,
-    "timestamp_local": 1761553364
   }
 ]
