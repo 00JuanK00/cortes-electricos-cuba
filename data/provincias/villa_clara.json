@@ -1,5 +1,29 @@
 [
   {
+    "id": 32493,
+    "fecha": "27 de Oct del 2025 a las 01:40 AM",
+    "hora_utc": "2025-10-27 05:40",
+    "mensaje": "Con servicio la línea 108:\n🔹Municipio Ranchuelo:\n👉Cto 92 Esperanza (Pueblo) (Afectado por déficit)\n👉Cto 93 Esperanza (Campo)(Afectado por déficit)\n👉Cto 54 94 y 95 Jicotea (Afectado por déficit)\n🔹Municipio Santa Clara:\n👉Ctos 26 y 141 (Manuelita)\n👉Cto 191 (Quemado de Hilario)",
+    "timestamp": 1761543647,
+    "timestamp_local": 1761543647
+  },
+  {
+    "id": 32492,
+    "fecha": "27 de Oct del 2025 a las 01:29 AM",
+    "hora_utc": "2025-10-27 05:29",
+    "mensaje": "🛠️ Manipulación de la línea 108 para reponer transformador:\nAfecta los siguientes circuitos:\n🔹Municipio Ranchuelo:\n👉Cto 92 Esperanza (Pueblo) (Afectado por déficit)\n👉Cto 93 Esperanza (Campo)(Afectado por déficit)\n👉Cto 54 94 y 95 Jicotea (Afectado por déficit)\n🔹Municipio Santa Clara:\n👉Ctos 26 y 141 (Manuelita)\n👉Cto 191 (Quemado de Hilario)",
+    "timestamp": 1761542949,
+    "timestamp_local": 1761542949
+  },
+  {
+    "id": 32491,
+    "fecha": "27 de Oct del 2025 a las 01:01 AM",
+    "hora_utc": "2025-10-27 05:01",
+    "mensaje": "Con servicio el circuito 26 (Manuelita), del municipio Santa Clara.",
+    "timestamp": 1761541280,
+    "timestamp_local": 1761541280
+  },
+  {
     "id": 32490,
     "fecha": "27 de Oct del 2025 a las 12:43 AM",
     "hora_utc": "2025-10-27 04:43",
@@ -126,29 +150,5 @@
     "mensaje": "⚡Afectado el circuito 66 (Las Torres), del municipio Caibarién, por cable primario partido. Brigada eléctrica de nuestra empresa se encuentra trabajando en el lugar para restablecer el servicio en el menor tiempo posible.",
     "timestamp": 1761513533,
     "timestamp_local": 1761513533
-  },
-  {
-    "id": 32473,
-    "fecha": "26 de Oct del 2025 a las 04:51 PM",
-    "hora_utc": "2025-10-26 20:51",
-    "mensaje": "⚠️En déficit de capacidad de generación los circuitos siguientes: \n🔹Municipio Ranchuelo:\n👉Cto 92 Esperanza (Pueblo)\n👉Cto 93 Esperanza (Campo)\n👉Cto 54, 94 y 95 Jicotea  \n🔹Municipio Santa Clara:\n👉Ctos 26 y 141 (Manuelita)\n👉Cto 191 (Quemado de Hilario)",
-    "timestamp": 1761511882,
-    "timestamp_local": 1761511882
-  },
-  {
-    "id": 32472,
-    "fecha": "26 de Oct del 2025 a las 04:42 PM",
-    "hora_utc": "2025-10-26 20:42",
-    "mensaje": "⚠️En déficit de capacidad de generación los circuitos 1, 2 y 4 (Consejo-Centro), del municipio Santa Clara.",
-    "timestamp": 1761511334,
-    "timestamp_local": 1761511334
-  },
-  {
-    "id": 32471,
-    "fecha": "26 de Oct del 2025 a las 04:37 PM",
-    "hora_utc": "2025-10-26 20:37",
-    "mensaje": "Con servicio la línea 119:\n🔹Municipio Santa Clara:\n👉Ctos 15 y 27 (Maleza)\n👉Cto 14 (Maleza)(Avería)\n👉Cto 144 (Camacho)",
-    "timestamp": 1761511028,
-    "timestamp_local": 1761511028
   }
 ]
