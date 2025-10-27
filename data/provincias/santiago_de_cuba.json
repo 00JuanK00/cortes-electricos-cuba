@@ -1,5 +1,29 @@
 [
   {
+    "id": 46249,
+    "fecha": "27 de Oct del 2025 a las 06:32 AM",
+    "hora_utc": "2025-10-27 10:32",
+    "mensaje": "🔊Estimados clientes en estos momentos se encuentran afectados por Déficit de Capacidad de Generación los circuitos 8 , 20,12 de Santiago y la línea 5395 San Luis, disculpen por las molestias ocasionadas.",
+    "timestamp": 1761561174,
+    "timestamp_local": 1761561174
+  },
+  {
+    "id": 46248,
+    "fecha": "27 de Oct del 2025 a las 06:24 AM",
+    "hora_utc": "2025-10-27 10:24",
+    "mensaje": "🔊 Disparo Automático de Frecuencia (DAF):\nOcurre cuando la frecuencia está por debajo de los 60Hz y determinada carga o circuito se desconecta del sistema automáticamente hasta que se estabilice.",
+    "timestamp": 1761560689,
+    "timestamp_local": 1761560689
+  },
+  {
+    "id": 46247,
+    "fecha": "27 de Oct del 2025 a las 06:23 AM",
+    "hora_utc": "2025-10-27 10:23",
+    "mensaje": "🔊Estimados clientes se les informa que en estos momentos se encuentra disparado el circuito 11 de Santiago,disculpen por las molestias ocasionadas.",
+    "timestamp": 1761560613,
+    "timestamp_local": 1761560613
+  },
+  {
     "id": 46246,
     "fecha": "27 de Oct del 2025 a las 04:22 AM",
     "hora_utc": "2025-10-27 08:22",
@@ -110,21 +134,5 @@
     "mensaje": "🔉 Estimados clientes se les informa que se encuentra la subestación Belleza de la Maya disparado . Pedimos disculpa por las molestias ocasionadas .",
     "timestamp": 1761521230,
     "timestamp_local": 1761521230
-  },
-  {
-    "id": 46229,
-    "fecha": "26 de Oct del 2025 a las 07:07 PM",
-    "hora_utc": "2025-10-26 23:07",
-    "mensaje": "Disparo:\nApertura no voluntaria de un interruptor como vía de protección para desconectar uno o varios elementos del circuito, subestación o sistema, restableciéndose el servicio rápidamente en dependencia de la causa.",
-    "timestamp": 1761520072,
-    "timestamp_local": 1761520072
-  },
-  {
-    "id": 46228,
-    "fecha": "26 de Oct del 2025 a las 07:07 PM",
-    "hora_utc": "2025-10-26 23:07",
-    "mensaje": "🔉Estimados clientes se les informa que se encuentra afectado la línea 5390 la Maya por Disparo .",
-    "timestamp": 1761520057,
-    "timestamp_local": 1761520057
   }
 ]
