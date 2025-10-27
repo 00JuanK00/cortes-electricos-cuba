@@ -1,9 +1,33 @@
 [
   {
+    "id": 32516,
+    "fecha": "27 de Oct del 2025 a las 11:33 AM",
+    "hora_utc": "2025-10-27 15:33",
+    "mensaje": "⚠️En déficit de capacidad de generación el Cto 153 (EIDE), perteneciente al municipio Santa Clara.",
+    "timestamp": 1761579200,
+    "timestamp_local": 1761579200
+  },
+  {
+    "id": 32515,
+    "fecha": "27 de Oct del 2025 a las 11:24 AM",
+    "hora_utc": "2025-10-27 15:24",
+    "mensaje": "⚡Resumen de averías existentes en este momento en la provincia:\n✍️ Afectado parcialmente el circuito 110 (Guinia)del municipio Manicaragua, en el ramal Pico Blanco.\n✍️Afectado parcialmente el circuito 159 del municipio Corralillo, en el ramal Elguea. \n✍️Afectado parcialmente el Cto 102 (Fomento) del municipio Manicaragua, en el ramal Bagá.",
+    "timestamp": 1761578648,
+    "timestamp_local": 1761578648
+  },
+  {
+    "id": 32514,
+    "fecha": "27 de Oct del 2025 a las 11:02 AM",
+    "hora_utc": "2025-10-27 15:02",
+    "mensaje": "Afectados 123 MW en la provincia, demanda máxima a apagar en estos momentos.",
+    "timestamp": 1761577359,
+    "timestamp_local": 1761577359
+  },
+  {
     "id": 32513,
     "fecha": "27 de Oct del 2025 a las 10:49 AM",
     "hora_utc": "2025-10-27 14:49",
-    "mensaje": "⚠️En déficit de capacidad de generación los siguientes circuitos:\n🔹Municipio Sagua:\n👉Ctos 43 y 51\n👉Ctos 50 y 147 Villa Alegre \n👉Cto 44 Isabela",
+    "mensaje": "⚠️En déficit de capacidad de generación los siguientes circuitos:\n🔹Municipio Sagua:\n👉Ctos 43 y 51\n👉Ctos 50 y 147 Villa Alegre \n👉Cto 44 Isabela\nMunicipio Santa Clara:\n👉Cto 5 (Dobarganes)\n👉Cto 17 (Subplanta)\n👉Ctos 37 y 38 (Yabú)   \n👉Cto 9 (Moldes y Troqueles)\n👉Cto 133 (Cafetera)",
     "timestamp": 1761576569,
     "timestamp_local": 1761576569
   },
@@ -126,29 +150,5 @@
     "mensaje": "⚠️En déficit de capacidad de generación los circuitos siguientes:\n🔹Municipio Placetas:\n👉Cto 101 y 145 Cumbre",
     "timestamp": 1761561287,
     "timestamp_local": 1761561287
-  },
-  {
-    "id": 32496,
-    "fecha": "27 de Oct del 2025 a las 03:57 AM",
-    "hora_utc": "2025-10-27 07:57",
-    "mensaje": "⚠️En déficit de capacidad de generación el circuito 39 (Sandino), del municipio Santa Clara.",
-    "timestamp": 1761551848,
-    "timestamp_local": 1761551848
-  },
-  {
-    "id": 32495,
-    "fecha": "27 de Oct del 2025 a las 03:23 AM",
-    "hora_utc": "2025-10-27 07:23",
-    "mensaje": "⚠️En déficit de capacidad de generación los circuitos siguientes:\n🔹Municipio Santa Clara:\n👉Cto 5 (Dobarganes)\n👉Cto 17 (Subplanta)",
-    "timestamp": 1761549787,
-    "timestamp_local": 1761549787
-  },
-  {
-    "id": 32494,
-    "fecha": "27 de Oct del 2025 a las 01:57 AM",
-    "hora_utc": "2025-10-27 05:57",
-    "mensaje": "Actualización del servicio eléctrico en la provincia\n✍️Se mantienen afectados en la provincia 135 circuitos.\n✍️En el momento de hacer esta nota la provincia tiene 92 MW de afectación por déficit de capacidad de generación, demanda máxima posible a apagar.\n✍️Cuenta con 198 afectaciones por averías secundarias y de servicio.",
-    "timestamp": 1761544666,
-    "timestamp_local": 1761544666
   }
 ]
