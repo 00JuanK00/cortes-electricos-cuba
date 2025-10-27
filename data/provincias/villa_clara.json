@@ -1,5 +1,37 @@
 [
   {
+    "id": 32512,
+    "fecha": "27 de Oct del 2025 a las 10:41 AM",
+    "hora_utc": "2025-10-27 14:41",
+    "mensaje": "⚠️En déficit de capacidad de generación el Cto 2 (Centro), perteneciente al municipio Santa Clara.",
+    "timestamp": 1761576102,
+    "timestamp_local": 1761576102
+  },
+  {
+    "id": 32511,
+    "fecha": "27 de Oct del 2025 a las 10:31 AM",
+    "hora_utc": "2025-10-27 14:31",
+    "mensaje": "⚠️En déficit de capacidad de generación el Cto 169 (**Gran Panel**), perteneciente al municipio Santa Clara.",
+    "timestamp": 1761575464,
+    "timestamp_local": 1761575464
+  },
+  {
+    "id": 32510,
+    "fecha": "27 de Oct del 2025 a las 10:07 AM",
+    "hora_utc": "2025-10-27 14:07",
+    "mensaje": "⚠️En déficit de capacidad de generación los siguientes circuitos:\n🔹Municipio Placetas:\n👉Cto 192 Benito Juárez\n👉Cto 102 Peroti",
+    "timestamp": 1761574054,
+    "timestamp_local": 1761574054
+  },
+  {
+    "id": 32509,
+    "fecha": "27 de Oct del 2025 a las 10:05 AM",
+    "hora_utc": "2025-10-27 14:05",
+    "mensaje": "⚠️En déficit de capacidad de generación los Ctos 166 (Condado), 167 (Virginia) y 170 (José Martí), pertenecientes al municipio Santa Clara.",
+    "timestamp": 1761573911,
+    "timestamp_local": 1761573911
+  },
+  {
     "id": 32508,
     "fecha": "27 de Oct del 2025 a las 10:01 AM",
     "hora_utc": "2025-10-27 14:01",
@@ -118,37 +150,5 @@
     "mensaje": "Con servicio la línea 108:\n🔹Municipio Ranchuelo:\n👉Cto 92 Esperanza (Pueblo) (Afectado por déficit)\n👉Cto 93 Esperanza (Campo)(Afectado por déficit)\n👉Cto 54 94 y 95 Jicotea (Afectado por déficit)\n🔹Municipio Santa Clara:\n👉Ctos 26 y 141 (Manuelita)\n👉Cto 191 (Quemado de Hilario)",
     "timestamp": 1761543647,
     "timestamp_local": 1761543647
-  },
-  {
-    "id": 32492,
-    "fecha": "27 de Oct del 2025 a las 01:29 AM",
-    "hora_utc": "2025-10-27 05:29",
-    "mensaje": "🛠️ Manipulación de la línea 108 para reponer transformador:\nAfecta los siguientes circuitos:\n🔹Municipio Ranchuelo:\n👉Cto 92 Esperanza (Pueblo) (Afectado por déficit)\n👉Cto 93 Esperanza (Campo)(Afectado por déficit)\n👉Cto 54 94 y 95 Jicotea (Afectado por déficit)\n🔹Municipio Santa Clara:\n👉Ctos 26 y 141 (Manuelita)\n👉Cto 191 (Quemado de Hilario)",
-    "timestamp": 1761542949,
-    "timestamp_local": 1761542949
-  },
-  {
-    "id": 32491,
-    "fecha": "27 de Oct del 2025 a las 01:01 AM",
-    "hora_utc": "2025-10-27 05:01",
-    "mensaje": "Con servicio el circuito 26 (Manuelita), del municipio Santa Clara.",
-    "timestamp": 1761541280,
-    "timestamp_local": 1761541280
-  },
-  {
-    "id": 32490,
-    "fecha": "27 de Oct del 2025 a las 12:43 AM",
-    "hora_utc": "2025-10-27 04:43",
-    "mensaje": "🛠️Afectado el circuito 26 (Manuelita), del municipio Santa Clara, para reponer transformador.",
-    "timestamp": 1761540238,
-    "timestamp_local": 1761540238
-  },
-  {
-    "id": 32489,
-    "fecha": "27 de Oct del 2025 a las 12:00 AM",
-    "hora_utc": "2025-10-27 04:00",
-    "mensaje": "🕛Actualización del servicio eléctrico en las últimas 6 horas.\n👉El déficit de capacidad de generación osciló entre los 113 MW y los 105 MW.\n👉En el momento de esta nota, se mantienen afectados 147 circuitos.\n👉Cuenta con 230 afectaciones por averías secundarias y de servicio:\n 🔸Caibarién (3)\n 🔸Camajuaní (2)\n 🔸Cifuentes (2)\n 🔸Corralillo (1)\n 🔸Manicaragua (6)\n 🔸Placetas (3)\n 🔸Ranchuelo (10)\n 🔸Remedios (7) \n 🔸Sagua (14) \n 🔸Santa Clara (140)\n 🔸Santo Domingo (15)\n🛠️Se encuentran 2 averías en vías de solución.\n🛠️Pendientes a solucionar por el área técnica 25.\n⚡Averías⚡\n✍️ Afectado parcialmente el circuito 110 (Guinia)del municipio Manicaragua, en el ramal Pico Blanco.",
-    "timestamp": 1761537646,
-    "timestamp_local": 1761537646
   }
 ]
