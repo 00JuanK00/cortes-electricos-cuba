@@ -1,5 +1,29 @@
 [
   {
+    "id": 32563,
+    "fecha": "27 de Oct del 2025 a las 11:13 PM",
+    "hora_utc": "2025-10-28 03:13",
+    "mensaje": "Afectados 107 MW en la provincia, demanda máxima a apagar en estos momentos.",
+    "timestamp": 1761621217,
+    "timestamp_local": 1761621217
+  },
+  {
+    "id": 32562,
+    "fecha": "27 de Oct del 2025 a las 10:56 PM",
+    "hora_utc": "2025-10-28 02:56",
+    "mensaje": "⚠️En déficit de capacidad de generación los siguientes circuitos:\n🔹Municipio Santa Clara:\n👉Cto 14 Maleza\n👉Cto 31 **SC. Industrial**",
+    "timestamp": 1761620188,
+    "timestamp_local": 1761620188
+  },
+  {
+    "id": 32561,
+    "fecha": "27 de Oct del 2025 a las 10:43 PM",
+    "hora_utc": "2025-10-28 02:43",
+    "mensaje": "⚠️En déficit de capacidad de generación el Cto 1 (Centro), perteneciente al municipio Santa Clara.",
+    "timestamp": 1761619405,
+    "timestamp_local": 1761619405
+  },
+  {
     "id": 32560,
     "fecha": "27 de Oct del 2025 a las 10:12 PM",
     "hora_utc": "2025-10-28 02:12",
@@ -126,29 +150,5 @@
     "mensaje": "⚠️En déficit de capacidad de generación el Cto 144 (Camacho), perteneciente al municipio Santa Clara.",
     "timestamp": 1761602825,
     "timestamp_local": 1761602825
-  },
-  {
-    "id": 32543,
-    "fecha": "27 de Oct del 2025 a las 05:29 PM",
-    "hora_utc": "2025-10-27 21:29",
-    "mensaje": "⚠️En déficit de capacidad de generación el Cto 22 (Textilera), perteneciente al municipio Santa Clara.",
-    "timestamp": 1761600573,
-    "timestamp_local": 1761600573
-  },
-  {
-    "id": 32542,
-    "fecha": "27 de Oct del 2025 a las 05:05 PM",
-    "hora_utc": "2025-10-27 21:05",
-    "mensaje": "Afectados 130 MW en la provincia, demanda máxima a apagar en estos momentos.",
-    "timestamp": 1761599139,
-    "timestamp_local": 1761599139
-  },
-  {
-    "id": 32541,
-    "fecha": "27 de Oct del 2025 a las 04:53 PM",
-    "hora_utc": "2025-10-27 20:53",
-    "mensaje": "⚠️En déficit de capacidad de generación los siguientes circuitos:\n🔹Municipio Manicaragua:\nCtos 109 y 150\nCtos 108  La Piedra\nCto 111 Mataguá",
-    "timestamp": 1761598435,
-    "timestamp_local": 1761598435
   }
 ]
