@@ -1,5 +1,53 @@
 [
   {
+    "id": 32560,
+    "fecha": "27 de Oct del 2025 a las 10:12 PM",
+    "hora_utc": "2025-10-28 02:12",
+    "mensaje": "Actualización del servicio eléctrico en la provincia\n✍️Se mantienen afectados en la provincia 137 circuitos.\n✍️En el momento de hacer esta nota la provincia tiene 115 MW de afectación por déficit de capacidad de generación, demanda máxima posible a apagar.\n✍️Cuenta con 124 afectaciones por averías secundarias y de servicio.",
+    "timestamp": 1761617551,
+    "timestamp_local": 1761617551
+  },
+  {
+    "id": 32559,
+    "fecha": "27 de Oct del 2025 a las 09:57 PM",
+    "hora_utc": "2025-10-28 01:57",
+    "mensaje": "💡Con servicio los Ctos 107 Baez y 105 Nazareno, perteneciente al municipio Placetas.",
+    "timestamp": 1761616663,
+    "timestamp_local": 1761616663
+  },
+  {
+    "id": 32558,
+    "fecha": "27 de Oct del 2025 a las 09:56 PM",
+    "hora_utc": "2025-10-28 01:56",
+    "mensaje": "⚠️En déficit de capacidad de generación los siguientes circuitos:\n🔹Municipio Placetas:\n👉Ctos 101 y 145 Cumbre",
+    "timestamp": 1761616586,
+    "timestamp_local": 1761616586
+  },
+  {
+    "id": 32557,
+    "fecha": "27 de Oct del 2025 a las 09:49 PM",
+    "hora_utc": "2025-10-28 01:49",
+    "mensaje": "💡Con servicio el Cto 170 (José Martí), perteneciente al municipio Santa Clara.",
+    "timestamp": 1761616149,
+    "timestamp_local": 1761616149
+  },
+  {
+    "id": 32556,
+    "fecha": "27 de Oct del 2025 a las 09:31 PM",
+    "hora_utc": "2025-10-28 01:31",
+    "mensaje": "💡Con servicio el Cto 169 (Condado), perteneciente al municipio Santa Clara.",
+    "timestamp": 1761615082,
+    "timestamp_local": 1761615082
+  },
+  {
+    "id": 32555,
+    "fecha": "27 de Oct del 2025 a las 09:09 PM",
+    "hora_utc": "2025-10-28 01:09",
+    "mensaje": "Afectados 131 MW en la provincia, demanda máxima a apagar en estos momentos.",
+    "timestamp": 1761613779,
+    "timestamp_local": 1761613779
+  },
+  {
     "id": 32553,
     "fecha": "27 de Oct del 2025 a las 08:17 PM",
     "hora_utc": "2025-10-28 00:17",
@@ -102,45 +150,5 @@
     "mensaje": "⚠️En déficit de capacidad de generación los siguientes circuitos:\n🔹Municipio Manicaragua:\nCtos 109 y 150\nCtos 108  La Piedra\nCto 111 Mataguá",
     "timestamp": 1761598435,
     "timestamp_local": 1761598435
-  },
-  {
-    "id": 32540,
-    "fecha": "27 de Oct del 2025 a las 04:16 PM",
-    "hora_utc": "2025-10-27 20:16",
-    "mensaje": "⚠️En déficit de capacidad de generación los siguientes circuitos:\n🔹Municipio Santa Clara:\n👉Cto 5 (Dobarganes)\n👉Cto 17 (Subplanta)\n👉Ctos 37 y 38 (Yabú)   \n👉Cto 9 (Moldes y Troqueles)\n👉Cto 133 (Cafetera)",
-    "timestamp": 1761596203,
-    "timestamp_local": 1761596203
-  },
-  {
-    "id": 32539,
-    "fecha": "27 de Oct del 2025 a las 04:14 PM",
-    "hora_utc": "2025-10-27 20:14",
-    "mensaje": "Actualización del servicio eléctrico en la provincia\n✍️Se mantienen afectados en la provincia 137 circuitos.\n✍️En el momento de hacer esta nota la provincia tiene 118 MW de afectación por déficit de capacidad de generación, demanda máxima posible a apagar.\n✍️Cuenta con 191 afectaciones por averías secundarias y de servicio.",
-    "timestamp": 1761596071,
-    "timestamp_local": 1761596071
-  },
-  {
-    "id": 32537,
-    "fecha": "27 de Oct del 2025 a las 03:40 PM",
-    "hora_utc": "2025-10-27 19:40",
-    "mensaje": "⚠️Afectada por DAF la Línea del 1920:\nMunicipio Placetas:\n👉Cto 101 y 145 Cumbre\n👉Cto 107 Baez\n👉Cto 105 Nazareno",
-    "timestamp": 1761594039,
-    "timestamp_local": 1761594039
-  },
-  {
-    "id": 32536,
-    "fecha": "27 de Oct del 2025 a las 03:36 PM",
-    "hora_utc": "2025-10-27 19:36",
-    "mensaje": "⚠️En déficit de capacidad de generación los siguientes circuitos:\n🔹Municipio Remedios:\n👉Ctos 67 y 152, 68 y 118 \n👉Ctos 69 y 70 Zuluetas\n👉Cto 143 Batey Heriberto Duquesne\n👉Cto 71 Buena Vista",
-    "timestamp": 1761593761,
-    "timestamp_local": 1761593761
-  },
-  {
-    "id": 32535,
-    "fecha": "27 de Oct del 2025 a las 03:33 PM",
-    "hora_utc": "2025-10-27 19:33",
-    "mensaje": "⚡Resumen de averías existentes en este momento en la provincia:\n✍️ Afectado parcialmente el circuito 110 (Guinia)del municipio Manicaragua, en el ramal Pico Blanco.\n✍️Afectado parcialmente el Cto 102 (Fomento) del municipio Manicaragua, en el ramal Bagá.\n✍️Afectado el Cto 13 (Zona Industrial), perteneciente al municipio Santa Clara.\n⚠️Se encuentra en fallo el Cto 1 (Centro)de manera parcial, perteneciente al municipio Santa Clara.",
-    "timestamp": 1761593598,
-    "timestamp_local": 1761593598
   }
 ]
