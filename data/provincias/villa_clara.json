@@ -1,5 +1,13 @@
 [
   {
+    "id": 32652,
+    "fecha": "29 de Oct del 2025 a las 02:10 PM",
+    "hora_utc": "2025-10-29 18:10",
+    "mensaje": "Actualización del servicio eléctrico en la provincia\n✍️Se mantienen afectados en la provincia 161 circuitos.\n✍️En el momento de hacer esta nota la provincia tiene 123 MW de afectación por déficit de capacidad de generación, demanda máxima posible a apagar.\n✍️Cuenta con 69 afectaciones por averías secundarias y de servicio.",
+    "timestamp": 1761761441,
+    "timestamp_local": 1761761441
+  },
+  {
     "id": 32650,
     "fecha": "29 de Oct del 2025 a las 12:01 PM",
     "hora_utc": "2025-10-29 16:01",
@@ -118,13 +126,5 @@
     "mensaje": "📣Ante cualquier duda con la terminología eléctrica, les volvemos explicar: \n     \n1️⃣Las averías pueden ser primarias (afecta un volumen grande de población pues son las líneas de distribución a 13.8kV y puede afectar varias manzanas, incluso repartos completos).\n\n2️⃣Secundarias (afecta a todos los clientes que se alimenten del mismo transformador, puede afectar una o varias cuadras). \n\n3️⃣De servicio (afectan 1 solo cliente o instalación generalmente producto a daños en la acometida, metro contador, etc.).",
     "timestamp": 1761712116,
     "timestamp_local": 1761712116
-  },
-  {
-    "id": 32632,
-    "fecha": "29 de Oct del 2025 a las 12:11 AM",
-    "hora_utc": "2025-10-29 04:11",
-    "mensaje": "🕛Actualización del servicio eléctrico en las últimas 6 horas.\n✍️El déficit de capacidad de generación osciló entre los 128 MW y los 149 MW.\n✍️En el momento de esta nota, se mantienen afectados 147circuitos.\n✍️Cuenta con 84 afectaciones por averías secundarias y de servicio:\n🔸Camajuani (1)\n🔸Encrucijada (3)\n🔸Manicaragua (7)\n🔸Placetas (1)\n🔸Remedios (4) \n🔸Sagua (4) \n🔸Santa Clara (41)\n🔸Santo Domingo (1)\n🛠️Se encuentra 2 avería en vías de solución.\n🛠️Pendientes a solucionar por el área técnica 20.\n✅La provincia no presenta averías primarias.",
-    "timestamp": 1761711099,
-    "timestamp_local": 1761711099
   }
 ]
