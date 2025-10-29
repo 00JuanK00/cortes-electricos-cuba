@@ -1,5 +1,21 @@
 [
   {
+    "id": 32657,
+    "fecha": "29 de Oct del 2025 a las 04:39 PM",
+    "hora_utc": "2025-10-29 20:39",
+    "mensaje": "⚡Afectado el servicio eléctrico en el circuito 39 por avería.",
+    "timestamp": 1761770367,
+    "timestamp_local": 1761770367
+  },
+  {
+    "id": 32656,
+    "fecha": "29 de Oct del 2025 a las 04:38 PM",
+    "hora_utc": "2025-10-29 20:38",
+    "mensaje": "💡Restablecido el servicio en los circuitos 132 y 162 SC Industrial.",
+    "timestamp": 1761770328,
+    "timestamp_local": 1761770328
+  },
+  {
     "id": 32655,
     "fecha": "29 de Oct del 2025 a las 04:00 PM",
     "hora_utc": "2025-10-29 20:00",
@@ -110,21 +126,5 @@
     "mensaje": "Actualización del servicio eléctrico en la provincia\n✍️Se mantienen afectados en la provincia 157 circuitos.\n✍️En el momento de hacer esta nota la provincia tiene 101 MW de afectación por déficit de capacidad de generación, demanda máxima posible a apagar.\n✍️Cuenta con 62 afectaciones por averías secundarias y de servicio.108",
     "timestamp": 1761724631,
     "timestamp_local": 1761724631
-  },
-  {
-    "id": 32637,
-    "fecha": "29 de Oct del 2025 a las 03:49 AM",
-    "hora_utc": "2025-10-29 07:49",
-    "mensaje": "Afectados 101 MW en la provincia, demanda máxima a apagar en estos momentos.",
-    "timestamp": 1761724146,
-    "timestamp_local": 1761724146
-  },
-  {
-    "id": 32636,
-    "fecha": "29 de Oct del 2025 a las 02:39 AM",
-    "hora_utc": "2025-10-29 06:39",
-    "mensaje": "⚠️En déficit de capacidad de generación el siguiente circuito:\n🔹Municipio Santa Clara:\n👉Cto 39 (Sandino)",
-    "timestamp": 1761719993,
-    "timestamp_local": 1761719993
   }
 ]
