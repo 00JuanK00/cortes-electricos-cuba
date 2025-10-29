@@ -1,9 +1,25 @@
 [
   {
+    "id": 32630,
+    "fecha": "28 de Oct del 2025 a las 09:48 PM",
+    "hora_utc": "2025-10-29 01:48",
+    "mensaje": "Actualización del servicio eléctrico en la provincia\n✍️Se mantienen afectados en la provincia 147 circuitos.\n✍️En el momento de hacer esta nota la provincia tiene 128 MW de afectación por déficit de capacidad de generación, demanda máxima posible a apagar.\n✍️Cuenta con 70 afectaciones por averías secundarias y de servicio.108",
+    "timestamp": 1761702529,
+    "timestamp_local": 1761702529
+  },
+  {
+    "id": 32629,
+    "fecha": "28 de Oct del 2025 a las 09:02 PM",
+    "hora_utc": "2025-10-29 01:02",
+    "mensaje": "Afectados 128 MW en la provincia, demanda máxima a apagar en estos momentos.",
+    "timestamp": 1761699733,
+    "timestamp_local": 1761699733
+  },
+  {
     "id": 32628,
     "fecha": "28 de Oct del 2025 a las 08:01 PM",
     "hora_utc": "2025-10-29 00:01",
-    "mensaje": "⚠️En déficit de capacidad de generación los siguientes circuitos:🔹Municipio Santa Clara:\n👉Cto 166 (Condado)\n👉Cto 167 (Virginia)\n👉Cto 170 (José Martí)\n👉Cto 171 (Los Caneyes)",
+    "mensaje": "⚠️En déficit de capacidad de generación los siguientes circuitos:\n🔹Municipio Santa Clara:\n👉Cto 166 (Condado)\n👉Cto 167 (Virginia)\n👉Cto 170 (José Martí)\n👉Cto 171 (Los Caneyes)",
     "timestamp": 1761696092,
     "timestamp_local": 1761696092
   },
@@ -142,21 +158,5 @@
     "mensaje": "💡Con servicio Linea 6375\nLínea 6375\n🔹Municipio Santa Clara\n👉Cto 7 (Universidad)  \n👉Cto 146 (Elevado Aeropuerto) \n👉Cto 22 (Construcciones Textil)\n👉Cto 131 (Las Antillas)\n👉Cto 153 (EIDE)",
     "timestamp": 1761677221,
     "timestamp_local": 1761677221
-  },
-  {
-    "id": 32610,
-    "fecha": "28 de Oct del 2025 a las 02:43 PM",
-    "hora_utc": "2025-10-28 18:43",
-    "mensaje": "Afectados 95 MW en la provincia, demanda máxima a apagar en estos momentos.",
-    "timestamp": 1761676995,
-    "timestamp_local": 1761676995
-  },
-  {
-    "id": 32609,
-    "fecha": "28 de Oct del 2025 a las 02:34 PM",
-    "hora_utc": "2025-10-28 18:34",
-    "mensaje": "🛠️Manipulación 🛠️\n➡️Afectada linea 6375 por manipulación afecta los siguientes circuitos.\nLínea 6375\n🔹Municipio Santa Clara\n👉Cto 7 (Universidad)  \n👉Cto 146 (Elevado Aeropuerto) \n👉Cto 22 (Construcciones Textil)\n👉Cto 131 (Las Antillas)\n👉Cto 153 (EIDE)",
-    "timestamp": 1761676451,
-    "timestamp_local": 1761676451
   }
 ]
