@@ -1,5 +1,21 @@
 [
   {
+    "id": 32641,
+    "fecha": "29 de Oct del 2025 a las 05:27 AM",
+    "hora_utc": "2025-10-29 09:27",
+    "mensaje": "✍️Disparo automático por frecuencia (DAF). \n➡️Un disparo por frecuencia o Descarga Automática por Frecuencia DAF es una protección que posee el sistema eléctrico para cuando la frecuencia llega a valores mínimos permisibles que ponen en peligro la estabilidad de todo el sistema en su conjunto y provoca una desconexión automática de algunos circuitos hasta que esta vuelva a recuperar su valor nominal a 60 Hz o ciclos por segundo. Esto ocurre al salir de forma imprevista o repentina una planta generadora con una potencia determinada y el sistema en su conjunto necesita liberar esa carga hasta tanto se puedan recuperar la potencia de generación perdida anteriormente o dar las afectaciones al servicio por déficit de generación.",
+    "timestamp": 1761730060,
+    "timestamp_local": 1761730060
+  },
+  {
+    "id": 32640,
+    "fecha": "29 de Oct del 2025 a las 05:25 AM",
+    "hora_utc": "2025-10-29 09:25",
+    "mensaje": "⚠️Disparo por DAF\n➡️Afectada Linea 1910 \nLínea 1910\n➡️Municipio Placetas \n👉Ctos 98 y 99 Placetas\n👉Ctos 100 y 151 Placetas\n👉Cto 104 Hermanos Amejeiras\n👉Cto 103 Batey Carbó Servia",
+    "timestamp": 1761729958,
+    "timestamp_local": 1761729958
+  },
+  {
     "id": 32639,
     "fecha": "29 de Oct del 2025 a las 04:05 AM",
     "hora_utc": "2025-10-29 08:05",
@@ -134,21 +150,5 @@
     "mensaje": "Afectados 149 MW en la provincia, demanda máxima a apagar en estos momentos.",
     "timestamp": 1761691024,
     "timestamp_local": 1761691024
-  },
-  {
-    "id": 32621,
-    "fecha": "28 de Oct del 2025 a las 06:06 PM",
-    "hora_utc": "2025-10-28 22:06",
-    "mensaje": "⚠️Disparo por DAF\n➡️Afcetadas Linea 1910 y 1920\nLínea 1910\n➡️Municipio Placetas \n👉Ctos 98 y 99 Placetas\n👉Ctos 100 y 151 Placetas\n👉Cto 104 Hermanos Amejeiras\n👉Cto 103 Batey Carbó Servia\n➡️Linea 1920\nMunicipio Placetas:\n👉Cto 101 y 145 Cumbre\n👉Cto 107 Baez\n👉Cto 105 Nazareno",
-    "timestamp": 1761689197,
-    "timestamp_local": 1761689197
-  },
-  {
-    "id": 32620,
-    "fecha": "28 de Oct del 2025 a las 05:49 PM",
-    "hora_utc": "2025-10-28 21:49",
-    "mensaje": "⚠️En déficit de capacidad de generación los siguientes circuitos: \n🔹Municipio Placetas:\n 👉Cto 101 y 145 Cumbre\n🔹Municipio Sagua:\n👉Ctos 43 y 51\n👉Ctos 50 y 147 Villa Alegre \n👉Cto 44 Isabela",
-    "timestamp": 1761688156,
-    "timestamp_local": 1761688156
   }
 ]
