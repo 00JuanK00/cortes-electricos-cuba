@@ -1,5 +1,29 @@
 [
   {
+    "id": 95263,
+    "fecha": "30 de Oct del 2025 a las 05:00 PM",
+    "hora_utc": "2025-10-30 21:00",
+    "mensaje": "🚨Por déficit de capacidad de generación se afecta el servicio en los siguientes circuitos:\n*3655\n*3660🚨",
+    "timestamp": 1761858050,
+    "timestamp_local": 1761858050
+  },
+  {
+    "id": 95262,
+    "fecha": "30 de Oct del 2025 a las 05:00 PM",
+    "hora_utc": "2025-10-30 21:00",
+    "mensaje": "🔷Restablecido el servicio en el circuito Güines 1 que se encontraba afectado por manipulación🔷",
+    "timestamp": 1761858011,
+    "timestamp_local": 1761858011
+  },
+  {
+    "id": 95261,
+    "fecha": "30 de Oct del 2025 a las 04:59 PM",
+    "hora_utc": "2025-10-30 20:59",
+    "mensaje": "🚨Por déficit de capacidad de generación se afecta el servicio en los siguientes circuitos:\n*Catalina 1 y 2🚨",
+    "timestamp": 1761857988,
+    "timestamp_local": 1761857988
+  },
+  {
     "id": 95260,
     "fecha": "30 de Oct del 2025 a las 04:38 PM",
     "hora_utc": "2025-10-30 20:38",
@@ -94,29 +118,5 @@
     "mensaje": "🔷♦️Se restablece el servicio en el siguiente circuito que se encontraba afectado por déficit de capacidad de generación: \n*El Camilo🔷♦️",
     "timestamp": 1761848672,
     "timestamp_local": 1761848672
-  },
-  {
-    "id": 95243,
-    "fecha": "30 de Oct del 2025 a las 02:10 PM",
-    "hora_utc": "2025-10-30 18:10",
-    "mensaje": "🚨Por déficit de capacidad de generación se afecta el servicio en el siguiente circuito:\n* Madruga🚨",
-    "timestamp": 1761847856,
-    "timestamp_local": 1761847856
-  },
-  {
-    "id": 95242,
-    "fecha": "30 de Oct del 2025 a las 01:50 PM",
-    "hora_utc": "2025-10-30 17:50",
-    "mensaje": "🔷♦️Se restablece el servicio en los siguientes circuitos que se encontraban afectados por déficit de capacidad de generación: \n* Quivican\n* Palomo\n* San Felipe🔷♦️",
-    "timestamp": 1761846658,
-    "timestamp_local": 1761846658
-  },
-  {
-    "id": 95241,
-    "fecha": "30 de Oct del 2025 a las 01:48 PM",
-    "hora_utc": "2025-10-30 17:48",
-    "mensaje": "🔷Restablecido el servicio en el circuito Catalina 1 que se encontraba afectado en avería quedando afectadas las siguientes zonas:\n*Zizcay\n*Aguirre\n*Tierra baja\n*Zonas aledañas\n🔷",
-    "timestamp": 1761846487,
-    "timestamp_local": 1761846487
   }
 ]
