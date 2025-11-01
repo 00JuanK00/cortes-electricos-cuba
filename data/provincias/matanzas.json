@@ -1,5 +1,21 @@
 [
   {
+    "id": 28032,
+    "fecha": "01 de Nov del 2025 a las 12:22 AM",
+    "hora_utc": "2025-11-01 04:22",
+    "mensaje": "Actualizamos el déficit por capacidad de generación: 60 MW.",
+    "timestamp": 1761970930,
+    "timestamp_local": 1761970930
+  },
+  {
+    "id": 28030,
+    "fecha": "01 de Nov del 2025 a las 12:17 AM",
+    "hora_utc": "2025-11-01 04:17",
+    "mensaje": "CIRCUITO PROXIMO A RESTABLECER\n\nCircuito  4819 que da servicio a Poblado de Carlos Rojas.\n\nCircuito 4475 que da servicio a Jaguey.",
+    "timestamp": 1761970679,
+    "timestamp_local": 1761970679
+  },
+  {
     "id": 28029,
     "fecha": "31 de Oct del 2025 a las 11:44 PM",
     "hora_utc": "2025-11-01 03:44",
@@ -142,21 +158,5 @@
     "mensaje": "__Circuitos no apagables que estaránafectados debido al alto déficit:  __\n\n__ GI101, JI48, CI185, Z130   de 19:00 a 01:00__\n\n__ 5223 de 19:00 a 02:00__",
     "timestamp": 1761944504,
     "timestamp_local": 1761944504
-  },
-  {
-    "id": 28009,
-    "fecha": "31 de Oct del 2025 a las 04:04 PM",
-    "hora_utc": "2025-10-31 20:04",
-    "mensaje": "CON SERVICIO.\n\nCIRCUITO 4072 que da servicio a Cítrico y Agramonte",
-    "timestamp": 1761941071,
-    "timestamp_local": 1761941071
-  },
-  {
-    "id": 28008,
-    "fecha": "31 de Oct del 2025 a las 04:00 PM",
-    "hora_utc": "2025-10-31 20:00",
-    "mensaje": "Actualizamos el déficit por capacidad de generación:  73   MW.",
-    "timestamp": 1761940812,
-    "timestamp_local": 1761940812
   }
 ]
