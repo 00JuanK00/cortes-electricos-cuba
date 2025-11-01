@@ -1,5 +1,21 @@
 [
   {
+    "id": 95453,
+    "fecha": "01 de Nov del 2025 a las 09:01 AM",
+    "hora_utc": "2025-11-01 13:01",
+    "mensaje": "🚨Por déficit de capacidad de generación se afecta el servicio en los circuitos:\n*6 y 8 San José 🚨",
+    "timestamp": 1762002060,
+    "timestamp_local": 1762002060
+  },
+  {
+    "id": 95452,
+    "fecha": "01 de Nov del 2025 a las 08:28 AM",
+    "hora_utc": "2025-11-01 12:28",
+    "mensaje": "🚨Por déficit de capacidad de generación se afecta el servicio en el  circuito:\n*Camilo 🚨",
+    "timestamp": 1762000099,
+    "timestamp_local": 1762000099
+  },
+  {
     "id": 95451,
     "fecha": "01 de Nov del 2025 a las 08:12 AM",
     "hora_utc": "2025-11-01 12:12",
@@ -35,7 +51,7 @@
     "id": 95446,
     "fecha": "01 de Nov del 2025 a las 07:05 AM",
     "hora_utc": "2025-11-01 11:05",
-    "mensaje": "🔷♦️Se restablece el servicio en el siguiente circuito que se encontraba afectado por déficit de capacidad de generación: \n*Jaruco  🔷♦️",
+    "mensaje": "🚨Por déficit de capacidad de generación se afecta el servicio en el circuito:\n*Jaruco🚨",
     "timestamp": 1761995142,
     "timestamp_local": 1761995142
   },
@@ -94,21 +110,5 @@
     "mensaje": "♦️Se afecta el servicio en los siguientes circuitos por DAF: \n*3590\n*3140♦️",
     "timestamp": 1761986140,
     "timestamp_local": 1761986140
-  },
-  {
-    "id": 95433,
-    "fecha": "01 de Nov del 2025 a las 12:20 AM",
-    "hora_utc": "2025-11-01 04:20",
-    "mensaje": "🔷♦️Se restablece el servicio en el siguiente circuito que se encontraba afectado por déficit de capacidad de generación: \n*Nueva Paz 🔷♦️",
-    "timestamp": 1761970808,
-    "timestamp_local": 1761970808
-  },
-  {
-    "id": 95432,
-    "fecha": "01 de Nov del 2025 a las 12:09 AM",
-    "hora_utc": "2025-11-01 04:09",
-    "mensaje": "🔷♦️Se restablece el servicio en el siguiente circuito que se encontraba afectado por déficit de capacidad de generación: \n*Catalina 1 y 2🔷♦️",
-    "timestamp": 1761970184,
-    "timestamp_local": 1761970184
   }
 ]
