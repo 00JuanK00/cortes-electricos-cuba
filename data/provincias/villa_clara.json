@@ -1,5 +1,29 @@
 [
   {
+    "id": 32886,
+    "fecha": "01 de Nov del 2025 a las 03:00 PM",
+    "hora_utc": "2025-11-01 19:00",
+    "mensaje": "Afectados 97 MW en la provincia, demanda máxima a apagar en estos momentos.",
+    "timestamp": 1762023601,
+    "timestamp_local": 1762023601
+  },
+  {
+    "id": 32885,
+    "fecha": "01 de Nov del 2025 a las 02:56 PM",
+    "hora_utc": "2025-11-01 18:56",
+    "mensaje": "⚠️En déficit de capacidad de generación los circuitos siguientes:🔹Municipio Placetas:\n👉Cto 101 y 145 Cumbre",
+    "timestamp": 1762023410,
+    "timestamp_local": 1762023410
+  },
+  {
+    "id": 32884,
+    "fecha": "01 de Nov del 2025 a las 02:51 PM",
+    "hora_utc": "2025-11-01 18:51",
+    "mensaje": "⚠️En déficit de capacidad de generación los circuitos siguientes:\n🔹Municipio Camajuaní:\n👉Ctos  73 y 156 \n👉Cto 74 José María Pérez\n🔹Municipio Santa Clara\n👉Cto 30 (Santa Clara industrial)",
+    "timestamp": 1762023066,
+    "timestamp_local": 1762023066
+  },
+  {
     "id": 32883,
     "fecha": "01 de Nov del 2025 a las 02:46 PM",
     "hora_utc": "2025-11-01 18:46",
@@ -134,29 +158,5 @@
     "mensaje": "🛠️Vía Libre.🛠️\n👉Afectado por una Vía Libre el Cto 96 (Bermejal) perteneciente al Municipio Santo Domingo para cambio de un transformador dañado.",
     "timestamp": 1762012307,
     "timestamp_local": 1762012307
-  },
-  {
-    "id": 32866,
-    "fecha": "01 de Nov del 2025 a las 11:28 AM",
-    "hora_utc": "2025-11-01 15:28",
-    "mensaje": "Afectados 61 MW en la provincia, demanda máxima a apagar en estos momentos.",
-    "timestamp": 1762010931,
-    "timestamp_local": 1762010931
-  },
-  {
-    "id": 32865,
-    "fecha": "01 de Nov del 2025 a las 10:57 AM",
-    "hora_utc": "2025-11-01 14:57",
-    "mensaje": "📣Se le reitera a nuestros clientes que deben desconectar todos los equipos, para evitar que se les dañen cuando existe oscilaciones de voltaje , ya sea alto o bajo Voltaje, al ser reparada la avería,  deben esperar un tiempo prudencial para conectar los equipos  y espere a que se encuentren estable el servicio eléctrico y el voltaje.",
-    "timestamp": 1762009070,
-    "timestamp_local": 1762009070
-  },
-  {
-    "id": 32864,
-    "fecha": "01 de Nov del 2025 a las 10:46 AM",
-    "hora_utc": "2025-11-01 14:46",
-    "mensaje": "⚡Avería.⚡\n👉Afectado el Cto 122(Encrucijada) por bajo Voltaje, se estudian las causas que provocan esa avería.",
-    "timestamp": 1762008373,
-    "timestamp_local": 1762008373
   }
 ]
