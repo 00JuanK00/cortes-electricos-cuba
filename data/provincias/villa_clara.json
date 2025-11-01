@@ -1,5 +1,37 @@
 [
   {
+    "id": 32890,
+    "fecha": "01 de Nov del 2025 a las 03:44 PM",
+    "hora_utc": "2025-11-01 19:44",
+    "mensaje": "🔴A las 13:20  del dia de hoy || Fuera de línea la Unidad 3 de la CTE Carlos Manuel de Céspedes, en vía libre de emergencia por avería en bomba de petróleo.",
+    "timestamp": 1762026263,
+    "timestamp_local": 1762026263
+  },
+  {
+    "id": 32889,
+    "fecha": "01 de Nov del 2025 a las 03:41 PM",
+    "hora_utc": "2025-11-01 19:41",
+    "mensaje": "Afectados 99 MW en la provincia, demanda máxima a apagar en estos momentos.",
+    "timestamp": 1762026068,
+    "timestamp_local": 1762026068
+  },
+  {
+    "id": 32888,
+    "fecha": "01 de Nov del 2025 a las 03:24 PM",
+    "hora_utc": "2025-11-01 19:24",
+    "mensaje": "⚠️En déficit de capacidad de generación los circuitos siguientes:\n🔹Municipio Santa Clara\n👉 Cto 153 (EIDE)",
+    "timestamp": 1762025064,
+    "timestamp_local": 1762025064
+  },
+  {
+    "id": 32887,
+    "fecha": "01 de Nov del 2025 a las 03:17 PM",
+    "hora_utc": "2025-11-01 19:17",
+    "mensaje": "⚠️En déficit de capacidad de generación los circuitos siguientes:\n🔹Municipio Santa Clara\n👉Cto 169 (Condado)\n🔹Municipio Ranchuelo: \n👉Ctos 89, 97, 188 y 189\n👉Ctos 148 y 149 San Juan\n👉Cto 91 Batey Osvaldo Herrera\n👉Cto 181 Batey Ifraín Alfonso\n🔹Municipio Remedios:\n👉Ctos 67 y 152, 68 y 118 \n👉Ctos 69 y 70 Zuluetas\n👉Cto 143 Batey Heriberto Duquesne\n👉Cto 71 Buena Vista",
+    "timestamp": 1762024648,
+    "timestamp_local": 1762024648
+  },
+  {
     "id": 32886,
     "fecha": "01 de Nov del 2025 a las 03:00 PM",
     "hora_utc": "2025-11-01 19:00",
@@ -27,7 +59,7 @@
     "id": 32883,
     "fecha": "01 de Nov del 2025 a las 02:46 PM",
     "hora_utc": "2025-11-01 18:46",
-    "mensaje": "⚠️En déficit de capacidad de generación los circuitos siguientes:🔹Municipio Santa Clara\n👉Ctos 1 y  2 (Consejo- Centro)\n🔹Municipio Santo Domingo:\n👉Cto 134\n👉Ctos 87 Bermejal\n👉Cto 187 Batey Carlos Baliño\n👉Cto 82 Ulacia\n👉Cto 84 Rodrigo",
+    "mensaje": "⚠️En déficit de capacidad de generación los circuitos siguientes:🔹Municipio Santa Clara\n👉Ctos 1 y  2 (Consejo- Centro)\n🔹Municipio Santo Domingo:\n👉Cto 134",
     "timestamp": 1762022787,
     "timestamp_local": 1762022787
   },
@@ -91,7 +123,7 @@
     "id": 32875,
     "fecha": "01 de Nov del 2025 a las 01:42 PM",
     "hora_utc": "2025-11-01 17:42",
-    "mensaje": "⚡Disparo por DAF⚡\n➡️Afectadas Lineas 1910 y 1960 por DAF.\nLínea 1910\n🔹Municipio Placetas \n👉Ctos 98 y 99 Placetas\n👉Ctos 100 y 151 Placetas\n👉Cto 104 Hermanos Amejeiras\n👉Cto 103 Batey Carbó Servia\nLínea 1960 \n🔹Municipio Encrucijada\n👉Cto 120 Calabazar\n👉Ctos 121 y 127 Perucho",
+    "mensaje": "⚡Disparo por DAF⚡\n➡️Afectadas Lineas 1910 y 1960 por DAF.\nLínea 1910\n🔹Municipio Placetas \n👉Ctos 98 y 99 Placetas(Déficit)\n👉Ctos 100 y 151 Placetas\n👉Cto 104 Hermanos Amejeiras\n👉Cto 103 Batey Carbó Servia\nLínea 1960 \n🔹Municipio Encrucijada\n👉Cto 120 Calabazar\n👉Ctos 121 y 127 Perucho",
     "timestamp": 1762018933,
     "timestamp_local": 1762018933
   },
@@ -126,37 +158,5 @@
     "mensaje": "💡Restablecido el servicio eléctrico en Linea 6585.\n\n➡️Línea 6585  \n🔹Municipio Camajuaní:\n👉Ctos 72 y 129 Camajuani\n👉Cto 75 La Quinta\n👉Cto 157 Luis Arcos Bergnes\n👉Ctos 76 y 90 Vega Alta\n👉Ctos 77 y 185 Vueltas )Continúan afectados por déficit de capacidad de generación)\n👉Cto 59 Vueltas",
     "timestamp": 1762015796,
     "timestamp_local": 1762015796
-  },
-  {
-    "id": 32870,
-    "fecha": "01 de Nov del 2025 a las 12:23 PM",
-    "hora_utc": "2025-11-01 16:23",
-    "mensaje": "🕛Actualización del servicio eléctrico en las últimas 6 horas.\n✍️El déficit de capacidad de generación osciló entre los 55 MW y los 69MW.\n✍️En el momento de esta nota, se mantienen afectados 54 circuitos.\n✍️Cuenta con 82 afectaciones por averías secundarias y de servicio:\n🔸Camajuaní (4)\n🔸Cifuentes (1)\n🔸Encrucijada (4)\n🔸Manicaragua (6)\n🔸Placetas (1)\n🔸Ranchuelo (4)\n🔸Remedios (8)\n🔸Sagua (8)\n🔸Santa Clara (4)\n🔸Santo Domingo (11)\n🛠️Se encuentran 8 averías en vías de solución\n.🛠️Pendientes a solucionar por el área técnica 23\n.🛠️En el momento de esta nota se encuentra afectado el Cto 96(Bermejal ) perteneciente al Municipio santo Domingo para cambio de  Transformador dañado.",
-    "timestamp": 1762014227,
-    "timestamp_local": 1762014227
-  },
-  {
-    "id": 32869,
-    "fecha": "01 de Nov del 2025 a las 12:12 PM",
-    "hora_utc": "2025-11-01 16:12",
-    "mensaje": "💡Restablecido el servicio eléctrico en Linea 1955.\n➡️Línea 1955  \n🔹Municipio Encrucijada:\n👉Cto 122 Encrucijada \n👉Cto 123 Vizcaya \n👉Cto 142 Comunidad La Sierra \n👉Cto 126 Batey Emilio Córdova\n👉Cto 125 Cavarrocas\n👉Cto 124 El Santo\n🔹Municipio Camajuaní:\n👉Cto 78 Jutiero",
-    "timestamp": 1762013531,
-    "timestamp_local": 1762013531
-  },
-  {
-    "id": 32868,
-    "fecha": "01 de Nov del 2025 a las 11:56 AM",
-    "hora_utc": "2025-11-01 15:56",
-    "mensaje": "🛠️Manipulación.🛠️\n\nAfectada linea 1955 por manipulación para reponer Servicio Eléctrico en al Cto 122 (Encrucijada).\n\n➡️Línea 1955  \n🔹Municipio Encrucijada:\n👉Cto 122 Encrucijada \n👉Cto 123 Vizcaya \n👉Cto 142 Comunidad La Sierra \n👉Cto 126 Batey Emilio Córdova\n👉Cto 125 Cavarrocas\n👉Cto 124 El Santo\n🔹Municipio Camajuaní:\n👉Cto 78 Jutiero",
-    "timestamp": 1762012616,
-    "timestamp_local": 1762012616
-  },
-  {
-    "id": 32867,
-    "fecha": "01 de Nov del 2025 a las 11:51 AM",
-    "hora_utc": "2025-11-01 15:51",
-    "mensaje": "🛠️Vía Libre.🛠️\n👉Afectado por una Vía Libre el Cto 96 (Bermejal) perteneciente al Municipio Santo Domingo para cambio de un transformador dañado.",
-    "timestamp": 1762012307,
-    "timestamp_local": 1762012307
   }
 ]
