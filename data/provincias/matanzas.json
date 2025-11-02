@@ -1,5 +1,21 @@
 [
   {
+    "id": 28104,
+    "fecha": "02 de Nov del 2025 a las 04:35 PM",
+    "hora_utc": "2025-11-02 21:35",
+    "mensaje": "La afectación que presenta la provincia en estos momentos es de**__ 115 MW __**por déficit de capacidad de generación",
+    "timestamp": 1762119300,
+    "timestamp_local": 1762119300
+  },
+  {
+    "id": 28103,
+    "fecha": "02 de Nov del 2025 a las 04:32 PM",
+    "hora_utc": "2025-11-02 21:32",
+    "mensaje": "**__A continuación se informan los circuitos no apagables que se afectarán debido al alto déficit:__**\n\n------GI101, JI48, Z130, CI185, Z1183 de 17:30 a 22:30\n\n-------5223 de 17:30 a 00:30",
+    "timestamp": 1762119153,
+    "timestamp_local": 1762119153
+  },
+  {
     "id": 28102,
     "fecha": "02 de Nov del 2025 a las 03:55 PM",
     "hora_utc": "2025-11-02 20:55",
@@ -142,21 +158,5 @@
     "mensaje": "Se reporta transformador dañado en Jovellanos Circuito MK68, afecta a Finca Aguas Nuevas con 50 clientes",
     "timestamp": 1762089142,
     "timestamp_local": 1762089142
-  },
-  {
-    "id": 28084,
-    "fecha": "02 de Nov del 2025 a las 07:53 AM",
-    "hora_utc": "2025-11-02 12:53",
-    "mensaje": "⚡La afectación de nuestra provincia es de 85 MW por déficit de capacidad de generación. ⚡",
-    "timestamp": 1762088022,
-    "timestamp_local": 1762088022
-  },
-  {
-    "id": 28083,
-    "fecha": "02 de Nov del 2025 a las 06:19 AM",
-    "hora_utc": "2025-11-02 11:19",
-    "mensaje": "⚡La afectación de nuestra provincia es de 86 MW por déficit de capacidad de generación. ⚡",
-    "timestamp": 1762082340,
-    "timestamp_local": 1762082340
   }
 ]
