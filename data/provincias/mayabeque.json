@@ -1,5 +1,37 @@
 [
   {
+    "id": 95622,
+    "fecha": "02 de Nov del 2025 a las 09:06 PM",
+    "hora_utc": "2025-11-03 02:06",
+    "mensaje": "♦️ Afectado el servicio en el circuito Babiney por avería ♦️",
+    "timestamp": 1762135600,
+    "timestamp_local": 1762135600
+  },
+  {
+    "id": 95621,
+    "fecha": "02 de Nov del 2025 a las 08:44 PM",
+    "hora_utc": "2025-11-03 01:44",
+    "mensaje": "🚨Por déficit de capacidad de generación se afecta el servicio en el siguiente circuito:\n* La Salud 1  🚨",
+    "timestamp": 1762134260,
+    "timestamp_local": 1762134260
+  },
+  {
+    "id": 95620,
+    "fecha": "02 de Nov del 2025 a las 08:42 PM",
+    "hora_utc": "2025-11-03 01:42",
+    "mensaje": "🚨Por déficit de capacidad de generación se afecta el servicio en los siguientes circuitos:\n* Sopapo 1 y 2 \n* Bío -2 🚨",
+    "timestamp": 1762134152,
+    "timestamp_local": 1762134152
+  },
+  {
+    "id": 95619,
+    "fecha": "02 de Nov del 2025 a las 08:28 PM",
+    "hora_utc": "2025-11-03 01:28",
+    "mensaje": "🔷 Restablecido el servicio en el circuito 3140 que se encontraba afectado por disparo por DAF 🔷",
+    "timestamp": 1762133312,
+    "timestamp_local": 1762133312
+  },
+  {
     "id": 95616,
     "fecha": "02 de Nov del 2025 a las 07:40 PM",
     "hora_utc": "2025-11-03 00:40",
@@ -110,45 +142,5 @@
     "mensaje": "🚨Por déficit de capacidad de generación se afecta el servicio en el siguiente circuito:\n* Güines 4 🚨",
     "timestamp": 1762123761,
     "timestamp_local": 1762123761
-  },
-  {
-    "id": 95602,
-    "fecha": "02 de Nov del 2025 a las 05:46 PM",
-    "hora_utc": "2025-11-02 22:46",
-    "mensaje": "🚨Por déficit de capacidad de generación se afecta el servicio en el siguiente circuito:\n* ML -35 🚨",
-    "timestamp": 1762123564,
-    "timestamp_local": 1762123564
-  },
-  {
-    "id": 95601,
-    "fecha": "02 de Nov del 2025 a las 05:21 PM",
-    "hora_utc": "2025-11-02 22:21",
-    "mensaje": "🚨 Continúa afectado el servicio por déficit de capacidad de generación en el circuito San Nicolás 3 🚨",
-    "timestamp": 1762122077,
-    "timestamp_local": 1762122077
-  },
-  {
-    "id": 95600,
-    "fecha": "02 de Nov del 2025 a las 05:19 PM",
-    "hora_utc": "2025-11-02 22:19",
-    "mensaje": "🔷 Restablecido el servicio en el circuito 3655 por manipulación 🔷",
-    "timestamp": 1762121966,
-    "timestamp_local": 1762121966
-  },
-  {
-    "id": 95599,
-    "fecha": "02 de Nov del 2025 a las 05:05 PM",
-    "hora_utc": "2025-11-02 22:05",
-    "mensaje": "♦️ Afectado el servicio en el circuito 3590 por disparo por DAF ♦️",
-    "timestamp": 1762121107,
-    "timestamp_local": 1762121107
-  },
-  {
-    "id": 95598,
-    "fecha": "02 de Nov del 2025 a las 05:03 PM",
-    "hora_utc": "2025-11-02 22:03",
-    "mensaje": "🚨Por déficit de capacidad de generación se afecta el servicio en los siguientes circuitos:\n* 1790\n* Bío -1 🚨",
-    "timestamp": 1762121033,
-    "timestamp_local": 1762121033
   }
 ]
