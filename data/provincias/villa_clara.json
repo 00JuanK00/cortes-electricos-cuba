@@ -1,5 +1,21 @@
 [
   {
+    "id": 33028,
+    "fecha": "03 de Nov del 2025 a las 06:44 PM",
+    "hora_utc": "2025-11-03 23:44",
+    "mensaje": "⚠️ En  déficit de capacidad de generación el circuito siguiente:\n🔹Municipio Santa Clara;\n👉Cto 153 EIDE",
+    "timestamp": 1762213452,
+    "timestamp_local": 1762213452
+  },
+  {
+    "id": 33027,
+    "fecha": "03 de Nov del 2025 a las 06:16 PM",
+    "hora_utc": "2025-11-03 23:16",
+    "mensaje": "⚠️ En  déficit de capacidad de generación los circuitos siguientes:\n🔹Municipio Santa Clara\n👉Cto 1 y Cto 2 ( Consejo-Centro)",
+    "timestamp": 1762211771,
+    "timestamp_local": 1762211771
+  },
+  {
     "id": 33026,
     "fecha": "03 de Nov del 2025 a las 05:38 PM",
     "hora_utc": "2025-11-03 22:38",
@@ -142,21 +158,5 @@
     "mensaje": "💡Restablecido linea 1915 perteneciente al municipio de Placetas",
     "timestamp": 1762199225,
     "timestamp_local": 1762199225
-  },
-  {
-    "id": 33008,
-    "fecha": "03 de Nov del 2025 a las 02:45 PM",
-    "hora_utc": "2025-11-03 19:45",
-    "mensaje": "⚡Disparo por DAF linea 1910 perteneciente al municipio de Placetas afectando los siguientes circuitos: \n🔹Municipio Placetas \nCtos 98 y 99 Placetas\nCtos 100 y 151 Placetas\nCto 104 Hermanos Amejeiras\nCto 103 Batey Carbó Servia",
-    "timestamp": 1762199142,
-    "timestamp_local": 1762199142
-  },
-  {
-    "id": 33007,
-    "fecha": "03 de Nov del 2025 a las 02:42 PM",
-    "hora_utc": "2025-11-03 19:42",
-    "mensaje": "⚡Disparo del circuito 50 Sagua , se estudian las causas",
-    "timestamp": 1762198970,
-    "timestamp_local": 1762198970
   }
 ]
