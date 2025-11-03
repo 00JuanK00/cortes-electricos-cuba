@@ -1,9 +1,25 @@
 [
   {
+    "id": 95751,
+    "fecha": "03 de Nov del 2025 a las 05:40 PM",
+    "hora_utc": "2025-11-03 22:40",
+    "mensaje": "🔷Restablecido el servicio en el circuito 3140 que se encontraba afectado por disparo por DAF🔷",
+    "timestamp": 1762209635,
+    "timestamp_local": 1762209635
+  },
+  {
+    "id": 95750,
+    "fecha": "03 de Nov del 2025 a las 05:27 PM",
+    "hora_utc": "2025-11-03 22:27",
+    "mensaje": "♦️Afectado el servicio en el circuito 3140 por disparo por DAF♦️",
+    "timestamp": 1762208850,
+    "timestamp_local": 1762208850
+  },
+  {
     "id": 95748,
     "fecha": "03 de Nov del 2025 a las 04:38 PM",
     "hora_utc": "2025-11-03 21:38",
-    "mensaje": "🔷♦️Se restablece el servicio en el siguiente circuito que se encontraba afectado por déficit de capacidad de generación: \n*Jamaica 🔷♦️",
+    "mensaje": "🔷♦️Se restablece el servicio en el siguiente circuito que se encontraba afectado por déficit de capacidad de generación: \n*Jamaica 🔷♦️\n\n🔷Restablecido el servicio en el circuito 3140 que se encontraba afectado por disparo por DAF🔷",
     "timestamp": 1762205901,
     "timestamp_local": 1762205901
   },
@@ -110,29 +126,5 @@
     "mensaje": "♦️Afectado el servicio en el circuito 3140 por disparo por DAF♦️",
     "timestamp": 1762198120,
     "timestamp_local": 1762198120
-  },
-  {
-    "id": 95731,
-    "fecha": "03 de Nov del 2025 a las 02:27 PM",
-    "hora_utc": "2025-11-03 19:27",
-    "mensaje": "🚨Por déficit de capacidad de generación se afecta el servicio en el siguiente circuito:\n*3655🚨",
-    "timestamp": 1762198054,
-    "timestamp_local": 1762198054
-  },
-  {
-    "id": 95730,
-    "fecha": "03 de Nov del 2025 a las 02:27 PM",
-    "hora_utc": "2025-11-03 19:27",
-    "mensaje": "♦️Afectado el servicio en el circuito 3590 por disparo por DAF♦️",
-    "timestamp": 1762198029,
-    "timestamp_local": 1762198029
-  },
-  {
-    "id": 95729,
-    "fecha": "03 de Nov del 2025 a las 02:20 PM",
-    "hora_utc": "2025-11-03 19:20",
-    "mensaje": "📣🚨Continúa afectado el servicio en el circuito 4110 por avería🚨📣",
-    "timestamp": 1762197615,
-    "timestamp_local": 1762197615
   }
 ]
