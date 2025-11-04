@@ -1,5 +1,13 @@
 [
   {
+    "id": 17080,
+    "fecha": "04 de Nov del 2025 a las 12:41 AM",
+    "hora_utc": "2025-11-04 05:41",
+    "mensaje": "QUE SIGNIFICA E IMPLICA LA MÁXIMA CAPACIDAD APAGABLE EN LA PROVINCIA:    \n                                                                                             Máxima capacidad apagable se refiere al nivel máximo de demanda eléctrica que puede ser desconectada o suspendida temporalmente en la provincia, explica la complejidad del déficit de generación o contingencias en el sistema eléctrico.\n\nRepresenta el límite superior de la reducción de carga que la empresa puede lograr mediante cortes de energía (apagones). Cuanto mayor sea la máxima capacidad apagable, mayor será el déficit de energía.\n\n¿Qué implica esto?\nSe identifica cuántos circuitos pueden ser apagados para equilibrar la carga del sistema, esto imposibilita realizar rotaciones, pues a \nexcepción de los servicios priorizados, se encuentran afectados todos los circuitos apagables del territorio. Podrán presentarse afectaciones \nen el servicio de electricidad durante varias horas al día y el tiempo con servicio dependerá del comportamiento del SEN. \n\nEsta medida es \nnecesaria para evitar fallas mayores y proteger la infraestructura eléctrica.",
+    "timestamp": 1762234912,
+    "timestamp_local": 1762234912
+  },
+  {
     "id": 17079,
     "fecha": "03 de Nov del 2025 a las 09:33 PM",
     "hora_utc": "2025-11-04 02:33",
@@ -94,13 +102,5 @@
     "mensaje": "Nota Informativa: Estado del Sistema Eléctrico Nacional (SEN) – 2 de noviembre de 2025\n\nEn el día de ayer se afectó el servicio las 24 horas y se mantuvo afectado durante toda la madrugada de hoy. La máxima afectación por déficit de capacidad de generación en el día de ayer fue de 1272 MW a las 19:00 horas. Afectados además 560 MW en las provincias de Tunas a Guantánamo por el paso del Huracán Melissa.\n\nLa producción de energía de los 21 nuevos parques solares fotovoltaicos de la zona Occidente – Centro fue de 1690 MWh, con 320 MW como máxima potencia entregada en el horario de la media con esta fuente de generación.\n\nEstado actual del SEN\n\nLa disponibilidad del SEN a las 06:00 horas es de 1327 MW y la demanda 1790 MW con 490 MW afectados por déficit de capacidad. En el horario de la media se estima una afectación de 470 MW.\n\nPrincipales incidencias\n\nAvería: Unidad 2 de la CTE Felton y la Unidad 5 de la CTE Diez de Octubre.\n\nMantenimiento: Unidad 2 de la CTE Santa Cruz, Unidad 4 de la CTE Carlos Manuel de Céspedes en Cienfuegos.\n\nLimitaciones en la generación térmica: 547 MW fuera de servicio.\n\nProblemas por falta de combustible\n\n50 centrales de generación distribuida con 342 MW.\n\n141 MW indisponibles por falta de lubricante.\n\nTotal de MW afectados por esta causa: 483 MW.\n\nPronóstico para el horario pico\n\nPara el pico se estima la entrada de la unidad 1 de la CTE Felton con 200 MW que ya se encuentra en proceso de arranque.\n\nCon este pronóstico en el horario pico se estima una disponibilidad de 1527 MW y una demanda máxima de 2600 MW, para un déficit de 1073 MW, por lo que de mantenerse las condiciones previstas se pronostica una afectación de 1143 MW en este horario.",
     "timestamp": 1762092132,
     "timestamp_local": 1762092132
-  },
-  {
-    "id": 17060,
-    "fecha": "01 de Nov del 2025 a las 06:42 PM",
-    "hora_utc": "2025-11-01 22:42",
-    "mensaje": "Se declara en avería en circuito TK14 Cayojo.",
-    "timestamp": 1762036940,
-    "timestamp_local": 1762036940
   }
 ]
