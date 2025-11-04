@@ -1,5 +1,29 @@
 [
   {
+    "id": 33031,
+    "fecha": "03 de Nov del 2025 a las 07:34 PM",
+    "hora_utc": "2025-11-04 00:34",
+    "mensaje": "Afectados 139 MW en la provincia, demanda máxima a apagar en estos momentos.",
+    "timestamp": 1762216469,
+    "timestamp_local": 1762216469
+  },
+  {
+    "id": 33030,
+    "fecha": "03 de Nov del 2025 a las 06:58 PM",
+    "hora_utc": "2025-11-03 23:58",
+    "mensaje": "⚠️ En  déficit de capacidad de generación el circuito siguiente:\n🔹Municipio Santa Clara:\n👉 Cto 16 Cubanacán\n👉Ctos 23 y 130 La Ceniza\n👉Cto 42 Manajanabo\n🔹Municipio Placetas\n👉Cto 139 Miller\n👉Cto 190 Oliver\n👉Cto 106 Falcón",
+    "timestamp": 1762214304,
+    "timestamp_local": 1762214304
+  },
+  {
+    "id": 33029,
+    "fecha": "03 de Nov del 2025 a las 06:52 PM",
+    "hora_utc": "2025-11-03 23:52",
+    "mensaje": "🕕Actualización del servicio eléctrico en las últimas 6 horas.\n✍️El déficit de capacidad de generación osciló entre los 96 MW y los 140  MW.\n✍️En el momento de esta nota, se mantienen afectados 129 circuitos.\n✍️Cuenta con 53 afectaciones por averías secundarias y de servicio:\n🔸Caibarien (5)\n🔸Camajuani (3)\n🔸Cifuentes (2)\n🔸Corralillo (3)\n🔸Encrucijada (1)\n🔸Manicaragua (4)\n🔸Placetas (2)\n🔸Ranchuelo (5)\n🔸Remedios (2)\n🔸Sagua (4)\n🔸Santa Clara ( 13)\n🔸Santo Domingo (9)\n🛠️Se encuentran 5 averías en vías de solución\n🛠️Pendientes a solucionar por el área técnica 6\n🔹 La provincia no presenta averías primarias",
+    "timestamp": 1762213943,
+    "timestamp_local": 1762213943
+  },
+  {
     "id": 33028,
     "fecha": "03 de Nov del 2025 a las 06:44 PM",
     "hora_utc": "2025-11-03 23:44",
@@ -134,29 +158,5 @@
     "mensaje": "🟢 En el dia de hoy 3 de noviembre de 2025 a las 13:34 || En línea la Unidad 1 de la CTE Lidio Ramón Pérez \"Felton\".",
     "timestamp": 1762200675,
     "timestamp_local": 1762200675
-  },
-  {
-    "id": 33011,
-    "fecha": "03 de Nov del 2025 a las 02:56 PM",
-    "hora_utc": "2025-11-03 19:56",
-    "mensaje": "⚡Disparo por DAF linea 1920 perteneciente al municipio de Placetas \nLínea 1920\n🔹Municipio Placetas:\n👉Cto 101 y 145 Cumbre\n👉Cto 107 Baez\n👉Cto 105 Nazareno",
-    "timestamp": 1762199786,
-    "timestamp_local": 1762199786
-  },
-  {
-    "id": 33010,
-    "fecha": "03 de Nov del 2025 a las 02:48 PM",
-    "hora_utc": "2025-11-03 19:48",
-    "mensaje": "⚠️Continua afectado por déficit de capacidad de generación linea 1955 perteneciente al municipio de Encrucijada afectando los siguientes circuitos:\n👉Cto 122 Encrucijada \n👉Cto 123 Vizcaya \n👉Cto 142 Comunidad La Sierra \n👉Cto 126 Batey Emilio Córdova\n👉Cto 125 Cavarrocas\n👉Cto 124 El Santo\n🔹Municipio Camajuaní:\n👉Cto 78 Jutiero",
-    "timestamp": 1762199310,
-    "timestamp_local": 1762199310
-  },
-  {
-    "id": 33009,
-    "fecha": "03 de Nov del 2025 a las 02:47 PM",
-    "hora_utc": "2025-11-03 19:47",
-    "mensaje": "💡Restablecido linea 1915 perteneciente al municipio de Placetas",
-    "timestamp": 1762199225,
-    "timestamp_local": 1762199225
   }
 ]
