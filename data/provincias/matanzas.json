@@ -1,5 +1,21 @@
 [
   {
+    "id": 28185,
+    "fecha": "04 de Nov del 2025 a las 10:30 AM",
+    "hora_utc": "2025-11-04 15:30",
+    "mensaje": "⚡La afectación de nuestra provincia es de 109 MW por déficit de capacidad de generación. ⚡",
+    "timestamp": 1762270214,
+    "timestamp_local": 1762270214
+  },
+  {
+    "id": 28184,
+    "fecha": "04 de Nov del 2025 a las 10:17 AM",
+    "hora_utc": "2025-11-04 15:17",
+    "mensaje": "⚠Circuitos no apagables que estarán afectados debido al alto déficit: ⚠\n\n🔸GI101, Z1183 y JI48 de 11:00 a 13:00\n🔸GI101, JI48, Z130, Z1183 y CI185 de 18:00 a 23:30\n🔸5223 de 18:00 a 00:00",
+    "timestamp": 1762269431,
+    "timestamp_local": 1762269431
+  },
+  {
     "id": 28183,
     "fecha": "04 de Nov del 2025 a las 09:41 AM",
     "hora_utc": "2025-11-04 14:41",
@@ -142,21 +158,5 @@
     "mensaje": "PROXIMOS A RESTABLECER.\n\n**-Circuito. 4405 que da servicio a Limonar, Carbonera, Guanábana.**\n** Circuito   4071:**\n**       MK1150 que da servicio **Población y Acueducto La Carlota, Bateyes (Junco, La Mulata, El Mamey, La Piña, Teheran), Turbinas de Riego de Plátano.\n      MK 078 Población y Acueducto La Isabel, Bateyes Sofia y Ciro Redondo, Fábrica de Embutidos Ciro Redondo, Turbinas de Riego de Plátano.",
     "timestamp": 1762227990,
     "timestamp_local": 1762227990
-  },
-  {
-    "id": 28165,
-    "fecha": "03 de Nov del 2025 a las 10:37 PM",
-    "hora_utc": "2025-11-04 03:37",
-    "mensaje": "PROXIMOS A RESTABLECER\n\nCircuito 725 (MJ143) Rápido de Versalles, panadería, zona baja de Versalles desde Isabel 1era hasta calle 3era y desde Narciso López hasta calle Unión.\n** **Circuito 725 (MJ 147) Rebombeo de la Cumbre y desde calle Poza hasta Santa Cristina y desde San Isidro hasta Aranguren.\nCircuito **MK1456** queda servicio a Calzada de San Luis hasta Parque Maceo y La Jaiba.**-** \n**Circuito **MI1454 que da servicio a Compostela",
-    "timestamp": 1762227430,
-    "timestamp_local": 1762227430
-  },
-  {
-    "id": 28164,
-    "fecha": "03 de Nov del 2025 a las 10:31 PM",
-    "hora_utc": "2025-11-04 03:31",
-    "mensaje": "Actualizamos el déficit por capacidad de generación: 125  MW.",
-    "timestamp": 1762227073,
-    "timestamp_local": 1762227073
   }
 ]
