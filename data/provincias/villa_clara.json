@@ -1,5 +1,29 @@
 [
   {
+    "id": 33146,
+    "fecha": "05 de Nov del 2025 a las 05:00 PM",
+    "hora_utc": "2025-11-05 22:00",
+    "mensaje": "Afectados 104 MW en la provincia, demanda máxima a apagar en estos momentos.",
+    "timestamp": 1762380056,
+    "timestamp_local": 1762380056
+  },
+  {
+    "id": 33145,
+    "fecha": "05 de Nov del 2025 a las 04:56 PM",
+    "hora_utc": "2025-11-05 21:56",
+    "mensaje": "⚠️ En  déficit de capacidad de generación los circuitos siguientes:\n🔹Municipio Santa Clara:\n👉Ctos 14,  15 y 27 (Maleza)\n👉Cto 144 (Camacho)",
+    "timestamp": 1762379816,
+    "timestamp_local": 1762379816
+  },
+  {
+    "id": 33144,
+    "fecha": "05 de Nov del 2025 a las 04:52 PM",
+    "hora_utc": "2025-11-05 21:52",
+    "mensaje": "Afectados 92 MW en la provincia, demanda máxima a apagar en estos momentos.",
+    "timestamp": 1762379578,
+    "timestamp_local": 1762379578
+  },
+  {
     "id": 33143,
     "fecha": "05 de Nov del 2025 a las 04:30 PM",
     "hora_utc": "2025-11-05 21:30",
@@ -126,29 +150,5 @@
     "mensaje": "Afectados 90MW en la provincia, demanda máxima a apagar en estos momentos.",
     "timestamp": 1762363455,
     "timestamp_local": 1762363455
-  },
-  {
-    "id": 33126,
-    "fecha": "05 de Nov del 2025 a las 12:21 PM",
-    "hora_utc": "2025-11-05 17:21",
-    "mensaje": "💡Con servicio eléctrico los siguientes circuitos:\n🔹Municipio Santa Clara:\n👉Cto 5 (Dobarganes)\n👉Cto 17 (Subplanta)\n👉Ctos 37 y 38 (Yabú)   \n👉Cto 9 (Moldes y Troqueles)\n👉Cto 133 (Cafetera)",
-    "timestamp": 1762363309,
-    "timestamp_local": 1762363309
-  },
-  {
-    "id": 33125,
-    "fecha": "05 de Nov del 2025 a las 12:18 PM",
-    "hora_utc": "2025-11-05 17:18",
-    "mensaje": "💡Con servicio eléctrico los siguientes circuitos:\n🔹Municipio Encrucijada:\n👉Cto 122 Encrucijada \n👉Cto 123 Vizcaya \n👉Cto 142 Comunidad La Sierra \n👉Cto 126 Batey Emilio Córdova\n👉Cto 125 Cavarrocas\n👉Cto 124 El Santo\n🔹Municipio Camajuaní:\n👉Cto 78 Jutiero",
-    "timestamp": 1762363138,
-    "timestamp_local": 1762363138
-  },
-  {
-    "id": 33124,
-    "fecha": "05 de Nov del 2025 a las 12:17 PM",
-    "hora_utc": "2025-11-05 17:17",
-    "mensaje": "💡Con servicio eléctrico los siguientes circuitos:\n🔹Municipio Santa Clara\n👉Cto 166 (Condado)\nMunicipio Quemado:\n👉Ctos 164, 52 y 53 Quemado.\n👉Cto 196 Batey Panchito Gómez Toro.",
-    "timestamp": 1762363040,
-    "timestamp_local": 1762363040
   }
 ]
