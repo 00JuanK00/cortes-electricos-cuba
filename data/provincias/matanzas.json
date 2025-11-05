@@ -1,5 +1,29 @@
 [
   {
+    "id": 28201,
+    "fecha": "04 de Nov del 2025 a las 09:04 PM",
+    "hora_utc": "2025-11-05 02:04",
+    "mensaje": "⚡La afectación de nuestra provincia es de 128 MW por déficit de capacidad de generación. ⚡",
+    "timestamp": 1762308256,
+    "timestamp_local": 1762308256
+  },
+  {
+    "id": 28200,
+    "fecha": "04 de Nov del 2025 a las 08:03 PM",
+    "hora_utc": "2025-11-05 01:03",
+    "mensaje": "🇨🇺 Actualización del Sistema Electroenergético Nacional a las 19:00 del 4 de noviembre de 2025.\n\nIncidencias:\n11:11 En línea Unidad 6 de Energás Jaruco.\n18:19 Fuera de línea unidad 6 CTE Máximo Gómez por falla en quemadores.\n17:49 Unidad 3 CTE Antonio Maceo en proceso de arranque\n\n#NotaInformativa #UNE #UnidosXCuba",
+    "timestamp": 1762304607,
+    "timestamp_local": 1762304607
+  },
+  {
+    "id": 28199,
+    "fecha": "04 de Nov del 2025 a las 07:56 PM",
+    "hora_utc": "2025-11-05 00:56",
+    "mensaje": "💡CIRCUITO PRÓXIMO A RESTABLECER EL SERVICIO: \n\n⚡ Déficit de capacidad de generación: 137 MW. ⚡\n\n🔌 Circuito 4220 que da servicio a Fines, Coliseo, Lagunilla, Ponce, Picadora A Maceo, San Miguel.\n🔌 Circuito MK58 que da servicio a Playa Girón, Meteorología, Helechal, Acueducto 1, Cayo Ramona, San Blas y La Ceiba.\n🔌 Circuito GI51 que da servicio a Villa Playa Girón.\n🔌 Circuito GI41 que da servicio a Australia. \n\n🧏 El restablecimiento del servicio eléctrico dependerá del  comportamiento de la demanda y la disponibilidad del Sistema.",
+    "timestamp": 1762304173,
+    "timestamp_local": 1762304173
+  },
+  {
     "id": 28198,
     "fecha": "04 de Nov del 2025 a las 07:34 PM",
     "hora_utc": "2025-11-05 00:34",
@@ -134,29 +158,5 @@
     "mensaje": "📢 Nota Informativa - Situación del SEN al **4 de noviembre de 2025**\n\n☀️ En el día de ayer se afectó el servicio las 24 horas y se mantuvo afectado durante toda la madrugada de hoy. La máxima afectación por déficit de capacidad de generación en el día de ayer fue de 1205 MW a las 18:20 horas. Afectados además 527 MW en las provincias de Tunas a Guantánamo por el paso del Huracán Melissa.\n\n🔧 Estado actual:\nDisponibilidad: 1470 MW.\nDemanda: 2220 MW.\nAfectación actual: 780 MW. \nPronóstico para el mediodía: 830 MW afectados.\n\n🔴 Pronóstico para el horario pico:\nPara el pico se estima la entrada de 50 MW de motores que se encuentran fuera por combustible y la unidad 6 de la CTE Máximo Gómez (Mariel) con 80 MW.\n\nCon este pronóstico en el horario pico se estima una disponibilidad de 1600 MW y una demanda máxima de 2700 MW, para un déficit de 1100MW, por lo que de mantenerse las condiciones previstas se pronostica una afectación de 1170 MW en este horario.\n\nLeer más: [https://www.unionelectrica.cu/nota-informativa/](https://www.unionelectrica.cu/nota-informativa/)",
     "timestamp": 1762263258,
     "timestamp_local": 1762263258
-  },
-  {
-    "id": 28180,
-    "fecha": "04 de Nov del 2025 a las 08:28 AM",
-    "hora_utc": "2025-11-04 13:28",
-    "mensaje": "**QUEJAS PENDIENTES EN EL DÍA**\n🔔Al cierre de las 8:20 am del día 04 de Noviembre se encuentran 54 quejas pendientes en el sistema. \n\nEl desglose por municipio es el siguiente: \n🔸Calimete:   2\n🔸Cárdenas:   13\n🔸Colón:   2\n🔸Jaguey:   2\n🔸Jovellanos:  13\n🔸Limonar:   2\n🔸Arabos:   4\n🔸Martí:   5\n🔸Matanzas:   3\n🔸Perico:   8\n\nNuestros Linieros ⚡️👷 continúan trabajando para restablecer el servicio a todos los clientes con quejas pendientes.",
-    "timestamp": 1762262909,
-    "timestamp_local": 1762262909
-  },
-  {
-    "id": 28179,
-    "fecha": "04 de Nov del 2025 a las 07:57 AM",
-    "hora_utc": "2025-11-04 12:57",
-    "mensaje": "⚡La afectación de nuestra provincia es de 111 MW por déficit de capacidad de generación. ⚡",
-    "timestamp": 1762261040,
-    "timestamp_local": 1762261040
-  },
-  {
-    "id": 28178,
-    "fecha": "04 de Nov del 2025 a las 06:20 AM",
-    "hora_utc": "2025-11-04 11:20",
-    "mensaje": "Actualizamos el déficit por capacidad de generación:   97    MW.",
-    "timestamp": 1762255231,
-    "timestamp_local": 1762255231
   }
 ]
