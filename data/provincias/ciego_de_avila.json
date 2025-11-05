@@ -1,5 +1,21 @@
 [
   {
+    "id": 33285,
+    "fecha": "05 de Nov del 2025 a las 01:38 PM",
+    "hora_utc": "2025-11-05 18:38",
+    "mensaje": "‼️ Información ‼️   \n👉Debido a la situación energética que tiene el país, nos es imposible cumplir con una programación de afectaciones. En estos momentos subimos a 72 MW en la provincia afectados. Reiteramos que los circuitos se afectarán o se restablecerán en dependencia del déficit en cada momento del día.",
+    "timestamp": 1762367885,
+    "timestamp_local": 1762367885
+  },
+  {
+    "id": 33284,
+    "fecha": "05 de Nov del 2025 a las 01:08 PM",
+    "hora_utc": "2025-11-05 18:08",
+    "mensaje": "‼️ Información del déficit de generación ‼️ \n  \n👉Bajamos a 62 MW en la provincia afectados por déficit de generación.\n⏰ Con este déficit, la carga a apagar en la provincia no nos permite realizar una rotación estable de los circuitos, por lo que se afectarán o se restablecerán en dependencia del déficit que haya en cada momento de la jornada, que es muy variable.",
+    "timestamp": 1762366131,
+    "timestamp_local": 1762366131
+  },
+  {
     "id": 33282,
     "fecha": "05 de Nov del 2025 a las 12:36 PM",
     "hora_utc": "2025-11-05 17:36",
@@ -102,29 +118,5 @@
     "mensaje": "💢Información 💢  \n👉En estos momentos tenemos 70 MW en la provincia afectados por déficit de generación. Con este déficit no podemos cumplir con una programación estable, por lo que los circuitos se afectarán o se restablecerán en dependencia del déficit que haya en cada momento.\n\n⏰ Los circuitos  restablecidos tendrán servicio por un estimado de 1 hora y 30 m aproximadamente en dependencia del déficit solicitado en cada momento de la jornada que es muy variable.",
     "timestamp": 1762306064,
     "timestamp_local": 1762306064
-  },
-  {
-    "id": 33265,
-    "fecha": "04 de Nov del 2025 a las 07:44 PM",
-    "hora_utc": "2025-11-05 00:44",
-    "mensaje": "‼️ Déficit de Generación ‼️   \n👉 Continuamos con  80 MW en la provincia por déficit de generación.\n\n⏰ Los circuitos  restablecidos tendrán servicio por un estimado de 1 hora y 30 m aproximadamente en dependencia del déficit solicitado en cada momento de la jornada que es muy variable.",
-    "timestamp": 1762303442,
-    "timestamp_local": 1762303442
-  },
-  {
-    "id": 33264,
-    "fecha": "04 de Nov del 2025 a las 05:38 PM",
-    "hora_utc": "2025-11-04 22:38",
-    "mensaje": "‼️ Déficit de Generación ‼️   \n👉 Subimos  a  80 MW en la provincia por déficit de generación.\n\n⏰ Los circuitos  restablecidos tendrán servicio por un estimado de 1 hora y 30 m aproximadamente en dependencia del déficit solicitado en cada momento de la jornada que es muy variable.",
-    "timestamp": 1762295899,
-    "timestamp_local": 1762295899
-  },
-  {
-    "id": 33263,
-    "fecha": "04 de Nov del 2025 a las 04:27 PM",
-    "hora_utc": "2025-11-04 21:27",
-    "mensaje": "‼️ Déficit de Generación ‼️   \n👉 Subimos  a  77 MW en la provincia por déficit de generación.\n\n💥Se restablecen  los siguientes circuitos:\n👉 Cítrico I, Cítrico III, Cítrico IV, Ceballos, Combinado Cítrico y Las Grullas.\n\n⏰ Los circuitos  restablecidos tendrán servicio por un estimado de 1 hora y 30 min aproximadamente en dependencia del déficit solicitado en cada momento de la jornada que es muy variable.",
-    "timestamp": 1762291648,
-    "timestamp_local": 1762291648
   }
 ]
