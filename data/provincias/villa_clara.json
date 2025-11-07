@@ -1,5 +1,45 @@
 [
   {
+    "id": 33284,
+    "fecha": "07 de Nov del 2025 a las 04:40 PM",
+    "hora_utc": "2025-11-07 21:40",
+    "mensaje": "⚠️  En  déficit de capacidad de generación los circuitos siguientes:\n🔹Municipio Encrucijada\n👉Cto 120 Calabazar\n👉Ctos 121 y 127 Perucho",
+    "timestamp": 1762551632,
+    "timestamp_local": 1762551632
+  },
+  {
+    "id": 33283,
+    "fecha": "07 de Nov del 2025 a las 04:33 PM",
+    "hora_utc": "2025-11-07 21:33",
+    "mensaje": "Con servicio la línea 861:\n🔹Municipio Santa Clara:\n👉Cto 5 (Dobarganes)\n👉Cto 17 (Subplanta)\n👉Ctos 37 y 38 (Yabú)   \n👉Cto 9 (Moldes y Troqueles)\n👉Cto 133 (Cafetera)",
+    "timestamp": 1762551197,
+    "timestamp_local": 1762551197
+  },
+  {
+    "id": 33282,
+    "fecha": "07 de Nov del 2025 a las 04:25 PM",
+    "hora_utc": "2025-11-07 21:25",
+    "mensaje": "⚡Afectada la línea 861:\nAfecta los siguientes circuitos:\n🔹Municipio Santa Clara:\n👉Cto 5 (Dobarganes)\n👉Cto 17 (Subplanta)\n👉Ctos 37 y 38 (Yabú)   \n👉Cto 9 (Moldes y Troqueles)\n👉Cto 133 (Cafetera)",
+    "timestamp": 1762550709,
+    "timestamp_local": 1762550709
+  },
+  {
+    "id": 33281,
+    "fecha": "07 de Nov del 2025 a las 04:03 PM",
+    "hora_utc": "2025-11-07 21:03",
+    "mensaje": "Actualización del servicio eléctrico en la provincia\n✍️Se mantienen afectados en la provincia 121 circuitos\n✍️En el momento de hacer esta nota la provincia tiene 89 MW de afectación por déficit de capacidad de generación, demanda máxima posible a apagar.\n✍️Cuenta con 62  afectaciones por averías secundarias y de servicio",
+    "timestamp": 1762549419,
+    "timestamp_local": 1762549419
+  },
+  {
+    "id": 33280,
+    "fecha": "07 de Nov del 2025 a las 04:01 PM",
+    "hora_utc": "2025-11-07 21:01",
+    "mensaje": "⚠️  En  déficit de capacidad de generación los circuitos siguientes:\n🔹Municipio Quemado:\n👉Ctos 164, 52 y 53 Quemado.\n\n👉Cto 196 Batey Panchito Gómez Toro.",
+    "timestamp": 1762549281,
+    "timestamp_local": 1762549281
+  },
+  {
     "id": 33279,
     "fecha": "07 de Nov del 2025 a las 03:37 PM",
     "hora_utc": "2025-11-07 20:37",
@@ -118,45 +158,5 @@
     "mensaje": "Actualización del servicio eléctrico en las últimas 6 horas.\n✍️El déficit de capacidad de generación osciló entre los 91 MW y los 99 MW.\n✍️En el momento de esta nota, se mantienen afectados 127 circuitos.\n✍️ Cuenta con 66  afectaciones por averías secundarias y de servicio:\n🔸Caibarién (2)\n🔸Cifuentes (1)\n🔸 Corralillo (2)\n🔸Encrucijada (4)\n🔸Manicaragua (2)\n🔸Placetas (4)\n🔸Ranchuelo (1)\n🔸Remedios (6)\n🔸Sagua (1)\n🔸Santa Clara (15)\n🔸 Santo Domingo (14)\n🛠️Se encuentran 7 averías en vías de solución.\n🛠️Pendientes a solucionar por el área técnica 7.\n✅La provincia no presenta averías primarias.",
     "timestamp": 1762534980,
     "timestamp_local": 1762534980
-  },
-  {
-    "id": 33264,
-    "fecha": "07 de Nov del 2025 a las 11:29 AM",
-    "hora_utc": "2025-11-07 16:29",
-    "mensaje": "⚠️  En  déficit de capacidad de generación el circuito 168 (Condado- XX Aniversario), del municipio Santa Clara.",
-    "timestamp": 1762532990,
-    "timestamp_local": 1762532990
-  },
-  {
-    "id": 33263,
-    "fecha": "07 de Nov del 2025 a las 11:21 AM",
-    "hora_utc": "2025-11-07 16:21",
-    "mensaje": "⚠️  En  déficit de capacidad de generación los circuitos siguientes:\n🔹Municipio Santa Clara:\n👉Ctos 14, 15 y 27 (Maleza)\n👉Cto 144 (Camacho)",
-    "timestamp": 1762532500,
-    "timestamp_local": 1762532500
-  },
-  {
-    "id": 33262,
-    "fecha": "07 de Nov del 2025 a las 11:08 AM",
-    "hora_utc": "2025-11-07 16:08",
-    "mensaje": "⚠️  En  déficit de capacidad de generación el circuito 31 (Sakenaf), del municipio Santa Clara.",
-    "timestamp": 1762531701,
-    "timestamp_local": 1762531701
-  },
-  {
-    "id": 33261,
-    "fecha": "07 de Nov del 2025 a las 10:40 AM",
-    "hora_utc": "2025-11-07 15:40",
-    "mensaje": "⚠️  En  déficit de capacidad de generación los circuitos siguientes:\n🔹Municipio Placetas:\n👉Cto 101 y 145 Cumbre",
-    "timestamp": 1762530024,
-    "timestamp_local": 1762530024
-  },
-  {
-    "id": 33260,
-    "fecha": "07 de Nov del 2025 a las 10:06 AM",
-    "hora_utc": "2025-11-07 15:06",
-    "mensaje": "💡Con servicio eléctrico los circuitos 1 y 4 (Consejo-Centro), del municipio Santa Clara.",
-    "timestamp": 1762527962,
-    "timestamp_local": 1762527962
   }
 ]
