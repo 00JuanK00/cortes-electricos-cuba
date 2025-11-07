@@ -1,5 +1,29 @@
 [
   {
+    "id": 33271,
+    "fecha": "07 de Nov del 2025 a las 01:16 PM",
+    "hora_utc": "2025-11-07 18:16",
+    "mensaje": "Afectados 78 MW en la provincia, demanda máxima a apagar en estos momentos.",
+    "timestamp": 1762539415,
+    "timestamp_local": 1762539415
+  },
+  {
+    "id": 33270,
+    "fecha": "07 de Nov del 2025 a las 01:14 PM",
+    "hora_utc": "2025-11-07 18:14",
+    "mensaje": "🛠️Afectado por DAF (Disparo Automático por Frecuencia) la línea 1955:\nAfecta los siguientes circuitos:\n🔹Municipio Encrucijada:\n👉Cto 122 Encrucijada \n👉Cto 123 Vizcaya \n👉Cto 142 Comunidad La Sierra \n👉Cto 126 Batey Emilio Córdova\n👉Cto 125 Cavarrocas\n👉Cto 124 El Santo\n🔹Municipio Camajuaní:\n👉Cto 78 Jutiero",
+    "timestamp": 1762539283,
+    "timestamp_local": 1762539283
+  },
+  {
+    "id": 33269,
+    "fecha": "07 de Nov del 2025 a las 01:10 PM",
+    "hora_utc": "2025-11-07 18:10",
+    "mensaje": "⚠️  En  déficit de capacidad de generación los circuitos siguientes:\n🔹Municipio Sagua:\n👉Ctos 50 y 147 Villa Alegre",
+    "timestamp": 1762539014,
+    "timestamp_local": 1762539014
+  },
+  {
     "id": 33268,
     "fecha": "07 de Nov del 2025 a las 01:00 PM",
     "hora_utc": "2025-11-07 18:00",
@@ -118,21 +142,5 @@
     "mensaje": "Nota informativa. \n\n👉Situación del SEN para el 7 de noviembre de 2025\n\n📆En el día de ayer se afectó el servicio las 24 horas y se mantuvo afectado\n durante toda la madrugada de hoy. La máxima afectación por déficit de \ncapacidad de generación en el día de ayer fue de 1244 MW a las 18:30 horas,\n superior a lo planificado por estar Diez de Octubre 6 fuera de línea. \nAfectados además 334 MW en las provincias de Tunas a Guantánamo por el \npaso del Huracán Melissa. \n\n☀La producción de energía de los 22 nuevos parques solares fotovoltaicos de\n la zona Occidente - Centro fue de 1959 MWh, con 400 MW como máxima \npotencia entregada en el horario de la media con esta fuente de \ngeneración. \n\n👉La disponibilidad del SEN a las 06:00 horas es de 1529 MW  y la demanda \n2107 MW con 589 MW afectados por déficit de capacidad. En el horario de \nla media se estima una afectación de 850 MW.\n\n  🛠Se encuentra en avería las unidades 5 y 6 de la CTE Nuevitas, la unidad 2 \nde la CTE Felton y la unidad 6 de la CTE Antonio Maceo (Renté). Se \nencuentran en mantenimiento la unidad 2 de la CTE Santa Cruz y la unidad\n 4 de la CTE Cienfuegos. En el horario de la mañana saldrá de servicio \nla Unidad de la CTE Antonio Guiteras para solucionar defectos \nimpostergables.       \n\n👉Las limitaciones en la generación térmica son de 552 MW.  \n\n⛽Se encuentran fuera de servicio por combustible 70 centrales de generación\n distribuida con 603 MW y 120 MW indisponible por falta de lubricante, \npara un total de 723 MW. \n\n✔Para el pico se estima la entrada de 40 MW de motores que se encuentran \nfuera por combustible y la unidad 5 de la CTE Nuevitas con 55 MW \n(Comenzando arranque).\n\n📈Con este pronóstico en el horario pico se estima una disponibilidad de  \n1495 MW y una demanda máxima de 2830 MW, para un déficit de 1335 MW, por \nlo que de mantenerse las condiciones previstas se pronostica una \nafectación de 1405 MW en este horario.        \n\n**UNE-MINEM---07:00 horas**",
     "timestamp": 1762524018,
     "timestamp_local": 1762524018
-  },
-  {
-    "id": 33250,
-    "fecha": "07 de Nov del 2025 a las 08:45 AM",
-    "hora_utc": "2025-11-07 13:45",
-    "mensaje": "⚠️  En  déficit de capacidad de generación los circuitos siguientes:\n🔹Municipio Caibarién:\n👉Ctos 61, 62, 63 y 64\n👉Ctos 182 y 183 Van Troi",
-    "timestamp": 1762523158,
-    "timestamp_local": 1762523158
-  },
-  {
-    "id": 33249,
-    "fecha": "07 de Nov del 2025 a las 08:36 AM",
-    "hora_utc": "2025-11-07 13:36",
-    "mensaje": "⚠️  En  déficit de capacidad de generación los circuitos 1, 2 y 4 (Consejo-Centro), del municipio Santa Clara.",
-    "timestamp": 1762522582,
-    "timestamp_local": 1762522582
   }
 ]
