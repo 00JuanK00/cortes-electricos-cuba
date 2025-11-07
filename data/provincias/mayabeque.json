@@ -1,9 +1,25 @@
 [
   {
+    "id": 96223,
+    "fecha": "07 de Nov del 2025 a las 06:40 PM",
+    "hora_utc": "2025-11-07 23:40",
+    "mensaje": "♦️♦️Se afecta el servicio en el circuito de San Francisco por avería en las líneas♦️♦️",
+    "timestamp": 1762558810,
+    "timestamp_local": 1762558810
+  },
+  {
+    "id": 96220,
+    "fecha": "07 de Nov del 2025 a las 06:27 PM",
+    "hora_utc": "2025-11-07 23:27",
+    "mensaje": "🚨Por déficit de capacidad de generación se afecta el servicio en el siguiente circuito:\n*3 de San José 🚨",
+    "timestamp": 1762558050,
+    "timestamp_local": 1762558050
+  },
+  {
     "id": 96219,
     "fecha": "07 de Nov del 2025 a las 05:34 PM",
     "hora_utc": "2025-11-07 22:34",
-    "mensaje": "🚨Informamos a nuestros clientes que por encontrarse la termoeléctrica Antonio Guitarras fuera de servicio para ejecutar trabajos impostergables, la afectación al servicio eléctrico será mayor dependiendo de las condiciones actuales del Sistema Eléctrico Nacional conocemos las molestias ocasionadas y agradecemos su comprensión🚨",
+    "mensaje": "🚨Informamos a nuestros clientes que la termoeléctrica Antonio Guiteras está limitada en su servicio. Es necesario ejecutar trabajos impostergables de mantenimiento. La afectación al servicio eléctrico será mayor dependiendo de las condiciones actuales del Sistema Eléctrico Nacional. Sentimos  las molestias que esta situación ocasiona y agradecemos su comprensión. 🚨",
     "timestamp": 1762554852,
     "timestamp_local": 1762554852
   },
@@ -94,29 +110,5 @@
     "mensaje": "🔷Se restablece el servicio en el circuito 3590 que estaba afectado por disparo por DAF🔷",
     "timestamp": 1762551216,
     "timestamp_local": 1762551216
-  },
-  {
-    "id": 96202,
-    "fecha": "07 de Nov del 2025 a las 03:47 PM",
-    "hora_utc": "2025-11-07 20:47",
-    "mensaje": "♦️♦️Se afecta el servicio en el circuito 3590 por disparo por DAF♦️♦️",
-    "timestamp": 1762548454,
-    "timestamp_local": 1762548454
-  },
-  {
-    "id": 96201,
-    "fecha": "07 de Nov del 2025 a las 03:47 PM",
-    "hora_utc": "2025-11-07 20:47",
-    "mensaje": "♦️♦️Se afecta el servicio en el circuito 3140 por disparo por DAF♦️♦️",
-    "timestamp": 1762548443,
-    "timestamp_local": 1762548443
-  },
-  {
-    "id": 96199,
-    "fecha": "07 de Nov del 2025 a las 03:20 PM",
-    "hora_utc": "2025-11-07 20:20",
-    "mensaje": "🔷Se restablece el servicio en el circuito 3140 que estaba afectado por disparo por DAF🔷",
-    "timestamp": 1762546808,
-    "timestamp_local": 1762546808
   }
 ]
