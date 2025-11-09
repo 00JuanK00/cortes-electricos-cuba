@@ -1,5 +1,29 @@
 [
   {
+    "id": 28373,
+    "fecha": "09 de Nov del 2025 a las 01:47 PM",
+    "hora_utc": "2025-11-09 18:47",
+    "mensaje": "⚠️ ***En estos momentos la afectación de nuestra provincia es de 94 MW por déficit de capacidad de generación.***",
+    "timestamp": 1762714047,
+    "timestamp_local": 1762714047
+  },
+  {
+    "id": 28372,
+    "fecha": "09 de Nov del 2025 a las 01:44 PM",
+    "hora_utc": "2025-11-09 18:44",
+    "mensaje": "⚠Circuitos no apagables que estarán afectados debido al alto déficit: ⚠\n\n✅ GI101, JI48,  Z130, Z1183 de 11:00 a 13:00\n\n✅ GI101, Z130, Z1183, JI48, 5223 y CI185 de 18:00 a 00:00",
+    "timestamp": 1762713894,
+    "timestamp_local": 1762713894
+  },
+  {
+    "id": 28371,
+    "fecha": "09 de Nov del 2025 a las 01:11 PM",
+    "hora_utc": "2025-11-09 18:11",
+    "mensaje": "***Actualizamos el déficit por capacidad de generación: 89 MW.***",
+    "timestamp": 1762711905,
+    "timestamp_local": 1762711905
+  },
+  {
     "id": 28370,
     "fecha": "09 de Nov del 2025 a las 12:09 PM",
     "hora_utc": "2025-11-09 17:09",
@@ -134,29 +158,5 @@
     "mensaje": "💡CIRCUITO PRÓXIMO A RESTABLECER EL SERVICIO: \n\n⚡** Déficit de capacidad de generación: 160 MW. **⚡\n\n🔌 Circuito 4427 que da servicio a Reparto 13 de marzo, circuitos 2 y 3 desde Salud hasta Obispo y desde García hasta Génes, Playa Larga, Smith Comas.  \n🔌 Circuito MJ 147 Rebombeo de la Cumbre y desde calle Poza hasta Santa Cristina y desde San Isidro hasta Aranguren.\n🔌 Circuito MJ143 Rápido de Versalles, panadería, zona baja de Versalles desde Isabel 1era hasta calle 3eray desde Narciso López hasta calle Unión. \n\n🧏 El restablecimiento del servicio eléctrico dependerá del  comportamiento de la demanda y la disponibilidad del Sistema.",
     "timestamp": 1762650902,
     "timestamp_local": 1762650902
-  },
-  {
-    "id": 28351,
-    "fecha": "08 de Nov del 2025 a las 07:39 PM",
-    "hora_utc": "2025-11-09 00:39",
-    "mensaje": "⚡Nos mantenemos en una afectación en la provincia de 155 MW por déficit de capacidad de generación. ⚡\n\n⏳ El restablecimiento del servicio eléctrico dependerá del comportamiento de la demanda y la disponibilidad del sistema eléctrico. \n\n🔄 Una vez que podamos rotar el servicio, iremos restableciendo de manera **paulatina **los circuitos que han estado más tiempo sin suministro.",
-    "timestamp": 1762648783,
-    "timestamp_local": 1762648783
-  },
-  {
-    "id": 28350,
-    "fecha": "08 de Nov del 2025 a las 06:51 PM",
-    "hora_utc": "2025-11-08 23:51",
-    "mensaje": "⚡La afectación de nuestra provincia es de 155 MW por déficit de capacidad de generación. ⚡",
-    "timestamp": 1762645903,
-    "timestamp_local": 1762645903
-  },
-  {
-    "id": 28349,
-    "fecha": "08 de Nov del 2025 a las 06:12 PM",
-    "hora_utc": "2025-11-08 23:12",
-    "mensaje": "💡CIRCUITO PRÓXIMO A RESTABLECER EL SERVICIO: \n\n*⚡** Déficit de capacidad de generación: 153 MW. **⚡*\n\n🔌 Circuito MK88 que da servicio a Torriente, Batey Los González, T20 Y Cantabria.\n🔌 Circuito MK1145 que da servicio a Batey San Joaquín, La Yuca y Caserío Jibara.\n🔌 Circuito 4073 Batey Luisa, Peralta, San Carlos, Poblado San José de Marcos.\n🔌 Circuito 4071 que da servicio a Cítrico, La Carlota e Isabel.\n🔌 Circuito 4485 que da servicio a Cítrico, Jagüey.\n🔌 Circuito MI 5660 que da servicio a Güira-Betancourt.\n🔌 Circuito MI 5680 que da servicio a Cítrico y Sabana Grande.\n🔌 Circuito 4072 que da servicio al pueblo de Agramonte mediante el enlace con Yaguaramas.\n🔌 Circuito 4220 que da servicio a Fines, Coliseo, Lagunilla, Ponce, Picadora A Maceo, San Miguel.\n\n🧏 El restablecimiento del servicio eléctrico dependerá del  comportamiento de la demanda y la disponibilidad del Sistema.",
-    "timestamp": 1762643555,
-    "timestamp_local": 1762643555
   }
 ]
