@@ -1,5 +1,37 @@
 [
   {
+    "id": 33389,
+    "fecha": "09 de Nov del 2025 a las 07:13 AM",
+    "hora_utc": "2025-11-09 12:13",
+    "mensaje": "Afectados 96 MW en la provincia, demanda máxima a apagar en estos momentos.",
+    "timestamp": 1762690380,
+    "timestamp_local": 1762690380
+  },
+  {
+    "id": 33388,
+    "fecha": "09 de Nov del 2025 a las 06:56 AM",
+    "hora_utc": "2025-11-09 11:56",
+    "mensaje": "💡Con servicio eléctrico los siguientes circuitos:\n🔹Municipio Encrucijada:\n👉Cto 122 Encrucijada \n👉Cto 123 Vizcaya \n👉Cto 142 Comunidad La Sierra \n👉Cto 126 Batey Emilio Córdova\n👉Cto 125 Cavarrocas\n👉Cto 124 El Santo\n🔹Municipio Camajuaní:\n👉Cto 78 Jutiero",
+    "timestamp": 1762689374,
+    "timestamp_local": 1762689374
+  },
+  {
+    "id": 33387,
+    "fecha": "09 de Nov del 2025 a las 06:54 AM",
+    "hora_utc": "2025-11-09 11:54",
+    "mensaje": "⚠️ En  déficit de capacidad de generación los circuitos siguientes:\n🔹Municipio Manicaragua:\n👉Ctos 109 y 150\n👉Ctos 108 y 110 La Piedra\n👉Cto 111 Mataguá \n🔹Municipio Encrucijada\n👉Cto 120 Calabazar\n👉Ctos 121 y 127 Perucho",
+    "timestamp": 1762689284,
+    "timestamp_local": 1762689284
+  },
+  {
+    "id": 33386,
+    "fecha": "09 de Nov del 2025 a las 06:53 AM",
+    "hora_utc": "2025-11-09 11:53",
+    "mensaje": "⚠️  En  déficit de capacidad de generación el Cto 169 (Condado), perteneciente al municipio Santa Clara.",
+    "timestamp": 1762689212,
+    "timestamp_local": 1762689212
+  },
+  {
     "id": 33385,
     "fecha": "09 de Nov del 2025 a las 06:34 AM",
     "hora_utc": "2025-11-09 11:34",
@@ -118,37 +150,5 @@
     "mensaje": "Actualización del servicio eléctrico en la provincia\n✍️Se mantienen afectados en la provincia 141 circuitos\n✍️En el momento de hacer esta nota la provincia tiene 137 MW de afectación por déficit de capacidad de generación, demanda máxima posible a apagar.\n✍️Cuenta con 70 afectaciones por averías secundarias y de servicio",
     "timestamp": 1762650699,
     "timestamp_local": 1762650699
-  },
-  {
-    "id": 33369,
-    "fecha": "08 de Nov del 2025 a las 07:40 PM",
-    "hora_utc": "2025-11-09 00:40",
-    "mensaje": "🇨🇺 Actualización del Sistema Electroenergético Nacional a las 19:00 del 8 de noviembre de 2025.\n\nIncidencias:\n17:59 En línea la Unidad 4 de Energás Varadero",
-    "timestamp": 1762648823,
-    "timestamp_local": 1762648823
-  },
-  {
-    "id": 33368,
-    "fecha": "08 de Nov del 2025 a las 07:35 PM",
-    "hora_utc": "2025-11-09 00:35",
-    "mensaje": "✅Ante cualquier duda con la terminología eléctrica, les volvemos explicar:\n\n➡️Las averías pueden ser:\n\n✍️Primarias (afecta un volumen grande de población pues son las líneas de distribución a 13.8kV y puede afectar varias manzanas, incluso repartos completos)\n\n✍️Secundarias (afecta a todos los clientes que se alimenten del mismo transformador, puede afectar una o varias cuadras)\n\n ✍️De servicio (afectan 1 solo cliente o instalación generalmente producto a daños en la acometida, metro contador, etc.)",
-    "timestamp": 1762648522,
-    "timestamp_local": 1762648522
-  },
-  {
-    "id": 33367,
-    "fecha": "08 de Nov del 2025 a las 07:33 PM",
-    "hora_utc": "2025-11-09 00:33",
-    "mensaje": "💡Con servicio eléctrico los Ctos 30 y 193 (SC Industrial), pertenecientes al municipio Santa Clara.",
-    "timestamp": 1762648428,
-    "timestamp_local": 1762648428
-  },
-  {
-    "id": 33366,
-    "fecha": "08 de Nov del 2025 a las 07:33 PM",
-    "hora_utc": "2025-11-09 00:33",
-    "mensaje": "⚡Avería⚡\nAfectados los Ctos 132 y 162 (SC Industrial), pertenecientes al municipio Santa Clara.",
-    "timestamp": 1762648383,
-    "timestamp_local": 1762648383
   }
 ]
