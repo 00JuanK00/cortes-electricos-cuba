@@ -1,5 +1,21 @@
 [
   {
+    "id": 28394,
+    "fecha": "10 de Nov del 2025 a las 08:45 AM",
+    "hora_utc": "2025-11-10 13:45",
+    "mensaje": "**__A continuación se informan los circuitos no apagables que se verán afectados en el día de hoy debido al alto déficit que presenta la provincia:__**\n\n\n----GI101, JI48, Z130, de 11:00 a 14:00\n----GI101, Z130, JI48, 5223 y CI185 de 18:00 a 1:00",
+    "timestamp": 1762782305,
+    "timestamp_local": 1762782305
+  },
+  {
+    "id": 28393,
+    "fecha": "10 de Nov del 2025 a las 08:21 AM",
+    "hora_utc": "2025-11-10 13:21",
+    "mensaje": "🚨ACTUALIZAMOS🚨\nNuestra provincia presenta un déficit por capacidad de generación de 113 MW máximo apagable para este horario, por lo que no es posible el restablecimiento del servicio a los circuitos con mayor afectación por el momento.",
+    "timestamp": 1762780875,
+    "timestamp_local": 1762780875
+  },
+  {
     "id": 28392,
     "fecha": "10 de Nov del 2025 a las 08:00 AM",
     "hora_utc": "2025-11-10 13:00",
@@ -142,21 +158,5 @@
     "mensaje": "📌📌LA PROVINCIA SE ENCUENTRA EN EL MAXIMO AOAGABLE.📌📌\n \n⚡ ***Con un déficit por capacidad de generación de: 136 MW*** ⚠️",
     "timestamp": 1762723313,
     "timestamp_local": 1762723313
-  },
-  {
-    "id": 28374,
-    "fecha": "09 de Nov del 2025 a las 02:08 PM",
-    "hora_utc": "2025-11-09 19:08",
-    "mensaje": "⚡Nos mantenemos en una afectación en la provincia de 155 MW por déficit de capacidad de generación. ⚡\n \n\n⏳ El restablecimiento del servicio eléctrico dependerá del comportamiento de la demanda y la disponibilidad del sistema eléctrico.\n\n\n🔄 Una vez que podamos rotar el servicio, iremos restableciendo de manera paulatina los circuitos que han estado más tiempo sin suministro",
-    "timestamp": 1762715300,
-    "timestamp_local": 1762715300
-  },
-  {
-    "id": 28373,
-    "fecha": "09 de Nov del 2025 a las 01:47 PM",
-    "hora_utc": "2025-11-09 18:47",
-    "mensaje": "⚠️ ***En estos momentos la afectación de nuestra provincia es de 94 MW por déficit de capacidad de generación.***",
-    "timestamp": 1762714047,
-    "timestamp_local": 1762714047
   }
 ]
