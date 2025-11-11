@@ -1,5 +1,37 @@
 [
   {
+    "id": 28431,
+    "fecha": "11 de Nov del 2025 a las 09:38 AM",
+    "hora_utc": "2025-11-11 14:38",
+    "mensaje": "Actualizamos el déficit por capacidad de generación:  77 MW.",
+    "timestamp": 1762871904,
+    "timestamp_local": 1762871904
+  },
+  {
+    "id": 28430,
+    "fecha": "11 de Nov del 2025 a las 09:16 AM",
+    "hora_utc": "2025-11-11 14:16",
+    "mensaje": "__Circuitos no apagables que estaránafectados debido al alto déficit:  __\n\n__ GI101, JI48, Z130   de 11:00 a 13:30__\n\n__ GI101, 5223, JI48, CI185, Z130   de 18:00 a 00:00__",
+    "timestamp": 1762870601,
+    "timestamp_local": 1762870601
+  },
+  {
+    "id": 28429,
+    "fecha": "11 de Nov del 2025 a las 09:10 AM",
+    "hora_utc": "2025-11-11 14:10",
+    "mensaje": "⚡Tenemos una afectación en nuestra provincia en estos momentos de 78  MW por déficit de capacidad degeneración⚡",
+    "timestamp": 1762870206,
+    "timestamp_local": 1762870206
+  },
+  {
+    "id": 28428,
+    "fecha": "11 de Nov del 2025 a las 09:08 AM",
+    "hora_utc": "2025-11-11 14:08",
+    "mensaje": "Se reporta Avería en la línea de 33kV. VARADERO.\nCircuitos  4980 y 4990. Desde la calle 13 hasta la calle 56.\n\nSe afecta la Subestación de Varadero 2 y Varadero 3.",
+    "timestamp": 1762870099,
+    "timestamp_local": 1762870099
+  },
+  {
     "id": 28427,
     "fecha": "11 de Nov del 2025 a las 08:35 AM",
     "hora_utc": "2025-11-11 13:35",
@@ -126,37 +158,5 @@
     "mensaje": "Se reporta avería en el circuito MK 120  que afecta la zona de ciudad de Cárdenas, Reparto 13 de marzo, Valdez Reyes y el cerro por poste y conductores caídos",
     "timestamp": 1762825222,
     "timestamp_local": 1762825222
-  },
-  {
-    "id": 28411,
-    "fecha": "10 de Nov del 2025 a las 07:42 PM",
-    "hora_utc": "2025-11-11 00:42",
-    "mensaje": "En avería circuito MI 1453 que da servicio al Hospital Infantil, calle Compostela, Centro de la Ciudad por conductor primario partido",
-    "timestamp": 1762821755,
-    "timestamp_local": 1762821755
-  },
-  {
-    "id": 28410,
-    "fecha": "10 de Nov del 2025 a las 07:35 PM",
-    "hora_utc": "2025-11-11 00:35",
-    "mensaje": "⚡La provincia presenta una afectación de 161 MW por déficit de capacidad de generación",
-    "timestamp": 1762821335,
-    "timestamp_local": 1762821335
-  },
-  {
-    "id": 28409,
-    "fecha": "10 de Nov del 2025 a las 07:23 PM",
-    "hora_utc": "2025-11-11 00:23",
-    "mensaje": "Le recordamos a nuestros clientes que el restablecimiento del servicio estará en función de la disponibilidad que se tenga en la provincia según las condiciones del sistema.",
-    "timestamp": 1762820589,
-    "timestamp_local": 1762820589
-  },
-  {
-    "id": 28408,
-    "fecha": "10 de Nov del 2025 a las 07:22 PM",
-    "hora_utc": "2025-11-11 00:22",
-    "mensaje": "✅PRÓXIMO A RESTABLECER ✅\n- Circuito MK1443que da servicio a Limonar",
-    "timestamp": 1762820532,
-    "timestamp_local": 1762820532
   }
 ]
