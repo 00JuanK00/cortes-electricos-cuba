@@ -1,9 +1,41 @@
 [
   {
+    "id": 96748,
+    "fecha": "11 de Nov del 2025 a las 06:20 PM",
+    "hora_utc": "2025-11-11 23:20",
+    "mensaje": "🔷Restablecido el servicio en los siguientes circuitos que se encontraban afectados por manipulación:\n*2 y 3 de San José🔷",
+    "timestamp": 1762903220,
+    "timestamp_local": 1762903220
+  },
+  {
+    "id": 96747,
+    "fecha": "11 de Nov del 2025 a las 06:06 PM",
+    "hora_utc": "2025-11-11 23:06",
+    "mensaje": "🚨Por déficit de capacidad de generación se afecta el servicio en los siguientes circuitos:\n*6 y 8 de San José🚨",
+    "timestamp": 1762902412,
+    "timestamp_local": 1762902412
+  },
+  {
+    "id": 96746,
+    "fecha": "11 de Nov del 2025 a las 06:06 PM",
+    "hora_utc": "2025-11-11 23:06",
+    "mensaje": "🔷Restablecido el servicio en el circuito San Nicolás 3 que se encontraba afectado por manipulación🔷",
+    "timestamp": 1762902408,
+    "timestamp_local": 1762902408
+  },
+  {
+    "id": 96745,
+    "fecha": "11 de Nov del 2025 a las 06:06 PM",
+    "hora_utc": "2025-11-11 23:06",
+    "mensaje": "♦️Afectado el servicio en el circuito San Nicolás 3 por manipulación♦️",
+    "timestamp": 1762902408,
+    "timestamp_local": 1762902408
+  },
+  {
     "id": 96742,
     "fecha": "11 de Nov del 2025 a las 05:55 PM",
     "hora_utc": "2025-11-11 22:55",
-    "mensaje": "📣🚨Continúa afectado el servicio en los siguientes circuitos por avería:\n👉 3130\n👉 Catalina 1\n👉Río Seco\n👉Flor de Itabo\n👉3665\n👉Concuní🚨📣",
+    "mensaje": "📣🚨Continúa afectado el servicio en los siguientes circuitos por avería:\n👉 3130\n👉3930\n👉 Catalina 1\n👉Río Seco\n👉Flor de Itabo\n👉3665\n👉Concuní🚨📣",
     "timestamp": 1762901732,
     "timestamp_local": 1762901732
   },
@@ -102,29 +134,5 @@
     "mensaje": "🚨Por déficit de capacidad de generación se afecta el servicio en el siguiente circuito:\n*2440🚨",
     "timestamp": 1762895205,
     "timestamp_local": 1762895205
-  },
-  {
-    "id": 96725,
-    "fecha": "11 de Nov del 2025 a las 04:05 PM",
-    "hora_utc": "2025-11-11 21:05",
-    "mensaje": "🔷Restablecido el servicio en la Sub Trópico que se encontraba afectada por por posible avería🔷",
-    "timestamp": 1762895104,
-    "timestamp_local": 1762895104
-  },
-  {
-    "id": 96724,
-    "fecha": "11 de Nov del 2025 a las 03:59 PM",
-    "hora_utc": "2025-11-11 20:59",
-    "mensaje": "🔷Restablecido el servicio en el PU-85 que se encontraba afectado por por disparo en las líneas🔷",
-    "timestamp": 1762894753,
-    "timestamp_local": 1762894753
-  },
-  {
-    "id": 96723,
-    "fecha": "11 de Nov del 2025 a las 03:55 PM",
-    "hora_utc": "2025-11-11 20:55",
-    "mensaje": "🚨Por déficit de capacidad de generación se afecta el servicio en el siguiente circuito:\n*Catalina 2🚨",
-    "timestamp": 1762894523,
-    "timestamp_local": 1762894523
   }
 ]
