@@ -1,5 +1,21 @@
 [
   {
+    "id": 33543,
+    "fecha": "11 de Nov del 2025 a las 11:01 PM",
+    "hora_utc": "2025-11-12 04:01",
+    "mensaje": "Afectados 60 MW en la provincia, demanda máxima a apagar en estos momentos.",
+    "timestamp": 1762920071,
+    "timestamp_local": 1762920071
+  },
+  {
+    "id": 33542,
+    "fecha": "11 de Nov del 2025 a las 10:59 PM",
+    "hora_utc": "2025-11-12 03:59",
+    "mensaje": "💡Restablecido el servicio en los siguientes circuitos: \n🔹Municipio Cifuentes:\n👉Ctos 114 y 117\n👉Ctos 116 y 155 Mata\n👉Cto 186 Batey Unidad Proletaria\n👉Cto 184 Sitio Grande\n🔹Municipio Encrucijada:\n👉Cto 122 Encrucijada \n👉Cto 123 Vizcaya \n👉Cto 142 Comunidad La Sierra \n👉Cto 126 Batey Emilio Córdova\n👉Cto 125 Cavarrocas\n👉Cto 124 El Santo\n🔹Municipio Camajuaní:\n👉Cto 78 Jutiero\n👉Ctos  72, 73, 129 y 156 \n👉Cto 74 José María Pérez",
+    "timestamp": 1762919979,
+    "timestamp_local": 1762919979
+  },
+  {
     "id": 33541,
     "fecha": "11 de Nov del 2025 a las 10:06 PM",
     "hora_utc": "2025-11-12 03:06",
@@ -134,21 +150,5 @@
     "mensaje": "⚠️En déficit de capacidad de generación los siguientes circuitos:\n🔹Municipio Manicaragua:\n👉Ctos 109 y 150\n👉Ctos 108 y 110 La Piedra\n👉Cto 111 Mataguá (Avería)\n🔹Municipio Placetas \n👉Ctos 100 y 151 Placetas\n👉Cto 104 Hermanos Amejeiras (Avería Parcial)\n👉Cto 103 Batey Carbó Servia\n🔹Municipio Caibarién:\n👉Ctos 61, 62, 63 y 64\n👉Ctos 182 y 183 Van Troi",
     "timestamp": 1762894863,
     "timestamp_local": 1762894863
-  },
-  {
-    "id": 33523,
-    "fecha": "11 de Nov del 2025 a las 03:50 PM",
-    "hora_utc": "2025-11-11 20:50",
-    "mensaje": "🛠️ Manipulación del circuito 31 (Sakenaf), del municipio Santa Clara, para trabajo de vía libre para realizar cambio de transformador.\n✍️ Quedará afectado parcialmente hasta tanto no se concluyan las acciones por parte de la brigada eléctrica.",
-    "timestamp": 1762894240,
-    "timestamp_local": 1762894240
-  },
-  {
-    "id": 33522,
-    "fecha": "11 de Nov del 2025 a las 03:43 PM",
-    "hora_utc": "2025-11-11 20:43",
-    "mensaje": "⚠️En déficit de capacidad de generación los siguientes circuitos:\n🔹Municipio Sagua:\n👉Ctos 43 y 51\n👉Ctos 50 y 147 Villa Alegre \n👉Cto 44 Isabela",
-    "timestamp": 1762893794,
-    "timestamp_local": 1762893794
   }
 ]
