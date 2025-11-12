@@ -1,5 +1,29 @@
 [
   {
+    "id": 33588,
+    "fecha": "12 de Nov del 2025 a las 02:17 PM",
+    "hora_utc": "2025-11-12 19:17",
+    "mensaje": "⚠️Se encuentra disparado el Cto 170 (José Martí), perteneciente al municipio Santa Clara.",
+    "timestamp": 1762975071,
+    "timestamp_local": 1762975071
+  },
+  {
+    "id": 33587,
+    "fecha": "12 de Nov del 2025 a las 02:10 PM",
+    "hora_utc": "2025-11-12 19:10",
+    "mensaje": "Actualización del servicio eléctrico en la provincia\n✍️Se mantienen afectados en la provincia 119 circuitos.\n✍️En el momento de hacer esta nota la provincia tiene 80 MW de afectación por déficit de capacidad de generación, demanda máxima posible a apagar.\n✍️Cuenta con 128 afectaciones por averías secundarias y de servicio.",
+    "timestamp": 1762974635,
+    "timestamp_local": 1762974635
+  },
+  {
+    "id": 33586,
+    "fecha": "12 de Nov del 2025 a las 02:09 PM",
+    "hora_utc": "2025-11-12 19:09",
+    "mensaje": "⚠️En déficit de capacidad de generación los siguientes circuitos:\n🔹Municipio Ranchuelo:\n👉Cto 92 Esperanza (Pueblo)\n👉Cto 93 Esperanza (Campo)\n👉Cto 54 94 y 95 Jicotea  \n🔹Municipio Santa Clara\n👉Ctos 26 y 141 (Manuelita\n👉Cto 191 (Quemado de Hilario)\n🔹Santo Domingo:\n**👉Cto 163 Batey 26 de Julio**\n**👉Cto 81 26 Julio**",
+    "timestamp": 1762974565,
+    "timestamp_local": 1762974565
+  },
+  {
     "id": 33585,
     "fecha": "12 de Nov del 2025 a las 01:59 PM",
     "hora_utc": "2025-11-12 18:59",
@@ -134,29 +158,5 @@
     "mensaje": "💡Restablecido el DAF en la línea del 1955:\n🔹Municipio Encrucijada:\n👉Cto 122 Encrucijada \n👉Cto 123 Vizcaya \n👉Cto 142 Comunidad La Sierra \n👉Cto 126 Batey Emilio Córdova\n👉Cto 125 Cavarrocas\n👉Cto 124 El Santo\nMunicipio Camajuaní:\n👉Cto 78 Jutiero",
     "timestamp": 1762962609,
     "timestamp_local": 1762962609
-  },
-  {
-    "id": 33568,
-    "fecha": "12 de Nov del 2025 a las 10:39 AM",
-    "hora_utc": "2025-11-12 15:39",
-    "mensaje": "⚠️En déficit de capacidad de generación los siguientes circuitos:\n🔹Municipio Santa Clara:\n👉Cto 162 SC. Industrial\n👉Cto 132 SC. Industrial",
-    "timestamp": 1762961951,
-    "timestamp_local": 1762961951
-  },
-  {
-    "id": 33567,
-    "fecha": "12 de Nov del 2025 a las 10:34 AM",
-    "hora_utc": "2025-11-12 15:34",
-    "mensaje": "⚠️Afectada por DAF la línea del 1955:\nMunicipio Encrucijada:\n👉Cto 122 Encrucijada \n👉Cto 123 Vizcaya \n👉Cto 142 Comunidad La Sierra \n👉Cto 126 Batey Emilio Córdova\n👉Cto 125 Cavarrocas\n👉Cto 124 El Santo\nMunicipio Camajuaní:\n👉Cto 78 Jutiero",
-    "timestamp": 1762961664,
-    "timestamp_local": 1762961664
-  },
-  {
-    "id": 33566,
-    "fecha": "12 de Nov del 2025 a las 10:33 AM",
-    "hora_utc": "2025-11-12 15:33",
-    "mensaje": "⚠️Afectada la línea del 1215 por Vía Libre:\nMunicipio Sagua \n👉Cto 48 Finalet\n👉Ctos 46 y 128 Sitiecito",
-    "timestamp": 1762961582,
-    "timestamp_local": 1762961582
   }
 ]
