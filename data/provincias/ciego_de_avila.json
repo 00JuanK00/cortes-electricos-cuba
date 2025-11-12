@@ -1,5 +1,13 @@
 [
   {
+    "id": 33452,
+    "fecha": "12 de Nov del 2025 a las 10:58 AM",
+    "hora_utc": "2025-11-12 15:58",
+    "mensaje": "👉En estos momentos tenemos 80 MW en la provincia afectados por déficit de generación. Con este déficit no podemos cumplir con una programación estable, por lo que los circuitos se afectarán o se restablecerán en dependencia del déficit que haya en cada momento de la jornada.",
+    "timestamp": 1762963081,
+    "timestamp_local": 1762963081
+  },
+  {
     "id": 33451,
     "fecha": "12 de Nov del 2025 a las 09:12 AM",
     "hora_utc": "2025-11-12 14:12",
@@ -142,13 +150,5 @@
     "mensaje": "✅ Información.\n👉 Se encuentra en fallo el circuito de Jicotea, se recorren las lineas para encontrar la avería.",
     "timestamp": 1762900180,
     "timestamp_local": 1762900180
-  },
-  {
-    "id": 33432,
-    "fecha": "11 de Nov del 2025 a las 04:07 PM",
-    "hora_utc": "2025-11-11 21:07",
-    "mensaje": "‼️ Información del déficit de generación ‼️   \n👉Tenemos 70 MW en la provincia afectados por déficit de generación.\n⏰ Con este déficit, la carga a apagar en la provincia no nos permite realizar una rotación estable de los circuitos, por lo que se afectarán o se restablecerán en dependencia del déficit que haya en cada momento de la jornada, que es muy variable.",
-    "timestamp": 1762895246,
-    "timestamp_local": 1762895246
   }
 ]
