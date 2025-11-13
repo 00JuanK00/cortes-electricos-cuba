@@ -1,5 +1,21 @@
 [
   {
+    "id": 33459,
+    "fecha": "12 de Nov del 2025 a las 08:45 PM",
+    "hora_utc": "2025-11-13 01:45",
+    "mensaje": "✅ Información.\n👉 Se restablece el servicio en el circuito 2.",
+    "timestamp": 1762998309,
+    "timestamp_local": 1762998309
+  },
+  {
+    "id": 33458,
+    "fecha": "12 de Nov del 2025 a las 08:09 PM",
+    "hora_utc": "2025-11-13 01:09",
+    "mensaje": "‼️ Información del déficit de generación ‼️   \n👉Tenemos 90  MW en la provincia afectados por déficit de generación.\n⏰ Con este déficit, la carga a apagar en la provincia no nos permite realizar una rotación estable de los circuitos, por lo que se afectarán o se restablecerán en dependencia del déficit que haya en cada momento de la jornada, que es muy variable.",
+    "timestamp": 1762996156,
+    "timestamp_local": 1762996156
+  },
+  {
     "id": 33457,
     "fecha": "12 de Nov del 2025 a las 06:25 PM",
     "hora_utc": "2025-11-12 23:25",
@@ -118,21 +134,5 @@
     "mensaje": "‼️ Déficit de Generación ‼️   \n👉 Bajamos a 40 MW en la provincia afectados por déficit de generación.\n👉Se restablecen  los siguientes circuitos.\n💥La Cuba, La Cuba, Cítrico I, Cítrico III, Cítrico IV, Ceballos, Combinado Cítrico, Las Grulla, Falla, Florencia y Tamarindo.\n\n ⏰ Reiteramos que los circuitos se afectarán o se restablecerán en dependencia del déficit en cada momento de la jornada, que es muy variable.",
     "timestamp": 1762920793,
     "timestamp_local": 1762920793
-  },
-  {
-    "id": 33439,
-    "fecha": "11 de Nov del 2025 a las 10:52 PM",
-    "hora_utc": "2025-11-12 03:52",
-    "mensaje": "🔊Información🔊\n✅Se restablece el servicio eléctrico en el circuito Baraguá",
-    "timestamp": 1762919526,
-    "timestamp_local": 1762919526
-  },
-  {
-    "id": 33438,
-    "fecha": "11 de Nov del 2025 a las 10:29 PM",
-    "hora_utc": "2025-11-12 03:29",
-    "mensaje": "‼️ Déficit de Generación ‼️   \n👉 Bajamos a 55 MW en la provincia afectados por déficit de generación.\n👉Se restablecen  los siguientes circuitos.\n💥La Piña, La Teresa, El Burro, La Ofelia, Morón Sur, San Fernando, Patria.\n ⏰ Reiteramos que los circuitos se afectarán o se restablecerán en dependencia del déficit en cada momento de la jornada, que es muy variable.",
-    "timestamp": 1762918166,
-    "timestamp_local": 1762918166
   }
 ]
