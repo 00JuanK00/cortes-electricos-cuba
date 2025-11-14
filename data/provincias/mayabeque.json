@@ -1,5 +1,37 @@
 [
   {
+    "id": 97061,
+    "fecha": "14 de Nov del 2025 a las 11:00 AM",
+    "hora_utc": "2025-11-14 16:00",
+    "mensaje": "♦️ Afectado el servicio en el circuito 3130 por disparo en las líneas ♦️",
+    "timestamp": 1763136039,
+    "timestamp_local": 1763136039
+  },
+  {
+    "id": 97060,
+    "fecha": "14 de Nov del 2025 a las 10:58 AM",
+    "hora_utc": "2025-11-14 15:58",
+    "mensaje": "🚨 Por déficit de capacidad de generación se afecta el servicio en el siguiente circuito:\n*Güines 3 🚨",
+    "timestamp": 1763135888,
+    "timestamp_local": 1763135888
+  },
+  {
+    "id": 97059,
+    "fecha": "14 de Nov del 2025 a las 10:57 AM",
+    "hora_utc": "2025-11-14 15:57",
+    "mensaje": "🔷 Restablecido el servicio en el circuito 3140 que se encontraba afectado por disparo por DAF🔷",
+    "timestamp": 1763135852,
+    "timestamp_local": 1763135852
+  },
+  {
+    "id": 97058,
+    "fecha": "14 de Nov del 2025 a las 10:51 AM",
+    "hora_utc": "2025-11-14 15:51",
+    "mensaje": "🚨 Por déficit de capacidad de generación se afecta el servicio en el siguiente circuito:\n*2440🚨",
+    "timestamp": 1763135507,
+    "timestamp_local": 1763135507
+  },
+  {
     "id": 97057,
     "fecha": "14 de Nov del 2025 a las 10:45 AM",
     "hora_utc": "2025-11-14 15:45",
@@ -78,29 +110,5 @@
     "mensaje": "♦️ Afectado el servicio en el circuito 1790 por vía libre ♦️",
     "timestamp": 1763130193,
     "timestamp_local": 1763130193
-  },
-  {
-    "id": 97041,
-    "fecha": "14 de Nov del 2025 a las 08:43 AM",
-    "hora_utc": "2025-11-14 13:43",
-    "mensaje": "**Nota Informativa: Estado del Sistema Eléctrico Nacional (SEN) – 14 de noviembre de 2025**\nEn el día de ayer se afectó el servicio las 24 horas y se cerró la afectación a la 00:32 de la madrugada de hoy, a las 05:17 se comenzó a afectar nuevamente el servicio. La máxima afectación por déficit de capacidad de generación en el día de ayer fue de 1400 MW a las 18:20 horas. Afectados además 140 MW en las provincias de Holguín a Guantánamo por el paso del Huracán Melissa.\nLa producción de energía de los 30 nuevos parques solares fotovoltaicos fue de 1818 MWh, con 315 MW como máxima potencia entregada en el horario de la media con esta fuente de generación.\n**Estado actual del SEN**\nLa disponibilidad del SEN a las 06:00 horas es de 1721MW y la demanda 1920 MW con 212 MW afectados por déficit de capacidad. En el horario de la media se estima una afectación de 650 MW.\n**Principales incidencias**\nAvería: Unidades 5 y 6 de la CTE Antonio Maceo, Unidad 2 de la CTE Felton.\nMantenimiento: Unidad de la CTE Antonio Guiteras, Unidad 2 de la CTE Santa Cruz, Unidad 4 de la CTE Carlos Manuel de Céspedes en Cienfuegos.\nLimitaciones en la generación térmica: 466 fuera de servicio.\nProblemas por falta de combustible\n80 centrales de generación distribuida con 633 MW.\n99 MW indisponibles por falta de lubricante.\nTotal de MW afectados por esta causa: 732 MW.\n**Pronóstico para el horario pico**\nCon este pronóstico en el horario pico se estima una disponibilidad de 1721 MW y una demanda máxima de 3000 MW, para un déficit de 1279 MW, por lo que de mantenerse las condiciones previstas se pronostica una afectación de 1349 MW en este horario.",
-    "timestamp": 1763127808,
-    "timestamp_local": 1763127808
-  },
-  {
-    "id": 97039,
-    "fecha": "14 de Nov del 2025 a las 07:57 AM",
-    "hora_utc": "2025-11-14 12:57",
-    "mensaje": "🚨 Por déficit de capacidad de generación se afecta el servicio en el siguiente circuito:\n*La Salud 1🚨",
-    "timestamp": 1763125051,
-    "timestamp_local": 1763125051
-  },
-  {
-    "id": 97038,
-    "fecha": "14 de Nov del 2025 a las 07:42 AM",
-    "hora_utc": "2025-11-14 12:42",
-    "mensaje": "🚨 Por déficit de capacidad de generación se afecta el servicio en el siguiente circuito:\n*Madruga🚨",
-    "timestamp": 1763124158,
-    "timestamp_local": 1763124158
   }
 ]
