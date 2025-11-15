@@ -1,5 +1,29 @@
 [
   {
+    "id": 33756,
+    "fecha": "15 de Nov del 2025 a las 11:27 AM",
+    "hora_utc": "2025-11-15 16:27",
+    "mensaje": "🛠️ Afectadas por DAF (Disparo Automático por Frecuencia), las líneas 1915 y 1955:\nAfecta los siguientes circuitos:\n🔹Municipio Placetas:\n👉Cto 192 Benito Juárez\n👉Cto 102 Peroti\n🔹Municipio Encrucijada:\n👉Cto 122 Encrucijada \n👉Cto 123 Vizcaya \n👉Cto 142 Comunidad La Sierra \n👉Cto 126 Batey Emilio Córdova\n👉Cto 125 Cavarrocas\n👉Cto 124 El Santo\n🔹Municipio Camajuaní:\n👉Cto 78 Jutiero",
+    "timestamp": 1763224032,
+    "timestamp_local": 1763224032
+  },
+  {
+    "id": 33755,
+    "fecha": "15 de Nov del 2025 a las 11:14 AM",
+    "hora_utc": "2025-11-15 16:14",
+    "mensaje": "Con servicio los circuitos 68 y 118 del municipio Remedios.",
+    "timestamp": 1763223271,
+    "timestamp_local": 1763223271
+  },
+  {
+    "id": 33754,
+    "fecha": "15 de Nov del 2025 a las 11:00 AM",
+    "hora_utc": "2025-11-15 16:00",
+    "mensaje": "🛠️Afectado por disparo los circuitos 68 y 118 del municipio Remedios. Se estudian las causas.",
+    "timestamp": 1763222459,
+    "timestamp_local": 1763222459
+  },
+  {
     "id": 33753,
     "fecha": "15 de Nov del 2025 a las 10:59 AM",
     "hora_utc": "2025-11-15 15:59",
@@ -118,29 +142,5 @@
     "mensaje": "Continuamos con 0 déficit de capacidad de generación en la provincia.",
     "timestamp": 1763195263,
     "timestamp_local": 1763195263
-  },
-  {
-    "id": 33737,
-    "fecha": "15 de Nov del 2025 a las 01:29 AM",
-    "hora_utc": "2025-11-15 06:29",
-    "mensaje": "👉Ante cualquier duda con la terminología eléctrica, les volvemos explicar: \n     \n🛠️Las averías pueden ser primarias (afecta un volumen grande de población pues son las líneas de distribución a 13.8kV y puede afectar varias manzanas, incluso repartos completos).\n\n🛠️Secundarias (afecta a todos los clientes que se alimenten del mismo transformador, puede afectar una o varias cuadras). \n\n🛠️De servicio (afectan 1 solo cliente o instalación generalmente producto a daños en la acometida, metro contador, etc.).",
-    "timestamp": 1763188170,
-    "timestamp_local": 1763188170
-  },
-  {
-    "id": 33735,
-    "fecha": "14 de Nov del 2025 a las 11:55 PM",
-    "hora_utc": "2025-11-15 04:55",
-    "mensaje": "💡Con servicio eléctrico los siguientes circuitos:\n👉Municipio Placetas:\nCto 101 y 145 Cumbre",
-    "timestamp": 1763182527,
-    "timestamp_local": 1763182527
-  },
-  {
-    "id": 33734,
-    "fecha": "14 de Nov del 2025 a las 11:49 PM",
-    "hora_utc": "2025-11-15 04:49",
-    "mensaje": "🕛Actualización del servicio eléctrico en las últimas 6 horas.\n\n👉El déficit de capacidad de generación osciló entre los 135 MW y los 20 MW.\n👉En el momento de esta nota, se mantienen afectados 26 circuitos.\n👉Cuenta con 52 afectaciones por averías secundarias y de servicio:\n Caibarién (1)\n Camajuaní (1)\n Encrucijada (1)\n Manicaragua (8)\n Remedios (7)  \n Santa Clara (15)\n Santo Domingo (6)\n🛠️Se encuentran 2 averías en vías de solución.\n🛠️Pendientes a solucionar por el área técnica 11.\n⚡La provincia no presenta averías primarias.",
-    "timestamp": 1763182150,
-    "timestamp_local": 1763182150
   }
 ]
