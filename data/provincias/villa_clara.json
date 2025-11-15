@@ -1,5 +1,13 @@
 [
   {
+    "id": 33737,
+    "fecha": "15 de Nov del 2025 a las 01:29 AM",
+    "hora_utc": "2025-11-15 06:29",
+    "mensaje": "👉Ante cualquier duda con la terminología eléctrica, les volvemos explicar: \n     \n🛠️Las averías pueden ser primarias (afecta un volumen grande de población pues son las líneas de distribución a 13.8kV y puede afectar varias manzanas, incluso repartos completos).\n\n🛠️Secundarias (afecta a todos los clientes que se alimenten del mismo transformador, puede afectar una o varias cuadras). \n\n🛠️De servicio (afectan 1 solo cliente o instalación generalmente producto a daños en la acometida, metro contador, etc.).",
+    "timestamp": 1763188170,
+    "timestamp_local": 1763188170
+  },
+  {
     "id": 33735,
     "fecha": "14 de Nov del 2025 a las 11:55 PM",
     "hora_utc": "2025-11-15 04:55",
@@ -142,13 +150,5 @@
     "mensaje": "⚠️En déficit capacidad de generación los circuitos siguientes:\n 👉Municipio Santa Clara:\nCto 16 Cubanacán\nCtos 23 y 130 La Ceniza\nCto 42 Manajanabo\n👉Municipio Placetas\nCto 139 Miller\nCto 190 Oliver\nCto 106 Falcón",
     "timestamp": 1763159954,
     "timestamp_local": 1763159954
-  },
-  {
-    "id": 33717,
-    "fecha": "14 de Nov del 2025 a las 05:20 PM",
-    "hora_utc": "2025-11-14 22:20",
-    "mensaje": "⚠️En déficit de capacidad de generación los circuitos siguientes:\n👉Municipio Santa Clara:\nCtos 1, 2, 4 (Consejo- Centro)",
-    "timestamp": 1763158810,
-    "timestamp_local": 1763158810
   }
 ]
