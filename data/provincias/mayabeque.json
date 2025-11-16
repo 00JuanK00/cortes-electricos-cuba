@@ -1,5 +1,29 @@
 [
   {
+    "id": 97268,
+    "fecha": "16 de Nov del 2025 a las 03:00 PM",
+    "hora_utc": "2025-11-16 20:00",
+    "mensaje": "🔷 Restablecido el servicio en el circuito 3140 que se encontraba afectado por DAF🔷",
+    "timestamp": 1763323247,
+    "timestamp_local": 1763323247
+  },
+  {
+    "id": 97267,
+    "fecha": "16 de Nov del 2025 a las 02:58 PM",
+    "hora_utc": "2025-11-16 19:58",
+    "mensaje": "🚨Por déficit de capacidad de generación se afecta el servicio en el siguiente circuito:\n*Güines 3  🚨",
+    "timestamp": 1763323090,
+    "timestamp_local": 1763323090
+  },
+  {
+    "id": 97266,
+    "fecha": "16 de Nov del 2025 a las 02:57 PM",
+    "hora_utc": "2025-11-16 19:57",
+    "mensaje": "♦️ Afectado el servicio en el circuito 3140 por disparo por DAF ♦️",
+    "timestamp": 1763323043,
+    "timestamp_local": 1763323043
+  },
+  {
     "id": 97265,
     "fecha": "16 de Nov del 2025 a las 02:32 PM",
     "hora_utc": "2025-11-16 19:32",
@@ -134,29 +158,5 @@
     "mensaje": "♦️ Afectado el servicio en el circuito Bío 2 por manipulación  ♦️",
     "timestamp": 1763311675,
     "timestamp_local": 1763311675
-  },
-  {
-    "id": 97247,
-    "fecha": "16 de Nov del 2025 a las 10:14 AM",
-    "hora_utc": "2025-11-16 15:14",
-    "mensaje": "🔷♦️Se restablece el servicio en el siguiente circuito que se encontraba afectado por déficit de capacidad de generación: \n*ML 35 🔷♦️\n\n\n🚨 Continúa afectó por déficit de capacidad de generación los siguientes circuitos:\n*Melena 1 y 2\n*Caamaño 🚨",
-    "timestamp": 1763306072,
-    "timestamp_local": 1763306072
-  },
-  {
-    "id": 97246,
-    "fecha": "16 de Nov del 2025 a las 10:04 AM",
-    "hora_utc": "2025-11-16 15:04",
-    "mensaje": "🚨Por déficit de capacidad de generación se afecta el servicio en los siguientes circuitos:\n*3655\n*3660🚨",
-    "timestamp": 1763305493,
-    "timestamp_local": 1763305493
-  },
-  {
-    "id": 97245,
-    "fecha": "16 de Nov del 2025 a las 09:31 AM",
-    "hora_utc": "2025-11-16 14:31",
-    "mensaje": "♦️ Continúa afectado las siguientes zonas correspondientes al circuito de Catalina 1 por avería:\n*Ayala\n*Genética 4\n*Pepón\n*Aleida Fernández\n*Presa Pedroso y zonas aledañas ♦️",
-    "timestamp": 1763303512,
-    "timestamp_local": 1763303512
   }
 ]
