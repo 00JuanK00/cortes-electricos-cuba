@@ -1,5 +1,21 @@
 [
   {
+    "id": 33878,
+    "fecha": "17 de Nov del 2025 a las 01:01 AM",
+    "hora_utc": "2025-11-17 06:01",
+    "mensaje": "Afectados 67 MW en la provincia, demanda máxima a apagar en estos momentos.",
+    "timestamp": 1763359314,
+    "timestamp_local": 1763359314
+  },
+  {
+    "id": 33877,
+    "fecha": "17 de Nov del 2025 a las 01:01 AM",
+    "hora_utc": "2025-11-17 06:01",
+    "mensaje": "💡Con servicio eléctrico los siguientes circuitos: \n🔹Municipio Santo Domingo:\n👉Cto 134\n👉Ctos 87 y 96 Bermejal\n👉Cto 187 Batey Carlos Baliño\n👉Cto 82 Ulacia\n👉Cto 84 Rodrigo\n🔹Municipio Corralillo:\n👉Ctos 58 y 159\n👉Cto 57 Motembo\n👉Cto 56 Yabre\n👉Cto 60 La Sierra\n👉Cto 55 Rancho Veloz",
+    "timestamp": 1763359280,
+    "timestamp_local": 1763359280
+  },
+  {
     "id": 33876,
     "fecha": "17 de Nov del 2025 a las 12:10 AM",
     "hora_utc": "2025-11-17 05:10",
@@ -134,21 +150,5 @@
     "mensaje": "🕕Actualización del servicio eléctrico en las últimas 6 horas.\n✍️El déficit de capacidad de generación osciló entre los 49 MW y los 134 MW.\n✍️En el momento de esta nota, se mantienen afectados 143 circuitos.\n✍️Cuenta con 47 afectaciones por averías secundarias y de servicio:\n🔸Corralillo (1)\n🔸Encrucijada (5)\n🔸Manicaragua (5)\n🔸Placetas (1)\n🔸Ranchuelo (3)\n🔸Remedios (6)\n🔸Sagua (4)\n🔸Santa Clara (14)\n🔸Santo Domingo (6)\n🛠️Se encuentra 0 avería en vías de solución.\n🛠️Pendientes a solucionar por el área técnica 10.\n⚡Avería⚡\nAfectada la línea del 861 perteneciente al municipio Santa Clara:👉Cto 5 (Dobarganes)\n👉Cto 17 (Subplanta)\n👉Ctos 37 y 38 (Yabú)   \n👉Cto 9 (Moldes y Troqueles)\n👉Cto 133 (Cafetera)",
     "timestamp": 1763334436,
     "timestamp_local": 1763334436
-  },
-  {
-    "id": 33858,
-    "fecha": "16 de Nov del 2025 a las 05:36 PM",
-    "hora_utc": "2025-11-16 22:36",
-    "mensaje": "⚠️Afectado por déficit de capacidad de generación el siguiente circuito:\n🔹Municipio Santa Clara:\n👉Cto 167 (Virginia)",
-    "timestamp": 1763332599,
-    "timestamp_local": 1763332599
-  },
-  {
-    "id": 33857,
-    "fecha": "16 de Nov del 2025 a las 05:33 PM",
-    "hora_utc": "2025-11-16 22:33",
-    "mensaje": "⚠️Afectado por déficit de capacidad de generación el siguiente circuito:\n🔹Municipio Santa Clara:\n👉**Cto 31 SC. Industrial**",
-    "timestamp": 1763332398,
-    "timestamp_local": 1763332398
   }
 ]
