@@ -1,5 +1,37 @@
 [
   {
+    "id": 97392,
+    "fecha": "17 de Nov del 2025 a las 02:43 PM",
+    "hora_utc": "2025-11-17 19:43",
+    "mensaje": "🚨Por déficit de capacidad de generación se afecta el servicio en los siguientes circuitos:\n*UNAH\n*Jamaica 🚨",
+    "timestamp": 1763408600,
+    "timestamp_local": 1763408600
+  },
+  {
+    "id": 97391,
+    "fecha": "17 de Nov del 2025 a las 02:26 PM",
+    "hora_utc": "2025-11-17 19:26",
+    "mensaje": "🚨Por déficit de capacidad de generación se afecta el servicio en el siguiente circuito:\n*Somorrostro 🚨",
+    "timestamp": 1763407579,
+    "timestamp_local": 1763407579
+  },
+  {
+    "id": 97389,
+    "fecha": "17 de Nov del 2025 a las 02:09 PM",
+    "hora_utc": "2025-11-17 19:09",
+    "mensaje": "🚨Por déficit de capacidad de generación se afecta el servicio en el siguiente circuito:\n*San Nicolás 1 🚨",
+    "timestamp": 1763406576,
+    "timestamp_local": 1763406576
+  },
+  {
+    "id": 97387,
+    "fecha": "17 de Nov del 2025 a las 02:06 PM",
+    "hora_utc": "2025-11-17 19:06",
+    "mensaje": "🔷 Restablecido el servicio en el circuito 1790 que se encontraba afectado por disparo en las líneas🔷",
+    "timestamp": 1763406412,
+    "timestamp_local": 1763406412
+  },
+  {
     "id": 97386,
     "fecha": "17 de Nov del 2025 a las 01:51 PM",
     "hora_utc": "2025-11-17 18:51",
@@ -35,7 +67,7 @@
     "id": 97382,
     "fecha": "17 de Nov del 2025 a las 01:28 PM",
     "hora_utc": "2025-11-17 18:28",
-    "mensaje": "🔷♦️ Se restablece el servicio en el siguiente circuito que se encontraba afectado por déficit de capacidad de generación:\n*Magela ♦️🔷",
+    "mensaje": "🔷♦️ Se restablece el servicio en los siguientes circuitos que se encontraban afectados por déficit de capacidad de generación:\n*Magela \n*Batabanó\n*Quivicán\n*San Felipe\n*Palomo ♦️🔷",
     "timestamp": 1763404083,
     "timestamp_local": 1763404083
   },
@@ -110,29 +142,5 @@
     "mensaje": "♦️ Afectado el servicio en el circuito 3135 por disparo en las líneas ♦️",
     "timestamp": 1763398117,
     "timestamp_local": 1763398117
-  },
-  {
-    "id": 97369,
-    "fecha": "17 de Nov del 2025 a las 11:19 AM",
-    "hora_utc": "2025-11-17 16:19",
-    "mensaje": "🔷♦️Se restablece el servicio en los circuitos que se encontraban afectados por déficit de capacidad de generación:\n*Nueva Paz\n*Los Palos\n*Sureste ♦️🔷",
-    "timestamp": 1763396369,
-    "timestamp_local": 1763396369
-  },
-  {
-    "id": 97368,
-    "fecha": "17 de Nov del 2025 a las 11:16 AM",
-    "hora_utc": "2025-11-17 16:16",
-    "mensaje": "🔷Con servicio el circuito 3140 que se encontraba afectado por disparo por DAF🔷",
-    "timestamp": 1763396189,
-    "timestamp_local": 1763396189
-  },
-  {
-    "id": 97367,
-    "fecha": "17 de Nov del 2025 a las 11:14 AM",
-    "hora_utc": "2025-11-17 16:14",
-    "mensaje": "♦️ Afectado el servicio en el circuito 3140 por disparo por DAF ♦️",
-    "timestamp": 1763396045,
-    "timestamp_local": 1763396045
   }
 ]
