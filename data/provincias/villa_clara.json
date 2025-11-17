@@ -1,9 +1,33 @@
 [
   {
+    "id": 33868,
+    "fecha": "16 de Nov del 2025 a las 09:11 PM",
+    "hora_utc": "2025-11-17 02:11",
+    "mensaje": "Afectados 102 MW en la provincia, demanda máxima a apagar en estos momentos.",
+    "timestamp": 1763345498,
+    "timestamp_local": 1763345498
+  },
+  {
+    "id": 33867,
+    "fecha": "16 de Nov del 2025 a las 08:34 PM",
+    "hora_utc": "2025-11-17 01:34",
+    "mensaje": "⚠️Afectada por manipulación línea del 129, perteneciente al municipio Santa Clara.",
+    "timestamp": 1763343291,
+    "timestamp_local": 1763343291
+  },
+  {
+    "id": 33866,
+    "fecha": "16 de Nov del 2025 a las 08:10 PM",
+    "hora_utc": "2025-11-17 01:10",
+    "mensaje": "🔸Actualización del servicio eléctrico en la provincia🔸\n✍️Se mantienen afectados en la provincia 124 circuitos.\n✍️En el momento de hacer esta nota la provincia tiene 118 MW por déficit de capacidad de generación.\n✍️Cuenta con 52 afectaciones  por averías secundarias y de servicio.",
+    "timestamp": 1763341829,
+    "timestamp_local": 1763341829
+  },
+  {
     "id": 33865,
     "fecha": "16 de Nov del 2025 a las 07:20 PM",
     "hora_utc": "2025-11-17 00:20",
-    "mensaje": "💡Con servicio eléctrico los siguientes circuitos:\n🔹Municipio Ranchuelo:\n👉Cto 92 Esperanza (Pueblo)\n👉Cto 93 Esperanza (Campo)\n👉Cto 54 94 y 95 Jicotea  \n🔹Municipio Santa Clara\n👉Ctos 26 y 141 (Manuelita)\n👉Cto 191 (Quemado de Hilario)\n👉Cto 144 (Camacho)\n🔹Municipio Santo Domingo:\n👉Cto 195 Batey George Washington\n👉Ctos 83 y 165 Manacas\n👉Ctos 85 y 86 Pajarito\n👉Ctos 160 y 161 Cascajal",
+    "mensaje": "💡Con servicio eléctrico los siguientes circuitos: \n🔹Municipio Santa Clara\n👉Ctos 26 y 141 (Manuelita)\n👉Cto 191 (Quemado de Hilario)\n👉Cto 144 (Camacho)\n🔹Municipio Santo Domingo:\n👉Cto 195 Batey George Washington\n👉Ctos 83 y 165 Manacas\n👉Ctos 85 y 86 Pajarito\n👉Ctos 160 y 161 Cascajal",
     "timestamp": 1763338848,
     "timestamp_local": 1763338848
   },
@@ -126,29 +150,5 @@
     "mensaje": "⚠️Afectados por déficit de capacidad de generación los siguientes circuitos:\n🔹Municipio Santa Clara:\n👉Cto 6 (Vigía)\n👉Cto 39 (Sandino)",
     "timestamp": 1763326409,
     "timestamp_local": 1763326409
-  },
-  {
-    "id": 33848,
-    "fecha": "16 de Nov del 2025 a las 03:37 PM",
-    "hora_utc": "2025-11-16 20:37",
-    "mensaje": "⚠️Afectados por déficit de capacidad de generación los siguientes circuitos:\n🔹Municipio Santa Clara\n👉Cto 162 SC. Industrial\n👉Cto 132 SC. Industrial",
-    "timestamp": 1763325432,
-    "timestamp_local": 1763325432
-  },
-  {
-    "id": 33847,
-    "fecha": "16 de Nov del 2025 a las 03:33 PM",
-    "hora_utc": "2025-11-16 20:33",
-    "mensaje": "⚠️Afectados por déficit de capacidad de generación los siguientes circuitos:\n🔹Municipio Ranchuelo:\n👉Cto 92 Esperanza (Pueblo)\n👉Cto 93 Esperanza (Campo)\n👉Cto 54 94 y 95 Jicotea  \n🔹Municipio Santa Clara\n👉Ctos 26 y 141 (Manuelita)\n👉Cto 191 (Quemado de Hilario)\n🔹Municipio Santo Domingo:\n**👉Cto 163 Batey 26 de Julio**\n**👉Cto 81 26 Julio**",
-    "timestamp": 1763325229,
-    "timestamp_local": 1763325229
-  },
-  {
-    "id": 33846,
-    "fecha": "16 de Nov del 2025 a las 03:29 PM",
-    "hora_utc": "2025-11-16 20:29",
-    "mensaje": "⚠️Afectados por déficit de capacidad de generación los siguientes circuitos:\n🔹Municipio Santo Domingo:\n👉Cto 134\n👉Ctos 87 y 96 Bermejal\n👉Cto 187 Batey Carlos Baliño\n👉Cto 82 Ulacia\n👉Cto 84 Rodrigo\n🔹Municipio Santa Clara \n👉Cto 22 (Construcciones Textil)",
-    "timestamp": 1763324958,
-    "timestamp_local": 1763324958
   }
 ]
