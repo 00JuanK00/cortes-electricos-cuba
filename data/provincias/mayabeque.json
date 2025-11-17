@@ -1,5 +1,21 @@
 [
   {
+    "id": 97323,
+    "fecha": "17 de Nov del 2025 a las 05:00 AM",
+    "hora_utc": "2025-11-17 10:00",
+    "mensaje": "🚨Por déficit de capacidad de generación se afecta el servicio en el siguiente circuito:\n*Güines 4 🚨",
+    "timestamp": 1763373659,
+    "timestamp_local": 1763373659
+  },
+  {
+    "id": 97322,
+    "fecha": "17 de Nov del 2025 a las 05:00 AM",
+    "hora_utc": "2025-11-17 10:00",
+    "mensaje": "🚨Por déficit de capacidad de generación se afecta el servicio en los siguientes circuitos:\n*Melena 1 y 2 🚨",
+    "timestamp": 1763373619,
+    "timestamp_local": 1763373619
+  },
+  {
     "id": 97320,
     "fecha": "17 de Nov del 2025 a las 03:40 AM",
     "hora_utc": "2025-11-17 08:40",
@@ -102,21 +118,5 @@
     "mensaje": "🔷 Restablecido el servicio en el circuito Bío 1 que se encontraba afectado por manipulación 🔷",
     "timestamp": 1763352209,
     "timestamp_local": 1763352209
-  },
-  {
-    "id": 97303,
-    "fecha": "16 de Nov del 2025 a las 11:03 PM",
-    "hora_utc": "2025-11-17 04:03",
-    "mensaje": "🔷♦️Se restablece el servicio en los circuitos que se encontraban afectados por déficit de capacidad de generación:\n*Quivicán\n*San Felipe\n*Palomo ♦️🔷",
-    "timestamp": 1763352181,
-    "timestamp_local": 1763352181
-  },
-  {
-    "id": 97302,
-    "fecha": "16 de Nov del 2025 a las 11:01 PM",
-    "hora_utc": "2025-11-17 04:01",
-    "mensaje": "♦️ Afectado el servicio en el circuito Bío 1 por manipulación ♦️",
-    "timestamp": 1763352093,
-    "timestamp_local": 1763352093
   }
 ]
