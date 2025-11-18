@@ -1,9 +1,17 @@
 [
   {
+    "id": 17181,
+    "fecha": "17 de Nov del 2025 a las 09:02 PM",
+    "hora_utc": "2025-11-18 02:02",
+    "mensaje": "Informamos a nuestros clientes que en este momento nos encontramos en la máxima capacidad apagable, lo que impide el restablecimiento inmediato del servicio eléctrico en los circuitos afectados. La situación podrá mejorar en la medida en que el Sistema Electroenergético Nacional permita recuperar la capacidad de generación.",
+    "timestamp": 1763431369,
+    "timestamp_local": 1763431369
+  },
+  {
     "id": 17179,
     "fecha": "17 de Nov del 2025 a las 06:51 PM",
     "hora_utc": "2025-11-17 23:51",
-    "mensaje": "**Nota programación de las afectaciones:**\nDebido al significativo déficit energético que enfrenta nuestro país y la disponibilidad limitada del Sistema Eléctrico Nacional (SEN) en comparación conla demanda actual, lamentamos no poder proporcionar una programación detallada de las afectaciones en el suministro eléctrico.",
+    "mensaje": "Debido al significativo déficit energético que enfrenta nuestro país y la disponibilidad limitada del Sistema Eléctrico Nacional (SEN) en comparación conla demanda actual, lamentamos no poder proporcionar una programación detallada de las afectaciones en el suministro eléctrico.",
     "timestamp": 1763423493,
     "timestamp_local": 1763423493
   },
@@ -102,21 +110,5 @@
     "mensaje": "**Nota Informativa: Estado del Sistema Eléctrico Nacional (SEN) – 14 de noviembre de 2025**\nEn el día de ayer se afectó el servicio las 24 horas y se cerró la afectación a la 00:32 de la madrugada de hoy, a las 05:17 se comenzó a afectar nuevamente el servicio. La máxima afectación por déficit de capacidad de generación en el día de ayer fue de 1400 MW a las 18:20 horas. Afectados además 140 MW en las provincias de Holguín a Guantánamo por el paso del Huracán Melissa.\nLa producción de energía de los 30 nuevos parques solares fotovoltaicos fue de 1818 MWh, con 315 MW como máxima potencia entregada en el horario de la media con esta fuente de generación.\n**Estado actual del SEN**\nLa disponibilidad del SEN a las 06:00 horas es de 1721MW y la demanda 1920 MW con 212 MW afectados por déficit de capacidad. En el horario de la media se estima una afectación de 650 MW.\n**Principales incidencias**\nAvería: Unidades 5 y 6 de la CTE Antonio Maceo, Unidad 2 de la CTE Felton.\nMantenimiento: Unidad de la CTE Antonio Guiteras, Unidad 2 de la CTE Santa Cruz, Unidad 4 de la CTE Carlos Manuel de Céspedes en Cienfuegos.\nLimitaciones en la generación térmica: 466 fuera de servicio.\nProblemas por falta de combustible\n80 centrales de generación distribuida con 633 MW.\n99 MW indisponibles por falta de lubricante.\nTotal de MW afectados por esta causa: 732 MW.\n**Pronóstico para el horario pico**\nCon este pronóstico en el horario pico se estima una disponibilidad de 1721 MW y una demanda máxima de 3000 MW, para un déficit de 1279 MW, por lo que de mantenerse las condiciones previstas se pronostica una afectación de 1349 MW en este horario.",
     "timestamp": 1763127152,
     "timestamp_local": 1763127152
-  },
-  {
-    "id": 17161,
-    "fecha": "14 de Nov del 2025 a las 03:39 AM",
-    "hora_utc": "2025-11-14 08:39",
-    "mensaje": "Se declara en avería \nCircuito 33 Kv: 4220\nTK28 La Guinea\nTK52 Covarrubias\nTK31 Pueblo Manatí\nTK33 Pueblo Manatí\nTK34 Pueblo Manatí",
-    "timestamp": 1763109545,
-    "timestamp_local": 1763109545
-  },
-  {
-    "id": 17160,
-    "fecha": "14 de Nov del 2025 a las 12:17 AM",
-    "hora_utc": "2025-11-14 05:17",
-    "mensaje": "Cerrado el déficit en la provincia.",
-    "timestamp": 1763097446,
-    "timestamp_local": 1763097446
   }
 ]
