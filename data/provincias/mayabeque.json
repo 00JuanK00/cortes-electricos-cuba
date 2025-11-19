@@ -1,5 +1,29 @@
 [
   {
+    "id": 97552,
+    "fecha": "19 de Nov del 2025 a las 08:59 AM",
+    "hora_utc": "2025-11-19 13:59",
+    "mensaje": "🔷♦️Se restablece el servicio en el siguiente circuito que se encontraba afectado por déficit de capacidad de generación: \n*Madruga🔷♦️",
+    "timestamp": 1763560787,
+    "timestamp_local": 1763560787
+  },
+  {
+    "id": 97551,
+    "fecha": "19 de Nov del 2025 a las 08:56 AM",
+    "hora_utc": "2025-11-19 13:56",
+    "mensaje": "📣🚨Pasa a quedar afectado por avería los siguientes circuitos que se encontraban afectados por déficit de capacidad de generación:\n*Menocal \n*Babiney\n*Nazareno🚨📣",
+    "timestamp": 1763560616,
+    "timestamp_local": 1763560616
+  },
+  {
+    "id": 97550,
+    "fecha": "19 de Nov del 2025 a las 08:56 AM",
+    "hora_utc": "2025-11-19 13:56",
+    "mensaje": "🔷Restablecido el servicio en el circuito 3590 que se encontraba afectado por manipulación🔷",
+    "timestamp": 1763560569,
+    "timestamp_local": 1763560569
+  },
+  {
     "id": 97549,
     "fecha": "19 de Nov del 2025 a las 08:49 AM",
     "hora_utc": "2025-11-19 13:49",
@@ -126,29 +150,5 @@
     "mensaje": "🚨Por déficit de capacidad de generación se afecta el servicio en el siguiente circuito:\n*Güines 3🚨",
     "timestamp": 1763552086,
     "timestamp_local": 1763552086
-  },
-  {
-    "id": 97532,
-    "fecha": "19 de Nov del 2025 a las 06:33 AM",
-    "hora_utc": "2025-11-19 11:33",
-    "mensaje": "🔷Restablecido el servicio en el circuito 3140 que se encontraba afectado por disparo por DAF🔷",
-    "timestamp": 1763551983,
-    "timestamp_local": 1763551983
-  },
-  {
-    "id": 97531,
-    "fecha": "19 de Nov del 2025 a las 06:30 AM",
-    "hora_utc": "2025-11-19 11:30",
-    "mensaje": "♦️Afectado el servicio en el circuito 3140 por disparo por DAF♦️",
-    "timestamp": 1763551823,
-    "timestamp_local": 1763551823
-  },
-  {
-    "id": 97530,
-    "fecha": "19 de Nov del 2025 a las 06:23 AM",
-    "hora_utc": "2025-11-19 11:23",
-    "mensaje": "🔷♦️ Se restablece el servicio en los siguientes circuitos que se encontraban afectados por déficit de capacidad de generación:\n*Güines 1\n*Güines 4♦️🔷",
-    "timestamp": 1763551382,
-    "timestamp_local": 1763551382
   }
 ]
