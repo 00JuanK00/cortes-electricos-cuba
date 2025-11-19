@@ -1,5 +1,37 @@
 [
   {
+    "id": 34002,
+    "fecha": "19 de Nov del 2025 a las 11:02 AM",
+    "hora_utc": "2025-11-19 16:02",
+    "mensaje": "⚡Afectada la línea 4608 por tensor partido encima de la línea 33 kv:\nAfecta los siguientes circuitos:\n🔹Municipio Corralillo:\n👉Ctos 58 y 159\n👉Cto 57 Motembo\n👉Cto 56 Yabre\n👉Cto 60 La Sierra\n👉Cto 55 Rancho Veloz\n✍️ Brigada eléctrica de nuestra empresa se encuentra trabajando en el lugar para reponer el servicio en el menor tiempo posible.",
+    "timestamp": 1763568142,
+    "timestamp_local": 1763568142
+  },
+  {
+    "id": 34001,
+    "fecha": "19 de Nov del 2025 a las 10:55 AM",
+    "hora_utc": "2025-11-19 15:55",
+    "mensaje": "🛠️ Afectado de forma parcial el circuito 24 (Planta Asfalto), del municipio de Santa Clara, por trabajo de vía libre para realizar poda y mantenimiento de las líneas eléctricas.",
+    "timestamp": 1763567742,
+    "timestamp_local": 1763567742
+  },
+  {
+    "id": 34000,
+    "fecha": "19 de Nov del 2025 a las 10:51 AM",
+    "hora_utc": "2025-11-19 15:51",
+    "mensaje": "🛠️ Afectada línea 108 para cerrar puentes abiertos:\nAfecta los siguientes circuitos:\n🔹Municipio Ranchuelo:\n👉Cto 92 Esperanza (Pueblo)\n👉Cto 93 Esperanza (Campo)\n👉Cto 54 94 y 95 Jicotea  \n🔹Municipio Santa Clara\n👉Ctos 26 y 141 (Manuelita)\n👉Cto 191 (Quemado de Hilario)",
+    "timestamp": 1763567470,
+    "timestamp_local": 1763567470
+  },
+  {
+    "id": 33999,
+    "fecha": "19 de Nov del 2025 a las 10:47 AM",
+    "hora_utc": "2025-11-19 15:47",
+    "mensaje": "🔸Actualización del servicio eléctrico en la provincia🔸\n✍️Se mantienen afectados en la provincia 131 circuitos.\n✍️En el momento de hacer esta nota la provincia tiene 96 MW por déficit de capacidad de generación.\n✍️Cuenta con 100 afectaciones  por averías secundarias y de servicio.",
+    "timestamp": 1763567226,
+    "timestamp_local": 1763567226
+  },
+  {
     "id": 33998,
     "fecha": "19 de Nov del 2025 a las 10:44 AM",
     "hora_utc": "2025-11-19 15:44",
@@ -126,37 +158,5 @@
     "mensaje": "⚠️En déficit de capacidad de generación los circuitos siguientes:\n👉Municipio Caibarién:\nCtos 61, 62 \nCtos 63 y 64\nCtos 182 y 183 Van Troi\n👉Municipio Santa Clara\n\nCto 132 SC Industrial \nCto 162 SC Industrial",
     "timestamp": 1763501059,
     "timestamp_local": 1763501059
-  },
-  {
-    "id": 33982,
-    "fecha": "18 de Nov del 2025 a las 04:19 PM",
-    "hora_utc": "2025-11-18 21:19",
-    "mensaje": "⚠️En déficit de capacidad de generación los siguientes circuitos:\n👉Municipio Manicaragua:\nCtos 113 y 137 La Campana\nCto 112 Hoyo Manicaragua",
-    "timestamp": 1763500749,
-    "timestamp_local": 1763500749
-  },
-  {
-    "id": 33981,
-    "fecha": "18 de Nov del 2025 a las 04:01 PM",
-    "hora_utc": "2025-11-18 21:01",
-    "mensaje": "🔸Actualización del servicio eléctrico en la provincia🔸\n✍️Se mantienen afectados en la provincia 123 circuitos.\n✍️En el momento de hacer esta nota la provincia tiene 97 MW por déficit de capacidad de generación.\n✍️Cuenta con 91 afectaciones  por averías secundarias y de servicio.",
-    "timestamp": 1763499676,
-    "timestamp_local": 1763499676
-  },
-  {
-    "id": 33980,
-    "fecha": "18 de Nov del 2025 a las 04:00 PM",
-    "hora_utc": "2025-11-18 21:00",
-    "mensaje": "⚠️En déficit de capacidad de generación los siguientes circuitos:\n👉Municipio Ranchuelo:\nCto 92 Esperanza (Pueblo)\nCto 93 Esperanza (Campo)\nCto 54 94 y 95 Jicotea  \n👉Municipio Santa Clara\nCtos 26 y 141 (Manuelita)\nCto 191 (Quemado de Hilario)",
-    "timestamp": 1763499613,
-    "timestamp_local": 1763499613
-  },
-  {
-    "id": 33979,
-    "fecha": "18 de Nov del 2025 a las 03:52 PM",
-    "hora_utc": "2025-11-18 20:52",
-    "mensaje": "⚠️Afectados por déficit de capacidad de generación los siguientes circuitos:\n 👉Municipio Santa Clara:\nCtos 1, 2, 4 (Consejo- Centro)",
-    "timestamp": 1763499147,
-    "timestamp_local": 1763499147
   }
 ]
