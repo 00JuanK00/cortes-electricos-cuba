@@ -1,5 +1,37 @@
 [
   {
+    "id": 34006,
+    "fecha": "19 de Nov del 2025 a las 11:52 AM",
+    "hora_utc": "2025-11-19 16:52",
+    "mensaje": "Con servicio los siguientes circuitos:\n🔹Municipio Remedios:\n👉Ctos 67 y 152, 68 y 118",
+    "timestamp": 1763571172,
+    "timestamp_local": 1763571172
+  },
+  {
+    "id": 34005,
+    "fecha": "19 de Nov del 2025 a las 11:43 AM",
+    "hora_utc": "2025-11-19 16:43",
+    "mensaje": "🛠️Afectado por disparo los siguientes circuitos:\n🔹Municipio Remedios:\n👉Ctos 67 y 152, 68 y 118 \n✍️Se estudian las causas.",
+    "timestamp": 1763570616,
+    "timestamp_local": 1763570616
+  },
+  {
+    "id": 34004,
+    "fecha": "19 de Nov del 2025 a las 11:34 AM",
+    "hora_utc": "2025-11-19 16:34",
+    "mensaje": "💡Con servicio la línea 4608:\n🔹Municipio Corralillo:\n👉Ctos 58 y 159\n👉Cto 57 Motembo\n👉Cto 56 Yabre\n👉Cto 60 La Sierra\n👉Cto 55 Rancho Veloz",
+    "timestamp": 1763570090,
+    "timestamp_local": 1763570090
+  },
+  {
+    "id": 34003,
+    "fecha": "19 de Nov del 2025 a las 11:04 AM",
+    "hora_utc": "2025-11-19 16:04",
+    "mensaje": "⚠️En déficit de capacidad de generación los siguientes circuitos:\n🔹Municipio Caibarién:\n👉Ctos 61, 62, 63 y 64\n👉Ctos 182 y 183 Van Troi",
+    "timestamp": 1763568250,
+    "timestamp_local": 1763568250
+  },
+  {
     "id": 34002,
     "fecha": "19 de Nov del 2025 a las 11:02 AM",
     "hora_utc": "2025-11-19 16:02",
@@ -126,37 +158,5 @@
     "mensaje": "⚠️Continúan afectados por déficit de generación los circuitos 5 y 17 Cupet del municipio Santa Clara.",
     "timestamp": 1763507560,
     "timestamp_local": 1763507560
-  },
-  {
-    "id": 33986,
-    "fecha": "18 de Nov del 2025 a las 06:00 PM",
-    "hora_utc": "2025-11-18 23:00",
-    "mensaje": "🕕Actualización del servicio eléctrico en las últimas 6 horas.\n\n👉El déficit de capacidad de generación osciló entre los 96 MW y los 111 MW.\n👉En el momento de esta nota, se mantienen afectados 123 circuitos.\n👉Cuenta con 98 afectaciones por averías secundarias y de servicio:\n Camajuaní (1)\n Encrucijada (1)\n Manicaragua (6)\n Placetas (9)\n Remedios (4) \n Sagua (4) \n Santa Clara (47)\n Santo Domingo (7)\n🛠️Se encuentran 8 averías en vías de solución.\n🛠️Pendientes a solucionar por el área técnica 11.\n\n⚡Averías⚡\n👉Avería por 33 kV los circuitos 37 y 38 Yabú.",
-    "timestamp": 1763506838,
-    "timestamp_local": 1763506838
-  },
-  {
-    "id": 33985,
-    "fecha": "18 de Nov del 2025 a las 05:45 PM",
-    "hora_utc": "2025-11-18 22:45",
-    "mensaje": "💡Restablecido el servicio eléctrico en la Línea 861 quedando afectado por avería los circuitos 37 y 38 Yabú.",
-    "timestamp": 1763505907,
-    "timestamp_local": 1763505907
-  },
-  {
-    "id": 33984,
-    "fecha": "18 de Nov del 2025 a las 05:29 PM",
-    "hora_utc": "2025-11-18 22:29",
-    "mensaje": "🛠️Afectada la Línea 861 por emergencia.\n🔹Línea 861 \n👉Municipio Santa Clara:\nCto 5 (Dobarganes)afectado por déficit en estos momentos\nCto 17 (Subplanta)afectado por déficit en estos momentos\nCtos 37 y 38 (Yabú)   \nCto 9 (Moldes y Troqueles)\nCto 133 (Cafetera)",
-    "timestamp": 1763504969,
-    "timestamp_local": 1763504969
-  },
-  {
-    "id": 33983,
-    "fecha": "18 de Nov del 2025 a las 04:24 PM",
-    "hora_utc": "2025-11-18 21:24",
-    "mensaje": "⚠️En déficit de capacidad de generación los circuitos siguientes:\n👉Municipio Caibarién:\nCtos 61, 62 \nCtos 63 y 64\nCtos 182 y 183 Van Troi\n👉Municipio Santa Clara\n\nCto 132 SC Industrial \nCto 162 SC Industrial",
-    "timestamp": 1763501059,
-    "timestamp_local": 1763501059
   }
 ]
