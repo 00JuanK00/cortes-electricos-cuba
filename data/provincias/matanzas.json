@@ -1,5 +1,13 @@
 [
   {
+    "id": 28821,
+    "fecha": "19 de Nov del 2025 a las 02:55 PM",
+    "hora_utc": "2025-11-19 19:55",
+    "mensaje": "Actualizamos el déficit por capacidad de generación: 123 MW.",
+    "timestamp": 1763582157,
+    "timestamp_local": 1763582157
+  },
+  {
     "id": 28820,
     "fecha": "19 de Nov del 2025 a las 02:45 PM",
     "hora_utc": "2025-11-19 19:45",
@@ -150,13 +158,5 @@
     "mensaje": "__Circuitos no apagables que estarán afectados debido al alto déficit:  __\n\n GI101, JI48, Z130, Z1183   de 11:00a 13:00\nJI48, GI101,  CI185, Z1183, Z130 de 18:00 a 00:00",
     "timestamp": 1763568682,
     "timestamp_local": 1763568682
-  },
-  {
-    "id": 28798,
-    "fecha": "19 de Nov del 2025 a las 11:08 AM",
-    "hora_utc": "2025-11-19 16:08",
-    "mensaje": "⚡En estos momentos la afectación de nuestra provincia es de       112 MW por déficit de capacidad de generación. ⚡",
-    "timestamp": 1763568482,
-    "timestamp_local": 1763568482
   }
 ]
