@@ -1,5 +1,13 @@
 [
   {
+    "id": 17189,
+    "fecha": "19 de Nov del 2025 a las 06:02 AM",
+    "hora_utc": "2025-11-19 11:02",
+    "mensaje": "Centro Telefónico:\nLa Empresa Eléctrica Las Tunas pone a disposición de sus clientes un Centro de Atención Telefónica con el objetivo de brindar asistencia y responder a sus inquietudes. Para asegurar un flujo eficiente de comunicación, el centro cuenta con 38 líneas de entrada, gestionadas por 6 operadores en cada turno de trabajo.\nCuando los 6 operadores se encuentran atendiendo llamadas simultáneamente, las siguientes 32 llamadas entrantes son colocadas en una cola de espera, donde una operadora automática les informa que serán atendidas a la brevedad, acompañando la espera con música. En esta situación, se requiere paciencia por parte del cliente hasta que un operador se desocupe y su llamada sea transferida automáticamente. Sin embargo, el sistema tiene un límite. A partir de la llamada número 39, todas las líneas de entrada estarán ocupadas, lo que resultará en una señal de \"ocupado\" para el cliente. En este caso, para lograr contactar al centro, el cliente deberá intentar la llamada nuevamente hasta que una línea quede disponible. La Empresa Eléctrica Las Tunas trabaja continuamente para optimizar este servicio y agradece su comprensión.",
+    "timestamp": 1763550174,
+    "timestamp_local": 1763550174
+  },
+  {
     "id": 17188,
     "fecha": "18 de Nov del 2025 a las 09:57 PM",
     "hora_utc": "2025-11-19 02:57",
@@ -118,13 +126,5 @@
     "mensaje": "Se declara en avería el circuito 33 KV 6310 –(TK 39 Providencia IV)",
     "timestamp": 1763302897,
     "timestamp_local": 1763302897
-  },
-  {
-    "id": 17169,
-    "fecha": "16 de Nov del 2025 a las 08:29 AM",
-    "hora_utc": "2025-11-16 13:29",
-    "mensaje": "**Nota Informativa: Estado del Sistema Eléctrico Nacional (SEN) – 15 de noviembre de 2025**\nEn el día de ayer se afectó el servicio desde las 05:17 de la mañana hasta las 00:21 de la madrugada de hoy, a las 05:10 se comenzó a afectar nuevamente el servicio. La máxima afectación por déficit de capacidad de generación en el día de ayer fue de 1429 MW a las 18:00 horas. Afectados además 128 MW en las provincias de Holguín a Guantánamo por el paso del Huracán Melissa.\nLa producción de energía de los 30 nuevos parques solares fotovoltaicos fue de 1441 MWh, con 523 MW como máxima potencia entregada en el horario de la media con esta fuente de generación.\n**Estado actual del SEN**\nLa disponibilidad del SEN a las 06:00 horas es de 1660 MW y la demanda 1950 MW con 340 MW afectados por déficit de capacidad. En el horario de la media se estima una afectación de 650 MW.\n**Principales incidencias**\nAvería: Unidades 6 de la CTE Antonio Maceo, Unidad 2 de la CTE Felton y Unidad 5 de la CTE Nuevitas.\nMantenimiento: Unidad 2 de la CTE Santa Cruz, Unidad 4 de la CTE Carlos Manuel de Céspedes en Cienfuegos.\nLimitaciones en la generación térmica: 460 fuera de servicio.\nProblemas por falta de combustible\n80 centrales de generación distribuida con 737 MW.\n94 MW indisponibles por falta de lubricante.\nTotal de MW afectados por esta causa: 831 MW.\n**Pronóstico para el horario pico**\nEn el horario pico se estima una disponibilidad de 1660 MW y una demanda máxima de 3080 MW, para un déficit de 1420 MW, por lo que de mantenerse las condiciones previstas se pronostica una afectación de 1490 MW en este horario.",
-    "timestamp": 1763299743,
-    "timestamp_local": 1763299743
   }
 ]
