@@ -1,9 +1,33 @@
 [
   {
+    "id": 34084,
+    "fecha": "20 de Nov del 2025 a las 03:32 PM",
+    "hora_utc": "2025-11-20 20:32",
+    "mensaje": "⚠️En déficit de capacidad de generación los siguientes circuitos:\n🔹Municipio Santa Clara:\n👉Ctos 15 y 27 (Maleza)\n👉Cto 144 (Camacho)",
+    "timestamp": 1763670723,
+    "timestamp_local": 1763670723
+  },
+  {
+    "id": 34083,
+    "fecha": "20 de Nov del 2025 a las 03:03 PM",
+    "hora_utc": "2025-11-20 20:03",
+    "mensaje": "⚡Afectado el Cto 153 (EIDE), perteneciente al municipio Santa Clara por neutro partido.",
+    "timestamp": 1763668982,
+    "timestamp_local": 1763668982
+  },
+  {
+    "id": 34082,
+    "fecha": "20 de Nov del 2025 a las 03:01 PM",
+    "hora_utc": "2025-11-20 20:01",
+    "mensaje": "Afectados 103 MW en la provincia, demanda máxima  a apagar en estos momentos.",
+    "timestamp": 1763668891,
+    "timestamp_local": 1763668891
+  },
+  {
     "id": 34081,
     "fecha": "20 de Nov del 2025 a las 02:53 PM",
     "hora_utc": "2025-11-20 19:53",
-    "mensaje": "⚡Resumen de averías en la provincia⚡\n👉Afectado el Cto 14 (Maleza), perteneciente al municipio Santa Clara por fase dañada y estructura en mal estado.\n👉Afectado el Cto 37(Yabu) perteneciente al municipio Santa Clara de manera parcial, para enderezar estructura.\n👉Afectado el circuito 57 (Motembo), del municipio Corralillo.\n👉Afectados por avería los Ctos 164 (Quemado) y 196 (Batey Panchito Gómez Toro), pertenecientes al municipio Quemado.",
+    "mensaje": "⚡Resumen de averías en la provincia⚡\n👉Afectado el Cto 14 (Maleza), perteneciente al municipio Santa Clara por fase dañada y estructura en mal estado.\n👉Afectado el Cto 37(Yabu) perteneciente al municipio Santa Clara de manera parcial, para enderezar estructura.\n👉Afectado el circuito 57 (Motembo), del municipio Corralillo.\n👉Afectados los Ctos 164 (Quemado) y 196 (Batey Panchito Gómez Toro), pertenecientes al municipio Quemado.",
     "timestamp": 1763668405,
     "timestamp_local": 1763668405
   },
@@ -110,21 +134,5 @@
     "mensaje": "🕛Actualización del servicio eléctrico en las últimas 6 horas.\n✍️El déficit de capacidad de generación osciló entre los 97 MW y los 117 MW.\n✍️En el momento de esta nota, se mantienen afectados 127 circuitos.\n✍️Cuenta con 69 afectaciones por averías secundarias y de servicio.\n🔸Camajuaní (1)\n🔸Cifuentes (1)\n🔸Corralillo (4)\n🔸Encrucijada (1)\n🔸Manicaragua (6)\n🔸Placetas (3)\n🔸Ranchuelo (3)\n🔸Remedios (15) \n🔸Sagua (5)\n🔸Santa Clara (24)\n✍️Santo Domingo (8)\n🛠️Se encuentran 0 averías en vías de solución.\n🛠️Pendientes a solucionar por el área técnica 11\n⚡Afectado el circuito 57 (Motembo), del municipio Corralillo.\n⚡Afectada la línea del 108:\n🔹Municipio Ranchuelo:\n👉Cto 92 Esperanza (Pueblo)\n👉Cto 93 Esperanza (Campo)\n👉Cto 54 94 y 95 Jicotea  \n🔹Municipio Santa Clara\n👉Ctos 26 y 141 (Manuelita)\n👉Cto 191 (Quemado de Hilario)\n🔹Municipio Santo Domingo:\n**👉Cto 163 Batey 26 de Julio**\n**👉Cto 81 26 Julio**",
     "timestamp": 1763658525,
     "timestamp_local": 1763658525
-  },
-  {
-    "id": 34064,
-    "fecha": "20 de Nov del 2025 a las 11:26 AM",
-    "hora_utc": "2025-11-20 16:26",
-    "mensaje": "Afectados 117 MW en la provincia, demanda máxima  a apagar en estos momentos.",
-    "timestamp": 1763655985,
-    "timestamp_local": 1763655985
-  },
-  {
-    "id": 34062,
-    "fecha": "20 de Nov del 2025 a las 10:08 AM",
-    "hora_utc": "2025-11-20 15:08",
-    "mensaje": "🔸Actualización del servicio eléctrico en la provincia🔸\n✍️Se mantienen afectados en la provincia 114 circuitos.\n✍️En el momento de hacer esta nota la provincia tiene 97 MW por déficit de capacidad de generación.\n✍️Cuenta con 65 afectaciones  por averías secundarias y de servicio.",
-    "timestamp": 1763651305,
-    "timestamp_local": 1763651305
   }
 ]
