@@ -1,5 +1,21 @@
 [
   {
+    "id": 28857,
+    "fecha": "20 de Nov del 2025 a las 10:27 AM",
+    "hora_utc": "2025-11-20 15:27",
+    "mensaje": "⚡La afectación de nuestra provincia es de 106 MW por déficit de capacidad de generación.⚡",
+    "timestamp": 1763652459,
+    "timestamp_local": 1763652459
+  },
+  {
+    "id": 28856,
+    "fecha": "20 de Nov del 2025 a las 10:02 AM",
+    "hora_utc": "2025-11-20 15:02",
+    "mensaje": "⚠Circuitos no apagables que estarán afectados debido al alto déficit: ⚠\n\n🔸GI101, JI48, Z130 y Z1183 de 11:00 a 13:00.\n\n🔸GI101, JI48, Z130, Z1183 y CI185 de 18:00 a 00:00.",
+    "timestamp": 1763650920,
+    "timestamp_local": 1763650920
+  },
+  {
     "id": 28855,
     "fecha": "20 de Nov del 2025 a las 09:41 AM",
     "hora_utc": "2025-11-20 14:41",
@@ -142,21 +158,5 @@
     "mensaje": "PROXIMOS A RESTABLECER\n\n-Circuito 4819 queda servicio a Poblado de Carlos Rojas.\n\n-Circuito 4604 que da servicio a Martí-Itabo-Hoyo Colorado.",
     "timestamp": 1763605041,
     "timestamp_local": 1763605041
-  },
-  {
-    "id": 28835,
-    "fecha": "19 de Nov del 2025 a las 09:08 PM",
-    "hora_utc": "2025-11-20 02:08",
-    "mensaje": "Actualizamos el déficit por capacidad de generación:  149 MW.",
-    "timestamp": 1763604487,
-    "timestamp_local": 1763604487
-  },
-  {
-    "id": 28834,
-    "fecha": "19 de Nov del 2025 a las 08:45 PM",
-    "hora_utc": "2025-11-20 01:45",
-    "mensaje": "**__L__**e recordamos a nuestros clientes que el restablecimiento del servicio estará en función de la disponibilidad que se tenga en la provincia según las condiciones del sistema.",
-    "timestamp": 1763603122,
-    "timestamp_local": 1763603122
   }
 ]
