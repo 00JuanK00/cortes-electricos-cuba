@@ -1,5 +1,21 @@
 [
   {
+    "id": 46605,
+    "fecha": "21 de Nov del 2025 a las 04:34 PM",
+    "hora_utc": "2025-11-21 21:34",
+    "mensaje": "🔴Déficit de Capacidad de Generación:  \nSe produce cuando la demanda del Sistema Eléctrico Nacional, en determinado horario del día, supera la generación disponible del país, provocando la desconexión de los circuitos o líneas que permitan garantizar la frecuencia del SEN.",
+    "timestamp": 1763760864,
+    "timestamp_local": 1763760864
+  },
+  {
+    "id": 46604,
+    "fecha": "21 de Nov del 2025 a las 04:33 PM",
+    "hora_utc": "2025-11-21 21:33",
+    "mensaje": "🔴Estimados clientes en estos momentos se afectaron por Déficit los circuitos 1, 8 ,12 ,15, 10 ,25 y línea 5395-San Luis .",
+    "timestamp": 1763760814,
+    "timestamp_local": 1763760814
+  },
+  {
     "id": 46601,
     "fecha": "21 de Nov del 2025 a las 11:39 AM",
     "hora_utc": "2025-11-21 16:39",
@@ -78,21 +94,5 @@
     "mensaje": "🔴 Estimados clientes en estos momentos está afectado el circuito 9  de Santiago por una manipulación ..",
     "timestamp": 1763683456,
     "timestamp_local": 1763683456
-  },
-  {
-    "id": 46585,
-    "fecha": "20 de Nov del 2025 a las 06:34 PM",
-    "hora_utc": "2025-11-20 23:34",
-    "mensaje": "🔴Les informamos a nuestros clientes en estos momentos que se está manipulando la línea 4435 que alimenta Contramaestre ...",
-    "timestamp": 1763681667,
-    "timestamp_local": 1763681667
-  },
-  {
-    "id": 46583,
-    "fecha": "20 de Nov del 2025 a las 05:04 AM",
-    "hora_utc": "2025-11-20 10:04",
-    "mensaje": "Disparo:  \nApertura no voluntaria de un interruptor como vía de protección para desconectar uno o varios elementos del circuito, subestación o sistema, restableciéndose el servicio rápidamente en dependencia de la causa.",
-    "timestamp": 1763633085,
-    "timestamp_local": 1763633085
   }
 ]
