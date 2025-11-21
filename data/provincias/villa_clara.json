@@ -1,5 +1,21 @@
 [
   {
+    "id": 34101,
+    "fecha": "21 de Nov del 2025 a las 01:43 AM",
+    "hora_utc": "2025-11-21 06:43",
+    "mensaje": "Afectados 79 MW en la provincia, demanda máxima  a apagar en estos momentos.",
+    "timestamp": 1763707406,
+    "timestamp_local": 1763707406
+  },
+  {
+    "id": 34100,
+    "fecha": "21 de Nov del 2025 a las 01:39 AM",
+    "hora_utc": "2025-11-21 06:39",
+    "mensaje": "💡Con servicio los siguientes circuitos:\n🔹Municipio Manicaragua:\n👉Ctos 109 y 150\n👉Ctos 108 y 110 La Piedra\n👉Cto 111 Mataguá\n🔹Municipio Encrucijada\n👉Cto 120 Calabazar\n👉Ctos 121 y 127 Perucho",
+    "timestamp": 1763707150,
+    "timestamp_local": 1763707150
+  },
+  {
     "id": 34099,
     "fecha": "21 de Nov del 2025 a las 12:08 AM",
     "hora_utc": "2025-11-21 05:08",
@@ -134,29 +150,5 @@
     "mensaje": "⚡Afectado el Cto 153 (EIDE), perteneciente al municipio Santa Clara por neutro partido.",
     "timestamp": 1763668982,
     "timestamp_local": 1763668982
-  },
-  {
-    "id": 34082,
-    "fecha": "20 de Nov del 2025 a las 03:01 PM",
-    "hora_utc": "2025-11-20 20:01",
-    "mensaje": "Afectados 103 MW en la provincia, demanda máxima  a apagar en estos momentos.",
-    "timestamp": 1763668891,
-    "timestamp_local": 1763668891
-  },
-  {
-    "id": 34081,
-    "fecha": "20 de Nov del 2025 a las 02:53 PM",
-    "hora_utc": "2025-11-20 19:53",
-    "mensaje": "⚡Resumen de averías en la provincia⚡\n👉Afectado el Cto 14 (Maleza), perteneciente al municipio Santa Clara por fase dañada y estructura en mal estado.\n👉Afectado el Cto 37(Yabu) perteneciente al municipio Santa Clara de manera parcial, para enderezar estructura.\n👉Afectado el circuito 57 (Motembo), del municipio Corralillo.\n👉Afectados los Ctos 164 (Quemado) y 196 (Batey Panchito Gómez Toro), pertenecientes al municipio Quemado.\n👉Afectada la línea del 108:\n🔹Municipio Ranchuelo:\n👉Cto 92 Esperanza (Pueblo)\n👉Cto 93 Esperanza (Campo)\n👉Cto 54 94 y 95 Jicotea  \n🔹Municipio Santa Clara\n👉Ctos 26 y 141 (Manuelita)\n👉Cto 191 (Quemado de Hilario)\n🔹Municipio Santo Domingo:\n**👉Cto 163 Batey 26 de Julio**\n**👉Cto 81 26 Julio**",
-    "timestamp": 1763668405,
-    "timestamp_local": 1763668405
-  },
-  {
-    "id": 34080,
-    "fecha": "20 de Nov del 2025 a las 02:48 PM",
-    "hora_utc": "2025-11-20 19:48",
-    "mensaje": "⚡Afectado el Cto 14 (Maleza), perteneciente al municipio Santa Clara por fase dañada y estructura en mal estado.",
-    "timestamp": 1763668123,
-    "timestamp_local": 1763668123
   }
 ]
