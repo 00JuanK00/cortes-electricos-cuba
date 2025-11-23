@@ -1,5 +1,13 @@
 [
   {
+    "id": 98004,
+    "fecha": "22 de Nov del 2025 a las 10:05 PM",
+    "hora_utc": "2025-11-23 03:05",
+    "mensaje": "♦️ Afectado el servicio en el circuito de Güines 3 por disparo en las líneas ♦️",
+    "timestamp": 1763867114,
+    "timestamp_local": 1763867114
+  },
+  {
     "id": 98003,
     "fecha": "22 de Nov del 2025 a las 07:42 PM",
     "hora_utc": "2025-11-23 00:42",
@@ -59,7 +67,7 @@
     "id": 97996,
     "fecha": "22 de Nov del 2025 a las 06:07 PM",
     "hora_utc": "2025-11-22 23:07",
-    "mensaje": "🚨Por déficit de capacidad de generación se afecta el servicio en el siguiente circuito:\n*Güines 1🚨",
+    "mensaje": "🚨Por déficit de capacidad de generación se afecta el servicio en los siguientes circuitos:\n*Güines 1\n*3655\n*3660🚨",
     "timestamp": 1763852862,
     "timestamp_local": 1763852862
   },
@@ -134,21 +142,5 @@
     "mensaje": "🚨Por déficit de capacidad de generación se afecta el servicio en el siguiente circuito:\n*Jaruco  🚨",
     "timestamp": 1763841158,
     "timestamp_local": 1763841158
-  },
-  {
-    "id": 97985,
-    "fecha": "22 de Nov del 2025 a las 02:30 PM",
-    "hora_utc": "2025-11-22 19:30",
-    "mensaje": "🚨Por déficit de capacidad de generación se afecta el servicio en el siguiente circuito:\n*Jamaica 🚨",
-    "timestamp": 1763839802,
-    "timestamp_local": 1763839802
-  },
-  {
-    "id": 97984,
-    "fecha": "22 de Nov del 2025 a las 02:25 PM",
-    "hora_utc": "2025-11-22 19:25",
-    "mensaje": "🚨Por déficit de capacidad de generación se afecta el servicio en los siguientes circuitos:\n*Nueva Paz\n*Los Palos\n*Sureste\n*Vega 🚨",
-    "timestamp": 1763839548,
-    "timestamp_local": 1763839548
   }
 ]
