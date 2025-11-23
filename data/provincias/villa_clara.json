@@ -1,5 +1,37 @@
 [
   {
+    "id": 34264,
+    "fecha": "23 de Nov del 2025 a las 05:00 PM",
+    "hora_utc": "2025-11-23 22:00",
+    "mensaje": "⚠️Afectado por déficit de capacidad de generación el circuito 15 (Maleza) del municipio Santa Clara.",
+    "timestamp": 1763935231,
+    "timestamp_local": 1763935231
+  },
+  {
+    "id": 34263,
+    "fecha": "23 de Nov del 2025 a las 04:55 PM",
+    "hora_utc": "2025-11-23 21:55",
+    "mensaje": "⚠️Afectados por déficit de capacidad de generación los siguientes circuitos:\n🔹Municipio Santa Clara:\n👉Cto 5 (Dobarganes)\n👉Cto 17 (Subplanta)",
+    "timestamp": 1763934946,
+    "timestamp_local": 1763934946
+  },
+  {
+    "id": 34262,
+    "fecha": "23 de Nov del 2025 a las 04:50 PM",
+    "hora_utc": "2025-11-23 21:50",
+    "mensaje": "⚠️Afectados por déficit de capacidad de generación los circuitos 2 y 4 (Consejo-Centro), del municipio Santa Clara.",
+    "timestamp": 1763934637,
+    "timestamp_local": 1763934637
+  },
+  {
+    "id": 34261,
+    "fecha": "23 de Nov del 2025 a las 04:47 PM",
+    "hora_utc": "2025-11-23 21:47",
+    "mensaje": "⚠️Afectados por déficit de capacidad de generación los siguientes circuitos:\n🔹Municipio Ranchuelo: \n👉Ctos 89, 97, 188 y 189",
+    "timestamp": 1763934432,
+    "timestamp_local": 1763934432
+  },
+  {
     "id": 34260,
     "fecha": "23 de Nov del 2025 a las 04:31 PM",
     "hora_utc": "2025-11-23 21:31",
@@ -126,37 +158,5 @@
     "mensaje": "Con servicio el circuito 148 (San Juan), del municipio Ranchuelo.",
     "timestamp": 1763928009,
     "timestamp_local": 1763928009
-  },
-  {
-    "id": 34243,
-    "fecha": "23 de Nov del 2025 a las 02:57 PM",
-    "hora_utc": "2025-11-23 19:57",
-    "mensaje": "⚠️Afectados por déficit de capacidad de generación los siguientes circuitos:\n🔹Municipio Manicaragua:\n👉Ctos 109 y 150\n👉Ctos 108 y 110 La Piedra\n👉Cto 111 Mataguá\n🔹Municipio Encrucijada\n👉Cto 120 Calabazar\n👉Ctos 121 y 127 Perucho",
-    "timestamp": 1763927849,
-    "timestamp_local": 1763927849
-  },
-  {
-    "id": 34242,
-    "fecha": "23 de Nov del 2025 a las 02:56 PM",
-    "hora_utc": "2025-11-23 19:56",
-    "mensaje": "🛠️Manipulación de la línea 1785 para reponer disparo del circuito 34 (Sabana Rebacadero):\nAfecta los siguientes circuitos:\n🔹Municipio Santa Clara:\n👉Cto 6 (Vigía) (Déficit)\n👉Ctos 32 y 33 (RF-33Kv)\n👉Cto 39 (Sandino)\n👉Cto 40 Hospital Militar",
-    "timestamp": 1763927781,
-    "timestamp_local": 1763927781
-  },
-  {
-    "id": 34241,
-    "fecha": "23 de Nov del 2025 a las 02:47 PM",
-    "hora_utc": "2025-11-23 19:47",
-    "mensaje": "🔸Actualización del servicio eléctrico en la provincia🔸\n✍️Se mantienen afectados en la provincia 123 circuitos.\n✍️En el momento de hacer esta nota la provincia tiene 89 MW por déficit de capacidad de generación.\n✍️Cuenta con 91 afectaciones  por averías secundarias y de servicio.",
-    "timestamp": 1763927222,
-    "timestamp_local": 1763927222
-  },
-  {
-    "id": 34240,
-    "fecha": "23 de Nov del 2025 a las 02:45 PM",
-    "hora_utc": "2025-11-23 19:45",
-    "mensaje": "🛠️ Afectado por disparo el circuito 148 (San Juan), del municipio Ranchuelo. Se estudian las causas.",
-    "timestamp": 1763927151,
-    "timestamp_local": 1763927151
   }
 ]
