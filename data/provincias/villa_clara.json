@@ -1,9 +1,33 @@
 [
   {
+    "id": 34342,
+    "fecha": "24 de Nov del 2025 a las 05:34 PM",
+    "hora_utc": "2025-11-24 22:34",
+    "mensaje": "⚠️Afectados por déficit de capacidad de generación los siguientes circuitos:\n🔹Municipio Placetas:\n👉Cto 101 y 145 Cumbre\n🔹Municipio Santa Clara:\n👉Cto 144 (Camacho)",
+    "timestamp": 1764023655,
+    "timestamp_local": 1764023655
+  },
+  {
+    "id": 34341,
+    "fecha": "24 de Nov del 2025 a las 05:27 PM",
+    "hora_utc": "2025-11-24 22:27",
+    "mensaje": "⚠️Afectados por déficit de capacidad de generación los siguientes circuitos:\n🔹Municipio Santo Domingo:\n👉Cto 134\n👉Ctos 87 y 96 Bermejal\n👉Cto 187 Batey Carlos Baliño\n👉Cto 82 Ulacia\n👉Cto 84 Rodrigo",
+    "timestamp": 1764023220,
+    "timestamp_local": 1764023220
+  },
+  {
+    "id": 34340,
+    "fecha": "24 de Nov del 2025 a las 05:09 PM",
+    "hora_utc": "2025-11-24 22:09",
+    "mensaje": "Afectados 121 MW en la provincia, demanda máxima a apagar en estos momentos.",
+    "timestamp": 1764022189,
+    "timestamp_local": 1764022189
+  },
+  {
     "id": 34339,
     "fecha": "24 de Nov del 2025 a las 04:48 PM",
     "hora_utc": "2025-11-24 21:48",
-    "mensaje": "⚠️Afectados por déficit de capacidad de generación los siguientes circuitos:\n🔹Municipio Santa Clara:\n👉Cto 166 (Condado)\n👉Cto 167 (Virginia)\n👉Cto 170 (José Martí)\n👉Cto 171 (Los Caneyes)",
+    "mensaje": "⚠️Afectados por déficit de capacidad de generación los siguientes circuitos:\n🔹Municipio Santa Clara:\n👉Cto 166 (Condado)\n👉Cto 167 (Virginia)\n👉Cto 170 (José Martí)\n👉Cto 171 (Los Caneyes)\n🔹Municipio Sagua\n👉Cto 43, 50, 51 Sagua\n👉Cto 44 Isabela\n👉Cto 147 Villa Alegre",
     "timestamp": 1764020926,
     "timestamp_local": 1764020926
   },
@@ -134,21 +158,5 @@
     "mensaje": "Afectados 52 MW en la provincia, demanda máxima a apagar en estos momentos.",
     "timestamp": 1764007917,
     "timestamp_local": 1764007917
-  },
-  {
-    "id": 34322,
-    "fecha": "24 de Nov del 2025 a las 01:09 PM",
-    "hora_utc": "2025-11-24 18:09",
-    "mensaje": "✅Ante cualquier duda con la terminología eléctrica, les volvemos explicar: \n     \n✍️Las averías pueden ser primarias (afecta un volumen grande de población pues son las líneas de distribución a 13.8kV y puede afectar varias manzanas, incluso repartos completos).\n\n✍️Secundarias (afecta a todos los clientes que se alimenten del mismo transformador, puede afectar una o varias cuadras). \n\n✍️De servicio (afectan 1 solo cliente o instalación generalmente producto a daños en la acometida, metro contador, etc.).",
-    "timestamp": 1764007793,
-    "timestamp_local": 1764007793
-  },
-  {
-    "id": 34321,
-    "fecha": "24 de Nov del 2025 a las 12:29 PM",
-    "hora_utc": "2025-11-24 17:29",
-    "mensaje": "Afectados 75 MW en la provincia, demanda máxima a apagar en estos momentos.",
-    "timestamp": 1764005356,
-    "timestamp_local": 1764005356
   }
 ]
