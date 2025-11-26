@@ -1,5 +1,29 @@
 [
   {
+    "id": 34491,
+    "fecha": "26 de Nov del 2025 a las 06:14 PM",
+    "hora_utc": "2025-11-26 23:14",
+    "mensaje": "🔹¿Qué es un disparo de circuito y porque ocurre?\n🔹Los disparos de circuito tienen diferentes aristas todas con distintos significados, es decir que ocurren por varias causas. Entre ellas encontramos:\n\n👉-Disparo de Circuito con Recierre: El conocido por los clientes como “quita y pon de corriente” es un tipo de protección utilizada mundialmente a partir del 80% aproximadamente de las interrupciones eléctricas son transitorias. Este fenómeno lo hace una sola vez ante un evento de red y no es dañino para para nuestros equipos electrodomésticos. \n\n👉- Disparo Automático por Frecuencia (DAF):  El disparo por DAF ocurre cuando la frecuencia llega a valores mínimos permisibles que ponen en peligro la estabilidad del mismo y como protección desconecta varios circuitos de la Capital. Los mismo restablecen a medida que se vaya recuperando la frecuencia que tiene un valor de 60hz o ciclos por segundo.\n\n👉-Disparo de Circuito por Sobrecarga: Este ocurre mayormente en los horarios pico y en verano, ya que las altas temperaturas generan elevados consumos en la población y como consecuencia de ello fallas en los circuitos.\n\n👉-Disparo de Circuito por Posible Avería: Este fenómeno ocurre cuando existe una falla en algún circuito, ya sea soterrado, aéreo o en una subestación. Estas, a pesar de que son mucho más frecuentes cuando existe algún evento climatológico, pueden ocurrir en cualquier momento del día o la noche, ya que son situaciones que no cuentan con programación",
+    "timestamp": 1764198868,
+    "timestamp_local": 1764198868
+  },
+  {
+    "id": 34490,
+    "fecha": "26 de Nov del 2025 a las 06:11 PM",
+    "hora_utc": "2025-11-26 23:11",
+    "mensaje": "👉Disparo:\nApertura no voluntaria de un interruptor como vía de protección para desconectar uno o varios elementos del circuito, subestación o sistema, restableciéndose el servicio rápidamente en dependencia de la causa.",
+    "timestamp": 1764198684,
+    "timestamp_local": 1764198684
+  },
+  {
+    "id": 34489,
+    "fecha": "26 de Nov del 2025 a las 06:09 PM",
+    "hora_utc": "2025-11-26 23:09",
+    "mensaje": "‼️Estimados Clientes:\nEl circuito 169 Condado del municipio Santa Clara se encuentra afectado por disparo por sobrecarga.",
+    "timestamp": 1764198588,
+    "timestamp_local": 1764198588
+  },
+  {
     "id": 34488,
     "fecha": "26 de Nov del 2025 a las 05:58 PM",
     "hora_utc": "2025-11-26 22:58",
@@ -118,29 +142,5 @@
     "mensaje": "⚠️Afectados por déficit de generación los siguientes circuitos:\nMunicipio Santa Clara:\nCtos 14, 15 y 27 (Maleza)",
     "timestamp": 1764184441,
     "timestamp_local": 1764184441
-  },
-  {
-    "id": 34470,
-    "fecha": "26 de Nov del 2025 a las 02:03 PM",
-    "hora_utc": "2025-11-26 19:03",
-    "mensaje": "⚠️Afectado por déficit de generación el circuito 109 perteneciente al municipio Manicaragua.",
-    "timestamp": 1764183838,
-    "timestamp_local": 1764183838
-  },
-  {
-    "id": 34469,
-    "fecha": "26 de Nov del 2025 a las 02:00 PM",
-    "hora_utc": "2025-11-26 19:00",
-    "mensaje": "🔸Actualización del servicio eléctrico en la provincia🔸\n✍️Se mantienen afectados en la provincia 100 circuitos.\n✍️En el momento de hacer esta nota la provincia tiene 80 MW por déficit de capacidad de generación.\n✍️Cuenta con 61 afectaciones  por averías secundarias y de servicio.",
-    "timestamp": 1764183648,
-    "timestamp_local": 1764183648
-  },
-  {
-    "id": 34468,
-    "fecha": "26 de Nov del 2025 a las 01:55 PM",
-    "hora_utc": "2025-11-26 18:55",
-    "mensaje": "⚠️Afectados por déficit de generación los circuitos siguientes:\n👉Municipio Santa Clara:\nCto 16 Cubanacán\nCtos 23 y 130 La Ceniza\nCto 42 Manajanabo\n👉Municipio Placetas\nCto 139 Miller\nCto 190 Oliver\nCto 106 Falcón",
-    "timestamp": 1764183320,
-    "timestamp_local": 1764183320
   }
 ]
