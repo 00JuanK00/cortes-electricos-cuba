@@ -1,5 +1,37 @@
 [
   {
+    "id": 34440,
+    "fecha": "26 de Nov del 2025 a las 07:13 AM",
+    "hora_utc": "2025-11-26 12:13",
+    "mensaje": "🚨Nota informativa.🚨\n\n👉Situación del SEN para el 26 de noviembre de 2025.\n\n📆En el día de ayer se afectó el servicio durante las 24 horas. La máxima afectación por déficit de capacidad de generación en el día de ayer fue de 1704 MW a las 18:20 horas. \n\n☀️La producción de energía de los 33 nuevos parques solares fotovoltaicos fue de 2827 MWh, con 584 MW como máxima potencia entregada en el horario de la media con esta fuente de generación. \n\n👉La disponibilidad del SEN a las 06:00 horas es de 1500 MW  y la demanda 2382 MW con 908 MW afectados por déficit de capacidad. En el horario de la media se estima una afectación de 950 MW. \n\n🛠️Se encuentran en avería la unidad 2 de la CTE Felton y la unidad 6 de la CTE Antonio Maceo (Rente). Se encuentran en mantenimiento la unidad 5 de la CTE Mariel, la unidad 2 de la CTE Santa Cruz y la unidad 4 de la CTE Cienfuegos.\n\n👉Las limitaciones en la generación térmica son de 546 MW. \n\n⛽Se encuentran fuera de servicio por combustible 95 centrales de generación distribuida con 830 MW, 5 motores del emplazamiento de MOA con 100 MW y 68 MW indisponible por falta de lubricante, para un total de 998 MW.\n   \n📈Se prevé en el horario pico una disponibilidad de  1500 MW y una demanda máxima de 3300 MW, para un déficit de 1800 MW, por lo que de mantenerse las condiciones previstas se pronostica una afectación de 1870 MW en este horario.\n  \nUNE-MINEM",
+    "timestamp": 1764159230,
+    "timestamp_local": 1764159230
+  },
+  {
+    "id": 34439,
+    "fecha": "26 de Nov del 2025 a las 07:07 AM",
+    "hora_utc": "2025-11-26 12:07",
+    "mensaje": "⚠️Afectados por déficit de capacidad de generación los siguientes circuitos:\n🔹Municipio Santa Clara\n👉Ctos 26 y 141 (Manuelita)",
+    "timestamp": 1764158858,
+    "timestamp_local": 1764158858
+  },
+  {
+    "id": 34438,
+    "fecha": "26 de Nov del 2025 a las 06:56 AM",
+    "hora_utc": "2025-11-26 11:56",
+    "mensaje": "⚠️Afectados por déficit de capacidad de generación los siguientes circuitos:\n🔹Municipio Santa Clara:\n👉Ctos 5 y 7 Dobarganes -Subplanta\n👉Cto 144 (Camacho)",
+    "timestamp": 1764158171,
+    "timestamp_local": 1764158171
+  },
+  {
+    "id": 34437,
+    "fecha": "26 de Nov del 2025 a las 06:48 AM",
+    "hora_utc": "2025-11-26 11:48",
+    "mensaje": "⚠️Afectados por déficit de capacidad de generación los siguientes circuitos:\n🔹Municipio Camajuaní\n👉Ctos 77, 59, 185 Vueltas\n🔹Municipio Camajuaní:\n👉Cto 75 La Quinta\n👉Cto 157 Luis Arcos Bergnes\n👉Ctos 76 y 90 Vega Alta",
+    "timestamp": 1764157732,
+    "timestamp_local": 1764157732
+  },
+  {
     "id": 34436,
     "fecha": "26 de Nov del 2025 a las 06:12 AM",
     "hora_utc": "2025-11-26 11:12",
@@ -126,37 +158,5 @@
     "mensaje": "Afectados 109 MW en la provincia, demanda máxima a apagar en estos momentos.",
     "timestamp": 1764123416,
     "timestamp_local": 1764123416
-  },
-  {
-    "id": 34420,
-    "fecha": "25 de Nov del 2025 a las 08:30 PM",
-    "hora_utc": "2025-11-26 01:30",
-    "mensaje": "🔸Actualización del servicio eléctrico en la provincia🔸\n✍️Se mantienen afectados en la provincia 127 circuitos.\n✍️En el momento de hacer esta nota la provincia tiene 123 MW por déficit de capacidad de generación.\n✍️Cuenta con 49 afectaciones  por averías secundarias y de servicio.",
-    "timestamp": 1764120658,
-    "timestamp_local": 1764120658
-  },
-  {
-    "id": 34419,
-    "fecha": "25 de Nov del 2025 a las 07:58 PM",
-    "hora_utc": "2025-11-26 00:58",
-    "mensaje": "⚠️Afectados por déficit de capacidad de generación los siguientes circuitos:\n       🔹Municipio Sagua\n👉Cto 43, 50, 51 Sagua\n👉Cto 147 Villa Alegre             \n 👉Cto 44 Isabela",
-    "timestamp": 1764118729,
-    "timestamp_local": 1764118729
-  },
-  {
-    "id": 34418,
-    "fecha": "25 de Nov del 2025 a las 06:32 PM",
-    "hora_utc": "2025-11-25 23:32",
-    "mensaje": "💡 Restablecido el servicio eléctrico en los siguientes circuitos:🔹Municipio Santa Clara:\n👉Ctos 1, 2, 4 (Consejo- Centro)\n👉Ctos 30y 193 Santa Clara Industrial",
-    "timestamp": 1764113534,
-    "timestamp_local": 1764113534
-  },
-  {
-    "id": 34417,
-    "fecha": "25 de Nov del 2025 a las 06:28 PM",
-    "hora_utc": "2025-11-25 23:28",
-    "mensaje": "Afectados 153 MW en la provincia, demanda máxima a apagar en estos momentos.",
-    "timestamp": 1764113297,
-    "timestamp_local": 1764113297
   }
 ]
