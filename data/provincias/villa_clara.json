@@ -1,5 +1,37 @@
 [
   {
+    "id": 34444,
+    "fecha": "26 de Nov del 2025 a las 08:14 AM",
+    "hora_utc": "2025-11-26 13:14",
+    "mensaje": "🔸Actualización del servicio eléctrico en la provincia🔸\n✍️Se mantienen afectados en la provincia 129 circuitos.\n✍️En el momento de hacer esta nota la provincia tiene 83 MW por déficit de capacidad de generación.\n✍️Cuenta con 47 afectaciones  por averías secundarias y de servicio.",
+    "timestamp": 1764162883,
+    "timestamp_local": 1764162883
+  },
+  {
+    "id": 34443,
+    "fecha": "26 de Nov del 2025 a las 08:12 AM",
+    "hora_utc": "2025-11-26 13:12",
+    "mensaje": "💡Se restablece el servicio eléctrico en los siguientes circuitos:\n👉Municipio Santo Domingo:\nCto 134\nCtos 87 y 96 Bermejal\nCto 187 Batey Carlos Baliño\nCto 82 Ulacia\nCto 84 Rodrigo\n👉Municipio Placetas:\nCto 101 y 145 Cumbre\nCto 107 Baez\nCto 105 Nazareno",
+    "timestamp": 1764162742,
+    "timestamp_local": 1764162742
+  },
+  {
+    "id": 34442,
+    "fecha": "26 de Nov del 2025 a las 08:01 AM",
+    "hora_utc": "2025-11-26 13:01",
+    "mensaje": "💡Restablecido el servicio eléctrico en los siguientes circuitos:\n👉Municipio Camajuaní:\nCto 75 La Quinta\nCto 157 Luis Arcos Bergnes\nCtos 76 y 90 Vega Alta\n👉Municipio Placetas:\nCto 192 Benito Juárez\nCto 102 Peroti\n👉Municipio Camajuaní\nCtos 77, 59, 185 Vueltas\n👉Municipio Santa Clara:\nCto 5 (Dobarganes)\nCto 17 (Subplanta)\n👉Municipio Sagua\nCto 43, 50, 51 Sagua\nCto 44 Isabela\nCto 147 Villa Alegre",
+    "timestamp": 1764162067,
+    "timestamp_local": 1764162067
+  },
+  {
+    "id": 34441,
+    "fecha": "26 de Nov del 2025 a las 07:37 AM",
+    "hora_utc": "2025-11-26 12:37",
+    "mensaje": "Afectados 97 MW en la provincia, demanda máxima a apagar en estos momentos.",
+    "timestamp": 1764160661,
+    "timestamp_local": 1764160661
+  },
+  {
     "id": 34440,
     "fecha": "26 de Nov del 2025 a las 07:13 AM",
     "hora_utc": "2025-11-26 12:13",
@@ -126,37 +158,5 @@
     "mensaje": "🕛Actualización del servicio eléctrico en las últimas 6 horas.\n✍️El déficit de capacidad de generación osciló entre los 86 MW y los 153 MW.\n✍️En el momento de esta nota, se mantienen afectados 123 circuitos.\n✍️Cuenta con 57 afectaciones por averías secundarias y de servicio:\n🔸Caibarieni (1)\n🔸Corralillo (2)\n🔸Manicaragua (5)\n🔸Placetas (1)\n🔸Remedios (3)\n🔸Sagua (5)\n🔸Santa Clara (21)\n🛠️Se encuentran 3 averías  en vías de solución.\n🛠️Pendientes a solucionar por el área técnica 16.\n➡️Averías primarias en la provincia en estos momentos.\n⚡Se mantiene en avería el Cto 57 (Motembo), perteneciente al municipio Corralillo, transformador dañado en la subestación.",
     "timestamp": 1764138465,
     "timestamp_local": 1764138465
-  },
-  {
-    "id": 34424,
-    "fecha": "25 de Nov del 2025 a las 11:00 PM",
-    "hora_utc": "2025-11-26 04:00",
-    "mensaje": "💡 Restablecido el servicio eléctrico en los siguientes circuitos:\n🔹Municipio Santa Clara\n👉Ctos 31, 132 y 162 SC. Industrial\n👉Cto 6 Vigia\n🔹Municipio Santa Clara\n👉Ctos 15 y 27 (Maleza)\n🔹Municipio Santa Clara:\n👉Cto 16 Cubanacán\n👉Ctos 23 y 130 La Ceniza\n👉Cto 42 Manajanabo\n🔹Municipio Placetas\n👉Cto 139 Miller\n👉Cto 190 Oliver\n👉Cto 106 Falcón",
-    "timestamp": 1764129651,
-    "timestamp_local": 1764129651
-  },
-  {
-    "id": 34423,
-    "fecha": "25 de Nov del 2025 a las 10:37 PM",
-    "hora_utc": "2025-11-26 03:37",
-    "mensaje": "🔸Actualización del servicio eléctrico en la provincia🔸\n✍️Se mantienen afectados en la provincia 139 circuitos.\n✍️En el momento de hacer esta nota la provincia tiene 115 MW por déficit de capacidad de generación.\n✍️Cuenta con 44 afectaciones  por averías secundarias y de servicio.",
-    "timestamp": 1764128248,
-    "timestamp_local": 1764128248
-  },
-  {
-    "id": 34422,
-    "fecha": "25 de Nov del 2025 a las 10:35 PM",
-    "hora_utc": "2025-11-26 03:35",
-    "mensaje": "⚠️Afectados por déficit de capacidad de generación los siguientes circuitos:\n🔹Municipio Santa Clara\n👉Ctos 31, 132 y 162 SC. Industrial",
-    "timestamp": 1764128122,
-    "timestamp_local": 1764128122
-  },
-  {
-    "id": 34421,
-    "fecha": "25 de Nov del 2025 a las 09:16 PM",
-    "hora_utc": "2025-11-26 02:16",
-    "mensaje": "Afectados 109 MW en la provincia, demanda máxima a apagar en estos momentos.",
-    "timestamp": 1764123416,
-    "timestamp_local": 1764123416
   }
 ]
