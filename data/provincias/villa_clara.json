@@ -1,5 +1,21 @@
 [
   {
+    "id": 34459,
+    "fecha": "26 de Nov del 2025 a las 10:11 AM",
+    "hora_utc": "2025-11-26 15:11",
+    "mensaje": "⚠️Afectados por déficit de generación los circuitos 132 y 162 SC Industrial.",
+    "timestamp": 1764169879,
+    "timestamp_local": 1764169879
+  },
+  {
+    "id": 34458,
+    "fecha": "26 de Nov del 2025 a las 10:01 AM",
+    "hora_utc": "2025-11-26 15:01",
+    "mensaje": "🔸Actualización del servicio eléctrico en la provincia🔸\n✍️Se mantienen afectados en la provincia 80 circuitos.\n✍️En el momento de hacer esta nota la provincia tiene 61 MW por déficit de capacidad de generación.\n✍️Cuenta con 60 afectaciones  por averías secundarias y de servicio.",
+    "timestamp": 1764169271,
+    "timestamp_local": 1764169271
+  },
+  {
     "id": 34457,
     "fecha": "26 de Nov del 2025 a las 09:56 AM",
     "hora_utc": "2025-11-26 14:56",
@@ -118,21 +134,5 @@
     "mensaje": "🚨Nota informativa.🚨\n\n👉Situación del SEN para el 26 de noviembre de 2025.\n\n📆En el día de ayer se afectó el servicio durante las 24 horas. La máxima afectación por déficit de capacidad de generación en el día de ayer fue de 1704 MW a las 18:20 horas. \n\n☀️La producción de energía de los 33 nuevos parques solares fotovoltaicos fue de 2827 MWh, con 584 MW como máxima potencia entregada en el horario de la media con esta fuente de generación. \n\n👉La disponibilidad del SEN a las 06:00 horas es de 1500 MW  y la demanda 2382 MW con 908 MW afectados por déficit de capacidad. En el horario de la media se estima una afectación de 950 MW. \n\n🛠️Se encuentran en avería la unidad 2 de la CTE Felton y la unidad 6 de la CTE Antonio Maceo (Rente). Se encuentran en mantenimiento la unidad 5 de la CTE Mariel, la unidad 2 de la CTE Santa Cruz y la unidad 4 de la CTE Cienfuegos.\n\n👉Las limitaciones en la generación térmica son de 546 MW. \n\n⛽Se encuentran fuera de servicio por combustible 95 centrales de generación distribuida con 830 MW, 5 motores del emplazamiento de MOA con 100 MW y 68 MW indisponible por falta de lubricante, para un total de 998 MW.\n   \n📈Se prevé en el horario pico una disponibilidad de  1500 MW y una demanda máxima de 3300 MW, para un déficit de 1800 MW, por lo que de mantenerse las condiciones previstas se pronostica una afectación de 1870 MW en este horario.\n  \nUNE-MINEM",
     "timestamp": 1764159230,
     "timestamp_local": 1764159230
-  },
-  {
-    "id": 34439,
-    "fecha": "26 de Nov del 2025 a las 07:07 AM",
-    "hora_utc": "2025-11-26 12:07",
-    "mensaje": "⚠️Afectados por déficit de capacidad de generación los siguientes circuitos:\n🔹Municipio Santa Clara\n👉Ctos 26 y 141 (Manuelita)",
-    "timestamp": 1764158858,
-    "timestamp_local": 1764158858
-  },
-  {
-    "id": 34438,
-    "fecha": "26 de Nov del 2025 a las 06:56 AM",
-    "hora_utc": "2025-11-26 11:56",
-    "mensaje": "⚠️Afectados por déficit de capacidad de generación los siguientes circuitos:\n🔹Municipio Santa Clara:\n👉Ctos 5 y 7 Dobarganes -Subplanta\n👉Cto 144 (Camacho)",
-    "timestamp": 1764158171,
-    "timestamp_local": 1764158171
   }
 ]
