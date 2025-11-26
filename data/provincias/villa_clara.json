@@ -1,5 +1,29 @@
 [
   {
+    "id": 34467,
+    "fecha": "26 de Nov del 2025 a las 01:46 PM",
+    "hora_utc": "2025-11-26 18:46",
+    "mensaje": "⚠️Afectados por déficit de generación los circuitos siguientes:\n👉 Municipio Santa Clara:\nCto 5 (Dobarganes)\nCto 17 (Subplanta)",
+    "timestamp": 1764182801,
+    "timestamp_local": 1764182801
+  },
+  {
+    "id": 34466,
+    "fecha": "26 de Nov del 2025 a las 01:41 PM",
+    "hora_utc": "2025-11-26 18:41",
+    "mensaje": "⚠️Afectados por déficit de generación los siguientes circuitos:\n👉Municipio Encrucijada\nCto 120 Calabazar\nCtos 121 y 127 Perucho",
+    "timestamp": 1764182508,
+    "timestamp_local": 1764182508
+  },
+  {
+    "id": 34465,
+    "fecha": "26 de Nov del 2025 a las 01:18 PM",
+    "hora_utc": "2025-11-26 18:18",
+    "mensaje": "💡Restablecido el servicio eléctrico en el circuito 6 Vigía.",
+    "timestamp": 1764181103,
+    "timestamp_local": 1764181103
+  },
+  {
     "id": 34463,
     "fecha": "26 de Nov del 2025 a las 11:56 AM",
     "hora_utc": "2025-11-26 16:56",
@@ -110,29 +134,5 @@
     "mensaje": "⚡Afectado por avería el circuito 169 Condado. Se estudian las causas.",
     "timestamp": 1764164966,
     "timestamp_local": 1764164966
-  },
-  {
-    "id": 34446,
-    "fecha": "26 de Nov del 2025 a las 08:46 AM",
-    "hora_utc": "2025-11-26 13:46",
-    "mensaje": "⚡Afectado por disparo el circuito 169 Condado del municipio Santa Clara.",
-    "timestamp": 1764164785,
-    "timestamp_local": 1764164785
-  },
-  {
-    "id": 34445,
-    "fecha": "26 de Nov del 2025 a las 08:34 AM",
-    "hora_utc": "2025-11-26 13:34",
-    "mensaje": "⚡Afectado por avería circuito 32 RF del municipio Santa Clara. Se estudian las causas.",
-    "timestamp": 1764164070,
-    "timestamp_local": 1764164070
-  },
-  {
-    "id": 34444,
-    "fecha": "26 de Nov del 2025 a las 08:14 AM",
-    "hora_utc": "2025-11-26 13:14",
-    "mensaje": "🔸Actualización del servicio eléctrico en la provincia🔸\n✍️Se mantienen afectados en la provincia 129 circuitos.\n✍️En el momento de hacer esta nota la provincia tiene 83 MW por déficit de capacidad de generación.\n✍️Cuenta con 47 afectaciones  por averías secundarias y de servicio.",
-    "timestamp": 1764162883,
-    "timestamp_local": 1764162883
   }
 ]
