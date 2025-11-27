@@ -1,5 +1,37 @@
 [
   {
+    "id": 98522,
+    "fecha": "27 de Nov del 2025 a las 12:00 AM",
+    "hora_utc": "2025-11-27 05:00",
+    "mensaje": "🚨Por déficit de capacidad de generación se afecta el servicio en el siguiente circuito:\n*2440🚨",
+    "timestamp": 1764219642,
+    "timestamp_local": 1764219642
+  },
+  {
+    "id": 98521,
+    "fecha": "26 de Nov del 2025 a las 11:57 PM",
+    "hora_utc": "2025-11-27 04:57",
+    "mensaje": "♦️ Afectado el servicio en el circuito 3665 por manipulación ♦️",
+    "timestamp": 1764219472,
+    "timestamp_local": 1764219472
+  },
+  {
+    "id": 98520,
+    "fecha": "26 de Nov del 2025 a las 11:56 PM",
+    "hora_utc": "2025-11-27 04:56",
+    "mensaje": "🔷♦️Se restablece el servicio en los siguientes circuitos que se encontraban afectados por déficit de capacidad de generación: \n*3660\n*3655🔷♦️",
+    "timestamp": 1764219409,
+    "timestamp_local": 1764219409
+  },
+  {
+    "id": 98519,
+    "fecha": "26 de Nov del 2025 a las 11:56 PM",
+    "hora_utc": "2025-11-27 04:56",
+    "mensaje": "🔷♦️Se restablece el servicio en el siguiente circuito que se encontraba afectado por déficit de capacidad de generación:\n *Camilo🔷♦️",
+    "timestamp": 1764219365,
+    "timestamp_local": 1764219365
+  },
+  {
     "id": 98518,
     "fecha": "26 de Nov del 2025 a las 11:49 PM",
     "hora_utc": "2025-11-27 04:49",
@@ -102,29 +134,5 @@
     "mensaje": "🚨Por déficit de capacidad de generación se afecta el servicio en el siguiente circuito:\n*La Salud 1🚨",
     "timestamp": 1764202279,
     "timestamp_local": 1764202279
-  },
-  {
-    "id": 98501,
-    "fecha": "26 de Nov del 2025 a las 06:43 PM",
-    "hora_utc": "2025-11-26 23:43",
-    "mensaje": "🚨Por déficit de capacidad de generación se afecta el servicio en el siguiente circuito:\n*6 y 8 de San José 🚨",
-    "timestamp": 1764200582,
-    "timestamp_local": 1764200582
-  },
-  {
-    "id": 98500,
-    "fecha": "26 de Nov del 2025 a las 06:29 PM",
-    "hora_utc": "2025-11-26 23:29",
-    "mensaje": "🔷 Restablecido el servicio en el circuito 3140 que se encontraba afectado por disparo por DAF 🔷",
-    "timestamp": 1764199784,
-    "timestamp_local": 1764199784
-  },
-  {
-    "id": 98499,
-    "fecha": "26 de Nov del 2025 a las 06:29 PM",
-    "hora_utc": "2025-11-26 23:29",
-    "mensaje": "🔷♦️Se restablece el servicio en el siguiente circuito que se encontraba afectado por déficit de capacidad de generación:\n *Ganuza🔷♦️",
-    "timestamp": 1764199745,
-    "timestamp_local": 1764199745
   }
 ]
