@@ -1,5 +1,69 @@
 [
   {
+    "id": 34564,
+    "fecha": "27 de Nov del 2025 a las 03:39 PM",
+    "hora_utc": "2025-11-27 20:39",
+    "mensaje": "Con servicio la línea 1210:\n🔹Municipio Quemado:\n👉Ctos 164, 52 y 53 Quemado (Afectados por déficit).\n👉Cto 196 Batey Panchito Gómez Toro.\n🔹Municipio Corralillo:\n👉Ctos 58 y 159\n👉Cto 57 Motembo\n👉Cto 56 Yabre\n👉Cto 60 La Sierra\n👉Cto 55 Rancho Veloz (Avería Parcial)",
+    "timestamp": 1764275969,
+    "timestamp_local": 1764275969
+  },
+  {
+    "id": 34563,
+    "fecha": "27 de Nov del 2025 a las 03:34 PM",
+    "hora_utc": "2025-11-27 20:34",
+    "mensaje": "Con servicio el circuito 108 y 110 (La Piedra), perteneciente al municipio de Manicaragua.",
+    "timestamp": 1764275651,
+    "timestamp_local": 1764275651
+  },
+  {
+    "id": 34562,
+    "fecha": "27 de Nov del 2025 a las 03:32 PM",
+    "hora_utc": "2025-11-27 20:32",
+    "mensaje": "🛠️Afectada por manipulación la línea 1210:\nAfecta los siguientes circuitos:\n🔹Municipio Quemado:\n👉Ctos 164, 52 y 53 Quemado (Afectados por déficit).\n👉Cto 196 Batey Panchito Gómez Toro.\n🔹Municipio Corralillo:\n👉Ctos 58 y 159\n👉Cto 57 Motembo\n👉Cto 56 Yabre\n👉Cto 60 La Sierra\n👉Cto 55 Rancho Veloz (Avería)",
+    "timestamp": 1764275532,
+    "timestamp_local": 1764275532
+  },
+  {
+    "id": 34561,
+    "fecha": "27 de Nov del 2025 a las 03:30 PM",
+    "hora_utc": "2025-11-27 20:30",
+    "mensaje": "⚠️Afectados por déficit de capacidad de generación los siguientes circuitos:\n🔹Municipio Quemado:\n👉Ctos 164, 52 y 53 Quemado.",
+    "timestamp": 1764275444,
+    "timestamp_local": 1764275444
+  },
+  {
+    "id": 34560,
+    "fecha": "27 de Nov del 2025 a las 03:29 PM",
+    "hora_utc": "2025-11-27 20:29",
+    "mensaje": "⚠️Afectados por déficit de capacidad de generación los siguientes circuitos:\n🔹Municipio Placetas\n👉Ctos 98 y 99 (Parcial)Placetas\n👉Ctos 100 y 151 Placetas\n👉Cto 104 Hermanos Amejeiras\n👉Cto 103 Batey Carbó Servia",
+    "timestamp": 1764275364,
+    "timestamp_local": 1764275364
+  },
+  {
+    "id": 34559,
+    "fecha": "27 de Nov del 2025 a las 03:26 PM",
+    "hora_utc": "2025-11-27 20:26",
+    "mensaje": "⚠️Afectados por déficit de capacidad de generación los siguientes circuitos:\n🔹Municipio Caibarién\n👉Ctos 61 y 62 \n👉Ctos 182 y 183 Van Troi",
+    "timestamp": 1764275210,
+    "timestamp_local": 1764275210
+  },
+  {
+    "id": 34558,
+    "fecha": "27 de Nov del 2025 a las 03:19 PM",
+    "hora_utc": "2025-11-27 20:19",
+    "mensaje": "⚠️Afectados por déficit de capacidad de generación los circuitos 63 y 64 del municipio Caibarién.",
+    "timestamp": 1764274758,
+    "timestamp_local": 1764274758
+  },
+  {
+    "id": 34557,
+    "fecha": "27 de Nov del 2025 a las 03:08 PM",
+    "hora_utc": "2025-11-27 20:08",
+    "mensaje": "⚠️Afectados por déficit de generación los siguientes circuitos\n🔹Municipio Santa Clara\n👉Cto 22 (Construcciones Textil)\n👉Cto 153 (EIDE)\n👉Cto 14 Maleza\n👉Cto 144 Camacho",
+    "timestamp": 1764274125,
+    "timestamp_local": 1764274125
+  },
+  {
     "id": 34556,
     "fecha": "27 de Nov del 2025 a las 02:59 PM",
     "hora_utc": "2025-11-27 19:59",
@@ -11,7 +75,7 @@
     "id": 34555,
     "fecha": "27 de Nov del 2025 a las 02:55 PM",
     "hora_utc": "2025-11-27 19:55",
-    "mensaje": "⚡Disparo del circuito 108 la Piedra perteneciente al municipio de Manicaragua",
+    "mensaje": "⚡Disparo del circuito 108 la Piedra perteneciente al municipio de Manicaragua.",
     "timestamp": 1764273348,
     "timestamp_local": 1764273348
   },
@@ -67,7 +131,7 @@
     "id": 34547,
     "fecha": "27 de Nov del 2025 a las 01:45 PM",
     "hora_utc": "2025-11-27 18:45",
-    "mensaje": "⚠️Afectados por déficit de generación los siguientes circuitos:\n🔹Municipio Santa Clara:\n👉Ctos 1, 2, 4 (Consejo- Centro)",
+    "mensaje": "⚠️Afectados por déficit de generación los siguientes circuitos:\n🔹Municipio Santa Clara:\n👉Ctos 1, 2 y 4 (Consejo- Centro)",
     "timestamp": 1764269112,
     "timestamp_local": 1764269112
   },
@@ -94,69 +158,5 @@
     "mensaje": "🛠️Afectado por disparo el circuito 6 (Vigía), del municipio Santa Clara. Se estudian las causas.",
     "timestamp": 1764267266,
     "timestamp_local": 1764267266
-  },
-  {
-    "id": 34543,
-    "fecha": "27 de Nov del 2025 a las 01:04 PM",
-    "hora_utc": "2025-11-27 18:04",
-    "mensaje": "💡Con servicio la línea 1785:\n🔹Municipio Santa Clara:\n👉Cto 6 ( Vigía) \n👉Cto 34(Sabana Rebacadero)\n👉Ctos 32 y 33 (RF-33Kv)\n👉Cto 39 (Sandino)",
-    "timestamp": 1764266689,
-    "timestamp_local": 1764266689
-  },
-  {
-    "id": 34541,
-    "fecha": "27 de Nov del 2025 a las 12:58 PM",
-    "hora_utc": "2025-11-27 17:58",
-    "mensaje": "⚡Afectada por manipulación línea 1785 afectando los siguientes circuitos :\n🔹Municipio Santa Clara:\n👉Cto 6 ( Vigía) afectado por disparo\n👉Cto 34(Sabana Rebacadero)\n👉Ctos 32 y 33 (RF-33Kv)\n👉Cto 39 (Sandino)",
-    "timestamp": 1764266337,
-    "timestamp_local": 1764266337
-  },
-  {
-    "id": 34540,
-    "fecha": "27 de Nov del 2025 a las 12:56 PM",
-    "hora_utc": "2025-11-27 17:56",
-    "mensaje": "💡Restablecido en su totalidad el circuito 48 Finalet perteneciente al municipio de Sagua.",
-    "timestamp": 1764266168,
-    "timestamp_local": 1764266168
-  },
-  {
-    "id": 34539,
-    "fecha": "27 de Nov del 2025 a las 12:43 PM",
-    "hora_utc": "2025-11-27 17:43",
-    "mensaje": "⚠️Afectados por déficit de generación los siguientes circuitos:\n🔹Municipio Caibarién\n👉Ctos 182 y 183 Van Troi\n🔹Municipio Santo Domingo:\n👉Cto 134\n👉Ctos 87 y 96 Bermejal\n👉Cto 187 Batey Carlos Baliño\n👉Cto 82 Ulacia\n👉Cto 84 Rodrigo",
-    "timestamp": 1764265408,
-    "timestamp_local": 1764265408
-  },
-  {
-    "id": 34538,
-    "fecha": "27 de Nov del 2025 a las 12:35 PM",
-    "hora_utc": "2025-11-27 17:35",
-    "mensaje": "🛠️Afectado por disparo el circuito 6 (Vigía), del municipio Santa Clara. Se estudian las causas.",
-    "timestamp": 1764264955,
-    "timestamp_local": 1764264955
-  },
-  {
-    "id": 34537,
-    "fecha": "27 de Nov del 2025 a las 12:34 PM",
-    "hora_utc": "2025-11-27 17:34",
-    "mensaje": "⚠️Afectados por déficit de generación los circuitos 160 y 161 (Cascajal), del municipio Santo Domingo.",
-    "timestamp": 1764264853,
-    "timestamp_local": 1764264853
-  },
-  {
-    "id": 34536,
-    "fecha": "27 de Nov del 2025 a las 12:32 PM",
-    "hora_utc": "2025-11-27 17:32",
-    "mensaje": "⚠️Afectados por déficit de generación los siguientes circuitos:\n🔹Municipio Sagua\n👉Cto 43, 50, 51 Sagua\n👉Cto 147 Villa Alegre",
-    "timestamp": 1764264732,
-    "timestamp_local": 1764264732
-  },
-  {
-    "id": 34535,
-    "fecha": "27 de Nov del 2025 a las 12:28 PM",
-    "hora_utc": "2025-11-27 17:28",
-    "mensaje": "⚠️Afectados por déficit de generación los siguientes circuitos:\n🔹Municipio Ranchuelo: \n👉Ctos 89, 97, 188 y 189\n👉Ctos 148 y 149 San Juan\n👉Cto 91 Batey Osvaldo Herrera\n👉Cto 181 Batey Ifraín Alfonso",
-    "timestamp": 1764264530,
-    "timestamp_local": 1764264530
   }
 ]
