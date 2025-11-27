@@ -1,9 +1,49 @@
 [
   {
+    "id": 98582,
+    "fecha": "27 de Nov del 2025 a las 02:16 PM",
+    "hora_utc": "2025-11-27 19:16",
+    "mensaje": "🚨Por déficit de capacidad de generación se afecta el servicio en el siguiente circuito:\n*Madruga🚨",
+    "timestamp": 1764270989,
+    "timestamp_local": 1764270989
+  },
+  {
+    "id": 98581,
+    "fecha": "27 de Nov del 2025 a las 02:05 PM",
+    "hora_utc": "2025-11-27 19:05",
+    "mensaje": "🚨Por déficit de capacidad de generación se afecta el servicio en el siguiente circuito:\n*Salud 1🚨",
+    "timestamp": 1764270338,
+    "timestamp_local": 1764270338
+  },
+  {
+    "id": 98580,
+    "fecha": "27 de Nov del 2025 a las 02:05 PM",
+    "hora_utc": "2025-11-27 19:05",
+    "mensaje": "♦️ Afectado el servicio en el circuito Vegas por disparo en las líneas♦️",
+    "timestamp": 1764270326,
+    "timestamp_local": 1764270326
+  },
+  {
+    "id": 98579,
+    "fecha": "27 de Nov del 2025 a las 02:02 PM",
+    "hora_utc": "2025-11-27 19:02",
+    "mensaje": "🚨Por déficit de capacidad de generación se afecta el servicio en los siguientes circuitos:\n*Fénix\n*Bio 2🚨",
+    "timestamp": 1764270144,
+    "timestamp_local": 1764270144
+  },
+  {
+    "id": 98578,
+    "fecha": "27 de Nov del 2025 a las 02:01 PM",
+    "hora_utc": "2025-11-27 19:01",
+    "mensaje": "♦️ Afectado el servicio en el circuito 3140 por disparo por DAF♦️",
+    "timestamp": 1764270094,
+    "timestamp_local": 1764270094
+  },
+  {
     "id": 98577,
     "fecha": "27 de Nov del 2025 a las 01:41 PM",
     "hora_utc": "2025-11-27 18:41",
-    "mensaje": "🔷♦️Se restablece el servicio en los circuitos que se encontraban afectados por déficit de capacidad de generación:\n *1790\n*Bio 1♦️🔷",
+    "mensaje": "🔷♦️Se restablece el servicio en los circuitos que se encontraban afectados por déficit de capacidad de generación:\n *1790\n*Bio 1\n*Batabanó\n*Camacho 1 y 2♦️🔷",
     "timestamp": 1764268888,
     "timestamp_local": 1764268888
   },
@@ -110,29 +150,5 @@
     "mensaje": "♦️Afectado el servicio en el circuito 3140 por disparo por DAF♦️",
     "timestamp": 1764258329,
     "timestamp_local": 1764258329
-  },
-  {
-    "id": 98561,
-    "fecha": "27 de Nov del 2025 a las 09:59 AM",
-    "hora_utc": "2025-11-27 14:59",
-    "mensaje": "♦️Afectado el servicio en los siguientes circuitos por vía libre por emergencia:\n*Melena\n*Caamaño\n*Vedado ♦️",
-    "timestamp": 1764255544,
-    "timestamp_local": 1764255544
-  },
-  {
-    "id": 98560,
-    "fecha": "27 de Nov del 2025 a las 08:30 AM",
-    "hora_utc": "2025-11-27 13:30",
-    "mensaje": "🔷♦️Se restablece el servicio en el siguiente circuito que se encontraba afectado por déficit de capacidad de generación:\n *2420 ♦️🔷",
-    "timestamp": 1764250237,
-    "timestamp_local": 1764250237
-  },
-  {
-    "id": 98559,
-    "fecha": "27 de Nov del 2025 a las 08:19 AM",
-    "hora_utc": "2025-11-27 13:19",
-    "mensaje": "**Nota Informativa: Estado del Sistema Eléctrico Nacional (SEN) – 27 de noviembre de 2025**\nEn el día de ayer se afectó el servicio durante las 24 horas. La máxima afectación por déficit de capacidad de generación en el día de ayer fue de 1799 MW a las 19:00 horas.\nLa producción de energía de los 33 nuevos parques solares fotovoltaicos fue de 2923 MWh, con 518 MW como máxima potencia entregada en el horario de la media con esta fuente de generación.\n**Estado actual del SEN**\nLa disponibilidad del SEN a las 06:00 horas es de 1424 MW y la demanda 2409 MW con 948 MW afectados por déficit de capacidad. En el horario de la media se estima una afectación de 950 MW.\n**Principales incidencias**\nAvería: Unidad 6 de la CTE Antonio Maceo y Unidad 2 de la CTE Felton.\nMantenimiento: Unidad 5 de la CTE Mariel, Unidad 2 de la CTE Santa Cruz, Unidad 4 de la CTE Carlos Manuel de Céspedes en Cienfuegos.\nLimitaciones en la generación térmica: 546 fuera de servicio.\nProblemas por falta de combustible\n94 centrales de generación distribuida con 846 MW.\nMotores del emplazamiento de MOA, con 100 MW.\n63 MW indisponibles por falta de lubricante.\nTotal de MW afectados por esta causa: 1009 MW.\n**Pronóstico para el horario pico**\nPara el horario pico se espera la entrada de los motores del Fuel de Moa con 100 MW\nSe prevé en el horario pico una disponibilidad de 1524 MW y una demanda máxima de 3250 MW, para un déficit de 1726 MW, por lo que de mantenerse las condiciones previstas se pronostica una afectación de 1796 MW en este horario.",
-    "timestamp": 1764249579,
-    "timestamp_local": 1764249579
   }
 ]

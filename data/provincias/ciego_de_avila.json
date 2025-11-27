@@ -1,9 +1,41 @@
 [
   {
+    "id": 33925,
+    "fecha": "27 de Nov del 2025 a las 02:41 PM",
+    "hora_utc": "2025-11-27 19:41",
+    "mensaje": "🔊Información🔊\n✅Se restablece el servicio eléctrico en el circuito Micro Norte.",
+    "timestamp": 1764272474,
+    "timestamp_local": 1764272474
+  },
+  {
+    "id": 33924,
+    "fecha": "27 de Nov del 2025 a las 02:32 PM",
+    "hora_utc": "2025-11-27 19:32",
+    "mensaje": "🔊Información🔊\n✅Se restablece el servicio eléctrico en el circuito Nereida.",
+    "timestamp": 1764271975,
+    "timestamp_local": 1764271975
+  },
+  {
+    "id": 33923,
+    "fecha": "27 de Nov del 2025 a las 02:29 PM",
+    "hora_utc": "2025-11-27 19:29",
+    "mensaje": "‼️ Déficit de Generación ‼️   \n👉 Nos mantenemos en 62 MW en la provincia por déficit de generación.\n💥Se afecta el siguiente circuito:\n👉 A206.\n ⏰ Reiteramos que los circuitos se afectarán o se restablecerán en dependencia del déficit solicitado en cada momento de la jornada que es muy variable.",
+    "timestamp": 1764271764,
+    "timestamp_local": 1764271764
+  },
+  {
+    "id": 33922,
+    "fecha": "27 de Nov del 2025 a las 02:25 PM",
+    "hora_utc": "2025-11-27 19:25",
+    "mensaje": "👉Se encuentran sin servicio eléctrico el circuito Micro Norte, para un cambio de fusibles. Se trabaja para restablecer el servicio lo antes posible. Ofrecemos disculpas por las molestias ocasionadas.",
+    "timestamp": 1764271509,
+    "timestamp_local": 1764271509
+  },
+  {
     "id": 33921,
     "fecha": "27 de Nov del 2025 a las 01:18 PM",
     "hora_utc": "2025-11-27 18:18",
-    "mensaje": "‼️ Déficit de Generación ‼️   \n👉 Nos mantenemos en 62 MW en la provincia por déficit de generación.\n💢Se incorporan a la rotación los siguientes circuitos.\n👉A102, Falla, Ranchuelo, Patria, Morón Norte ,Chamba, Los Perros, El Asiento y Punta Alegre .\n ⏰ Reiteramos que los circuitos se afectarán o se restablecerán en dependencia del déficit solicitado en cada momento de la jornada que es muy variable.",
+    "mensaje": "‼️ Déficit de Generación ‼️   \n👉 Nos mantenemos en 62 MW en la provincia por déficit de generación.\n💢Se incorporan a la rotación los siguientes circuitos.\n👉A102, Chamba, Los Perros, Punta Alegre, Falla, Ranchuelo, Morón Norte ,El Mambí, Jagueyal, Patria, 3, A110 ,Nereida, Peonia y Morón Centro .\n ⏰ Reiteramos que los circuitos se afectarán o se restablecerán en dependencia del déficit solicitado en cada momento de la jornada que es muy variable.",
     "timestamp": 1764267491,
     "timestamp_local": 1764267491
   },
@@ -94,29 +126,5 @@
     "mensaje": "‼️ Información del déficit de generación ‼️   \n👉Bajamos a 80 MW en la provincia afectados por déficit de generación.\n⏰ Con este déficit, la carga a apagar en la provincia no nos permite realizar una rotación estable de los circuitos, por lo que se afectarán o se restablecerán en dependencia del déficit que haya en cada momento de la jornada, que es muy variable.",
     "timestamp": 1764239934,
     "timestamp_local": 1764239934
-  },
-  {
-    "id": 33902,
-    "fecha": "27 de Nov del 2025 a las 04:31 AM",
-    "hora_utc": "2025-11-27 09:31",
-    "mensaje": "‼️ Déficit de Generación ‼️   \n👉 Continuamos con 92 MW en la provincia afectados por déficit de generación.\n\n⏰ Reiteramos que los circuitos se afectarán o se restablecerán en dependencia del déficit en cada momento de la jornada, que es muy variable.",
-    "timestamp": 1764235872,
-    "timestamp_local": 1764235872
-  },
-  {
-    "id": 33901,
-    "fecha": "27 de Nov del 2025 a las 02:14 AM",
-    "hora_utc": "2025-11-27 07:14",
-    "mensaje": "‼️ Información del déficit de generación ‼️   \n👉Bajamos a 92 MW en la provincia afectados por déficit de generación.\n⏰ Con este déficit, la carga a apagar en la provincia no nos permite realizar una rotación estable de los circuitos, por lo que se afectarán o se restablecerán en dependencia del déficit que haya en cada momento de la jornada, que es muy variable.",
-    "timestamp": 1764227682,
-    "timestamp_local": 1764227682
-  },
-  {
-    "id": 33900,
-    "fecha": "27 de Nov del 2025 a las 01:00 AM",
-    "hora_utc": "2025-11-27 06:00",
-    "mensaje": "‼️ Información del déficit de generación ‼️   \n👉Continuamos con 105 MW en la provincia afectados por déficit de generación.\n⏰ Con este déficit, la carga a apagar en la provincia no nos permite realizar una rotación estable de los circuitos, por lo que se afectarán o se restablecerán en dependencia del déficit que haya en cada momento de la jornada, que es muy variable.",
-    "timestamp": 1764223226,
-    "timestamp_local": 1764223226
   }
 ]
