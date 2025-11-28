@@ -1,5 +1,45 @@
 [
   {
+    "id": 34625,
+    "fecha": "28 de Nov del 2025 a las 11:47 AM",
+    "hora_utc": "2025-11-28 16:47",
+    "mensaje": "⚠️Afectado por déficit de capacidad de generación el Cto 153 (EIDE), perteneciente al municipio Santa Clara.",
+    "timestamp": 1764348423,
+    "timestamp_local": 1764348423
+  },
+  {
+    "id": 34624,
+    "fecha": "28 de Nov del 2025 a las 11:28 AM",
+    "hora_utc": "2025-11-28 16:28",
+    "mensaje": "⚠️Afectados por déficit de capacidad de generación los siguientes circuitos\n🔹Municipio Santa Clara\n👉Ctos 26 y 141 (Manuelita)",
+    "timestamp": 1764347318,
+    "timestamp_local": 1764347318
+  },
+  {
+    "id": 34623,
+    "fecha": "28 de Nov del 2025 a las 11:24 AM",
+    "hora_utc": "2025-11-28 16:24",
+    "mensaje": "⚠️Afectados por déficit de capacidad de generación los siguientes circuitos\n🔹Municipio Santa Clara:\n👉**Cto 132 SC. Industrial**\n**👉Cto 162 SC. Industrial**",
+    "timestamp": 1764347051,
+    "timestamp_local": 1764347051
+  },
+  {
+    "id": 34622,
+    "fecha": "28 de Nov del 2025 a las 11:11 AM",
+    "hora_utc": "2025-11-28 16:11",
+    "mensaje": "⚠️Afectados por déficit de capacidad de generación los siguientes circuitos\n🔹Municipio Camajuaní\n👉Ctos 77, 59, 185 Vueltas",
+    "timestamp": 1764346261,
+    "timestamp_local": 1764346261
+  },
+  {
+    "id": 34621,
+    "fecha": "28 de Nov del 2025 a las 11:05 AM",
+    "hora_utc": "2025-11-28 16:05",
+    "mensaje": "Afectados 54 MW en la provincia, demanda máxima a apagar en estos momentos.",
+    "timestamp": 1764345952,
+    "timestamp_local": 1764345952
+  },
+  {
     "id": 34620,
     "fecha": "28 de Nov del 2025 a las 10:57 AM",
     "hora_utc": "2025-11-28 15:57",
@@ -102,45 +142,5 @@
     "mensaje": "⚠️Afectado por déficit de capacidad de generación el Cto 170 (José Martí), perteneciente al municipio Santa Clara.",
     "timestamp": 1764339303,
     "timestamp_local": 1764339303
-  },
-  {
-    "id": 34605,
-    "fecha": "28 de Nov del 2025 a las 09:12 AM",
-    "hora_utc": "2025-11-28 14:12",
-    "mensaje": "⚠️Afectado por déficit de capacidad de generación el Cto 166 (Condado), perteneciente al municipio Santa Clara.",
-    "timestamp": 1764339135,
-    "timestamp_local": 1764339135
-  },
-  {
-    "id": 34604,
-    "fecha": "28 de Nov del 2025 a las 09:09 AM",
-    "hora_utc": "2025-11-28 14:09",
-    "mensaje": "🚨Nota informativa🚨\n\n📆Situación del SEN para el 28 de noviembre de 2025.\n\n👉En el día de ayer se afectó el servicio durante las 24 horas. La máxima afectación por déficit de capacidad de generación en el día de ayer fue de 1850 MW a las 19:00 horas. \n\n☀️La producción de energía de los 33 nuevos parques solares fotovoltaicos fue de 2847 MWh, con 507 MW como máxima potencia entregada en el horario de la media con esta fuente de generación. \n\n👉La disponibilidad del SEN a las 06:00 horas es de 1560 MW  y la demanda 2450 MW con 980 MW afectados por déficit de capacidad. En el horario de la media se estima una afectación de  900 MW.  \n\n🛠️Se encuentran en avería la unidad 2 de la CTE Felton. Se encuentran en mantenimiento la unidad 5 de la CTE Mariel, la unidad 2 de la CTE Santa Cruz y la unidad 4 de la CTE Cienfuegos.\n\n📈Las limitaciones en la generación térmica son de 526 MW. \n\n⛽Se encuentran fuera de servicio por combustible                                 96 centrales de generación distribuida con 868 MW,              63 MW indisponible por falta de lubricante, para un total de 931 MW.\n   \n📝Se prevé en el horario pico una disponibilidad de  1560 MW y una demanda máxima de 3200 MW, para un déficit de 1540 MW, por lo que de mantenerse las condiciones previstas se pronostica una afectación de 1610 MW en este horario.\n\nUNE-MINEM---07:00 horas.",
-    "timestamp": 1764338999,
-    "timestamp_local": 1764338999
-  },
-  {
-    "id": 34603,
-    "fecha": "28 de Nov del 2025 a las 09:07 AM",
-    "hora_utc": "2025-11-28 14:07",
-    "mensaje": "Afectados 91 MW en la provincia, demanda máxima a apagar en estos momentos.",
-    "timestamp": 1764338877,
-    "timestamp_local": 1764338877
-  },
-  {
-    "id": 34602,
-    "fecha": "28 de Nov del 2025 a las 08:55 AM",
-    "hora_utc": "2025-11-28 13:55",
-    "mensaje": "⚠️Disparado el Cto 129 perteneciente al municipio Camajuaní, se estudian las causas.",
-    "timestamp": 1764338155,
-    "timestamp_local": 1764338155
-  },
-  {
-    "id": 34601,
-    "fecha": "28 de Nov del 2025 a las 08:54 AM",
-    "hora_utc": "2025-11-28 13:54",
-    "mensaje": "⚠️Disparo por DAF en las líneas 1915 y 1955:\nLínea 1915:\n🔹Municipio Placetas:\n👉Cto 192 Benito Juárez\n👉Cto 102 Peroti\nLínea 1955  \n🔹Municipio Encrucijada:\n👉Cto 122 Encrucijada \n👉Cto 123 Vizcaya \n👉Cto 142 Comunidad La Sierra \n👉Cto 126 Batey Emilio Córdova\n👉Cto 125 Cavarrocas\n👉Cto 124 El Santo\n🔹Municipio Camajuaní:\n👉Cto 78 Jutiero",
-    "timestamp": 1764338064,
-    "timestamp_local": 1764338064
   }
 ]
