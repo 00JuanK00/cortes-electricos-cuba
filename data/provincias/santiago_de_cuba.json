@@ -1,5 +1,45 @@
 [
   {
+    "id": 46761,
+    "fecha": "29 de Nov del 2025 a las 01:26 PM",
+    "hora_utc": "2025-11-29 18:26",
+    "mensaje": "🔴Estimados clientes en estos momentos se encuentra afectado el circuito 12 por una Vía Libre.",
+    "timestamp": 1764440779,
+    "timestamp_local": 1764440779
+  },
+  {
+    "id": 46760,
+    "fecha": "29 de Nov del 2025 a las 01:22 PM",
+    "hora_utc": "2025-11-29 18:22",
+    "mensaje": "🔴Vía Libre:\nTrabajos planificados o por emergencias que se realizan con el fin de construir y mantener líneas aéreas y soterradas; así como contribuir a la constante mejora en la entrega de la energía eléctrica.",
+    "timestamp": 1764440542,
+    "timestamp_local": 1764440542
+  },
+  {
+    "id": 46759,
+    "fecha": "29 de Nov del 2025 a las 01:22 PM",
+    "hora_utc": "2025-11-29 18:22",
+    "mensaje": "🔴Estimados clientes en estos momentos se quedo afectado el circuito 13  por una Vía Libre.",
+    "timestamp": 1764440527,
+    "timestamp_local": 1764440527
+  },
+  {
+    "id": 46758,
+    "fecha": "29 de Nov del 2025 a las 01:07 PM",
+    "hora_utc": "2025-11-29 18:07",
+    "mensaje": "🔴Manipulaciones:\nAcciones que se realizan en los circuitos para dar paso al trabajo en zonas afectadas por averías o Vía Libre y posteriormente para restablecer el servicio eléctrico en los circuitos que se encontraban afectados y en los que se trabaja con anterioridad, luego de culminadas las labores pertinentes.",
+    "timestamp": 1764439636,
+    "timestamp_local": 1764439636
+  },
+  {
+    "id": 46757,
+    "fecha": "29 de Nov del 2025 a las 01:06 PM",
+    "hora_utc": "2025-11-29 18:06",
+    "mensaje": "🔴Estimados clientes en estos momentos se afecto el circuito 13 por Manipulación  .",
+    "timestamp": 1764439599,
+    "timestamp_local": 1764439599
+  },
+  {
     "id": 46756,
     "fecha": "29 de Nov del 2025 a las 12:27 PM",
     "hora_utc": "2025-11-29 17:27",
@@ -102,45 +142,5 @@
     "mensaje": "🔴Estimados clientes se les informa que se incorporan a la afectación la línea 5380 Mella , 5395 San Luis y los  circuito 2  y 4 de Palma .",
     "timestamp": 1764375888,
     "timestamp_local": 1764375888
-  },
-  {
-    "id": 46741,
-    "fecha": "28 de Nov del 2025 a las 07:21 PM",
-    "hora_utc": "2025-11-29 00:21",
-    "mensaje": "🔴Estimados clientes se les informa que se incorporan a la afectación  los circuitos 10 y  25 .",
-    "timestamp": 1764375676,
-    "timestamp_local": 1764375676
-  },
-  {
-    "id": 46740,
-    "fecha": "28 de Nov del 2025 a las 07:14 PM",
-    "hora_utc": "2025-11-29 00:14",
-    "mensaje": "Disparo:  \nApertura no voluntaria de un interruptor como vía de protección para desconectar uno o varios elementos del circuito, subestación o sistema, restableciéndose el servicio rápidamente en dependencia de la causa.\nDisparo Automático de Frecuencia (DAF):\nOcurre cuando la frecuencia está por debajo de los 60Hz y determinada carga o circuito se desconecta del sistema automáticamente hasta que se estabilice.",
-    "timestamp": 1764375268,
-    "timestamp_local": 1764375268
-  },
-  {
-    "id": 46739,
-    "fecha": "28 de Nov del 2025 a las 07:12 PM",
-    "hora_utc": "2025-11-29 00:12",
-    "mensaje": "🔴Estimados clientes se les informa que en estos momentos se encuentra afectada por Disparo por DAF , la línea 5385 de Palma",
-    "timestamp": 1764375165,
-    "timestamp_local": 1764375165
-  },
-  {
-    "id": 46738,
-    "fecha": "28 de Nov del 2025 a las 06:29 PM",
-    "hora_utc": "2025-11-28 23:29",
-    "mensaje": "🔴Estimados clientes se les informa que se incorpora a la afectación los circuitos 1 de Palma , el 9 seccionalizado y el 19 .",
-    "timestamp": 1764372570,
-    "timestamp_local": 1764372570
-  },
-  {
-    "id": 46737,
-    "fecha": "28 de Nov del 2025 a las 06:27 PM",
-    "hora_utc": "2025-11-28 23:27",
-    "mensaje": "🔴Estimados clientes se les informa que se incorporan a la afectación la línea 5390 La Maya - ll  frente  y la línea 5330 del Cristo .",
-    "timestamp": 1764372453,
-    "timestamp_local": 1764372453
   }
 ]
