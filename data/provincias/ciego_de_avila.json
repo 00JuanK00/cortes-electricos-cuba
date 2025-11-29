@@ -1,5 +1,29 @@
 [
   {
+    "id": 33996,
+    "fecha": "29 de Nov del 2025 a las 03:24 PM",
+    "hora_utc": "2025-11-29 20:24",
+    "mensaje": "👉Restablecido el servicio eléctrico en el circuito disparado x DAF.",
+    "timestamp": 1764447893,
+    "timestamp_local": 1764447893
+  },
+  {
+    "id": 33995,
+    "fecha": "29 de Nov del 2025 a las 03:05 PM",
+    "hora_utc": "2025-11-29 20:05",
+    "mensaje": "❌Un Disparo Automático por Frecuencia (DAF) es una protección que posee el sistema eléctrico para cuando la frecuencia llega a valores mínimos permisibles que ponen en peligro la estabilidad de todo el sistema en su conjunto y provoca una desconexión automática de algunos circuitos hasta que esta vuelva a recuperar su valor nominal a 60 Hz o ciclos por segundo. Esto ocurre al salir de forma imprevista o repentina una planta generadora con una potencia determinada y el sistema en su conjunto necesita liberar esa carga hasta tanto se puedan recuperar la potencia de generación perdida anteriormente o dar las afectaciones al servicio por déficit de generación.",
+    "timestamp": 1764446715,
+    "timestamp_local": 1764446715
+  },
+  {
+    "id": 33994,
+    "fecha": "29 de Nov del 2025 a las 03:05 PM",
+    "hora_utc": "2025-11-29 20:05",
+    "mensaje": "🚨DAF (Disparo automático por frecuencia)🚨\n\n\n📍Se encuentran afectados por el DAF los circuitos: 📍\n👉La Piña, La Ofelia, Sanguily.",
+    "timestamp": 1764446703,
+    "timestamp_local": 1764446703
+  },
+  {
     "id": 33993,
     "fecha": "29 de Nov del 2025 a las 02:51 PM",
     "hora_utc": "2025-11-29 19:51",
@@ -118,21 +142,5 @@
     "mensaje": "‼️ Déficit de Generación ‼️   \n👉 Nos mantenemos en 35 MW en la provincia por déficit de generación.\n💢Se incorporan a la rotación los siguientes circuitos.\n👉Cítrico I, III, IV, Ceballo Pueblo, Chamba, Los Perros, El Asiento, Punta Alegre, Violeta, Pabo, Tres Marías, Velazco, Miraflores y Montoto.\n ⏰ Reiteramos que los circuitos se afectarán o se restablecerán en dependencia del déficit solicitado en cada momento de la jornada que es muy variable.",
     "timestamp": 1764412289,
     "timestamp_local": 1764412289
-  },
-  {
-    "id": 33976,
-    "fecha": "29 de Nov del 2025 a las 04:30 AM",
-    "hora_utc": "2025-11-29 09:30",
-    "mensaje": "‼️ Déficit de Generación ‼️   \n👉 Continuamos con 35 MW en la provincia por déficit de generación.\n💥Se afectan los siguientes circuitos:\n👉 1, 2, A208, A102, Baraguá , Colorado, Vicente, Combinado Minaz, Delfin Moreno, Santana, Morón Norte ,Micro Norte, Cítrico II y Isaca .\n ⏰ Reiteramos que los circuitos se afectarán o se restablecerán en dependencia del déficit solicitado en cada momento de la jornada que es muy variable.",
-    "timestamp": 1764408653,
-    "timestamp_local": 1764408653
-  },
-  {
-    "id": 33974,
-    "fecha": "29 de Nov del 2025 a las 03:33 AM",
-    "hora_utc": "2025-11-29 08:33",
-    "mensaje": "‼️ Déficit de Generación ‼️   \n👉 Nos mantenemos en 35 MW en la provincia por déficit de generación.\n💥Se afectan los siguientes circuitos:\n👉 1, 2, A208, A102, Baraguá , Colorado, Vicente, Combinado Minaz, Delfin Moreno, Santana, Morón Norte ,Micro Norte, Cítrico II y Isaca .\n ⏰ Reiteramos que los circuitos se afectarán o se restablecerán en dependencia del déficit solicitado en cada momento de la jornada que es muy variable.",
-    "timestamp": 1764405188,
-    "timestamp_local": 1764405188
   }
 ]
