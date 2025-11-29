@@ -1,5 +1,13 @@
 [
   {
+    "id": 46750,
+    "fecha": "29 de Nov del 2025 a las 05:09 AM",
+    "hora_utc": "2025-11-29 10:09",
+    "mensaje": "Déficit de Capacidad de Generación:  \nSe produce cuando la demanda del Sistema Eléctrico Nacional, en determinado horario del día, supera la generación disponible del país, provocando la desconexión de los circuitos o líneas que permitan garantizar la frecuencia del SEN.",
+    "timestamp": 1764410975,
+    "timestamp_local": 1764410975
+  },
+  {
     "id": 46748,
     "fecha": "29 de Nov del 2025 a las 02:45 AM",
     "hora_utc": "2025-11-29 07:45",
@@ -126,21 +134,5 @@
     "mensaje": "🚨Disparo:  \nApertura no voluntaria de un interruptor como vía de protección para desconectar uno o varios elementos del circuito, subestación o sistema, restableciéndose el servicio rápidamente en dependencia de la causa.",
     "timestamp": 1764351205,
     "timestamp_local": 1764351205
-  },
-  {
-    "id": 46730,
-    "fecha": "28 de Nov del 2025 a las 12:33 PM",
-    "hora_utc": "2025-11-28 17:33",
-    "mensaje": "🔊Estimados clientes se le informa que en estos momentos esta Disparado La Línea 5380 Mella - San Luis",
-    "timestamp": 1764351180,
-    "timestamp_local": 1764351180
-  },
-  {
-    "id": 46729,
-    "fecha": "28 de Nov del 2025 a las 11:21 AM",
-    "hora_utc": "2025-11-28 16:21",
-    "mensaje": "🚨Vía Libre:\nTrabajos planificados o por emergencias que se realizan con el fin de construir y mantener líneas aéreas y soterradas; así como contribuir a la constante mejora en la entrega de la energía eléctrica.",
-    "timestamp": 1764346907,
-    "timestamp_local": 1764346907
   }
 ]
