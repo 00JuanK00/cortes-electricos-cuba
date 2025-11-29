@@ -1,5 +1,45 @@
 [
   {
+    "id": 46743,
+    "fecha": "28 de Nov del 2025 a las 07:29 PM",
+    "hora_utc": "2025-11-29 00:29",
+    "mensaje": "🔴Estimados clientes se les informa que se incorpora a la afectación el circuito 8 .",
+    "timestamp": 1764376158,
+    "timestamp_local": 1764376158
+  },
+  {
+    "id": 46742,
+    "fecha": "28 de Nov del 2025 a las 07:24 PM",
+    "hora_utc": "2025-11-29 00:24",
+    "mensaje": "🔴Estimados clientes se les informa que se incorporan a la afectación la línea 5380 Mella , 5395 San Luis y los  circuito 2  y 4 de Palma .",
+    "timestamp": 1764375888,
+    "timestamp_local": 1764375888
+  },
+  {
+    "id": 46741,
+    "fecha": "28 de Nov del 2025 a las 07:21 PM",
+    "hora_utc": "2025-11-29 00:21",
+    "mensaje": "🔴Estimados clientes se les informa que se incorporan a la afectación  los circuitos 10 y  25 .",
+    "timestamp": 1764375676,
+    "timestamp_local": 1764375676
+  },
+  {
+    "id": 46740,
+    "fecha": "28 de Nov del 2025 a las 07:14 PM",
+    "hora_utc": "2025-11-29 00:14",
+    "mensaje": "Disparo:  \nApertura no voluntaria de un interruptor como vía de protección para desconectar uno o varios elementos del circuito, subestación o sistema, restableciéndose el servicio rápidamente en dependencia de la causa.\nDisparo Automático de Frecuencia (DAF):\nOcurre cuando la frecuencia está por debajo de los 60Hz y determinada carga o circuito se desconecta del sistema automáticamente hasta que se estabilice.",
+    "timestamp": 1764375268,
+    "timestamp_local": 1764375268
+  },
+  {
+    "id": 46739,
+    "fecha": "28 de Nov del 2025 a las 07:12 PM",
+    "hora_utc": "2025-11-29 00:12",
+    "mensaje": "🔴Estimados clientes se les informa que en estos momentos se encuentra afectada por Disparo por DAF , la línea 5385 de Palma",
+    "timestamp": 1764375165,
+    "timestamp_local": 1764375165
+  },
+  {
     "id": 46738,
     "fecha": "28 de Nov del 2025 a las 06:29 PM",
     "hora_utc": "2025-11-28 23:29",
@@ -110,29 +150,5 @@
     "mensaje": "🚨Manipulaciones:\nAcciones que se realizan en los circuitos para dar paso al trabajo en zonas afectadas por averías o Vía Libre y posteriormente para restablecer el servicio eléctrico en los circuitos que se encontraban afectados y en los que se trabaja con anterioridad, luego de culminadas las labores pertinentes.",
     "timestamp": 1764341853,
     "timestamp_local": 1764341853
-  },
-  {
-    "id": 46723,
-    "fecha": "28 de Nov del 2025 a las 09:55 AM",
-    "hora_utc": "2025-11-28 14:55",
-    "mensaje": "🔊Estimados clientes en estos momentos están Manipulando el circuito 26",
-    "timestamp": 1764341723,
-    "timestamp_local": 1764341723
-  },
-  {
-    "id": 46722,
-    "fecha": "28 de Nov del 2025 a las 09:38 AM",
-    "hora_utc": "2025-11-28 14:38",
-    "mensaje": "🚨Disparo Automático de Frecuencia (DAF):\nOcurre cuando la frecuencia está por debajo de los 60Hz y determinada carga o circuito se desconecta del sistema automáticamente hasta que se estabilice.",
-    "timestamp": 1764340715,
-    "timestamp_local": 1764340715
-  },
-  {
-    "id": 46721,
-    "fecha": "28 de Nov del 2025 a las 09:38 AM",
-    "hora_utc": "2025-11-28 14:38",
-    "mensaje": "🔊Estimados clientes en estos momentos se encuentran disparados por DAF los circuitos 11 de Santiago y el 1 y 2 de Palma",
-    "timestamp": 1764340681,
-    "timestamp_local": 1764340681
   }
 ]
