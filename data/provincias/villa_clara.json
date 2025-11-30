@@ -1,5 +1,21 @@
 [
   {
+    "id": 34771,
+    "fecha": "30 de Nov del 2025 a las 08:57 AM",
+    "hora_utc": "2025-11-30 13:57",
+    "mensaje": "Afectados 76 MW en la provincia, demanda máxima a apagar en estos momentos.",
+    "timestamp": 1764511041,
+    "timestamp_local": 1764511041
+  },
+  {
+    "id": 34768,
+    "fecha": "30 de Nov del 2025 a las 08:46 AM",
+    "hora_utc": "2025-11-30 13:46",
+    "mensaje": "⚠️Afectados por déficit de generación los siguientes circuitos:\n👉Municipio Encrucijada\nCto 120 Calabazar\nCtos 121 y 127 Perucho",
+    "timestamp": 1764510394,
+    "timestamp_local": 1764510394
+  },
+  {
     "id": 34767,
     "fecha": "30 de Nov del 2025 a las 08:38 AM",
     "hora_utc": "2025-11-30 13:38",
@@ -134,29 +150,5 @@
     "mensaje": "🔸Actualización del servicio eléctrico en la provincia🔸\n✍️Se mantienen afectados en la provincia 108circuitos.\n✍️En el momento de hacer esta nota la provincia tiene 57 MW por déficit de capacidad de generación.\n✍️Cuenta con 144 afectaciones  por averías secundarias y de servicio.",
     "timestamp": 1764496742,
     "timestamp_local": 1764496742
-  },
-  {
-    "id": 34750,
-    "fecha": "30 de Nov del 2025 a las 01:29 AM",
-    "hora_utc": "2025-11-30 06:29",
-    "mensaje": "💡Se restablece el servicio eléctrico en los circuitos siguientes:\n🔹Municipio Quemado:\n👉Ctos 164, 52 y 53 Quemado.",
-    "timestamp": 1764484140,
-    "timestamp_local": 1764484140
-  },
-  {
-    "id": 34749,
-    "fecha": "30 de Nov del 2025 a las 01:26 AM",
-    "hora_utc": "2025-11-30 06:26",
-    "mensaje": "💡Se restablece el servicio eléctrico en los circuitos siguientes:🔹Municipio Ranchuelo: \n👉Ctos 89, 97, 188 y 189\n👉Ctos 148 y 149 San Juan\n👉Cto 91 Batey Osvaldo Herrera\n👉Cto 181 Batey Ifraín Alfonso\n🔹Municipio Placetas:\n👉Cto 101 y 145 Cumbre",
-    "timestamp": 1764483992,
-    "timestamp_local": 1764483992
-  },
-  {
-    "id": 34748,
-    "fecha": "30 de Nov del 2025 a las 01:01 AM",
-    "hora_utc": "2025-11-30 06:01",
-    "mensaje": "Afectados 70 MW en la provincia, demanda máxima a apagar en estos momentos.",
-    "timestamp": 1764482488,
-    "timestamp_local": 1764482488
   }
 ]
