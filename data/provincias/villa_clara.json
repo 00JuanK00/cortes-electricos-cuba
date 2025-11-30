@@ -1,5 +1,29 @@
 [
   {
+    "id": 34794,
+    "fecha": "30 de Nov del 2025 a las 02:42 PM",
+    "hora_utc": "2025-11-30 19:42",
+    "mensaje": "⚠️Afectado el servicio eléctrico en los circuitos 166 Condado y 6 Vigía.",
+    "timestamp": 1764531721,
+    "timestamp_local": 1764531721
+  },
+  {
+    "id": 34793,
+    "fecha": "30 de Nov del 2025 a las 02:33 PM",
+    "hora_utc": "2025-11-30 19:33",
+    "mensaje": "💡Se restablece el servicio eléctrico en los siguientes circuitos:\n👉Municipio Encrucijada:\nCto 122 Encrucijada \nCto 123 Vizcaya \nCto 142 Comunidad La Sierra \nCto 126 Batey Emilio Córdova\nCto 125 Cavarrocas\n⚡Cto 124 El Santo (continúa en avería)",
+    "timestamp": 1764531192,
+    "timestamp_local": 1764531192
+  },
+  {
+    "id": 34792,
+    "fecha": "30 de Nov del 2025 a las 02:25 PM",
+    "hora_utc": "2025-11-30 19:25",
+    "mensaje": "⚠️Afectados por déficit de generación los siguientes circuitos:\n👉Municipio Cifuentes:\nCtos 114 y 117\nCtos 116 y 155 Mata\nCto 186 Batey Unidad Proletaria\nCto 184 Sitio Grande\n👉Municipio Ranchuelo:\nCto 92 Esperanza (Pueblo)\nCto 93 Esperanza (Campo)\nCto 54 94 y 95 Jicotea  \n👉Municipio Santa Clara\nCtos 26 y 141 (Manuelita)\nCto 191 (Quemado de Hilario)\nCto 43, 50, 51 Sagua\nCto 44 Isabela\nCto 147 Villa Alegre\n👉Municipio Santa Clara:\nCto 1 (Consejo- Centro)",
+    "timestamp": 1764530752,
+    "timestamp_local": 1764530752
+  },
+  {
     "id": 34791,
     "fecha": "30 de Nov del 2025 a las 01:56 PM",
     "hora_utc": "2025-11-30 18:56",
@@ -134,29 +158,5 @@
     "mensaje": "⚠️Afectados por déficit de generación los circuitos siguientes:\n👉Municipio Quemado:\nCtos 164, 52 y 53 Quemado.",
     "timestamp": 1764513699,
     "timestamp_local": 1764513699
-  },
-  {
-    "id": 34774,
-    "fecha": "30 de Nov del 2025 a las 09:27 AM",
-    "hora_utc": "2025-11-30 14:27",
-    "mensaje": "⚠️Afectados por déficit de generación los siguientes circuitos:\n👉Municipio Santa Clara:\nCto 167 (Virginia)\nCto 170 (José Martí)",
-    "timestamp": 1764512877,
-    "timestamp_local": 1764512877
-  },
-  {
-    "id": 34773,
-    "fecha": "30 de Nov del 2025 a las 09:24 AM",
-    "hora_utc": "2025-11-30 14:24",
-    "mensaje": "⚡¿Qué es un disparo de circuito y porque ocurre?\nLos disparos de circuito tienen diferentes aristas todas con distintos significados, es decir que ocurren por varias causas. Entre ellas encontramos:\n\n👉-Disparo de Circuito con Recierre: El conocido por los clientes como “quita y pon de corriente” es un tipo de protección utilizada mundialmente a partir del 80% aproximadamente de las interrupciones eléctricas son transitorias. Este fenómeno lo hace una sola vez ante un evento de red y no es dañino para para nuestros equipos electrodomésticos. \n\n👉- Disparo Automático por Frecuencia (DAF):  El disparo por DAF ocurre cuando la frecuencia llega a valores mínimos permisibles que ponen en peligro la estabilidad del mismo y como protección desconecta varios circuitos de la Capital. Los mismo restablecen a medida que se vaya recuperando la frecuencia que tiene un valor de 60hz o ciclos por segundo.\n\n👉-Disparo de Circuito por Sobrecarga: Este ocurre mayormente en los horarios pico y en verano, ya que las altas temperaturas generan elevados consumos en la población y como consecuencia de ello fallas en los circuitos.\n\n👉-Disparo de Circuito por Posible Avería: Este fenómeno ocurre cuando existe una falla en algún circuito, ya sea soterrado, aéreo o en una subestación. Estas, a pesar de que son mucho más frecuentes cuando existe algún evento climatológico, pueden ocurrir en cualquier momento del día o la noche, ya que son situaciones que no cuentan con programación.",
-    "timestamp": 1764512680,
-    "timestamp_local": 1764512680
-  },
-  {
-    "id": 34772,
-    "fecha": "30 de Nov del 2025 a las 09:23 AM",
-    "hora_utc": "2025-11-30 14:23",
-    "mensaje": "⚡Afectada por disparo la Línea 1955 con los circuitos correspondientes:\n👉Municipio Encrucijada:\nCto 122 Encrucijada \nCto 123 Vizcaya \nCto 142 Comunidad La Sierra \nCto 126 Batey Emilio Córdova\nCto 125 Cavarrocas\nCto 124 El Santo\n👉Municipio Camajuaní:\nCto 78 Jutiero",
-    "timestamp": 1764512595,
-    "timestamp_local": 1764512595
   }
 ]
