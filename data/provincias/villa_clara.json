@@ -1,5 +1,37 @@
 [
   {
+    "id": 34775,
+    "fecha": "30 de Nov del 2025 a las 09:41 AM",
+    "hora_utc": "2025-11-30 14:41",
+    "mensaje": "⚠️Afectados por déficit de generación los circuitos siguientes:\n👉Municipio Quemado:\nCtos 164, 52 y 53 Quemado.",
+    "timestamp": 1764513699,
+    "timestamp_local": 1764513699
+  },
+  {
+    "id": 34774,
+    "fecha": "30 de Nov del 2025 a las 09:27 AM",
+    "hora_utc": "2025-11-30 14:27",
+    "mensaje": "⚠️Afectados por déficit de generación los siguientes circuitos:\n👉Municipio Santa Clara:\nCto 167 (Virginia)\nCto 170 (José Martí)",
+    "timestamp": 1764512877,
+    "timestamp_local": 1764512877
+  },
+  {
+    "id": 34773,
+    "fecha": "30 de Nov del 2025 a las 09:24 AM",
+    "hora_utc": "2025-11-30 14:24",
+    "mensaje": "⚡¿Qué es un disparo de circuito y porque ocurre?\nLos disparos de circuito tienen diferentes aristas todas con distintos significados, es decir que ocurren por varias causas. Entre ellas encontramos:\n\n👉-Disparo de Circuito con Recierre: El conocido por los clientes como “quita y pon de corriente” es un tipo de protección utilizada mundialmente a partir del 80% aproximadamente de las interrupciones eléctricas son transitorias. Este fenómeno lo hace una sola vez ante un evento de red y no es dañino para para nuestros equipos electrodomésticos. \n\n👉- Disparo Automático por Frecuencia (DAF):  El disparo por DAF ocurre cuando la frecuencia llega a valores mínimos permisibles que ponen en peligro la estabilidad del mismo y como protección desconecta varios circuitos de la Capital. Los mismo restablecen a medida que se vaya recuperando la frecuencia que tiene un valor de 60hz o ciclos por segundo.\n\n👉-Disparo de Circuito por Sobrecarga: Este ocurre mayormente en los horarios pico y en verano, ya que las altas temperaturas generan elevados consumos en la población y como consecuencia de ello fallas en los circuitos.\n\n👉-Disparo de Circuito por Posible Avería: Este fenómeno ocurre cuando existe una falla en algún circuito, ya sea soterrado, aéreo o en una subestación. Estas, a pesar de que son mucho más frecuentes cuando existe algún evento climatológico, pueden ocurrir en cualquier momento del día o la noche, ya que son situaciones que no cuentan con programación.",
+    "timestamp": 1764512680,
+    "timestamp_local": 1764512680
+  },
+  {
+    "id": 34772,
+    "fecha": "30 de Nov del 2025 a las 09:23 AM",
+    "hora_utc": "2025-11-30 14:23",
+    "mensaje": "⚡Afectada por disparo la Línea 1955 con los circuitos correspondientes:\n👉Municipio Encrucijada:\nCto 122 Encrucijada \nCto 123 Vizcaya \nCto 142 Comunidad La Sierra \nCto 126 Batey Emilio Córdova\nCto 125 Cavarrocas\nCto 124 El Santo\n👉Municipio Camajuaní:\nCto 78 Jutiero",
+    "timestamp": 1764512595,
+    "timestamp_local": 1764512595
+  },
+  {
     "id": 34771,
     "fecha": "30 de Nov del 2025 a las 08:57 AM",
     "hora_utc": "2025-11-30 13:57",
@@ -118,37 +150,5 @@
     "mensaje": "⚠️Afectados por déficit de capacidad de generación los siguientes circuitos.\n🔹Municipio Sagua\n👉Cto 43, 50, 51 Sagua\n👉Cto 44 Isabela\n👉Cto 147 Villa Alegre\n🔹Municipio Placetas:\n👉Cto 101 y 145 Cumbre\n🔹Municipio Caibarién:\n👉Ctos 61, 62 , 63 y 64\n👉Ctos 182 y 183 Van Troi",
     "timestamp": 1764501985,
     "timestamp_local": 1764501985
-  },
-  {
-    "id": 34754,
-    "fecha": "30 de Nov del 2025 a las 06:23 AM",
-    "hora_utc": "2025-11-30 11:23",
-    "mensaje": "Afectados 84 MW en la provincia, demanda máxima a apagar en estos momentos.",
-    "timestamp": 1764501804,
-    "timestamp_local": 1764501804
-  },
-  {
-    "id": 34753,
-    "fecha": "30 de Nov del 2025 a las 05:13 AM",
-    "hora_utc": "2025-11-30 10:13",
-    "mensaje": "⚠️Afectados por déficit de capacidad de generación los siguientes circuitos.\n🔹Municipio Camajuaní:\n👉Cto 75 La Quinta\n👉Cto 157 Luis Arcos Bergnes\n👉Ctos 76 y 90 Vega Alta\n🔹Municipio Camajuaní\n👉Ctos 77, 59, 185 Vueltas",
-    "timestamp": 1764497585,
-    "timestamp_local": 1764497585
-  },
-  {
-    "id": 34752,
-    "fecha": "30 de Nov del 2025 a las 05:10 AM",
-    "hora_utc": "2025-11-30 10:10",
-    "mensaje": "⚠️Afectados por déficit de capacidad de generación los siguientes circuitos.\n🔹Municipio Cifuentes:\n👉Ctos 114 y 117\n👉Ctos 116 y 155 Mata\n👉Cto 186 Batey Unidad Proletaria\n👉Cto 184 Sitio Grande",
-    "timestamp": 1764497435,
-    "timestamp_local": 1764497435
-  },
-  {
-    "id": 34751,
-    "fecha": "30 de Nov del 2025 a las 04:59 AM",
-    "hora_utc": "2025-11-30 09:59",
-    "mensaje": "🔸Actualización del servicio eléctrico en la provincia🔸\n✍️Se mantienen afectados en la provincia 108circuitos.\n✍️En el momento de hacer esta nota la provincia tiene 57 MW por déficit de capacidad de generación.\n✍️Cuenta con 144 afectaciones  por averías secundarias y de servicio.",
-    "timestamp": 1764496742,
-    "timestamp_local": 1764496742
   }
 ]
