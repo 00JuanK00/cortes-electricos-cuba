@@ -1,5 +1,29 @@
 [
   {
+    "id": 34015,
+    "fecha": "30 de Nov del 2025 a las 06:27 PM",
+    "hora_utc": "2025-11-30 23:27",
+    "mensaje": "‼️ Información ‼️   \n👉Debido a la situación energética que tiene el país, nos es imposible cumplir con una programación de afectaciones. Subimos a 92 MW en la provincia afectados por déficit de generación. Reiteramos que los circuitos se afectarán o se restablecerán en dependencia del déficit en cada momento del día.",
+    "timestamp": 1764545260,
+    "timestamp_local": 1764545260
+  },
+  {
+    "id": 34014,
+    "fecha": "30 de Nov del 2025 a las 06:24 PM",
+    "hora_utc": "2025-11-30 23:24",
+    "mensaje": "👉Se encuentra sin servicio eléctrico del circuito A106 en Calle Martí/ Vicente Iriondo y Esquina calle A, Reparto Rivas Fragas por barras del transformador dañadas. Se crean las condiciones para trabajar y restablecer lo antes posible el servicio. Ofrecemos disculpas por las molestias ocasionadas.",
+    "timestamp": 1764545045,
+    "timestamp_local": 1764545045
+  },
+  {
+    "id": 34013,
+    "fecha": "30 de Nov del 2025 a las 06:01 PM",
+    "hora_utc": "2025-11-30 23:01",
+    "mensaje": "‼️ Información ‼️   \n👉Debido a la situación energética que tiene el país, nos es imposible cumplir con una programación de afectaciones. Continuamos con 82 MW en la provincia afectados por déficit de generación. Reiteramos que los circuitos se afectarán o se restablecerán en dependencia del déficit en cada momento del día.",
+    "timestamp": 1764543698,
+    "timestamp_local": 1764543698
+  },
+  {
     "id": 34012,
     "fecha": "30 de Nov del 2025 a las 02:01 PM",
     "hora_utc": "2025-11-30 19:01",
@@ -126,29 +150,5 @@
     "mensaje": "👉Restablecido el servicio eléctrico en el circuito disparado x DAF.",
     "timestamp": 1764447893,
     "timestamp_local": 1764447893
-  },
-  {
-    "id": 33995,
-    "fecha": "29 de Nov del 2025 a las 03:05 PM",
-    "hora_utc": "2025-11-29 20:05",
-    "mensaje": "❌Un Disparo Automático por Frecuencia (DAF) es una protección que posee el sistema eléctrico para cuando la frecuencia llega a valores mínimos permisibles que ponen en peligro la estabilidad de todo el sistema en su conjunto y provoca una desconexión automática de algunos circuitos hasta que esta vuelva a recuperar su valor nominal a 60 Hz o ciclos por segundo. Esto ocurre al salir de forma imprevista o repentina una planta generadora con una potencia determinada y el sistema en su conjunto necesita liberar esa carga hasta tanto se puedan recuperar la potencia de generación perdida anteriormente o dar las afectaciones al servicio por déficit de generación.",
-    "timestamp": 1764446715,
-    "timestamp_local": 1764446715
-  },
-  {
-    "id": 33994,
-    "fecha": "29 de Nov del 2025 a las 03:05 PM",
-    "hora_utc": "2025-11-29 20:05",
-    "mensaje": "🚨DAF (Disparo automático por frecuencia)🚨\n\n\n📍Se encuentran afectados por el DAF los circuitos: 📍\n👉La Piña, La Ofelia, Sanguily.",
-    "timestamp": 1764446703,
-    "timestamp_local": 1764446703
-  },
-  {
-    "id": 33993,
-    "fecha": "29 de Nov del 2025 a las 02:51 PM",
-    "hora_utc": "2025-11-29 19:51",
-    "mensaje": "‼️ Déficit de Generación ‼️   \n👉Continuamos con 40 MW en la provincia afectados por déficit de generación.\n👉 Se afectan los siguientes circuitos.\n💥1, 3, A104, A110, Expreso, Cítrico I, Cítrico III, Ceballos Pueblo, Jicotea, Majagua, Orlando González, Guayacanes, Patria, Turiguanó, Nereida, Peonía, Politécnico de Informática.\n\n⏰ Reiteramos que los circuitos se afectarán o se restablecerán en dependencia del déficit en cada momento de la jornada, que es muy variable.",
-    "timestamp": 1764445877,
-    "timestamp_local": 1764445877
   }
 ]
