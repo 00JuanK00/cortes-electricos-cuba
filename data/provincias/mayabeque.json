@@ -1,5 +1,37 @@
 [
   {
+    "id": 98963,
+    "fecha": "01 de Dec del 2025 a las 10:50 AM",
+    "hora_utc": "2025-12-01 15:50",
+    "mensaje": "♦️Se afectará el servicio en el circuito 3930 por manipulación♦️",
+    "timestamp": 1764604257,
+    "timestamp_local": 1764604257
+  },
+  {
+    "id": 98959,
+    "fecha": "01 de Dec del 2025 a las 10:31 AM",
+    "hora_utc": "2025-12-01 15:31",
+    "mensaje": "♦️ Afectado el servicio en el circuito 3140 por disparo por DAF ♦️",
+    "timestamp": 1764603073,
+    "timestamp_local": 1764603073
+  },
+  {
+    "id": 98958,
+    "fecha": "01 de Dec del 2025 a las 10:30 AM",
+    "hora_utc": "2025-12-01 15:30",
+    "mensaje": "🚨Por déficit de capacidad de generación se afecta el servicio en el siguiente circuito:\n*Picadura🚨",
+    "timestamp": 1764603009,
+    "timestamp_local": 1764603009
+  },
+  {
+    "id": 98957,
+    "fecha": "01 de Dec del 2025 a las 10:05 AM",
+    "hora_utc": "2025-12-01 15:05",
+    "mensaje": "📣♦️Afectado nuevamente por déficit de capacidad de generación el servicio en el circuito Magela que se encontraba restablecido por manipulación♦️📣",
+    "timestamp": 1764601537,
+    "timestamp_local": 1764601537
+  },
+  {
     "id": 98956,
     "fecha": "01 de Dec del 2025 a las 09:55 AM",
     "hora_utc": "2025-12-01 14:55",
@@ -78,61 +110,5 @@
     "mensaje": "**Nota Informativa: Estado del Sistema Eléctrico Nacional (SEN) – 1 de diciembre de 2025**\nEn el día de ayer se afectó el servicio durante las 24 horas. La máxima afectación por déficit de capacidad de generación en el día de ayer fue de 1849 MW a las 19:00 horas.\nLa producción de energía de los 33 nuevos parques solares fotovoltaicos fue de 2370 MWh, con 471 MW como máxima potencia entregada en el horario de la media con esta fuente de generación.\n**Estado actual del SEN**\nLa disponibilidad del SEN a las 06:00 horas es de 1300 MW y la demanda 2450 MW con 1145 MW afectados por déficit de capacidad. En el horario de la media se estima una afectación de 1200 MW.\n**Principales incidencias**\nAvería: Unidad 2 de la CTE Felton y Unidad 3 de la CTE Renté.\nMantenimiento: Unidad 5 de la CTE Mariel, Unidad 2 de la CTE Santa Cruz, Unidad 4 de la CTE Carlos Manuel de Céspedes en Cienfuegos, la Planta de tratamiento de gas de Energás Puerto Escondido y Unidad 6 de la CTE Nuevitas.\nLimitaciones en la generación térmica: 547 fuera de servicio.\nProblemas por falta de combustible\n96 centrales de generación distribuida con 906 MW.\n68 MW indisponibles por falta de lubricante.\nTotal de MW afectados por esta causa: 974 MW.\n**Pronóstico para el horario pico**\nPara el horario pico se espera el completamiento de 25 MW de la unidad 1 de la CTE Felton.\nCon este pronóstico se prevé en el horario pico una disponibilidad de 1325 MW y una demanda máxima de 3250 MW, para un déficit de 1925 MW, por lo que de mantenerse las condiciones previstas se pronostica una afectación de 1995 MW en este horario.",
     "timestamp": 1764595640,
     "timestamp_local": 1764595640
-  },
-  {
-    "id": 98941,
-    "fecha": "01 de Dec del 2025 a las 08:09 AM",
-    "hora_utc": "2025-12-01 13:09",
-    "mensaje": "🚨Por déficit de capacidad de generación se afecta el servicio en los siguientes circuitos:\n*Melena 1 y 2🚨",
-    "timestamp": 1764594593,
-    "timestamp_local": 1764594593
-  },
-  {
-    "id": 98940,
-    "fecha": "01 de Dec del 2025 a las 08:02 AM",
-    "hora_utc": "2025-12-01 13:02",
-    "mensaje": "🔷♦️Se restablece el servicio en el siguiente circuito que se encontraba afectado por déficit de capacidad de generación: \n*Vegas🔷♦️",
-    "timestamp": 1764594143,
-    "timestamp_local": 1764594143
-  },
-  {
-    "id": 98939,
-    "fecha": "01 de Dec del 2025 a las 07:53 AM",
-    "hora_utc": "2025-12-01 12:53",
-    "mensaje": "🔷♦️Se restablece el servicio en los circuitos que se encontraban afectados por déficit de capacidad de generación:\n *Catalina 1 y 2♦️🔷",
-    "timestamp": 1764593620,
-    "timestamp_local": 1764593620
-  },
-  {
-    "id": 98938,
-    "fecha": "01 de Dec del 2025 a las 07:50 AM",
-    "hora_utc": "2025-12-01 12:50",
-    "mensaje": "🚨Por déficit de capacidad de generación se afecta el servicio en el siguiente circuito:\n*2420🚨",
-    "timestamp": 1764593427,
-    "timestamp_local": 1764593427
-  },
-  {
-    "id": 98937,
-    "fecha": "01 de Dec del 2025 a las 07:49 AM",
-    "hora_utc": "2025-12-01 12:49",
-    "mensaje": "🔷♦️Se restablece el servicio en los circuitos que se encontraban afectados por déficit de capacidad de generación:\n *Los Palos\n*Sureste♦️🔷",
-    "timestamp": 1764593363,
-    "timestamp_local": 1764593363
-  },
-  {
-    "id": 98936,
-    "fecha": "01 de Dec del 2025 a las 07:42 AM",
-    "hora_utc": "2025-12-01 12:42",
-    "mensaje": "🔷♦️Se restablece el servicio en los circuitos que se encontraban afectados por déficit de capacidad de generación:\n *Salud 1\n*Nueva Paz♦️🔷",
-    "timestamp": 1764592920,
-    "timestamp_local": 1764592920
-  },
-  {
-    "id": 98935,
-    "fecha": "01 de Dec del 2025 a las 07:31 AM",
-    "hora_utc": "2025-12-01 12:31",
-    "mensaje": "🚨Por déficit de capacidad de generación se afecta el servicio en el siguiente circuito:\n*El Camilo🚨",
-    "timestamp": 1764592296,
-    "timestamp_local": 1764592296
   }
 ]

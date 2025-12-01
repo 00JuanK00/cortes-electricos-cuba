@@ -1,5 +1,45 @@
 [
   {
+    "id": 34863,
+    "fecha": "01 de Dec del 2025 a las 10:35 AM",
+    "hora_utc": "2025-12-01 15:35",
+    "mensaje": "⚠️Afectados por déficit de generación los siguientes circuitos:\n🔹Municipio Remedios:\n👉Ctos 67 y 152, 68 y 118 \n👉Ctos 69 y 70 Zuluetas\n👉Cto 143 Batey Heriberto Duquesne\n👉Cto 71 Buena Vista",
+    "timestamp": 1764603317,
+    "timestamp_local": 1764603317
+  },
+  {
+    "id": 34862,
+    "fecha": "01 de Dec del 2025 a las 10:31 AM",
+    "hora_utc": "2025-12-01 15:31",
+    "mensaje": "⚠️Afectados por déficit de generación los siguientes circuitos:\n🔹Municipio Santa Clara\n👉Cto 168 (Condado- XX Aniversario)\n👉Cto 28 Plaza de la Revolucion",
+    "timestamp": 1764603081,
+    "timestamp_local": 1764603081
+  },
+  {
+    "id": 34861,
+    "fecha": "01 de Dec del 2025 a las 10:26 AM",
+    "hora_utc": "2025-12-01 15:26",
+    "mensaje": "⚠️Afectados por déficit de generación los siguientes circuitos:\n🔹Municipio Santa Clara\n👉Cto 22 (Construcciones Textil)\n👉Cto 131 (Las Antillas)\n👉Cto 153 (EIDE)\n👉Ctos 15 y 27 (Maleza)",
+    "timestamp": 1764602800,
+    "timestamp_local": 1764602800
+  },
+  {
+    "id": 34860,
+    "fecha": "01 de Dec del 2025 a las 10:24 AM",
+    "hora_utc": "2025-12-01 15:24",
+    "mensaje": "⚠️ Afectado por déficit de capacidad de generación el  Circuito 144 Camacho perteneciente al municipio de Santa Clara",
+    "timestamp": 1764602654,
+    "timestamp_local": 1764602654
+  },
+  {
+    "id": 34859,
+    "fecha": "01 de Dec del 2025 a las 10:04 AM",
+    "hora_utc": "2025-12-01 15:04",
+    "mensaje": "🔸Actualización del servicio eléctrico en la provincia🔸\n✍️Se mantienen afectados en la provincia 114 circuitos.\n✍️En el momento de hacer esta nota la provincia tiene 84 MW por déficit de capacidad de generación.\n✍️Cuenta con 185 afectaciones  por averías secundarias y de servicio.",
+    "timestamp": 1764601464,
+    "timestamp_local": 1764601464
+  },
+  {
     "id": 34858,
     "fecha": "01 de Dec del 2025 a las 09:52 AM",
     "hora_utc": "2025-12-01 14:52",
@@ -110,45 +150,5 @@
     "mensaje": "Afectados 107 MW en la provincia, demanda máxima a apagar en estos momentos.",
     "timestamp": 1764590703,
     "timestamp_local": 1764590703
-  },
-  {
-    "id": 34842,
-    "fecha": "01 de Dec del 2025 a las 06:54 AM",
-    "hora_utc": "2025-12-01 11:54",
-    "mensaje": "💡Restablecido el servicio eléctrico de forma parcial el circuito 170 José Martí.",
-    "timestamp": 1764590066,
-    "timestamp_local": 1764590066
-  },
-  {
-    "id": 34841,
-    "fecha": "01 de Dec del 2025 a las 06:35 AM",
-    "hora_utc": "2025-12-01 11:35",
-    "mensaje": "‼️Afectado por emergencia el circuito 170 José Martí por presentar cable promario partido y energizado en el suelo.",
-    "timestamp": 1764588934,
-    "timestamp_local": 1764588934
-  },
-  {
-    "id": 34840,
-    "fecha": "01 de Dec del 2025 a las 06:33 AM",
-    "hora_utc": "2025-12-01 11:33",
-    "mensaje": "⚡Afectadas por DAF la Líneas 1910 y 1920 del municipio Placetas.\n🔹Línea 1920\n👉Municipio Placetas:\nCto 101 y 145 Cumbre\nCto 107 Baez\nCto 105 Nazareno\n🔹Línea 1910\n👉Municipio Placetas \nCtos 100 y 151 Placetas\nCto 104 Hermanos Amejeiras\nCto 103 Batey Carbó Servia",
-    "timestamp": 1764588798,
-    "timestamp_local": 1764588798
-  },
-  {
-    "id": 34839,
-    "fecha": "01 de Dec del 2025 a las 06:30 AM",
-    "hora_utc": "2025-12-01 11:30",
-    "mensaje": "💡Con servicio eléctrico el circuito 170 José Martí.",
-    "timestamp": 1764588655,
-    "timestamp_local": 1764588655
-  },
-  {
-    "id": 34838,
-    "fecha": "01 de Dec del 2025 a las 05:56 AM",
-    "hora_utc": "2025-12-01 10:56",
-    "mensaje": "🕕Actualización del servicio eléctrico en las últimas 6 horas.\n\n👉El déficit de capacidad de generación osciló entre los 110 MW y los 91 MW.\n👉En el momento de esta nota, se mantienen afectados 150 circuitos.\n👉Cuenta con 168 afectaciones por averías secundarias y de servicio:\n Caibarién (1)\n Corralillo (3)\n Manicaragua (24)\n Placetas (1)\n Quemado (1)\n Ranchuelo (3)\n Remedios (20) \n Sagua (8) \n Santa Clara (82)\n Santo Domingo (6)\n🛠️Se encuentran 1 averías en vías de solución.\n🛠️Pendientes a solucionar por el área técnica 18.\n\n⚡Averías⚡\n👉Cto 91 Osvaldo Herrera, municipio Ranchuelo, de forma parcial, afecta el ramal El Brillante, por cables primarios partidos.",
-    "timestamp": 1764586564,
-    "timestamp_local": 1764586564
   }
 ]
