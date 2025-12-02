@@ -1,5 +1,21 @@
 [
   {
+    "id": 34912,
+    "fecha": "02 de Dec del 2025 a las 09:03 AM",
+    "hora_utc": "2025-12-02 14:03",
+    "mensaje": "Afectados 83 MW en la provincia, demanda máxima a apagar en estos momentos.",
+    "timestamp": 1764684236,
+    "timestamp_local": 1764684236
+  },
+  {
+    "id": 34911,
+    "fecha": "02 de Dec del 2025 a las 09:02 AM",
+    "hora_utc": "2025-12-02 14:02",
+    "mensaje": "⚠️Afectados por déficit de capacidad de generación los siguientes circuitos:  \n🔹Municipio Santa Clara:\n👉Cto 144 Camacho\n👉Cto 168 (Condado- XX Aniversario)",
+    "timestamp": 1764684143,
+    "timestamp_local": 1764684143
+  },
+  {
     "id": 34910,
     "fecha": "02 de Dec del 2025 a las 08:33 AM",
     "hora_utc": "2025-12-02 13:33",
@@ -102,21 +118,5 @@
     "mensaje": "⚠️Afectados por déficit de capacidad de generación los siguientes circuitos: \n🔹Municipio Sagua \n👉Cto 48 Finalet\n👉Ctos 46 y 128 Sitiecito",
     "timestamp": 1764631163,
     "timestamp_local": 1764631163
-  },
-  {
-    "id": 34892,
-    "fecha": "01 de Dec del 2025 a las 06:10 PM",
-    "hora_utc": "2025-12-01 23:10",
-    "mensaje": "Concluidas las acciones por parte de la brigada eléctrica y restablecido en su totalidad el circuito 170 (José Martí), del municipio Santa Clara.",
-    "timestamp": 1764630630,
-    "timestamp_local": 1764630630
-  },
-  {
-    "id": 34891,
-    "fecha": "01 de Dec del 2025 a las 06:08 PM",
-    "hora_utc": "2025-12-01 23:08",
-    "mensaje": "⚠️Afectados por déficit de capacidad de generación los siguientes circuitos: \n🔹Municipio Corralillo:\n👉Ctos 58 y 159\n👉Cto 57 Motembo\n👉Cto 56 Yabre\n👉Cto 60 La Sierra\n👉Cto 55 Rancho Veloz",
-    "timestamp": 1764630514,
-    "timestamp_local": 1764630514
   }
 ]
