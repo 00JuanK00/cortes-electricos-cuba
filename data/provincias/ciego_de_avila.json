@@ -1,5 +1,21 @@
 [
   {
+    "id": 34050,
+    "fecha": "01 de Dec del 2025 a las 11:31 PM",
+    "hora_utc": "2025-12-02 04:31",
+    "mensaje": "‼️ Información ‼️   \n👉En estos momentos tenemos 80 MW en la provincia afectados por déficit de generación. Con este déficit no podemos cumplir con una programación estable, por lo que los circuitos se afectarán o se restablecerán en dependencia del déficit que haya en cada momento de la jornada.",
+    "timestamp": 1764649886,
+    "timestamp_local": 1764649886
+  },
+  {
+    "id": 34049,
+    "fecha": "01 de Dec del 2025 a las 11:30 PM",
+    "hora_utc": "2025-12-02 04:30",
+    "mensaje": "✅ Información.\n👉 Se encuentra sin servicio el circuito Jicotea, se trabaja para restablecer el servicio en el menor tiempo posible.",
+    "timestamp": 1764649842,
+    "timestamp_local": 1764649842
+  },
+  {
     "id": 34048,
     "fecha": "01 de Dec del 2025 a las 10:49 PM",
     "hora_utc": "2025-12-02 03:49",
@@ -118,21 +134,5 @@
     "mensaje": "‼️ Déficit de Generación ‼️   \n👉 Bajamos a 57 MW en la provincia por déficit de generación.\n💥Tenemos afectados los siguientes circuitos:\n👉A102, A104, A106, A206, La Piña, Venezuela, Baraguá, Colorado, Vicente, La Cuba II, La Cuba, Pesquería, Expreso, Jicotea, Orlando Gonzalez ,Majagua, Guayacanes, Nereida, Peonia, Politécnico de Informática, Morón Norte, Morón Sur, Morón Centro, Violeta, Pablo, Tres Marías, Velazco, Miraflores, Montoto, Patria y San Fernando.\n ⏰ Reiteramos que los circuitos se afectarán o se restablecerán en dependencia del déficit solicitado en cada momento de la jornada que es muy variable.",
     "timestamp": 1764602497,
     "timestamp_local": 1764602497
-  },
-  {
-    "id": 34029,
-    "fecha": "01 de Dec del 2025 a las 08:30 AM",
-    "hora_utc": "2025-12-01 13:30",
-    "mensaje": "✅ Información.\n👉 Se restablece el servicio en el circuito de Bolivia.",
-    "timestamp": 1764595806,
-    "timestamp_local": 1764595806
-  },
-  {
-    "id": 34028,
-    "fecha": "01 de Dec del 2025 a las 08:09 AM",
-    "hora_utc": "2025-12-01 13:09",
-    "mensaje": "✅ Información.\n👉 Se encuentra sin servicio el circuito de Bolivia se trabaja para restablecer el servicio en el menor tiempo posible.",
-    "timestamp": 1764594568,
-    "timestamp_local": 1764594568
   }
 ]
