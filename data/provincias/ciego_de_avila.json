@@ -1,5 +1,37 @@
 [
   {
+    "id": 34043,
+    "fecha": "01 de Dec del 2025 a las 09:01 PM",
+    "hora_utc": "2025-12-02 02:01",
+    "mensaje": "✅ Información.\n👉 Se encuentra sin servicio el circuito A110 se trabaja para restablecer el servicio en el menor tiempo posible.",
+    "timestamp": 1764640886,
+    "timestamp_local": 1764640886
+  },
+  {
+    "id": 34042,
+    "fecha": "01 de Dec del 2025 a las 08:44 PM",
+    "hora_utc": "2025-12-02 01:44",
+    "mensaje": "🔊Información🔊\n✅Se restablece el servicio eléctrico en el circuito A110.",
+    "timestamp": 1764639842,
+    "timestamp_local": 1764639842
+  },
+  {
+    "id": 34041,
+    "fecha": "01 de Dec del 2025 a las 08:39 PM",
+    "hora_utc": "2025-12-02 01:39",
+    "mensaje": "✅ Información.\n👉 Se encuentra en fallo el circuito La Ofelia, Júcaro, La Piña, La Teresa, El Burro, se trabaja para restablecer el servicio en el menor tiempo posible.",
+    "timestamp": 1764639541,
+    "timestamp_local": 1764639541
+  },
+  {
+    "id": 34040,
+    "fecha": "01 de Dec del 2025 a las 08:16 PM",
+    "hora_utc": "2025-12-02 01:16",
+    "mensaje": "‼️ Información del déficit de generación ‼️   \n👉Tenemos 100 MW en la provincia afectados por déficit de generación.\n⏰ Con este déficit, la carga a apagar en la provincia no nos permite realizar una rotación estable de los circuitos, por lo que se afectarán o se restablecerán en dependencia del déficit que haya en cada momento de la jornada, que es muy variable.",
+    "timestamp": 1764638196,
+    "timestamp_local": 1764638196
+  },
+  {
     "id": 34039,
     "fecha": "01 de Dec del 2025 a las 06:46 PM",
     "hora_utc": "2025-12-01 23:46",
@@ -110,37 +142,5 @@
     "mensaje": "‼️ Déficit de Generación ‼️   \n👉Continuamos con 92 MW en la provincia afectados por déficit de generación.\n\n⏰ Reiteramos que los circuitos se afectarán o se restablecerán en dependencia del déficit en cada momento de la jornada, que es muy variable.",
     "timestamp": 1764588939,
     "timestamp_local": 1764588939
-  },
-  {
-    "id": 34022,
-    "fecha": "01 de Dec del 2025 a las 04:34 AM",
-    "hora_utc": "2025-12-01 09:34",
-    "mensaje": "‼️ Déficit de Generación ‼️   \n👉Continuamos con 92 MW en la provincia afectados por déficit de generación.\n\n⏰ Reiteramos que los circuitos se afectarán o se restablecerán en dependencia del déficit en cada momento de la jornada, que es muy variable.",
-    "timestamp": 1764581691,
-    "timestamp_local": 1764581691
-  },
-  {
-    "id": 34021,
-    "fecha": "01 de Dec del 2025 a las 12:49 AM",
-    "hora_utc": "2025-12-01 05:49",
-    "mensaje": "‼️ Déficit de Generación ‼️   \n👉Continuamos con 92 MW en la provincia afectados por déficit de generación.\n\n⏰ Reiteramos que los circuitos se afectarán o se restablecerán en dependencia del déficit en cada momento de la jornada, que es muy variable.",
-    "timestamp": 1764568165,
-    "timestamp_local": 1764568165
-  },
-  {
-    "id": 34020,
-    "fecha": "30 de Nov del 2025 a las 11:59 PM",
-    "hora_utc": "2025-12-01 04:59",
-    "mensaje": "...",
-    "timestamp": 1764565154,
-    "timestamp_local": 1764565154
-  },
-  {
-    "id": 34019,
-    "fecha": "30 de Nov del 2025 a las 10:42 PM",
-    "hora_utc": "2025-12-01 03:42",
-    "mensaje": "👉 A partir de la compleja situación que presenta el Sistema Eléctrico con las afectaciones por déficit de generación, el Centro de Atención Telefónica ☎️18888 se encuentra recibiendo a la misma vez muchas llamadas de toda la provincia lo que ocasiona congestión en la pizarra. Si no puede comunicar intente nuevamente.",
-    "timestamp": 1764560548,
-    "timestamp_local": 1764560548
   }
 ]
