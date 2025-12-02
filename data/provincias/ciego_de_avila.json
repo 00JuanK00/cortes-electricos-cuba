@@ -1,5 +1,21 @@
 [
   {
+    "id": 34053,
+    "fecha": "02 de Dec del 2025 a las 01:53 AM",
+    "hora_utc": "2025-12-02 06:53",
+    "mensaje": "✅ Información.\n👉 Continua afectado el servicio en el circuito A110, por primario partido, se trabaja para restablecer el servicio en el menor tiempo posible.",
+    "timestamp": 1764658427,
+    "timestamp_local": 1764658427
+  },
+  {
+    "id": 34052,
+    "fecha": "02 de Dec del 2025 a las 01:22 AM",
+    "hora_utc": "2025-12-02 06:22",
+    "mensaje": "‼️ Información del déficit de generación ‼️   \n👉Tenemos 70 MW en la provincia afectados por déficit de generación.\n⏰ Con este déficit, la carga a apagar en la provincia no nos permite realizar una rotación estable de los circuitos, por lo que se afectarán o se restablecerán en dependencia del déficit que haya en cada momento de la jornada, que es muy variable.",
+    "timestamp": 1764656539,
+    "timestamp_local": 1764656539
+  },
+  {
     "id": 34050,
     "fecha": "01 de Dec del 2025 a las 11:31 PM",
     "hora_utc": "2025-12-02 04:31",
@@ -110,21 +126,5 @@
     "mensaje": "‼️\n‼️ Información ‼️   \n👉Nos mantenemos con 70 MW en la provincia afectados por déficit de generación. Con este déficit no podemos cumplir con una programación estable, por lo que los circuitos se afectarán o se restablecerán en dependencia del déficit que haya en cada momento de la jornada.",
     "timestamp": 1764614602,
     "timestamp_local": 1764614602
-  },
-  {
-    "id": 34032,
-    "fecha": "01 de Dec del 2025 a las 11:05 AM",
-    "hora_utc": "2025-12-01 16:05",
-    "mensaje": "✅ ‼️ Déficit de Generación ‼️   \n👉 Subimos a 70  MW en la provincia afectados por déficit de generación.\n⏰ Reiteramos que los circuitos se afectarán o se restablecerán en dependencia del déficit en cada momento de la jornada, que es muy variable.",
-    "timestamp": 1764605153,
-    "timestamp_local": 1764605153
-  },
-  {
-    "id": 34031,
-    "fecha": "01 de Dec del 2025 a las 10:54 AM",
-    "hora_utc": "2025-12-01 15:54",
-    "mensaje": "‼️ Déficit de Generación ‼️   \n👉 Nos mantenemos en 57 MW en la provincia por déficit de generación.\n💢Se incorporan a la rotación los siguientes circuitos.\n👉1, 2, A208, El Mambí, Jagueyal, Combinado Minaz, Delfin Moreno, Santana, CítricoII ,Isaca, Falla, Ranchuelo, Cítrico I, III, IV, Ceballo Pueblo, Micro Norte, Chamba, Los Perros, El Asiento, Punta Alegre, Florencia y Tamarindo .\n ⏰ Reiteramos que los circuitos se afectarán o se restablecerán en dependencia del déficit solicitado en cada momento de la jornada que es muy variable.",
-    "timestamp": 1764604476,
-    "timestamp_local": 1764604476
   }
 ]
