@@ -1,5 +1,37 @@
 [
   {
+    "id": 34941,
+    "fecha": "02 de Dec del 2025 a las 04:39 PM",
+    "hora_utc": "2025-12-02 21:39",
+    "mensaje": "⚠️Afectados por déficit de capacidad de generación los siguientes circuitos:  \n🔹Municipio Sagua \n👉Cto 48 Finalet\n👉Ctos 46 y 128 Sitiecito",
+    "timestamp": 1764711583,
+    "timestamp_local": 1764711583
+  },
+  {
+    "id": 34940,
+    "fecha": "02 de Dec del 2025 a las 04:23 PM",
+    "hora_utc": "2025-12-02 21:23",
+    "mensaje": "⚠️Afectado por déficit de capacidad de generación el Cto 153 (EIDE), perteneciente al municipio Santa Clara.",
+    "timestamp": 1764710596,
+    "timestamp_local": 1764710596
+  },
+  {
+    "id": 34939,
+    "fecha": "02 de Dec del 2025 a las 04:17 PM",
+    "hora_utc": "2025-12-02 21:17",
+    "mensaje": "⚠️Afectados por déficit de capacidad de generación los siguientes circuitos:  \n🔹Municipio Santa Clara:\n👉Cto 5 (Dobarganes)\n👉Cto 17 (Subplanta)\n👉Cto 13 (Zona Industrial)",
+    "timestamp": 1764710262,
+    "timestamp_local": 1764710262
+  },
+  {
+    "id": 34938,
+    "fecha": "02 de Dec del 2025 a las 04:03 PM",
+    "hora_utc": "2025-12-02 21:03",
+    "mensaje": "🔸Actualización del servicio eléctrico en la provincia🔸\n✍️Se mantienen afectados en la provincia 123 circuitos.\n✍️En el momento de hacer esta nota la provincia tiene 97 MW por déficit de capacidad de generación.\n✍️Cuenta con 147 afectaciones  por averías secundarias y de servicio.",
+    "timestamp": 1764709393,
+    "timestamp_local": 1764709393
+  },
+  {
     "id": 34937,
     "fecha": "02 de Dec del 2025 a las 03:52 PM",
     "hora_utc": "2025-12-02 20:52",
@@ -126,37 +158,5 @@
     "mensaje": "Afectados 85 MW en la provincia, demanda máxima a apagar en estos momentos.",
     "timestamp": 1764699775,
     "timestamp_local": 1764699775
-  },
-  {
-    "id": 34921,
-    "fecha": "02 de Dec del 2025 a las 01:22 PM",
-    "hora_utc": "2025-12-02 18:22",
-    "mensaje": "⚠️Afectado por déficit de capacidad de generación el Cto 30 (**SC. Industrial**), perteneciente al municipio Santa Clara.",
-    "timestamp": 1764699742,
-    "timestamp_local": 1764699742
-  },
-  {
-    "id": 34920,
-    "fecha": "02 de Dec del 2025 a las 01:19 PM",
-    "hora_utc": "2025-12-02 18:19",
-    "mensaje": "🛠️ Disparo del circuito 188 perteneciente al municipio de  Ranchuelo",
-    "timestamp": 1764699586,
-    "timestamp_local": 1764699586
-  },
-  {
-    "id": 34919,
-    "fecha": "02 de Dec del 2025 a las 01:18 PM",
-    "hora_utc": "2025-12-02 18:18",
-    "mensaje": "⚡Afectado Circuito 160 Cascajal por Via Libre para realizar cambio de transformador.",
-    "timestamp": 1764699538,
-    "timestamp_local": 1764699538
-  },
-  {
-    "id": 34918,
-    "fecha": "02 de Dec del 2025 a las 12:10 PM",
-    "hora_utc": "2025-12-02 17:10",
-    "mensaje": "🕛Actualización del servicio eléctrico en las últimas 6 horas.\n✍️El déficit de capacidad de generación osciló entre los 82 MW y los 93 MW.\n✍️En el momento de esta nota, se mantienen afectados 104 circuitos.\n✍️Cuenta con 156 afectaciones por averías secundarias y de servicio:\n🔸Caibarién (4)\n🔸Corralillo (3)\n🔸Manicaragua (22)\n🔸Placetas (7)\n🔸Ranchuelo (3)\n🔸Remedios (17) \n🔸Sagua (10) \n🔸Santa Clara (72)\n🔸Santo Domingo (16)\n🛠️Se encuentra 0 avería en vías de solución.\n🛠️Pendientes a solucionar por el área técnica 18.\n✅ La provincia no presenta averías primarias en este momento.",
-    "timestamp": 1764695443,
-    "timestamp_local": 1764695443
   }
 ]
