@@ -1,5 +1,13 @@
 [
   {
+    "id": 17278,
+    "fecha": "02 de Dec del 2025 a las 06:33 PM",
+    "hora_utc": "2025-12-02 23:33",
+    "mensaje": "La Empresa Eléctrica Las Tunas pone a disposición de sus clientes un Centro de Atención Telefónica con el objetivo de brindar asistencia y responder a sus inquietudes. Para asegurar un flujo eficiente de comunicación, el centro cuenta con 38 líneas de entrada, gestionadas por 6 operadores en cada turno de trabajo.\nCuando los 6 operadores se encuentran atendiendo llamadas simultáneamente, las siguientes 32 llamadas entrantes son colocadas en una cola de espera, donde una operadora automática les informa que serán atendidas a la brevedad, acompañando la espera con música. En esta situación, se requiere paciencia por parte del cliente hasta que un operador se desocupe y su llamada sea transferida automáticamente. Sin embargo, el sistema tiene un límite. A partir de la llamada número 39, todas las líneas de entrada estarán ocupadas, lo que resultará en una señal de \"ocupado\" para el cliente. En este caso, para lograr contactar al centro, el cliente deberá intentar la llamada nuevamente hasta que una línea quede disponible. La Empresa Eléctrica Las Tunas trabaja continuamente para optimizar este servicio y agradece su comprensión.",
+    "timestamp": 1764718405,
+    "timestamp_local": 1764718405
+  },
+  {
     "id": 17276,
     "fecha": "02 de Dec del 2025 a las 01:48 PM",
     "hora_utc": "2025-12-02 18:48",
@@ -110,13 +118,5 @@
     "mensaje": "Nota Informativa: Estado del Sistema Eléctrico Nacional (SEN) – 30 de noviembre de 2025\nEn el día de ayer se afectó el servicio durante las 24 horas. La máxima afectación por déficit de capacidad de generación en el día de ayer fue de 1775 MW a las 18:30 horas.\n\nLa producción de energía de los 33 nuevos parques solares fotovoltaicos fue de 2255 MWh, con 473 MW como máxima potencia entregada en el horario de la media con esta fuente de generación.\n\nEstado actual del SEN\nLa disponibilidad del SEN a las 06:00 horas es de 1570 MW y la demanda 2460 MW con 950 MW afectados por déficit de capacidad. En el horario de la media se estima una afectación de 1050 MW.\n\nPrincipales incidencias\nAvería: Unidad 2 de la CTE Felton.\nMantenimiento: Unidad 5 de la CTE Mariel, Unidad 2 de la CTE Santa Cruz, Unidad 4 de la CTE Carlos Manuel de Céspedes en Cienfuegos y Unidad 6 de la CTE Nuevitas.\nLimitaciones en la generación térmica: 534 fuera de servicio.\nProblemas por falta de combustible\n96 centrales de generación distribuida con 895 MW.\n68 MW indisponibles por falta de lubricante.\nTotal de MW afectados por esta causa: 963 MW.\nPronóstico para el horario pico\nSe prevé en el horario pico una disponibilidad de 1570 MW y una demanda máxima de 3250 MW, para un déficit de 1680 MW, por lo que de mantenerse las condiciones previstas se pronostica una afectación de 1750 MW en este horario.",
     "timestamp": 1764509945,
     "timestamp_local": 1764509945
-  },
-  {
-    "id": 17257,
-    "fecha": "30 de Nov del 2025 a las 06:22 AM",
-    "hora_utc": "2025-11-30 11:22",
-    "mensaje": "Se declara en avería el circuito TK10 El Cornito , La Caldosa",
-    "timestamp": 1764501729,
-    "timestamp_local": 1764501729
   }
 ]
