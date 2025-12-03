@@ -1,5 +1,29 @@
 [
   {
+    "id": 35020,
+    "fecha": "03 de Dec del 2025 a las 06:45 PM",
+    "hora_utc": "2025-12-03 23:45",
+    "mensaje": "🟢 16:31 || En línea la Unidad 6 de Energás Jaruco, subiendo carga.",
+    "timestamp": 1764805520,
+    "timestamp_local": 1764805520
+  },
+  {
+    "id": 35019,
+    "fecha": "03 de Dec del 2025 a las 06:26 PM",
+    "hora_utc": "2025-12-03 23:26",
+    "mensaje": "🕕Actualización del servicio eléctrico en las últimas 6 horas.\n✍️El déficit de capacidad de generación osciló entre los 82 MW y los 141 MW.\n✍️En el momento de esta nota, se mantienen afectados 121 circuitos.\n✍️Cuenta con 100 afectaciones por averías secundarias y de servicio:\n🔸Corralillo (1)\n🔸Manicaragua (12)\n🔸Placetas (6)\n🔸Remedios (10) \n🔸Sagua (11) \n🔸Santa Clara (37)\n🔸Santo Domingo (2)\n🛠️Se encuentra 3 avería en vías de solución.\n🛠️Pendientes a solucionar por el área técnica 18.\n✅ La provincia no presenta averías primarias en este momento.",
+    "timestamp": 1764804376,
+    "timestamp_local": 1764804376
+  },
+  {
+    "id": 35018,
+    "fecha": "03 de Dec del 2025 a las 06:16 PM",
+    "hora_utc": "2025-12-03 23:16",
+    "mensaje": "Afectados 141 MW en la provincia, demanda máxima a apagar en estos momentos.",
+    "timestamp": 1764803772,
+    "timestamp_local": 1764803772
+  },
+  {
     "id": 35017,
     "fecha": "03 de Dec del 2025 a las 05:58 PM",
     "hora_utc": "2025-12-03 22:58",
@@ -134,29 +158,5 @@
     "mensaje": "💡Restablecido el servicio eléctrico en su totalidad el Cto 164 perteneciente al municipio de Quemado.",
     "timestamp": 1764787308,
     "timestamp_local": 1764787308
-  },
-  {
-    "id": 35000,
-    "fecha": "03 de Dec del 2025 a las 01:37 PM",
-    "hora_utc": "2025-12-03 18:37",
-    "mensaje": "🟢 Todas las provincias se encuentran ya conectadas al Sistema Electroenergético Nacional.",
-    "timestamp": 1764787074,
-    "timestamp_local": 1764787074
-  },
-  {
-    "id": 34999,
-    "fecha": "03 de Dec del 2025 a las 01:35 PM",
-    "hora_utc": "2025-12-03 18:35",
-    "mensaje": "⚠️Será afectado por déficit de capacidad de generación el siguiente circuito:\n🔹Municipio Santa Clara\n👉Cto 1 (Consejo-Centro)",
-    "timestamp": 1764786956,
-    "timestamp_local": 1764786956
-  },
-  {
-    "id": 34998,
-    "fecha": "03 de Dec del 2025 a las 01:04 PM",
-    "hora_utc": "2025-12-03 18:04",
-    "mensaje": "🔴 12:02 || Fuera de línea la Unidad 1 de la CTE Lidio Ramón Pérez \"Felton\", en vía libre de emergencia.",
-    "timestamp": 1764785044,
-    "timestamp_local": 1764785044
   }
 ]
