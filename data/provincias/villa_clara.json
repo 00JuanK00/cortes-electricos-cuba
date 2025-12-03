@@ -1,9 +1,17 @@
 [
   {
+    "id": 34969,
+    "fecha": "03 de Dec del 2025 a las 09:09 AM",
+    "hora_utc": "2025-12-03 14:09",
+    "mensaje": "⚠️Afectado por déficit de capacidad de generación el siguiente circuito:\n\n🔹Municipio Santa Clara.\n👉Cto 168 (Condado)\n\n👉 Cto 28 (Monumento Che)",
+    "timestamp": 1764770952,
+    "timestamp_local": 1764770952
+  },
+  {
     "id": 34968,
     "fecha": "03 de Dec del 2025 a las 08:50 AM",
     "hora_utc": "2025-12-03 13:50",
-    "mensaje": "⚠️Afectado por Déficit de Capacidad de generación el siguiente Circuito:\n🔹Municipio Santa Clara.\n👉Cto 169 (Condado)",
+    "mensaje": "⚠️Afectado por déficit de capacidad de generación el siguiente circuito:\n🔹Municipio Santa Clara.\n👉Cto 169 (Condado)",
     "timestamp": 1764769825,
     "timestamp_local": 1764769825
   },
@@ -142,13 +150,5 @@
     "mensaje": "Afectados 122 MW en la provincia, demanda máxima a apagar en estos momentos.",
     "timestamp": 1764727526,
     "timestamp_local": 1764727526
-  },
-  {
-    "id": 34949,
-    "fecha": "02 de Dec del 2025 a las 08:32 PM",
-    "hora_utc": "2025-12-03 01:32",
-    "mensaje": "🔸Actualización del servicio eléctrico en la provincia🔸\n✍️Se mantienen afectados en la provincia 141 circuitos.\n✍️En el momento de hacer esta nota la provincia tiene 140 MW por déficit de capacidad de generación.\n✍️Cuenta con 136 afectaciones  por averías secundarias y de servicio.",
-    "timestamp": 1764725534,
-    "timestamp_local": 1764725534
   }
 ]
