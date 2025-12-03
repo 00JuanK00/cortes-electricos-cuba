@@ -1,5 +1,29 @@
 [
   {
+    "id": 34956,
+    "fecha": "03 de Dec del 2025 a las 12:42 AM",
+    "hora_utc": "2025-12-03 05:42",
+    "mensaje": "⚠️Afectada por manipulación la línea del 6595.",
+    "timestamp": 1764740552,
+    "timestamp_local": 1764740552
+  },
+  {
+    "id": 34955,
+    "fecha": "03 de Dec del 2025 a las 12:13 AM",
+    "hora_utc": "2025-12-03 05:13",
+    "mensaje": "Afectados 87 MW en la provincia, demanda máxima a apagar en estos momentos.",
+    "timestamp": 1764738826,
+    "timestamp_local": 1764738826
+  },
+  {
+    "id": 34954,
+    "fecha": "03 de Dec del 2025 a las 12:13 AM",
+    "hora_utc": "2025-12-03 05:13",
+    "mensaje": "🕛Actualización del servicio eléctrico en las últimas 6 horas.\n✍️El déficit de capacidad de generación osciló entre los 160 MW y los 100 MW.\n✍️En el momento de esta nota, se mantienen afectados 127 circuitos.\n✍️Cuenta con 134 afectaciones por averías secundarias y de servicio:\n🔸Caibarién (5)\n🔸Camajuaní (1)\n🔸Corralillo (2)\n🔸Manicaragua (23)\n🔸Placetas (8)\n🔸Ranchuelo (5)\n🔸Remedios (14) \n🔸Sagua (12) \n🔸Santa Clara (52)\n🔸Santo Domingo (12)\n🛠️Se encuentra 0 avería en vías de solución.\n🛠️Pendientes a solucionar por el área técnica 21.\n✅ La provincia no presenta averías primarias en este momento.",
+    "timestamp": 1764738789,
+    "timestamp_local": 1764738789
+  },
+  {
     "id": 34953,
     "fecha": "02 de Dec del 2025 a las 11:02 PM",
     "hora_utc": "2025-12-03 04:02",
@@ -126,29 +150,5 @@
     "mensaje": "⚠️Afectado por manipulación el Cto 168 perteneciente al municipio Santa Clara.",
     "timestamp": 1764708722,
     "timestamp_local": 1764708722
-  },
-  {
-    "id": 34936,
-    "fecha": "02 de Dec del 2025 a las 03:49 PM",
-    "hora_utc": "2025-12-02 20:49",
-    "mensaje": "⚠️Afectados por déficit de capacidad de generación los siguientes circuitos:  \n🔹Municipio Ranchuelo: \n👉Ctos 89, 97, 188 y 189\n👉Ctos 148 y 149 San Juan\n👉Cto 91 Batey Osvaldo Herrera\n👉Cto 181 Batey Ifraín Alfonso\n🔹Municipio Ranchuelo:\n👉Cto 92 Esperanza (Pueblo)\n👉Cto 93 Esperanza (Campo)\n👉Cto 54 94 y 95 Jicotea  \n🔹Municipio Santa Clara\n👉Ctos 26 y 141 (Manuelita)\n👉Cto 191 (Quemado de Hilario)\n🔹Municipio Santo Domingo:\n**👉Cto 163 Batey 26 de Julio**\n**👉Cto 81 26 Julio**",
-    "timestamp": 1764708566,
-    "timestamp_local": 1764708566
-  },
-  {
-    "id": 34935,
-    "fecha": "02 de Dec del 2025 a las 03:45 PM",
-    "hora_utc": "2025-12-02 20:45",
-    "mensaje": "⚡Afectado Circuito 34 Rebacadero por Via Libre , para realizar cambio de transformador.",
-    "timestamp": 1764708355,
-    "timestamp_local": 1764708355
-  },
-  {
-    "id": 34934,
-    "fecha": "02 de Dec del 2025 a las 03:29 PM",
-    "hora_utc": "2025-12-02 20:29",
-    "mensaje": "⚠️Afectados por déficit de capacidad de generación los Ctos 107 Baez y 105 Nazareno , perteneciente al municipio Santa Clara.",
-    "timestamp": 1764707376,
-    "timestamp_local": 1764707376
   }
 ]
