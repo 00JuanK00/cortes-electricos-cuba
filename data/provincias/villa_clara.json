@@ -1,5 +1,21 @@
 [
   {
+    "id": 34953,
+    "fecha": "02 de Dec del 2025 a las 11:02 PM",
+    "hora_utc": "2025-12-03 04:02",
+    "mensaje": "Afectados 100 MW en la provincia, demanda máxima a apagar en estos momentos.",
+    "timestamp": 1764734544,
+    "timestamp_local": 1764734544
+  },
+  {
+    "id": 34952,
+    "fecha": "02 de Dec del 2025 a las 10:42 PM",
+    "hora_utc": "2025-12-03 03:42",
+    "mensaje": "✅Ante cualquier duda con la terminología eléctrica, les volvemos explicar: \n     \n✍️Las averías pueden ser primarias (afecta un volumen grande de población pues son las líneas de distribución a 13.8kV y puede afectar varias manzanas, incluso repartos completos).\n\n✍️Secundarias (afecta a todos los clientes que se alimenten del mismo transformador, puede afectar una o varias cuadras). \n\n✍️De servicio (afectan 1 solo cliente o instalación generalmente producto a daños en la acometida, metro contador, etc.).",
+    "timestamp": 1764733377,
+    "timestamp_local": 1764733377
+  },
+  {
     "id": 34951,
     "fecha": "02 de Dec del 2025 a las 10:18 PM",
     "hora_utc": "2025-12-03 03:18",
@@ -134,21 +150,5 @@
     "mensaje": "⚠️Afectados por déficit de capacidad de generación los Ctos 107 Baez y 105 Nazareno , perteneciente al municipio Santa Clara.",
     "timestamp": 1764707376,
     "timestamp_local": 1764707376
-  },
-  {
-    "id": 34933,
-    "fecha": "02 de Dec del 2025 a las 03:28 PM",
-    "hora_utc": "2025-12-02 20:28",
-    "mensaje": "⚠️Afectados por déficit de capacidad de generación los Ctos 15 y 27(Maleza), perteneciente al municipio Santa Clara.",
-    "timestamp": 1764707301,
-    "timestamp_local": 1764707301
-  },
-  {
-    "id": 34932,
-    "fecha": "02 de Dec del 2025 a las 03:22 PM",
-    "hora_utc": "2025-12-02 20:22",
-    "mensaje": "⚠️Afectado por déficit de capacidad de generación el Cto 167 (Virginia), perteneciente al municipio Santa Clara.",
-    "timestamp": 1764706945,
-    "timestamp_local": 1764706945
   }
 ]
