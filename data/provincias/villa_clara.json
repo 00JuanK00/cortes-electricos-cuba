@@ -1,5 +1,21 @@
 [
   {
+    "id": 34963,
+    "fecha": "03 de Dec del 2025 a las 06:26 AM",
+    "hora_utc": "2025-12-03 11:26",
+    "mensaje": "Afectados 84 MW en la provincia, demanda máxima a apagar en estos momentos.",
+    "timestamp": 1764761218,
+    "timestamp_local": 1764761218
+  },
+  {
+    "id": 34961,
+    "fecha": "03 de Dec del 2025 a las 06:24 AM",
+    "hora_utc": "2025-12-03 11:24",
+    "mensaje": "🕕Actualización del servicio eléctrico en las últimas 6 horas.\n✍️El déficit de capacidad de generación osciló entre los 87 MW y los 77 MW.\n✍️En el momento de esta nota, se mantienen afectados 127 circuitos.\n✍️Cuenta con 119 afectaciones por averías secundarias y de servicio:\n🔸Caibarién (5)\n🔸Corralillo (2)\n🔸Manicaragua (23)\n🔸Placetas (8)\n🔸Ranchuelo (1)\n🔸Remedios (14) \n🔸Sagua (12) \n🔸Santa Clara (52)\n🔸Santo Domingo (12)\n🛠️Se encuentra 0 avería en vías de solución.\n🛠️Pendientes a solucionar por el área técnica 22.\n✅ La provincia no presenta averías primarias en este momento.",
+    "timestamp": 1764761064,
+    "timestamp_local": 1764761064
+  },
+  {
     "id": 34960,
     "fecha": "03 de Dec del 2025 a las 04:08 AM",
     "hora_utc": "2025-12-03 09:08",
@@ -126,29 +142,5 @@
     "mensaje": "🕕Actualización del servicio eléctrico en las últimas 6 horas.\n✍️El déficit de capacidad de generación osciló entre los 75 MW y los 131 MW.\n✍️En el momento de esta nota, se mantienen afectados 141 circuitos.\n✍️Cuenta con 137 afectaciones por averías secundarias y de servicio:\n🔸Caibarién (2)\n🔸Encrucijada (2)\n🔸Manicaragua (24)\n🔸Placetas (9)\n🔸Ranchuelo (7)\n🔸Remedios (15) \n🔸Sagua (13) \n🔸Santa Clara (54)\n🔸Santo Domingo (11)\n🛠️Se encuentra 0 avería en vías de solución.\n🛠️Pendientes a solucionar por el área técnica 18.\n✅ La provincia no presenta averías primarias en este momento.",
     "timestamp": 1764716674,
     "timestamp_local": 1764716674
-  },
-  {
-    "id": 34943,
-    "fecha": "02 de Dec del 2025 a las 05:06 PM",
-    "hora_utc": "2025-12-02 22:06",
-    "mensaje": "⚠️Afectados por déficit de capacidad de generación los Ctos 132 y 162 **SC. Industrial** , perteneciente al municipio Santa Clara.",
-    "timestamp": 1764713212,
-    "timestamp_local": 1764713212
-  },
-  {
-    "id": 34942,
-    "fecha": "02 de Dec del 2025 a las 05:05 PM",
-    "hora_utc": "2025-12-02 22:05",
-    "mensaje": "Afectados 131 MW en la provincia, demanda máxima a apagar en estos momentos.",
-    "timestamp": 1764713110,
-    "timestamp_local": 1764713110
-  },
-  {
-    "id": 34941,
-    "fecha": "02 de Dec del 2025 a las 04:39 PM",
-    "hora_utc": "2025-12-02 21:39",
-    "mensaje": "⚠️Afectados por déficit de capacidad de generación los siguientes circuitos:  \n🔹Municipio Sagua \n👉Cto 48 Finalet\n👉Ctos 46 y 128 Sitiecito",
-    "timestamp": 1764711583,
-    "timestamp_local": 1764711583
   }
 ]
