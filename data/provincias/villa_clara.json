@@ -1,5 +1,37 @@
 [
   {
+    "id": 34991,
+    "fecha": "03 de Dec del 2025 a las 11:54 AM",
+    "hora_utc": "2025-12-03 16:54",
+    "mensaje": "🛠️ Se encuentra afectado por disparo la subestación de Peroty perteneciente al municipio de Placetas.",
+    "timestamp": 1764780851,
+    "timestamp_local": 1764780851
+  },
+  {
+    "id": 34990,
+    "fecha": "03 de Dec del 2025 a las 11:33 AM",
+    "hora_utc": "2025-12-03 16:33",
+    "mensaje": "⚡Afectado parcial Cto 164(Quemado) para reparar primario partido por poda por   clientes.",
+    "timestamp": 1764779620,
+    "timestamp_local": 1764779620
+  },
+  {
+    "id": 34989,
+    "fecha": "03 de Dec del 2025 a las 11:05 AM",
+    "hora_utc": "2025-12-03 16:05",
+    "mensaje": "Afectados 101 MW en la provincia, demanda máxima a apagar en estos momentos.",
+    "timestamp": 1764777957,
+    "timestamp_local": 1764777957
+  },
+  {
+    "id": 34988,
+    "fecha": "03 de Dec del 2025 a las 11:05 AM",
+    "hora_utc": "2025-12-03 16:05",
+    "mensaje": "⚠️Afectado por déficit de capacidad de generación el siguiente circuito:\n🔹Municipio Placetas\n👉Cto 99 Placetas ( de manera Parcial)",
+    "timestamp": 1764777911,
+    "timestamp_local": 1764777911
+  },
+  {
     "id": 34987,
     "fecha": "03 de Dec del 2025 a las 10:48 AM",
     "hora_utc": "2025-12-03 15:48",
@@ -35,7 +67,7 @@
     "id": 34983,
     "fecha": "03 de Dec del 2025 a las 10:15 AM",
     "hora_utc": "2025-12-03 15:15",
-    "mensaje": "➡️La Provincia cuenta con 1 afectación de servicio por transformador dañado:\n👉Municipio Sagua: Calle Rio E/ Calzada de Oña y Calzada de Backer. Sagua",
+    "mensaje": "➡️La Provincia cuenta con 5 afectaciones de servicio por transformador dañado:\n\n👉Municipio Sagua: Calle Rio E/ Calzada de Oña y Calzada de Backer. Sagua\n👉Municipio Santa Clara: Carretera de Sagua , Frente a la subestación de Pararrayo. Yabu\n👉Municipio Santa Clara: San pedro e/ candelaria y San Cristobal.\n👉Municipio Placetas: 2da del Norte e/ 4ta y 5ta del Oeste\n👉Municipio Santo Domingo: Carretera Central, crucero Bordon. Washigton.",
     "timestamp": 1764774959,
     "timestamp_local": 1764774959
   },
@@ -102,37 +134,5 @@
     "mensaje": "👉 Actualización del SEN\n\nLa Habana ya tiene 44 MW conectados al sistema. Continúa el proceso de recuperación a partir de la desconexión de la zona occidental de Mayabeque a Pinar Del Río.",
     "timestamp": 1764771746,
     "timestamp_local": 1764771746
-  },
-  {
-    "id": 34971,
-    "fecha": "03 de Dec del 2025 a las 09:18 AM",
-    "hora_utc": "2025-12-03 14:18",
-    "mensaje": "📸 Rostros del #ContingenteErnestoCheGuevara 🇨🇺\n#HéroesAnónimos \n\n#UNE #EléctricosVillaclareños #JuntosXCuba #TodasLasManosTodas",
-    "timestamp": 1764771535,
-    "timestamp_local": 1764771535
-  },
-  {
-    "id": 34970,
-    "fecha": "03 de Dec del 2025 a las 09:12 AM",
-    "hora_utc": "2025-12-03 14:12",
-    "mensaje": "💡Se restablece el servicio eléctrico en los circuitos siguientes:\n🔹Municipio Encrucijada\n👉Cto 120 Calabazar\n👉Ctos 121 y 127 Perucho\n🔹Municipio Placetas:\n👉Cto 192 Benito Juárez\n👉Cto 102 Peroti.",
-    "timestamp": 1764771149,
-    "timestamp_local": 1764771149
-  },
-  {
-    "id": 34969,
-    "fecha": "03 de Dec del 2025 a las 09:09 AM",
-    "hora_utc": "2025-12-03 14:09",
-    "mensaje": "⚠️Afectado por déficit de capacidad de generación el siguiente circuito:\n🔹Municipio Santa Clara.\n👉Cto 168 (Condado)\n👉 Cto 28 (Monumento Che)",
-    "timestamp": 1764770952,
-    "timestamp_local": 1764770952
-  },
-  {
-    "id": 34968,
-    "fecha": "03 de Dec del 2025 a las 08:50 AM",
-    "hora_utc": "2025-12-03 13:50",
-    "mensaje": "⚠️Afectado por déficit de capacidad de generación el siguiente circuito:\n🔹Municipio Santa Clara.\n👉Cto 169 (Condado)",
-    "timestamp": 1764769825,
-    "timestamp_local": 1764769825
   }
 ]
