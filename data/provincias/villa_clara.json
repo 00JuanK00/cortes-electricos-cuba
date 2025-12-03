@@ -1,5 +1,45 @@
 [
   {
+    "id": 35002,
+    "fecha": "03 de Dec del 2025 a las 01:47 PM",
+    "hora_utc": "2025-12-03 18:47",
+    "mensaje": "Afectados 100 MW en la provincia, demanda máxima a apagar en estos momentos.",
+    "timestamp": 1764787667,
+    "timestamp_local": 1764787667
+  },
+  {
+    "id": 35001,
+    "fecha": "03 de Dec del 2025 a las 01:41 PM",
+    "hora_utc": "2025-12-03 18:41",
+    "mensaje": "💡Restablecido el servicio eléctrico en su totalidad el Cto 164 perteneciente al municipio de Quemado.",
+    "timestamp": 1764787308,
+    "timestamp_local": 1764787308
+  },
+  {
+    "id": 35000,
+    "fecha": "03 de Dec del 2025 a las 01:37 PM",
+    "hora_utc": "2025-12-03 18:37",
+    "mensaje": "🟢 Todas las provincias se encuentran ya conectadas al Sistema Electroenergético Nacional.",
+    "timestamp": 1764787074,
+    "timestamp_local": 1764787074
+  },
+  {
+    "id": 34999,
+    "fecha": "03 de Dec del 2025 a las 01:35 PM",
+    "hora_utc": "2025-12-03 18:35",
+    "mensaje": "⚠️Será afectado por déficit de capacidad de generación el siguiente circuito:\n🔹Municipio Santa Clara\n👉Cto 1 (Consejo-Centro)",
+    "timestamp": 1764786956,
+    "timestamp_local": 1764786956
+  },
+  {
+    "id": 34998,
+    "fecha": "03 de Dec del 2025 a las 01:04 PM",
+    "hora_utc": "2025-12-03 18:04",
+    "mensaje": "🔴 12:02 || Fuera de línea la Unidad 1 de la CTE Lidio Ramón Pérez \"Felton\", en vía libre de emergencia.",
+    "timestamp": 1764785044,
+    "timestamp_local": 1764785044
+  },
+  {
     "id": 34997,
     "fecha": "03 de Dec del 2025 a las 12:58 PM",
     "hora_utc": "2025-12-03 17:58",
@@ -118,45 +158,5 @@
     "mensaje": "⚠️Afectado por déficit de capacidad de generación los siguientes circuitos:\n🔹Municipio Santa Clara.\n👉Ctos 1, 2 y 4 (Consejo Centro)\n👉 Cto 15 (Maleza)\n👉 Ctos 7 y 131 (Universidad)",
     "timestamp": 1764774676,
     "timestamp_local": 1764774676
-  },
-  {
-    "id": 34981,
-    "fecha": "03 de Dec del 2025 a las 10:04 AM",
-    "hora_utc": "2025-12-03 15:04",
-    "mensaje": "🔸Actualización del servicio eléctrico en la provincia🔸\n✍️Se mantienen afectados en la provincia 117 circuitos.\n✍️En el momento de hacer esta nota la provincia tiene 89 MW por déficit de capacidad de generación.\n✍️Cuenta con 135 afectaciones  por averías secundarias y de servicio.",
-    "timestamp": 1764774299,
-    "timestamp_local": 1764774299
-  },
-  {
-    "id": 34980,
-    "fecha": "03 de Dec del 2025 a las 10:02 AM",
-    "hora_utc": "2025-12-03 15:02",
-    "mensaje": "⚠️Afectado por déficit de capacidad de generación los siguientes circuitos:\n🔹Municipio Cifuentes:\n👉Ctos 114 y 117\n👉Ctos 116 y 155 Mata\n👉Cto 186 Batey Unidad Proletaria\n👉Cto 184 Sitio Grande",
-    "timestamp": 1764774136,
-    "timestamp_local": 1764774136
-  },
-  {
-    "id": 34979,
-    "fecha": "03 de Dec del 2025 a las 09:55 AM",
-    "hora_utc": "2025-12-03 14:55",
-    "mensaje": "Afectados 83 MW en la provincia, demanda máxima a apagar en estos momentos.",
-    "timestamp": 1764773703,
-    "timestamp_local": 1764773703
-  },
-  {
-    "id": 34978,
-    "fecha": "03 de Dec del 2025 a las 09:52 AM",
-    "hora_utc": "2025-12-03 14:52",
-    "mensaje": "⚠️Afectado por déficit de capacidad de generación los siguientes circuitos:\n🔹Municipio Camajuaní:\n👉Cto 75 La Quinta\n👉Cto 157 Luis Arcos Bergnes                                                                                                                                                                      \n👉Ctos 76 y 90 Vega Alta\n👉Ctos 77 y 185 Vueltas.",
-    "timestamp": 1764773570,
-    "timestamp_local": 1764773570
-  },
-  {
-    "id": 34977,
-    "fecha": "03 de Dec del 2025 a las 09:28 AM",
-    "hora_utc": "2025-12-03 14:28",
-    "mensaje": "⚠️Afectado por déficit de capacidad de generación los siguientes circuitos:\n🔹Municipio Santa Clara.\n👉Cto 167 (Virginia)\n👉Cto 170 (José Martí)",
-    "timestamp": 1764772111,
-    "timestamp_local": 1764772111
   }
 ]
