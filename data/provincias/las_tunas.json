@@ -1,5 +1,21 @@
 [
   {
+    "id": 17301,
+    "fecha": "04 de Dec del 2025 a las 09:27 AM",
+    "hora_utc": "2025-12-04 14:27",
+    "mensaje": "Debido a la actual situación energética del país, la provincia se mantiene operando bajo la máxima capacidad apagable.  Esto significa que todos los circuitos eléctricos que pueden ser desconectados temporalmente están siendo utilizados para mantener el equilibrio del sistema eléctrico nacional.",
+    "timestamp": 1764858436,
+    "timestamp_local": 1764858436
+  },
+  {
+    "id": 17299,
+    "fecha": "04 de Dec del 2025 a las 09:22 AM",
+    "hora_utc": "2025-12-04 14:22",
+    "mensaje": "**Nota Informativa: Estado del Sistema Eléctrico Nacional (SEN) – 4 de diciembre de 2025**\nEn el día de ayer se afectó el servicio durante las 24 horas. La máxima afectación por déficit de capacidad de generación en el día de ayer fue de 2152 MW a las 19:10 horas.\nLa producción de energía de los 33 nuevos parques solares fotovoltaicos fue de 1502 MWh, con 190 MW como máxima potencia entregada en el horario de la media con esta fuente de generación.\n**Estado actual del SEN**\nLa disponibilidad del SEN a las 06:00 horas es de 1250 MW y la demanda 2400 MW con 1112 MW afectados por déficit de capacidad. En el horario de la media se estima una afectación de 1200 MW.\n**Principales incidencias**\nAvería: Unidad 8 de la CTE Mariel, Unidad 2 de la CTE Santa Cruz, Unidades 1 y 2 de la CTE Felton y Unidad 5 de la CTE Renté.\nMantenimiento: Unidad 5 de la CTE Mariel, Unidad 2 de la CTE Santa Cruz, Unidad 4 de la CTE Carlos Manuel de Céspedes en Cienfuegos.\nLimitaciones en la generación térmica: 419 fuera de servicio.\nProblemas por falta de combustible\n80 centrales de generación distribuida con 716 MW.\n69 MW indisponibles por falta de lubricante.\nTotal de MW afectados por esta causa: 785 MW.\n**Pronóstico para el horario pico**\nPara el horario pico se espera la entrada de la unidad 8 de la CTE Mariel (en proceso de arranque) con 65 MW y la entrada de la unidad 1 de la CTE Felton con 125 MW.\nCon este pronóstico se prevé en el horario pico una disponibilidad de 1440 MW y una demanda máxima de 3200 MW, para un déficit de 1760 MW, por lo que de mantenerse las condiciones previstas se pronostica una afectación de 1830 MW en este horario.",
+    "timestamp": 1764858120,
+    "timestamp_local": 1764858120
+  },
+  {
     "id": 17296,
     "fecha": "03 de Dec del 2025 a las 10:25 PM",
     "hora_utc": "2025-12-04 03:25",
@@ -102,21 +118,5 @@
     "mensaje": "👉La Empresa Eléctrica de La Habana informó a través de sus diferentes canales que en la madrugada de hoy se produjo una desconexión del Sistema Electroenergético Nacional (SEN) de la parte occidental afectando varias provincias desde Cienfuegos hasta Pinar del Río y como resultado se produjo una afectación general en la Ciudad; no hay servicio eléctrico.\n\nLa Unión Eléctrica UNE investiga las causas para restablecer el servicio lo más pronto posible.\n\nAlrededor de las 5: 00 de esta mañana ocurrió una desconexión del SEN en la zona occidental. De Mayabeque a Pinar del Río.Ya se trabaja en la recuperación.— Ministerio de Energía y Minas de Cuba 🇨🇺 (@EnergiaMinasCub) [December 3, 2025](https://twitter.com/EnergiaMinasCub/status/1996177980566249793?ref_src=twsrc%5Etfw)",
     "timestamp": 1764763263,
     "timestamp_local": 1764763263
-  },
-  {
-    "id": 17279,
-    "fecha": "02 de Dec del 2025 a las 09:19 PM",
-    "hora_utc": "2025-12-03 02:19",
-    "mensaje": "Estimados clientes,\nLes informamos que, debido a la actual situación energética del país, nuestra provincia se encuentra operando bajo la máxima capacidad apagable. Esto significa que todos los circuitos eléctricos que pueden ser desconectados temporalmente están siendo utilizados para mantener el equilibrio del sistema nacional.",
-    "timestamp": 1764728395,
-    "timestamp_local": 1764728395
-  },
-  {
-    "id": 17278,
-    "fecha": "02 de Dec del 2025 a las 06:33 PM",
-    "hora_utc": "2025-12-02 23:33",
-    "mensaje": "La Empresa Eléctrica Las Tunas pone a disposición de sus clientes un Centro de Atención Telefónica con el objetivo de brindar asistencia y responder a sus inquietudes. Para asegurar un flujo eficiente de comunicación, el centro cuenta con 38 líneas de entrada, gestionadas por 6 operadores en cada turno de trabajo.\nCuando los 6 operadores se encuentran atendiendo llamadas simultáneamente, las siguientes 32 llamadas entrantes son colocadas en una cola de espera, donde una operadora automática les informa que serán atendidas a la brevedad, acompañando la espera con música. En esta situación, se requiere paciencia por parte del cliente hasta que un operador se desocupe y su llamada sea transferida automáticamente. Sin embargo, el sistema tiene un límite. A partir de la llamada número 39, todas las líneas de entrada estarán ocupadas, lo que resultará en una señal de \"ocupado\" para el cliente. En este caso, para lograr contactar al centro, el cliente deberá intentar la llamada nuevamente hasta que una línea quede disponible. La Empresa Eléctrica Las Tunas trabaja continuamente para optimizar este servicio y agradece su comprensión.",
-    "timestamp": 1764718405,
-    "timestamp_local": 1764718405
   }
 ]
