@@ -1,5 +1,21 @@
 [
   {
+    "id": 35042,
+    "fecha": "04 de Dec del 2025 a las 04:10 AM",
+    "hora_utc": "2025-12-04 09:10",
+    "mensaje": "⚠️Afectado por déficit de capacidad de generación los siguientes circuitos:\n🔹Municipio Santa Clara:\n👉Ctos 37 y 38 (Yabú)   \n👉Cto 9 (Moldes y Troqueles)",
+    "timestamp": 1764839400,
+    "timestamp_local": 1764839400
+  },
+  {
+    "id": 35041,
+    "fecha": "04 de Dec del 2025 a las 04:04 AM",
+    "hora_utc": "2025-12-04 09:04",
+    "mensaje": "⚠️Afectado por déficit de capacidad de generación los siguientes circuitos:\n🔹Municipio Manicaragua\n👉Cto 111(Matagua)",
+    "timestamp": 1764839080,
+    "timestamp_local": 1764839080
+  },
+  {
     "id": 35040,
     "fecha": "04 de Dec del 2025 a las 03:54 AM",
     "hora_utc": "2025-12-04 08:54",
@@ -126,21 +142,5 @@
     "mensaje": "💡Restablecido el servicio eléctrico en los siguientes circuitos:\n🔹Municipio Santa Clara:\n👉Cto 166 y 169 (Condado)",
     "timestamp": 1764807028,
     "timestamp_local": 1764807028
-  },
-  {
-    "id": 35022,
-    "fecha": "03 de Dec del 2025 a las 06:56 PM",
-    "hora_utc": "2025-12-03 23:56",
-    "mensaje": "Afectados 164 MW en la provincia, demanda máxima a apagar en estos momentos.",
-    "timestamp": 1764806200,
-    "timestamp_local": 1764806200
-  },
-  {
-    "id": 35021,
-    "fecha": "03 de Dec del 2025 a las 06:50 PM",
-    "hora_utc": "2025-12-03 23:50",
-    "mensaje": "💡Restablecido el servicio eléctrico en los siguientes circuitos:\n🔹Municipio Santa Clara\n👉Ctos 28 y 168( Monumento Che-Condado)",
-    "timestamp": 1764805833,
-    "timestamp_local": 1764805833
   }
 ]
