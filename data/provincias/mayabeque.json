@@ -1,5 +1,45 @@
 [
   {
+    "id": 99242,
+    "fecha": "04 de Dec del 2025 a las 06:00 AM",
+    "hora_utc": "2025-12-04 11:00",
+    "mensaje": "♦️ Afectado el servicio en el siguiente circuito:\n*3135 ♦️",
+    "timestamp": 1764846018,
+    "timestamp_local": 1764846018
+  },
+  {
+    "id": 99241,
+    "fecha": "04 de Dec del 2025 a las 05:59 AM",
+    "hora_utc": "2025-12-04 10:59",
+    "mensaje": "🔷 Restablecido el servicio en los siguientes circuitos:\n*3130\n*3140🔷",
+    "timestamp": 1764845997,
+    "timestamp_local": 1764845997
+  },
+  {
+    "id": 99240,
+    "fecha": "04 de Dec del 2025 a las 05:57 AM",
+    "hora_utc": "2025-12-04 10:57",
+    "mensaje": "🔷 Restablecido el servicio en los siguientes circuitos:\n*4105\n*4110🔷",
+    "timestamp": 1764845860,
+    "timestamp_local": 1764845860
+  },
+  {
+    "id": 99239,
+    "fecha": "04 de Dec del 2025 a las 05:56 AM",
+    "hora_utc": "2025-12-04 10:56",
+    "mensaje": "🔷 Restablecido el servicio en el siguiente circuito:\n*Güines 1 🔷",
+    "timestamp": 1764845797,
+    "timestamp_local": 1764845797
+  },
+  {
+    "id": 99238,
+    "fecha": "04 de Dec del 2025 a las 05:56 AM",
+    "hora_utc": "2025-12-04 10:56",
+    "mensaje": "♦️ Afectado el servicio en los siguientes circuitos por avería:\n*3660\n*3655♦️",
+    "timestamp": 1764845775,
+    "timestamp_local": 1764845775
+  },
+  {
     "id": 99237,
     "fecha": "04 de Dec del 2025 a las 05:50 AM",
     "hora_utc": "2025-12-04 10:50",
@@ -118,45 +158,5 @@
     "mensaje": "🔷 Restablecido el servicio en los siguientes circuitos:\n*3655\n*3660 🔷",
     "timestamp": 1764818995,
     "timestamp_local": 1764818995
-  },
-  {
-    "id": 99222,
-    "fecha": "03 de Dec del 2025 a las 10:22 PM",
-    "hora_utc": "2025-12-04 03:22",
-    "mensaje": "🔷 Restablecido el servicio en el siguiente circuito:\n*Vegas 🔷",
-    "timestamp": 1764818565,
-    "timestamp_local": 1764818565
-  },
-  {
-    "id": 99221,
-    "fecha": "03 de Dec del 2025 a las 10:21 PM",
-    "hora_utc": "2025-12-04 03:21",
-    "mensaje": "🔷 Restablecido el servicio en el siguiente circuito:\n*Madruga 🔷",
-    "timestamp": 1764818503,
-    "timestamp_local": 1764818503
-  },
-  {
-    "id": 99220,
-    "fecha": "03 de Dec del 2025 a las 10:20 PM",
-    "hora_utc": "2025-12-04 03:20",
-    "mensaje": "🔷 Restablecido el servicio en los siguientes circuitos:\n*Los Palos\n*Sureste 🔷",
-    "timestamp": 1764818424,
-    "timestamp_local": 1764818424
-  },
-  {
-    "id": 99219,
-    "fecha": "03 de Dec del 2025 a las 09:59 PM",
-    "hora_utc": "2025-12-04 02:59",
-    "mensaje": "♦️ Afectado el servicio en los siguientes circuitos por avería:\n*Camacho 1 y 2 ♦️",
-    "timestamp": 1764817170,
-    "timestamp_local": 1764817170
-  },
-  {
-    "id": 99218,
-    "fecha": "03 de Dec del 2025 a las 09:58 PM",
-    "hora_utc": "2025-12-04 02:58",
-    "mensaje": "📣🚨Informamos a nuestros clientes que la zona occidental del Sistema Eléctrico Nacional se ha venido recuperando, pero se hace necesario tomar medidas para evitar otra desconexión. Por esta situación solo ha sido posible restablecer circuitos de servicios vitales , se ira restableciendo en la medida de lo posible y se comenzará por los circuitos con mayor tiempo de afectación🚨📣",
-    "timestamp": 1764817084,
-    "timestamp_local": 1764817084
   }
 ]
