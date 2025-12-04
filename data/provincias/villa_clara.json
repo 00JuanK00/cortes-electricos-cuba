@@ -1,5 +1,53 @@
 [
   {
+    "id": 35026,
+    "fecha": "03 de Dec del 2025 a las 07:26 PM",
+    "hora_utc": "2025-12-04 00:26",
+    "mensaje": "Afectados 184 MW en la provincia, demanda máxima a apagar en estos momentos.",
+    "timestamp": 1764808012,
+    "timestamp_local": 1764808012
+  },
+  {
+    "id": 35025,
+    "fecha": "03 de Dec del 2025 a las 07:24 PM",
+    "hora_utc": "2025-12-04 00:24",
+    "mensaje": "💡Restablecido el servicio eléctrico en los siguientes circuitos:\n🔹Municipio Santa Clara:\n👉Cto 6(Vigía)\n🔹Municipio Manicaragua\n👉Cto 111(Matagua)\n🔹Municipio Remedios\n👉Ctos 67 , 152, 68 y 118",
+    "timestamp": 1764807845,
+    "timestamp_local": 1764807845
+  },
+  {
+    "id": 35024,
+    "fecha": "03 de Dec del 2025 a las 07:21 PM",
+    "hora_utc": "2025-12-04 00:21",
+    "mensaje": "Afectados 198 MW en la provincia, demanda máxima a apagar en estos momentos.",
+    "timestamp": 1764807664,
+    "timestamp_local": 1764807664
+  },
+  {
+    "id": 35023,
+    "fecha": "03 de Dec del 2025 a las 07:10 PM",
+    "hora_utc": "2025-12-04 00:10",
+    "mensaje": "💡Restablecido el servicio eléctrico en los siguientes circuitos:\n🔹Municipio Santa Clara:\n👉Cto 166 y 169 (Condado)",
+    "timestamp": 1764807028,
+    "timestamp_local": 1764807028
+  },
+  {
+    "id": 35022,
+    "fecha": "03 de Dec del 2025 a las 06:56 PM",
+    "hora_utc": "2025-12-03 23:56",
+    "mensaje": "Afectados 164 MW en la provincia, demanda máxima a apagar en estos momentos.",
+    "timestamp": 1764806200,
+    "timestamp_local": 1764806200
+  },
+  {
+    "id": 35021,
+    "fecha": "03 de Dec del 2025 a las 06:50 PM",
+    "hora_utc": "2025-12-03 23:50",
+    "mensaje": "💡Restablecido el servicio eléctrico en los siguientes circuitos:\n🔹Municipio Santa Clara\n👉Ctos 28 y 168( Monumento Che-Condado)",
+    "timestamp": 1764805833,
+    "timestamp_local": 1764805833
+  },
+  {
     "id": 35020,
     "fecha": "03 de Dec del 2025 a las 06:45 PM",
     "hora_utc": "2025-12-03 23:45",
@@ -110,53 +158,5 @@
     "mensaje": "⚠️Afectado por déficit de capacidad de generación los siguientes circuitos:\n🔹Municipio Santa Clara\n👉Cto 22 (Construcciones Textil)\n👉Cto 14 y 27 (Maleza)",
     "timestamp": 1764789672,
     "timestamp_local": 1764789672
-  },
-  {
-    "id": 35006,
-    "fecha": "03 de Dec del 2025 a las 02:15 PM",
-    "hora_utc": "2025-12-03 19:15",
-    "mensaje": "⚠️Afectado por déficit de capacidad de generación los siguientes circuitos:\n🔹Municipio Placetas:\n👉Cto 101 y 145 Cumbre",
-    "timestamp": 1764789317,
-    "timestamp_local": 1764789317
-  },
-  {
-    "id": 35005,
-    "fecha": "03 de Dec del 2025 a las 02:13 PM",
-    "hora_utc": "2025-12-03 19:13",
-    "mensaje": "⚠️Afectado por déficit de capacidad de generación los siguientes circuitos:\n🔹Municipio Ranchuelo: \n👉Ctos 89, 97, 188 y 189\n👉Ctos 148 y 149 San Juan\n👉Cto 91 Batey Osvaldo Herrera\n👉Cto 181 Batey Ifraín Alfonso",
-    "timestamp": 1764789233,
-    "timestamp_local": 1764789233
-  },
-  {
-    "id": 35004,
-    "fecha": "03 de Dec del 2025 a las 02:12 PM",
-    "hora_utc": "2025-12-03 19:12",
-    "mensaje": "🔸Actualización del servicio eléctrico en la provincia🔸\n✍️Se mantienen afectados en la provincia 117 circuitos.\n✍️En el momento de hacer esta nota la provincia tiene 82 MW por déficit de capacidad de generación.\n✍️Cuenta con 106 afectaciones  por averías secundarias y de servicio.",
-    "timestamp": 1764789127,
-    "timestamp_local": 1764789127
-  },
-  {
-    "id": 35003,
-    "fecha": "03 de Dec del 2025 a las 02:03 PM",
-    "hora_utc": "2025-12-03 19:03",
-    "mensaje": "⚠️Afectado por déficit de capacidad de generación los siguientes circuitos:\n🔹Municipio Santo Domingo:\n👉Cto 134\n👉Ctos 87 y 96 Bermejal\n👉Cto 187 Batey Carlos Baliño\n👉Cto 82 Ulaci\n👉Cto 84 Rodrigo",
-    "timestamp": 1764788592,
-    "timestamp_local": 1764788592
-  },
-  {
-    "id": 35002,
-    "fecha": "03 de Dec del 2025 a las 01:47 PM",
-    "hora_utc": "2025-12-03 18:47",
-    "mensaje": "Afectados 100 MW en la provincia, demanda máxima a apagar en estos momentos.",
-    "timestamp": 1764787667,
-    "timestamp_local": 1764787667
-  },
-  {
-    "id": 35001,
-    "fecha": "03 de Dec del 2025 a las 01:41 PM",
-    "hora_utc": "2025-12-03 18:41",
-    "mensaje": "💡Restablecido el servicio eléctrico en su totalidad el Cto 164 perteneciente al municipio de Quemado.",
-    "timestamp": 1764787308,
-    "timestamp_local": 1764787308
   }
 ]
