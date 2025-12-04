@@ -1,5 +1,21 @@
 [
   {
+    "id": 34113,
+    "fecha": "04 de Dec del 2025 a las 02:30 PM",
+    "hora_utc": "2025-12-04 19:30",
+    "mensaje": "‼️ Información ‼️   \n👉En estos momentos tenemos 80 MW en la provincia afectados por déficit de generación. Con este déficit no podemos cumplir con una programación estable, por lo que los circuitos se afectarán o se restablecerán en dependencia del déficit que haya en cada momento de la jornada.",
+    "timestamp": 1764876648,
+    "timestamp_local": 1764876648
+  },
+  {
+    "id": 34112,
+    "fecha": "04 de Dec del 2025 a las 02:30 PM",
+    "hora_utc": "2025-12-04 19:30",
+    "mensaje": "🔊Información🔊\n✅Se restablece el servicio eléctrico en el circuito 2.",
+    "timestamp": 1764876612,
+    "timestamp_local": 1764876612
+  },
+  {
     "id": 34111,
     "fecha": "04 de Dec del 2025 a las 01:20 PM",
     "hora_utc": "2025-12-04 18:20",
@@ -126,21 +142,5 @@
     "mensaje": "‼️ Información del déficit de generación ‼️   \n👉Tenemos 87 MW en la provincia afectados por déficit de generación.\n⏰ Con este déficit, la carga a apagar en la provincia no nos permite realizar una rotación estable de los circuitos, por lo que se afectarán o se restablecerán en dependencia del déficit que haya en cada momento de la jornada, que es muy variable.",
     "timestamp": 1764809304,
     "timestamp_local": 1764809304
-  },
-  {
-    "id": 34093,
-    "fecha": "03 de Dec del 2025 a las 06:30 PM",
-    "hora_utc": "2025-12-03 23:30",
-    "mensaje": "‼️ Información del déficit de generación ‼️   \n👉Continuamos con 100 MW en la provincia afectados por déficit de generación.\n⏰ Con este déficit, la carga a apagar en la provincia no nos permite realizar una rotación estable de los circuitos, por lo que se afectarán o se restablecerán en dependencia del déficit que haya en cada momento de la jornada, que es muy variable.",
-    "timestamp": 1764804628,
-    "timestamp_local": 1764804628
-  },
-  {
-    "id": 34092,
-    "fecha": "03 de Dec del 2025 a las 05:23 PM",
-    "hora_utc": "2025-12-03 22:23",
-    "mensaje": "🔉Información:\n👉 Restablecido el servicio telefónico del ☎️18888.",
-    "timestamp": 1764800599,
-    "timestamp_local": 1764800599
   }
 ]
