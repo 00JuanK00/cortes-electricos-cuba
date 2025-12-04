@@ -1,5 +1,21 @@
 [
   {
+    "id": 34095,
+    "fecha": "03 de Dec del 2025 a las 09:17 PM",
+    "hora_utc": "2025-12-04 02:17",
+    "mensaje": "‼️ Información del déficit de generación ‼️   \n👉Tenemos 87 MW en la provincia afectados por déficit de generación.\n⏰ Con este déficit, la carga a apagar en la provincia no nos permite realizar una rotación estable de los circuitos, por lo que se afectarán o se restablecerán en dependencia del déficit que haya en cada momento de la jornada, que es muy variable.",
+    "timestamp": 1764814621,
+    "timestamp_local": 1764814621
+  },
+  {
+    "id": 34094,
+    "fecha": "03 de Dec del 2025 a las 07:48 PM",
+    "hora_utc": "2025-12-04 00:48",
+    "mensaje": "‼️ Información del déficit de generación ‼️   \n👉Tenemos 87 MW en la provincia afectados por déficit de generación.\n⏰ Con este déficit, la carga a apagar en la provincia no nos permite realizar una rotación estable de los circuitos, por lo que se afectarán o se restablecerán en dependencia del déficit que haya en cada momento de la jornada, que es muy variable.",
+    "timestamp": 1764809304,
+    "timestamp_local": 1764809304
+  },
+  {
     "id": 34093,
     "fecha": "03 de Dec del 2025 a las 06:30 PM",
     "hora_utc": "2025-12-03 23:30",
@@ -126,13 +142,5 @@
     "mensaje": "✅ 📍Se encuentran afectados por el DAF los circuitos: 📍\n\n\n👉  La Ofelia, El Burro, La Teresa, Sanguily.\n❌Un Disparo Automático por Frecuencia (DAF) es una protección que posee el sistema eléctrico para cuando la frecuencia llega a valores mínimos permisibles que ponen en peligro la estabilidad de todo el sistema en su conjunto y provoca una desconexión automática de algunos circuitos hasta que esta vuelva a recuperar su valor nominal a 60 Hz o ciclos por segundo. Esto ocurre al salir de forma imprevista o repentina una planta generadora con una potencia determinada y el sistema en su conjunto necesita liberar esa carga hasta tanto se puedan recuperar la potencia de generación perdida anteriormente o dar las afectaciones al servicio por déficit de generación.",
     "timestamp": 1764757077,
     "timestamp_local": 1764757077
-  },
-  {
-    "id": 34075,
-    "fecha": "03 de Dec del 2025 a las 05:16 AM",
-    "hora_utc": "2025-12-03 10:16",
-    "mensaje": "✅‼️ Déficit de Generación ‼️   \n👉Tenemos 70 MW en la provincia afectados por déficit de generación.\n⏰ Reiteramos que los circuitos se afectarán o se restablecerán en dependencia del déficit en cada momento de la jornada, que es muy variable.",
-    "timestamp": 1764756961,
-    "timestamp_local": 1764756961
   }
 ]
