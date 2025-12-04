@@ -1,5 +1,45 @@
 [
   {
+    "id": 99254,
+    "fecha": "04 de Dec del 2025 a las 10:43 AM",
+    "hora_utc": "2025-12-04 15:43",
+    "mensaje": "📣🚨Informamos a nuestros clientes que la zona occidental del Sistema Eléctrico Nacional se ha venido recuperando. Se toman todas las medidas para evitar otra desconexión. Por esta situación se ha ido restableciendo circuitos de servicios vitales. En la medida que el sistema eléctrico lo permita se restablecerán los circuitos con mayor tiempo de afectación. Sugerimos a nuestros clientes mantenerse informados por los canales oficiales 🚨📣",
+    "timestamp": 1764863004,
+    "timestamp_local": 1764863004
+  },
+  {
+    "id": 99253,
+    "fecha": "04 de Dec del 2025 a las 10:29 AM",
+    "hora_utc": "2025-12-04 15:29",
+    "mensaje": "♦️ Afectado el servicio en el siguiente circuito:\n*Güines 3 ♦️",
+    "timestamp": 1764862194,
+    "timestamp_local": 1764862194
+  },
+  {
+    "id": 99252,
+    "fecha": "04 de Dec del 2025 a las 10:29 AM",
+    "hora_utc": "2025-12-04 15:29",
+    "mensaje": "🔷 Restablecido el servicio en los siguientes circuitos:\n*Nazareno\n*Menocal\n*Babiney 🔷",
+    "timestamp": 1764862164,
+    "timestamp_local": 1764862164
+  },
+  {
+    "id": 99251,
+    "fecha": "04 de Dec del 2025 a las 10:15 AM",
+    "hora_utc": "2025-12-04 15:15",
+    "mensaje": "🔷 Restablecido el servicio en los siguientes circuitos:\n*2420\n*2440🔷",
+    "timestamp": 1764861328,
+    "timestamp_local": 1764861328
+  },
+  {
+    "id": 99250,
+    "fecha": "04 de Dec del 2025 a las 10:03 AM",
+    "hora_utc": "2025-12-04 15:03",
+    "mensaje": "🔷 Restablecido el servicio en el circuito 3140 que se encontraba afectado por disparo por DAF🔷",
+    "timestamp": 1764860595,
+    "timestamp_local": 1764860595
+  },
+  {
     "id": 99249,
     "fecha": "04 de Dec del 2025 a las 09:33 AM",
     "hora_utc": "2025-12-04 14:33",
@@ -102,53 +142,5 @@
     "mensaje": "♦️ Afectado el servicio en los siguientes circuitos por avería:\n*Catalina 1 y 2 ♦️",
     "timestamp": 1764845063,
     "timestamp_local": 1764845063
-  },
-  {
-    "id": 99235,
-    "fecha": "04 de Dec del 2025 a las 05:41 AM",
-    "hora_utc": "2025-12-04 10:41",
-    "mensaje": "♦️ Afectado el servicio en los siguientes circuitos por avería:\n*1657\n*Bío 2♦️",
-    "timestamp": 1764844887,
-    "timestamp_local": 1764844887
-  },
-  {
-    "id": 99234,
-    "fecha": "04 de Dec del 2025 a las 05:40 AM",
-    "hora_utc": "2025-12-04 10:40",
-    "mensaje": "🔷 Restablecido el servicio en los siguientes circuitos:\n*1790\n*Bío 1🔷",
-    "timestamp": 1764844852,
-    "timestamp_local": 1764844852
-  },
-  {
-    "id": 99233,
-    "fecha": "04 de Dec del 2025 a las 05:38 AM",
-    "hora_utc": "2025-12-04 10:38",
-    "mensaje": "♦️ Afectado el servicio en el siguiente circuito:\n*Batabanó ♦️",
-    "timestamp": 1764844717,
-    "timestamp_local": 1764844717
-  },
-  {
-    "id": 99232,
-    "fecha": "04 de Dec del 2025 a las 05:27 AM",
-    "hora_utc": "2025-12-04 10:27",
-    "mensaje": "♦️ Afectado el servicio en el siguiente circuito:\n*3665♦️",
-    "timestamp": 1764844054,
-    "timestamp_local": 1764844054
-  },
-  {
-    "id": 99231,
-    "fecha": "04 de Dec del 2025 a las 12:22 AM",
-    "hora_utc": "2025-12-04 05:22",
-    "mensaje": "🔷 Restablecido el servicio en el siguiente circuito:\n*Batabanó 🔷",
-    "timestamp": 1764825749,
-    "timestamp_local": 1764825749
-  },
-  {
-    "id": 99230,
-    "fecha": "04 de Dec del 2025 a las 12:03 AM",
-    "hora_utc": "2025-12-04 05:03",
-    "mensaje": "🔷 Restablecido el servicio en el siguiente circuito:\n*Bío 2🔷",
-    "timestamp": 1764824593,
-    "timestamp_local": 1764824593
   }
 ]
