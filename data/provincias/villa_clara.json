@@ -1,5 +1,21 @@
 [
   {
+    "id": 35040,
+    "fecha": "04 de Dec del 2025 a las 03:54 AM",
+    "hora_utc": "2025-12-04 08:54",
+    "mensaje": "🔸Actualización del servicio eléctrico en la provincia🔸\n✍️Se mantienen afectados en la provincia 101 circuitos.\n✍️En el momento de hacer esta nota la provincia tiene 66 MW por déficit de capacidad de generación.\n✍️Cuenta con 62 afectaciones  por averías secundarias y de servicio.",
+    "timestamp": 1764838458,
+    "timestamp_local": 1764838458
+  },
+  {
+    "id": 35038,
+    "fecha": "04 de Dec del 2025 a las 03:51 AM",
+    "hora_utc": "2025-12-04 08:51",
+    "mensaje": "Afectados 66 MW en la provincia, demanda máxima a apagar en estos momentos.",
+    "timestamp": 1764838317,
+    "timestamp_local": 1764838317
+  },
+  {
     "id": 35037,
     "fecha": "04 de Dec del 2025 a las 02:20 AM",
     "hora_utc": "2025-12-04 07:20",
@@ -126,29 +142,5 @@
     "mensaje": "💡Restablecido el servicio eléctrico en los siguientes circuitos:\n🔹Municipio Santa Clara\n👉Ctos 28 y 168( Monumento Che-Condado)",
     "timestamp": 1764805833,
     "timestamp_local": 1764805833
-  },
-  {
-    "id": 35020,
-    "fecha": "03 de Dec del 2025 a las 06:45 PM",
-    "hora_utc": "2025-12-03 23:45",
-    "mensaje": "🟢 16:31 || En línea la Unidad 6 de Energás Jaruco, subiendo carga.",
-    "timestamp": 1764805520,
-    "timestamp_local": 1764805520
-  },
-  {
-    "id": 35019,
-    "fecha": "03 de Dec del 2025 a las 06:26 PM",
-    "hora_utc": "2025-12-03 23:26",
-    "mensaje": "🕕Actualización del servicio eléctrico en las últimas 6 horas.\n✍️El déficit de capacidad de generación osciló entre los 82 MW y los 141 MW.\n✍️En el momento de esta nota, se mantienen afectados 121 circuitos.\n✍️Cuenta con 100 afectaciones por averías secundarias y de servicio:\n🔸Corralillo (1)\n🔸Manicaragua (12)\n🔸Placetas (6)\n🔸Remedios (10) \n🔸Sagua (11) \n🔸Santa Clara (37)\n🔸Santo Domingo (2)\n🛠️Se encuentra 3 avería en vías de solución.\n🛠️Pendientes a solucionar por el área técnica 18.\n✅ La provincia no presenta averías primarias en este momento.",
-    "timestamp": 1764804376,
-    "timestamp_local": 1764804376
-  },
-  {
-    "id": 35018,
-    "fecha": "03 de Dec del 2025 a las 06:16 PM",
-    "hora_utc": "2025-12-03 23:16",
-    "mensaje": "Afectados 141 MW en la provincia, demanda máxima a apagar en estos momentos.",
-    "timestamp": 1764803772,
-    "timestamp_local": 1764803772
   }
 ]
