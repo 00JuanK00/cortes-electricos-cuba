@@ -1,5 +1,21 @@
 [
   {
+    "id": 46891,
+    "fecha": "04 de Dec del 2025 a las 04:36 PM",
+    "hora_utc": "2025-12-04 21:36",
+    "mensaje": "🔉Estimados clientes se le informa que en estos momentos están afectados por Déficit de Capacidad de Generación el circuito 12 de Santiago y la línea 5380 Mella,disculpen por las molestias ocasionadas.",
+    "timestamp": 1764884192,
+    "timestamp_local": 1764884192
+  },
+  {
+    "id": 46890,
+    "fecha": "04 de Dec del 2025 a las 04:13 PM",
+    "hora_utc": "2025-12-04 21:13",
+    "mensaje": "🔉Estimados clientes se le informa que en estos momentos están afectados por Déficit de Capacidad de Generación el circuito 25 de Santiago y la línea 5385 San Luis.",
+    "timestamp": 1764882808,
+    "timestamp_local": 1764882808
+  },
+  {
     "id": 46889,
     "fecha": "04 de Dec del 2025 a las 03:07 PM",
     "hora_utc": "2025-12-04 20:07",
@@ -126,13 +142,5 @@
     "mensaje": "Déficit de Capacidad de Generación:  \nSe produce cuando la demanda del Sistema Eléctrico Nacional, en determinado horario del día, supera la generación disponible del país, provocando la desconexión de los circuitos o líneas que permitan garantizar la frecuencia del SEN.",
     "timestamp": 1764827931,
     "timestamp_local": 1764827931
-  },
-  {
-    "id": 46870,
-    "fecha": "03 de Dec del 2025 a las 10:32 PM",
-    "hora_utc": "2025-12-04 03:32",
-    "mensaje": "Circuito en avería:                                                                                                                        \n Sucede si un circuito se interrumpe por causa de un defecto en un cable conductor de corriente (fase o neutro), un fusible fundido o disyuntor. En sistemas trifásicos una falla puede implicar una fase, más de una fase con la tierra o puede ocurrir solo entre fases.",
-    "timestamp": 1764819123,
-    "timestamp_local": 1764819123
   }
 ]
