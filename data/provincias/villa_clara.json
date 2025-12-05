@@ -1,5 +1,29 @@
 [
   {
+    "id": 35149,
+    "fecha": "05 de Dec del 2025 a las 02:44 PM",
+    "hora_utc": "2025-12-05 19:44",
+    "mensaje": "💡Con servicio la línea 1915:\n🔹Municipio Placetas:\n👉Cto 192 Benito Juárez\n👉Cto 102 Peroti",
+    "timestamp": 1764963875,
+    "timestamp_local": 1764963875
+  },
+  {
+    "id": 35148,
+    "fecha": "05 de Dec del 2025 a las 02:38 PM",
+    "hora_utc": "2025-12-05 19:38",
+    "mensaje": "🛠️Afectada por DAF (Disparo Automático por Frecuencia), la línea 1915:\nAfecta los siguientes circuitos:\n🔹Municipio Placetas:\n👉Cto 192 Benito Juárez\n👉Cto 102 Peroti",
+    "timestamp": 1764963481,
+    "timestamp_local": 1764963481
+  },
+  {
+    "id": 35147,
+    "fecha": "05 de Dec del 2025 a las 02:04 PM",
+    "hora_utc": "2025-12-05 19:04",
+    "mensaje": "⚠️Afectados por déficit de capacidad de generación los siguientes circuitos:\n🔹Municipio Quemado:\n👉Ctos 164, 52 y 53 Quemado.\n👉Cto 196 Batey Panchito Gómez Toro.",
+    "timestamp": 1764961469,
+    "timestamp_local": 1764961469
+  },
+  {
     "id": 35146,
     "fecha": "05 de Dec del 2025 a las 02:00 PM",
     "hora_utc": "2025-12-05 19:00",
@@ -126,29 +150,5 @@
     "mensaje": "💡Con servicio la línea 1205:\n🔹Municipio Sagua\n👉Cto 43 y 51 Sagua (Déficit)\n👉Cto 50 Sagua\n👉Cto 44 Isabela\n👉Cto 147 Villa Alegre",
     "timestamp": 1764942453,
     "timestamp_local": 1764942453
-  },
-  {
-    "id": 35128,
-    "fecha": "05 de Dec del 2025 a las 08:43 AM",
-    "hora_utc": "2025-12-05 13:43",
-    "mensaje": "🛠️Manipulación de la línea 1205:\nAfecta los siguientes circuitos:\n🔹Municipio Sagua\n👉Cto 43 y 51 Sagua (Déficit)\n👉Cto 50 Sagua\n👉Cto 44 Isabela\n👉Cto 147 Villa Alegre (Déficit )",
-    "timestamp": 1764942193,
-    "timestamp_local": 1764942193
-  },
-  {
-    "id": 35127,
-    "fecha": "05 de Dec del 2025 a las 08:30 AM",
-    "hora_utc": "2025-12-05 13:30",
-    "mensaje": "⚡Se encuentran afectados por disparo los circuitos 58 y 159 perteneciente al municipio de Corralillo. Se estudian las causas.",
-    "timestamp": 1764941456,
-    "timestamp_local": 1764941456
-  },
-  {
-    "id": 35126,
-    "fecha": "05 de Dec del 2025 a las 08:01 AM",
-    "hora_utc": "2025-12-05 13:01",
-    "mensaje": "🔸Actualización del servicio eléctrico en la provincia🔸\n✍️Se mantienen afectados en la provincia 150 circuitos.\n✍️En el momento de hacer esta nota la provincia tiene 109 MW por déficit de capacidad de generación.\n✍️Cuenta con 89 afectaciones  por averías secundarias y de servicio.",
-    "timestamp": 1764939689,
-    "timestamp_local": 1764939689
   }
 ]

@@ -1,5 +1,21 @@
 [
   {
+    "id": 99391,
+    "fecha": "05 de Dec del 2025 a las 02:37 PM",
+    "hora_utc": "2025-12-05 19:37",
+    "mensaje": "♦️Afectado el servicio en el circuito 3140 por disparo por DAF♦️",
+    "timestamp": 1764963479,
+    "timestamp_local": 1764963479
+  },
+  {
+    "id": 99390,
+    "fecha": "05 de Dec del 2025 a las 02:18 PM",
+    "hora_utc": "2025-12-05 19:18",
+    "mensaje": "🔷Restablecido el servicio en el circuito 3140 que se encontraba afectado por disparo por DAF🔷",
+    "timestamp": 1764962292,
+    "timestamp_local": 1764962292
+  },
+  {
     "id": 99388,
     "fecha": "05 de Dec del 2025 a las 01:33 PM",
     "hora_utc": "2025-12-05 18:33",
@@ -131,32 +147,8 @@
     "id": 99372,
     "fecha": "05 de Dec del 2025 a las 12:57 PM",
     "hora_utc": "2025-12-05 17:57",
-    "mensaje": "🚨Por déficit de capacidad de generación se afecta el servicio en el siguiente circuito:\n*3655🚨",
+    "mensaje": "🚨Por déficit de capacidad de generación se afecta el servicio en los siguientes circuitos:\n*3655\n*Güines 1🚨",
     "timestamp": 1764957463,
     "timestamp_local": 1764957463
-  },
-  {
-    "id": 99371,
-    "fecha": "05 de Dec del 2025 a las 12:57 PM",
-    "hora_utc": "2025-12-05 17:57",
-    "mensaje": "🔷♦️Se restablece el servicio en los circuitos que se encontraban afectados por déficit de capacidad de generación:\n*Los Palos\n*Sureste♦️🔷",
-    "timestamp": 1764957456,
-    "timestamp_local": 1764957456
-  },
-  {
-    "id": 99370,
-    "fecha": "05 de Dec del 2025 a las 12:55 PM",
-    "hora_utc": "2025-12-05 17:55",
-    "mensaje": "🔷Restablecido el servicio en el circuito 3140 que se encontraba afectado por disparo por DAF🔷",
-    "timestamp": 1764957304,
-    "timestamp_local": 1764957304
-  },
-  {
-    "id": 99369,
-    "fecha": "05 de Dec del 2025 a las 12:49 PM",
-    "hora_utc": "2025-12-05 17:49",
-    "mensaje": "🔷♦️Se restablece el servicio en el siguiente circuito que se encontraba afectado por déficit de capacidad de generación: \n*Nueva Paz 🔷♦️",
-    "timestamp": 1764956987,
-    "timestamp_local": 1764956987
   }
 ]
