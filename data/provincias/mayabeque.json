@@ -1,5 +1,29 @@
 [
   {
+    "id": 99313,
+    "fecha": "05 de Dec del 2025 a las 05:45 AM",
+    "hora_utc": "2025-12-05 10:45",
+    "mensaje": "🔷 Restablecido el servicio en los siguientes circuitos:\n*3660\n*3655🔷",
+    "timestamp": 1764931548,
+    "timestamp_local": 1764931548
+  },
+  {
+    "id": 99312,
+    "fecha": "05 de Dec del 2025 a las 05:44 AM",
+    "hora_utc": "2025-12-05 10:44",
+    "mensaje": "♦️ Afectado el servicio en el siguiente circuito:\n*3665♦️",
+    "timestamp": 1764931499,
+    "timestamp_local": 1764931499
+  },
+  {
+    "id": 99311,
+    "fecha": "05 de Dec del 2025 a las 05:41 AM",
+    "hora_utc": "2025-12-05 10:41",
+    "mensaje": "🔷 Restablecido el servicio en el circuito Aguacate que se encontraba afectado por disparo en las líneas 🔷\n\n♦️ Quedando afectado el servicio en la siguiente  zona por avería :\n*Antonio ♦️",
+    "timestamp": 1764931315,
+    "timestamp_local": 1764931315
+  },
+  {
     "id": 99306,
     "fecha": "05 de Dec del 2025 a las 01:22 AM",
     "hora_utc": "2025-12-05 06:22",
@@ -94,29 +118,5 @@
     "mensaje": "♦️ Afectado el servicio en el circuito 3140 por disparo por DAF♦️",
     "timestamp": 1764903903,
     "timestamp_local": 1764903903
-  },
-  {
-    "id": 99293,
-    "fecha": "04 de Dec del 2025 a las 09:24 PM",
-    "hora_utc": "2025-12-05 02:24",
-    "mensaje": "🔷 Restablecido el servicio en los siguientes circuitos:\n*Catalina 1 y 2🔷",
-    "timestamp": 1764901479,
-    "timestamp_local": 1764901479
-  },
-  {
-    "id": 99292,
-    "fecha": "04 de Dec del 2025 a las 09:16 PM",
-    "hora_utc": "2025-12-05 02:16",
-    "mensaje": "♦️ Afectado el servicio en los siguientes circuitos:\n*6 y 8 de San José\n*2 de San José ♦️",
-    "timestamp": 1764900990,
-    "timestamp_local": 1764900990
-  },
-  {
-    "id": 99290,
-    "fecha": "04 de Dec del 2025 a las 07:42 PM",
-    "hora_utc": "2025-12-05 00:42",
-    "mensaje": "🔷 Restablecido el servicio en el siguiente circuito que se encontraba afectado por disparo: Ganuza\nQuedando afectado:\n*Micaela\n*Renté\n*Rosafé\n*La Comandancia\n*Valle Grande 🔷",
-    "timestamp": 1764895351,
-    "timestamp_local": 1764895351
   }
 ]
