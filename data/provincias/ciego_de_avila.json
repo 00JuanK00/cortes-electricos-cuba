@@ -1,5 +1,21 @@
 [
   {
+    "id": 34124,
+    "fecha": "04 de Dec del 2025 a las 10:58 PM",
+    "hora_utc": "2025-12-05 03:58",
+    "mensaje": "❌Un Disparo Automático por Frecuencia (DAF) es una protección que posee el sistema eléctrico para cuando la frecuencia llega a valores mínimos permisibles que ponen en peligro la estabilidad de todo el sistema en su conjunto y provoca una desconexión automática de algunos circuitos hasta que esta vuelva a recuperar su valor nominal a 60 Hz o ciclos por segundo. Esto ocurre al salir de forma imprevista o repentina una planta generadora con una potencia determinada y el sistema en su conjunto necesita liberar esa carga hasta tanto se puedan recuperar la potencia de generación perdida anteriormente o dar las afectaciones al servicio por déficit de generación.",
+    "timestamp": 1764907095,
+    "timestamp_local": 1764907095
+  },
+  {
+    "id": 34123,
+    "fecha": "04 de Dec del 2025 a las 10:56 PM",
+    "hora_utc": "2025-12-05 03:56",
+    "mensaje": "✅ 📍Se encuentran afectados por el DAF los circuitos: 📍\n\n\n👉  La Ofelia, El Burro, La Teresa, Sanguily, Nereida, Peonía, Politécnico de Informática.",
+    "timestamp": 1764906998,
+    "timestamp_local": 1764906998
+  },
+  {
     "id": 34122,
     "fecha": "04 de Dec del 2025 a las 10:37 PM",
     "hora_utc": "2025-12-05 03:37",
@@ -126,21 +142,5 @@
     "mensaje": "✅ Información.\n👉 Se encuentra en fallo el circuito Cítrico II, Isaca, se trabaja para restablecer el servicio en el menor tiempo posible.",
     "timestamp": 1764861330,
     "timestamp_local": 1764861330
-  },
-  {
-    "id": 34104,
-    "fecha": "04 de Dec del 2025 a las 09:48 AM",
-    "hora_utc": "2025-12-04 14:48",
-    "mensaje": "‼️ Déficit de Generación ‼️   \n👉Nos mantenemos con 60 MW en la provincia afectados por déficit de generación.\n💥Están afectado los siguientes circuitos:\n👉 Ranchuelo, Nereida, Peonia, Politécnico de Informática, Chambas, Los Perros, El Asiento y Punta Alegre.\n\n⏰ Reiteramos que los circuitos se afectarán o se restablecerán en dependencia del déficit en cada momento de la jornada, que es muy variable.",
-    "timestamp": 1764859703,
-    "timestamp_local": 1764859703
-  },
-  {
-    "id": 34103,
-    "fecha": "04 de Dec del 2025 a las 09:32 AM",
-    "hora_utc": "2025-12-04 14:32",
-    "mensaje": "🔊Información🔊\n\nSe está realizando un trabajo de inversiones en el Circuito 1, en Independencia entre 5ta y Carretera Central y lugares aledaños, se trabaja para restablecer en el menor tiempo posible.",
-    "timestamp": 1764858750,
-    "timestamp_local": 1764858750
   }
 ]
