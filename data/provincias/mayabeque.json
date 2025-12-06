@@ -1,5 +1,29 @@
 [
   {
+    "id": 99492,
+    "fecha": "06 de Dec del 2025 a las 10:30 AM",
+    "hora_utc": "2025-12-06 15:30",
+    "mensaje": "🔷 Restablecido el servicio en el circuito de Ganuza que se encontraba afectado por Avería🔷",
+    "timestamp": 1765035021,
+    "timestamp_local": 1765035021
+  },
+  {
+    "id": 99491,
+    "fecha": "06 de Dec del 2025 a las 10:28 AM",
+    "hora_utc": "2025-12-06 15:28",
+    "mensaje": "🔷♦️Se restablece el servicio en los circuitos que se encontraban afectados por déficit de capacidad de generación:\n *Vedado ♦️🔷",
+    "timestamp": 1765034924,
+    "timestamp_local": 1765034924
+  },
+  {
+    "id": 99490,
+    "fecha": "06 de Dec del 2025 a las 10:07 AM",
+    "hora_utc": "2025-12-06 15:07",
+    "mensaje": "🚨Por déficit de capacidad de generación se afecta el servicio en el siguiente circuito:\n*Jamaica 🚨",
+    "timestamp": 1765033626,
+    "timestamp_local": 1765033626
+  },
+  {
     "id": 99489,
     "fecha": "06 de Dec del 2025 a las 09:30 AM",
     "hora_utc": "2025-12-06 14:30",
@@ -102,29 +126,5 @@
     "mensaje": "🚨Por déficit de capacidad de generación se afecta el servicio en el siguiente circuito:\n*2 de San José 🚨",
     "timestamp": 1765023337,
     "timestamp_local": 1765023337
-  },
-  {
-    "id": 99472,
-    "fecha": "06 de Dec del 2025 a las 07:12 AM",
-    "hora_utc": "2025-12-06 12:12",
-    "mensaje": "🚨Por déficit de capacidad de generación se afecta el servicio en los siguientes circuitos:\n*Melena 1y 2\n*Caamaño\n*Vedado\n*6 y 8 de San José 🚨",
-    "timestamp": 1765023157,
-    "timestamp_local": 1765023157
-  },
-  {
-    "id": 99471,
-    "fecha": "06 de Dec del 2025 a las 07:05 AM",
-    "hora_utc": "2025-12-06 12:05",
-    "mensaje": "🔷♦️Se restablece el servicio en el siguiente circuito que se encontraba afectado por déficit de capacidad de generación: \n*Batabanó 🔷♦️",
-    "timestamp": 1765022740,
-    "timestamp_local": 1765022740
-  },
-  {
-    "id": 99470,
-    "fecha": "06 de Dec del 2025 a las 07:01 AM",
-    "hora_utc": "2025-12-06 12:01",
-    "mensaje": "🔷Se restablece los siguientes circuitos que se encontraban afectados por disparo por DAF:\n*3590\n*3140🔷",
-    "timestamp": 1765022466,
-    "timestamp_local": 1765022466
   }
 ]
