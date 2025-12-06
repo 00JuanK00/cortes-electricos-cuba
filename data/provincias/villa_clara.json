@@ -1,5 +1,37 @@
 [
   {
+    "id": 35204,
+    "fecha": "06 de Dec del 2025 a las 12:39 PM",
+    "hora_utc": "2025-12-06 17:39",
+    "mensaje": "⚠️Disparada por DAF la línea del 1915:\nMunicipio Placetas:\n👉Cto 192 Benito Juárez\n👉Cto 102 Peroti",
+    "timestamp": 1765042761,
+    "timestamp_local": 1765042761
+  },
+  {
+    "id": 35203,
+    "fecha": "06 de Dec del 2025 a las 12:27 PM",
+    "hora_utc": "2025-12-06 17:27",
+    "mensaje": "⚠️Afectada por manipulación la línea del 6375:\nMunicipio Santa Clara\n👉Cto 7 (Universidad)   \n👉Cto 22 (Construcciones Textil)\n👉Cto 131 (Las Antillas)\n👉Cto 153 (EIDE)\n👉Ctos 14, 15 y 27 (Maleza)",
+    "timestamp": 1765042073,
+    "timestamp_local": 1765042073
+  },
+  {
+    "id": 35202,
+    "fecha": "06 de Dec del 2025 a las 12:22 PM",
+    "hora_utc": "2025-12-06 17:22",
+    "mensaje": "⚠️Se encuentra disparada la línea del 861:\nMunicipio Santa Clara:\n👉Ctos 37 y 38 (Yabú)   \n👉Cto 9 (Moldes y Troqueles)\n👉Cto 133 (Taller Cafeteras)",
+    "timestamp": 1765041748,
+    "timestamp_local": 1765041748
+  },
+  {
+    "id": 35201,
+    "fecha": "06 de Dec del 2025 a las 12:05 PM",
+    "hora_utc": "2025-12-06 17:05",
+    "mensaje": "🕛Actualización del servicio eléctrico en las últimas 6 horas.\n👉El déficit de capacidad de generación osciló entre los 81 MW y los 94 MW.\n👉En el momento de esta nota, se mantienen afectados 111 circuitos.\n👉Cuenta con 114 afectaciones por averías secundarias y de servicio:\n🔸Caibarién (6)\n🔸Camajuaní (2)\n🔸Cifuentes (1)\n🔸Corralillo (2)\n🔸Encrucijada (7)\n🔸Manicaragua (8)\n🔸Placetas (10)\n🔸Quemado (1)\n🔸Ranchuelo (5)\n🔸Remedios (13)\n🔸Sagua (4) \n🔸Santa Clara (50)\n🔸Santo Domingo (6)\n🛠️Se encuentra 0 avería en vías de solución.\n🛠️Pendientes a solucionar por el área técnica 13.\n⚡La provincia no presenta averías primarias en este momento.",
+    "timestamp": 1765040723,
+    "timestamp_local": 1765040723
+  },
+  {
     "id": 35200,
     "fecha": "06 de Dec del 2025 a las 11:03 AM",
     "hora_utc": "2025-12-06 16:03",
@@ -118,29 +150,5 @@
     "mensaje": "⚠️Afectado por déficit de capacidad de generación el circuito 169 (Condado), del municipio Santa Clara.",
     "timestamp": 1765015041,
     "timestamp_local": 1765015041
-  },
-  {
-    "id": 35184,
-    "fecha": "06 de Dec del 2025 a las 04:56 AM",
-    "hora_utc": "2025-12-06 09:56",
-    "mensaje": "🔸Actualización del servicio eléctrico en la provincia🔸\n✍️Se mantienen afectados en la provincia 143 circuitos.\n✍️En el momento de hacer esta nota la provincia tiene 70 MW por déficit de capacidad de generación.\n✍️Cuenta con 72 afectaciones  por averías secundarias y de servicio.",
-    "timestamp": 1765014990,
-    "timestamp_local": 1765014990
-  },
-  {
-    "id": 35183,
-    "fecha": "06 de Dec del 2025 a las 02:44 AM",
-    "hora_utc": "2025-12-06 07:44",
-    "mensaje": "🔸Actualización del servicio eléctrico en la provincia🔸\n✍️Se mantienen afectados en la provincia 143 circuitos.\n✍️En el momento de hacer esta nota la provincia tiene 94 MW por déficit de capacidad de generación.\n✍️Cuenta con 68 afectaciones  por averías secundarias y de servicio.",
-    "timestamp": 1765007092,
-    "timestamp_local": 1765007092
-  },
-  {
-    "id": 35182,
-    "fecha": "06 de Dec del 2025 a las 02:16 AM",
-    "hora_utc": "2025-12-06 07:16",
-    "mensaje": "💡Restablecidos los siguientes circuitos:\n🔹Municipio Camajuaní:\n👉Cto 75 La Quinta\n👉Cto 157 Luis Arcos Bergnes\n👉Ctos 76 y 90 Vega Alta\n👉Ctos 77, 59 y 185 Vueltas\n🔹Municipio Sagua \n👉Cto 48 Finalet\n👉Ctos 46 y 128 Sitiecito",
-    "timestamp": 1765005409,
-    "timestamp_local": 1765005409
   }
 ]
