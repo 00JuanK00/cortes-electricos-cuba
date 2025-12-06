@@ -1,5 +1,21 @@
 [
   {
+    "id": 35188,
+    "fecha": "06 de Dec del 2025 a las 05:14 AM",
+    "hora_utc": "2025-12-06 10:14",
+    "mensaje": "⚠️Afectado por déficit de capacidad de generación el circuito 6 (Vigía), del municipio Santa Clara.",
+    "timestamp": 1765016091,
+    "timestamp_local": 1765016091
+  },
+  {
+    "id": 35187,
+    "fecha": "06 de Dec del 2025 a las 05:06 AM",
+    "hora_utc": "2025-12-06 10:06",
+    "mensaje": "⚠️Afectados por déficit de capacidad de generación los siguientes circuitos:\n🔹Municipio Santa Clara:\n👉Ctos 37 y 38 (Yabú)   \n👉Cto 9 (Moldes y Troqueles)\n👉Cto 133 (Cafetera)",
+    "timestamp": 1765015581,
+    "timestamp_local": 1765015581
+  },
+  {
     "id": 35186,
     "fecha": "06 de Dec del 2025 a las 04:58 AM",
     "hora_utc": "2025-12-06 09:58",
@@ -118,21 +134,5 @@
     "mensaje": "🛠️Afectados por disparo los circuitos 132 y 162 (Zona Industrial). Se estudian las causas.",
     "timestamp": 1764977470,
     "timestamp_local": 1764977470
-  },
-  {
-    "id": 35167,
-    "fecha": "05 de Dec del 2025 a las 06:08 PM",
-    "hora_utc": "2025-12-05 23:08",
-    "mensaje": "⚠️Afectados por déficit de capacidad de generación los siguientes circuitos:\n🔹Municipio Cifuentes:\n👉Ctos 114 y 117\n👉Ctos 116 y 155 Mata\n👉Cto 186 Batey Unidad Proletaria\n👉Cto 184 Sitio Grande",
-    "timestamp": 1764976123,
-    "timestamp_local": 1764976123
-  },
-  {
-    "id": 35166,
-    "fecha": "05 de Dec del 2025 a las 06:05 PM",
-    "hora_utc": "2025-12-05 23:05",
-    "mensaje": "⚠️Afectados por déficit de capacidad de generación los siguientes circuitos:\n🔹Municipio Santo Domingo:\n👉Cto 134\n👉Ctos 87 y 96 Bermejal\n👉Cto 187 Batey Carlos Baliño\n👉Cto 82 Ulacia\n👉Cto 84 Rodrigo",
-    "timestamp": 1764975922,
-    "timestamp_local": 1764975922
   }
 ]
