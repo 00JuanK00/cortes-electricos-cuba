@@ -1,5 +1,21 @@
 [
   {
+    "id": 99483,
+    "fecha": "06 de Dec del 2025 a las 08:27 AM",
+    "hora_utc": "2025-12-06 13:27",
+    "mensaje": "**Nota Informativa: Estado del Sistema Eléctrico Nacional (SEN) – 6 de diciembre de 2025**\nEn el día de ayer se afectó el servicio durante las 24 horas. La máxima afectación por déficit de capacidad de generación en el día de ayer fue de 1981 MW a las 18:30 horas.\nLa producción de energía de los 33 nuevos parques solares fotovoltaicos fue de 2975 MWh, con 528 MW como máxima potencia entregada en el horario de la media con esta fuente de generación.\n**Estado actual del SEN**\nLa disponibilidad del SEN a las 06:00 horas es de 1430 MW y la demanda 2500 MW con 1080 MW afectados por déficit de capacidad. En el horario de la media se estima una afectación de 1200 MW.\n**Principales incidencias**\nAvería: Unidad 5 de la CTE Diez de Octubre, Unidades 2 de la CTE Felton y Unidad 5 de la CTE Renté.\nMantenimiento: Unidades 2 y 3 de la CTE Santa Cruz, Unidad 4 de la CTE Carlos Manuel de Céspedes en Cienfuegos.\nLimitaciones en la generación térmica: 576 fuera de servicio.\nProblemas por falta de combustible\n90 centrales de generación distribuida con 893 MW.\n5 Motores del Fuel de Moa, con 68 MW.\n69 MW indisponibles por falta de lubricante.\nTotal de MW afectados por esta causa: 1030 MW.\n**Pronóstico para el horario pico**\nPara el horario pico se prevé una disponibilidad de 1430 MW y una demanda máxima de 3400 MW, para un déficit de 1970 MW, por lo que de mantenerse las condiciones previstas se pronostica una afectación de 2040 MW en este horario.",
+    "timestamp": 1765027677,
+    "timestamp_local": 1765027677
+  },
+  {
+    "id": 99481,
+    "fecha": "06 de Dec del 2025 a las 08:15 AM",
+    "hora_utc": "2025-12-06 13:15",
+    "mensaje": "♦️ Afectado el servicio en el circuito 1790 por manipulación ♦️",
+    "timestamp": 1765026938,
+    "timestamp_local": 1765026938
+  },
+  {
     "id": 99480,
     "fecha": "06 de Dec del 2025 a las 07:39 AM",
     "hora_utc": "2025-12-06 12:39",
@@ -126,29 +142,5 @@
     "mensaje": "🚨Por déficit de capacidad de generación se afecta el servicio en el siguiente circuito:\n*San Nicolás 1🚨",
     "timestamp": 1765020443,
     "timestamp_local": 1765020443
-  },
-  {
-    "id": 99463,
-    "fecha": "06 de Dec del 2025 a las 06:19 AM",
-    "hora_utc": "2025-12-06 11:19",
-    "mensaje": "♦️Afectado el servicio en el circuito 3140 por disparo por DAF♦️",
-    "timestamp": 1765019965,
-    "timestamp_local": 1765019965
-  },
-  {
-    "id": 99462,
-    "fecha": "06 de Dec del 2025 a las 05:17 AM",
-    "hora_utc": "2025-12-06 10:17",
-    "mensaje": "🔷Restablecido el servicio en el circuito 3590 que se encontraba afectado por disparo por DAF🔷",
-    "timestamp": 1765016258,
-    "timestamp_local": 1765016258
-  },
-  {
-    "id": 99461,
-    "fecha": "06 de Dec del 2025 a las 05:16 AM",
-    "hora_utc": "2025-12-06 10:16",
-    "mensaje": "🔷Restablecido el servicio en el circuito 3140 que se encontraba afectado por disparo por DAF🔷",
-    "timestamp": 1765016176,
-    "timestamp_local": 1765016176
   }
 ]
