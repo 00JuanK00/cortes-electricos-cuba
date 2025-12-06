@@ -1,9 +1,17 @@
 [
   {
+    "id": 46984,
+    "fecha": "06 de Dec del 2025 a las 06:33 PM",
+    "hora_utc": "2025-12-06 23:33",
+    "mensaje": "🔴Estimados clientes se les informa que se incorpora a la afectación el circuito 2 .",
+    "timestamp": 1765064000,
+    "timestamp_local": 1765064000
+  },
+  {
     "id": 46983,
     "fecha": "06 de Dec del 2025 a las 05:53 PM",
     "hora_utc": "2025-12-06 22:53",
-    "mensaje": "🔴Estimados clientes se les informa que se incorporan a la afectación los circuitos  7 y 9 .",
+    "mensaje": "🔴Estimados clientes se les informa que se incorporan a la afectación los circuitos  7 y el 9 seccionalizado .",
     "timestamp": 1765061615,
     "timestamp_local": 1765061615
   },
@@ -142,13 +150,5 @@
     "mensaje": "🔊 Estimados clientes se afecta por Déficit de Capacidad de Generación el servicio eléctrico del circuito 21 de Santiago y la línea LI5380 Mella.",
     "timestamp": 1765034485,
     "timestamp_local": 1765034485
-  },
-  {
-    "id": 46964,
-    "fecha": "06 de Dec del 2025 a las 09:36 AM",
-    "hora_utc": "2025-12-06 14:36",
-    "mensaje": "Disparo Automático de Frecuencia (DAF):\nOcurre cuando la frecuencia está por debajo de los 60Hz y determinada carga o circuito se desconecta del sistema automáticamente hasta que se estabilice.",
-    "timestamp": 1765031818,
-    "timestamp_local": 1765031818
   }
 ]
