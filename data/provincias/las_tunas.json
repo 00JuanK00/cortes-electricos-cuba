@@ -1,5 +1,13 @@
 [
   {
+    "id": 17323,
+    "fecha": "06 de Dec del 2025 a las 09:05 AM",
+    "hora_utc": "2025-12-06 14:05",
+    "mensaje": "**Nota Informativa: Estado del Sistema Eléctrico Nacional (SEN) – 6 de diciembre de 2025**\nEn el día de ayer se afectó el servicio durante las 24 horas. La máxima afectación por déficit de capacidad de generación en el día de ayer fue de 1981 MW a las 18:30 horas.\nLa producción de energía de los 33 nuevos parques solares fotovoltaicos fue de 2975 MWh, con 528 MW como máxima potencia entregada en el horario de la media con esta fuente de generación.\n**Estado actual del SEN**\nLa disponibilidad del SEN a las 06:00 horas es de 1430 MW y la demanda 2500 MW con 1080 MW afectados por déficit de capacidad. En el horario de la media se estima una afectación de 1200 MW.\n**Principales incidencias**\nAvería: Unidad 5 de la CTE Diez de Octubre, Unidades 2 de la CTE Felton y Unidad 5 de la CTE Renté.\nMantenimiento: Unidades 2 y 3 de la CTE Santa Cruz, Unidad 4 de la CTE Carlos Manuel de Céspedes en Cienfuegos.\nLimitaciones en la generación térmica: 576 fuera de servicio.\nProblemas por falta de combustible\n90 centrales de generación distribuida con 893 MW.\n5 Motores del Fuel de Moa, con 68 MW.\n69 MW indisponibles por falta de lubricante.\nTotal de MW afectados por esta causa: 1030 MW.\n**Pronóstico para el horario pico**\nPara el horario pico se prevé una disponibilidad de 1430 MW y una demanda máxima de 3400 MW, para un déficit de 1970 MW, por lo que de mantenerse las condiciones previstas se pronostica una afectación de 2040 MW en este horario.",
+    "timestamp": 1765029917,
+    "timestamp_local": 1765029917
+  },
+  {
     "id": 17321,
     "fecha": "06 de Dec del 2025 a las 08:16 AM",
     "hora_utc": "2025-12-06 13:16",
@@ -126,13 +134,5 @@
     "mensaje": "Se declaran en avería los siguientes circuitos: \nTK93: Batey Delicias\nTK53: La Morena y El Malecón  \nTK47: La Micro Puerto Padre  \nTK48 Puerto Padre y Maniabón",
     "timestamp": 1764870977,
     "timestamp_local": 1764870977
-  },
-  {
-    "id": 17303,
-    "fecha": "04 de Dec del 2025 a las 12:19 PM",
-    "hora_utc": "2025-12-04 17:19",
-    "mensaje": "La Empresa Eléctrica informa que, según la nota emitida por la Unión Eléctrica el 2 de diciembre, ayer se registraron afectaciones durante las 24 horas debido al déficit de capacidad de generación, situación que se extendió en la madrugada de hoy. En la provincia de Las Tunas se afectaron la totalidad de los circuitos apagables con una afectación máxima de 86.95 MW, originada por la falla en una línea de transmisión que enlazaba Santa Cruz del Norte con la CTE Antonio Guiteras. La avería provocó una sobrecarga en la otra línea y la división del Sistema Eléctrico Nacional (SEN); en ese momento salieron de servicio las unidades de generación de Mariel, Santa Cruz del Norte, Céspedes 3 y Felton, lo que dejó al país prácticamente sin generación y obligó a aplicar medidas de protección para evitar la caída total del sistema. Como resultado, la provincia experimentó una afectación del 98% de sus circuitos. Actualmente permanecen fuera de servicio por avería la Unidad 2 de la CTE Felton y la Unidad 3 de la CTE Renté, mientras se encuentran en mantenimiento la Unidad 5 de la CTE Mariel, la Unidad 2 de la CTE Santa Cruz, la Unidad 4 de la CTE Carlos Manuel de Céspedes en Cienfuegos y la Planta de tratamiento de gas de Energás Puerto Escondido. Para el día de hoy se estima una afectación de hasta 1200 MW en el horario diurno y de 1830 MW en el pico nocturno, lo que en Las Tunas podría representar el 70 % de los circuitos durante el día y hasta el 95 % en la noche, valores que pueden variar según la demanda nacional.",
-    "timestamp": 1764868772,
-    "timestamp_local": 1764868772
   }
 ]
