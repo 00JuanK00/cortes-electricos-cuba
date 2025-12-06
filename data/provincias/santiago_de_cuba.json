@@ -1,5 +1,29 @@
 [
   {
+    "id": 46952,
+    "fecha": "05 de Dec del 2025 a las 09:55 PM",
+    "hora_utc": "2025-12-06 02:55",
+    "mensaje": "Disparo Automático de Frecuencia (DAF):\nOcurre cuando la frecuencia está por debajo de los 60Hz y determinada carga o circuito se desconecta del sistema automáticamente hasta que se estabilice.",
+    "timestamp": 1764989706,
+    "timestamp_local": 1764989706
+  },
+  {
+    "id": 46951,
+    "fecha": "05 de Dec del 2025 a las 09:54 PM",
+    "hora_utc": "2025-12-06 02:54",
+    "mensaje": "🔉 Estimados clientes se les informa que se encuentra afectado el circuito 1 de Palma por disparo (DAF) .",
+    "timestamp": 1764989655,
+    "timestamp_local": 1764989655
+  },
+  {
+    "id": 46950,
+    "fecha": "05 de Dec del 2025 a las 09:49 PM",
+    "hora_utc": "2025-12-06 02:49",
+    "mensaje": "🔉Estimados clientes en estos momentos se encuentran afectados por Déficit de Capacidad de Generación los circuitos 1 y 25 de Santiago , disculpen por las molestias ocasionadas.",
+    "timestamp": 1764989363,
+    "timestamp_local": 1764989363
+  },
+  {
     "id": 46949,
     "fecha": "05 de Dec del 2025 a las 08:15 PM",
     "hora_utc": "2025-12-06 01:15",
@@ -110,29 +134,5 @@
     "mensaje": "Disparo:  \nApertura no voluntaria de un interruptor como vía de protección para desconectar uno o varios elementos del circuito, subestación o sistema, restableciéndose el servicio rápidamente en dependencia de la causa.",
     "timestamp": 1764958445,
     "timestamp_local": 1764958445
-  },
-  {
-    "id": 46932,
-    "fecha": "05 de Dec del 2025 a las 01:11 PM",
-    "hora_utc": "2025-12-05 18:11",
-    "mensaje": "🚨🔊 Les informamos a nuestros clientes que está disparado el circuito 11 y el Circuito 1 de Palma ...",
-    "timestamp": 1764958315,
-    "timestamp_local": 1764958315
-  },
-  {
-    "id": 46931,
-    "fecha": "05 de Dec del 2025 a las 12:58 PM",
-    "hora_utc": "2025-12-05 17:58",
-    "mensaje": "🚨🔊 Estimados clientes, se incorporan a la afectación la línea 5380 que alimenta Mella...",
-    "timestamp": 1764957517,
-    "timestamp_local": 1764957517
-  },
-  {
-    "id": 46930,
-    "fecha": "05 de Dec del 2025 a las 12:40 PM",
-    "hora_utc": "2025-12-05 17:40",
-    "mensaje": "🚨🔊 Se les informa a nuestros clientes  en estos momentos que se afecta por Déficit de Generación los circuitos 12 de Santiago y el circuito 2 de Palma ...",
-    "timestamp": 1764956430,
-    "timestamp_local": 1764956430
   }
 ]
