@@ -1,5 +1,13 @@
 [
   {
+    "id": 35247,
+    "fecha": "07 de Dec del 2025 a las 07:09 AM",
+    "hora_utc": "2025-12-07 12:09",
+    "mensaje": "Afectados 119 MW en la provincia, demanda máxima a apagar en estos momentos.",
+    "timestamp": 1765109342,
+    "timestamp_local": 1765109342
+  },
+  {
     "id": 35246,
     "fecha": "07 de Dec del 2025 a las 06:06 AM",
     "hora_utc": "2025-12-07 11:06",
@@ -110,13 +118,5 @@
     "mensaje": "Afectados 140 MW en la provincia, demanda máxima a apagar en estos momentos.",
     "timestamp": 1765073112,
     "timestamp_local": 1765073112
-  },
-  {
-    "id": 35226,
-    "fecha": "06 de Dec del 2025 a las 08:35 PM",
-    "hora_utc": "2025-12-07 01:35",
-    "mensaje": "✅Ante cualquier duda con la terminología eléctrica, les volvemos explicar: \n     \n✍️Las averías pueden ser primarias (afecta un volumen grande de población pues son las líneas de distribución a 13.8kV y puede afectar varias manzanas, incluso repartos completos).\n\n✍️Secundarias (afecta a todos los clientes que se alimenten del mismo transformador, puede afectar una o varias cuadras). \n\n✍️De servicio (afectan 1 solo cliente o instalación generalmente producto a daños en la acometida, metro contador, etc.).",
-    "timestamp": 1765071323,
-    "timestamp_local": 1765071323
   }
 ]
