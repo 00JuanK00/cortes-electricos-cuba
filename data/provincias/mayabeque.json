@@ -1,9 +1,33 @@
 [
   {
+    "id": 99547,
+    "fecha": "06 de Dec del 2025 a las 11:51 PM",
+    "hora_utc": "2025-12-07 04:51",
+    "mensaje": "🚨Por déficit de capacidad de generación se afecta el servicio en el siguiente circuito:\n*2 de San José 🚨",
+    "timestamp": 1765083100,
+    "timestamp_local": 1765083100
+  },
+  {
+    "id": 99546,
+    "fecha": "06 de Dec del 2025 a las 11:39 PM",
+    "hora_utc": "2025-12-07 04:39",
+    "mensaje": "🔷♦️Se restablece el servicio en el circuito que se encontraba afectado  por déficit de capacidad de generación:\n *3 de San José ♦️🔷",
+    "timestamp": 1765082368,
+    "timestamp_local": 1765082368
+  },
+  {
+    "id": 99545,
+    "fecha": "06 de Dec del 2025 a las 11:25 PM",
+    "hora_utc": "2025-12-07 04:25",
+    "mensaje": "🔷 Restablecido el servicio los  circuitos 3590 y 3140  que se encontraban afectados por disparo por DAF 🔷",
+    "timestamp": 1765081553,
+    "timestamp_local": 1765081553
+  },
+  {
     "id": 99544,
     "fecha": "06 de Dec del 2025 a las 11:11 PM",
     "hora_utc": "2025-12-07 04:11",
-    "mensaje": "♦️ Afectado el servicio en el circuito 3590 por disparo por DAF ♦️",
+    "mensaje": "♦️ Afectado el servicio en los circuitos 3590 y 3140 por disparo por DAF ♦️",
     "timestamp": 1765080702,
     "timestamp_local": 1765080702
   },
@@ -110,29 +134,5 @@
     "mensaje": "🚨Por déficit de capacidad de generación se afecta el servicio en el siguiente circuito:\n*Héctor Molina 🚨",
     "timestamp": 1765067886,
     "timestamp_local": 1765067886
-  },
-  {
-    "id": 99526,
-    "fecha": "06 de Dec del 2025 a las 07:36 PM",
-    "hora_utc": "2025-12-07 00:36",
-    "mensaje": "🔷♦️Se restablece el servicio en los circuitos que se encontraban afectados  por déficit de capacidad de generación:\n *6 y 8 de San José ♦️🔷",
-    "timestamp": 1765067771,
-    "timestamp_local": 1765067771
-  },
-  {
-    "id": 99525,
-    "fecha": "06 de Dec del 2025 a las 07:35 PM",
-    "hora_utc": "2025-12-07 00:35",
-    "mensaje": "🔷♦️Se restablece el servicio en el circuito que se encontraba afectado  por déficit de capacidad de generación:\n *2 de San José ♦️🔷",
-    "timestamp": 1765067712,
-    "timestamp_local": 1765067712
-  },
-  {
-    "id": 99524,
-    "fecha": "06 de Dec del 2025 a las 07:34 PM",
-    "hora_utc": "2025-12-07 00:34",
-    "mensaje": "🚨Por déficit de capacidad de generación se afecta el servicio en el siguiente circuito:\n*3 de San José 🚨",
-    "timestamp": 1765067662,
-    "timestamp_local": 1765067662
   }
 ]
