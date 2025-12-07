@@ -1,5 +1,29 @@
 [
   {
+    "id": 35232,
+    "fecha": "06 de Dec del 2025 a las 11:20 PM",
+    "hora_utc": "2025-12-07 04:20",
+    "mensaje": "⚠️Afectado por manipulación la línea del 119, perteneciente al municipio Santa Clara.",
+    "timestamp": 1765081208,
+    "timestamp_local": 1765081208
+  },
+  {
+    "id": 35231,
+    "fecha": "06 de Dec del 2025 a las 11:15 PM",
+    "hora_utc": "2025-12-07 04:15",
+    "mensaje": "Afectados 123 MW en la provincia, demanda máxima a apagar en estos momentos.",
+    "timestamp": 1765080956,
+    "timestamp_local": 1765080956
+  },
+  {
+    "id": 35230,
+    "fecha": "06 de Dec del 2025 a las 10:53 PM",
+    "hora_utc": "2025-12-07 03:53",
+    "mensaje": "⚠️Afectado el Cto 27 (Maleza),por manipulación.",
+    "timestamp": 1765079616,
+    "timestamp_local": 1765079616
+  },
+  {
     "id": 35228,
     "fecha": "06 de Dec del 2025 a las 10:20 PM",
     "hora_utc": "2025-12-07 03:20",
@@ -118,29 +142,5 @@
     "mensaje": "⚠️Afectados por déficit de capacidad de generación los siguientes circuitos:\n🔹Municipio Santa Clara:\n**👉Cto 132 SC. Industrial**\n👉Cto 162 SC. Industrial\n👉Cto 144 (Camacho)",
     "timestamp": 1765053032,
     "timestamp_local": 1765053032
-  },
-  {
-    "id": 35212,
-    "fecha": "06 de Dec del 2025 a las 03:14 PM",
-    "hora_utc": "2025-12-06 20:14",
-    "mensaje": "Afectados 110 MW en la provincia, demanda máxima a apagar en estos momentos.",
-    "timestamp": 1765052073,
-    "timestamp_local": 1765052073
-  },
-  {
-    "id": 35211,
-    "fecha": "06 de Dec del 2025 a las 03:12 PM",
-    "hora_utc": "2025-12-06 20:12",
-    "mensaje": "⚠️Afectados por déficit de capacidad de generación los siguientes circuitos:\n🔹Municipio Placetas:\n👉Cto 101 y 145 Cumbre",
-    "timestamp": 1765051978,
-    "timestamp_local": 1765051978
-  },
-  {
-    "id": 35210,
-    "fecha": "06 de Dec del 2025 a las 03:08 PM",
-    "hora_utc": "2025-12-06 20:08",
-    "mensaje": "⚠️Afectados por déficit de capacidad de generación los siguientes circuitos:\n🔹Municipio Encrucijada\n👉Cto 120 Calabazar\n👉Ctos 121 y 127 Perucho",
-    "timestamp": 1765051709,
-    "timestamp_local": 1765051709
   }
 ]
