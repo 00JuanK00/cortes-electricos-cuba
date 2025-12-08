@@ -1,5 +1,13 @@
 [
   {
+    "id": 17344,
+    "fecha": "08 de Dec del 2025 a las 04:15 PM",
+    "hora_utc": "2025-12-08 21:15",
+    "mensaje": "Nota Informativa a la Población\nLa Empresa Eléctrica Las Tunas informa que, debido a la compleja situación del Sistema Electroenergético Nacional (SEN), nuestra provincia ha experimentado afectaciones en la totalidad de los circuitos apagables, con un tiempo promedio de interrupción en el día de ayer de 20 horas y 18 minutos. El tiempo promedio con servicio eléctrico fue de 3 horas y 42 minutos. La máxima afectación fue de 79.05 MW.\nA nivel nacional, se estima una afectación de 1300 MW en el horario del mediodía y de 2062 MW en el horario pico nocturno, lo que impacta directamente en la capacidad de distribución de energía eléctrica.\nEn nuestra provincia, la máxima afectación en el horario diurno puede representar la totalidad de los circuitos apagables y en el horario pico nocturno puede extenderse igualmente a todos ellos, debido al alto déficit de capacidad de generación existente. Estos valores pueden variar en función de la demanda nacional, pero reflejan que, en las condiciones actuales, ningún circuito apagable está exento de posibles interrupciones.",
+    "timestamp": 1765228553,
+    "timestamp_local": 1765228553
+  },
+  {
     "id": 17343,
     "fecha": "08 de Dec del 2025 a las 01:22 PM",
     "hora_utc": "2025-12-08 18:22",
@@ -126,13 +134,5 @@
     "mensaje": "Estimados clientes, les informamos que, debido a la actual situación energética del país, nuestra provincia se mantiene operando bajo la máxima capacidad apagable. Esto significa que todos los circuitos eléctricos que pueden ser desconectados temporalmente están siendo utilizados para mantener el equilibrio del sistema nacional.",
     "timestamp": 1765053219,
     "timestamp_local": 1765053219
-  },
-  {
-    "id": 17324,
-    "fecha": "06 de Dec del 2025 a las 10:04 AM",
-    "hora_utc": "2025-12-06 15:04",
-    "mensaje": "Se declara en avería el circuito TK 50 Vázquez se trabaja para restablecer lo antes posible",
-    "timestamp": 1765033468,
-    "timestamp_local": 1765033468
   }
 ]
