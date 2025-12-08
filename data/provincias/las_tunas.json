@@ -1,5 +1,13 @@
 [
   {
+    "id": 17343,
+    "fecha": "08 de Dec del 2025 a las 01:22 PM",
+    "hora_utc": "2025-12-08 18:22",
+    "mensaje": "La Empresa Eléctrica Las Tunas informa que, según la nota emitida por la Unión Eléctrica para el 8 de diciembre, ayer se registraron afectaciones durante las 24 horas debido a déficit de capacidad de generación, situación que se extendió durante la madrugada de hoy. En nuestra provincia se afectaron la totalidad de los circuitos apagables con un tiempo promedio de 20:18 horas. El tiempo promedio con servicio eléctrico fue de 03:42 horas. La máxima afectación fue de 79.05MW. \nActualmente están fuera de servicio por avería:\nUnidad 5 de la CTE Máximo Gómez, Unidad 3 de la CTE de Cienfuegos, Unidad 6 de la CTE Diez de Octubre, Unidades 1 y 2 de la CTE Felton y Unidades 5 y 6 de la CTE Renté.\nEn mantenimiento se encuentran:\nUnidades 2 y 3 de la CTE Santa Cruz, Unidad 4 de la CTE Carlos Manuel de Céspedes en Cienfuegos.\nEn el horario de la media se estima una afectación de 1300 MW y de 2062 MW en el horario pico nocturno.\nEn nuestra provincia, la máxima afectación en el horario diurno puede representar la totalidad de los circuitos apagables y en el horario pico nocturno puede extenderse igualmente a todos ellos, debido al alto déficit de capacidad de generación existente. Estos valores pueden variar en función de la demanda nacional, pero reflejan que, en las condiciones actuales, ningún circuito apagable está exento de posibles interrupciones.",
+    "timestamp": 1765218155,
+    "timestamp_local": 1765218155
+  },
+  {
     "id": 17342,
     "fecha": "08 de Dec del 2025 a las 11:58 AM",
     "hora_utc": "2025-12-08 16:58",
@@ -126,13 +134,5 @@
     "mensaje": "Se declara en avería el circuito TK 50 Vázquez se trabaja para restablecer lo antes posible",
     "timestamp": 1765033468,
     "timestamp_local": 1765033468
-  },
-  {
-    "id": 17323,
-    "fecha": "06 de Dec del 2025 a las 09:05 AM",
-    "hora_utc": "2025-12-06 14:05",
-    "mensaje": "**Nota Informativa: Estado del Sistema Eléctrico Nacional (SEN) – 6 de diciembre de 2025**\nEn el día de ayer se afectó el servicio durante las 24 horas. La máxima afectación por déficit de capacidad de generación en el día de ayer fue de 1981 MW a las 18:30 horas.\nLa producción de energía de los 33 nuevos parques solares fotovoltaicos fue de 2975 MWh, con 528 MW como máxima potencia entregada en el horario de la media con esta fuente de generación.\n**Estado actual del SEN**\nLa disponibilidad del SEN a las 06:00 horas es de 1430 MW y la demanda 2500 MW con 1080 MW afectados por déficit de capacidad. En el horario de la media se estima una afectación de 1200 MW.\n**Principales incidencias**\nAvería: Unidad 5 de la CTE Diez de Octubre, Unidades 2 de la CTE Felton y Unidad 5 de la CTE Renté.\nMantenimiento: Unidades 2 y 3 de la CTE Santa Cruz, Unidad 4 de la CTE Carlos Manuel de Céspedes en Cienfuegos.\nLimitaciones en la generación térmica: 576 fuera de servicio.\nProblemas por falta de combustible\n90 centrales de generación distribuida con 893 MW.\n5 Motores del Fuel de Moa, con 68 MW.\n69 MW indisponibles por falta de lubricante.\nTotal de MW afectados por esta causa: 1030 MW.\n**Pronóstico para el horario pico**\nPara el horario pico se prevé una disponibilidad de 1430 MW y una demanda máxima de 3400 MW, para un déficit de 1970 MW, por lo que de mantenerse las condiciones previstas se pronostica una afectación de 2040 MW en este horario.",
-    "timestamp": 1765029917,
-    "timestamp_local": 1765029917
   }
 ]
