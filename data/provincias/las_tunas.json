@@ -1,5 +1,21 @@
 [
   {
+    "id": 17337,
+    "fecha": "07 de Dec del 2025 a las 09:11 PM",
+    "hora_utc": "2025-12-08 02:11",
+    "mensaje": "Se restablece el circuito TK4 Aeropuerto, Casa Piedra y Aurora",
+    "timestamp": 1765159882,
+    "timestamp_local": 1765159882
+  },
+  {
+    "id": 17336,
+    "fecha": "07 de Dec del 2025 a las 08:55 PM",
+    "hora_utc": "2025-12-08 01:55",
+    "mensaje": "Se les informa a los clientes del circuito \nTK4 Aeropuerto, Casa Piedra y Aurora\nqué se encuentran afectados por una vía libre para el cambio de un transformador.",
+    "timestamp": 1765158923,
+    "timestamp_local": 1765158923
+  },
+  {
     "id": 17335,
     "fecha": "07 de Dec del 2025 a las 03:39 PM",
     "hora_utc": "2025-12-07 20:39",
@@ -110,21 +126,5 @@
     "mensaje": "Máxima capacidad apagable se refiere al nivel máximo de demanda eléctrica que puede ser desconectada o suspendida temporalmente en la provincia, explica la complejidad del déficit de generación o contingencias en el sistema eléctrico. Representa el límite superior de la reducción de carga que la empresa puede lograr mediante cortes de energía (apagones). Cuanto mayor sea la máxima capacidad apagable, mayor será el déficit de energía.                                                                                             ¿Qué implica esto? Se identifica cuántos circuitos pueden ser apagados para equilibrar la carga del sistema, esto imposibilita realizar rotaciones, pues a excepción de los servicios priorizados, se encuentran afectados todos los circuitos apagables del territorio. Podrán presentarse afectaciones en el servicio de electricidad durante varias horas al día y el tiempo con servicio dependerá del comportamiento del SEN. Esta medida es necesaria para evitar fallas mayores y proteger la infraestructura eléctrica.",
     "timestamp": 1764979781,
     "timestamp_local": 1764979781
-  },
-  {
-    "id": 17317,
-    "fecha": "05 de Dec del 2025 a las 04:25 PM",
-    "hora_utc": "2025-12-05 21:25",
-    "mensaje": "Aviso Importante a Nuestros Clientes\n\nEstimados clientes:\n\nLes informamos que, en estos momentos la pizarra del centro telefónico de la Empresa Eléctrica Las Tunas está presentando dificultades técnicas. Debido a esta situación, no estamos en condiciones de atender llamadas telefónicas por el momento.\n\nEstamos trabajando  para restablecer el servicio en el  menor tiempo posible. Agradecemos su comprensión y les pedimos disculpas por las molestias ocasionadas.",
-    "timestamp": 1764969921,
-    "timestamp_local": 1764969921
-  },
-  {
-    "id": 17316,
-    "fecha": "05 de Dec del 2025 a las 03:16 PM",
-    "hora_utc": "2025-12-05 20:16",
-    "mensaje": "Estimados clientes, les informamos que, debido a la actual situación energética del país, nuestra provincia se mantiene operando bajo la máxima capacidad apagable. Esto significa que todos los circuitos eléctricos que pueden ser desconectados temporalmente están siendo utilizados para mantener el equilibrio del sistema nacional.",
-    "timestamp": 1764965789,
-    "timestamp_local": 1764965789
   }
 ]
