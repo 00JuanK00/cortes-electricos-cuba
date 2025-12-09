@@ -1,9 +1,25 @@
 [
   {
+    "id": 35395,
+    "fecha": "09 de Dec del 2025 a las 01:36 PM",
+    "hora_utc": "2025-12-09 18:36",
+    "mensaje": "💡Restablecida línea 108:\n🔹Municipio Ranchuelo:\n👉Cto 92 Esperanza (Pueblo)\n👉Cto 93 Esperanza (Campo)\n👉Ctos 54, 94 y 95 Jicotea\n🔹Municipio Santa Clara\n👉Ctos 26 y 141 (Manuelita)\n👉Cto 191 (Quemado de Hilario)",
+    "timestamp": 1765305400,
+    "timestamp_local": 1765305400
+  },
+  {
+    "id": 35394,
+    "fecha": "09 de Dec del 2025 a las 01:04 PM",
+    "hora_utc": "2025-12-09 18:04",
+    "mensaje": "⚠️Afectados por déficit de capacidad de generación los siguientes circuitos:\n🔹Municipio Santa Clara\n👉Cto 7 (Universidad)  \n👉Cto 146 (Elevado Aeropuerto) \n👉Cto 22 (Construcciones Textil)\n👉Cto 131 (Las Antillas)\n👉Cto 153 (EIDE)\n👉Ctos 14, 15 y 27 (Maleza)",
+    "timestamp": 1765303488,
+    "timestamp_local": 1765303488
+  },
+  {
     "id": 35393,
     "fecha": "09 de Dec del 2025 a las 12:48 PM",
     "hora_utc": "2025-12-09 17:48",
-    "mensaje": "⚠️Afectados por déficit de capacidad de generación los siguientes circuitos:\n🔹Municipio Ranchuelo:\n👉Cto 92 Esperanza (Pueblo)\n👉Cto 93 Esperanza (Campo)\n👉Ctos 54, 94 y 95 Jicotea\n🔹Municipio Santa Clara\n👉Ctos 26 y 141 (Manuelita)\n👉Cto 191 (Quemado de Hilario)",
+    "mensaje": "🛠️Manipulación de la línea 108:\nAfecta los siguientes circuitos:\n🔹Municipio Ranchuelo:\n👉Cto 92 Esperanza (Pueblo)\n👉Cto 93 Esperanza (Campo)\n👉Ctos 54, 94 y 95 Jicotea\n🔹Municipio Santa Clara\n👉Ctos 26 y 141 (Manuelita)\n👉Cto 191 (Quemado de Hilario)",
     "timestamp": 1765302533,
     "timestamp_local": 1765302533
   },
@@ -142,21 +158,5 @@
     "mensaje": "🛠️ Afectado nuevamente por disparo el circuito 95 (Jicotea), del municipio Ranchuelo. Se estudian las causas.",
     "timestamp": 1765294748,
     "timestamp_local": 1765294748
-  },
-  {
-    "id": 35375,
-    "fecha": "09 de Dec del 2025 a las 10:34 AM",
-    "hora_utc": "2025-12-09 15:34",
-    "mensaje": "Con servicio la línea 108:\n🔹Municipio Ranchuelo:\n👉Cto 92 Esperanza (Pueblo)\n👉Cto 93 Esperanza (Campo)\n👉Ctos 54 y 94, 95 Jicotea\n🔹Municipio Santa Clara\n👉Ctos 26 y 141 (Manuelita)\n👉Cto 191 (Quemado de Hilario)",
-    "timestamp": 1765294472,
-    "timestamp_local": 1765294472
-  },
-  {
-    "id": 35373,
-    "fecha": "09 de Dec del 2025 a las 10:20 AM",
-    "hora_utc": "2025-12-09 15:20",
-    "mensaje": "⚠️Afectados por déficit de generación los siguientes circuitos:\n🔹Municipio Manicaragua:\n👉Ctos 113 y 137 La Campana\n👉Cto 112 Hoyo Manicaragua",
-    "timestamp": 1765293658,
-    "timestamp_local": 1765293658
   }
 ]
