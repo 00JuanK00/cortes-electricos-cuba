@@ -1,5 +1,37 @@
 [
   {
+    "id": 35455,
+    "fecha": "10 de Dec del 2025 a las 08:20 AM",
+    "hora_utc": "2025-12-10 13:20",
+    "mensaje": "⚠️Afectada por manipulación la línea del 108.",
+    "timestamp": 1765372833,
+    "timestamp_local": 1765372833
+  },
+  {
+    "id": 35454,
+    "fecha": "10 de Dec del 2025 a las 08:09 AM",
+    "hora_utc": "2025-12-10 13:09",
+    "mensaje": "🔸Actualización del servicio eléctrico en la provincia🔸\n✍️Se mantienen afectados en la provincia 162 circuitos.\n✍️En el momento de hacer esta nota la provincia tiene 123 MW por déficit de capacidad de generación.\n✍️Cuenta con 102 afectaciones  por averías secundarias y de servicio.",
+    "timestamp": 1765372172,
+    "timestamp_local": 1765372172
+  },
+  {
+    "id": 35453,
+    "fecha": "10 de Dec del 2025 a las 07:35 AM",
+    "hora_utc": "2025-12-10 12:35",
+    "mensaje": "🚨Nota informativa🚨\n\n📆Situación del SEN para el 10 de diciembre de 2025.\n\n👉En el día de ayer se afectó el servicio durante las 24 horas. La máxima afectación por déficit de capacidad de generación en el día de ayer fue de 2050 MW a las 18:50 horas. \n\n☀️La producción de energía de los 33 nuevos parques solares fotovoltaicos fue de 2552 MWh, con 493 MW como máxima potencia entregada en el horario de la media con esta fuente de generación. \n\n👉La disponibilidad del SEN a las 06:00 horas es de 1450 MW  y la demanda 2450 MW con 1016 MW afectados por déficit de capacidad. En el horario de la media se estima una afectación de 1350 MW.  \n\n🛠️Se encuentran en avería la unidad  5 de la CTE Mariel, la unidad 6 de la CTE Nuevitas, la unidad 2 de la CTE Felton y la unidad 6 de la CTE Renté. Se encuentran en mantenimiento las unidades 2 y 3 de la CTE Santa Cruz y la unidad 4 de la CTE Cienfuegos.\n\n👉Las limitaciones en la generación térmica son de 488 MW. \n\n⛽Se encuentran fuera de servicio por combustible                                 98 centrales de generación distribuida con 911 MW  y 94 MW indisponible por falta de lubricante, para un total de 1005 MW.\n\n👉Para el pico se estima la entrada de la unidad 6 de la CTE Nuevitas con 90 MW\n\n📝Con este pronóstico se prevé una disponibilidad de 1540 MW y una demanda máxima de 3300 MW, para un déficit de 1760 MW, por lo que de mantenerse las condiciones previstas se pronostica una afectación de 1790 MW en este horario.",
+    "timestamp": 1765370144,
+    "timestamp_local": 1765370144
+  },
+  {
+    "id": 35452,
+    "fecha": "10 de Dec del 2025 a las 07:19 AM",
+    "hora_utc": "2025-12-10 12:19",
+    "mensaje": "🛠️Afectada por disparo los circuitos 67 y 152 del municipio Remedios. Se estudian las causas.",
+    "timestamp": 1765369194,
+    "timestamp_local": 1765369194
+  },
+  {
     "id": 35451,
     "fecha": "10 de Dec del 2025 a las 06:19 AM",
     "hora_utc": "2025-12-10 11:19",
@@ -118,37 +150,5 @@
     "mensaje": "🛠️Afectado por disparo el circuito 7 (Universidad), del municipio Santa Clara. Se estudian las causas.",
     "timestamp": 1765333628,
     "timestamp_local": 1765333628
-  },
-  {
-    "id": 35435,
-    "fecha": "09 de Dec del 2025 a las 08:57 PM",
-    "hora_utc": "2025-12-10 01:57",
-    "mensaje": "💡Restablecido el circuito eléctrico en el circuito 170 (José Martí), del municipio Santa Clara.",
-    "timestamp": 1765331825,
-    "timestamp_local": 1765331825
-  },
-  {
-    "id": 35434,
-    "fecha": "09 de Dec del 2025 a las 08:51 PM",
-    "hora_utc": "2025-12-10 01:51",
-    "mensaje": "⚠️ Afectados por déficit de capacidad de generación los siguientes circuitos:\n🔹Municipio Santo Domingo:\n👉Cto 134\n👉Ctos 87 y 96 Bermejal\n👉Cto 187 Batey Carlos Baliño\n👉Cto 82 Ulacia\n👉Cto 84 Rodrigo",
-    "timestamp": 1765331486,
-    "timestamp_local": 1765331486
-  },
-  {
-    "id": 35433,
-    "fecha": "09 de Dec del 2025 a las 08:10 PM",
-    "hora_utc": "2025-12-10 01:10",
-    "mensaje": "Con servicio el circuito 169 (Gran Panel) perteneciente al municipio de Santa Clara.",
-    "timestamp": 1765329053,
-    "timestamp_local": 1765329053
-  },
-  {
-    "id": 35432,
-    "fecha": "09 de Dec del 2025 a las 08:03 PM",
-    "hora_utc": "2025-12-10 01:03",
-    "mensaje": "🔸Actualización del servicio eléctrico en la provincia🔸\n✍️Se mantienen afectados en la provincia 166 circuitos.\n✍️En el momento de hacer esta nota la provincia tiene 173 MW por déficit de capacidad de generación.\n✍️Cuenta con 127 afectaciones  por averías secundarias y de servicio.",
-    "timestamp": 1765328595,
-    "timestamp_local": 1765328595
   }
 ]
