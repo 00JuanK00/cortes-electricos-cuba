@@ -1,5 +1,37 @@
 [
   {
+    "id": 35486,
+    "fecha": "10 de Dec del 2025 a las 03:00 PM",
+    "hora_utc": "2025-12-10 20:00",
+    "mensaje": "💡Con servicio eléctrico los siguientes circuitos:\n🔸Municipio Camajuaní:\n👉Cto 75 La Quinta\n👉Cto 157 Luis Arcos Bergnes\n👉Ctos 76 y 90 Vega Alta\n👉Ctos 77, 59 y 185 Vueltas",
+    "timestamp": 1765396808,
+    "timestamp_local": 1765396808
+  },
+  {
+    "id": 35485,
+    "fecha": "10 de Dec del 2025 a las 02:58 PM",
+    "hora_utc": "2025-12-10 19:58",
+    "mensaje": "⚠️Afectados por déficit de capacidad de generación los siguientes circuitos:\n🔹Municipio Ranchuelo: \n👉Ctos 89, 97, 188 y 189\n👉Ctos 148 y 149 San Juan\n👉Cto 91 Batey Osvaldo Herrera\n👉Cto 181 Batey Ifraín Alfonso",
+    "timestamp": 1765396722,
+    "timestamp_local": 1765396722
+  },
+  {
+    "id": 35484,
+    "fecha": "10 de Dec del 2025 a las 02:57 PM",
+    "hora_utc": "2025-12-10 19:57",
+    "mensaje": "⚠️Afectada por manipulación la línea del 1920:\n🔸Municipio Placetas:\n👉Cto 101 y 145 Cumbre\n👉Cto 107 Baez\n👉Cto 105 Nazareno",
+    "timestamp": 1765396666,
+    "timestamp_local": 1765396666
+  },
+  {
+    "id": 35483,
+    "fecha": "10 de Dec del 2025 a las 02:55 PM",
+    "hora_utc": "2025-12-10 19:55",
+    "mensaje": "⚡Afectada por avería la línea del 4608:\n🔸Municipio Corralillo:\n👉Ctos 58 y 159\n👉Cto 57 Motembo\n👉Cto 56 Yabre\n👉Cto 60 La Sierra\n👉Cto 55 Rancho Veloz",
+    "timestamp": 1765396536,
+    "timestamp_local": 1765396536
+  },
+  {
     "id": 35482,
     "fecha": "10 de Dec del 2025 a las 02:44 PM",
     "hora_utc": "2025-12-10 19:44",
@@ -126,37 +158,5 @@
     "mensaje": "💡Con servicio los siguientes circuitos:\n🔸Municipio Santo Domingo:\n👉Cto 134\n👉Ctos 87 y 96 Bermejal\n👉Cto 187 Batey Carlos Baliño\n👉Cto 82 Ulacia\n👉Cto 84 Rodrigo\n🔸Municipio Ranchuelo: \n👉Ctos 89, 97, 188 y 189\n👉Ctos 148 y 149 San Juan\n👉Cto 91 Batey Osvaldo Herrera\n👉Cto 181 Batey Ifraín Alfonso",
     "timestamp": 1765380946,
     "timestamp_local": 1765380946
-  },
-  {
-    "id": 35466,
-    "fecha": "10 de Dec del 2025 a las 10:22 AM",
-    "hora_utc": "2025-12-10 15:22",
-    "mensaje": "⚠️ Afectado por déficit de capacidad de generación el Cto 168 (Condado- XX Aniversario), perteneciente al municipio Santa Clara.",
-    "timestamp": 1765380138,
-    "timestamp_local": 1765380138
-  },
-  {
-    "id": 35465,
-    "fecha": "10 de Dec del 2025 a las 10:21 AM",
-    "hora_utc": "2025-12-10 15:21",
-    "mensaje": "La Provincia presenta 1 afectación de servicio eléctrico por transformador dañado:\n👉Municipio Placetas: Carretera a Zuluetas km 7 . CAI Hermanos Amejeiras",
-    "timestamp": 1765380111,
-    "timestamp_local": 1765380111
-  },
-  {
-    "id": 35464,
-    "fecha": "10 de Dec del 2025 a las 10:14 AM",
-    "hora_utc": "2025-12-10 15:14",
-    "mensaje": "💡Con servicio los siguientes circuitos:\n🔸Municipio Caibarién\n👉Ctos 182 y 183 Van Troy",
-    "timestamp": 1765379648,
-    "timestamp_local": 1765379648
-  },
-  {
-    "id": 35463,
-    "fecha": "10 de Dec del 2025 a las 10:03 AM",
-    "hora_utc": "2025-12-10 15:03",
-    "mensaje": "🔸Actualización del servicio eléctrico en la provincia🔸\n✍️Se mantienen afectados en la provincia 94 circuitos.\n✍️En el momento de hacer esta nota la provincia tiene 77 MW por déficit de capacidad de generación.\n✍️Cuenta con 117 afectaciones  por averías secundarias y de servicio.",
-    "timestamp": 1765379000,
-    "timestamp_local": 1765379000
   }
 ]
