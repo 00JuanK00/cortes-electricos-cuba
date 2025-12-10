@@ -1,5 +1,29 @@
 [
   {
+    "id": 99936,
+    "fecha": "10 de Dec del 2025 a las 12:15 PM",
+    "hora_utc": "2025-12-10 17:15",
+    "mensaje": "**🚨Se informa a nuestros clientes que las condiciones del Sistema Eléctrico Nacional (SEN) continúa siendo desfavorable,por tal motivo las afectaciones seguirán siendo elevadas.El restablecimiento del servicio eléctrico dependerá del comportamiento y disponibilidad del sistema 🚨**",
+    "timestamp": 1765386924,
+    "timestamp_local": 1765386924
+  },
+  {
+    "id": 99934,
+    "fecha": "10 de Dec del 2025 a las 12:00 PM",
+    "hora_utc": "2025-12-10 17:00",
+    "mensaje": "♦️ Afectado el servicio en el circuito de Santa Cruz por disparo en las líneas♦️",
+    "timestamp": 1765386010,
+    "timestamp_local": 1765386010
+  },
+  {
+    "id": 99933,
+    "fecha": "10 de Dec del 2025 a las 11:59 AM",
+    "hora_utc": "2025-12-10 16:59",
+    "mensaje": "🚨Por déficit de capacidad de generación se afecta el servicio en el siguiente circuito:\n *Güines 3 🚨",
+    "timestamp": 1765385942,
+    "timestamp_local": 1765385942
+  },
+  {
     "id": 99932,
     "fecha": "10 de Dec del 2025 a las 11:27 AM",
     "hora_utc": "2025-12-10 16:27",
@@ -86,37 +110,5 @@
     "mensaje": "**Nota Informativa: Estado del Sistema Eléctrico Nacional (SEN) – 10 de diciembre de 2025\n**En el día de ayer se afectó el servicio durante las 24 horas. La máxima afectación por déficit de capacidad de generación en el día de ayer fue de 2185 MW a las 18:10 horas.\nLa producción de energía de los 33 nuevos parques solares fotovoltaicos fue de 2158 MWh, con 398 MW como máxima potencia entregada en el horario de la media con esta fuente de generación.\n**Estado actual del SEN\n**La disponibilidad del SEN a las 06:00 horas es de 1450 MW y la demanda 2450 MW con 1016 MW afectados por déficit de capacidad. En el horario de la media se estima una afectación de 1350 MW. \n**Principales incidencias\n** • Avería: Unidad 5 de la CTE Maximo Gomez, Unidad 6 de la CTE Diez de Octubre, Unidad 2 de la CTE Felton y Unidad 6 de la CTE Renté.\n • Mantenimiento: Unidades 2 y 3 de la CTE Santa Cruz, Unidad 4 de la CTE Carlos Manuel de Céspedes en Cienfuegos.\n • Limitaciones en la generación térmica: 488 MW fuera de servicio.\n • Problemas por falta de combustible\n • 98 centrales de generación distribuida con 911 MW.\n • 94 MW indisponibles por falta de lubricante.\n • Total de MW afectados por esta causa: 1005 MW.\n**Pronóstico para el horario pico\n**Para el pico se estima la entrada de la unidad 6 de la CTE Nuevitas con 90 MW.\nCon este pronóstico se prevé una disponibilidad de 1540 MW y una demanda máxima de 3300 MW, para un déficit de 1760 MW, por lo que de mantenerse las condiciones previstas se pronostica una afectación de 1790 MW en este horario.",
     "timestamp": 1765373616,
     "timestamp_local": 1765373616
-  },
-  {
-    "id": 99916,
-    "fecha": "10 de Dec del 2025 a las 08:32 AM",
-    "hora_utc": "2025-12-10 13:32",
-    "mensaje": "🚨Por déficit de capacidad de generación se afecta el servicio en el siguiente circuito:\n *Nueva Paz 🚨",
-    "timestamp": 1765373569,
-    "timestamp_local": 1765373569
-  },
-  {
-    "id": 99915,
-    "fecha": "10 de Dec del 2025 a las 07:57 AM",
-    "hora_utc": "2025-12-10 12:57",
-    "mensaje": "🚨Por déficit de capacidad de generación se afecta el servicio en el siguiente circuito:\n *Madruga 🚨",
-    "timestamp": 1765371446,
-    "timestamp_local": 1765371446
-  },
-  {
-    "id": 99914,
-    "fecha": "10 de Dec del 2025 a las 07:31 AM",
-    "hora_utc": "2025-12-10 12:31",
-    "mensaje": "🚨Por déficit de capacidad de generación se afecta el servicio en el siguiente circuito:\n *Bío -2 🚨",
-    "timestamp": 1765369903,
-    "timestamp_local": 1765369903
-  },
-  {
-    "id": 99913,
-    "fecha": "10 de Dec del 2025 a las 06:41 AM",
-    "hora_utc": "2025-12-10 11:41",
-    "mensaje": "🔷♦️Se restablece el servicio en el circuito que se encontraba afectado  por déficit de capacidad de generación:\n * Ganuza ♦️🔷",
-    "timestamp": 1765366915,
-    "timestamp_local": 1765366915
   }
 ]
