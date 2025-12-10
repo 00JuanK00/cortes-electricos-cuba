@@ -1,5 +1,29 @@
 [
   {
+    "id": 35462,
+    "fecha": "10 de Dec del 2025 a las 09:46 AM",
+    "hora_utc": "2025-12-10 14:46",
+    "mensaje": "⚠️ Afectado por déficit de capacidad de generación el Cto 170 (José Martí), perteneciente al municipio Santa Clara.",
+    "timestamp": 1765378008,
+    "timestamp_local": 1765378008
+  },
+  {
+    "id": 35461,
+    "fecha": "10 de Dec del 2025 a las 09:40 AM",
+    "hora_utc": "2025-12-10 14:40",
+    "mensaje": "💡En servicio los siguientes circuitos:\n🔸Municipio Sagua \n👉Cto 48 Finalet\n👉Ctos 46 y 128 Sitiecito",
+    "timestamp": 1765377652,
+    "timestamp_local": 1765377652
+  },
+  {
+    "id": 35460,
+    "fecha": "10 de Dec del 2025 a las 09:19 AM",
+    "hora_utc": "2025-12-10 14:19",
+    "mensaje": "⚠️ Afectados por déficit de capacidad de generación los siguientes circuitos:  \n🔹Municipio Remedios:\n👉Ctos 67 y 152, 68 y 118 \n👉Ctos 69 y 70 Zuluetas\n👉Cto 143 Batey Heriberto Duquesne\n👉Cto 71 Buena Vista\n🛠️Se mantienen en avería los circuitos 67 y 152 del municipio Remedios.",
+    "timestamp": 1765376350,
+    "timestamp_local": 1765376350
+  },
+  {
     "id": 35459,
     "fecha": "10 de Dec del 2025 a las 09:02 AM",
     "hora_utc": "2025-12-10 14:02",
@@ -126,29 +150,5 @@
     "mensaje": "🕛Actualización del servicio eléctrico en las últimas 6 horas.\n👉El déficit de capacidad de generación osciló entre los 206 MW y los 127 MW.\n👉En el momento de esta nota, se mantienen afectados 166 circuitos.\n👉Cuenta con 128 afectaciones por averías secundarias y de servicio:\n🔸Caibarién (4)\n🔸Cifuentes (1)\n🔸Corralillo (1)\n🔸Camajuaní (5)\n🔸Manicaragua (8)\n🔸Ranchuelo (2)\n🔸Remedios (12)\n🔸Sagua (11)\n🔸Santa Clara (64)\n🔸Santo Domingo (8)\n🛠️Se encuentran 3 averías en vías de solución.\n🛠️Pendientes a solucionar por el área técnica 14.\n⚡La provincia no presenta averías primarias en estos momentos.",
     "timestamp": 1765344203,
     "timestamp_local": 1765344203
-  },
-  {
-    "id": 35442,
-    "fecha": "10 de Dec del 2025 a las 12:00 AM",
-    "hora_utc": "2025-12-10 05:00",
-    "mensaje": "⚠️ Afectados por déficit de capacidad de generación los siguientes circuitos:\n🔹Municipio Sagua\n👉Cto 43 y  51 Sagua\n👉Cto 44 Isabela",
-    "timestamp": 1765342828,
-    "timestamp_local": 1765342828
-  },
-  {
-    "id": 35441,
-    "fecha": "09 de Dec del 2025 a las 11:55 PM",
-    "hora_utc": "2025-12-10 04:55",
-    "mensaje": "⚠️ Afectados por déficit de capacidad de generación los siguientes circuitos:\n🔹Municipio Encrucijada:\n👉Cto 122 Encrucijada \n👉Cto 123 Vizcaya \n👉Cto 142 Comunidad La Sierra \n👉Cto 126 Batey Emilio Córdova\n👉Cto 125 Cavarrocas\n👉Cto 124 El Santo\n🔹Municipio Camajuaní:\n👉Cto 78 Jutiero",
-    "timestamp": 1765342521,
-    "timestamp_local": 1765342521
-  },
-  {
-    "id": 35440,
-    "fecha": "09 de Dec del 2025 a las 11:02 PM",
-    "hora_utc": "2025-12-10 04:02",
-    "mensaje": "Afectados 135 MW en la provincia, demanda máxima a apagar en estos momentos.",
-    "timestamp": 1765339350,
-    "timestamp_local": 1765339350
   }
 ]
