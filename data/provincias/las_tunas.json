@@ -1,5 +1,21 @@
 [
   {
+    "id": 17390,
+    "fecha": "11 de Dec del 2025 a las 05:11 PM",
+    "hora_utc": "2025-12-11 22:11",
+    "mensaje": "Máxima capacidad apagable se refiere al nivel máximo de demanda eléctrica que puede ser desconectada o suspendida temporalmente en la provincia, explica la complejidad del déficit de generación o contingencias en el sistema eléctrico.\nRepresenta el límite superior de la reducción de carga que la empresa puede lograr mediante cortes de energía (apagones). Cuanto mayor sea la máxima capacidad apagable, mayor será el déficit de energía.\n¿Qué implica esto?\nSe identifica cuántos circuitos pueden ser apagados para equilibrar la carga del sistema, esto imposibilita realizar rotaciones, pues a excepción de los servicios priorizados, se encuentran afectados todos los circuitos apagables del territorio. Podrán presentarse afectaciones en el servicio de electricidad durante varias horas al día y el tiempo con servicio dependerá del comportamiento del SEN. Esta medida es necesaria para evitar fallas mayores y proteger la infraestructura eléctrica.",
+    "timestamp": 1765491101,
+    "timestamp_local": 1765491101
+  },
+  {
+    "id": 17389,
+    "fecha": "11 de Dec del 2025 a las 05:11 PM",
+    "hora_utc": "2025-12-11 22:11",
+    "mensaje": "Estimados clientes,\nLes informamos que, debido a la actual situación energética del país, nuestra provincia se encuentra operando bajo la máxima capacidad apagable. Esto significa que todos los circuitos eléctricos que pueden ser desconectados temporalmente están siendo utilizados para mantener el equilibrio del sistema nacional.",
+    "timestamp": 1765491074,
+    "timestamp_local": 1765491074
+  },
+  {
     "id": 17387,
     "fecha": "11 de Dec del 2025 a las 12:56 PM",
     "hora_utc": "2025-12-11 17:56",
@@ -118,21 +134,5 @@
     "mensaje": "Solucionada la  avería de los circuitos 6305 y TK10",
     "timestamp": 1765307934,
     "timestamp_local": 1765307934
-  },
-  {
-    "id": 17367,
-    "fecha": "09 de Dec del 2025 a las 12:09 PM",
-    "hora_utc": "2025-12-09 17:09",
-    "mensaje": "Informamos a nuestros clientes que en este momento nos encontramos en la máxima capacidad apagable, lo que impide el restablecimiento inmediato del servicio eléctrico en los circuitos afectados. La situación podrá mejorar en la medida en que el Sistema Electroenergético Nacional permita recuperar la capacidad degeneración.",
-    "timestamp": 1765300187,
-    "timestamp_local": 1765300187
-  },
-  {
-    "id": 17366,
-    "fecha": "09 de Dec del 2025 a las 10:10 AM",
-    "hora_utc": "2025-12-09 15:10",
-    "mensaje": "Se declara en avería el circuito TK10: El Cornito",
-    "timestamp": 1765293049,
-    "timestamp_local": 1765293049
   }
 ]

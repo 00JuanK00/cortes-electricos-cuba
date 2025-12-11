@@ -1,5 +1,29 @@
 [
   {
+    "id": 35592,
+    "fecha": "11 de Dec del 2025 a las 05:48 PM",
+    "hora_utc": "2025-12-11 22:48",
+    "mensaje": "Afectados 125 MW en la provincia, demanda máxima a apagar en estos momentos.",
+    "timestamp": 1765493283,
+    "timestamp_local": 1765493283
+  },
+  {
+    "id": 35591,
+    "fecha": "11 de Dec del 2025 a las 05:22 PM",
+    "hora_utc": "2025-12-11 22:22",
+    "mensaje": "⚠️Afectado por déficit de capacidad de generación el siguiente circuito:\n🔹Municipio Manicaragua:\n👉Cto 112 Hoyo Manicaragua",
+    "timestamp": 1765491752,
+    "timestamp_local": 1765491752
+  },
+  {
+    "id": 35590,
+    "fecha": "11 de Dec del 2025 a las 05:16 PM",
+    "hora_utc": "2025-12-11 22:16",
+    "mensaje": "Afectados 121 MW en la provincia, demanda máxima a apagar en estos momentos.",
+    "timestamp": 1765491364,
+    "timestamp_local": 1765491364
+  },
+  {
     "id": 35589,
     "fecha": "11 de Dec del 2025 a las 04:25 PM",
     "hora_utc": "2025-12-11 21:25",
@@ -134,29 +158,5 @@
     "mensaje": "⚡Avería.⚡\n⚡Afectado el circuito 81(26 de Julio) perteneciente al Municipio Santo Domingo por cables primarios partidos.",
     "timestamp": 1765478192,
     "timestamp_local": 1765478192
-  },
-  {
-    "id": 35572,
-    "fecha": "11 de Dec del 2025 a las 01:32 PM",
-    "hora_utc": "2025-12-11 18:32",
-    "mensaje": "💡Con servicio eléctrico en los siguientes circuitos:\n🔹Municipio Santo Domingo:\n👉Cto 134\n👉Ctos 87 y 96 Bermejal\n👉Cto 187 Batey Carlos Baliño\n👉Cto 82 Ulacia\n👉Cto 84 Rodrigo",
-    "timestamp": 1765477957,
-    "timestamp_local": 1765477957
-  },
-  {
-    "id": 35571,
-    "fecha": "11 de Dec del 2025 a las 01:25 PM",
-    "hora_utc": "2025-12-11 18:25",
-    "mensaje": "⚠️Afectados por déficit de capacidad de generación los siguientes circuitos:\n🔹Municipio Caibarién:\n👉Ctos 61, 62 (Caibarien)",
-    "timestamp": 1765477519,
-    "timestamp_local": 1765477519
-  },
-  {
-    "id": 35570,
-    "fecha": "11 de Dec del 2025 a las 01:23 PM",
-    "hora_utc": "2025-12-11 18:23",
-    "mensaje": "💡Con servicio eléctrico en los siguientes circuitos:\n🔹Municipio Caibarién\n👉Ctos 63 y 64(Caibarien)",
-    "timestamp": 1765477439,
-    "timestamp_local": 1765477439
   }
 ]
