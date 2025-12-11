@@ -1,5 +1,37 @@
 [
   {
+    "id": 35532,
+    "fecha": "11 de Dec del 2025 a las 06:11 AM",
+    "hora_utc": "2025-12-11 11:11",
+    "mensaje": "Afectados 72 MW en la provincia, demanda máxima a apagar en estos momentos.",
+    "timestamp": 1765451488,
+    "timestamp_local": 1765451488
+  },
+  {
+    "id": 35531,
+    "fecha": "11 de Dec del 2025 a las 06:09 AM",
+    "hora_utc": "2025-12-11 11:09",
+    "mensaje": "⚠️Afectados por déficit de capacidad de generación los siguientes circuitos:\n🔹Municipio Placetas\n 👉Ctos 100 y 151 Placetas\n👉Cto 104 Hermanos Amejeiras\n👉Cto 103 Batey Carbó Servia",
+    "timestamp": 1765451381,
+    "timestamp_local": 1765451381
+  },
+  {
+    "id": 35530,
+    "fecha": "11 de Dec del 2025 a las 06:08 AM",
+    "hora_utc": "2025-12-11 11:08",
+    "mensaje": "⚠️Afectado por déficit de capacidad de generación el Cto 99, perteneciente al municipio Placetas.",
+    "timestamp": 1765451329,
+    "timestamp_local": 1765451329
+  },
+  {
+    "id": 35529,
+    "fecha": "11 de Dec del 2025 a las 06:06 AM",
+    "hora_utc": "2025-12-11 11:06",
+    "mensaje": "🕕Actualización del servicio eléctrico en las últimas 6 horas.\n👉El déficit de capacidad de generación osciló entre los 58 MW y los 45 MW.\n👉En el momento de esta nota, se mantienen afectados 112 circuitos.\n👉Cuenta con 114 afectaciones por averías secundarias y de servicio:\n🔸Caibarién (5)\n🔸Cifuentes (1)\n🔸Manicaragua (16)\n🔸Placetas (3)\n🔸Ranchuelo (1)\n🔸Remedios (7)\n🔸Sagua (7)\n🔸Santa Clara (71)\n🔸Santo Domingo (3)\n🛠️Pendientes a solucionar por el área técnica 14.\n⚡En este momento la provincia no presenta averías primarias.",
+    "timestamp": 1765451198,
+    "timestamp_local": 1765451198
+  },
+  {
     "id": 35528,
     "fecha": "11 de Dec del 2025 a las 05:04 AM",
     "hora_utc": "2025-12-11 10:04",
@@ -126,37 +158,5 @@
     "mensaje": "⚠️Afectada por manipulación la línea del 1205.",
     "timestamp": 1765420205,
     "timestamp_local": 1765420205
-  },
-  {
-    "id": 35512,
-    "fecha": "10 de Dec del 2025 a las 09:06 PM",
-    "hora_utc": "2025-12-11 02:06",
-    "mensaje": "Afectados 98 MW en la provincia, demanda máxima a apagar en estos momentos.",
-    "timestamp": 1765418789,
-    "timestamp_local": 1765418789
-  },
-  {
-    "id": 35511,
-    "fecha": "10 de Dec del 2025 a las 09:05 PM",
-    "hora_utc": "2025-12-11 02:05",
-    "mensaje": "⚠️Afectados por déficit de capacidad de generación los siguientes circuitos:\n🔹Municipio Camajuaní:\n👉Cto 75 La Quinta\n👉Cto 157 Luis Arcos Bergnes\n👉Ctos 76 y 90 Vega Alta\n👉Ctos 77, 59 y 185 Vueltas",
-    "timestamp": 1765418744,
-    "timestamp_local": 1765418744
-  },
-  {
-    "id": 35510,
-    "fecha": "10 de Dec del 2025 a las 09:02 PM",
-    "hora_utc": "2025-12-11 02:02",
-    "mensaje": "💡Con servicio eléctrico los siguientes circuitos:\n🔸Municipio Sagua\n👉Cto 43 y 51 Sagua\n👉Cto 44 Isabela\n🔸Municipio Santa Clara:\n👉Cto 5 (Dobarganes)\n👉Cto 17 (Subplanta)\n👉Cto 13 SC Industrial\n👉Ctos 37 y 38 (Yabú)   \n👉Cto 9 (Moldes y Troqueles)\n👉Cto 133 (Taller Cafetera)",
-    "timestamp": 1765418560,
-    "timestamp_local": 1765418560
-  },
-  {
-    "id": 35509,
-    "fecha": "10 de Dec del 2025 a las 08:56 PM",
-    "hora_utc": "2025-12-11 01:56",
-    "mensaje": "🇨🇺 Actualización del Sistema Electroenergético Nacional a las 19:00 del 10 de diciembre de 2025.\n\nIncidencias:\n07:44 Salida de las unidades 2 y 5 de Energas Jaruco por trabajos en Puerto Escondido.\n17:05 En linea la Unidad 6 de la CTE Diez de Octubre.\n\n#UnidosXCuba #NotaInformativa #UniónEléctrica #SEN",
-    "timestamp": 1765418204,
-    "timestamp_local": 1765418204
   }
 ]
