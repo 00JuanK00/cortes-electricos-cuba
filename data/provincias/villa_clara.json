@@ -1,5 +1,29 @@
 [
   {
+    "id": 35644,
+    "fecha": "12 de Dec del 2025 a las 12:48 PM",
+    "hora_utc": "2025-12-12 17:48",
+    "mensaje": "💡Restablecido el servicio eléctrico en el circuito 169 Condado después de solucionada la avería.",
+    "timestamp": 1765561686,
+    "timestamp_local": 1765561686
+  },
+  {
+    "id": 35643,
+    "fecha": "12 de Dec del 2025 a las 12:41 PM",
+    "hora_utc": "2025-12-12 17:41",
+    "mensaje": "⚠️Afectado por déficit de capacidad de generación los siguiente circuitos:\n👉Municipio Santa Clara\nCto 7 (Universidad)  \nCto 131 (Las Antillas)",
+    "timestamp": 1765561302,
+    "timestamp_local": 1765561302
+  },
+  {
+    "id": 35642,
+    "fecha": "12 de Dec del 2025 a las 12:22 PM",
+    "hora_utc": "2025-12-12 17:22",
+    "mensaje": "⚠️Afectado por déficit de capacidad de generación los siguiente circuitos:\n👉Municipio Camajuaní:\nCto 75 La Quinta\nCto 157 Luis Arcos Bergnes\nCtos 76 y 90 Vega Alta\nCtos 77, 59 y 185 Vueltas\n👉Municipio Santa Clara\nCto 153 (EIDE)\nCtos 15 y 27 (Maleza)",
+    "timestamp": 1765560121,
+    "timestamp_local": 1765560121
+  },
+  {
     "id": 35641,
     "fecha": "12 de Dec del 2025 a las 11:59 AM",
     "hora_utc": "2025-12-12 16:59",
@@ -102,29 +126,5 @@
     "mensaje": "💡Con servicio eléctrico en los siguientes circuitos:\n👉Municipio Camajuaní:\nCtos  72, 73, 129 y 156 \nCto 74 José María Pérez",
     "timestamp": 1765548208,
     "timestamp_local": 1765548208
-  },
-  {
-    "id": 35623,
-    "fecha": "12 de Dec del 2025 a las 08:42 AM",
-    "hora_utc": "2025-12-12 13:42",
-    "mensaje": "💡Con servicio eléctrico en los siguientes circuitos:\n👉Municipio Sagua \nCto 48 Finalet\nCtos 46 y 128 Sitiecito",
-    "timestamp": 1765546925,
-    "timestamp_local": 1765546925
-  },
-  {
-    "id": 35622,
-    "fecha": "12 de Dec del 2025 a las 08:35 AM",
-    "hora_utc": "2025-12-12 13:35",
-    "mensaje": "💡Con servicio eléctrico en los siguientes circuitos:\n\n👉Municipio Camajuaní:\nCto 75 La Quinta\nCto 157 Luis Arcos Bergnes\nCtos 76 y 90 Vega Alta\nCtos 77, 59 y 185 Vueltas",
-    "timestamp": 1765546534,
-    "timestamp_local": 1765546534
-  },
-  {
-    "id": 35621,
-    "fecha": "12 de Dec del 2025 a las 08:09 AM",
-    "hora_utc": "2025-12-12 13:09",
-    "mensaje": "💡Con servicio eléctrico en los siguientes circuitos:\n👉Municipio Santa Clara:\nCto 167 (Virginia)\nCto 170 (José Martí)\nCto 171 (Los Caneyes)",
-    "timestamp": 1765544989,
-    "timestamp_local": 1765544989
   }
 ]
