@@ -1,5 +1,29 @@
 [
   {
+    "id": 35649,
+    "fecha": "12 de Dec del 2025 a las 02:37 PM",
+    "hora_utc": "2025-12-12 19:37",
+    "mensaje": "⚡Afectada por disparo la Línea 13 kV del municipio Remedios:\n👉Ctos 68 y 118",
+    "timestamp": 1765568256,
+    "timestamp_local": 1765568256
+  },
+  {
+    "id": 35648,
+    "fecha": "12 de Dec del 2025 a las 02:25 PM",
+    "hora_utc": "2025-12-12 19:25",
+    "mensaje": "⚠️Afectado por déficit de capacidad de generación el circuito 30 Capiro del municipio Santa Clara.",
+    "timestamp": 1765567536,
+    "timestamp_local": 1765567536
+  },
+  {
+    "id": 35647,
+    "fecha": "12 de Dec del 2025 a las 02:19 PM",
+    "hora_utc": "2025-12-12 19:19",
+    "mensaje": "⚠️Afectado por déficit de capacidad de generación el circuito 3 zona Centro, del municipio Santa Clara.",
+    "timestamp": 1765567159,
+    "timestamp_local": 1765567159
+  },
+  {
     "id": 35646,
     "fecha": "12 de Dec del 2025 a las 02:01 PM",
     "hora_utc": "2025-12-12 19:01",
@@ -110,29 +134,5 @@
     "mensaje": "💡Restablecida  Línea 1785.\n🔹Línea 1785\n👉Municipio Santa Clara:\nCto 6 (Vigía)\nCto 34(Sabana Rebacadero)\nCtos 32 y 33 (RF-33Kv)\nCto 39 (Sandino)",
     "timestamp": 1765552875,
     "timestamp_local": 1765552875
-  },
-  {
-    "id": 35629,
-    "fecha": "12 de Dec del 2025 a las 10:17 AM",
-    "hora_utc": "2025-12-12 15:17",
-    "mensaje": "🛠️Afectada por manipulación la Línea 1785.\n🔹Línea 1785\n👉Municipio Santa Clara:\nCto 6 (Vigía)\nCto 34(Sabana Rebacadero)\nCtos 32 y 33 (RF-33Kv)\nCto 39 (Sandino)",
-    "timestamp": 1765552643,
-    "timestamp_local": 1765552643
-  },
-  {
-    "id": 35627,
-    "fecha": "12 de Dec del 2025 a las 10:05 AM",
-    "hora_utc": "2025-12-12 15:05",
-    "mensaje": "La Provincia presenta 2 afectaciones de servicio eléctrico por transformador dañado:\n👉Municipio Placetas: Carretera a Zuluetas km 7 . CAI Hermanos Amejeiras\n👉Municipio Remedios: Ejido Norte #22 e/ Barrio La Malanga",
-    "timestamp": 1765551930,
-    "timestamp_local": 1765551930
-  },
-  {
-    "id": 35626,
-    "fecha": "12 de Dec del 2025 a las 09:59 AM",
-    "hora_utc": "2025-12-12 14:59",
-    "mensaje": "🔸Actualización del servicio eléctrico en la provincia🔸\n✍️Se mantienen afectados en la provincia 79 circuitos.\n✍️En el momento de hacer esta nota la provincia tiene 50 MW por déficit de capacidad de generación.\n✍️Cuenta con 137 afectaciones  por averías secundarias y de servicio.",
-    "timestamp": 1765551595,
-    "timestamp_local": 1765551595
   }
 ]
