@@ -1,9 +1,33 @@
 [
   {
+    "id": 47209,
+    "fecha": "12 de Dec del 2025 a las 07:28 PM",
+    "hora_utc": "2025-12-13 00:28",
+    "mensaje": "Circuito en avería:                                                                                                                          \nSucede si un circuito se interrumpe por causa de un defecto en un cable conductor de corriente (fase o neutro), un fusible fundido o disyuntor. En sistemas trifásicos una falla puede implicar una fase, más de una fase con la tierra o puede ocurrir solo entre fases.",
+    "timestamp": 1765585683,
+    "timestamp_local": 1765585683
+  },
+  {
+    "id": 47208,
+    "fecha": "12 de Dec del 2025 a las 07:26 PM",
+    "hora_utc": "2025-12-13 00:26",
+    "mensaje": "🚨🔊 Estimados clientes en estos momentos se declara en avería el circuito 11 de Santiago.",
+    "timestamp": 1765585564,
+    "timestamp_local": 1765585564
+  },
+  {
+    "id": 47207,
+    "fecha": "12 de Dec del 2025 a las 06:50 PM",
+    "hora_utc": "2025-12-12 23:50",
+    "mensaje": "Disparo:  \nApertura no voluntaria de un interruptor como vía de protección para desconectar uno o varios elementos del circuito, subestación o sistema, restableciéndose el servicio rápidamente en dependencia de la causa.",
+    "timestamp": 1765583418,
+    "timestamp_local": 1765583418
+  },
+  {
     "id": 47206,
     "fecha": "12 de Dec del 2025 a las 06:43 PM",
     "hora_utc": "2025-12-12 23:43",
-    "mensaje": "🚨🔊 Estimados clientes en estos momentos se encuentra en avería el circuito 11 de Santiago, pedimos disculpas por las molestias ocasionadas.",
+    "mensaje": "🚨🔊 Estimados clientes en estos momentos se encuentra disparado el circuito 11 de Santiago, pedimos disculpas por las molestias ocasionadas.",
     "timestamp": 1765583037,
     "timestamp_local": 1765583037
   },
@@ -126,21 +150,5 @@
     "mensaje": "🔴 Estimados clientes en estos momentos se encuentra afectado por Déficit de Capacidad de Generación el circuito 13 de Santiago y la Línea 5390 Maya",
     "timestamp": 1765534375,
     "timestamp_local": 1765534375
-  },
-  {
-    "id": 47188,
-    "fecha": "12 de Dec del 2025 a las 12:38 AM",
-    "hora_utc": "2025-12-12 05:38",
-    "mensaje": "📌La Empresa Eléctrica de Santiago de Cuba pone a disposición de sus clientes la  programación de afectaciones correspondiente al día de hoy. \n\nNota: El comportamiento de las afectaciones estará en dependencia de la situación que presente el Sistema Electronergético Nacional.",
-    "timestamp": 1765517919,
-    "timestamp_local": 1765517919
-  },
-  {
-    "id": 47187,
-    "fecha": "11 de Dec del 2025 a las 08:44 PM",
-    "hora_utc": "2025-12-12 01:44",
-    "mensaje": "🔴Estimados clientes en estos momentos se incorporan a la afectación por Déficit de Capacidad de Generación los circuitos 11 y 12 de Santiago y la Línea 5380 de Mella.",
-    "timestamp": 1765503893,
-    "timestamp_local": 1765503893
   }
 ]
