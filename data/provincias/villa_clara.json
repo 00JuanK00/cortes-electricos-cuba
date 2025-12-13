@@ -1,5 +1,45 @@
 [
   {
+    "id": 35714,
+    "fecha": "13 de Dec del 2025 a las 12:37 PM",
+    "hora_utc": "2025-12-13 17:37",
+    "mensaje": "🛠️Afectado el circuito 32 (RF -33KV), del municipio Santa Clara, por trabajo de vía libre para montar banco de transformadores.",
+    "timestamp": 1765647453,
+    "timestamp_local": 1765647453
+  },
+  {
+    "id": 35713,
+    "fecha": "13 de Dec del 2025 a las 12:34 PM",
+    "hora_utc": "2025-12-13 17:34",
+    "mensaje": "⚠️Afectados por déficit de capacidad de generación los siguientes circuitos:\n🔹Municipio Santa Clara:\n👉Cto 167 (Virginia)\n👉Cto 170 (José Martí)",
+    "timestamp": 1765647294,
+    "timestamp_local": 1765647294
+  },
+  {
+    "id": 35712,
+    "fecha": "13 de Dec del 2025 a las 12:30 PM",
+    "hora_utc": "2025-12-13 17:30",
+    "mensaje": "🛠️Afectado por disparo los circuitos 182 y 183 (Van Troi), del municipio Caibarién. Se estudian las causas.",
+    "timestamp": 1765647001,
+    "timestamp_local": 1765647001
+  },
+  {
+    "id": 35711,
+    "fecha": "13 de Dec del 2025 a las 12:28 PM",
+    "hora_utc": "2025-12-13 17:28",
+    "mensaje": "Con servicio el circuito 65 (Dolores), del municipio Caibarién, perteneciente a la línea 1375.",
+    "timestamp": 1765646933,
+    "timestamp_local": 1765646933
+  },
+  {
+    "id": 35710,
+    "fecha": "13 de Dec del 2025 a las 12:09 PM",
+    "hora_utc": "2025-12-13 17:09",
+    "mensaje": "🕛Actualización del servicio eléctrico en las últimas 6 horas.\n✍️El déficit de capacidad de generación osciló entre los 68 MW y los 115 MW.\n✍️En el momento de esta nota, se mantienen afectados 129 circuitos.\n✍️Cuenta con 192 afectaciones por averías secundarias y de servicio:\n🔸Caibarién (3)\n🔸Camajuaní (2)\n🔸Corralillo (2)\n🔸Encrucijada (2)\n🔸Manicaragua (10)\n🔸Quemado (1)\n🔸Ranchuelo (1)\n🔸Remedios (19) \n🔸Sagua (9) \n🔸Santa Clara (101)\n🔸Santo Domingo (21)\n🛠️Se encuentran 9 averías en vías de solución.\n🛠️Pendientes a solucionar por el área técnica 11.\n\n⚡Avería⚡Afectado el circuito 65 (Dolores), del municipio Caibarién, perteneciente a la línea 1375.",
+    "timestamp": 1765645788,
+    "timestamp_local": 1765645788
+  },
+  {
     "id": 35709,
     "fecha": "13 de Dec del 2025 a las 11:59 AM",
     "hora_utc": "2025-12-13 16:59",
@@ -118,45 +158,5 @@
     "mensaje": "🛠️Afectado por disparo el circuito 164 (Lugardita), del municipio Quemado. Se estudian las causas.",
     "timestamp": 1765633739,
     "timestamp_local": 1765633739
-  },
-  {
-    "id": 35694,
-    "fecha": "13 de Dec del 2025 a las 08:26 AM",
-    "hora_utc": "2025-12-13 13:26",
-    "mensaje": "💡Restablecido el servicio eléctrico en el circuito 170 (José Martí), del municipio Villa Clara.",
-    "timestamp": 1765632388,
-    "timestamp_local": 1765632388
-  },
-  {
-    "id": 35693,
-    "fecha": "13 de Dec del 2025 a las 08:25 AM",
-    "hora_utc": "2025-12-13 13:25",
-    "mensaje": "🔸Actualización del servicio eléctrico en la provincia🔸\n✍️Se mantienen afectados en la provincia 110 circuitos.\n✍️En el momento de hacer esta nota la provincia tiene 85 MW por déficit de capacidad de generación.\n✍️Cuenta con 156 afectaciones  por averías secundarias y de servicio.",
-    "timestamp": 1765632326,
-    "timestamp_local": 1765632326
-  },
-  {
-    "id": 35692,
-    "fecha": "13 de Dec del 2025 a las 07:45 AM",
-    "hora_utc": "2025-12-13 12:45",
-    "mensaje": "⚡Se encuentra afectado el circuito 65 (Dolores), del municipio Caibarién, perteneciente a la línea 1375. Brigadas eléctricas de nuestra empresa preparan las condiciones necesarias para trabajar en el lugar.",
-    "timestamp": 1765629933,
-    "timestamp_local": 1765629933
-  },
-  {
-    "id": 35691,
-    "fecha": "13 de Dec del 2025 a las 07:01 AM",
-    "hora_utc": "2025-12-13 12:01",
-    "mensaje": "⚠️Afectado por déficit de generación el circuito 170 José Martí.",
-    "timestamp": 1765627268,
-    "timestamp_local": 1765627268
-  },
-  {
-    "id": 35690,
-    "fecha": "13 de Dec del 2025 a las 06:57 AM",
-    "hora_utc": "2025-12-13 11:57",
-    "mensaje": "⚠️Afectados por déficit de capacidad de generación los siguiente circuitos:\n\n👉Municipio Sagua\nCto 43, 51 Sagua\nCto 44 Isabela",
-    "timestamp": 1765627073,
-    "timestamp_local": 1765627073
   }
 ]
