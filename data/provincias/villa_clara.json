@@ -1,5 +1,29 @@
 [
   {
+    "id": 35717,
+    "fecha": "13 de Dec del 2025 a las 01:32 PM",
+    "hora_utc": "2025-12-13 18:32",
+    "mensaje": "⚠️Afectados por déficit de capacidad de generación los siguientes circuitos: \n🔹Municipio Camajuaní:\n👉Ctos  72, 73, y 156 \n👉Cto 74 José María Pérez",
+    "timestamp": 1765650773,
+    "timestamp_local": 1765650773
+  },
+  {
+    "id": 35716,
+    "fecha": "13 de Dec del 2025 a las 01:29 PM",
+    "hora_utc": "2025-12-13 18:29",
+    "mensaje": "⚠️Afectados por déficit de capacidad de generación los circuitos 132 y 162 (Santa Clara Industrial).",
+    "timestamp": 1765650567,
+    "timestamp_local": 1765650567
+  },
+  {
+    "id": 35715,
+    "fecha": "13 de Dec del 2025 a las 01:10 PM",
+    "hora_utc": "2025-12-13 18:10",
+    "mensaje": "⚠️Afectados por déficit de capacidad de generación los siguientes circuitos:\n🔹Municipio Caibarién:\n👉Ctos 61, 62,  63 y 64\n👉Ctos 182 y 183 Van Troy",
+    "timestamp": 1765649455,
+    "timestamp_local": 1765649455
+  },
+  {
     "id": 35714,
     "fecha": "13 de Dec del 2025 a las 12:37 PM",
     "hora_utc": "2025-12-13 17:37",
@@ -134,29 +158,5 @@
     "mensaje": "Restablecido parcialmente el circuito 164 (Lugardita), del municipio Quemado.",
     "timestamp": 1765635071,
     "timestamp_local": 1765635071
-  },
-  {
-    "id": 35697,
-    "fecha": "13 de Dec del 2025 a las 09:10 AM",
-    "hora_utc": "2025-12-13 14:10",
-    "mensaje": "Con servicio la línea 1785:\nAfecta los siguientes circuitos:\n🔹Municipio Santa Clara:\n👉Cto 6 (Vigía)\n👉Cto 34(Sabana Rebacadero)\n👉Ctos 32 y 33 (RF-33Kv)\n👉Cto 39 (Sandino)\n✍️Queda afectado el circuito 40 (Hospital Militar) del municipio Santa Clara, por trabajo de vía libre para retirar rama de árbol de la línea primaria.",
-    "timestamp": 1765635031,
-    "timestamp_local": 1765635031
-  },
-  {
-    "id": 35696,
-    "fecha": "13 de Dec del 2025 a las 09:02 AM",
-    "hora_utc": "2025-12-13 14:02",
-    "mensaje": "🛠️Afectado por manipulación la línea 1785:\nAfecta los siguientes circuitos:\n🔹Municipio Santa Clara:\n👉Cto 6 (Vigía)\n👉Cto 34(Sabana Rebacadero)\n👉Ctos 32 y 33 (RF-33Kv)\n👉Cto 39 (Sandino)\n👉Cto 40 (Hospital Militar)",
-    "timestamp": 1765634545,
-    "timestamp_local": 1765634545
-  },
-  {
-    "id": 35695,
-    "fecha": "13 de Dec del 2025 a las 08:48 AM",
-    "hora_utc": "2025-12-13 13:48",
-    "mensaje": "🛠️Afectado por disparo el circuito 164 (Lugardita), del municipio Quemado. Se estudian las causas.",
-    "timestamp": 1765633739,
-    "timestamp_local": 1765633739
   }
 ]
