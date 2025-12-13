@@ -1,5 +1,29 @@
 [
   {
+    "id": 35691,
+    "fecha": "13 de Dec del 2025 a las 07:01 AM",
+    "hora_utc": "2025-12-13 12:01",
+    "mensaje": "⚠️Afectado por déficit de generación el circuito 170 José Martí.",
+    "timestamp": 1765627268,
+    "timestamp_local": 1765627268
+  },
+  {
+    "id": 35690,
+    "fecha": "13 de Dec del 2025 a las 06:57 AM",
+    "hora_utc": "2025-12-13 11:57",
+    "mensaje": "⚠️Afectados por déficit de capacidad de generación los siguiente circuitos:\n\n👉Municipio Sagua\nCto 43, 51 Sagua\nCto 44 Isabela",
+    "timestamp": 1765627073,
+    "timestamp_local": 1765627073
+  },
+  {
+    "id": 35689,
+    "fecha": "13 de Dec del 2025 a las 06:50 AM",
+    "hora_utc": "2025-12-13 11:50",
+    "mensaje": "💡Restablecido el servicio eléctrico en la Línea 1375 de Caibarien.",
+    "timestamp": 1765626638,
+    "timestamp_local": 1765626638
+  },
+  {
     "id": 35688,
     "fecha": "13 de Dec del 2025 a las 06:41 AM",
     "hora_utc": "2025-12-13 11:41",
@@ -126,29 +150,5 @@
     "mensaje": "💡Restablecido el servicio eléctrico en su totalidad en el circuito 30 Capiro, después de solucionada la avería.",
     "timestamp": 1765590111,
     "timestamp_local": 1765590111
-  },
-  {
-    "id": 35670,
-    "fecha": "12 de Dec del 2025 a las 08:01 PM",
-    "hora_utc": "2025-12-13 01:01",
-    "mensaje": "🔸Actualización del servicio eléctrico en la provincia🔸\n✍️Se mantienen afectados en la provincia 138 circuitos.\n✍️En el momento de hacer esta nota la provincia tiene 168 MW por déficit de capacidad de generación.\n✍️Cuenta con 155 afectaciones  por averías secundarias y de servicio.",
-    "timestamp": 1765587695,
-    "timestamp_local": 1765587695
-  },
-  {
-    "id": 35669,
-    "fecha": "12 de Dec del 2025 a las 07:05 PM",
-    "hora_utc": "2025-12-13 00:05",
-    "mensaje": "⚡Afectado de forma parcial el circuito 30 Capiro, por presentar cables primarios partidos.\nBrigadas de nuestra Empresa reúnen las condiciones para trabajar en el lugar y poder restablecer el servicio en el menor tiempo posible.",
-    "timestamp": 1765584355,
-    "timestamp_local": 1765584355
-  },
-  {
-    "id": 35668,
-    "fecha": "12 de Dec del 2025 a las 07:00 PM",
-    "hora_utc": "2025-12-13 00:00",
-    "mensaje": "Afectados 168 MW en la provincia, demanda máxima a apagar en estos momentos.",
-    "timestamp": 1765584001,
-    "timestamp_local": 1765584001
   }
 ]
