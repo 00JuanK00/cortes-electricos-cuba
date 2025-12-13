@@ -1,5 +1,29 @@
 [
   {
+    "id": 35672,
+    "fecha": "12 de Dec del 2025 a las 09:19 PM",
+    "hora_utc": "2025-12-13 02:19",
+    "mensaje": "🔴 20:10 || Salida de la Unidad 8 de la CTE Máximo Gómez por salidero en el ECO.",
+    "timestamp": 1765592352,
+    "timestamp_local": 1765592352
+  },
+  {
+    "id": 35671,
+    "fecha": "12 de Dec del 2025 a las 08:41 PM",
+    "hora_utc": "2025-12-13 01:41",
+    "mensaje": "💡Restablecido el servicio eléctrico en su totalidad en el circuito 30 Capiro, después de solucionada la avería.",
+    "timestamp": 1765590111,
+    "timestamp_local": 1765590111
+  },
+  {
+    "id": 35670,
+    "fecha": "12 de Dec del 2025 a las 08:01 PM",
+    "hora_utc": "2025-12-13 01:01",
+    "mensaje": "🔸Actualización del servicio eléctrico en la provincia🔸\n✍️Se mantienen afectados en la provincia 138 circuitos.\n✍️En el momento de hacer esta nota la provincia tiene 168 MW por déficit de capacidad de generación.\n✍️Cuenta con 155 afectaciones  por averías secundarias y de servicio.",
+    "timestamp": 1765587695,
+    "timestamp_local": 1765587695
+  },
+  {
     "id": 35669,
     "fecha": "12 de Dec del 2025 a las 07:05 PM",
     "hora_utc": "2025-12-13 00:05",
@@ -126,29 +150,5 @@
     "mensaje": "⚠️Afectados por déficit de capacidad de generación los siguiente circuitos:\n👉Cto 132 SC Industrial\n👉Cto 162 SC Industrial",
     "timestamp": 1765570500,
     "timestamp_local": 1765570500
-  },
-  {
-    "id": 35652,
-    "fecha": "12 de Dec del 2025 a las 02:48 PM",
-    "hora_utc": "2025-12-12 19:48",
-    "mensaje": "💡Restablecido el servicio eléctrico en la Línea 13 kV del municipio Remedios.",
-    "timestamp": 1765568938,
-    "timestamp_local": 1765568938
-  },
-  {
-    "id": 35651,
-    "fecha": "12 de Dec del 2025 a las 02:47 PM",
-    "hora_utc": "2025-12-12 19:47",
-    "mensaje": "🟢 13:08 || En línea la Unidad 6 de la CTE Máximo Gómez, subiendo carga.",
-    "timestamp": 1765568847,
-    "timestamp_local": 1765568847
-  },
-  {
-    "id": 35650,
-    "fecha": "12 de Dec del 2025 a las 02:47 PM",
-    "hora_utc": "2025-12-12 19:47",
-    "mensaje": "🔴 11:34 || Fuera de línea la Unidad 6 de la CTE Máximo Gómez, por baja presión en bomba de lubricacion.",
-    "timestamp": 1765568831,
-    "timestamp_local": 1765568831
   }
 ]
