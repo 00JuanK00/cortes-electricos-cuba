@@ -1,5 +1,13 @@
 [
   {
+    "id": 17403,
+    "fecha": "13 de Dec del 2025 a las 05:47 PM",
+    "hora_utc": "2025-12-13 22:47",
+    "mensaje": "Se afecta fuera de horario el circuito TK2 Bonachea por déficit.",
+    "timestamp": 1765666058,
+    "timestamp_local": 1765666058
+  },
+  {
     "id": 17402,
     "fecha": "13 de Dec del 2025 a las 12:28 PM",
     "hora_utc": "2025-12-13 17:28",
@@ -110,13 +118,5 @@
     "mensaje": "**Nota Informativa: Estado del Sistema Eléctrico Nacional (SEN) – 11 de diciembre de 2025**\nEn el día de ayer se afectó el servicio durante las 24 horas. La máxima afectación por déficit de capacidad de generación en el día de ayer fue de 1861 MW a las 18:30 horas.\nLa producción de energía de los 33 nuevos parques solares fotovoltaicos fue de 2510 MWh, con 470 MW como máxima potencia entregada en el horario de la media con esta fuente de generación.\n**Estado actual del SEN**\nLa disponibilidad del SEN a las 06:00 horas es de 1520 MW y la demanda 2450 MW con 880 MW afectados por déficit de capacidad. En el horario de la media se estima una afectación de 1000 MW.\n**Principales incidencias**\nAvería: Unidad 5 de la CTE Maximo Gomez, Unidad 2 de la CTE Felton y Unidad 6 de la CTE Renté.\nMantenimiento: Unidades 2 y 3 de la CTE Santa Cruz, Unidad 4 de la CTE Carlos Manuel de Céspedes en Cienfuegos.\nLimitaciones en la generación térmica: 511 MW fuera de servicio.\nProblemas por falta de combustible\n98 centrales de generación distribuida con 913 MW.\n94 MW indisponibles por falta de lubricante.\nTotal de MW afectados por esta causa: 1007 MW.\n**Pronóstico para el horario pico**\nPara el pico se estima la entrada de la unidad 6 de la CTE Renté con 45 MW.\nCon este pronóstico se prevé una disponibilidad de 1565 MW y una demanda máxima de 3400 MW, para un déficit de 1835 MW, por lo que de mantenerse las condiciones previstas se pronostica una afectación de 1865 MW en este horario.",
     "timestamp": 1765458861,
     "timestamp_local": 1765458861
-  },
-  {
-    "id": 17382,
-    "fecha": "11 de Dec del 2025 a las 12:36 AM",
-    "hora_utc": "2025-12-11 05:36",
-    "mensaje": "Se  encuentran afectados los circuitos TK84 El Triángulo y TK86 Poblado Colombia por emergencia.",
-    "timestamp": 1765431403,
-    "timestamp_local": 1765431403
   }
 ]
