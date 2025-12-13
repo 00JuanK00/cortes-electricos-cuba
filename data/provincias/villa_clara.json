@@ -1,5 +1,37 @@
 [
   {
+    "id": 35740,
+    "fecha": "13 de Dec del 2025 a las 06:34 PM",
+    "hora_utc": "2025-12-13 23:34",
+    "mensaje": "Restablecido el servicio eléctrico en el circuito 131 (Universidad), del municipio Santa Clara.",
+    "timestamp": 1765668884,
+    "timestamp_local": 1765668884
+  },
+  {
+    "id": 35739,
+    "fecha": "13 de Dec del 2025 a las 06:08 PM",
+    "hora_utc": "2025-12-13 23:08",
+    "mensaje": "⚠️Afectados por déficit de capacidad de generación los siguientes circuitos:\n🔹Municipio Santa Clara:\n👉Ctos 37 y 38 (Yabú)   \n👉Cto 9 (Moldes y Troqueles)\n👉Cto 133 (Taller Cafetera)",
+    "timestamp": 1765667295,
+    "timestamp_local": 1765667295
+  },
+  {
+    "id": 35738,
+    "fecha": "13 de Dec del 2025 a las 06:05 PM",
+    "hora_utc": "2025-12-13 23:05",
+    "mensaje": "💡Restablecidos los siguientes circuitos:\n🔹Municipio Manicaragua:\n👉Ctos 109 y 150\n👉Ctos 108 y 110 La Piedra\n👉Cto 111 Mataguá",
+    "timestamp": 1765667122,
+    "timestamp_local": 1765667122
+  },
+  {
+    "id": 35737,
+    "fecha": "13 de Dec del 2025 a las 06:01 PM",
+    "hora_utc": "2025-12-13 23:01",
+    "mensaje": "🕕Actualización del servicio eléctrico en las últimas 6 horas.\n✍️El déficit de capacidad de generación osciló entre los 115 MW y los 155 MW.\n✍️En el momento de esta nota, se mantienen afectados 158 circuitos.\n✍️Cuenta con 167 afectaciones por averías secundarias y de servicio:\n🔸Caibarién (2)\n🔸Camajuaní (2)\n🔸Cifuentes (1)\n🔸Corralillo (1)\n🔸Encrucijada (1)\n🔸Manicaragua (9)\n🔸Quemado (2)\n🔸Ranchuelo (3)\n🔸Remedios (15) \n🔸Sagua (17) \n🔸Santa Clara (82)\n🔸Santo Domingo (13)\n🛠️Se encuentran 8 averías en vías de solución.\n🛠️Pendientes a solucionar por el área técnica 11.\n\n⚡Avería⚡\n🔸Afectado el circuito 131 (Universidad), del municipio de Santa Clara, debido a cable primario partido. Brigadas de nuestra empresa se encuentran trabajando en el lugar para restablecer el servicio en el menor tiempo posible.\n🔸Afectado parcialmente el circuito 114 del municipio de Cifuentes (Peo Yagua y San Rafael). En estos momentos la línea se encuentra afectada por déficit de capacidad de generación.",
+    "timestamp": 1765666882,
+    "timestamp_local": 1765666882
+  },
+  {
     "id": 35736,
     "fecha": "13 de Dec del 2025 a las 05:46 PM",
     "hora_utc": "2025-12-13 22:46",
@@ -126,37 +158,5 @@
     "mensaje": "⚠️Afectados por déficit de capacidad de generación los siguientes circuitos: \n🔹Municipio Camajuaní:\n👉Cto 75 La Quinta\n👉Cto 157 Luis Arcos Bergnes\n👉Ctos 76 y 90 Vega Alta\n👉Ctos 77, 59 y 185 Vueltas",
     "timestamp": 1765653034,
     "timestamp_local": 1765653034
-  },
-  {
-    "id": 35720,
-    "fecha": "13 de Dec del 2025 a las 02:05 PM",
-    "hora_utc": "2025-12-13 19:05",
-    "mensaje": "🔸Actualización del servicio eléctrico en la provincia🔸\n✍️Se mantienen afectados en la provincia 129 circuitos.\n✍️En el momento de hacer esta nota la provincia tiene 89 MW por déficit de capacidad de generación.\n✍️Cuenta con 170 afectaciones  por averías secundarias y de servicio.",
-    "timestamp": 1765652744,
-    "timestamp_local": 1765652744
-  },
-  {
-    "id": 35719,
-    "fecha": "13 de Dec del 2025 a las 01:55 PM",
-    "hora_utc": "2025-12-13 18:55",
-    "mensaje": "⚠️Afectados por déficit de capacidad de generación los siguientes circuitos: \n🔹Municipio Sagua \n👉Cto 48 Finalet\n👉Ctos 147 y 50 Villa Alegre\n🔹Municipio Sagua\n👉Cto 43, 51 Sagua\n👉Cto 44 Isabela",
-    "timestamp": 1765652109,
-    "timestamp_local": 1765652109
-  },
-  {
-    "id": 35718,
-    "fecha": "13 de Dec del 2025 a las 01:52 PM",
-    "hora_utc": "2025-12-13 18:52",
-    "mensaje": "Restablecido en su totalidad el circuito 164 (Lugardita), del municipio Quemado.",
-    "timestamp": 1765651962,
-    "timestamp_local": 1765651962
-  },
-  {
-    "id": 35717,
-    "fecha": "13 de Dec del 2025 a las 01:32 PM",
-    "hora_utc": "2025-12-13 18:32",
-    "mensaje": "⚠️Afectados por déficit de capacidad de generación los siguientes circuitos: \n🔹Municipio Camajuaní:\n👉Ctos  72, 73, y 156 \n👉Cto 74 José María Pérez",
-    "timestamp": 1765650773,
-    "timestamp_local": 1765650773
   }
 ]
