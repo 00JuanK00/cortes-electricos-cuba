@@ -1,9 +1,17 @@
 [
   {
+    "id": 35812,
+    "fecha": "14 de Dec del 2025 a las 05:30 PM",
+    "hora_utc": "2025-12-14 22:30",
+    "mensaje": "Afectados 169 MW en la provincia, demanda máxima a apagar en estos momentos.",
+    "timestamp": 1765751441,
+    "timestamp_local": 1765751441
+  },
+  {
     "id": 35811,
     "fecha": "14 de Dec del 2025 a las 05:00 PM",
     "hora_utc": "2025-12-14 22:00",
-    "mensaje": "⚠️Afectados por déficit de capacidad de generación los siguientes circuitos:\n🔹Municipio Santa Clara\n\n👉Cto 2 y 4 Centro\n👉Cto 6 Vigia\n👉Cto 5 Dobarganes\n👉Cto 17 Subplanta\n👉Cto 13 Zona Industrial\n\n🔹Municipio Sagua \n👉Cto 48 Finalet\n👉Ctos 46 y 128 Sitiecito\n👉Ctos 147 y 50 Villa Alegre",
+    "mensaje": "⚠️Afectados por déficit de capacidad de generación los siguientes circuitos:\n🔹Municipio Santa Clara\n👉Cto 2 y 4 Centro\n👉Cto 6 Vigia\n👉Cto 5 Dobarganes\n👉Cto 17 Subplanta\n👉Cto 13 Zona Industrial\n🔹Municipio Sagua \n👉Cto 48 Finalet\n👉Ctos 46 y 128 Sitiecito\n👉Ctos 147 y 50 Villa Alegre",
     "timestamp": 1765749637,
     "timestamp_local": 1765749637
   },
@@ -150,13 +158,5 @@
     "mensaje": "⚠️Afectados por déficit de capacidad de generación los siguientes circuitos:\n🔹Municipio Camajuaní:\n👉Ctos  72, 73, 129 y 156 \n👉Cto 74 José María Pérez",
     "timestamp": 1765739129,
     "timestamp_local": 1765739129
-  },
-  {
-    "id": 35792,
-    "fecha": "14 de Dec del 2025 a las 01:53 PM",
-    "hora_utc": "2025-12-14 18:53",
-    "mensaje": "⚠️Afectados por déficit de capacidad de generación los siguientes circuitos:\n🔹Municipio Placetas.\n👉Cto 15 Nazareno\n👉Cto 107 Baez",
-    "timestamp": 1765738438,
-    "timestamp_local": 1765738438
   }
 ]
