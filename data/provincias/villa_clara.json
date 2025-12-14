@@ -1,5 +1,37 @@
 [
   {
+    "id": 35761,
+    "fecha": "14 de Dec del 2025 a las 01:44 AM",
+    "hora_utc": "2025-12-14 06:44",
+    "mensaje": "⚠️Afectado por déficit de capacidad de generación el circuito 31 (Sakenaf), del municipio Santa Clara.",
+    "timestamp": 1765694693,
+    "timestamp_local": 1765694693
+  },
+  {
+    "id": 35760,
+    "fecha": "14 de Dec del 2025 a las 01:35 AM",
+    "hora_utc": "2025-12-14 06:35",
+    "mensaje": "Restablecido parcialmente el circuito 114 del municipio de Cifuentes.",
+    "timestamp": 1765694152,
+    "timestamp_local": 1765694152
+  },
+  {
+    "id": 35759,
+    "fecha": "14 de Dec del 2025 a las 01:31 AM",
+    "hora_utc": "2025-12-14 06:31",
+    "mensaje": "⚠️Afectados por déficit de capacidad de generación los siguientes circuitos:\n🔹Municipio Placetas\n👉Ctos 100 y 151 Placetas\n👉Cto 104 Hermanos Amejeiras\n👉Cto 103 Batey Carbó Servia\n🔹Municipio Manicaragua:\n👉Ctos 113 y 137 La Campana\n👉Cto 112 Hoyo Manicaragua",
+    "timestamp": 1765693889,
+    "timestamp_local": 1765693889
+  },
+  {
+    "id": 35758,
+    "fecha": "14 de Dec del 2025 a las 01:04 AM",
+    "hora_utc": "2025-12-14 06:04",
+    "mensaje": "💡Restablecidos los siguientes circuitos:\n🔹Municipio Santo Domingo:\n👉Cto 134\n👉Ctos 87 y 96 Bermejal\n👉Cto 187 Batey Carlos Baliño\n👉Cto 82 Ulacia\n👉Cto 84 Rodrigo",
+    "timestamp": 1765692245,
+    "timestamp_local": 1765692245
+  },
+  {
     "id": 35756,
     "fecha": "14 de Dec del 2025 a las 12:38 AM",
     "hora_utc": "2025-12-14 05:38",
@@ -118,37 +150,5 @@
     "mensaje": "💡Restablecidos los siguientes circuitos:\n🔹Municipio Encrucijada\n👉Cto 120 Calabazar\n👉Ctos 121 y 127 Perucho",
     "timestamp": 1765670908,
     "timestamp_local": 1765670908
-  },
-  {
-    "id": 35741,
-    "fecha": "13 de Dec del 2025 a las 06:48 PM",
-    "hora_utc": "2025-12-13 23:48",
-    "mensaje": "⚡Afectado nuevamente el circuito 131 (Universidad), del municipio Santa Clara. Se estudian las causas.",
-    "timestamp": 1765669728,
-    "timestamp_local": 1765669728
-  },
-  {
-    "id": 35740,
-    "fecha": "13 de Dec del 2025 a las 06:34 PM",
-    "hora_utc": "2025-12-13 23:34",
-    "mensaje": "Restablecido el servicio eléctrico en el circuito 131 (Universidad), del municipio Santa Clara.",
-    "timestamp": 1765668884,
-    "timestamp_local": 1765668884
-  },
-  {
-    "id": 35739,
-    "fecha": "13 de Dec del 2025 a las 06:08 PM",
-    "hora_utc": "2025-12-13 23:08",
-    "mensaje": "⚠️Afectados por déficit de capacidad de generación los siguientes circuitos:\n🔹Municipio Santa Clara:\n👉Ctos 37 y 38 (Yabú)   \n👉Cto 9 (Moldes y Troqueles)\n👉Cto 133 (Taller Cafetera)",
-    "timestamp": 1765667295,
-    "timestamp_local": 1765667295
-  },
-  {
-    "id": 35738,
-    "fecha": "13 de Dec del 2025 a las 06:05 PM",
-    "hora_utc": "2025-12-13 23:05",
-    "mensaje": "💡Restablecidos los siguientes circuitos:\n🔹Municipio Manicaragua:\n👉Ctos 109 y 150\n👉Ctos 108 y 110 La Piedra\n👉Cto 111 Mataguá",
-    "timestamp": 1765667122,
-    "timestamp_local": 1765667122
   }
 ]
