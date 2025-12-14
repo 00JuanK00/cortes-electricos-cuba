@@ -1,5 +1,29 @@
 [
   {
+    "id": 35816,
+    "fecha": "14 de Dec del 2025 a las 06:45 PM",
+    "hora_utc": "2025-12-14 23:45",
+    "mensaje": "Afectados 198 MW en la provincia, demanda máxima a apagar en estos momentos.",
+    "timestamp": 1765755941,
+    "timestamp_local": 1765755941
+  },
+  {
+    "id": 35815,
+    "fecha": "14 de Dec del 2025 a las 06:10 PM",
+    "hora_utc": "2025-12-14 23:10",
+    "mensaje": "⚠️Afectados por déficit de capacidad de generación los siguientes circuitos:\n🔹Municipio Santo Domingo:\n👉Cto 134\n👉Ctos 87 y 96 Bermejal\n👉Cto 187 Batey Carlos Baliño\n👉Cto 82 Ulacia\n👉Cto 84 Rodrigo",
+    "timestamp": 1765753856,
+    "timestamp_local": 1765753856
+  },
+  {
+    "id": 35814,
+    "fecha": "14 de Dec del 2025 a las 06:09 PM",
+    "hora_utc": "2025-12-14 23:09",
+    "mensaje": "⚠️Afectados por déficit de capacidad de generación los siguientes circuitos:\n🔹Municipio Santo Domingo:\n👉Cto 195 Batey George Washington\n👉Ctos 83 y 165 Manacas\n👉Ctos 85 y 86 Pajarito\n👉Ctos 160 y 161 Cascajal",
+    "timestamp": 1765753766,
+    "timestamp_local": 1765753766
+  },
+  {
     "id": 35813,
     "fecha": "14 de Dec del 2025 a las 05:59 PM",
     "hora_utc": "2025-12-14 22:59",
@@ -134,29 +158,5 @@
     "mensaje": "⚠️Afectados por déficit de capacidad de generación los siguientes circuitos:\n🔹Municipio Encrucijada\n👉Cto 120 Calabazar\n👉Ctos 121 y 127 Perucho",
     "timestamp": 1765740927,
     "timestamp_local": 1765740927
-  },
-  {
-    "id": 35796,
-    "fecha": "14 de Dec del 2025 a las 02:22 PM",
-    "hora_utc": "2025-12-14 19:22",
-    "mensaje": "🔸Actualización del servicio eléctrico en la provincia🔸\n✍️Se mantienen afectados en la provincia 113 circuitos.\n✍️En el momento de hacer esta nota la provincia tiene 73 MW por déficit de capacidad de generación.\n✍️Cuenta con 170 afectaciones  por averías secundarias y de servicio.",
-    "timestamp": 1765740144,
-    "timestamp_local": 1765740144
-  },
-  {
-    "id": 35795,
-    "fecha": "14 de Dec del 2025 a las 02:20 PM",
-    "hora_utc": "2025-12-14 19:20",
-    "mensaje": "Afectados 73 MW en la provincia, demanda máxima a apagar en estos momentos.",
-    "timestamp": 1765740049,
-    "timestamp_local": 1765740049
-  },
-  {
-    "id": 35794,
-    "fecha": "14 de Dec del 2025 a las 02:06 PM",
-    "hora_utc": "2025-12-14 19:06",
-    "mensaje": "💡Restablecidos el servicio eléctrico en los siguientes circuitos:\n🔹Municipio Encrucijada:\n👉Cto 122 Encrucijada \n👉Cto 123 Vizcaya \n👉Cto 142 Comunidad La Sierra \n👉Cto 126 Batey Emilio Córdova\n👉Cto 125 Cavarrocas\n👉Cto 124 El Santo\n🔹Municipio Camajuaní:\n👉Cto 78 Jutiero",
-    "timestamp": 1765739170,
-    "timestamp_local": 1765739170
   }
 ]

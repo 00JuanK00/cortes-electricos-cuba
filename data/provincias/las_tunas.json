@@ -1,5 +1,21 @@
 [
   {
+    "id": 17414,
+    "fecha": "14 de Dec del 2025 a las 06:14 PM",
+    "hora_utc": "2025-12-14 23:14",
+    "mensaje": "Máxima capacidad apagable se refiere al nivel máximo de demanda eléctrica que puede ser desconectada o suspendida temporalmente en la provincia, explica la complejidad del déficit de generación o contingencias en el sistema eléctrico.\nRepresenta el límite superior de la reducción de carga que la empresa puede lograr mediante cortes de energía (apagones). Cuanto mayor sea la máxima capacidad apagable, mayor será el déficit de energía.\n¿Qué implica esto?\nSe identifica cuántos circuitos pueden ser apagados para equilibrar la carga del sistema, esto imposibilita realizar rotaciones, pues a excepción de los servicios priorizados, se encuentran afectados todos los circuitos apagables del territorio. Podrán presentarse afectaciones en el servicio de electricidad durante varias horas al día y el tiempo con servicio dependerá del comportamiento del SEN. Esta medida es necesaria para evitar fallas mayores y proteger la infraestructura eléctrica.",
+    "timestamp": 1765754099,
+    "timestamp_local": 1765754099
+  },
+  {
+    "id": 17413,
+    "fecha": "14 de Dec del 2025 a las 06:14 PM",
+    "hora_utc": "2025-12-14 23:14",
+    "mensaje": "Estimados clientes,\nLes informamos que, debido a la actual situación energética del país, nuestra provincia se encuentra operando bajo la máxima capacidad apagable. Esto significa que todos los circuitos eléctricos que pueden ser desconectados temporalmente están siendo utilizados para mantener el equilibrio del sistema nacional.",
+    "timestamp": 1765754081,
+    "timestamp_local": 1765754081
+  },
+  {
     "id": 17412,
     "fecha": "14 de Dec del 2025 a las 03:22 PM",
     "hora_utc": "2025-12-14 20:22",
@@ -94,13 +110,5 @@
     "mensaje": "Estimados clientes,\nLes informamos que, debido a la actual situación energética del país, nuestra provincia se encuentra operando bajo la máxima capacidad apagable. Esto significa que todos los circuitos eléctricos que pueden ser desconectados temporalmente están siendo utilizados para mantener el equilibrio del sistema nacional.",
     "timestamp": 1765558023,
     "timestamp_local": 1765558023
-  },
-  {
-    "id": 17394,
-    "fecha": "12 de Dec del 2025 a las 08:57 AM",
-    "hora_utc": "2025-12-12 13:57",
-    "mensaje": "Nota Informativa: Estado del Sistema Eléctrico Nacional (SEN) – 12 de diciembre de 2025\n\nEn el día de ayer se afectó el servicio durante las 24 horas. La máxima afectación por déficit de capacidad de generación en el día de ayer fue de 1748 MW a las 18:10 horas.\n\nLa producción de energía de los 33 nuevos parques solares fotovoltaicos fue de 2665 MWh, con 536 MW como máxima potencia entregada en el horario de la media con esta fuente de generación.\n\nEstado actual del SEN\n\nLa disponibilidad del SEN a las 06:00 horas es de 1560 MW y la demanda 2128 MW con 598 MW afectados por déficit de capacidad. En el horario de la media se estima una afectación de 900 MW.\n\nPrincipales incidencias\n\nAvería: Unidad 5 de la CTE Maximo Gomez, Unidad 2 de la CTE Felton.\n\nMantenimiento: Unidades 2 y 3 de la CTE Santa Cruz, Unidad 4 de la CTE Carlos Manuel de Céspedes en Cienfuegos.\n\nLimitaciones en la generación térmica: 568 MW fuera de servicio.\n\nProblemas por falta de combustible\n\n99 centrales de generación distribuida con 919 MW.\n\n83 MW indisponibles por falta de lubricante.\n\nTotal de MW afectados por esta causa: 1002 MW.\n\nPronóstico para el horario pico\n\nCon este pronóstico se prevé una disponibilidad de 1560 MW y una demanda máxima de 3300 MW, para un déficit de 1740 MW, por lo que de mantenerse las condiciones previstas se pronostica una afectación de 1770 MW en este horario.",
-    "timestamp": 1765547873,
-    "timestamp_local": 1765547873
   }
 ]
