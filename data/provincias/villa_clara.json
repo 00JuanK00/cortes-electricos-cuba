@@ -1,5 +1,29 @@
 [
   {
+    "id": 35801,
+    "fecha": "14 de Dec del 2025 a las 03:46 PM",
+    "hora_utc": "2025-12-14 20:46",
+    "mensaje": "Afectados 96 MW en la provincia, demanda máxima a apagar en estos momentos.",
+    "timestamp": 1765745214,
+    "timestamp_local": 1765745214
+  },
+  {
+    "id": 35800,
+    "fecha": "14 de Dec del 2025 a las 03:45 PM",
+    "hora_utc": "2025-12-14 20:45",
+    "mensaje": "⚠️Afectados por déficit de capacidad de generación los siguientes circuitos:\n🔹Municipio Ranchuelo: \n👉Ctos 89, 97, 188 y 189\n👉Ctos 148 y 149 San Juan\n👉Cto 91 Batey Osvaldo Herrera\n👉Cto 181 Batey Ifraín Alfonso",
+    "timestamp": 1765745133,
+    "timestamp_local": 1765745133
+  },
+  {
+    "id": 35799,
+    "fecha": "14 de Dec del 2025 a las 03:21 PM",
+    "hora_utc": "2025-12-14 20:21",
+    "mensaje": "Afectados 91 MW en la provincia, demanda máxima a apagar en estos momentos.",
+    "timestamp": 1765743686,
+    "timestamp_local": 1765743686
+  },
+  {
     "id": 35798,
     "fecha": "14 de Dec del 2025 a las 02:49 PM",
     "hora_utc": "2025-12-14 19:49",
@@ -134,29 +158,5 @@
     "mensaje": "Afectados 81 MW en la provincia, demanda máxima a apagar en estos momentos.",
     "timestamp": 1765729415,
     "timestamp_local": 1765729415
-  },
-  {
-    "id": 35781,
-    "fecha": "14 de Dec del 2025 a las 10:49 AM",
-    "hora_utc": "2025-12-14 15:49",
-    "mensaje": "⚠️Afectados por déficit de capacidad de generación los siguientes circuitos:\n🔹Municipio Manicaragua:\n👉Ctos 109 y 150\n👉Ctos 108 y 110 La Piedra\n👉Cto 111 Mataguá",
-    "timestamp": 1765727346,
-    "timestamp_local": 1765727346
-  },
-  {
-    "id": 35780,
-    "fecha": "14 de Dec del 2025 a las 10:47 AM",
-    "hora_utc": "2025-12-14 15:47",
-    "mensaje": "Afectados 65 MW en la provincia, demanda máxima a apagar en estos momentos.",
-    "timestamp": 1765727270,
-    "timestamp_local": 1765727270
-  },
-  {
-    "id": 35779,
-    "fecha": "14 de Dec del 2025 a las 10:44 AM",
-    "hora_utc": "2025-12-14 15:44",
-    "mensaje": "💡Restablecidos el servicio eléctrico en los siguientes circuitos:\n🔹Municipio Sagua\n👉Ctos 46 y 128 Sitiecito",
-    "timestamp": 1765727078,
-    "timestamp_local": 1765727078
   }
 ]
