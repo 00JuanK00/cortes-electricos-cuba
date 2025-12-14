@@ -1,5 +1,21 @@
 [
   {
+    "id": 35781,
+    "fecha": "14 de Dec del 2025 a las 10:49 AM",
+    "hora_utc": "2025-12-14 15:49",
+    "mensaje": "⚠️Afectados por déficit de capacidad de generación los siguientes circuitos:\n🔹Municipio Manicaragua:\n👉Ctos 109 y 150\n👉Ctos 108 y 110 La Piedra\n👉Cto 111 Mataguá",
+    "timestamp": 1765727346,
+    "timestamp_local": 1765727346
+  },
+  {
+    "id": 35780,
+    "fecha": "14 de Dec del 2025 a las 10:47 AM",
+    "hora_utc": "2025-12-14 15:47",
+    "mensaje": "Afectados 65 MW en la provincia, demanda máxima a apagar en estos momentos.",
+    "timestamp": 1765727270,
+    "timestamp_local": 1765727270
+  },
+  {
     "id": 35779,
     "fecha": "14 de Dec del 2025 a las 10:44 AM",
     "hora_utc": "2025-12-14 15:44",
@@ -142,21 +158,5 @@
     "mensaje": "🔸Actualización del servicio eléctrico en la provincia🔸\n✍️Se mantienen afectados en la provincia 103 circuitos.\n✍️En el momento de hacer esta nota la provincia tiene 56 MW por déficit de capacidad de generación.\n✍️Cuenta con 141 afectaciones  por averías secundarias y de servicio.",
     "timestamp": 1765696075,
     "timestamp_local": 1765696075
-  },
-  {
-    "id": 35761,
-    "fecha": "14 de Dec del 2025 a las 01:44 AM",
-    "hora_utc": "2025-12-14 06:44",
-    "mensaje": "⚠️Afectado por déficit de capacidad de generación el circuito 31 (Sakenaf), del municipio Santa Clara.",
-    "timestamp": 1765694693,
-    "timestamp_local": 1765694693
-  },
-  {
-    "id": 35760,
-    "fecha": "14 de Dec del 2025 a las 01:35 AM",
-    "hora_utc": "2025-12-14 06:35",
-    "mensaje": "Restablecido parcialmente el circuito 114 del municipio de Cifuentes.",
-    "timestamp": 1765694152,
-    "timestamp_local": 1765694152
   }
 ]
