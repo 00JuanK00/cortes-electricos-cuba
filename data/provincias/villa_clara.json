@@ -1,5 +1,21 @@
 [
   {
+    "id": 35860,
+    "fecha": "15 de Dec del 2025 a las 11:18 AM",
+    "hora_utc": "2025-12-15 16:18",
+    "mensaje": "💡Restablecido el servicio eléctrico en el siguiente circuito:\n🔹Municipio Santa Clara:\n👉Cto 170 (José Martí)",
+    "timestamp": 1765815538,
+    "timestamp_local": 1765815538
+  },
+  {
+    "id": 35859,
+    "fecha": "15 de Dec del 2025 a las 11:17 AM",
+    "hora_utc": "2025-12-15 16:17",
+    "mensaje": "⚠️Afectado por déficit de capacidad de generación el siguiente circuito:\n🔹Municipio Santa Clara\n👉Cto 153 (EIDE)",
+    "timestamp": 1765815469,
+    "timestamp_local": 1765815469
+  },
+  {
     "id": 35858,
     "fecha": "15 de Dec del 2025 a las 11:09 AM",
     "hora_utc": "2025-12-15 16:09",
@@ -142,21 +158,5 @@
     "mensaje": "⚠️Afectado por déficit de capacidad de generación el siguiente circuito\n🔹Municipio Caibarién:\n👉Ctos 61Caibarien",
     "timestamp": 1765800381,
     "timestamp_local": 1765800381
-  },
-  {
-    "id": 35840,
-    "fecha": "15 de Dec del 2025 a las 07:00 AM",
-    "hora_utc": "2025-12-15 12:00",
-    "mensaje": "💡Con servicio eléctrico Linea 1205\n➡️Línea 1205\n🔹Municipio Sagua\n👉Cto 43, 51 Sagua\n👉Cto 44 Isabela",
-    "timestamp": 1765800029,
-    "timestamp_local": 1765800029
-  },
-  {
-    "id": 35839,
-    "fecha": "15 de Dec del 2025 a las 06:57 AM",
-    "hora_utc": "2025-12-15 11:57",
-    "mensaje": "➡️ La Provincia presenta 5 afectaciones de servicio eléctrico por transformador dañado:\n👉Municipio Placetas: Carretera a Zuluetas km 7 . CAI Hermanos Amejeiras\n👉Municipio Ranchuelo:Carretera a Ranchuelo  e/ Barrio Matadero y Al lado de la Bodega. Esperanza\n👉Municipio Remedios: Ejido Norte #22 e/ Barrio La Malanga y . Zuluetas\n👉Municipio Cifuentes: Carretera a Sitiecito, entrada a Carolina  e/ CAI Mariana Grajales  y Detrás del Edif 1.\n👉Municipio Santo Domingo: Pelón Sánchez #2 e/ Después  de la Bodega  y . Amaro",
-    "timestamp": 1765799843,
-    "timestamp_local": 1765799843
   }
 ]
