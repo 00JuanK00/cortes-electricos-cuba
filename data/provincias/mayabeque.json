@@ -1,5 +1,29 @@
 [
   {
+    "id": 100517,
+    "fecha": "15 de Dec del 2025 a las 04:40 PM",
+    "hora_utc": "2025-12-15 21:40",
+    "mensaje": "♦️ Afectado el servicio en el circuito de Madruga por avería ♦️",
+    "timestamp": 1765834810,
+    "timestamp_local": 1765834810
+  },
+  {
+    "id": 100516,
+    "fecha": "15 de Dec del 2025 a las 04:05 PM",
+    "hora_utc": "2025-12-15 21:05",
+    "mensaje": "🔷 Restablecido el servicio en el circuito 3590 que se encontraba afectado por disparo por DAF🔷\n\n\n🚨 Continúa afectado el servicio por déficit de capacidad de generación los siguientes circuitos:\n*UNAH\n*CENSA\n*Somorrostro\n*5 y 7 de San José 🚨",
+    "timestamp": 1765832756,
+    "timestamp_local": 1765832756
+  },
+  {
+    "id": 100515,
+    "fecha": "15 de Dec del 2025 a las 04:03 PM",
+    "hora_utc": "2025-12-15 21:03",
+    "mensaje": "🔷 Restablecido el servicio en los siguientes circuitos que se encontraban afectados por disparo por DAF:\n*3140\n*1790🔷",
+    "timestamp": 1765832623,
+    "timestamp_local": 1765832623
+  },
+  {
     "id": 100514,
     "fecha": "15 de Dec del 2025 a las 03:51 PM",
     "hora_utc": "2025-12-15 20:51",
@@ -134,29 +158,5 @@
     "mensaje": "🚨Por déficit de capacidad de generación se afecta el servicio en el siguiente circuito:\n*CENSA 🚨",
     "timestamp": 1765825780,
     "timestamp_local": 1765825780
-  },
-  {
-    "id": 100497,
-    "fecha": "15 de Dec del 2025 a las 02:00 PM",
-    "hora_utc": "2025-12-15 19:00",
-    "mensaje": "🚨Por déficit de capacidad de generación se afecta el servicio en el siguiente circuito:\n*UNAH 🚨",
-    "timestamp": 1765825220,
-    "timestamp_local": 1765825220
-  },
-  {
-    "id": 100496,
-    "fecha": "15 de Dec del 2025 a las 01:56 PM",
-    "hora_utc": "2025-12-15 18:56",
-    "mensaje": "🔷 Restablecido el servicio en los siguientes circuitos que se encontraban afectados por disparo por DAF:\n*3140\n*3590🔷",
-    "timestamp": 1765825004,
-    "timestamp_local": 1765825004
-  },
-  {
-    "id": 100495,
-    "fecha": "15 de Dec del 2025 a las 01:51 PM",
-    "hora_utc": "2025-12-15 18:51",
-    "mensaje": "♦️ Afectado el servicio en el circuito 3590 por disparo por DAF ♦️",
-    "timestamp": 1765824697,
-    "timestamp_local": 1765824697
   }
 ]
