@@ -1,5 +1,53 @@
 [
   {
+    "id": 100403,
+    "fecha": "14 de Dec del 2025 a las 09:37 PM",
+    "hora_utc": "2025-12-15 02:37",
+    "mensaje": "♦️ Afectado el servicio en las siguientes zonas perteneciente al circuito Flor de Itabo por avería:\n*La Bija\n*Niña Sierra\n*Calderón y zonas aledañas ♦️",
+    "timestamp": 1765766271,
+    "timestamp_local": 1765766271
+  },
+  {
+    "id": 100402,
+    "fecha": "14 de Dec del 2025 a las 08:48 PM",
+    "hora_utc": "2025-12-15 01:48",
+    "mensaje": "🔷Con servicio el circuito de Güines 1 que se encontraba afectado por manipulación 🔷",
+    "timestamp": 1765763286,
+    "timestamp_local": 1765763286
+  },
+  {
+    "id": 100401,
+    "fecha": "14 de Dec del 2025 a las 08:34 PM",
+    "hora_utc": "2025-12-15 01:34",
+    "mensaje": "♦️ Afectado el servicio en el circuito de Güines 1 por manipulación ♦️",
+    "timestamp": 1765762456,
+    "timestamp_local": 1765762456
+  },
+  {
+    "id": 100400,
+    "fecha": "14 de Dec del 2025 a las 08:04 PM",
+    "hora_utc": "2025-12-15 01:04",
+    "mensaje": "🔷Con servicio el circuito de Güines 1 que se encontraba afectado por manipulación 🔷",
+    "timestamp": 1765760654,
+    "timestamp_local": 1765760654
+  },
+  {
+    "id": 100399,
+    "fecha": "14 de Dec del 2025 a las 07:47 PM",
+    "hora_utc": "2025-12-15 00:47",
+    "mensaje": "🚨Por déficit de capacidad de generación se afecta el servicio en el siguiente circuito:\n*Madruga 🚨",
+    "timestamp": 1765759638,
+    "timestamp_local": 1765759638
+  },
+  {
+    "id": 100398,
+    "fecha": "14 de Dec del 2025 a las 07:46 PM",
+    "hora_utc": "2025-12-15 00:46",
+    "mensaje": "♦️ Afectado el servicio en el circuito de Güines 1 por manipulación ♦️",
+    "timestamp": 1765759595,
+    "timestamp_local": 1765759595
+  },
+  {
     "id": 100397,
     "fecha": "14 de Dec del 2025 a las 07:21 PM",
     "hora_utc": "2025-12-15 00:21",
@@ -35,7 +83,7 @@
     "id": 100393,
     "fecha": "14 de Dec del 2025 a las 06:46 PM",
     "hora_utc": "2025-12-14 23:46",
-    "mensaje": "🚨Por déficit de capacidad de generación se afecta el servicio en el siguiente circuito:\n*Vega 🚨",
+    "mensaje": "🚨Por déficit de capacidad de generación se afecta el servicio en los siguientes circuitos:\n*Vega \n*Sopapo 1 y 2🚨",
     "timestamp": 1765756001,
     "timestamp_local": 1765756001
   },
@@ -110,29 +158,5 @@
     "mensaje": "🔷♦️Se restablece el servicio en el circuito que se encontraba afectado  por déficit de capacidad de generación:\n*Güines 3 ♦️🔷",
     "timestamp": 1765750532,
     "timestamp_local": 1765750532
-  },
-  {
-    "id": 100383,
-    "fecha": "14 de Dec del 2025 a las 05:13 PM",
-    "hora_utc": "2025-12-14 22:13",
-    "mensaje": "🚨Por déficit de capacidad de generación se afecta el servicio en los siguientes circuitos:\n*Vedado\n*Melena 2 🚨",
-    "timestamp": 1765750421,
-    "timestamp_local": 1765750421
-  },
-  {
-    "id": 100382,
-    "fecha": "14 de Dec del 2025 a las 03:47 PM",
-    "hora_utc": "2025-12-14 20:47",
-    "mensaje": "🔷 Restablecido el servicio en el circuito 3140 que se encontraba afectado por disparo por DAF🔷",
-    "timestamp": 1765745260,
-    "timestamp_local": 1765745260
-  },
-  {
-    "id": 100381,
-    "fecha": "14 de Dec del 2025 a las 03:46 PM",
-    "hora_utc": "2025-12-14 20:46",
-    "mensaje": "🚨Por déficit de capacidad de generación se afecta el servicio en el siguiente circuito:\n*Güines 3 🚨",
-    "timestamp": 1765745201,
-    "timestamp_local": 1765745201
   }
 ]
