@@ -1,5 +1,37 @@
 [
   {
+    "id": 34447,
+    "fecha": "16 de Dec del 2025 a las 01:47 PM",
+    "hora_utc": "2025-12-16 18:47",
+    "mensaje": "📝Le informamos👇\n📌Debido a las inclemencias del tiempo 🌧⛈ (fuertes lluvias, chubascos o tormentas eléctricas) puede que exista afectación al servicio eléctrico por disparo de circuito en algunas zonas. \n✍Esto ocurre en ocasiones de forma automática como medida de protección para las redes eléctricas. \nLe recomendamos durante el transcurso de la tormenta desconectar🔌 los equipos eléctricos 📺para así evitar afectaciones de los mismos en la vivienda🏠 debido a rayos⚡️u otros fenómenos. \n👍Le sugerimos reconectar los equipos luego de que exista permanencia en el servicio.",
+    "timestamp": 1765910840,
+    "timestamp_local": 1765910840
+  },
+  {
+    "id": 34446,
+    "fecha": "16 de Dec del 2025 a las 01:46 PM",
+    "hora_utc": "2025-12-16 18:46",
+    "mensaje": "❌Un Disparo Automático por Frecuencia (DAF) es una protección que posee el sistema eléctrico para cuando la frecuencia llega a valores mínimos permisibles que ponen en peligro la estabilidad de todo el sistema en su conjunto y provoca una desconexión automática de algunos circuitos hasta que esta vuelva a recuperar su valor nominal a 60 Hz o ciclos por segundo. Esto ocurre al salir de forma imprevista o repentina una planta generadora con una potencia determinada y el sistema en su conjunto necesita liberar esa carga hasta tanto se puedan recuperar la potencia de generación perdida anteriormente o dar las afectaciones al servicio por déficit de generación.",
+    "timestamp": 1765910775,
+    "timestamp_local": 1765910775
+  },
+  {
+    "id": 34445,
+    "fecha": "16 de Dec del 2025 a las 01:44 PM",
+    "hora_utc": "2025-12-16 18:44",
+    "mensaje": "🚨DAF (Disparo automático por frecuencia)🚨\n\n📍Se encuentran afectados por el DAF los circuitos: 📍\n\n👉Nereida, Turiguanó, San Fernando y Patria.",
+    "timestamp": 1765910654,
+    "timestamp_local": 1765910654
+  },
+  {
+    "id": 34444,
+    "fecha": "16 de Dec del 2025 a las 01:37 PM",
+    "hora_utc": "2025-12-16 18:37",
+    "mensaje": "‼️ Déficit de Generación ‼️   \n👉Nos mantenemos con 80 MW en la provincia afectados por déficit de generación.\n\n\n⏰ Reiteramos que los circuitos se afectarán o se restablecerán en dependencia del déficit en cada momento de la jornada, que es muy variable.",
+    "timestamp": 1765910253,
+    "timestamp_local": 1765910253
+  },
+  {
     "id": 34443,
     "fecha": "16 de Dec del 2025 a las 12:39 PM",
     "hora_utc": "2025-12-16 17:39",
@@ -86,37 +118,5 @@
     "mensaje": "✅ Información.\n👉 ‼️ Información ‼️   \nDebido a la situación energética que tiene el país, nos es imposible cumplir con una programación de afectaciones. En estos momentos tenemos 85 MW en la provincia afectados. Reiteramos que los circuitos se afectarán o se restablecerán en dependencia del déficit en cada momento del día.",
     "timestamp": 1765852354,
     "timestamp_local": 1765852354
-  },
-  {
-    "id": 34426,
-    "fecha": "15 de Dec del 2025 a las 07:24 PM",
-    "hora_utc": "2025-12-16 00:24",
-    "mensaje": "‼️ Información ‼️   \n👉En estos momentos subimos a 80 MW en la provincia afectados por déficit de generación. Con este déficit no podemos cumplir con una programación estable, por lo que los circuitos se afectarán o se restablecerán en dependencia del déficit que haya en cada momento de la jornada.",
-    "timestamp": 1765844697,
-    "timestamp_local": 1765844697
-  },
-  {
-    "id": 34425,
-    "fecha": "15 de Dec del 2025 a las 07:11 PM",
-    "hora_utc": "2025-12-16 00:11",
-    "mensaje": "‼️ Déficit de Generación ‼️   \n👉 Nos mantenemos en 75 MW en la provincia por déficit de generación.\n\n ⏰ Reiteramos que los circuitos se afectarán o se restablecerán en dependencia del déficit solicitado en cada momento de la jornada que es muy variable.",
-    "timestamp": 1765843863,
-    "timestamp_local": 1765843863
-  },
-  {
-    "id": 34424,
-    "fecha": "15 de Dec del 2025 a las 05:52 PM",
-    "hora_utc": "2025-12-15 22:52",
-    "mensaje": "‼️ Información ‼️   \n👉En estos momentos subimos a 75 MW en la provincia afectados por déficit de generación. Con este déficit no podemos cumplir con una programación estable, por lo que los circuitos se afectarán o se restablecerán en dependencia del déficit que haya en cada momento de la jornada.",
-    "timestamp": 1765839142,
-    "timestamp_local": 1765839142
-  },
-  {
-    "id": 34423,
-    "fecha": "15 de Dec del 2025 a las 05:32 PM",
-    "hora_utc": "2025-12-15 22:32",
-    "mensaje": "👉 A partir de la compleja situación que presenta el Sistema Eléctrico con las afectaciones por déficit de generación, el Centro de Atención Telefónica ☎️18888 se encuentra recibiendo a la misma vez muchas llamadas de toda la provincia lo que ocasiona congestión en la pizarra. Si no puede comunicar intente nuevamente.",
-    "timestamp": 1765837948,
-    "timestamp_local": 1765837948
   }
 ]
