@@ -1,5 +1,45 @@
 [
   {
+    "id": 100610,
+    "fecha": "16 de Dec del 2025 a las 11:38 AM",
+    "hora_utc": "2025-12-16 16:38",
+    "mensaje": "🔷 Restablecido el servicio en el circuito Fénix que se encontraba afectado por manipulación 🔷",
+    "timestamp": 1765903119,
+    "timestamp_local": 1765903119
+  },
+  {
+    "id": 100609,
+    "fecha": "16 de Dec del 2025 a las 11:38 AM",
+    "hora_utc": "2025-12-16 16:38",
+    "mensaje": "♦️ Afectado el servicio en las siguientes zonas correspondientes al circuito Güines 1 por vía libre:\n*Escuela Manuel Ascunce\n*Zonas aledañas ♦️",
+    "timestamp": 1765903081,
+    "timestamp_local": 1765903081
+  },
+  {
+    "id": 100608,
+    "fecha": "16 de Dec del 2025 a las 11:35 AM",
+    "hora_utc": "2025-12-16 16:35",
+    "mensaje": "🔷 Restablecido el servicio en el circuito Güines 1 que se encontraba afectado por manipulación 🔷",
+    "timestamp": 1765902918,
+    "timestamp_local": 1765902918
+  },
+  {
+    "id": 100607,
+    "fecha": "16 de Dec del 2025 a las 11:27 AM",
+    "hora_utc": "2025-12-16 16:27",
+    "mensaje": "♦️ Afectado el servicio en el circuito Güines 1 por manipulación ♦️",
+    "timestamp": 1765902421,
+    "timestamp_local": 1765902421
+  },
+  {
+    "id": 100606,
+    "fecha": "16 de Dec del 2025 a las 11:17 AM",
+    "hora_utc": "2025-12-16 16:17",
+    "mensaje": "♦️ Afectado el servicio en el circuito Fénix por manipulación ♦️",
+    "timestamp": 1765901849,
+    "timestamp_local": 1765901849
+  },
+  {
     "id": 100605,
     "fecha": "16 de Dec del 2025 a las 10:37 AM",
     "hora_utc": "2025-12-16 15:37",
@@ -102,37 +142,5 @@
     "mensaje": "♦️ Afectado el servicio en el circuito 3665 por manipulación ♦️",
     "timestamp": 1765893093,
     "timestamp_local": 1765893093
-  },
-  {
-    "id": 100590,
-    "fecha": "16 de Dec del 2025 a las 08:46 AM",
-    "hora_utc": "2025-12-16 13:46",
-    "mensaje": "🔷 Restablecido el servicio en el circuito 3590 que se encontraba afectado por disparo por DAF 🔷",
-    "timestamp": 1765892767,
-    "timestamp_local": 1765892767
-  },
-  {
-    "id": 100589,
-    "fecha": "16 de Dec del 2025 a las 08:44 AM",
-    "hora_utc": "2025-12-16 13:44",
-    "mensaje": "**Nota Informativa: Estado del Sistema Eléctrico Nacional (SEN) – 16 de diciembre de 2025\n**En el día de ayer se afectó el servicio durante las 24 horas. La máxima afectación por déficit de capacidad de generación en el día de ayer fue de 2007 MW a las 18:40 horas. \nLa producción de energía de los 33 nuevos parques solares fotovoltaicos fue de 2110 MWh, con 523 MW como máxima potencia entregada en el horario de la media con esta fuente de generación. \n**Estado actual del SEN\n**La disponibilidad del SEN a las 06:00 horas es de 1420 MW y la demanda 2350 MW con 950 MW afectados por déficit de capacidad. En el horario de la media se estima una afectación de 1100 MW. \n**Principales incidencias\n** • Avería: Unidad 5 de la CTE Maximo Gomez, Unidad 5 de la CTE Nuevitas, Unidades 5 y 6 de la CTE Antonio Maceo y Unidad 2 de la CTE Felton.\n • Mantenimiento: Unidad 6 de la CTE Mariel, Unidades 2 y 3 de la CTE Santa Cruz, Unidad 4 de la CTE Carlos Manuel de Céspedes en Cienfuegos.\n • Limitaciones en la generación térmica: 398 MW fuera de servicio.\n • Problemas por falta de combustible\n • 100 centrales de generación distribuida con 913 MW.\n • 87 MW indisponibles por falta de lubricante.\n • Total de MW afectados por esta causa: 1000 MW.\n**Pronóstico para el horario pico\n**Para el horario pico se estima la entrada de la unidad 1 de Energás Varadero con 30 MW, la entrada de 80 MW de motores en la generación distribuida que se encuentran fuera por combustible.\nCon este pronóstico para el horario pico se prevé una disponibilidad de 1440 MW y una demanda máxima de 3350 MW, para un déficit de 1910 MW, por lo que de mantenerse las condiciones previstas se pronostica una afectación de 1940 MW en este horario.",
-    "timestamp": 1765892680,
-    "timestamp_local": 1765892680
-  },
-  {
-    "id": 100587,
-    "fecha": "16 de Dec del 2025 a las 08:39 AM",
-    "hora_utc": "2025-12-16 13:39",
-    "mensaje": "🔷♦️Se restablece el servicio en los circuitos que se encontraban afectados  por déficit de capacidad de generación:\n*Palomo\n*San Felipe\n*Quivicán♦️🔷",
-    "timestamp": 1765892387,
-    "timestamp_local": 1765892387
-  },
-  {
-    "id": 100586,
-    "fecha": "16 de Dec del 2025 a las 08:36 AM",
-    "hora_utc": "2025-12-16 13:36",
-    "mensaje": "🔷 Restablecido el servicio en el circuito 1790 que se encontraba afectado por disparo por DAF 🔷",
-    "timestamp": 1765892207,
-    "timestamp_local": 1765892207
   }
 ]
