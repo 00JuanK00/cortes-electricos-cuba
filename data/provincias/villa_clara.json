@@ -1,5 +1,37 @@
 [
   {
+    "id": 35904,
+    "fecha": "16 de Dec del 2025 a las 07:11 AM",
+    "hora_utc": "2025-12-16 12:11",
+    "mensaje": "⚠️Se mantienen disparados los Ctos 5 Cupet, 13 SC Industrial y 17 Subplanta, pertenecientes al municipio Santa Clara, se estudian las causas.",
+    "timestamp": 1765887074,
+    "timestamp_local": 1765887074
+  },
+  {
+    "id": 35903,
+    "fecha": "16 de Dec del 2025 a las 07:09 AM",
+    "hora_utc": "2025-12-16 12:09",
+    "mensaje": "⚠️Se encuentran disparadas por DAF las líneas del 1910, 1920 y 1955:\nLínea 1910\n🔹Municipio Placetas \n👉Ctos 100 y 151 Placetas\n👉Cto 104 Hermanos Amejeiras\n👉Cto 103 Batey Carbó Servia\n\nLínea 1920\n🔹Municipio Placetas:\n👉Cto 101 y 145 Cumbre\n👉Cto 107 Baez\n👉Cto 105 Nazareno\n\nLínea 1955  \n🔹Municipio Encrucijada:\n👉Cto 122 Encrucijada \n👉Cto 123 Vizcaya (Se encuentra afectado por disparo en la subestación)\n👉Cto 142 Comunidad La Sierra \n👉Cto 126 Batey Emilio Córdova\n👉Cto 125 Cavarrocas\n👉Cto 124 El Santo\n🔹Municipio Camajuaní:\n👉Cto 78 Jutiero",
+    "timestamp": 1765886964,
+    "timestamp_local": 1765886964
+  },
+  {
+    "id": 35902,
+    "fecha": "16 de Dec del 2025 a las 07:03 AM",
+    "hora_utc": "2025-12-16 12:03",
+    "mensaje": "Afectados 77 MW en la provincia, demanda máxima a apagar en estos momentos.",
+    "timestamp": 1765886619,
+    "timestamp_local": 1765886619
+  },
+  {
+    "id": 35901,
+    "fecha": "16 de Dec del 2025 a las 06:55 AM",
+    "hora_utc": "2025-12-16 11:55",
+    "mensaje": "⚠️Afectado por déficit de capacidad de generación el siguiente circuito:\n🔹Municipio Santa Clara:\n👉Cto 170 (José Martí)",
+    "timestamp": 1765886153,
+    "timestamp_local": 1765886153
+  },
+  {
     "id": 35900,
     "fecha": "16 de Dec del 2025 a las 06:11 AM",
     "hora_utc": "2025-12-16 11:11",
@@ -126,37 +158,5 @@
     "mensaje": "⚠️Afectadas por manipulación las líneas 6365 y 6370, pertenecientes al municipio Santa Clara.",
     "timestamp": 1765853106,
     "timestamp_local": 1765853106
-  },
-  {
-    "id": 35883,
-    "fecha": "15 de Dec del 2025 a las 09:08 PM",
-    "hora_utc": "2025-12-16 02:08",
-    "mensaje": "Afectados 95 MW en la provincia, demanda máxima a apagar en estos momentos.",
-    "timestamp": 1765850891,
-    "timestamp_local": 1765850891
-  },
-  {
-    "id": 35882,
-    "fecha": "15 de Dec del 2025 a las 08:28 PM",
-    "hora_utc": "2025-12-16 01:28",
-    "mensaje": "⚡Resumen de averías en Santa Clara⚡\n👉Se encuentra en fallo el Cto 7 (Universidad)\n👉Se encuentra en fallo el Cto 24 (Planta Asfalto)\n👉En avería el Cto 144 (Camacho)",
-    "timestamp": 1765848518,
-    "timestamp_local": 1765848518
-  },
-  {
-    "id": 35881,
-    "fecha": "15 de Dec del 2025 a las 08:12 PM",
-    "hora_utc": "2025-12-16 01:12",
-    "mensaje": "🔸Actualización del servicio eléctrico en la provincia🔸\n✍️Se mantienen afectados en la provincia 133 circuitos.\n✍️En el momento de hacer esta nota la provincia tiene 111 MW por déficit de capacidad de generación.\n✍️Cuenta con 120 afectaciones  por averías secundarias y de servicio.",
-    "timestamp": 1765847544,
-    "timestamp_local": 1765847544
-  },
-  {
-    "id": 35880,
-    "fecha": "15 de Dec del 2025 a las 08:11 PM",
-    "hora_utc": "2025-12-16 01:11",
-    "mensaje": "⚡Resumen de averías en los municipios de la provincia⚡\n👉Disparada la línea del 1715, se estudian las posibles causas.\n👉Disparado el Cto 96 (Bermejal), perteneciente al municipio Santo Domingo.\n👉Afectado el Cto 120 (Calabazar), de manera parcial, perteneciente al municipio Encrucijada.\n👉Afectado el Cto 71 (Buena Vista), de manera parcial, perteneciente al municipio Remedios.",
-    "timestamp": 1765847485,
-    "timestamp_local": 1765847485
   }
 ]
