@@ -1,5 +1,13 @@
 [
   {
+    "id": 17440,
+    "fecha": "16 de Dec del 2025 a las 04:28 PM",
+    "hora_utc": "2025-12-16 21:28",
+    "mensaje": "Estimados clientes,\nLes informamos que, debido a la actual situación energética del país, nuestra provincia se encuentra operando bajo la máxima capacidad apagable. Esto significa que todos los circuitos eléctricos que pueden ser desconectados temporalmente están siendo utilizados para mantener el equilibrio del sistema nacional.",
+    "timestamp": 1765920525,
+    "timestamp_local": 1765920525
+  },
+  {
     "id": 17439,
     "fecha": "16 de Dec del 2025 a las 01:02 PM",
     "hora_utc": "2025-12-16 18:02",
@@ -134,13 +142,5 @@
     "mensaje": "**Nota Informativa: Estado del Sistema Eléctrico Nacional (SEN) – 15 de diciembre de 2025**\nEn el día de ayer se afectó el servicio durante las 24 horas. La máxima afectación por déficit de capacidad de generación en el día de ayer fue de 1950 MW a las 18:20 horas.\n\nLa producción de energía de los 33 nuevos parques solares fotovoltaicos fue de 2378 MWh, con 462 MW como máxima potencia entregada en el horario de la media con esta fuente de generación.\n\n**Estado actual del SEN**\nLa disponibilidad del SEN a las 06:00 horas es de 1420 MW y la demanda 2350 MW con 950 MW afectados por déficit de capacidad. En el horario de la media se estima una afectación de 1100 MW.\n\n**Principales incidencias**\nAvería: Unidad 5 de la CTE Maximo Gomez, Unidad 5 de la CTE Nuevitas y Unidad 2 de la CTE Felton.\nMantenimiento: Unidad 6 de la CTE Mariel, Unidades 2 y 3 de la CTE Santa Cruz, Unidad 4 de la CTE Carlos Manuel de Céspedes en Cienfuegos.\nLimitaciones en la generación térmica: 475 MW fuera de servicio.\nProblemas por falta de combustible\n100 centrales de generación distribuida con 909 MW.\n87 MW indisponibles por falta de lubricante.\nTotal de MW afectados por esta causa: 996 MW.\n**Pronóstico para el horario pico**\nPara el pico se estima la entrada de 3 motores en la patana de Melones con 25 MW.\n\nCon este pronóstico se prevé una disponibilidad de 1445 MW y una demanda máxima de 3400 MW, para un déficit de 1955 MW, por lo que de mantenerse las condiciones previstas se pronostica una afectación de 1985 MW en este horario.",
     "timestamp": 1765804415,
     "timestamp_local": 1765804415
-  },
-  {
-    "id": 17419,
-    "fecha": "15 de Dec del 2025 a las 12:39 AM",
-    "hora_utc": "2025-12-15 05:39",
-    "mensaje": "Se declaran en avería los siguientes circuitos:                                                                                                               **TK50 Vázquez, La Jíbara, El Mijial, Maniabón, Cordero, San Roque, Coloma 4**\n**K51 Santa Teresa **\n**K54 Vázquez**",
-    "timestamp": 1765777194,
-    "timestamp_local": 1765777194
   }
 ]
