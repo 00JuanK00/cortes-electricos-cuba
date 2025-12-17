@@ -1,5 +1,21 @@
 [
   {
+    "id": 100705,
+    "fecha": "17 de Dec del 2025 a las 05:59 AM",
+    "hora_utc": "2025-12-17 10:59",
+    "mensaje": "🚨Por déficit de capacidad de generación se afecta el servicio en el siguiente circuito:\n*Güines 1🚨",
+    "timestamp": 1765969146,
+    "timestamp_local": 1765969146
+  },
+  {
+    "id": 100704,
+    "fecha": "17 de Dec del 2025 a las 05:58 AM",
+    "hora_utc": "2025-12-17 10:58",
+    "mensaje": "🚨Por déficit de capacidad de generación se afecta el servicio en los siguientes circuitos:\n*3660\n*3655🚨",
+    "timestamp": 1765969109,
+    "timestamp_local": 1765969109
+  },
+  {
     "id": 100699,
     "fecha": "17 de Dec del 2025 a las 01:44 AM",
     "hora_utc": "2025-12-17 06:44",
@@ -94,21 +110,5 @@
     "mensaje": "🔷♦️Se restablece el servicio en el circuito que se encontraban afectados  por déficit de capacidad de generación:\n*Camacho\n*Magela♦️🔷",
     "timestamp": 1765944027,
     "timestamp_local": 1765944027
-  },
-  {
-    "id": 100685,
-    "fecha": "16 de Dec del 2025 a las 10:55 PM",
-    "hora_utc": "2025-12-17 03:55",
-    "mensaje": "🔷 Restablecido el servicio en el circuito Perú que se encontraba afectado por disparo en las líneas🔷",
-    "timestamp": 1765943754,
-    "timestamp_local": 1765943754
-  },
-  {
-    "id": 100684,
-    "fecha": "16 de Dec del 2025 a las 10:54 PM",
-    "hora_utc": "2025-12-17 03:54",
-    "mensaje": "🔷♦️Se restablece el servicio en el circuito que se encontraba afectado  por déficit de capacidad de generación:\n*Batabanó♦️🔷",
-    "timestamp": 1765943684,
-    "timestamp_local": 1765943684
   }
 ]
