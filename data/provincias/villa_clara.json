@@ -1,5 +1,29 @@
 [
   {
+    "id": 35997,
+    "fecha": "17 de Dec del 2025 a las 08:53 AM",
+    "hora_utc": "2025-12-17 13:53",
+    "mensaje": "💡Restablecido el servicio eléctrico en los siguientes circuitos:\n🔹Municipio Remedios:\n👉Ctos 67 y 152, 68 y 118",
+    "timestamp": 1765979616,
+    "timestamp_local": 1765979616
+  },
+  {
+    "id": 35996,
+    "fecha": "17 de Dec del 2025 a las 08:42 AM",
+    "hora_utc": "2025-12-17 13:42",
+    "mensaje": "🛠️Afectado por faltar una fase el circuito 79 del municipio Santo Domingo.",
+    "timestamp": 1765978969,
+    "timestamp_local": 1765978969
+  },
+  {
+    "id": 35995,
+    "fecha": "17 de Dec del 2025 a las 08:42 AM",
+    "hora_utc": "2025-12-17 13:42",
+    "mensaje": "💡Restablecido el servicio eléctrico en los siguientes circuitos:\n🔹Municipio Manicaragua:\n👉Ctos 108 y 110 La Piedra",
+    "timestamp": 1765978922,
+    "timestamp_local": 1765978922
+  },
+  {
     "id": 35994,
     "fecha": "17 de Dec del 2025 a las 08:19 AM",
     "hora_utc": "2025-12-17 13:19",
@@ -35,7 +59,7 @@
     "id": 35990,
     "fecha": "17 de Dec del 2025 a las 07:44 AM",
     "hora_utc": "2025-12-17 12:44",
-    "mensaje": "💡Restablecido el servicio eléctrico en los siguientes circuitos:\n🔹Municipio Encrucijada:\n👉Cto 122 Encrucijada \n👉Cto 123 Vizcaya \n👉Cto 142 Comunidad La Sierra \n👉Cto 126 Batey Emilio Córdova\n👉Cto 125 Cavarrocas\n👉Cto 124 El Santo\n🔹Municipio Camajuaní:\n👉Cto 78 Jutiero\n🔹Municipio Sagua \n👉Cto 48 Finalet\n👉Ctos 46 y 128 Sitiecito\n👉Ctos 147 y 50 Villa Alegre",
+    "mensaje": "💡Restablecido el servicio eléctrico en los siguientes circuitos:\n🔹Municipio Sagua \n👉Cto 48 Finalet\n👉Ctos 46 y 128 Sitiecito\n👉Ctos 147 y 50 Villa Alegre",
     "timestamp": 1765975462,
     "timestamp_local": 1765975462
   },
@@ -126,29 +150,5 @@
     "mensaje": "🔸Actualización del servicio eléctrico en la provincia🔸\n✍️Se mantienen afectados en la provincia 79 circuitos.\n✍️En el momento de hacer esta nota la provincia tiene 42 MW por déficit de capacidad de generación.\n✍️Cuenta con 162 afectaciones  por averías secundarias y de servicio.",
     "timestamp": 1765954999,
     "timestamp_local": 1765954999
-  },
-  {
-    "id": 35976,
-    "fecha": "17 de Dec del 2025 a las 01:39 AM",
-    "hora_utc": "2025-12-17 06:39",
-    "mensaje": "💡Restablecido el servicio eléctrico en los siguientes circuitos:\n\n👉Municipio Placetas \nCtos 100 y 151 Placetas\nCto 104 Hermanos Amejeiras\nCto 103 Batey Carbó Servia",
-    "timestamp": 1765953571,
-    "timestamp_local": 1765953571
-  },
-  {
-    "id": 35975,
-    "fecha": "17 de Dec del 2025 a las 12:33 AM",
-    "hora_utc": "2025-12-17 05:33",
-    "mensaje": "💡Restablecido el servicio eléctrico en los siguientes circuitos:\n\n👉Municipio Caibarién:\nCtos 61, 62 \nCtos 182 y 183 Van Troy",
-    "timestamp": 1765949638,
-    "timestamp_local": 1765949638
-  },
-  {
-    "id": 35974,
-    "fecha": "17 de Dec del 2025 a las 12:00 AM",
-    "hora_utc": "2025-12-17 05:00",
-    "mensaje": "🕛Actualización del servicio eléctrico en las últimas 6 horas.\n✍️El déficit de capacidad de generación osciló entre los 155 MW y los 75 MW.\n✍️De los  circuitos apagables que presenta la provincia, se mantienen afectados 128 circuitos.\n✍️Cuenta con 185 afectaciones por averías secundarias y de servicio:\n🔸Caibarién(4)\n🔸Camajuaní(8)\n🔸Cifuentes(3)\n🔸Corralillo(2)\n🔸Manicaragua(8)\n🔸Placetas(10)\n🔸Quemado(3)\n🔸Ranchuelo()\n🔸Remedios(23)\n🔸Sagua(12)\n🔸Santa Clara(81)\n🔸Santo Domingo(11)\n👉Se encuentran 4 averías en vías  de solución.\n\n⚡Averías⚡\n👉Afectada la Línea 1915 del municipio Placetas.\n👉Afectado circuito 196 Panchito Gómez Toro, municipio Quemado.",
-    "timestamp": 1765947633,
-    "timestamp_local": 1765947633
   }
 ]
