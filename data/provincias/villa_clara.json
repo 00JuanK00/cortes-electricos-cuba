@@ -1,5 +1,21 @@
 [
   {
+    "id": 35988,
+    "fecha": "17 de Dec del 2025 a las 07:05 AM",
+    "hora_utc": "2025-12-17 12:05",
+    "mensaje": "⚠️Afectado por déficit de generación los siguientes circuitos:\n👉Municipio Camajuaní:\nCto 75 La Quinta\nCto 157 Luis Arcos Bergnes\nCtos 76 y 90 Vega Alta\nCtos 77 y 185 Vueltas",
+    "timestamp": 1765973120,
+    "timestamp_local": 1765973120
+  },
+  {
+    "id": 35987,
+    "fecha": "17 de Dec del 2025 a las 06:52 AM",
+    "hora_utc": "2025-12-17 11:52",
+    "mensaje": "⚡Afectado por avería el circuito 114 perteneciente al municipio Cifuentes, se estudian las causas.",
+    "timestamp": 1765972342,
+    "timestamp_local": 1765972342
+  },
+  {
     "id": 35986,
     "fecha": "17 de Dec del 2025 a las 06:47 AM",
     "hora_utc": "2025-12-17 11:47",
@@ -134,21 +150,5 @@
     "mensaje": "🔸Actualización del servicio eléctrico en la provincia🔸\n✍️Se mantienen afectados en la provincia 143 circuitos.\n✍️En el momento de hacer esta nota la provincia tiene 99 MW por déficit de capacidad de generación.\n✍️Cuenta con 170 afectaciones  por averías secundarias y de servicio.",
     "timestamp": 1765940561,
     "timestamp_local": 1765940561
-  },
-  {
-    "id": 35968,
-    "fecha": "16 de Dec del 2025 a las 09:58 PM",
-    "hora_utc": "2025-12-17 02:58",
-    "mensaje": "💡Restablecido el servicio eléctrico en los siguientes circuitos:\n👉Municipio Santo Domingo:\nCto 134\nCtos 87 y 96 Bermejal\nCto 187 Batey Carlos Baliño\nCto 82 Ulacia\nCto 84 Rodrigo",
-    "timestamp": 1765940338,
-    "timestamp_local": 1765940338
-  },
-  {
-    "id": 35967,
-    "fecha": "16 de Dec del 2025 a las 09:28 PM",
-    "hora_utc": "2025-12-17 02:28",
-    "mensaje": "💡Restablecido el servicio eléctrico en los siguientes circuitos:\n👉Municipio Ranchuelo:\nCto 92 Esperanza (Pueblo)\nCto 93 Esperanza (Campo)\nCtos 54, 94 y 95 Jicotea\n👉Municipio Santa Clara\nCtos 26 y 141 (Manuelita)\nCto 191 (Quemado de Hilario)",
-    "timestamp": 1765938487,
-    "timestamp_local": 1765938487
   }
 ]
