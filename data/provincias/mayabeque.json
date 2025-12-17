@@ -1,5 +1,101 @@
 [
   {
+    "id": 100755,
+    "fecha": "17 de Dec del 2025 a las 01:49 PM",
+    "hora_utc": "2025-12-17 18:49",
+    "mensaje": "♦️Afectado el servicio en las siguientes zonas correspondientes al circuito Catalina 1 por avería:\n*Aguirre\n*Ayanada\n*Zizcay♦️",
+    "timestamp": 1765997380,
+    "timestamp_local": 1765997380
+  },
+  {
+    "id": 100754,
+    "fecha": "17 de Dec del 2025 a las 01:44 PM",
+    "hora_utc": "2025-12-17 18:44",
+    "mensaje": "🔷♦️Se restablece el servicio en los circuitos que se encontraban afectados por déficit de capacidad de generación:\n *Catalina 1 y 2♦️🔷",
+    "timestamp": 1765997063,
+    "timestamp_local": 1765997063
+  },
+  {
+    "id": 100753,
+    "fecha": "17 de Dec del 2025 a las 01:41 PM",
+    "hora_utc": "2025-12-17 18:41",
+    "mensaje": "🔷 Restablecido el servicio en el circuito 3140 que se encontraba afectado por disparo por DAF🔷",
+    "timestamp": 1765996877,
+    "timestamp_local": 1765996877
+  },
+  {
+    "id": 100752,
+    "fecha": "17 de Dec del 2025 a las 01:41 PM",
+    "hora_utc": "2025-12-17 18:41",
+    "mensaje": "🔷 Restablecido el servicio en el circuito 3590 que se encontraba afectado por disparo por DAF🔷",
+    "timestamp": 1765996860,
+    "timestamp_local": 1765996860
+  },
+  {
+    "id": 100751,
+    "fecha": "17 de Dec del 2025 a las 01:40 PM",
+    "hora_utc": "2025-12-17 18:40",
+    "mensaje": "♦️Afectado el servicio en los siguientes circuitos por disparo por DAF:\n*3140\n*3590♦️",
+    "timestamp": 1765996830,
+    "timestamp_local": 1765996830
+  },
+  {
+    "id": 100750,
+    "fecha": "17 de Dec del 2025 a las 01:19 PM",
+    "hora_utc": "2025-12-17 18:19",
+    "mensaje": "🔷 Restablecido el servicio en el circuito 3140 que se encontraba afectado por disparo por DAF🔷",
+    "timestamp": 1765995583,
+    "timestamp_local": 1765995583
+  },
+  {
+    "id": 100749,
+    "fecha": "17 de Dec del 2025 a las 01:19 PM",
+    "hora_utc": "2025-12-17 18:19",
+    "mensaje": "🔷♦️Se restablece el servicio en el circuito que se encontraba afectado  por déficit de capacidad de generación:\n*Magela♦️🔷",
+    "timestamp": 1765995546,
+    "timestamp_local": 1765995546
+  },
+  {
+    "id": 100748,
+    "fecha": "17 de Dec del 2025 a las 01:15 PM",
+    "hora_utc": "2025-12-17 18:15",
+    "mensaje": "🔷♦️Se restablece el servicio en el circuito que se encontraba afectado  por déficit de capacidad de generación:\n*Aguacate♦️🔷",
+    "timestamp": 1765995307,
+    "timestamp_local": 1765995307
+  },
+  {
+    "id": 100747,
+    "fecha": "17 de Dec del 2025 a las 01:13 PM",
+    "hora_utc": "2025-12-17 18:13",
+    "mensaje": "🔷♦️Se restablece el servicio en los circuitos que se encontraban afectados por déficit de capacidad de generación:\n *Batabanó\n*Camacho 1 y 2\n*Quivicán♦️🔷",
+    "timestamp": 1765995230,
+    "timestamp_local": 1765995230
+  },
+  {
+    "id": 100746,
+    "fecha": "17 de Dec del 2025 a las 01:12 PM",
+    "hora_utc": "2025-12-17 18:12",
+    "mensaje": "🚨Por déficit de capacidad de generación se afecta el servicio en los siguientes circuitos:\n*Sopapo 1 y 2🚨",
+    "timestamp": 1765995172,
+    "timestamp_local": 1765995172
+  },
+  {
+    "id": 100745,
+    "fecha": "17 de Dec del 2025 a las 01:12 PM",
+    "hora_utc": "2025-12-17 18:12",
+    "mensaje": "🚨Por déficit de capacidad de generación se afecta el servicio en el siguiente circuito:\n*Melena 1 🚨",
+    "timestamp": 1765995163,
+    "timestamp_local": 1765995163
+  },
+  {
+    "id": 100744,
+    "fecha": "17 de Dec del 2025 a las 01:02 PM",
+    "hora_utc": "2025-12-17 18:02",
+    "mensaje": "🔷♦️Se restablece el servicio en los circuitos que se encontraban afectados por déficit de capacidad de generación:\n *San Felipe\n*Palomo♦️🔷",
+    "timestamp": 1765994547,
+    "timestamp_local": 1765994547
+  },
+  {
     "id": 100743,
     "fecha": "17 de Dec del 2025 a las 12:32 PM",
     "hora_utc": "2025-12-17 17:32",
@@ -62,69 +158,5 @@
     "mensaje": "♦️Afectado el servicio en el circuito 3140 por disparo por DAF♦️",
     "timestamp": 1765992007,
     "timestamp_local": 1765992007
-  },
-  {
-    "id": 100735,
-    "fecha": "17 de Dec del 2025 a las 12:05 PM",
-    "hora_utc": "2025-12-17 17:05",
-    "mensaje": "🔷 Restablecido el servicio en el circuito 3140 que se encontraba afectado por disparo por DAF🔷",
-    "timestamp": 1765991107,
-    "timestamp_local": 1765991107
-  },
-  {
-    "id": 100734,
-    "fecha": "17 de Dec del 2025 a las 12:04 PM",
-    "hora_utc": "2025-12-17 17:04",
-    "mensaje": "🚨Recuerde que puede seguir nuestro canal de WhatsApp para estar actualizado las 24 horas sobre la situación Electroenergética en la Provincia #Mayabeque. \n\n‼️COMPÁRTELO para que tus familiares y amigos también puedan estar informados.\n\n📌Pincha el enlace: https://whatsapp.com/channel/0029Vb6dwTM05MUoA9qmYf1k",
-    "timestamp": 1765991063,
-    "timestamp_local": 1765991063
-  },
-  {
-    "id": 100733,
-    "fecha": "17 de Dec del 2025 a las 12:03 PM",
-    "hora_utc": "2025-12-17 17:03",
-    "mensaje": "♦️Afectado el servicio en el circuito 3140 por disparo por DAF♦️",
-    "timestamp": 1765991031,
-    "timestamp_local": 1765991031
-  },
-  {
-    "id": 100732,
-    "fecha": "17 de Dec del 2025 a las 11:14 AM",
-    "hora_utc": "2025-12-17 16:14",
-    "mensaje": "🔷 Restablecido el servicio en el circuito 3140 que se encontraba afectado por disparo por DAF🔷",
-    "timestamp": 1765988077,
-    "timestamp_local": 1765988077
-  },
-  {
-    "id": 100728,
-    "fecha": "17 de Dec del 2025 a las 11:01 AM",
-    "hora_utc": "2025-12-17 16:01",
-    "mensaje": "♦️Afectado el servicio en el circuito 3140 por disparo por DAF♦️",
-    "timestamp": 1765987302,
-    "timestamp_local": 1765987302
-  },
-  {
-    "id": 100727,
-    "fecha": "17 de Dec del 2025 a las 08:49 AM",
-    "hora_utc": "2025-12-17 13:49",
-    "mensaje": "**Nota Informativa: Estado del Sistema Eléctrico Nacional (SEN) – 17 de diciembre de 2025**\nEn el día de ayer se afectó el servicio durante las 24 horas. La máxima afectación por déficit de capacidad de generación en el día de ayer fue de 2147 MW a las 18:30 horas.\nLa producción de energía de los 33 nuevos parques solares fotovoltaicos fue de 1722 MWh, con 355 MW como máxima potencia entregada en el horario de la media con esta fuente de generación.\n**Estado actual del SEN**\nLa disponibilidad del SEN a las 06:00 horas es de 1420 MW y la demanda 2149 MW con 770 MW afectados por déficit de capacidad. En el horario de la media se estima una afectación de 1120 MW.\n**Principales incidencias**\nAvería: Unidad 5 de la CTE Maximo Gomez, Unidad 5 de la CTE Nuevitas, Unidad 5 de la CTE Antonio Maceo y Unidad 2 de la CTE Felton.\nMantenimiento: Unidad 6 de la CTE Mariel, Unidades 2 y 3 de la CTE Santa Cruz, Unidad 4 de la CTE Carlos Manuel de Céspedes en Cienfuegos.\nLimitaciones en la generación térmica: 450 MW fuera de servicio.\nProblemas por falta de combustible\n91 centrales de generación distribuida con 815 MW.\n87 MW indisponibles por falta de lubricante.\nTotal de MW afectados por esta causa: 993 MW.\n**Pronóstico para el horario pico**\nPara el horario pico se estima la entrada de la unidad 5 de CTE Renté con 60 MW, la entrada de 80 MW de motores en la generación distribuida y la entrada de 4 motores del Fuel de Moa que se encuentran fuera por combustible.\nCon este pronóstico para el horario pico se prevé una disponibilidad de 1610 MW y una demanda máxima de 3400 MW, para un déficit de 1790 MW, por lo que de mantenerse las condiciones previstas se pronostica una afectación de 1820 MW en este horario.",
-    "timestamp": 1765979351,
-    "timestamp_local": 1765979351
-  },
-  {
-    "id": 100725,
-    "fecha": "17 de Dec del 2025 a las 08:36 AM",
-    "hora_utc": "2025-12-17 13:36",
-    "mensaje": "🚨Por déficit de capacidad de generación se afecta el servicio en el siguiente circuito:\n*San Nicolás 1🚨",
-    "timestamp": 1765978609,
-    "timestamp_local": 1765978609
-  },
-  {
-    "id": 100724,
-    "fecha": "17 de Dec del 2025 a las 08:36 AM",
-    "hora_utc": "2025-12-17 13:36",
-    "mensaje": "🔷♦️Se restablece el servicio en el circuito que se encontraba afectado  por déficit de capacidad de generación:\n*3660♦️🔷",
-    "timestamp": 1765978582,
-    "timestamp_local": 1765978582
   }
 ]
