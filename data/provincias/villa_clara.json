@@ -1,9 +1,41 @@
 [
   {
+    "id": 36040,
+    "fecha": "17 de Dec del 2025 a las 06:43 PM",
+    "hora_utc": "2025-12-17 23:43",
+    "mensaje": "Con servicio el circuito 107 (Baez), del municipio Placetas.",
+    "timestamp": 1766014984,
+    "timestamp_local": 1766014984
+  },
+  {
+    "id": 36039,
+    "fecha": "17 de Dec del 2025 a las 06:28 PM",
+    "hora_utc": "2025-12-17 23:28",
+    "mensaje": "Con servicio Santa Clara Industrial 33Kv:\n\n🔹Municipio Santa Clara\nCto 7 (Universidad)  \nCto 146 (Elevado Aeropuerto) **\n**Cto 22 (ConstruccionesTextil)\nCto 131 (Las Antillas)\nCto 24 (Planta Asfalto)\nCto 25 (Los Guiros)\nCto 153 (EIDE)\nCto 35 (Biotecnología)\nCtos 14, 15 y 27 (Maleza)\nCto 34(Sabana Rebacadero)\nCtos 32 y 33 (RF-33Kv)\nCto 39 (Sandino)\nCto 16 Cubanacán\nCtos 23 y 130 La Ceniza\nCto 42 Manajanabo\nMunicipio Placetas\nCto 139 Miller\nCto 190 Oliver\nCto 106 Falcón\nCtos 98 y 99 Placetas",
+    "timestamp": 1766014119,
+    "timestamp_local": 1766014119
+  },
+  {
+    "id": 36038,
+    "fecha": "17 de Dec del 2025 a las 06:25 PM",
+    "hora_utc": "2025-12-17 23:25",
+    "mensaje": "🕕Actualización del servicio eléctrico en las últimas 6 horas.\n✍️El déficit de capacidad de generación osciló entre los 75 MW y los 156 MW.\n✍️De los  circuitos apagables que presenta la provincia, se mantienen afectados 134 circuitos.\n✍️Cuenta con 172 afectaciones por averías secundarias y de servicio:\n🔸Caibarién (3)\n🔸Camajuaní (4)\n🔸Encrucijada (14)\n🔸Manicaragua (12)\n🔸Placetas (18)\n🔸Ranchuelo (8)\n🔸Remedios (10)\n🔸Sagua(9)\n🔸Santa Clara (59)\n🔸Santo Domingo (9)\n👉Se encuentran 9 averías en vías  de solución.\n👉 Pendientes a solucionar por el area técnica 14.\n👉La provincia no presenta averías primarias en estos momentos.",
+    "timestamp": 1766013939,
+    "timestamp_local": 1766013939
+  },
+  {
+    "id": 36037,
+    "fecha": "17 de Dec del 2025 a las 06:10 PM",
+    "hora_utc": "2025-12-17 23:10",
+    "mensaje": "🛠Afectada por disparo Santa Clara Industrial 33Kv:\nAfecta las siguientes líneas:\n🔹Municipio Santa Clara\nCto 7 (Universidad)  \nCto 146 (Elevado Aeropuerto) **\n**Cto 22 (ConstruccionesTextil)\nCto 131 (Las Antillas)\nCto 24 (Planta Asfalto)\nCto 25 (Los Guiros)\nCto 153 (EIDE)\nCto 35 (Biotecnología)\nCtos 14, 15 y 27 (Maleza)\nCto 6 (Vigía)\nCto 34(Sabana Rebacadero)\nCtos 32 y 33 (RF-33Kv)\nCto 39 (Sandino)\nCto 16 Cubanacán\nCtos 23 y 130 La Ceniza\nCto 42 Manajanabo\nMunicipio Placetas\nCto 139 Miller\nCto 190 Oliver\nCto 106 Falcón\nCtos 98 y 99 Placetas\n👉Se estudian las causas.",
+    "timestamp": 1766013016,
+    "timestamp_local": 1766013016
+  },
+  {
     "id": 36036,
     "fecha": "17 de Dec del 2025 a las 05:56 PM",
     "hora_utc": "2025-12-17 22:56",
-    "mensaje": "🛠Afectado por faltar una fase el circuito 107 (Baez), del municipio Santa Clara.",
+    "mensaje": "🛠Afectado por faltar una fase el circuito 107 (Baez), del municipio Placetas.",
     "timestamp": 1766012168,
     "timestamp_local": 1766012168
   },
@@ -43,7 +75,7 @@
     "id": 36031,
     "fecha": "17 de Dec del 2025 a las 04:23 PM",
     "hora_utc": "2025-12-17 21:23",
-    "mensaje": "⚠️Afectados por déficit de capacidad de generación los siguientes circuitos:\n🔹Municipio Ranchuelo:\n👉Cto 92 Esperanza (Pueblo)\n👉Cto 93 Esperanza (Campo)\n🔹Municipio Ranchuelo:\n👉Cto 92 Esperanza (Pueblo)\n👉Cto 93 Esperanza (Campo)\n👉Ctos 54, 94 y 95 Jicotea\n🔹Municipio Santa Clara\n👉Ctos 26 y 141 (Manuelita)\n👉Cto 191 (Quemado de Hilario)\n🔹Municipio Santo Domingo\n👉Cto 79",
+    "mensaje": "⚠️Afectados por déficit de capacidad de generación los siguientes circuitos:\n🔹Municipio Ranchuelo:\n👉Cto 92 Esperanza (Pueblo)\n👉Cto 93 Esperanza (Campo)\n👉Ctos 54, 94 y 95 Jicotea\n🔹Municipio Santa Clara\n👉Ctos 26 y 141 (Manuelita)\n👉Cto 191 (Quemado de Hilario)\n🔹Municipio Santo Domingo\n👉Cto 79",
     "timestamp": 1766006621,
     "timestamp_local": 1766006621
   },
@@ -126,37 +158,5 @@
     "mensaje": "⚠Afectados por deficit de capacidad de generación los siguientes circuitos:\nMunicipio Cifuentes:\n👉Ctos 114 y 117\n👉Ctos 116 y 155 Mata\n👉Cto 186 Batey Unidad Proletaria\n👉Cto 184 Sitio Grande",
     "timestamp": 1765999429,
     "timestamp_local": 1765999429
-  },
-  {
-    "id": 36020,
-    "fecha": "17 de Dec del 2025 a las 02:21 PM",
-    "hora_utc": "2025-12-17 19:21",
-    "mensaje": "🛠️ Restablecida Unidad 6 de la Central Termoeléctrica «10 de Octubre» de Nuevitas.\n\n➡️ En la Unidad 6 de la Central Termoeléctrica (CTE) 10 de Octubre concluyeron las labores para solucionar una contingencia técnica en uno de sus conductos, derivada de un incendio de bajas proporciones. Al cierre de esta información se encontraba sincronizando al Sistema Electroenergético Nacional (SEN).\n\n🔗",
-    "timestamp": 1765999265,
-    "timestamp_local": 1765999265
-  },
-  {
-    "id": 36019,
-    "fecha": "17 de Dec del 2025 a las 02:11 PM",
-    "hora_utc": "2025-12-17 19:11",
-    "mensaje": "🔸Actualización del servicio eléctrico en la provincia🔸\n✍️Se mantienen afectados en la provincia 101 circuitos.\n✍️En el momento de hacer esta nota la provincia tiene 75 MW por déficit de capacidad de generación.\n✍️Cuenta con 197 afectaciones  por averías secundarias y de servicio.",
-    "timestamp": 1765998663,
-    "timestamp_local": 1765998663
-  },
-  {
-    "id": 36018,
-    "fecha": "17 de Dec del 2025 a las 01:53 PM",
-    "hora_utc": "2025-12-17 18:53",
-    "mensaje": "⚠️Afectado por déficit de capacidad de generación los siguientes circuitos:\n🔹Municipio Santa Clara:\n👉Cto 166 (Condado)\n👉Cto 167 (Virginia)\n👉Cto 168 (Condado- XXAniversario)",
-    "timestamp": 1765997634,
-    "timestamp_local": 1765997634
-  },
-  {
-    "id": 36017,
-    "fecha": "17 de Dec del 2025 a las 01:32 PM",
-    "hora_utc": "2025-12-17 18:32",
-    "mensaje": "⚠️Afectado por déficit de capacidad de generación los siguientes circuitos:\n🔹Municipio Manicaragua:\n👉Ctos 109 y 150\n👉Ctos 108 y 110 La Piedra\n👉Cto 111 Mataguá",
-    "timestamp": 1765996331,
-    "timestamp_local": 1765996331
   }
 ]
