@@ -1,5 +1,21 @@
 [
   {
+    "id": 101004,
+    "fecha": "19 de Dec del 2025 a las 06:00 PM",
+    "hora_utc": "2025-12-19 23:00",
+    "mensaje": "🚨 Por déficit de capacidad de generación se afecta el servicio en el siguiente circuito:\n*Güines 4 🚨",
+    "timestamp": 1766185257,
+    "timestamp_local": 1766185257
+  },
+  {
+    "id": 101003,
+    "fecha": "19 de Dec del 2025 a las 06:00 PM",
+    "hora_utc": "2025-12-19 23:00",
+    "mensaje": "🔷♦️Se restablece el servicio en el circuito que se encontraba afectado  por déficit de capacidad de generación:\n*2440♦️🔷",
+    "timestamp": 1766185215,
+    "timestamp_local": 1766185215
+  },
+  {
     "id": 101002,
     "fecha": "19 de Dec del 2025 a las 05:37 PM",
     "hora_utc": "2025-12-19 22:37",
@@ -118,21 +134,5 @@
     "mensaje": "🔷 Restablecido el servicio en las siguientes zonas correspondiente al circuito Perú que se encontraban afectados por vía libre:\n*Edificios Zenea\n*Granja Zena y zonas aledañas🔷",
     "timestamp": 1766171628,
     "timestamp_local": 1766171628
-  },
-  {
-    "id": 100984,
-    "fecha": "19 de Dec del 2025 a las 01:47 PM",
-    "hora_utc": "2025-12-19 18:47",
-    "mensaje": "🔷 Restablecido el servicio en el circuito 3140 que se encontraba afectado por disparo por DAF🔷",
-    "timestamp": 1766170068,
-    "timestamp_local": 1766170068
-  },
-  {
-    "id": 100983,
-    "fecha": "19 de Dec del 2025 a las 01:32 PM",
-    "hora_utc": "2025-12-19 18:32",
-    "mensaje": "♦️ Afectado el servicio en el circuito 3140 por disparo por DAF ♦️",
-    "timestamp": 1766169174,
-    "timestamp_local": 1766169174
   }
 ]
