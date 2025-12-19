@@ -1,5 +1,29 @@
 [
   {
+    "id": 34803,
+    "fecha": "19 de Dec del 2025 a las 03:39 PM",
+    "hora_utc": "2025-12-19 20:39",
+    "mensaje": "✅ Restablecido el circuito 1570 que estaba afectado por emergencia",
+    "timestamp": 1766176750,
+    "timestamp_local": 1766176750
+  },
+  {
+    "id": 34802,
+    "fecha": "19 de Dec del 2025 a las 03:32 PM",
+    "hora_utc": "2025-12-19 20:32",
+    "mensaje": "🚨Abierto el circuito 1570 por emergencia🚨",
+    "timestamp": 1766176358,
+    "timestamp_local": 1766176358
+  },
+  {
+    "id": 34801,
+    "fecha": "19 de Dec del 2025 a las 03:32 PM",
+    "hora_utc": "2025-12-19 20:32",
+    "mensaje": "🚨Se mantiene afectado por déficit de generación\n\n➡️Circuito 246 de Bahía Honda manipulado\n➡️ Circuito 3220 de San Antonio manipulado\n➡️ Circuitos 1258 y 1500 de Artemisa \n➡️ Circuito 1580 de Alquizar \n➡️Circuitos Fábrica de Carretas y Junco de Güira de Melena\n➡️Circuitos Mani y 341 de San Cristóbal\n➡️ Circuito 5040 de Caimito-Bauta\n\n⛔ Tenemos una afectación de 102MW en la Provincia ‼️",
+    "timestamp": 1766176357,
+    "timestamp_local": 1766176357
+  },
+  {
     "id": 34800,
     "fecha": "19 de Dec del 2025 a las 01:06 PM",
     "hora_utc": "2025-12-19 18:06",
@@ -134,29 +158,5 @@
     "mensaje": "🚨Afectado por déficit\n➡️Circuito Guanajay 4 mil.\n\n🚨Tenemos una afectación de 142MW en la Provincia.",
     "timestamp": 1765923315,
     "timestamp_local": 1765923315
-  },
-  {
-    "id": 34783,
-    "fecha": "16 de Dec del 2025 a las 04:31 PM",
-    "hora_utc": "2025-12-16 21:31",
-    "mensaje": "🚨Afectado por déficit\n➡️Circuito3517 del Mariel.\n➡️1580 de Alquizar.\n➡️1258 y 1262 de Artemisa.\n\n🚨Tenemos una afectación de 120 MW en la Provincia",
-    "timestamp": 1765920667,
-    "timestamp_local": 1765920667
-  },
-  {
-    "id": 34782,
-    "fecha": "16 de Dec del 2025 a las 04:26 PM",
-    "hora_utc": "2025-12-16 21:26",
-    "mensaje": "✅ Restablecido el circuito Sub Provisional de Bahía Honda que se encontraba en Falla✅",
-    "timestamp": 1765920411,
-    "timestamp_local": 1765920411
-  },
-  {
-    "id": 34781,
-    "fecha": "16 de Dec del 2025 a las 04:26 PM",
-    "hora_utc": "2025-12-16 21:26",
-    "mensaje": "🚨Afectados por deficit los siguientes circuitos🚨\n➡️San Pedro de Bauta\n➡️236 de Bahía Honda\n➡️1940 de San Antonio\n➡️1570 de Artemisa Candelaria\n➡️1270 de Artemisa\n➡️Las 3 Baracoas de Bauta \n➡️ Cabañas y Quiebra Hacha de Mariel\n➡️Pedro Díaz y Fábrica de Carretas -Pueblo de Güira de Melena\n➡️S20 manipulado, 4 Caminos, el Marti\n➡️Pilar y Plátano de  Artemisa\n➡️S320 de San Cristóbal\n🚨Se mantienen afectados‼️\n📌246 Manipulado de Bahía Honda\n➡️5040 de Caimito\n➡️Sub Provisional de Bahía Honda que se encuentra en falla y paso a cubrir deficit\n🚨 Tenemos una afectación de 106mw❌",
-    "timestamp": 1765920411,
-    "timestamp_local": 1765920411
   }
 ]

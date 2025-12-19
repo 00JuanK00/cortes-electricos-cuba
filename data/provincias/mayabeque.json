@@ -1,5 +1,29 @@
 [
   {
+    "id": 100991,
+    "fecha": "19 de Dec del 2025 a las 03:49 PM",
+    "hora_utc": "2025-12-19 20:49",
+    "mensaje": "♦️ Afectado el servicio en los siguientes circuitos por disparo por DAF:\n*3590\n*3140♦️",
+    "timestamp": 1766177340,
+    "timestamp_local": 1766177340
+  },
+  {
+    "id": 100990,
+    "fecha": "19 de Dec del 2025 a las 03:34 PM",
+    "hora_utc": "2025-12-19 20:34",
+    "mensaje": "🔷 Restablecido el servicio en el circuito 3140 que se encontraba afectado por disparo por DAF🔷",
+    "timestamp": 1766176443,
+    "timestamp_local": 1766176443
+  },
+  {
+    "id": 100989,
+    "fecha": "19 de Dec del 2025 a las 03:13 PM",
+    "hora_utc": "2025-12-19 20:13",
+    "mensaje": "🚨 Por déficit de capacidad de generación se afecta el servicio en el siguiente circuito:\n*3665 🚨",
+    "timestamp": 1766175205,
+    "timestamp_local": 1766175205
+  },
+  {
     "id": 100988,
     "fecha": "19 de Dec del 2025 a las 02:45 PM",
     "hora_utc": "2025-12-19 19:45",
@@ -118,29 +142,5 @@
     "mensaje": "♦️ Afectado el servicio en el circuito de Flor de Itabo por disparo en las líneas ♦️",
     "timestamp": 1766167322,
     "timestamp_local": 1766167322
-  },
-  {
-    "id": 100971,
-    "fecha": "19 de Dec del 2025 a las 01:01 PM",
-    "hora_utc": "2025-12-19 18:01",
-    "mensaje": "♦️ Afectado el servicio en el circuito de Madruga por disparo en las líneas ♦️",
-    "timestamp": 1766167262,
-    "timestamp_local": 1766167262
-  },
-  {
-    "id": 100970,
-    "fecha": "19 de Dec del 2025 a las 12:48 PM",
-    "hora_utc": "2025-12-19 17:48",
-    "mensaje": "🔷♦️Se restablece el servicio en el circuito que se encontraba afectado  por déficit de capacidad de generación:\n*Camilo♦️🔷",
-    "timestamp": 1766166516,
-    "timestamp_local": 1766166516
-  },
-  {
-    "id": 100969,
-    "fecha": "19 de Dec del 2025 a las 12:38 PM",
-    "hora_utc": "2025-12-19 17:38",
-    "mensaje": "🔷 Restablecido el servicio en el circuito 3140 que se encontraba afectado por disparo por DAF🔷",
-    "timestamp": 1766165930,
-    "timestamp_local": 1766165930
   }
 ]
