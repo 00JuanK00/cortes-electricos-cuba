@@ -1,5 +1,21 @@
 [
   {
+    "id": 17475,
+    "fecha": "19 de Dec del 2025 a las 11:31 AM",
+    "hora_utc": "2025-12-19 16:31",
+    "mensaje": "Se encuentran afectados por déficit los siguientes circuitos:\n6230\nTK59  Vedado 3  \nTK67  Porcino     \nTK68  Vedado 6  \nTK69  Transporte  \nTK70  Transporte  \nTK99  La Pedrera  \nTK98  La Pedrera  \nTK64  Palma Picada\n\nTK50 Vázquez\nTK2 Bonachea\nTK106 Palancón, Buena Vista\nTK18 Las Cuarenta y Rpto. Velázquez\nTK5 Buena Vista, Los Pinos\nTK15 Tunas El Pueblo  \n\n6810\nTK82  Tana    \nTK83  Las Maboas  \nTK113 La Aurora  \nTK74  La Lomita  \nTK110 El Batey",
+    "timestamp": 1766161882,
+    "timestamp_local": 1766161882
+  },
+  {
+    "id": 17474,
+    "fecha": "19 de Dec del 2025 a las 11:23 AM",
+    "hora_utc": "2025-12-19 16:23",
+    "mensaje": "La Empresa Eléctrica Las Tunas informa que, según la nota emitida por la Unión Eléctrica para el 19 de diciembre, ayer se registraron afectaciones durante las 24 horas debido a déficit de capacidad de generación, situación que se extendió durante la madrugada de hoy. En nuestra provincia se afectaron la totalidad de los circuitos apagables, con una máxima afectación de 81.25 MW.\nActualmente están fuera de servicio por avería:\nUnidad 5 de la CTE Máximo Gómez, Unidad 5 de la CTE Nuevitas, Unidad 2 de la CTE Felton y Unidad 3 de la CTE Antonio Maceo.\nEn mantenimiento se encuentran:    \nUnidad 6 de la CTE Mariel, Unidades 2 y 3 de la CTE Santa Cruz, Unidad 4 de la CTE Carlos Manuel de Céspedes en Cienfuegos.\nEn el horario en el horario nocturno se estima una afectación de 1970 MW, lo cual puede representar el 95 % de los circuitos apagables. Estos valores pueden variar según la demanda nacional.",
+    "timestamp": 1766161420,
+    "timestamp_local": 1766161420
+  },
+  {
     "id": 17473,
     "fecha": "19 de Dec del 2025 a las 09:11 AM",
     "hora_utc": "2025-12-19 14:11",
@@ -118,21 +134,5 @@
     "mensaje": "Se encuentra afectado el servicio eléctrico por déficit a los siguientes circuitos:\n6230:\nTK59  Vedado 3  \nTK67  Porcino     \nTK68  Vedado 6  \nTK69  Transporte  \nTK70  Transporte  \nTK99  La Pedrera  \nTK98  La Pedrera  \nTK64  Palma Picada\n\n    \n6100:\nTK36  El Raul    \nTK22  Aereopuerto Civil  \nTK23  Veguita    \nTK32  Fleita    \nTK30  Meriño    \n\n6225\nTK93  Batey Delicias    \nTK48  Puerto P. y Maniabón\n\nTK9  Aguilera, La Victoria  \n\n6305:\nTK41  Calixto    \nTK40  Vista Alegre  \nTK42  Gastón    \nTK45  La Ceiba  \nTK43  Las Parras y Omaja  \nTK44  Vivienda  \n\nTK24  Rpto.Santo Domingo  \nTK4  Aereopuerto, Casa Piedra y Aurora  \nTK1  Edificios de Buena Vista    \nTK12  Las 40 y Nuevo Sosa  \nTK6  Calle Cuba y zona sur de buena Vista\n  \nTK7  La Victoria  \n  \nTK19  KM7, San Antonio y Ciruelito  \nTK25  4 Caminos,Dormitorio  \n  \n6310:\nTK20  Becerra    \nTK21  Tunazucar  \nTK39  Providencia IV  \n  \nTK50  Vázquez  \nTK51  Vázquez  \nTK54  Vázquez\n\nTK19  KM7, San Antonio y Ciruelito  \nTK25  4 Caminos, Dormitorio",
     "timestamp": 1765981633,
     "timestamp_local": 1765981633
-  },
-  {
-    "id": 17455,
-    "fecha": "17 de Dec del 2025 a las 09:15 AM",
-    "hora_utc": "2025-12-17 14:15",
-    "mensaje": "Se encuentra afectado el servicio eléctrico al circuito TK26: Circunvalación Sur, para reparar puente partido.",
-    "timestamp": 1765980905,
-    "timestamp_local": 1765980905
-  },
-  {
-    "id": 17454,
-    "fecha": "17 de Dec del 2025 a las 08:30 AM",
-    "hora_utc": "2025-12-17 13:30",
-    "mensaje": "Nota Informativa: Estado del Sistema Eléctrico Nacional (SEN) – 17 de diciembre de 2025\nEn el día de ayer se afectó el servicio durante las 24 horas. La máxima afectación por déficit de capacidad de generación en el día de ayer fue de 2147 MW a las 18:30 horas.\n\nLa producción de energía de los 33 nuevos parques solares fotovoltaicos fue de 1722 MWh, con 355 MW como máxima potencia entregada en el horario de la media con esta fuente de generación.\n\nEstado actual del SEN\nLa disponibilidad del SEN a las 06:00 horas es de 1420 MW y la demanda 2149 MW con 770 MW afectados por déficit de capacidad. En el horario de la media se estima una afectación de 1120 MW.\n\nPrincipales incidencias\nAvería: Unidad 5 de la CTE Maximo Gomez, Unidad 5 de la CTE Nuevitas, Unidad 5 de la CTE Antonio Maceo y Unidad 2 de la CTE Felton.\nMantenimiento: Unidad 6 de la CTE Mariel, Unidades 2 y 3 de la CTE Santa Cruz, Unidad 4 de la CTE Carlos Manuel de Céspedes en Cienfuegos.\nLimitaciones en la generación térmica: 450 MW fuera de servicio.\nProblemas por falta de combustible\n91 centrales de generación distribuida con 815 MW.\n87 MW indisponibles por falta de lubricante.\nTotal de MW afectados por esta causa: 993 MW.\nPronóstico para el horario pico\nPara el horario pico se estima la entrada de la unidad 5 de CTE Renté con 60 MW, la entrada de 80 MW de motores en la generación distribuida y la entrada de 4 motores del Fuel de Moa que se encuentran fuera por combustible.\n\nCon este pronóstico para el horario pico se prevé una disponibilidad de 1610 MW y una demanda máxima de 3400 MW, para un déficit de 1790 MW, por lo que de mantenerse las condiciones previstas se pronostica una afectación de 1820 MW en este horario.",
-    "timestamp": 1765978238,
-    "timestamp_local": 1765978238
   }
 ]
