@@ -1,5 +1,37 @@
 [
   {
+    "id": 36147,
+    "fecha": "19 de Dec del 2025 a las 02:33 PM",
+    "hora_utc": "2025-12-19 19:33",
+    "mensaje": "⚠Afectados por déficit de capacidad de generación los siguientes circuitos:\n🔹Municipio Santo Domingo:\n👉Cto 134\n👉Ctos 87 y 96 Bermejal\n👉Cto 187 Batey Carlos Baliño\n👉Cto 82 Ulacia\n👉Cto 84 Rodrigo\n🔹Municipio Cifuentes:\n👉Ctos 114 y 117\n👉Ctos 116 y 155 Mata\n👉Cto 186 Batey UnidadProletaria\n👉Cto 184 Sitio Grande",
+    "timestamp": 1766172787,
+    "timestamp_local": 1766172787
+  },
+  {
+    "id": 36146,
+    "fecha": "19 de Dec del 2025 a las 02:24 PM",
+    "hora_utc": "2025-12-19 19:24",
+    "mensaje": "⚠Afectados por déficit de capacidad de generación los siguientes circuitos:\n🔹Municipio Quemado:\n👉Ctos 164, 52 y 53 Quemado.\n👉Cto 196 Batey Panchito Gómez Toro.",
+    "timestamp": 1766172299,
+    "timestamp_local": 1766172299
+  },
+  {
+    "id": 36145,
+    "fecha": "19 de Dec del 2025 a las 02:20 PM",
+    "hora_utc": "2025-12-19 19:20",
+    "mensaje": "⚠Afectados por déficit de capacidad de generación los siguientes circuitos:\n🔹Municipio Santa Clara:\n👉Ctos 1, 2, 3 y 4** **(Consejo- Centro)",
+    "timestamp": 1766172054,
+    "timestamp_local": 1766172054
+  },
+  {
+    "id": 36144,
+    "fecha": "19 de Dec del 2025 a las 02:19 PM",
+    "hora_utc": "2025-12-19 19:19",
+    "mensaje": "💡Con servicio Linea 6375\n🔹Municipio Santa Clara:\n👉Cto 144(Camacho-Libertad)\n🔹Municipio Santa Clara\n👉Cto 7 (Universidad)  \n👉Cto 146 (Elevado Aeropuerto) \n👉Cto 22 (ConstruccionesTextil)\n👉Cto 131 (Las Antillas)\n👉Cto 153 (EIDE)\n👉Ctos 14, 15 y 27 (Maleza)",
+    "timestamp": 1766171969,
+    "timestamp_local": 1766171969
+  },
+  {
     "id": 36143,
     "fecha": "19 de Dec del 2025 a las 02:00 PM",
     "hora_utc": "2025-12-19 19:00",
@@ -126,37 +158,5 @@
     "mensaje": "Afectados 76 MW en la provincia, demanda máxima a apagar en estos momentos.",
     "timestamp": 1766151683,
     "timestamp_local": 1766151683
-  },
-  {
-    "id": 36127,
-    "fecha": "19 de Dec del 2025 a las 08:31 AM",
-    "hora_utc": "2025-12-19 13:31",
-    "mensaje": "⚡Afectados por avería  por cables primarios partidos los siguientes circuitos:\n🔹Municipio Santo Domingo:\n👉Ctos 85 y 86 Pajarito",
-    "timestamp": 1766151110,
-    "timestamp_local": 1766151110
-  },
-  {
-    "id": 36126,
-    "fecha": "19 de Dec del 2025 a las 08:28 AM",
-    "hora_utc": "2025-12-19 13:28",
-    "mensaje": "⚠Afectados por déficit de capacidad de generación los siguientes circuitos:\n🔹Municipio Santa Clara:\n👉Cto 166 (Condado)\n👉Cto 167 (Virginia)\n👉Cto 169 (Condado)\n👉Cto 170 (José Martí)\n👉Cto 171 (Los Caneyes)",
-    "timestamp": 1766150893,
-    "timestamp_local": 1766150893
-  },
-  {
-    "id": 36124,
-    "fecha": "19 de Dec del 2025 a las 07:57 AM",
-    "hora_utc": "2025-12-19 12:57",
-    "mensaje": "🔸Actualización del servicio eléctrico en la provincia🔸\n✍️Se mantienen afectados en la provincia 149 circuitos.\n✍️En el momento de hacer esta nota la provincia tiene 102 MW por déficit de capacidad de generación.\n✍️Cuenta con 119 afectaciones  por averías secundarias y de servicio.",
-    "timestamp": 1766149066,
-    "timestamp_local": 1766149066
-  },
-  {
-    "id": 36123,
-    "fecha": "19 de Dec del 2025 a las 07:15 AM",
-    "hora_utc": "2025-12-19 12:15",
-    "mensaje": "Afectados 102 MW en la provincia, demanda máxima a apagar en estos momentos.",
-    "timestamp": 1766146551,
-    "timestamp_local": 1766146551
   }
 ]
