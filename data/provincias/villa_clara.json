@@ -1,5 +1,21 @@
 [
   {
+    "id": 36206,
+    "fecha": "20 de Dec del 2025 a las 02:56 PM",
+    "hora_utc": "2025-12-20 19:56",
+    "mensaje": "🛠️Afectado por vía libre el circuito 166 Condado para reparar avería.",
+    "timestamp": 1766260569,
+    "timestamp_local": 1766260569
+  },
+  {
+    "id": 36204,
+    "fecha": "20 de Dec del 2025 a las 02:52 PM",
+    "hora_utc": "2025-12-20 19:52",
+    "mensaje": "🛠️Afectado por manipulación el circuito 31 SC Industrial.",
+    "timestamp": 1766260323,
+    "timestamp_local": 1766260323
+  },
+  {
     "id": 36203,
     "fecha": "20 de Dec del 2025 a las 02:01 PM",
     "hora_utc": "2025-12-20 19:01",
@@ -110,29 +126,5 @@
     "mensaje": "💡Restablecido el servicio eléctrico en los siguientes circuitos:\n🔹Municipio Encrucijada:\n👉Cto 122 Encrucijada \n👉Cto 123 Vizcaya\n👉Cto 142 Comunidad La Sierra \n👉Cto 126 Batey Emilio Córdova\n👉Cto 125 Cavarrocas\n👉Cto 124 El Santo\n🔹Municipio Camajuaní:\n👉Cto 78 Jutiero",
     "timestamp": 1766230492,
     "timestamp_local": 1766230492
-  },
-  {
-    "id": 36186,
-    "fecha": "20 de Dec del 2025 a las 06:17 AM",
-    "hora_utc": "2025-12-20 11:17",
-    "mensaje": "⚠Afectados por déficit de capacidad de generación los siguientes circuitos:\n🔹**Municipio Placetas**\n👉**C**tos 100 y 151 Placetas\n👉Cto 104 Hermanos Amejeiras\n👉Cto 103 Batey Carbó Servia",
-    "timestamp": 1766229458,
-    "timestamp_local": 1766229458
-  },
-  {
-    "id": 36185,
-    "fecha": "20 de Dec del 2025 a las 06:13 AM",
-    "hora_utc": "2025-12-20 11:13",
-    "mensaje": "🕕Actualización del servicio eléctrico en las últimas 6 horas.\n✍️El déficit de capacidad de generación osciló entre los 69 MW y los 57 MW.\n✍️De los  circuitos apagables que presenta la provincia, se mantienen afectados 106 circuitos.\n✍️Cuenta con 138 afectaciones por averías secundarias y de servicio:\n🔸Camajuaní (6)\n🔸Manicaragua (9)\n🔸Placetas (5)\n🔸Ranchuelo (1)\n🔸Remedios (8)  \n🔸Sagua (1)\n🔸Santa Clara (75)\n🔸Santo Domingo (11)                                                                                               👉Se encuentra 4 avería en vías  de solución.\n👉 Pendientes a solucionar por el área técnica 18.\n✅La provincia no presenta averías primarias.",
-    "timestamp": 1766229202,
-    "timestamp_local": 1766229202
-  },
-  {
-    "id": 36184,
-    "fecha": "20 de Dec del 2025 a las 05:30 AM",
-    "hora_utc": "2025-12-20 10:30",
-    "mensaje": "📝Ante cualquier duda con la terminología eléctrica, les volvemos a explicar:  \n\n⚠Las averías pueden ser:\n\n👉Primarias (afecta un volumen grande de población pues son las líneas de distribución a 13.8kV y puede afectar varias manzanas, incluso repartos completos).\n\n👉Secundarias (afecta a todos los clientes que se alimenten del mismo transformador, puede afectar una o varias cuadras).\n\n👉De servicio (afectan 1 solo cliente o instalación generalmente producto a daños en la acometida, metro contador, etc.).",
-    "timestamp": 1766226631,
-    "timestamp_local": 1766226631
   }
 ]
