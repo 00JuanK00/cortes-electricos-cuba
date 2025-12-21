@@ -1,5 +1,37 @@
 [
   {
+    "id": 47515,
+    "fecha": "21 de Dec del 2025 a las 09:45 AM",
+    "hora_utc": "2025-12-21 14:45",
+    "mensaje": "🔴Estimados clientes se les informa que se incorpora a la afectación el circuito 16 .",
+    "timestamp": 1766328325,
+    "timestamp_local": 1766328325
+  },
+  {
+    "id": 47514,
+    "fecha": "21 de Dec del 2025 a las 09:40 AM",
+    "hora_utc": "2025-12-21 14:40",
+    "mensaje": "🔴Estimados clientes se les informa que se incorporan a la afectación los circuitos 7 , el 9 seccionalizado , el 1 de Palma y el circuito 11.",
+    "timestamp": 1766328045,
+    "timestamp_local": 1766328045
+  },
+  {
+    "id": 47513,
+    "fecha": "21 de Dec del 2025 a las 09:03 AM",
+    "hora_utc": "2025-12-21 14:03",
+    "mensaje": "Estimados clientes, se les reitera que el comportamiento de las afectaciones eléctricas y el restablecimiento del servicio, estará en dependencia de la situación que presente el Sistema Electroenergético Nacional.",
+    "timestamp": 1766325782,
+    "timestamp_local": 1766325782
+  },
+  {
+    "id": 47512,
+    "fecha": "21 de Dec del 2025 a las 09:01 AM",
+    "hora_utc": "2025-12-21 14:01",
+    "mensaje": "Déficit de Capacidad de Generación:    \nSe produce cuando la demanda del Sistema Eléctrico Nacional, en determinado horario del día, supera la generación disponible del país, provocando la desconexión de los circuitos o líneas que permitan garantizar la frecuencia del SEN.",
+    "timestamp": 1766325718,
+    "timestamp_local": 1766325718
+  },
+  {
     "id": 47510,
     "fecha": "21 de Dec del 2025 a las 08:32 AM",
     "hora_utc": "2025-12-21 13:32",
@@ -94,37 +126,5 @@
     "mensaje": "🔊Estimados clientes en estos momentos se encuentra disparado el circuito 10",
     "timestamp": 1766272784,
     "timestamp_local": 1766272784
-  },
-  {
-    "id": 47495,
-    "fecha": "20 de Dec del 2025 a las 05:46 PM",
-    "hora_utc": "2025-12-20 22:46",
-    "mensaje": "🔊Estimados clientes en estos momentos se encuentra afectados por Déficit de Capacidad de Generación la Línea 5385 Palma - San Luis",
-    "timestamp": 1766270785,
-    "timestamp_local": 1766270785
-  },
-  {
-    "id": 47494,
-    "fecha": "20 de Dec del 2025 a las 05:06 PM",
-    "hora_utc": "2025-12-20 22:06",
-    "mensaje": "🔊Estimados clientes en estos momentos se encuentra afectados por Déficit de Capacidad de Generación los circuitos 12 , 24 , 14 , 16 ,9 seccionalizado de Santiago , 2 de Palma , 1 y 2 de Contramaestre",
-    "timestamp": 1766268399,
-    "timestamp_local": 1766268399
-  },
-  {
-    "id": 47493,
-    "fecha": "20 de Dec del 2025 a las 04:14 PM",
-    "hora_utc": "2025-12-20 21:14",
-    "mensaje": "🚨Estimados clientes se les informa que la Línea 5380 de Mella se encuentra afectado por Déficit de Capacidad de Generación . Disculpen por las molestias ocasionadas .",
-    "timestamp": 1766265259,
-    "timestamp_local": 1766265259
-  },
-  {
-    "id": 47492,
-    "fecha": "20 de Dec del 2025 a las 02:50 PM",
-    "hora_utc": "2025-12-20 19:50",
-    "mensaje": "Disparo Automático de Frecuencia (DAF):\nOcurre cuando la frecuencia está por debajo de los 60Hz y determinada carga o circuito se desconecta del sistema automáticamente hasta que se estabilice.",
-    "timestamp": 1766260222,
-    "timestamp_local": 1766260222
   }
 ]
