@@ -1,9 +1,65 @@
 [
   {
+    "id": 36242,
+    "fecha": "21 de Dec del 2025 a las 06:42 AM",
+    "hora_utc": "2025-12-21 11:42",
+    "mensaje": "⚠️Afectados por déficit de capacidad de generación los siguientes circuitos:\n👉Municipio Santa Clara:\nCto 167 (Virginia)\nCto 168 (Condado- XX Aniversario)\nCto 170 (José Martí)\nCto 171 (Los Caneyes)",
+    "timestamp": 1766317330,
+    "timestamp_local": 1766317330
+  },
+  {
+    "id": 36241,
+    "fecha": "21 de Dec del 2025 a las 06:29 AM",
+    "hora_utc": "2025-12-21 11:29",
+    "mensaje": "⚠️Afectados por déficit de capacidad de generación los siguientes circuitos:\n👉Municipio Ranchuelo:\nCto 92 Esperanza (Pueblo)\nCto 93 Esperanza (Campo)\nCtos 54, 94 y 95 Jicotea\n👉Municipio Santa Clara\nCtos 26 y 141 (Manuelita)\nCto 191 (Quemado de Hilario) \n👉Municipio Santo Domingo\nCto 79",
+    "timestamp": 1766316553,
+    "timestamp_local": 1766316553
+  },
+  {
+    "id": 36240,
+    "fecha": "21 de Dec del 2025 a las 06:26 AM",
+    "hora_utc": "2025-12-21 11:26",
+    "mensaje": "⚠️Afectados por déficit de capacidad de generación los siguientes circuitos:\n👉Municipio Cifuentes:\nCtos 114 y 117\nCtos 116 y 155 Mata\nCto 186 Batey Unidad Proletaria\nCto 184 Sitio Grande",
+    "timestamp": 1766316387,
+    "timestamp_local": 1766316387
+  },
+  {
+    "id": 36239,
+    "fecha": "21 de Dec del 2025 a las 06:20 AM",
+    "hora_utc": "2025-12-21 11:20",
+    "mensaje": "⚠️Afectados por déficit de capacidad de generación los siguientes circuitos:\n👉Municipio Santo Domingo:\nCto 134\nCtos 87 y 96 Bermejal\nCto 187 Batey Carlos Baliño\nCto 82 Ulacia\nCto 84 Rodrigo",
+    "timestamp": 1766316011,
+    "timestamp_local": 1766316011
+  },
+  {
+    "id": 36238,
+    "fecha": "21 de Dec del 2025 a las 06:17 AM",
+    "hora_utc": "2025-12-21 11:17",
+    "mensaje": "⚡Afectada por avería la Línea 129, afectando el Hospital Militar y Bombeo Palmarito. Brigadas de nuestra empresa reúnen las condiciones para trabajar en el lugar y poder restablecer en el menor tiempo posible.",
+    "timestamp": 1766315832,
+    "timestamp_local": 1766315832
+  },
+  {
+    "id": 36237,
+    "fecha": "21 de Dec del 2025 a las 06:14 AM",
+    "hora_utc": "2025-12-21 11:14",
+    "mensaje": "💡Restablecido el servicio eléctrico en la Línea 1785 .",
+    "timestamp": 1766315650,
+    "timestamp_local": 1766315650
+  },
+  {
+    "id": 36236,
+    "fecha": "21 de Dec del 2025 a las 06:12 AM",
+    "hora_utc": "2025-12-21 11:12",
+    "mensaje": "⚠️Afectados por déficit de capacidad de generación los siguientes circuitos:\n👉Municipio Manicaragua:\nCtos 109 y 150\n👉Municipio Placetas:\nCto 101 y 145 Cumbre",
+    "timestamp": 1766315549,
+    "timestamp_local": 1766315549
+  },
+  {
     "id": 36235,
     "fecha": "21 de Dec del 2025 a las 05:59 AM",
     "hora_utc": "2025-12-21 10:59",
-    "mensaje": "🕕Actualización del servicio eléctrico en las últimas 6 horas.\n\n👉El déficit de capacidad de generación osciló entre los 86 MW y los 78 MW.\n👉En el momento de esta nota, se mantienen afectados 155 circuitos.\n👉Cuenta con 132 afectaciones por averías secundarias y de servicio:\n Caibarién (1)\n Camajuaní (9)\n Cifuentes (1)\n Corralillo (4)\n Encrucijada (3)\n Manicaragua (18)\n Placetas (7)\n Ranchuelo (1)\n Remedios (24) \n Sagua (7) \n Santa Clara (32)\n Santo Domingo (9)\n🛠️Se encuentran 5 averías en vías de solución.\n🛠️Pendientes a solucionar por el área técnica 12.\n⚡La provincia no presenta averías primarias.",
+    "mensaje": "🕕Actualización del servicio eléctrico en las últimas 6 horas.\n\n👉El déficit de capacidad de generación osciló entre los 86 MW y los 78 MW.\n👉En el momento de esta nota, se mantienen afectados 155 circuitos.\n👉Cuenta con 132 afectaciones por averías secundarias y de servicio:\n Caibarién (1)\n Camajuaní (9)\n Cifuentes (1)\n Corralillo (4)\n Encrucijada (3)\n Manicaragua (18)\n Placetas (7)\n Ranchuelo (1)\n Remedios (24) \n Sagua (7) \n Santa Clara (32)\n Santo Domingo (9)\n🛠️Se encuentran 5 averías en vías de solución.\n🛠️Pendientes a solucionar por el área técnica 12.\n\n⚡Avería⚡\n👉Cto 108 La Piedra del municipio Manicaragua.",
     "timestamp": 1766314751,
     "timestamp_local": 1766314751
   },
@@ -86,61 +142,5 @@
     "mensaje": "💡Restablecido el servicio eléctrico en el circuito 166 Condado.",
     "timestamp": 1766273858,
     "timestamp_local": 1766273858
-  },
-  {
-    "id": 36222,
-    "fecha": "20 de Dec del 2025 a las 06:02 PM",
-    "hora_utc": "2025-12-20 23:02",
-    "mensaje": "🕕Actualización del servicio eléctrico en las últimas 6 horas.\n\n👉El déficit de capacidad de generación osciló entre los 97 MW y los 157 MW.\n👉En el momento de esta nota, se mantienen afectados 158 circuitos.\n👉Cuenta con 191 afectaciones por averías secundarias y de servicio:\n Caibarién (2)\n Camajuaní (12)\n Cifuentes (1)\n Corralillo (4)\n Encrucijada (3)\n Manicaragua (16)\n Placetas (9)\n Quemado ()\n Ranchuelo (3)\n Remedios (23) \n Sagua (7) \n Santa Clara (78)\n Santo Domingo (14)\n🛠️Se encuentran 4 averías en vías de solución.\n🛠️Pendientes a solucionar por el área técnica 15.\n⚡La provincia no presenta averías primarias.",
-    "timestamp": 1766271723,
-    "timestamp_local": 1766271723
-  },
-  {
-    "id": 36221,
-    "fecha": "20 de Dec del 2025 a las 05:56 PM",
-    "hora_utc": "2025-12-20 22:56",
-    "mensaje": "💡Restablecido el servicio eléctrico en los circuitos siguientes:\n👉Cto 32 RF\n👉Cto 33 RF\n👉Cto 40 Hospital Militar",
-    "timestamp": 1766271399,
-    "timestamp_local": 1766271399
-  },
-  {
-    "id": 36220,
-    "fecha": "20 de Dec del 2025 a las 05:45 PM",
-    "hora_utc": "2025-12-20 22:45",
-    "mensaje": "🛠️Afectada por manipulación la Línea 129.\n👉Cto 40 Hospital Militar",
-    "timestamp": 1766270726,
-    "timestamp_local": 1766270726
-  },
-  {
-    "id": 36219,
-    "fecha": "20 de Dec del 2025 a las 05:23 PM",
-    "hora_utc": "2025-12-20 22:23",
-    "mensaje": "⚠️Afectados por déficit de capacidad de generación los siguientes circuitos:\n👉Municipio Sagua\nCto 43, 51 Sagua\nCto 44 Isabela",
-    "timestamp": 1766269416,
-    "timestamp_local": 1766269416
-  },
-  {
-    "id": 36218,
-    "fecha": "20 de Dec del 2025 a las 04:54 PM",
-    "hora_utc": "2025-12-20 21:54",
-    "mensaje": "⚠️Afectados por déficit de capacidad de generación los siguientes circuitos:\n👉Municipio Santa Clara\nCtos15 y 27 (Maleza)",
-    "timestamp": 1766267656,
-    "timestamp_local": 1766267656
-  },
-  {
-    "id": 36217,
-    "fecha": "20 de Dec del 2025 a las 04:32 PM",
-    "hora_utc": "2025-12-20 21:32",
-    "mensaje": "⚠️Afectados por déficit de capacidad de generación los siguientes circuitos:\n👉Municipio Quemado:\nCtos 164, 52 y 53 Quemado.\nCto 196 Batey Panchito Gómez Toro.",
-    "timestamp": 1766266359,
-    "timestamp_local": 1766266359
-  },
-  {
-    "id": 36216,
-    "fecha": "20 de Dec del 2025 a las 04:30 PM",
-    "hora_utc": "2025-12-20 21:30",
-    "mensaje": "⚠️Afectados por déficit de capacidad de generación los siguientes circuitos:\n👉Municipio Ranchuelo:\nCto 92 Esperanza (Pueblo)\nCto 93 Esperanza (Campo)\nCtos 54, 94 y 95 Jicotea\n👉Municipio Santa Clara\nCtos 26 y 141 (Manuelita)\nCto 191 (Quemado de Hilario)",
-    "timestamp": 1766266218,
-    "timestamp_local": 1766266218
   }
 ]
