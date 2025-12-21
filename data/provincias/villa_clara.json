@@ -1,5 +1,13 @@
 [
   {
+    "id": 36232,
+    "fecha": "21 de Dec del 2025 a las 03:55 AM",
+    "hora_utc": "2025-12-21 08:55",
+    "mensaje": "🔹Ante cualquier duda con la terminología eléctrica, les volvemos explicar: \n     \n👉Las averías pueden ser primarias (afecta un volumen grande de población pues son las líneas de distribución a 13.8kV y puede afectar varias manzanas, incluso repartos completos).\n\n👉Secundarias (afecta a todos los clientes que se alimenten del mismo transformador, puede afectar una o varias cuadras). \n\n👉De servicio (afectan 1 solo cliente o instalación generalmente producto a daños en la acometida, metro contador, etc.).",
+    "timestamp": 1766307356,
+    "timestamp_local": 1766307356
+  },
+  {
     "id": 36231,
     "fecha": "21 de Dec del 2025 a las 03:10 AM",
     "hora_utc": "2025-12-21 08:10",
@@ -134,13 +142,5 @@
     "mensaje": "⚠️Afectado por déficit de generación el circuito 6 Vigía.",
     "timestamp": 1766265538,
     "timestamp_local": 1766265538
-  },
-  {
-    "id": 36212,
-    "fecha": "20 de Dec del 2025 a las 04:10 PM",
-    "hora_utc": "2025-12-20 21:10",
-    "mensaje": "⚠️Afectados por déficit de capacidad de generación los siguientes circuitos:\n👉Municipio Sagua \nCto 48 Finalet\nCtos 46 y 128 Sitiecito\nCtos 147 y 50 Villa Alegre",
-    "timestamp": 1766265032,
-    "timestamp_local": 1766265032
   }
 ]
