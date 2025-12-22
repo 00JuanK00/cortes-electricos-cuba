@@ -1,5 +1,45 @@
 [
   {
+    "id": 101223,
+    "fecha": "22 de Dec del 2025 a las 12:48 AM",
+    "hora_utc": "2025-12-22 05:48",
+    "mensaje": "🚨Por déficit de capacidad de generación se afecta el servicio en el siguiente circuito:\n*5 de San José🚨",
+    "timestamp": 1766382519,
+    "timestamp_local": 1766382519
+  },
+  {
+    "id": 101222,
+    "fecha": "22 de Dec del 2025 a las 12:40 AM",
+    "hora_utc": "2025-12-22 05:40",
+    "mensaje": "🚨Por déficit de capacidad de generación se afecta el servicio en el siguiente circuito:\n*Jamaica🚨",
+    "timestamp": 1766382022,
+    "timestamp_local": 1766382022
+  },
+  {
+    "id": 101221,
+    "fecha": "22 de Dec del 2025 a las 12:35 AM",
+    "hora_utc": "2025-12-22 05:35",
+    "mensaje": "🔷♦️Se restablece el servicio en el circuito que se encontraba afectado  por déficit de capacidad de generación:\n*Somorrostro♦️🔷",
+    "timestamp": 1766381741,
+    "timestamp_local": 1766381741
+  },
+  {
+    "id": 101220,
+    "fecha": "22 de Dec del 2025 a las 12:25 AM",
+    "hora_utc": "2025-12-22 05:25",
+    "mensaje": "🔷♦️Se restablece el servicio en los circuitos que se encontraban afectados por déficit de capacidad de generación:\n*CENSA\n*UNAH♦️🔷",
+    "timestamp": 1766381111,
+    "timestamp_local": 1766381111
+  },
+  {
+    "id": 101219,
+    "fecha": "22 de Dec del 2025 a las 12:24 AM",
+    "hora_utc": "2025-12-22 05:24",
+    "mensaje": "🔷♦️Se restablece el servicio en los circuitos que se encontraban afectados por déficit de capacidad de generación:\n *Sopapo 1 y 2 ♦️🔷",
+    "timestamp": 1766381056,
+    "timestamp_local": 1766381056
+  },
+  {
     "id": 101218,
     "fecha": "22 de Dec del 2025 a las 12:16 AM",
     "hora_utc": "2025-12-22 05:16",
@@ -102,29 +142,5 @@
     "mensaje": "🔷Restablecido el servicio en el circuito 3590 que se encontraba afectado por disparo por DAF🔷",
     "timestamp": 1766371745,
     "timestamp_local": 1766371745
-  },
-  {
-    "id": 101201,
-    "fecha": "21 de Dec del 2025 a las 09:34 PM",
-    "hora_utc": "2025-12-22 02:34",
-    "mensaje": "♦️Afectado el servicio en los siguientes circuitos por disparo en las líneas:\n*Menocal \n*Babiney\n*Nazareno♦️",
-    "timestamp": 1766370872,
-    "timestamp_local": 1766370872
-  },
-  {
-    "id": 101200,
-    "fecha": "21 de Dec del 2025 a las 09:26 PM",
-    "hora_utc": "2025-12-22 02:26",
-    "mensaje": "♦️Afectado el servicio en el circuito 3590 por disparo por DAF♦️",
-    "timestamp": 1766370398,
-    "timestamp_local": 1766370398
-  },
-  {
-    "id": 101199,
-    "fecha": "21 de Dec del 2025 a las 09:26 PM",
-    "hora_utc": "2025-12-22 02:26",
-    "mensaje": "♦️Afectado el servicio en el circuito 3140 por disparo por DAF♦️",
-    "timestamp": 1766370393,
-    "timestamp_local": 1766370393
   }
 ]
