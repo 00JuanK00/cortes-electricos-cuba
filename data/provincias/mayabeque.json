@@ -1,5 +1,13 @@
 [
   {
+    "id": 101250,
+    "fecha": "22 de Dec del 2025 a las 09:15 AM",
+    "hora_utc": "2025-12-22 14:15",
+    "mensaje": "🚨Pasa a deficit de capacidad de generación el siguiente circuito que se encontraba afectado por avería:\n*2440🚨",
+    "timestamp": 1766412926,
+    "timestamp_local": 1766412926
+  },
+  {
     "id": 101246,
     "fecha": "22 de Dec del 2025 a las 08:41 AM",
     "hora_utc": "2025-12-22 13:41",
@@ -110,21 +118,5 @@
     "mensaje": "🚨Por déficit de capacidad de generación se afecta el servicio en el siguiente circuito:\n*Nueva Paz 🚨",
     "timestamp": 1766401553,
     "timestamp_local": 1766401553
-  },
-  {
-    "id": 101228,
-    "fecha": "22 de Dec del 2025 a las 03:51 AM",
-    "hora_utc": "2025-12-22 08:51",
-    "mensaje": "🔷Restablecido el servicio en el circuito 3140 que se encontraba afectado por disparo por DAF🔷",
-    "timestamp": 1766393512,
-    "timestamp_local": 1766393512
-  },
-  {
-    "id": 101227,
-    "fecha": "22 de Dec del 2025 a las 03:46 AM",
-    "hora_utc": "2025-12-22 08:46",
-    "mensaje": "♦️Afectado el servicio en el circuito 3140 por disparo por DAF♦️",
-    "timestamp": 1766393219,
-    "timestamp_local": 1766393219
   }
 ]
