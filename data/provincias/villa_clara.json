@@ -1,5 +1,29 @@
 [
   {
+    "id": 36373,
+    "fecha": "23 de Dec del 2025 a las 06:43 AM",
+    "hora_utc": "2025-12-23 11:43",
+    "mensaje": "⚠️Se encuentran afectados por déficit de capacidad de generación los siguientes circuitos:\n🔹Municipio Manicaragua:\n👉Ctos 109 y 150\n👉Ctos 108 y 110 La Piedra\n👉Cto 111 Mataguá\n🔹Municipio Santa Clara:\n👉Cto 170 (José Martí)\n👉Cto 166 (Condado)\n👉Cto 167 (Virginia)",
+    "timestamp": 1766490217,
+    "timestamp_local": 1766490217
+  },
+  {
+    "id": 36372,
+    "fecha": "23 de Dec del 2025 a las 06:41 AM",
+    "hora_utc": "2025-12-23 11:41",
+    "mensaje": "⚠️Se encuentran afectados por déficit de capacidad de generación los siguientes circuitos:\n🔹Municipio Caibarién\n👉Ctos 182 y 183 Van Troy\n👉Ctos 61 y 62\n👉Ctos 63 y 64",
+    "timestamp": 1766490064,
+    "timestamp_local": 1766490064
+  },
+  {
+    "id": 36371,
+    "fecha": "23 de Dec del 2025 a las 06:37 AM",
+    "hora_utc": "2025-12-23 11:37",
+    "mensaje": "🕕Actualización del servicio eléctrico en las últimas 6 horas.\n✍️El déficit de capacidad de generación osciló entre los 87 MW y los 71 MW.\n✍️En el momento de esta nota, se mantienen afectados 171 circuitos.\n✍️Cuenta con 142 afectaciones por averías secundarias y de servicio:\n🔸Caibarién (1)\n🔸Camajuaní (1)\n🔸Encrucijada (1)\n🔸Manicaragua (32)\n🔸Placetas (2)\n🔸Quemado (1)\n🔸Remedios (14) \n🔸Sagua (14) \n🔸Santa Clara (69)\n🔸Santo Domingo (7)\n🛠️Pendientes a solucionar por el área técnica 12.\n⚡En avería el Cto 111 (Mataguá) de manera parcial, perteneciente al municipio Santa Clara.\n⚡En avería la línea del 4608, perteneciente al municipio Corralillo.\n⚡Afectado por avería el Cto 63 de manera parcial, perteneciente al municipio Caibarién, se estudian las posibles causas.",
+    "timestamp": 1766489851,
+    "timestamp_local": 1766489851
+  },
+  {
     "id": 36370,
     "fecha": "23 de Dec del 2025 a las 05:24 AM",
     "hora_utc": "2025-12-23 10:24",
@@ -19,7 +43,7 @@
     "id": 36368,
     "fecha": "23 de Dec del 2025 a las 05:05 AM",
     "hora_utc": "2025-12-23 10:05",
-    "mensaje": "⚡Afectado por avería el Cto 63 de manera parcial, perteneciente al municipio Santa Clara, se estudian las posibles causas.",
+    "mensaje": "⚡Afectado por avería el Cto 63 de manera parcial, perteneciente al municipio Caibarién, se estudian las posibles causas.",
     "timestamp": 1766484317,
     "timestamp_local": 1766484317
   },
@@ -134,29 +158,5 @@
     "mensaje": "Afectados 204 MW en la provincia, demanda máxima a apagar en estos momentos.",
     "timestamp": 1766448284,
     "timestamp_local": 1766448284
-  },
-  {
-    "id": 36353,
-    "fecha": "22 de Dec del 2025 a las 06:45 PM",
-    "hora_utc": "2025-12-22 23:45",
-    "mensaje": "‼️Ante cualquier duda con la terminología eléctrica, les volvemos explicar: \n     \n✍️Las averías pueden ser primarias (afecta un volumen grande de población pues son las líneas de distribución a 13.8kV y puede afectar varias manzanas, incluso repartos completos).\n\n✍️Secundarias (afecta a todos los clientes que se alimenten del mismo transformador, puede afectar una o varias cuadras). \n\n✍️De servicio (afectan 1 solo cliente o instalación generalmente producto a daños en la acometida, metro contador, etc.).",
-    "timestamp": 1766447120,
-    "timestamp_local": 1766447120
-  },
-  {
-    "id": 36352,
-    "fecha": "22 de Dec del 2025 a las 06:02 PM",
-    "hora_utc": "2025-12-22 23:02",
-    "mensaje": "🕕Actualización del servicio eléctrico en las últimas 6 horas.\n✍️El déficit de capacidad de generación osciló entre los 94 MW y los 123 MW.\n✍️En el momento de esta nota, se mantienen afectados 169 circuitos.\n✍️Cuenta con 124 afectaciones por averías secundarias y de servicio:\n🔸Camajuaní (1)\n🔸Encrucijada (1)\n🔸Manicaragua (29)\n🔸Placetas (1)\n🔸Quemado (1)\n🔸Remedios (14) \n🔸Sagua (9) \n🔸Santa Clara (61)\n🔸Santo Domingo (7)\n🛠️Pendientes a solucionar por el área técnica 12.\n⚡La provincia no presenta averías primarias en estos momentos.",
-    "timestamp": 1766444540,
-    "timestamp_local": 1766444540
-  },
-  {
-    "id": 36351,
-    "fecha": "22 de Dec del 2025 a las 05:32 PM",
-    "hora_utc": "2025-12-22 22:32",
-    "mensaje": "⚠️Afectado por déficit de capacidad de generación los circuitos 5, 13 y 17, pertenecientes al municipio Santa Clara.",
-    "timestamp": 1766442765,
-    "timestamp_local": 1766442765
   }
 ]
