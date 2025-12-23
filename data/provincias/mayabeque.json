@@ -1,5 +1,21 @@
 [
   {
+    "id": 101365,
+    "fecha": "23 de Dec del 2025 a las 12:11 PM",
+    "hora_utc": "2025-12-23 17:11",
+    "mensaje": "🚨Por déficit de capacidad de generación se afecta el servicio en los siguientes circuitos:\n*2 de San José\n*Güines 4🚨",
+    "timestamp": 1766509865,
+    "timestamp_local": 1766509865
+  },
+  {
+    "id": 101364,
+    "fecha": "23 de Dec del 2025 a las 11:59 AM",
+    "hora_utc": "2025-12-23 16:59",
+    "mensaje": "♦️ Afectado el servicio en el circuito 1790 por disparo por DAF ♦️",
+    "timestamp": 1766509172,
+    "timestamp_local": 1766509172
+  },
+  {
     "id": 101363,
     "fecha": "23 de Dec del 2025 a las 11:47 AM",
     "hora_utc": "2025-12-23 16:47",
@@ -86,21 +102,5 @@
     "mensaje": "♦️ Afectado el servicio en el circuito 3140 por disparo por DAF ♦️",
     "timestamp": 1766497791,
     "timestamp_local": 1766497791
-  },
-  {
-    "id": 101345,
-    "fecha": "23 de Dec del 2025 a las 08:38 AM",
-    "hora_utc": "2025-12-23 13:38",
-    "mensaje": "🔷♦️Se restablece el servicio en el circuito que se encontraba afectado  por déficit de capacidad de generación:\n*3660 ♦️🔷\n\n\n🚨 Continúa afectado por déficit de capacidad de generación el siguiente circuito:\n*San Nicolás 1🚨",
-    "timestamp": 1766497098,
-    "timestamp_local": 1766497098
-  },
-  {
-    "id": 101344,
-    "fecha": "23 de Dec del 2025 a las 08:36 AM",
-    "hora_utc": "2025-12-23 13:36",
-    "mensaje": "**Nota Informativa: Estado del Sistema Eléctrico Nacional (SEN) – 22 de diciembre de 2025**\nEn el día de ayer se afectó el servicio durante las 24 horas. La máxima afectación por déficit de capacidad de generación en el día de ayer fue de 1879 MW a las 18:30 horas.\nLa producción de energía de los 33 nuevos parques solares fotovoltaicos fue de 2943 MWh, con 609 MW como máxima potencia entregada en el horario de la media con esta fuente de generación.\n**Estado actual del SEN**\nLa disponibilidad del SEN a las 06:00 horas es de 1433 MW y la demanda 2337 MW con 904 MW afectados por déficit de capacidad. En el horario de la media se estima una afectación de 1100 MW.\n**Principales incidencias**\nAvería: Unidad 6 de la CTE Antonio Maceo, Unidad 2 de la CTE Felton.\nMantenimiento: Unidad 6 de la CTE Mariel, Unidad 2 de la CTE Santa Cruz, Unidad 4 de la CTE Carlos Manuel de Céspedes en Cienfuegos.\nLimitaciones en la generación térmica: 602 MW fuera de servicio.\nProblemas por falta de combustible\n95 centrales de generación distribuida con 899 MW.\n108 MW en la Central Fuel de Moa\n102 MW indisponibles por falta de lubricante.\nTotal de MW afectados por esta causa: 1109 MW.\n**Pronóstico para el horario pico**\nPara el horario se estima una disponibilidad de 1433 MW y una demanda máxima de 3400 MW, para un déficit de 1967 MW, por lo que de mantenerse las condiciones previstas se pronostica una afectación de 1997 MW en este horario.",
-    "timestamp": 1766496971,
-    "timestamp_local": 1766496971
   }
 ]
