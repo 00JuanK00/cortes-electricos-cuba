@@ -1,5 +1,29 @@
 [
   {
+    "id": 101346,
+    "fecha": "23 de Dec del 2025 a las 08:49 AM",
+    "hora_utc": "2025-12-23 13:49",
+    "mensaje": "♦️ Afectado el servicio en el circuito 3140 por disparo por DAF ♦️",
+    "timestamp": 1766497791,
+    "timestamp_local": 1766497791
+  },
+  {
+    "id": 101345,
+    "fecha": "23 de Dec del 2025 a las 08:38 AM",
+    "hora_utc": "2025-12-23 13:38",
+    "mensaje": "🔷♦️Se restablece el servicio en el circuito que se encontraba afectado  por déficit de capacidad de generación:\n*3660 ♦️🔷\n\n\n🚨 Continúa afectado por déficit de capacidad de generación el siguiente circuito:\n*San Nicolás 1🚨",
+    "timestamp": 1766497098,
+    "timestamp_local": 1766497098
+  },
+  {
+    "id": 101344,
+    "fecha": "23 de Dec del 2025 a las 08:36 AM",
+    "hora_utc": "2025-12-23 13:36",
+    "mensaje": "**Nota Informativa: Estado del Sistema Eléctrico Nacional (SEN) – 22 de diciembre de 2025**\nEn el día de ayer se afectó el servicio durante las 24 horas. La máxima afectación por déficit de capacidad de generación en el día de ayer fue de 1879 MW a las 18:30 horas.\nLa producción de energía de los 33 nuevos parques solares fotovoltaicos fue de 2943 MWh, con 609 MW como máxima potencia entregada en el horario de la media con esta fuente de generación.\n**Estado actual del SEN**\nLa disponibilidad del SEN a las 06:00 horas es de 1433 MW y la demanda 2337 MW con 904 MW afectados por déficit de capacidad. En el horario de la media se estima una afectación de 1100 MW.\n**Principales incidencias**\nAvería: Unidad 6 de la CTE Antonio Maceo, Unidad 2 de la CTE Felton.\nMantenimiento: Unidad 6 de la CTE Mariel, Unidad 2 de la CTE Santa Cruz, Unidad 4 de la CTE Carlos Manuel de Céspedes en Cienfuegos.\nLimitaciones en la generación térmica: 602 MW fuera de servicio.\nProblemas por falta de combustible\n95 centrales de generación distribuida con 899 MW.\n108 MW en la Central Fuel de Moa\n102 MW indisponibles por falta de lubricante.\nTotal de MW afectados por esta causa: 1109 MW.\n**Pronóstico para el horario pico**\nPara el horario se estima una disponibilidad de 1433 MW y una demanda máxima de 3400 MW, para un déficit de 1967 MW, por lo que de mantenerse las condiciones previstas se pronostica una afectación de 1997 MW en este horario.",
+    "timestamp": 1766496971,
+    "timestamp_local": 1766496971
+  },
+  {
     "id": 101342,
     "fecha": "23 de Dec del 2025 a las 08:17 AM",
     "hora_utc": "2025-12-23 13:17",
@@ -102,53 +126,5 @@
     "mensaje": "🚨Por déficit de capacidad de generación se afecta el servicio en el siguiente circuito:\n*Quivicán 🚨",
     "timestamp": 1766491624,
     "timestamp_local": 1766491624
-  },
-  {
-    "id": 101329,
-    "fecha": "23 de Dec del 2025 a las 07:06 AM",
-    "hora_utc": "2025-12-23 12:06",
-    "mensaje": "🚨Por déficit de capacidad de generación se afecta el servicio en el siguiente circuito:\n*Bío 1🚨",
-    "timestamp": 1766491607,
-    "timestamp_local": 1766491607
-  },
-  {
-    "id": 101327,
-    "fecha": "23 de Dec del 2025 a las 06:35 AM",
-    "hora_utc": "2025-12-23 11:35",
-    "mensaje": "🚨Por déficit de capacidad de generación se afecta el servicio en el siguiente circuito:\n*3660🚨",
-    "timestamp": 1766489712,
-    "timestamp_local": 1766489712
-  },
-  {
-    "id": 101326,
-    "fecha": "23 de Dec del 2025 a las 06:34 AM",
-    "hora_utc": "2025-12-23 11:34",
-    "mensaje": "🔷Con servicio el circuito ML-35 que se encontraba afectado por disparo en las líneas 🔷",
-    "timestamp": 1766489693,
-    "timestamp_local": 1766489693
-  },
-  {
-    "id": 101325,
-    "fecha": "23 de Dec del 2025 a las 06:18 AM",
-    "hora_utc": "2025-12-23 11:18",
-    "mensaje": "♦️ Afectado el servicio en el circuito ML-35 por disparo en las líneas♦️",
-    "timestamp": 1766488696,
-    "timestamp_local": 1766488696
-  },
-  {
-    "id": 101324,
-    "fecha": "23 de Dec del 2025 a las 06:12 AM",
-    "hora_utc": "2025-12-23 11:12",
-    "mensaje": "🚨Por déficit de capacidad de generación se afecta el servicio en el siguiente circuito:\n*3655🚨",
-    "timestamp": 1766488371,
-    "timestamp_local": 1766488371
-  },
-  {
-    "id": 101323,
-    "fecha": "23 de Dec del 2025 a las 05:47 AM",
-    "hora_utc": "2025-12-23 10:47",
-    "mensaje": "🚨Por déficit de capacidad de generación se afecta el servicio en el siguiente circuito:\n*Ganuza 🚨",
-    "timestamp": 1766486851,
-    "timestamp_local": 1766486851
   }
 ]
