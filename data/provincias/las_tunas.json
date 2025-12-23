@@ -1,5 +1,29 @@
 [
   {
+    "id": 17530,
+    "fecha": "23 de Dec del 2025 a las 06:12 PM",
+    "hora_utc": "2025-12-23 23:12",
+    "mensaje": "Afecta el circuito TK5 Buena Vista Los pinos por vía libre por emergencia, la causa es un abundante cortocircuito el la línea primaria y en el poste subyacente  cerca del edificio 33 en el reparto Camilo Cienfuegos. se trabaja para dar solución con toda la prontitud posible.",
+    "timestamp": 1766531559,
+    "timestamp_local": 1766531559
+  },
+  {
+    "id": 17529,
+    "fecha": "23 de Dec del 2025 a las 06:09 PM",
+    "hora_utc": "2025-12-23 23:09",
+    "mensaje": "Se restablece los siguientes los siguientes circuitos:\nTK106 y TK2",
+    "timestamp": 1766531394,
+    "timestamp_local": 1766531394
+  },
+  {
+    "id": 17528,
+    "fecha": "23 de Dec del 2025 a las 06:01 PM",
+    "hora_utc": "2025-12-23 23:01",
+    "mensaje": "Se afecta los siguientes circuitos por emergencia del sistema.\nTk15 El Pueblo la Loma \nTK2 Bonachea \nTK106 Palancón\nLas afectaciones y su posterior restablecimiento dependerá de la estabilización de la frecuencia. Lamentamos las molestias ocasionadas.",
+    "timestamp": 1766530897,
+    "timestamp_local": 1766530897
+  },
+  {
     "id": 17527,
     "fecha": "23 de Dec del 2025 a las 06:00 PM",
     "hora_utc": "2025-12-23 23:00",
@@ -102,21 +126,5 @@
     "mensaje": "Nota Informativa: Estado del Sistema Eléctrico Nacional (SEN) – 22 de diciembre de 2025\nEn el día de ayer se afectó el servicio durante las 24 horas. La máxima afectación por déficit de capacidad de generación en el día de ayer fue de 1879 MW a las 18:30 horas.\n\nLa producción de energía de los 33 nuevos parques solares fotovoltaicos fue de 2943 MWh, con 609 MW como máxima potencia entregada en el horario de la media con esta fuente de generación.\n\nEstado actual del SEN\nLa disponibilidad del SEN a las 06:00 horas es de 1433 MW y la demanda 2337 MW con 904 MW afectados por déficit de capacidad. En el horario de la media se estima una afectación de 1100 MW.\n\nPrincipales incidencias\nAvería: Unidad 6 de la CTE Antonio Maceo, Unidad 2 de la CTE Felton.\nMantenimiento: Unidad 6 de la CTE Mariel, Unidad 2 de la CTE Santa Cruz, Unidad 4 de la CTE Carlos Manuel de Céspedes en Cienfuegos.\nLimitaciones en la generación térmica: 602 MW fuera de servicio.\nProblemas por falta de combustible\n95 centrales de generación distribuida con 899 MW.\n108 MW en la Central Fuel de Moa\n102 MW indisponibles por falta de lubricante.\nTotal de MW afectados por esta causa: 1109 MW.\nPronóstico para el horario pico\nPara el horario se estima una disponibilidad de 1433 MW y una demanda máxima de 3400 MW, para un déficit de 1967 MW, por lo que de mantenerse las condiciones previstas se pronostica una afectación de 1997 MW en este horario.",
     "timestamp": 1766416794,
     "timestamp_local": 1766416794
-  },
-  {
-    "id": 17509,
-    "fecha": "22 de Dec del 2025 a las 10:16 AM",
-    "hora_utc": "2025-12-22 15:16",
-    "mensaje": "La Empresa Eléctrica Las Tunas informa que, según la nota emitida por la Unión Eléctrica para el 22 de diciembre, ayer se registraron afectaciones durante las 24 horas debido a déficit de capacidad de generación, situación que se extendió durante la madrugada de hoy. En nuestra provincia se afectaron la totalidad de los circuitos apagables, con una máxima afectación de 78.6 MW.\nActualmente están fuera de servicio por avería:\nUnidad 6 de la CTE Antonio Maceo, Unidad 2 de la CTE Felton.\nEn mantenimiento se encuentran:    \nUnidad 6 de la CTE Mariel, Unidad 2 de la CTE Santa Cruz, Unidad 4 de la CTE Carlos Manuel de Céspedes en Cienfuegos.\nUnidad 6 de la CTE Mariel, Unidades 2 y 3 de la CTE Santa Cruz, Unidad 4 de la CTE Carlos Manuel de Céspedes en Cienfuegos.\nEn el horario en el horario nocturno se estima una afectación de 1997 MW, lo cual puede representar el 95 % de los circuitos apagables. Estos valores pueden variar según la demanda nacional.",
-    "timestamp": 1766416580,
-    "timestamp_local": 1766416580
-  },
-  {
-    "id": 17507,
-    "fecha": "22 de Dec del 2025 a las 12:27 AM",
-    "hora_utc": "2025-12-22 05:27",
-    "mensaje": "Estimados clientes,\nLes informamos que, debido a la actual situación energética del país, nuestra provincia se encuentra operando bajo la máxima capacidad apagable. Esto significa que todos los circuitos eléctricos que pueden ser desconectados temporalmente están siendo utilizados para mantener el equilibrio del sistema nacional.",
-    "timestamp": 1766381226,
-    "timestamp_local": 1766381226
   }
 ]
