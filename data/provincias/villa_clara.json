@@ -1,5 +1,21 @@
 [
   {
+    "id": 36452,
+    "fecha": "24 de Dec del 2025 a las 07:12 AM",
+    "hora_utc": "2025-12-24 12:12",
+    "mensaje": "Afectados 74 MW en la provincia, demanda máxima a apagar en estos momentos.",
+    "timestamp": 1766578362,
+    "timestamp_local": 1766578362
+  },
+  {
+    "id": 36451,
+    "fecha": "24 de Dec del 2025 a las 06:58 AM",
+    "hora_utc": "2025-12-24 11:58",
+    "mensaje": "⚠️Afectados por déficit de capacidad de generación los siguientes circuitos:\n🔹Municipio Santa Clara:\n👉Cto 167 (Virginia)\n👉Cto 170 (José Martí)\n👉Cto 171 (Los Caneyes)\n👉Cto 30 Capiro\n👉Ctos 1 y  4 (Consejo- Centro)\n🔹Municipio Manicaragua:\n👉Ctos 109 y 150\n👉Ctos 108 y 110 La Piedra\n👉Cto 111 Mataguá\n🔹Municipio Placetas\n👉Cto 99 \n👉Ctos 100 y 151 Placetas\n👉Cto 104 Hermanos Amejeiras\n👉Cto 103 Batey Carbó Servia",
+    "timestamp": 1766577490,
+    "timestamp_local": 1766577490
+  },
+  {
     "id": 36450,
     "fecha": "24 de Dec del 2025 a las 06:23 AM",
     "hora_utc": "2025-12-24 11:23",
@@ -11,7 +27,7 @@
     "id": 36449,
     "fecha": "24 de Dec del 2025 a las 04:47 AM",
     "hora_utc": "2025-12-24 09:47",
-    "mensaje": "⚠️Afectados por déficit de capacidad de generación los siguientes circuitos:\n🔹Municipio Quemado:\n👉Ctos 164, 52 y 53 Quemado.\n👉Cto 196 Batey Panchito Gómez Toro.",
+    "mensaje": "⚠️Afectados por déficit de capacidad de generación los siguientes circuitos:\n🔹Municipio Quemado:\n👉Ctos 164, 52 y 53 Quemado.\n👉Cto 196 Batey Panchito Gómez Toro.\n🔹Municipio Placetas:\n👉Cto 101 y 145 Cumbre",
     "timestamp": 1766569650,
     "timestamp_local": 1766569650
   },
@@ -142,21 +158,5 @@
     "mensaje": "🔸Actualización del servicio eléctrico en la provincia🔸\n✍️Se mantienen afectados en la provincia 102 circuitos.\n✍️En el momento de hacer esta nota la provincia tiene 71 MW por déficit de capacidad de generación.\n✍️Cuenta con 170 afectaciones  por averías secundarias y de servicio.",
     "timestamp": 1766545159,
     "timestamp_local": 1766545159
-  },
-  {
-    "id": 36432,
-    "fecha": "23 de Dec del 2025 a las 09:33 PM",
-    "hora_utc": "2025-12-24 02:33",
-    "mensaje": "📣 Se le reitera a nuestros clientes que deben desconectar todos los equipos, para evitar que se les dañen, después de una prolongada afectación eléctrica, al restablecer el servicio, debe esperar un tiempo prudencial para conectar los equipos y si nota que hay oscilaciones de voltaje, no los conecte y espere a que se encuentren estable el servicio eléctrico y el voltaje.",
-    "timestamp": 1766543580,
-    "timestamp_local": 1766543580
-  },
-  {
-    "id": 36431,
-    "fecha": "23 de Dec del 2025 a las 09:28 PM",
-    "hora_utc": "2025-12-24 02:28",
-    "mensaje": "⚡Afectado por oscilaciones de voltaje después de restablecido  el Cto 111(Matagua), perteneciente al Municipio Manicaragua.\n🛠️Brigadas de nuestra empresa se encuentran trabajando en la Sub para poder brindar servicio en el menor tiempo posible.",
-    "timestamp": 1766543304,
-    "timestamp_local": 1766543304
   }
 ]
