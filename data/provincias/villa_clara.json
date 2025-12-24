@@ -1,5 +1,37 @@
 [
   {
+    "id": 36467,
+    "fecha": "24 de Dec del 2025 a las 11:15 AM",
+    "hora_utc": "2025-12-24 16:15",
+    "mensaje": "⚠️Afectado por déficit de generación el circuito 153 EIDE.",
+    "timestamp": 1766592940,
+    "timestamp_local": 1766592940
+  },
+  {
+    "id": 36466,
+    "fecha": "24 de Dec del 2025 a las 11:09 AM",
+    "hora_utc": "2025-12-24 16:09",
+    "mensaje": "⚠️Afectados por déficit de capacidad de generación los siguientes circuitos:\n👉Municipio Camajuaní:\nCtos 77, 59 y 185 Vueltas",
+    "timestamp": 1766592550,
+    "timestamp_local": 1766592550
+  },
+  {
+    "id": 36465,
+    "fecha": "24 de Dec del 2025 a las 11:06 AM",
+    "hora_utc": "2025-12-24 16:06",
+    "mensaje": "Afectados 88 MW en la provincia, demanda máxima a apagar en estos momentos.",
+    "timestamp": 1766592382,
+    "timestamp_local": 1766592382
+  },
+  {
+    "id": 36464,
+    "fecha": "24 de Dec del 2025 a las 11:02 AM",
+    "hora_utc": "2025-12-24 16:02",
+    "mensaje": "⚠️Afectados por déficit de capacidad de generación los siguientes circuitos:\n👉Municipio Santa Clara\nCto 7 (Universidad)  \nCto 131 (Las Antillas)",
+    "timestamp": 1766592141,
+    "timestamp_local": 1766592141
+  },
+  {
     "id": 36463,
     "fecha": "24 de Dec del 2025 a las 11:00 AM",
     "hora_utc": "2025-12-24 16:00",
@@ -102,37 +134,5 @@
     "mensaje": "🔸Actualización del servicio eléctrico en la provincia🔸\n✍️Se mantienen afectados en la provincia 106 circuitos.\n✍️En el momento de hacer esta nota la provincia tiene 51 MW por déficit de capacidad de generación.\n✍️Cuenta con 139 afectaciones  por averías secundarias y de servicio.",
     "timestamp": 1766569384,
     "timestamp_local": 1766569384
-  },
-  {
-    "id": 36447,
-    "fecha": "24 de Dec del 2025 a las 04:41 AM",
-    "hora_utc": "2025-12-24 09:41",
-    "mensaje": "Afectados por déficit de capacidad de generación los siguientes circuitos:\n🔹Municipio Santo Domingo:\n👉Cto 134\n👉Ctos 87 y 96 Bermejal\n👉Cto 187 Batey Carlos Baliño\n👉Cto 82 Ulacia\n👉Cto 84 Rodrigo\n🔹Municipio Caibarién\n👉Ctos 182 y 183 Van Troy\n🔹Municipio Santa Clara\n👉Cto 30 Capiro",
-    "timestamp": 1766569303,
-    "timestamp_local": 1766569303
-  },
-  {
-    "id": 36446,
-    "fecha": "24 de Dec del 2025 a las 02:13 AM",
-    "hora_utc": "2025-12-24 07:13",
-    "mensaje": "⚠️Afectados por déficit de capacidad de generación los siguientes circuitos:\n🔹Municipio Caibarién:\n👉Ctos 61, 62",
-    "timestamp": 1766560432,
-    "timestamp_local": 1766560432
-  },
-  {
-    "id": 36445,
-    "fecha": "24 de Dec del 2025 a las 02:10 AM",
-    "hora_utc": "2025-12-24 07:10",
-    "mensaje": "💡Con servicio eléctrico en los siguientes circuitos:\n🔹Municipio Quemado:\n👉Ctos 164, 52 y 53 Quemado.\n👉Cto 196 Batey Panchito Gómez Toro.",
-    "timestamp": 1766560239,
-    "timestamp_local": 1766560239
-  },
-  {
-    "id": 36444,
-    "fecha": "24 de Dec del 2025 a las 01:58 AM",
-    "hora_utc": "2025-12-24 06:58",
-    "mensaje": "🔸Actualización del servicio eléctrico en la provincia🔸\n✍️Se mantienen afectados en la provincia 105 circuitos.\n✍️En el momento de hacer esta nota la provincia tiene 50 MW por déficit de capacidad de generación.\n✍️Cuenta con 138 afectaciones  por averías secundarias y de servicio.",
-    "timestamp": 1766559527,
-    "timestamp_local": 1766559527
   }
 ]
