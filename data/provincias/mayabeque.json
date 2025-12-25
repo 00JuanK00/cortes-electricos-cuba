@@ -1,5 +1,21 @@
 [
   {
+    "id": 101639,
+    "fecha": "25 de Dec del 2025 a las 02:07 PM",
+    "hora_utc": "2025-12-25 19:07",
+    "mensaje": "🚨Por déficit de capacidad de generación se afecta el servicio en el siguiente circuito:\n*Salud 1 🚨",
+    "timestamp": 1766689636,
+    "timestamp_local": 1766689636
+  },
+  {
+    "id": 101638,
+    "fecha": "25 de Dec del 2025 a las 01:58 PM",
+    "hora_utc": "2025-12-25 18:58",
+    "mensaje": "🔷Restablecido el servicio en el circuito 3140 que se encontraba afectado por DAF🔷",
+    "timestamp": 1766689124,
+    "timestamp_local": 1766689124
+  },
+  {
     "id": 101637,
     "fecha": "25 de Dec del 2025 a las 01:53 PM",
     "hora_utc": "2025-12-25 18:53",
@@ -142,21 +158,5 @@
     "mensaje": "🔷Restablecido el servicio en el circuito 1790 que se encontraba afectado por DAF🔷",
     "timestamp": 1766682863,
     "timestamp_local": 1766682863
-  },
-  {
-    "id": 101618,
-    "fecha": "25 de Dec del 2025 a las 12:13 PM",
-    "hora_utc": "2025-12-25 17:13",
-    "mensaje": "♦️ Afectado el servicio en el circuito 1790 por disparo por DAF ♦️",
-    "timestamp": 1766682825,
-    "timestamp_local": 1766682825
-  },
-  {
-    "id": 101617,
-    "fecha": "25 de Dec del 2025 a las 12:13 PM",
-    "hora_utc": "2025-12-25 17:13",
-    "mensaje": "♦️ Afectado el servicio en el circuito 3590 por disparo por DAF ♦️",
-    "timestamp": 1766682817,
-    "timestamp_local": 1766682817
   }
 ]
