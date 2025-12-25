@@ -1,5 +1,45 @@
 [
   {
+    "id": 34696,
+    "fecha": "25 de Dec del 2025 a las 12:46 PM",
+    "hora_utc": "2025-12-25 17:46",
+    "mensaje": "✅ Información.\n👉 Se restablecen los circuitos que estaban afectados por DAF.",
+    "timestamp": 1766684768,
+    "timestamp_local": 1766684768
+  },
+  {
+    "id": 34695,
+    "fecha": "25 de Dec del 2025 a las 12:22 PM",
+    "hora_utc": "2025-12-25 17:22",
+    "mensaje": "‼️ Información ‼️   \n👉En estos momentos tenemos 66 MW en la provincia afectados por déficit de generación. Con este déficit no podemos cumplir con una programación estable, por lo que los circuitos se afectarán o se restablecerán en dependencia del déficit que haya en cada momento de la jornada.",
+    "timestamp": 1766683321,
+    "timestamp_local": 1766683321
+  },
+  {
+    "id": 34694,
+    "fecha": "25 de Dec del 2025 a las 12:20 PM",
+    "hora_utc": "2025-12-25 17:20",
+    "mensaje": "❌Un Disparo Automático por Frecuencia (DAF) es una protección que posee el sistema eléctrico para cuando la frecuencia llega a valores mínimos permisibles que ponen en peligro la estabilidad de todo el sistema en su conjunto y provoca una desconexión automática de algunos circuitos hasta que esta vuelva a recuperar su valor nominal a 60 Hz o ciclos por segundo. Esto ocurre al salir de forma imprevista o repentina una planta generadora con una potencia determinada y el sistema en su conjunto necesita liberar esa carga hasta tanto se puedan recuperar la potencia de generación perdida anteriormente o dar las afectaciones al servicio por déficit de generación.",
+    "timestamp": 1766683217,
+    "timestamp_local": 1766683217
+  },
+  {
+    "id": 34693,
+    "fecha": "25 de Dec del 2025 a las 12:19 PM",
+    "hora_utc": "2025-12-25 17:19",
+    "mensaje": "🚨DAF (Disparo automático por frecuencia)🚨\n\n📍Se encuentran afectados por el DAF los circuitos: 📍\n📌 Nereida, Peonía, Politécnico de Informática, Patria.",
+    "timestamp": 1766683190,
+    "timestamp_local": 1766683190
+  },
+  {
+    "id": 34692,
+    "fecha": "25 de Dec del 2025 a las 12:17 PM",
+    "hora_utc": "2025-12-25 17:17",
+    "mensaje": "🔴 11:05 || Fuera de servicio la Unidad 3 de la CTE Carlos Manuel de Céspedes por disparo de 6 kV.",
+    "timestamp": 1766683069,
+    "timestamp_local": 1766683069
+  },
+  {
     "id": 34691,
     "fecha": "25 de Dec del 2025 a las 10:44 AM",
     "hora_utc": "2025-12-25 15:44",
@@ -110,37 +150,5 @@
     "mensaje": "✅ Información.\n👉 Restablecido el servicio eléctrico en los circuitos 2, 5, A206, La Cuba, La Cuba II, Nereida, Peonía, Politécnico de Informática, Bolivia.\n📌 Los circuitos  restablecidos tendrán servicio por un estimado de 1 hora y 30 min aproximadamente en dependencia del déficit solicitado en cada momento de la jornada que es muy variable.",
     "timestamp": 1766642357,
     "timestamp_local": 1766642357
-  },
-  {
-    "id": 34673,
-    "fecha": "25 de Dec del 2025 a las 12:04 AM",
-    "hora_utc": "2025-12-25 05:04",
-    "mensaje": "‼️Información‼️\n👉Se mantiene muy compleja la situación energética del país.La provincia ha alcanzado el máximo apagable. \nCon esta condición, no es posible establecer horario ni tiempo de afectación.",
-    "timestamp": 1766639083,
-    "timestamp_local": 1766639083
-  },
-  {
-    "id": 34672,
-    "fecha": "24 de Dec del 2025 a las 11:19 PM",
-    "hora_utc": "2025-12-25 04:19",
-    "mensaje": "👉Información.\n✅10:57 PM || Fuera de servicio la Unidad 5 de la CTE Diez de Octubre por disparo en la bomba de alimentar.",
-    "timestamp": 1766636386,
-    "timestamp_local": 1766636386
-  },
-  {
-    "id": 34671,
-    "fecha": "24 de Dec del 2025 a las 10:48 PM",
-    "hora_utc": "2025-12-25 03:48",
-    "mensaje": "📢 INFORMACIÓN IMPORTANTE ‼️\n\nSegún información ofrecida a nuestro canal por Carlos Arrencibia Hernández, director técnico de la empresa eléctrica, explicaron que  no se está protegiendo ningún circuito en específico. En nuestra provincia todos los circuitos son apagados. Hay cuatro circuitos priorizados en la cabecera provincial y dos circuitos en el municipio de Morón que se rotan cada tres horas y media por tres horas y media aproximadamente para garantizar servicios vitales como es el hospital provincial, el hospital Morón y los lácteos de ambos municipios.\n\nEl resto de los circuitos, en dependencia de la magnitud del déficit, se le va a dar servicio entre una hora y una hora treinta minutos, de acuerdo a la disponibilidad, sabemos que es muy poco, pero para que permita en las 24 horas tener el servicio\n\nEn el horario del día, las personas pueden notar que la afectación va a ser menos de 10 o 12 horas, gracias a la generación que tenemos con fuentes renovables en el territorio y en el resto del país. \n\nEn el momentos de redactar esta nota, transmitida por Televisión Avileña, había más de 500 Megawat  en el país con fuentes renovables de energía.\n\nManténgase informado por los canales oficiales de la provincia y la Empresa Eléctrica de Ciego de Ávila.",
-    "timestamp": 1766634486,
-    "timestamp_local": 1766634486
-  },
-  {
-    "id": 34669,
-    "fecha": "24 de Dec del 2025 a las 10:25 PM",
-    "hora_utc": "2025-12-25 03:25",
-    "mensaje": "https://www.facebook.com/share/p/1DB8TBvRHW/",
-    "timestamp": 1766633113,
-    "timestamp_local": 1766633113
   }
 ]
