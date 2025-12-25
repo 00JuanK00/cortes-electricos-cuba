@@ -1,5 +1,13 @@
 [
   {
+    "id": 17548,
+    "fecha": "24 de Dec del 2025 a las 11:13 PM",
+    "hora_utc": "2025-12-25 04:13",
+    "mensaje": "Centro Telefónico:\nLa Empresa Eléctrica Las Tunas pone a disposición de sus clientes un Centro de Atención Telefónica con el objetivo de brindar asistencia y responder a sus inquietudes. Para asegurar un flujo eficiente de comunicación, el centro cuenta con 38 líneas de entrada, gestionadas por 6 operadores en cada turno de trabajo.\nCuando los 6 operadores se encuentran atendiendo llamadas simultáneamente, las siguientes 32 llamadas entrantes son colocadas en una cola de espera, donde una operadora automática les informa que serán atendidas a la brevedad, acompañando la espera con música. En esta situación, se requiere paciencia por parte del cliente hasta que un operador se desocupe y su llamada sea transferida automáticamente. Sin embargo, el sistema tiene un límite. A partir de la llamada número 39, todas las líneas de entrada estarán ocupadas, lo que resultará en una señal de \"ocupado\" para el cliente. En este caso, para lograr contactar al centro, el cliente deberá intentar la llamada nuevamente hasta que una línea quede disponible. La Empresa Eléctrica Las Tunas trabaja continuamente para optimizar este servicio y agradece su comprensión.",
+    "timestamp": 1766636036,
+    "timestamp_local": 1766636036
+  },
+  {
     "id": 17546,
     "fecha": "24 de Dec del 2025 a las 07:53 PM",
     "hora_utc": "2025-12-25 00:53",
@@ -126,21 +134,5 @@
     "mensaje": "Se afecta los siguientes circuitos por emergencia del sistema.\nTk15 El Pueblo la Loma \nTK2 Bonachea \nTK106 Palancón\nLas afectaciones y su posterior restablecimiento dependerá de la estabilización de la frecuencia. Lamentamos las molestias ocasionadas.",
     "timestamp": 1766530897,
     "timestamp_local": 1766530897
-  },
-  {
-    "id": 17527,
-    "fecha": "23 de Dec del 2025 a las 06:00 PM",
-    "hora_utc": "2025-12-23 23:00",
-    "mensaje": "Estimados clientes,\nLes informamos que, debido a la actual situación energética del país, nuestra provincia se encuentra operando bajo la máxima capacidad apagable. Esto significa que todos los circuitos eléctricos que pueden ser desconectados temporalmente están siendo utilizados para mantener el equilibrio del sistema nacional.\n\nQUE SIGNIFICA E IMPLICA LA MÁXIMA CAPACIDAD APAGABLE EN LA PROVINCIA: \nMáxima capacidad apagable se refiere al nivel máximo de demanda eléctrica que puede ser desconectada o suspendida temporalmente en la provincia, explica la complejidad del déficit de generación o contingencias en el sistema eléctrico.\nRepresenta el límite superior de la reducción de carga que la empresa puede lograr mediante cortes de energía (apagones). Cuanto mayor sea la máxima capacidad apagable, mayor será el déficit de energía.\n¿Qué implica esto?\nSe identifica cuántos circuitos pueden ser apagados para equilibrar la carga del sistema, esto imposibilita realizar rotaciones, pues a excepción de los servicios priorizados, se encuentran afectados todos los circuitos apagables del territorio. Podrán presentarse afectaciones en el servicio de electricidad durante varias horas al día y el tiempo con servicio dependerá del comportamiento del SEN. Esta medida es necesaria para evitar fallas mayores y proteger la infraestructura eléctrica.",
-    "timestamp": 1766530803,
-    "timestamp_local": 1766530803
-  },
-  {
-    "id": 17526,
-    "fecha": "23 de Dec del 2025 a las 02:39 PM",
-    "hora_utc": "2025-12-23 19:39",
-    "mensaje": "Se encuentra en avería los siguientes circuitos:\nCircuito 33 Kv: 6220\nTK61 La Yaya\nTK58 La Calera\nTK62 Lora\nTK63 Lora\nTJ95 Poblado Menéndez\n6220 Carúpano, La Salina y La Playa",
-    "timestamp": 1766518776,
-    "timestamp_local": 1766518776
   }
 ]
