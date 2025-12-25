@@ -1,5 +1,37 @@
 [
   {
+    "id": 101668,
+    "fecha": "25 de Dec del 2025 a las 05:46 PM",
+    "hora_utc": "2025-12-25 22:46",
+    "mensaje": "🔷Restablecido el servicio en el circuito 1790 que se encontraba afectado por DAF🔷",
+    "timestamp": 1766702801,
+    "timestamp_local": 1766702801
+  },
+  {
+    "id": 101667,
+    "fecha": "25 de Dec del 2025 a las 05:44 PM",
+    "hora_utc": "2025-12-25 22:44",
+    "mensaje": "🔷Restablecido el servicio en el circuito 3140 que se encontraba afectado por DAF🔷",
+    "timestamp": 1766702678,
+    "timestamp_local": 1766702678
+  },
+  {
+    "id": 101666,
+    "fecha": "25 de Dec del 2025 a las 05:11 PM",
+    "hora_utc": "2025-12-25 22:11",
+    "mensaje": "🚨Por déficit de capacidad de generación se afecta el servicio en el siguiente circuito:\n*Güines 3 🚨",
+    "timestamp": 1766700688,
+    "timestamp_local": 1766700688
+  },
+  {
+    "id": 101665,
+    "fecha": "25 de Dec del 2025 a las 05:05 PM",
+    "hora_utc": "2025-12-25 22:05",
+    "mensaje": "🚨Por déficit de capacidad de generación se afecta el servicio en el siguiente circuito:\n*Aguacate 🚨",
+    "timestamp": 1766700320,
+    "timestamp_local": 1766700320
+  },
+  {
     "id": 101664,
     "fecha": "25 de Dec del 2025 a las 04:30 PM",
     "hora_utc": "2025-12-25 21:30",
@@ -102,37 +134,5 @@
     "mensaje": "🚨Por déficit de capacidad de generación se afecta el servicio en los siguientes circuitos:\n*3655\n*3660🚨",
     "timestamp": 1766692647,
     "timestamp_local": 1766692647
-  },
-  {
-    "id": 101648,
-    "fecha": "25 de Dec del 2025 a las 02:53 PM",
-    "hora_utc": "2025-12-25 19:53",
-    "mensaje": "♦️Afectado el servicio en el circuito 1790 por disparo por DAF♦️",
-    "timestamp": 1766692428,
-    "timestamp_local": 1766692428
-  },
-  {
-    "id": 101647,
-    "fecha": "25 de Dec del 2025 a las 02:52 PM",
-    "hora_utc": "2025-12-25 19:52",
-    "mensaje": "♦️Afectado el servicio en el circuito 3590 por disparo por DAF♦️",
-    "timestamp": 1766692363,
-    "timestamp_local": 1766692363
-  },
-  {
-    "id": 101646,
-    "fecha": "25 de Dec del 2025 a las 02:47 PM",
-    "hora_utc": "2025-12-25 19:47",
-    "mensaje": "🔷Restablecido el servicio en el circuito 3590 que se encontraba afectado por DAF🔷",
-    "timestamp": 1766692044,
-    "timestamp_local": 1766692044
-  },
-  {
-    "id": 101645,
-    "fecha": "25 de Dec del 2025 a las 02:40 PM",
-    "hora_utc": "2025-12-25 19:40",
-    "mensaje": "♦️Afectado el servicio en el circuito 3140 por disparo por DAF♦️",
-    "timestamp": 1766691619,
-    "timestamp_local": 1766691619
   }
 ]
