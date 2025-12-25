@@ -1,5 +1,21 @@
 [
   {
+    "id": 30233,
+    "fecha": "25 de Dec del 2025 a las 12:54 AM",
+    "hora_utc": "2025-12-25 05:54",
+    "mensaje": "La afectación que presenta la provincia es de 69 MW por déficit de capacidad de generación",
+    "timestamp": 1766642054,
+    "timestamp_local": 1766642054
+  },
+  {
+    "id": 30232,
+    "fecha": "25 de Dec del 2025 a las 12:52 AM",
+    "hora_utc": "2025-12-25 05:52",
+    "mensaje": "✅SERVICIO RESTABLECIDO EN✅\n- Circuito MI1451 queda servicio a Armando Mestre, Quintanales, Reparto Lozano, Kilómetro.\n- Circuito MI1456 que da servicio a Calzada de San Luis hasta Parque Maceo y La Jaiba.\n- Circuito 4220 Cárdenas, San Miguel",
+    "timestamp": 1766641955,
+    "timestamp_local": 1766641955
+  },
+  {
     "id": 30231,
     "fecha": "25 de Dec del 2025 a las 12:10 AM",
     "hora_utc": "2025-12-25 05:10",
@@ -142,21 +158,5 @@
     "mensaje": "🚨🚨Estimados clientes🚨🚨\n El restablecimiento del servicio eléctrico dependerá del comportamiento de la demanda y la disponibilidad del sistema eléctrico. Una vez se pueda rotar se irán restableciendo de manera paulatina los circuitos que más tiempo de afectación presenten.",
     "timestamp": 1766612920,
     "timestamp_local": 1766612920
-  },
-  {
-    "id": 30212,
-    "fecha": "24 de Dec del 2025 a las 04:19 PM",
-    "hora_utc": "2025-12-24 21:19",
-    "mensaje": "⚡Déficit de capacidad de generación en la provincia: 124  MW⚡",
-    "timestamp": 1766611177,
-    "timestamp_local": 1766611177
-  },
-  {
-    "id": 30211,
-    "fecha": "24 de Dec del 2025 a las 02:59 PM",
-    "hora_utc": "2025-12-24 19:59",
-    "mensaje": "⚡Déficit de capacidad de generación en la provincia: 115  MW⚡",
-    "timestamp": 1766606387,
-    "timestamp_local": 1766606387
   }
 ]
