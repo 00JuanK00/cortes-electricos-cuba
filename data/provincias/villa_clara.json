@@ -1,5 +1,45 @@
 [
   {
+    "id": 36655,
+    "fecha": "26 de Dec del 2025 a las 04:40 PM",
+    "hora_utc": "2025-12-26 21:40",
+    "mensaje": "⚠️Afectados por déficit de capacidad de generación los siguientes circuitos:\n🔹Municipio Santa Clara:\n👉Cto 166 (Condado)\n👉Cto 167 (Virginia)",
+    "timestamp": 1766785216,
+    "timestamp_local": 1766785216
+  },
+  {
+    "id": 36654,
+    "fecha": "26 de Dec del 2025 a las 04:37 PM",
+    "hora_utc": "2025-12-26 21:37",
+    "mensaje": "⚠️Afectados por déficit de capacidad de generación los siguientes circuitos:\n🔹Municipio Manicaragua:\n👉Ctos 109 y 150\n👉Ctos 108 y 110 La Piedra\n👉Cto 111 Mataguá",
+    "timestamp": 1766785073,
+    "timestamp_local": 1766785073
+  },
+  {
+    "id": 36653,
+    "fecha": "26 de Dec del 2025 a las 04:14 PM",
+    "hora_utc": "2025-12-26 21:14",
+    "mensaje": "⚠️Afectados por déficit de capacidad de generación los siguientes circuitos:\n🔹Municipio Ranchuelo:\n👉Cto 92 Esperanza (Pueblo)\n👉Cto 93 Esperanza (Campo)\n👉Ctos 54, 94 y 95 Jicotea\n🔹Municipio Santa Clara\n👉Ctos 26 y 141 (Manuelita)\n👉Cto 191 (Quemado de Hilario)",
+    "timestamp": 1766783673,
+    "timestamp_local": 1766783673
+  },
+  {
+    "id": 36652,
+    "fecha": "26 de Dec del 2025 a las 04:05 PM",
+    "hora_utc": "2025-12-26 21:05",
+    "mensaje": "⚠️Afectado por manipulación el Cto 13 (SC Industrial), perteneciente al municipio Santa Clara.",
+    "timestamp": 1766783142,
+    "timestamp_local": 1766783142
+  },
+  {
+    "id": 36651,
+    "fecha": "26 de Dec del 2025 a las 04:01 PM",
+    "hora_utc": "2025-12-26 21:01",
+    "mensaje": "🔸Actualización del servicio eléctrico en la provincia🔸\n✍️Se mantienen afectados en la provincia 125 circuitos.\n✍️En el momento de hacer esta nota la provincia tiene 98 MW por déficit de capacidad de generación.\n✍️Cuenta con 121 afectaciones  por averías secundarias y de servicio.",
+    "timestamp": 1766782883,
+    "timestamp_local": 1766782883
+  },
+  {
     "id": 36650,
     "fecha": "26 de Dec del 2025 a las 03:44 PM",
     "hora_utc": "2025-12-26 20:44",
@@ -110,45 +150,5 @@
     "mensaje": "🟢 09:03 || En línea la Unidad 6 de la CTE Máximo Gómez.",
     "timestamp": 1766765412,
     "timestamp_local": 1766765412
-  },
-  {
-    "id": 36635,
-    "fecha": "26 de Dec del 2025 a las 11:09 AM",
-    "hora_utc": "2025-12-26 16:09",
-    "mensaje": "🔴 09:58 || Fuera de línea la Unidad 6 de la CTE Máximo Gómez, se investiga la causa.",
-    "timestamp": 1766765388,
-    "timestamp_local": 1766765388
-  },
-  {
-    "id": 36634,
-    "fecha": "26 de Dec del 2025 a las 11:06 AM",
-    "hora_utc": "2025-12-26 16:06",
-    "mensaje": "Afectados 92 MW en la provincia, demanda máxima a apagar en estos momentos.",
-    "timestamp": 1766765166,
-    "timestamp_local": 1766765166
-  },
-  {
-    "id": 36633,
-    "fecha": "26 de Dec del 2025 a las 11:05 AM",
-    "hora_utc": "2025-12-26 16:05",
-    "mensaje": "⚠️Afectados por emergencia los Ctos 5 (Dobarganes), 13 (SC. Industrial) y 17 (Subplanta), pertenecientes al municipio Santa Clara.",
-    "timestamp": 1766765119,
-    "timestamp_local": 1766765119
-  },
-  {
-    "id": 36632,
-    "fecha": "26 de Dec del 2025 a las 11:02 AM",
-    "hora_utc": "2025-12-26 16:02",
-    "mensaje": "💡Con servicio el Cto 170 (José Martí), perteneciente al municipio Santa Clara.",
-    "timestamp": 1766764932,
-    "timestamp_local": 1766764932
-  },
-  {
-    "id": 36631,
-    "fecha": "26 de Dec del 2025 a las 10:52 AM",
-    "hora_utc": "2025-12-26 15:52",
-    "mensaje": "🛠️Afectada por DAF (Disparo Automático por Frecuencia), la línea del 1955:\nAfecta los siguientes circuitos:\n🔹Municipio Encrucijada:\n👉Cto 122 Encrucijada \n👉Cto 123 Vizcaya \n👉Cto 142 Comunidad La Sierra \n👉Cto 126 Batey Emilio Córdova\n👉Cto 125 Cavarrocas\n👉Cto 124 El Santo\n🔹Municipio Camajuaní:\n👉Cto 78 Jutiero",
-    "timestamp": 1766764329,
-    "timestamp_local": 1766764329
   }
 ]
