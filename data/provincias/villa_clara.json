@@ -1,9 +1,57 @@
 [
   {
+    "id": 36626,
+    "fecha": "26 de Dec del 2025 a las 09:32 AM",
+    "hora_utc": "2025-12-26 14:32",
+    "mensaje": "⚡Avería en el Cto 86 (Pajarito) por cable primario partido, perteneciente al municipio Santo Domingo, actualmente se encuentra afectado por déficit de capacidad de generación.",
+    "timestamp": 1766759563,
+    "timestamp_local": 1766759563
+  },
+  {
+    "id": 36625,
+    "fecha": "26 de Dec del 2025 a las 09:29 AM",
+    "hora_utc": "2025-12-26 14:29",
+    "mensaje": "🛠️ Afectado circuito 31 ( Sakenaf ) de manera parcial por Vía Libre planificada para realizar cambio de transformador.",
+    "timestamp": 1766759386,
+    "timestamp_local": 1766759386
+  },
+  {
+    "id": 36624,
+    "fecha": "26 de Dec del 2025 a las 09:22 AM",
+    "hora_utc": "2025-12-26 14:22",
+    "mensaje": "La Provincia presenta 2 afectaciones de servicio eléctrico por transformador dañado:  \n👉Municipio Santa Clara: Carretera de Camajuani  km 2 1/2 , antes de la Textilera afectando la Escuela de Danza \n👉Municipio Sagua: Carretera a Circuito Norte km 4 , Barrio Jumagua afectando el ECIL .",
+    "timestamp": 1766758978,
+    "timestamp_local": 1766758978
+  },
+  {
+    "id": 36623,
+    "fecha": "26 de Dec del 2025 a las 09:21 AM",
+    "hora_utc": "2025-12-26 14:21",
+    "mensaje": "Afectados 87 MW en la provincia, demanda máxima a apagar en estos momentos.",
+    "timestamp": 1766758879,
+    "timestamp_local": 1766758879
+  },
+  {
+    "id": 36622,
+    "fecha": "26 de Dec del 2025 a las 09:17 AM",
+    "hora_utc": "2025-12-26 14:17",
+    "mensaje": "💡Restablecido el servicio eléctrico en los siguientes circuitos : \n🔹Municipio Ranchuelo: \n👉Ctos 89, 97, 188 y 189\n👉Ctos 148 y 149 San Juan\n👉Cto 91 Batey Osvaldo Herrera\n👉Cto 181 Batey Ifraín Alfonso",
+    "timestamp": 1766758657,
+    "timestamp_local": 1766758657
+  },
+  {
+    "id": 36621,
+    "fecha": "26 de Dec del 2025 a las 09:12 AM",
+    "hora_utc": "2025-12-26 14:12",
+    "mensaje": "💡Con servicio el Cto 74 (José María Pérez), municipio Camajuaní y línea del 1920 después de estar disparado por DAF:\nLínea 1920\n🔹Municipio Placetas:\n👉Cto 101 y 145 Cumbre\n👉Cto 107 Baez\n👉Cto 105 Nazareno",
+    "timestamp": 1766758376,
+    "timestamp_local": 1766758376
+  },
+  {
     "id": 36620,
     "fecha": "26 de Dec del 2025 a las 08:54 AM",
     "hora_utc": "2025-12-26 13:54",
-    "mensaje": "⚠️Vía Libre en la línea del 1910 y en el Cto 101 (Cumbre), por trabajos en el parque solar, actualmente se encuentran en déficit de capacidad de generación.\nLínea 1910\n🔹Municipio Placetas \n👉Ctos 100 y 151 Placetas\n👉Cto 104 Hermanos Amejeiras\n👉Cto 103 Batey Carbó Servia",
+    "mensaje": "⚠️Vía Libre en la línea del 1910 en subconjunto con el Cto 101 (Cumbre), por trabajos en el parque solar, actualmente se encuentran afectados por déficit de capacidad de generación.\nLínea 1910\n🔹Municipio Placetas \n👉Ctos 100 y 151 Placetas\n👉Cto 104 Hermanos Amejeiras\n👉Cto 103 Batey Carbó Servia",
     "timestamp": 1766757248,
     "timestamp_local": 1766757248
   },
@@ -102,53 +150,5 @@
     "mensaje": "💡Restablecidos los siguientes circuitos:\n🔹Municipio Santo Domingo:\n👉Cto 134\n👉Ctos 87 y 96 Bermejal\n👉Cto 187 Batey Carlos Baliño\n👉Cto 82 Ulacia\n👉Cto 84 Rodrigo",
     "timestamp": 1766732828,
     "timestamp_local": 1766732828
-  },
-  {
-    "id": 36606,
-    "fecha": "26 de Dec del 2025 a las 02:03 AM",
-    "hora_utc": "2025-12-26 07:03",
-    "mensaje": "🔸Actualización del servicio eléctrico en la provincia🔸\n✍️Se mantienen afectados en la provincia 147 circuitos.\n✍️En el momento de hacer esta nota la provincia tiene 75 MW por déficit de capacidad de generación.\n✍️Cuenta con 114 afectaciones  por averías secundarias y de servicio.",
-    "timestamp": 1766732627,
-    "timestamp_local": 1766732627
-  },
-  {
-    "id": 36605,
-    "fecha": "26 de Dec del 2025 a las 01:36 AM",
-    "hora_utc": "2025-12-26 06:36",
-    "mensaje": "⚠️Afectados por déficit de capacidad de generación los siguientes circuitos:\n🔹Municipio Santo Domingo:\n👉Cto 134\n👉Ctos 87 y 96 Bermejal\n👉Cto 187 Batey Carlos Baliño\n👉Cto 82 Ulacia\n👉Cto 84 Rodrigo",
-    "timestamp": 1766730985,
-    "timestamp_local": 1766730985
-  },
-  {
-    "id": 36604,
-    "fecha": "26 de Dec del 2025 a las 01:04 AM",
-    "hora_utc": "2025-12-26 06:04",
-    "mensaje": "‼️Ante cualquier duda con la terminología eléctrica, les volvemos explicar: \n     \n✍️Las averías pueden ser primarias (afecta un volumen grande de población pues son las líneas de distribución a 13.8kV y puede afectar varias manzanas, incluso repartos completos).\n\n✍️Secundarias (afecta a todos los clientes que se alimenten del mismo transformador, puede afectar una o varias cuadras). \n\n✍️De servicio (afectan 1 solo cliente o instalación generalmente producto a daños en la acometida, metro contador, etc.).",
-    "timestamp": 1766729074,
-    "timestamp_local": 1766729074
-  },
-  {
-    "id": 36603,
-    "fecha": "26 de Dec del 2025 a las 12:07 AM",
-    "hora_utc": "2025-12-26 05:07",
-    "mensaje": "🕛Actualización del servicio eléctrico en las últimas 6 horas.\n✍️El déficit de capacidad de generación osciló entre los 166 MW y los 81 MW.\n✍️En el momento de esta nota, se mantienen afectados 149 circuitos.\n✍️Cuenta con 136 afectaciones por averías secundarias y de servicio:\n🔸Caibarién (2)\n🔸Camajuaní (1)\n🔸Corralillo (1)\n🔸Manicaragua (17)\n🔸Placetas (6)\n🔸Remedios (8) \n🔸Sagua (6) \n🔸Santa Clara (72)\n🔸Santo Domingo (7)\n🛠️Se encuentran 3 averías en vías de solución.\n🛠️Pendientes a solucionar por el área técnica 7.\n⚡La provincia no presenta averías primarias en estos momentos.",
-    "timestamp": 1766725644,
-    "timestamp_local": 1766725644
-  },
-  {
-    "id": 36602,
-    "fecha": "25 de Dec del 2025 a las 10:30 PM",
-    "hora_utc": "2025-12-26 03:30",
-    "mensaje": "Con servicio el circuito 169 (Condado), del municipio Santa Clara.",
-    "timestamp": 1766719819,
-    "timestamp_local": 1766719819
-  },
-  {
-    "id": 36600,
-    "fecha": "25 de Dec del 2025 a las 10:25 PM",
-    "hora_utc": "2025-12-26 03:25",
-    "mensaje": "🟢 19:59 || En línea la Unidad 3 de la CTE Carlos Manuel de Céspedes, subiendo carga.",
-    "timestamp": 1766719525,
-    "timestamp_local": 1766719525
   }
 ]
