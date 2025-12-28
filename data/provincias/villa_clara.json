@@ -1,5 +1,61 @@
 [
   {
+    "id": 36815,
+    "fecha": "28 de Dec del 2025 a las 06:47 PM",
+    "hora_utc": "2025-12-28 23:47",
+    "mensaje": "💡Restablecido el servicio eléctrico en los circuitos siguientes:\n👉Cto 169 Condado\n👉Cto 30 SC Industrial\n👉Cto 193 SC Industrial\n👉Cto 14 Maleza",
+    "timestamp": 1766965651,
+    "timestamp_local": 1766965651
+  },
+  {
+    "id": 36814,
+    "fecha": "28 de Dec del 2025 a las 06:45 PM",
+    "hora_utc": "2025-12-28 23:45",
+    "mensaje": "⚠️Afectados por déficit de capacidad de generación los siguientes circuitos:\n👉Municipio Caibarién\nCtos 182 y 183 Van Troy",
+    "timestamp": 1766965535,
+    "timestamp_local": 1766965535
+  },
+  {
+    "id": 36813,
+    "fecha": "28 de Dec del 2025 a las 06:39 PM",
+    "hora_utc": "2025-12-28 23:39",
+    "mensaje": "⚡¿Qué es un disparo de circuito y porque ocurre?\nLos disparos de circuito tienen diferentes aristas todas con distintos significados, es decir que ocurren por varias causas. Entre ellas encontramos:\n\n👉-Disparo de Circuito con Recierre: El conocido por los clientes como “quita y pon de corriente” es un tipo de protección utilizada mundialmente a partir del 80% aproximadamente de las interrupciones eléctricas son transitorias. Este fenómeno lo hace una sola vez ante un evento de red y no es dañino para para nuestros equipos electrodomésticos. \n\n👉- Disparo Automático por Frecuencia (DAF):  El disparo por DAF ocurre cuando la frecuencia llega a valores mínimos permisibles que ponen en peligro la estabilidad del mismo y como protección desconecta varios circuitos de la Capital. Los mismo restablecen a medida que se vaya recuperando la frecuencia que tiene un valor de 60hz o ciclos por segundo.\n\n👉-Disparo de Circuito por Sobrecarga: Este ocurre mayormente en los horarios pico y en verano, ya que las altas temperaturas generan elevados consumos en la población y como consecuencia de ello fallas en los circuitos.\n\n👉-Disparo de Circuito por Posible Avería: Este fenómeno ocurre cuando existe una falla en algún circuito, ya sea soterrado, aéreo o en una subestación. Estas, a pesar de que son mucho más frecuentes cuando existe algún evento climatológico, pueden ocurrir en cualquier momento del día o la noche, ya que son situaciones que no cuentan con programación.",
+    "timestamp": 1766965142,
+    "timestamp_local": 1766965142
+  },
+  {
+    "id": 36812,
+    "fecha": "28 de Dec del 2025 a las 06:35 PM",
+    "hora_utc": "2025-12-28 23:35",
+    "mensaje": "⚡Se encuentran afectados por disparo los circuitos siguientes:\n👉Cto 30 SC Industrial\n👉Cto 193 SC Industrial\n👉Cto 14 Maleza",
+    "timestamp": 1766964943,
+    "timestamp_local": 1766964943
+  },
+  {
+    "id": 36811,
+    "fecha": "28 de Dec del 2025 a las 06:30 PM",
+    "hora_utc": "2025-12-28 23:30",
+    "mensaje": "⚠️Afectados por déficit de capacidad de generación los siguientes circuitos:\n👉Municipio Santa Clara:\nCtos 1, 4 (Consejo- Centro)",
+    "timestamp": 1766964637,
+    "timestamp_local": 1766964637
+  },
+  {
+    "id": 36810,
+    "fecha": "28 de Dec del 2025 a las 06:27 PM",
+    "hora_utc": "2025-12-28 23:27",
+    "mensaje": "💡Con servicio eléctrico la Línea 6375 y los circuitos 15 y 27 (Maleza) después de reparada la avería.",
+    "timestamp": 1766964440,
+    "timestamp_local": 1766964440
+  },
+  {
+    "id": 36809,
+    "fecha": "28 de Dec del 2025 a las 06:08 PM",
+    "hora_utc": "2025-12-28 23:08",
+    "mensaje": "Actualización del servicio eléctrico en las últimas 6 horas.\n\n👉El déficit de capacidad de generación osciló entre los 100 MW y los 115 MW.\n👉En el momento de esta nota, se mantienen afectados 106 circuitos.\n👉Cuenta con 112 afectaciones por averías secundarias y de servicio:\n Caibarién (3)\n Cifuentes (4)\n Corralillo (2)\n Manicaragua (16)\n Placetas (2)\n Quemado (1)\n Ranchuelo (2)\n Remedios (6) \n Sagua (3) \n Santa Clara (52)\n Santo Domingo (5)\n🛠️Se encuentran 1 averías en vías de solución.\n🛠️Pendientes a solucionar por el área técnica 15.\n⚡La provincia no presenta averías primarias.",
+    "timestamp": 1766963305,
+    "timestamp_local": 1766963305
+  },
+  {
     "id": 36808,
     "fecha": "28 de Dec del 2025 a las 06:00 PM",
     "hora_utc": "2025-12-28 23:00",
@@ -94,53 +150,5 @@
     "mensaje": "🛠️Afectados por vía libre los circuitos 30 (Capiro) y 193 (SC Industrial), por uso conjunto con la avería de la Línea 6375.",
     "timestamp": 1766955216,
     "timestamp_local": 1766955216
-  },
-  {
-    "id": 36795,
-    "fecha": "28 de Dec del 2025 a las 03:25 PM",
-    "hora_utc": "2025-12-28 20:25",
-    "mensaje": "💡Con servicio eléctrico la Línea 1955.",
-    "timestamp": 1766953523,
-    "timestamp_local": 1766953523
-  },
-  {
-    "id": 36794,
-    "fecha": "28 de Dec del 2025 a las 03:10 PM",
-    "hora_utc": "2025-12-28 20:10",
-    "mensaje": "⚡Afectada por avería la Línea 6375 por puentes partidos en la Línea 33 kV.\n🔹Línea 6375\n👉Municipio Santa Clara\nCto 7 (Universidad)  \nCto 146 (Elevado Aeropuerto) \nCto 22 (Construcciones Textil)\nCto 131 (Las Antillas)\nCto 153 (EIDE)\nCtos 14, 15 y 27 (Maleza)",
-    "timestamp": 1766952610,
-    "timestamp_local": 1766952610
-  },
-  {
-    "id": 36792,
-    "fecha": "28 de Dec del 2025 a las 01:57 PM",
-    "hora_utc": "2025-12-28 18:57",
-    "mensaje": "⚡Disparada por DAF (Disparo Automático de Frecuencia) la Línea 1955.\n👉Línea 1955  \nMunicipio Encrucijada:\nCto 122 Encrucijada \nCto 123 Vizcaya \nCto 142 Comunidad La Sierra \nCto 126 Batey Emilio Córdova\nCto 125 Cavarrocas\nCto 124 El Santo\n👉Municipio Camajuaní:\nCto 78 Jutiero",
-    "timestamp": 1766948260,
-    "timestamp_local": 1766948260
-  },
-  {
-    "id": 36791,
-    "fecha": "28 de Dec del 2025 a las 01:56 PM",
-    "hora_utc": "2025-12-28 18:56",
-    "mensaje": "🔸Actualización del servicio eléctrico en la provincia🔸\n✍️Se mantienen afectados en la provincia 106 circuitos.\n✍️En el momento de hacer esta nota la provincia tiene 86 MW por déficit de capacidad de generación.\n✍️Cuenta con 103 afectaciones  por averías secundarias y de servicio",
-    "timestamp": 1766948179,
-    "timestamp_local": 1766948179
-  },
-  {
-    "id": 36790,
-    "fecha": "28 de Dec del 2025 a las 01:48 PM",
-    "hora_utc": "2025-12-28 18:48",
-    "mensaje": "💡Restablecido el servicio eléctrico en los circuitos 132 y 162 SC Industrial.",
-    "timestamp": 1766947738,
-    "timestamp_local": 1766947738
-  },
-  {
-    "id": 36789,
-    "fecha": "28 de Dec del 2025 a las 01:37 PM",
-    "hora_utc": "2025-12-28 18:37",
-    "mensaje": "💡Con servicio eléctrico en los siguientes circuitos:\n👉Municipio Santo Domingo:\nCto 134\nCto 187 Batey Carlos Baliño\nCto 82 Ulacia\nCto 84 Rodrigo",
-    "timestamp": 1766947050,
-    "timestamp_local": 1766947050
   }
 ]
