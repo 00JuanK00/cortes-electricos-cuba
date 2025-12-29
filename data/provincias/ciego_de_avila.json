@@ -1,5 +1,29 @@
 [
   {
+    "id": 34783,
+    "fecha": "28 de Dec del 2025 a las 07:33 PM",
+    "hora_utc": "2025-12-29 00:33",
+    "mensaje": "👉Información:\n🟢 19:05 || En línea la Unidad 3 de la CTE Antonio Maceo \"Renté\".",
+    "timestamp": 1766968439,
+    "timestamp_local": 1766968439
+  },
+  {
+    "id": 34782,
+    "fecha": "28 de Dec del 2025 a las 07:11 PM",
+    "hora_utc": "2025-12-29 00:11",
+    "mensaje": "‼️ Información del déficit de generación ‼️   \n👉Subimos a 95 MW en la provincia afectados por déficit de generación.\n⏰ Con este déficit, la carga a apagar en la provincia no nos permite realizar una rotación estable de los circuitos, por lo que se afectarán o se restablecerán en dependencia del déficit que haya en cada momento de la jornada, que es muy variable.",
+    "timestamp": 1766967086,
+    "timestamp_local": 1766967086
+  },
+  {
+    "id": 34781,
+    "fecha": "28 de Dec del 2025 a las 07:11 PM",
+    "hora_utc": "2025-12-29 00:11",
+    "mensaje": "✅ Información.\n📌Los circuitos  restablecidos tendrán servicio por un estimado de 1 hora y 30 min aproximadamente en dependencia del déficit solicitado en cada momento de la jornada que es muy variable.",
+    "timestamp": 1766967063,
+    "timestamp_local": 1766967063
+  },
+  {
     "id": 34780,
     "fecha": "28 de Dec del 2025 a las 06:46 PM",
     "hora_utc": "2025-12-28 23:46",
@@ -19,7 +43,7 @@
     "id": 34778,
     "fecha": "28 de Dec del 2025 a las 06:00 PM",
     "hora_utc": "2025-12-28 23:00",
-    "mensaje": "✅ Información.\n👉 Se encuentra sin servicio el circuito Micro Norte por cable en el suelo, se trabaja para restablecer el servicio en el menor tiempo posible.",
+    "mensaje": "✅ Información.\n👉 Se encuentra sin servicio el circuito Micro Norte por primario en el suelo, se crean las condiciones para trabajar y restablecer el servicio en el menor tiempo posible.",
     "timestamp": 1766962846,
     "timestamp_local": 1766962846
   },
@@ -126,29 +150,5 @@
     "mensaje": "🚨Déficit de Generación🚨\n👍 Bajamos a 45 MW afectados en la provincia por déficit de generación.\n\n\n ⏰ Reiteramos que los circuitos se afectarán o se restablecerán en dependencia del déficit solicitado en cada momento de la jornada que es muy variable.",
     "timestamp": 1766930231,
     "timestamp_local": 1766930231
-  },
-  {
-    "id": 34762,
-    "fecha": "28 de Dec del 2025 a las 08:14 AM",
-    "hora_utc": "2025-12-28 13:14",
-    "mensaje": "🚨Nota informativa🚨\n\n📆Situación del SEN para el 28 de diciembre de 2025.\n\n👉En el día de ayer se afectó el servicio durante las 24 horas. La máxima afectación por déficit de capacidad de generación en el día de ayer fue de 1956 MW a las 18:30 horas. \n\n☀️La producción de energía de los 34 nuevos parques solares fotovoltaicos fue de 2984 MWh, con 583 MW como máxima potencia entregada en el horario de la media con esta fuente de generación. \n\n👉La disponibilidad del SEN a las 06:00 horas es de 1370 MW  y la demanda 1920 MW con 567 MW afectados por déficit de capacidad. En el horario de la media se estima una afectación de 1030 MW.  \n\n🛠Se encuentran en avería las unidades 5 y 8 de la CTE Mariel, la unidad 6 de la CTE Diez de Octubre, la unidad 2 de la CTE Felton y la unidad 3 de la CTE Rente. Se encuentran en mantenimiento la unidad 2 de la CTE Santa Cruz y la unidad 4 de la CTE Cienfuegos.\n\n👉Las limitaciones en la generación térmica son de 589 MW. \n\n⛽️Se encuentran fuera de servicio por combustible 88 centrales de generación distribuida con 780 MW, el emplazamiento de fuel Moa con 108 MW y 138 MW indisponible por falta de lubricante, para un total de 1026 MW.\n\n📈Para el horario se estima una disponibilidad de 1468 MW y una demanda máxima de 3370 MW, para un déficit de 1902 MW, por lo que de mantenerse las condiciones previstas se pronostica una afectación de 1930 MW en este horario.\n  \nUNE-MINEM",
-    "timestamp": 1766927653,
-    "timestamp_local": 1766927653
-  },
-  {
-    "id": 34761,
-    "fecha": "28 de Dec del 2025 a las 07:12 AM",
-    "hora_utc": "2025-12-28 12:12",
-    "mensaje": "🚨Déficit de Generación🚨\n👍 Subimos a 50 MW afectados en la provincia por déficit de generación.\n‼️Se encuentran afectados los siguientes circuitos.\n👉Morón Norte, Morón Sur, San Fernando, Falla, Ranchuelo, La Cuba, La Cuba II, Gaspar, Baragua, Vicente, Colorado, Venezuela, Florencia, Tamarindo,  Combinado Minaz, Delfín Moreno, Santana, Violeta, Pablo, Ognara, Montoto, Tres Marías, Velazco y Miraflores.\n ⏰ Reiteramos que los circuitos se afectarán o se restablecerán en dependencia del déficit solicitado en cada momento de la jornada que es muy variable.",
-    "timestamp": 1766923958,
-    "timestamp_local": 1766923958
-  },
-  {
-    "id": 34760,
-    "fecha": "28 de Dec del 2025 a las 06:30 AM",
-    "hora_utc": "2025-12-28 11:30",
-    "mensaje": "🚨Déficit de Generación🚨\n👍 Tenemos 30 MW afectados en la provincia por déficit de generación.\n‼️Se encuentran afectados los siguientes circuitos.\n👉Jicotea, Majagua, Guayacanes, Orlando Gonzalez, La Piña, La Ofelia, Los Negros, La Teresa, Patria, Chambas, Los Perros, Punta Alegre y El Asiento.\n ⏰ Reiteramos que los circuitos se afectarán o se restablecerán en dependencia del déficit solicitado en cada momento de la jornada que es muy variable.",
-    "timestamp": 1766921443,
-    "timestamp_local": 1766921443
   }
 ]
