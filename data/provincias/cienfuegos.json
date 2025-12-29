@@ -1,5 +1,13 @@
 [
   {
+    "id": 45281,
+    "fecha": "29 de Dec del 2025 a las 12:22 PM",
+    "hora_utc": "2025-12-29 17:22",
+    "mensaje": "⚠Se comunica a nuestros clientes que serán afectados por déficit de capacidad de generación los siguientes circuitos: \n\n👉C-19 Tulipán.\n👉C-2 Calle 47 desde Ave 42 hasta Ave 54 y  Ave 48 desde Calle 37 hasta Calle 49.\n👉C-3 Reparto Eléctrico.\n👉C-66 Reina (Parque).\n👉C-80 Punta Cotica, Parque José Martí.\n\n📌 Ofrecemos disculpas por las molestias ocasionadas.",
+    "timestamp": 1767028944,
+    "timestamp_local": 1767028944
+  },
+  {
     "id": 45280,
     "fecha": "29 de Dec del 2025 a las 11:51 AM",
     "hora_utc": "2025-12-29 16:51",
@@ -19,7 +27,7 @@
     "id": 45278,
     "fecha": "29 de Dec del 2025 a las 10:17 AM",
     "hora_utc": "2025-12-29 15:17",
-    "mensaje": "🚨Se comunica a nuestros clientes que por solicitud de la Dirección de Acueducto se encuentran  protegidos para abasto de agua💧 hasta la 01:00 pm(4 horas continuas), los circuitos de zona baja:\n\n👉C-2 Calle 47 desde Ave 42 hasta Ave 54 y  Ave 48 desde Calle 47 hasta Calle 49.\n👉C-3 Reparto Eléctrico.\n👉C-5 Boulevard, Parque Martí.\n👉C-19 Tulipán.\n👉C-65 Casco histórico, Reina (Aduana).\n👉C-66 Reina (Parque).\n👉C-80 Punta Gotica, Parque José Martí.\n👉C-91 Buena Vista, La Esperanza.\n👉C-76 Punta la Cueva, Junco Viejo.\n\n\n📌Con una carga total de 18 MW y un déficit de capacidad de generación de 40 MW.\n\n👉 Esta protección será cumplida mientras las condiciones del déficit de capacidad de generación lo permita.",
+    "mensaje": "🚨Se comunica a nuestros clientes que por solicitud de la Dirección de Acueducto se encuentran  protegidos para abasto de agua💧 hasta la 01:00 pm(4 horas continuas), los circuitos de zona baja:\n\n👉C-2 Calle 47 desde Ave 42 hasta Ave 54 y  Ave 48 desde Calle 47 hasta Calle 49.\n👉C-3 Reparto Eléctrico.\n👉C-5 Boulevard, Parque Martí.\n👉C-19 Tulipán.\n👉C-65 Casco histórico, Reina (Aduana).\n👉C-66 Reina (Parque).\n👉C-80 Punta Cotica, Parque José Martí.\n👉C-91 Buena Vista, La Esperanza.\n👉C-76 Punta la Cueva, Junco Viejo.\n\n\n📌Con una carga total de 18 MW y un déficit de capacidad de generación de 40 MW.\n\n👉 Esta protección será cumplida mientras las condiciones del déficit de capacidad de generación lo permita.",
     "timestamp": 1767021472,
     "timestamp_local": 1767021472
   },
@@ -110,13 +118,5 @@
     "mensaje": "⚠Se comunica a nuestros clientes que será afectado por déficit de capacidad de generación el siguiente circuito:\n\n👉C-18 Arizona, La Juanita\n\n📌Ofrecemos disculpas por las molestias ocasionadas.",
     "timestamp": 1767002148,
     "timestamp_local": 1767002148
-  },
-  {
-    "id": 45260,
-    "fecha": "29 de Dec del 2025 a las 04:51 AM",
-    "hora_utc": "2025-12-29 09:51",
-    "mensaje": "⚠Disparo automático por frecuencia (DAF).\n\nUn disparo por frecuencia o Descarga Automática por Frecuencia, es una protección que posee el sistema eléctrico para cuando la frecuencia llega a valores mínimos permisibles que ponen en peligro la estabilidad de todo el sistema en su conjunto y provoca una desconexión automática de algunos circuitos hasta que se vuelva a recuperar su valor nominal a 60Hz o ciclos por segundo.",
-    "timestamp": 1767001888,
-    "timestamp_local": 1767001888
   }
 ]
