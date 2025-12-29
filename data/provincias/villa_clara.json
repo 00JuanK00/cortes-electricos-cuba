@@ -1,5 +1,37 @@
 [
   {
+    "id": 36863,
+    "fecha": "29 de Dec del 2025 a las 12:05 PM",
+    "hora_utc": "2025-12-29 17:05",
+    "mensaje": "Con servicio el circuito 79 del municipio Santo Domingo.",
+    "timestamp": 1767027906,
+    "timestamp_local": 1767027906
+  },
+  {
+    "id": 36862,
+    "fecha": "29 de Dec del 2025 a las 12:05 PM",
+    "hora_utc": "2025-12-29 17:05",
+    "mensaje": "🔴 08:21 || Fuera de línea la Unidad  6 de la CTE Máximo Gómez por filtro sucio de las bombas de agua de alimentar.\n\n🔴 09:02 || Fuera de línea la Unidad 1 de la CTE Antonio Guiteras por vibraciones en turbina.",
+    "timestamp": 1767027900,
+    "timestamp_local": 1767027900
+  },
+  {
+    "id": 36861,
+    "fecha": "29 de Dec del 2025 a las 12:04 PM",
+    "hora_utc": "2025-12-29 17:04",
+    "mensaje": "🕛Actualización del servicio eléctrico en las últimas 6 horas.\n✍️El déficit de capacidad de generación osciló entre los 48 MW y los 87 MW.\n✍️En el momento de esta nota, se mantienen afectados 107 circuitos.\n✍️Cuenta con 117 afectaciones por averías secundarias y de servicio:\n🔸Caibarién (3)\n🔸Camajuaní (1)\n🔸Cifuentes (2\n🔸Corralillo (4)\n🔸Encrucijada (5)\n🔸Manicaragua (18\n🔸Placetas (5)\n🔸Quemado (1)\n🔸Ranchuelo (3\n🔸Remedios (6)  \n🔸Sagua (2)\n🔸Santa Clara (26)\n🔸Santo Domingo (10)\n🛠️Se encuentran 12 averías en vías de solución.\n🛠️Pendientes a solucionar por el área técnica 16.\n⚡La provincia presenta 1 avería primaria en el circuito 171 (Los Caneyes), del municipio Santa Clara por poste partido, el cual se mantendrá afectado hasta tanto culminen las acciones por parte de la brigada eléctrica.",
+    "timestamp": 1767027857,
+    "timestamp_local": 1767027857
+  },
+  {
+    "id": 36860,
+    "fecha": "29 de Dec del 2025 a las 11:54 AM",
+    "hora_utc": "2025-12-29 16:54",
+    "mensaje": "Restablecido el servicio eléctrico en el circuito 156 del municipio Camajuaní.",
+    "timestamp": 1767027299,
+    "timestamp_local": 1767027299
+  },
+  {
     "id": 36859,
     "fecha": "29 de Dec del 2025 a las 11:41 AM",
     "hora_utc": "2025-12-29 16:41",
@@ -118,45 +150,5 @@
     "mensaje": "🔸Actualización del servicio eléctrico en la provincia🔸\n✍️Se mantienen afectados en la provincia 122 circuitos.\n✍️En el momento de hacer esta nota la provincia tiene 77 MW por déficit de capacidad de generación.\n✍️Cuenta con 50 afectaciones  por averías secundarias y de servicio",
     "timestamp": 1767013664,
     "timestamp_local": 1767013664
-  },
-  {
-    "id": 36843,
-    "fecha": "29 de Dec del 2025 a las 07:52 AM",
-    "hora_utc": "2025-12-29 12:52",
-    "mensaje": "💡Con servicio eléctrico los circuitos siguientes:\n🔹Municipio Quemado:\n👉Ctos 164, 52 y 53 Quemado.",
-    "timestamp": 1767012776,
-    "timestamp_local": 1767012776
-  },
-  {
-    "id": 36842,
-    "fecha": "29 de Dec del 2025 a las 07:48 AM",
-    "hora_utc": "2025-12-29 12:48",
-    "mensaje": "⚠️Afectada por emergencia la Línea 331 por corto circuito intenso en el poblado La Piedra.\n🔹Línea 331 \n👉Municipio Manicaragua:\nCtos 109 y 150\nCtos 108 y 110 La Piedra\nCto 111 Mataguá",
-    "timestamp": 1767012509,
-    "timestamp_local": 1767012509
-  },
-  {
-    "id": 36840,
-    "fecha": "29 de Dec del 2025 a las 07:05 AM",
-    "hora_utc": "2025-12-29 12:05",
-    "mensaje": "⚡Afectado por avería el circuito 170 José Martí del municipio Santa Clara, se estudian las causas.",
-    "timestamp": 1767009918,
-    "timestamp_local": 1767009918
-  },
-  {
-    "id": 36839,
-    "fecha": "29 de Dec del 2025 a las 07:04 AM",
-    "hora_utc": "2025-12-29 12:04",
-    "mensaje": "💡Restablecido el servicio eléctrico en los circuitos de la subestación Gran Panel.\n👉Municipio Santa Clara:\nCto 166 (Condado)\nCto 167 (Virginia)\nCto 168 (Condado- XX Aniversario)\nCto 169 (Condado)",
-    "timestamp": 1767009850,
-    "timestamp_local": 1767009850
-  },
-  {
-    "id": 36838,
-    "fecha": "29 de Dec del 2025 a las 06:55 AM",
-    "hora_utc": "2025-12-29 11:55",
-    "mensaje": "⚡Afectada por disparo la subestación Gran Panel, afectando los siguientes circuitos:\n👉Municipio Santa Clara:\nCto 166 (Condado)\nCto 167 (Virginia)\nCto 168 (Condado- XX Aniversario)\nCto 169 (Condado)\n\nCto 170 (José Martí)\nCto 171 (Los Caneyes)",
-    "timestamp": 1767009306,
-    "timestamp_local": 1767009306
   }
 ]
