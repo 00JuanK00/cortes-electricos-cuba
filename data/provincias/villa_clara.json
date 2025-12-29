@@ -1,5 +1,53 @@
 [
   {
+    "id": 36888,
+    "fecha": "29 de Dec del 2025 a las 03:25 PM",
+    "hora_utc": "2025-12-29 20:25",
+    "mensaje": "⚠️Afectados por déficit de capacidad de generación los siguientes circuitos:\n🔹Municipio Sagua\n👉Ctos 43 y 51\n👉Cto 44 Isabela",
+    "timestamp": 1767039928,
+    "timestamp_local": 1767039928
+  },
+  {
+    "id": 36887,
+    "fecha": "29 de Dec del 2025 a las 03:18 PM",
+    "hora_utc": "2025-12-29 20:18",
+    "mensaje": "⚠️Afectado por déficit de capacidad de generación el circuito 6 (Vigía), del municipio Santa Clara.",
+    "timestamp": 1767039520,
+    "timestamp_local": 1767039520
+  },
+  {
+    "id": 36886,
+    "fecha": "29 de Dec del 2025 a las 03:13 PM",
+    "hora_utc": "2025-12-29 20:13",
+    "mensaje": "⚠️Serán afectados por déficit de capacidad de generación los siguientes circuitos:\n🔹Municipio Caibarién\n👉Ctos 61 y 62",
+    "timestamp": 1767039233,
+    "timestamp_local": 1767039233
+  },
+  {
+    "id": 36885,
+    "fecha": "29 de Dec del 2025 a las 03:13 PM",
+    "hora_utc": "2025-12-29 20:13",
+    "mensaje": "⚠️Afectados por déficit de capacidad de generación los siguientes circuitos:\n🔹Municipio Caibarién\n👉Ctos 63 y 64\n👉Ctos 182 y 183 Van Troy",
+    "timestamp": 1767039205,
+    "timestamp_local": 1767039205
+  },
+  {
+    "id": 36884,
+    "fecha": "29 de Dec del 2025 a las 03:10 PM",
+    "hora_utc": "2025-12-29 20:10",
+    "mensaje": "Con servicio el circuito 69 (Zuluetas), del municipio Remedios.",
+    "timestamp": 1767039037,
+    "timestamp_local": 1767039037
+  },
+  {
+    "id": 36883,
+    "fecha": "29 de Dec del 2025 a las 03:07 PM",
+    "hora_utc": "2025-12-29 20:07",
+    "mensaje": "Con servicio el circuito 40 (Hospital Militar), del municipio Santa Clara.",
+    "timestamp": 1767038836,
+    "timestamp_local": 1767038836
+  },
+  {
     "id": 36882,
     "fecha": "29 de Dec del 2025 a las 03:00 PM",
     "hora_utc": "2025-12-29 20:00",
@@ -110,45 +158,5 @@
     "mensaje": "Con servicio línea 1910:\n🔹Municipio Placetas:\n👉Ctos 100 y 151 \n👉Cto 104 Hermanos Amejeiras\n👉Cto 103 Batey Carbó Servia",
     "timestamp": 1767033291,
     "timestamp_local": 1767033291
-  },
-  {
-    "id": 36866,
-    "fecha": "29 de Dec del 2025 a las 01:21 PM",
-    "hora_utc": "2025-12-29 18:21",
-    "mensaje": "🛠️Afectado el servicio eléctrico en la línea 6585, por trabajo planificado para montar banco de transformadores trifásico:\nAfecta los siguientes circuitos:\n🔹Municipio Camajuaní:\n👉Cto 75 La Quinta\n👉Cto 157 Luis Arcos Bergnes\n👉Ctos 76 y 90 Vega Alta\n👉Ctos 77, 59 y 185 Vueltas",
-    "timestamp": 1767032515,
-    "timestamp_local": 1767032515
-  },
-  {
-    "id": 36865,
-    "fecha": "29 de Dec del 2025 a las 01:19 PM",
-    "hora_utc": "2025-12-29 18:19",
-    "mensaje": "🛠️Afectado por DAF (Disparo Automático por Frecuencia), las líneas 1910, 1915, 1920 y 1955:\nAfecta los siguientes circuitos:\n🔹Municipio Placetas:\nCto 192 Benito Juárez\nCto 102 Peroti\nCto 101 y 145 Cumbre\nCto 107 Baez\nCto 105 Nazareno\nCtos 100 y 151 \nCto 104 Hermanos Amejeiras\nCto 103 Batey Carbó Servia\n\n🔹Municipio Encrucijada:\nCto 122 Encrucijada \nCto 123 Vizcaya \nCto 142 Comunidad La Sierra \nCto 126 Batey Emilio Córdova\nCto 125 Cavarrocas\nCto 124 El Santo\nMunicipio Camajuaní:\nCto 78 Jutiero",
-    "timestamp": 1767032396,
-    "timestamp_local": 1767032396
-  },
-  {
-    "id": 36863,
-    "fecha": "29 de Dec del 2025 a las 12:05 PM",
-    "hora_utc": "2025-12-29 17:05",
-    "mensaje": "Con servicio el circuito 79 del municipio Santo Domingo.",
-    "timestamp": 1767027906,
-    "timestamp_local": 1767027906
-  },
-  {
-    "id": 36862,
-    "fecha": "29 de Dec del 2025 a las 12:05 PM",
-    "hora_utc": "2025-12-29 17:05",
-    "mensaje": "🔴 08:21 || Fuera de línea la Unidad  6 de la CTE Máximo Gómez por filtro sucio de las bombas de agua de alimentar.\n\n🔴 09:02 || Fuera de línea la Unidad 1 de la CTE Antonio Guiteras por vibraciones en turbina.",
-    "timestamp": 1767027900,
-    "timestamp_local": 1767027900
-  },
-  {
-    "id": 36861,
-    "fecha": "29 de Dec del 2025 a las 12:04 PM",
-    "hora_utc": "2025-12-29 17:04",
-    "mensaje": "🕛Actualización del servicio eléctrico en las últimas 6 horas.\n✍️El déficit de capacidad de generación osciló entre los 48 MW y los 87 MW.\n✍️En el momento de esta nota, se mantienen afectados 107 circuitos.\n✍️Cuenta con 117 afectaciones por averías secundarias y de servicio:\n🔸Caibarién (3)\n🔸Camajuaní (1)\n🔸Cifuentes (2\n🔸Corralillo (4)\n🔸Encrucijada (5)\n🔸Manicaragua (18\n🔸Placetas (5)\n🔸Quemado (1)\n🔸Ranchuelo (3\n🔸Remedios (6)  \n🔸Sagua (2)\n🔸Santa Clara (26)\n🔸Santo Domingo (10)\n🛠️Se encuentran 12 averías en vías de solución.\n🛠️Pendientes a solucionar por el área técnica 16.\n⚡La provincia presenta 1 avería primaria en el circuito 171 (Los Caneyes), del municipio Santa Clara por poste partido, el cual se mantendrá afectado hasta tanto culminen las acciones por parte de la brigada eléctrica.",
-    "timestamp": 1767027857,
-    "timestamp_local": 1767027857
   }
 ]
