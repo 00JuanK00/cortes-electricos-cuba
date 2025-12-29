@@ -1,5 +1,29 @@
 [
   {
+    "id": 102029,
+    "fecha": "29 de Dec del 2025 a las 09:06 AM",
+    "hora_utc": "2025-12-29 14:06",
+    "mensaje": "♦️ Afectado el servicio en los siguientes circuitos por disparo por DAF:\n*3590\n*3140♦️",
+    "timestamp": 1767017162,
+    "timestamp_local": 1767017162
+  },
+  {
+    "id": 102028,
+    "fecha": "29 de Dec del 2025 a las 09:03 AM",
+    "hora_utc": "2025-12-29 14:03",
+    "mensaje": "📣♦️Afectado nuevamente por déficit de capacidad de generación el servicio en los siguientes circuitos que se encontraban restablecido por manipulación:\n*Quivicán\n*Magela♦️📣",
+    "timestamp": 1767017009,
+    "timestamp_local": 1767017009
+  },
+  {
+    "id": 102027,
+    "fecha": "29 de Dec del 2025 a las 09:02 AM",
+    "hora_utc": "2025-12-29 14:02",
+    "mensaje": "📣🔷Se restablecerá momentáneamente el servicio en los siguientes circuitos manipulación:\n*Magela\n*Quivicán🔷📣",
+    "timestamp": 1767016924,
+    "timestamp_local": 1767016924
+  },
+  {
     "id": 102026,
     "fecha": "29 de Dec del 2025 a las 08:53 AM",
     "hora_utc": "2025-12-29 13:53",
@@ -134,29 +158,5 @@
     "mensaje": "🚨Por déficit de capacidad de generación se afecta el servicio en el siguiente circuito:\n*3665 🚨",
     "timestamp": 1766990643,
     "timestamp_local": 1766990643
-  },
-  {
-    "id": 102008,
-    "fecha": "29 de Dec del 2025 a las 01:33 AM",
-    "hora_utc": "2025-12-29 06:33",
-    "mensaje": "🔷♦️Se restablece el servicio en el circuito que se encontraba afectado  por déficit de capacidad de generación:\nGüines 4 ♦️🔷",
-    "timestamp": 1766989990,
-    "timestamp_local": 1766989990
-  },
-  {
-    "id": 102007,
-    "fecha": "29 de Dec del 2025 a las 01:32 AM",
-    "hora_utc": "2025-12-29 06:32",
-    "mensaje": "🔷♦️Se restablece el servicio en el circuito que se encontraba afectado  por déficit de capacidad de generación:\nGüines 1 ♦️🔷",
-    "timestamp": 1766989972,
-    "timestamp_local": 1766989972
-  },
-  {
-    "id": 102006,
-    "fecha": "29 de Dec del 2025 a las 01:29 AM",
-    "hora_utc": "2025-12-29 06:29",
-    "mensaje": "🔷♦️Se restablece el servicio en los siguientes circuitos que se encontraban afectados por déficit de capacidad de generación:\n*ML-35\n*Catalina 1 y 2 ♦️🔷",
-    "timestamp": 1766989770,
-    "timestamp_local": 1766989770
   }
 ]
