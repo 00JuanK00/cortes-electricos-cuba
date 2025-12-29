@@ -1,5 +1,37 @@
 [
   {
+    "id": 36902,
+    "fecha": "29 de Dec del 2025 a las 06:26 PM",
+    "hora_utc": "2025-12-29 23:26",
+    "mensaje": "⚠️Afectado por déficit de capacidad de generación el circuito 31 (Sakenaf), del municipio Santa Clara.",
+    "timestamp": 1767050781,
+    "timestamp_local": 1767050781
+  },
+  {
+    "id": 36901,
+    "fecha": "29 de Dec del 2025 a las 06:23 PM",
+    "hora_utc": "2025-12-29 23:23",
+    "mensaje": "⚠️Afectados por déficit de capacidad de generación los siguientes circuitos:\n🔹Municipio Santa Clara:\n👉Ctos 37 y 38 (Yabú)   \n👉Cto 9 (Moldes y Troqueles)\n👉Cto 133 (Taller Cafetera)\n👉Cto 144 (Camacho)",
+    "timestamp": 1767050627,
+    "timestamp_local": 1767050627
+  },
+  {
+    "id": 36900,
+    "fecha": "29 de Dec del 2025 a las 06:15 PM",
+    "hora_utc": "2025-12-29 23:15",
+    "mensaje": "⚠️Afectados por déficit de capacidad de generación los siguientes circuitos:\n🔹Municipio Santa Clara\n👉Cto 7 (Universidad)  \n👉Cto 146 (Elevado Aeropuerto) \n👉Cto 22 (Construcciones Textil)\n👉Cto 131 (Las Antillas)\n👉Cto 153 (EIDE)\n👉Ctos 14, 15 y 27 (Maleza)",
+    "timestamp": 1767050158,
+    "timestamp_local": 1767050158
+  },
+  {
+    "id": 36899,
+    "fecha": "29 de Dec del 2025 a las 06:03 PM",
+    "hora_utc": "2025-12-29 23:03",
+    "mensaje": "🕕Actualización del servicio eléctrico en las últimas 6 horas.\n✍️El déficit de capacidad de generación osciló entre los 87 MW y los 114 MW.\n✍️En el momento de esta nota, se mantienen afectados 119 circuitos.\n✍️Cuenta con 94 afectaciones por averías secundarias y de servicio:\n🔸Caibarién (3)\n🔸Camajuaní (3)\n🔸Cifuentes (1)\n🔸Corralillo (4)\n🔸Manicaragua (19)\n🔸Placetas (2)\n🔸Ranchuelo (2)\n🔸Remedios (11)  \n🔸Santa Clara (20)\n🔸Santo Domingo (8)\n🛠️Se encuentran 9 averías en vías de solución.\n🛠️Pendientes a solucionar por el área técnica 13.\n⚡La provincia presenta 1 avería primaria en el circuito 171 (Los Caneyes), del municipio Santa Clara por poste partido, el cual se mantendrá afectado hasta tanto culminen las acciones por parte de la brigada eléctrica.",
+    "timestamp": 1767049381,
+    "timestamp_local": 1767049381
+  },
+  {
     "id": 36898,
     "fecha": "29 de Dec del 2025 a las 05:30 PM",
     "hora_utc": "2025-12-29 22:30",
@@ -126,37 +158,5 @@
     "mensaje": "Con servicio el circuito 40 (Hospital Militar), del municipio Santa Clara.",
     "timestamp": 1767038836,
     "timestamp_local": 1767038836
-  },
-  {
-    "id": 36882,
-    "fecha": "29 de Dec del 2025 a las 03:00 PM",
-    "hora_utc": "2025-12-29 20:00",
-    "mensaje": "🛠️ Afectado por faltar una fase el circuito 40 (Hospital Militar), del municipio Santa Clara.",
-    "timestamp": 1767038401,
-    "timestamp_local": 1767038401
-  },
-  {
-    "id": 36881,
-    "fecha": "29 de Dec del 2025 a las 02:44 PM",
-    "hora_utc": "2025-12-29 19:44",
-    "mensaje": "⚠️Afectados por déficit de capacidad de generación los siguientes circuitos:\n🔹Municipio Encrucijada\n👉Cto 120 Calabazar\n👉Ctos 121 y 127 Perucho\n🔹Municipio Camajuaní:\n👉Cto 75 La Quinta\n👉Cto 157 Luis Arcos Bergnes\n👉Ctos 76 y 90 Vega Alta\n👉Ctos 77, 59 y 185 Vueltas\n🔹Municipio Cifuentes:\n👉Ctos 114 y 117\n👉Ctos 116 y 155 Mata\n👉Cto 186 Batey Unidad Proletaria\n👉Cto 184 Sitio Grande\n🔹Municipio Santo Domingo:\n👉Cto 134\n👉Ctos 87 y 96 Bermejal\n👉Cto 187 Batey Carlos Baliño\n👉Cto 82 Ulacia\nCto 84 Rodrigo",
-    "timestamp": 1767037487,
-    "timestamp_local": 1767037487
-  },
-  {
-    "id": 36880,
-    "fecha": "29 de Dec del 2025 a las 02:39 PM",
-    "hora_utc": "2025-12-29 19:39",
-    "mensaje": "🛠️Afectado por DAF (Disparo Automático por Frecuencia), la línea 1920 :\nAfecta los siguientes circuitos:\n🔹Municipio Placetas:\n👉Cto 101 y 145 Cumbre\n👉Cto 107 Baez\n👉Cto 105 Nazareno",
-    "timestamp": 1767037183,
-    "timestamp_local": 1767037183
-  },
-  {
-    "id": 36879,
-    "fecha": "29 de Dec del 2025 a las 02:34 PM",
-    "hora_utc": "2025-12-29 19:34",
-    "mensaje": "⚠️Afectados por déficit de capacidad de generación los siguientes circuitos:\n🔹Municipio Placetas:\n👉Cto 192 Benito Juárez\n👉Cto 102 Peroti\n👉Ctos 100 y 151 \n👉Cto 104 Hermanos Amejeiras\n👉Cto 103 Batey Carbó Servia",
-    "timestamp": 1767036883,
-    "timestamp_local": 1767036883
   }
 ]
