@@ -1,5 +1,13 @@
 [
   {
+    "id": 47869,
+    "fecha": "30 de Dec del 2025 a las 01:02 PM",
+    "hora_utc": "2025-12-30 18:02",
+    "mensaje": "🔊Estimados clientes en estos momentos se encuentra afectados por Déficit de Capacidad de Generación el circuito 23 de Santiago , el 1 de Palma y La Línea 5330 Cristo",
+    "timestamp": 1767117767,
+    "timestamp_local": 1767117767
+  },
+  {
     "id": 47868,
     "fecha": "30 de Dec del 2025 a las 12:49 PM",
     "hora_utc": "2025-12-30 17:49",
@@ -99,7 +107,7 @@
     "id": 47856,
     "fecha": "30 de Dec del 2025 a las 05:33 AM",
     "hora_utc": "2025-12-30 10:33",
-    "mensaje": "🔉 Estimados Clientes se les informa que se encuentran afectados los circuitos 8,12,13,14,20,21,23 de Santiago , línea5335 Cristo , línea 5390 La Maya,II Frente , línea 4395 Contramaestre , III Frente por déficit de capacidad de generación .",
+    "mensaje": "🔉 Estimados Clientes se les informa que se encuentran afectados los circuitos 8,12,13,14,20,21,23 de Santiago ,  Línea 5330 Cristo , línea 5390 La Maya,II Frente , línea 4395 Contramaestre , III Frente por déficit de capacidad de generación .",
     "timestamp": 1767090811,
     "timestamp_local": 1767090811
   },
@@ -134,13 +142,5 @@
     "mensaje": "Disparo Automático de Frecuencia (DAF):\nOcurre cuando la frecuencia está por debajo de los 60Hz y determinada carga o circuito se desconecta del sistema automáticamente hasta que se estabilice.",
     "timestamp": 1767071960,
     "timestamp_local": 1767071960
-  },
-  {
-    "id": 47849,
-    "fecha": "30 de Dec del 2025 a las 12:19 AM",
-    "hora_utc": "2025-12-30 05:19",
-    "mensaje": "🔉 Estimados clientes se les informa que se encuentra afectado el circuito 1 de Palma Por Disparo (DAF)",
-    "timestamp": 1767071950,
-    "timestamp_local": 1767071950
   }
 ]
