@@ -1,5 +1,21 @@
 [
   {
+    "id": 30477,
+    "fecha": "30 de Dec del 2025 a las 11:15 AM",
+    "hora_utc": "2025-12-30 16:15",
+    "mensaje": "Déficit de capacidad de generación en la provincia en estos momentos: 66 MW.",
+    "timestamp": 1767111303,
+    "timestamp_local": 1767111303
+  },
+  {
+    "id": 30476,
+    "fecha": "30 de Dec del 2025 a las 11:10 AM",
+    "hora_utc": "2025-12-30 16:10",
+    "mensaje": "Circuitos no apagables que estarán afectados debido al alto déficit:\n\n🔌Circuitos GI101, JI48, Z1183 y CI185 de 17:00 a 00:00\n\n🔌Circuito Z130 de 17:00 a 20:00",
+    "timestamp": 1767111036,
+    "timestamp_local": 1767111036
+  },
+  {
     "id": 30475,
     "fecha": "30 de Dec del 2025 a las 10:36 AM",
     "hora_utc": "2025-12-30 15:36",
@@ -142,21 +158,5 @@
     "mensaje": "Déficit de capacidad de generación en la provincia en estos momento: 49 MW",
     "timestamp": 1767084727,
     "timestamp_local": 1767084727
-  },
-  {
-    "id": 30456,
-    "fecha": "30 de Dec del 2025 a las 03:34 AM",
-    "hora_utc": "2025-12-30 08:34",
-    "mensaje": "CON SERVICIO \n\n**- **Circuito 4480 que da servicio a Cítrico y Jagüey circuitos 1 y 2.",
-    "timestamp": 1767083665,
-    "timestamp_local": 1767083665
-  },
-  {
-    "id": 30455,
-    "fecha": "30 de Dec del 2025 a las 03:31 AM",
-    "hora_utc": "2025-12-30 08:31",
-    "mensaje": "Déficit de capacidad de generación en la provincia en estos momento: 40 MW",
-    "timestamp": 1767083505,
-    "timestamp_local": 1767083505
   }
 ]
