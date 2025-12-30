@@ -1,5 +1,21 @@
 [
   {
+    "id": 36966,
+    "fecha": "30 de Dec del 2025 a las 06:28 PM",
+    "hora_utc": "2025-12-30 23:28",
+    "mensaje": "Afectados 166 MW en la provincia, demanda máxima a apagar en estos momentos.",
+    "timestamp": 1767137320,
+    "timestamp_local": 1767137320
+  },
+  {
+    "id": 36965,
+    "fecha": "30 de Dec del 2025 a las 06:22 PM",
+    "hora_utc": "2025-12-30 23:22",
+    "mensaje": "‼️Ante cualquier duda con la terminología eléctrica, les volvemos explicar: \n     \n✍️Las averías pueden ser primarias (afecta un volumen grande de población pues son las líneas de distribución a 13.8kV y puede afectar varias manzanas, incluso repartos completos).\n\n✍️Secundarias (afecta a todos los clientes que se alimenten del mismo transformador, puede afectar una o varias cuadras). \n\n✍️De servicio (afectan 1 solo cliente o instalación generalmente producto a daños en la acometida, metro contador, etc.).",
+    "timestamp": 1767136941,
+    "timestamp_local": 1767136941
+  },
+  {
     "id": 36964,
     "fecha": "30 de Dec del 2025 a las 06:00 PM",
     "hora_utc": "2025-12-30 23:00",
@@ -142,21 +158,5 @@
     "mensaje": "Afectados 63 MW en la provincia, demanda máxima a apagar en estos momentos.",
     "timestamp": 1767118459,
     "timestamp_local": 1767118459
-  },
-  {
-    "id": 36946,
-    "fecha": "30 de Dec del 2025 a las 12:11 PM",
-    "hora_utc": "2025-12-30 17:11",
-    "mensaje": "⚠️Afectados por déficit de capacidad de generación los siguientes circuitos:\n🔹Municipio Cifuentes:\n👉Ctos 114 y 117\n👉Ctos 116 y 155 Mata\n👉Cto 186 Batey Unidad Proletaria\n👉Cto 184 Sitio Grande",
-    "timestamp": 1767114714,
-    "timestamp_local": 1767114714
-  },
-  {
-    "id": 36945,
-    "fecha": "30 de Dec del 2025 a las 12:04 PM",
-    "hora_utc": "2025-12-30 17:04",
-    "mensaje": "🕛Actualización del servicio eléctrico en las últimas 6 horas.\n✍️El déficit de capacidad de generación osciló entre los 47 MW y los 65 MW.\n✍️En el momento de esta nota, se mantienen afectados 80 circuitos.\n✍️Cuenta con 96 afectaciones por averías secundarias y de servicio:\n🔸Caibarién (3)\n🔸Camajuaní (1)\n🔸Corralillo (6)\n🔸Encrucijada (1)\n🔸Manicaragua (19)\n🔸Placetas (9)\n🔸Ranchuelo (8)\n🔸Remedios (10)\n🔸Sagua (11) \n🔸Santa Clara (21)\n🔸Santo Domingo (7)\n🛠️Pendientes a solucionar por el área técnica 12.\n⚡En avería el Cto 196 (Batey Panchito) de manera parcial, perteneciente al municipio Quemado,. Se estudian las causas.",
-    "timestamp": 1767114245,
-    "timestamp_local": 1767114245
   }
 ]
