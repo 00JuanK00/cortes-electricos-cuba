@@ -1,5 +1,77 @@
 [
   {
+    "id": 102244,
+    "fecha": "31 de Dec del 2025 a las 08:11 AM",
+    "hora_utc": "2025-12-31 13:11",
+    "mensaje": "🔷 Restablecido el servicio en el circuito 3590 que se encontraba afectado por DAF 🔷",
+    "timestamp": 1767186676,
+    "timestamp_local": 1767186676
+  },
+  {
+    "id": 102243,
+    "fecha": "31 de Dec del 2025 a las 08:10 AM",
+    "hora_utc": "2025-12-31 13:10",
+    "mensaje": "🔷 Restablecido el servicio en el circuito 3140 que se encontraba afectado por DAF 🔷",
+    "timestamp": 1767186645,
+    "timestamp_local": 1767186645
+  },
+  {
+    "id": 102242,
+    "fecha": "31 de Dec del 2025 a las 08:08 AM",
+    "hora_utc": "2025-12-31 13:08",
+    "mensaje": "🚨 Pasa a quedar afectado por déficit de capacidad de generación el siguiente circuito que se encontraba afectado por DAF:\n*1790🚨",
+    "timestamp": 1767186509,
+    "timestamp_local": 1767186509
+  },
+  {
+    "id": 102241,
+    "fecha": "31 de Dec del 2025 a las 07:57 AM",
+    "hora_utc": "2025-12-31 12:57",
+    "mensaje": "🚨Por déficit de capacidad de generación se afecta el servicio en el siguiente circuito:\n*Jaruco 🚨",
+    "timestamp": 1767185820,
+    "timestamp_local": 1767185820
+  },
+  {
+    "id": 102240,
+    "fecha": "31 de Dec del 2025 a las 07:41 AM",
+    "hora_utc": "2025-12-31 12:41",
+    "mensaje": "🚨Por déficit de capacidad de generación se afecta el servicio en el siguiente circuito:\n*Bío -1 🚨",
+    "timestamp": 1767184916,
+    "timestamp_local": 1767184916
+  },
+  {
+    "id": 102239,
+    "fecha": "31 de Dec del 2025 a las 07:35 AM",
+    "hora_utc": "2025-12-31 12:35",
+    "mensaje": "♦️ Afectado el servicio en el circuito 2440 por disparo en las líneas ♦️",
+    "timestamp": 1767184517,
+    "timestamp_local": 1767184517
+  },
+  {
+    "id": 102237,
+    "fecha": "31 de Dec del 2025 a las 07:32 AM",
+    "hora_utc": "2025-12-31 12:32",
+    "mensaje": "🔷♦️Se restablece el servicio en el circuito que se encontraba afectado  por déficit de capacidad de generación:\n*Güines 4 ♦️🔷",
+    "timestamp": 1767184332,
+    "timestamp_local": 1767184332
+  },
+  {
+    "id": 102236,
+    "fecha": "31 de Dec del 2025 a las 07:26 AM",
+    "hora_utc": "2025-12-31 12:26",
+    "mensaje": "🚨Por déficit de capacidad de generación se afecta el servicio en el siguiente circuito:\n*Melena 1 🚨",
+    "timestamp": 1767184018,
+    "timestamp_local": 1767184018
+  },
+  {
+    "id": 102235,
+    "fecha": "31 de Dec del 2025 a las 07:25 AM",
+    "hora_utc": "2025-12-31 12:25",
+    "mensaje": "🔷♦️Se restablece el servicio en el circuito que se encontraba afectado  por déficit de capacidad de generación:\n*Madruga ♦️🔷",
+    "timestamp": 1767183937,
+    "timestamp_local": 1767183937
+  },
+  {
     "id": 102234,
     "fecha": "31 de Dec del 2025 a las 07:13 AM",
     "hora_utc": "2025-12-31 12:13",
@@ -78,29 +150,5 @@
     "mensaje": "🚨Por déficit de capacidad de generación se afecta el servicio en el siguiente circuito:\n*Güines 4 🚨",
     "timestamp": 1767179017,
     "timestamp_local": 1767179017
-  },
-  {
-    "id": 102221,
-    "fecha": "31 de Dec del 2025 a las 05:09 AM",
-    "hora_utc": "2025-12-31 10:09",
-    "mensaje": "♦️ Afectado el servicio en el circuito 3140 por disparo por DAF♦️",
-    "timestamp": 1767175773,
-    "timestamp_local": 1767175773
-  },
-  {
-    "id": 102216,
-    "fecha": "31 de Dec del 2025 a las 01:10 AM",
-    "hora_utc": "2025-12-31 06:10",
-    "mensaje": "🔷♦️Se restablece el servicio en el circuito que se encontraba afectado  por déficit de capacidad de generación:\n*Bío -2 ♦️🔷",
-    "timestamp": 1767161459,
-    "timestamp_local": 1767161459
-  },
-  {
-    "id": 102214,
-    "fecha": "30 de Dec del 2025 a las 11:46 PM",
-    "hora_utc": "2025-12-31 04:46",
-    "mensaje": "🔷Con servicio los siguientes circuito:\n*3140\n*3590\n*1790 que se encontraban afectados por disparo por DAF🔷",
-    "timestamp": 1767156385,
-    "timestamp_local": 1767156385
   }
 ]
