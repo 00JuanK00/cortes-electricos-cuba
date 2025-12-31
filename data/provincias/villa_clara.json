@@ -1,5 +1,21 @@
 [
   {
+    "id": 37000,
+    "fecha": "31 de Dec del 2025 a las 07:00 AM",
+    "hora_utc": "2025-12-31 12:00",
+    "mensaje": "Afectados 31 MW en la provincia, demanda máxima a apagar en estos momentos.",
+    "timestamp": 1767182412,
+    "timestamp_local": 1767182412
+  },
+  {
+    "id": 36999,
+    "fecha": "31 de Dec del 2025 a las 06:57 AM",
+    "hora_utc": "2025-12-31 11:57",
+    "mensaje": "⚠️Afectado por DAF la línea del 1920:\n🔹Municipio Placetas:\n👉Cto 101 y 145 Cumbre\n👉Cto 107 Baez\n👉Cto 105 Nazareno",
+    "timestamp": 1767182259,
+    "timestamp_local": 1767182259
+  },
+  {
     "id": 36998,
     "fecha": "31 de Dec del 2025 a las 06:41 AM",
     "hora_utc": "2025-12-31 11:41",
@@ -126,21 +142,5 @@
     "mensaje": "💡Con servicio eléctrico los siguientes circuitos:\n🔹Municipio Sagua\n👉Cto 43, 51 Sagua\n👉Cto 44 Isabela",
     "timestamp": 1767158959,
     "timestamp_local": 1767158959
-  },
-  {
-    "id": 36980,
-    "fecha": "31 de Dec del 2025 a las 12:21 AM",
-    "hora_utc": "2025-12-31 05:21",
-    "mensaje": "⚡En avería la línea del 4608 de manera parcial, perteneciente al municipio Corralillo, quedando afectado ramal el Guea, se estudian las causas.",
-    "timestamp": 1767158505,
-    "timestamp_local": 1767158505
-  },
-  {
-    "id": 36979,
-    "fecha": "31 de Dec del 2025 a las 12:08 AM",
-    "hora_utc": "2025-12-31 05:08",
-    "mensaje": "🕛Actualización del servicio eléctrico en las últimas 6 horas.\n✍️El déficit de capacidad de generación osciló entre los 166 MW y los 43 MW.\n✍️En el momento de esta nota, se mantienen afectados 78 circuitos.\n✍️Cuenta con 77 afectaciones por averías secundarias y de servicio:\n🔸Caibarién (1)\n🔸Camajuaní (1)\n🔸Manicaragua (18)\n🔸Placetas (6)\n🔸Ranchuelo (3)\n🔸Remedios (12)\n🔸Sagua (5) \n🔸Santa Clara (31)\n🔸Santo Domingo (1)\n🛠️Pendientes a solucionar por el área técnica 11.\n⚡La provincia no presenta averías primarias en estos momentos.",
-    "timestamp": 1767157681,
-    "timestamp_local": 1767157681
   }
 ]
