@@ -1,5 +1,29 @@
 [
   {
+    "id": 102248,
+    "fecha": "31 de Dec del 2025 a las 08:45 AM",
+    "hora_utc": "2025-12-31 13:45",
+    "mensaje": "**Nota Informativa: Estado del Sistema Eléctrico Nacional (SEN) – 31 de diciembre de 2025\n**En el día de ayer se afectó el servicio durante las 24 horas, logrando restablecerse la afectación a las 02:44 de esta madrugada, a las 05:04 se comienza a afectar el servicio por déficit nuevamente. La máxima afectación por déficit de capacidad de generación en el día de ayer fue de 1660 MW a las 18:10 horas, coincidente con la hora de máxima demanda. \nLa producción de energía de los 34 nuevos parques solares fotovoltaicos fue de 3038 MWh, con 573 MW como máxima potencia entregada en el horario de la media con esta fuente\n**Estado actual del SEN\n**La disponibilidad del SEN a las 06:00 horas es de 1480 MW y la demanda 1900 MW con 412 MW afectados por déficit de capacidad. En el horario de la media se estima una afectación de 250 MW. \n**Principales incidencias\n**Avería: Unidades 5 de la CTE Mariel, Unidad 2 de la CTE Felton, Unidad 6 de la CTE Renté y Unidad 1 de la CTE Santa Cruz.\nMantenimiento: Unidad 2 de la CTE Santa Cruz, Unidad 4 de la CTE Carlos Manuel de Céspedes en Cienfuegos.\nLimitaciones en la generación térmica: 603 MW fuera de servicio.\nProblemas por falta de combustible\n63 centrales de generación distribuida con 609 MW.\n90 MW en la Central Fuel de Moa\n35 MW de la Patana de Melones\n142 MW indisponibles por falta de lubricante.\nTotal de MW afectados por esta causa: 872 MW.\n**Pronóstico para el horario pico\n**Para el pico se pronostica la recuperación de 150 MW en motores en la generación distribuida que se encuentran fuera por combustible, la entrada de la unidad 1 de la CTE Santa Cruz con 60 MW, la entrada de la patana de Melones con 35 MW y la entrada de 6 motores de Fuel Moa con 90 MW.\nSe estima para el horario pico una disponibilidad de 1815 MW y una demanda máxima de 3100 MW, para un déficit de 1285 MW, por lo que de mantenerse las condiciones previstas se pronostica una afectación de 1315 MW en este horario.",
+    "timestamp": 1767188741,
+    "timestamp_local": 1767188741
+  },
+  {
+    "id": 102246,
+    "fecha": "31 de Dec del 2025 a las 08:34 AM",
+    "hora_utc": "2025-12-31 13:34",
+    "mensaje": "🚨Por déficit de capacidad de generación se afecta el servicio en el siguiente circuito:\n*Aguacate 🚨",
+    "timestamp": 1767188045,
+    "timestamp_local": 1767188045
+  },
+  {
+    "id": 102245,
+    "fecha": "31 de Dec del 2025 a las 08:28 AM",
+    "hora_utc": "2025-12-31 13:28",
+    "mensaje": "🔷 Restablecido el servicio en el circuito 2440 que se encontraba afectado por disparo en las líneas 🔷",
+    "timestamp": 1767187704,
+    "timestamp_local": 1767187704
+  },
+  {
     "id": 102244,
     "fecha": "31 de Dec del 2025 a las 08:11 AM",
     "hora_utc": "2025-12-31 13:11",
@@ -118,37 +142,5 @@
     "mensaje": "🚨Por déficit de capacidad de generación se afecta el servicio en el siguiente circuito:\n*Nueva Paz🚨",
     "timestamp": 1767179919,
     "timestamp_local": 1767179919
-  },
-  {
-    "id": 102226,
-    "fecha": "31 de Dec del 2025 a las 06:16 AM",
-    "hora_utc": "2025-12-31 11:16",
-    "mensaje": "🚨Por déficit de capacidad de generación se afecta el servicio en el siguiente circuito:\n*Vega 🚨",
-    "timestamp": 1767179812,
-    "timestamp_local": 1767179812
-  },
-  {
-    "id": 102225,
-    "fecha": "31 de Dec del 2025 a las 06:13 AM",
-    "hora_utc": "2025-12-31 11:13",
-    "mensaje": "🔷Con servicio el circuito 3140 que se encontraba afectado por disparo por DAF🔷",
-    "timestamp": 1767179581,
-    "timestamp_local": 1767179581
-  },
-  {
-    "id": 102224,
-    "fecha": "31 de Dec del 2025 a las 06:05 AM",
-    "hora_utc": "2025-12-31 11:05",
-    "mensaje": "🚨Por déficit de capacidad de generación se afecta el servicio en los siguientes circuitos:\n*6 y 8 de San José 🚨",
-    "timestamp": 1767179122,
-    "timestamp_local": 1767179122
-  },
-  {
-    "id": 102223,
-    "fecha": "31 de Dec del 2025 a las 06:03 AM",
-    "hora_utc": "2025-12-31 11:03",
-    "mensaje": "🚨Por déficit de capacidad de generación se afecta el servicio en el siguiente circuito:\n*Güines 4 🚨",
-    "timestamp": 1767179017,
-    "timestamp_local": 1767179017
   }
 ]
