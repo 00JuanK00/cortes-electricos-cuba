@@ -1,5 +1,37 @@
 [
   {
+    "id": 37024,
+    "fecha": "31 de Dec del 2025 a las 02:43 PM",
+    "hora_utc": "2025-12-31 19:43",
+    "mensaje": "⚠️Afectados por déficit de capacidad de generación los siguientes circuitos:\n🔹Municipio Santo Domingo:\n👉Cto 134\n👉Ctos 87 y 96 Bermejal\n👉Cto 187 Batey Carlos Baliño\n👉Cto 82 Ulacia\n👉Cto 84 Rodrigo",
+    "timestamp": 1767210216,
+    "timestamp_local": 1767210216
+  },
+  {
+    "id": 37023,
+    "fecha": "31 de Dec del 2025 a las 02:22 PM",
+    "hora_utc": "2025-12-31 19:22",
+    "mensaje": "⚠️Afectados por déficit de capacidad de generación los siguientes circuitos:\n🔹Municipio Placetas:\n👉Cto 101 y 145 Cumbre",
+    "timestamp": 1767208935,
+    "timestamp_local": 1767208935
+  },
+  {
+    "id": 37022,
+    "fecha": "31 de Dec del 2025 a las 02:18 PM",
+    "hora_utc": "2025-12-31 19:18",
+    "mensaje": "🔸Actualización del servicio eléctrico en la provincia🔸\n✍️Se mantienen afectados en la provincia 18 circuitos.\n✍️En el momento de hacer esta nota la provincia tiene 15 MW por déficit de capacidad de generación.\n✍️Cuenta con 62 afectaciones por averías secundarias y de servicio.",
+    "timestamp": 1767208730,
+    "timestamp_local": 1767208730
+  },
+  {
+    "id": 37021,
+    "fecha": "31 de Dec del 2025 a las 02:07 PM",
+    "hora_utc": "2025-12-31 19:07",
+    "mensaje": "Afectados 15 MW en la provincia, demanda máxima a apagar en estos momentos.",
+    "timestamp": 1767208073,
+    "timestamp_local": 1767208073
+  },
+  {
     "id": 37020,
     "fecha": "31 de Dec del 2025 a las 01:37 PM",
     "hora_utc": "2025-12-31 18:37",
@@ -110,37 +142,5 @@
     "mensaje": "🚨Nota informativa🚨\n\n📆Situación del SEN para el 31 de diciembre de 2025.\n\n👉En el día de ayer se afectó el servicio durante las 24 horas, logrando restablecerse la afectación a las 02:44 de esta madrugada, a las 05:04 se comienza a afectar el servicio por déficit nuevamente. La máxima afectación por déficit de capacidad de generación en el día de ayer fue de 1660 MW a las 18:10 horas, coincidente con la hora de máxima demanda. \n\n☀️La producción de energía de los 34 nuevos parques solares fotovoltaicos fue de 3038 MWh, con 573 MW como máxima potencia entregada en el horario de la media con esta fuente de generación. \n\n👉La disponibilidad del SEN a las 06:00 horas es de 1480 MW  y la demanda 1900 MW con 412 MW afectados por déficit de capacidad. En el horario de la media se estima una afectación de 250 MW.  \n\n🛠️Se encuentran en avería la unidad 5 de la CTE Mariel, la unidad 1 de la CTE Santa Cruz, la unidad 2 de la CTE Felton y la unidad 6 de la CTE Renté. Se encuentran en mantenimiento la unidad 2 de la CTE Santa Cruz y la unidad 4 de la CTE Cienfuegos.\n\n👉Las limitaciones en la generación térmica son de 603 MW. \n\n⛽Se encuentran fuera de servicio por combustible 63 centrales de generación distribuida con 609 MW, el emplazamiento de fuel Moa con 90 MW, la patana de Melones con 35 MW y 142 MW indisponible por falta de lubricante, para un total de 876 MW.\n\n👉Para el pico se pronostica la recuperación de 150 MW en motores en la generación distribuida que se encuentran fuera por combustible, la entrada de la unidad 1 de la CTE Santa Cruz con 60 MW, la entrada de la patana de Melones con 35 MW y la entrada de 6 motores de Fuel Moa con 90 MW. \n\n📈Se estima para el horario pico una disponibilidad de 1815 MW y una demanda máxima de 3100 MW, para un déficit de 1285 MW, por lo que de mantenerse las condiciones previstas se pronostica una afectación de 1315 MW en este horario.\n  \nUNE-MINEM",
     "timestamp": 1767188444,
     "timestamp_local": 1767188444
-  },
-  {
-    "id": 37003,
-    "fecha": "31 de Dec del 2025 a las 08:18 AM",
-    "hora_utc": "2025-12-31 13:18",
-    "mensaje": "⚠️Afectados por déficit de capacidad de generación los siguientes circuitos:\n🔹Municipio Manicaragua\n👉Ctos 150\n👉Ctos 108 y 110 La Piedra\n👉Cto 111 Mataguá",
-    "timestamp": 1767187114,
-    "timestamp_local": 1767187114
-  },
-  {
-    "id": 37002,
-    "fecha": "31 de Dec del 2025 a las 08:13 AM",
-    "hora_utc": "2025-12-31 13:13",
-    "mensaje": "⚠️Afectados por déficit de capacidad de generación los siguientes circuitos:\n🔹Municipio Santa Clara:\n👉Cto 166 (Condado)\n👉Cto 167 (Virginia)\n👉Cto 28(Monumento Che)-168 (Condado- XX Aniversario)\n👉Cto 170 (José Martí)\n👉Cto 171 (Los Caneyes)",
-    "timestamp": 1767186807,
-    "timestamp_local": 1767186807
-  },
-  {
-    "id": 37001,
-    "fecha": "31 de Dec del 2025 a las 07:57 AM",
-    "hora_utc": "2025-12-31 12:57",
-    "mensaje": "🔸Actualización del servicio eléctrico en la provincia🔸\n✍️Se mantienen afectados en la provincia 60 circuitos.\n✍️En el momento de hacer esta nota la provincia tiene 36 MW por déficit de capacidad de generación.\n✍️Cuenta con 68 afectaciones por averías secundarias y de servicio.",
-    "timestamp": 1767185867,
-    "timestamp_local": 1767185867
-  },
-  {
-    "id": 37000,
-    "fecha": "31 de Dec del 2025 a las 07:00 AM",
-    "hora_utc": "2025-12-31 12:00",
-    "mensaje": "Afectados 31 MW en la provincia, demanda máxima a apagar en estos momentos.",
-    "timestamp": 1767182412,
-    "timestamp_local": 1767182412
   }
 ]
