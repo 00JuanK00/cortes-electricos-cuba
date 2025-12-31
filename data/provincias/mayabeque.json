@@ -1,5 +1,45 @@
 [
   {
+    "id": 102204,
+    "fecha": "30 de Dec del 2025 a las 09:22 PM",
+    "hora_utc": "2025-12-31 02:22",
+    "mensaje": "♦️ Afectado el servicio en el circuito Melena 2 por disparos en las líneas ♦️",
+    "timestamp": 1767147774,
+    "timestamp_local": 1767147774
+  },
+  {
+    "id": 102203,
+    "fecha": "30 de Dec del 2025 a las 09:14 PM",
+    "hora_utc": "2025-12-31 02:14",
+    "mensaje": "🚨 Continúa afectado el servicio en el circuito Bío -2 que se encontraba con servicio momentáneamente 🚨",
+    "timestamp": 1767147260,
+    "timestamp_local": 1767147260
+  },
+  {
+    "id": 102202,
+    "fecha": "30 de Dec del 2025 a las 09:02 PM",
+    "hora_utc": "2025-12-31 02:02",
+    "mensaje": "♦️ Afectado el servicio en el circuito 2440 por disparos en las líneas ♦️",
+    "timestamp": 1767146546,
+    "timestamp_local": 1767146546
+  },
+  {
+    "id": 102201,
+    "fecha": "30 de Dec del 2025 a las 08:49 PM",
+    "hora_utc": "2025-12-31 01:49",
+    "mensaje": "🔷 Restablecido el servicio en el circuito Bío -2 momentáneamente 🔷",
+    "timestamp": 1767145782,
+    "timestamp_local": 1767145782
+  },
+  {
+    "id": 102200,
+    "fecha": "30 de Dec del 2025 a las 08:43 PM",
+    "hora_utc": "2025-12-31 01:43",
+    "mensaje": "🔷♦️Se restablece el servicio en el circuito que se encontraba afectado  por déficit de capacidad de generación:\n*Melena 1 ♦️🔷",
+    "timestamp": 1767145391,
+    "timestamp_local": 1767145391
+  },
+  {
     "id": 102199,
     "fecha": "30 de Dec del 2025 a las 07:06 PM",
     "hora_utc": "2025-12-31 00:06",
@@ -118,45 +158,5 @@
     "mensaje": "🔷Con servicio el circuito ML -35 que se encontraba afectado por emergencia 🔷",
     "timestamp": 1767132325,
     "timestamp_local": 1767132325
-  },
-  {
-    "id": 102184,
-    "fecha": "30 de Dec del 2025 a las 04:46 PM",
-    "hora_utc": "2025-12-30 21:46",
-    "mensaje": "♦️ Afectado el servicio en el circuito ML-35 por emergencia ♦️",
-    "timestamp": 1767131215,
-    "timestamp_local": 1767131215
-  },
-  {
-    "id": 102183,
-    "fecha": "30 de Dec del 2025 a las 04:31 PM",
-    "hora_utc": "2025-12-30 21:31",
-    "mensaje": "🚨Por déficit de capacidad de generación se afecta el servicio en el siguiente circuito:\n*Ganuza 🚨",
-    "timestamp": 1767130308,
-    "timestamp_local": 1767130308
-  },
-  {
-    "id": 102182,
-    "fecha": "30 de Dec del 2025 a las 04:23 PM",
-    "hora_utc": "2025-12-30 21:23",
-    "mensaje": "🚨Por déficit de capacidad de generación se afecta el servicio en los siguientes circuitos:\n*Nueva Paz\n*2 de San José 🚨",
-    "timestamp": 1767129826,
-    "timestamp_local": 1767129826
-  },
-  {
-    "id": 102181,
-    "fecha": "30 de Dec del 2025 a las 04:07 PM",
-    "hora_utc": "2025-12-30 21:07",
-    "mensaje": "🚨Por déficit de capacidad de generación se afecta el servicio en el siguiente circuito:\n*Vega🚨",
-    "timestamp": 1767128863,
-    "timestamp_local": 1767128863
-  },
-  {
-    "id": 102180,
-    "fecha": "30 de Dec del 2025 a las 04:04 PM",
-    "hora_utc": "2025-12-30 21:04",
-    "mensaje": "🚨Por déficit de capacidad de generación se afecta el servicio en los siguientes circuitos:\n*Los Palos\n*Sureste🚨",
-    "timestamp": 1767128683,
-    "timestamp_local": 1767128683
   }
 ]
