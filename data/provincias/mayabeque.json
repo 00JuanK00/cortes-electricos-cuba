@@ -1,5 +1,21 @@
 [
   {
+    "id": 102289,
+    "fecha": "01 de Jan del 2026 a las 06:37 AM",
+    "hora_utc": "2026-01-01 11:37",
+    "mensaje": "♦️ Afectado el servicio en el circuito 3140 por disparo por DAF♦️",
+    "timestamp": 1767267428,
+    "timestamp_local": 1767267428
+  },
+  {
+    "id": 102287,
+    "fecha": "01 de Jan del 2026 a las 06:07 AM",
+    "hora_utc": "2026-01-01 11:07",
+    "mensaje": "🔷 Restablecido el servicio en el circuito 3140 que se encontraba afectado por disparo por DAF🔷",
+    "timestamp": 1767265622,
+    "timestamp_local": 1767265622
+  },
+  {
     "id": 102286,
     "fecha": "01 de Jan del 2026 a las 05:57 AM",
     "hora_utc": "2026-01-01 10:57",
@@ -46,21 +62,5 @@
     "mensaje": "🚨Por déficit de capacidad de generación se afecta el servicio en el siguiente circuito:\n*Sopapo 🚨",
     "timestamp": 1767221141,
     "timestamp_local": 1767221141
-  },
-  {
-    "id": 102268,
-    "fecha": "31 de Dec del 2025 a las 04:40 PM",
-    "hora_utc": "2025-12-31 21:40",
-    "mensaje": "🔷 Restablecido el servicio en el circuito 3140 que se encontraba afectado por DAF 🔷",
-    "timestamp": 1767217238,
-    "timestamp_local": 1767217238
-  },
-  {
-    "id": 102267,
-    "fecha": "31 de Dec del 2025 a las 04:21 PM",
-    "hora_utc": "2025-12-31 21:21",
-    "mensaje": "🔷 Restablecido el servicio en las siguientes zonas correspondientes al circuito Melena 2 que se encontraban afectados por vía libre:\n*La Palma\n*La Sabana 🔷",
-    "timestamp": 1767216085,
-    "timestamp_local": 1767216085
   }
 ]
