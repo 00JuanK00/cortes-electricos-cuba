@@ -1,5 +1,21 @@
 [
   {
+    "id": 37085,
+    "fecha": "01 de Jan del 2026 a las 12:08 PM",
+    "hora_utc": "2026-01-01 17:08",
+    "mensaje": "🛠️Afectado por vía libre el circuito 30 Capiro.",
+    "timestamp": 1767287291,
+    "timestamp_local": 1767287291
+  },
+  {
+    "id": 37084,
+    "fecha": "01 de Jan del 2026 a las 12:04 PM",
+    "hora_utc": "2026-01-01 17:04",
+    "mensaje": "🕛Actualización del servicio eléctrico en las últimas 6 horas.\n\n👉El déficit de capacidad de generación osciló entre los 0 MW y los 28 MW.\n👉En el momento de esta nota, se mantienen afectados 27 circuitos.\n👉Cuenta con 113 afectaciones por averías secundarias y de servicio:\n Caibarién (3)\n Camajuaní (2)\n Cifuentes (2)\n Corralillo (7)\n Encrucijada (1)\n Manicaragua (25)\n Placetas (5)\n Ranchuelo (7)\n Remedios (9) \n Sagua (11) \n Santa Clara (18)\n Santo Domingo (9)\n🛠️Se encuentran 5 averías en vías de solución.\n🛠️Pendientes a solucionar por el área técnica 11.\n\n⚡Averías⚡\nAfectadas Lineas 1210 y Linea 4608 por subconjunto al encontrarse partido un cable de alta tensión. \n➡️Línea 4608\n🔹Municipio Corralillo:\n👉Ctos 58 y 159\n👉Cto 57 Motembo\n👉Cto 56 Yabre\n👉Cto 60 La Sierra\n👉Cto 55 Rancho Veloz\n➡️Linea 1210\n🔹Municipio Quemado:\n👉Ctos 164, 52 y 53 Quemado.\n👉Cto 196 Batey Panchito Gómez Toro.(Avería se nesecita trabajo de brigada)\n👉Ctos 47, 49 Caguaguas",
+    "timestamp": 1767287097,
+    "timestamp_local": 1767287097
+  },
+  {
     "id": 37083,
     "fecha": "01 de Jan del 2026 a las 11:21 AM",
     "hora_utc": "2026-01-01 16:21",
@@ -126,21 +142,5 @@
     "mensaje": "⚠️Afectado el Cto 97 (Bermejal) perteneciente al Municipio Santo Domingo por disparo, se estudian las causas.",
     "timestamp": 1767240198,
     "timestamp_local": 1767240198
-  },
-  {
-    "id": 37066,
-    "fecha": "31 de Dec del 2025 a las 10:43 PM",
-    "hora_utc": "2026-01-01 03:43",
-    "mensaje": "🔸Actualización del servicio eléctrico en la provincia🔸\n✍️En el momento de hacer esta nota la provincia tiene 0 déficit de capacidad de generación.\n✍️Cuenta con 50 afectaciones por averías secundarias y de servicio.",
-    "timestamp": 1767239001,
-    "timestamp_local": 1767239001
-  },
-  {
-    "id": 37065,
-    "fecha": "31 de Dec del 2025 a las 10:40 PM",
-    "hora_utc": "2026-01-01 03:40",
-    "mensaje": "⚠️Afectadas Lineas 1210 y Linea 4608 por subconjunto al encontrarse partido un cable de alta tensión. \n➡️Línea 4608\n🔹Municipio Corralillo:\n👉Ctos 58 y 159\n👉Cto 57 Motembo\n👉Cto 56 Yabre\n👉Cto 60 La Sierra\n👉Cto 55 Rancho Veloz\n➡️Linea 1210\n🔹Municipio Quemado:\n👉Ctos 164, 52 y 53 Quemado.\n👉Cto 196 Batey Panchito Gómez Toro.\n👉Ctos 47, 49 Caguaguas\n👉Ctos 45, 197 Jumagua",
-    "timestamp": 1767238837,
-    "timestamp_local": 1767238837
   }
 ]
