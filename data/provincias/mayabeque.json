@@ -1,5 +1,21 @@
 [
   {
+    "id": 102327,
+    "fecha": "01 de Jan del 2026 a las 06:40 PM",
+    "hora_utc": "2026-01-01 23:40",
+    "mensaje": "🚨Por déficit de capacidad de generación se afecta el servicio en los siguientes circuitos:\n*Catalina 1 y 2🚨",
+    "timestamp": 1767310833,
+    "timestamp_local": 1767310833
+  },
+  {
+    "id": 102324,
+    "fecha": "01 de Jan del 2026 a las 06:04 PM",
+    "hora_utc": "2026-01-01 23:04",
+    "mensaje": "🔷 Restablecido el servicio en el circuito 3590 que se encontraba afectado por disparo por DAF🔷",
+    "timestamp": 1767308689,
+    "timestamp_local": 1767308689
+  },
+  {
     "id": 102323,
     "fecha": "01 de Jan del 2026 a las 05:27 PM",
     "hora_utc": "2026-01-01 22:27",
@@ -110,29 +126,5 @@
     "mensaje": "♦️ Afectado el servicio en el circuito 3140 por disparo por DAF♦️",
     "timestamp": 1767297720,
     "timestamp_local": 1767297720
-  },
-  {
-    "id": 102306,
-    "fecha": "01 de Jan del 2026 a las 02:52 PM",
-    "hora_utc": "2026-01-01 19:52",
-    "mensaje": "🔷 Restablecido el servicio en el circuito 3140 que se encontraba afectado por disparo por DAF🔷",
-    "timestamp": 1767297138,
-    "timestamp_local": 1767297138
-  },
-  {
-    "id": 102305,
-    "fecha": "01 de Jan del 2026 a las 02:24 PM",
-    "hora_utc": "2026-01-01 19:24",
-    "mensaje": "♦️ Afectado el servicio en el circuito 3140 por disparo por DAF♦️",
-    "timestamp": 1767295473,
-    "timestamp_local": 1767295473
-  },
-  {
-    "id": 102304,
-    "fecha": "01 de Jan del 2026 a las 01:45 PM",
-    "hora_utc": "2026-01-01 18:45",
-    "mensaje": "🔷 Restablecido el servicio en los siguientes circuitos que se encontraban afectados por vía libre:\n*Surgidero\n*Sopapo🔷",
-    "timestamp": 1767293146,
-    "timestamp_local": 1767293146
   }
 ]
