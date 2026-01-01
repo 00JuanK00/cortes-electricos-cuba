@@ -1,5 +1,37 @@
 [
   {
+    "id": 102323,
+    "fecha": "01 de Jan del 2026 a las 05:27 PM",
+    "hora_utc": "2026-01-01 22:27",
+    "mensaje": "♦️ Afectado el servicio en el circuito 3590 por disparo por DAF♦️",
+    "timestamp": 1767306447,
+    "timestamp_local": 1767306447
+  },
+  {
+    "id": 102322,
+    "fecha": "01 de Jan del 2026 a las 05:27 PM",
+    "hora_utc": "2026-01-01 22:27",
+    "mensaje": "♦️ Afectado el servicio en el circuito 3140 por disparo por DAF♦️",
+    "timestamp": 1767306421,
+    "timestamp_local": 1767306421
+  },
+  {
+    "id": 102321,
+    "fecha": "01 de Jan del 2026 a las 05:13 PM",
+    "hora_utc": "2026-01-01 22:13",
+    "mensaje": "🔷 Restablecido el servicio en el circuito 3140 que se encontraba afectado por disparo por DAF🔷",
+    "timestamp": 1767305599,
+    "timestamp_local": 1767305599
+  },
+  {
+    "id": 102320,
+    "fecha": "01 de Jan del 2026 a las 05:12 PM",
+    "hora_utc": "2026-01-01 22:12",
+    "mensaje": "♦️ Afectado el servicio en el circuito 3140 por disparo por DAF♦️",
+    "timestamp": 1767305540,
+    "timestamp_local": 1767305540
+  },
+  {
     "id": 102319,
     "fecha": "01 de Jan del 2026 a las 04:27 PM",
     "hora_utc": "2026-01-01 21:27",
@@ -102,29 +134,5 @@
     "mensaje": "🔷 Restablecido el servicio en los siguientes circuitos que se encontraban afectados por vía libre:\n*Surgidero\n*Sopapo🔷",
     "timestamp": 1767293146,
     "timestamp_local": 1767293146
-  },
-  {
-    "id": 102303,
-    "fecha": "01 de Jan del 2026 a las 01:30 PM",
-    "hora_utc": "2026-01-01 18:30",
-    "mensaje": "🔷 Restablecido el servicio en el circuito Batabanó que se encontraba afectado por vía libre🔷",
-    "timestamp": 1767292239,
-    "timestamp_local": 1767292239
-  },
-  {
-    "id": 102302,
-    "fecha": "01 de Jan del 2026 a las 01:17 PM",
-    "hora_utc": "2026-01-01 18:17",
-    "mensaje": "🔷 Restablecido el servicio en el circuito Camacho que se encontraba afectado por vía libre🔷",
-    "timestamp": 1767291468,
-    "timestamp_local": 1767291468
-  },
-  {
-    "id": 102300,
-    "fecha": "01 de Jan del 2026 a las 12:27 PM",
-    "hora_utc": "2026-01-01 17:27",
-    "mensaje": "♦️ Afectado el servicio en los siguientes circuitos por vía libre:\n*Surgidero\n*Batabanó ♦️",
-    "timestamp": 1767288446,
-    "timestamp_local": 1767288446
   }
 ]
