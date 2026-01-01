@@ -1,5 +1,29 @@
 [
   {
+    "id": 102319,
+    "fecha": "01 de Jan del 2026 a las 04:27 PM",
+    "hora_utc": "2026-01-01 21:27",
+    "mensaje": "🚨Por déficit de capacidad de generación se afecta el servicio en los siguientes circuitos:\n*Güines 4\n*Güines 3 🚨",
+    "timestamp": 1767302845,
+    "timestamp_local": 1767302845
+  },
+  {
+    "id": 102318,
+    "fecha": "01 de Jan del 2026 a las 04:07 PM",
+    "hora_utc": "2026-01-01 21:07",
+    "mensaje": "🚨Por déficit de capacidad de generación se afecta el servicio en el siguiente circuito:\n*ML-35🚨",
+    "timestamp": 1767301648,
+    "timestamp_local": 1767301648
+  },
+  {
+    "id": 102317,
+    "fecha": "01 de Jan del 2026 a las 04:01 PM",
+    "hora_utc": "2026-01-01 21:01",
+    "mensaje": "🔷 Restablecido el servicio en el circuito 3590 que se encontraba afectado por disparo por DAF🔷",
+    "timestamp": 1767301279,
+    "timestamp_local": 1767301279
+  },
+  {
     "id": 102316,
     "fecha": "01 de Jan del 2026 a las 03:59 PM",
     "hora_utc": "2026-01-01 20:59",
@@ -102,21 +126,5 @@
     "mensaje": "♦️ Afectado el servicio en los siguientes circuitos por vía libre:\n*Surgidero\n*Batabanó ♦️",
     "timestamp": 1767288446,
     "timestamp_local": 1767288446
-  },
-  {
-    "id": 102299,
-    "fecha": "01 de Jan del 2026 a las 11:49 AM",
-    "hora_utc": "2026-01-01 16:49",
-    "mensaje": "♦️ Afectado el servicio en el circuito Sopapo por vía libre♦️",
-    "timestamp": 1767286194,
-    "timestamp_local": 1767286194
-  },
-  {
-    "id": 102298,
-    "fecha": "01 de Jan del 2026 a las 11:49 AM",
-    "hora_utc": "2026-01-01 16:49",
-    "mensaje": "♦️ Afectado el servicio en el circuito Camacho por vía libre♦️",
-    "timestamp": 1767286153,
-    "timestamp_local": 1767286153
   }
 ]
