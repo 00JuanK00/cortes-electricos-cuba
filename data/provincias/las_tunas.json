@@ -1,5 +1,13 @@
 [
   {
+    "id": 17665,
+    "fecha": "01 de Jan del 2026 a las 10:28 PM",
+    "hora_utc": "2026-01-02 03:28",
+    "mensaje": "Restablecido todos los circuitos por déficit de capacidad de generación",
+    "timestamp": 1767324481,
+    "timestamp_local": 1767324481
+  },
+  {
     "id": 17663,
     "fecha": "01 de Jan del 2026 a las 05:54 PM",
     "hora_utc": "2026-01-01 22:54",
@@ -86,13 +94,5 @@
     "mensaje": "**Nota Informativa: Estado del Sistema Eléctrico Nacional (SEN) – 31 de diciembre de 2025**\n\nEn el día de ayer se afectó el servicio durante las 24 horas, logrando restablecerse la afectación a las 02:44 de esta madrugada, a las 05:04 se comienza a afectar el servicio por déficit nuevamente. La máxima afectación por déficit de capacidad de generación en el día de ayer fue de 1660 MW a las 18:10 horas, coincidente con la hora de máxima demanda.\n\n La producción de energía de los 34 nuevos parques solares fotovoltaicos fue de 3038 MWh, con 573 MW como máxima potencia entregada en el horario de la media con esta fuent\ne**Estado actual del SE**\n\nNLa disponibilidad del SEN a las 06:00 horas es de 1480 MW y la demanda 1900 MW con 412 MW afectados por déficit de capacidad. En el horario de la media se estima una afectación de 250 MW\n. **Principales incidenci**\n\nasAvería: Unidades 5 de la CTE Mariel, Unidad 2 de la CTE Felton, Unidad 6 de la CTE Renté y Unidad 1 de la CTE Santa Cruz.Ma\nntenimiento: Unidad 2 de la CTE Santa Cruz, Unidad 4 de la CTE Carlos Manuel de Céspedes en Cienfuegos.Limita\nciones en la generación térmica: 603 MW fuera de servicio.Problemas \npor falta de combustible63 centrales d\ne generación distribuida con 609 MW.90 MW en la Central Fu\nel de Moa35 MW de la Patana de Melones1\n42 MW indisponibles por falta de lubr\nicante.Total de MW afectados por esta causa: 872 MW.P\n**ronóstico para el horario pico**Para el pico se pronost\n\nica la recuperación de 150 MW e\n\nn motores en la generación distribuida que se encuentran fuera por combustible, la entrada de la unidad 1 de la CTE Santa Cruz con 60 MW, la entrada de la patana de Melones con 35 MW y la entrada de 6 motores de Fuel Moa con 90 MW. Se estima para el horario pico una disponibilidad de \n\n1815 MW y una demanda máxima de 3100 MW, para un déficit de 1285 MW, por lo que de mantenerse las condiciones previstas se pronostica una afectación de 1315 MW en este horario.",
     "timestamp": 1767197121,
     "timestamp_local": 1767197121
-  },
-  {
-    "id": 17645,
-    "fecha": "31 de Dec del 2025 a las 09:35 AM",
-    "hora_utc": "2025-12-31 14:35",
-    "mensaje": "Cerrado circuito KV 2020",
-    "timestamp": 1767191742,
-    "timestamp_local": 1767191742
   }
 ]
