@@ -1,5 +1,13 @@
 [
   {
+    "id": 37138,
+    "fecha": "02 de Jan del 2026 a las 04:02 AM",
+    "hora_utc": "2026-01-02 09:02",
+    "mensaje": "🔸Actualización del servicio eléctrico en la provincia🔸\n✍️Se mantienen afectados en la provincia 0 circuitos.\n✍️En el momento de hacer esta nota la provincia tiene 0 MW por déficit de capacidad de generación.\n✍️Cuenta con 81 afectaciones por averías secundarias y de servicio.",
+    "timestamp": 1767344578,
+    "timestamp_local": 1767344578
+  },
+  {
     "id": 37136,
     "fecha": "02 de Jan del 2026 a las 02:03 AM",
     "hora_utc": "2026-01-02 07:03",
@@ -126,21 +134,5 @@
     "mensaje": "💡Con servicio eléctrico los siguientes circuitos:\n👉Municipio Santa Clara:\nCto 166 (Condado)\nCto 167 (Virginia)\nCto 170 (José Martí)\nCto 171 (Los Caneyes)",
     "timestamp": 1767312326,
     "timestamp_local": 1767312326
-  },
-  {
-    "id": 37118,
-    "fecha": "01 de Jan del 2026 a las 06:01 PM",
-    "hora_utc": "2026-01-01 23:01",
-    "mensaje": "🕕Actualización del servicio eléctrico en las últimas 6 horas.\n\n👉El déficit de capacidad de generación osciló entre los 28 MW y los 116 MW.\n👉En el momento de esta nota, se mantienen afectados 113 circuitos.\n👉Cuenta con 110 afectaciones por averías secundarias y de servicio:\n Cifuentes (2)\n Corralillo (9)\n Encrucijada (1)\n Manicaragua (27)\n Placetas (4)\n Quemado (1)\n Remedios (12) \n Sagua (15) \n Santa Clara (18)\n Santo Domingo (5)\n🛠️Se encuentran 2 averías en vías de solución.\n🛠️Pendientes a solucionar por el área técnica 13.\n⚡La provincia no presenta averías primarias.",
-    "timestamp": 1767308488,
-    "timestamp_local": 1767308488
-  },
-  {
-    "id": 37117,
-    "fecha": "01 de Jan del 2026 a las 05:49 PM",
-    "hora_utc": "2026-01-01 22:49",
-    "mensaje": "⚠️Afectados por déficit de capacidad de generación los siguientes circuitos:\n👉Municipio Santa Clara:\nCtos 1, 2, 4 (Consejo- Centro)\nCto 6 (Vigía)",
-    "timestamp": 1767307795,
-    "timestamp_local": 1767307795
   }
 ]
