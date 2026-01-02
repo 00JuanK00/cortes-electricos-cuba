@@ -1,5 +1,37 @@
 [
   {
+    "id": 102331,
+    "fecha": "01 de Jan del 2026 a las 07:29 PM",
+    "hora_utc": "2026-01-02 00:29",
+    "mensaje": "🔷 Restablecido el servicio en el circuito 3140 que se encontraba afectado por disparo por DAF🔷",
+    "timestamp": 1767313770,
+    "timestamp_local": 1767313770
+  },
+  {
+    "id": 102330,
+    "fecha": "01 de Jan del 2026 a las 07:07 PM",
+    "hora_utc": "2026-01-02 00:07",
+    "mensaje": "🔷♦️Se restablece el servicio en los siguientes circuitos que se encontraban afectados  por déficit de capacidad de generación:\n*Güines 4\n*Güines 3 ♦️🔷",
+    "timestamp": 1767312458,
+    "timestamp_local": 1767312458
+  },
+  {
+    "id": 102329,
+    "fecha": "01 de Jan del 2026 a las 06:59 PM",
+    "hora_utc": "2026-01-01 23:59",
+    "mensaje": "🔷♦️Se restablece el servicio en el circuito que se encontraba afectado  por déficit de capacidad de generación:\n*ML-35♦️🔷",
+    "timestamp": 1767311962,
+    "timestamp_local": 1767311962
+  },
+  {
+    "id": 102328,
+    "fecha": "01 de Jan del 2026 a las 06:58 PM",
+    "hora_utc": "2026-01-01 23:58",
+    "mensaje": "🚨Por déficit de capacidad de generación se afecta el servicio en el siguiente circuito:\n*3665🚨",
+    "timestamp": 1767311886,
+    "timestamp_local": 1767311886
+  },
+  {
     "id": 102327,
     "fecha": "01 de Jan del 2026 a las 06:40 PM",
     "hora_utc": "2026-01-01 23:40",
@@ -110,21 +142,5 @@
     "mensaje": "🔷 Restablecido el servicio en el circuito 3590 que se encontraba afectado por disparo por DAF🔷",
     "timestamp": 1767299572,
     "timestamp_local": 1767299572
-  },
-  {
-    "id": 102311,
-    "fecha": "01 de Jan del 2026 a las 03:03 PM",
-    "hora_utc": "2026-01-01 20:03",
-    "mensaje": "♦️ Afectado el servicio en el circuito 3590 por disparo por DAF♦️",
-    "timestamp": 1767297804,
-    "timestamp_local": 1767297804
-  },
-  {
-    "id": 102310,
-    "fecha": "01 de Jan del 2026 a las 03:02 PM",
-    "hora_utc": "2026-01-01 20:02",
-    "mensaje": "♦️ Afectado el servicio en el circuito 3140 por disparo por DAF♦️",
-    "timestamp": 1767297720,
-    "timestamp_local": 1767297720
   }
 ]
