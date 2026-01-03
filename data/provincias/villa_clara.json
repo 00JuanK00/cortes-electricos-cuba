@@ -1,5 +1,29 @@
 [
   {
+    "id": 37233,
+    "fecha": "03 de Jan del 2026 a las 11:26 AM",
+    "hora_utc": "2026-01-03 16:26",
+    "mensaje": "⚠️Afectados por déficit de capacidad de generación los siguientes circuitos:\n🔹Municipio Quemado:\n👉Ctos 164, 52 y 53 Quemado.\n👉Cto 196 Batey Panchito Gómez Toro.\n🔹Municipio Corralillo:\n👉Ctos 58 y 159\n👉Cto 57 Motembo\n👉Cto 56 Yabre\n👉Cto 60 La Sierra\n👉Cto 55 Rancho Veloz",
+    "timestamp": 1767457573,
+    "timestamp_local": 1767457573
+  },
+  {
+    "id": 37232,
+    "fecha": "03 de Jan del 2026 a las 11:19 AM",
+    "hora_utc": "2026-01-03 16:19",
+    "mensaje": "⚠️Afectados por déficit de capacidad de generación los siguientes circuitos:\n🔹Municipio Encrucijada\n👉Cto 120 Calabaza\n👉Ctos 121 y 127 Perucho",
+    "timestamp": 1767457174,
+    "timestamp_local": 1767457174
+  },
+  {
+    "id": 37231,
+    "fecha": "03 de Jan del 2026 a las 11:13 AM",
+    "hora_utc": "2026-01-03 16:13",
+    "mensaje": "Afectados 84 MW por déficit de capacidad de generación, demanda máxima a apagar en estos momentos.",
+    "timestamp": 1767456782,
+    "timestamp_local": 1767456782
+  },
+  {
     "id": 37230,
     "fecha": "03 de Jan del 2026 a las 11:00 AM",
     "hora_utc": "2026-01-03 16:00",
@@ -30,14 +54,6 @@
     "mensaje": "⚠️Afectado por déficit de capacidad de generación el Cto 170 (José Martí), perteneciente al municipio Santa Clara.",
     "timestamp": 1767452255,
     "timestamp_local": 1767452255
-  },
-  {
-    "id": 37226,
-    "fecha": "03 de Jan del 2026 a las 09:52 AM",
-    "hora_utc": "2026-01-03 14:52",
-    "mensaje": "⚠️Afectados por déficit de capacidad de generación los siguientes circuitos:\n🔹Municipio Cifuentes:\n👉Ctos 114 y 117\n👉Ctos 116 y 155 Mata\n👉Cto 186 Batey Unidad Proletaria\n👉Cto 184 Sitio Grande",
-    "timestamp": 1767451925,
-    "timestamp_local": 1767451925
   },
   {
     "id": 37225,
@@ -142,21 +158,5 @@
     "mensaje": "🕕Actualización del servicio eléctrico en las últimas 6 horas.\n👉El déficit de capacidad de generación osciló entre los 0 MW y los 14 MW. \n👉En el momento de esta nota, se encuentran afectados 30 circuitos.\n👉Cuenta con 112 afectaciones por averías secundarias y de servicio:\n🔸Cifuentes (1)\n🔸Corralillo (4)\n🔸Encrucijada (1)\n🔸Manicaragua (13)\n🔸Placetas (7)\n🔸Quemado (1)\n🔸Ranchuelo (13)\n🔸Remedios (20) \n🔸Sagua (10) \n🔸Santa Clara (11)\n🔸Santo Domingo (7)\n🛠️Se encuentran 4 averías en vías de solución.\n🛠️Pendientes a solucionar por el área técnica 20.\n⚡La provincia presenta 1 avería primaria en el circuito 111 (Mataguá), del municipio Manicaragua.(Afectada la línea por déficit de capacidad de generación)",
     "timestamp": 1767437966,
     "timestamp_local": 1767437966
-  },
-  {
-    "id": 37211,
-    "fecha": "03 de Jan del 2026 a las 05:53 AM",
-    "hora_utc": "2026-01-03 10:53",
-    "mensaje": "⚠️Afectados por déficit de capacidad de generación los siguientes circuitos:\n🔹Municipio Santo Domingo:\n👉Cto 195 Batey George Washington\n👉Ctos 83 y 165 Manacas\n👉Ctos 85 y 86 Pajarito\n👉Ctos 160 y 161 Cascajal",
-    "timestamp": 1767437617,
-    "timestamp_local": 1767437617
-  },
-  {
-    "id": 37210,
-    "fecha": "03 de Jan del 2026 a las 05:52 AM",
-    "hora_utc": "2026-01-03 10:52",
-    "mensaje": "⚠️Afectados por déficit de capacidad de generación los siguientes circuitos:\n🔹Municipio Manicaragua:\nCtos 109 y 150\nCtos 108 y 110 La Piedra\nCto 111 Mataguá (Avería\n🔹Municipio Encrucijada\nCto 120 Calabazar\nCtos 121 y 127 Perucho\n🔹Municipio Camajuaní:\nCto 75 La Quinta\nCto 157 Luis Arcos Bergnes\nCtos 76 y 90 Vega Alta\nCtos 77, 59 y 185 Vueltas",
-    "timestamp": 1767437525,
-    "timestamp_local": 1767437525
   }
 ]
