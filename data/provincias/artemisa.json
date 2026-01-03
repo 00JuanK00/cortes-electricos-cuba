@@ -1,5 +1,37 @@
 [
   {
+    "id": 34979,
+    "fecha": "03 de Jan del 2026 a las 08:03 AM",
+    "hora_utc": "2026-01-03 13:03",
+    "mensaje": "🚨‼️ Tenemos una afectación en estos momentos de 70 MW en la provincia",
+    "timestamp": 1767445387,
+    "timestamp_local": 1767445387
+  },
+  {
+    "id": 34978,
+    "fecha": "03 de Jan del 2026 a las 07:19 AM",
+    "hora_utc": "2026-01-03 12:19",
+    "mensaje": "🚨 Afectado por Deficit de Generación\n➡️ Circuito 236 de Bahía Honda\n➡️ Circuito Sub Provisional de Bahía Honda\n⛔ Tenemos una afectación de 50MW en la Provincia ⛔",
+    "timestamp": 1767442783,
+    "timestamp_local": 1767442783
+  },
+  {
+    "id": 34977,
+    "fecha": "03 de Jan del 2026 a las 07:19 AM",
+    "hora_utc": "2026-01-03 12:19",
+    "mensaje": "🚨 Afectado por Deficit de Generación\n➡️ Circuito 1940 de San Antonio\n⛔ Tenemos una afectación de 30 MW en la Provincia ⛔",
+    "timestamp": 1767442777,
+    "timestamp_local": 1767442777
+  },
+  {
+    "id": 34976,
+    "fecha": "03 de Jan del 2026 a las 07:07 AM",
+    "hora_utc": "2026-01-03 12:07",
+    "mensaje": "🚨 Afectado por Deficit de Generación\n➡️ Circuito Güira 13 mil\n➡️ Circuito Güira 4 mil\n➡️ Circuito S.20 de San Cristóbal\n➡️ Circuito 4 Caminos de San Cristóbal\n➡️ Circuito Martí de San Cristóbal\n➡️ Circuito 1570 de Artemisa y Candelaria\n➡️ Circuito Junco de Güira de Melena",
+    "timestamp": 1767442048,
+    "timestamp_local": 1767442048
+  },
+  {
     "id": 34975,
     "fecha": "02 de Jan del 2026 a las 10:42 PM",
     "hora_utc": "2026-01-03 03:42",
@@ -126,37 +158,5 @@
     "mensaje": "🚨 Afectado por deficit de generación\n\n➡️ Pedro Díaz de Güira de Melena\n\n‼️Tenemos una afectación de 124MW",
     "timestamp": 1767306838,
     "timestamp_local": 1767306838
-  },
-  {
-    "id": 34959,
-    "fecha": "01 de Jan del 2026 a las 04:26 PM",
-    "hora_utc": "2026-01-01 21:26",
-    "mensaje": "🚨 Afectado por deficit de generación\n\n➡️1570 de Artemisa y Candelaria\n\n‼️Tenemos una afectación de 88MW",
-    "timestamp": 1767302785,
-    "timestamp_local": 1767302785
-  },
-  {
-    "id": 34958,
-    "fecha": "01 de Jan del 2026 a las 04:26 PM",
-    "hora_utc": "2026-01-01 21:26",
-    "mensaje": "🚨 Afectado por deficit de generación\n➡️1940 de San Antonio\n➡️Bauta Vieja\n‼️Tenemos una afectación de 78MW",
-    "timestamp": 1767302785,
-    "timestamp_local": 1767302785
-  },
-  {
-    "id": 34957,
-    "fecha": "01 de Jan del 2026 a las 03:53 PM",
-    "hora_utc": "2026-01-01 20:53",
-    "mensaje": "🚨 Afectado por deficit de generación\n\n➡️236 de Bahía Honda\n➡️Playa Baracoa \n➡️Mani de San Cristóbal\n➡️Sub San Cristóbal, 4 Caminos y  el Martí de San Cristóbal\n\n‼️Tenemos una afectación de 50MW",
-    "timestamp": 1767300812,
-    "timestamp_local": 1767300812
-  },
-  {
-    "id": 34956,
-    "fecha": "01 de Jan del 2026 a las 11:32 AM",
-    "hora_utc": "2026-01-01 16:32",
-    "mensaje": "🚨 Afectado por deficit de generación\n\n➡️1500 de Artemisa \n\n‼️Tenemos una afectación de 31MW",
-    "timestamp": 1767285164,
-    "timestamp_local": 1767285164
   }
 ]
