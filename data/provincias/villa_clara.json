@@ -1,5 +1,37 @@
 [
   {
+    "id": 37288,
+    "fecha": "04 de Jan del 2026 a las 08:37 AM",
+    "hora_utc": "2026-01-04 13:37",
+    "mensaje": "💡Con servicio el Cto 196 (Panchito Gómez Toro)",
+    "timestamp": 1767533838,
+    "timestamp_local": 1767533838
+  },
+  {
+    "id": 37287,
+    "fecha": "04 de Jan del 2026 a las 08:36 AM",
+    "hora_utc": "2026-01-04 13:36",
+    "mensaje": "⚠️Afectados por disparo en la Sub  de Corralillo los siguientes Ctos 58 y 159(Corralillo), queda faltando una fase.",
+    "timestamp": 1767533778,
+    "timestamp_local": 1767533778
+  },
+  {
+    "id": 37286,
+    "fecha": "04 de Jan del 2026 a las 08:33 AM",
+    "hora_utc": "2026-01-04 13:33",
+    "mensaje": "⚠️Afectado el Cto 196 (Panchito Gómez Toro) por disparo , se estudian las causas.",
+    "timestamp": 1767533596,
+    "timestamp_local": 1767533596
+  },
+  {
+    "id": 37285,
+    "fecha": "04 de Jan del 2026 a las 08:23 AM",
+    "hora_utc": "2026-01-04 13:23",
+    "mensaje": "⚠️Afectados por déficit de capacidad de generación los siguientes circuitos:\n🔹Municipio Santa Clara:\n👉Cto 166 (Condado)\n👉Cto 167 (Virginia)\n👉Cto 170 (José Martí)\n👉Cto 171 (Los Caneyes)",
+    "timestamp": 1767533017,
+    "timestamp_local": 1767533017
+  },
+  {
     "id": 37284,
     "fecha": "04 de Jan del 2026 a las 08:01 AM",
     "hora_utc": "2026-01-04 13:01",
@@ -126,37 +158,5 @@
     "mensaje": "‼️Ante cualquier duda con la terminología eléctrica, les volvemos explicar: \n     \n✍️Las averías pueden ser primarias (afecta un volumen grande de población pues son las líneas de distribución a 13.8kV y puede afectar varias manzanas, incluso repartos completos).\n\n✍️Secundarias (afecta a todos los clientes que se alimenten del mismo transformador, puede afectar una o varias cuadras). \n\n✍️De servicio (afectan 1 solo cliente o instalación generalmente producto a daños en la acometida, metro contador, etc.).",
     "timestamp": 1767501419,
     "timestamp_local": 1767501419
-  },
-  {
-    "id": 37268,
-    "fecha": "03 de Jan del 2026 a las 11:04 PM",
-    "hora_utc": "2026-01-04 04:04",
-    "mensaje": "Afectados 59 MW por déficit de capacidad de generación, demanda máxima a apagar en estos momentos.",
-    "timestamp": 1767499449,
-    "timestamp_local": 1767499449
-  },
-  {
-    "id": 37267,
-    "fecha": "03 de Jan del 2026 a las 10:22 PM",
-    "hora_utc": "2026-01-04 03:22",
-    "mensaje": "💡Con servicio los siguientes circuitos:\n🔹Municipio Ranchuelo:\n👉Cto 92 Esperanza (Pueblo)\n👉Cto 93 Esperanza (Campo)\n👉Ctos 54, 94 y 95 Jicotea\n🔹Municipio Santa Clara\n👉Ctos 26 y 141 (Manuelita)\n👉Cto 191 (Quemado de Hilario) \n🔹Municipio Santo Domingo\n👉Cto 79 (Santo Domingo)\n👉Cto 81 (26 de Julio)\n👉Cto 163 (Batey 26 de Julio",
-    "timestamp": 1767496934,
-    "timestamp_local": 1767496934
-  },
-  {
-    "id": 37266,
-    "fecha": "03 de Jan del 2026 a las 10:13 PM",
-    "hora_utc": "2026-01-04 03:13",
-    "mensaje": "🔸Actualización del servicio eléctrico en la provincia🔸\n✍️Se mantienen afectados en la provincia 154 circuitos.\n✍️En el momento de hacer esta nota la provincia tiene 96 MW por déficit de capacidad de generación.\n✍️Cuenta con 48 afectaciones por averías secundarias y de servicio.",
-    "timestamp": 1767496383,
-    "timestamp_local": 1767496383
-  },
-  {
-    "id": 37265,
-    "fecha": "03 de Jan del 2026 a las 09:31 PM",
-    "hora_utc": "2026-01-04 02:31",
-    "mensaje": "💡Con servicio los siguientes circuitos:\n🔹Municipio Manicaragua:\n👉Ctos 109 y 150",
-    "timestamp": 1767493871,
-    "timestamp_local": 1767493871
   }
 ]
