@@ -1,5 +1,21 @@
 [
   {
+    "id": 37321,
+    "fecha": "04 de Jan del 2026 a las 03:59 PM",
+    "hora_utc": "2026-01-04 20:59",
+    "mensaje": "⚠️Afectados por déficit de capacidad de generación el  circuito 112 (Hoyo Manicaragua)",
+    "timestamp": 1767560399,
+    "timestamp_local": 1767560399
+  },
+  {
+    "id": 37320,
+    "fecha": "04 de Jan del 2026 a las 03:53 PM",
+    "hora_utc": "2026-01-04 20:53",
+    "mensaje": "⚠️Afectados por déficit de capacidad de generación los siguientes circuitos:\n🔹Municipio Placetas:\n👉Cto 101 y 145 Cumbre",
+    "timestamp": 1767559981,
+    "timestamp_local": 1767559981
+  },
+  {
     "id": 37319,
     "fecha": "04 de Jan del 2026 a las 03:48 PM",
     "hora_utc": "2026-01-04 20:48",
@@ -142,21 +158,5 @@
     "mensaje": "💡Con servicio el Cto 169 (Condado), Municipio Santa Clara",
     "timestamp": 1767543938,
     "timestamp_local": 1767543938
-  },
-  {
-    "id": 37301,
-    "fecha": "04 de Jan del 2026 a las 11:16 AM",
-    "hora_utc": "2026-01-04 16:16",
-    "mensaje": "Afectados 62 MW por déficit de capacidad de generación, demanda máxima a apagar en estos momentos.",
-    "timestamp": 1767543392,
-    "timestamp_local": 1767543392
-  },
-  {
-    "id": 37300,
-    "fecha": "04 de Jan del 2026 a las 11:12 AM",
-    "hora_utc": "2026-01-04 16:12",
-    "mensaje": "⚠️Afectados por déficit de capacidad de generación los siguientes circuitos:\n🔹Municipio Remedios:\n👉Ctos 67 y 152, 68 y 118",
-    "timestamp": 1767543138,
-    "timestamp_local": 1767543138
   }
 ]
