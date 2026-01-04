@@ -1,5 +1,37 @@
 [
   {
+    "id": 48025,
+    "fecha": "04 de Jan del 2026 a las 12:16 PM",
+    "hora_utc": "2026-01-04 17:16",
+    "mensaje": "🔊Estimados clientes en estos momentos se encuentra afectados por Déficit de Capacidad de Generación el circuito 19",
+    "timestamp": 1767546989,
+    "timestamp_local": 1767546989
+  },
+  {
+    "id": 48024,
+    "fecha": "04 de Jan del 2026 a las 12:14 PM",
+    "hora_utc": "2026-01-04 17:14",
+    "mensaje": "🚨Disparo:  \nApertura no voluntaria de un interruptor como vía de protección para desconectar uno o varios elementos del circuito, subestación o sistema, restableciéndose el servicio rápidamente en dependencia de la causa.",
+    "timestamp": 1767546857,
+    "timestamp_local": 1767546857
+  },
+  {
+    "id": 48023,
+    "fecha": "04 de Jan del 2026 a las 12:12 PM",
+    "hora_utc": "2026-01-04 17:12",
+    "mensaje": "🔊Estimados clientes en estos momentos se encuentra disparado el circuito de San Juan",
+    "timestamp": 1767546772,
+    "timestamp_local": 1767546772
+  },
+  {
+    "id": 48022,
+    "fecha": "04 de Jan del 2026 a las 12:11 PM",
+    "hora_utc": "2026-01-04 17:11",
+    "mensaje": "🔊Estimados clientes en estos momentos se encuentra afectados por Déficit de Capacidad de Generación los circuitos 12 ,  2 de Santiago , 1 ,2 de Contramaestre , 2 de Palma y Las Líneas  5380 San Luis - Mella , 4395 Contramaestre -III Frente",
+    "timestamp": 1767546661,
+    "timestamp_local": 1767546661
+  },
+  {
     "id": 48021,
     "fecha": "04 de Jan del 2026 a las 10:12 AM",
     "hora_utc": "2026-01-04 15:12",
@@ -110,29 +142,5 @@
     "mensaje": "Manipulaciones:\nAcción que se realizan en los circuitos para dar paso al trabajo en zonas afectadas por averías o Vía Libre y posteriormente para restablecer el servicio eléctrico en los circuitos que se encontraban afectados y en los que se trabaja con anterioridad, luego de culminadas las labores pertinentes.",
     "timestamp": 1767503278,
     "timestamp_local": 1767503278
-  },
-  {
-    "id": 48005,
-    "fecha": "04 de Jan del 2026 a las 12:07 AM",
-    "hora_utc": "2026-01-04 05:07",
-    "mensaje": "Estimados clientes se les informa que el circuito 10 de Santiago se encuentra en manipulación. Disculpen las molestias ocasionadas",
-    "timestamp": 1767503229,
-    "timestamp_local": 1767503229
-  },
-  {
-    "id": 48004,
-    "fecha": "03 de Jan del 2026 a las 11:08 PM",
-    "hora_utc": "2026-01-04 04:08",
-    "mensaje": "Disparo automático de frecuencia (DAF).  Es una protección que posee el sistema eléctrico, para cuando la frecuencia llega a valores mínimos permisibles que ponen en peligro la estabilidad de todo el sistema en su conjunto, provoca una desconexión automática de algunos circuitos hasta que ésta vuelva a recuperar su valor nominal a 60 Hz o ciclos por segundo. Esto ocurre al salir de forma imprevista o repentina de una planta generadora con una potencia determinada y el sistema en su conjunto necesita liberar esa carga hasta tanto se puedan recuperar la potencia de generación perdida anteriormente.",
-    "timestamp": 1767499685,
-    "timestamp_local": 1767499685
-  },
-  {
-    "id": 48003,
-    "fecha": "03 de Jan del 2026 a las 10:15 PM",
-    "hora_utc": "2026-01-04 03:15",
-    "mensaje": "-  Le recordamos que puede comunicarse con nosotros y obtener información a través de nuestros diferentes canales de comunicación: Centro Telefónico 18888, el cual brinda servicio las 24 horas del correo electrónico: atencionalcliente@elecstg.une.cu , a través de nuestro perfil institucional en la red social Facebook y de Telegram: t.me/electricastg.",
-    "timestamp": 1767496547,
-    "timestamp_local": 1767496547
   }
 ]
