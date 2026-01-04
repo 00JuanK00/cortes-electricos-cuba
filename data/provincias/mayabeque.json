@@ -1,5 +1,29 @@
 [
   {
+    "id": 102516,
+    "fecha": "04 de Jan del 2026 a las 05:55 PM",
+    "hora_utc": "2026-01-04 22:55",
+    "mensaje": "🔷 Restablecido el servicio en el circuito 3140 que se encontraba afectado por disparo por DAF🔷",
+    "timestamp": 1767567341,
+    "timestamp_local": 1767567341
+  },
+  {
+    "id": 102515,
+    "fecha": "04 de Jan del 2026 a las 05:54 PM",
+    "hora_utc": "2026-01-04 22:54",
+    "mensaje": "🔷♦️Se restablece el servicio en el siguiente circuito que se encontraba afectado por déficit de capacidad de generación:\n*3655\n*3660♦️🔷",
+    "timestamp": 1767567296,
+    "timestamp_local": 1767567296
+  },
+  {
+    "id": 102514,
+    "fecha": "04 de Jan del 2026 a las 05:53 PM",
+    "hora_utc": "2026-01-04 22:53",
+    "mensaje": "🚨Por déficit de capacidad de generación se afecta el servicio en el siguiente circuito :\n*3665 🚨",
+    "timestamp": 1767567227,
+    "timestamp_local": 1767567227
+  },
+  {
     "id": 102513,
     "fecha": "04 de Jan del 2026 a las 05:19 PM",
     "hora_utc": "2026-01-04 22:19",
@@ -110,21 +134,5 @@
     "mensaje": "🚨Por déficit de capacidad de generación se afecta el servicio en el siguiente circuito :\n*Fénix 🚨",
     "timestamp": 1767561209,
     "timestamp_local": 1767561209
-  },
-  {
-    "id": 102496,
-    "fecha": "04 de Jan del 2026 a las 03:11 PM",
-    "hora_utc": "2026-01-04 20:11",
-    "mensaje": "♦️ Afectado el servicio en el circuito 3590 por disparo por DAF♦️",
-    "timestamp": 1767557518,
-    "timestamp_local": 1767557518
-  },
-  {
-    "id": 102495,
-    "fecha": "04 de Jan del 2026 a las 02:55 PM",
-    "hora_utc": "2026-01-04 19:55",
-    "mensaje": "🔷 Restablecido el servicio en las siguientes zonas correspondientes al circuito Catalina 1 que se encontraba afectado por avería:\n*Ayala\n*Pedroso\n*Zona de Desarrollo y zonas aledañas 🔷",
-    "timestamp": 1767556545,
-    "timestamp_local": 1767556545
   }
 ]
