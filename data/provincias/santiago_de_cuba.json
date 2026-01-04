@@ -1,5 +1,29 @@
 [
   {
+    "id": 48001,
+    "fecha": "03 de Jan del 2026 a las 09:53 PM",
+    "hora_utc": "2026-01-04 02:53",
+    "mensaje": "🚨Estimados clientes en estos momentos se encuentran afectados por Déficit de Capacidad de Generación el circuito 2 de Santiago , disculpen por las molestias ocasionadas.",
+    "timestamp": 1767495202,
+    "timestamp_local": 1767495202
+  },
+  {
+    "id": 48000,
+    "fecha": "03 de Jan del 2026 a las 09:29 PM",
+    "hora_utc": "2026-01-04 02:29",
+    "mensaje": "🚨Estimados clientes en estos momentos se encuentran afectados por Déficit de Capacidad de Generación el circuito 20 de Santiago , disculpen por las molestias ocasionadas",
+    "timestamp": 1767493746,
+    "timestamp_local": 1767493746
+  },
+  {
+    "id": 47999,
+    "fecha": "03 de Jan del 2026 a las 08:13 PM",
+    "hora_utc": "2026-01-04 01:13",
+    "mensaje": "🚨Estimados clientes en estos momentos se encuentran afectados por Déficit de Capacidad de Generación la línea 5385 San Luis - Palma , disculpen por las molestias ocasionadas",
+    "timestamp": 1767489203,
+    "timestamp_local": 1767489203
+  },
+  {
     "id": 47997,
     "fecha": "03 de Jan del 2026 a las 05:36 PM",
     "hora_utc": "2026-01-03 22:36",
@@ -110,45 +134,5 @@
     "mensaje": "🚨Estimados clientes en estos momentos se incorporan a la afectación los circuitos 13 , 1 y 2 de Contramaestre.",
     "timestamp": 1767471906,
     "timestamp_local": 1767471906
-  },
-  {
-    "id": 47982,
-    "fecha": "03 de Jan del 2026 a las 02:46 PM",
-    "hora_utc": "2026-01-03 19:46",
-    "mensaje": "🔊Estimados clientes en estos momentos se afecto por Déficit la Línea 5380-Mella.",
-    "timestamp": 1767469616,
-    "timestamp_local": 1767469616
-  },
-  {
-    "id": 47981,
-    "fecha": "03 de Jan del 2026 a las 02:05 PM",
-    "hora_utc": "2026-01-03 19:05",
-    "mensaje": "🔴Vía Libre:\nTrabajos planificados o por emergencias que se realizan con el fin de construir y mantener líneas aéreas y soterradas; así como contribuir a la constante mejora en la entrega de la energía eléctrica.",
-    "timestamp": 1767467131,
-    "timestamp_local": 1767467131
-  },
-  {
-    "id": 47980,
-    "fecha": "03 de Jan del 2026 a las 01:16 PM",
-    "hora_utc": "2026-01-03 18:16",
-    "mensaje": "🚨Estimados clientes en estos momentos se encuentra afectado por una Vía Libre el circuito 25.",
-    "timestamp": 1767464216,
-    "timestamp_local": 1767464216
-  },
-  {
-    "id": 47979,
-    "fecha": "03 de Jan del 2026 a las 12:14 PM",
-    "hora_utc": "2026-01-03 17:14",
-    "mensaje": "🚨Estimados clientes en estos momentos se incorporan a la afectación los circuitos 7, 26, 8, 1 de Palma, 11 , LI 5385-San Luis -Palma, LI 5390-La Maya-ll Frente.",
-    "timestamp": 1767460456,
-    "timestamp_local": 1767460456
-  },
-  {
-    "id": 47978,
-    "fecha": "03 de Jan del 2026 a las 12:09 PM",
-    "hora_utc": "2026-01-03 17:09",
-    "mensaje": "🔴Manipulaciones:\nAcción que se realizan en los circuitos para dar paso al trabajo en zonas afectadas por averías o Vía Libre y posteriormente para restablecer el servicio eléctrico en los circuitos que se encontraban afectados y en los que se trabaja con anterioridad, luego de culminadas las labores pertinentes.",
-    "timestamp": 1767460170,
-    "timestamp_local": 1767460170
   }
 ]
