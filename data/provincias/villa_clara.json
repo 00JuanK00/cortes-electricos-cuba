@@ -1,5 +1,21 @@
 [
   {
+    "id": 37389,
+    "fecha": "05 de Jan del 2026 a las 05:28 PM",
+    "hora_utc": "2026-01-05 22:28",
+    "mensaje": "⚡Afectados por manipulación los siguientes circuitos:\n\n👉Municipio Santa Clara:\nCto 6 (Vigía)\nCto 34(Sabana Rebacadero)\nCtos 32(afectado por avería) y 33 (RF-33Kv)\nCto 39 (Sandino)\nCto 40 (Hospital Militar)",
+    "timestamp": 1767652109,
+    "timestamp_local": 1767652109
+  },
+  {
+    "id": 37388,
+    "fecha": "05 de Jan del 2026 a las 05:17 PM",
+    "hora_utc": "2026-01-05 22:17",
+    "mensaje": "⚠️Afectados por déficit de capacidad de generación los siguientes circuitos:\n👉Municipio Santa Clara:\nCto 166 (Condado)\nCto 167 (Virginia)",
+    "timestamp": 1767651474,
+    "timestamp_local": 1767651474
+  },
+  {
     "id": 37387,
     "fecha": "05 de Jan del 2026 a las 04:52 PM",
     "hora_utc": "2026-01-05 21:52",
@@ -142,13 +158,5 @@
     "mensaje": "-Disparo de Circuito por Posible Avería: Este fenómeno ocurre cuando existe una falla en algún circuito, ya sea soterrado, aéreo o en una subestación. Estas, a pesar de que son mucho más frecuentes cuando existe algún evento climatológico, pueden ocurrir en cualquier momento del día o la noche, ya que son situaciones que no cuentan con programación.",
     "timestamp": 1767638686,
     "timestamp_local": 1767638686
-  },
-  {
-    "id": 37369,
-    "fecha": "05 de Jan del 2026 a las 01:41 PM",
-    "hora_utc": "2026-01-05 18:41",
-    "mensaje": "⚡Afectado por disparo el circuito 32 RF, se estudian las causas.",
-    "timestamp": 1767638495,
-    "timestamp_local": 1767638495
   }
 ]
