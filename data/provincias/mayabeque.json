@@ -1,5 +1,61 @@
 [
   {
+    "id": 102593,
+    "fecha": "05 de Jan del 2026 a las 03:30 PM",
+    "hora_utc": "2026-01-05 20:30",
+    "mensaje": "🔷 Restablecido el servicio en el circuito 3140 que se encontraba afectado por disparo por DAF🔷",
+    "timestamp": 1767645059,
+    "timestamp_local": 1767645059
+  },
+  {
+    "id": 102592,
+    "fecha": "05 de Jan del 2026 a las 03:27 PM",
+    "hora_utc": "2026-01-05 20:27",
+    "mensaje": "♦️ Afectado el servicio en el circuito 3140 por disparo por DAF♦️",
+    "timestamp": 1767644847,
+    "timestamp_local": 1767644847
+  },
+  {
+    "id": 102591,
+    "fecha": "05 de Jan del 2026 a las 03:24 PM",
+    "hora_utc": "2026-01-05 20:24",
+    "mensaje": "🚨Por déficit de capacidad de generación se afecta el servicio en el siguiente circuito :\nGanuza🚨",
+    "timestamp": 1767644651,
+    "timestamp_local": 1767644651
+  },
+  {
+    "id": 102590,
+    "fecha": "05 de Jan del 2026 a las 03:11 PM",
+    "hora_utc": "2026-01-05 20:11",
+    "mensaje": "🚨Por déficit de capacidad de generación se afecta el servicio en los siguientes circuitos:\n*Catalina 1 y 2🚨",
+    "timestamp": 1767643888,
+    "timestamp_local": 1767643888
+  },
+  {
+    "id": 102589,
+    "fecha": "05 de Jan del 2026 a las 03:08 PM",
+    "hora_utc": "2026-01-05 20:08",
+    "mensaje": "🔷 Restablecido el servicio en el circuito Fénix que se encontraba afectado por vía libre🔷",
+    "timestamp": 1767643703,
+    "timestamp_local": 1767643703
+  },
+  {
+    "id": 102588,
+    "fecha": "05 de Jan del 2026 a las 03:03 PM",
+    "hora_utc": "2026-01-05 20:03",
+    "mensaje": "🔷 Restablecido el servicio en el circuito 3140 que se encontraba afectado por disparo por DAF🔷",
+    "timestamp": 1767643402,
+    "timestamp_local": 1767643402
+  },
+  {
+    "id": 102587,
+    "fecha": "05 de Jan del 2026 a las 03:02 PM",
+    "hora_utc": "2026-01-05 20:02",
+    "mensaje": "🔷 Restablecido el servicio en el circuito Bío 2 que se encontraba afectado por manipulación  🔷",
+    "timestamp": 1767643366,
+    "timestamp_local": 1767643366
+  },
+  {
     "id": 102586,
     "fecha": "05 de Jan del 2026 a las 02:58 PM",
     "hora_utc": "2026-01-05 19:58",
@@ -102,37 +158,5 @@
     "mensaje": "♦️Afectado el servicio en el circuito Fénix por vía libre ♦️",
     "timestamp": 1767630899,
     "timestamp_local": 1767630899
-  },
-  {
-    "id": 102573,
-    "fecha": "05 de Jan del 2026 a las 11:30 AM",
-    "hora_utc": "2026-01-05 16:30",
-    "mensaje": "🔷 Restablecido el servicio en el circuito Caamaño que se encontraba afectado por disparo en las lineas quedando afectado el servicio en las siguientes zonas por avería:\n*Peniché\n*Los Gama\n*Zonas aledañas ♦️",
-    "timestamp": 1767630619,
-    "timestamp_local": 1767630619
-  },
-  {
-    "id": 102569,
-    "fecha": "05 de Jan del 2026 a las 10:51 AM",
-    "hora_utc": "2026-01-05 15:51",
-    "mensaje": "🔷 Restablecido el servicio en el circuito 3140 que se encontraba afectado por disparo por DAF🔷",
-    "timestamp": 1767628297,
-    "timestamp_local": 1767628297
-  },
-  {
-    "id": 102568,
-    "fecha": "05 de Jan del 2026 a las 10:50 AM",
-    "hora_utc": "2026-01-05 15:50",
-    "mensaje": "♦️ Afectado el servicio en el circuito Caamaño por disparo en las líneas ♦️",
-    "timestamp": 1767628232,
-    "timestamp_local": 1767628232
-  },
-  {
-    "id": 102567,
-    "fecha": "05 de Jan del 2026 a las 10:26 AM",
-    "hora_utc": "2026-01-05 15:26",
-    "mensaje": "🚨Por déficit de capacidad de generación se afecta el servicio en el siguiente circuito :\nBío 2 🚨",
-    "timestamp": 1767626801,
-    "timestamp_local": 1767626801
   }
 ]

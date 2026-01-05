@@ -1,5 +1,45 @@
 [
   {
+    "id": 37382,
+    "fecha": "05 de Jan del 2026 a las 03:43 PM",
+    "hora_utc": "2026-01-05 20:43",
+    "mensaje": "⚠️Afectado por déficit de generación el circuito 170 José Martí del municipio Santa Clara.",
+    "timestamp": 1767645804,
+    "timestamp_local": 1767645804
+  },
+  {
+    "id": 37381,
+    "fecha": "05 de Jan del 2026 a las 03:39 PM",
+    "hora_utc": "2026-01-05 20:39",
+    "mensaje": "⚠️Afectados por déficit de capacidad de generación los siguientes circuitos:\n👉Municipio Remedios:\nCtos 67 y 152, 68 y 118 \nCtos 69 y 70 Zuluetas\nCto 143 Batey Heriberto Duquesne\nCto 71 Buena Vista",
+    "timestamp": 1767645570,
+    "timestamp_local": 1767645570
+  },
+  {
+    "id": 37380,
+    "fecha": "05 de Jan del 2026 a las 03:31 PM",
+    "hora_utc": "2026-01-05 20:31",
+    "mensaje": "⚠️Afectados por déficit de capacidad de generación los siguientes circuitos:\n👉Municipio Placetas \nCtos 100 y 151 Placetas\nCto 104 Hermanos Amejeiras\nCto 103 Batey Carbó Servia",
+    "timestamp": 1767645068,
+    "timestamp_local": 1767645068
+  },
+  {
+    "id": 37379,
+    "fecha": "05 de Jan del 2026 a las 03:28 PM",
+    "hora_utc": "2026-01-05 20:28",
+    "mensaje": "⚠️Afectados por déficit de capacidad de generación los siguientes circuitos:\n\n👉Municipio Ranchuelo: \nCtos 89, 97, 188 y 189\nCtos 148 y 149 San Juan\nCto 91 Batey Osvaldo Herrera\nCto 181 Batey Ifraín Alfonso",
+    "timestamp": 1767644887,
+    "timestamp_local": 1767644887
+  },
+  {
+    "id": 37378,
+    "fecha": "05 de Jan del 2026 a las 03:12 PM",
+    "hora_utc": "2026-01-05 20:12",
+    "mensaje": "⚠️Afectados por déficit de capacidad de generación los siguientes circuitos:\n👉Municipio Sagua\nCto 43, 51 Sagua\nCto 44 Isabela",
+    "timestamp": 1767643927,
+    "timestamp_local": 1767643927
+  },
+  {
     "id": 37377,
     "fecha": "05 de Jan del 2026 a las 02:54 PM",
     "hora_utc": "2026-01-05 19:54",
@@ -110,45 +150,5 @@
     "mensaje": "🔸Actualización del servicio eléctrico en la provincia🔸\n✍️Se mantienen afectados en la provincia 30 circuitos.\n✍️En el momento de hacer esta nota la provincia tiene \n25 MW por déficit de capacidad de generación.\n✍️Cuenta con 55 afectaciones por averías secundarias y de servicio.",
     "timestamp": 1767625423,
     "timestamp_local": 1767625423
-  },
-  {
-    "id": 37362,
-    "fecha": "05 de Jan del 2026 a las 10:02 AM",
-    "hora_utc": "2026-01-05 15:02",
-    "mensaje": "⚠️Afectados por déficit de capacidad de generación los siguientes circuitos:\n👉Municipio Remedios:\nCtos 67 y 152, 68 y 118 \nCtos 69 y 70 Zuluetas\nCto 143 Batey Heriberto Duquesne\nCto 71 Buena Vista",
-    "timestamp": 1767625320,
-    "timestamp_local": 1767625320
-  },
-  {
-    "id": 37361,
-    "fecha": "05 de Jan del 2026 a las 09:10 AM",
-    "hora_utc": "2026-01-05 14:10",
-    "mensaje": "💡Con servicio los siguientes circuitos:\n👉Municipio Caibarién\nCtos 63 y 64",
-    "timestamp": 1767622243,
-    "timestamp_local": 1767622243
-  },
-  {
-    "id": 37360,
-    "fecha": "05 de Jan del 2026 a las 09:06 AM",
-    "hora_utc": "2026-01-05 14:06",
-    "mensaje": "🔴 07:46 || Fuera de línea la Unidad 5 de la CTE Diez de Octubre, en vía libre de emergencia por salidero en caldera.",
-    "timestamp": 1767621975,
-    "timestamp_local": 1767621975
-  },
-  {
-    "id": 37359,
-    "fecha": "05 de Jan del 2026 a las 08:59 AM",
-    "hora_utc": "2026-01-05 13:59",
-    "mensaje": "Afectados 32 MW por déficit de capacidad de generación, demanda máxima a apagar en estos momentos.",
-    "timestamp": 1767621560,
-    "timestamp_local": 1767621560
-  },
-  {
-    "id": 37358,
-    "fecha": "05 de Jan del 2026 a las 08:40 AM",
-    "hora_utc": "2026-01-05 13:40",
-    "mensaje": "💡Con servicio los siguientes circuitos:\n👉Municipio Placetas \nCtos 100 y 151 Placetas\nCto 104 Hermanos Amejeiras\nCto 103 Batey Carbó Servia",
-    "timestamp": 1767620437,
-    "timestamp_local": 1767620437
   }
 ]
