@@ -1,5 +1,29 @@
 [
   {
+    "id": 37353,
+    "fecha": "05 de Jan del 2026 a las 07:14 AM",
+    "hora_utc": "2026-01-05 12:14",
+    "mensaje": "Afectados 51 MW por déficit de capacidad de generación, demanda máxima a apagar en estos momentos.",
+    "timestamp": 1767615292,
+    "timestamp_local": 1767615292
+  },
+  {
+    "id": 37352,
+    "fecha": "05 de Jan del 2026 a las 07:07 AM",
+    "hora_utc": "2026-01-05 12:07",
+    "mensaje": "⚠️Afectados por déficit de capacidad de generación los siguientes circuitos:\n🔹Municipio Sagua\n👉Cto 43, 51 Sagua\n👉Cto 44 Isabela",
+    "timestamp": 1767614855,
+    "timestamp_local": 1767614855
+  },
+  {
+    "id": 37351,
+    "fecha": "05 de Jan del 2026 a las 07:01 AM",
+    "hora_utc": "2026-01-05 12:01",
+    "mensaje": "⚠️Afectados por déficit de capacidad de generación los siguientes circuitos:\n🔹Municipio Placetas:\n👉Cto 101 y 145 Cumbre",
+    "timestamp": 1767614517,
+    "timestamp_local": 1767614517
+  },
+  {
     "id": 37350,
     "fecha": "05 de Jan del 2026 a las 06:44 AM",
     "hora_utc": "2026-01-05 11:44",
@@ -19,7 +43,7 @@
     "id": 37348,
     "fecha": "05 de Jan del 2026 a las 06:19 AM",
     "hora_utc": "2026-01-05 11:19",
-    "mensaje": "⚠️Afectados por déficit de capacidad de generación los siguientes circuitos:\n🔹Municipio Manicaragua:\n👉Ctos 109 y 150\n👉Ctos 108 y 110 La Piedra\n👉Cto 111 Mataguá",
+    "mensaje": "⚠️Afectados por déficit de capacidad de generación los siguientes circuitos:\n🔹Municipio Manicaragua:\n👉Ctos 109 y 150\n👉Ctos 108 y 110 La Piedra\n👉Cto 111 Mataguá\n🔹Municipio Placetas \n👉Ctos 100 y 151 Placetas\n👉Cto 104 Hermanos Amejeiras\n👉Cto 103 Batey Carbó Servia",
     "timestamp": 1767611968,
     "timestamp_local": 1767611968
   },
@@ -134,29 +158,5 @@
     "mensaje": "💡Con servicio los siguientes circuitos:\n🔹Municipio Remedios:\n👉Ctos 67 y 152, 68 y 118\n👉Ctos 69 y 70 Zuluetas\n👉Cto 143 Batey Heriberto Duquesne\n👉Cto 71 Buena Vista\n🔹Municipio Placetas:\n👉Cto 192 Benito Juárez\n👉Cto 102 Peroti\n🔹Municipio Caibarién\n👉Ctos 61, 62, 63 y 64\n👉Ctos 182 y 183 Van Troy",
     "timestamp": 1767583425,
     "timestamp_local": 1767583425
-  },
-  {
-    "id": 37333,
-    "fecha": "04 de Jan del 2026 a las 10:12 PM",
-    "hora_utc": "2026-01-05 03:12",
-    "mensaje": "🔸Actualización del servicio eléctrico en la provincia🔸\n✍️Se mantienen afectados en la provincia 78 circuitos.\n✍️En el momento de hacer esta nota la provincia tiene \n52 MW por déficit de capacidad de generación.\n✍️Cuenta con 27 afectaciones por averías secundarias y de servicio.",
-    "timestamp": 1767582723,
-    "timestamp_local": 1767582723
-  },
-  {
-    "id": 37332,
-    "fecha": "04 de Jan del 2026 a las 09:33 PM",
-    "hora_utc": "2026-01-05 02:33",
-    "mensaje": "💡Con servicio los siguientes circuitos:\n  🔹Municipio Placetas \n👉Ctos 100 y 151 Placetas\n👉Cto 104 Hermanos Amejeiras\n👉Cto 103 Batey Carbó Servia",
-    "timestamp": 1767580401,
-    "timestamp_local": 1767580401
-  },
-  {
-    "id": 37331,
-    "fecha": "04 de Jan del 2026 a las 08:52 PM",
-    "hora_utc": "2026-01-05 01:52",
-    "mensaje": "💡Con servicio los siguientes circuitos:\n🔹Municipio Santo Domingo:\n👉Cto 134\n👉Ctos 87 y 96 Bermejal\n👉Cto 187 Batey Carlos Baliño\n👉Cto 82 Ulacia\n👉Cto 84 Rodrigo\n🔹Municipio Camajuaní:\n👉Cto 75 La Quinta\n👉Cto 157 Luis Arcos Bergnes\n👉Ctos 76 y 90 Vega Alta\n👉Ctos 77, 59 y 185 Vueltas\n🔹Municipio Santa Clara:\n👉Cto 153 (EIDE)\n👉Cto 6 (Vigía)\n👉Cto 31 (Santa Clara Industrial)",
-    "timestamp": 1767577937,
-    "timestamp_local": 1767577937
   }
 ]
