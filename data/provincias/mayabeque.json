@@ -1,5 +1,13 @@
 [
   {
+    "id": 102559,
+    "fecha": "05 de Jan del 2026 a las 08:04 AM",
+    "hora_utc": "2026-01-05 13:04",
+    "mensaje": "**Nota Informativa: Estado del Sistema Eléctrico Nacional (SEN) – 5 de enero de 2026**\nEn el día de ayer se afectó el servicio desde las 06:11 hasta las 00:55 de la madrugada del día de hoy. La máxima afectación por déficit de capacidad de generación en el día de ayer fue de 1715 MW a las 18:10 horas, superior a lo planificado por la no entrada de la unidad 5 de la CTE Nuevitas.\nLa producción de energía de los 34 nuevos parques solares fotovoltaicos fue de 2558 MWh, con 494 MW como máxima potencia entregada en el horario de la media con esta fuente de generación.\n**Estado actual del SEN**\nLa disponibilidad del SEN a las 06:30 horas es de 1570 MW, la demanda 2000 MW, con 394 MW afectados por déficit desde las 05:16. En el horario de la media se estima una afectación de 850 MW.\n**Principales incidencias**\nAvería: Unidades 5 de la CTE Mariel, Unidades 1 y 2 de la CTE Felton.\nMantenimiento: Unidad 2 de la CTE Sata Cruz, Unidad 4 de la CTE Carlos Manuel de Céspedes en Cienfuegos.\nLimitaciones en la generación térmica: 520 MW fuera de servicio.\nProblemas por falta de combustible\n116 centrales de generación distribuida con 843 MW.\n142 MW indisponibles por falta de lubricante.\nTotal de MW afectados por esta causa: 985 MW.\n**Pronóstico para el horario pico**\nPara el horario pico se prevé una disponibilidad de 1570 MW y una demanda máxima de 3200 MW, para un déficit de 1630 MW, por lo que de mantenerse las condiciones previstas se pronostica una afectación de 1660 MW en este horario.",
+    "timestamp": 1767618254,
+    "timestamp_local": 1767618254
+  },
+  {
     "id": 102556,
     "fecha": "05 de Jan del 2026 a las 06:53 AM",
     "hora_utc": "2026-01-05 11:53",
@@ -70,29 +78,5 @@
     "mensaje": "🔷♦️Se restablece el servicio en los siguientes circuitos que se encontraba afectado por déficit de capacidad de generación:\n*Batabanó\n*Surgidero de Batabanó ♦️🔷",
     "timestamp": 1767583532,
     "timestamp_local": 1767583532
-  },
-  {
-    "id": 102538,
-    "fecha": "04 de Jan del 2026 a las 10:22 PM",
-    "hora_utc": "2026-01-05 03:22",
-    "mensaje": "🔷♦️Se restablece el servicio en el siguiente circuito que se encontraba afectado por déficit de capacidad de generación:\n*Madruga ♦️🔷",
-    "timestamp": 1767583336,
-    "timestamp_local": 1767583336
-  },
-  {
-    "id": 102537,
-    "fecha": "04 de Jan del 2026 a las 10:12 PM",
-    "hora_utc": "2026-01-05 03:12",
-    "mensaje": "🔷♦️Se restablece el servicio en el siguiente circuito que se encontraba afectado por déficit de capacidad de generación:\n*Bío 2♦️🔷",
-    "timestamp": 1767582749,
-    "timestamp_local": 1767582749
-  },
-  {
-    "id": 102536,
-    "fecha": "04 de Jan del 2026 a las 10:09 PM",
-    "hora_utc": "2026-01-05 03:09",
-    "mensaje": "🔷♦️Se restablece el servicio en el siguiente circuito que se encontraba afectado por déficit de capacidad de generación:\n*3665♦️🔷",
-    "timestamp": 1767582568,
-    "timestamp_local": 1767582568
   }
 ]
