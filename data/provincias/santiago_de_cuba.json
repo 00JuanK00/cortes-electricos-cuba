@@ -1,5 +1,21 @@
 [
   {
+    "id": 48045,
+    "fecha": "05 de Jan del 2026 a las 12:37 AM",
+    "hora_utc": "2026-01-05 05:37",
+    "mensaje": "🔴Disparo\nApertura no voluntaria de un interruptor  como vía de protección para desconectar uno o varios elementos del circuito ,subestación o sistema, restableciéndose el servicio rápidamente en dependencia de la causa.",
+    "timestamp": 1767591464,
+    "timestamp_local": 1767591464
+  },
+  {
+    "id": 48044,
+    "fecha": "05 de Jan del 2026 a las 12:27 AM",
+    "hora_utc": "2026-01-05 05:27",
+    "mensaje": "🔴Estimados clientes en estos momentos el circuito 9 se encuentra Disparado .",
+    "timestamp": 1767590836,
+    "timestamp_local": 1767590836
+  },
+  {
     "id": 48042,
     "fecha": "04 de Jan del 2026 a las 10:08 PM",
     "hora_utc": "2026-01-05 03:08",
@@ -126,21 +142,5 @@
     "mensaje": "🔊Estimados clientes en estos momentos están Manipulando el circuito 10 para reponer un fuse al Aire en el Banco de Transformadores en la Clínica de Los Angeles",
     "timestamp": 1767556677,
     "timestamp_local": 1767556677
-  },
-  {
-    "id": 48025,
-    "fecha": "04 de Jan del 2026 a las 12:16 PM",
-    "hora_utc": "2026-01-04 17:16",
-    "mensaje": "🔊Estimados clientes en estos momentos se encuentra afectados por Déficit de Capacidad de Generación el circuito 19",
-    "timestamp": 1767546989,
-    "timestamp_local": 1767546989
-  },
-  {
-    "id": 48024,
-    "fecha": "04 de Jan del 2026 a las 12:14 PM",
-    "hora_utc": "2026-01-04 17:14",
-    "mensaje": "🚨Disparo:  \nApertura no voluntaria de un interruptor como vía de protección para desconectar uno o varios elementos del circuito, subestación o sistema, restableciéndose el servicio rápidamente en dependencia de la causa.",
-    "timestamp": 1767546857,
-    "timestamp_local": 1767546857
   }
 ]
