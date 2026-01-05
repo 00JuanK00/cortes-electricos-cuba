@@ -1,5 +1,21 @@
 [
   {
+    "id": 48047,
+    "fecha": "05 de Jan del 2026 a las 01:18 AM",
+    "hora_utc": "2026-01-05 06:18",
+    "mensaje": "🔴Disparo:\nApertura no voluntaria de un interruptor  como vía de protección para desconectar uno o varios elementos del circuito ,subestación o sistema, restableciéndose el servicio rápidamente en dependencia de la causa.",
+    "timestamp": 1767593921,
+    "timestamp_local": 1767593921
+  },
+  {
+    "id": 48046,
+    "fecha": "05 de Jan del 2026 a las 01:18 AM",
+    "hora_utc": "2026-01-05 06:18",
+    "mensaje": "🚨Estimados clientes en estos momentos se encuentra Disparado el circuito 15.",
+    "timestamp": 1767593903,
+    "timestamp_local": 1767593903
+  },
+  {
     "id": 48045,
     "fecha": "05 de Jan del 2026 a las 12:37 AM",
     "hora_utc": "2026-01-05 05:37",
@@ -126,21 +142,5 @@
     "mensaje": "🔊Estimados clientes en estos momentos se encuentra afectados por Déficit de Capacidad de Generación el circuito 25 y el 14 Seccionalizado.",
     "timestamp": 1767556852,
     "timestamp_local": 1767556852
-  },
-  {
-    "id": 48027,
-    "fecha": "04 de Jan del 2026 a las 02:58 PM",
-    "hora_utc": "2026-01-04 19:58",
-    "mensaje": "🚨Manipulaciones:\nAcción que se realizan en los circuitos para dar paso al trabajo en zonas afectadas por averías o Vía Libre y posteriormente para restablecer el servicio eléctrico en los circuitos que se encontraban afectados y en los que se trabaja con anterioridad, luego de culminadas las labores pertinentes.",
-    "timestamp": 1767556705,
-    "timestamp_local": 1767556705
-  },
-  {
-    "id": 48026,
-    "fecha": "04 de Jan del 2026 a las 02:57 PM",
-    "hora_utc": "2026-01-04 19:57",
-    "mensaje": "🔊Estimados clientes en estos momentos están Manipulando el circuito 10 para reponer un fuse al Aire en el Banco de Transformadores en la Clínica de Los Angeles",
-    "timestamp": 1767556677,
-    "timestamp_local": 1767556677
   }
 ]
