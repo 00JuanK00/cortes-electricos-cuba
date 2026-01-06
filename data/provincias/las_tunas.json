@@ -1,5 +1,21 @@
 [
   {
+    "id": 17715,
+    "fecha": "06 de Jan del 2026 a las 03:44 PM",
+    "hora_utc": "2026-01-06 20:44",
+    "mensaje": "Se afecta por déficit el circuito 2020:TK85 Leningrado  \nTK108 Tasajera  \nTK84   Poblado Colombia  \nTK86   Poblado Colombia  \nTK88   Dos Hermanos      \nTK107 La Islita    \nTK112 Argentina Norte  \nTK111 Ramírez",
+    "timestamp": 1767732292,
+    "timestamp_local": 1767732292
+  },
+  {
+    "id": 17714,
+    "fecha": "06 de Jan del 2026 a las 03:43 PM",
+    "hora_utc": "2026-01-06 20:43",
+    "mensaje": "Solucionada la avería del circuito TK51",
+    "timestamp": 1767732222,
+    "timestamp_local": 1767732222
+  },
+  {
     "id": 17713,
     "fecha": "06 de Jan del 2026 a las 01:15 PM",
     "hora_utc": "2026-01-06 18:15",
@@ -118,21 +134,5 @@
     "mensaje": "Se declara en avería el circuito:TK64 Palma Picada",
     "timestamp": 1767650075,
     "timestamp_local": 1767650075
-  },
-  {
-    "id": 17694,
-    "fecha": "05 de Jan del 2026 a las 04:51 PM",
-    "hora_utc": "2026-01-05 21:51",
-    "mensaje": "Se afectan los siguientes circuitos por déficit de generación:\nCircuito 33 Kv: 6230\nTK59 Vedado 3\nTK67 Porcino\nTK68 Vedado 6\nTK69 Poblado de Menéndez\nTK70 Transporte\nTK99 Santa Marías\nTK98 San Manuel, La Pedrera\nCircuito 33 Kv: 2020\nTK85 Leningrado \nTK108 Tasajera\nTK84 El Triángulo \nTK86 Poblado Colombia \nTK88 Dos Hermanos\nTK107 La Islita \nTK 112 Argentina Norte \nTK111 Ramírez\nCircuito 33 Kv: 6100\nTK35 Puerto Manatí\nTK36 El Raúl\nTK22 Aeropuerto\nTK23 Veguita \nTK32 Fleytas \nTK30 Meriño\nCircuito 33 Kv: 6220\nTK61 La Yaya\nTK58 La Calera\nTK62 Lora\nTK63 Lora\nTJ95 Poblado Menéndez\n6220 Carúpano, La Salina y La Playa\nTK15 Tunas El Pueblo\nTK2 Bonachea \nCircuito 33 Kv: 4220\nTK28 La Guinea\nTK52 Covarrubias\nTK31 Pueblo Manatí\nTK33 Pueblo Manatí\nTK34 Pueblo Manatí\nCircuito 33 Kv: 6310\nTK20 Becerra \nTK21 Tunazúcar\nTK50 Vázquez \nTK54 Vázquez\nTK41 Calixto\nTK40 Vista Alegre\nTK42 Gastón y Arroyo Muerto\nTK44 Vivienda\nTK7 La Victoria \nTK5 Buena Vista, Los Pinos\nTK53 La Morena y El Malecón \nTK47 La Micro Puerto Padre\nTK18 Las 40, Sosa \nTK29 Circunvalación Sur, Oro Negro \nTK25 Cuatro Caminos, Dormitorio\nTK106 Palancón, Buena Vista\nTK93 Batey Delicias",
-    "timestamp": 1767649881,
-    "timestamp_local": 1767649881
-  },
-  {
-    "id": 17693,
-    "fecha": "05 de Jan del 2026 a las 08:23 AM",
-    "hora_utc": "2026-01-05 13:23",
-    "mensaje": "La Empresa Eléctrica Las Tunas informa que, según la nota emitida por la Unión Eléctrica para el 5 de enero, ayer se afectó el servicio desde las 06:11 hasta las 00:55 de la madrugada del día de hoy. En nuestra provincia se afectaron la totalidad de los circuitos apagables, con una máxima afectación de 73.6 MW.\nActualmente están fuera de servicio por avería: \nUnidades 5 de la CTE Mariel, Unidades 1 y 2 de la CTE Felton.\nEn mantenimiento se encuentran:  \nUnidad 2 de la CTE Sata Cruz, Unidad 4 de la CTE Carlos Manuel de Céspedes en Cienfuegos.\nEn el horario diurno se pronostica una afectación de 850 MW, lo cual puede representar el 60% de los circuitos en nuestra provincia. En el horario nocturno se estima una afectación de 1660 MW, lo cual puede representar el 80 % de los circuitos apagables. Estos valores pueden variar según la demanda nacional.",
-    "timestamp": 1767619399,
-    "timestamp_local": 1767619399
   }
 ]

@@ -1,5 +1,45 @@
 [
   {
+    "id": 102662,
+    "fecha": "06 de Jan del 2026 a las 03:36 PM",
+    "hora_utc": "2026-01-06 20:36",
+    "mensaje": "🚨Por déficit de capacidad de generación se afecta el servicio en los siguientes circuitos:\n*Catalina 1 y 2🚨",
+    "timestamp": 1767731762,
+    "timestamp_local": 1767731762
+  },
+  {
+    "id": 102661,
+    "fecha": "06 de Jan del 2026 a las 03:26 PM",
+    "hora_utc": "2026-01-06 20:26",
+    "mensaje": "🚨Por déficit de capacidad de generación se afecta el servicio en el siguiente circuito:\n*Fénix🚨",
+    "timestamp": 1767731160,
+    "timestamp_local": 1767731160
+  },
+  {
+    "id": 102660,
+    "fecha": "06 de Jan del 2026 a las 03:14 PM",
+    "hora_utc": "2026-01-06 20:14",
+    "mensaje": "🔷 Restablecido el servicio en los siguientes circuitos que se encontraban afectados por manipulación:\n*5 y 7 de San José🔷",
+    "timestamp": 1767730452,
+    "timestamp_local": 1767730452
+  },
+  {
+    "id": 102659,
+    "fecha": "06 de Jan del 2026 a las 03:06 PM",
+    "hora_utc": "2026-01-06 20:06",
+    "mensaje": "🔷 Restablecido el servicio en los siguientes circuitos que se encontraban afectados por Vía Libre:\n*UNAH\n*CENSA\n*Somorrostro🔷",
+    "timestamp": 1767729984,
+    "timestamp_local": 1767729984
+  },
+  {
+    "id": 102658,
+    "fecha": "06 de Jan del 2026 a las 03:05 PM",
+    "hora_utc": "2026-01-06 20:05",
+    "mensaje": "🔷Restablecido el servicio en el circuito 2320 que se encontraba afectado por avería🔷",
+    "timestamp": 1767729914,
+    "timestamp_local": 1767729914
+  },
+  {
     "id": 102657,
     "fecha": "06 de Jan del 2026 a las 02:54 PM",
     "hora_utc": "2026-01-06 19:54",
@@ -19,7 +59,7 @@
     "id": 102655,
     "fecha": "06 de Jan del 2026 a las 01:50 PM",
     "hora_utc": "2026-01-06 18:50",
-    "mensaje": "♦️Afectado el servicio en el circuito Bio 2 por manipulación♦️",
+    "mensaje": "🚨Por déficit de capacidad de generación se afecta el servicio en el siguiente circuito:\n*Bio 2🚨",
     "timestamp": 1767725415,
     "timestamp_local": 1767725415
   },
@@ -110,21 +150,5 @@
     "mensaje": "🔷 Restablecido el servicio en el circuito 3590 que se encontraba afectado por avería🔷",
     "timestamp": 1767712924,
     "timestamp_local": 1767712924
-  },
-  {
-    "id": 102640,
-    "fecha": "06 de Jan del 2026 a las 08:20 AM",
-    "hora_utc": "2026-01-06 13:20",
-    "mensaje": "**Nota Informativa: Estado del Sistema Eléctrico Nacional (SEN) – 6 de enero de 2026**\nEn el día de ayer se afectó el servicio desde las 05:16, no se pudo restablecer en la madrugada del día de hoy. La máxima afectación por déficit de capacidad de generación en el día de ayer fue de 1863 MW a las 18:20 horas, superior a lo planificado por la salida de la unidad 5 de la CTE Nuevitas y la demanda superior al pronóstico.\nLa producción de energía de los 34 nuevos parques solares fotovoltaicos fue de 2884 MWh, con 560 MW como máxima potencia entregada en el horario de la media con esta fuente de generación.\n**Estado actual del SEN**\nLa disponibilidad del SEN a las 06:30 horas es de 1240 MW, la demanda 2192 MW, con 965 MW afectados por déficit. En el horario de la media se estima una afectación de 1100 MW.\n**Principales incidencias**\nAvería: Unidades 5 de la CTE Mariel, Unidad 5 de la CTE Nuevitas, Unidad 1 de la CTE Santa Cruz, Unidades 1 y 2 de la CTE Felton.\nMantenimiento: Unidad 2 de la CTE Sata Cruz, Unidad 4 de la CTE Carlos Manuel de Céspedes en Cienfuegos.\nLimitaciones en la generación térmica: 441 MW fuera de servicio.\nProblemas por falta de combustible\n97 centrales de generación distribuida con 860 MW.\n48 MW en la Patana de Regla.\n106 MW en la Central Fuel de Moa.\n145 MW indisponibles por falta de lubricante.\nTotal de MW afectados por esta causa: 1159 MW.\n**Pronóstico para el horario pico**\nPara el horario pico se espera la entrada de la unidad 1 de la CTE Santa Cruz con 65 MW, la unidad 5 de la CTE Nuevitas, la unidad 1 de la CTE Felton con 125 MW (en proceso de arranque) y la recuperación de 48 MW de motores de la Patana de Regla.\nCon este pronóstico se prevé una disponibilidad de 1533 MW y una demanda máxima de 3300 MW, para un déficit de 1767 MW, por lo que de mantenerse las condiciones previstas se pronostica una afectación de 1797 MW en este horario.",
-    "timestamp": 1767705631,
-    "timestamp_local": 1767705631
-  },
-  {
-    "id": 102637,
-    "fecha": "06 de Jan del 2026 a las 07:34 AM",
-    "hora_utc": "2026-01-06 12:34",
-    "mensaje": "📣🚨Continúa afectado el servicio en el circuito 3590 por avería🚨📣",
-    "timestamp": 1767702865,
-    "timestamp_local": 1767702865
   }
 ]
