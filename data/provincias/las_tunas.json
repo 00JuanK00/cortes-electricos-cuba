@@ -1,5 +1,21 @@
 [
   {
+    "id": 17711,
+    "fecha": "06 de Jan del 2026 a las 12:12 PM",
+    "hora_utc": "2026-01-06 17:12",
+    "mensaje": "Se encuentra afectado el servicio eléctrico por déficit a los siguientes circuitos:\nTK29  Circunvalación Sur desde la entrada de 4 Caminos hasta Oro Negro\nTK15  Tunas El Pueblo  \nTK2  Bonachea  \nTK5  Buena Vista, Los Pinos\nTK7  La Victoria\nTK18  Las Cuarenta y Rpto. Velázquez  \nTK106  Palancón,Buena Vista  \nTK48  Puerto P. y Maniabón\n6820:\nTK75  Vicente Pérez  \nTK77  San Alberto  \nTK78  Ana Luisa  \nTK76  El Paraíso\n\nTK19  KM7, San Antonio y Ciruelito  \nTK25  4 Caminos, Dormitorio\nTK31  pueblo Manatí    \nTK33  pueblo Manatí    \nTK34  pueblo Manatí",
+    "timestamp": 1767719575,
+    "timestamp_local": 1767719575
+  },
+  {
+    "id": 17710,
+    "fecha": "06 de Jan del 2026 a las 12:05 PM",
+    "hora_utc": "2026-01-06 17:05",
+    "mensaje": "Se restablece el servicio eléctrico a los siguientes circuitos:\nTK41\nTK42  \nTK45  \nTK44  \n2020\n\nTK20    \nTK21 \nTK24  \nTK4  \nTK1  \nTK12  \nTK6  \nTK27  \nTK9",
+    "timestamp": 1767719138,
+    "timestamp_local": 1767719138
+  },
+  {
     "id": 17708,
     "fecha": "06 de Jan del 2026 a las 10:17 AM",
     "hora_utc": "2026-01-06 15:17",
@@ -118,21 +134,5 @@
     "mensaje": "Se cierra el déficit en la provincia.",
     "timestamp": 1767591955,
     "timestamp_local": 1767591955
-  },
-  {
-    "id": 17690,
-    "fecha": "04 de Jan del 2026 a las 11:46 PM",
-    "hora_utc": "2026-01-05 04:46",
-    "mensaje": "Se restablecen los circuitos: \nCircuito 33 Kv: 6230\nTK59 Vedado 3\nTK67 Porcino\nTK68 Vedado 6\nTK69 Poblado de Menéndez\nTK70 Transporte\nTK99 Santa Marías\nTK98 San Manuel, La Pedrera\nTK64 Palma Picada\n\nCircuito 33 Kv: 6305\nTK40 Vista Alegre\nTK42 Gastón y Arroyo Muerto\nTK45 La Ceiba\nTK44 Vivienda",
-    "timestamp": 1767588388,
-    "timestamp_local": 1767588388
-  },
-  {
-    "id": 17689,
-    "fecha": "04 de Jan del 2026 a las 11:20 PM",
-    "hora_utc": "2026-01-05 04:20",
-    "mensaje": "Se restablecen  los siguientes circuitos:\nCircuito:33 Kv: 2020\nTK85 Leningrado \nTK108 Tasajera\nTK84 El Triángulo \nTK86 Poblado Colombia \nTK88 Dos Hermanos\nTK107 La Islita \nTK 112 Argentina Norte \nTK111 Ramírez",
-    "timestamp": 1767586854,
-    "timestamp_local": 1767586854
   }
 ]
