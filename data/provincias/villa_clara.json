@@ -1,5 +1,37 @@
 [
   {
+    "id": 37452,
+    "fecha": "06 de Jan del 2026 a las 02:31 PM",
+    "hora_utc": "2026-01-06 19:31",
+    "mensaje": "⚠️Afectados por déficit de capacidad de generación los siguientes circuitos:\n🔹Municipio Placetas:\n👉Cto 101 y 145 Cumbre",
+    "timestamp": 1767727908,
+    "timestamp_local": 1767727908
+  },
+  {
+    "id": 37451,
+    "fecha": "06 de Jan del 2026 a las 02:29 PM",
+    "hora_utc": "2026-01-06 19:29",
+    "mensaje": "Con servicio la línea 1955:\n🔹Municipio Encrucijada:\nCto 122 Encrucijada \nCto 123 Vizcaya \nCto 142 Comunidad La Sierra \nCto 126 Batey Emilio Córdova\nCto 125 Cavarrocas\nCto 124 El Santo\n🔹Municipio Camajuaní:\nCto 78 Jutiero",
+    "timestamp": 1767727781,
+    "timestamp_local": 1767727781
+  },
+  {
+    "id": 37450,
+    "fecha": "06 de Jan del 2026 a las 02:22 PM",
+    "hora_utc": "2026-01-06 19:22",
+    "mensaje": "⚠️Queda afectada por déficit de capacidad de generación la línea 1910:\n 🔹Municipio Placetas \n👉Ctos 100 y 151 Placetas\n👉Cto 104 Hermanos Amejeiras\n👉Cto 103 Batey Carbó Servia",
+    "timestamp": 1767727355,
+    "timestamp_local": 1767727355
+  },
+  {
+    "id": 37449,
+    "fecha": "06 de Jan del 2026 a las 02:14 PM",
+    "hora_utc": "2026-01-06 19:14",
+    "mensaje": "🛠️Afectados por DAF (Disparo Automático por Frecuencia) en las líneas 1910 y 1955:\nAfecta los siguientes circuitos:\n🔹Municipio Encrucijada:\nCto 122 Encrucijada \nCto 123 Vizcaya \nCto 142 Comunidad La Sierra \nCto 126 Batey Emilio Córdova\nCto 125 Cavarrocas\nCto 124 El Santo\n🔹Municipio Camajuaní:\nCto 78 Jutiero\n🔹Municipio Placetas \nCtos 100 y 151 Placetas\nCto 104 Hermanos Amejeiras\nCto 103 Batey Carbó Servia",
+    "timestamp": 1767726889,
+    "timestamp_local": 1767726889
+  },
+  {
     "id": 37448,
     "fecha": "06 de Jan del 2026 a las 02:02 PM",
     "hora_utc": "2026-01-06 19:02",
@@ -126,21 +158,5 @@
     "mensaje": "🔸Actualización del servicio eléctrico en la provincia🔸\n✍️Se mantienen afectados en la provincia 151 circuitos.\n✍️En el momento de hacer esta nota la provincia tiene 107 MW por déficit de capacidad de generación.\n✍️Cuenta con 67 afectaciones por averías secundarias y de servicio.",
     "timestamp": 1767711619,
     "timestamp_local": 1767711619
-  },
-  {
-    "id": 37432,
-    "fecha": "06 de Jan del 2026 a las 09:30 AM",
-    "hora_utc": "2026-01-06 14:30",
-    "mensaje": "🛠️Afectado parcialmente el circuito 55 (Rancho Veloz), del municipio Corralillo para reparar fase y cerrar puentes.",
-    "timestamp": 1767709859,
-    "timestamp_local": 1767709859
-  },
-  {
-    "id": 37431,
-    "fecha": "06 de Jan del 2026 a las 09:23 AM",
-    "hora_utc": "2026-01-06 14:23",
-    "mensaje": "💡Con servicio los siguientes circuitos:\n🔹Municipio Placetas:\n👉Cto 192 Benito Juárez\n👉Cto 102 Peroti",
-    "timestamp": 1767709394,
-    "timestamp_local": 1767709394
   }
 ]
