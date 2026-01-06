@@ -1,5 +1,21 @@
 [
   {
+    "id": 17713,
+    "fecha": "06 de Jan del 2026 a las 01:15 PM",
+    "hora_utc": "2026-01-06 18:15",
+    "mensaje": "Se afecta el servicio eléctrico por déficit al circuito 6230:\nTK59  Vedado 3  \nTK67  Porcino     \nTK68  Vedado 6  \nTK69  Transporte  \nTK70  Transporte  \nTK99  La Pedrera  \nTK98  La Pedrera",
+    "timestamp": 1767723357,
+    "timestamp_local": 1767723357
+  },
+  {
+    "id": 17712,
+    "fecha": "06 de Jan del 2026 a las 01:14 PM",
+    "hora_utc": "2026-01-06 18:14",
+    "mensaje": "Se declara en avería el circuito TK51",
+    "timestamp": 1767723292,
+    "timestamp_local": 1767723292
+  },
+  {
     "id": 17711,
     "fecha": "06 de Jan del 2026 a las 12:12 PM",
     "hora_utc": "2026-01-06 17:12",
@@ -118,21 +134,5 @@
     "mensaje": "La Empresa Eléctrica Las Tunas informa que, según la nota emitida por la Unión Eléctrica para el 5 de enero, ayer se afectó el servicio desde las 06:11 hasta las 00:55 de la madrugada del día de hoy. En nuestra provincia se afectaron la totalidad de los circuitos apagables, con una máxima afectación de 73.6 MW.\nActualmente están fuera de servicio por avería: \nUnidades 5 de la CTE Mariel, Unidades 1 y 2 de la CTE Felton.\nEn mantenimiento se encuentran:  \nUnidad 2 de la CTE Sata Cruz, Unidad 4 de la CTE Carlos Manuel de Céspedes en Cienfuegos.\nEn el horario diurno se pronostica una afectación de 850 MW, lo cual puede representar el 60% de los circuitos en nuestra provincia. En el horario nocturno se estima una afectación de 1660 MW, lo cual puede representar el 80 % de los circuitos apagables. Estos valores pueden variar según la demanda nacional.",
     "timestamp": 1767619399,
     "timestamp_local": 1767619399
-  },
-  {
-    "id": 17692,
-    "fecha": "05 de Jan del 2026 a las 07:46 AM",
-    "hora_utc": "2026-01-05 12:46",
-    "mensaje": "Nota Informativa: Estado del Sistema Eléctrico Nacional (SEN) – 5 de enero de 2026\n\nEn el día de ayer se afectó el servicio desde las 06:11 hasta las 00:55 de la madrugada del día de hoy. La máxima afectación por déficit de capacidad de generación en el día de ayer fue de 1715 MW a las 18:10 horas, superior a lo planificado por la no entrada de la unidad 5 de la CTE Nuevitas.\n\nLa producción de energía de los 34 nuevos parques solares fotovoltaicos fue de 2558 MWh, con 494 MW como máxima potencia entregada en el horario de la media con esta fuente de generación.\nEstado actual del SEN\n\nLa disponibilidad del SEN a las 06:30 horas es de 1570 MW, la demanda 2000 MW, con 394 MW afectados por déficit desde las 05:16. En el horario de la media se estima una afectación de 850 MW.\nPrincipales incidencias\n\n    Avería: Unidades 5 de la CTE Mariel, Unidades 1 y 2 de la CTE Felton.\n    Mantenimiento: Unidad 2 de la CTE Sata Cruz, Unidad 4 de la CTE Carlos Manuel de Céspedes en Cienfuegos.\n    Limitaciones en la generación térmica: 520 MW fuera de servicio.\n    Problemas por falta de combustible\n        116 centrales de generación distribuida con 843 MW.\n        142 MW indisponibles por falta de lubricante.\n        Total de MW afectados por esta causa: 985 MW.\n\nPronóstico para el horario pico\n\nPara el horario pico se prevé una disponibilidad de 1570 MW y una demanda máxima de 3200 MW, para un déficit de 1630 MW, por lo que de mantenerse las condiciones previstas se pronostica una afectación de 1660 MW en este horario.",
-    "timestamp": 1767617174,
-    "timestamp_local": 1767617174
-  },
-  {
-    "id": 17691,
-    "fecha": "05 de Jan del 2026 a las 12:45 AM",
-    "hora_utc": "2026-01-05 05:45",
-    "mensaje": "Se cierra el déficit en la provincia.",
-    "timestamp": 1767591955,
-    "timestamp_local": 1767591955
   }
 ]
