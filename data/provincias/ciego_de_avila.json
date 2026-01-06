@@ -1,5 +1,21 @@
 [
   {
+    "id": 35019,
+    "fecha": "06 de Jan del 2026 a las 05:50 PM",
+    "hora_utc": "2026-01-06 22:50",
+    "mensaje": "‼️Información.\n👉 Se abre por emergencia el circuito expreso por Incendio en la Cafetería La Fontana, le ofrecemos disculpas por las molestias ocasionados.",
+    "timestamp": 1767739825,
+    "timestamp_local": 1767739825
+  },
+  {
+    "id": 35018,
+    "fecha": "06 de Jan del 2026 a las 05:07 PM",
+    "hora_utc": "2026-01-06 22:07",
+    "mensaje": "‼️ Información del déficit de generación ‼️   \n👉 Subimos a  75 MW en la provincia afectados por déficit de generación.\n⏰ Con este déficit, la carga a apagar en la provincia no nos permite realizar una rotación estable de los circuitos, por lo que se afectarán o se restablecerán en dependencia del déficit que haya en cada momento de la jornada, que es muy variable.",
+    "timestamp": 1767737228,
+    "timestamp_local": 1767737228
+  },
+  {
     "id": 35017,
     "fecha": "06 de Jan del 2026 a las 03:43 PM",
     "hora_utc": "2026-01-06 20:43",
@@ -118,21 +134,5 @@
     "mensaje": "✅ Información.\n👉 Restablecido el circuito Nereida, Peonía y Politécnico de Informática.",
     "timestamp": 1767652794,
     "timestamp_local": 1767652794
-  },
-  {
-    "id": 34998,
-    "fecha": "05 de Jan del 2026 a las 05:20 PM",
-    "hora_utc": "2026-01-05 22:20",
-    "mensaje": "‼️ Información ‼️   \n👉En estos momentos tenemos 80 MW en la provincia afectados por déficit de generación. Con este déficit no podemos cumplir con una programación estable, por lo que los circuitos se afectarán o se restablecerán en dependencia del déficit que haya en cada momento de la jornada.",
-    "timestamp": 1767651645,
-    "timestamp_local": 1767651645
-  },
-  {
-    "id": 34997,
-    "fecha": "05 de Jan del 2026 a las 04:22 PM",
-    "hora_utc": "2026-01-05 21:22",
-    "mensaje": "‼️Déficit de Generación ‼️   \n👉 Subimos  a 60 MW en la provincia afectados por déficit de generación.\n\n✅ Se incorporan  los siguientes circuitos:\n👉  A104, El Mambí, Venezuela, Jagueyal, Vicente, La Cuba, Bolivia.\n ⏰ Reiteramos que los circuitos se afectarán o se restablecerán en dependencia del déficit en cada momento de la jornada, que es muy variable.",
-    "timestamp": 1767648139,
-    "timestamp_local": 1767648139
   }
 ]
