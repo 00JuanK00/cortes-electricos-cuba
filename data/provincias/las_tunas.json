@@ -1,5 +1,37 @@
 [
   {
+    "id": 17708,
+    "fecha": "06 de Jan del 2026 a las 10:17 AM",
+    "hora_utc": "2026-01-06 15:17",
+    "mensaje": "La Empresa Eléctrica Las Tunas informa que, según la nota emitida por la Unión Eléctrica para el 6 de enero, se afectó el servicio desde las 05:16, no se pudo restablecer en la madrugada del día de hoy. En nuestra provincia se afectaron la totalidad de los circuitos apagables, con una máxima afectación de 72.9 MW.\nActualmente están fuera de servicio por avería: \nUnidades 5 de la CTE Mariel, Unidad 5 de la CTE Nuevitas, Unidad 1 de la CTE Santa Cruz, Unidades 1 y 2 de la CTE Felton.\nEn mantenimiento se encuentran:  \nUnidad 2 de la CTE Sata Cruz, Unidad 4 de la CTE Carlos Manuel de Céspedes en Cienfuegos.\nEn el horario diurno se pronostica una afectación de 1100 MW, lo cual puede representar el 85% de los circuitos en nuestra provincia. En el horario nocturno se estima una afectación de 1797 MW, lo cual puede representar el 95 % de los circuitos apagables. Estos valores pueden variar según la demanda nacional.",
+    "timestamp": 1767712674,
+    "timestamp_local": 1767712674
+  },
+  {
+    "id": 17707,
+    "fecha": "06 de Jan del 2026 a las 10:11 AM",
+    "hora_utc": "2026-01-06 15:11",
+    "mensaje": "Se encuentra afectado el servicio eléctrico por déficit a los siguientes circuitos:\nTK41  Calixto    \nTK42  Gastón\nTK45  La Ceiba\nTK44  Vivienda\n2020\nTK85 Leningrado  \nTK108 Tasajera  \nTK84   Poblado Colombia  \nTK86   Poblado Colombia  \nTK88   Dos Hermanos      \nTK107 La Islita    \nTK112 Argentina Norte  \nTK111 Ramírez\n\nTK20  Becerra    \nTK21  Tunazúcar  \nTK24  Rpto.Santo Domingo  \nTK4  Aereopuerto, Casa Piedra y Aurora  \nTK1  Edificios de Buena Vista\nTK12  Las 40 y Nuevo Sosa  \nTK6  Calle Cuba y zona sur de buena Vista\nTK27  La Victoria\nTK9  Aguilera, La Victoria",
+    "timestamp": 1767712276,
+    "timestamp_local": 1767712276
+  },
+  {
+    "id": 17706,
+    "fecha": "06 de Jan del 2026 a las 10:06 AM",
+    "hora_utc": "2026-01-06 15:06",
+    "mensaje": "Se encuentra afectado el servicio eléctrico al circuito TK51 Vázquez, por cable en el suelo",
+    "timestamp": 1767711982,
+    "timestamp_local": 1767711982
+  },
+  {
+    "id": 17705,
+    "fecha": "06 de Jan del 2026 a las 10:05 AM",
+    "hora_utc": "2026-01-06 15:05",
+    "mensaje": "Se encuentra afectado el servicio eléctrico por avería al circuito TK64 Palma Picada",
+    "timestamp": 1767711930,
+    "timestamp_local": 1767711930
+  },
+  {
     "id": 17703,
     "fecha": "06 de Jan del 2026 a las 08:15 AM",
     "hora_utc": "2026-01-06 13:15",
@@ -102,29 +134,5 @@
     "mensaje": "Se restablecen  los siguientes circuitos:\nCircuito:33 Kv: 2020\nTK85 Leningrado \nTK108 Tasajera\nTK84 El Triángulo \nTK86 Poblado Colombia \nTK88 Dos Hermanos\nTK107 La Islita \nTK 112 Argentina Norte \nTK111 Ramírez",
     "timestamp": 1767586854,
     "timestamp_local": 1767586854
-  },
-  {
-    "id": 17688,
-    "fecha": "04 de Jan del 2026 a las 09:02 PM",
-    "hora_utc": "2026-01-05 02:02",
-    "mensaje": "Se restablecen los siguientes circuitos:\n\nCircuito 33 Kv: 6470-6300\nTK13 Yariguá \nTJ11 Bartle \nTK91 Macagua \nTK87 Pueblo Jobabo\nTK90 Escuela Especial Jobabo\n6470 Mina de Oro, Las Margaritas",
-    "timestamp": 1767578521,
-    "timestamp_local": 1767578521
-  },
-  {
-    "id": 17685,
-    "fecha": "04 de Jan del 2026 a las 03:30 PM",
-    "hora_utc": "2026-01-04 20:30",
-    "mensaje": "Se restablece el TK84 afectado por avería",
-    "timestamp": 1767558628,
-    "timestamp_local": 1767558628
-  },
-  {
-    "id": 17684,
-    "fecha": "04 de Jan del 2026 a las 02:34 PM",
-    "hora_utc": "2026-01-04 19:34",
-    "mensaje": "Aún se encuentran en avería parte del TK51 Vázquez, en las localidades de San Miguel, Yayales",
-    "timestamp": 1767555299,
-    "timestamp_local": 1767555299
   }
 ]
