@@ -1,5 +1,29 @@
 [
   {
+    "id": 17734,
+    "fecha": "07 de Jan del 2026 a las 11:30 AM",
+    "hora_utc": "2026-01-07 16:30",
+    "mensaje": "Se afecta por déficit el servicio eléctrico al circuito 2020:\nTK85 Leningrado  \nTK108 Tasajera  \nTK84   Poblado Colombia  \nTK86   Poblado Colombia  \nTK88   Dos Hermanos      \nTK107 La Islita    \nTK112 Argentina Norte  \nTK111 Ramírez",
+    "timestamp": 1767803435,
+    "timestamp_local": 1767803435
+  },
+  {
+    "id": 17733,
+    "fecha": "07 de Jan del 2026 a las 11:28 AM",
+    "hora_utc": "2026-01-07 16:28",
+    "mensaje": "Solucionada la avería del TK43",
+    "timestamp": 1767803339,
+    "timestamp_local": 1767803339
+  },
+  {
+    "id": 17732,
+    "fecha": "07 de Jan del 2026 a las 11:27 AM",
+    "hora_utc": "2026-01-07 16:27",
+    "mensaje": "La Empresa Eléctrica Las Tunas informa que, según la nota emitida por la Unión Eléctrica para el 7 de enero, se afectó el servicio durante las 24 horas. En nuestra provincia se afectaron la totalidad de los circuitos apagables, con una máxima afectación de 78.98MW.\nActualmente están fuera de servicio por avería: \nUnidades 5 de la CTE Mariel, Unidad 5 de la CTE Nuevitas, Unidad 2 de la CTE Felton y Unidad 5 de la CTE Antonio Maceo.\nEn mantenimiento se encuentran:  \nUnidad 2 de la CTE Sata Cruz, Unidad 4 de la CTE Carlos Manuel de Céspedes en Cienfuegos. \nEn el horario diurno se pronostica una afectación de 750 MW, lo cual puede representar el 55% de los circuitos en nuestra provincia. En el horario nocturno se estima una afectación de 1680 MW, lo cual puede representar el 85 % de los circuitos apagables. Estos valores pueden variar según la demanda nacional.",
+    "timestamp": 1767803229,
+    "timestamp_local": 1767803229
+  },
+  {
     "id": 17731,
     "fecha": "07 de Jan del 2026 a las 09:30 AM",
     "hora_utc": "2026-01-07 14:30",
@@ -126,29 +150,5 @@
     "mensaje": "Se afecta por déficit el circuito 2020:TK85 Leningrado  \nTK108 Tasajera  \nTK84   Poblado Colombia  \nTK86   Poblado Colombia  \nTK88   Dos Hermanos      \nTK107 La Islita    \nTK112 Argentina Norte  \nTK111 Ramírez",
     "timestamp": 1767732292,
     "timestamp_local": 1767732292
-  },
-  {
-    "id": 17714,
-    "fecha": "06 de Jan del 2026 a las 03:43 PM",
-    "hora_utc": "2026-01-06 20:43",
-    "mensaje": "Solucionada la avería del circuito TK51",
-    "timestamp": 1767732222,
-    "timestamp_local": 1767732222
-  },
-  {
-    "id": 17713,
-    "fecha": "06 de Jan del 2026 a las 01:15 PM",
-    "hora_utc": "2026-01-06 18:15",
-    "mensaje": "Se afecta el servicio eléctrico por déficit al circuito 6230:\nTK59  Vedado 3  \nTK67  Porcino     \nTK68  Vedado 6  \nTK69  Transporte  \nTK70  Transporte  \nTK99  La Pedrera  \nTK98  La Pedrera",
-    "timestamp": 1767723357,
-    "timestamp_local": 1767723357
-  },
-  {
-    "id": 17712,
-    "fecha": "06 de Jan del 2026 a las 01:14 PM",
-    "hora_utc": "2026-01-06 18:14",
-    "mensaje": "Se declara en avería el circuito TK51",
-    "timestamp": 1767723292,
-    "timestamp_local": 1767723292
   }
 ]
