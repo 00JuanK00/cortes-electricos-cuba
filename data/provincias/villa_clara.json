@@ -1,5 +1,21 @@
 [
   {
+    "id": 37509,
+    "fecha": "07 de Jan del 2026 a las 11:12 AM",
+    "hora_utc": "2026-01-07 16:12",
+    "mensaje": "Afectados 55 MW por déficit de capacidad de generación, demanda máxima a apagar en estos momentos.",
+    "timestamp": 1767802349,
+    "timestamp_local": 1767802349
+  },
+  {
+    "id": 37508,
+    "fecha": "07 de Jan del 2026 a las 11:11 AM",
+    "hora_utc": "2026-01-07 16:11",
+    "mensaje": "⚡Avería⚡\nAfectado el Cto 55 (Rancho Veloz) de manera parcial, perteneciente al municipio Corralillo, se estudian las causas.",
+    "timestamp": 1767802288,
+    "timestamp_local": 1767802288
+  },
+  {
     "id": 37507,
     "fecha": "07 de Jan del 2026 a las 10:25 AM",
     "hora_utc": "2026-01-07 15:25",
@@ -118,21 +134,5 @@
     "mensaje": "⚠️Afectados por déficit de capacidad de generación los siguientes circuitos:\n🔹Municipio Manicaragua:\n👉Ctos 109 y 150\n👉Ctos 108 y 110 La Piedra\n👉Cto 111 Mataguá",
     "timestamp": 1767780974,
     "timestamp_local": 1767780974
-  },
-  {
-    "id": 37489,
-    "fecha": "07 de Jan del 2026 a las 05:03 AM",
-    "hora_utc": "2026-01-07 10:03",
-    "mensaje": "⚠️Afectados por déficit de capacidad de generación los siguientes circuitos:\n🔸Municipio Cifuentes:\n👉Ctos 114 y 117\n👉Ctos 116 y 155 Mata\n👉Cto 186 Batey Unidad Proletaria\n👉Cto 184 Sitio Grande",
-    "timestamp": 1767780205,
-    "timestamp_local": 1767780205
-  },
-  {
-    "id": 37488,
-    "fecha": "07 de Jan del 2026 a las 05:02 AM",
-    "hora_utc": "2026-01-07 10:02",
-    "mensaje": "Afectados 10 MW por déficit de capacidad de generación, demanda máxima a apagar en estos momentos.",
-    "timestamp": 1767780166,
-    "timestamp_local": 1767780166
   }
 ]
