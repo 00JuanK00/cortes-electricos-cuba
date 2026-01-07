@@ -1,5 +1,29 @@
 [
   {
+    "id": 48139,
+    "fecha": "07 de Jan del 2026 a las 06:38 AM",
+    "hora_utc": "2026-01-07 11:38",
+    "mensaje": "🔉 Estimados clientes se les informa que se encuentran afectados los circuitos 16 , 20 , 26 de Santiago , 1 de Palma , línea 5380 Mella por déficit en capacidad de generación .",
+    "timestamp": 1767785910,
+    "timestamp_local": 1767785910
+  },
+  {
+    "id": 48138,
+    "fecha": "07 de Jan del 2026 a las 06:36 AM",
+    "hora_utc": "2026-01-07 11:36",
+    "mensaje": "🔉 Estimados clientes se les informa que se encuentran afectados línea 5330 Cristo , circuitos 8 , 9 seccionalizado  , 24 de Santiago por déficit en capacidad de generación .",
+    "timestamp": 1767785768,
+    "timestamp_local": 1767785768
+  },
+  {
+    "id": 48137,
+    "fecha": "07 de Jan del 2026 a las 06:33 AM",
+    "hora_utc": "2026-01-07 11:33",
+    "mensaje": "🔉 Estimados clientes se les informa que se encuentra afectados los circuitos 13 , 23 ,20 de Santiago , línea 5390 La Maya - II Frente por déficit en capacidad de generación .",
+    "timestamp": 1767785599,
+    "timestamp_local": 1767785599
+  },
+  {
     "id": 48132,
     "fecha": "07 de Jan del 2026 a las 12:11 AM",
     "hora_utc": "2026-01-07 05:11",
@@ -86,29 +110,5 @@
     "mensaje": "🚨Estimados clientes se les informa que el circuito 4 de Palma se encuentra en Vía Libre , va estar afectado Nito Ortega , disculpen por las molestias ocasionadas.",
     "timestamp": 1767746804,
     "timestamp_local": 1767746804
-  },
-  {
-    "id": 48119,
-    "fecha": "06 de Jan del 2026 a las 06:43 PM",
-    "hora_utc": "2026-01-06 23:43",
-    "mensaje": "Circuito en avería:                                                                                                                          Sucede si un circuito se interrumpe por causa de un defecto en un cable conductor de corriente (fase o neutro), un fusible fundido o disyuntor. En sistemas trifásicos una falla puede implicar una fase, más de una fase con la tierra o puede ocurrir solo entre fases.",
-    "timestamp": 1767743025,
-    "timestamp_local": 1767743025
-  },
-  {
-    "id": 48118,
-    "fecha": "06 de Jan del 2026 a las 06:43 PM",
-    "hora_utc": "2026-01-06 23:43",
-    "mensaje": "🚨Estimados clientes se les informa que el circuito 14 se encuentra en Avería , disculpen por las molestias ocasionadas .",
-    "timestamp": 1767743012,
-    "timestamp_local": 1767743012
-  },
-  {
-    "id": 48117,
-    "fecha": "06 de Jan del 2026 a las 06:35 PM",
-    "hora_utc": "2026-01-06 23:35",
-    "mensaje": "Déficit de Capacidad de Generación:    \nSe produce cuando la demanda del Sistema Eléctrico Nacional, en determinado horario del día, supera la generación disponible del país, provocando la desconexión de los circuitos o líneas que permitan garantizar la frecuencia del SEN.",
-    "timestamp": 1767742505,
-    "timestamp_local": 1767742505
   }
 ]
