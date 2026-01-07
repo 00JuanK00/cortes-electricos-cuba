@@ -1,5 +1,37 @@
 [
   {
+    "id": 37476,
+    "fecha": "06 de Jan del 2026 a las 10:24 PM",
+    "hora_utc": "2026-01-07 03:24",
+    "mensaje": "🔸Actualización del servicio eléctrico en la provincia🔸\n✍️Se mantienen afectados en la provincia 106 circuitos.\n✍️En el momento de hacer esta nota la provincia tiene 65 MW por déficit de capacidad de generación.\n✍️Cuenta con 51 afectaciones por averías secundarias y de servicio.",
+    "timestamp": 1767756263,
+    "timestamp_local": 1767756263
+  },
+  {
+    "id": 37475,
+    "fecha": "06 de Jan del 2026 a las 10:23 PM",
+    "hora_utc": "2026-01-07 03:23",
+    "mensaje": "Con servicio el circuito 166 (Condado), del municipio Santa Clara.",
+    "timestamp": 1767756207,
+    "timestamp_local": 1767756207
+  },
+  {
+    "id": 37474,
+    "fecha": "06 de Jan del 2026 a las 10:04 PM",
+    "hora_utc": "2026-01-07 03:04",
+    "mensaje": "🛠️Afectado por manipulación el circuito 166 (Condado), del municipio Santa Clara.",
+    "timestamp": 1767755051,
+    "timestamp_local": 1767755051
+  },
+  {
+    "id": 37473,
+    "fecha": "06 de Jan del 2026 a las 10:02 PM",
+    "hora_utc": "2026-01-07 03:02",
+    "mensaje": "💡Con servicio los siguientes circuitos:\n🔹Municipio Santo Domingo:\nCto 195 Batey George Washington\nCtos 83 y 165 Manacas\nCtos 85 y 86 Pajarito\nCtos 160 y 161 Cascajal\n🔹Municipio Ranchuelo:\nCto 92 Esperanza (Pueblo)\nCto 93 Esperanza (Campo)\nCtos 54, 94 y 95 Jicotea\n🔹Municipio Santa Clara\nCtos 26 y 141 (Manuelita)\nCto 191 (Quemado de Hilario) \n🔹Municipio Santo Domingo\nCto 79 (Santo Domingo)\nCto 81 (26 de Julio)\nCto 163 (Batey 26 de Julio",
+    "timestamp": 1767754965,
+    "timestamp_local": 1767754965
+  },
+  {
     "id": 37472,
     "fecha": "06 de Jan del 2026 a las 09:01 PM",
     "hora_utc": "2026-01-07 02:01",
@@ -118,37 +150,5 @@
     "mensaje": "🛠️Afectados por manipulación los circuitos 13 (Zona Industrial), 5 (Dobarganes) y 17 (Subplanta), del municipio Santa Clara.",
     "timestamp": 1767731262,
     "timestamp_local": 1767731262
-  },
-  {
-    "id": 37456,
-    "fecha": "06 de Jan del 2026 a las 03:24 PM",
-    "hora_utc": "2026-01-06 20:24",
-    "mensaje": "Con servicio la línea 1920:\n🔹Municipio Placetas:\n👉Cto 101 y 145 Cumbre (Continúan afectados por déficit)\n👉Cto 107 Baez\n👉Cto 105 Nazareno",
-    "timestamp": 1767731074,
-    "timestamp_local": 1767731074
-  },
-  {
-    "id": 37455,
-    "fecha": "06 de Jan del 2026 a las 03:23 PM",
-    "hora_utc": "2026-01-06 20:23",
-    "mensaje": "⚠️Afectados por déficit de capacidad de generación los siguientes circuitos:\n🔹Municipio Ranchuelo:\n👉Cto 92 Esperanza (Pueblo)\n👉Cto 93 Esperanza (Campo)\n👉Ctos 54, 94 y 95 Jicotea\n🔹Municipio Santa Clara\n👉Ctos 26 y 141 (Manuelita)\n👉Cto 191 (Quemado de Hilario) \n🔹Municipio Santo Domingo\n👉Cto 79 (Santo Domingo)\n👉Cto 81 (26 de Julio)\n👉Cto 163 (Batey 26 de Julio",
-    "timestamp": 1767730989,
-    "timestamp_local": 1767730989
-  },
-  {
-    "id": 37454,
-    "fecha": "06 de Jan del 2026 a las 03:20 PM",
-    "hora_utc": "2026-01-06 20:20",
-    "mensaje": "🛠️Afectado por DAF (Disparo Automático por Frecuencia) la línea 1920:\nAfecta los siguientes circuitos:\n🔹Municipio Placetas:\n👉Cto 101 y 145 Cumbre (Déficit)\n👉Cto 107 Baez\n👉Cto 105 Nazareno",
-    "timestamp": 1767730813,
-    "timestamp_local": 1767730813
-  },
-  {
-    "id": 37453,
-    "fecha": "06 de Jan del 2026 a las 03:05 PM",
-    "hora_utc": "2026-01-06 20:05",
-    "mensaje": "⚠️Afectados por déficit de capacidad de generación los siguientes circuitos:\n🔹Municipio Encrucijada:\n👉Cto 122 Encrucijada \n👉Cto 123 Vizcaya \n👉Cto 142 Comunidad La Sierra \n👉Cto 126 Batey Emilio Córdova\n👉Cto 125 Cavarrocas\n👉Cto 124 El Santo\n🔹Municipio Camajuaní:\n👉Cto 78 Jutiero",
-    "timestamp": 1767729905,
-    "timestamp_local": 1767729905
   }
 ]
