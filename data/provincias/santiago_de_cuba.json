@@ -1,5 +1,21 @@
 [
   {
+    "id": 48147,
+    "fecha": "07 de Jan del 2026 a las 04:34 PM",
+    "hora_utc": "2026-01-07 21:34",
+    "mensaje": "🔊Estimados clientes en estos momentos se encuentran afectados por Déficit de Capacidad de Generación el SI 5975 Baconao y LI 5385 San Luis",
+    "timestamp": 1767821658,
+    "timestamp_local": 1767821658
+  },
+  {
+    "id": 48146,
+    "fecha": "07 de Jan del 2026 a las 04:27 PM",
+    "hora_utc": "2026-01-07 21:27",
+    "mensaje": "🔊Estimados clientes en estos momentos se encuentran por Déficit de Capacidad de Generación los circuitos 12 , 2 , 21 , 25 de Santiago , el 2 de Palma y Las Líneas 5395 San Luis ,4390 Contramaestre , 5380 Mella",
+    "timestamp": 1767821257,
+    "timestamp_local": 1767821257
+  },
+  {
     "id": 48145,
     "fecha": "07 de Jan del 2026 a las 01:23 PM",
     "hora_utc": "2026-01-07 18:23",
@@ -102,21 +118,5 @@
     "mensaje": "Manipulaciones:\nAcción que se realizan en los circuitos para dar paso al trabajo en zonas afectadas por averías o Vía Libre y posteriormente para restablecer el servicio eléctrico en los circuitos que se encontraban afectados y en los que se trabaja con anterioridad, luego de culminadas las labores pertinentes.",
     "timestamp": 1767756097,
     "timestamp_local": 1767756097
-  },
-  {
-    "id": 48127,
-    "fecha": "06 de Jan del 2026 a las 10:21 PM",
-    "hora_utc": "2026-01-07 03:21",
-    "mensaje": "🔉 Estimados clientes se les informa que se encuentra afectado el circuito 2 por manipulación .",
-    "timestamp": 1767756082,
-    "timestamp_local": 1767756082
-  },
-  {
-    "id": 48126,
-    "fecha": "06 de Jan del 2026 a las 10:10 PM",
-    "hora_utc": "2026-01-07 03:10",
-    "mensaje": "Disparo:\nApertura no voluntaria de un interruptor  como vía de protección para desconectar uno o varios elementos del circuito ,subestación o sistema, restableciéndose el servicio rápidamente en dependencia de la causa.",
-    "timestamp": 1767755425,
-    "timestamp_local": 1767755425
   }
 ]
