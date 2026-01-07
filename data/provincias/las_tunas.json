@@ -1,5 +1,13 @@
 [
   {
+    "id": 17731,
+    "fecha": "07 de Jan del 2026 a las 09:30 AM",
+    "hora_utc": "2026-01-07 14:30",
+    "mensaje": "Nota Informativa: Estado del Sistema Eléctrico Nacional (SEN) – 7 de enero de 2026\n\nEn el día de ayer se afectó el servicio durante las 24 horas. La máxima afectación por déficit de capacidad de generación en el día de ayer fue de 1710 MW a las 18:20 horas, a las 01:54 horas de la madrugada de hoy quedo restablecido el servicio y a las 04:54 se comenzó nuevamente a afectar el servicio por déficit de capacidad de generación.\n\nLa producción de energía de los 34 nuevos parques solares fotovoltaicos fue de 3062 MWh, con 649 MW como máxima potencia entregada en el horario de la media con esta fuente de generación.\nEstado actual del SEN\n\nLa disponibilidad del SEN a las 06:30 horas es de 1550 MW, la demanda 2040 MW, con 520 MW afectados por déficit. En el horario de la media se estima una afectación de 750 MW.\nPrincipales incidencias\n\n    Avería: Unidades 5 de la CTE Mariel, Unidad 5 de la CTE Nuevitas, Unidad 2 de la CTE Felton y Unidad 5 de la CTE Antonio Maceo.\n    Mantenimiento: Unidad 2 de la CTE Sata Cruz, Unidad 4 de la CTE Carlos Manuel de Céspedes en Cienfuegos.\n    Limitaciones en la generación térmica: 560 MW fuera de servicio.\n    Problemas por falta de combustible\n        100 centrales de generación distribuida con 877 MW.\n        150 MW indisponibles por falta de lubricante.\n        Total de MW afectados por esta causa: 1027 MW.\n\nPronóstico para el horario pico\n\nPara el horario pico se prevé una disponibilidad de 1550 MW y una demanda máxima de 3200 MW, para un déficit de 1650 MW, por lo que de mantenerse las condiciones previstas se pronostica una afectación de 1680 MW en este horario.",
+    "timestamp": 1767796244,
+    "timestamp_local": 1767796244
+  },
+  {
     "id": 17730,
     "fecha": "07 de Jan del 2026 a las 09:18 AM",
     "hora_utc": "2026-01-07 14:18",
@@ -142,13 +150,5 @@
     "mensaje": "Se declara en avería el circuito TK51",
     "timestamp": 1767723292,
     "timestamp_local": 1767723292
-  },
-  {
-    "id": 17711,
-    "fecha": "06 de Jan del 2026 a las 12:12 PM",
-    "hora_utc": "2026-01-06 17:12",
-    "mensaje": "Se encuentra afectado el servicio eléctrico por déficit a los siguientes circuitos:\nTK29  Circunvalación Sur desde la entrada de 4 Caminos hasta Oro Negro\nTK15  Tunas El Pueblo  \nTK2  Bonachea  \nTK5  Buena Vista, Los Pinos\nTK7  La Victoria\nTK18  Las Cuarenta y Rpto. Velázquez  \nTK106  Palancón,Buena Vista  \nTK48  Puerto P. y Maniabón\n6820:\nTK75  Vicente Pérez  \nTK77  San Alberto  \nTK78  Ana Luisa  \nTK76  El Paraíso\n\nTK19  KM7, San Antonio y Ciruelito  \nTK25  4 Caminos, Dormitorio\nTK31  pueblo Manatí    \nTK33  pueblo Manatí    \nTK34  pueblo Manatí",
-    "timestamp": 1767719575,
-    "timestamp_local": 1767719575
   }
 ]

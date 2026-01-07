@@ -1,5 +1,37 @@
 [
   {
+    "id": 102727,
+    "fecha": "07 de Jan del 2026 a las 09:41 AM",
+    "hora_utc": "2026-01-07 14:41",
+    "mensaje": "🔷Restablecido el servicio en los siguientes circuitos que se encontraban afectados por manipulación:\n*3930\n*4105\n🔷",
+    "timestamp": 1767796905,
+    "timestamp_local": 1767796905
+  },
+  {
+    "id": 102726,
+    "fecha": "07 de Jan del 2026 a las 09:28 AM",
+    "hora_utc": "2026-01-07 14:28",
+    "mensaje": "🔷♦️Se restablece el servicio en el circuito que se encontraba afectado  por déficit de capacidad de generación:\n*La Salud 2♦️🔷",
+    "timestamp": 1767796122,
+    "timestamp_local": 1767796122
+  },
+  {
+    "id": 102725,
+    "fecha": "07 de Jan del 2026 a las 09:26 AM",
+    "hora_utc": "2026-01-07 14:26",
+    "mensaje": "♦️Afectado el servicio en el circuito Sopapo 2 por manipulación ♦️",
+    "timestamp": 1767796005,
+    "timestamp_local": 1767796005
+  },
+  {
+    "id": 102724,
+    "fecha": "07 de Jan del 2026 a las 09:26 AM",
+    "hora_utc": "2026-01-07 14:26",
+    "mensaje": "♦️Afectado el servicio en el circuito 1790 por avería ♦️",
+    "timestamp": 1767795969,
+    "timestamp_local": 1767795969
+  },
+  {
     "id": 102723,
     "fecha": "07 de Jan del 2026 a las 09:00 AM",
     "hora_utc": "2026-01-07 14:00",
@@ -102,29 +134,5 @@
     "mensaje": "🔷Restablecido el servicio en el circuito 3140 que se encontraba afectado por disparo por DAF🔷",
     "timestamp": 1767781356,
     "timestamp_local": 1767781356
-  },
-  {
-    "id": 102707,
-    "fecha": "07 de Jan del 2026 a las 05:19 AM",
-    "hora_utc": "2026-01-07 10:19",
-    "mensaje": "🔷Restablecido el servicio en el circuito 3590 que se encontraba afectado por disparo por DAF🔷",
-    "timestamp": 1767781153,
-    "timestamp_local": 1767781153
-  },
-  {
-    "id": 102706,
-    "fecha": "07 de Jan del 2026 a las 05:03 AM",
-    "hora_utc": "2026-01-07 10:03",
-    "mensaje": "🚨Por déficit de capacidad de generación se afecta el servicio en los siguientes circuitos:\n*1790\n*Bio 1🚨",
-    "timestamp": 1767780181,
-    "timestamp_local": 1767780181
-  },
-  {
-    "id": 102705,
-    "fecha": "07 de Jan del 2026 a las 04:57 AM",
-    "hora_utc": "2026-01-07 09:57",
-    "mensaje": "♦️ Afectado el servicio en los siguientes circuitos por disparo por DAF:\n*3140\n*3590♦️",
-    "timestamp": 1767779854,
-    "timestamp_local": 1767779854
   }
 ]
