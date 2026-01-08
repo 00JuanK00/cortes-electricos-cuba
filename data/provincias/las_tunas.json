@@ -1,5 +1,13 @@
 [
   {
+    "id": 17742,
+    "fecha": "08 de Jan del 2026 a las 08:02 AM",
+    "hora_utc": "2026-01-08 13:02",
+    "mensaje": "Nota Informativa: Estado del Sistema Eléctrico Nacional (SEN) – 8 de enero de 2026\n\nEn el día de ayer se afectó el servicio desde las 04:54 hasta las 03:11 de la madrugada del día de hoy. La máxima afectación por déficit de capacidad de generación en el día de ayer fue de 1739 MW a las 18:00 horas.\n\nLa producción de energía de los 34 nuevos parques solares fotovoltaicos fue de 3224 MWh, con 654 MW como máxima potencia entregada en el horario de la media con esta fuente de generación.\nEstado actual del SEN\n\nLa disponibilidad del SEN a las 06:30 horas es de 1560 MW, la demanda 2100 MW, con 505 MW afectados por déficit desde las 04:49. En el horario de la media se estima una afectación de 950 MW.\nPrincipales incidencias\n\n    Avería: Unidades 5 de la CTE Mariel, Unidad 5 de la CTE Nuevitas, Unidad 2 de la CTE Felton.\n    Mantenimiento: Unidad 2 de la CTE Sata Cruz, Unidad 4 de la CTE Carlos Manuel de Céspedes en Cienfuegos.\n    Limitaciones en la generación térmica: 621 MW fuera de servicio.\n    Problemas por falta de combustible\n        116 centrales de generación distribuida con 875 MW.\n        142 MW indisponibles por falta de lubricante.\n        Total de MW afectados por esta causa: 1017 MW.\n\nPronóstico para el horario pico\n\nPara el horario pico se prevé una disponibilidad de 1560 MW y una demanda máxima de 3200 MW, para un déficit de 1640 MW, por lo que de mantenerse las condiciones previstas se pronostica una afectación de 1670 MW en este horario.",
+    "timestamp": 1767877362,
+    "timestamp_local": 1767877362
+  },
+  {
     "id": 17741,
     "fecha": "08 de Jan del 2026 a las 06:34 AM",
     "hora_utc": "2026-01-08 11:34",
@@ -134,13 +142,5 @@
     "mensaje": "Se declara en avería el circuito:TK43 Las Parras, Omaja y Cañada Honda",
     "timestamp": 1767767888,
     "timestamp_local": 1767767888
-  },
-  {
-    "id": 17721,
-    "fecha": "07 de Jan del 2026 a las 12:40 AM",
-    "hora_utc": "2026-01-07 05:40",
-    "mensaje": "Se afectan además los circuitos:\nTK20 Becerra \nTK21 Tunazúcar",
-    "timestamp": 1767764459,
-    "timestamp_local": 1767764459
   }
 ]
