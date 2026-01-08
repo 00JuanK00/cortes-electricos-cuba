@@ -1,5 +1,21 @@
 [
   {
+    "id": 42110,
+    "fecha": "07 de Jan del 2026 a las 10:13 PM",
+    "hora_utc": "2026-01-08 03:13",
+    "mensaje": "🚨**Información**🚨\n\nSe restablece el servicio eléctrico para el siguiente circuito que se encontraba afectado por un disparo por frecuencia:\n\n👉Circuito 102 de Fomento",
+    "timestamp": 1767841990,
+    "timestamp_local": 1767841990
+  },
+  {
+    "id": 42109,
+    "fecha": "07 de Jan del 2026 a las 09:55 PM",
+    "hora_utc": "2026-01-08 02:55",
+    "mensaje": "🚨**Información**🚨\n\nSe afecta el servicio eléctrico para el siguiente circuito por un disparo por frecuencia:\n\n👉Circuito 102 de Fomento",
+    "timestamp": 1767840943,
+    "timestamp_local": 1767840943
+  },
+  {
     "id": 42108,
     "fecha": "07 de Jan del 2026 a las 09:07 PM",
     "hora_utc": "2026-01-08 02:07",
@@ -126,21 +142,5 @@
     "mensaje": "🚨**Para las 12:00 am**🚨\n\n\nSe afecta el servicio eléctrico para los siguientes circuitos por Déficit de Generación:\n\n👉Circuito 71 de Cabaiguán\n👉Circuito 72 de Cabaiguán\n👉Circuito 102 de Fomento\n👉Circuito 29 de Fomento\n👉Circuito 60 de Trinidad\n👉Circuito 108 de trinidad\n\n**Se Restablece en este mismo horario los siguientes circuitos que se encontraban afectados por Déficit de Generación:**\n\n👉Circuito 76 de Fomento \n👉Circuito 77 de Fomento\n👉Circuito 31 de Yaguajay\n👉Circuito 18 de Guayos \n👉Circuito 27 de Guayos \n👉Circuito 28 de Guayos\n\n\nCon esta situación en el sistema eléctrico🪫las afectaciones serían de 6️⃣ a 8️⃣ horas aproximadamente, y entre 2️⃣ a 3️⃣ horas con servicio eléctrico.\n\nLas horas de afectación⏱️ pueden variar en dependencia del aumento o la disminución de la demanda📊 o cualquier situación🛠️ que se presente en el sistema eléctrico🔌",
     "timestamp": 1767805001,
     "timestamp_local": 1767805001
-  },
-  {
-    "id": 42090,
-    "fecha": "07 de Jan del 2026 a las 11:23 AM",
-    "hora_utc": "2026-01-07 16:23",
-    "mensaje": "🚨Déficit de Generación🚨\n\nSe afecta el servicio eléctrico para la siguiente Linea por Déficit de Generación:\n\n👉Linea 7115 de Yaguajay \n\n\nCon esta situación en el sistema eléctrico🪫las afectaciones serían de 6️⃣ a 8️⃣ horas aproximadamente, y entre 2️⃣ a 3️⃣ horas con servicio eléctrico.\n\nLas horas de afectación⏱️ pueden variar en dependencia del aumento o la disminución de la demanda📊 o cualquier situación🛠️ que se presente en el sistema eléctrico🔌.",
-    "timestamp": 1767802991,
-    "timestamp_local": 1767802991
-  },
-  {
-    "id": 42089,
-    "fecha": "07 de Jan del 2026 a las 11:07 AM",
-    "hora_utc": "2026-01-07 16:07",
-    "mensaje": "🚨Para las 11:05 am 🚨\n\n\nSe va a restablecer el servicio eléctrico para el siguiente circuito que se encontraba afectado por déficit de generación:\n\n👉Circuito 111 de Sancti Spíritus \n👉Circuito 23 de Neiva\n👉Circuito 24 de Jíquima \n👉Circuito 25 de Jíquima\n👉Circuito 26 de Minas de Jarahueca \n\n\nLas afectaciones serían de 6️⃣ a 8️⃣ horas aproximadamente, y entre 2️⃣ y 3️⃣ horas con servicio eléctrico.\n\nLas horas⏱️ de afectación pueden variar en dependencia del aumento o la disminución de la demanda📊 o cualquier situación🛠️ que se presente en el sistema eléctrico🏭.\n\n⛔Nota: El proceso de restablecimiento de los circuitos puede demorar unos minutos ya que se va realizando de forma escalonada⛔",
-    "timestamp": 1767802074,
-    "timestamp_local": 1767802074
   }
 ]
