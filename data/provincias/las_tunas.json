@@ -1,5 +1,13 @@
 [
   {
+    "id": 17745,
+    "fecha": "08 de Jan del 2026 a las 12:14 PM",
+    "hora_utc": "2026-01-08 17:14",
+    "mensaje": "Se afecta el servicio eléctrico por déficit, además, a los siguientes circuitos:\nTK2  Bonachea\nTK26  Circunvalación Sur\nTK106 Palancón, Buena Vista\nTK18  Las Cuarenta y Rpto. Velázquez  \nParte del TK15   Tunas El Pueblo",
+    "timestamp": 1767892446,
+    "timestamp_local": 1767892446
+  },
+  {
     "id": 17744,
     "fecha": "08 de Jan del 2026 a las 09:38 AM",
     "hora_utc": "2026-01-08 14:38",
@@ -134,13 +142,5 @@
     "mensaje": "Restablecido el circuito:TK87 Pueblo Jobabo",
     "timestamp": 1767772127,
     "timestamp_local": 1767772127
-  },
-  {
-    "id": 17724,
-    "fecha": "07 de Jan del 2026 a las 01:53 AM",
-    "hora_utc": "2026-01-07 06:53",
-    "mensaje": "Se cierra el déficit en la provincia.",
-    "timestamp": 1767768816,
-    "timestamp_local": 1767768816
   }
 ]
