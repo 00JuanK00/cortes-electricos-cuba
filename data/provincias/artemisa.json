@@ -1,5 +1,29 @@
 [
   {
+    "id": 35059,
+    "fecha": "08 de Jan del 2026 a las 02:36 PM",
+    "hora_utc": "2026-01-08 19:36",
+    "mensaje": "✅ Restablecido el circuito 3210 que se encontraba abierto por emergencia",
+    "timestamp": 1767901015,
+    "timestamp_local": 1767901015
+  },
+  {
+    "id": 35058,
+    "fecha": "08 de Jan del 2026 a las 02:31 PM",
+    "hora_utc": "2026-01-08 19:31",
+    "mensaje": "🚨Vía libre en el circuito 1 de Baracoa para cambio de transformador",
+    "timestamp": 1767900687,
+    "timestamp_local": 1767900687
+  },
+  {
+    "id": 35057,
+    "fecha": "08 de Jan del 2026 a las 02:18 PM",
+    "hora_utc": "2026-01-08 19:18",
+    "mensaje": "❌Tenemos una afectación de 55 MW",
+    "timestamp": 1767899888,
+    "timestamp_local": 1767899888
+  },
+  {
     "id": 35056,
     "fecha": "08 de Jan del 2026 a las 02:11 PM",
     "hora_utc": "2026-01-08 19:11",
@@ -134,29 +158,5 @@
     "mensaje": "🚨Afectado por deficit el circuito 2 de Cárcel en Guanajay",
     "timestamp": 1767823813,
     "timestamp_local": 1767823813
-  },
-  {
-    "id": 35039,
-    "fecha": "07 de Jan del 2026 a las 04:27 PM",
-    "hora_utc": "2026-01-07 21:27",
-    "mensaje": "🚨Afectados por déficit los circuitos\n\n➡️5040 de Caimito \n➡️3205 de Cabaña y Quiebra Hacha\n➡️Mani de San Cristóbal\n➡️Baracoa Playa \n➡️1570 de Artemisa y Candelaria\n➡️1940 de San Antonio\n➡️Güira 13 mil y 4 mil\n➡️236 de Bahía Honda\n➡️4 Caminos y el Martí de San Cristóbal\n\n‼️ Tenemos una afectación de 122 MW",
-    "timestamp": 1767821272,
-    "timestamp_local": 1767821272
-  },
-  {
-    "id": 35038,
-    "fecha": "07 de Jan del 2026 a las 02:49 PM",
-    "hora_utc": "2026-01-07 19:49",
-    "mensaje": "🚨‼️Vía Libre en el circuito S240 de San Cristóbal para reparar interruptor dañado",
-    "timestamp": 1767815366,
-    "timestamp_local": 1767815366
-  },
-  {
-    "id": 35037,
-    "fecha": "07 de Jan del 2026 a las 02:40 PM",
-    "hora_utc": "2026-01-07 19:40",
-    "mensaje": "🚨Afectado por deficit el circuito 3205 de Cabaña y Quiebra Hacha \n\n‼️Nos mantenemos con una afectación de 72 MW",
-    "timestamp": 1767814826,
-    "timestamp_local": 1767814826
   }
 ]
