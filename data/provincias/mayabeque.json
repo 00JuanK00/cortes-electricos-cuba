@@ -1,5 +1,21 @@
 [
   {
+    "id": 102911,
+    "fecha": "09 de Jan del 2026 a las 02:05 PM",
+    "hora_utc": "2026-01-09 19:05",
+    "mensaje": "🔷 Restablecido el servicio en el circuito 3135 que se encontraba afectado por manipulación 🔷",
+    "timestamp": 1767985550,
+    "timestamp_local": 1767985550
+  },
+  {
+    "id": 102910,
+    "fecha": "09 de Jan del 2026 a las 02:00 PM",
+    "hora_utc": "2026-01-09 19:00",
+    "mensaje": "🚨Por déficit de capacidad de generación se afecta el servicio en el siguiente circuito:\n*Jaruco 🚨",
+    "timestamp": 1767985233,
+    "timestamp_local": 1767985233
+  },
+  {
     "id": 102909,
     "fecha": "09 de Jan del 2026 a las 01:56 PM",
     "hora_utc": "2026-01-09 18:56",
@@ -134,13 +150,5 @@
     "mensaje": "♦️ Afectado el servicio en el circuito 2495 por vía libre por emergencia ♦️",
     "timestamp": 1767972376,
     "timestamp_local": 1767972376
-  },
-  {
-    "id": 102891,
-    "fecha": "09 de Jan del 2026 a las 10:11 AM",
-    "hora_utc": "2026-01-09 15:11",
-    "mensaje": "♦️ Afectado el servicio en el circuito 3 de San José por manipulación♦️",
-    "timestamp": 1767971495,
-    "timestamp_local": 1767971495
   }
 ]
