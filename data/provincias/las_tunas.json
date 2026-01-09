@@ -1,5 +1,21 @@
 [
   {
+    "id": 17752,
+    "fecha": "09 de Jan del 2026 a las 04:13 AM",
+    "hora_utc": "2026-01-09 09:13",
+    "mensaje": "Se restablecen los siguientes circuitos que se encontraban afectados por déficit de generación 💡\nCircuito 33 Kv: 2020\nTK85 Leningrado \nTK108 Tasajera\nTK84 El Triángulo \nTK86 Poblado Colombia \nTK88 Dos Hermanos\nTK107 La Islita \nTK 112 Argentina Norte \nTK111 Ramírez\n\nCircuito 33 Kv: 6230\nTK59 Vedado 3\nTK67 Porcino\nTK68 Vedado 6\nTK69 Poblado de Menéndez\nTK70 Transporte\nTK99 Santa Marías\nTK98 San Manuel, La Pedrera\nTK64 Palma Picada",
+    "timestamp": 1767950037,
+    "timestamp_local": 1767950037
+  },
+  {
+    "id": 17751,
+    "fecha": "09 de Jan del 2026 a las 04:04 AM",
+    "hora_utc": "2026-01-09 09:04",
+    "mensaje": "Se afecta el circuito TK1 Edificios de Buena Vista por emergencia 🚨",
+    "timestamp": 1767949472,
+    "timestamp_local": 1767949472
+  },
+  {
     "id": 17750,
     "fecha": "08 de Jan del 2026 a las 10:04 PM",
     "hora_utc": "2026-01-09 03:04",
@@ -110,21 +126,5 @@
     "mensaje": "Nota Informativa: Estado del Sistema Eléctrico Nacional (SEN) – 7 de enero de 2026\n\nEn el día de ayer se afectó el servicio durante las 24 horas. La máxima afectación por déficit de capacidad de generación en el día de ayer fue de 1710 MW a las 18:20 horas, a las 01:54 horas de la madrugada de hoy quedo restablecido el servicio y a las 04:54 se comenzó nuevamente a afectar el servicio por déficit de capacidad de generación.\n\nLa producción de energía de los 34 nuevos parques solares fotovoltaicos fue de 3062 MWh, con 649 MW como máxima potencia entregada en el horario de la media con esta fuente de generación.\nEstado actual del SEN\n\nLa disponibilidad del SEN a las 06:30 horas es de 1550 MW, la demanda 2040 MW, con 520 MW afectados por déficit. En el horario de la media se estima una afectación de 750 MW.\nPrincipales incidencias\n\n    Avería: Unidades 5 de la CTE Mariel, Unidad 5 de la CTE Nuevitas, Unidad 2 de la CTE Felton y Unidad 5 de la CTE Antonio Maceo.\n    Mantenimiento: Unidad 2 de la CTE Sata Cruz, Unidad 4 de la CTE Carlos Manuel de Céspedes en Cienfuegos.\n    Limitaciones en la generación térmica: 560 MW fuera de servicio.\n    Problemas por falta de combustible\n        100 centrales de generación distribuida con 877 MW.\n        150 MW indisponibles por falta de lubricante.\n        Total de MW afectados por esta causa: 1027 MW.\n\nPronóstico para el horario pico\n\nPara el horario pico se prevé una disponibilidad de 1550 MW y una demanda máxima de 3200 MW, para un déficit de 1650 MW, por lo que de mantenerse las condiciones previstas se pronostica una afectación de 1680 MW en este horario.",
     "timestamp": 1767796244,
     "timestamp_local": 1767796244
-  },
-  {
-    "id": 17730,
-    "fecha": "07 de Jan del 2026 a las 09:18 AM",
-    "hora_utc": "2026-01-07 14:18",
-    "mensaje": "Se afecta el servicio eléctrico por vía libre de mantenimiento al circuito TJ11  Bartle",
-    "timestamp": 1767795538,
-    "timestamp_local": 1767795538
-  },
-  {
-    "id": 17729,
-    "fecha": "07 de Jan del 2026 a las 09:16 AM",
-    "hora_utc": "2026-01-07 14:16",
-    "mensaje": "Se declara en avería el circuito TK43  Las Parras y Omaja",
-    "timestamp": 1767795385,
-    "timestamp_local": 1767795385
   }
 ]
