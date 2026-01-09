@@ -1,5 +1,29 @@
 [
   {
+    "id": 37627,
+    "fecha": "09 de Jan del 2026 a las 03:18 AM",
+    "hora_utc": "2026-01-09 08:18",
+    "mensaje": "Afectados 13 MW por déficit de capacidad de generación, demanda máxima a apagar en estos momentos.",
+    "timestamp": 1767946702,
+    "timestamp_local": 1767946702
+  },
+  {
+    "id": 37626,
+    "fecha": "09 de Jan del 2026 a las 03:15 AM",
+    "hora_utc": "2026-01-09 08:15",
+    "mensaje": "💡Con servicio los siguientes circuitos:\n🔹Municipio Manicaragua:\n👉Ctos 109 y 150\n👉Ctos 108 y 110 La Piedra\n👉Cto 111 Mataguá\n🔹Municipio Cifuentes:\n👉Ctos 114 y 117\n👉Ctos 116 y 155 Mata\n👉Cto 186 Batey Unidad Proletaria\n👉Cto 184 Sitio Grande",
+    "timestamp": 1767946552,
+    "timestamp_local": 1767946552
+  },
+  {
+    "id": 37625,
+    "fecha": "09 de Jan del 2026 a las 03:11 AM",
+    "hora_utc": "2026-01-09 08:11",
+    "mensaje": "💡Con servicio los siguientes circuitos:\n🔹Municipio Ranchuelo: \n👉Ctos 89, 97, 188 y 189\n👉Ctos 148 y 149 San Juan\n👉Cto 91 Batey Osvaldo Herrera\n👉Cto 181 Batey Ifraín Alfonso\n🔹Municipio Santo Domingo:\n👉Cto 134\n👉Ctos 87 y 96 Bermejal\n👉Cto 187 Batey Carlos Baliño\n👉Cto 82 Ulacia\n👉Cto 84 Rodrigo",
+    "timestamp": 1767946283,
+    "timestamp_local": 1767946283
+  },
+  {
     "id": 37624,
     "fecha": "09 de Jan del 2026 a las 02:04 AM",
     "hora_utc": "2026-01-09 07:04",
@@ -118,21 +142,5 @@
     "mensaje": "🔸Actualización del servicio eléctrico en la provincia🔸\n✍️Se mantienen afectados en la provincia 120 circuitos.\n✍️En el momento de hacer esta nota la provincia tiene 95 MW por déficit de capacidad de generación.\n✍️Cuenta con 100 afectaciones por averías secundarias y de servicio.",
     "timestamp": 1767921260,
     "timestamp_local": 1767921260
-  },
-  {
-    "id": 37606,
-    "fecha": "08 de Jan del 2026 a las 07:03 PM",
-    "hora_utc": "2026-01-09 00:03",
-    "mensaje": "💡Restablecido el servicio en los siguientes circuitos:\n➡️Línea 1780 \n🔹Municipio Santa Clara:\n👉Cto 16 Cubanacán \n👉Ctos 23 y 130 La Ceniza\n👉Cto 42 Manajanabo\n🔹Municipio Placetas\n👉Cto 139 Miller\n👉Cto 190 Oliver\n👉Cto 106 Falcón\n👉Ctos 98 y 99 Placetas\n➡️Línea 1785\n🔹Municipio Santa Clara:\n👉Cto 39 (Sandino)",
-    "timestamp": 1767917015,
-    "timestamp_local": 1767917015
-  },
-  {
-    "id": 37605,
-    "fecha": "08 de Jan del 2026 a las 07:01 PM",
-    "hora_utc": "2026-01-09 00:01",
-    "mensaje": "⚡Afectado por avería el Cto 102(Peroti) perteneciente al Municipio Placetas, se estudian las causas.",
-    "timestamp": 1767916901,
-    "timestamp_local": 1767916901
   }
 ]
