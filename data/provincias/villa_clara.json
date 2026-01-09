@@ -1,5 +1,21 @@
 [
   {
+    "id": 37606,
+    "fecha": "08 de Jan del 2026 a las 07:03 PM",
+    "hora_utc": "2026-01-09 00:03",
+    "mensaje": "💡Restablecido el servicio en los siguientes circuitos:\n➡️Línea 1780 \n🔹Municipio Santa Clara:\n👉Cto 16 Cubanacán \n👉Ctos 23 y 130 La Ceniza\n👉Cto 42 Manajanabo\n🔹Municipio Placetas\n👉Cto 139 Miller\n👉Cto 190 Oliver\n👉Cto 106 Falcón\n👉Ctos 98 y 99 Placetas\n➡️Línea 1785\n🔹Municipio Santa Clara:\n👉Cto 39 (Sandino)",
+    "timestamp": 1767917015,
+    "timestamp_local": 1767917015
+  },
+  {
+    "id": 37605,
+    "fecha": "08 de Jan del 2026 a las 07:01 PM",
+    "hora_utc": "2026-01-09 00:01",
+    "mensaje": "⚡Afectado por avería el Cto 102(Peroti) perteneciente al Municipio Placetas, se estudian las causas.",
+    "timestamp": 1767916901,
+    "timestamp_local": 1767916901
+  },
+  {
     "id": 37604,
     "fecha": "08 de Jan del 2026 a las 06:44 PM",
     "hora_utc": "2026-01-08 23:44",
@@ -142,21 +158,5 @@
     "mensaje": "⚠️Afectado por déficit de capacidad de generación el Cto 144 (Libertad Camacho), Municipio Santa Clara.",
     "timestamp": 1767903862,
     "timestamp_local": 1767903862
-  },
-  {
-    "id": 37586,
-    "fecha": "08 de Jan del 2026 a las 03:01 PM",
-    "hora_utc": "2026-01-08 20:01",
-    "mensaje": "Afectados 51 MW por déficit de capacidad de generación, demanda máxima a apagar en estos momentos.",
-    "timestamp": 1767902489,
-    "timestamp_local": 1767902489
-  },
-  {
-    "id": 37585,
-    "fecha": "08 de Jan del 2026 a las 02:48 PM",
-    "hora_utc": "2026-01-08 19:48",
-    "mensaje": "⚠️Afectados por déficit de capacidad de generación los siguientes circuitos:\n🔹Municipio Manicaragua:\n👉Ctos 109 y 150\n👉Ctos 108 y 110 La Piedra\n👉Cto 111 Mataguá",
-    "timestamp": 1767901737,
-    "timestamp_local": 1767901737
   }
 ]
