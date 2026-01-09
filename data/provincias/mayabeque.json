@@ -1,5 +1,21 @@
 [
   {
+    "id": 102903,
+    "fecha": "09 de Jan del 2026 a las 12:15 PM",
+    "hora_utc": "2026-01-09 17:15",
+    "mensaje": "🔷 Restablecido el servicio en el circuito 3930 que se encontraba afectado por manipulación 🔷",
+    "timestamp": 1767978940,
+    "timestamp_local": 1767978940
+  },
+  {
+    "id": 102902,
+    "fecha": "09 de Jan del 2026 a las 12:12 PM",
+    "hora_utc": "2026-01-09 17:12",
+    "mensaje": "♦️ Afectado el servicio en el circuito 3930 por manipulación♦️",
+    "timestamp": 1767978759,
+    "timestamp_local": 1767978759
+  },
+  {
     "id": 102901,
     "fecha": "09 de Jan del 2026 a las 11:49 AM",
     "hora_utc": "2026-01-09 16:49",
@@ -118,21 +134,5 @@
     "mensaje": "♦️ Afectado el servicio en el circuito Bío 2 por manipulación♦️",
     "timestamp": 1767967844,
     "timestamp_local": 1767967844
-  },
-  {
-    "id": 102883,
-    "fecha": "09 de Jan del 2026 a las 09:06 AM",
-    "hora_utc": "2026-01-09 14:06",
-    "mensaje": "♦️ Afectado el servicio en el circuito Caamaño por manipulación♦️",
-    "timestamp": 1767967580,
-    "timestamp_local": 1767967580
-  },
-  {
-    "id": 102882,
-    "fecha": "09 de Jan del 2026 a las 09:04 AM",
-    "hora_utc": "2026-01-09 14:04",
-    "mensaje": "🚨Por déficit de capacidad de generación se afecta el servicio en el siguiente circuito:\n*La Salud 1🚨",
-    "timestamp": 1767967482,
-    "timestamp_local": 1767967482
   }
 ]

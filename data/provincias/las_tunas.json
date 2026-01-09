@@ -1,5 +1,29 @@
 [
   {
+    "id": 17764,
+    "fecha": "09 de Jan del 2026 a las 12:19 PM",
+    "hora_utc": "2026-01-09 17:19",
+    "mensaje": "Se declara en avería el TK23 Veguita",
+    "timestamp": 1767979166,
+    "timestamp_local": 1767979166
+  },
+  {
+    "id": 17763,
+    "fecha": "09 de Jan del 2026 a las 12:02 PM",
+    "hora_utc": "2026-01-09 17:02",
+    "mensaje": "Se afecta el servicio eléctrico por déficit a los siguientes circuitos:\nTK24  Rpto.Santo Domingo\nTK9  Aguilera, La Victoria  \nTK1  Edificios de Buena Vista  \nTK12  Las 40 y Nuevo Sosa  \nTK6  Calle Cuba y zona sur de buena Vista\n6230:\nTK59  Vedado 3  \nTK67  Porcino     \nTK68  Vedado 6  \nTK69  Transporte  \nTK70  Transporte  \nTK99  La Pedrera  \nTK98  La Pedrera  \nTK64  Palma Picada",
+    "timestamp": 1767978156,
+    "timestamp_local": 1767978156
+  },
+  {
+    "id": 17761,
+    "fecha": "09 de Jan del 2026 a las 11:58 AM",
+    "hora_utc": "2026-01-09 16:58",
+    "mensaje": "Solucionada la avería del TK91",
+    "timestamp": 1767977930,
+    "timestamp_local": 1767977930
+  },
+  {
     "id": 17760,
     "fecha": "09 de Jan del 2026 a las 09:06 AM",
     "hora_utc": "2026-01-09 14:06",
@@ -118,21 +142,5 @@
     "mensaje": "Nota Informativa: Estado del Sistema Eléctrico Nacional (SEN) – 8 de enero de 2026\n\nEn el día de ayer se afectó el servicio desde las 04:54 hasta las 03:11 de la madrugada del día de hoy. La máxima afectación por déficit de capacidad de generación en el día de ayer fue de 1739 MW a las 18:00 horas.\n\nLa producción de energía de los 34 nuevos parques solares fotovoltaicos fue de 3224 MWh, con 654 MW como máxima potencia entregada en el horario de la media con esta fuente de generación.\nEstado actual del SEN\n\nLa disponibilidad del SEN a las 06:30 horas es de 1560 MW, la demanda 2100 MW, con 505 MW afectados por déficit desde las 04:49. En el horario de la media se estima una afectación de 950 MW.\nPrincipales incidencias\n\n    Avería: Unidades 5 de la CTE Mariel, Unidad 5 de la CTE Nuevitas, Unidad 2 de la CTE Felton.\n    Mantenimiento: Unidad 2 de la CTE Sata Cruz, Unidad 4 de la CTE Carlos Manuel de Céspedes en Cienfuegos.\n    Limitaciones en la generación térmica: 621 MW fuera de servicio.\n    Problemas por falta de combustible\n        116 centrales de generación distribuida con 875 MW.\n        142 MW indisponibles por falta de lubricante.\n        Total de MW afectados por esta causa: 1017 MW.\n\nPronóstico para el horario pico\n\nPara el horario pico se prevé una disponibilidad de 1560 MW y una demanda máxima de 3200 MW, para un déficit de 1640 MW, por lo que de mantenerse las condiciones previstas se pronostica una afectación de 1670 MW en este horario.",
     "timestamp": 1767877362,
     "timestamp_local": 1767877362
-  },
-  {
-    "id": 17741,
-    "fecha": "08 de Jan del 2026 a las 06:34 AM",
-    "hora_utc": "2026-01-08 11:34",
-    "mensaje": "Se afecta el servicio por déficit a los siguientes circuitos.                                                                                                  **Circuito 33 Kv: 6230**\nTK59 Vedado 3\nTK67 Porcino\nTK68 Vedado 6\nTK69 Poblado de Menéndez\nTK70 Transporte\nTK99 Santa Marías\nTK98 San Manuel, La Pedrera\nTK64 Palma Picada\n**Circuito 33 Kv: 2020**\nTK85 Leningrado \nTK108 Tasajera\nTK84 El Triángulo \nTK86 Poblado Colombia \nTK88 Dos Hermanos\nTK107 La Islita \nTK112 Argentina Norte \nTK111 Ramírez\n**Circuito 33 Kv: 6100**\nTK35 Puerto Manatí\nTK36 El Raúl\nTK22 Aeropuerto\nTK23 Veguita \nTK32 Fleytas \nTK30 Meriño\nTK93 Batey Delicias\nTK48 Puerto Padre y Maniabón\nTK41 Calixto\nTK40 Vista Alegre\nTK42 Gastón y Arroyo Muerto\nTK45 La Ceiba\nTK44 Vivienda\n**Circuito 33 Kv: 6820 **Poblado Amancio, La Carretera                                                                  TK78 Ana Luisa                                                                                                                TK76 El Paraíso\nTK75 Vicente Pérez \nTK77 San Alberto\nCi**rcuito 33 Kv: 4220**\nTK28 La Guinea\nTK52 Covarrubias\nTK31 Pueblo Manatí\nTK33 Pueblo Manatí\nTK34 Pueblo Manatí\nTK53 La Morena y El Malecón \nTK47 La Micro Puerto Padre",
-    "timestamp": 1767872051,
-    "timestamp_local": 1767872051
-  },
-  {
-    "id": 17738,
-    "fecha": "07 de Jan del 2026 a las 08:08 PM",
-    "hora_utc": "2026-01-08 01:08",
-    "mensaje": "🇨🇺 Actualización del Sistema Electroenergético Nacional a las 19:00 del 7 de enero de 2026.\n\nIncidencias:\nUnidad 5 de la CTE Antonio Maceo \"Renté\" en proceso de arranque.",
-    "timestamp": 1767834526,
-    "timestamp_local": 1767834526
   }
 ]
