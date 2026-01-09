@@ -1,5 +1,21 @@
 [
   {
+    "id": 17770,
+    "fecha": "09 de Jan del 2026 a las 05:43 PM",
+    "hora_utc": "2026-01-09 22:43",
+    "mensaje": "Afectado por déficit el circuito:\nCircuito 33 Kv: 2020\nTK85 Leningrado \nTK108 Tasajera\nTK84 El Triángulo \nTK86 Poblado Colombia \nTK88 Dos Hermanos\nTK107 La Islita \nTK 112 Argentina Norte \nTK111 Ramírez",
+    "timestamp": 1767998582,
+    "timestamp_local": 1767998582
+  },
+  {
+    "id": 17769,
+    "fecha": "09 de Jan del 2026 a las 05:02 PM",
+    "hora_utc": "2026-01-09 22:02",
+    "mensaje": "Afectados además los circuitos:\nTK26 Circunvalación Sur hasta La Larga \nTK5 Buena Vista, Los Pinos\nTK15 Tunas El Pueblo",
+    "timestamp": 1767996163,
+    "timestamp_local": 1767996163
+  },
+  {
     "id": 17768,
     "fecha": "09 de Jan del 2026 a las 04:48 PM",
     "hora_utc": "2026-01-09 21:48",
@@ -134,13 +150,5 @@
     "mensaje": "QUE SIGNIFICA E IMPLICA LA MÁXIMA CAPACIDAD APAGABLE EN LA PROVINCIA: \nMáxima capacidad apagable se refiere al nivel máximo de demanda eléctrica que puede ser desconectada o suspendida temporalmente en la provincia, explica la complejidad del déficit de generación o contingencias en el sistema eléctrico.\nRepresenta el límite superior de la reducción de carga que la empresa puede lograr mediante cortes de energía (apagones). Cuanto mayor sea la máxima capacidad apagable, mayor será el déficit de energía.\n¿Qué implica esto?\nSe identifica cuántos circuitos pueden ser apagados para equilibrar la carga del sistema, esto imposibilita realizar rotaciones, pues a excepción de los servicios priorizados, se encuentran afectados todos los circuitos apagables del territorio. Podrán presentarse afectaciones en el servicio de electricidad durante varias horas al día y el tiempo con servicio dependerá del comportamiento del SEN. Esta medida es necesaria para evitar fallas mayores y proteger la infraestructura eléctrica.",
     "timestamp": 1767927869,
     "timestamp_local": 1767927869
-  },
-  {
-    "id": 17747,
-    "fecha": "08 de Jan del 2026 a las 05:18 PM",
-    "hora_utc": "2026-01-08 22:18",
-    "mensaje": "QUE SIGNIFICA E IMPLICA LA MÁXIMA CAPACIDAD APAGABLE EN LA PROVINCIA: \nMáxima capacidad apagable se refiere al nivel máximo de demanda eléctrica que puede ser desconectada o suspendida temporalmente en la provincia, explica la complejidad del déficit de generación o contingencias en el sistema eléctrico.\nRepresenta el límite superior de la reducción de carga que la empresa puede lograr mediante cortes de energía (apagones). Cuanto mayor sea la máxima capacidad apagable, mayor será el déficit de energía.\n¿Qué implica esto?\nSe identifica cuántos circuitos pueden ser apagados para equilibrar la carga del sistema, esto imposibilita realizar rotaciones, pues a excepción de los servicios priorizados, se encuentran afectados todos los circuitos apagables del territorio. Podrán presentarse afectaciones en el servicio de electricidad durante varias horas al día y el tiempo con servicio dependerá del comportamiento del SEN. Esta medida es necesaria para evitar fallas mayores y proteger la infraestructura eléctrica.",
-    "timestamp": 1767910696,
-    "timestamp_local": 1767910696
   }
 ]

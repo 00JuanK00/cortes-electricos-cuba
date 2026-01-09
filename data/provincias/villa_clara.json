@@ -1,5 +1,21 @@
 [
   {
+    "id": 37680,
+    "fecha": "09 de Jan del 2026 a las 05:48 PM",
+    "hora_utc": "2026-01-09 22:48",
+    "mensaje": "⚠️Afectado por déficit de generación el circuito 170 José Martí del municipio Santa Clara.",
+    "timestamp": 1767998937,
+    "timestamp_local": 1767998937
+  },
+  {
+    "id": 37679,
+    "fecha": "09 de Jan del 2026 a las 05:47 PM",
+    "hora_utc": "2026-01-09 22:47",
+    "mensaje": "🕕Actualización del servicio eléctrico en las últimas 6 horas.\n\n👉El déficit de capacidad de generación osciló entre los 74 MW y los 150 MW.\n 👉Cuenta con 98 afectaciones por averías secundarias y de servicio:\n Caibarién (2)\n Camajuaní (2)\n Cifuentes (5)\n Corralillo (2)\n Placetas (18)\n Quemado (1)\n Ranchuelo (7) \n Sagua (14) \n Santa Clara (31)\n Santo Domingo (6)\n🛠️Se encuentran 3 averías en vías de solución.\n🛠️Pendientes a solucionar por el área técnica 8.\n\n⚡La provincia no presenta averías primarias.",
+    "timestamp": 1767998865,
+    "timestamp_local": 1767998865
+  },
+  {
     "id": 37677,
     "fecha": "09 de Jan del 2026 a las 04:28 PM",
     "hora_utc": "2026-01-09 21:28",
@@ -86,29 +102,5 @@
     "mensaje": "🛠️Afectados por vía libre los siguientes circuitos:\n👉Municipio Caibarién:\nCtos 61, 62 \nCtos 63 y 64\nCtos 182 y 183 Van Troy",
     "timestamp": 1767988762,
     "timestamp_local": 1767988762
-  },
-  {
-    "id": 37660,
-    "fecha": "09 de Jan del 2026 a las 02:33 PM",
-    "hora_utc": "2026-01-09 19:33",
-    "mensaje": "⚠️Afectados por déficit de capacidad de generación los siguientes circuitos:\n👉Municipio Remedios:\nCtos 67 y 152, 68 y 118 \nCtos 69 y 70 Zuluetas\nCto 143 Batey Heriberto Duquesne\nCto 71 Buena Vista",
-    "timestamp": 1767987212,
-    "timestamp_local": 1767987212
-  },
-  {
-    "id": 37659,
-    "fecha": "09 de Jan del 2026 a las 02:14 PM",
-    "hora_utc": "2026-01-09 19:14",
-    "mensaje": "🔸Actualización del servicio eléctrico en la provincia🔸\n✍️Se mantienen afectados en la provincia 65 circuitos.\n✍️En el momento de hacer esta nota la provincia tiene 50 MW por déficit de capacidad de generación.\n✍️Cuenta con 103 afectaciones por averías secundarias y de servicio.",
-    "timestamp": 1767986069,
-    "timestamp_local": 1767986069
-  },
-  {
-    "id": 37658,
-    "fecha": "09 de Jan del 2026 a las 02:12 PM",
-    "hora_utc": "2026-01-09 19:12",
-    "mensaje": "💡Con servicio los siguientes circuitos:\n👉Municipio Santa Clara:\nCto 5 (Dobarganes)\nCto 17 (Subplanta)",
-    "timestamp": 1767985963,
-    "timestamp_local": 1767985963
   }
 ]
