@@ -1,5 +1,21 @@
 [
   {
+    "id": 102929,
+    "fecha": "09 de Jan del 2026 a las 04:32 PM",
+    "hora_utc": "2026-01-09 21:32",
+    "mensaje": "🚨Por déficit de capacidad de generación se afecta el servicio en los siguientes circuitos:\n*Güines 1\n*Güines 3\n*Güines 4🚨",
+    "timestamp": 1767994363,
+    "timestamp_local": 1767994363
+  },
+  {
+    "id": 102928,
+    "fecha": "09 de Jan del 2026 a las 04:24 PM",
+    "hora_utc": "2026-01-09 21:24",
+    "mensaje": "🔷 Restablecido el servicio en el circuito 3140 que se encontraba afectado por disparo por DAF 🔷",
+    "timestamp": 1767993889,
+    "timestamp_local": 1767993889
+  },
+  {
     "id": 102927,
     "fecha": "09 de Jan del 2026 a las 03:59 PM",
     "hora_utc": "2026-01-09 20:59",
@@ -102,37 +118,5 @@
     "mensaje": "♦️ Afectado el servicio en el circuito 3140 por disparo por DAF♦️",
     "timestamp": 1767986322,
     "timestamp_local": 1767986322
-  },
-  {
-    "id": 102911,
-    "fecha": "09 de Jan del 2026 a las 02:05 PM",
-    "hora_utc": "2026-01-09 19:05",
-    "mensaje": "🔷 Restablecido el servicio en el circuito 3135 que se encontraba afectado por manipulación 🔷",
-    "timestamp": 1767985550,
-    "timestamp_local": 1767985550
-  },
-  {
-    "id": 102910,
-    "fecha": "09 de Jan del 2026 a las 02:00 PM",
-    "hora_utc": "2026-01-09 19:00",
-    "mensaje": "🚨Por déficit de capacidad de generación se afecta el servicio en el siguiente circuito:\n*Jaruco 🚨",
-    "timestamp": 1767985233,
-    "timestamp_local": 1767985233
-  },
-  {
-    "id": 102909,
-    "fecha": "09 de Jan del 2026 a las 01:56 PM",
-    "hora_utc": "2026-01-09 18:56",
-    "mensaje": "♦️ Afectado el servicio en el circuito 3135 por manipulación ♦️",
-    "timestamp": 1767984967,
-    "timestamp_local": 1767984967
-  },
-  {
-    "id": 102908,
-    "fecha": "09 de Jan del 2026 a las 01:51 PM",
-    "hora_utc": "2026-01-09 18:51",
-    "mensaje": "♦️ Afectado el servicio en el circuito 1790 por manipulación♦️",
-    "timestamp": 1767984690,
-    "timestamp_local": 1767984690
   }
 ]
