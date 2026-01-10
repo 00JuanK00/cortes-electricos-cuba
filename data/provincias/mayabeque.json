@@ -1,5 +1,29 @@
 [
   {
+    "id": 103008,
+    "fecha": "10 de Jan del 2026 a las 04:55 PM",
+    "hora_utc": "2026-01-10 21:55",
+    "mensaje": "♦️Afectado el servicio en el circuito Ganuza por avería♦️",
+    "timestamp": 1768082114,
+    "timestamp_local": 1768082114
+  },
+  {
+    "id": 103007,
+    "fecha": "10 de Jan del 2026 a las 04:51 PM",
+    "hora_utc": "2026-01-10 21:51",
+    "mensaje": "🚨Por déficit de capacidad de generación se afecta el servicio en el siguiente circuito:\n*Güines 3 🚨",
+    "timestamp": 1768081891,
+    "timestamp_local": 1768081891
+  },
+  {
+    "id": 103006,
+    "fecha": "10 de Jan del 2026 a las 04:47 PM",
+    "hora_utc": "2026-01-10 21:47",
+    "mensaje": "🚨Por déficit de capacidad de generación se afecta el servicio en el siguiente circuito:\n*Caamaño🚨",
+    "timestamp": 1768081646,
+    "timestamp_local": 1768081646
+  },
+  {
     "id": 103002,
     "fecha": "10 de Jan del 2026 a las 04:10 PM",
     "hora_utc": "2026-01-10 21:10",
@@ -110,29 +134,5 @@
     "mensaje": "🔷 Restablecido el servicio en las siguientes zonas correspondientes al circuito Caamaño que se encontraban afectadas por vía libre:\n*Las Sierras\n*Lechuga\n*Sierra Maestra\n*Zonas aledañas 🔷",
     "timestamp": 1768066481,
     "timestamp_local": 1768066481
-  },
-  {
-    "id": 102988,
-    "fecha": "10 de Jan del 2026 a las 12:30 PM",
-    "hora_utc": "2026-01-10 17:30",
-    "mensaje": "🚨Por déficit de capacidad de generación se afecta el servicio en el siguiente circuito:\n*2 de San José 🚨",
-    "timestamp": 1768066255,
-    "timestamp_local": 1768066255
-  },
-  {
-    "id": 102987,
-    "fecha": "10 de Jan del 2026 a las 12:21 PM",
-    "hora_utc": "2026-01-10 17:21",
-    "mensaje": "🔷♦️Se restablece el servicio en el circuito que se encontraba afectado  por déficit de capacidad de generación:\n*Nueva Paz ♦️🔷",
-    "timestamp": 1768065714,
-    "timestamp_local": 1768065714
-  },
-  {
-    "id": 102986,
-    "fecha": "10 de Jan del 2026 a las 12:10 PM",
-    "hora_utc": "2026-01-10 17:10",
-    "mensaje": "🔷♦️Se restablece el servicio en el circuito que se encontraba afectado  por déficit de capacidad de generación:\n*Vegas ♦️🔷",
-    "timestamp": 1768065014,
-    "timestamp_local": 1768065014
   }
 ]
