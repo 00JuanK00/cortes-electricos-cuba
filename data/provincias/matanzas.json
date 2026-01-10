@@ -1,5 +1,21 @@
 [
   {
+    "id": 31002,
+    "fecha": "10 de Jan del 2026 a las 06:30 AM",
+    "hora_utc": "2026-01-10 11:30",
+    "mensaje": "‼️¡Estimados clientes! ‼️\n\n⚡En estos momentos tenemos afectados 50 MW en la provincia por déficit de capacidad de generación.⚡",
+    "timestamp": 1768044656,
+    "timestamp_local": 1768044656
+  },
+  {
+    "id": 31001,
+    "fecha": "10 de Jan del 2026 a las 06:12 AM",
+    "hora_utc": "2026-01-10 11:12",
+    "mensaje": "⚡Déficit de capacidad de generación en la provincia: **40 MW . **⚡",
+    "timestamp": 1768043543,
+    "timestamp_local": 1768043543
+  },
+  {
     "id": 31000,
     "fecha": "10 de Jan del 2026 a las 05:38 AM",
     "hora_utc": "2026-01-10 10:38",
@@ -142,21 +158,5 @@
     "mensaje": "⚡La afectación de la provincia es de 112 MW por déficit de capacidad de generación⚡",
     "timestamp": 1767993753,
     "timestamp_local": 1767993753
-  },
-  {
-    "id": 30982,
-    "fecha": "09 de Jan del 2026 a las 04:03 PM",
-    "hora_utc": "2026-01-09 21:03",
-    "mensaje": "⚡La afectación de la provincia es de 85 MW por déficit de capacidad de generación⚡",
-    "timestamp": 1767992621,
-    "timestamp_local": 1767992621
-  },
-  {
-    "id": 30981,
-    "fecha": "09 de Jan del 2026 a las 03:46 PM",
-    "hora_utc": "2026-01-09 20:46",
-    "mensaje": "¡Estimados clientes! ‼️\n\n🪫 La provincia se encuentra en el máximo apagable con un déficit de capacidad de generación de **82 MW.**\n\n🔄 Una vez que podamos rotar el servicio, iremos restableciendo de manera paulatina los circuitos que han estado más tiempo sin suministro en dependencia del comportamiento de la demanda y la disponibilidad del sistema eléctrico.",
-    "timestamp": 1767991608,
-    "timestamp_local": 1767991608
   }
 ]
