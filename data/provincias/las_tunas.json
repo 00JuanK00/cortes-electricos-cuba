@@ -1,5 +1,13 @@
 [
   {
+    "id": 17776,
+    "fecha": "10 de Jan del 2026 a las 09:21 AM",
+    "hora_utc": "2026-01-10 14:21",
+    "mensaje": "En el día de ayer se afectó el servicio durante las 24 horas y se mantuvo afectado durante la madrugada de hoy. La máxima afectación por déficit de capacidad de generación fue de 1776 MW a las 18:30 horas.\n\nLa producción de energía de los 34 nuevos parques solares fotovoltaicos fue de 3094 MWh, con 600 MW como máxima potencia entregada en el horario de la media con esta fuente de generación.\n\nLa disponibilidad del Sistema Eléctrico Nacional a las 06:00 horas era de 1550 MW, la demanda 2000 MW, con 433 MW. En el horario del mediodía se estima una afectación de 750 MW.\n**Principales incidencias**\n\n**Avería:** Unidades 5 y 8 de la CTE Mariel, Unidad 5 de la CTE Nuevitas, Unidad 2 de la CTE Felton.\n\n**Mantenimiento:** Unidad 2 de la CTE Sata Cruz, Unidad 4 de la CTE Carlos Manuel de Céspedes en Cienfuegos.\n\n**Limitaciones en la generación térmica:** 569 MW fuera de servicio.\n\n**Problemas por falta de combustible:** 96 centrales de generación distribuida con 882 MW y 150 MW indisponibles por falta de lubricante.\n\n**Total de MW afectados por esta causa:** 1032 MW.\n\nPara el horario pico se pronostica la entra de la unidad 5 de la CTE Nuevitas con 55 MW. Con este pronóstico se prevé una disponibilidad de 1605 MW con una demanda máxima de 3280 MW, para un déficit de 1675 MW, por lo que de mantenerse las condiciones previstas se pronostica una afectación de 1705 MW en este horario.",
+    "timestamp": 1768054880,
+    "timestamp_local": 1768054880
+  },
+  {
     "id": 17773,
     "fecha": "09 de Jan del 2026 a las 08:40 PM",
     "hora_utc": "2026-01-10 01:40",
@@ -126,13 +134,5 @@
     "mensaje": "Se afectan los siguientes circuitos por déficit de generación\nTK53 La Morena y El Malecón \nTK47 La Micro Puerto Padre\nTK25 Cuatro Caminos, Dormitorio\nTK 50 Vázquez",
     "timestamp": 1767952897,
     "timestamp_local": 1767952897
-  },
-  {
-    "id": 17754,
-    "fecha": "09 de Jan del 2026 a las 04:32 AM",
-    "hora_utc": "2026-01-09 09:32",
-    "mensaje": "Se restablece el circuito TK1 Edificios de Buena Vista que se encontraba afectado por emergencia",
-    "timestamp": 1767951150,
-    "timestamp_local": 1767951150
   }
 ]
