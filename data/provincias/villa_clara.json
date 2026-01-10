@@ -1,5 +1,37 @@
 [
   {
+    "id": 37749,
+    "fecha": "10 de Jan del 2026 a las 02:43 PM",
+    "hora_utc": "2026-01-10 19:43",
+    "mensaje": "💡Con servicio la línea 1780:\n🔹Municipio Santa Clara:\n👉Ctos 23 y 130 La Ceniza\n👉Cto 16 Cubanacán\n👉Cto 42 Manajanabo\n🔹Municipio Placetas\n👉Cto 139 Miller\n👉Cto 190 Oliver\n👉Cto 106 Falcón\n👉Cto 98 \n👉 Cto 99 Placetas",
+    "timestamp": 1768074218,
+    "timestamp_local": 1768074218
+  },
+  {
+    "id": 37748,
+    "fecha": "10 de Jan del 2026 a las 02:38 PM",
+    "hora_utc": "2026-01-10 19:38",
+    "mensaje": "🛠️ Manipulación de la línea 1780 para reponer circuito 16 (Cubanacán):\nAfecta los siguientes circuitos:\n🔹Municipio Santa Clara:\n👉Ctos 23 y 130 La Ceniza\n👉Cto 42 Manajanabo\n🔹Municipio Placetas\n👉Cto 139 Miller\n👉Cto 190 Oliver\n👉Cto 106 Falcón\n👉Cto 98  \n👉99 Placetas",
+    "timestamp": 1768073916,
+    "timestamp_local": 1768073916
+  },
+  {
+    "id": 37747,
+    "fecha": "10 de Jan del 2026 a las 02:35 PM",
+    "hora_utc": "2026-01-10 19:35",
+    "mensaje": "⚠️Afectados por déficit de capacidad de generación los siguientes circuitos:\n🔹Municipio Santa Clara:\n👉Cto 166 (Condado)\n👉Cto 167 (Virginia)\n👉Cto 170 (José Martí)\n👉Cto 171 (Los Caneyes)",
+    "timestamp": 1768073750,
+    "timestamp_local": 1768073750
+  },
+  {
+    "id": 37746,
+    "fecha": "10 de Jan del 2026 a las 02:13 PM",
+    "hora_utc": "2026-01-10 19:13",
+    "mensaje": "🔸Actualización del servicio eléctrico en la provincia🔸\n✍️En el momento de hacer esta nota la provincia tiene 84 MW por déficit de capacidad de generación.\n✍️Cuenta con 74 afectaciones por averías secundarias y de servicio.",
+    "timestamp": 1768072432,
+    "timestamp_local": 1768072432
+  },
+  {
     "id": 37745,
     "fecha": "10 de Jan del 2026 a las 01:53 PM",
     "hora_utc": "2026-01-10 18:53",
@@ -19,7 +51,7 @@
     "id": 37742,
     "fecha": "10 de Jan del 2026 a las 01:33 PM",
     "hora_utc": "2026-01-10 18:33",
-    "mensaje": "🛠️Afectado por disparo el circuito 16 (Cubanacán), del municipio Santa Clara. Se estudian las causas.",
+    "mensaje": "🛠️Afectado por faltar una fase el circuito 16 (Cubanacán), del municipio Santa Clara. Se estudian las causas.",
     "timestamp": 1768069999,
     "timestamp_local": 1768069999
   },
@@ -118,37 +150,5 @@
     "mensaje": "🛠️Afectado por manipulación el circuito 168 (Condado), del municipio Santa Clara.",
     "timestamp": 1768062266,
     "timestamp_local": 1768062266
-  },
-  {
-    "id": 37726,
-    "fecha": "10 de Jan del 2026 a las 10:49 AM",
-    "hora_utc": "2026-01-10 15:49",
-    "mensaje": "🛠️ Afectado por DAF (Disparo Automático por Frecuencia) la línea 1955:\nAfecta los siguientes circuitos:\n🔹Municipio Encrucijada:\nCto 122 Encrucijada  \nCto 123 Vizcaya \nCto 142 Comunidad La Sierra \nCto 126 Batey Emilio Córdova\nCto 125 Cavarrocas\nCto 124 El Santo\n🔹Municipio Camajuaní:                                                              \nCto 78 Jutiero",
-    "timestamp": 1768060167,
-    "timestamp_local": 1768060167
-  },
-  {
-    "id": 37725,
-    "fecha": "10 de Jan del 2026 a las 10:38 AM",
-    "hora_utc": "2026-01-10 15:38",
-    "mensaje": "💡Con servicio los siguientes circuitos:\n🔹Municipio Santo Domingo:\n👉Cto 134\n👉Ctos 87 y 96 Bermejal\n👉Cto 187 Batey Carlos Baliño\n👉Cto 82 Ulacia\n👉Cto 84 Rodrigo",
-    "timestamp": 1768059481,
-    "timestamp_local": 1768059481
-  },
-  {
-    "id": 37724,
-    "fecha": "10 de Jan del 2026 a las 10:36 AM",
-    "hora_utc": "2026-01-10 15:36",
-    "mensaje": "🛠️ Será afectado por manipulación el circuito 6 (Vigía), del municipio Santa Clara para reponer transformador.",
-    "timestamp": 1768059371,
-    "timestamp_local": 1768059371
-  },
-  {
-    "id": 37723,
-    "fecha": "10 de Jan del 2026 a las 10:25 AM",
-    "hora_utc": "2026-01-10 15:25",
-    "mensaje": "⚠️Afectados por déficit de capacidad de generación los siguientes circuitos:\n🔹Municipio Caibarién:\n👉Ctos 61, 62, 63 y 64\n👉Ctos 182 y 183 Van Troy",
-    "timestamp": 1768058708,
-    "timestamp_local": 1768058708
   }
 ]
