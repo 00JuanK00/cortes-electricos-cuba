@@ -1,5 +1,21 @@
 [
   {
+    "id": 17785,
+    "fecha": "10 de Jan del 2026 a las 03:53 PM",
+    "hora_utc": "2026-01-10 20:53",
+    "mensaje": "La provincia presenta máxima capacidad apagable en estos momentos, lo que no ha permitido realizar la rotación de los circuitos con mayor tiempo de afectación. Se irán restableciendo en la medida que el Sistema Electroenergético lo permita.",
+    "timestamp": 1768078422,
+    "timestamp_local": 1768078422
+  },
+  {
+    "id": 17784,
+    "fecha": "10 de Jan del 2026 a las 03:53 PM",
+    "hora_utc": "2026-01-10 20:53",
+    "mensaje": "Se afecta el servicio eléctrico a los siguientes circuitos:                                                                                        **Circuito 33 Kv: 6810**\nTK82 Tana\nTK83 Las Maboas\nTK113 La Aurora\nTK74 La Lomita\nTK110 El Batey\n6810 Poblado Amancio\nTK19 San Antonio, Km 7\nTK25 Cuatro Caminos, Dormitorio",
+    "timestamp": 1768078385,
+    "timestamp_local": 1768078385
+  },
+  {
     "id": 17783,
     "fecha": "10 de Jan del 2026 a las 03:37 PM",
     "hora_utc": "2026-01-10 20:37",
@@ -118,21 +134,5 @@
     "mensaje": "Se afecta el servicio eléctrico, además, a los siguientes circuitos:\n6820:\nTK75  Vicente Pérez  \nTK77  San Alberto  \nTK78  Ana Luisa  \nTK76  El Paraíso\n6810\nTK82  Tana    \nTK83  Las Maboas  \nTK113 La Aurora  \nTK74  La Lomita  \nTK110 El Batey\n\n6840  Los Kilómetros",
     "timestamp": 1767987087,
     "timestamp_local": 1767987087
-  },
-  {
-    "id": 17765,
-    "fecha": "09 de Jan del 2026 a las 02:06 PM",
-    "hora_utc": "2026-01-09 19:06",
-    "mensaje": "Se restablece la avería del circuito:TK23 Veguita",
-    "timestamp": 1767985599,
-    "timestamp_local": 1767985599
-  },
-  {
-    "id": 17764,
-    "fecha": "09 de Jan del 2026 a las 12:19 PM",
-    "hora_utc": "2026-01-09 17:19",
-    "mensaje": "Se declara en avería el TK23 Veguita",
-    "timestamp": 1767979166,
-    "timestamp_local": 1767979166
   }
 ]
