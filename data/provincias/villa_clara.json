@@ -1,5 +1,45 @@
 [
   {
+    "id": 37739,
+    "fecha": "10 de Jan del 2026 a las 12:44 PM",
+    "hora_utc": "2026-01-10 17:44",
+    "mensaje": "⚠️Afectados por déficit de capacidad de generación los circuitos 53 y 164 del municipio Quemado.",
+    "timestamp": 1768067082,
+    "timestamp_local": 1768067082
+  },
+  {
+    "id": 37738,
+    "fecha": "10 de Jan del 2026 a las 12:18 PM",
+    "hora_utc": "2026-01-10 17:18",
+    "mensaje": "🕛Actualización del servicio eléctrico en las últimas 6 horas.\n\n👉El déficit de capacidad de generación osciló entre los 35 MW y los  80 MW.\n👉Cuenta con 76 afectaciones por averías secundarias y de servicio:\nCamajuaní (5)\nCifuentes (1)\nCorralillo (1)\nEncrucijada (4)\nManicaragua (3)\nPlacetas (9)\nQuemado (1)\nRanchuelo (3)\nSagua (11) \nSanta Clara (12)\nSanto Domingo (9)\n🛠️Se encuentran 10 averías en vías de solución.\n🛠️Pendientes a solucionar por el área técnica 7.\n✅La provincia no presenta averías primarias.",
+    "timestamp": 1768065527,
+    "timestamp_local": 1768065527
+  },
+  {
+    "id": 37737,
+    "fecha": "10 de Jan del 2026 a las 12:05 PM",
+    "hora_utc": "2026-01-10 17:05",
+    "mensaje": "⚠️Afectados por déficit de capacidad de generación los siguientes circuitos:\n🔸Municipio Cifuentes:\nCtos 114 y 117\nCtos 116 y 155 Mata\nCto 186 Batey Unidad Proletaria\nCto 184 Sitio Grande",
+    "timestamp": 1768064721,
+    "timestamp_local": 1768064721
+  },
+  {
+    "id": 37736,
+    "fecha": "10 de Jan del 2026 a las 12:04 PM",
+    "hora_utc": "2026-01-10 17:04",
+    "mensaje": "💡Con servicio los siguientes circuitos:\n🔸Municipio Remedios\nCtos 69 y 70 Zuluetas\nCto 143 Batey Heriberto Duquesne\nCto 71 Buena Vista",
+    "timestamp": 1768064679,
+    "timestamp_local": 1768064679
+  },
+  {
+    "id": 37735,
+    "fecha": "10 de Jan del 2026 a las 12:03 PM",
+    "hora_utc": "2026-01-10 17:03",
+    "mensaje": "Con servicio la línea 1720:\n🔹Municipio Santo Domingo:\nCto 195 Batey George Washington\nCtos 83 y 165 Manacas\nCtos 85 y 86 Pajarito\nCtos 160 y 161 Cascajal",
+    "timestamp": 1768064593,
+    "timestamp_local": 1768064593
+  },
+  {
     "id": 37734,
     "fecha": "10 de Jan del 2026 a las 11:39 AM",
     "hora_utc": "2026-01-10 16:39",
@@ -102,45 +142,5 @@
     "mensaje": "💡Con servicio los siguientes circuitos:\n🔹Municipio Cifuentes:\n👉Ctos 114 y 117\n👉Ctos 116 y 155 Mata\n👉Cto 186 Batey Unidad Proletaria\n👉Cto 184 Sitio Grande\n🔹Municipio Encrucijada:\n👉Cto 122 Encrucijada  \n👉Cto 123 Vizcaya \n👉Cto 142 Comunidad La Sierra \n👉Cto 126 Batey Emilio Córdova\n👉Cto 125 Cavarrocas\n👉Cto 124 El Santo\n🔹Municipio Camajuaní:                                                              \n👉Cto 78 Jutiero",
     "timestamp": 1768053695,
     "timestamp_local": 1768053695
-  },
-  {
-    "id": 37717,
-    "fecha": "10 de Jan del 2026 a las 08:40 AM",
-    "hora_utc": "2026-01-10 13:40",
-    "mensaje": "⚡Afectado por faltar una fase el circuito 16 (Cubanacán), del municipio Santa Clara.",
-    "timestamp": 1768052422,
-    "timestamp_local": 1768052422
-  },
-  {
-    "id": 37716,
-    "fecha": "10 de Jan del 2026 a las 08:19 AM",
-    "hora_utc": "2026-01-10 13:19",
-    "mensaje": "💡Con servicio los siguientes circuitos:\n🔸Municipio Placetas:\n👉Cto 101 y 145 Cumbre\n👉Ctos 100 y 151 Placetas\n👉Cto 104 Hermanos Amejeiras\n👉Cto 103 Batey Carbó Servia",
-    "timestamp": 1768051172,
-    "timestamp_local": 1768051172
-  },
-  {
-    "id": 37715,
-    "fecha": "10 de Jan del 2026 a las 08:11 AM",
-    "hora_utc": "2026-01-10 13:11",
-    "mensaje": "🔸Actualización del servicio eléctrico en la provincia🔸\n✍️En el momento de hacer esta nota la provincia tiene 45 MW por déficit de capacidad de generación.\n✍️Cuenta con 41 afectaciones por averías secundarias y de servicio.",
-    "timestamp": 1768050718,
-    "timestamp_local": 1768050718
-  },
-  {
-    "id": 37714,
-    "fecha": "10 de Jan del 2026 a las 08:02 AM",
-    "hora_utc": "2026-01-10 13:02",
-    "mensaje": "💡Con servicio los siguientes circuitos:\n🔸Municipio Camajuaní:\n👉Cto 75 La Quinta\n👉Cto 157 Luis Arcos Bergnes\n👉Ctos 76 y 90 Vega Alta\n👉Ctos 77 y 185 Vueltas\n🔸Municipio Encrucijada\n👉Cto 120 Calabazar\n👉Ctos 121 y 127 Perucho",
-    "timestamp": 1768050178,
-    "timestamp_local": 1768050178
-  },
-  {
-    "id": 37713,
-    "fecha": "10 de Jan del 2026 a las 07:39 AM",
-    "hora_utc": "2026-01-10 12:39",
-    "mensaje": "⚡Afectado parcialmente el circuito 83 (Manacas), del municipio Santo Domingo. Se estudian las causas.",
-    "timestamp": 1768048774,
-    "timestamp_local": 1768048774
   }
 ]
