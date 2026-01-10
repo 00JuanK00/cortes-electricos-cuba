@@ -1,5 +1,21 @@
 [
   {
+    "id": 48197,
+    "fecha": "10 de Jan del 2026 a las 12:56 AM",
+    "hora_utc": "2026-01-10 05:56",
+    "mensaje": "🔴Déficit de Capacidad de Generación:    \nSe produce cuando la demanda del Sistema Eléctrico Nacional, en determinado horario del día, supera la generación disponible del país, provocando la desconexión de los circuitos o líneas que permitan garantizar la frecuencia del SEN.",
+    "timestamp": 1768024563,
+    "timestamp_local": 1768024563
+  },
+  {
+    "id": 48196,
+    "fecha": "10 de Jan del 2026 a las 12:55 AM",
+    "hora_utc": "2026-01-10 05:55",
+    "mensaje": "🚨Estimados clientes en estos momentos se incorporan a la afectación por Déficit los circuitos 20, 26 y 1 de Palma.",
+    "timestamp": 1768024539,
+    "timestamp_local": 1768024539
+  },
+  {
     "id": 48195,
     "fecha": "09 de Jan del 2026 a las 11:24 PM",
     "hora_utc": "2026-01-10 04:24",
@@ -126,21 +142,5 @@
     "mensaje": "🚨Nota informativa🚨 \n\n🗓 Situación del SEN par hoy 9 de enero de 2026.\n\n👉En el día de ayer se afectó el servicio desde las 4:49am de la madrugada y se ha mantenido afectado el servicio durante la madrugada de hoy. La máxima afectación por déficit de capacidad de generación en el día de ayer fue de ⚡1771 MW a las ⏰6:20pm. \n                                                                                                                               \n☀️La producción de energía de los 34 nuevos parques solares fotovoltaicos fue de 3084 MWh, con 629MW como máxima potencia entregada en el horario de la media con esta fuente de generación. \n\n👉 En el horario de la media se estima una afectación de ⚡️700 MW.  \n\n🛠Se encuentran en avería: Unidades 5 y 8 de la CTE Mariel, Unidad 5 de la CTE Nuevitas, Unidad 2 de la CTE Felton.\n\n🛠Se encuentran en mantenimiento: Unidad 2 de la CTE Sata Cruz, Unidad 4 de la CTE Carlos Manuel de Céspedes en Cienfuegos.\n\n📈Las limitaciones en la generación térmica son de 569 MW. \n\n⛽️Se encuentran fuera de servicio por combustible 96 centrales de generación distribuida con 896 MW, 150 MW indisponible por falta de lubricante, para un total de 1046 MW.\n\n🔊Pronóstico para el horario pico:                                                                       \n\n➡️  Disponibilidad de 1500 MW                                                                             ➡️ Demanda máxima de 3300 MW.\n➡️ Déficit de ⚡️1800 MW.\n➡️ Afectación de ⚡️1830 MW.\n\nUNE-MINEM-",
     "timestamp": 1767966272,
     "timestamp_local": 1767966272
-  },
-  {
-    "id": 48177,
-    "fecha": "09 de Jan del 2026 a las 06:59 AM",
-    "hora_utc": "2026-01-09 11:59",
-    "mensaje": "🔴 Estimados clientes se les informa que en estos momentos se encuentran afectados por Déficit de Capacidad de Generación los circuitos 7, 20, 26,16, LI 5380 Mella, LI 4390 Contramaestre, Ramal II Frente, 2 Palma",
-    "timestamp": 1767959949,
-    "timestamp_local": 1767959949
-  },
-  {
-    "id": 48176,
-    "fecha": "09 de Jan del 2026 a las 06:24 AM",
-    "hora_utc": "2026-01-09 11:24",
-    "mensaje": "🔴 Estimados clientes se les informa que en estos momentos se encuentran afectados por Déficit de Capacidad de Generación los circuitos 13, 8, 24, 23, 1 de Palma, LI 5390 La Maya - II Frente",
-    "timestamp": 1767957866,
-    "timestamp_local": 1767957866
   }
 ]
