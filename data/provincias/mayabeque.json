@@ -1,5 +1,29 @@
 [
   {
+    "id": 103000,
+    "fecha": "10 de Jan del 2026 a las 03:31 PM",
+    "hora_utc": "2026-01-10 20:31",
+    "mensaje": "🚨Por déficit de capacidad de generación se afecta el servicio en el siguiente circuito:\n*Salud 1🚨",
+    "timestamp": 1768077078,
+    "timestamp_local": 1768077078
+  },
+  {
+    "id": 102999,
+    "fecha": "10 de Jan del 2026 a las 03:27 PM",
+    "hora_utc": "2026-01-10 20:27",
+    "mensaje": "🚨Por déficit de capacidad de generación se afecta el servicio en el siguiente circuito:\n*Bio 2🚨",
+    "timestamp": 1768076836,
+    "timestamp_local": 1768076836
+  },
+  {
+    "id": 102998,
+    "fecha": "10 de Jan del 2026 a las 03:05 PM",
+    "hora_utc": "2026-01-10 20:05",
+    "mensaje": "🚨Por déficit de capacidad de generación se afecta el servicio en el siguiente circuito:\n*Fénix🚨",
+    "timestamp": 1768075504,
+    "timestamp_local": 1768075504
+  },
+  {
     "id": 102997,
     "fecha": "10 de Jan del 2026 a las 02:35 PM",
     "hora_utc": "2026-01-10 19:35",
@@ -134,21 +158,5 @@
     "mensaje": "🚨Por déficit de capacidad de generación se afecta el servicio en los siguientes circuitos:\n*Catalina 1y2\n*Jaruco 🚨",
     "timestamp": 1768062163,
     "timestamp_local": 1768062163
-  },
-  {
-    "id": 102979,
-    "fecha": "10 de Jan del 2026 a las 10:29 AM",
-    "hora_utc": "2026-01-10 15:29",
-    "mensaje": "🔷Restablecido el servicio en el circuito Güines 4 que se encontraba afectado por disparo en las líneas, quedando afectadas las siguientes zonas por Vía Libre:\n*Bello Indio \n*Zonas aledañas ♦️",
-    "timestamp": 1768058999,
-    "timestamp_local": 1768058999
-  },
-  {
-    "id": 102978,
-    "fecha": "10 de Jan del 2026 a las 10:13 AM",
-    "hora_utc": "2026-01-10 15:13",
-    "mensaje": "🔷 Restablecido el servicio en el circuito Caamaño quedando afectadas las siguientes zonas  por vía libre:\n*Las Sierras\n*Lechuga\n*Sierra Maestra\n*Zonas aledañas ♦️",
-    "timestamp": 1768058017,
-    "timestamp_local": 1768058017
   }
 ]
