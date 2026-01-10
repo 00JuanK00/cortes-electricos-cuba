@@ -1,9 +1,33 @@
 [
   {
+    "id": 37715,
+    "fecha": "10 de Jan del 2026 a las 08:11 AM",
+    "hora_utc": "2026-01-10 13:11",
+    "mensaje": "🔸Actualización del servicio eléctrico en la provincia🔸\n✍️En el momento de hacer esta nota la provincia tiene 45 MW por déficit de capacidad de generación.\n✍️Cuenta con 41 afectaciones por averías secundarias y de servicio.",
+    "timestamp": 1768050718,
+    "timestamp_local": 1768050718
+  },
+  {
+    "id": 37714,
+    "fecha": "10 de Jan del 2026 a las 08:02 AM",
+    "hora_utc": "2026-01-10 13:02",
+    "mensaje": "💡Con servicio los siguientes circuitos:\n🔸Municipio Camajuaní:\n👉Cto 75 La Quinta\n👉Cto 157 Luis Arcos Bergnes\n👉Ctos 76 y 90 Vega Alta\n👉Ctos 77 y 185 Vueltas\n🔸Municipio Encrucijada\n👉Cto 120 Calabazar\n👉Ctos 121 y 127 Perucho",
+    "timestamp": 1768050178,
+    "timestamp_local": 1768050178
+  },
+  {
+    "id": 37713,
+    "fecha": "10 de Jan del 2026 a las 07:39 AM",
+    "hora_utc": "2026-01-10 12:39",
+    "mensaje": "⚡Afectado parcialmente el circuito 83 (Manacas), del municipio Santo Domingo. Se estudian las causas.",
+    "timestamp": 1768048774,
+    "timestamp_local": 1768048774
+  },
+  {
     "id": 37712,
     "fecha": "10 de Jan del 2026 a las 07:02 AM",
     "hora_utc": "2026-01-10 12:02",
-    "mensaje": "⚠️Afectados por déficit de capacidad de generación los siguientes circuitos:\n\n👉Municipio Cifuentes:\nCtos 114 y 117\nCtos 116 y 155 Mata\nCto 186 Batey Unidad Proletaria\nCto 184 Sitio Grande",
+    "mensaje": "⚠️Afectados por déficit de capacidad de generación los siguientes circuitos:\n👉Municipio Cifuentes:\nCtos 114 y 117\nCtos 116 y 155 Mata\nCto 186 Batey Unidad Proletaria\nCto 184 Sitio Grande",
     "timestamp": 1768046548,
     "timestamp_local": 1768046548
   },
@@ -118,29 +142,5 @@
     "mensaje": "💡Con servicio los siguientes circuitos:\n👉Municipio Quemado:\nCtos 164, 52 y 53 Quemado.\nCto 196 Batey Panchito Gómez Toro.",
     "timestamp": 1768020885,
     "timestamp_local": 1768020885
-  },
-  {
-    "id": 37695,
-    "fecha": "09 de Jan del 2026 a las 11:54 PM",
-    "hora_utc": "2026-01-10 04:54",
-    "mensaje": "🕛Actualización del servicio eléctrico en las últimas 6 horas.\n\n👉El déficit de capacidad de generación osciló entre los 98 MW y los 45 MW.\n👉Cuenta con 55 afectaciones por averías secundarias y de servicio:\n Caibarién (2)\n Camajuaní (1)\n Encrucijada (1)\n Placetas (17)\n Remedios (1) \n Sagua (4) \n Santa Clara (7)\n Santo Domingo (6)\n🛠️Se encuentran 5 averías en vías de solución.\n🛠️Pendientes a solucionar por el área técnica 11\n⚡Avería⚡\n👉Cto 55 Rancho Veloz, brigadas de nuestra Empresa se encuentran recorriendo la zona para detectar la avería.",
-    "timestamp": 1768020862,
-    "timestamp_local": 1768020862
-  },
-  {
-    "id": 37694,
-    "fecha": "09 de Jan del 2026 a las 11:43 PM",
-    "hora_utc": "2026-01-10 04:43",
-    "mensaje": "💡Con servicio los siguientes circuitos:\n👉Municipio Santo Domingo:\nCto 134\nCtos 87 y 96 Bermejal\nCto 187 Batey Carlos Baliño\nCto 82 Ulacia\nCto 84 Rodrigo",
-    "timestamp": 1768020236,
-    "timestamp_local": 1768020236
-  },
-  {
-    "id": 37693,
-    "fecha": "09 de Jan del 2026 a las 10:06 PM",
-    "hora_utc": "2026-01-10 03:06",
-    "mensaje": "💡Con servicio los siguientes circuitos:\n👉Municipio Ranchuelo:\nCto 92 Esperanza (Pueblo)\nCto 93 Esperanza (Campo)\nCtos 54, 94 y 95 Jicotea\n👉Municipio Santa Clara\nCtos 26 y 141 (Manuelita)\nCto 191 (Quemado de Hilario) \n👉Municipio Santo Domingo\nCto 79 (Santo Domingo)\nCto 81 (26 de Julio)\nCto 163 (Batey 26 de Julio",
-    "timestamp": 1768014372,
-    "timestamp_local": 1768014372
   }
 ]

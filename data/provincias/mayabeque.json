@@ -1,5 +1,45 @@
 [
   {
+    "id": 102972,
+    "fecha": "10 de Jan del 2026 a las 08:14 AM",
+    "hora_utc": "2026-01-10 13:14",
+    "mensaje": "**Nota Informativa: Estado del Sistema Eléctrico Nacional (SEN) – 10 de enero de 2026\n**En el día de ayer se afectó el servicio durante las 24 horas y se ha mantenido afectado durante la madrugada de hoy. La máxima afectación por déficit de capacidad de generación en el día de ayer fue de 1776 MW a las 18:30 horas.\nLa producción de energía de los 34 nuevos parques solares fotovoltaicos fue de 3094 MWh, con 600 MW como máxima potencia entregada en el horario de la media con esta fuente de generación. \n**Estado actual del SEN\n**La disponibilidad del SEN a las 06:00 horas es de 1550 MW, la demanda 2000 MW, con 433 MW. En el horario de la media se estima una afectación de 750 MW. \n**Principales incidencias\n**Avería: Unidades 5 y 8 de la CTE Mariel, Unidad 5 de la CTE Nuevitas, Unidad 2 de la CTE Felton.\nMantenimiento: Unidad 2 de la CTE Sata Cruz, Unidad 4 de la CTE Carlos Manuel de Céspedes en Cienfuegos.\nLimitaciones en la generación térmica: 569 MW fuera de servicio.\nProblemas por falta de combustible\n96 centrales de generación distribuida con 882 MW.\n150 MW indisponibles por falta de lubricante.\nTotal de MW afectados por esta causa: 1032 MW.\n**Pronóstico para el horario pico\n**Para el horario pico se pronostica la entra de la unidad 5 de la CTE Nuevitas con 55 MW.Con este pronóstico para el pico se prevé una disponibilidad de 1605 MW con una demanda máxima de 3280 MW, para un déficit de 1675 MW, por lo que de mantenerse las condiciones previstas se pronostica una afectación de 1705 MW en este horario.",
+    "timestamp": 1768050872,
+    "timestamp_local": 1768050872
+  },
+  {
+    "id": 102970,
+    "fecha": "10 de Jan del 2026 a las 07:50 AM",
+    "hora_utc": "2026-01-10 12:50",
+    "mensaje": "♦️ Afectado el servicio en el circuito Güines 4 por disparo en las líneas ♦️",
+    "timestamp": 1768049459,
+    "timestamp_local": 1768049459
+  },
+  {
+    "id": 102969,
+    "fecha": "10 de Jan del 2026 a las 07:39 AM",
+    "hora_utc": "2026-01-10 12:39",
+    "mensaje": "🚨Por déficit de capacidad de generación se afecta el servicio en los siguientes circuitos:\n*Batabano\n*Camacho 🚨",
+    "timestamp": 1768048770,
+    "timestamp_local": 1768048770
+  },
+  {
+    "id": 102968,
+    "fecha": "10 de Jan del 2026 a las 07:18 AM",
+    "hora_utc": "2026-01-10 12:18",
+    "mensaje": "🔷 Restablecido el servicio en el circuito Güines 4 por disparo en las líneas  🔷",
+    "timestamp": 1768047509,
+    "timestamp_local": 1768047509
+  },
+  {
+    "id": 102967,
+    "fecha": "10 de Jan del 2026 a las 07:17 AM",
+    "hora_utc": "2026-01-10 12:17",
+    "mensaje": "♦️ Afectado el servicio en el circuito Güines 4 por disparo en las líneas ♦️",
+    "timestamp": 1768047425,
+    "timestamp_local": 1768047425
+  },
+  {
     "id": 102961,
     "fecha": "10 de Jan del 2026 a las 03:01 AM",
     "hora_utc": "2026-01-10 08:01",
@@ -54,45 +94,5 @@
     "mensaje": "♦️ Afectado el servicio en el circuito Vega por disparo en las líneas ♦️",
     "timestamp": 1768019487,
     "timestamp_local": 1768019487
-  },
-  {
-    "id": 102952,
-    "fecha": "09 de Jan del 2026 a las 11:20 PM",
-    "hora_utc": "2026-01-10 04:20",
-    "mensaje": "🔷♦️Se restablece el servicio en los siguientes circuitos que se encontraban afectados  por déficit de capacidad de generación:\n*Palomo\n*San Felipe ♦️🔷",
-    "timestamp": 1768018817,
-    "timestamp_local": 1768018817
-  },
-  {
-    "id": 102951,
-    "fecha": "09 de Jan del 2026 a las 11:04 PM",
-    "hora_utc": "2026-01-10 04:04",
-    "mensaje": "🔷♦️Se restablece el servicio en los siguientes circuitos que se encontraban afectados  por déficit de capacidad de generación:\n*Surgidero\n*Batabanó♦️🔷",
-    "timestamp": 1768017887,
-    "timestamp_local": 1768017887
-  },
-  {
-    "id": 102950,
-    "fecha": "09 de Jan del 2026 a las 11:02 PM",
-    "hora_utc": "2026-01-10 04:02",
-    "mensaje": "🔷♦️Se restablece el servicio en el circuito que se encontraba afectado  por déficit de capacidad de generación:\n*Bío 1♦️🔷",
-    "timestamp": 1768017744,
-    "timestamp_local": 1768017744
-  },
-  {
-    "id": 102949,
-    "fecha": "09 de Jan del 2026 a las 10:58 PM",
-    "hora_utc": "2026-01-10 03:58",
-    "mensaje": "🔷♦️Se restablece el servicio en el circuito que se encontraba afectado  por déficit de capacidad de generación:\n*Jaruco♦️🔷",
-    "timestamp": 1768017516,
-    "timestamp_local": 1768017516
-  },
-  {
-    "id": 102948,
-    "fecha": "09 de Jan del 2026 a las 10:52 PM",
-    "hora_utc": "2026-01-10 03:52",
-    "mensaje": "🚨Por déficit de capacidad de generación se afecta el servicio en el siguiente circuito:\n*Madruga🚨",
-    "timestamp": 1768017166,
-    "timestamp_local": 1768017166
   }
 ]
