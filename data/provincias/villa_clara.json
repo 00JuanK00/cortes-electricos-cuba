@@ -1,5 +1,29 @@
 [
   {
+    "id": 37841,
+    "fecha": "11 de Jan del 2026 a las 06:12 PM",
+    "hora_utc": "2026-01-11 23:12",
+    "mensaje": "Afectados 139 MW por déficit de capacidad de generación, demanda máxima a apagar en estos momentos.",
+    "timestamp": 1768173136,
+    "timestamp_local": 1768173136
+  },
+  {
+    "id": 37840,
+    "fecha": "11 de Jan del 2026 a las 06:11 PM",
+    "hora_utc": "2026-01-11 23:11",
+    "mensaje": "‼️Ante cualquier duda con la terminología eléctrica, les volvemos explicar: \n     \n✍️Las averías pueden ser primarias (afecta un volumen grande de población pues son las líneas de distribución a 13.8kV y puede afectar varias manzanas, incluso repartos completos).\n\n✍️Secundarias (afecta a todos los clientes que se alimenten del mismo transformador, puede afectar una o varias cuadras). \n\n✍️De servicio (afectan 1 solo cliente o instalación generalmente producto a daños en la acometida, metro contador, etc.).",
+    "timestamp": 1768173096,
+    "timestamp_local": 1768173096
+  },
+  {
+    "id": 37838,
+    "fecha": "11 de Jan del 2026 a las 06:08 PM",
+    "hora_utc": "2026-01-11 23:08",
+    "mensaje": "🕕Actualización del servicio eléctrico en las últimas 6 horas.\n✍️El déficit de capacidad de generación osciló entre los 46 MW y los 108 MW.\n✍️Cuenta con 34 afectaciones por averías secundarias y de servicio:\n🔸Cifuentes (1)\n🔸Corralillo (2)\n🔸Encrucijada (4)\n🔸Manicaragua (4)\n🔸Placetas (1)\n🔸Ranchuelo (1)\n🔸Remedios (4)\n🔸Sagua (3) \n🔸Santa Clara (13)\n🔸Santo Domingo (1)\n🛠️Pendientes a solucionar por el área técnica 7.\n⚡La provincia no presenta averías primarias en estos momentos.",
+    "timestamp": 1768172885,
+    "timestamp_local": 1768172885
+  },
+  {
     "id": 37837,
     "fecha": "11 de Jan del 2026 a las 05:57 PM",
     "hora_utc": "2026-01-11 22:57",
@@ -126,37 +150,5 @@
     "mensaje": "💡Con servicio los siguientes circuitos:\n🔹Municipio Cifuentes:\n👉Ctos 114 y 117\n👉Ctos 116 y 155 Mata\n👉Cto 186 Batey Unidad Proletaria\n👉Cto 184 Sitio Grande\n🔹Municipio Santo Domingo:\n👉Cto 134\n👉Ctos 87 y 96 Bermejal\n👉Cto 187 Batey Carlos Baliño\n👉Cto 82 Ulacia\n👉Cto 84 Rodrigo",
     "timestamp": 1768154103,
     "timestamp_local": 1768154103
-  },
-  {
-    "id": 37821,
-    "fecha": "11 de Jan del 2026 a las 12:20 PM",
-    "hora_utc": "2026-01-11 17:20",
-    "mensaje": "⚠️Afectados por déficit de capacidad de generación los siguientes circuitos:\n🔹Municipio Santa Clara:\n👉Cto 5 (Dobarganes)\n👉Cto 17 (Subplanta)",
-    "timestamp": 1768152030,
-    "timestamp_local": 1768152030
-  },
-  {
-    "id": 37820,
-    "fecha": "11 de Jan del 2026 a las 12:19 PM",
-    "hora_utc": "2026-01-11 17:19",
-    "mensaje": "🕛Actualización del servicio eléctrico en las últimas 6 horas.\n✍️El déficit de capacidad de generación osciló entre los 78 MW y los 42 MW.\n✍️Cuenta con 50 afectaciones por averías secundarias y de servicio:\n🔸Caibarién (2)\n🔸Corralillo (2)\n🔸Encrucijada (8)\n🔸Manicaragua (4)\n🔸Placetas (7)\n🔸Quemado (2)\n🔸Ranchuelo (2)\n🔸Remedios (5)\n🔸Sagua (4) \n🔸Santa Clara (11)\n🔸Santo Domingo (4)\n🛠️Pendientes a solucionar por el área técnica 6.\n⚡Afectado el circuito 118 del municipio Remedios, de manera parcial. Se estudian las causas.",
-    "timestamp": 1768151948,
-    "timestamp_local": 1768151948
-  },
-  {
-    "id": 37819,
-    "fecha": "11 de Jan del 2026 a las 11:59 AM",
-    "hora_utc": "2026-01-11 16:59",
-    "mensaje": "⚠️Afectado por déficit de capacidad de generación el siguiente circuito:\n🔹Municipio Santa Clara:\n👉Cto 6 (Vigía)",
-    "timestamp": 1768150775,
-    "timestamp_local": 1768150775
-  },
-  {
-    "id": 37818,
-    "fecha": "11 de Jan del 2026 a las 11:50 AM",
-    "hora_utc": "2026-01-11 16:50",
-    "mensaje": "⚡Afectado el circuito 118 del municipio Remedios, de manera parcial. Se estudian las causas.",
-    "timestamp": 1768150217,
-    "timestamp_local": 1768150217
   }
 ]
