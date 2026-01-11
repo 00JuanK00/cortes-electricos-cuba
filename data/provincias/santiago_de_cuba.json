@@ -1,5 +1,29 @@
 [
   {
+    "id": 48242,
+    "fecha": "11 de Jan del 2026 a las 02:38 PM",
+    "hora_utc": "2026-01-11 19:38",
+    "mensaje": "🚨Estimados clientes en estos momentos se afectaron por Déficit los circuitos 12 , 2 y la línea 5380-Mella.",
+    "timestamp": 1768160288,
+    "timestamp_local": 1768160288
+  },
+  {
+    "id": 48241,
+    "fecha": "11 de Jan del 2026 a las 02:10 PM",
+    "hora_utc": "2026-01-11 19:10",
+    "mensaje": "🔴Disparo Automático de Frecuencia (DAF):\nOcurre cuando la frecuencia está por debajo de los 60Hz y determinada carga o circuito se desconecta del sistema automáticamente hasta que se estabilice.",
+    "timestamp": 1768158614,
+    "timestamp_local": 1768158614
+  },
+  {
+    "id": 48240,
+    "fecha": "11 de Jan del 2026 a las 02:09 PM",
+    "hora_utc": "2026-01-11 19:09",
+    "mensaje": "🔴Estimados clientes en estos momentos se encuentra Disparado  por DAF el circuito 4 de Palma.",
+    "timestamp": 1768158577,
+    "timestamp_local": 1768158577
+  },
+  {
     "id": 48239,
     "fecha": "11 de Jan del 2026 a las 01:38 PM",
     "hora_utc": "2026-01-11 18:38",
@@ -118,21 +142,5 @@
     "mensaje": "🔴 Se les informa a nuestros clientes  que en estos momentos están siendo afectados los circuitos  de Santiago 7 , 16 , 26 y 20 ...",
     "timestamp": 1768128315,
     "timestamp_local": 1768128315
-  },
-  {
-    "id": 48222,
-    "fecha": "11 de Jan del 2026 a las 04:19 AM",
-    "hora_utc": "2026-01-11 09:19",
-    "mensaje": "Estimados clientes , en estos momentos queda afectado por Déficit de Generación los circuitos 8 y 9 y la línea 5385( San Luis- Palma )",
-    "timestamp": 1768123159,
-    "timestamp_local": 1768123159
-  },
-  {
-    "id": 48220,
-    "fecha": "11 de Jan del 2026 a las 01:02 AM",
-    "hora_utc": "2026-01-11 06:02",
-    "mensaje": "🔴  Estimados clientes, se afecta por Déficit de Generación la línea 4395 que alimenta Contramaestre, la línea 4390 Palma -Contramaestre y la línea 5380 que le da servicio a San Luis -Mella ...",
-    "timestamp": 1768111326,
-    "timestamp_local": 1768111326
   }
 ]
