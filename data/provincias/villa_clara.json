@@ -1,9 +1,33 @@
 [
   {
+    "id": 37797,
+    "fecha": "11 de Jan del 2026 a las 06:14 AM",
+    "hora_utc": "2026-01-11 11:14",
+    "mensaje": "⚠️Afectados por déficit de capacidad de generación los siguientes circuitos:\n🔹Municipio Encrucijada:\nCto 122 Encrucijada  \nCto 123 Vizcaya \nCto 142 Comunidad La Sierra \nCto 126 Batey Emilio Córdova\nCto 125 Cavarrocas\nCto 124 El Santo\n🔹Municipio Camajuaní:                                                              \nCto 78 Jutiero",
+    "timestamp": 1768130080,
+    "timestamp_local": 1768130080
+  },
+  {
+    "id": 37796,
+    "fecha": "11 de Jan del 2026 a las 06:10 AM",
+    "hora_utc": "2026-01-11 11:10",
+    "mensaje": "⚠️Afectados por déficit de capacidad de generación los siguientes circuitos:\n🔹Municipio Santo Domingo:\n👉Cto 134\n👉Ctos 87 y 96 Bermejal\n👉Cto 187 Batey Carlos Baliño\n👉Cto 82 Ulacia\n👉Cto 84 Rodrigo",
+    "timestamp": 1768129826,
+    "timestamp_local": 1768129826
+  },
+  {
+    "id": 37795,
+    "fecha": "11 de Jan del 2026 a las 06:04 AM",
+    "hora_utc": "2026-01-11 11:04",
+    "mensaje": "⚠️Afectados por déficit de capacidad de generación los siguientes circuitos:\n🔹Municipio Manicaragua:\nCtos 109 y 150\nCtos 108 y 110 La Piedra\nCto 111 Mataguá\n🔹Municipio Cifuentes:\nCtos 114 y 117\nCtos 116 y 155 Mata\nCto 186 Batey Unidad Proletaria\nCto 184 Sitio Grande\n🔹Municipio Remedios:\nCtos 67 y 152\nCtos 68 y 118 (Avería)\nCtos 69 y 70 Zuluetas\nCto 143 Batey Heriberto Duquesne\nCto 71 Buena Vista",
+    "timestamp": 1768129465,
+    "timestamp_local": 1768129465
+  },
+  {
     "id": 37794,
     "fecha": "11 de Jan del 2026 a las 06:00 AM",
     "hora_utc": "2026-01-11 11:00",
-    "mensaje": "🕕Actualización del servicio eléctrico en las últimas 6 horas.\n✍️El déficit de capacidad de generación osciló entre los 65 MW y los 0 MW.\n✍️Cuenta con 27 afectaciones por averías secundarias y de servicio:\n🔸Caibarién (2)\n🔸Manicaragua (2)\n🔸Placetas (4)\n🔸Ranchuelo (1)\n🔸Remedios (2)\n🔸Sagua (1) \n🔸Santo Domingo (6)\n🛠️Se encuentra 1 avería en vías de solución.\n🛠️Pendientes a solucionar por el área técnica 8.\n⚡La provincia presenta 1 avería primaria en los circuitos 68 y 118 (13 Kv) del municipio Remedios.",
+    "mensaje": "🕕Actualización del servicio eléctrico en las últimas 6 horas.\n✍️El déficit de capacidad de generación osciló entre los 65 MW y los 30 MW.\n✍️Cuenta con 27 afectaciones por averías secundarias y de servicio:\n🔸Caibarién (2)\n🔸Manicaragua (2)\n🔸Placetas (4)\n🔸Ranchuelo (1)\n🔸Remedios (2)\n🔸Sagua (1) \n🔸Santo Domingo (6)\n🛠️Se encuentra 1 avería en vías de solución.\n🛠️Pendientes a solucionar por el área técnica 8.\n⚡La provincia presenta 1 avería primaria en los circuitos 68 y 118 (13 Kv) del municipio Remedios.",
     "timestamp": 1768129207,
     "timestamp_local": 1768129207
   },
@@ -118,29 +142,5 @@
     "mensaje": "🟢 20:50 || En línea la Unidad 5 de la CTE Diez de Octubre.",
     "timestamp": 1768100239,
     "timestamp_local": 1768100239
-  },
-  {
-    "id": 37777,
-    "fecha": "10 de Jan del 2026 a las 09:24 PM",
-    "hora_utc": "2026-01-11 02:24",
-    "mensaje": "💡Con servicio los siguientes circuitos:\n🔹Municipio Ranchuelo:\nCto 92 Esperanza (Pueblo)\nCto 93 Esperanza (Campo)\nCtos 54, 94 y 95 Jicotea\n🔹Municipio Santa Clara\nCtos 26 y 141 (Manuelita)\nCto 191 (Quemado de Hilario) \n🔹Municipio Santo Domingo\nCto 79 (Santo Domingo)\nCto 81 (26 de Julio)\nCto 163 (Batey 26 de Julio\n🔹Municipio Santa Clara:\nCto 170 (José Martí)\nCto 171 (Los Caneyes)",
-    "timestamp": 1768098272,
-    "timestamp_local": 1768098272
-  },
-  {
-    "id": 37776,
-    "fecha": "10 de Jan del 2026 a las 08:50 PM",
-    "hora_utc": "2026-01-11 01:50",
-    "mensaje": "Con servicio el circuito 112 (Hoyo Manicaragua).",
-    "timestamp": 1768096231,
-    "timestamp_local": 1768096231
-  },
-  {
-    "id": 37775,
-    "fecha": "10 de Jan del 2026 a las 08:47 PM",
-    "hora_utc": "2026-01-11 01:47",
-    "mensaje": "⚠️Afectado por déficit de capacidad de generación el circuito 52 del municipio Quemado.",
-    "timestamp": 1768096067,
-    "timestamp_local": 1768096067
   }
 ]
