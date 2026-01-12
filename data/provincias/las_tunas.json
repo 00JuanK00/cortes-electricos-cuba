@@ -1,5 +1,21 @@
 [
   {
+    "id": 17806,
+    "fecha": "12 de Jan del 2026 a las 02:44 PM",
+    "hora_utc": "2026-01-12 19:44",
+    "mensaje": "La Empresa Eléctrica Las Tunas informa que, según la nota emitida por la Unión Eléctrica para el 12 de enero, se afectó el servicio durante las 24 horas y se ha mantenido afectado durante la madrugada de hoy. En nuestra provincia se afectaron la totalidad de los circuitos apagables, con una máxima afectación de 70.2 MW.\nActualmente están fuera de servicio por avería: \nUnidad 5 de la CTE Mariel, Unidad 6 de la CTE Nuevitas, Unidad 2 de la CTE Felton y Unidad 3 de la CTE Antonio Maceo.\nEn mantenimiento se encuentran:  \nUnidad 2 de la CTE Sata Cruz, Unidad 4 de la CTE Carlos Manuel de Céspedes en Cienfuegos.\nEn el horario nocturno se estima una afectación de 1760 MW, lo cual puede representar el 90 % de los circuitos apagables. Estos valores pueden variar según la demanda nacional.",
+    "timestamp": 1768247092,
+    "timestamp_local": 1768247092
+  },
+  {
+    "id": 17805,
+    "fecha": "12 de Jan del 2026 a las 02:34 PM",
+    "hora_utc": "2026-01-12 19:34",
+    "mensaje": "Informamos a nuestros clientes que en el día de hoy no fue posible publicar en el canal de Telegram las afectaciones al servicio eléctrico debido a problemas técnicos.  El servicio ya ha sido restablecido y pedimos disculpas por las molestias ocasionadas. Agradecemos la comprensión de nuestros usuarios.",
+    "timestamp": 1768246444,
+    "timestamp_local": 1768246444
+  },
+  {
     "id": 17804,
     "fecha": "12 de Jan del 2026 a las 01:14 PM",
     "hora_utc": "2026-01-12 18:14",
@@ -118,21 +134,5 @@
     "mensaje": "Se afecta el servicio a los siguientes circuitos:                                                                                                                                                                                            TK9 Aguilera, LaVictoria**                                                                                                                 **TK12 Las 40 y Nuevo Sosa\nTK6 Calle Cuba y zonasur de Buena Vista",
     "timestamp": 1768080581,
     "timestamp_local": 1768080581
-  },
-  {
-    "id": 17786,
-    "fecha": "10 de Jan del 2026 a las 04:24 PM",
-    "hora_utc": "2026-01-10 21:24",
-    "mensaje": "Se afecta el servicio eléctrico a los siguientes circuitos:                                                                                                                                 TK27 La Victoria\nTK24 Reparto Santo Domingo",
-    "timestamp": 1768080269,
-    "timestamp_local": 1768080269
-  },
-  {
-    "id": 17785,
-    "fecha": "10 de Jan del 2026 a las 03:53 PM",
-    "hora_utc": "2026-01-10 20:53",
-    "mensaje": "La provincia presenta máxima capacidad apagable en estos momentos, lo que no ha permitido realizar la rotación de los circuitos con mayor tiempo de afectación. Se irán restableciendo en la medida que el Sistema Electroenergético lo permita.",
-    "timestamp": 1768078422,
-    "timestamp_local": 1768078422
   }
 ]
