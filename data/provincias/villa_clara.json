@@ -1,5 +1,29 @@
 [
   {
+    "id": 37857,
+    "fecha": "12 de Jan del 2026 a las 02:01 AM",
+    "hora_utc": "2026-01-12 07:01",
+    "mensaje": "🔸Actualización del servicio eléctrico en la provincia🔸\n✍️En el momento de hacer esta nota la provincia tiene 25 MW por déficit de capacidad de generación.\n✍️Cuenta con 9 afectaciones por averías secundarias y de servicio.",
+    "timestamp": 1768201287,
+    "timestamp_local": 1768201287
+  },
+  {
+    "id": 37856,
+    "fecha": "12 de Jan del 2026 a las 01:45 AM",
+    "hora_utc": "2026-01-12 06:45",
+    "mensaje": "💡Con servicio los siguientes circuitos:\n🔹Municipio Camajuaní:\n👉Ctos  72, 73, 129 y 156 \n👉Cto 74 José María Pérez",
+    "timestamp": 1768200316,
+    "timestamp_local": 1768200316
+  },
+  {
+    "id": 37855,
+    "fecha": "12 de Jan del 2026 a las 01:30 AM",
+    "hora_utc": "2026-01-12 06:30",
+    "mensaje": "💡Con servicio los siguientes circuitos:\n🔹Municipio Caibarién:\n👉Ctos 61, 62",
+    "timestamp": 1768199453,
+    "timestamp_local": 1768199453
+  },
+  {
     "id": 37854,
     "fecha": "12 de Jan del 2026 a las 01:02 AM",
     "hora_utc": "2026-01-12 06:02",
@@ -126,29 +150,5 @@
     "mensaje": "🕕Actualización del servicio eléctrico en las últimas 6 horas.\n✍️El déficit de capacidad de generación osciló entre los 46 MW y los 108 MW.\n✍️Cuenta con 34 afectaciones por averías secundarias y de servicio:\n🔸Cifuentes (1)\n🔸Corralillo (2)\n🔸Encrucijada (4)\n🔸Manicaragua (4)\n🔸Placetas (1)\n🔸Ranchuelo (1)\n🔸Remedios (4)\n🔸Sagua (3) \n🔸Santa Clara (13)\n🔸Santo Domingo (1)\n🛠️Pendientes a solucionar por el área técnica 7.\n⚡La provincia no presenta averías primarias en estos momentos.",
     "timestamp": 1768172885,
     "timestamp_local": 1768172885
-  },
-  {
-    "id": 37837,
-    "fecha": "11 de Jan del 2026 a las 05:57 PM",
-    "hora_utc": "2026-01-11 22:57",
-    "mensaje": "⚠️Afectados por déficit de capacidad de generación los siguientes circuitos:\n🔹Municipio Santa Clara:\n👉Cto 166 (Condado)\n👉Cto 167 (Virginia)",
-    "timestamp": 1768172270,
-    "timestamp_local": 1768172270
-  },
-  {
-    "id": 37836,
-    "fecha": "11 de Jan del 2026 a las 05:03 PM",
-    "hora_utc": "2026-01-11 22:03",
-    "mensaje": "Afectados 108 MW por déficit de capacidad de generación, demanda máxima a apagar en estos momentos.",
-    "timestamp": 1768168983,
-    "timestamp_local": 1768168983
-  },
-  {
-    "id": 37835,
-    "fecha": "11 de Jan del 2026 a las 05:01 PM",
-    "hora_utc": "2026-01-11 22:01",
-    "mensaje": "⚠️Se encuentran afectados por déficit de capacidad de generación los siguientes circuitos:\n🔹Municipio Santa Clara\n**👉Cto 31 SC. Industrial**\n**👉Cto 132 SC. Industrial**\n**👉Cto 162 SC. Industrial**",
-    "timestamp": 1768168877,
-    "timestamp_local": 1768168877
   }
 ]
