@@ -1,5 +1,21 @@
 [
   {
+    "id": 35183,
+    "fecha": "12 de Jan del 2026 a las 08:43 AM",
+    "hora_utc": "2026-01-12 13:43",
+    "mensaje": "👉Se encuentra sin servicio eléctrico el circuito La Juanita. Se trabaja para restablecer lo antes posible el servicio.",
+    "timestamp": 1768225413,
+    "timestamp_local": 1768225413
+  },
+  {
+    "id": 35182,
+    "fecha": "12 de Jan del 2026 a las 08:42 AM",
+    "hora_utc": "2026-01-12 13:42",
+    "mensaje": "✅ Se encuentra en fallo el circuito A110. \n👉Se recorren las líneas para encontrar la causa. \n👉Si usted observa corto circuito en las redes o alguna irregularidad, por favor comuníquelo a través del ☎18888.",
+    "timestamp": 1768225339,
+    "timestamp_local": 1768225339
+  },
+  {
     "id": 35181,
     "fecha": "12 de Jan del 2026 a las 08:12 AM",
     "hora_utc": "2026-01-12 13:12",
@@ -142,21 +158,5 @@
     "mensaje": "🔊Información.\n👉 Se restablece el servicio en el circuito A208, quedando en fallo desde Fábrica de Conservas, 9 de Abril, Grego y lugares aledaños, se recorren las lineas para encontrar la avería.",
     "timestamp": 1768172723,
     "timestamp_local": 1768172723
-  },
-  {
-    "id": 35162,
-    "fecha": "11 de Jan del 2026 a las 05:21 PM",
-    "hora_utc": "2026-01-11 22:21",
-    "mensaje": "‼️ Déficit de Generación ‼️   \n👉Tenemos 74 MW en la provincia afectados por déficit de generación.\n⏰ Reiteramos que los circuitos se afectarán o se restablecerán en dependencia del déficit en cada momento de la jornada, que es muy variable.",
-    "timestamp": 1768170111,
-    "timestamp_local": 1768170111
-  },
-  {
-    "id": 35161,
-    "fecha": "11 de Jan del 2026 a las 05:20 PM",
-    "hora_utc": "2026-01-11 22:20",
-    "mensaje": "🔊Información.\n👉 Se encuentra en  fallo  el circuito A208, se recorren las lineas para encontrar la avería.",
-    "timestamp": 1768170047,
-    "timestamp_local": 1768170047
   }
 ]
