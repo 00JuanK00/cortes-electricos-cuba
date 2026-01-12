@@ -1,5 +1,21 @@
 [
   {
+    "id": 37867,
+    "fecha": "12 de Jan del 2026 a las 06:32 AM",
+    "hora_utc": "2026-01-12 11:32",
+    "mensaje": "⚠️Afectado por déficit de capacidad de generación el siguiente circuito:\n🔹Municipio Santa Clara:\n👉Cto 5 (Dobarganes)\n👉Cto 17 (Subplanta)",
+    "timestamp": 1768217564,
+    "timestamp_local": 1768217564
+  },
+  {
+    "id": 37866,
+    "fecha": "12 de Jan del 2026 a las 06:15 AM",
+    "hora_utc": "2026-01-12 11:15",
+    "mensaje": "⚠️Afectado por déficit de capacidad de generación el siguiente circuito:\n🔹Municipio Caibarién:\n👉Ctos 61, 62 \n👉Ctos 63 y 64\n👉Ctos 182 y 183 Van Troy\n🔹Municipio Quemado:\n👉Ctos 164 y 53 Quemado.",
+    "timestamp": 1768216559,
+    "timestamp_local": 1768216559
+  },
+  {
     "id": 37865,
     "fecha": "12 de Jan del 2026 a las 06:08 AM",
     "hora_utc": "2026-01-12 11:08",
@@ -142,21 +158,5 @@
     "mensaje": "💡Con servicio los siguientes circuitos:\n🔹Municipio Sagua\n👉Ctos 43, 51 Sagua\n👉Cto 44 Isabela",
     "timestamp": 1768193513,
     "timestamp_local": 1768193513
-  },
-  {
-    "id": 37847,
-    "fecha": "11 de Jan del 2026 a las 11:37 PM",
-    "hora_utc": "2026-01-12 04:37",
-    "mensaje": "Afectados 59 MW por déficit de capacidad de generación, demanda máxima a apagar en estos momentos.",
-    "timestamp": 1768192667,
-    "timestamp_local": 1768192667
-  },
-  {
-    "id": 37846,
-    "fecha": "11 de Jan del 2026 a las 11:36 PM",
-    "hora_utc": "2026-01-12 04:36",
-    "mensaje": "💡Con servicio los siguientes circuitos:\n🔹Municipio Camajuaní:\n👉Cto 75 La Quinta\n👉Cto 157 Luis Arcos Bergnes\n👉Ctos 76 y 90 Vega Alta\n👉Ctos 77 y 185 Vueltas\n🔹Municipio Placetas:\n👉Cto 192 Benito Juárez\n👉Cto 102 Peroti\n🔹Municipio Santa Clara:\n**👉Cto 31 SC. Industrial**",
-    "timestamp": 1768192614,
-    "timestamp_local": 1768192614
   }
 ]
