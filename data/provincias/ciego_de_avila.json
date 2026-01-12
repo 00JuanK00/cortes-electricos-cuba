@@ -1,5 +1,13 @@
 [
   {
+    "id": 35186,
+    "fecha": "12 de Jan del 2026 a las 11:13 AM",
+    "hora_utc": "2026-01-12 16:13",
+    "mensaje": "‼️ Déficit de Generación ‼️   \n👉 Subimos a 60 MW en la provincia afectados por déficit de generación.\n📌 Se encuentran afectados los siguientes circuitos.\n👉 2, 5, A104, A206, Vicente, Baraguá, Colorado, Cítrico IV, Ceballos Pueblo, Morón Norte, Morón Sur, Micro Norte, San Fernando, Combinado Minaz, Delfín Moreno, Santana, Florencia, Tamarindo, Violeta, Miraflores, Tres Marías, Bolivia, \n\n⏰ Reiteramos que los circuitos se afectarán o se restablecerán en dependencia del déficit en cada momento de la jornada, que es muy variable.",
+    "timestamp": 1768234428,
+    "timestamp_local": 1768234428
+  },
+  {
     "id": 35183,
     "fecha": "12 de Jan del 2026 a las 08:43 AM",
     "hora_utc": "2026-01-12 13:43",
@@ -134,21 +142,5 @@
     "mensaje": "🔊Información.\n👉 Se restablece el servicio en el circuito A208.",
     "timestamp": 1768175714,
     "timestamp_local": 1768175714
-  },
-  {
-    "id": 35165,
-    "fecha": "11 de Jan del 2026 a las 06:26 PM",
-    "hora_utc": "2026-01-11 23:26",
-    "mensaje": "🔊Información.\n👉  Continúa en  fallo  el circuito A208, se recorren las lineas para encontrar la avería.",
-    "timestamp": 1768173991,
-    "timestamp_local": 1768173991
-  },
-  {
-    "id": 35164,
-    "fecha": "11 de Jan del 2026 a las 06:23 PM",
-    "hora_utc": "2026-01-11 23:23",
-    "mensaje": "‼️ Información del déficit de generación ‼️   \n👉Tenemos 87 MW en la provincia afectados por déficit de generación.\n⏰ Con este déficit, la carga a apagar en la provincia no nos permite realizar una rotación estable de los circuitos, por lo que se afectarán o se restablecerán en dependencia del déficit que haya en cada momento de la jornada, que es muy variable.",
-    "timestamp": 1768173809,
-    "timestamp_local": 1768173809
   }
 ]
