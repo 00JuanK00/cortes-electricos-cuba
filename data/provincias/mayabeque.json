@@ -1,5 +1,37 @@
 [
   {
+    "id": 103208,
+    "fecha": "13 de Jan del 2026 a las 12:45 AM",
+    "hora_utc": "2026-01-13 05:45",
+    "mensaje": "♦️ Afectado el servicio en el circuito 3930 por manipulación♦️",
+    "timestamp": 1768283143,
+    "timestamp_local": 1768283143
+  },
+  {
+    "id": 103206,
+    "fecha": "13 de Jan del 2026 a las 12:19 AM",
+    "hora_utc": "2026-01-13 05:19",
+    "mensaje": "🔷♦️Se restablece el servicio en el circuito que se encontraba afectado  por déficit de capacidad de generación:\n*Güines 4 ♦️🔷",
+    "timestamp": 1768281559,
+    "timestamp_local": 1768281559
+  },
+  {
+    "id": 103205,
+    "fecha": "13 de Jan del 2026 a las 12:13 AM",
+    "hora_utc": "2026-01-13 05:13",
+    "mensaje": "🔷♦️Se restablece el servicio en el circuito que se encontraba afectado  por déficit de capacidad de generación:\n*Melena 1 ♦️🔷",
+    "timestamp": 1768281199,
+    "timestamp_local": 1768281199
+  },
+  {
+    "id": 103204,
+    "fecha": "13 de Jan del 2026 a las 12:02 AM",
+    "hora_utc": "2026-01-13 05:02",
+    "mensaje": "🔷♦️Se restablece el servicio en el circuito que se encontraba afectado  por déficit de capacidad de generación:\n*ML 35 ♦️🔷\n\n\n🚨 Continúa afectado el servicio por déficit de capacidad de generación el siguiente circuito:\n*Melena 1🚨",
+    "timestamp": 1768280573,
+    "timestamp_local": 1768280573
+  },
+  {
     "id": 103203,
     "fecha": "12 de Jan del 2026 a las 11:31 PM",
     "hora_utc": "2026-01-13 04:31",
@@ -110,29 +142,5 @@
     "mensaje": "♦️ Afectado el servicio en la siguiente zona correspondiente al circuito de Babiney por avería:\n*Vaquería 15 y zonas aledañas ♦️",
     "timestamp": 1768261273,
     "timestamp_local": 1768261273
-  },
-  {
-    "id": 103188,
-    "fecha": "12 de Jan del 2026 a las 06:40 PM",
-    "hora_utc": "2026-01-12 23:40",
-    "mensaje": "🔷 Restablecido el servicio en las siguientes zonas correspondientes al circuito Babiney que se encontraban afectados por avería:\n*Sami\n*Río Hondo 🔷",
-    "timestamp": 1768261209,
-    "timestamp_local": 1768261209
-  },
-  {
-    "id": 103185,
-    "fecha": "12 de Jan del 2026 a las 06:34 PM",
-    "hora_utc": "2026-01-12 23:34",
-    "mensaje": "🚨Por déficit de capacidad de generación se afecta el servicio en los siguientes circuitos:\n*6 y 8 de San José 🚨",
-    "timestamp": 1768260874,
-    "timestamp_local": 1768260874
-  },
-  {
-    "id": 103184,
-    "fecha": "12 de Jan del 2026 a las 06:10 PM",
-    "hora_utc": "2026-01-12 23:10",
-    "mensaje": "🔷♦️Se restablece el servicio en el circuito que se encontraba afectado  por déficit de capacidad de generación:\n*Vegas ♦️🔷",
-    "timestamp": 1768259428,
-    "timestamp_local": 1768259428
   }
 ]
