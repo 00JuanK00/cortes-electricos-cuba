@@ -1,5 +1,21 @@
 [
   {
+    "id": 17826,
+    "fecha": "13 de Jan del 2026 a las 05:14 PM",
+    "hora_utc": "2026-01-13 22:14",
+    "mensaje": "La provincia presenta máxima capacidad apagable en estos momentos, lo que no ha permitido realizar la rotación de los circuitos con mayor tiempo de afectación. Se irán restableciendo en la medida que el Sistema Electroenergético lo permita.",
+    "timestamp": 1768342488,
+    "timestamp_local": 1768342488
+  },
+  {
+    "id": 17825,
+    "fecha": "13 de Jan del 2026 a las 05:14 PM",
+    "hora_utc": "2026-01-13 22:14",
+    "mensaje": "Se afectan además los siguientes circuitos:\nCircuito 33 Kv: 6100\nTK35 Puerto Manatí\nTK36 El Raúl\nTK22 Aeropuerto\nTK23 Veguita \nTK32 Fleytas \nTK30 Meriño\nTK48 Puerto Padre y Maniabón\nCircuito 33 Kv: 6470-6300\nTK13 Yariguá \nTJ11 Bartle \nTK91 Macagua \nTK87 Pueblo Jobabo\nTK90 Escuela Especial Jobabo\n6470 Mina de Oro, Las Margaritas\nCircuito 33 Kv: 4220\nTK28 La Guinea\nTK52 Covarrubias\nTK31 Pueblo Manatí\nTK33 Pueblo Manatí\nTK34 Pueblo Manatí\nTK25 Cuatro Caminos, Dormitorio",
+    "timestamp": 1768342445,
+    "timestamp_local": 1768342445
+  },
+  {
     "id": 17824,
     "fecha": "13 de Jan del 2026 a las 04:19 PM",
     "hora_utc": "2026-01-13 21:19",
@@ -126,21 +142,5 @@
     "mensaje": "La provincia presenta máxima capacidad apagable en estos momentos, lo que no ha permitido realizar la rotación de los circuitos con mayor tiempo de afectación. Se irán restableciendo en la medida que el Sistema Electroenergético lo permita.",
     "timestamp": 1768267754,
     "timestamp_local": 1768267754
-  },
-  {
-    "id": 17806,
-    "fecha": "12 de Jan del 2026 a las 02:44 PM",
-    "hora_utc": "2026-01-12 19:44",
-    "mensaje": "La Empresa Eléctrica Las Tunas informa que, según la nota emitida por la Unión Eléctrica para el 12 de enero, se afectó el servicio durante las 24 horas y se ha mantenido afectado durante la madrugada de hoy. En nuestra provincia se afectaron la totalidad de los circuitos apagables, con una máxima afectación de 70.2 MW.\nActualmente están fuera de servicio por avería: \nUnidad 5 de la CTE Mariel, Unidad 6 de la CTE Nuevitas, Unidad 2 de la CTE Felton y Unidad 3 de la CTE Antonio Maceo.\nEn mantenimiento se encuentran:  \nUnidad 2 de la CTE Sata Cruz, Unidad 4 de la CTE Carlos Manuel de Céspedes en Cienfuegos.\nEn el horario nocturno se estima una afectación de 1760 MW, lo cual puede representar el 90 % de los circuitos apagables. Estos valores pueden variar según la demanda nacional.",
-    "timestamp": 1768247092,
-    "timestamp_local": 1768247092
-  },
-  {
-    "id": 17805,
-    "fecha": "12 de Jan del 2026 a las 02:34 PM",
-    "hora_utc": "2026-01-12 19:34",
-    "mensaje": "Informamos a nuestros clientes que en el día de hoy no fue posible publicar en el canal de Telegram las afectaciones al servicio eléctrico debido a problemas técnicos.  El servicio ya ha sido restablecido y pedimos disculpas por las molestias ocasionadas. Agradecemos la comprensión de nuestros usuarios.",
-    "timestamp": 1768246444,
-    "timestamp_local": 1768246444
   }
 ]
