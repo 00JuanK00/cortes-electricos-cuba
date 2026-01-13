@@ -1,5 +1,61 @@
 [
   {
+    "id": 37968,
+    "fecha": "13 de Jan del 2026 a las 09:56 AM",
+    "hora_utc": "2026-01-13 14:56",
+    "mensaje": "🛠️Afectado por vía libre el circuito 170 José Martí.",
+    "timestamp": 1768316214,
+    "timestamp_local": 1768316214
+  },
+  {
+    "id": 37967,
+    "fecha": "13 de Jan del 2026 a las 09:52 AM",
+    "hora_utc": "2026-01-13 14:52",
+    "mensaje": "💡Con servicio los siguientes circuitos:\n👉Municipio Santa Clara:\nCto 6 (Vigía)\nCto 34(Sabana Rebacadero)\nCtos 32 y 33 (RF-33Kv)\nCto 39 (Sandino)",
+    "timestamp": 1768315964,
+    "timestamp_local": 1768315964
+  },
+  {
+    "id": 37966,
+    "fecha": "13 de Jan del 2026 a las 09:42 AM",
+    "hora_utc": "2026-01-13 14:42",
+    "mensaje": "🛠️Afectados por manipulación los siguientes circuitos:\n👉Municipio Santa Clara:\nCto 6 (Vigía)\nCto 34(Sabana Rebacadero)\nCtos 32 y 33 (RF-33Kv)\nCto 39 (Sandino)\nCto 40 (Hospital Militar)",
+    "timestamp": 1768315376,
+    "timestamp_local": 1768315376
+  },
+  {
+    "id": 37964,
+    "fecha": "13 de Jan del 2026 a las 09:27 AM",
+    "hora_utc": "2026-01-13 14:27",
+    "mensaje": "⚠️Afectados por déficit de capacidad de generación los siguientes circuitos:\n👉Municipio Caibarién:\nCtos 61, 62 \nCtos 63 y 64\nCtos 182 y 183 Van Troy",
+    "timestamp": 1768314454,
+    "timestamp_local": 1768314454
+  },
+  {
+    "id": 37963,
+    "fecha": "13 de Jan del 2026 a las 09:26 AM",
+    "hora_utc": "2026-01-13 14:26",
+    "mensaje": "💡Con servicio los siguientes circuitos:\n👉Municipio Remedios:\nCtos 67 y 152, 68 y 118 \nCtos 69 y 70 Zuluetas\nCto 143 Batey Heriberto Duquesne\nCto 71 Buena Vista",
+    "timestamp": 1768314404,
+    "timestamp_local": 1768314404
+  },
+  {
+    "id": 37962,
+    "fecha": "13 de Jan del 2026 a las 09:25 AM",
+    "hora_utc": "2026-01-13 14:25",
+    "mensaje": "🛠️Afectado por manipulación el circuito 4 Zona Centro.",
+    "timestamp": 1768314314,
+    "timestamp_local": 1768314314
+  },
+  {
+    "id": 37961,
+    "fecha": "13 de Jan del 2026 a las 09:08 AM",
+    "hora_utc": "2026-01-13 14:08",
+    "mensaje": "⚡Afectado por avería Cto 78 (Jutiero) de manera parcial perteneciente al Municipio de Encrucijada por cable primario partido",
+    "timestamp": 1768313288,
+    "timestamp_local": 1768313288
+  },
+  {
     "id": 37959,
     "fecha": "13 de Jan del 2026 a las 07:59 AM",
     "hora_utc": "2026-01-13 12:59",
@@ -86,61 +142,5 @@
     "mensaje": "⚠️Afectados por déficit de capacidad de generación los siguientes circuitos:\n🔹Municipio Placetas:\n👉Ctos 101 y 145 Cumbre",
     "timestamp": 1768303499,
     "timestamp_local": 1768303499
-  },
-  {
-    "id": 37948,
-    "fecha": "13 de Jan del 2026 a las 06:15 AM",
-    "hora_utc": "2026-01-13 11:15",
-    "mensaje": "⚠️Afectados por déficit de capacidad de generación los siguientes circuitos:\n🔹Municipio Santo Domingo:\n👉Cto 134\n👉Ctos 87 y 96 Bermejal\n👉Cto 187 Batey Carlos Baliño\n👉Cto 82 Ulacia\n👉Cto 84 Rodrigo\n🔹Municipio Santa Clara \n👉Cto 30 Santa Clara Industrial",
-    "timestamp": 1768302950,
-    "timestamp_local": 1768302950
-  },
-  {
-    "id": 37947,
-    "fecha": "13 de Jan del 2026 a las 05:54 AM",
-    "hora_utc": "2026-01-13 10:54",
-    "mensaje": "🕕Actualización del servicio eléctrico en las últimas 6 horas.\n✍️El déficit de capacidad de generación osciló entre los 47 MW y los 0 MW.\n✍️En el momento de esta nota, se mantienen afectados 76 circuitos.\n✍️Cuenta con 34 afectaciones por averías secundarias y de servicio:\n🔸Manicaragua (2)\n🔸Placetas (5)\n🔸Ranchuelo (1)\n🔸 Remedios (1)\n🔸Sagua (3)\n🔸Santa Clara (1)\n🔸Santo Domingo (5)\n🛠️Se encuentran 1 averías en vías de solución.\n🛠️Pendientes a solucionar por el área técnica 15.\n✅La provincia no presenta averías primarias.",
-    "timestamp": 1768301663,
-    "timestamp_local": 1768301663
-  },
-  {
-    "id": 37946,
-    "fecha": "13 de Jan del 2026 a las 05:47 AM",
-    "hora_utc": "2026-01-13 10:47",
-    "mensaje": "⚠️Afectados por déficit de capacidad de generación los siguientes circuitos:\n🔹Municipio Cifuentes:\n👉Ctos 114 y 117\n👉Ctos 116 y 155 Mata\n👉Cto 186 Batey Unidad Proletaria\n👉Cto 184 Sitio Grande\n🔹Municipio Camajuaní:\n👉Cto 75 La Quinta\n👉Cto 157 Luis Arcos Bergnes\n👉Ctos 76 y 90 Vega Alta\n👉Ctos 77 y 185 Vueltas",
-    "timestamp": 1768301271,
-    "timestamp_local": 1768301271
-  },
-  {
-    "id": 37945,
-    "fecha": "13 de Jan del 2026 a las 05:45 AM",
-    "hora_utc": "2026-01-13 10:45",
-    "mensaje": "⚠️Continúan afectados por déficit de capacidad de generación los siguientes circuitos:\n🔹Municipio Remedios:\n👉Ctos 67 y 152, 68 y 118 \n👉Ctos 69 y 70 Zuluetas\n👉Cto 143 Batey Heriberto Duquesne\n👉Cto 71 Buena Vista\n🔹Municipio Manicaragua:\n👉Ctos 109 y 150\n👉Ctos 108 y 110 La Piedra\n👉Cto 111 Mataguá",
-    "timestamp": 1768301143,
-    "timestamp_local": 1768301143
-  },
-  {
-    "id": 37944,
-    "fecha": "13 de Jan del 2026 a las 03:56 AM",
-    "hora_utc": "2026-01-13 08:56",
-    "mensaje": "Actualización del servicio eléctrico en la provincia🔸\n✍️Se mantienen afectados en la provincia 0 circuitos.\n✍️En el momento de hacer esta nota la provincia no tiene afectación por déficit de capacidad de generación.\n✍️Cuenta con 18 afectaciones por averías secundarias y de servicio",
-    "timestamp": 1768294619,
-    "timestamp_local": 1768294619
-  },
-  {
-    "id": 37941,
-    "fecha": "13 de Jan del 2026 a las 02:45 AM",
-    "hora_utc": "2026-01-13 07:45",
-    "mensaje": "💡Con servicio los siguientes circuitos:\n🔹Municipio Santo Domingo:\n👉Cto 195 Batey George Washington\n👉Ctos 83 y 165 Manacas\n👉Ctos 85 y 86 Pajarito\n👉Ctos 160 y 161 Cascajal",
-    "timestamp": 1768290333,
-    "timestamp_local": 1768290333
-  },
-  {
-    "id": 37940,
-    "fecha": "13 de Jan del 2026 a las 02:32 AM",
-    "hora_utc": "2026-01-13 07:32",
-    "mensaje": "🚨Usted puede mantenerse informado por nuestras redes🛜, y unirse a nuestro canal de Telegram, para usted trabajamos🛠️ , para darle una actualización  clara y precisa de cómo se está comportando el Sistema Eléctrico Nacional💡, puede llamar☎️ al 18888, donde prestamos servicio las 24 horas.",
-    "timestamp": 1768289529,
-    "timestamp_local": 1768289529
   }
 ]
