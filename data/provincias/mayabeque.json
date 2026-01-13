@@ -1,5 +1,69 @@
 [
   {
+    "id": 103275,
+    "fecha": "13 de Jan del 2026 a las 04:47 PM",
+    "hora_utc": "2026-01-13 21:47",
+    "mensaje": "🔷 Restablecido el servicio en el circuito 3140 que se encontraba afectado por disparo por DAF🔷",
+    "timestamp": 1768340829,
+    "timestamp_local": 1768340829
+  },
+  {
+    "id": 103274,
+    "fecha": "13 de Jan del 2026 a las 04:46 PM",
+    "hora_utc": "2026-01-13 21:46",
+    "mensaje": "🔷 Restablecido el servicio en el circuito 3590 que se encontraba afectado por disparo por DAF🔷",
+    "timestamp": 1768340785,
+    "timestamp_local": 1768340785
+  },
+  {
+    "id": 103273,
+    "fecha": "13 de Jan del 2026 a las 04:36 PM",
+    "hora_utc": "2026-01-13 21:36",
+    "mensaje": "♦️ Afectado el servicio en el circuito 3590 por disparo por DAF♦️",
+    "timestamp": 1768340204,
+    "timestamp_local": 1768340204
+  },
+  {
+    "id": 103272,
+    "fecha": "13 de Jan del 2026 a las 04:31 PM",
+    "hora_utc": "2026-01-13 21:31",
+    "mensaje": "🚨 Afectado el servicio en el siguiente circuito por déficit de capacidad de generación:\n*ML-35🚨",
+    "timestamp": 1768339871,
+    "timestamp_local": 1768339871
+  },
+  {
+    "id": 103271,
+    "fecha": "13 de Jan del 2026 a las 04:28 PM",
+    "hora_utc": "2026-01-13 21:28",
+    "mensaje": "🔷 Restablecido el servicio en el circuito 3590 que se encontraba afectado por disparo por DAF🔷",
+    "timestamp": 1768339723,
+    "timestamp_local": 1768339723
+  },
+  {
+    "id": 103270,
+    "fecha": "13 de Jan del 2026 a las 04:28 PM",
+    "hora_utc": "2026-01-13 21:28",
+    "mensaje": "🔷 Restablecido el servicio en el circuito UNAH que se encontraba afectado por manipulación 🔷",
+    "timestamp": 1768339701,
+    "timestamp_local": 1768339701
+  },
+  {
+    "id": 103269,
+    "fecha": "13 de Jan del 2026 a las 04:24 PM",
+    "hora_utc": "2026-01-13 21:24",
+    "mensaje": "🚨Por déficit de capacidad de generación se afecta el servicio en los siguientes circuitos:\n*Güines 1\n*Güines 3\n*Güines 4🚨",
+    "timestamp": 1768339447,
+    "timestamp_local": 1768339447
+  },
+  {
+    "id": 103268,
+    "fecha": "13 de Jan del 2026 a las 04:14 PM",
+    "hora_utc": "2026-01-13 21:14",
+    "mensaje": "🚨Por déficit de capacidad de generación se afecta el servicio en los siguientes circuitos:\n*3660\n*3655🚨",
+    "timestamp": 1768338862,
+    "timestamp_local": 1768338862
+  },
+  {
     "id": 103267,
     "fecha": "13 de Jan del 2026 a las 03:44 PM",
     "hora_utc": "2026-01-13 20:44",
@@ -94,45 +158,5 @@
     "mensaje": "🔷 Restablecido el servicio en el circuito 3140 que se encontraba afectado por disparo por DAF🔷",
     "timestamp": 1768332545,
     "timestamp_local": 1768332545
-  },
-  {
-    "id": 103252,
-    "fecha": "13 de Jan del 2026 a las 02:15 PM",
-    "hora_utc": "2026-01-13 19:15",
-    "mensaje": "♦️ Afectado el servicio en el circuito 3140 por disparo por DAF♦️",
-    "timestamp": 1768331752,
-    "timestamp_local": 1768331752
-  },
-  {
-    "id": 103251,
-    "fecha": "13 de Jan del 2026 a las 02:03 PM",
-    "hora_utc": "2026-01-13 19:03",
-    "mensaje": "♦️ Afectado el servicio en las siguientes zonas correspondientes al circuito Güines 4 por vía libre: \n*Finca Rincón \n*Zonas aledañas♦️",
-    "timestamp": 1768331010,
-    "timestamp_local": 1768331010
-  },
-  {
-    "id": 103250,
-    "fecha": "13 de Jan del 2026 a las 02:02 PM",
-    "hora_utc": "2026-01-13 19:02",
-    "mensaje": "🔷 Restablecido el servicio en las siguientes zonas correspondientes al circuito Babiney que se encontraban afectadas por vía libre: \n*Camilo Torres\n*Río Hondo\n*Caserío Sami\n*Zonas aledañas🔷",
-    "timestamp": 1768330927,
-    "timestamp_local": 1768330927
-  },
-  {
-    "id": 103249,
-    "fecha": "13 de Jan del 2026 a las 01:51 PM",
-    "hora_utc": "2026-01-13 18:51",
-    "mensaje": "🔷♦️Se restablece el servicio en el siguiente circuito que se encontraba afectado  por déficit de capacidad de generación:\n*La Salud 1♦️🔷",
-    "timestamp": 1768330288,
-    "timestamp_local": 1768330288
-  },
-  {
-    "id": 103248,
-    "fecha": "13 de Jan del 2026 a las 01:35 PM",
-    "hora_utc": "2026-01-13 18:35",
-    "mensaje": "🚨 Afectado el servicio en el siguiente circuito por déficit de capacidad de generación:\n*Jaruco 🚨",
-    "timestamp": 1768329313,
-    "timestamp_local": 1768329313
   }
 ]
