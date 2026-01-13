@@ -1,5 +1,13 @@
 [
   {
+    "id": 17813,
+    "fecha": "13 de Jan del 2026 a las 02:24 AM",
+    "hora_utc": "2026-01-13 07:24",
+    "mensaje": "Se restablecen los siguientes circuitos que se encontraban afectados por déficit de generación \nCircuito 33 Kv: 4220\nTK28 La Guinea\nTK52 Covarrubias\nTK31 Pueblo Manatí\nTK33 Pueblo Manatí\nTK34 Pueblo Manatí",
+    "timestamp": 1768289094,
+    "timestamp_local": 1768289094
+  },
+  {
     "id": 17812,
     "fecha": "13 de Jan del 2026 a las 12:36 AM",
     "hora_utc": "2026-01-13 05:36",
@@ -134,13 +142,5 @@
     "mensaje": "Nota Informativa: Estado del Sistema Eléctrico Nacional (SEN) – 11 de enero de 2026\n\nEn el día de ayer se afectó el servicio durante las 24 horas y se ha mantenido afectado durante la madrugada de hoy. La máxima afectación por déficit de capacidad de generación en el día de ayer fue de 1760 MW a las 18:30 horas.\n\nLa producción de energía de los 34 nuevos parques solares fotovoltaicos fue de 3207 MWh, con 617 MW como máxima potencia entregada en el horario de la media con esta fuente de generación.\nEstado actual del SEN\n\nLa disponibilidad del SEN a las 06:00 horas es de 1495 MW, la demanda 2010 MW, con 547 MW. En el horario de la media se estima una afectación de 850 MW.\nPrincipales incidencias\n\n    Avería: Unidades 5 y 8 de la CTE Mariel, Unidad 6 de la CTE Nuevitas, Unidad 2 de la CTE Felton y Unidad 3 de la CTE Antonio Maceo.\n    Mantenimiento: Unidad 2 de la CTE Sata Cruz, Unidad 4 de la CTE Carlos Manuel de Céspedes en Cienfuegos.\n    Limitaciones en la generación térmica: 537 MW fuera de servicio.\n    Problemas por falta de combustible\n        96 centrales de generación distribuida con 884 MW.\n        153 MW indisponibles por falta de lubricante.\n        Total de MW afectados por esta causa: 1037 MW.\n\nPronóstico para el horario pico\n\nPara el horario pico se pronostica la entra de la unidad 8 de la CTE Máximo Gómez con 50 MW (en proceso de arranque).\n\nCon este pronóstico para el pico se prevé una disponibilidad de 1545 MW con una demanda máxima de 3200 MW, para un déficit de 1655 MW, por lo que de mantenerse las condiciones previstas se pronostica una afectación de 1685 MW en este horario.",
     "timestamp": 1768139245,
     "timestamp_local": 1768139245
-  },
-  {
-    "id": 17793,
-    "fecha": "11 de Jan del 2026 a las 07:40 AM",
-    "hora_utc": "2026-01-11 12:40",
-    "mensaje": "Se afectan los siguientes circuitos por déficit de generación\nTK15 Tunas El Pueblo\nTK2 Bonachea \nTK5 Buena Vista, Los Pinos\nTK18 Las 40, Sosa \nTK106 Palancón, Buena Vista\nTK29 Circunvalación Sur, Oro Negro \nTK 7 La Victoria",
-    "timestamp": 1768135253,
-    "timestamp_local": 1768135253
   }
 ]
