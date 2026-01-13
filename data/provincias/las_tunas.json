@@ -1,5 +1,29 @@
 [
   {
+    "id": 17823,
+    "fecha": "13 de Jan del 2026 a las 11:28 AM",
+    "hora_utc": "2026-01-13 16:28",
+    "mensaje": "Se restablece el circuito:TK23 Veguita.",
+    "timestamp": 1768321685,
+    "timestamp_local": 1768321685
+  },
+  {
+    "id": 17822,
+    "fecha": "13 de Jan del 2026 a las 11:27 AM",
+    "hora_utc": "2026-01-13 16:27",
+    "mensaje": "Se afectan por déficit de generación los siguientes circuitos:\nTK9 Aguilera, La Victoria \nTK4 Aeropuerto, Casa Piedra y Aurora",
+    "timestamp": 1768321621,
+    "timestamp_local": 1768321621
+  },
+  {
+    "id": 17821,
+    "fecha": "13 de Jan del 2026 a las 11:20 AM",
+    "hora_utc": "2026-01-13 16:20",
+    "mensaje": "La Empresa Eléctrica Las Tunas informa que, según la nota emitida por la Unión Eléctrica para el 13 de enero, en el día de ayer se afectó el servicio durante las 24 horas y se restableció a las 03:40 de la madrugada de hoy, volviendo a afectar a las 04:15. En nuestra provincia se afectaron la totalidad de los circuitos apagables, con una máxima afectación de 66.35 MW.\nActualmente están fuera de servicio por avería: \nUnidad 5 de la CTE Mariel, Unidad 6 de la CTE Nuevitas, Unidad 2 de la CTE Felton y Unidad 3 de la CTE Antonio Maceo.\nEn mantenimiento se encuentran:    \nUnidad 2 de la CTE Santa Cruz, Unidad 4 de la CTE Carlos Manuel de Céspedes en Cienfuegos.\nEn el horario nocturno se estima una afectación de 1720 MW, lo cual puede representar el 90 % de los circuitos apagables. Estos valores pueden variar según la demanda nacional.",
+    "timestamp": 1768321232,
+    "timestamp_local": 1768321232
+  },
+  {
     "id": 17820,
     "fecha": "13 de Jan del 2026 a las 10:51 AM",
     "hora_utc": "2026-01-13 15:51",
@@ -118,29 +142,5 @@
     "mensaje": "**Nota Informativa: Estado del Sistema Eléctrico Nacional (SEN) – 12 de enero de 2026**\nEn el día de ayer se afectó el servicio durante las 24 horas y se ha mantenido afectado durante la madrugada de hoy. La máxima afectación por déficit de capacidad de generación en el día de ayer fue de 1736 MW a las 18:40 horas.\n\nLa producción de energía de los 34 nuevos parques solares fotovoltaicos fue de 3026 MWh, con 552 MW como máxima potencia entregada en el horario de la media con esta fuente de generación.\n\n**Estado actual del SEN**\nLa disponibilidad del SEN a las 06:30 horas es de 1550 MW, la demanda 2180 MW, con 635 MW. En el horario de la media se estima una afectación de 900 MW.\n\n**Principales incidencias**\nAvería: Unidad 5 de la CTE Mariel, Unidad 6 de la CTE Nuevitas, Unidad 2 de la CTE Felton y Unidad 3 de la CTE Antonio Maceo.\nMantenimiento: Unidad 2 de la CTE Sata Cruz, Unidad 4 de la CTE Carlos Manuel de Céspedes en Cienfuegos.\nLimitaciones en la generación térmica: 580 MW fuera de servicio.\nProblemas por falta de combustible\n96 centrales de generación distribuida con 855 MW.\n165 MW indisponibles por falta de lubricante.\nTotal de MW afectados por esta causa: 1020 MW.\n**Pronóstico para el horario pico**\nPara el pico se prevé una disponibilidad de 1550 MW con una demanda máxima de 3280 MW, para un déficit de 1730 MW, por lo que de mantenerse las condiciones previstas se pronostica una afectación de 1760 MW en este horario.",
     "timestamp": 1768241651,
     "timestamp_local": 1768241651
-  },
-  {
-    "id": 17803,
-    "fecha": "12 de Jan del 2026 a las 06:46 AM",
-    "hora_utc": "2026-01-12 11:46",
-    "mensaje": "Se afecta el servicio eléctrico a los siguientes circuitos:                                                                                          TK41 Calixto\nTK40 Vista Alegre\nTK20 Becerra \nTK21 Tunazúcar\nTK53 La Morena y El Malecón",
-    "timestamp": 1768218361,
-    "timestamp_local": 1768218361
-  },
-  {
-    "id": 17802,
-    "fecha": "12 de Jan del 2026 a las 06:13 AM",
-    "hora_utc": "2026-01-12 11:13",
-    "mensaje": "Se afecta el servicio eléctrico a los siguientes circuitos:                                                                                    TK27 La Victoria                                                                                                                                                                                                                                      TK24 Reparto Santo Domingo           \n**Circuito 33 Kv: 6100**\nTK35 Puerto Manatí\nTK36 El Raúl\nTK22 Aeropuerto\nTK23 Veguita \nTK32 Fleytas \nTK30 Meriño\n**Circuito 33 Kv: 4220**\nTK28 La Guinea\nTK52 Covarrubias\nTK31 Pueblo Manatí\nTK33 Pueblo Manatí\nTK34 Pueblo Manatí\n**TK50 Vázquez, La Jíbara, El Mijial, Maniabón, Cordero, San Roque, Coloma4**",
-    "timestamp": 1768216384,
-    "timestamp_local": 1768216384
-  },
-  {
-    "id": 17801,
-    "fecha": "12 de Jan del 2026 a las 06:11 AM",
-    "hora_utc": "2026-01-12 11:11",
-    "mensaje": "Se afecta el servicio eléctrico a los siguientes circuitos:                                                                                    TK27 La Victoria                                                                                                                                                                                                                                      TK24 Reparto Santo Domingo           \n**Circuito 33 Kv: 6100**\nTK35 Puerto Manatí\nTK36 El Raúl\nTK22 Aeropuerto\nTK23 Veguita \nTK32 Fleytas \nTK30 Meriño\n**Circuito 33 Kv: 4220**\nTK28 La Guinea\nTK52 Covarrubias\nTK31 Pueblo Manatí\nTK33 Pueblo Manatí\nTK34 Pueblo Manatí\n**TK50 Vázquez, La Jíbara, El Mijial, Maniabón, Cordero, San Roque, Coloma4**\nTK27 La Victoria\n**Circuito 33 Kv: 6100**\nTK35 Puerto Manatí\nTK36 El Raúl\nTK22 Aeropuerto\nTK23 Veguita \nTK32 Fleytas \nTK30 Meriño\nTK24 Reparto Santo Domingo\n**Circuito 33 Kv: 4220**\nTK28 La Guinea\nTK52 Covarrubias\nTK31 Pueblo Manatí\nTK33 Pueblo Manatí\nTK34 Pueblo Manatí\n**TK50 Vázquez, La Jíbara, El Mijial, Maniabón, Cordero, San Roque, Coloma4**",
-    "timestamp": 1768216293,
-    "timestamp_local": 1768216293
   }
 ]

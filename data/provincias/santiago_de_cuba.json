@@ -1,5 +1,37 @@
 [
   {
+    "id": 48305,
+    "fecha": "13 de Jan del 2026 a las 11:56 AM",
+    "hora_utc": "2026-01-13 16:56",
+    "mensaje": "🚨Estimados clientes en estos momentos se encuentra afectados por Déficit de Capacidad de Generación el circuito 15 de Santiago, disculpen por las molestias ocasionadas.",
+    "timestamp": 1768323388,
+    "timestamp_local": 1768323388
+  },
+  {
+    "id": 48304,
+    "fecha": "13 de Jan del 2026 a las 11:41 AM",
+    "hora_utc": "2026-01-13 16:41",
+    "mensaje": "🚨Estimados clientes en estos momentos se encuentra afectados por Déficit de Capacidad de Generación el circuito 2 de Palma y la línea 5330 El Cristo , disculpen por las molestias ocasionadas.",
+    "timestamp": 1768322461,
+    "timestamp_local": 1768322461
+  },
+  {
+    "id": 48303,
+    "fecha": "13 de Jan del 2026 a las 11:40 AM",
+    "hora_utc": "2026-01-13 16:40",
+    "mensaje": "🚨Estimados clientes en estos momentos se encuentra afectados por Déficit de Capacidad de Generación los circuitos 2 , 8 y 12 de Santiago, disculpen por las molestias ocasionadas.",
+    "timestamp": 1768322419,
+    "timestamp_local": 1768322419
+  },
+  {
+    "id": 48302,
+    "fecha": "13 de Jan del 2026 a las 11:31 AM",
+    "hora_utc": "2026-01-13 16:31",
+    "mensaje": "🚨Estimados clientes en estos momentos se encuentra afectados por Déficit de Capacidad de Generación el circuito 13 de Santiago , disculpen por las molestias ocasionadas.",
+    "timestamp": 1768321868,
+    "timestamp_local": 1768321868
+  },
+  {
     "id": 48301,
     "fecha": "13 de Jan del 2026 a las 10:26 AM",
     "hora_utc": "2026-01-13 15:26",
@@ -94,37 +126,5 @@
     "mensaje": "🔴Estimados clientes en estos momentos se encuentra Disparado el circuito 10.",
     "timestamp": 1768260797,
     "timestamp_local": 1768260797
-  },
-  {
-    "id": 48284,
-    "fecha": "12 de Jan del 2026 a las 06:01 PM",
-    "hora_utc": "2026-01-12 23:01",
-    "mensaje": "🚨Estimados clientes en estos momentos se encuentran afectados por Déficit el circuito 1 de Palma , Línea 5385-San Luis-Palma y la Línea 4435-Contramaestre.",
-    "timestamp": 1768258873,
-    "timestamp_local": 1768258873
-  },
-  {
-    "id": 48283,
-    "fecha": "12 de Jan del 2026 a las 05:28 PM",
-    "hora_utc": "2026-01-12 22:28",
-    "mensaje": "🔊Estimados clientes le informamos que en estos momentos se encuentran afectado por Déficit los circuitos 24, 7 , 16,9, Línea 5390-La  Maya-ll Frente, Línea 5330-Cristo,20,26 y 11.",
-    "timestamp": 1768256936,
-    "timestamp_local": 1768256936
-  },
-  {
-    "id": 48282,
-    "fecha": "12 de Jan del 2026 a las 05:25 PM",
-    "hora_utc": "2026-01-12 22:25",
-    "mensaje": "🚨Estimados clientes en estos momentos se incorporan a la afectación por Déficit los circuitos 19, 8 , Línea 5395-San Luis,13, 23 y Línea 5975-Baconao.",
-    "timestamp": 1768256754,
-    "timestamp_local": 1768256754
-  },
-  {
-    "id": 48281,
-    "fecha": "12 de Jan del 2026 a las 03:21 PM",
-    "hora_utc": "2026-01-12 20:21",
-    "mensaje": "🚨Disparo Automático de Frecuencia (DAF):\nOcurre cuando la frecuencia está por debajo de los 60Hz y determinada carga o circuito se desconecta del sistema automáticamente hasta que se estabilice.",
-    "timestamp": 1768249288,
-    "timestamp_local": 1768249288
   }
 ]
