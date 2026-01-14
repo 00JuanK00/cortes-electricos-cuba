@@ -1,5 +1,45 @@
 [
   {
+    "id": 38102,
+    "fecha": "14 de Jan del 2026 a las 05:44 PM",
+    "hora_utc": "2026-01-14 22:44",
+    "mensaje": "⚡Afectado el circuito 30 (Capiro-Santa Catalina), del municipio Santa Clara. Brigadas de nuestra empresa preparan las condiciones necesarias para trabajar en el lugar y restablecer el servicio en el menor tiempo posible.",
+    "timestamp": 1768430663,
+    "timestamp_local": 1768430663
+  },
+  {
+    "id": 38101,
+    "fecha": "14 de Jan del 2026 a las 05:40 PM",
+    "hora_utc": "2026-01-14 22:40",
+    "mensaje": "⚠️Afectados por déficit de capacidad de generación los circuitos 2 y 4 (Consejo - Centro), del municipio Santa Clara.",
+    "timestamp": 1768430418,
+    "timestamp_local": 1768430418
+  },
+  {
+    "id": 38100,
+    "fecha": "14 de Jan del 2026 a las 05:35 PM",
+    "hora_utc": "2026-01-14 22:35",
+    "mensaje": "🛠️Afectado por disparo el circuito 30 (Capiro-Santa Catalina), del municipio Santa Clara. Se estudian las causas.",
+    "timestamp": 1768430157,
+    "timestamp_local": 1768430157
+  },
+  {
+    "id": 38099,
+    "fecha": "14 de Jan del 2026 a las 05:31 PM",
+    "hora_utc": "2026-01-14 22:31",
+    "mensaje": "⚠️Afectados por déficit de capacidad de generación los siguientes circuitos: \n🔹Municipio Quemado:\n👉Ctos 164, 52 y 53",
+    "timestamp": 1768429877,
+    "timestamp_local": 1768429877
+  },
+  {
+    "id": 38098,
+    "fecha": "14 de Jan del 2026 a las 05:17 PM",
+    "hora_utc": "2026-01-14 22:17",
+    "mensaje": "⚠️Afectados por déficit de capacidad de generación los siguientes circuitos: \n🔹Municipio Santo Domingo:\nCto 134\nCtos 87 y 96 Bermejal\nCto 187 Batey Carlos Baliño\nCto 82 Ulacia\nCto 84 Rodrigo",
+    "timestamp": 1768429028,
+    "timestamp_local": 1768429028
+  },
+  {
     "id": 38097,
     "fecha": "14 de Jan del 2026 a las 04:52 PM",
     "hora_utc": "2026-01-14 21:52",
@@ -118,45 +158,5 @@
     "mensaje": "🛠️Afectado parcialmente el circuito 118 del municipio Remedios para cerrar puentes abiertos.",
     "timestamp": 1768418884,
     "timestamp_local": 1768418884
-  },
-  {
-    "id": 38082,
-    "fecha": "14 de Jan del 2026 a las 02:14 PM",
-    "hora_utc": "2026-01-14 19:14",
-    "mensaje": "Actualización del servicio eléctrico en la provincia🔸\n✍️Se mantienen afectados en la provincia 101 circuitos.\n✍️En el momento de hacer esta nota la provincia tiene 71 MW por déficit de capacidad de generación.\n✍️Cuenta con 63 afectaciones por averías secundarias y de servicio.",
-    "timestamp": 1768418073,
-    "timestamp_local": 1768418073
-  },
-  {
-    "id": 38081,
-    "fecha": "14 de Jan del 2026 a las 02:05 PM",
-    "hora_utc": "2026-01-14 19:05",
-    "mensaje": "⚠️Afectados por déficit de capacidad de generación los siguientes circuitos:\n🔹Municipio Placetas:\n👉Ctos 101 y 145 Cumbre",
-    "timestamp": 1768417553,
-    "timestamp_local": 1768417553
-  },
-  {
-    "id": 38080,
-    "fecha": "14 de Jan del 2026 a las 02:02 PM",
-    "hora_utc": "2026-01-14 19:02",
-    "mensaje": "⚠️Afectados por déficit de capacidad de generación los siguientes circuitos:\n🔹Municipio Camajuaní:\n👉Ctos 77 y 185 Vueltas",
-    "timestamp": 1768417351,
-    "timestamp_local": 1768417351
-  },
-  {
-    "id": 38079,
-    "fecha": "14 de Jan del 2026 a las 01:57 PM",
-    "hora_utc": "2026-01-14 18:57",
-    "mensaje": "⚠️Afectados por déficit de capacidad de generación los siguientes circuitos:\n🔹Municipio Ranchuelo: \n👉Ctos 89, 97, 188 y 189\n👉Ctos 148 y 149 San Juan\n👉Cto 91 Batey Osvaldo Herrera\n👉Cto 181 Batey Ifraín Alfonso",
-    "timestamp": 1768417035,
-    "timestamp_local": 1768417035
-  },
-  {
-    "id": 38078,
-    "fecha": "14 de Jan del 2026 a las 01:44 PM",
-    "hora_utc": "2026-01-14 18:44",
-    "mensaje": "⚠️ Quedan afectados por déficit de capacidad de generación los siguientes circuitos:\n🔸Municipio Encrucijada:\nCto 122 Encrucijada  \nCto 123 Vizcaya \nCto 142 Comunidad La Sierra \nCto 126 Batey Emilio Córdova\nCto 125 Cavarrocas\nCto 124 El Santo\n🔸Municipio Camajuaní:                                                              \nCto 78 Jutiero",
-    "timestamp": 1768416246,
-    "timestamp_local": 1768416246
   }
 ]
