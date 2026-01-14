@@ -1,5 +1,61 @@
 [
   {
+    "id": 38095,
+    "fecha": "14 de Jan del 2026 a las 04:45 PM",
+    "hora_utc": "2026-01-14 21:45",
+    "mensaje": "⚠️Afectado por déficit de capacidad de generación el circuito 31 (Sakenaf), del municipio Santa Clara.",
+    "timestamp": 1768427110,
+    "timestamp_local": 1768427110
+  },
+  {
+    "id": 38094,
+    "fecha": "14 de Jan del 2026 a las 04:44 PM",
+    "hora_utc": "2026-01-14 21:44",
+    "mensaje": "⚠️Afectados por déficit de capacidad de generación los siguientes circuitos: \n🔹Municipio Santa Clara:\nCto 5 (Dobarganes)\nCto 17 (Subplanta) \nCtos 37 y 38 (Yabú)   \nCto 9 (Moldes y Troqueles)\nCto 13 (Zona Industrial)\nCto 133 (Taller Cafetera)",
+    "timestamp": 1768427048,
+    "timestamp_local": 1768427048
+  },
+  {
+    "id": 38093,
+    "fecha": "14 de Jan del 2026 a las 04:40 PM",
+    "hora_utc": "2026-01-14 21:40",
+    "mensaje": "⚠️Afectado por déficit de capacidad de generación el circuito 72 del municipio Camajuaní.",
+    "timestamp": 1768426822,
+    "timestamp_local": 1768426822
+  },
+  {
+    "id": 38092,
+    "fecha": "14 de Jan del 2026 a las 04:32 PM",
+    "hora_utc": "2026-01-14 21:32",
+    "mensaje": "Con servicio los circuitos 132 y 162 Santa Clara Industrial.",
+    "timestamp": 1768426375,
+    "timestamp_local": 1768426375
+  },
+  {
+    "id": 38091,
+    "fecha": "14 de Jan del 2026 a las 04:31 PM",
+    "hora_utc": "2026-01-14 21:31",
+    "mensaje": "⚠️Afectados por déficit de capacidad de generación los siguientes circuitos: \n🔹Municipio Encrucijada\n👉Cto 120 Calabazar\n👉Ctos 121 y 127 Perucho",
+    "timestamp": 1768426267,
+    "timestamp_local": 1768426267
+  },
+  {
+    "id": 38090,
+    "fecha": "14 de Jan del 2026 a las 04:10 PM",
+    "hora_utc": "2026-01-14 21:10",
+    "mensaje": "Actualización del servicio eléctrico en la provincia🔸\n✍️Se mantienen afectados en la provincia 112 circuitos.\n✍️En el momento de hacer esta nota la provincia tiene 87 MW por déficit de capacidad de generación.\n✍️Cuenta con 64 afectaciones por averías secundarias y de servicio.",
+    "timestamp": 1768425040,
+    "timestamp_local": 1768425040
+  },
+  {
+    "id": 38089,
+    "fecha": "14 de Jan del 2026 a las 04:06 PM",
+    "hora_utc": "2026-01-14 21:06",
+    "mensaje": "⚠️Afectados por déficit de capacidad de generación los siguientes circuitos: \n🔹Municipio Ranchuelo:\nCto 92 Esperanza (Pueblo)\nCto 93 Esperanza (Campo)\nCtos 54, 94 y 95 Jicotea\n🔹Municipio Santa Clara\nCtos 26 y 141 (Manuelita)\nCto 191 (Quemado de Hilario) \n🔹Municipio Santo Domingo\nCto 79 (Santo Domingo)\nCto 81 (26 de Julio)\nCto 163 (Batey 26 de Julio",
+    "timestamp": 1768424776,
+    "timestamp_local": 1768424776
+  },
+  {
     "id": 38088,
     "fecha": "14 de Jan del 2026 a las 03:20 PM",
     "hora_utc": "2026-01-14 20:20",
@@ -102,61 +158,5 @@
     "mensaje": "🛠️Afectada por DAF (Disparo Automático por Frecuencia) la línea 1955:\nAfecta los siguientes circuitos:\n🔸Municipio Encrucijada:\nCto 122 Encrucijada  \nCto 123 Vizcaya \nCto 142 Comunidad La Sierra \nCto 126 Batey Emilio Córdova\nCto 125 Cavarrocas\nCto 124 El Santo\n🔸Municipio Camajuaní:                                                              \nCto 78 Jutiero",
     "timestamp": 1768414398,
     "timestamp_local": 1768414398
-  },
-  {
-    "id": 38075,
-    "fecha": "14 de Jan del 2026 a las 01:09 PM",
-    "hora_utc": "2026-01-14 18:09",
-    "mensaje": "⚠️Afectados por déficit de capacidad de generación los siguientes circuitos:\n🔹Municipio Sagua\n👉Ctos 43 y 51 Sagua",
-    "timestamp": 1768414140,
-    "timestamp_local": 1768414140
-  },
-  {
-    "id": 38074,
-    "fecha": "14 de Jan del 2026 a las 12:26 PM",
-    "hora_utc": "2026-01-14 17:26",
-    "mensaje": "Restablecido en su totalidad el circuito 159 del municipio Corralillo.",
-    "timestamp": 1768411573,
-    "timestamp_local": 1768411573
-  },
-  {
-    "id": 38073,
-    "fecha": "14 de Jan del 2026 a las 12:24 PM",
-    "hora_utc": "2026-01-14 17:24",
-    "mensaje": "🕛Actualización del servicio eléctrico en las últimas 6 horas.\n👉El déficit de capacidad de generación osciló entre los 54 MW y los 83 MW.\n👉En el momento de esta nota, se mantienen afectados 101 circuitos.\n👉Cuenta con 92 afectaciones por averías secundarias y de servicio:\nCaibarien (1)\nCamajuaní (1)\nCorralillo (2)\nEncrucijada (4)\nManicaragua (9)\nPlacetas (4)\nQuemado (1)\nRanchuelo (6)\nSagua (4) \nSanta Clara (23)\nSanto Domingo (7)\n🛠️Se encuentran 9 averías en vías de solución.\n🛠️Pendientes a solucionar por el área técnica 22.\n⚡La provincia no presenta averías primarias en estos momentos.",
-    "timestamp": 1768411452,
-    "timestamp_local": 1768411452
-  },
-  {
-    "id": 38072,
-    "fecha": "14 de Jan del 2026 a las 11:42 AM",
-    "hora_utc": "2026-01-14 16:42",
-    "mensaje": "¿Sabías por qué el 14 de enero es el Día del Trabajador del Sector Eléctrico en Cuba? 🤔\n\nEl 14 de enero de 1934, el líder revolucionario Antonio Guiteras intervino la Compañía Cubana de Electricidad, lo que llevó a que esta fecha fuera instituida para conmemorar el Día del Trabajador Eléctrico en Cuba.\n\nDesde el año 1977 Cuba estableció la efeméride para rendir tributo a Guiteras y homenajear a los hombres y mujeres de este sector tan vital para la economía y la sociedad cubanas, por atender un servicio tan sensible como es la energía eléctrica.",
-    "timestamp": 1768408947,
-    "timestamp_local": 1768408947
-  },
-  {
-    "id": 38071,
-    "fecha": "14 de Jan del 2026 a las 11:26 AM",
-    "hora_utc": "2026-01-14 16:26",
-    "mensaje": "Con servicio la línea 1955:\n🔸Municipio Encrucijada:\nCto 122 Encrucijada  \nCto 123 Vizcaya \nCto 142 Comunidad La Sierra \nCto 126 Batey Emilio Córdova\nCto 125 Cavarrocas\nCto 124 El Santo\n🔸Municipio Camajuaní:                                                              \nCto 78 Jutiero",
-    "timestamp": 1768408008,
-    "timestamp_local": 1768408008
-  },
-  {
-    "id": 38070,
-    "fecha": "14 de Jan del 2026 a las 11:20 AM",
-    "hora_utc": "2026-01-14 16:20",
-    "mensaje": "🛠️Afectada por DAF (Disparo Automático por Frecuencia) la línea 1955:\nAfecta los siguientes circuitos:\n🔸Municipio Encrucijada:\nCto 122 Encrucijada  \nCto 123 Vizcaya \nCto 142 Comunidad La Sierra \nCto 126 Batey Emilio Córdova\nCto 125 Cavarrocas\nCto 124 El Santo\n🔸Municipio Camajuaní:                                                              \nCto 78 Jutiero",
-    "timestamp": 1768407616,
-    "timestamp_local": 1768407616
-  },
-  {
-    "id": 38069,
-    "fecha": "14 de Jan del 2026 a las 11:20 AM",
-    "hora_utc": "2026-01-14 16:20",
-    "mensaje": "🛠️ Afectado parcialmente el circuito 159 del municipio Corralillo por trabajo de vía libre para cerrar puentes abiertos y reparar primario partido.",
-    "timestamp": 1768407605,
-    "timestamp_local": 1768407605
   }
 ]
