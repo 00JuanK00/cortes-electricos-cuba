@@ -1,5 +1,21 @@
 [
   {
+    "id": 103290,
+    "fecha": "13 de Jan del 2026 a las 07:31 PM",
+    "hora_utc": "2026-01-14 00:31",
+    "mensaje": "🚨Por déficit de capacidad de generación se afecta el servicio en los siguientes circuitos:\n*Bío 2 🚨",
+    "timestamp": 1768350668,
+    "timestamp_local": 1768350668
+  },
+  {
+    "id": 103289,
+    "fecha": "13 de Jan del 2026 a las 07:03 PM",
+    "hora_utc": "2026-01-14 00:03",
+    "mensaje": "🚨Por déficit de capacidad de generación se afecta el servicio en los siguientes circuitos:\n*Madruga 🚨",
+    "timestamp": 1768349021,
+    "timestamp_local": 1768349021
+  },
+  {
     "id": 103288,
     "fecha": "13 de Jan del 2026 a las 06:37 PM",
     "hora_utc": "2026-01-13 23:37",
@@ -142,21 +158,5 @@
     "mensaje": "🔷 Restablecido el servicio en el circuito 3590 que se encontraba afectado por disparo por DAF🔷",
     "timestamp": 1768339723,
     "timestamp_local": 1768339723
-  },
-  {
-    "id": 103270,
-    "fecha": "13 de Jan del 2026 a las 04:28 PM",
-    "hora_utc": "2026-01-13 21:28",
-    "mensaje": "🔷 Restablecido el servicio en el circuito UNAH que se encontraba afectado por manipulación 🔷",
-    "timestamp": 1768339701,
-    "timestamp_local": 1768339701
-  },
-  {
-    "id": 103269,
-    "fecha": "13 de Jan del 2026 a las 04:24 PM",
-    "hora_utc": "2026-01-13 21:24",
-    "mensaje": "🚨Por déficit de capacidad de generación se afecta el servicio en los siguientes circuitos:\n*Güines 1\n*Güines 3\n*Güines 4🚨",
-    "timestamp": 1768339447,
-    "timestamp_local": 1768339447
   }
 ]
