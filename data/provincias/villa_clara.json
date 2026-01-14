@@ -1,5 +1,21 @@
 [
   {
+    "id": 38032,
+    "fecha": "14 de Jan del 2026 a las 01:11 AM",
+    "hora_utc": "2026-01-14 06:11",
+    "mensaje": "Afectados 54 MW en la provincia, demanda máxima a apagar en estos momentos.",
+    "timestamp": 1768371072,
+    "timestamp_local": 1768371072
+  },
+  {
+    "id": 38031,
+    "fecha": "14 de Jan del 2026 a las 01:09 AM",
+    "hora_utc": "2026-01-14 06:09",
+    "mensaje": "💡Restablecido el servicio eléctrico en los siguientes circuitos:\n🔸Municipio Cifuentes:\nCtos 114 y 117\nCtos 116 y 155 Mata\nCto 186 Batey Unidad Proletaria\nCto 184 Sitio Grande",
+    "timestamp": 1768370980,
+    "timestamp_local": 1768370980
+  },
+  {
     "id": 38029,
     "fecha": "14 de Jan del 2026 a las 12:01 AM",
     "hora_utc": "2026-01-14 05:01",
@@ -102,21 +118,5 @@
     "mensaje": "💡Restablecido el servicio eléctrico en el circuito 170 José Martí.",
     "timestamp": 1768347412,
     "timestamp_local": 1768347412
-  },
-  {
-    "id": 38012,
-    "fecha": "13 de Jan del 2026 a las 06:33 PM",
-    "hora_utc": "2026-01-13 23:33",
-    "mensaje": "⚠️Afectado por déficit de capacidad de generación el circuito 31 SC Industrial.",
-    "timestamp": 1768347229,
-    "timestamp_local": 1768347229
-  },
-  {
-    "id": 38011,
-    "fecha": "13 de Jan del 2026 a las 06:30 PM",
-    "hora_utc": "2026-01-13 23:30",
-    "mensaje": "👉-Disparo de Circuito por Sobrecarga: Este ocurre mayormente en los horarios pico y en verano, ya que las altas temperaturas generan elevados consumos en la población y como consecuencia de ello fallas en los circuitos.",
-    "timestamp": 1768347000,
-    "timestamp_local": 1768347000
   }
 ]
