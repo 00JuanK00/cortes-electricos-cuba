@@ -1,5 +1,29 @@
 [
   {
+    "id": 38085,
+    "fecha": "14 de Jan del 2026 a las 02:39 PM",
+    "hora_utc": "2026-01-14 19:39",
+    "mensaje": "Con servicio la línea 1920:\nAfecta los siguientes circuitos:\n🔹Municipio Placetas:\n👉Ctos 101 y 145 Cumbre (Déficit)\n👉Cto 107 Baez\n👉Cto 105 Nazareno",
+    "timestamp": 1768419550,
+    "timestamp_local": 1768419550
+  },
+  {
+    "id": 38084,
+    "fecha": "14 de Jan del 2026 a las 02:35 PM",
+    "hora_utc": "2026-01-14 19:35",
+    "mensaje": "🛠️Afectada por DAF (Disparo Automático por Frecuencia) la línea 1920:\nAfecta los siguientes circuitos:\n🔹Municipio Placetas:\n👉Ctos 101 y 145 Cumbre (Déficit)\n👉Cto 107 Baez\n👉Cto 105 Nazareno",
+    "timestamp": 1768419351,
+    "timestamp_local": 1768419351
+  },
+  {
+    "id": 38083,
+    "fecha": "14 de Jan del 2026 a las 02:28 PM",
+    "hora_utc": "2026-01-14 19:28",
+    "mensaje": "🛠️Afectado parcialmente el circuito 118 del municipio Remedios para cerrar puentes abiertos.",
+    "timestamp": 1768418884,
+    "timestamp_local": 1768418884
+  },
+  {
     "id": 38082,
     "fecha": "14 de Jan del 2026 a las 02:14 PM",
     "hora_utc": "2026-01-14 19:14",
@@ -134,29 +158,5 @@
     "mensaje": "🛠️Afectados por manipulación los circuitos 58 y 159 del municipio Corralillo.",
     "timestamp": 1768406392,
     "timestamp_local": 1768406392
-  },
-  {
-    "id": 38065,
-    "fecha": "14 de Jan del 2026 a las 10:55 AM",
-    "hora_utc": "2026-01-14 15:55",
-    "mensaje": "🛠️Afectada por DAF (Disparo Automático por Frecuencia) la línea 1955:\nAfecta los siguientes circuitos:\n🔸Municipio Encrucijada:\nCto 122 Encrucijada  \nCto 123 Vizcaya \nCto 142 Comunidad La Sierra \nCto 126 Batey Emilio Córdova\nCto 125 Cavarrocas\nCto 124 El Santo\n🔸Municipio Camajuaní:                                                              \nCto 78 Jutiero",
-    "timestamp": 1768406126,
-    "timestamp_local": 1768406126
-  },
-  {
-    "id": 38064,
-    "fecha": "14 de Jan del 2026 a las 10:37 AM",
-    "hora_utc": "2026-01-14 15:37",
-    "mensaje": "Con servicio la línea 1955:\n🔸Municipio Encrucijada:\nCto 122 Encrucijada  \nCto 123 Vizcaya \nCto 142 Comunidad La Sierra \nCto 126 Batey Emilio Córdova\nCto 125 Cavarrocas\nCto 124 El Santo\n🔸Municipio Camajuaní:                                                              \nCto 78 Jutiero",
-    "timestamp": 1768405058,
-    "timestamp_local": 1768405058
-  },
-  {
-    "id": 38063,
-    "fecha": "14 de Jan del 2026 a las 10:22 AM",
-    "hora_utc": "2026-01-14 15:22",
-    "mensaje": "Con servicio la línea 6375:\n🔹Municipio Santa Clara\n👉Cto 7 (Universidad)  \n👉Cto 146 (Elevado Aeropuerto)\n👉Cto 22 (Construcciones Textil)\n👉Cto 131 (Las Antillas)\n👉Cto 153 (EIDE)\n👉Ctos 14, 15 y 27 (Maleza)\n👉Cto 24 Planta Asfalto\n👉Cto 25 Los Güiros\n👉Cto 135 Biotecnología",
-    "timestamp": 1768404140,
-    "timestamp_local": 1768404140
   }
 ]
