@@ -1,5 +1,21 @@
 [
   {
+    "id": 38105,
+    "fecha": "14 de Jan del 2026 a las 06:29 PM",
+    "hora_utc": "2026-01-14 23:29",
+    "mensaje": "🛠️Afectado por disparo el circuito 169 (Condado), del municipio Santa Clara. Se estudian las causas.",
+    "timestamp": 1768433381,
+    "timestamp_local": 1768433381
+  },
+  {
+    "id": 38104,
+    "fecha": "14 de Jan del 2026 a las 06:24 PM",
+    "hora_utc": "2026-01-14 23:24",
+    "mensaje": "Restablecido parcialmente el circuito 30 (Capiro-Santa Catalina), del municipio Santa Clara.",
+    "timestamp": 1768433072,
+    "timestamp_local": 1768433072
+  },
+  {
     "id": 38103,
     "fecha": "14 de Jan del 2026 a las 05:59 PM",
     "hora_utc": "2026-01-14 22:59",
@@ -142,21 +158,5 @@
     "mensaje": "Restablecido en su totalidad el circuito 118 del municipio Remedios.",
     "timestamp": 1768421115,
     "timestamp_local": 1768421115
-  },
-  {
-    "id": 38085,
-    "fecha": "14 de Jan del 2026 a las 02:39 PM",
-    "hora_utc": "2026-01-14 19:39",
-    "mensaje": "Con servicio la línea 1920:\nAfecta los siguientes circuitos:\n🔹Municipio Placetas:\n👉Ctos 101 y 145 Cumbre (Déficit)\n👉Cto 107 Baez\n👉Cto 105 Nazareno",
-    "timestamp": 1768419550,
-    "timestamp_local": 1768419550
-  },
-  {
-    "id": 38084,
-    "fecha": "14 de Jan del 2026 a las 02:35 PM",
-    "hora_utc": "2026-01-14 19:35",
-    "mensaje": "🛠️Afectada por DAF (Disparo Automático por Frecuencia) la línea 1920:\nAfecta los siguientes circuitos:\n🔹Municipio Placetas:\n👉Ctos 101 y 145 Cumbre (Déficit)\n👉Cto 107 Baez\n👉Cto 105 Nazareno",
-    "timestamp": 1768419351,
-    "timestamp_local": 1768419351
   }
 ]

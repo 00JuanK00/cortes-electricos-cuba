@@ -1,5 +1,29 @@
 [
   {
+    "id": 17837,
+    "fecha": "14 de Jan del 2026 a las 06:16 PM",
+    "hora_utc": "2026-01-14 23:16",
+    "mensaje": "Se afecta el servicio eléctrico a los siguientes circuitos:                                                                                           **Circuito 33 Kv: 2020**\nTK85 Leningrado \nTK108 Tasajera\nTK84 El Triángulo \nTK86 Poblado Colombia \nTK88 Dos Hermanos\nTK107 La Islita \nTK112 Argentina Norte \nTK111 Ramírez\n**Circuito de 33 Kv 6840** Los Kilómetros \nTK25 Cuatro Caminos, Dormitorio",
+    "timestamp": 1768432614,
+    "timestamp_local": 1768432614
+  },
+  {
+    "id": 17836,
+    "fecha": "14 de Jan del 2026 a las 06:03 PM",
+    "hora_utc": "2026-01-14 23:03",
+    "mensaje": "La provincia presenta máxima capacidad apagable en estos momentos, lo que no ha permitido realizar la rotación de los circuitos con mayor tiempo de afectación. Se irán restableciendo en la medida que el Sistema Electroenergético lo permita.",
+    "timestamp": 1768431784,
+    "timestamp_local": 1768431784
+  },
+  {
+    "id": 17835,
+    "fecha": "14 de Jan del 2026 a las 06:01 PM",
+    "hora_utc": "2026-01-14 23:01",
+    "mensaje": "Se afecta el servicio eléctrico a los siguientes circuitos:                                                                                    **Circuito 33 Kv: 6230                                                                                                                  **\nTK59 Vedado 3\nTK67 Porcino                                                                                                                              \nTK68 Vedado 6\nTK69 Poblado de Menéndez                                                                                                 \nTK70 Transporte                                                                                                                      \nTK99 Santa Marías                                                                                                                   \nTK98 San Manuel, La Pedrera                                                                                               \nTK64 PalmaPicada**                                                                                                     **\n**Circuito 33 Kv: 6100                                                                                                              **\nTK35 Puerto Manatí                                                                                                        \nTK36 El Raúl                                                                                                                     \nTK22 Aeropuerto                                                                                                            \nTK23 Veguita                                                                                                                                                                                                                                          \nTK32 Fleytas                                                                                                                         \nTK30 Meriño                                                                                                                     \nTK93 Batey Delicias                                                                                                       \nTK48 Puerto Padre y Maniabón                                                                                                                                                                   TK41Calixto                                                                                                                      \nTK42 Gastón y Arroyo Muerto                                                                                        \nTK45 La Ceiba                                                                                                                 \nTK44Vivienda**                                                                                                                **\nTK**50 Vázquez, La Jíbara, El Mijial, Maniabón, Cordero, San Roque, Coloma4                                                            **\n**T**K53 La Morena y El Malecón                                                                                      \n**T**K47 La Micro Puerto Padre",
+    "timestamp": 1768431712,
+    "timestamp_local": 1768431712
+  },
+  {
     "id": 17834,
     "fecha": "14 de Jan del 2026 a las 04:31 PM",
     "hora_utc": "2026-01-14 21:31",
@@ -118,29 +142,5 @@
     "mensaje": "Nota Informativa: Estado del Sistema Eléctrico Nacional (SEN) – 13 de enero de 2026\n\nEn el día de ayer se afectó el servicio durante las 24 horas y se restableció a las 03:40 de la madrugada de hoy, volviendo a afectar a las 04:15. La máxima afectación por déficit de capacidad de generación en el día de ayer fue de 1786 MW a las 18:40 horas.\n\nLa producción de energía de los 37 nuevos parques solares fotovoltaicos fue de 2334 MWh, con 474 MW como máxima potencia entregada en el horario de la media con esta fuente de generación.\nEstado actual del SEN\n\nLa disponibilidad del SEN a las 06:00 horas es de 1560 MW, la demanda 2110 MW, con 540 MW. En el horario de la media se estima una afectación de 950 MW.\nPrincipales incidencias\n\n    Avería: Unidad 5 de la CTE Mariel, Unidad 6 de la CTE Nuevitas, Unidad 2 de la CTE Felton y Unidad 3 de la CTE Antonio Maceo.\n    Mantenimiento: Unidad 2 de la CTE Sata Cruz, Unidad 4 de la CTE Carlos Manuel de Céspedes en Cienfuegos.\n    Limitaciones en la generación térmica: 576 MW fuera de servicio.\n    Problemas por falta de combustible\n        96 centrales de generación distribuida con 883 MW.\n        165 MW indisponibles por falta de lubricante.\n        Total de MW afectados por esta causa: 1048 MW.\n\nPronóstico para el horario pico\n\nPara el pico se prevé una disponibilidad de 1560 MW con una demanda máxima de 3250 MW, para un déficit de 1690 MW, por lo que de mantenerse las condiciones previstas se pronostica una afectación de 1720 MW en este horario.",
     "timestamp": 1768310823,
     "timestamp_local": 1768310823
-  },
-  {
-    "id": 17816,
-    "fecha": "13 de Jan del 2026 a las 06:56 AM",
-    "hora_utc": "2026-01-13 11:56",
-    "mensaje": "Se afectan los siguientes circuitos por déficit de generación \nCircuito 33 Kv: 6230\nTK59 Vedado 3\nTK67 Porcino\nTK68 Vedado 6\nTK69 Poblado de Menéndez\nTK70 Transporte\nTK99 Santa Marías\nTK98 San Manuel, La Pedrera\nTK64 Palma Picada\nCircuito 33 Kv: 6305\nTK41 Calixto\nTK40 Vista Alegre\nTK42 Gastón y Arroyo Muerto\nTK45 La Ceiba\nTK43 Las Parras, Omaja y Cañada Honda\nTK4TK53 La Morena y El Malecón \nTK47 La Micro Puerto Padre\nTK18 Las 40, Sosa \nTK106 Palancón, Buena Vista\nTK26 Circunvalación Sur hasta La Larga \n \nTK7 La Victoria\n TK2 Bonachea",
-    "timestamp": 1768305417,
-    "timestamp_local": 1768305417
-  },
-  {
-    "id": 17815,
-    "fecha": "13 de Jan del 2026 a las 03:10 AM",
-    "hora_utc": "2026-01-13 08:10",
-    "mensaje": "1. Si presenta o conoce alguna avería, haga su reporte al Centro de Atención Telefónico📲 mediante el 18888, estamos a su servicio.\n2. Conocer de forma exacta la dirección de su vivienda (número de casa, calle, entre calles, reparto, localidad)\n3. Ubicar un punto de referencia, que permita llegar hasta su vivienda con mayor rapidez (lugar o persona reconocida en la zona)\n4.\n En caso de un cable caído, aunque usted crea que no está energizado, NO\n LO TOQUE. Repórtelo y preserve el lugar, hasta que llegue el personal \nde la Empresa.\n5. Anote el número de su reporte para ser utilizado en caso de reclamaciones, o para comprobar el estado del mismo.\n6. Si usted tiene servicio eléctrico, pero existen variaciones del voltaje, desconecte los equipos, para que no se dañen.",
-    "timestamp": 1768291854,
-    "timestamp_local": 1768291854
-  },
-  {
-    "id": 17814,
-    "fecha": "13 de Jan del 2026 a las 03:04 AM",
-    "hora_utc": "2026-01-13 08:04",
-    "mensaje": "Cerrado el déficit en la provincia",
-    "timestamp": 1768291477,
-    "timestamp_local": 1768291477
   }
 ]
