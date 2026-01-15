@@ -1,5 +1,29 @@
 [
   {
+    "id": 31182,
+    "fecha": "14 de Jan del 2026 a las 11:48 PM",
+    "hora_utc": "2026-01-15 04:48",
+    "mensaje": "El restablecimiento del servicio eléctrico dependerá del comportamiento de la demanda y la disponibilidad del sistema eléctrico. Una vez se pueda rotar se irán restableciendo de manera paulatina los circuitos que más tiempo de afectación presenten.",
+    "timestamp": 1768452526,
+    "timestamp_local": 1768452526
+  },
+  {
+    "id": 31181,
+    "fecha": "14 de Jan del 2026 a las 11:47 PM",
+    "hora_utc": "2026-01-15 04:47",
+    "mensaje": "SERVICIO RESTABLECIDO\n- Circuito 4470 que da servicio a Cítrico, Torriente, San Joaquín.\n- CircuitoMJ662 que da servicio a Gelpys-Frutas Selectas.",
+    "timestamp": 1768452450,
+    "timestamp_local": 1768452450
+  },
+  {
+    "id": 31180,
+    "fecha": "14 de Jan del 2026 a las 11:45 PM",
+    "hora_utc": "2026-01-15 04:45",
+    "mensaje": "CON SERVICIO\n\n- Circuito MI5660  que  da  servicio  a  Güira-Betancourt.",
+    "timestamp": 1768452304,
+    "timestamp_local": 1768452304
+  },
+  {
     "id": 31178,
     "fecha": "14 de Jan del 2026 a las 11:11 PM",
     "hora_utc": "2026-01-15 04:11",
@@ -134,29 +158,5 @@
     "mensaje": "⚡Déficit de capacidad de generación en la provincia:  78** MW**",
     "timestamp": 1768419531,
     "timestamp_local": 1768419531
-  },
-  {
-    "id": 31159,
-    "fecha": "14 de Jan del 2026 a las 02:05 PM",
-    "hora_utc": "2026-01-14 19:05",
-    "mensaje": "🚨Para reportar cualquier avería comuníquese con el # 18888. Nuestro equipo de atención al cliente trabaja 24 horas manteniendo informada a la población.",
-    "timestamp": 1768417515,
-    "timestamp_local": 1768417515
-  },
-  {
-    "id": 31158,
-    "fecha": "14 de Jan del 2026 a las 01:01 PM",
-    "hora_utc": "2026-01-14 18:01",
-    "mensaje": "⚡Déficit de capacidad de generación en la provincia:  80** MW**",
-    "timestamp": 1768413703,
-    "timestamp_local": 1768413703
-  },
-  {
-    "id": 31157,
-    "fecha": "14 de Jan del 2026 a las 12:21 PM",
-    "hora_utc": "2026-01-14 17:21",
-    "mensaje": "🔄 Una vez que podamos rotar el servicio, iremos restableciendo de manera paulatina los circuitos que han estado más tiempo sin suministro en dependencia del comportamiento de la demanda y la disponibilidad del sistema eléctrico.",
-    "timestamp": 1768411290,
-    "timestamp_local": 1768411290
   }
 ]
