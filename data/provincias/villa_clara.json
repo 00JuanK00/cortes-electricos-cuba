@@ -1,9 +1,49 @@
 [
   {
+    "id": 38144,
+    "fecha": "15 de Jan del 2026 a las 07:15 AM",
+    "hora_utc": "2026-01-15 12:15",
+    "mensaje": "⚠️Quedarán afectados por déficit de capacidad de generación los siguientes circuitos:\n🔹Municipio Sagua:\n👉Ctos 43, 51 Sagua\n👉Ctos 50 y 147 Villa Alegre\n✍️En estos momentos la línea se encuentra afectada por DAF (Disparo Automático por Frecuencia)",
+    "timestamp": 1768479353,
+    "timestamp_local": 1768479353
+  },
+  {
+    "id": 38143,
+    "fecha": "15 de Jan del 2026 a las 07:12 AM",
+    "hora_utc": "2026-01-15 12:12",
+    "mensaje": "🔴 06:46 || Fuera de linea la Unidad 1 de la CTE Lidio Ramón Pérez \"Felton\", por fallo en el condensador.",
+    "timestamp": 1768479163,
+    "timestamp_local": 1768479163
+  },
+  {
+    "id": 38142,
+    "fecha": "15 de Jan del 2026 a las 07:12 AM",
+    "hora_utc": "2026-01-15 12:12",
+    "mensaje": "Con servicio la línea 1920:\n🔹Municipio Placetas:\nCtos 101 y 145 Cumbre\nCto 107 Baez\nCto 105 Nazareno",
+    "timestamp": 1768479130,
+    "timestamp_local": 1768479130
+  },
+  {
+    "id": 38141,
+    "fecha": "15 de Jan del 2026 a las 06:58 AM",
+    "hora_utc": "2026-01-15 11:58",
+    "mensaje": "💡Con servicio los siguientes circuitos:\n🔹Municipio Quemado:\n👉Ctos 164, 52 y 53 Quemado.\n🔹Municipio Placetas \nCtos 100 y 151 Placetas\nCto 104 Hermanos Amejeiras\nCto 103 Batey Carbó Servia",
+    "timestamp": 1768478320,
+    "timestamp_local": 1768478320
+  },
+  {
+    "id": 38140,
+    "fecha": "15 de Jan del 2026 a las 06:56 AM",
+    "hora_utc": "2026-01-15 11:56",
+    "mensaje": "🛠️Afectados por DAF (Disparo Automático por Frecuencia), de las líneas 1205 y 1920:\nAfecta las siguientes líneas:\n🔹Municipio Sagua:\nCtos 43, 51 Sagua\nCto 44 Isabela\nCtos 50 y 147 Villa Alegre\n🔹Municipio Placetas:\nCtos 101 y 145 Cumbre\nCto 107 Baez\nCto 105 Nazareno",
+    "timestamp": 1768478162,
+    "timestamp_local": 1768478162
+  },
+  {
     "id": 38139,
     "fecha": "15 de Jan del 2026 a las 06:43 AM",
     "hora_utc": "2026-01-15 11:43",
-    "mensaje": "🕕Actualización del servicio eléctrico en las últimas 6 horas.\n👉El déficit de capacidad de generación osciló entre los 27 MW y los 65 MW.\n👉En el momento de esta nota, se mantienen afectados 125 circuitos.\n👉Cuenta con 62 afectaciones por averías secundarias y de servicio:\n🔸Caibarién (1)\n🔸Camajuaní (1)\n🔸Corralillo (3)\n🔸Encrucijada (1)\n🔸Manicaragua (6)\n🔸Ranchuelo (3)\n🔸Remedios (6)\n🔸Sagua (3)\n🔸Santa Clara (15)\n🔸Santo Domingo (4)\n🛠️Se encuentra 1 avería en vías de solución.\n🛠️Pendientes a solucionar por el área técnica 19.\n✅La provincia no presenta averías primarias en estos momentos.",
+    "mensaje": "🕕Actualización del servicio eléctrico en las últimas 6 horas.\n👉El déficit de capacidad de generación osciló entre los 27 MW y los 65 MW.\n👉En el momento de esta nota, se mantienen afectados 125 circuitos.\n👉Cuenta con 62 afectaciones por averías secundarias y de servicio:\n🔸Caibarién (1)\n🔸Camajuaní (1)\n🔸Corralillo (3)\n🔸Encrucijada (1)\n🔸Manicaragua (6)\n🔸Ranchuelo (3)\n🔸Remedios (6)\n🔸Sagua (3)\n🔸Santa Clara (15)\n🔸Santo Domingo (4)\n🛠️Se encuentra 1 avería en vías de solución.\n🛠️Pendientes a solucionar por el área técnica 19.\n⚡La provincia presenta 1 avería primaria por disparo en la subestación en el circuito 123 (Vizcaya) perteneciente al municipio Encrucijada. (En estos momentos se encuentra afectada la línea por déficit de capacidad de generación)",
     "timestamp": 1768477393,
     "timestamp_local": 1768477393
   },
@@ -19,7 +59,7 @@
     "id": 38137,
     "fecha": "15 de Jan del 2026 a las 06:37 AM",
     "hora_utc": "2026-01-15 11:37",
-    "mensaje": "⚠️Afectados por déficit de capacidad de generación los siguientes circuitos:\n🔹Municipio Placetas:\nCto 192 Benito Juárez\nCto 102 Peroti\n🔹Municipio Encrucijada:\nCto 122 Encrucijada  \nCto 123 Vizcaya \nCto 142 Comunidad La Sierra \nCto 126 Batey Emilio Córdova\nCto 125 Cavarrocas\nCto 124 El Santo\n🔹Municipio Camajuaní:                                                              \nCto 78 Jutiero",
+    "mensaje": "⚠️Afectados por déficit de capacidad de generación los siguientes circuitos:\n🔹Municipio Placetas:\nCto 192 Benito Juárez\nCto 102 Peroti\n🔹Municipio Encrucijada:\nCto 122 Encrucijada  \nCto 123 Vizcaya (Avería) \nCto 142 Comunidad La Sierra \nCto 126 Batey Emilio Córdova\nCto 125 Cavarrocas\nCto 124 El Santo\n🔹Municipio Camajuaní:                                                              \nCto 78 Jutiero",
     "timestamp": 1768477039,
     "timestamp_local": 1768477039
   },
@@ -110,45 +150,5 @@
     "mensaje": "💡Con servicio los siguientes circuitos:\n🔹Municipio Encrucijada:\nCto 122 Encrucijada  \nCto 123 Vizcaya \nCto 142 Comunidad La Sierra \nCto 126 Batey Emilio Córdova\nCto 125 Cavarrocas\nCto 124 El Santo\n🔹Municipio Camajuaní:                                                              \nCto 78 Jutiero",
     "timestamp": 1768450030,
     "timestamp_local": 1768450030
-  },
-  {
-    "id": 38124,
-    "fecha": "14 de Jan del 2026 a las 11:01 PM",
-    "hora_utc": "2026-01-15 04:01",
-    "mensaje": "💡Con servicio el circuito 6 (Vigía), del municipio Santa Clara.",
-    "timestamp": 1768449705,
-    "timestamp_local": 1768449705
-  },
-  {
-    "id": 38123,
-    "fecha": "14 de Jan del 2026 a las 11:00 PM",
-    "hora_utc": "2026-01-15 04:00",
-    "mensaje": "💡Con servicio los siguientes circuitos:\n🔹Municipio Caibarién:\n👉Ctos 61, 62, 63 y 64\n👉Ctos 182 y 183 Van Troy",
-    "timestamp": 1768449624,
-    "timestamp_local": 1768449624
-  },
-  {
-    "id": 38122,
-    "fecha": "14 de Jan del 2026 a las 10:53 PM",
-    "hora_utc": "2026-01-15 03:53",
-    "mensaje": "💡Con servicio el circuito 111 (Mataguá), del municipio Manicaragua.",
-    "timestamp": 1768449191,
-    "timestamp_local": 1768449191
-  },
-  {
-    "id": 38121,
-    "fecha": "14 de Jan del 2026 a las 10:40 PM",
-    "hora_utc": "2026-01-15 03:40",
-    "mensaje": "💡Con servicio los siguientes circuitos:\n🔹Municipio Manicaragua:\n👉Ctos 108 y 110 La Piedra",
-    "timestamp": 1768448407,
-    "timestamp_local": 1768448407
-  },
-  {
-    "id": 38120,
-    "fecha": "14 de Jan del 2026 a las 10:31 PM",
-    "hora_utc": "2026-01-15 03:31",
-    "mensaje": "💡Con servicio los siguientes circuitos:\n🔹Municipio Ranchuelo:\nCto 92 Esperanza (Pueblo)\nCto 93 Esperanza (Campo)\nCtos 54, 94 y 95 Jicotea\n🔹Municipio Santa Clara\nCtos 26 y 141 (Manuelita)\nCto 191 (Quemado de Hilario) \n🔹Municipio Santo Domingo\nCto 79 (Santo Domingo)\nCto 81 (26 de Julio)\nCto 163 (Batey 26 de Julio",
-    "timestamp": 1768447889,
-    "timestamp_local": 1768447889
   }
 ]

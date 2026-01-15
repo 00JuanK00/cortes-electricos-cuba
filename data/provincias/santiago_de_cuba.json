@@ -1,5 +1,37 @@
 [
   {
+    "id": 48363,
+    "fecha": "15 de Jan del 2026 a las 07:14 AM",
+    "hora_utc": "2026-01-15 12:14",
+    "mensaje": "🚨Estimados clientes en estos momentos se encuentra afectados por Déficit de Capacidad de Generación los circuitos 1 y 25 de Santiago , disculpen por las molestias ocasionadas.",
+    "timestamp": 1768479263,
+    "timestamp_local": 1768479263
+  },
+  {
+    "id": 48362,
+    "fecha": "15 de Jan del 2026 a las 07:05 AM",
+    "hora_utc": "2026-01-15 12:05",
+    "mensaje": "🚨Estimados clientes en estos momentos se encuentra afectados por Déficit de Capacidad de Generación la línea 5380 Mella y 5975 Baconao, disculpen por las molestias ocasionadas.",
+    "timestamp": 1768478702,
+    "timestamp_local": 1768478702
+  },
+  {
+    "id": 48361,
+    "fecha": "15 de Jan del 2026 a las 07:03 AM",
+    "hora_utc": "2026-01-15 12:03",
+    "mensaje": "Disparo Automático de Frecuencia (DAF):\nOcurre cuando la frecuencia está por debajo de los 60Hz y determinada carga o circuito se desconecta del sistema automáticamente hasta que se estabilice.",
+    "timestamp": 1768478618,
+    "timestamp_local": 1768478618
+  },
+  {
+    "id": 48360,
+    "fecha": "15 de Jan del 2026 a las 06:55 AM",
+    "hora_utc": "2026-01-15 11:55",
+    "mensaje": "🚨Estimados clientes se les informa que el circuito 14 , 17 de Santiago y 4 de Palma se encuentran Disparados por DAF , disculpen por las molestias ocasionadas.",
+    "timestamp": 1768478102,
+    "timestamp_local": 1768478102
+  },
+  {
     "id": 48359,
     "fecha": "15 de Jan del 2026 a las 06:45 AM",
     "hora_utc": "2026-01-15 11:45",
@@ -102,37 +134,5 @@
     "mensaje": "🚨 Estimados clientes en estos momentos se encuentran afectados por Déficit de Capacidad de Generación la línea 5390 La Maya , disculpen por las molestias ocasionadas.",
     "timestamp": 1768443003,
     "timestamp_local": 1768443003
-  },
-  {
-    "id": 48343,
-    "fecha": "14 de Jan del 2026 a las 08:34 PM",
-    "hora_utc": "2026-01-15 01:34",
-    "mensaje": "🚨Estimados clientes en estos momentos se encuentran afectados por Déficit de Capacidad de Generación la línea 5975 Baconao , disculpen por las molestias ocasionadas.",
-    "timestamp": 1768440878,
-    "timestamp_local": 1768440878
-  },
-  {
-    "id": 48342,
-    "fecha": "14 de Jan del 2026 a las 08:34 PM",
-    "hora_utc": "2026-01-15 01:34",
-    "mensaje": "🚨Estimados clientes en estos momentos se encuentran afectados por Déficit de Capacidad de Generación los circuitos 8 , 13 , 23 , 24  y 25 de Santiago , disculpen por las molestias ocasionadas.",
-    "timestamp": 1768440859,
-    "timestamp_local": 1768440859
-  },
-  {
-    "id": 48341,
-    "fecha": "14 de Jan del 2026 a las 08:27 PM",
-    "hora_utc": "2026-01-15 01:27",
-    "mensaje": "🚨 Estimados clientes en estos momentos se encuentran afectados por Déficit de Capacidad de Generación la línea 5395 San Luis y 4435 Contramaestre , disculpen por las molestias ocasionadas.",
-    "timestamp": 1768440462,
-    "timestamp_local": 1768440462
-  },
-  {
-    "id": 48340,
-    "fecha": "14 de Jan del 2026 a las 08:27 PM",
-    "hora_utc": "2026-01-15 01:27",
-    "mensaje": "🚨 Estimados clientes en estos momentos se encuentran afectados por Déficit de Capacidad de Generación los circuitos 7 , 16 , 17 , 20 de Santiago , disculpen por las molestias ocasionadas.",
-    "timestamp": 1768440428,
-    "timestamp_local": 1768440428
   }
 ]
