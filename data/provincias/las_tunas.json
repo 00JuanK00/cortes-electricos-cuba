@@ -1,5 +1,21 @@
 [
   {
+    "id": 17844,
+    "fecha": "15 de Jan del 2026 a las 11:50 AM",
+    "hora_utc": "2026-01-15 16:50",
+    "mensaje": "La Empresa Eléctrica Las Tunas informa que, según la nota emitida por la Unión Eléctrica para el 15 de enero, en el día de ayer se afectó el servicio durante las 24 horas y se mantiene la afectación hasta el momento. En nuestra provincia se afectaron la totalidad de los circuitos apagables, con una máxima afectación de 65.5MW.\nActualmente están fuera de servicio por avería: \nUnidad 5 de la CTE Mariel, Unidades 1 y 2 de la CTE Felton y Unidad 3 de la CTE Antonio Maceo.\nEn mantenimiento se encuentran:    \nUnidad 2 de la CTE Santa Cruz, Unidad 4 de la CTE Carlos Manuel de Céspedes en Cienfuegos.\nEn el horario nocturno se estima una afectación de 1945 MW, lo cual puede representar el 95 % de los circuitos apagables. Estos valores pueden variar según la demanda nacional.",
+    "timestamp": 1768495813,
+    "timestamp_local": 1768495813
+  },
+  {
+    "id": 17843,
+    "fecha": "15 de Jan del 2026 a las 11:49 AM",
+    "hora_utc": "2026-01-15 16:49",
+    "mensaje": "Nota Informativa: Estado del Sistema Eléctrico Nacional (SEN) – 15 de enero de 2026\n\nEn el día de ayer se afectó el servicio durante las 24 horas y se mantiene la afectación hasta el momento. La máxima afectación por déficit de capacidad de generación en el día de ayer fue de 1770 MW a las 18:40 horas.\n\nLa producción de energía de los 37 nuevos parques solares fotovoltaicos fue de 2872 MWh, con 563 MW como máxima potencia entregada en el horario de la media con esta fuente de generación.\nEstado actual del SEN\n\nLa disponibilidad del SEN a las 06:00 horas es de 1300 MW, la demanda 2150 MW, con 837 MW. En el horario de la media se estima una afectación de 1100 MW.\nPrincipales incidencias\n\n    Avería: Unidad 5 de la CTE Mariel, Unidades 1 y 2 de la CTE Felton y Unidad 3 de la CTE Antonio Maceo.\n    Mantenimiento: Unidad 2 de la CTE Sata Cruz, Unidad 4 de la CTE Carlos Manuel de Céspedes en Cienfuegos.\n    Limitaciones en la generación térmica: 699 MW fuera de servicio.\n    Problemas por falta de combustible\n        102 centrales de generación distribuida con 917 MW.\n        25 MW de la Patana de Melones.\n        35 MW de la Patana de Regla.\n        169 MW indisponibles por falta de lubricante.\n        Total de MW afectados por esta causa: 1146 MW.\n\nPronóstico para el horario pico\n\nAl pico se pronostica la entrada de la unidad 3 de la CTE Renté (en proceso de arranque) con 35 MW.\n\nPara el pico se prevé una disponibilidad de 1335 MW con una demanda máxima de 3250 MW, para un déficit de 1915 MW, por lo que de mantenerse las condiciones previstas se pronostica una afectación de 1945 MW en este horario.",
+    "timestamp": 1768495799,
+    "timestamp_local": 1768495799
+  },
+  {
     "id": 17842,
     "fecha": "15 de Jan del 2026 a las 06:27 AM",
     "hora_utc": "2026-01-15 11:27",
@@ -118,21 +134,5 @@
     "mensaje": "Se afectan los siguientes circuitos por déficit:\nTK2 Bonachea \nTK20 Becerra \nTK21 Tunazúcar\nTK50 Vázquez \nTK53 La Morena y El Malecón \nTK47 La Micro Puerto Padre\nTK29 Circunvalación Sur, Oro Negro \nTK7 La Victoria\nTK5 Buena Vista, Los Pinos\nTK15 Tunas El Pueblo\nCircuito 33 Kv: 6305\nTK41 Calixto\nTK40 Vista Alegre\nTK42 Gastón y Arroyo Muerto\nTK45 La Ceiba\nTK43 Las Parras, Omaja y Cañada Honda\nTK44 Vivienda\nCircuito 33 Kv: 6810\nTK82 Tana\nTK83 Las Maboas\nTK113 La Aurora\nTK74 La Lomita\nTK110 El Batey\n6810 Poblado Amancio\nCircuito 33 Kv: 6230\nTK59 Vedado 3\nTK67 Porcino\nTK68 Vedado 6\nTK69 Poblado de Menéndez\nTK70 Transporte\nTK99 Santa Marías\nTK98 San Manuel, La Pedrera\nTK64 Palma Picada",
     "timestamp": 1768339158,
     "timestamp_local": 1768339158
-  },
-  {
-    "id": 17823,
-    "fecha": "13 de Jan del 2026 a las 11:28 AM",
-    "hora_utc": "2026-01-13 16:28",
-    "mensaje": "Se restablece el circuito:TK23 Veguita.",
-    "timestamp": 1768321685,
-    "timestamp_local": 1768321685
-  },
-  {
-    "id": 17822,
-    "fecha": "13 de Jan del 2026 a las 11:27 AM",
-    "hora_utc": "2026-01-13 16:27",
-    "mensaje": "Se afectan por déficit de generación los siguientes circuitos:\nTK9 Aguilera, La Victoria \nTK4 Aeropuerto, Casa Piedra y Aurora",
-    "timestamp": 1768321621,
-    "timestamp_local": 1768321621
   }
 ]
