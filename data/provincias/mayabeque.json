@@ -1,5 +1,53 @@
 [
   {
+    "id": 103466,
+    "fecha": "15 de Jan del 2026 a las 02:03 PM",
+    "hora_utc": "2026-01-15 19:03",
+    "mensaje": "🚨Por déficit de capacidad de generación se afecta el servicio en el siguiente circuito:\n*Surgidero 🚨",
+    "timestamp": 1768503811,
+    "timestamp_local": 1768503811
+  },
+  {
+    "id": 103465,
+    "fecha": "15 de Jan del 2026 a las 02:03 PM",
+    "hora_utc": "2026-01-15 19:03",
+    "mensaje": "🚨Por déficit de capacidad de generación se afecta el servicio en los siguientes circuitos:\n*3655\n*3660🚨",
+    "timestamp": 1768503782,
+    "timestamp_local": 1768503782
+  },
+  {
+    "id": 103464,
+    "fecha": "15 de Jan del 2026 a las 02:00 PM",
+    "hora_utc": "2026-01-15 19:00",
+    "mensaje": "♦️ Afectado el servicio en el circuito Bío -2 por disparo en las líneas ♦️",
+    "timestamp": 1768503621,
+    "timestamp_local": 1768503621
+  },
+  {
+    "id": 103463,
+    "fecha": "15 de Jan del 2026 a las 01:51 PM",
+    "hora_utc": "2026-01-15 18:51",
+    "mensaje": "🚨Por déficit de capacidad de generación se afecta el servicio en el siguiente circuito:\n*Camacho 🚨",
+    "timestamp": 1768503111,
+    "timestamp_local": 1768503111
+  },
+  {
+    "id": 103462,
+    "fecha": "15 de Jan del 2026 a las 01:44 PM",
+    "hora_utc": "2026-01-15 18:44",
+    "mensaje": "♦️ En falla los siguientes circuitos:\n*3140\n*Bío-1♦️",
+    "timestamp": 1768502648,
+    "timestamp_local": 1768502648
+  },
+  {
+    "id": 103461,
+    "fecha": "15 de Jan del 2026 a las 01:37 PM",
+    "hora_utc": "2026-01-15 18:37",
+    "mensaje": "🚨Por déficit de capacidad de generación se afecta el servicio en los siguientes circuitos:\n*Batabanó\n*Jaruco 🚨",
+    "timestamp": 1768502222,
+    "timestamp_local": 1768502222
+  },
+  {
     "id": 103460,
     "fecha": "15 de Jan del 2026 a las 01:18 PM",
     "hora_utc": "2026-01-15 18:18",
@@ -110,53 +158,5 @@
     "mensaje": "♦️ Afectado el servicio en el circuito de Santa Cruz por disparo en las líneas♦️",
     "timestamp": 1768492365,
     "timestamp_local": 1768492365
-  },
-  {
-    "id": 103446,
-    "fecha": "15 de Jan del 2026 a las 10:35 AM",
-    "hora_utc": "2026-01-15 15:35",
-    "mensaje": "♦️Afectado el servicio en los siguientes circuitos por disparo por DAF:\n*3140\n*3590♦️",
-    "timestamp": 1768491325,
-    "timestamp_local": 1768491325
-  },
-  {
-    "id": 103445,
-    "fecha": "15 de Jan del 2026 a las 10:11 AM",
-    "hora_utc": "2026-01-15 15:11",
-    "mensaje": "🔷 Restablecido el servicio en los siguientes circuitos:\n*3140\n*3590 que se encontraban afectados por disparos por DAF 🔷",
-    "timestamp": 1768489889,
-    "timestamp_local": 1768489889
-  },
-  {
-    "id": 103444,
-    "fecha": "15 de Jan del 2026 a las 09:32 AM",
-    "hora_utc": "2026-01-15 14:32",
-    "mensaje": "♦️ Afectado el servicio en el circuito 3590 por disparo por DAF♦️",
-    "timestamp": 1768487536,
-    "timestamp_local": 1768487536
-  },
-  {
-    "id": 103443,
-    "fecha": "15 de Jan del 2026 a las 09:31 AM",
-    "hora_utc": "2026-01-15 14:31",
-    "mensaje": "♦️Afectado el servicio en el siguiente circuito por disparo por DAF:\n*3140♦️",
-    "timestamp": 1768487469,
-    "timestamp_local": 1768487469
-  },
-  {
-    "id": 103442,
-    "fecha": "15 de Jan del 2026 a las 08:35 AM",
-    "hora_utc": "2026-01-15 13:35",
-    "mensaje": "🚨Por déficit de capacidad de generación se afecta el servicio en el siguiente circuito:\n*Caamaño 🚨",
-    "timestamp": 1768484117,
-    "timestamp_local": 1768484117
-  },
-  {
-    "id": 103441,
-    "fecha": "15 de Jan del 2026 a las 08:26 AM",
-    "hora_utc": "2026-01-15 13:26",
-    "mensaje": "**Nota Informativa: Estado del Sistema Eléctrico Nacional (SEN) – 15 de enero de 2026**\nEn el día de ayer se afectó el servicio durante las 24 horas y se mantiene la afectación hasta el momento. La máxima afectación por déficit de capacidad de generación en el día de ayer fue de 1770 MW a las 18:40 horas.\nLa producción de energía de los 37 nuevos parques solares fotovoltaicos fue de 2872 MWh, con 563 MW como máxima potencia entregada en el horario de la media con esta fuente de generación.\n**Estado actual del SEN**\nLa disponibilidad del SEN a las 06:00 horas es de 1300 MW, la demanda 2150 MW, con 837 MW. En el horario de la media se estima una afectación de 1100 MW.\n**Principales incidencias**\nAvería: Unidad 5 de la CTE Mariel, Unidades 1 y 2 de la CTE Felton y Unidad 3 de la CTE Antonio Maceo.\nMantenimiento: Unidad 2 de la CTE Sata Cruz, Unidad 4 de la CTE Carlos Manuel de Céspedes en Cienfuegos.\nLimitaciones en la generación térmica: 699 MW fuera de servicio.\nProblemas por falta de combustible\n102 centrales de generación distribuida con 917 MW.\n25 MW de la Patana de Melones.\n35 MW de la Patana de Regla.\n169 MW indisponibles por falta de lubricante.\nTotal de MW afectados por esta causa: 1146 MW.\n**Pronóstico para el horario pico**\nAl pico se pronostica la entrada de la unidad 3 de la CTE Renté (en proceso de arranque) con 35 MW.\nPara el pico se prevé una disponibilidad de 1335 MW con una demanda máxima de 3250 MW, para un déficit de 1915 MW, por lo que de mantenerse las condiciones previstas se pronostica una afectación de 1945 MW en este horario.",
-    "timestamp": 1768483592,
-    "timestamp_local": 1768483592
   }
 ]
