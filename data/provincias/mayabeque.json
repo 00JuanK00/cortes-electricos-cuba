@@ -1,5 +1,61 @@
 [
   {
+    "id": 103458,
+    "fecha": "15 de Jan del 2026 a las 12:59 PM",
+    "hora_utc": "2026-01-15 17:59",
+    "mensaje": "♦️ Afectado el servicio en el circuito de Güines 4 en falla ♦️",
+    "timestamp": 1768499966,
+    "timestamp_local": 1768499966
+  },
+  {
+    "id": 103457,
+    "fecha": "15 de Jan del 2026 a las 12:39 PM",
+    "hora_utc": "2026-01-15 17:39",
+    "mensaje": "🔷Con servicio el circuito 1790 que se encontraba afectado por disparo por DAF🔷",
+    "timestamp": 1768498788,
+    "timestamp_local": 1768498788
+  },
+  {
+    "id": 103456,
+    "fecha": "15 de Jan del 2026 a las 12:31 PM",
+    "hora_utc": "2026-01-15 17:31",
+    "mensaje": "🔷♦️Se restablece el servicio en los circuitos que se encontraban afectados  por déficit de capacidad de generación:\n*Melena 1 y 2♦️🔷",
+    "timestamp": 1768498276,
+    "timestamp_local": 1768498276
+  },
+  {
+    "id": 103455,
+    "fecha": "15 de Jan del 2026 a las 12:28 PM",
+    "hora_utc": "2026-01-15 17:28",
+    "mensaje": "🔷♦️Se restablece el servicio en el circuito que se encontraba afectado  por déficit de capacidad de generación:\n*Güines 4 ♦️🔷",
+    "timestamp": 1768498132,
+    "timestamp_local": 1768498132
+  },
+  {
+    "id": 103454,
+    "fecha": "15 de Jan del 2026 a las 12:21 PM",
+    "hora_utc": "2026-01-15 17:21",
+    "mensaje": "🚨Por déficit de capacidad de generación se afecta el servicio en el siguiente circuito:\n*Güines 1 🚨",
+    "timestamp": 1768497685,
+    "timestamp_local": 1768497685
+  },
+  {
+    "id": 103453,
+    "fecha": "15 de Jan del 2026 a las 12:20 PM",
+    "hora_utc": "2026-01-15 17:20",
+    "mensaje": "🔷♦️Se restablece el servicio en el circuito que se encontraba afectado  por déficit de capacidad de generación:\n*2 de San José ♦️🔷",
+    "timestamp": 1768497658,
+    "timestamp_local": 1768497658
+  },
+  {
+    "id": 103452,
+    "fecha": "15 de Jan del 2026 a las 12:17 PM",
+    "hora_utc": "2026-01-15 17:17",
+    "mensaje": "🚨Por déficit de capacidad de generación se afecta el servicio en los siguientes circuitos:\n*Jamaica\n*Babiney\n*Nazareno\n*Menocal 🚨",
+    "timestamp": 1768497456,
+    "timestamp_local": 1768497456
+  },
+  {
     "id": 103451,
     "fecha": "15 de Jan del 2026 a las 11:48 AM",
     "hora_utc": "2026-01-15 16:48",
@@ -94,61 +150,5 @@
     "mensaje": "🔷Restablecido el servicio en el circuito 3140 que se encontraba afectado por disparo por DAF🔷",
     "timestamp": 1768480106,
     "timestamp_local": 1768480106
-  },
-  {
-    "id": 103438,
-    "fecha": "15 de Jan del 2026 a las 07:27 AM",
-    "hora_utc": "2026-01-15 12:27",
-    "mensaje": "🔷Restablecido el servicio en el circuito 3590 que se encontraba afectado por disparo por DAF🔷",
-    "timestamp": 1768480076,
-    "timestamp_local": 1768480076
-  },
-  {
-    "id": 103437,
-    "fecha": "15 de Jan del 2026 a las 07:25 AM",
-    "hora_utc": "2026-01-15 12:25",
-    "mensaje": "♦️Afectado el servicio en el siguiente circuito por disparo por DAF:\n*1790♦️",
-    "timestamp": 1768479900,
-    "timestamp_local": 1768479900
-  },
-  {
-    "id": 103436,
-    "fecha": "15 de Jan del 2026 a las 07:23 AM",
-    "hora_utc": "2026-01-15 12:23",
-    "mensaje": "🚨Por déficit de capacidad de generación se afecta el servicio en el siguiente circuito:\n*ML-35🚨",
-    "timestamp": 1768479808,
-    "timestamp_local": 1768479808
-  },
-  {
-    "id": 103435,
-    "fecha": "15 de Jan del 2026 a las 07:18 AM",
-    "hora_utc": "2026-01-15 12:18",
-    "mensaje": "🚨Por déficit de capacidad de generación se afecta el servicio en los siguientes circuitos:\n*2 de San José\n*Madruga\n*Güines 4🚨",
-    "timestamp": 1768479524,
-    "timestamp_local": 1768479524
-  },
-  {
-    "id": 103434,
-    "fecha": "15 de Jan del 2026 a las 06:47 AM",
-    "hora_utc": "2026-01-15 11:47",
-    "mensaje": "♦️Afectado el servicio en los siguientes circuitos por disparo por DAF:\n*3140\n*3590♦️",
-    "timestamp": 1768477649,
-    "timestamp_local": 1768477649
-  },
-  {
-    "id": 103433,
-    "fecha": "15 de Jan del 2026 a las 06:42 AM",
-    "hora_utc": "2026-01-15 11:42",
-    "mensaje": "🚨Por déficit de capacidad de generación se afecta el servicio en los siguientes circuitos:\n*Los Palos \n*Sureste🚨",
-    "timestamp": 1768477376,
-    "timestamp_local": 1768477376
-  },
-  {
-    "id": 103432,
-    "fecha": "15 de Jan del 2026 a las 06:40 AM",
-    "hora_utc": "2026-01-15 11:40",
-    "mensaje": "🚨Por déficit de capacidad de generación se afecta el servicio en el siguiente circuito:\n*Vegas🚨",
-    "timestamp": 1768477250,
-    "timestamp_local": 1768477250
   }
 ]
