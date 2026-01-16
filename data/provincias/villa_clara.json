@@ -1,9 +1,57 @@
 [
   {
+    "id": 38277,
+    "fecha": "16 de Jan del 2026 a las 03:35 PM",
+    "hora_utc": "2026-01-16 20:35",
+    "mensaje": "⚠️Afectados por déficit de capacidad de generación los siguientes circuitos:\n🔹Municipio Santa Clara:\n👉Cto 5 (Dobarganes)\n👉Cto 17 (Subplanta)",
+    "timestamp": 1768595708,
+    "timestamp_local": 1768595708
+  },
+  {
+    "id": 38276,
+    "fecha": "16 de Jan del 2026 a las 03:24 PM",
+    "hora_utc": "2026-01-16 20:24",
+    "mensaje": "⚠️Afectados por déficit de capacidad de generación los siguientes circuitos:\n🔹Municipio Manicaragua:\n👉Ctos 108 y 110 La Piedra\n👉Cto 111 Mataguá",
+    "timestamp": 1768595090,
+    "timestamp_local": 1768595090
+  },
+  {
+    "id": 38275,
+    "fecha": "16 de Jan del 2026 a las 03:18 PM",
+    "hora_utc": "2026-01-16 20:18",
+    "mensaje": "⚠️Afectado parcial por avería el Cto 111(Matagua), perteneciente al Municipio Manicaragua.",
+    "timestamp": 1768594727,
+    "timestamp_local": 1768594727
+  },
+  {
+    "id": 38274,
+    "fecha": "16 de Jan del 2026 a las 03:17 PM",
+    "hora_utc": "2026-01-16 20:17",
+    "mensaje": "⚠️Afectados por déficit de capacidad de generación los siguientes circuitos:\n🔹Municipio Santo Domingo:\n👉Cto 134\n👉Ctos 87 y 96 Bermejal\n👉Cto 187 Batey Carlos Baliño\n👉Cto 82 Ulacia\n👉Cto 84 Rodrigo",
+    "timestamp": 1768594628,
+    "timestamp_local": 1768594628
+  },
+  {
+    "id": 38273,
+    "fecha": "16 de Jan del 2026 a las 03:09 PM",
+    "hora_utc": "2026-01-16 20:09",
+    "mensaje": "⚠️Afectados por déficit de capacidad de generación los siguientes circuitos:\n🔹Municipio Ranchuelo: \n👉Ctos 89, 97, 188 y 189\n👉Ctos 148 y 149 San Juan\n👉Cto 91 Batey Osvaldo Herrera\n👉Cto 181 Batey Ifraín Alfonso",
+    "timestamp": 1768594166,
+    "timestamp_local": 1768594166
+  },
+  {
+    "id": 38272,
+    "fecha": "16 de Jan del 2026 a las 03:01 PM",
+    "hora_utc": "2026-01-16 20:01",
+    "mensaje": "⚠️Afectados por déficit de capacidad de generación los siguientes circuitos:\n🔹Municipio Quemado:\n👉Ctos 164, 52 y 53 Quemado.",
+    "timestamp": 1768593707,
+    "timestamp_local": 1768593707
+  },
+  {
     "id": 38271,
     "fecha": "16 de Jan del 2026 a las 02:58 PM",
     "hora_utc": "2026-01-16 19:58",
-    "mensaje": "💡Con servicio los siguientes circuitos:\n🔹Municipio Cifuentes:\n👉Ctos 114 y 117\n👉Ctos 116 y 155 Mata\n👉Cto 186 Batey Unidad Proletaria\n👉Cto 184 Sitio Grande",
+    "mensaje": "💡Con servicio los siguientes circuitos:\n🔹Municipio Camajuaní:\n👉Ctos  72, 73, 129 y 156 \n👉Cto 74 José María Pérez",
     "timestamp": 1768593532,
     "timestamp_local": 1768593532
   },
@@ -59,7 +107,7 @@
     "id": 38264,
     "fecha": "16 de Jan del 2026 a las 02:17 PM",
     "hora_utc": "2026-01-16 19:17",
-    "mensaje": "💡Con servicio el siguiente circuito:\n➡️Línea 1920\n🔹Municipio Placetas:\n👉Ctos 101 y 145 Cumbre\n👉Cto 107 Baez\n👉Cto 105 Nazareno",
+    "mensaje": "💡Con servicio el siguiente circuito:\n➡️Línea 1920\n🔹Municipio Placetas:\n👉Ctos 101 y 145 Cumbre(Continua  en Déficit)\n👉Cto 107 Baez\n👉Cto 105 Nazareno",
     "timestamp": 1768591023,
     "timestamp_local": 1768591023
   },
@@ -110,53 +158,5 @@
     "mensaje": "💡Con servicio el siguiente circuito:\n🔹Municipio Sagua\n👉Cto 44 Isabela",
     "timestamp": 1768588552,
     "timestamp_local": 1768588552
-  },
-  {
-    "id": 38257,
-    "fecha": "16 de Jan del 2026 a las 01:25 PM",
-    "hora_utc": "2026-01-16 18:25",
-    "mensaje": "⚠️Afectada Línea 1920 por DAF.\n➡️Línea 1920\n🔹Municipio Placetas:\n👉Ctos 101 y 145 Cumbre\n👉Cto 107 Baez\n👉Cto 105 Nazareno",
-    "timestamp": 1768587955,
-    "timestamp_local": 1768587955
-  },
-  {
-    "id": 38256,
-    "fecha": "16 de Jan del 2026 a las 01:20 PM",
-    "hora_utc": "2026-01-16 18:20",
-    "mensaje": "Afectados 59 MW en la provincia, demanda máxima a apagar en estos momentos.",
-    "timestamp": 1768587608,
-    "timestamp_local": 1768587608
-  },
-  {
-    "id": 38255,
-    "fecha": "16 de Jan del 2026 a las 01:16 PM",
-    "hora_utc": "2026-01-16 18:16",
-    "mensaje": "💡Con servicio los siguientes circuitos:\n🔹Municipio Placetas \n👉Ctos 100 y 151 Placetas\n👉Cto 104 Hermanos Amejeiras\n👉Cto 103 Batey Carbó Servia",
-    "timestamp": 1768587378,
-    "timestamp_local": 1768587378
-  },
-  {
-    "id": 38254,
-    "fecha": "16 de Jan del 2026 a las 01:14 PM",
-    "hora_utc": "2026-01-16 18:14",
-    "mensaje": "⚠️Afectado Cto 86 (Pajarito) , perteneciente al Municipio Santo Domingo, se estudian las causas.",
-    "timestamp": 1768587267,
-    "timestamp_local": 1768587267
-  },
-  {
-    "id": 38253,
-    "fecha": "16 de Jan del 2026 a las 01:06 PM",
-    "hora_utc": "2026-01-16 18:06",
-    "mensaje": "💡Con servicio Cto 40(Hospital Militar ) perteneciente al Municipio Santa Clara.",
-    "timestamp": 1768586768,
-    "timestamp_local": 1768586768
-  },
-  {
-    "id": 38252,
-    "fecha": "16 de Jan del 2026 a las 12:58 PM",
-    "hora_utc": "2026-01-16 17:58",
-    "mensaje": "🟢 10:56 || En línea la Unidad 1 de la CTE Lidio Ramón Pérez Felton.",
-    "timestamp": 1768586284,
-    "timestamp_local": 1768586284
   }
 ]
