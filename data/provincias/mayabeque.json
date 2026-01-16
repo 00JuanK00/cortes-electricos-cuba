@@ -1,5 +1,21 @@
 [
   {
+    "id": 103599,
+    "fecha": "16 de Jan del 2026 a las 06:00 PM",
+    "hora_utc": "2026-01-16 23:00",
+    "mensaje": "🚨Por déficit de capacidad de generación se afecta el servicio en el siguiente circuito:\n*3665 🚨",
+    "timestamp": 1768604422,
+    "timestamp_local": 1768604422
+  },
+  {
+    "id": 103598,
+    "fecha": "16 de Jan del 2026 a las 05:51 PM",
+    "hora_utc": "2026-01-16 22:51",
+    "mensaje": "🔷 Restablecido el servicio en el circuito 3140 que se encontraba afectado por disparo por DAF 🔷",
+    "timestamp": 1768603895,
+    "timestamp_local": 1768603895
+  },
+  {
     "id": 103597,
     "fecha": "16 de Jan del 2026 a las 05:44 PM",
     "hora_utc": "2026-01-16 22:44",
@@ -126,21 +142,5 @@
     "mensaje": "♦️ Afectado el servicio en el circuito de Río Seco por avería ♦️",
     "timestamp": 1768593481,
     "timestamp_local": 1768593481
-  },
-  {
-    "id": 103578,
-    "fecha": "16 de Jan del 2026 a las 02:48 PM",
-    "hora_utc": "2026-01-16 19:48",
-    "mensaje": "♦️ Afectado el servicio en el circuito 3140 por disparo por DAF♦️",
-    "timestamp": 1768592934,
-    "timestamp_local": 1768592934
-  },
-  {
-    "id": 103577,
-    "fecha": "16 de Jan del 2026 a las 02:41 PM",
-    "hora_utc": "2026-01-16 19:41",
-    "mensaje": "🔷 Restablecido el servicio en el circuito 1790 que se encontraba afectado por disparo por DAF 🔷",
-    "timestamp": 1768592470,
-    "timestamp_local": 1768592470
   }
 ]

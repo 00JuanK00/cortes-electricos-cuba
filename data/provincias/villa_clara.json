@@ -1,5 +1,29 @@
 [
   {
+    "id": 38287,
+    "fecha": "16 de Jan del 2026 a las 05:59 PM",
+    "hora_utc": "2026-01-16 22:59",
+    "mensaje": "Afectados 121 MW en la provincia, demanda máxima a apagar en estos momentos.",
+    "timestamp": 1768604360,
+    "timestamp_local": 1768604360
+  },
+  {
+    "id": 38286,
+    "fecha": "16 de Jan del 2026 a las 05:57 PM",
+    "hora_utc": "2026-01-16 22:57",
+    "mensaje": "⚠️Afectados por déficit de capacidad de generación los siguientes circuitos:\n🔹Municipio Cifuentes:\n👉Ctos 114 y 117\n👉Ctos 116 y 155 Mata\n👉Cto 186 Batey Unidad Proletaria\n👉Cto 184 Sitio Grande",
+    "timestamp": 1768604237,
+    "timestamp_local": 1768604237
+  },
+  {
+    "id": 38285,
+    "fecha": "16 de Jan del 2026 a las 05:53 PM",
+    "hora_utc": "2026-01-16 22:53",
+    "mensaje": "⚠️Afectados por déficit de capacidad de generación los siguientes circuitos: \n🔹Municipio Sagua \n👉Cto 48 Finalet\n👉Ctos 46 y 128 Sitiecito\n🔹Municipio Manicaragua:\n👉Ctos 113 y 137 La Campana",
+    "timestamp": 1768604017,
+    "timestamp_local": 1768604017
+  },
+  {
     "id": 38284,
     "fecha": "16 de Jan del 2026 a las 05:48 PM",
     "hora_utc": "2026-01-16 22:48",
@@ -134,29 +158,5 @@
     "mensaje": "⚠️Afectados por déficit de capacidad de generación los siguiente circuito:\n🔹Municipio Santa Clara\n👉Ctos 2 y 4 (Centro)",
     "timestamp": 1768593234,
     "timestamp_local": 1768593234
-  },
-  {
-    "id": 38267,
-    "fecha": "16 de Jan del 2026 a las 02:51 PM",
-    "hora_utc": "2026-01-16 19:51",
-    "mensaje": "Actualización del servicio eléctrico en la provincia🔸\n✍️Se mantienen afectados en la provincia 63 circuitos.\n✍️En el momento de hacer esta nota la provincia tiene 56 MW por déficit de capacidad de generación.\n✍️Cuenta con 85 afectaciones por averías secundarias y de servicio.",
-    "timestamp": 1768593085,
-    "timestamp_local": 1768593085
-  },
-  {
-    "id": 38266,
-    "fecha": "16 de Jan del 2026 a las 02:23 PM",
-    "hora_utc": "2026-01-16 19:23",
-    "mensaje": "⚠️Afectado por déficit de capacidad de generación el siguiente circuito:\n🔹Municipio Santa Clara \n👉Cto 144 (Camacho -Libertad)",
-    "timestamp": 1768591398,
-    "timestamp_local": 1768591398
-  },
-  {
-    "id": 38265,
-    "fecha": "16 de Jan del 2026 a las 02:18 PM",
-    "hora_utc": "2026-01-16 19:18",
-    "mensaje": "💡Con servicio los siguientes circuitos:\n🔹Municipio Santa Clara:\n👉Cto 166 (Condado)\n👉Cto 167 (Virginia)",
-    "timestamp": 1768591135,
-    "timestamp_local": 1768591135
   }
 ]
