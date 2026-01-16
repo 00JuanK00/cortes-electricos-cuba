@@ -1,5 +1,21 @@
 [
   {
+    "id": 31229,
+    "fecha": "16 de Jan del 2026 a las 08:22 AM",
+    "hora_utc": "2026-01-16 13:22",
+    "mensaje": "⚠️ATENCIÓN: Se encuentra afectado transformador dañado perteneciente a Jaguey en la finca Guasima del Ahorcado afectando a 15 clientes .Estamos trabajando para resolver la afectación y restaurar el suministro de energía.",
+    "timestamp": 1768569740,
+    "timestamp_local": 1768569740
+  },
+  {
+    "id": 31228,
+    "fecha": "16 de Jan del 2026 a las 07:37 AM",
+    "hora_utc": "2026-01-16 12:37",
+    "mensaje": "⚡Déficit de capacidad de generación en la provincia de:  87 MW . ⚡",
+    "timestamp": 1768567031,
+    "timestamp_local": 1768567031
+  },
+  {
     "id": 31227,
     "fecha": "16 de Jan del 2026 a las 06:58 AM",
     "hora_utc": "2026-01-16 11:58",
@@ -142,21 +158,5 @@
     "mensaje": "💡 CIRCUITOS PROXIMOS A RESTABLECER: \n\n⚡Déficit de capacidad de generación en la provincia de:  145 MW . ⚡\n\n🔌 Circuito VI1515 que da servicio a Santa Marta-Centro Cabañas del Sol.\n🔌 Circuito VI1520 que da servicio a Santa Martha hacia el Anfiteatro.",
     "timestamp": 1768520579,
     "timestamp_local": 1768520579
-  },
-  {
-    "id": 31209,
-    "fecha": "15 de Jan del 2026 a las 05:45 PM",
-    "hora_utc": "2026-01-15 22:45",
-    "mensaje": "¡Estimados clientes! ‼️\n\n🪫 Continuamos en el máximo apagable con un déficit de capacidad de generación de 139 MW.\n\n🔄 Una vez que podamos rotar el servicio, iremos restableciendo de manera paulatina los circuitos que han estado más tiempo sin suministro de energía eléctrica en dependencia del comportamiento de la demanda y la disponibilidad del sistema eléctrico.",
-    "timestamp": 1768517136,
-    "timestamp_local": 1768517136
-  },
-  {
-    "id": 31208,
-    "fecha": "15 de Jan del 2026 a las 04:58 PM",
-    "hora_utc": "2026-01-15 21:58",
-    "mensaje": "⚡En estos momentos tenemos afectados  123  MW en la provincia por déficit de capacidad de generación.⚡\n\n📢 A medida que las condiciones del sistema lo permitan, se irán restableciendo de forma gradual los circuitos que han tenido más tiempo de afectación.",
-    "timestamp": 1768514313,
-    "timestamp_local": 1768514313
   }
 ]
