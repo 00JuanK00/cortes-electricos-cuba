@@ -1,5 +1,29 @@
 [
   {
+    "id": 48399,
+    "fecha": "16 de Jan del 2026 a las 07:15 AM",
+    "hora_utc": "2026-01-16 12:15",
+    "mensaje": "‼️ 👉   Déficit de Capacidad de Generación:    \nSe produce cuando la demanda del Sistema Eléctrico Nacional, en determinado horario del día, supera la generación disponible del país, provocando la desconexión de los circuitos o líneas que permiten garantizar la frecuencia del SEN...‼️",
+    "timestamp": 1768565700,
+    "timestamp_local": 1768565700
+  },
+  {
+    "id": 48397,
+    "fecha": "16 de Jan del 2026 a las 07:04 AM",
+    "hora_utc": "2026-01-16 12:04",
+    "mensaje": "🚨🔊 Se le informa a nuestros clientes que en estos momentos quedan  afectados por  Déficit de Generación la línea 5395 que alimenta San Luis, la línea 4390, que la da servicio a Contramaestre y la línea 5380 (Mella )",
+    "timestamp": 1768565087,
+    "timestamp_local": 1768565087
+  },
+  {
+    "id": 48396,
+    "fecha": "16 de Jan del 2026 a las 06:57 AM",
+    "hora_utc": "2026-01-16 11:57",
+    "mensaje": "🚨🔊 Estimados clientes , se incorpora  a la afectación el circuito 21 de Santiago...",
+    "timestamp": 1768564636,
+    "timestamp_local": 1768564636
+  },
+  {
     "id": 48395,
     "fecha": "16 de Jan del 2026 a las 05:40 AM",
     "hora_utc": "2026-01-16 10:40",
@@ -11,7 +35,7 @@
     "id": 48394,
     "fecha": "16 de Jan del 2026 a las 04:11 AM",
     "hora_utc": "2026-01-16 09:11",
-    "mensaje": "🚨🔊Les informamos a nuestros clientes que está afectado por déficit los circuitos 2, 12 y 2 de Palma...",
+    "mensaje": "🚨🔊Les informamos a nuestros clientes que está afectado por déficit los circuitos 2, 12 , 14 y 2 de Palma...",
     "timestamp": 1768554694,
     "timestamp_local": 1768554694
   },
@@ -110,29 +134,5 @@
     "mensaje": "🚨 🔊 Debido a la compleja situación que presenta  el Sistema  Electroenergético  Nacional ( SEN )   no es posible cumplir con la programación prevista .se les ofrece disculpas por las molestias que esto pueda ocasionar...",
     "timestamp": 1768516496,
     "timestamp_local": 1768516496
-  },
-  {
-    "id": 48378,
-    "fecha": "15 de Jan del 2026 a las 04:36 PM",
-    "hora_utc": "2026-01-15 21:36",
-    "mensaje": "🚨 Estimados clientes se les informa que en estos momentos se encuentra afectado por déficit de capacidad de  los circuitos 21, Li 4435 Contramaestre, LI 5395 San Luis, LI 5390 La Maya",
-    "timestamp": 1768512960,
-    "timestamp_local": 1768512960
-  },
-  {
-    "id": 48377,
-    "fecha": "15 de Jan del 2026 a las 04:17 PM",
-    "hora_utc": "2026-01-15 21:17",
-    "mensaje": "🔊Estimados clientes en estos momentos se encuentra afectados por Déficit de Capacidad de Generación el circuito 12 y La Línea 5975 Baconao",
-    "timestamp": 1768511850,
-    "timestamp_local": 1768511850
-  },
-  {
-    "id": 48376,
-    "fecha": "15 de Jan del 2026 a las 04:07 PM",
-    "hora_utc": "2026-01-15 21:07",
-    "mensaje": "🔊Estimados clientes en estos momentos se encuentra afectados por Déficit de Capacidad de Generación los circuitos 4 de Palma , 25 , 1 y 2 de Santiago",
-    "timestamp": 1768511254,
-    "timestamp_local": 1768511254
   }
 ]
