@@ -1,5 +1,21 @@
 [
   {
+    "id": 48413,
+    "fecha": "16 de Jan del 2026 a las 11:46 AM",
+    "hora_utc": "2026-01-16 16:46",
+    "mensaje": "🔴Déficit de Capacidad de Generación:    \nSe produce cuando la demanda del Sistema Eléctrico Nacional, en determinado horario del día, supera la generación disponible del país, provocando la desconexión de los circuitos o líneas que permitan garantizar la frecuencia del SEN.",
+    "timestamp": 1768581970,
+    "timestamp_local": 1768581970
+  },
+  {
+    "id": 48412,
+    "fecha": "16 de Jan del 2026 a las 11:45 AM",
+    "hora_utc": "2026-01-16 16:45",
+    "mensaje": "🚨Estimados clientes en estos momentos se encuentran afectados por Déficit los circuitos 12, 2 de Palma , Línea 4390-Contramaestre, Línea 5380-Mella y 1 y 2 de Contramaestre.",
+    "timestamp": 1768581930,
+    "timestamp_local": 1768581930
+  },
+  {
     "id": 48411,
     "fecha": "16 de Jan del 2026 a las 10:38 AM",
     "hora_utc": "2026-01-16 15:38",
@@ -134,13 +150,5 @@
     "mensaje": "🚨🔊 Estimados clientes , se incorpora a la afectación la línea 4435, que alimenta Palma-Contramaestre y la línea 5385 ( San Luis-Palma )",
     "timestamp": 1768554309,
     "timestamp_local": 1768554309
-  },
-  {
-    "id": 48391,
-    "fecha": "16 de Jan del 2026 a las 04:00 AM",
-    "hora_utc": "2026-01-16 09:00",
-    "mensaje": "🚨🔊 Se les informa a nuestros clientes que en estos momentos está afectado por déficit de Generación los circuitos 7, 26, 1 y 21 y la línea 5975 que alimenta Baconao .",
-    "timestamp": 1768554004,
-    "timestamp_local": 1768554004
   }
 ]
