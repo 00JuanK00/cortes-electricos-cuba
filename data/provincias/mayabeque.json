@@ -1,9 +1,25 @@
 [
   {
+    "id": 103698,
+    "fecha": "17 de Jan del 2026 a las 03:55 PM",
+    "hora_utc": "2026-01-17 20:55",
+    "mensaje": "♦️ Afectado el servicio en el circuito 3590 por disparo por DAF ♦️",
+    "timestamp": 1768683321,
+    "timestamp_local": 1768683321
+  },
+  {
+    "id": 103697,
+    "fecha": "17 de Jan del 2026 a las 03:50 PM",
+    "hora_utc": "2026-01-17 20:50",
+    "mensaje": "♦️ Afectado el servicio en el circuito 3140 por disparo por DAF ♦️",
+    "timestamp": 1768683039,
+    "timestamp_local": 1768683039
+  },
+  {
     "id": 103696,
     "fecha": "17 de Jan del 2026 a las 03:41 PM",
     "hora_utc": "2026-01-17 20:41",
-    "mensaje": "♦️ Afectado el servicio en el circuito 3590 por disparo por DAF ♦️",
+    "mensaje": "🔷 Restablecido el servicio en el circuito 3590 que se encontraba afectado por disparo por DAF🔷",
     "timestamp": 1768682510,
     "timestamp_local": 1768682510
   },
@@ -142,21 +158,5 @@
     "mensaje": "🚨Por déficit de capacidad de generación se afecta el servicio en el siguiente circuito:\n*Aguacate 🚨",
     "timestamp": 1768674999,
     "timestamp_local": 1768674999
-  },
-  {
-    "id": 103678,
-    "fecha": "17 de Jan del 2026 a las 01:29 PM",
-    "hora_utc": "2026-01-17 18:29",
-    "mensaje": "♦️ Afectado el servicio en el circuito 3140 por disparo por DAF ♦️",
-    "timestamp": 1768674577,
-    "timestamp_local": 1768674577
-  },
-  {
-    "id": 103677,
-    "fecha": "17 de Jan del 2026 a las 01:28 PM",
-    "hora_utc": "2026-01-17 18:28",
-    "mensaje": "🚨Por déficit de capacidad de generación se afecta el servicio en el siguiente circuito:\n*Ganuza🚨",
-    "timestamp": 1768674492,
-    "timestamp_local": 1768674492
   }
 ]
