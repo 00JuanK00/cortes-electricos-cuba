@@ -1,5 +1,13 @@
 [
   {
+    "id": 17865,
+    "fecha": "17 de Jan del 2026 a las 01:01 AM",
+    "hora_utc": "2026-01-17 06:01",
+    "mensaje": "Se restablecen los siguientes circuitos qué se encontraban afectados por déficit de generación \nCircuito 33 Kv: 6810\nTK82 Tana\nTK83 Las Maboas\nTK113 La Aurora\nTK74 La Lomita\nTK110 El Batey\n6810 Poblado Amancio\nCircuito 33 Kv: 6820 Poblado Amancio\nTK75 Vicente Pérez \nTK77 San Alberto\nTK78 Ana Luisa\nTK76 El Paraíso\nTK2 Bonachea",
+    "timestamp": 1768629707,
+    "timestamp_local": 1768629707
+  },
+  {
     "id": 17864,
     "fecha": "16 de Jan del 2026 a las 11:38 PM",
     "hora_utc": "2026-01-17 04:38",
@@ -110,13 +118,5 @@
     "mensaje": "Se encuentra en avería el circuito TK91: Macagua, Jobabo.",
     "timestamp": 1768508896,
     "timestamp_local": 1768508896
-  },
-  {
-    "id": 17844,
-    "fecha": "15 de Jan del 2026 a las 11:50 AM",
-    "hora_utc": "2026-01-15 16:50",
-    "mensaje": "La Empresa Eléctrica Las Tunas informa que, según la nota emitida por la Unión Eléctrica para el 15 de enero, en el día de ayer se afectó el servicio durante las 24 horas y se mantiene la afectación hasta el momento. En nuestra provincia se afectaron la totalidad de los circuitos apagables, con una máxima afectación de 65.5MW.\nActualmente están fuera de servicio por avería: \nUnidad 5 de la CTE Mariel, Unidades 1 y 2 de la CTE Felton y Unidad 3 de la CTE Antonio Maceo.\nEn mantenimiento se encuentran:    \nUnidad 2 de la CTE Santa Cruz, Unidad 4 de la CTE Carlos Manuel de Céspedes en Cienfuegos.\nEn el horario nocturno se estima una afectación de 1945 MW, lo cual puede representar el 95 % de los circuitos apagables. Estos valores pueden variar según la demanda nacional.",
-    "timestamp": 1768495813,
-    "timestamp_local": 1768495813
   }
 ]
