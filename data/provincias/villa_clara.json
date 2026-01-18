@@ -1,9 +1,33 @@
 [
   {
+    "id": 38477,
+    "fecha": "18 de Jan del 2026 a las 06:38 PM",
+    "hora_utc": "2026-01-18 23:38",
+    "mensaje": "Con servicio la línea 1780:\n🔹Municipio Santa Clara:\nCtos 23 y 130 La Ceniza\nCto 16 (Cubanacán)(Avería)\nCto 42 Manajanabo\nMunicipio Placetas\nCto 139 Miller\nCto 190 Oliver\nCto 106 Falcón\nCtos 98 y 99 Placetas",
+    "timestamp": 1768779482,
+    "timestamp_local": 1768779482
+  },
+  {
+    "id": 38476,
+    "fecha": "18 de Jan del 2026 a las 06:24 PM",
+    "hora_utc": "2026-01-18 23:24",
+    "mensaje": "🛠️ Manipulación de la línea 1780:\nAfecta los siguientes circuitos:\n🔹Municipio Santa Clara:\nCtos 23 y 130 La Ceniza\nCto 16 (Cubanacán)(Avería)\nCto 42 Manajanabo\nMunicipio Placetas\nCto 139 Miller\nCto 190 Oliver\nCto 106 Falcón\nCtos 98 y 99 Placetas",
+    "timestamp": 1768778665,
+    "timestamp_local": 1768778665
+  },
+  {
+    "id": 38475,
+    "fecha": "18 de Jan del 2026 a las 06:06 PM",
+    "hora_utc": "2026-01-18 23:06",
+    "mensaje": "🕕Actualización del servicio eléctrico en las últimas 6 horas.\n✍️El déficit de capacidad de generación osciló entre los 89 MW y los 139 MW.\n✍️En el momento de esta nota, se mantienen afectados 138 circuitos.\n✍️Cuenta con 91 afectaciones por averías secundarias y de servicio:\n🔸Camajuaní (1)\n🔸Corralillo (3)\n🔸Encrucijada (1)\n🔸Manicaragua (1)\n🔸Placetas (5)\n🔸Ranchuelo (1)\n🔸Remedios (1) \n🔸Sagua (8) \n🔸Santa Clara (37)\n🔸Santo Domingo (13)\n🛠️Se encuentran 7 averías en vías de solución.\n🛠️Pendientes a solucionar por el área técnica 13.\n⚡La provincia presenta 2 averías primarias:\n👉Circuito 110 (La Piedra), del municipio Manicaragua, afectado por disparo (En estos momentos se encuentra afectado por déficit de capacidad de generación ).\n👉Circuito 146 (Elevado Aeropuerto), del municipio Santa Clara, afectado por drop outs dañados en la subestación. (En estos momentos se encuentra afectado por déficit de capacidad de generación ).",
+    "timestamp": 1768777593,
+    "timestamp_local": 1768777593
+  },
+  {
     "id": 38474,
     "fecha": "18 de Jan del 2026 a las 05:59 PM",
     "hora_utc": "2026-01-18 22:59",
-    "mensaje": "Con servicio la línea 1780:\n🔹Municipio Santa Clara:\nCtos 23 y 130 La Ceniza\nCto 16 (Cubanacán)\nCto 42 Manajanabo\nMunicipio Placetas\nCto 139 Miller\nCto 190 Oliver\nCto 106 Falcón\nCtos 98 y 99 Placetas",
+    "mensaje": "Con servicio la línea 1780:\n🔹Municipio Santa Clara:\nCtos 23 y 130 La Ceniza\nCto 16 (Cubanacán)(Avería)\nCto 42 Manajanabo\nMunicipio Placetas\nCto 139 Miller\nCto 190 Oliver\nCto 106 Falcón\nCtos 98 y 99 Placetas",
     "timestamp": 1768777192,
     "timestamp_local": 1768777192
   },
@@ -11,7 +35,7 @@
     "id": 38473,
     "fecha": "18 de Jan del 2026 a las 05:46 PM",
     "hora_utc": "2026-01-18 22:46",
-    "mensaje": "🛠️ Manipulación de la línea 1780:\nAfecta los siguientes circuitos:\n🔹Municipio Santa Clara:\nCtos 23 y 130 La Ceniza\nCto 16 (Cubanacán)(Disparo)\nCto 42 Manajanabo\nMunicipio Placetas\nCto 139 Miller\nCto 190 Oliver\nCto 106 Falcón\nCtos 98 y 99 Placetas",
+    "mensaje": "🛠️ Manipulación de la línea 1780:\nAfecta los siguientes circuitos:\n🔹Municipio Santa Clara:\nCtos 23 y 130 La Ceniza\nCto 16 (Cubanacán)(Avería)\nCto 42 Manajanabo\nMunicipio Placetas\nCto 139 Miller\nCto 190 Oliver\nCto 106 Falcón\nCtos 98 y 99 Placetas",
     "timestamp": 1768776369,
     "timestamp_local": 1768776369
   },
@@ -35,7 +59,7 @@
     "id": 38470,
     "fecha": "18 de Jan del 2026 a las 04:51 PM",
     "hora_utc": "2026-01-18 21:51",
-    "mensaje": "Con servicio la línea 1780:\n🔹Municipio Santa Clara:\nCtos 23 y 130 La Ceniza\nCto 16 (Cubanacán)\nCto 42 Manajanabo\n🔹Municipio Placetas\nCto 139 Miller\nCto 190 Oliver\nCto 106 Falcón\nCtos 98 y 99 Placetas",
+    "mensaje": "Con servicio la línea 1780:\n🔹Municipio Santa Clara:\nCtos 23 y 130 La Ceniza\nCto 16 (Cubanacán)(Avería)\nCto 42 Manajanabo\n🔹Municipio Placetas\nCto 139 Miller\nCto 190 Oliver\nCto 106 Falcón\nCtos 98 y 99 Placetas",
     "timestamp": 1768773083,
     "timestamp_local": 1768773083
   },
@@ -134,29 +158,5 @@
     "mensaje": "⚠️Afectados por déficit de capacidad de generación los siguientes circuitos:\n🔹Municipio Placetas:\n👉Ctos 101 y 145 Cumbre",
     "timestamp": 1768765226,
     "timestamp_local": 1768765226
-  },
-  {
-    "id": 38457,
-    "fecha": "18 de Jan del 2026 a las 02:35 PM",
-    "hora_utc": "2026-01-18 19:35",
-    "mensaje": "Actualización del servicio eléctrico en la provincia🔸\n✍️Se mantienen afectados en la provincia 111 circuitos.\n✍️En el momento de hacer esta nota la provincia tiene 79 MW por déficit de capacidad de generación.\n✍️Cuenta con 72 afectaciones por averías secundarias y de servicio.",
-    "timestamp": 1768764932,
-    "timestamp_local": 1768764932
-  },
-  {
-    "id": 38456,
-    "fecha": "18 de Jan del 2026 a las 02:31 PM",
-    "hora_utc": "2026-01-18 19:31",
-    "mensaje": "⚠️Afectados por déficit de capacidad de generación los siguientes circuitos:\n🔹Municipio Quemado:\n👉Ctos 164, 52 y 53 Quemado.",
-    "timestamp": 1768764719,
-    "timestamp_local": 1768764719
-  },
-  {
-    "id": 38455,
-    "fecha": "18 de Jan del 2026 a las 02:06 PM",
-    "hora_utc": "2026-01-18 19:06",
-    "mensaje": "⚠️Afectado por déficit de capacidad de generación el circuito 6 (Vigía), del municipio Santa Clara.",
-    "timestamp": 1768763203,
-    "timestamp_local": 1768763203
   }
 ]
