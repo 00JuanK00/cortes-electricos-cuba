@@ -1,5 +1,21 @@
 [
   {
+    "id": 103740,
+    "fecha": "18 de Jan del 2026 a las 01:18 AM",
+    "hora_utc": "2026-01-18 06:18",
+    "mensaje": "♦️ Afectado el servicio en el circuito 3655 por disparo♦️",
+    "timestamp": 1768717080,
+    "timestamp_local": 1768717080
+  },
+  {
+    "id": 103739,
+    "fecha": "18 de Jan del 2026 a las 01:17 AM",
+    "hora_utc": "2026-01-18 06:17",
+    "mensaje": "🔷♦️Se restablece el servicio en los siguientes circuitos que se encontraban afectados  por déficit de capacidad de generación:\n*3660\n*3655♦️🔷",
+    "timestamp": 1768717067,
+    "timestamp_local": 1768717067
+  },
+  {
     "id": 103738,
     "fecha": "18 de Jan del 2026 a las 12:55 AM",
     "hora_utc": "2026-01-18 05:55",
@@ -118,21 +134,5 @@
     "mensaje": "🔷 Restablecido el servicio en el circuito 2420 que se encontraba afectado por manipulación  🔷",
     "timestamp": 1768701740,
     "timestamp_local": 1768701740
-  },
-  {
-    "id": 103720,
-    "fecha": "17 de Jan del 2026 a las 08:48 PM",
-    "hora_utc": "2026-01-18 01:48",
-    "mensaje": "🚨Por déficit de capacidad de generación se afecta el servicio en el siguiente circuito:\n*La salud🚨",
-    "timestamp": 1768700905,
-    "timestamp_local": 1768700905
-  },
-  {
-    "id": 103719,
-    "fecha": "17 de Jan del 2026 a las 08:44 PM",
-    "hora_utc": "2026-01-18 01:44",
-    "mensaje": "♦️ Afectado el servicio en el circuito 2420 por Manipulación  ♦️",
-    "timestamp": 1768700653,
-    "timestamp_local": 1768700653
   }
 ]
