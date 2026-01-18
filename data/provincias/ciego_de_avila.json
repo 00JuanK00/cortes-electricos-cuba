@@ -1,5 +1,29 @@
 [
   {
+    "id": 35314,
+    "fecha": "17 de Jan del 2026 a las 09:05 PM",
+    "hora_utc": "2026-01-18 02:05",
+    "mensaje": "✅Se encuentra sin servicio el circuito Combinado Minaz. Se trabaja para restablecer en el menor tiempo posible.",
+    "timestamp": 1768701943,
+    "timestamp_local": 1768701943
+  },
+  {
+    "id": 35313,
+    "fecha": "17 de Jan del 2026 a las 09:03 PM",
+    "hora_utc": "2026-01-18 02:03",
+    "mensaje": "✅Se encuentra sin servicio eléctrico el circuito Santana por cable en el suelo en La Cabera. Se trabaja para restablecer lo antes posible el servicio. Ofrecemos disculpas por las molestias ocasionadas.",
+    "timestamp": 1768701789,
+    "timestamp_local": 1768701789
+  },
+  {
+    "id": 35312,
+    "fecha": "17 de Jan del 2026 a las 07:54 PM",
+    "hora_utc": "2026-01-18 00:54",
+    "mensaje": "‼️ Información del déficit de generación ‼️   \n👉Subimos a 75 MW en la provincia afectados por déficit de generación.\n⏰ Con este déficit, la carga a apagar en la provincia no nos permite realizar una rotación estable de los circuitos, por lo que se afectarán o se restablecerán en dependencia del déficit que haya en cada momento de la jornada, que es muy variable.",
+    "timestamp": 1768697693,
+    "timestamp_local": 1768697693
+  },
+  {
     "id": 35310,
     "fecha": "17 de Jan del 2026 a las 04:19 PM",
     "hora_utc": "2026-01-17 21:19",
@@ -102,29 +126,5 @@
     "mensaje": "‼️ Déficit de Generación ‼️   \n👉Tenemos 0 MW en la provincia.",
     "timestamp": 1768636594,
     "timestamp_local": 1768636594
-  },
-  {
-    "id": 35294,
-    "fecha": "16 de Jan del 2026 a las 11:56 PM",
-    "hora_utc": "2026-01-17 04:56",
-    "mensaje": "‼️ Información ‼️   \n👉En estos momentos bajamos a 25 MW en la provincia afectados por déficit de generación. Con este déficit no podemos cumplir con una programación estable, por lo que los circuitos se afectarán o se restablecerán en dependencia del déficit que haya en cada momento de la jornada.",
-    "timestamp": 1768625817,
-    "timestamp_local": 1768625817
-  },
-  {
-    "id": 35293,
-    "fecha": "16 de Jan del 2026 a las 11:19 PM",
-    "hora_utc": "2026-01-17 04:19",
-    "mensaje": "‼️ Información ‼️   \n👉En estos momentos bajamos a 30 MW en la provincia afectados por déficit de generación. Con este déficit no podemos cumplir con una programación estable, por lo que los circuitos se afectarán o se restablecerán en dependencia del déficit que haya en cada momento de la jornada.",
-    "timestamp": 1768623574,
-    "timestamp_local": 1768623574
-  },
-  {
-    "id": 35292,
-    "fecha": "16 de Jan del 2026 a las 11:03 PM",
-    "hora_utc": "2026-01-17 04:03",
-    "mensaje": "‼️ Déficit de Generación ‼️   \n👉Bajamos a 50 MW en la provincia afectados por déficit de generación.\n👉Se encuentran afectados los siguientes circuitos: \n\n✅3, A110, Expreso, La Cuba, Pesquería, La Cuba II, Gaspar, Nereida, Peonia, Politécnico de Informática, Falla, Ranchuelo, Morón Norte, Morón Centro, Patria, Turiguano, La Piña, Los Negros, La Teresa, El Burro, La Ofelia, Citrico I, Citrico II, Isaca, Citrico III, Citrico IV, Ceballos Pueblo y Combinado Citrico.\n\n⏰ Reiteramos que los circuitos se afectarán o se restablecerán en dependencia del déficit en cada momento de la jornada, que es muy variable.",
-    "timestamp": 1768622611,
-    "timestamp_local": 1768622611
   }
 ]
