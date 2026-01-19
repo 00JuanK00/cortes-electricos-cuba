@@ -1,5 +1,29 @@
 [
   {
+    "id": 38544,
+    "fecha": "19 de Jan del 2026 a las 06:32 PM",
+    "hora_utc": "2026-01-19 23:32",
+    "mensaje": "Afectados 128 MW en la provincia, demanda máxima a apagar en estos momentos.",
+    "timestamp": 1768865521,
+    "timestamp_local": 1768865521
+  },
+  {
+    "id": 38543,
+    "fecha": "19 de Jan del 2026 a las 06:10 PM",
+    "hora_utc": "2026-01-19 23:10",
+    "mensaje": "⚠️Afectados por déficit de capacidad de generación los siguientes circuitos:\n🔹Municipio Santa Clara: \n👉Cto 170 (José Martí)\n👉Cto 171 (Los Caneyes)",
+    "timestamp": 1768864203,
+    "timestamp_local": 1768864203
+  },
+  {
+    "id": 38542,
+    "fecha": "19 de Jan del 2026 a las 06:08 PM",
+    "hora_utc": "2026-01-19 23:08",
+    "mensaje": "🕕Actualización del servicio eléctrico en las últimas 6 horas.\n✍️El déficit de capacidad de generación osciló entre los 67 MW y los 113 MW.\n✍️En el momento de esta nota, se mantienen afectados 128 circuitos.\n✍️Cuenta con 108 afectaciones por averías secundarias y de servicio:\n🔸Caibarién (1)\n🔸Camajuaní  (4)\n🔸Corralillo (2)\n🔸Encrucijada (4)\n🔸Placetas (8)\n🔸Ranchuelo (4)\n🔸Remedios (6) \n🔸Sagua (2) \n🔸Santa Clara (69)\n🔸Santo Domingo (8)\n🛠️Se encuentra 2 avería en vías de solución.\n🛠️Pendientes a solucionar por el área técnica 9.\n⚡La provincia presenta 3 averías primarias:\n👉Afectado parcialmente el circuito 146 (Elevado Aeropuerto), del municipio Santa Clara.\n👉Se encuentra en avería el Cto 30 **(SC. Industrial**) se estudian las causas, perteneciente al municipio Santa Clara.\n👉Se encuentra en avería el Cto 84 (Rodrigo), se estudian las causas, perteneciente al municipio Santo Domingo, actualmente afectado por déficit.",
+    "timestamp": 1768864090,
+    "timestamp_local": 1768864090
+  },
+  {
     "id": 38541,
     "fecha": "19 de Jan del 2026 a las 05:45 PM",
     "hora_utc": "2026-01-19 22:45",
@@ -134,29 +158,5 @@
     "mensaje": "⚠️Afectada por manipulación la línea del 108, perteneciente al municipio Santa Clara.\n🔹Municipio Ranchuelo:\n👉Cto 92 Esperanza (Pueblo)\n👉Cto 93 Esperanza (Campo)\n👉Ctos 54, 94 y 95 Jicotea\n🔹Municipio Santa Clara\n👉Ctos 26 y 141 (Manuelita)\n👉Cto 191 (Quemado de Hilario) \n🔹Municipio Santo Domingo\n👉Cto 79 (Santo Domingo)\n👉Cto 81 (26 de Julio)\n👉Cto 163 (Batey 26 de Julio",
     "timestamp": 1768843864,
     "timestamp_local": 1768843864
-  },
-  {
-    "id": 38524,
-    "fecha": "19 de Jan del 2026 a las 12:26 PM",
-    "hora_utc": "2026-01-19 17:26",
-    "mensaje": "⚡En avería el Cto 79 perteneciente al municipio de Santo Domingo, por rama de árbol encima de la línea. Se dará Vía Libre para retirarla y dar servicio.",
-    "timestamp": 1768843618,
-    "timestamp_local": 1768843618
-  },
-  {
-    "id": 38523,
-    "fecha": "19 de Jan del 2026 a las 12:08 PM",
-    "hora_utc": "2026-01-19 17:08",
-    "mensaje": "🕛Actualización del servicio eléctrico en las últimas 6 horas.\n✍️El déficit de capacidad de generación osciló entre los 69 MW y los 46 MW.\n✍️En el momento de esta nota, se mantienen afectados 79 circuitos.\n✍️Cuenta con 107 afectaciones por averías secundarias y de servicio:\n🔸Caibarién (2)\n🔸Camajuaní  (2)\n🔸Encrucijada (2)\n🔸Manicaragua (1)\n🔸Placetas (6)\n🔸Ranchuelo (10)\n🔸Remedios (6) \n🔸Sagua (8) \n🔸Santa Clara (58)\n🔸Santo Domingo (12)\n🛠️Se encuentra 2 avería en vías de solución.\n🛠️Pendientes a solucionar por el área técnica 8.\n⚡La provincia presenta 1 avería primaria:\n👉Afectado parcialmente el circuito 146 (Elevado Aeropuerto), del municipio Santa Clara.",
-    "timestamp": 1768842480,
-    "timestamp_local": 1768842480
-  },
-  {
-    "id": 38522,
-    "fecha": "19 de Jan del 2026 a las 11:53 AM",
-    "hora_utc": "2026-01-19 16:53",
-    "mensaje": "💡Con servicio los siguientes circuitos:\n🔹Municipio Placetas \n👉Ctos 100 y 151 Placetas\n👉Cto 104 Hermanos Amejeiras\n👉Cto 103 Batey Carbó Servia",
-    "timestamp": 1768841595,
-    "timestamp_local": 1768841595
   }
 ]
