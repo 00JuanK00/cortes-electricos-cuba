@@ -1,9 +1,17 @@
 [
   {
+    "id": 31370,
+    "fecha": "19 de Jan del 2026 a las 01:30 AM",
+    "hora_utc": "2026-01-19 06:30",
+    "mensaje": "⚡ Déficit de capacidad de generación en la provincia: ***56 MW .***",
+    "timestamp": 1768804238,
+    "timestamp_local": 1768804238
+  },
+  {
     "id": 31369,
     "fecha": "19 de Jan del 2026 a las 01:27 AM",
     "hora_utc": "2026-01-19 06:27",
-    "mensaje": "CON SERVICIO\n\n- Circuito 4604que da servicio a Martí-Itabo-Hoyo Colorado.\n- Circuito 4985 que da servicio a Poblado de Cantel, Guásimas, Finca Vega",
+    "mensaje": "CON SERVICIO\n\n- Circuito 4604que da servicio a Martí-Itabo-Hoyo Colorado.\n- Circuito 4985 que da servicio a Poblado de Cantel, Guásimas, Finca Vega\n- Circuito 4480 que da servicio a Cítrico y Jagüey circuitos 1 y 2.",
     "timestamp": 1768804037,
     "timestamp_local": 1768804037
   },
@@ -150,13 +158,5 @@
     "mensaje": "⚡ Déficit de capacidad de generación en la provincia: * 121 MW .*",
     "timestamp": 1768773376,
     "timestamp_local": 1768773376
-  },
-  {
-    "id": 31349,
-    "fecha": "18 de Jan del 2026 a las 04:16 PM",
-    "hora_utc": "2026-01-18 21:16",
-    "mensaje": "⚡La provincia presenta una afectación de 105 MW  en estos momentos⚡",
-    "timestamp": 1768770966,
-    "timestamp_local": 1768770966
   }
 ]
