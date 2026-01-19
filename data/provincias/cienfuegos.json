@@ -1,5 +1,21 @@
 [
   {
+    "id": 46423,
+    "fecha": "19 de Jan del 2026 a las 02:23 PM",
+    "hora_utc": "2026-01-19 19:23",
+    "mensaje": "⚠Disparo automático por frecuencia (DAF).\n\nUn disparo por frecuencia o Descarga Automática por Frecuencia, es una protección que posee el sistema eléctrico para cuando la frecuencia llega a valores mínimos permisibles que ponen en peligro la estabilidad de todo el sistema en su conjunto y provoca una desconexión automática de algunos circuitos hasta que se vuelva a recuperar su valor nominal a 60Hz o ciclos por segundo.",
+    "timestamp": 1768850632,
+    "timestamp_local": 1768850632
+  },
+  {
+    "id": 46422,
+    "fecha": "19 de Jan del 2026 a las 02:22 PM",
+    "hora_utc": "2026-01-19 19:22",
+    "mensaje": "⚠Se comunica a nuestros clientes que se encuentra afectado el servicio por Disparo Automático por Frecuencia (DAF), la línea:\n\n👉L-1410 Horquita, San Ignacio.\n\n📌Se trabaja para restablecer el servicio lo antes posible.\n\n👉Ofrecemos disculpas por las molestias ocasionadas.",
+    "timestamp": 1768850553,
+    "timestamp_local": 1768850553
+  },
+  {
     "id": 46421,
     "fecha": "19 de Jan del 2026 a las 01:53 PM",
     "hora_utc": "2026-01-19 18:53",
@@ -118,13 +134,5 @@
     "mensaje": "🔊🔊Información del Despacho de Carga Provincial:\n\nEn el día de ayer en nuestra provincia se afectó el servicio por déficit de capacidad durante las 24 horas. Se brindó servicio eléctrico entre 3 y 4 horas.\n\n\n📌El nivel total de afectación en la provincia fue de 75 MW. \n\n📌En el país la máxima afectación fue de 1943 MW.\n\n📌Se protegieron para abasto de agua 💧 en el horario comprendido de 09:00 am hasta la 01:00 pm,(4 horas continuas) con una carga total de 6 MW, los circuitos:\n\n👉C-17 Ave 5 de sept, Distrito Petrolero, Hermanas Giralt.\n👉C-19 Tulipán.\n👉C-76 Punta la Cueva, Junco Viejo.\n\n📌Circuito en fallo:\n\n👉C-90 La Josefa, La Colmena, Arroyo Arenas, Lagunilla, Loma Abreus, Lajitas, Loma del Rosario, La Sabana, Pueblo Nuevo, Ciego Alonso.\n\n📌Líneas afectadas por Disparo Automático por Frecuencia (DAF):\n\n👉L-1410 Horquita - San Ignacio\n👉L-1640 Zona Industrial.\n👉L-76 Cruces.\n👉L-1885 Juragúa-Cen.\n\n📌En función del déficit de capacidad de generación previsto para el país hoy 19 de enero, en la provincia de Cienfuegos para el horario diurno se estima una afectación de 50 MW y 85 MW en el horario nocturno.",
     "timestamp": 1768825710,
     "timestamp_local": 1768825710
-  },
-  {
-    "id": 46403,
-    "fecha": "19 de Jan del 2026 a las 07:27 AM",
-    "hora_utc": "2026-01-19 12:27",
-    "mensaje": "🚨Nota informativa🚨\n\nSituación del SEN para el 19 de enero de 2026.\n\nEn el día de ayer se afectó el servicio durante las 24 horas. La máxima afectación por déficit de capacidad de generación en el día de ayer fue de 1943 MW a las 18:10 horas y superior a lo pronosticado por estar fuera de servicio la unidad 8 de la CTE Mariel y demanda por encima del pronóstico.\n\nLa producción de energía de los 38 nuevos parques solares fotovoltaicos fue de 2097 MWh, con 473 MW como máxima potencia entregada en el horario de la media con esta fuente de generación. \n\nLa disponibilidad del SEN a las 06:00 horas es de 1360 MW, la demanda 2150 MW, con 750 MW. En el horario de la media se estima una afectación de 1100 MW.  \n\nSe encuentran en avería las unidades 5 y 8 de la CTE Mariel, la unidad 3 de la CTE Cienfuegos, la unidad 2 de la CTE Felton y la unidad 5 de la CTE Renté. Se encuentran en mantenimiento la unidad 2 de la CTE Santa Cruz y la unidad 4 de la CTE Cienfuegos.\n\nLas limitaciones en la generación térmica son de 600 MW. \n\nSe encuentran fuera de servicio por combustible 101centrales de generación distribuida con 927 MW, 30 MW de la patana de Melones, y 156 MW indisponible por falta de lubricante, para un total de 1113 MW.\n\nPara el horario Pico se espera la entrada de los motores de la Patana de Melones con 45 MW.\n\nCon este pronóstico para el pico se prevé una disponibilidad de 1405 MW con una demanda máxima de 3280 MW, para un déficit de 1875 MW, por lo que de mantenerse las condiciones previstas se pronostica una afectación de 1905 MW en este horario.\n\nUNE-MINEM---07:00 horas.",
-    "timestamp": 1768825652,
-    "timestamp_local": 1768825652
   }
 ]
