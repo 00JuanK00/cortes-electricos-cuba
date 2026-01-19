@@ -1,5 +1,37 @@
 [
   {
+    "id": 38484,
+    "fecha": "18 de Jan del 2026 a las 08:34 PM",
+    "hora_utc": "2026-01-19 01:34",
+    "mensaje": "Con servicio la línea 1780:\n🔹Municipio Santa Clara:\nCtos 23 y 130 La Ceniza\nCto 16 (Cubanacán)\nCto 42 Manajanabo\nMunicipio Placetas\nCto 139 Miller\nCto 190 Oliver\nCto 106 Falcón",
+    "timestamp": 1768786452,
+    "timestamp_local": 1768786452
+  },
+  {
+    "id": 38483,
+    "fecha": "18 de Jan del 2026 a las 08:01 PM",
+    "hora_utc": "2026-01-19 01:01",
+    "mensaje": "Actualización del servicio eléctrico en la provincia🔸\n✍️Se mantienen afectados en la provincia 138 circuitos.\n✍️En el momento de hacer esta nota la provincia tiene 107 MW por déficit de capacidad de generación.\n✍️Cuenta con 74 afectaciones por averías secundarias y de servicio.",
+    "timestamp": 1768784469,
+    "timestamp_local": 1768784469
+  },
+  {
+    "id": 38482,
+    "fecha": "18 de Jan del 2026 a las 07:58 PM",
+    "hora_utc": "2026-01-19 00:58",
+    "mensaje": "🛠️Afectado por disparo el circuito 2 (Consejo-Centro), del municipio Santa Clara. Se estudian las causas.",
+    "timestamp": 1768784303,
+    "timestamp_local": 1768784303
+  },
+  {
+    "id": 38481,
+    "fecha": "18 de Jan del 2026 a las 07:55 PM",
+    "hora_utc": "2026-01-19 00:55",
+    "mensaje": "Con servicio la línea 6375:\n🔸Municipio Santa Clara\nCto 7 (Universidad)  \nCto 146 (Elevado Aeropuerto)(Restablecido parcialmente) \nCto 22 (Construcciones Textil)\nCto 131 (Las Antillas)\nCto 153 (EIDE) \nCtos 14, 15 y 27 (Maleza)\nCto 24 Planta Asfalto\nCto 25 Los Güiros\nCto 35 Biotecnología",
+    "timestamp": 1768784145,
+    "timestamp_local": 1768784145
+  },
+  {
     "id": 38480,
     "fecha": "18 de Jan del 2026 a las 07:36 PM",
     "hora_utc": "2026-01-19 00:36",
@@ -118,45 +150,5 @@
     "mensaje": "⚠️Afectados por déficit de capacidad de generación los siguientes circuitos:\n🔹Municipio Santo Domingo:\nCto 195 Batey George Washington\nCtos 83 y 165 Manacas\nCto 85 Pajarito\nCto 86 Pajarito (Avería parcial)\nCtos 160 y 161 Cascajal",
     "timestamp": 1768768968,
     "timestamp_local": 1768768968
-  },
-  {
-    "id": 38464,
-    "fecha": "18 de Jan del 2026 a las 03:25 PM",
-    "hora_utc": "2026-01-18 20:25",
-    "mensaje": "⚠️Afectados por déficit de capacidad de generación los siguientes circuitos:\n🔹Municipio Encrucijada:\nCto 122 Encrucijada  \nCto 123 Vizcaya \nCto 142 Comunidad La Sierra \nCto 126 Batey Emilio Córdova\nCto 125 Cavarrocas\nCto 124 El Santo\n🔹Municipio Camajuaní:                                                              \nCto 78 Jutiero\n🔹Municipio Santa Clara:\nCto 144 (Camacho)",
-    "timestamp": 1768767928,
-    "timestamp_local": 1768767928
-  },
-  {
-    "id": 38463,
-    "fecha": "18 de Jan del 2026 a las 03:15 PM",
-    "hora_utc": "2026-01-18 20:15",
-    "mensaje": "⚡Vía libre en el Cto 16 (Cubanacán), del municipio Santa Clara, para trabajar puentes partidos en la subestación.",
-    "timestamp": 1768767328,
-    "timestamp_local": 1768767328
-  },
-  {
-    "id": 38462,
-    "fecha": "18 de Jan del 2026 a las 03:07 PM",
-    "hora_utc": "2026-01-18 20:07",
-    "mensaje": "🛠️ Manipulación de la línea 1780:\nAfecta los siguientes circuitos:\n🔹Municipio Santa Clara:\nCtos 23 y 130 La Ceniza\nCto 16 (Cubanacán)(Avería)\nCto 42 Manajanabo\nMunicipio Placetas\nCto 139 Miller\nCto 190 Oliver\nCto 106 Falcón\nCtos 98 y 99 Placetas",
-    "timestamp": 1768766864,
-    "timestamp_local": 1768766864
-  },
-  {
-    "id": 38461,
-    "fecha": "18 de Jan del 2026 a las 02:58 PM",
-    "hora_utc": "2026-01-18 19:58",
-    "mensaje": "Restablecido el servicio en su totalidad en el circuito 55 (Rancho Veloz), del municipio Corralillo.",
-    "timestamp": 1768766323,
-    "timestamp_local": 1768766323
-  },
-  {
-    "id": 38460,
-    "fecha": "18 de Jan del 2026 a las 02:57 PM",
-    "hora_utc": "2026-01-18 19:57",
-    "mensaje": "⚠️Afectados por déficit de capacidad de generación los siguientes circuitos:\n🔹Municipio Placetas \nCtos 100 y 151 Placetas\nCto 104 Hermanos Amejeiras\nCto 103 Batey Carbó Servia",
-    "timestamp": 1768766223,
-    "timestamp_local": 1768766223
   }
 ]
