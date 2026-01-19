@@ -1,5 +1,13 @@
 [
   {
+    "id": 17893,
+    "fecha": "19 de Jan del 2026 a las 09:30 AM",
+    "hora_utc": "2026-01-19 14:30",
+    "mensaje": "**Nota Informativa: Estado del Sistema Eléctrico Nacional (SEN) – 19 de enero de 2026**\nEn el día de ayer se afectó el servicio durante las 24 horas. La máxima afectación por déficit de capacidad de generación en el día de ayer fue de 1943 MW a las 18:10 horas y superior a lo pronosticado por estar fuera de servicio la unidad 8 de la CTE Mariel y demanda por encima del pronóstico.\nLa producción de energía de los 38 nuevos parques solares fotovoltaicos fue de 2097 MWh, con 473 MW como máxima potencia entregada en el horario de la media con esta fuente de generación.\n**Estado actual del SEN**\nLa disponibilidad del SEN a las 06:00 horas es de 1360 MW, la demanda 2150 MW, con 750 MW. En el horario de la media se estima una afectación de 1100 MW.\n**Principales incidencias**\nAvería: Unidades 5 y 8 de la CTE Mariel, Unidad 3 de la CTE Carlos Manuel de Céspedes, Unidad 2 de la CTE Felton y Unidad 5 de la CTE Antonio Maceo.\nMantenimiento: Unidad 2 de la CTE Sata Cruz, Unidad 4 de la CTE Carlos Manuel de Céspedes en Cienfuegos.\nLimitaciones en la generación térmica: 600 MW fuera de servicio.\nProblemas por falta de combustible\n101 centrales de generación distribuida con 927 MW.\n30 MW de la Patana de Melones.\n156 MW indisponibles por falta de lubricante.\nTotal de MW afectados por esta causa: 1113 MW.\n**Pronóstico para el horario pico**\nPara el horario Pico se espera la entrada de los motores de la Patana de Melones con 45 MW.\nCon este pronóstico para el pico se prevé una disponibilidad de 1405 MW con una demanda máxima de 3280 MW, para un déficit de 1875 MW, por lo que de mantenerse las condiciones previstas se pronostica una afectación de 1905 MW en este horario.",
+    "timestamp": 1768833021,
+    "timestamp_local": 1768833021
+  },
+  {
     "id": 17892,
     "fecha": "19 de Jan del 2026 a las 06:14 AM",
     "hora_utc": "2026-01-19 11:14",
@@ -110,13 +118,5 @@
     "mensaje": "Se afectan además los circuitos:\nCircuito 33 Kv: 6820 Poblado Amancio\nTK75 Vicente Pérez \nTK77 San Alberto\nTK78 Ana Luisa\nTK76 El Paraíso\nTK25 Cuatro Caminos, Dormitorio\nTK53 La Morena y El Malecón",
     "timestamp": 1768668731,
     "timestamp_local": 1768668731
-  },
-  {
-    "id": 17873,
-    "fecha": "17 de Jan del 2026 a las 11:38 AM",
-    "hora_utc": "2026-01-17 16:38",
-    "mensaje": "NOTA PARA INFORMAR LA MÁXIMA CAPACIDAD APAGABLE:\nEstimados clientes,\nLes informamos que, debido a la actual situación energética del país, nuestra provincia se encuentra operando bajo la máxima capacidad apagable. Esto significa que todos los circuitos eléctricos que pueden ser desconectados temporalmente están siendo utilizados para mantener el equilibrio del sistema nacional.\n\nQUE SIGNIFICA E IMPLICA LA MÁXIMA CAPACIDAD APAGABLE EN LA PROVINCIA: \nMáxima capacidad apagable se refiere al nivel máximo de demanda eléctrica que puede ser desconectada o suspendida temporalmente en la provincia, explica la complejidad del déficit de generación o contingencias en el sistema eléctrico.\nRepresenta el límite superior de la reducción de carga que la empresa puede lograr mediante cortes de energía (apagones). Cuanto mayor sea la máxima capacidad apagable, mayor será el déficit de energía.\n¿Qué implica esto?\nSe identifica cuántos circuitos pueden ser apagados para equilibrar la carga del sistema, esto imposibilita realizar rotaciones, pues a excepción de los servicios priorizados, se encuentran afectados todos los circuitos apagables del territorio. Podrán presentarse afectaciones en el servicio de electricidad durante varias horas al día y el tiempo con servicio dependerá del comportamiento del SEN. Esta medida es necesaria para evitar fallas mayores y proteger la infraestructura eléctrica.",
-    "timestamp": 1768667889,
-    "timestamp_local": 1768667889
   }
 ]
