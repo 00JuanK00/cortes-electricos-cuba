@@ -1,5 +1,21 @@
 [
   {
+    "id": 38563,
+    "fecha": "20 de Jan del 2026 a las 12:41 AM",
+    "hora_utc": "2026-01-20 05:41",
+    "mensaje": "💡Con servicio el siguiente circuito:\n🔹Municipio Santa Clara:\n👉Cto 26 (Manuelita)",
+    "timestamp": 1768887663,
+    "timestamp_local": 1768887663
+  },
+  {
+    "id": 38562,
+    "fecha": "20 de Jan del 2026 a las 12:08 AM",
+    "hora_utc": "2026-01-20 05:08",
+    "mensaje": "⚠️Afectado por manipulación el Cto 26 (Manuelita), perteneciente al municipio Santa Clara, para reponer banco de transformador.",
+    "timestamp": 1768885719,
+    "timestamp_local": 1768885719
+  },
+  {
     "id": 38561,
     "fecha": "20 de Jan del 2026 a las 12:00 AM",
     "hora_utc": "2026-01-20 05:00",
@@ -59,7 +75,7 @@
     "id": 38554,
     "fecha": "19 de Jan del 2026 a las 09:28 PM",
     "hora_utc": "2026-01-20 02:28",
-    "mensaje": "💡Con servicio los siguientes circuitos:\n🔹Municipio Encrucijada\n👉Cto 120 Calabaza\n👉Ctos 121 y 127 Perucho",
+    "mensaje": "💡Con servicio los siguientes circuitos:\n🔹Municipio Encrucijada\n👉Cto 120 Calabazar\n👉Ctos 121 y 127 Perucho",
     "timestamp": 1768876096,
     "timestamp_local": 1768876096
   },
@@ -134,21 +150,5 @@
     "mensaje": "Afectados 128 MW en la provincia, demanda máxima a apagar en estos momentos.",
     "timestamp": 1768865521,
     "timestamp_local": 1768865521
-  },
-  {
-    "id": 38543,
-    "fecha": "19 de Jan del 2026 a las 06:10 PM",
-    "hora_utc": "2026-01-19 23:10",
-    "mensaje": "⚠️Afectados por déficit de capacidad de generación los siguientes circuitos:\n🔹Municipio Santa Clara: \n👉Cto 170 (José Martí)\n👉Cto 171 (Los Caneyes)",
-    "timestamp": 1768864203,
-    "timestamp_local": 1768864203
-  },
-  {
-    "id": 38542,
-    "fecha": "19 de Jan del 2026 a las 06:08 PM",
-    "hora_utc": "2026-01-19 23:08",
-    "mensaje": "🕕Actualización del servicio eléctrico en las últimas 6 horas.\n✍️El déficit de capacidad de generación osciló entre los 67 MW y los 113 MW.\n✍️En el momento de esta nota, se mantienen afectados 128 circuitos.\n✍️Cuenta con 108 afectaciones por averías secundarias y de servicio:\n🔸Caibarién (1)\n🔸Camajuaní  (4)\n🔸Corralillo (2)\n🔸Encrucijada (4)\n🔸Placetas (8)\n🔸Ranchuelo (4)\n🔸Remedios (6) \n🔸Sagua (2) \n🔸Santa Clara (69)\n🔸Santo Domingo (8)\n🛠️Se encuentra 2 avería en vías de solución.\n🛠️Pendientes a solucionar por el área técnica 9.\n⚡La provincia presenta 2 averías primarias:\n👉Se encuentra en avería el Cto 30 **(SC. Industrial**) se estudian las causas, perteneciente al municipio Santa Clara.\n👉Se encuentra en avería el Cto 84 (Rodrigo), se estudian las causas, perteneciente al municipio Santo Domingo, actualmente afectado por déficit.",
-    "timestamp": 1768864090,
-    "timestamp_local": 1768864090
   }
 ]
