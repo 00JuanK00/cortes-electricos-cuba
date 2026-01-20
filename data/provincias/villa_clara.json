@@ -1,9 +1,25 @@
 [
   {
+    "id": 38584,
+    "fecha": "20 de Jan del 2026 a las 08:41 AM",
+    "hora_utc": "2026-01-20 13:41",
+    "mensaje": "⚠️Afectados por déficit de capacidad de generación los siguientes circuitos:\n🔹Municipio Cifuentes:\n👉Ctos 114 y 117👉Ctos 116 y 155 Mata\n👉Cto 186 Batey Unidad Proletaria\n👉Cto 184 Sitio Grande",
+    "timestamp": 1768916477,
+    "timestamp_local": 1768916477
+  },
+  {
+    "id": 38583,
+    "fecha": "20 de Jan del 2026 a las 08:34 AM",
+    "hora_utc": "2026-01-20 13:34",
+    "mensaje": "💡Con servicio eléctrico los siguientes circuitos:\n🔹Municipio Quemado:\n👉Ctos 52,53 y 164",
+    "timestamp": 1768916081,
+    "timestamp_local": 1768916081
+  },
+  {
     "id": 38582,
     "fecha": "20 de Jan del 2026 a las 08:31 AM",
     "hora_utc": "2026-01-20 13:31",
-    "mensaje": "💡Con servicio los siguientes circuitos:🔹Municipio Camajuaní:\n👉Cto 75 La Quinta\n👉Cto 157 Luis Arcos Bergnes\n👉Ctos 76 y 90 Vega Alta\n👉Ctos 77 y 185 Vueltas",
+    "mensaje": "💡Con servicio los siguientes circuitos:\n🔹Municipio Camajuaní:\n👉Cto 75 La Quinta\n👉Cto 157 Luis Arcos Bergnes\n👉Ctos 76 y 90 Vega Alta\n👉Ctos 77 y 185 Vueltas",
     "timestamp": 1768915863,
     "timestamp_local": 1768915863
   },
@@ -118,21 +134,5 @@
     "mensaje": "Actualización del servicio eléctrico en la provincia🔸\n✍️Se mantienen afectados en la provincia 63 circuitos.\n✍️En el momento de hacer esta nota la provincia tiene 30 MW por déficit de capacidad de generación.\n✍️Cuenta con 84 afectaciones por averías secundarias y de servicio",
     "timestamp": 1768893458,
     "timestamp_local": 1768893458
-  },
-  {
-    "id": 38564,
-    "fecha": "20 de Jan del 2026 a las 01:11 AM",
-    "hora_utc": "2026-01-20 06:11",
-    "mensaje": "Afectados 30 MW en la provincia, demanda máxima a apagar en estos momentos.",
-    "timestamp": 1768889467,
-    "timestamp_local": 1768889467
-  },
-  {
-    "id": 38563,
-    "fecha": "20 de Jan del 2026 a las 12:41 AM",
-    "hora_utc": "2026-01-20 05:41",
-    "mensaje": "💡Con servicio el siguiente circuito:\n🔹Municipio Santa Clara:\n👉Cto 26 (Manuelita)",
-    "timestamp": 1768887663,
-    "timestamp_local": 1768887663
   }
 ]
