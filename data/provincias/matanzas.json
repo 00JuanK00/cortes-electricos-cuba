@@ -1,5 +1,13 @@
 [
   {
+    "id": 31452,
+    "fecha": "20 de Jan del 2026 a las 05:11 PM",
+    "hora_utc": "2026-01-20 22:11",
+    "mensaje": "¡Estimados clientes! ‼️\n\n🪫 La provincia se encuentra en el máximo apagable con un déficit de capacidad de generación de 136 MW.\n\n🔄 Una vez que podamos rotar el servicio, iremos restableciendo de manera paulatina los circuitos que han estado más tiempo sin suministro de energía eléctrica en dependencia del comportamiento de la demanda y la disponibilidad del sistema eléctrico.",
+    "timestamp": 1768947070,
+    "timestamp_local": 1768947070
+  },
+  {
     "id": 31451,
     "fecha": "20 de Jan del 2026 a las 04:57 PM",
     "hora_utc": "2026-01-20 21:57",
@@ -150,13 +158,5 @@
     "mensaje": "*⚡Déficit de capacidad de generación en la provincia: 73 MW . ⚡*",
     "timestamp": 1768907868,
     "timestamp_local": 1768907868
-  },
-  {
-    "id": 31432,
-    "fecha": "20 de Jan del 2026 a las 06:17 AM",
-    "hora_utc": "2026-01-20 11:17",
-    "mensaje": "⚠Disparo automático por frecuencia (DAF) del circuito 4945 que da servicio a Cidra, Sabanilla,circuito 4074 que da servicio a Indio Hatuey, Batey Admiración, San Antonio, La Angelina, Máximo Gómez, Batey el Coloso, Carolina, Santa Rosa, Capitolio, Población de Julio Reyes Cairo, Gratitud, Batey Cuba Libre y la Rueda, Batey y Pollera La Fermina, Acueducto San Vicente, Bombeo Epica, Finca Fortunita y Rolando.CIRCUITO 4075 ES DE 33KV PERO DENTRO TIENE A 4071 Y 4072.\n\nTerminología \nUn disparo por frecuencia o Descarga Automática por Frecuencia (DAF), es una protección que posee el sistema eléctrico para cuando la frecuencia llega a valores mínimos permisibles que ponen en peligro la estabilidad de todo el sistema en su conjunto y provoca una desconexión automática de algunos circuitos hasta que se vuelva a recuperar su valor nominal a 60Hz o ciclos por segundo.",
-    "timestamp": 1768907822,
-    "timestamp_local": 1768907822
   }
 ]
