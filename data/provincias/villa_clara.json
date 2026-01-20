@@ -1,5 +1,53 @@
 [
   {
+    "id": 38623,
+    "fecha": "20 de Jan del 2026 a las 03:34 PM",
+    "hora_utc": "2026-01-20 20:34",
+    "mensaje": "Afectados 83 MW en la provincia, demanda máxima a apagar en estos momentos.",
+    "timestamp": 1768941287,
+    "timestamp_local": 1768941287
+  },
+  {
+    "id": 38622,
+    "fecha": "20 de Jan del 2026 a las 03:31 PM",
+    "hora_utc": "2026-01-20 20:31",
+    "mensaje": "⚠️Afectados por déficit de capacidad de generación los siguientes circuitos:\n🔹Municipio Santa Clara:\n👉Cto 146 (Elevado Aeropuerto) \n👉Cto 22 (Construcciones Textil)\n👉Ctos 14 y 27 (Maleza)\n👉Cto 35 Biotecnología \n👉Cto 144 Camacho",
+    "timestamp": 1768941064,
+    "timestamp_local": 1768941064
+  },
+  {
+    "id": 38621,
+    "fecha": "20 de Jan del 2026 a las 03:23 PM",
+    "hora_utc": "2026-01-20 20:23",
+    "mensaje": "⚠️Afectados por déficit de capacidad de generación los siguientes circuitos:\n🔹Municipio Santa Clara\n👉Ctos 132 y 162 SC Industrial\n👉Cto 31 (Sakenaf)",
+    "timestamp": 1768940627,
+    "timestamp_local": 1768940627
+  },
+  {
+    "id": 38620,
+    "fecha": "20 de Jan del 2026 a las 03:07 PM",
+    "hora_utc": "2026-01-20 20:07",
+    "mensaje": "⚠️Afectados por déficit de capacidad de generación los siguientes circuitos:\n🔹Municipio Ranchuelo:\n👉Cto 92 Esperanza (Pueblo)\n👉Cto 93 Esperanza (Campo)\n👉Ctos 54, 94 y 95 Jicotea\n🔹Municipio Santa Clara\n👉Ctos 26 y 141 (Manuelita)\n👉Cto 191 (Quemado de Hilario) \n🔹Municipio Santo Domingo\n👉Cto 79 (Santo Domingo)\n👉Cto 81 (26 de Julio)\n👉Cto 163 (Batey 26 de Julio",
+    "timestamp": 1768939638,
+    "timestamp_local": 1768939638
+  },
+  {
+    "id": 38619,
+    "fecha": "20 de Jan del 2026 a las 03:00 PM",
+    "hora_utc": "2026-01-20 20:00",
+    "mensaje": "⚠️Afectados por déficit de capacidad de generación los siguiente circuitos:\n🔹Municipio Santa Clara:\n👉Ctos 2 y 4 (Consejo- Centro)",
+    "timestamp": 1768939233,
+    "timestamp_local": 1768939233
+  },
+  {
+    "id": 38618,
+    "fecha": "20 de Jan del 2026 a las 02:58 PM",
+    "hora_utc": "2026-01-20 19:58",
+    "mensaje": "⚠️Afectados por déficit de capacidad de generación los siguientes circuitos:\n🔹Municipio Encrucijada:\n👉Cto 122 Encrucijada  \n👉Cto 123 Vizcaya \n👉Cto 142 Comunidad La Sierra \n👉Cto 126 Batey Emilio Córdova\n👉Cto 125 Cavarrocas\n👉Cto 124 El Santo\n🔹Municipio Camajuaní:                                                              \n👉Cto 78 Jutiero",
+    "timestamp": 1768939093,
+    "timestamp_local": 1768939093
+  },
+  {
     "id": 38617,
     "fecha": "20 de Jan del 2026 a las 02:47 PM",
     "hora_utc": "2026-01-20 19:47",
@@ -11,7 +59,7 @@
     "id": 38616,
     "fecha": "20 de Jan del 2026 a las 02:47 PM",
     "hora_utc": "2026-01-20 19:47",
-    "mensaje": "⚠️Afectados por déficit de capacidad de generación el siguiente circuito:\n🔹Municipio Santo Domingo:\n👉Cto 134\n👉Ctos 87 y 96 Bermejal\n👉Cto 187 Batey Carlos Baliño\n👉Cto 82 Ulacia\n👉Cto 84 Rodrigo",
+    "mensaje": "⚠️Afectados por déficit de capacidad de generación los siguientes circuitos:\n🔹Municipio Santo Domingo:\n👉Cto 134\n👉Ctos 87 y 96 Bermejal\n👉Cto 187 Batey Carlos Baliño\n👉Cto 82 Ulacia\n👉Cto 84 Rodrigo",
     "timestamp": 1768938431,
     "timestamp_local": 1768938431
   },
@@ -59,7 +107,7 @@
     "id": 38610,
     "fecha": "20 de Jan del 2026 a las 01:07 PM",
     "hora_utc": "2026-01-20 18:07",
-    "mensaje": "⚠️Afectados por déficit de capacidad de generación el siguiente circuito:\n🔹Municipio Placetas:\n 👉Cto 107 Baez\n🔹Municipio Santa Clara:\n👉Cto 6 (Vigía)",
+    "mensaje": "⚠️Afectados por déficit de capacidad de generación los siguientes circuitos:\n🔹Municipio Placetas:\n 👉Cto 107 Baez\n🔹Municipio Santa Clara:\n👉Cto 6 (Vigía)",
     "timestamp": 1768932442,
     "timestamp_local": 1768932442
   },
@@ -110,53 +158,5 @@
     "mensaje": "🕛Actualización del servicio eléctrico en las últimas 6 horas.\n✍️El déficit de capacidad de generación osciló entre los 55 MW y los 62 MW.\n✍️En el momento de esta nota, se mantienen afectados 61 circuitos.\n✍️Cuenta con 113  afectaciones por averías secundarias y de servicio:\n🔸Caibarién (3)\n🔸Camajuani (3)\n🔸Cifuentes (2)\n🔸Corralillo ( 1)\n🔸Encrucijada (1)\n🔸Manicaragua (1)\n🔸Placetas (7)\n🔸Ranchuelo (2)\n🔸Remedios (7) \n🔸Sagua (13) \n🔸Santa Clara (65)\n🔸Santo Domingo (8)\n🛠️Se encuentra 7 avería en vías de solución.\n🛠️Pendientes a solucionar por el área técnica 7.\n⚡La provincia presenta no presenta avería primaria:",
     "timestamp": 1768928848,
     "timestamp_local": 1768928848
-  },
-  {
-    "id": 38603,
-    "fecha": "20 de Jan del 2026 a las 11:56 AM",
-    "hora_utc": "2026-01-20 16:56",
-    "mensaje": "⚠️Afectados por déficit de capacidad de generación los siguientes circuitos:\n🔹Municipio Quemado:\n👉Ctos 164, 52 y 53 Quemado.",
-    "timestamp": 1768928181,
-    "timestamp_local": 1768928181
-  },
-  {
-    "id": 38602,
-    "fecha": "20 de Jan del 2026 a las 11:49 AM",
-    "hora_utc": "2026-01-20 16:49",
-    "mensaje": "⚠️Afectados por déficit de capacidad de generación los siguientes circuitos:\n🔹Municipio Placetas:\n👉Cto 192 Benito Juárez\n👉Cto 102 Peroti",
-    "timestamp": 1768927791,
-    "timestamp_local": 1768927791
-  },
-  {
-    "id": 38601,
-    "fecha": "20 de Jan del 2026 a las 11:26 AM",
-    "hora_utc": "2026-01-20 16:26",
-    "mensaje": "⚠️Afectados por déficit de capacidad de generación los siguientes circuitos:\n🔹Municipio Camajuani:\n👉Cto 129 y 72",
-    "timestamp": 1768926414,
-    "timestamp_local": 1768926414
-  },
-  {
-    "id": 38600,
-    "fecha": "20 de Jan del 2026 a las 11:24 AM",
-    "hora_utc": "2026-01-20 16:24",
-    "mensaje": "⚡Afectados los siguientes circuitos por manipulacion:\n🔹Municipio Santa Clara\n👉Cto 7 (Universidad)  \n👉Cto 146 (Elevado Aeropuerto) \n👉Cto 22 (Construcciones Textil)\n👉Cto 131 (Las Antillas)\n👉Cto 153 (EIDE) \n👉Ctos 14, 15 y 27 (Maleza)",
-    "timestamp": 1768926269,
-    "timestamp_local": 1768926269
-  },
-  {
-    "id": 38599,
-    "fecha": "20 de Jan del 2026 a las 11:14 AM",
-    "hora_utc": "2026-01-20 16:14",
-    "mensaje": "💡Con servicio eléctrico los siguientes circuitos:\n🔹Municipio Encrucijada:\n👉Cto 122 Encrucijada  \n👉Cto 123 Vizcaya \n👉Cto 142 Comunidad La Sierra \n👉Cto 126 Batey Emilio Córdova\n👉Cto 125 Cavarrocas\n👉Cto 124 El Santo",
-    "timestamp": 1768925666,
-    "timestamp_local": 1768925666
-  },
-  {
-    "id": 38598,
-    "fecha": "20 de Jan del 2026 a las 11:01 AM",
-    "hora_utc": "2026-01-20 16:01",
-    "mensaje": "💡Restablecido el servicio eléctrico en los siguientes circuitos:\n👉Línea 1785\nMunicipio Santa Clara:\nCto 6 (Vigía)\nCto 34(Sabana Rebacadero)\nCtos 32 y 33 (RF-33Kv)\nCto 39 (Sandino)\n👉Línea129\nCto 40 (Hospital Militar)\nCto 28 (Monumento del Che)",
-    "timestamp": 1768924861,
-    "timestamp_local": 1768924861
   }
 ]
