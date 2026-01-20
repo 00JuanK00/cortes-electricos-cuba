@@ -1,9 +1,41 @@
 [
   {
+    "id": 38590,
+    "fecha": "20 de Jan del 2026 a las 09:57 AM",
+    "hora_utc": "2026-01-20 14:57",
+    "mensaje": "💡Con servicio los siguientes circuitos:\n🔹Municipio Santo Domingo:\n👉Cto 195 Batey George Washington\n👉Ctos 83 y 165 Manacas\n👉Ctos 85 y 86 Pajarito\n👉Ctos 160 y 161 Cascajal",
+    "timestamp": 1768921045,
+    "timestamp_local": 1768921045
+  },
+  {
+    "id": 38589,
+    "fecha": "20 de Jan del 2026 a las 09:54 AM",
+    "hora_utc": "2026-01-20 14:54",
+    "mensaje": "⚠️Afectados por déficit de capacidad de generación el siguiente circuito:\n🔹Municipio Camajuani:\n👉Cto 74 Jose María Pérez",
+    "timestamp": 1768920892,
+    "timestamp_local": 1768920892
+  },
+  {
+    "id": 38588,
+    "fecha": "20 de Jan del 2026 a las 09:53 AM",
+    "hora_utc": "2026-01-20 14:53",
+    "mensaje": "⚡Afectadas las siguientes lineas por manipulación:\n👉Línea 1785\nMunicipio Santa Clara:\nCto 6 (Vigía)\nCto 34(Sabana Rebacadero)\nCtos 32 y 33 (RF-33Kv)\nCto 39 (Sandino)\n👉Línea129\nCto 40 (Hospital Militar)\nCto 28 (Monumento del Che)",
+    "timestamp": 1768920827,
+    "timestamp_local": 1768920827
+  },
+  {
+    "id": 38587,
+    "fecha": "20 de Jan del 2026 a las 09:36 AM",
+    "hora_utc": "2026-01-20 14:36",
+    "mensaje": "Actualización del servicio eléctrico en la provincia🔸\n✍️Se mantienen afectados en la provincia 60 circuitos.\n✍️En el momento de hacer esta nota la provincia tiene 44 MW por déficit de capacidad de generación.\n✍️Cuenta con 110 afectaciones por averías secundarias y de servicio",
+    "timestamp": 1768919767,
+    "timestamp_local": 1768919767
+  },
+  {
     "id": 38584,
     "fecha": "20 de Jan del 2026 a las 08:41 AM",
     "hora_utc": "2026-01-20 13:41",
-    "mensaje": "⚠️Afectados por déficit de capacidad de generación los siguientes circuitos:\n🔹Municipio Cifuentes:\n👉Ctos 114 y 117👉Ctos 116 y 155 Mata\n👉Cto 186 Batey Unidad Proletaria\n👉Cto 184 Sitio Grande",
+    "mensaje": "⚠️Afectados por déficit de capacidad de generación los siguientes circuitos:\n🔹Municipio Cifuentes:\n👉Ctos 114 y 117\n👉Ctos 116 y 155 Mata\n👉Cto 186 Batey Unidad Proletaria\n👉Cto 184 Sitio Grande",
     "timestamp": 1768916477,
     "timestamp_local": 1768916477
   },
@@ -94,45 +126,5 @@
     "mensaje": "⚠️Afectados por déficit de capacidad de generación los siguientes circuitos:\n🔹Municipio Caibarién:\n👉Ctos 61, 62 \n👉Ctos 63 y 64\n👉Ctos 182 y 183 Van Troy",
     "timestamp": 1768902607,
     "timestamp_local": 1768902607
-  },
-  {
-    "id": 38570,
-    "fecha": "20 de Jan del 2026 a las 04:11 AM",
-    "hora_utc": "2026-01-20 09:11",
-    "mensaje": "⚠️Afectados por déficit de capacidad de generación los siguientes circuitos:\n🔹Municipio Manicaragua:\n👉Ctos 109 y 150\n👉Ctos 108 y 110 La Piedra\n👉Cto 111 Mataguá",
-    "timestamp": 1768900292,
-    "timestamp_local": 1768900292
-  },
-  {
-    "id": 38569,
-    "fecha": "20 de Jan del 2026 a las 04:01 AM",
-    "hora_utc": "2026-01-20 09:01",
-    "mensaje": "Actualización del servicio eléctrico en la provincia🔸\n✍️Se mantienen afectados en la provincia 87 circuitos.\n✍️En el momento de hacer esta nota la provincia tiene 38 MW por déficit de capacidad de generación.\n✍️Cuenta con 82 afectaciones por averías secundarias y de servicio",
-    "timestamp": 1768899686,
-    "timestamp_local": 1768899686
-  },
-  {
-    "id": 38568,
-    "fecha": "20 de Jan del 2026 a las 03:06 AM",
-    "hora_utc": "2026-01-20 08:06",
-    "mensaje": "Afectados 38 MW en la provincia, demanda máxima a apagar en estos momentos.",
-    "timestamp": 1768896377,
-    "timestamp_local": 1768896377
-  },
-  {
-    "id": 38567,
-    "fecha": "20 de Jan del 2026 a las 03:05 AM",
-    "hora_utc": "2026-01-20 08:05",
-    "mensaje": "⚠️Afectados por déficit de capacidad de generación los siguientes circuitos:\n🔹Municipio Remedios:\n👉Ctos 67 y 152, 68 y 118 \n👉Ctos 69 y 70 Zuluetas\n👉Cto 143 Batey Heriberto Duquesne\n👉Cto 71 Buena Vista",
-    "timestamp": 1768896344,
-    "timestamp_local": 1768896344
-  },
-  {
-    "id": 38565,
-    "fecha": "20 de Jan del 2026 a las 02:17 AM",
-    "hora_utc": "2026-01-20 07:17",
-    "mensaje": "Actualización del servicio eléctrico en la provincia🔸\n✍️Se mantienen afectados en la provincia 63 circuitos.\n✍️En el momento de hacer esta nota la provincia tiene 30 MW por déficit de capacidad de generación.\n✍️Cuenta con 84 afectaciones por averías secundarias y de servicio",
-    "timestamp": 1768893458,
-    "timestamp_local": 1768893458
   }
 ]
