@@ -1,5 +1,13 @@
 [
   {
+    "id": 17896,
+    "fecha": "20 de Jan del 2026 a las 07:13 AM",
+    "hora_utc": "2026-01-20 12:13",
+    "mensaje": "Se encuentran disparados por DAF los siguientes circuitos:                                                                                  TK5 Buena Vista, Los Pinos\nTK106 Palancón, BuenaVista",
+    "timestamp": 1768911218,
+    "timestamp_local": 1768911218
+  },
+  {
     "id": 17895,
     "fecha": "19 de Jan del 2026 a las 06:23 PM",
     "hora_utc": "2026-01-19 23:23",
@@ -102,21 +110,5 @@
     "mensaje": "Se declara en avería el circuito:Circuito de 33 Kv 6840 Los Kilómetros",
     "timestamp": 1768690338,
     "timestamp_local": 1768690338
-  },
-  {
-    "id": 17877,
-    "fecha": "17 de Jan del 2026 a las 05:51 PM",
-    "hora_utc": "2026-01-17 22:51",
-    "mensaje": "Se afectan los siguientes circuitos:\nTK26 Circunvalación Sur hasta La Larga\nCircuito 33 Kv: 6220\nTK61 La Yaya\nTK58 La Calera\nTK62 Lora\nTK63 Lora\nTJ95 Poblado Menéndez\n6220 Carúpano, La Salina y La Playa",
-    "timestamp": 1768690262,
-    "timestamp_local": 1768690262
-  },
-  {
-    "id": 17876,
-    "fecha": "17 de Jan del 2026 a las 05:26 PM",
-    "hora_utc": "2026-01-17 22:26",
-    "mensaje": "**L**a provincia presenta máxima capacidad apagable en estos momentos, lo que no ha permitido realizar la rotación de los circuitos con mayor tiempo de afectación. Se irán restableciendo en la medida que el Sistema Electroenergético lo permita.",
-    "timestamp": 1768688791,
-    "timestamp_local": 1768688791
   }
 ]
