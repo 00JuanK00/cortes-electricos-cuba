@@ -1,5 +1,29 @@
 [
   {
+    "id": 38610,
+    "fecha": "20 de Jan del 2026 a las 01:07 PM",
+    "hora_utc": "2026-01-20 18:07",
+    "mensaje": "⚠️Afectados por déficit de capacidad de generación el siguiente circuito:\n🔹Municipio Placetas:\n 👉Cto 107 Baez\n🔹Municipio Santa Clara:\n👉Cto 6 (Vigía)",
+    "timestamp": 1768932442,
+    "timestamp_local": 1768932442
+  },
+  {
+    "id": 38609,
+    "fecha": "20 de Jan del 2026 a las 01:00 PM",
+    "hora_utc": "2026-01-20 18:00",
+    "mensaje": "💡Con servicio eléctrico los siguientes circuitos:\n🔹Municipio Santa Clara\n👉Cto 166 (Condado)\n👉Cto 167 (Virginia)\n👉Cto 170 (José Martí)\n👉Cto 171 (Los Caneyes)",
+    "timestamp": 1768932024,
+    "timestamp_local": 1768932024
+  },
+  {
+    "id": 38608,
+    "fecha": "20 de Jan del 2026 a las 12:57 PM",
+    "hora_utc": "2026-01-20 17:57",
+    "mensaje": "⚠️Afectados por déficit de capacidad de generación los siguientes circuitos:\n🔹Municipio Camajuaní:\n👉Cto 75 La Quinta\n👉Cto 157 Luis Arcos Bergne\n👉Ctos 76 y 90 Vega Alta\n🔹Municipio Ranchuelo: \n👉Ctos 89, 97, 188 y 189\n👉Ctos 148 y 149 San Juan\n👉Cto 91 Batey Osvaldo Herrera\n👉Cto 181 Batey Ifraín Alfonso",
+    "timestamp": 1768931860,
+    "timestamp_local": 1768931860
+  },
+  {
     "id": 38607,
     "fecha": "20 de Jan del 2026 a las 12:40 PM",
     "hora_utc": "2026-01-20 17:40",
@@ -134,29 +158,5 @@
     "mensaje": "👉Afectado Circuito 39 Sandino para realizar operaciones de sistema.",
     "timestamp": 1768921499,
     "timestamp_local": 1768921499
-  },
-  {
-    "id": 38590,
-    "fecha": "20 de Jan del 2026 a las 09:57 AM",
-    "hora_utc": "2026-01-20 14:57",
-    "mensaje": "💡Con servicio los siguientes circuitos:\n🔹Municipio Santo Domingo:\n👉Cto 195 Batey George Washington\n👉Ctos 83 y 165 Manacas\n👉Ctos 85 y 86 Pajarito\n👉Ctos 160 y 161 Cascajal",
-    "timestamp": 1768921045,
-    "timestamp_local": 1768921045
-  },
-  {
-    "id": 38589,
-    "fecha": "20 de Jan del 2026 a las 09:54 AM",
-    "hora_utc": "2026-01-20 14:54",
-    "mensaje": "⚠️Afectados por déficit de capacidad de generación el siguiente circuito:\n🔹Municipio Camajuani:\n👉Cto 74 Jose María Pérez",
-    "timestamp": 1768920892,
-    "timestamp_local": 1768920892
-  },
-  {
-    "id": 38588,
-    "fecha": "20 de Jan del 2026 a las 09:53 AM",
-    "hora_utc": "2026-01-20 14:53",
-    "mensaje": "⚡Afectadas las siguientes lineas por manipulación:\n👉Línea 1785\nMunicipio Santa Clara:\nCto 6 (Vigía)\nCto 34(Sabana Rebacadero)\nCtos 32 y 33 (RF-33Kv)\nCto 39 (Sandino)\n👉Línea129\nCto 40 (Hospital Militar)\nCto 28 (Monumento del Che)",
-    "timestamp": 1768920827,
-    "timestamp_local": 1768920827
   }
 ]
