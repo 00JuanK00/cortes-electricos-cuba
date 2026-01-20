@@ -1,5 +1,21 @@
 [
   {
+    "id": 38633,
+    "fecha": "20 de Jan del 2026 a las 06:35 PM",
+    "hora_utc": "2026-01-20 23:35",
+    "mensaje": "Afectados 152 MW en la provincia, demanda máxima a apagar en estos momentos.",
+    "timestamp": 1768952134,
+    "timestamp_local": 1768952134
+  },
+  {
+    "id": 38632,
+    "fecha": "20 de Jan del 2026 a las 06:26 PM",
+    "hora_utc": "2026-01-20 23:26",
+    "mensaje": "💡Restablecido el servicio eléctrico en el Circuito 77 Vueltas perteneciente al municipio de Camajuani.",
+    "timestamp": 1768951613,
+    "timestamp_local": 1768951613
+  },
+  {
     "id": 38631,
     "fecha": "20 de Jan del 2026 a las 05:29 PM",
     "hora_utc": "2026-01-20 22:29",
@@ -142,21 +158,5 @@
     "mensaje": "⚠️Afectados por déficit de capacidad de generación el siguiente circuito:\n🔹Municipio Placetas:\n👉Cto 105 Nazareno",
     "timestamp": 1768936977,
     "timestamp_local": 1768936977
-  },
-  {
-    "id": 38613,
-    "fecha": "20 de Jan del 2026 a las 02:08 PM",
-    "hora_utc": "2026-01-20 19:08",
-    "mensaje": "Actualización del servicio eléctrico en la provincia🔸\n✍️Se mantienen afectados en la provincia 68 circuitos.\n✍️En el momento de hacer esta nota la provincia tiene 47 MW por déficit de capacidad de generación.\n✍️Cuenta con 118 afectaciones por averías secundarias y de servicio",
-    "timestamp": 1768936080,
-    "timestamp_local": 1768936080
-  },
-  {
-    "id": 38612,
-    "fecha": "20 de Jan del 2026 a las 01:57 PM",
-    "hora_utc": "2026-01-20 18:57",
-    "mensaje": "Ante cualquier duda con la terminología eléctrica, les  explicamos: \nLas averías pueden ser primarias (afecta un volumen grande de población pues son las líneas de distribución a 13.8kV y puede afectar varias manzanas, incluso repartos completos).\n\nSecundarias (afecta a todos los clientes que se alimenten del mismo transformador, puede afectar una o varias cuadras). \n\nDe servicio (afectan 1 solo cliente o instalación generalmente producto a daños en la acometida, metro contador, etc.).",
-    "timestamp": 1768935430,
-    "timestamp_local": 1768935430
   }
 ]
