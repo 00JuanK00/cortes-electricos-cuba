@@ -1,5 +1,45 @@
 [
   {
+    "id": 104089,
+    "fecha": "21 de Jan del 2026 a las 02:47 PM",
+    "hora_utc": "2026-01-21 19:47",
+    "mensaje": "♦️ Afectado el servicio en el circuito 3140 por disparo por DAF ♦️",
+    "timestamp": 1769024878,
+    "timestamp_local": 1769024878
+  },
+  {
+    "id": 104088,
+    "fecha": "21 de Jan del 2026 a las 02:43 PM",
+    "hora_utc": "2026-01-21 19:43",
+    "mensaje": "🔷 Restablecido el servicio en el circuito 3140 que se encontraba afectado por DAF 🔷",
+    "timestamp": 1769024615,
+    "timestamp_local": 1769024615
+  },
+  {
+    "id": 104087,
+    "fecha": "21 de Jan del 2026 a las 02:42 PM",
+    "hora_utc": "2026-01-21 19:42",
+    "mensaje": "🔷 Restablecido el servicio en el circuito PU-85 que se encontraba afectado por emergencia🔷",
+    "timestamp": 1769024570,
+    "timestamp_local": 1769024570
+  },
+  {
+    "id": 104086,
+    "fecha": "21 de Jan del 2026 a las 02:34 PM",
+    "hora_utc": "2026-01-21 19:34",
+    "mensaje": "♦️ Afectado el servicio en el circuito 3140 por disparo por DAF ♦️",
+    "timestamp": 1769024063,
+    "timestamp_local": 1769024063
+  },
+  {
+    "id": 104085,
+    "fecha": "21 de Jan del 2026 a las 02:19 PM",
+    "hora_utc": "2026-01-21 19:19",
+    "mensaje": "♦️ Afectado el servicio en el circuito PU-85 por emergencia♦️",
+    "timestamp": 1769023145,
+    "timestamp_local": 1769023145
+  },
+  {
     "id": 104084,
     "fecha": "21 de Jan del 2026 a las 02:01 PM",
     "hora_utc": "2026-01-21 19:01",
@@ -118,45 +158,5 @@
     "mensaje": "♦️ Afectado el servicio en el circuito 3590 por disparo por DAF ♦️",
     "timestamp": 1769011951,
     "timestamp_local": 1769011951
-  },
-  {
-    "id": 104069,
-    "fecha": "21 de Jan del 2026 a las 11:11 AM",
-    "hora_utc": "2026-01-21 16:11",
-    "mensaje": "♦️ Afectado el servicio en el circuito 3140 por disparo por DAF ♦️",
-    "timestamp": 1769011918,
-    "timestamp_local": 1769011918
-  },
-  {
-    "id": 104068,
-    "fecha": "21 de Jan del 2026 a las 10:39 AM",
-    "hora_utc": "2026-01-21 15:39",
-    "mensaje": "🔷 Restablecido el servicio en el circuito Aguacate que se encontraba afectado por disparo en las líneas  🔷",
-    "timestamp": 1769009992,
-    "timestamp_local": 1769009992
-  },
-  {
-    "id": 104067,
-    "fecha": "21 de Jan del 2026 a las 10:10 AM",
-    "hora_utc": "2026-01-21 15:10",
-    "mensaje": "🔷Se restablece el servicio en las siguientes zonas pertenecientes al circuito Magela que se encontraban afectadas por avería:\n*Máximo Plat\n*zonas aledañas 🔷",
-    "timestamp": 1769008212,
-    "timestamp_local": 1769008212
-  },
-  {
-    "id": 104066,
-    "fecha": "21 de Jan del 2026 a las 10:00 AM",
-    "hora_utc": "2026-01-21 15:00",
-    "mensaje": "♦️ Afectado el servicio en el circuito Aguacate por disparo en las líneas ♦️",
-    "timestamp": 1769007649,
-    "timestamp_local": 1769007649
-  },
-  {
-    "id": 104065,
-    "fecha": "21 de Jan del 2026 a las 09:55 AM",
-    "hora_utc": "2026-01-21 14:55",
-    "mensaje": "🚨Por déficit de capacidad de generación se afecta el servicio en el siguiente circuito:\n*3665🚨",
-    "timestamp": 1769007329,
-    "timestamp_local": 1769007329
   }
 ]
