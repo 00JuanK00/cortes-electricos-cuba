@@ -1,5 +1,37 @@
 [
   {
+    "id": 38662,
+    "fecha": "21 de Jan del 2026 a las 06:50 AM",
+    "hora_utc": "2026-01-21 11:50",
+    "mensaje": "⚡️En avería circuito 4 Consejo- Centro por primario partido",
+    "timestamp": 1768996214,
+    "timestamp_local": 1768996214
+  },
+  {
+    "id": 38661,
+    "fecha": "21 de Jan del 2026 a las 06:37 AM",
+    "hora_utc": "2026-01-21 11:37",
+    "mensaje": "⚠️ En déficit de capacidad de generación los siguientes circuitos:\n🔹Municipio Manicaragua \n👉Cto 109 y 150\n🔹Municipio Sagua \n👉Cto 43 Sagua\n👉Cto 50 Sagua \n👉Cto 51 Sagua\n👉Cto 147 Villa Alegre",
+    "timestamp": 1768995466,
+    "timestamp_local": 1768995466
+  },
+  {
+    "id": 38660,
+    "fecha": "21 de Jan del 2026 a las 06:32 AM",
+    "hora_utc": "2026-01-21 11:32",
+    "mensaje": "⚠️Afectado por déficit de capacidad de generación el siguiente circuito:\n🔹Municipio Placetas \n👉Cto 99 Placetas",
+    "timestamp": 1768995123,
+    "timestamp_local": 1768995123
+  },
+  {
+    "id": 38659,
+    "fecha": "21 de Jan del 2026 a las 06:24 AM",
+    "hora_utc": "2026-01-21 11:24",
+    "mensaje": "🕕Actualización del servicio eléctrico en las últimas 6 horas.\n✍️El déficit de capacidad de generación osciló entre los 80 MW y los 51 MW.\n✍️En el momento de esta nota, se mantienen afectados 87 circuitos.\n✍️Cuenta con 101 afectaciones por averías secundarias y de servicio:\n🔹Caibrien (1)\n🔸Camajuani (3)\n🔸Cifuentes (3)\n🔸Manicaragua (7)\n🔸Placetas (1)\n🔹Ranchuelo (1)\n🔸Remedios (6) \n🔸Sagua (11) \n🔸Santa Clara (65)\n🔸Santo Domingo (3)\n🛠️Pendientes a solucionar por el área técnica 8.\n⚡La provincia  no presenta averías primarias.",
+    "timestamp": 1768994655,
+    "timestamp_local": 1768994655
+  },
+  {
     "id": 38658,
     "fecha": "21 de Jan del 2026 a las 05:47 AM",
     "hora_utc": "2026-01-21 10:47",
@@ -118,37 +150,5 @@
     "mensaje": "⚡️Afectado por avería el Circuito 169  Gran Panel por cable primario partido . Brigadas de nuestra Empresa crean las condiciones necesarias para trabajar y restablecer el servicio en el menor tiempo posible.",
     "timestamp": 1768968041,
     "timestamp_local": 1768968041
-  },
-  {
-    "id": 38642,
-    "fecha": "20 de Jan del 2026 a las 10:57 PM",
-    "hora_utc": "2026-01-21 03:57",
-    "mensaje": "🔴 21:29 || Fuera de línea la Unidad 6 de la CTE Diez de Octubre por disparo de bomba de circulación B con DAF de 21MW, que se están restableciendo.",
-    "timestamp": 1768967847,
-    "timestamp_local": 1768967847
-  },
-  {
-    "id": 38641,
-    "fecha": "20 de Jan del 2026 a las 10:00 PM",
-    "hora_utc": "2026-01-21 03:00",
-    "mensaje": "Actualización del servicio eléctrico en la provincia\n✍️Se mantienen afectados en la provincia 140 circuitos.\n✍️En el momento de hacer esta nota la provincia tiene 103 MW por déficit de capacidad de generación.\n✍️Cuenta con 88 afectaciones por averías secundarias y de servicio",
-    "timestamp": 1768964457,
-    "timestamp_local": 1768964457
-  },
-  {
-    "id": 38640,
-    "fecha": "20 de Jan del 2026 a las 09:07 PM",
-    "hora_utc": "2026-01-21 02:07",
-    "mensaje": "Afectados 103 MW en la provincia, demanda máxima a apagar en estos momentos.",
-    "timestamp": 1768961269,
-    "timestamp_local": 1768961269
-  },
-  {
-    "id": 38639,
-    "fecha": "20 de Jan del 2026 a las 08:23 PM",
-    "hora_utc": "2026-01-21 01:23",
-    "mensaje": "💡Restablecido el servicio eléctrico en los siguientes circuitos:\n🔹Municipio Santa Clara\n👉Cto 7 (Universidad)  \n👉Cto 146 (Elevado Aeropuerto) \n👉Cto 22 (Construcciones Textil)\n👉Cto 131 (Las Antillas)\n👉Ctos 14  y 27 (Maleza)",
-    "timestamp": 1768958615,
-    "timestamp_local": 1768958615
   }
 ]

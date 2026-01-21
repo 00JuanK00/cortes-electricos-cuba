@@ -1,5 +1,21 @@
 [
   {
+    "id": 104052,
+    "fecha": "21 de Jan del 2026 a las 06:39 AM",
+    "hora_utc": "2026-01-21 11:39",
+    "mensaje": "🔷 Restablecido el servicio en el circuito 3140 que se encontraba afectado por DAF 🔷",
+    "timestamp": 1768995575,
+    "timestamp_local": 1768995575
+  },
+  {
+    "id": 104050,
+    "fecha": "21 de Jan del 2026 a las 06:23 AM",
+    "hora_utc": "2026-01-21 11:23",
+    "mensaje": "♦️ Afectado el servicio en el circuito Magela por avería ♦️",
+    "timestamp": 1768994628,
+    "timestamp_local": 1768994628
+  },
+  {
     "id": 104049,
     "fecha": "21 de Jan del 2026 a las 06:09 AM",
     "hora_utc": "2026-01-21 11:09",
@@ -86,21 +102,5 @@
     "mensaje": "🔷♦️Se restablece el servicio en el circuito que se encontraba afectado  por déficit de capacidad de generación:\n*Bío 2 ♦️🔷",
     "timestamp": 1768968192,
     "timestamp_local": 1768968192
-  },
-  {
-    "id": 104032,
-    "fecha": "20 de Jan del 2026 a las 10:55 PM",
-    "hora_utc": "2026-01-21 03:55",
-    "mensaje": "🔷♦️Se restablece el servicio en los circuitos que se encontraban afectados por déficit de capacidad de generación:\n*Nueva Paz\n*Los Palos\n*Sureste ♦️🔷",
-    "timestamp": 1768967708,
-    "timestamp_local": 1768967708
-  },
-  {
-    "id": 104030,
-    "fecha": "20 de Jan del 2026 a las 10:05 PM",
-    "hora_utc": "2026-01-21 03:05",
-    "mensaje": "🔷 Restablecido el servicio en el circuito 3140 que se encontraba afectado por DAF 🔷",
-    "timestamp": 1768964707,
-    "timestamp_local": 1768964707
   }
 ]
