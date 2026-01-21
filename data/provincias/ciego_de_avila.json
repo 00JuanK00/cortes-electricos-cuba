@@ -1,5 +1,21 @@
 [
   {
+    "id": 35387,
+    "fecha": "20 de Jan del 2026 a las 09:02 PM",
+    "hora_utc": "2026-01-21 02:02",
+    "mensaje": "‼️Información‼️\n\n⏰ Los circuitos  restablecidos tendrán servicio por un estimado de 1 hora y 30 min aproximadamente en dependencia del déficit solicitado en cada momento de la jornada que es muy variable.",
+    "timestamp": 1768960960,
+    "timestamp_local": 1768960960
+  },
+  {
+    "id": 35386,
+    "fecha": "20 de Jan del 2026 a las 07:50 PM",
+    "hora_utc": "2026-01-21 00:50",
+    "mensaje": "‼️ Información ‼️   \n👉Subimos a 100 MW en la provincia afectados por déficit de generación. Con este déficit no podemos cumplir con una programación estable, por lo que los circuitos se afectarán o se restablecerán en dependencia del déficit que haya en cada momento de la jornada.",
+    "timestamp": 1768956646,
+    "timestamp_local": 1768956646
+  },
+  {
     "id": 35385,
     "fecha": "20 de Jan del 2026 a las 06:35 PM",
     "hora_utc": "2026-01-20 23:35",
@@ -110,21 +126,5 @@
     "mensaje": "‼️ Déficit de Generación ‼️   \n👉 Nos mantenemos en 30 MW en la provincia afectados por déficit de generación.\n\n⏰ Reiteramos que los circuitos se afectarán o se restablecerán en dependencia del déficit en cada momento de la jornada, que es muy variable.",
     "timestamp": 1768888631,
     "timestamp_local": 1768888631
-  },
-  {
-    "id": 35365,
-    "fecha": "19 de Jan del 2026 a las 11:21 PM",
-    "hora_utc": "2026-01-20 04:21",
-    "mensaje": "‼️ Déficit de Generación ‼️   \n👉 Bajamos a 30 MW en la provincia afectados por déficit de generación.\n\n👉Se encuentran afectados los siguientes circuitos: \n✅A104, Morón Norte.\n⏰ Reiteramos que los circuitos se afectarán o se restablecerán en dependencia del déficit en cada momento de la jornada, que es muy variable.",
-    "timestamp": 1768882865,
-    "timestamp_local": 1768882865
-  },
-  {
-    "id": 35364,
-    "fecha": "19 de Jan del 2026 a las 10:35 PM",
-    "hora_utc": "2026-01-20 03:35",
-    "mensaje": "‼️ Déficit de Generación ‼️   \n👉 Bajamos a 40 MW en la provincia afectados por déficit de generación.\n\n👉Se encuentran afectados los siguientes circuitos: \n✅1, 2, Expreso, Nereida, Peonia, Politécnico de Informática, Morón Centro.\n\n⏰ Reiteramos que los circuitos se afectarán o se restablecerán en dependencia del déficit en cada momento de la jornada, que es muy variable.",
-    "timestamp": 1768880127,
-    "timestamp_local": 1768880127
   }
 ]
