@@ -1,5 +1,21 @@
 [
   {
+    "id": 38678,
+    "fecha": "21 de Jan del 2026 a las 05:06 PM",
+    "hora_utc": "2026-01-21 22:06",
+    "mensaje": "⚠️ En déficit de capacidad de generación los siguientes circuitos:\n👉Cto 144 Camacho\n👉Cto 31 SC Industrial\n👉Cto 132 SC Industrial\n👉Cto 162 SC Industrial",
+    "timestamp": 1769033171,
+    "timestamp_local": 1769033171
+  },
+  {
+    "id": 38677,
+    "fecha": "21 de Jan del 2026 a las 05:04 PM",
+    "hora_utc": "2026-01-21 22:04",
+    "mensaje": "⚠️ En déficit de capacidad de generación los siguientes circuitos:\n👉Municipio Santa Clara\nCto 7 (Universidad)  \nCto 146 (Elevado Aeropuerto) \nCto 22 (Construcciones Textil)\nCto 131 (Las Antillas)\nCto 153 (EIDE) \nCtos 14, 15 y 27 (Maleza)",
+    "timestamp": 1769033087,
+    "timestamp_local": 1769033087
+  },
+  {
     "id": 38676,
     "fecha": "21 de Jan del 2026 a las 04:51 PM",
     "hora_utc": "2026-01-21 21:51",
@@ -126,21 +142,5 @@
     "mensaje": "🕕Actualización del servicio eléctrico en las últimas 6 horas.\n✍️El déficit de capacidad de generación osciló entre los 80 MW y los 51 MW.\n✍️En el momento de esta nota, se mantienen afectados 87 circuitos.\n✍️Cuenta con 101 afectaciones por averías secundarias y de servicio:\n🔹Caibrien (1)\n🔸Camajuani (3)\n🔸Cifuentes (3)\n🔸Manicaragua (7)\n🔸Placetas (1)\n🔹Ranchuelo (1)\n🔸Remedios (6) \n🔸Sagua (11) \n🔸Santa Clara (65)\n🔸Santo Domingo (3)\n🛠️Pendientes a solucionar por el área técnica 8.\n⚡La provincia  no presenta averías primarias.",
     "timestamp": 1768994655,
     "timestamp_local": 1768994655
-  },
-  {
-    "id": 38658,
-    "fecha": "21 de Jan del 2026 a las 05:47 AM",
-    "hora_utc": "2026-01-21 10:47",
-    "mensaje": "⚠️Afectados por déficit de capacidad de generación los siguientes circuitos:\n🔹Municipio Santa Clara\n👉Cto 166 (Condado)\n👉Cto 170 (José Martí)\n👉Cto 171 (Los Caneyes)",
-    "timestamp": 1768992448,
-    "timestamp_local": 1768992448
-  },
-  {
-    "id": 38657,
-    "fecha": "21 de Jan del 2026 a las 04:51 AM",
-    "hora_utc": "2026-01-21 09:51",
-    "mensaje": "⚠️Afectados por déficit de capacidad de generación los siguientes circuitos:\n🔹Municipio Manicaragua \n👉Ctos 108 y 110  La Piedra\n🔹Municipio Caibarien \n👉Cto 61,62,\nMunicipio Caibarién \n👉63,64 Caibarien \n👉Cto 182 y 184 Van Troi",
-    "timestamp": 1768989078,
-    "timestamp_local": 1768989078
   }
 ]
