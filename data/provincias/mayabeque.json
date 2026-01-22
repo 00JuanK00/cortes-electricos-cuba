@@ -1,5 +1,45 @@
 [
   {
+    "id": 104131,
+    "fecha": "21 de Jan del 2026 a las 11:59 PM",
+    "hora_utc": "2026-01-22 04:59",
+    "mensaje": "🚨Por déficit de capacidad de generación se afecta el servicio en los siguientes circuitos:\n*Los Palos \n*Sureste🚨",
+    "timestamp": 1769057996,
+    "timestamp_local": 1769057996
+  },
+  {
+    "id": 104129,
+    "fecha": "21 de Jan del 2026 a las 11:41 PM",
+    "hora_utc": "2026-01-22 04:41",
+    "mensaje": "📣Afectado el servicio en el circuito 3930 por emergencia 📣",
+    "timestamp": 1769056862,
+    "timestamp_local": 1769056862
+  },
+  {
+    "id": 104128,
+    "fecha": "21 de Jan del 2026 a las 11:19 PM",
+    "hora_utc": "2026-01-22 04:19",
+    "mensaje": "🔷♦️Se restablece el servicio en el circuito que se encontraba afectado  por déficit de capacidad de generación:\n*Bio2 ♦️🔷",
+    "timestamp": 1769055544,
+    "timestamp_local": 1769055544
+  },
+  {
+    "id": 104127,
+    "fecha": "21 de Jan del 2026 a las 11:12 PM",
+    "hora_utc": "2026-01-22 04:12",
+    "mensaje": "🔷♦️Se restablece el servicio en los circuitos que se encontraban afectados por déficit de capacidad de generación:\n*Aguacate\n*Picadura♦️🔷",
+    "timestamp": 1769055151,
+    "timestamp_local": 1769055151
+  },
+  {
+    "id": 104126,
+    "fecha": "21 de Jan del 2026 a las 11:05 PM",
+    "hora_utc": "2026-01-22 04:05",
+    "mensaje": "🔷♦️Se restablece el servicio en el circuito que se encontraba afectado  por déficit de capacidad de generación:\n*Quivicán ♦️🔷",
+    "timestamp": 1769054714,
+    "timestamp_local": 1769054714
+  },
+  {
     "id": 104125,
     "fecha": "21 de Jan del 2026 a las 11:03 PM",
     "hora_utc": "2026-01-22 04:03",
@@ -94,45 +134,5 @@
     "mensaje": "🔷 Restablecido el servicio en el circuito Nueva Paz que se encontraba afectado por disparo en las líneas 🔷",
     "timestamp": 1769038497,
     "timestamp_local": 1769038497
-  },
-  {
-    "id": 104110,
-    "fecha": "21 de Jan del 2026 a las 06:26 PM",
-    "hora_utc": "2026-01-21 23:26",
-    "mensaje": "♦️ Afectado el servicio en el circuito Nueva Paz por disparo en las líneas ♦️",
-    "timestamp": 1769037976,
-    "timestamp_local": 1769037976
-  },
-  {
-    "id": 104109,
-    "fecha": "21 de Jan del 2026 a las 06:19 PM",
-    "hora_utc": "2026-01-21 23:19",
-    "mensaje": "🔷♦️Se restablece el servicio en los circuitos que se encontraban afectados por déficit de capacidad de generación:\n*Los Palos \n*Sureste♦️🔷",
-    "timestamp": 1769037553,
-    "timestamp_local": 1769037553
-  },
-  {
-    "id": 104108,
-    "fecha": "21 de Jan del 2026 a las 06:13 PM",
-    "hora_utc": "2026-01-21 23:13",
-    "mensaje": "♦️ Afectado el servicio en el circuito 3590 por disparo por DAF ♦️",
-    "timestamp": 1769037236,
-    "timestamp_local": 1769037236
-  },
-  {
-    "id": 104107,
-    "fecha": "21 de Jan del 2026 a las 06:13 PM",
-    "hora_utc": "2026-01-21 23:13",
-    "mensaje": "♦️ Afectado el servicio en el circuito 3140 por disparo por DAF ♦️",
-    "timestamp": 1769037209,
-    "timestamp_local": 1769037209
-  },
-  {
-    "id": 104106,
-    "fecha": "21 de Jan del 2026 a las 06:11 PM",
-    "hora_utc": "2026-01-21 23:11",
-    "mensaje": "🔷 Restablecido el servicio en el circuito ML-35 momentáneamente por manipulación  🔷",
-    "timestamp": 1769037093,
-    "timestamp_local": 1769037093
   }
 ]
