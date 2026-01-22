@@ -1,9 +1,17 @@
 [
   {
+    "id": 31503,
+    "fecha": "22 de Jan del 2026 a las 05:51 AM",
+    "hora_utc": "2026-01-22 10:51",
+    "mensaje": "🔋La afectación de la provincia es de 76 MW por déficit de capacidad de generación",
+    "timestamp": 1769079101,
+    "timestamp_local": 1769079101
+  },
+  {
     "id": 31502,
     "fecha": "22 de Jan del 2026 a las 03:55 AM",
     "hora_utc": "2026-01-22 08:55",
-    "mensaje": "🔋La afectación de la provincia es de 47MW por déficit de capacidad de generación máximo apagable para este horario en la provincia",
+    "mensaje": "🔋La afectación de la provincia es de 47MW por déficit de capacidad de generación",
     "timestamp": 1769072159,
     "timestamp_local": 1769072159
   },
@@ -150,13 +158,5 @@
     "mensaje": "🔋La afectación de la provincia es de 77 MW por déficit de capacidad de generación.",
     "timestamp": 1769013910,
     "timestamp_local": 1769013910
-  },
-  {
-    "id": 31481,
-    "fecha": "21 de Jan del 2026 a las 10:40 AM",
-    "hora_utc": "2026-01-21 15:40",
-    "mensaje": "🔋La afectación de la provincia es de 73 MW por déficit de capacidad de generación.",
-    "timestamp": 1769010030,
-    "timestamp_local": 1769010030
   }
 ]
