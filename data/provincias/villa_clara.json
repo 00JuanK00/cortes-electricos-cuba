@@ -1,5 +1,45 @@
 [
   {
+    "id": 38711,
+    "fecha": "22 de Jan del 2026 a las 08:22 AM",
+    "hora_utc": "2026-01-22 13:22",
+    "mensaje": "⚡Afectado el servicio eléctrico en el circuito 44 (Isabela), del municipio Sagua, debido a cables primarios partidos. Brigadas eléctricas de nuestra empresa preparan las condiciones necesarias para trabajar en el lugar y restablecer el servicio en el menor tiempo posible.",
+    "timestamp": 1769088128,
+    "timestamp_local": 1769088128
+  },
+  {
+    "id": 38710,
+    "fecha": "22 de Jan del 2026 a las 08:20 AM",
+    "hora_utc": "2026-01-22 13:20",
+    "mensaje": "Restablecido parcialmente el servicio eléctrico en la línea 1205:\n🔹Municipio Sagua\nCtos 43, 51 Sagua\nCtos 50 y 147 Villa Alegre",
+    "timestamp": 1769088013,
+    "timestamp_local": 1769088013
+  },
+  {
+    "id": 38709,
+    "fecha": "22 de Jan del 2026 a las 08:01 AM",
+    "hora_utc": "2026-01-22 13:01",
+    "mensaje": "Actualización del servicio eléctrico en la provincia\n✍️Se mantienen afectados en la provincia 115 circuitos.\n✍️En el momento de hacer esta nota la provincia tiene 50 MW por déficit de capacidad de generación.\n✍️Cuenta con 77 afectaciones por averías secundarias y de servicio",
+    "timestamp": 1769086888,
+    "timestamp_local": 1769086888
+  },
+  {
+    "id": 38708,
+    "fecha": "22 de Jan del 2026 a las 08:00 AM",
+    "hora_utc": "2026-01-22 13:00",
+    "mensaje": "⚡Afectado el servicio eléctrico en la línea 1205:\nAfecta las siguientes líneas:\nMunicipio Sagua\nCtos 43, 51 Sagua\nCto 44 Isabela\nCtos 50 y 147 Villa Alegre\n✍️Se estudian las causas.",
+    "timestamp": 1769086829,
+    "timestamp_local": 1769086829
+  },
+  {
+    "id": 38706,
+    "fecha": "22 de Jan del 2026 a las 07:24 AM",
+    "hora_utc": "2026-01-22 12:24",
+    "mensaje": "🚨Nota informativa🚨. \n📝Situación del SEN para el 22 de enero de 2026.\n\n☀️En el día de ayer se afectó el servicio durante las 24 horas. La máxima afectación por déficit de capacidad de generación en el día de ayer fue de 1973 MW a las 19:00 horas.\n\n☀️La producción de energía de los 49 nuevos parques solares fotovoltaicos fue de 2613 MWh, con 502 MW como máxima potencia entregada en el horario de la media con esta fuente de generación. \n👉La disponibilidad del SEN a las 06:00 horas es de 1350 MW, la demanda 2080 MW, con 759 MW afectados. En el horario de la media se estima una afectación de 1100 MW.  \n🛠️Se encuentran en avería, la unidad 3 de la CTE Cienfuegos, la unidad 6 de la CTE Nuevitas, la unidad 2 de la CTE Felton y la unidad 3 de la CTE Renté. Se encuentran en mantenimiento la unidad 2 de la CTE Santa Cruz y la unidad 4 de la CTE Cienfuegos.\n👉Las limitaciones en la generación térmica son de 619 MW. \n👉Se pronostica la entrada de la unidad 3 de la CTE Renté con 50 MW y la patana de Regla con 55 MW.\n📈Con este pronóstico para el pico se prevé una disponibilidad de 1455 MW con una demanda máxima de 3200 MW, para un déficit de 1745 MW, por lo que de mantenerse las condiciones previstas se pronostica una afectación de 1775 MW en este horario.\nUNE-MINEM---07:00 horas.",
+    "timestamp": 1769084669,
+    "timestamp_local": 1769084669
+  },
+  {
     "id": 38705,
     "fecha": "22 de Jan del 2026 a las 06:49 AM",
     "hora_utc": "2026-01-22 11:49",
@@ -102,29 +142,5 @@
     "mensaje": "✍️Ante cualquier duda con la terminología eléctrica, les volvemos explicar: \n     \n👉Las averías pueden ser primarias (afecta un volumen grande de población pues son las líneas de distribución a 13.8kV y puede afectar varias manzanas, incluso repartos completos).\n\n👉Secundarias (afecta a todos los clientes que se alimenten del mismo transformador, puede afectar una o varias cuadras). \n\n👉De servicio (afectan 1 solo cliente o instalación generalmente producto a daños en la acometida, metro contador, etc.).",
     "timestamp": 1769053681,
     "timestamp_local": 1769053681
-  },
-  {
-    "id": 38690,
-    "fecha": "21 de Jan del 2026 a las 10:04 PM",
-    "hora_utc": "2026-01-22 03:04",
-    "mensaje": "Actualización del servicio eléctrico en la provincia\n✍️Se mantienen afectados en la provincia 145 circuitos.\n✍️En el momento de hacer esta nota la provincia tiene 130 MW por déficit de capacidad de generación.\n✍️Cuenta con 77 afectaciones por averías secundarias y de servicio",
-    "timestamp": 1769051090,
-    "timestamp_local": 1769051090
-  },
-  {
-    "id": 38687,
-    "fecha": "21 de Jan del 2026 a las 07:58 PM",
-    "hora_utc": "2026-01-22 00:58",
-    "mensaje": "Actualización del servicio eléctrico en la provincia\n✍️Se mantienen afectados en la provincia 145 circuitos.\n✍️En el momento de hacer esta nota la provincia tiene 108 MW por déficit de capacidad de generación.\n✍️Cuenta con 85 afectaciones por averías secundarias y de servicio",
-    "timestamp": 1769043538,
-    "timestamp_local": 1769043538
-  },
-  {
-    "id": 38686,
-    "fecha": "21 de Jan del 2026 a las 06:51 PM",
-    "hora_utc": "2026-01-21 23:51",
-    "mensaje": "⚠️ En déficit de capacidad de generación los siguientes circuitos:\n👉Municipio Camajuaní:\nCto 75 La Quinta\nCto 157 Luis Arcos Bergnes\nCtos 76 y 90 Vega Alta\nCtos 77 y 185 Vueltas",
-    "timestamp": 1769039475,
-    "timestamp_local": 1769039475
   }
 ]
