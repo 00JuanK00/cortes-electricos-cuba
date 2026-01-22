@@ -1,5 +1,13 @@
 [
   {
+    "id": 17920,
+    "fecha": "22 de Jan del 2026 a las 02:39 AM",
+    "hora_utc": "2026-01-22 07:39",
+    "mensaje": "Se declara en avería los siguientes circuito:\nTK29 Circunvalación Sur, Oro Negro \nTK7 La Victoria",
+    "timestamp": 1769067550,
+    "timestamp_local": 1769067550
+  },
+  {
     "id": 17919,
     "fecha": "22 de Jan del 2026 a las 12:56 AM",
     "hora_utc": "2026-01-22 05:56",
@@ -126,13 +134,5 @@
     "mensaje": "La Empresa Eléctrica Las Tunas informa que, según la nota emitida por la Unión Eléctrica para el 20 de enero, en el día de ayer se afectó el servicio durante las 24 horas. En nuestra provincia se afectaron la totalidad de los circuitos apagables, con una máxima afectación de 54.65 MW.\nActualmente están fuera de servicio por avería: \nUnidades 5 y 8 de la CTE Mariel, Unidad 3 de la CTE Carlos Manuel de Céspedes, Unidad 2 de la CTE Felton y Unidades 3 y 5 de la CTE Antonio Maceo.\nEn mantenimiento se encuentran:  \nUnidad 2 de la CTE Santa Cruz, Unidad 4 de la CTE Carlos Manuel de Céspedes en Cienfuegos.  \nEn el horario de la media se estima una afectación de 1250 MW, esto puede representar el 90 % de los circuitos apagables. En el horario nocturno se estima una afectación de 1855 MW, lo cual puede representar el 90 % de los circuitos apagables. Estos valores pueden variar según la demanda nacional.",
     "timestamp": 1768919050,
     "timestamp_local": 1768919050
-  },
-  {
-    "id": 17900,
-    "fecha": "20 de Jan del 2026 a las 09:19 AM",
-    "hora_utc": "2026-01-20 14:19",
-    "mensaje": "Nota Informativa: Estado del Sistema Eléctrico Nacional (SEN) – 20 de enero de 2026\n\nEn el día de ayer se afectó el servicio durante las 24 horas. La máxima afectación por déficit de capacidad de generación en el día de ayer fue de 1764 MW a las 18:10 horas.\n\nLa producción de energía de los 38 nuevos parques solares fotovoltaicos fue de 2085 MWh, con 398 MW como máxima potencia entregada en el horario de la media con esta fuente de generación.\nEstado actual del SEN\n\nLa disponibilidad del SEN a las 06:00 horas es de 1180 MW, la demanda 2100 MW, con 879 MW. En el horario de la media se estima una afectación de 1250 MW.\nPrincipales incidencias\n\n    Avería: Unidades 5 y 8 de la CTE Mariel, Unidad 3 de la CTE Carlos Manuel de Céspedes, Unidad 2 de la CTE Felton y Unidades 3 y 5 de la CTE Antonio Maceo.\n    Mantenimiento: Unidad 2 de la CTE Sata Cruz, Unidad 4 de la CTE Carlos Manuel de Céspedes en Cienfuegos.\n    Limitaciones en la generación térmica: 548 MW fuera de servicio.\n    Problemas por falta de combustible\n        101 centrales de generación distribuida con 927 MW.\n        40 MW de la Patana de Regla.\n        105 MW del Fuel de Mariel.\n        156 MW indisponibles por falta de lubricante.\n        Total de MW afectados por esta causa: 1228 MW.\n\nPronóstico para el horario pico\n\nPara el horario Pico se espera la entrada de la unidad 8 de la CTE Mariel (En proceso de arranque) con 60 MW, la entrada de los motores de la Patana de Regla con 40 MW y la entrada de 105 MW del Fuel de Mariel.\n\nCon este pronóstico para el pico se prevé una disponibilidad de 1325 MW con una demanda máxima de 3150 MW, para un déficit de 1825 MW, por lo que de mantenerse las condiciones previstas se pronostica una afectación de 1855 MW en este horario.",
-    "timestamp": 1768918756,
-    "timestamp_local": 1768918756
   }
 ]
