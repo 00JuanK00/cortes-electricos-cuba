@@ -1,5 +1,13 @@
 [
   {
+    "id": 38703,
+    "fecha": "22 de Jan del 2026 a las 06:02 AM",
+    "hora_utc": "2026-01-22 11:02",
+    "mensaje": "🕕Actualización del servicio eléctrico en las últimas 6 horas.\n\n👉El déficit de capacidad de generación osciló entre los 71 MW y los 58 MW.\n👉En el momento de esta nota, se mantienen afectados 119 circuitos.\n👉Cuenta con 68 afectaciones por averías secundarias y de servicio:\n Encrucijada (1)\n Manicaragua (8)\n Ranchuelo (5)\n Remedios (2) \n Sagua (1) \n Santa Clara (39)\n Santo Domingo (1)\n🛠️Se encuentran 1 averías en vías de solución.\n🛠️Pendientes a solucionar por el área técnica 11.\n\n\n⚡Avería⚡\n⚡Afectado por avería de manera parcial el circuito 71 Buena Vista, ramal Pueblo Nuevo, por ramas de árbol encima de cable primario.",
+    "timestamp": 1769079767,
+    "timestamp_local": 1769079767
+  },
+  {
     "id": 38702,
     "fecha": "22 de Jan del 2026 a las 05:30 AM",
     "hora_utc": "2026-01-22 10:30",
@@ -118,21 +126,5 @@
     "mensaje": "🔴 11:05 || Fuera de línea la Unidad 1 de la CTE Ernesto Guevara De La Serna por salidero de aceite en chumacera.\n\n🟢 14:46 || En línea la Unidad 1 de la CTE Ernesto Guevara De La Serna, en Santa Cruz.\n🔴 15:44 || Fuera de línea la Unidad 1 de la CTE Ernesto Guevara De La Serna por  Bajo vacío.\n\n🟢 16:26 || En línea la Unidad 5 de la CTE Máximo Gómez, subiendo carga.\n🟢 16:31 || En línea la Unidad 1 de la CTE Ernesto Guevara De La Serna, subiendo carga.\n🟢 17:24 || En línea la Unidad 5 de la CTE Antonio Maceo \"Renté\", subiendo carga.",
     "timestamp": 1769039132,
     "timestamp_local": 1769039132
-  },
-  {
-    "id": 38684,
-    "fecha": "21 de Jan del 2026 a las 06:26 PM",
-    "hora_utc": "2026-01-21 23:26",
-    "mensaje": "💡Restablecido el servicio eléctrico en la Línea 1780.",
-    "timestamp": 1769038016,
-    "timestamp_local": 1769038016
-  },
-  {
-    "id": 38683,
-    "fecha": "21 de Jan del 2026 a las 06:23 PM",
-    "hora_utc": "2026-01-21 23:23",
-    "mensaje": "🛠️Afectado por manipulación línea 1780.\n👉Línea 1780 \nMunicipio Santa Clara:\nCto 16 Cubanacán \nCtos 23 y 130 La Ceniza\nCto 42 Manajanabo\n👉Municipio Placetas\nCto 139 Miller\nCto 190 Oliver\nCto 106 Falcón\nCtos 98 y 99 Placetas",
-    "timestamp": 1769037800,
-    "timestamp_local": 1769037800
   }
 ]
