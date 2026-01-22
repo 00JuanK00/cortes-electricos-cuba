@@ -1,5 +1,21 @@
 [
   {
+    "id": 38696,
+    "fecha": "22 de Jan del 2026 a las 12:22 AM",
+    "hora_utc": "2026-01-22 05:22",
+    "mensaje": "💡Restablecido el servicio eléctrico en los siguientes circuitos:\n👉Municipio Camajuaní:\nCtos  72, 73 y 156",
+    "timestamp": 1769059346,
+    "timestamp_local": 1769059346
+  },
+  {
+    "id": 38695,
+    "fecha": "22 de Jan del 2026 a las 12:07 AM",
+    "hora_utc": "2026-01-22 05:07",
+    "mensaje": "💡Restablecido el servicio eléctrico en los siguientes circuitos:\n👉Municipio Ranchuelo: \nCtos 89, 97, 188 y 189\nCtos 148 y 149 San Juan\nCto 91 Batey Osvaldo Herrera\nCto 181 Batey Ifraín Alfonso",
+    "timestamp": 1769058444,
+    "timestamp_local": 1769058444
+  },
+  {
     "id": 38694,
     "fecha": "22 de Jan del 2026 a las 12:00 AM",
     "hora_utc": "2026-01-22 05:00",
@@ -118,21 +134,5 @@
     "mensaje": "⚠️ En déficit de capacidad de generación los siguientes circuitos:\n👉Municipio Santa Clara\nCto 7 (Universidad)  \nCto 146 (Elevado Aeropuerto) \nCto 22 (Construcciones Textil)\nCto 131 (Las Antillas)\nCto 153 (EIDE) \nCtos 14, 15 y 27 (Maleza)",
     "timestamp": 1769033087,
     "timestamp_local": 1769033087
-  },
-  {
-    "id": 38676,
-    "fecha": "21 de Jan del 2026 a las 04:51 PM",
-    "hora_utc": "2026-01-21 21:51",
-    "mensaje": "⚠️ En déficit de capacidad de generación los siguientes circuitos:\n👉Municipio Ranchuelo:\nCto 92 Esperanza (Pueblo)\nCto 93 Esperanza (Campo)\nCtos 54, 94 y 95 Jicotea\n👉Municipio Santa Clara\nCtos 26 y 141 (Manuelita)\nCto 191 (Quemado de Hilario) \n👉Municipio Santo Domingo\nCto 79 (Santo Domingo)\nCto 81 (26 de Julio)\nCto 163 (Batey 26 de Julio",
-    "timestamp": 1769032272,
-    "timestamp_local": 1769032272
-  },
-  {
-    "id": 38675,
-    "fecha": "21 de Jan del 2026 a las 04:50 PM",
-    "hora_utc": "2026-01-21 21:50",
-    "mensaje": "⚠️ En déficit de capacidad de generación los siguientes circuitos:\nMunicipio Quemado:\n👉Ctos 164, 52 y 53 Quemado.\n👉Cto 196 Batey Panchito Gómez Toro.\n\n👉Cto 57 Motembo\n👉Cto 56 Yabre\n👉Cto 60 La Sierra\n👉Cto 55 Rancho Veloz",
-    "timestamp": 1769032216,
-    "timestamp_local": 1769032216
   }
 ]
