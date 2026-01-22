@@ -1,5 +1,29 @@
 [
   {
+    "id": 38740,
+    "fecha": "22 de Jan del 2026 a las 12:38 PM",
+    "hora_utc": "2026-01-22 17:38",
+    "mensaje": "🔴10:30|| Fuera de línea la Unidad 1 de la CTE Ernesto Guevara De La Serna, se investiga la causa.\n🔴 12:05 || Fuera de línea la Unidad 5 de la CTE Diez de Octubre.",
+    "timestamp": 1769103489,
+    "timestamp_local": 1769103489
+  },
+  {
+    "id": 38739,
+    "fecha": "22 de Jan del 2026 a las 12:16 PM",
+    "hora_utc": "2026-01-22 17:16",
+    "mensaje": "⚠️ En déficit de capacidad de generación los siguientes circuitos:\n🔹Municipio Caibarién:\nCtos 61, 62, 63 y 64\nCtos 182 y 183 Van Troy",
+    "timestamp": 1769102203,
+    "timestamp_local": 1769102203
+  },
+  {
+    "id": 38738,
+    "fecha": "22 de Jan del 2026 a las 12:13 PM",
+    "hora_utc": "2026-01-22 17:13",
+    "mensaje": "🕛Actualización del servicio eléctrico en las últimas 6 horas.\n✍️El déficit de capacidad de generación osciló entre los 58 MW y los 81 MW.\n✍️En el momento de esta nota, se mantienen afectados 96 circuitos.\n✍️Cuenta con 127 afectaciones por averías secundarias y de servicio:\nCaibarién (4)\nCamajuaní (4)\nCifuentes (3)\nCorralillo (1)\nEncrucijada (4)\nManicaragua (10)\nPlacetas (6)\nRanchuelo (8)\nRemedios (9) \nSagua (13) \nSanta Clara (63)\nSanto Domingo (4)\n🛠️Se encuentran 9 averías en vías de solución.\n🛠️Pendientes a solucionar por el área técnica 10.\n⚡Averías⚡\n✍️Afectado parcialmente el circuito 71 (Buena Vista), ramal Pueblo Nuevo, del municipio Remedios por trabajo de vía libre para reparar spanes de línea partidos y cable primario partido.\n✍️Afectado el circuito 111 (Mataguá), del municipio Manicaragua. Se estudian las causas.\n✍️Afectado el circuito 122 del municipio Encrucijada. Se estudian las causas.",
+    "timestamp": 1769102027,
+    "timestamp_local": 1769102027
+  },
+  {
     "id": 38736,
     "fecha": "22 de Jan del 2026 a las 11:56 AM",
     "hora_utc": "2026-01-22 16:56",
@@ -19,7 +43,7 @@
     "id": 38734,
     "fecha": "22 de Jan del 2026 a las 11:46 AM",
     "hora_utc": "2026-01-22 16:46",
-    "mensaje": "🛠️ Comienzan las acciones por parte de la brigada eléctrica en el Ramal Pueblo Nuevo perteneciente al circuito 71 (Buena Vista), del municipio Remedios, para reparar spanes de línea partidos y cable primario partido.",
+    "mensaje": "🛠️ Comienzan las acciones por parte de la brigada eléctrica en el Ramal Pueblo Nuevo perteneciente al circuito 71 (Buena Vista), del municipio Remedios, para reparar spanes de línea y cable primario partido.",
     "timestamp": 1769100378,
     "timestamp_local": 1769100378
   },
@@ -126,29 +150,5 @@
     "mensaje": "🛠️Afectado por disparo la línea 331 al momento de restablecerse:\nAfecta los siguientes circuitos:\n🔹Municipio Manicaragua:\nCtos 109 y 150\nCtos 108 y 110 La Piedra\nCto 111 Mataguá\n✍️Se estudian las causas.",
     "timestamp": 1769092753,
     "timestamp_local": 1769092753
-  },
-  {
-    "id": 38719,
-    "fecha": "22 de Jan del 2026 a las 09:30 AM",
-    "hora_utc": "2026-01-22 14:30",
-    "mensaje": "⚡Afectado los circuitos 58 y 159 del municipio Corralillo. Se estudian las causas.",
-    "timestamp": 1769092249,
-    "timestamp_local": 1769092249
-  },
-  {
-    "id": 38718,
-    "fecha": "22 de Jan del 2026 a las 09:24 AM",
-    "hora_utc": "2026-01-22 14:24",
-    "mensaje": "Con servicio la línea 6375: \nMunicipio Santa Clara\nCto 7 (Universidad)  \nCto 22 (Construcciones Textil)\nCto 131 (Las Antillas)\nCto 153 (EIDE) \nCtos 14, 15 y 27 (Maleza\nCto 25 Los Güiros\nCto 35 Biotecnología\nCto 24 Planta Asfalto\nCto 146 (Elevado Aeropuerto)",
-    "timestamp": 1769091879,
-    "timestamp_local": 1769091879
-  },
-  {
-    "id": 38717,
-    "fecha": "22 de Jan del 2026 a las 09:17 AM",
-    "hora_utc": "2026-01-22 14:17",
-    "mensaje": "🛠️Afectada por manipulación la línea 6375 para reponer el circuito 146 (Elevado Aeropuerto): \nMunicipio Santa Clara\nCto 7 (Universidad)  \nCto 22 (Construcciones Textil)\nCto 131 (Las Antillas)\nCto 153 (EIDE) \nCtos 14, 15 y 27 (Maleza\nCto 25 Los Güiros\nCto 35 Biotecnología\nCto 24 Planta Asfalto",
-    "timestamp": 1769091441,
-    "timestamp_local": 1769091441
   }
 ]
