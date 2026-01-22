@@ -1,5 +1,29 @@
 [
   {
+    "id": 38725,
+    "fecha": "22 de Jan del 2026 a las 10:21 AM",
+    "hora_utc": "2026-01-22 15:21",
+    "mensaje": "Con servicio la línea 1205:\nAfecta los siguientes circuitos:\n🔹Municipio Sagua\nCtos 43, 51 Sagua\nCtos 50 y 147 Villa Alegre\nCto 44 Isabela",
+    "timestamp": 1769095291,
+    "timestamp_local": 1769095291
+  },
+  {
+    "id": 38724,
+    "fecha": "22 de Jan del 2026 a las 10:16 AM",
+    "hora_utc": "2026-01-22 15:16",
+    "mensaje": "Actualización del servicio eléctrico en la provincia\n✍️Se mantienen afectados en la provincia 91 circuitos.\n✍️En el momento de hacer esta nota la provincia tiene 64 MW por déficit de capacidad de generación.\n✍️Cuenta con 113 afectaciones por averías secundarias y de servicio",
+    "timestamp": 1769094994,
+    "timestamp_local": 1769094994
+  },
+  {
+    "id": 38723,
+    "fecha": "22 de Jan del 2026 a las 10:12 AM",
+    "hora_utc": "2026-01-22 15:12",
+    "mensaje": "🛠️Afectada por manipulación la línea 1205 para reponer el circuito 44 (Isabela):\nAfecta los siguientes circuitos:\n🔹Municipio Sagua\nCtos 43, 51 Sagua\nCtos 50 y 147 Villa Alegre",
+    "timestamp": 1769094763,
+    "timestamp_local": 1769094763
+  },
+  {
     "id": 38722,
     "fecha": "22 de Jan del 2026 a las 09:51 AM",
     "hora_utc": "2026-01-22 14:51",
@@ -126,29 +150,5 @@
     "mensaje": "⚡Afectado por avería el circuito 15 Base Aérea, se estudian las causas.",
     "timestamp": 1769082581,
     "timestamp_local": 1769082581
-  },
-  {
-    "id": 38703,
-    "fecha": "22 de Jan del 2026 a las 06:02 AM",
-    "hora_utc": "2026-01-22 11:02",
-    "mensaje": "🕕Actualización del servicio eléctrico en las últimas 6 horas.\n\n👉El déficit de capacidad de generación osciló entre los 71 MW y los 58 MW.\n👉En el momento de esta nota, se mantienen afectados 119 circuitos.\n👉Cuenta con 68 afectaciones por averías secundarias y de servicio:\n Encrucijada (1)\n Manicaragua (8)\n Ranchuelo (5)\n Remedios (2) \n Sagua (1) \n Santa Clara (39)\n Santo Domingo (1)\n🛠️Se encuentran 1 averías en vías de solución.\n🛠️Pendientes a solucionar por el área técnica 11.\n\n\n⚡Avería⚡\n⚡Afectado por avería de manera parcial el circuito 71 Buena Vista, ramal Pueblo Nuevo, por ramas de árbol encima de cable primario.",
-    "timestamp": 1769079767,
-    "timestamp_local": 1769079767
-  },
-  {
-    "id": 38702,
-    "fecha": "22 de Jan del 2026 a las 05:30 AM",
-    "hora_utc": "2026-01-22 10:30",
-    "mensaje": "⚠️ En déficit de capacidad de generación los siguientes circuitos:\n\n👉Municipio Santo Domingo:\nCto 134\nCtos 87 y 96 Bermejal\nCto 187 Batey Carlos Baliño\nCto 82 Ulacia\nCto 84 Rodrigo",
-    "timestamp": 1769077803,
-    "timestamp_local": 1769077803
-  },
-  {
-    "id": 38701,
-    "fecha": "22 de Jan del 2026 a las 05:29 AM",
-    "hora_utc": "2026-01-22 10:29",
-    "mensaje": "⚠️ En déficit de capacidad de generación los siguientes circuitos:\n👉Municipio Manicaragua:\nCtos 109 y 150\nCtos 108 y 110 La Piedra",
-    "timestamp": 1769077750,
-    "timestamp_local": 1769077750
   }
 ]
