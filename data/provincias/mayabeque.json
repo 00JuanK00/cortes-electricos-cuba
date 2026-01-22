@@ -1,5 +1,21 @@
 [
   {
+    "id": 104167,
+    "fecha": "22 de Jan del 2026 a las 09:34 AM",
+    "hora_utc": "2026-01-22 14:34",
+    "mensaje": "🔷 Restablecido el servicio en el circuito Güines 4 que se encontraba afectado por avería 🔷",
+    "timestamp": 1769092498,
+    "timestamp_local": 1769092498
+  },
+  {
+    "id": 104166,
+    "fecha": "22 de Jan del 2026 a las 09:33 AM",
+    "hora_utc": "2026-01-22 14:33",
+    "mensaje": "♦️ Afectado el servicio en el circuito de Camaño por vía libre para cambio de transformador♦️",
+    "timestamp": 1769092433,
+    "timestamp_local": 1769092433
+  },
+  {
     "id": 104165,
     "fecha": "22 de Jan del 2026 a las 08:32 AM",
     "hora_utc": "2026-01-22 13:32",
@@ -86,37 +102,5 @@
     "mensaje": "♦️ Afectado el servicio en el circuito 3140 por disparo por DAF ♦️",
     "timestamp": 1769082755,
     "timestamp_local": 1769082755
-  },
-  {
-    "id": 104149,
-    "fecha": "22 de Jan del 2026 a las 06:32 AM",
-    "hora_utc": "2026-01-22 11:32",
-    "mensaje": "🔷 Restablecido el servicio en el circuito 3590 que se encontraba afectado por DAF 🔷",
-    "timestamp": 1769081552,
-    "timestamp_local": 1769081552
-  },
-  {
-    "id": 104148,
-    "fecha": "22 de Jan del 2026 a las 06:32 AM",
-    "hora_utc": "2026-01-22 11:32",
-    "mensaje": "🔷 Restablecido el servicio en el circuito 3140 que se encontraba afectado por DAF 🔷",
-    "timestamp": 1769081552,
-    "timestamp_local": 1769081552
-  },
-  {
-    "id": 104147,
-    "fecha": "22 de Jan del 2026 a las 06:16 AM",
-    "hora_utc": "2026-01-22 11:16",
-    "mensaje": "♦️ Afectado el servicio en el circuito Güines 4 por avería ♦️",
-    "timestamp": 1769080609,
-    "timestamp_local": 1769080609
-  },
-  {
-    "id": 104146,
-    "fecha": "22 de Jan del 2026 a las 06:15 AM",
-    "hora_utc": "2026-01-22 11:15",
-    "mensaje": "♦️ Afectado el servicio en el circuito 3590 por disparo por DAF ♦️",
-    "timestamp": 1769080526,
-    "timestamp_local": 1769080526
   }
 ]

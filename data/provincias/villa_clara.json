@@ -1,5 +1,61 @@
 [
   {
+    "id": 38722,
+    "fecha": "22 de Jan del 2026 a las 09:51 AM",
+    "hora_utc": "2026-01-22 14:51",
+    "mensaje": "Restablecido el servicio eléctrico en el circuito 15 (Maleza), del municipio Santa Clara.",
+    "timestamp": 1769093495,
+    "timestamp_local": 1769093495
+  },
+  {
+    "id": 38721,
+    "fecha": "22 de Jan del 2026 a las 09:50 AM",
+    "hora_utc": "2026-01-22 14:50",
+    "mensaje": "En avería la línea 331:\nAfecta los siguientes circuitos:\n🔹Municipio Manicaragua:\nCtos 109 y 150\nCtos 108 y 110 La Piedra\nCto 111 Mataguá",
+    "timestamp": 1769093420,
+    "timestamp_local": 1769093420
+  },
+  {
+    "id": 38720,
+    "fecha": "22 de Jan del 2026 a las 09:39 AM",
+    "hora_utc": "2026-01-22 14:39",
+    "mensaje": "🛠️Afectado por disparo la línea 331 al momento de restablecerse:\nAfecta los siguientes circuitos:\n🔹Municipio Manicaragua:\nCtos 109 y 150\nCtos 108 y 110 La Piedra\nCto 111 Mataguá\n✍️Se estudian las causas.",
+    "timestamp": 1769092753,
+    "timestamp_local": 1769092753
+  },
+  {
+    "id": 38719,
+    "fecha": "22 de Jan del 2026 a las 09:30 AM",
+    "hora_utc": "2026-01-22 14:30",
+    "mensaje": "⚡Afectado los circuitos 58 y 159 del municipio Corralillo. Se estudian las causas.",
+    "timestamp": 1769092249,
+    "timestamp_local": 1769092249
+  },
+  {
+    "id": 38718,
+    "fecha": "22 de Jan del 2026 a las 09:24 AM",
+    "hora_utc": "2026-01-22 14:24",
+    "mensaje": "Con servicio la línea 6375: \nMunicipio Santa Clara\nCto 7 (Universidad)  \nCto 22 (Construcciones Textil)\nCto 131 (Las Antillas)\nCto 153 (EIDE) \nCtos 14, 15 y 27 (Maleza\nCto 25 Los Güiros\nCto 35 Biotecnología\nCto 24 Planta Asfalto\nCto 146 (Elevado Aeropuerto)",
+    "timestamp": 1769091879,
+    "timestamp_local": 1769091879
+  },
+  {
+    "id": 38717,
+    "fecha": "22 de Jan del 2026 a las 09:17 AM",
+    "hora_utc": "2026-01-22 14:17",
+    "mensaje": "🛠️Afectada por manipulación la línea 6375 para reponer el circuito 146 (Elevado Aeropuerto): \nMunicipio Santa Clara\nCto 7 (Universidad)  \nCto 22 (Construcciones Textil)\nCto 131 (Las Antillas)\nCto 153 (EIDE) \nCtos 14, 15 y 27 (Maleza\nCto 25 Los Güiros\nCto 35 Biotecnología\nCto 24 Planta Asfalto",
+    "timestamp": 1769091441,
+    "timestamp_local": 1769091441
+  },
+  {
+    "id": 38715,
+    "fecha": "22 de Jan del 2026 a las 09:12 AM",
+    "hora_utc": "2026-01-22 14:12",
+    "mensaje": "⚡Se encuentra afectado por faltar una fase el circuito 146 (Elevado Aeropuerto) del municipio Santa Clara.",
+    "timestamp": 1769091148,
+    "timestamp_local": 1769091148
+  },
+  {
     "id": 38714,
     "fecha": "22 de Jan del 2026 a las 08:47 AM",
     "hora_utc": "2026-01-22 13:47",
@@ -94,61 +150,5 @@
     "mensaje": "⚠️ En déficit de capacidad de generación los siguientes circuitos:\n👉Municipio Manicaragua:\nCtos 109 y 150\nCtos 108 y 110 La Piedra",
     "timestamp": 1769077750,
     "timestamp_local": 1769077750
-  },
-  {
-    "id": 38700,
-    "fecha": "22 de Jan del 2026 a las 04:02 AM",
-    "hora_utc": "2026-01-22 09:02",
-    "mensaje": "Actualización del servicio eléctrico en la provincia\n✍️Se mantienen afectados en la provincia 79 circuitos.\n✍️En el momento de hacer esta nota la provincia tiene 44 MW por déficit de capacidad de generación.\n✍️Cuenta con 57 afectaciones por averías secundarias y de servicio",
-    "timestamp": 1769072556,
-    "timestamp_local": 1769072556
-  },
-  {
-    "id": 38699,
-    "fecha": "22 de Jan del 2026 a las 02:08 AM",
-    "hora_utc": "2026-01-22 07:08",
-    "mensaje": "💡Restablecido el servicio eléctrico en los siguientes circuitos:\n👉Municipio Camajuaní:\nCto 75 La Quinta\nCto 157 Luis Arcos Bergnes\nCtos 76 y 90 Vega Alta\nCtos 77 y 185 Vueltas",
-    "timestamp": 1769065715,
-    "timestamp_local": 1769065715
-  },
-  {
-    "id": 38698,
-    "fecha": "22 de Jan del 2026 a las 01:58 AM",
-    "hora_utc": "2026-01-22 06:58",
-    "mensaje": "Actualización del servicio eléctrico en la provincia\n✍️Se mantienen afectados en la provincia 79 circuitos.\n✍️En el momento de hacer esta nota la provincia tiene 56 MW por déficit de capacidad de generación.\n✍️Cuenta con 57 afectaciones por averías secundarias y de servicio",
-    "timestamp": 1769065094,
-    "timestamp_local": 1769065094
-  },
-  {
-    "id": 38697,
-    "fecha": "22 de Jan del 2026 a las 01:34 AM",
-    "hora_utc": "2026-01-22 06:34",
-    "mensaje": "💡Restablecido el servicio eléctrico en los siguientes circuitos:\n👉Cto 196 Batey Panchito Gómez Toro.\n\n👉Cto 57 Motembo\n👉Cto 56 Yabre\n👉Cto 60 La Sierra\n👉Cto 55 Rancho Veloz",
-    "timestamp": 1769063676,
-    "timestamp_local": 1769063676
-  },
-  {
-    "id": 38696,
-    "fecha": "22 de Jan del 2026 a las 12:22 AM",
-    "hora_utc": "2026-01-22 05:22",
-    "mensaje": "💡Restablecido el servicio eléctrico en los siguientes circuitos:\n👉Municipio Camajuaní:\nCtos  72, 73 y 156",
-    "timestamp": 1769059346,
-    "timestamp_local": 1769059346
-  },
-  {
-    "id": 38695,
-    "fecha": "22 de Jan del 2026 a las 12:07 AM",
-    "hora_utc": "2026-01-22 05:07",
-    "mensaje": "💡Restablecido el servicio eléctrico en los siguientes circuitos:\n👉Municipio Ranchuelo: \nCtos 89, 97, 188 y 189\nCtos 148 y 149 San Juan\nCto 91 Batey Osvaldo Herrera\nCto 181 Batey Ifraín Alfonso",
-    "timestamp": 1769058444,
-    "timestamp_local": 1769058444
-  },
-  {
-    "id": 38694,
-    "fecha": "22 de Jan del 2026 a las 12:00 AM",
-    "hora_utc": "2026-01-22 05:00",
-    "mensaje": "🕛Actualización del servicio eléctrico en las últimas 6 horas.\n\n👉El déficit de capacidad de generación osciló entre los 105 MW y los 71 MW.\n👉En el momento de esta nota, se mantienen afectados 125 circuitos.\n👉Cuenta con 84 afectaciones por averías secundarias y de servicio:\n Cifuentes (1)\n Encrucijada (1)\n Manicaragua (8)\n Ranchuelo (5)\n Remedios (2) \n Santa Clara (52)\n Santo Domingo (1)\n🛠️Se encuentran 3 averías en vías de solución.\n🛠️Pendientes a solucionar por el área técnica 11.\n⚡Avería⚡\n⚡Afectado por avería de manera parcial el circuito 71 Buena Vista, ramal Pueblo Nuevo, por ramas de árbol encima de cable primario.",
-    "timestamp": 1769058058,
-    "timestamp_local": 1769058058
   }
 ]
