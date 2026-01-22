@@ -1,5 +1,21 @@
 [
   {
+    "id": 38742,
+    "fecha": "22 de Jan del 2026 a las 01:10 PM",
+    "hora_utc": "2026-01-22 18:10",
+    "mensaje": "⚠️ En déficit de capacidad de generación los siguientes circuitos:\n🔹Municipio Manicaragua:\nCtos 109 y 150\nCtos 108 y 110 La Piedra\nCto 111 Mataguá (Avería)",
+    "timestamp": 1769105407,
+    "timestamp_local": 1769105407
+  },
+  {
+    "id": 38741,
+    "fecha": "22 de Jan del 2026 a las 01:00 PM",
+    "hora_utc": "2026-01-22 18:00",
+    "mensaje": "⚠️ En déficit de capacidad de generación los siguientes circuitos:\n🔹Municipio Sagua\nCtos 43, 51 Sagua\nCto 44 Isabela\nCtos 50 y 147 Villa Alegre",
+    "timestamp": 1769104806,
+    "timestamp_local": 1769104806
+  },
+  {
     "id": 38740,
     "fecha": "22 de Jan del 2026 a las 12:38 PM",
     "hora_utc": "2026-01-22 17:38",
@@ -134,21 +150,5 @@
     "mensaje": "Restablecido el servicio eléctrico en el circuito 15 (Maleza), del municipio Santa Clara.",
     "timestamp": 1769093495,
     "timestamp_local": 1769093495
-  },
-  {
-    "id": 38721,
-    "fecha": "22 de Jan del 2026 a las 09:50 AM",
-    "hora_utc": "2026-01-22 14:50",
-    "mensaje": "En avería la línea 331:\nAfecta los siguientes circuitos:\n🔹Municipio Manicaragua:\nCtos 109 y 150\nCtos 108 y 110 La Piedra\nCto 111 Mataguá",
-    "timestamp": 1769093420,
-    "timestamp_local": 1769093420
-  },
-  {
-    "id": 38720,
-    "fecha": "22 de Jan del 2026 a las 09:39 AM",
-    "hora_utc": "2026-01-22 14:39",
-    "mensaje": "🛠️Afectado por disparo la línea 331 al momento de restablecerse:\nAfecta los siguientes circuitos:\n🔹Municipio Manicaragua:\nCtos 109 y 150\nCtos 108 y 110 La Piedra\nCto 111 Mataguá\n✍️Se estudian las causas.",
-    "timestamp": 1769092753,
-    "timestamp_local": 1769092753
   }
 ]
