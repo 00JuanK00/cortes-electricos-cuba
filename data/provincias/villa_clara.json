@@ -1,5 +1,21 @@
 [
   {
+    "id": 38691,
+    "fecha": "21 de Jan del 2026 a las 10:48 PM",
+    "hora_utc": "2026-01-22 03:48",
+    "mensaje": "✍️Ante cualquier duda con la terminología eléctrica, les volvemos explicar: \n     \n👉Las averías pueden ser primarias (afecta un volumen grande de población pues son las líneas de distribución a 13.8kV y puede afectar varias manzanas, incluso repartos completos).\n\n👉Secundarias (afecta a todos los clientes que se alimenten del mismo transformador, puede afectar una o varias cuadras). \n\n👉De servicio (afectan 1 solo cliente o instalación generalmente producto a daños en la acometida, metro contador, etc.).",
+    "timestamp": 1769053681,
+    "timestamp_local": 1769053681
+  },
+  {
+    "id": 38690,
+    "fecha": "21 de Jan del 2026 a las 10:04 PM",
+    "hora_utc": "2026-01-22 03:04",
+    "mensaje": "Actualización del servicio eléctrico en la provincia\n✍️Se mantienen afectados en la provincia 145 circuitos.\n✍️En el momento de hacer esta nota la provincia tiene 130 MW por déficit de capacidad de generación.\n✍️Cuenta con 77 afectaciones por averías secundarias y de servicio",
+    "timestamp": 1769051090,
+    "timestamp_local": 1769051090
+  },
+  {
     "id": 38687,
     "fecha": "21 de Jan del 2026 a las 07:58 PM",
     "hora_utc": "2026-01-22 00:58",
@@ -118,29 +134,5 @@
     "mensaje": "Actualización del servicio eléctrico en la provincia\n✍️Se mantienen afectados en la provincia 100 circuitos.\n✍️En el momento de hacer esta nota la provincia tiene 85 MW por déficit de capacidad de generación.\n✍️Cuenta con 99 afectaciones por averías secundarias y de servicio",
     "timestamp": 1769029277,
     "timestamp_local": 1769029277
-  },
-  {
-    "id": 38672,
-    "fecha": "21 de Jan del 2026 a las 03:10 PM",
-    "hora_utc": "2026-01-21 20:10",
-    "mensaje": "⚠️ En déficit de capacidad de generación los siguientes circuitos:\n\n👉Municipio Encrucijada\nCto 120 Calabazar\nCtos 121 y 127 Perucho",
-    "timestamp": 1769026258,
-    "timestamp_local": 1769026258
-  },
-  {
-    "id": 38671,
-    "fecha": "21 de Jan del 2026 a las 02:53 PM",
-    "hora_utc": "2026-01-21 19:53",
-    "mensaje": "⚡Afectado por avería de manera parcial el circuito 71 Buena Vista, ramal Pueblo Nuevo, por ramas de árbol encima de cable primario.",
-    "timestamp": 1769025196,
-    "timestamp_local": 1769025196
-  },
-  {
-    "id": 38670,
-    "fecha": "21 de Jan del 2026 a las 02:07 PM",
-    "hora_utc": "2026-01-21 19:07",
-    "mensaje": "🚨El Centro de atención Telefónica 18888 se encuentra fuera de servicio por problemas tecnológicos en las comunicaciones.\n\n🛠️Se trabaja en la solución del problema y se buscan alternativas para rescatar la comunicación entre la Empresa y nuestros clientes.\n\n👉Nuestro canal se mantendrá emitiendo información.",
-    "timestamp": 1769022476,
-    "timestamp_local": 1769022476
   }
 ]
