@@ -1,5 +1,21 @@
 [
   {
+    "id": 31495,
+    "fecha": "21 de Jan del 2026 a las 09:08 PM",
+    "hora_utc": "2026-01-22 02:08",
+    "mensaje": "🔋La afectación de la provincia es de 123 MW por déficit de capacidad de generación máximo apagable para este horario en la provincia",
+    "timestamp": 1769047719,
+    "timestamp_local": 1769047719
+  },
+  {
+    "id": 31494,
+    "fecha": "21 de Jan del 2026 a las 08:30 PM",
+    "hora_utc": "2026-01-22 01:30",
+    "mensaje": "🔋La afectación de la provincia es de 145 MW por déficit de capacidad de generación máximo apagable para este horario en la provincia",
+    "timestamp": 1769045442,
+    "timestamp_local": 1769045442
+  },
+  {
     "id": 31493,
     "fecha": "21 de Jan del 2026 a las 07:44 PM",
     "hora_utc": "2026-01-22 00:44",
@@ -142,21 +158,5 @@
     "mensaje": "🪫 La provincia se encuentra con un déficit de capacidad de generación de 80 MW.\n\n📢 A medida que las condiciones del sistema lo permitan, se irán restableciendo de forma gradual los circuitos que han tenido más tiempo de afectación.",
     "timestamp": 1768993630,
     "timestamp_local": 1768993630
-  },
-  {
-    "id": 31473,
-    "fecha": "21 de Jan del 2026 a las 05:31 AM",
-    "hora_utc": "2026-01-21 10:31",
-    "mensaje": "⚡En estos momentos tenemos afectados  72 MW en la provincia por déficit de capacidad de generación.⚡",
-    "timestamp": 1768991483,
-    "timestamp_local": 1768991483
-  },
-  {
-    "id": 31472,
-    "fecha": "21 de Jan del 2026 a las 04:17 AM",
-    "hora_utc": "2026-01-21 09:17",
-    "mensaje": "💡 CIRCUITOS RESTABLECIDOS: \n\n⚡Déficit de capacidad de generación en la provincia de:  53 MW . ⚡\n\n🔌 Circuito 4604 que da servicio a Martí-Itabo-Hoyo Colorado.\n🔌 Circuito GI103 que da servicio a Jagüey Ciudad.",
-    "timestamp": 1768987061,
-    "timestamp_local": 1768987061
   }
 ]
