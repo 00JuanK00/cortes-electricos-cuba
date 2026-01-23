@@ -1,5 +1,29 @@
 [
   {
+    "id": 31540,
+    "fecha": "22 de Jan del 2026 a las 07:42 PM",
+    "hora_utc": "2026-01-23 00:42",
+    "mensaje": "🔴 19:19 || Actúa la DAF en el sistema por Disparo de Energás Jaruco 1, 2, 4 y bajada de carga de la Unidad 5.",
+    "timestamp": 1769128922,
+    "timestamp_local": 1769128922
+  },
+  {
+    "id": 31539,
+    "fecha": "22 de Jan del 2026 a las 07:32 PM",
+    "hora_utc": "2026-01-23 00:32",
+    "mensaje": "*⚡Déficit de capacidad de generación en la provincia:  149  MW . ⚡*",
+    "timestamp": 1769128368,
+    "timestamp_local": 1769128368
+  },
+  {
+    "id": 31538,
+    "fecha": "22 de Jan del 2026 a las 07:11 PM",
+    "hora_utc": "2026-01-23 00:11",
+    "mensaje": "‼️Nos mantenemos con  141  MW afectados en la provincia.‼️",
+    "timestamp": 1769127087,
+    "timestamp_local": 1769127087
+  },
+  {
     "id": 31537,
     "fecha": "22 de Jan del 2026 a las 06:04 PM",
     "hora_utc": "2026-01-22 23:04",
@@ -134,29 +158,5 @@
     "mensaje": "🚨Se le informa a la población que la provincia presenta una afectación de 99  MW .",
     "timestamp": 1769101482,
     "timestamp_local": 1769101482
-  },
-  {
-    "id": 31520,
-    "fecha": "22 de Jan del 2026 a las 11:38 AM",
-    "hora_utc": "2026-01-22 16:38",
-    "mensaje": "🪫 La provincia se encuentra en el máximo apagable con un déficit de capacidad de generación de  78  MW.\n\n🔄 Una vez que podamos rotar el servicio, iremos restableciendo de manera paulatina los circuitos que han estado más tiempo sin suministro en dependencia del comportamiento de la demanda y la disponibilidad del sistema eléctrico.",
-    "timestamp": 1769099909,
-    "timestamp_local": 1769099909
-  },
-  {
-    "id": 31519,
-    "fecha": "22 de Jan del 2026 a las 11:30 AM",
-    "hora_utc": "2026-01-22 16:30",
-    "mensaje": "*⚡Déficit de capacidad de generación en la provincia:  78  MW . ⚡*",
-    "timestamp": 1769099420,
-    "timestamp_local": 1769099420
-  },
-  {
-    "id": 31518,
-    "fecha": "22 de Jan del 2026 a las 11:22 AM",
-    "hora_utc": "2026-01-22 16:22",
-    "mensaje": "CON SERVICIO ✅\n🔌 Circuito 4427 que da servicio a Reparto 13 de marzo, circuitos 2 y 3 desde Salud hasta Obispo y desde García hasta Génes, Playa Larga, Smith Comas.  \n🔌Circuito MI1451 que da servicio a Armando Mestre, Quintanales, Reparto Lozano, Kilómetro.\n🔌Circuito MI1452 que da servicio a Laboratorio Epidemiología, Tele Centro, Los Mangos.\n🔌Circuito MI1454 que da servicio a Compostela.\n🔌 Circuito MI1456 que da servicio a Calzada de San Luis hasta Parque Maceo y La Jaiba.",
-    "timestamp": 1769098920,
-    "timestamp_local": 1769098920
   }
 ]
