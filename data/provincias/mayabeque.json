@@ -1,5 +1,29 @@
 [
   {
+    "id": 104267,
+    "fecha": "23 de Jan del 2026 a las 06:25 AM",
+    "hora_utc": "2026-01-23 11:25",
+    "mensaje": "🔷♦️Se restablece el servicio en el circuito que se encontraba afectado  por déficit de capacidad de generación:\n*2440♦️🔷",
+    "timestamp": 1769167502,
+    "timestamp_local": 1769167502
+  },
+  {
+    "id": 104266,
+    "fecha": "23 de Jan del 2026 a las 06:19 AM",
+    "hora_utc": "2026-01-23 11:19",
+    "mensaje": "🔷♦️Se restablece el servicio en los circuitos que se encontraban afectados por déficit de capacidad de generación:\n*Catalina 1 y 2♦️🔷",
+    "timestamp": 1769167164,
+    "timestamp_local": 1769167164
+  },
+  {
+    "id": 104265,
+    "fecha": "23 de Jan del 2026 a las 06:13 AM",
+    "hora_utc": "2026-01-23 11:13",
+    "mensaje": "🔷♦️Se restablece el servicio en los circuitos que se encontraban afectados por déficit de capacidad de generación:\n*Los Palos\n*Sureste♦️🔷",
+    "timestamp": 1769166812,
+    "timestamp_local": 1769166812
+  },
+  {
     "id": 104264,
     "fecha": "23 de Jan del 2026 a las 06:03 AM",
     "hora_utc": "2026-01-23 11:03",
@@ -75,7 +99,7 @@
     "id": 104255,
     "fecha": "22 de Jan del 2026 a las 11:48 PM",
     "hora_utc": "2026-01-23 04:48",
-    "mensaje": "🔷♦️Se restablece el servicio en los circuitos que se encontraban afectados por déficit de capacidad de generación:\n *6 y 8 de San José  ♦️🔷",
+    "mensaje": "🔷♦️Se restablece el servicio en los circuitos que se encontraban afectados por déficit de capacidad de generación:\n *6 y 8 de San José  ♦️🔷\n\n🔷 Restablecido el servicio en el circuito Flor de Itabo que se encontraba afectado por avería🔷",
     "timestamp": 1769143710,
     "timestamp_local": 1769143710
   },
@@ -134,29 +158,5 @@
     "mensaje": "♦️Afectado el servicio en el circuito Flor de Itabo por avería♦️",
     "timestamp": 1769134641,
     "timestamp_local": 1769134641
-  },
-  {
-    "id": 104246,
-    "fecha": "22 de Jan del 2026 a las 09:00 PM",
-    "hora_utc": "2026-01-23 02:00",
-    "mensaje": "🔷Restablecido el servicio en el circuito 3140 que se encontraba afectado por disparo por DAF🔷",
-    "timestamp": 1769133644,
-    "timestamp_local": 1769133644
-  },
-  {
-    "id": 104245,
-    "fecha": "22 de Jan del 2026 a las 08:48 PM",
-    "hora_utc": "2026-01-23 01:48",
-    "mensaje": "🔷♦️Se restablece el servicio en el circuito que se encontraba afectado  por déficit de capacidad de generación:\n*Güines 3♦️🔷",
-    "timestamp": 1769132882,
-    "timestamp_local": 1769132882
-  },
-  {
-    "id": 104244,
-    "fecha": "22 de Jan del 2026 a las 08:42 PM",
-    "hora_utc": "2026-01-23 01:42",
-    "mensaje": "🔷Restablecido el servicio en el circuito 3590 que se encontraba afectado por disparo por DAF🔷",
-    "timestamp": 1769132571,
-    "timestamp_local": 1769132571
   }
 ]
