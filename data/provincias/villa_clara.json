@@ -1,5 +1,45 @@
 [
   {
+    "id": 38756,
+    "fecha": "22 de Jan del 2026 a las 08:36 PM",
+    "hora_utc": "2026-01-23 01:36",
+    "mensaje": "Con servicio la línea 6375: \nMunicipio Santa Clara\nCto 7 (Universidad)  \nCto 22 (Construcciones Textil)\nCto 131 (Las Antillas)\nCto 153 (EIDE) \nCtos 14, 15 y 27 (Maleza\nCto 25 Los Güiros\nCto 35 Biotecnología\nCto 24 Planta Asfalto\nCto 146 (Elevado Aeropuerto)",
+    "timestamp": 1769132167,
+    "timestamp_local": 1769132167
+  },
+  {
+    "id": 38755,
+    "fecha": "22 de Jan del 2026 a las 08:22 PM",
+    "hora_utc": "2026-01-23 01:22",
+    "mensaje": "🛠️Afectada por disparo la línea 6375: \nAfecta los siguientes circuitos:\nMunicipio Santa Clara\nCto 7 (Universidad)  \nCto 22 (Construcciones Textil)\nCto 131 (Las Antillas)\nCto 153 (EIDE) \nCtos 14, 15 y 27 (Maleza\nCto 25 Los Güiros\nCto 35 Biotecnología\nCto 24 Planta Asfalto\nCto 146 (Elevado Aeropuerto)\n✍Se estudian las causas.",
+    "timestamp": 1769131335,
+    "timestamp_local": 1769131335
+  },
+  {
+    "id": 38754,
+    "fecha": "22 de Jan del 2026 a las 08:12 PM",
+    "hora_utc": "2026-01-23 01:12",
+    "mensaje": "Actualización del servicio eléctrico en la provincia\n✍️Se mantienen afectados en la provincia 145 circuitos.\n✍️En el momento de hacer esta nota la provincia tiene 116 MW por déficit de capacidad de generación.\n✍️Cuenta con 112 afectaciones por averías secundarias y de servicio",
+    "timestamp": 1769130740,
+    "timestamp_local": 1769130740
+  },
+  {
+    "id": 38753,
+    "fecha": "22 de Jan del 2026 a las 07:58 PM",
+    "hora_utc": "2026-01-23 00:58",
+    "mensaje": "🔴 19:19 || Actúa la DAF en el sistema por Disparo de Energás Jaruco 1, 2, 4 y bajada de carga de la Unidad 5.",
+    "timestamp": 1769129910,
+    "timestamp_local": 1769129910
+  },
+  {
+    "id": 38752,
+    "fecha": "22 de Jan del 2026 a las 07:52 PM",
+    "hora_utc": "2026-01-23 00:52",
+    "mensaje": "💡Con servicio los siguientes circuitos:\n🔹Municipio Santa Clara: \n Cto 166 (Condado)\nCto 167 (Virginia)\nCto 170 (José Martí)\nCto 171 (Los Caneyes)\nCto 162 (Santa Clara Industrial)\nCto 31 (Sakenaf)\nCto 6 (Vigía)",
+    "timestamp": 1769129561,
+    "timestamp_local": 1769129561
+  },
+  {
     "id": 38750,
     "fecha": "22 de Jan del 2026 a las 06:19 PM",
     "hora_utc": "2026-01-22 23:19",
@@ -110,45 +150,5 @@
     "mensaje": "Con servicio los siguientes circuitos:\n🔹Municipio Santa Clara: \nCto 166 (Condado)\nCto 167 (Virginia)\nCto 170 (José Martí)",
     "timestamp": 1769101013,
     "timestamp_local": 1769101013
-  },
-  {
-    "id": 38735,
-    "fecha": "22 de Jan del 2026 a las 11:54 AM",
-    "hora_utc": "2026-01-22 16:54",
-    "mensaje": "⚠️ En déficit de capacidad de generación los siguientes circuitos:\n🔹Municipio Remedios:\nCtos 67 y 152, 68 y 118 \nCtos 69 y 70 Zuluetas\nCto 143 Batey Heriberto Duquesne\nCto 71 Buena Vista (Avería Parcial)",
-    "timestamp": 1769100874,
-    "timestamp_local": 1769100874
-  },
-  {
-    "id": 38734,
-    "fecha": "22 de Jan del 2026 a las 11:46 AM",
-    "hora_utc": "2026-01-22 16:46",
-    "mensaje": "🛠️ Comienzan las acciones por parte de la brigada eléctrica en el Ramal Pueblo Nuevo perteneciente al circuito 71 (Buena Vista), del municipio Remedios, para reparar spanes de línea y cable primario partido.",
-    "timestamp": 1769100378,
-    "timestamp_local": 1769100378
-  },
-  {
-    "id": 38733,
-    "fecha": "22 de Jan del 2026 a las 11:42 AM",
-    "hora_utc": "2026-01-22 16:42",
-    "mensaje": "🛠️Afectado por manipulación los siguientes circuitos:\n🔹Municipio Santa Clara: \nCto 166 (Condado)\nCto 167 (Virginia)\nCto 170 (José Martí)",
-    "timestamp": 1769100163,
-    "timestamp_local": 1769100163
-  },
-  {
-    "id": 38732,
-    "fecha": "22 de Jan del 2026 a las 11:36 AM",
-    "hora_utc": "2026-01-22 16:36",
-    "mensaje": "💡Restablecido parcialmente el circuito 111 (Mataguá), del municipio Manicaragua.",
-    "timestamp": 1769099773,
-    "timestamp_local": 1769099773
-  },
-  {
-    "id": 38731,
-    "fecha": "22 de Jan del 2026 a las 11:07 AM",
-    "hora_utc": "2026-01-22 16:07",
-    "mensaje": "💡Con servicio los circuitos 58 y 159 del municipio Corralillo.",
-    "timestamp": 1769098063,
-    "timestamp_local": 1769098063
   }
 ]
