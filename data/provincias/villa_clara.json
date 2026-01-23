@@ -1,5 +1,37 @@
 [
   {
+    "id": 38781,
+    "fecha": "23 de Jan del 2026 a las 12:46 PM",
+    "hora_utc": "2026-01-23 17:46",
+    "mensaje": "Afectados 114 MW en la provincia, demanda máxima a apagar en estos momentos.",
+    "timestamp": 1769190407,
+    "timestamp_local": 1769190407
+  },
+  {
+    "id": 38780,
+    "fecha": "23 de Jan del 2026 a las 12:33 PM",
+    "hora_utc": "2026-01-23 17:33",
+    "mensaje": "⚠En déficit de capacidad de generación los siguientes circuitos:\n🔹**MunicipioPlacetas**\n👉**C**tos 100 y 151 Placetas\n👉Cto 104 Hermanos Amejeiras\n👉Cto 103 Batey Carbó Servia",
+    "timestamp": 1769189626,
+    "timestamp_local": 1769189626
+  },
+  {
+    "id": 38779,
+    "fecha": "23 de Jan del 2026 a las 12:20 PM",
+    "hora_utc": "2026-01-23 17:20",
+    "mensaje": "⚠En déficit de capacidad de generación los siguientes circuitos:\n🔹Municipio Ranchuelo:\n👉Cto 92 Esperanza (Pueblo)\n👉Cto 93 Esperanza (Campo)\n👉Ctos 54, 94 y 95 Jicotea\n🔹Municipio Santa Clara\n👉Ctos 26 y 141 (Manuelita)\n👉Cto 191 (Quemado de Hilario) \n🔹Municipio Santo Domingo\n👉Cto 79 (Santo Domingo)\n👉Cto 81 (26 de Julio)\n👉Cto 163 (Batey 26 de Julio",
+    "timestamp": 1769188841,
+    "timestamp_local": 1769188841
+  },
+  {
+    "id": 38778,
+    "fecha": "23 de Jan del 2026 a las 12:00 PM",
+    "hora_utc": "2026-01-23 17:00",
+    "mensaje": "🕛Actualización del servicio eléctrico en las últimas 6 horas.\n✍️El déficit de capacidad de generación osciló entre los 94 MW y los 108 MW.\n✍️En el momento de esta nota, se mantienen afectados 140 circuitos.\n✍️Cuenta con 86 afectaciones por averías secundarias y de servicio:\n🔸Caibarién (1)\n🔸Camajuaní (2)\n🔸Cifuentes (2)\n🔸Manicaragua (5)\n🔸Placetas (4)\n🔸Ranchuelo (1)\n🔸Remedios (13) \n🔸Sagua (6)\n🔸Santa Clara (44)\n🔸Santo Domingo (8)\n🛠️Pendientes a solucionar por el área técnica 12.\n🔹La provincia no presenta averías primarias en estos momentos.",
+    "timestamp": 1769187643,
+    "timestamp_local": 1769187643
+  },
+  {
     "id": 38777,
     "fecha": "23 de Jan del 2026 a las 11:37 AM",
     "hora_utc": "2026-01-23 16:37",
@@ -110,29 +142,5 @@
     "mensaje": "Actualización del servicio eléctrico en la provincia\n✍️Se mantienen afectados en la provincia 142 circuitos.\n✍️En el momento de hacer esta nota la provincia tiene 65 MW por déficit de capacidad de generación.\n✍️Cuenta con 57 afectaciones por averías secundarias y de servicio",
     "timestamp": 1769152004,
     "timestamp_local": 1769152004
-  },
-  {
-    "id": 38759,
-    "fecha": "23 de Jan del 2026 a las 12:12 AM",
-    "hora_utc": "2026-01-23 05:12",
-    "mensaje": "🕛Actualización del servicio eléctrico en las últimas 6 horas.\n✍️El déficit de capacidad de generación osciló entre los 150 MW y los 77 MW.\n✍️En el momento de esta nota, se mantienen afectados 145 circuitos.\n✍️Cuenta con 96 afectaciones por averías secundarias y de servicio:\nCamajuaní (1)\nManicaragua (2)\nPlacetas (1)\nRanchuelo (2)\nRemedios (10) \nSagua (5)\nSanta Clara (52)\nSanto Domingo (5)\n🛠️Se encuentran 4 averías en vías de solución.\n🛠️Pendientes a solucionar por el área técnica 14.\n🔹La provincia no presenta averías primarias en estos momentos.",
-    "timestamp": 1769145171,
-    "timestamp_local": 1769145171
-  },
-  {
-    "id": 38757,
-    "fecha": "22 de Jan del 2026 a las 10:03 PM",
-    "hora_utc": "2026-01-23 03:03",
-    "mensaje": "Actualización del servicio eléctrico en la provincia\n✍️Se mantienen afectados en la provincia 145 circuitos.\n✍️En el momento de hacer esta nota la provincia tiene 91 MW por déficit de capacidad de generación.\n✍️Cuenta con 104 afectaciones por averías secundarias y de servicio",
-    "timestamp": 1769137411,
-    "timestamp_local": 1769137411
-  },
-  {
-    "id": 38756,
-    "fecha": "22 de Jan del 2026 a las 08:36 PM",
-    "hora_utc": "2026-01-23 01:36",
-    "mensaje": "Con servicio la línea 6375: \nMunicipio Santa Clara\nCto 7 (Universidad)  \nCto 22 (Construcciones Textil)\nCto 131 (Las Antillas)\nCto 153 (EIDE) \nCtos 14, 15 y 27 (Maleza\nCto 25 Los Güiros\nCto 35 Biotecnología\nCto 24 Planta Asfalto\nCto 146 (Elevado Aeropuerto)",
-    "timestamp": 1769132167,
-    "timestamp_local": 1769132167
   }
 ]
