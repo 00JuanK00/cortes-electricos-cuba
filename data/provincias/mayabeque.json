@@ -1,5 +1,21 @@
 [
   {
+    "id": 104293,
+    "fecha": "23 de Jan del 2026 a las 01:12 PM",
+    "hora_utc": "2026-01-23 18:12",
+    "mensaje": "🚨Por déficit de capacidad de generación se afecta el servicio en los siguientes circuitos:\n*San Felipe \n*Palomo 🚨",
+    "timestamp": 1769191970,
+    "timestamp_local": 1769191970
+  },
+  {
+    "id": 104292,
+    "fecha": "23 de Jan del 2026 a las 01:09 PM",
+    "hora_utc": "2026-01-23 18:09",
+    "mensaje": "🚨Por déficit de capacidad de generación se afecta el servicio en el siguiente circuito:\n*Quivicán 🚨",
+    "timestamp": 1769191759,
+    "timestamp_local": 1769191759
+  },
+  {
     "id": 104291,
     "fecha": "23 de Jan del 2026 a las 12:49 PM",
     "hora_utc": "2026-01-23 17:49",
@@ -134,21 +150,5 @@
     "mensaje": "**Nota Informativa: Estado del Sistema Eléctrico Nacional (SEN) – 23 de enero de 2026\n**En el día de ayer se afectó el servicio durante las 24 horas. La máxima afectación por déficit de capacidad de generación en el día de ayer fue de 1930 MW a las 18:40 horas.\nLa producción de energía de los 49 nuevos parques solares fotovoltaicos fue de 3186 MWh, con 711 MW como máxima potencia entregada en el horario de la media con esta fuente de generación. \n**Estado actual del SEN\n**La disponibilidad del SEN a las 06:00 horas es de 1260 MW, la demanda 2229 MW, con 1011 MW afectados. En el horario de la media se estima una afectación de 1200 MW. \n**Principales incidencias\n**Avería: Unidades 5 y 8 de la CTE Mariel, Unidad 3 de la CTE Carlos Manuel de Céspedes, Unidades 5 y 6 de Nuevitas, Unidad 2 de la CTE Felton.\nMantenimiento: Unidad 2 de la CTE Sata Cruz, Unidad 4 de la CTE Carlos Manuel de Céspedes en Cienfuegos.\nLimitaciones en la generación térmica: 466 MW fuera de servicio.\n**Pronóstico para el horario pico\n**Con este pronóstico para el pico se prevé una disponibilidad de 1260 MW con una demanda máxima de 3200 MW, para un déficit de 1940 MW, por lo que de mantenerse las condiciones previstas se pronostica una afectación de 1970 MW en este horario.",
     "timestamp": 1769175570,
     "timestamp_local": 1769175570
-  },
-  {
-    "id": 104273,
-    "fecha": "23 de Jan del 2026 a las 08:33 AM",
-    "hora_utc": "2026-01-23 13:33",
-    "mensaje": "🚨Por déficit de capacidad de generación se afecta el servicio en el siguiente circuito:\n*Güines 4🚨",
-    "timestamp": 1769175185,
-    "timestamp_local": 1769175185
-  },
-  {
-    "id": 104272,
-    "fecha": "23 de Jan del 2026 a las 07:51 AM",
-    "hora_utc": "2026-01-23 12:51",
-    "mensaje": "🚨Por déficit de capacidad de generación se afecta el servicio en los siguientes circuitos:\n*Sopapo\n*Madruga\n*Bío 2 🚨",
-    "timestamp": 1769172716,
-    "timestamp_local": 1769172716
   }
 ]
