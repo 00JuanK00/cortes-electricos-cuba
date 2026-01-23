@@ -1,5 +1,13 @@
 [
   {
+    "id": 17927,
+    "fecha": "23 de Jan del 2026 a las 02:28 AM",
+    "hora_utc": "2026-01-23 07:28",
+    "mensaje": "Se afectan por déficit los siguientes circuitos:\nTK4 Aeropuerto, Casa Piedra y Aurora\nTK1 Edificios de Buena Vista\nTK12 Las 40 y Nuevo Sosa\nTK6 Calle Cuba y zona sur de Buena Vista",
+    "timestamp": 1769153314,
+    "timestamp_local": 1769153314
+  },
+  {
     "id": 17925,
     "fecha": "23 de Jan del 2026 a las 12:21 AM",
     "hora_utc": "2026-01-23 05:21",
@@ -134,13 +142,5 @@
     "mensaje": "Se declara en avería el circuito:TK42 Gastón y Arroyo Muerto",
     "timestamp": 1769012904,
     "timestamp_local": 1769012904
-  },
-  {
-    "id": 17907,
-    "fecha": "21 de Jan del 2026 a las 11:00 AM",
-    "hora_utc": "2026-01-21 16:00",
-    "mensaje": "Se afectan por déficit de generación los siguientes circuitos:\nCircuito 33 Kv: 6810\nTK82 Tana\nTK83 Las Maboas\nTK113 La Aurora\nTK74 La Lomita\nTK110 El Batey\n6810 Poblado Amancio\nTK25 Cuatro Caminos, Dormitorio",
-    "timestamp": 1769011216,
-    "timestamp_local": 1769011216
   }
 ]
