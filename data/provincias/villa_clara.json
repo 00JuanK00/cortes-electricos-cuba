@@ -1,5 +1,29 @@
 [
   {
+    "id": 38767,
+    "fecha": "23 de Jan del 2026 a las 08:11 AM",
+    "hora_utc": "2026-01-23 13:11",
+    "mensaje": "Actualización del servicio eléctrico en la provincia\n✍️Se mantienen afectados en la provincia 140 circuitos.\n✍️En el momento de hacer esta nota la provincia tiene 96 MW por déficit de capacidad de generación.\n✍️Cuenta con 68 afectaciones por averías secundarias y de servicio",
+    "timestamp": 1769173917,
+    "timestamp_local": 1769173917
+  },
+  {
+    "id": 38766,
+    "fecha": "23 de Jan del 2026 a las 07:56 AM",
+    "hora_utc": "2026-01-23 12:56",
+    "mensaje": "Afectados 94 MW en la provincia, demanda máxima a apagar en estos momentos.",
+    "timestamp": 1769173009,
+    "timestamp_local": 1769173009
+  },
+  {
+    "id": 38765,
+    "fecha": "23 de Jan del 2026 a las 07:37 AM",
+    "hora_utc": "2026-01-23 12:37",
+    "mensaje": "🚨Nota informativa🚨\n\n📅Situación del SEN para el 23 de enero de 2026.\n\n👉En el día de ayer se afectó el servicio durante las 24 horas. La máxima afectación por déficit de capacidad de generación en el día de ayer fue de 1930 MW a las 18:40 horas.\n\n☀️La producción de energía de los 49 nuevos parques solares fotovoltaicos fue de 3186 MWh, con 711 MW como máxima potencia entregada en el horario de la media con esta fuente de generación. \n\n👉La disponibilidad del SEN a las 06:00 horas es de 1260 MW, la demanda 2229 MW, con 1011 MW afectados. En el horario de la media se estima una afectación de 1200 MW.  \n\n🛠️Se encuentran en avería, las unidades 5 y 8 de la CTE Mariel, la unidad 3 de la CTE Cienfuegos, las unidades 5 y 6 de la CTE Nuevitas y la unidad 2 de la CTE Felton. Se encuentran en mantenimiento la unidad 2 de la CTE Santa Cruz y la unidad 4 de la CTE Cienfuegos.\n\n📈Las limitaciones en la generación térmica son de 466 MW. \n\n📝Con este pronóstico para el pico se prevé una disponibilidad de 1260 MW con una demanda máxima de 3200 MW, para un déficit de 1940 MW, por lo que de mantenerse las condiciones previstas se pronostica una afectación de 1970 MW en este horario.\n\nUNE-MINEM---07:00 horas.",
+    "timestamp": 1769171861,
+    "timestamp_local": 1769171861
+  },
+  {
     "id": 38764,
     "fecha": "23 de Jan del 2026 a las 06:34 AM",
     "hora_utc": "2026-01-23 11:34",
@@ -110,29 +134,5 @@
     "mensaje": "⚠️ En déficit de capacidad de generación los siguientes circuitos:\n🔹Municipio Remedios:\nCtos 67 y 152, 68 y 118 \nCtos 69 y 70 Zuluetas\nCto 143 Batey HeribertoDuquesne\nCto 71 Buena Vista",
     "timestamp": 1769123659,
     "timestamp_local": 1769123659
-  },
-  {
-    "id": 38747,
-    "fecha": "22 de Jan del 2026 a las 05:51 PM",
-    "hora_utc": "2026-01-22 22:51",
-    "mensaje": "🚨 Estimados clientes de Villa Clara\n👉Nuestro canal está presentando problemas tecnológicos, especialistas de nuestra Empresa continúan trabajando para su restablecimiento.",
-    "timestamp": 1769122319,
-    "timestamp_local": 1769122319
-  },
-  {
-    "id": 38746,
-    "fecha": "22 de Jan del 2026 a las 03:40 PM",
-    "hora_utc": "2026-01-22 20:40",
-    "mensaje": "⚠️ En déficit de capacidad de generación los siguientes circuitos:\n🔹Municipio Encrucijada \n👉Cto 120 Calabazar \n👉Ctos 121 y 127 Perucho \n👉Cto 122 Encrucijada\n👉Cto 123 Vizcaya \n👉Cto 142 comunidad la Sierra \n👉Cto 126 Batey Emilio Córdoba \n👉Cto 125 Cavarrocas \n👉Cto 124 El Santo",
-    "timestamp": 1769114402,
-    "timestamp_local": 1769114402
-  },
-  {
-    "id": 38745,
-    "fecha": "22 de Jan del 2026 a las 03:37 PM",
-    "hora_utc": "2026-01-22 20:37",
-    "mensaje": "🛠Afectado el circuito 184 Sito Grande perteneciente al municipio de Cifuentes para retirar ramas de árboles encima de la línea.",
-    "timestamp": 1769114243,
-    "timestamp_local": 1769114243
   }
 ]
