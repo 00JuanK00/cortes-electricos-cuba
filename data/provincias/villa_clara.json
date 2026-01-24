@@ -1,5 +1,21 @@
 [
   {
+    "id": 38805,
+    "fecha": "23 de Jan del 2026 a las 09:00 PM",
+    "hora_utc": "2026-01-24 02:00",
+    "mensaje": "Afectados 93 MW en la provincia, demanda máxima a apagar en estos momentos.",
+    "timestamp": 1769220053,
+    "timestamp_local": 1769220053
+  },
+  {
+    "id": 38803,
+    "fecha": "23 de Jan del 2026 a las 08:15 PM",
+    "hora_utc": "2026-01-24 01:15",
+    "mensaje": "Actualización del servicio eléctrico en la provincia\n✍️Se mantienen afectados en la provincia 132 circuitos.\n✍️En el momento de hacer esta nota la provincia tiene 107 MW por déficit de capacidad de generación.\n✍️Cuenta con 68 afectaciones por averías secundarias y de servicio",
+    "timestamp": 1769217342,
+    "timestamp_local": 1769217342
+  },
+  {
     "id": 38801,
     "fecha": "23 de Jan del 2026 a las 06:27 PM",
     "hora_utc": "2026-01-23 23:27",
@@ -118,21 +134,5 @@
     "mensaje": "⚠En déficit de capacidad de generación los siguientes circuitos:\n🔹Municipio Caibarién:\n👉Ctos 61, 62",
     "timestamp": 1769197059,
     "timestamp_local": 1769197059
-  },
-  {
-    "id": 38784,
-    "fecha": "23 de Jan del 2026 a las 02:01 PM",
-    "hora_utc": "2026-01-23 19:01",
-    "mensaje": "Actualización del servicio eléctrico en la provincia\n✍️Se mantienen afectados en la provincia 132 circuitos.\n✍️En el momento de hacer esta nota la provincia tiene 98 MW por déficit de capacidad de generación.\n✍️Cuenta con 94 afectaciones por averías secundarias y de servicio",
-    "timestamp": 1769194917,
-    "timestamp_local": 1769194917
-  },
-  {
-    "id": 38783,
-    "fecha": "23 de Jan del 2026 a las 01:27 PM",
-    "hora_utc": "2026-01-23 18:27",
-    "mensaje": "Afectados 104 MW en la provincia, demanda máxima a apagar en estos momentos.",
-    "timestamp": 1769192854,
-    "timestamp_local": 1769192854
   }
 ]
