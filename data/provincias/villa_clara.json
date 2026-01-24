@@ -1,5 +1,45 @@
 [
   {
+    "id": 38869,
+    "fecha": "24 de Jan del 2026 a las 05:41 PM",
+    "hora_utc": "2026-01-24 22:41",
+    "mensaje": "Afectados 115 MW en la provincia, demanda máxima a apagar en estos momentos.",
+    "timestamp": 1769294491,
+    "timestamp_local": 1769294491
+  },
+  {
+    "id": 38868,
+    "fecha": "24 de Jan del 2026 a las 05:25 PM",
+    "hora_utc": "2026-01-24 22:25",
+    "mensaje": "⚠️ En déficit de capacidad de generación los siguientes circuitos:\n🔹Municipio Corralillo:\n👉Cto 55 Rancho Veloz\n🔹Municipio Quemado:\n👉Cto 196 Batey Panchito GómezToro.",
+    "timestamp": 1769293516,
+    "timestamp_local": 1769293516
+  },
+  {
+    "id": 38867,
+    "fecha": "24 de Jan del 2026 a las 05:15 PM",
+    "hora_utc": "2026-01-24 22:15",
+    "mensaje": "⚠️ En déficit de capacidad de generación los siguientes circuitos:\n🔹Municipio Santo Domingo:\n👉Cto 195 Batey George Washington\n👉Ctos 83 y 165 Manacas\n👉Ctos 85 y 86 Pajarito\n👉Ctos 160 y 161 Cascajal",
+    "timestamp": 1769292940,
+    "timestamp_local": 1769292940
+  },
+  {
+    "id": 38866,
+    "fecha": "24 de Jan del 2026 a las 05:12 PM",
+    "hora_utc": "2026-01-24 22:12",
+    "mensaje": "⚠️ En déficit de capacidad de generación el siguiente circuito:\n🔹Municipio Santa Clara\n👉Cto 132(Santa Clara Industrial",
+    "timestamp": 1769292770,
+    "timestamp_local": 1769292770
+  },
+  {
+    "id": 38865,
+    "fecha": "24 de Jan del 2026 a las 05:06 PM",
+    "hora_utc": "2026-01-24 22:06",
+    "mensaje": "⚠️ En déficit de capacidad de generación los siguientes circuitos:\n🔹Municipio Encrucijada\n👉Cto 120 Calabazar\n👉Ctos 121 y 127 Perucho",
+    "timestamp": 1769292381,
+    "timestamp_local": 1769292381
+  },
+  {
     "id": 38864,
     "fecha": "24 de Jan del 2026 a las 04:43 PM",
     "hora_utc": "2026-01-24 21:43",
@@ -59,7 +99,7 @@
     "id": 38857,
     "fecha": "24 de Jan del 2026 a las 03:56 PM",
     "hora_utc": "2026-01-24 20:56",
-    "mensaje": "⚠️ En déficit de capacidad de generación los siguientes circuitos:\n🔹Municipio Remedios:\n👉Ctos  68 y 118 \n👉Ctos 69 y 70 Zuluetas\n👉Cto 143 Batey HeribertoDuquezne\n👉Cto 71 Buena Vista\n🔹Municipio Quemado:\n👉Ctos 164, 52 y 53 Quemado.\n🔹Municipio Santo Domingo:\n👉Cto 134\n👉Ctos 87 y 96 Bermejal\n👉Cto 187 Batey Carlos Baliño\n👉Cto 82 Ulacia\n👉Cto 84 Rodrigo\n🔹Municipio Caibarién\n👉Ctos 182 y 183 Van Troy",
+    "mensaje": "⚠️ En déficit de capacidad de generación los siguientes circuitos:\n🔹Municipio Remedios:\n👉Ctos  68 y 118 \n👉Ctos 69 y 70 Zuluetas\n👉Cto 143 Batey HeribertoDuquezne\n👉Cto 71 Buena Vista\n🔹Municipio Quemado:\n👉Ctos 164, 52 y 53 Quemado.\n🔹Municipio Santo Domingo:\n👉Cto 134\n👉Ctos 87 y 96 Bermejal\n👉Cto 187 Batey Carlos Baliño\n👉Cto 82 Ulacia\n👉Cto 84 Rodrigo\n🔹Municipio Caibarién\n👉Ctos 182 y 183 Van Troy\n\n🔹Municipio Cifuentes:\n👉Ctos 114 y 117\n👉Ctos 116 y 155 Mata\n👉Cto 186 Batey UnidadProletaria\n👉Cto 184 Sitio Grande",
     "timestamp": 1769288198,
     "timestamp_local": 1769288198
   },
@@ -118,45 +158,5 @@
     "mensaje": "💡Restablecido el servicio eléctrico en el siguiente circuito:\n🔹Municipio Camajuaní:\n👉Ctos  129",
     "timestamp": 1769282996,
     "timestamp_local": 1769282996
-  },
-  {
-    "id": 38849,
-    "fecha": "24 de Jan del 2026 a las 02:23 PM",
-    "hora_utc": "2026-01-24 19:23",
-    "mensaje": "⚠️ En déficit de capacidad de generación los siguientes circuitos:\n🔹Municipio Ranchuelo: \n👉Ctos 89, 97, 188 y 189\n👉Ctos 148 y 149 San Juan\n👉Cto 91 Batey Osvaldo Herrera\n👉Cto 181 Batey Ifraín Alfonso\n🔹Municipio Santa Clara:\n👉Cto 4** **(Consejo- Centro)",
-    "timestamp": 1769282621,
-    "timestamp_local": 1769282621
-  },
-  {
-    "id": 38848,
-    "fecha": "24 de Jan del 2026 a las 02:13 PM",
-    "hora_utc": "2026-01-24 19:13",
-    "mensaje": "💡Restablecido el servicio eléctrico en los siguientes circuitos:\n🔹Municipio Encrucijada\n👉Cto 120 Calabazar\n👉Ctos 121 y 127 Perucho",
-    "timestamp": 1769282007,
-    "timestamp_local": 1769282007
-  },
-  {
-    "id": 38847,
-    "fecha": "24 de Jan del 2026 a las 02:01 PM",
-    "hora_utc": "2026-01-24 19:01",
-    "mensaje": "💡Restablecido el servicio eléctrico en el siguiente circuito:\n🔹Municipio Santa Clara\n👉Cto 169 (Condado)",
-    "timestamp": 1769281283,
-    "timestamp_local": 1769281283
-  },
-  {
-    "id": 38846,
-    "fecha": "24 de Jan del 2026 a las 02:00 PM",
-    "hora_utc": "2026-01-24 19:00",
-    "mensaje": "⚠️ En déficit de capacidad de generación los siguientes circuitos:\n🔹**MunicipioPlacetas**\n👉** C**tos 100 y 151 Placetas\n👉Cto 104 Hermanos Amejeiras\n👉Cto 103 Batey Carbó Servia",
-    "timestamp": 1769281219,
-    "timestamp_local": 1769281219
-  },
-  {
-    "id": 38845,
-    "fecha": "24 de Jan del 2026 a las 01:50 PM",
-    "hora_utc": "2026-01-24 18:50",
-    "mensaje": "⚠️ En déficit de capacidad de generación los siguientes circuitos:\n🔹Municipio Camajuaní:\n👉Ctos  72, 73, 129 y 156 \n👉Cto 74 José María Pérez",
-    "timestamp": 1769280615,
-    "timestamp_local": 1769280615
   }
 ]

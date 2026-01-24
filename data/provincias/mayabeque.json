@@ -1,5 +1,29 @@
 [
   {
+    "id": 104431,
+    "fecha": "24 de Jan del 2026 a las 05:26 PM",
+    "hora_utc": "2026-01-24 22:26",
+    "mensaje": "♦️ Afectado el servicio en el circuito Petróleo por manipulación ♦️",
+    "timestamp": 1769293589,
+    "timestamp_local": 1769293589
+  },
+  {
+    "id": 104430,
+    "fecha": "24 de Jan del 2026 a las 05:15 PM",
+    "hora_utc": "2026-01-24 22:15",
+    "mensaje": "♦️ Afectado el servicio en el circuito 1790 por disparo por DAF ♦️",
+    "timestamp": 1769292912,
+    "timestamp_local": 1769292912
+  },
+  {
+    "id": 104429,
+    "fecha": "24 de Jan del 2026 a las 05:09 PM",
+    "hora_utc": "2026-01-24 22:09",
+    "mensaje": "🚨Por déficit de capacidad de generación se afecta el servicio en el siguiente circuito:\n*Güines 3 🚨",
+    "timestamp": 1769292573,
+    "timestamp_local": 1769292573
+  },
+  {
     "id": 104428,
     "fecha": "24 de Jan del 2026 a las 04:45 PM",
     "hora_utc": "2026-01-24 21:45",
@@ -110,29 +134,5 @@
     "mensaje": "🚨Por déficit de capacidad de generación se afecta el servicio en el siguiente circuito:\n*Madruga🚨",
     "timestamp": 1769280804,
     "timestamp_local": 1769280804
-  },
-  {
-    "id": 104411,
-    "fecha": "24 de Jan del 2026 a las 01:51 PM",
-    "hora_utc": "2026-01-24 18:51",
-    "mensaje": "🔷 Restablecido el servicio en el circuito 4110 que se encontraba afectado por avería 🔷\n\n\n🚨 Continúa afectado el servicio por déficit de capacidad de generación el siguiente circuito:\n*Camilo🚨",
-    "timestamp": 1769280670,
-    "timestamp_local": 1769280670
-  },
-  {
-    "id": 104410,
-    "fecha": "24 de Jan del 2026 a las 01:46 PM",
-    "hora_utc": "2026-01-24 18:46",
-    "mensaje": "🔷 Restablecido el servicio en el circuito 3140 que se encontraba afectado por DAF 🔷",
-    "timestamp": 1769280362,
-    "timestamp_local": 1769280362
-  },
-  {
-    "id": 104409,
-    "fecha": "24 de Jan del 2026 a las 01:36 PM",
-    "hora_utc": "2026-01-24 18:36",
-    "mensaje": "🔷♦️Se restablece el servicio en los circuitos que se encontraban afectados  por déficit de capacidad de generación:\n*Quivicán \n*San Felipe ♦️🔷",
-    "timestamp": 1769279774,
-    "timestamp_local": 1769279774
   }
 ]
