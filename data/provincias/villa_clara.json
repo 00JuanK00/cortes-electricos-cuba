@@ -1,5 +1,21 @@
 [
   {
+    "id": 38895,
+    "fecha": "25 de Jan del 2026 a las 05:06 AM",
+    "hora_utc": "2026-01-25 10:06",
+    "mensaje": "Actualización del servicio eléctrico en la provincia🔸\n✍️Se mantienen afectados en la provincia 111 circuitos.\n✍️En el momento de hacer esta nota la provincia tiene 49 MW por déficit de capacidad de generación.\n✍️Cuenta con 76 afectaciones por averías secundarias y de servicio",
+    "timestamp": 1769335600,
+    "timestamp_local": 1769335600
+  },
+  {
+    "id": 38894,
+    "fecha": "25 de Jan del 2026 a las 05:04 AM",
+    "hora_utc": "2026-01-25 10:04",
+    "mensaje": "‼️Ante cualquier duda con la terminología eléctrica, les volvemos explicar: \n     \n✍️Las averías pueden ser primarias (afecta un volumen grande de población pues son las líneas de distribución a 13.8kV y puede afectar varias manzanas, incluso repartos completos).\n\n✍️Secundarias (afecta a todos los clientes que se alimenten del mismo transformador, puede afectar una o varias cuadras). \n\n✍️De servicio (afectan 1 solo cliente o instalación generalmente producto a daños en la acometida, metro contador, etc.).",
+    "timestamp": 1769335496,
+    "timestamp_local": 1769335496
+  },
+  {
     "id": 38893,
     "fecha": "25 de Jan del 2026 a las 01:46 AM",
     "hora_utc": "2026-01-25 06:46",
@@ -118,29 +134,5 @@
     "mensaje": "💡Restablecido el servicio eléctrico en los siguientes circuitos:\n🔹**Municipio Sagua**\n👉Ctos 50 y 147 Villa Alegre",
     "timestamp": 1769299452,
     "timestamp_local": 1769299452
-  },
-  {
-    "id": 38875,
-    "fecha": "24 de Jan del 2026 a las 06:58 PM",
-    "hora_utc": "2026-01-24 23:58",
-    "mensaje": "📣 Recordamos a nuestros clientes\n \n1. Si presenta o conoce alguna avería, haga su reporte al Centro de Atención Telefónico mediante el 18888, estamos a su servicio.\n2. Conocer de forma exacta la dirección de su vivienda (número de casa, calle, entre calles, reparto, localidad)\n3. Ubicar un punto de referencia, que permita llegar hasta su vivienda con mayor rapidez (lugar o persona reconocida en la zona)\n4. En caso de un cable caído, aunque usted crea que no está energizado, NO LO TOQUE. Repórtelo y preserve el lugar, hasta que llegue el personal de la Empresa.\n5. Anote el número de su reporte para ser utilizado en caso de reclamaciones, o para comprobar el estado del mismo.\n6. Si usted tiene servicio eléctrico, pero existen variaciones del voltaje, desconecte los equipos, para que no se dañen.",
-    "timestamp": 1769299097,
-    "timestamp_local": 1769299097
-  },
-  {
-    "id": 38874,
-    "fecha": "24 de Jan del 2026 a las 06:48 PM",
-    "hora_utc": "2026-01-24 23:48",
-    "mensaje": "Afectados 134 MW en la provincia, demanda máxima a apagar en estos momentos.",
-    "timestamp": 1769298514,
-    "timestamp_local": 1769298514
-  },
-  {
-    "id": 38873,
-    "fecha": "24 de Jan del 2026 a las 06:40 PM",
-    "hora_utc": "2026-01-24 23:40",
-    "mensaje": "💡Restablecido el servicio eléctrico en los siguientes circuitos:\n🔹Municipio Encrucijada:\n👉Cto 122 Encrucijada  \n👉Cto123 Vizcaya  \n👉Cto 142 Comunidad La Sierra\n👉Cto 126 Batey Emilio Córdova\n👉Cto 125 Cavarrocas\n👉Cto 124 El Santo\n🔹Municipio Camajuaní:                                                    \n 👉Cto 78 Jutiero",
-    "timestamp": 1769298048,
-    "timestamp_local": 1769298048
   }
 ]
