@@ -1,5 +1,29 @@
 [
   {
+    "id": 38888,
+    "fecha": "24 de Jan del 2026 a las 11:17 PM",
+    "hora_utc": "2026-01-25 04:17",
+    "mensaje": "✅Ante cualquier duda con la terminología eléctrica, les volvemos explicar: \n     \n👉Las averías pueden ser primarias (afecta un volumen grande de población pues son las líneas de distribución a 13.8kV y puede afectar varias manzanas, incluso repartos completos).\n\n👉Secundarias (afecta a todos los clientes que se alimenten del mismo transformador, puede afectar una o varias cuadras). \n\n👉De servicio (afectan 1 solo cliente o instalación generalmente producto a daños en la acometida, metro contador, etc.).",
+    "timestamp": 1769314642,
+    "timestamp_local": 1769314642
+  },
+  {
+    "id": 38887,
+    "fecha": "24 de Jan del 2026 a las 11:03 PM",
+    "hora_utc": "2026-01-25 04:03",
+    "mensaje": "🛠Afectado Cto 169 (Condado) perteneciente al Municipio Santa Clara, para trabajar en Transformador cerca del Primario.",
+    "timestamp": 1769313825,
+    "timestamp_local": 1769313825
+  },
+  {
+    "id": 38886,
+    "fecha": "24 de Jan del 2026 a las 10:57 PM",
+    "hora_utc": "2026-01-25 03:57",
+    "mensaje": "Actualización del servicio eléctrico en la provincia🔸\n✍️Se mantienen afectados en la provincia 126 circuitos.\n✍️En el momento de hacer esta nota la provincia tiene 82 MW por déficit de capacidad de generación.\n✍️Cuenta con 79 afectaciones por averías secundarias y de servicio",
+    "timestamp": 1769313455,
+    "timestamp_local": 1769313455
+  },
+  {
     "id": 38885,
     "fecha": "24 de Jan del 2026 a las 09:49 PM",
     "hora_utc": "2026-01-25 02:49",
@@ -134,29 +158,5 @@
     "mensaje": "⚠️ En déficit de capacidad de generación los siguientes circuitos:\n🔹Municipio Corralillo:\n👉Cto 55 Rancho Veloz\n🔹Municipio Quemado:\n👉Cto 196 Batey Panchito GómezToro.",
     "timestamp": 1769293516,
     "timestamp_local": 1769293516
-  },
-  {
-    "id": 38867,
-    "fecha": "24 de Jan del 2026 a las 05:15 PM",
-    "hora_utc": "2026-01-24 22:15",
-    "mensaje": "⚠️ En déficit de capacidad de generación los siguientes circuitos:\n🔹Municipio Santo Domingo:\n👉Cto 195 Batey George Washington\n👉Ctos 83 y 165 Manacas\n👉Ctos 85 y 86 Pajarito\n👉Ctos 160 y 161 Cascajal",
-    "timestamp": 1769292940,
-    "timestamp_local": 1769292940
-  },
-  {
-    "id": 38866,
-    "fecha": "24 de Jan del 2026 a las 05:12 PM",
-    "hora_utc": "2026-01-24 22:12",
-    "mensaje": "⚠️ En déficit de capacidad de generación el siguiente circuito:\n🔹Municipio Santa Clara\n👉Cto 132(Santa Clara Industrial",
-    "timestamp": 1769292770,
-    "timestamp_local": 1769292770
-  },
-  {
-    "id": 38865,
-    "fecha": "24 de Jan del 2026 a las 05:06 PM",
-    "hora_utc": "2026-01-24 22:06",
-    "mensaje": "⚠️ En déficit de capacidad de generación los siguientes circuitos:\n🔹Municipio Encrucijada\n👉Cto 120 Calabazar\n👉Ctos 121 y 127 Perucho",
-    "timestamp": 1769292381,
-    "timestamp_local": 1769292381
   }
 ]

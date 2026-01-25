@@ -1,5 +1,45 @@
 [
   {
+    "id": 48745,
+    "fecha": "24 de Jan del 2026 a las 11:27 PM",
+    "hora_utc": "2026-01-25 04:27",
+    "mensaje": "🔊Estimados clientes en estos momentos se encuentra afectados por Déficit de Capacidad de Generación el circuito 25 y La Línea 5395 San Luis",
+    "timestamp": 1769315261,
+    "timestamp_local": 1769315261
+  },
+  {
+    "id": 48744,
+    "fecha": "24 de Jan del 2026 a las 11:07 PM",
+    "hora_utc": "2026-01-25 04:07",
+    "mensaje": "🔊Estimados clientes en estos momentos se encuentra afectados por Déficit de Capacidad de Generación los circuitos 1 y 14 Seccionalizado",
+    "timestamp": 1769314022,
+    "timestamp_local": 1769314022
+  },
+  {
+    "id": 48743,
+    "fecha": "24 de Jan del 2026 a las 10:24 PM",
+    "hora_utc": "2026-01-25 03:24",
+    "mensaje": "🔊Estimados clientes en estos momentos se encuentra afectados por Déficit de Capacidad de Generación el circuito 21",
+    "timestamp": 1769311489,
+    "timestamp_local": 1769311489
+  },
+  {
+    "id": 48742,
+    "fecha": "24 de Jan del 2026 a las 10:22 PM",
+    "hora_utc": "2026-01-25 03:22",
+    "mensaje": "🚨Disparo Automático de Frecuencia (DAF):\nOcurre cuando la frecuencia está por debajo de los 60Hz y determinada carga o circuito se desconecta del sistema automáticamente hasta que se estabilice.",
+    "timestamp": 1769311356,
+    "timestamp_local": 1769311356
+  },
+  {
+    "id": 48741,
+    "fecha": "24 de Jan del 2026 a las 10:22 PM",
+    "hora_utc": "2026-01-25 03:22",
+    "mensaje": "🔊Estimados clientes en estos momentos se encuentra Disparado por DAF el circuito 4 de Palma",
+    "timestamp": 1769311326,
+    "timestamp_local": 1769311326
+  },
+  {
     "id": 48739,
     "fecha": "24 de Jan del 2026 a las 09:41 PM",
     "hora_utc": "2026-01-25 02:41",
@@ -94,53 +134,5 @@
     "mensaje": "🔴Se les informa a nuestros clientes que en estos momentos se incorpora a la afectación la Línea 5390-La Maya-ll Frente.",
     "timestamp": 1769288496,
     "timestamp_local": 1769288496
-  },
-  {
-    "id": 48725,
-    "fecha": "24 de Jan del 2026 a las 03:34 PM",
-    "hora_utc": "2026-01-24 20:34",
-    "mensaje": "🔉Se les informa a nuestros clientes que en estos momentos se encuentran afectados por Déficit los circuitos 1 de Palma y 20 .",
-    "timestamp": 1769286864,
-    "timestamp_local": 1769286864
-  },
-  {
-    "id": 48724,
-    "fecha": "24 de Jan del 2026 a las 03:25 PM",
-    "hora_utc": "2026-01-24 20:25",
-    "mensaje": "🔴Déficit de Capacidad de Generación:    \nSe produce cuando la demanda del Sistema Eléctrico Nacional, en determinado horario del día, supera la generación disponible del país, provocando la desconexión de los circuitos o líneas que permitan garantizar la frecuencia del SEN.",
-    "timestamp": 1769286302,
-    "timestamp_local": 1769286302
-  },
-  {
-    "id": 48723,
-    "fecha": "24 de Jan del 2026 a las 03:24 PM",
-    "hora_utc": "2026-01-24 20:24",
-    "mensaje": "🚨Se les informa a nuestros clientes que en estos momentos se afectaron por Déficit los circuitos 13 y 24 .",
-    "timestamp": 1769286267,
-    "timestamp_local": 1769286267
-  },
-  {
-    "id": 48722,
-    "fecha": "24 de Jan del 2026 a las 03:17 PM",
-    "hora_utc": "2026-01-24 20:17",
-    "mensaje": "👉Vía Libre:\nTrabajos planificados o por emergencias que se realizan con el fin de construir y mantener líneas aéreas y soterradas; así como contribuir a la constante mejora en la entrega de la energía eléctrica.",
-    "timestamp": 1769285827,
-    "timestamp_local": 1769285827
-  },
-  {
-    "id": 48721,
-    "fecha": "24 de Jan del 2026 a las 03:16 PM",
-    "hora_utc": "2026-01-24 20:16",
-    "mensaje": "🔴Estimados clientes en estos momentos se afecto el circuito 22 por una Vía Libre.",
-    "timestamp": 1769285797,
-    "timestamp_local": 1769285797
-  },
-  {
-    "id": 48720,
-    "fecha": "24 de Jan del 2026 a las 03:02 PM",
-    "hora_utc": "2026-01-24 20:02",
-    "mensaje": "🔊Estimados clientes en estos momentos se afecto por Déficit el circuito 8.",
-    "timestamp": 1769284933,
-    "timestamp_local": 1769284933
   }
 ]
