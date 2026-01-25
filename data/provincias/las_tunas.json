@@ -1,5 +1,13 @@
 [
   {
+    "id": 17950,
+    "fecha": "25 de Jan del 2026 a las 12:00 PM",
+    "hora_utc": "2026-01-25 17:00",
+    "mensaje": "Se afectan por déficit los siguientes:\nCircuito 33 Kv: 6810\nTK82 Tana\nTK83 Las Maboas\nTK113 La Aurora\nTK74 La Lomita\nTK110 El Batey\n6810 Poblado Amancio\nTK47 La Micro Puerto Padre\nTK25 Cuatro Caminos, Dormitorio\nTK93 Batey Delicias",
+    "timestamp": 1769360432,
+    "timestamp_local": 1769360432
+  },
+  {
     "id": 17949,
     "fecha": "25 de Jan del 2026 a las 11:13 AM",
     "hora_utc": "2026-01-25 16:13",
@@ -134,13 +142,5 @@
     "mensaje": "Se declara en avería el circuito \nTK19 San Antonio, Km 7",
     "timestamp": 1769189047,
     "timestamp_local": 1769189047
-  },
-  {
-    "id": 17930,
-    "fecha": "23 de Jan del 2026 a las 10:51 AM",
-    "hora_utc": "2026-01-23 15:51",
-    "mensaje": "**Nota Informativa: Estado del Sistema Eléctrico Nacional (SEN) – 23 de enero de 2026**\nEn el día de ayer se afectó el servicio durante las 24 horas. La máxima afectación por déficit de capacidad de generación en el día de ayer fue de 1930 MW a las 18:40 horas.\nLa producción de energía de los 49 nuevos parques solares fotovoltaicos fue de 3186 MWh, con 711 MW como máxima potencia entregada en el horario de la media con esta fuente de generación.\n**Estado actual del SEN**\nLa disponibilidad del SEN a las 06:00 horas es de 1260 MW, la demanda 2229 MW, con 1011 MW afectados. En el horario de la media se estima una afectación de 1200 MW.\n**Principales incidencias**\nAvería: Unidades 5 y 8 de la CTE Mariel, Unidad 3 de la CTE Carlos Manuel de Céspedes, Unidades 5 y 6 de Nuevitas, Unidad 2 de la CTE Felton.\nMantenimiento: Unidad 2 de la CTE Sata Cruz, Unidad 4 de la CTE Carlos Manuel de Céspedes en Cienfuegos.\nLimitaciones en la generación térmica: 466 MW fuera de servicio.\n**Pronóstico para el horario pico**\nCon este pronóstico para el pico se prevé una disponibilidad de 1260 MW con una demanda máxima de 3200 MW, para un déficit de 1940 MW, por lo que de mantenerse las condiciones previstas se pronostica una afectación de 1970 MW en este horario.",
-    "timestamp": 1769183470,
-    "timestamp_local": 1769183470
   }
 ]
