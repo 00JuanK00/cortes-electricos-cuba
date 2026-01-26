@@ -1,5 +1,45 @@
 [
   {
+    "id": 38984,
+    "fecha": "26 de Jan del 2026 a las 02:44 PM",
+    "hora_utc": "2026-01-26 19:44",
+    "mensaje": "⚠️ En déficit de capacidad de generación los siguientes circuitos:\n🔹Municipio Camajuaní:\nCto 75 La Quinta\nCto 157 Luis Arcos Bergnes\nCtos 76 y 90 Vega Alta\nCtos 77 y 185 Vueltas\n🔹Municipio Ranchuelo: \nCtos 89, 97, 188 y 189\nCtos 148 y 149 San Juan\nCto 91 Batey Osvaldo Herrera\nCto 181 Batey Ifraín Alfonso",
+    "timestamp": 1769456660,
+    "timestamp_local": 1769456660
+  },
+  {
+    "id": 38983,
+    "fecha": "26 de Jan del 2026 a las 02:40 PM",
+    "hora_utc": "2026-01-26 19:40",
+    "mensaje": "⚠️ En déficit de capacidad de generación los siguientes circuitos:\n🔹Municipio Manicaragua:\nCtos 109 y 150\nCtos 108 y 110 La Piedra\nCto 111 Mataguá",
+    "timestamp": 1769456414,
+    "timestamp_local": 1769456414
+  },
+  {
+    "id": 38982,
+    "fecha": "26 de Jan del 2026 a las 02:28 PM",
+    "hora_utc": "2026-01-26 19:28",
+    "mensaje": "⚠️ En déficit de capacidad de generación el circuito 2 (Consejo-Centro), del municipio Santa Clara.",
+    "timestamp": 1769455700,
+    "timestamp_local": 1769455700
+  },
+  {
+    "id": 38981,
+    "fecha": "26 de Jan del 2026 a las 02:22 PM",
+    "hora_utc": "2026-01-26 19:22",
+    "mensaje": "⚠️ En déficit de capacidad de generación los siguientes circuitos:\n🔹Municipio Encrucijada\n👉Cto 120 Calabazar\n👉Ctos 121 y 127 Perucho",
+    "timestamp": 1769455374,
+    "timestamp_local": 1769455374
+  },
+  {
+    "id": 38980,
+    "fecha": "26 de Jan del 2026 a las 02:06 PM",
+    "hora_utc": "2026-01-26 19:06",
+    "mensaje": "Actualización del servicio eléctrico en la provincia🔸\n✍️Se mantienen afectados en la provincia 130 circuitos.\n✍️En el momento de hacer esta nota la provincia tiene 88 MW por déficit de capacidad de generación.\n✍️Cuenta con 132 afectaciones por averías secundarias y de servicio.",
+    "timestamp": 1769454378,
+    "timestamp_local": 1769454378
+  },
+  {
     "id": 38979,
     "fecha": "26 de Jan del 2026 a las 01:53 PM",
     "hora_utc": "2026-01-26 18:53",
@@ -118,45 +158,5 @@
     "mensaje": "Con servicio la línea 331:\nMunicipio Manicaragua:\n👉Ctos 109 y 150\n👉Ctos 108 y 110  La Piedra\n👉Cto 111 Mataguá",
     "timestamp": 1769439197,
     "timestamp_local": 1769439197
-  },
-  {
-    "id": 38964,
-    "fecha": "26 de Jan del 2026 a las 09:47 AM",
-    "hora_utc": "2026-01-26 14:47",
-    "mensaje": "🛠️Afectada por manipulación la línea 331 para reponer el circuito 110 (La Piedra), del municipio Manicaragua:\nAfecta los siguientes circuitos:\n👉Ctos 109 y 150\n👉Cto 108  La Piedra\n👉Cto 111 Mataguá",
-    "timestamp": 1769438851,
-    "timestamp_local": 1769438851
-  },
-  {
-    "id": 38963,
-    "fecha": "26 de Jan del 2026 a las 09:43 AM",
-    "hora_utc": "2026-01-26 14:43",
-    "mensaje": "🛠️Afectado por disparo el circuito 110 (La Piedra), del municipio Manicaragua, luego de ser restablecido. Se estudian las causas.",
-    "timestamp": 1769438590,
-    "timestamp_local": 1769438590
-  },
-  {
-    "id": 38962,
-    "fecha": "26 de Jan del 2026 a las 09:14 AM",
-    "hora_utc": "2026-01-26 14:14",
-    "mensaje": "Con servicio la línea 1920:\n🔹Municipio Placetas:\n👉Ctos 101 y 145 Cumbre\n👉Cto 107 Baez\n👉Cto 105 Nazareno",
-    "timestamp": 1769436874,
-    "timestamp_local": 1769436874
-  },
-  {
-    "id": 38961,
-    "fecha": "26 de Jan del 2026 a las 09:01 AM",
-    "hora_utc": "2026-01-26 14:01",
-    "mensaje": "🛠️Afectada por DAF (Disparo Automático por Frecuencia) la línea 1920:\nAfecta los siguientes circuitos:\n🔹Municipio Placetas:\n👉Ctos 101 y 145 Cumbre\n👉Cto 107 Baez\n👉Cto 105 Nazareno",
-    "timestamp": 1769436072,
-    "timestamp_local": 1769436072
-  },
-  {
-    "id": 38960,
-    "fecha": "26 de Jan del 2026 a las 08:11 AM",
-    "hora_utc": "2026-01-26 13:11",
-    "mensaje": "Actualización del servicio eléctrico en la provincia🔸\n✍️Se mantienen afectados en la provincia 133 circuitos.\n✍️En el momento de hacer esta nota la provincia tiene 81 MW por déficit de capacidad de generación.\n✍️Cuenta con 88 afectaciones por averías secundarias y de servicio.",
-    "timestamp": 1769433104,
-    "timestamp_local": 1769433104
   }
 ]
