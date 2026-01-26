@@ -1,5 +1,13 @@
 [
   {
+    "id": 38949,
+    "fecha": "26 de Jan del 2026 a las 02:53 AM",
+    "hora_utc": "2026-01-26 07:53",
+    "mensaje": "➡️Ante cualquier duda con la terminología eléctrica, les volvemos explicar: \n     \n👉Las averías pueden ser primarias (afecta un volumen grande de población pues son las líneas de distribución a 13.8kV y puede afectar varias manzanas, incluso repartos completos).\n\n👉Secundarias (afecta a todos los clientes que se alimenten del mismo transformador, puede afectar una o varias cuadras). \n\n👉De servicio (afectan 1 solo cliente o instalación generalmente producto a daños en la acometida, metro contador, etc.).",
+    "timestamp": 1769413997,
+    "timestamp_local": 1769413997
+  },
+  {
     "id": 38948,
     "fecha": "26 de Jan del 2026 a las 02:00 AM",
     "hora_utc": "2026-01-26 07:00",
@@ -126,13 +134,5 @@
     "mensaje": "⚠️ En déficit de capacidad de generación los siguientes circuitos:\n👉Municipio Ranchuelo:\nCto 92 Esperanza (Pueblo)\nCto 93 Esperanza (Campo)\nCtos 54, 94 y 95 Jicotea\n👉Municipio Santa Clara\nCtos 26 y 141 (Manuelita)\nCto 191 (Quemado de Hilario) \n👉Municipio Santo Domingo\nCto 79 (Santo Domingo)\nCto 81 (26 de Julio)\nCto 163 (Batey 26 de Julio",
     "timestamp": 1769375000,
     "timestamp_local": 1769375000
-  },
-  {
-    "id": 38929,
-    "fecha": "25 de Jan del 2026 a las 04:02 PM",
-    "hora_utc": "2026-01-25 21:02",
-    "mensaje": "⚠️ En déficit de capacidad de generación los siguientes circuitos:\n\n👉Municipio Cifuentes:\nCtos 114 y 117\nCtos 116 y 155 Mata\nCto 186 Batey Unidad Proletaria\nCto 184 Sitio Grande",
-    "timestamp": 1769374936,
-    "timestamp_local": 1769374936
   }
 ]
