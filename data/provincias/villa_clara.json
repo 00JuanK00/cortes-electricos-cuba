@@ -1,5 +1,37 @@
 [
   {
+    "id": 38991,
+    "fecha": "26 de Jan del 2026 a las 03:48 PM",
+    "hora_utc": "2026-01-26 20:48",
+    "mensaje": "⚠️ En déficit de capacidad de generación los siguientes circuitos:\n🔹Municipio Santa Clara\nCto 7 (Universidad)  \nCto 22 (Construcciones Textil)\nCto 131 (Las Antillas)\nCto 153 (EIDE) \nCtos 14, 15 y 27 (Maleza)",
+    "timestamp": 1769460480,
+    "timestamp_local": 1769460480
+  },
+  {
+    "id": 38989,
+    "fecha": "26 de Jan del 2026 a las 03:36 PM",
+    "hora_utc": "2026-01-26 20:36",
+    "mensaje": "⚠️ En déficit de capacidad de generación los siguientes circuitos:\n🔹Municipio Santo Domingo:\nCto 134\nCtos 87 y 96 Bermejal\nCto 187 Batey Carlos Baliño\nCto 82 Ulacia\nCto 84 Rodrigo",
+    "timestamp": 1769459795,
+    "timestamp_local": 1769459795
+  },
+  {
+    "id": 38988,
+    "fecha": "26 de Jan del 2026 a las 03:29 PM",
+    "hora_utc": "2026-01-26 20:29",
+    "mensaje": "⚠️ En déficit de capacidad de generación el circuito 6 (Vigía), del municipio Santa Clara.",
+    "timestamp": 1769459372,
+    "timestamp_local": 1769459372
+  },
+  {
+    "id": 38987,
+    "fecha": "26 de Jan del 2026 a las 03:10 PM",
+    "hora_utc": "2026-01-26 20:10",
+    "mensaje": "⚠️ En déficit de capacidad de generación los siguientes circuitos:\n🔹Municipio Quemado:\n👉Ctos 164, 52 y 53 Quemado.",
+    "timestamp": 1769458200,
+    "timestamp_local": 1769458200
+  },
+  {
     "id": 38986,
     "fecha": "26 de Jan del 2026 a las 02:57 PM",
     "hora_utc": "2026-01-26 19:57",
@@ -19,7 +51,7 @@
     "id": 38984,
     "fecha": "26 de Jan del 2026 a las 02:44 PM",
     "hora_utc": "2026-01-26 19:44",
-    "mensaje": "⚠️ En déficit de capacidad de generación los siguientes circuitos:\n🔹Municipio Camajuaní:\nCto 75 La Quinta\nCto 157 Luis Arcos Bergnes\nCtos 76 y 90 Vega Alta\nCtos 77 y 185 Vueltas\n🔹Municipio Ranchuelo: \nCtos 89, 97, 188 y 189\nCtos 148 y 149 San Juan\nCto 91 Batey Osvaldo Herrera\nCto 181 Batey Ifraín Alfonso",
+    "mensaje": "⚠️ En déficit de capacidad de generación los siguientes circuitos:\n🔹Municipio Camajuaní:\nCto 75 La Quinta\nCto 157 Luis Arcos Bergnes\nCtos 77 y 185 Vueltas\n🔹Municipio Ranchuelo: \nCtos 89, 97, 188 y 189\nCtos 148 y 149 San Juan\nCto 91 Batey Osvaldo Herrera\nCto 181 Batey Ifraín Alfonso",
     "timestamp": 1769456660,
     "timestamp_local": 1769456660
   },
@@ -126,37 +158,5 @@
     "mensaje": "⚠️ En déficit de capacidad de generación los siguientes circuitos:\n🔹Municipio Santa Clara: \nCto 166 (Condado)\nCto 167 (Virginia)\nCto 170 (José Martí)\nCto 171 (Los Caneyes)",
     "timestamp": 1769446763,
     "timestamp_local": 1769446763
-  },
-  {
-    "id": 38970,
-    "fecha": "26 de Jan del 2026 a las 11:30 AM",
-    "hora_utc": "2026-01-26 16:30",
-    "mensaje": "Restablecida parcialmente la línea 331:\nMunicipio Manicaragua:\n👉Ctos 109 y 15\n👉Cto 111 Mataguá\n✍️ Quedan afectados los circuitos 108 y 110 (La Piedra), para realizar cambio de drop out.",
-    "timestamp": 1769445006,
-    "timestamp_local": 1769445006
-  },
-  {
-    "id": 38969,
-    "fecha": "26 de Jan del 2026 a las 11:16 AM",
-    "hora_utc": "2026-01-26 16:16",
-    "mensaje": "🛠️Afectada por manipulación la línea 331:\nAfecta los siguientes circuitos:\nMunicipio Manicaragua:\n👉Ctos 109 y 150\n👉Ctos 108 y 110  La Piedra\n👉Cto 111 Mataguá",
-    "timestamp": 1769444186,
-    "timestamp_local": 1769444186
-  },
-  {
-    "id": 38968,
-    "fecha": "26 de Jan del 2026 a las 11:08 AM",
-    "hora_utc": "2026-01-26 16:08",
-    "mensaje": "⚠️ En déficit de capacidad de generación los siguientes circuitos:\n🔹Municipio Placetas:\nCto 192 Benito Juárez\nCto 102 Peroti\nCtos 101 y 145 Cumbre\nCtos 100 y 151 Placetas\nCto 104 Hermanos Amejeiras\nCto 103 Batey Carbó Servia",
-    "timestamp": 1769443694,
-    "timestamp_local": 1769443694
-  },
-  {
-    "id": 38967,
-    "fecha": "26 de Jan del 2026 a las 10:48 AM",
-    "hora_utc": "2026-01-26 15:48",
-    "mensaje": "⚠️ En déficit de capacidad de generación los siguientes circuitos:\n🔹Municipio Sagua:\n👉Ctos 43, 51 Sagua\n👉Cto 44 Isabela\n👉Ctos 50 y 147 Villa Alegre",
-    "timestamp": 1769442538,
-    "timestamp_local": 1769442538
   }
 ]
