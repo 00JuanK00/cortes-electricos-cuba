@@ -1,5 +1,29 @@
 [
   {
+    "id": 104575,
+    "fecha": "26 de Jan del 2026 a las 08:17 AM",
+    "hora_utc": "2026-01-26 13:17",
+    "mensaje": "♦️ Afectado el servicio en el circuito Menocal por disparo en las líneas.♦️",
+    "timestamp": 1769433442,
+    "timestamp_local": 1769433442
+  },
+  {
+    "id": 104574,
+    "fecha": "26 de Jan del 2026 a las 07:29 AM",
+    "hora_utc": "2026-01-26 12:29",
+    "mensaje": "🔷♦️Se restablece el servicio en el circuito que se encontraba afectado  por déficit de  de generación:\n* Bio 2 ♦️🔷",
+    "timestamp": 1769430595,
+    "timestamp_local": 1769430595
+  },
+  {
+    "id": 104573,
+    "fecha": "26 de Jan del 2026 a las 07:21 AM",
+    "hora_utc": "2026-01-26 12:21",
+    "mensaje": "🔷♦️Se restablece el servicio en el circuito que se encontraba afectado  por déficit de capacidad de generación:\n*ML-35 ♦️🔷",
+    "timestamp": 1769430111,
+    "timestamp_local": 1769430111
+  },
+  {
     "id": 104572,
     "fecha": "26 de Jan del 2026 a las 07:13 AM",
     "hora_utc": "2026-01-26 12:13",
@@ -94,29 +118,5 @@
     "mensaje": "♦️ Afectado el servicio en el circuito 3590 por disparo por DAF ♦️",
     "timestamp": 1769404899,
     "timestamp_local": 1769404899
-  },
-  {
-    "id": 104555,
-    "fecha": "26 de Jan del 2026 a las 12:20 AM",
-    "hora_utc": "2026-01-26 05:20",
-    "mensaje": "♦️ Afectado el servicio en el circuito 3140 por disparo por DAF ♦️",
-    "timestamp": 1769404812,
-    "timestamp_local": 1769404812
-  },
-  {
-    "id": 104554,
-    "fecha": "26 de Jan del 2026 a las 12:16 AM",
-    "hora_utc": "2026-01-26 05:16",
-    "mensaje": "🔷♦️Se restablece el servicio en el circuito que se encontraba afectado  por déficit de capacidad de generación:\n*Jamaica ♦️🔷",
-    "timestamp": 1769404598,
-    "timestamp_local": 1769404598
-  },
-  {
-    "id": 104553,
-    "fecha": "26 de Jan del 2026 a las 12:10 AM",
-    "hora_utc": "2026-01-26 05:10",
-    "mensaje": "🔷♦️Se restablece el servicio en el circuito que se encontraba afectado  por déficit de capacidad de generación:\n*ML-35♦️🔷",
-    "timestamp": 1769404211,
-    "timestamp_local": 1769404211
   }
 ]
