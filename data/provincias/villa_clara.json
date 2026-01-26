@@ -1,5 +1,21 @@
 [
   {
+    "id": 38940,
+    "fecha": "25 de Jan del 2026 a las 07:07 PM",
+    "hora_utc": "2026-01-26 00:07",
+    "mensaje": "⚠️Afectado por déficit de generación el circuito 31 SC Industrial.",
+    "timestamp": 1769386029,
+    "timestamp_local": 1769386029
+  },
+  {
+    "id": 38939,
+    "fecha": "25 de Jan del 2026 a las 06:55 PM",
+    "hora_utc": "2026-01-25 23:55",
+    "mensaje": "⚠️ En déficit de capacidad de generación los siguientes circuitos:\n👉Municipio Santa Clara\nCto 7 (Universidad)  \nCto 146 (Elevado Aeropuerto) \nCto 22 (Construcciones Textil)\nCto 131 (Las Antillas)\nCto 153 (EIDE) \nCtos 14, 15 y 27 (Maleza)",
+    "timestamp": 1769385320,
+    "timestamp_local": 1769385320
+  },
+  {
     "id": 38938,
     "fecha": "25 de Jan del 2026 a las 06:38 PM",
     "hora_utc": "2026-01-25 23:38",
@@ -134,21 +150,5 @@
     "mensaje": "💡Restablecido el servicio eléctrico en la Línea 6375.",
     "timestamp": 1769370237,
     "timestamp_local": 1769370237
-  },
-  {
-    "id": 38919,
-    "fecha": "25 de Jan del 2026 a las 02:36 PM",
-    "hora_utc": "2026-01-25 19:36",
-    "mensaje": "🛠️Afectada por manipulación la Línea 6375.\n👉Línea 6375 \n🔸Municipio Santa Clara\nCto 7 (Universidad)  \nCto 146 (Elevado Aeropuerto) \nCto 22 (Construcciones Textil)\nCto 131 (Las Antillas)\nCto 153 (EIDE) \nCtos 14, 15 y 27 (Maleza)",
-    "timestamp": 1769369787,
-    "timestamp_local": 1769369787
-  },
-  {
-    "id": 38918,
-    "fecha": "25 de Jan del 2026 a las 02:34 PM",
-    "hora_utc": "2026-01-25 19:34",
-    "mensaje": "⚠️ En déficit de capacidad de generación los siguientes circuitos:\n👉Municipio Encrucijada:\nCto 122 Encrucijada  \nCto 123 Vizcaya \nCto 142 Comunidad La Sierra \nCto 126 Batey Emilio Córdova\nCto 125 Cavarrocas\nCto 124 El Santo\n👉Municipio Camajuaní:                                                              \nCto 78 Jutiero",
-    "timestamp": 1769369651,
-    "timestamp_local": 1769369651
   }
 ]
