@@ -1,5 +1,45 @@
 [
   {
+    "id": 38976,
+    "fecha": "26 de Jan del 2026 a las 12:33 PM",
+    "hora_utc": "2026-01-26 17:33",
+    "mensaje": "🛠️Afectada por manipulación la línea 6375:\n🔹Municipio Santa Clara\nCto 7 (Universidad)  \nCto 22 (Construcciones Textil)\nCto 131 (Las Antillas)\nCto 153 (EIDE) \nCtos 14, 15 y 27 (Maleza)\n✍️ Al momento de restablecerse quedarán afectados por déficit de capacidad de generación los siguientes circuitos:\n👉Cto 146 Elevado Aeropuerto\n👉Cto 35 Biotecnología\n👉Cto 25 Los Güiros\n👉Cto 24 Planta Asfalto",
+    "timestamp": 1769448810,
+    "timestamp_local": 1769448810
+  },
+  {
+    "id": 38975,
+    "fecha": "26 de Jan del 2026 a las 12:27 PM",
+    "hora_utc": "2026-01-26 17:27",
+    "mensaje": "⚠️ En déficit de capacidad de generación los siguientes circuitos:\n🔹Municipio Sagua \n👉Cto 48 Finalet\n👉Ctos 46 y 128 Sitiecito",
+    "timestamp": 1769448459,
+    "timestamp_local": 1769448459
+  },
+  {
+    "id": 38974,
+    "fecha": "26 de Jan del 2026 a las 12:26 PM",
+    "hora_utc": "2026-01-26 17:26",
+    "mensaje": "⚠️ En déficit de capacidad de generación el circuito 168 (Condado- xx Aniversario), del municipio Santa Clara.",
+    "timestamp": 1769448376,
+    "timestamp_local": 1769448376
+  },
+  {
+    "id": 38973,
+    "fecha": "26 de Jan del 2026 a las 12:23 PM",
+    "hora_utc": "2026-01-26 17:23",
+    "mensaje": "Con servicio los circuitos 108 y 110 (La Piedra), del municipio Manicaragua.",
+    "timestamp": 1769448233,
+    "timestamp_local": 1769448233
+  },
+  {
+    "id": 38972,
+    "fecha": "26 de Jan del 2026 a las 12:12 PM",
+    "hora_utc": "2026-01-26 17:12",
+    "mensaje": "🕛Actualización del servicio eléctrico en las últimas 6 horas.\n👉El déficit de capacidad de generación osciló entre los 81 MW y los 103 MW.\n👉En el momento de esta nota, se mantienen afectados 133 circuitos.\n👉Cuenta con 147 afectaciones por averías secundarias y de servicio:\nCaibarién (3)\nCamajuaní (4)\nCorralillo (1)\nEncrucijada (2)\nManicaragua (18)\nPlacetas (4)\nRanchuelo (15)\nRemedios (9) \nSagua (20) \nSanta Clara (51)\nSanto Domingo (2)\n🛠️Se encuentran 9 averías en vías de solución.\n🛠️Pendientes a solucionar por el área técnica 11.\n⚡La provincia presenta 2 averías primarias.\n✍️Circuito 60 (La Sierra), del municipio Corralillo, afectado por cable primario partido. Brigadas de nuestra empresa se encuentran trabajando en el lugar para restablecer el servicio en el menor tiempo posible.\n ✍️Circuitos 108 y 110 (La Piedra), afectados por trabajo de vía libre para realizar cambio de drop out.",
+    "timestamp": 1769447538,
+    "timestamp_local": 1769447538
+  },
+  {
     "id": 38971,
     "fecha": "26 de Jan del 2026 a las 11:59 AM",
     "hora_utc": "2026-01-26 16:59",
@@ -118,45 +158,5 @@
     "mensaje": "⚡En avería el circuito 60 La Sierra, del municipio Corralillo, por cable primario partido, afectado por déficit de generación en estos momentos.",
     "timestamp": 1769427631,
     "timestamp_local": 1769427631
-  },
-  {
-    "id": 38956,
-    "fecha": "26 de Jan del 2026 a las 06:31 AM",
-    "hora_utc": "2026-01-26 11:31",
-    "mensaje": "⚠️ En déficit de capacidad de generación los siguientes circuitos:\n👉Municipio Santa Clara:\nCto 170 (José Martí)\nCto 171 (Los Caneyes)\nCto 167 (Virginia)",
-    "timestamp": 1769427109,
-    "timestamp_local": 1769427109
-  },
-  {
-    "id": 38955,
-    "fecha": "26 de Jan del 2026 a las 06:17 AM",
-    "hora_utc": "2026-01-26 11:17",
-    "mensaje": "⚠️ En déficit de capacidad de generación los siguientes circuitos:\n👉Municipio Remedios:\nCtos 67 y 152, 68 y 118 \nCtos 69 y 70 Zuluetas\nCto 143 Batey Heriberto Duquezne \nCto 71 Buena Vista",
-    "timestamp": 1769426236,
-    "timestamp_local": 1769426236
-  },
-  {
-    "id": 38954,
-    "fecha": "26 de Jan del 2026 a las 06:16 AM",
-    "hora_utc": "2026-01-26 11:16",
-    "mensaje": "⚠️ En déficit de capacidad de generación los siguientes circuitos:\n👉Municipio Manicaragua:\nCtos 109 y 150",
-    "timestamp": 1769426199,
-    "timestamp_local": 1769426199
-  },
-  {
-    "id": 38953,
-    "fecha": "26 de Jan del 2026 a las 06:15 AM",
-    "hora_utc": "2026-01-26 11:15",
-    "mensaje": "⚠️ En déficit de capacidad de generación los siguientes circuitos:\n👉Municipio Cifuentes:\nCtos 114 y 117\nCtos 116 y 155 Mata\nCto 186 Batey Unidad Proletaria\nCto 184 Sitio Grande",
-    "timestamp": 1769426109,
-    "timestamp_local": 1769426109
-  },
-  {
-    "id": 38952,
-    "fecha": "26 de Jan del 2026 a las 05:59 AM",
-    "hora_utc": "2026-01-26 10:59",
-    "mensaje": "🕕Actualización del servicio eléctrico en las últimas 6 horas.\n\n👉El déficit de capacidad de generación osciló entre los 84 MW y los 66 MW.\n👉En el momento de esta nota, se mantienen afectados 152 circuitos.\n👉Cuenta con 92 afectaciones por averías secundarias y de servicio:\n Manicaragua (10)\n Placetas (1)\n Ranchuelo (3)\n Remedios (12) \n Sagua (19) \n Santa Clara (31)\n Santo Domingo (1)\n🛠️Se encuentran 3 averías en vías de solución.\n🛠️Pendientes a solucionar por el área técnica 12.\n⚡La provincia no presenta averías primarias.",
-    "timestamp": 1769425182,
-    "timestamp_local": 1769425182
   }
 ]
