@@ -1,9 +1,25 @@
 [
   {
+    "id": 38969,
+    "fecha": "26 de Jan del 2026 a las 11:16 AM",
+    "hora_utc": "2026-01-26 16:16",
+    "mensaje": "🛠️Afectada por manipulación la línea 331:\nAfecta los siguientes circuitos:\nMunicipio Manicaragua:\n👉Ctos 109 y 150\n👉Ctos 108 y 110  La Piedra\n👉Cto 111 Mataguá",
+    "timestamp": 1769444186,
+    "timestamp_local": 1769444186
+  },
+  {
+    "id": 38968,
+    "fecha": "26 de Jan del 2026 a las 11:08 AM",
+    "hora_utc": "2026-01-26 16:08",
+    "mensaje": "⚠️ En déficit de capacidad de generación los siguientes circuitos:\n🔹Municipio Placetas:\nCto 192 Benito Juárez\nCto 102 Peroti\nCtos 101 y 145 Cumbre\nCtos 100 y 151 Placetas\nCto 104 Hermanos Amejeiras\nCto 103 Batey Carbó Servia",
+    "timestamp": 1769443694,
+    "timestamp_local": 1769443694
+  },
+  {
     "id": 38967,
     "fecha": "26 de Jan del 2026 a las 10:48 AM",
     "hora_utc": "2026-01-26 15:48",
-    "mensaje": "⚠️ En déficit de capacidad de generación los siguientes circuitos:\n🔹Municipio Sagua:\n\n👉Ctos 43, 51 Sagua\n👉Cto 44 Isabela\n👉Ctos 50 y 147 Villa Alegre",
+    "mensaje": "⚠️ En déficit de capacidad de generación los siguientes circuitos:\n🔹Municipio Sagua:\n👉Ctos 43, 51 Sagua\n👉Cto 44 Isabela\n👉Ctos 50 y 147 Villa Alegre",
     "timestamp": 1769442538,
     "timestamp_local": 1769442538
   },
@@ -142,21 +158,5 @@
     "mensaje": "Actualización del servicio eléctrico en la provincia🔸\n✍️Se mantienen afectados en la provincia 152 circuitos.\n✍️En el momento de hacer esta nota la provincia tiene 65 MW por déficit de capacidad de generación.\n✍️Cuenta con 74 afectaciones por averías secundarias y de servicio",
     "timestamp": 1769417337,
     "timestamp_local": 1769417337
-  },
-  {
-    "id": 38949,
-    "fecha": "26 de Jan del 2026 a las 02:53 AM",
-    "hora_utc": "2026-01-26 07:53",
-    "mensaje": "➡️Ante cualquier duda con la terminología eléctrica, les volvemos explicar: \n     \n👉Las averías pueden ser primarias (afecta un volumen grande de población pues son las líneas de distribución a 13.8kV y puede afectar varias manzanas, incluso repartos completos).\n\n👉Secundarias (afecta a todos los clientes que se alimenten del mismo transformador, puede afectar una o varias cuadras). \n\n👉De servicio (afectan 1 solo cliente o instalación generalmente producto a daños en la acometida, metro contador, etc.).",
-    "timestamp": 1769413997,
-    "timestamp_local": 1769413997
-  },
-  {
-    "id": 38948,
-    "fecha": "26 de Jan del 2026 a las 02:00 AM",
-    "hora_utc": "2026-01-26 07:00",
-    "mensaje": "Actualización del servicio eléctrico en la provincia🔸\n✍️Se mantienen afectados en la provincia 152 circuitos.\n✍️En el momento de hacer esta nota la provincia tiene 69 MW por déficit de capacidad de generación.\n✍️Cuenta con 78 afectaciones por averías secundarias y de servicio",
-    "timestamp": 1769410826,
-    "timestamp_local": 1769410826
   }
 ]
