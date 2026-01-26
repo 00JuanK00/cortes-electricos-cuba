@@ -1,5 +1,21 @@
 [
   {
+    "id": 38971,
+    "fecha": "26 de Jan del 2026 a las 11:59 AM",
+    "hora_utc": "2026-01-26 16:59",
+    "mensaje": "⚠️ En déficit de capacidad de generación los siguientes circuitos:\n🔹Municipio Santa Clara: \nCto 166 (Condado)\nCto 167 (Virginia)\nCto 170 (José Martí)\nCto 171 (Los Caneyes)",
+    "timestamp": 1769446763,
+    "timestamp_local": 1769446763
+  },
+  {
+    "id": 38970,
+    "fecha": "26 de Jan del 2026 a las 11:30 AM",
+    "hora_utc": "2026-01-26 16:30",
+    "mensaje": "Restablecida parcialmente la línea 331:\nMunicipio Manicaragua:\n👉Ctos 109 y 15\n👉Cto 111 Mataguá\n✍️ Quedan afectados los circuitos 108 y 110 (La Piedra), para realizar cambio de drop out.",
+    "timestamp": 1769445006,
+    "timestamp_local": 1769445006
+  },
+  {
     "id": 38969,
     "fecha": "26 de Jan del 2026 a las 11:16 AM",
     "hora_utc": "2026-01-26 16:16",
@@ -142,21 +158,5 @@
     "mensaje": "🕕Actualización del servicio eléctrico en las últimas 6 horas.\n\n👉El déficit de capacidad de generación osciló entre los 84 MW y los 66 MW.\n👉En el momento de esta nota, se mantienen afectados 152 circuitos.\n👉Cuenta con 92 afectaciones por averías secundarias y de servicio:\n Manicaragua (10)\n Placetas (1)\n Ranchuelo (3)\n Remedios (12) \n Sagua (19) \n Santa Clara (31)\n Santo Domingo (1)\n🛠️Se encuentran 3 averías en vías de solución.\n🛠️Pendientes a solucionar por el área técnica 12.\n⚡La provincia no presenta averías primarias.",
     "timestamp": 1769425182,
     "timestamp_local": 1769425182
-  },
-  {
-    "id": 38951,
-    "fecha": "26 de Jan del 2026 a las 05:39 AM",
-    "hora_utc": "2026-01-26 10:39",
-    "mensaje": "⚠️ En déficit de capacidad de generación los siguientes circuitos:\n👉Municipio Santo Domingo:\nCto 134\nCtos 87 y 96 Bermejal\nCto 187 Batey Carlos Baliño\nCto 82 Ulacia\nCto 84 Rodrigo",
-    "timestamp": 1769423959,
-    "timestamp_local": 1769423959
-  },
-  {
-    "id": 38950,
-    "fecha": "26 de Jan del 2026 a las 03:48 AM",
-    "hora_utc": "2026-01-26 08:48",
-    "mensaje": "Actualización del servicio eléctrico en la provincia🔸\n✍️Se mantienen afectados en la provincia 152 circuitos.\n✍️En el momento de hacer esta nota la provincia tiene 65 MW por déficit de capacidad de generación.\n✍️Cuenta con 74 afectaciones por averías secundarias y de servicio",
-    "timestamp": 1769417337,
-    "timestamp_local": 1769417337
   }
 ]
