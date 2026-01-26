@@ -1,5 +1,45 @@
 [
   {
+    "id": 38957,
+    "fecha": "26 de Jan del 2026 a las 06:40 AM",
+    "hora_utc": "2026-01-26 11:40",
+    "mensaje": "⚡En avería el circuito 60 La Sierra, del municipio Corralillo, por cable primario partido, afectado por déficit de generación en estos momentos.",
+    "timestamp": 1769427631,
+    "timestamp_local": 1769427631
+  },
+  {
+    "id": 38956,
+    "fecha": "26 de Jan del 2026 a las 06:31 AM",
+    "hora_utc": "2026-01-26 11:31",
+    "mensaje": "⚠️ En déficit de capacidad de generación los siguientes circuitos:\n👉Municipio Santa Clara:\nCto 170 (José Martí)\nCto 171 (Los Caneyes)\nCto 167 (Virginia)",
+    "timestamp": 1769427109,
+    "timestamp_local": 1769427109
+  },
+  {
+    "id": 38955,
+    "fecha": "26 de Jan del 2026 a las 06:17 AM",
+    "hora_utc": "2026-01-26 11:17",
+    "mensaje": "⚠️ En déficit de capacidad de generación los siguientes circuitos:\n👉Municipio Remedios:\nCtos 67 y 152, 68 y 118 \nCtos 69 y 70 Zuluetas\nCto 143 Batey Heriberto Duquezne \nCto 71 Buena Vista",
+    "timestamp": 1769426236,
+    "timestamp_local": 1769426236
+  },
+  {
+    "id": 38954,
+    "fecha": "26 de Jan del 2026 a las 06:16 AM",
+    "hora_utc": "2026-01-26 11:16",
+    "mensaje": "⚠️ En déficit de capacidad de generación los siguientes circuitos:\n👉Municipio Manicaragua:\nCtos 109 y 150",
+    "timestamp": 1769426199,
+    "timestamp_local": 1769426199
+  },
+  {
+    "id": 38953,
+    "fecha": "26 de Jan del 2026 a las 06:15 AM",
+    "hora_utc": "2026-01-26 11:15",
+    "mensaje": "⚠️ En déficit de capacidad de generación los siguientes circuitos:\n👉Municipio Cifuentes:\nCtos 114 y 117\nCtos 116 y 155 Mata\nCto 186 Batey Unidad Proletaria\nCto 184 Sitio Grande",
+    "timestamp": 1769426109,
+    "timestamp_local": 1769426109
+  },
+  {
     "id": 38952,
     "fecha": "26 de Jan del 2026 a las 05:59 AM",
     "hora_utc": "2026-01-26 10:59",
@@ -94,45 +134,5 @@
     "mensaje": "⚠️ En déficit de capacidad de generación los siguientes circuitos:\n👉Municipio Caibarién:\nCtos 61, 62",
     "timestamp": 1769384328,
     "timestamp_local": 1769384328
-  },
-  {
-    "id": 38937,
-    "fecha": "25 de Jan del 2026 a las 06:38 PM",
-    "hora_utc": "2026-01-25 23:38",
-    "mensaje": "⚠️ En déficit de capacidad de generación los siguientes circuitos:\n👉Municipio Santa Clara:\nCto 167 (Virginia)\nCto 170 (José Martí)\nCto 171 (Los Caneyes)",
-    "timestamp": 1769384285,
-    "timestamp_local": 1769384285
-  },
-  {
-    "id": 38936,
-    "fecha": "25 de Jan del 2026 a las 06:24 PM",
-    "hora_utc": "2026-01-25 23:24",
-    "mensaje": "⚠️ En déficit de capacidad de generación los siguientes circuitos:\n👉Cto 132 SC Industrial\n👉Cto 162 SC Industrial",
-    "timestamp": 1769383477,
-    "timestamp_local": 1769383477
-  },
-  {
-    "id": 38935,
-    "fecha": "25 de Jan del 2026 a las 05:59 PM",
-    "hora_utc": "2026-01-25 22:59",
-    "mensaje": "🕕Actualización del servicio eléctrico en las últimas 6 horas.\n\n👉El déficit de capacidad de generación osciló entre los 69 MW y los 137 MW.\n👉En el momento de esta nota, se mantienen afectados 152 circuitos.\n👉Cuenta con 121 afectaciones por averías secundarias y de servicio:\n Camajuaní (1)\n Cifuentes (2)\n Corralillo (4)\n Manicaragua (10)\n Placetas (6)\n Ranchuelo (6)\n Remedios (10) \n Sagua (19) \n Santa Clara (50)\n🛠️Se encuentran 2 averías en vías de solución.\n🛠️Pendientes a solucionar por el área técnica 10.\n⚡La provincia no presenta averías primarias.",
-    "timestamp": 1769381946,
-    "timestamp_local": 1769381946
-  },
-  {
-    "id": 38934,
-    "fecha": "25 de Jan del 2026 a las 05:40 PM",
-    "hora_utc": "2026-01-25 22:40",
-    "mensaje": "⚠️ En déficit de capacidad de generación los siguientes circuitos:\n👉Municipio Santo Domingo:\nCto 195 Batey George Washington\nCtos 83 y 165 Manacas\nCtos 85 y 86 Pajarito\nCtos 160 y 161 Cascajal",
-    "timestamp": 1769380843,
-    "timestamp_local": 1769380843
-  },
-  {
-    "id": 38933,
-    "fecha": "25 de Jan del 2026 a las 05:35 PM",
-    "hora_utc": "2026-01-25 22:35",
-    "mensaje": "⚠️ En déficit de capacidad de generación los siguientes circuitos:\n👉Municipio Quemado:\nCtos 164, 52 y 53 Quemado.",
-    "timestamp": 1769380505,
-    "timestamp_local": 1769380505
   }
 ]
