@@ -1,5 +1,37 @@
 [
   {
+    "id": 39008,
+    "fecha": "27 de Jan del 2026 a las 12:43 AM",
+    "hora_utc": "2026-01-27 05:43",
+    "mensaje": "🛠️Afectado por DAF (Disparo Automático por Frecuencia), la línea 1920:\nAfecta los siguientes circuitos:\n🔹Municipio Placetas:\nCtos 101 y 145 Cumbre\nCto 107 Baez\nCto 105 Nazareno",
+    "timestamp": 1769492604,
+    "timestamp_local": 1769492604
+  },
+  {
+    "id": 39007,
+    "fecha": "27 de Jan del 2026 a las 12:22 AM",
+    "hora_utc": "2026-01-27 05:22",
+    "mensaje": "Con servicio la línea 1780 :\n🔹Municipio Santa Clara:\nCtos 23 y 130 La Ceniza\nCto 16 Cubanacán\nCto 42 Manajanabo\n🔹Municipio Placetas\nCto 139 Miller\nCto 190 Oliver\nCto 106 Falcón\nCtos 98 y 99 Placetas",
+    "timestamp": 1769491345,
+    "timestamp_local": 1769491345
+  },
+  {
+    "id": 39006,
+    "fecha": "27 de Jan del 2026 a las 12:21 AM",
+    "hora_utc": "2026-01-27 05:21",
+    "mensaje": "🕛Actualización del servicio eléctrico en las últimas 6 horas.\n👉El déficit de capacidad de generación osciló entre los 149 MW y los 71 MW.\n👉En el momento de esta nota, se mantienen afectados 135 circuitos.\n👉Cuenta con 116 afectaciones por averías secundarias y de servicio:\nCamajuaní (3)\nCorralillo (2)\nManicaragua (15)\nPlacetas (7)\nRanchuelo (9)\nRemedios (4) \nSagua (8) \nSanta Clara (48)\nSanto Domingo (4)\n🛠️Se encuentran 3 averías en vías de solución.\n🛠️Pendientes a solucionar por el área técnica 13.\n✅La provincia no presenta averías primarias en estos momentos.",
+    "timestamp": 1769491272,
+    "timestamp_local": 1769491272
+  },
+  {
+    "id": 39005,
+    "fecha": "27 de Jan del 2026 a las 12:11 AM",
+    "hora_utc": "2026-01-27 05:11",
+    "mensaje": "🛠️Afectada por manipulación la línea 1780 para reponer el circuito 16 (Cubanacán):\nAfecta los siguientes circuitos:\n🔹Municipio Santa Clara:\nCtos 23 y 130 La Ceniza\nCto 42 Manajanabo\nMunicipio Placetas\nCto 139 Miller\nCto 190 Oliver\nCto 106 Falcón\nCtos 98 y 99 Placetas",
+    "timestamp": 1769490667,
+    "timestamp_local": 1769490667
+  },
+  {
     "id": 39004,
     "fecha": "26 de Jan del 2026 a las 10:12 PM",
     "hora_utc": "2026-01-27 03:12",
@@ -118,37 +150,5 @@
     "mensaje": "⚠️ En déficit de capacidad de generación el circuito 6 (Vigía), del municipio Santa Clara.",
     "timestamp": 1769459372,
     "timestamp_local": 1769459372
-  },
-  {
-    "id": 38987,
-    "fecha": "26 de Jan del 2026 a las 03:10 PM",
-    "hora_utc": "2026-01-26 20:10",
-    "mensaje": "⚠️ En déficit de capacidad de generación los siguientes circuitos:\n🔹Municipio Quemado:\n👉Ctos 164, 52 y 53 Quemado.",
-    "timestamp": 1769458200,
-    "timestamp_local": 1769458200
-  },
-  {
-    "id": 38986,
-    "fecha": "26 de Jan del 2026 a las 02:57 PM",
-    "hora_utc": "2026-01-26 19:57",
-    "mensaje": "⚠️ En déficit de capacidad de generación los siguientes circuitos:\n🔹Municipio Encrucijada:\nCto 122 Encrucijada  \nCto 123 Vizcaya \nCto 142 Comunidad La Sierra \nCto 126 Batey Emilio Córdova\nCto 125 Cavarrocas\nCto 124 El Santo\n🔹Municipio Camajuaní:                                                              \nCto 78 Jutiero",
-    "timestamp": 1769457428,
-    "timestamp_local": 1769457428
-  },
-  {
-    "id": 38985,
-    "fecha": "26 de Jan del 2026 a las 02:54 PM",
-    "hora_utc": "2026-01-26 19:54",
-    "mensaje": "⚠️ En déficit de capacidad de generación los siguientes circuitos:\n🔹Municipio Camajuaní:\nCtos  72, 73, 129 y 156 \nCto 74 José María Pérez",
-    "timestamp": 1769457253,
-    "timestamp_local": 1769457253
-  },
-  {
-    "id": 38984,
-    "fecha": "26 de Jan del 2026 a las 02:44 PM",
-    "hora_utc": "2026-01-26 19:44",
-    "mensaje": "⚠️ En déficit de capacidad de generación los siguientes circuitos:\n🔹Municipio Camajuaní:\nCto 75 La Quinta\nCto 157 Luis Arcos Bergnes\nCtos 77 y 185 Vueltas\n🔹Municipio Ranchuelo: \nCtos 89, 97, 188 y 189\nCtos 148 y 149 San Juan\nCto 91 Batey Osvaldo Herrera\nCto 181 Batey Ifraín Alfonso",
-    "timestamp": 1769456660,
-    "timestamp_local": 1769456660
   }
 ]
