@@ -1,5 +1,21 @@
 [
   {
+    "id": 39031,
+    "fecha": "27 de Jan del 2026 a las 12:13 PM",
+    "hora_utc": "2026-01-27 17:13",
+    "mensaje": "Afectados 107 MW en la provincia, demanda máxima a apagar en estos momentos.",
+    "timestamp": 1769533987,
+    "timestamp_local": 1769533987
+  },
+  {
+    "id": 39029,
+    "fecha": "27 de Jan del 2026 a las 12:04 PM",
+    "hora_utc": "2026-01-27 17:04",
+    "mensaje": "🕛Actualización del servicio eléctrico en las últimas 6 horas.\n👉El déficit de capacidad de generación osciló entre los 85 MW y los 102 MW.\n👉En el momento de esta nota, se mantienen afectados 129 circuitos.\n👉Cuenta con 134 afectaciones por averías secundarias y de servicio:\nCaibarién (4)\nCamajuaní (7)\nCorralillo (5)\nEncrucijada (3)\nManicaragua (14)\nPlacetas (2)\nRanchuelo (11)\nRemedios (10) \nSagua (5) \nSanta Clara (67)\nSanto Domingo (6)\n🛠️Pendientes a solucionar por el área técnica 11.\n⚡La provincia no presenta averías primarias en estos momentos.",
+    "timestamp": 1769533497,
+    "timestamp_local": 1769533497
+  },
+  {
     "id": 39028,
     "fecha": "27 de Jan del 2026 a las 11:34 AM",
     "hora_utc": "2026-01-27 16:34",
@@ -126,29 +142,5 @@
     "mensaje": "Actualización del servicio eléctrico en la provincia🔸\n✍️Se mantienen afectados en la provincia 135 circuitos.\n✍️En el momento de hacer esta nota la provincia tiene 57 MW por déficit de capacidad de generación.\n✍️Cuenta con 96 afectaciones por averías secundarias y de servicio.",
     "timestamp": 1769504592,
     "timestamp_local": 1769504592
-  },
-  {
-    "id": 39011,
-    "fecha": "27 de Jan del 2026 a las 02:24 AM",
-    "hora_utc": "2026-01-27 07:24",
-    "mensaje": "⚡Afectada línea 1910 al momento de restablecerse:\nAfecta los siguientes circuitos:\nCtos 100 y 151 Placetas\nCto 104 Hermanos Amejeiras\nCto 103 Batey Carbó Servia\n✍️Se estudian las causas.",
-    "timestamp": 1769498640,
-    "timestamp_local": 1769498640
-  },
-  {
-    "id": 39010,
-    "fecha": "27 de Jan del 2026 a las 02:07 AM",
-    "hora_utc": "2026-01-27 07:07",
-    "mensaje": "Con servicio la línea 1920:\n🔹Municipio Placetas:\nCtos 101 y 145 Cumbre\nCto 107 Baez\nCto 105 Nazareno",
-    "timestamp": 1769497661,
-    "timestamp_local": 1769497661
-  },
-  {
-    "id": 39009,
-    "fecha": "27 de Jan del 2026 a las 02:01 AM",
-    "hora_utc": "2026-01-27 07:01",
-    "mensaje": "Actualización del servicio eléctrico en la provincia🔸\n✍️Se mantienen afectados en la provincia 135 circuitos.\n✍️En el momento de hacer esta nota la provincia tiene 60 MW por déficit de capacidad de generación.\n✍️Cuenta con 94 afectaciones por averías secundarias y de servicio.",
-    "timestamp": 1769497316,
-    "timestamp_local": 1769497316
   }
 ]

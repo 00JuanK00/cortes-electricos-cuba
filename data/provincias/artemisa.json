@@ -1,5 +1,29 @@
 [
   {
+    "id": 35286,
+    "fecha": "27 de Jan del 2026 a las 12:34 PM",
+    "hora_utc": "2026-01-27 17:34",
+    "mensaje": "✅ Restablecida la avería del circuito de Bombeo de Ceiba 1 en Caimito",
+    "timestamp": 1769535265,
+    "timestamp_local": 1769535265
+  },
+  {
+    "id": 35285,
+    "fecha": "27 de Jan del 2026 a las 12:27 PM",
+    "hora_utc": "2026-01-27 17:27",
+    "mensaje": "✅ Restablecida la avería de la Subestación de la Esperanza en Artemisa",
+    "timestamp": 1769534841,
+    "timestamp_local": 1769534841
+  },
+  {
+    "id": 35284,
+    "fecha": "27 de Jan del 2026 a las 12:27 PM",
+    "hora_utc": "2026-01-27 17:27",
+    "mensaje": "🚨Afectados por deficit los circuitos\n\n➡️241 de Bahía Honda\n➡️Mani de San Cristóbal\n\n‼️ Tenemos una afectación de 110 MW‼️",
+    "timestamp": 1769534840,
+    "timestamp_local": 1769534840
+  },
+  {
     "id": 35283,
     "fecha": "27 de Jan del 2026 a las 11:08 AM",
     "hora_utc": "2026-01-27 16:08",
@@ -134,29 +158,5 @@
     "mensaje": "⚡ Actualización del Sistema Electroenergético Nacional para el 26 de enero de 2026.\n\nLeer más: https://www.unionelectrica.cu/nota-informativa/\n\n#UnidosXCuba #UniónEléctrica #UNE #NotaInformativa",
     "timestamp": 1769440134,
     "timestamp_local": 1769440134
-  },
-  {
-    "id": 35266,
-    "fecha": "26 de Jan del 2026 a las 06:21 AM",
-    "hora_utc": "2026-01-26 11:21",
-    "mensaje": "❌Se mantienen en déficit los siguientes circuitos❌\n➡️5040 de Bauta-Caimito\n➡️1580 de Alquizar\n➡️246 de Bahía \n➡️Fbca de Carretas en Güira\n➡️Mani y 341 de San Cristóbal\n➡️3220 manipulado \n❌Tenemos una afectación de 70 MW❌",
-    "timestamp": 1769426478,
-    "timestamp_local": 1769426478
-  },
-  {
-    "id": 35265,
-    "fecha": "26 de Jan del 2026 a las 03:23 AM",
-    "hora_utc": "2026-01-26 08:23",
-    "mensaje": "⛔Se mantienen afectados por deficit los siguientes circuitos⛔\n➡️3517 de Mariel \n➡️1570 de Artemisa\n➡️1940 de San Antonio\n➡️236 y 342 de Bahía \n➡️S-20 manipulado,4Caminos y Martí de San Cristóbal\n➡️Junco y Pedro Díaz de Güira \n🚨Tenemos una afectación de 79 MW🚨",
-    "timestamp": 1769415782,
-    "timestamp_local": 1769415782
-  },
-  {
-    "id": 35264,
-    "fecha": "26 de Jan del 2026 a las 12:49 AM",
-    "hora_utc": "2026-01-26 05:49",
-    "mensaje": "🚨Circuito 1500 de Artemisa en falla, se recorrerán las líneas cuando las condiciones del tiempo lo permitan 🚨",
-    "timestamp": 1769406578,
-    "timestamp_local": 1769406578
   }
 ]
