@@ -1,5 +1,21 @@
 [
   {
+    "id": 104698,
+    "fecha": "27 de Jan del 2026 a las 03:41 AM",
+    "hora_utc": "2026-01-27 08:41",
+    "mensaje": "🔷Restablecido el servicio en el circuito 3140 que se encontraba afectado por disparo por DAF🔷",
+    "timestamp": 1769503280,
+    "timestamp_local": 1769503280
+  },
+  {
+    "id": 104697,
+    "fecha": "27 de Jan del 2026 a las 03:27 AM",
+    "hora_utc": "2026-01-27 08:27",
+    "mensaje": "♦️Afectado el servicio en el circuito 3140 por disparo por DAF♦️",
+    "timestamp": 1769502426,
+    "timestamp_local": 1769502426
+  },
+  {
     "id": 104695,
     "fecha": "27 de Jan del 2026 a las 03:11 AM",
     "hora_utc": "2026-01-27 08:11",
@@ -134,29 +150,5 @@
     "mensaje": "🔷♦️Se restablece el servicio en los circuitos que se encontraban afectados por déficit de capacidad de generación:\n * Sopapo 1 y 2♦️🔷",
     "timestamp": 1769488953,
     "timestamp_local": 1769488953
-  },
-  {
-    "id": 104678,
-    "fecha": "26 de Jan del 2026 a las 11:41 PM",
-    "hora_utc": "2026-01-27 04:41",
-    "mensaje": "🔷♦️Se restablece el servicio en el circuito que se encontraba afectado  por déficit de capacidad de generación:\n*Salud 1♦️🔷",
-    "timestamp": 1769488905,
-    "timestamp_local": 1769488905
-  },
-  {
-    "id": 104677,
-    "fecha": "26 de Jan del 2026 a las 11:40 PM",
-    "hora_utc": "2026-01-27 04:40",
-    "mensaje": "🔷♦️Se restablece el servicio en el circuito que se encontraba afectado  por déficit de capacidad de generación:\n*Palomo♦️🔷",
-    "timestamp": 1769488845,
-    "timestamp_local": 1769488845
-  },
-  {
-    "id": 104676,
-    "fecha": "26 de Jan del 2026 a las 11:32 PM",
-    "hora_utc": "2026-01-27 04:32",
-    "mensaje": "🚨Por déficit de capacidad de generación se afecta el servicio en el siguiente circuito:\n*Aguacate🚨",
-    "timestamp": 1769488331,
-    "timestamp_local": 1769488331
   }
 ]
