@@ -1,5 +1,21 @@
 [
   {
+    "id": 17970,
+    "fecha": "27 de Jan del 2026 a las 08:14 AM",
+    "hora_utc": "2026-01-27 13:14",
+    "mensaje": "**Nota Informativa: Estado del Sistema Eléctrico Nacional (SEN) – 27 de enero de 2026**\nEn el día de ayer se afectó el servicio durante las 24 horas. La máxima afectación por déficit de capacidad de generación en el día de ayer fue de 1951 MW a las 18:40 horas.\nLa producción de energía de los 49 nuevos parques solares fotovoltaicos fue de 3090 MWh, con 642 MW como máxima potencia entregada en el horario de la media con esta fuente de generación.\n**Estado actual del SEN**\nLa disponibilidad del SEN a las 06:00 horas es de 1270 MW, la demanda 2000 MW, con 740MW afectados. En el horario de la media se estima una afectación de 1100 MW. \n**Principales incidencias**\nAvería: Unidad 5 de la CTE Mariel, Unidad 3 de la CTE Carlos Manuel de Céspedes, Unidades 5 y 6 de Nuevitas, Unidad 2 de la CTE Felton y Unidades 3 y 6 de la CTE Antonio Maceo.\nMantenimiento: Unidad 2 de la CTE Sata Cruz, Unidad 4 de la CTE Carlos Manuel de Céspedes en Cienfuegos.\nLimitaciones en la generación térmica: 446 MW fuera de servicio.\n**Pronóstico para el horario pico**\nPara el pico se estima la entrada de la unidad 6 de la CTE Nuevitas con 75 MW.\nCon este pronóstico para el pico se prevé una disponibilidad de 1345 MW con una demanda máxima de 3150 MW, para un déficit de 1805 MW, por lo que de mantenerse las condiciones previstas se pronostica una afectación de 1835 MW en este horario.",
+    "timestamp": 1769519662,
+    "timestamp_local": 1769519662
+  },
+  {
+    "id": 17969,
+    "fecha": "27 de Jan del 2026 a las 07:19 AM",
+    "hora_utc": "2026-01-27 12:19",
+    "mensaje": "QUE SIGNIFICA E IMPLICA LA MÁXIMA CAPACIDAD APAGABLE EN LA PROVINCIA:                                                                                                 Máxima capacidad apagable se refiere al nivel máximo de demanda eléctrica que puede ser desconectada o suspendida temporalmente en la provincia, explica la complejidad del déficit de generación o contingencias en el sistema eléctrico.\nRepresenta el límite superior de la reducción de carga que la empresa puede lograr mediante cortes de energía (apagones). Cuanto mayor sea la máxima capacidad apagable, mayor será el déficit de energía.\n¿Qué implica esto?\nSe identifica cuántos circuitos pueden ser apagados para equilibrar la carga del sistema, esto imposibilita realizar rotaciones, pues a \nexcepción de los servicios priorizados, se encuentran afectados todos los circuitos apagables del territorio. Podrán presentarse afectaciones \nen el servicio de electricidad durante varias horas al día y el tiempo con servicio dependerá del comportamiento del SEN. Esta medida es \nnecesaria para evitar fallas mayores y proteger la infraestructura eléctrica.",
+    "timestamp": 1769516382,
+    "timestamp_local": 1769516382
+  },
+  {
     "id": 17967,
     "fecha": "26 de Jan del 2026 a las 10:24 PM",
     "hora_utc": "2026-01-27 03:24",
@@ -94,21 +110,5 @@
     "mensaje": "Afectados por déficit también los siguientes circuitos:\nTK9 Aguilera, La Victoria \nTK1 Edificios de Buena Vista\nCircuito 33 Kv: 6220\nTK61 La Yaya\nTK58 La Calera\nTK62 Lora\nTK63 Lora\nTJ95 Poblado Menéndez\n6220 Carúpano, La Salina y La Playa\nCircuito 33 Kv: 6820 Poblado Amancio\nTK75 Vicente Pérez \nTK77 San Alberto\nTK78 Ana Luisa\nTK76 El Paraíso\nCircuito 33 Kv: 6230\nTK59 Vedado 3\nTK67 Porcino\nTK68 Vedado 6\nTK69 Poblado de Menéndez\nTK70 Transporte\nTK99 Santa Marías\nTK98 San Manuel, La Pedrera\nTK64 Palma Picada\nCircuito de 33 Kv 6840 Los Kilómetros",
     "timestamp": 1769369135,
     "timestamp_local": 1769369135
-  },
-  {
-    "id": 17950,
-    "fecha": "25 de Jan del 2026 a las 12:00 PM",
-    "hora_utc": "2026-01-25 17:00",
-    "mensaje": "Se afectan por déficit los siguientes:\nCircuito 33 Kv: 6810\nTK82 Tana\nTK83 Las Maboas\nTK113 La Aurora\nTK74 La Lomita\nTK110 El Batey\n6810 Poblado Amancio\nTK47 La Micro Puerto Padre\nTK25 Cuatro Caminos, Dormitorio\nTK93 Batey Delicias",
-    "timestamp": 1769360432,
-    "timestamp_local": 1769360432
-  },
-  {
-    "id": 17949,
-    "fecha": "25 de Jan del 2026 a las 11:13 AM",
-    "hora_utc": "2026-01-25 16:13",
-    "mensaje": "Se afectan los siguientes circuitos por déficit:\nTK4 Aeropuerto, Casa Piedra y Aurora\nTK12 Las 40 y Nuevo Sosa\nTK6 Calle Cuba y zona sur de Buena Vista\nTK24 Reparto Santo Domingo\nTK27 La Victoria\nCircuito 33 Kv: 2020\nTK85 Leningrado \nTK108 Tasajera\nTK84 El Triángulo \nTK86 Poblado Colombia \nTK88 Dos Hermanos\nTK107 La Islita \nTK 112 Argentina Norte \nTK111 Ramírez",
-    "timestamp": 1769357605,
-    "timestamp_local": 1769357605
   }
 ]
