@@ -1,5 +1,13 @@
 [
   {
+    "id": 104701,
+    "fecha": "27 de Jan del 2026 a las 06:07 AM",
+    "hora_utc": "2026-01-27 11:07",
+    "mensaje": "🚨Por déficit de capacidad de generación se afecta el servicio en el siguiente circuito:\n*Güines 1 🚨",
+    "timestamp": 1769512078,
+    "timestamp_local": 1769512078
+  },
+  {
     "id": 104698,
     "fecha": "27 de Jan del 2026 a las 03:41 AM",
     "hora_utc": "2026-01-27 08:41",
@@ -99,7 +107,7 @@
     "id": 104685,
     "fecha": "27 de Jan del 2026 a las 12:39 AM",
     "hora_utc": "2026-01-27 05:39",
-    "mensaje": "♦️Afectado el servicio en los siguientes circuitos por disparo por DAF\n*3140\n*3590♦️",
+    "mensaje": "♦️Afectado el servicio en los siguientes circuitos por disparo por DAF\n*3140\n*3590♦️\n\n🔷♦️Se restablece el servicio en los circuitos que se encontraban afectados por déficit de capacidad de generación:\n *3655\n*3660♦️🔷",
     "timestamp": 1769492349,
     "timestamp_local": 1769492349
   },
@@ -126,13 +134,5 @@
     "mensaje": "🔷Restablecido el servicio en el circuito 2315 que se encontraba afectado por manipulación🔷",
     "timestamp": 1769489651,
     "timestamp_local": 1769489651
-  },
-  {
-    "id": 104681,
-    "fecha": "26 de Jan del 2026 a las 11:47 PM",
-    "hora_utc": "2026-01-27 04:47",
-    "mensaje": "♦️Afectado el servicio en el circuito 2315 por manipulación♦️",
-    "timestamp": 1769489267,
-    "timestamp_local": 1769489267
   }
 ]
