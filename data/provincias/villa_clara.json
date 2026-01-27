@@ -1,5 +1,37 @@
 [
   {
+    "id": 39017,
+    "fecha": "27 de Jan del 2026 a las 06:40 AM",
+    "hora_utc": "2026-01-27 11:40",
+    "mensaje": "⚠️ En déficit de capacidad de generación los siguientes circuitos:\n🔹Municipio Cifuentes:\nCtos 114 y 117\nCtos 116 y 155 Mata\nCto 186 Batey Unidad Proletaria\nCto 184 Sitio Grande",
+    "timestamp": 1769514018,
+    "timestamp_local": 1769514018
+  },
+  {
+    "id": 39016,
+    "fecha": "27 de Jan del 2026 a las 06:39 AM",
+    "hora_utc": "2026-01-27 11:39",
+    "mensaje": "⚠️ En déficit de capacidad de generación los siguientes circuitos:\n🔹Municipio Sagua\nCtos 43, 51 Sagua\nCto 44 Isabela\nCtos 50 y 147 Villa Alegre\n🔹Municipio Placetas\nCto 99\n🔹Municipio Santa Clara\nCto 30 (Capiro -Santa Catalina)",
+    "timestamp": 1769513987,
+    "timestamp_local": 1769513987
+  },
+  {
+    "id": 39015,
+    "fecha": "27 de Jan del 2026 a las 06:38 AM",
+    "hora_utc": "2026-01-27 11:38",
+    "mensaje": "⚠️ En déficit de capacidad de generación los siguientes circuitos:\n🔹Municipio Ranchuelo:\nCto 92 Esperanza (Pueblo)\nCto 93 Esperanza (Campo)\nCtos 54, 94 y 95 Jicotea\n🔹Municipio Santa Clara\nCtos 26 y 141 (Manuelita)\nCto 191 (Quemado de Hilario) \n🔹Municipio Santo Domingo\nCto 79 (Santo Domingo)\nCto 81 (26 de Julio)\nCto 163 (Batey 26 de Julio",
+    "timestamp": 1769513891,
+    "timestamp_local": 1769513891
+  },
+  {
+    "id": 39014,
+    "fecha": "27 de Jan del 2026 a las 06:35 AM",
+    "hora_utc": "2026-01-27 11:35",
+    "mensaje": "🕕Actualización del servicio eléctrico en las últimas 6 horas.\n👉El déficit de capacidad de generación osciló entre los 57 MW y los 71 MW.\n👉En el momento de esta nota, se mantienen afectados 129 circuitos.\n👉Cuenta con 105 afectaciones por averías secundarias y de servicio:\n\nCaibarién (2)\nCamajuaní (3)Corralillo (1)\nManicaragua (15)\nPlacetas (2)\nRanchuelo (6)\nRemedios (4) \nSagua (5) \nSanta Clara (46)\nSanto Domingo (4)\n🛠️Se encuentra 1 avería en vías de solución.\n🛠️Pendientes a solucionar por el área técnica 17.\n⚡La provincia presenta 1 avería primaria en el circuito 104 (Hermanos Amejeiras), del municipio Placetas. Se estudian las causas.",
+    "timestamp": 1769513736,
+    "timestamp_local": 1769513736
+  },
+  {
     "id": 39013,
     "fecha": "27 de Jan del 2026 a las 06:02 AM",
     "hora_utc": "2026-01-27 11:02",
@@ -118,37 +150,5 @@
     "mensaje": "⚠️ En déficit de capacidad de generación los siguientes circuitos:\n🔹Municipio Placetas:\n👉Cto 192 Benito Juárez\n👉Cto 102 Peroti",
     "timestamp": 1769466936,
     "timestamp_local": 1769466936
-  },
-  {
-    "id": 38997,
-    "fecha": "26 de Jan del 2026 a las 05:31 PM",
-    "hora_utc": "2026-01-26 22:31",
-    "mensaje": "⚠️ En déficit de capacidad de generación los siguientes circuitos:\n🔹Municipio Santo Domingo:\nCto 195 Batey George Washington\nCtos 83 y 165 Manacas\nCtos 85 y 86 Pajarito\nCtos 160 y 161 Cascajal",
-    "timestamp": 1769466672,
-    "timestamp_local": 1769466672
-  },
-  {
-    "id": 38996,
-    "fecha": "26 de Jan del 2026 a las 05:27 PM",
-    "hora_utc": "2026-01-26 22:27",
-    "mensaje": "⚠️ En déficit de capacidad de generación el circuito 31 (Sakenaf), del municipio Santa Clara.",
-    "timestamp": 1769466468,
-    "timestamp_local": 1769466468
-  },
-  {
-    "id": 38995,
-    "fecha": "26 de Jan del 2026 a las 05:03 PM",
-    "hora_utc": "2026-01-26 22:03",
-    "mensaje": "⚠️ En déficit de capacidad de generación los siguientes circuitos:\n🔹Municipio Santa Clara:\nCto 5 (Dobarganes)\nCto 17 (Subplanta) \nCtos 37 y 38 (Yabú)   \nCto 9 (Moldes y Troqueles)\nCto 13 (Zona Industrial)\nCto 133 (Taller Cafetera)",
-    "timestamp": 1769465029,
-    "timestamp_local": 1769465029
-  },
-  {
-    "id": 38994,
-    "fecha": "26 de Jan del 2026 a las 04:31 PM",
-    "hora_utc": "2026-01-26 21:31",
-    "mensaje": "Actualización del servicio eléctrico en la provincia🔸\n✍️Se mantienen afectados en la provincia 145 circuitos.\n✍️En el momento de hacer esta nota la provincia tiene 113 MW por déficit de capacidad de generación.\n✍️Cuenta con 129 afectaciones por averías secundarias y de servicio.",
-    "timestamp": 1769463067,
-    "timestamp_local": 1769463067
   }
 ]
