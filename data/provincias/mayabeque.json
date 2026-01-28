@@ -1,5 +1,37 @@
 [
   {
+    "id": 104861,
+    "fecha": "28 de Jan del 2026 a las 02:01 PM",
+    "hora_utc": "2026-01-28 19:01",
+    "mensaje": "♦️ Afectado el servicio en el circuito 2440 por manipulación  ♦️",
+    "timestamp": 1769626901,
+    "timestamp_local": 1769626901
+  },
+  {
+    "id": 104860,
+    "fecha": "28 de Jan del 2026 a las 02:00 PM",
+    "hora_utc": "2026-01-28 19:00",
+    "mensaje": "🚨Por déficit de capacidad de generación se afecta el servicio en el siguiente circuito:\n*Santa Cruz 🚨",
+    "timestamp": 1769626816,
+    "timestamp_local": 1769626816
+  },
+  {
+    "id": 104859,
+    "fecha": "28 de Jan del 2026 a las 01:46 PM",
+    "hora_utc": "2026-01-28 18:46",
+    "mensaje": "🔷♦️Se restablece el servicio en el circuito que se encontraba afectado  por déficit de capacidad de generación:\n*Camilo  ♦️🔷",
+    "timestamp": 1769626002,
+    "timestamp_local": 1769626002
+  },
+  {
+    "id": 104858,
+    "fecha": "28 de Jan del 2026 a las 01:40 PM",
+    "hora_utc": "2026-01-28 18:40",
+    "mensaje": "🔷 Restablecido el servicio en el circuito 3140 que se encontraba afectado por disparo por DAF🔷",
+    "timestamp": 1769625641,
+    "timestamp_local": 1769625641
+  },
+  {
     "id": 104857,
     "fecha": "28 de Jan del 2026 a las 01:34 PM",
     "hora_utc": "2026-01-28 18:34",
@@ -126,21 +158,5 @@
     "mensaje": "🔷 Restablecido el servicio en el circuito 3140 que se encontraba afectado por disparo por DAF🔷",
     "timestamp": 1769620087,
     "timestamp_local": 1769620087
-  },
-  {
-    "id": 104841,
-    "fecha": "28 de Jan del 2026 a las 11:52 AM",
-    "hora_utc": "2026-01-28 16:52",
-    "mensaje": "♦️ Afectado el servicio en el circuito 3590 por disparo por DAF ♦️",
-    "timestamp": 1769619128,
-    "timestamp_local": 1769619128
-  },
-  {
-    "id": 104840,
-    "fecha": "28 de Jan del 2026 a las 11:20 AM",
-    "hora_utc": "2026-01-28 16:20",
-    "mensaje": "♦️ Afectado el servicio en el circuito 3140 por disparo por DAF ♦️",
-    "timestamp": 1769617200,
-    "timestamp_local": 1769617200
   }
 ]
