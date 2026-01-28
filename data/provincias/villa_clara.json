@@ -1,5 +1,29 @@
 [
   {
+    "id": 39122,
+    "fecha": "28 de Jan del 2026 a las 06:20 PM",
+    "hora_utc": "2026-01-28 23:20",
+    "mensaje": "⚠️ En déficit de capacidad de generación el siguiente circuito:\n🔹Municipio Santa Clara\n👉Cto 13 (Zona Industrial)",
+    "timestamp": 1769642447,
+    "timestamp_local": 1769642447
+  },
+  {
+    "id": 39121,
+    "fecha": "28 de Jan del 2026 a las 06:17 PM",
+    "hora_utc": "2026-01-28 23:17",
+    "mensaje": "⚠️ En déficit de capacidad de generación los siguientes circuitos:\n🔹Municipio Santo Domingo:\n👉Cto 195 Batey George Washington\n👉Ctos 83 y 165 Manacas\n👉Ctos 85 y 86 Pajarito\n👉Ctos 160 y 161 Cascajal",
+    "timestamp": 1769642259,
+    "timestamp_local": 1769642259
+  },
+  {
+    "id": 39120,
+    "fecha": "28 de Jan del 2026 a las 06:10 PM",
+    "hora_utc": "2026-01-28 23:10",
+    "mensaje": "🕛Actualización del servicio eléctrico en las últimas 6 horas.\n✍️El déficit de capacidad de generación osciló entre los 65 MW y los 124 MW.\n✍️En el momento de esta nota, se mantienen afectados 113 circuitos.\n✍️Cuenta con 99 afectaciones por averías secundarias y de servicio:\n🔸Cifuentes(2)\n🔸Corralillo (3)\n🔸Manicaragua (3)\n🔸Placetas (4)\n🔸Ranchuelo (4)\n🔸Remedios (7) \n🔸Sagua (11)\n🔸Santa Clara (49)\n🔸Santo Domingo (3)\n🛠️Se encuentra 6 avería en vías de solución. \n🛠️Pendientes a solucionar por el área técnica 8.\n✅La provincia no presenta averías primarias en estos momentos.",
+    "timestamp": 1769641820,
+    "timestamp_local": 1769641820
+  },
+  {
     "id": 39119,
     "fecha": "28 de Jan del 2026 a las 05:55 PM",
     "hora_utc": "2026-01-28 22:55",
@@ -134,29 +158,5 @@
     "mensaje": "💡Con servicio eléctrico en los siguientes circuitos:\n🔹Municipio Santa Clara: \n👉Cto 166  y 169 (Condado)\n👉Cto 170 (José Martí)\n👉Cto 171 (Los Caneyes)",
     "timestamp": 1769629610,
     "timestamp_local": 1769629610
-  },
-  {
-    "id": 39102,
-    "fecha": "28 de Jan del 2026 a las 02:19 PM",
-    "hora_utc": "2026-01-28 19:19",
-    "mensaje": "⚠️ En déficit de capacidad de generación los siguientes circuitos:\n🔹Municipio Santa Clara: \n👉Ctos 132 y 162(Santa Clara Industrial)\n👉Cto 4 (Consejo Centro)",
-    "timestamp": 1769627992,
-    "timestamp_local": 1769627992
-  },
-  {
-    "id": 39101,
-    "fecha": "28 de Jan del 2026 a las 02:13 PM",
-    "hora_utc": "2026-01-28 19:13",
-    "mensaje": "⚠️ En déficit de capacidad de generación el siguiente circuito:\n🔹Municipio Manicaragua:\n👉Cto 112 Hoyo Manicaragua",
-    "timestamp": 1769627590,
-    "timestamp_local": 1769627590
-  },
-  {
-    "id": 39100,
-    "fecha": "28 de Jan del 2026 a las 02:10 PM",
-    "hora_utc": "2026-01-28 19:10",
-    "mensaje": "⚠️ En déficit de capacidad de generación los siguientes circuitos:\n🔹Municipio Quemado:\n👉Ctos 164, 52 y 53 Quemado.\n🔹Municipio Santa Clara:\n👉Cto 5 (Dobarganes)\n👉Cto 17 (Subplanta)",
-    "timestamp": 1769627454,
-    "timestamp_local": 1769627454
   }
 ]
