@@ -1,5 +1,13 @@
 [
   {
+    "id": 39041,
+    "fecha": "27 de Jan del 2026 a las 06:52 PM",
+    "hora_utc": "2026-01-27 23:52",
+    "mensaje": "‼️Ante cualquier duda con la terminología eléctrica, les volvemos explicar: \n     \n✍️Las averías pueden ser primarias (afecta un volumen grande de población pues son las líneas de distribución a 13.8kV y puede afectar varias manzanas, incluso repartos completos).\n\n✍️Secundarias (afecta a todos los clientes que se alimenten del mismo transformador, puede afectar una o varias cuadras). \n\n✍️De servicio (afectan 1 solo cliente o instalación generalmente producto a daños en la acometida, metro contador, etc.).",
+    "timestamp": 1769557942,
+    "timestamp_local": 1769557942
+  },
+  {
     "id": 39040,
     "fecha": "27 de Jan del 2026 a las 06:19 PM",
     "hora_utc": "2026-01-27 23:19",
@@ -142,13 +150,5 @@
     "mensaje": "Afectados 87 MW en la provincia, demanda máxima a apagar en estos momentos.",
     "timestamp": 1769522763,
     "timestamp_local": 1769522763
-  },
-  {
-    "id": 39021,
-    "fecha": "27 de Jan del 2026 a las 08:14 AM",
-    "hora_utc": "2026-01-27 13:14",
-    "mensaje": "Actualización del servicio eléctrico en la provincia🔸\n✍️Se mantienen afectados en la provincia 129 circuitos.\n✍️En el momento de hacer esta nota la provincia tiene 86 MW por déficit de capacidad de generación.\n✍️Cuenta con 101 afectaciones por averías secundarias y de servicio.",
-    "timestamp": 1769519664,
-    "timestamp_local": 1769519664
   }
 ]
