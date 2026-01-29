@@ -1,5 +1,21 @@
 [
   {
+    "id": 39151,
+    "fecha": "29 de Jan del 2026 a las 06:25 AM",
+    "hora_utc": "2026-01-29 11:25",
+    "mensaje": "Afectados 42 MW en la provincia, demanda máxima a apagar en estos momentos.",
+    "timestamp": 1769685926,
+    "timestamp_local": 1769685926
+  },
+  {
+    "id": 39150,
+    "fecha": "29 de Jan del 2026 a las 06:16 AM",
+    "hora_utc": "2026-01-29 11:16",
+    "mensaje": "⚠️ En déficit de capacidad de generación los siguientes circuitos:\n🔹Municipio Caibarién\n👉Ctos 61, 62, 63 y 64\n👉Ctos 182 y 183 Van Troy",
+    "timestamp": 1769685381,
+    "timestamp_local": 1769685381
+  },
+  {
     "id": 39149,
     "fecha": "29 de Jan del 2026 a las 05:57 AM",
     "hora_utc": "2026-01-29 10:57",
@@ -134,21 +150,5 @@
     "mensaje": "⚡Afectado el Cto 27(Maleza) perteneciente al Municipio Santa Clara, se estudian las causas.",
     "timestamp": 1769656174,
     "timestamp_local": 1769656174
-  },
-  {
-    "id": 39131,
-    "fecha": "28 de Jan del 2026 a las 10:03 PM",
-    "hora_utc": "2026-01-29 03:03",
-    "mensaje": "💡Con servicio eléctrico en el siguiente circuito:\n🔹Municipio Santa Clara: \n👉Cto 4(Consejo Centro)",
-    "timestamp": 1769655832,
-    "timestamp_local": 1769655832
-  },
-  {
-    "id": 39130,
-    "fecha": "28 de Jan del 2026 a las 09:58 PM",
-    "hora_utc": "2026-01-29 02:58",
-    "mensaje": "🛠️Manipulación Cto 170 José Marti para trabajar en una avería.",
-    "timestamp": 1769655500,
-    "timestamp_local": 1769655500
   }
 ]
