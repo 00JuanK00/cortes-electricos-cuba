@@ -1,5 +1,37 @@
 [
   {
+    "id": 48964,
+    "fecha": "29 de Jan del 2026 a las 03:43 PM",
+    "hora_utc": "2026-01-29 20:43",
+    "mensaje": "🚨Circuito en avería:                                                                                                                          Sucede si un circuito se interrumpe por causa de un defecto en un cable conductor de corriente (fase o neutro), un fusible fundido o disyuntor. En sistemas trifásicos una falla puede implicar una fase, más de una fase con la tierra o puede ocurrir solo entre fases.",
+    "timestamp": 1769719380,
+    "timestamp_local": 1769719380
+  },
+  {
+    "id": 48963,
+    "fecha": "29 de Jan del 2026 a las 03:42 PM",
+    "hora_utc": "2026-01-29 20:42",
+    "mensaje": "🔊Estimados clientes en estos momentos se encuentra en Avería el circuito 22",
+    "timestamp": 1769719349,
+    "timestamp_local": 1769719349
+  },
+  {
+    "id": 48962,
+    "fecha": "29 de Jan del 2026 a las 03:29 PM",
+    "hora_utc": "2026-01-29 20:29",
+    "mensaje": "🚨Estimados clientes en estos momentos se encuentra afectados por Déficit de Capacidad de Generación el circuito 8, disculpen por las molestias ocasionadas.",
+    "timestamp": 1769718596,
+    "timestamp_local": 1769718596
+  },
+  {
+    "id": 48961,
+    "fecha": "29 de Jan del 2026 a las 03:24 PM",
+    "hora_utc": "2026-01-29 20:24",
+    "mensaje": "🚨Estimados clientes en estos momentos se encuentra afectados por Déficit de Capacidad de Generación los circuitos 3 y 21 de Santiago, disculpen por las molestias ocasionadas.",
+    "timestamp": 1769718242,
+    "timestamp_local": 1769718242
+  },
+  {
     "id": 48960,
     "fecha": "29 de Jan del 2026 a las 03:10 PM",
     "hora_utc": "2026-01-29 20:10",
@@ -126,29 +158,5 @@
     "mensaje": "🔉 Estimados clientes se les informa que se encuentra afectado el circuito 11 de Santiago por Manipulación .",
     "timestamp": 1769698118,
     "timestamp_local": 1769698118
-  },
-  {
-    "id": 48944,
-    "fecha": "29 de Jan del 2026 a las 09:27 AM",
-    "hora_utc": "2026-01-29 14:27",
-    "mensaje": "🔊 Estimados clientes se les informa que se encuentran afectados los circuitos 1+2 , 14 , 19 , 21 , 25 de Santiago , 4 de Palma , línea 5395 San Luis por déficit en capacidad de generación .",
-    "timestamp": 1769696836,
-    "timestamp_local": 1769696836
-  },
-  {
-    "id": 48943,
-    "fecha": "29 de Jan del 2026 a las 08:26 AM",
-    "hora_utc": "2026-01-29 13:26",
-    "mensaje": "🔊 Informativa: Estado del Sistema Eléctrico Nacional (SEN) – 29 de enero de 2026\n\n📌En el día de ayer se afectó el servicio durante las 24 horas. La máxima afectación por déficit de capacidad de generación en el día de ayer fue de ⚡1832 MW a las ⏰18:30 horas, quedando todo restablecido a las ⏰02:35 horas de la madrugada de hoy. A las ⏰04:11 horas se comenzó afectar nuevamente el servicio eléctrico por déficit de capacidad de generación..\n\n☀️La producción de energía de los 49 nuevos parques solares fotovoltaicos fue de 1929 MWh, con 284 MW como máxima potencia entregada en el horario de la media con esta fuente de generación \n\n👉 En el horario de la media se estima una afectación de ⚡1050 MW. \n\n⚡️Principales incidencias\n\n⚠️ Avería: Unidad 5 de la CTE Mariel, Unidad 1 de la CTE Santa Cruz, Unidad 5 de Nuevitas, Unidad 2 de la CTE Felton y Unidades 3 y 6 de la CTE Antonio Maceo.\n\n🛠Mantenimiento: Unidades 2 y 3 de la CTE Santa Cruz, Unidad 4 de la CTE Carlos Manuel de Céspedes en Cienfuegos.\n\n📈 Limitaciones en la generación térmica: 420 MW fuera de servicio.\n\n🔊Pronóstico para el horario pico: \n\n🏭Se estima la entrada de la unidad 1 de la CTE Santa Cruz con 50 MW (en proceso de arranque), la entrada de la unidad 2 de la CTE Santa Cruz con 80 MW, la entrada de la unidad 3 de la CTE Renté con 45 MW, la entrada de la patana de Melones con 45 MW y además la salida por mantenimiento de la unidad de CTE Guiteras en el horario de la mañana por 96 horas.\n\n➡️ Disponibilidad 1385 MW                                                                                                            ➡️ Demanda máxima  3150 MW.                                                                                ➡️ Déficit de 1765 MW.                                                                                                    ➡️ Afectación ⚡1795 MW",
-    "timestamp": 1769693178,
-    "timestamp_local": 1769693178
-  },
-  {
-    "id": 48941,
-    "fecha": "29 de Jan del 2026 a las 07:31 AM",
-    "hora_utc": "2026-01-29 12:31",
-    "mensaje": "🔉Le informamos que se incorporan a la afectación por Déficit los circuitos 12 y 2 de Palma.",
-    "timestamp": 1769689899,
-    "timestamp_local": 1769689899
   }
 ]
