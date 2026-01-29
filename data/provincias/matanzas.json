@@ -1,5 +1,21 @@
 [
   {
+    "id": 31800,
+    "fecha": "29 de Jan del 2026 a las 12:21 AM",
+    "hora_utc": "2026-01-29 05:21",
+    "mensaje": "🚨Se le informa a la población que la provincia presenta una afectación de 25 MW",
+    "timestamp": 1769664115,
+    "timestamp_local": 1769664115
+  },
+  {
+    "id": 31799,
+    "fecha": "28 de Jan del 2026 a las 11:57 PM",
+    "hora_utc": "2026-01-29 04:57",
+    "mensaje": "🔋La afectación de la provincia es de 40 MW por déficit de capacidad de generación .",
+    "timestamp": 1769662653,
+    "timestamp_local": 1769662653
+  },
+  {
     "id": 31798,
     "fecha": "28 de Jan del 2026 a las 10:41 PM",
     "hora_utc": "2026-01-29 03:41",
@@ -142,21 +158,5 @@
     "mensaje": "*⚡Déficit de capacidad de generación en la provincia:  141 MW . ⚡*",
     "timestamp": 1769641339,
     "timestamp_local": 1769641339
-  },
-  {
-    "id": 31776,
-    "fecha": "28 de Jan del 2026 a las 06:01 PM",
-    "hora_utc": "2026-01-28 23:01",
-    "mensaje": "💡Los circuitos próximos a restablecer el servicio: \n🔌 Circuito 1510 Santa Martha desde el policlínico hasta la lavandería.\n🔌 Circuito MK1501 que da servicio a Reparto Camilo Cienfuegos, La Violeta, Escuela del PCC, Almacenes de TRD. (Cocal 110kV).\n🔌 Circuito 1139 que da servicio a Guásimas y oficinas del petróleo.\n🔌Circuito VI2020 que da servicio a Boca de Camarioca.\n🔌 Circuito GI103 que da servicio a Jagüey Ciudad.\n\n🧏 El restablecimiento del servicio eléctrico dependerá del comportamiento de la demanda y la disponibilidad de Sistema.",
-    "timestamp": 1769641277,
-    "timestamp_local": 1769641277
-  },
-  {
-    "id": 31775,
-    "fecha": "28 de Jan del 2026 a las 05:58 PM",
-    "hora_utc": "2026-01-28 22:58",
-    "mensaje": "Con servicio✅\n\n🔌 Circuito MJ143 Rápido de Versalles, panadería, zona baja de Versalles desde Isabel 1era hasta calle 3era y desde Narciso López hasta calle Unión. \n🔌 Circuito MJ 147 Rebombeo de la Cumbre y desde calle Poza hasta Santa Cristina y desde San Isidro hasta Aranguren.",
-    "timestamp": 1769641129,
-    "timestamp_local": 1769641129
   }
 ]
