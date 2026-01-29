@@ -1,5 +1,29 @@
 [
   {
+    "id": 39183,
+    "fecha": "29 de Jan del 2026 a las 02:10 PM",
+    "hora_utc": "2026-01-29 19:10",
+    "mensaje": "💡Restablecido el servicio eléctrico en el circuito 170 José Martí.",
+    "timestamp": 1769713854,
+    "timestamp_local": 1769713854
+  },
+  {
+    "id": 39182,
+    "fecha": "29 de Jan del 2026 a las 02:00 PM",
+    "hora_utc": "2026-01-29 19:00",
+    "mensaje": "🛠️Afectado por manipulación el circuito 170 José Martí.",
+    "timestamp": 1769713241,
+    "timestamp_local": 1769713241
+  },
+  {
+    "id": 39181,
+    "fecha": "29 de Jan del 2026 a las 01:59 PM",
+    "hora_utc": "2026-01-29 18:59",
+    "mensaje": "Actualización del servicio eléctrico en la provincia🔸\n✍️Se mantienen afectados en la provincia 72 circuitos.\n✍️En el momento de hacer esta nota la provincia tiene 58 MW por déficit de capacidad de generación.\n✍️Cuenta con 122 afectaciones por averías secundarias y de servicio.",
+    "timestamp": 1769713181,
+    "timestamp_local": 1769713181
+  },
+  {
     "id": 39180,
     "fecha": "29 de Jan del 2026 a las 12:33 PM",
     "hora_utc": "2026-01-29 17:33",
@@ -134,21 +158,5 @@
     "mensaje": "Afectados 58 MW en la provincia, demanda máxima a apagar en estos momentos.",
     "timestamp": 1769702832,
     "timestamp_local": 1769702832
-  },
-  {
-    "id": 39162,
-    "fecha": "29 de Jan del 2026 a las 10:01 AM",
-    "hora_utc": "2026-01-29 15:01",
-    "mensaje": "Actualización del servicio eléctrico en la provincia🔸\n✍️Se mantienen afectados en la provincia 76 circuitos.\n✍️En el momento de hacer esta nota la provincia tiene 56 MW por déficit de capacidad de generación.\n✍️Cuenta con 120 afectaciones por averías secundarias y de servicio.",
-    "timestamp": 1769698902,
-    "timestamp_local": 1769698902
-  },
-  {
-    "id": 39161,
-    "fecha": "29 de Jan del 2026 a las 09:58 AM",
-    "hora_utc": "2026-01-29 14:58",
-    "mensaje": "La Provincia presenta 2 afectaciones de servicio eléctrico por transformador dañado\n🔹Municipio Placetas: Carretera Central, Crucero Copey después de la tienda.\n🔹Municipio Santa Clara : Callejón del Salado e/ Silverio y Oquendo. Virginia",
-    "timestamp": 1769698730,
-    "timestamp_local": 1769698730
   }
 ]
