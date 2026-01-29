@@ -1,5 +1,37 @@
 [
   {
+    "id": 39197,
+    "fecha": "29 de Jan del 2026 a las 04:53 PM",
+    "hora_utc": "2026-01-29 21:53",
+    "mensaje": "Afectados 100 MW en la provincia, demanda máxima a apagar en estos momentos.",
+    "timestamp": 1769723593,
+    "timestamp_local": 1769723593
+  },
+  {
+    "id": 39196,
+    "fecha": "29 de Jan del 2026 a las 04:50 PM",
+    "hora_utc": "2026-01-29 21:50",
+    "mensaje": "⚠️ En déficit de capacidad de generación los siguientes circuitos:\nMunicipio Santo Domingo:\nCto 195 Batey George Washington\nCtos 83 y 165 Manacas\nCtos 85 y 86 Pajarito\nCtos 160 y 161 Cascajal",
+    "timestamp": 1769723405,
+    "timestamp_local": 1769723405
+  },
+  {
+    "id": 39195,
+    "fecha": "29 de Jan del 2026 a las 04:35 PM",
+    "hora_utc": "2026-01-29 21:35",
+    "mensaje": "🛠️Afectado por manipulación el circuito 2 Zona Centro , para reponer transformador.",
+    "timestamp": 1769722546,
+    "timestamp_local": 1769722546
+  },
+  {
+    "id": 39194,
+    "fecha": "29 de Jan del 2026 a las 04:34 PM",
+    "hora_utc": "2026-01-29 21:34",
+    "mensaje": "💡Restablecido el servicio eléctrico en el circuito 13 Zona Industrial.",
+    "timestamp": 1769722461,
+    "timestamp_local": 1769722461
+  },
+  {
     "id": 39193,
     "fecha": "29 de Jan del 2026 a las 04:16 PM",
     "hora_utc": "2026-01-29 21:16",
@@ -126,37 +158,5 @@
     "mensaje": "⚠️ En déficit de capacidad de generación los siguientes circuitos:\n👉Municipio Remedios:\nCtos 67 y 152, 68 y 118 \nCtos 69 y 70 Zuluetas\nCto 143 Batey Heriberto Duquezne \nCto 71 Buena Vista",
     "timestamp": 1769707579,
     "timestamp_local": 1769707579
-  },
-  {
-    "id": 39177,
-    "fecha": "29 de Jan del 2026 a las 12:19 PM",
-    "hora_utc": "2026-01-29 17:19",
-    "mensaje": "🛠️Afectado por manipulación el circuito 169 Condado.",
-    "timestamp": 1769707175,
-    "timestamp_local": 1769707175
-  },
-  {
-    "id": 39176,
-    "fecha": "29 de Jan del 2026 a las 12:18 PM",
-    "hora_utc": "2026-01-29 17:18",
-    "mensaje": "🤔¿Qué es un disparo de circuito y porque ocurre?\n👉Los disparos de circuito tienen diferentes aristas todas con distintos significados, es decir que ocurren por varias causas. Entre ellas encontramos:\n\n1️⃣-Disparo de Circuito con Recierre: El conocido por los clientes como “quita y pon de corriente” es un tipo de protección utilizada mundialmente a partir del 80% aproximadamente de las interrupciones eléctricas son transitorias. Este fenómeno lo hace una sola vez ante un evento de red y no es dañino para para nuestros equipos electrodomésticos. \n\n2️⃣- Disparo Automático por Frecuencia (DAF):  El disparo por DAF ocurre cuando la frecuencia llega a valores mínimos permisibles que ponen en peligro la estabilidad del mismo y como protección desconecta varios circuitos de la Capital. Los mismo restablecen a medida que se vaya recuperando la frecuencia que tiene un valor de 60hz o ciclos por segundo.\n\n3️⃣-Disparo de Circuito por Sobrecarga: Este ocurre mayormente en los horarios pico y en verano, ya que las altas temperaturas generan elevados consumos en la población y como consecuencia de ello fallas en los circuitos.\n\n4️⃣-Disparo de Circuito por Posible Avería: Este fenómeno ocurre cuando existe una falla en algún circuito, ya sea soterrado, aéreo o en una subestación. Estas, a pesar de que son mucho más frecuentes cuando existe algún evento climatológico, pueden ocurrir en cualquier momento del día o la noche, ya que son situaciones que no cuentan con programación.",
-    "timestamp": 1769707097,
-    "timestamp_local": 1769707097
-  },
-  {
-    "id": 39175,
-    "fecha": "29 de Jan del 2026 a las 12:15 PM",
-    "hora_utc": "2026-01-29 17:15",
-    "mensaje": "⚡Afectado por disparo el circuito 167 Virginia, se estudian las causas.",
-    "timestamp": 1769706928,
-    "timestamp_local": 1769706928
-  },
-  {
-    "id": 39174,
-    "fecha": "29 de Jan del 2026 a las 12:05 PM",
-    "hora_utc": "2026-01-29 17:05",
-    "mensaje": "⚠️ En déficit de capacidad de generación los siguientes circuitos:\n👉Municipio Camajuaní:\nCtos  72, 73, 129 y 156",
-    "timestamp": 1769706341,
-    "timestamp_local": 1769706341
   }
 ]
