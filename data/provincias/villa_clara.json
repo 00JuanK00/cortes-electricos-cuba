@@ -1,9 +1,33 @@
 [
   {
+    "id": 39142,
+    "fecha": "29 de Jan del 2026 a las 02:20 AM",
+    "hora_utc": "2026-01-29 07:20",
+    "mensaje": "💡Con servicio eléctrico en los siguientes circuitos:\n🔹Municipio Manicaragua:\n👉Ctos 109 y 150\n👉Ctos 108 y 110 La Piedra\n👉Cto 111 Mataguá\n🔹Municipio Placetas \n👉Ctos 100 y 151 Placetas\n👉Cto 104 Hermanos Amejeiras\n👉Cto 103 Batey Carbó Servía\n🔹Municipio Camajuaní:\n👉Ctos  72, 73,  y 156 \n👉Cto 74 José María Pérez\n🔹Municipio Manicaragua:\n👉Cto 112 Hoyo Manicaragua",
+    "timestamp": 1769671222,
+    "timestamp_local": 1769671222
+  },
+  {
+    "id": 39141,
+    "fecha": "29 de Jan del 2026 a las 02:11 AM",
+    "hora_utc": "2026-01-29 07:11",
+    "mensaje": "Actualización del servicio eléctrico en la provincia🔸\n✍️Se mantienen afectados en la provincia 31 circuitos.\n✍️En el momento de hacer esta nota la provincia tiene 13 MW por déficit de capacidad de generación.\n✍️Cuenta con 77 afectaciones por averías secundarias y de servicio.",
+    "timestamp": 1769670686,
+    "timestamp_local": 1769670686
+  },
+  {
+    "id": 39140,
+    "fecha": "29 de Jan del 2026 a las 01:27 AM",
+    "hora_utc": "2026-01-29 06:27",
+    "mensaje": "💡Con servicio eléctrico en los siguientes circuitos:\n🔹Municipio Ranchuelo: \n👉Ctos 89, 97, 188 y 189\n👉Ctos 148 y 149 San Juan\n👉Cto 91 Batey Osvaldo Herrera\n👉Cto 181 Batey Ifraín Alfonso",
+    "timestamp": 1769668066,
+    "timestamp_local": 1769668066
+  },
+  {
     "id": 39139,
     "fecha": "29 de Jan del 2026 a las 01:05 AM",
     "hora_utc": "2026-01-29 06:05",
-    "mensaje": "💡Con servicio eléctrico en los siguientes circuitos:\n🔹Municipio Santo Domingo:\n👉Cto 195 Batey George Washington\n👉Ctos 83 y 165 Manacas\n👉Ctos 85 y 86 Pajarito\n👉Ctos 160 y 161 Cascajal",
+    "mensaje": "💡Con servicio eléctrico en los siguientes circuitos:\n🔹Municipio Santo Domingo:\n👉Cto 195 Batey George Washington\n👉Ctos 83 y 165 Manacas\n👉Ctos 85 y 86 Pajarito\n👉Ctos 160 y 161 Cascajal\n🔹Municipio Placetas:\n👉Ctos 101 y 145 Cumbre",
     "timestamp": 1769666753,
     "timestamp_local": 1769666753
   },
@@ -134,29 +158,5 @@
     "mensaje": "⚡Afectado el Cto 7(Universidad) perteneciente al Municipio Santa Clara por disparo después de restablecido el servicio.",
     "timestamp": 1769645632,
     "timestamp_local": 1769645632
-  },
-  {
-    "id": 39122,
-    "fecha": "28 de Jan del 2026 a las 06:20 PM",
-    "hora_utc": "2026-01-28 23:20",
-    "mensaje": "⚠️ En déficit de capacidad de generación el siguiente circuito:\n🔹Municipio Santa Clara\n👉Cto 13 (Zona Industrial)",
-    "timestamp": 1769642447,
-    "timestamp_local": 1769642447
-  },
-  {
-    "id": 39121,
-    "fecha": "28 de Jan del 2026 a las 06:17 PM",
-    "hora_utc": "2026-01-28 23:17",
-    "mensaje": "⚠️ En déficit de capacidad de generación los siguientes circuitos:\n🔹Municipio Santo Domingo:\n👉Cto 195 Batey George Washington\n👉Ctos 83 y 165 Manacas\n👉Ctos 85 y 86 Pajarito\n👉Ctos 160 y 161 Cascajal",
-    "timestamp": 1769642259,
-    "timestamp_local": 1769642259
-  },
-  {
-    "id": 39120,
-    "fecha": "28 de Jan del 2026 a las 06:10 PM",
-    "hora_utc": "2026-01-28 23:10",
-    "mensaje": "🕕Actualización del servicio eléctrico en las últimas 6 horas.\n✍️El déficit de capacidad de generación osciló entre los 65 MW y los 124 MW.\n✍️En el momento de esta nota, se mantienen afectados 113 circuitos.\n✍️Cuenta con 99 afectaciones por averías secundarias y de servicio:\n🔸Cifuentes(2)\n🔸Corralillo (3)\n🔸Manicaragua (3)\n🔸Placetas (4)\n🔸Ranchuelo (4)\n🔸Remedios (7) \n🔸Sagua (11)\n🔸Santa Clara (49)\n🔸Santo Domingo (3)\n🛠️Se encuentra 6 avería en vías de solución. \n🛠️Pendientes a solucionar por el área técnica 8.\n✅La provincia no presenta averías primarias en estos momentos.",
-    "timestamp": 1769641820,
-    "timestamp_local": 1769641820
   }
 ]
