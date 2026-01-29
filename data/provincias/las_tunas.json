@@ -1,5 +1,29 @@
 [
   {
+    "id": 18004,
+    "fecha": "29 de Jan del 2026 a las 09:22 AM",
+    "hora_utc": "2026-01-29 14:22",
+    "mensaje": "La Empresa Eléctrica Las Tunas informa que, según la nota emitida por la Unión Eléctrica para el 29 de enero, en el día de ayer se afectó el servicio durante las 24 horas. En nuestra provincia se afectaron la totalidad de los circuitos apagables, con una máxima afectación de 63.77 MW.\nActualmente están fuera de servicio por avería: \nUnidad 5 de la CTE Mariel, Unidad 1 de la CTE Santa Cruz, Unidad 5 de Nuevitas, Unidad 2 de la CTE Felton y Unidades 3 y 6 de la CTE Antonio Maceo.\nEn mantenimiento se encuentran:  \nUnidades 2 y 3 de la CTE Santa Cruz, Unidad 4 de la CTE Carlos Manuel de Céspedes en Cienfuegos.  \nEn el horario de la media se estima una afectación de 1050 MW, lo cual puede representar el 80% de los circuitos apagables en la provincia.\nEn el horario nocturno se estima una afectación de 1795 MW, lo cual puede representar el 90%. Estos valores pueden variar según la demanda nacional.",
+    "timestamp": 1769696542,
+    "timestamp_local": 1769696542
+  },
+  {
+    "id": 18003,
+    "fecha": "29 de Jan del 2026 a las 09:14 AM",
+    "hora_utc": "2026-01-29 14:14",
+    "mensaje": "Se declaran en avería los siguientes circuitos:\nTK74 La Lomita\nTK59 Vedado 3\nSe trabaja para solucionar lo antes posible.Ofrecemos disculpas por las molestias ocasionadas.",
+    "timestamp": 1769696081,
+    "timestamp_local": 1769696081
+  },
+  {
+    "id": 18002,
+    "fecha": "29 de Jan del 2026 a las 09:05 AM",
+    "hora_utc": "2026-01-29 14:05",
+    "mensaje": "Se restablecen los siguientes circuitos:\nCircuito 33 Kv: 6230\nTK59 Vedado 3\nTK67 Porcino\nTK68 Vedado 6\nTK69 Poblado de Menéndez\nTK70 Transporte\nTK99 Santa Marías\nTK98 San Manuel, La Pedrera\nTK64 Palma Picada\nTK47 La Micro Puerto Padre\nTK41 Calixto\nTK40 Vista Alegre\nTK42 Gastón y Arroyo Muerto\nTK45 La Ceiba\nTK43 Las Parras, Omaja y Cañada Honda\nTK44 Vivienda",
+    "timestamp": 1769695501,
+    "timestamp_local": 1769695501
+  },
+  {
     "id": 18001,
     "fecha": "29 de Jan del 2026 a las 08:05 AM",
     "hora_utc": "2026-01-29 13:05",
@@ -110,29 +134,5 @@
     "mensaje": "QUE SIGNIFICA E IMPLICA LA MÁXIMA CAPACIDAD APAGABLE EN LA PROVINCIA: \nMáxima capacidad apagable se refiere al nivel máximo de demanda eléctrica que puede ser desconectada o suspendida temporalmente en la provincia, explica la complejidad del déficit de generación o contingencias en el sistema eléctrico.\nRepresenta el límite superior de la reducción de carga que la empresa puede lograr mediante cortes de energía (apagones). Cuanto mayor sea la máxima capacidad apagable, mayor será el déficit de energía.\n¿Qué implica esto?\nSe identifica cuántos circuitos pueden ser apagados para equilibrar la carga del sistema, esto imposibilita realizar rotaciones, pues a excepción de los servicios priorizados, se encuentran afectados todos los circuitos apagables del territorio. Podrán presentarse afectaciones en el servicio de electricidad durante varias horas al día y el tiempo con servicio dependerá del comportamiento del SEN. Esta medida es necesaria para evitar fallas mayores y proteger la infraestructura eléctrica.",
     "timestamp": 1769634315,
     "timestamp_local": 1769634315
-  },
-  {
-    "id": 17984,
-    "fecha": "28 de Jan del 2026 a las 01:38 PM",
-    "hora_utc": "2026-01-28 18:38",
-    "mensaje": "Se afecta los siguientes circuitos por vía lobre los siguientes circuitos:\nTK62 Lora\nTK63 Lora",
-    "timestamp": 1769625529,
-    "timestamp_local": 1769625529
-  },
-  {
-    "id": 17983,
-    "fecha": "28 de Jan del 2026 a las 12:05 PM",
-    "hora_utc": "2026-01-28 17:05",
-    "mensaje": "Se restablece la vóa libre del circuito 33 Kv 6305 de Majibacoa",
-    "timestamp": 1769619932,
-    "timestamp_local": 1769619932
-  },
-  {
-    "id": 17982,
-    "fecha": "28 de Jan del 2026 a las 12:04 PM",
-    "hora_utc": "2026-01-28 17:04",
-    "mensaje": "Se encuentran afectados por disparo automático por frecuencia(DAF) los siguientes circuitos:\n\nCircuito 33 Kv: 6230\nTK59 Vedado 3\nTK67 Porcino\nTK68 Vedado 6\nTK69 Poblado de Menéndez\nTK70 Transporte\nTK99 Santa Marías\nTK98 San Manuel, La Pedrera\nTK64 Palma Picada",
-    "timestamp": 1769619864,
-    "timestamp_local": 1769619864
   }
 ]
