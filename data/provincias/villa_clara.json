@@ -1,5 +1,37 @@
 [
   {
+    "id": 39149,
+    "fecha": "29 de Jan del 2026 a las 05:57 AM",
+    "hora_utc": "2026-01-29 10:57",
+    "mensaje": "⚠️ En déficit de capacidad de generación los siguientes circuitos:\n🔹Municipio Santo Domingo:\n👉Cto 195 Batey George Washington\n👉Ctos 83 y 165 Manacas\n👉Ctos 85 y 86 Pajarito\n👉Ctos 160 y 161 Cascajal\n🔹Municipio Sagua\n👉Ctos 43, 51 Sagua\n👉Ctos 50 y 147 Villa Alegre",
+    "timestamp": 1769684277,
+    "timestamp_local": 1769684277
+  },
+  {
+    "id": 39148,
+    "fecha": "29 de Jan del 2026 a las 05:53 AM",
+    "hora_utc": "2026-01-29 10:53",
+    "mensaje": "Afectados 25 MW en la provincia, demanda máxima a apagar en estos momentos.",
+    "timestamp": 1769684022,
+    "timestamp_local": 1769684022
+  },
+  {
+    "id": 39147,
+    "fecha": "29 de Jan del 2026 a las 05:53 AM",
+    "hora_utc": "2026-01-29 10:53",
+    "mensaje": "🕕Actualización del servicio eléctrico en las últimas 6 horas.\n✍️El déficit de capacidad de generación osciló entre los 0 MW y los 25 MW.\n✍️En el momento de esta nota, se mantienen afectados 57 circuitos.\n✍️Cuenta con 90 afectaciones por averías secundarias y de servicio:\n🔸Caibarien(1)\n🔸Corralillo (1)\n🔸Manicaragua (5)\n🔸Ranchuelo (4)\n🔸Remedios (5) \n🔸Sagua (5)\n🔸Santa Clara (54)\n🔸Santo Domingo (4)\n🛠️Se encuentra 1 avería en vías de solución. \n🛠️Pendientes a solucionar por el área técnica 10.\n✅La provincia no presenta averías primarias en estos momentos.",
+    "timestamp": 1769683996,
+    "timestamp_local": 1769683996
+  },
+  {
+    "id": 39146,
+    "fecha": "29 de Jan del 2026 a las 05:45 AM",
+    "hora_utc": "2026-01-29 10:45",
+    "mensaje": "⚠️ En déficit de capacidad de generación los siguientes circuitos:\n🔹Municipio Santa Clara: \n👉Cto 166   (Condado)\n👉Cto 170 (José Martí)\n👉Cto 171 (Los Caneyes)\n🔹Municipio Placetas:\n👉Cto 192 Benito Juárez\n👉Cto 102 Peroti\n🔹Municipio Placetas:\n👉Ctos 101 y 145 Cumbre\n🔹Municipio Santa Clara\n👉Cto 7 (Universidad)  \n👉Cto 146 (Elevado Aeropuerto) \n👉Cto 22 (Construcciones Textil)\n👉Cto 131 (Las Antillas)\n👉Cto 153 (EIDE)\n👉Ctos 14, 15 y 27 (Maleza)\n🔹Municipio Placetas \n👉Ctos 100 y 151 Placetas\n👉Cto 104 Hermanos Amejeiras\n👉Cto 103 Batey Carbó Servía",
+    "timestamp": 1769683525,
+    "timestamp_local": 1769683525
+  },
+  {
     "id": 39145,
     "fecha": "29 de Jan del 2026 a las 04:49 AM",
     "hora_utc": "2026-01-29 09:49",
@@ -118,37 +150,5 @@
     "mensaje": "🛠️Manipulación Cto 170 José Marti para trabajar en una avería.",
     "timestamp": 1769655500,
     "timestamp_local": 1769655500
-  },
-  {
-    "id": 39129,
-    "fecha": "28 de Jan del 2026 a las 09:57 PM",
-    "hora_utc": "2026-01-29 02:57",
-    "mensaje": "💡Con servicio eléctrico en los siguientes circuitos:\n🔹Municipio Ranchuelo:\n👉Cto 92 Esperanza (Pueblo)\n👉Cto 93 Esperanza (Campo)\n👉Ctos 54, 94 y 95 Jicotea\n🔹Municipio Santa Clara\n👉Ctos 26 y 141 (Manuelita)\n👉Cto 191 (Quemado de Hilario) \n🔹Municipio Santo Domingo\n👉Cto 79 (Santo Domingo)\n👉Cto 81 (26 de Julio)\n👉Cto 163 (Batey 26 de Julio\n🔹Municipio Remedios:\n👉Ctos 67 y 152, 68 y 118 \n👉Ctos 69 y 70 Zuluetas\n👉Cto 143 Batey Heriberto Duquezne \n👉Cto 71 Buena Vista",
-    "timestamp": 1769655439,
-    "timestamp_local": 1769655439
-  },
-  {
-    "id": 39128,
-    "fecha": "28 de Jan del 2026 a las 08:41 PM",
-    "hora_utc": "2026-01-29 01:41",
-    "mensaje": "Afectados 100 MW en la provincia, demanda máxima a apagar en estos momentos.",
-    "timestamp": 1769650911,
-    "timestamp_local": 1769650911
-  },
-  {
-    "id": 39127,
-    "fecha": "28 de Jan del 2026 a las 08:40 PM",
-    "hora_utc": "2026-01-29 01:40",
-    "mensaje": "📣 Ante cualquier duda con la terminología eléctrica, les volvemos explicar: \n     \n1️⃣Las averías pueden ser primarias (afecta un volumen grande de población pues son las líneas de distribución a 13.8kV y puede afectar varias manzanas, incluso repartos completos).\n\n2️⃣Secundarias (afecta a todos los clientes que se alimenten del mismo transformador, puede afectar una o varias cuadras). \n\n3️⃣De servicio (afectan 1 solo cliente o instalación generalmente producto a daños en la acometida, metro contador, etc.).",
-    "timestamp": 1769650853,
-    "timestamp_local": 1769650853
-  },
-  {
-    "id": 39126,
-    "fecha": "28 de Jan del 2026 a las 07:59 PM",
-    "hora_utc": "2026-01-29 00:59",
-    "mensaje": "Actualización del servicio eléctrico en la provincia🔸\n✍️Se mantienen afectados en la provincia 120 circuitos.\n✍️En el momento de hacer esta nota la provincia tiene 132 MW por déficit de capacidad de generación.\n✍️Cuenta con 92 afectaciones por averías secundarias y de servicio.",
-    "timestamp": 1769648359,
-    "timestamp_local": 1769648359
   }
 ]
