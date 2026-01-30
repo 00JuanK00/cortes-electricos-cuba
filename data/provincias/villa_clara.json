@@ -1,5 +1,21 @@
 [
   {
+    "id": 39211,
+    "fecha": "30 de Jan del 2026 a las 12:01 AM",
+    "hora_utc": "2026-01-30 05:01",
+    "mensaje": "💡Restablecido el servicio eléctrico en los siguientes circuitos:\n👉Municipio Cifuentes:\nCtos 114 y 117\nCtos 116 y 155 Mata\nCto 186 Batey Unidad Proletaria\nCto 184 Sitio Grande",
+    "timestamp": 1769749278,
+    "timestamp_local": 1769749278
+  },
+  {
+    "id": 39210,
+    "fecha": "30 de Jan del 2026 a las 12:00 AM",
+    "hora_utc": "2026-01-30 05:00",
+    "mensaje": "🕛Actualización del servicio eléctrico en las últimas 6 horas.\n\n👉El déficit de capacidad de generación osciló entre los 113 MW y los 73 MW.\n👉En el momento de esta nota, se mantienen afectados 124 circuitos.\n👉Cuenta con 84 afectaciones por averías secundarias y de servicio:\n Caibarién (1)\n Cifuentes (1)\n Corralillo (1)\n Remedios (15) \n Santa Clara (48)\n Santo Domingo (3)\n🛠️Se encuentran 3 averías en vías de solución.\n🛠️Pendientes a solucionar por el área técnica 12.\n⚡La provincia no presenta averías primarias.",
+    "timestamp": 1769749200,
+    "timestamp_local": 1769749200
+  },
+  {
     "id": 39209,
     "fecha": "29 de Jan del 2026 a las 10:56 PM",
     "hora_utc": "2026-01-30 03:56",
@@ -118,21 +134,5 @@
     "mensaje": "⚠️ En déficit de capacidad de generación los siguientes circuitos:\n👉Municipio Camajuaní:\nCto 75 La Quinta\nCto 157 Luis Arcos Bergnes\nCtos 76 y 90 Vega Alta\nCtos 77 y 185 Vueltas",
     "timestamp": 1769720831,
     "timestamp_local": 1769720831
-  },
-  {
-    "id": 39191,
-    "fecha": "29 de Jan del 2026 a las 04:05 PM",
-    "hora_utc": "2026-01-29 21:05",
-    "mensaje": "Actualización del servicio eléctrico en la provincia🔸\n✍️Se mantienen afectados en la provincia 101 circuitos.\n✍️En el momento de hacer esta nota la provincia tiene 83 MW por déficit de capacidad de generación.\n✍️Cuenta con 125 afectaciones por averías secundarias y de servicio.",
-    "timestamp": 1769720700,
-    "timestamp_local": 1769720700
-  },
-  {
-    "id": 39190,
-    "fecha": "29 de Jan del 2026 a las 04:02 PM",
-    "hora_utc": "2026-01-29 21:02",
-    "mensaje": "⚠️Afectado por déficit de generación el circuito 6 Vigía.",
-    "timestamp": 1769720543,
-    "timestamp_local": 1769720543
   }
 ]
