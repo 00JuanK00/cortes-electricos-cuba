@@ -1,5 +1,21 @@
 [
   {
+    "id": 39214,
+    "fecha": "30 de Jan del 2026 a las 02:07 AM",
+    "hora_utc": "2026-01-30 07:07",
+    "mensaje": "💡Restablecido el servicio eléctrico en los siguientes circuitos:\n👉Municipio Encrucijada:\nCto 122 Encrucijada  \nCto 123 Vizcaya \nCto 142 Comunidad La Sierra \nCto 126 Batey Emilio Córdova\nCto 125 Cavarrocas\nCto 124 El Santo\n👉Municipio Camajuaní:                                                              \nCto 78 Jutiero",
+    "timestamp": 1769756875,
+    "timestamp_local": 1769756875
+  },
+  {
+    "id": 39212,
+    "fecha": "30 de Jan del 2026 a las 02:01 AM",
+    "hora_utc": "2026-01-30 07:01",
+    "mensaje": "Actualización del servicio eléctrico en la provincia🔸\n✍️Se mantienen afectados en la provincia 124 circuitos.\n✍️En el momento de hacer esta nota la provincia tiene 57 MW por déficit de capacidad de generación.\n✍️Cuenta con 64 afectaciones por averías secundarias y de servicio.",
+    "timestamp": 1769756513,
+    "timestamp_local": 1769756513
+  },
+  {
     "id": 39211,
     "fecha": "30 de Jan del 2026 a las 12:01 AM",
     "hora_utc": "2026-01-30 05:01",
@@ -110,29 +126,5 @@
     "mensaje": "🛠️Afectado por manipulación el circuito 2 Zona Centro , para reponer transformador.",
     "timestamp": 1769722546,
     "timestamp_local": 1769722546
-  },
-  {
-    "id": 39194,
-    "fecha": "29 de Jan del 2026 a las 04:34 PM",
-    "hora_utc": "2026-01-29 21:34",
-    "mensaje": "💡Restablecido el servicio eléctrico en el circuito 13 Zona Industrial.",
-    "timestamp": 1769722461,
-    "timestamp_local": 1769722461
-  },
-  {
-    "id": 39193,
-    "fecha": "29 de Jan del 2026 a las 04:16 PM",
-    "hora_utc": "2026-01-29 21:16",
-    "mensaje": "🛠️Afectado por manipulación el circuito 13 Zona Industrial , para reponer transformador.",
-    "timestamp": 1769721364,
-    "timestamp_local": 1769721364
-  },
-  {
-    "id": 39192,
-    "fecha": "29 de Jan del 2026 a las 04:07 PM",
-    "hora_utc": "2026-01-29 21:07",
-    "mensaje": "⚠️ En déficit de capacidad de generación los siguientes circuitos:\n👉Municipio Camajuaní:\nCto 75 La Quinta\nCto 157 Luis Arcos Bergnes\nCtos 76 y 90 Vega Alta\nCtos 77 y 185 Vueltas",
-    "timestamp": 1769720831,
-    "timestamp_local": 1769720831
   }
 ]
