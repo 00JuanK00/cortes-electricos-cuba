@@ -1,5 +1,21 @@
 [
   {
+    "id": 39204,
+    "fecha": "29 de Jan del 2026 a las 07:19 PM",
+    "hora_utc": "2026-01-30 00:19",
+    "mensaje": "💡Restablecido el servicio eléctrico en el circuito 2 Zona Centro.",
+    "timestamp": 1769732373,
+    "timestamp_local": 1769732373
+  },
+  {
+    "id": 39203,
+    "fecha": "29 de Jan del 2026 a las 07:14 PM",
+    "hora_utc": "2026-01-30 00:14",
+    "mensaje": "🟢 18:52 || En línea la Unidad 6 de la CTE Antonio Maceo \"Renté\".",
+    "timestamp": 1769732067,
+    "timestamp_local": 1769732067
+  },
+  {
     "id": 39201,
     "fecha": "29 de Jan del 2026 a las 05:56 PM",
     "hora_utc": "2026-01-29 22:56",
@@ -126,29 +142,5 @@
     "mensaje": "⚠️ En déficit de capacidad de generación los siguientes circuitos:\n👉Municipio Encrucijada:\nCto 122 Encrucijada  \nCto 123 Vizcaya \nCto 142 Comunidad La Sierra \nCto 126 Batey Emilio Córdova\nCto 125 Cavarrocas\nCto 124 El Santo\n👉Municipio Camajuaní:                                                              \nCto 78 Jutiero",
     "timestamp": 1769716937,
     "timestamp_local": 1769716937
-  },
-  {
-    "id": 39184,
-    "fecha": "29 de Jan del 2026 a las 02:33 PM",
-    "hora_utc": "2026-01-29 19:33",
-    "mensaje": "🛠️Afectado por vía libre el circuito 37 Yabú, del municipio Santa Clara, para reparar primario partido.",
-    "timestamp": 1769715203,
-    "timestamp_local": 1769715203
-  },
-  {
-    "id": 39183,
-    "fecha": "29 de Jan del 2026 a las 02:10 PM",
-    "hora_utc": "2026-01-29 19:10",
-    "mensaje": "💡Restablecido el servicio eléctrico en el circuito 170 José Martí.",
-    "timestamp": 1769713854,
-    "timestamp_local": 1769713854
-  },
-  {
-    "id": 39182,
-    "fecha": "29 de Jan del 2026 a las 02:00 PM",
-    "hora_utc": "2026-01-29 19:00",
-    "mensaje": "🛠️Afectado por manipulación el circuito 170 José Martí.",
-    "timestamp": 1769713241,
-    "timestamp_local": 1769713241
   }
 ]
