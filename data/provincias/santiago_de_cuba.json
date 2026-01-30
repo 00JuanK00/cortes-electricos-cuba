@@ -1,5 +1,13 @@
 [
   {
+    "id": 49005,
+    "fecha": "30 de Jan del 2026 a las 04:41 PM",
+    "hora_utc": "2026-01-30 21:41",
+    "mensaje": "Déficit de Capacidad de Generación:\nEs cuando la demanda o consumo de energía es mayor que la disponibilidad del sistema electro energético.",
+    "timestamp": 1769809281,
+    "timestamp_local": 1769809281
+  },
+  {
     "id": 49004,
     "fecha": "30 de Jan del 2026 a las 04:16 PM",
     "hora_utc": "2026-01-30 21:16",
@@ -134,29 +142,5 @@
     "mensaje": "🔴Disparo Automático de Frecuencia (DAF):\nDisparo automático de frecuencia (DAF).  Es una protección que posee el sistema eléctrico, para cuando la frecuencia llega a valores mínimos permisibles que ponen en peligro la estabilidad de todo el sistema en su conjunto, provoca una desconexión automática de algunos circuitos hasta que ésta vuelva a recuperar su valor nominal a 60 Hz o ciclos por segundo..",
     "timestamp": 1769779229,
     "timestamp_local": 1769779229
-  },
-  {
-    "id": 48987,
-    "fecha": "30 de Jan del 2026 a las 08:20 AM",
-    "hora_utc": "2026-01-30 13:20",
-    "mensaje": "🔴Se les informa a nuestros clientes que se encuentra disparado  por DAF el circuito 14 de Santiago.",
-    "timestamp": 1769779209,
-    "timestamp_local": 1769779209
-  },
-  {
-    "id": 48986,
-    "fecha": "30 de Jan del 2026 a las 07:20 AM",
-    "hora_utc": "2026-01-30 12:20",
-    "mensaje": "🚨Disparo Automático de Frecuencia (DAF):\nOcurre cuando la frecuencia está por debajo de los 60Hz y determinada carga o circuito se desconecta del sistema automáticamente hasta que se estabilice",
-    "timestamp": 1769775603,
-    "timestamp_local": 1769775603
-  },
-  {
-    "id": 48985,
-    "fecha": "30 de Jan del 2026 a las 07:19 AM",
-    "hora_utc": "2026-01-30 12:19",
-    "mensaje": "🔊Estimados clientes en estos momentos se encuentra Disparado por DAF el circuito 14 , 17 y el 4 de Palma",
-    "timestamp": 1769775552,
-    "timestamp_local": 1769775552
   }
 ]
