@@ -1,5 +1,21 @@
 [
   {
+    "id": 39301,
+    "fecha": "31 de Jan del 2026 a las 09:21 AM",
+    "hora_utc": "2026-01-31 14:21",
+    "mensaje": "⚡En avería el Cto 30 (Capiro-Santa Catalina), perteneciente al municipio Santa Clara, el cual se encuentra actualmente afectado por déficit de capacidad de generación.",
+    "timestamp": 1769869308,
+    "timestamp_local": 1769869308
+  },
+  {
+    "id": 39300,
+    "fecha": "31 de Jan del 2026 a las 09:18 AM",
+    "hora_utc": "2026-01-31 14:18",
+    "mensaje": "Afectados 87 MW en la provincia, demanda máxima a apagar en estos momentos.",
+    "timestamp": 1769869107,
+    "timestamp_local": 1769869107
+  },
+  {
     "id": 39299,
     "fecha": "31 de Jan del 2026 a las 08:59 AM",
     "hora_utc": "2026-01-31 13:59",
@@ -134,13 +150,5 @@
     "mensaje": "⚠️ En déficit de capacidad de generación los siguientes circuitos:\n🔹Municipio Sagua\nCtos 43, 51 Sagua\nCto 44 Isabela\nCtos 50 y 147 Villa Alegre",
     "timestamp": 1769844079,
     "timestamp_local": 1769844079
-  },
-  {
-    "id": 39281,
-    "fecha": "31 de Jan del 2026 a las 02:18 AM",
-    "hora_utc": "2026-01-31 07:18",
-    "mensaje": "Actualización del servicio eléctrico en la provincia🔸\n✍️Se mantienen afectados en la provincia 92 circuitos.\n✍️En el momento de hacer esta nota la provincia tiene 42 MW por déficit de capacidad de generación.\n✍️Cuenta con 58 afectaciones por averías secundarias y de servicio.",
-    "timestamp": 1769843883,
-    "timestamp_local": 1769843883
   }
 ]
