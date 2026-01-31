@@ -1,5 +1,29 @@
 [
   {
+    "id": 39314,
+    "fecha": "31 de Jan del 2026 a las 02:15 PM",
+    "hora_utc": "2026-01-31 19:15",
+    "mensaje": "🔴 En la mañana de hoy, Fuera de línea la Unidad 2 de la CTE Ernesto Guevara De La Serna, por falla en el sistema de regulación de turbina.",
+    "timestamp": 1769886910,
+    "timestamp_local": 1769886910
+  },
+  {
+    "id": 39313,
+    "fecha": "31 de Jan del 2026 a las 02:14 PM",
+    "hora_utc": "2026-01-31 19:14",
+    "mensaje": "⚠️ En déficit de capacidad de generación los siguientes circuitos:\n🔹Municipio Santo Domingo:\n👉Cto 134\n👉Ctos 87 y 96 Bermejal\n👉Cto 187 Batey Carlos Baliño\n👉Cto 82 Ulacia\n👉Cto 84 Rodrigo\n🔹Municipio Santa Clara:\n**👉Cto 31 SC. Industrial**",
+    "timestamp": 1769886868,
+    "timestamp_local": 1769886868
+  },
+  {
+    "id": 39312,
+    "fecha": "31 de Jan del 2026 a las 02:00 PM",
+    "hora_utc": "2026-01-31 19:00",
+    "mensaje": "Actualización del servicio eléctrico en la provincia🔸\n✍️Se mantienen afectados en la provincia 127 circuitos.\n✍️En el momento de hacer esta nota la provincia tiene 91 MW por déficit de capacidad de generación.\n✍️Cuenta con 93 afectaciones por averías secundarias y de servicio.",
+    "timestamp": 1769886046,
+    "timestamp_local": 1769886046
+  },
+  {
     "id": 39311,
     "fecha": "31 de Jan del 2026 a las 01:28 PM",
     "hora_utc": "2026-01-31 18:28",
@@ -126,29 +150,5 @@
     "mensaje": "⚠️ En déficit de capacidad de generación los siguientes circuitos:\n🔹Municipio Placetas \nCtos 100 y 151 Placetas\nCto 104 Hermanos Amejeiras\nCto 103 Batey Carbó Servía",
     "timestamp": 1769861941,
     "timestamp_local": 1769861941
-  },
-  {
-    "id": 39294,
-    "fecha": "31 de Jan del 2026 a las 07:08 AM",
-    "hora_utc": "2026-01-31 12:08",
-    "mensaje": "⚠️ En déficit de capacidad de generación los siguientes circuitos:\n🔹Municipio Camajuaní:\nCto 75 La Quinta\nCto 157 Luis Arcos Bergnes\nCtos 76 y 90 Vega Alta\nCtos 77 y 185 Vueltas\n🔹Municipio Cifuentes:\nCtos 114 y 117\nCtos 116 y 155 Mata\nCto 186 Batey Unidad Proletaria\nCto 184 Sitio Grande\n🔹Municipio Santa Clara:\nCto 30 (Capiro-Santa Catalina)",
-    "timestamp": 1769861321,
-    "timestamp_local": 1769861321
-  },
-  {
-    "id": 39293,
-    "fecha": "31 de Jan del 2026 a las 06:47 AM",
-    "hora_utc": "2026-01-31 11:47",
-    "mensaje": "⚠️ En déficit de capacidad de generación los siguientes circuitos:\n🔹Municipio Encrucijada\nCto 120 Calabazar\nCtos 121 y 127 Perucho",
-    "timestamp": 1769860073,
-    "timestamp_local": 1769860073
-  },
-  {
-    "id": 39292,
-    "fecha": "31 de Jan del 2026 a las 06:42 AM",
-    "hora_utc": "2026-01-31 11:42",
-    "mensaje": "⚠️ En déficit de capacidad de generación los siguientes circuitos:\n🔹Municipio Santo Domingo:\nCto 134\nCtos 87 y 96 Bermejal\nCto 187 Batey Carlos Baliño\nCto 82 Ulacia\nCto 84 Rodrigo\n🔹Municipio Sagua\nCtos 43, 51 Sagua\nCto 44 Isabela\nCtos 50 y 147 Villa Alegre",
-    "timestamp": 1769859746,
-    "timestamp_local": 1769859746
   }
 ]
