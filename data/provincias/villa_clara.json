@@ -1,5 +1,21 @@
 [
   {
+    "id": 39266,
+    "fecha": "30 de Jan del 2026 a las 07:47 PM",
+    "hora_utc": "2026-01-31 00:47",
+    "mensaje": "⚡Afectado en su totalidad el circuito 144 (Camacho), del municipio Santa Clara, por trabajo de vía libre para reparar puentes abiertos. Brigada eléctrica de nuestra empresa se encuentra en el lugar para reparar la avería y restablecer el servicio en el menor tiempo posible.",
+    "timestamp": 1769820434,
+    "timestamp_local": 1769820434
+  },
+  {
+    "id": 39265,
+    "fecha": "30 de Jan del 2026 a las 07:40 PM",
+    "hora_utc": "2026-01-31 00:40",
+    "mensaje": "⚡Afectado parcialmente por faltar una fase el circuito 144 (Camacho), del municipio Santa Clara.",
+    "timestamp": 1769820059,
+    "timestamp_local": 1769820059
+  },
+  {
     "id": 39264,
     "fecha": "30 de Jan del 2026 a las 06:17 PM",
     "hora_utc": "2026-01-30 23:17",
@@ -142,21 +158,5 @@
     "mensaje": "🕛Actualización del servicio eléctrico en las últimas 6 horas.\n👉El déficit de capacidad de generación osciló entre los 48 MW y los 63 MW.\n👉En el momento de esta nota, se mantienen afectados 77 circuitos.\n👉Cuenta con 102 afectaciones por averías secundarias y de servicio:\nCaibarién (6)\nCamajuaní (3)\nCorralillo (4)\nEncrucijada (1)\nManicaragua (6)\nRanchuelo (1)\nRemedios (9) \n Santa Clara (50)\n Santo Domingo (3)\n🛠️Se encuentran 11 averías en vías de solución.\n🛠️Pendientes a solucionar por el área técnica 10.\n⚡La provincia no presenta averías primarias.",
     "timestamp": 1769792632,
     "timestamp_local": 1769792632
-  },
-  {
-    "id": 39246,
-    "fecha": "30 de Jan del 2026 a las 11:19 AM",
-    "hora_utc": "2026-01-30 16:19",
-    "mensaje": "⚠️ En déficit de capacidad de generación el circuito 169 (Condado) del municipio Santa Clara.",
-    "timestamp": 1769789983,
-    "timestamp_local": 1769789983
-  },
-  {
-    "id": 39245,
-    "fecha": "30 de Jan del 2026 a las 10:46 AM",
-    "hora_utc": "2026-01-30 15:46",
-    "mensaje": "⚠️ En déficit de capacidad de generación los siguientes circuitos:\n🔹Municipio Ranchuelo: \nCtos 89, 97, 188 y 189\nCtos 148 y 149 San Juan\nCto 91 Batey Osvaldo Herrera\nCto 181 Batey Ifraín Alfonso",
-    "timestamp": 1769787970,
-    "timestamp_local": 1769787970
   }
 ]
