@@ -1,5 +1,21 @@
 [
   {
+    "id": 39321,
+    "fecha": "31 de Jan del 2026 a las 02:58 PM",
+    "hora_utc": "2026-01-31 19:58",
+    "mensaje": "⚠️ En déficit de capacidad de generación el siguiente circuito:\n🔹Municipio Santa Clara: \n👉Cto 162 SC. Industrial",
+    "timestamp": 1769889496,
+    "timestamp_local": 1769889496
+  },
+  {
+    "id": 39320,
+    "fecha": "31 de Jan del 2026 a las 02:49 PM",
+    "hora_utc": "2026-01-31 19:49",
+    "mensaje": "⚠️ En déficit de capacidad de generación los siguientes circuitos:\n🔹Municipio Santa Clara: \n👉Cto 170 (José Martí)\n👉Cto 171 (Los Caneyes)\n👉Ctos 2 y 4 (Consejo- Centro)",
+    "timestamp": 1769888955,
+    "timestamp_local": 1769888955
+  },
+  {
     "id": 39319,
     "fecha": "31 de Jan del 2026 a las 02:42 PM",
     "hora_utc": "2026-01-31 19:42",
@@ -142,21 +158,5 @@
     "mensaje": "Actualización del servicio eléctrico en la provincia🔸\n✍️Se mantienen afectados en la provincia 127 circuitos.\n✍️En el momento de hacer esta nota la provincia tiene 92 MW por déficit de capacidad de generación.\n✍️Cuenta con 82 afectaciones por averías secundarias y de servicio.",
     "timestamp": 1769872368,
     "timestamp_local": 1769872368
-  },
-  {
-    "id": 39301,
-    "fecha": "31 de Jan del 2026 a las 09:21 AM",
-    "hora_utc": "2026-01-31 14:21",
-    "mensaje": "⚡En avería el Cto 30 (Capiro-Santa Catalina), perteneciente al municipio Santa Clara, el cual se encuentra actualmente afectado por déficit de capacidad de generación.",
-    "timestamp": 1769869308,
-    "timestamp_local": 1769869308
-  },
-  {
-    "id": 39300,
-    "fecha": "31 de Jan del 2026 a las 09:18 AM",
-    "hora_utc": "2026-01-31 14:18",
-    "mensaje": "Afectados 87 MW en la provincia, demanda máxima a apagar en estos momentos.",
-    "timestamp": 1769869107,
-    "timestamp_local": 1769869107
   }
 ]
