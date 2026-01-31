@@ -1,5 +1,37 @@
 [
   {
+    "id": 39293,
+    "fecha": "31 de Jan del 2026 a las 06:47 AM",
+    "hora_utc": "2026-01-31 11:47",
+    "mensaje": "⚠️ En déficit de capacidad de generación los siguientes circuitos:\n🔹Municipio Encrucijada\nCto 120 Calabazar\nCtos 121 y 127 Perucho",
+    "timestamp": 1769860073,
+    "timestamp_local": 1769860073
+  },
+  {
+    "id": 39292,
+    "fecha": "31 de Jan del 2026 a las 06:42 AM",
+    "hora_utc": "2026-01-31 11:42",
+    "mensaje": "⚠️ En déficit de capacidad de generación los siguientes circuitos:\n🔹Municipio Santo Domingo:\nCto 134\nCtos 87 y 96 Bermejal\nCto 187 Batey Carlos Baliño\nCto 82 Ulacia\nCto 84 Rodrigo\n🔹Municipio Sagua\nCtos 43, 51 Sagua\nCto 44 Isabela\nCtos 50 y 147 Villa Alegre",
+    "timestamp": 1769859746,
+    "timestamp_local": 1769859746
+  },
+  {
+    "id": 39291,
+    "fecha": "31 de Jan del 2026 a las 06:21 AM",
+    "hora_utc": "2026-01-31 11:21",
+    "mensaje": "⚠️ En déficit de capacidad de generación los siguientes circuitos:\n🔹Municipio Encrucijada:\nCto 122 Encrucijada  \nCto 123 Vizcaya \nCto 142 Comunidad La Sierra \nCto 126 Batey Emilio Córdova\nCto 125 Cavarrocas\nCto 124 El Santo\n🔹Municipio Camajuaní:                                                              \nCto 78 Jutiero",
+    "timestamp": 1769858512,
+    "timestamp_local": 1769858512
+  },
+  {
+    "id": 39290,
+    "fecha": "31 de Jan del 2026 a las 06:21 AM",
+    "hora_utc": "2026-01-31 11:21",
+    "mensaje": "🕕Actualización del servicio eléctrico en las últimas 6 horas.\n👉El déficit de capacidad de generación osciló entre los 92 MW y los 59 MW.\n👉En el momento de esta nota, se mantienen afectados 107 circuitos.\n👉Cuenta con 73 afectaciones por averías secundarias y de servicio:\nCaibarién (2)\nCamajuaní (1)\nCorralillo (1)\nEncrucijada (3)\nManicaragua (4)\nPlacetas (4)\nRemedios (3) \nSagua (2)\nSanta Clara (35)\nSanto Domingo (4)\n🛠️Se encuentra 1 avería en vías de solución.\n🛠️Pendientes a solucionar por el área técnica 11.\n⚡La provincia presenta 1 avería primaria en el circuito 14 (Quedando afectado Manga Larga y Acueducto) del municipio Cifuentes.",
+    "timestamp": 1769858465,
+    "timestamp_local": 1769858465
+  },
+  {
     "id": 39289,
     "fecha": "31 de Jan del 2026 a las 06:08 AM",
     "hora_utc": "2026-01-31 11:08",
@@ -118,37 +150,5 @@
     "mensaje": "⚠️ En déficit de capacidad de generación los siguientes circuitos:\n🔹Municipio Cifuentes:\nCtos 114 y 117\nCtos 116 y 155 Mata\nCto 186 Batey Unidad Proletaria\nCto 184 Sitio Grande",
     "timestamp": 1769826517,
     "timestamp_local": 1769826517
-  },
-  {
-    "id": 39273,
-    "fecha": "30 de Jan del 2026 a las 09:27 PM",
-    "hora_utc": "2026-01-31 02:27",
-    "mensaje": "🛠️ Queda afectado de forma parcial el circuito 14 (Wilfredo Page) del municipio Cifuentes, por trabajo de vía libre para reparar primario partido.",
-    "timestamp": 1769826440,
-    "timestamp_local": 1769826440
-  },
-  {
-    "id": 39272,
-    "fecha": "30 de Jan del 2026 a las 09:24 PM",
-    "hora_utc": "2026-01-31 02:24",
-    "mensaje": "Con servicio parcial la línea 6375:\n🔹Municipio Santa Clara\nCto 7 (Universidad)  \nCto 146 (Elevado Aeropuerto) \nCto 22 (Construcciones Textil)\nCto 131 (Las Antillas)\nCto 153 (EIDE) \nCtos 15 y 27 (Maleza)\nCto 24 Planta Asfalto\nCto 25 Los Güiros\nCto 35 Biotecnología",
-    "timestamp": 1769826244,
-    "timestamp_local": 1769826244
-  },
-  {
-    "id": 39271,
-    "fecha": "30 de Jan del 2026 a las 09:23 PM",
-    "hora_utc": "2026-01-31 02:23",
-    "mensaje": "🇨🇺 Actualización del Sistema Electroenergético Nacional a las 19:00 del 30 de enero de 2026.\n\nIncidencias:\n10:20 En linea la unidad 8 de la CTE Mariel\n\n#UnidosXCuba #NotaInformativa #UniónEléctrica #SEN",
-    "timestamp": 1769826196,
-    "timestamp_local": 1769826196
-  },
-  {
-    "id": 39270,
-    "fecha": "30 de Jan del 2026 a las 09:23 PM",
-    "hora_utc": "2026-01-31 02:23",
-    "mensaje": "💡Restablecido en su totalidad el circuito 144 (Camacho), del municipio Santa Clara.",
-    "timestamp": 1769826185,
-    "timestamp_local": 1769826185
   }
 ]
