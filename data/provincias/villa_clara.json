@@ -1,5 +1,21 @@
 [
   {
+    "id": 39305,
+    "fecha": "31 de Jan del 2026 a las 11:07 AM",
+    "hora_utc": "2026-01-31 16:07",
+    "mensaje": "⚠️ En déficit de capacidad de generación los siguientes circuitos:\n🔹Municipio Santa Clara\n👉Cto 153 (EIDE)\n👉Cto 6 (Vigía)",
+    "timestamp": 1769875625,
+    "timestamp_local": 1769875625
+  },
+  {
+    "id": 39304,
+    "fecha": "31 de Jan del 2026 a las 11:03 AM",
+    "hora_utc": "2026-01-31 16:03",
+    "mensaje": "Afectados 102 MW en la provincia, demanda máxima a apagar en estos momentos.",
+    "timestamp": 1769875412,
+    "timestamp_local": 1769875412
+  },
+  {
     "id": 39303,
     "fecha": "31 de Jan del 2026 a las 10:35 AM",
     "hora_utc": "2026-01-31 15:35",
@@ -134,21 +150,5 @@
     "mensaje": "💡Con servicio los siguientes circuitos:\n🔹Municipio Santa Clara:\nCto 5 (Dobarganes)\nCto 17 (Subplanta) \nCtos 37 y 38 (Yabú)   \nCto 9 (Moldes y Troqueles)\nCto 13 (Zona Industrial)\nCto 133 (Taller Cafetera)",
     "timestamp": 1769846782,
     "timestamp_local": 1769846782
-  },
-  {
-    "id": 39285,
-    "fecha": "31 de Jan del 2026 a las 02:59 AM",
-    "hora_utc": "2026-01-31 07:59",
-    "mensaje": "💡Con servicio los siguientes circuitos:\n🔹Municipio Sagua\nCtos 43, 51 Sagua\nCto 44 Isabela\nCtos 50 y 147 Villa Alegre",
-    "timestamp": 1769846376,
-    "timestamp_local": 1769846376
-  },
-  {
-    "id": 39284,
-    "fecha": "31 de Jan del 2026 a las 02:56 AM",
-    "hora_utc": "2026-01-31 07:56",
-    "mensaje": "💡Con servicio los siguientes circuitos:\n🔹Municipio Camajuaní:\nCto 75 La Quinta\nCto 157 Luis Arcos Bergnes\nCtos 76 y 90 Vega Alta\nCtos 77 y 185 Vueltas\n🔹Municipio Cifuentes:\nCtos 114 y 117\nCtos 116 y 155 Mata\nCto 186 Batey Unidad Proletaria\nCto 184 Sitio Grande",
-    "timestamp": 1769846184,
-    "timestamp_local": 1769846184
   }
 ]
