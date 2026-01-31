@@ -1,5 +1,29 @@
 [
   {
+    "id": 105154,
+    "fecha": "31 de Jan del 2026 a las 10:28 AM",
+    "hora_utc": "2026-01-31 15:28",
+    "mensaje": "♦️ Afectado el servicio en el circuito 3140 por disparo en las líneas ♦️",
+    "timestamp": 1769873339,
+    "timestamp_local": 1769873339
+  },
+  {
+    "id": 105153,
+    "fecha": "31 de Jan del 2026 a las 10:27 AM",
+    "hora_utc": "2026-01-31 15:27",
+    "mensaje": "🚨Por déficit de capacidad de generación se afecta el servicio en el siguiente circuito:\n*Jamaica 🚨",
+    "timestamp": 1769873261,
+    "timestamp_local": 1769873261
+  },
+  {
+    "id": 105152,
+    "fecha": "31 de Jan del 2026 a las 10:27 AM",
+    "hora_utc": "2026-01-31 15:27",
+    "mensaje": "🚨Por déficit de capacidad de generación se afecta el servicio en el siguiente circuito:\n*Nazareno\n*Menocal\n*Babiney 🚨",
+    "timestamp": 1769873247,
+    "timestamp_local": 1769873247
+  },
+  {
     "id": 105151,
     "fecha": "31 de Jan del 2026 a las 10:03 AM",
     "hora_utc": "2026-01-31 15:03",
@@ -35,7 +59,7 @@
     "id": 105143,
     "fecha": "31 de Jan del 2026 a las 08:19 AM",
     "hora_utc": "2026-01-31 13:19",
-    "mensaje": "🚨Por déficit de capacidad de generación se afecta el servicio en el siguiente circuito:\n*Bío 2 🚨",
+    "mensaje": "🚨Por déficit de capacidad de generación se afecta el servicio en los siguientes circuitos:\n*Bío 2 \n*San Nicolás 1 🚨",
     "timestamp": 1769865577,
     "timestamp_local": 1769865577
   },
@@ -118,21 +142,5 @@
     "mensaje": "♦️ Afectado el servicio en el circuito 3140 por disparo por DAF♦️",
     "timestamp": 1769862402,
     "timestamp_local": 1769862402
-  },
-  {
-    "id": 105132,
-    "fecha": "31 de Jan del 2026 a las 07:12 AM",
-    "hora_utc": "2026-01-31 12:12",
-    "mensaje": "🚨Por déficit de capacidad de generación se afecta el servicio en el siguiente circuito:\n*Güines 1🚨",
-    "timestamp": 1769861540,
-    "timestamp_local": 1769861540
-  },
-  {
-    "id": 105131,
-    "fecha": "31 de Jan del 2026 a las 07:11 AM",
-    "hora_utc": "2026-01-31 12:11",
-    "mensaje": "🚨Por déficit de capacidad de generación se afecta el servicio en los siguientes circuitos:\n*3655\n*3660🚨",
-    "timestamp": 1769861513,
-    "timestamp_local": 1769861513
   }
 ]
