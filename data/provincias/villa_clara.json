@@ -1,5 +1,37 @@
 [
   {
+    "id": 39353,
+    "fecha": "01 de Feb del 2026 a las 08:25 AM",
+    "hora_utc": "2026-02-01 13:25",
+    "mensaje": "⚠️ En déficit de capacidad de generación los siguientes circuitos:\n🔹Municipio Santa Clara:\n👉Cto 5 (Dobarganes)\n👉Cto 17 (Subplanta)",
+    "timestamp": 1769952345,
+    "timestamp_local": 1769952345
+  },
+  {
+    "id": 39352,
+    "fecha": "01 de Feb del 2026 a las 08:22 AM",
+    "hora_utc": "2026-02-01 13:22",
+    "mensaje": "Afectados 77 MW en la provincia, demanda máxima a apagar en estos momentos.",
+    "timestamp": 1769952136,
+    "timestamp_local": 1769952136
+  },
+  {
+    "id": 39351,
+    "fecha": "01 de Feb del 2026 a las 08:00 AM",
+    "hora_utc": "2026-02-01 13:00",
+    "mensaje": "Actualización del servicio eléctrico en la provincia🔸\n✍️Se mantienen afectados en la provincia 127 circuitos.\n✍️En el momento de hacer esta nota la provincia tiene 83 MW por déficit de capacidad de generación.\n✍️Cuenta con 57 afectaciones por averías secundarias y de servicio.",
+    "timestamp": 1769950846,
+    "timestamp_local": 1769950846
+  },
+  {
+    "id": 39350,
+    "fecha": "01 de Feb del 2026 a las 07:47 AM",
+    "hora_utc": "2026-02-01 12:47",
+    "mensaje": "📆Situación del SEN para el 01 de febrero de 2026.\n\n\n\n👉En el día de ayer se afectó el servicio durante las 24 horas. La máxima afectación por déficit de capacidad de generación en el día de ayer fue de 1941 MW a las 18:40 horas.\n\n🌞La producción de energía de los 49 nuevos parques solares fotovoltaicos fue de 2541 MWh, con 451 MW como máxima potencia entregada en el horario de la media con esta fuente de generación. \n\n👉La disponibilidad del SEN a las 06:00 horas es de 1010 MW, la demanda 1595 MW, con 653 MW afectados. En el horario de la media se estima una afectación de 1340 MW.  \n\n🛠️Se encuentran en avería, la unidad 5 de la CTE Mariel, las unidades 2 y 3 de la CTE de Santa Cruz, la unidad 2 de la CTE Felton y las unidades 3, 5 y 6 de la CTE Renté. Se encuentran en mantenimiento la unidad 5 de la CTE Diez de Octubre, la CTE Guiteras y la unidad 4 de la CTE Cienfuegos.\n\n👉Las limitaciones en la generación térmica son de 346 MW.\n\n⛽Para el pico se pronostica la entrada de la Unidad 2 de la CTE Santa Cruz con 80 MW, la unidad 6 de la CTE Renté con 40 MW y la unidad 6 de Energás Jaruco 140 MW.\n \n📈Para el pico se prevé una disponibilidad de 1270 MW con una demanda máxima de 3050 MW, para un déficit de 1780 MW, por lo que de mantenerse las condiciones previstas se pronostica una afectación de 1810 MW en este horario.\n\nUNE-MINEM---07:00 horas.",
+    "timestamp": 1769950067,
+    "timestamp_local": 1769950067
+  },
+  {
     "id": 39349,
     "fecha": "01 de Feb del 2026 a las 07:12 AM",
     "hora_utc": "2026-02-01 12:12",
@@ -126,37 +158,5 @@
     "mensaje": "Afectados 87 MW en la provincia, demanda máxima a apagar en estos momentos.",
     "timestamp": 1769911375,
     "timestamp_local": 1769911375
-  },
-  {
-    "id": 39332,
-    "fecha": "31 de Jan del 2026 a las 08:34 PM",
-    "hora_utc": "2026-02-01 01:34",
-    "mensaje": "🇨🇺 Actualización del Sistema Electroenergético Nacional a las 19:00 del 31 de enero de 2026.\n\nIncidencias:\n10:07 Fuera de linea la Unidad 1 de la CTE Ernesto Guevara\n\n#UnidosXCuba #NotaInformativa #UniónEléctrica #SEN",
-    "timestamp": 1769909664,
-    "timestamp_local": 1769909664
-  },
-  {
-    "id": 39331,
-    "fecha": "31 de Jan del 2026 a las 08:06 PM",
-    "hora_utc": "2026-02-01 01:06",
-    "mensaje": "Actualización del servicio eléctrico en la provincia🔸\n✍️Se mantienen afectados en la provincia 127 circuitos.\n✍️En el momento de hacer esta nota la provincia tiene 101 MW por déficit de capacidad de generación.\n✍️Cuenta con 79 afectaciones por averías secundarias y de servicio.",
-    "timestamp": 1769908000,
-    "timestamp_local": 1769908000
-  },
-  {
-    "id": 39330,
-    "fecha": "31 de Jan del 2026 a las 06:24 PM",
-    "hora_utc": "2026-01-31 23:24",
-    "mensaje": "Afectados 131 MW en la provincia, demanda máxima a apagar en estos momentos.",
-    "timestamp": 1769901851,
-    "timestamp_local": 1769901851
-  },
-  {
-    "id": 39329,
-    "fecha": "31 de Jan del 2026 a las 06:05 PM",
-    "hora_utc": "2026-01-31 23:05",
-    "mensaje": "🚨Usted puede mantenerse informado por nuestras redes🛜, y unirse a nuestro canal de Telegram, para usted trabajamos🛠️ , para darle una actualización  clara y precisa de cómo se está comportando el Sistema Eléctrico Nacional💡, puede llamar☎️ al 18888, donde prestamos servicio las 24 horas",
-    "timestamp": 1769900749,
-    "timestamp_local": 1769900749
   }
 ]
