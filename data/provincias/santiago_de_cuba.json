@@ -1,5 +1,29 @@
 [
   {
+    "id": 49105,
+    "fecha": "01 de Feb del 2026 a las 01:35 PM",
+    "hora_utc": "2026-02-01 18:35",
+    "mensaje": "🔴Disparo Automático de Frecuencia (DAF):\nOcurre cuando la frecuencia está por debajo de los 60Hz y determinada carga o circuito se desconecta del sistema automáticamente hasta que se estabilice.",
+    "timestamp": 1769970929,
+    "timestamp_local": 1769970929
+  },
+  {
+    "id": 49104,
+    "fecha": "01 de Feb del 2026 a las 01:35 PM",
+    "hora_utc": "2026-02-01 18:35",
+    "mensaje": "🔴Se les informa a nuestros clientes que se encuentra afectados por DAF los circuitos 7, 17 y 26 .",
+    "timestamp": 1769970910,
+    "timestamp_local": 1769970910
+  },
+  {
+    "id": 49103,
+    "fecha": "01 de Feb del 2026 a las 01:24 PM",
+    "hora_utc": "2026-02-01 18:24",
+    "mensaje": "🚨Se les informa que en estos momentos se incorpora a la afectación por Déficit el circuito 1 de Palma.",
+    "timestamp": 1769970282,
+    "timestamp_local": 1769970282
+  },
+  {
     "id": 49102,
     "fecha": "01 de Feb del 2026 a las 01:01 PM",
     "hora_utc": "2026-02-01 18:01",
@@ -102,21 +126,5 @@
     "mensaje": "🚨Estimados clientes se les informa que en estos momentos se esta Manipulando el circuito 18 de Santiago.",
     "timestamp": 1769952894,
     "timestamp_local": 1769952894
-  },
-  {
-    "id": 49084,
-    "fecha": "01 de Feb del 2026 a las 07:53 AM",
-    "hora_utc": "2026-02-01 12:53",
-    "mensaje": "🔴 Circuito en avería:                                                                                                                        \n  Sucede si un circuito se interrumpe por causa de un defecto en un cable conductor de corriente (fase o neutro), un fusible fundido o disyuntor. En sistemas trifásicos una falla puede implicar una fase, más de una fase con la tierra o puede ocurrir solo entre fases.",
-    "timestamp": 1769950413,
-    "timestamp_local": 1769950413
-  },
-  {
-    "id": 49083,
-    "fecha": "01 de Feb del 2026 a las 07:46 AM",
-    "hora_utc": "2026-02-01 12:46",
-    "mensaje": "🔴Estimados clientes se les informa que debido a una avería en la Subestación Santiago Este se encuentran afectados los circuitos DEL 11, 12,13, 14, 15 y 16.",
-    "timestamp": 1769949987,
-    "timestamp_local": 1769949987
   }
 ]
