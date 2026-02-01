@@ -1,5 +1,21 @@
 [
   {
+    "id": 105228,
+    "fecha": "01 de Feb del 2026 a las 01:12 AM",
+    "hora_utc": "2026-02-01 06:12",
+    "mensaje": "🔷 Restablecido el servicio en el circuito 3590 que se encontraba afectado por disparo por DAF 🔷",
+    "timestamp": 1769926345,
+    "timestamp_local": 1769926345
+  },
+  {
+    "id": 105227,
+    "fecha": "01 de Feb del 2026 a las 12:57 AM",
+    "hora_utc": "2026-02-01 05:57",
+    "mensaje": "♦️ Afectado el servicio en el circuito 3590 por disparo por DAF♦️",
+    "timestamp": 1769925424,
+    "timestamp_local": 1769925424
+  },
+  {
     "id": 105226,
     "fecha": "01 de Feb del 2026 a las 12:20 AM",
     "hora_utc": "2026-02-01 05:20",
@@ -134,29 +150,5 @@
     "mensaje": "♦️ Afectado el servicio en el circuito 3930 por manipulación♦️",
     "timestamp": 1769912864,
     "timestamp_local": 1769912864
-  },
-  {
-    "id": 105209,
-    "fecha": "31 de Jan del 2026 a las 09:17 PM",
-    "hora_utc": "2026-02-01 02:17",
-    "mensaje": "🔷♦️Se restablece el servicio en el circuito que se encontraba afectado  por déficit de capacidad de generación:\n*2420♦️🔷",
-    "timestamp": 1769912269,
-    "timestamp_local": 1769912269
-  },
-  {
-    "id": 105208,
-    "fecha": "31 de Jan del 2026 a las 08:27 PM",
-    "hora_utc": "2026-02-01 01:27",
-    "mensaje": "🚨Por déficit de capacidad de generación se afecta el servicio en el siguiente circuito:\n*Santa Cruz 🚨",
-    "timestamp": 1769909221,
-    "timestamp_local": 1769909221
-  },
-  {
-    "id": 105207,
-    "fecha": "31 de Jan del 2026 a las 08:06 PM",
-    "hora_utc": "2026-02-01 01:06",
-    "mensaje": "🚨Por déficit de capacidad de generación se afecta el servicio en el siguiente circuito:\n*2440 🚨",
-    "timestamp": 1769908014,
-    "timestamp_local": 1769908014
   }
 ]
