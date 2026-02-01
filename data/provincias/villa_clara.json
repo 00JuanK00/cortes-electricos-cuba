@@ -1,5 +1,21 @@
 [
   {
+    "id": 39407,
+    "fecha": "01 de Feb del 2026 a las 05:44 PM",
+    "hora_utc": "2026-02-01 22:44",
+    "mensaje": "⚠️En déficit de capacidad de generación el siguiente circuito:\n🔹Municipio Santa Clara: \n👉Cto 13(Zona Industrial)",
+    "timestamp": 1769985847,
+    "timestamp_local": 1769985847
+  },
+  {
+    "id": 39406,
+    "fecha": "01 de Feb del 2026 a las 05:17 PM",
+    "hora_utc": "2026-02-01 22:17",
+    "mensaje": "⚠️ En déficit de capacidad de generación los siguientes circuitos:\n🔹Municipio Santa Clara: \n👉Cto 5 (Dobarganes)\n👉Cto 17 (Subplanta) \n👉Ctos 37 y 38 (Yabú)   \n👉Cto 9 (Moldes y Troqueles)\n👉Cto 13 (Zona Industrial)\n👉Cto 133 (Taller Cafetera)",
+    "timestamp": 1769984258,
+    "timestamp_local": 1769984258
+  },
+  {
     "id": 39405,
     "fecha": "01 de Feb del 2026 a las 04:47 PM",
     "hora_utc": "2026-02-01 21:47",
@@ -134,21 +150,5 @@
     "mensaje": "🟢 10:48 || En línea la Unidad 2 de la CTE Ernesto Guevara De La Serna.",
     "timestamp": 1769972175,
     "timestamp_local": 1769972175
-  },
-  {
-    "id": 39386,
-    "fecha": "01 de Feb del 2026 a las 01:52 PM",
-    "hora_utc": "2026-02-01 18:52",
-    "mensaje": "⚠️ En déficit de capacidad de generación  los siguientes circuitos:\n🔹Municipio Santa Clara\n👉Cto 15 (Maleza)\n🔹Municipio Caibarién\n👉Ctos 182 y 183 Van Troy",
-    "timestamp": 1769971928,
-    "timestamp_local": 1769971928
-  },
-  {
-    "id": 39385,
-    "fecha": "01 de Feb del 2026 a las 01:51 PM",
-    "hora_utc": "2026-02-01 18:51",
-    "mensaje": "💡Con servicio los siguientes circuitos:\n🔹Municipio Santo Domingo:\n👉Cto 195 Batey George Washington\n👉Ctos 83 y 165 Manacas\n👉Ctos 85 y 86 Pajarito\n👉Ctos 160 y 161 Cascajal\n🔹Municipio Caibarién:\n👉Ctos 62",
-    "timestamp": 1769971887,
-    "timestamp_local": 1769971887
   }
 ]
