@@ -1,5 +1,45 @@
 [
   {
+    "id": 49111,
+    "fecha": "01 de Feb del 2026 a las 02:41 PM",
+    "hora_utc": "2026-02-01 19:41",
+    "mensaje": "🔊Disparo Automático de Frecuencia (DAF):\nOcurre cuando la frecuencia está por debajo de los 60Hz y determinada carga o circuito se desconecta del sistema automáticamente hasta que se estabilice.",
+    "timestamp": 1769974883,
+    "timestamp_local": 1769974883
+  },
+  {
+    "id": 49110,
+    "fecha": "01 de Feb del 2026 a las 02:41 PM",
+    "hora_utc": "2026-02-01 19:41",
+    "mensaje": "🔊Se les informa que en estos momentos se encuentra afectado por DAF el circuito 11 de Santiago.",
+    "timestamp": 1769974866,
+    "timestamp_local": 1769974866
+  },
+  {
+    "id": 49109,
+    "fecha": "01 de Feb del 2026 a las 02:36 PM",
+    "hora_utc": "2026-02-01 19:36",
+    "mensaje": "🔴Se les informa a nuestros clientes que en estos momentos se incorpora a la afectación por Déficit el circuito 20 de Santiago.",
+    "timestamp": 1769974619,
+    "timestamp_local": 1769974619
+  },
+  {
+    "id": 49108,
+    "fecha": "01 de Feb del 2026 a las 02:26 PM",
+    "hora_utc": "2026-02-01 19:26",
+    "mensaje": "🚨Les seguiremos informando a través de nuestro canal de Telegram sobre la situación de la Disponibilidad del Sistema en nuestra provincia.",
+    "timestamp": 1769973963,
+    "timestamp_local": 1769973963
+  },
+  {
+    "id": 49107,
+    "fecha": "01 de Feb del 2026 a las 02:09 PM",
+    "hora_utc": "2026-02-01 19:09",
+    "mensaje": "🔊Se les informa a nuestros clientes que se incorporan a la afectación por Déficit la Línea 5390-La Maya-ll Frente y la Línea 5380-Mella.",
+    "timestamp": 1769972948,
+    "timestamp_local": 1769972948
+  },
+  {
     "id": 49105,
     "fecha": "01 de Feb del 2026 a las 01:35 PM",
     "hora_utc": "2026-02-01 18:35",
@@ -86,45 +126,5 @@
     "mensaje": "🚨 Circuito en avería:                                                                                                                        \n  Sucede si un circuito se interrumpe por causa de un defecto en un cable conductor de corriente (fase o neutro), un fusible fundido o disyuntor. En sistemas trifásicos una falla puede implicar una fase, más de una fase con la tierra o puede ocurrir solo entre fases.",
     "timestamp": 1769957989,
     "timestamp_local": 1769957989
-  },
-  {
-    "id": 49091,
-    "fecha": "01 de Feb del 2026 a las 09:58 AM",
-    "hora_utc": "2026-02-01 14:58",
-    "mensaje": "🔴Estimados clientes en estos momentos se encuentra en Avería el circuito 18.",
-    "timestamp": 1769957936,
-    "timestamp_local": 1769957936
-  },
-  {
-    "id": 49090,
-    "fecha": "01 de Feb del 2026 a las 09:46 AM",
-    "hora_utc": "2026-02-01 14:46",
-    "mensaje": "🔴Déficit de Capacidad de Generación:    \nSe produce cuando la demanda del Sistema Eléctrico Nacional, en determinado horario del día, supera la generación disponible del país, provocando la desconexión de los circuitos o líneas que permitan garantizar la frecuencia del SEN.",
-    "timestamp": 1769957187,
-    "timestamp_local": 1769957187
-  },
-  {
-    "id": 49089,
-    "fecha": "01 de Feb del 2026 a las 09:46 AM",
-    "hora_utc": "2026-02-01 14:46",
-    "mensaje": "🚨Se les informa a nuestros clientes que en estos momentos se incorporan a la afectación por Déficit el circuito 7 y 25 de Santiago .",
-    "timestamp": 1769957168,
-    "timestamp_local": 1769957168
-  },
-  {
-    "id": 49087,
-    "fecha": "01 de Feb del 2026 a las 08:35 AM",
-    "hora_utc": "2026-02-01 13:35",
-    "mensaje": "‼️Manipulaciones:\nAcción que se realizan en los circuitos para dar paso al trabajo en zonas afectadas por averías o Vía Libre y posteriormente para restablecer el servicio eléctrico en los circuitos que se encontraban afectados y en los que se trabaja con anterioridad, luego de culminadas las labores pertinentes.",
-    "timestamp": 1769952917,
-    "timestamp_local": 1769952917
-  },
-  {
-    "id": 49086,
-    "fecha": "01 de Feb del 2026 a las 08:34 AM",
-    "hora_utc": "2026-02-01 13:34",
-    "mensaje": "🚨Estimados clientes se les informa que en estos momentos se esta Manipulando el circuito 18 de Santiago.",
-    "timestamp": 1769952894,
-    "timestamp_local": 1769952894
   }
 ]

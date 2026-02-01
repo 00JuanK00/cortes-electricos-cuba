@@ -1,5 +1,21 @@
 [
   {
+    "id": 39389,
+    "fecha": "01 de Feb del 2026 a las 02:23 PM",
+    "hora_utc": "2026-02-01 19:23",
+    "mensaje": "Actualización del servicio eléctrico en la provincia🔸\n✍️Se mantienen afectados en la provincia 82 circuitos.\n✍️En el momento de hacer esta nota la provincia tiene 58 MW por déficit de capacidad de generación.\n✍️Cuenta con 79 afectaciones por averías secundarias y de servicio.",
+    "timestamp": 1769973816,
+    "timestamp_local": 1769973816
+  },
+  {
+    "id": 39388,
+    "fecha": "01 de Feb del 2026 a las 02:12 PM",
+    "hora_utc": "2026-02-01 19:12",
+    "mensaje": "💡Con servicio los siguientes circuitos:\n🔹Municipio Santa Clara: \n👉Cto 24(Planta de Asfalto)\n👉Cto 25(Los Güiros)\n👉Cto 35(Biotecnología)\n👉Cto 146(Elevado Aeropuerto)",
+    "timestamp": 1769973164,
+    "timestamp_local": 1769973164
+  },
+  {
     "id": 39387,
     "fecha": "01 de Feb del 2026 a las 01:56 PM",
     "hora_utc": "2026-02-01 18:56",
@@ -11,7 +27,7 @@
     "id": 39386,
     "fecha": "01 de Feb del 2026 a las 01:52 PM",
     "hora_utc": "2026-02-01 18:52",
-    "mensaje": "⚠️ En déficit de capacidad de generación el siguiente circuito:🔹Municipio Santa Clara\n👉Cto 15 (Maleza)",
+    "mensaje": "⚠️ En déficit de capacidad de generación  los siguientes circuitos:\n🔹Municipio Santa Clara\n👉Cto 15 (Maleza)\n🔹Municipio Caibarién\n👉Ctos 182 y 183 Van Troy",
     "timestamp": 1769971928,
     "timestamp_local": 1769971928
   },
@@ -19,7 +35,7 @@
     "id": 39385,
     "fecha": "01 de Feb del 2026 a las 01:51 PM",
     "hora_utc": "2026-02-01 18:51",
-    "mensaje": "💡Con servicio los siguientes circuitos:\n🔹Municipio Santo Domingo:\n👉Cto 195 Batey George Washington\n👉Ctos 83 y 165 Manacas\n👉Ctos 85 y 86 Pajarito\n👉Ctos 160 y 161 Cascajal",
+    "mensaje": "💡Con servicio los siguientes circuitos:\n🔹Municipio Santo Domingo:\n👉Cto 195 Batey George Washington\n👉Ctos 83 y 165 Manacas\n👉Ctos 85 y 86 Pajarito\n👉Ctos 160 y 161 Cascajal\n🔹Municipio Caibarién:\n👉Ctos 62",
     "timestamp": 1769971887,
     "timestamp_local": 1769971887
   },
@@ -46,14 +62,6 @@
     "mensaje": "⚠️ En déficit de capacidad de generación el siguiente circuito:🔹Municipio Manicaragua:\n👉Cto 111 Mataguá",
     "timestamp": 1769970126,
     "timestamp_local": 1769970126
-  },
-  {
-    "id": 39381,
-    "fecha": "01 de Feb del 2026 a las 12:49 PM",
-    "hora_utc": "2026-02-01 17:49",
-    "mensaje": "⚠️ En déficit de capacidad de generación el siguiente circuito:\n🔹Municipio Santa Clara: \n👉Cto 15(Maleza)",
-    "timestamp": 1769968193,
-    "timestamp_local": 1769968193
   },
   {
     "id": 39380,
@@ -150,13 +158,5 @@
     "mensaje": "💡Con servicio los siguientes circuitos:\n🔹Municipio Remedios:\n👉Ctos 67 y 152, 68 y 118 \n🔹Municipio Santa Clara\n👉Cto 7 (Universidad)  \n👉Cto 22 (Construcciones Textil)\n👉Cto 131 (Las Antillas)\n👉Cto 153 (EIDE) \n👉Ctos 14, 15 y 27 (Maleza)",
     "timestamp": 1769958310,
     "timestamp_local": 1769958310
-  },
-  {
-    "id": 39368,
-    "fecha": "01 de Feb del 2026 a las 10:01 AM",
-    "hora_utc": "2026-02-01 15:01",
-    "mensaje": "⚠️ En déficit de capacidad de generación los siguientes circuitos:\n🔹Municipio Caibarién\n👉Ctos 61, 62, 63 y 64\n👉Ctos 182 y 183 Van Troy",
-    "timestamp": 1769958070,
-    "timestamp_local": 1769958070
   }
 ]
