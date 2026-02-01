@@ -1,5 +1,21 @@
 [
   {
+    "id": 49130,
+    "fecha": "01 de Feb del 2026 a las 06:09 PM",
+    "hora_utc": "2026-02-01 23:09",
+    "mensaje": "🚨Circuito en avería:                                                                                                                          Sucede si un circuito se interrumpe por causa de un defecto en un cable conductor de corriente (fase o neutro), un fusible fundido o disyuntor. En sistemas trifásicos una falla puede implicar una fase, más de una fase con la tierra o puede ocurrir solo entre fases.",
+    "timestamp": 1769987380,
+    "timestamp_local": 1769987380
+  },
+  {
+    "id": 49129,
+    "fecha": "01 de Feb del 2026 a las 06:09 PM",
+    "hora_utc": "2026-02-01 23:09",
+    "mensaje": "🔊Estimados clientes en estos momentos está en Avería La Línea 4435 Contramaestre",
+    "timestamp": 1769987357,
+    "timestamp_local": 1769987357
+  },
+  {
     "id": 49128,
     "fecha": "01 de Feb del 2026 a las 05:32 PM",
     "hora_utc": "2026-02-01 22:32",
@@ -126,21 +142,5 @@
     "mensaje": "🔊Disparo Automático de Frecuencia (DAF):\nOcurre cuando la frecuencia está por debajo de los 60Hz y determinada carga o circuito se desconecta del sistema automáticamente hasta que se estabilice.",
     "timestamp": 1769974883,
     "timestamp_local": 1769974883
-  },
-  {
-    "id": 49110,
-    "fecha": "01 de Feb del 2026 a las 02:41 PM",
-    "hora_utc": "2026-02-01 19:41",
-    "mensaje": "🔊Se les informa que en estos momentos se encuentra afectado por DAF el circuito 11 de Santiago.",
-    "timestamp": 1769974866,
-    "timestamp_local": 1769974866
-  },
-  {
-    "id": 49109,
-    "fecha": "01 de Feb del 2026 a las 02:36 PM",
-    "hora_utc": "2026-02-01 19:36",
-    "mensaje": "🔴Se les informa a nuestros clientes que en estos momentos se incorpora a la afectación por Déficit el circuito 20 de Santiago.",
-    "timestamp": 1769974619,
-    "timestamp_local": 1769974619
   }
 ]
