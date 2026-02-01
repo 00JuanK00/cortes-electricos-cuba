@@ -1,5 +1,45 @@
 [
   {
+    "id": 105206,
+    "fecha": "31 de Jan del 2026 a las 07:50 PM",
+    "hora_utc": "2026-02-01 00:50",
+    "mensaje": "🚨Por déficit de capacidad de generación se afecta el servicio en el siguiente circuito:\n*Madruga 🚨",
+    "timestamp": 1769907013,
+    "timestamp_local": 1769907013
+  },
+  {
+    "id": 105205,
+    "fecha": "31 de Jan del 2026 a las 07:46 PM",
+    "hora_utc": "2026-02-01 00:46",
+    "mensaje": "🚨Por déficit de capacidad de generación se afecta el servicio en el siguiente circuito:\n*Salud 1🚨",
+    "timestamp": 1769906813,
+    "timestamp_local": 1769906813
+  },
+  {
+    "id": 105204,
+    "fecha": "31 de Jan del 2026 a las 07:45 PM",
+    "hora_utc": "2026-02-01 00:45",
+    "mensaje": "🚨Por déficit de capacidad de generación se afecta el servicio en los siguientes circuitos:\n*Sopapo 1 y 2🚨",
+    "timestamp": 1769906742,
+    "timestamp_local": 1769906742
+  },
+  {
+    "id": 105203,
+    "fecha": "31 de Jan del 2026 a las 07:39 PM",
+    "hora_utc": "2026-02-01 00:39",
+    "mensaje": "♦️ Afectado el servicio en el circuito 3930 por disparo en las líneas♦️",
+    "timestamp": 1769906362,
+    "timestamp_local": 1769906362
+  },
+  {
+    "id": 105202,
+    "fecha": "31 de Jan del 2026 a las 07:33 PM",
+    "hora_utc": "2026-02-01 00:33",
+    "mensaje": "🔷 Restablecido la zona del Caguazo perteneciente al circuito Bío -2 🔷\n\n♦️ Quedando afectadas las siguientes Zonas :\n👉 Caguazo\n*Finca el Fino\n*Finca el Río\n*Finca Ofelia\n*Finca Mirella \n*Finca Kikiribú y zonas aledañas ♦️",
+    "timestamp": 1769905991,
+    "timestamp_local": 1769905991
+  },
+  {
     "id": 105201,
     "fecha": "31 de Jan del 2026 a las 06:39 PM",
     "hora_utc": "2026-01-31 23:39",
@@ -56,14 +96,6 @@
     "timestamp_local": 1769901420
   },
   {
-    "id": 105194,
-    "fecha": "31 de Jan del 2026 a las 06:08 PM",
-    "hora_utc": "2026-01-31 23:08",
-    "mensaje": "🔷 Restablecido el servicio en el circuito de Bío 2 que se encontraba afectado por posible avería \n\nQuedando afectado el servicio en la zona de Caguazo por avería♦️",
-    "timestamp": 1769900924,
-    "timestamp_local": 1769900924
-  },
-  {
     "id": 105193,
     "fecha": "31 de Jan del 2026 a las 06:07 PM",
     "hora_utc": "2026-01-31 23:07",
@@ -118,29 +150,5 @@
     "mensaje": "♦️ Afectado el servicio en el circuito 3590 por disparo por DAF♦️",
     "timestamp": 1769893704,
     "timestamp_local": 1769893704
-  },
-  {
-    "id": 105185,
-    "fecha": "31 de Jan del 2026 a las 03:56 PM",
-    "hora_utc": "2026-01-31 20:56",
-    "mensaje": "🔷Con servicio el circuito de Santa Cruz que se encontraba afectado por manipulación 🔷",
-    "timestamp": 1769893011,
-    "timestamp_local": 1769893011
-  },
-  {
-    "id": 105184,
-    "fecha": "31 de Jan del 2026 a las 03:53 PM",
-    "hora_utc": "2026-01-31 20:53",
-    "mensaje": "♦️ Afectado el servicio en el circuito de Flor de Itabo por manipulación ♦️",
-    "timestamp": 1769892829,
-    "timestamp_local": 1769892829
-  },
-  {
-    "id": 105183,
-    "fecha": "31 de Jan del 2026 a las 03:49 PM",
-    "hora_utc": "2026-01-31 20:49",
-    "mensaje": "**Informamos a nuestra población que ya se encuentra restablecido y funcionando con normalidad el servicio en nuestro número de base 18888. Agradecemos su comprensión**",
-    "timestamp": 1769892561,
-    "timestamp_local": 1769892561
   }
 ]
