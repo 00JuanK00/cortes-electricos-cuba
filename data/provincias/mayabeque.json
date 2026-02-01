@@ -1,5 +1,29 @@
 [
   {
+    "id": 105236,
+    "fecha": "01 de Feb del 2026 a las 03:09 AM",
+    "hora_utc": "2026-02-01 08:09",
+    "mensaje": "♦️ Afectado el servicio en el circuito 1790 por disparo por DAF♦️",
+    "timestamp": 1769933361,
+    "timestamp_local": 1769933361
+  },
+  {
+    "id": 105235,
+    "fecha": "01 de Feb del 2026 a las 03:03 AM",
+    "hora_utc": "2026-02-01 08:03",
+    "mensaje": "🚨Por déficit de capacidad de generación se afecta el servicio en el siguiente circuito:\n*Güines 1🚨",
+    "timestamp": 1769933038,
+    "timestamp_local": 1769933038
+  },
+  {
+    "id": 105234,
+    "fecha": "01 de Feb del 2026 a las 03:00 AM",
+    "hora_utc": "2026-02-01 08:00",
+    "mensaje": "🔷♦️Se restablece el servicio en los circuitos que se encontraban afectados por déficit de capacidad de generación:\n*Catalina 1y2 ♦️🔷",
+    "timestamp": 1769932811,
+    "timestamp_local": 1769932811
+  },
+  {
     "id": 105233,
     "fecha": "01 de Feb del 2026 a las 02:52 AM",
     "hora_utc": "2026-02-01 07:52",
@@ -110,29 +134,5 @@
     "mensaje": "🔷♦️Se restablece el servicio en los circuitos que se encontraban afectados por déficit de capacidad de generación:\n*Quivicán\n*San Felipe\n*Palomo♦️🔷",
     "timestamp": 1769918417,
     "timestamp_local": 1769918417
-  },
-  {
-    "id": 105216,
-    "fecha": "31 de Jan del 2026 a las 10:57 PM",
-    "hora_utc": "2026-02-01 03:57",
-    "mensaje": "♦️Afectado el servicio en el circuito 3590 por disparo en las líneas ♦️",
-    "timestamp": 1769918252,
-    "timestamp_local": 1769918252
-  },
-  {
-    "id": 105215,
-    "fecha": "31 de Jan del 2026 a las 10:42 PM",
-    "hora_utc": "2026-02-01 03:42",
-    "mensaje": "🔷♦️Se restablece el servicio en el circuito que se encontraba afectado  por déficit de capacidad de generación:\n*Camacho ♦️🔷",
-    "timestamp": 1769917361,
-    "timestamp_local": 1769917361
-  },
-  {
-    "id": 105214,
-    "fecha": "31 de Jan del 2026 a las 10:37 PM",
-    "hora_utc": "2026-02-01 03:37",
-    "mensaje": "🔷 Con servicio el circuito 3930 que se encontraba afectado por manipulación 🔷",
-    "timestamp": 1769917071,
-    "timestamp_local": 1769917071
   }
 ]
