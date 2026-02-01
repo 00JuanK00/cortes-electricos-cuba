@@ -1,5 +1,21 @@
 [
   {
+    "id": 105293,
+    "fecha": "01 de Feb del 2026 a las 11:49 AM",
+    "hora_utc": "2026-02-01 16:49",
+    "mensaje": "🔷 Restablecido el servicio en el circuito 3590 que se encontraba afectado por disparo por DAF🔷",
+    "timestamp": 1769964545,
+    "timestamp_local": 1769964545
+  },
+  {
+    "id": 105292,
+    "fecha": "01 de Feb del 2026 a las 11:37 AM",
+    "hora_utc": "2026-02-01 16:37",
+    "mensaje": "♦️ Afectado el servicio en el circuito 3590 por disparo por DAF ♦️",
+    "timestamp": 1769963862,
+    "timestamp_local": 1769963862
+  },
+  {
     "id": 105291,
     "fecha": "01 de Feb del 2026 a las 11:09 AM",
     "hora_utc": "2026-02-01 16:09",
@@ -118,21 +134,5 @@
     "mensaje": "🚨Por déficit de capacidad de generación se afecta el servicio en el siguiente circuito:\n*3655 🚨",
     "timestamp": 1769955088,
     "timestamp_local": 1769955088
-  },
-  {
-    "id": 105273,
-    "fecha": "01 de Feb del 2026 a las 09:07 AM",
-    "hora_utc": "2026-02-01 14:07",
-    "mensaje": "🚨Por déficit de capacidad de generación se afecta el servicio en el siguiente circuito:\n*2 de San José 🚨",
-    "timestamp": 1769954845,
-    "timestamp_local": 1769954845
-  },
-  {
-    "id": 105272,
-    "fecha": "01 de Feb del 2026 a las 08:53 AM",
-    "hora_utc": "2026-02-01 13:53",
-    "mensaje": "**Nota Informativa: Estado del Sistema Eléctrico Nacional (SEN) – 1 de febrero de 2026**\nEn el día de ayer se afectó el servicio durante las 24 horas. La máxima afectación por déficit de capacidad de generación en el día de ayer fue de 1941 MW a las 18:40 horas.\nLa producción de energía de los 49 nuevos parques solares fotovoltaicos fue de 2541 MWh, con 451 MW como máxima potencia entregada en el horario de la media con esta fuente de generación.\n**Estado actual del SEN**\nLa disponibilidad del SEN a las 06:00 horas es de 1010 MW, la demanda 1595 MW, con 653 MW afectados. En el horario de la media se estima una afectación de 1340 MW.\n**Principales incidencias**\nAvería: Unidades 2 y 3 de la CTE Santa Cruz, Unidad 5 de la CTE Mariel, Unidad 2 de la CTE Felton y Unidades 3, 5 y 6 de la CTE Antonio Maceo.\nMantenimiento: Unidad 5 de la CTE Nuevitas, Unidad 4 de la CTE Carlos Manuel de Céspedes en Cienfuegos y la CTE Antonio Guiteras.\nLimitaciones en la generación térmica: 346 MW fuera de servicio.\n**Pronóstico para el horario pico**\nPara el pico se pronostica la entrada de la Unidad 2 de la CTE Santa Cruz con 80 MW, la unidad 6 de la CTE Renté con 40 MW y la unidad 6 de Energás Jaruco 140 MW.\nPara el pico se prevé una disponibilidad de 1270 MW con una demanda máxima de 3050 MW, para un déficit de 1780 MW, por lo que de mantenerse las condiciones previstas se pronostica una afectación de 1810 MW en este horario.",
-    "timestamp": 1769954020,
-    "timestamp_local": 1769954020
   }
 ]
