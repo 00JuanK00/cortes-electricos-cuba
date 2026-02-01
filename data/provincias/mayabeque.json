@@ -1,5 +1,21 @@
 [
   {
+    "id": 105334,
+    "fecha": "01 de Feb del 2026 a las 04:03 PM",
+    "hora_utc": "2026-02-01 21:03",
+    "mensaje": "♦️ Afectado el servicio en el circuito 3140 por disparo por DAF ♦️",
+    "timestamp": 1769979836,
+    "timestamp_local": 1769979836
+  },
+  {
+    "id": 105333,
+    "fecha": "01 de Feb del 2026 a las 03:56 PM",
+    "hora_utc": "2026-02-01 20:56",
+    "mensaje": "🚨Por déficit de capacidad de generación se afecta el servicio en el siguiente circuito:\n*ML 35 🚨",
+    "timestamp": 1769979400,
+    "timestamp_local": 1769979400
+  },
+  {
     "id": 105332,
     "fecha": "01 de Feb del 2026 a las 03:54 PM",
     "hora_utc": "2026-02-01 20:54",
@@ -142,21 +158,5 @@
     "mensaje": "🚨Por déficit de capacidad de generación se afecta el servicio en el siguiente circuito:\n*Madruga 🚨",
     "timestamp": 1769971040,
     "timestamp_local": 1769971040
-  },
-  {
-    "id": 105314,
-    "fecha": "01 de Feb del 2026 a las 01:35 PM",
-    "hora_utc": "2026-02-01 18:35",
-    "mensaje": "🔷 Restablecido el servicio en la siguiente zona correspondiente al circuito de Santa Cruz que se encontraba afectado por vía libre:\n*Fraile y zonas aledañas🔷",
-    "timestamp": 1769970930,
-    "timestamp_local": 1769970930
-  },
-  {
-    "id": 105313,
-    "fecha": "01 de Feb del 2026 a las 01:34 PM",
-    "hora_utc": "2026-02-01 18:34",
-    "mensaje": "🔷 Restablecido el servicio en el circuito Santa Cruz que se encontraba afectado por manipulación 🔷",
-    "timestamp": 1769970886,
-    "timestamp_local": 1769970886
   }
 ]
