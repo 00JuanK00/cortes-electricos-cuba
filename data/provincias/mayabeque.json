@@ -1,5 +1,61 @@
 [
   {
+    "id": 105506,
+    "fecha": "02 de Feb del 2026 a las 06:54 PM",
+    "hora_utc": "2026-02-02 23:54",
+    "mensaje": "🔷 Restablecido el servicio en el circuito 3590 que se encontraba afectado por manipulación  🔷",
+    "timestamp": 1770076443,
+    "timestamp_local": 1770076443
+  },
+  {
+    "id": 105505,
+    "fecha": "02 de Feb del 2026 a las 06:53 PM",
+    "hora_utc": "2026-02-02 23:53",
+    "mensaje": "🚨Por déficit de capacidad de generación se afecta el servicio en los siguientes circuitos:\n*Nazareno\n*Menocal\n*Babiney 🚨",
+    "timestamp": 1770076385,
+    "timestamp_local": 1770076385
+  },
+  {
+    "id": 105504,
+    "fecha": "02 de Feb del 2026 a las 06:45 PM",
+    "hora_utc": "2026-02-02 23:45",
+    "mensaje": "♦️ Afectado el servicio en el circuito 3590 por manipulación ♦️",
+    "timestamp": 1770075957,
+    "timestamp_local": 1770075957
+  },
+  {
+    "id": 105503,
+    "fecha": "02 de Feb del 2026 a las 06:32 PM",
+    "hora_utc": "2026-02-02 23:32",
+    "mensaje": "🔷♦️Se restablece el servicio en los siguientes circuitos que se encontraban afectados  por déficit de capacidad de generación:\n*Los Palos\n*Sureste\n*Nueva Paz♦️🔷",
+    "timestamp": 1770075159,
+    "timestamp_local": 1770075159
+  },
+  {
+    "id": 105502,
+    "fecha": "02 de Feb del 2026 a las 06:30 PM",
+    "hora_utc": "2026-02-02 23:30",
+    "mensaje": "🔷 Restablecido el servicio en el circuito 3140 que se encontraba afectado por disparo por DAF 🔷",
+    "timestamp": 1770075052,
+    "timestamp_local": 1770075052
+  },
+  {
+    "id": 105501,
+    "fecha": "02 de Feb del 2026 a las 06:29 PM",
+    "hora_utc": "2026-02-02 23:29",
+    "mensaje": "🔷♦️Se restablece el servicio en el circuito que se encontraba afectado  por déficit de capacidad de generación:\n*Vegas♦️🔷",
+    "timestamp": 1770074987,
+    "timestamp_local": 1770074987
+  },
+  {
+    "id": 105500,
+    "fecha": "02 de Feb del 2026 a las 06:29 PM",
+    "hora_utc": "2026-02-02 23:29",
+    "mensaje": "♦️ Afectado el servicio en el circuito 3140 por disparo por DAF ♦️",
+    "timestamp": 1770074979,
+    "timestamp_local": 1770074979
+  },
+  {
     "id": 105499,
     "fecha": "02 de Feb del 2026 a las 06:15 PM",
     "hora_utc": "2026-02-02 23:15",
@@ -86,61 +142,5 @@
     "mensaje": "♦️ Afectado el servicio en el circuito 3140 por disparo por DAF ♦️",
     "timestamp": 1770064418,
     "timestamp_local": 1770064418
-  },
-  {
-    "id": 105486,
-    "fecha": "02 de Feb del 2026 a las 03:21 PM",
-    "hora_utc": "2026-02-02 20:21",
-    "mensaje": "🔷 Restablecido el servicio en el circuito 2420 que se encontraba afectado por disparo por manipulación  🔷",
-    "timestamp": 1770063697,
-    "timestamp_local": 1770063697
-  },
-  {
-    "id": 105485,
-    "fecha": "02 de Feb del 2026 a las 03:20 PM",
-    "hora_utc": "2026-02-02 20:20",
-    "mensaje": "🔷 Restablecido el servicio en el circuito 3140 que se encontraba afectado por disparo por DAF 🔷",
-    "timestamp": 1770063639,
-    "timestamp_local": 1770063639
-  },
-  {
-    "id": 105484,
-    "fecha": "02 de Feb del 2026 a las 03:20 PM",
-    "hora_utc": "2026-02-02 20:20",
-    "mensaje": "🔷 Restablecido el servicio en el circuito 3590 que se encontraba afectado por disparo por DAF 🔷",
-    "timestamp": 1770063632,
-    "timestamp_local": 1770063632
-  },
-  {
-    "id": 105483,
-    "fecha": "02 de Feb del 2026 a las 03:04 PM",
-    "hora_utc": "2026-02-02 20:04",
-    "mensaje": "🔷♦️Se restablece el servicio en el circuito que se encontraba afectado  por déficit de capacidad de generación:\n*La Salud♦️🔷",
-    "timestamp": 1770062650,
-    "timestamp_local": 1770062650
-  },
-  {
-    "id": 105482,
-    "fecha": "02 de Feb del 2026 a las 02:49 PM",
-    "hora_utc": "2026-02-02 19:49",
-    "mensaje": "♦️ Afectado el servicio en el circuito 3590 por disparo por DAF ♦️",
-    "timestamp": 1770061752,
-    "timestamp_local": 1770061752
-  },
-  {
-    "id": 105481,
-    "fecha": "02 de Feb del 2026 a las 02:49 PM",
-    "hora_utc": "2026-02-02 19:49",
-    "mensaje": "♦️ Afectado el servicio en el circuito 3140 por disparo por DAF ♦️",
-    "timestamp": 1770061746,
-    "timestamp_local": 1770061746
-  },
-  {
-    "id": 105480,
-    "fecha": "02 de Feb del 2026 a las 02:48 PM",
-    "hora_utc": "2026-02-02 19:48",
-    "mensaje": "♦️ Afectado el servicio en el circuito 2420  por manipulación  ♦️",
-    "timestamp": 1770061696,
-    "timestamp_local": 1770061696
   }
 ]
