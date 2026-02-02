@@ -1,5 +1,29 @@
 [
   {
+    "id": 105430,
+    "fecha": "02 de Feb del 2026 a las 06:50 AM",
+    "hora_utc": "2026-02-02 11:50",
+    "mensaje": "♦️ Afectado el servicio en el circuito 3140 por disparo por DAF ♦️",
+    "timestamp": 1770033025,
+    "timestamp_local": 1770033025
+  },
+  {
+    "id": 105429,
+    "fecha": "02 de Feb del 2026 a las 06:38 AM",
+    "hora_utc": "2026-02-02 11:38",
+    "mensaje": "🔷 Restablecido el servicio en el circuito 3140 que se encontraba afectado por disparo por DAF 🔷",
+    "timestamp": 1770032335,
+    "timestamp_local": 1770032335
+  },
+  {
+    "id": 105424,
+    "fecha": "02 de Feb del 2026 a las 06:32 AM",
+    "hora_utc": "2026-02-02 11:32",
+    "mensaje": "♦️ Afectado el servicio en el circuito 3140 por disparo por DAF ♦️",
+    "timestamp": 1770031953,
+    "timestamp_local": 1770031953
+  },
+  {
     "id": 105423,
     "fecha": "02 de Feb del 2026 a las 06:21 AM",
     "hora_utc": "2026-02-02 11:21",
@@ -94,45 +118,5 @@
     "mensaje": "🔷 Restablecido el servicio en los siguientes circuitos que se encontraban afectados por disparos en las líneas:\n*2435\n*2315🔷",
     "timestamp": 1770028356,
     "timestamp_local": 1770028356
-  },
-  {
-    "id": 105410,
-    "fecha": "02 de Feb del 2026 a las 05:27 AM",
-    "hora_utc": "2026-02-02 10:27",
-    "mensaje": "🔷♦️Se restablece el servicio en el circuito que se encontraba afectado  por déficit de capacidad de generación:\n*ML 35♦️🔷",
-    "timestamp": 1770028031,
-    "timestamp_local": 1770028031
-  },
-  {
-    "id": 105409,
-    "fecha": "02 de Feb del 2026 a las 05:26 AM",
-    "hora_utc": "2026-02-02 10:26",
-    "mensaje": "♦️ Afectado el servicio en el circuito 3665 por vía libre ♦️",
-    "timestamp": 1770027999,
-    "timestamp_local": 1770027999
-  },
-  {
-    "id": 105408,
-    "fecha": "02 de Feb del 2026 a las 05:22 AM",
-    "hora_utc": "2026-02-02 10:22",
-    "mensaje": "♦️ Afectado el servicio en los siguientes circuitos por disparo en las líneas:\n*2315\n*2495\n*2435♦️",
-    "timestamp": 1770027769,
-    "timestamp_local": 1770027769
-  },
-  {
-    "id": 105407,
-    "fecha": "02 de Feb del 2026 a las 05:14 AM",
-    "hora_utc": "2026-02-02 10:14",
-    "mensaje": "🚨Por déficit de capacidad de generación se afecta el servicio en el siguiente circuito:\n*ML 35 🚨",
-    "timestamp": 1770027257,
-    "timestamp_local": 1770027257
-  },
-  {
-    "id": 105406,
-    "fecha": "02 de Feb del 2026 a las 05:13 AM",
-    "hora_utc": "2026-02-02 10:13",
-    "mensaje": "🚨Por déficit de capacidad de generación se afecta el servicio en el siguiente circuito:\n*2420 🚨",
-    "timestamp": 1770027215,
-    "timestamp_local": 1770027215
   }
 ]
