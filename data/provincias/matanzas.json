@@ -1,5 +1,53 @@
 [
   {
+    "id": 31970,
+    "fecha": "01 de Feb del 2026 a las 11:36 PM",
+    "hora_utc": "2026-02-02 04:36",
+    "mensaje": "*⚡**Déficit de capacidad de generación en la provincia:  80 MW . **⚡*",
+    "timestamp": 1770006984,
+    "timestamp_local": 1770006984
+  },
+  {
+    "id": 31968,
+    "fecha": "01 de Feb del 2026 a las 11:32 PM",
+    "hora_utc": "2026-02-02 04:32",
+    "mensaje": "💡**__Se les restablecerá el servicio a los circuitos en las próximas horas en dependencia del comportamiento de la demanda.__**",
+    "timestamp": 1770006778,
+    "timestamp_local": 1770006778
+  },
+  {
+    "id": 31967,
+    "fecha": "01 de Feb del 2026 a las 11:02 PM",
+    "hora_utc": "2026-02-02 04:02",
+    "mensaje": "*⚡**Déficit de capacidad de generación en la provincia:  70 MW . **⚡*",
+    "timestamp": 1770004934,
+    "timestamp_local": 1770004934
+  },
+  {
+    "id": 31966,
+    "fecha": "01 de Feb del 2026 a las 10:56 PM",
+    "hora_utc": "2026-02-02 03:56",
+    "mensaje": "🇨🇺 Actualización del Sistema Electroenergético Nacional a las 19:00 del 1 de febrero de 2026.\n\nIncidencias:\n10:48 Sincronizó la Unidad 2 de la CTE Ernesto Guevara De La Serna \n12:29 Sale de línea la Unidad 1 de la CTE Ernesto Guevara De La Serna por sistema de regulación de turbina.\n14:45 Sincronizó la Unidad 3 de la CTE Ernesto Guevara De La Serna \n14:52 Sincronizó la Unidad 1 de la CTE Ernesto Guevara De La Serna \n15:05 Sale de línea la Unidad 6 de la CTE Antonio Maceo \"Renté\"\n16:02 Sale de línea la Unidad 2 de la CTE Ernesto Guevara De La Serna por automática.",
+    "timestamp": 1770004595,
+    "timestamp_local": 1770004595
+  },
+  {
+    "id": 31965,
+    "fecha": "01 de Feb del 2026 a las 10:54 PM",
+    "hora_utc": "2026-02-02 03:54",
+    "mensaje": "*⚡Déficit de capacidad de generación en la provincia:  76 MW . ⚡*",
+    "timestamp": 1770004495,
+    "timestamp_local": 1770004495
+  },
+  {
+    "id": 31964,
+    "fecha": "01 de Feb del 2026 a las 10:49 PM",
+    "hora_utc": "2026-02-02 03:49",
+    "mensaje": "PROXIMOS A RESTABLECER\n\n**5670 Bolondrón 110kV**\n🔌 Circuito 5670 que da servicio a Manuelito, Bolondrón, Unión de Reyes, Cabezas, Bermejas y Alacranes.\n\n**5680 Bolondrón 110Kv**\n🔌 Circuito MI5680 que da servicio a Cítrico y Sabana Grande.\n\n**5660 Bolondrón 110kV**\n🔌Circuito MI5660 que da servicio a Güira-Betancourt.",
+    "timestamp": 1770004189,
+    "timestamp_local": 1770004189
+  },
+  {
     "id": 31963,
     "fecha": "01 de Feb del 2026 a las 10:21 PM",
     "hora_utc": "2026-02-02 03:21",
@@ -110,53 +158,5 @@
     "mensaje": "**__💡Se les restablecerá el servicio a dichos circuitos en las próximas horas en dependencia del comportamiento de la demanda.__**",
     "timestamp": 1769982435,
     "timestamp_local": 1769982435
-  },
-  {
-    "id": 31948,
-    "fecha": "01 de Feb del 2026 a las 04:10 PM",
-    "hora_utc": "2026-02-01 21:10",
-    "mensaje": "*⚡Déficit de capacidad de generación en la provincia:  106 MW . ⚡*",
-    "timestamp": 1769980232,
-    "timestamp_local": 1769980232
-  },
-  {
-    "id": 31947,
-    "fecha": "01 de Feb del 2026 a las 04:05 PM",
-    "hora_utc": "2026-02-01 21:05",
-    "mensaje": "🔴 15:05 || Fuera de línea la Unidad 6 de la CTE Antonio Maceo en vía libre de emergencia por  señal en sensor de velocidad de turbina.",
-    "timestamp": 1769979955,
-    "timestamp_local": 1769979955
-  },
-  {
-    "id": 31946,
-    "fecha": "01 de Feb del 2026 a las 04:05 PM",
-    "hora_utc": "2026-02-01 21:05",
-    "mensaje": "10:48 || En línea la Unidad 2 de la CTE Ernesto Guevara De La Serna.",
-    "timestamp": 1769979911,
-    "timestamp_local": 1769979911
-  },
-  {
-    "id": 31945,
-    "fecha": "01 de Feb del 2026 a las 03:58 PM",
-    "hora_utc": "2026-02-01 20:58",
-    "mensaje": "*⚡Déficit de capacidad de generación en la provincia:  100 MW . ⚡*",
-    "timestamp": 1769979516,
-    "timestamp_local": 1769979516
-  },
-  {
-    "id": 31944,
-    "fecha": "01 de Feb del 2026 a las 01:12 PM",
-    "hora_utc": "2026-02-01 18:12",
-    "mensaje": "*⚡Déficit de capacidad de generación en la provincia:  101 MW . ⚡*",
-    "timestamp": 1769969579,
-    "timestamp_local": 1769969579
-  },
-  {
-    "id": 31943,
-    "fecha": "01 de Feb del 2026 a las 12:46 PM",
-    "hora_utc": "2026-02-01 17:46",
-    "mensaje": "CON SERVICIO\n\n**4604 Hoyo 110kV**\n**🔌 **Circuito 4604 que da servicio a Martí-Itabo-Hoyo Colorado.",
-    "timestamp": 1769967980,
-    "timestamp_local": 1769967980
   }
 ]
