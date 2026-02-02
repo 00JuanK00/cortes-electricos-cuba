@@ -1,5 +1,21 @@
 [
   {
+    "id": 35669,
+    "fecha": "02 de Feb del 2026 a las 10:00 AM",
+    "hora_utc": "2026-02-02 15:00",
+    "mensaje": "🔊Información🔊\n\n👉Se encuentra sin servicio eléctrico el circuito Cítrico I por avería, varios tramos de primario en el suelo se trabaja para restablecer el servicio en el menor tiempo posible.",
+    "timestamp": 1770044403,
+    "timestamp_local": 1770044403
+  },
+  {
+    "id": 35668,
+    "fecha": "02 de Feb del 2026 a las 09:47 AM",
+    "hora_utc": "2026-02-02 14:47",
+    "mensaje": "‼️ Información ‼️   \n👉En estos momentos tenemos 65 MW en la provincia afectados por déficit de generación. Con este déficit no podemos cumplir con una programación estable, por lo que los circuitos se afectarán o se restablecerán en dependencia del déficit que haya en cada momento de la jornada.",
+    "timestamp": 1770043668,
+    "timestamp_local": 1770043668
+  },
+  {
     "id": 35667,
     "fecha": "02 de Feb del 2026 a las 09:18 AM",
     "hora_utc": "2026-02-02 14:18",
@@ -126,13 +142,5 @@
     "mensaje": "👉 Información.\n🟢 14:38 || En línea la Unidad 6 de la CTE Antonio Maceo.",
     "timestamp": 1769977912,
     "timestamp_local": 1769977912
-  },
-  {
-    "id": 35648,
-    "fecha": "01 de Feb del 2026 a las 03:31 PM",
-    "hora_utc": "2026-02-01 20:31",
-    "mensaje": "👉 Información.\n\n🔴 15:05 || Fuera de linea la Unidad 6 de la CTE Antonio Maceo en vía libre de emergencia por  señal en sensor de velocidad de turbina.",
-    "timestamp": 1769977876,
-    "timestamp_local": 1769977876
   }
 ]
