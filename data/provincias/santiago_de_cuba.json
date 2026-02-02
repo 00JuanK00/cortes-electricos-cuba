@@ -1,5 +1,45 @@
 [
   {
+    "id": 49159,
+    "fecha": "02 de Feb del 2026 a las 06:19 AM",
+    "hora_utc": "2026-02-02 11:19",
+    "mensaje": "🔊Estimados clientes en estos momentos se encuentra afectados por Déficit de Capacidad de Generación La Línea 4395 Contramaestre -Baire - III Frente",
+    "timestamp": 1770031158,
+    "timestamp_local": 1770031158
+  },
+  {
+    "id": 49158,
+    "fecha": "02 de Feb del 2026 a las 06:08 AM",
+    "hora_utc": "2026-02-02 11:08",
+    "mensaje": "🔊Estimados clientes en estos momentos se encuentra afectados por Déficit de Capacidad de Generación el circuito 25 y La Línea 5395 San Luis",
+    "timestamp": 1770030481,
+    "timestamp_local": 1770030481
+  },
+  {
+    "id": 49157,
+    "fecha": "02 de Feb del 2026 a las 05:49 AM",
+    "hora_utc": "2026-02-02 10:49",
+    "mensaje": "🚨Disparo Automático de Frecuencia (DAF):\nOcurre cuando la frecuencia está por debajo de los 60Hz y determinada carga o circuito se desconecta del sistema automáticamente hasta que se estabilice.",
+    "timestamp": 1770029374,
+    "timestamp_local": 1770029374
+  },
+  {
+    "id": 49156,
+    "fecha": "02 de Feb del 2026 a las 05:49 AM",
+    "hora_utc": "2026-02-02 10:49",
+    "mensaje": "🔊Estimados clientes en estos momentos se encuentra Disparado por DAF el circuito 21",
+    "timestamp": 1770029348,
+    "timestamp_local": 1770029348
+  },
+  {
+    "id": 49155,
+    "fecha": "02 de Feb del 2026 a las 05:48 AM",
+    "hora_utc": "2026-02-02 10:48",
+    "mensaje": "🔊Estimados clientes en estos momentos se encuentra afectados por Déficit de Capacidad de Generación los circuitos 11 , 26 , 20 ,7 , 1 , 14 de Santiago , 1 , 4 de Palma y La Línea 5385 San Luis - Contramaestre",
+    "timestamp": 1770029289,
+    "timestamp_local": 1770029289
+  },
+  {
     "id": 49154,
     "fecha": "02 de Feb del 2026 a las 02:50 AM",
     "hora_utc": "2026-02-02 07:50",
@@ -118,45 +158,5 @@
     "mensaje": "🚨Manipulaciones:\nAcción que se realizan en los circuitos para dar paso al trabajo en zonas afectadas por averías o Vía Libre y posteriormente para restablecer el servicio eléctrico en los circuitos que se encontraban afectados y en los que se trabaja con anterioridad, luego de culminadas las labores pertinentes.",
     "timestamp": 1769997970,
     "timestamp_local": 1769997970
-  },
-  {
-    "id": 49139,
-    "fecha": "01 de Feb del 2026 a las 09:05 PM",
-    "hora_utc": "2026-02-02 02:05",
-    "mensaje": "🔊Estimados clientes en estos momentos se está Manipulando La Línea 5385 San Luis - Palma",
-    "timestamp": 1769997944,
-    "timestamp_local": 1769997944
-  },
-  {
-    "id": 49138,
-    "fecha": "01 de Feb del 2026 a las 08:08 PM",
-    "hora_utc": "2026-02-02 01:08",
-    "mensaje": "🔊Estimados clientes en estos momentos se encuentra afectados por Déficit de Capacidad de Generación el circuito 16 y Las Líneas 4435 Contramaestre , 4390 Contramaestre",
-    "timestamp": 1769994482,
-    "timestamp_local": 1769994482
-  },
-  {
-    "id": 49137,
-    "fecha": "01 de Feb del 2026 a las 08:05 PM",
-    "hora_utc": "2026-02-02 01:05",
-    "mensaje": "🚨Circuito en avería:                                                                                                                          Sucede si un circuito se interrumpe por causa de un defecto en un cable conductor de corriente (fase o neutro), un fusible fundido o disyuntor. En sistemas trifásicos una falla puede implicar una fase, más de una fase con la tierra o puede ocurrir solo entre fases",
-    "timestamp": 1769994346,
-    "timestamp_local": 1769994346
-  },
-  {
-    "id": 49136,
-    "fecha": "01 de Feb del 2026 a las 08:05 PM",
-    "hora_utc": "2026-02-02 01:05",
-    "mensaje": "🔊Estimados clientes en estos momentos se encuentra en Avería La Línea 5330 el Cristo",
-    "timestamp": 1769994323,
-    "timestamp_local": 1769994323
-  },
-  {
-    "id": 49135,
-    "fecha": "01 de Feb del 2026 a las 07:36 PM",
-    "hora_utc": "2026-02-02 00:36",
-    "mensaje": "🔊Estimados clientes en estos momentos se encuentra afectados por Déficit de Capacidad de Generación La Línea 5380 Mella y La 5975 Baconao",
-    "timestamp": 1769992563,
-    "timestamp_local": 1769992563
   }
 ]
