@@ -1,5 +1,45 @@
 [
   {
+    "id": 18026,
+    "fecha": "02 de Feb del 2026 a las 04:06 PM",
+    "hora_utc": "2026-02-02 21:06",
+    "mensaje": "Se restablece el circuito:TJ11 Bartle",
+    "timestamp": 1770066367,
+    "timestamp_local": 1770066367
+  },
+  {
+    "id": 18025,
+    "fecha": "02 de Feb del 2026 a las 03:07 PM",
+    "hora_utc": "2026-02-02 20:07",
+    "mensaje": "Se restablecen los circuitos:\nTK106 Palancón, Buena Vista\nTK5 Buena Vista, Los Pinos",
+    "timestamp": 1770062849,
+    "timestamp_local": 1770062849
+  },
+  {
+    "id": 18023,
+    "fecha": "02 de Feb del 2026 a las 02:56 PM",
+    "hora_utc": "2026-02-02 19:56",
+    "mensaje": "Disparados por DAF los circuitos:\nTK106 Palancón, Buena Vista\nTK5 Buena Vista, Los Pinos",
+    "timestamp": 1770062211,
+    "timestamp_local": 1770062211
+  },
+  {
+    "id": 18022,
+    "fecha": "02 de Feb del 2026 a las 02:44 PM",
+    "hora_utc": "2026-02-02 19:44",
+    "mensaje": "Se declara en avería el circuito:TJ11 Bartle por cable en el suelo de la línea principal. Se trabaja para solucionar lo antes posible. Ofrecemos disculpas por las molestias ocasionadas.",
+    "timestamp": 1770061495,
+    "timestamp_local": 1770061495
+  },
+  {
+    "id": 18021,
+    "fecha": "02 de Feb del 2026 a las 01:13 PM",
+    "hora_utc": "2026-02-02 18:13",
+    "mensaje": "Informamos a nuestros clientes que se encuentra en avería el circuito:\nCircuito 33 Kv: 6820 Poblado Amancio\nTK75 Vicente Pérez \nTK77 San Alberto\nTK78 Ana Luisa\nTK76 El Paraíso",
+    "timestamp": 1770056014,
+    "timestamp_local": 1770056014
+  },
+  {
     "id": 18020,
     "fecha": "01 de Feb del 2026 a las 08:57 AM",
     "hora_utc": "2026-02-01 13:57",
@@ -86,45 +126,5 @@
     "mensaje": "Se afectan los siguientes circuitos por déficit de generación:\nCircuito 33 Kv: 2020\nTK85 Leningrado \nTK108 Tasajera\nTK84 El Triángulo \nTK86 Poblado Colombia \nTK88 Dos Hermanos\nTK107 La Islita \nTK 112 Argentina Norte \nTK111 Ramírez\nTK48 Puerto Padre y Maniabón\nTK41 Calixto\nTK40 Vista Alegre\nTK42 Gastón y Arroyo Muerto\nTK44 Vivienda\nTK24 Reparto Santo Domingo\nTK1 Edificios de Buena Vista\nTK12 Las 40 y Nuevo Sosa\nTK6 Calle Cuba y zona sur de Buena Vista",
     "timestamp": 1769707373,
     "timestamp_local": 1769707373
-  },
-  {
-    "id": 18005,
-    "fecha": "29 de Jan del 2026 a las 12:04 PM",
-    "hora_utc": "2026-01-29 17:04",
-    "mensaje": "Solucionada la avería del circuito:TK74 La Lomita",
-    "timestamp": 1769706271,
-    "timestamp_local": 1769706271
-  },
-  {
-    "id": 18004,
-    "fecha": "29 de Jan del 2026 a las 09:22 AM",
-    "hora_utc": "2026-01-29 14:22",
-    "mensaje": "La Empresa Eléctrica Las Tunas informa que, según la nota emitida por la Unión Eléctrica para el 29 de enero, en el día de ayer se afectó el servicio durante las 24 horas. En nuestra provincia se afectaron la totalidad de los circuitos apagables, con una máxima afectación de 63.77 MW.\nActualmente están fuera de servicio por avería: \nUnidad 5 de la CTE Mariel, Unidad 1 de la CTE Santa Cruz, Unidad 5 de Nuevitas, Unidad 2 de la CTE Felton y Unidades 3 y 6 de la CTE Antonio Maceo.\nEn mantenimiento se encuentran:  \nUnidades 2 y 3 de la CTE Santa Cruz, Unidad 4 de la CTE Carlos Manuel de Céspedes en Cienfuegos.  \nEn el horario de la media se estima una afectación de 1050 MW, lo cual puede representar el 80% de los circuitos apagables en la provincia.\nEn el horario nocturno se estima una afectación de 1795 MW, lo cual puede representar el 90%. Estos valores pueden variar según la demanda nacional.",
-    "timestamp": 1769696542,
-    "timestamp_local": 1769696542
-  },
-  {
-    "id": 18003,
-    "fecha": "29 de Jan del 2026 a las 09:14 AM",
-    "hora_utc": "2026-01-29 14:14",
-    "mensaje": "Se declaran en avería los siguientes circuitos:\nTK74 La Lomita\nTK59 Vedado 3\nSe trabaja para solucionar lo antes posible.Ofrecemos disculpas por las molestias ocasionadas.",
-    "timestamp": 1769696081,
-    "timestamp_local": 1769696081
-  },
-  {
-    "id": 18002,
-    "fecha": "29 de Jan del 2026 a las 09:05 AM",
-    "hora_utc": "2026-01-29 14:05",
-    "mensaje": "Se restablecen los siguientes circuitos:\nCircuito 33 Kv: 6230\nTK59 Vedado 3\nTK67 Porcino\nTK68 Vedado 6\nTK69 Poblado de Menéndez\nTK70 Transporte\nTK99 Santa Marías\nTK98 San Manuel, La Pedrera\nTK64 Palma Picada\nTK47 La Micro Puerto Padre\nTK41 Calixto\nTK40 Vista Alegre\nTK42 Gastón y Arroyo Muerto\nTK45 La Ceiba\nTK43 Las Parras, Omaja y Cañada Honda\nTK44 Vivienda",
-    "timestamp": 1769695501,
-    "timestamp_local": 1769695501
-  },
-  {
-    "id": 18001,
-    "fecha": "29 de Jan del 2026 a las 08:05 AM",
-    "hora_utc": "2026-01-29 13:05",
-    "mensaje": "Nota Informativa: Estado del Sistema Eléctrico Nacional (SEN) – 29 de enero de 2026\n\nEn el día de ayer se afectó el servicio durante las 24 horas. La máxima afectación por déficit de capacidad de generación en el día de ayer fue de 1832 MW a las 18:30 horas, quedando todo restablecido a las 02:35 horas de la madrugada de hoy. A las 04:11 horas se comenzó afectar nuevamente el servicio eléctrico por déficit de capacidad de generación.\n\nLa producción de energía de los 49 nuevos parques solares fotovoltaicos fue de 1929 MWh, con 284 MW como máxima potencia entregada en el horario de la media con esta fuente de generación.\nEstado actual del SEN\n\nLa disponibilidad del SEN a las 06:00 horas es de 1350 MW, la demanda 1870 MW, con 550 MW afectados. En el horario de la media se estima una afectación de 1050 MW.\nPrincipales incidencias\n\n    Avería: Unidad 5 de la CTE Mariel, Unidad 1 de la CTE Santa Cruz, Unidad 5 de Nuevitas, Unidad 2 de la CTE Felton y Unidades 3 y 6 de la CTE Antonio Maceo.\n    Mantenimiento: Unidades 2 y 3 de la CTE Santa Cruz, Unidad 4 de la CTE Carlos Manuel de Céspedes en Cienfuegos.\n    Limitaciones en la generación térmica: 420 MW fuera de servicio.\n\nPronóstico para el horario pico\n\nPara el pico se estima la entrada de la unidad 1 de la CTE Santa Cruz con 50 MW (en proceso de arranque), la entrada de la unidad 2 de la CTE Santa Cruz con 80 MW, la entrada de la unidad 3 de la CTE Renté con 45 MW, la entrada de la patana de Melones con 45 MW y además la salida por mantenimiento de la unidad de CTE Guiteras en el horario de la mañana por 96 horas.\n\nCon este pronóstico para el pico se prevé una disponibilidad de 1385 MW con una demanda máxima de 3150 MW, para un déficit de 1765 MW, por lo que de mantenerse las condiciones previstas se pronostica una afectación de 1795 MW en este horario.",
-    "timestamp": 1769691948,
-    "timestamp_local": 1769691948
   }
 ]
