@@ -1,5 +1,45 @@
 [
   {
+    "id": 49236,
+    "fecha": "03 de Feb del 2026 a las 04:52 PM",
+    "hora_utc": "2026-02-03 21:52",
+    "mensaje": "Circuito en avería:                                                                                                                          Sucede si un circuito se interrumpe por causa de un defecto en un cable conductor de corriente (fase o neutro), un fusible fundido o disyuntor. En sistemas trifásicos una falla puede implicar una fase, más de una fase con la tierra o puede ocurrir solo entre fases",
+    "timestamp": 1770155536,
+    "timestamp_local": 1770155536
+  },
+  {
+    "id": 49235,
+    "fecha": "03 de Feb del 2026 a las 04:52 PM",
+    "hora_utc": "2026-02-03 21:52",
+    "mensaje": "🚨Estimados clientes se les informa que el circuito 26 se encuentra en Avería , disculpen por las molestias ocasionadas.",
+    "timestamp": 1770155536,
+    "timestamp_local": 1770155536
+  },
+  {
+    "id": 49234,
+    "fecha": "03 de Feb del 2026 a las 04:43 PM",
+    "hora_utc": "2026-02-03 21:43",
+    "mensaje": "Disparo Automático de Frecuencia (DAF):\nOcurre cuando la frecuencia está por debajo de los 60Hz y determinada carga o circuito se desconecta del sistema automáticamente hasta que se estabilice.",
+    "timestamp": 1770155009,
+    "timestamp_local": 1770155009
+  },
+  {
+    "id": 49233,
+    "fecha": "03 de Feb del 2026 a las 04:33 PM",
+    "hora_utc": "2026-02-03 21:33",
+    "mensaje": "🚨Estimados clientes se les informa que el circuito 7 y 11 de Santiago se encuentra Disparados por DAF, disculpen por las molestias ocasionadas.",
+    "timestamp": 1770154432,
+    "timestamp_local": 1770154432
+  },
+  {
+    "id": 49232,
+    "fecha": "03 de Feb del 2026 a las 04:29 PM",
+    "hora_utc": "2026-02-03 21:29",
+    "mensaje": "🚨Estimados clientes en estos momentos se encuentra afectados por Déficit de Capacidad de Generación los circuitos 12 , 21 de Santiago ,  la línea 5380 Mella , 4390 Contramaestre , disculpen por las molestias ocasionadas.",
+    "timestamp": 1770154178,
+    "timestamp_local": 1770154178
+  },
+  {
     "id": 49231,
     "fecha": "03 de Feb del 2026 a las 04:05 PM",
     "hora_utc": "2026-02-03 21:05",
@@ -118,37 +158,5 @@
     "mensaje": "🚨Estimados clientes en estos momentos se encuentra afectados por Déficit de Capacidad de Generación los circuitos 7 , 9 , 11 , 16 , 20 , 26 de Santiago , 1 de Palma y la línea 4395 Contramaestre , disculpen por las molestias ocasionadas.",
     "timestamp": 1770123805,
     "timestamp_local": 1770123805
-  },
-  {
-    "id": 49215,
-    "fecha": "03 de Feb del 2026 a las 06:51 AM",
-    "hora_utc": "2026-02-03 11:51",
-    "mensaje": "🚨Déficit de Capacidad de Generación:    \nSe produce cuando la demanda del Sistema Eléctrico Nacional, en determinado horario del día, supera la generación disponible del país, provocando la desconexión de los circuitos o líneas que permitan garantizar la frecuencia del SEN.",
-    "timestamp": 1770119498,
-    "timestamp_local": 1770119498
-  },
-  {
-    "id": 49214,
-    "fecha": "03 de Feb del 2026 a las 06:43 AM",
-    "hora_utc": "2026-02-03 11:43",
-    "mensaje": "🚨Estimados clientes en estos momentos se encuentra afectado  por Déficit la Línea 5330-Cristo.",
-    "timestamp": 1770118995,
-    "timestamp_local": 1770118995
-  },
-  {
-    "id": 49213,
-    "fecha": "03 de Feb del 2026 a las 06:29 AM",
-    "hora_utc": "2026-02-03 11:29",
-    "mensaje": "🔊Le informamos a nuestros clientes que se encuentran afectados por Déficit los circuitos 8, 23 , 24 y  Línea 5390-La Maya-ll Frente .",
-    "timestamp": 1770118188,
-    "timestamp_local": 1770118188
-  },
-  {
-    "id": 49212,
-    "fecha": "03 de Feb del 2026 a las 06:27 AM",
-    "hora_utc": "2026-02-03 11:27",
-    "mensaje": "🚨Se les informa que se encuentran afectados por Déficit los circuitos 4 de Palma ,14, 19, 21, 25, 1+2, 13 y Línea 5975-Baconao.",
-    "timestamp": 1770118066,
-    "timestamp_local": 1770118066
   }
 ]
