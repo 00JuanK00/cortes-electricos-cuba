@@ -1,5 +1,21 @@
 [
   {
+    "id": 39550,
+    "fecha": "03 de Feb del 2026 a las 01:00 PM",
+    "hora_utc": "2026-02-03 18:00",
+    "mensaje": "⚠️Afectados por déficit de generación los siguientes circuitos:\n🔹Municipio Santa Clara:\nCtos 2 y 4 (Consejo-Centro)\n🔹Municipio Encrucijada:\nCto 122 Encrucijada  \nCto 123 Vizcaya \nCto 142 Comunidad La Sierra \nCto 126 Batey Emilio Córdova\nCto 125 Cavarrocas\nCto 124 El Santo (Avería)\n🔹Municipio Camajuaní:                                                              \nCto 78 Jutiero",
+    "timestamp": 1770141629,
+    "timestamp_local": 1770141629
+  },
+  {
+    "id": 39549,
+    "fecha": "03 de Feb del 2026 a las 12:39 PM",
+    "hora_utc": "2026-02-03 17:39",
+    "mensaje": "⚠️Afectados por déficit de generación los siguientes circuitos:\n🔹Municipio Quemado:\n👉Ctos 164, 52 y 53 Quemado.",
+    "timestamp": 1770140378,
+    "timestamp_local": 1770140378
+  },
+  {
     "id": 39548,
     "fecha": "03 de Feb del 2026 a las 12:21 PM",
     "hora_utc": "2026-02-03 17:21",
@@ -91,7 +107,7 @@
     "id": 39536,
     "fecha": "03 de Feb del 2026 a las 11:24 AM",
     "hora_utc": "2026-02-03 16:24",
-    "mensaje": "Con servicio la línea 6375:\n🔹Municipio Santa Clara\nCto 146 (Elevado Aeropuerto)\nCto 22 (Construcciones Textil)\nCto 153 (EIDE) \nCtos 14, 15 y 27 (Maleza)\nCto 24 Planta Asfalto\nCto 25 Los Güiros\n\nCto 35 Biotecnología\n✍️ Quedan afectados los circuitos 7 y 131 (Universidad) por trabajo de vía libre por poste inclinado.",
+    "mensaje": "Con servicio la línea 6375:\n🔹Municipio Santa Clara\nCto 146 (Elevado Aeropuerto)\nCto 22 (Construcciones Textil)\nCto 153 (EIDE) \nCtos 14, 15 y 27 (Maleza)\nCto 24 Planta Asfalto\n\nCto 25 Los Güiros\nCto 7 (Universidad)\nCto 35 Biotecnología\n✍️ Queda afectado el circuito 131 (Las Antillas) por trabajo de vía libre por poste inclinado.",
     "timestamp": 1770135881,
     "timestamp_local": 1770135881
   },
@@ -142,21 +158,5 @@
     "mensaje": "💡Restablecidos los siguientes circuitos:\n🔹Municipio Remedios:\nCtos 67 y 152, 68 y 118 \nCtos 69 y 70 Zuluetas\nCto 143 Batey Heriberto Duquezne \nCto 71 Buena Vista (En Avería parcial)",
     "timestamp": 1770132881,
     "timestamp_local": 1770132881
-  },
-  {
-    "id": 39529,
-    "fecha": "03 de Feb del 2026 a las 10:01 AM",
-    "hora_utc": "2026-02-03 15:01",
-    "mensaje": "Actualización del servicio eléctrico en la provincia🔸\n✍️Se mantienen afectados en la provincia 69 circuitos.\n✍️En el momento de hacer esta nota la provincia tiene 52 MW por déficit de capacidad de generación.\n✍️Cuenta con 99 afectaciones por averías secundarias y de servicio.",
-    "timestamp": 1770130918,
-    "timestamp_local": 1770130918
-  },
-  {
-    "id": 39528,
-    "fecha": "03 de Feb del 2026 a las 09:19 AM",
-    "hora_utc": "2026-02-03 14:19",
-    "mensaje": "La Provincia presenta 2 afectaciones de servicio eléctrico por transformador dañado.\n🔹Municipio Manicaragua : Victoria de Girón e/ Oriente y Libertad. Matagua\n🔹Municipio Placetas:  Calle 12 del Oeste  e/ Linea y Final .",
-    "timestamp": 1770128355,
-    "timestamp_local": 1770128355
   }
 ]
