@@ -1,5 +1,13 @@
 [
   {
+    "id": 31503,
+    "fecha": "03 de Feb del 2026 a las 10:04 AM",
+    "hora_utc": "2026-02-03 15:04",
+    "mensaje": "Pronóstico del Tiempo para hoy 03 de febrero de 2026 en #Cuba 🇨🇺.\n...día invernal y escasas lluvias...\n🌤Estará parcialmente nublado en gran parte del país, nublándose ocasionalmente en localidades de la costa norte con escasas precipitaciones. \n🌡La tarde será invernal con temperaturas máximas entre 20 y 23 grados Celsius en occidente y centro, hasta 25 grados Celsius en la porción sur oriental. La noche será muy fría, con temperaturas entre 11 y 14 grados Celsius en zonas del interior de las regiones occidental y central. En el resto estarán entre 15 y 18 grados Celsius.\n💨Los vientos serán del nordeste con velocidades entre 10 y 25 kilómetros por hora.\n🌊Habrá oleaje en el litoral norte de occidente y oriente. En el resto de las costas predominará el poco oleaje.",
+    "timestamp": 1770131095,
+    "timestamp_local": 1770131095
+  },
+  {
     "id": 31501,
     "fecha": "03 de Feb del 2026 a las 09:29 AM",
     "hora_utc": "2026-02-03 14:29",
@@ -78,21 +86,5 @@
     "mensaje": "Por déficit de capacidad de generación se encuentran afectados17 MW.\n*Grupo de Comunicación Institucional.",
     "timestamp": 1770099616,
     "timestamp_local": 1770099616
-  },
-  {
-    "id": 31483,
-    "fecha": "03 de Feb del 2026 a las 12:30 AM",
-    "hora_utc": "2026-02-03 05:30",
-    "mensaje": "Por déficit de capacidad de generación se encuentran afectados 39 MW.\n*Grupo de Comunicación Institucional.",
-    "timestamp": 1770096617,
-    "timestamp_local": 1770096617
-  },
-  {
-    "id": 31481,
-    "fecha": "02 de Feb del 2026 a las 11:51 PM",
-    "hora_utc": "2026-02-03 04:51",
-    "mensaje": "Los disparos por frecuencia tienen varias causas, la que más abunda es por salida de una unidad generadora. Otra causa es entrada brusca de carga en el sistema.\n\nEn cualquiera de las causas, se pierde el balance Demanda/Generación y actúa una protección automática que desconecta circuitos hasta lograr este balance.\n\nLo importante en ese momento no es saber que unidad se disparó sino ver cómo se restablece la carga afectada.\n\nMás o menos, en eso se traduce un disparo por frecuencia, es algo técnico que se emplea en la operación del sistema.",
-    "timestamp": 1770094307,
-    "timestamp_local": 1770094307
   }
 ]

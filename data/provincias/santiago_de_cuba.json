@@ -1,5 +1,21 @@
 [
   {
+    "id": 49220,
+    "fecha": "03 de Feb del 2026 a las 10:12 AM",
+    "hora_utc": "2026-02-03 15:12",
+    "mensaje": "Estimados clientes en estos momentos se encuentra afectados por Déficit de Capacidad de Generación los circuitos 1,2,13,25 de Santiago y la línea 5395 de San Luis , disculpen por las molestias ocasionadas.",
+    "timestamp": 1770131563,
+    "timestamp_local": 1770131563
+  },
+  {
+    "id": 49219,
+    "fecha": "03 de Feb del 2026 a las 10:04 AM",
+    "hora_utc": "2026-02-03 15:04",
+    "mensaje": "Estimados clientes en estos momentos se encuentra afectados por Déficit de Capacidad de Generación el circuito 4 de Palma, disculpen por las molestias ocasionadas.",
+    "timestamp": 1770131070,
+    "timestamp_local": 1770131070
+  },
+  {
     "id": 49218,
     "fecha": "03 de Feb del 2026 a las 09:39 AM",
     "hora_utc": "2026-02-03 14:39",
@@ -110,21 +126,5 @@
     "mensaje": "‼️Déficit de Capacidad de Generación:    \nSe produce cuando la demanda del Sistema Eléctrico Nacional, en determinado horario del día, supera la generación disponible del país, provocando la desconexión de los circuitos o líneas que permitan garantizar la frecuencia del SEN.",
     "timestamp": 1770088388,
     "timestamp_local": 1770088388
-  },
-  {
-    "id": 49200,
-    "fecha": "02 de Feb del 2026 a las 10:12 PM",
-    "hora_utc": "2026-02-03 03:12",
-    "mensaje": "🚨Estimados clientes en estos momentos se encuentran afectado por Déficit el circuito 1 de Palma y la Línea 5385-San Luis-Palma.",
-    "timestamp": 1770088370,
-    "timestamp_local": 1770088370
-  },
-  {
-    "id": 49199,
-    "fecha": "02 de Feb del 2026 a las 10:04 PM",
-    "hora_utc": "2026-02-03 03:04",
-    "mensaje": "🔴Manipulaciones:\nAcción que se realizan en los circuitos para dar paso al trabajo en zonas afectadas por averías o Vía Libre y posteriormente para restablecer el servicio eléctrico en los circuitos que se encontraban afectados y en los que se trabaja con anterioridad, luego de culminadas las labores pertinentes.",
-    "timestamp": 1770087852,
-    "timestamp_local": 1770087852
   }
 ]
