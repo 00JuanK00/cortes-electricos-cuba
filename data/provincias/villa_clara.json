@@ -1,5 +1,37 @@
 [
   {
+    "id": 39516,
+    "fecha": "03 de Feb del 2026 a las 06:16 AM",
+    "hora_utc": "2026-02-03 11:16",
+    "mensaje": "⚠️Afectados por déficit de generación los siguientes circuitos:\n👉Municipio Santa Clara: \nCto 167 (Virginia)\nCto 170 (José Martí)\nCto 171 (Los Caneyes)",
+    "timestamp": 1770117418,
+    "timestamp_local": 1770117418
+  },
+  {
+    "id": 39515,
+    "fecha": "03 de Feb del 2026 a las 06:05 AM",
+    "hora_utc": "2026-02-03 11:05",
+    "mensaje": "⚠️Afectados por déficit de generación los siguientes circuitos:\n👉Municipio Manicaragua:\nCtos 109 y 150\nCtos 108 y 110 La Piedra\nCto 111 Mataguá",
+    "timestamp": 1770116732,
+    "timestamp_local": 1770116732
+  },
+  {
+    "id": 39514,
+    "fecha": "03 de Feb del 2026 a las 05:56 AM",
+    "hora_utc": "2026-02-03 10:56",
+    "mensaje": "⚠️Afectados por déficit de generación los siguientes circuitos:\n👉Municipio Caibarién:\nCtos 61, 62 \nCtos 63 y 64\nCtos 182 y 183 Van Troy",
+    "timestamp": 1770116211,
+    "timestamp_local": 1770116211
+  },
+  {
+    "id": 39513,
+    "fecha": "03 de Feb del 2026 a las 05:55 AM",
+    "hora_utc": "2026-02-03 10:55",
+    "mensaje": "🕕Actualización del servicio eléctrico en las últimas 6 horas.\n\n👉El déficit de capacidad de generación osciló entre los 39 MW y los 29 MW.\n👉En el momento de esta nota, se mantienen afectados 65 circuitos.\n👉Cuenta con 85 afectaciones por averías secundarias y de servicio:\n Caibarién (1)\n Corralillo (4)\n Encrucijada (1)\n Manicaragua (11)\n Placetas (8)\n Ranchuelo (3)\n Remedios (15) \n Sagua (9) \n Santa Clara (17)\n Santo Domingo (8)\n🛠️Se encuentran 1 averías en vías de solución.\n🛠️Pendientes a solucionar por el área técnica 7.\n\n⚡Avería⚡\n👉Cto 71 Buena Vista del municipio Remedios, de manera parcial.\n🔸Municipio Santo Domingo:\nCto 187 Batey Carlos Baliño\nCto 82 Ulacia\nCto 84 Rodrigo",
+    "timestamp": 1770116158,
+    "timestamp_local": 1770116158
+  },
+  {
     "id": 39512,
     "fecha": "03 de Feb del 2026 a las 05:09 AM",
     "hora_utc": "2026-02-03 10:09",
@@ -11,7 +43,7 @@
     "id": 39511,
     "fecha": "03 de Feb del 2026 a las 04:59 AM",
     "hora_utc": "2026-02-03 09:59",
-    "mensaje": "⚠️Afectados por déficit de generación los siguientes circuitos:\n💡Restablecido el servicio eléctrico en los siguientes circuitos:\n👉Municipio Remedios:\nCtos 69 y 70 Zuluetas\nCto 143 Batey Heriberto Duquezne \nCto 71 Buena Vista( en estos momentos se encuentra afectado por avería de manera parcial)\nCtos 67 y 152, 68 y 118",
+    "mensaje": "⚠️Afectados por déficit de generación los siguientes circuitos:\n\n👉Municipio Remedios:\nCtos 69 y 70 Zuluetas\nCto 143 Batey Heriberto Duquezne \nCto 71 Buena Vista( en estos momentos se encuentra afectado por avería de manera parcial)\nCtos 67 y 152, 68 y 11",
     "timestamp": 1770112771,
     "timestamp_local": 1770112771
   },
@@ -118,29 +150,5 @@
     "mensaje": "🇨🇺 Actualización del Sistema Electroenergético Nacional a las 19:00 del 2 de febrero de 2026.\n\n#UnidosXCuba #NotaInformativa #UniónEléctrica #SEN",
     "timestamp": 1770079198,
     "timestamp_local": 1770079198
-  },
-  {
-    "id": 39494,
-    "fecha": "02 de Feb del 2026 a las 06:39 PM",
-    "hora_utc": "2026-02-02 23:39",
-    "mensaje": "⚠️Afectado el servicio eléctrico en el circuito 13 Zona Industrial.",
-    "timestamp": 1770075584,
-    "timestamp_local": 1770075584
-  },
-  {
-    "id": 39493,
-    "fecha": "02 de Feb del 2026 a las 06:36 PM",
-    "hora_utc": "2026-02-02 23:36",
-    "mensaje": "💡Restablecido el servicio eléctrico en el circuito 48 Finalet, del municipio Sagua.",
-    "timestamp": 1770075361,
-    "timestamp_local": 1770075361
-  },
-  {
-    "id": 39492,
-    "fecha": "02 de Feb del 2026 a las 06:05 PM",
-    "hora_utc": "2026-02-02 23:05",
-    "mensaje": "🕕Actualización del servicio eléctrico en las últimas 6 horas.\n\nEl déficit de capacidad de generación osciló entre los 61 MW y los 129 MW.\nEn el momento de esta nota, se mantienen afectados 131 circuitos.\nCuenta con 127 afectaciones por averías secundarias y de servicio:\n Caibarién (1)\n Camajuaní (1)\n Corralillo (6)\n Encrucijada (1)\n Manicaragua (14)\n Placetas (17)\n Ranchuelo (6)\n Remedios (14) \n Sagua (17) \n Santa Clara (30)\n Santo Domingo (5)\nSe encuentran 10 averías en vías de solución.\nPendientes a solucionar por el área técnica 6.\n\n⚡Avería⚡\n👉Cto 71 Buena Vista del municipio Remedios, de manera parcial.",
-    "timestamp": 1770073540,
-    "timestamp_local": 1770073540
   }
 ]
