@@ -1,5 +1,45 @@
 [
   {
+    "id": 31483,
+    "fecha": "03 de Feb del 2026 a las 12:30 AM",
+    "hora_utc": "2026-02-03 05:30",
+    "mensaje": "Por déficit de capacidad de generación se encuentran afectados 39 MW.\n*Grupo de Comunicación Institucional.",
+    "timestamp": 1770096617,
+    "timestamp_local": 1770096617
+  },
+  {
+    "id": 31481,
+    "fecha": "02 de Feb del 2026 a las 11:51 PM",
+    "hora_utc": "2026-02-03 04:51",
+    "mensaje": "Los disparos por frecuencia tienen varias causas, la que más abunda es por salida de una unidad generadora. Otra causa es entrada brusca de carga en el sistema.\n\nEn cualquiera de las causas, se pierde el balance Demanda/Generación y actúa una protección automática que desconecta circuitos hasta lograr este balance.\n\nLo importante en ese momento no es saber que unidad se disparó sino ver cómo se restablece la carga afectada.\n\nMás o menos, en eso se traduce un disparo por frecuencia, es algo técnico que se emplea en la operación del sistema.",
+    "timestamp": 1770094307,
+    "timestamp_local": 1770094307
+  },
+  {
+    "id": 31480,
+    "fecha": "02 de Feb del 2026 a las 11:40 PM",
+    "hora_utc": "2026-02-03 04:40",
+    "mensaje": "📌 Estimado cliente: 📌\n - 🛠 Se encuentran en fallo los siguientes Circuitos Sub Lumumba a partir de la L05 afectando Batey Oriente Rebelde, México y zonas aleda;as, Circuito 3 de Florida se afecta y Circuito Y 545 Imías se afecta toda la Distribución.\n -Se trabaja para resolver la avería en el menor tiempo posible; ofrecemos disculpas                                                                                                                            por las molestias ocasionadas.\n*Grupo de Comunicación Institucional.",
+    "timestamp": 1770093645,
+    "timestamp_local": 1770093645
+  },
+  {
+    "id": 31479,
+    "fecha": "02 de Feb del 2026 a las 11:36 PM",
+    "hora_utc": "2026-02-03 04:36",
+    "mensaje": "Por déficit de capacidad de generación se encuentran afectados 44 MW.\n*Grupo de Comunicación Institucional.",
+    "timestamp": 1770093386,
+    "timestamp_local": 1770093386
+  },
+  {
+    "id": 31477,
+    "fecha": "02 de Feb del 2026 a las 11:02 PM",
+    "hora_utc": "2026-02-03 04:02",
+    "mensaje": "Por déficit de capacidad de generación se encuentran afectados 54 MW.\n*Grupo de Comunicación Institucional.",
+    "timestamp": 1770091335,
+    "timestamp_local": 1770091335
+  },
+  {
     "id": 31476,
     "fecha": "02 de Feb del 2026 a las 10:35 PM",
     "hora_utc": "2026-02-03 03:35",
@@ -70,45 +110,5 @@
     "mensaje": "Por déficit de capacidad de generación se encuentran afectados 141 MW.\n*Grupo de Comunicación Institucional.",
     "timestamp": 1770073827,
     "timestamp_local": 1770073827
-  },
-  {
-    "id": 31461,
-    "fecha": "02 de Feb del 2026 a las 05:49 PM",
-    "hora_utc": "2026-02-02 22:49",
-    "mensaje": "Por déficit de capacidad de generación se encuentran afectados 123 MW.\n*Grupo de Comunicación Institucional.",
-    "timestamp": 1770072554,
-    "timestamp_local": 1770072554
-  },
-  {
-    "id": 31459,
-    "fecha": "02 de Feb del 2026 a las 05:31 PM",
-    "hora_utc": "2026-02-02 22:31",
-    "mensaje": "📌 Estimado cliente: 📌\n - 🛠 Se encuentran en fallo los siguientes Circuitos Y128, Y282, Y283 Y Y410\n -Se trabaja para resolver la avería en el menor tiempo posible; ofrecemos disculpas                                                                                                                            por las molestias ocasionadas.\n*Grupo de Comunicación Institucional.",
-    "timestamp": 1770071485,
-    "timestamp_local": 1770071485
-  },
-  {
-    "id": 31458,
-    "fecha": "02 de Feb del 2026 a las 05:13 PM",
-    "hora_utc": "2026-02-02 22:13",
-    "mensaje": "Por déficit de capacidad de generación se encuentran afectados 120 MW.\n*Grupo de Comunicación Institucional.",
-    "timestamp": 1770070408,
-    "timestamp_local": 1770070408
-  },
-  {
-    "id": 31457,
-    "fecha": "02 de Feb del 2026 a las 04:31 PM",
-    "hora_utc": "2026-02-02 21:31",
-    "mensaje": "Por déficit de capacidad de generación se encuentran afectados 109 MW.\n*Grupo de Comunicación Institucional.",
-    "timestamp": 1770067906,
-    "timestamp_local": 1770067906
-  },
-  {
-    "id": 31456,
-    "fecha": "02 de Feb del 2026 a las 04:31 PM",
-    "hora_utc": "2026-02-02 21:31",
-    "mensaje": "📌 Estimados Clientes 📌\n\n☎️ Si tienen alguna avería eléctrica, recordamos a nuestros clientes que: \n📞 Haga su reporte al Centro de Atención Telefónico mediante el 18888, estamos a su servicio 24 horas.\n📞 Tener disponible el ID (número de 13 dígitos) de la factura eléctrica, para facilitar su reporte.  \n📞 Conocer la dirección de su vivienda: número de vivienda, calle, entre calles, localidad o reparto.\n📞 Ubicar un punto de referencia que permita llegar a su vivienda con mayor rapidez (lugar o persona reconocida en la zona).\n📞 Anote el número de su reporte para ser utilizado en caso de reclamaciones o para comprobar el estado del mismo.\n\n*Grupo de Comunicación Institucional.",
-    "timestamp": 1770067861,
-    "timestamp_local": 1770067861
   }
 ]
