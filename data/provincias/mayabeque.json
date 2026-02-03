@@ -1,5 +1,45 @@
 [
   {
+    "id": 105566,
+    "fecha": "03 de Feb del 2026 a las 11:24 AM",
+    "hora_utc": "2026-02-03 16:24",
+    "mensaje": "🚨Por déficit de capacidad de generación se afecta el servicio en el siguiente circuito:\n*San Nicolás 1 🚨",
+    "timestamp": 1770135892,
+    "timestamp_local": 1770135892
+  },
+  {
+    "id": 105565,
+    "fecha": "03 de Feb del 2026 a las 11:09 AM",
+    "hora_utc": "2026-02-03 16:09",
+    "mensaje": "🔷Restablecido el servicio en los circuitos Sopapo 1 y 2, quedando afectado el servicio en las siguientes zonas por avería:\n*La Julia \n*Plan Carretón♦️",
+    "timestamp": 1770134993,
+    "timestamp_local": 1770134993
+  },
+  {
+    "id": 105564,
+    "fecha": "03 de Feb del 2026 a las 11:00 AM",
+    "hora_utc": "2026-02-03 16:00",
+    "mensaje": "♦️Afectado el servicio en el circuito 3590 por disparo por DAF♦️",
+    "timestamp": 1770134432,
+    "timestamp_local": 1770134432
+  },
+  {
+    "id": 105563,
+    "fecha": "03 de Feb del 2026 a las 10:59 AM",
+    "hora_utc": "2026-02-03 15:59",
+    "mensaje": "♦️Afectado el servicio en el circuito 3140 por disparo por DAF♦️",
+    "timestamp": 1770134364,
+    "timestamp_local": 1770134364
+  },
+  {
+    "id": 105562,
+    "fecha": "03 de Feb del 2026 a las 10:37 AM",
+    "hora_utc": "2026-02-03 15:37",
+    "mensaje": "📣🚨Continúa afectado el servicio en las siguientes zonas de los siguientes circuitos por avería:\n\n👉3930(Sub Petróleo)\n*El Caribe\n*Base de Cohetes \n*IBM #3\n*Zonas aledañas\n\n👉3665\n\n👉2420\n\n👉 Sopapo 1 y 2\n\n👉 Menocal\n*Miraflores\n*Comunidad Babiney \n*Santa Irene\n*Cotilla 2\n*Zonas aledañas\n\n👉 Magela\n*Campamento Hermanos Almejeiras \n*Finca Los Dátiles\n*19 de Abril\n*Manuel Isla\n*Ariel Beltrán\n*El Plátano\n\n👉 Caamaño\n*Lechuga\n*Josefita\n*Santa Ana\n*Sierra Maestra\n*Guajenes\n*Cantón🚨📣",
+    "timestamp": 1770133079,
+    "timestamp_local": 1770133079
+  },
+  {
     "id": 105561,
     "fecha": "03 de Feb del 2026 a las 10:25 AM",
     "hora_utc": "2026-02-03 15:25",
@@ -110,45 +150,5 @@
     "mensaje": "♦️Afectado el servicio en los siguientes circuitos por avería:\n*Sopapo 1 y 2♦️",
     "timestamp": 1770122076,
     "timestamp_local": 1770122076
-  },
-  {
-    "id": 105545,
-    "fecha": "03 de Feb del 2026 a las 07:33 AM",
-    "hora_utc": "2026-02-03 12:33",
-    "mensaje": "🚨Por déficit de capacidad de generación se afecta el servicio en los siguientes circuitos:\n*Batabanó\n*Camacho 1 y 2🚨",
-    "timestamp": 1770122008,
-    "timestamp_local": 1770122008
-  },
-  {
-    "id": 105544,
-    "fecha": "03 de Feb del 2026 a las 07:21 AM",
-    "hora_utc": "2026-02-03 12:21",
-    "mensaje": "🚨Por déficit de capacidad de generación se afecta el servicio en el siguiente circuito:\n*Bio 1🚨",
-    "timestamp": 1770121261,
-    "timestamp_local": 1770121261
-  },
-  {
-    "id": 105543,
-    "fecha": "03 de Feb del 2026 a las 06:50 AM",
-    "hora_utc": "2026-02-03 11:50",
-    "mensaje": "🚨Por déficit de capacidad de generación se afecta el servicio en los siguientes circuitos:\n*3655\n*3660🚨",
-    "timestamp": 1770119453,
-    "timestamp_local": 1770119453
-  },
-  {
-    "id": 105542,
-    "fecha": "03 de Feb del 2026 a las 06:40 AM",
-    "hora_utc": "2026-02-03 11:40",
-    "mensaje": "🔷 Restablecido el servicio en el circuito 3140 que se encontraba afectado por disparo por DAF 🔷",
-    "timestamp": 1770118821,
-    "timestamp_local": 1770118821
-  },
-  {
-    "id": 105541,
-    "fecha": "03 de Feb del 2026 a las 06:39 AM",
-    "hora_utc": "2026-02-03 11:39",
-    "mensaje": "🔷 Restablecido el servicio en las siguientes zonas correspondientes al circuito Madruga que se encontraban afectados por Avería:\n*Chambolin\n*Pipian\n*San Julián\n*El Sixto 🔷",
-    "timestamp": 1770118792,
-    "timestamp_local": 1770118792
   }
 ]

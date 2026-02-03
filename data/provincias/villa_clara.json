@@ -1,5 +1,69 @@
 [
   {
+    "id": 39537,
+    "fecha": "03 de Feb del 2026 a las 11:26 AM",
+    "hora_utc": "2026-02-03 16:26",
+    "mensaje": "⚠️Afectado por déficit de capacidad de generación el circuito 168 (Condado XX-Aniversario) del municipio Santa Clara.",
+    "timestamp": 1770135965,
+    "timestamp_local": 1770135965
+  },
+  {
+    "id": 39536,
+    "fecha": "03 de Feb del 2026 a las 11:24 AM",
+    "hora_utc": "2026-02-03 16:24",
+    "mensaje": "Con servicio la línea 6375:\n🔹Municipio Santa Clara\nCto 7 (Universidad)  \nCto 146 (Elevado Aeropuerto)\nCto 22 (Construcciones Textil)\nCto 131 (Las Antillas\nCto 153 (EIDE) \nCtos 14, 15 y 27 (Maleza)\nCto 24 Planta Asfalto\nCto 25 Los Güiros\nCto 35 Biotecnología",
+    "timestamp": 1770135881,
+    "timestamp_local": 1770135881
+  },
+  {
+    "id": 39535,
+    "fecha": "03 de Feb del 2026 a las 11:20 AM",
+    "hora_utc": "2026-02-03 16:20",
+    "mensaje": "🛠️Manipulación de las líneas 1785 y 129:\nAfecta los siguientes circuitos:\nMunicipio Santa Clara:\nCto 6 (Vigía)\nCto 34(Sabana Rebacadero)\nCtos 32 y 33 (RF-33Kv)\nCto 39 (Sandino)\nCto 40 Hospital Militar",
+    "timestamp": 1770135631,
+    "timestamp_local": 1770135631
+  },
+  {
+    "id": 39534,
+    "fecha": "03 de Feb del 2026 a las 11:15 AM",
+    "hora_utc": "2026-02-03 16:15",
+    "mensaje": "🛠️Manipulación de la línea 6375:\nAfecta los siguientes circuitos:\n🔹Municipio Santa Clara\nCto 7 (Universidad)  \nCto 146 (Elevado Aeropuerto)\nCto 22 (Construcciones Textil)\nCto 131 (Las Antillas\nCto 153 (EIDE) \nCtos 14, 15 y 27 (Maleza)\nCto 24 Planta Asfalto\nCto 25 Los Güiros\nCto 35 Biotecnología",
+    "timestamp": 1770135335,
+    "timestamp_local": 1770135335
+  },
+  {
+    "id": 39533,
+    "fecha": "03 de Feb del 2026 a las 11:12 AM",
+    "hora_utc": "2026-02-03 16:12",
+    "mensaje": "⚠️Afectado por déficit de capacidad de generación el circuito 129 del municipio Camajuaní.",
+    "timestamp": 1770135177,
+    "timestamp_local": 1770135177
+  },
+  {
+    "id": 39532,
+    "fecha": "03 de Feb del 2026 a las 11:01 AM",
+    "hora_utc": "2026-02-03 16:01",
+    "mensaje": "⚠️Afectados por déficit de generación los siguientes circuitos:\n🔹Municipio Remedios\n👉Ctos 68 y 118",
+    "timestamp": 1770134502,
+    "timestamp_local": 1770134502
+  },
+  {
+    "id": 39531,
+    "fecha": "03 de Feb del 2026 a las 10:42 AM",
+    "hora_utc": "2026-02-03 15:42",
+    "mensaje": "⚠️Afectados por déficit de generación los siguientes circuitos:\n🔹Municipio Remedios\n👉Ctos 67 y 152",
+    "timestamp": 1770133350,
+    "timestamp_local": 1770133350
+  },
+  {
+    "id": 39530,
+    "fecha": "03 de Feb del 2026 a las 10:34 AM",
+    "hora_utc": "2026-02-03 15:34",
+    "mensaje": "💡Restablecidos los siguientes circuitos:\n🔹Municipio Remedios:\nCtos 67 y 152, 68 y 118 \nCtos 69 y 70 Zuluetas\nCto 143 Batey Heriberto Duquezne \nCto 71 Buena Vista (En Avería parcial)",
+    "timestamp": 1770132881,
+    "timestamp_local": 1770132881
+  },
+  {
     "id": 39529,
     "fecha": "03 de Feb del 2026 a las 10:01 AM",
     "hora_utc": "2026-02-03 15:01",
@@ -94,61 +158,5 @@
     "mensaje": "⚡Afectado por avería el circuito 6 Vigía, por estar faltando una fase .",
     "timestamp": 1770120869,
     "timestamp_local": 1770120869
-  },
-  {
-    "id": 39517,
-    "fecha": "03 de Feb del 2026 a las 06:57 AM",
-    "hora_utc": "2026-02-03 11:57",
-    "mensaje": "⚠️Afectados por déficit de generación los siguientes circuitos:\n👉Municipio Sagua\nCtos 50 y 147 Villa Alegre\nCtos 43, 51 Sagua",
-    "timestamp": 1770119879,
-    "timestamp_local": 1770119879
-  },
-  {
-    "id": 39516,
-    "fecha": "03 de Feb del 2026 a las 06:16 AM",
-    "hora_utc": "2026-02-03 11:16",
-    "mensaje": "⚠️Afectados por déficit de generación los siguientes circuitos:\n👉Municipio Santa Clara: \nCto 167 (Virginia)\nCto 170 (José Martí)\nCto 171 (Los Caneyes)",
-    "timestamp": 1770117418,
-    "timestamp_local": 1770117418
-  },
-  {
-    "id": 39515,
-    "fecha": "03 de Feb del 2026 a las 06:05 AM",
-    "hora_utc": "2026-02-03 11:05",
-    "mensaje": "⚠️Afectados por déficit de generación los siguientes circuitos:\n👉Municipio Manicaragua:\nCtos 109 y 150\nCtos 108 y 110 La Piedra\nCto 111 Mataguá",
-    "timestamp": 1770116732,
-    "timestamp_local": 1770116732
-  },
-  {
-    "id": 39513,
-    "fecha": "03 de Feb del 2026 a las 05:55 AM",
-    "hora_utc": "2026-02-03 10:55",
-    "mensaje": "⚠️Afectados por déficit de generación los siguientes circuitos:\n👉Municipio Caibarién:\nCtos 61, 62 \nCtos 63 y 64\nCtos 182 y 183 Van Troy",
-    "timestamp": 1770116158,
-    "timestamp_local": 1770116158
-  },
-  {
-    "id": 39512,
-    "fecha": "03 de Feb del 2026 a las 05:09 AM",
-    "hora_utc": "2026-02-03 10:09",
-    "mensaje": "⚠️Afectados por déficit de generación los siguientes circuitos:\n👉Municipio Placetas \nCtos 100 y 151 Placetas\nCto 104 Hermanos Amejeiras\nCto 103 Batey Carbó Servía",
-    "timestamp": 1770113360,
-    "timestamp_local": 1770113360
-  },
-  {
-    "id": 39511,
-    "fecha": "03 de Feb del 2026 a las 04:59 AM",
-    "hora_utc": "2026-02-03 09:59",
-    "mensaje": "⚠️Afectados por déficit de generación los siguientes circuitos:\n\n👉Municipio Remedios:\nCtos 69 y 70 Zuluetas\nCto 143 Batey Heriberto Duquezne \nCto 71 Buena Vista( en estos momentos se encuentra afectado por avería de manera parcial)\nCtos 67 y 152, 68 y 11",
-    "timestamp": 1770112771,
-    "timestamp_local": 1770112771
-  },
-  {
-    "id": 39510,
-    "fecha": "03 de Feb del 2026 a las 04:35 AM",
-    "hora_utc": "2026-02-03 09:35",
-    "mensaje": "⚠️Afectados por déficit de generación los siguientes circuitos:\n\n👉Municipio Cifuentes:\nCtos 114 y 117\nCtos 116 y 155 Mata\nCto 186 Batey Unidad Proletaria\nCto 184 Sitio Grande",
-    "timestamp": 1770111325,
-    "timestamp_local": 1770111325
   }
 ]
