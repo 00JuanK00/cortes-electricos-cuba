@@ -1,5 +1,13 @@
 [
   {
+    "id": 105724,
+    "fecha": "04 de Feb del 2026 a las 06:45 PM",
+    "hora_utc": "2026-02-04 23:45",
+    "mensaje": "🚨Por déficit de capacidad de generación se afecta el servicio en el siguiente circuito:\n*2440 🚨",
+    "timestamp": 1770248703,
+    "timestamp_local": 1770248703
+  },
+  {
     "id": 105723,
     "fecha": "04 de Feb del 2026 a las 06:16 PM",
     "hora_utc": "2026-02-04 23:16",
@@ -27,7 +35,7 @@
     "id": 105720,
     "fecha": "04 de Feb del 2026 a las 06:09 PM",
     "hora_utc": "2026-02-04 23:09",
-    "mensaje": "🚨Por déficit de capacidad de generación se afecta el servicio en los l siguientes circuitos:\n*3655\n *3660 🚨",
+    "mensaje": "🚨Por déficit de capacidad de generación se afecta el servicio en los siguientes circuitos:\n*3655\n *3660 🚨",
     "timestamp": 1770246591,
     "timestamp_local": 1770246591
   },
@@ -150,13 +158,5 @@
     "mensaje": "🔷 Cerrado el circuito 3140 que se encontraba afectado por disparo por DAF🔷",
     "timestamp": 1770233888,
     "timestamp_local": 1770233888
-  },
-  {
-    "id": 105704,
-    "fecha": "04 de Feb del 2026 a las 02:35 PM",
-    "hora_utc": "2026-02-04 19:35",
-    "mensaje": "🚨Por déficit de capacidad de generación se afecta el servicio en el siguiente circuito:\n*Jaruco  🚨",
-    "timestamp": 1770233720,
-    "timestamp_local": 1770233720
   }
 ]
