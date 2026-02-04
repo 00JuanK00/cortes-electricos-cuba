@@ -1,5 +1,13 @@
 [
   {
+    "id": 32079,
+    "fecha": "04 de Feb del 2026 a las 05:11 PM",
+    "hora_utc": "2026-02-04 22:11",
+    "mensaje": "⚡Déficit de capacidad de generación en la provincia de: 102 MW . ⚡",
+    "timestamp": 1770243087,
+    "timestamp_local": 1770243087
+  },
+  {
     "id": 32078,
     "fecha": "04 de Feb del 2026 a las 04:49 PM",
     "hora_utc": "2026-02-04 21:49",
@@ -150,13 +158,5 @@
     "mensaje": "Se reportan transformadores dañados:\n\nJaguey, Circuito GI41, Australia/la Pista,  afecta 100 clientes.\n\nMatanzas, MK1453, Contreras entre Ayón y Favia,  afecta 85 clientes",
     "timestamp": 1770213820,
     "timestamp_local": 1770213820
-  },
-  {
-    "id": 32056,
-    "fecha": "04 de Feb del 2026 a las 08:51 AM",
-    "hora_utc": "2026-02-04 13:51",
-    "mensaje": "Se reportan averías en:\n\n___Averías por 33.___\n\nMU4073, 4073 Agte 110kV\n🔌 Circuito 4073 Batey Luisa, Peralta, San Carlos, Poblado San José de Marcos, Avería  a partir de la GD61, afecta 208 clientes.\nMU4485,  4485 Jaguey 110kV\n🔌 Circuito 4485 que da servicio a Cítrico, Jagüey,  en fallo pendiente a recorrido  se afectan 141clientes.\nMU 4470,  a partir  de las MW7010, afecta 120 clientes.\n\n___Avería Primaria.___\n\nP. Betancourt, MJ90. A partir  de la JD91,  pendiente de recorrido, afecta 1877 clientes.",
-    "timestamp": 1770213109,
-    "timestamp_local": 1770213109
   }
 ]
