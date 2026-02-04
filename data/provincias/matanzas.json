@@ -1,5 +1,21 @@
 [
   {
+    "id": 32045,
+    "fecha": "04 de Feb del 2026 a las 12:51 AM",
+    "hora_utc": "2026-02-04 05:51",
+    "mensaje": "⚡En estos momentos tenemos afectados 10 MW en la provincia por déficit de capacidad de generación.⚡",
+    "timestamp": 1770184301,
+    "timestamp_local": 1770184301
+  },
+  {
+    "id": 32044,
+    "fecha": "04 de Feb del 2026 a las 12:17 AM",
+    "hora_utc": "2026-02-04 05:17",
+    "mensaje": "🔋 La provincia se encuentra con un déficit de capacidad de generación de 30 MW.",
+    "timestamp": 1770182241,
+    "timestamp_local": 1770182241
+  },
+  {
     "id": 32043,
     "fecha": "03 de Feb del 2026 a las 11:43 PM",
     "hora_utc": "2026-02-04 04:43",
@@ -142,21 +158,5 @@
     "mensaje": "🪫 La provincia se encuentra con un déficit de capacidad de generación de 80 MW.",
     "timestamp": 1770130983,
     "timestamp_local": 1770130983
-  },
-  {
-    "id": 32024,
-    "fecha": "03 de Feb del 2026 a las 09:12 AM",
-    "hora_utc": "2026-02-03 14:12",
-    "mensaje": "⚡Déficit de capacidad de generación en la provincia de:  78 MW . ⚡",
-    "timestamp": 1770127968,
-    "timestamp_local": 1770127968
-  },
-  {
-    "id": 32023,
-    "fecha": "03 de Feb del 2026 a las 08:59 AM",
-    "hora_utc": "2026-02-03 13:59",
-    "mensaje": "🪫👉 Situación del SEN para el 3 de febrero de 2026:\n\n📉 Máxima afectación ayer: 1968 MW a las 18:40 horas.\n \n❌Se esperan afectaciones durante todo el horario diurno con un máximo de: 980 MW. \n\n☀️Limitaciones térmicas: 341 MW. \n\n ⚠️Avería: Unidad 5 de la CTE Mariel, la unidad 2 de la CTE Santa Cruz, la unidad 2 de la CTE Felton y las unidades 3, 5 y 6 de la CTE Renté.\n⚒️Mantenimiento: La CTE Guiteras, la unidad 4 de la CTE Cienfuegos y la unidad 5 de la CTE Diez de Octubre.\n\n📈Pronóstico para el horario pico de hoy:\nSe pronostica la entrada de la unidad 2 de la CTE Santa Cruz con 80 MW y la entrada de la unidad 5 de la CTE Renté con 60 MW (ambas en proceso de arranque). \n\n🌙Afectación nocturna estimada: 1880 MW \n\nUNE-MINEM",
-    "timestamp": 1770127150,
-    "timestamp_local": 1770127150
   }
 ]
