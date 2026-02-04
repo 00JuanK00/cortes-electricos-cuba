@@ -1,5 +1,37 @@
 [
   {
+    "id": 39612,
+    "fecha": "04 de Feb del 2026 a las 08:52 AM",
+    "hora_utc": "2026-02-04 13:52",
+    "mensaje": "⚠️Afectados por déficit de generación los siguientes circuitos:\n🔹Municipio Remedios:\n👉Ctos 67 y 152, 68 y 118",
+    "timestamp": 1770213150,
+    "timestamp_local": 1770213150
+  },
+  {
+    "id": 39611,
+    "fecha": "04 de Feb del 2026 a las 08:23 AM",
+    "hora_utc": "2026-02-04 13:23",
+    "mensaje": "⚠️Afectados por déficit de generación los siguientes circuitos:\n🔹Municipio Santa Clara: \n👉Cto 166 (Condado)\n👉Cto 167 (Virginia)\n👉Cto 169 (Condado)\n👉Cto 170 (José Martí)\n👉Cto 171 (Los Caneyes)",
+    "timestamp": 1770211427,
+    "timestamp_local": 1770211427
+  },
+  {
+    "id": 39610,
+    "fecha": "04 de Feb del 2026 a las 08:20 AM",
+    "hora_utc": "2026-02-04 13:20",
+    "mensaje": "⚠️Afectado por DAF la línea del 1920:\nLínea 1920\n🔹Municipio Placetas:\nCtos 101 y 145 Cumbre\nCto 107 Baez\nCto 105 Nazareno",
+    "timestamp": 1770211232,
+    "timestamp_local": 1770211232
+  },
+  {
+    "id": 39609,
+    "fecha": "04 de Feb del 2026 a las 08:09 AM",
+    "hora_utc": "2026-02-04 13:09",
+    "mensaje": "Actualización del servicio eléctrico en la provincia🔸\n✍️Se mantienen afectados en la provincia 72 circuitos.\n✍️En el momento de hacer esta nota la provincia tiene 52 MW por déficit de capacidad de generación.\n✍️Cuenta con 92 afectaciones por averías secundarias y de servicio.",
+    "timestamp": 1770210565,
+    "timestamp_local": 1770210565
+  },
+  {
     "id": 39608,
     "fecha": "04 de Feb del 2026 a las 07:46 AM",
     "hora_utc": "2026-02-04 12:46",
@@ -118,37 +150,5 @@
     "mensaje": "🛠️Manipulación de la línea 6585 para reponer el circuito 59 Vueltas, el cual quedó afectado por faltar una fase al momento de restablecerse por déficit de capacidad de generación. \nAfecta los siguientes circuitos:\n 🔹Municipio Camajuaní:\nCto 75 La Quinta\nCto 157 Luis Arcos Bergnes\nCtos 76 y 90 Vega Alta\nCtos 77 y 185 Vueltas",
     "timestamp": 1770186989,
     "timestamp_local": 1770186989
-  },
-  {
-    "id": 39591,
-    "fecha": "04 de Feb del 2026 a las 01:13 AM",
-    "hora_utc": "2026-02-04 06:13",
-    "mensaje": "💡Con servicio los siguientes circuitos:\n🔹Municipio Placetas:\nCto 192 Benito Juárez\nCto 102 Peroti\nCtos 100 y 151 Placetas\nCto 104 Hermanos Amejeiras\nCto 103 Batey Carbó Servía\nCtos 101 y 145 Cumbre",
-    "timestamp": 1770185617,
-    "timestamp_local": 1770185617
-  },
-  {
-    "id": 39590,
-    "fecha": "04 de Feb del 2026 a las 01:04 AM",
-    "hora_utc": "2026-02-04 06:04",
-    "mensaje": "💡Con servicio los siguientes circuitos:\n🔹Municipio Quemado:\n👉Ctos 164, 52 y 53 Quemado.\n🔹Municipio Sagua\n👉Ctos 43 y 51",
-    "timestamp": 1770185077,
-    "timestamp_local": 1770185077
-  },
-  {
-    "id": 39589,
-    "fecha": "04 de Feb del 2026 a las 12:36 AM",
-    "hora_utc": "2026-02-04 05:36",
-    "mensaje": "💡Con servicio los siguientes circuitos:\n🔹Municipio Encrucijada\n👉Cto 120 Calabazar\n👉Ctos 121 y 127 Perucho",
-    "timestamp": 1770183375,
-    "timestamp_local": 1770183375
-  },
-  {
-    "id": 39588,
-    "fecha": "04 de Feb del 2026 a las 12:05 AM",
-    "hora_utc": "2026-02-04 05:05",
-    "mensaje": "💡Con servicio los siguientes circuitos:\n🔹Municipio Ranchuelo:\nCto 92 Esperanza (Pueblo)\nCto 93 Esperanza (Campo)\nCtos 54, 94 y 95 Jicotea\n🔹Municipio Santo Domingo\nCto 79 (Santo Domingo)\nCto 81 (26 de Julio)\nCto 163 (Batey 26 de Julio",
-    "timestamp": 1770181532,
-    "timestamp_local": 1770181532
   }
 ]
