@@ -1,5 +1,21 @@
 [
   {
+    "id": 39655,
+    "fecha": "04 de Feb del 2026 a las 06:12 PM",
+    "hora_utc": "2026-02-04 23:12",
+    "mensaje": "Afectados 129 MW en la provincia, demanda máxima a apagar en estos momentos.",
+    "timestamp": 1770246735,
+    "timestamp_local": 1770246735
+  },
+  {
+    "id": 39654,
+    "fecha": "04 de Feb del 2026 a las 06:09 PM",
+    "hora_utc": "2026-02-04 23:09",
+    "mensaje": "🕕Actualización del servicio eléctrico en las últimas 6 horas.\n👉El déficit de capacidad de generación osciló entre los 45 MW y los 101 MW.\n👉En el momento de esta nota, se mantienen afectados 123 circuitos.\n👉Cuenta con 68 afectaciones por averías secundarias y de servicio:\nCaibarién (2)\nManicaragua (7)\nPlacetas (7)\nQuemado (2)\nRemedios (14) \nSagua (10) \nSanta Clara (23)\nSanto Domingo (3)\n🛠️Pendientes a solucionar por el área técnica 2.\n⚡En avería el Cto 191 (Quemado Hilario) que actualmente se encuentra afectado por déficit, por cable primario partido, brigada de nuestra empresa se prepara con recursos para darle solución en el menor tiempo posible.",
+    "timestamp": 1770246576,
+    "timestamp_local": 1770246576
+  },
+  {
     "id": 39653,
     "fecha": "04 de Feb del 2026 a las 05:33 PM",
     "hora_utc": "2026-02-04 22:33",
@@ -142,21 +158,5 @@
     "mensaje": "💡 Con servicio eléctrico los siguientes circuitos:\n🔹Municipio Santa Clara: \n👉Cto 166 (Condado)\n👉Cto 167 (Virginia)\n👉Cto 169 (Condado)\n👉Cto 170 (José Martí)\n👉Cto 171 (Los Caneyes)",
     "timestamp": 1770227588,
     "timestamp_local": 1770227588
-  },
-  {
-    "id": 39635,
-    "fecha": "04 de Feb del 2026 a las 12:15 PM",
-    "hora_utc": "2026-02-04 17:15",
-    "mensaje": "⚠️Afectados por déficit de generación los siguientes circuitos:\n🔹Municipio Placetas:\n👉Ctos 101 y 145 Cumbre\n🔹Municipio Placetas \n👉Ctos 100 y 151 Placetas\n👉Cto 104 Hermanos Amejeiras\n👉Cto 103 Batey Carbó Servía",
-    "timestamp": 1770225317,
-    "timestamp_local": 1770225317
-  },
-  {
-    "id": 39634,
-    "fecha": "04 de Feb del 2026 a las 12:04 PM",
-    "hora_utc": "2026-02-04 17:04",
-    "mensaje": "🕛Actualización del servicio eléctrico en las últimas 6 horas.\n👉El déficit de capacidad de generación osciló entre los 48 MW y los 54 MW.\n👉En el momento de esta nota, se mantienen afectados 48 circuitos.\n👉Cuenta con 98 afectaciones por averías secundarias y de servicio:\nCaibarién (3)\nCamajuaní (2)\nEncrucijada (2)\nManicaragua (7)\nPlacetas (13)\nRanchuelo (5)\nRemedios (16) \nSagua (13) \nSanta Clara (30)\nSanto Domingo (7)\n🛠️Pendientes a solucionar por el área técnica 8.\n⚡En avería el Cto 48 (Finalet) de manera parcial, perteneciente al municipio Sagua, se estudian las causas.",
-    "timestamp": 1770224686,
-    "timestamp_local": 1770224686
   }
 ]
