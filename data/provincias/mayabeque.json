@@ -1,5 +1,37 @@
 [
   {
+    "id": 105682,
+    "fecha": "04 de Feb del 2026 a las 10:00 AM",
+    "hora_utc": "2026-02-04 15:00",
+    "mensaje": "🔷 Cerrado el circuito 3140 que se encontraba afectado por disparo por DAF🔷",
+    "timestamp": 1770217226,
+    "timestamp_local": 1770217226
+  },
+  {
+    "id": 105681,
+    "fecha": "04 de Feb del 2026 a las 09:59 AM",
+    "hora_utc": "2026-02-04 14:59",
+    "mensaje": "🔷 Cerrado el circuito 3590 que se encontraba afectado por disparo por DAF🔷",
+    "timestamp": 1770217195,
+    "timestamp_local": 1770217195
+  },
+  {
+    "id": 105680,
+    "fecha": "04 de Feb del 2026 a las 09:52 AM",
+    "hora_utc": "2026-02-04 14:52",
+    "mensaje": "♦️Afectado el servicio en el siguiente circuito por disparo por DAF:\n*3590♦️",
+    "timestamp": 1770216745,
+    "timestamp_local": 1770216745
+  },
+  {
+    "id": 105679,
+    "fecha": "04 de Feb del 2026 a las 09:52 AM",
+    "hora_utc": "2026-02-04 14:52",
+    "mensaje": "♦️Afectado el servicio en el siguiente circuito por disparo por DAF:\n*3140♦️",
+    "timestamp": 1770216742,
+    "timestamp_local": 1770216742
+  },
+  {
     "id": 105676,
     "fecha": "04 de Feb del 2026 a las 09:17 AM",
     "hora_utc": "2026-02-04 14:17",
@@ -102,21 +134,5 @@
     "mensaje": "🚨Por déficit de capacidad de generación se afecta el servicio en el siguiente circuito:\n*Bío -2 🚨",
     "timestamp": 1770208078,
     "timestamp_local": 1770208078
-  },
-  {
-    "id": 105661,
-    "fecha": "04 de Feb del 2026 a las 06:38 AM",
-    "hora_utc": "2026-02-04 11:38",
-    "mensaje": "🚨Por déficit de capacidad de generación se afecta el servicio en los siguientes circuitos:\n*Melena 1 y 2🚨",
-    "timestamp": 1770205116,
-    "timestamp_local": 1770205116
-  },
-  {
-    "id": 105659,
-    "fecha": "04 de Feb del 2026 a las 05:45 AM",
-    "hora_utc": "2026-02-04 10:45",
-    "mensaje": "🚨Por déficit de capacidad de generación se afecta el servicio en los siguientes circuitos:\n*3655\n*3660🚨",
-    "timestamp": 1770201948,
-    "timestamp_local": 1770201948
   }
 ]
