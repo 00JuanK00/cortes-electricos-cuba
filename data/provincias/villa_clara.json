@@ -1,5 +1,29 @@
 [
   {
+    "id": 39691,
+    "fecha": "05 de Feb del 2026 a las 10:11 AM",
+    "hora_utc": "2026-02-05 15:11",
+    "mensaje": "🔸Actualización del servicio eléctrico en la provincia🔸\n✍️Se mantienen afectados en la provincia 119 circuitos.\n✍️En el momento de hacer esta nota la provincia tiene 89 MW por déficit de capacidad de generación.\n✍️Cuenta con 49 afectaciones por averías secundarias y de servicio.",
+    "timestamp": 1770304293,
+    "timestamp_local": 1770304293
+  },
+  {
+    "id": 39690,
+    "fecha": "05 de Feb del 2026 a las 10:05 AM",
+    "hora_utc": "2026-02-05 15:05",
+    "mensaje": "🛠️Afectado parcial para una Vía Libre en el Cto 48(Finalet) perteneciente al Municipio Sagua.",
+    "timestamp": 1770303942,
+    "timestamp_local": 1770303942
+  },
+  {
+    "id": 39689,
+    "fecha": "05 de Feb del 2026 a las 09:52 AM",
+    "hora_utc": "2026-02-05 14:52",
+    "mensaje": "⚡Actualización de la avería que afecta `parcial el Cto 71(Buena Vista) perteneciente al Municipio de Remedios.\n👉Causa:  Poste partido en el cual hay un Transformador.\n👉  Afectación: Afecta el Ramal de Pueblo Nuevo.",
+    "timestamp": 1770303139,
+    "timestamp_local": 1770303139
+  },
+  {
     "id": 39688,
     "fecha": "05 de Feb del 2026 a las 09:16 AM",
     "hora_utc": "2026-02-05 14:16",
@@ -134,29 +158,5 @@
     "mensaje": "Afectados 49 MW en la provincia, demanda máxima a apagar en estos momentos.",
     "timestamp": 1770271892,
     "timestamp_local": 1770271892
-  },
-  {
-    "id": 39670,
-    "fecha": "05 de Feb del 2026 a las 12:07 AM",
-    "hora_utc": "2026-02-05 05:07",
-    "mensaje": "🕛Actualización del servicio eléctrico en las últimas 6 horas.\n👉El déficit de capacidad de generación osciló entre los 134 MW y los 60 MW.\n👉En el momento de esta nota, se mantienen afectados 105 circuitos.\n👉Cuenta con 72 afectaciones por averías secundarias y de servicio:\nCaibarién (3)\nCifuentes (1)\nManicaragua (7)\nPlacetas (9)\nQuemado (2)\nRemedios (14) \nSagua (12) \nSanta Clara (20)\nSanto Domingo (4)\n🛠️Se encuentra 1 avería en vías de solución.\n🛠️Pendientes a solucionar por el área técnica 2.\n✅ La provincia no presenta averías primarias en estos momentos.",
-    "timestamp": 1770268061,
-    "timestamp_local": 1770268061
-  },
-  {
-    "id": 39669,
-    "fecha": "04 de Feb del 2026 a las 11:08 PM",
-    "hora_utc": "2026-02-05 04:08",
-    "mensaje": "💡Con servicio el siguiente circuito:\n🔹Municipio Santa Clara: \n👉Cto 167 (Virginia)",
-    "timestamp": 1770264535,
-    "timestamp_local": 1770264535
-  },
-  {
-    "id": 39668,
-    "fecha": "04 de Feb del 2026 a las 11:02 PM",
-    "hora_utc": "2026-02-05 04:02",
-    "mensaje": "Afectados 60 MW en la provincia, demanda máxima a apagar en estos momentos.",
-    "timestamp": 1770264120,
-    "timestamp_local": 1770264120
   }
 ]
