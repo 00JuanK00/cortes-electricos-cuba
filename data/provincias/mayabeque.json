@@ -1,5 +1,21 @@
 [
   {
+    "id": 105783,
+    "fecha": "05 de Feb del 2026 a las 11:09 AM",
+    "hora_utc": "2026-02-05 16:09",
+    "mensaje": "♦️Afectado el servicio en el siguiente circuito por disparo por DAF:\n*3590♦️",
+    "timestamp": 1770307781,
+    "timestamp_local": 1770307781
+  },
+  {
+    "id": 105782,
+    "fecha": "05 de Feb del 2026 a las 10:27 AM",
+    "hora_utc": "2026-02-05 15:27",
+    "mensaje": "🔷 Restablecido el servicio en el circuito 3930 que se encontraba afectado por manipulación 🔷",
+    "timestamp": 1770305234,
+    "timestamp_local": 1770305234
+  },
+  {
     "id": 105781,
     "fecha": "05 de Feb del 2026 a las 10:22 AM",
     "hora_utc": "2026-02-05 15:22",
@@ -102,21 +118,5 @@
     "mensaje": "🚨Por déficit de capacidad de generación se afecta el servicio en el siguiente circuito:\n*Bío-1 🚨",
     "timestamp": 1770296765,
     "timestamp_local": 1770296765
-  },
-  {
-    "id": 105763,
-    "fecha": "05 de Feb del 2026 a las 07:33 AM",
-    "hora_utc": "2026-02-05 12:33",
-    "mensaje": "🚨Por déficit de capacidad de generación se afecta el servicio en el siguiente circuito:\n*Aguacate 🚨",
-    "timestamp": 1770294824,
-    "timestamp_local": 1770294824
-  },
-  {
-    "id": 105762,
-    "fecha": "05 de Feb del 2026 a las 07:32 AM",
-    "hora_utc": "2026-02-05 12:32",
-    "mensaje": "🔷 Restablecido el servicio en el circuito 3590 que se encontraba afectado por disparo por DAF🔷",
-    "timestamp": 1770294777,
-    "timestamp_local": 1770294777
   }
 ]
