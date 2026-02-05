@@ -1,5 +1,21 @@
 [
   {
+    "id": 39677,
+    "fecha": "05 de Feb del 2026 a las 06:00 AM",
+    "hora_utc": "2026-02-05 11:00",
+    "mensaje": "🕕Actualización del servicio eléctrico en las últimas 6 horas.\n👉El déficit de capacidad de generación osciló entre los 41 MW y los 51 MW.\n👉En el momento de esta nota, se mantienen afectados 122 circuitos.\n👉Cuenta con 52 afectaciones por averías secundarias y de servicio:\nCaibarién (3)\nCifuentes (1)\nManicaragua (7)\nPlacetas (6)\nQuemado (2)\nRemedios (14) \nSagua (11) \nSanta Clara (4)\nSanto Domingo (4)\n🛠️Se encuentra 1 avería en vías de solución.\n🛠️Pendientes a solucionar por el área técnica 4.\n✅ La provincia no presenta averías primarias en estos momentos.",
+    "timestamp": 1770289252,
+    "timestamp_local": 1770289252
+  },
+  {
+    "id": 39675,
+    "fecha": "05 de Feb del 2026 a las 05:36 AM",
+    "hora_utc": "2026-02-05 10:36",
+    "mensaje": "Afectados 51 MW en la provincia, demanda máxima a apagar en estos momentos.",
+    "timestamp": 1770287806,
+    "timestamp_local": 1770287806
+  },
+  {
     "id": 39674,
     "fecha": "05 de Feb del 2026 a las 04:34 AM",
     "hora_utc": "2026-02-05 09:34",
@@ -134,21 +150,5 @@
     "mensaje": "⚠️Afectado por déficit de generación el siguiente circuito:\n🔹Municipio Manicaragua:\n👉Cto 111 Mataguá",
     "timestamp": 1770247571,
     "timestamp_local": 1770247571
-  },
-  {
-    "id": 39656,
-    "fecha": "04 de Feb del 2026 a las 06:18 PM",
-    "hora_utc": "2026-02-04 23:18",
-    "mensaje": "⚠️Afectados por déficit de generación los siguientes circuitos:\n🔹Municipio Placetas:\n👉Cto 107 Baez\n👉Cto 105 Nazareno",
-    "timestamp": 1770247129,
-    "timestamp_local": 1770247129
-  },
-  {
-    "id": 39655,
-    "fecha": "04 de Feb del 2026 a las 06:12 PM",
-    "hora_utc": "2026-02-04 23:12",
-    "mensaje": "Afectados 129 MW en la provincia, demanda máxima a apagar en estos momentos.",
-    "timestamp": 1770246735,
-    "timestamp_local": 1770246735
   }
 ]
