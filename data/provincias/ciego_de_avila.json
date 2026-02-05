@@ -1,5 +1,45 @@
 [
   {
+    "id": 35745,
+    "fecha": "04 de Feb del 2026 a las 10:14 PM",
+    "hora_utc": "2026-02-05 03:14",
+    "mensaje": "🚨 Nota Informativa\n\nSiendo las 20:54 de la noche ocurre un fallo en la Subestación Holguín 220 kV que provocó la desconexión del Sistema Eléctrico en la zona oriental dejando sin servicio parcialmente a la provincia de Holguín y afectadas totalmente las provincias de Granma, Santiago de Cuba y Guantánamo. \n\nCon la desconexión salen de servicio la Unidad 1 de la CTE Lidio Ramón Pérez \"Felton\", los motores de Moa y las Unidades 3 y 5 de la CTE Antonio Maceo \"Renté\". \n\n👉 En estos momentos se preparan los protocolos de restauración de la zona oriental para garantizar su nueva conexión al SEN, los arranques de las unidades antes mencionadas y el restablecimiento de la carga afectada por el evento.",
+    "timestamp": 1770261282,
+    "timestamp_local": 1770261282
+  },
+  {
+    "id": 35744,
+    "fecha": "04 de Feb del 2026 a las 09:49 PM",
+    "hora_utc": "2026-02-05 02:49",
+    "mensaje": "‼️ Déficit de Generación ‼️   \n👉Bajamos a 66 MW en la provincia afectados por déficit de generación.\n\n⏰ Reiteramos que los circuitos se afectarán o se restablecerán en dependencia del déficit en cada momento de la jornada, que es muy variable.",
+    "timestamp": 1770259792,
+    "timestamp_local": 1770259792
+  },
+  {
+    "id": 35743,
+    "fecha": "04 de Feb del 2026 a las 09:46 PM",
+    "hora_utc": "2026-02-05 02:46",
+    "mensaje": "⚠️ #AHORA || Fuera de línea la Unidad 1 de la CTE Lidio Ramón Pérez \"Felton\" y la Unidad 5 de la CTE Antonio Maceo \"Renté\". \n\nEn estos momentos se encuentran las provincias Holguín, Granma, Santiago de Cuba y Guantánamo sin servicio eléctrico.",
+    "timestamp": 1770259566,
+    "timestamp_local": 1770259566
+  },
+  {
+    "id": 35742,
+    "fecha": "04 de Feb del 2026 a las 09:42 PM",
+    "hora_utc": "2026-02-05 02:42",
+    "mensaje": "🔊Información\n👉 Producto a un disparo en Holguín 220 Kv provocó la salida de la CTE Lidio Ramón Pérez (Felton) el Fuell de Moa y la CTE Antonio Maceo Renté provocando una salida parcial del SEN en el oriente del país. Se verifican las causas.",
+    "timestamp": 1770259322,
+    "timestamp_local": 1770259322
+  },
+  {
+    "id": 35741,
+    "fecha": "04 de Feb del 2026 a las 08:26 PM",
+    "hora_utc": "2026-02-05 01:26",
+    "mensaje": "‼️ Déficit de Generación ‼️   \n👉Bajamos a 73 MW en la provincia afectados por déficit de generación.\n\n⏰ Reiteramos que los circuitos se afectarán o se restablecerán en dependencia del déficit en cada momento de la jornada, que es muy variable.",
+    "timestamp": 1770254805,
+    "timestamp_local": 1770254805
+  },
+  {
     "id": 35740,
     "fecha": "04 de Feb del 2026 a las 06:28 PM",
     "hora_utc": "2026-02-04 23:28",
@@ -118,29 +158,5 @@
     "mensaje": "‼️ Déficit de Generación ‼️   \n👉Comenzó el déficit en la provincia con 10 MW  afectados.\n👉 Se encuentran afectados los siguientes circuitos.\n📌 2, Falla, Cítrico I, Cítrico III, Cítrico IV, Ceballos Pueblo, Las Grullas.\n\n⏰ Reiteramos que los circuitos se afectarán o se restablecerán en dependencia del déficit en cada momento de la jornada, que es muy variable.",
     "timestamp": 1770201105,
     "timestamp_local": 1770201105
-  },
-  {
-    "id": 35724,
-    "fecha": "04 de Feb del 2026 a las 01:13 AM",
-    "hora_utc": "2026-02-04 06:13",
-    "mensaje": "🔊Información 🔊\n🚨Déficit de Generación🚨                \n📍 Bajó el déficit a 0 MW en la provincia📍\n 🔊Se restablecen todos los circuitos.",
-    "timestamp": 1770185606,
-    "timestamp_local": 1770185606
-  },
-  {
-    "id": 35723,
-    "fecha": "04 de Feb del 2026 a las 01:08 AM",
-    "hora_utc": "2026-02-04 06:08",
-    "mensaje": "‼️ Déficit de Generación ‼️   \n👉Tenemos 7 MW en la provincia afectados por déficit de generación.\n⏰ Reiteramos que los circuitos se afectarán o se restablecerán en dependencia del déficit en cada momento de la jornada, que es muy variable.",
-    "timestamp": 1770185312,
-    "timestamp_local": 1770185312
-  },
-  {
-    "id": 35722,
-    "fecha": "04 de Feb del 2026 a las 12:46 AM",
-    "hora_utc": "2026-02-04 05:46",
-    "mensaje": "‼️ Déficit de Generación ‼️   \n👉Tenemos 25 MW en la provincia afectados por déficit de generación.\n👉 Se restablece el servicio eléctrico de los circuitos:\n3, A110, Jicotea, Majagua, Orlando González, Guayacanes, Nereida, Ranchuelo, Peonia, Politécnico de Informática,\n\n⏰ Reiteramos que los circuitos se afectarán o se restablecerán en dependencia del déficit en cada momento de la jornada, que es muy variable.",
-    "timestamp": 1770184003,
-    "timestamp_local": 1770184003
   }
 ]
