@@ -1,5 +1,21 @@
 [
   {
+    "id": 49345,
+    "fecha": "05 de Feb del 2026 a las 05:38 PM",
+    "hora_utc": "2026-02-05 22:38",
+    "mensaje": "🔴Circuito en avería:                                                                                                                         \n Sucede si un circuito se interrumpe por causa de un defecto en un cable conductor de corriente (fase o neutro), un fusible fundido o disyuntor. En sistemas trifásicos una falla puede implicar una fase, más de una fase con la tierra o puede ocurrir solo entre fases.",
+    "timestamp": 1770331135,
+    "timestamp_local": 1770331135
+  },
+  {
+    "id": 49344,
+    "fecha": "05 de Feb del 2026 a las 05:38 PM",
+    "hora_utc": "2026-02-05 22:38",
+    "mensaje": "🚨Estimados clientes en estos momentos se encuentra en Avería el circuito 10 de Santiago.",
+    "timestamp": 1770331092,
+    "timestamp_local": 1770331092
+  },
+  {
     "id": 49343,
     "fecha": "05 de Feb del 2026 a las 05:04 PM",
     "hora_utc": "2026-02-05 22:04",
@@ -142,21 +158,5 @@
     "mensaje": "🔊Estimados clientes en estos momentos se está Manipulando el circuito 7 para reponer un fuse al aire y el circuito 14 para cambiar un Transformador",
     "timestamp": 1770310290,
     "timestamp_local": 1770310290
-  },
-  {
-    "id": 49325,
-    "fecha": "05 de Feb del 2026 a las 11:46 AM",
-    "hora_utc": "2026-02-05 16:46",
-    "mensaje": "🚨Disparo Automático de Frecuencia (DAF):\nOcurre cuando la frecuencia está por debajo de los 60Hz y determinada carga o circuito se desconecta del sistema automáticamente hasta que se estabilice.",
-    "timestamp": 1770309971,
-    "timestamp_local": 1770309971
-  },
-  {
-    "id": 49324,
-    "fecha": "05 de Feb del 2026 a las 11:45 AM",
-    "hora_utc": "2026-02-05 16:45",
-    "mensaje": "🔊Estimados clientes en estos momentos se encuentra  disparado por DAF el circuito 11 de Santiago,pedimos disculpas por las molestias ocasionadas.",
-    "timestamp": 1770309941,
-    "timestamp_local": 1770309941
   }
 ]
