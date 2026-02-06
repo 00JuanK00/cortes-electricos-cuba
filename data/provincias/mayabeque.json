@@ -1,5 +1,21 @@
 [
   {
+    "id": 105930,
+    "fecha": "06 de Feb del 2026 a las 03:36 PM",
+    "hora_utc": "2026-02-06 20:36",
+    "mensaje": "🚨Por déficit de capacidad de generación se afecta el servicio en los siguientes circuitos:\n*Güines 3\n*Güines 4🚨",
+    "timestamp": 1770410199,
+    "timestamp_local": 1770410199
+  },
+  {
+    "id": 105929,
+    "fecha": "06 de Feb del 2026 a las 03:34 PM",
+    "hora_utc": "2026-02-06 20:34",
+    "mensaje": "🚨Por déficit de capacidad de generación se afecta el servicio en el siguiente circuito:\n*ML 35🚨",
+    "timestamp": 1770410066,
+    "timestamp_local": 1770410066
+  },
+  {
     "id": 105928,
     "fecha": "06 de Feb del 2026 a las 03:03 PM",
     "hora_utc": "2026-02-06 20:03",
@@ -142,21 +158,5 @@
     "mensaje": "🔷 Restablecido el servicio en el circuito 3140 que se encontraba afectado por disparo por DAF🔷",
     "timestamp": 1770400429,
     "timestamp_local": 1770400429
-  },
-  {
-    "id": 105910,
-    "fecha": "06 de Feb del 2026 a las 12:52 PM",
-    "hora_utc": "2026-02-06 17:52",
-    "mensaje": "♦️Afectado el servicio en el siguiente circuito por disparo por DAF:\n*3140♦️",
-    "timestamp": 1770400356,
-    "timestamp_local": 1770400356
-  },
-  {
-    "id": 105909,
-    "fecha": "06 de Feb del 2026 a las 12:48 PM",
-    "hora_utc": "2026-02-06 17:48",
-    "mensaje": "🔷♦️Se restablece el servicio en el circuito que se encontraba afectado  por déficit de capacidad de generación:\n*Catalina ♦️🔷",
-    "timestamp": 1770400109,
-    "timestamp_local": 1770400109
   }
 ]
