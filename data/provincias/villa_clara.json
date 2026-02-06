@@ -1,5 +1,29 @@
 [
   {
+    "id": 39803,
+    "fecha": "06 de Feb del 2026 a las 03:28 PM",
+    "hora_utc": "2026-02-06 20:28",
+    "mensaje": "⚠️ En déficit de capacidad de generación el circuito 6 (Vigía), del municipio Santa Clara.",
+    "timestamp": 1770409724,
+    "timestamp_local": 1770409724
+  },
+  {
+    "id": 39802,
+    "fecha": "06 de Feb del 2026 a las 03:22 PM",
+    "hora_utc": "2026-02-06 20:22",
+    "mensaje": "⚠️ En déficit de capacidad de generación  los siguientes circuitos:\n🔹Municipio Quemado:\n👉Ctos 164, 52 y 53 Quemado.",
+    "timestamp": 1770409328,
+    "timestamp_local": 1770409328
+  },
+  {
+    "id": 39801,
+    "fecha": "06 de Feb del 2026 a las 03:00 PM",
+    "hora_utc": "2026-02-06 20:00",
+    "mensaje": "⚠️ En déficit de capacidad de generación  los siguientes circuitos:\n🔹Municipio Cifuentes:\n👉Ctos 114 y 117\n👉Ctos 116 y 155 Mata\n👉Cto 186 Batey Unidad Proletaria\n👉Cto 184 Sitio Grande",
+    "timestamp": 1770408022,
+    "timestamp_local": 1770408022
+  },
+  {
     "id": 39800,
     "fecha": "06 de Feb del 2026 a las 02:59 PM",
     "hora_utc": "2026-02-06 19:59",
@@ -134,29 +158,5 @@
     "mensaje": "🛠️Afectados por vía libre planificada para realizar trabajos de mantenimiento en la subestación 110 KV del municipio Santo Domingo, las líneas 1720 y 1715:\nAfecta los siguientes circuitos:\n🔹Municipio Santo Domingo:\n👉Cto 195 Batey George Washington\n👉Ctos 83 y 165 Manacas\n👉Ctos 85 y 86 Pajarito\n👉Ctos 160 y 161 Cascajal\n✍️ La línea del 1715 se encuentra en estos momentos  afectada por déficit de capacidad de generación.",
     "timestamp": 1770392446,
     "timestamp_local": 1770392446
-  },
-  {
-    "id": 39783,
-    "fecha": "06 de Feb del 2026 a las 10:36 AM",
-    "hora_utc": "2026-02-06 15:36",
-    "mensaje": "⚠️ En déficit de capacidad de generación  el circuito 168 (Condado), del municipio Santa Clara.",
-    "timestamp": 1770392209,
-    "timestamp_local": 1770392209
-  },
-  {
-    "id": 39782,
-    "fecha": "06 de Feb del 2026 a las 10:35 AM",
-    "hora_utc": "2026-02-06 15:35",
-    "mensaje": "🛠️Afectado el circuito 151 del municipio Placetas por trabajo de vía libre para realizar cambio de drop out a transformador.",
-    "timestamp": 1770392143,
-    "timestamp_local": 1770392143
-  },
-  {
-    "id": 39781,
-    "fecha": "06 de Feb del 2026 a las 10:27 AM",
-    "hora_utc": "2026-02-06 15:27",
-    "mensaje": "Con servicio el circuito 30 (Capiro-Santa Catalina), del municipio Santa Clara.",
-    "timestamp": 1770391622,
-    "timestamp_local": 1770391622
   }
 ]
