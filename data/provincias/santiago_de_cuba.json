@@ -1,5 +1,29 @@
 [
   {
+    "id": 49373,
+    "fecha": "06 de Feb del 2026 a las 01:56 PM",
+    "hora_utc": "2026-02-06 18:56",
+    "mensaje": "Disparo Automático de Frecuencia (DAF):\nOcurre cuando la frecuencia está por debajo de los 60Hz y determinada carga o circuito se desconecta del sistema automáticamente hasta que se estabilice.",
+    "timestamp": 1770404219,
+    "timestamp_local": 1770404219
+  },
+  {
+    "id": 49372,
+    "fecha": "06 de Feb del 2026 a las 01:56 PM",
+    "hora_utc": "2026-02-06 18:56",
+    "mensaje": "Estimados clientes se les informa que el circuito 11 de Santiago se encuentra Disparado por DAF, disculpen por las molestias ocasionadas.",
+    "timestamp": 1770404207,
+    "timestamp_local": 1770404207
+  },
+  {
+    "id": 49371,
+    "fecha": "06 de Feb del 2026 a las 01:31 PM",
+    "hora_utc": "2026-02-06 18:31",
+    "mensaje": "🚨Estimados clientes en estos momentos se encuentra afectados por Déficit de Capacidad de Generación el circuito 1 de Santiago, disculpen por las molestias ocasionadas",
+    "timestamp": 1770402718,
+    "timestamp_local": 1770402718
+  },
+  {
     "id": 49370,
     "fecha": "06 de Feb del 2026 a las 12:21 PM",
     "hora_utc": "2026-02-06 17:21",
@@ -110,21 +134,5 @@
     "mensaje": "🚨Estimados clientes en estos momentos se incorpora a la afectación por Déficit la línea 5380-Mella.",
     "timestamp": 1770345596,
     "timestamp_local": 1770345596
-  },
-  {
-    "id": 49352,
-    "fecha": "05 de Feb del 2026 a las 08:08 PM",
-    "hora_utc": "2026-02-06 01:08",
-    "mensaje": "🔴Disparo\nApertura no Voluntaria de un interruptor como vía de protección para desconectar uno o varios elementos del circuito,subestación o sistema ,restableciéndose el servicio rápidamente en dependencia de la causa.",
-    "timestamp": 1770340136,
-    "timestamp_local": 1770340136
-  },
-  {
-    "id": 49351,
-    "fecha": "05 de Feb del 2026 a las 08:08 PM",
-    "hora_utc": "2026-02-06 01:08",
-    "mensaje": "🔴Estimados clientes en estos momentos se encuentra Disparado el circuito 8 de Santiago.",
-    "timestamp": 1770340121,
-    "timestamp_local": 1770340121
   }
 ]
