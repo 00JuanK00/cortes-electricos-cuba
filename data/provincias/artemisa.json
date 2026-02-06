@@ -1,9 +1,33 @@
 [
   {
+    "id": 35478,
+    "fecha": "06 de Feb del 2026 a las 06:43 PM",
+    "hora_utc": "2026-02-06 23:43",
+    "mensaje": "👉Tenemos una afectación en la provincia de 138 MW  en estos momentos",
+    "timestamp": 1770421435,
+    "timestamp_local": 1770421435
+  },
+  {
+    "id": 35477,
+    "fecha": "06 de Feb del 2026 a las 06:41 PM",
+    "hora_utc": "2026-02-06 23:41",
+    "mensaje": "👉Circuito 1580 municipio Alquizar afectado por déficit ,tenemos una afectación de 149 MW",
+    "timestamp": 1770421275,
+    "timestamp_local": 1770421275
+  },
+  {
+    "id": 35476,
+    "fecha": "06 de Feb del 2026 a las 06:33 PM",
+    "hora_utc": "2026-02-06 23:33",
+    "mensaje": "‼️ En estos momentos tenemos una afectación de 140 MW en la provincia ‼️",
+    "timestamp": 1770420839,
+    "timestamp_local": 1770420839
+  },
+  {
     "id": 35475,
     "fecha": "06 de Feb del 2026 a las 05:30 PM",
     "hora_utc": "2026-02-06 22:30",
-    "mensaje": "‼️Afectado por déficit Fca de Carretas Güira de Melena  ( campo ) ,tenemos una afectación de 122 MW en la provincia  ‼️",
+    "mensaje": "‼️Afectado por déficit Fca de Carretas Güira de Melena  ( pueblo) ,tenemos una afectación de 122 MW en la provincia  ‼️",
     "timestamp": 1770417003,
     "timestamp_local": 1770417003
   },
@@ -11,7 +35,7 @@
     "id": 35474,
     "fecha": "06 de Feb del 2026 a las 04:27 PM",
     "hora_utc": "2026-02-06 21:27",
-    "mensaje": "‼️Afectado por déficit de generación los circuitos : \n\n➡️Gran Panel \n➡️247 (manipulado  )Bahía \n➡️3517 Mariel\n➡️ S340 Mani \n➡️A 1270 Artemisa  \n\n👉Tenemos una afectación  en estos momentos de 110 MW en la provincia",
+    "mensaje": "‼️Afectado por déficit de generación los circuitos : \n\n➡️Gran Panel \n➡️246 (manipulado  )Bahía \n➡️3517 Mariel\n➡️ S340 Mani \n➡️A 1270 Artemisa  \n\n👉Tenemos una afectación  en estos momentos de 110 MW en la provincia",
     "timestamp": 1770413279,
     "timestamp_local": 1770413279
   },
@@ -27,7 +51,7 @@
     "id": 35472,
     "fecha": "06 de Feb del 2026 a las 03:30 PM",
     "hora_utc": "2026-02-06 20:30",
-    "mensaje": "‼️Afectado por déficit  de generación los circuitos :\n\n ➡️S20 ,4 Caminos y Martí \n➡️Plátano ,Rpto Pablo Torres y Pilar \n➡️Guanajay 4000 ( manipulado ) \n➡️Cabaña y Quiebra Hacha\n ➡️Pedro Díaz \n➡️236 Bahía\n ➡️3 Baracoas\n➡️ 1570 Artemisa \n➡️1940 San Antonio\n➡️1500 Artemisa \n ➡️Se mantienen 5040 ,BH 342 Bahía, San Pedro Bauta y La torula  \n\n👉Tenemos una afectación en estos momentos de 75 MW en la provincia",
+    "mensaje": "‼️Afectado por déficit  de generación los circuitos :\n\n ➡️S20 ,4 Caminos y Martí \n➡️Plátano ,Rpto Pablo Torres y Pilar \n➡️Guanajay 4000 ( manipulado ) \n➡️Cabaña y Quiebra Hacha\n➡️Bauta Vieja \n ➡️Pedro Díaz \n➡️236 Bahía\n ➡️3 Baracoas\n➡️ 1570 Artemisa \n➡️1940 San Antonio\n➡️1500 Artemisa \n ➡️Se mantienen 5040 ,BH 342 Bahía, San Pedro Bauta y La torula  \n\n👉Tenemos una afectación en estos momentos de 75 MW en la provincia",
     "timestamp": 1770409853,
     "timestamp_local": 1770409853
   },
@@ -134,29 +158,5 @@
     "mensaje": "🚨Afectado por deficit los siguientes circuitos \n➡️1940 San Antonio\n➡️341 San Cristóbal\n➡️ Sub San Cristóbal,Cuatro caminos y  El Marti\n‼️Tenemos una afectación de 21 MW",
     "timestamp": 1770373828,
     "timestamp_local": 1770373828
-  },
-  {
-    "id": 35458,
-    "fecha": "06 de Feb del 2026 a las 12:42 AM",
-    "hora_utc": "2026-02-06 05:42",
-    "mensaje": "🚨Restablecido el defecit en la provincia",
-    "timestamp": 1770356533,
-    "timestamp_local": 1770356533
-  },
-  {
-    "id": 35457,
-    "fecha": "06 de Feb del 2026 a las 12:03 AM",
-    "hora_utc": "2026-02-06 05:03",
-    "mensaje": "🚨Afectado por deficit 1580 de Alquizar\n‼️Tenemos una afectación de 21 MW",
-    "timestamp": 1770354184,
-    "timestamp_local": 1770354184
-  },
-  {
-    "id": 35456,
-    "fecha": "05 de Feb del 2026 a las 11:11 PM",
-    "hora_utc": "2026-02-06 04:11",
-    "mensaje": "🚨Restablecida la avería de San Pedro Bauta",
-    "timestamp": 1770351075,
-    "timestamp_local": 1770351075
   }
 ]
