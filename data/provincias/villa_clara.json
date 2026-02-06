@@ -1,5 +1,37 @@
 [
   {
+    "id": 39800,
+    "fecha": "06 de Feb del 2026 a las 02:59 PM",
+    "hora_utc": "2026-02-06 19:59",
+    "mensaje": "⚠️ En déficit de capacidad de generación  los siguientes circuitos:\n🔹Municipio Santa Clara:\n👉Cto 167 (Virginia)\n👉Cto 170 (José Martí)\n👉Cto 171 (Los Caneyes)",
+    "timestamp": 1770407965,
+    "timestamp_local": 1770407965
+  },
+  {
+    "id": 39799,
+    "fecha": "06 de Feb del 2026 a las 02:34 PM",
+    "hora_utc": "2026-02-06 19:34",
+    "mensaje": "Con servicio las líneas 1785 y 129:\nMunicipio Santa Clara:\n👉Cto 6 (Vigía)\n👉Ctos 32 y 33 (RF-33Kv)\n👉Cto 39 (Sandino)\n👉Cto 40 Hospital Militar\n👉Cto 34 (Sabana- Rebacadero)",
+    "timestamp": 1770406468,
+    "timestamp_local": 1770406468
+  },
+  {
+    "id": 39798,
+    "fecha": "06 de Feb del 2026 a las 02:28 PM",
+    "hora_utc": "2026-02-06 19:28",
+    "mensaje": "🛠️Afectado por manipulación las líneas 1785 y 129 para reponer fase en el circuito 34 (Sabana- Rebacadero), del municipio Santa Clara.\n🔹Afecta los siguientes circuitos:\n👉Cto 6 (Vigía)\n👉Ctos 32 y 33 (RF-33Kv)\n👉Cto 39 (Sandino)\n👉Cto 40 Hospital Militar",
+    "timestamp": 1770406091,
+    "timestamp_local": 1770406091
+  },
+  {
+    "id": 39797,
+    "fecha": "06 de Feb del 2026 a las 02:25 PM",
+    "hora_utc": "2026-02-06 19:25",
+    "mensaje": "💡Con servicio los siguientes circuitos:\n🔹Municipio Santa Clara: \n👉Cto 166 (Condado)\n👉Cto 168 (Condado- XX Aniversario)\n🔹Municipio Santo Domingo:\n👉Cto 134\n👉Ctos 87 y 96 Bermejal\n👉Cto 187 Batey Carlos Baliño\n👉Cto 82 Ulacia\n👉Cto 84 Rodrigo",
+    "timestamp": 1770405918,
+    "timestamp_local": 1770405918
+  },
+  {
     "id": 39796,
     "fecha": "06 de Feb del 2026 a las 02:23 PM",
     "hora_utc": "2026-02-06 19:23",
@@ -126,37 +158,5 @@
     "mensaje": "Con servicio el circuito 30 (Capiro-Santa Catalina), del municipio Santa Clara.",
     "timestamp": 1770391622,
     "timestamp_local": 1770391622
-  },
-  {
-    "id": 39780,
-    "fecha": "06 de Feb del 2026 a las 10:07 AM",
-    "hora_utc": "2026-02-06 15:07",
-    "mensaje": "🔸Actualización del servicio eléctrico en la provincia🔸\n✍️Se mantienen afectados en la provincia 65 circuitos.\n✍️En el momento de hacer esta nota la provincia tiene 46 MW por déficit de capacidad de generación.\n✍️Cuenta con 108 afectaciones por averías secundarias y de servicio.",
-    "timestamp": 1770390470,
-    "timestamp_local": 1770390470
-  },
-  {
-    "id": 39779,
-    "fecha": "06 de Feb del 2026 a las 09:59 AM",
-    "hora_utc": "2026-02-06 14:59",
-    "mensaje": "⚠️ En déficit de capacidad de generación  los siguientes circuitos:\n🔹Municipio Santa Clara: \n👉Cto 167 (Virginia)\n👉Cto 170 (José Martí)\n👉Cto 171 (Los Caneyes)",
-    "timestamp": 1770389953,
-    "timestamp_local": 1770389953
-  },
-  {
-    "id": 39778,
-    "fecha": "06 de Feb del 2026 a las 09:58 AM",
-    "hora_utc": "2026-02-06 14:58",
-    "mensaje": "Con servicio la línea 75:\n🔹Municipio Ranchuelo: \n👉Ctos 89, 97, 188 y 189\n👉Ctos 148 y 149 San Juan\n👉Cto 91 Batey Osvaldo Herrera\n👉Cto 181 Batey Ifraín Alfonso",
-    "timestamp": 1770389904,
-    "timestamp_local": 1770389904
-  },
-  {
-    "id": 39777,
-    "fecha": "06 de Feb del 2026 a las 09:49 AM",
-    "hora_utc": "2026-02-06 14:49",
-    "mensaje": "⚡ Actualización del Sistema Electroenergético Nacional para el 6 de febrero de 2026.\n\nEn el día de ayer se afectó el servicio por déficit de capacidad durante las 24 horas, quedando todo restablecido a las 01:11  de la madrugada de hoy y se comenzó a afectar a las 05:00. La máxima afectación por déficit de capacidad de generación en el día de ayer fue de 1844 MW a las 18:20 horas.\n\n☀️ La producción de energía de los 49 nuevos parques solares fotovoltaicos fue de 2091 MWh, con 393 MW como máxima potencia entregada en el horario de la media con esta fuente de generación. \n\n🟢 La disponibilidad del SEN a las 06:00 horas es de 1255 MW, la demanda 1745 MW, con 519 MW afectados. En el horario de la media se estima una afectación de 950 MW.  \n\n🔴 Se encuentran en avería: unidad 5 de la CTE Mariel, la unidad 2 de la CTE Santa Cruz, la unidad 2 de la CTE Felton y la unidad 6 de la CTE Renté.\n\n⚙️ Se encuentran en mantenimiento la unidad 4 de la CTE Cienfuegos y la unidad 5 de la CTE Diez de Octubre.\n\nℹ️ Las limitaciones en la generación térmica son de 525 MW.\n\n📈 Para el horario pico se espera la entrada de 5 motores del Fuel Moa con 75 MW, la entrada de 5 motores de la patana de Regla con 64 MW.\n \nCon este pronóstico se prevé en el horario pico una disponibilidad de 1394 MW con una demanda máxima de 3100 MW, para un déficit de 1730 MW, por lo que de mantenerse las condiciones previstas se pronostica una afectación de 1760 MW en este horario.\n\n#UnidosXCuba #UniónEléctrica #UNE #NotaInformativa",
-    "timestamp": 1770389352,
-    "timestamp_local": 1770389352
   }
 ]
