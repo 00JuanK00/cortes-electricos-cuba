@@ -1,5 +1,45 @@
 [
   {
+    "id": 39902,
+    "fecha": "07 de Feb del 2026 a las 03:47 PM",
+    "hora_utc": "2026-02-07 20:47",
+    "mensaje": "⚠️ En déficit de capacidad de generación los siguientes circuitos:\n🔹Municipio Santa Clara\n👉Cto 7 (Universidad)  \n👉Cto 146 (Elevado Aeropuerto) \n👉Cto 22 (Construcciones Textil)\n👉Cto 131 (Las Antillas)\n👉Ctos 14 y 27 (Maleza)",
+    "timestamp": 1770497243,
+    "timestamp_local": 1770497243
+  },
+  {
+    "id": 39901,
+    "fecha": "07 de Feb del 2026 a las 03:26 PM",
+    "hora_utc": "2026-02-07 20:26",
+    "mensaje": "⚠️ En déficit de capacidad de generación los siguientes circuitos:\n🔹Municipio Santa Clara:\n👉Cto 5 (Dobarganes)\n👉Cto 17 (Subplanta) \n👉Ctos 37 y 38 (Yabú)   \n👉Cto 9 (Moldes y Troqueles)\n👉Cto 133 (Taller Cafetera)",
+    "timestamp": 1770495968,
+    "timestamp_local": 1770495968
+  },
+  {
+    "id": 39900,
+    "fecha": "07 de Feb del 2026 a las 03:24 PM",
+    "hora_utc": "2026-02-07 20:24",
+    "mensaje": "⚠️ En déficit de capacidad de generación el siguiente circuito:\n🔹Municipio Manicaragua:\n👉Ctos 110 La Piedra",
+    "timestamp": 1770495891,
+    "timestamp_local": 1770495891
+  },
+  {
+    "id": 39899,
+    "fecha": "07 de Feb del 2026 a las 03:22 PM",
+    "hora_utc": "2026-02-07 20:22",
+    "mensaje": "⚠️Continúan afectados por déficit de capacidad de generación los siguientes circuitos:\n🔹Municipio Ranchuelo: \n👉Ctos 89, 97, 188 y 189\n👉Ctos 148 y 149 San Juan\n👉Cto 91 Batey Osvaldo Herrera\n👉Cto 181 Batey Ifraín Alfonso",
+    "timestamp": 1770495725,
+    "timestamp_local": 1770495725
+  },
+  {
+    "id": 39898,
+    "fecha": "07 de Feb del 2026 a las 03:01 PM",
+    "hora_utc": "2026-02-07 20:01",
+    "mensaje": "Afectados 79 MW en la provincia, demanda máxima a apagar en estos momentos.",
+    "timestamp": 1770494464,
+    "timestamp_local": 1770494464
+  },
+  {
     "id": 39897,
     "fecha": "07 de Feb del 2026 a las 02:39 PM",
     "hora_utc": "2026-02-07 19:39",
@@ -32,14 +72,6 @@
     "timestamp_local": 1770490894
   },
   {
-    "id": 39893,
-    "fecha": "07 de Feb del 2026 a las 01:47 PM",
-    "hora_utc": "2026-02-07 18:47",
-    "mensaje": "⚠️ En déficit de capacidad de generación los siguientes circuitos:\n🔹Municipio Ranchuelo: \n👉Ctos 89, 97, 188 y 189\n👉Ctos 148 y 149 San Juan\n👉Cto 91 Batey Osvaldo Herrera\n👉Cto 181 Batey Ifraín Alfonso",
-    "timestamp": 1770490044,
-    "timestamp_local": 1770490044
-  },
-  {
     "id": 39892,
     "fecha": "07 de Feb del 2026 a las 01:43 PM",
     "hora_utc": "2026-02-07 18:43",
@@ -51,7 +83,7 @@
     "id": 39891,
     "fecha": "07 de Feb del 2026 a las 01:41 PM",
     "hora_utc": "2026-02-07 18:41",
-    "mensaje": "⚠️ En déficit de capacidad de generación los siguientes circuitos:\n🔹Municipio Sagua\n👉Ctos 43, 51 Sagua\n👉Cto 44 Isabela\n👉Ctos 50 y 147 Villa Alegre",
+    "mensaje": "⚠️ En déficit de capacidad de generación los siguientes circuitos:\n🔹Municipio Sagua\n👉Ctos 43, 51 Sagua\n👉Cto 44 Isabela\n👉Ctos 50 y 147 Villa Alegre\n🔹Municipio Ranchuelo: \n👉Ctos 89, 97, 188 y 189\n👉Ctos 148 y 149 San Juan\n👉Cto 91 Batey Osvaldo Herrera\n👉Cto 181 Batey Ifraín Alfonso",
     "timestamp": 1770489707,
     "timestamp_local": 1770489707
   },
@@ -126,37 +158,5 @@
     "mensaje": "🕛Actualización del servicio eléctrico en las últimas 6 horas.\n✍️El déficit de capacidad de generación osciló entre los 42 MW y los 67 MW.\n✍️En el momento de esta nota, se mantienen afectados 98 circuitos.\n✍️Cuenta con 88 afectaciones por averías secundarias y de servicio:\n🔸Caibarién (3)\n🔸Camajuaní (5)\n🔸Cifuentes (3)\n🔸Corralillo (5)\n🔸Encrucijada (4)\n🔸Manicaragua (7)\n🔸Placetas (9)\n🔸Quemado (2)\n🔸Ranchuelo (3)\n🔸Remedios (4) \n🔸Sagua (14) \n🔸Santa Clara (23)\n🔸Santo Domingo (5)\n🛠️Pendientes a solucionar por el área técnica 7.\n⚡ La provincia presenta 1 avería primaria:\n ✍️ Línea 1210 (Parcial):\n🔹Municipio Quemado:\n👉Cto 196 Batey Panchito Gómez Toro.\n🔹Municipio Corralillo\n👉Cto 55 Rancho Veloz\n⚠️ Disparo del Cto 110 (La Piedra), perteneciente al municipio Manicaragua, se estudian las causas.",
     "timestamp": 1770483919,
     "timestamp_local": 1770483919
-  },
-  {
-    "id": 39881,
-    "fecha": "07 de Feb del 2026 a las 11:57 AM",
-    "hora_utc": "2026-02-07 16:57",
-    "mensaje": "💡Con servicio el siguiente circuito:\n🔹Municipio Placetas\n👉Cto 99 Placetas",
-    "timestamp": 1770483455,
-    "timestamp_local": 1770483455
-  },
-  {
-    "id": 39880,
-    "fecha": "07 de Feb del 2026 a las 11:53 AM",
-    "hora_utc": "2026-02-07 16:53",
-    "mensaje": "💡Con servicio los siguientes circuitos:\n🔹Municipio Santa Clara: \n👉Cto 170 (José Martí)\n👉Cto 171 (Los Caneyes)",
-    "timestamp": 1770483195,
-    "timestamp_local": 1770483195
-  },
-  {
-    "id": 39879,
-    "fecha": "07 de Feb del 2026 a las 11:23 AM",
-    "hora_utc": "2026-02-07 16:23",
-    "mensaje": "⚠️ En déficit de capacidad de generación los siguientes circuitos:\n🔹Municipio Encrucijada\n👉Cto 120 Calabazar\n👉Ctos 121 y 127 Perucho\n🔹Municipio Encrucijada:\n👉Cto 122 Encrucijada  \n👉Cto 123 Vizcaya \n👉Cto 142 Comunidad La Sierra \n👉Cto 126 Batey Emilio Córdova\n👉Cto 125 Cavarrocas\n👉Cto 124 El Santo\n🔹Municipio Camajuaní:                                                              \n👉Cto 78 Jutiero",
-    "timestamp": 1770481427,
-    "timestamp_local": 1770481427
-  },
-  {
-    "id": 39878,
-    "fecha": "07 de Feb del 2026 a las 11:19 AM",
-    "hora_utc": "2026-02-07 16:19",
-    "mensaje": "💡Con servicio los siguientes circuitos:\n🔹Municipio Santa Clara:\n👉Cto 5 (Dobarganes)\n👉Cto 17 (Subplanta) \n👉Ctos 37 y 38 (Yabú)   \n👉Cto 9 (Moldes y Troqueles)\n👉Cto 133 (Taller Cafetera)",
-    "timestamp": 1770481161,
-    "timestamp_local": 1770481161
   }
 ]
