@@ -1,9 +1,41 @@
 [
   {
+    "id": 35824,
+    "fecha": "07 de Feb del 2026 a las 11:52 AM",
+    "hora_utc": "2026-02-07 16:52",
+    "mensaje": "🔊 Información.\n👉 Se encuentra sin servicio el circuito de Nereida, se trabaja para restablecer el servicio en el menor tiempo posible.",
+    "timestamp": 1770483123,
+    "timestamp_local": 1770483123
+  },
+  {
+    "id": 35823,
+    "fecha": "07 de Feb del 2026 a las 11:49 AM",
+    "hora_utc": "2026-02-07 16:49",
+    "mensaje": "🔊Información\n  👉 Restablecidos los circuitos que estaban afectados por el DAF.\n📌 Nereida, Peonía, Politécnico de Informática.",
+    "timestamp": 1770482953,
+    "timestamp_local": 1770482953
+  },
+  {
+    "id": 35822,
+    "fecha": "07 de Feb del 2026 a las 11:40 AM",
+    "hora_utc": "2026-02-07 16:40",
+    "mensaje": "Déficit de Generación ‼️   \n👉 Subimos  a 61 MW en la provincia afectados por déficit de generación.\n👉Se incorporan los siguientes circuitos: \n\n\n✅ A102, Patria, Turiguanó.\n\n⏰ Reiteramos que los circuitos se afectarán o se restablecerán en dependencia del déficit en cada momento de la jornada, que es muy variable",
+    "timestamp": 1770482440,
+    "timestamp_local": 1770482440
+  },
+  {
+    "id": 35821,
+    "fecha": "07 de Feb del 2026 a las 11:24 AM",
+    "hora_utc": "2026-02-07 16:24",
+    "mensaje": "Déficit de Generación ‼️   \n👉 Subimos  a 50 MW en la provincia afectados por déficit de generación.\n👉Se incorporan los siguientes circuitos: \n\n✅ Jicotea, Orlando González, Guayacanes, Majagua, La Teresa, El Burro, La Ofelia, Chambas, Los Perros , El Asiento, Punta Alegre, Falla.\n\n⏰ Reiteramos que los circuitos se afectarán o se restablecerán en dependencia del déficit en cada momento de la jornada, que es muy variable",
+    "timestamp": 1770481452,
+    "timestamp_local": 1770481452
+  },
+  {
     "id": 35820,
     "fecha": "07 de Feb del 2026 a las 11:09 AM",
     "hora_utc": "2026-02-07 16:09",
-    "mensaje": "Déficit de Generación ‼️   \n👉 Subimos  a 37 MW en la provincia afectados por déficit de generación.\n👉Se incorporan los siguientes circuitos: \n\n✅ 5, A104, Combinado Minaz, Delfín Moreno, Santana, Bolivia.\n\n⏰ Reiteramos que los circuitos se afectarán o se restablecerán en dependencia del déficit en cada momento de la jornada, que es muy variable.",
+    "mensaje": "Déficit de Generación ‼️   \n👉 Subimos  a 37 MW en la provincia afectados por déficit de generación.\n👉Se incorporan los siguientes circuitos: \n\n✅ 5, A104,Venezuela, El Mambí, Jaguayal, Combinado Minaz, Delfín Moreno, Santana, Bolivia.\n\n⏰ Reiteramos que los circuitos se afectarán o se restablecerán en dependencia del déficit en cada momento de la jornada, que es muy variable.",
     "timestamp": 1770480543,
     "timestamp_local": 1770480543
   },
@@ -102,29 +134,5 @@
     "mensaje": "‼️ Déficit de Generación ‼️   \n👉 Bajamos a 46 MW en la provincia afectados por déficit de generación.\n\n\n⏰ Reiteramos que los circuitos se afectarán o se restablecerán en dependencia del déficit en cada momento de la jornada, que es muy variable.",
     "timestamp": 1770434192,
     "timestamp_local": 1770434192
-  },
-  {
-    "id": 35804,
-    "fecha": "06 de Feb del 2026 a las 09:42 PM",
-    "hora_utc": "2026-02-07 02:42",
-    "mensaje": "‼️ Déficit de Generación ‼️   \n👉 Bajamos a 56 MW en la provincia afectados por déficit de generación.\n👉Se encuentran afectados los siguientes circuitos: \n\n\n\n✅2, A102, A208, Cítrico II, Isaca, Cítrico I, Cítrico III, Cítrico IV, Ceballos Pueblo, Las Grullas, Nereida, Ranchuelo, Peonía, Politécnico de Informática, Morón Centro, Turiguanó, Patria, San Fernando, Falla.  \n ⏰ Reiteramos que los circuitos se afectarán o se restablecerán en dependencia del déficit en cada momento de la jornada, que es muy variable.",
-    "timestamp": 1770432145,
-    "timestamp_local": 1770432145
-  },
-  {
-    "id": 35803,
-    "fecha": "06 de Feb del 2026 a las 08:55 PM",
-    "hora_utc": "2026-02-07 01:55",
-    "mensaje": "‼️Información‼️\n\n⏰ Los circuitos  restablecidos por déficit de generación tendrán servicio por un estimado de 1 hora y 30 min aproximadamente en dependencia del déficit solicitado en cada momento de la jornada que es muy variable.",
-    "timestamp": 1770429303,
-    "timestamp_local": 1770429303
-  },
-  {
-    "id": 35802,
-    "fecha": "06 de Feb del 2026 a las 08:52 PM",
-    "hora_utc": "2026-02-07 01:52",
-    "mensaje": "‼️ Información ‼️   \n👉Continuamos con  76 MW en la provincia afectados por déficit de generación. Con este déficit no podemos cumplir con una programación estable, por lo que los circuitos se afectarán o se restablecerán en dependencia del déficit que haya en cada momento de la jornada.",
-    "timestamp": 1770429144,
-    "timestamp_local": 1770429144
   }
 ]
