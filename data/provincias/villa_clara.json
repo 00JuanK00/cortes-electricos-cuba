@@ -1,5 +1,21 @@
 [
   {
+    "id": 39851,
+    "fecha": "07 de Feb del 2026 a las 02:00 AM",
+    "hora_utc": "2026-02-07 07:00",
+    "mensaje": "🔸Actualización del servicio eléctrico en la provincia🔸\n✍️En el momento de hacer esta nota la provincia tiene 0 MW por déficit de capacidad de generación.\n✍️Cuenta con 79 afectaciones por averías secundarias y de servicio.",
+    "timestamp": 1770447636,
+    "timestamp_local": 1770447636
+  },
+  {
+    "id": 39850,
+    "fecha": "07 de Feb del 2026 a las 01:37 AM",
+    "hora_utc": "2026-02-07 06:37",
+    "mensaje": "⚡Afectada la línea del 1210:\nAfecta los siguientes circuitos:\n🔹Municipio Quemado:\n👉Ctos 164, 52 y 53 Quemado.\n👉Cto 196 Batey Panchito Gómez Toro.\n🔹Municipio Corralillo\n👉Cto 55 Rancho Veloz\nMunicipio Sagua\n👉Ctos 47 y 49 Caguaguas\n👉Cto 197 Jumagua\n✍️Se estudian las causas.",
+    "timestamp": 1770446270,
+    "timestamp_local": 1770446270
+  },
+  {
     "id": 39848,
     "fecha": "07 de Feb del 2026 a las 12:32 AM",
     "hora_utc": "2026-02-07 05:32",
@@ -134,21 +150,5 @@
     "mensaje": "Manipulación de la línea 1785 y el Cto 4 (Consejo-Centro)\n🔹Afecta los siguientes circuitos:\n👉Cto 6 (Vigía)\n👉Ctos 32 y 33 (RF-33Kv)\n👉Cto 39 (Sandino)\n👉Cto 34 Sabana Rebacadero",
     "timestamp": 1770437960,
     "timestamp_local": 1770437960
-  },
-  {
-    "id": 39830,
-    "fecha": "06 de Feb del 2026 a las 10:59 PM",
-    "hora_utc": "2026-02-07 03:59",
-    "mensaje": "🔸Actualización del servicio eléctrico en la provincia🔸\n✍️Se mantienen afectados en la provincia 48 circuitos.\n✍️En el momento de hacer esta nota la provincia tiene 32 MW por déficit de capacidad de generación.\n✍️Cuenta con 91 afectaciones por averías secundarias y de servicio.",
-    "timestamp": 1770436768,
-    "timestamp_local": 1770436768
-  },
-  {
-    "id": 39829,
-    "fecha": "06 de Feb del 2026 a las 10:52 PM",
-    "hora_utc": "2026-02-07 03:52",
-    "mensaje": "Con servicio las líneas 1785 y 129:\n👉Cto 6 (Vigía)\n👉Ctos 32 y 33 (RF-33Kv)\n👉Cto 39 (Sandino)\n👉Cto 34 Sabana Rebacadero\n👉Cto 40 Hospital Militar",
-    "timestamp": 1770436359,
-    "timestamp_local": 1770436359
   }
 ]
