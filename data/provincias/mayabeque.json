@@ -1,5 +1,29 @@
 [
   {
+    "id": 105989,
+    "fecha": "07 de Feb del 2026 a las 11:08 AM",
+    "hora_utc": "2026-02-07 16:08",
+    "mensaje": "🔷 Restablecido el servicio en el siguiente circuito que se encontraba afectado por manipulación:\n*Güines 4 🔷",
+    "timestamp": 1770480509,
+    "timestamp_local": 1770480509
+  },
+  {
+    "id": 105988,
+    "fecha": "07 de Feb del 2026 a las 11:04 AM",
+    "hora_utc": "2026-02-07 16:04",
+    "mensaje": "♦️Se afecta el servicio en el siguiente circuito por manipulación: \n*Güines 4 ♦️",
+    "timestamp": 1770480258,
+    "timestamp_local": 1770480258
+  },
+  {
+    "id": 105987,
+    "fecha": "07 de Feb del 2026 a las 10:54 AM",
+    "hora_utc": "2026-02-07 15:54",
+    "mensaje": "🚨Por déficit de capacidad de generación se afecta el servicio en los siguientes circuitos:\n*3660\n*3655 🚨",
+    "timestamp": 1770479655,
+    "timestamp_local": 1770479655
+  },
+  {
     "id": 105983,
     "fecha": "07 de Feb del 2026 a las 10:39 AM",
     "hora_utc": "2026-02-07 15:39",
@@ -78,21 +102,5 @@
     "mensaje": "**Nota Informativa: Estado del Sistema Eléctrico Nacional (SEN) – 7 de febrero de 2026**\nEn el día de ayer se afectó el servicio por déficit de capacidad durante las 20 horas con 10 minutos, quedando todo restablecido a las 00:31 de la madrugada de hoy y se comenzó a afectar a las 05:36. La máxima afectación por déficit de capacidad de generación en el día de ayer fue de 1618 MW a las 18:20 horas.\nLa producción de energía de los 49 nuevos parques solares fotovoltaicos fue de 3573 MWh, con 641 MW como máxima potencia entregada en el horario de la media con esta fuente de generación.\n**Estado actual del SEN**\nLa disponibilidad del SEN a las 06:00 horas es de 1280 MW, la demanda 1760 MW, con 461 MW afectados. En el horario de la media se estima una afectación de 800 MW.\n**Principales incidencias**\nAvería: Unidad 5 de la CTE Mariel, Unidad 2 de la CTE Santa Cruz, Unidad 2 de la CTE Felton y Unidad 6 de la CTE Antonio Maceo.\nMantenimiento: Unidad 5 de la CTE Nuevitas, Unidad 4 de la CTE Carlos Manuel de Céspedes en Cienfuegos.\nLimitaciones en la generación térmica: 467 MW fuera de servicio.\n**Pronóstico para el horario pico**\nPara el horario pico se espera la entrada de 6 motores del Fuel Moa con 90 MW y la entrada de 5 motores de la patana de Regla con 40 MW. Además se pronostica el completamiento de la unidad 3 de la CTE Cienfuegos con 78 MW.\nCon este pronóstico se prevé en el horario pico una disponibilidad de 1488 MW con una demanda máxima de 3000 MW, para un déficit de 1512 MW, por lo que de mantenerse las condiciones previstas se pronostica una afectación de 1542 MW en este horario.",
     "timestamp": 1770471150,
     "timestamp_local": 1770471150
-  },
-  {
-    "id": 105968,
-    "fecha": "07 de Feb del 2026 a las 08:19 AM",
-    "hora_utc": "2026-02-07 13:19",
-    "mensaje": "🚨Por déficit de capacidad de generación se afecta el servicio en el siguiente circuito:\n*Bío -1 🚨",
-    "timestamp": 1770470349,
-    "timestamp_local": 1770470349
-  },
-  {
-    "id": 105967,
-    "fecha": "07 de Feb del 2026 a las 08:08 AM",
-    "hora_utc": "2026-02-07 13:08",
-    "mensaje": "🚨Por déficit de capacidad de generación se afecta el servicio en el siguiente circuito:\n*Camilo 🚨",
-    "timestamp": 1770469698,
-    "timestamp_local": 1770469698
   }
 ]
