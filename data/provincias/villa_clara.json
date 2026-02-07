@@ -1,5 +1,37 @@
 [
   {
+    "id": 39871,
+    "fecha": "07 de Feb del 2026 a las 10:10 AM",
+    "hora_utc": "2026-02-07 15:10",
+    "mensaje": "⚠️Se encuentra en fallo el Cto 110 (La Piedra), perteneciente al municipio Manicaragua, se estudian las causas.",
+    "timestamp": 1770477016,
+    "timestamp_local": 1770477016
+  },
+  {
+    "id": 39870,
+    "fecha": "07 de Feb del 2026 a las 10:08 AM",
+    "hora_utc": "2026-02-07 15:08",
+    "mensaje": "⚠️ En déficit de capacidad de generación  los siguientes circuitos:\n🔹Municipio Santa Clara: \n👉Cto 166 (Condado)\n👉Cto 167 (Virginia)\n👉Cto 168 (Condado- XX Aniversario)\n**👉Cto 169 (Condado)**\n👉Cto 170 (José Martí)\n👉Cto 171 (Los Caneyes)",
+    "timestamp": 1770476918,
+    "timestamp_local": 1770476918
+  },
+  {
+    "id": 39869,
+    "fecha": "07 de Feb del 2026 a las 10:04 AM",
+    "hora_utc": "2026-02-07 15:04",
+    "mensaje": "💡Con servicio los siguientes circuitos:\n🔹Municipio Sagua\n👉Ctos 43, 51 Sagua\n👉Cto 44 Isabela\n👉Ctos 50 y 147 Villa Alegre\n🔹Municipio Santo Domingo:\n👉Cto 134\n👉Ctos 87 y 96 Bermejal\n👉Cto 187 Batey Carlos Baliño\n👉Cto 82 Ulacia\n👉Cto 84 Rodrigo\n🔹Municipio Camajuaní:\n👉Cto 75 La Quinta\n👉Cto 157 Luis Arcos Bergnes\n👉Ctos 76 y 90 Vega Alta\n👉Ctos 77 y 185 Vueltas",
+    "timestamp": 1770476692,
+    "timestamp_local": 1770476692
+  },
+  {
+    "id": 39868,
+    "fecha": "07 de Feb del 2026 a las 10:04 AM",
+    "hora_utc": "2026-02-07 15:04",
+    "mensaje": "🔸Actualización del servicio eléctrico en la provincia🔸\n✍️Se mantienen afectados en la provincia 49 circuitos.\n✍️En el momento de hacer esta nota la provincia tiene 42 MW por déficit de capacidad de generación.\n✍️Cuenta con 96 afectaciones por averías secundarias y de servicio.",
+    "timestamp": 1770476640,
+    "timestamp_local": 1770476640
+  },
+  {
     "id": 39867,
     "fecha": "07 de Feb del 2026 a las 09:52 AM",
     "hora_utc": "2026-02-07 14:52",
@@ -118,29 +150,5 @@
     "mensaje": "🔸Actualización del servicio eléctrico en la provincia🔸\n✍️En el momento de hacer esta nota la provincia tiene 0 MW por déficit de capacidad de generación.\n✍️Cuenta con 79 afectaciones por averías secundarias y de servicio.",
     "timestamp": 1770447636,
     "timestamp_local": 1770447636
-  },
-  {
-    "id": 39850,
-    "fecha": "07 de Feb del 2026 a las 01:37 AM",
-    "hora_utc": "2026-02-07 06:37",
-    "mensaje": "⚡Afectada la línea del 1210:\nAfecta los siguientes circuitos:\n🔹Municipio Quemado:\n👉Ctos 164, 52 y 53 Quemado.\n👉Cto 196 Batey Panchito Gómez Toro.\n🔹Municipio Corralillo\n👉Cto 55 Rancho Veloz\nMunicipio Sagua\n👉Ctos 47 y 49 Caguaguas\n👉Cto 197 Jumagua\n✍️Se estudian las causas.",
-    "timestamp": 1770446270,
-    "timestamp_local": 1770446270
-  },
-  {
-    "id": 39848,
-    "fecha": "07 de Feb del 2026 a las 12:32 AM",
-    "hora_utc": "2026-02-07 05:32",
-    "mensaje": "💡Con servicio los siguientes circuitos:\n🔹Municipio Remedios:\n👉Ctos 69 y 70 Zuluetas\n👉Cto 143 Batey Heriberto Duquezne \n👉Cto 71 Buena Vista",
-    "timestamp": 1770442333,
-    "timestamp_local": 1770442333
-  },
-  {
-    "id": 39847,
-    "fecha": "07 de Feb del 2026 a las 12:24 AM",
-    "hora_utc": "2026-02-07 05:24",
-    "mensaje": "🕛Actualización del servicio eléctrico en las últimas 6 horas.\n✍️El déficit de capacidad de generación osciló entre los 109 MW y los 10 MW.\n✍️En el momento de esta nota, se mantienen afectados 10 circuitos.\n✍️Cuenta con 101 afectaciones por averías secundarias y de servicio:\n🔸Caibarién (1)\n🔸Camajuaní (5)\n🔸Cifuentes (4)\n🔸Corralillo (3)\n🔸Manicaragua (4)\n🔸Placetas (4)\n🔸Quemado (1)\n🔸Ranchuelo (15)\n🔸Remedios (3) \n🔸Sagua (13) \n🔸Santa Clara (26)\n🔸Santo Domingo (4)\n🛠️Se encuentran 5 averías en vías de solución.\n🛠️Pendientes a solucionar por el área técnica 8.\n✅ La provincia no presenta averías primarias en estos momentos.",
-    "timestamp": 1770441888,
-    "timestamp_local": 1770441888
   }
 ]
