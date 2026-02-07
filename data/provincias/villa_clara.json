@@ -1,9 +1,17 @@
 [
   {
+    "id": 39886,
+    "fecha": "07 de Feb del 2026 a las 12:46 PM",
+    "hora_utc": "2026-02-07 17:46",
+    "mensaje": "💡Con servicio los siguientes circuitos:\n🔹Municipio Santa Clara\n👉Cto 6 (Vigía)\n👉Cto 34(Sabana Rebacadero)\n👉Ctos 32 y 33 (RF-33Kv)\n👉Cto 39 (Sandino)\n👉Cto 40 (Hospital Militar)",
+    "timestamp": 1770486399,
+    "timestamp_local": 1770486399
+  },
+  {
     "id": 39885,
     "fecha": "07 de Feb del 2026 a las 12:17 PM",
     "hora_utc": "2026-02-07 17:17",
-    "mensaje": "⚠️Afectada por manipulación la línea del 1785:\n🔹Municipio Santa Clara\n👉Cto 6 (Vigía)\n👉Cto 34(Sabana Rebacadero)\n👉Ctos 32 y 33 (RF-33Kv)\n👉Cto 39 (Sandino)",
+    "mensaje": "⚠️Afectada por manipulación las líneas del 1785 y 129:\n🔹Municipio Santa Clara\n👉Cto 6 (Vigía)\n👉Cto 34(Sabana Rebacadero)\n👉Ctos 32 y 33 (RF-33Kv)\n👉Cto 39 (Sandino)\n👉Cto 40 (Hospital Militar)",
     "timestamp": 1770484659,
     "timestamp_local": 1770484659
   },
@@ -150,13 +158,5 @@
     "mensaje": "💡Con servicio los siguientes circuitos:\n🔹Municipio Manicaragua:\n👉Ctos 109 y 150\n👉Ctos 108 y 110 La Piedra\n👉Cto 111 Mataguá",
     "timestamp": 1770475952,
     "timestamp_local": 1770475952
-  },
-  {
-    "id": 39866,
-    "fecha": "07 de Feb del 2026 a las 09:04 AM",
-    "hora_utc": "2026-02-07 14:04",
-    "mensaje": "Afectados 45 MW en la provincia, demanda máxima a apagar en estos momentos.",
-    "timestamp": 1770473043,
-    "timestamp_local": 1770473043
   }
 ]
