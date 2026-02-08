@@ -1,5 +1,37 @@
 [
   {
+    "id": 39983,
+    "fecha": "08 de Feb del 2026 a las 04:14 PM",
+    "hora_utc": "2026-02-08 21:14",
+    "mensaje": "Afectados 94 MW en la provincia, demanda máxima a apagar en estos momentos.",
+    "timestamp": 1770585293,
+    "timestamp_local": 1770585293
+  },
+  {
+    "id": 39982,
+    "fecha": "08 de Feb del 2026 a las 04:12 PM",
+    "hora_utc": "2026-02-08 21:12",
+    "mensaje": "⚠️ En déficit de capacidad de generación los siguientes circuitos:\n🔹Municipio Cifuentes:\n👉Ctos 114 y 117\n👉Ctos 116 y 155 Mata\n👉Cto 186 Batey Unidad Proletaria\n👉Cto 184 Sitio Grande",
+    "timestamp": 1770585134,
+    "timestamp_local": 1770585134
+  },
+  {
+    "id": 39981,
+    "fecha": "08 de Feb del 2026 a las 04:09 PM",
+    "hora_utc": "2026-02-08 21:09",
+    "mensaje": "⚠️ En déficit de capacidad de generación los siguientes circuitos:\n🔹Municipio Camajuaní:\n👉Cto 75 La Quinta\n👉Cto 157 Luis Arcos Bergnes\n👉Ctos 76 y 90 Vega Alta\n👉Ctos 77 y 185 Vueltas",
+    "timestamp": 1770584969,
+    "timestamp_local": 1770584969
+  },
+  {
+    "id": 39980,
+    "fecha": "08 de Feb del 2026 a las 04:00 PM",
+    "hora_utc": "2026-02-08 21:00",
+    "mensaje": "⚠️ En déficit de capacidad de generación los siguientes circuitos:\n🔹Municipio Quemado:\n👉Ctos 164, 52 y 53 Quemado.",
+    "timestamp": 1770584441,
+    "timestamp_local": 1770584441
+  },
+  {
     "id": 39979,
     "fecha": "08 de Feb del 2026 a las 03:57 PM",
     "hora_utc": "2026-02-08 20:57",
@@ -118,37 +150,5 @@
     "mensaje": "⚠️En déficit de capacidad de generación los siguientes circuitos:\n🔹 Municipio Caibarién:\n 👉Ctos 61, 62 \n 👉Ctos 63 y 64\n👉 Ctos 182 y 183 Van Troy",
     "timestamp": 1770567314,
     "timestamp_local": 1770567314
-  },
-  {
-    "id": 39963,
-    "fecha": "08 de Feb del 2026 a las 10:58 AM",
-    "hora_utc": "2026-02-08 15:58",
-    "mensaje": "💡Restablecido el servicio eléctrico en linea 1210 \n 👉Cto 45 y 197 Jumagua\n  👉Cto 47 y 49 Caguagua\n 👉 Cto 52 y 53 Quemado\n  👉Cto 164 Quemado ( Lugardita)\n 👉 Cto 55 Rancho Veloz \n  👉Cto 196 Panchito G. Torro",
-    "timestamp": 1770566299,
-    "timestamp_local": 1770566299
-  },
-  {
-    "id": 39962,
-    "fecha": "08 de Feb del 2026 a las 10:48 AM",
-    "hora_utc": "2026-02-08 15:48",
-    "mensaje": "⚠️ En déficit de capacidad de generación los siguientes circuitos:\n🔹Municipio Manicaragua:\n👉Ctos 109 y 150\n👉Ctos 108 y 110 La Piedra (circuito en avería de manera parcial)\n👉Cto 111 Mataguá",
-    "timestamp": 1770565682,
-    "timestamp_local": 1770565682
-  },
-  {
-    "id": 39961,
-    "fecha": "08 de Feb del 2026 a las 10:30 AM",
-    "hora_utc": "2026-02-08 15:30",
-    "mensaje": "⚡Afectado circuito 57 Motembo perteneciente al municipio de Corralillo para realizar cambio de transformador.",
-    "timestamp": 1770564611,
-    "timestamp_local": 1770564611
-  },
-  {
-    "id": 39960,
-    "fecha": "08 de Feb del 2026 a las 10:16 AM",
-    "hora_utc": "2026-02-08 15:16",
-    "mensaje": "🔸Actualización del servicio eléctrico en la provincia🔸\n✍️Se mantienen afectados en la provincia 51 circuitos.\n✍️En el momento de hacer esta nota la provincia tiene 45 MW por déficit de capacidad de generación.\n✍️Cuenta con 67 afectaciones por averías secundarias y de servicio.",
-    "timestamp": 1770563772,
-    "timestamp_local": 1770563772
   }
 ]
