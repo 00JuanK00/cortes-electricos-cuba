@@ -1,5 +1,13 @@
 [
   {
+    "id": 18070,
+    "fecha": "08 de Feb del 2026 a las 08:28 AM",
+    "hora_utc": "2026-02-08 13:28",
+    "mensaje": "Nota Informativa: Estado del Sistema Eléctrico Nacional (SEN) – 8 de febrero de 2026\n\nEn el día de ayer se afectó el servicio por déficit de capacidad durante 18 horas con 55 minutos, quedando todo restablecido a las 00:36 horas de la madrugada de hoy, comenzando a afectar nuevamente el servicio eléctrico a las 05:23 horas. La máxima afectación por déficit de capacidad de generación en el día de ayer fue de 1536 MW a las 18:20 horas.\n\nLa producción de energía de los 49 nuevos parques solares fotovoltaicos fue de 3377 MWh, con 598 MW como máxima potencia entregada en el horario de la media con esta fuente de generación.\nEstado actual del SEN\n\nLa disponibilidad del SEN a las 06:00 horas es de 1280 MW, la demanda 1740 MW, con 490 MW afectados. En el horario de la media se estima una afectación de 900 MW.\nPrincipales incidencias\n\n    Avería: Unidad 5 de la CTE Mariel, Unidad 2 de la CTE Santa Cruz, Unidad 2 de la CTE Felton y Unidad 6 de la CTE Antonio Maceo.\n    Mantenimiento: Unidad 5 de la CTE Nuevitas, Unidad 4 de la CTE Carlos Manuel de Céspedes en Cienfuegos.\n    Limitaciones en la generación térmica: 491 MW fuera de servicio.\n\nPronóstico para el horario pico\n\nPara el pico se pronostica el completamiento de 70 MW en la unidad 1 Felton, la entrada de 4 motores de la Patana de Regla con 30 MW y entrada de 6 motores del Fuel de Moa con 84 MW.\n\nCon este pronóstico se prevé para el pico una disponibilidad de 1464 MW con una demanda máxima de 2980 MW, para un déficit de 1516 MW, por lo que de mantenerse las condiciones previstas se pronostica una afectación de 1546 MW en este horario.",
+    "timestamp": 1770557301,
+    "timestamp_local": 1770557301
+  },
+  {
     "id": 18068,
     "fecha": "08 de Feb del 2026 a las 12:16 AM",
     "hora_utc": "2026-02-08 05:16",
@@ -94,13 +102,5 @@
     "mensaje": "¿Qué es un disparo por DAF?\nEl Disparo por Frecuencia (DAF) es un mecanismo de protección del sistema eléctrico. Se activa automáticamente cuando la frecuencia desciende por debajo de los valores mínimos seguros (menores de 60 Hz), lo que pone en riesgo la estabilidad del sistema.\nEn ese momento, algunos circuitos se desconectan de forma automática para aliviar la carga y permitir que la frecuencia vuelva a su valor nominal.\nEsto suele ocurrir cuando una planta generadora sale de servicio de manera imprevista, provocando un déficit de generación. El DAF ayuda a evitar un colapso mayor del sistema, aunque puede generar afectaciones al servicio como apagones parciales.",
     "timestamp": 1770332097,
     "timestamp_local": 1770332097
-  },
-  {
-    "id": 18050,
-    "fecha": "05 de Feb del 2026 a las 05:21 PM",
-    "hora_utc": "2026-02-05 22:21",
-    "mensaje": "Restablecida la avería del TK10 y TK8",
-    "timestamp": 1770330073,
-    "timestamp_local": 1770330073
   }
 ]
