@@ -1,5 +1,53 @@
 [
   {
+    "id": 32254,
+    "fecha": "07 de Feb del 2026 a las 11:00 PM",
+    "hora_utc": "2026-02-08 04:00",
+    "mensaje": "📢 A medida que las condiciones del sistema lo permitan, se irán restableciendo de forma gradual los circuitos que han tenido más tiempo de afectación.",
+    "timestamp": 1770523232,
+    "timestamp_local": 1770523232
+  },
+  {
+    "id": 32253,
+    "fecha": "07 de Feb del 2026 a las 10:56 PM",
+    "hora_utc": "2026-02-08 03:56",
+    "mensaje": "⚡Déficit de capacidad de generación en la provincia:45 MW . ⚡",
+    "timestamp": 1770523009,
+    "timestamp_local": 1770523009
+  },
+  {
+    "id": 32252,
+    "fecha": "07 de Feb del 2026 a las 10:55 PM",
+    "hora_utc": "2026-02-08 03:55",
+    "mensaje": "Con servicio\n\n**🔌 **Circuito 4604 que da servicio a Martí-Itabo-Hoyo Colorado.",
+    "timestamp": 1770522946,
+    "timestamp_local": 1770522946
+  },
+  {
+    "id": 32251,
+    "fecha": "07 de Feb del 2026 a las 10:14 PM",
+    "hora_utc": "2026-02-08 03:14",
+    "mensaje": "⚡Déficit de capacidad de generación en la provincia:64 MW . ⚡",
+    "timestamp": 1770520444,
+    "timestamp_local": 1770520444
+  },
+  {
+    "id": 32250,
+    "fecha": "07 de Feb del 2026 a las 10:13 PM",
+    "hora_utc": "2026-02-08 03:13",
+    "mensaje": "Con Servicio\n\n🔌 Circuito GI51 que da servicio a Villa Playa Girón. \n� Circuito GI41 que da servicio a Australia.\n 🔌CircuitoGI69 que da servicio a Playa Larga.\n🔌 CircuitoGI73 que da servicio a Guamá. \n🔌 Circuito GI103 que da servicio a Jagüey Ciudad.\n\n🔌 Circuito 4480 que da servicio a Jagüey circuitos 1 y 2.\n🔌 Circuito 4485 queda servicio a Cítrico, Jagüey.",
+    "timestamp": 1770520392,
+    "timestamp_local": 1770520392
+  },
+  {
+    "id": 32249,
+    "fecha": "07 de Feb del 2026 a las 09:39 PM",
+    "hora_utc": "2026-02-08 02:39",
+    "mensaje": "⚡Déficit de capacidad de generación en la provincia:80 MW . ⚡",
+    "timestamp": 1770518361,
+    "timestamp_local": 1770518361
+  },
+  {
     "id": 32248,
     "fecha": "07 de Feb del 2026 a las 09:21 PM",
     "hora_utc": "2026-02-08 02:21",
@@ -110,53 +158,5 @@
     "mensaje": "⚡Déficit de capacidad de generación en la provincia:80 MW . ⚡",
     "timestamp": 1770482019,
     "timestamp_local": 1770482019
-  },
-  {
-    "id": 32233,
-    "fecha": "07 de Feb del 2026 a las 11:13 AM",
-    "hora_utc": "2026-02-07 16:13",
-    "mensaje": "⚡Déficit de capacidad de generación en la provincia: 71 MW . ⚡",
-    "timestamp": 1770480783,
-    "timestamp_local": 1770480783
-  },
-  {
-    "id": 32232,
-    "fecha": "07 de Feb del 2026 a las 10:32 AM",
-    "hora_utc": "2026-02-07 15:32",
-    "mensaje": "⚡Déficit de capacidad de generación en la provincia: 45 MW . ⚡",
-    "timestamp": 1770478368,
-    "timestamp_local": 1770478368
-  },
-  {
-    "id": 32231,
-    "fecha": "07 de Feb del 2026 a las 10:28 AM",
-    "hora_utc": "2026-02-07 15:28",
-    "mensaje": "CON SERVICIO\n\n🔌 Circuito 1406 que da servicio a Casco Histórico de la ciudad.�\n� Circuito MJ143 Rápido de Versalles, panadería, zona baja de Versalles desde Isabel 1era hasta calle 3eray desde Narciso López hasta calle Unión. \n🔌 Circuito MJ 147 Rebombeo de la Cumbre y desde calle Poza hasta Santa Cristina y desde San Isidro hasta Aranguren.",
-    "timestamp": 1770478101,
-    "timestamp_local": 1770478101
-  },
-  {
-    "id": 32229,
-    "fecha": "07 de Feb del 2026 a las 10:25 AM",
-    "hora_utc": "2026-02-07 15:25",
-    "mensaje": "⚡Déficit de capacidad de generación en la provincia: 36 MW . ⚡",
-    "timestamp": 1770477939,
-    "timestamp_local": 1770477939
-  },
-  {
-    "id": 32228,
-    "fecha": "07 de Feb del 2026 a las 09:30 AM",
-    "hora_utc": "2026-02-07 14:30",
-    "mensaje": "CON SERVICIO\n\nCIRCUITO 4475 Jaguey 110kV",
-    "timestamp": 1770474627,
-    "timestamp_local": 1770474627
-  },
-  {
-    "id": 32227,
-    "fecha": "07 de Feb del 2026 a las 09:22 AM",
-    "hora_utc": "2026-02-07 14:22",
-    "mensaje": "⚡Déficit de capacidad de generación en la provincia: 36  MW . ⚡",
-    "timestamp": 1770474134,
-    "timestamp_local": 1770474134
   }
 ]
