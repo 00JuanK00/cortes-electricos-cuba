@@ -1,5 +1,13 @@
 [
   {
+    "id": 39972,
+    "fecha": "08 de Feb del 2026 a las 01:23 PM",
+    "hora_utc": "2026-02-08 18:23",
+    "mensaje": "Afectados 57 MW en la provincia, demanda máxima a apagar en estos momentos.",
+    "timestamp": 1770574982,
+    "timestamp_local": 1770574982
+  },
+  {
     "id": 39971,
     "fecha": "08 de Feb del 2026 a las 01:02 PM",
     "hora_utc": "2026-02-08 18:02",
@@ -142,13 +150,5 @@
     "mensaje": "✅Ante cualquier duda con la terminología eléctrica, les volvemos explicar: \n     \n✍️Las averías pueden ser primarias (afecta un volumen grande de población pues son las líneas de distribución a 13.8kV y puede afectar varias manzanas, incluso repartos completos).\n\n✍️Secundarias (afecta a todos los clientes que se alimenten del mismo transformador, puede afectar una o varias cuadras). \n\n✍️De servicio (afectan 1 solo cliente o instalación generalmente producto a daños en la acometida, metro contador, etc.).",
     "timestamp": 1770557952,
     "timestamp_local": 1770557952
-  },
-  {
-    "id": 39952,
-    "fecha": "08 de Feb del 2026 a las 08:15 AM",
-    "hora_utc": "2026-02-08 13:15",
-    "mensaje": "💡Con servicio los siguientes circuitos:\n🔹Municipio Santo Domingo:\n👉Cto 195 Batey George Washington\n👉Ctos 83 y 165 Manacas\n👉Ctos 85 y 86 Pajarito\n👉Ctos 160 y 161 Cascajal",
-    "timestamp": 1770556526,
-    "timestamp_local": 1770556526
   }
 ]
