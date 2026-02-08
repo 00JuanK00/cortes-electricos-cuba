@@ -1,5 +1,13 @@
 [
   {
+    "id": 35839,
+    "fecha": "07 de Feb del 2026 a las 09:24 PM",
+    "hora_utc": "2026-02-08 02:24",
+    "mensaje": "‼️ Información del déficit de generación ‼️   \n👉Bajamos a 65 MW en la provincia afectados por déficit de generación.\n⏰ Con este déficit, la carga a apagar en la provincia no nos permite realizar una rotación estable de los circuitos, por lo que se afectarán o se restablecerán en dependencia del déficit que haya en cada momento de la jornada, que es muy variable.",
+    "timestamp": 1770517454,
+    "timestamp_local": 1770517454
+  },
+  {
     "id": 35837,
     "fecha": "07 de Feb del 2026 a las 06:54 PM",
     "hora_utc": "2026-02-07 23:54",
@@ -134,21 +142,5 @@
     "mensaje": "🔊 Información.\n📍Se encuentran afectados por el DAF los circuitos: 📍\n\n👉 Nereida, Peonía, Politécnico de Informática.\n\n\n\n\n❌Un Disparo Automático por Frecuencia (DAF) es una protección que posee el sistema eléctrico para cuando la frecuencia llega a valores mínimos permisibles que ponen en peligro la estabilidad de todo el sistema en su conjunto y provoca una desconexión automática de algunos circuitos hasta que esta vuelva a recuperar su valor nominal a 60 Hz o ciclos por segundo. Esto ocurre al salir de forma imprevista o repentina una planta generadora con una potencia determinada y el sistema en su conjunto necesita liberar esa carga hasta tanto se puedan recuperar la potencia de generación perdida anteriormente o dar las afectaciones al servicio por déficit de generación.",
     "timestamp": 1770479025,
     "timestamp_local": 1770479025
-  },
-  {
-    "id": 35818,
-    "fecha": "07 de Feb del 2026 a las 10:24 AM",
-    "hora_utc": "2026-02-07 15:24",
-    "mensaje": "‼️ Déficit de Generación ‼️   \n👉 Subimos  a 29 MW en la provincia afectados por déficit de generación.\n👉Se incorporan los siguientes circuitos: \n\n✅ 2, Violeta, Pablo, Tres Marías, Velazco, Miraflores, Florencia, Tamarindo.\n\n⏰ Reiteramos que los circuitos se afectarán o se restablecerán en dependencia del déficit en cada momento de la jornada, que es muy variable.",
-    "timestamp": 1770477876,
-    "timestamp_local": 1770477876
-  },
-  {
-    "id": 35817,
-    "fecha": "07 de Feb del 2026 a las 10:01 AM",
-    "hora_utc": "2026-02-07 15:01",
-    "mensaje": "‼️ Déficit de Generación ‼️   \n👉 Bajamos  a 22 MW en la provincia afectados por déficit de generación.\n👉Se incorporan los siguientes circuitos: \n\n✅ Vicente, Baraguá, Colorado.\n\n⏰ Reiteramos que los circuitos se afectarán o se restablecerán en dependencia del déficit en cada momento de la jornada, que es muy variable.",
-    "timestamp": 1770476476,
-    "timestamp_local": 1770476476
   }
 ]
