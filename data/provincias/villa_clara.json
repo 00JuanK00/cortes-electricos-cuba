@@ -1,5 +1,37 @@
 [
   {
+    "id": 39992,
+    "fecha": "08 de Feb del 2026 a las 06:29 PM",
+    "hora_utc": "2026-02-08 23:29",
+    "mensaje": "📣Ante cualquier duda con la terminología eléctrica, les volvemos explicar: \n     \n1️⃣ Las averías pueden ser primarias (afecta un volumen grande de población pues son las líneas de distribución a 13.8kV y puede afectar varias manzanas, incluso repartos completos).\n\n2️⃣ Secundarias (afecta a todos los clientes que se alimenten del mismo transformador, puede afectar una o varias cuadras). \n\n3️⃣ De servicio (afectan 1 solo cliente o instalación generalmente producto a daños en la acometida, metro contador, etc.).",
+    "timestamp": 1770593375,
+    "timestamp_local": 1770593375
+  },
+  {
+    "id": 39991,
+    "fecha": "08 de Feb del 2026 a las 06:06 PM",
+    "hora_utc": "2026-02-08 23:06",
+    "mensaje": "Afectados 131 MW en la provincia, demanda máxima a apagar en estos momentos.",
+    "timestamp": 1770592001,
+    "timestamp_local": 1770592001
+  },
+  {
+    "id": 39990,
+    "fecha": "08 de Feb del 2026 a las 06:05 PM",
+    "hora_utc": "2026-02-08 23:05",
+    "mensaje": "⚠️ En déficit de capacidad de generación los siguientes circuitos:\n🔹Municipio Santa Clara\n👉Ctos 132 y 162 (Santa Clara Industrial)",
+    "timestamp": 1770591924,
+    "timestamp_local": 1770591924
+  },
+  {
+    "id": 39989,
+    "fecha": "08 de Feb del 2026 a las 06:03 PM",
+    "hora_utc": "2026-02-08 23:03",
+    "mensaje": "🕕Actualización del servicio eléctrico en las últimas 6 horas\n✍️El déficit de capacidad de generación osciló entre los 55 MW y los 131 MW\n✍️En el momento de esta nota, se mantienen afectados 121 circuitos.\n✍️Cuenta con 79 afectaciones por averías secundarias y de servicio:\n🔸Caibarien (2)\n🔸Cifuentes (1)\n🔸Corralillo (2)\n🔸Encrucijada (1)\n🔸Manicaragua (7)\n🔸Placetas (5)\n🔸Quemado (1)\n🔸Ranchuelo (1)\n🔸Remedios (9)\n🔸Sagua (11)\n🔸Santa Clara (23)\n🔸Santo Domingo(1)\n🛠️Pendientes a solucionar por el área técnica 10.\n🛠️Se encuentra 5 avería en vías de solución.\n✅La provincia no presenta averías primarias",
+    "timestamp": 1770591819,
+    "timestamp_local": 1770591819
+  },
+  {
     "id": 39988,
     "fecha": "08 de Feb del 2026 a las 05:51 PM",
     "hora_utc": "2026-02-08 22:51",
@@ -118,37 +150,5 @@
     "mensaje": "🔸Actualización del servicio eléctrico en la provincia🔸\n✍️Se mantienen afectados en la provincia 67 circuitos.\n✍️En el momento de hacer esta nota la provincia tiene 55 MW por déficit de capacidad de generación.\n✍️Cuenta con 74 afectaciones por averías secundarias y de servicio.",
     "timestamp": 1770577882,
     "timestamp_local": 1770577882
-  },
-  {
-    "id": 39972,
-    "fecha": "08 de Feb del 2026 a las 01:23 PM",
-    "hora_utc": "2026-02-08 18:23",
-    "mensaje": "Afectados 57 MW en la provincia, demanda máxima a apagar en estos momentos.",
-    "timestamp": 1770574982,
-    "timestamp_local": 1770574982
-  },
-  {
-    "id": 39971,
-    "fecha": "08 de Feb del 2026 a las 01:02 PM",
-    "hora_utc": "2026-02-08 18:02",
-    "mensaje": "💡Con servicio los siguientes circuitos:\n🔹Municipio Remedios:\n👉Ctos 67 y 152, 68 y 118 \n👉Ctos 69 y 70 Zuluetas\n👉Cto 143 Batey Heriberto Duquezne \n👉Cto 71 Buena Vista",
-    "timestamp": 1770573770,
-    "timestamp_local": 1770573770
-  },
-  {
-    "id": 39970,
-    "fecha": "08 de Feb del 2026 a las 12:44 PM",
-    "hora_utc": "2026-02-08 17:44",
-    "mensaje": "💡Con servicio los siguientes circuitos:\n🔹Municipio Placetas \n👉Ctos 100 y 151 Placetas\n👉Cto 104 Hermanos Amejeiras\n👉Cto 103 Batey Carbó Servía",
-    "timestamp": 1770572649,
-    "timestamp_local": 1770572649
-  },
-  {
-    "id": 39969,
-    "fecha": "08 de Feb del 2026 a las 12:38 PM",
-    "hora_utc": "2026-02-08 17:38",
-    "mensaje": "Afectados 71 MW en la provincia, demanda máxima a apagar en estos momentos.",
-    "timestamp": 1770572327,
-    "timestamp_local": 1770572327
   }
 ]
