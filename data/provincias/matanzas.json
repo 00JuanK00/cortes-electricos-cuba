@@ -1,5 +1,29 @@
 [
   {
+    "id": 32300,
+    "fecha": "09 de Feb del 2026 a las 05:11 AM",
+    "hora_utc": "2026-02-09 10:11",
+    "mensaje": "🪫 La provincia se encuentra con un déficit de capacidad de generación de 41 MW.",
+    "timestamp": 1770631886,
+    "timestamp_local": 1770631886
+  },
+  {
+    "id": 32299,
+    "fecha": "09 de Feb del 2026 a las 04:53 AM",
+    "hora_utc": "2026-02-09 09:53",
+    "mensaje": "⚡**Déficit de capacidad de generación en la provincia: 29 MW**⚡",
+    "timestamp": 1770630829,
+    "timestamp_local": 1770630829
+  },
+  {
+    "id": 32298,
+    "fecha": "09 de Feb del 2026 a las 04:52 AM",
+    "hora_utc": "2026-02-09 09:52",
+    "mensaje": "Estimados clientes:\n\nLes informamos que el circuito 501 se encuentra en fallo. Agradecemos su comprensión y paciencia mientras trabajamos para mejorar el servicio.",
+    "timestamp": 1770630758,
+    "timestamp_local": 1770630758
+  },
+  {
     "id": 32297,
     "fecha": "09 de Feb del 2026 a las 03:42 AM",
     "hora_utc": "2026-02-09 08:42",
@@ -134,29 +158,5 @@
     "mensaje": "⚡Déficit de capacidad de generación en la provincia: 76 MW⚡",
     "timestamp": 1770581651,
     "timestamp_local": 1770581651
-  },
-  {
-    "id": 32279,
-    "fecha": "08 de Feb del 2026 a las 02:52 PM",
-    "hora_utc": "2026-02-08 19:52",
-    "mensaje": "🪫 La provincia se encuentra con un déficit de capacidad de generación de 65 MW.",
-    "timestamp": 1770580358,
-    "timestamp_local": 1770580358
-  },
-  {
-    "id": 32278,
-    "fecha": "08 de Feb del 2026 a las 02:13 PM",
-    "hora_utc": "2026-02-08 19:13",
-    "mensaje": "⚡En estos momentos tenemos afectados 45 MW en la provincia por déficit de capacidad de generación.⚡",
-    "timestamp": 1770578011,
-    "timestamp_local": 1770578011
-  },
-  {
-    "id": 32277,
-    "fecha": "08 de Feb del 2026 a las 01:20 PM",
-    "hora_utc": "2026-02-08 18:20",
-    "mensaje": "PROXIMOS CIRCUITOS A RESTABLECER\n\n⚡**Déficit de capacidad de generación en la provincia: 46 MW**⚡\n\n🔌 Circuito 4480 que da servicio a Jagüey circuitos 1 y 2.\n🔌 Circuito 4485 que da servicio a Cítrico, Jagüey.\n🔌 Circuito 4819 que da servicio a Poblado de Carlos Rojas.\n🔌 Circuito JI44 que da servicio a Jovellanos pueblo circuito 1.\n🔌 Circuito GI051 que da servicio a Jovellanos pueblo circuito 2.",
-    "timestamp": 1770574857,
-    "timestamp_local": 1770574857
   }
 ]
