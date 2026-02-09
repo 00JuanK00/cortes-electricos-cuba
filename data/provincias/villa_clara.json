@@ -1,5 +1,29 @@
 [
   {
+    "id": 40055,
+    "fecha": "09 de Feb del 2026 a las 05:05 PM",
+    "hora_utc": "2026-02-09 22:05",
+    "mensaje": "⚠️ En déficit de capacidad de generación los siguientes circuitos:\n🔹Municipio Placetas:\n👉Cto 192 Benito Juárez\n👉Cto 102 Peroti",
+    "timestamp": 1770674719,
+    "timestamp_local": 1770674719
+  },
+  {
+    "id": 40054,
+    "fecha": "09 de Feb del 2026 a las 04:28 PM",
+    "hora_utc": "2026-02-09 21:28",
+    "mensaje": "⚠️ En déficit de capacidad de generación los siguientes circuitos:\n🔹Municipio Sagua\n👉Cto 44 Isabela\n👉Ctos 50 y 147 Villa Alegre",
+    "timestamp": 1770672496,
+    "timestamp_local": 1770672496
+  },
+  {
+    "id": 40053,
+    "fecha": "09 de Feb del 2026 a las 04:26 PM",
+    "hora_utc": "2026-02-09 21:26",
+    "mensaje": "🔸Actualización del servicio eléctrico en la provincia🔸\n✍️Se mantienen afectados en la provincia 108 circuitos.\n✍️En el momento de hacer esta nota la provincia tiene 84 MW por déficit de capacidad de generación.\n✍️Cuenta con 70 afectaciones por averías secundarias y de servicio.",
+    "timestamp": 1770672363,
+    "timestamp_local": 1770672363
+  },
+  {
     "id": 40052,
     "fecha": "09 de Feb del 2026 a las 04:21 PM",
     "hora_utc": "2026-02-09 21:21",
@@ -134,29 +158,5 @@
     "mensaje": "⚠️ En déficit de capacidad de generación el circuito 6 (Vigía), del municipio Santa Clara.",
     "timestamp": 1770656037,
     "timestamp_local": 1770656037
-  },
-  {
-    "id": 40034,
-    "fecha": "09 de Feb del 2026 a las 11:01 AM",
-    "hora_utc": "2026-02-09 16:01",
-    "mensaje": "⚠️ En déficit de capacidad de generación los siguientes circuitos:\n🔹Municipio Placetas:\n👉Ctos 101 y 145 Cumbre",
-    "timestamp": 1770652902,
-    "timestamp_local": 1770652902
-  },
-  {
-    "id": 40033,
-    "fecha": "09 de Feb del 2026 a las 10:58 AM",
-    "hora_utc": "2026-02-09 15:58",
-    "mensaje": "⚠️ En déficit de capacidad de generación los siguientes circuitos:\n🔹Municipio Sagua\n👉Ctos 43, 51 Sagua",
-    "timestamp": 1770652716,
-    "timestamp_local": 1770652716
-  },
-  {
-    "id": 40032,
-    "fecha": "09 de Feb del 2026 a las 10:57 AM",
-    "hora_utc": "2026-02-09 15:57",
-    "mensaje": "⚠️ En déficit de capacidad de generación los siguientes circuitos:\n🔹Municipio Santo Domingo:\n👉Cto 134\n👉Ctos 87 y 96 Bermejal\n👉Cto 187 Batey Carlos Baliño\n👉Cto 82 Ulacia\n👉Cto 84 Rodrigo",
-    "timestamp": 1770652652,
-    "timestamp_local": 1770652652
   }
 ]
