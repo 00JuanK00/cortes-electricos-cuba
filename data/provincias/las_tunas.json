@@ -102,13 +102,5 @@
     "mensaje": "Se encuentran en avería los siguientes circuitos:\nTK10 El Cornito y El TK 8 Sendero",
     "timestamp": 1770340449,
     "timestamp_local": 1770340449
-  },
-  {
-    "id": 18052,
-    "fecha": "05 de Feb del 2026 a las 05:54 PM",
-    "hora_utc": "2026-02-05 22:54",
-    "mensaje": "¿Qué es un disparo por DAF?\nEl Disparo por Frecuencia (DAF) es un mecanismo de protección del sistema eléctrico. Se activa automáticamente cuando la frecuencia desciende por debajo de los valores mínimos seguros (menores de 60 Hz), lo que pone en riesgo la estabilidad del sistema.\nEn ese momento, algunos circuitos se desconectan de forma automática para aliviar la carga y permitir que la frecuencia vuelva a su valor nominal.\nEsto suele ocurrir cuando una planta generadora sale de servicio de manera imprevista, provocando un déficit de generación. El DAF ayuda a evitar un colapso mayor del sistema, aunque puede generar afectaciones al servicio como apagones parciales.",
-    "timestamp": 1770332097,
-    "timestamp_local": 1770332097
   }
 ]
