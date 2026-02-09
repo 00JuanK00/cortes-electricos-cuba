@@ -1,5 +1,29 @@
 [
   {
+    "id": 40039,
+    "fecha": "09 de Feb del 2026 a las 01:15 PM",
+    "hora_utc": "2026-02-09 18:15",
+    "mensaje": "⚠️ En déficit de capacidad de generación los siguientes circuitos:\n🔹Municipio Ranchuelo: \n👉Ctos 89, 97, 188 y 189\n👉Ctos 148 y 149 San Juan\n👉Cto 91 Batey Osvaldo Herrera\n👉Cto 181 Batey Ifraín Alfonso",
+    "timestamp": 1770660952,
+    "timestamp_local": 1770660952
+  },
+  {
+    "id": 40038,
+    "fecha": "09 de Feb del 2026 a las 01:15 PM",
+    "hora_utc": "2026-02-09 18:15",
+    "mensaje": "🔴 10:05 || Fuera de línea la Unidad 1 de la CTE Antonio Guiteras por grieta en la estructura de la caldera.",
+    "timestamp": 1770660934,
+    "timestamp_local": 1770660934
+  },
+  {
+    "id": 40037,
+    "fecha": "09 de Feb del 2026 a las 01:07 PM",
+    "hora_utc": "2026-02-09 18:07",
+    "mensaje": "⚠️ En déficit de capacidad de generación los siguientes circuitos:\n🔹Municipio Manicaragua \n👉Ctos 109 y 150 \n👉Ctos 108 y 110  La Piedra \n👉Cto 111 Mataguá",
+    "timestamp": 1770660449,
+    "timestamp_local": 1770660449
+  },
+  {
     "id": 40036,
     "fecha": "09 de Feb del 2026 a las 12:03 PM",
     "hora_utc": "2026-02-09 17:03",
@@ -134,29 +158,5 @@
     "mensaje": "Afectados 64 MW en la provincia, demanda máxima a apagar en estos momentos.",
     "timestamp": 1770638772,
     "timestamp_local": 1770638772
-  },
-  {
-    "id": 40018,
-    "fecha": "09 de Feb del 2026 a las 06:57 AM",
-    "hora_utc": "2026-02-09 11:57",
-    "mensaje": "⚠️ En déficit de capacidad de generación los siguientes circuitos:\n🔹Municipio Remedios:\n👉Ctos 67 y 152, 68 y 118 \n👉Ctos 69 y 70 Zuluetas\n👉Cto 143 Batey Heriberto Duquezne \n👉Cto 71 Buena Vista\n🔹Municipio Cifuentes:\n👉Ctos 114 y 117\n👉Ctos 116 y 155 Mata\n👉Cto 186 Batey Unidad Proletaria\n👉Cto 184 Sitio Grande",
-    "timestamp": 1770638224,
-    "timestamp_local": 1770638224
-  },
-  {
-    "id": 40017,
-    "fecha": "09 de Feb del 2026 a las 06:53 AM",
-    "hora_utc": "2026-02-09 11:53",
-    "mensaje": "⚠️ En déficit de capacidad de generación los siguientes circuitos:\n🔹Municipio Encrucijada\n👉Cto 120 Calabazar\n👉Ctos 121 y 127 Perucho",
-    "timestamp": 1770638001,
-    "timestamp_local": 1770638001
-  },
-  {
-    "id": 40016,
-    "fecha": "09 de Feb del 2026 a las 06:41 AM",
-    "hora_utc": "2026-02-09 11:41",
-    "mensaje": "⚠️ En déficit de capacidad de generación los siguientes circuitos:\n🔹Municipio Santo Domingo:\n👉Cto 134\n👉Ctos 87 y 96 Bermejal\n👉Cto 187 Batey Carlos Baliño\n👉Cto 82 Ulacia\n👉Cto 84 Rodrigo",
-    "timestamp": 1770637312,
-    "timestamp_local": 1770637312
   }
 ]
