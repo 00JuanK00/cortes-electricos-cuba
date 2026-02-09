@@ -1,5 +1,21 @@
 [
   {
+    "id": 40010,
+    "fecha": "09 de Feb del 2026 a las 02:22 AM",
+    "hora_utc": "2026-02-09 07:22",
+    "mensaje": "💡Con servicio los siguientes circuitos:\n🔹Municipio Sagua\n👉Ctos 43, 51 Sagua\n👉Cto 44 Isabela\n👉Ctos 50 y 147 Villa Alegre",
+    "timestamp": 1770621748,
+    "timestamp_local": 1770621748
+  },
+  {
+    "id": 40009,
+    "fecha": "09 de Feb del 2026 a las 01:55 AM",
+    "hora_utc": "2026-02-09 06:55",
+    "mensaje": "🔸Actualización del servicio eléctrico en la provincia🔸\n✍️Se mantienen afectados en la provincia 37 circuitos.\n✍️En el momento de hacer esta nota la provincia tiene 18 MW por déficit de capacidad de generación.\n✍️Cuenta con 39 afectaciones por averías secundarias y de servicio.",
+    "timestamp": 1770620108,
+    "timestamp_local": 1770620108
+  },
+  {
     "id": 40008,
     "fecha": "09 de Feb del 2026 a las 01:45 AM",
     "hora_utc": "2026-02-09 06:45",
@@ -134,21 +150,5 @@
     "mensaje": "Afectados 131 MW en la provincia, demanda máxima a apagar en estos momentos.",
     "timestamp": 1770592001,
     "timestamp_local": 1770592001
-  },
-  {
-    "id": 39990,
-    "fecha": "08 de Feb del 2026 a las 06:05 PM",
-    "hora_utc": "2026-02-08 23:05",
-    "mensaje": "⚠️ En déficit de capacidad de generación los siguientes circuitos:\n🔹Municipio Santa Clara\n👉Ctos 132 y 162 (Santa Clara Industrial)",
-    "timestamp": 1770591924,
-    "timestamp_local": 1770591924
-  },
-  {
-    "id": 39989,
-    "fecha": "08 de Feb del 2026 a las 06:03 PM",
-    "hora_utc": "2026-02-08 23:03",
-    "mensaje": "🕕Actualización del servicio eléctrico en las últimas 6 horas\n✍️El déficit de capacidad de generación osciló entre los 55 MW y los 131 MW\n✍️En el momento de esta nota, se mantienen afectados 121 circuitos.\n✍️Cuenta con 79 afectaciones por averías secundarias y de servicio:\n🔸Caibarien (2)\n🔸Cifuentes (1)\n🔸Corralillo (2)\n🔸Encrucijada (1)\n🔸Manicaragua (7)\n🔸Placetas (5)\n🔸Quemado (1)\n🔸Ranchuelo (1)\n🔸Remedios (9)\n🔸Sagua (11)\n🔸Santa Clara (23)\n🔸Santo Domingo(1)\n🛠️Pendientes a solucionar por el área técnica 10.\n🛠️Se encuentra 5 avería en vías de solución.\n✅La provincia no presenta averías primarias",
-    "timestamp": 1770591819,
-    "timestamp_local": 1770591819
   }
 ]
