@@ -1,5 +1,29 @@
 [
   {
+    "id": 49463,
+    "fecha": "09 de Feb del 2026 a las 05:54 AM",
+    "hora_utc": "2026-02-09 10:54",
+    "mensaje": "🔴Estimados clientes se les informa que se incorpora a la afectación la línea 5395 San Luis.",
+    "timestamp": 1770634461,
+    "timestamp_local": 1770634461
+  },
+  {
+    "id": 49462,
+    "fecha": "09 de Feb del 2026 a las 05:42 AM",
+    "hora_utc": "2026-02-09 10:42",
+    "mensaje": "🔴Estimados clientes se les informa que se incorporan a la afectación los circuitos  , 16 , 1 , 25 y el 2 .",
+    "timestamp": 1770633751,
+    "timestamp_local": 1770633751
+  },
+  {
+    "id": 49461,
+    "fecha": "09 de Feb del 2026 a las 05:39 AM",
+    "hora_utc": "2026-02-09 10:39",
+    "mensaje": "🔴Estimados clientes se les informa que se incorporan a la afectación los circuitos , 23 , 24 , el 1 de Palma y el circuito 20.",
+    "timestamp": 1770633595,
+    "timestamp_local": 1770633595
+  },
+  {
     "id": 49460,
     "fecha": "09 de Feb del 2026 a las 05:37 AM",
     "hora_utc": "2026-02-09 10:37",
@@ -118,29 +142,5 @@
     "mensaje": "🚨Disparo Automático de Frecuencia (DAF):\nOcurre cuando la frecuencia está por debajo de los 60Hz y determinada carga o circuito se desconecta del sistema automáticamente hasta que se estabilice.",
     "timestamp": 1770586516,
     "timestamp_local": 1770586516
-  },
-  {
-    "id": 49443,
-    "fecha": "08 de Feb del 2026 a las 04:34 PM",
-    "hora_utc": "2026-02-08 21:34",
-    "mensaje": "🔊Estimados clientes en estos momentos se encuentra Disparado por DAF el circuito 4 de Palma",
-    "timestamp": 1770586499,
-    "timestamp_local": 1770586499
-  },
-  {
-    "id": 49442,
-    "fecha": "08 de Feb del 2026 a las 04:34 PM",
-    "hora_utc": "2026-02-08 21:34",
-    "mensaje": "🔊Estimados clientes en estos momentos se encuentra afectados por Déficit de Capacidad de Generación Las Líneas 5975 Baconao y 5385 Mella",
-    "timestamp": 1770586444,
-    "timestamp_local": 1770586444
-  },
-  {
-    "id": 49441,
-    "fecha": "08 de Feb del 2026 a las 04:14 PM",
-    "hora_utc": "2026-02-08 21:14",
-    "mensaje": "🔊Estimados clientes en estos momentos se encuentra afectados por Déficit de Capacidad de Generación los circuitos 20 , 23 , 16 de Santiago y el 1 de Palma",
-    "timestamp": 1770585264,
-    "timestamp_local": 1770585264
   }
 ]

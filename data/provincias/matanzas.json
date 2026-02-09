@@ -1,5 +1,21 @@
 [
   {
+    "id": 32302,
+    "fecha": "09 de Feb del 2026 a las 06:17 AM",
+    "hora_utc": "2026-02-09 11:17",
+    "mensaje": "⚠ATENCIÓN⚠: Disparo automático por frecuencia (DAF) de los circuitos:\n\n🔌 Circuito 4074 que da servicio a Indio Hatuey, Batey Admiración, San Antonio, La Angelina, Máximo Gómez, Batey el Coloso, Carolina, Santa Rosa, Capitolio, Población de Julio Reyes Cairo, Gratitud, Batey Cuba Libre y la Rueda, Batey y Pollera La Fermina, Acueducto San Vicente, Bombeo Epica, Finca Fortunita y Rolando.\n 🔌CIRCUITO 4075 ES DE 33KV PERO DENTRO TIENE A 4071 Y 4072.\n\n👷 Se trabaja activamente para solucionar la afectación.",
+    "timestamp": 1770635838,
+    "timestamp_local": 1770635838
+  },
+  {
+    "id": 32301,
+    "fecha": "09 de Feb del 2026 a las 06:09 AM",
+    "hora_utc": "2026-02-09 11:09",
+    "mensaje": "📉 🪫👉 La provincia se encuentra en el máximo apagable con un déficit de capacidad de generación de 51 MW.\n\n📢 A medida que las condiciones del sistema lo permitan, se irán restableciendo de forma gradual los circuitos que han tenido más tiempo de afectación.",
+    "timestamp": 1770635380,
+    "timestamp_local": 1770635380
+  },
+  {
     "id": 32300,
     "fecha": "09 de Feb del 2026 a las 05:11 AM",
     "hora_utc": "2026-02-09 10:11",
@@ -142,21 +158,5 @@
     "mensaje": "🪫 La provincia se encuentra con un déficit de capacidad de generación de 110 MW.",
     "timestamp": 1770591165,
     "timestamp_local": 1770591165
-  },
-  {
-    "id": 32281,
-    "fecha": "08 de Feb del 2026 a las 04:22 PM",
-    "hora_utc": "2026-02-08 21:22",
-    "mensaje": "⚡En estos momentos tenemos afectados 99 MW en la provincia por déficit de capacidad de generación.⚡",
-    "timestamp": 1770585737,
-    "timestamp_local": 1770585737
-  },
-  {
-    "id": 32280,
-    "fecha": "08 de Feb del 2026 a las 03:14 PM",
-    "hora_utc": "2026-02-08 20:14",
-    "mensaje": "⚡Déficit de capacidad de generación en la provincia: 76 MW⚡",
-    "timestamp": 1770581651,
-    "timestamp_local": 1770581651
   }
 ]
