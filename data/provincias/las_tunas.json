@@ -1,5 +1,29 @@
 [
   {
+    "id": 18075,
+    "fecha": "09 de Feb del 2026 a las 08:51 AM",
+    "hora_utc": "2026-02-09 13:51",
+    "mensaje": "Se afecta el circuito TK 47 La Micro en Puerto Padre Vía Libre por emergencia.",
+    "timestamp": 1770645061,
+    "timestamp_local": 1770645061
+  },
+  {
+    "id": 18074,
+    "fecha": "09 de Feb del 2026 a las 08:45 AM",
+    "hora_utc": "2026-02-09 13:45",
+    "mensaje": "Se restablece los siguientes circuitos:\nCircuito 33 Kv: 6810\nTK82 Tana\nTK83 Las Maboas\nTK113 La Aurora\nTK74 La Lomita\nTK110 El Batey\n6810 Poblado Amancio\n\nCircuito 33 Kv: 6305\nTK41 Calixto\nTK40 Vista Alegre\nTK42 Gastón y Arroyo Muerto\nTK45 La Ceiba\nTK43 Las Parras, Omaja y Cañada Honda\nTK44 Vivienda\n\nCircuito 33 Kv: 4220\nTK28 La Guinea\nTK52 Covarrubias\nTK31 Pueblo Manatí\nTK33 Pueblo Manatí\nTK34 Pueblo Manatí\n\nCircuito 33 Kv: 6230\nTK59 Vedado 3\nTK67 Porcino\nTK68 Vedado 6\nTK69 Poblado de Menéndez\nTK70 Transporte\nTK99 Santa Marías\nTK98 San Manuel, La Pedrera\nTK64 Palma Picada\n\nCircuito 33 Kv: 6220\nTK61 La Yaya\nTK58 La Calera\nTK62 Lora\nTK63 Lora\nTJ95 Poblado Menéndez\n6220 Carúpano, La Salina y La Playa\n\nTK93 Batey Delicias",
+    "timestamp": 1770644747,
+    "timestamp_local": 1770644747
+  },
+  {
+    "id": 18073,
+    "fecha": "09 de Feb del 2026 a las 07:09 AM",
+    "hora_utc": "2026-02-09 12:09",
+    "mensaje": "La provincia presenta máxima capacidad apagable en estosmomentos, lo que no ha permitido realizar la rotación de los circuitos conmayor tiempo de afectación. Se irán restableciendo en la medida que el SistemaElectroenergético lo permita.** **De\n\nbido al significativo déficit energético que enfrentanuestro país y la disponibilidad limitada del Sistema Eléctrico Nacional(SEN)en comparación con la demanda actual, lamentamos no poder proporcionar unaprogramación detallada de las afectaciones en el suministro eléctrico.Agradecemos su compresión y ofrecemos nuestras más sinceras disculpas por lasmolestias que esto pueda causarles.",
+    "timestamp": 1770638958,
+    "timestamp_local": 1770638958
+  },
+  {
     "id": 18071,
     "fecha": "08 de Feb del 2026 a las 04:09 PM",
     "hora_utc": "2026-02-08 21:09",
@@ -86,21 +110,5 @@
     "mensaje": "⚡ Actualización del Sistema Electroenergético Nacional para el 6 de febrero de 2026.\n\nEn el día de ayer se afectó el servicio por déficit de capacidad durante las 24 horas, quedando todo restablecido a las 01:11  de la madrugada de hoy y se comenzó a afectar a las 05:00. La máxima afectación por déficit de capacidad de generación en el día de ayer fue de 1844 MW a las 18:20 horas.\n\n☀️ La producción de energía de los 49 nuevos parques solares fotovoltaicos fue de 2091 MWh, con 393 MW como máxima potencia entregada en el horario de la media con esta fuente de generación. \n\n🟢 La disponibilidad del SEN a las 06:00 horas es de 1255 MW, la demanda 1745 MW, con 519 MW afectados. En el horario de la media se estima una afectación de 950 MW.  \n\n🔴 Se encuentran en avería: unidad 5 de la CTE Mariel, la unidad 2 de la CTE Santa Cruz, la unidad 2 de la CTE Felton y la unidad 6 de la CTE Renté.\n\n⚙️ Se encuentran en mantenimiento la unidad 4 de la CTE Cienfuegos y la unidad 5 de la CTE Diez de Octubre.\n\nℹ️ Las limitaciones en la generación térmica son de 525 MW.\n\n📈 Para el horario pico se espera la entrada de 5 motores del Fuel Moa con 75 MW, la entrada de 5 motores de la patana de Regla con 64 MW.\n \nCon este pronóstico se prevé en el horario pico una disponibilidad de 1394 MW con una demanda máxima de 3100 MW, para un déficit de 1730 MW, por lo que de mantenerse las condiciones previstas se pronostica una afectación de 1760 MW en este horario.\n\n#UnidosXCuba #UniónEléctrica #UNE #NotaInformativa",
     "timestamp": 1770382821,
     "timestamp_local": 1770382821
-  },
-  {
-    "id": 18055,
-    "fecha": "06 de Feb del 2026 a las 12:09 AM",
-    "hora_utc": "2026-02-06 05:09",
-    "mensaje": "Se restablecen todos los circuitos afectados por déficit en la provincia.",
-    "timestamp": 1770354548,
-    "timestamp_local": 1770354548
-  },
-  {
-    "id": 18054,
-    "fecha": "05 de Feb del 2026 a las 08:14 PM",
-    "hora_utc": "2026-02-06 01:14",
-    "mensaje": "Se encuentran en avería los siguientes circuitos:\nTK10 El Cornito y El TK 8 Sendero",
-    "timestamp": 1770340449,
-    "timestamp_local": 1770340449
   }
 ]
