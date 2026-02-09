@@ -1,5 +1,37 @@
 [
   {
+    "id": 40019,
+    "fecha": "09 de Feb del 2026 a las 07:06 AM",
+    "hora_utc": "2026-02-09 12:06",
+    "mensaje": "Afectados 64 MW en la provincia, demanda máxima a apagar en estos momentos.",
+    "timestamp": 1770638772,
+    "timestamp_local": 1770638772
+  },
+  {
+    "id": 40018,
+    "fecha": "09 de Feb del 2026 a las 06:57 AM",
+    "hora_utc": "2026-02-09 11:57",
+    "mensaje": "⚠️ En déficit de capacidad de generación los siguientes circuitos:\n🔹Municipio Remedios:\n👉Ctos 67 y 152, 68 y 118 \n👉Ctos 69 y 70 Zuluetas\n👉Cto 143 Batey Heriberto Duquezne \n👉Cto 71 Buena Vista\n🔹Municipio Cifuentes:\n👉Ctos 114 y 117\n👉Ctos 116 y 155 Mata\n👉Cto 186 Batey Unidad Proletaria\n👉Cto 184 Sitio Grande",
+    "timestamp": 1770638224,
+    "timestamp_local": 1770638224
+  },
+  {
+    "id": 40017,
+    "fecha": "09 de Feb del 2026 a las 06:53 AM",
+    "hora_utc": "2026-02-09 11:53",
+    "mensaje": "⚠️ En déficit de capacidad de generación los siguientes circuitos:\n🔹Municipio Encrucijada\n👉Cto 120 Calabazar\n👉Ctos 121 y 127 Perucho",
+    "timestamp": 1770638001,
+    "timestamp_local": 1770638001
+  },
+  {
+    "id": 40016,
+    "fecha": "09 de Feb del 2026 a las 06:41 AM",
+    "hora_utc": "2026-02-09 11:41",
+    "mensaje": "⚠️ En déficit de capacidad de generación los siguientes circuitos:\n🔹Municipio Santo Domingo:\n👉Cto 134\n👉Ctos 87 y 96 Bermejal\n👉Cto 187 Batey Carlos Baliño\n👉Cto 82 Ulacia\n👉Cto 84 Rodrigo",
+    "timestamp": 1770637312,
+    "timestamp_local": 1770637312
+  },
+  {
     "id": 40015,
     "fecha": "09 de Feb del 2026 a las 06:12 AM",
     "hora_utc": "2026-02-09 11:12",
@@ -126,37 +158,5 @@
     "mensaje": "🔸Actualización del servicio eléctrico en la provincia🔸\n✍️Se mantienen afectados en la provincia 96 circuitos.\n✍️En el momento de hacer esta nota la provincia tiene 51 MW por déficit de capacidad de generación.\n✍️Cuenta con 49 afectaciones por averías secundarias y de servicio.",
     "timestamp": 1770610513,
     "timestamp_local": 1770610513
-  },
-  {
-    "id": 39999,
-    "fecha": "08 de Feb del 2026 a las 10:49 PM",
-    "hora_utc": "2026-02-09 03:49",
-    "mensaje": "💡Con servicio los siguientes circuitos:\n🔹Municipio Caibarién\n👉Ctos 63 y 64\n👉Ctos 182 y 183 Van Troy",
-    "timestamp": 1770608970,
-    "timestamp_local": 1770608970
-  },
-  {
-    "id": 39998,
-    "fecha": "08 de Feb del 2026 a las 09:55 PM",
-    "hora_utc": "2026-02-09 02:55",
-    "mensaje": "Afectados 87 MW en la provincia, demanda máxima a apagar en estos momentos.",
-    "timestamp": 1770605723,
-    "timestamp_local": 1770605723
-  },
-  {
-    "id": 39997,
-    "fecha": "08 de Feb del 2026 a las 09:00 PM",
-    "hora_utc": "2026-02-09 02:00",
-    "mensaje": "💡Con servicio los siguientes circuitos:\n➡️ Línea 861\n🔹Municipio Santa Clara:\n👉Cto 5 (Dobarganes)\n👉Cto 17 (Subplanta) \n👉Ctos 37 y 38 (Yabú)   \n👉Cto 9 (Moldes y Troqueles)\n👉Cto 13 (Zona Industrial)\n👉Cto 133 (Taller Cafetera)",
-    "timestamp": 1770602444,
-    "timestamp_local": 1770602444
-  },
-  {
-    "id": 39996,
-    "fecha": "08 de Feb del 2026 a las 08:57 PM",
-    "hora_utc": "2026-02-09 01:57",
-    "mensaje": "🛠️Afectada por manipulación  Línea 861 para trabajar en la Sub del Yabu\n🔹Municipio Santa Clara:\n👉Cto 5 (Dobarganes)\n👉Cto 17 (Subplanta) \n👉Ctos 37 y 38 (Yabú)   \n👉Cto 9 (Moldes y Troqueles)\n👉Cto 13 (Zona Industrial)\n👉Cto 133 (Taller Cafetera)",
-    "timestamp": 1770602243,
-    "timestamp_local": 1770602243
   }
 ]
