@@ -1,5 +1,21 @@
 [
   {
+    "id": 106158,
+    "fecha": "09 de Feb del 2026 a las 10:56 AM",
+    "hora_utc": "2026-02-09 15:56",
+    "mensaje": "🔷 Restablecido el servicio en el circuito 3140 que se encontraba afectado por disparo por DAF🔷",
+    "timestamp": 1770652579,
+    "timestamp_local": 1770652579
+  },
+  {
+    "id": 106154,
+    "fecha": "09 de Feb del 2026 a las 10:52 AM",
+    "hora_utc": "2026-02-09 15:52",
+    "mensaje": "♦️ Afectado el servicio en el circuito 3140 por disparo por DAF ♦️",
+    "timestamp": 1770652340,
+    "timestamp_local": 1770652340
+  },
+  {
     "id": 106153,
     "fecha": "09 de Feb del 2026 a las 10:28 AM",
     "hora_utc": "2026-02-09 15:28",
@@ -40,14 +56,6 @@
     "timestamp_local": 1770647587
   },
   {
-    "id": 106147,
-    "fecha": "09 de Feb del 2026 a las 08:38 AM",
-    "hora_utc": "2026-02-09 13:38",
-    "mensaje": "Nota Informativa: Estado del Sistema Eléctrico Nacional (SEN) – 9 de febrero de 2026\n\nEn el día de ayer se afectó el servicio por déficit de capacidad durante las 19 horas y 47 minutos, se ha mantenido la afectación durante la madrugada de hoy. La máxima afectación por déficit de capacidad de generación en el día de ayer fue de 1722 MW a las 18:30 horas.\nLa producción de energía de los 49 nuevos parques solares fotovoltaicos fue de 4259 MWh, con 654 MW como máxima potencia entregada en el horario de la media con esta fuente de generación.\n\nEstado actual del SEN\n\nLa disponibilidad del SEN a las 06:00 horas es de 1170 MW, la demanda 2000 MW, con 819 MW afectados. En el horario de la media se estima una afectación de 1150 MW.\n\nPrincipales incidencias\n\nAvería: Unidad 5 de la CTE Mariel, Unidad 2 de la CTE Santa Cruz, Unidad 2 de la CTE Felton y Unidad 6 de la CTE Antonio Maceo.\n\nMantenimiento: Unidad 5 de la CTE Nuevitas, Unidad 4 de la CTE Carlos Manuel de Céspedes en Cienfuegos. en el horario de la mañana saldrá la CTE Guiteras para reparar un fallo en la estructura de la caldera.\n\nLimitaciones en la generación térmica: 588 MW fuera de servicio.\n\nPronóstico para el horario pico\n\nPara el pico se pronostica el completamiento de 60 MW en la unidad 1 Felton, la entrada de 4 motores de la Patana de Regla con 30 MW y entrada de 6 motores del Fuel de Moa con 84 MW.\nCon este pronóstico se prevé para el pico una disponibilidad de 1224 MW con una demanda máxima de 3100 MW, para un déficit de 1876 MW, por lo que de mantenerse las condiciones previstas se pronostica una afectación de 1906 MW en este horario.",
-    "timestamp": 1770644320,
-    "timestamp_local": 1770644320
-  },
-  {
     "id": 106143,
     "fecha": "09 de Feb del 2026 a las 08:29 AM",
     "hora_utc": "2026-02-09 13:29",
@@ -86,29 +94,5 @@
     "mensaje": "🔷♦️Se restablece el servicio en el circuito que se encontraba afectado  por déficit de capacidad de generación:\n*Caamaño ♦️🔷",
     "timestamp": 1770636304,
     "timestamp_local": 1770636304
-  },
-  {
-    "id": 106136,
-    "fecha": "09 de Feb del 2026 a las 06:17 AM",
-    "hora_utc": "2026-02-09 11:17",
-    "mensaje": "🔷Con servicio el circuito 3140 que se encontraba afectado por disparo por DAF🔷",
-    "timestamp": 1770635849,
-    "timestamp_local": 1770635849
-  },
-  {
-    "id": 106135,
-    "fecha": "09 de Feb del 2026 a las 06:09 AM",
-    "hora_utc": "2026-02-09 11:09",
-    "mensaje": "♦️ Afectado el servicio en el circuito 3140  por disparo por DAF♦️",
-    "timestamp": 1770635352,
-    "timestamp_local": 1770635352
-  },
-  {
-    "id": 106134,
-    "fecha": "09 de Feb del 2026 a las 05:38 AM",
-    "hora_utc": "2026-02-09 10:38",
-    "mensaje": "🔷♦️Se restablece el servicio en el circuito que se encontraba afectado  por déficit de capacidad de generación:\n*Salud ♦️🔷",
-    "timestamp": 1770633535,
-    "timestamp_local": 1770633535
   }
 ]
