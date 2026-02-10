@@ -1,5 +1,13 @@
 [
   {
+    "id": 35906,
+    "fecha": "10 de Feb del 2026 a las 02:41 PM",
+    "hora_utc": "2026-02-10 19:41",
+    "mensaje": "‼️ Información del déficit de generación ‼️   \n👉Tenemos 71 MW en la provincia afectados por déficit de generación.\n⏰ Con este déficit, la carga a apagar en la provincia no nos permite realizar una rotación estable de los circuitos, por lo que se afectarán o se restablecerán en dependencia del déficit que haya en cada momento de la jornada, que es muy variable.",
+    "timestamp": 1770752482,
+    "timestamp_local": 1770752482
+  },
+  {
     "id": 35904,
     "fecha": "10 de Feb del 2026 a las 12:54 PM",
     "hora_utc": "2026-02-10 17:54",
@@ -118,21 +126,5 @@
     "mensaje": "‼️ Déficit de Generación ‼️   \n👉Subimos a 90 MW en la provincia afectados por déficit de generación.\n\n\n⏰ Reiteramos que los circuitos se afectarán o se restablecerán en dependencia del déficit en cada momento de la jornada, que es muy variable.",
     "timestamp": 1770678754,
     "timestamp_local": 1770678754
-  },
-  {
-    "id": 35885,
-    "fecha": "09 de Feb del 2026 a las 05:11 PM",
-    "hora_utc": "2026-02-09 22:11",
-    "mensaje": "‼️Información‼️\n\n⏰ Los circuitos  restablecidos por déficit de generación tendrán servicio por un estimado de 1 hora y 30 min aproximadamente en dependencia del déficit solicitado en cada momento de la jornada que es muy variable.",
-    "timestamp": 1770675063,
-    "timestamp_local": 1770675063
-  },
-  {
-    "id": 35884,
-    "fecha": "09 de Feb del 2026 a las 05:10 PM",
-    "hora_utc": "2026-02-09 22:10",
-    "mensaje": "‼️ Información ‼️   \n👉En estos momentos subimos a 76 MW en la provincia afectados por déficit de generación. Con este déficit no podemos cumplir con una programación estable, por lo que los circuitos se afectarán o se restablecerán en dependencia del déficit que haya en cada momento de la jornada",
-    "timestamp": 1770675002,
-    "timestamp_local": 1770675002
   }
 ]
