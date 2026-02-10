@@ -1,5 +1,21 @@
 [
   {
+    "id": 106226,
+    "fecha": "10 de Feb del 2026 a las 06:28 AM",
+    "hora_utc": "2026-02-10 11:28",
+    "mensaje": "♦️ Afectado el servicio en el circuito de Madruga por avería ♦️",
+    "timestamp": 1770722893,
+    "timestamp_local": 1770722893
+  },
+  {
+    "id": 106225,
+    "fecha": "10 de Feb del 2026 a las 06:21 AM",
+    "hora_utc": "2026-02-10 11:21",
+    "mensaje": "♦️ Afectado el servicio en el circuito 3140 por disparo por DAF ♦️",
+    "timestamp": 1770722508,
+    "timestamp_local": 1770722508
+  },
+  {
     "id": 106224,
     "fecha": "10 de Feb del 2026 a las 02:56 AM",
     "hora_utc": "2026-02-10 07:56",
@@ -126,21 +142,5 @@
     "mensaje": "🚨Por déficit de capacidad de generación se afecta el servicio en el siguiente circuito:\n*2440 🚨",
     "timestamp": 1770678864,
     "timestamp_local": 1770678864
-  },
-  {
-    "id": 106206,
-    "fecha": "09 de Feb del 2026 a las 06:13 PM",
-    "hora_utc": "2026-02-09 23:13",
-    "mensaje": "🚨Por déficit de capacidad de generación se afecta el servicio en el siguiente circuito:\n*2495 🚨",
-    "timestamp": 1770678824,
-    "timestamp_local": 1770678824
-  },
-  {
-    "id": 106205,
-    "fecha": "09 de Feb del 2026 a las 06:13 PM",
-    "hora_utc": "2026-02-09 23:13",
-    "mensaje": "🔷♦️Se restablece el servicio en los siguientes circuitos que se encontraban afectados  por déficit de capacidad de generación:\n*3655\n*3660♦️🔷",
-    "timestamp": 1770678783,
-    "timestamp_local": 1770678783
   }
 ]
