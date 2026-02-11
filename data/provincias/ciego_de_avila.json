@@ -1,5 +1,21 @@
 [
   {
+    "id": 35924,
+    "fecha": "11 de Feb del 2026 a las 07:39 AM",
+    "hora_utc": "2026-02-11 12:39",
+    "mensaje": "🚨Nota informativa.🚨 \n\n📆Situación del SEN para el 11 de febrero de 2026.\n\n👉En el día de ayer se afectó el servicio por déficit de capacidad durante las 24 horas y se ha mantenido la afectación durante la madrugada de hoy. La máxima afectación por déficit de capacidad de generación en el día de ayer fue de 1917 MW a las 18:40 horas.\n\n☀️La producción de energía de los 49 nuevos parques solares fotovoltaicos fue de 4349 MWh, con 824 MW como máxima potencia entregada en el horario de la media con esta fuente de generación. \n\n👉La disponibilidad del SEN a las 06:00 horas es de 1005 MW, la demanda 1674 MW, con 703 MW afectados. En el horario de la media se estima una afectación de 1050 MW.  \n\n🛠️Se encuentran en avería, la unidad 5 de la CTE Mariel, la unidad 2 de la CTE de Santa Cruz, la unidad de la CTE Guiteras, la unidad 2 de la CTE Felton y las unidades 5 y 6 de la CTE Renté. Se encuentran en mantenimiento la unidad 4 de la CTE Cienfuegos y la unidad 5 de la CTE Diez de Octubre.\n\n▪️Las limitaciones en la generación térmica son de 401 MW.\n\n▪️Para el pico se pronostica la entrada de la CTE Antonio Guiteras con 210 MW (en proceso de arranque) y la unidad 2 de la CTE de Santa Cruz con 75 MW.\n \n📈Con este pronóstico se prevé para el pico una disponibilidad de 1290 MW con una demanda máxima de 3050 MW, para un déficit de 1760 MW, por lo que de mantenerse las condiciones previstas se pronostica una afectación de 1790 MW en este horario.\n\nUNE-MINEM",
+    "timestamp": 1770813578,
+    "timestamp_local": 1770813578
+  },
+  {
+    "id": 35923,
+    "fecha": "11 de Feb del 2026 a las 07:26 AM",
+    "hora_utc": "2026-02-11 12:26",
+    "mensaje": "✅ Se encuentra en fallo el circuito Cítrico I. \n👉Se recorren las líneas para encontrar la causa. \n👉Si usted observa corto circuito en las redes o alguna irregularidad, por favor comuníquelo a través del ☎18888.",
+    "timestamp": 1770812779,
+    "timestamp_local": 1770812779
+  },
+  {
     "id": 35921,
     "fecha": "11 de Feb del 2026 a las 07:04 AM",
     "hora_utc": "2026-02-11 12:04",
@@ -102,21 +118,5 @@
     "mensaje": "‼️ Información ‼️   \n👉En estos momentos tenemos 77 MW en la provincia afectados por déficit de generación. Con este déficit no podemos cumplir con una programación estable, por lo que los circuitos se afectarán o se restablecerán en dependencia del déficit que haya en cada momento de la jornada.",
     "timestamp": 1770746062,
     "timestamp_local": 1770746062
-  },
-  {
-    "id": 35903,
-    "fecha": "10 de Feb del 2026 a las 11:50 AM",
-    "hora_utc": "2026-02-10 16:50",
-    "mensaje": "‼️Información‼️\n\n⏰ Los circuitos  restablecidos por déficit de generación tendrán servicio por un estimado de 1 hora y 30 min aproximadamente en dependencia del déficit solicitado en cada momento de la jornada que es muy variable.",
-    "timestamp": 1770742202,
-    "timestamp_local": 1770742202
-  },
-  {
-    "id": 35902,
-    "fecha": "10 de Feb del 2026 a las 10:45 AM",
-    "hora_utc": "2026-02-10 15:45",
-    "mensaje": "‼️ Información del déficit de generación ‼️   \n👉Tenemos 70 MW en la provincia afectados por déficit de generación.\n⏰ Con este déficit, la carga a apagar en la provincia no nos permite realizar una rotación estable de los circuitos, por lo que se afectarán o se restablecerán en dependencia del déficit que haya en cada momento de la jornada, que es muy variable.",
-    "timestamp": 1770738351,
-    "timestamp_local": 1770738351
   }
 ]
