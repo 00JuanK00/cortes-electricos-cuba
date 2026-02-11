@@ -1,9 +1,17 @@
 [
   {
+    "id": 40140,
+    "fecha": "11 de Feb del 2026 a las 02:00 AM",
+    "hora_utc": "2026-02-11 07:00",
+    "mensaje": "🔸Actualización del servicio eléctrico en la provincia🔸\n✍️Se mantienen afectados en la provincia 119 circuitos.\n✍️En el momento de hacer esta nota la provincia tiene 56 MW por déficit de capacidad de generación.\n✍️Cuenta con 55 afectaciones por averías secundarias y de servicio.",
+    "timestamp": 1770793255,
+    "timestamp_local": 1770793255
+  },
+  {
     "id": 40139,
     "fecha": "11 de Feb del 2026 a las 01:00 AM",
     "hora_utc": "2026-02-11 06:00",
-    "mensaje": "🔸Actualización del servicio eléctrico en la provincia🔸\n✍️Se mantienen afectados en la provincia 119 circuitos.\n✍️En el momento de hacer esta nota la provincia tiene 58 MW por déficit de capacidad de generación.\n✍️Cuenta con 60 afectaciones por averías secundarias y de servicio.",
+    "mensaje": "Afectados 58 MW en la provincia, demanda máxima a apagar en estos momentos.",
     "timestamp": 1770789653,
     "timestamp_local": 1770789653
   },
@@ -142,13 +150,5 @@
     "mensaje": "⚠️ En déficit de capacidad de generación el siguiente circuito:\n🔹Municipio Placetas:\n👉Cto 4 (Consejo- Centro)",
     "timestamp": 1770762061,
     "timestamp_local": 1770762061
-  },
-  {
-    "id": 40120,
-    "fecha": "10 de Feb del 2026 a las 05:07 PM",
-    "hora_utc": "2026-02-10 22:07",
-    "mensaje": "⚠️ En déficit de capacidad de generación los siguientes circuitos:\n🔹Municipio Santa Clara: \n👉Cto 167 (Virginia)\n👉Cto 170 (José Martí)\n👉Cto 171 (Los Caneyes)",
-    "timestamp": 1770761279,
-    "timestamp_local": 1770761279
   }
 ]
