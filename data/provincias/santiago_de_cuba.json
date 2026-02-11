@@ -1,5 +1,37 @@
 [
   {
+    "id": 49594,
+    "fecha": "11 de Feb del 2026 a las 06:01 PM",
+    "hora_utc": "2026-02-11 23:01",
+    "mensaje": "Déficit de Capacidad de Generación:    \nSe produce cuando la demanda del Sistema Eléctrico Nacional, en determinado horario del día, supera la generación disponible del país, provocando la desconexión de los circuitos o líneas que permitan garantizar la frecuencia del SEN.",
+    "timestamp": 1770850916,
+    "timestamp_local": 1770850916
+  },
+  {
+    "id": 49591,
+    "fecha": "11 de Feb del 2026 a las 06:00 PM",
+    "hora_utc": "2026-02-11 23:00",
+    "mensaje": "🔴Estimados clientes se les informa que se incorporan a la afectación las líneas 4395 Contramaestre y la 5335 Guama.",
+    "timestamp": 1770850815,
+    "timestamp_local": 1770850815
+  },
+  {
+    "id": 49590,
+    "fecha": "11 de Feb del 2026 a las 05:37 PM",
+    "hora_utc": "2026-02-11 22:37",
+    "mensaje": "🔴Estimados clientes se les informa que se incorpora al afectación la línea 5385 San Luis y el circuito 17.",
+    "timestamp": 1770849464,
+    "timestamp_local": 1770849464
+  },
+  {
+    "id": 49589,
+    "fecha": "11 de Feb del 2026 a las 05:33 PM",
+    "hora_utc": "2026-02-11 22:33",
+    "mensaje": "🔴Estimados clientes se les informa que se incorpora a la afectación la línea 4435 Contramaestre .",
+    "timestamp": 1770849235,
+    "timestamp_local": 1770849235
+  },
+  {
     "id": 49588,
     "fecha": "11 de Feb del 2026 a las 04:52 PM",
     "hora_utc": "2026-02-11 21:52",
@@ -110,53 +142,5 @@
     "mensaje": "🔉Estimados clientes se les informa que se encuentra afectado el circuito 7 seccionalizado por déficit de capacidad de generación .",
     "timestamp": 1770822440,
     "timestamp_local": 1770822440
-  },
-  {
-    "id": 49574,
-    "fecha": "11 de Feb del 2026 a las 09:32 AM",
-    "hora_utc": "2026-02-11 14:32",
-    "mensaje": "🗓️Situación del SEN para hoy 11 de febrero de 2026.\n\n👉En el día de ayer se afectó el servicio por déficit de capacidad durante las 24 horas y se ha mantenido la afectación durante la madrugada de hoy. La máxima afectación por déficit de capacidad de generación en el día de ayer fue de ⚡1917 MW a las ⏰18:40 horas.\n\n🌞La producción de energía de los 49 nuevos parques solares fotovoltaicos fue de 4349 MWh, con 824 MW como máxima potencia entregada en el horario de la media con esta fuente de generación. \n\n👉La disponibilidad del SEN a las ⏰06:00 horas del dia de hoy es de ⚡1005 MW, la demanda 1674 MW, con 703 MW afectados. En el horario de la media se estima una afectación de ⚡1050 MW\n\n🛠Se encuentran en avería : Unidad 5 de la CTE Mariel, Unidad 2 de la CTE Santa Cruz, la Unidad de la CTE Antonio Guiteras, Unidad 2 de la CTE Felton y Unidades 5 y 6 de la CTE Antonio Maceo.\n 🛠Mantenimiento: Unidad 5 de la CTE Nuevitas, Unidad 4 de la CTE Carlos Manuel de Céspedes en Cienfuegos.\n                                                                                                                                 \n\n👉Limitaciones en la generación térmica: 401 MW fuera de servicio.\n \n🏭Para el pico se pronostica la entrada de la CTE Antonio Guiteras con 210 MW (en proceso de arranque) y la unidad 2 de la CTE de Santa Cruz con 75 MW. \n                                                                                                                                      📈 Con este pronóstico se prevé para el pico una disponibilidad de 1290 MW con una demanda máxima de 3050 MW, para un déficit de 1760 MW, por lo que de mantenerse las condiciones previstas se pronostica una afectación de 1790 MW en este horario.",
-    "timestamp": 1770820361,
-    "timestamp_local": 1770820361
-  },
-  {
-    "id": 49573,
-    "fecha": "11 de Feb del 2026 a las 09:19 AM",
-    "hora_utc": "2026-02-11 14:19",
-    "mensaje": "🔉 Estimados clientes se les informa que se encuentra afectado el circuito 11 de Santiago por déficit de capacidad de generación .",
-    "timestamp": 1770819593,
-    "timestamp_local": 1770819593
-  },
-  {
-    "id": 49572,
-    "fecha": "11 de Feb del 2026 a las 08:32 AM",
-    "hora_utc": "2026-02-11 13:32",
-    "mensaje": "🚨Estimados clientes en estos momentos se encuentra afectados por Déficit de Capacidad de Generación los circuitos 7 , 9 seccionalizado  , 20 de Santiago , la línea 5385 San Luis Palma y 5390 La Maya  , disculpen por las molestias ocasionadas.",
-    "timestamp": 1770816766,
-    "timestamp_local": 1770816766
-  },
-  {
-    "id": 49571,
-    "fecha": "11 de Feb del 2026 a las 07:15 AM",
-    "hora_utc": "2026-02-11 12:15",
-    "mensaje": "🔴Disparo Automático de Frecuencia (DAF):\nOcurre cuando la frecuencia está por debajo de los 60Hz y determinada carga o circuito se desconecta del sistema automáticamente hasta que se estabilice.",
-    "timestamp": 1770812139,
-    "timestamp_local": 1770812139
-  },
-  {
-    "id": 49570,
-    "fecha": "11 de Feb del 2026 a las 07:14 AM",
-    "hora_utc": "2026-02-11 12:14",
-    "mensaje": "🔴Estimados clientes en estos momentos se encuentra afectado por DAF el circuito 1 de Palma.",
-    "timestamp": 1770812088,
-    "timestamp_local": 1770812088
-  },
-  {
-    "id": 49569,
-    "fecha": "11 de Feb del 2026 a las 06:43 AM",
-    "hora_utc": "2026-02-11 11:43",
-    "mensaje": "🔴Les seguiremos informando a través de nuestro canal de Telegram sobre la situación de la Disponibilidad del Sistema en nuestra provincia.",
-    "timestamp": 1770810204,
-    "timestamp_local": 1770810204
   }
 ]
