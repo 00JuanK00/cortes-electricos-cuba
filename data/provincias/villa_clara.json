@@ -1,5 +1,21 @@
 [
   {
+    "id": 40139,
+    "fecha": "11 de Feb del 2026 a las 01:00 AM",
+    "hora_utc": "2026-02-11 06:00",
+    "mensaje": "🔸Actualización del servicio eléctrico en la provincia🔸\n✍️Se mantienen afectados en la provincia 119 circuitos.\n✍️En el momento de hacer esta nota la provincia tiene 58 MW por déficit de capacidad de generación.\n✍️Cuenta con 60 afectaciones por averías secundarias y de servicio.",
+    "timestamp": 1770789653,
+    "timestamp_local": 1770789653
+  },
+  {
+    "id": 40138,
+    "fecha": "11 de Feb del 2026 a las 12:18 AM",
+    "hora_utc": "2026-02-11 05:18",
+    "mensaje": "Afectados 69 MW en la provincia, demanda máxima a apagar en estos momentos.",
+    "timestamp": 1770787129,
+    "timestamp_local": 1770787129
+  },
+  {
     "id": 40137,
     "fecha": "11 de Feb del 2026 a las 12:09 AM",
     "hora_utc": "2026-02-11 05:09",
@@ -134,21 +150,5 @@
     "mensaje": "⚠️ En déficit de capacidad de generación los siguientes circuitos:\n🔹Municipio Santa Clara: \n👉Cto 167 (Virginia)\n👉Cto 170 (José Martí)\n👉Cto 171 (Los Caneyes)",
     "timestamp": 1770761279,
     "timestamp_local": 1770761279
-  },
-  {
-    "id": 40119,
-    "fecha": "10 de Feb del 2026 a las 05:02 PM",
-    "hora_utc": "2026-02-10 22:02",
-    "mensaje": "⚠️ En déficit de capacidad de generación los siguientes circuitos:                                                                                                              🔹Municipio Santo Domingo:\n👉Cto 195 Batey George Washington\n👉Ctos 83 y 165 Manacas\n👉Ctos 85 y 86 Pajarito\n👉Ctos 160 y 161 Cascajal",
-    "timestamp": 1770760953,
-    "timestamp_local": 1770760953
-  },
-  {
-    "id": 40118,
-    "fecha": "10 de Feb del 2026 a las 05:01 PM",
-    "hora_utc": "2026-02-10 22:01",
-    "mensaje": "Afectados 101 MW en la provincia, demanda máxima a apagar en estos momentos.",
-    "timestamp": 1770760905,
-    "timestamp_local": 1770760905
   }
 ]
