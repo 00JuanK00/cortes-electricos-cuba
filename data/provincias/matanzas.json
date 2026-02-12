@@ -1,5 +1,21 @@
 [
   {
+    "id": 32433,
+    "fecha": "12 de Feb del 2026 a las 04:20 AM",
+    "hora_utc": "2026-02-12 09:20",
+    "mensaje": "⚡ Déficit de capacidad de generación en la provincia: * 36 MW* ⚡",
+    "timestamp": 1770888054,
+    "timestamp_local": 1770888054
+  },
+  {
+    "id": 32431,
+    "fecha": "12 de Feb del 2026 a las 03:21 AM",
+    "hora_utc": "2026-02-12 08:21",
+    "mensaje": "⚡ Déficit de capacidad de generación en la provincia: * 49 MW* ⚡",
+    "timestamp": 1770884481,
+    "timestamp_local": 1770884481
+  },
+  {
     "id": 32430,
     "fecha": "12 de Feb del 2026 a las 01:29 AM",
     "hora_utc": "2026-02-12 06:29",
@@ -142,21 +158,5 @@
     "mensaje": ". El restablecimiento del servicio dependerá de la demanda en cada momento y de las capacidades disponibles.�\n\n�Mantendremos a la población informada sobre cualquier novedad relacionada con el suministro eléctrico.",
     "timestamp": 1770838320,
     "timestamp_local": 1770838320
-  },
-  {
-    "id": 32411,
-    "fecha": "11 de Feb del 2026 a las 01:53 PM",
-    "hora_utc": "2026-02-11 18:53",
-    "mensaje": "Se reporta avería en el circuito 4220, Cárdenas, a partir del 822, afecta 16 clientes.",
-    "timestamp": 1770835992,
-    "timestamp_local": 1770835992
-  },
-  {
-    "id": 32410,
-    "fecha": "11 de Feb del 2026 a las 01:47 PM",
-    "hora_utc": "2026-02-11 18:47",
-    "mensaje": "La provincia se encuentra en el máximo apagable 109 MW",
-    "timestamp": 1770835670,
-    "timestamp_local": 1770835670
   }
 ]
