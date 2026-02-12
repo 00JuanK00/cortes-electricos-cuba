@@ -1,5 +1,45 @@
 [
   {
+    "id": 40251,
+    "fecha": "12 de Feb del 2026 a las 12:39 PM",
+    "hora_utc": "2026-02-12 17:39",
+    "mensaje": "Con servicio el circuito 144 (Camacho), del municipio Santa Clara.",
+    "timestamp": 1770917986,
+    "timestamp_local": 1770917986
+  },
+  {
+    "id": 40250,
+    "fecha": "12 de Feb del 2026 a las 12:17 PM",
+    "hora_utc": "2026-02-12 17:17",
+    "mensaje": "Con servicio el circuito 86 (Pajarito), del municipio Santo Domingo.",
+    "timestamp": 1770916667,
+    "timestamp_local": 1770916667
+  },
+  {
+    "id": 40249,
+    "fecha": "12 de Feb del 2026 a las 12:16 PM",
+    "hora_utc": "2026-02-12 17:16",
+    "mensaje": "⚠️En déficit de capacidad de generación los siguientes circuitos: \n🔹Municipio Camajuaní:\n👉Ctos  72, 73 y 156 \n👉Cto 74 José María Pérez",
+    "timestamp": 1770916617,
+    "timestamp_local": 1770916617
+  },
+  {
+    "id": 40248,
+    "fecha": "12 de Feb del 2026 a las 12:00 PM",
+    "hora_utc": "2026-02-12 17:00",
+    "mensaje": "🕛Actualización del servicio eléctrico en las últimas 6 horas\n✍️El déficit de capacidad de generación osciló entre los 74 MW y los 55 MW.\n✍️En el momento de esta nota, se mantienen afectados 84 circuitos.\n✍️Cuenta con 48 afectaciones por averías secundarias y de servicio:\n🔸Caibarien (4)\n🔸Manicaragua (1)\n🔸Placetas (1)\n🔸Ranchuelo (1)\n🔸Remedios (13)\n🔸Sagua (3)\n🔸Santa Clara (6)\n🔸Santo Domingo (8)\n🛠️Se encuentran 9 averías en vías de solución.\n🛠️Pendientes a solucionar por el área técnica 8.\n⚡La provincia presenta 1 avería primaria en el circuito 86 (Pajarito), del municipio Santo Domingo, debido a cable primario partido. Brigada eléctrica se encuentra trabajando en el lugar para restablecer el servicio en el menor tiempo posible.",
+    "timestamp": 1770915623,
+    "timestamp_local": 1770915623
+  },
+  {
+    "id": 40247,
+    "fecha": "12 de Feb del 2026 a las 11:41 AM",
+    "hora_utc": "2026-02-12 16:41",
+    "mensaje": "⚠️En déficit de capacidad de generación los siguientes circuitos: \n🔹Municipio Caibarién:\n👉Ctos 61, 62, 63 y 64\n👉Ctos 182 y 183 Van Troy",
+    "timestamp": 1770914486,
+    "timestamp_local": 1770914486
+  },
+  {
     "id": 40246,
     "fecha": "12 de Feb del 2026 a las 11:33 AM",
     "hora_utc": "2026-02-12 16:33",
@@ -118,45 +158,5 @@
     "mensaje": "⚠️En déficit de capacidad de generación el siguiente circuito:\n🔹Municipio Remedios:\n👉Ctos 67 y 152, 68 y 118 \n👉Ctos 69 y 70 Zuluetas\n👉Cto 143 Batey Heriberto Duquezne \n👉Cto 71 Buena Vista",
     "timestamp": 1770893452,
     "timestamp_local": 1770893452
-  },
-  {
-    "id": 40231,
-    "fecha": "12 de Feb del 2026 a las 05:48 AM",
-    "hora_utc": "2026-02-12 10:48",
-    "mensaje": "⚠️En déficit de capacidad de generación el siguiente circuito:\n🔹Municipio Encrucijada\n👉Cto 120 Calabaza\n👉Ctos 121 y 127 Perucho\n🔹Municipio Camajuaní:\n👉Cto 75 La Quinta\n👉Cto 157 Luis Arcos Bergnes\n👉Ctos 76 y 90 Vega Alta\n👉Ctos 77 y 185 Vueltas",
-    "timestamp": 1770893292,
-    "timestamp_local": 1770893292
-  },
-  {
-    "id": 40230,
-    "fecha": "12 de Feb del 2026 a las 04:56 AM",
-    "hora_utc": "2026-02-12 09:56",
-    "mensaje": "💡Con servicio los siguientes circuitos:\n🔹Municipio Placetas \n👉Ctos 100 y 151 Placetas\n👉Cto 104 Hermanos Amejeiras\n👉Cto 103 Batey Carbó Servía\n👉Ctos 101 y 145 Cumbre",
-    "timestamp": 1770890214,
-    "timestamp_local": 1770890214
-  },
-  {
-    "id": 40229,
-    "fecha": "12 de Feb del 2026 a las 04:54 AM",
-    "hora_utc": "2026-02-12 09:54",
-    "mensaje": "⚠️En déficit de capacidad de generación el siguiente circuito:\n🔹Municipio Manicaragua:\n👉Ctos 109 y 150\n👉Ctos 108 y 110 La Piedra\n👉Cto 111 Mataguá\n🔹Municipio Cifuentes:\n👉Ctos 114 y 117\n👉Ctos 116 y 155 Mata\n👉Cto 186 Batey Unidad Proletaria\n👉Cto 184 Sitio Grande",
-    "timestamp": 1770890091,
-    "timestamp_local": 1770890091
-  },
-  {
-    "id": 40228,
-    "fecha": "12 de Feb del 2026 a las 04:52 AM",
-    "hora_utc": "2026-02-12 09:52",
-    "mensaje": "🔸Actualización del servicio eléctrico en la provincia🔸\n✍️Se mantienen afectados en la provincia 179 circuitos.\n✍️En el momento de hacer esta nota la provincia tiene 37 MW por déficit de capacidad de generación.\n✍️Cuenta con 37 afectaciones por averías secundarias y de servicio.",
-    "timestamp": 1770889937,
-    "timestamp_local": 1770889937
-  },
-  {
-    "id": 40227,
-    "fecha": "12 de Feb del 2026 a las 02:29 AM",
-    "hora_utc": "2026-02-12 07:29",
-    "mensaje": "📣Recordamos a nuestros clientes\n \n1️⃣ Si presenta o conoce alguna avería, haga su reporte al Centro de Atención Telefónico mediante el 18888, estamos a su servicio.\n2️⃣ Conocer de forma exacta la dirección de su vivienda (número de casa, calle, entre calles, reparto, localidad)\n3️⃣ Ubicar un punto de referencia, que permita llegar hasta su vivienda con mayor rapidez (lugar o persona reconocida en la zona)\n4️⃣ En caso de un cable caído, aunque usted crea que no está energizado, NO LO TOQUE. Repórtelo y preserve el lugar, hasta que llegue el personal de la Empresa.\n5️⃣ Anote el número de su reporte para ser utilizado en caso de reclamaciones, o para comprobar el estado del mismo.\n6️⃣ Si usted tiene servicio eléctrico, pero existen variaciones del voltaje, desconecte los equipos, para que no se dañen.",
-    "timestamp": 1770881384,
-    "timestamp_local": 1770881384
   }
 ]
