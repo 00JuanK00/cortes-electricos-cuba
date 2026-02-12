@@ -1,5 +1,13 @@
 [
   {
+    "id": 18101,
+    "fecha": "12 de Feb del 2026 a las 08:20 AM",
+    "hora_utc": "2026-02-12 13:20",
+    "mensaje": "Nota Informativa: Estado del Sistema Eléctrico Nacional (SEN) – 12 de febrero de 2026\n\nEn el día de ayer se afectó el servicio por déficit de capacidad durante las 24 horas y se ha mantenido la afectación durante la madrugada de hoy. La máxima afectación por déficit de capacidad de generación en el día de ayer fue de 2011 MW a las 19:30 horas.\n\nLa producción de energía de los 49 nuevos parques solares fotovoltaicos fue de 4653 MWh, con 903 MW como máxima potencia entregada en el horario de la media con esta fuente de generación.\nEstado actual del SEN\n\nLa disponibilidad del SEN a las 06:00 horas es de 1270 MW, la demanda 2090 MW, con 810 MW afectados. En el horario de la media se estima una afectación de 1050 MW.\nPrincipales incidencias\n\n    Avería: Unidad 5 de la CTE Mariel, Unidad 2 de la CTE Santa Cruz, Unidad 2 de la CTE Felton y Unidad 6 de la CTE Antonio Maceo.\n    Mantenimiento: Unidad 5 de la CTE Nuevitas, Unidad 4 de la CTE Carlos Manuel de Céspedes en Cienfuegos.\n    Limitaciones en la generación térmica: 493 MW fuera de servicio.\n\nPronóstico para el horario pico\n\nCon este pronóstico se prevé para el pico una disponibilidad de 1270 MW con una demanda máxima de 3000 MW, para un déficit de 1730 MW, por lo que de mantenerse las condiciones previstas se pronostica una afectación de 1760 MW en este horario.",
+    "timestamp": 1770902437,
+    "timestamp_local": 1770902437
+  },
+  {
     "id": 18098,
     "fecha": "11 de Feb del 2026 a las 04:29 PM",
     "hora_utc": "2026-02-11 21:29",
@@ -94,13 +102,5 @@
     "mensaje": "Se afectan los siguientes circuitos: por déficit de capacidad de generación :\nCircuito 33 Kv: 6305\nTK41 Calixto\nTK40 Vista Alegre\nTK42 Gastón y Arroyo Muerto\nTK45 La Ceiba\nTK43 Las Parras, Omaja y Cañada Honda\nTK44 Vivienda",
     "timestamp": 1770669826,
     "timestamp_local": 1770669826
-  },
-  {
-    "id": 18080,
-    "fecha": "09 de Feb del 2026 a las 02:57 PM",
-    "hora_utc": "2026-02-09 19:57",
-    "mensaje": "Se afecta por déficit los siguientes circuitos: \nCircuito 33 Kv: 6810\nTK82 Tana\nTK83 Las Maboas\nTK113 La Aurora\nTK74 La Lomita\nTK110 El Batey\n6810 Poblado Amancio",
-    "timestamp": 1770667022,
-    "timestamp_local": 1770667022
   }
 ]
