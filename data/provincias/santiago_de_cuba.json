@@ -1,5 +1,21 @@
 [
   {
+    "id": 49614,
+    "fecha": "12 de Feb del 2026 a las 01:22 PM",
+    "hora_utc": "2026-02-12 18:22",
+    "mensaje": "🔊Déficit de Capacidad de Generación:    \nSe produce cuando la demanda del Sistema Eléctrico Nacional, en determinado horario del día, supera la generación disponible del país, provocando la desconexión de los circuitos o líneas que permitan garantizar la frecuencia del SEN.",
+    "timestamp": 1770920556,
+    "timestamp_local": 1770920556
+  },
+  {
+    "id": 49613,
+    "fecha": "12 de Feb del 2026 a las 01:21 PM",
+    "hora_utc": "2026-02-12 18:21",
+    "mensaje": "🔊Estimados clientes en estos momentos se incorporan a la afectación por Déficit los circuitos 19 y 25 de Santiago.",
+    "timestamp": 1770920512,
+    "timestamp_local": 1770920512
+  },
+  {
     "id": 49610,
     "fecha": "12 de Feb del 2026 a las 12:10 PM",
     "hora_utc": "2026-02-12 17:10",
@@ -126,13 +142,5 @@
     "mensaje": "🔴Estimados clientes se les informa que se incorpora a la afectación el circuito 17 seccionalizado .",
     "timestamp": 1770853606,
     "timestamp_local": 1770853606
-  },
-  {
-    "id": 49594,
-    "fecha": "11 de Feb del 2026 a las 06:01 PM",
-    "hora_utc": "2026-02-11 23:01",
-    "mensaje": "Déficit de Capacidad de Generación:    \nSe produce cuando la demanda del Sistema Eléctrico Nacional, en determinado horario del día, supera la generación disponible del país, provocando la desconexión de los circuitos o líneas que permitan garantizar la frecuencia del SEN.",
-    "timestamp": 1770850916,
-    "timestamp_local": 1770850916
   }
 ]
