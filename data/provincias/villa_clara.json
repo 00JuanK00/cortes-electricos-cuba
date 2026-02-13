@@ -1,5 +1,37 @@
 [
   {
+    "id": 40325,
+    "fecha": "13 de Feb del 2026 a las 11:15 AM",
+    "hora_utc": "2026-02-13 16:15",
+    "mensaje": "La Provincia presenta 2 afectaciones de servicio eléctrico por transformador dañado:\n🔹Municipio Ranchuelo: Camilo Cienfuegos  e/ Antonio Maceo  y Calixto Garcia\n🔹Municipio Remedios:Carretera a Buena Vista, Batey Alameda. Carrillo",
+    "timestamp": 1770999339,
+    "timestamp_local": 1770999339
+  },
+  {
+    "id": 40324,
+    "fecha": "13 de Feb del 2026 a las 11:07 AM",
+    "hora_utc": "2026-02-13 16:07",
+    "mensaje": "Afectados 60 MW en la provincia, demanda máxima a apagar en estos momentos.",
+    "timestamp": 1770998844,
+    "timestamp_local": 1770998844
+  },
+  {
+    "id": 40323,
+    "fecha": "13 de Feb del 2026 a las 10:45 AM",
+    "hora_utc": "2026-02-13 15:45",
+    "mensaje": "⚠️En déficit de capacidad de generación los siguientes circuitos:                                                                                                                            🔹Municipio Placetas:\n👉Cto 192 Benito Juárez\n👉Cto 102 Peroti\n🔹Municipio Santa Clara:\n👉Cto 5 (Dobarganes)\n👉Cto 17 (Subplanta)",
+    "timestamp": 1770997552,
+    "timestamp_local": 1770997552
+  },
+  {
+    "id": 40322,
+    "fecha": "13 de Feb del 2026 a las 10:38 AM",
+    "hora_utc": "2026-02-13 15:38",
+    "mensaje": "⚠️En déficit de capacidad de generación los siguientes circuitos:                                                                                                                            🔹Municipio Santa Clara\n👉Cto 7 (Universidad)  \n👉Cto 146 (Elevado Aeropuerto) \n👉Cto 22 (Construcciones Textil)\n👉Cto 131 (Las Antillas)\n👉Cto 153 (EIDE)\n👉Cto 25 (Los Güiros)\n👉Cto 24 (Planta Asfalto)\n👉Cto 35 (Biotecnología) \n👉Ctos 14, 15 y 27 (Maleza)",
+    "timestamp": 1770997100,
+    "timestamp_local": 1770997100
+  },
+  {
     "id": 40321,
     "fecha": "13 de Feb del 2026 a las 10:08 AM",
     "hora_utc": "2026-02-13 15:08",
@@ -126,37 +158,5 @@
     "mensaje": "Afectados 41 MW en la provincia, demanda máxima a apagar en estos momentos.",
     "timestamp": 1770983960,
     "timestamp_local": 1770983960
-  },
-  {
-    "id": 40305,
-    "fecha": "13 de Feb del 2026 a las 06:28 AM",
-    "hora_utc": "2026-02-13 11:28",
-    "mensaje": "⚠️En déficit de capacidad de generación los siguientes circuitos:                                                                                                                            🔹Municipio Santo Domingo:                                                                                                                                          👉Cto 134\n👉Ctos 87 y 96 Bermejal\n👉Cto 187 Batey Carlos Baliño\n👉Cto 82 Ulacia\n👉Cto 84 Rodrigo\n🔹Municipio Sagua\n👉Ctos 43, 51 Sagua\n👉Cto 44 Isabela\n👉Ctos 50 y 147 Villa Alegre",
-    "timestamp": 1770982124,
-    "timestamp_local": 1770982124
-  },
-  {
-    "id": 40304,
-    "fecha": "13 de Feb del 2026 a las 06:22 AM",
-    "hora_utc": "2026-02-13 11:22",
-    "mensaje": "🕕Actualización del servicio eléctrico en las últimas 6 horas\n✍️El déficit de capacidad de generación osciló entre los 64 MW y los 41 MW.\n✍️En el momento de esta nota, se mantienen afectados 82 circuitos.\n✍️Cuenta con 28 afectaciones por averías secundarias y de servicio:\n🔸Placetas (2)\n🔸Remedios (10)\n🔸Sagua (4)\n🔸Santa Clara (2)\n🔸Santo Domingo (10)\n🛠️Se encuentran 3 averías en vías de solución.\n🛠️Pendientes a solucionar por el área técnica 11.\n⚡La provincia no presenta averías primarias.",
-    "timestamp": 1770981749,
-    "timestamp_local": 1770981749
-  },
-  {
-    "id": 40303,
-    "fecha": "13 de Feb del 2026 a las 05:15 AM",
-    "hora_utc": "2026-02-13 10:15",
-    "mensaje": "Afectados 35 MW en la provincia, demanda máxima a apagar en estos momentos.",
-    "timestamp": 1770977712,
-    "timestamp_local": 1770977712
-  },
-  {
-    "id": 40302,
-    "fecha": "13 de Feb del 2026 a las 05:13 AM",
-    "hora_utc": "2026-02-13 10:13",
-    "mensaje": "⚠️En déficit de capacidad de generación los siguientes circuitos:                                                                                                        🔹Municipio Encrucijada\n👉Cto 120 Calabazar\n👉Ctos 121 y 127 Perucho\n🔹Municipio Cifuentes:\n👉Ctos 114 y 117\n👉Ctos 116 y 155 Mata\n👉Cto 186 Batey Unidad Proletaria\n👉Cto 184 Sitio Grande",
-    "timestamp": 1770977637,
-    "timestamp_local": 1770977637
   }
 ]

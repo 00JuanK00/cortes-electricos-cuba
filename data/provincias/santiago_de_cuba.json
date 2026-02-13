@@ -1,5 +1,37 @@
 [
   {
+    "id": 49652,
+    "fecha": "13 de Feb del 2026 a las 11:24 AM",
+    "hora_utc": "2026-02-13 16:24",
+    "mensaje": "🚨Manipulaciones:\nAcción que se realizan en los circuitos para dar paso al trabajo en zonas afectadas por averías o Vía Libre y posteriormente para restablecer el servicio eléctrico en los circuitos que se encontraban afectados y en los que se trabaja con anterioridad, luego de culminadas las labores pertinentes.",
+    "timestamp": 1770999849,
+    "timestamp_local": 1770999849
+  },
+  {
+    "id": 49651,
+    "fecha": "13 de Feb del 2026 a las 11:23 AM",
+    "hora_utc": "2026-02-13 16:23",
+    "mensaje": "🔊Estimados clientes en estos momentos están Manipulando el circuito 9",
+    "timestamp": 1770999817,
+    "timestamp_local": 1770999817
+  },
+  {
+    "id": 49650,
+    "fecha": "13 de Feb del 2026 a las 10:50 AM",
+    "hora_utc": "2026-02-13 15:50",
+    "mensaje": "🚨Disparo Automático de Frecuencia (DAF):\nOcurre cuando la frecuencia está por debajo de los 60Hz y determinada carga o circuito se desconecta del sistema automáticamente hasta que se estabilice.",
+    "timestamp": 1770997855,
+    "timestamp_local": 1770997855
+  },
+  {
+    "id": 49649,
+    "fecha": "13 de Feb del 2026 a las 10:46 AM",
+    "hora_utc": "2026-02-13 15:46",
+    "mensaje": "🔊Estimados clientes en estos momentos se encuentra Disparado por DAF el circuito 1 de Palma",
+    "timestamp": 1770997593,
+    "timestamp_local": 1770997593
+  },
+  {
     "id": 49648,
     "fecha": "13 de Feb del 2026 a las 10:15 AM",
     "hora_utc": "2026-02-13 15:15",
@@ -86,29 +118,5 @@
     "mensaje": "🚨Estimados clientes se les informa que la línea 5330 El Cristo se encuentra Disparada , disculpen por las molestias ocasionadas.",
     "timestamp": 1770963572,
     "timestamp_local": 1770963572
-  },
-  {
-    "id": 49631,
-    "fecha": "13 de Feb del 2026 a las 12:20 AM",
-    "hora_utc": "2026-02-13 05:20",
-    "mensaje": "🚨Estimados clientes en estos momentos se encuentra afectados por Déficit de Capacidad de Generación la línea 4390 Contramaestre , disculpen por las molestias ocasionadas.",
-    "timestamp": 1770960010,
-    "timestamp_local": 1770960010
-  },
-  {
-    "id": 49630,
-    "fecha": "12 de Feb del 2026 a las 11:59 PM",
-    "hora_utc": "2026-02-13 04:59",
-    "mensaje": "Disparo\nApertura no Voluntaria de un interruptor como vía de protección para desconectar uno o varios elementos del circuito,subestación o sistema ,restableciéndose el servicio rápidamente en dependencia de la causa",
-    "timestamp": 1770958745,
-    "timestamp_local": 1770958745
-  },
-  {
-    "id": 49629,
-    "fecha": "12 de Feb del 2026 a las 11:58 PM",
-    "hora_utc": "2026-02-13 04:58",
-    "mensaje": "🚨Estimados clientes se les informa que la Línea 5330 El Cristo se encuentra disparada , disculpen por las molestias ocasionadas.",
-    "timestamp": 1770958724,
-    "timestamp_local": 1770958724
   }
 ]
