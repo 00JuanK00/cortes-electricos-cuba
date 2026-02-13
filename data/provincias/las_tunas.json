@@ -1,5 +1,21 @@
 [
   {
+    "id": 18109,
+    "fecha": "13 de Feb del 2026 a las 08:39 AM",
+    "hora_utc": "2026-02-13 13:39",
+    "mensaje": "Restablecido los siguientes circuitos:\nCircuito 33 Kv: 6230\nTK59 Vedado 3\nTK67 Porcino\nTK68 Vedado 6\nTK69 Poblado de Menéndez\nTK70 Transporte\nTK99 Santa Marías\nTK98 San Manuel, La Pedrera\nTK64 Palma Picada\n\nTK93 Batey Delicias",
+    "timestamp": 1770989944,
+    "timestamp_local": 1770989944
+  },
+  {
+    "id": 18108,
+    "fecha": "13 de Feb del 2026 a las 08:29 AM",
+    "hora_utc": "2026-02-13 13:29",
+    "mensaje": "Nota Informativa: Estado del Sistema Eléctrico Nacional (SEN) – 13 de febrero de 2026\nEn el día de ayer se afectó el servicio por déficit de capacidad durante las 24 horas y se ha mantenido la afectación durante la madrugada de hoy. La máxima afectación por déficit de capacidad de generación en el día de ayer fue de 1738 MW a las 19:10 horas.\n\nLa producción de energía de los 50 nuevos parques solares fotovoltaicos fue de 5066 MWh, con 840 MW como máxima potencia entregada en el horario de la media con esta fuente de generación.\n\nEstado actual del SEN\nLa disponibilidad del SEN a las 06:00 horas es de 1160 MW, la demanda 1900 MW, con 750 MW afectados. En el horario de la media se estima una afectación de 900 MW.\n\nPrincipales incidencias\nAvería: Unidades 5 y 6 de la CTE Mariel, Unidad 2 de la CTE Santa Cruz, Unidad 2 de la CTE Felton y Unidad 6 de la CTE Antonio Maceo.\nMantenimiento: Unidad 5 de la CTE Nuevitas, Unidad 4 de la CTE Carlos Manuel de Céspedes en Cienfuegos.\nLimitaciones en la generación térmica: 439 MW fuera de servicio.\nPronóstico para el horario pico\nPara el pico se pronostica la entrada de la unidad 1 de Energás Varadero con 30 MW, la entrada de Patana de Regla con 66 MW y la entrada de 7 motores en el emplazamiento de MOA con 105 MW.\n\nCon este pronóstico se prevé para el pico una disponibilidad de 1361 MW con una demanda máxima de 3100 MW, para un déficit de 1739 MW, por lo que de mantenerse las condiciones previstas se pronostica una afectación de 1769 MW en este horario.",
+    "timestamp": 1770989365,
+    "timestamp_local": 1770989365
+  },
+  {
     "id": 18104,
     "fecha": "12 de Feb del 2026 a las 06:18 PM",
     "hora_utc": "2026-02-12 23:18",
@@ -78,21 +94,5 @@
     "mensaje": "Nota Informativa: Estado del Sistema Eléctrico Nacional (SEN) – 11 de febrero de 2026\n\nEn el día de ayer se afectó el servicio por déficit de capacidad durante las 24 horas y se ha mantenido la afectación durante la madrugada de hoy. La máxima afectación por déficit de capacidad de generación en el día de ayer fue de 1917 MW a las 18:40 horas.\n\nLa producción de energía de los 49 nuevos parques solares fotovoltaicos fue de 4349 MWh, con 824 MW como máxima potencia entregada en el horario de la media con esta fuente de generación.\nEstado actual del SEN\n\nLa disponibilidad del SEN a las 06:00 horas es de 1005 MW, la demanda 1674 MW, con 703 MW afectados. En el horario de la media se estima una afectación de 1050 MW.\nPrincipales incidencias\n\n    Avería: Unidad 5 de la CTE Mariel, Unidad 2 de la CTE Santa Cruz, la Unidad de la CTE Antonio Guiteras, Unidad 2 de la CTE Felton y Unidades 5 y 6 de la CTE Antonio Maceo.\n    Mantenimiento: Unidad 5 de la CTE Nuevitas, Unidad 4 de la CTE Carlos Manuel de Céspedes en Cienfuegos.\n    Limitaciones en la generación térmica: 401 MW fuera de servicio.\n\nPronóstico para el horario pico\n\nPara el pico se pronostica la entrada de la CTE Antonio Guiteras con 210 MW (en proceso de arranque) y la unidad 2 de la CTE de Santa Cruz con 75 MW.\n\nCon este pronóstico se prevé para el pico una disponibilidad de 1290 MW con una demanda máxima de 3050 MW, para un déficit de 1760 MW, por lo que de mantenerse las condiciones previstas se pronostica una afectación de 1790 MW en este horario.",
     "timestamp": 1770816990,
     "timestamp_local": 1770816990
-  },
-  {
-    "id": 18088,
-    "fecha": "10 de Feb del 2026 a las 07:51 PM",
-    "hora_utc": "2026-02-11 00:51",
-    "mensaje": "Actualización del Sistema Electroenergético Nacional a las 19:00 del 10 de febrero de 2026.\n\nIncidencias:\n09:08 Fuera de linea la Unidad 2 de la CTE Ernesto Guevara.\n18:35 En de linea la Unidad 2 de la CTE Ernesto Guevara.\n\n#UnidosXCuba #NotaInformativa #UniónEléctrica #SEN",
-    "timestamp": 1770771082,
-    "timestamp_local": 1770771082
-  },
-  {
-    "id": 18087,
-    "fecha": "10 de Feb del 2026 a las 05:05 PM",
-    "hora_utc": "2026-02-10 22:05",
-    "mensaje": "Se encuentra afectado TK33 Pueblo Manatí por una falla en la subestación.",
-    "timestamp": 1770761112,
-    "timestamp_local": 1770761112
   }
 ]
