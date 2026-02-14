@@ -1,5 +1,29 @@
 [
   {
+    "id": 40362,
+    "fecha": "13 de Feb del 2026 a las 10:04 PM",
+    "hora_utc": "2026-02-14 03:04",
+    "mensaje": "🔸Actualización del servicio eléctrico en la provincia🔸\n✍️Se mantienen afectados en la provincia 122 circuitos.\n✍️En el momento de hacer esta nota la provincia tiene 80 MW por déficit de capacidad de generación.\n✍️Cuenta con 26 afectaciones por averías secundarias y de servicio.",
+    "timestamp": 1771038281,
+    "timestamp_local": 1771038281
+  },
+  {
+    "id": 40361,
+    "fecha": "13 de Feb del 2026 a las 09:04 PM",
+    "hora_utc": "2026-02-14 02:04",
+    "mensaje": "Afectados 89 MW en la provincia, demanda máxima a apagar en estos momentos.",
+    "timestamp": 1771034672,
+    "timestamp_local": 1771034672
+  },
+  {
+    "id": 40360,
+    "fecha": "13 de Feb del 2026 a las 08:57 PM",
+    "hora_utc": "2026-02-14 01:57",
+    "mensaje": "➡️Ante cualquier duda con la terminología eléctrica, les volvemos explicar: \n     \n✍️Las averías pueden ser primarias (afecta un volumen grande de población pues son las líneas de distribución a 13.8kV y puede afectar varias manzanas, incluso repartos completos).\n\n✍️Secundarias (afecta a todos los clientes que se alimenten del mismo transformador, puede afectar una o varias cuadras). \n\n✍️De servicio (afectan 1 solo cliente o instalación generalmente producto a daños en la acometida, metro contador, etc.).",
+    "timestamp": 1771034279,
+    "timestamp_local": 1771034279
+  },
+  {
     "id": 40359,
     "fecha": "13 de Feb del 2026 a las 08:03 PM",
     "hora_utc": "2026-02-14 01:03",
@@ -134,29 +158,5 @@
     "mensaje": "⚠️En déficit de capacidad de generación el siguiente circuito:                                                                                                                            🔹Municipio Manicaragua:\n👉Cto 112 Hoyo Manicaragua",
     "timestamp": 1771014086,
     "timestamp_local": 1771014086
-  },
-  {
-    "id": 40342,
-    "fecha": "13 de Feb del 2026 a las 03:17 PM",
-    "hora_utc": "2026-02-13 20:17",
-    "mensaje": "⚠️En déficit de capacidad de generación los siguientes circuitos:                                                                                                                            🔹Municipio Cifuentes:\n👉Ctos 114 y 117\n👉Ctos 116 y 155 Mata\n👉Cto 186 Batey Unidad Proletaria\n👉Cto 184 Sitio Grande",
-    "timestamp": 1771013836,
-    "timestamp_local": 1771013836
-  },
-  {
-    "id": 40341,
-    "fecha": "13 de Feb del 2026 a las 03:03 PM",
-    "hora_utc": "2026-02-13 20:03",
-    "mensaje": "Afectados 63 MW en la provincia, demanda máxima a apagar en estos momentos.",
-    "timestamp": 1771012992,
-    "timestamp_local": 1771012992
-  },
-  {
-    "id": 40340,
-    "fecha": "13 de Feb del 2026 a las 03:02 PM",
-    "hora_utc": "2026-02-13 20:02",
-    "mensaje": "⚠️En déficit de capacidad de generación los siguientes circuitos:                                                                                                                            🔹Municipio Santo Domingo:\n👉Cto 134\n👉Ctos 87 y 96 Bermejal\n👉Cto 187 Batey Carlos Baliño\n👉Cto 82 Ulacia\n👉Cto 84 Rodrigo",
-    "timestamp": 1771012951,
-    "timestamp_local": 1771012951
   }
 ]
