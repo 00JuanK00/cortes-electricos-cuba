@@ -1,5 +1,21 @@
 [
   {
+    "id": 106664,
+    "fecha": "14 de Feb del 2026 a las 01:06 PM",
+    "hora_utc": "2026-02-14 18:06",
+    "mensaje": "🚨Por déficit de capacidad de generación se afecta el servicio en el siguiente circuito:\n*Bio-1🚨",
+    "timestamp": 1771092390,
+    "timestamp_local": 1771092390
+  },
+  {
+    "id": 106663,
+    "fecha": "14 de Feb del 2026 a las 01:05 PM",
+    "hora_utc": "2026-02-14 18:05",
+    "mensaje": "🔷 Restablecido el servicio en el circuito 3140 que se encontraba afectado por disparo por DAF 🔷",
+    "timestamp": 1771092347,
+    "timestamp_local": 1771092347
+  },
+  {
     "id": 106662,
     "fecha": "14 de Feb del 2026 a las 12:41 PM",
     "hora_utc": "2026-02-14 17:41",
@@ -134,21 +150,5 @@
     "mensaje": "📣♦️Se afecta el servicio en el circuito 3655 por Emergencia ♦️📣",
     "timestamp": 1771078036,
     "timestamp_local": 1771078036
-  },
-  {
-    "id": 106644,
-    "fecha": "14 de Feb del 2026 a las 08:49 AM",
-    "hora_utc": "2026-02-14 13:49",
-    "mensaje": "🔷♦️Se restablece el servicio en el circuito que se encontraba afectado  por déficit de capacidad de generación:\n*3665 ♦️🔷",
-    "timestamp": 1771076977,
-    "timestamp_local": 1771076977
-  },
-  {
-    "id": 106643,
-    "fecha": "14 de Feb del 2026 a las 08:37 AM",
-    "hora_utc": "2026-02-14 13:37",
-    "mensaje": "🚨Por déficit de capacidad de generación se afecta el servicio en el siguiente circuito:\n*3665 🚨",
-    "timestamp": 1771076258,
-    "timestamp_local": 1771076258
   }
 ]
