@@ -1,5 +1,53 @@
 [
   {
+    "id": 40427,
+    "fecha": "14 de Feb del 2026 a las 04:52 PM",
+    "hora_utc": "2026-02-14 21:52",
+    "mensaje": "⚠️En déficit de capacidad de generación los siguientes circuitos:\n🔹Municipio Santo Domingo:\n👉Cto 195 Batey George Washington\n👉Ctos 83 y 165 Manacas\n👉Ctos 85 y 86 Pajarito\n👉Ctos 160 y 161 Cascajal",
+    "timestamp": 1771105974,
+    "timestamp_local": 1771105974
+  },
+  {
+    "id": 40426,
+    "fecha": "14 de Feb del 2026 a las 04:50 PM",
+    "hora_utc": "2026-02-14 21:50",
+    "mensaje": "⚠️En déficit de capacidad de generación los siguientes circuitos:\n🔹Municipio Caibarién:\n👉Ctos 182 y 183 Van Troy",
+    "timestamp": 1771105836,
+    "timestamp_local": 1771105836
+  },
+  {
+    "id": 40425,
+    "fecha": "14 de Feb del 2026 a las 04:46 PM",
+    "hora_utc": "2026-02-14 21:46",
+    "mensaje": "⚠️En déficit de capacidad de generación los siguientes circuitos:\n🔹Municipio Caibarién:\n👉Ctos 61, 62",
+    "timestamp": 1771105588,
+    "timestamp_local": 1771105588
+  },
+  {
+    "id": 40424,
+    "fecha": "14 de Feb del 2026 a las 04:30 PM",
+    "hora_utc": "2026-02-14 21:30",
+    "mensaje": "⚠️En déficit de capacidad de generación los siguientes circuitos:\n🔹Municipio Placetas:\n👉Ctos 101 y 145 Cumbre",
+    "timestamp": 1771104635,
+    "timestamp_local": 1771104635
+  },
+  {
+    "id": 40423,
+    "fecha": "14 de Feb del 2026 a las 04:23 PM",
+    "hora_utc": "2026-02-14 21:23",
+    "mensaje": "⚠️En déficit de capacidad de generación los siguientes circuitos:\n🔹Municipio Remedios:\n👉Ctos 67 y 152, 68 y 118 \n👉Ctos 69 y 70 Zuluetas\n👉Cto 143 Batey Heriberto Duquezne \n👉Cto 71 Buena Vista",
+    "timestamp": 1771104234,
+    "timestamp_local": 1771104234
+  },
+  {
+    "id": 40422,
+    "fecha": "14 de Feb del 2026 a las 04:13 PM",
+    "hora_utc": "2026-02-14 21:13",
+    "mensaje": "⚠️En déficit de capacidad de generación los siguientes circuitos:\n🔹Municipio Ranchuelo:\n👉Cto 93 Esperanza (Campo)\n👉Cto 92 Esperanza (Pueblo)\n👉Ctos 54, 94 y 95 Jicotea\n🔹Municipio Santa Clara\n👉Ctos 26 y 141 (Manuelita)\n👉Cto 191 (Quemado de Hilario)                                           \n🔹Municipio Santo Domingo\n👉Cto 79 (Santo Domingo)\n👉Cto 81 (26 de Julio)\n👉Cto 163 (Batey 26 de Julio",
+    "timestamp": 1771103629,
+    "timestamp_local": 1771103629
+  },
+  {
     "id": 40421,
     "fecha": "14 de Feb del 2026 a las 04:06 PM",
     "hora_utc": "2026-02-14 21:06",
@@ -110,45 +158,5 @@
     "mensaje": "💡Con servicio los siguientes circuitos:\n🔹Municipio Encrucijada\n👉Cto 120 Calabazar\n👉Ctos 121 y 127 Perucho",
     "timestamp": 1771092692,
     "timestamp_local": 1771092692
-  },
-  {
-    "id": 40407,
-    "fecha": "14 de Feb del 2026 a las 01:09 PM",
-    "hora_utc": "2026-02-14 18:09",
-    "mensaje": "Afectados 56 MW en la provincia, demanda máxima a apagar en estos momentos",
-    "timestamp": 1771092589,
-    "timestamp_local": 1771092589
-  },
-  {
-    "id": 40406,
-    "fecha": "14 de Feb del 2026 a las 01:00 PM",
-    "hora_utc": "2026-02-14 18:00",
-    "mensaje": "💡Con servicio el siguiente circuito:\n🔹Municipio Santa Clara\n👉Cto 6(Vigía)",
-    "timestamp": 1771092050,
-    "timestamp_local": 1771092050
-  },
-  {
-    "id": 40405,
-    "fecha": "14 de Feb del 2026 a las 12:33 PM",
-    "hora_utc": "2026-02-14 17:33",
-    "mensaje": "💡Con servicio los siguientes circuitos:\n➡️Línea 1910\n🔹Municipio Placetas \n👉Ctos 100 y 151 Placetas\n👉Cto 104 Hermanos Amejeiras\n👉Cto 103 Batey Carbó Servía\n➡️Línea 1920\n🔹Municipio Placetas:\n👉Ctos 101 y 145 Cumbre\n👉Cto 107 Baez\n👉Cto 105 Nazareno",
-    "timestamp": 1771090427,
-    "timestamp_local": 1771090427
-  },
-  {
-    "id": 40403,
-    "fecha": "14 de Feb del 2026 a las 12:23 PM",
-    "hora_utc": "2026-02-14 17:23",
-    "mensaje": "⚠️Afectadas por DAF las Lineas 1910 y 1920\n➡️Línea 1910\n🔹Municipio Placetas \n👉Ctos 100 y 151 Placetas\n👉Cto 104 Hermanos Amejeiras\n👉Cto 103 Batey Carbó Servía\n➡️Línea 1920\n🔹Municipio Placetas:\n👉Ctos 101 y 145 Cumbre\n👉Cto 107 Baez\n👉Cto 105 Nazareno",
-    "timestamp": 1771089821,
-    "timestamp_local": 1771089821
-  },
-  {
-    "id": 40402,
-    "fecha": "14 de Feb del 2026 a las 12:18 PM",
-    "hora_utc": "2026-02-14 17:18",
-    "mensaje": "Afectados 60 MW en la provincia, demanda máxima a apagar en estos momentos.",
-    "timestamp": 1771089524,
-    "timestamp_local": 1771089524
   }
 ]
