@@ -1,5 +1,21 @@
 [
   {
+    "id": 40365,
+    "fecha": "14 de Feb del 2026 a las 01:09 AM",
+    "hora_utc": "2026-02-14 06:09",
+    "mensaje": "Afectados 34 MW en la provincia, demanda máxima a apagar en estos momentos.",
+    "timestamp": 1771049393,
+    "timestamp_local": 1771049393
+  },
+  {
+    "id": 40364,
+    "fecha": "14 de Feb del 2026 a las 12:08 AM",
+    "hora_utc": "2026-02-14 05:08",
+    "mensaje": "🕛Actualización del servicio eléctrico en las últimas 6 horas\n✍️El déficit de capacidad de generación osciló entre los 136 MW y los 80 MW.\n✍️En el momento de esta nota, se mantienen afectados 94 circuitos.\n✍️Cuenta con 18 afectaciones por averías secundarias y de servicio:\n🔸Remedios (4)\n🔸Sagua (1)\n🔸Santa Clara (9)\n🔸Santo Domingo (4)\n🛠️Se encuentran 3 averías en vías de solución.\n🛠️Pendientes a solucionar por el área técnica 9.\n⚠️Se encuentra disparado el Cto 83 (Manacas), perteneciente al municipio Santo Domingo, se estudian las causas.",
+    "timestamp": 1771045688,
+    "timestamp_local": 1771045688
+  },
+  {
     "id": 40363,
     "fecha": "13 de Feb del 2026 a las 11:33 PM",
     "hora_utc": "2026-02-14 04:33",
@@ -142,21 +158,5 @@
     "mensaje": "💡Con servicio el siguiente circuito:\n🔹Municipio Santa Clara:\n👉Cto 153 (EIDE)",
     "timestamp": 1771015815,
     "timestamp_local": 1771015815
-  },
-  {
-    "id": 40345,
-    "fecha": "13 de Feb del 2026 a las 03:31 PM",
-    "hora_utc": "2026-02-13 20:31",
-    "mensaje": "⚠️En déficit de capacidad de generación los siguientes circuitos:                                                                                                                            🔹Municipio Santa Clara:\n👉Ctos 2 y 4 (Consejo- Centro)\n**👉Cto 132 SC. Industrial**\n**👉Cto 162 SC. Industrial**",
-    "timestamp": 1771014689,
-    "timestamp_local": 1771014689
-  },
-  {
-    "id": 40344,
-    "fecha": "13 de Feb del 2026 a las 03:25 PM",
-    "hora_utc": "2026-02-13 20:25",
-    "mensaje": "⚠️En déficit de capacidad de generación los siguientes circuitos:                                                                                                                            🔹Municipio Encrucijada\n👉Cto 120 Calabazar\n👉Ctos 121 y 127 Perucho",
-    "timestamp": 1771014349,
-    "timestamp_local": 1771014349
   }
 ]
