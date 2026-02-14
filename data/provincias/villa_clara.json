@@ -1,5 +1,21 @@
 [
   {
+    "id": 40421,
+    "fecha": "14 de Feb del 2026 a las 04:06 PM",
+    "hora_utc": "2026-02-14 21:06",
+    "mensaje": "⚠️En déficit de capacidad de generación el siguiente circuito:\n🔹Municipio Santa Clara:\n👉Cto 167 (Virginia)",
+    "timestamp": 1771103216,
+    "timestamp_local": 1771103216
+  },
+  {
+    "id": 40420,
+    "fecha": "14 de Feb del 2026 a las 04:02 PM",
+    "hora_utc": "2026-02-14 21:02",
+    "mensaje": "🔸Actualización del servicio eléctrico en la provincia🔸\n✍️Se mantienen afectados en la provincia 93 circuitos.\n✍️En el momento de hacer esta nota la provincia tiene 78 MW por déficit de capacidad de generación.\n✍️Cuenta con 22 afectaciones por averías secundarias y de servicio.",
+    "timestamp": 1771102973,
+    "timestamp_local": 1771102973
+  },
+  {
     "id": 40419,
     "fecha": "14 de Feb del 2026 a las 03:48 PM",
     "hora_utc": "2026-02-14 20:48",
@@ -134,21 +150,5 @@
     "mensaje": "Afectados 60 MW en la provincia, demanda máxima a apagar en estos momentos.",
     "timestamp": 1771089524,
     "timestamp_local": 1771089524
-  },
-  {
-    "id": 40401,
-    "fecha": "14 de Feb del 2026 a las 12:17 PM",
-    "hora_utc": "2026-02-14 17:17",
-    "mensaje": "⚠️En déficit de capacidad de generación los siguientes circuitos:\n🔹Municipio Sagua\n👉Ctos 50 y 147 Villa Alegre",
-    "timestamp": 1771089470,
-    "timestamp_local": 1771089470
-  },
-  {
-    "id": 40400,
-    "fecha": "14 de Feb del 2026 a las 12:17 PM",
-    "hora_utc": "2026-02-14 17:17",
-    "mensaje": "💡Con servicio los siguientes circuitos:\n🔹Municipio Sagua\n👉Ctos 43, 51 Sagua",
-    "timestamp": 1771089421,
-    "timestamp_local": 1771089421
   }
 ]
