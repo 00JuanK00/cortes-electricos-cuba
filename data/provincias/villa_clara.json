@@ -1,11 +1,19 @@
 [
   {
-    "id": 40477,
-    "fecha": "15 de Feb del 2026 a las 10:45 AM",
-    "hora_utc": "2026-02-15 15:45",
+    "id": 40479,
+    "fecha": "15 de Feb del 2026 a las 11:11 AM",
+    "hora_utc": "2026-02-15 16:11",
+    "mensaje": "🛠️Afectada la línea 6595:\nAfecta los siguientes circuitos:\n🔹Municipio Camajuaní:\n👉Ctos  72, 73, 129 y 156 \n👉Cto 74 José María Pérez\n🛠️Se estudian las causas.",
+    "timestamp": 1771171912,
+    "timestamp_local": 1771171912
+  },
+  {
+    "id": 40478,
+    "fecha": "15 de Feb del 2026 a las 11:11 AM",
+    "hora_utc": "2026-02-15 16:11",
     "mensaje": "Con servicio la línea 1960:\n🔹Municipio Encrucijada\n👉Cto 120 Calabazar\n👉Ctos 121 y 127 Perucho",
-    "timestamp": 1771170348,
-    "timestamp_local": 1771170348
+    "timestamp": 1771171874,
+    "timestamp_local": 1771171874
   },
   {
     "id": 40476,
@@ -150,13 +158,5 @@
     "mensaje": "⚠️En déficit de capacidad de generación los siguientes circuitos:\n🔹Municipio Santo Domingo:\n👉Cto 134\n👉Ctos 87 y 96 Bermejal\n👉Cto 187 Batey Carlos Baliño\n👉Cto 82 Ulacia\n👉Cto 84 Rodrigo",
     "timestamp": 1771154552,
     "timestamp_local": 1771154552
-  },
-  {
-    "id": 40458,
-    "fecha": "15 de Feb del 2026 a las 06:05 AM",
-    "hora_utc": "2026-02-15 11:05",
-    "mensaje": "🕕Actualización del servicio eléctrico en las últimas 6 horas\n✍️El déficit de capacidad de generación osciló entre los 70 MW y los 34 MW.\n✍️En el momento de esta nota, se mantienen afectados 103 circuitos.\n✍️Cuenta con 39 afectaciones por averías secundarias y de servicio:\n🔸Camajuani (3)\n🔸Corralillo (1)\n🔸Placetas (3)\n🔸Remedios (2)\n🔸Sagua (4)\n🔸Santa Clara (10)\n🔸Santo Domingo (4)\n🛠️Se encuentran 3 averías en vías de solución.\n🛠️Pendientes a solucionar por el área técnica 9.\n✅La provincia no presenta averías primarias.",
-    "timestamp": 1771153535,
-    "timestamp_local": 1771153535
   }
 ]
