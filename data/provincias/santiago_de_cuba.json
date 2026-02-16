@@ -1,5 +1,69 @@
 [
   {
+    "id": 49788,
+    "fecha": "16 de Feb del 2026 a las 04:55 PM",
+    "hora_utc": "2026-02-16 21:55",
+    "mensaje": "Disparo Automático de Frecuencia (DAF):\nOcurre cuando la frecuencia está por debajo de los 60Hz y determinada carga o circuito se desconecta del sistema automáticamente hasta que se estabilice.",
+    "timestamp": 1771278950,
+    "timestamp_local": 1771278950
+  },
+  {
+    "id": 49787,
+    "fecha": "16 de Feb del 2026 a las 04:55 PM",
+    "hora_utc": "2026-02-16 21:55",
+    "mensaje": "🔴Estimados clientes se les informa que se encuentra disparado el circuito 25.",
+    "timestamp": 1771278920,
+    "timestamp_local": 1771278920
+  },
+  {
+    "id": 49784,
+    "fecha": "16 de Feb del 2026 a las 04:38 PM",
+    "hora_utc": "2026-02-16 21:38",
+    "mensaje": "🔴Estimados clientes se les informa que se incorpora  la afectación el circuito 26.",
+    "timestamp": 1771277926,
+    "timestamp_local": 1771277926
+  },
+  {
+    "id": 49783,
+    "fecha": "16 de Feb del 2026 a las 04:38 PM",
+    "hora_utc": "2026-02-16 21:38",
+    "mensaje": "🔊Estimado clientes en estos momentos se encuentra afectados por Déficit de Capacidad de Generación el circuito 12",
+    "timestamp": 1771277881,
+    "timestamp_local": 1771277881
+  },
+  {
+    "id": 49782,
+    "fecha": "16 de Feb del 2026 a las 04:19 PM",
+    "hora_utc": "2026-02-16 21:19",
+    "mensaje": "🔊Estimado clientes en estos momentos se encuentra afectados por Déficit de Capacidad de Generación los circuitos 11 , 2 , 16 de Santiago , 1 de Palma y La Línea 4385 Contramaestre",
+    "timestamp": 1771276786,
+    "timestamp_local": 1771276786
+  },
+  {
+    "id": 49781,
+    "fecha": "16 de Feb del 2026 a las 04:17 PM",
+    "hora_utc": "2026-02-16 21:17",
+    "mensaje": "🚨Disparo\nApertura no Voluntaria de un interruptor como vía de protección para desconectar uno o varios elementos del circuito,subestación o sistema ,restableciéndose el servicio rápidamente en dependencia de la causa.",
+    "timestamp": 1771276622,
+    "timestamp_local": 1771276622
+  },
+  {
+    "id": 49780,
+    "fecha": "16 de Feb del 2026 a las 04:17 PM",
+    "hora_utc": "2026-02-16 21:17",
+    "mensaje": "🔊Estimado clientes en estos momentos se encuentra Disparado el circuito 25",
+    "timestamp": 1771276622,
+    "timestamp_local": 1771276622
+  },
+  {
+    "id": 49779,
+    "fecha": "16 de Feb del 2026 a las 04:17 PM",
+    "hora_utc": "2026-02-16 21:17",
+    "mensaje": "🔊Estimado clientes en estos momentos se encuentra afectados por Déficit de Capacidad de Generación La Línea 5975 Baconao",
+    "timestamp": 1771276622,
+    "timestamp_local": 1771276622
+  },
+  {
     "id": 49778,
     "fecha": "16 de Feb del 2026 a las 03:20 PM",
     "hora_utc": "2026-02-16 20:20",
@@ -78,77 +142,5 @@
     "mensaje": "🔊Estimados clientes en estos momentos se encuentra afectados por Déficit de Capacidad de Generación el circuito 23",
     "timestamp": 1771265868,
     "timestamp_local": 1771265868
-  },
-  {
-    "id": 49768,
-    "fecha": "16 de Feb del 2026 a las 12:42 PM",
-    "hora_utc": "2026-02-16 17:42",
-    "mensaje": "🚨Disparo Automático de Frecuencia (DAF):\nOcurre cuando la frecuencia está por debajo de los 60Hz y determinada carga o circuito se desconecta del sistema automáticamente hasta que se estabilice.",
-    "timestamp": 1771263759,
-    "timestamp_local": 1771263759
-  },
-  {
-    "id": 49767,
-    "fecha": "16 de Feb del 2026 a las 12:41 PM",
-    "hora_utc": "2026-02-16 17:41",
-    "mensaje": "🔊Estimado clientes en estos momentos se encuentra Disparado por DAF  el circuito 1 de Palma",
-    "timestamp": 1771263660,
-    "timestamp_local": 1771263660
-  },
-  {
-    "id": 49766,
-    "fecha": "16 de Feb del 2026 a las 12:12 PM",
-    "hora_utc": "2026-02-16 17:12",
-    "mensaje": "🔊Estimado clientes en estos momentos se encuentra afectados por Déficit de Capacidad de Generación el circuito 12",
-    "timestamp": 1771261928,
-    "timestamp_local": 1771261928
-  },
-  {
-    "id": 49765,
-    "fecha": "16 de Feb del 2026 a las 11:39 AM",
-    "hora_utc": "2026-02-16 16:39",
-    "mensaje": "🔊Estimado clientes en estos momentos se encuentra afectados por Déficit de Capacidad de Generación el circuito 19",
-    "timestamp": 1771259943,
-    "timestamp_local": 1771259943
-  },
-  {
-    "id": 49764,
-    "fecha": "16 de Feb del 2026 a las 10:42 AM",
-    "hora_utc": "2026-02-16 15:42",
-    "mensaje": "🚨Circuito en avería:                                                                                                                          Sucede si un circuito se interrumpe por causa de un defecto en un cable conductor de corriente (fase o neutro), un fusible fundido o disyuntor. En sistemas trifásicos una falla puede implicar una fase, más de una fase con la tierra o puede ocurrir solo entre fases.",
-    "timestamp": 1771256549,
-    "timestamp_local": 1771256549
-  },
-  {
-    "id": 49763,
-    "fecha": "16 de Feb del 2026 a las 10:42 AM",
-    "hora_utc": "2026-02-16 15:42",
-    "mensaje": "🔊Estimado clientes en estos momentos se encuentra en Avería La Línea 5390 La Maya - II Frente - San Luis",
-    "timestamp": 1771256524,
-    "timestamp_local": 1771256524
-  },
-  {
-    "id": 49762,
-    "fecha": "16 de Feb del 2026 a las 10:39 AM",
-    "hora_utc": "2026-02-16 15:39",
-    "mensaje": "🚨Disparo\nApertura no Voluntaria de un interruptor como vía de protección para desconectar uno o varios elementos del circuito,subestación o sistema ,restableciéndose el servicio rápidamente en dependencia de la causa.",
-    "timestamp": 1771256380,
-    "timestamp_local": 1771256380
-  },
-  {
-    "id": 49761,
-    "fecha": "16 de Feb del 2026 a las 10:39 AM",
-    "hora_utc": "2026-02-16 15:39",
-    "mensaje": "🔊Estimado clientes en estos momentos se encuentra Disparada La Línea 5390 San Luis",
-    "timestamp": 1771256357,
-    "timestamp_local": 1771256357
-  },
-  {
-    "id": 49760,
-    "fecha": "16 de Feb del 2026 a las 10:29 AM",
-    "hora_utc": "2026-02-16 15:29",
-    "mensaje": "🔊Estimado clientes en estos momentos se encuentra afectados por Déficit de Capacidad de Generación los circuitos 2 , 11 de Santiago , 4 de Palma y la Línea 4390 Contramaestre",
-    "timestamp": 1771255779,
-    "timestamp_local": 1771255779
   }
 ]
