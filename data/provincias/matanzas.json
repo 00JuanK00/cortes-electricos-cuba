@@ -1,5 +1,37 @@
 [
   {
+    "id": 32595,
+    "fecha": "16 de Feb del 2026 a las 12:09 AM",
+    "hora_utc": "2026-02-16 05:09",
+    "mensaje": "CON SERVICIO\n\nCIRCUITO 502 Colón 110kV",
+    "timestamp": 1771218549,
+    "timestamp_local": 1771218549
+  },
+  {
+    "id": 32594,
+    "fecha": "16 de Feb del 2026 a las 12:01 AM",
+    "hora_utc": "2026-02-16 05:01",
+    "mensaje": "⚡ Déficit de capacidad de generación en la provincia:69 MW",
+    "timestamp": 1771218065,
+    "timestamp_local": 1771218065
+  },
+  {
+    "id": 32593,
+    "fecha": "15 de Feb del 2026 a las 11:50 PM",
+    "hora_utc": "2026-02-16 04:50",
+    "mensaje": "🧏 El restablecimiento del servicio eléctrico dependerá del comportamiento de la demanda y la disponibilidad de Sistema.",
+    "timestamp": 1771217405,
+    "timestamp_local": 1771217405
+  },
+  {
+    "id": 32592,
+    "fecha": "15 de Feb del 2026 a las 11:32 PM",
+    "hora_utc": "2026-02-16 04:32",
+    "mensaje": "⚡ Déficit de capacidad de generación en la provincia:82 MW",
+    "timestamp": 1771216368,
+    "timestamp_local": 1771216368
+  },
+  {
     "id": 32591,
     "fecha": "15 de Feb del 2026 a las 11:05 PM",
     "hora_utc": "2026-02-16 04:05",
@@ -126,29 +158,5 @@
     "mensaje": "Máximo Apagable en la provincia. ⚡ Déficit de capacidad de generación en la provincia:97 MW",
     "timestamp": 1771188712,
     "timestamp_local": 1771188712
-  },
-  {
-    "id": 32574,
-    "fecha": "15 de Feb del 2026 a las 03:07 PM",
-    "hora_utc": "2026-02-15 20:07",
-    "mensaje": "⚡ Déficit de capacidad de generación en la provincia:82 MW",
-    "timestamp": 1771186041,
-    "timestamp_local": 1771186041
-  },
-  {
-    "id": 32573,
-    "fecha": "15 de Feb del 2026 a las 02:43 PM",
-    "hora_utc": "2026-02-15 19:43",
-    "mensaje": "🧐Recuerde que ante cualquier anomalía con el servicio eléctrico, usted debe llamar☎️📲 al 188 88 y reportar la queja.",
-    "timestamp": 1771184617,
-    "timestamp_local": 1771184617
-  },
-  {
-    "id": 32572,
-    "fecha": "15 de Feb del 2026 a las 02:28 PM",
-    "hora_utc": "2026-02-15 19:28",
-    "mensaje": "⚡ Déficit de capacidad de generación en la provincia:80 MW",
-    "timestamp": 1771183685,
-    "timestamp_local": 1771183685
   }
 ]
