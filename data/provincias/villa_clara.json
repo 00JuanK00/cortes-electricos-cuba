@@ -1,5 +1,53 @@
 [
   {
+    "id": 40567,
+    "fecha": "16 de Feb del 2026 a las 06:43 PM",
+    "hora_utc": "2026-02-16 23:43",
+    "mensaje": "⚡En avería el Cto 66 (Las Torres) de manera total faltándole una fase, perteneciente al municipio Caibarién.",
+    "timestamp": 1771285381,
+    "timestamp_local": 1771285381
+  },
+  {
+    "id": 40566,
+    "fecha": "16 de Feb del 2026 a las 06:34 PM",
+    "hora_utc": "2026-02-16 23:34",
+    "mensaje": "⚠️En déficit de capacidad de generación el siguiente circuito:\n🔹Municipio Santa Clara \n👉Cto 99 (Placetas)",
+    "timestamp": 1771284854,
+    "timestamp_local": 1771284854
+  },
+  {
+    "id": 40565,
+    "fecha": "16 de Feb del 2026 a las 06:25 PM",
+    "hora_utc": "2026-02-16 23:25",
+    "mensaje": "Afectados 125 MW en la provincia, demanda máxima a apagar en estos momentos",
+    "timestamp": 1771284328,
+    "timestamp_local": 1771284328
+  },
+  {
+    "id": 40564,
+    "fecha": "16 de Feb del 2026 a las 06:24 PM",
+    "hora_utc": "2026-02-16 23:24",
+    "mensaje": "➡️Ante cualquier duda con la terminología eléctrica, les volvemos explicar: \n     \n1️⃣Las averías pueden ser primarias (afecta un volumen grande de población pues son las líneas de distribución a 13.8kV y puede afectar varias manzanas, incluso repartos completos).\n\n2️⃣Secundarias (afecta a todos los clientes que se alimenten del mismo transformador, puede afectar una o varias cuadras). \n\n3️⃣De servicio (afectan 1 solo cliente o instalación generalmente producto a daños en la acometida, metro contador, etc.).",
+    "timestamp": 1771284291,
+    "timestamp_local": 1771284291
+  },
+  {
+    "id": 40563,
+    "fecha": "16 de Feb del 2026 a las 06:09 PM",
+    "hora_utc": "2026-02-16 23:09",
+    "mensaje": "🕕Actualización del servicio eléctrico en las últimas 6 horas.\n✍️El déficit de capacidad de generación osciló entre los 50 MW y los 92 MW.\n✍️En el momento de esta nota, se mantienen afectados 115 circuitos.\n✍️Cuenta con 60 afectaciones por averías secundarias y de servicio:\n🔸Caibarién (1)\n🔸Camajuaní (1)\n🔸Manicaragua (7)\n🔸Placetas (2)\n🔸Remedios (10)\n🔸Sagua (8)\n🔸Santa Clara (31)\n🛠️Pendientes a solucionar por el área técnica 8.\n⚡En estos momentos la provincia no presenta averías primarias.",
+    "timestamp": 1771283395,
+    "timestamp_local": 1771283395
+  },
+  {
+    "id": 40562,
+    "fecha": "16 de Feb del 2026 a las 06:01 PM",
+    "hora_utc": "2026-02-16 23:01",
+    "mensaje": "💡Con servicio la línea del 1785:\n🔹Municipio Santa Clara:\n👉Cto 16 Cubanacán \n👉Ctos 23 y 130 La Ceniza\n👉Cto 42 Manajanabo\n🔹Municipio Placetas\n👉Cto 139 Miller\n👉Cto 190 Oliver\n👉Cto 106 Falcón\n👉Ctos 98 y 99 Placetas",
+    "timestamp": 1771282894,
+    "timestamp_local": 1771282894
+  },
+  {
     "id": 40561,
     "fecha": "16 de Feb del 2026 a las 05:17 PM",
     "hora_utc": "2026-02-16 22:17",
@@ -110,53 +158,5 @@
     "mensaje": "Afectados 56 MW en la provincia, demanda máxima a apagar en estos momentos",
     "timestamp": 1771265007,
     "timestamp_local": 1771265007
-  },
-  {
-    "id": 40546,
-    "fecha": "16 de Feb del 2026 a las 12:59 PM",
-    "hora_utc": "2026-02-16 17:59",
-    "mensaje": "⚠️En déficit de capacidad de generación los siguientes circuitos:\n🔹Municipio Quemado:\n👉Ctos 164, 52 y 53 Quemado.",
-    "timestamp": 1771264761,
-    "timestamp_local": 1771264761
-  },
-  {
-    "id": 40545,
-    "fecha": "16 de Feb del 2026 a las 12:53 PM",
-    "hora_utc": "2026-02-16 17:53",
-    "mensaje": "⚠️En déficit de capacidad de generación el siguiente circuito:\n🔹Municipio Encrucijada:\n👉Cto 122 Encrucijada",
-    "timestamp": 1771264380,
-    "timestamp_local": 1771264380
-  },
-  {
-    "id": 40544,
-    "fecha": "16 de Feb del 2026 a las 12:25 PM",
-    "hora_utc": "2026-02-16 17:25",
-    "mensaje": "⚠️Afectado por Vía Libre el Cto 144 (Camacho) para reparar puentes dañados.",
-    "timestamp": 1771262749,
-    "timestamp_local": 1771262749
-  },
-  {
-    "id": 40543,
-    "fecha": "16 de Feb del 2026 a las 12:08 PM",
-    "hora_utc": "2026-02-16 17:08",
-    "mensaje": "⚠️En déficit de capacidad de generación los siguientes circuitos:\n🔹Municipio Manicaragua:\n👉Ctos 109 y 150\n👉Ctos 108 y 110 La Piedra\n👉Cto 111 Mataguá",
-    "timestamp": 1771261695,
-    "timestamp_local": 1771261695
-  },
-  {
-    "id": 40542,
-    "fecha": "16 de Feb del 2026 a las 12:05 PM",
-    "hora_utc": "2026-02-16 17:05",
-    "mensaje": "🕛Actualización del servicio eléctrico en las últimas 6 horas.\n✍️El déficit de capacidad de generación osciló entre los 40 MW y los 51 MW.\n✍️En el momento de esta nota, se mantienen afectados 63 circuitos.\n✍️Cuenta con 59 afectaciones por averías secundarias y de servicio:\n🔸Camajuaní (2)\n🔸Corralillo (1)\n🔸Encrucijada (1)\n🔸Manicaragua (9)\n🔸Placetas (7)\n🔸Ranchuelo (2)\n🔸Remedios (8)\n🔸Sagua (8)\n🔸Santa Clara (20)\n🔸Santo Domingo (1)\n🛠️Pendientes a solucionar por el área técnica 9.\n⚡En estos momentos la provincia no presenta averías primarias.",
-    "timestamp": 1771261558,
-    "timestamp_local": 1771261558
-  },
-  {
-    "id": 40541,
-    "fecha": "16 de Feb del 2026 a las 11:12 AM",
-    "hora_utc": "2026-02-16 16:12",
-    "mensaje": "Afectados 51 MW en la provincia, demanda máxima a apagar en estos momentos",
-    "timestamp": 1771258359,
-    "timestamp_local": 1771258359
   }
 ]
