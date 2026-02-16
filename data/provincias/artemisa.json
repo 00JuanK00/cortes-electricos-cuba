@@ -1,5 +1,21 @@
 [
   {
+    "id": 35728,
+    "fecha": "16 de Feb del 2026 a las 06:33 AM",
+    "hora_utc": "2026-02-16 11:33",
+    "mensaje": "⛔ Avería en el ZD301 por poste quemado por 33KV, pendiente por trabajo de brigada⛔",
+    "timestamp": 1771241611,
+    "timestamp_local": 1771241611
+  },
+  {
+    "id": 35727,
+    "fecha": "16 de Feb del 2026 a las 06:27 AM",
+    "hora_utc": "2026-02-16 11:27",
+    "mensaje": "🚨 Afectados por Déficit los circuitos\n➡️ Circuito 1500 de Artemisa\n➡️ Circuito A1270 de Artemisa\n⛔ Tenemos una afectación de 85MW en la Provincia⛔",
+    "timestamp": 1771241268,
+    "timestamp_local": 1771241268
+  },
+  {
     "id": 35726,
     "fecha": "16 de Feb del 2026 a las 06:08 AM",
     "hora_utc": "2026-02-16 11:08",
@@ -142,21 +158,5 @@
     "mensaje": "❌ Circuito Cárcel 1 de Guanajay en avería, se están recorriendo las líneas❌",
     "timestamp": 1771185439,
     "timestamp_local": 1771185439
-  },
-  {
-    "id": 35708,
-    "fecha": "15 de Feb del 2026 a las 02:15 PM",
-    "hora_utc": "2026-02-15 19:15",
-    "mensaje": "🚨 Afectado por deficit los circuitos\n➡️ Circuito Maní de San Cristóbal\n⛔ Tenemos una afectación de 106MW en la Provincia⛔",
-    "timestamp": 1771182939,
-    "timestamp_local": 1771182939
-  },
-  {
-    "id": 35707,
-    "fecha": "15 de Feb del 2026 a las 02:03 PM",
-    "hora_utc": "2026-02-15 19:03",
-    "mensaje": "🚨 Afectado por deficit los circuitos\n➡️ Circuito 3205 de Cabaña y Quiebra Hacha\n⛔ Tenemos una afectación de 114MW en la Provincia⛔",
-    "timestamp": 1771182186,
-    "timestamp_local": 1771182186
   }
 ]
