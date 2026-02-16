@@ -1,5 +1,37 @@
 [
   {
+    "id": 40531,
+    "fecha": "16 de Feb del 2026 a las 08:02 AM",
+    "hora_utc": "2026-02-16 13:02",
+    "mensaje": "🔸Actualización del servicio eléctrico en la provincia🔸\n✍️Se mantienen afectados en la provincia 81 circuitos.\n✍️En el momento de hacer esta nota la provincia tiene 51 MW por déficit de capacidad de generación.\n✍️Cuenta con 33 afectaciones por averías secundarias y de servicio.",
+    "timestamp": 1771246933,
+    "timestamp_local": 1771246933
+  },
+  {
+    "id": 40530,
+    "fecha": "16 de Feb del 2026 a las 07:33 AM",
+    "hora_utc": "2026-02-16 12:33",
+    "mensaje": "🚨Nota informativa🚨\n\n📆Situación del SEN para el 16 de febrero de 2026.\n\n👉En el día de ayer se afectó el servicio por déficit de capacidad durante las 24 horas y se ha mantenido la afectación durante la madrugada de hoy. La máxima afectación por déficit de capacidad de generación en el día de ayer fue de 1698 MW a las 19:10 horas.\n\n☀️La producción de energía de los 50 nuevos parques solares fotovoltaicos fue de 4483 MWh, con 800 MW como máxima potencia entregada en el horario de la media con esta fuente de generación. \n\n📈La disponibilidad del SEN a las 06:00 horas es de 1240 MW, la demanda 1915 MW, con 710 MW afectados. En el horario de la media se estima una afectación de 850 MW.  \n\n🛠️Se encuentran en avería la unidad 5 de la CTE Mariel, la unidad 2 de la CTE Santa Cruz, la unidad 2 de la CTE Felton y las unidades 5 y 6 de la CTE Renté. Se encuentran en mantenimiento la unidad 6 de la CTE Mariel, la unidad 4 de la CTE Cienfuegos y la unidad 5 de la CTE Nuevitas.\n\n👉Las limitaciones en la generación térmica son de 420 MW.\n\n⛽Para el pico se pronostica la entrada de Patana de Regla con 59 MW y la entrada de 5 motores en el emplazamiento de Moa con 70 MW y la entrada de 7 motores de Fuel de Mariel con 105 MW.    \n   \n📝Con este pronóstico se prevé para el pico una disponibilidad de 1457 MW con una demanda máxima de 3180 MW, para un déficit de 1723 MW, por lo que de mantenerse las condiciones previstas se pronostica una afectación de 1753 MW en este horario.\n\nUNE-MINEM---07:00 horas",
+    "timestamp": 1771245236,
+    "timestamp_local": 1771245236
+  },
+  {
+    "id": 40528,
+    "fecha": "16 de Feb del 2026 a las 07:10 AM",
+    "hora_utc": "2026-02-16 12:10",
+    "mensaje": "🕕Actualización del servicio eléctrico en las últimas 6 horas.\n✍️El déficit de capacidad de generación osciló entre los 78 MW y los 66 MW.\n✍️En el momento de esta nota, se mantienen afectados 112 circuitos.\n✍️Cuenta con 42 afectaciones por averías secundarias y de servicio:\n🔸Caibarién (1)\n🔸Camajuaní (1)\n🔸Encrucijada (1)\n🔸Manicaragua (7)\n🔸Placetas (5)\n🔸Ranchuelo (2)\n🔸Remedios (2)\n🔸Sagua (4)\n🔸Santa Clara (5)\n🔸Santo Domingo (2)\n🛠️Se encuentra 1 avería en vías de solución.\n🛠️Pendientes a solucionar por el área técnica 11.\n⚡La provincia presenta 1 avería primaria en el circuito 121 (Perucho), del municipio Encrucijada.",
+    "timestamp": 1771243859,
+    "timestamp_local": 1771243859
+  },
+  {
+    "id": 40527,
+    "fecha": "16 de Feb del 2026 a las 07:05 AM",
+    "hora_utc": "2026-02-16 12:05",
+    "mensaje": "⚠️En déficit de capacidad de generación los siguientes circuitos:\n🔹Municipio Placetas \n👉Ctos 100 y 151 Placetas\n👉Cto 104 Hermanos Amejeiras\n👉Cto 103 Batey Carbó Servía",
+    "timestamp": 1771243552,
+    "timestamp_local": 1771243552
+  },
+  {
     "id": 40526,
     "fecha": "16 de Feb del 2026 a las 05:08 AM",
     "hora_utc": "2026-02-16 10:08",
@@ -118,37 +150,5 @@
     "mensaje": "🕕Actualización del servicio eléctrico en las últimas 6 horas.\n✍️El déficit de capacidad de generación osciló entre los 109 MW y los 131 MW.\n✍️En el momento de esta nota, se mantienen afectados 123 circuitos.\n✍️Cuenta con 55 afectaciones por averías secundarias y de servicio:\n🔸Caibarién (2)\n🔸Camajuaní (1)\n🔸Corralillo (2)\n🔸Encrucijada (1)\n🔸Manicaragua (5)\n🔸Placetas (3)\n🔸Remedios (3)\n🔸Sagua (4)\n🔸Santa Clara (17)\n🔸Santo Domingo (2)\n🛠️Se encuentran 5 averías en vías de solución.\n🛠️Pendientes a solucionar por el área técnica 12.\n⚡La provincia no presenta averías primarias en estos momentos.",
     "timestamp": 1771197696,
     "timestamp_local": 1771197696
-  },
-  {
-    "id": 40509,
-    "fecha": "15 de Feb del 2026 a las 06:00 PM",
-    "hora_utc": "2026-02-15 23:00",
-    "mensaje": "Con servicio la línea 119:\n🔹Municipio Santa Clara:\n👉Cto 144 (Camacho)",
-    "timestamp": 1771196403,
-    "timestamp_local": 1771196403
-  },
-  {
-    "id": 40508,
-    "fecha": "15 de Feb del 2026 a las 05:58 PM",
-    "hora_utc": "2026-02-15 22:58",
-    "mensaje": "⚠️En déficit de capacidad de generación el circuito 99 del municipio Placetas.",
-    "timestamp": 1771196330,
-    "timestamp_local": 1771196330
-  },
-  {
-    "id": 40507,
-    "fecha": "15 de Feb del 2026 a las 05:46 PM",
-    "hora_utc": "2026-02-15 22:46",
-    "mensaje": "🛠️Afectado por manipulación la línea 119:\n🔹Municipio Santa Clara:\n👉Cto 144 (Camacho)",
-    "timestamp": 1771195586,
-    "timestamp_local": 1771195586
-  },
-  {
-    "id": 40506,
-    "fecha": "15 de Feb del 2026 a las 05:35 PM",
-    "hora_utc": "2026-02-15 22:35",
-    "mensaje": "⚠️En déficit de capacidad de generación los siguientes circuitos:\n🔹Municipio Santa Clara\n👉Cto 7 (Universidad)  \n👉Cto 146 (Elevado Aeropuerto) \n👉Cto 22 (Construcciones Textil)\n👉Cto 131 (Las Antillas)\n👉Cto 153 (EIDE)\n👉Cto 25 (Los Güiros)\n👉Cto 24 (Planta Asfalto)\n👉Cto 35 (Biotecnología) \n👉Ctos 14, 15 y 27 (Maleza)",
-    "timestamp": 1771194929,
-    "timestamp_local": 1771194929
   }
 ]
