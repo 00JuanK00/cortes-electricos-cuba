@@ -1,5 +1,21 @@
 [
   {
+    "id": 48000,
+    "fecha": "17 de Feb del 2026 a las 02:39 AM",
+    "hora_utc": "2026-02-17 07:39",
+    "mensaje": "⚠️ Se comunica a nuestros clientes que continúan en fallo los circuitos:\n\n👉C-1770 Guanayara, 4 Vientos, Cien Rosas, Charco Azul, Aguacate, Grones, EL Nacimiento, Centro Cubano.\n👉C-48 San Blas, La Vega, Sabanita, Pico San Juan, Gaviña, El Naranjo, Sopapo, Mayarí.\n\n\n📌Se trabaja para restablecer el servicio lo antes posible. \n\n👉Ofrecemos disculpas por las molestias ocasionadas.",
+    "timestamp": 1771313990,
+    "timestamp_local": 1771313990
+  },
+  {
+    "id": 47999,
+    "fecha": "17 de Feb del 2026 a las 02:37 AM",
+    "hora_utc": "2026-02-17 07:37",
+    "mensaje": "⚡⚡ Actualización de los circuitos afectados por déficit de capacidad de generación. ⚡⚡\n\n👉C-20 Punta Gorda (Hospital Provincial 0-24)\n👉C-24 Pérez Leyva, La Redonda, El Limpio.\n👉C-27 Barrio Matadero, Juraguá. (Bombeo Agua CEN 0-12)\n👉C-28 CEN, Castillo de Jagua, La Loma. (Bombeo Agua CEN 0-12)\n👉C-35 \"Terraza, Codicia, Breñas, Caña Brava, Dolores.(Bombeo Agua Cfgos 0-12)\"\n👉C-47 Elpidio Gómez, Altamira, La Peseta.\n👉C-18 Arizona, La Juanita (Hospital de Especialidades 0-24)\n👉C-91 Buena Vista, La Esperanza.\n👉C-54 Batey Mal Tiempo, Carrasco, Loma de Tola.\n👉C-42 Viet Nam, Real Campiña, Guanito.\n👉C-73 \"Perseverancia, 1ro de Mayo.(Bombeo agua Aguada 0-12)\"\n👉C-78 Plan Arroz, La Paquita, Galeón, Batey Santana, Guevara, Aguada (Oeste).\n👉C-70 \"Aguada, Federal.(Bombeo Aguada 0-12)\"\n👉C-43 \"Aguada (Pueblo), Autopista, Batey María Victoria.(Hospital Aguada Autopista 0-24)\"\n👉C-23 Turquino, 5 de Septiembre, Guayabito\n👉C-72 Porcino, La Caridad, Palmira (Sur)\n👉C-8 El Pino, Congojas, La Lolita.\n👉C-7 \"Lajas, Las Nuevas, El Salto, Ajuria, Santa Susana,  San Marcos, Chucho Rosa.\n👉C-41 \"Caracas, Mora, San Isidro.\n👉C-39 La Sierrita, El Brazo, Cafetal, Faisanera.\n👉C-75 La Legua, Gavilán, Boca Ambuila.\n👉C-33 Arimao, Las Moscas, Vegas Viejas, Santa Martina, San Antón, Quesada, Callejón del Palmar.\n👉C-85 \"Cumanayagua (Centro).(Bombeo de agua Cumanayagua 0-24)\"\n👉C-32 Yaguaramas, Guayabales, Batey Diego. ( PSFV 0-24)\n👉C-29 Moncada, Constancia, Rosalía, Loma del Chivo, Simpatía, Charcas, Guasimal.\n👉C-25 Abreus (Pueblo).\n👉C-55 Cruces (Sur).\n👉C-11 Ariza, Silverita, Nuevo México.\n👉C-57 Lajas (Pueblo).\n\n⚡⚡En este momento tenemos una afectación total de 21 MW por déficit de capacidad de generación en la provincia. ⚡⚡",
+    "timestamp": 1771313841,
+    "timestamp_local": 1771313841
+  },
+  {
     "id": 47998,
     "fecha": "17 de Feb del 2026 a las 12:08 AM",
     "hora_utc": "2026-02-17 05:08",
@@ -126,21 +142,5 @@
     "mensaje": "⚠Disparo automático por frecuencia (DAF).\n\nUn disparo por frecuencia o Descarga Automática por Frecuencia, es una protección que posee el sistema eléctrico para cuando la frecuencia llega a valores mínimos permisibles que ponen en peligro la estabilidad de todo el sistema en su conjunto y provoca una desconexión automática de algunos circuitos hasta que se vuelva a recuperar su valor nominal a 60Hz o ciclos por segundo.",
     "timestamp": 1771272560,
     "timestamp_local": 1771272560
-  },
-  {
-    "id": 47980,
-    "fecha": "16 de Feb del 2026 a las 03:06 PM",
-    "hora_utc": "2026-02-16 20:06",
-    "mensaje": "⚠Se comunica a nuestros clientes que se encuentra afectado el servicio por Disparo Automático por Frecuencia (DAF), en la línea:\n\n👉L-1885 Cen-Juraguá.\n\n📌Se trabaja para restablecer el servicio lo antes posible.\n\n👉 Ofrecemos disculpas por las molestias ocasionadas.",
-    "timestamp": 1771272405,
-    "timestamp_local": 1771272405
-  },
-  {
-    "id": 47979,
-    "fecha": "16 de Feb del 2026 a las 03:04 PM",
-    "hora_utc": "2026-02-16 20:04",
-    "mensaje": "⚡⚡ Actualización de los circuitos afectados por déficit de capacidad de generación. ⚡⚡\n\n👉C-29 Moncada, Constancia, Rosalía, Loma del Chivo, Simpatía, Charcas, Guasimal.\n👉C-25 Abreus (Pueblo).\n👉C-55 Cruces (Sur).\n👉C-57 Lajas (Pueblo).\n👉C-11 Ariza, Silverita, Nuevo México.\n👉C-52 Paradero de Camarones, Vía Estrecha, Espartaco, La Macana, Cherepa.\n👉C-82 Balboa, La Pedrera, El Tropezón.\n👉C-49 Arriete, Ciego Montero, La Amalia, Ceiba Hueca.\n👉C-103 \"Santiago de Cartagena,  Lequeito\n👉C-102 La Ciruela\n👉C-101 Cartagena, La Modelo, Santa Rosa, La Piragua, El Bajío, California, El Salado.\n👉C-84 \"Espartaco (Este), Maleza, Dagame, Paso del Medio, San Fernando de Camarones, Jurisdicción, Manaquita.(Bombeo de agua Cruces 0-12)\"\n👉C-53 Potrerillo, El No, Peñasco, Lomitas.\n👉C-405 \"Pueblo Griffo Nuevo.\n👉C-2 Calle 47 desde Ave 42 hasta Ave 54 y  Ave 48 desde Calle 47 hasta Calle 49\n👉C-3 Reparto Eléctrico\n👉C-59 Marta Abreus, Jova, Tumba Saco.\n👉C-44 Los Burros, El Conejito, El Desquite, Venero.\n👉C-15 Pepito Tey, Guabairo. \n👉C-63 Juraguá (Oeste), Las 500, Calicito, Bolivia, Comunidad Alejandro, Hondones, La Yuca, Bagazal.\n👉C-67 \"El Crucero, Guaos, Naranjito.(Prefabricados PSFV 0-15)\"\n👉C-62 Barajagua.\n👉C-22 Rodas (Bombeo Agua Rodas 0-12)\n👉C-21 Santa Elena, La Candita, Jabacoa, Batey Nuevo, Las Medidas.\n👉C-19 Tulipán\n👉C-65 Casco histórico, Reina (Aduana)\n👉C-66 Reina (Parque)\n👉C-76 \"Punta la Cueva, Junco Viejo.(Rebombeo Agua para los hoteles 0-24)\"\n👉C-5 Boulevard, Parque Martí\n👉C-56 \"Cruces (Norte). (Prefabricado de PSFV 0-15)\"\n👉C-80 Punta Cotica, Parque José Martí.\n👉C-36 \"Cumanayagua (Sur), La Guasasa, Ceibabo, La Furnia, Monasterio, El Concuní.(Prefabricado PSFV 0-15)\"\n👉C-31 Horquita, Vista Hermosa, Micropresa, El Manguito, Mercedes, Guanal.\n👉C-88 San Ignacio, Babiney, Carmelina, San Rafael, La Leona, Mijalito, Matún.\n\n⚡⚡En este momento tenemos una afectación total de 35 MW por déficit de capacidad de generación en la provincia. ⚡⚡",
-    "timestamp": 1771272246,
-    "timestamp_local": 1771272246
   }
 ]
