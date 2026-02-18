@@ -1,5 +1,13 @@
 [
   {
+    "id": 30296,
+    "fecha": "18 de Feb del 2026 a las 01:21 AM",
+    "hora_utc": "2026-02-18 06:21",
+    "mensaje": "🚨 **Actualización del Sistema Electroenergético en la Provincia de Granma.**\n\n🔺 Afectación contra demanda:  40 MW\n\n🔺 Con servicio: 22 MW\n\n❎ **Se afecta el servicio** **eléctrico para los circuitos:**\n\n* Circuito 2\n\n**⏰ Circuitos con mayor tiempo de afectación:**\n\n* Río Cauto ( 12 h y 56 min)\n\n* General Benítez ( 11 h y 45 min)\n\n📢 Continuaremos informando.",
+    "timestamp": 1771395672,
+    "timestamp_local": 1771395672
+  },
+  {
     "id": 30295,
     "fecha": "18 de Feb del 2026 a las 12:37 AM",
     "hora_utc": "2026-02-18 05:37",
@@ -11,7 +19,7 @@
     "id": 30294,
     "fecha": "17 de Feb del 2026 a las 11:52 PM",
     "hora_utc": "2026-02-18 04:52",
-    "mensaje": "🚨 **Actualización del Sistema Electroenergético en la Provincia de Granma.**\n\n🔺 Afectación contra demanda:  49 MW\n\n🔺 Con servicio: 27 MW\n\n❎ Se afecta el servicio eléctrico para los circuitos:\n\n* La Unión \n\n✅ **Restablecido el servicio** **eléctrico para los circuitos: **\n\n* Charco Redondo \n* El Yarey \n* Palmarón \n* Cayo Redondo \n\n\n**⏰ Circuitos con mayor tiempo de afectación:**\n\n* Río Cauto ( 11 h y 26 min)\n\n* General Benítez (10 h y 15 min)\n\n📢 Continuaremos informando.",
+    "mensaje": "🚨 **Actualización del Sistema Electroenergético en la Provincia de Granma.**\n\n🔺 Afectación contra demanda:  49 MW\n\n🔺 Con servicio: 27 MW\n\n❎ Se afecta el servicio eléctrico para los circuitos:\n\n* La Unión \n\n✅ **Restablecido el servicio** **eléctrico para los circuitos: **\n\n* Charco Redondo \n* El Yarey \n* Palmarón \n* Cayo Redondo \n* Guisa \n* Guisa 2 \n\n\n**⏰ Circuitos con mayor tiempo de afectación:**\n\n* Río Cauto ( 11 h y 26 min)\n\n* General Benítez (10 h y 15 min)\n\n📢 Continuaremos informando.",
     "timestamp": 1771390373,
     "timestamp_local": 1771390373
   },
@@ -142,13 +150,5 @@
     "mensaje": "🚨 Quedó restablecido el servicio eléctrico para el circuito **Saco Centro** **del Pueblo** que estuvo disparado por DAF.\n\n👉 Continuaremos informando...",
     "timestamp": 1771353814,
     "timestamp_local": 1771353814
-  },
-  {
-    "id": 30276,
-    "fecha": "17 de Feb del 2026 a las 01:40 PM",
-    "hora_utc": "2026-02-17 18:40",
-    "mensaje": "#NotaDeInterés \n\n📣 DAF:\nEl disparo automático por frecuencia ( DAF) : Es una protección que posee el sistema eléctrico para cuando la frecuencia llega a valores mínimos permisibles que ponen en peligro la estabilidad del sistema en su conjunto y provoca una desconexión automática de algunos circuitos hasta que está vuelva a recuperar su valor nominal a 60 Hz o ciclos por segundo.\nEsto ocurre al salir de forma imprevista o repentina una planta generadora con una potencia determinada y el sistema en su conjunto necesita liberar esa carga hasta tanto se puedan recuperar la potencia de generación perdida anteriormente o dar las afectaciones al ser déficit de generación.",
-    "timestamp": 1771353655,
-    "timestamp_local": 1771353655
   }
 ]
