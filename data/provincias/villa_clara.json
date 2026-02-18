@@ -1,5 +1,21 @@
 [
   {
+    "id": 40695,
+    "fecha": "18 de Feb del 2026 a las 02:58 PM",
+    "hora_utc": "2026-02-18 19:58",
+    "mensaje": "⚠️Afectados por déficit de generación los siguientes circuitos:\n👉Municipio Encrucijada:\nCto 122 Encrucijada  \nCto 123 Vizcaya \nCto 142 Comunidad La Sierra \nCto 126 Batey Emilio Córdova\nCto 125 Cavarrocas\nCto 124 El Santo\n👉Municipio Camajuaní:                                                              \nCto 78 Jutiero\n👉Municipio Camajuaní:\nCto 75 La Quinta\nCto 157 Luis Arcos Bergnes\nCtos 76 y 90 Vega Alta",
+    "timestamp": 1771444681,
+    "timestamp_local": 1771444681
+  },
+  {
+    "id": 40694,
+    "fecha": "18 de Feb del 2026 a las 02:52 PM",
+    "hora_utc": "2026-02-18 19:52",
+    "mensaje": "⚠️Afectada por DAF la Línea 1205.\n👉Línea 1205\n🔸Municipio Sagua\nCtos 43, 51 Sagua\nCto 44 Isabela\nCtos 50 y 147 Villa Alegre",
+    "timestamp": 1771444323,
+    "timestamp_local": 1771444323
+  },
+  {
     "id": 40692,
     "fecha": "18 de Feb del 2026 a las 02:06 PM",
     "hora_utc": "2026-02-18 19:06",
@@ -134,29 +150,5 @@
     "mensaje": "💡Restablecido el servicio eléctrico en los siguientes circuitos:\n👉Cto 196 Batey Panchito Gómez Toro.\n👉Cto 55 Rancho Veloz",
     "timestamp": 1771428501,
     "timestamp_local": 1771428501
-  },
-  {
-    "id": 40675,
-    "fecha": "18 de Feb del 2026 a las 10:26 AM",
-    "hora_utc": "2026-02-18 15:26",
-    "mensaje": "💡Restablecido el servicio eléctrico en el circuito 164 Quemado.",
-    "timestamp": 1771428372,
-    "timestamp_local": 1771428372
-  },
-  {
-    "id": 40674,
-    "fecha": "18 de Feb del 2026 a las 10:14 AM",
-    "hora_utc": "2026-02-18 15:14",
-    "mensaje": "¿Qué es un disparo de circuito y porque ocurre?\n🔸Los disparos de circuito tienen diferentes aristas todas con distintos significados, es decir que ocurren por varias causas. Entre ellas encontramos:\n\n👉-Disparo de Circuito con Recierre: El conocido por los clientes como “quita y pon de corriente” es un tipo de protección utilizada mundialmente a partir del 80% aproximadamente de las interrupciones eléctricas son transitorias. Este fenómeno lo hace una sola vez ante un evento de red y no es dañino para para nuestros equipos electrodomésticos. \n\n👉- Disparo Automático por Frecuencia (DAF):  El disparo por DAF ocurre cuando la frecuencia llega a valores mínimos permisibles que ponen en peligro la estabilidad del mismo y como protección desconecta varios circuitos de la Capital. Los mismo restablecen a medida que se vaya recuperando la frecuencia que tiene un valor de 60hz o ciclos por segundo.\n\n👉-Disparo de Circuito por Sobrecarga: Este ocurre mayormente en los horarios pico y en verano, ya que las altas temperaturas generan elevados consumos en la población y como consecuencia de ello fallas en los circuitos.\n\n👉-Disparo de Circuito por Posible Avería: Este fenómeno ocurre cuando existe una falla en algún circuito, ya sea soterrado, aéreo o en una subestación. Estas, a pesar de que son mucho más frecuentes cuando existe algún evento climatológico, pueden ocurrir en cualquier momento del día o la noche, ya que son situaciones que no cuentan con programación.",
-    "timestamp": 1771427665,
-    "timestamp_local": 1771427665
-  },
-  {
-    "id": 40673,
-    "fecha": "18 de Feb del 2026 a las 10:13 AM",
-    "hora_utc": "2026-02-18 15:13",
-    "mensaje": "🛠️Afectados por disparo los siguientes circuitos, se estudian las causas.\n👉Municipio Remedios:\nCto 67 \n👉Municipio Encrucijada\nCto 120 Calabazar\nCtos 121 y 127 Perucho",
-    "timestamp": 1771427604,
-    "timestamp_local": 1771427604
   }
 ]
