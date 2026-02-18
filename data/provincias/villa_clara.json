@@ -1,5 +1,77 @@
 [
   {
+    "id": 40676,
+    "fecha": "18 de Feb del 2026 a las 10:28 AM",
+    "hora_utc": "2026-02-18 15:28",
+    "mensaje": "💡Restablecido el servicio eléctrico en los siguientes circuitos:\n👉Cto 196 Batey Panchito Gómez Toro.\n👉Cto 55 Rancho Veloz",
+    "timestamp": 1771428501,
+    "timestamp_local": 1771428501
+  },
+  {
+    "id": 40675,
+    "fecha": "18 de Feb del 2026 a las 10:26 AM",
+    "hora_utc": "2026-02-18 15:26",
+    "mensaje": "💡Restablecido el servicio eléctrico en el circuito 164 Quemado.",
+    "timestamp": 1771428372,
+    "timestamp_local": 1771428372
+  },
+  {
+    "id": 40674,
+    "fecha": "18 de Feb del 2026 a las 10:14 AM",
+    "hora_utc": "2026-02-18 15:14",
+    "mensaje": "¿Qué es un disparo de circuito y porque ocurre?\n🔸Los disparos de circuito tienen diferentes aristas todas con distintos significados, es decir que ocurren por varias causas. Entre ellas encontramos:\n\n👉-Disparo de Circuito con Recierre: El conocido por los clientes como “quita y pon de corriente” es un tipo de protección utilizada mundialmente a partir del 80% aproximadamente de las interrupciones eléctricas son transitorias. Este fenómeno lo hace una sola vez ante un evento de red y no es dañino para para nuestros equipos electrodomésticos. \n\n👉- Disparo Automático por Frecuencia (DAF):  El disparo por DAF ocurre cuando la frecuencia llega a valores mínimos permisibles que ponen en peligro la estabilidad del mismo y como protección desconecta varios circuitos de la Capital. Los mismo restablecen a medida que se vaya recuperando la frecuencia que tiene un valor de 60hz o ciclos por segundo.\n\n👉-Disparo de Circuito por Sobrecarga: Este ocurre mayormente en los horarios pico y en verano, ya que las altas temperaturas generan elevados consumos en la población y como consecuencia de ello fallas en los circuitos.\n\n👉-Disparo de Circuito por Posible Avería: Este fenómeno ocurre cuando existe una falla en algún circuito, ya sea soterrado, aéreo o en una subestación. Estas, a pesar de que son mucho más frecuentes cuando existe algún evento climatológico, pueden ocurrir en cualquier momento del día o la noche, ya que son situaciones que no cuentan con programación.",
+    "timestamp": 1771427665,
+    "timestamp_local": 1771427665
+  },
+  {
+    "id": 40673,
+    "fecha": "18 de Feb del 2026 a las 10:13 AM",
+    "hora_utc": "2026-02-18 15:13",
+    "mensaje": "🛠️Afectados por disparo los siguientes circuitos, se estudian las causas.\n👉Municipio Remedios:\nCtos 67 y 152\n👉Municipio Encrucijada\nCto 120 Calabazar\nCtos 121 y 127 Perucho",
+    "timestamp": 1771427604,
+    "timestamp_local": 1771427604
+  },
+  {
+    "id": 40672,
+    "fecha": "18 de Feb del 2026 a las 10:10 AM",
+    "hora_utc": "2026-02-18 15:10",
+    "mensaje": "⚡Afectado por avería de manera parcial el circuito 160 de Cascajal, municipio Santo Domingo, en el ramal Cayo Bejuco, por cable primario partido.",
+    "timestamp": 1771427433,
+    "timestamp_local": 1771427433
+  },
+  {
+    "id": 40671,
+    "fecha": "18 de Feb del 2026 a las 10:08 AM",
+    "hora_utc": "2026-02-18 15:08",
+    "mensaje": "💡Restablecido el servicio eléctrico en los siguientes circuitos:\n👉Municipio Manicaragua:\nCtos 108 y 110 La Piedra\n👉Municipio Placetas:\nCtos 101 y 145 Cumbre",
+    "timestamp": 1771427307,
+    "timestamp_local": 1771427307
+  },
+  {
+    "id": 40670,
+    "fecha": "18 de Feb del 2026 a las 10:02 AM",
+    "hora_utc": "2026-02-18 15:02",
+    "mensaje": "Actualización del servicio eléctrico en la provincia🔸\n✍️Se mantienen afectados en la provincia 80 circuitos.\n✍️En el momento de hacer esta nota la provincia tiene 64 MW por déficit de capacidad de generación.\n✍️Cuenta con 63  afectaciones por averías secundarias y de servicio.",
+    "timestamp": 1771426924,
+    "timestamp_local": 1771426924
+  },
+  {
+    "id": 40669,
+    "fecha": "18 de Feb del 2026 a las 09:58 AM",
+    "hora_utc": "2026-02-18 14:58",
+    "mensaje": "💡Restablecido el servicio eléctrico en los siguientes circuitos:\n👉Municipio Remedios:\nCtos 67 y 152, 68 y 118",
+    "timestamp": 1771426703,
+    "timestamp_local": 1771426703
+  },
+  {
+    "id": 40668,
+    "fecha": "18 de Feb del 2026 a las 09:50 AM",
+    "hora_utc": "2026-02-18 14:50",
+    "mensaje": "💡Restablecido el servicio eléctrico en los siguientes circuitos:\n🔸Municipio Cifuentes:\nCtos 114 y 117\nCtos 116 y 155 Mata\nCto 186 Batey Unidad Proletaria\nCto 184 Sitio Grande",
+    "timestamp": 1771426251,
+    "timestamp_local": 1771426251
+  },
+  {
     "id": 40667,
     "fecha": "18 de Feb del 2026 a las 09:29 AM",
     "hora_utc": "2026-02-18 14:29",
@@ -86,77 +158,5 @@
     "mensaje": "Actualización del servicio eléctrico en la provincia🔸\n✍️Se mantienen afectados en la provincia 117 circuitos.\n✍️En el momento de hacer esta nota la provincia tiene 55 MW por déficit de capacidad de generación.\n✍️Cuenta con 54  afectaciones por averías secundarias y de servicio.",
     "timestamp": 1771405109,
     "timestamp_local": 1771405109
-  },
-  {
-    "id": 40655,
-    "fecha": "18 de Feb del 2026 a las 12:17 AM",
-    "hora_utc": "2026-02-18 05:17",
-    "mensaje": "🚨Usted puede mantenerse informado por nuestras redes🛜, y unirse a nuestro canal de Telegram, para usted trabajamos🛠️ , para darle una actualización  clara y precisa de cómo se está comportando el Sistema Eléctrico Nacional💡, puede llamar☎️ al 18888, donde prestamos servicio las 24 horas.",
-    "timestamp": 1771391860,
-    "timestamp_local": 1771391860
-  },
-  {
-    "id": 40654,
-    "fecha": "18 de Feb del 2026 a las 12:16 AM",
-    "hora_utc": "2026-02-18 05:16",
-    "mensaje": "💡Restablecido el servicio eléctrico en el Cto 22 (Construcción Textil)perteneciente al municipio Santa Clara.",
-    "timestamp": 1771391819,
-    "timestamp_local": 1771391819
-  },
-  {
-    "id": 40653,
-    "fecha": "18 de Feb del 2026 a las 12:01 AM",
-    "hora_utc": "2026-02-18 05:01",
-    "mensaje": "🕛Actualización del servicio eléctrico en las últimas 6 horas.\n✍️El déficit de capacidad de generación osciló entre los 132 MW y los 73 MW \n✍️En el momento de esta nota, se mantienen afectados 117 circuitos.\n✍️Cuenta con 69 afectaciones por averías secundarias y de servicio:\n🔸Cifuentes (1)\n🔸Manicaragua (4)\n🔸Placetas (5)\n🔸Remedios (12)\n🔸Sagua (9)\n🔸Santa Clara (24)\n🔸Santo Domingo (1)\n🛠️Se encuentran 3 averías en vías de solución.\n🛠️Pendientes a solucionar por el área técnica 10.\n✅La provincia no presenta averías primarias.",
-    "timestamp": 1771390863,
-    "timestamp_local": 1771390863
-  },
-  {
-    "id": 40652,
-    "fecha": "17 de Feb del 2026 a las 11:56 PM",
-    "hora_utc": "2026-02-18 04:56",
-    "mensaje": "Afectados 73 MW en la provincia, demanda máxima a apagar en estos momentos",
-    "timestamp": 1771390593,
-    "timestamp_local": 1771390593
-  },
-  {
-    "id": 40651,
-    "fecha": "17 de Feb del 2026 a las 10:35 PM",
-    "hora_utc": "2026-02-18 03:35",
-    "mensaje": "⚠️En déficit de capacidad de generación los siguientes circuitos:      \n🔹Municipio Santa Clara:\n👉Cto 16 Cubanacán \n👉Ctos 23 y 130 La Ceniza\n👉Cto 42 Manajanabo\n🔹Municipio Placetas\n👉Cto 139 Miller\n👉Cto 190 Oliver\n👉Cto 106 Falcón",
-    "timestamp": 1771385748,
-    "timestamp_local": 1771385748
-  },
-  {
-    "id": 40650,
-    "fecha": "17 de Feb del 2026 a las 10:29 PM",
-    "hora_utc": "2026-02-18 03:29",
-    "mensaje": "⚡Afectado Cto 22(Construcción Textil)perteneciente al municipio Santa Clara, para trabajar en una avería.",
-    "timestamp": 1771385357,
-    "timestamp_local": 1771385357
-  },
-  {
-    "id": 40649,
-    "fecha": "17 de Feb del 2026 a las 09:55 PM",
-    "hora_utc": "2026-02-18 02:55",
-    "mensaje": "🔸Actualización del servicio eléctrico en la provincia🔸\n✍️Se mantienen afectados en la provincia 121 circuitos.\n✍️En el momento de hacer esta nota la provincia tiene 92 MW por déficit de capacidad de generación.\n✍️Cuenta con 59  afectaciones por averías secundarias y de servicio.",
-    "timestamp": 1771383331,
-    "timestamp_local": 1771383331
-  },
-  {
-    "id": 40648,
-    "fecha": "17 de Feb del 2026 a las 09:28 PM",
-    "hora_utc": "2026-02-18 02:28",
-    "mensaje": "💡Restablecido el servicio eléctrico en el Cto 73(Camajuani)",
-    "timestamp": 1771381706,
-    "timestamp_local": 1771381706
-  },
-  {
-    "id": 40647,
-    "fecha": "17 de Feb del 2026 a las 09:00 PM",
-    "hora_utc": "2026-02-18 02:00",
-    "mensaje": "⚡Afectado  Cto 73(Camajuani), brigadas de nuestra empresa recorren la zona para poder detectar dicha avería.",
-    "timestamp": 1771380057,
-    "timestamp_local": 1771380057
   }
 ]
