@@ -1,5 +1,29 @@
 [
   {
+    "id": 18151,
+    "fecha": "18 de Feb del 2026 a las 08:43 AM",
+    "hora_utc": "2026-02-18 13:43",
+    "mensaje": "**Nota Informativa: Estado del Sistema Eléctrico Nacional (SEN) – 18 de febrero de 2026**\nEn el día de ayer se afectó el servicio por déficit de capacidad durante las 24 horas y se ha mantenido la afectación durante la madrugada de hoy. La máxima afectación por déficit de capacidad de generación en el día de ayer fue de 1793 MW a las 19:10 horas.\nLa producción de energía de los 51 nuevos parques solares fotovoltaicos fue de 3968 MWh, con 760 MW como máxima potencia entregada en el horario de la media con esta fuente de generación.\n**Estado actual del SEN**\nLa disponibilidad del SEN a las 06:00 horas es de 1280 MW, la demanda 2170 MW, con 915 MW afectados. En el horario de la media se estima una afectación de 900 MW.\n**Principales incidencias**\nAvería: Unidad 2 de la CTE Santa Cruz, Unidad 2 de la CTE Felton y Unidades 5 y 6 de la CTE Antonio Maceo.\nMantenimiento: Unidad 6 de la CTE Mariel, Unidad 5 de la CTE Nuevitas, Unidad 4 de la CTE Carlos Manuel de Céspedes en Cienfuegos.\nLimitaciones en la generación térmica: 466 MW fuera de servicio.\n**Pronóstico para el horario pico**\nPara el pico se pronostica la entrada del emplazamiento de fuel Mariel con 112 MW, la entrada de 5 motores en la Patana de Regla con 45 MW y 6 motores en el emplazamiento fuel Moa con 85 MW.\nCon este pronóstico se prevé para el pico una disponibilidad de 1437 MW con una demanda máxima de 3170 MW, para un déficit de 1733 MW, por lo que de mantenerse las condiciones previstas se pronostica una afectación de 1763 MW en este horari",
+    "timestamp": 1771422213,
+    "timestamp_local": 1771422213
+  },
+  {
+    "id": 18150,
+    "fecha": "18 de Feb del 2026 a las 08:27 AM",
+    "hora_utc": "2026-02-18 13:27",
+    "mensaje": "🟢 03:29 || En línea la Unidad 5 de la CTE Máximo Gómez.",
+    "timestamp": 1771421227,
+    "timestamp_local": 1771421227
+  },
+  {
+    "id": 18149,
+    "fecha": "18 de Feb del 2026 a las 07:34 AM",
+    "hora_utc": "2026-02-18 12:34",
+    "mensaje": ".",
+    "timestamp": 1771418063,
+    "timestamp_local": 1771418063
+  },
+  {
     "id": 18148,
     "fecha": "17 de Feb del 2026 a las 08:23 PM",
     "hora_utc": "2026-02-18 01:23",
@@ -70,21 +94,5 @@
     "mensaje": "**Nota Informativa: Estado del Sistema Eléctrico Nacional (SEN) – 15 de febrero de 2026**\nEn el día de ayer se afectó el servicio por déficit de capacidad durante las 24 horas y se ha mantenido la afectación durante la madrugada de hoy. La máxima afectación por déficit de capacidad de generación en el día de ayer fue de 1791 MW a las 19:20 horas.\nLa producción de energía de los 50 nuevos parques solares fotovoltaicos fue de 4784 MWh, con 845 MW como máxima potencia entregada en el horario de la media con esta fuente de generación.\n**Estado actual del SEN**\nLa disponibilidad del SEN a las 06:00 horas es de 1240 MW, la demanda 2035 MW, con 935 MW afectados. En el horario de la media se estima una afectación de 750 MW.\n**Principales incidencias**\nAvería: Unidad 5 de la CTE Mariel, Unidad 2 de la CTE Santa Cruz, Unidad 2 de la CTE Felton y Unidades 5 y 6 de la CTE Antonio Maceo.\nMantenimiento: Unidad 6 de la CTE Mariel, Unidad 5 de la CTE Nuevitas, Unidad 4 de la CTE Carlos Manuel de Céspedes en Cienfuegos.\nLimitaciones en la generación térmica: 423 MW fuera de servicio.\n**Pronóstico para el horario pico**\nPara el pico se pronostica la entrada de Patana de Regla con 24 MW, la entrada de 6 motores en el emplazamiento de Moa con 84 MW y la entrada de 7 motores del emplazamiento de Mariel con 105 MW\nCon este pronóstico se prevé para el pico una disponibilidad de 1457 MW con una demanda máxima de 3130 MW, para un déficit de 1673 MW, por lo que de mantenerse las condiciones previstas se pronostica una afectación de 1703 MW en este horario.",
     "timestamp": 1771167144,
     "timestamp_local": 1771167144
-  },
-  {
-    "id": 18130,
-    "fecha": "14 de Feb del 2026 a las 05:05 PM",
-    "hora_utc": "2026-02-14 22:05",
-    "mensaje": "Se afectan los siguientes circuitos por déficit:\n\nTK106 Palancón, Buena Vista\nTK15 Tunas El Pueblo\nTK2 Bonachea \nTK5 Buena Vista, Los Pinos\nTK18 Las 40, Sosa \n\nTK93 Batey Delicias\nTK48 Puerto Padre y Maniabón\n\nCircuito 33 Kv: 2020\nTK85 Leningrado \nTK108 Tasajera\nTK84 El Triángulo \nTK86 Poblado Colombia \nTK88 Dos Hermanos\nTK107 La Islita \nTK 112 Argentina Norte \nTK111 Ramírez\n\nCircuito 33 Kv: 6305\nTK41 Calixto\nTK40 Vista Alegre\nTK42 Gastón y Arroyo Muerto\nTK45 La Ceiba\nTK43 Las Parras, Omaja y Cañada Honda\nTK44 Vivienda\n\nCircuito 33 Kv: 6230\nTK59 Vedado 3\nTK67 Porcino\nTK68 Vedado 6\nTK69 Poblado de Menéndez\nTK70 Transporte\nTK99 Santa Marías\nTK98 San Manuel, La Pedrera\nTK64 Palma Picada",
-    "timestamp": 1771106702,
-    "timestamp_local": 1771106702
-  },
-  {
-    "id": 18129,
-    "fecha": "14 de Feb del 2026 a las 03:38 PM",
-    "hora_utc": "2026-02-14 20:38",
-    "mensaje": "Afectados por déficit los siguientes circuitos:\nTK4 Aeropuerto, Casa Piedra y Aurora\nTK12 Las 40 y Nuevo Sosa\nTK6 Calle Cuba y zona sur de Buena Vista",
-    "timestamp": 1771101486,
-    "timestamp_local": 1771101486
   }
 ]
