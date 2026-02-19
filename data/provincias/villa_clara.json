@@ -1,5 +1,37 @@
 [
   {
+    "id": 40726,
+    "fecha": "19 de Feb del 2026 a las 11:10 AM",
+    "hora_utc": "2026-02-19 16:10",
+    "mensaje": "Restablecido en su totalidad el servicio eléctrico en el circuito 59 (Vueltas), del municipio de Camajuaní.",
+    "timestamp": 1771517407,
+    "timestamp_local": 1771517407
+  },
+  {
+    "id": 40725,
+    "fecha": "19 de Feb del 2026 a las 11:08 AM",
+    "hora_utc": "2026-02-19 16:08",
+    "mensaje": "Con servicio la línea 6585:\nMunicipio Camajuaní:\nCtos 77 y 185 Vueltas\nCtos  72, 73, 129 y 156 (Déficit) \nCto 74 José María Pérez (Déficit",
+    "timestamp": 1771517338,
+    "timestamp_local": 1771517338
+  },
+  {
+    "id": 40724,
+    "fecha": "19 de Feb del 2026 a las 10:57 AM",
+    "hora_utc": "2026-02-19 15:57",
+    "mensaje": "🛠️ Manipulación de la línea 6585:\nAfecta los siguientes circuitos:\nMunicipio Camajuaní:\nCtos 77, 59 y 185 Vueltas\nCtos  72, 73, 129 y 156 (Déficit) \nCto 74 José María Pérez (Déficit)",
+    "timestamp": 1771516668,
+    "timestamp_local": 1771516668
+  },
+  {
+    "id": 40723,
+    "fecha": "19 de Feb del 2026 a las 10:31 AM",
+    "hora_utc": "2026-02-19 15:31",
+    "mensaje": "⚠️Afectados por déficit de generación los siguientes circuitos:\n🔹Municipio Santa Clara: \n👉Cto 167 (Virginia)\n👉Cto 170 (José Martí)\n👉Cto 171 (Los Caneyes)",
+    "timestamp": 1771515091,
+    "timestamp_local": 1771515091
+  },
+  {
     "id": 40722,
     "fecha": "19 de Feb del 2026 a las 10:04 AM",
     "hora_utc": "2026-02-19 15:04",
@@ -102,29 +134,5 @@
     "mensaje": "🕛Actualización del servicio eléctrico en las últimas 6 horas.\n\n👉El déficit de capacidad de generación osciló entre los 111 MW y los 67 MW.\n👉En el momento de esta nota, se mantienen afectados 124 circuitos.\n👉Cuenta con 75 afectaciones por averías secundarias y de servicio:\n Caibarién (1)\n Camajuaní (4)\n Cifuentes (1)\n Corralillo (2)\n Manicaragua (15)\n Placetas (6)\n Remedios (13) \n Sagua (1) \n Santa Clara (23)\n🛠️Se encuentran 1 averías en vías de solución\n🛠️Pendientes a solucionar por el área técnica 8.\n⚡Averías⚡\n👉Cto 59 Vueltas de manera parcial, ramal Taguayabón.",
     "timestamp": 1771477212,
     "timestamp_local": 1771477212
-  },
-  {
-    "id": 40706,
-    "fecha": "18 de Feb del 2026 a las 10:53 PM",
-    "hora_utc": "2026-02-19 03:53",
-    "mensaje": "Afectados 74 MW en la provincia, demanda máxima a apagar en estos momentos.",
-    "timestamp": 1771473184,
-    "timestamp_local": 1771473184
-  },
-  {
-    "id": 40705,
-    "fecha": "18 de Feb del 2026 a las 10:03 PM",
-    "hora_utc": "2026-02-19 03:03",
-    "mensaje": "🇨🇺 Actualización del Sistema Electroenergético Nacional a las 19:00 del 18 de febrero de 2026.\n\nIncidencias:\n13:54 Fuera de linea la Unidad 3 de la CTE Antonio Maceo\n14:46 Fuera de linea la Unidad 3 de la CTE Carlos M de Céspedes\n18:33 En linea la Unidad 3 de la CTE Carlos M de Céspedes.\n\n#UnidosXCuba #NotaInformativa #UniónEléctrica #SEN",
-    "timestamp": 1771470198,
-    "timestamp_local": 1771470198
-  },
-  {
-    "id": 40704,
-    "fecha": "18 de Feb del 2026 a las 10:01 PM",
-    "hora_utc": "2026-02-19 03:01",
-    "mensaje": "Actualización del servicio eléctrico en la provincia🔸\n✍️Se mantienen afectados en la provincia 124 circuitos.\n✍️En el momento de hacer esta nota la provincia tiene 83 MW por déficit de capacidad de generación.\n✍️Cuenta con 68  afectaciones por averías secundarias y de servicio.",
-    "timestamp": 1771470101,
-    "timestamp_local": 1771470101
   }
 ]

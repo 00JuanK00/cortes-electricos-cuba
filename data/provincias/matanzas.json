@@ -1,5 +1,21 @@
 [
   {
+    "id": 32721,
+    "fecha": "19 de Feb del 2026 a las 11:06 AM",
+    "hora_utc": "2026-02-19 16:06",
+    "mensaje": "⚡ Déficit de capacidad de generación en la provincia: *81 MW .*",
+    "timestamp": 1771517219,
+    "timestamp_local": 1771517219
+  },
+  {
+    "id": 32720,
+    "fecha": "19 de Feb del 2026 a las 10:35 AM",
+    "hora_utc": "2026-02-19 15:35",
+    "mensaje": "🔋🇨🇺Situación Electroenergética para hoy:\n\n🪫Máxima afectación ayer:  1853 MW a las 19:10 horas, por encima de lo planificado debido a la salida imprevista de la unidad 3 de la CTE de Cienfuegos.\n \n❌Se esperan afectaciones durante todo el horario diurno con un máximo de: 1100 MW. \n\n☀️Limitaciones térmicas: 410 MW.\n\n ⚠️Avería: Unidades 1 y 2 de la CTE de Santa Cruz, la unidad 2 de la CTE Felton y las unidades 5 y 6 de la CTE Renté. \n⚒️Mantenimiento: Unidad 6 de la CTE Mariel, la unidad 4 de la CTE Cienfuegos y la unidad 5 de la CTE Nuevitas.\n\n📈Pronóstico para el horario pico de hoy:\nSe pronostica la entrada del emplazamiento de fuel Mariel con 112 MW, la entrada de 5 motores en la Patana de Regla con 45 MW.\n    \n🌙Afectación nocturna estimada: 1943 MW MW.",
+    "timestamp": 1771515329,
+    "timestamp_local": 1771515329
+  },
+  {
     "id": 32719,
     "fecha": "19 de Feb del 2026 a las 10:15 AM",
     "hora_utc": "2026-02-19 15:15",
@@ -142,21 +158,5 @@
     "mensaje": "✅ CON SERVICIO ✅\n- Circuito 4480 que da servicio a Cítrico y Jagüey circuitos 1 y 2.\n-Circuito 4485 que da servicio a Cítrico, Jagüey.\n- Circuito MI5680que da servicio a Cítrico y Sabana Grande.\n- Circuito MI5660 que da servicio a Güira-Betancourt.\n- Circuito GI41 que da servicio a Australia.\n- Circuito GI69 que da servicio a Playa Larga.",
     "timestamp": 1771468008,
     "timestamp_local": 1771468008
-  },
-  {
-    "id": 32699,
-    "fecha": "18 de Feb del 2026 a las 09:16 PM",
-    "hora_utc": "2026-02-19 02:16",
-    "mensaje": "🚨Se le informa a la población que la provincia presenta una afectación de 126 MW por déficit en la capacidad de generación.",
-    "timestamp": 1771467398,
-    "timestamp_local": 1771467398
-  },
-  {
-    "id": 32698,
-    "fecha": "18 de Feb del 2026 a las 08:20 PM",
-    "hora_utc": "2026-02-19 01:20",
-    "mensaje": "✅ CON SERVICIO ✅\n- Circuito 4604que da servicio a Martí-Itabo-Hoyo Colorado.",
-    "timestamp": 1771464014,
-    "timestamp_local": 1771464014
   }
 ]
