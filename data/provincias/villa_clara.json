@@ -1,5 +1,29 @@
 [
   {
+    "id": 40816,
+    "fecha": "20 de Feb del 2026 a las 03:13 PM",
+    "hora_utc": "2026-02-20 20:13",
+    "mensaje": "Afectados 92 MW en la provincia, demanda máxima a apagar en estos momentos.",
+    "timestamp": 1771618411,
+    "timestamp_local": 1771618411
+  },
+  {
+    "id": 40815,
+    "fecha": "20 de Feb del 2026 a las 03:10 PM",
+    "hora_utc": "2026-02-20 20:10",
+    "mensaje": "⚠️Afectados por déficit de capacidad de generación los siguientes circuitos:\n🔹Municipio Santa Clara:\n👉Ctos 2 y 4 (Consejo- Centro)",
+    "timestamp": 1771618231,
+    "timestamp_local": 1771618231
+  },
+  {
+    "id": 40814,
+    "fecha": "20 de Feb del 2026 a las 03:05 PM",
+    "hora_utc": "2026-02-20 20:05",
+    "mensaje": "⚠️Afectados por déficit de capacidad de generación los siguientes circuitos:\n🔹Municipio Ranchuelo:\n👉Cto 92 Esperanza (Pueblo)\n👉Cto 93 Esperanza (Campo)\n👉Ctos 54, 94 y 95 Jicotea\n🔹Municipio Santa Clara\n👉Ctos 26 y 141 (Manuelita)\n👉Cto 191 (Quemado de Hilario)                                           \n🔹Municipio Santo Domingo\n👉Cto 79 (Santo Domingo)\n👉Cto 81 (26 de Julio)\n👉Cto 163 (Batey 26 de Julio\n🔹Municipio Santa Clara\n👉Cto 162 SC. Industrial\n👉Cto 132 SC. Industrial",
+    "timestamp": 1771617936,
+    "timestamp_local": 1771617936
+  },
+  {
     "id": 40813,
     "fecha": "20 de Feb del 2026 a las 02:28 PM",
     "hora_utc": "2026-02-20 19:28",
@@ -86,29 +110,5 @@
     "mensaje": "💡Con servicio la línea del 861, perteneciente al municipio Santa Clara:\n🔹Municipio Santa Clara:\n👉Cto 5 (Dobarganes)\n👉Cto 17 (Subplanta) \n👉Ctos 37 y 38 (Yabú)   \n👉Cto 9 (Moldes y Troqueles)\n👉Cto 133 (Taller Cafetera)",
     "timestamp": 1771603492,
     "timestamp_local": 1771603492
-  },
-  {
-    "id": 40795,
-    "fecha": "20 de Feb del 2026 a las 11:02 AM",
-    "hora_utc": "2026-02-20 16:02",
-    "mensaje": "Afectados 83 MW en la provincia, demanda máxima a apagar en estos momentos.",
-    "timestamp": 1771603343,
-    "timestamp_local": 1771603343
-  },
-  {
-    "id": 40794,
-    "fecha": "20 de Feb del 2026 a las 10:59 AM",
-    "hora_utc": "2026-02-20 15:59",
-    "mensaje": "⚠️Afectada por manipulación la línea del 861, perteneciente al municipio Santa Clara:\n🔹Municipio Santa Clara:\n👉Cto 5 (Dobarganes)\n👉Cto 17 (Subplanta) \n👉Ctos 37 y 38 (Yabú)   \n👉Cto 9 (Moldes y Troqueles)\n👉Cto 133 (Taller Cafetera)",
-    "timestamp": 1771603183,
-    "timestamp_local": 1771603183
-  },
-  {
-    "id": 40793,
-    "fecha": "20 de Feb del 2026 a las 10:10 AM",
-    "hora_utc": "2026-02-20 15:10",
-    "mensaje": "⚠️Afectados por déficit de capacidad de generación los siguientes circuitos:\n🔹Municipio Santa Clara: \n👉Cto 166 (Condado)\n👉Cto 168 (Condado- XX Aniversario)",
-    "timestamp": 1771600242,
-    "timestamp_local": 1771600242
   }
 ]
