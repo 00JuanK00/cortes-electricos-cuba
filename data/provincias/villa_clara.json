@@ -1,5 +1,13 @@
 [
   {
+    "id": 40852,
+    "fecha": "21 de Feb del 2026 a las 03:51 AM",
+    "hora_utc": "2026-02-21 08:51",
+    "mensaje": "➡️Ante cualquier duda con la terminología eléctrica, les volvemos explicar: \n     \n1️⃣Las averías pueden ser primarias (afecta un volumen grande de población pues son las líneas de distribución a 13.8kV y puede afectar varias manzanas, incluso repartos completos).\n\n2️⃣Secundarias (afecta a todos los clientes que se alimenten del mismo transformador, puede afectar una o varias cuadras). \n\n3️⃣De servicio (afectan 1 solo cliente o instalación generalmente producto a daños en la acometida, metro contador, etc.).",
+    "timestamp": 1771663872,
+    "timestamp_local": 1771663872
+  },
+  {
     "id": 40851,
     "fecha": "21 de Feb del 2026 a las 03:01 AM",
     "hora_utc": "2026-02-21 08:01",
@@ -142,13 +150,5 @@
     "mensaje": "⚠️Se encuentra disparado el Cto 167 (Virginia), perteneciente al municipio Santa Clara.",
     "timestamp": 1771637134,
     "timestamp_local": 1771637134
-  },
-  {
-    "id": 40832,
-    "fecha": "20 de Feb del 2026 a las 08:14 PM",
-    "hora_utc": "2026-02-21 01:14",
-    "mensaje": "⚡En avería la línea del 1780, afectando los siguientes circuitos:\n🔹Municipio Santa Clara: \n👉Ctos 23 y 130 La Ceniza\n👉Cto 42 Manajanabo\n🔹Municipio Placetas\n👉Cto 139 Miller\n👉Cto 190 Oliver\n👉Cto 106 Falcón",
-    "timestamp": 1771636469,
-    "timestamp_local": 1771636469
   }
 ]
