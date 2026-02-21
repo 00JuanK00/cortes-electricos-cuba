@@ -1,5 +1,29 @@
 [
   {
+    "id": 40830,
+    "fecha": "20 de Feb del 2026 a las 07:59 PM",
+    "hora_utc": "2026-02-21 00:59",
+    "mensaje": "⚠️Se encuentra afectado por emergencia el Cto 30 **(SC. Industrial**) por incendio, perteneciente al municipio Santa Clara.",
+    "timestamp": 1771635549,
+    "timestamp_local": 1771635549
+  },
+  {
+    "id": 40829,
+    "fecha": "20 de Feb del 2026 a las 07:28 PM",
+    "hora_utc": "2026-02-21 00:28",
+    "mensaje": "⚠️Afectados por déficit de capacidad de generación los siguientes circuitos:\n🔹Municipio Encrucijada:\n👉Cto 122 Encrucijada  \n👉Cto 123 Vizcaya \n👉Cto 142 Comunidad La Sierra \n👉Cto 126 Batey Emilio Córdova\n👉Cto 125 Cavarrocas\n👉Cto 124 El Santo\n🔹Municipio Camajuaní:                                                              \n👉Cto 78 Jutiero",
+    "timestamp": 1771633729,
+    "timestamp_local": 1771633729
+  },
+  {
+    "id": 40828,
+    "fecha": "20 de Feb del 2026 a las 07:01 PM",
+    "hora_utc": "2026-02-21 00:01",
+    "mensaje": "Afectados 117 MW en la provincia, demanda máxima a apagar en estos momentos.",
+    "timestamp": 1771632103,
+    "timestamp_local": 1771632103
+  },
+  {
     "id": 40827,
     "fecha": "20 de Feb del 2026 a las 06:28 PM",
     "hora_utc": "2026-02-20 23:28",
@@ -134,29 +158,5 @@
     "mensaje": "⚠️Se encuentran disparada la siguiente línea:\nLínea 861\n🔹Municipio Santa Clara:\n👉Cto 5 (Dobarganes)\n👉Cto 17 (Subplanta) \n👉Ctos 37 y 38 (Yabú)   \n👉Cto 9 (Moldes y Troqueles)\n👉Cto 133 (Taller Cafetera)",
     "timestamp": 1771614566,
     "timestamp_local": 1771614566
-  },
-  {
-    "id": 40810,
-    "fecha": "20 de Feb del 2026 a las 02:01 PM",
-    "hora_utc": "2026-02-20 19:01",
-    "mensaje": "Actualización del servicio eléctrico en la provincia🔸\n✍️Se mantienen afectados en la provincia 123 circuitos.\n✍️En el momento de hacer esta nota la provincia tiene 87 MW por déficit de capacidad de generación.\n✍️Cuenta con 60 afectaciones por averías secundarias y de servicio.",
-    "timestamp": 1771614061,
-    "timestamp_local": 1771614061
-  },
-  {
-    "id": 40809,
-    "fecha": "20 de Feb del 2026 a las 01:57 PM",
-    "hora_utc": "2026-02-20 18:57",
-    "mensaje": "⚠️Afectados por déficit de capacidad de generación los siguientes circuitos:\n🔹Municipio Santa Clara:\n👉Cto 146 (Elevado Aeropuerto)\n👉Cto 7 (Universidad) \n👉Cto 131 (Las Antillas)\n👉Cto 25 (Los Güiros)\n👉Cto 24 (Planta Asfalto)\n👉Cto 35 (Biotecnología)",
-    "timestamp": 1771613867,
-    "timestamp_local": 1771613867
-  },
-  {
-    "id": 40808,
-    "fecha": "20 de Feb del 2026 a las 01:00 PM",
-    "hora_utc": "2026-02-20 18:00",
-    "mensaje": "Afectados 90 MW en la provincia, demanda máxima a apagar en estos momentos.",
-    "timestamp": 1771610446,
-    "timestamp_local": 1771610446
   }
 ]
