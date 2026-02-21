@@ -1,5 +1,37 @@
 [
   {
+    "id": 36156,
+    "fecha": "21 de Feb del 2026 a las 03:44 PM",
+    "hora_utc": "2026-02-21 20:44",
+    "mensaje": "👉 Restablecidos los circuitos que estaban afectados por el DAF.",
+    "timestamp": 1771706652,
+    "timestamp_local": 1771706652
+  },
+  {
+    "id": 36155,
+    "fecha": "21 de Feb del 2026 a las 03:11 PM",
+    "hora_utc": "2026-02-21 20:11",
+    "mensaje": "‼️ Información ‼️   \n👉En estos momentos subimos a 70 MW en la provincia afectados por déficit de generación. Con este déficit no podemos cumplir con una programación estable, por lo que los circuitos se afectarán o se restablecerán en dependencia del déficit que haya en cada momento de la jornada.",
+    "timestamp": 1771704690,
+    "timestamp_local": 1771704690
+  },
+  {
+    "id": 36154,
+    "fecha": "21 de Feb del 2026 a las 03:10 PM",
+    "hora_utc": "2026-02-21 20:10",
+    "mensaje": "❌Un Disparo Automático por Frecuencia (DAF) es una protección que posee el sistema eléctrico para cuando la frecuencia llega a valores mínimos permisibles que ponen en peligro la estabilidad de todo el sistema en su conjunto y provoca una desconexión automática de algunos circuitos hasta que esta vuelva a recuperar su valor nominal a 60 Hz o ciclos por segundo. Esto ocurre al salir de forma imprevista o repentina una planta generadora con una potencia determinada y el sistema en su conjunto necesita liberar esa carga hasta tanto se puedan recuperar la potencia de generación perdida anteriormente o dar las afectaciones al servicio por déficit de generación.",
+    "timestamp": 1771704609,
+    "timestamp_local": 1771704609
+  },
+  {
+    "id": 36153,
+    "fecha": "21 de Feb del 2026 a las 03:09 PM",
+    "hora_utc": "2026-02-21 20:09",
+    "mensaje": "🚨DAF (Disparo automático por frecuencia)🚨\n\n\n📍Se encuentran afectados por el DAF los circuitos: \n\n👉Nereida, Peonía, Politécnico de informática.",
+    "timestamp": 1771704597,
+    "timestamp_local": 1771704597
+  },
+  {
     "id": 36152,
     "fecha": "21 de Feb del 2026 a las 02:58 PM",
     "hora_utc": "2026-02-21 19:58",
@@ -94,29 +126,5 @@
     "mensaje": "‼️Déficit de Generación ‼️   \n👉 Bajamos a 72 MW en la provincia afectados por déficit de generación.\n\n⏰ Reiteramos que los circuitos se afectarán o se restablecerán en dependencia del déficit en cada momento de la jornada, que es muy variable.",
     "timestamp": 1771644383,
     "timestamp_local": 1771644383
-  },
-  {
-    "id": 36136,
-    "fecha": "20 de Feb del 2026 a las 09:06 PM",
-    "hora_utc": "2026-02-21 02:06",
-    "mensaje": "‼️Déficit de Generación ‼️   \n👉 Bajamos a 85 MW en la provincia afectados por déficit de generación.\n\n⏰ Reiteramos que los circuitos se afectarán o se restablecerán en dependencia del déficit en cada momento de la jornada, que es muy variable.",
-    "timestamp": 1771639588,
-    "timestamp_local": 1771639588
-  },
-  {
-    "id": 36135,
-    "fecha": "20 de Feb del 2026 a las 07:50 PM",
-    "hora_utc": "2026-02-21 00:50",
-    "mensaje": "🇨🇺 Actualización del Sistema Electroenergético Nacional a las 19:00 del 20 de febrero de 2026.\n\nIncidencias:  \n09:59 Fuera de linea la unidad 1 de la CTE Ernesto Guevara\n14:17 Fuera de linea la unidad 3 de la CTE Antonio Maceo\n15:21 En linea la unidad 1 de la CTE Ernesto Guevara\n\n#UnidosXCuba #NotaInformativa #UniónEléctrica #SEN",
-    "timestamp": 1771635054,
-    "timestamp_local": 1771635054
-  },
-  {
-    "id": 36133,
-    "fecha": "20 de Feb del 2026 a las 07:32 PM",
-    "hora_utc": "2026-02-21 00:32",
-    "mensaje": "‼️ Déficit de Generación ‼️   \n👉 Subimos a 101 MW en la provincia por déficit de generación.\n\n ⏰ Reiteramos que los circuitos se afectarán o se restablecerán en dependencia del déficit solicitado en cada momento de la jornada que es muy variable.",
-    "timestamp": 1771633973,
-    "timestamp_local": 1771633973
   }
 ]
