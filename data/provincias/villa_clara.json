@@ -1,5 +1,37 @@
 [
   {
+    "id": 40862,
+    "fecha": "21 de Feb del 2026 a las 09:00 AM",
+    "hora_utc": "2026-02-21 14:00",
+    "mensaje": "💡Con servicio los siguientes circuitos:\n🔹Municipio Placetas:\n👉Ctos 101 y 145 Cumbre",
+    "timestamp": 1771682435,
+    "timestamp_local": 1771682435
+  },
+  {
+    "id": 40861,
+    "fecha": "21 de Feb del 2026 a las 08:59 AM",
+    "hora_utc": "2026-02-21 13:59",
+    "mensaje": "⚠️Afectados por déficit de capacidad de generación los siguientes circuitos:\n🔹Municipio Santa Clara: \n👉Cto 167 (Virginia)\n👉Cto 170 (José Martí)\n👉Cto 171 (Los Caneyes)\n👉Cto 169 (Condado)",
+    "timestamp": 1771682343,
+    "timestamp_local": 1771682343
+  },
+  {
+    "id": 40860,
+    "fecha": "21 de Feb del 2026 a las 08:47 AM",
+    "hora_utc": "2026-02-21 13:47",
+    "mensaje": "💡Con servicio Cto 166(Condado) perteneciente al Municipio Santa Clara",
+    "timestamp": 1771681642,
+    "timestamp_local": 1771681642
+  },
+  {
+    "id": 40859,
+    "fecha": "21 de Feb del 2026 a las 08:46 AM",
+    "hora_utc": "2026-02-21 13:46",
+    "mensaje": "💡Con servicio los siguientes circuitos:\n🔹Municipio Encrucijada:\n👉Cto 122 Encrucijada  \n👉Cto 123 Vizcaya \n👉Cto 142 Comunidad La Sierra \n👉Cto 126 Batey Emilio Córdova\n👉Cto 125 Cavarrocas\n👉Cto 124 El Santo\n🔹Municipio Camajuaní:                                                              \n👉Cto 78 Jutiero\n👉Cto 75 La Quinta\n👉Cto 157 Luis Arcos Bergnes\n👉Ctos 76 y 90 Vega Alta\n🔹Municipio Placetas:\n👉Cto 192 Benito Juárez\n👉Cto 102 Peroti",
+    "timestamp": 1771681580,
+    "timestamp_local": 1771681580
+  },
+  {
     "id": 40858,
     "fecha": "21 de Feb del 2026 a las 08:17 AM",
     "hora_utc": "2026-02-21 13:17",
@@ -126,37 +158,5 @@
     "mensaje": "🕛Actualización del servicio eléctrico en las últimas 6 horas.\n👉El déficit de capacidad de generación osciló entre los 117 MW y los 61 MW.\n👉En el momento de esta nota, se mantienen afectados 123 circuitos.\n👉Cuenta con 60 afectaciones por averías secundarias y de servicio:\n🔸Manicaragua (11)\n🔸Placetas (2)\n🔸Ranchuelo (2)\n🔸Remedios (7)\n🔸Sagua (1)\n🔸Santa Clara (35)\n🔸Santo Domingo (2)\n🛠️Pendientes a solucionar por el área técnica 11.\n⚡En avería el Cto 190 (Oliver) de manera parcial, perteneciente al municipio de Placetas, se estudian las causas.",
     "timestamp": 1771650512,
     "timestamp_local": 1771650512
-  },
-  {
-    "id": 40842,
-    "fecha": "20 de Feb del 2026 a las 11:03 PM",
-    "hora_utc": "2026-02-21 04:03",
-    "mensaje": "Afectados 64 MW en la provincia, demanda máxima a apagar en estos momentos.",
-    "timestamp": 1771646596,
-    "timestamp_local": 1771646596
-  },
-  {
-    "id": 40841,
-    "fecha": "20 de Feb del 2026 a las 10:06 PM",
-    "hora_utc": "2026-02-21 03:06",
-    "mensaje": "⚠️Afectados por déficit de capacidad de generación los siguientes circuitos:\n🔹Municipio Santa Clara:\n👉Cto 5 (Dobarganes)\n👉Cto 17 (Subplanta) \n👉Ctos 37 y 38 (Yabú)   \n👉Cto 9 (Moldes y Troqueles\n👉Cto 133 (Taller Cafetera)\n👉Cto 13 Zona Industrial",
-    "timestamp": 1771643185,
-    "timestamp_local": 1771643185
-  },
-  {
-    "id": 40840,
-    "fecha": "20 de Feb del 2026 a las 10:01 PM",
-    "hora_utc": "2026-02-21 03:01",
-    "mensaje": "Actualización del servicio eléctrico en la provincia🔸\n✍️Se mantienen afectados en la provincia 123 circuitos.\n✍️En el momento de hacer esta nota la provincia tiene 73 MW por déficit de capacidad de generación.\n✍️Cuenta con 71 afectaciones por averías secundarias y de servicio.",
-    "timestamp": 1771642881,
-    "timestamp_local": 1771642881
-  },
-  {
-    "id": 40839,
-    "fecha": "20 de Feb del 2026 a las 09:41 PM",
-    "hora_utc": "2026-02-21 02:41",
-    "mensaje": "⚠️ En la mañana de hoy 11:27 ocurrió un accidente por contacto eléctrico en la Subestación Habana 220 kV, resultando damnificado un trabajador de la brigada. El accidente provocó una avería en varias subestaciones \nEl trabajador ha sido identificado como Joaquín Vázquez Vázquez, un electricista de 54 años con una amplia trayectoria de 25 años en el sector. Según han confirmado fuentes hospitalarias, Vázquez se encuentra consciente e ingresado con quemaduras, aunque por el momento se desconoce el pronóstico de las mismas.",
-    "timestamp": 1771641712,
-    "timestamp_local": 1771641712
   }
 ]
