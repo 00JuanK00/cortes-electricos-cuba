@@ -1,9 +1,25 @@
 [
   {
+    "id": 40919,
+    "fecha": "21 de Feb del 2026 a las 06:34 PM",
+    "hora_utc": "2026-02-21 23:34",
+    "mensaje": "Afectados 126 MW en la provincia, demanda máxima a apagar en estos momentos.",
+    "timestamp": 1771716883,
+    "timestamp_local": 1771716883
+  },
+  {
+    "id": 40918,
+    "fecha": "21 de Feb del 2026 a las 06:23 PM",
+    "hora_utc": "2026-02-21 23:23",
+    "mensaje": "⚠️Afectados por déficit de capacidad de generación los siguientes circuitos:\n🔹Municipio Placetas \n👉Ctos 100 y 151 Placetas\n👉Cto 104 Hermanos Amejeiras\n👉Cto 103 Batey Carbó Servía",
+    "timestamp": 1771716225,
+    "timestamp_local": 1771716225
+  },
+  {
     "id": 40917,
     "fecha": "21 de Feb del 2026 a las 06:10 PM",
     "hora_utc": "2026-02-21 23:10",
-    "mensaje": "🕕Actualización del servicio eléctrico en las últimas 6 horas.\n✍️El déficit de capacidad de generación osciló entre los 63 MW y los 116 MW.\n✍️En el momento de esta nota, se mantienen afectados 121 circuitos.\n✍️Cuenta con 122 afectaciones por averías secundarias y de servicio:\n🔸Caibarien (5)\n🔸Camajuani (5)\n🔸Cifuentes (2)\n🔸Encrucijada (1)\n🔸Manicaragua (16)\n🔸Placetas (10)\n🔸Ranchuelo (7)\n🔸Remedios (16)\n🔸Sagua (5)\n🔸Santa Clara (35)\n🔸Santo Domingo (2)\n🛠️Se encuentran 7 averías en vías de solución.\n🛠️Pendientes a solucionar por el área técnica 12.\n⚡Averías.⚡\n⚠️Afectado Cto 37(Yabu) ,perteneciente al Municipio Santa Clara, se estudian las causas..",
+    "mensaje": "🕕Actualización del servicio eléctrico en las últimas 6 horas.\n✍️  El déficit de capacidad de generación osciló entre los 63 MW y los 122 MW.\n✍️  En el momento de esta nota, se mantienen afectados 121 circuitos.\n✍️  Cuenta con 122 afectaciones por averías secundarias y de servicio:\n🔸Caibarien (5)\n🔸Camajuani (5)\n🔸Cifuentes (2)\n🔸Encrucijada (1)\n🔸Manicaragua (16)\n🔸Placetas (10)\n🔸Ranchuelo (7)\n🔸Remedios (16)\n🔸Sagua (5)\n🔸Santa Clara (35)\n🔸Santo Domingo (2)\n🛠️Se encuentran 7 averías en vías de solución.\n🛠️Pendientes a solucionar por el área técnica 12.\n⚡Averías.⚡\n⚠️Afectado Cto 37(Yabu) ,perteneciente al Municipio Santa Clara, se estudian las causas..",
     "timestamp": 1771715447,
     "timestamp_local": 1771715447
   },
@@ -142,21 +158,5 @@
     "mensaje": "⚠️Afectado por déficit de capacidad de generación el siguiente circuito:\n🔹Municipio Santa Clara\n👉Cto 2 (Consejo Centro)",
     "timestamp": 1771703209,
     "timestamp_local": 1771703209
-  },
-  {
-    "id": 40899,
-    "fecha": "21 de Feb del 2026 a las 02:43 PM",
-    "hora_utc": "2026-02-21 19:43",
-    "mensaje": "⚠️Afectados por déficit de capacidad de generación los siguientes circuitos:\n🔹Municipio Manicaragua:\n👉Ctos 109 y 150\n👉Ctos 108 y 110 La Piedra\n👉Cto 111 Mataguá",
-    "timestamp": 1771702982,
-    "timestamp_local": 1771702982
-  },
-  {
-    "id": 40898,
-    "fecha": "21 de Feb del 2026 a las 02:41 PM",
-    "hora_utc": "2026-02-21 19:41",
-    "mensaje": "⚠️Afectados por déficit de capacidad de generación los siguientes circuitos:\n🔹Municipio Caibarién:\n👉Ctos 61, 62",
-    "timestamp": 1771702904,
-    "timestamp_local": 1771702904
   }
 ]
