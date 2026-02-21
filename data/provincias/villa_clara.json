@@ -1,5 +1,29 @@
 [
   {
+    "id": 40848,
+    "fecha": "21 de Feb del 2026 a las 02:14 AM",
+    "hora_utc": "2026-02-21 07:14",
+    "mensaje": "Actualización del servicio eléctrico en la provincia🔸\n✍️Se mantienen afectados en la provincia 123 circuitos.\n✍️En el momento de hacer esta nota la provincia tiene 51 MW por déficit de capacidad de generación.\n✍️Cuenta con 60 afectaciones por averías secundarias y de servicio.",
+    "timestamp": 1771658056,
+    "timestamp_local": 1771658056
+  },
+  {
+    "id": 40847,
+    "fecha": "21 de Feb del 2026 a las 01:36 AM",
+    "hora_utc": "2026-02-21 06:36",
+    "mensaje": "⚠️Afectados por déficit de capacidad de generación los siguientes circuitos:\n🔹Municipio Placetas \n👉Ctos 100 y 151 Placetas\n👉Cto 104 Hermanos Amejeiras\n👉Cto 103 Batey Carbó Servía",
+    "timestamp": 1771655790,
+    "timestamp_local": 1771655790
+  },
+  {
+    "id": 40846,
+    "fecha": "21 de Feb del 2026 a las 01:20 AM",
+    "hora_utc": "2026-02-21 06:20",
+    "mensaje": "⚠️Afectado por déficit de capacidad de generación el siguiente circuito:\n🔹Municipio Quemado:\n👉Cto 53 Quemado.",
+    "timestamp": 1771654843,
+    "timestamp_local": 1771654843
+  },
+  {
     "id": 40845,
     "fecha": "21 de Feb del 2026 a las 01:02 AM",
     "hora_utc": "2026-02-21 06:02",
@@ -126,29 +150,5 @@
     "mensaje": "⚠️Afectados por déficit de capacidad de generación los siguientes circuitos:\n🔹Municipio Encrucijada:\n👉Cto 122 Encrucijada  \n👉Cto 123 Vizcaya \n👉Cto 142 Comunidad La Sierra \n👉Cto 126 Batey Emilio Córdova\n👉Cto 125 Cavarrocas\n👉Cto 124 El Santo\n🔹Municipio Camajuaní:                                                              \n👉Cto 78 Jutiero",
     "timestamp": 1771633729,
     "timestamp_local": 1771633729
-  },
-  {
-    "id": 40828,
-    "fecha": "20 de Feb del 2026 a las 07:01 PM",
-    "hora_utc": "2026-02-21 00:01",
-    "mensaje": "Afectados 117 MW en la provincia, demanda máxima a apagar en estos momentos.",
-    "timestamp": 1771632103,
-    "timestamp_local": 1771632103
-  },
-  {
-    "id": 40827,
-    "fecha": "20 de Feb del 2026 a las 06:28 PM",
-    "hora_utc": "2026-02-20 23:28",
-    "mensaje": "⚠️Se encuentra disparada la línea del 1780:\n🔹Municipio Santa Clara:\n👉Cto 16 Cubanacán \n👉Ctos 23 y 130 La Ceniza\n👉Cto 42 Manajanabo\n🔹Municipio Placetas\n👉Cto 139 Miller\n👉Cto 190 Oliver\n👉Cto 106 Falcón\n👉Ctos 98 y 99 Placetas",
-    "timestamp": 1771630081,
-    "timestamp_local": 1771630081
-  },
-  {
-    "id": 40826,
-    "fecha": "20 de Feb del 2026 a las 06:22 PM",
-    "hora_utc": "2026-02-20 23:22",
-    "mensaje": "Afectados 117 MW en la provincia, demanda máxima a apagar en estos momentos.",
-    "timestamp": 1771629772,
-    "timestamp_local": 1771629772
   }
 ]
