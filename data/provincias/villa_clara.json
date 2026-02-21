@@ -1,5 +1,45 @@
 [
   {
+    "id": 40886,
+    "fecha": "21 de Feb del 2026 a las 12:46 PM",
+    "hora_utc": "2026-02-21 17:46",
+    "mensaje": "⚠️Afectados por déficit de capacidad de generación los siguientes circuitos:\n🔹Municipio Placetas:\n👉Cto 192 Benito Juárez\n👉Cto 102 Peroti",
+    "timestamp": 1771696015,
+    "timestamp_local": 1771696015
+  },
+  {
+    "id": 40885,
+    "fecha": "21 de Feb del 2026 a las 12:40 PM",
+    "hora_utc": "2026-02-21 17:40",
+    "mensaje": "⚠️Afectados por déficit de capacidad de generación el siguiente circuito:\n🔹Municipio Ranchuelo: \n👉Ctos 89, 97, 188 y 189\n🔹Municipio Santa Clara\n👉Ctos 26 y 141 (Manuelita)",
+    "timestamp": 1771695658,
+    "timestamp_local": 1771695658
+  },
+  {
+    "id": 40884,
+    "fecha": "21 de Feb del 2026 a las 12:37 PM",
+    "hora_utc": "2026-02-21 17:37",
+    "mensaje": "⚠️Afectados por déficit de capacidad de generación los siguientes circuitos:\n🔹Municipio Placetas:\n👉Ctos 101 y 145 Cumbre\n🔹Municipio Santa Clara: \n👉Cto 166 (Condado)",
+    "timestamp": 1771695474,
+    "timestamp_local": 1771695474
+  },
+  {
+    "id": 40883,
+    "fecha": "21 de Feb del 2026 a las 12:32 PM",
+    "hora_utc": "2026-02-21 17:32",
+    "mensaje": "Afectados 66 MW en la provincia, demanda máxima a apagar en estos momentos.",
+    "timestamp": 1771695147,
+    "timestamp_local": 1771695147
+  },
+  {
+    "id": 40882,
+    "fecha": "21 de Feb del 2026 a las 12:29 PM",
+    "hora_utc": "2026-02-21 17:29",
+    "mensaje": "🕛Actualización del servicio eléctrico en las últimas 6 horas.\n✍️El déficit de capacidad de generación osciló entre los 46 MW y los 67 MW.\n✍️En el momento de esta nota, se mantienen afectados 74 circuitos.\n✍️Cuenta con 105 afectaciones por averías secundarias y de servicio:\n🔸Caibarien (3)\n🔸Camajuani (3)\n🔸Corralillo (3)\n🔸Manicaragua (11)\n🔸Placetas (7)\n🔸Ranchuelo (4)\n🔸Remedios (15)\n🔸Sagua (3)\n🔸Santa Clara (39)\n🔸Santo Domingo (1)\n🛠️Se encuentran 5 averías en vías de solución.\n🛠️Pendientes a solucionar por el área técnica 10.\n✅ La provincia no presenta averías primarias en estos momentos.",
+    "timestamp": 1771694945,
+    "timestamp_local": 1771694945
+  },
+  {
     "id": 40881,
     "fecha": "21 de Feb del 2026 a las 11:56 AM",
     "hora_utc": "2026-02-21 16:56",
@@ -19,7 +59,7 @@
     "id": 40879,
     "fecha": "21 de Feb del 2026 a las 11:32 AM",
     "hora_utc": "2026-02-21 16:32",
-    "mensaje": "⚠️Afectados por déficit de capacidad de generación el siguiente circuito:\n🔹Municipio Sagua\n👉Ctos 43, 51 Sagua\n👉Cto 44 Isabela",
+    "mensaje": "⚠️Afectados por déficit de capacidad de generación los siguientes circuitos:\n🔹Municipio Sagua\n👉Ctos 43, 51 Sagua\n👉Cto 44 Isabela",
     "timestamp": 1771691548,
     "timestamp_local": 1771691548
   },
@@ -110,45 +150,5 @@
     "mensaje": "💡Con servicio los siguientes circuitos:\n🔹Municipio Quemado:\n👉Ctos 164, 52 y 53 Quemado.\n🔹Municipio Remedios:\n👉Ctos 69 y 70 Zuluetas\n👉Cto 143 Batey Heriberto Duquezne \n👉Cto 71 Buena Vista\n🔹Municipio Camajuaní:\n👉Ctos  72, 73, y 156",
     "timestamp": 1771685923,
     "timestamp_local": 1771685923
-  },
-  {
-    "id": 40865,
-    "fecha": "21 de Feb del 2026 a las 09:54 AM",
-    "hora_utc": "2026-02-21 14:54",
-    "mensaje": "⚠️Afectados por déficit de capacidad de generación el siguiente circuito:\n🔹Municipio Santa Clara\n👉Cto 153 (EIDE)",
-    "timestamp": 1771685667,
-    "timestamp_local": 1771685667
-  },
-  {
-    "id": 40864,
-    "fecha": "21 de Feb del 2026 a las 09:30 AM",
-    "hora_utc": "2026-02-21 14:30",
-    "mensaje": "💡Con servicio los siguientes circuitos:\n🔹Municipio Quemado:\n👉Cto 196 Batey Panchito Gómez Toro.",
-    "timestamp": 1771684246,
-    "timestamp_local": 1771684246
-  },
-  {
-    "id": 40863,
-    "fecha": "21 de Feb del 2026 a las 09:27 AM",
-    "hora_utc": "2026-02-21 14:27",
-    "mensaje": "‼️¿Qué es un disparo de circuito y porque ocurre.❓\n✍️Los disparos de circuito tienen diferentes aristas todas con distintos significados, es decir que ocurren por varias causas. Entre ellas encontramos:\n\n✍️-Disparo de Circuito con Recierre: El conocido por los clientes como “quita y pon de corriente” es un tipo de protección utilizada mundialmente a partir del 80% aproximadamente de las interrupciones eléctricas son transitorias. Este fenómeno lo hace una sola vez ante un evento de red y no es dañino para para nuestros equipos electrodomésticos. \n\n✍️- Disparo Automático por Frecuencia (DAF):  El disparo por DAF ocurre cuando la frecuencia llega a valores mínimos permisibles que ponen en peligro la estabilidad del mismo y como protección desconecta varios circuitos de la Capital. Los mismo restablecen a medida que se vaya recuperando la frecuencia que tiene un valor de 60hz o ciclos por segundo.\n\n✍️-Disparo de Circuito por Sobrecarga: Este ocurre mayormente en los horarios pico y en verano, ya que las altas temperaturas generan elevados consumos en la población y como consecuencia de ello fallas en los circuitos.\n\n✍️-Disparo de Circuito por Posible Avería: Este fenómeno ocurre cuando existe una falla en algún circuito, ya sea soterrado, aéreo o en una subestación. Estas, a pesar de que son mucho más frecuentes cuando existe algún evento climatológico, pueden ocurrir en cualquier momento del día o la noche, ya que son situaciones que no cuentan con programación.",
-    "timestamp": 1771684058,
-    "timestamp_local": 1771684058
-  },
-  {
-    "id": 40862,
-    "fecha": "21 de Feb del 2026 a las 09:00 AM",
-    "hora_utc": "2026-02-21 14:00",
-    "mensaje": "💡Con servicio los siguientes circuitos:\n🔹Municipio Placetas:\n👉Ctos 101 y 145 Cumbre",
-    "timestamp": 1771682435,
-    "timestamp_local": 1771682435
-  },
-  {
-    "id": 40861,
-    "fecha": "21 de Feb del 2026 a las 08:59 AM",
-    "hora_utc": "2026-02-21 13:59",
-    "mensaje": "⚠️Afectados por déficit de capacidad de generación los siguientes circuitos:\n🔹Municipio Santa Clara: \n👉Cto 167 (Virginia)\n👉Cto 170 (José Martí)\n👉Cto 171 (Los Caneyes)\n👉Cto 169 (Condado)",
-    "timestamp": 1771682343,
-    "timestamp_local": 1771682343
   }
 ]
