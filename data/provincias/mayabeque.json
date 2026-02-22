@@ -1,5 +1,21 @@
 [
   {
+    "id": 107555,
+    "fecha": "22 de Feb del 2026 a las 12:15 PM",
+    "hora_utc": "2026-02-22 17:15",
+    "mensaje": "♦️Afectado el servicio en los siguientes circuitos por disparo por DAF:\n*3140\n*3590♦️",
+    "timestamp": 1771780555,
+    "timestamp_local": 1771780555
+  },
+  {
+    "id": 107554,
+    "fecha": "22 de Feb del 2026 a las 12:09 PM",
+    "hora_utc": "2026-02-22 17:09",
+    "mensaje": "🔷Restablecido el servicio en los siguientes circuitos que se encontraban afectados por disparo por DAF:\n*3590\n*3140🔷",
+    "timestamp": 1771780142,
+    "timestamp_local": 1771780142
+  },
+  {
     "id": 107553,
     "fecha": "22 de Feb del 2026 a las 11:41 AM",
     "hora_utc": "2026-02-22 16:41",
@@ -118,13 +134,5 @@
     "mensaje": "🔷♦️Se restablece el servicio en el circuito que se encontraba afectado  por déficit de capacidad de generación:\n*3665♦️🔷",
     "timestamp": 1771769183,
     "timestamp_local": 1771769183
-  },
-  {
-    "id": 107535,
-    "fecha": "22 de Feb del 2026 a las 09:05 AM",
-    "hora_utc": "2026-02-22 14:05",
-    "mensaje": "🚨Por déficit de capacidad de generación se afecta el servicio en los siguientes circuitos:\n*3660\n*3655🚨",
-    "timestamp": 1771769137,
-    "timestamp_local": 1771769137
   }
 ]

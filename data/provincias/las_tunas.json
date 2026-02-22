@@ -1,5 +1,21 @@
 [
   {
+    "id": 18196,
+    "fecha": "22 de Feb del 2026 a las 12:11 PM",
+    "hora_utc": "2026-02-22 17:11",
+    "mensaje": "Se restablecen los circuitos:\nCircuito 33 Kv: 6810\nTK82 Tana\nTK83 Las Maboas\nTK113 La Aurora\nTK74 La Lomita\nTK110 El Batey\n6810 Poblado Amancio\nCircuito 33 Kv: 6820 Poblado Amancio\nTK75 Vicente Pérez \nTK77 San Alberto\nTK78 Ana Luisa\nTK76 El Paraíso\nCircuito de 33 Kv 6840 Los Kilómetros",
+    "timestamp": 1771780288,
+    "timestamp_local": 1771780288
+  },
+  {
+    "id": 18195,
+    "fecha": "22 de Feb del 2026 a las 12:08 PM",
+    "hora_utc": "2026-02-22 17:08",
+    "mensaje": "Restablecida la avería del circuito: TK40 Vista Alegre.",
+    "timestamp": 1771780087,
+    "timestamp_local": 1771780087
+  },
+  {
     "id": 18194,
     "fecha": "22 de Feb del 2026 a las 10:29 AM",
     "hora_utc": "2026-02-22 15:29",
@@ -102,21 +118,5 @@
     "mensaje": "Se afecta el servicio eléctrico a los siguientes circuitos por déficit:                                                                                                                               TK6 Calle Cuba y zona sur de Buena Vista                                                                                                    Circuito 33 Kv: 4220\nTK28 La Guinea\nTK52 Covarrubias\nTK31 Pueblo Manatí\nTK33 Pueblo Manatí\nTK34 Pueblo Manatí",
     "timestamp": 1771652185,
     "timestamp_local": 1771652185
-  },
-  {
-    "id": 18176,
-    "fecha": "20 de Feb del 2026 a las 03:10 PM",
-    "hora_utc": "2026-02-20 20:10",
-    "mensaje": "Restablecida la avería del circuito 33Kv 6470-6300",
-    "timestamp": 1771618249,
-    "timestamp_local": 1771618249
-  },
-  {
-    "id": 18175,
-    "fecha": "20 de Feb del 2026 a las 02:12 PM",
-    "hora_utc": "2026-02-20 19:12",
-    "mensaje": "Se encuentran afectados actualmente por una avería los siguientes Circuitos   \n\nCircuito 33 Kv: 6470-6300\nTK13 Yariguá \nTJ11 Bartle \nTK91 Macagua \nTK87 Pueblo Jobabo\nTK90 Escuela Especial Jobabo\n6470 Mina de Oro, Las Margaritas",
-    "timestamp": 1771614751,
-    "timestamp_local": 1771614751
   }
 ]
