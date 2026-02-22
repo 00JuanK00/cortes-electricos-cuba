@@ -1,5 +1,21 @@
 [
   {
+    "id": 18198,
+    "fecha": "22 de Feb del 2026 a las 01:34 PM",
+    "hora_utc": "2026-02-22 18:34",
+    "mensaje": "¿Qué es un disparo por DAF?\nEl Disparo por Frecuencia (DAF) es un mecanismo de protección del sistema eléctrico. Se activa automáticamente cuando la frecuencia desciende por debajo de los valores mínimos seguros (menores de 60 Hz), lo que pone en riesgo la estabilidad del sistema.\nEn ese momento, algunos circuitos se desconectan de forma automática para aliviar la carga y permitir que la frecuencia vuelva a su valor nominal.\nEsto suele ocurrir cuando una planta generadora sale de servicio de manera imprevista, provocando un déficit de generación. El DAF ayuda a evitar un colapso mayor del sistema, aunque puede generar afectaciones al servicio como apagones parciales.",
+    "timestamp": 1771785272,
+    "timestamp_local": 1771785272
+  },
+  {
+    "id": 18197,
+    "fecha": "22 de Feb del 2026 a las 01:33 PM",
+    "hora_utc": "2026-02-22 18:33",
+    "mensaje": "Se produce un disparo por DAF que afectan los siguientes circuitos:\nTK5 Buena Vista, Los Pinos\nTK106 Palancón, Buena Vista",
+    "timestamp": 1771785237,
+    "timestamp_local": 1771785237
+  },
+  {
     "id": 18196,
     "fecha": "22 de Feb del 2026 a las 12:11 PM",
     "hora_utc": "2026-02-22 17:11",
@@ -110,13 +126,5 @@
     "mensaje": "⚡ Actualización del Sistema Electroenergético Nacional para el 21 de febrero de 2026.\n\nLeer más: https://www.unionelectrica.cu/nota-informativa/\n\n#UnidosXCuba #UniónEléctrica #UNE #NotaInformativa",
     "timestamp": 1771682626,
     "timestamp_local": 1771682626
-  },
-  {
-    "id": 18178,
-    "fecha": "21 de Feb del 2026 a las 12:36 AM",
-    "hora_utc": "2026-02-21 05:36",
-    "mensaje": "Se afecta el servicio eléctrico a los siguientes circuitos por déficit:                                                                                                                               TK6 Calle Cuba y zona sur de Buena Vista                                                                                                    Circuito 33 Kv: 4220\nTK28 La Guinea\nTK52 Covarrubias\nTK31 Pueblo Manatí\nTK33 Pueblo Manatí\nTK34 Pueblo Manatí",
-    "timestamp": 1771652185,
-    "timestamp_local": 1771652185
   }
 ]
