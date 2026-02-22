@@ -1,5 +1,21 @@
 [
   {
+    "id": 40977,
+    "fecha": "22 de Feb del 2026 a las 06:41 PM",
+    "hora_utc": "2026-02-22 23:41",
+    "mensaje": "💡Restablecido el servicio eléctrico en la Línea 1375.",
+    "timestamp": 1771803697,
+    "timestamp_local": 1771803697
+  },
+  {
+    "id": 40976,
+    "fecha": "22 de Feb del 2026 a las 06:31 PM",
+    "hora_utc": "2026-02-22 23:31",
+    "mensaje": "🛠️Afectada por manipulación la Línea 1375 para reponer fase por alta.\n👉Línea 1375\n🔹Municipio Caibarién\nCtos 63 y 64\nCtos 182 y 183 Van Troy",
+    "timestamp": 1771803111,
+    "timestamp_local": 1771803111
+  },
+  {
     "id": 40975,
     "fecha": "22 de Feb del 2026 a las 06:14 PM",
     "hora_utc": "2026-02-22 23:14",
@@ -110,21 +126,5 @@
     "mensaje": "⚠️Afectados por déficit de generación los siguientes circuitos:\n👉Municipio Ranchuelo:\nCto 92 Esperanza (Pueblo)\nCto 93 Esperanza (Campo)\nCtos 54, 94 y 95 Jicotea\n👉Municipio Santa Clara\nCtos 26 y 141 (Manuelita)\nCto 191 (Quemado de Hilario)                                           \n👉Municipio Santo Domingo\nCto 79 (Santo Domingo)\nCto 81 (26 de Julio)\nCto 163 (Batey 26 de Julio",
     "timestamp": 1771787439,
     "timestamp_local": 1771787439
-  },
-  {
-    "id": 40957,
-    "fecha": "22 de Feb del 2026 a las 02:07 PM",
-    "hora_utc": "2026-02-22 19:07",
-    "mensaje": "⚠️Afectados por déficit de generación los siguientes circuitos:\n👉Municipio Santa Clara:\nCto 5 (Dobarganes)\nCto 17 (Subplanta)",
-    "timestamp": 1771787240,
-    "timestamp_local": 1771787240
-  },
-  {
-    "id": 40956,
-    "fecha": "22 de Feb del 2026 a las 02:03 PM",
-    "hora_utc": "2026-02-22 19:03",
-    "mensaje": "Actualización del servicio eléctrico en la provincia🔸\n✍️Se mantienen afectados en la provincia 136 circuitos.\n✍️En el momento de hacer esta nota la provincia tiene 109 MW por déficit de capacidad de generación.\n✍️Cuenta con 91 afectaciones por averías secundarias y de servicio.",
-    "timestamp": 1771786984,
-    "timestamp_local": 1771786984
   }
 ]
