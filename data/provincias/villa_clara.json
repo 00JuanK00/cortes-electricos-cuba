@@ -1,5 +1,29 @@
 [
   {
+    "id": 40930,
+    "fecha": "22 de Feb del 2026 a las 01:07 AM",
+    "hora_utc": "2026-02-22 06:07",
+    "mensaje": "📣Ante cualquier duda con la terminología eléctrica, les volvemos explicar: \n     \n1️⃣-  Las averías pueden ser primarias (afecta un volumen grande de población pues son las líneas de distribución a 13.8kV y puede afectar varias manzanas, incluso repartos completos).\n\n2️⃣-  Secundarias (afecta a todos los clientes que se alimenten del mismo transformador, puede afectar una o varias cuadras). \n\n3️⃣-  De servicio (afectan 1 solo cliente o instalación generalmente producto a daños en la acometida, metro contador, etc.).",
+    "timestamp": 1771740477,
+    "timestamp_local": 1771740477
+  },
+  {
+    "id": 40929,
+    "fecha": "22 de Feb del 2026 a las 12:51 AM",
+    "hora_utc": "2026-02-22 05:51",
+    "mensaje": "Afectados 71 MW en la provincia, demanda máxima a apagar en estos momentos.",
+    "timestamp": 1771739497,
+    "timestamp_local": 1771739497
+  },
+  {
+    "id": 40927,
+    "fecha": "22 de Feb del 2026 a las 12:45 AM",
+    "hora_utc": "2026-02-22 05:45",
+    "mensaje": "🕛Actualización del servicio eléctrico en las últimas 6 horas.\n✍️  El déficit de capacidad de generación osciló entre los 71 MW y los 122 MW.\n✍️  En el momento de esta nota, se mantienen afectados 129 circuitos.\n✍️  Cuenta con 106 afectaciones por averías secundarias y de servicio:\n🔸Caibarien (2)\n🔸Camajuani (5)\n🔸Cifuentes (1)\n🔸Encrucijada (1)\n🔸Manicaragua (16)\n🔸Placetas (7)\n🔸Ranchuelo (7)\n🔸Remedios (8)\n🔸Sagua (5)\n🔸Santa Clara (36)\n🔸Santo Domingo (1)\n🛠️Se encuentran 5 averías en vías de solución.\n🛠️Pendientes a solucionar por el área técnica 12.\n✅ La provincia no presenta averías primarias en estos momentos.",
+    "timestamp": 1771739132,
+    "timestamp_local": 1771739132
+  },
+  {
     "id": 40926,
     "fecha": "21 de Feb del 2026 a las 09:57 PM",
     "hora_utc": "2026-02-22 02:57",
@@ -118,37 +142,5 @@
     "mensaje": "⚠️Afectados por déficit de capacidad de generación los siguientes circuitos:\n🔹Municipio Camajuaní:\n👉Ctos 77 y 185 Vueltas",
     "timestamp": 1771711321,
     "timestamp_local": 1771711321
-  },
-  {
-    "id": 40910,
-    "fecha": "21 de Feb del 2026 a las 04:36 PM",
-    "hora_utc": "2026-02-21 21:36",
-    "mensaje": "Actualización del servicio eléctrico en la provincia🔸\n✍️Se mantienen afectados en la provincia 98circuitos.\n✍️En el momento de hacer esta nota la provincia tiene 92MW por déficit de capacidad de generación.\n✍️Cuenta con 97 afectaciones por averías secundarias y de servicio.",
-    "timestamp": 1771709784,
-    "timestamp_local": 1771709784
-  },
-  {
-    "id": 40909,
-    "fecha": "21 de Feb del 2026 a las 04:32 PM",
-    "hora_utc": "2026-02-21 21:32",
-    "mensaje": "⚠️Afectados por déficit de capacidad de generación los siguientes circuitos:\n🔹Municipio Santa Clara:\n👉Cto 13 (Zona Industrial) \n👉Ctos 37 y 38 (Yabú)   \n👉Cto 9 (Moldes y Troqueles)\n👉Cto 133 (Taller Cafetera)",
-    "timestamp": 1771709572,
-    "timestamp_local": 1771709572
-  },
-  {
-    "id": 40908,
-    "fecha": "21 de Feb del 2026 a las 04:01 PM",
-    "hora_utc": "2026-02-21 21:01",
-    "mensaje": "⚠️Afectados por déficit de capacidad de generación los siguientes circuitos:\n🔹Municipio Encrucijada:\n👉Cto 122 Encrucijada  \n👉Cto 123 Vizcaya \n👉Cto 142 Comunidad La Sierra \n👉Cto 126 Batey Emilio Córdova\n👉Cto 125 Cavarrocas\n👉Cto 124 El Santo\n🔹Municipio Camajuaní:                                                              \n👉Cto 78 Jutiero\n👉Cto 75 La Quinta\n👉Cto 157 Luis Arcos Bergnes\n👉Ctos 76 y 90 Vega Alta",
-    "timestamp": 1771707710,
-    "timestamp_local": 1771707710
-  },
-  {
-    "id": 40907,
-    "fecha": "21 de Feb del 2026 a las 03:46 PM",
-    "hora_utc": "2026-02-21 20:46",
-    "mensaje": "⚠️Afectados por déficit de capacidad de generación los siguientes circuitos:\n🔹Municipio Santa Clara:\n👉Cto 5 (Dobarganes)\n👉Cto 17 (Subplanta)",
-    "timestamp": 1771706817,
-    "timestamp_local": 1771706817
   }
 ]
