@@ -1,5 +1,13 @@
 [
   {
+    "id": 36174,
+    "fecha": "22 de Feb del 2026 a las 12:50 PM",
+    "hora_utc": "2026-02-22 17:50",
+    "mensaje": "‼️ Información del déficit de generación ‼️   \n👉Tenemos 54MW en la provincia afectados por déficit de generación.\n👉 Se incorporan los siguientes circuitos:\n\n1, 5, A104, A106, Baraguá, Vicente, Colorado, Morón Centro,Turiguanó, Patria.\n ⏰ Con este déficit, la carga a apagar en la provincia no nos permite realizar una rotación estable de los circuitos, por lo que se afectarán o se restablecerán en dependencia del déficit que haya en cada momento de la jornada, que es muy variable.",
+    "timestamp": 1771782652,
+    "timestamp_local": 1771782652
+  },
+  {
     "id": 36173,
     "fecha": "22 de Feb del 2026 a las 12:03 PM",
     "hora_utc": "2026-02-22 17:03",
@@ -126,13 +134,5 @@
     "mensaje": "‼️ Información ‼️   \n👉En estos momentos subimos a 70 MW en la provincia afectados por déficit de generación. Con este déficit no podemos cumplir con una programación estable, por lo que los circuitos se afectarán o se restablecerán en dependencia del déficit que haya en cada momento de la jornada.",
     "timestamp": 1771704690,
     "timestamp_local": 1771704690
-  },
-  {
-    "id": 36154,
-    "fecha": "21 de Feb del 2026 a las 03:10 PM",
-    "hora_utc": "2026-02-21 20:10",
-    "mensaje": "❌Un Disparo Automático por Frecuencia (DAF) es una protección que posee el sistema eléctrico para cuando la frecuencia llega a valores mínimos permisibles que ponen en peligro la estabilidad de todo el sistema en su conjunto y provoca una desconexión automática de algunos circuitos hasta que esta vuelva a recuperar su valor nominal a 60 Hz o ciclos por segundo. Esto ocurre al salir de forma imprevista o repentina una planta generadora con una potencia determinada y el sistema en su conjunto necesita liberar esa carga hasta tanto se puedan recuperar la potencia de generación perdida anteriormente o dar las afectaciones al servicio por déficit de generación.",
-    "timestamp": 1771704609,
-    "timestamp_local": 1771704609
   }
 ]
