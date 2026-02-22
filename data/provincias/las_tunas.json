@@ -1,5 +1,13 @@
 [
   {
+    "id": 18192,
+    "fecha": "22 de Feb del 2026 a las 08:33 AM",
+    "hora_utc": "2026-02-22 13:33",
+    "mensaje": "**Nota Informativa: Estado del Sistema Eléctrico Nacional (SEN) – 22 de febrero de 2026**\nEn el día de ayer se afectó el servicio por déficit de capacidad durante las 24 horas y se ha mantenido la afectación durante la madrugada de hoy. La máxima afectación por déficit de capacidad de generación en el día de ayer fue de 1675 MW a las 19:10 horas.\nLa producción de energía de los 51 nuevos parques solares fotovoltaicos fue de 4050 MWh, con 823 MW como máxima potencia entregada en el horario de la media con esta fuente de generación.\n**Estado actual del SEN**\nLa disponibilidad del SEN a las 06:00 horas es de 1240 MW, la demanda 2230 MW, con 970 MW afectados. En el horario de la media se estima una afectación de 850 MW.\n**Principales incidencias**\nAvería: Unidad 2 de la CTE Santa Cruz, Unidad 2 de la CTE Felton y Unidades 3, 5 y 6 de la CTE Antonio Maceo.\nMantenimiento: Unidad 6 de la CTE Mariel, Unidad 5 de la CTE Nuevitas, Unidad 4 de la CTE Carlos Manuel de Céspedes en Cienfuegos.\nLimitaciones en la generación térmica: 373 MW fuera de servicio.\n**Pronóstico para el horario pico**\nPara el pico se pronostica la entrada del emplazamiento de fuel Mariel con 106 MW, la entrada de 6 motores en la Patana de Regla con 49 MW, la entrada de 5 motores de la Patana de Melones con 32 MW y la entrada de 3 motores de Fuel Moa con 45 MW.\nCon este pronóstico se prevé para el pico una disponibilidad de 1472 MW con una demanda máxima de 3100 MW, para un déficit de 1628 MW, por lo que de mantenerse las condiciones previstas se pronostica una afectación de 1658 MW en este horario.",
+    "timestamp": 1771767214,
+    "timestamp_local": 1771767214
+  },
+  {
     "id": 18191,
     "fecha": "22 de Feb del 2026 a las 06:31 AM",
     "hora_utc": "2026-02-22 11:31",
@@ -110,21 +118,5 @@
     "mensaje": "La Empresa Eléctrica Las Tunas informa que, según la nota emitida por la Unión Eléctrica para el 20 de febrero, en el día de ayer se afectó el servicio durante las 24 horas y se ha mantenido la afectación durante la madrugada de hoy. En nuestra provincia se afectaron la totalidad de los circuitos apagables, con una máxima afectación de 68.2 MW.\nActualmente están fuera de servicio por avería la Unidad 2 de la CTE Santa Cruz, Unidad 2 de la CTE Felton y Unidades 5 y 6 de la CTE Antonio Maceo.\nEn mantenimiento se encuentran Unidad 6 de la CTE Mariel, Unidad 5 de la CTE Nuevitas, Unidad 4 de la CTE Carlos Manuel de Céspedes en Cienfuegos.\nEn el horario nocturno se estima una afectación de 1768 MW, lo cual en este horario puede representar el 90% de los circuitos apagables de la provincia. Estos valores pueden variar según la demanda nacional.",
     "timestamp": 1771612989,
     "timestamp_local": 1771612989
-  },
-  {
-    "id": 18173,
-    "fecha": "20 de Feb del 2026 a las 01:04 PM",
-    "hora_utc": "2026-02-20 18:04",
-    "mensaje": "Se les informa a los clientes del  Circuito 33 Kv: 6220 que se encuentran afectados por una Vía Libre .\nTK61 La Yaya\nTK58 La Calera\nTK62 Lora\nTK63 Lora",
-    "timestamp": 1771610643,
-    "timestamp_local": 1771610643
-  },
-  {
-    "id": 18172,
-    "fecha": "20 de Feb del 2026 a las 12:36 PM",
-    "hora_utc": "2026-02-20 17:36",
-    "mensaje": "Restablecida  la avería del circuito 6300",
-    "timestamp": 1771608992,
-    "timestamp_local": 1771608992
   }
 ]
