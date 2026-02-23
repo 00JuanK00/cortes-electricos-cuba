@@ -1,5 +1,29 @@
 [
   {
+    "id": 50020,
+    "fecha": "23 de Feb del 2026 a las 04:36 PM",
+    "hora_utc": "2026-02-23 21:36",
+    "mensaje": "🔴Estimados clientes se les informa que se encuentra en avería el circuito 7. Disculpen por las molestias ocasionadas .",
+    "timestamp": 1771882592,
+    "timestamp_local": 1771882592
+  },
+  {
+    "id": 50019,
+    "fecha": "23 de Feb del 2026 a las 04:34 PM",
+    "hora_utc": "2026-02-23 21:34",
+    "mensaje": "🔴Estimados clientes se les informa que se incorporan a la afectación la línea 4390 Contramaestre y la 5975 Baconao.",
+    "timestamp": 1771882493,
+    "timestamp_local": 1771882493
+  },
+  {
+    "id": 50018,
+    "fecha": "23 de Feb del 2026 a las 04:32 PM",
+    "hora_utc": "2026-02-23 21:32",
+    "mensaje": "🔴Estimados clientes se les informa que se incorporan a la afectación los circuitos 25 , el 14 seccionalizado , el 19 , 2 , la línea 5380 Mella y el circuito 12.",
+    "timestamp": 1771882379,
+    "timestamp_local": 1771882379
+  },
+  {
     "id": 50017,
     "fecha": "23 de Feb del 2026 a las 03:16 PM",
     "hora_utc": "2026-02-23 20:16",
@@ -78,21 +102,5 @@
     "mensaje": "Déficit de Capacidad de Generación:    \nSe produce cuando la demanda del Sistema Eléctrico Nacional, en determinado horario del día, supera la generación disponible del país, provocando la desconexión de los circuitos o líneas que permitan garantizar la frecuencia del SEN.",
     "timestamp": 1771854066,
     "timestamp_local": 1771854066
-  },
-  {
-    "id": 49999,
-    "fecha": "23 de Feb del 2026 a las 08:37 AM",
-    "hora_utc": "2026-02-23 13:37",
-    "mensaje": "🔴Estimados clientes se les informa que se incorporan a l afectación las líneas 5330 El Cristo y la 5385 San Luis .",
-    "timestamp": 1771853826,
-    "timestamp_local": 1771853826
-  },
-  {
-    "id": 49998,
-    "fecha": "23 de Feb del 2026 a las 08:36 AM",
-    "hora_utc": "2026-02-23 13:36",
-    "mensaje": "🚨Nota informativa. 🚨\n\n📆Situación del SEN para el 23 de febrero de 2026.\n\n👉En el día de ayer se afectó el servicio por déficit de capacidad durante las 24 horas y se ha mantenido la afectación durante la madrugada de hoy. L \nmáxima afectación por déficit de capacidad de generación en el día de ayer fue de 1748 MW a las 19:10 horas.\n\n☀️La producción de energía de los 51 nuevos parques solares fotovoltaicos fue de 4051 MWh, con 762 MW como máxima potencia entregada en el horario de la media con esta fuente de generación. \n\n👉La disponibilidad del SEN a las 06:00 horas es de 1230 MW, la demanda 2100 MW, con 880 MW afectados. En el horario de la media se estima una afectación de 950 MW.  \n\n🛠️Se encuentran en avería, la unidad 2 de la CTE de Santa Cruz, la unidad 2 de la CTE Felton y las unidades 3, 5 y 6 de la CTE Renté. Se encuentran en mantenimiento, la unidad 6 de la CTE Mariel, la unidad 4 de la CTE Cienfuegos y la unidad 5 de la CTE Nuevitas.\n\n▪️Las limitaciones en la generación térmica son de 373 MW.\n\n▪️Para el pico se pronostica la entrada del emplazamiento de fuel Mariel con 106 MW, la entrada de 5 motores en la Patana de Regla con 40 MW, la entrada de la Patana de Melones con 40 MW, la entrada de 3 motores de Fuel Moa con 45 MW y la entrada de la unidad 3 de la CTE Renté con 40 MW.\n   \n📈Con este pronóstico se prevé para el pico una disponibilidad de 1500 MW con una demanda máxima de 3150 MW, para un déficit de 1650 MW, por lo que de mantenerse las condiciones previstas se pronostica una afectación de 1680 MW en este horario.\n\nUNE-MINEM",
-    "timestamp": 1771853799,
-    "timestamp_local": 1771853799
   }
 ]
