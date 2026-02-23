@@ -1,5 +1,13 @@
 [
   {
+    "id": 36000,
+    "fecha": "23 de Feb del 2026 a las 09:00 AM",
+    "hora_utc": "2026-02-23 14:00",
+    "mensaje": "🚨En falla el circuito 1424 de San Pedro en Bauta 🚨",
+    "timestamp": 1771855220,
+    "timestamp_local": 1771855220
+  },
+  {
     "id": 35999,
     "fecha": "23 de Feb del 2026 a las 07:04 AM",
     "hora_utc": "2026-02-23 12:04",
@@ -150,13 +158,5 @@
     "mensaje": "👉  Afectado circuito Villa Salado por déficit de generación ,en estos momentos tenemos una afectación de 163 MW en la provincia",
     "timestamp": 1771805378,
     "timestamp_local": 1771805378
-  },
-  {
-    "id": 35980,
-    "fecha": "22 de Feb del 2026 a las 06:07 PM",
-    "hora_utc": "2026-02-22 23:07",
-    "mensaje": "➡️ Circuitos  1580 Alquizar , Cabaña y Quiebra Hacha  Mariel afectados  por déficit de generación ,tenemos una afectación de 143 MW en la provincia",
-    "timestamp": 1771801633,
-    "timestamp_local": 1771801633
   }
 ]
