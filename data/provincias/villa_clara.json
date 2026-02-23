@@ -1,5 +1,21 @@
 [
   {
+    "id": 41041,
+    "fecha": "23 de Feb del 2026 a las 06:43 PM",
+    "hora_utc": "2026-02-23 23:43",
+    "mensaje": "🕕Actualización del servicio eléctrico en las últimas 6 horas.\n✍️El déficit de capacidad de generación osciló entre los 54 MW y los 132 MW.\n✍️En el momento de esta nota, se mantienen afectados 134 circuitos.\n✍️Cuenta con 122 afectaciones por averías secundarias y de servicio:\n🔸Caibarién (6)\n🔸Camajuaní (7)\n🔸Corralillo (4)\n🔸Encrucijada (2)\n🔸Manicaragua (20)\n🔸Placetas (18)\n🔸Ranchuelo (1)\n🔸Remedios (5) \n🔸Sagua (9) \n🔸Santa Clara (27)\n🔸Santo Domingo (2)\n🛠️Se encuentran 8 averías en vías de solución.\n🛠️Pendientes a solucionar por el área técnica 13.\n⚡La provincia presenta 1 avería primaria en el circuito 60 (La Sierra), del municipio Corralillo, por fase primaria partida.",
+    "timestamp": 1771890182,
+    "timestamp_local": 1771890182
+  },
+  {
+    "id": 41040,
+    "fecha": "23 de Feb del 2026 a las 06:32 PM",
+    "hora_utc": "2026-02-23 23:32",
+    "mensaje": "⚠️Afectado por déficit de capacidad de generación el circuito 170 (José Martí), del municipio Santa Clara.",
+    "timestamp": 1771889526,
+    "timestamp_local": 1771889526
+  },
+  {
     "id": 41039,
     "fecha": "23 de Feb del 2026 a las 06:13 PM",
     "hora_utc": "2026-02-23 23:13",
@@ -142,21 +158,5 @@
     "mensaje": "Con servicio las líneas 1785 y 129:\n🔹Municipio Santa Clara:\n👉Cto 34(Sabana Rebacadero)\n👉Ctos 32 y 33 (RF-33Kv)\n👉Cto 39 (Sandino)\n👉Cto 40 (Hospital Militar)",
     "timestamp": 1771877644,
     "timestamp_local": 1771877644
-  },
-  {
-    "id": 41021,
-    "fecha": "23 de Feb del 2026 a las 03:08 PM",
-    "hora_utc": "2026-02-23 20:08",
-    "mensaje": "🛠️ Afectadas por manipulación las líneas 1785 y 129 para reponer circuito 6 (Vigía), el cual se encuentra faltando una fase:\nAfecta los siguientes circuitos:\n🔹Municipio Santa Clara:\n👉Cto 34(Sabana Rebacadero)\n👉Ctos 32 y 33 (RF-33Kv)\n👉Cto 39 (Sandino)\n👉Cto 40 (Hospital Militar)",
-    "timestamp": 1771877330,
-    "timestamp_local": 1771877330
-  },
-  {
-    "id": 41020,
-    "fecha": "23 de Feb del 2026 a las 03:06 PM",
-    "hora_utc": "2026-02-23 20:06",
-    "mensaje": "🛠️Afectado por DAF (Disparo Automático por Frecuencia) la línea 1920:\nAfecta los siguientes circuitos:\n🔹Municipio Placetas:\n👉Ctos 101 y 145 Cumbre\n👉Cto 107 Baez\n👉Cto 105 Nazareno",
-    "timestamp": 1771877180,
-    "timestamp_local": 1771877180
   }
 ]
