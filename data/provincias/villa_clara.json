@@ -1,5 +1,13 @@
 [
   {
+    "id": 40988,
+    "fecha": "23 de Feb del 2026 a las 01:04 AM",
+    "hora_utc": "2026-02-23 06:04",
+    "mensaje": "✅Ante cualquier duda con la terminología eléctrica, les volvemos explicar: \n     \n1️⃣Las averías pueden ser primarias (afecta un volumen grande de población pues son las líneas de distribución a 13.8kV y puede afectar varias manzanas, incluso repartos completos).\n\n2️⃣Secundarias (afecta a todos los clientes que se alimenten del mismo transformador, puede afectar una o varias cuadras). \n\n3️⃣De servicio (afectan 1 solo cliente o instalación generalmente producto a daños en la acometida, metro contador, etc.).",
+    "timestamp": 1771826681,
+    "timestamp_local": 1771826681
+  },
+  {
     "id": 40987,
     "fecha": "23 de Feb del 2026 a las 12:03 AM",
     "hora_utc": "2026-02-23 05:03",
@@ -134,13 +142,5 @@
     "mensaje": "⚠️Afectado el circuito 31 SC Industrial, por déficit de generación.",
     "timestamp": 1771798521,
     "timestamp_local": 1771798521
-  },
-  {
-    "id": 40968,
-    "fecha": "22 de Feb del 2026 a las 05:02 PM",
-    "hora_utc": "2026-02-22 22:02",
-    "mensaje": "⚠️Afectado el circuito 144 Camacho, por déficit de generación.",
-    "timestamp": 1771797769,
-    "timestamp_local": 1771797769
   }
 ]
