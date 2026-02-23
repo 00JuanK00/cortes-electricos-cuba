@@ -1,5 +1,29 @@
 [
   {
+    "id": 41010,
+    "fecha": "23 de Feb del 2026 a las 12:43 PM",
+    "hora_utc": "2026-02-23 17:43",
+    "mensaje": "Con servicio la línea 1715:\n🔹Municipio Santo Domingo:\n👉Cto 134\n👉Ctos 87 y 96 Bermejal\n👉Cto 187 Batey Carlos Baliño\n\n👉Cto 82 Ulacia\n👉Cto 84 Rodrigo",
+    "timestamp": 1771868605,
+    "timestamp_local": 1771868605
+  },
+  {
+    "id": 41009,
+    "fecha": "23 de Feb del 2026 a las 12:28 PM",
+    "hora_utc": "2026-02-23 17:28",
+    "mensaje": "🛠️Afectado por manipulación la línea 1715, para reponer circuito 84 Rodrigo el cual se encuentra faltando una fase:\nAfecta los siguientes circuitos\n🔹Municipio Santo Domingo:\n👉Cto 134\n👉Ctos 87 y 96 Bermejal\n👉Cto 187 Batey Carlos Baliño\n👉Cto 82 Ulacia",
+    "timestamp": 1771867733,
+    "timestamp_local": 1771867733
+  },
+  {
+    "id": 41008,
+    "fecha": "23 de Feb del 2026 a las 12:05 PM",
+    "hora_utc": "2026-02-23 17:05",
+    "mensaje": "🕛Actualización del servicio eléctrico en las últimas 6 horas.\n✍️El déficit de capacidad de generación osciló entre los 65 MW y los 54 MW.\n✍️En el momento de esta nota, se mantienen afectados 77 circuitos.\n✍️Cuenta con 135 afectaciones por averías secundarias y de servicio:\nCaibarién (6)\nCamajuaní (9)\nCifuentes (4)\nCorralillo (6)\nEncrucijada (5)\nManicaragua (17)\nPlacetas (19)\nQuemado (2)\nRanchuelo (2)\nRemedios (10) \nSagua (1) \nSanta Clara (25)\nSanto Domingo (5)\n🛠️Se encuentran 12 averías en vías de solución.\n🛠️Pendientes a solucionar por el área técnica 11.\n✅La provincia no presenta averías primarias.",
+    "timestamp": 1771866333,
+    "timestamp_local": 1771866333
+  },
+  {
     "id": 41007,
     "fecha": "23 de Feb del 2026 a las 11:14 AM",
     "hora_utc": "2026-02-23 16:14",
@@ -126,21 +150,5 @@
     "mensaje": "Actualización del servicio eléctrico en la provincia🔸\n✍️Se mantienen afectados en la provincia 144 circuitos.\n✍️En el momento de hacer esta nota la provincia tiene 63 MW por déficit de capacidad de generación.\n✍️Cuenta con 81 afectaciones por averías secundarias y de servicio.",
     "timestamp": 1771837434,
     "timestamp_local": 1771837434
-  },
-  {
-    "id": 40989,
-    "fecha": "23 de Feb del 2026 a las 02:03 AM",
-    "hora_utc": "2026-02-23 07:03",
-    "mensaje": "Actualización del servicio eléctrico en la provincia🔸\n✍️Se mantienen afectados en la provincia 144 circuitos.\n✍️En el momento de hacer esta nota la provincia tiene 70 MW por déficit de capacidad de generación.\n✍️Cuenta con 81 afectaciones por averías secundarias y de servicio.",
-    "timestamp": 1771830191,
-    "timestamp_local": 1771830191
-  },
-  {
-    "id": 40988,
-    "fecha": "23 de Feb del 2026 a las 01:04 AM",
-    "hora_utc": "2026-02-23 06:04",
-    "mensaje": "✅Ante cualquier duda con la terminología eléctrica, les volvemos explicar: \n     \n1️⃣Las averías pueden ser primarias (afecta un volumen grande de población pues son las líneas de distribución a 13.8kV y puede afectar varias manzanas, incluso repartos completos).\n\n2️⃣Secundarias (afecta a todos los clientes que se alimenten del mismo transformador, puede afectar una o varias cuadras). \n\n3️⃣De servicio (afectan 1 solo cliente o instalación generalmente producto a daños en la acometida, metro contador, etc.).",
-    "timestamp": 1771826681,
-    "timestamp_local": 1771826681
   }
 ]

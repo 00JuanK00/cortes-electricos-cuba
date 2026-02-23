@@ -1,5 +1,45 @@
 [
   {
+    "id": 36013,
+    "fecha": "23 de Feb del 2026 a las 12:17 PM",
+    "hora_utc": "2026-02-23 17:17",
+    "mensaje": "🚨 Circuito Villa Salado de Caimito se encuentra en falla 🚨",
+    "timestamp": 1771867073,
+    "timestamp_local": 1771867073
+  },
+  {
+    "id": 36012,
+    "fecha": "23 de Feb del 2026 a las 11:49 AM",
+    "hora_utc": "2026-02-23 16:49",
+    "mensaje": "✅ Restablecido el circuito 236 de Bahía Honda que se encontraba disparado por DAF✅",
+    "timestamp": 1771865347,
+    "timestamp_local": 1771865347
+  },
+  {
+    "id": 36011,
+    "fecha": "23 de Feb del 2026 a las 11:46 AM",
+    "hora_utc": "2026-02-23 16:46",
+    "mensaje": "🚨 Actualización de la afectacion por déficit de generación en la provincia :\n\n\n➡️1940 de San Antonio\n➡️ Fabrica de Carretas de Güira de Melena\n➡️ Circuito Pedro Díaz ( Avería ) pasa a cubrir deficit\n ➡️ Circuito Capricho de Caimito ( Avería ) pasa a cubrir deficit\n ➡️ Circuito Cabaña y Quiebra Hacha ( avería ) pasa a cubrir deficit\n➡️ Circuito 1424 de San Pedro en Bauta (Avería ) pasa a cubrir deficit\n➡️ Circuito Bombeo Ceiba 1 de Caimito (Avería ) pasa a cubrir deficit\n➡️Beliert (Avería ) pasa a cubrir deficit \n\n👉 En estos momentos tenemos una afectación de 66 MW en la provincia",
+    "timestamp": 1771865174,
+    "timestamp_local": 1771865174
+  },
+  {
+    "id": 36010,
+    "fecha": "23 de Feb del 2026 a las 11:35 AM",
+    "hora_utc": "2026-02-23 16:35",
+    "mensaje": "🚨 Circuito 236 de Bahía Honda se encuentra disparado por DAF🚨",
+    "timestamp": 1771864556,
+    "timestamp_local": 1771864556
+  },
+  {
+    "id": 36009,
+    "fecha": "23 de Feb del 2026 a las 11:34 AM",
+    "hora_utc": "2026-02-23 16:34",
+    "mensaje": "✅ Restablecida la Vía Libre en el circuito Bauta Vieja para reparar puente✅",
+    "timestamp": 1771864480,
+    "timestamp_local": 1771864480
+  },
+  {
     "id": 36008,
     "fecha": "23 de Feb del 2026 a las 11:13 AM",
     "hora_utc": "2026-02-23 16:13",
@@ -118,45 +158,5 @@
     "mensaje": "‼️ Tenemos una afectación de 76 MW en la provincia en estos momentos  ‼️",
     "timestamp": 1771833810,
     "timestamp_local": 1771833810
-  },
-  {
-    "id": 35993,
-    "fecha": "23 de Feb del 2026 a las 02:02 AM",
-    "hora_utc": "2026-02-23 07:02",
-    "mensaje": "🚨  En estos momentos tenemos una afectación de 79 MW en la provincia",
-    "timestamp": 1771830142,
-    "timestamp_local": 1771830142
-  },
-  {
-    "id": 35992,
-    "fecha": "23 de Feb del 2026 a las 12:31 AM",
-    "hora_utc": "2026-02-23 05:31",
-    "mensaje": "‼️ Actualización de la afectación por deficit generación en la provincia : \n\n➡️236 y BH 342 Bahía \n➡️S-20 (manipulado),4 Caminos y Martí \n➡️S-320 y S-40 Mani San Cristóbal \n➡️Bauta Nueva \n➡️Villa Salado \n➡️Bombeo Ceiba 1 y San Gabriel \n➡️Fca de Carretas \n➡️A 1258 Artemisa\n ➡️1940 San Antonio \n➡️1580 Alquizar \n\n👉 Tenemos en estos momentos una afectación de 87 MW en la provincia",
-    "timestamp": 1771824674,
-    "timestamp_local": 1771824674
-  },
-  {
-    "id": 35991,
-    "fecha": "22 de Feb del 2026 a las 11:46 PM",
-    "hora_utc": "2026-02-23 04:46",
-    "mensaje": "‼️ Restablecida la  Vía libre del circuito\n A 1270 municipio Artemisa  ‼️",
-    "timestamp": 1771821994,
-    "timestamp_local": 1771821994
-  },
-  {
-    "id": 35990,
-    "fecha": "22 de Feb del 2026 a las 11:21 PM",
-    "hora_utc": "2026-02-23 04:21",
-    "mensaje": "👉 Tenemos una afectación en estos momentos en la provincia de 80 MW",
-    "timestamp": 1771820476,
-    "timestamp_local": 1771820476
-  },
-  {
-    "id": 35989,
-    "fecha": "22 de Feb del 2026 a las 10:50 PM",
-    "hora_utc": "2026-02-23 03:50",
-    "mensaje": "‼️ Vía libre en circuito A 1270 Artemisa por avería a partir de la cuchilla E 4034 y final ‼️",
-    "timestamp": 1771818618,
-    "timestamp_local": 1771818618
   }
 ]
