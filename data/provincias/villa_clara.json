@@ -1,5 +1,13 @@
 [
   {
+    "id": 41007,
+    "fecha": "23 de Feb del 2026 a las 11:14 AM",
+    "hora_utc": "2026-02-23 16:14",
+    "mensaje": "⚠️Afectados por déficit de generación los siguientes circuitos:\n🔹Municipio Camajuaní:\n👉Ctos  72, 73 y 156",
+    "timestamp": 1771863255,
+    "timestamp_local": 1771863255
+  },
+  {
     "id": 41006,
     "fecha": "23 de Feb del 2026 a las 10:19 AM",
     "hora_utc": "2026-02-23 15:19",
@@ -134,13 +142,5 @@
     "mensaje": "✅Ante cualquier duda con la terminología eléctrica, les volvemos explicar: \n     \n1️⃣Las averías pueden ser primarias (afecta un volumen grande de población pues son las líneas de distribución a 13.8kV y puede afectar varias manzanas, incluso repartos completos).\n\n2️⃣Secundarias (afecta a todos los clientes que se alimenten del mismo transformador, puede afectar una o varias cuadras). \n\n3️⃣De servicio (afectan 1 solo cliente o instalación generalmente producto a daños en la acometida, metro contador, etc.).",
     "timestamp": 1771826681,
     "timestamp_local": 1771826681
-  },
-  {
-    "id": 40987,
-    "fecha": "23 de Feb del 2026 a las 12:03 AM",
-    "hora_utc": "2026-02-23 05:03",
-    "mensaje": "🕛Actualización del servicio eléctrico en las últimas 6 horas.\n\n👉El déficit de capacidad de generación osciló entre los 141 MW y los 86 MW.\n👉En el momento de esta nota, se mantienen afectados 144 circuitos.\n👉Cuenta con 101 afectaciones por averías secundarias y de servicio:\n Caibarién (3)\n Camajuaní (3)\n Cifuentes (2)\n Encrucijada (1)\n Manicaragua (17)\n Placetas (12)\n Remedios (13) \n Sagua (3) \n Santa Clara (31)\n Santo Domingo (2)\n🛠️Se encuentran 2 averías en vías de solución.\n🛠️Pendientes a solucionar por el área técnica 12.\n⚡La provincia no presenta averías primarias.",
-    "timestamp": 1771823021,
-    "timestamp_local": 1771823021
   }
 ]
