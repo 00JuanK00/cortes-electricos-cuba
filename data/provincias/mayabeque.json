@@ -1,5 +1,37 @@
 [
   {
+    "id": 107743,
+    "fecha": "23 de Feb del 2026 a las 06:07 PM",
+    "hora_utc": "2026-02-23 23:07",
+    "mensaje": "♦️Afectado el servicio en el circuito Bio 1 por manipulación♦️",
+    "timestamp": 1771888046,
+    "timestamp_local": 1771888046
+  },
+  {
+    "id": 107740,
+    "fecha": "23 de Feb del 2026 a las 06:01 PM",
+    "hora_utc": "2026-02-23 23:01",
+    "mensaje": "🔷Restablecido el servicio en el circuito 3590 que se encontraba afectado por disparo por DAF🔷",
+    "timestamp": 1771887701,
+    "timestamp_local": 1771887701
+  },
+  {
+    "id": 107739,
+    "fecha": "23 de Feb del 2026 a las 06:00 PM",
+    "hora_utc": "2026-02-23 23:00",
+    "mensaje": "🔷♦️Se restablece el servicio en el circuito que se encontraba afectado  por déficit de capacidad de generación:\n*2 de San José♦️🔷",
+    "timestamp": 1771887646,
+    "timestamp_local": 1771887646
+  },
+  {
+    "id": 107738,
+    "fecha": "23 de Feb del 2026 a las 05:40 PM",
+    "hora_utc": "2026-02-23 22:40",
+    "mensaje": "🚨Por déficit de capacidad de generación se afecta el servicio en los siguientes circuitos:\n*6 y 8 de San José🚨",
+    "timestamp": 1771886412,
+    "timestamp_local": 1771886412
+  },
+  {
     "id": 107737,
     "fecha": "23 de Feb del 2026 a las 05:23 PM",
     "hora_utc": "2026-02-23 22:23",
@@ -94,53 +126,5 @@
     "mensaje": "🔷Restablecido el servicio en el circuito 1790 que se encontraba afectado por disparo por DAF🔷",
     "timestamp": 1771877441,
     "timestamp_local": 1771877441
-  },
-  {
-    "id": 107722,
-    "fecha": "23 de Feb del 2026 a las 03:07 PM",
-    "hora_utc": "2026-02-23 20:07",
-    "mensaje": "♦️Afectado el servicio en el circuito 1790 por disparo por DAF♦️",
-    "timestamp": 1771877241,
-    "timestamp_local": 1771877241
-  },
-  {
-    "id": 107721,
-    "fecha": "23 de Feb del 2026 a las 03:01 PM",
-    "hora_utc": "2026-02-23 20:01",
-    "mensaje": "♦️Afectado el servicio en el circuito 3590 por disparo por DAF♦️",
-    "timestamp": 1771876900,
-    "timestamp_local": 1771876900
-  },
-  {
-    "id": 107720,
-    "fecha": "23 de Feb del 2026 a las 02:59 PM",
-    "hora_utc": "2026-02-23 19:59",
-    "mensaje": "🔷Restablecido el servicio en el siguiente circuito que se encontraba afectado por disparo en las líneas:\n*Bio 1🔷",
-    "timestamp": 1771876767,
-    "timestamp_local": 1771876767
-  },
-  {
-    "id": 107719,
-    "fecha": "23 de Feb del 2026 a las 02:50 PM",
-    "hora_utc": "2026-02-23 19:50",
-    "mensaje": "♦️Afectado el servicio en el circuito Bio 2 por disparo en las líneas♦️",
-    "timestamp": 1771876227,
-    "timestamp_local": 1771876227
-  },
-  {
-    "id": 107718,
-    "fecha": "23 de Feb del 2026 a las 02:47 PM",
-    "hora_utc": "2026-02-23 19:47",
-    "mensaje": "🔷Restablecido el servicio en el circuito Perú que se encontraba afectado por disparo en las líneas🔷",
-    "timestamp": 1771876029,
-    "timestamp_local": 1771876029
-  },
-  {
-    "id": 107717,
-    "fecha": "23 de Feb del 2026 a las 02:39 PM",
-    "hora_utc": "2026-02-23 19:39",
-    "mensaje": "🔷♦️Se restablece el servicio en los circuitos que se encontraban afectados por déficit de capacidad de generación:\n*3660\n*3655♦️🔷",
-    "timestamp": 1771875588,
-    "timestamp_local": 1771875588
   }
 ]
