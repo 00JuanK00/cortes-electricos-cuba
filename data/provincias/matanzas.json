@@ -1,5 +1,37 @@
 [
   {
+    "id": 32898,
+    "fecha": "24 de Feb del 2026 a las 02:13 AM",
+    "hora_utc": "2026-02-24 07:13",
+    "mensaje": "CON SERVICIO\n🔌 Circuito 1406 que da servicio a Casco Histórico.",
+    "timestamp": 1771917183,
+    "timestamp_local": 1771917183
+  },
+  {
+    "id": 32897,
+    "fecha": "24 de Feb del 2026 a las 02:11 AM",
+    "hora_utc": "2026-02-24 07:11",
+    "mensaje": "⚡Déficit de capacidad de generación en la provincia: 20 MW",
+    "timestamp": 1771917060,
+    "timestamp_local": 1771917060
+  },
+  {
+    "id": 32896,
+    "fecha": "24 de Feb del 2026 a las 02:10 AM",
+    "hora_utc": "2026-02-24 07:10",
+    "mensaje": "CON SERVICIO\nCIRCUITO 4405 Guanábana 110kV\nCIRCUITO 502 Colón 110kV\nCIRCUITO 4955 Guanábana 110kV",
+    "timestamp": 1771917017,
+    "timestamp_local": 1771917017
+  },
+  {
+    "id": 32895,
+    "fecha": "24 de Feb del 2026 a las 02:06 AM",
+    "hora_utc": "2026-02-24 07:06",
+    "mensaje": "⚡Déficit de capacidad de generación en la provincia: 28 MW",
+    "timestamp": 1771916777,
+    "timestamp_local": 1771916777
+  },
+  {
     "id": 32894,
     "fecha": "24 de Feb del 2026 a las 01:01 AM",
     "hora_utc": "2026-02-24 06:01",
@@ -126,37 +158,5 @@
     "mensaje": "⚡La provincia se encuentra con un déficit de capacidad de generación de 115 MW",
     "timestamp": 1771900640,
     "timestamp_local": 1771900640
-  },
-  {
-    "id": 32878,
-    "fecha": "23 de Feb del 2026 a las 09:05 PM",
-    "hora_utc": "2026-02-24 02:05",
-    "mensaje": "⚡La provincia se encuentra con un déficit de capacidad de generación de 114 MW",
-    "timestamp": 1771898736,
-    "timestamp_local": 1771898736
-  },
-  {
-    "id": 32877,
-    "fecha": "23 de Feb del 2026 a las 08:32 PM",
-    "hora_utc": "2026-02-24 01:32",
-    "mensaje": "⚡La provincia se encuentra con un déficit de capacidad de generación de 129 MW",
-    "timestamp": 1771896742,
-    "timestamp_local": 1771896742
-  },
-  {
-    "id": 32876,
-    "fecha": "23 de Feb del 2026 a las 07:38 PM",
-    "hora_utc": "2026-02-24 00:38",
-    "mensaje": "⚠Se comunica a nuestros clientes que la provincia se encuentra en el máximo apagable con un déficit de capacidad de generación de 142 MW🪫.\n\n🔄 Una vez que podamos rotar el servicio, iremos restableciendo de manera paulatina los circuitos que han estado más tiempo sin suministro en dependencia del comportamiento de la demanda y la disponibilidad del sistema eléctrico.",
-    "timestamp": 1771893533,
-    "timestamp_local": 1771893533
-  },
-  {
-    "id": 32875,
-    "fecha": "23 de Feb del 2026 a las 06:47 PM",
-    "hora_utc": "2026-02-23 23:47",
-    "mensaje": "⚠Se comunica a nuestros clientes que la provincia se encuentra en el máximo apagable con un déficit de capacidad de generación de 144 MW🪫.\n\n🔄 Una vez que podamos rotar el servicio, iremos restableciendo de manera paulatina los circuitos que han estado más tiempo sin suministro en dependencia del comportamiento de la demanda y la disponibilidad del sistema eléctrico.",
-    "timestamp": 1771890476,
-    "timestamp_local": 1771890476
   }
 ]
