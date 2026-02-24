@@ -1,5 +1,29 @@
 [
   {
+    "id": 18218,
+    "fecha": "24 de Feb del 2026 a las 10:14 AM",
+    "hora_utc": "2026-02-24 15:14",
+    "mensaje": "La Empresa Eléctrica Las Tunas informa que, según la nota emitida por la Unión Eléctrica para el 24 de febrero, en el día de ayer se afectó el servicio durante las 24 horas y se ha mantenido la afectación durante la madrugada de hoy. En nuestra provincia se afectaron la totalidad de los circuitos apagables, con una máxima afectación de 73.7 MW.\nActualmente están fuera de servicio por avería Unidad 2 de la CTE Santa Cruz, Unidad 2 de la CTE Felton y Unidades 5 y 6 de la CTE Antonio Maceo. \nEn mantenimiento se encuentran la Unidad 6 de la CTE Mariel, Unidad 5 de la CTE Nuevitas, Unidad 4 de la CTE Carlos Manuel de Céspedes en Cienfuegos.\nEn el horario diurno se pronostica una afectación de 950 MW, lo cual representará para nuestra provincia una afectación del 80% de los circuitos.\nEn el horario nocturno se estima una afectación de 1800 MW, lo cual en este horario puede representar el 90% de los circuitos apagables de la provincia. Estos valores pueden variar según la demanda nacional.",
+    "timestamp": 1771946085,
+    "timestamp_local": 1771946085
+  },
+  {
+    "id": 18217,
+    "fecha": "24 de Feb del 2026 a las 10:11 AM",
+    "hora_utc": "2026-02-24 15:11",
+    "mensaje": "Queda con servicio el circuito 33kv -6305 qué se encontraba afectado por un disparo en las líneas",
+    "timestamp": 1771945913,
+    "timestamp_local": 1771945913
+  },
+  {
+    "id": 18216,
+    "fecha": "24 de Feb del 2026 a las 10:09 AM",
+    "hora_utc": "2026-02-24 15:09",
+    "mensaje": "Se encuentran afectados por disparo en líneas  los clientes del \nCircuito 33 Kv: 6305\nTK41 Calixto\nTK40 Vista Alegre\nTK42 Gastón y Arroyo Muerto\nTK45 La Ceiba\nTK43 Las Parras, Omaja y Cañada Honda\nTK44 Vivienda\nTK24 Reparto Santo Domingo\nTK4 Aeropuerto, Casa Piedra y Aurora\nTK1 Edificios de Buena Vista\nTK12 Las 40 y Nuevo Sosa\nTK6 Calle Cuba y zona sur de Buena Vista",
+    "timestamp": 1771945796,
+    "timestamp_local": 1771945796
+  },
+  {
     "id": 18215,
     "fecha": "24 de Feb del 2026 a las 08:12 AM",
     "hora_utc": "2026-02-24 13:12",
@@ -110,29 +134,5 @@
     "mensaje": "Se declara en avería TK4 Aeropuerto, Casa Piedra y Aurora.",
     "timestamp": 1771795958,
     "timestamp_local": 1771795958
-  },
-  {
-    "id": 18198,
-    "fecha": "22 de Feb del 2026 a las 01:34 PM",
-    "hora_utc": "2026-02-22 18:34",
-    "mensaje": "¿Qué es un disparo por DAF?\nEl Disparo por Frecuencia (DAF) es un mecanismo de protección del sistema eléctrico. Se activa automáticamente cuando la frecuencia desciende por debajo de los valores mínimos seguros (menores de 60 Hz), lo que pone en riesgo la estabilidad del sistema.\nEn ese momento, algunos circuitos se desconectan de forma automática para aliviar la carga y permitir que la frecuencia vuelva a su valor nominal.\nEsto suele ocurrir cuando una planta generadora sale de servicio de manera imprevista, provocando un déficit de generación. El DAF ayuda a evitar un colapso mayor del sistema, aunque puede generar afectaciones al servicio como apagones parciales.",
-    "timestamp": 1771785272,
-    "timestamp_local": 1771785272
-  },
-  {
-    "id": 18197,
-    "fecha": "22 de Feb del 2026 a las 01:33 PM",
-    "hora_utc": "2026-02-22 18:33",
-    "mensaje": "Se produce un disparo por DAF que afectan los siguientes circuitos:\nTK5 Buena Vista, Los Pinos\nTK106 Palancón, Buena Vista",
-    "timestamp": 1771785237,
-    "timestamp_local": 1771785237
-  },
-  {
-    "id": 18196,
-    "fecha": "22 de Feb del 2026 a las 12:11 PM",
-    "hora_utc": "2026-02-22 17:11",
-    "mensaje": "Se restablecen los circuitos:\nCircuito 33 Kv: 6810\nTK82 Tana\nTK83 Las Maboas\nTK113 La Aurora\nTK74 La Lomita\nTK110 El Batey\n6810 Poblado Amancio\nCircuito 33 Kv: 6820 Poblado Amancio\nTK75 Vicente Pérez \nTK77 San Alberto\nTK78 Ana Luisa\nTK76 El Paraíso\nCircuito de 33 Kv 6840 Los Kilómetros",
-    "timestamp": 1771780288,
-    "timestamp_local": 1771780288
   }
 ]
