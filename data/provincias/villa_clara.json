@@ -1,5 +1,37 @@
 [
   {
+    "id": 41070,
+    "fecha": "24 de Feb del 2026 a las 06:04 AM",
+    "hora_utc": "2026-02-24 11:04",
+    "mensaje": "🕕Actualización del servicio eléctrico en las últimas 6 horas.\n✍️El déficit de capacidad de generación osciló entre los 50 MW y los 46 MW.\n✍️En el momento de esta nota, se mantienen afectados 93 circuitos.\n✍️Cuenta con 94 afectaciones por averías secundarias y de servicio:\n🔸Caibarién (1)\n🔸Camajuaní (7)\n🔸Corralillo (3)\n🔸Manicaragua (21)\n🔸Placetas (9)\n🔸Ranchuelo (2)\n🔸Remedios (6) \n🔸Sagua (9) \n🔸Santa Clara (26)\n🔸Santo Domingo (10)\n🛠️Se encuentran 6 averías en vías de solución.\n🛠️Pendientes a solucionar por el área técnica 15.\n⚡La provincia presenta 1 avería primaria en el circuito 60 (La Sierra), del municipio Corralillo, por fase primaria partida.",
+    "timestamp": 1771931094,
+    "timestamp_local": 1771931094
+  },
+  {
+    "id": 41069,
+    "fecha": "24 de Feb del 2026 a las 06:01 AM",
+    "hora_utc": "2026-02-24 11:01",
+    "mensaje": "⚠️Continúan afectados por déficit de capacidad de generación los siguientes circuitos:\n🔹Municipio Cifuentes:\n👉Ctos 114 y 117\n👉Ctos 116 y 155 Mata\n👉Cto 186 Batey Unidad Proletaria\n👉Cto 184 Sitio Grande",
+    "timestamp": 1771930902,
+    "timestamp_local": 1771930902
+  },
+  {
+    "id": 41068,
+    "fecha": "24 de Feb del 2026 a las 05:58 AM",
+    "hora_utc": "2026-02-24 10:58",
+    "mensaje": "⚠️Afectados por déficit de capacidad de generación los siguientes circuitos:\n🔹Municipio Remedios:\n👉Ctos 67 y 152, 68 y 118 \n👉Ctos 69 y 70 Zuluetas\n👉Cto 143 Batey Heriberto Duquezne \n👉Cto 71 Buena Vista",
+    "timestamp": 1771930698,
+    "timestamp_local": 1771930698
+  },
+  {
+    "id": 41067,
+    "fecha": "24 de Feb del 2026 a las 05:57 AM",
+    "hora_utc": "2026-02-24 10:57",
+    "mensaje": "⚠️Afectados por déficit de capacidad de generación los siguientes circuitos:\n🔹Municipio Encrucijada\n👉Cto 120 Calabazar\n👉Ctos 121 y 127 Perucho\n🔹Municipio Placetas \n👉Ctos 100 y 151 Placetas\n👉Cto 104 Hermanos Amejeiras\n👉Cto 103 Batey Carbó Servía",
+    "timestamp": 1771930639,
+    "timestamp_local": 1771930639
+  },
+  {
     "id": 41066,
     "fecha": "24 de Feb del 2026 a las 04:24 AM",
     "hora_utc": "2026-02-24 09:24",
@@ -126,37 +158,5 @@
     "mensaje": "🛠️ Afectada por emergencia la línea 861:\nAfecta los siguientes circuitos:\n🔹Municipio Santa Clara:\n👉Cto 5 (Dobarganes)\n👉Cto 17 (Subplanta) \n👉Ctos 37 y 38 (Yabú)   \n👉Cto 9 (Moldes y Troqueles)\n👉Cto 133 (Taller Cafetera)",
     "timestamp": 1771900618,
     "timestamp_local": 1771900618
-  },
-  {
-    "id": 41050,
-    "fecha": "23 de Feb del 2026 a las 08:55 PM",
-    "hora_utc": "2026-02-24 01:55",
-    "mensaje": "Actualización del servicio eléctrico en la provincia🔸\n✍️Se mantienen afectados en la provincia 134 circuitos.\n✍️En el momento de hacer esta nota la provincia tiene 106 MW por déficit de capacidad de generación.\n✍️Cuenta con 101 afectaciones por averías secundarias y de servicio.",
-    "timestamp": 1771898135,
-    "timestamp_local": 1771898135
-  },
-  {
-    "id": 41049,
-    "fecha": "23 de Feb del 2026 a las 08:54 PM",
-    "hora_utc": "2026-02-24 01:54",
-    "mensaje": "Con servicio la línea 1780 : \n🔹Municipio Santa Clara:\n👉Cto 16 Cubanacán\n👉Ctos 23 y 130 La Ceniza\n👉Cto 42 Manajanabo\n🔹Municipio Placetas\n👉Cto 139 Miller\n👉Cto 190 Oliver\n👉Cto 106 Falcón\n👉Ctos 98 y 99 Placetas",
-    "timestamp": 1771898054,
-    "timestamp_local": 1771898054
-  },
-  {
-    "id": 41048,
-    "fecha": "23 de Feb del 2026 a las 08:51 PM",
-    "hora_utc": "2026-02-24 01:51",
-    "mensaje": "Restablecido en su totalidad el circuito 13 (Zona Industrial), del municipio Santa Clara.",
-    "timestamp": 1771897911,
-    "timestamp_local": 1771897911
-  },
-  {
-    "id": 41047,
-    "fecha": "23 de Feb del 2026 a las 08:48 PM",
-    "hora_utc": "2026-02-24 01:48",
-    "mensaje": "🛠️Afectado por manipulación la línea 1780, para reponer el circuito 42 (Manajanabo), el cual se encuentra faltando una fase: \nAfecta los siguientes circuitos\n🔹Municipio Santa Clara:\n👉Cto 16 Cubanacán\n👉Ctos 23 y 130 La Ceniza\n🔹Municipio Placetas\n👉Cto 139 Miller\n👉Cto 190 Oliver\n👉Cto 106 Falcón\n👉Ctos 98 y 99 Placetas",
-    "timestamp": 1771897716,
-    "timestamp_local": 1771897716
   }
 ]
