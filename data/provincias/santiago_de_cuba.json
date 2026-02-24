@@ -1,5 +1,37 @@
 [
   {
+    "id": 50069,
+    "fecha": "24 de Feb del 2026 a las 03:52 PM",
+    "hora_utc": "2026-02-24 20:52",
+    "mensaje": "🚨Manipulaciones:\nAcción que se realizan en los circuitos para dar paso al trabajo en zonas afectadas por averías o Vía Libre y posteriormente para restablecer el servicio eléctrico en los circuitos que se encontraban afectados y en los que se trabaja con anterioridad, luego de culminadas las labores pertinentes.",
+    "timestamp": 1771966363,
+    "timestamp_local": 1771966363
+  },
+  {
+    "id": 50068,
+    "fecha": "24 de Feb del 2026 a las 03:51 PM",
+    "hora_utc": "2026-02-24 20:51",
+    "mensaje": "🔊Estimados clientes en estos momentos se está Manipulando el circuito 18 para reponer un Fuse al Aire",
+    "timestamp": 1771966308,
+    "timestamp_local": 1771966308
+  },
+  {
+    "id": 50067,
+    "fecha": "24 de Feb del 2026 a las 03:50 PM",
+    "hora_utc": "2026-02-24 20:50",
+    "mensaje": "🚨Disparo Automático de Frecuencia (DAF):\nOcurre cuando la frecuencia está por debajo de los 60Hz y determinada carga o circuito se desconecta del sistema automáticamente hasta que se estabilice.",
+    "timestamp": 1771966211,
+    "timestamp_local": 1771966211
+  },
+  {
+    "id": 50066,
+    "fecha": "24 de Feb del 2026 a las 03:49 PM",
+    "hora_utc": "2026-02-24 20:49",
+    "mensaje": "🔊Estimados clientes en estos momentos se encuentra Disparado por DAF el circuito 1 de Palma",
+    "timestamp": 1771966166,
+    "timestamp_local": 1771966166
+  },
+  {
     "id": 50065,
     "fecha": "24 de Feb del 2026 a las 12:36 PM",
     "hora_utc": "2026-02-24 17:36",
@@ -126,37 +158,5 @@
     "mensaje": "📌Nota Informativa: Estado del Sistema Eléctrico Nacional (SEN) – 24 de febrero de 2026\n\n👉 En el día de ayer se afectó el servicio por déficit de capacidad durante las 24 horas y se ha mantenido la afectación durante la madrugada de hoy. La máxima afectación por déficit de capacidad de generación en el día de ayer fue de ⚡1748 MW a las ⏰19:10 horas.\n\n🌞La producción de energía de los 51 nuevos parques solares fotovoltaicos fue de 4114 MWh, con 734 MW como máxima potencia entregada en el horario de la media con esta fuente de generación.\n\n👉La disponibilidad del SEN a las⏰ 06:00 horas del dia de hoy fue de 1230 MW, la demanda 1900 MW, con 662 MW afectados. En el horario de la media se estima una afectación de 950 MW.\n                                                                                                                                    🛠️Principales incidencias: \n\n➡️ Avería: Unidad 2 de la CTE Santa Cruz, Unidad 2 de la CTE Felton y Unidades 5 y 6 de la CTE Antonio Maceo.\n\n➡️ Mantenimiento: Unidad 6 de la CTE Mariel, Unidad 5 de la CTE Nuevitas, Unidad 4 de la CTE Carlos Manuel de Céspedes en Cienfuegos.\n\n👉 Limitaciones en la generación térmica: 378 MW fuera de servicio.\n\n🔊Pronóstico para el horario pico: \n\nPara el pico se prevé una disponibilidad de 1230 MW con una demanda máxima de 3000 MW, para un déficit de 1770 MW, por lo que de mantenerse las condiciones previstas se pronostica una afectación de ⚡1800 MW en este horario.",
     "timestamp": 1771940538,
     "timestamp_local": 1771940538
-  },
-  {
-    "id": 50049,
-    "fecha": "24 de Feb del 2026 a las 08:40 AM",
-    "hora_utc": "2026-02-24 13:40",
-    "mensaje": "🔊Estimados clientes en estos momentos se encuentra en Avería el circuito 7",
-    "timestamp": 1771940422,
-    "timestamp_local": 1771940422
-  },
-  {
-    "id": 50048,
-    "fecha": "24 de Feb del 2026 a las 07:48 AM",
-    "hora_utc": "2026-02-24 12:48",
-    "mensaje": "🔊Estimados clientes en estos momentos se encuentra afectados por Déficit de Capacidad de Generación los circuitos 1 y 25",
-    "timestamp": 1771937311,
-    "timestamp_local": 1771937311
-  },
-  {
-    "id": 50047,
-    "fecha": "24 de Feb del 2026 a las 07:10 AM",
-    "hora_utc": "2026-02-24 12:10",
-    "mensaje": "🚨Estimados clientes en estos momentos se encuentra afectados por Déficit de Capacidad de Generación los circuitos 14 , 19 de Santiago , 4 de Palma , disculpen por las molestias ocasionadas.",
-    "timestamp": 1771935045,
-    "timestamp_local": 1771935045
-  },
-  {
-    "id": 50046,
-    "fecha": "24 de Feb del 2026 a las 06:30 AM",
-    "hora_utc": "2026-02-24 11:30",
-    "mensaje": "🚨Estimados clientes en estos momentos se encuentra afectados por Déficit de Capacidad de Generación la línea 5380 Mella , disculpen por las molestias ocasionadas.",
-    "timestamp": 1771932638,
-    "timestamp_local": 1771932638
   }
 ]
