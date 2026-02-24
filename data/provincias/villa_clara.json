@@ -1,5 +1,45 @@
 [
   {
+    "id": 41093,
+    "fecha": "24 de Feb del 2026 a las 11:38 AM",
+    "hora_utc": "2026-02-24 16:38",
+    "mensaje": "💡 Con servicio la línea 332 perteneciente al municipio de Manicaragua: \n👉Cto 112 Hoyo Manicaragua \n👉Ctos 113 y 137 La Campana",
+    "timestamp": 1771951108,
+    "timestamp_local": 1771951108
+  },
+  {
+    "id": 41092,
+    "fecha": "24 de Feb del 2026 a las 11:29 AM",
+    "hora_utc": "2026-02-24 16:29",
+    "mensaje": "⚒ Manipulación de la línea 332 perteneciente al municipio de Manicaragua para reponer fase por alta en la subestacion afectando los siguientes circuitos: \n👉Cto 112 Hoyo Manicaragua \n👉Ctos 113 y 137 La Campana",
+    "timestamp": 1771950597,
+    "timestamp_local": 1771950597
+  },
+  {
+    "id": 41091,
+    "fecha": "24 de Feb del 2026 a las 11:04 AM",
+    "hora_utc": "2026-02-24 16:04",
+    "mensaje": "💡Con servicio el Cto 153 (EIDE), perteneciente al municipio Santa Clara.",
+    "timestamp": 1771949059,
+    "timestamp_local": 1771949059
+  },
+  {
+    "id": 41090,
+    "fecha": "24 de Feb del 2026 a las 11:03 AM",
+    "hora_utc": "2026-02-24 16:03",
+    "mensaje": "💡Con servicio la línea del 1960:\n🔹Municipio Encrucijada\n👉Cto 120 Calabazar\n👉Ctos 121 y 127 Perucho",
+    "timestamp": 1771949013,
+    "timestamp_local": 1771949013
+  },
+  {
+    "id": 41089,
+    "fecha": "24 de Feb del 2026 a las 11:01 AM",
+    "hora_utc": "2026-02-24 16:01",
+    "mensaje": "Afectados 55 MW en la provincia, demanda máxima a apagar en estos momentos.",
+    "timestamp": 1771948869,
+    "timestamp_local": 1771948869
+  },
+  {
     "id": 41088,
     "fecha": "24 de Feb del 2026 a las 10:28 AM",
     "hora_utc": "2026-02-24 15:28",
@@ -118,45 +158,5 @@
     "mensaje": "Con servicio la línea 1920:\n🔹Municipio Placetas:\n👉Ctos 101 y 145 Cumbre\n👉Cto 107 Baez\n👉Cto 105 Nazareno",
     "timestamp": 1771935578,
     "timestamp_local": 1771935578
-  },
-  {
-    "id": 41073,
-    "fecha": "24 de Feb del 2026 a las 07:09 AM",
-    "hora_utc": "2026-02-24 12:09",
-    "mensaje": "Restablecido parcialmente el circuito 13 (Zona Industrial), del municipio Santa Clara.",
-    "timestamp": 1771934943,
-    "timestamp_local": 1771934943
-  },
-  {
-    "id": 41072,
-    "fecha": "24 de Feb del 2026 a las 06:42 AM",
-    "hora_utc": "2026-02-24 11:42",
-    "mensaje": "🛠️Afectado por disparo el circuito 13 (Zona Industrial), del municipio Santa Clara. Se estudian las causas.",
-    "timestamp": 1771933342,
-    "timestamp_local": 1771933342
-  },
-  {
-    "id": 41071,
-    "fecha": "24 de Feb del 2026 a las 06:40 AM",
-    "hora_utc": "2026-02-24 11:40",
-    "mensaje": "🛠️Afectado por DAF (Disparo Automático por Frecuencia) la línea 1920:\nAfecta los siguientes circuitos:\n🔹Municipio Placetas:\n👉Ctos 101 y 145 Cumbre\n👉Cto 107 Baez\n👉Cto 105 Nazareno",
-    "timestamp": 1771933205,
-    "timestamp_local": 1771933205
-  },
-  {
-    "id": 41070,
-    "fecha": "24 de Feb del 2026 a las 06:04 AM",
-    "hora_utc": "2026-02-24 11:04",
-    "mensaje": "🕕Actualización del servicio eléctrico en las últimas 6 horas.\n✍️El déficit de capacidad de generación osciló entre los 50 MW y los 46 MW.\n✍️En el momento de esta nota, se mantienen afectados 93 circuitos.\n✍️Cuenta con 94 afectaciones por averías secundarias y de servicio:\n🔸Caibarién (1)\n🔸Camajuaní (7)\n🔸Corralillo (3)\n🔸Manicaragua (21)\n🔸Placetas (9)\n🔸Ranchuelo (2)\n🔸Remedios (6) \n🔸Sagua (9) \n🔸Santa Clara (26)\n🔸Santo Domingo (10)\n🛠️Se encuentran 6 averías en vías de solución.\n🛠️Pendientes a solucionar por el área técnica 15.\n⚡La provincia presenta 1 avería primaria en el circuito 60 (La Sierra), del municipio Corralillo, por fase primaria partida.",
-    "timestamp": 1771931094,
-    "timestamp_local": 1771931094
-  },
-  {
-    "id": 41069,
-    "fecha": "24 de Feb del 2026 a las 06:01 AM",
-    "hora_utc": "2026-02-24 11:01",
-    "mensaje": "⚠️Continúan afectados por déficit de capacidad de generación los siguientes circuitos:\n🔹Municipio Cifuentes:\n👉Ctos 114 y 117\n👉Ctos 116 y 155 Mata\n👉Cto 186 Batey Unidad Proletaria\n👉Cto 184 Sitio Grande",
-    "timestamp": 1771930902,
-    "timestamp_local": 1771930902
   }
 ]
