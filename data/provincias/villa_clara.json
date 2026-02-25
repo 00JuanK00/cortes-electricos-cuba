@@ -1,5 +1,37 @@
 [
   {
+    "id": 41138,
+    "fecha": "24 de Feb del 2026 a las 08:02 PM",
+    "hora_utc": "2026-02-25 01:02",
+    "mensaje": "⚡Se mantiene en avería línea  4608 afectando los siguientes circuitos, se estudian las causas:\n🔹Municipio Corralillo:  \n👉Cto 56 Yabre\n👉Cto 60 La Sierra\n👉Cto 55 Rancho Veloz",
+    "timestamp": 1771981369,
+    "timestamp_local": 1771981369
+  },
+  {
+    "id": 41137,
+    "fecha": "24 de Feb del 2026 a las 08:01 PM",
+    "hora_utc": "2026-02-25 01:01",
+    "mensaje": "Actualización del servicio eléctrico en la provincia🔸\n✍️Se mantienen afectados en la provincia 137 circuitos.\n✍️En el momento de hacer esta nota la provincia tiene 116 MW por déficit de capacidad de generación.\n✍️Cuenta con 69 afectaciones por averías secundarias y de servicio.",
+    "timestamp": 1771981296,
+    "timestamp_local": 1771981296
+  },
+  {
+    "id": 41136,
+    "fecha": "24 de Feb del 2026 a las 07:41 PM",
+    "hora_utc": "2026-02-25 00:41",
+    "mensaje": "⚠️Se mantiene disparada la Sub del Cto 25 (Los Güiros), perteneciente al municipio Santa Clara.",
+    "timestamp": 1771980104,
+    "timestamp_local": 1771980104
+  },
+  {
+    "id": 41135,
+    "fecha": "24 de Feb del 2026 a las 07:01 PM",
+    "hora_utc": "2026-02-25 00:01",
+    "mensaje": "Afectados 145 MW en la provincia, demanda máxima a apagar en estos momentos.",
+    "timestamp": 1771977663,
+    "timestamp_local": 1771977663
+  },
+  {
     "id": 41134,
     "fecha": "24 de Feb del 2026 a las 06:16 PM",
     "hora_utc": "2026-02-24 23:16",
@@ -126,37 +158,5 @@
     "mensaje": "⚠️Afectados por déficit de capacidad de generación los siguientes circuitos:\n🔹Municipio Placetas:\n👉Ctos 101 y 145 Cumbre\n🔹Municipio Quemado:\n👉Cto 52 Quemado.",
     "timestamp": 1771964132,
     "timestamp_local": 1771964132
-  },
-  {
-    "id": 41118,
-    "fecha": "24 de Feb del 2026 a las 03:10 PM",
-    "hora_utc": "2026-02-24 20:10",
-    "mensaje": "Afectados 52 MW en la provincia, demanda máxima a apagar en estos momentos.",
-    "timestamp": 1771963850,
-    "timestamp_local": 1771963850
-  },
-  {
-    "id": 41117,
-    "fecha": "24 de Feb del 2026 a las 03:10 PM",
-    "hora_utc": "2026-02-24 20:10",
-    "mensaje": "⚠️Afectados por déficit de capacidad de generación los siguientes circuitos:\n🔹Municipio Placetas \n👉Ctos 100 y 151 Placetas\n👉Cto 104 Hermanos Amejeira\n👉Cto 103 Batey Carbó Servía\n🔹Municipio Encrucijada:\n👉Cto 122 Encrucijada  \n👉Cto 123 Vizcaya \n👉Cto 142 Comunidad La Sierra \n👉Cto 126 Batey Emilio Córdova\n👉Cto 125 Cavarrocas\n👉Cto 124 El Santo\n🔹Municipio Camajuaní:                                                              \n👉Cto 78 Jutiero\n🔹Municipio Encrucijada\n👉Cto 120 Calabazar\n👉Ctos 121 y 127 Perucho\n🔹Municipio Quemado:\n👉Ctos 164 y 53 Quemado.\n👉Cto 196 Batey Panchito Gómez Toro.",
-    "timestamp": 1771963800,
-    "timestamp_local": 1771963800
-  },
-  {
-    "id": 41116,
-    "fecha": "24 de Feb del 2026 a las 02:38 PM",
-    "hora_utc": "2026-02-24 19:38",
-    "mensaje": "⚡En avería el Cto 110 (La Piedra), perteneciente al municipio Manicaragua, por primario partido.",
-    "timestamp": 1771961909,
-    "timestamp_local": 1771961909
-  },
-  {
-    "id": 41115,
-    "fecha": "24 de Feb del 2026 a las 02:29 PM",
-    "hora_utc": "2026-02-24 19:29",
-    "mensaje": "💡Con servicio la línea del 331:\n🔹Municipio Manicaragua:\n👉Ctos 109 y 150\n👉Ctos 108 y 110 La Piedra\n👉Cto 111 Mataguá",
-    "timestamp": 1771961380,
-    "timestamp_local": 1771961380
   }
 ]
