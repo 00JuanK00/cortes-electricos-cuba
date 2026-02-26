@@ -1,5 +1,21 @@
 [
   {
+    "id": 50132,
+    "fecha": "26 de Feb del 2026 a las 03:33 AM",
+    "hora_utc": "2026-02-26 08:33",
+    "mensaje": "🚨Disparo\nApertura no voluntaria de un interruptor como vía de protección para desconectar uno o varios elementos del circuito, subestación o sistema, restableciéndose el servicio rápidamente en dependencia de la causa.",
+    "timestamp": 1772094838,
+    "timestamp_local": 1772094838
+  },
+  {
+    "id": 50131,
+    "fecha": "26 de Feb del 2026 a las 03:33 AM",
+    "hora_utc": "2026-02-26 08:33",
+    "mensaje": "🔊Estimados clientes en estos momentos se encuentra Disparado el circuito 4 de Palma",
+    "timestamp": 1772094810,
+    "timestamp_local": 1772094810
+  },
+  {
     "id": 50130,
     "fecha": "26 de Feb del 2026 a las 01:49 AM",
     "hora_utc": "2026-02-26 06:49",
@@ -142,13 +158,5 @@
     "mensaje": "🚨 Estimados clientes se encuentra afectado por Déficit de Capacidad de Generación el servicio eléctrico del circuito 4 de Palma y la línea LI5395- San Luis, pedimos disculpas por las molestias ocasionadas.",
     "timestamp": 1772057989,
     "timestamp_local": 1772057989
-  },
-  {
-    "id": 50111,
-    "fecha": "25 de Feb del 2026 a las 04:13 PM",
-    "hora_utc": "2026-02-25 21:13",
-    "mensaje": "🔴Déficit de Capacidad de Generación:    \nSe produce cuando la demanda del Sistema Eléctrico Nacional, en determinado horario del día, supera la generación disponible del país, provocando la desconexión de los circuitos o líneas que permitan garantizar la frecuencia del SEN.",
-    "timestamp": 1772054011,
-    "timestamp_local": 1772054011
   }
 ]
