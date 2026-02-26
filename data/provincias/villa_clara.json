@@ -1,5 +1,37 @@
 [
   {
+    "id": 41291,
+    "fecha": "26 de Feb del 2026 a las 04:44 PM",
+    "hora_utc": "2026-02-26 21:44",
+    "mensaje": "⚠️Afectados por déficit de capacidad de generación los siguientes circuitos:\n👉Cto 132 SC Industrial\n👉Cto 162 SC Industrial",
+    "timestamp": 1772142277,
+    "timestamp_local": 1772142277
+  },
+  {
+    "id": 41290,
+    "fecha": "26 de Feb del 2026 a las 04:33 PM",
+    "hora_utc": "2026-02-26 21:33",
+    "mensaje": "⚠️Afectado por déficit de generación el circuito 31 SC Industrial.",
+    "timestamp": 1772141609,
+    "timestamp_local": 1772141609
+  },
+  {
+    "id": 41289,
+    "fecha": "26 de Feb del 2026 a las 04:27 PM",
+    "hora_utc": "2026-02-26 21:27",
+    "mensaje": "⚠️Afectados por déficit de capacidad de generación los siguientes circuitos:\n\n👉Municipio Santa Clara\nCto 7 (Universidad)  \nCto 146 (Elevado Aeropuerto) \nCto 22 (Construcciones Textil)\nCto 131 (Las Antillas)\nCto 25 (Los Güiros)\nCto 24 (Planta Asfalto)\nCto 35 (Biotecnología) \nCtos 15 y 27 (Maleza)",
+    "timestamp": 1772141241,
+    "timestamp_local": 1772141241
+  },
+  {
+    "id": 41288,
+    "fecha": "26 de Feb del 2026 a las 04:09 PM",
+    "hora_utc": "2026-02-26 21:09",
+    "mensaje": "🛠️Afectados por manipulación los circuitos 5 y 17 Cupet para realizar trabajos operativos.",
+    "timestamp": 1772140164,
+    "timestamp_local": 1772140164
+  },
+  {
     "id": 41287,
     "fecha": "26 de Feb del 2026 a las 04:01 PM",
     "hora_utc": "2026-02-26 21:01",
@@ -110,37 +142,5 @@
     "mensaje": "🔸Actualización del servicio eléctrico en la provincia🔸\n✍️Se mantienen afectados en la provincia 74 circuitos.\n✍️En el momento de hacer esta nota la provincia tiene 63 MW por déficit de capacidad de generación.\n✍️Cuenta con 80 afectaciones por averías secundarias y de servicio.",
     "timestamp": 1772132767,
     "timestamp_local": 1772132767
-  },
-  {
-    "id": 41271,
-    "fecha": "26 de Feb del 2026 a las 01:53 PM",
-    "hora_utc": "2026-02-26 18:53",
-    "mensaje": "💡Restablecido el servicio eléctrico en los siguientes circuitos:\n👉Municipio Placetas:\nCto 107 Baez\nCto 105 Nazareno",
-    "timestamp": 1772132032,
-    "timestamp_local": 1772132032
-  },
-  {
-    "id": 41270,
-    "fecha": "26 de Feb del 2026 a las 01:50 PM",
-    "hora_utc": "2026-02-26 18:50",
-    "mensaje": "💡Restablecido el servicio eléctrico en los siguientes circuitos:\n👉Municipio Sagua\nCtos 50 y 147 Villa Alegre",
-    "timestamp": 1772131846,
-    "timestamp_local": 1772131846
-  },
-  {
-    "id": 41269,
-    "fecha": "26 de Feb del 2026 a las 01:36 PM",
-    "hora_utc": "2026-02-26 18:36",
-    "mensaje": "⚡Afectado por avería el circuito 74 (José María Pérez) del municipio Camajuani. Se estudian las causas.",
-    "timestamp": 1772130979,
-    "timestamp_local": 1772130979
-  },
-  {
-    "id": 41268,
-    "fecha": "26 de Feb del 2026 a las 12:44 PM",
-    "hora_utc": "2026-02-26 17:44",
-    "mensaje": "💡Restablecido el servicio eléctrico en los siguientes circuitos:\n🔹Municipio Sagua\n👉Cto 48 Finalet \n👉Cto 46 Sitiecito\n 👉Cto 128 Sitiecito",
-    "timestamp": 1772127881,
-    "timestamp_local": 1772127881
   }
 ]
