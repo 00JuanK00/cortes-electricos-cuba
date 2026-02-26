@@ -1,5 +1,37 @@
 [
   {
+    "id": 41267,
+    "fecha": "26 de Feb del 2026 a las 12:11 PM",
+    "hora_utc": "2026-02-26 17:11",
+    "mensaje": "⚠️Afectados por déficit de capacidad de generación los siguientes circuitos:\n🔹 Municipio Camajuani:\n👉Ctos 73 y 156",
+    "timestamp": 1772125886,
+    "timestamp_local": 1772125886
+  },
+  {
+    "id": 41266,
+    "fecha": "26 de Feb del 2026 a las 12:07 PM",
+    "hora_utc": "2026-02-26 17:07",
+    "mensaje": "⚒Afectado por Vía Libre por trabajos operativos los siguientes circuitos: Municipio Sagua \n👉Cto 48 Finalet \n👉Cto 46 Sitiecito \n👉Cto 128 Sitiecito",
+    "timestamp": 1772125664,
+    "timestamp_local": 1772125664
+  },
+  {
+    "id": 41265,
+    "fecha": "26 de Feb del 2026 a las 11:53 AM",
+    "hora_utc": "2026-02-26 16:53",
+    "mensaje": "🕛Actualización del servicio eléctrico en las últimas 6 horas.\n\n👉El déficit de capacidad de generación osciló entre los 37 MW y los 60 MW.\n👉En el momento de esta nota, se mantienen afectados 74 circuitos.\n👉Cuenta con 90 afectaciones por averías secundarias y de servicio:\n Caibarién (1)\n Camajuaní (3)\n Cifuentes (1)\n Corralillo (5)\n Encrucijada (3)\n Manicaragua (9)\n Placetas (10)\n Ranchuelo (1)\n Remedios (10) \n Sagua (3) \n Santa Clara (27)\n Santo Domingo (1)\n🛠️Se encuentran 8 averías en vías de solución.\n\n🛠️Pendientes a solucionar por el área técnica 8.\n⚡Averías⚡\n⚡En avería el Cto 110 (La Piedra) de manera parcial, perteneciente al municipio Manicaragua, por primario partido.",
+    "timestamp": 1772124819,
+    "timestamp_local": 1772124819
+  },
+  {
+    "id": 41264,
+    "fecha": "26 de Feb del 2026 a las 11:44 AM",
+    "hora_utc": "2026-02-26 16:44",
+    "mensaje": "💡Restablecido el servicio eléctrico en los siguientes circuitos:\n👉Municipio Camajuaní:\nCtos  72  y 129",
+    "timestamp": 1772124261,
+    "timestamp_local": 1772124261
+  },
+  {
     "id": 41263,
     "fecha": "26 de Feb del 2026 a las 11:30 AM",
     "hora_utc": "2026-02-26 16:30",
@@ -126,37 +158,5 @@
     "mensaje": "➡️¿Qué es un disparo de circuito y porque ocurre?\n👉Los disparos de circuito tienen diferentes aristas todas con distintos significados, es decir que ocurren por varias causas. Entre ellas encontramos:\n\n1️⃣-Disparo de Circuito con Recierre: El conocido por los clientes como “quita y pon de corriente” es un tipo de protección utilizada mundialmente a partir del 80% aproximadamente de las interrupciones eléctricas son transitorias. Este fenómeno lo hace una sola vez ante un evento de red y no es dañino para para nuestros equipos electrodomésticos. \n\n2️⃣- Disparo Automático por Frecuencia (DAF):  El disparo por DAF ocurre cuando la frecuencia llega a valores mínimos permisibles que ponen en peligro la estabilidad del mismo y como protección desconecta varios circuitos de la Capital. Los mismo restablecen a medida que se vaya recuperando la frecuencia que tiene un valor de 60hz o ciclos por segundo.\n\n3️⃣-Disparo de Circuito por Sobrecarga: Este ocurre mayormente en los horarios pico y en verano, ya que las altas temperaturas generan elevados consumos en la población y como consecuencia de ello fallas en los circuitos.\n\n4️⃣-Disparo de Circuito por Posible Avería: Este fenómeno ocurre cuando existe una falla en algún circuito, ya sea soterrado, aéreo o en una subestación. Estas, a pesar de que son mucho más frecuentes cuando existe algún evento climatológico, pueden ocurrir en cualquier momento del día o la noche, ya que son situaciones que no cuentan con programación.",
     "timestamp": 1772115394,
     "timestamp_local": 1772115394
-  },
-  {
-    "id": 41247,
-    "fecha": "26 de Feb del 2026 a las 09:14 AM",
-    "hora_utc": "2026-02-26 14:14",
-    "mensaje": "⚡Afectado por disparo el circuito 74, José María Pérez del municipio Camajuani.",
-    "timestamp": 1772115297,
-    "timestamp_local": 1772115297
-  },
-  {
-    "id": 41246,
-    "fecha": "26 de Feb del 2026 a las 09:13 AM",
-    "hora_utc": "2026-02-26 14:13",
-    "mensaje": "🛠️Afectada por manipulación la Línea 75 perteneciente al municipio Ranchuelo para reponer transformador.\n👉Línea 75 \n🔸Municipio Ranchuelo: \nCtos 89, 97, 188 y 189\nCtos 148 y 149 San Juan\nCto 91 Batey Osvaldo Herrera\nCto 181 Batey Ifraín Alfonso",
-    "timestamp": 1772115231,
-    "timestamp_local": 1772115231
-  },
-  {
-    "id": 41245,
-    "fecha": "26 de Feb del 2026 a las 09:02 AM",
-    "hora_utc": "2026-02-26 14:02",
-    "mensaje": "La provincia presenta 2 afectaciones de servicio por Transformadores dañados:\n👉Municipio Sagua:Edif 3  e/ Rpto 26 de Julio . \n👉Municipio Ranchuelo: Camilo Cienfuegos e/ Calixto García y Antonio Maceo, afectando el Centro de Elaboración.",
-    "timestamp": 1772114578,
-    "timestamp_local": 1772114578
-  },
-  {
-    "id": 41243,
-    "fecha": "26 de Feb del 2026 a las 07:55 AM",
-    "hora_utc": "2026-02-26 12:55",
-    "mensaje": "🔸Actualización del servicio eléctrico en la provincia🔸\n✍️Se mantienen afectados en la provincia 83 circuitos.\n✍️En el momento de hacer esta nota la provincia tiene 50 MW por déficit de capacidad de generación.\n✍️Cuenta con 76 afectaciones por averías secundarias y de servicio.",
-    "timestamp": 1772110500,
-    "timestamp_local": 1772110500
   }
 ]
