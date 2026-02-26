@@ -1,5 +1,13 @@
 [
   {
+    "id": 18234,
+    "fecha": "26 de Feb del 2026 a las 05:18 PM",
+    "hora_utc": "2026-02-26 22:18",
+    "mensaje": "NOTA PARA INFORMAR LA MÁXIMA CAPACIDAD APAGABLE:\nEstimados clientes,\nLes informamos que, debido a la actual situación energética del país, nuestra provincia se encuentra operando bajo la máxima capacidad apagable. Esto significa que todos los circuitos eléctricos que pueden ser desconectados temporalmente están siendo utilizados para mantener el equilibrio del sistema nacional.\n\nQUE SIGNIFICA E IMPLICA LA MÁXIMA CAPACIDAD APAGABLE EN LA PROVINCIA: \nMáxima capacidad apagable se refiere al nivel máximo de demanda eléctrica que puede ser desconectada o suspendida temporalmente en la provincia, explica la complejidad del déficit de generación o contingencias en el sistema eléctrico.\nRepresenta el límite superior de la reducción de carga que la empresa puede lograr mediante cortes de energía (apagones). Cuanto mayor sea la máxima capacidad apagable, mayor será el déficit de energía.\n¿Qué implica esto?\nSe identifica cuántos circuitos pueden ser apagados para equilibrar la carga del sistema, esto imposibilita realizar rotaciones, pues a excepción de los servicios priorizados, se encuentran afectados todos los circuitos apagables del territorio. Podrán presentarse afectaciones en el servicio de electricidad durante varias horas al día y el tiempo con servicio dependerá del comportamiento del SEN. Esta medida es necesaria para evitar fallas mayores y proteger la infraestructura eléctrica.",
+    "timestamp": 1772144282,
+    "timestamp_local": 1772144282
+  },
+  {
     "id": 18232,
     "fecha": "26 de Feb del 2026 a las 11:25 AM",
     "hora_utc": "2026-02-26 16:25",
@@ -110,21 +118,5 @@
     "mensaje": "Nota Informativa: Estado del Sistema Eléctrico Nacional (SEN) – 24 de febrero de 2026\n\nEn el día de ayer se afectó el servicio por déficit de capacidad durante las 24 horas y se ha mantenido la afectación durante la madrugada de hoy. La máxima afectación por déficit de capacidad de generación en el día de ayer fue de 1748 MW a las 19:10 horas.\n\nLa producción de energía de los 51 nuevos parques solares fotovoltaicos fue de 4114 MWh, con 734 MW como máxima potencia entregada en el horario de la media con esta fuente de generación.\nEstado actual del SEN\n\nLa disponibilidad del SEN a las 06:00 horas es de 1230 MW, la demanda 1900 MW, con 662 MW afectados. En el horario de la media se estima una afectación de 950 MW.\nPrincipales incidencias\n\n    Avería: Unidad 2 de la CTE Santa Cruz, Unidad 2 de la CTE Felton y Unidades 5 y 6 de la CTE Antonio Maceo.\n    Mantenimiento: Unidad 6 de la CTE Mariel, Unidad 5 de la CTE Nuevitas, Unidad 4 de la CTE Carlos Manuel de Céspedes en Cienfuegos.\n    Limitaciones en la generación térmica: 378 MW fuera de servicio.\n\nPronóstico para el horario pico\n\nPara el pico se prevé una disponibilidad de 1230 MW con una demanda máxima de 3000 MW, para un déficit de 1770 MW, por lo que de mantenerse las condiciones previstas se pronostica una afectación de 1800 MW en este horario.",
     "timestamp": 1771938740,
     "timestamp_local": 1771938740
-  },
-  {
-    "id": 18214,
-    "fecha": "24 de Feb del 2026 a las 06:51 AM",
-    "hora_utc": "2026-02-24 11:51",
-    "mensaje": "Se afectan por déficit de generación los siguientes circuitos:\nCircuito 33 Kv: 6230\nTK59 Vedado 3\nTK67 Porcino\nTK68 Vedado 6\nTK69 Poblado de Menéndez\nTK70 Transporte\nTK99 Santa Marías\nTK98 San Manuel, La Pedrera\nTK64 Palma Picada\nCircuito 33 Kv: 6100\nTK35 Puerto Manatí\nTK36 El Raúl\nTK22 Aeropuerto\nTK23 Veguita \nTK32 Fleytas \nTK30 Meriño\nTK93 Batey Delicias\nTK48 Puerto Padre y Maniabón\nTK5 Buena Vista, Los Pinos\nCircuito 33 Kv: 6470-6300\nTK13 Yariguá \nTJ11 Bartle \nTK91 Macagua \nTK87 Pueblo Jobabo\nTK90 Escuela Especial Jobabo\n6470 Mina de Oro, Las Margaritas\nTK20 Becerra \nTK21 Tunazúcar\nTK50 Vázquez \nTK53 La Morena y El Malecón \nTK47 La Micro Puerto Padre\nTK18 Las 40, Sosa \nTK106 Palancón, Buena Vista\nTK19 San Antonio, Km 7\nTK29 Circunvalación Sur, Oro Negro \nTK25 Cuatro Caminos, Dormitorio\nTK7 La Victoria\nCircuito 33 Kv: 6810\nTK82 Tana\nTK83 Las Maboas\nTK113 La Aurora\nTK74 La Lomita\nTK110 El Batey\n6810 Poblado Amancio\nTK40 Vista Alegre",
-    "timestamp": 1771933888,
-    "timestamp_local": 1771933888
-  },
-  {
-    "id": 18213,
-    "fecha": "23 de Feb del 2026 a las 10:17 PM",
-    "hora_utc": "2026-02-24 03:17",
-    "mensaje": "Agradecemos el esfuerzo de nuestros linieros, personal técnico y administrativos, quienes trabajaron con dedicación en el cambio del transformador dañado en el reparto La Victoria, municipio Las Tunas, con la finalidad de restablecer el servicio eléctrico y solucionar las afectaciones a nuestros clientes.",
-    "timestamp": 1771903067,
-    "timestamp_local": 1771903067
   }
 ]
