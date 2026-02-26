@@ -1,5 +1,21 @@
 [
   {
+    "id": 32983,
+    "fecha": "25 de Feb del 2026 a las 08:27 PM",
+    "hora_utc": "2026-02-26 01:27",
+    "mensaje": "🪫 La provincia se encuentra en el máximo apagable con un déficit de capacidad de generación de 126 MW.\n\n🔄 Una vez que podamos rotar el servicio, iremos restableciendo de manera paulatina los circuitos que han estado más tiempo sin suministro en dependencia del comportamiento de la demanda y la disponibilidad del sistema eléctrico.",
+    "timestamp": 1772069255,
+    "timestamp_local": 1772069255
+  },
+  {
+    "id": 32982,
+    "fecha": "25 de Feb del 2026 a las 07:58 PM",
+    "hora_utc": "2026-02-26 00:58",
+    "mensaje": "🇨🇺 Actualización del Sistema Electroenergético Nacional a las 19:00 del 25 de febrero de 2026.\n\nIncidencias:\n17:20 En linea la unidad 5 CTE Antonio Maceo (Renté).",
+    "timestamp": 1772067480,
+    "timestamp_local": 1772067480
+  },
+  {
     "id": 32981,
     "fecha": "25 de Feb del 2026 a las 06:57 PM",
     "hora_utc": "2026-02-25 23:57",
@@ -142,21 +158,5 @@
     "mensaje": "💡💡✅✅**Servicio restablecido**✅✅ 💡💡\n\n🔌__ Circuito 1452 que da servicio a Laboratorio Epidemiología, Tele Centro, Los Mangos.__",
     "timestamp": 1772031433,
     "timestamp_local": 1772031433
-  },
-  {
-    "id": 32960,
-    "fecha": "25 de Feb del 2026 a las 08:48 AM",
-    "hora_utc": "2026-02-25 13:48",
-    "mensaje": "💡💡✅✅**Servicio restablecido**✅✅ 💡💡\n\n- Circuito MI1451 que da servicio a Armando Mestre, Quintanales, Reparto Lozano, Kilómetro.",
-    "timestamp": 1772027318,
-    "timestamp_local": 1772027318
-  },
-  {
-    "id": 32959,
-    "fecha": "25 de Feb del 2026 a las 08:47 AM",
-    "hora_utc": "2026-02-25 13:47",
-    "mensaje": "💡Los circuitos __próximos a restablecer el servicio: __\n\n__🔌 Circuito 1452 que da servicio a Laboratorio Epidemiología, Tele Centro, Los Mangos.__\n\n__🔌 Circuito MJ 147 Rebombeo de la Cumbre y desde calle Poza hasta Santa Cristina y desde San Isidro hasta Aranguren.__",
-    "timestamp": 1772027241,
-    "timestamp_local": 1772027241
   }
 ]
