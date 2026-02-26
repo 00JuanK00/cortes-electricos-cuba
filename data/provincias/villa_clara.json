@@ -1,5 +1,53 @@
 [
   {
+    "id": 41250,
+    "fecha": "26 de Feb del 2026 a las 09:33 AM",
+    "hora_utc": "2026-02-26 14:33",
+    "mensaje": "⚠️Afectada por DAF la Línea 6580.\n\n👉Línea 6580\n🔸Municipio Camajuaní:\nCtos 77 y 185 Vueltas",
+    "timestamp": 1772116421,
+    "timestamp_local": 1772116421
+  },
+  {
+    "id": 41249,
+    "fecha": "26 de Feb del 2026 a las 09:23 AM",
+    "hora_utc": "2026-02-26 14:23",
+    "mensaje": "💡Restablecido el servicio eléctrico en los siguientes circuitos:\n👉Municipio Encrucijada\nCto 120 Calabazar\nCtos 121 y 127 Perucho",
+    "timestamp": 1772115824,
+    "timestamp_local": 1772115824
+  },
+  {
+    "id": 41248,
+    "fecha": "26 de Feb del 2026 a las 09:16 AM",
+    "hora_utc": "2026-02-26 14:16",
+    "mensaje": "➡️¿Qué es un disparo de circuito y porque ocurre?\n👉Los disparos de circuito tienen diferentes aristas todas con distintos significados, es decir que ocurren por varias causas. Entre ellas encontramos:\n\n1️⃣-Disparo de Circuito con Recierre: El conocido por los clientes como “quita y pon de corriente” es un tipo de protección utilizada mundialmente a partir del 80% aproximadamente de las interrupciones eléctricas son transitorias. Este fenómeno lo hace una sola vez ante un evento de red y no es dañino para para nuestros equipos electrodomésticos. \n\n2️⃣- Disparo Automático por Frecuencia (DAF):  El disparo por DAF ocurre cuando la frecuencia llega a valores mínimos permisibles que ponen en peligro la estabilidad del mismo y como protección desconecta varios circuitos de la Capital. Los mismo restablecen a medida que se vaya recuperando la frecuencia que tiene un valor de 60hz o ciclos por segundo.\n\n3️⃣-Disparo de Circuito por Sobrecarga: Este ocurre mayormente en los horarios pico y en verano, ya que las altas temperaturas generan elevados consumos en la población y como consecuencia de ello fallas en los circuitos.\n\n4️⃣-Disparo de Circuito por Posible Avería: Este fenómeno ocurre cuando existe una falla en algún circuito, ya sea soterrado, aéreo o en una subestación. Estas, a pesar de que son mucho más frecuentes cuando existe algún evento climatológico, pueden ocurrir en cualquier momento del día o la noche, ya que son situaciones que no cuentan con programación.",
+    "timestamp": 1772115394,
+    "timestamp_local": 1772115394
+  },
+  {
+    "id": 41247,
+    "fecha": "26 de Feb del 2026 a las 09:14 AM",
+    "hora_utc": "2026-02-26 14:14",
+    "mensaje": "⚡Afectado por disparo el circuito 74, José María Pérez del municipio Camajuani.",
+    "timestamp": 1772115297,
+    "timestamp_local": 1772115297
+  },
+  {
+    "id": 41246,
+    "fecha": "26 de Feb del 2026 a las 09:13 AM",
+    "hora_utc": "2026-02-26 14:13",
+    "mensaje": "🛠️Afectada por manipulación la Línea 75 perteneciente al municipio Ranchuelo para reponer transformador.\n👉Línea 75 \n🔸Municipio Ranchuelo: \nCtos 89, 97, 188 y 189\nCtos 148 y 149 San Juan\nCto 91 Batey Osvaldo Herrera\nCto 181 Batey Ifraín Alfonso",
+    "timestamp": 1772115231,
+    "timestamp_local": 1772115231
+  },
+  {
+    "id": 41245,
+    "fecha": "26 de Feb del 2026 a las 09:02 AM",
+    "hora_utc": "2026-02-26 14:02",
+    "mensaje": "La provincia presenta 2 afectaciones de servicio por Transformadores dañados:\n👉Municipio Sagua:Edif 3  e/ Rpto 26 de Julio . \n👉Municipio Ranchuelo: Camilo Cienfuegos e/ Calixto García y Antonio Maceo, afectando el Centro de Elaboración.",
+    "timestamp": 1772114578,
+    "timestamp_local": 1772114578
+  },
+  {
     "id": 41243,
     "fecha": "26 de Feb del 2026 a las 07:55 AM",
     "hora_utc": "2026-02-26 12:55",
@@ -27,7 +75,7 @@
     "id": 41240,
     "fecha": "26 de Feb del 2026 a las 06:31 AM",
     "hora_utc": "2026-02-26 11:31",
-    "mensaje": "🛠️Afectados por realizar una Via Libre para converciones en los Ctos pertenecientes a la línea 108 en conjunto con el Cto 13 Zona Industrial.\n➡️Linea 108\n🔹Municipio Ranchuelo:\n👉Cto 92 Esperanza (Pueblo)\n👉Cto 93 Esperanza (Campo)\n👉Ctos 54, 94 y 95 Jicotea\n🔹Municipio Santa Clara\n👉Ctos 26 y 141 (Manuelita)\n👉Cto 191 (Quemado de Hilario)                                           \n🔹Municipio Santo Domingo\n👉Cto 79 (Santo Domingo)\n👉Cto 81 (26 de Julio)\n👉Cto 163 (Batey 26 de Julio",
+    "mensaje": "🛠️Afectados para realizar una Via Libre para converciones en los Ctos pertenecientes a la línea 108 en conjunto con el Cto 13 Zona Industrial.\n➡️Linea 108\n🔹Municipio Ranchuelo:\n👉Cto 92 Esperanza (Pueblo)\n👉Cto 93 Esperanza (Campo)\n👉Ctos 54, 94 y 95 Jicotea\n🔹Municipio Santa Clara\n👉Ctos 26 y 141 (Manuelita)\n👉Cto 191 (Quemado de Hilario)                                           \n🔹Municipio Santo Domingo\n👉Cto 79 (Santo Domingo)\n👉Cto 81 (26 de Julio)\n👉Cto 163 (Batey 26 de Julio",
     "timestamp": 1772105465,
     "timestamp_local": 1772105465
   },
@@ -102,45 +150,5 @@
     "mensaje": "🚨Usted puede mantenerse informado por nuestras redes🛜, y unirse a nuestro canal de Telegram, para usted trabajamos🛠️ , para darle una actualización  clara y precisa de cómo se está comportando el Sistema Eléctrico Nacional💡, puede llamar☎️ al 18888, donde prestamos servicio las 24 horas.",
     "timestamp": 1772078957,
     "timestamp_local": 1772078957
-  },
-  {
-    "id": 41229,
-    "fecha": "25 de Feb del 2026 a las 10:06 PM",
-    "hora_utc": "2026-02-26 03:06",
-    "mensaje": "🔸Actualización del servicio eléctrico en la provincia🔸\n✍️Se mantienen afectados en la provincia 105 circuitos.\n✍️En el momento de hacer esta nota la provincia tiene 69 MW por déficit de capacidad de generación.\n✍️Cuenta con 72 afectaciones por averías secundarias y de servicio.",
-    "timestamp": 1772075209,
-    "timestamp_local": 1772075209
-  },
-  {
-    "id": 41228,
-    "fecha": "25 de Feb del 2026 a las 09:42 PM",
-    "hora_utc": "2026-02-26 02:42",
-    "mensaje": "Afectados 76 MW en la provincia, demanda máxima a apagar en estos momentos.",
-    "timestamp": 1772073760,
-    "timestamp_local": 1772073760
-  },
-  {
-    "id": 41226,
-    "fecha": "25 de Feb del 2026 a las 08:08 PM",
-    "hora_utc": "2026-02-26 01:08",
-    "mensaje": "🇨🇺 Actualización del Sistema Electroenergético Nacional a las 19:00 del 25 de febrero de 2026.\n\nIncidencias:\n17:20 En linea la unidad 5 CTE Antonio Maceo (Renté).\n\n#UnidosXCuba #NotaInformativa #UniónEléctrica #SEN",
-    "timestamp": 1772068099,
-    "timestamp_local": 1772068099
-  },
-  {
-    "id": 41225,
-    "fecha": "25 de Feb del 2026 a las 07:57 PM",
-    "hora_utc": "2026-02-26 00:57",
-    "mensaje": "🔸Actualización del servicio eléctrico en la provincia🔸\n✍️Se mantienen afectados en la provincia 105 circuitos.\n✍️En el momento de hacer esta nota la provincia tiene 109 MW por déficit de capacidad de generación.\n✍️Cuenta con 73 afectaciones por averías secundarias y de servicio.",
-    "timestamp": 1772067444,
-    "timestamp_local": 1772067444
-  },
-  {
-    "id": 41224,
-    "fecha": "25 de Feb del 2026 a las 07:31 PM",
-    "hora_utc": "2026-02-26 00:31",
-    "mensaje": "📣Recordamos a nuestros clientes📣\n \n1️⃣ Si presenta o conoce alguna avería, haga su reporte al Centro de Atención Telefónico mediante el 18888, estamos a su servicio.\n2️⃣ Conocer de forma exacta la dirección de su vivienda (número de casa, calle, entre calles, reparto, localidad)                      \n3️⃣ Ubicar un punto de referencia, que permita llegar hasta su vivienda con mayor rapidez (lugar o persona reconocida en la zona)\n4️⃣ En caso de un cable caído, aunque usted crea que no está energizado, NO LO TOQUE. Repórtelo y preserve el lugar, hasta que llegue el personal de la Empresa.\n5️⃣ Anote el número de su reporte para ser utilizado en caso de reclamaciones, o para comprobar el estado del mismo.\n6️⃣ Si usted tiene servicio eléctrico, pero existen variaciones del voltaje, desconecte los equipos, para que no se dañen.",
-    "timestamp": 1772065893,
-    "timestamp_local": 1772065893
   }
 ]

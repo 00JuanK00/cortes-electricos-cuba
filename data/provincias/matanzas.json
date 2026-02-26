@@ -1,5 +1,21 @@
 [
   {
+    "id": 33004,
+    "fecha": "26 de Feb del 2026 a las 09:05 AM",
+    "hora_utc": "2026-02-26 14:05",
+    "mensaje": "⚡En estos momentos tenemos afectados 59 MW en la provincia por déficit de capacidad de generación.⚡",
+    "timestamp": 1772114751,
+    "timestamp_local": 1772114751
+  },
+  {
+    "id": 33003,
+    "fecha": "26 de Feb del 2026 a las 09:01 AM",
+    "hora_utc": "2026-02-26 14:01",
+    "mensaje": "🔔Al cierre de las 09:00 am día 26 de febrero se encuentran 133 reportes pendientes en el sistema. El desglose por municipio es el siguiente: \n\n🔶Matanzas---------91\n🔶P. Betancourt---------1\n🔶Calimete--------4\n🔶Cárdenas---------2\n🔶Jovellanos--------7\n🔶Perico------------9\n🔶Colón---------3\n🔶Los Arabos--------2\n🔶Unión de Reyes---------6\n🔶Jagüey Grande--------4\n🔶Limonar---------3\n🔶Varadero-----------1\n\nNuestros Linieros no descansarán hasta que todos los clientes con quejas pendientes estén con servicio",
+    "timestamp": 1772114461,
+    "timestamp_local": 1772114461
+  },
+  {
     "id": 33002,
     "fecha": "26 de Feb del 2026 a las 08:39 AM",
     "hora_utc": "2026-02-26 13:39",
@@ -142,21 +158,5 @@
     "mensaje": "🚨🚨Se le informa a la población que la provincia presenta una afectación de 111 MW .",
     "timestamp": 1772072227,
     "timestamp_local": 1772072227
-  },
-  {
-    "id": 32983,
-    "fecha": "25 de Feb del 2026 a las 08:27 PM",
-    "hora_utc": "2026-02-26 01:27",
-    "mensaje": "🪫 La provincia se encuentra en el máximo apagable con un déficit de capacidad de generación de 126 MW.\n\n🔄 Una vez que podamos rotar el servicio, iremos restableciendo de manera paulatina los circuitos que han estado más tiempo sin suministro en dependencia del comportamiento de la demanda y la disponibilidad del sistema eléctrico.",
-    "timestamp": 1772069255,
-    "timestamp_local": 1772069255
-  },
-  {
-    "id": 32982,
-    "fecha": "25 de Feb del 2026 a las 07:58 PM",
-    "hora_utc": "2026-02-26 00:58",
-    "mensaje": "🇨🇺 Actualización del Sistema Electroenergético Nacional a las 19:00 del 25 de febrero de 2026.\n\nIncidencias:\n17:20 En linea la unidad 5 CTE Antonio Maceo (Renté).",
-    "timestamp": 1772067480,
-    "timestamp_local": 1772067480
   }
 ]
