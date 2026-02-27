@@ -1,5 +1,29 @@
 [
   {
+    "id": 41325,
+    "fecha": "27 de Feb del 2026 a las 11:01 AM",
+    "hora_utc": "2026-02-27 16:01",
+    "mensaje": "✍Estimados clientes:\n👉Por inestabilidad en el sistema se ha encontrado afectado el servicio eléctrico en reiteradas ocasiones en línea 6580 ( Poblado de Vueltas) por lo que le exhortamos a desconectar sus equipos y una vez restablecido el servicio esperar un tiempo para la reconexión de los mismos.",
+    "timestamp": 1772208083,
+    "timestamp_local": 1772208083
+  },
+  {
+    "id": 41324,
+    "fecha": "27 de Feb del 2026 a las 10:36 AM",
+    "hora_utc": "2026-02-27 15:36",
+    "mensaje": "⚠️Afectados por déficit de capacidad de generación los siguientes circuitos:\n🔹Municipio Encrucijada:\n👉Cto 122 Encrucijada  \n👉Cto 123 Vizcaya \n👉Cto 142 Comunidad La Sierra \n👉Cto 126 Batey Emilio Córdova\n👉Cto 125 Cavarrocas\n👉Cto 124 El Santo\n🔹Municipio Camajuaní:                                                              \n👉Cto 78 Jutiero\n👉Cto 75 La Quinta \n👉Cto 157 Luis Arcos Bergnes \n👉Ctos 76 y 90 Vega Alta",
+    "timestamp": 1772206610,
+    "timestamp_local": 1772206610
+  },
+  {
+    "id": 41323,
+    "fecha": "27 de Feb del 2026 a las 10:27 AM",
+    "hora_utc": "2026-02-27 15:27",
+    "mensaje": "Con servicio la línea 108:\n🔹Municipio Ranchuelo:\n👉Cto 92 Esperanza (Pueblo)\n👉Cto 93 Esperanza (Campo)\n👉Ctos 54, 94 y 95 Jicotea\n🔹Municipio Santa Clara\n👉Ctos 26 y 141 (Manuelita)\n👉Cto 191 (Quemado de Hilario)                                           \n🔹Municipio Santo Domingo\n👉Cto 79 (Santo Domingo)\n👉Cto 81 (26 de Julio)\n👉Cto 163 (Batey 26 de Julio",
+    "timestamp": 1772206060,
+    "timestamp_local": 1772206060
+  },
+  {
     "id": 41322,
     "fecha": "27 de Feb del 2026 a las 10:20 AM",
     "hora_utc": "2026-02-27 15:20",
@@ -110,21 +134,5 @@
     "mensaje": "🤔Ante cualquier duda con la terminología eléctrica, les volvemos explicar: \n     \n1️⃣Las averías pueden ser primarias (afecta un volumen grande de población pues son las líneas de distribución a 13.8kV y puede afectar varias manzanas, incluso repartos completos).\n\n2️⃣Secundarias (afecta a todos los clientes que se alimenten del mismo transformador, puede afectar una o varias cuadras). \n\n3️⃣De servicio (afectan 1 solo cliente o instalación generalmente producto a daños en la acometida, metro contador, etc.).",
     "timestamp": 1772173425,
     "timestamp_local": 1772173425
-  },
-  {
-    "id": 41305,
-    "fecha": "27 de Feb del 2026 a las 12:06 AM",
-    "hora_utc": "2026-02-27 05:06",
-    "mensaje": "🕛Actualización del servicio eléctrico en las últimas 6 horas.\n\n👉El déficit de capacidad de generación osciló entre los 118 MW y los 80 MW.\n👉En el momento de esta nota, se mantienen afectados 140 circuitos.\n👉Cuenta con 78 afectaciones por averías secundarias y de servicio:\n Caibarién (1)\n Corralillo (6)\n Manicaragua (14)\n Placetas (7)\n Ranchuelo (3)\n Remedios (2) \n Sagua (1) \n Santa Clara (24)\n Santo Domingo (3)\n🛠️Se encuentran 3 averías en vías de solución.\n🛠️Pendientes a solucionar por el área técnica 14.\n\n⚡Avería⚡\n⚡En avería el Cto 110 (La Piedra) de manera parcial, perteneciente al municipio Manicaragua, por primario partido.",
-    "timestamp": 1772168771,
-    "timestamp_local": 1772168771
-  },
-  {
-    "id": 41304,
-    "fecha": "26 de Feb del 2026 a las 10:55 PM",
-    "hora_utc": "2026-02-27 03:55",
-    "mensaje": "Afectados 93 MW en la provincia, demanda máxima a apagar en estos momentos.",
-    "timestamp": 1772164505,
-    "timestamp_local": 1772164505
   }
 ]
