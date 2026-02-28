@@ -1,5 +1,37 @@
 [
   {
+    "id": 41417,
+    "fecha": "28 de Feb del 2026 a las 04:02 PM",
+    "hora_utc": "2026-02-28 21:02",
+    "mensaje": "🔸Actualización del servicio eléctrico en la provincia🔸\n✍️Se mantienen afectados en la provincia 121 circuitos.\n✍️En el momento de hacer esta nota la provincia tiene 104 MW por déficit de capacidad de generación.\n✍️Cuenta con 88 afectaciones por averías secundarias y de servicio.",
+    "timestamp": 1772312550,
+    "timestamp_local": 1772312550
+  },
+  {
+    "id": 41416,
+    "fecha": "28 de Feb del 2026 a las 04:01 PM",
+    "hora_utc": "2026-02-28 21:01",
+    "mensaje": "⚡Se mantiene en avería el Cto 86 (Pajarito) perteneciente al municipio Santo Domingo, por cable primario partido.",
+    "timestamp": 1772312463,
+    "timestamp_local": 1772312463
+  },
+  {
+    "id": 41415,
+    "fecha": "28 de Feb del 2026 a las 03:57 PM",
+    "hora_utc": "2026-02-28 20:57",
+    "mensaje": "💡Con servicio los siguientes circuitos de la Línea del 1720:\n🔹Municipio Santo Domingo:\n👉Cto 195 Batey George Washington\n👉Ctos 83 y 165 Manacas\n👉Ctos 85 Pajarito\n👉Ctos 160 y 161 Cascajal",
+    "timestamp": 1772312258,
+    "timestamp_local": 1772312258
+  },
+  {
+    "id": 41414,
+    "fecha": "28 de Feb del 2026 a las 03:56 PM",
+    "hora_utc": "2026-02-28 20:56",
+    "mensaje": "Afectados por déficit de capacidad de generación los siguientes circuitos:\n🔹Municipio Santo Domingo:\n👉Cto 134\n👉Ctos 87 y 96 Bermejal\n👉Cto 187 Batey Carlos Baliño\n👉Cto 82 Ulacia\n👉Cto 84 Rodrigo",
+    "timestamp": 1772312186,
+    "timestamp_local": 1772312186
+  },
+  {
     "id": 41413,
     "fecha": "28 de Feb del 2026 a las 03:34 PM",
     "hora_utc": "2026-02-28 20:34",
@@ -11,7 +43,7 @@
     "id": 41412,
     "fecha": "28 de Feb del 2026 a las 03:33 PM",
     "hora_utc": "2026-02-28 20:33",
-    "mensaje": "Afectado por déficit de capacidad de generación el siguiente circuito:\n🔹Municipio Santa Clara:\n👉Cto 6 (Vigía)\n👉Cto 153 (EIDE)",
+    "mensaje": "Afectados por déficit de capacidad de generación los siguientes circuitos:\n🔹Municipio Santa Clara:\n👉Cto 6 (Vigía)\n👉Cto 153 (EIDE)",
     "timestamp": 1772310780,
     "timestamp_local": 1772310780
   },
@@ -126,37 +158,5 @@
     "mensaje": "🛠️En Vía Libre la línea del 332 por trabajos en el parque solar :\n🔹Municipio Manicaragua:\n👉Ctos 113 y 137 La Campana\n👉Cto 112 Hoyo Manicaragua",
     "timestamp": 1772297604,
     "timestamp_local": 1772297604
-  },
-  {
-    "id": 41397,
-    "fecha": "28 de Feb del 2026 a las 11:41 AM",
-    "hora_utc": "2026-02-28 16:41",
-    "mensaje": "Afectados por déficit de capacidad de generación los siguientes circuitos:\n🔹Municipio Sagua\n👉Ctos 43, 51 Sagua\n👉Ctos 50 y 147 Villa Alegre",
-    "timestamp": 1772296892,
-    "timestamp_local": 1772296892
-  },
-  {
-    "id": 41396,
-    "fecha": "28 de Feb del 2026 a las 11:04 AM",
-    "hora_utc": "2026-02-28 16:04",
-    "mensaje": "Afectados 88 MW en la provincia, demanda máxima a apagar en estos momentos.",
-    "timestamp": 1772294689,
-    "timestamp_local": 1772294689
-  },
-  {
-    "id": 41395,
-    "fecha": "28 de Feb del 2026 a las 10:46 AM",
-    "hora_utc": "2026-02-28 15:46",
-    "mensaje": "Afectados por déficit de capacidad de generación los siguientes circuitos:\n🔹Municipio Caibarién: \n👉Ctos 61, 62\n👉Ctos 182 y 183 Van Troy\n🔹Municipio Quemado:\n👉Ctos 164, 52 y 53 Quemado\n👉Cto 196 Batey Panchito Gómez Toro",
-    "timestamp": 1772293604,
-    "timestamp_local": 1772293604
-  },
-  {
-    "id": 41394,
-    "fecha": "28 de Feb del 2026 a las 10:12 AM",
-    "hora_utc": "2026-02-28 15:12",
-    "mensaje": "💡Con servicio el Cto181 (Batey Ifraín Alfonso), del municipio Ranchuelo.",
-    "timestamp": 1772291550,
-    "timestamp_local": 1772291550
   }
 ]
