@@ -1,5 +1,21 @@
 [
   {
+    "id": 50225,
+    "fecha": "28 de Feb del 2026 a las 11:25 AM",
+    "hora_utc": "2026-02-28 16:25",
+    "mensaje": "🔴Estimados clientes en estos momentos se encuentran afectados por Déficit el circuito 2 , Línea 4390-Contramaestre y Línea 5975-Baconao.",
+    "timestamp": 1772295921,
+    "timestamp_local": 1772295921
+  },
+  {
+    "id": 50224,
+    "fecha": "28 de Feb del 2026 a las 11:03 AM",
+    "hora_utc": "2026-02-28 16:03",
+    "mensaje": "🚨Estimados clientes en estos momentos se incorpora a la afectación por Déficit el circuito 16 .",
+    "timestamp": 1772294603,
+    "timestamp_local": 1772294603
+  },
+  {
     "id": 50222,
     "fecha": "28 de Feb del 2026 a las 09:35 AM",
     "hora_utc": "2026-02-28 14:35",
@@ -102,21 +118,5 @@
     "mensaje": "🔴Estimados clientes se les informa que se incorpora a la afectación el circuito 1 de Palma .",
     "timestamp": 1772237950,
     "timestamp_local": 1772237950
-  },
-  {
-    "id": 50205,
-    "fecha": "27 de Feb del 2026 a las 07:16 PM",
-    "hora_utc": "2026-02-28 00:16",
-    "mensaje": "🔴Estimados clientes se les informa que se incorporan a la afectación el circuito 8 y la línea 5390 San Luis.",
-    "timestamp": 1772237818,
-    "timestamp_local": 1772237818
-  },
-  {
-    "id": 50204,
-    "fecha": "27 de Feb del 2026 a las 06:46 PM",
-    "hora_utc": "2026-02-27 23:46",
-    "mensaje": "Circuito en avería:                                                                                                                          Sucede si un circuito se interrumpe por causa de un defecto en un cable conductor de corriente (fase o neutro), un fusible fundido o disyuntor. En sistemas trifásicos una falla puede implicar una fase, más de una fase con la tierra o puede ocurrir solo entre fases.",
-    "timestamp": 1772235965,
-    "timestamp_local": 1772235965
   }
 ]
