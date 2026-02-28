@@ -1,5 +1,21 @@
 [
   {
+    "id": 50236,
+    "fecha": "28 de Feb del 2026 a las 04:36 PM",
+    "hora_utc": "2026-02-28 21:36",
+    "mensaje": "🔴Déficit de Capacidad de Generación:    \nSe produce cuando la demanda del Sistema Eléctrico Nacional, en determinado horario del día, supera la generación disponible del país, provocando la desconexión de los circuitos o líneas que permitan garantizar la frecuencia del SEN.",
+    "timestamp": 1772314562,
+    "timestamp_local": 1772314562
+  },
+  {
+    "id": 50235,
+    "fecha": "28 de Feb del 2026 a las 04:34 PM",
+    "hora_utc": "2026-02-28 21:34",
+    "mensaje": "🔴Estimados clientes en estos momentos se encuentran afectados por Déficit la Línea 5330-Cristo y los circuitos 11, 20, 16 y 12.",
+    "timestamp": 1772314491,
+    "timestamp_local": 1772314491
+  },
+  {
     "id": 50233,
     "fecha": "28 de Feb del 2026 a las 03:00 PM",
     "hora_utc": "2026-02-28 20:00",
@@ -110,13 +126,5 @@
     "mensaje": "🔴Estimados clientes se les informa que se incorporan a la afectación los circuitos 1 , la línea 5395 San Luis , y los circuitos 23 y 19 .",
     "timestamp": 1772282256,
     "timestamp_local": 1772282256
-  },
-  {
-    "id": 50216,
-    "fecha": "28 de Feb del 2026 a las 05:58 AM",
-    "hora_utc": "2026-02-28 10:58",
-    "mensaje": "🔴Estimados clientes se les informa que se incorporan a la afectación los circuitos 11 , 16 , 20 y 12.",
-    "timestamp": 1772276286,
-    "timestamp_local": 1772276286
   }
 ]
