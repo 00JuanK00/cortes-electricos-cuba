@@ -1,5 +1,21 @@
 [
   {
+    "id": 41440,
+    "fecha": "01 de Mar del 2026 a las 02:05 AM",
+    "hora_utc": "2026-03-01 07:05",
+    "mensaje": "🔸Actualización del servicio eléctrico en la provincia🔸\n✍️Se mantienen afectados en la provincia 121 circuitos.\n✍️En el momento de hacer esta nota la provincia tiene 53 MW por déficit de capacidad de generación.\n✍️Cuenta con 72 afectaciones por averías secundarias y de servicio.",
+    "timestamp": 1772348703,
+    "timestamp_local": 1772348703
+  },
+  {
+    "id": 41439,
+    "fecha": "01 de Mar del 2026 a las 01:59 AM",
+    "hora_utc": "2026-03-01 06:59",
+    "mensaje": "⚠️Afectado por manipulación el Cto 1 (Centro), perteneciente al municipio Santa Clara.",
+    "timestamp": 1772348364,
+    "timestamp_local": 1772348364
+  },
+  {
     "id": 41438,
     "fecha": "01 de Mar del 2026 a las 01:20 AM",
     "hora_utc": "2026-03-01 06:20",
@@ -142,21 +158,5 @@
     "mensaje": "Afectados 115 MW en la provincia, demanda máxima a apagar en estos momentos.",
     "timestamp": 1772316265,
     "timestamp_local": 1772316265
-  },
-  {
-    "id": 41420,
-    "fecha": "28 de Feb del 2026 a las 04:40 PM",
-    "hora_utc": "2026-02-28 21:40",
-    "mensaje": "✅Ante cualquier duda con la terminología eléctrica, les volvemos explicar: \n     \n✍️Las averías pueden ser primarias (afecta un volumen grande de población pues son las líneas de distribución a 13.8kV y puede afectar varias manzanas, incluso repartos completos).\n\n✍️Secundarias (afecta a todos los clientes que se alimenten del mismo transformador, puede afectar una o varias cuadras). \n\n✍️De servicio (afectan 1 solo cliente o instalación generalmente producto a daños en la acometida, metro contador, etc.).",
-    "timestamp": 1772314853,
-    "timestamp_local": 1772314853
-  },
-  {
-    "id": 41419,
-    "fecha": "28 de Feb del 2026 a las 04:22 PM",
-    "hora_utc": "2026-02-28 21:22",
-    "mensaje": "⚠️Afectada por DAF línea del 1920 :\n🔹Municipio Placetas:\n👉Ctos 101 y 145 Cumbre\n👉Cto 107 Baez\n👉Cto 105 Nazareno",
-    "timestamp": 1772313741,
-    "timestamp_local": 1772313741
   }
 ]
