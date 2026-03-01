@@ -1,5 +1,29 @@
 [
   {
+    "id": 18274,
+    "fecha": "01 de Mar del 2026 a las 08:44 AM",
+    "hora_utc": "2026-03-01 13:44",
+    "mensaje": "**Nota Informativa: Estado del Sistema Eléctrico Nacional (SEN) – 1 de marzo de 2026**\nEn el día de ayer se afectó el servicio por déficit de capacidad durante las 24 horas y se ha mantenido la afectación durante la madrugada de hoy. La máxima afectación por déficit de capacidad de generación en el día de ayer fue de 1718 MW a las 19:10 horas.\nLa producción de energía de los 51 nuevos parques solares fotovoltaicos fue de 4647 MWh, con 802 MW como máxima potencia entregada en el horario de la media con esta fuente de generación.\n**Estado actual del SEN**\nLa disponibilidad del SEN a las 06:00 horas es de 1257 MW, la demanda 2203 MW, con 775 MW afectados. En el horario de la media se estima una afectación de 850 MW.\n**Principales incidencias**\nAvería: Unidad 5 de la CTE Mariel, Unidad 2 de la CTE Santa Cruz, Unidad 2 de la CTE Felton y Unidades 5 y 6 de la CTE Antonio Maceo.\nMantenimiento: Unidad 6 de la CTE Mariel, Unidad 5 de la CTE Nuevitas, Unidad 4 de la CTE Carlos Manuel de Céspedes en Cienfuegos.\nLimitaciones en la generación térmica: 420 MW fuera de servicio.\n**Pronóstico para el horario pico**\nPara el pico se pronostica la entrada de emplazamiento fuel Mariel con 105 MW, la entrada de Patana de Melones con 45 MW, la entrada de 4 motores de la patana de Regla con 35 MW y la entrada de 6 motores de Fuel Moa con 90 MW.\nCon este pronóstico se prevé para el pico una disponibilidad de 1532 MW con una demanda máxima de 3180 MW, para un déficit de 1648 MW, por lo que de mantenerse las condiciones previstas se pronostica una afectación de 1678 MW en este horario.",
+    "timestamp": 1772372667,
+    "timestamp_local": 1772372667
+  },
+  {
+    "id": 18273,
+    "fecha": "01 de Mar del 2026 a las 08:32 AM",
+    "hora_utc": "2026-03-01 13:32",
+    "mensaje": "Se restablece los siguientes circuitos:\n\nCircuito 33 Kv: 6220\nTK61 La Yaya\nTK58 La Calera\nTK62 Lora\nTK63 Lora\nTJ95 Poblado Menéndez\n6220 Carúpano, La Salina y La Playa\n\nCircuito 33 Kv: 2020\nTK85 Leningrado \nTK108 Tasajera\nTK84 El Triángulo \nTK86 Poblado Colombia \nTK88 Dos Hermanos\nTK107 La Islita \nTK 112 Argentina Norte \nTK111 Ramírez",
+    "timestamp": 1772371967,
+    "timestamp_local": 1772371967
+  },
+  {
+    "id": 18272,
+    "fecha": "01 de Mar del 2026 a las 08:27 AM",
+    "hora_utc": "2026-03-01 13:27",
+    "mensaje": "⚡️ Actualización del Sistema Electroenergético Nacional para el 1 de marzo de 2026.\n\nLeer más: https://www.unionelectrica.cu/nota-informativa/\n\n#UnidosXCuba #UniónEléctrica #UNE #NotaInformativa",
+    "timestamp": 1772371643,
+    "timestamp_local": 1772371643
+  },
+  {
     "id": 18270,
     "fecha": "01 de Mar del 2026 a las 08:21 AM",
     "hora_utc": "2026-03-01 13:21",
@@ -118,21 +142,5 @@
     "mensaje": "NOTA PARA INFORMAR LA MÁXIMA CAPACIDAD APAGABLE:\nEstimados clientes,\nLes informamos que, debido a la actual situación energética del país, nuestra provincia se encuentra operando bajo la máxima capacidad apagable. Esto significa que todos los circuitos eléctricos que pueden ser desconectados temporalmente están siendo utilizados para mantener el equilibrio del sistema nacional.\n\nQUE SIGNIFICA E IMPLICA LA MÁXIMA CAPACIDAD APAGABLE EN LA PROVINCIA: \nMáxima capacidad apagable se refiere al nivel máximo de demanda eléctrica que puede ser desconectada o suspendida temporalmente en la provincia, explica la complejidad del déficit de generación o contingencias en el sistema eléctrico.\nRepresenta el límite superior de la reducción de carga que la empresa puede lograr mediante cortes de energía (apagones). Cuanto mayor sea la máxima capacidad apagable, mayor será el déficit de energía.\n¿Qué implica esto?\nSe identifica cuántos circuitos pueden ser apagados para equilibrar la carga del sistema, esto imposibilita realizar rotaciones, pues a excepción de los servicios priorizados, se encuentran afectados todos los circuitos apagables del territorio. Podrán presentarse afectaciones en el servicio de electricidad durante varias horas al día y el tiempo con servicio dependerá del comportamiento del SEN. Esta medida es necesaria para evitar fallas mayores y proteger la infraestructura eléctrica.",
     "timestamp": 1772277885,
     "timestamp_local": 1772277885
-  },
-  {
-    "id": 18251,
-    "fecha": "27 de Feb del 2026 a las 11:49 PM",
-    "hora_utc": "2026-02-28 04:49",
-    "mensaje": "Solucionada la avería del circuito:TK5 Buena Vista, Los Pinos. Restablecidos los siguientes circuitos:\nTK6 Calle Cuba y zona sur de Buena Vista\nTK12 Las 40 y Nuevo Sosa\nTK5 Buena Vista",
-    "timestamp": 1772254181,
-    "timestamp_local": 1772254181
-  },
-  {
-    "id": 18250,
-    "fecha": "27 de Feb del 2026 a las 10:29 PM",
-    "hora_utc": "2026-02-28 03:29",
-    "mensaje": "Se declara en avería el circuito:TK19 San Antonio, Km 7",
-    "timestamp": 1772249390,
-    "timestamp_local": 1772249390
   }
 ]
