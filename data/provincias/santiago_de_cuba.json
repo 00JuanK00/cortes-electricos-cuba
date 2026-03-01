@@ -1,5 +1,29 @@
 [
   {
+    "id": 50287,
+    "fecha": "01 de Mar del 2026 a las 04:27 PM",
+    "hora_utc": "2026-03-01 21:27",
+    "mensaje": "🚨Manipulaciones:\nAcción que se realizan en los circuitos para dar paso al trabajo en zonas afectadas por averías o Vía Libre y posteriormente para restablecer el servicio eléctrico en los circuitos que se encontraban afectados y en los que se trabaja con anterioridad, luego de culminadas las labores pertinentes.",
+    "timestamp": 1772400420,
+    "timestamp_local": 1772400420
+  },
+  {
+    "id": 50286,
+    "fecha": "01 de Mar del 2026 a las 04:27 PM",
+    "hora_utc": "2026-03-01 21:27",
+    "mensaje": "🔊Estimados clientes en estos momentos se está Manipulando La Línea 5385 San Luis",
+    "timestamp": 1772400420,
+    "timestamp_local": 1772400420
+  },
+  {
+    "id": 50284,
+    "fecha": "01 de Mar del 2026 a las 04:11 PM",
+    "hora_utc": "2026-03-01 21:11",
+    "mensaje": "🔊Estimados clientes en estos momentos se encuentra afectados por Déficit de Capacidad de Generación los circuitos 25 y 19",
+    "timestamp": 1772399504,
+    "timestamp_local": 1772399504
+  },
+  {
     "id": 50283,
     "fecha": "01 de Mar del 2026 a las 04:03 PM",
     "hora_utc": "2026-03-01 21:03",
@@ -110,45 +134,5 @@
     "mensaje": "🔊Estimados clientes en estos momentos se está Manipulando La Línea 4435 Contramaestre",
     "timestamp": 1772382196,
     "timestamp_local": 1772382196
-  },
-  {
-    "id": 50268,
-    "fecha": "01 de Mar del 2026 a las 11:22 AM",
-    "hora_utc": "2026-03-01 16:22",
-    "mensaje": "🚨Manipulaciones:\nAcción que se realizan en los circuitos para dar paso al trabajo en zonas afectadas por averías o Vía Libre y posteriormente para restablecer el servicio eléctrico en los circuitos que se encontraban afectados y en los que se trabaja con anterioridad, luego de culminadas las labores pertinentes",
-    "timestamp": 1772382122,
-    "timestamp_local": 1772382122
-  },
-  {
-    "id": 50267,
-    "fecha": "01 de Mar del 2026 a las 11:20 AM",
-    "hora_utc": "2026-03-01 16:20",
-    "mensaje": "🔊Estimados clientes en estos momentos se está Manipulando el circuito 14",
-    "timestamp": 1772382013,
-    "timestamp_local": 1772382013
-  },
-  {
-    "id": 50266,
-    "fecha": "01 de Mar del 2026 a las 11:11 AM",
-    "hora_utc": "2026-03-01 16:11",
-    "mensaje": "🚨Disparo\nApertura no voluntaria de un interruptor como vía de protección para desconectar uno o varios elementos del circuito, subestación o sistema, restableciéndose el servicio rápidamente en dependencia de la causa.",
-    "timestamp": 1772381511,
-    "timestamp_local": 1772381511
-  },
-  {
-    "id": 50265,
-    "fecha": "01 de Mar del 2026 a las 11:11 AM",
-    "hora_utc": "2026-03-01 16:11",
-    "mensaje": "🔊Estimados clientes en estos momentos se encuentra Disparada La Línea 5395 San Luis",
-    "timestamp": 1772381476,
-    "timestamp_local": 1772381476
-  },
-  {
-    "id": 50264,
-    "fecha": "01 de Mar del 2026 a las 10:22 AM",
-    "hora_utc": "2026-03-01 15:22",
-    "mensaje": "🚨Circuito en avería:                                                                                                                          Sucede si un circuito se interrumpe por causa de un defecto en un cable conductor de corriente (fase o neutro), un fusible fundido o disyuntor. En sistemas trifásicos una falla puede implicar una fase, más de una fase con la tierra o puede ocurrir solo entre fases.",
-    "timestamp": 1772378521,
-    "timestamp_local": 1772378521
   }
 ]
