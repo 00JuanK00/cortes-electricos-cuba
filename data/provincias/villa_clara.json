@@ -1,5 +1,37 @@
 [
   {
+    "id": 41456,
+    "fecha": "01 de Mar del 2026 a las 09:05 AM",
+    "hora_utc": "2026-03-01 14:05",
+    "mensaje": "💡Con servicio Linea 108\n🔹Municipio Ranchuelo:\n👉Cto 92 Esperanza (Pueblo)\n👉Cto 93 Esperanza (Campo)\n👉Ctos 54, 94 y 95 Jicotea\n🔹Municipio Santa Clara\n👉Ctos 26 y 141 (Manuelita)\n👉Cto 191 (Quemado de Hilario)                                           \n🔹Municipio Santo Domingo\n👉Cto 79 (Santo Domingo)\n👉Cto 81 (26 de Julio)",
+    "timestamp": 1772373948,
+    "timestamp_local": 1772373948
+  },
+  {
+    "id": 41455,
+    "fecha": "01 de Mar del 2026 a las 09:03 AM",
+    "hora_utc": "2026-03-01 14:03",
+    "mensaje": "🛠️Afectada por manipulación Linea 108\n🔹Municipio Ranchuelo:\n👉Cto 92 Esperanza (Pueblo)\n👉Cto 93 Esperanza (Campo)\n👉Ctos 54, 94 y 95 Jicotea\n🔹Municipio Santa Clara\n👉Ctos 26 y 141 (Manuelita)\n👉Cto 191 (Quemado de Hilario)                                           \n🔹Municipio Santo Domingo\n👉Cto 79 (Santo Domingo)\n👉Cto 81 (26 de Julio)",
+    "timestamp": 1772373808,
+    "timestamp_local": 1772373808
+  },
+  {
+    "id": 41454,
+    "fecha": "01 de Mar del 2026 a las 09:01 AM",
+    "hora_utc": "2026-03-01 14:01",
+    "mensaje": "⚠️Afectado por déficit de capacidad de generación el siguiente circuito:\n🔹Municipio Santa Clara.\n👉Cto 166 (Condado)",
+    "timestamp": 1772373704,
+    "timestamp_local": 1772373704
+  },
+  {
+    "id": 41453,
+    "fecha": "01 de Mar del 2026 a las 09:00 AM",
+    "hora_utc": "2026-03-01 14:00",
+    "mensaje": "💡Con servicio los siguientes circuitos:\n🔹Municipio Encrucijada\n👉Cto 120 Calabazar\n👉Ctos 121 y 127 Perucho\n🔹Municipio Encrucijada:\n👉Cto 122 Encrucijada  \n👉Cto 123 Vizcaya \n👉Cto 142 Comunidad La Sierra \n👉Cto 126 Batey Emilio Córdova\n👉Cto 125 Cavarrocas\n👉Cto 124 El Santo\n🔹Municipio Camajuaní:                                                              \n👉Cto 78 Jutiero\n👉Cto 75 La Quinta \n👉Cto 157 Luis Arcos Bergnes\n👉Ctos 76 y 90 Vega Alta",
+    "timestamp": 1772373615,
+    "timestamp_local": 1772373615
+  },
+  {
     "id": 41452,
     "fecha": "01 de Mar del 2026 a las 08:53 AM",
     "hora_utc": "2026-03-01 13:53",
@@ -126,37 +158,5 @@
     "mensaje": "Afectados 56 MW en la provincia, demanda máxima a apagar en estos momentos.",
     "timestamp": 1772345525,
     "timestamp_local": 1772345525
-  },
-  {
-    "id": 41436,
-    "fecha": "01 de Mar del 2026 a las 12:07 AM",
-    "hora_utc": "2026-03-01 05:07",
-    "mensaje": "🕛Actualización del servicio eléctrico en las últimas 6 horas.\n✍️El déficit de capacidad de generación osciló entre los 124 MW y los 69 MW.\n✍️En el momento de esta nota, se mantienen afectados 121 circuitos.\n✍️Cuenta con 73 afectaciones por averías secundarias y de servicio:\n🔸Caibarien (3)\n🔸Manicaragua (8)\n🔸Placetas (7)\n🔸Quemado (1)\n🔸Ranchuelo (1)\n🔸Remedios (5) \n🔸Sagua (5) \n🔸Santa Clara (32)\n🔸Santo Domingo (11)\n🛠️Se encuentran 2 averías en vías de solución.\n🛠️Pendientes a solucionar por el área técnica 13.\n⚡Averías⚡\n👉Cto 110 afectado de manera parcial (Ramal Pico Blanco), perteneciente al municipio Manicaragua, por cable primario partido.\n👉En avería de manera parcial el Cto 170 (José Martí) perteneciente al municipio Santa Clara, por estar faltando una fase.",
-    "timestamp": 1772341673,
-    "timestamp_local": 1772341673
-  },
-  {
-    "id": 41435,
-    "fecha": "28 de Feb del 2026 a las 11:02 PM",
-    "hora_utc": "2026-03-01 04:02",
-    "mensaje": "Afectados 69 MW en la provincia, demanda máxima a apagar en estos momentos.",
-    "timestamp": 1772337763,
-    "timestamp_local": 1772337763
-  },
-  {
-    "id": 41434,
-    "fecha": "28 de Feb del 2026 a las 10:31 PM",
-    "hora_utc": "2026-03-01 03:31",
-    "mensaje": "💡Con servicio el Cto 167(Virginia), perteneciente al municipio Santa Clara.",
-    "timestamp": 1772335882,
-    "timestamp_local": 1772335882
-  },
-  {
-    "id": 41433,
-    "fecha": "28 de Feb del 2026 a las 10:23 PM",
-    "hora_utc": "2026-03-01 03:23",
-    "mensaje": "⚠️Afectado por manipulación el Cto 167(Virginia), perteneciente al municipio Santa Clara.",
-    "timestamp": 1772335411,
-    "timestamp_local": 1772335411
   }
 ]
