@@ -1,5 +1,45 @@
 [
   {
+    "id": 41503,
+    "fecha": "01 de Mar del 2026 a las 04:07 PM",
+    "hora_utc": "2026-03-01 21:07",
+    "mensaje": "Afectados 100 MW en la provincia, demanda máxima a apagar en estos momentos.",
+    "timestamp": 1772399242,
+    "timestamp_local": 1772399242
+  },
+  {
+    "id": 41502,
+    "fecha": "01 de Mar del 2026 a las 04:06 PM",
+    "hora_utc": "2026-03-01 21:06",
+    "mensaje": "⚠️Afectados por déficit de capacidad de generación los siguientes circuitos:\n🔹Municipio Santa Clara:\n👉Cto 144 (Camacho)\n👉Cto 162 (Santa Clara Industrial)",
+    "timestamp": 1772399181,
+    "timestamp_local": 1772399181
+  },
+  {
+    "id": 41501,
+    "fecha": "01 de Mar del 2026 a las 04:01 PM",
+    "hora_utc": "2026-03-01 21:01",
+    "mensaje": "📣Ante cualquier duda con la terminología eléctrica, les volvemos explicar: 📣\n     \n1️⃣ Las averías pueden ser primarias (afecta un volumen grande de población pues son las líneas de distribución a 13.8kV y puede afectar varias manzanas, incluso repartos completos).\n\n2️⃣ Secundarias (afecta a todos los clientes que se alimenten del mismo transformador, puede afectar una o varias cuadras). \n\n3️⃣ De servicio (afectan 1 solo cliente o instalación generalmente producto a daños en la acometida, metro contador, etc.).",
+    "timestamp": 1772398880,
+    "timestamp_local": 1772398880
+  },
+  {
+    "id": 41500,
+    "fecha": "01 de Mar del 2026 a las 03:57 PM",
+    "hora_utc": "2026-03-01 20:57",
+    "mensaje": "⚠️Afectados por déficit de capacidad de generación los siguientes circuitos:\n🔹Municipio Remedios:\n👉Ctos 67 y 152, 68 y 118",
+    "timestamp": 1772398637,
+    "timestamp_local": 1772398637
+  },
+  {
+    "id": 41499,
+    "fecha": "01 de Mar del 2026 a las 03:55 PM",
+    "hora_utc": "2026-03-01 20:55",
+    "mensaje": "🔸Actualización del servicio eléctrico en la provincia🔸\n✍️Se mantienen afectados en la provincia 101 circuitos.\n✍️En el momento de hacer esta nota la provincia tiene 88 MW por déficit de capacidad de generación.\n✍️Cuenta con 80 afectaciones por averías secundarias y de servicio.",
+    "timestamp": 1772398529,
+    "timestamp_local": 1772398529
+  },
+  {
     "id": 41498,
     "fecha": "01 de Mar del 2026 a las 03:14 PM",
     "hora_utc": "2026-03-01 20:14",
@@ -118,45 +158,5 @@
     "mensaje": "Afectados 58 MW en la provincia, demanda máxima a apagar en estos momentos.",
     "timestamp": 1772390977,
     "timestamp_local": 1772390977
-  },
-  {
-    "id": 41483,
-    "fecha": "01 de Mar del 2026 a las 01:47 PM",
-    "hora_utc": "2026-03-01 18:47",
-    "mensaje": "⚠️Afectados por déficit de capacidad de generación los siguientes circuitos:\n🔹Municipio Camajuaní:\n👉Ctos 73 y 156\n🔹Municipio Ranchuelo: \n👉Ctos 89, 97, 188 y 189\n👉Ctos 148 y 149 San Juan\n👉Cto 91 Batey Osvaldo Herrera\n👉Cto 181 Batey Ifraín Alfonso",
-    "timestamp": 1772390867,
-    "timestamp_local": 1772390867
-  },
-  {
-    "id": 41482,
-    "fecha": "01 de Mar del 2026 a las 01:33 PM",
-    "hora_utc": "2026-03-01 18:33",
-    "mensaje": "⚠️Afectados por déficit de capacidad de generación los siguientes circuitos:\n🔹Municipio Camajuaní:\n👉Ctos 77 y 185 Vueltas",
-    "timestamp": 1772389994,
-    "timestamp_local": 1772389994
-  },
-  {
-    "id": 41481,
-    "fecha": "01 de Mar del 2026 a las 01:31 PM",
-    "hora_utc": "2026-03-01 18:31",
-    "mensaje": "💡Con servicio los siguientes circuitos:\n🔹Municipio Santa Clara: \n👉Cto 5 (Dobarganes)\n👉Cto 17 (Subplanta)",
-    "timestamp": 1772389892,
-    "timestamp_local": 1772389892
-  },
-  {
-    "id": 41480,
-    "fecha": "01 de Mar del 2026 a las 01:24 PM",
-    "hora_utc": "2026-03-01 18:24",
-    "mensaje": "⚡Afectado Cto 170(José Marti), perteneciente al Municipio Santa Clara, en avería  por dos puentes partido en el Interruptor V934 , localizado después de Trabajadores Sociales",
-    "timestamp": 1772389458,
-    "timestamp_local": 1772389458
-  },
-  {
-    "id": 41479,
-    "fecha": "01 de Mar del 2026 a las 12:54 PM",
-    "hora_utc": "2026-03-01 17:54",
-    "mensaje": "⚠️Afectados por déficit de capacidad de generación los siguientes circuitos:\n🔹Municipio Santa Clara:\n👉Ctos 2 y 4 (Consejo- Centro)",
-    "timestamp": 1772387670,
-    "timestamp_local": 1772387670
   }
 ]
