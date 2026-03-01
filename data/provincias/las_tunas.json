@@ -1,5 +1,13 @@
 [
   {
+    "id": 18276,
+    "fecha": "01 de Mar del 2026 a las 11:55 AM",
+    "hora_utc": "2026-03-01 16:55",
+    "mensaje": "Se afecta TK TK24 TK4 Aeropuerto, Casa Piedra y Aurora por vía por emergencia",
+    "timestamp": 1772384102,
+    "timestamp_local": 1772384102
+  },
+  {
     "id": 18275,
     "fecha": "01 de Mar del 2026 a las 10:20 AM",
     "hora_utc": "2026-03-01 15:20",
@@ -134,13 +142,5 @@
     "mensaje": "Nota Informativa: Estado del Sistema Eléctrico Nacional (SEN) – 28 de febrero de 2026\n\nEn el día de ayer se afectó el servicio por déficit de capacidad durante las 24 horas y se ha mantenido la afectación durante la madrugada de hoy. La máxima afectación por déficit de capacidad de generación en el día de ayer fue de 1776 MW a las 19:00 horas.\n\nLa producción de energía de los 51 nuevos parques solares fotovoltaicos fue de 4408 MWh, con 762 MW como máxima potencia entregada en el horario de la media con esta fuente de generación.\nEstado actual del SEN\n\nLa disponibilidad del SEN a las 06:00 horas es de 1230 MW, la demanda 2060 MW, con 900 MW afectados. En el horario de la media se estima una afectación de 1100 MW.\nPrincipales incidencias\n\n    Avería: Unidad 5 de la CTE Mariel, Unidad 2 de la CTE Santa Cruz, Unidad 2 de la CTE Felton y Unidades 5 y 6 de la CTE Antonio Maceo.\n    Mantenimiento: Unidad 6 de la CTE Mariel, Unidad 5 de la CTE Nuevitas, Unidad 4 de la CTE Carlos Manuel de Céspedes en Cienfuegos.\n    Limitaciones en la generación térmica: 420 MW fuera de servicio.\n\nPronóstico para el horario pico\n\nPara el pico se pronostica la entrada de emplazamiento fuel Mariel con 105 MW, la entrada de Patana de Melones con 45 MW, la entrada de 4 motores de la patana de Regla con 35 MW y la entrada de 5 motores de Fuel Moa con 75 MW\n\nCon este pronóstico se prevé para el pico una disponibilidad de 1490 MW con una demanda máxima de 3180 MW, para un déficit de 1690 MW, por lo que de mantenerse las condiciones previstas se pronostica una afectación de 1720 MW en este horario.",
     "timestamp": 1772285048,
     "timestamp_local": 1772285048
-  },
-  {
-    "id": 18254,
-    "fecha": "28 de Feb del 2026 a las 06:56 AM",
-    "hora_utc": "2026-02-28 11:56",
-    "mensaje": "Se declara en avería el circuito:TK74 La Lomita. Amancio.",
-    "timestamp": 1772279773,
-    "timestamp_local": 1772279773
   }
 ]
