@@ -1,5 +1,13 @@
 [
   {
+    "id": 18278,
+    "fecha": "01 de Mar del 2026 a las 02:37 PM",
+    "hora_utc": "2026-03-01 19:37",
+    "mensaje": "Se afecta los siguientes circuitos:\nCircuito 33 Kv: 6810\nTK82 Tana\nTK83 Las Maboas\nTK113 La Aurora\nTK74 La Lomita\nTK110 El Batey\n6810 Poblado Amancio",
+    "timestamp": 1772393872,
+    "timestamp_local": 1772393872
+  },
+  {
     "id": 18277,
     "fecha": "01 de Mar del 2026 a las 01:36 PM",
     "hora_utc": "2026-03-01 18:36",
@@ -126,21 +134,5 @@
     "mensaje": "QUE SIGNIFICA E IMPLICA LA MÁXIMA CAPACIDAD APAGABLE EN LA PROVINCIA: \nMáxima capacidad apagable se refiere al nivel máximo de demanda eléctrica que puede ser desconectada o suspendida temporalmente en la provincia, explica la complejidad del déficit de generación o contingencias en el sistema eléctrico.\nRepresenta el límite superior de la reducción de carga que la empresa puede lograr mediante cortes de energía (apagones). Cuanto mayor sea la máxima capacidad apagable, mayor será el déficit de energía.\n¿Qué implica esto?\nSe identifica cuántos circuitos pueden ser apagados para equilibrar la carga del sistema, esto imposibilita realizar rotaciones, pues a excepción de los servicios priorizados, se encuentran afectados todos los circuitos apagables del territorio. Podrán presentarse afectaciones en el servicio de electricidad durante varias horas al día y el tiempo con servicio dependerá del comportamiento del SEN. Esta medida es necesaria para evitar fallas mayores y proteger la infraestructura eléctrica.",
     "timestamp": 1772296132,
     "timestamp_local": 1772296132
-  },
-  {
-    "id": 18258,
-    "fecha": "28 de Feb del 2026 a las 11:26 AM",
-    "hora_utc": "2026-02-28 16:26",
-    "mensaje": "La provincia presenta máxima capacidad apagable en estos momentos, lo que no ha permitido realizar la rotación de los circuitos con mayor tiempo de afectación. Se irán restableciendo en la medida que el Sistema Electroenergético lo permita.",
-    "timestamp": 1772296013,
-    "timestamp_local": 1772296013
-  },
-  {
-    "id": 18256,
-    "fecha": "28 de Feb del 2026 a las 10:56 AM",
-    "hora_utc": "2026-02-28 15:56",
-    "mensaje": "Se encuentran afectados por déficit de generación los siguientes circuitos \nBloque #2\nCircuito 33 Kv: 6220\nTK61 La Yaya\nTK58 La Calera\nTK62 Lora\nTK63 Lora\nTJ95 Poblado Menéndez\n6220 Carúpano, La Salina y La Playa\nTK15 Tunas El Pueblo\nCircuito 33 Kv: 6820 Poblado Amancio\nTK75 Vicente Pérez \nTK77 San Alberto\nTK78 Ana Luisa\nTK76 El Paraíso\nTK2 Bonachea \nCircuito 33 Kv: 4220\nTK28 La Guinea\nTK52 Covarrubias\nTK31 Pueblo Manatí\nTK33 Pueblo Manatí\nTK34 Pueblo Manatí\nCircuito de 33Kv 6455\nTK7 La Victoria\nTK8 Sendero. \n \nCircuito 33 Kv: 6470-6300\nTK13 Yariguá \nTJ11 Bartle \nTK91 Macagua \nTK87 Pueblo Jobabo\nTK90 Escuela Especial Jobabo\n6470 Mina de Oro, Las Margaritas\nCircuito 33 Kv: 6305\nCircuito de 33Kv 6225\nTK53 La Morena y El Malecón",
-    "timestamp": 1772294217,
-    "timestamp_local": 1772294217
   }
 ]
