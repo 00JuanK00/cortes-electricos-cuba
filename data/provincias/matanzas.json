@@ -1,5 +1,21 @@
 [
   {
+    "id": 33096,
+    "fecha": "01 de Mar del 2026 a las 12:16 AM",
+    "hora_utc": "2026-03-01 05:16",
+    "mensaje": "🔧 **AVERÍA EN EL CIRCUITO 501** 🔧\n\nQueremos informarles que hemos registrado una avería en el circuito 501 debido a un incendio que ha causado la caída de dos postes. Nuestro equipo técnico ya se encuentra trabajando en la zona para evaluar los daños y restablecer el servicio lo más pronto posible.\n\n⚠️ **Precauciones**: Les pedimos que eviten la zona afectada por motivos de seguridad.",
+    "timestamp": 1772342189,
+    "timestamp_local": 1772342189
+  },
+  {
+    "id": 33095,
+    "fecha": "28 de Feb del 2026 a las 11:14 PM",
+    "hora_utc": "2026-03-01 04:14",
+    "mensaje": "⚡Déficit de capacidad de generación en la provincia : 89 MW⚡",
+    "timestamp": 1772338440,
+    "timestamp_local": 1772338440
+  },
+  {
     "id": 33094,
     "fecha": "28 de Feb del 2026 a las 11:00 PM",
     "hora_utc": "2026-03-01 04:00",
@@ -142,21 +158,5 @@
     "mensaje": "📢 **Comunicado Importante sobre la Situación de Generación Eléctrica**\n\nEstimados clientes: Continuamos en el máximo apagable  con 82 MW afectados por déficit de capacidad de generación.\n\nDebido a la alta demanda de energía eléctrica, que ha alcanzado los 2060 MW, muchos de nuestros clientes están experimentando largas horas de afectación.\n\nLas principales incidencias:\n\n**Averías:**\n• Unidad 5 de la CTE Mariel\n• Unidad 2 de la CTE Santa Cruz\n• Unidad 2 de la CTE Felton\n• Unidades 5 y 6 de la CTE Antonio Maceo\n\n**Mantenimiento:**\n• Unidad 6 de la CTE Mariel\n• Unidad 5 de la CTE Nuevitas\n• Unidad 4 de la CTE Carlos Manuel de Céspedes en Cienfuegos\n\nPara el pico se pronostica la entrada de emplazamiento fuel Mariel con 105 MW, la entrada de Patana de Melones con 45 MW, la entrada de 4 motores de la patana de Regla con 35 MW y la entrada de 5 motores de Fuel Moa con 75 MW. \n\nA medida que las condiciones del sistema lo permitan, se irán restableciendo de forma gradual los circuitos que han tenido más tiempo de afectación. Agradecemos su comprensión.",
     "timestamp": 1772296784,
     "timestamp_local": 1772296784
-  },
-  {
-    "id": 33076,
-    "fecha": "28 de Feb del 2026 a las 10:23 AM",
-    "hora_utc": "2026-02-28 15:23",
-    "mensaje": "⚡Déficit de capacidad de generación en la provincia: 78 MW⚡",
-    "timestamp": 1772292185,
-    "timestamp_local": 1772292185
-  },
-  {
-    "id": 33075,
-    "fecha": "28 de Feb del 2026 a las 09:36 AM",
-    "hora_utc": "2026-02-28 14:36",
-    "mensaje": "PROXIMOS CIRCUITOS A RESTABLECER\n\n⚡Déficit de capacidad de generación en la provincia: 68 MW⚡\n\n🔌 Circuito 4427 que da servicio a Reparto 13 de marzo, circuitos 2 y 3 desde Salud hasta Obispo y desde García hasta Génes, Playa Larga, Smith Comas.  \n🔌 Circuito JI44 que da servicio a Jovellanos pueblo circuito 1.\n🔌 Circuito GI051 que da servicio a Jovellanos pueblo circuito 2.\n🔌 Circuito 1139 que da servicio a Guásimas y oficinas del petróleo.",
-    "timestamp": 1772289366,
-    "timestamp_local": 1772289366
   }
 ]
