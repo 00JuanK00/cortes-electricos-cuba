@@ -1,5 +1,29 @@
 [
   {
+    "id": 41507,
+    "fecha": "01 de Mar del 2026 a las 06:51 PM",
+    "hora_utc": "2026-03-01 23:51",
+    "mensaje": "Afectados 119 MW en la provincia, demanda máxima a apagar en estos momentos.",
+    "timestamp": 1772409112,
+    "timestamp_local": 1772409112
+  },
+  {
+    "id": 41506,
+    "fecha": "01 de Mar del 2026 a las 06:30 PM",
+    "hora_utc": "2026-03-01 23:30",
+    "mensaje": "⚠️Afectada linea 6375 por cable primario partido afecta los siguientes circuitos\n➡️Línea 6375 \n🔹Municipio Santa Clara\n👉Cto 7 (Universidad)  \n👉Cto 146 (Elevado Aeropuerto) ( Se encuentra en Déficit)\n👉Cto 22 (Construcciones Textil)\n👉Cto 131 (Las Antillas)\n👉Cto 153 (EIDE)( Se encuentra en Déficit)\n👉Cto 25 (Los Güiros)( Se encuentra en Déficit)\n👉Cto 24 (Planta Asfalto)( Se encuentra en Déficit)\n👉Cto 35 (Biotecnología) ( Se encuentra en Déficit)\n👉Ctos 15  (Maleza)( Se encuentra en Déficit)\n👉Ctos 14 y 27 (Maleza)",
+    "timestamp": 1772407829,
+    "timestamp_local": 1772407829
+  },
+  {
+    "id": 41505,
+    "fecha": "01 de Mar del 2026 a las 06:17 PM",
+    "hora_utc": "2026-03-01 23:17",
+    "mensaje": "🕕Actualización del servicio eléctrico en las últimas 6 horas.\n✍️El déficit de capacidad de generación osciló entre los 71 MW y los 119 MW.\n✍️En el momento de esta nota, se mantienen afectados 113 circuitos.\n✍️Cuenta con 93 afectaciones por averías secundarias y de servicio:\n🔸Caibarien (4)\n🔸Cifuentes (2)\n🔸Corralillo (1)\n\n🔸Manicaragua (8)\n🔸Ranchuelo (1)\n🔸Remedios (6)\n\n🔸Sagua (8) 🔸Santa Clara (36)\n🔸Santo Domingo (7)\n🛠️Se encuentran 6 averías en vías de solución.\n🛠️Pendientes a solucionar por el área técnica 14.\n⚡Averías⚡\n👉Cto 110 afectado de manera parcial (Ramal Pico Blanco), perteneciente al municipio Manicaragua, por cable primario partido.",
+    "timestamp": 1772407038,
+    "timestamp_local": 1772407038
+  },
+  {
     "id": 41504,
     "fecha": "01 de Mar del 2026 a las 06:01 PM",
     "hora_utc": "2026-03-01 23:01",
@@ -126,37 +150,5 @@
     "mensaje": "⚠️Afectados por déficit de capacidad de generación los siguientes circuitos:\n🔹Municipio Santo Domingo:\n👉Cto 134\n👉Ctos 87 y 96 Bermejal\n👉Cto 187 Batey Carlos Baliño\n👉Cto 82 Ulacia\n👉Cto 84 Rodrigo",
     "timestamp": 1772392472,
     "timestamp_local": 1772392472
-  },
-  {
-    "id": 41488,
-    "fecha": "01 de Mar del 2026 a las 02:13 PM",
-    "hora_utc": "2026-03-01 19:13",
-    "mensaje": "⚠️Afectado por déficit de capacidad de generación el siguiente circuito:\n🔹Municipio Santa Clara.\n👉Cto 15 (Maleza)",
-    "timestamp": 1772392391,
-    "timestamp_local": 1772392391
-  },
-  {
-    "id": 41487,
-    "fecha": "01 de Mar del 2026 a las 02:03 PM",
-    "hora_utc": "2026-03-01 19:03",
-    "mensaje": "🔸Actualización del servicio eléctrico en la provincia🔸\n✍️Se mantienen afectados en la provincia 75 circuitos.\n✍️En el momento de hacer esta nota la provincia tiene 62 MW por déficit de capacidad de generación.\n✍️Cuenta con 77 afectaciones por averías secundarias y de servicio.",
-    "timestamp": 1772391811,
-    "timestamp_local": 1772391811
-  },
-  {
-    "id": 41486,
-    "fecha": "01 de Mar del 2026 a las 02:01 PM",
-    "hora_utc": "2026-03-01 19:01",
-    "mensaje": "⚠️Afectados por déficit de capacidad de generación los siguientes circuitos:\n🔹Municipio Santa Clara: \n👉Cto 6 (Viga )\n🔹Municipio Cifuentes:\n👉Ctos 114 y 117\n👉Ctos 116 y 155 Mata\n👉Cto 186 Batey Unidad Proletaria\n👉Cto 184 Sitio Grande",
-    "timestamp": 1772391716,
-    "timestamp_local": 1772391716
-  },
-  {
-    "id": 41485,
-    "fecha": "01 de Mar del 2026 a las 01:54 PM",
-    "hora_utc": "2026-03-01 18:54",
-    "mensaje": "⚠️Afectados por déficit de capacidad de generación los siguientes circuitos:\n🔹Municipio Camajuaní:\n👉Cto 72 y 129\n👉Cto 74 José María Pérez",
-    "timestamp": 1772391279,
-    "timestamp_local": 1772391279
   }
 ]

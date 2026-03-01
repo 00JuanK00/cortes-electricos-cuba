@@ -1,5 +1,13 @@
 [
   {
+    "id": 18282,
+    "fecha": "01 de Mar del 2026 a las 06:47 PM",
+    "hora_utc": "2026-03-01 23:47",
+    "mensaje": "Queda restablecida la avería de la localidad de Brigada 7, perteneciente al TK 42 La Ceiba en el municipio Majibacoa.",
+    "timestamp": 1772408863,
+    "timestamp_local": 1772408863
+  },
+  {
     "id": 18281,
     "fecha": "01 de Mar del 2026 a las 04:13 PM",
     "hora_utc": "2026-03-01 21:13",
@@ -126,13 +134,5 @@
     "mensaje": "Se restablecen los circuitos:\nTK106 Palancón, Buena Vista\nTK5 Buena Vista, Los Pinos",
     "timestamp": 1772304631,
     "timestamp_local": 1772304631
-  },
-  {
-    "id": 18261,
-    "fecha": "28 de Feb del 2026 a las 12:57 PM",
-    "hora_utc": "2026-02-28 17:57",
-    "mensaje": "¿Qué es un disparo por DAF?\nEl Disparo por Frecuencia (DAF) es un mecanismo de protección del sistema eléctrico. Se activa automáticamente cuando la frecuencia desciende por debajo de los valores mínimos seguros (menores de 60 Hz), lo que pone en riesgo la estabilidad del sistema.\nEn ese momento, algunos circuitos se desconectan de forma automática para aliviar la carga y permitir que la frecuencia vuelva a su valor nominal.\nEsto suele ocurrir cuando una planta generadora sale de servicio de manera imprevista, provocando un déficit de generación. El DAF ayuda a evitar un colapso mayor del sistema, aunque puede generar afectaciones al servicio como apagones parciales.",
-    "timestamp": 1772301474,
-    "timestamp_local": 1772301474
   }
 ]
