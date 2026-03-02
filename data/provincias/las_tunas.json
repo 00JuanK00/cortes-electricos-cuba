@@ -1,5 +1,13 @@
 [
   {
+    "id": 18293,
+    "fecha": "02 de Mar del 2026 a las 11:17 AM",
+    "hora_utc": "2026-03-02 16:17",
+    "mensaje": "Nota Informativa: Estado del Sistema Eléctrico Nacional (SEN) – 2 de marzo de 2026\nEn el día de ayer se afectó el servicio por déficit de capacidad durante las 24 horas y se ha mantenido la afectación durante la madrugada de hoy. La máxima afectación por déficit de capacidad de generación en el día de ayer fue de 1679 MW a las 19:00 horas.\nLa producción de energía de los 51 nuevos parques solares fotovoltaicos fue de 4466.31 MWh, con 840 MW como máxima potencia entregada en el horario de la media con esta fuente de generación.\nEstado actual del SEN\nLa disponibilidad del SEN a las 06:00 horas es de 1185 MW, la demanda 2170 MW, con 1000 MW afectados. En el horario de la media se estima una afectación de 950 MW.\nPrincipales incidencias\nAvería: Unidad 5 de la CTE Mariel, Unidad 2 de la CTE Santa Cruz, Unidad 2 de la CTE Felton y Unidades 5 y 6 de la CTE Antonio Maceo.\nMantenimiento: Unidad 6 de la CTE Mariel, Unidad 5 de la CTE Nuevitas, Unidad 4 de la CTE Carlos Manuel de Céspedes en Cienfuegos.\nLimitaciones en la generación térmica: 431 MW fuera de servicio.\nPronóstico para el horario pico\nCon este pronóstico se prevé para el pico una disponibilidad de 1185 MW con una demanda máxima de 3180 MW, para un déficit de 1995 MW, por lo que de mantenerse las condiciones previstas se pronostica una afectación de 2025 MW en este horario.",
+    "timestamp": 1772468249,
+    "timestamp_local": 1772468249
+  },
+  {
     "id": 18292,
     "fecha": "02 de Mar del 2026 a las 11:00 AM",
     "hora_utc": "2026-03-02 16:00",
@@ -118,13 +126,5 @@
     "mensaje": "**Nota Informativa: Estado del Sistema Eléctrico Nacional (SEN) – 1 de marzo de 2026**\nEn el día de ayer se afectó el servicio por déficit de capacidad durante las 24 horas y se ha mantenido la afectación durante la madrugada de hoy. La máxima afectación por déficit de capacidad de generación en el día de ayer fue de 1718 MW a las 19:10 horas.\nLa producción de energía de los 51 nuevos parques solares fotovoltaicos fue de 4647 MWh, con 802 MW como máxima potencia entregada en el horario de la media con esta fuente de generación.\n**Estado actual del SEN**\nLa disponibilidad del SEN a las 06:00 horas es de 1257 MW, la demanda 2203 MW, con 775 MW afectados. En el horario de la media se estima una afectación de 850 MW.\n**Principales incidencias**\nAvería: Unidad 5 de la CTE Mariel, Unidad 2 de la CTE Santa Cruz, Unidad 2 de la CTE Felton y Unidades 5 y 6 de la CTE Antonio Maceo.\nMantenimiento: Unidad 6 de la CTE Mariel, Unidad 5 de la CTE Nuevitas, Unidad 4 de la CTE Carlos Manuel de Céspedes en Cienfuegos.\nLimitaciones en la generación térmica: 420 MW fuera de servicio.\n**Pronóstico para el horario pico**\nPara el pico se pronostica la entrada de emplazamiento fuel Mariel con 105 MW, la entrada de Patana de Melones con 45 MW, la entrada de 4 motores de la patana de Regla con 35 MW y la entrada de 6 motores de Fuel Moa con 90 MW.\nCon este pronóstico se prevé para el pico una disponibilidad de 1532 MW con una demanda máxima de 3180 MW, para un déficit de 1648 MW, por lo que de mantenerse las condiciones previstas se pronostica una afectación de 1678 MW en este horario.",
     "timestamp": 1772372667,
     "timestamp_local": 1772372667
-  },
-  {
-    "id": 18273,
-    "fecha": "01 de Mar del 2026 a las 08:32 AM",
-    "hora_utc": "2026-03-01 13:32",
-    "mensaje": "Se restablece los siguientes circuitos:\n\nCircuito 33 Kv: 6220\nTK61 La Yaya\nTK58 La Calera\nTK62 Lora\nTK63 Lora\nTJ95 Poblado Menéndez\n6220 Carúpano, La Salina y La Playa\n\nCircuito 33 Kv: 2020\nTK85 Leningrado \nTK108 Tasajera\nTK84 El Triángulo \nTK86 Poblado Colombia \nTK88 Dos Hermanos\nTK107 La Islita \nTK 112 Argentina Norte \nTK111 Ramírez",
-    "timestamp": 1772371967,
-    "timestamp_local": 1772371967
   }
 ]
