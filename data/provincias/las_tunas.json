@@ -1,5 +1,29 @@
 [
   {
+    "id": 18287,
+    "fecha": "01 de Mar del 2026 a las 08:48 PM",
+    "hora_utc": "2026-03-02 01:48",
+    "mensaje": "Queda restablecida la avería del circuito TK5 Buena Vista, Los Pinos",
+    "timestamp": 1772416125,
+    "timestamp_local": 1772416125
+  },
+  {
+    "id": 18286,
+    "fecha": "01 de Mar del 2026 a las 08:30 PM",
+    "hora_utc": "2026-03-02 01:30",
+    "mensaje": "🚨Se declara en avería los siguientes circuitos🚨\nTK15 Tunas El Pueblo\nTK5 Buena Vista, Los Pinos.",
+    "timestamp": 1772415022,
+    "timestamp_local": 1772415022
+  },
+  {
+    "id": 18285,
+    "fecha": "01 de Mar del 2026 a las 08:11 PM",
+    "hora_utc": "2026-03-02 01:11",
+    "mensaje": "La provincia presenta máxima capacidad apagable en estos momentos, lo que no ha permitido realizar la rotación de los circuitos con mayor tiempo de afectación. Se irán restableciendo en la medida que el Sistema Electroenergético lo permita,ofrecemos disculpas por las molestias ocasionadas.",
+    "timestamp": 1772413880,
+    "timestamp_local": 1772413880
+  },
+  {
     "id": 18284,
     "fecha": "01 de Mar del 2026 a las 07:32 PM",
     "hora_utc": "2026-03-02 00:32",
@@ -51,7 +75,7 @@
     "id": 18276,
     "fecha": "01 de Mar del 2026 a las 11:55 AM",
     "hora_utc": "2026-03-01 16:55",
-    "mensaje": "Se afecta TK TK24 TK4 Aeropuerto, Casa Piedra y Aurora por vía por emergencia",
+    "mensaje": "Se afecta  TK24 -TK4 Aeropuerto, Casa Piedra y Aurora por vía libre por emergencia",
     "timestamp": 1772384102,
     "timestamp_local": 1772384102
   },
@@ -110,29 +134,5 @@
     "mensaje": "Se afectan los siguientes circuitos por déficit:                                               **Circuito 33 Kv: 6230**\nTK59 Vedado 3\nTK67 Porcino\nTK68 Vedado 6\nTK69 Poblado de Menéndez\nTK70 Transporte\nTK99 Santa Marías\nTK98 San Manuel, La Pedrera\n**Circuito 33 Kv: 2020**\nTK85 Leningrado\nTK108 Tasajera\nTK84 El Triángulo\nTK86 Poblado Colombia\nTK88 Dos Hermanos\nTK107 La Islita\nTK112 Argentina Norte\nTK111 Ramírez\n**Circuito 33 Kv: 6810**\nTK82 Tana\nTK83 Las Maboas\nTK113 La Aurora\nTK74 La Lomita\nTK110 El Batey\n6810 Poblado Amancio\n**Circuito 33 Kv: 6100**\nTK35 Puerto Manatí\nTK36 El Raúl\nTK22 Aeropuerto\nTK23 Veguita\nTK32 Fleytas\nTK30 Meriño\nTK48 Puerto Padre y Maniabón\n**Circuito 33 Kv: 6305**\nTK41 Calixto\nTK40 Vista Alegre\nTK42 Gastón y Arroyo Muerto\nTK45 La Ceiba\nTK43 Las Parras, Omaja y Cañada Honda\nTK44 Vivienda",
     "timestamp": 1772365312,
     "timestamp_local": 1772365312
-  },
-  {
-    "id": 18266,
-    "fecha": "28 de Feb del 2026 a las 08:47 PM",
-    "hora_utc": "2026-03-01 01:47",
-    "mensaje": "Circuitos afectados por déficit:                                                                                                                                                                                                                  Bloque # 1\nCircuito 33 Kv: 6230\nTK59 Vedado 3\nTK67 Porcino\nTK68 Vedado 6\nTK69 Poblado de Menéndez\nTK70 Transporte\nTK99 Santa Marías\nTK98 San Manuel, La Pedrera\nCircuito 33 Kv: 2020\nTK85 Leningrado\nTK108 Tasajera\nTK84 El Triángulo\nTK86 Poblado Colombia\nTK88 Dos Hermanos\nTK107 La Islita\nTK112 Argentina Norte\nTK111 Ramírez\nCircuito 33Kv 6455\nTK27 La Victoria\nCircuito 33 Kv: 6810\nTK82 Tana\nTK83 Las Maboas\nTK113 La Aurora\nTK74 La Lomita\nTK110 El Batey\n6810 Poblado Amancio\nCircuito 33 Kv: 6100\nTK35 Puerto Manatí\nTK36 El Raúl\nTK22 Aeropuerto\nTK23 Veguita\nTK32 Fleytas\nTK30 Meriño\nCircuito de 33Kv 6225\nTK93 Batey Delicias\nTK48 Puerto Padre y Maniabón\nCircuito 33 Kv: 6305\nTK41 Calixto\nTK40 Vista Alegre\nTK42 Gastón y Arroyo Muerto\nTK45 La Ceiba\nTK43 Las Parras, Omaja y Cañada Honda\nTK44 Vivienda\nTK24 Reparto Santo Domingo",
-    "timestamp": 1772329643,
-    "timestamp_local": 1772329643
-  },
-  {
-    "id": 18265,
-    "fecha": "28 de Feb del 2026 a las 04:58 PM",
-    "hora_utc": "2026-02-28 21:58",
-    "mensaje": "Se declara en avería los siguientes circuitos, qué corresponden a la localidad de Majibacoa.\nTK42 Gastón y Arroyo Muerto\nTK45 La Ceiba",
-    "timestamp": 1772315899,
-    "timestamp_local": 1772315899
-  },
-  {
-    "id": 18264,
-    "fecha": "28 de Feb del 2026 a las 04:06 PM",
-    "hora_utc": "2026-02-28 21:06",
-    "mensaje": "Debido al significativo déficit energético que enfrenta nuestro país y la disponibilidad limitada del Sistema Eléctrico Nacional (SEN) en comparación con la demanda actual, lamentamos no poder proporcionar una programación detallada de las afectaciones en el suministro eléctrico.",
-    "timestamp": 1772312761,
-    "timestamp_local": 1772312761
   }
 ]
