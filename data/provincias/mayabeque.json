@@ -1,5 +1,21 @@
 [
   {
+    "id": 108445,
+    "fecha": "02 de Mar del 2026 a las 10:11 AM",
+    "hora_utc": "2026-03-02 15:11",
+    "mensaje": "♦️Afectado el servicio en el siguiente circuito por disparo por DAF:\n*3590♦️",
+    "timestamp": 1772464311,
+    "timestamp_local": 1772464311
+  },
+  {
+    "id": 108444,
+    "fecha": "02 de Mar del 2026 a las 09:57 AM",
+    "hora_utc": "2026-03-02 14:57",
+    "mensaje": "♦️Afectado el servicio en el siguiente circuito por disparo en las líneas:\n*Vega♦️",
+    "timestamp": 1772463468,
+    "timestamp_local": 1772463468
+  },
+  {
     "id": 108441,
     "fecha": "02 de Mar del 2026 a las 09:09 AM",
     "hora_utc": "2026-03-02 14:09",
@@ -118,21 +134,5 @@
     "mensaje": "🚨Por déficit de capacidad de generación se afecta el servicio en el siguiente circuito:\n*2440 🚨",
     "timestamp": 1772452370,
     "timestamp_local": 1772452370
-  },
-  {
-    "id": 108425,
-    "fecha": "02 de Mar del 2026 a las 06:44 AM",
-    "hora_utc": "2026-03-02 11:44",
-    "mensaje": "🔷 Restablecido el servicio en el circuito 3590 que se encontraba afectado por disparo por DAF 🔷",
-    "timestamp": 1772451868,
-    "timestamp_local": 1772451868
-  },
-  {
-    "id": 108424,
-    "fecha": "02 de Mar del 2026 a las 06:36 AM",
-    "hora_utc": "2026-03-02 11:36",
-    "mensaje": "♦️ Continúa afectado el servicio en las siguientes zonas y circuitos por avería:\n👉 Somorrostro\n👉 Aguacate\n*Pollería Congreso \n* Finca La Camara\n*Vaquería 40, 41,42 y zonas aledañas ♦️",
-    "timestamp": 1772451418,
-    "timestamp_local": 1772451418
   }
 ]
