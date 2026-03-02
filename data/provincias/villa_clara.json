@@ -1,5 +1,45 @@
 [
   {
+    "id": 41565,
+    "fecha": "02 de Mar del 2026 a las 04:39 PM",
+    "hora_utc": "2026-03-02 21:39",
+    "mensaje": "⚠️Afectados por déficit de generación los siguientes circuitos:\n👉Municipio Ranchuelo:\nCto 92 Esperanza (Pueblo)\nCto 93 Esperanza (Campo)\nCtos 54, 94 y 95 Jicotea\n👉Municipio Santa Clara\nCtos 26 y 141 (Manuelita)\nCto 191 (Quemado de Hilario)                                           \n👉Municipio Santo Domingo\nCto 79 (Santo Domingo)\nCto 81 (26 de Julio)\nCto 163 (Batey 26 de Julio)",
+    "timestamp": 1772487566,
+    "timestamp_local": 1772487566
+  },
+  {
+    "id": 41564,
+    "fecha": "02 de Mar del 2026 a las 04:37 PM",
+    "hora_utc": "2026-03-02 21:37",
+    "mensaje": "⚠️Afectados por déficit de generación los siguientes circuitos:\n👉Municipio Santa Clara:\nCto 5 (Dobarganes)\nCto 17 (Subplanta)",
+    "timestamp": 1772487471,
+    "timestamp_local": 1772487471
+  },
+  {
+    "id": 41563,
+    "fecha": "02 de Mar del 2026 a las 04:18 PM",
+    "hora_utc": "2026-03-02 21:18",
+    "mensaje": "⚠️Afectados por déficit de generación los siguientes circuitos:\n\n👉Municipio Encrucijada\nCto 120 Calabazar\nCtos 121 y 127 Perucho",
+    "timestamp": 1772486331,
+    "timestamp_local": 1772486331
+  },
+  {
+    "id": 41562,
+    "fecha": "02 de Mar del 2026 a las 04:17 PM",
+    "hora_utc": "2026-03-02 21:17",
+    "mensaje": "⚠️Afectados por déficit de generación los siguientes circuitos:\n👉Municipio Remedios:\nCtos 67 y 152, 68 y 118 \nCtos 69 y 70 Zuluetas\nCto 143 Batey Heriberto Duquezne \nCto 71 Buena Vista",
+    "timestamp": 1772486262,
+    "timestamp_local": 1772486262
+  },
+  {
+    "id": 41560,
+    "fecha": "02 de Mar del 2026 a las 04:05 PM",
+    "hora_utc": "2026-03-02 21:05",
+    "mensaje": "🔸Actualización del servicio eléctrico en la provincia🔸\n✍️Se mantienen afectados en la provincia 97 circuitos.\n✍️En el momento de hacer esta nota la provincia tiene 96 MW por déficit de capacidad de generación.\n✍️Cuenta con 108 afectaciones por averías secundarias y de servicio.",
+    "timestamp": 1772485518,
+    "timestamp_local": 1772485518
+  },
+  {
     "id": 41559,
     "fecha": "02 de Mar del 2026 a las 04:00 PM",
     "hora_utc": "2026-03-02 21:00",
@@ -102,53 +142,5 @@
     "mensaje": "🛠️Afectados por vía libre para reparar avería los siguientes circuitos:\n👉Cto 6 (Vigía)\n👉Cto 39 (Sandino)\n👉Cto 34 (Sabana Rebacadero)",
     "timestamp": 1772473514,
     "timestamp_local": 1772473514
-  },
-  {
-    "id": 41545,
-    "fecha": "02 de Mar del 2026 a las 12:33 PM",
-    "hora_utc": "2026-03-02 17:33",
-    "mensaje": "💡Restablecido el servicio eléctrico en la Línea 6375.",
-    "timestamp": 1772472787,
-    "timestamp_local": 1772472787
-  },
-  {
-    "id": 41544,
-    "fecha": "02 de Mar del 2026 a las 12:01 PM",
-    "hora_utc": "2026-03-02 17:01",
-    "mensaje": "💡Restablecido el servicio eléctrico en la Línea 1215.",
-    "timestamp": 1772470860,
-    "timestamp_local": 1772470860
-  },
-  {
-    "id": 41543,
-    "fecha": "02 de Mar del 2026 a las 12:00 PM",
-    "hora_utc": "2026-03-02 17:00",
-    "mensaje": "🕛Actualización del servicio eléctrico en las últimas 6 horas.\n\n👉El déficit de capacidad de generación osciló entre los 53 MW y los 65 MW.\n👉En el momento de esta nota, se mantienen afectados 87 circuitos.\n👉Cuenta con 124 afectaciones por averías secundarias y de servicio:\n Caibarién (1)\n Camajuaní (3)\n Corralillo (1)\n Encrucijada (5)\n Manicaragua (2)\n Placetas (5)\n Ranchuelo (7)\n Remedios (4) \n Sagua (13) \n Santa Clara (45)\n Santo Domingo (13)\n🛠️Se encuentran 9 averías en vías de solución.\n🛠️Pendientes a solucionar por el área técnica 17.\n\n⚡Averías⚡\n👉Cto 110 afectado de manera parcial (Ramal Pico Blanco y Bermejo), perteneciente al municipio Manicaragua, por cable primario partido.\n👉En vía libre Línea 1720.",
-    "timestamp": 1772470804,
-    "timestamp_local": 1772470804
-  },
-  {
-    "id": 41542,
-    "fecha": "02 de Mar del 2026 a las 11:28 AM",
-    "hora_utc": "2026-03-02 16:28",
-    "mensaje": "💡Restablecido el DAF en la Línea 1205.",
-    "timestamp": 1772468928,
-    "timestamp_local": 1772468928
-  },
-  {
-    "id": 41541,
-    "fecha": "02 de Mar del 2026 a las 10:39 AM",
-    "hora_utc": "2026-03-02 15:39",
-    "mensaje": "⚠️Afectada por DAF la Línea 1205.\n👉Línea 1205\n🔸Municipio Sagua\nCtos 43, 51 Sagua\nCto 44 Isabela\nCtos 50 y 147 Villa Alegre",
-    "timestamp": 1772465943,
-    "timestamp_local": 1772465943
-  },
-  {
-    "id": 41540,
-    "fecha": "02 de Mar del 2026 a las 10:00 AM",
-    "hora_utc": "2026-03-02 15:00",
-    "mensaje": "🔸Actualización del servicio eléctrico en la provincia🔸\n✍️Se mantienen afectados en la provincia 87 circuitos.\n✍️En el momento de hacer esta nota la provincia tiene 53 MW por déficit de capacidad de generación.\n✍️Cuenta con 79 afectaciones por averías secundarias y de servicio.",
-    "timestamp": 1772463626,
-    "timestamp_local": 1772463626
   }
 ]
