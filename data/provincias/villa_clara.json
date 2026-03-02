@@ -1,5 +1,21 @@
 [
   {
+    "id": 41551,
+    "fecha": "02 de Mar del 2026 a las 02:22 PM",
+    "hora_utc": "2026-03-02 19:22",
+    "mensaje": "🔴 13:55 || Fuera de línea la Unidad 3 de la CTE Antonio Maceo por fallo en autómata de caldera.",
+    "timestamp": 1772479334,
+    "timestamp_local": 1772479334
+  },
+  {
+    "id": 41549,
+    "fecha": "02 de Mar del 2026 a las 01:57 PM",
+    "hora_utc": "2026-03-02 18:57",
+    "mensaje": "🔸Actualización del servicio eléctrico en la provincia🔸\n✍️Se mantienen afectados en la provincia 87 circuitos.\n✍️En el momento de hacer esta nota la provincia tiene 71 MW por déficit de capacidad de generación.\n✍️Cuenta con 109 afectaciones por averías secundarias y de servicio.",
+    "timestamp": 1772477858,
+    "timestamp_local": 1772477858
+  },
+  {
     "id": 41548,
     "fecha": "02 de Mar del 2026 a las 12:48 PM",
     "hora_utc": "2026-03-02 17:48",
@@ -134,29 +150,5 @@
     "mensaje": "🚨Nota informativa.🚨 \n\n📆Situación del SEN para el 02 de marzo de 2026.\n\n👉En el día de ayer se afectó el servicio por déficit de capacidad durante las 24 horas y se ha mantenido la afectación durante la madrugada de hoy. La máxima afectación por déficit de capacidad de generación en el día de ayer fue de 1679 MW a las 19:00 horas.\n\n☀️La producción de energía de los 51 nuevos parques solares fotovoltaicos fue de 4466.31 MWh, con 840 MW como máxima potencia entregada en el horario de la media con esta fuente de generación. \n\n▪️La disponibilidad del SEN a las 06:00 horas es de 1185 MW, la demanda 2170 MW, con 1000 MW afectados. En el horario de la media se estima una afectación de 950 MW.  \n\n🛠️Se encuentran en avería, la unidad 5 de la CTE Mariel, la unidad 2 de la CTE de Santa Cruz, la unidad 2 de la CTE Felton y las unidades 5 y 6 de la CTE Renté. Se encuentran en mantenimiento, la unidad 6 de la CTE Mariel, la unidad 4 de la CTE Cienfuegos y la unidad 5 de la CTE Nuevitas.\nLas limitaciones en la generación térmica son de 431 MW.\n\n📈Con este pronóstico se prevé para el pico una disponibilidad de 1185 MW con una demanda máxima de 3180 MW, para un déficit de 1995 MW, por lo que de mantenerse las condiciones previstas se pronostica una afectación de 2025 MW en este horario.\n\nUNE-MINEM.",
     "timestamp": 1772456167,
     "timestamp_local": 1772456167
-  },
-  {
-    "id": 41531,
-    "fecha": "02 de Mar del 2026 a las 07:36 AM",
-    "hora_utc": "2026-03-02 12:36",
-    "mensaje": "⚠️Afectado por déficit de generación el circuito 99 del municipio Placetas.",
-    "timestamp": 1772454999,
-    "timestamp_local": 1772454999
-  },
-  {
-    "id": 41530,
-    "fecha": "02 de Mar del 2026 a las 07:32 AM",
-    "hora_utc": "2026-03-02 12:32",
-    "mensaje": "💡Restablecido el servicio eléctrico en los siguientes circuitos:\n👉Municipio Santo Domingo:\nCto 195 Batey George Washington\nCtos 83 y 165 Manacas\nCtos 85 y 86 Pajarito\nCtos 160 y 161 Cascajal\n\n👉Municipio Santo Domingo:\nCto 134\nCtos 87 y 96 Bermejal\nCto 187 Batey Carlos Baliño\nCto 82 Ulacia\nCto 84 Rodrigo\n👉Municipio Ranchuelo:\nCto 92 Esperanza (Pueblo)\nCto 93 Esperanza (Campo)\nCtos 54, 94 y 95 Jicotea\n👉Municipio Santa Clara\nCtos 26 y 141 (Manuelita)\nCto 191 (Quemado de Hilario)                                           \n👉Municipio Santo Domingo\nCto 79 (Santo Domingo)\nCto 81 (26 de Julio)\nCto 163 (Batey 26 de Julio",
-    "timestamp": 1772454771,
-    "timestamp_local": 1772454771
-  },
-  {
-    "id": 41529,
-    "fecha": "02 de Mar del 2026 a las 07:06 AM",
-    "hora_utc": "2026-03-02 12:06",
-    "mensaje": "⚡Afectado Cto 83 (Manacas ) , perteneciente al Municipio Santo Domingo por cable de alta tensión partido.",
-    "timestamp": 1772453170,
-    "timestamp_local": 1772453170
   }
 ]
