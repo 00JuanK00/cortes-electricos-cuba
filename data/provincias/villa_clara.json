@@ -1,5 +1,37 @@
 [
   {
+    "id": 41578,
+    "fecha": "02 de Mar del 2026 a las 06:51 PM",
+    "hora_utc": "2026-03-02 23:51",
+    "mensaje": "💡Restablecido el servicio eléctrico en el circuito 162 SC Industrial después de reparada la avería.",
+    "timestamp": 1772495472,
+    "timestamp_local": 1772495472
+  },
+  {
+    "id": 41577,
+    "fecha": "02 de Mar del 2026 a las 06:46 PM",
+    "hora_utc": "2026-03-02 23:46",
+    "mensaje": "🛠️Afectada por vía libre la Línea 1915 para reparar avería.\n👉Línea 1915  \n🔸Municipio Placetas:\nCto 192 Benito Juárez\nCto 102 Peroti",
+    "timestamp": 1772495165,
+    "timestamp_local": 1772495165
+  },
+  {
+    "id": 41576,
+    "fecha": "02 de Mar del 2026 a las 06:31 PM",
+    "hora_utc": "2026-03-02 23:31",
+    "mensaje": "⚡Afectado por avería el circuito 102 Peroti, del municipio Placetas, por estar faltando una fase.",
+    "timestamp": 1772494302,
+    "timestamp_local": 1772494302
+  },
+  {
+    "id": 41575,
+    "fecha": "02 de Mar del 2026 a las 06:25 PM",
+    "hora_utc": "2026-03-02 23:25",
+    "mensaje": "⚠️Afectados por déficit de generación los siguientes circuitos:\n👉Municipio Santa Clara:\nCtos 15 y 27 (Maleza)",
+    "timestamp": 1772493953,
+    "timestamp_local": 1772493953
+  },
+  {
     "id": 41574,
     "fecha": "02 de Mar del 2026 a las 06:03 PM",
     "hora_utc": "2026-03-02 23:03",
@@ -118,37 +150,5 @@
     "mensaje": "🕐 Atención: El próximo sábado cambia la hora. ¡Ajusta tus relojes!\n\nInformamos a la población que, según lo establecido, el próximo sábado 8 de marzo entrará en vigor el horario de verano.\n\nPor tal motivo, al llegar la noche del sábado (madrugada del domingo), deberás adelantar tus relojes una hora. Es decir, cuando marquen las 12:00 a.m., serán las 01:00 a.m.\n\nCon este cambio aprovechamos mejor la luz solar ¡Comparte esta información con tus familiares y amigos!",
     "timestamp": 1772485244,
     "timestamp_local": 1772485244
-  },
-  {
-    "id": 41558,
-    "fecha": "02 de Mar del 2026 a las 03:56 PM",
-    "hora_utc": "2026-03-02 20:56",
-    "mensaje": "✍Estimados clientes:\n👉Por inestabilidad en el sistema se ha encontrado afectado el servicio eléctrico en reiteradas ocasiones en línea 1920 ( Poblado de Placetas ) por lo que le exhortamos a desconectar sus equipos y una vez restablecido el servicio esperar un tiempo para la reconexión de los mismos.",
-    "timestamp": 1772484992,
-    "timestamp_local": 1772484992
-  },
-  {
-    "id": 41557,
-    "fecha": "02 de Mar del 2026 a las 03:54 PM",
-    "hora_utc": "2026-03-02 20:54",
-    "mensaje": "🛠️Afectado por DAF (Disparo Automático por Frecuencia), de la línea 1920:\nAfecta los siguientes circuitos:\n🔹Municipio Placetas:\n👉Ctos 101 y 145 Cumbre\n👉Cto 107 Baez\n👉Cto 105 Nazareno",
-    "timestamp": 1772484877,
-    "timestamp_local": 1772484877
-  },
-  {
-    "id": 41556,
-    "fecha": "02 de Mar del 2026 a las 03:27 PM",
-    "hora_utc": "2026-03-02 20:27",
-    "mensaje": "⚠️Continúan afectados por déficit de generación los circuitos siguientes.\n👉Municipio Manicaragua:\nCtos 108 y 110 La Piedra\nCto 111 Mataguá",
-    "timestamp": 1772483275,
-    "timestamp_local": 1772483275
-  },
-  {
-    "id": 41555,
-    "fecha": "02 de Mar del 2026 a las 02:57 PM",
-    "hora_utc": "2026-03-02 19:57",
-    "mensaje": "⚠️Afectado por déficit de generación el circuito 168 (Condado).",
-    "timestamp": 1772481424,
-    "timestamp_local": 1772481424
   }
 ]
