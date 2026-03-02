@@ -1,5 +1,21 @@
 [
   {
+    "id": 18297,
+    "fecha": "02 de Mar del 2026 a las 03:47 PM",
+    "hora_utc": "2026-03-02 20:47",
+    "mensaje": "¿Qué es un disparo por DAF?\nEl Disparo por Frecuencia (DAF) es un mecanismo de protección del sistema eléctrico. Se activa automáticamente cuando la frecuencia desciende por debajo de los valores mínimos seguros (menores de 60 Hz), lo que pone en riesgo la estabilidad del sistema.\nEn ese momento, algunos circuitos se desconectan de forma automática para aliviar la carga y permitir que la frecuencia vuelva a su valor nominal.\nEsto suele ocurrir cuando una planta generadora sale de servicio de manera imprevista, provocando un déficit de generación. El DAF ayuda a evitar un colapso mayor del sistema, aunque puede generar afectaciones al servicio como apagones parciales.",
+    "timestamp": 1772484479,
+    "timestamp_local": 1772484479
+  },
+  {
+    "id": 18296,
+    "fecha": "02 de Mar del 2026 a las 03:47 PM",
+    "hora_utc": "2026-03-02 20:47",
+    "mensaje": "Se encuentran disparados por DAF los siguientes circuitos:\nTK5 Buena Vista, Los Pinos\nTK106 Palancón, Buena Vista",
+    "timestamp": 1772484448,
+    "timestamp_local": 1772484448
+  },
+  {
     "id": 18294,
     "fecha": "02 de Mar del 2026 a las 01:52 PM",
     "hora_utc": "2026-03-02 18:52",
@@ -102,21 +118,5 @@
     "mensaje": "Se afecta los siguientes circuitos:\nCircuito 33 Kv: 6810\nTK82 Tana\nTK83 Las Maboas\nTK113 La Aurora\nTK74 La Lomita\nTK110 El Batey\n6810 Poblado Amancio",
     "timestamp": 1772393872,
     "timestamp_local": 1772393872
-  },
-  {
-    "id": 18277,
-    "fecha": "01 de Mar del 2026 a las 01:36 PM",
-    "hora_utc": "2026-03-01 18:36",
-    "mensaje": "Se afecta por emergencia los siguientes circuitos por emergencia:\nCircuito 33 Kv: 6100\nTK35 Puerto Manatí\nTK36 El Raúl\nTK22 Aeropuerto\nTK23 Veguita \nTK32 Fleytas \nTK30 Meriño",
-    "timestamp": 1772390183,
-    "timestamp_local": 1772390183
-  },
-  {
-    "id": 18276,
-    "fecha": "01 de Mar del 2026 a las 11:55 AM",
-    "hora_utc": "2026-03-01 16:55",
-    "mensaje": "Se afecta  TK24 -TK4 Aeropuerto, Casa Piedra y Aurora por vía libre por emergencia",
-    "timestamp": 1772384102,
-    "timestamp_local": 1772384102
   }
 ]
