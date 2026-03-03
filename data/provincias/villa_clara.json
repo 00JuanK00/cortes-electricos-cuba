@@ -1,5 +1,45 @@
 [
   {
+    "id": 41605,
+    "fecha": "03 de Mar del 2026 a las 12:25 PM",
+    "hora_utc": "2026-03-03 17:25",
+    "mensaje": "⚠️Afectados por déficit de capacidad de generación los siguientes circuitos:\n🔹Municipio Cifuentes:\n👉Ctos 114 y 117\n👉Ctos 116 y 155 Mata\n👉Cto 186 Batey Unidad Proletaria\n👉Cto 184 Sitio Grande",
+    "timestamp": 1772558738,
+    "timestamp_local": 1772558738
+  },
+  {
+    "id": 41604,
+    "fecha": "03 de Mar del 2026 a las 12:10 PM",
+    "hora_utc": "2026-03-03 17:10",
+    "mensaje": "🕛Actualización del servicio eléctrico en las últimas 6 horas.\n✍️El déficit de capacidad de generación osciló entre los 62 MW y los 103 MW.\n✍️En el momento de esta nota, se mantienen afectados 113 circuitos.\n✍️Cuenta con 132 afectaciones por averías secundarias y de servicio:\n🔸Caibarién (2)\n🔸Camajuaní (4)\n🔸Cifuentes (3)\n🔸Encrucijada (5)\n🔸Manicaragua (9)\n🔸Placetas (9)\n🔸Ranchuelo (3)\n🔸Remedios (5) \n🔸Sagua (6) \n🔸Santa Clara (42)\n🔸Santo Domingo (22)\n🛠️Se encuentran 9 averías en vías de solución.\n🛠️Pendientes a solucionar por el área técnica 14.\n\n⚡Avería⚡\n👉Cto 110 afectado de manera parcial (Ramal Pico Blanco y Bermejo), perteneciente al municipio Manicaragua, por cable primario partido.",
+    "timestamp": 1772557848,
+    "timestamp_local": 1772557848
+  },
+  {
+    "id": 41603,
+    "fecha": "03 de Mar del 2026 a las 12:05 PM",
+    "hora_utc": "2026-03-03 17:05",
+    "mensaje": "🛠️ Afectada la línea 1960:\n🔹Municipio Encrucijada\n👉Cto 120 Calabazar\n👉Ctos 121 y 127 Perucho\n\n✍️Al momento de restablecerse la misma quedará afectado por vía libre para realizar trabajos en la Subestación el circuito 120 (Calabazar), del municipio Encrucijada.",
+    "timestamp": 1772557530,
+    "timestamp_local": 1772557530
+  },
+  {
+    "id": 41602,
+    "fecha": "03 de Mar del 2026 a las 11:57 AM",
+    "hora_utc": "2026-03-03 16:57",
+    "mensaje": "⚠️Afectados por déficit de capacidad de generación los siguientes circuitos:\n🔹Municipio Manicaragua:\n👉Ctos 109 y 150\n👉Ctos 108 y 110 La Piedra\n👉Cto 111 Mataguá",
+    "timestamp": 1772557032,
+    "timestamp_local": 1772557032
+  },
+  {
+    "id": 41601,
+    "fecha": "03 de Mar del 2026 a las 11:32 AM",
+    "hora_utc": "2026-03-03 16:32",
+    "mensaje": "🛠️Afectado por (DAF), la línea 1920:\nAfecta los siguientes circuitos:\n🔹Municipio Placetas:\n👉Ctos 101 y 145 Cumbre\n👉Cto 107 Baez\n👉Cto 105 Nazareno",
+    "timestamp": 1772555552,
+    "timestamp_local": 1772555552
+  },
+  {
     "id": 41600,
     "fecha": "03 de Mar del 2026 a las 10:39 AM",
     "hora_utc": "2026-03-03 15:39",
@@ -102,29 +142,5 @@
     "mensaje": "🔸Actualización del servicio eléctrico en la provincia🔸\n✍️Se mantienen afectados en la provincia 122 circuitos.\n✍️En el momento de hacer esta nota la provincia tiene 58 MW por déficit de capacidad de generación.\n✍️Cuenta con 87 afectaciones por averías secundarias y de servicio.",
     "timestamp": 1772521009,
     "timestamp_local": 1772521009
-  },
-  {
-    "id": 41584,
-    "fecha": "03 de Mar del 2026 a las 12:03 AM",
-    "hora_utc": "2026-03-03 05:03",
-    "mensaje": "🕛Actualización del servicio eléctrico en las últimas 6 horas.\n\n👉El déficit de capacidad de generación osciló entre los 95 MW y los 73 MW.\n👉En el momento de esta nota, se mantienen afectados 122 circuitos.\n👉Cuenta con 113 afectaciones por averías secundarias y de servicio:\n Camajuaní (6)\n Cifuentes (1)\n Encrucijada (1)\n Manicaragua (4)\n Placetas (12)\n Ranchuelo (1)\n Remedios (4) \n Sagua (10) \n Santa Clara (37)\n Santo Domingo (15)\n🛠️Se encuentran 7 averías en vías de solución.\n🛠️Pendientes a solucionar por el área técnica 15.\n\n⚡Avería⚡\n👉Cto 110 afectado de manera parcial (Ramal Pico Blanco y Bermejo), perteneciente al municipio Manicaragua, por cable primario partido.",
-    "timestamp": 1772514185,
-    "timestamp_local": 1772514185
-  },
-  {
-    "id": 41583,
-    "fecha": "02 de Mar del 2026 a las 10:51 PM",
-    "hora_utc": "2026-03-03 03:51",
-    "mensaje": "🤔Ante cualquier duda con la terminología eléctrica, les volvemos explicar: \n     \n➡️Las averías pueden ser primarias (afecta un volumen grande de población pues son las líneas de distribución a 13.8kV y puede afectar varias manzanas, incluso repartos completos).\n\n➡️Secundarias (afecta a todos los clientes que se alimenten del mismo transformador, puede afectar una o varias cuadras). \n\n➡️De servicio (afectan 1 solo cliente o instalación generalmente producto a daños en la acometida, metro contador, etc.).",
-    "timestamp": 1772509915,
-    "timestamp_local": 1772509915
-  },
-  {
-    "id": 41582,
-    "fecha": "02 de Mar del 2026 a las 10:00 PM",
-    "hora_utc": "2026-03-03 03:00",
-    "mensaje": "🔸Actualización del servicio eléctrico en la provincia🔸\n✍️Se mantienen afectados en la provincia 122 circuitos.\n✍️En el momento de hacer esta nota la provincia tiene 90 MW por déficit de capacidad de generación.\n✍️Cuenta con 101 afectaciones por averías secundarias y de servicio.",
-    "timestamp": 1772506811,
-    "timestamp_local": 1772506811
   }
 ]
