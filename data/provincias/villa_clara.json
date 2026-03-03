@@ -1,5 +1,29 @@
 [
   {
+    "id": 41636,
+    "fecha": "03 de Mar del 2026 a las 05:25 PM",
+    "hora_utc": "2026-03-03 22:25",
+    "mensaje": "⚠️Afectado por déficit de capacidad de generación el circuito 13 (Zona Industrial), del municipio Santa Clara.",
+    "timestamp": 1772576708,
+    "timestamp_local": 1772576708
+  },
+  {
+    "id": 41635,
+    "fecha": "03 de Mar del 2026 a las 05:14 PM",
+    "hora_utc": "2026-03-03 22:14",
+    "mensaje": "⚠️Afectados por déficit de capacidad de generación los siguientes circuitos:\n🔹Municipio Ranchuelo:\n👉Cto 92 Esperanza (Pueblo)\n👉Cto 93 Esperanza (Campo)\n👉Ctos 54, 94 y 95 Jicotea\n🔹Municipio Santa Clara\n👉Ctos 26 y 141 (Manuelita)\n👉Cto 191 (Quemado de Hilario)                                           \n🔹Municipio Santo Domingo\n👉Cto 79 (Santo Domingo)\n👉Cto 81 (26 de Julio)\n👉Cto 163 (Batey 26 de Julio",
+    "timestamp": 1772576086,
+    "timestamp_local": 1772576086
+  },
+  {
+    "id": 41634,
+    "fecha": "03 de Mar del 2026 a las 05:08 PM",
+    "hora_utc": "2026-03-03 22:08",
+    "mensaje": "⚠️Afectados por déficit de capacidad de generación los siguientes circuitos:\n🔹Municipio Camajuaní\n👉Ctos 77 y 185 Vueltas\n🔹Municipio Remedios:\n👉Cto 71 Buena Vista \n👉Ctos 67 y 152, 68 y 118 \n👉Ctos 69 y 70 Zuluetas\n👉Cto 143 Batey Heriberto Duquezne",
+    "timestamp": 1772575713,
+    "timestamp_local": 1772575713
+  },
+  {
     "id": 41633,
     "fecha": "03 de Mar del 2026 a las 04:49 PM",
     "hora_utc": "2026-03-03 21:49",
@@ -134,29 +158,5 @@
     "mensaje": "⚠️Afectados por déficit de capacidad de generación los siguientes circuitos:\n🔹Municipio Placetas \n👉Ctos 100 y 151 Placetas\n👉Cto 104 Hermanos Amejeiras\n👉Cto 103 Batey Carbó Servía",
     "timestamp": 1772562819,
     "timestamp_local": 1772562819
-  },
-  {
-    "id": 41616,
-    "fecha": "03 de Mar del 2026 a las 01:30 PM",
-    "hora_utc": "2026-03-03 18:30",
-    "mensaje": "🛠️Afectado por (DAF), la línea 1920:\nAfecta los siguientes circuitos:\n🔹Municipio Placetas:\n👉Ctos 101 y 145 Cumbre\n👉Cto 107 Baez\n👉Cto 105 Nazareno",
-    "timestamp": 1772562609,
-    "timestamp_local": 1772562609
-  },
-  {
-    "id": 41615,
-    "fecha": "03 de Mar del 2026 a las 01:26 PM",
-    "hora_utc": "2026-03-03 18:26",
-    "mensaje": "⚠️Afectados por déficit de capacidad de generación los siguientes circuitos:\n🔹Municipio Santa Clara: \n👉Cto 167 (Virginia)\n👉Cto 170 (José Martí)",
-    "timestamp": 1772562412,
-    "timestamp_local": 1772562412
-  },
-  {
-    "id": 41614,
-    "fecha": "03 de Mar del 2026 a las 01:22 PM",
-    "hora_utc": "2026-03-03 18:22",
-    "mensaje": "Con servicio la línea 1920:\n🔹Municipio Placetas:\n👉Ctos 101 y 145 Cumbre\n👉Cto 107 Baez\n👉Cto 105 Nazareno",
-    "timestamp": 1772562153,
-    "timestamp_local": 1772562153
   }
 ]
