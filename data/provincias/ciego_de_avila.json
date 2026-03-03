@@ -1,5 +1,21 @@
 [
   {
+    "id": 36401,
+    "fecha": "03 de Mar del 2026 a las 04:35 PM",
+    "hora_utc": "2026-03-03 21:35",
+    "mensaje": "‼️ Información ‼️   \n👉En estos momentos subimos a 81 MW en la provincia afectados por déficit de generación. Con este déficit no podemos cumplir con una programación estable, por lo que los circuitos se afectarán o se restablecerán en dependencia del déficit que haya en cada momento de la jornada.",
+    "timestamp": 1772573755,
+    "timestamp_local": 1772573755
+  },
+  {
+    "id": 36400,
+    "fecha": "03 de Mar del 2026 a las 04:03 PM",
+    "hora_utc": "2026-03-03 21:03",
+    "mensaje": "📍Se encuentran afectados por el DAF los circuitos: \n\n👉 Nereida, Peonía, Politécnico de Informática.\n❌Un Disparo Automático por Frecuencia (DAF) es una protección que posee el sistema eléctrico para cuando la frecuencia llega a valores mínimos permisibles que ponen en peligro la estabilidad de todo el sistema en su conjunto y provoca una desconexión automática de algunos circuitos hasta que esta vuelva a recuperar su valor nominal a 60 Hz o ciclos por segundo. Esto ocurre al salir de forma imprevista o repentina una planta generadora con una potencia determinada y el sistema en su conjunto necesita liberar esa carga hasta tanto se puedan recuperar la potencia de generación perdida anteriormente o dar las afectaciones al servicio por déficit de generación.",
+    "timestamp": 1772571796,
+    "timestamp_local": 1772571796
+  },
+  {
     "id": 36399,
     "fecha": "03 de Mar del 2026 a las 03:36 PM",
     "hora_utc": "2026-03-03 20:36",
@@ -118,21 +134,5 @@
     "mensaje": "‼️Déficit de Generación ‼️   \n👉Bajamos a 43 MW en la provincia afectados por déficit de generación.\n\n✅Se encuentran afectados los siguientes circuitos:\n👉1, A102, A104, A106, A206, A208, Expreso, Cítrico II, Isaca,  Cítrico I, Cítrico III, Cítrico IV, Ceballos, Combinado Cítrico, Las Grullas, La Cuba, La Cuba II, Falla, Ranchuelo, Nereida, Peonia, Politécnico de Informática, Morón Norte, Micro Norte, Morón Sur, San Fernando, Violeta, Pablo, Ognara, Montoto, Tres Marías, Velazco, Miraflores, Bolivia,\n\n⏰ Reiteramos que los circuitos se afectarán o se restablecerán en dependencia del déficit en cada momento de la jornada, que es muy variable.",
     "timestamp": 1772529662,
     "timestamp_local": 1772529662
-  },
-  {
-    "id": 36378,
-    "fecha": "03 de Mar del 2026 a las 01:00 AM",
-    "hora_utc": "2026-03-03 06:00",
-    "mensaje": "‼️ Déficit de Generación ‼️  \n👉Nos mantenemos con 66 MW en la provincia afectados por déficit de generación.\n⏰ Reiteramos que los circuitos se afectarán o se restablecerán en dependencia del déficit en cada momento de la jornada, que es muy variable.",
-    "timestamp": 1772517641,
-    "timestamp_local": 1772517641
-  },
-  {
-    "id": 36377,
-    "fecha": "02 de Mar del 2026 a las 11:36 PM",
-    "hora_utc": "2026-03-03 04:36",
-    "mensaje": "‼️ Déficit de Generación ‼️  \n👉Bajamos a 66 MW en la provincia afectados por déficit de generación.\n⏰ Reiteramos que los circuitos se afectarán o se restablecerán en dependencia del déficit en cada momento de la jornada, que es muy variable.",
-    "timestamp": 1772512612,
-    "timestamp_local": 1772512612
   }
 ]
