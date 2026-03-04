@@ -1,5 +1,53 @@
 [
   {
+    "id": 41676,
+    "fecha": "04 de Mar del 2026 a las 09:16 AM",
+    "hora_utc": "2026-03-04 14:16",
+    "mensaje": "💡Restablecido el servicio eléctrico en los siguientes circuitos:\nLínea 1915  \n🔹Municipio Placetas:\n👉Cto 192 Benito Juárez\n👉Cto 102 Peroti",
+    "timestamp": 1772633766,
+    "timestamp_local": 1772633766
+  },
+  {
+    "id": 41675,
+    "fecha": "04 de Mar del 2026 a las 09:10 AM",
+    "hora_utc": "2026-03-04 14:10",
+    "mensaje": "Afectados 48 MW en la provincia, demanda máxima a apagar en estos momentos.",
+    "timestamp": 1772633446,
+    "timestamp_local": 1772633446
+  },
+  {
+    "id": 41674,
+    "fecha": "04 de Mar del 2026 a las 09:10 AM",
+    "hora_utc": "2026-03-04 14:10",
+    "mensaje": "⚠️Afectada por DAF la siguiente línea:\nLínea 1915  \n🔹Municipio Placetas:\n👉Cto 192 Benito Juárez\n👉Cto 102 Peroti",
+    "timestamp": 1772633417,
+    "timestamp_local": 1772633417
+  },
+  {
+    "id": 41673,
+    "fecha": "04 de Mar del 2026 a las 09:00 AM",
+    "hora_utc": "2026-03-04 14:00",
+    "mensaje": "💡Restablecido el servicio eléctrico en los siguientes circuitos:\nLínea 1960 \n🔹Municipio Encrucijada\n👉Cto 120 Calabazar\n👉Ctos 121 y 127 Perucho\nLínea 1915  \n🔹Municipio Placetas:\n👉Cto 192 Benito Juárez\n👉Cto 102 Peroti",
+    "timestamp": 1772632803,
+    "timestamp_local": 1772632803
+  },
+  {
+    "id": 41672,
+    "fecha": "04 de Mar del 2026 a las 08:57 AM",
+    "hora_utc": "2026-03-04 13:57",
+    "mensaje": "La Provincia presenta 1 afectación de servicio eléctrico por transformador dañado\n👉Municipio Ranchuelo: Camilo Cienfuegos e/Antonio Maceo y Calixto Garcia.",
+    "timestamp": 1772632648,
+    "timestamp_local": 1772632648
+  },
+  {
+    "id": 41671,
+    "fecha": "04 de Mar del 2026 a las 08:44 AM",
+    "hora_utc": "2026-03-04 13:44",
+    "mensaje": "⚠️Afectadas por DAF las siguientes líneas :\nLínea 1960 \n🔹Municipio Encrucijada\n👉Cto 120 Calabazar\n👉Ctos 121 y 127 Perucho\nLínea 1915  \n🔹Municipio Placetas:\n👉Cto 192 Benito Juárez\n👉Cto 102 Peroti",
+    "timestamp": 1772631842,
+    "timestamp_local": 1772631842
+  },
+  {
     "id": 41670,
     "fecha": "04 de Mar del 2026 a las 08:38 AM",
     "hora_utc": "2026-03-04 13:38",
@@ -102,53 +150,5 @@
     "mensaje": "🛠️Afectado por manipulación el circuito 167 (Virginia), del municipio Santa Clara.",
     "timestamp": 1772602724,
     "timestamp_local": 1772602724
-  },
-  {
-    "id": 41656,
-    "fecha": "04 de Mar del 2026 a las 12:25 AM",
-    "hora_utc": "2026-03-04 05:25",
-    "mensaje": "Con servicio el circuito 167 (Virginia), del municipio Santa Clara.",
-    "timestamp": 1772601955,
-    "timestamp_local": 1772601955
-  },
-  {
-    "id": 41655,
-    "fecha": "04 de Mar del 2026 a las 12:21 AM",
-    "hora_utc": "2026-03-04 05:21",
-    "mensaje": "🛠️Afectado por manipulación el circuito 167 (Virginia), del municipio Santa Clara, para reponer transformador.",
-    "timestamp": 1772601691,
-    "timestamp_local": 1772601691
-  },
-  {
-    "id": 41654,
-    "fecha": "04 de Mar del 2026 a las 12:09 AM",
-    "hora_utc": "2026-03-04 05:09",
-    "mensaje": "🕕Actualización del servicio eléctrico en las últimas 6 horas.\n✍️El déficit de capacidad de generación osciló entre los 130 MW y los 67 MW.\n✍️En el momento de esta nota, se mantienen afectados 120 circuitos.\n✍️Cuenta con 75 afectaciones por averías secundarias y de servicio:\n🔸Corralillo (4)\n🔸Manicaragua (9)\n🔸Placetas (7)\n🔸Remedios (8) \n🔸Sagua (2) \n🔸Santa Clara (22)\n🔸Santo Domingo (9)\n🛠️Se encuentran 5 averías en vías de solución.\n🛠️Pendientes a solucionar por el área técnica 11.\n⚡Avería⚡\n👉El circuito 118 (Jinaguayabo), del municipio Remedios, se encuentra afectado debido a cable primario partido.",
-    "timestamp": 1772600955,
-    "timestamp_local": 1772600955
-  },
-  {
-    "id": 41653,
-    "fecha": "03 de Mar del 2026 a las 10:56 PM",
-    "hora_utc": "2026-03-04 03:56",
-    "mensaje": "Con servicio la línea 861:\n🔹Municipio Santa Clara:\n👉Cto 5 (Dobarganes)\n👉Cto 17 (Subplanta) \n👉Ctos 37 y 38 (Yabú)   \n👉Cto 9 (Moldes y Troqueles)\n👉Cto 133 (Taller Cafetera)",
-    "timestamp": 1772596573,
-    "timestamp_local": 1772596573
-  },
-  {
-    "id": 41652,
-    "fecha": "03 de Mar del 2026 a las 10:21 PM",
-    "hora_utc": "2026-03-04 03:21",
-    "mensaje": "Con servicio la línea 1780:\n🔹Municipio Santa Clara:\n👉Cto 16 Cubanacán \n👉Ctos 23 y 130 La Ceniza\n👉Cto 42 Manajanabo\n\n🔹Municipio Placetas\n👉Cto 139 Miller\n👉Cto 190 Oliver\n👉Cto 106 Falcón\n👉Ctos 98 y 99 Placetas",
-    "timestamp": 1772594515,
-    "timestamp_local": 1772594515
-  },
-  {
-    "id": 41651,
-    "fecha": "03 de Mar del 2026 a las 10:12 PM",
-    "hora_utc": "2026-03-04 03:12",
-    "mensaje": "🛠️Afectado por manipulación la línea 1780, para reponer el circuito 139 (Miller):\nAfecta los siguientes circuitos:\n🔹Municipio Santa Clara:\n👉Cto 16 Cubanacán \n👉Ctos 23 y 130 La Ceniza\n👉Cto 42 Manajanabo\n🔹Municipio Placetas\n👉Cto 190 Oliver\n👉Cto 106 Falcón\n👉Ctos 98 y 99 Placetas",
-    "timestamp": 1772593959,
-    "timestamp_local": 1772593959
   }
 ]

@@ -1,5 +1,13 @@
 [
   {
+    "id": 18316,
+    "fecha": "04 de Mar del 2026 a las 09:03 AM",
+    "hora_utc": "2026-03-04 14:03",
+    "mensaje": "Nota Informativa: Estado del Sistema Eléctrico Nacional (SEN) – 4 de marzo de 2026\n\nEn el día de ayer se afectó el servicio por déficit de capacidad durante las 24 horas y se ha mantenido la afectación durante la madrugada de hoy. La máxima afectación por déficit de capacidad de generación en el día de ayer fue de 1917 MW a las 19:10 horas.\n\nLa producción de energía de los 51 nuevos parques solares fotovoltaicos fue de 4332 MWh, con 741 MW como máxima potencia entregada en el horario de la media con esta fuente de generación.\nEstado actual del SEN\n\nLa disponibilidad del SEN a las 06:00 horas es de 1180 MW, la demanda 2250 MW, con 1050 MW afectados. En el horario de la media se estima una afectación de 1050 MW.\nPrincipales incidencias\n\n    Avería: Unidad 5 de la CTE Mariel, Unidad 2 de la CTE Felton y Unidades 5 y 6 de la CTE Antonio Maceo.\n    Mantenimiento: Unidad 6 de la CTE Mariel, Unidad 5 de la CTE Nuevitas, Unidad 4 de la CTE Carlos Manuel de Céspedes en Cienfuegos.\n    Limitaciones en la generación térmica: 460 MW fuera de servicio.\n\nPronóstico para el horario pico\n\nSe prevé para el pico una disponibilidad de 1180 MW con una demanda máxima de 3100 MW, para un déficit de 1920 MW, por lo que de mantenerse las condiciones previstas se pronostica una afectación de 1950 MW en este horario.",
+    "timestamp": 1772632994,
+    "timestamp_local": 1772632994
+  },
+  {
     "id": 18315,
     "fecha": "03 de Mar del 2026 a las 10:57 PM",
     "hora_utc": "2026-03-04 03:57",
@@ -94,13 +102,5 @@
     "mensaje": "¿Qué es un disparo por DAF?\nEl Disparo por Frecuencia (DAF) es un mecanismo de protección del sistema eléctrico. Se activa automáticamente cuando la frecuencia desciende por debajo de los valores mínimos seguros (menores de 60 Hz), lo que pone en riesgo la estabilidad del sistema.\nEn ese momento, algunos circuitos se desconectan de forma automática para aliviar la carga y permitir que la frecuencia vuelva a su valor nominal.\nEsto suele ocurrir cuando una planta generadora sale de servicio de manera imprevista, provocando un déficit de generación. El DAF ayuda a evitar un colapso mayor del sistema, aunque puede generar afectaciones al servicio como apagones parciales.",
     "timestamp": 1772484479,
     "timestamp_local": 1772484479
-  },
-  {
-    "id": 18296,
-    "fecha": "02 de Mar del 2026 a las 03:47 PM",
-    "hora_utc": "2026-03-02 20:47",
-    "mensaje": "Se encuentran disparados por DAF los siguientes circuitos:\nTK5 Buena Vista, Los Pinos\nTK106 Palancón, Buena Vista",
-    "timestamp": 1772484448,
-    "timestamp_local": 1772484448
   }
 ]
