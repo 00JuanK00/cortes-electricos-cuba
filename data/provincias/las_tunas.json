@@ -1,5 +1,37 @@
 [
   {
+    "id": 18320,
+    "fecha": "04 de Mar del 2026 a las 10:10 AM",
+    "hora_utc": "2026-03-04 15:10",
+    "mensaje": "La Empresa Eléctrica Las Tunas informa que, según la nota emitida por la Unión Eléctrica para el 4 de marzo, en el día de ayer se afectó el servicio durante las 24 horas y se ha mantenido la afectación durante la madrugada de hoy. En nuestra provincia se afectaron la totalidad de los circuitos apagables, con una máxima afectación de 68.6 MW.\nActualmente están fuera de servicio por avería la Unidad 5 de la CTE Mariel, Unidad 2 de la CTE Felton y Unidades 5 y 6 de la CTE Antonio Maceo.\nEn mantenimiento se encuentran Unidad 6 de la CTE Mariel, Unidad 5 de la CTE Nuevitas, Unidad 4 de la CTE Carlos Manuel de Céspedes en Cienfuegos.\nEn el horario diurno se pronostica una afectación de 1050 MW, lo cual representará para nuestra provincia una afectación del 80% de los circuitos.\nEn el horario nocturno se estima una afectación de 1950 MW, lo cual en este horario puede representar la totalidad de los circuitos apagables, debido al alto déficit de capacidad de generación existente.\nEstos valores pueden variar según la demanda nacional. puede representar la totalidad de los circuitos apagables y en el horario pico nocturno puede extenderse igualmente a todos ellos, debido al alto déficit de capacidad de generación existente.",
+    "timestamp": 1772637021,
+    "timestamp_local": 1772637021
+  },
+  {
+    "id": 18319,
+    "fecha": "04 de Mar del 2026 a las 10:00 AM",
+    "hora_utc": "2026-03-04 15:00",
+    "mensaje": "¿Qué es un disparo por DAF?\nEl Disparo por Frecuencia (DAF) es un mecanismo de protección del sistema eléctrico. Se activa automáticamente cuando la frecuencia desciende por debajo de los valores mínimos seguros (menores de 60 Hz), lo que pone en riesgo la estabilidad del sistema.\nEn ese momento, algunos circuitos se desconectan de forma automática para aliviar la carga y permitir que la frecuencia vuelva a su valor nominal.\nEsto suele ocurrir cuando una planta generadora sale de servicio de manera imprevista, provocando un déficit de generación. El DAF ayuda a evitar un colapso mayor del sistema, aunque puede generar afectaciones al servicio como apagones parciales.",
+    "timestamp": 1772636408,
+    "timestamp_local": 1772636408
+  },
+  {
+    "id": 18318,
+    "fecha": "04 de Mar del 2026 a las 09:59 AM",
+    "hora_utc": "2026-03-04 14:59",
+    "mensaje": "Se encuentran afectado por DAF Circuito 33 Kv: 6230\n TK59 Vedado 3\nTK67 Porcino\nTK68 Vedado 6\nTK69 Poblado de Menéndez\nTK70 Transporte\nTK99 Santa Marías\nTK98 San Manuel, La Pedrera\nTK64 Palma Picada",
+    "timestamp": 1772636346,
+    "timestamp_local": 1772636346
+  },
+  {
+    "id": 18317,
+    "fecha": "04 de Mar del 2026 a las 09:51 AM",
+    "hora_utc": "2026-03-04 14:51",
+    "mensaje": "Se declara en avería Circuito 33 Kv: 6100\nTK23 Veguita",
+    "timestamp": 1772635870,
+    "timestamp_local": 1772635870
+  },
+  {
     "id": 18316,
     "fecha": "04 de Mar del 2026 a las 09:03 AM",
     "hora_utc": "2026-03-04 14:03",
@@ -11,7 +43,7 @@
     "id": 18315,
     "fecha": "03 de Mar del 2026 a las 10:57 PM",
     "hora_utc": "2026-03-04 03:57",
-    "mensaje": "Se declara en avería el circuito:\nCircuito 33 Kv: 6470-6300\nTK13 Yariguá \nTJ11 Bartle \nTK91 Macagua \nTK87 Pueblo Jobabo\nTK90 Escuela Especial Jobabo\n6470 Mina de Oro, Las Margaritas",
+    "mensaje": "Se declara en avería el circuito:\nCircuito 33 Kv: 6470-6300\nTK13 Yariguá \nTJ11 Bartle \nTK91 Macagua \nTK87 Pueblo Jobabo\nTK90 Escuela Especial Jobabo\n6470 Mina de Oro, Las Margaritas-TK-10 El Cornito",
     "timestamp": 1772596629,
     "timestamp_local": 1772596629
   },
@@ -78,29 +110,5 @@
     "mensaje": "🚨Nota informativa.🚨 \n\n📆 Situación del SEN para el 03 de marzo de 2026.\n\n👉 En el día de ayer se afectó el servicio por déficit de capacidad durante las 24 horas y se ha mantenido la afectación durante la madrugada de hoy. La máxima afectación por déficit de capacidad de generación en el día de ayer fue de 1947 MW a las 19:20 horas.\n\n☀️La producción de energía de los 51 nuevos parques solares fotovoltaicos fue de 4132 MWh, con 602 MW como máxima potencia entregada en el horario de la media con esta fuente de generación. \n\n▪️La disponibilidad del SEN a las 06:00 horas es de 1155 MW, la demanda 2220 MW, con 1072 MW afectados. En el horario de la media se estima una afectación de  1100  MW.  \n\n🛠️Se encuentran en avería, la unidad 5 de la CTE Mariel, la unidad 2 de la CTE de Santa Cruz, la unidad 2 de la CTE Felton y las unidades 3, 5 y 6 de la CTE Renté. Se encuentran en mantenimiento, la unidad 6 de la CTE Mariel, la unidad 4 de la CTE Cienfuegos y la unidad 5 de la CTE Nuevitas.\n\n▪️Las limitaciones en la generación térmica son de 379 MW.\n▪️Para el horario máxima demanda se prevé la entrada de la unidad 3 de la CTE Rente con 35 MW.\n\n📈 Con este pronóstico se prevé para el pico una disponibilidad de 1190 MW con una demanda máxima de 3150 MW, para un déficit de 1960 MW, por lo que de mantenerse las condiciones previstas se pronostica una afectación de 1990 MW en este horario.",
     "timestamp": 1772547630,
     "timestamp_local": 1772547630
-  },
-  {
-    "id": 18300,
-    "fecha": "02 de Mar del 2026 a las 08:40 PM",
-    "hora_utc": "2026-03-03 01:40",
-    "mensaje": "🇨🇺 Actualización del Sistema Electroenergético Nacional a las 19:00 del 2 de marzo de 2026.\nIncidencias:\n13:55 Fuera de línea la unidad 3 de la CTE Antonio Maceo (Rente 3) por problemas automaticos de la caldera.\n#UnidosXCuba #NotaInformativa #UniónEléctrica #SEN",
-    "timestamp": 1772502047,
-    "timestamp_local": 1772502047
-  },
-  {
-    "id": 18299,
-    "fecha": "02 de Mar del 2026 a las 04:19 PM",
-    "hora_utc": "2026-03-02 21:19",
-    "mensaje": "QUE SIGNIFICA E IMPLICA LA MÁXIMA CAPACIDAD APAGABLE EN LA PROVINCIA: \nMáxima capacidad apagable se refiere al nivel máximo de demanda eléctrica que puede ser desconectada o suspendida temporalmente en la provincia, explica la complejidad del déficit de generación o contingencias en el sistema eléctrico.\nRepresenta el límite superior de la reducción de carga que la empresa puede lograr mediante cortes de energía (apagones). Cuanto mayor sea la máxima capacidad apagable, mayor será el déficit de energía.\n¿Qué implica esto?\nSe identifica cuántos circuitos pueden ser apagados para equilibrar la carga del sistema, esto imposibilita realizar rotaciones, pues a excepción de los servicios priorizados, se encuentran afectados todos los circuitos apagables del territorio. Podrán presentarse afectaciones en el servicio de electricidad durante varias horas al día y el tiempo con servicio dependerá del comportamiento del SEN. Esta medida es necesaria para evitar fallas mayores y proteger la infraestructura eléctrica.",
-    "timestamp": 1772486376,
-    "timestamp_local": 1772486376
-  },
-  {
-    "id": 18297,
-    "fecha": "02 de Mar del 2026 a las 03:47 PM",
-    "hora_utc": "2026-03-02 20:47",
-    "mensaje": "¿Qué es un disparo por DAF?\nEl Disparo por Frecuencia (DAF) es un mecanismo de protección del sistema eléctrico. Se activa automáticamente cuando la frecuencia desciende por debajo de los valores mínimos seguros (menores de 60 Hz), lo que pone en riesgo la estabilidad del sistema.\nEn ese momento, algunos circuitos se desconectan de forma automática para aliviar la carga y permitir que la frecuencia vuelva a su valor nominal.\nEsto suele ocurrir cuando una planta generadora sale de servicio de manera imprevista, provocando un déficit de generación. El DAF ayuda a evitar un colapso mayor del sistema, aunque puede generar afectaciones al servicio como apagones parciales.",
-    "timestamp": 1772484479,
-    "timestamp_local": 1772484479
   }
 ]
