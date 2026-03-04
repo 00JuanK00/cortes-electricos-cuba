@@ -1,5 +1,29 @@
 [
   {
+    "id": 41704,
+    "fecha": "04 de Mar del 2026 a las 05:58 PM",
+    "hora_utc": "2026-03-04 22:58",
+    "mensaje": "Estimados Clientes de Villa Clara\nEn la provincia se continúa con los trabajos para la creación de los microsistemas, con ellos se están priorizando el servicio en los centros vitales como Hospitales, Lácteos y Bombeo de Agua, así como los clientes pertenecientes a esas zonas.\nEste es un proceso complejo por la condición inestable del sistema, hasta tanto sincronice el SEN de forma paulatina. Por tanto se recomienda desconectar todos los equipos, solo dejar encendido lo esencial, hasta tanto se logre la estabilidad del servicio.",
+    "timestamp": 1772665096,
+    "timestamp_local": 1772665096
+  },
+  {
+    "id": 41703,
+    "fecha": "04 de Mar del 2026 a las 05:25 PM",
+    "hora_utc": "2026-03-04 22:25",
+    "mensaje": "💡Restablecido el servicio eléctrico en el siguiente circuito:  \n🔹Municipio Santa Clara:\n👉Cto 13 Zona Industrial",
+    "timestamp": 1772663144,
+    "timestamp_local": 1772663144
+  },
+  {
+    "id": 41702,
+    "fecha": "04 de Mar del 2026 a las 05:06 PM",
+    "hora_utc": "2026-03-04 22:06",
+    "mensaje": "💡Restablecido el servicio eléctrico en el siguiente circuito:  \n🔹Municipio Santa Clara:\n👉Cto 162 SC Industrial",
+    "timestamp": 1772662004,
+    "timestamp_local": 1772662004
+  },
+  {
     "id": 41701,
     "fecha": "04 de Mar del 2026 a las 04:50 PM",
     "hora_utc": "2026-03-04 21:50",
@@ -59,7 +83,7 @@
     "id": 41694,
     "fecha": "04 de Mar del 2026 a las 03:49 PM",
     "hora_utc": "2026-03-04 20:49",
-    "mensaje": "💡Restablecido el servicio eléctrico en los siguientes circuitos:  \n🔹Municipio Santa Clara:\n**👉Cto 194 SC. Industrial**\n**👉Zona Hospitalaria ( Hospital Nuevo)**\n**🔹Municipio Manicaragua:\n👉Ctos 109\n👉Ctos 113 y 137 La Campana\n👉Cto 112 Hoyo Manicaragua**",
+    "mensaje": "💡Restablecido el servicio eléctrico en los siguientes circuitos:  \n🔹Municipio Santa Clara:\n**👉Cto 194 SC. Industrial**\n**👉Zona Hospitalaria ( Hospital Nuevo, Infantil**, Materno)\n**🔹Municipio Manicaragua:\n👉Ctos 109 ( de manera Parcial)\n👉Ctos 113 y 137 La Campana\n👉Cto 112 Hoyo Manicaragua**",
     "timestamp": 1772657387,
     "timestamp_local": 1772657387
   },
@@ -134,29 +158,5 @@
     "mensaje": "Afectados 57 MW en la provincia, demanda máxima a apagar en estos momentos.",
     "timestamp": 1772640124,
     "timestamp_local": 1772640124
-  },
-  {
-    "id": 41684,
-    "fecha": "04 de Mar del 2026 a las 10:32 AM",
-    "hora_utc": "2026-03-04 15:32",
-    "mensaje": "Afectados por Vía Libre Sub Gran Panel por trabajos en el transformador 110kV.\nQuedando afectados los siguientes circuitos:\n👉Cto 166 (Condado) el cual se encuentra afectado por déficit de capacidad de generación\n👉Cto 167 (Virginia)\n👉Cto 169 (Condado)\n👉Cto 170 (José Martí)\n👉Cto 171 (Los Caneyes)\n👉Cto 168 (Condado- XX Aniversario)",
-    "timestamp": 1772638350,
-    "timestamp_local": 1772638350
-  },
-  {
-    "id": 41683,
-    "fecha": "04 de Mar del 2026 a las 10:27 AM",
-    "hora_utc": "2026-03-04 15:27",
-    "mensaje": "✍Estimados clientes:\n👉Por inestabilidad en el sistema se ha encontrado afectado el servicio eléctrico en reiteradas ocasiones en las siguientes líneas 1910, 1915, 1920 y 1960 por lo que le exhortamos a desconectar sus equipos y una vez restablecido el servicio esperar un tiempo para la reconexión de los mismos.",
-    "timestamp": 1772638059,
-    "timestamp_local": 1772638059
-  },
-  {
-    "id": 41682,
-    "fecha": "04 de Mar del 2026 a las 10:20 AM",
-    "hora_utc": "2026-03-04 15:20",
-    "mensaje": "⚠️Afectados por déficit de capacidad de generación los siguientes circuitos:\n🔹Municipio Camajuaní:\n👉Ctos 77 y 185 Vueltas",
-    "timestamp": 1772637638,
-    "timestamp_local": 1772637638
   }
 ]
