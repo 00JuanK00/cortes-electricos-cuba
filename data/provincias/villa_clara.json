@@ -1,9 +1,25 @@
 [
   {
+    "id": 41756,
+    "fecha": "05 de Mar del 2026 a las 02:40 PM",
+    "hora_utc": "2026-03-05 19:40",
+    "mensaje": "⚠️ Afectado el servicio eléctrico en los siguientes circuitos: \n🔹Municipio Santa Clara:\n👉Cto 5 (Dobarganes)\n👉Cto 17 (Subplanta)\n👉Cto 162 (Santa Clara Industrial)",
+    "timestamp": 1772739625,
+    "timestamp_local": 1772739625
+  },
+  {
+    "id": 41755,
+    "fecha": "05 de Mar del 2026 a las 02:19 PM",
+    "hora_utc": "2026-03-05 19:19",
+    "mensaje": "💡Restablecido el servicio eléctrico en el siguiente circuito\n🔹Municipio Santa Clara\n👉 Cto 1 (Consejo Centro)",
+    "timestamp": 1772738388,
+    "timestamp_local": 1772738388
+  },
+  {
     "id": 41754,
     "fecha": "05 de Mar del 2026 a las 01:59 PM",
     "hora_utc": "2026-03-05 18:59",
-    "mensaje": "💡 Afectado el servicio eléctrico en los siguientes circuitos:          \n🔹Municipio Santa Clara\n👉 Cto 6 (Vigía)",
+    "mensaje": "⚠️ Afectado el servicio eléctrico en los siguientes circuitos:          \n🔹Municipio Santa Clara\n👉 Cto 6 (Vigía)",
     "timestamp": 1772737152,
     "timestamp_local": 1772737152
   },
@@ -67,7 +83,7 @@
     "id": 41746,
     "fecha": "05 de Mar del 2026 a las 01:10 PM",
     "hora_utc": "2026-03-05 18:10",
-    "mensaje": "⚠️ Afectado el servicio eléctrico en los siguientes circuitos:          \n🔹Municipio  Placetas.\n👉Ctos 101 y 145 Cumbre\n🔹Municipio Santa Clara: \n👉Cto 166 (Condado)",
+    "mensaje": "⚠️ Afectado el servicio eléctrico en los siguientes circuitos:      \n🔹Municipio Santa Clara: \n👉Cto 166 (Condado)",
     "timestamp": 1772734243,
     "timestamp_local": 1772734243
   },
@@ -83,7 +99,7 @@
     "id": 41744,
     "fecha": "05 de Mar del 2026 a las 01:05 PM",
     "hora_utc": "2026-03-05 18:05",
-    "mensaje": "⚠️ Afectado el servicio eléctrico en los siguientes circuitos:          🔹Municipio  Sagua\n👉Ctos 43 y 51 (Villa Alegre)",
+    "mensaje": "⚠️ Afectado el servicio eléctrico en los siguientes circuitos:          🔹Municipio  Sagua\n👉Ctos 50 y 147 (Villa Alegre)",
     "timestamp": 1772733927,
     "timestamp_local": 1772733927
   },
@@ -142,13 +158,5 @@
     "mensaje": "⚡🇨🇺 | Villa Clara mantiene restricciones eléctricas pese a recuperación nacional del SEN\n\nLa provincia de Villa Clara continúa enfrentando dificultades en el suministro eléctrico, aun cuando el Sistema Eléctrico Nacional ha logrado restablecerse . Así lo confirmó Yadier Ruiz Sánchez, director del despacho provincial de carga de la Empresa Eléctrica Villa Clara .\nSegún datos proporcionados a la prensa, la capacidad generadora disponible en todo el país al cierre de la madrugada de este 5 de marzo alcanzaba los 590 MW. De ese total, Villa Clara contaba con aproximadamente 23 MW, cantidad que resulta insuficiente para atender las necesidades de sus municipios.\nEsta limitación explica que localidades como Camajuaní, Remedios, Caibarién, Corralillo y Ranchuelo permanezcan sin electricidad. En el caso de Santo Domingo, se reporta un avance parcial: la subestación ya fue energizada, aunque los circuitos de distribución aún no han comenzado a operar.\nLas autoridades eléctricas de la provincia indican que los trabajos de estabilización del sistema continúan sin interrupción, con el objetivo de ir restableciendo el servicio en las zonas afectadas. Se prevé que en las próximas horas se brinden actualizaciones sobre la situación energética del territorio.",
     "timestamp": 1772727645,
     "timestamp_local": 1772727645
-  },
-  {
-    "id": 41735,
-    "fecha": "05 de Mar del 2026 a las 10:56 AM",
-    "hora_utc": "2026-03-05 15:56",
-    "mensaje": "💡Restablecido el servicio eléctrico en los siguientes circuitos: \n🔹Municipio Santa Clara:\n👉Cto 16 Cubanacán \n👉Ctos 23 y 130 La Ceniza\n👉Cto 42 Manajanabo\n🔹Municipio Placetas\n👉Cto 139 Miller\n👉Cto 190 Oliver\n👉Cto 106 Falcón\n👉Ctos 98  Placetas",
-    "timestamp": 1772726191,
-    "timestamp_local": 1772726191
   }
 ]
