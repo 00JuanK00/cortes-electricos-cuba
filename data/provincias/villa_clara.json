@@ -1,5 +1,37 @@
 [
   {
+    "id": 41761,
+    "fecha": "05 de Mar del 2026 a las 04:00 PM",
+    "hora_utc": "2026-03-05 21:00",
+    "mensaje": "💡Restablecido el servicio eléctrico en los siguientes circuitos:\n🔹Municipio Camajuaní:\n👉Ctos 77 (Vueltas )\n🔹Municipio Caibarién\n👉Ctos 182 y 183 Van Troy",
+    "timestamp": 1772744421,
+    "timestamp_local": 1772744421
+  },
+  {
+    "id": 41760,
+    "fecha": "05 de Mar del 2026 a las 03:57 PM",
+    "hora_utc": "2026-03-05 20:57",
+    "mensaje": "⚠️ Afectado el servicio eléctrico en los siguientes circuitos:          \n🔹Municipio Camajuaní:\n👉Ctos 59 y 185 Vueltas",
+    "timestamp": 1772744221,
+    "timestamp_local": 1772744221
+  },
+  {
+    "id": 41759,
+    "fecha": "05 de Mar del 2026 a las 03:45 PM",
+    "hora_utc": "2026-03-05 20:45",
+    "mensaje": "⚠️ Afectado el servicio eléctrico en el siguiente circuito:          \n🔹Municipio Manicaragua\n👉 Cto 112 (Hoyo Manicaragua)",
+    "timestamp": 1772743509,
+    "timestamp_local": 1772743509
+  },
+  {
+    "id": 41758,
+    "fecha": "05 de Mar del 2026 a las 03:29 PM",
+    "hora_utc": "2026-03-05 20:29",
+    "mensaje": "📣Actualización del servicio eléctrico \n✍️El déficit de capacidad de generación en estos momentos es de 100 MW .\n✍️En el momento de esta nota, se mantienen afectados 120 circuitos.\n✍️Cuenta con 67 afectaciones por averías secundarias y de servicio:\n🔸Caibarien (2)\n🔸Camajuani (2)\n🔸Encrucijada (2)\n🔸Manicaragua (7)\n🔸Placetas (4)\n🔸Quemado (1)\n🔸Ranchuelo (2)\n🔸Remedios (3) \n🔸Sagua (5) \n🔸Santa Clara (21)\n🔸Santo Domingo (11)\n🛠️Se encuentran 5 averías en vías de solución.\n🛠️Pendientes a solucionar por el área técnica 7.\n✅ En estos momentos la provincia no presenta averías primarias.",
+    "timestamp": 1772742589,
+    "timestamp_local": 1772742589
+  },
+  {
     "id": 41757,
     "fecha": "05 de Mar del 2026 a las 02:55 PM",
     "hora_utc": "2026-03-05 19:55",
@@ -126,37 +158,5 @@
     "mensaje": "🛠️Afectado por emergencia circuito 3 Consejo- Centro por proximidad al trabajo en la Sub Estación Eléctrica del circuito 1 de Santa Clara\n 👉Causa de la avería: Puente partido",
     "timestamp": 1772732881,
     "timestamp_local": 1772732881
-  },
-  {
-    "id": 41741,
-    "fecha": "05 de Mar del 2026 a las 12:44 PM",
-    "hora_utc": "2026-03-05 17:44",
-    "mensaje": "⚠️ Afectado el servicio eléctrico en el siguiente circuito:          🔹Municipio Santa Clara\n👉Cto 30 y 193 SC Industrial",
-    "timestamp": 1772732663,
-    "timestamp_local": 1772732663
-  },
-  {
-    "id": 41740,
-    "fecha": "05 de Mar del 2026 a las 11:36 AM",
-    "hora_utc": "2026-03-05 16:36",
-    "mensaje": "⚠️ Afectado el servicio eléctrico en el siguiente circuito:          🔹Municipio Placetas\n👉 Cto 100 (Placetas)",
-    "timestamp": 1772728614,
-    "timestamp_local": 1772728614
-  },
-  {
-    "id": 41739,
-    "fecha": "05 de Mar del 2026 a las 11:31 AM",
-    "hora_utc": "2026-03-05 16:31",
-    "mensaje": "⚠️ Afectado el servicio eléctrico en el siguiente circuito:          🔹Municipio Santa Clara\n👉 Cto 31 (Santa Clara Industrial)",
-    "timestamp": 1772728309,
-    "timestamp_local": 1772728309
-  },
-  {
-    "id": 41738,
-    "fecha": "05 de Mar del 2026 a las 11:30 AM",
-    "hora_utc": "2026-03-05 16:30",
-    "mensaje": "⚡Afectado por emergencia el Cto 1(Consejo Centro), perteneciente al Municipio Santa Clara, por puente partido en la Sub Estación Eléctrica.",
-    "timestamp": 1772728214,
-    "timestamp_local": 1772728214
   }
 ]
