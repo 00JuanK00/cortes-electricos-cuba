@@ -1,5 +1,29 @@
 [
   {
+    "id": 18343,
+    "fecha": "05 de Mar del 2026 a las 10:25 AM",
+    "hora_utc": "2026-03-05 15:25",
+    "mensaje": "Se restablece los siguientes circuitos: \nCircuito 33 Kv: 2020\nTK85 Leningrado \nTK108 Tasajera\nTK84 El Triángulo \nTK86 Poblado Colombia \nTK88 Dos Hermanos\nTK107 La Islita \nTK 112 Argentina Norte \nTK111 Ramírez\n\nCircuito 33 Kv: 6220\nTK61 La Yaya\nTK58 La Calera\nTK62 Lora\nTK63 Lora\nTJ95 Poblado Menéndez\n6220 Carúpano, La Salina y La Playa",
+    "timestamp": 1772724314,
+    "timestamp_local": 1772724314
+  },
+  {
+    "id": 18342,
+    "fecha": "05 de Mar del 2026 a las 10:23 AM",
+    "hora_utc": "2026-03-05 15:23",
+    "mensaje": "Se afecta los siguientes circuitos:\nCircuito 33 Kv: 6810\nTK82 Tana\nTK83 Las Maboas\nTK113 La Aurora\nTK74 La Lomita\nTK110 El Batey\n6810 Poblado Amancio",
+    "timestamp": 1772724212,
+    "timestamp_local": 1772724212
+  },
+  {
+    "id": 18341,
+    "fecha": "05 de Mar del 2026 a las 10:08 AM",
+    "hora_utc": "2026-03-05 15:08",
+    "mensaje": "Se encuentra afectado el TK10 el Cornito para realizar trabajos el la línea pertenecientes a los protocolos de restablecimiento del sistema de la provincia.",
+    "timestamp": 1772723287,
+    "timestamp_local": 1772723287
+  },
+  {
     "id": 18340,
     "fecha": "05 de Mar del 2026 a las 09:25 AM",
     "hora_utc": "2026-03-05 14:25",
@@ -134,29 +158,5 @@
     "mensaje": "La Unión Eléctrica informa:\n🚨 #AHORA || Se produjo una desconexión del Sistema Electroenergético Nacional desde Camagüey hasta Pinar del Río. La desconexión se debe a la salida inesperada de la CTE Antonio Guiteras por un salidero en la caldera a las 12:41. Ya se encuentran activados todos los protocolos para el restablecimiento del SEN.",
     "timestamp": 1772648268,
     "timestamp_local": 1772648268
-  },
-  {
-    "id": 18323,
-    "fecha": "04 de Mar del 2026 a las 12:52 PM",
-    "hora_utc": "2026-03-04 17:52",
-    "mensaje": "🚨🚨Urgente \nUna falla en la operación del Sistema Eléctrico Nacional habría provocado la desconexión del occidente y centro con el oriente del país. Buscamos más detalles. Canal Caribe. \nTomado del perfil de Lázaro Manuel Alonso",
-    "timestamp": 1772646725,
-    "timestamp_local": 1772646725
-  },
-  {
-    "id": 18322,
-    "fecha": "04 de Mar del 2026 a las 11:47 AM",
-    "hora_utc": "2026-03-04 16:47",
-    "mensaje": "Se restablece el circuito 33 KV- 6230 que se encontraba afectado por DAF",
-    "timestamp": 1772642842,
-    "timestamp_local": 1772642842
-  },
-  {
-    "id": 18321,
-    "fecha": "04 de Mar del 2026 a las 11:12 AM",
-    "hora_utc": "2026-03-04 16:12",
-    "mensaje": "Se declara en avería Circuito 33 Kv: 6310\n TK 20-Becerra\nTK21-Tunazúcar",
-    "timestamp": 1772640745,
-    "timestamp_local": 1772640745
   }
 ]
