@@ -1,5 +1,21 @@
 [
   {
+    "id": 18339,
+    "fecha": "05 de Mar del 2026 a las 08:10 AM",
+    "hora_utc": "2026-03-05 13:10",
+    "mensaje": "🟡⚡️ El Ministerio de Energía y Minas de Cuba notificó hoy que a las 05:01 hora local quedó completamente interconectado el SEN desde el oriente hasta el occidente del país.\n\n👉⚡️🇨🇺El organismo, mediante su perfil en la red social X, especificó que el restablecimiento se logró desde la oriental provincia de Guantánamo hasta el extremo más occidental de Pinar del Río. \n\n👉⚡️Previamente, el director del Despacho Nacional de Carga de la Unión Eléctrica de Cuba (UNE), Félix Estrada, explicó que la falta de combustible diésel para la generación distribuida complejiza el restablecimiento del SEN.",
+    "timestamp": 1772716220,
+    "timestamp_local": 1772716220
+  },
+  {
+    "id": 18338,
+    "fecha": "05 de Mar del 2026 a las 07:59 AM",
+    "hora_utc": "2026-03-05 12:59",
+    "mensaje": "En estos omentos se encuentran con servicio los siguientes circuitos:\nCircuito 33 Kv: 6810\nTK82 Tana\nTK83 Las Maboas\nTK113 La Aurora\nTK74 La Lomita\nTK110 El Batey\n6810 Poblado Amancio\n\nCircuito 33 Kv: 6100\nTK35 Puerto Manatí\nTK36 El Raúl\nTK22 Aeropuerto\nTK23 Veguita \nTK32 Fleytas \nTK30 Meriño\n\nTK9 Aguilera, La Victoria \n\nTK15 Tunas El Pueblo\n\nTK19 San Antonio, Km 7\n\nTK93 Batey Delicias",
+    "timestamp": 1772715581,
+    "timestamp_local": 1772715581
+  },
+  {
     "id": 18337,
     "fecha": "05 de Mar del 2026 a las 07:55 AM",
     "hora_utc": "2026-03-05 12:55",
@@ -142,21 +158,5 @@
     "mensaje": "La Empresa Eléctrica Las Tunas informa que, según la nota emitida por la Unión Eléctrica para el 4 de marzo, en el día de ayer se afectó el servicio durante las 24 horas y se ha mantenido la afectación durante la madrugada de hoy. En nuestra provincia se afectaron la totalidad de los circuitos apagables, con una máxima afectación de 68.6 MW.\nActualmente están fuera de servicio por avería la Unidad 5 de la CTE Mariel, Unidad 2 de la CTE Felton y Unidades 5 y 6 de la CTE Antonio Maceo.\nEn mantenimiento se encuentran Unidad 6 de la CTE Mariel, Unidad 5 de la CTE Nuevitas, Unidad 4 de la CTE Carlos Manuel de Céspedes en Cienfuegos.\nEn el horario diurno se pronostica una afectación de 1050 MW, lo cual representará para nuestra provincia una afectación del 80% de los circuitos.\nEn el horario nocturno se estima una afectación de 1950 MW, lo cual en este horario puede representar la totalidad de los circuitos apagables, debido al alto déficit de capacidad de generación existente.\nEstos valores pueden variar según la demanda nacional. puede representar la totalidad de los circuitos apagables y en el horario pico nocturno puede extenderse igualmente a todos ellos, debido al alto déficit de capacidad de generación existente.",
     "timestamp": 1772637021,
     "timestamp_local": 1772637021
-  },
-  {
-    "id": 18319,
-    "fecha": "04 de Mar del 2026 a las 10:00 AM",
-    "hora_utc": "2026-03-04 15:00",
-    "mensaje": "¿Qué es un disparo por DAF?\nEl Disparo por Frecuencia (DAF) es un mecanismo de protección del sistema eléctrico. Se activa automáticamente cuando la frecuencia desciende por debajo de los valores mínimos seguros (menores de 60 Hz), lo que pone en riesgo la estabilidad del sistema.\nEn ese momento, algunos circuitos se desconectan de forma automática para aliviar la carga y permitir que la frecuencia vuelva a su valor nominal.\nEsto suele ocurrir cuando una planta generadora sale de servicio de manera imprevista, provocando un déficit de generación. El DAF ayuda a evitar un colapso mayor del sistema, aunque puede generar afectaciones al servicio como apagones parciales.",
-    "timestamp": 1772636408,
-    "timestamp_local": 1772636408
-  },
-  {
-    "id": 18318,
-    "fecha": "04 de Mar del 2026 a las 09:59 AM",
-    "hora_utc": "2026-03-04 14:59",
-    "mensaje": "Se encuentran afectado por DAF Circuito 33 Kv: 6230\n TK59 Vedado 3\nTK67 Porcino\nTK68 Vedado 6\nTK69 Poblado de Menéndez\nTK70 Transporte\nTK99 Santa Marías\nTK98 San Manuel, La Pedrera\nTK64 Palma Picada",
-    "timestamp": 1772636346,
-    "timestamp_local": 1772636346
   }
 ]

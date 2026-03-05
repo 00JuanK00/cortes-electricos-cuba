@@ -1,5 +1,21 @@
 [
   {
+    "id": 50487,
+    "fecha": "05 de Mar del 2026 a las 08:51 AM",
+    "hora_utc": "2026-03-05 13:51",
+    "mensaje": "🔴Estimados clientes, debido a la compleja situación que presenta el sistema Eléctrico Nacional (SEN) no es posible cumplir con la rotación prevista según la programación diseñada, por lo que se extenderá el horario de afectación del servicio eléctrico, y su restablecimiento dependerá del comportamiento de la demanda y de la disponibilidad del sistema.",
+    "timestamp": 1772718695,
+    "timestamp_local": 1772718695
+  },
+  {
+    "id": 50485,
+    "fecha": "05 de Mar del 2026 a las 08:07 AM",
+    "hora_utc": "2026-03-05 13:07",
+    "mensaje": "🔴Estimados clientes se les informa que se incorpora a la afectación el circuito 10 .",
+    "timestamp": 1772716064,
+    "timestamp_local": 1772716064
+  },
+  {
     "id": 50483,
     "fecha": "05 de Mar del 2026 a las 07:38 AM",
     "hora_utc": "2026-03-05 12:38",
@@ -102,37 +118,5 @@
     "mensaje": "🔴Estimados clientes se les informa que se esta manipulando el circuito 10.Disculpen por las molestias ocasionadas.",
     "timestamp": 1772687974,
     "timestamp_local": 1772687974
-  },
-  {
-    "id": 50467,
-    "fecha": "04 de Mar del 2026 a las 11:02 PM",
-    "hora_utc": "2026-03-05 04:02",
-    "mensaje": "🔴Estimados clientes se les informa que se incorpora a la afectación el circuito 9 .",
-    "timestamp": 1772683346,
-    "timestamp_local": 1772683346
-  },
-  {
-    "id": 50466,
-    "fecha": "04 de Mar del 2026 a las 10:39 PM",
-    "hora_utc": "2026-03-05 03:39",
-    "mensaje": "🔴Estimados clientes se les informa que se incorporan a la afectación  los circuitos 16 , 1 , 25 , 17 y la línea 4390.",
-    "timestamp": 1772681987,
-    "timestamp_local": 1772681987
-  },
-  {
-    "id": 50465,
-    "fecha": "04 de Mar del 2026 a las 10:19 PM",
-    "hora_utc": "2026-03-05 03:19",
-    "mensaje": "📌Tras la  desconexión del Sistema Eléctrico Nacional ocurrida en horas del mediodía desde Camagüey hasta Pinar del Río  soló quedó generando la Unidad 1 de la CTE Felton en toda la región oriental lo que trajo consigo que se incrementaran las afectaciones debido a la baja disponibilidad de generación.\n\nActualmente solo tienen servicio los circuitos con centros vitales y algunos con poca carga.\n\nSe prevé que en el horario de la madrugada se incorpore la Unidad 3 de la CTE Antonio Maceo, que ya inició desde la tarde su proceso de arranque. De incorporarse esta unidad se podrá incrementar la generación y  brindar servicio a los circuitos que llevan mayor tiempo de afectación.\n\nHasta tanto no se enlacen al SEN las regiones afectadas no se podrán rotar los circuitos.",
-    "timestamp": 1772680782,
-    "timestamp_local": 1772680782
-  },
-  {
-    "id": 50464,
-    "fecha": "04 de Mar del 2026 a las 09:43 PM",
-    "hora_utc": "2026-03-05 02:43",
-    "mensaje": "🔴Estimados clientes se les informa que se incorpora a la afectación el circuito 23.",
-    "timestamp": 1772678596,
-    "timestamp_local": 1772678596
   }
 ]
