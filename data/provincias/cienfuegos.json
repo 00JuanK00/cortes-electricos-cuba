@@ -1,5 +1,13 @@
 [
   {
+    "id": 49002,
+    "fecha": "06 de Mar del 2026 a las 06:12 PM",
+    "hora_utc": "2026-03-06 23:12",
+    "mensaje": "⚠Se comunica a nuestros clientes que nuestra provincia alcanzará un nivel de afectación de 95 MW.\n\n👉En breve se actualizarán la relación de los circuitos afectados por esta causa.",
+    "timestamp": 1772838769,
+    "timestamp_local": 1772838769
+  },
+  {
     "id": 49001,
     "fecha": "06 de Mar del 2026 a las 05:31 PM",
     "hora_utc": "2026-03-06 22:31",
@@ -110,13 +118,5 @@
     "mensaje": "⚠Se comunica a nuestros clientes que serán afectados por déficit de capacidad de generación los  siguientes  circuitos:\n \n👉C-92 Calzada Dolores, San Lázaro\n👉C-405 Pueblo Griffo Nuevo.\n👉C-406 San Lázaro, Calle 39 desde Ave 74 hasta Ave 48, Calle 35 de Ave 58 hasta Ave 64, Ave 58 de Calle 47 hasta Calle 49, Calle 47 de Ave 54 hasta Ave 58.\n\n📌Ofrecemos disculpas por las molestias ocasionadas.",
     "timestamp": 1772813064,
     "timestamp_local": 1772813064
-  },
-  {
-    "id": 48981,
-    "fecha": "06 de Mar del 2026 a las 10:58 AM",
-    "hora_utc": "2026-03-06 15:58",
-    "mensaje": "⚠Disparo automático por frecuencia (DAF).\n\nUn disparo por frecuencia o Descarga Automática por Frecuencia, es una protección que posee el sistema eléctrico para cuando la frecuencia llega a valores mínimos permisibles que ponen en peligro la estabilidad de todo el sistema en su conjunto y provoca una desconexión automática de algunos circuitos hasta que se vuelva a recuperar su valor nominal a 60Hz o ciclos por segundo.",
-    "timestamp": 1772812695,
-    "timestamp_local": 1772812695
   }
 ]
