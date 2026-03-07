@@ -1,5 +1,29 @@
 [
   {
+    "id": 108884,
+    "fecha": "07 de Mar del 2026 a las 09:12 AM",
+    "hora_utc": "2026-03-07 14:12",
+    "mensaje": "🔷♦️Se restablece el servicio en el circuito que se encontraban afectados por déficit de capacidad de generación:\n*Magela ♦️🔷",
+    "timestamp": 1772892759,
+    "timestamp_local": 1772892759
+  },
+  {
+    "id": 108883,
+    "fecha": "07 de Mar del 2026 a las 09:11 AM",
+    "hora_utc": "2026-03-07 14:11",
+    "mensaje": "🚨Por déficit de capacidad de generación se afecta el servicio en los siguientes circuitos:\n*Quivicán\n*San Felipe\n*Palomo 🚨",
+    "timestamp": 1772892700,
+    "timestamp_local": 1772892700
+  },
+  {
+    "id": 108882,
+    "fecha": "07 de Mar del 2026 a las 08:58 AM",
+    "hora_utc": "2026-03-07 13:58",
+    "mensaje": "**Nota Informativa: Estado del Sistema Eléctrico Nacional (SEN) – 7 de marzo de 2026\n**En el día de ayer se afectó el servicio por déficit de capacidad durante las 24 horas y se ha mantenido la afectación durante la madrugada de hoy. La máxima afectación por déficit de capacidad de generación en el día de ayer fue de 2046 MW a las 19:10 horas.\nLa producción de energía de los 51 nuevos parques solares fotovoltaicos fue de 2732 MWh, con 359 MW como máxima potencia entregada en el horario de la media con esta fuente de generación. \n**Estado actual del SEN\n**La disponibilidad del SEN a las 06:00 horas es de 1000 MW, la demanda 2223 MW, con 1266 MW afectados. En el horario de la media se estima una afectación de 1250 MW. \n**Principales incidencias\n**Avería: Unidad 5 de la CTE Mariel, Unidad 3 de Santa Cruz, la Unidad 1 de la CTE Antonio Guiteras, Unidad 2 de la CTE Felton y Unidades 5 y 6 de la CTE Antonio Maceo.\nMantenimiento: Unidad 6 de la CTE Mariel, Unidad 5 de la CTE Nuevitas, Unidad 4 de la CTE Carlos Manuel de Céspedes en Cienfuegos.\nLimitaciones en la generación térmica: 322 MW fuera de servicio.\n**Pronóstico para el horario pico\n**Para el pico se pronostica la entrada de la unidad 3 de la CTE Santa Cruz con 50 MW y 6 motores del fuel de Mariel con 106 MW. \nCon ese pronóstico se prevé para el pico una disponibilidad de 1156 MW con una demanda máxima de 3050 MW, para un déficit de 1894 MW, por lo que de mantenerse las condiciones previstas se pronostica una afectación de 1924 MW en este horario.",
+    "timestamp": 1772891929,
+    "timestamp_local": 1772891929
+  },
+  {
     "id": 108880,
     "fecha": "07 de Mar del 2026 a las 08:31 AM",
     "hora_utc": "2026-03-07 13:31",
@@ -118,21 +142,5 @@
     "mensaje": "🚨Por déficit de capacidad de generación se afecta el servicio en el siguiente circuito:\n*2 San José 🚨",
     "timestamp": 1772881986,
     "timestamp_local": 1772881986
-  },
-  {
-    "id": 108864,
-    "fecha": "07 de Mar del 2026 a las 01:09 AM",
-    "hora_utc": "2026-03-07 06:09",
-    "mensaje": "🔷♦️ Restablecido el servicio en el circuito Madruga que se encontraba afectado por déficit de capacidad de generación ♦️🔷",
-    "timestamp": 1772863795,
-    "timestamp_local": 1772863795
-  },
-  {
-    "id": 108863,
-    "fecha": "07 de Mar del 2026 a las 01:09 AM",
-    "hora_utc": "2026-03-07 06:09",
-    "mensaje": "🔷♦️ Restablecido el servicio en el circuito Fénix que se encontraba afectado por déficit de capacidad de generación ♦️🔷",
-    "timestamp": 1772863785,
-    "timestamp_local": 1772863785
   }
 ]
