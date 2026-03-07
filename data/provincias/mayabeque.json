@@ -1,5 +1,37 @@
 [
   {
+    "id": 108909,
+    "fecha": "07 de Mar del 2026 a las 12:08 PM",
+    "hora_utc": "2026-03-07 17:08",
+    "mensaje": "🔷 Restablecido el servicio en el circuito 3590 por manipulación  🔷",
+    "timestamp": 1772903297,
+    "timestamp_local": 1772903297
+  },
+  {
+    "id": 108908,
+    "fecha": "07 de Mar del 2026 a las 12:05 PM",
+    "hora_utc": "2026-03-07 17:05",
+    "mensaje": "♦️ Afectado el servicio en el circuito 3590 por manipulación  ♦️",
+    "timestamp": 1772903142,
+    "timestamp_local": 1772903142
+  },
+  {
+    "id": 108907,
+    "fecha": "07 de Mar del 2026 a las 12:01 PM",
+    "hora_utc": "2026-03-07 17:01",
+    "mensaje": "🔷♦️Se restablece el servicio en el circuito que se encontraban afectados por déficit de capacidad de generación:\n*Ganuza ♦️🔷",
+    "timestamp": 1772902885,
+    "timestamp_local": 1772902885
+  },
+  {
+    "id": 108906,
+    "fecha": "07 de Mar del 2026 a las 11:59 AM",
+    "hora_utc": "2026-03-07 16:59",
+    "mensaje": "🔷♦️Se restablece el servicio en el circuito que se encontraban afectados por déficit de capacidad de generación:\n*Somorrostro ♦️🔷",
+    "timestamp": 1772902770,
+    "timestamp_local": 1772902770
+  },
+  {
     "id": 108905,
     "fecha": "07 de Mar del 2026 a las 11:51 AM",
     "hora_utc": "2026-03-07 16:51",
@@ -19,7 +51,7 @@
     "id": 108903,
     "fecha": "07 de Mar del 2026 a las 11:38 AM",
     "hora_utc": "2026-03-07 16:38",
-    "mensaje": "🔷Se restablece el servicio en el circuito ML-35 que se encontraba afectado por manipulación, quedando afectado el servicio en los siguientes circuitos por déficit:\n*Vendo de Güines\n*Río Seco.♦️",
+    "mensaje": "🔷Se restablece el servicio en el circuito ML-35 que se encontraba afectado por manipulación, quedando afectado el servicio en los siguientes circuitos por déficit:\n*Vedado de Güines\n*Río Seco.♦️",
     "timestamp": 1772901500,
     "timestamp_local": 1772901500
   },
@@ -126,13 +158,5 @@
     "mensaje": "🚨Por déficit de capacidad de generación se afecta el servicio en el siguiente circuito:\n*Madruga 🚨",
     "timestamp": 1772894872,
     "timestamp_local": 1772894872
-  },
-  {
-    "id": 108888,
-    "fecha": "07 de Mar del 2026 a las 09:38 AM",
-    "hora_utc": "2026-03-07 14:38",
-    "mensaje": "♦️ Se mantiene afectado el servicio en el circuito Magela por Avería ♦️",
-    "timestamp": 1772894297,
-    "timestamp_local": 1772894297
   }
 ]
