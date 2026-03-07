@@ -1,5 +1,21 @@
 [
   {
+    "id": 41833,
+    "fecha": "07 de Mar del 2026 a las 11:44 AM",
+    "hora_utc": "2026-03-07 16:44",
+    "mensaje": "Con servicio la línea 861:\n🔹Municipio Santa Clara:\n👉Cto 5 (Dobarganes)(Déficit)\n👉Cto 17 (Subplanta)(Déficit)\n👉Ctos 37 y 38 (Yabú)   \n👉Cto 9 (Moldes y Troqueles)\n👉Cto 133 (Taller Cafetera)",
+    "timestamp": 1772901881,
+    "timestamp_local": 1772901881
+  },
+  {
+    "id": 41832,
+    "fecha": "07 de Mar del 2026 a las 11:36 AM",
+    "hora_utc": "2026-03-07 16:36",
+    "mensaje": "🛠️Afectado por manipulación la línea 861:\nAfecta los siguientes circuitos:\n🔹Municipio Santa Clara:\n👉Cto 5 (Dobarganes)(Déficit)\n👉Cto 17 (Subplanta)(Déficit)\n👉Ctos 37 y 38 (Yabú)   \n👉Cto 9 (Moldes y Troqueles)\n👉Cto 133 (Taller Cafetera)",
+    "timestamp": 1772901412,
+    "timestamp_local": 1772901412
+  },
+  {
     "id": 41831,
     "fecha": "07 de Mar del 2026 a las 10:45 AM",
     "hora_utc": "2026-03-07 15:45",
@@ -126,21 +142,5 @@
     "mensaje": "Afectados 94 MW en la provincia, demanda máxima a apagar en estos momentos.",
     "timestamp": 1772856595,
     "timestamp_local": 1772856595
-  },
-  {
-    "id": 41812,
-    "fecha": "06 de Mar del 2026 a las 10:56 PM",
-    "hora_utc": "2026-03-07 03:56",
-    "mensaje": "🛠️Concluidas las acciones por parte de nuestros especialistas para determinar la causa del disparo en el circuito 30 (Capiro).",
-    "timestamp": 1772855796,
-    "timestamp_local": 1772855796
-  },
-  {
-    "id": 41811,
-    "fecha": "06 de Mar del 2026 a las 10:22 PM",
-    "hora_utc": "2026-03-07 03:22",
-    "mensaje": "⚡Afectado por disparo después de restablecido el servicio el circuito 30 (Capiro). Se estudian las causas.",
-    "timestamp": 1772853721,
-    "timestamp_local": 1772853721
   }
 ]
