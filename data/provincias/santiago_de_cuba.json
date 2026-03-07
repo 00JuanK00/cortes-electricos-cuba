@@ -1,5 +1,29 @@
 [
   {
+    "id": 50605,
+    "fecha": "07 de Mar del 2026 a las 08:04 AM",
+    "hora_utc": "2026-03-07 13:04",
+    "mensaje": "🚨Estimados clientes en estos momentos se encuentra afectados por Déficit de Capacidad de Generación los circuitos 2 , 21 de Santiago , disculpen por las molestias ocasionadas.",
+    "timestamp": 1772888668,
+    "timestamp_local": 1772888668
+  },
+  {
+    "id": 50604,
+    "fecha": "07 de Mar del 2026 a las 07:30 AM",
+    "hora_utc": "2026-03-07 12:30",
+    "mensaje": "🔉Estimados clientes en estos momentos se incorpora a la afectación por Déficit el circuito 3 .",
+    "timestamp": 1772886659,
+    "timestamp_local": 1772886659
+  },
+  {
+    "id": 50603,
+    "fecha": "07 de Mar del 2026 a las 07:19 AM",
+    "hora_utc": "2026-03-07 12:19",
+    "mensaje": "🔴Estimados clientes en estos momentos se incorporan a la afectación por Déficit el circuito 7 secc y la Línea 5975-Baconao.",
+    "timestamp": 1772885954,
+    "timestamp_local": 1772885954
+  },
+  {
     "id": 50602,
     "fecha": "07 de Mar del 2026 a las 07:12 AM",
     "hora_utc": "2026-03-07 12:12",
@@ -94,21 +118,5 @@
     "mensaje": "🔊Estimados clientes en estos momentos se incorporan a la afectación por Déficit los circuitos 11 y 1 .",
     "timestamp": 1772855538,
     "timestamp_local": 1772855538
-  },
-  {
-    "id": 50585,
-    "fecha": "06 de Mar del 2026 a las 10:36 PM",
-    "hora_utc": "2026-03-07 03:36",
-    "mensaje": "🔴Estimados clientes, debido a la compleja situación que presenta el sistema Eléctrico Nacional (SEN) no es posible cumplir con la rotación prevista según la programación diseñada, por lo que se extenderá el horario de afectación del servicio eléctrico, y su restablecimiento dependerá del comportamiento de la demanda y de la disponibilidad del sistema.",
-    "timestamp": 1772854606,
-    "timestamp_local": 1772854606
-  },
-  {
-    "id": 50584,
-    "fecha": "06 de Mar del 2026 a las 10:10 PM",
-    "hora_utc": "2026-03-07 03:10",
-    "mensaje": "🚨Estimados clientes en estos momentos se incorpora a la afectación el circuito 18.",
-    "timestamp": 1772853032,
-    "timestamp_local": 1772853032
   }
 ]
