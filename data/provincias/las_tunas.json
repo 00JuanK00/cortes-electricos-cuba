@@ -1,5 +1,29 @@
 [
   {
+    "id": 18407,
+    "fecha": "07 de Mar del 2026 a las 08:46 PM",
+    "hora_utc": "2026-03-08 01:46",
+    "mensaje": "🟢 19:26 || En línea la Unidad 3 de la CTE Ernesto Guevara De La Serna, subiendo carga.\n\n🔴 19:51 || Fuera de línea la Unidad 6 de la CTE Diez de Octubre por salidero en el ECO.",
+    "timestamp": 1772934386,
+    "timestamp_local": 1772934386
+  },
+  {
+    "id": 18405,
+    "fecha": "07 de Mar del 2026 a las 08:36 PM",
+    "hora_utc": "2026-03-08 01:36",
+    "mensaje": "Brigadas de linieros de la Empresa Eléctrica Las Tunas trabajaron este sábado para restablecer el servicio en el reparto Santo Domingo, luego de una avería provocada por los fuertes vientos que azotaron en horas de la tarde al municipio cabecera.  \n\nEl corto circuito se originó en un poste situado en la esquina de las calles Ciro Redondo y Francisco Vega, donde las ráfagas de casi 60 km/h ocasionaron daños al sistema eléctrico.",
+    "timestamp": 1772933818,
+    "timestamp_local": 1772933818
+  },
+  {
+    "id": 18403,
+    "fecha": "07 de Mar del 2026 a las 08:16 PM",
+    "hora_utc": "2026-03-08 01:16",
+    "mensaje": "Se soluciona la avería de los circuitos:\nTK26 Circunvalación Sur hasta La Larga\nTK24 Reparto Santo Domingo",
+    "timestamp": 1772932600,
+    "timestamp_local": 1772932600
+  },
+  {
     "id": 18402,
     "fecha": "07 de Mar del 2026 a las 05:00 PM",
     "hora_utc": "2026-03-07 22:00",
@@ -54,45 +78,5 @@
     "mensaje": "La Empresa Eléctrica Las Tunas informa que, según la nota emitida por la Unión Eléctrica para el 6 de marzo, en el día de ayer se afectó el servicio durante las 24 horas y se ha mantenido la afectación durante la madrugada de hoy. En nuestra provincia se afectaron la totalidad de los circuitos apagables, con una máxima afectación de 95 MW.\nActualmente están fuera de servicio por avería la Unidad 5 de la CTE Mariel, Unidad 2 y 3 de Santa Cruz, la Unidad 1 de la CTE Antonio Guiteras, Unidad 2 de la CTE Felton y Unidades 5 y 6 de la CTE Antonio Maceo.\nEn mantenimiento se encuentran Unidad 6 de la CTE Mariel, Unidad 5 de la CTE Nuevitas, Unidad 4 de la CTE Carlos Manuel de Céspedes en Cienfuegos.\nEn el horario nocturno se estima una afectación de 2075 MW, lo cual en puede representar la totalidad de los circuitos apagables, debido al alto déficit de capacidad de generación existente.\nEstos valores pueden variar según la demanda nacional. puede representar la totalidad de los circuitos apagables y en el horario pico nocturno puede extenderse igualmente a todos ellos, debido al alto déficit de capacidad de generación existente.",
     "timestamp": 1772821909,
     "timestamp_local": 1772821909
-  },
-  {
-    "id": 18386,
-    "fecha": "06 de Mar del 2026 a las 12:57 PM",
-    "hora_utc": "2026-03-06 17:57",
-    "mensaje": "Se restablece el servicio al circuito:TK87 Pueblo Jobabo.",
-    "timestamp": 1772819846,
-    "timestamp_local": 1772819846
-  },
-  {
-    "id": 18385,
-    "fecha": "06 de Mar del 2026 a las 12:21 PM",
-    "hora_utc": "2026-03-06 17:21",
-    "mensaje": "🚨Se declara en avería el circuito:TK87 Pueblo Jobabo. Se trabaja para restablecer el servicio en el menor tiempo posible. Ofrecemos disculpas por las molestias ocasionadas.🚨",
-    "timestamp": 1772817684,
-    "timestamp_local": 1772817684
-  },
-  {
-    "id": 18384,
-    "fecha": "06 de Mar del 2026 a las 07:39 AM",
-    "hora_utc": "2026-03-06 12:39",
-    "mensaje": "Se restablece el circuito:\nCircuito 33 Kv: 4220\nTK28 La Guinea\nTK52 Covarrubias\nTK31 Pueblo Manatí\nTK33 Pueblo Manatí\nTK34 Pueblo Manatí",
-    "timestamp": 1772800762,
-    "timestamp_local": 1772800762
-  },
-  {
-    "id": 18383,
-    "fecha": "06 de Mar del 2026 a las 07:18 AM",
-    "hora_utc": "2026-03-06 12:18",
-    "mensaje": "💡Se restablecen los siguientes circuitos que se encontraban afectados por déficit de generación\n Circuito 33 Kv: 4220\nTK28 La Guinea\nTK52 Covarrubias\nTK31 Pueblo Manatí\nTK33 Pueblo Manatí\nTK34 Pueblo Manatí",
-    "timestamp": 1772799497,
-    "timestamp_local": 1772799497
-  },
-  {
-    "id": 18382,
-    "fecha": "06 de Mar del 2026 a las 07:05 AM",
-    "hora_utc": "2026-03-06 12:05",
-    "mensaje": "💡Se restablecen los siguientes circuitos que se encontraban afectados por déficit de generación\nTK20 Becerra\nTK21 Tunazúcar",
-    "timestamp": 1772798749,
-    "timestamp_local": 1772798749
   }
 ]
