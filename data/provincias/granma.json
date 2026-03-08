@@ -1,9 +1,17 @@
 [
   {
+    "id": 31027,
+    "fecha": "08 de Mar del 2026 a las 11:59 AM",
+    "hora_utc": "2026-03-08 15:59",
+    "mensaje": "🚨 Queda restablecido el servicio eléctrico para el circuito **Provisional** que se encontraba disparado.\n\n👉 Continuaremos informando.",
+    "timestamp": 1772985573,
+    "timestamp_local": 1772985573
+  },
+  {
     "id": 31026,
     "fecha": "08 de Mar del 2026 a las 11:48 AM",
     "hora_utc": "2026-03-08 15:48",
-    "mensaje": "🚨 Informamos a los clientes pertenecientes al circuito **Provincial** que el mismo se encuentra disparado.\n\n👉 Continuaremos informando.",
+    "mensaje": "🚨 Informamos a los clientes pertenecientes al circuito **Provisional** que el mismo se encuentra disparado.\n\n👉 Continuaremos informando.",
     "timestamp": 1772984932,
     "timestamp_local": 1772984932
   },
@@ -150,13 +158,5 @@
     "mensaje": "🚨 Actualización del Sistema Electroenergético en la Provincia de Granma.\n\n🔺 Afectación contra demanda: 68 MW\n\n❎ Se afecta el servicio eléctrico para los circuitos:\n\nMedia Luna \n\n✅ Restablecido el servicio eléctrico para los circuitos: \n\nGuisa \nGuisa 2\n\n⏰ Circuitos con mayor tiempo de afectación:\n\nEl Yarey \nPalmarón \nCharco Redondo \n\n📢 Continuaremos informando.",
     "timestamp": 1772945697,
     "timestamp_local": 1772945697
-  },
-  {
-    "id": 31007,
-    "fecha": "07 de Mar del 2026 a las 10:30 PM",
-    "hora_utc": "2026-03-08 03:30",
-    "mensaje": "📢 Aviso Importante:\n\nInformamos que en estos momentos se están viendo afectados por un disparo automático por frecuencia (DAF) los siguientes circuitos:\n\n• Banda Ecil\n• Saco Centro\n\n👉 Continuaremos informando.",
-    "timestamp": 1772940649,
-    "timestamp_local": 1772940649
   }
 ]
