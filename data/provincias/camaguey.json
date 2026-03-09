@@ -1,5 +1,21 @@
 [
   {
+    "id": 34459,
+    "fecha": "09 de Mar del 2026 a las 11:15 AM",
+    "hora_utc": "2026-03-09 15:15",
+    "mensaje": "Se encuentra en servicio el transformador ubicado en la Subestación de Camagüey 1.",
+    "timestamp": 1773069313,
+    "timestamp_local": 1773069313
+  },
+  {
+    "id": 34458,
+    "fecha": "09 de Mar del 2026 a las 10:58 AM",
+    "hora_utc": "2026-03-09 14:58",
+    "mensaje": "Por déficit de capacidad de generación se encuentran afectados 102 MW.\n*Grupo de Comunicación Institucional.",
+    "timestamp": 1773068313,
+    "timestamp_local": 1773068313
+  },
+  {
     "id": 34455,
     "fecha": "09 de Mar del 2026 a las 09:34 AM",
     "hora_utc": "2026-03-09 13:34",
@@ -54,21 +70,5 @@
     "mensaje": "Por déficit de capacidad de generación se encuentran afectados 88 MW.\n*Grupo de Comunicación Institucional.",
     "timestamp": 1773052183,
     "timestamp_local": 1773052183
-  },
-  {
-    "id": 34439,
-    "fecha": "09 de Mar del 2026 a las 04:31 AM",
-    "hora_utc": "2026-03-09 08:31",
-    "mensaje": "Por déficit de capacidad de generación se encuentran afectados 72 MW.\n*Grupo de Comunicación Institucional.",
-    "timestamp": 1773045072,
-    "timestamp_local": 1773045072
-  },
-  {
-    "id": 34437,
-    "fecha": "09 de Mar del 2026 a las 03:15 AM",
-    "hora_utc": "2026-03-09 07:15",
-    "mensaje": "📌 Estimados clientes📌\n\n🔎 ¿Qué es un Disparo Automático por frecuencia? (D.A.F)\nUn disparo por frecuencia o Descarga Automática por Frecuencia DAF es una protección que posee el sistema eléctrico para cuando la frecuencia llega a valores mínimos permisibles que ponen en peligro la estabilidad de todo el sistema en su conjunto y provoca una desconexión automática de algunos circuitos hasta que esta vuelva a recuperar su valor nominal a 60 Hz o ciclos por segundo.\n\n*Grupo de Comunicación Institucional.",
-    "timestamp": 1773040525,
-    "timestamp_local": 1773040525
   }
 ]
