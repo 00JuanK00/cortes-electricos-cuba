@@ -1,5 +1,77 @@
 [
   {
+    "id": 50717,
+    "fecha": "09 de Mar del 2026 a las 04:47 PM",
+    "hora_utc": "2026-03-09 20:47",
+    "mensaje": "🚨Circuito en avería:                                                                                                                          Sucede si un circuito se interrumpe por causa de un defecto en un cable conductor de corriente (fase o neutro), un fusible fundido o disyuntor. En sistemas trifásicos una falla puede implicar una fase, más de una fase con la tierra o puede ocurrir solo entre fases.",
+    "timestamp": 1773089275,
+    "timestamp_local": 1773089275
+  },
+  {
+    "id": 50716,
+    "fecha": "09 de Mar del 2026 a las 04:47 PM",
+    "hora_utc": "2026-03-09 20:47",
+    "mensaje": "🔉Estimados clientes en estos momentos se encuentra en Avería la Línea 5380 Mella",
+    "timestamp": 1773089243,
+    "timestamp_local": 1773089243
+  },
+  {
+    "id": 50715,
+    "fecha": "09 de Mar del 2026 a las 04:41 PM",
+    "hora_utc": "2026-03-09 20:41",
+    "mensaje": "🔉Estimados clientes en estos momentos se encuentran afectados por Déficit de Capacidad de Generación La Línea 5385 San Luis",
+    "timestamp": 1773088913,
+    "timestamp_local": 1773088913
+  },
+  {
+    "id": 50714,
+    "fecha": "09 de Mar del 2026 a las 04:39 PM",
+    "hora_utc": "2026-03-09 20:39",
+    "mensaje": "🚨Disparo:  \nApertura no voluntaria de un interruptor como vía de protección para desconectar uno o varios elementos del circuito, subestación o sistema, restableciéndose el servicio rápidamente en dependencia de la causa",
+    "timestamp": 1773088789,
+    "timestamp_local": 1773088789
+  },
+  {
+    "id": 50713,
+    "fecha": "09 de Mar del 2026 a las 04:39 PM",
+    "hora_utc": "2026-03-09 20:39",
+    "mensaje": "🔉Estimados clientes en estos momentos se encuentra Disparado el interruptor el Mangal del circuito 14",
+    "timestamp": 1773088771,
+    "timestamp_local": 1773088771
+  },
+  {
+    "id": 50712,
+    "fecha": "09 de Mar del 2026 a las 04:37 PM",
+    "hora_utc": "2026-03-09 20:37",
+    "mensaje": "🚨Disparo Automático de Frecuencia (DAF):\nOcurre cuando.  la frecuencia está por debajo de los 60Hz y determinada carga o circuito se desconecta del sistema automáticamente hasta que se estabilice.",
+    "timestamp": 1773088646,
+    "timestamp_local": 1773088646
+  },
+  {
+    "id": 50711,
+    "fecha": "09 de Mar del 2026 a las 04:36 PM",
+    "hora_utc": "2026-03-09 20:36",
+    "mensaje": "🔉Estimados clientes en estos momentos se encuentra afectado por DAF la Línea 5975 Baconao",
+    "timestamp": 1773088602,
+    "timestamp_local": 1773088602
+  },
+  {
+    "id": 50710,
+    "fecha": "09 de Mar del 2026 a las 04:32 PM",
+    "hora_utc": "2026-03-09 20:32",
+    "mensaje": "Estimados clientes se les informa que se  afectan por Déficit de Capacidad de Generación los circuitos 11 y 26",
+    "timestamp": 1773088358,
+    "timestamp_local": 1773088358
+  },
+  {
+    "id": 50709,
+    "fecha": "09 de Mar del 2026 a las 04:22 PM",
+    "hora_utc": "2026-03-09 20:22",
+    "mensaje": "Estimados clientes en estos momentos se encuentran  afectados por Déficit de Capacidad de Generación la LI 5395 ,1 y 4 de Palma ,disculpen las molestias ocasionadas",
+    "timestamp": 1773087766,
+    "timestamp_local": 1773087766
+  },
+  {
     "id": 50708,
     "fecha": "09 de Mar del 2026 a las 03:29 PM",
     "hora_utc": "2026-03-09 19:29",
@@ -46,69 +118,5 @@
     "mensaje": "🚨 Estimados clientes se incorpora a la afectación por Déficit de Capacidad de Generación el circuito 12 de Santiago, pedimos disculpas por las molestias ocasionadas.",
     "timestamp": 1773075145,
     "timestamp_local": 1773075145
-  },
-  {
-    "id": 50697,
-    "fecha": "09 de Mar del 2026 a las 12:35 PM",
-    "hora_utc": "2026-03-09 16:35",
-    "mensaje": "🚨 Estimados clientes se incorporan a la afectación por Déficit de Capacidad de Generación los circuitos 13 y 24 de Santiago",
-    "timestamp": 1773074159,
-    "timestamp_local": 1773074159
-  },
-  {
-    "id": 50696,
-    "fecha": "09 de Mar del 2026 a las 12:13 PM",
-    "hora_utc": "2026-03-09 16:13",
-    "mensaje": "🚨 Estimados clientes se afecta por Déficit de Capacidad de Generación el servicio eléctrico del circuito 8 de Santiago, pedimos disculpas por las molestias ocasionadas.",
-    "timestamp": 1773072788,
-    "timestamp_local": 1773072788
-  },
-  {
-    "id": 50695,
-    "fecha": "09 de Mar del 2026 a las 11:25 AM",
-    "hora_utc": "2026-03-09 15:25",
-    "mensaje": "🚨 Estimados clientes se incorpora a la afectación por Déficit de Capacidad de Generación la línea 4395- Contramaestre.",
-    "timestamp": 1773069938,
-    "timestamp_local": 1773069938
-  },
-  {
-    "id": 50693,
-    "fecha": "09 de Mar del 2026 a las 09:06 AM",
-    "hora_utc": "2026-03-09 13:06",
-    "mensaje": "📌🗓️Nota Informativa: Estado del Sistema Eléctrico Nacional (SEN) – 9 de marzo de 2026\n\n👉En el día de ayer se afectó el servicio por déficit de capacidad durante las 24 horas y se ha mantenido la afectación durante la madrugada de hoy. La máxima afectación por déficit de capacidad de generación en el día de ayer fue de ⚡1804 MW a las ⏰19:40 horas.\n\n👉La producción de energía de los 51 nuevos parques solares fotovoltaicos fue de 3234 MWh, con 585 MW como máxima potencia entregada en el horario de la media con esta fuente de generación.\n\n👉La disponibilidad del SEN a las ⏰06:00 horas de dia de hoy fue de 1150 MW, la demanda 2290 MW, con ⚡1140 MW afectados. En el horario de la media se estima una afectación de ⚡1100 MW.\n\n🛠️Principales incidencias.\n                                                                                                                          ➡️ Avería: Unidad 5 de la CTE Mariel, Unidad 6 de la CTE Diez de Octubre, Unidad 2 de la CTE Felton y Unidades 5 y 6 de la CTE Antonio Maceo.\n                                                                                                                                           ➡️ Mantenimiento: Unidad 6 de la CTE Mariel, Unidad 5 de la CTE Nuevitas, Unidad 4 de la CTE Carlos Manuel de Céspedes en Cienfuegos.\n                                                                                                                                 👉Limitaciones en la generación térmica: 416 MW fuera de servicio.\n\n🔊Pronóstico para el horario pico: \n\n🏭Para el pico se pronostica la entrada de la unidad 5 de la CTE Renté con 70 MW y la entrada de la unidad 2 de Energás Jaruco con 30 MW.\n\n👉Con ese pronóstico se prevé para el pico una disponibilidad de 1250 MW con una demanda máxima de 3080 MW, para un déficit de 1830 MW, por lo que de mantenerse las condiciones previstas se pronostica una afectación de ⚡1850 MW en este horario.",
-    "timestamp": 1773061610,
-    "timestamp_local": 1773061610
-  },
-  {
-    "id": 50692,
-    "fecha": "09 de Mar del 2026 a las 08:25 AM",
-    "hora_utc": "2026-03-09 12:25",
-    "mensaje": "Disparo Automático de Frecuencia (DAF):\nOcurre cuando la frecuencia está por debajo de los 60Hz y determinada carga o circuito se desconecta del sistema automáticamente hasta que se estabilice.",
-    "timestamp": 1773059129,
-    "timestamp_local": 1773059129
-  },
-  {
-    "id": 50691,
-    "fecha": "09 de Mar del 2026 a las 08:25 AM",
-    "hora_utc": "2026-03-09 12:25",
-    "mensaje": "🚨 Estimados clientes en estos momentos se encuentra disparado por DAF el circuito 17 de Santiago, pedimos disculpas por las molestias ocasionadas.",
-    "timestamp": 1773059109,
-    "timestamp_local": 1773059109
-  },
-  {
-    "id": 50690,
-    "fecha": "09 de Mar del 2026 a las 07:36 AM",
-    "hora_utc": "2026-03-09 11:36",
-    "mensaje": "🚨 Estimados clientes en estos momentos se encuentra afectados por Déficit de Capacidad de Generación los circuitos,12, 2 Palma, 2 , LI 4390 Contramaestre, LI 5380 Mella, disculpen por las molestias ocasionadas.",
-    "timestamp": 1773056167,
-    "timestamp_local": 1773056167
-  },
-  {
-    "id": 50689,
-    "fecha": "09 de Mar del 2026 a las 07:06 AM",
-    "hora_utc": "2026-03-09 11:06",
-    "mensaje": "🚨Estimados clientes en estos momentos se encuentra afectados por Déficit de Capacidad de Generación los circuitos 9 de Santiago , 5975 Baconao , disculpen por las molestias ocasionadas.",
-    "timestamp": 1773054390,
-    "timestamp_local": 1773054390
   }
 ]
