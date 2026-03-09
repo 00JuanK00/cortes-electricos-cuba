@@ -1,5 +1,53 @@
 [
   {
+    "id": 41908,
+    "fecha": "08 de Mar del 2026 a las 11:03 PM",
+    "hora_utc": "2026-03-09 03:03",
+    "mensaje": "Afectados 95 MW en la provincia, demanda máxima a apagar en estos momentos.",
+    "timestamp": 1773025403,
+    "timestamp_local": 1773025403
+  },
+  {
+    "id": 41907,
+    "fecha": "08 de Mar del 2026 a las 10:45 PM",
+    "hora_utc": "2026-03-09 02:45",
+    "mensaje": "⚡Se encuentra en avería la línea del 1375 afectando los siguientes circuitos:\n🔹Municipio Caibarién:\n👉Ctos 63 y 64 (Déficit)\n👉Cto 65 Dolores",
+    "timestamp": 1773024302,
+    "timestamp_local": 1773024302
+  },
+  {
+    "id": 41906,
+    "fecha": "08 de Mar del 2026 a las 10:43 PM",
+    "hora_utc": "2026-03-09 02:43",
+    "mensaje": "⚡Se encuentra en avería el Cto 114 perteneciente al municipio Cifuentes, se estudian las causas.",
+    "timestamp": 1773024198,
+    "timestamp_local": 1773024198
+  },
+  {
+    "id": 41905,
+    "fecha": "08 de Mar del 2026 a las 10:02 PM",
+    "hora_utc": "2026-03-09 02:02",
+    "mensaje": "🔸Actualización del servicio eléctrico en la provincia.\n👉De los circuitos apagables que presenta la provincia, se mantienen afectados 150 circuitos.\n👉En el momento de hacer esta nota la provincia tiene 103 MW de afectación.\n👉Cuenta con 31 afectaciones por averías secundarias y de servicio.",
+    "timestamp": 1773021752,
+    "timestamp_local": 1773021752
+  },
+  {
+    "id": 41904,
+    "fecha": "08 de Mar del 2026 a las 09:51 PM",
+    "hora_utc": "2026-03-09 01:51",
+    "mensaje": "👉Se les reitera a nuestros clientes, que el comportamiento de las afectaciones y restablecimiento del servicio eléctrico, estará en dependencia de la situación que presente el Sistema Eléctrico Nacional.",
+    "timestamp": 1773021065,
+    "timestamp_local": 1773021065
+  },
+  {
+    "id": 41903,
+    "fecha": "08 de Mar del 2026 a las 09:16 PM",
+    "hora_utc": "2026-03-09 01:16",
+    "mensaje": "Afectados 114 MW en la provincia, demanda máxima a apagar en estos momentos.",
+    "timestamp": 1773018966,
+    "timestamp_local": 1773018966
+  },
+  {
     "id": 41902,
     "fecha": "08 de Mar del 2026 a las 08:47 PM",
     "hora_utc": "2026-03-09 00:47",
@@ -102,37 +150,5 @@
     "mensaje": "⚠️Se encuentran afectados por disparo los Ctos 30, 132 y 162, pertenecientes al municipio Santa Clara, se estudian las causas.",
     "timestamp": 1772994475,
     "timestamp_local": 1772994475
-  },
-  {
-    "id": 41888,
-    "fecha": "08 de Mar del 2026 a las 02:07 PM",
-    "hora_utc": "2026-03-08 18:07",
-    "mensaje": "🔸Actualización del servicio eléctrico en la provincia.\n👉De los circuitos apagables que presenta la provincia, se mantienen afectados 143 circuitos.\n👉En el momento de hacer esta nota la provincia tiene 114 MW de afectación.\n👉Cuenta con 61 afectaciones por averías secundarias y de servicio.",
-    "timestamp": 1772993257,
-    "timestamp_local": 1772993257
-  },
-  {
-    "id": 41887,
-    "fecha": "08 de Mar del 2026 a las 01:54 PM",
-    "hora_utc": "2026-03-08 17:54",
-    "mensaje": "🛠️Concluidas las acciones por parte de la brigada eléctrica en los Ctos 121 y 127 (Perucho), pertenecientes al municipio Encrucijada, se mantienen afectados por déficit de capacidad de generación.",
-    "timestamp": 1772992453,
-    "timestamp_local": 1772992453
-  },
-  {
-    "id": 41886,
-    "fecha": "08 de Mar del 2026 a las 01:51 PM",
-    "hora_utc": "2026-03-08 17:51",
-    "mensaje": "🛠️Afectados de manera parcial los circuitos 89 y 188 , del municipio Ranchuelo, en los cuales se encuentra faltando una fase.",
-    "timestamp": 1772992277,
-    "timestamp_local": 1772992277
-  },
-  {
-    "id": 41885,
-    "fecha": "08 de Mar del 2026 a las 01:16 PM",
-    "hora_utc": "2026-03-08 17:16",
-    "mensaje": "Afectados 122 MW en la provincia, demanda máxima a apagar en estos momentos.",
-    "timestamp": 1772990167,
-    "timestamp_local": 1772990167
   }
 ]
