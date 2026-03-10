@@ -1,5 +1,21 @@
 [
   {
+    "id": 41973,
+    "fecha": "10 de Mar del 2026 a las 10:29 AM",
+    "hora_utc": "2026-03-10 14:29",
+    "mensaje": "🛠️Afectado por vía libre el circuito 1 (Zona Centro) para reparar poste que está ofreciendo peligro.",
+    "timestamp": 1773152999,
+    "timestamp_local": 1773152999
+  },
+  {
+    "id": 41972,
+    "fecha": "10 de Mar del 2026 a las 10:00 AM",
+    "hora_utc": "2026-03-10 14:00",
+    "mensaje": "🔸Actualización del servicio eléctrico en la provincia.\n👉De los circuitos apagables que presenta la provincia, se mantienen afectados 99 circuitos.\n👉En el momento de hacer esta nota la provincia tiene 78 MW de afectación.\n👉Cuenta con 92 afectaciones por averías secundarias y de servicio.",
+    "timestamp": 1773151208,
+    "timestamp_local": 1773151208
+  },
+  {
     "id": 41971,
     "fecha": "10 de Mar del 2026 a las 09:12 AM",
     "hora_utc": "2026-03-10 13:12",
@@ -126,21 +142,5 @@
     "mensaje": "Afectados 111 MW en la provincia, demanda máxima a apagar en estos momentos.",
     "timestamp": 1773103137,
     "timestamp_local": 1773103137
-  },
-  {
-    "id": 41951,
-    "fecha": "09 de Mar del 2026 a las 08:00 PM",
-    "hora_utc": "2026-03-10 00:00",
-    "mensaje": "🇨🇺 Actualización del Sistema Electroenergético Nacional a las 19:00 del 9 de marzo de 2026.\n\nIncidencias:\n08:15 Fuera de línea Unidad 2 de CTE Ernesto Guevara por falla en regulación de turbina\n09:28 En línea Unidad 2 de CTE Ernesto Guevara\n17:28 En línea Unidad 2 Energas Jaruco\n\n#UnidosXCuba #NotaInformativa #UniónEléctrica #SEN",
-    "timestamp": 1773100857,
-    "timestamp_local": 1773100857
-  },
-  {
-    "id": 41950,
-    "fecha": "09 de Mar del 2026 a las 07:59 PM",
-    "hora_utc": "2026-03-09 23:59",
-    "mensaje": "🔸Actualización del servicio eléctrico en la provincia.\n👉De los circuitos apagables que presenta la provincia, se mantienen afectados 125 circuitos.\n👉En el momento de hacer esta nota la provincia tiene 140 MW de afectación.\n👉Cuenta con 67 afectaciones por averías secundarias y de servicio.",
-    "timestamp": 1773100780,
-    "timestamp_local": 1773100780
   }
 ]
