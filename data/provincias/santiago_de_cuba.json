@@ -1,5 +1,29 @@
 [
   {
+    "id": 50745,
+    "fecha": "10 de Mar del 2026 a las 11:36 AM",
+    "hora_utc": "2026-03-10 15:36",
+    "mensaje": "🚨Estimados clientes en estos momentos se encuentra afectados por Déficit de Capacidad de Generación los circuitos 11 de Santiago , disculpen por las molestias ocasionadas.",
+    "timestamp": 1773156984,
+    "timestamp_local": 1773156984
+  },
+  {
+    "id": 50744,
+    "fecha": "10 de Mar del 2026 a las 11:24 AM",
+    "hora_utc": "2026-03-10 15:24",
+    "mensaje": "🚨Estimados clientes se les informa que el circuito 4 de Palma , 14 y 17 de Santiago  se encuentra Disparado por DAF , disculpen por las molestias ocasionadas.",
+    "timestamp": 1773156259,
+    "timestamp_local": 1773156259
+  },
+  {
+    "id": 50743,
+    "fecha": "10 de Mar del 2026 a las 11:17 AM",
+    "hora_utc": "2026-03-10 15:17",
+    "mensaje": "🚨Estimados clientes en estos momentos se encuentra afectados por Déficit de Capacidad de Generación los circuitos 9 seccionalizado , 20 de Santiago, 1 de Palma , línea 5385 San Luis , 5330 El  Cristo , disculpen por las molestias ocasionadas.",
+    "timestamp": 1773155871,
+    "timestamp_local": 1773155871
+  },
+  {
     "id": 50742,
     "fecha": "10 de Mar del 2026 a las 09:27 AM",
     "hora_utc": "2026-03-10 13:27",
@@ -78,21 +102,5 @@
     "mensaje": "🔴Estimados clientes se les informa que se incorporan a la afectación por Déficit los circuitos 8 y 13 .",
     "timestamp": 1773113559,
     "timestamp_local": 1773113559
-  },
-  {
-    "id": 50725,
-    "fecha": "09 de Mar del 2026 a las 09:56 PM",
-    "hora_utc": "2026-03-10 01:56",
-    "mensaje": "🚨Disparo Automático de Frecuencia (DAF):\nOcurre cuando la frecuencia está por debajo de los 60Hz y determinada carga o circuito se desconecta del sistema automáticamente hasta que se estabilice.",
-    "timestamp": 1773107790,
-    "timestamp_local": 1773107790
-  },
-  {
-    "id": 50724,
-    "fecha": "09 de Mar del 2026 a las 09:54 PM",
-    "hora_utc": "2026-03-10 01:54",
-    "mensaje": "🚨Estimados clientes en estos momentos se encuentra Disparado por DAF la línea 5975-Baconao.",
-    "timestamp": 1773107666,
-    "timestamp_local": 1773107666
   }
 ]
