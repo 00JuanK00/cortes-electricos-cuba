@@ -1,5 +1,37 @@
 [
   {
+    "id": 50737,
+    "fecha": "10 de Mar del 2026 a las 06:15 AM",
+    "hora_utc": "2026-03-10 10:15",
+    "mensaje": "🔉Les seguiremos informando a través de nuestro canal de Telegram sobre la situación de la Disponibilidad del Sistema en nuestra provincia.",
+    "timestamp": 1773137756,
+    "timestamp_local": 1773137756
+  },
+  {
+    "id": 50736,
+    "fecha": "10 de Mar del 2026 a las 05:58 AM",
+    "hora_utc": "2026-03-10 09:58",
+    "mensaje": "👉Déficit de Capacidad de Generación:    \nSe produce cuando la demanda del Sistema Eléctrico Nacional, en determinado horario del día, supera la generación disponible del país, provocando la desconexión de los circuitos o líneas que permitan garantizar la frecuencia del SEN.",
+    "timestamp": 1773136721,
+    "timestamp_local": 1773136721
+  },
+  {
+    "id": 50735,
+    "fecha": "10 de Mar del 2026 a las 05:58 AM",
+    "hora_utc": "2026-03-10 09:58",
+    "mensaje": "🚨Le informamos que se incorporan a la afectación por Déficit los circuitos 12, 2 , 25,  4 de Palma , Línea 5395-San Luis , Línea 4395-Contramaestre-Baire-lll Frente  y Línea 4385-Contramaestre.",
+    "timestamp": 1773136702,
+    "timestamp_local": 1773136702
+  },
+  {
+    "id": 50734,
+    "fecha": "10 de Mar del 2026 a las 05:52 AM",
+    "hora_utc": "2026-03-10 09:52",
+    "mensaje": "🔴Estimados clientes se les informa que se incorporan a la afectación por Déficit los circuitos 11 , 20 , 1 , 19, 21, 14 y 23.",
+    "timestamp": 1773136345,
+    "timestamp_local": 1773136345
+  },
+  {
     "id": 50732,
     "fecha": "10 de Mar del 2026 a las 02:03 AM",
     "hora_utc": "2026-03-10 06:03",
@@ -62,45 +94,5 @@
     "mensaje": "🔴Se les informa que se encuentran afectados por Déficit los circuitos 1 , 19 , 23 , 25, Línea 4385-Contramaestre, , 21 , Línea 4435-Contramaestre y Línea 5390-La Maya-ll Frente.",
     "timestamp": 1773098370,
     "timestamp_local": 1773098370
-  },
-  {
-    "id": 50717,
-    "fecha": "09 de Mar del 2026 a las 04:47 PM",
-    "hora_utc": "2026-03-09 20:47",
-    "mensaje": "🚨Circuito en avería:                                                                                                                          Sucede si un circuito se interrumpe por causa de un defecto en un cable conductor de corriente (fase o neutro), un fusible fundido o disyuntor. En sistemas trifásicos una falla puede implicar una fase, más de una fase con la tierra o puede ocurrir solo entre fases.",
-    "timestamp": 1773089275,
-    "timestamp_local": 1773089275
-  },
-  {
-    "id": 50716,
-    "fecha": "09 de Mar del 2026 a las 04:47 PM",
-    "hora_utc": "2026-03-09 20:47",
-    "mensaje": "🔉Estimados clientes en estos momentos se encuentra en Avería la Línea 5380 Mella",
-    "timestamp": 1773089243,
-    "timestamp_local": 1773089243
-  },
-  {
-    "id": 50715,
-    "fecha": "09 de Mar del 2026 a las 04:41 PM",
-    "hora_utc": "2026-03-09 20:41",
-    "mensaje": "🔉Estimados clientes en estos momentos se encuentran afectados por Déficit de Capacidad de Generación La Línea 5385 San Luis",
-    "timestamp": 1773088913,
-    "timestamp_local": 1773088913
-  },
-  {
-    "id": 50714,
-    "fecha": "09 de Mar del 2026 a las 04:39 PM",
-    "hora_utc": "2026-03-09 20:39",
-    "mensaje": "🚨Disparo:  \nApertura no voluntaria de un interruptor como vía de protección para desconectar uno o varios elementos del circuito, subestación o sistema, restableciéndose el servicio rápidamente en dependencia de la causa",
-    "timestamp": 1773088789,
-    "timestamp_local": 1773088789
-  },
-  {
-    "id": 50713,
-    "fecha": "09 de Mar del 2026 a las 04:39 PM",
-    "hora_utc": "2026-03-09 20:39",
-    "mensaje": "🔉Estimados clientes en estos momentos se encuentra Disparado el interruptor el Mangal del circuito 14",
-    "timestamp": 1773088771,
-    "timestamp_local": 1773088771
   }
 ]
