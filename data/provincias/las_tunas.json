@@ -1,5 +1,13 @@
 [
   {
+    "id": 18441,
+    "fecha": "10 de Mar del 2026 a las 09:21 AM",
+    "hora_utc": "2026-03-10 13:21",
+    "mensaje": "**Nota Informativa: Estado del Sistema Eléctrico Nacional (SEN) – 10 de marzo de 2026**\nEn el día de ayer se afectó el servicio por déficit de capacidad durante las 24 horas y se ha mantenido la afectación durante la madrugada de hoy. La máxima afectación por déficit de capacidad de generación en el día de ayer fue de 1937 MW a las 19:50 horas, superior a lo planificado por no entrar la unidad 5 de la CTE Renté.\nLa producción de energía de los 51 nuevos parques solares fotovoltaicos fue de 4041 MWh, con 722 MW como máxima potencia entregada en el horario de la media con esta fuente de generación.\n**Estado actual del SEN**\nLa disponibilidad del SEN a las 06:00 horas es de 1180 MW, la demanda 2320 MW, con 1165 MW afectados. En el horario de la media se estima una afectación de 1150 MW.\n**Principales incidencias**\nAvería: Unidad 5 de la CTE Mariel, Unidad 6 de la CTE Diez de Octubre, Unidad 2 de la CTE Felton y Unidades 5 y 6 de la CTE Antonio Maceo.\nMantenimiento: Unidad 6 de la CTE Mariel, Unidad 5 de la CTE Nuevitas, Unidad 4 de la CTE Carlos Manuel de Céspedes en Cienfuegos.\nLimitaciones en la generación térmica: 476 MW fuera de servicio.\n**Pronóstico para el horario pico**\nPara el pico se pronostica la entrada de la unidad 5 de la CTE Renté con 70 MW (en proceso de arranque).\nCon este pronóstico se prevé para el pico una disponibilidad de 1250 MW con una demanda máxima de 3100 MW, para un déficit de 1850 MW, por lo que de mantenerse las condiciones previstas se pronostica una afectación de 1880 MW en este horario",
+    "timestamp": 1773148906,
+    "timestamp_local": 1773148906
+  },
+  {
     "id": 18439,
     "fecha": "09 de Mar del 2026 a las 10:18 PM",
     "hora_utc": "2026-03-10 02:18",
@@ -118,13 +126,5 @@
     "mensaje": "Se encuentra disparado por DAF el siguientes circuitoTK106 Palancón, Buena Vista",
     "timestamp": 1772990072,
     "timestamp_local": 1772990072
-  },
-  {
-    "id": 18419,
-    "fecha": "08 de Mar del 2026 a las 12:54 PM",
-    "hora_utc": "2026-03-08 16:54",
-    "mensaje": "👉Se encuentra afectado por disparo automático por frecuencia los siguientes circuitos \nCircuito 33 Kv: 6305\nTK41 Calixto\nTK40 Vista Alegre\nTK42 Gastón y Arroyo Muerto\nTK45 La Ceiba\nTK43 Las Parras, Omaja y Cañada Honda\nTK44 Vivienda\nTK24 Reparto Santo Domingo\nTK4 Aeropuerto, Casa Piedra y Aurora\nTK1 Edificios de Buena Vista\nTK12 Las 40 y Nuevo Sosa\nTK6 Calle Cuba y zona sur de Buena Vista\nTK2 Bonachea \nCircuito 33 Kv: 6310                                                                                                                                                                                                                             TK20 Becerra                                                                                                                                                                                                                                 TK21 Tunazúcar                                                                                                                                                                                                                               TK39 Providencia IV                                                                                                                                                                                                                            TK50 Vázquez                                                                                                                                                                                                                                                          TK51 Santa Teresa                                                                                                                                                                                                                             TK54 Vázquez",
-    "timestamp": 1772988873,
-    "timestamp_local": 1772988873
   }
 ]
