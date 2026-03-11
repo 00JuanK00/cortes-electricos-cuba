@@ -1,5 +1,29 @@
 [
   {
+    "id": 33414,
+    "fecha": "11 de Mar del 2026 a las 01:00 PM",
+    "hora_utc": "2026-03-11 17:00",
+    "mensaje": "🔴 11;30 || Fuera de línea la Unidad 5 de la CTE Antonio Maceo, en Vía Libre de Emergencia.",
+    "timestamp": 1773248438,
+    "timestamp_local": 1773248438
+  },
+  {
+    "id": 33413,
+    "fecha": "11 de Mar del 2026 a las 12:49 PM",
+    "hora_utc": "2026-03-11 16:49",
+    "mensaje": "CON SERVICIO \n\nCIRCUITO  4220 Cárdenas110/33kV\n\nCIRCUITO 5670 Bolondrón 110kV",
+    "timestamp": 1773247795,
+    "timestamp_local": 1773247795
+  },
+  {
+    "id": 33412,
+    "fecha": "11 de Mar del 2026 a las 12:39 PM",
+    "hora_utc": "2026-03-11 16:39",
+    "mensaje": "CON SERVICIO\n\n🔌 Circuito 4819 que da servicio a Poblado de Carlos Rojas.",
+    "timestamp": 1773247157,
+    "timestamp_local": 1773247157
+  },
+  {
     "id": 33411,
     "fecha": "11 de Mar del 2026 a las 11:57 AM",
     "hora_utc": "2026-03-11 15:57",
@@ -134,29 +158,5 @@
     "mensaje": "📢ACTUALIZAMOS:\n⚡ Déficit de capacidad de generación en la provincia: * 111 MW .* ⚡",
     "timestamp": 1773211632,
     "timestamp_local": 1773211632
-  },
-  {
-    "id": 33393,
-    "fecha": "11 de Mar del 2026 a las 12:51 AM",
-    "hora_utc": "2026-03-11 04:51",
-    "mensaje": "📢ACTUALIZAMOS:\n⚡ Déficit de capacidad de generación en la provincia: * 121 MW .* ⚡",
-    "timestamp": 1773204671,
-    "timestamp_local": 1773204671
-  },
-  {
-    "id": 33392,
-    "fecha": "10 de Mar del 2026 a las 10:18 PM",
-    "hora_utc": "2026-03-11 02:18",
-    "mensaje": "📢ACTUALIZAMOS:\n⚡ Déficit de capacidad de generación en la provincia: * 145 MW .* ⚡",
-    "timestamp": 1773195504,
-    "timestamp_local": 1773195504
-  },
-  {
-    "id": 33391,
-    "fecha": "10 de Mar del 2026 a las 10:15 PM",
-    "hora_utc": "2026-03-11 02:15",
-    "mensaje": "Se reporta un transformador dañado en el CircuitoMK1501 que da servicio a Reparto Camilo Cienfuegos.",
-    "timestamp": 1773195328,
-    "timestamp_local": 1773195328
   }
 ]
