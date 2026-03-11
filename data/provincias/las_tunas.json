@@ -1,5 +1,13 @@
 [
   {
+    "id": 18451,
+    "fecha": "11 de Mar del 2026 a las 09:33 AM",
+    "hora_utc": "2026-03-11 13:33",
+    "mensaje": "**Nota Informativa: Estado del Sistema Eléctrico Nacional (SEN) – 11 de marzo de 2026**\nEn el día de ayer se afectó el servicio por déficit de capacidad durante las 24 horas y se ha mantenido la afectación durante la madrugada de hoy. La máxima afectación por déficit de capacidad de generación en el día de ayer fue de 1875 MW a las 19:20 horas.\nLa producción de energía de los 51 nuevos parques solares fotovoltaicos fue de 3717 MWh, con 535 MW como máxima potencia entregada en el horario de la media con esta fuente de generación.\n**Estado actual del SEN**\nLa disponibilidad del SEN a las 06:00 horas es de 1120 MW, la demanda 2337 MW, con 1225 MW afectados. En el horario de la media se estima una afectación de 1150 MW.\n**Principales incidencias**\nAvería: Unidad 5 de la CTE Mariel, Unidad 2 de la CTE Santa Cruz, Unidad 6 de la CTE Diez de Octubre, Unidad 2 de la CTE Felton y Unidades 3 y 6 de la CTE Antonio Maceo.\nMantenimiento: Unidad 6 de la CTE Mariel, Unidad 5 de la CTE Nuevitas, Unidad 4 de la CTE Carlos Manuel de Céspedes en Cienfuegos.\nLimitaciones en la generación térmica: 412 MW fuera de servicio.\n**Pronóstico para el horario pico**\nPara el horario pico se estima la entrada de la unidad 6 de la CTE Nuevitas con 90 MW.\nCon este pronóstico se prevé para el pico una disponibilidad de 1120 MW con una demanda máxima de 3080 MW, para un déficit de 1870 MW, por lo que de mantenerse las condiciones previstas se pronostica una afectación de 1900 MW en este horario.",
+    "timestamp": 1773236017,
+    "timestamp_local": 1773236017
+  },
+  {
     "id": 18450,
     "fecha": "11 de Mar del 2026 a las 12:04 AM",
     "hora_utc": "2026-03-11 04:04",
@@ -110,13 +118,5 @@
     "mensaje": "La Empresa Eléctrica Las Tunas informa que, según la nota emitida por la Unión Eléctrica para el 9 de marzo, en el día de ayer se afectó el servicio durante las 24 horas y se ha mantenido la afectación durante la madrugada de hoy. En nuestra provincia se afectaron la totalidad de los circuitos apagables, con una máxima afectación de 82.2 MW.\nActualmente están fuera de servicio por avería la Unidad 5 de la CTE Mariel, Unidad 6 de la CTE Diez de Octubre, Unidad 2 de la CTE Felton y Unidades 5 y 6 de la CTE Antonio Maceo.\nEn mantenimiento se encuentran la Unidad 6 de la CTE Mariel, Unidad 5 de la CTE Nuevitas, Unidad 4 de la CTE Carlos Manuel de Céspedes en Cienfuegos.\nEn el horario nocturno se estima una afectación de 1850 MW, lo cual puede representar el 90% de los circuitos apagables de nuestra provincia.\nEstos valores pueden variar según la demanda nacional.",
     "timestamp": 1773085321,
     "timestamp_local": 1773085321
-  },
-  {
-    "id": 18429,
-    "fecha": "09 de Mar del 2026 a las 09:03 AM",
-    "hora_utc": "2026-03-09 13:03",
-    "mensaje": "Se declara en avería los siguientes circuitos pertenecientes al Municipio de Majibacoa:\nTK42 Gastón y Arroyo Muerto\nTK45 La Ceiba",
-    "timestamp": 1773061395,
-    "timestamp_local": 1773061395
   }
 ]
