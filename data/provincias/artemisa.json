@@ -1,5 +1,13 @@
 [
   {
+    "id": 36514,
+    "fecha": "11 de Mar del 2026 a las 04:04 AM",
+    "hora_utc": "2026-03-11 08:04",
+    "mensaje": "➡️ Tenemos una afectación en estos momentos de 89 MW en la provincia",
+    "timestamp": 1773216256,
+    "timestamp_local": 1773216256
+  },
+  {
     "id": 36513,
     "fecha": "11 de Mar del 2026 a las 01:07 AM",
     "hora_utc": "2026-03-11 05:07",
@@ -150,13 +158,5 @@
     "mensaje": "👉   Restablecido los circuitos que se encontraban  disparados  por 110 en la línea HB 101 y 102  excepto 5050 que se encuentra en falla",
     "timestamp": 1773166019,
     "timestamp_local": 1773166019
-  },
-  {
-    "id": 36494,
-    "fecha": "10 de Mar del 2026 a las 11:58 AM",
-    "hora_utc": "2026-03-10 15:58",
-    "mensaje": "👉  En estos momentos  se encuentran disparados los siguientes circuitos  por  110 en la linea del HB 101 y 102 : \n\n➡️3210 \n➡️1940 San Antonio\n➡️5040\n➡️1424\n➡️3220 San Antonio\n ➡️3305 Güira de Melena \n➡️5050 Bauta \n➡️5045",
-    "timestamp": 1773158281,
-    "timestamp_local": 1773158281
   }
 ]
