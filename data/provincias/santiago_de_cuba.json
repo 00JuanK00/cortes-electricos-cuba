@@ -1,5 +1,21 @@
 [
   {
+    "id": 50774,
+    "fecha": "10 de Mar del 2026 a las 11:51 PM",
+    "hora_utc": "2026-03-11 03:51",
+    "mensaje": "🔊Disparo Automático de Frecuencia (DAF):\nOcurre cuando la frecuencia está por debajo de los 60Hz y determinada carga o circuito se desconecta del sistema automáticamente hasta que se estabilice.",
+    "timestamp": 1773201080,
+    "timestamp_local": 1773201080
+  },
+  {
+    "id": 50773,
+    "fecha": "10 de Mar del 2026 a las 11:17 PM",
+    "hora_utc": "2026-03-11 03:17",
+    "mensaje": "🔊Estimados clientes en estos momentos se encuentra disparado por DAF el circuito 4 de Palma.",
+    "timestamp": 1773199036,
+    "timestamp_local": 1773199036
+  },
+  {
     "id": 50772,
     "fecha": "10 de Mar del 2026 a las 11:14 PM",
     "hora_utc": "2026-03-11 03:14",
@@ -134,21 +150,5 @@
     "mensaje": "🚨Estimados clientes en estos momentos se encuentra afectados por Déficit de Capacidad de Generación los circuitos  3 , 11 , 17 de Santiago , 5980 San Juan , disculpen por las molestias ocasionadas.",
     "timestamp": 1773171037,
     "timestamp_local": 1773171037
-  },
-  {
-    "id": 50754,
-    "fecha": "10 de Mar del 2026 a las 02:02 PM",
-    "hora_utc": "2026-03-10 18:02",
-    "mensaje": "🚨Estimados clientes en estos momentos se encuentra afectados por Déficit de Capacidad de Generación el circuito 14 Santiago , disculpen por las molestias ocasionadas.",
-    "timestamp": 1773165739,
-    "timestamp_local": 1773165739
-  },
-  {
-    "id": 50753,
-    "fecha": "10 de Mar del 2026 a las 02:01 PM",
-    "hora_utc": "2026-03-10 18:01",
-    "mensaje": "🚨Estimados clientes en estos momentos se encuentra afectados por Déficit de Capacidad de Generación la línea 4385, disculpen por las molestias ocasionadas.",
-    "timestamp": 1773165686,
-    "timestamp_local": 1773165686
   }
 ]

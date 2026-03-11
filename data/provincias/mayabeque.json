@@ -1,5 +1,45 @@
 [
   {
+    "id": 109243,
+    "fecha": "11 de Mar del 2026 a las 12:10 AM",
+    "hora_utc": "2026-03-11 04:10",
+    "mensaje": "♦️Afectado el servicio en el circuito 1790 por disparo por DAF♦️",
+    "timestamp": 1773202239,
+    "timestamp_local": 1773202239
+  },
+  {
+    "id": 109242,
+    "fecha": "11 de Mar del 2026 a las 12:04 AM",
+    "hora_utc": "2026-03-11 04:04",
+    "mensaje": "🔷♦️Se restablece el servicio en los circuitos que se encontraban afectados por déficit de capacidad de generación:\n*3655\n*3660♦️🔷",
+    "timestamp": 1773201875,
+    "timestamp_local": 1773201875
+  },
+  {
+    "id": 109241,
+    "fecha": "11 de Mar del 2026 a las 12:03 AM",
+    "hora_utc": "2026-03-11 04:03",
+    "mensaje": "🚨Por déficit de capacidad de generación se afecta el servicio en el siguiente circuito:\n*3665🚨",
+    "timestamp": 1773201828,
+    "timestamp_local": 1773201828
+  },
+  {
+    "id": 109240,
+    "fecha": "10 de Mar del 2026 a las 11:20 PM",
+    "hora_utc": "2026-03-11 03:20",
+    "mensaje": "🔷♦️Se restablece el servicio en los circuitos que se encontraban afectados por déficit de capacidad de generación:\n*Güines 1♦️🔷",
+    "timestamp": 1773199222,
+    "timestamp_local": 1773199222
+  },
+  {
+    "id": 109239,
+    "fecha": "10 de Mar del 2026 a las 11:19 PM",
+    "hora_utc": "2026-03-11 03:19",
+    "mensaje": "🚨Por déficit de capacidad de generación se afecta el servicio en los siguientes circuitos:\n*Catalina 1 y 2🚨",
+    "timestamp": 1773199177,
+    "timestamp_local": 1773199177
+  },
+  {
     "id": 109238,
     "fecha": "10 de Mar del 2026 a las 11:09 PM",
     "hora_utc": "2026-03-11 03:09",
@@ -118,45 +158,5 @@
     "mensaje": "🚨Por déficit de capacidad de generación se afecta el servicio en el siguiente circuito:\n*Santa Cruz🚨",
     "timestamp": 1773182616,
     "timestamp_local": 1773182616
-  },
-  {
-    "id": 109223,
-    "fecha": "10 de Mar del 2026 a las 06:41 PM",
-    "hora_utc": "2026-03-10 22:41",
-    "mensaje": "🔷♦️Se restablece el servicio en los circuitos que se encontraban afectados por déficit de capacidad de generación:\n*Nueva Paz\n*Vega♦️🔷",
-    "timestamp": 1773182475,
-    "timestamp_local": 1773182475
-  },
-  {
-    "id": 109222,
-    "fecha": "10 de Mar del 2026 a las 06:35 PM",
-    "hora_utc": "2026-03-10 22:35",
-    "mensaje": "♦️Afectado el servicio en el circuito 1790 por disparo por DAF♦️",
-    "timestamp": 1773182154,
-    "timestamp_local": 1773182154
-  },
-  {
-    "id": 109221,
-    "fecha": "10 de Mar del 2026 a las 06:29 PM",
-    "hora_utc": "2026-03-10 22:29",
-    "mensaje": "🔷♦️Se restablece el servicio en los circuitos que se encontraban afectados por déficit de capacidad de generación:\n*Los Palos\n*Sureste♦️🔷",
-    "timestamp": 1773181770,
-    "timestamp_local": 1773181770
-  },
-  {
-    "id": 109220,
-    "fecha": "10 de Mar del 2026 a las 06:27 PM",
-    "hora_utc": "2026-03-10 22:27",
-    "mensaje": "🚨Por déficit de capacidad de generación se afecta el servicio en los siguientes circuitos:\n*6 y 8 de San José 🚨",
-    "timestamp": 1773181624,
-    "timestamp_local": 1773181624
-  },
-  {
-    "id": 109219,
-    "fecha": "10 de Mar del 2026 a las 06:24 PM",
-    "hora_utc": "2026-03-10 22:24",
-    "mensaje": "🚨Por déficit de capacidad de generación se afecta el servicio en los siguientes circuitos:\n*Madruga\n*Güines 3\n*Güines 4🚨",
-    "timestamp": 1773181441,
-    "timestamp_local": 1773181441
   }
 ]
