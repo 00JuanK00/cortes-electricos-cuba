@@ -1,5 +1,13 @@
 [
   {
+    "id": 18452,
+    "fecha": "11 de Mar del 2026 a las 11:26 AM",
+    "hora_utc": "2026-03-11 15:26",
+    "mensaje": "Afectados los siguientes circuitos por Déficit de Generación:\nCircuito de 33Kv 6225\nTK18 Las 40, Sosa\nTK106 Palancón, Buena Vista\n\nCircuito 33 Kv: 6220\nTK61 La Yaya\nTK58 La Calera\nTK62 Lora\nTK63 Lora\nTJ95 Poblado Menéndez\n6220 Carúpano, La Salina y La Playa\nTK2 Bonachea\nTK15Tunas El Pueblo\n\nCircuito de 33Kv 6455\nTK29 Circunvalación Sur, Oro Negro\nTK7 La Victoria\nTK5 Buena Vista, Los Pinos\nTK26 Circunvalación Sur hasta La Larga\nCircuito 33 Kv: 6310\nTK20 Becerra",
+    "timestamp": 1773242810,
+    "timestamp_local": 1773242810
+  },
+  {
     "id": 18451,
     "fecha": "11 de Mar del 2026 a las 09:33 AM",
     "hora_utc": "2026-03-11 13:33",
@@ -110,13 +118,5 @@
     "mensaje": "Se declara en avería el TK82 Tana.",
     "timestamp": 1773087355,
     "timestamp_local": 1773087355
-  },
-  {
-    "id": 18432,
-    "fecha": "09 de Mar del 2026 a las 03:42 PM",
-    "hora_utc": "2026-03-09 19:42",
-    "mensaje": "La Empresa Eléctrica Las Tunas informa que, según la nota emitida por la Unión Eléctrica para el 9 de marzo, en el día de ayer se afectó el servicio durante las 24 horas y se ha mantenido la afectación durante la madrugada de hoy. En nuestra provincia se afectaron la totalidad de los circuitos apagables, con una máxima afectación de 82.2 MW.\nActualmente están fuera de servicio por avería la Unidad 5 de la CTE Mariel, Unidad 6 de la CTE Diez de Octubre, Unidad 2 de la CTE Felton y Unidades 5 y 6 de la CTE Antonio Maceo.\nEn mantenimiento se encuentran la Unidad 6 de la CTE Mariel, Unidad 5 de la CTE Nuevitas, Unidad 4 de la CTE Carlos Manuel de Céspedes en Cienfuegos.\nEn el horario nocturno se estima una afectación de 1850 MW, lo cual puede representar el 90% de los circuitos apagables de nuestra provincia.\nEstos valores pueden variar según la demanda nacional.",
-    "timestamp": 1773085321,
-    "timestamp_local": 1773085321
   }
 ]

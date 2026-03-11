@@ -1,5 +1,53 @@
 [
   {
+    "id": 109294,
+    "fecha": "11 de Mar del 2026 a las 11:26 AM",
+    "hora_utc": "2026-03-11 15:26",
+    "mensaje": "♦️Afectado el servicio en el circuito 3590 por disparo por DAF♦️",
+    "timestamp": 1773242816,
+    "timestamp_local": 1773242816
+  },
+  {
+    "id": 109293,
+    "fecha": "11 de Mar del 2026 a las 11:23 AM",
+    "hora_utc": "2026-03-11 15:23",
+    "mensaje": "🔷Restablecido el servicio en el circuito 3590 que se encontraba afectado por disparo por DAF🔷",
+    "timestamp": 1773242616,
+    "timestamp_local": 1773242616
+  },
+  {
+    "id": 109292,
+    "fecha": "11 de Mar del 2026 a las 11:23 AM",
+    "hora_utc": "2026-03-11 15:23",
+    "mensaje": "♦️Afectado el servicio en el circuito 3590 por disparo por DAF♦️",
+    "timestamp": 1773242614,
+    "timestamp_local": 1773242614
+  },
+  {
+    "id": 109290,
+    "fecha": "11 de Mar del 2026 a las 11:01 AM",
+    "hora_utc": "2026-03-11 15:01",
+    "mensaje": "🔷Restablecido el servicio en las siguientes zonas correspondientes al circuito 2420 que se encontraban afectadas por Vía Libre para cambio de transformador:\n*Caserío Rotolactor\n*Morales\n*Mampostón\n*Zonas aledañas🔷",
+    "timestamp": 1773241281,
+    "timestamp_local": 1773241281
+  },
+  {
+    "id": 109289,
+    "fecha": "11 de Mar del 2026 a las 10:49 AM",
+    "hora_utc": "2026-03-11 14:49",
+    "mensaje": "🔷Restablecido el servicio en el circuito 3590 que se encontraba afectado por disparo por DAF🔷",
+    "timestamp": 1773240545,
+    "timestamp_local": 1773240545
+  },
+  {
+    "id": 109285,
+    "fecha": "11 de Mar del 2026 a las 10:46 AM",
+    "hora_utc": "2026-03-11 14:46",
+    "mensaje": "♦️Afectado el servicio en el circuito 3590 por disparo por DAF♦️",
+    "timestamp": 1773240416,
+    "timestamp_local": 1773240416
+  },
+  {
     "id": 109283,
     "fecha": "11 de Mar del 2026 a las 10:37 AM",
     "hora_utc": "2026-03-11 14:37",
@@ -30,77 +78,5 @@
     "mensaje": "Nota Informativa: Estado del Sistema Eléctrico Nacional (SEN) – 11 de marzo de 2026\n\nEn el día de ayer se afectó el servicio por déficit de capacidad durante las 24 horas y se ha mantenido la afectación durante la madrugada de hoy. La máxima afectación por déficit de capacidad de generación en el día de ayer fue de 1875 MW a las 19:20 horas.\nLa producción de energía de los 51 nuevos parques solares fotovoltaicos fue de 3717 MWh, con 535 MW como máxima potencia entregada en el horario de la media con esta fuente de generación.\n\nEstado actual del SEN\n\nLa disponibilidad del SEN a las 06:00 horas es de 1120 MW, la demanda 2337 MW, con 1225 MW afectados. En el horario de la media se estima una afectación de 1150 MW.\n\nPrincipales incidencias\n\nAvería: Unidad 5 de la CTE Mariel, Unidad 2 de la CTE Santa Cruz, Unidad 6 de la CTE Diez de Octubre, Unidad 2 de la CTE Felton y Unidades 3 y 6 de la CTE Antonio Maceo.\n\nMantenimiento: Unidad 6 de la CTE Mariel, Unidad 5 de la CTE Nuevitas, Unidad 4 de la CTE Carlos Manuel de Céspedes en Cienfuegos.\n\nLimitaciones en la generación térmica: 412 MW fuera de servicio.\n\nPronóstico para el horario pico\n\nPara el horario pico se estima la entrada de la unidad 6 de la CTE Nuevitas con 90 MW.\nCon este pronóstico se prevé para el pico una disponibilidad de 1120 MW con una demanda máxima de 3080 MW, para un déficit de 1870 MW, por lo que de mantenerse las condiciones previstas se pronostica una afectación de 1900 MW en este horario.",
     "timestamp": 1773233684,
     "timestamp_local": 1773233684
-  },
-  {
-    "id": 109272,
-    "fecha": "11 de Mar del 2026 a las 08:45 AM",
-    "hora_utc": "2026-03-11 12:45",
-    "mensaje": "🚨Por déficit de capacidad de generación se afecta el servicio en los siguientes circuitos:\n*San Felipe\n*Palomo🚨",
-    "timestamp": 1773233130,
-    "timestamp_local": 1773233130
-  },
-  {
-    "id": 109271,
-    "fecha": "11 de Mar del 2026 a las 08:44 AM",
-    "hora_utc": "2026-03-11 12:44",
-    "mensaje": "📣♦️Afectado nuevamente por déficit de capacidad de generación el servicio en el circuito San Nicolás 1 que se encontraba restablecido por manipulación♦️📣",
-    "timestamp": 1773233077,
-    "timestamp_local": 1773233077
-  },
-  {
-    "id": 109270,
-    "fecha": "11 de Mar del 2026 a las 08:44 AM",
-    "hora_utc": "2026-03-11 12:44",
-    "mensaje": "🚨Por déficit de capacidad de generación se afecta el servicio en el siguiente circuito:\n*Quivicán🚨",
-    "timestamp": 1773233054,
-    "timestamp_local": 1773233054
-  },
-  {
-    "id": 109269,
-    "fecha": "11 de Mar del 2026 a las 08:43 AM",
-    "hora_utc": "2026-03-11 12:43",
-    "mensaje": "🔷♦️Se restablece el servicio en el circuito que se encontraba afectado  por déficit de capacidad de generación:\n*1790♦️🔷",
-    "timestamp": 1773233036,
-    "timestamp_local": 1773233036
-  },
-  {
-    "id": 109268,
-    "fecha": "11 de Mar del 2026 a las 08:41 AM",
-    "hora_utc": "2026-03-11 12:41",
-    "mensaje": "🔷♦️Se restablece el servicio en el circuito que se encontraba afectado  por déficit de capacidad de generación:\n*Caamaño♦️🔷",
-    "timestamp": 1773232882,
-    "timestamp_local": 1773232882
-  },
-  {
-    "id": 109267,
-    "fecha": "11 de Mar del 2026 a las 08:29 AM",
-    "hora_utc": "2026-03-11 12:29",
-    "mensaje": "🔷♦️Se restablece el servicio en los circuitos que se encontraban afectados por déficit de capacidad de generación:\n*Melena 1 y 2 ♦️🔷",
-    "timestamp": 1773232183,
-    "timestamp_local": 1773232183
-  },
-  {
-    "id": 109266,
-    "fecha": "11 de Mar del 2026 a las 08:21 AM",
-    "hora_utc": "2026-03-11 12:21",
-    "mensaje": "🔷♦️Se restablece el servicio en el circuito que se encontraba afectado  por déficit de capacidad de generación:\n*Jamaica♦️🔷",
-    "timestamp": 1773231709,
-    "timestamp_local": 1773231709
-  },
-  {
-    "id": 109265,
-    "fecha": "11 de Mar del 2026 a las 08:18 AM",
-    "hora_utc": "2026-03-11 12:18",
-    "mensaje": "🚨Por déficit de capacidad de generación se afecta el servicio en el siguiente circuito:\n*Jaruco🚨",
-    "timestamp": 1773231529,
-    "timestamp_local": 1773231529
-  },
-  {
-    "id": 109264,
-    "fecha": "11 de Mar del 2026 a las 08:04 AM",
-    "hora_utc": "2026-03-11 12:04",
-    "mensaje": "🚨Por déficit de capacidad de generación se afecta el servicio en el siguiente circuito:\n*Aguacate🚨",
-    "timestamp": 1773230670,
-    "timestamp_local": 1773230670
   }
 ]
