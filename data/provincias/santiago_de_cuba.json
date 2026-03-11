@@ -1,5 +1,21 @@
 [
   {
+    "id": 50793,
+    "fecha": "11 de Mar del 2026 a las 08:36 AM",
+    "hora_utc": "2026-03-11 12:36",
+    "mensaje": "🚨 Les seguiremos informando a través de nuestro canal de Telegram sobre la situación de la Disponibilidad del Sistema en nuestra provincia.",
+    "timestamp": 1773232600,
+    "timestamp_local": 1773232600
+  },
+  {
+    "id": 50792,
+    "fecha": "11 de Mar del 2026 a las 07:59 AM",
+    "hora_utc": "2026-03-11 11:59",
+    "mensaje": "👉Déficit de Capacidad de Generación:⚡️⚡️    \nSe produce cuando la demanda del Sistema Eléctrico Nacional, en determinado horario del día, supera la generación disponible del país, provocando la desconexión de los circuitos o líneas que permitan garantizar la frecuencia del SEN.",
+    "timestamp": 1773230389,
+    "timestamp_local": 1773230389
+  },
+  {
     "id": 50791,
     "fecha": "11 de Mar del 2026 a las 07:51 AM",
     "hora_utc": "2026-03-11 11:51",
@@ -134,21 +150,5 @@
     "mensaje": "🔊Disparo Automático de Frecuencia (DAF):\nOcurre cuando la frecuencia está por debajo de los 60Hz y determinada carga o circuito se desconecta del sistema automáticamente hasta que se estabilice.",
     "timestamp": 1773201080,
     "timestamp_local": 1773201080
-  },
-  {
-    "id": 50773,
-    "fecha": "10 de Mar del 2026 a las 11:17 PM",
-    "hora_utc": "2026-03-11 03:17",
-    "mensaje": "🔊Estimados clientes en estos momentos se encuentra disparado por DAF el circuito 4 de Palma.",
-    "timestamp": 1773199036,
-    "timestamp_local": 1773199036
-  },
-  {
-    "id": 50772,
-    "fecha": "10 de Mar del 2026 a las 11:14 PM",
-    "hora_utc": "2026-03-11 03:14",
-    "mensaje": "🔊Disparo Automático de Frecuencia (DAF):\nOcurre cuando la frecuencia está por debajo de los 60Hz y determinada carga o circuito se desconecta del sistema automáticamente hasta que se estabilice.",
-    "timestamp": 1773198869,
-    "timestamp_local": 1773198869
   }
 ]
