@@ -1,5 +1,13 @@
 [
   {
+    "id": 42083,
+    "fecha": "12 de Mar del 2026 a las 06:43 PM",
+    "hora_utc": "2026-03-12 22:43",
+    "mensaje": "➡️Ante cualquier duda con la terminología eléctrica, les volvemos explicar: \n     \n✍️Las averías pueden ser primarias (afecta un volumen grande de población pues son las líneas de distribución a 13.8kV y puede afectar varias manzanas, incluso repartos completos).\n\n✍️Secundarias (afecta a todos los clientes que se alimenten del mismo transformador, puede afectar una o varias cuadras). \n\n✍️De servicio (afectan 1 solo cliente o instalación generalmente producto a daños en la acometida, metro contador, etc.).",
+    "timestamp": 1773355395,
+    "timestamp_local": 1773355395
+  },
+  {
     "id": 42082,
     "fecha": "12 de Mar del 2026 a las 06:01 PM",
     "hora_utc": "2026-03-12 22:01",
@@ -126,13 +134,5 @@
     "mensaje": "🛠En Vía Libre los Ctos 170 (José Martí) y 171 (Los Caneyes), pertenecientes al municipio Santa Clara para reparar primario partido.",
     "timestamp": 1773337856,
     "timestamp_local": 1773337856
-  },
-  {
-    "id": 42063,
-    "fecha": "12 de Mar del 2026 a las 01:47 PM",
-    "hora_utc": "2026-03-12 17:47",
-    "mensaje": "🔸Actualización del servicio eléctrico en la provincia🔸\n👉De los circuitos apagables que presenta la provincia, se mantienen afectados 128 circuitos.\n👉En el momento de hacer esta nota la provincia tiene 109 MW de afectación.\n👉Cuenta con 78 afectaciones por averías secundarias y de servicio.",
-    "timestamp": 1773337674,
-    "timestamp_local": 1773337674
   }
 ]
