@@ -1,5 +1,29 @@
 [
   {
+    "id": 50863,
+    "fecha": "12 de Mar del 2026 a las 04:31 PM",
+    "hora_utc": "2026-03-12 20:31",
+    "mensaje": "🔴Estimados clientes se les informa que se incorpora a la afectación el circuito 7 seccionalizado.",
+    "timestamp": 1773347460,
+    "timestamp_local": 1773347460
+  },
+  {
+    "id": 50862,
+    "fecha": "12 de Mar del 2026 a las 04:22 PM",
+    "hora_utc": "2026-03-12 20:22",
+    "mensaje": "🔴Estimados clientes se les informa que se incorporan a la afectación los circuitos 12 , la línea 5385 San Luis , el 1 de Palma y el 24 .",
+    "timestamp": 1773346932,
+    "timestamp_local": 1773346932
+  },
+  {
+    "id": 50860,
+    "fecha": "12 de Mar del 2026 a las 04:16 PM",
+    "hora_utc": "2026-03-12 20:16",
+    "mensaje": "🔴Estimados clientes se les informa que se encuentra en  Disparo Automático de Frecuencia  (DAF) el circuito 14 El Manglar  . Disculpen por las molestias ocasionadas.",
+    "timestamp": 1773346573,
+    "timestamp_local": 1773346573
+  },
+  {
     "id": 50859,
     "fecha": "12 de Mar del 2026 a las 03:51 PM",
     "hora_utc": "2026-03-12 19:51",
@@ -126,37 +150,5 @@
     "mensaje": "🚨Manipulaciones:\nAcción que se realizan en los circuitos para dar paso al trabajo en zonas afectadas por averías o Vía Libre y posteriormente para restablecer el servicio eléctrico en los circuitos que se encontraban afectados y en los que se trabaja con anterioridad, luego de culminadas las labores pertinentes.",
     "timestamp": 1773331745,
     "timestamp_local": 1773331745
-  },
-  {
-    "id": 50843,
-    "fecha": "12 de Mar del 2026 a las 12:08 PM",
-    "hora_utc": "2026-03-12 16:08",
-    "mensaje": "🔊Estimados clientes en estos momentos se está Manipulando el circuito 10",
-    "timestamp": 1773331729,
-    "timestamp_local": 1773331729
-  },
-  {
-    "id": 50842,
-    "fecha": "12 de Mar del 2026 a las 11:31 AM",
-    "hora_utc": "2026-03-12 15:31",
-    "mensaje": "🚨Disparo\nApertura no voluntaria de un interruptor como vía de protección para desconectar uno o varios elementos del circuito, subestación o sistema, restableciéndose el servicio rápidamente en dependencia de la causa.",
-    "timestamp": 1773329514,
-    "timestamp_local": 1773329514
-  },
-  {
-    "id": 50841,
-    "fecha": "12 de Mar del 2026 a las 11:31 AM",
-    "hora_utc": "2026-03-12 15:31",
-    "mensaje": "🔊Estimados clientes en estos momentos se encuentra Disparada La Línea 4395 Contramaestre",
-    "timestamp": 1773329489,
-    "timestamp_local": 1773329489
-  },
-  {
-    "id": 50840,
-    "fecha": "12 de Mar del 2026 a las 11:23 AM",
-    "hora_utc": "2026-03-12 15:23",
-    "mensaje": "🔊Estimados clientes en estos momentos se encuentra afectado por Déficit de Capacidad de Generación La Línea 5975 Baconao",
-    "timestamp": 1773329028,
-    "timestamp_local": 1773329028
   }
 ]
