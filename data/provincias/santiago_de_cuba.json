@@ -1,5 +1,37 @@
 [
   {
+    "id": 50832,
+    "fecha": "12 de Mar del 2026 a las 07:10 AM",
+    "hora_utc": "2026-03-12 11:10",
+    "mensaje": "Disparo Automático de Frecuencia (DAF):\nOcurre cuando la frecuencia está por debajo de los 60Hz y determinada carga o circuito se desconecta del sistema automáticamente hasta que se estabilice.",
+    "timestamp": 1773313813,
+    "timestamp_local": 1773313813
+  },
+  {
+    "id": 50831,
+    "fecha": "12 de Mar del 2026 a las 07:10 AM",
+    "hora_utc": "2026-03-12 11:10",
+    "mensaje": "🚨Estimados clientes se les informa que el circuito 14 se encuentra Disparado por DAF , disculpen  por las molestias ocasionadas.",
+    "timestamp": 1773313801,
+    "timestamp_local": 1773313801
+  },
+  {
+    "id": 50830,
+    "fecha": "12 de Mar del 2026 a las 07:07 AM",
+    "hora_utc": "2026-03-12 11:07",
+    "mensaje": "🚨Estimados clientes en estos momentos se encuentra afectados por Déficit de Capacidad de Generación los circuitos 1 y 21 de Santiago  , disculpen por las molestias ocasionadas",
+    "timestamp": 1773313629,
+    "timestamp_local": 1773313629
+  },
+  {
+    "id": 50829,
+    "fecha": "12 de Mar del 2026 a las 06:59 AM",
+    "hora_utc": "2026-03-12 10:59",
+    "mensaje": "🚨Estimados clientes en estos momentos se encuentra afectados por Déficit de Capacidad de Generación línea 5385 San Luis , 4 de Palma  , disculpen por las molestias ocasionadas",
+    "timestamp": 1773313166,
+    "timestamp_local": 1773313166
+  },
+  {
     "id": 50828,
     "fecha": "12 de Mar del 2026 a las 06:10 AM",
     "hora_utc": "2026-03-12 10:10",
@@ -110,29 +142,5 @@
     "mensaje": "🚨Estimados clientes en estos momentos se encuentra afectados por Déficit de Capacidad de Generación la línea 4485 Contramaestre , 5335 Guamá  , disculpen por las molestias ocasionadas",
     "timestamp": 1773274011,
     "timestamp_local": 1773274011
-  },
-  {
-    "id": 50812,
-    "fecha": "11 de Mar del 2026 a las 07:17 PM",
-    "hora_utc": "2026-03-11 23:17",
-    "mensaje": "🚨Estimados clientes en estos momentos se encuentra afectados por Déficit de Capacidad de Generación los circuitos 9 seccionalizado , 20 Santiago  , disculpen por las molestias ocasionadas",
-    "timestamp": 1773271076,
-    "timestamp_local": 1773271076
-  },
-  {
-    "id": 50811,
-    "fecha": "11 de Mar del 2026 a las 05:57 PM",
-    "hora_utc": "2026-03-11 21:57",
-    "mensaje": "🚨Estimados clientes se les informa que en estos momentos se encuentran afectados por déficit de Generación el circuito 3 , 21 , 24 de Santiago , línea 5335 Guamá , 4435 Contramaestre , 5390 La Maya  de Santiago , disculpen por las molestias ocasionadas.",
-    "timestamp": 1773266256,
-    "timestamp_local": 1773266256
-  },
-  {
-    "id": 50810,
-    "fecha": "11 de Mar del 2026 a las 04:51 PM",
-    "hora_utc": "2026-03-11 20:51",
-    "mensaje": "🚨Estimados clientes se les informa que en estos momentos se encuentran afectados por déficit de Generación el circuito 17 de Santiago , disculpen por las molestias ocasionadas.",
-    "timestamp": 1773262296,
-    "timestamp_local": 1773262296
   }
 ]
