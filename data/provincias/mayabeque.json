@@ -1,5 +1,13 @@
 [
   {
+    "id": 109471,
+    "fecha": "12 de Mar del 2026 a las 07:55 PM",
+    "hora_utc": "2026-03-12 23:55",
+    "mensaje": "🚨Se afecta el servicio en el siguiente circuito por emergencia:\n*Güines 4 🚨",
+    "timestamp": 1773359738,
+    "timestamp_local": 1773359738
+  },
+  {
     "id": 109470,
     "fecha": "12 de Mar del 2026 a las 07:03 PM",
     "hora_utc": "2026-03-12 23:03",
@@ -67,7 +75,7 @@
     "id": 109462,
     "fecha": "12 de Mar del 2026 a las 06:02 PM",
     "hora_utc": "2026-03-12 22:02",
-    "mensaje": "🚨Por déficit de capacidad de generación se afecta el servicio en el siguiente circuito:\n*Bío -1 🚨",
+    "mensaje": "🚨Por déficit de capacidad de generación se afecta el servicio en el siguiente circuito:\n*Bío -2🚨",
     "timestamp": 1773352923,
     "timestamp_local": 1773352923
   },
@@ -142,13 +150,5 @@
     "mensaje": "🔷Con servicio el circuito 3590 que se encontraba afectado por disparo por DAF🔷",
     "timestamp": 1773342827,
     "timestamp_local": 1773342827
-  },
-  {
-    "id": 109451,
-    "fecha": "12 de Mar del 2026 a las 03:09 PM",
-    "hora_utc": "2026-03-12 19:09",
-    "mensaje": "🚨Por déficit de capacidad de generación se afecta el servicio en el siguiente circuito:\n*1790🚨",
-    "timestamp": 1773342582,
-    "timestamp_local": 1773342582
   }
 ]
