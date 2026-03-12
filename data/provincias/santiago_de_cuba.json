@@ -1,5 +1,29 @@
 [
   {
+    "id": 50828,
+    "fecha": "12 de Mar del 2026 a las 06:10 AM",
+    "hora_utc": "2026-03-12 10:10",
+    "mensaje": "🚨Estimados clientes en estos momentos se encuentra afectados por Déficit de Capacidad de Generación los circuitos 3 , 11 , 20 de Santiago , 1 de Palma , línea 4435 Contramaestre  , disculpen por las molestias ocasionadas",
+    "timestamp": 1773310235,
+    "timestamp_local": 1773310235
+  },
+  {
+    "id": 50827,
+    "fecha": "12 de Mar del 2026 a las 06:09 AM",
+    "hora_utc": "2026-03-12 10:09",
+    "mensaje": "🚨Estimados clientes en estos momentos se encuentra afectados por Déficit de Capacidad de Generación los circuitos 7 y 9 seccionalizado  , disculpen por las molestias ocasionadas",
+    "timestamp": 1773310162,
+    "timestamp_local": 1773310162
+  },
+  {
+    "id": 50826,
+    "fecha": "12 de Mar del 2026 a las 05:37 AM",
+    "hora_utc": "2026-03-12 09:37",
+    "mensaje": "🚨Estimados clientes en estos momentos se encuentra afectados por Déficit de Capacidad de Generación los circuitos 8 , 13 , 17 , 24 de Santiago , línea 5975 Baconao , 5390 La Maya  , disculpen por las molestias ocasionadas",
+    "timestamp": 1773308236,
+    "timestamp_local": 1773308236
+  },
+  {
     "id": 50824,
     "fecha": "12 de Mar del 2026 a las 01:45 AM",
     "hora_utc": "2026-03-12 05:45",
@@ -110,29 +134,5 @@
     "mensaje": "🚨Estimados clientes se les informa que en estos momentos se encuentran afectados por déficit de Generación el circuito 17 de Santiago , disculpen por las molestias ocasionadas.",
     "timestamp": 1773262296,
     "timestamp_local": 1773262296
-  },
-  {
-    "id": 50808,
-    "fecha": "11 de Mar del 2026 a las 04:40 PM",
-    "hora_utc": "2026-03-11 20:40",
-    "mensaje": "🚨Estimados clientes ,en estos momentos se incorporan a la afectación por Déficit de Generación los  circuitos 10,18 ,disculpen las molestias ocasionadas.",
-    "timestamp": 1773261641,
-    "timestamp_local": 1773261641
-  },
-  {
-    "id": 50807,
-    "fecha": "11 de Mar del 2026 a las 03:28 PM",
-    "hora_utc": "2026-03-11 19:28",
-    "mensaje": "🚨Estimados clientes ,en estos momentos se encuentran afectados por déficit los circuitos 8,13,20 y 2 de Palma junto a la línea 5330 Cristo...",
-    "timestamp": 1773257293,
-    "timestamp_local": 1773257293
-  },
-  {
-    "id": 50806,
-    "fecha": "11 de Mar del 2026 a las 03:04 PM",
-    "hora_utc": "2026-03-11 19:04",
-    "mensaje": "🔴Disparo Automático de Frecuencia (DAF):\nOcurre cuando la frecuencia está por debajo de los 60Hz y determinada carga o circuito se desconecta del sistema automáticamente hasta que se estabilice",
-    "timestamp": 1773255886,
-    "timestamp_local": 1773255886
   }
 ]
