@@ -1,5 +1,45 @@
 [
   {
+    "id": 42114,
+    "fecha": "13 de Mar del 2026 a las 09:34 AM",
+    "hora_utc": "2026-03-13 13:34",
+    "mensaje": "Afectados 88 MW en la provincia, demanda máxima a apagar en estos momentos.",
+    "timestamp": 1773408840,
+    "timestamp_local": 1773408840
+  },
+  {
+    "id": 42113,
+    "fecha": "13 de Mar del 2026 a las 09:09 AM",
+    "hora_utc": "2026-03-13 13:09",
+    "mensaje": "⚡Afectado Cto 74(Vueltas) perteneciente al Municipio Camajuani por disparo, se estudian las causas.",
+    "timestamp": 1773407367,
+    "timestamp_local": 1773407367
+  },
+  {
+    "id": 42112,
+    "fecha": "13 de Mar del 2026 a las 09:00 AM",
+    "hora_utc": "2026-03-13 13:00",
+    "mensaje": "La Provincia cuenta con 1  afectacion de servicio eléctrico por transformador dañado:\n👉Municipio Santa Clara: Callejon del Salado e/ Oria y Circunvalacion. Virginia",
+    "timestamp": 1773406835,
+    "timestamp_local": 1773406835
+  },
+  {
+    "id": 42111,
+    "fecha": "13 de Mar del 2026 a las 08:57 AM",
+    "hora_utc": "2026-03-13 12:57",
+    "mensaje": "🔸Actualización del servicio eléctrico en la provincia🔸\n👉De los circuitos apagables que presenta la provincia, se mantienen afectados 136 circuitos.\n👉En el momento de hacer esta nota la provincia tiene 101 MW de afectación.\n👉Cuenta con 62 afectaciones por averías secundarias y de servicio.",
+    "timestamp": 1773406644,
+    "timestamp_local": 1773406644
+  },
+  {
+    "id": 42110,
+    "fecha": "13 de Mar del 2026 a las 08:43 AM",
+    "hora_utc": "2026-03-13 12:43",
+    "mensaje": "Afectados 102 MW en la provincia, demanda máxima a apagar en estos momentos.",
+    "timestamp": 1773405780,
+    "timestamp_local": 1773405780
+  },
+  {
     "id": 42109,
     "fecha": "13 de Mar del 2026 a las 08:21 AM",
     "hora_utc": "2026-03-13 12:21",
@@ -110,45 +150,5 @@
     "mensaje": "🇨🇺 Actualización del Sistema Electroenergético Nacional a las 19:00 del 12 de marzo de 2026.\n\nIncidencias:\n09:20 Fuera de servicio la unidad 3 de la CTE Carlos Manuel de Céspedes por fallo en los UPS\n09:45 Fuera de servicio la unidad 4 de la CTE Energas Varadero por fallo en el sistema de regulacion de turbina\n\n#UnidosXCuba #NotaInformativa #UniónEléctrica #SEN",
     "timestamp": 1773365166,
     "timestamp_local": 1773365166
-  },
-  {
-    "id": 42094,
-    "fecha": "12 de Mar del 2026 a las 09:22 PM",
-    "hora_utc": "2026-03-13 01:22",
-    "mensaje": "⚡En avería el Cto 33 (RF-33Kv) perteneciente al municipio Santa Clara, se estudian las causas.",
-    "timestamp": 1773364974,
-    "timestamp_local": 1773364974
-  },
-  {
-    "id": 42093,
-    "fecha": "12 de Mar del 2026 a las 09:20 PM",
-    "hora_utc": "2026-03-13 01:20",
-    "mensaje": "💡Con servicio eléctrico los siguientes circuitos de la línea del 1785:\n🔸Municipio Santa Clara:\n👉Cto 6 (Vigía)\n👉Cto 34(Sabana Rebacadero)\n👉Ctos 32 (RF-33Kv)\n👉Cto 39 (Sandino)",
-    "timestamp": 1773364855,
-    "timestamp_local": 1773364855
-  },
-  {
-    "id": 42092,
-    "fecha": "12 de Mar del 2026 a las 09:18 PM",
-    "hora_utc": "2026-03-13 01:18",
-    "mensaje": "⚡En avería de manera parcial el Cto 13 (Zona Industrial), faltando una fase en el circuito, se estudian las causas.",
-    "timestamp": 1773364684,
-    "timestamp_local": 1773364684
-  },
-  {
-    "id": 42091,
-    "fecha": "12 de Mar del 2026 a las 09:01 PM",
-    "hora_utc": "2026-03-13 01:01",
-    "mensaje": "Afectados 130 MW en la provincia, demanda máxima a apagar en estos momentos.",
-    "timestamp": 1773363703,
-    "timestamp_local": 1773363703
-  },
-  {
-    "id": 42090,
-    "fecha": "12 de Mar del 2026 a las 08:54 PM",
-    "hora_utc": "2026-03-13 00:54",
-    "mensaje": "🛠️Afectada por manipulación la línea del 1785:\n🔸Municipio Santa Clara:\n👉Cto 6 (Vigía)\n👉Cto 34(Sabana Rebacadero)\n👉Ctos 32 y 33 (RF-33Kv) (se encuentran en fallo)\n👉Cto 39 (Sandino)",
-    "timestamp": 1773363267,
-    "timestamp_local": 1773363267
   }
 ]
