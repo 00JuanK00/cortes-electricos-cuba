@@ -1,9 +1,17 @@
 [
   {
+    "id": 50911,
+    "fecha": "13 de Mar del 2026 a las 04:50 PM",
+    "hora_utc": "2026-03-13 20:50",
+    "mensaje": "🔊Estimados clientes en estos momentos se encuentra afectados por Déficit de Capacidad de Generación los  circuitos  10 , 17 y San Juan",
+    "timestamp": 1773435037,
+    "timestamp_local": 1773435037
+  },
+  {
     "id": 50909,
     "fecha": "13 de Mar del 2026 a las 04:09 PM",
     "hora_utc": "2026-03-13 20:09",
-    "mensaje": "🚨Estimados clientes en estos momentos se incorporan a la afectación por Déficit los circuitos 21, 23, 11 y la Línea 4435-Contramaestre.",
+    "mensaje": "🚨Estimados clientes en estos momentos se incorporan a la afectación por Déficit los circuitos 1,, 14 , 19, 21, 23, 11, 4 de Palma, 25 y la Línea 4435-Contramaestre.",
     "timestamp": 1773432578,
     "timestamp_local": 1773432578
   },
@@ -27,7 +35,7 @@
     "id": 50905,
     "fecha": "13 de Mar del 2026 a las 01:30 PM",
     "hora_utc": "2026-03-13 17:30",
-    "mensaje": "🚨Estimados clientes en estos momentos se incorporan a la afectación la LI 5385-San Luis-Palma y LI 5390-La Maya-ll Frente.",
+    "mensaje": "🚨Estimados clientes en estos momentos se incorporan a la afectación la LI 5385-San Luis-Palma , LI 5390-La Maya-ll Frente y el circuito 9 secc.",
     "timestamp": 1773423048,
     "timestamp_local": 1773423048
   },
@@ -110,21 +118,5 @@
     "mensaje": "🔴Estimados clientes se les informa que se incorporan a la afectación los circuitos 21 y 23 .",
     "timestamp": 1773400630,
     "timestamp_local": 1773400630
-  },
-  {
-    "id": 50891,
-    "fecha": "13 de Mar del 2026 a las 07:10 AM",
-    "hora_utc": "2026-03-13 11:10",
-    "mensaje": "🔴Estimados clientes se les informa que se incorporan a la afectación los circuitos 25 y el 4 de Palma .",
-    "timestamp": 1773400259,
-    "timestamp_local": 1773400259
-  },
-  {
-    "id": 50890,
-    "fecha": "13 de Mar del 2026 a las 06:27 AM",
-    "hora_utc": "2026-03-13 10:27",
-    "mensaje": "🔴Estimados clientes se les informa que se incorporan a la afectación los circuitos 9 y 19.",
-    "timestamp": 1773397671,
-    "timestamp_local": 1773397671
   }
 ]
