@@ -1,5 +1,53 @@
 [
   {
+    "id": 42090,
+    "fecha": "12 de Mar del 2026 a las 08:54 PM",
+    "hora_utc": "2026-03-13 00:54",
+    "mensaje": "🛠️Afectada por manipulación la línea del 1785:\n🔸Municipio Santa Clara:\n👉Cto 6 (Vigía)\n👉Cto 34(Sabana Rebacadero)\n👉Ctos 32 y 33 (RF-33Kv) (se encuentran en fallo)\n👉Cto 39 (Sandino)",
+    "timestamp": 1773363267,
+    "timestamp_local": 1773363267
+  },
+  {
+    "id": 42089,
+    "fecha": "12 de Mar del 2026 a las 08:47 PM",
+    "hora_utc": "2026-03-13 00:47",
+    "mensaje": "💡Con servicio eléctrico el Cto 13 (Zona Industrial) perteneciente al municipio Santa Clara.",
+    "timestamp": 1773362867,
+    "timestamp_local": 1773362867
+  },
+  {
+    "id": 42088,
+    "fecha": "12 de Mar del 2026 a las 08:27 PM",
+    "hora_utc": "2026-03-13 00:27",
+    "mensaje": "⚠️Se encuentra disparada la línea del 1780:\nMunicipio Santa Clara:\n👉Cto 16 Cubanacán \n👉Ctos 23 y 130 La Ceniza\n👉Cto 42 Manajanabo\nMunicipio Placetas\n👉Cto 139 Miller\n👉Cto 190 Oliver\n👉Cto 106 Falcón\n👉Ctos 98 y 99 Placetas",
+    "timestamp": 1773361657,
+    "timestamp_local": 1773361657
+  },
+  {
+    "id": 42087,
+    "fecha": "12 de Mar del 2026 a las 08:09 PM",
+    "hora_utc": "2026-03-13 00:09",
+    "mensaje": "⚠️ Se encuentran en fallo los siguientes circuitos:\n🔸Municipio Santa Clara:\n👉Ctos 33 (RF-33Kv)\n👉Cto 32 (RF-33Kv)\nSe estudian las causas.",
+    "timestamp": 1773360574,
+    "timestamp_local": 1773360574
+  },
+  {
+    "id": 42086,
+    "fecha": "12 de Mar del 2026 a las 08:04 PM",
+    "hora_utc": "2026-03-13 00:04",
+    "mensaje": "⚠️Se encuentra en fallo el Cto 13 (Zona Industrial) perteneciente al municipio Santa Clara, se estudian las causas.",
+    "timestamp": 1773360264,
+    "timestamp_local": 1773360264
+  },
+  {
+    "id": 42085,
+    "fecha": "12 de Mar del 2026 a las 08:01 PM",
+    "hora_utc": "2026-03-13 00:01",
+    "mensaje": "🔸Actualización del servicio eléctrico en la provincia🔸\n👉De los circuitos apagables que presenta la provincia, se mantienen afectados 137 circuitos.\n👉En el momento de hacer esta nota la provincia tiene 152 MW de afectación.\n👉Cuenta con 49 afectaciones por averías secundarias y de servicio.",
+    "timestamp": 1773360078,
+    "timestamp_local": 1773360078
+  },
+  {
     "id": 42084,
     "fecha": "12 de Mar del 2026 a las 07:02 PM",
     "hora_utc": "2026-03-12 23:02",
@@ -94,45 +142,5 @@
     "mensaje": "Afectados 109 MW en la provincia, demanda máxima a apagar en estos momentos.",
     "timestamp": 1773342058,
     "timestamp_local": 1773342058
-  },
-  {
-    "id": 42070,
-    "fecha": "12 de Mar del 2026 a las 02:41 PM",
-    "hora_utc": "2026-03-12 18:41",
-    "mensaje": "🛠 Brigadas de nuestra empresa continuan trabajando en el Cto 83 Manacas perteneciente al municipio de Santo Domingo \n👉Causa de la averia: cable primario partido",
-    "timestamp": 1773340875,
-    "timestamp_local": 1773340875
-  },
-  {
-    "id": 42069,
-    "fecha": "12 de Mar del 2026 a las 02:13 PM",
-    "hora_utc": "2026-03-12 18:13",
-    "mensaje": "📣Empresa Eléctrica Villa Clara informa a sus clientes que, como parte de las acciones para garantizar la estabilidad y calidad del servicio eléctrico en la provincia, se han programado trabajos de mantenimiento correctivo y poda para mañana viernes 13 de Marzo en los siguientes circuitos del municipio de Santa Clara:\n\n👉Cto 13 (Zona Industrial)\n👉Cto 26 (Manuelita)\n\nHorario establecido:\nDe 8:00 a.m. a 5:00 p.m.\n\nDurante el tiempo que duren estas labores, será necesario interrumpir temporalmente el servicio eléctrico en las áreas comprendidas en dichos circuitos. Agradecemos de antemano la comprensión de nuestros clientes y recordamos que estas acciones responden al compromiso de ofrecer un suministro más confiable y eficiente.\n\nNuestros equipos técnicos trabajarán con la mayor celeridad posible para restablecer el servicio una vez concluidas las maniobras.",
-    "timestamp": 1773339191,
-    "timestamp_local": 1773339191
-  },
-  {
-    "id": 42068,
-    "fecha": "12 de Mar del 2026 a las 02:10 PM",
-    "hora_utc": "2026-03-12 18:10",
-    "mensaje": "🔴 09:20 || Fuera de línea la Unidad 3 de la CTE Carlos Manuel de Céspedes.",
-    "timestamp": 1773339012,
-    "timestamp_local": 1773339012
-  },
-  {
-    "id": 42067,
-    "fecha": "12 de Mar del 2026 a las 02:06 PM",
-    "hora_utc": "2026-03-12 18:06",
-    "mensaje": "Afectados 106 MW en la provincia, demanda máxima a apagar en estos momentos.",
-    "timestamp": 1773338783,
-    "timestamp_local": 1773338783
-  },
-  {
-    "id": 42066,
-    "fecha": "12 de Mar del 2026 a las 01:53 PM",
-    "hora_utc": "2026-03-12 17:53",
-    "mensaje": "💡Restablecido el servicio eléctrico en la línea del 1365.",
-    "timestamp": 1773338023,
-    "timestamp_local": 1773338023
   }
 ]

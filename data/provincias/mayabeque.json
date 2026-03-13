@@ -1,5 +1,21 @@
 [
   {
+    "id": 109473,
+    "fecha": "12 de Mar del 2026 a las 08:30 PM",
+    "hora_utc": "2026-03-13 00:30",
+    "mensaje": "🔷Con servicio el circuito 3590 que se encontraba afectado por disparo por DAF🔷",
+    "timestamp": 1773361851,
+    "timestamp_local": 1773361851
+  },
+  {
+    "id": 109472,
+    "fecha": "12 de Mar del 2026 a las 08:20 PM",
+    "hora_utc": "2026-03-13 00:20",
+    "mensaje": "♦️ Afectado el servicio en el circuito 3590 por disparo por DAF♦️",
+    "timestamp": 1773361220,
+    "timestamp_local": 1773361220
+  },
+  {
     "id": 109471,
     "fecha": "12 de Mar del 2026 a las 07:55 PM",
     "hora_utc": "2026-03-12 23:55",
@@ -11,7 +27,7 @@
     "id": 109470,
     "fecha": "12 de Mar del 2026 a las 07:03 PM",
     "hora_utc": "2026-03-12 23:03",
-    "mensaje": "🚨Por déficit de capacidad de generación se afecta el servicio en los siguientes circuitos:\n*Sopapo 1 y 2 🚨",
+    "mensaje": "🚨Por déficit de capacidad de generación se afecta el servicio en los siguientes circuitos:\n*Sopapo 1 y 2 \n*Ganuza 🚨",
     "timestamp": 1773356618,
     "timestamp_local": 1773356618
   },
@@ -134,21 +150,5 @@
     "mensaje": "🔷Con servicio el circuito de Nazareno que se encontraba afectado por avería para reparar primario partido en la Vaquería 33 🔷",
     "timestamp": 1773343804,
     "timestamp_local": 1773343804
-  },
-  {
-    "id": 109453,
-    "fecha": "12 de Mar del 2026 a las 03:26 PM",
-    "hora_utc": "2026-03-12 19:26",
-    "mensaje": "🔷Con servicio nuestros clientes pertenecientes al los circuitos:\n*Somorrostro\n*Jamaica\n*Babiney\n*Nazareno\n*Menocal\nQue se encontraban afectados por cambio de Poste 🔷",
-    "timestamp": 1773343572,
-    "timestamp_local": 1773343572
-  },
-  {
-    "id": 109452,
-    "fecha": "12 de Mar del 2026 a las 03:13 PM",
-    "hora_utc": "2026-03-12 19:13",
-    "mensaje": "🔷Con servicio el circuito 3590 que se encontraba afectado por disparo por DAF🔷",
-    "timestamp": 1773342827,
-    "timestamp_local": 1773342827
   }
 ]
