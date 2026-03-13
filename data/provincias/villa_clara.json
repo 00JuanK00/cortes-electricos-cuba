@@ -1,9 +1,17 @@
 [
   {
+    "id": 42106,
+    "fecha": "13 de Mar del 2026 a las 07:15 AM",
+    "hora_utc": "2026-03-13 11:15",
+    "mensaje": "Afectados 105 MW en la provincia, demanda máxima a apagar en estos momentos.",
+    "timestamp": 1773400547,
+    "timestamp_local": 1773400547
+  },
+  {
     "id": 42105,
     "fecha": "13 de Mar del 2026 a las 06:01 AM",
     "hora_utc": "2026-03-13 10:01",
-    "mensaje": "🕕Actualización del servicio eléctrico. \n✍️El déficit de capacidad de generación en estos momentos es de 94 MW. \n✍️En el momento de esta nota, se mantienen afectados 142 circuitos.\n✍️Cuenta con 55 afectaciones por averías secundarias y de servicio:\n🔸Camajuaní (1)\n🔸Manicaragua (4)\n🔸Placetas (1)\n🔸Ranchuelo (3)\n🔸Sagua (5)\n🔸Santa Clara (36)\n🔸Santo Domingo (5)\n🛠️Se encuentran 2 averías en vías de solución\n🛠️Pendientes a solucionar por el área técnica 10.\n⚡En avería el Cto 33 (RF-33Kv) perteneciente al municipio Santa Clara, se estudian las causas.\n⚡Se encuentra en avería la línea del 1780:\nMunicipio Santa Clara:\n👉Cto 16 Cubanacán \n👉Ctos 23 y 130 La Ceniza\n👉Cto 42 Manajanabo\nMunicipio Placetas\n👉Cto 139 Miller\n👉Cto 190 Oliver\n👉Cto 106 Falcón\n👉Ctos 98 y 99 Placetas",
+    "mensaje": "🕕Actualización del servicio eléctrico. \n✍️El déficit de capacidad de generación en estos momentos es de 94 MW. \n✍️En el momento de esta nota, se mantienen afectados 142 circuitos.\n✍️Cuenta con 55 afectaciones por averías secundarias y de servicio:\n🔸Camajuaní (1)\n🔸Manicaragua (4)\n🔸Placetas (1)\n🔸Ranchuelo (3)\n🔸Sagua (5)\n🔸Santa Clara (36)\n🔸Santo Domingo (5)\n🛠️Se encuentran 2 averías en vías de solución\n🛠️Pendientes a solucionar por el área técnica 10.\n⚡En avería el Cto 33 (RF-33Kv) perteneciente al municipio Santa Clara, se estudian las causas.\n⚡Se encuentra en avería la línea del 1780:\nMunicipio Santa Clara:\n👉Cto 16 Cubanacán \n👉Ctos 23 y 130 La Ceniza\n👉Cto 42 Manajanabo\nMunicipio Placetas\n👉Cto 139 Miller\n👉Cto 190 Oliver\n👉Cto 106 Falcón",
     "timestamp": 1773396095,
     "timestamp_local": 1773396095
   },
@@ -142,13 +150,5 @@
     "mensaje": "⚠️ Se encuentran en fallo los siguientes circuitos:\n🔸Municipio Santa Clara:\n👉Ctos 33 (RF-33Kv)\n👉Cto 32 (RF-33Kv)\nSe estudian las causas.",
     "timestamp": 1773360574,
     "timestamp_local": 1773360574
-  },
-  {
-    "id": 42086,
-    "fecha": "12 de Mar del 2026 a las 08:04 PM",
-    "hora_utc": "2026-03-13 00:04",
-    "mensaje": "⚠️Se encuentra en fallo el Cto 13 (Zona Industrial) perteneciente al municipio Santa Clara, se estudian las causas.",
-    "timestamp": 1773360264,
-    "timestamp_local": 1773360264
   }
 ]
