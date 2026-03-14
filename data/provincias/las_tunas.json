@@ -1,5 +1,21 @@
 [
   {
+    "id": 18490,
+    "fecha": "14 de Mar del 2026 a las 02:53 PM",
+    "hora_utc": "2026-03-14 18:53",
+    "mensaje": "¿Qué es un disparo por DAF?\nEl Disparo por Frecuencia (DAF) es un mecanismo de protección del sistema eléctrico. Se activa automáticamente cuando la frecuencia desciende por debajo de los valores mínimos seguros (menores de 60 Hz), lo que pone en riesgo la estabilidad del sistema.\nEn ese momento, algunos circuitos se desconectan de forma automática para aliviar la carga y permitir que la frecuencia vuelva a su valor nominal.\nEsto suele ocurrir cuando una planta generadora sale de servicio de manera imprevista, provocando un déficit de generación. El DAF ayuda a evitar un colapso mayor del sistema, aunque puede generar afectaciones al servicio como apagones parciales.",
+    "timestamp": 1773514386,
+    "timestamp_local": 1773514386
+  },
+  {
+    "id": 18489,
+    "fecha": "14 de Mar del 2026 a las 02:52 PM",
+    "hora_utc": "2026-03-14 18:52",
+    "mensaje": "Se encuentran disparados por DAF los siguientes circuitos:\nCircuito 33 Kv: 6305\nTK41 Calixto\nTK40 Vista Alegre\nTK42 Gastón y Arroyo Muerto\nTK45 La Ceiba\nTK43 Las Parras, Omaja y Cañada Honda\nTK44 Vivienda\nCircuito 33 Kv: 6310\nTK20 Becerra \nTK21 Tunazúcar\nTK39 Providencia IV \nTK50 Vázquez \nTK51 Santa Teresa \nTK54 Vázquez\nTK2 Bonachea\nTK5 Buena Vista, Los Pinos\nTK106 Palancón, Buena Vista",
+    "timestamp": 1773514352,
+    "timestamp_local": 1773514352
+  },
+  {
     "id": 18488,
     "fecha": "14 de Mar del 2026 a las 11:34 AM",
     "hora_utc": "2026-03-14 15:34",
@@ -118,13 +134,5 @@
     "mensaje": "Afectados por Déficit deGeneración los siguientes circuitos:\nCircuito:\n2020 (Colombia)\n6305 (Majibacoa)\n6220\nTK 47 (La Micro)\nTK 48 (Puerto Padre yManiabón)\nTK 53 (La Morena y El Malecón)\n6310\nTK 20 (Becerra)\nTK 21 (Tunazucar)\nTK 50 (Vázquez)\n6455\nTK 29 (Circunvalación Sur,desde la entrada de 4 Caminos hasta el Oro Negro)\nTK 26 (Circunvalación Sur) \nTK 19 (Km7, San Antonio y Ciruelito)\nTK 25 (4 Caminos, Dormitorio)\n 6810(Amancio)\n 6100(Veguita, Línea vieja de Manatí) \n6300(Jobabo)\n4220 \nTK 31(Pueblo Manatí)\nTK 34(Pueblo Manatí)\n6220(Poblado Menéndez)\nTK 15(Tunas El Pueblo)\nTK 106 (Palancón, Buena Vista)\nTK 5(Buena Vista, Los Pinos)\nTK 18(Las 40, Rpto Velázquez) \nTK 7(La Victoria)",
     "timestamp": 1773357428,
     "timestamp_local": 1773357428
-  },
-  {
-    "id": 18467,
-    "fecha": "12 de Mar del 2026 a las 07:06 PM",
-    "hora_utc": "2026-03-12 23:06",
-    "mensaje": "Afectados fuera de bloque los sgtes circuitos: TK 4, TK 6, TK 1",
-    "timestamp": 1773356762,
-    "timestamp_local": 1773356762
   }
 ]
