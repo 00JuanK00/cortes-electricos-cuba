@@ -1,9 +1,33 @@
 [
   {
+    "id": 42165,
+    "fecha": "14 de Mar del 2026 a las 12:57 PM",
+    "hora_utc": "2026-03-14 16:57",
+    "mensaje": "💡Restablecido el servicio eléctrico en el circuito 4 del municipio Santa Clara, después de reparada la avería.",
+    "timestamp": 1773507431,
+    "timestamp_local": 1773507431
+  },
+  {
+    "id": 42164,
+    "fecha": "14 de Mar del 2026 a las 12:53 PM",
+    "hora_utc": "2026-03-14 16:53",
+    "mensaje": "💡Restablecido el servicio eléctrico en el circuito 97 del municipio Ranchuelo.",
+    "timestamp": 1773507193,
+    "timestamp_local": 1773507193
+  },
+  {
+    "id": 42163,
+    "fecha": "14 de Mar del 2026 a las 12:39 PM",
+    "hora_utc": "2026-03-14 16:39",
+    "mensaje": "⚡Afectado por avería el circuito 97 del municipio Ranchuelo, se estudian las causas.",
+    "timestamp": 1773506372,
+    "timestamp_local": 1773506372
+  },
+  {
     "id": 42162,
     "fecha": "14 de Mar del 2026 a las 12:12 PM",
     "hora_utc": "2026-03-14 16:12",
-    "mensaje": "🕛Actualización del servicio eléctrico. \n✍️El déficit de capacidad de generación en estos momentos es de 83 MW. \n✍️En el momento de esta nota, se mantienen afectados 99 circuitos.\n✍️Cuenta con 84 afectaciones por averías secundarias y de servicio:\n🔸Caibarien (1)\n🔸Camajuaní (4)\n🔸Cifuentes (1)\n🔸Corralillo (1)\n🔸Encrucijada (3)\n🔸Manicaragua (7)\n🔸Placetas (5)\n🔸Ranchuelo (5)\n🔸Sagua (4)\n🔸Santa Clara (36)\n🔸Santo Domingo (5)\n🛠️Se encuentran 6 averías en vías de solución\n🛠️Pendientes a solucionar por el área técnica 6.\n⚡Avería⚡\n\n👉Cto 4 Zona Centro, cable primario partido, en estos momentos en vía libre.",
+    "mensaje": "🕛Actualización del servicio eléctrico. \n✍️El déficit de capacidad de generación en estos momentos es de 83 MW. \n✍️En el momento de esta nota, se mantienen afectados 99 circuitos.\n✍️Cuenta con 84 afectaciones por averías secundarias y de servicio:\n🔸Caibarien (1)\n🔸Camajuaní (4)\n🔸Cifuentes (1)\n🔸Corralillo (1)\n🔸Encrucijada (3)\n🔸Manicaragua (7)\n🔸Placetas (5)\n🔸Ranchuelo (5)\n🔸Sagua (4)\n🔸Santa Clara (36)\n🔸Santo Domingo (5)\n🛠️Se encuentran 6 averías en vías de solución\n🛠️Pendientes a solucionar por el área técnica 6.\n⚡Avería⚡\n👉 Afectado Cto 4 (Zona Centro) por cable primario partido, en estos momentos se encuentra en vía libre.",
     "timestamp": 1773504768,
     "timestamp_local": 1773504768
   },
@@ -134,21 +158,5 @@
     "mensaje": "🔸Actualización del servicio eléctrico en la provincia🔸\n👉De los circuitos apagables que presenta la provincia, se mantienen afectados 128 circuitos.\n👉En el momento de hacer esta nota la provincia tiene 73 MW de afectación.\n👉Cuenta con 38 afectaciones por averías secundarias y de servicio.",
     "timestamp": 1773475399,
     "timestamp_local": 1773475399
-  },
-  {
-    "id": 42144,
-    "fecha": "14 de Mar del 2026 a las 02:23 AM",
-    "hora_utc": "2026-03-14 06:23",
-    "mensaje": "🔸Actualización del servicio eléctrico en la provincia🔸\n👉De los circuitos apagables que presenta la provincia, se mantienen afectados 148 circuitos.\n👉En el momento de hacer esta nota la provincia tiene 98MW de afectación.\n👉Cuenta con 40 afectaciones por averías secundarias y de servicio.",
-    "timestamp": 1773469384,
-    "timestamp_local": 1773469384
-  },
-  {
-    "id": 42143,
-    "fecha": "14 de Mar del 2026 a las 01:42 AM",
-    "hora_utc": "2026-03-14 05:42",
-    "mensaje": "‼️El Proceso de restablecimiento de servicio eléctrico por déficit de capacidad de generación se debe realizar de forma controlada y gradual. Primero debe haber capacidad de generación disponible y estable para reconectar las cargas de manera escalonada, evitando picos de demanda que puedan desestabilizar la red. Este proceso permite estabilizar la frecuencia y el voltaje, garantiza que la energía se distribuya de forma segura hasta que todas las cargas puedan ser atendidas nuevamente.",
-    "timestamp": 1773466952,
-    "timestamp_local": 1773466952
   }
 ]
