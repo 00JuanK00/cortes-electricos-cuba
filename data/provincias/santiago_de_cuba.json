@@ -1,5 +1,45 @@
 [
   {
+    "id": 50985,
+    "fecha": "14 de Mar del 2026 a las 07:54 PM",
+    "hora_utc": "2026-03-14 23:54",
+    "mensaje": "🔴Disparo Automático de Frecuencia (DAF):\nOcurre cuando la frecuencia está por debajo de los 60Hz y determinada carga o circuito se desconecta del sistema automáticamente hasta que se estabilice.",
+    "timestamp": 1773532446,
+    "timestamp_local": 1773532446
+  },
+  {
+    "id": 50984,
+    "fecha": "14 de Mar del 2026 a las 07:53 PM",
+    "hora_utc": "2026-03-14 23:53",
+    "mensaje": "🔴Estimados clientes en estos momentos se encuentra afectado por DAF el circuito 17 .",
+    "timestamp": 1773532427,
+    "timestamp_local": 1773532427
+  },
+  {
+    "id": 50983,
+    "fecha": "14 de Mar del 2026 a las 07:34 PM",
+    "hora_utc": "2026-03-14 23:34",
+    "mensaje": "🔴Estimados clientes en estos momentos se incorpora a la afectación el circuito 26.",
+    "timestamp": 1773531297,
+    "timestamp_local": 1773531297
+  },
+  {
+    "id": 50982,
+    "fecha": "14 de Mar del 2026 a las 07:30 PM",
+    "hora_utc": "2026-03-14 23:30",
+    "mensaje": "🔴Manipulaciones:\nAcción que se realizan en los circuitos para dar paso al trabajo en zonas afectadas por averías o Vía Libre y posteriormente para restablecer el servicio eléctrico en los circuitos que se encontraban afectados y en los que se trabaja con anterioridad, luego de culminadas las labores pertinentes.",
+    "timestamp": 1773531033,
+    "timestamp_local": 1773531033
+  },
+  {
+    "id": 50981,
+    "fecha": "14 de Mar del 2026 a las 07:30 PM",
+    "hora_utc": "2026-03-14 23:30",
+    "mensaje": "🔴Estimados clientes en estos momentos se esta Manipulando el circuito 7 .",
+    "timestamp": 1773531018,
+    "timestamp_local": 1773531018
+  },
+  {
     "id": 50980,
     "fecha": "14 de Mar del 2026 a las 07:18 PM",
     "hora_utc": "2026-03-14 23:18",
@@ -110,37 +150,5 @@
     "mensaje": "🔴Estimados clientes se les informa que se incorpora a la afectación la línea 5390 San Luis .",
     "timestamp": 1773510637,
     "timestamp_local": 1773510637
-  },
-  {
-    "id": 50965,
-    "fecha": "14 de Mar del 2026 a las 01:48 PM",
-    "hora_utc": "2026-03-14 17:48",
-    "mensaje": "🔴Estimados clientes se les informa que se incorporan a la afectación los circuitos 14 , 4 de Palma y el 19.",
-    "timestamp": 1773510480,
-    "timestamp_local": 1773510480
-  },
-  {
-    "id": 50964,
-    "fecha": "14 de Mar del 2026 a las 01:03 PM",
-    "hora_utc": "2026-03-14 17:03",
-    "mensaje": "🔴Estimados clientes se les informa que el circuito 10 se esta Manipulando.Disculpen por las molestias ocasionadas.",
-    "timestamp": 1773507829,
-    "timestamp_local": 1773507829
-  },
-  {
-    "id": 50962,
-    "fecha": "14 de Mar del 2026 a las 12:48 PM",
-    "hora_utc": "2026-03-14 16:48",
-    "mensaje": "🔴Estimados clientes se les informa que se esta manipulando el circuito 19. Disculpen por las molestias ocasionadas.",
-    "timestamp": 1773506914,
-    "timestamp_local": 1773506914
-  },
-  {
-    "id": 50961,
-    "fecha": "14 de Mar del 2026 a las 11:20 AM",
-    "hora_utc": "2026-03-14 15:20",
-    "mensaje": "🔴Estimados clientes se les informa que se incorpora a la afectación el circuito 20.",
-    "timestamp": 1773501601,
-    "timestamp_local": 1773501601
   }
 ]
