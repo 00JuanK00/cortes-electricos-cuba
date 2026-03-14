@@ -1,5 +1,13 @@
 [
   {
+    "id": 109612,
+    "fecha": "14 de Mar del 2026 a las 02:00 PM",
+    "hora_utc": "2026-03-14 18:00",
+    "mensaje": "🚨Por déficit de capacidad de generación se afecta el servicio en el siguiente circuito:\n*ML-35🚨",
+    "timestamp": 1773511244,
+    "timestamp_local": 1773511244
+  },
+  {
     "id": 109611,
     "fecha": "14 de Mar del 2026 a las 01:51 PM",
     "hora_utc": "2026-03-14 17:51",
@@ -118,13 +126,5 @@
     "mensaje": "**Nota Informativa: Estado del Sistema Eléctrico Nacional (SEN) – 14 de marzo de 2026\n**En el día de ayer se afectó el servicio por déficit de capacidad durante las 24 horas y se ha mantenido la afectación durante la madrugada de hoy. La máxima afectación por déficit de capacidad de generación en el día de ayer fue de 1977 MW a las 19:10 horas, superior a lo planificado por la entrada tardía de la unidad 3 de la CTE Cienfuegos.\nLa producción de energía de los 51 nuevos parques solares fotovoltaicos fue de 4119 MWh, con 600 MW como máxima potencia entregada en el horario de la media con esta fuente de generación. \n**Estado actual del SEN\n**La disponibilidad del SEN a las 06:00 horas es de 1120 MW, la demanda 2450 MW, con 1326 MW afectados. En el horario de la media se estima una afectación de 1250 MW. \n**Principales incidencias\n**Avería: Unidad 5 de la CTE Mariel, Unidades 1 y 2 de la CTE Santa Cruz, Unidad 2 de la CTE Felton y Unidades 3 y 6 de la CTE Antonio Maceo.\nMantenimiento: Unidad 6 de la CTE Mariel, Unidad 5 de la CTE Nuevitas, Unidad 4 de la CTE Carlos Manuel de Céspedes en Cienfuegos.\nLimitaciones en la generación térmica: 336 MW fuera de servicio.\n**Pronóstico para el horario pico\n**Se espera para el pico una disponibilidad de 1120 MW con una demanda máxima de 3130 MW, para un déficit de 2010 MW, por lo que de mantenerse las condiciones previstas se pronostica una afectación de 2040 MW en este horario.",
     "timestamp": 1773493948,
     "timestamp_local": 1773493948
-  },
-  {
-    "id": 109592,
-    "fecha": "14 de Mar del 2026 a las 09:05 AM",
-    "hora_utc": "2026-03-14 13:05",
-    "mensaje": "🚨Por déficit de capacidad de generación se afecta el servicio en los siguientes circuitos:\n*La Salud 1 y 2🚨",
-    "timestamp": 1773493518,
-    "timestamp_local": 1773493518
   }
 ]
