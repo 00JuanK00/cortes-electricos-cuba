@@ -1,5 +1,21 @@
 [
   {
+    "id": 42219,
+    "fecha": "15 de Mar del 2026 a las 11:14 AM",
+    "hora_utc": "2026-03-15 15:14",
+    "mensaje": "Con servicio la línea 1920:\n🔹Municipio Placetas:\n👉Ctos 101 y 145 Cumbre \n👉Cto 107 Baez\n👉Cto 105 Nazareno",
+    "timestamp": 1773587686,
+    "timestamp_local": 1773587686
+  },
+  {
+    "id": 42218,
+    "fecha": "15 de Mar del 2026 a las 11:12 AM",
+    "hora_utc": "2026-03-15 15:12",
+    "mensaje": "🛠️Afectado por DAF la línea 1920:\nAfecta los siguientes circuitos:\n🔹Municipio Placetas:\n👉Ctos 101 y 145 Cumbre (Déficit)\n👉Cto 107 Baez\n👉Cto 105 Nazareno",
+    "timestamp": 1773587565,
+    "timestamp_local": 1773587565
+  },
+  {
     "id": 42217,
     "fecha": "15 de Mar del 2026 a las 10:14 AM",
     "hora_utc": "2026-03-15 14:14",
@@ -142,21 +158,5 @@
     "mensaje": "⚡Afectada por disparo general, la Línea SC Industrial quedando afectados las siguientes Líneas:\n\n👉Línea 6375 (1775)\n🔸Municipio Santa Clara\nCto 7 (Universidad)  \nCto 146 (Elevado Aeropuerto) \nCto 22 (Construcciones Textil)\nCto 131 (Las Antillas)\nCto 153 (EIDE)\nCto 25 (Los Güiros)\nCto 24 (Planta Asfalto)\nCto 35 (Biotecnología) \nCtos 14, 15 y 27 (Maleza)\n👉Línea 1780 (6610)\n🔸Municipio Santa Clara:\nCto 16 Cubanacán \nCtos 23 y 130 La Ceniza\nCto 42 Manajanabo\nMunicipio Placetas\nCto 139 Miller\nCto 190 Oliver\nCto 106 Falcón\nCtos 98 y 99 Placetas",
     "timestamp": 1773569418,
     "timestamp_local": 1773569418
-  },
-  {
-    "id": 42198,
-    "fecha": "15 de Mar del 2026 a las 05:58 AM",
-    "hora_utc": "2026-03-15 09:58",
-    "mensaje": "🕕Actualización del servicio eléctrico. \n✍️El déficit de capacidad de generación en estos momentos es de 93 MW. \n✍️En el momento de esta nota, se mantienen afectados 136 circuitos.\n✍️Cuenta con 113 afectaciones por averías secundarias y de servicio:\n🔸Caibarién (5)\n🔸Camajuaní (5)\n🔸Corralillo (1)\n🔸Encrucijada (1)\n🔸Manicaragua (7)\n🔸Placetas (2)\n🔸Quemado (1)\n🔸Ranchuelo (2)\n🔸Remedios (4)\n🔸Santa Clara (68)\n🔸Santo Domingo (2)\n🛠️Se encuentran 2 averías en vías de solución\n🛠️Pendientes a solucionar por el área técnica 12.\n⚡Avería⚡\n👉Afectados por avería los circuitos 37  y 38 (Yabú) por cable primario partido.\n⚡Afectada por 110 kV la Línea Camajuaní-Santa Clara afectando las siguientes subestaciones. Se investigan las causas.\n\n👉sub Camajuaní.\n👉sub Remedios.\n👉sub Santa Clara Industrial 13 kV.",
-    "timestamp": 1773568730,
-    "timestamp_local": 1773568730
-  },
-  {
-    "id": 42197,
-    "fecha": "15 de Mar del 2026 a las 05:50 AM",
-    "hora_utc": "2026-03-15 09:50",
-    "mensaje": "⚡Afectada por 110 kV la Línea Camajuaní-Santa Clara afectando las siguientes subestaciones. Se investigan las causas.\n\n👉sub Camajuaní.\n👉sub Remedios.\n👉sub Santa Clara Industrial 13 kV.",
-    "timestamp": 1773568205,
-    "timestamp_local": 1773568205
   }
 ]
