@@ -1,5 +1,77 @@
 [
   {
+    "id": 42244,
+    "fecha": "15 de Mar del 2026 a las 03:52 PM",
+    "hora_utc": "2026-03-15 19:52",
+    "mensaje": "Con servicio la línea 1920:\n🔹Municipio Placetas:\n👉Ctos 101 y 145 Cumbre \n👉Cto 107 Baez\n👉Cto 105 Nazareno",
+    "timestamp": 1773604367,
+    "timestamp_local": 1773604367
+  },
+  {
+    "id": 42243,
+    "fecha": "15 de Mar del 2026 a las 03:34 PM",
+    "hora_utc": "2026-03-15 19:34",
+    "mensaje": "Con servicio la línea 861:\n🔹Municipio Santa Clara:\n👉Cto 5 (Dobarganes)\n👉Cto 17 (Subplanta) \n👉Ctos 37 y 38 (Yabú)   \n👉Cto 9 (Moldes y Troqueles)\n👉Cto 133 (Taller Cafetera)",
+    "timestamp": 1773603260,
+    "timestamp_local": 1773603260
+  },
+  {
+    "id": 42242,
+    "fecha": "15 de Mar del 2026 a las 03:26 PM",
+    "hora_utc": "2026-03-15 19:26",
+    "mensaje": "Con servicio la línea 6375:\n🔹Municipio Santa Clara\n👉Cto 7 (Universidad)  \n👉Cto 146 (Elevado Aeropuerto) \n👉Cto 22 (Construcciones Textil)\n👉Cto 131 (Las Antillas)\n👉Cto 25 (Los Güiros)\n👉Cto 24 (Planta Asfalto)\n👉Cto 35 (Biotecnología) \n👉Ctos 15 y 27 (Maleza)\n👉Cto 14 (Maleza)",
+    "timestamp": 1773602796,
+    "timestamp_local": 1773602796
+  },
+  {
+    "id": 42241,
+    "fecha": "15 de Mar del 2026 a las 03:21 PM",
+    "hora_utc": "2026-03-15 19:21",
+    "mensaje": "🛠️Afectada por manipulación la línea 6375:\n🔹Municipio Santa Clara\n👉Cto 7 (Universidad)  \n👉Cto 146 (Elevado Aeropuerto) \n👉Cto 22 (Construcciones Textil)\n👉Cto 131 (Las Antillas)\n👉Cto 25 (Los Güiros)\n👉Cto 24 (Planta Asfalto)\n👉Cto 35 (Biotecnología) \n👉Ctos 15 y 27 (Maleza)\n👉Cto 14 (Maleza) (Avería)",
+    "timestamp": 1773602502,
+    "timestamp_local": 1773602502
+  },
+  {
+    "id": 42240,
+    "fecha": "15 de Mar del 2026 a las 03:18 PM",
+    "hora_utc": "2026-03-15 19:18",
+    "mensaje": "🛠️ Afectado por manipulación la línea 861:\nAfecta los siguientes circuitos:\n🔹Municipio Santa Clara:\n👉Cto 5 (Dobarganes)\n👉Cto 17 (Subplanta) \n👉Ctos 37 y 38 (Yabú) (Avería)   \n👉Cto 9 (Moldes y Troqueles)\n👉Cto 133 (Taller Cafetera)",
+    "timestamp": 1773602307,
+    "timestamp_local": 1773602307
+  },
+  {
+    "id": 42239,
+    "fecha": "15 de Mar del 2026 a las 03:17 PM",
+    "hora_utc": "2026-03-15 19:17",
+    "mensaje": "Con servicio circuito 194 (SC Industrial).",
+    "timestamp": 1773602256,
+    "timestamp_local": 1773602256
+  },
+  {
+    "id": 42238,
+    "fecha": "15 de Mar del 2026 a las 03:13 PM",
+    "hora_utc": "2026-03-15 19:13",
+    "mensaje": "Con servicio la línea 1205:\n🔹Municipio Sagua\n👉Ctos 43, 51 Sagua\n👉Cto 44 Isabela\n👉Ctos 50 y 147 Villa Alegre",
+    "timestamp": 1773602015,
+    "timestamp_local": 1773602015
+  },
+  {
+    "id": 42237,
+    "fecha": "15 de Mar del 2026 a las 03:07 PM",
+    "hora_utc": "2026-03-15 19:07",
+    "mensaje": "Afectados por disparo los circuitos 68 y 118 (13 Kv), del municipio Remedios. Se estudian las causas.",
+    "timestamp": 1773601678,
+    "timestamp_local": 1773601678
+  },
+  {
+    "id": 42236,
+    "fecha": "15 de Mar del 2026 a las 03:07 PM",
+    "hora_utc": "2026-03-15 19:07",
+    "mensaje": "🛠️ Afectado por manipulación circuito 194 (SC Industrial), para reponer transformador.",
+    "timestamp": 1773601632,
+    "timestamp_local": 1773601632
+  },
+  {
     "id": 42235,
     "fecha": "15 de Mar del 2026 a las 02:44 PM",
     "hora_utc": "2026-03-15 18:44",
@@ -19,7 +91,7 @@
     "id": 42233,
     "fecha": "15 de Mar del 2026 a las 02:00 PM",
     "hora_utc": "2026-03-15 18:00",
-    "mensaje": "🛠️Afectado por DAF la línea 1920:\nAfecta los siguientes circuitos:\n🔹Municipio Placetas:\n👉Ctos 101 y 145 Cumbre (Déficit)\n👉Cto 107 Baez\n👉Cto 105 Nazareno",
+    "mensaje": "🛠️Afectado por DAF la línea 1920:\nAfecta los siguientes circuitos:\n🔹Municipio Placetas:\n👉Ctos 101 y 145 Cumbre \n👉Cto 107 Baez\n👉Cto 105 Nazareno",
     "timestamp": 1773597620,
     "timestamp_local": 1773597620
   },
@@ -62,77 +134,5 @@
     "mensaje": "Estimados clientes:\n👉Por inestabilidad en el sistema se ha encontrado afectado el servicio eléctrico en reiteradas ocasiones en línea 1920 (Placetas) por lo que le exhortamos a desconectar sus equipos y una vez restablecido el servicio esperar un tiempo para la reconexión de los mismos.",
     "timestamp": 1773592593,
     "timestamp_local": 1773592593
-  },
-  {
-    "id": 42224,
-    "fecha": "15 de Mar del 2026 a las 12:30 PM",
-    "hora_utc": "2026-03-15 16:30",
-    "mensaje": "🛠️Afectado por DAF la línea 1920:\nAfecta los siguientes circuitos:\n🔹Municipio Placetas:\n👉Ctos 101 y 145 Cumbre (Déficit)\n👉Cto 107 Baez\n👉Cto 105 Nazareno",
-    "timestamp": 1773592254,
-    "timestamp_local": 1773592254
-  },
-  {
-    "id": 42223,
-    "fecha": "15 de Mar del 2026 a las 12:25 PM",
-    "hora_utc": "2026-03-15 16:25",
-    "mensaje": "Con servicio circuitos 68 y 118 (13 Kv), del municipio Remedios.",
-    "timestamp": 1773591947,
-    "timestamp_local": 1773591947
-  },
-  {
-    "id": 42222,
-    "fecha": "15 de Mar del 2026 a las 12:15 PM",
-    "hora_utc": "2026-03-15 16:15",
-    "mensaje": "🕛Actualización del servicio eléctrico. \n✍️El déficit de capacidad de generación en estos momentos es de 77 MW. \n✍️En el momento de esta nota, se mantienen afectados 91 circuitos.\n✍️Cuenta con 156 afectaciones por averías secundarias y de servicio:\n🔸Caibarién (4)\n🔸Camajuaní (6)\n🔸Cifuentes (2)\n🔸Corralillo (1)\n🔸Manicaragua (11)\n🔸Placetas (4)\n🔸Ranchuelo (8)\n🔸Remedios (7)\n🔸Sagua (3)\n🔸Santa Clara (85)\n🔸Santo Domingo (10)\n🛠️Se encuentran 4 averías en vías de solución\n🛠️Pendientes a solucionar por el área técnica 10.\n⚡Averías⚡\n👉Cto 37  y 38 (Yabú), del municipio Santa Clara, se encuentra en trabajo de vía libre para cambio de drop out en la Subestación.\n👉Cto 14 (Maleza), del municipio Santa Clara, afectado por poste partido. Brigada eléctrica de nuestra empresa preparan las condiciones necesarias para trabajar en el lugar. (La línea se encuentra en estos momentos afectada por déficit de capacidad de generación.)\n👉Cto 33 (RF), del municipio Santa Clara. Brigada eléctrica se encuentra recorriendo el circuito para determinar las causas de la avería. \n👉Ctos 68 y 118 (13 Kv), del municipio Remedios. Brigada eléctrica se encuentra recorriendo el circuito para determinar las causas de la avería.",
-    "timestamp": 1773591352,
-    "timestamp_local": 1773591352
-  },
-  {
-    "id": 42221,
-    "fecha": "15 de Mar del 2026 a las 11:35 AM",
-    "hora_utc": "2026-03-15 15:35",
-    "mensaje": "Con servicio la línea 1920:\n🔹Municipio Placetas:\n👉Ctos 101 y 145 Cumbre \n👉Cto 107 Baez\n👉Cto 105 Nazareno",
-    "timestamp": 1773588926,
-    "timestamp_local": 1773588926
-  },
-  {
-    "id": 42220,
-    "fecha": "15 de Mar del 2026 a las 11:31 AM",
-    "hora_utc": "2026-03-15 15:31",
-    "mensaje": "🛠️Afectado por DAF la línea 1920:\nAfecta los siguientes circuitos:\n🔹Municipio Placetas:\n👉Ctos 101 y 145 Cumbre (Déficit)\n👉Cto 107 Baez\n👉Cto 105 Nazareno",
-    "timestamp": 1773588701,
-    "timestamp_local": 1773588701
-  },
-  {
-    "id": 42219,
-    "fecha": "15 de Mar del 2026 a las 11:14 AM",
-    "hora_utc": "2026-03-15 15:14",
-    "mensaje": "Con servicio la línea 1920:\n🔹Municipio Placetas:\n👉Ctos 101 y 145 Cumbre \n👉Cto 107 Baez\n👉Cto 105 Nazareno",
-    "timestamp": 1773587686,
-    "timestamp_local": 1773587686
-  },
-  {
-    "id": 42218,
-    "fecha": "15 de Mar del 2026 a las 11:12 AM",
-    "hora_utc": "2026-03-15 15:12",
-    "mensaje": "🛠️Afectado por DAF la línea 1920:\nAfecta los siguientes circuitos:\n🔹Municipio Placetas:\n👉Ctos 101 y 145 Cumbre (Déficit)\n👉Cto 107 Baez\n👉Cto 105 Nazareno",
-    "timestamp": 1773587565,
-    "timestamp_local": 1773587565
-  },
-  {
-    "id": 42217,
-    "fecha": "15 de Mar del 2026 a las 10:14 AM",
-    "hora_utc": "2026-03-15 14:14",
-    "mensaje": "🔸Actualización del servicio eléctrico en la provincia🔸\n👉De los circuitos apagables que presenta la provincia, se mantienen  afectados 86 circuitos.\n👉En el momento de hacer esta nota la provincia tiene 70 MW de afectación.\n👉Cuenta con 134 afectaciones por averías secundarias y de servicio.",
-    "timestamp": 1773584040,
-    "timestamp_local": 1773584040
-  },
-  {
-    "id": 42216,
-    "fecha": "15 de Mar del 2026 a las 09:31 AM",
-    "hora_utc": "2026-03-15 13:31",
-    "mensaje": "Con servicio la línea 6375 :\n🔹Municipio Santa Clara\n👉Cto 7 (Universidad)  \n👉Cto 146 (Elevado Aeropuerto) \n👉Cto 22 (Construcciones Textil)\n👉Cto 131 (Las Antillas)\n👉Cto 25 (Los Güiros)\n👉Cto 24 (Planta Asfalto)\n👉Cto 35 (Biotecnología) \n👉Ctos 15 y 27 (Maleza)\n👉Cto 14 (Maleza) (Avería)\n👉Cto 153 (EIDE)",
-    "timestamp": 1773581502,
-    "timestamp_local": 1773581502
   }
 ]
