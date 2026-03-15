@@ -1,5 +1,13 @@
 [
   {
+    "id": 18501,
+    "fecha": "15 de Mar del 2026 a las 07:49 PM",
+    "hora_utc": "2026-03-15 23:49",
+    "mensaje": "Se encuentra en avería el circuito:TK26 Circunvalación Sur hasta La Larga",
+    "timestamp": 1773618555,
+    "timestamp_local": 1773618555
+  },
+  {
     "id": 18498,
     "fecha": "15 de Mar del 2026 a las 10:07 AM",
     "hora_utc": "2026-03-15 14:07",
@@ -102,21 +110,5 @@
     "mensaje": "🔊QUE SIGNIFICA E IMPLICA LA MÁXIMA CAPACIDAD APAGABLE EN LA PROVINCIA: \nMáxima capacidad apagable se refiere al nivel máximo de demanda eléctrica que puede ser desconectada o suspendida temporalmente en la provincia, explica la complejidad del déficit de generación o contingencias en el sistema eléctrico.\nRepresenta el límite superior de la reducción de carga que la empresa puede lograr mediante cortes de energía (apagones). Cuanto mayor sea la máxima capacidad apagable, mayor será el déficit de energía.\n¿Qué implica esto?\nSe identifica cuántos circuitos pueden ser apagados para equilibrar la carga del sistema, esto imposibilita realizar rotaciones, pues a excepción de los servicios priorizados, se encuentran afectados todos los circuitos apagables del territorio. Podrán presentarse afectaciones en el servicio de electricidad durante varias horas al día y el tiempo con servicio dependerá del comportamiento del SEN. Esta medida es necesaria para evitar fallas mayores y proteger la infraestructura eléctrica.",
     "timestamp": 1773446934,
     "timestamp_local": 1773446934
-  },
-  {
-    "id": 18480,
-    "fecha": "13 de Mar del 2026 a las 01:15 PM",
-    "hora_utc": "2026-03-13 17:15",
-    "mensaje": "Se encuentra en avería TK74 La Lomita en Amancio",
-    "timestamp": 1773422104,
-    "timestamp_local": 1773422104
-  },
-  {
-    "id": 18479,
-    "fecha": "13 de Mar del 2026 a las 10:46 AM",
-    "hora_utc": "2026-03-13 14:46",
-    "mensaje": "Se encuentra sin servicio los siguientes circuitos por disparo automático por frecuencia (DAF):\nTK99 Santa Marías\nTK98 San Manuel, La Pedrera",
-    "timestamp": 1773413171,
-    "timestamp_local": 1773413171
   }
 ]
