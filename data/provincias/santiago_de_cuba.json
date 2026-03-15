@@ -1,5 +1,29 @@
 [
   {
+    "id": 50989,
+    "fecha": "14 de Mar del 2026 a las 08:58 PM",
+    "hora_utc": "2026-03-15 00:58",
+    "mensaje": "🔴Disparo Automático de Frecuencia (DAF):\nOcurre cuando la frecuencia está por debajo de los 60Hz y determinada carga o circuito se desconecta del sistema automáticamente hasta que se estabilice.",
+    "timestamp": 1773536293,
+    "timestamp_local": 1773536293
+  },
+  {
+    "id": 50988,
+    "fecha": "14 de Mar del 2026 a las 08:58 PM",
+    "hora_utc": "2026-03-15 00:58",
+    "mensaje": "🔴Estimados clientes en estos momentos se encuentra afectado por DAF el circuito 1 de Palma .",
+    "timestamp": 1773536281,
+    "timestamp_local": 1773536281
+  },
+  {
+    "id": 50987,
+    "fecha": "14 de Mar del 2026 a las 08:30 PM",
+    "hora_utc": "2026-03-15 00:30",
+    "mensaje": "🔴Estimados clientes en estos momentos se afectaron  por Déficit la Línea 5395-San Luis y el circuito 17.",
+    "timestamp": 1773534646,
+    "timestamp_local": 1773534646
+  },
+  {
     "id": 50985,
     "fecha": "14 de Mar del 2026 a las 07:54 PM",
     "hora_utc": "2026-03-14 23:54",
@@ -118,37 +142,5 @@
     "mensaje": "🔴Estimados clientes se les informa que se incorpora a la afectación el circuito 15.",
     "timestamp": 1773516858,
     "timestamp_local": 1773516858
-  },
-  {
-    "id": 50969,
-    "fecha": "14 de Mar del 2026 a las 03:32 PM",
-    "hora_utc": "2026-03-14 19:32",
-    "mensaje": "🔴Estimados clientes se les informa que se incorporan a la afectación el circuitos 3 y la línea 4435 Contramaestre.",
-    "timestamp": 1773516725,
-    "timestamp_local": 1773516725
-  },
-  {
-    "id": 50968,
-    "fecha": "14 de Mar del 2026 a las 02:46 PM",
-    "hora_utc": "2026-03-14 18:46",
-    "mensaje": "🔴Estimados clientes se les informa que se incorporan a la afectación los circuitos 25 y el 1.",
-    "timestamp": 1773514019,
-    "timestamp_local": 1773514019
-  },
-  {
-    "id": 50967,
-    "fecha": "14 de Mar del 2026 a las 02:11 PM",
-    "hora_utc": "2026-03-14 18:11",
-    "mensaje": "🔴Estimados clientes se les informa que se incorporan a la afectación los circuito 21 y 23.",
-    "timestamp": 1773511878,
-    "timestamp_local": 1773511878
-  },
-  {
-    "id": 50966,
-    "fecha": "14 de Mar del 2026 a las 01:50 PM",
-    "hora_utc": "2026-03-14 17:50",
-    "mensaje": "🔴Estimados clientes se les informa que se incorpora a la afectación la línea 5390 San Luis .",
-    "timestamp": 1773510637,
-    "timestamp_local": 1773510637
   }
 ]
