@@ -1,5 +1,21 @@
 [
   {
+    "id": 42221,
+    "fecha": "15 de Mar del 2026 a las 11:35 AM",
+    "hora_utc": "2026-03-15 15:35",
+    "mensaje": "Con servicio la línea 1920:\n🔹Municipio Placetas:\n👉Ctos 101 y 145 Cumbre \n👉Cto 107 Baez\n👉Cto 105 Nazareno",
+    "timestamp": 1773588926,
+    "timestamp_local": 1773588926
+  },
+  {
+    "id": 42220,
+    "fecha": "15 de Mar del 2026 a las 11:31 AM",
+    "hora_utc": "2026-03-15 15:31",
+    "mensaje": "🛠️Afectado por DAF la línea 1920:\nAfecta los siguientes circuitos:\n🔹Municipio Placetas:\n👉Ctos 101 y 145 Cumbre (Déficit)\n👉Cto 107 Baez\n👉Cto 105 Nazareno",
+    "timestamp": 1773588701,
+    "timestamp_local": 1773588701
+  },
+  {
     "id": 42219,
     "fecha": "15 de Mar del 2026 a las 11:14 AM",
     "hora_utc": "2026-03-15 15:14",
@@ -142,21 +158,5 @@
     "mensaje": "⚡Afectado por disparo el circuito 153 EIDE, se estudian las causas.",
     "timestamp": 1773572190,
     "timestamp_local": 1773572190
-  },
-  {
-    "id": 42200,
-    "fecha": "15 de Mar del 2026 a las 06:42 AM",
-    "hora_utc": "2026-03-15 10:42",
-    "mensaje": "💡Restablecido el servicio eléctrico en las Líneas afectadas por disparo por 110 kV SC Industrial.",
-    "timestamp": 1773571373,
-    "timestamp_local": 1773571373
-  },
-  {
-    "id": 42199,
-    "fecha": "15 de Mar del 2026 a las 06:10 AM",
-    "hora_utc": "2026-03-15 10:10",
-    "mensaje": "⚡Afectada por disparo general, la Línea SC Industrial quedando afectados las siguientes Líneas:\n\n👉Línea 6375 (1775)\n🔸Municipio Santa Clara\nCto 7 (Universidad)  \nCto 146 (Elevado Aeropuerto) \nCto 22 (Construcciones Textil)\nCto 131 (Las Antillas)\nCto 153 (EIDE)\nCto 25 (Los Güiros)\nCto 24 (Planta Asfalto)\nCto 35 (Biotecnología) \nCtos 14, 15 y 27 (Maleza)\n👉Línea 1780 (6610)\n🔸Municipio Santa Clara:\nCto 16 Cubanacán \nCtos 23 y 130 La Ceniza\nCto 42 Manajanabo\nMunicipio Placetas\nCto 139 Miller\nCto 190 Oliver\nCto 106 Falcón\nCtos 98 y 99 Placetas",
-    "timestamp": 1773569418,
-    "timestamp_local": 1773569418
   }
 ]
