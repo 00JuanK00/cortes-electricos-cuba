@@ -1,5 +1,21 @@
 [
   {
+    "id": 42234,
+    "fecha": "15 de Mar del 2026 a las 02:01 PM",
+    "hora_utc": "2026-03-15 18:01",
+    "mensaje": "🔸Actualización del servicio eléctrico en la provincia🔸\n👉De los circuitos apagables que presenta la provincia, se mantienen  afectados 88 circuitos.\n👉En el momento de hacer esta nota la provincia tiene 73 MW de afectación.\n👉Cuenta con 137 afectaciones por averías secundarias y de servicio.",
+    "timestamp": 1773597716,
+    "timestamp_local": 1773597716
+  },
+  {
+    "id": 42233,
+    "fecha": "15 de Mar del 2026 a las 02:00 PM",
+    "hora_utc": "2026-03-15 18:00",
+    "mensaje": "🛠️Afectado por DAF la línea 1920:\nAfecta los siguientes circuitos:\n🔹Municipio Placetas:\n👉Ctos 101 y 145 Cumbre (Déficit)\n👉Cto 107 Baez\n👉Cto 105 Nazareno",
+    "timestamp": 1773597620,
+    "timestamp_local": 1773597620
+  },
+  {
     "id": 42232,
     "fecha": "15 de Mar del 2026 a las 01:37 PM",
     "hora_utc": "2026-03-15 17:37",
@@ -118,21 +134,5 @@
     "mensaje": "🛠️Afectada por manipulación la línea 6375 para reponer servicio en el circuito 153 (EIDE):\n🔹Municipio Santa Clara\n👉Cto 7 (Universidad)  \n👉Cto 146 (Elevado Aeropuerto) \n👉Cto 22 (Construcciones Textil)\n👉Cto 131 (Las Antillas)\n👉Cto 25 (Los Güiros)\n👉Cto 24 (Planta Asfalto)\n👉Cto 35 (Biotecnología) \n👉Ctos 15 y 27 (Maleza)\n👉Cto 14 (Maleza) (Avería)",
     "timestamp": 1773581183,
     "timestamp_local": 1773581183
-  },
-  {
-    "id": 42213,
-    "fecha": "15 de Mar del 2026 a las 09:21 AM",
-    "hora_utc": "2026-03-15 13:21",
-    "mensaje": "Restablecidos los circuitos 52 y 67 (4Kv), del municipio Remedios.",
-    "timestamp": 1773580902,
-    "timestamp_local": 1773580902
-  },
-  {
-    "id": 42212,
-    "fecha": "15 de Mar del 2026 a las 09:17 AM",
-    "hora_utc": "2026-03-15 13:17",
-    "mensaje": "Con servicio la línea 1920:\n🔹Municipio Placetas:\n👉Ctos 101 y 145 Cumbre \n👉Cto 107 Baez\n👉Cto 105 Nazareno",
-    "timestamp": 1773580621,
-    "timestamp_local": 1773580621
   }
 ]
