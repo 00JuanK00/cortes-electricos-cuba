@@ -1,5 +1,61 @@
 [
   {
+    "id": 51014,
+    "fecha": "15 de Mar del 2026 a las 10:51 AM",
+    "hora_utc": "2026-03-15 14:51",
+    "mensaje": "Manipulaciones:\nAcción que se realizan en los circuitos para dar paso al trabajo en zonas afectadas por averías o Vía Libre y posteriormente para restablecer el servicio eléctrico en los circuitos que se encontraban afectados y en los que se trabaja con anterioridad, luego de culminadas las labores pertinentes.",
+    "timestamp": 1773586281,
+    "timestamp_local": 1773586281
+  },
+  {
+    "id": 51013,
+    "fecha": "15 de Mar del 2026 a las 10:51 AM",
+    "hora_utc": "2026-03-15 14:51",
+    "mensaje": "🚨Estimados clientes se les informa que el circuito 18 se encuentra en manipulación , disculpen por las molestias ocasionadas.",
+    "timestamp": 1773586262,
+    "timestamp_local": 1773586262
+  },
+  {
+    "id": 51012,
+    "fecha": "15 de Mar del 2026 a las 10:32 AM",
+    "hora_utc": "2026-03-15 14:32",
+    "mensaje": "🚨Estimados clientes en estos momentos se encuentra afectados por Déficit de Capacidad de Generación el  circuito 14 de Santiago , disculpen por las molestias ocasionadas.",
+    "timestamp": 1773585152,
+    "timestamp_local": 1773585152
+  },
+  {
+    "id": 51011,
+    "fecha": "15 de Mar del 2026 a las 10:30 AM",
+    "hora_utc": "2026-03-15 14:30",
+    "mensaje": "Disparo Automático de Frecuencia (DAF):\nOcurre cuando la frecuencia está por debajo de los 60Hz y determinada carga o circuito se desconecta del sistema automáticamente hasta que se estabilice.",
+    "timestamp": 1773585046,
+    "timestamp_local": 1773585046
+  },
+  {
+    "id": 51010,
+    "fecha": "15 de Mar del 2026 a las 10:30 AM",
+    "hora_utc": "2026-03-15 14:30",
+    "mensaje": "🚨Estimados clientes se les informa que el circuito 14 esta Disparado por DAF , disculpen por las molestias ocasionadas.",
+    "timestamp": 1773585034,
+    "timestamp_local": 1773585034
+  },
+  {
+    "id": 51009,
+    "fecha": "15 de Mar del 2026 a las 10:25 AM",
+    "hora_utc": "2026-03-15 14:25",
+    "mensaje": "🚨Estimados clientes en estos momentos se encuentra afectados por Déficit de Capacidad de Generación los circuitos 21 , 25 de Santiago ,  4 de Palma , disculpen por las molestias ocasionadas.",
+    "timestamp": 1773584755,
+    "timestamp_local": 1773584755
+  },
+  {
+    "id": 51008,
+    "fecha": "15 de Mar del 2026 a las 10:05 AM",
+    "hora_utc": "2026-03-15 14:05",
+    "mensaje": "Disparo\nApertura no voluntaria de un interruptor como vía de protección para desconectar uno o varios elementos del circuito, subestación o sistema, restableciéndose el servicio rápidamente en dependencia de la causa.",
+    "timestamp": 1773583540,
+    "timestamp_local": 1773583540
+  },
+  {
     "id": 51007,
     "fecha": "15 de Mar del 2026 a las 09:06 AM",
     "hora_utc": "2026-03-15 13:06",
@@ -70,53 +126,5 @@
     "mensaje": "🔴Les seguiremos informando a través de nuestro canal de Telegram sobre la situación de la Disponibilidad del Sistema en nuestra provincia.",
     "timestamp": 1773546542,
     "timestamp_local": 1773546542
-  },
-  {
-    "id": 50994,
-    "fecha": "14 de Mar del 2026 a las 11:29 PM",
-    "hora_utc": "2026-03-15 03:29",
-    "mensaje": "🔴Estimados clientes en estos momentos se incorporan a la afectación por Déficit la Línea 5385-San Luis y el circuito 10 .",
-    "timestamp": 1773545357,
-    "timestamp_local": 1773545357
-  },
-  {
-    "id": 50993,
-    "fecha": "14 de Mar del 2026 a las 10:34 PM",
-    "hora_utc": "2026-03-15 02:34",
-    "mensaje": "🔴Estimados clientes en estos momentos se encuentran afectados por Déficit los circuitos 7, 9 sec , 11, 20, Línea 4385-Contramaestre y  1 de Palma .",
-    "timestamp": 1773542072,
-    "timestamp_local": 1773542072
-  },
-  {
-    "id": 50991,
-    "fecha": "14 de Mar del 2026 a las 09:46 PM",
-    "hora_utc": "2026-03-15 01:46",
-    "mensaje": "🚨Disparo\nApertura no voluntaria de un interruptor como vía de protección para desconectar uno o varios elementos del circuito, subestación o sistema, restableciéndose el servicio rápidamente en dependencia de la causa.",
-    "timestamp": 1773539177,
-    "timestamp_local": 1773539177
-  },
-  {
-    "id": 50990,
-    "fecha": "14 de Mar del 2026 a las 09:45 PM",
-    "hora_utc": "2026-03-15 01:45",
-    "mensaje": "🔴Estimados clientes en estos momentos se afecto por un Disparo el circuito 9 .",
-    "timestamp": 1773539159,
-    "timestamp_local": 1773539159
-  },
-  {
-    "id": 50989,
-    "fecha": "14 de Mar del 2026 a las 08:58 PM",
-    "hora_utc": "2026-03-15 00:58",
-    "mensaje": "🔴Disparo Automático de Frecuencia (DAF):\nOcurre cuando la frecuencia está por debajo de los 60Hz y determinada carga o circuito se desconecta del sistema automáticamente hasta que se estabilice.",
-    "timestamp": 1773536293,
-    "timestamp_local": 1773536293
-  },
-  {
-    "id": 50988,
-    "fecha": "14 de Mar del 2026 a las 08:58 PM",
-    "hora_utc": "2026-03-15 00:58",
-    "mensaje": "🔴Estimados clientes en estos momentos se encuentra afectado por DAF el circuito 1 de Palma .",
-    "timestamp": 1773536281,
-    "timestamp_local": 1773536281
   }
 ]
