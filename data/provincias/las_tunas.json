@@ -1,5 +1,37 @@
 [
   {
+    "id": 18507,
+    "fecha": "16 de Mar del 2026 a las 11:22 AM",
+    "hora_utc": "2026-03-16 15:22",
+    "mensaje": "La Empresa Eléctrica Las Tunas informa que, según la nota emitida por la Unión Eléctrica para el 16 de marzo, en el día de ayer se afectó el servicio durante las 24 horas y se ha mantenido la afectación durante la madrugada de hoy. En nuestra provincia se afectaron la totalidad de los circuitos apagables, con una máxima afectación de 70.13 MW.\nActualmente están fuera de servicio por avería la Unidad 5 de la CTE Mariel, Unidades 2 y 3 de la CTE Santa Cruz, Unidad 2 de la CTE Felton y Unidades 3 y 6 de la CTE Antonio Maceo.\nEn mantenimiento se encuentran la Unidad 6 de la CTE Mariel, Unidad 5 de la CTE Nuevitas, Unidad 4 de la CTE Carlos Manuel de Céspedes en Cienfuegos.\nEn el horario diurno se pronostica una afectación de 1250 MW, lo cual puede representar una afectación del 90% en nuestra provincia.\nEn el horario nocturno se estima una afectación de 1960 MW, lo cual puede representar la totalidad de los circuitos apagables de nuestra provincia debido al alto déficit de capacidad de generación existente en el país.\nEstos valores pueden variar según la demanda nacional.",
+    "timestamp": 1773674552,
+    "timestamp_local": 1773674552
+  },
+  {
+    "id": 18506,
+    "fecha": "16 de Mar del 2026 a las 10:54 AM",
+    "hora_utc": "2026-03-16 14:54",
+    "mensaje": "¿Qué es un disparo por DAF?\nEl Disparo por Frecuencia (DAF) es un mecanismo de protección del sistema eléctrico. Se activa automáticamente cuando la frecuencia desciende por debajo de los valores mínimos seguros (menores de 60 Hz), lo que pone en riesgo la estabilidad del sistema.\nEn ese momento, algunos circuitos se desconectan de forma automática para aliviar la carga y permitir que la frecuencia vuelva a su valor nominal.\nEsto suele ocurrir cuando una planta generadora sale de servicio de manera imprevista, provocando un déficit de generación. El DAF ayuda a evitar un colapso mayor del sistema, aunque puede generar afectaciones al servicio como apagones parciales.",
+    "timestamp": 1773672892,
+    "timestamp_local": 1773672892
+  },
+  {
+    "id": 18505,
+    "fecha": "16 de Mar del 2026 a las 10:54 AM",
+    "hora_utc": "2026-03-16 14:54",
+    "mensaje": "⚡️Se encuentran afectados por disparo automático por frecuencia  DAF los siguientes circuitos:\nCircuito 33 Kv: 6305\nTK41 Calixto\nTK40 Vista Alegre\nTK42 Gastón y Arroyo Muerto\nTK45 La Ceiba\nTK43 Las Parras, Omaja y Cañada Honda\nTK44 Vivienda\nCircuito 33 Kv: 6310\nTK20 Becerra \nTK21 Tunazúcar\nTK39 Providencia IV \nTK50 Vázquez \nTK51 Santa Teresa \nTK54 Vázquez\nTK2 Bonachea",
+    "timestamp": 1773672852,
+    "timestamp_local": 1773672852
+  },
+  {
+    "id": 18504,
+    "fecha": "16 de Mar del 2026 a las 10:26 AM",
+    "hora_utc": "2026-03-16 14:26",
+    "mensaje": "⚡️Se encuentra afectado por disparo automático por frecuencia (DAF) el Circuito 33 Kv: 6230\nTK59 Vedado 3\nTK67 Porcino\nTK68 Vedado 6\nTK69 Poblado de Menéndez\nTK70 Transporte\nTK99 Santa Marías\nTK98 San Manuel, La Pedrera",
+    "timestamp": 1773671176,
+    "timestamp_local": 1773671176
+  },
+  {
     "id": 18503,
     "fecha": "16 de Mar del 2026 a las 08:19 AM",
     "hora_utc": "2026-03-16 12:19",
@@ -86,29 +118,5 @@
     "mensaje": "Se restablece la avería del circuito:TK74 La Lomita",
     "timestamp": 1773502457,
     "timestamp_local": 1773502457
-  },
-  {
-    "id": 18487,
-    "fecha": "14 de Mar del 2026 a las 11:14 AM",
-    "hora_utc": "2026-03-14 15:14",
-    "mensaje": "https://t.me/eleclastunas/18440",
-    "timestamp": 1773501284,
-    "timestamp_local": 1773501284
-  },
-  {
-    "id": 18486,
-    "fecha": "14 de Mar del 2026 a las 06:01 AM",
-    "hora_utc": "2026-03-14 10:01",
-    "mensaje": "🚨Actualización🚨👉La provincia presenta máxima capacidad apagable en estos momentos, lo que no ha permitido realizar la rotación de los circuitos con mayor tiempo de afectación. Se irán restableciendo en la medida que el Sistema Electroenergético lo permita.** **\n\nDebido al significativo déficit energético que enfrenta nuestro país y la disponibilidad limitada del Sistema Eléctrico Nacional(SEN)en comparación con la demanda actual, lamentamos no poder proporcionar una programación detallada de las afectaciones en el suministro eléctrico.Agradecemos su compresión y ofrecemos nuestras más sinceras disculpas por las molestias que esto pueda causarles.",
-    "timestamp": 1773482493,
-    "timestamp_local": 1773482493
-  },
-  {
-    "id": 18484,
-    "fecha": "14 de Mar del 2026 a las 12:32 AM",
-    "hora_utc": "2026-03-14 04:32",
-    "mensaje": "👉1. Si presenta o conoce alguna avería, haga su reporte al Centro de Atención Telefónico📲 mediante el 18888, estamos a su servicio.\n2. Conocer de forma exacta la dirección de su vivienda (número de casa, calle, entre calles, reparto, localidad)\n3. Ubicar un punto de referencia, que permita llegar hasta su vivienda con mayor rapidez (lugar o persona reconocida en la zona)\n\n4. En caso de un cable caído, aunque usted crea que no está energizado, NO\n LO TOQUE. Repórtelo y preserve el lugar, hasta que llegue el personal \nde la Empresa.\n5. Anote el número de su reporte para ser utilizado en caso de reclamaciones, o para comprobar el estado del mismo.\n6. Si usted tiene servicio eléctrico, pero existen variaciones del voltaje, desconecte los equipos, para que no se dañen.",
-    "timestamp": 1773462745,
-    "timestamp_local": 1773462745
   }
 ]
