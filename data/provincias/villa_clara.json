@@ -1,5 +1,45 @@
 [
   {
+    "id": 42261,
+    "fecha": "16 de Mar del 2026 a las 12:18 AM",
+    "hora_utc": "2026-03-16 04:18",
+    "mensaje": "🕛Actualización del servicio eléctrico. \n✍️El déficit de capacidad de generación en estos momentos es de 85 MW. \n✍️En el momento de esta nota, se mantienen afectados 124 circuitos.\n✍️Cuenta con 139 afectaciones por averías secundarias y de servicio:\n🔸Caibarién (2)\n🔸Encrucijada (1)\n🔸Manicaragua (9)\n🔸Placetas (4)\n🔸Quemado (1)\n🔸Ranchuelo (1)\n🔸Remedios (6)\n🔸Sagua (11)\n🔸Santa Clara (82)\n🔸Santo Domingo (5)\n🛠️Se encuentran 9 averías en vías de solución\n🛠️Pendientes a solucionar por el área técnica 8.\n✅ La provincia no presenta averías primarias en estos momentos.",
+    "timestamp": 1773634691,
+    "timestamp_local": 1773634691
+  },
+  {
+    "id": 42260,
+    "fecha": "15 de Mar del 2026 a las 10:30 PM",
+    "hora_utc": "2026-03-16 02:30",
+    "mensaje": "Restablecida la línea 1785:\n🔹Municipio Santa Clara:\n👉Cto 6 (Vigía)\n👉Cto 34(Sabana Rebacadero)\n👉Ctos 32 y 33 (RF-33Kv)\n👉Cto 39 (Sandino)",
+    "timestamp": 1773628240,
+    "timestamp_local": 1773628240
+  },
+  {
+    "id": 42259,
+    "fecha": "15 de Mar del 2026 a las 10:24 PM",
+    "hora_utc": "2026-03-16 02:24",
+    "mensaje": "🛠️Afectado por manipulación la línea 1785:\n🔹Municipio Santa Clara:\n👉Cto 6 (Vigía)\n👉Cto 34(Sabana Rebacadero)\n👉Ctos 32 y 33 (RF-33Kv)\n👉Cto 39 (Sandino)",
+    "timestamp": 1773627849,
+    "timestamp_local": 1773627849
+  },
+  {
+    "id": 42258,
+    "fecha": "15 de Mar del 2026 a las 10:22 PM",
+    "hora_utc": "2026-03-16 02:22",
+    "mensaje": "🔸Actualización del servicio eléctrico en la provincia🔸\n👉De los circuitos apagables que presenta la provincia, se mantienen  afectados 128 circuitos.\n👉En el momento de hacer esta nota la provincia tiene 104 MW de afectación.\n👉Cuenta con 125 afectaciones por averías secundarias y de servicio.",
+    "timestamp": 1773627773,
+    "timestamp_local": 1773627773
+  },
+  {
+    "id": 42257,
+    "fecha": "15 de Mar del 2026 a las 09:40 PM",
+    "hora_utc": "2026-03-16 01:40",
+    "mensaje": "Restablecido el circuito 22 (Contrucciones Textil), del municipio Santa Clara.",
+    "timestamp": 1773625238,
+    "timestamp_local": 1773625238
+  },
+  {
     "id": 42256,
     "fecha": "15 de Mar del 2026 a las 09:08 PM",
     "hora_utc": "2026-03-16 01:08",
@@ -110,45 +150,5 @@
     "mensaje": "Con servicio la línea 6375:\n🔹Municipio Santa Clara\n👉Cto 7 (Universidad)  \n👉Cto 146 (Elevado Aeropuerto) \n👉Cto 22 (Construcciones Textil)\n👉Cto 131 (Las Antillas)\n👉Cto 25 (Los Güiros)\n👉Cto 24 (Planta Asfalto)\n👉Cto 35 (Biotecnología) \n👉Ctos 15 y 27 (Maleza)\n👉Cto 14 (Maleza)",
     "timestamp": 1773602796,
     "timestamp_local": 1773602796
-  },
-  {
-    "id": 42241,
-    "fecha": "15 de Mar del 2026 a las 03:21 PM",
-    "hora_utc": "2026-03-15 19:21",
-    "mensaje": "🛠️Afectada por manipulación la línea 6375:\n🔹Municipio Santa Clara\n👉Cto 7 (Universidad)  \n👉Cto 146 (Elevado Aeropuerto) \n👉Cto 22 (Construcciones Textil)\n👉Cto 131 (Las Antillas)\n👉Cto 25 (Los Güiros)\n👉Cto 24 (Planta Asfalto)\n👉Cto 35 (Biotecnología) \n👉Ctos 15 y 27 (Maleza)\n👉Cto 14 (Maleza) (Avería)",
-    "timestamp": 1773602502,
-    "timestamp_local": 1773602502
-  },
-  {
-    "id": 42240,
-    "fecha": "15 de Mar del 2026 a las 03:18 PM",
-    "hora_utc": "2026-03-15 19:18",
-    "mensaje": "🛠️ Afectado por manipulación la línea 861:\nAfecta los siguientes circuitos:\n🔹Municipio Santa Clara:\n👉Cto 5 (Dobarganes)\n👉Cto 17 (Subplanta) \n👉Ctos 37 y 38 (Yabú) (Avería)   \n👉Cto 9 (Moldes y Troqueles)\n👉Cto 133 (Taller Cafetera)",
-    "timestamp": 1773602307,
-    "timestamp_local": 1773602307
-  },
-  {
-    "id": 42239,
-    "fecha": "15 de Mar del 2026 a las 03:17 PM",
-    "hora_utc": "2026-03-15 19:17",
-    "mensaje": "Con servicio circuito 194 (SC Industrial).",
-    "timestamp": 1773602256,
-    "timestamp_local": 1773602256
-  },
-  {
-    "id": 42238,
-    "fecha": "15 de Mar del 2026 a las 03:13 PM",
-    "hora_utc": "2026-03-15 19:13",
-    "mensaje": "Con servicio la línea 1205:\n🔹Municipio Sagua\n👉Ctos 43, 51 Sagua\n👉Cto 44 Isabela\n👉Ctos 50 y 147 Villa Alegre",
-    "timestamp": 1773602015,
-    "timestamp_local": 1773602015
-  },
-  {
-    "id": 42237,
-    "fecha": "15 de Mar del 2026 a las 03:07 PM",
-    "hora_utc": "2026-03-15 19:07",
-    "mensaje": "Afectados por disparo los circuitos 68 y 118 (13 Kv), del municipio Remedios. Se estudian las causas.",
-    "timestamp": 1773601678,
-    "timestamp_local": 1773601678
   }
 ]
