@@ -1,5 +1,13 @@
 [
   {
+    "id": 18503,
+    "fecha": "16 de Mar del 2026 a las 08:19 AM",
+    "hora_utc": "2026-03-16 12:19",
+    "mensaje": "Nota Informativa: Estado del Sistema Eléctrico Nacional (SEN) – 16 de marzo de 2026\n\nEn el día de ayer se afectó el servicio por déficit de capacidad durante las 24 horas y se ha mantenido la afectación durante la madrugada de hoy. La máxima afectación por déficit de capacidad de generación en el día de ayer fue de 1891 MW a las 19:20 horas, superior a lo planificado por demanda superior a lo pronosticado.\n\nLa producción de energía de los 52 nuevos parques solares fotovoltaicos fue de 4262 MWh, con 732 MW como máxima potencia entregada en el horario de la media con esta fuente de generación.\nEstado actual del SEN\n\nLa disponibilidad del SEN a las 06:00 horas es de 1140 MW, la demanda 2347 MW, con 1220 MW afectados. En el horario de la media se estima una afectación de 1250 MW.\nPrincipales incidencias\n\n    Avería: Unidad 5 de la CTE Mariel, Unidades 2 y 3 de la CTE Santa Cruz, Unidad 2 de la CTE Felton y Unidades 3 y 6 de la CTE Antonio Maceo.\n    Mantenimiento: Unidad 6 de la CTE Mariel, Unidad 5 de la CTE Nuevitas, Unidad 4 de la CTE Carlos Manuel de Céspedes en Cienfuegos.\n    Limitaciones en la generación térmica: 492 MW fuera de servicio.\n\nPronóstico para el horario pico\n\nPara el pico se pronostica la entrada de la unidad 4 de la CTE Cienfuegos con 80 MW (En proceso de arranque)\n\nCon este pronóstico se prevé para el pico una disponibilidad de 1220 MW con una demanda máxima de 3150 MW, para un déficit de 1930 MW, por lo que de mantenerse las condiciones previstas se pronostica una afectación de 1960 MW en este horario.",
+    "timestamp": 1773663590,
+    "timestamp_local": 1773663590
+  },
+  {
     "id": 18501,
     "fecha": "15 de Mar del 2026 a las 07:49 PM",
     "hora_utc": "2026-03-15 23:49",
@@ -102,13 +110,5 @@
     "mensaje": "👉1. Si presenta o conoce alguna avería, haga su reporte al Centro de Atención Telefónico📲 mediante el 18888, estamos a su servicio.\n2. Conocer de forma exacta la dirección de su vivienda (número de casa, calle, entre calles, reparto, localidad)\n3. Ubicar un punto de referencia, que permita llegar hasta su vivienda con mayor rapidez (lugar o persona reconocida en la zona)\n\n4. En caso de un cable caído, aunque usted crea que no está energizado, NO\n LO TOQUE. Repórtelo y preserve el lugar, hasta que llegue el personal \nde la Empresa.\n5. Anote el número de su reporte para ser utilizado en caso de reclamaciones, o para comprobar el estado del mismo.\n6. Si usted tiene servicio eléctrico, pero existen variaciones del voltaje, desconecte los equipos, para que no se dañen.",
     "timestamp": 1773462745,
     "timestamp_local": 1773462745
-  },
-  {
-    "id": 18483,
-    "fecha": "13 de Mar del 2026 a las 08:08 PM",
-    "hora_utc": "2026-03-14 00:08",
-    "mensaje": "🔊QUE SIGNIFICA E IMPLICA LA MÁXIMA CAPACIDAD APAGABLE EN LA PROVINCIA: \nMáxima capacidad apagable se refiere al nivel máximo de demanda eléctrica que puede ser desconectada o suspendida temporalmente en la provincia, explica la complejidad del déficit de generación o contingencias en el sistema eléctrico.\nRepresenta el límite superior de la reducción de carga que la empresa puede lograr mediante cortes de energía (apagones). Cuanto mayor sea la máxima capacidad apagable, mayor será el déficit de energía.\n¿Qué implica esto?\nSe identifica cuántos circuitos pueden ser apagados para equilibrar la carga del sistema, esto imposibilita realizar rotaciones, pues a excepción de los servicios priorizados, se encuentran afectados todos los circuitos apagables del territorio. Podrán presentarse afectaciones en el servicio de electricidad durante varias horas al día y el tiempo con servicio dependerá del comportamiento del SEN. Esta medida es necesaria para evitar fallas mayores y proteger la infraestructura eléctrica.",
-    "timestamp": 1773446934,
-    "timestamp_local": 1773446934
   }
 ]
