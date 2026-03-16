@@ -1,5 +1,13 @@
 [
   {
+    "id": 18509,
+    "fecha": "16 de Mar del 2026 a las 01:20 PM",
+    "hora_utc": "2026-03-16 17:20",
+    "mensaje": "Se afectan por DAF los siguientes circuitos: Tk5 B.Vista ,Los Pinos y Tk106 sur de B.Vista y Palancón.",
+    "timestamp": 1773681634,
+    "timestamp_local": 1773681634
+  },
+  {
     "id": 18508,
     "fecha": "16 de Mar del 2026 a las 11:52 AM",
     "hora_utc": "2026-03-16 15:52",
@@ -110,13 +118,5 @@
     "mensaje": "¿Qué es un disparo por DAF?\nEl Disparo por Frecuencia (DAF) es un mecanismo de protección del sistema eléctrico. Se activa automáticamente cuando la frecuencia desciende por debajo de los valores mínimos seguros (menores de 60 Hz), lo que pone en riesgo la estabilidad del sistema.\nEn ese momento, algunos circuitos se desconectan de forma automática para aliviar la carga y permitir que la frecuencia vuelva a su valor nominal.\nEsto suele ocurrir cuando una planta generadora sale de servicio de manera imprevista, provocando un déficit de generación. El DAF ayuda a evitar un colapso mayor del sistema, aunque puede generar afectaciones al servicio como apagones parciales.",
     "timestamp": 1773514386,
     "timestamp_local": 1773514386
-  },
-  {
-    "id": 18489,
-    "fecha": "14 de Mar del 2026 a las 02:52 PM",
-    "hora_utc": "2026-03-14 18:52",
-    "mensaje": "Se encuentran disparados por DAF los siguientes circuitos:\nCircuito 33 Kv: 6305\nTK41 Calixto\nTK40 Vista Alegre\nTK42 Gastón y Arroyo Muerto\nTK45 La Ceiba\nTK43 Las Parras, Omaja y Cañada Honda\nTK44 Vivienda\nCircuito 33 Kv: 6310\nTK20 Becerra \nTK21 Tunazúcar\nTK39 Providencia IV \nTK50 Vázquez \nTK51 Santa Teresa \nTK54 Vázquez\nTK2 Bonachea\nTK5 Buena Vista, Los Pinos\nTK106 Palancón, Buena Vista",
-    "timestamp": 1773514352,
-    "timestamp_local": 1773514352
   }
 ]

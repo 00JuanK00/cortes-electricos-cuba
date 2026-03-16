@@ -1,5 +1,13 @@
 [
   {
+    "id": 42290,
+    "fecha": "16 de Mar del 2026 a las 01:32 PM",
+    "hora_utc": "2026-03-16 17:32",
+    "mensaje": "Afectados 77 MW en la provincia, demanda máxima a apagar en estos momentos.",
+    "timestamp": 1773682378,
+    "timestamp_local": 1773682378
+  },
+  {
     "id": 42289,
     "fecha": "16 de Mar del 2026 a las 12:39 PM",
     "hora_utc": "2026-03-16 16:39",
@@ -142,13 +150,5 @@
     "mensaje": "🚨Nota informativa🚨\n\n📅Situación del SEN para el 16 de marzo de 2026.\n\n👉En el día de ayer se afectó el servicio por déficit de capacidad durante las 24 horas y se ha mantenido la afectación durante la madrugada de hoy. La máxima afectación por déficit de capacidad de generación en el día de ayer fue de 1891 MW  a las 19:20 horas, superior a lo planificado por demanda superior a lo pronosticado.\n\n☀️La producción de energía de los 52 nuevos parques solares fotovoltaicos fue de 4262 MWh, con 732 MW como máxima potencia entregada en el horario de la media con esta fuente de generación. \n\n👉La disponibilidad del SEN a las 06:00 horas es de 1140 MW, la demanda 2347 MW, con 1220 MW afectados. En el horario de la media se estima una afectación de 1250 MW.  \n\n🛠️Se encuentran en avería, la unidad 5 de la CTE Mariel, las unidades 2 y 3 de la CTE Santa Cruz, la unidad 2 de la CTE Felton y las unidades 3 y 6 de la CTE Renté. Se encuentran en mantenimiento, la unidad 6 de la CTE Mariel, la unidad 4 de la CTE Cienfuegos y la unidad 5 de la CTE Nuevitas.\n\n📉Las limitaciones en la generación térmica son de 492 MW.\n\n👉Para el pico se pronostica la entrada de la unidad 4 de la CTE Cienfuegos con 80 MW (En proceso de arranque)  \n   \n📝Con este pronóstico se prevé para el pico una disponibilidad de 1220 MW con una demanda máxima de 3150 MW, para un déficit de 1930 MW, por lo que de mantenerse las condiciones previstas se pronostica una afectación de 1960 MW en este horario.\n\nUNE-MINEM---07:00 horas.",
     "timestamp": 1773660895,
     "timestamp_local": 1773660895
-  },
-  {
-    "id": 42270,
-    "fecha": "16 de Mar del 2026 a las 07:22 AM",
-    "hora_utc": "2026-03-16 11:22",
-    "mensaje": "⚡El circuito 27 (Maleza), del municipio Santa Clara, se encuentra afectado debido a rabiza partida en la subestación.",
-    "timestamp": 1773660150,
-    "timestamp_local": 1773660150
   }
 ]
