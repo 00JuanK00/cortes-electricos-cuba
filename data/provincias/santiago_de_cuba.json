@@ -1,5 +1,29 @@
 [
   {
+    "id": 51044,
+    "fecha": "16 de Mar del 2026 a las 06:13 AM",
+    "hora_utc": "2026-03-16 10:13",
+    "mensaje": "🚨👉Estimados clientes, se les reitera que el comportamiento de las afectaciones eléctricas y el restablecimiento del servicio, estará en dependencia de la situación que presente el Sistema Electro energético Nacional...",
+    "timestamp": 1773656037,
+    "timestamp_local": 1773656037
+  },
+  {
+    "id": 51043,
+    "fecha": "16 de Mar del 2026 a las 05:53 AM",
+    "hora_utc": "2026-03-16 09:53",
+    "mensaje": "🚨  Estimados clientes, se incorpora  a la afectación los circuitos 12, 20 , y la línea 5390, que alimenta San Luis...",
+    "timestamp": 1773654806,
+    "timestamp_local": 1773654806
+  },
+  {
+    "id": 51042,
+    "fecha": "16 de Mar del 2026 a las 05:51 AM",
+    "hora_utc": "2026-03-16 09:51",
+    "mensaje": "🚨 Estimados clientes, en estos momentos se encuentran afectados por Déficit de Generación los circuitos Baconao, circuito 8 ,13, 24 y El Cristo...",
+    "timestamp": 1773654702,
+    "timestamp_local": 1773654702
+  },
+  {
     "id": 51041,
     "fecha": "16 de Mar del 2026 a las 01:49 AM",
     "hora_utc": "2026-03-16 05:49",
@@ -110,29 +134,5 @@
     "mensaje": "Disparo Automático de Frecuencia (DAF):\nOcurre cuando la frecuencia está por debajo de los 60Hz y determinada carga o circuito se desconecta del sistema automáticamente hasta que se estabilice.",
     "timestamp": 1773602608,
     "timestamp_local": 1773602608
-  },
-  {
-    "id": 51023,
-    "fecha": "15 de Mar del 2026 a las 03:23 PM",
-    "hora_utc": "2026-03-15 19:23",
-    "mensaje": "🔉 Estimados clientes se les informa que se les informa que se encuentra afectado el circuito 10 de Santiago por disparo",
-    "timestamp": 1773602597,
-    "timestamp_local": 1773602597
-  },
-  {
-    "id": 51022,
-    "fecha": "15 de Mar del 2026 a las 02:35 PM",
-    "hora_utc": "2026-03-15 18:35",
-    "mensaje": "Disparo Automático de Frecuencia (DAF):\nOcurre cuando la frecuencia está por debajo de los 60Hz y determinada carga o circuito se desconecta del sistema automáticamente hasta que se estabilice.",
-    "timestamp": 1773599748,
-    "timestamp_local": 1773599748
-  },
-  {
-    "id": 51021,
-    "fecha": "15 de Mar del 2026 a las 02:35 PM",
-    "hora_utc": "2026-03-15 18:35",
-    "mensaje": "🚨Estimados clientes se le informa que el circuito 14 y 17 se encuentran disparado por DAF , disculpen por las molestias ocasionadas.",
-    "timestamp": 1773599737,
-    "timestamp_local": 1773599737
   }
 ]
