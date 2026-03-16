@@ -1,5 +1,21 @@
 [
   {
+    "id": 42302,
+    "fecha": "16 de Mar del 2026 a las 07:12 PM",
+    "hora_utc": "2026-03-16 23:12",
+    "mensaje": "ℹ️ ¿Qué son los microsistemas?\n\nSon varios emplazamientos de generación interconectados independientemente del SEN que sirven una carga determinada.\n\nEstos se crean para llevar la electricidad a centros vitales (hospitales, lácteos y bombeos de agua), y en una situación compleja como la caída total del SEN, se utilizan para lograr el arranque de las unidades térmicas.",
+    "timestamp": 1773702742,
+    "timestamp_local": 1773702742
+  },
+  {
+    "id": 42300,
+    "fecha": "16 de Mar del 2026 a las 07:10 PM",
+    "hora_utc": "2026-03-16 23:10",
+    "mensaje": "🟢 Se incorpora a la generación una turbina de Energás Varadero.",
+    "timestamp": 1773702627,
+    "timestamp_local": 1773702627
+  },
+  {
     "id": 42299,
     "fecha": "16 de Mar del 2026 a las 06:38 PM",
     "hora_utc": "2026-03-16 22:38",
@@ -126,21 +142,5 @@
     "mensaje": "⚠️Afectada por DAF la línea del 1910:\n🔸Municipio Placetas \n👉Ctos 100 y 151 Placetas\n👉Cto 104 Hermanos Amejeiras\n👉Cto 103 Batey Carbó Servía",
     "timestamp": 1773671823,
     "timestamp_local": 1773671823
-  },
-  {
-    "id": 42281,
-    "fecha": "16 de Mar del 2026 a las 10:04 AM",
-    "hora_utc": "2026-03-16 14:04",
-    "mensaje": "🔸Actualización del servicio eléctrico en la provincia🔸\n👉De los circuitos apagables que presenta la provincia, se mantienen  afectados 97 circuitos.\n👉En el momento de hacer esta nota la provincia tiene 84 MW de afectación.\n👉Cuenta con 130 afectaciones por averías secundarias y de servicio.",
-    "timestamp": 1773669852,
-    "timestamp_local": 1773669852
-  },
-  {
-    "id": 42280,
-    "fecha": "16 de Mar del 2026 a las 09:54 AM",
-    "hora_utc": "2026-03-16 13:54",
-    "mensaje": "💡 Restablecido el servicio eléctrico en la  línea 1910.",
-    "timestamp": 1773669290,
-    "timestamp_local": 1773669290
   }
 ]
