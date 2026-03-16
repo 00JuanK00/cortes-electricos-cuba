@@ -1,5 +1,29 @@
 [
   {
+    "id": 36738,
+    "fecha": "16 de Mar del 2026 a las 03:50 PM",
+    "hora_utc": "2026-03-16 19:50",
+    "mensaje": "➡️ Energás ya tiene una Unidad generadora en servicio.",
+    "timestamp": 1773690610,
+    "timestamp_local": 1773690610
+  },
+  {
+    "id": 36737,
+    "fecha": "16 de Mar del 2026 a las 03:48 PM",
+    "hora_utc": "2026-03-16 19:48",
+    "mensaje": "🔴 Comienzan a funcionar microsistemas en varios territorios.",
+    "timestamp": 1773690512,
+    "timestamp_local": 1773690512
+  },
+  {
+    "id": 36736,
+    "fecha": "16 de Mar del 2026 a las 03:44 PM",
+    "hora_utc": "2026-03-16 19:44",
+    "mensaje": "❌️ No se reportan averías en ninguna de las unidades térmicas que estaban en funcionamiento en el momento que ocurrió la desconexión del SEN.",
+    "timestamp": 1773690269,
+    "timestamp_local": 1773690269
+  },
+  {
     "id": 36735,
     "fecha": "16 de Mar del 2026 a las 01:59 PM",
     "hora_utc": "2026-03-16 17:59",
@@ -110,29 +134,5 @@
     "mensaje": "‼️ Déficit de Generación ‼️   \n👉  Bajamos a 72MW en la provincia por déficit de generación.\n\n ⏰ Reiteramos que los circuitos se afectarán o se restablecerán en dependencia del déficit solicitado en cada momento de la jornada que es muy variable.",
     "timestamp": 1773634971,
     "timestamp_local": 1773634971
-  },
-  {
-    "id": 36718,
-    "fecha": "15 de Mar del 2026 a las 11:22 PM",
-    "hora_utc": "2026-03-16 03:22",
-    "mensaje": "‼️ Déficit de Generación ‼️   \n👉  Bajamos a 76MW en la provincia por déficit de generación.\n\n ⏰ Reiteramos que los circuitos se afectarán o se restablecerán en dependencia del déficit solicitado en cada momento de la jornada que es muy variable.",
-    "timestamp": 1773631328,
-    "timestamp_local": 1773631328
-  },
-  {
-    "id": 36717,
-    "fecha": "15 de Mar del 2026 a las 10:33 PM",
-    "hora_utc": "2026-03-16 02:33",
-    "mensaje": "‼️ Déficit de Generación ‼️   \n👉  Bajamos a 80MW en la provincia por déficit de generación.\n\n ⏰ Reiteramos que los circuitos se afectarán o se restablecerán en dependencia del déficit solicitado en cada momento de la jornada que es muy variable.",
-    "timestamp": 1773628394,
-    "timestamp_local": 1773628394
-  },
-  {
-    "id": 36716,
-    "fecha": "15 de Mar del 2026 a las 10:01 PM",
-    "hora_utc": "2026-03-16 02:01",
-    "mensaje": "‼️Información‼️\n\n ⏰ Los circuitos  restablecidos tendrán servicio por un estimado de 1 hora y 30 min aproximadamente en dependencia del déficit solicitado en cada momento de la jornada que es muy variable.",
-    "timestamp": 1773626477,
-    "timestamp_local": 1773626477
   }
 ]
