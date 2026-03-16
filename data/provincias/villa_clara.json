@@ -1,5 +1,29 @@
 [
   {
+    "id": 42296,
+    "fecha": "16 de Mar del 2026 a las 05:02 PM",
+    "hora_utc": "2026-03-16 21:02",
+    "mensaje": "‼️Actualización \n\nSobre la desconexión del SEN, actualizamos:\n\n👉 Ya comienzan a funcionar microsistemas en varios territorios del país.\n👉 Energás ya tiene una Unidad generadora en servicio.",
+    "timestamp": 1773694933,
+    "timestamp_local": 1773694933
+  },
+  {
+    "id": 42295,
+    "fecha": "16 de Mar del 2026 a las 04:21 PM",
+    "hora_utc": "2026-03-16 20:21",
+    "mensaje": "💡 Restablecido el servicio eléctrico en los siguientes circuitos:\n🔹Municipio Santa Clara:\n👉Cto 194 SC. Industrial\n👉1770 Zona Hospitalaria ( Hospital Nuevo, Infantil, Materno)\n🔹 Línea 1785 (zona Cardio Centro- Hospital Viejo)\n👉Cto 40 Hospital Militar",
+    "timestamp": 1773692475,
+    "timestamp_local": 1773692475
+  },
+  {
+    "id": 42294,
+    "fecha": "16 de Mar del 2026 a las 04:10 PM",
+    "hora_utc": "2026-03-16 20:10",
+    "mensaje": "📣Estimados Clientes de Villa Clara\nEn la provincia se continúa con los trabajos para la creación de los microsistemas, con ellos se están priorizando el servicio en los centros vitales como Hospitales, Lácteos y Bombeo de Agua, así como los clientes pertenecientes a esas zonas.\nEste es un proceso complejo por la condición inestable del sistema, hasta tanto sincronice el SEN de forma paulatina. Por tanto se recomienda desconectar todos los equipos, solo dejar encendido lo esencial, hasta tanto se logre la estabilidad del servicio.",
+    "timestamp": 1773691806,
+    "timestamp_local": 1773691806
+  },
+  {
     "id": 42293,
     "fecha": "16 de Mar del 2026 a las 03:15 PM",
     "hora_utc": "2026-03-16 19:15",
@@ -126,29 +150,5 @@
     "mensaje": "‼️ Déficit de Capacidad de Generación:\n👉Se produce cuando la demanda del Sistema Eléctrico Nacional, en determinado horario del día supera la generación disponible del país, provocando la desconexión de los circuitos o líneas que permitan garantizar la frecuencia del SEN.",
     "timestamp": 1773668838,
     "timestamp_local": 1773668838
-  },
-  {
-    "id": 42276,
-    "fecha": "16 de Mar del 2026 a las 09:06 AM",
-    "hora_utc": "2026-03-16 13:06",
-    "mensaje": "⚠️Afectada por manipulación la línea del 1910:\n🔸Municipio Placetas \n👉Ctos 100 y 151 Placetas\n👉Cto 104 Hermanos Amejeiras\n👉Cto 103 Batey Carbó Servía",
-    "timestamp": 1773666370,
-    "timestamp_local": 1773666370
-  },
-  {
-    "id": 42275,
-    "fecha": "16 de Mar del 2026 a las 09:01 AM",
-    "hora_utc": "2026-03-16 13:01",
-    "mensaje": "Afectados 94 MW en la provincia, demanda máxima a apagar en estos momentos.",
-    "timestamp": 1773666109,
-    "timestamp_local": 1773666109
-  },
-  {
-    "id": 42274,
-    "fecha": "16 de Mar del 2026 a las 08:38 AM",
-    "hora_utc": "2026-03-16 12:38",
-    "mensaje": "⚠️Afectado por emergencia el circuito 132 (**SC. Industrial) perteneciente al municipio Santa Clara, por cable secundario partido.**",
-    "timestamp": 1773664738,
-    "timestamp_local": 1773664738
   }
 ]
