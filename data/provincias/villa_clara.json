@@ -1,5 +1,29 @@
 [
   {
+    "id": 42264,
+    "fecha": "16 de Mar del 2026 a las 02:05 AM",
+    "hora_utc": "2026-03-16 06:05",
+    "mensaje": "🔸Actualización del servicio eléctrico en la provincia🔸\n👉De los circuitos apagables que presenta la provincia, se mantienen  afectados 124 circuitos.\n👉En el momento de hacer esta nota la provincia tiene 78 MW de afectación.\n👉Cuenta con 111 afectaciones por averías secundarias y de servicio.",
+    "timestamp": 1773641120,
+    "timestamp_local": 1773641120
+  },
+  {
+    "id": 42263,
+    "fecha": "16 de Mar del 2026 a las 12:29 AM",
+    "hora_utc": "2026-03-16 04:29",
+    "mensaje": "Restablecido el circuito 141 (Manuelita), del municipio Santa Clara.",
+    "timestamp": 1773635375,
+    "timestamp_local": 1773635375
+  },
+  {
+    "id": 42262,
+    "fecha": "16 de Mar del 2026 a las 12:26 AM",
+    "hora_utc": "2026-03-16 04:26",
+    "mensaje": "🛠️Afectado por manipulación el circuito 141 (Manuelita), del municipio Santa Clara, para reponer transformador.",
+    "timestamp": 1773635201,
+    "timestamp_local": 1773635201
+  },
+  {
     "id": 42261,
     "fecha": "16 de Mar del 2026 a las 12:18 AM",
     "hora_utc": "2026-03-16 04:18",
@@ -126,29 +150,5 @@
     "mensaje": "Con servicio los circuitos 68 y 118 (13 Kv), del municipio Remedios.",
     "timestamp": 1773604607,
     "timestamp_local": 1773604607
-  },
-  {
-    "id": 42244,
-    "fecha": "15 de Mar del 2026 a las 03:52 PM",
-    "hora_utc": "2026-03-15 19:52",
-    "mensaje": "Con servicio la línea 1920:\n🔹Municipio Placetas:\n👉Ctos 101 y 145 Cumbre \n👉Cto 107 Baez\n👉Cto 105 Nazareno",
-    "timestamp": 1773604367,
-    "timestamp_local": 1773604367
-  },
-  {
-    "id": 42243,
-    "fecha": "15 de Mar del 2026 a las 03:34 PM",
-    "hora_utc": "2026-03-15 19:34",
-    "mensaje": "Con servicio la línea 861:\n🔹Municipio Santa Clara:\n👉Cto 5 (Dobarganes)\n👉Cto 17 (Subplanta) \n👉Ctos 37 y 38 (Yabú)   \n👉Cto 9 (Moldes y Troqueles)\n👉Cto 133 (Taller Cafetera)",
-    "timestamp": 1773603260,
-    "timestamp_local": 1773603260
-  },
-  {
-    "id": 42242,
-    "fecha": "15 de Mar del 2026 a las 03:26 PM",
-    "hora_utc": "2026-03-15 19:26",
-    "mensaje": "Con servicio la línea 6375:\n🔹Municipio Santa Clara\n👉Cto 7 (Universidad)  \n👉Cto 146 (Elevado Aeropuerto) \n👉Cto 22 (Construcciones Textil)\n👉Cto 131 (Las Antillas)\n👉Cto 25 (Los Güiros)\n👉Cto 24 (Planta Asfalto)\n👉Cto 35 (Biotecnología) \n👉Ctos 15 y 27 (Maleza)\n👉Cto 14 (Maleza)",
-    "timestamp": 1773602796,
-    "timestamp_local": 1773602796
   }
 ]
