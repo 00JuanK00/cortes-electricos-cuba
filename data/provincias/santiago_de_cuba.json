@@ -1,5 +1,29 @@
 [
   {
+    "id": 51121,
+    "fecha": "17 de Mar del 2026 a las 07:25 PM",
+    "hora_utc": "2026-03-17 23:25",
+    "mensaje": "🚨Estimados clientes se les informa que se afectaron por Déficit los circuitos 12, 2 y 20 .",
+    "timestamp": 1773789956,
+    "timestamp_local": 1773789956
+  },
+  {
+    "id": 51120,
+    "fecha": "17 de Mar del 2026 a las 07:21 PM",
+    "hora_utc": "2026-03-17 23:21",
+    "mensaje": "🔴Disparo\nApertura no voluntaria de un interruptor como vía de protección para desconectar uno o varios elementos del circuito, subestación o sistema, restableciéndose el servicio rápidamente en dependencia de la causa.",
+    "timestamp": 1773789676,
+    "timestamp_local": 1773789676
+  },
+  {
+    "id": 51119,
+    "fecha": "17 de Mar del 2026 a las 07:18 PM",
+    "hora_utc": "2026-03-17 23:18",
+    "mensaje": "🚨Estimados clientes en estos momentos se encuentran Disparados los circuitos 10 y 7.",
+    "timestamp": 1773789526,
+    "timestamp_local": 1773789526
+  },
+  {
     "id": 51117,
     "fecha": "17 de Mar del 2026 a las 06:04 PM",
     "hora_utc": "2026-03-17 22:04",
@@ -126,29 +150,5 @@
     "mensaje": "📌Empresa Eléctrica Santiago de Cuba informa a sus clientes que actualmente se encuentra sin servicio eléctrico el circuito 7 y 10, ambos seccionalizado, los cuales se encontraban generando a través de los microsistema aislado.",
     "timestamp": 1773757049,
     "timestamp_local": 1773757049
-  },
-  {
-    "id": 51099,
-    "fecha": "17 de Mar del 2026 a las 10:03 AM",
-    "hora_utc": "2026-03-17 14:03",
-    "mensaje": "🔴🔊Actualización del restablecimiento del Sistema Eléctrico Nacional en #Cuba, 17 de marzo de 2026:\n👉El sistema eléctrico se encuentra interconectado desde Pinar del Río hasta Holguín.\n👉Se cuenta con energía  la Subestación de la CTE Felton, lo que permitirá poner en servicio esa unidad en las próximas horas. \n⚙️ Unidades sincronizadas y en línea:\n➡️ Unidades 3 y 4 de la CTE Carlos Manuel de Céspedes\n➡️ Unidad 6 de la CTE Diez de Octubre: en línea desde la madrugada.\n➡️ Unidades en proceso de arranque:\n➡️ Unidad 8 de la CTE Máximo Gómez del Mariel\n➡️ Unidad 3 de la CTE Ernesto Guevara de La Serna\n➡️CTE Antonio Guiteras\n👉Continúa el restablecimiento que ya cuenta con varias unidades  sincronizadas y otras en proceso de arranque, lo que permitirá aumentar la estabilidad y disponibilidad de energía en las próximas horas.",
-    "timestamp": 1773756186,
-    "timestamp_local": 1773756186
-  },
-  {
-    "id": 51098,
-    "fecha": "17 de Mar del 2026 a las 09:47 AM",
-    "hora_utc": "2026-03-17 13:47",
-    "mensaje": "📌Empresa Eléctrica de Santiago de Cuba informa a sus clientes que actualmente contamos con 6 MW servidos en la provincia mediante microsistemas aislados, lo que ha permitido energizar parcialmente los circuitos 7, 10,15 y 18, todos seccionalizados. \n👉Se continua trabajando en aras de garantizar  en una primera instancia los servicios básicos y, posteriormente, extender el suministro al resto de los clientes.\n👉🏻A medida que las condiciones lo permitan se continuará trabajando en el restablecimiento del resto de los circuitos en la provincia.\n👉 Al cierre de esta información ya se encuentra enlazado el Sistema Eléctrico Nacional desde Pinar del Rio hasta Nuevitas.\n👉 Se encuentra en línea la Unidad 3 de la CTE Carlos Manuel de Céspedes.\n👉🏻Manténgase informado a través de nuestros canales oficiales",
-    "timestamp": 1773755235,
-    "timestamp_local": 1773755235
-  },
-  {
-    "id": 51096,
-    "fecha": "17 de Mar del 2026 a las 08:45 AM",
-    "hora_utc": "2026-03-17 12:45",
-    "mensaje": "Qué es un microsistema❓\n\nVarios emplazamientos de generación interconectados alimentando la misma carga. La estabilidad del microsistema depende de la capacidad de regulación de las unidades que el posea.\n\nEl trabajo con los microsistemas puede ser inestable, cuando eso sucede, el circuito vuelve a quedarse sin servicio eléctrico. Es frecuente hasta que se normalice.",
-    "timestamp": 1773751536,
-    "timestamp_local": 1773751536
   }
 ]
