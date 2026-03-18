@@ -1,5 +1,21 @@
 [
   {
+    "id": 42369,
+    "fecha": "18 de Mar del 2026 a las 02:11 PM",
+    "hora_utc": "2026-03-18 18:11",
+    "mensaje": "💡Restablecido el servicio eléctrico en el circuito 33 RF.",
+    "timestamp": 1773857486,
+    "timestamp_local": 1773857486
+  },
+  {
+    "id": 42368,
+    "fecha": "18 de Mar del 2026 a las 02:01 PM",
+    "hora_utc": "2026-03-18 18:01",
+    "mensaje": "Actualización del servicio eléctrico en la provincia🔸\n👉De los circuitos apagables que presenta la provincia, se mantienen  afectados 140 circuitos.\n👉En el momento de hacer esta nota la provincia tiene 122 MW de afectación.\n👉Cuenta con 140 afectaciones por averías secundarias y de servicio.",
+    "timestamp": 1773856904,
+    "timestamp_local": 1773856904
+  },
+  {
     "id": 42367,
     "fecha": "18 de Mar del 2026 a las 01:22 PM",
     "hora_utc": "2026-03-18 17:22",
@@ -142,21 +158,5 @@
     "mensaje": "💡Restablecido el servicio eléctrico en los siguientes circuitos \n🔹Municipio Santa Clara\n👉Cto 31 SC. Industrial\n👉Cto 30 SC. Industrial\n👉Cto 162 SC. Industrial\n👉Cto 193 SC. Industrial",
     "timestamp": 1773843295,
     "timestamp_local": 1773843295
-  },
-  {
-    "id": 42349,
-    "fecha": "18 de Mar del 2026 a las 10:01 AM",
-    "hora_utc": "2026-03-18 14:01",
-    "mensaje": "Actualización del servicio eléctrico en la provincia🔸\n👉De los circuitos apagables que presenta la provincia, se mantienen  afectados 143 circuitos.\n👉En el momento de hacer esta nota la provincia tiene 122 MW de afectación.\n👉Cuenta con 111 afectaciones por averías secundarias y de servicio.",
-    "timestamp": 1773842504,
-    "timestamp_local": 1773842504
-  },
-  {
-    "id": 42348,
-    "fecha": "18 de Mar del 2026 a las 09:57 AM",
-    "hora_utc": "2026-03-18 13:57",
-    "mensaje": "La Provincia cuenta con 3  afectaciones de servicio eléctrico por transformador dañado:\n👉Municipio Manicaragua: calle Real  e/ 1ra y Callejón del Moro. La Moza\n👉Municipio Corralillo: Camino a Salvadora , Finca Enriqueta. Rancho Veloz \n👉Municipio Quemado: Callejón de Rodrigo, al lado de la escuela primaria. Quemado",
-    "timestamp": 1773842228,
-    "timestamp_local": 1773842228
   }
 ]
