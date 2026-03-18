@@ -1,5 +1,13 @@
 [
   {
+    "id": 18525,
+    "fecha": "17 de Mar del 2026 a las 11:23 PM",
+    "hora_utc": "2026-03-18 03:23",
+    "mensaje": "👉1. Si presenta o conoce alguna avería, haga su reporte al Centro de Atención Telefónico📲 mediante el 18888, estamos a su servicio.\n2. Conocer de forma exacta la dirección de su vivienda (número de casa, calle, entre calles, reparto, localidad)\n3. Ubicar un punto de referencia, que permita llegar hasta su vivienda con mayor rapidez (lugar o persona reconocida en la zona)\n\n4. En caso de un cable caído, aunque usted crea que no está energizado, NO\n LO TOQUE. Repórtelo y preserve el lugar, hasta que llegue el personal \nde la Empresa.\n5. Anote el número de su reporte para ser utilizado en caso de reclamaciones, o para comprobar el estado del mismo.\n6. Si usted tiene servicio eléctrico, pero existen variaciones del voltaje, desconecte los equipos, para que no se dañen.",
+    "timestamp": 1773804235,
+    "timestamp_local": 1773804235
+  },
+  {
     "id": 18523,
     "fecha": "17 de Mar del 2026 a las 06:58 PM",
     "hora_utc": "2026-03-17 22:58",
@@ -142,21 +150,5 @@
     "mensaje": "¿Qué es un disparo por DAF?\nEl Disparo por Frecuencia (DAF) es un mecanismo de protección del sistema eléctrico. Se activa automáticamente cuando la frecuencia desciende por debajo de los valores mínimos seguros (menores de 60 Hz), lo que pone en riesgo la estabilidad del sistema.\nEn ese momento, algunos circuitos se desconectan de forma automática para aliviar la carga y permitir que la frecuencia vuelva a su valor nominal.\nEsto suele ocurrir cuando una planta generadora sale de servicio de manera imprevista, provocando un déficit de generación. El DAF ayuda a evitar un colapso mayor del sistema, aunque puede generar afectaciones al servicio como apagones parciales.",
     "timestamp": 1773672892,
     "timestamp_local": 1773672892
-  },
-  {
-    "id": 18505,
-    "fecha": "16 de Mar del 2026 a las 10:54 AM",
-    "hora_utc": "2026-03-16 14:54",
-    "mensaje": "⚡️Se encuentran afectados por disparo automático por frecuencia  DAF los siguientes circuitos:\nCircuito 33 Kv: 6305\nTK41 Calixto\nTK40 Vista Alegre\nTK42 Gastón y Arroyo Muerto\nTK45 La Ceiba\nTK43 Las Parras, Omaja y Cañada Honda\nTK44 Vivienda\nCircuito 33 Kv: 6310\nTK20 Becerra \nTK21 Tunazúcar\nTK39 Providencia IV \nTK50 Vázquez \nTK51 Santa Teresa \nTK54 Vázquez\nTK2 Bonachea",
-    "timestamp": 1773672852,
-    "timestamp_local": 1773672852
-  },
-  {
-    "id": 18504,
-    "fecha": "16 de Mar del 2026 a las 10:26 AM",
-    "hora_utc": "2026-03-16 14:26",
-    "mensaje": "⚡️Se encuentra afectado por disparo automático por frecuencia (DAF) el Circuito 33 Kv: 6230\nTK59 Vedado 3\nTK67 Porcino\nTK68 Vedado 6\nTK69 Poblado de Menéndez\nTK70 Transporte\nTK99 Santa Marías\nTK98 San Manuel, La Pedrera",
-    "timestamp": 1773671176,
-    "timestamp_local": 1773671176
   }
 ]
