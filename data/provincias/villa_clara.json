@@ -1,5 +1,29 @@
 [
   {
+    "id": 42344,
+    "fecha": "18 de Mar del 2026 a las 07:15 AM",
+    "hora_utc": "2026-03-18 11:15",
+    "mensaje": "🚨Nota informativa.🚨\n\n📅Situación del SEN para el 18 de marzo de 2026.\n\n👉En el día de ayer el SEN se encontraba en proceso de restauración.\n\n👉La disponibilidad del SEN a las 06:00 horas es de 1046 MW, la demanda 2000 MW, con 965 MW afectados. En el horario de la media se estima una afectación de 1250 MW.  \n\n🛠️Se encuentran en avería, las unidades 5 y 8 de la CTE Mariel, las unidades 1, 2 y 3 de la CTE Santa Cruz, la unidad 2 de la CTE Felton y las unidades 3 y 6 de la CTE Renté. Se encuentran en mantenimiento, la unidad 6 de la CTE Mariel y la unidad 5 de la CTE Nuevitas.\n\n▪️Las limitaciones en la generación térmica son de 540 MW.\n\n▪️Para el pico se pronostica la entrada de la unidad 8 de la CTE Mariel con 40 MW (En proceso de arranque) y la entrada de la unidad 2 de la CTE Santa Cruz con 80 MW.\n   \n📈Con este pronóstico se prevé para el pico una disponibilidad de 1166 MW con una demanda máxima de 3000 MW, para un déficit de 1834 MW, por lo que de mantenerse las condiciones previstas se pronostica una afectación de 1864 MW en este horario.\n\nUNE-MINEM",
+    "timestamp": 1773832529,
+    "timestamp_local": 1773832529
+  },
+  {
+    "id": 42343,
+    "fecha": "18 de Mar del 2026 a las 07:14 AM",
+    "hora_utc": "2026-03-18 11:14",
+    "mensaje": "⚡Afectado por avería Línea 1720, se estudian las causas, aunque en el momento de hacer está nota se encuentra en Déficit de capacidad de generación.\n➡️Línea 1720 \n🔹Municipio Santo Domingo:\n👉Cto 195 Batey George Washington\n👉Ctos 83 y 165 Manacas\n👉Ctos 85 y 86 Pajarito\n👉Ctos 160 y 161 Cascajal",
+    "timestamp": 1773832458,
+    "timestamp_local": 1773832458
+  },
+  {
+    "id": 42342,
+    "fecha": "18 de Mar del 2026 a las 07:07 AM",
+    "hora_utc": "2026-03-18 11:07",
+    "mensaje": "📈Afectado por DAF Sub Estación Santa Clara Industrial afectando los siguientes circuitos\n🔹Municipio Santa Clara\n👉Cto 31 SC. Industrial\n👉Cto 30 SC. Industrial\n👉Cto 162 SC. Industrial\n👉Cto 193 SC. Industrial\n👉Cto 132 SC. Industrial",
+    "timestamp": 1773832057,
+    "timestamp_local": 1773832057
+  },
+  {
     "id": 42341,
     "fecha": "18 de Mar del 2026 a las 06:21 AM",
     "hora_utc": "2026-03-18 10:21",
@@ -118,29 +142,5 @@
     "mensaje": "🛠️ Disparo del circuito 32 RF perteneciente al municipio de Santa Clara , se estudian las causas.",
     "timestamp": 1773781932,
     "timestamp_local": 1773781932
-  },
-  {
-    "id": 42324,
-    "fecha": "17 de Mar del 2026 a las 05:10 PM",
-    "hora_utc": "2026-03-17 21:10",
-    "mensaje": "👉 #AHORA || Quedó enlazado Guantánamo al Sistema Electroenergético Nacional.",
-    "timestamp": 1773781839,
-    "timestamp_local": 1773781839
-  },
-  {
-    "id": 42323,
-    "fecha": "17 de Mar del 2026 a las 05:10 PM",
-    "hora_utc": "2026-03-17 21:10",
-    "mensaje": "Sobre el restablecimiento del SEN, actualizamos:\n\n👉 Ya se logró enlazar el sistema desde Pinar del Río hasta Santiago de Cuba.\n\n👉 Se preparan las condiciones para llevar la electricidad hasta las provincias Granma y Guantánamo.",
-    "timestamp": 1773781819,
-    "timestamp_local": 1773781819
-  },
-  {
-    "id": 42322,
-    "fecha": "17 de Mar del 2026 a las 02:20 PM",
-    "hora_utc": "2026-03-17 18:20",
-    "mensaje": "#SeguimientoInformativo ⚡️Actualización de la situación electroenergética en #VillaClara \n\n💡 Disponibles a esta hora en Villa Clara 39 MW, con electricidad solo 51, de sus más de 200 circuitos.\n\n🏥 Como fue informado en anteriores reportes, todos los hospitales de Santa Clara y los ubicados en Sagua la Grande, Caibarién y Placetas tienen electricidad, al igual que los sistemas de abasto de agua Palmarito y Minerva Ochoíta.\n\n🔁 Está previsto que en el transcurso de la tarde noche de hoy comiencen a rotarse de manera paulatina los circuitos en Villa Clara.\n\n🏭 Según el parte oficial, aumenta la generación térmica con la entrada en las últimas horas de la unidad 3 de la Carlos Manuel de Céspedes de Cienfuegos y otras centrales del occidente cubano\n\n➡️ En linea termoeléctrica Antonio Guiteras de Matanzas, también empezó la sincronización al sistema eléctrico de algunos de los parques solares emplazados en Villa Clara y otros territorios del país.\n\n ℹ️ Despacho de Carga Provincial",
-    "timestamp": 1773771602,
-    "timestamp_local": 1773771602
   }
 ]
