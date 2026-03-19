@@ -1,5 +1,29 @@
 [
   {
+    "id": 18536,
+    "fecha": "19 de Mar del 2026 a las 09:19 AM",
+    "hora_utc": "2026-03-19 13:19",
+    "mensaje": "Actualización del Sistema Electroenergético Nacional para el 19 de marzo de 2026.\n\nEstado Actual:\nDisponibilidad: 1090 MW\nDemanda: 2200 MW\nAfectación: 1105 MW\nPronóstico para el mediodía: 1300 MW\n\nPronóstico para el horario pico:\nDisponibilidad: 1280 MW\nDemanda: 3000 MW\nDéficit: 1720 MW\nAfectación: 1750 MW",
+    "timestamp": 1773926378,
+    "timestamp_local": 1773926378
+  },
+  {
+    "id": 18535,
+    "fecha": "19 de Mar del 2026 a las 08:45 AM",
+    "hora_utc": "2026-03-19 12:45",
+    "mensaje": "Se encuentran disparados por DAF los siguientes circuitos:                        Tk 5 Los Pinos                                                                                                     Tk106 Zona sur de B.Vista , Aeropuerto                                                        6230 Menéndez",
+    "timestamp": 1773924336,
+    "timestamp_local": 1773924336
+  },
+  {
+    "id": 18534,
+    "fecha": "19 de Mar del 2026 a las 08:20 AM",
+    "hora_utc": "2026-03-19 12:20",
+    "mensaje": "🚨Nota informativa.🚨\n📅Situación del SEN para el 19 de marzo de 2026\n\n👉En el día de ayer se afectó el servicio por déficit de capacidad durante las 24 horas y se ha mantenido la afectación durante la madrugada de hoy. La máxima afectación por déficit de capacidad de generación en el día de ayer fue de 1839 MW a las 19:20 horas.\n\n☀️La producción de energía de los 51 nuevos parques solares fotovoltaicos fue de 1944 MWh, con 275 MW como máxima potencia entregada en el horario de la media con esta fuente de generación. \n\n▪️La disponibilidad del SEN a las 06:00 horas es de 1090 MW, la demanda 2200 MW, con 1105 MW afectados. En el horario de la media se estima una afectación de 1300 MW.  \n\n🛠️Se encuentran en avería, las unidades 5 y 8 de la CTE Mariel, las unidades 1 y 3 de la CTE Santa Cruz, la unidad 2 de la CTE Felton y las unidades 3 y 6 de la CTE Renté. Se encuentran en mantenimiento, la unidad 6 de la CTE Mariel y la unidad 5 de la CTE Nuevitas\nLas limitaciones en la generación térmica son de 540 MW.\n\n▪️Para el pico se pronostica la entrada el completamiento de la unidad 4 de la CTE Cienfuegos con 100 MW, el completamiento de la unidad 2 de la CTE Santa Cruz con 30 MW y la entrada de la unidad 1 de la CTE Santa Cruz con 60 MW (en proceso de arranque).\n  \n📉Se espera para el pico una disponibilidad de 1280 MW con una demanda máxima de 3000 MW, para un déficit de 1720 MW, por lo que de mantenerse las condiciones previstas se pronostica una afectación de 1750 MW en este horario.\n\nUNE-MINEM",
+    "timestamp": 1773922844,
+    "timestamp_local": 1773922844
+  },
+  {
     "id": 18533,
     "fecha": "19 de Mar del 2026 a las 06:16 AM",
     "hora_utc": "2026-03-19 10:16",
@@ -110,29 +134,5 @@
     "mensaje": "Se restablece los siguientes circuitos:\nTK15 Tunas El Pueblo\nCircuito 33 Kv: 6310\nTK20 Becerra \nTK21 Tunazúcar\nTK39 Providencia IV \nTK50 Vázquez \nTK51 Santa Teresa \nTK54 Vázquez\nircuito 33 Kv: 6305\nTK41 Calixto\nTK40 Vista Alegre\nTK42 Gastón y Arroyo Muerto\nTK45 La Ceiba\nTK43 Las Parras, Omaja y Cañada Honda\nTK44 Vivienda\nCircuito 33 Kv: 4220\nTK28 La Guinea\nTK52 Covarrubias\nTK31 Pueblo Manatí\nTK33 Pueblo Manatí\nTK34 Pueblo Manatí\nCircuito 33 Kv: 6100\nTK35 Puerto Manatí\nTK36 El Raúl\nTK22 Aeropuerto\nTK23 Veguita \nTK32 Fleytas \nTK30 Meriño",
     "timestamp": 1773752651,
     "timestamp_local": 1773752651
-  },
-  {
-    "id": 18516,
-    "fecha": "17 de Mar del 2026 a las 08:34 AM",
-    "hora_utc": "2026-03-17 12:34",
-    "mensaje": "🚨🚨🚨Sobre el restablecimiento del SEN.\n👉🏻 Se avanzó en el transcurso de la noche: se ha enlazado el sistema desde Pinar del Rio hasta Holguin . Se  encuentran en proceso de arranque la Unidad 8 de  la CTE  de Mariel, la CTE Antonio Guiteras y la Unidad 3 de Cespedes. \n👉🏻Se cuenta con energía la Subestación de  la CTE de Felton para poner en servicio  en próximas Horas la Unidad.\n👉🏻Continuamos en el proceso de recuperación.\n👉🏻Manténgase informado por nuestros canales oficiales.",
-    "timestamp": 1773750845,
-    "timestamp_local": 1773750845
-  },
-  {
-    "id": 18515,
-    "fecha": "17 de Mar del 2026 a las 07:57 AM",
-    "hora_utc": "2026-03-17 11:57",
-    "mensaje": "Además también con servicio:\nTK44 Vivienda\nTK27 La Victoria\nTK12 Las Cuarenta, Sosa.",
-    "timestamp": 1773748654,
-    "timestamp_local": 1773748654
-  },
-  {
-    "id": 18514,
-    "fecha": "17 de Mar del 2026 a las 07:53 AM",
-    "hora_utc": "2026-03-17 11:53",
-    "mensaje": "Actualmente se encuentran con servicio los siguientes circuitos:\n\nTK24 Rpto.Santo Domingo \n\nTK10 El Cornito\n\nTK4 Aereopuerto, Casa Piedra y Aurora\n\nTK18 Las Cuarenta y Rpto. Velázquez\n\nTK106 Palancón, Buena Vista\n\nTK2 Bonachea\n\nTK1 Edificios de Buena Vista\n\nParte del TK15 Tunas El Pueblo. Solo con servicio la parte de los hospitales\n\nTK29 Circunvalación Sur desde la entrada de 4 Caminos hasta Oro Negro\n\nTK7 La Victoria\n\nTK26 Circunvalación Sur    \n\nTK19 KM7, San Antonio y Ciruelito\n\nTK14 Cayojo\n\nTK5 Buena Vista, Los Pinos\n\nTK6 Calle Cuba y zona sur de buena Vista\n\nTK93          Batey Delicias\n\nAdemás del Hospital General Docente Guillermo Domínguez y el Hospital Pediátrico Municipal Raymundo Castro Morales del municipio de Puerto Padre.",
-    "timestamp": 1773748437,
-    "timestamp_local": 1773748437
   }
 ]
