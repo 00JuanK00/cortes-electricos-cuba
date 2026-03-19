@@ -1,9 +1,25 @@
 [
   {
+    "id": 51226,
+    "fecha": "19 de Mar del 2026 a las 07:55 PM",
+    "hora_utc": "2026-03-19 23:55",
+    "mensaje": "🚨Estimados clientes en estos momentos se encuentra afectados por Déficit de Capacidad de Generación la línea 5980 San Juan , disculpen por las molestias ocasionadas.",
+    "timestamp": 1773964541,
+    "timestamp_local": 1773964541
+  },
+  {
+    "id": 51225,
+    "fecha": "19 de Mar del 2026 a las 07:39 PM",
+    "hora_utc": "2026-03-19 23:39",
+    "mensaje": "🚨Estimados clientes en estos momentos se encuentra afectados por Déficit de Capacidad de Generación los circuitos 3 y 10 de Santiago , disculpen por las molestias ocasionadas.",
+    "timestamp": 1773963552,
+    "timestamp_local": 1773963552
+  },
+  {
     "id": 51224,
     "fecha": "19 de Mar del 2026 a las 06:20 PM",
     "hora_utc": "2026-03-19 22:20",
-    "mensaje": "🚨Estimados clientes se les informa que el circuito 22 se encuentra abierto x Emergencia , Disculpen por las molestias ocasionadas.",
+    "mensaje": "🚨Estimados clientes se les informa que el circuito 22 se encuentra abierto por  Emergencia , Disculpen por las molestias ocasionadas.",
     "timestamp": 1773958858,
     "timestamp_local": 1773958858
   },
@@ -126,13 +142,5 @@
     "mensaje": "🔴Estimados clientes se les informa que se incorporan a la afectación los circuitos 2 , 12 y las líneas 5975 Baconao , 5380 Mella.",
     "timestamp": 1773940981,
     "timestamp_local": 1773940981
-  },
-  {
-    "id": 51205,
-    "fecha": "19 de Mar del 2026 a las 12:24 PM",
-    "hora_utc": "2026-03-19 16:24",
-    "mensaje": "👉Déficit de Capacidad de Generación:    \n🔴Se produce cuando la demanda del Sistema Eléctrico Nacional, en determinado horario del día, supera la generación disponible del país, provocando la desconexión de los circuitos o líneas que permitan garantizar la frecuencia del SEN.",
-    "timestamp": 1773937445,
-    "timestamp_local": 1773937445
   }
 ]
