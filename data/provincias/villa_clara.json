@@ -1,5 +1,29 @@
 [
   {
+    "id": 42412,
+    "fecha": "19 de Mar del 2026 a las 10:35 AM",
+    "hora_utc": "2026-03-19 14:35",
+    "mensaje": "💡 Restablecido el servicio eléctrico en el circuito 102 Peroty perteneciente al municipio de Placetas.",
+    "timestamp": 1773930927,
+    "timestamp_local": 1773930927
+  },
+  {
+    "id": 42411,
+    "fecha": "19 de Mar del 2026 a las 10:32 AM",
+    "hora_utc": "2026-03-19 14:32",
+    "mensaje": "🛠️ Se encuentra en avería línea  1720 perteneciente al municipio de Santo Domingo por cable primario partido.\n🔹Municipio Santo Domingo:\n👉Cto 195 Batey George Washington\n👉Ctos 83 y 165 Manacas\n👉Ctos 85 y 86 Pajarito\n👉Ctos 160 y 161 Cascajal",
+    "timestamp": 1773930759,
+    "timestamp_local": 1773930759
+  },
+  {
+    "id": 42410,
+    "fecha": "19 de Mar del 2026 a las 09:52 AM",
+    "hora_utc": "2026-03-19 13:52",
+    "mensaje": "⚡ Disparo de la línea 75 kV perteneciente al municipio de Ranchuelo afectando los siguientes circuitos:\n🔹Municipio Ranchuelo \n👉Cto 89, 97, 188 y 189 Ranchuelo.\n👉Cto 148 y 149 San Juan\n👉Cto 91 Batey Osvaldo Herrera \n👉Cto 181 Batey Ifrain Alfonso\nSe estudian las causas",
+    "timestamp": 1773928378,
+    "timestamp_local": 1773928378
+  },
+  {
     "id": 42409,
     "fecha": "19 de Mar del 2026 a las 09:41 AM",
     "hora_utc": "2026-03-19 13:41",
@@ -134,29 +158,5 @@
     "mensaje": "⚡Afectado por avería el circuito 33 RF.",
     "timestamp": 1773904006,
     "timestamp_local": 1773904006
-  },
-  {
-    "id": 42392,
-    "fecha": "19 de Mar del 2026 a las 02:37 AM",
-    "hora_utc": "2026-03-19 06:37",
-    "mensaje": "💡Restablecido el servicio eléctrico en el circuito 169.",
-    "timestamp": 1773902237,
-    "timestamp_local": 1773902237
-  },
-  {
-    "id": 42391,
-    "fecha": "19 de Mar del 2026 a las 02:31 AM",
-    "hora_utc": "2026-03-19 06:31",
-    "mensaje": "🛠️Afectado por manipulación el circuito 169 Condado para reponer transformador.",
-    "timestamp": 1773901872,
-    "timestamp_local": 1773901872
-  },
-  {
-    "id": 42390,
-    "fecha": "19 de Mar del 2026 a las 02:07 AM",
-    "hora_utc": "2026-03-19 06:07",
-    "mensaje": "Actualización del servicio eléctrico en la provincia🔸\n👉De los circuitos apagables que presenta la provincia, se mantienen  afectados 143 circuitos.\n👉En el momento de hacer esta nota la provincia tiene 94 MW de afectación.\n👉Cuenta con 98 afectaciones por averías secundarias y de servicio.",
-    "timestamp": 1773900448,
-    "timestamp_local": 1773900448
   }
 ]
