@@ -1,9 +1,25 @@
 [
   {
+    "id": 42431,
+    "fecha": "19 de Mar del 2026 a las 01:43 PM",
+    "hora_utc": "2026-03-19 17:43",
+    "mensaje": "💡 Restablecido el servicio eléctrico en la línea 6375 .",
+    "timestamp": 1773942227,
+    "timestamp_local": 1773942227
+  },
+  {
+    "id": 42430,
+    "fecha": "19 de Mar del 2026 a las 01:40 PM",
+    "hora_utc": "2026-03-19 17:40",
+    "mensaje": "⚡Se encuentra afectado por disparo línea 6375 perteneciente al municipio de Santa Clara.\n🔹Municipio Santa Clara\n👉Cto 7 (Universidad)  \n👉Cto 146 (Elevado Aeropuerto) \n👉 Cto 22 (Construcciones Textil)\n👉 Cto 131 (Las Antillas)\n👉Cto 153 (EIDE)\n👉Cto 25 (Los Güiros)\n👉Cto 24 (Planta Asfalto)\n👉Cto 35 (Biotecnología) \n👉Ctos 14, 15 y 27 (Maleza)",
+    "timestamp": 1773942003,
+    "timestamp_local": 1773942003
+  },
+  {
     "id": 42429,
     "fecha": "19 de Mar del 2026 a las 01:37 PM",
     "hora_utc": "2026-03-19 17:37",
-    "mensaje": "⚡Se encuentra afectado por disparo línea 4608 perteneciente al municipio de Corralillo.",
+    "mensaje": "⚡Se encuentra afectado por disparo línea 4608 perteneciente al municipio de Corralillo.\n🔹Municipio Corralillo:\n👉Ctos 58 y 159 \n👉Cto 57 Motembo \n👉Cto 56 Yabre\n👉Cto 60 La Sierra\n👉Cto 55 Rancho Veloz\nSe estudian las causas",
     "timestamp": 1773941874,
     "timestamp_local": 1773941874
   },
@@ -110,21 +126,5 @@
     "mensaje": "💡 Restablecido el servicio eléctrico en el circuito 102 Peroty perteneciente al municipio de Placetas.",
     "timestamp": 1773930927,
     "timestamp_local": 1773930927
-  },
-  {
-    "id": 42411,
-    "fecha": "19 de Mar del 2026 a las 10:32 AM",
-    "hora_utc": "2026-03-19 14:32",
-    "mensaje": "🛠️ Se encuentra en avería línea  1720 perteneciente al municipio de Santo Domingo por cable primario partido.\n🔹Municipio Santo Domingo:\n👉Cto 195 Batey George Washington\n👉Ctos 83 y 165 Manacas\n👉Ctos 85 y 86 Pajarito\n👉Ctos 160 y 161 Cascajal",
-    "timestamp": 1773930759,
-    "timestamp_local": 1773930759
-  },
-  {
-    "id": 42410,
-    "fecha": "19 de Mar del 2026 a las 09:52 AM",
-    "hora_utc": "2026-03-19 13:52",
-    "mensaje": "⚡ Disparo de la línea 75 kV perteneciente al municipio de Ranchuelo afectando los siguientes circuitos:\n🔹Municipio Ranchuelo \n👉Cto 89, 97, 188 y 189 Ranchuelo.\n👉Cto 148 y 149 San Juan\n👉Cto 91 Batey Osvaldo Herrera \n👉Cto 181 Batey Ifrain Alfonso\nSe estudian las causas",
-    "timestamp": 1773928378,
-    "timestamp_local": 1773928378
   }
 ]
