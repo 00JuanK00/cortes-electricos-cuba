@@ -1,5 +1,13 @@
 [
   {
+    "id": 42456,
+    "fecha": "19 de Mar del 2026 a las 07:24 PM",
+    "hora_utc": "2026-03-19 23:24",
+    "mensaje": "Afectados 124 MW en la provincia, demanda máxima a apagar en estos momentos.",
+    "timestamp": 1773962662,
+    "timestamp_local": 1773962662
+  },
+  {
     "id": 42455,
     "fecha": "19 de Mar del 2026 a las 06:36 PM",
     "hora_utc": "2026-03-19 22:36",
@@ -150,13 +158,5 @@
     "mensaje": "💡Restablecido el servicio eléctrico en la línea 6375",
     "timestamp": 1773948611,
     "timestamp_local": 1773948611
-  },
-  {
-    "id": 42436,
-    "fecha": "19 de Mar del 2026 a las 03:01 PM",
-    "hora_utc": "2026-03-19 19:01",
-    "mensaje": "🛠️ Se encuentra en avería Línea 6375                                                                                 🔹Municipio Santa Clara\n👉Cto 7 (Universidad)  \n👉Cto 146 (Elevado Aeropuerto) \n👉 Cto 22 (Construcciones Textil)\n👉 Cto 131 (Las Antillas)\n👉Cto 153 (EIDE)\n👉Cto 25 (Los Güiros)\n👉Cto 24 (Planta Asfalto)\n👉Cto 35 (Biotecnología) \n👉Ctos 14, 15 y 27 (Maleza)",
-    "timestamp": 1773946917,
-    "timestamp_local": 1773946917
   }
 ]
