@@ -1,9 +1,33 @@
 [
   {
+    "id": 51203,
+    "fecha": "19 de Mar del 2026 a las 11:13 AM",
+    "hora_utc": "2026-03-19 15:13",
+    "mensaje": "🔴Estimados clientes se les informa que se incorpora a la afectación el circuito 4 de Palma .",
+    "timestamp": 1773933237,
+    "timestamp_local": 1773933237
+  },
+  {
+    "id": 51201,
+    "fecha": "19 de Mar del 2026 a las 11:06 AM",
+    "hora_utc": "2026-03-19 15:06",
+    "mensaje": "🔴Estimados clientes se les informa que en estos momentos se encuentra disparado la línea 4395  Subestación Hospital Contramaestre y la línea 5380 Mella.Disculpen por las molestias ocasionadas.",
+    "timestamp": 1773932762,
+    "timestamp_local": 1773932762
+  },
+  {
+    "id": 51200,
+    "fecha": "19 de Mar del 2026 a las 10:53 AM",
+    "hora_utc": "2026-03-19 14:53",
+    "mensaje": "🔴Estimados clientes se les informa que se incorpora a la afectación el circuito San Juan.",
+    "timestamp": 1773932013,
+    "timestamp_local": 1773932013
+  },
+  {
     "id": 51199,
     "fecha": "19 de Mar del 2026 a las 10:26 AM",
     "hora_utc": "2026-03-19 14:26",
-    "mensaje": "🔴Estimados clientes se les informa que se incorpora a la afectación la línea 4435 Contramaestre.",
+    "mensaje": "🔴Estimados clientes se les informa que se incorpora a la afectación el  circuito 14 y la línea 4435 Contramaestre.",
     "timestamp": 1773930393,
     "timestamp_local": 1773930393
   },
@@ -126,37 +150,5 @@
     "mensaje": "🔊Estimados clientes en estos momentos se encuentra afectados por Déficit de Capacidad de Generación los circuitos 1 , 21 y la Línea 5975 Baconao",
     "timestamp": 1773910770,
     "timestamp_local": 1773910770
-  },
-  {
-    "id": 51183,
-    "fecha": "19 de Mar del 2026 a las 04:16 AM",
-    "hora_utc": "2026-03-19 08:16",
-    "mensaje": "🔊Estimados clientes en estos momentos se encuentra afectados por Déficit de Capacidad de Generación la Línea 4390 Contramaestre y la 5380 Mella",
-    "timestamp": 1773908196,
-    "timestamp_local": 1773908196
-  },
-  {
-    "id": 51182,
-    "fecha": "19 de Mar del 2026 a las 04:10 AM",
-    "hora_utc": "2026-03-19 08:10",
-    "mensaje": "🔊Estimados clientes en estos momentos se encuentra afectados por Déficit de Capacidad de Generación los circuitos 23 ,2, 12 de Santiago y el 4 de Palma",
-    "timestamp": 1773907812,
-    "timestamp_local": 1773907812
-  },
-  {
-    "id": 51181,
-    "fecha": "19 de Mar del 2026 a las 01:50 AM",
-    "hora_utc": "2026-03-19 05:50",
-    "mensaje": "🚨Manipulaciones:\nAcción que se realizan en los circuitos para dar paso al trabajo en zonas afectadas por averías o Vía Libre y posteriormente para restablecer el servicio eléctrico en los circuitos que se encontraban afectados y en los que se trabaja con anterioridad, luego de culminadas las labores pertinentes.",
-    "timestamp": 1773899412,
-    "timestamp_local": 1773899412
-  },
-  {
-    "id": 51180,
-    "fecha": "19 de Mar del 2026 a las 01:50 AM",
-    "hora_utc": "2026-03-19 05:50",
-    "mensaje": "🔊Estimados clientes en estos momentos se encuentra afectados por Manipulación el circuito 10",
-    "timestamp": 1773899404,
-    "timestamp_local": 1773899404
   }
 ]
