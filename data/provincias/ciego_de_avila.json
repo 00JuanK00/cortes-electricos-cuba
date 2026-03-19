@@ -1,5 +1,21 @@
 [
   {
+    "id": 36818,
+    "fecha": "19 de Mar del 2026 a las 05:48 PM",
+    "hora_utc": "2026-03-19 21:48",
+    "mensaje": "‼️ Información ‼️   \nDebido a la situación energética que tiene el país, nos es imposible cumplir con una programación de afectaciones. En estos momentos tenemos 80 MW en la provincia afectados. Reiteramos que los circuitos se afectarán o se restablecerán en dependencia del déficit en cada momento del día.",
+    "timestamp": 1773956881,
+    "timestamp_local": 1773956881
+  },
+  {
+    "id": 36817,
+    "fecha": "19 de Mar del 2026 a las 05:07 PM",
+    "hora_utc": "2026-03-19 21:07",
+    "mensaje": "‼️ Déficit de Generación ‼️   \n👉Tenemos 79 MW en la provincia afectados por déficit de generación.\n⏰ Reiteramos que los circuitos se afectarán o se restablecerán en dependencia del déficit en cada momento de la jornada, que es muy variable.",
+    "timestamp": 1773954459,
+    "timestamp_local": 1773954459
+  },
+  {
     "id": 36816,
     "fecha": "19 de Mar del 2026 a las 04:05 PM",
     "hora_utc": "2026-03-19 20:05",
@@ -126,21 +142,5 @@
     "mensaje": "Información.\n👉 El restablecimiento del servicio eléctrico dependerá del comportamiento  de la demanda y la disponibilidad del Sistema",
     "timestamp": 1773901649,
     "timestamp_local": 1773901649
-  },
-  {
-    "id": 36798,
-    "fecha": "19 de Mar del 2026 a las 12:32 AM",
-    "hora_utc": "2026-03-19 04:32",
-    "mensaje": "👉Restablecido servicio eléctrico en el circuito 1.",
-    "timestamp": 1773894779,
-    "timestamp_local": 1773894779
-  },
-  {
-    "id": 36797,
-    "fecha": "19 de Mar del 2026 a las 12:29 AM",
-    "hora_utc": "2026-03-19 04:29",
-    "mensaje": "‼️Información‼️\n\n⏰ Los circuitos  restablecidos tendrán servicio por un estimado de 1 hora y 30 min aproximadamente en dependencia del déficit solicitado en cada momento de la jornada que es muy variable.",
-    "timestamp": 1773894574,
-    "timestamp_local": 1773894574
   }
 ]

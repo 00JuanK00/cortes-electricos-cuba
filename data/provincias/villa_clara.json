@@ -1,5 +1,29 @@
 [
   {
+    "id": 42451,
+    "fecha": "19 de Mar del 2026 a las 05:55 PM",
+    "hora_utc": "2026-03-19 21:55",
+    "mensaje": "Afectados 101 MW en la provincia, demanda máxima a apagar en estos momentos.",
+    "timestamp": 1773957301,
+    "timestamp_local": 1773957301
+  },
+  {
+    "id": 42450,
+    "fecha": "19 de Mar del 2026 a las 05:46 PM",
+    "hora_utc": "2026-03-19 21:46",
+    "mensaje": "💡Restablecido el servicio eléctrico en línea 6375",
+    "timestamp": 1773956810,
+    "timestamp_local": 1773956810
+  },
+  {
+    "id": 42449,
+    "fecha": "19 de Mar del 2026 a las 05:41 PM",
+    "hora_utc": "2026-03-19 21:41",
+    "mensaje": "💡Restablecido el servicio eléctrico línea 6585\n👉Cto 74 Jose Maria Perez\n👉Cto 129 y 156 Camajuani\n👉Ctos  72, 73 Camajuani ( afectados por déficit de Capacidad)",
+    "timestamp": 1773956480,
+    "timestamp_local": 1773956480
+  },
+  {
     "id": 42448,
     "fecha": "19 de Mar del 2026 a las 04:59 PM",
     "hora_utc": "2026-03-19 20:59",
@@ -134,29 +158,5 @@
     "mensaje": "⚡Se encuentra afectado por disparo línea 6375 perteneciente al municipio de Santa Clara.\n🔹Municipio Santa Clara\n👉Cto 7 (Universidad)  \n👉Cto 146 (Elevado Aeropuerto) \n👉 Cto 22 (Construcciones Textil)\n👉 Cto 131 (Las Antillas)\n👉Cto 153 (EIDE)\n👉Cto 25 (Los Güiros)\n👉Cto 24 (Planta Asfalto)\n👉Cto 35 (Biotecnología) \n👉Ctos 14, 15 y 27 (Maleza)",
     "timestamp": 1773945138,
     "timestamp_local": 1773945138
-  },
-  {
-    "id": 42431,
-    "fecha": "19 de Mar del 2026 a las 01:43 PM",
-    "hora_utc": "2026-03-19 17:43",
-    "mensaje": "💡 Restablecido el servicio eléctrico en la línea 6375 .",
-    "timestamp": 1773942227,
-    "timestamp_local": 1773942227
-  },
-  {
-    "id": 42430,
-    "fecha": "19 de Mar del 2026 a las 01:40 PM",
-    "hora_utc": "2026-03-19 17:40",
-    "mensaje": "⚡Se encuentra afectado por disparo línea 6375 perteneciente al municipio de Santa Clara.\n🔹Municipio Santa Clara\n👉Cto 7 (Universidad)  \n👉Cto 146 (Elevado Aeropuerto) \n👉 Cto 22 (Construcciones Textil)\n👉 Cto 131 (Las Antillas)\n👉Cto 153 (EIDE)\n👉Cto 25 (Los Güiros)\n👉Cto 24 (Planta Asfalto)\n👉Cto 35 (Biotecnología) \n👉Ctos 14, 15 y 27 (Maleza)",
-    "timestamp": 1773942003,
-    "timestamp_local": 1773942003
-  },
-  {
-    "id": 42429,
-    "fecha": "19 de Mar del 2026 a las 01:37 PM",
-    "hora_utc": "2026-03-19 17:37",
-    "mensaje": "⚡Se encuentra afectado por disparo línea 4608 perteneciente al municipio de Corralillo.\n🔹Municipio Corralillo:\n👉Ctos 58 y 159 \n👉Cto 57 Motembo \n👉Cto 56 Yabre\n👉Cto 60 La Sierra\n👉Cto 55 Rancho Veloz\nSe estudian las causas",
-    "timestamp": 1773941874,
-    "timestamp_local": 1773941874
   }
 ]
