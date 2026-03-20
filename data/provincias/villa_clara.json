@@ -1,5 +1,29 @@
 [
   {
+    "id": 42465,
+    "fecha": "20 de Mar del 2026 a las 12:59 AM",
+    "hora_utc": "2026-03-20 04:59",
+    "mensaje": "💡 Restablecido el servicio eléctrico en  los siguientes circuitos:\n🔹Municipio Encrucijada\n👉Cto 120 Calabazar\n👉Ctos 121 y 127 Perucho\n🔹Municipio Remedios:\n👉Ctos 67 y 152, 68 y 118",
+    "timestamp": 1773982749,
+    "timestamp_local": 1773982749
+  },
+  {
+    "id": 42464,
+    "fecha": "20 de Mar del 2026 a las 12:42 AM",
+    "hora_utc": "2026-03-20 04:42",
+    "mensaje": "💡Con servicio Cto 33RF (Acetileno), perteneciente al Municipio Santa Clara.",
+    "timestamp": 1773981725,
+    "timestamp_local": 1773981725
+  },
+  {
+    "id": 42463,
+    "fecha": "20 de Mar del 2026 a las 12:20 AM",
+    "hora_utc": "2026-03-20 04:20",
+    "mensaje": "🕛Actualización del servicio eléctrico. \n✍️El déficit de capacidad de generación en estos momentos es de 81 MW. \n✍️En el momento de esta nota, se mantienen afectados 118 circuitos.\n✍️Cuenta con 197 afectaciones por averías secundarias y de servicio:\n🔸Caibarién (12)\n🔸Camajuaní (3)\n🔸Cifuentes (1)\n🔸Corralillo (10)\n🔸Encrucijada (5)\n🔸Manicaragua (27)\n🔸Placetas (2)\n🔸Quemado (1)\n🔸Ranchuelo (10)\n🔸Remedios (11)\n🔸Sagua (11)\n🔸Santa Clara (67)\n🔸Santo Domingo (17)\n🛠️Pendientes a solucionar por el área técnica 16\n.🛠️ Se encuentran 4 averías en vías de solución.\n⚡En avería:\n 👉 Circuito 33 RF de manera parcial\n 👉Circuito 22 (Construcciones Textil) , parcial , quedando afectado el ramal de la Vocacional.\n 👉Circuito 31 Sakenaf, afectado por ramas de árbol en la línea, se preparan las condiciones `para 🛠️trabajar.\n 👉 Circuito 195 (Batey George Washington ) afectado por conductor partido.\n 👉 Circuito 85 (Pajarito ) afectado parcial.",
+    "timestamp": 1773980406,
+    "timestamp_local": 1773980406
+  },
+  {
     "id": 42462,
     "fecha": "19 de Mar del 2026 a las 10:02 PM",
     "hora_utc": "2026-03-20 02:02",
@@ -134,29 +158,5 @@
     "mensaje": "💡 Restablecido el servicio electico en los siguientes circuitos perteneciente a la línea 1720 de manera parcial (Sto Domingo)\n👉Cto 195 Batey George Washington\n👉Ctos 83 y 165 Manacas",
     "timestamp": 1773952273,
     "timestamp_local": 1773952273
-  },
-  {
-    "id": 42445,
-    "fecha": "19 de Mar del 2026 a las 04:23 PM",
-    "hora_utc": "2026-03-19 20:23",
-    "mensaje": "💡Restablecido el servicio eléctrico en la línea 1965 perteneciente al municipio de Cifuentes.",
-    "timestamp": 1773951809,
-    "timestamp_local": 1773951809
-  },
-  {
-    "id": 42444,
-    "fecha": "19 de Mar del 2026 a las 04:22 PM",
-    "hora_utc": "2026-03-19 20:22",
-    "mensaje": "🔴 Fuera de línea la Unidad 4 de la CTE Carlos Manuel de Céspedes por disparo de bomba de alimentar.\n🟢 14:13 || En línea la Unidad 1 de la CTE Ernesto Guevara De La Serna.\n🔴 14:25 || Fuera de línea la Unidad 1 de la CTE Ernesto Guevara De La Serna por voith de alta.",
-    "timestamp": 1773951740,
-    "timestamp_local": 1773951740
-  },
-  {
-    "id": 42443,
-    "fecha": "19 de Mar del 2026 a las 04:21 PM",
-    "hora_utc": "2026-03-19 20:21",
-    "mensaje": "⚡Disparo del circuito 31 (Sakenaf ), se estudian las causas.",
-    "timestamp": 1773951682,
-    "timestamp_local": 1773951682
   }
 ]
