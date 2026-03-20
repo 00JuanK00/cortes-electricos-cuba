@@ -1,9 +1,57 @@
 [
   {
+    "id": 51252,
+    "fecha": "20 de Mar del 2026 a las 11:22 AM",
+    "hora_utc": "2026-03-20 15:22",
+    "mensaje": "🚨Estimados clientes en estos momentos se encuentra afectado Por  Emergencia  el circuito 9 de Santiago,disculpen por las molestias ocasionadas.",
+    "timestamp": 1774020159,
+    "timestamp_local": 1774020159
+  },
+  {
+    "id": 51251,
+    "fecha": "20 de Mar del 2026 a las 11:11 AM",
+    "hora_utc": "2026-03-20 15:11",
+    "mensaje": "🚨Estimados clientes en estos momentos se encuentra Disparada la LI 5390  San  Luis - La Maya , disculpen por las molestias ocasionadas.",
+    "timestamp": 1774019476,
+    "timestamp_local": 1774019476
+  },
+  {
+    "id": 51250,
+    "fecha": "20 de Mar del 2026 a las 11:09 AM",
+    "hora_utc": "2026-03-20 15:09",
+    "mensaje": "🚨Estimados clientes en estos momentos se encuentra afectados por Déficit de Capacidad de Generación los circuitos 1 y 2 de Contramaestre , disculpen por las molestias ocasionadas.",
+    "timestamp": 1774019368,
+    "timestamp_local": 1774019368
+  },
+  {
+    "id": 51249,
+    "fecha": "20 de Mar del 2026 a las 10:51 AM",
+    "hora_utc": "2026-03-20 14:51",
+    "mensaje": "🚨Estimados clientes en estos momentos se encuentra afectado por Déficit de Capacidad de Generación el circuito 26 de Santiago, disculpen por las molestias ocasionadas.",
+    "timestamp": 1774018282,
+    "timestamp_local": 1774018282
+  },
+  {
+    "id": 51248,
+    "fecha": "20 de Mar del 2026 a las 10:42 AM",
+    "hora_utc": "2026-03-20 14:42",
+    "mensaje": "Disparo\nApertura no voluntaria de un interruptor como vía de protección para desconectar uno o varios elementos del circuito, subestación o sistema, restableciéndose el servicio rápidamente en dependencia de la causa.",
+    "timestamp": 1774017772,
+    "timestamp_local": 1774017772
+  },
+  {
+    "id": 51247,
+    "fecha": "20 de Mar del 2026 a las 10:42 AM",
+    "hora_utc": "2026-03-20 14:42",
+    "mensaje": "🚨Estimados clientes en estos momentos se encuentra Disparada la línea de Alto Songo",
+    "timestamp": 1774017757,
+    "timestamp_local": 1774017757
+  },
+  {
     "id": 51246,
     "fecha": "20 de Mar del 2026 a las 10:28 AM",
     "hora_utc": "2026-03-20 14:28",
-    "mensaje": "🚨Estimados clientes en estos momentos se encuentran afectados por Déficit de Capacidad de Generación el circuito  12 de Santiago y  las Líneas 5380 Mella y  la  SI5975 Baconao, disculpen por las molestias ocasionadas.",
+    "mensaje": "🚨Estimados clientes en estos momentos se encuentran afectados por Déficit de Capacidad de Generación los circuitos 2 , 12,  14 seccionalizado  de Santiago y  las Líneas 5380 Mella , SI5975 Baconao , 5330 El Cristo ,  5385 San Luis y Contramaestre, disculpen por las molestias ocasionadas.",
     "timestamp": 1774016892,
     "timestamp_local": 1774016892
   },
@@ -86,45 +134,5 @@
     "mensaje": "🚨Estimados clientes en estos momentos se encuentra afectados por Déficit de Capacidad de Generación los circuitos 21 , 26 de Santiago , línea 5380 Mella , 5975 Baconao , disculpen por las molestias ocasionadas.",
     "timestamp": 1773983204,
     "timestamp_local": 1773983204
-  },
-  {
-    "id": 51231,
-    "fecha": "19 de Mar del 2026 a las 10:35 PM",
-    "hora_utc": "2026-03-20 02:35",
-    "mensaje": "Disparo\nApertura no voluntaria de un interruptor como vía de protección para desconectar uno o varios elementos del circuito, subestación o sistema, restableciéndose el servicio rápidamente en dependencia de la causa.",
-    "timestamp": 1773974120,
-    "timestamp_local": 1773974120
-  },
-  {
-    "id": 51230,
-    "fecha": "19 de Mar del 2026 a las 10:35 PM",
-    "hora_utc": "2026-03-20 02:35",
-    "mensaje": "🚨Estimados clientes se les informa que la línea 4395  de Contramaestre se encuentra Disparada , disculpen por las molestias ocasionadas.",
-    "timestamp": 1773974109,
-    "timestamp_local": 1773974109
-  },
-  {
-    "id": 51229,
-    "fecha": "19 de Mar del 2026 a las 10:22 PM",
-    "hora_utc": "2026-03-20 02:22",
-    "mensaje": "🚨Estimados clientes en estos momentos se encuentra afectados por Déficit de Capacidad de Generación la línea 4 de Palma , disculpen por las molestias ocasionadas.",
-    "timestamp": 1773973372,
-    "timestamp_local": 1773973372
-  },
-  {
-    "id": 51228,
-    "fecha": "19 de Mar del 2026 a las 10:21 PM",
-    "hora_utc": "2026-03-20 02:21",
-    "mensaje": "🚨Estimados clientes en estos momentos se encuentra afectados por Déficit de Capacidad de Generación los circuitos 1 , 23 , 25 de Santiago , línea 5385 San Luis  , disculpen por las molestias ocasionadas.",
-    "timestamp": 1773973287,
-    "timestamp_local": 1773973287
-  },
-  {
-    "id": 51227,
-    "fecha": "19 de Mar del 2026 a las 08:24 PM",
-    "hora_utc": "2026-03-20 00:24",
-    "mensaje": "🚨Estimados clientes en estos momentos se encuentra afectados por Déficit de Capacidad de Generación el circuito 17 de Santiago y la línea 4385 Contramaestre , disculpen por las molestias ocasionadas.",
-    "timestamp": 1773966288,
-    "timestamp_local": 1773966288
   }
 ]
