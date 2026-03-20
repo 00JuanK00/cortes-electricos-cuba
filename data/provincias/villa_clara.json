@@ -1,5 +1,29 @@
 [
   {
+    "id": 42525,
+    "fecha": "20 de Mar del 2026 a las 06:01 PM",
+    "hora_utc": "2026-03-20 22:01",
+    "mensaje": "⚠️Afectados por déficit de capacidad de generación los siguientes circuitos:\n🔹Municipio Sagua\n👉Ctos 43, 51 Sagua",
+    "timestamp": 1774044108,
+    "timestamp_local": 1774044108
+  },
+  {
+    "id": 42524,
+    "fecha": "20 de Mar del 2026 a las 05:59 PM",
+    "hora_utc": "2026-03-20 21:59",
+    "mensaje": "⚠️Afectados por déficit de capacidad de generación los siguientes circuitos:\n🔹Municipio Santa Clara\n👉Cto 7 (Universidad)  \n👉Cto 146 (Elevado Aeropuerto) \n👉Cto 22 (Construcciones Textil)\n👉Cto 131 (Las Antillas)\n👉Cto 25 (Los Güiros)\n👉Cto 24 (Planta Asfalto)\n👉Cto 35 (Biotecnología) \n👉Cto 27 (Maleza)",
+    "timestamp": 1774043963,
+    "timestamp_local": 1774043963
+  },
+  {
+    "id": 42523,
+    "fecha": "20 de Mar del 2026 a las 05:57 PM",
+    "hora_utc": "2026-03-20 21:57",
+    "mensaje": "🕕Actualización del servicio eléctrico. \n✍️El déficit de capacidad de generación en estos momentos es de 124 MW. \n✍️En el momento de esta nota, se mantienen afectados 125 circuitos.\n✍️Cuenta con 156 afectaciones por averías secundarias y de servicio:\n🔸Caibarién (5)\n🔸Camajuaní (1)\n🔸Cifuentes (1)\n🔸Corralillo (8)\n🔸Encrucijada (8)\n🔸Manicaragua (9)\n🔸Placetas (9)\n🔸Ranchuelo (9)\n🔸Remedios (13)\n🔸Sagua (11)\n🔸Santa Clara (85)\n🔸Santo Domingo (5)\n🛠️Pendientes a solucionar por el área técnica 16.\n🛠️ Se encuentran 1 avería en vías de solución.\n⚡En avería:\n👉Cto 70 Zuluetas se encuentra disparado, se estudian las causas.",
+    "timestamp": 1774043830,
+    "timestamp_local": 1774043830
+  },
+  {
     "id": 42522,
     "fecha": "20 de Mar del 2026 a las 05:41 PM",
     "hora_utc": "2026-03-20 21:41",
@@ -134,29 +158,5 @@
     "mensaje": "Afectados 81 MW en la provincia, demanda máxima a apagar en estos momentos.",
     "timestamp": 1774033258,
     "timestamp_local": 1774033258
-  },
-  {
-    "id": 42505,
-    "fecha": "20 de Mar del 2026 a las 02:58 PM",
-    "hora_utc": "2026-03-20 18:58",
-    "mensaje": "⚠️Afectados por déficit de capacidad de generación los siguientes circuitos:\n🔹Municipio Remedios:\n👉Ctos 69\n👉70 Zuluetas (Avería)\n👉Cto 143 Batey Heriberto Duquezne \n👉Cto 71 Buena Vista",
-    "timestamp": 1774033129,
-    "timestamp_local": 1774033129
-  },
-  {
-    "id": 42504,
-    "fecha": "20 de Mar del 2026 a las 02:50 PM",
-    "hora_utc": "2026-03-20 18:50",
-    "mensaje": "⚠️Se encuentran disparados los Ctos 32 y 33 (RF-33Kv), pertenecientes al municipio Santa Clara, se estudian las causas.",
-    "timestamp": 1774032655,
-    "timestamp_local": 1774032655
-  },
-  {
-    "id": 42503,
-    "fecha": "20 de Mar del 2026 a las 02:49 PM",
-    "hora_utc": "2026-03-20 18:49",
-    "mensaje": "🛠️Afectada por manipulación la línea del 1785:\n🔹Municipio Santa Clara:\n👉Cto 6 (Vigía)\n👉Cto 34(Sabana Rebacadero)\n👉Ctos 32 y 33 (RF-33Kv)\n👉Cto 39 (Sandino)",
-    "timestamp": 1774032594,
-    "timestamp_local": 1774032594
   }
 ]
