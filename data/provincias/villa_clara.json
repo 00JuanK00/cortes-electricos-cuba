@@ -1,5 +1,13 @@
 [
   {
+    "id": 42531,
+    "fecha": "20 de Mar del 2026 a las 07:34 PM",
+    "hora_utc": "2026-03-20 23:34",
+    "mensaje": "✅Ante cualquier duda con la terminología eléctrica, les volvemos explicar: \n     \n✍️Las averías pueden ser primarias (afecta un volumen grande de población pues son las líneas de distribución a 13.8kV y puede afectar varias manzanas, incluso repartos completos).\n\n✍️Secundarias (afecta a todos los clientes que se alimenten del mismo transformador, puede afectar una o varias cuadras). \n\n✍️De servicio (afectan 1 solo cliente o instalación generalmente producto a daños en la acometida, metro contador, etc.).",
+    "timestamp": 1774049682,
+    "timestamp_local": 1774049682
+  },
+  {
     "id": 42529,
     "fecha": "20 de Mar del 2026 a las 07:08 PM",
     "hora_utc": "2026-03-20 23:08",
@@ -11,7 +19,7 @@
     "id": 42528,
     "fecha": "20 de Mar del 2026 a las 07:01 PM",
     "hora_utc": "2026-03-20 23:01",
-    "mensaje": "🛠️Manipulación en la línea del 1920 por parte de Sancti Spíritus:\n🔹Municipio Placetas:\n👉Ctos 101 y 145 Cumbre\n👉Cto 107 Baez\n👉Cto 105 Nazareno",
+    "mensaje": "🛠️Manipulación en la línea del 1920 por parte de Sancti Spíritus:\n🔹Municipio Placetas:\n👉Ctos 101 y 145 Cumbre (Déficit)\n👉Cto 107 Baez\n👉Cto 105 Nazareno",
     "timestamp": 1774047684,
     "timestamp_local": 1774047684
   },
@@ -150,13 +158,5 @@
     "mensaje": "💡 Restablecido el servicio eléctrico en los siguientes circuitos:\n🔹Municipio Santa Clara:\n👉Cto 166 (Condado)\n👉Cto 4 (Consejo- Centro)",
     "timestamp": 1774037252,
     "timestamp_local": 1774037252
-  },
-  {
-    "id": 42510,
-    "fecha": "20 de Mar del 2026 a las 04:05 PM",
-    "hora_utc": "2026-03-20 20:05",
-    "mensaje": "💡 Restablecido el servicio eléctrico en el siguiente circuito:\n🔹Municipio Santa Clara:\n👉Cto 144 (Camacho)",
-    "timestamp": 1774037151,
-    "timestamp_local": 1774037151
   }
 ]
