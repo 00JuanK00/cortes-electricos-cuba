@@ -1,9 +1,25 @@
 [
   {
+    "id": 42529,
+    "fecha": "20 de Mar del 2026 a las 07:08 PM",
+    "hora_utc": "2026-03-20 23:08",
+    "mensaje": "Afectados 133 MW en la provincia, demanda máxima a apagar en estos momentos.",
+    "timestamp": 1774048086,
+    "timestamp_local": 1774048086
+  },
+  {
+    "id": 42528,
+    "fecha": "20 de Mar del 2026 a las 07:01 PM",
+    "hora_utc": "2026-03-20 23:01",
+    "mensaje": "🛠️Manipulación en la línea del 1920 por parte de Sancti Spíritus:\n🔹Municipio Placetas:\n👉Ctos 101 y 145 Cumbre\n👉Cto 107 Baez\n👉Cto 105 Nazareno",
+    "timestamp": 1774047684,
+    "timestamp_local": 1774047684
+  },
+  {
     "id": 42527,
     "fecha": "20 de Mar del 2026 a las 06:57 PM",
     "hora_utc": "2026-03-20 22:57",
-    "mensaje": "🛠️Culminadas las labores en el Cto 70 Zuluetas, se mantiene afectado por déficit de capacidad de generación.",
+    "mensaje": "🛠️Culminan las labores de reparación en el Cto 70 Zuluetas, se mantiene afectado por déficit de capacidad de generación.",
     "timestamp": 1774047445,
     "timestamp_local": 1774047445
   },
@@ -142,21 +158,5 @@
     "mensaje": "💡 Restablecido el servicio eléctrico en el siguiente circuito:\n🔹Municipio Santa Clara:\n👉Cto 144 (Camacho)",
     "timestamp": 1774037151,
     "timestamp_local": 1774037151
-  },
-  {
-    "id": 42509,
-    "fecha": "20 de Mar del 2026 a las 03:59 PM",
-    "hora_utc": "2026-03-20 19:59",
-    "mensaje": "🛠️Afectada por manipulación la línea del 1785:\n🔹Municipio Santa Clara:\n👉Cto 6 (Vigía)\n👉Cto 34(Sabana Rebacadero)\n👉Ctos 32 y 33 (RF-33Kv)\n👉Cto 39 (Sandino)",
-    "timestamp": 1774036771,
-    "timestamp_local": 1774036771
-  },
-  {
-    "id": 42508,
-    "fecha": "20 de Mar del 2026 a las 03:25 PM",
-    "hora_utc": "2026-03-20 19:25",
-    "mensaje": "💡Restablecido el servicio eléctrico en la línea del 1785:\n🔹Municipio Santa Clara:\n👉Cto 6 (Vigía)\n👉Cto 34(Sabana Rebacadero)\n👉Cto 32 (RF-33Kv)\n👉Cto 33 (RF-33Kv) se encuentra en avería\n👉Cto 39 (Sandino)",
-    "timestamp": 1774034719,
-    "timestamp_local": 1774034719
   }
 ]
