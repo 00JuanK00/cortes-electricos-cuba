@@ -1,5 +1,29 @@
 [
   {
+    "id": 42480,
+    "fecha": "20 de Mar del 2026 a las 10:25 AM",
+    "hora_utc": "2026-03-20 14:25",
+    "mensaje": "⚠️Afectados por déficit de capacidad de generación los siguientes circuitos:\n🔹Municipio Caibarién\n👉Ctos 61, 62 \n👉Ctos 182 y 183 Van Troy",
+    "timestamp": 1774016740,
+    "timestamp_local": 1774016740
+  },
+  {
+    "id": 42479,
+    "fecha": "20 de Mar del 2026 a las 10:07 AM",
+    "hora_utc": "2026-03-20 14:07",
+    "mensaje": "⚠️Afectados por déficit de capacidad de generación los siguientes circuitos:\n**👉Cto 132 SC. Industrial**\n**👉Cto 162 SC. Industrial**",
+    "timestamp": 1774015639,
+    "timestamp_local": 1774015639
+  },
+  {
+    "id": 42478,
+    "fecha": "20 de Mar del 2026 a las 10:02 AM",
+    "hora_utc": "2026-03-20 14:02",
+    "mensaje": "Actualización del servicio eléctrico en la provincia🔸\n👉De los circuitos apagables que presenta la provincia, se mantienen  afectados 109 circuitos.\n👉En el momento de hacer esta nota la provincia tiene 81 MW de afectación.\n👉Cuenta con 199 afectaciones por averías secundarias y de servicio.",
+    "timestamp": 1774015359,
+    "timestamp_local": 1774015359
+  },
+  {
     "id": 42477,
     "fecha": "20 de Mar del 2026 a las 09:43 AM",
     "hora_utc": "2026-03-20 13:43",
@@ -118,29 +142,5 @@
     "mensaje": "Afectados 105 MW en la provincia, demanda máxima a apagar en estos momentos.",
     "timestamp": 1773971271,
     "timestamp_local": 1773971271
-  },
-  {
-    "id": 42460,
-    "fecha": "19 de Mar del 2026 a las 09:12 PM",
-    "hora_utc": "2026-03-20 01:12",
-    "mensaje": "🇨🇺 Actualización del Sistema Electroenergético Nacional a las 19:00 del 19 de marzo de 2026.\n\nDisponibilidad: 1161 MW\nDemanda: 2984 MW\nAfectación: 1847 MW\n\n#UnidosXCuba #NotaInformativa #UniónEléctrica #SEN",
-    "timestamp": 1773969122,
-    "timestamp_local": 1773969122
-  },
-  {
-    "id": 42459,
-    "fecha": "19 de Mar del 2026 a las 09:08 PM",
-    "hora_utc": "2026-03-20 01:08",
-    "mensaje": "⚡Afectado por emergencia Línea 6375\n➡️Línea 6375\nMunicipio Santa Clara\n👉 7 (Universidad)  \n👉 146 (Elevado Aeropuerto) \n👉 22 (Construcciones Textil)\n👉 131 (Las Antillas)\n👉 153 (EIDE)\n👉 25 (Los Güiros)\n👉 24 (Planta Asfalto)\n👉 35 (Biotecnología) \n👉Ctos 14, 15 y 27 (Maleza)",
-    "timestamp": 1773968930,
-    "timestamp_local": 1773968930
-  },
-  {
-    "id": 42458,
-    "fecha": "19 de Mar del 2026 a las 07:54 PM",
-    "hora_utc": "2026-03-19 23:54",
-    "mensaje": "💡Con servicio Línea 1720\n➡️Línea 1720 \n🔹Municipio Santo Domingo:\n👉Cto 195 Batey George Washington\n👉Ctos 83 y 165 Manacas\n👉Ctos 85 y 86 Pajarito\n👉Ctos 160 y 161 Cascajal",
-    "timestamp": 1773964493,
-    "timestamp_local": 1773964493
   }
 ]
