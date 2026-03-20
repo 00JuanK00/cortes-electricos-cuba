@@ -1,5 +1,29 @@
 [
   {
+    "id": 42512,
+    "fecha": "20 de Mar del 2026 a las 04:08 PM",
+    "hora_utc": "2026-03-20 20:08",
+    "mensaje": "🔸Actualización del servicio eléctrico en la provincia🔸\n👉De los circuitos apagables que presenta la provincia, se mantienen  afectados 93 circuitos.\n👉En el momento de hacer esta nota la provincia tiene 85 MW de afectación.\n👉Cuenta con 182 afectaciones por averías secundarias y de servicio.",
+    "timestamp": 1774037333,
+    "timestamp_local": 1774037333
+  },
+  {
+    "id": 42511,
+    "fecha": "20 de Mar del 2026 a las 04:07 PM",
+    "hora_utc": "2026-03-20 20:07",
+    "mensaje": "💡 Restablecido el servicio eléctrico en el siguiente circuito:\n🔹Municipio Santa Clara:\n👉Cto 166 (Condado)",
+    "timestamp": 1774037252,
+    "timestamp_local": 1774037252
+  },
+  {
+    "id": 42510,
+    "fecha": "20 de Mar del 2026 a las 04:05 PM",
+    "hora_utc": "2026-03-20 20:05",
+    "mensaje": "💡 Restablecido el servicio eléctrico en el siguiente circuito:\n🔹Municipio Santa Clara:\n👉Cto 144 (Camacho)",
+    "timestamp": 1774037151,
+    "timestamp_local": 1774037151
+  },
+  {
     "id": 42509,
     "fecha": "20 de Mar del 2026 a las 03:59 PM",
     "hora_utc": "2026-03-20 19:59",
@@ -134,29 +158,5 @@
     "mensaje": "🛠️Afectado por Via Libre circuito 31 (Sakenaf) para cerrar puentes.",
     "timestamp": 1774024135,
     "timestamp_local": 1774024135
-  },
-  {
-    "id": 42492,
-    "fecha": "20 de Mar del 2026 a las 12:03 PM",
-    "hora_utc": "2026-03-20 16:03",
-    "mensaje": "🛠️Afectado por Vía Libre el Cto 22 (Construcciones Textil), perteneciente al municipio Santa Clara, para normalizar esquema.",
-    "timestamp": 1774022638,
-    "timestamp_local": 1774022638
-  },
-  {
-    "id": 42491,
-    "fecha": "20 de Mar del 2026 a las 12:01 PM",
-    "hora_utc": "2026-03-20 16:01",
-    "mensaje": "🕛Actualización del servicio eléctrico. \n✍️El déficit de capacidad de generación en estos momentos es de 65 MW. \n✍️En el momento de esta nota, se mantienen afectados 79 circuitos.\n✍️Cuenta con 195 afectaciones por averías secundarias y de servicio:\n🔸Caibarién (8)\n🔸Camajuaní (2)\n🔸Cifuentes (2)\n🔸Corralillo (9)\n🔸Encrucijada (5)\n🔸Manicaragua (17)\n🔸Placetas (6)\n🔸Ranchuelo (13)\n🔸Remedios (12)\n🔸Sagua (15)\n🔸Santa Clara (90)\n🔸Santo Domingo (17)\n🛠️Pendientes a solucionar por el área técnica 17\n.🛠️ Se encuentran 1 avería en vías de solución.\n⚡En avería:\n 👉Circuito 22 (Construcciones Textil) de manera parcial , quedando afectado el ramal de la Vocacional.\n👉Circuito 31 Sakenaf, de manera parcial.\n👉Circuito 195 (Batey George Washington ) afectado por conductor partido.\n👉Circuito 86 (Pajarito ) de manera afectado parcial.\n👉Cto 70 Zuluetas se encuentra disparado, se estudian las causas.",
-    "timestamp": 1774022507,
-    "timestamp_local": 1774022507
-  },
-  {
-    "id": 42490,
-    "fecha": "20 de Mar del 2026 a las 11:42 AM",
-    "hora_utc": "2026-03-20 15:42",
-    "mensaje": "💡Restablecido el servicio eléctrico en la línea del 1365:\n🔹Municipio Remedios:\n👉Ctos 67 y 152, 68 y 118 (Afectados por déficit)\n👉Cto 69 Zuluetas\n👉Cto 70 Zuluetas (Se encuentra disparado, se estudian las causas)\n👉Cto 143 Batey Heriberto Duquezne \n👉Cto 71 Buena Vista",
-    "timestamp": 1774021353,
-    "timestamp_local": 1774021353
   }
 ]
