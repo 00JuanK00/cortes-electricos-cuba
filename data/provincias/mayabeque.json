@@ -1,5 +1,37 @@
 [
   {
+    "id": 110136,
+    "fecha": "20 de Mar del 2026 a las 08:59 AM",
+    "hora_utc": "2026-03-20 12:59",
+    "mensaje": "🚨Por déficit de capacidad de generación se afecta el servicio en el siguiente circuito:\n*San Nicolás 1🚨",
+    "timestamp": 1774011561,
+    "timestamp_local": 1774011561
+  },
+  {
+    "id": 110135,
+    "fecha": "20 de Mar del 2026 a las 08:59 AM",
+    "hora_utc": "2026-03-20 12:59",
+    "mensaje": "🔷♦️Se restablece el servicio en el circuito que se encontraba afectado  por déficit de capacidad de generación:\n*3660♦️🔷",
+    "timestamp": 1774011552,
+    "timestamp_local": 1774011552
+  },
+  {
+    "id": 110134,
+    "fecha": "20 de Mar del 2026 a las 08:49 AM",
+    "hora_utc": "2026-03-20 12:49",
+    "mensaje": "**Nota Informativa: Estado del Sistema Eléctrico Nacional (SEN) – 20 de marzo de 2026\n**En el día de ayer se afectó el servicio por déficit de capacidad durante las 24 horas y se ha mantenido la afectación durante la madrugada de hoy. La máxima afectación por déficit de capacidad de generación en el día de ayer fue de 1847 MW a las 19:00 horas.\nLa producción de energía de los 51 nuevos parques solares fotovoltaicos fue de 1505 MWh, con 236 MW como máxima potencia entregada en el horario de la media con esta fuente de generación. \n**Estado actual del SEN\n**La disponibilidad del SEN a las 06:00 horas es de 1216 MW, la demanda 2100 MW, con 917 MW afectados. En el horario de la media se estima una afectación de 1100 MW. \n**Principales incidencias\n**Avería: Unidades 5 y 8 de la CTE Mariel, Unidad 3 de la CTE Santa Cruz, Unidad 2 de la CTE Felton y Unidades 3 y 6 de la CTE Antonio Maceo.\nMantenimiento: Unidad 6 de la CTE Mariel, Unidad 5 de la CTE Nuevitas.\nLimitaciones en la generación térmica: 437 MW fuera de servicio.\n**Pronóstico para el horario pico\n**Se espera para el pico una disponibilidad de 1216 MW con una demanda máxima de 3050 MW, para un déficit de 1834 MW, por lo que de mantenerse las condiciones previstas se pronostica una afectación de 1864 MW en este horario.",
+    "timestamp": 1774010973,
+    "timestamp_local": 1774010973
+  },
+  {
+    "id": 110132,
+    "fecha": "20 de Mar del 2026 a las 08:47 AM",
+    "hora_utc": "2026-03-20 12:47",
+    "mensaje": "🚨Por déficit de capacidad de generación se afecta el servicio en el siguiente circuito:\n*Santa Cruz 🚨",
+    "timestamp": 1774010862,
+    "timestamp_local": 1774010862
+  },
+  {
     "id": 110131,
     "fecha": "20 de Mar del 2026 a las 08:20 AM",
     "hora_utc": "2026-03-20 12:20",
@@ -102,21 +134,5 @@
     "mensaje": "🚨Por déficit de capacidad de generación se afecta el servicio en el siguiente circuito:\n*Bio 2 🚨",
     "timestamp": 1774001590,
     "timestamp_local": 1774001590
-  },
-  {
-    "id": 110114,
-    "fecha": "20 de Mar del 2026 a las 02:15 AM",
-    "hora_utc": "2026-03-20 06:15",
-    "mensaje": "🔷♦️Se restablece el servicio en el circuito que se encontraba afectado  por déficit de capacidad de generación:\n*Güines 3 ♦️🔷",
-    "timestamp": 1773987303,
-    "timestamp_local": 1773987303
-  },
-  {
-    "id": 110112,
-    "fecha": "20 de Mar del 2026 a las 01:43 AM",
-    "hora_utc": "2026-03-20 05:43",
-    "mensaje": "🔷♦️Se restablece el servicio en los circuitos que se encontraban afectados por déficit de capacidad de generación:\n*Güines 1\n*Güines 4♦️🔷",
-    "timestamp": 1773985422,
-    "timestamp_local": 1773985422
   }
 ]

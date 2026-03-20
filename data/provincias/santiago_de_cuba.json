@@ -1,5 +1,29 @@
 [
   {
+    "id": 51244,
+    "fecha": "20 de Mar del 2026 a las 09:08 AM",
+    "hora_utc": "2026-03-20 13:08",
+    "mensaje": "🚨Estimados clientes en estos momentos se encuentra afectado por Déficit de Capacidad de Generación el circuito 19 de Santiago , disculpen por las molestias ocasionadas.",
+    "timestamp": 1774012123,
+    "timestamp_local": 1774012123
+  },
+  {
+    "id": 51243,
+    "fecha": "20 de Mar del 2026 a las 08:58 AM",
+    "hora_utc": "2026-03-20 12:58",
+    "mensaje": "Disparo Automático de Frecuencia (DAF):\nOcurre cuando la frecuencia está por debajo de los 60Hz y determinada carga o circuito se desconecta del sistema automáticamente hasta que se estabilice.",
+    "timestamp": 1774011513,
+    "timestamp_local": 1774011513
+  },
+  {
+    "id": 51242,
+    "fecha": "20 de Mar del 2026 a las 08:58 AM",
+    "hora_utc": "2026-03-20 12:58",
+    "mensaje": "🚨Estimados clientes en estos momentos se encuentra disparado por DAF el circuito 17 de Santiago.",
+    "timestamp": 1774011495,
+    "timestamp_local": 1774011495
+  },
+  {
     "id": 51241,
     "fecha": "20 de Mar del 2026 a las 07:51 AM",
     "hora_utc": "2026-03-20 11:51",
@@ -102,29 +126,5 @@
     "mensaje": "🚨Estimados clientes en estos momentos se encuentra afectados por Déficit de Capacidad de Generación los circuitos 3 y 10 de Santiago , disculpen por las molestias ocasionadas.",
     "timestamp": 1773963552,
     "timestamp_local": 1773963552
-  },
-  {
-    "id": 51224,
-    "fecha": "19 de Mar del 2026 a las 06:20 PM",
-    "hora_utc": "2026-03-19 22:20",
-    "mensaje": "🚨Estimados clientes se les informa que el circuito 22 se encuentra abierto por  Emergencia , Disculpen por las molestias ocasionadas.",
-    "timestamp": 1773958858,
-    "timestamp_local": 1773958858
-  },
-  {
-    "id": 51223,
-    "fecha": "19 de Mar del 2026 a las 05:58 PM",
-    "hora_utc": "2026-03-19 21:58",
-    "mensaje": "🔊Estimados clientes se les informa que el circuito 18 se encuentra abierto por Emergencia , disculpen por las molestias ocasionadas.",
-    "timestamp": 1773957508,
-    "timestamp_local": 1773957508
-  },
-  {
-    "id": 51222,
-    "fecha": "19 de Mar del 2026 a las 05:50 PM",
-    "hora_utc": "2026-03-19 21:50",
-    "mensaje": "Vía Libre:\nTrabajos planificados o por emergencias que se realizan con el fin de construir y mantener líneas aéreas y soterradas; así como contribuir a la constante mejora en la entrega de la energía eléctrica.",
-    "timestamp": 1773957029,
-    "timestamp_local": 1773957029
   }
 ]
