@@ -1,5 +1,21 @@
 [
   {
+    "id": 42509,
+    "fecha": "20 de Mar del 2026 a las 03:59 PM",
+    "hora_utc": "2026-03-20 19:59",
+    "mensaje": "🛠️Afectada por manipulación la línea del 1785:\n🔹Municipio Santa Clara:\n👉Cto 6 (Vigía)\n👉Cto 34(Sabana Rebacadero)\n👉Ctos 32 y 33 (RF-33Kv)\n👉Cto 39 (Sandino)",
+    "timestamp": 1774036771,
+    "timestamp_local": 1774036771
+  },
+  {
+    "id": 42508,
+    "fecha": "20 de Mar del 2026 a las 03:25 PM",
+    "hora_utc": "2026-03-20 19:25",
+    "mensaje": "💡Restablecido el servicio eléctrico en la línea del 1785:\n🔹Municipio Santa Clara:\n👉Cto 6 (Vigía)\n👉Cto 34(Sabana Rebacadero)\n👉Cto 32 (RF-33Kv)\n👉Cto 33 (RF-33Kv) se encuentra en avería\n👉Cto 39 (Sandino)",
+    "timestamp": 1774034719,
+    "timestamp_local": 1774034719
+  },
+  {
     "id": 42507,
     "fecha": "20 de Mar del 2026 a las 03:21 PM",
     "hora_utc": "2026-03-20 19:21",
@@ -142,21 +158,5 @@
     "mensaje": "💡Restablecido el servicio eléctrico en la línea del 1365:\n🔹Municipio Remedios:\n👉Ctos 67 y 152, 68 y 118 (Afectados por déficit)\n👉Cto 69 Zuluetas\n👉Cto 70 Zuluetas (Se encuentra disparado, se estudian las causas)\n👉Cto 143 Batey Heriberto Duquezne \n👉Cto 71 Buena Vista",
     "timestamp": 1774021353,
     "timestamp_local": 1774021353
-  },
-  {
-    "id": 42489,
-    "fecha": "20 de Mar del 2026 a las 11:38 AM",
-    "hora_utc": "2026-03-20 15:38",
-    "mensaje": "💡 Restablecido el servicio eléctrico en el siguiente circuito:\n🔹Municipio Santa Clara:\n👉Cto 1 (Consejo- Centro)",
-    "timestamp": 1774021095,
-    "timestamp_local": 1774021095
-  },
-  {
-    "id": 42488,
-    "fecha": "20 de Mar del 2026 a las 11:37 AM",
-    "hora_utc": "2026-03-20 15:37",
-    "mensaje": "⚠️Afectado por déficit de capacidad de generación el siguiente circuito:\n🔹Municipio Santa Clara: \n👉Cto 26 (Manuelita)",
-    "timestamp": 1774021032,
-    "timestamp_local": 1774021032
   }
 ]
