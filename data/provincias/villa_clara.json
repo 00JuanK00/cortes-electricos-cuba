@@ -1,5 +1,29 @@
 [
   {
+    "id": 42515,
+    "fecha": "20 de Mar del 2026 a las 05:00 PM",
+    "hora_utc": "2026-03-20 21:00",
+    "mensaje": "Afectados 94 MW en la provincia, demanda máxima a apagar en estos momentos.",
+    "timestamp": 1774040422,
+    "timestamp_local": 1774040422
+  },
+  {
+    "id": 42514,
+    "fecha": "20 de Mar del 2026 a las 04:54 PM",
+    "hora_utc": "2026-03-20 20:54",
+    "mensaje": "🛠️Afectada por manipulación la línea del 1920 por parte de Sancti Spíritus:\n🔹Municipio Placetas:\n👉Ctos 101 y 145 Cumbre\n👉Cto 107 Baez\n👉Cto 105 Nazareno",
+    "timestamp": 1774040055,
+    "timestamp_local": 1774040055
+  },
+  {
+    "id": 42513,
+    "fecha": "20 de Mar del 2026 a las 04:52 PM",
+    "hora_utc": "2026-03-20 20:52",
+    "mensaje": "⚠️Afectados por déficit de capacidad de generación los siguientes circuitos:\n🔹Municipio Manicaragua:\n👉Ctos 109 y 150\n👉Ctos 108 y 110 La Piedra\n👉Cto 111 Mataguá\n🔹Municipio Santa Clara:\n**👉Cto 31 SC. Industrial**",
+    "timestamp": 1774039978,
+    "timestamp_local": 1774039978
+  },
+  {
     "id": 42512,
     "fecha": "20 de Mar del 2026 a las 04:08 PM",
     "hora_utc": "2026-03-20 20:08",
@@ -134,29 +158,5 @@
     "mensaje": "💡 Restablecido el servicio eléctrico en  los siguientes circuitos:\n🔹Municipio Santo Domingo:\n👉Cto 195 Batey George Washington\n👉Ctos 83 y 165 Manacas\n👉Cto 85 Pajarito\n👉Ctos 160 y 161 Cascajal\n🔹Municipio Encrucijada:\n👉Cto 122 Encrucijada  \n👉Cto 123 Vizcaya \n👉Cto 142 Comunidad La Sierra \n👉Cto 126 Batey Emilio Córdova\n👉Cto 125 Cavarrocas\n👉Cto 124 El Santo\n🔹Municipio Camajuaní:                                                              \n👉Cto 78 Jutiero\n👉Cto 75 La Quinta\n👉Cto 157 Luis Arcos Bergnes\n👉Ctos 76 y 90 Vega Alta\n🔹Municipio Santo Domingo:\n👉Cto 134\n👉Ctos 87 y 96 Bermejal\n👉Cto 187 Batey Carlos Baliño\n👉Cto 82 Ulacia\n👉Cto 84 Rodrigo",
     "timestamp": 1774026195,
     "timestamp_local": 1774026195
-  },
-  {
-    "id": 42495,
-    "fecha": "20 de Mar del 2026 a las 12:36 PM",
-    "hora_utc": "2026-03-20 16:36",
-    "mensaje": "💡 Restablecido el servicio eléctrico en el siguiente circuito:\n🔹Municipio Santa Clara:\n👉Cto 167 (Virginia)",
-    "timestamp": 1774024564,
-    "timestamp_local": 1774024564
-  },
-  {
-    "id": 42494,
-    "fecha": "20 de Mar del 2026 a las 12:32 PM",
-    "hora_utc": "2026-03-20 16:32",
-    "mensaje": "⚠️Afectado por déficit de capacidad de generación los siguientes circuitos:\n🔹Municipio Manicaragua\n👉Ctos 109 y 150\n👉Ctos 108 y 110 La Piedra\n👉Cto 111 Mataguá",
-    "timestamp": 1774024371,
-    "timestamp_local": 1774024371
-  },
-  {
-    "id": 42493,
-    "fecha": "20 de Mar del 2026 a las 12:28 PM",
-    "hora_utc": "2026-03-20 16:28",
-    "mensaje": "🛠️Afectado por Via Libre circuito 31 (Sakenaf) para cerrar puentes.",
-    "timestamp": 1774024135,
-    "timestamp_local": 1774024135
   }
 ]
