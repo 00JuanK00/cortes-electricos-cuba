@@ -1,5 +1,21 @@
 [
   {
+    "id": 42536,
+    "fecha": "20 de Mar del 2026 a las 11:03 PM",
+    "hora_utc": "2026-03-21 03:03",
+    "mensaje": "Afectados 95 MW en la provincia, demanda máxima a apagar en estos momentos.",
+    "timestamp": 1774062229,
+    "timestamp_local": 1774062229
+  },
+  {
+    "id": 42535,
+    "fecha": "20 de Mar del 2026 a las 10:21 PM",
+    "hora_utc": "2026-03-21 02:21",
+    "mensaje": "🔸Actualización del servicio eléctrico en la provincia🔸\n👉De los circuitos apagables que presenta la provincia, se mantienen  afectados 132 circuitos.\n👉En el momento de hacer esta nota la provincia tiene 107 MW de afectación.\n👉Cuenta con 152 afectaciones por averías secundarias y de servicio.",
+    "timestamp": 1774059710,
+    "timestamp_local": 1774059710
+  },
+  {
     "id": 42534,
     "fecha": "20 de Mar del 2026 a las 09:01 PM",
     "hora_utc": "2026-03-21 01:01",
@@ -134,21 +150,5 @@
     "mensaje": "💡Restablecido el servicio eléctrico en la línea del 1920:\n🔹Municipio Placetas:\n👉Ctos 101 y 145 Cumbre\n👉Cto 107 Baez\n👉Cto 105 Nazareno",
     "timestamp": 1774040897,
     "timestamp_local": 1774040897
-  },
-  {
-    "id": 42515,
-    "fecha": "20 de Mar del 2026 a las 05:00 PM",
-    "hora_utc": "2026-03-20 21:00",
-    "mensaje": "Afectados 94 MW en la provincia, demanda máxima a apagar en estos momentos.",
-    "timestamp": 1774040422,
-    "timestamp_local": 1774040422
-  },
-  {
-    "id": 42514,
-    "fecha": "20 de Mar del 2026 a las 04:54 PM",
-    "hora_utc": "2026-03-20 20:54",
-    "mensaje": "🛠️Afectada por manipulación la línea del 1920 por parte de Sancti Spíritus:\n🔹Municipio Placetas:\n👉Ctos 101 y 145 Cumbre\n👉Cto 107 Baez\n👉Cto 105 Nazareno",
-    "timestamp": 1774040055,
-    "timestamp_local": 1774040055
   }
 ]
