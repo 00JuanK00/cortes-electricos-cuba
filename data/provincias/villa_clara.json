@@ -1,9 +1,49 @@
 [
   {
+    "id": 42598,
+    "fecha": "21 de Mar del 2026 a las 02:15 PM",
+    "hora_utc": "2026-03-21 18:15",
+    "mensaje": "💡Restablecido el servicio eléctrico en el circuito 85 Pajarito.",
+    "timestamp": 1774116950,
+    "timestamp_local": 1774116950
+  },
+  {
+    "id": 42597,
+    "fecha": "21 de Mar del 2026 a las 02:10 PM",
+    "hora_utc": "2026-03-21 18:10",
+    "mensaje": "⚠️Afectados por déficit de capacidad de generación los siguientes circuitos:\n🔹Municipio Santa Clara \n👉Cto 3 ( Consejo Centro)\n👉Cto 6 Vigía",
+    "timestamp": 1774116622,
+    "timestamp_local": 1774116622
+  },
+  {
+    "id": 42596,
+    "fecha": "21 de Mar del 2026 a las 02:08 PM",
+    "hora_utc": "2026-03-21 18:08",
+    "mensaje": "🛠️Afectado por avería circuito 37 Yabu perteneciente al municipio de Santa Clara.",
+    "timestamp": 1774116530,
+    "timestamp_local": 1774116530
+  },
+  {
+    "id": 42595,
+    "fecha": "21 de Mar del 2026 a las 02:07 PM",
+    "hora_utc": "2026-03-21 18:07",
+    "mensaje": "💡Restablecido el servicio eléctrico en línea 861.",
+    "timestamp": 1774116474,
+    "timestamp_local": 1774116474
+  },
+  {
+    "id": 42594,
+    "fecha": "21 de Mar del 2026 a las 02:02 PM",
+    "hora_utc": "2026-03-21 18:02",
+    "mensaje": "⚡Afectado por manipulación línea 861\n🔹Municipio Santa Clara:\n👉Cto 5 (Dobarganes)\n👉Cto 17 (Subplanta) \n👉Ctos 37 y 38 (Yabú)   \n👉Cto 9 (Moldes y Troqueles)\n👉Cto 133 (Taller Cafetera)",
+    "timestamp": 1774116161,
+    "timestamp_local": 1774116161
+  },
+  {
     "id": 42593,
     "fecha": "21 de Mar del 2026 a las 01:52 PM",
     "hora_utc": "2026-03-21 17:52",
-    "mensaje": "💡Restablecido el servicio eléctrico en los siguientes circuitos:\n🔹Municipio Santa Clara\n👉Cto 168 (Condado- XX Aniversario)",
+    "mensaje": "💡Restablecido el servicio eléctrico en el siguiente circuito:\n🔹Municipio Santa Clara\n👉Cto 168 (Condado- XX Aniversario)",
     "timestamp": 1774115521,
     "timestamp_local": 1774115521
   },
@@ -110,45 +150,5 @@
     "mensaje": "⚠️Afectados por déficit de capacidad de generación los siguientes circuitos:\n🔹Municipio Sagua \n👉Ctos 43 y 51",
     "timestamp": 1774110283,
     "timestamp_local": 1774110283
-  },
-  {
-    "id": 42578,
-    "fecha": "21 de Mar del 2026 a las 12:24 PM",
-    "hora_utc": "2026-03-21 16:24",
-    "mensaje": "💡Restablecido el servicio eléctrico en el Cto 147 Villa Alegre perteneciente al municipio de Sagua.",
-    "timestamp": 1774110251,
-    "timestamp_local": 1774110251
-  },
-  {
-    "id": 42577,
-    "fecha": "21 de Mar del 2026 a las 12:21 PM",
-    "hora_utc": "2026-03-21 16:21",
-    "mensaje": "💡Restablecido el servicio eléctrico en el Cto 66 Las Torres.",
-    "timestamp": 1774110089,
-    "timestamp_local": 1774110089
-  },
-  {
-    "id": 42576,
-    "fecha": "21 de Mar del 2026 a las 12:20 PM",
-    "hora_utc": "2026-03-21 16:20",
-    "mensaje": "🕛Actualización del servicio eléctrico. \n✍️El déficit de capacidad de generación en estos momentos es de 72 MW. \n✍️En el momento de esta nota, se mantienen afectados 78 circuitos.\n✍️Cuenta con 154 afectaciones por averías secundarias y de servicio:\n🔸Caibarién (7)\n🔸Camajuaní (3)\n🔸Cifuentes (3)\n🔸Corralillo (7)\n🔸Encrucijada (2)\n🔸Manicaragua (10)\n🔸Placetas (4)\n🔸Ranchuelo (11)\n🔸Remedios (12)\n🔸Sagua (16)\n🔸Santa Clara (67)\n🔸Santo Domingo (9)\n🛠️Pendientes a solucionar por el área técnica 16.\n🛠️ Se encuentran 8 avería en vías de solución.\n✅Afectado por Via Libre el Cto 85 Pajarito perteneciente al municipio de Santo Domingo para reparar primario partido.",
-    "timestamp": 1774110042,
-    "timestamp_local": 1774110042
-  },
-  {
-    "id": 42575,
-    "fecha": "21 de Mar del 2026 a las 11:53 AM",
-    "hora_utc": "2026-03-21 15:53",
-    "mensaje": "Se encuentra afectado por Via Libre el cto 85 Pajarito perteneciente al municipio de Santo Domingo para reparar primario partido.",
-    "timestamp": 1774108438,
-    "timestamp_local": 1774108438
-  },
-  {
-    "id": 42574,
-    "fecha": "21 de Mar del 2026 a las 11:44 AM",
-    "hora_utc": "2026-03-21 15:44",
-    "mensaje": "⚠️Afectados por déficit de capacidad de generación los siguientes circuitos:\n🔹Municipio Caibarien\n👉Ctos 61 y 62 \n👉Ctos 182 y 183 Van Troy",
-    "timestamp": 1774107895,
-    "timestamp_local": 1774107895
   }
 ]
