@@ -1,5 +1,29 @@
 [
   {
+    "id": 42605,
+    "fecha": "21 de Mar del 2026 a las 03:17 PM",
+    "hora_utc": "2026-03-21 19:17",
+    "mensaje": "Afectados 66 MW en la provincia, demanda máxima a apagar en estos momentos.",
+    "timestamp": 1774120632,
+    "timestamp_local": 1774120632
+  },
+  {
+    "id": 42604,
+    "fecha": "21 de Mar del 2026 a las 03:06 PM",
+    "hora_utc": "2026-03-21 19:06",
+    "mensaje": "💡Restablecido el servicio eléctrico en los siguientes circuitos:\n🔹Municipio Cifuentes:\n👉Ctos 114 y 117\n👉Ctos 116 y 155 Mata\n👉Cto 186 Batey Unidad Proletaria\n👉Cto 184 Sitio Grande",
+    "timestamp": 1774120003,
+    "timestamp_local": 1774120003
+  },
+  {
+    "id": 42603,
+    "fecha": "21 de Mar del 2026 a las 03:05 PM",
+    "hora_utc": "2026-03-21 19:05",
+    "mensaje": "💡Restablecido el servicio eléctrico en la línea 1215 perteneciente al municipio de Sagua.",
+    "timestamp": 1774119956,
+    "timestamp_local": 1774119956
+  },
+  {
     "id": 42601,
     "fecha": "21 de Mar del 2026 a las 02:40 PM",
     "hora_utc": "2026-03-21 18:40",
@@ -118,29 +142,5 @@
     "mensaje": "⚠️Afectados por déficit de capacidad de generación los siguientes circuitos:\n🔹Municipio Placetas \n👉Ctos 100 y 151 Placetas\n👉Cto 104 Hermanos Amejeiras\n👉Cto 103 Batey Carbó Servía",
     "timestamp": 1774113686,
     "timestamp_local": 1774113686
-  },
-  {
-    "id": 42585,
-    "fecha": "21 de Mar del 2026 a las 01:03 PM",
-    "hora_utc": "2026-03-21 17:03",
-    "mensaje": "💡Restablecido el servicio eléctrico en las líneas 1960 y 1910.",
-    "timestamp": 1774112617,
-    "timestamp_local": 1774112617
-  },
-  {
-    "id": 42584,
-    "fecha": "21 de Mar del 2026 a las 12:53 PM",
-    "hora_utc": "2026-03-21 16:53",
-    "mensaje": "⚠️Afectados por déficit de capacidad de generación los siguientes circuitos:\n🔹Municipio Encrucijada:\n👉Cto 122 Encrucijada  \n👉Cto 123 Vizcaya \n👉Cto 142 Comunidad La Sierra \n👉Cto 126 Batey Emilio Córdova\n👉Cto 125 Cavarrocas\n👉Cto 124 El Santo\n🔹Municipio Camajuaní:                                                              \n👉Cto 78 Jutiero",
-    "timestamp": 1774112003,
-    "timestamp_local": 1774112003
-  },
-  {
-    "id": 42583,
-    "fecha": "21 de Mar del 2026 a las 12:47 PM",
-    "hora_utc": "2026-03-21 16:47",
-    "mensaje": "Afectadas por DAF las siguientes lineas:\n👉Línea 1960 \n🔹Municipio Encrucijada\nCto 120 Calabazar ( en via libre)\nCtos 121 y 127 Perucho\n👉Línea 1915  \n🔹Municipio Placetas:\nCto 192 Benito Juárez\nCto 102 Peroti\n👉Línea 1910\n🔹Municipio Placetas \nCtos 100 y 151 Placetas\nCto 104 Hermanos Amejeiras\nCto 103 Batey Carbó Servía",
-    "timestamp": 1774111679,
-    "timestamp_local": 1774111679
   }
 ]
