@@ -1,5 +1,21 @@
 [
   {
+    "id": 42567,
+    "fecha": "21 de Mar del 2026 a las 11:09 AM",
+    "hora_utc": "2026-03-21 15:09",
+    "mensaje": "⚠️Afectado por déficit de capacidad de generación el siguiente circuito:\n🔹Municipio Santa Clara:\n👉Cto 13 Zona Industrial",
+    "timestamp": 1774105772,
+    "timestamp_local": 1774105772
+  },
+  {
+    "id": 42566,
+    "fecha": "21 de Mar del 2026 a las 11:03 AM",
+    "hora_utc": "2026-03-21 15:03",
+    "mensaje": "🔸Actualización del servicio eléctrico en la provincia🔸\n👉De los circuitos apagables que presenta la provincia, se mantienen  afectados 71 circuitos.\n👉En el momento de hacer esta nota la provincia tiene 64 MW de afectación.\n👉Cuenta con 142 afectaciones por averías secundarias y de servicio.",
+    "timestamp": 1774105395,
+    "timestamp_local": 1774105395
+  },
+  {
     "id": 42565,
     "fecha": "21 de Mar del 2026 a las 10:56 AM",
     "hora_utc": "2026-03-21 14:56",
@@ -142,21 +158,5 @@
     "mensaje": "🔸Actualización del servicio eléctrico en la provincia🔸\n👉De los circuitos apagables que presenta la provincia, se mantienen  afectados 115 circuitos.\n👉En el momento de hacer esta nota la provincia tiene 93 MW de afectación.\n👉Cuenta con 130 afectaciones por averías secundarias y de servicio.",
     "timestamp": 1774095602,
     "timestamp_local": 1774095602
-  },
-  {
-    "id": 42547,
-    "fecha": "21 de Mar del 2026 a las 07:42 AM",
-    "hora_utc": "2026-03-21 11:42",
-    "mensaje": "🚨Nota informativa🚨\n\n\n📅Situación del SEN para el 21 de marzo de 2026.\n\n\n👉 En el día de ayer se afectó el servicio por déficit de capacidad durante las 24 horas y se ha mantenido la afectación durante la madrugada de hoy. La máxima afectación por déficit de capacidad de generación en el día de ayer fue de 1782 MW a las 19:40 horas.\n\n\n☀️ La producción de energía de los 51 nuevos parques solares fotovoltaicos fue de 3012 MWh, con 428 MW como máxima potencia entregada en el horario de la media con esta fuente de generación. \n\n👉 La disponibilidad del SEN a las 06:00 horas es de 1130 MW, la demanda 2150 MW, con 1032 MW afectados. En el horario de la media se estima una afectación de 1100 MW.  \n\n🛠️ Se encuentran en avería, las unidades 5 y 8 de la CTE Mariel, las unidades 1,2 y 3 de la CTE Santa Cruz, la unidad 2 de la CTE Felton y las unidades 3 y 6 de la CTE Renté. Se encuentran en mantenimiento, la unidad 6 de la CTE Mariel y la unidad 5 de la CTE Nuevitas.\n\n▪️Las limitaciones en la generación térmica son de 385 MW.\n\n📈 Para el pico se pronostica la entrada de la unidad 2 de la CTE Santa Cruz con 80 MW.\n  \n📝 Con este pronóstico se espera para el pico una disponibilidad de 1210 MW con una demanda máxima de 2950 MW, para un déficit de 1740 MW, por lo que de mantenerse las condiciones previstas se pronostica una afectación de 1770 MW en este horario.\n\n\nUNE-MINEM---07:00 horas.",
-    "timestamp": 1774093354,
-    "timestamp_local": 1774093354
-  },
-  {
-    "id": 42546,
-    "fecha": "21 de Mar del 2026 a las 07:01 AM",
-    "hora_utc": "2026-03-21 11:01",
-    "mensaje": "Afectados 89 MW en la provincia, demanda máxima a apagar en estos momentos.",
-    "timestamp": 1774090882,
-    "timestamp_local": 1774090882
   }
 ]
