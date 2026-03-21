@@ -1,5 +1,29 @@
 [
   {
+    "id": 42601,
+    "fecha": "21 de Mar del 2026 a las 02:40 PM",
+    "hora_utc": "2026-03-21 18:40",
+    "mensaje": "🔸Actualización del servicio eléctrico en la provincia🔸\n👉De los circuitos apagables que presenta la provincia, se mantienen  afectados 79 circuitos.\n👉En el momento de hacer esta nota la provincia tiene 67 MW de afectación.\n👉Cuenta con 151 afectaciones por averías secundarias y de servicio.",
+    "timestamp": 1774118427,
+    "timestamp_local": 1774118427
+  },
+  {
+    "id": 42600,
+    "fecha": "21 de Mar del 2026 a las 02:26 PM",
+    "hora_utc": "2026-03-21 18:26",
+    "mensaje": "💡Restablecido el servicio eléctrico en los siguientes circuitos:\n🔹Municipio Santa Clara \n👉Cto 7 (Universidad)  \n👉Cto 131 (Las Antillas)\n👉Cto 22 (Construcciones Textil)\n👉Cto 14 Maleza",
+    "timestamp": 1774117615,
+    "timestamp_local": 1774117615
+  },
+  {
+    "id": 42599,
+    "fecha": "21 de Mar del 2026 a las 02:20 PM",
+    "hora_utc": "2026-03-21 18:20",
+    "mensaje": "⚠️Afectados por déficit de capacidad de generación los siguientes circuitos:\n🔹Municipio Camajuaní\n👉 Ctos 129 y 156 \n👉Cto 74 José María Pérez\n🔹Municipio Placetas:\n👉Cto 107 Baez\n👉Cto 105 Nazareno\n🔹Municipio Santa Clara\n👉Cto 39 (Sandino)",
+    "timestamp": 1774117225,
+    "timestamp_local": 1774117225
+  },
+  {
     "id": 42598,
     "fecha": "21 de Mar del 2026 a las 02:15 PM",
     "hora_utc": "2026-03-21 18:15",
@@ -118,37 +142,5 @@
     "mensaje": "Afectadas por DAF las siguientes lineas:\n👉Línea 1960 \n🔹Municipio Encrucijada\nCto 120 Calabazar ( en via libre)\nCtos 121 y 127 Perucho\n👉Línea 1915  \n🔹Municipio Placetas:\nCto 192 Benito Juárez\nCto 102 Peroti\n👉Línea 1910\n🔹Municipio Placetas \nCtos 100 y 151 Placetas\nCto 104 Hermanos Amejeiras\nCto 103 Batey Carbó Servía",
     "timestamp": 1774111679,
     "timestamp_local": 1774111679
-  },
-  {
-    "id": 42582,
-    "fecha": "21 de Mar del 2026 a las 12:42 PM",
-    "hora_utc": "2026-03-21 16:42",
-    "mensaje": "🛠️Afectado el Cto 120 Calabazar de manera parcial por Vía Libre para realizar trabajos operativos",
-    "timestamp": 1774111379,
-    "timestamp_local": 1774111379
-  },
-  {
-    "id": 42581,
-    "fecha": "21 de Mar del 2026 a las 12:34 PM",
-    "hora_utc": "2026-03-21 16:34",
-    "mensaje": "⚠️Continúan afectados por déficit de capacidad de generación los siguientes circuitos:\n🔹Municipio Cifuentes:\n👉Ctos 114 y 117\n👉Ctos 116 y 155 Mata\n👉Cto 186 Batey Unidad Proletaria\n👉Cto 184 Sitio Grande",
-    "timestamp": 1774110859,
-    "timestamp_local": 1774110859
-  },
-  {
-    "id": 42580,
-    "fecha": "21 de Mar del 2026 a las 12:31 PM",
-    "hora_utc": "2026-03-21 16:31",
-    "mensaje": "⚠️Afectados por déficit de capacidad de generación los siguientes circuitos:\n🔹Municipio Camajuaní:\n👉Ctos 77 y 185 Vueltas \n🔹Municipio Placetas:\n👉Ctos 101 y 145 Cumbre\n🔹Municipio Quemado:\n👉Ctos 164, 52 y 53 Quemado.",
-    "timestamp": 1774110719,
-    "timestamp_local": 1774110719
-  },
-  {
-    "id": 42579,
-    "fecha": "21 de Mar del 2026 a las 12:24 PM",
-    "hora_utc": "2026-03-21 16:24",
-    "mensaje": "⚠️Afectados por déficit de capacidad de generación los siguientes circuitos:\n🔹Municipio Sagua \n👉Ctos 43 y 51",
-    "timestamp": 1774110283,
-    "timestamp_local": 1774110283
   }
 ]
