@@ -1,5 +1,45 @@
 [
   {
+    "id": 42565,
+    "fecha": "21 de Mar del 2026 a las 10:56 AM",
+    "hora_utc": "2026-03-21 14:56",
+    "mensaje": "⚠️Afectados por déficit de capacidad de generación los siguientes circuitos:\n🔹Municipio Ranchuelo:\n👉Cto 92 Esperanza (Pueblo)\n👉Cto 93 Esperanza (Campo)\n🔹Municipio Santa Clara\n👉Ctos 26 y 141 (Manuelita)\n👉Cto 191 (Quemado de Hilario)                                           \n🔹Municipio Santo Domingo\n👉Cto 79 (Santo Domingo)\n👉Cto 81 (26 de Julio)\n👉Cto 163 (Batey 26 de Julio",
+    "timestamp": 1774105017,
+    "timestamp_local": 1774105017
+  },
+  {
+    "id": 42564,
+    "fecha": "21 de Mar del 2026 a las 10:47 AM",
+    "hora_utc": "2026-03-21 14:47",
+    "mensaje": "🛠️ Afectado por emergencia línea 1960 por cruceta partida \n🔹Municipio Encrucijada\n👉Cto 120 Calabazar\n👉Ctos 121 y 127 Perucho",
+    "timestamp": 1774104448,
+    "timestamp_local": 1774104448
+  },
+  {
+    "id": 42563,
+    "fecha": "21 de Mar del 2026 a las 10:36 AM",
+    "hora_utc": "2026-03-21 14:36",
+    "mensaje": "⚠️Afectados por déficit de capacidad de generación los siguientes circuitos:\n🔹Municipio Santa Clara\n👉Cto 146 (Elevado Aeropuerto) \n👉Cto 131 (Las Antillas)\n👉Cto 153 (EIDE)\n👉Cto 25 (Los Güiros)\n👉Cto 24 (Planta Asfalto)\n👉Cto 35 (Biotecnología)",
+    "timestamp": 1774103812,
+    "timestamp_local": 1774103812
+  },
+  {
+    "id": 42562,
+    "fecha": "21 de Mar del 2026 a las 10:26 AM",
+    "hora_utc": "2026-03-21 14:26",
+    "mensaje": "⚠️Afectados por déficit de capacidad de generación los siguientes circuitos:\n🔹Municipio Santa Clara\n👉Cto 15 y Cto 27 (Maleza)",
+    "timestamp": 1774103206,
+    "timestamp_local": 1774103206
+  },
+  {
+    "id": 42561,
+    "fecha": "21 de Mar del 2026 a las 10:03 AM",
+    "hora_utc": "2026-03-21 14:03",
+    "mensaje": "💡 Restablecido el servicio eléctrico en los siguientes circuitos:\n🔹Municipio Camajuaní:\n👉129 y 156\n👉Cto 74 José María Pérez",
+    "timestamp": 1774101815,
+    "timestamp_local": 1774101815
+  },
+  {
     "id": 42560,
     "fecha": "21 de Mar del 2026 a las 09:53 AM",
     "hora_utc": "2026-03-21 13:53",
@@ -118,37 +158,5 @@
     "mensaje": "Afectados 89 MW en la provincia, demanda máxima a apagar en estos momentos.",
     "timestamp": 1774090882,
     "timestamp_local": 1774090882
-  },
-  {
-    "id": 42545,
-    "fecha": "21 de Mar del 2026 a las 06:03 AM",
-    "hora_utc": "2026-03-21 10:03",
-    "mensaje": "🕕Actualización del servicio eléctrico. \n✍️El déficit de capacidad de generación en estos momentos es de 86 MW. \n✍️En el momento de esta nota, se mantienen afectados 126 circuitos.\n✍️Cuenta con 127 afectaciones por averías secundarias y de servicio:\n🔸Caibarién (5)\n🔸Camajuaní (1)\n🔸Cifuentes (1)\n🔸Corralillo (7)\n🔸Manicaragua (10)\n🔸Placetas (4)\n🔸Ranchuelo (4)\n🔸Remedios (14)\n🔸Sagua (13)\n🔸Santa Clara (64)\n🔸Santo Domingo (4)\n🛠️Pendientes a solucionar por el área técnica 19.\n🛠️ Se encuentran 2 avería en vías de solución.\n✅En estos momentos la provincia no presenta averías primarias.",
-    "timestamp": 1774087404,
-    "timestamp_local": 1774087404
-  },
-  {
-    "id": 42544,
-    "fecha": "21 de Mar del 2026 a las 06:01 AM",
-    "hora_utc": "2026-03-21 10:01",
-    "mensaje": "🚨Usted puede mantenerse informado por nuestras redes🛜, y unirse a nuestro canal de Telegram, para usted trabajamos🛠️ , para darle una actualización  clara y precisa de cómo se está comportando el Sistema Eléctrico Nacional💡, puede llamar☎️ al 18888, donde prestamos servicio las 24 horas.",
-    "timestamp": 1774087260,
-    "timestamp_local": 1774087260
-  },
-  {
-    "id": 42543,
-    "fecha": "21 de Mar del 2026 a las 06:00 AM",
-    "hora_utc": "2026-03-21 10:00",
-    "mensaje": "✅Ante cualquier duda con la terminología eléctrica, les volvemos explicar: \n     \n✍️Las averías pueden ser primarias (afecta un volumen grande de población pues son las líneas de distribución a 13.8kV y puede afectar varias manzanas, incluso repartos completos).\n\n✍️Secundarias (afecta a todos los clientes que se alimenten del mismo transformador, puede afectar una o varias cuadras). \n\n✍️De servicio (afectan 1 solo cliente o instalación generalmente producto a daños en la acometida, metro contador, etc.).",
-    "timestamp": 1774087226,
-    "timestamp_local": 1774087226
-  },
-  {
-    "id": 42542,
-    "fecha": "21 de Mar del 2026 a las 05:59 AM",
-    "hora_utc": "2026-03-21 09:59",
-    "mensaje": "Afectados 80 MW en la provincia, demanda máxima a apagar en estos momentos.",
-    "timestamp": 1774087180,
-    "timestamp_local": 1774087180
   }
 ]
