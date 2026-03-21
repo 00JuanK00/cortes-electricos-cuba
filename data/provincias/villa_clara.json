@@ -1,5 +1,21 @@
 [
   {
+    "id": 42615,
+    "fecha": "21 de Mar del 2026 a las 06:10 PM",
+    "hora_utc": "2026-03-21 22:10",
+    "mensaje": "🕕Actualización del servicio eléctrico. \n✍️El déficit de capacidad de generación en estos momentos es de 135 MW. \n✍️En el momento de esta nota, se mantienen afectados 118 circuitos.\n✍️Cuenta con 177 afectaciones por averías secundarias y de servicio:\n🔸Caibarién (5)\n🔸Cifuentes (1)\n🔸Corralillo (3)\n🔸Encrucijada (8)\n🔸Manicaragua (11)\n🔸Placetas (5)\n🔸Ranchuelo (9)\n🔸Remedios (13)\n🔸Sagua (13)\n🔸Santa Clara (71)\n🔸Santo Domingo (12)\n🛠️Pendientes a solucionar por el área técnica 15.\n🛠️ Se encuentran 11 avería en vías de solución.\n⚡Afectado por avería circuito 37 Yabu perteneciente al municipio de Santa Clara.",
+    "timestamp": 1774131034,
+    "timestamp_local": 1774131034
+  },
+  {
+    "id": 42614,
+    "fecha": "21 de Mar del 2026 a las 05:54 PM",
+    "hora_utc": "2026-03-21 21:54",
+    "mensaje": "⚠️Afectados por déficit de capacidad de generación los siguientes circuitos:\n🔹Municipio Santa Clara:\n👉Ctos 132, 162 y 31\n🔹Municipio Sagua \n👉Cto 48 Finalet\n👉Ctos 46 y 128 Sitiecito",
+    "timestamp": 1774130052,
+    "timestamp_local": 1774130052
+  },
+  {
     "id": 42613,
     "fecha": "21 de Mar del 2026 a las 05:49 PM",
     "hora_utc": "2026-03-21 21:49",
@@ -134,21 +150,5 @@
     "mensaje": "🛠️Afectado por avería circuito 37 Yabu perteneciente al municipio de Santa Clara.",
     "timestamp": 1774116530,
     "timestamp_local": 1774116530
-  },
-  {
-    "id": 42595,
-    "fecha": "21 de Mar del 2026 a las 02:07 PM",
-    "hora_utc": "2026-03-21 18:07",
-    "mensaje": "💡Restablecido el servicio eléctrico en línea 861.",
-    "timestamp": 1774116474,
-    "timestamp_local": 1774116474
-  },
-  {
-    "id": 42594,
-    "fecha": "21 de Mar del 2026 a las 02:02 PM",
-    "hora_utc": "2026-03-21 18:02",
-    "mensaje": "⚡Afectado por manipulación línea 861\n🔹Municipio Santa Clara:\n👉Cto 5 (Dobarganes)\n👉Cto 17 (Subplanta) \n👉Ctos 37 y 38 (Yabú)   \n👉Cto 9 (Moldes y Troqueles)\n👉Cto 133 (Taller Cafetera)",
-    "timestamp": 1774116161,
-    "timestamp_local": 1774116161
   }
 ]
