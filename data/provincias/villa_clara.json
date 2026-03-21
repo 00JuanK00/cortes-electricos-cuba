@@ -1,5 +1,53 @@
 [
   {
+    "id": 42593,
+    "fecha": "21 de Mar del 2026 a las 01:52 PM",
+    "hora_utc": "2026-03-21 17:52",
+    "mensaje": "💡Restablecido el servicio eléctrico en los siguientes circuitos:\n🔹Municipio Santa Clara\n👉Cto 168 (Condado- XX Aniversario)",
+    "timestamp": 1774115521,
+    "timestamp_local": 1774115521
+  },
+  {
+    "id": 42592,
+    "fecha": "21 de Mar del 2026 a las 01:48 PM",
+    "hora_utc": "2026-03-21 17:48",
+    "mensaje": "💡Restablecido el servicio eléctrico en los siguientes circuitos:\n🔹Municipio Manicaragua:\n👉109 y 150",
+    "timestamp": 1774115301,
+    "timestamp_local": 1774115301
+  },
+  {
+    "id": 42591,
+    "fecha": "21 de Mar del 2026 a las 01:46 PM",
+    "hora_utc": "2026-03-21 17:46",
+    "mensaje": "⚠️Afectados por déficit de capacidad de generación los siguientes circuitos:\n🔹Municipio Manicaragua:\n👉108 y 110 La Piedra",
+    "timestamp": 1774115206,
+    "timestamp_local": 1774115206
+  },
+  {
+    "id": 42590,
+    "fecha": "21 de Mar del 2026 a las 01:40 PM",
+    "hora_utc": "2026-03-21 17:40",
+    "mensaje": "⚠️Afectados por déficit de capacidad de generación los siguientes circuitos:\n🔹Municipio Ranchuelo\n👉Ctos 89, 97, 188 y 189\n👉Ctos 148 y 149 San Juan\n👉Cto 91 Batey Osvaldo Herrera\n👉Cto 181 Batey Ifraín Alfonso",
+    "timestamp": 1774114831,
+    "timestamp_local": 1774114831
+  },
+  {
+    "id": 42589,
+    "fecha": "21 de Mar del 2026 a las 01:34 PM",
+    "hora_utc": "2026-03-21 17:34",
+    "mensaje": "🛠️ Afectada línea 1215 por trabajo en la subestación 110kV.\n🔹Municipio Sagua \n👉Cto 48 Finalet\n👉Ctos 46 y 128 Sitiecito",
+    "timestamp": 1774114475,
+    "timestamp_local": 1774114475
+  },
+  {
+    "id": 42588,
+    "fecha": "21 de Mar del 2026 a las 01:25 PM",
+    "hora_utc": "2026-03-21 17:25",
+    "mensaje": "⚠️Afectados por déficit de capacidad de generación los siguientes circuitos:\n🔹Municipio Placetas:\n👉Cto 192 Benito Juárez\n👉Cto 102 Peroti",
+    "timestamp": 1774113940,
+    "timestamp_local": 1774113940
+  },
+  {
     "id": 42586,
     "fecha": "21 de Mar del 2026 a las 01:21 PM",
     "hora_utc": "2026-03-21 17:21",
@@ -102,61 +150,5 @@
     "mensaje": "⚠️Afectados por déficit de capacidad de generación los siguientes circuitos:\n🔹Municipio Caibarien\n👉Ctos 61 y 62 \n👉Ctos 182 y 183 Van Troy",
     "timestamp": 1774107895,
     "timestamp_local": 1774107895
-  },
-  {
-    "id": 42573,
-    "fecha": "21 de Mar del 2026 a las 11:39 AM",
-    "hora_utc": "2026-03-21 15:39",
-    "mensaje": "💡Restablecido el servicio electrico en los Ctos 160 y 161 Cascajal",
-    "timestamp": 1774107589,
-    "timestamp_local": 1774107589
-  },
-  {
-    "id": 42572,
-    "fecha": "21 de Mar del 2026 a las 11:36 AM",
-    "hora_utc": "2026-03-21 15:36",
-    "mensaje": "⚠️Afectados por déficit de capacidad de generación los siguientes circuitos:\n🔹Municipio Santa Clara\n👉Cto 14 Maleza\n👉Cto 7 (Universidad)  \n👉Cto 22 (Construcciones Textil)",
-    "timestamp": 1774107385,
-    "timestamp_local": 1774107385
-  },
-  {
-    "id": 42571,
-    "fecha": "21 de Mar del 2026 a las 11:31 AM",
-    "hora_utc": "2026-03-21 15:31",
-    "mensaje": "⚠️Afectado por déficit de capacidad de generación el siguiente circuito:\n🔹Municipio Santa Clara \n👉Cto 168 ( Policlinico XX Aniversario)",
-    "timestamp": 1774107067,
-    "timestamp_local": 1774107067
-  },
-  {
-    "id": 42570,
-    "fecha": "21 de Mar del 2026 a las 11:27 AM",
-    "hora_utc": "2026-03-21 15:27",
-    "mensaje": "💡Restablecido el servicio electico en los siguientes circuitos;\n👉Ctos 132 y 162 SC Industrial\n👉Cto 169 Gran Panel",
-    "timestamp": 1774106871,
-    "timestamp_local": 1774106871
-  },
-  {
-    "id": 42569,
-    "fecha": "21 de Mar del 2026 a las 11:23 AM",
-    "hora_utc": "2026-03-21 15:23",
-    "mensaje": "⚡ Afectados por DAF los siguientes circuitos:\n👉Ctos 132 y 162 SC Industrial\n👉Cto 169 Gran Panel",
-    "timestamp": 1774106597,
-    "timestamp_local": 1774106597
-  },
-  {
-    "id": 42568,
-    "fecha": "21 de Mar del 2026 a las 11:21 AM",
-    "hora_utc": "2026-03-21 15:21",
-    "mensaje": "⚡Afectada línea 1915 por DAF\nMunicipio Placetas:\nCto 192 Benito Juárez\nCto 102 Peroti",
-    "timestamp": 1774106490,
-    "timestamp_local": 1774106490
-  },
-  {
-    "id": 42567,
-    "fecha": "21 de Mar del 2026 a las 11:09 AM",
-    "hora_utc": "2026-03-21 15:09",
-    "mensaje": "⚠️Afectado por déficit de capacidad de generación el siguiente circuito:\n🔹Municipio Santa Clara:\n👉Cto 13 Zona Industrial",
-    "timestamp": 1774105772,
-    "timestamp_local": 1774105772
   }
 ]
