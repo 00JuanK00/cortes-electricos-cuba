@@ -1,5 +1,21 @@
 [
   {
+    "id": 42534,
+    "fecha": "20 de Mar del 2026 a las 09:01 PM",
+    "hora_utc": "2026-03-21 01:01",
+    "mensaje": "Afectados 116 MW en la provincia, demanda máxima a apagar en estos momentos.",
+    "timestamp": 1774054904,
+    "timestamp_local": 1774054904
+  },
+  {
+    "id": 42532,
+    "fecha": "20 de Mar del 2026 a las 08:01 PM",
+    "hora_utc": "2026-03-21 00:01",
+    "mensaje": "🔸Actualización del servicio eléctrico en la provincia🔸\n👉De los circuitos apagables que presenta la provincia, se mantienen  afectados 132 circuitos.\n👉En el momento de hacer esta nota la provincia tiene 136 MW de afectación.\n👉Cuenta con 156 afectaciones por averías secundarias y de servicio.",
+    "timestamp": 1774051284,
+    "timestamp_local": 1774051284
+  },
+  {
     "id": 42531,
     "fecha": "20 de Mar del 2026 a las 07:34 PM",
     "hora_utc": "2026-03-20 23:34",
@@ -134,29 +150,5 @@
     "mensaje": "🛠️Afectada por manipulación la línea del 1920 por parte de Sancti Spíritus:\n🔹Municipio Placetas:\n👉Ctos 101 y 145 Cumbre\n👉Cto 107 Baez\n👉Cto 105 Nazareno",
     "timestamp": 1774040055,
     "timestamp_local": 1774040055
-  },
-  {
-    "id": 42513,
-    "fecha": "20 de Mar del 2026 a las 04:52 PM",
-    "hora_utc": "2026-03-20 20:52",
-    "mensaje": "⚠️Afectados por déficit de capacidad de generación los siguientes circuitos:\n🔹Municipio Manicaragua:\n👉Ctos 109 y 150\n👉Ctos 108 y 110 La Piedra\n👉Cto 111 Mataguá\n🔹Municipio Santa Clara:\n**👉Cto 31 SC. Industrial\n👉Ctos 1, 2 y 3 (Consejo- Centro)**",
-    "timestamp": 1774039978,
-    "timestamp_local": 1774039978
-  },
-  {
-    "id": 42512,
-    "fecha": "20 de Mar del 2026 a las 04:08 PM",
-    "hora_utc": "2026-03-20 20:08",
-    "mensaje": "🔸Actualización del servicio eléctrico en la provincia🔸\n👉De los circuitos apagables que presenta la provincia, se mantienen  afectados 93 circuitos.\n👉En el momento de hacer esta nota la provincia tiene 85 MW de afectación.\n👉Cuenta con 182 afectaciones por averías secundarias y de servicio.",
-    "timestamp": 1774037333,
-    "timestamp_local": 1774037333
-  },
-  {
-    "id": 42511,
-    "fecha": "20 de Mar del 2026 a las 04:07 PM",
-    "hora_utc": "2026-03-20 20:07",
-    "mensaje": "💡 Restablecido el servicio eléctrico en los siguientes circuitos:\n🔹Municipio Santa Clara:\n👉Cto 166 (Condado)\n👉Cto 4 (Consejo- Centro)",
-    "timestamp": 1774037252,
-    "timestamp_local": 1774037252
   }
 ]
