@@ -1,5 +1,13 @@
 [
   {
+    "id": 42538,
+    "fecha": "21 de Mar del 2026 a las 01:03 AM",
+    "hora_utc": "2026-03-21 05:03",
+    "mensaje": "Afectados 82 MW en la provincia, demanda máxima a apagar en estos momentos.",
+    "timestamp": 1774069401,
+    "timestamp_local": 1774069401
+  },
+  {
     "id": 42537,
     "fecha": "21 de Mar del 2026 a las 12:12 AM",
     "hora_utc": "2026-03-21 04:12",
@@ -142,13 +150,5 @@
     "mensaje": "⚠️Afectados por déficit de capacidad de generación los siguientes circuitos:\n🔹Municipio Santo Domingo:\n👉Cto 134\n👉Ctos 87 y 96 Bermejal\n👉Cto 187 Batey Carlos Baliño\n👉Cto 82 Ulacia\n👉Cto 84 Rodrigo",
     "timestamp": 1774041656,
     "timestamp_local": 1774041656
-  },
-  {
-    "id": 42517,
-    "fecha": "20 de Mar del 2026 a las 05:19 PM",
-    "hora_utc": "2026-03-20 21:19",
-    "mensaje": "⚠️Se encuentra disparada la línea del 1205:\n🔹Municipio Sagua\n👉Ctos 43, 51 Sagua\n👉Cto 44 Isabela\n👉Ctos 50 y 147 Villa Alegre",
-    "timestamp": 1774041574,
-    "timestamp_local": 1774041574
   }
 ]
