@@ -1,5 +1,21 @@
 [
   {
+    "id": 51331,
+    "fecha": "22 de Mar del 2026 a las 12:50 PM",
+    "hora_utc": "2026-03-22 16:50",
+    "mensaje": "🔴 Estimados clientes, se les reitera que el comportamiento de las afectaciones eléctricas y el restablecimiento del servicio, estará en dependencia de la situación que presente el Sistema Electro energético Nacional.",
+    "timestamp": 1774198232,
+    "timestamp_local": 1774198232
+  },
+  {
+    "id": 51330,
+    "fecha": "22 de Mar del 2026 a las 12:15 PM",
+    "hora_utc": "2026-03-22 16:15",
+    "mensaje": "🔴Empresa Eléctrica de Santiago de Cuba comunica a sus clientes que tiene servicio el circuito 10 (seccionalizado)",
+    "timestamp": 1774196139,
+    "timestamp_local": 1774196139
+  },
+  {
     "id": 51329,
     "fecha": "22 de Mar del 2026 a las 10:58 AM",
     "hora_utc": "2026-03-22 14:58",
@@ -134,21 +150,5 @@
     "mensaje": "🔊El trabajo con los microsistemas puede ser inestable, cuando eso sucede, el circuito vuelve a quedarse sin servicio eléctrico. Es frecuente hasta que se normalice.",
     "timestamp": 1774145763,
     "timestamp_local": 1774145763
-  },
-  {
-    "id": 51310,
-    "fecha": "21 de Mar del 2026 a las 09:42 PM",
-    "hora_utc": "2026-03-22 01:42",
-    "mensaje": "🔊Empresa Eléctrica Santiago de Cuba comunica a sus clientes que ya en la provincia se logró crear un microsistema con los grupos de generación distribuida de los motores de la batería de Santiago del Este, y ya se encuentra sincronizado a este microsistema la batería de Pavón.\n\n➡️Cuentan con servicio eléctrico en estos momentos:\n👉Hospital Clínico Quirúrgico\n👉Banco de Sangre\n👉Hospital Militar\n👉Circuito 9 (seccionalizado)\n👉Circuito 2",
-    "timestamp": 1774143739,
-    "timestamp_local": 1774143739
-  },
-  {
-    "id": 51308,
-    "fecha": "21 de Mar del 2026 a las 09:24 PM",
-    "hora_utc": "2026-03-22 01:24",
-    "mensaje": "🔴 La causa de la desconexión Total del SEN, ocurrió tras la salida de la Unidad No. 6 de Nuevitas. A partir de ese  instante,  ocurre un efecto de cascada en las máquinas que estaban en línea. En este momento se implementa protocolo para gradual recuperación del SEN y son activadas micro islas, micro sistemas para dar energía a Centros vitales, Hospitales y Acueductos. Proceso de restauración, se dirige desde el Despacho Nacional de Carga y se realiza de conjunto con los Despachos de cada provincia y las tecnologías que tributan energía al país, con presencia además de la Unión Cuba Petróleo.",
-    "timestamp": 1774142660,
-    "timestamp_local": 1774142660
   }
 ]
