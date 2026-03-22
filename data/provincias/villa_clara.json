@@ -1,5 +1,21 @@
 [
   {
+    "id": 42693,
+    "fecha": "22 de Mar del 2026 a las 07:11 PM",
+    "hora_utc": "2026-03-22 23:11",
+    "mensaje": "🟢 #AHORA || Queda interconectado el sistema desde Pinar del Río hasta Santiago de Cuba. Se trabaja intensamente para incorporar Granma y Guantánamo.",
+    "timestamp": 1774221075,
+    "timestamp_local": 1774221075
+  },
+  {
+    "id": 42692,
+    "fecha": "22 de Mar del 2026 a las 07:10 PM",
+    "hora_utc": "2026-03-22 23:10",
+    "mensaje": "⚠️Afectado el servicio eléctrico en los circuitos siguientes:\n\n👉Cto 34(Sabana Rebacadero)\n👉Ctos 32 y 33 (RF-33Kv)",
+    "timestamp": 1774221033,
+    "timestamp_local": 1774221033
+  },
+  {
     "id": 42691,
     "fecha": "22 de Mar del 2026 a las 06:50 PM",
     "hora_utc": "2026-03-22 22:50",
@@ -11,7 +27,7 @@
     "id": 42690,
     "fecha": "22 de Mar del 2026 a las 06:48 PM",
     "hora_utc": "2026-03-22 22:48",
-    "mensaje": "⚠️Afectado el servicio eléctrico en los circuitos siguientes:\n\n👉Municipio Ranchuelo:\nCto 92 Esperanza (Pueblo)\nCto 93 Esperanza (Campo)\n👉Municipio Santa Clara\nCtos 26 y 141 (Manuelita)\nCto 191 (Quemado de Hilario)",
+    "mensaje": "⚠️Afectado el servicio eléctrico en los circuitos siguientes:\n👉Municipio Ranchuelo:\nCto 92 Esperanza (Pueblo)\nCto 93 Esperanza (Campo)\n👉Municipio Santa Clara\nCtos 26 y 141 (Manuelita)\nCto 191 (Quemado de Hilario)",
     "timestamp": 1774219731,
     "timestamp_local": 1774219731
   },
@@ -19,7 +35,7 @@
     "id": 42689,
     "fecha": "22 de Mar del 2026 a las 06:29 PM",
     "hora_utc": "2026-03-22 22:29",
-    "mensaje": "⚠️Afectado el servicio eléctrico en los circuitos siguientes:\n\n👉Municipio Manicaragua:\nCtos 113 y 137 La Campana\nCto 112 Hoyo Manicaragua    \n👉Municipio Santa Clara:\nCto 144 (Camacho)",
+    "mensaje": "⚠️Afectado el servicio eléctrico en los circuitos siguientes:\n👉Municipio Manicaragua:\nCtos 113 y 137 La Campana\nCto 112 Hoyo Manicaragua    \n👉Municipio Santa Clara:\nCto 144 (Camacho)",
     "timestamp": 1774218579,
     "timestamp_local": 1774218579
   },
@@ -142,21 +158,5 @@
     "mensaje": "💡Con servicio eléctrico el circuito 6 Vigía.",
     "timestamp": 1774201185,
     "timestamp_local": 1774201185
-  },
-  {
-    "id": 42673,
-    "fecha": "22 de Mar del 2026 a las 01:38 PM",
-    "hora_utc": "2026-03-22 17:38",
-    "mensaje": "Estructura partida línea 110kV Manicaragua.",
-    "timestamp": 1774201138,
-    "timestamp_local": 1774201138
-  },
-  {
-    "id": 42672,
-    "fecha": "22 de Mar del 2026 a las 01:27 PM",
-    "hora_utc": "2026-03-22 17:27",
-    "mensaje": "⚠️Afectado el servicio eléctrico en el circuito 31 SC Industrial.",
-    "timestamp": 1774200476,
-    "timestamp_local": 1774200476
   }
 ]
