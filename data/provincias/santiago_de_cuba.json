@@ -1,5 +1,53 @@
 [
   {
+    "id": 51314,
+    "fecha": "21 de Mar del 2026 a las 11:30 PM",
+    "hora_utc": "2026-03-22 03:30",
+    "mensaje": "🔴 Empresa Eléctrica de Santiago de Cuba comunica a sus clientes que se encuentra con servicio el circuito 10 (seccionalizado).",
+    "timestamp": 1774150215,
+    "timestamp_local": 1774150215
+  },
+  {
+    "id": 51313,
+    "fecha": "21 de Mar del 2026 a las 10:21 PM",
+    "hora_utc": "2026-03-22 02:21",
+    "mensaje": "🔴 Empresa Eléctrica de Santiago de Cuba informa a sus clientes que en estos momentos tiene servicio el Hospital Clínico Quirúrgico.",
+    "timestamp": 1774146078,
+    "timestamp_local": 1774146078
+  },
+  {
+    "id": 51312,
+    "fecha": "21 de Mar del 2026 a las 10:19 PM",
+    "hora_utc": "2026-03-22 02:19",
+    "mensaje": "🔴Empresa Eléctrica de Santiago de Cuba informa a sus clientes la caída  del microsistema que se había logrado crear en la provincia. Nuestros especialistas trabajan para restablecer el servicio eléctrico.",
+    "timestamp": 1774145965,
+    "timestamp_local": 1774145965
+  },
+  {
+    "id": 51311,
+    "fecha": "21 de Mar del 2026 a las 10:16 PM",
+    "hora_utc": "2026-03-22 02:16",
+    "mensaje": "🔊El trabajo con los microsistemas puede ser inestable, cuando eso sucede, el circuito vuelve a quedarse sin servicio eléctrico. Es frecuente hasta que se normalice.",
+    "timestamp": 1774145763,
+    "timestamp_local": 1774145763
+  },
+  {
+    "id": 51310,
+    "fecha": "21 de Mar del 2026 a las 09:42 PM",
+    "hora_utc": "2026-03-22 01:42",
+    "mensaje": "🔊Empresa Eléctrica Santiago de Cuba comunica a sus clientes que ya en la provincia se logró crear un microsistema con los grupos de generación distribuida de los motores de la batería de Santiago del Este, y ya se encuentra sincronizado a este microsistema la batería de Pavón.\n\n➡️Cuentan con servicio eléctrico en estos momentos:\n👉Hospital Clínico Quirúrgico\n👉Banco de Sangre\n👉Hospital Militar\n👉Circuito 9 (seccionalizado)\n👉Circuito 2",
+    "timestamp": 1774143739,
+    "timestamp_local": 1774143739
+  },
+  {
+    "id": 51308,
+    "fecha": "21 de Mar del 2026 a las 09:24 PM",
+    "hora_utc": "2026-03-22 01:24",
+    "mensaje": "🔴 La causa de la desconexión Total del SEN, ocurrió tras la salida de la Unidad No. 6 de Nuevitas. A partir de ese  instante,  ocurre un efecto de cascada en las máquinas que estaban en línea. En este momento se implementa protocolo para gradual recuperación del SEN y son activadas micro islas, micro sistemas para dar energía a Centros vitales, Hospitales y Acueductos. Proceso de restauración, se dirige desde el Despacho Nacional de Carga y se realiza de conjunto con los Despachos de cada provincia y las tecnologías que tributan energía al país, con presencia además de la Unión Cuba Petróleo.",
+    "timestamp": 1774142660,
+    "timestamp_local": 1774142660
+  },
+  {
     "id": 51307,
     "fecha": "21 de Mar del 2026 a las 07:55 PM",
     "hora_utc": "2026-03-21 23:55",
@@ -94,45 +142,5 @@
     "mensaje": "🔴Estimados clientes se les informa que se incorporan a la afectación por Déficit el circuito 12 y lll Frente.",
     "timestamp": 1774111505,
     "timestamp_local": 1774111505
-  },
-  {
-    "id": 51292,
-    "fecha": "21 de Mar del 2026 a las 11:53 AM",
-    "hora_utc": "2026-03-21 15:53",
-    "mensaje": "🔴Estimados clientes se les comunica que se incorporan a la afectación por Déficit  los circuitos 1 y 14 .",
-    "timestamp": 1774108390,
-    "timestamp_local": 1774108390
-  },
-  {
-    "id": 51291,
-    "fecha": "21 de Mar del 2026 a las 11:24 AM",
-    "hora_utc": "2026-03-21 15:24",
-    "mensaje": "🔴Estimados clientes se les comunica que en estos momentos se incorporan a la afectación por Déficit los circuitos 1 de Palma, 4 de Palma, ll Frente, Belleza y Contramaestre.",
-    "timestamp": 1774106651,
-    "timestamp_local": 1774106651
-  },
-  {
-    "id": 51290,
-    "fecha": "21 de Mar del 2026 a las 10:23 AM",
-    "hora_utc": "2026-03-21 14:23",
-    "mensaje": "🔴Circuito en avería:                                                                                                                       \n   Sucede si un circuito se interrumpe por causa de un defecto en un cable conductor de corriente (fase o neutro), un fusible fundido o disyuntor. En sistemas trifásicos una falla puede implicar una fase, más de una fase con la tierra o puede ocurrir solo entre fases.",
-    "timestamp": 1774103037,
-    "timestamp_local": 1774103037
-  },
-  {
-    "id": 51289,
-    "fecha": "21 de Mar del 2026 a las 10:23 AM",
-    "hora_utc": "2026-03-21 14:23",
-    "mensaje": "🔴Estimados clientes se les comunica que se encuentra en Avería el circuito 22 .",
-    "timestamp": 1774103013,
-    "timestamp_local": 1774103013
-  },
-  {
-    "id": 51288,
-    "fecha": "21 de Mar del 2026 a las 09:59 AM",
-    "hora_utc": "2026-03-21 13:59",
-    "mensaje": "🔴Estimados clientes en estos momentos se afectaron por Déficit los circuitos 1 y 2 de Contramaestre .",
-    "timestamp": 1774101599,
-    "timestamp_local": 1774101599
   }
 ]
