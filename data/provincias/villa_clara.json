@@ -1,5 +1,21 @@
 [
   {
+    "id": 42706,
+    "fecha": "23 de Mar del 2026 a las 06:12 AM",
+    "hora_utc": "2026-03-23 10:12",
+    "mensaje": "⚠️Afectado el servicio eléctrico en los siguientes circuitos:\n\n👉Municipio Placetas:\nCto 192 Benito Juárez\nCto 102 Peroti\n👉Municipio Placetas:\nCtos 101 y 145 Cumbre",
+    "timestamp": 1774260739,
+    "timestamp_local": 1774260739
+  },
+  {
+    "id": 42705,
+    "fecha": "23 de Mar del 2026 a las 06:05 AM",
+    "hora_utc": "2026-03-23 10:05",
+    "mensaje": "⚠️Afectado el servicio eléctrico en los siguientes circuitos:\n\nCto 132 SC Industrial\nCto 30 Capiro\nCto 31 SC Industrial",
+    "timestamp": 1774260323,
+    "timestamp_local": 1774260323
+  },
+  {
     "id": 42704,
     "fecha": "23 de Mar del 2026 a las 04:16 AM",
     "hora_utc": "2026-03-23 08:16",
@@ -126,21 +142,5 @@
     "mensaje": "⚠️Continúa afectado el servicio eléctrico en  los circuitos 5 y 17 Cupet.",
     "timestamp": 1774217573,
     "timestamp_local": 1774217573
-  },
-  {
-    "id": 42686,
-    "fecha": "22 de Mar del 2026 a las 05:35 PM",
-    "hora_utc": "2026-03-22 21:35",
-    "mensaje": "⚠️Afectado el servicio eléctrico en los circuitos 167 Virginia y 170 José Martí.",
-    "timestamp": 1774215332,
-    "timestamp_local": 1774215332
-  },
-  {
-    "id": 42685,
-    "fecha": "22 de Mar del 2026 a las 05:09 PM",
-    "hora_utc": "2026-03-22 21:09",
-    "mensaje": "⚠️Afectado el servicio eléctrico en los circuitos 6 Vigía y 39 Sandino.",
-    "timestamp": 1774213754,
-    "timestamp_local": 1774213754
   }
 ]
