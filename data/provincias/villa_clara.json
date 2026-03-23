@@ -1,5 +1,45 @@
 [
   {
+    "id": 42722,
+    "fecha": "23 de Mar del 2026 a las 11:44 AM",
+    "hora_utc": "2026-03-23 15:44",
+    "mensaje": "⚡Afectado el servicio eléctrico en el circuito 167 (Virginia), del municipio Santa Clara. Se estudian las causas.",
+    "timestamp": 1774280646,
+    "timestamp_local": 1774280646
+  },
+  {
+    "id": 42721,
+    "fecha": "23 de Mar del 2026 a las 11:38 AM",
+    "hora_utc": "2026-03-23 15:38",
+    "mensaje": "🛠️Afectada por disparo la línea 1785:\nAfecta los siguientes circuitos:\n🔹Municipio Santa Clara\n👉Cto 6 (Vigía)\n👉Cto 34(Sabana Rebacadero)\n👉Ctos 32 y 33 (RF-33Kv)\n👉Cto 39 (Sandino)\n✍️Se estudian las causas.",
+    "timestamp": 1774280295,
+    "timestamp_local": 1774280295
+  },
+  {
+    "id": 42720,
+    "fecha": "23 de Mar del 2026 a las 11:23 AM",
+    "hora_utc": "2026-03-23 15:23",
+    "mensaje": "💡Con servicio la línea 1785:\nAfecta los siguientes circuitos:\n🔹Municipio Santa Clara\n👉Cto 6 (Vigía)\n👉Cto 34(Sabana Rebacadero)\n👉Ctos 32 y 33 (RF-33Kv)\n👉Cto 39 (Sandino)",
+    "timestamp": 1774279388,
+    "timestamp_local": 1774279388
+  },
+  {
+    "id": 42719,
+    "fecha": "23 de Mar del 2026 a las 11:21 AM",
+    "hora_utc": "2026-03-23 15:21",
+    "mensaje": "⚡Disparo del Cto 167 (Virginia), del municipio Santa Clara. Se estudian las causas.",
+    "timestamp": 1774279279,
+    "timestamp_local": 1774279279
+  },
+  {
+    "id": 42718,
+    "fecha": "23 de Mar del 2026 a las 11:16 AM",
+    "hora_utc": "2026-03-23 15:16",
+    "mensaje": "🛠️Afectadas por emergencia las líneas 1785 y 1780:\nAfecta los siguientes circuitos:\n🔹Municipio Santa Clara:\n👉Cto 16 Cubanacán \n👉Ctos 23 y 130 La Ceniza\n👉Cto 42 Manajanabo\n🔹Municipio Placetas\n👉Cto 139 Miller\n👉Cto 190 Oliver\n👉Cto 106 Falcón\n👉Cto 98 \n👉Cto 99 (Déficit)\n🔹Municipio Santa Clara\n👉Cto 6 (Vigía)\n👉Cto 34(Sabana Rebacadero)\n👉Ctos 32 y 33 (RF-33Kv)\n👉Cto 39 (Sandino)",
+    "timestamp": 1774279005,
+    "timestamp_local": 1774279005
+  },
+  {
     "id": 42717,
     "fecha": "23 de Mar del 2026 a las 10:15 AM",
     "hora_utc": "2026-03-23 14:15",
@@ -110,37 +150,5 @@
     "mensaje": "💡Con servicio eléctrico los circuitos 132 y 162 SC Industrial.",
     "timestamp": 1774253746,
     "timestamp_local": 1774253746
-  },
-  {
-    "id": 42702,
-    "fecha": "23 de Mar del 2026 a las 02:51 AM",
-    "hora_utc": "2026-03-23 06:51",
-    "mensaje": "👉Se le reitera a nuestros clientes que deben desconectar todos los equipos, para evitar que se les dañen, después de una prolongada afectación eléctrica, al restablecer el servicio, debe esperar un tiempo prudencial para conectar los equipos y si nota que hay oscilaciones de voltaje, no los conecte y espere a que se encuentren estable el servicio eléctrico y el voltaje.",
-    "timestamp": 1774248695,
-    "timestamp_local": 1774248695
-  },
-  {
-    "id": 42701,
-    "fecha": "23 de Mar del 2026 a las 01:22 AM",
-    "hora_utc": "2026-03-23 05:22",
-    "mensaje": "🟢#ULTIMOMINUTO ||En línea la Hidroeléctrica Hanabanilla.",
-    "timestamp": 1774243323,
-    "timestamp_local": 1774243323
-  },
-  {
-    "id": 42699,
-    "fecha": "22 de Mar del 2026 a las 10:27 PM",
-    "hora_utc": "2026-03-23 02:27",
-    "mensaje": "🟢#ULTIMOMINUTO || Queda interconectado el Sistema Electroenergético Nacional desde Pinar del Río hasta Guantánamo.",
-    "timestamp": 1774232848,
-    "timestamp_local": 1774232848
-  },
-  {
-    "id": 42698,
-    "fecha": "22 de Mar del 2026 a las 10:13 PM",
-    "hora_utc": "2026-03-23 02:13",
-    "mensaje": "⚡Afectada por avería por 33 kV la Línea 1380. Se estudian las causas.\n\n👉Línea 1380\n🔸Municipio Caibarién:\nCto 66 Las Torres",
-    "timestamp": 1774232015,
-    "timestamp_local": 1774232015
   }
 ]
