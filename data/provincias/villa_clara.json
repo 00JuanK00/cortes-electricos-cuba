@@ -1,5 +1,21 @@
 [
   {
+    "id": 42758,
+    "fecha": "23 de Mar del 2026 a las 05:36 PM",
+    "hora_utc": "2026-03-23 21:36",
+    "mensaje": "⚠️Afectado el servicio eléctrico en los siguientes circuitos:\n🔹Municipio Ranchuelo: \n👉Ctos 89, 97, 188 y 189\n👉Ctos 148 y 149 San Juan\n👉Cto 91 Batey Osvaldo Herrera\n👉Cto 181 Batey Ifraín Alfonso",
+    "timestamp": 1774301766,
+    "timestamp_local": 1774301766
+  },
+  {
+    "id": 42757,
+    "fecha": "23 de Mar del 2026 a las 05:14 PM",
+    "hora_utc": "2026-03-23 21:14",
+    "mensaje": "⚠️Afectado el servicio eléctrico en el circuito 13 (Zona Industrial), del municipio Santa Clara.",
+    "timestamp": 1774300484,
+    "timestamp_local": 1774300484
+  },
+  {
     "id": 42756,
     "fecha": "23 de Mar del 2026 a las 04:43 PM",
     "hora_utc": "2026-03-23 20:43",
@@ -142,21 +158,5 @@
     "mensaje": "Restablecido el circuito 167 (Virginia), del municipio Santa Clara.",
     "timestamp": 1774289636,
     "timestamp_local": 1774289636
-  },
-  {
-    "id": 42736,
-    "fecha": "23 de Mar del 2026 a las 02:09 PM",
-    "hora_utc": "2026-03-23 18:09",
-    "mensaje": "🔸Actualización del servicio eléctrico en la provincia🔸\n👉De los circuitos apagables que presenta la provincia, se mantienen  afectados 88 circuitos.\n👉En el momento de hacer esta nota la provincia tiene 77 MW de afectación.\n👉Cuenta con 198 afectaciones por averías secundarias y de servicio.",
-    "timestamp": 1774289391,
-    "timestamp_local": 1774289391
-  },
-  {
-    "id": 42735,
-    "fecha": "23 de Mar del 2026 a las 02:06 PM",
-    "hora_utc": "2026-03-23 18:06",
-    "mensaje": "⚠️Afectado el servicio eléctrico en los siguientes circuitos:\n🔹Municipio Quemado:\n👉Ctos 164, 52 y 53 Quemado.",
-    "timestamp": 1774289169,
-    "timestamp_local": 1774289169
   }
 ]
