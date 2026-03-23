@@ -1,5 +1,29 @@
 [
   {
+    "id": 42761,
+    "fecha": "23 de Mar del 2026 a las 06:38 PM",
+    "hora_utc": "2026-03-23 22:38",
+    "mensaje": "🛠️ Afectado por DAF la línea 1780:\n🔹Municipio Santa Clara:\n👉Cto 16 Cubanacán \n👉Ctos 23 y 130 La Ceniza\n👉Cto 42 Manajanabo\n🔹Municipio Placetas\n👉Cto 139 Miller\n👉Cto 190 Oliver\n👉Cto 106 Falcón\n👉Ctos 98 y 99 Placetas",
+    "timestamp": 1774305536,
+    "timestamp_local": 1774305536
+  },
+  {
+    "id": 42760,
+    "fecha": "23 de Mar del 2026 a las 06:36 PM",
+    "hora_utc": "2026-03-23 22:36",
+    "mensaje": "💡Restablecido el servicio en el circuito 167 (Virginia), del municipio Santa Clara.",
+    "timestamp": 1774305379,
+    "timestamp_local": 1774305379
+  },
+  {
+    "id": 42759,
+    "fecha": "23 de Mar del 2026 a las 06:32 PM",
+    "hora_utc": "2026-03-23 22:32",
+    "mensaje": "🕕Actualización del servicio eléctrico. \n✍️El déficit de capacidad de generación en estos momentos es de 114 MW. \n✍️En el momento de esta nota, se mantienen afectados 107 circuitos.\n✍️Cuenta con 211 afectaciones por averías secundarias y de servicio:\n🔸Caibarién (12)\n🔸Encrucijada (2)\n🔸Manicaragua (15)\n🔸Placetas (16)\n🔸Ranchuelo (4)\n🔸Remedios (8)\n🔸Sagua (1)\n🔸Santa Clara (125)\n🔸Santo Domingo (4)\n🛠️Pendientes a solucionar por el área técnica 13.\n🛠️ Se encuentran 8 averías en vías de solución.\n⚡Averías⚡\n🔸Municipio Santa Clara\n👉 Línea 129 (Está afectado el Bombeo Palmarito.)\n👉Cto 31 (Sakenaf), del municipio Santa Clara, afectado por faltar una fase.\n👉Cto 70 (Zuluetas), poblado Remate de Ariosa, del municipio Remedios, afectado por cable primario partido. (En estos momentos la línea se encuentra afectada por déficit de capacidad de generación)",
+    "timestamp": 1774305169,
+    "timestamp_local": 1774305169
+  },
+  {
     "id": 42758,
     "fecha": "23 de Mar del 2026 a las 05:36 PM",
     "hora_utc": "2026-03-23 21:36",
@@ -134,29 +158,5 @@
     "mensaje": "⚡Disparo del Cto 167 (Virginia), del municipio Santa Clara. Se estudian las causas.",
     "timestamp": 1774290302,
     "timestamp_local": 1774290302
-  },
-  {
-    "id": 42739,
-    "fecha": "23 de Mar del 2026 a las 02:24 PM",
-    "hora_utc": "2026-03-23 18:24",
-    "mensaje": "⚠️Afectado el servicio eléctrico en los siguientes circuitos:\n🔹Municipio Santa Clara:\n👉Ctos 1 y 2 (Consejo- Centro)",
-    "timestamp": 1774290271,
-    "timestamp_local": 1774290271
-  },
-  {
-    "id": 42738,
-    "fecha": "23 de Mar del 2026 a las 02:23 PM",
-    "hora_utc": "2026-03-23 18:23",
-    "mensaje": "🛠️ Afectados por manipulación los circuitos 4 (Consejo Centro), y circuito 40 (Hospital Militar), del municipio Santa Clara.",
-    "timestamp": 1774290212,
-    "timestamp_local": 1774290212
-  },
-  {
-    "id": 42737,
-    "fecha": "23 de Mar del 2026 a las 02:13 PM",
-    "hora_utc": "2026-03-23 18:13",
-    "mensaje": "Restablecido el circuito 167 (Virginia), del municipio Santa Clara.",
-    "timestamp": 1774289636,
-    "timestamp_local": 1774289636
   }
 ]
