@@ -1,5 +1,21 @@
 [
   {
+    "id": 18575,
+    "fecha": "23 de Mar del 2026 a las 12:40 PM",
+    "hora_utc": "2026-03-23 16:40",
+    "mensaje": "Se encuentran disparados por DAF los siguientes circuitos:                          6305 Majibacoa                                                                                                    6230 Menéndez                                                                                                          6310 El Roble                                                                                                                                                                                                           Tk5 Los Pinos",
+    "timestamp": 1774284058,
+    "timestamp_local": 1774284058
+  },
+  {
+    "id": 18574,
+    "fecha": "23 de Mar del 2026 a las 12:04 PM",
+    "hora_utc": "2026-03-23 16:04",
+    "mensaje": "La Empresa Eléctrica Las Tunas informa que, según la nota emitida por la Unión Eléctrica para el 23 de marzo, en el día de ayer el SEN se encontraba en proceso de restauración. En nuestra provincia se afectaron la totalidad de los circuitos apagables, con una máxima afectación de 109 MW.\nActualmente están fuera de servicio por avería las Unidades 5 y 8 de la CTE Mariel, Unidad 3 de la CTE Santa Cruz, Unidad 2 de la CTE Felton y Unidades 3 y 6 de la CTE Antonio Maceo.\nEn mantenimiento se encuentran: Unidad 6 de la CTE Mariel, Unidad 5 de la CTE Nuevitas. \nEn el horario diurno se pronostica una afectación de 1100 MW, lo cual puede representar el 85% en nuestra provincia.\nEn el horario nocturno se estima una afectación de 1857 MW, lo cual puede representar el 95% de los circuitos de la provincia.\nEstos valores pueden variar según la demanda nacional.",
+    "timestamp": 1774281883,
+    "timestamp_local": 1774281883
+  },
+  {
     "id": 18573,
     "fecha": "23 de Mar del 2026 a las 08:31 AM",
     "hora_utc": "2026-03-23 12:31",
@@ -126,21 +142,5 @@
     "mensaje": "Se encuentran afectados los siguientes circuitos por disparo automático por frecuencia (DAF),TK5 Buena Vista, Los Pinos\nTK106 Palancón, Buena Vista",
     "timestamp": 1774131663,
     "timestamp_local": 1774131663
-  },
-  {
-    "id": 18555,
-    "fecha": "21 de Mar del 2026 a las 01:14 PM",
-    "hora_utc": "2026-03-21 17:14",
-    "mensaje": "Se restablece la avería del TK36 El Raúl  en el municipio de Manatí.",
-    "timestamp": 1774113256,
-    "timestamp_local": 1774113256
-  },
-  {
-    "id": 18554,
-    "fecha": "21 de Mar del 2026 a las 10:28 AM",
-    "hora_utc": "2026-03-21 14:28",
-    "mensaje": "Queda sin servicio el circuito TK44 Vivienda por emergencia.",
-    "timestamp": 1774103318,
-    "timestamp_local": 1774103318
   }
 ]

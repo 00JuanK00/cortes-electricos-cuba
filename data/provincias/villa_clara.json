@@ -1,5 +1,37 @@
 [
   {
+    "id": 42726,
+    "fecha": "23 de Mar del 2026 a las 12:31 PM",
+    "hora_utc": "2026-03-23 16:31",
+    "mensaje": "🕛Actualización del servicio eléctrico. \n✍️El déficit de capacidad de generación en estos momentos es de 83 MW. \n✍️En el momento de esta nota, se mantienen afectados 90 circuitos.\n✍️Cuenta con 200 afectaciones por averías secundarias y de servicio:\n🔸Caibarién (10)\n🔸Cifuentes (2)\n🔸Encrucijada (2)\n🔸Manicaragua (12)\n🔸Placetas (11)\n🔸Ranchuelo (5)\n🔸Remedios (7)\n🔸Sagua (3)\n🔸Santa Clara (116)\n🔸Santo Domingo (9)\n🛠️Pendientes a solucionar por el área técnica 14.\n🛠️ Se encuentran 9 averías en vías de solución.\n⚡Averías⚡\n🔸Municipio Santa Clara\n👉Cto 167 (Virginia), se estudian las causas.\n👉Cto 31 (Sakenaf)\n👉Ctos 32 y 33 (RF-33Kv)",
+    "timestamp": 1774283491,
+    "timestamp_local": 1774283491
+  },
+  {
+    "id": 42725,
+    "fecha": "23 de Mar del 2026 a las 12:03 PM",
+    "hora_utc": "2026-03-23 16:03",
+    "mensaje": "⚡Continúan afectados los siguientes circuitos:\n👉Cto 31 (Sakenaf)\n👉Ctos 32 y 33 (RF-33Kv)",
+    "timestamp": 1774281827,
+    "timestamp_local": 1774281827
+  },
+  {
+    "id": 42724,
+    "fecha": "23 de Mar del 2026 a las 12:01 PM",
+    "hora_utc": "2026-03-23 16:01",
+    "mensaje": "Restablecida parcialmente la línea 1785 :\n🔹Municipio Santa Clara\n👉Cto 6 (Vigía)\n👉Cto 34(Sabana Rebacadero)\n👉Cto 39 (Sandino)",
+    "timestamp": 1774281706,
+    "timestamp_local": 1774281706
+  },
+  {
+    "id": 42723,
+    "fecha": "23 de Mar del 2026 a las 11:48 AM",
+    "hora_utc": "2026-03-23 15:48",
+    "mensaje": "Afectada la línea 1785 y el circuito 31 (Sakenaf) del municipio Santa Clara:\nAfecta los siguientes circuitos:\n🔹Municipio Santa Clara\n👉Cto 6 (Vigía)\n👉Cto 34(Sabana Rebacadero)\n👉Ctos 32 y 33 (RF-33Kv)\n👉Cto 39 (Sandino)\n✍️Se estudian las causas.",
+    "timestamp": 1774280902,
+    "timestamp_local": 1774280902
+  },
+  {
     "id": 42722,
     "fecha": "23 de Mar del 2026 a las 11:44 AM",
     "hora_utc": "2026-03-23 15:44",
@@ -118,37 +150,5 @@
     "mensaje": "⚠️Afectado el servicio eléctrico en los siguientes circuitos:\n\n👉Municipio Remedios:\nCtos 68 y 118",
     "timestamp": 1774262281,
     "timestamp_local": 1774262281
-  },
-  {
-    "id": 42706,
-    "fecha": "23 de Mar del 2026 a las 06:12 AM",
-    "hora_utc": "2026-03-23 10:12",
-    "mensaje": "⚠️Afectado el servicio eléctrico en los siguientes circuitos:\n\n👉Municipio Placetas:\nCto 192 Benito Juárez\nCto 102 Peroti\n👉Municipio Placetas:\nCtos 101 y 145 Cumbre",
-    "timestamp": 1774260739,
-    "timestamp_local": 1774260739
-  },
-  {
-    "id": 42705,
-    "fecha": "23 de Mar del 2026 a las 06:05 AM",
-    "hora_utc": "2026-03-23 10:05",
-    "mensaje": "⚠️Afectado el servicio eléctrico en los siguientes circuitos:\n\nCto 132 SC Industrial\nCto 30 Capiro\nCto 31 SC Industrial",
-    "timestamp": 1774260323,
-    "timestamp_local": 1774260323
-  },
-  {
-    "id": 42704,
-    "fecha": "23 de Mar del 2026 a las 04:16 AM",
-    "hora_utc": "2026-03-23 08:16",
-    "mensaje": "💡Con servicio eléctrico los circuitos los siguientes circuitos.\n\n👉Municipio Manicaragua:\nCtos 109 y 150\nCtos 108 y 110 La Piedra\nCto 111 Mataguá",
-    "timestamp": 1774253806,
-    "timestamp_local": 1774253806
-  },
-  {
-    "id": 42703,
-    "fecha": "23 de Mar del 2026 a las 04:15 AM",
-    "hora_utc": "2026-03-23 08:15",
-    "mensaje": "💡Con servicio eléctrico los circuitos 132 y 162 SC Industrial.",
-    "timestamp": 1774253746,
-    "timestamp_local": 1774253746
   }
 ]
