@@ -1,5 +1,29 @@
 [
   {
+    "id": 42750,
+    "fecha": "23 de Mar del 2026 a las 04:05 PM",
+    "hora_utc": "2026-03-23 20:05",
+    "mensaje": "⚠️Afectado el servicio eléctrico en el circuito 170 (José Martí), del municipio Santa Clara.",
+    "timestamp": 1774296338,
+    "timestamp_local": 1774296338
+  },
+  {
+    "id": 42749,
+    "fecha": "23 de Mar del 2026 a las 04:04 PM",
+    "hora_utc": "2026-03-23 20:04",
+    "mensaje": "⚠️Afectado el servicio eléctrico en los siguientes circuitos:\n🔹Municipio Remedios:\n👉Ctos 67 y 152\n👉Ctos 69 y 70 Zuluetas\n👉Cto 143 Batey Heriberto Duquezne \n👉Cto 71 Buena Vista",
+    "timestamp": 1774296254,
+    "timestamp_local": 1774296254
+  },
+  {
+    "id": 42748,
+    "fecha": "23 de Mar del 2026 a las 04:01 PM",
+    "hora_utc": "2026-03-23 20:01",
+    "mensaje": "💡Con servicio eléctrico el circuito 1 (Consejo-Centro), del municipio Santa Clara.",
+    "timestamp": 1774296113,
+    "timestamp_local": 1774296113
+  },
+  {
     "id": 42746,
     "fecha": "23 de Mar del 2026 a las 03:23 PM",
     "hora_utc": "2026-03-23 19:23",
@@ -134,29 +158,5 @@
     "mensaje": "🛠️ Afectada por manipulación la línea 119:\n👉Cto 144 (Camacho)",
     "timestamp": 1774287116,
     "timestamp_local": 1774287116
-  },
-  {
-    "id": 42729,
-    "fecha": "23 de Mar del 2026 a las 01:22 PM",
-    "hora_utc": "2026-03-23 17:22",
-    "mensaje": "💡Con servicio eléctrico los circuitos los siguientes circuitos:\n🔹Municipio Caibarién\n👉Ctos 61, 62",
-    "timestamp": 1774286520,
-    "timestamp_local": 1774286520
-  },
-  {
-    "id": 42728,
-    "fecha": "23 de Mar del 2026 a las 01:01 PM",
-    "hora_utc": "2026-03-23 17:01",
-    "mensaje": "💡Con servicio eléctrico los circuitos los siguientes circuitos:\n🔹Municipio Manicaragua:\n👉Cto 109 (Parcial)\n👉Cto 150\n👉Ctos 108 y 110 La Piedra\n👉Ctos 113 y 137 La Campana\n👉Cto 112 Hoyo Manicaragua",
-    "timestamp": 1774285299,
-    "timestamp_local": 1774285299
-  },
-  {
-    "id": 42727,
-    "fecha": "23 de Mar del 2026 a las 12:48 PM",
-    "hora_utc": "2026-03-23 16:48",
-    "mensaje": "⚡Afectada la línea 129:\n👉Afecta el circuito 40 (Hospital Militar), del municipio Santa Clara.\n✍️Se estudian las causas.",
-    "timestamp": 1774284511,
-    "timestamp_local": 1774284511
   }
 ]
