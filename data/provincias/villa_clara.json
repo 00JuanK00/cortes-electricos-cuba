@@ -1,5 +1,37 @@
 [
   {
+    "id": 42824,
+    "fecha": "24 de Mar del 2026 a las 05:14 PM",
+    "hora_utc": "2026-03-24 21:14",
+    "mensaje": "Afectados 134 MW en la provincia, demanda máxima a apagar en estos momentos.",
+    "timestamp": 1774386892,
+    "timestamp_local": 1774386892
+  },
+  {
+    "id": 42823,
+    "fecha": "24 de Mar del 2026 a las 04:39 PM",
+    "hora_utc": "2026-03-24 20:39",
+    "mensaje": "⚠️Afectado el servicio eléctrico en el siguiente circuito:\n🔸Municipio Santa Clara:\n👉Cto 170 (José Martí)",
+    "timestamp": 1774384798,
+    "timestamp_local": 1774384798
+  },
+  {
+    "id": 42822,
+    "fecha": "24 de Mar del 2026 a las 04:14 PM",
+    "hora_utc": "2026-03-24 20:14",
+    "mensaje": "⚠️Afectado el servicio eléctrico en los siguientes circuitos:\n🔸Municipio Manicaragua:\n👉Ctos 109 y 150\n👉Ctos 108 y 110 La Piedra\n👉Cto 111 Mataguá",
+    "timestamp": 1774383245,
+    "timestamp_local": 1774383245
+  },
+  {
+    "id": 42821,
+    "fecha": "24 de Mar del 2026 a las 04:08 PM",
+    "hora_utc": "2026-03-24 20:08",
+    "mensaje": "🔸Actualización del servicio eléctrico en la provincia🔸\n👉De los circuitos apagables que presenta la provincia, se mantienen  afectados 130 circuitos.\n👉En el momento de hacer esta nota la provincia tiene 121 MW de afectación.\n👉Cuenta con 148 afectaciones por averías secundarias y de servicio",
+    "timestamp": 1774382888,
+    "timestamp_local": 1774382888
+  },
+  {
     "id": 42820,
     "fecha": "24 de Mar del 2026 a las 03:55 PM",
     "hora_utc": "2026-03-24 19:55",
@@ -110,37 +142,5 @@
     "mensaje": "⚠️Afectada por Via Libre linea 861 para recuperación de equipamiento en SC 110 kV:\nLínea 861\n🔹Municipio Santa Clara:\n👉Cto 5 (Dobarganes)\n👉Cto 17 (Subplanta) \n👉Ctos 37 y 38 (Yabú)\n👉Cto 9 (Moldes y Troqueles)\n👉Cto 133 (Taller Cafetera)",
     "timestamp": 1774366890,
     "timestamp_local": 1774366890
-  },
-  {
-    "id": 42804,
-    "fecha": "24 de Mar del 2026 a las 11:37 AM",
-    "hora_utc": "2026-03-24 15:37",
-    "mensaje": "💡Con servicio eléctrico el Cto 99 Placetas.",
-    "timestamp": 1774366650,
-    "timestamp_local": 1774366650
-  },
-  {
-    "id": 42803,
-    "fecha": "24 de Mar del 2026 a las 11:09 AM",
-    "hora_utc": "2026-03-24 15:09",
-    "mensaje": "Afectados 101 MW en la provincia, demanda máxima a apagar en estos momentos.",
-    "timestamp": 1774364946,
-    "timestamp_local": 1774364946
-  },
-  {
-    "id": 42802,
-    "fecha": "24 de Mar del 2026 a las 10:55 AM",
-    "hora_utc": "2026-03-24 14:55",
-    "mensaje": "⚠️Afectado el servicio eléctrico en los siguientes circuitos:\n🔸Municipio Santa Clara: \n**👉Cto 162 SC. Industrial**\n👉Cto 166 (Condado)\n**👉Cto 132 SC. Industrial**\n**👉Cto 168 (Condado- XX Aniversario)**\n**🔸Municipio Remedios:\n👉Ctos 67 y 152, 68 y 118 \n👉Ctos 69 y 70 Zuluetas\n👉Cto 143 Batey Heriberto Duquezne \n👉Cto 71 Buena Vista**",
-    "timestamp": 1774364146,
-    "timestamp_local": 1774364146
-  },
-  {
-    "id": 42801,
-    "fecha": "24 de Mar del 2026 a las 10:50 AM",
-    "hora_utc": "2026-03-24 14:50",
-    "mensaje": "⚠️Se encuentra disparada la línea del 75, se estudian las causas:\n🔸Municipio Ranchuelo: \n👉Ctos 89, 97, 188 y 189\n👉Ctos 148 y 149 San Juan\n👉Cto 91 Batey Osvaldo Herrera\n👉Cto 181 Batey Ifraín Alfonso",
-    "timestamp": 1774363811,
-    "timestamp_local": 1774363811
   }
 ]
