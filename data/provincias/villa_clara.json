@@ -1,5 +1,37 @@
 [
   {
+    "id": 42770,
+    "fecha": "23 de Mar del 2026 a las 11:41 PM",
+    "hora_utc": "2026-03-24 03:41",
+    "mensaje": "🛠️Manipulación de la línea 119:\n👉Cto 144 (Camacho)",
+    "timestamp": 1774323712,
+    "timestamp_local": 1774323712
+  },
+  {
+    "id": 42769,
+    "fecha": "23 de Mar del 2026 a las 11:05 PM",
+    "hora_utc": "2026-03-24 03:05",
+    "mensaje": "💡Restablecido el servicio eléctrico en los siguientes circuitos:\n🔹Municipio Ranchuelo:\n👉Cto 92 Esperanza (Pueblo)\n👉Cto 93 Esperanza (Campo)\n👉Ctos 54, 94 y 95 Jicotea\n🔹Municipio Santa Clara\n👉Ctos 26 y 141 (Manuelita)\n👉Cto 191 (Quemado de Hilario)                                           \n🔹Municipio Santo Domingo\n👉Cto 79 (Santo Domingo)\n👉Cto 81 (26 de Julio)\n👉Cto 163 (Batey 26 de Julio",
+    "timestamp": 1774321545,
+    "timestamp_local": 1774321545
+  },
+  {
+    "id": 42768,
+    "fecha": "23 de Mar del 2026 a las 10:39 PM",
+    "hora_utc": "2026-03-24 02:39",
+    "mensaje": "🔸Actualización del servicio eléctrico en la provincia🔸\n👉De los circuitos apagables que presenta la provincia, se mantienen  afectados 127 circuitos.\n👉En el momento de hacer esta nota la provincia tiene 104 MW de afectación.\n👉Cuenta con 126 afectaciones por averías secundarias y de servicio.",
+    "timestamp": 1774319998,
+    "timestamp_local": 1774319998
+  },
+  {
+    "id": 42767,
+    "fecha": "23 de Mar del 2026 a las 09:57 PM",
+    "hora_utc": "2026-03-24 01:57",
+    "mensaje": "⚠️Afectado el servicio eléctrico en los siguientes circuitos:\n🔹Municipio Camajuaní:\n 👉Ctos 77, 59 y 185 Vueltas",
+    "timestamp": 1774317448,
+    "timestamp_local": 1774317448
+  },
+  {
     "id": 42766,
     "fecha": "23 de Mar del 2026 a las 09:26 PM",
     "hora_utc": "2026-03-24 01:26",
@@ -126,37 +158,5 @@
     "mensaje": "🛠️Afectado por manipulación el circuito 170 (José Martí), del municipio Santa Clara.",
     "timestamp": 1774296338,
     "timestamp_local": 1774296338
-  },
-  {
-    "id": 42749,
-    "fecha": "23 de Mar del 2026 a las 04:04 PM",
-    "hora_utc": "2026-03-23 20:04",
-    "mensaje": "⚠️Afectado el servicio eléctrico en los siguientes circuitos:\n🔹Municipio Remedios:\n👉Ctos 67 y 152\n👉Ctos 69 y 70 Zuluetas\n👉Cto 143 Batey Heriberto Duquezne \n👉Cto 71 Buena Vista",
-    "timestamp": 1774296254,
-    "timestamp_local": 1774296254
-  },
-  {
-    "id": 42748,
-    "fecha": "23 de Mar del 2026 a las 04:01 PM",
-    "hora_utc": "2026-03-23 20:01",
-    "mensaje": "💡Con servicio eléctrico el circuito 1 (Consejo-Centro), del municipio Santa Clara.",
-    "timestamp": 1774296113,
-    "timestamp_local": 1774296113
-  },
-  {
-    "id": 42746,
-    "fecha": "23 de Mar del 2026 a las 03:23 PM",
-    "hora_utc": "2026-03-23 19:23",
-    "mensaje": "Afectado por faltar una fase el circuito 167 (Virginia), del municipio Santa Clara. Se estudian las causas.",
-    "timestamp": 1774293802,
-    "timestamp_local": 1774293802
-  },
-  {
-    "id": 42745,
-    "fecha": "23 de Mar del 2026 a las 03:13 PM",
-    "hora_utc": "2026-03-23 19:13",
-    "mensaje": "⚠️Afectado el servicio eléctrico en los siguientes circuitos:\n🔹Municipio Encrucijada\n👉Cto 120 Calabazar\n👉Ctos 121 y 127 Perucho\n👉Cto 122 Encrucijada  \n👉Cto 123 Vizcaya \n👉Cto 142 Comunidad La Sierra \n👉Cto 126 Batey Emilio Córdova\n👉Cto 125 Cavarrocas\n👉Cto 124 El Santo\n🔹Municipio Camajuaní:                                                              \n👉Cto 78 Jutiero",
-    "timestamp": 1774293231,
-    "timestamp_local": 1774293231
   }
 ]
