@@ -1,5 +1,21 @@
 [
   {
+    "id": 42820,
+    "fecha": "24 de Mar del 2026 a las 03:55 PM",
+    "hora_utc": "2026-03-24 19:55",
+    "mensaje": "⚠️Afectado el servicio eléctrico en los siguientes circuitos:\n🔸Municipio Encrucijada\n👉Cto 120 Calabazar\n👉Ctos 121 y 127 Perucho\n🔸Municipio Cifuentes:\n👉Ctos 114 y 117\n👉Ctos 116 y 155 Mata\n👉Cto 186 Batey Unidad Proletaria\n🔸Municipio Sagua \n👉Cto 48 Finalet\n👉Ctos 46 y 128 Sitiecito\n🔸Municipio Placetas:\n👉Ctos 101 y 145 Cumbre",
+    "timestamp": 1774382131,
+    "timestamp_local": 1774382131
+  },
+  {
+    "id": 42819,
+    "fecha": "24 de Mar del 2026 a las 03:48 PM",
+    "hora_utc": "2026-03-24 19:48",
+    "mensaje": "⚠️Afectado el servicio eléctrico en el siguiente circuito:\n🔸Municipio Santa Clara: \n👉Cto 167 (Virginia)",
+    "timestamp": 1774381723,
+    "timestamp_local": 1774381723
+  },
+  {
     "id": 42817,
     "fecha": "24 de Mar del 2026 a las 03:13 PM",
     "hora_utc": "2026-03-24 19:13",
@@ -126,29 +142,5 @@
     "mensaje": "⚠️Se encuentra disparada la línea del 75, se estudian las causas:\n🔸Municipio Ranchuelo: \n👉Ctos 89, 97, 188 y 189\n👉Ctos 148 y 149 San Juan\n👉Cto 91 Batey Osvaldo Herrera\n👉Cto 181 Batey Ifraín Alfonso",
     "timestamp": 1774363811,
     "timestamp_local": 1774363811
-  },
-  {
-    "id": 42800,
-    "fecha": "24 de Mar del 2026 a las 10:48 AM",
-    "hora_utc": "2026-03-24 14:48",
-    "mensaje": "💡Con servicio el Cto 109 perteneciente al municipio Manicaragua.",
-    "timestamp": 1774363716,
-    "timestamp_local": 1774363716
-  },
-  {
-    "id": 42799,
-    "fecha": "24 de Mar del 2026 a las 10:26 AM",
-    "hora_utc": "2026-03-24 14:26",
-    "mensaje": "💡Con servicio la línea del 861:\n🔸Municipio Santa Clara:\n👉Cto 5 (Dobarganes)\n👉Cto 17 (Subplanta) \n👉Ctos 37 y 38 (Yabú)   \n👉Cto 9 (Moldes y Troqueles)\n👉Cto 133 (Taller Cafetera)",
-    "timestamp": 1774362416,
-    "timestamp_local": 1774362416
-  },
-  {
-    "id": 42798,
-    "fecha": "24 de Mar del 2026 a las 10:26 AM",
-    "hora_utc": "2026-03-24 14:26",
-    "mensaje": "🔸Actualización del servicio eléctrico en la provincia🔸\n👉De los circuitos apagables que presenta la provincia, se mantienen  afectados 95 circuitos.\n👉En el momento de hacer esta nota la provincia tiene 83 MW de afectación.\n👉Cuenta con 131 afectaciones por averías secundarias y de servicio",
-    "timestamp": 1774362366,
-    "timestamp_local": 1774362366
   }
 ]
