@@ -1,5 +1,37 @@
 [
   {
+    "id": 51428,
+    "fecha": "24 de Mar del 2026 a las 01:14 PM",
+    "hora_utc": "2026-03-24 17:14",
+    "mensaje": "🚨Déficit de Capacidad de Generación:    \nSe produce cuando la demanda del Sistema Eléctrico Nacional, en determinado horario del día, supera la generación disponible del país, provocando la desconexión de los circuitos o líneas que permitan garantizar la frecuencia del SEN.",
+    "timestamp": 1774372459,
+    "timestamp_local": 1774372459
+  },
+  {
+    "id": 51427,
+    "fecha": "24 de Mar del 2026 a las 01:13 PM",
+    "hora_utc": "2026-03-24 17:13",
+    "mensaje": "🚨Estimados clientes se les comunica que se incorporan a la afectación por Déficit los circuitos 19, 24 y 13.",
+    "timestamp": 1774372384,
+    "timestamp_local": 1774372384
+  },
+  {
+    "id": 51426,
+    "fecha": "24 de Mar del 2026 a las 01:11 PM",
+    "hora_utc": "2026-03-24 17:11",
+    "mensaje": "🔴Disparo Automático de Frecuencia (DAF):\nOcurre cuando la frecuencia está por debajo de los 60Hz y determinada carga o circuito se desconecta del sistema automáticamente hasta que se estabilice.",
+    "timestamp": 1774372297,
+    "timestamp_local": 1774372297
+  },
+  {
+    "id": 51425,
+    "fecha": "24 de Mar del 2026 a las 01:11 PM",
+    "hora_utc": "2026-03-24 17:11",
+    "mensaje": "🔴Estimados clientes en estos momentos se encuentra afectado por DAF el circuito 11.",
+    "timestamp": 1774372275,
+    "timestamp_local": 1774372275
+  },
+  {
     "id": 51423,
     "fecha": "24 de Mar del 2026 a las 11:00 AM",
     "hora_utc": "2026-03-24 15:00",
@@ -110,37 +142,5 @@
     "mensaje": "🔴Estimados clientes se les informa que se incorpora a la afectación el circuito 16.",
     "timestamp": 1774319569,
     "timestamp_local": 1774319569
-  },
-  {
-    "id": 51407,
-    "fecha": "23 de Mar del 2026 a las 10:12 PM",
-    "hora_utc": "2026-03-24 02:12",
-    "mensaje": "🔴Estimados clientes se les informa que en estos momentos el circuito 12 esta en Manipulación . Disculpen por las molestias ocasionadas.",
-    "timestamp": 1774318333,
-    "timestamp_local": 1774318333
-  },
-  {
-    "id": 51406,
-    "fecha": "23 de Mar del 2026 a las 09:43 PM",
-    "hora_utc": "2026-03-24 01:43",
-    "mensaje": "🔴Estimados clientes se les informa que se incorpora a la afectación el circuito 11.",
-    "timestamp": 1774316580,
-    "timestamp_local": 1774316580
-  },
-  {
-    "id": 51405,
-    "fecha": "23 de Mar del 2026 a las 09:39 PM",
-    "hora_utc": "2026-03-24 01:39",
-    "mensaje": "🔴Estimados clientes se les informa que se incorpora a la afectación el circuito 7 .",
-    "timestamp": 1774316377,
-    "timestamp_local": 1774316377
-  },
-  {
-    "id": 51404,
-    "fecha": "23 de Mar del 2026 a las 09:10 PM",
-    "hora_utc": "2026-03-24 01:10",
-    "mensaje": "🔴Estimados clientes se les informa que se incorpora a la afectación la línea 5385 San Luis.",
-    "timestamp": 1774314648,
-    "timestamp_local": 1774314648
   }
 ]
