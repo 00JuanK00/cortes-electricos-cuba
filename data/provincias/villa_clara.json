@@ -1,5 +1,29 @@
 [
   {
+    "id": 42817,
+    "fecha": "24 de Mar del 2026 a las 03:13 PM",
+    "hora_utc": "2026-03-24 19:13",
+    "mensaje": "Afectados 105 MW en la provincia, demanda máxima a apagar en estos momentos.",
+    "timestamp": 1774379614,
+    "timestamp_local": 1774379614
+  },
+  {
+    "id": 42816,
+    "fecha": "24 de Mar del 2026 a las 02:52 PM",
+    "hora_utc": "2026-03-24 18:52",
+    "mensaje": "💡Con servicio la línea del 861:\n🔸Municipio Santa Clara:\n👉Cto 5 (Dobarganes)\n👉Cto 17 (Subplanta) \n👉Ctos 37 y 38 (Yabú)   \n👉Cto 9 (Moldes y Troqueles)\n👉Cto 133 (Taller Cafetera)",
+    "timestamp": 1774378349,
+    "timestamp_local": 1774378349
+  },
+  {
+    "id": 42815,
+    "fecha": "24 de Mar del 2026 a las 02:48 PM",
+    "hora_utc": "2026-03-24 18:48",
+    "mensaje": "⚠️Afectado por manipulación la línea del 861:\n🔸Municipio Santa Clara:\n👉Cto 5 (Dobarganes)\n👉Cto 17 (Subplanta) \n👉Ctos 37 y 38 (Yabú)   \n👉Cto 9 (Moldes y Troqueles)\n👉Cto 133 (Taller Cafetera)",
+    "timestamp": 1774378132,
+    "timestamp_local": 1774378132
+  },
+  {
     "id": 42814,
     "fecha": "24 de Mar del 2026 a las 02:04 PM",
     "hora_utc": "2026-03-24 18:04",
@@ -126,29 +150,5 @@
     "mensaje": "🔸Actualización del servicio eléctrico en la provincia🔸\n👉De los circuitos apagables que presenta la provincia, se mantienen  afectados 95 circuitos.\n👉En el momento de hacer esta nota la provincia tiene 83 MW de afectación.\n👉Cuenta con 131 afectaciones por averías secundarias y de servicio",
     "timestamp": 1774362366,
     "timestamp_local": 1774362366
-  },
-  {
-    "id": 42797,
-    "fecha": "24 de Mar del 2026 a las 10:08 AM",
-    "hora_utc": "2026-03-24 14:08",
-    "mensaje": "⚠️Afectado el servicio eléctrico en el siguiente circuito:\n🔸Municipio Santa Clara:\n👉Cto 13 Zona Industrial",
-    "timestamp": 1774361299,
-    "timestamp_local": 1774361299
-  },
-  {
-    "id": 42796,
-    "fecha": "24 de Mar del 2026 a las 10:07 AM",
-    "hora_utc": "2026-03-24 14:07",
-    "mensaje": "⚠️Afectado por manipulación la línea del 861:\n🔸Municipio Santa Clara:\n👉Cto 5 (Dobarganes)\n👉Cto 17 (Subplanta) \n👉Ctos 37 y 38 (Yabú)   \n👉Cto 9 (Moldes y Troqueles)\n👉Cto 133 (Taller Cafetera)",
-    "timestamp": 1774361238,
-    "timestamp_local": 1774361238
-  },
-  {
-    "id": 42795,
-    "fecha": "24 de Mar del 2026 a las 09:54 AM",
-    "hora_utc": "2026-03-24 13:54",
-    "mensaje": "⚠️Afectado el servicio eléctrico en los siguientes circuitos:\n🔸Municipio Santa Clara: \n👉Cto 167 (Virginia)\n👉Cto 170 (José Martí)",
-    "timestamp": 1774360446,
-    "timestamp_local": 1774360446
   }
 ]
