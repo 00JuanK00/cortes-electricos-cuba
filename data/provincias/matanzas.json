@@ -1,5 +1,21 @@
 [
   {
+    "id": 33931,
+    "fecha": "25 de Mar del 2026 a las 07:09 AM",
+    "hora_utc": "2026-03-25 11:09",
+    "mensaje": "🧏 **El restablecimiento del servicio eléctrico dependerá del comportamiento de la demanda y la disponibilidad de Sistema.**",
+    "timestamp": 1774436960,
+    "timestamp_local": 1774436960
+  },
+  {
+    "id": 33930,
+    "fecha": "25 de Mar del 2026 a las 06:32 AM",
+    "hora_utc": "2026-03-25 10:32",
+    "mensaje": "📉 🪫👉 La provincia se mantiene en el máximo apagable con un déficit de capacidad de generación de 108 MW.\n\n📢 A medida que las condiciones del sistema lo permitan, se irán restableciendo de forma gradual los circuitos que han tenido más tiempo de afectación.",
+    "timestamp": 1774434778,
+    "timestamp_local": 1774434778
+  },
+  {
     "id": 33929,
     "fecha": "25 de Mar del 2026 a las 05:41 AM",
     "hora_utc": "2026-03-25 09:41",
@@ -142,21 +158,5 @@
     "mensaje": "⚡ Déficit de capacidad de generación en la provincia 122 MW .⚡",
     "timestamp": 1774377066,
     "timestamp_local": 1774377066
-  },
-  {
-    "id": 33911,
-    "fecha": "24 de Mar del 2026 a las 01:27 PM",
-    "hora_utc": "2026-03-24 17:27",
-    "mensaje": "💡**Circuitos próximos a restablecer:** \n🔌 Circuito 4073 Batey Luisa, Peralta, San Carlos, Poblado San José de Marcos y Torriente.\n🔌 Circuito MI5680 que da servicio a Cítrico y Sabana Grande.",
-    "timestamp": 1774373229,
-    "timestamp_local": 1774373229
-  },
-  {
-    "id": 33910,
-    "fecha": "24 de Mar del 2026 a las 12:31 PM",
-    "hora_utc": "2026-03-24 16:31",
-    "mensaje": "📈Subimos a 118 MW en la provincia por Déficit de capacidad de generación por la curva de demanda.",
-    "timestamp": 1774369871,
-    "timestamp_local": 1774369871
   }
 ]

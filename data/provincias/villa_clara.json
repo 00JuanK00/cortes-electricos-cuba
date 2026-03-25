@@ -1,5 +1,29 @@
 [
   {
+    "id": 42842,
+    "fecha": "25 de Mar del 2026 a las 07:16 AM",
+    "hora_utc": "2026-03-25 11:16",
+    "mensaje": "Afectados 101 MW en la provincia, demanda máxima a apagar en estos momentos.",
+    "timestamp": 1774437389,
+    "timestamp_local": 1774437389
+  },
+  {
+    "id": 42841,
+    "fecha": "25 de Mar del 2026 a las 06:53 AM",
+    "hora_utc": "2026-03-25 10:53",
+    "mensaje": "⚡En avería el Cto 66 Las Torres, perteneciente al municipio Caibarién faltando fase en la Subestación.",
+    "timestamp": 1774436023,
+    "timestamp_local": 1774436023
+  },
+  {
+    "id": 42840,
+    "fecha": "25 de Mar del 2026 a las 06:34 AM",
+    "hora_utc": "2026-03-25 10:34",
+    "mensaje": "🕛Actualización del servicio eléctrico. \n✍️El déficit de capacidad de generación en estos momentos es de 86 MW. \n✍️En el momento de esta nota, se mantienen afectados 114 circuitos.\n✍️Cuenta con 88 afectaciones por averías secundarias y de servicio:\n🔸Caibarién (12)\n🔸Cifuentes (2)\n🔸Corralillo (2)\n🔸Manicaragua (1)\n🔸Placetas (2)\n🔸Remedios (2)\n🔸Sagua (3)\n🔸Santa Clara (63)\n🔸Santo Domingo (1)\n🛠️Pendientes a solucionar por el área técnica 14.\n✅En el momento de esta nota la provincia no presenta averías primarias.",
+    "timestamp": 1774434877,
+    "timestamp_local": 1774434877
+  },
+  {
     "id": 42839,
     "fecha": "25 de Mar del 2026 a las 05:05 AM",
     "hora_utc": "2026-03-25 09:05",
@@ -134,29 +158,5 @@
     "mensaje": "⚠️Afectado el servicio eléctrico en el siguiente circuito:\n🔸Municipio Santa Clara:\n👉Cto 170 (José Martí)",
     "timestamp": 1774384798,
     "timestamp_local": 1774384798
-  },
-  {
-    "id": 42822,
-    "fecha": "24 de Mar del 2026 a las 04:14 PM",
-    "hora_utc": "2026-03-24 20:14",
-    "mensaje": "⚠️Afectado el servicio eléctrico en los siguientes circuitos:\n🔸Municipio Manicaragua:\n👉Ctos 109 y 150\n👉Ctos 108 y 110 La Piedra\n👉Cto 111 Mataguá",
-    "timestamp": 1774383245,
-    "timestamp_local": 1774383245
-  },
-  {
-    "id": 42821,
-    "fecha": "24 de Mar del 2026 a las 04:08 PM",
-    "hora_utc": "2026-03-24 20:08",
-    "mensaje": "🔸Actualización del servicio eléctrico en la provincia🔸\n👉De los circuitos apagables que presenta la provincia, se mantienen  afectados 130 circuitos.\n👉En el momento de hacer esta nota la provincia tiene 121 MW de afectación.\n👉Cuenta con 148 afectaciones por averías secundarias y de servicio",
-    "timestamp": 1774382888,
-    "timestamp_local": 1774382888
-  },
-  {
-    "id": 42820,
-    "fecha": "24 de Mar del 2026 a las 03:55 PM",
-    "hora_utc": "2026-03-24 19:55",
-    "mensaje": "⚠️Afectado el servicio eléctrico en los siguientes circuitos:\n🔸Municipio Encrucijada\n👉Cto 120 Calabazar\n👉Ctos 121 y 127 Perucho\n🔸Municipio Cifuentes:\n👉Ctos 114 y 117\n👉Ctos 116 y 155 Mata\n👉Cto 186 Batey Unidad Proletaria\n🔸Municipio Sagua \n👉Cto 48 Finalet\n👉Ctos 46 y 128 Sitiecito\n🔸Municipio Placetas:\n👉Ctos 101 y 145 Cumbre",
-    "timestamp": 1774382131,
-    "timestamp_local": 1774382131
   }
 ]
