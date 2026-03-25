@@ -1,5 +1,21 @@
 [
   {
+    "id": 51481,
+    "fecha": "25 de Mar del 2026 a las 07:06 PM",
+    "hora_utc": "2026-03-25 23:06",
+    "mensaje": "🔴Estimados clientes en estos momentos se afecto por Déficit el circuito San Juan .",
+    "timestamp": 1774479961,
+    "timestamp_local": 1774479961
+  },
+  {
+    "id": 51479,
+    "fecha": "25 de Mar del 2026 a las 06:30 PM",
+    "hora_utc": "2026-03-25 22:30",
+    "mensaje": "🚨Estimados clientes en estos momentos se les comunica que se afectaron por Déficit los circuitos 20, 21, LI 5385-San Luis-Palma, 2 de Palma y Línea 5395-San Luis.",
+    "timestamp": 1774477857,
+    "timestamp_local": 1774477857
+  },
+  {
     "id": 51478,
     "fecha": "25 de Mar del 2026 a las 04:54 PM",
     "hora_utc": "2026-03-25 20:54",
@@ -118,29 +134,5 @@
     "mensaje": "🚨Disparo Automático de Frecuencia (DAF):\nOcurre cuando la frecuencia está por debajo de los 60Hz y determinada carga o circuito se desconecta del sistema automáticamente hasta que se estabilice.",
     "timestamp": 1774455594,
     "timestamp_local": 1774455594
-  },
-  {
-    "id": 51460,
-    "fecha": "25 de Mar del 2026 a las 12:19 PM",
-    "hora_utc": "2026-03-25 16:19",
-    "mensaje": "🔊Estimados clientes en estos momentos se encuentra Disparado por DAF  los circuitos 7 y 26",
-    "timestamp": 1774455575,
-    "timestamp_local": 1774455575
-  },
-  {
-    "id": 51459,
-    "fecha": "25 de Mar del 2026 a las 11:51 AM",
-    "hora_utc": "2026-03-25 15:51",
-    "mensaje": "🔊Estimados clientes en estos momentos se encuentra afectados por Déficit de Capacidad de Generación La Línea 4435 Contramaestre",
-    "timestamp": 1774453864,
-    "timestamp_local": 1774453864
-  },
-  {
-    "id": 51458,
-    "fecha": "25 de Mar del 2026 a las 11:23 AM",
-    "hora_utc": "2026-03-25 15:23",
-    "mensaje": "🔊Estimados clientes en estos momentos se encuentra afectados por Déficit de Capacidad de Generación la Línea 5330 el Cristo  y 5335 Guama",
-    "timestamp": 1774452196,
-    "timestamp_local": 1774452196
   }
 ]
