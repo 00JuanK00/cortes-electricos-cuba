@@ -1,5 +1,21 @@
 [
   {
+    "id": 110457,
+    "fecha": "25 de Mar del 2026 a las 06:17 AM",
+    "hora_utc": "2026-03-25 10:17",
+    "mensaje": "🚨Por déficit de capacidad de generación se afecta el servicio en el siguiente circuito:\n*Güines 4🚨",
+    "timestamp": 1774433849,
+    "timestamp_local": 1774433849
+  },
+  {
+    "id": 110456,
+    "fecha": "25 de Mar del 2026 a las 06:17 AM",
+    "hora_utc": "2026-03-25 10:17",
+    "mensaje": "🚨Por déficit de capacidad de generación se afecta el servicio en el siguiente circuito:\n*5 de San José 🚨",
+    "timestamp": 1774433830,
+    "timestamp_local": 1774433830
+  },
+  {
     "id": 110453,
     "fecha": "25 de Mar del 2026 a las 02:16 AM",
     "hora_utc": "2026-03-25 06:16",
@@ -11,7 +27,7 @@
     "id": 110452,
     "fecha": "25 de Mar del 2026 a las 02:09 AM",
     "hora_utc": "2026-03-25 06:09",
-    "mensaje": "🚨Por déficit de capacidad de generación se afecta el servicio en los siguientes circuitos:\n*3655\n*3660🚨",
+    "mensaje": "🚨Por déficit de capacidad de generación se afecta el servicio en los siguientes circuitos:\n*3655\n*3660\n*2420\n*2440🚨",
     "timestamp": 1774418985,
     "timestamp_local": 1774418985
   },
@@ -118,21 +134,5 @@
     "mensaje": "🔹Con servicio el circuito 1790 que se encontraba afectado por disparo por DAF🔷",
     "timestamp": 1774412559,
     "timestamp_local": 1774412559
-  },
-  {
-    "id": 110437,
-    "fecha": "25 de Mar del 2026 a las 12:22 AM",
-    "hora_utc": "2026-03-25 04:22",
-    "mensaje": "♦️ Afectado el servicio en el circuito 1790 por disparo por DAF♦️",
-    "timestamp": 1774412559,
-    "timestamp_local": 1774412559
-  },
-  {
-    "id": 110436,
-    "fecha": "25 de Mar del 2026 a las 12:09 AM",
-    "hora_utc": "2026-03-25 04:09",
-    "mensaje": "🔷♦️Se restablece el servicio en el circuito que se encontraba afectado  por déficit de capacidad de generación:\n*Jaruco ♦️🔷",
-    "timestamp": 1774411764,
-    "timestamp_local": 1774411764
   }
 ]
