@@ -1,5 +1,21 @@
 [
   {
+    "id": 42892,
+    "fecha": "25 de Mar del 2026 a las 04:00 PM",
+    "hora_utc": "2026-03-25 20:00",
+    "mensaje": "⚠️Afectado el servicio eléctrico en  el siguiente circuito:\n🔹Municipio Santa Clara\n👉Cto 31 (Santa Clara Industrial)",
+    "timestamp": 1774468824,
+    "timestamp_local": 1774468824
+  },
+  {
+    "id": 42891,
+    "fecha": "25 de Mar del 2026 a las 03:58 PM",
+    "hora_utc": "2026-03-25 19:58",
+    "mensaje": "💡Con servicio eléctrico en los siguientes circuitos:\n🔹Municipio Placetas \n👉Ctos 100 y 151 Placetas\n👉Cto 104 Hermanos Amejeira\n👉Cto 103 Batey Carbó Servía",
+    "timestamp": 1774468721,
+    "timestamp_local": 1774468721
+  },
+  {
     "id": 42890,
     "fecha": "25 de Mar del 2026 a las 03:11 PM",
     "hora_utc": "2026-03-25 19:11",
@@ -142,21 +158,5 @@
     "mensaje": "💡Con servicio eléctrico Línea 108\n➡️Línea 108\n🔹Municipio Ranchuelo:\n👉Cto 92 Esperanza (Pueblo)\n👉Cto 93 Esperanza (Campo)\n🔹Municipio Santa Clara\n👉Ctos 26 y 141 (Manuelita)\n👉Cto 191 (Quemado de Hilario)",
     "timestamp": 1774457252,
     "timestamp_local": 1774457252
-  },
-  {
-    "id": 42871,
-    "fecha": "25 de Mar del 2026 a las 12:39 PM",
-    "hora_utc": "2026-03-25 16:39",
-    "mensaje": "⚠️Afectado el servicio eléctrico en los siguientes circuitos:\n🔹Municipio Quemado:\n👉Ctos 164, 52 y 53 Quemado.\n👉Cto 196 Batey Panchito Gómez Toro.",
-    "timestamp": 1774456776,
-    "timestamp_local": 1774456776
-  },
-  {
-    "id": 42870,
-    "fecha": "25 de Mar del 2026 a las 12:16 PM",
-    "hora_utc": "2026-03-25 16:16",
-    "mensaje": "💡Con servicio eléctrico Línea 1720\n🔹Municipio Santo Domingo:\n👉Ctos  195 Batey George Washington\n👉Ctos  83 y 165 Manacas\n👉Ctos 85 y 86 Pajarito\n👉Ctos 160 y 161 Cascajal",
-    "timestamp": 1774455385,
-    "timestamp_local": 1774455385
   }
 ]
