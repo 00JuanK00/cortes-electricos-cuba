@@ -1,5 +1,21 @@
 [
   {
+    "id": 51446,
+    "fecha": "24 de Mar del 2026 a las 10:58 PM",
+    "hora_utc": "2026-03-25 02:58",
+    "mensaje": "🔉Estimados clientes en estos momentos se encuentra afectada la Línea 5380 de San Luis-Mella por Déficit de Capacidad de Generación disculpen las molestias ocasionadas",
+    "timestamp": 1774407517,
+    "timestamp_local": 1774407517
+  },
+  {
+    "id": 51445,
+    "fecha": "24 de Mar del 2026 a las 10:34 PM",
+    "hora_utc": "2026-03-25 02:34",
+    "mensaje": "🚨Estimados clientes en estos momentos se encuentra afectados por Déficit de Capacidad de Generación los circuitos 2 ,12,22 y 23 de Santiago y la Línea 5975 Baconao y la 4395 de Contramaestre disculpen por las molestias ocasionadas.",
+    "timestamp": 1774406068,
+    "timestamp_local": 1774406068
+  },
+  {
     "id": 51443,
     "fecha": "24 de Mar del 2026 a las 08:28 PM",
     "hora_utc": "2026-03-25 00:28",
@@ -118,21 +134,5 @@
     "mensaje": "🚨Estimados clientes se les comunica que se incorporan a la afectación por Déficit los circuitos 19, 24 ,13 y 8.",
     "timestamp": 1774372384,
     "timestamp_local": 1774372384
-  },
-  {
-    "id": 51426,
-    "fecha": "24 de Mar del 2026 a las 01:11 PM",
-    "hora_utc": "2026-03-24 17:11",
-    "mensaje": "🔴Disparo Automático de Frecuencia (DAF):\nOcurre cuando la frecuencia está por debajo de los 60Hz y determinada carga o circuito se desconecta del sistema automáticamente hasta que se estabilice.",
-    "timestamp": 1774372297,
-    "timestamp_local": 1774372297
-  },
-  {
-    "id": 51425,
-    "fecha": "24 de Mar del 2026 a las 01:11 PM",
-    "hora_utc": "2026-03-24 17:11",
-    "mensaje": "🔴Estimados clientes en estos momentos se encuentra afectado por DAF el circuito 11.",
-    "timestamp": 1774372275,
-    "timestamp_local": 1774372275
   }
 ]
