@@ -1,5 +1,21 @@
 [
   {
+    "id": 37003,
+    "fecha": "26 de Mar del 2026 a las 01:05 PM",
+    "hora_utc": "2026-03-26 17:05",
+    "mensaje": "✅ Información.\n🔴 11:15 || Fuera de línea la Unidad 2 de la CTE Ernesto Guevara De La Serna.",
+    "timestamp": 1774544702,
+    "timestamp_local": 1774544702
+  },
+  {
+    "id": 37002,
+    "fecha": "26 de Mar del 2026 a las 01:04 PM",
+    "hora_utc": "2026-03-26 17:04",
+    "mensaje": "‼️ Información del déficit de generación ‼️   \n👉Bajamos a  64 MW en la provincia afectados por déficit de generación.\n⏰ Con este déficit, la carga a apagar en la provincia no nos permite realizar una rotación estable de los circuitos, por lo que se afectarán o se restablecerán en dependencia del déficit que haya en cada momento de la jornada, que es muy variable.",
+    "timestamp": 1774544672,
+    "timestamp_local": 1774544672
+  },
+  {
     "id": 37001,
     "fecha": "26 de Mar del 2026 a las 12:14 PM",
     "hora_utc": "2026-03-26 16:14",
@@ -134,13 +150,5 @@
     "mensaje": "‼️ Información ‼️   \n👉 Nos mantenemos con 100 MW en la provincia afectados por déficit de generación. Con este déficit no podemos cumplir con una programación estable, por lo que los circuitos se afectarán o se restablecerán en dependencia del déficit que haya en cada momento de la jornada",
     "timestamp": 1774481417,
     "timestamp_local": 1774481417
-  },
-  {
-    "id": 36982,
-    "fecha": "25 de Mar del 2026 a las 05:06 PM",
-    "hora_utc": "2026-03-25 21:06",
-    "mensaje": "‼️ Información ‼️   \n👉 Subimos a 100 MW en la provincia afectados por déficit de generación. Con este déficit no podemos cumplir con una programación estable, por lo que los circuitos se afectarán o se restablecerán en dependencia del déficit que haya en cada momento de la jornada",
-    "timestamp": 1774472776,
-    "timestamp_local": 1774472776
   }
 ]
