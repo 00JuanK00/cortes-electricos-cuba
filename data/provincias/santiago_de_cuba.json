@@ -1,5 +1,29 @@
 [
   {
+    "id": 51501,
+    "fecha": "26 de Mar del 2026 a las 11:23 AM",
+    "hora_utc": "2026-03-26 15:23",
+    "mensaje": "Disparo Automático de Frecuencia (DAF):\nOcurre cuando la frecuencia está por debajo de los 60Hz y determinada carga o circuito se desconecta del sistema automáticamente hasta que se estabilice.",
+    "timestamp": 1774538583,
+    "timestamp_local": 1774538583
+  },
+  {
+    "id": 51500,
+    "fecha": "26 de Mar del 2026 a las 11:22 AM",
+    "hora_utc": "2026-03-26 15:22",
+    "mensaje": "🔉 Estimados clientes se les informa que se encuentran afectados los circuitos 7 , 17 de Santiago Disparado (DAF) .",
+    "timestamp": 1774538557,
+    "timestamp_local": 1774538557
+  },
+  {
+    "id": 51499,
+    "fecha": "26 de Mar del 2026 a las 10:20 AM",
+    "hora_utc": "2026-03-26 14:20",
+    "mensaje": "🔉 Estimados clientes se les informa que se encuentran afectados los circuitos 7 , 20 , 26 de Santiago , 1 de Palma , Línea 4385 Contramaestre por déficit de capacidad de generación .",
+    "timestamp": 1774534850,
+    "timestamp_local": 1774534850
+  },
+  {
     "id": 51498,
     "fecha": "26 de Mar del 2026 a las 08:38 AM",
     "hora_utc": "2026-03-26 12:38",
@@ -94,21 +118,5 @@
     "mensaje": "🔴Estimados clientes en estos momentos se incorporan a la afectación por Déficit los circuitos 10, 2, 12, LI 4390-Contramaestre, LI 5975-Baconao y Li 5380-Mella.",
     "timestamp": 1774480361,
     "timestamp_local": 1774480361
-  },
-  {
-    "id": 51481,
-    "fecha": "25 de Mar del 2026 a las 07:06 PM",
-    "hora_utc": "2026-03-25 23:06",
-    "mensaje": "🔴Estimados clientes en estos momentos se afecto por Déficit el circuito San Juan .",
-    "timestamp": 1774479961,
-    "timestamp_local": 1774479961
-  },
-  {
-    "id": 51479,
-    "fecha": "25 de Mar del 2026 a las 06:30 PM",
-    "hora_utc": "2026-03-25 22:30",
-    "mensaje": "🚨Estimados clientes en estos momentos se les comunica que se afectaron por Déficit los circuitos 20, 21, LI 5385-San Luis-Palma, 2 de Palma y Línea 5395-San Luis.",
-    "timestamp": 1774477857,
-    "timestamp_local": 1774477857
   }
 ]

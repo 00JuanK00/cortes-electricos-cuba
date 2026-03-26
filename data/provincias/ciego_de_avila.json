@@ -1,5 +1,29 @@
 [
   {
+    "id": 37000,
+    "fecha": "26 de Mar del 2026 a las 11:47 AM",
+    "hora_utc": "2026-03-26 15:47",
+    "mensaje": "✅ Información.\n👉 Se encuentra sin servicio el circuito A110, se trabaja para restablecer el servicio en el menor tiempo posible.",
+    "timestamp": 1774540042,
+    "timestamp_local": 1774540042
+  },
+  {
+    "id": 36999,
+    "fecha": "26 de Mar del 2026 a las 11:38 AM",
+    "hora_utc": "2026-03-26 15:38",
+    "mensaje": "‼️ Información del déficit de generación ‼️   \n👉Tenemos 67 MW en la provincia afectados por déficit de generación.\n⏰ Con este déficit, la carga a apagar en la provincia no nos permite realizar una rotación estable de los circuitos, por lo que se afectarán o se restablecerán en dependencia del déficit que haya en cada momento de la jornada, que es muy variable.",
+    "timestamp": 1774539533,
+    "timestamp_local": 1774539533
+  },
+  {
+    "id": 36998,
+    "fecha": "26 de Mar del 2026 a las 10:11 AM",
+    "hora_utc": "2026-03-26 14:11",
+    "mensaje": "‼️ Información ‼️   \n👉 Bajamos a  70 MW en la provincia afectados por déficit de generación. Con este déficit no podemos cumplir con una programación estable, por lo que los circuitos se afectarán o se restablecerán en dependencia del déficit que haya en cada momento de la jornada.",
+    "timestamp": 1774534284,
+    "timestamp_local": 1774534284
+  },
+  {
     "id": 36997,
     "fecha": "26 de Mar del 2026 a las 10:00 AM",
     "hora_utc": "2026-03-26 14:00",
@@ -118,29 +142,5 @@
     "mensaje": "‼️ Información ‼️   \n👉 Continuamos con 75 MW en la provincia afectados por déficit de generación. Con este déficit no podemos cumplir con una programación estable, por lo que los circuitos se afectarán o se restablecerán en dependencia del déficit que haya en cada momento de la jornada",
     "timestamp": 1774471070,
     "timestamp_local": 1774471070
-  },
-  {
-    "id": 36980,
-    "fecha": "25 de Mar del 2026 a las 01:49 PM",
-    "hora_utc": "2026-03-25 17:49",
-    "mensaje": "‼️Información‼️\n\n ⏰ Los circuitos  restablecidos tendrán servicio por un estimado de 1 hora y 30 min aproximadamente en dependencia del déficit solicitado en cada momento de la jornada que es muy variable.",
-    "timestamp": 1774460995,
-    "timestamp_local": 1774460995
-  },
-  {
-    "id": 36979,
-    "fecha": "25 de Mar del 2026 a las 01:47 PM",
-    "hora_utc": "2026-03-25 17:47",
-    "mensaje": "‼️ Información ‼️   \n👉 Continuamos con 75 MW en la provincia afectados por déficit de generación. Con este déficit no podemos cumplir con una programación estable, por lo que los circuitos se afectarán o se restablecerán en dependencia del déficit que haya en cada momento de la jornada",
-    "timestamp": 1774460867,
-    "timestamp_local": 1774460867
-  },
-  {
-    "id": 36978,
-    "fecha": "25 de Mar del 2026 a las 12:59 PM",
-    "hora_utc": "2026-03-25 16:59",
-    "mensaje": "👉 Restablecidos los circuitos que estaban afectados por el DAF.",
-    "timestamp": 1774457943,
-    "timestamp_local": 1774457943
   }
 ]
