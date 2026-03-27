@@ -1,5 +1,53 @@
 [
   {
+    "id": 42986,
+    "fecha": "27 de Mar del 2026 a las 12:48 AM",
+    "hora_utc": "2026-03-27 04:48",
+    "mensaje": "💡Restablecido el servicio eléctrico en el circuito 1 Zona Centro.",
+    "timestamp": 1774586901,
+    "timestamp_local": 1774586901
+  },
+  {
+    "id": 42985,
+    "fecha": "27 de Mar del 2026 a las 12:20 AM",
+    "hora_utc": "2026-03-27 04:20",
+    "mensaje": "🛠️Afectado por manipulación el circuito 1 Zona Centro para cerrar banco de transformador.",
+    "timestamp": 1774585245,
+    "timestamp_local": 1774585245
+  },
+  {
+    "id": 42984,
+    "fecha": "27 de Mar del 2026 a las 12:15 AM",
+    "hora_utc": "2026-03-27 04:15",
+    "mensaje": "💡Restablecido el servicio eléctrico en el circuito 26 Manuelita.",
+    "timestamp": 1774584937,
+    "timestamp_local": 1774584937
+  },
+  {
+    "id": 42983,
+    "fecha": "27 de Mar del 2026 a las 12:00 AM",
+    "hora_utc": "2026-03-27 04:00",
+    "mensaje": "🕛Actualización del servicio eléctrico. \n✍️El déficit de capacidad de generación en estos momentos es de 86 MW. \n✍️En el momento de esta nota, se mantienen afectados 123 circuitos.\n✍️Cuenta con 105 afectaciones por averías secundarias y de servicio:\n\n🔸Caibarien (2)\n🔸Camajuani (1)\n🔸Cifuentes (1)\n🔸Manicaragua (12)\n🔸Placetas (5)\n🔸Ranchuelo (9)\n🔸Sagua (7)\n🔸Santa Clara (42)\n🔸Santo Domingo (6)\n\n🛠️Pendientes a solucionar por el área técnica 16.\n⚡Averías⚡\n\n🛠️Afectado por vía libre el circuito 26 Manuelita, para reparar neutro abierto.",
+    "timestamp": 1774584032,
+    "timestamp_local": 1774584032
+  },
+  {
+    "id": 42982,
+    "fecha": "26 de Mar del 2026 a las 11:37 PM",
+    "hora_utc": "2026-03-27 03:37",
+    "mensaje": "🛠️Afectado por vía libre el circuito 26 Manuelita, para reparar neutro abierto.",
+    "timestamp": 1774582623,
+    "timestamp_local": 1774582623
+  },
+  {
+    "id": 42981,
+    "fecha": "26 de Mar del 2026 a las 10:34 PM",
+    "hora_utc": "2026-03-27 02:34",
+    "mensaje": "💡Restablecido el servicio eléctrico en el circuito 167 Virginia.",
+    "timestamp": 1774578855,
+    "timestamp_local": 1774578855
+  },
+  {
     "id": 42980,
     "fecha": "26 de Mar del 2026 a las 10:15 PM",
     "hora_utc": "2026-03-27 02:15",
@@ -102,53 +150,5 @@
     "mensaje": "⚠️Afectado el servicio eléctrico en  los siguientes circuitos:\n🔹Municipio Santa Clara:\n👉Cto 5 (Dobarganes)\n👉Cto 17 (Subplanta) \n👉Ctos 37 y 38 (Yabú)   \n👉Cto 9 (Moldes y Troqueles)\n👉Cto 133 (Taller Cafetera)",
     "timestamp": 1774563763,
     "timestamp_local": 1774563763
-  },
-  {
-    "id": 42966,
-    "fecha": "26 de Mar del 2026 a las 06:16 PM",
-    "hora_utc": "2026-03-26 22:16",
-    "mensaje": "⚠️Afectado el servicio eléctrico en  los siguientes circuitos:\n🔹Municipio Caibarién\n👉Ctos 182 y 183 Van Troy",
-    "timestamp": 1774563371,
-    "timestamp_local": 1774563371
-  },
-  {
-    "id": 42965,
-    "fecha": "26 de Mar del 2026 a las 06:07 PM",
-    "hora_utc": "2026-03-26 22:07",
-    "mensaje": "🕕Actualización del servicio eléctrico. \n✍️El déficit de capacidad de generación en estos momentos es de 123 MW. \n✍️En el momento de esta nota, se mantienen afectados 118 circuitos.\n\n✍️Cuenta con 101 afectaciones por averías secundarias y de servicio:\n🔸Caibarien (6)\n🔸Manicaragua (11)\n🔸Placetas (8)\n🔸Ranchuelo (9)\n🔸Remedios (2)\n🔸Sagua (6)\n🔸Santa Clara (36)\n🔸Santo Domingo (5)\n\n🛠️Pendientes a solucionar por el área técnica 18.\n🛠️En vía libre los siguientes circuitos para realizar trabajo de poda y cambio de poste.\n🔹Municipio Santa Clara\n👉Cto 7 (Universidad)  \n👉Cto 22 (Construcciones Textil)\n👉Cto 131 (Las Antillas)\n👉Cto 153 (EIDE)\n👉Ctos 14, 15 y 27 (Maleza)\n👉Cto 30 (afectado en estos momentos por déficit)",
-    "timestamp": 1774562842,
-    "timestamp_local": 1774562842
-  },
-  {
-    "id": 42964,
-    "fecha": "26 de Mar del 2026 a las 05:44 PM",
-    "hora_utc": "2026-03-26 21:44",
-    "mensaje": "⚠️Afectado el servicio eléctrico en  los siguientes circuitos:\n🔹Municipio Santa Clara\n👉Cto 146 (Elevado Aeropuerto) \n👉Cto 25 (Los Güiros)\n👉Cto 24 (Planta Asfalto)\n👉Cto 35 (Biotecnología)",
-    "timestamp": 1774561498,
-    "timestamp_local": 1774561498
-  },
-  {
-    "id": 42963,
-    "fecha": "26 de Mar del 2026 a las 05:31 PM",
-    "hora_utc": "2026-03-26 21:31",
-    "mensaje": "⚠️Afectado el servicio eléctrico en  los siguientes circuitos:\n🔹Municipio Santa Clara: \n👉Cto 166 (Condado)\n👉Cto 167 (Virginia)\n👉Cto 170 (José Martí)\n👉Cto 171 (Los Caneyes)",
-    "timestamp": 1774560680,
-    "timestamp_local": 1774560680
-  },
-  {
-    "id": 42962,
-    "fecha": "26 de Mar del 2026 a las 04:59 PM",
-    "hora_utc": "2026-03-26 20:59",
-    "mensaje": "⚠️Afectado el servicio eléctrico en  los siguientes circuitos:\n🔹Municipio Caibarién\n👉Ctos 61, 62",
-    "timestamp": 1774558757,
-    "timestamp_local": 1774558757
-  },
-  {
-    "id": 42961,
-    "fecha": "26 de Mar del 2026 a las 04:46 PM",
-    "hora_utc": "2026-03-26 20:46",
-    "mensaje": "⚠️Afectado el servicio eléctrico en  los siguientes circuitos:\n🔹Municipio Santa Clara:\n👉Ctos 1, 2 (Consejo- Centro)",
-    "timestamp": 1774558008,
-    "timestamp_local": 1774558008
   }
 ]
