@@ -1,5 +1,21 @@
 [
   {
+    "id": 42973,
+    "fecha": "26 de Mar del 2026 a las 07:56 PM",
+    "hora_utc": "2026-03-26 23:56",
+    "mensaje": "⚠️Afectado el servicio eléctrico en el circuito 99 Placetas.",
+    "timestamp": 1774569372,
+    "timestamp_local": 1774569372
+  },
+  {
+    "id": 42972,
+    "fecha": "26 de Mar del 2026 a las 07:47 PM",
+    "hora_utc": "2026-03-26 23:47",
+    "mensaje": "💡Restablecido el servicio eléctrico en el circuito 30 Capiro.",
+    "timestamp": 1774568831,
+    "timestamp_local": 1774568831
+  },
+  {
     "id": 42971,
     "fecha": "26 de Mar del 2026 a las 07:25 PM",
     "hora_utc": "2026-03-26 23:25",
@@ -142,21 +158,5 @@
     "mensaje": "💡Con servicio eléctrico el circuito 13 Zona Industrial.",
     "timestamp": 1774551979,
     "timestamp_local": 1774551979
-  },
-  {
-    "id": 42953,
-    "fecha": "26 de Mar del 2026 a las 02:43 PM",
-    "hora_utc": "2026-03-26 18:43",
-    "mensaje": "💡Con servicio eléctrico  los siguientes circuitos:\n🔹Municipio Camajuaní:\n👉Ctos 73 y 156",
-    "timestamp": 1774550607,
-    "timestamp_local": 1774550607
-  },
-  {
-    "id": 42952,
-    "fecha": "26 de Mar del 2026 a las 02:10 PM",
-    "hora_utc": "2026-03-26 18:10",
-    "mensaje": "💡Restablecido el servicio eléctrico en los circuitos del poblado Jicotea después de solucionada la avería.\n🔹Municipio Ranchuelo:\n👉Ctos 54, 94 y 95 Jicotea",
-    "timestamp": 1774548636,
-    "timestamp_local": 1774548636
   }
 ]
