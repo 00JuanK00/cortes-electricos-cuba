@@ -1,5 +1,29 @@
 [
   {
+    "id": 43095,
+    "fecha": "28 de Mar del 2026 a las 12:52 AM",
+    "hora_utc": "2026-03-28 04:52",
+    "mensaje": "Afectados 88 MW en la provincia, demanda máxima a apagar en estos momentos.",
+    "timestamp": 1774673552,
+    "timestamp_local": 1774673552
+  },
+  {
+    "id": 43094,
+    "fecha": "28 de Mar del 2026 a las 12:15 AM",
+    "hora_utc": "2026-03-28 04:15",
+    "mensaje": "⚠️Afectado el servicio eléctrico en  los siguientes circuitos:\n🔹Municipio Caibarién\n👉Cto 62 \n👉Ctos 182 y 183 Van Troy\n🔹Municipio Sagua\n👉Ctos 43, 51 Sagua\n👉Cto 44 Isabela",
+    "timestamp": 1774671307,
+    "timestamp_local": 1774671307
+  },
+  {
+    "id": 43093,
+    "fecha": "28 de Mar del 2026 a las 12:12 AM",
+    "hora_utc": "2026-03-28 04:12",
+    "mensaje": "🕛Actualización del servicio eléctrico. \n✍️El déficit de capacidad de generación en estos momentos es de 91 MW. \n✍️En el momento de esta nota, se mantienen afectados 133 circuitos.\n✍️Cuenta con 92 afectaciones por averías secundarias y de servicio:\n🔸Caibarién (1)\n🔸Corralillo (1)\n🔸Manicaragua (13)\n🔸Placetas (4)\n🔸Remedios (2)\n🔸Sagua (8)\n🔸Santa Clara (39)\n🔸Santo Domingo (8)\n🛠️Pendientes a solucionar por el área técnica 13.\n🛠️ Se encuentran 3 averías en vías de solución.\n⚡La provincia  presenta 2 averías primarias:\n👉Cto 122 del municipio Encrucijada afectado por cable primario partido.  (En estos momentos la línea se encuentra afectada por déficit de capacidad de generación)\n👉Cto 60 (La Sierra), del municipio Corralillo. Se estudian las causas.",
+    "timestamp": 1774671146,
+    "timestamp_local": 1774671146
+  },
+  {
     "id": 43092,
     "fecha": "27 de Mar del 2026 a las 10:54 PM",
     "hora_utc": "2026-03-28 02:54",
@@ -134,29 +158,5 @@
     "mensaje": "Con servicio el circuito 13 (Zona Industrial), del municipio Santa Clara.",
     "timestamp": 1774646074,
     "timestamp_local": 1774646074
-  },
-  {
-    "id": 43074,
-    "fecha": "27 de Mar del 2026 a las 04:59 PM",
-    "hora_utc": "2026-03-27 20:59",
-    "mensaje": "⚠️Afectado el servicio eléctrico en  los siguientes circuitos:\n🔹Municipio Caibarién:\n👉Ctos 61, 63 y 64",
-    "timestamp": 1774645189,
-    "timestamp_local": 1774645189
-  },
-  {
-    "id": 43073,
-    "fecha": "27 de Mar del 2026 a las 04:45 PM",
-    "hora_utc": "2026-03-27 20:45",
-    "mensaje": "🛠️Afectado por manipulación el circuito 13 (Zona Industrial), del municipio Santa Clara.",
-    "timestamp": 1774644316,
-    "timestamp_local": 1774644316
-  },
-  {
-    "id": 43072,
-    "fecha": "27 de Mar del 2026 a las 04:44 PM",
-    "hora_utc": "2026-03-27 20:44",
-    "mensaje": "⚠️Afectado el servicio eléctrico en  los siguientes circuitos:\n🔹Municipio Remedios:\n👉Ctos 67 y 152, 68 y 118 \n👉Ctos 69 y 70 Zuluetas\n👉Cto 143 Batey Heriberto Duquezne \n👉Cto 71 Buena Vista",
-    "timestamp": 1774644262,
-    "timestamp_local": 1774644262
   }
 ]
