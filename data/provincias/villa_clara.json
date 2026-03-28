@@ -1,5 +1,37 @@
 [
   {
+    "id": 43106,
+    "fecha": "28 de Mar del 2026 a las 07:42 AM",
+    "hora_utc": "2026-03-28 11:42",
+    "mensaje": "🚨Nota informativa.🚨 \n\n📆Situación del SEN para el 28 de marzo de 2026.\n\n👉En el día de ayer se afectó el servicio por déficit de capacidad durante las 24 horas y se ha mantenido la afectación durante la madrugada de hoy. La máxima afectación por déficit de capacidad de generación en el día de ayer fue de 1768 MW a las 19:20 horas.\n\n☀️La producción de energía de los 52 nuevos parques solares fotovoltaicos fue de 3445 MWh, con 558 MW como máxima potencia entregada en el horario de la media con esta fuente de generación.  \n\n▪️La disponibilidad del SEN a las 06:00 horas es de 1230 MW, la demanda 2250 MW, con 982 MW afectados. En el horario de la media se estima una afectación de 1100 MW.  \n\n🛠️Se encuentran en avería, la unidad 5 de la CTE Mariel, las unidades 1 y 3 de la CTE Santa Cruz, la unidad 2 de la CTE Felton y las unidades 3, 5 y 6 de la CTE Renté. Se encuentran en mantenimiento, la unidad 6 de la CTE Mariel y la unidad 5 de la CTE Nuevitas.\n▪️Las limitaciones en la generación térmica son de 320 MW.\n\n📈Para el pico se prevé la entrada de la unidad 5 de la CTE Renté con 50 MW (en proceso de arranque), la entrada de la turbina 5 de Energás Boca de Jaruco con 20 MW y la entrada de la unidad 1 de la CTE Santa Cruz con 70 MW.\n\n📉Se prevé para el pico una disponibilidad de 1370 MW con una demanda máxima de 3000 MW, para un déficit de 1630 MW, por lo que de mantenerse las condiciones previstas se pronostica una afectación de 1660 MW en este horario.\n\nUNE-MINEM",
+    "timestamp": 1774698123,
+    "timestamp_local": 1774698123
+  },
+  {
+    "id": 43105,
+    "fecha": "28 de Mar del 2026 a las 07:39 AM",
+    "hora_utc": "2026-03-28 11:39",
+    "mensaje": "⚠️Afectado el servicio eléctrico en  los siguientes circuitos:\n🔹Municipio Remedios:\n👉Ctos 67 y 152, 68 y 118 \n👉Ctos 69 y 70 Zuluetas\n👉Cto 143 Batey Heriberto Duquezne \n👉Cto 71 Buena Vista",
+    "timestamp": 1774697994,
+    "timestamp_local": 1774697994
+  },
+  {
+    "id": 43104,
+    "fecha": "28 de Mar del 2026 a las 07:17 AM",
+    "hora_utc": "2026-03-28 11:17",
+    "mensaje": "🛠️Afectado por faltar una fase en el circuito 14 (Maleza), del municipio Santa Clara.",
+    "timestamp": 1774696661,
+    "timestamp_local": 1774696661
+  },
+  {
+    "id": 43103,
+    "fecha": "28 de Mar del 2026 a las 07:12 AM",
+    "hora_utc": "2026-03-28 11:12",
+    "mensaje": "⚠️Afectado el servicio eléctrico en  los siguientes circuitos:\n🔹Municipio Encrucijada:\n👉Cto 122 Encrucijada  \n👉Cto 123 Vizcaya \n👉Cto 142 Comunidad La Sierra \n👉Cto 126 Batey Emilio Córdova\n👉Cto 125 Cavarrocas\n👉Cto 124 El Santo\n🔹Municipio Camajuaní:                                                              \n👉Cto 78 Jutiero",
+    "timestamp": 1774696361,
+    "timestamp_local": 1774696361
+  },
+  {
     "id": 43101,
     "fecha": "28 de Mar del 2026 a las 06:59 AM",
     "hora_utc": "2026-03-28 10:59",
@@ -118,37 +150,5 @@
     "mensaje": "⚠️Afectado el servicio eléctrico en  los siguientes circuitos:\n🔹Municipio Camajuaní:\n👉Ctos  72, 73 y 129",
     "timestamp": 1774657304,
     "timestamp_local": 1774657304
-  },
-  {
-    "id": 43084,
-    "fecha": "27 de Mar del 2026 a las 08:15 PM",
-    "hora_utc": "2026-03-28 00:15",
-    "mensaje": "⚠️Afectado el servicio eléctrico en el circuito 144 (Camacho), del municipio Santa Clara.",
-    "timestamp": 1774656935,
-    "timestamp_local": 1774656935
-  },
-  {
-    "id": 43083,
-    "fecha": "27 de Mar del 2026 a las 07:41 PM",
-    "hora_utc": "2026-03-27 23:41",
-    "mensaje": "⚠️Afectado el servicio eléctrico en  los siguientes circuitos:\n🔹Municipio Santa Clara: \n👉Ctos 166 y 169 (Condado)\n👉Cto 5 (Dobarganes)\n👉Cto 17 (Subplanta) \n👉Ctos 37 y 38 (Yabú)   \n👉Cto 9 (Moldes y Troqueles)\n👉Cto 133 (Taller Cafetera)",
-    "timestamp": 1774654884,
-    "timestamp_local": 1774654884
-  },
-  {
-    "id": 43082,
-    "fecha": "27 de Mar del 2026 a las 07:17 PM",
-    "hora_utc": "2026-03-27 23:17",
-    "mensaje": "⚠️Afectado el servicio eléctrico en el circuito 132 (Santa Clara Industrial).",
-    "timestamp": 1774653426,
-    "timestamp_local": 1774653426
-  },
-  {
-    "id": 43081,
-    "fecha": "27 de Mar del 2026 a las 07:15 PM",
-    "hora_utc": "2026-03-27 23:15",
-    "mensaje": "⚠️Afectado el servicio eléctrico en el circuito 170 (José Martí), del municipio Santa Clara.",
-    "timestamp": 1774653336,
-    "timestamp_local": 1774653336
   }
 ]
