@@ -1,5 +1,21 @@
 [
   {
+    "id": 35528,
+    "fecha": "28 de Mar del 2026 a las 08:13 AM",
+    "hora_utc": "2026-03-28 12:13",
+    "mensaje": "Por déficit de capacidad de generación se encuentran afectados 88 MW.\n*Grupo de Comunicación Institucional.",
+    "timestamp": 1774700019,
+    "timestamp_local": 1774700019
+  },
+  {
+    "id": 35527,
+    "fecha": "28 de Mar del 2026 a las 08:10 AM",
+    "hora_utc": "2026-03-28 12:10",
+    "mensaje": "Informaciones EESS te explico que es ese término: \n\nLos disparos por frecuencia tienen varias causas, la que más abunda es por salida de una unidad generadora. Otra causa es entrada brusca de carga en el sistema.\n\nEn cualquiera de las causas, se pierde el balance Demanda/Generación y actúa una protección automática que desconecta circuitos hasta lograr este balance.\n\nLo importante en ese momento no es saber que unidad se disparó sino ver cómo se restablece la carga afectada.\n\nMás o menos, en eso se traduce un disparo por frecuencia, es algo técnico que se emplea en la operación del sistema.",
+    "timestamp": 1774699823,
+    "timestamp_local": 1774699823
+  },
+  {
     "id": 35526,
     "fecha": "28 de Mar del 2026 a las 07:39 AM",
     "hora_utc": "2026-03-28 11:39",
@@ -142,21 +158,5 @@
     "mensaje": "📌 Estimados clientes📌\n\n\n¿Cómo funciona la caldera en una central eléctrica?\nLa caldera en una central eléctrica convierte principalmente el agua en vapor, aprovechando la energía térmica de la combustión del combustible. Este vapor se utiliza para impulsar turbinas, que generan electricidad. \n\n\n*Grupo de Comunicación Institucional.",
     "timestamp": 1774659925,
     "timestamp_local": 1774659925
-  },
-  {
-    "id": 35508,
-    "fecha": "27 de Mar del 2026 a las 08:32 PM",
-    "hora_utc": "2026-03-28 00:32",
-    "mensaje": "Por déficit de capacidad de generación se encuentran afectados 116 MW.\n*Grupo de Comunicación Institucional.",
-    "timestamp": 1774657947,
-    "timestamp_local": 1774657947
-  },
-  {
-    "id": 35507,
-    "fecha": "27 de Mar del 2026 a las 08:10 PM",
-    "hora_utc": "2026-03-28 00:10",
-    "mensaje": "📌 Estimados clientes📌\n\nCircuito en avería:\nSucede si un circuito se interrumpe por causa de un defecto en un cable conductor de corriente (fase o neutro), un fusible fundido o disyuntor. En sistemas trifásicos una falla puede implicar una fase, más de una fase con la tierra o puede ocurrir solo entre fases.\n\n  *Grupo de Comunicación Institucional.",
-    "timestamp": 1774656622,
-    "timestamp_local": 1774656622
   }
 ]
