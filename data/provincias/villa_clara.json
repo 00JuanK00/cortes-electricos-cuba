@@ -1,9 +1,17 @@
 [
   {
+    "id": 43129,
+    "fecha": "28 de Mar del 2026 a las 12:15 PM",
+    "hora_utc": "2026-03-28 16:15",
+    "mensaje": "🕛Actualización del servicio eléctrico. \n✍️El déficit de capacidad de generación en estos momentos es de 110 MW. \n✍️En el momento de esta nota, se mantienen afectados 119 circuitos.\n✍️Cuenta con 107 afectaciones por averías secundarias y de servicio:\n🔸Caibarién (1)\n🔸Camajuaní (2)\n🔸Cifuentes (2)\n🔸Corralillo (1)\n🔸Manicaragua (13)\n🔸Placetas (8)\n🔸Ranchuelo (1)\n🔸Remedios (1)\n🔸Sagua (10)\n🔸Santa Clara (57)\n🔸Santo Domingo (8)\n🛠️Pendientes a solucionar por el área técnica 14.\n🛠️ Se encuentran 1 averías en vías de solución.\n⚡La provincia  presenta 3 averías primarias:\n👉Cto 60 (La Sierra), del municipio Corralillo. Se estudian las causas.\n👉Cto 9 (Moldes y Troqueles) por primario partido, perteneciente al municipio Santa Clara.\n👉Cto 185 Vueltas, se estudian las causas, perteneciente al municipio Camajuaní.",
+    "timestamp": 1774714508,
+    "timestamp_local": 1774714508
+  },
+  {
     "id": 43128,
     "fecha": "28 de Mar del 2026 a las 11:52 AM",
     "hora_utc": "2026-03-28 15:52",
-    "mensaje": "💡Con servicio la línea del 861:\n🔹Municipio Santa Clara:\n👉Cto 5 (Dobarganes)\n👉Cto 17 (Subplanta) \n👉Ctos 37 y 38 (Yabú)   \n👉Cto 133 (Taller Cafetera)\n\n👉Cto 9 (Moldes y Troqueles) (afectado por avería por primario partido)",
+    "mensaje": "💡Con servicio la línea del 861:\n🔹Municipio Santa Clara:\n👉Cto 5 (Dobarganes)\n👉Cto 17 (Subplanta) \n👉Ctos 37 y 38 (Yabú)   \n👉Cto 133 (Taller Cafetera)\n👉Cto 9 (Moldes y Troqueles) (afectado por avería por primario partido)",
     "timestamp": 1774713142,
     "timestamp_local": 1774713142
   },
@@ -142,13 +150,5 @@
     "mensaje": "⚠️Afectado el servicio eléctrico en el siguiente circuito:\n🔹Municipio Santa Clara: \n👉**Cto 132 SC. Industrial**",
     "timestamp": 1774702079,
     "timestamp_local": 1774702079
-  },
-  {
-    "id": 43109,
-    "fecha": "28 de Mar del 2026 a las 08:15 AM",
-    "hora_utc": "2026-03-28 12:15",
-    "mensaje": "⚠️Afectada la línea del 6375 por emergencia por neutro primario partido:\n🔹Municipio Santa Clara\n👉Cto 7 (Universidad)  \n👉Cto 146 (Elevado Aeropuerto) \n👉Cto 22 (Construcciones Textil)\n👉Cto 131 (Las Antillas)\n👉Cto 153 (EIDE)\n👉Cto 25 (Los Güiros)\n👉Cto 24 (Planta Asfalto)\n👉Cto 35 (Biotecnología) \n👉Ctos 14, 15 y 27 (Maleza)",
-    "timestamp": 1774700117,
-    "timestamp_local": 1774700117
   }
 ]
