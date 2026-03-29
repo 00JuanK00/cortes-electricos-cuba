@@ -1,5 +1,61 @@
 [
   {
+    "id": 43166,
+    "fecha": "29 de Mar del 2026 a las 12:02 AM",
+    "hora_utc": "2026-03-29 04:02",
+    "mensaje": "🕛Actualización del servicio eléctrico. \n✍️El déficit de capacidad de generación en estos momentos es de 89 MW. \n✍️En el momento de esta nota, se mantienen afectados 125 circuitos.\n✍️Cuenta con 87 afectaciones por averías secundarias y de servicio:\n🔸Cifuentes (1)\n🔸Manicaragua (4)\n🔸Placetas (6)\n🔸Ranchuelo (7)\n🔸Sagua (6)\n🔸Santa Clara (62)\n🔸Santo Domingo (1)\n🛠️Pendientes a solucionar por el área técnica 16.\n🛠️ Se encuentran 3 averías en vías de solución.\n⚡En avería el Cto 146 (Elevado Aeropuerto), por poste partido por accidente de tránsito.",
+    "timestamp": 1774756946,
+    "timestamp_local": 1774756946
+  },
+  {
+    "id": 43165,
+    "fecha": "28 de Mar del 2026 a las 11:24 PM",
+    "hora_utc": "2026-03-29 03:24",
+    "mensaje": "🟢Ante cualquier duda con la terminología eléctrica, les volvemos explicar: \n     \n✍️Las averías pueden ser primarias (afecta un volumen grande de población pues son las líneas de distribución a 13.8kV y puede afectar varias manzanas, incluso repartos completos).\n\n✍️Secundarias (afecta a todos los clientes que se alimenten del mismo transformador, puede afectar una o varias cuadras). \n\n✍️De servicio (afectan 1 solo cliente o instalación generalmente producto a daños en la acometida, metro contador, etc.).",
+    "timestamp": 1774754658,
+    "timestamp_local": 1774754658
+  },
+  {
+    "id": 43164,
+    "fecha": "28 de Mar del 2026 a las 11:01 PM",
+    "hora_utc": "2026-03-29 03:01",
+    "mensaje": "Afectados 95 MW en la provincia, demanda máxima a apagar en estos momentos.",
+    "timestamp": 1774753314,
+    "timestamp_local": 1774753314
+  },
+  {
+    "id": 43163,
+    "fecha": "28 de Mar del 2026 a las 10:30 PM",
+    "hora_utc": "2026-03-29 02:30",
+    "mensaje": "💡Con servicio la línea del 6375:\n🔹Municipio Santa Clara\n👉Cto 7 (Universidad)   \n👉Cto 22 (Construcciones Textil)\n👉Cto 131 (Las Antillas)\n👉Cto 153 (EIDE)\n👉Cto 25 (Los Güiros)\n👉Cto 24 (Planta Asfalto)\n👉Cto 35 (Biotecnología) \n👉Ctos 14, 15 y 27 (Maleza)",
+    "timestamp": 1774751409,
+    "timestamp_local": 1774751409
+  },
+  {
+    "id": 43162,
+    "fecha": "28 de Mar del 2026 a las 10:28 PM",
+    "hora_utc": "2026-03-29 02:28",
+    "mensaje": "⚡En avería el Cto 146 (Elevado Aeropuerto), por poste partido por accidente de tránsito.",
+    "timestamp": 1774751338,
+    "timestamp_local": 1774751338
+  },
+  {
+    "id": 43161,
+    "fecha": "28 de Mar del 2026 a las 10:13 PM",
+    "hora_utc": "2026-03-29 02:13",
+    "mensaje": "⚠️Afectada por emergencia la línea del 6375:\n🔹Municipio Santa Clara\n👉Cto 7 (Universidad)  \n👉Cto 146 (Elevado Aeropuerto) \n👉Cto 22 (Construcciones Textil)\n👉Cto 131 (Las Antillas)\n👉Cto 153 (EIDE)\n👉Cto 25 (Los Güiros)\n👉Cto 24 (Planta Asfalto)\n👉Cto 35 (Biotecnología) \n👉Ctos 14, 15 y 27 (Maleza)",
+    "timestamp": 1774750428,
+    "timestamp_local": 1774750428
+  },
+  {
+    "id": 43160,
+    "fecha": "28 de Mar del 2026 a las 10:06 PM",
+    "hora_utc": "2026-03-29 02:06",
+    "mensaje": "🔸Actualización del servicio eléctrico en la provincia🔸\n👉De los circuitos apagables que presenta la provincia, se mantienen  afectados 133 circuitos.\n👉En el momento de hacer esta nota la provincia tiene 110 MW de afectación.\n👉Cuenta con 89 afectaciones por averías secundarias y de servicio.",
+    "timestamp": 1774749980,
+    "timestamp_local": 1774749980
+  },
+  {
     "id": 43159,
     "fecha": "28 de Mar del 2026 a las 09:00 PM",
     "hora_utc": "2026-03-29 01:00",
@@ -94,61 +150,5 @@
     "mensaje": "💡Con servicio los siguientes circuitos de la línea del 108:\n🔹Municipio Santa Clara\n👉Ctos 26 y 141 (Manuelita)\n👉Cto 191 (Quemado de Hilario)",
     "timestamp": 1774732371,
     "timestamp_local": 1774732371
-  },
-  {
-    "id": 43146,
-    "fecha": "28 de Mar del 2026 a las 05:10 PM",
-    "hora_utc": "2026-03-28 21:10",
-    "mensaje": "⚠️Afectada por manipulación la línea del 108:\n🔹Municipio Ranchuelo:\n👉Cto 92 Esperanza (Pueblo)\n👉Cto 93 Esperanza (Campo)\n🔹Municipio Santa Clara\n👉Ctos 26 y 141 (Manuelita)\n👉Cto 191 (Quemado de Hilario)",
-    "timestamp": 1774732200,
-    "timestamp_local": 1774732200
-  },
-  {
-    "id": 43145,
-    "fecha": "28 de Mar del 2026 a las 05:00 PM",
-    "hora_utc": "2026-03-28 21:00",
-    "mensaje": "Afectados 131 MW en la provincia, demanda máxima a apagar en estos momentos.",
-    "timestamp": 1774731656,
-    "timestamp_local": 1774731656
-  },
-  {
-    "id": 43144,
-    "fecha": "28 de Mar del 2026 a las 04:42 PM",
-    "hora_utc": "2026-03-28 20:42",
-    "mensaje": "⚠️Afectado el servicio eléctrico en los siguientes circuitos:\n🔹Municipio Santa Clara:\n👉Ctos 1, 2 y 3 (Consejo- Centro)",
-    "timestamp": 1774730533,
-    "timestamp_local": 1774730533
-  },
-  {
-    "id": 43143,
-    "fecha": "28 de Mar del 2026 a las 04:30 PM",
-    "hora_utc": "2026-03-28 20:30",
-    "mensaje": "⚠️Afectado el servicio eléctrico en los siguientes circuitos:\n🔹Municipio Ranchuelo: \n👉Ctos 89, 97, 188 y 189\n👉Ctos 148 y 149 San Juan\n👉Cto 91 Batey Osvaldo Herrera\n👉Cto 181 Batey Ifraín Alfonso",
-    "timestamp": 1774729846,
-    "timestamp_local": 1774729846
-  },
-  {
-    "id": 43142,
-    "fecha": "28 de Mar del 2026 a las 04:03 PM",
-    "hora_utc": "2026-03-28 20:03",
-    "mensaje": "🔸Actualización del servicio eléctrico en la provincia🔸\n👉De los circuitos apagables que presenta la provincia, se mantienen  afectados 128 circuitos.\n👉En el momento de hacer esta nota la provincia tiene 124 MW de afectación.\n👉Cuenta con 99 afectaciones por averías secundarias y de servicio",
-    "timestamp": 1774728220,
-    "timestamp_local": 1774728220
-  },
-  {
-    "id": 43141,
-    "fecha": "28 de Mar del 2026 a las 03:45 PM",
-    "hora_utc": "2026-03-28 19:45",
-    "mensaje": "🚨Usted puede mantenerse informado por nuestras redes🛜, y unirse a nuestro canal de Telegram, para usted trabajamos🛠️ , para darle una actualización  clara y precisa de cómo se está comportando el Sistema Eléctrico Nacional💡, puede llamar☎️ al 18888, donde prestamos servicio las 24 horas.",
-    "timestamp": 1774727124,
-    "timestamp_local": 1774727124
-  },
-  {
-    "id": 43140,
-    "fecha": "28 de Mar del 2026 a las 03:04 PM",
-    "hora_utc": "2026-03-28 19:04",
-    "mensaje": "⚠️Afectado el servicio eléctrico en el siguiente circuito:\n🔹Municipio Santa Clara: \n👉Cto 170 (José Martí)",
-    "timestamp": 1774724649,
-    "timestamp_local": 1774724649
   }
 ]
