@@ -1,5 +1,29 @@
 [
   {
+    "id": 43247,
+    "fecha": "29 de Mar del 2026 a las 07:00 PM",
+    "hora_utc": "2026-03-29 23:00",
+    "mensaje": "Afectados 142 MW en la provincia, demanda máxima a apagar en estos momentos.",
+    "timestamp": 1774825208,
+    "timestamp_local": 1774825208
+  },
+  {
+    "id": 43246,
+    "fecha": "29 de Mar del 2026 a las 06:40 PM",
+    "hora_utc": "2026-03-29 22:40",
+    "mensaje": "⚠️Afectado el servicio eléctrico en los siguientes circuitos:  \n🔹Municipio Santo Domingo:\n👉Cto 195 Batey George Washington\n👉Ctos 83 y 165 Manacas\n👉Ctos 85 y 86 Pajarito\n👉Ctos 160 y 161 Cascajal\n👉Cto 79 (Santo Domingo)\n👉Cto 81 (26 de Julio)\n👉Cto 163 (Batey 26 de Julio\n🔹Municipio Ranchuelo:\n👉Ctos 54, 94 y 95 Jicotea\n🔹Municipio Santo Domingo:\n👉Cto 134\n👉Ctos 87 y 96 Bermejal\n👉Cto 187 Batey Carlos Baliño\n👉Cto 82 Ulacia\n👉Cto 84 Rodrigo",
+    "timestamp": 1774824000,
+    "timestamp_local": 1774824000
+  },
+  {
+    "id": 43245,
+    "fecha": "29 de Mar del 2026 a las 06:32 PM",
+    "hora_utc": "2026-03-29 22:32",
+    "mensaje": "🕕Actualización del servicio eléctrico. \n✍️El déficit de capacidad de generación en estos momentos es de 138 MW. \n✍️En el momento de esta nota, se mantienen afectados 129 circuitos.\n✍️Cuenta con 134 afectaciones por averías secundarias y de servicio:\n🔸Caibarien (4)\n🔸Cifuentes (1)\n🔸Corralillo(2)\n🔸Encrucijada (9)\n🔸Manicaragua (7)\n🔸Placetas (8)\n🔸Ranchuelo (4\n🔸Sagua (9)\n🔸Santa Clara (68)\n🔸Santo Domingo (3)\n🛠️Pendientes a solucionar por el área técnica 15.\n🛠️ Se encuentran 4 averías en vías de solución.\n✅La provincia no presenta averías primarias.",
+    "timestamp": 1774823534,
+    "timestamp_local": 1774823534
+  },
+  {
     "id": 43244,
     "fecha": "29 de Mar del 2026 a las 06:23 PM",
     "hora_utc": "2026-03-29 22:23",
@@ -11,7 +35,7 @@
     "id": 43243,
     "fecha": "29 de Mar del 2026 a las 05:36 PM",
     "hora_utc": "2026-03-29 21:36",
-    "mensaje": "⚠️Afectado el servicio eléctrico en los siguientes circuitos:\n🔹Municipio Santa Clara: \n👉Cto 167 (Virginia)\n👉Cto 170 (José Martí)\n👉Cto 171 (Los Caneyes)\n👉Ctos 132 y 162 (Santa Clara Industrial)",
+    "mensaje": "⚠️Afectado el servicio eléctrico en los siguientes circuitos:\n🔹Municipio Santa Clara: \n👉Cto 167 (Virginia)\n👉Cto 170 (José Martí)\n👉Cto 171 (Los Caneyes)\n👉Ctos 132 y 162 (Santa Clara Industrial)\n👉Cto  169(Condado)",
     "timestamp": 1774820219,
     "timestamp_local": 1774820219
   },
@@ -126,29 +150,5 @@
     "mensaje": "🔸Actualización del servicio eléctrico en la provincia🔸\n👉De los circuitos apagables que presenta la provincia, se mantienen  afectados 78 circuitos.\n👉En el momento de hacer esta nota la provincia tiene 72 MW de afectación.\n👉Cuenta con 93 afectaciones por averías secundarias y de servicio",
     "timestamp": 1774808724,
     "timestamp_local": 1774808724
-  },
-  {
-    "id": 43227,
-    "fecha": "29 de Mar del 2026 a las 02:18 PM",
-    "hora_utc": "2026-03-29 18:18",
-    "mensaje": "💡Con servicio eléctrico el siguiente circuito:\n🔹Municipio Santa Clara: \n👉Cto 166 (Condado)",
-    "timestamp": 1774808288,
-    "timestamp_local": 1774808288
-  },
-  {
-    "id": 43226,
-    "fecha": "29 de Mar del 2026 a las 02:17 PM",
-    "hora_utc": "2026-03-29 18:17",
-    "mensaje": "💡Con servicio eléctrico el Cto 30 (Santa Clara Industrial), perteneciente al Municipio Santa Clara.",
-    "timestamp": 1774808239,
-    "timestamp_local": 1774808239
-  },
-  {
-    "id": 43225,
-    "fecha": "29 de Mar del 2026 a las 02:04 PM",
-    "hora_utc": "2026-03-29 18:04",
-    "mensaje": "⚠️Afectado el servicio eléctrico en el siguiente circuito:\n🔹Municipio Santa Clara: \n👉Cto 39 (Vigía)",
-    "timestamp": 1774807481,
-    "timestamp_local": 1774807481
   }
 ]
