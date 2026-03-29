@@ -1,5 +1,53 @@
 [
   {
+    "id": 110801,
+    "fecha": "29 de Mar del 2026 a las 08:30 AM",
+    "hora_utc": "2026-03-29 12:30",
+    "mensaje": "**Nota Informativa: Estado del Sistema Eléctrico Nacional (SEN) – 29 de marzo de 2026\n**En el día de ayer se afectó el servicio por déficit de capacidad durante las 24 horas y se ha mantenido la afectación durante la madrugada de hoy. La máxima afectación por déficit de capacidad de generación en el día de ayer fue de 1727 MW a las 20:40 horas.\nLa producción de energía de los 52 nuevos parques solares fotovoltaicos fue de 4102 MWh, con 562 MW como máxima potencia entregada en el horario de la media con esta fuente de generación. \n**Estado actual del SEN\n**La disponibilidad del SEN a las 06:00 horas es de 1270 MW, la demanda 2276 MW, con 1017 MW afectados. En el horario de la media se estima una afectación de 1100 MW. \n**Principales incidencias\n**Avería: Unidades 5 de la CTE Mariel, Unidad 1 de la CTE Santa Cruz, Unidad 2 de la CTE Felton y Unidades 3, 5 y 6 de la CTE Antonio Maceo.\nMantenimiento: Unidad 6 de la CTE Mariel, Unidad 5 de la CTE Nuevitas.\nLimitaciones en la generación térmica: 334 MW fuera de servicio.\n**Pronóstico para el horario pico\n**Para el pico se prevé la entrada de la turbina 5 de Energás Boca de Jaruco con 20 MW y la entrada de la unidad 1 de la CTE Santa Cruz con 70 MW.\nSe prevé para el pico una disponibilidad de 1360 MW con una demanda máxima de 3100 MW, para un déficit de 1740 MW, por lo que de mantenerse las condiciones previstas se pronostica una afectación de 1770 MW en este horario.",
+    "timestamp": 1774787404,
+    "timestamp_local": 1774787404
+  },
+  {
+    "id": 110799,
+    "fecha": "29 de Mar del 2026 a las 08:10 AM",
+    "hora_utc": "2026-03-29 12:10",
+    "mensaje": "🚨Por déficit de capacidad de generación se afecta el servicio en el siguiente circuito:\n*Aguacate 🚨",
+    "timestamp": 1774786259,
+    "timestamp_local": 1774786259
+  },
+  {
+    "id": 110798,
+    "fecha": "29 de Mar del 2026 a las 08:08 AM",
+    "hora_utc": "2026-03-29 12:08",
+    "mensaje": "🚨Por déficit de capacidad de generación se afecta el servicio en el siguiente circuito:\n*2 de San José 🚨",
+    "timestamp": 1774786122,
+    "timestamp_local": 1774786122
+  },
+  {
+    "id": 110797,
+    "fecha": "29 de Mar del 2026 a las 08:06 AM",
+    "hora_utc": "2026-03-29 12:06",
+    "mensaje": "🚨Por déficit de capacidad de generación se afecta el servicio en el siguiente circuito:\n*Jaruco 🚨",
+    "timestamp": 1774785992,
+    "timestamp_local": 1774785992
+  },
+  {
+    "id": 110796,
+    "fecha": "29 de Mar del 2026 a las 08:03 AM",
+    "hora_utc": "2026-03-29 12:03",
+    "mensaje": "🚨Por déficit de capacidad de generación se afecta el servicio en los siguientes circuitos:\n*6 y 8 de San José 🚨",
+    "timestamp": 1774785823,
+    "timestamp_local": 1774785823
+  },
+  {
+    "id": 110795,
+    "fecha": "29 de Mar del 2026 a las 07:56 AM",
+    "hora_utc": "2026-03-29 11:56",
+    "mensaje": "🚨Por déficit de capacidad de generación se afecta el servicio en el siguiente circuito:\n*Jamaica 🚨",
+    "timestamp": 1774785403,
+    "timestamp_local": 1774785403
+  },
+  {
     "id": 110794,
     "fecha": "29 de Mar del 2026 a las 07:48 AM",
     "hora_utc": "2026-03-29 11:48",
@@ -70,45 +118,5 @@
     "mensaje": "🚨Por déficit de capacidad de generación se afecta el servicio en el siguiente circuito:\n*Güines 2 🚨",
     "timestamp": 1774763791,
     "timestamp_local": 1774763791
-  },
-  {
-    "id": 110780,
-    "fecha": "29 de Mar del 2026 a las 12:51 AM",
-    "hora_utc": "2026-03-29 04:51",
-    "mensaje": "🚨Por déficit de capacidad de generación se afecta el servicio en los siguientes circuitos:\n*Nazareno\n*Menocal\n*Babiney 🚨",
-    "timestamp": 1774759877,
-    "timestamp_local": 1774759877
-  },
-  {
-    "id": 110779,
-    "fecha": "29 de Mar del 2026 a las 12:12 AM",
-    "hora_utc": "2026-03-29 04:12",
-    "mensaje": "🔷♦️Se restablece el servicio en los circuitos que se encontraban afectados  por déficit de capacidad de generación:\n*Jaruco \n*Aguacate ♦️🔷",
-    "timestamp": 1774757526,
-    "timestamp_local": 1774757526
-  },
-  {
-    "id": 110778,
-    "fecha": "29 de Mar del 2026 a las 12:02 AM",
-    "hora_utc": "2026-03-29 04:02",
-    "mensaje": "🔷♦️Se restablece el servicio en el circuito que se encontraba afectado  por déficit de capacidad de generación:\n*Bío -1 ♦️🔷",
-    "timestamp": 1774756970,
-    "timestamp_local": 1774756970
-  },
-  {
-    "id": 110777,
-    "fecha": "28 de Mar del 2026 a las 11:50 PM",
-    "hora_utc": "2026-03-29 03:50",
-    "mensaje": "🔷♦️Se restablece el servicio en los circuitos que se encontraban afectados  por déficit de capacidad de generación:\n*3655\n*3660♦️🔷",
-    "timestamp": 1774756257,
-    "timestamp_local": 1774756257
-  },
-  {
-    "id": 110775,
-    "fecha": "28 de Mar del 2026 a las 08:31 PM",
-    "hora_utc": "2026-03-29 00:31",
-    "mensaje": "🚨Por déficit de capacidad de generación se afecta el servicio en el siguiente circuito:\n*Somorrostro 🚨",
-    "timestamp": 1774744315,
-    "timestamp_local": 1774744315
   }
 ]
