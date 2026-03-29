@@ -1,5 +1,37 @@
 [
   {
+    "id": 51648,
+    "fecha": "29 de Mar del 2026 a las 11:00 AM",
+    "hora_utc": "2026-03-29 15:00",
+    "mensaje": "Disparo Automático de Frecuencia (DAF):\nOcurre cuando la frecuencia está por debajo de los 60Hz y determinada carga o circuito se desconecta del sistema automáticamente hasta que se estabilice.",
+    "timestamp": 1774796459,
+    "timestamp_local": 1774796459
+  },
+  {
+    "id": 51647,
+    "fecha": "29 de Mar del 2026 a las 11:00 AM",
+    "hora_utc": "2026-03-29 15:00",
+    "mensaje": "🔴 Estimados clientes en estos momentos se encuentran Disparados por DAF los circuitos 7, 14, 17 y 26 de Santiago y el circuito 1 de Palma.",
+    "timestamp": 1774796440,
+    "timestamp_local": 1774796440
+  },
+  {
+    "id": 51646,
+    "fecha": "29 de Mar del 2026 a las 10:10 AM",
+    "hora_utc": "2026-03-29 14:10",
+    "mensaje": "Vía Libre:\nTrabajos planificados o por emergencias que se realizan con el fin de construir y mantener líneas aéreas y soterradas; así como contribuir a la constante mejora en la entrega de la energía eléctrica.",
+    "timestamp": 1774793449,
+    "timestamp_local": 1774793449
+  },
+  {
+    "id": 51645,
+    "fecha": "29 de Mar del 2026 a las 10:10 AM",
+    "hora_utc": "2026-03-29 14:10",
+    "mensaje": "🔴 Estimados clientes se les informa que el circuito 11 de Santiago esta en Vía Libre. Disculpen las molestias ocasionadas.",
+    "timestamp": 1774793431,
+    "timestamp_local": 1774793431
+  },
+  {
     "id": 51644,
     "fecha": "29 de Mar del 2026 a las 09:48 AM",
     "hora_utc": "2026-03-29 13:48",
@@ -110,29 +142,5 @@
     "mensaje": "🔴Estimados clientes se les informa que se incorporan a la afectación los circuitos 14 seccionalizado ,19 , 23 , 25 , el 4 de Palma y la línea 5395 San Luis .",
     "timestamp": 1774740022,
     "timestamp_local": 1774740022
-  },
-  {
-    "id": 51626,
-    "fecha": "28 de Mar del 2026 a las 06:26 PM",
-    "hora_utc": "2026-03-28 22:26",
-    "mensaje": "Estimados clientes se les informa que se incorpora a la afectación el circuito 17.",
-    "timestamp": 1774736803,
-    "timestamp_local": 1774736803
-  },
-  {
-    "id": 51625,
-    "fecha": "28 de Mar del 2026 a las 05:35 PM",
-    "hora_utc": "2026-03-28 21:35",
-    "mensaje": "🔴Estimados clientes se les informa que se incorporan a la afectación los circuitos 9 y 7 los dos seccionalizado , las líneas 5385 San Luis  , 5330 El Cristo y los circuitos 1 de Palma , 3 , la línea 5390 La Maya , el circuito 16 , la línea 5335 Guama y el circuito 21.",
-    "timestamp": 1774733753,
-    "timestamp_local": 1774733753
-  },
-  {
-    "id": 51624,
-    "fecha": "28 de Mar del 2026 a las 05:32 PM",
-    "hora_utc": "2026-03-28 21:32",
-    "mensaje": "🔴Estimados clientes se les informa que se incorporan a la afectación el circuito 24 .",
-    "timestamp": 1774733521,
-    "timestamp_local": 1774733521
   }
 ]
