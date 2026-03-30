@@ -1,5 +1,37 @@
 [
   {
+    "id": 43312,
+    "fecha": "30 de Mar del 2026 a las 07:04 PM",
+    "hora_utc": "2026-03-30 23:04",
+    "mensaje": "⚠️Afectado el servicio eléctrico en los siguientes circuitos:\n🔸Municipio Santa Clara:\n👉Ctos 1, 2 (Consejo- Centro)",
+    "timestamp": 1774911897,
+    "timestamp_local": 1774911897
+  },
+  {
+    "id": 43311,
+    "fecha": "30 de Mar del 2026 a las 06:54 PM",
+    "hora_utc": "2026-03-30 22:54",
+    "mensaje": "🟢 18:15 || En línea la Unidad 5 de la CTE Antonio Maceo, subiendo carga.",
+    "timestamp": 1774911287,
+    "timestamp_local": 1774911287
+  },
+  {
+    "id": 43310,
+    "fecha": "30 de Mar del 2026 a las 06:52 PM",
+    "hora_utc": "2026-03-30 22:52",
+    "mensaje": "⚠️Afectado el servicio eléctrico en los siguientes circuitos:\n🔸Municipio Santa Clara:\n👉Cto 5 (Dobarganes)\n👉Cto 17 (Subplanta) \n👉Ctos 37 y 38 (Yabú)   \n👉Cto 9 (Moldes y Troqueles)\n👉Cto 133 (Taller Cafetera)\n🔸Municipio Ranchuelo:\n👉Cto 92 Esperanza (Pueblo)\n👉Cto 93 Esperanza (Campo)\n🔸Municipio Santa Clara\n👉Ctos 26 y 141 (Manuelita)\n👉Cto 191 (Quemado de Hilario)                                           \n👉Cto 31 SC Industrial\n👉Cto 132 SC Industrial",
+    "timestamp": 1774911136,
+    "timestamp_local": 1774911136
+  },
+  {
+    "id": 43309,
+    "fecha": "30 de Mar del 2026 a las 06:31 PM",
+    "hora_utc": "2026-03-30 22:31",
+    "mensaje": "⚠️Continúa afectado el servicio eléctrico en el siguiente circuito:\n👉Cto 167 Virginia",
+    "timestamp": 1774909878,
+    "timestamp_local": 1774909878
+  },
+  {
     "id": 43308,
     "fecha": "30 de Mar del 2026 a las 06:05 PM",
     "hora_utc": "2026-03-30 22:05",
@@ -126,37 +158,5 @@
     "mensaje": "⚠Afectado el servicio eléctrico en los siguientes circuitos:\n🔸Municipio Encrucijada\n👉Cto 120 Calabazar\n👉Ctos 121 y 127 Perucho",
     "timestamp": 1774897207,
     "timestamp_local": 1774897207
-  },
-  {
-    "id": 43292,
-    "fecha": "30 de Mar del 2026 a las 02:59 PM",
-    "hora_utc": "2026-03-30 18:59",
-    "mensaje": "💡Con servicio eléctrico los siguientes circuitos:\n🔸Municipio Remedios:\n👉Ctos 69 y 70 Zuluetas\n👉Cto 143 Batey Heriberto Duquezne \n👉Cto 71 Buena Vista",
-    "timestamp": 1774897145,
-    "timestamp_local": 1774897145
-  },
-  {
-    "id": 43291,
-    "fecha": "30 de Mar del 2026 a las 02:47 PM",
-    "hora_utc": "2026-03-30 18:47",
-    "mensaje": "⚠Afectado el servicio eléctrico en los siguientes circuitos:\n🔸Municipio Cifuentes:\n👉Ctos 114 y 117\n👉Ctos 116 y 155 Mata\n👉Cto 186 Batey Unidad Proletaria \n👉Cto 184 Sitio Grande",
-    "timestamp": 1774896453,
-    "timestamp_local": 1774896453
-  },
-  {
-    "id": 43290,
-    "fecha": "30 de Mar del 2026 a las 02:38 PM",
-    "hora_utc": "2026-03-30 18:38",
-    "mensaje": "💡Con servicio eléctrico los siguientes circuitos:\n🔸Municipio Manicaragua:\n👉Ctos 109 y 150\n👉Ctos 108 y 110 La Piedra\n👉Cto 111 Mataguá",
-    "timestamp": 1774895919,
-    "timestamp_local": 1774895919
-  },
-  {
-    "id": 43289,
-    "fecha": "30 de Mar del 2026 a las 02:15 PM",
-    "hora_utc": "2026-03-30 18:15",
-    "mensaje": "🔸Actualización del servicio eléctrico en la provincia.\n👉De los circuitos apagables que presenta la provincia, se mantienen afectados 123 circuitos.\n👉En el momento de hacer esta nota la provincia tiene 102  MW de afectación por déficit de capacidad de generación, demanda máxima posible a apagar en estos momentos.\n👉Cuenta con 156 afectaciones por averías secundarias y de servicio.",
-    "timestamp": 1774894551,
-    "timestamp_local": 1774894551
   }
 ]
