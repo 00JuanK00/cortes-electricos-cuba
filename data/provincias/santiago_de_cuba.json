@@ -1,5 +1,53 @@
 [
   {
+    "id": 51670,
+    "fecha": "29 de Mar del 2026 a las 10:20 PM",
+    "hora_utc": "2026-03-30 02:20",
+    "mensaje": "🔊Estimados clientes en estos momentos se encuentra afectados por Déficit de Capacidad de Generación el circuito 13 y La Línea 5390 La Maya",
+    "timestamp": 1774837212,
+    "timestamp_local": 1774837212
+  },
+  {
+    "id": 51669,
+    "fecha": "29 de Mar del 2026 a las 10:06 PM",
+    "hora_utc": "2026-03-30 02:06",
+    "mensaje": "🚨Manipulaciones:\nAcción que se realizan en los circuitos para dar paso al trabajo en zonas afectadas por averías o Vía Libre y posteriormente para restablecer el servicio eléctrico en los circuitos que se encontraban afectados y en los que se trabaja con anterioridad, luego de culminadas las labores pertinentes.",
+    "timestamp": 1774836397,
+    "timestamp_local": 1774836397
+  },
+  {
+    "id": 51668,
+    "fecha": "29 de Mar del 2026 a las 10:06 PM",
+    "hora_utc": "2026-03-30 02:06",
+    "mensaje": "🔊Estimados clientes en estos momentos se está Manipulando el circuito 7",
+    "timestamp": 1774836378,
+    "timestamp_local": 1774836378
+  },
+  {
+    "id": 51667,
+    "fecha": "29 de Mar del 2026 a las 08:41 PM",
+    "hora_utc": "2026-03-30 00:41",
+    "mensaje": "🔊Estimados clientes en estos momentos se encuentra afectados por Déficit de Capacidad de Generación Las Líneas 4385 Contramaestre y la 4395 Baire",
+    "timestamp": 1774831272,
+    "timestamp_local": 1774831272
+  },
+  {
+    "id": 51666,
+    "fecha": "29 de Mar del 2026 a las 08:17 PM",
+    "hora_utc": "2026-03-30 00:17",
+    "mensaje": "🚨Manipulaciones:\nAcción que se realizan en los circuitos para dar paso al trabajo en zonas afectadas por averías o Vía Libre y posteriormente para restablecer el servicio eléctrico en los circuitos que se encontraban afectados y en los que se trabaja con anterioridad, luego de culminadas las labores pertinentes.",
+    "timestamp": 1774829879,
+    "timestamp_local": 1774829879
+  },
+  {
+    "id": 51665,
+    "fecha": "29 de Mar del 2026 a las 08:17 PM",
+    "hora_utc": "2026-03-30 00:17",
+    "mensaje": "🔊Estimados clientes en estos momentos están Manipulando el circuito 8",
+    "timestamp": 1774829860,
+    "timestamp_local": 1774829860
+  },
+  {
     "id": 51664,
     "fecha": "29 de Mar del 2026 a las 07:48 PM",
     "hora_utc": "2026-03-29 23:48",
@@ -94,53 +142,5 @@
     "mensaje": "🔴 Estimados clientes en estos momentos se encuentran Disparados por DAF los circuitos 7, 26 y 1 de Palma.",
     "timestamp": 1774802440,
     "timestamp_local": 1774802440
-  },
-  {
-    "id": 51650,
-    "fecha": "29 de Mar del 2026 a las 11:26 AM",
-    "hora_utc": "2026-03-29 15:26",
-    "mensaje": "🔴 Estimados clientes en estos momentos se incorporan a la afectación por Déficit de Capacidad de Generación el circuito 13 de Santiago y la línea 5330 Cristo.",
-    "timestamp": 1774797991,
-    "timestamp_local": 1774797991
-  },
-  {
-    "id": 51649,
-    "fecha": "29 de Mar del 2026 a las 11:12 AM",
-    "hora_utc": "2026-03-29 15:12",
-    "mensaje": "🔴 Estimados clientes en estos momentos se incorporan a la afectación por Déficit de Capacidad de Generación el circuito 24 de Santiago y las líneas 5390 de la Maya.",
-    "timestamp": 1774797129,
-    "timestamp_local": 1774797129
-  },
-  {
-    "id": 51648,
-    "fecha": "29 de Mar del 2026 a las 11:00 AM",
-    "hora_utc": "2026-03-29 15:00",
-    "mensaje": "Disparo Automático de Frecuencia (DAF):\nOcurre cuando la frecuencia está por debajo de los 60Hz y determinada carga o circuito se desconecta del sistema automáticamente hasta que se estabilice.",
-    "timestamp": 1774796459,
-    "timestamp_local": 1774796459
-  },
-  {
-    "id": 51647,
-    "fecha": "29 de Mar del 2026 a las 11:00 AM",
-    "hora_utc": "2026-03-29 15:00",
-    "mensaje": "🔴 Estimados clientes en estos momentos se encuentran Disparados por DAF los circuitos 7, 14, 17 y 26 de Santiago y el circuito 1 de Palma.",
-    "timestamp": 1774796440,
-    "timestamp_local": 1774796440
-  },
-  {
-    "id": 51646,
-    "fecha": "29 de Mar del 2026 a las 10:10 AM",
-    "hora_utc": "2026-03-29 14:10",
-    "mensaje": "Vía Libre:\nTrabajos planificados o por emergencias que se realizan con el fin de construir y mantener líneas aéreas y soterradas; así como contribuir a la constante mejora en la entrega de la energía eléctrica.",
-    "timestamp": 1774793449,
-    "timestamp_local": 1774793449
-  },
-  {
-    "id": 51645,
-    "fecha": "29 de Mar del 2026 a las 10:10 AM",
-    "hora_utc": "2026-03-29 14:10",
-    "mensaje": "🔴 Estimados clientes se les informa que el circuito 11 de Santiago esta en Vía Libre. Disculpen las molestias ocasionadas.",
-    "timestamp": 1774793431,
-    "timestamp_local": 1774793431
   }
 ]
