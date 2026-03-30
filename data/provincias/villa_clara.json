@@ -1,5 +1,45 @@
 [
   {
+    "id": 43294,
+    "fecha": "30 de Mar del 2026 a las 03:27 PM",
+    "hora_utc": "2026-03-30 19:27",
+    "mensaje": "⚠Afectado el servicio eléctrico en los siguientes circuitos:\n🔸Municipio Caibarién\n👉Ctos 182 y 183 Van Troy",
+    "timestamp": 1774898843,
+    "timestamp_local": 1774898843
+  },
+  {
+    "id": 43293,
+    "fecha": "30 de Mar del 2026 a las 03:00 PM",
+    "hora_utc": "2026-03-30 19:00",
+    "mensaje": "⚠Afectado el servicio eléctrico en los siguientes circuitos:\n🔸Municipio Encrucijada\n👉Cto 120 Calabazar\n👉Ctos 121 y 127 Perucho",
+    "timestamp": 1774897207,
+    "timestamp_local": 1774897207
+  },
+  {
+    "id": 43292,
+    "fecha": "30 de Mar del 2026 a las 02:59 PM",
+    "hora_utc": "2026-03-30 18:59",
+    "mensaje": "💡Con servicio eléctrico los siguientes circuitos:\n🔸Municipio Remedios:\n👉Ctos 69 y 70 Zuluetas\n👉Cto 143 Batey Heriberto Duquezne \n👉Cto 71 Buena Vista",
+    "timestamp": 1774897145,
+    "timestamp_local": 1774897145
+  },
+  {
+    "id": 43291,
+    "fecha": "30 de Mar del 2026 a las 02:47 PM",
+    "hora_utc": "2026-03-30 18:47",
+    "mensaje": "⚠Afectado el servicio eléctrico en los siguientes circuitos:\n🔸Municipio Cifuentes:\n👉Ctos 114 y 117\n👉Ctos 116 y 155 Mata\n👉Cto 186 Batey Unidad Proletaria \n👉Cto 184 Sitio Grande",
+    "timestamp": 1774896453,
+    "timestamp_local": 1774896453
+  },
+  {
+    "id": 43290,
+    "fecha": "30 de Mar del 2026 a las 02:38 PM",
+    "hora_utc": "2026-03-30 18:38",
+    "mensaje": "💡Con servicio eléctrico los siguientes circuitos:\n🔸Municipio Manicaragua:\n👉Ctos 109 y 150\n👉Ctos 108 y 110 La Piedra\n👉Cto 111 Mataguá",
+    "timestamp": 1774895919,
+    "timestamp_local": 1774895919
+  },
+  {
     "id": 43289,
     "fecha": "30 de Mar del 2026 a las 02:15 PM",
     "hora_utc": "2026-03-30 18:15",
@@ -110,45 +150,5 @@
     "mensaje": "⚠Afectado el servicio eléctrico en los siguientes circuitos:\n🔹 Municipio Santa Clara \n👉 Ctos 1 y 2 (Zona Centro)",
     "timestamp": 1774883905,
     "timestamp_local": 1774883905
-  },
-  {
-    "id": 43274,
-    "fecha": "30 de Mar del 2026 a las 11:08 AM",
-    "hora_utc": "2026-03-30 15:08",
-    "mensaje": "💡Con servicio eléctrico los siguientes circuitos:\n🔹 Municipio Santa Clara \n👉Ctos 15 y 27 (Maleza)",
-    "timestamp": 1774883305,
-    "timestamp_local": 1774883305
-  },
-  {
-    "id": 43273,
-    "fecha": "30 de Mar del 2026 a las 10:47 AM",
-    "hora_utc": "2026-03-30 14:47",
-    "mensaje": "⚡Afectado por DAF el circuito 167 (Virginia).",
-    "timestamp": 1774882058,
-    "timestamp_local": 1774882058
-  },
-  {
-    "id": 43272,
-    "fecha": "30 de Mar del 2026 a las 10:43 AM",
-    "hora_utc": "2026-03-30 14:43",
-    "mensaje": "⚠Afectado el servicio eléctrico en el circuito 166 (Condado)",
-    "timestamp": 1774881805,
-    "timestamp_local": 1774881805
-  },
-  {
-    "id": 43271,
-    "fecha": "30 de Mar del 2026 a las 10:42 AM",
-    "hora_utc": "2026-03-30 14:42",
-    "mensaje": "🔸Actualización del servicio eléctrico en la provincia.\n👉De los circuitos apagables que presenta la provincia, se mantienen afectados 125 circuitos.\n👉En el momento de hacer esta nota la provincia tiene 100  MW de afectación por déficit de capacidad de generación, demanda máxima posible a apagar en estos momentos.\n👉Cuenta con 130 afectaciones por averías secundarias y de servicio.",
-    "timestamp": 1774881734,
-    "timestamp_local": 1774881734
-  },
-  {
-    "id": 43270,
-    "fecha": "30 de Mar del 2026 a las 09:32 AM",
-    "hora_utc": "2026-03-30 13:32",
-    "mensaje": "💡Con servicio eléctrico los siguientes circuitos:\n🔸Municipio Manicaragua:\n👉Ctos 109 y 150\n👉Ctos 108 y 110 La Piedra\n👉Cto 111 Mataguá",
-    "timestamp": 1774877568,
-    "timestamp_local": 1774877568
   }
 ]
