@@ -1,5 +1,45 @@
 [
   {
+    "id": 43307,
+    "fecha": "30 de Mar del 2026 a las 05:20 PM",
+    "hora_utc": "2026-03-30 21:20",
+    "mensaje": "⚠Afectado el servicio eléctrico en el siguiente circuito:\n👉Cto 13 Zona Industrial",
+    "timestamp": 1774905616,
+    "timestamp_local": 1774905616
+  },
+  {
+    "id": 43306,
+    "fecha": "30 de Mar del 2026 a las 05:13 PM",
+    "hora_utc": "2026-03-30 21:13",
+    "mensaje": "⚠Afectado el servicio eléctrico en los siguientes circuitos:\n🔸Municipio Encrucijada:\n👉Cto 122 Encrucijada  \n👉Cto123 Vizcaya  \n👉Cto 142 Comunidad La Sierra \n👉Cto 126 Batey Emilio Córdova\n👉Cto 125 Cavarrocas\n👉Cto 124 El Santo\n🔸Municipio Camajuaní:                                                    \n👉Cto 78 Jutiero",
+    "timestamp": 1774905235,
+    "timestamp_local": 1774905235
+  },
+  {
+    "id": 43305,
+    "fecha": "30 de Mar del 2026 a las 04:42 PM",
+    "hora_utc": "2026-03-30 20:42",
+    "mensaje": "⚠Afectada por disparo por tormenta la Línea 6585.\n**🔹Línea 6585 **\n🔸Municipio Camajuaní:\n👉Ctos  72, 73, 129 y 156 \n👉Cto 74 José María Pérez",
+    "timestamp": 1774903330,
+    "timestamp_local": 1774903330
+  },
+  {
+    "id": 43304,
+    "fecha": "30 de Mar del 2026 a las 04:38 PM",
+    "hora_utc": "2026-03-30 20:38",
+    "mensaje": "⚠Afectado el servicio eléctrico en los siguientes circuitos:\n**🔸Municipio Placetas **\n**👉C**tos 100 y 151 Placetas\n👉Cto 104 Hermanos Amejeiras\n👉Cto 103 Batey Carbó Servía",
+    "timestamp": 1774903127,
+    "timestamp_local": 1774903127
+  },
+  {
+    "id": 43303,
+    "fecha": "30 de Mar del 2026 a las 04:35 PM",
+    "hora_utc": "2026-03-30 20:35",
+    "mensaje": "🔸Actualización del servicio eléctrico en la provincia.\n👉De los circuitos apagables que presenta la provincia, se mantienen afectados 123 circuitos.\n👉En el momento de hacer esta nota la provincia tiene 109  MW de afectación por déficit de capacidad de generación, demanda máxima posible a apagar en estos momentos.\n👉Cuenta con 154 afectaciones por averías secundarias y de servicio.",
+    "timestamp": 1774902927,
+    "timestamp_local": 1774902927
+  },
+  {
     "id": 43302,
     "fecha": "30 de Mar del 2026 a las 04:09 PM",
     "hora_utc": "2026-03-30 20:09",
@@ -27,7 +67,7 @@
     "id": 43299,
     "fecha": "30 de Mar del 2026 a las 04:00 PM",
     "hora_utc": "2026-03-30 20:00",
-    "mensaje": "⚠Afectada por emergencia la Línea 1365 por cable energizado encima de una vivienda:\n**🔹Línea1365**\n**🔸M**unicipio Remedios:\n👉Ctos 67 y 152, 68 y 118 \n👉Ctos 69 y 70 Zuluetas\n👉Cto 143 Batey HeribertoDuquezne \n👉Cto 71 Buena Vista",
+    "mensaje": "⚠Afectada por emergencia la Línea 1365 por cable energizado encima de una vivienda:\n**🔹Línea 1365**\n**🔸M**unicipio Remedios:\n👉Ctos 67 y 152, 68 y 118 \n👉Ctos 69 y 70 Zuluetas\n👉Cto 143 Batey HeribertoDuquezne \n👉Cto 71 Buena Vista",
     "timestamp": 1774900816,
     "timestamp_local": 1774900816
   },
@@ -43,7 +83,7 @@
     "id": 43297,
     "fecha": "30 de Mar del 2026 a las 03:53 PM",
     "hora_utc": "2026-03-30 19:53",
-    "mensaje": "💡Restablecido el servicio eléctrico en la Línea 1785.\n**🔹Línea1785**\n**🔸M**unicipio Santa Clara:\n👉Cto 34(Sabana Rebacadero)\n👉Ctos 32 y 33 (RF-33Kv)",
+    "mensaje": "💡Restablecido el servicio eléctrico en la Línea 1785.\n**🔹Línea 1785**\n**🔸M**unicipio Santa Clara:\n👉Cto 34(Sabana Rebacadero)\n👉Ctos 32 y 33 (RF-33Kv)",
     "timestamp": 1774900402,
     "timestamp_local": 1774900402
   },
@@ -51,7 +91,7 @@
     "id": 43296,
     "fecha": "30 de Mar del 2026 a las 03:50 PM",
     "hora_utc": "2026-03-30 19:50",
-    "mensaje": "🛠Afectada por manipulación la Línea 1785.\n**🔸Línea1785**\n**🔹M**unicipio Santa Clara:\n👉Cto 6 (Vigía)\n👉Cto 34(Sabana Rebacadero)\n👉Ctos 32 y 33 (RF-33Kv)\n👉Cto 39 (Sandino)",
+    "mensaje": "🛠Afectada por manipulación la Línea 1785.\n**🔸Línea 1785**\n**🔹M**unicipio Santa Clara:\n👉Cto 6 (Vigía)\n👉Cto 34(Sabana Rebacadero)\n👉Ctos 32 y 33 (RF-33Kv)\n👉Cto 39 (Sandino)",
     "timestamp": 1774900212,
     "timestamp_local": 1774900212
   },
@@ -110,45 +150,5 @@
     "mensaje": "🔸Actualización del servicio eléctrico en la provincia.\n👉De los circuitos apagables que presenta la provincia, se mantienen afectados 123 circuitos.\n👉En el momento de hacer esta nota la provincia tiene 102  MW de afectación por déficit de capacidad de generación, demanda máxima posible a apagar en estos momentos.\n👉Cuenta con 156 afectaciones por averías secundarias y de servicio.",
     "timestamp": 1774894551,
     "timestamp_local": 1774894551
-  },
-  {
-    "id": 43287,
-    "fecha": "30 de Mar del 2026 a las 01:11 PM",
-    "hora_utc": "2026-03-30 17:11",
-    "mensaje": "⚡️ ¿Se subieron las tarifas eléctricas en Cuba? La verdad tras la Resolución 76/2025\n\n👉Desmentimos el rumor.\nRamsés Montes Calzadilla, director de política y estrategia energética del Ministerio de Energía y Minas (Minem), aclara a Cubadebate que no ha ocurrido ningún cambio en las tarifas eléctricas vigentes. Ni siquiera hay incremento.\n\n🗣️    \"El sistema de tarifas, tanto para el sector residencial como el no residencial, se mantiene en moneda nacional\" — Montes Calzadilla\n\nLas interpretaciones virales en redes sociales, según el funcionario, \"no se corresponden con el contenido real de la norma\".\n¿Entonces qué es la Resolución 76?\nUn mecanismo que existe desde 2021\nLa resolución no crea algo nuevo: actualiza (con precios más bajos) un sistema implementado hace cuatro años para la contratación de energía solar fotovoltaica.\n¿Cómo funciona?\nSe trata de una \"instalación virtual\": financias paneles en parques solares del Sistema Eléctrico Nacional, sin ponerlos en tu techo. Por cada kilowatt contratado, recibes un descuento mensual en tu factura durante 2 a 20 años.\n\n🗣️    \"El objetivo es reproducir el comportamiento de un panel real, pero sin necesidad de instalarlo físicamente\" — explica el directivo\n\n¿Quién se beneficia?\n☀️Empresas con poco espacio: Hoteles y grandes instalaciones urbanas que consumen mucho pero no pueden montar paneles propios.\n☀️Hogares de alto consumo: Solo quienes superan los 500 kWh mensuales (y pagan entre 15-25 pesos/kWh) ven beneficios económicos claros.\n\nLa gran novedad: precios más bajos\nLa Resolución 76 rebaja drásticamente los costos de contratación. El precio máximo para contratos de 20 años pasó de 1,500 dólares por kW en 2021 a 600 dólares actualmente — una reducción superior al 50%. Esta actualización estaba prevista desde el diseño original del mecanismo.\n\n¿Cuánto se ahorra?\nSegún el explica el directivo, algunas entidades han logrado ahorros de hasta 50% en su factura eléctrica. Además, reciben certificado de uso de energía limpia, un plus de valor en mercados que premian la sostenibilidad.\n¿Por qué en divisas? ¿Es obligatorio?\nLos componentes tecnológicos se importan, por eso la contratación es en moneda extranjera. Pero no es obligatorio. Montes Calzadilla insiste: \"No es algo que vaya a afectar a toda la población ni a todas las empresas. Es una posibilidad para quien la considere conveniente\".\nEl objetivo estratégico\nMás allá del ahorro individual, el mecanismo impulsa la transición energética nacional. La Resolución 76 de 2025 refuerza una herramienta existente, no introduce cargas nuevas. Su meta: más inversión en renovables, menos dependencia de combustibles fósiles.\n\n#UNE #UniónEléctrica #EléctricosVillaclareños \n\nUnión Eléctrica  UNE \nMinisterio de Energía y Minas de Cuba",
-    "timestamp": 1774890689,
-    "timestamp_local": 1774890689
-  },
-  {
-    "id": 43286,
-    "fecha": "30 de Mar del 2026 a las 12:36 PM",
-    "hora_utc": "2026-03-30 16:36",
-    "mensaje": "💡Con servicio eléctrico los siguientes circuitos:\n🔸Municipio Remedios:\n👉Ctos 67 y 152",
-    "timestamp": 1774888619,
-    "timestamp_local": 1774888619
-  },
-  {
-    "id": 43285,
-    "fecha": "30 de Mar del 2026 a las 12:36 PM",
-    "hora_utc": "2026-03-30 16:36",
-    "mensaje": "⚠Afectado el servicio eléctrico en los siguientes circuitos:\n🔸Municipio Remedios:\n👉Ctos  68 y 118",
-    "timestamp": 1774888571,
-    "timestamp_local": 1774888571
-  },
-  {
-    "id": 43284,
-    "fecha": "30 de Mar del 2026 a las 12:24 PM",
-    "hora_utc": "2026-03-30 16:24",
-    "mensaje": "⚠Afectado el servicio eléctrico en los siguientes circuitos:\n 🔸Municipio Manicaragua:\n👉Ctos 109 y 150\n👉Ctos 108 y 110 La Piedra\n👉Cto 111 Mataguá\n🔸Municipio Santa Clara:\n👉Cto 168 (Condado- XXAniversario)",
-    "timestamp": 1774887882,
-    "timestamp_local": 1774887882
-  },
-  {
-    "id": 43283,
-    "fecha": "30 de Mar del 2026 a las 12:22 PM",
-    "hora_utc": "2026-03-30 16:22",
-    "mensaje": "ℹ️¿Árboles bajo las líneas?  || Una combinación de alto riesgo 🌳⚡\n\n​A simple vista, un árbol bajo el cableado parece inofensivo, pero en el sector eléctrico sabemos que es una amenaza silenciosa tanto para el servicio como para tu seguridad. Aquí te explicamos por qué debemos mantener la distancia:\n⚡​Arcos Eléctricos: La humedad de las ramas puede conducir la electricidad hacia el suelo, provocando descargas peligrosas o incendios forestales.\n⚡​Interrupciones del Servicio: Con vientos o lluvias, las ramas golpean las líneas, causando cortocircuitos y apagones que afectan a toda la comunidad.\n⚡​Dificultad de Mantenimiento: Un árbol crecido impide que nuestros linieros lleguen rápido a reparar averías en situaciones de emergencia.\n\n⚠️​La regla de oro: Antes de sembrar, mira hacia arriba. Elige especies de bajo crecimiento o respeta la franja de servidumbre (la zona libre bajo los cables).\n\n#UNE #UniónEléctrica #JuntosXCuba #EléctricosVillaclareños\n\nUnión Eléctrica  UNE \nMinisterio de Energía y Minas de Cuba",
-    "timestamp": 1774887725,
-    "timestamp_local": 1774887725
   }
 ]
