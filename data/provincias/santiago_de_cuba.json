@@ -1,5 +1,29 @@
 [
   {
+    "id": 51698,
+    "fecha": "30 de Mar del 2026 a las 01:23 PM",
+    "hora_utc": "2026-03-30 17:23",
+    "mensaje": "🔴🔊 Estimados clientes les informamos que en estos momentos el circuito 10 se encuentra en manipulación...",
+    "timestamp": 1774891417,
+    "timestamp_local": 1774891417
+  },
+  {
+    "id": 51697,
+    "fecha": "30 de Mar del 2026 a las 01:12 PM",
+    "hora_utc": "2026-03-30 17:12",
+    "mensaje": "🔊👉Disparo\nApertura no voluntaria de un interruptor como vía de protección para desconectar uno o varios elementos del circuito, subestación o sistema, restableciéndose el servicio rápidamente en dependencia de la causa.",
+    "timestamp": 1774890741,
+    "timestamp_local": 1774890741
+  },
+  {
+    "id": 51696,
+    "fecha": "30 de Mar del 2026 a las 01:09 PM",
+    "hora_utc": "2026-03-30 17:09",
+    "mensaje": "🔴 Estimados clientes les informamos que en esos momentos  el circuito 26 se encuentra disparado...",
+    "timestamp": 1774890589,
+    "timestamp_local": 1774890589
+  },
+  {
     "id": 51691,
     "fecha": "30 de Mar del 2026 a las 11:05 AM",
     "hora_utc": "2026-03-30 15:05",
@@ -19,7 +43,7 @@
     "id": 51689,
     "fecha": "30 de Mar del 2026 a las 10:36 AM",
     "hora_utc": "2026-03-30 14:36",
-    "mensaje": "🔴  🔴Estimados clientes les informamos que en estos momentos se encuentran afectados por déficit de capacidad de generación los circuitos 11, 20 y 7 seccionalizado , las líneas 5385 y 1 de Palma , 4385 de Contramaestre...",
+    "mensaje": "🔴  🔴Estimados clientes les informamos que en estos momentos se encuentran afectados por déficit de capacidad de generación los circuitos 11, 20 , 8,  7 y 9 seccionalizados , las líneas 5385 y 1 de Palma , 4385 de Contramaestre...",
     "timestamp": 1774881383,
     "timestamp_local": 1774881383
   },
@@ -86,37 +110,5 @@
     "mensaje": "🔊Estimados clientes en estos momentos se encuentra afectados por Déficit de Capacidad de Generación La Línea 4395 Baire",
     "timestamp": 1774860709,
     "timestamp_local": 1774860709
-  },
-  {
-    "id": 51679,
-    "fecha": "30 de Mar del 2026 a las 04:34 AM",
-    "hora_utc": "2026-03-30 08:34",
-    "mensaje": "🔊Estimados clientes en estos momentos se encuentra afectados por Déficit de Capacidad de Generación los circuitos 19 , 23 de Santiago , 4 de Palma y Las Líneas 5335 Guama , 5395 San Luis",
-    "timestamp": 1774859682,
-    "timestamp_local": 1774859682
-  },
-  {
-    "id": 51678,
-    "fecha": "30 de Mar del 2026 a las 04:14 AM",
-    "hora_utc": "2026-03-30 08:14",
-    "mensaje": "🔊Estimados clientes en estos momentos se encuentra afectados por Déficit de Capacidad de Generación el circuito 25 y 21",
-    "timestamp": 1774858472,
-    "timestamp_local": 1774858472
-  },
-  {
-    "id": 51677,
-    "fecha": "30 de Mar del 2026 a las 04:11 AM",
-    "hora_utc": "2026-03-30 08:11",
-    "mensaje": "🚨Disparo\nApertura no voluntaria de un interruptor como vía de protección para desconectar uno o varios elementos del circuito, subestación o sistema, restableciéndose el servicio rápidamente en dependencia de la causa.",
-    "timestamp": 1774858264,
-    "timestamp_local": 1774858264
-  },
-  {
-    "id": 51676,
-    "fecha": "30 de Mar del 2026 a las 04:10 AM",
-    "hora_utc": "2026-03-30 08:10",
-    "mensaje": "🔊Estimados clientes en estos momentos se encuentra Disparada la Línea 5975 Baconao",
-    "timestamp": 1774858236,
-    "timestamp_local": 1774858236
   }
 ]
