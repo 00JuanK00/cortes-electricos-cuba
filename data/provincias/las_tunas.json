@@ -1,5 +1,13 @@
 [
   {
+    "id": 18629,
+    "fecha": "30 de Mar del 2026 a las 09:11 AM",
+    "hora_utc": "2026-03-30 13:11",
+    "mensaje": "**Nota Informativa: Estado del Sistema Eléctrico Nacional (SEN) – 30 de marzo de 2026**\nEn el día de ayer se afectó el servicio por déficit de capacidad durante las 24 horas y se ha mantenido la afectación durante la madrugada de hoy. La máxima afectación por déficit de capacidad de generación en el día de ayer fue de 1696 MW a las 19:40 horas.\nLa producción de energía de los 54 nuevos parques solares fotovoltaicos fue de 4389 MWh, con 663 MW como máxima potencia entregada en el horario de la media con esta fuente de generación.\n**Estado actual del SEN**\nLa disponibilidad del SEN a las 06:00 horas es de 1160 MW, la demanda 2290 MW, con 1143 MW afectados. En el horario de la media se estima una afectación de 1250 MW.\n**Principales incidencias**\nAvería: Unidades 1 y 2 de la CTE Santa Cruz, Unidad 2 de la CTE Felton y Unidad 5 de la CTE Antonio Maceo.\nMantenimiento: Unidades 5 y 6 de la CTE Mariel, Unidades 3 y 6 de la CTE Renté, Unidad 5 de la CTE Nuevitas.\nLimitaciones en la generación térmica: 350 MW fuera de servicio.\n**Pronóstico para el horario pico**\nPara el pico se prevé la entrada de la unidad 5 de Energás Jaruco con 20 MW y la entrada de la unidad 5 de la CTE Renté con 60 MW.\nCon este pronóstico se prevé para el pico una disponibilidad de 1230 MW con una demanda máxima de 3050 MW, para un déficit de 1820 MW, por lo que de mantenerse las condiciones previstas se pronostica una afectación de 1850 MW en este horario.",
+    "timestamp": 1774876264,
+    "timestamp_local": 1774876264
+  },
+  {
     "id": 18627,
     "fecha": "29 de Mar del 2026 a las 08:16 PM",
     "hora_utc": "2026-03-30 00:16",
@@ -86,21 +94,5 @@
     "mensaje": "Se encuentran disparados por DAF los siguientes circuitos:                                                    Tk 12 Las 40 y Nuevo sosa                                                                                                       Tk 6 Calle Cuba y zona Sur de B.Vista",
     "timestamp": 1774639636,
     "timestamp_local": 1774639636
-  },
-  {
-    "id": 18610,
-    "fecha": "27 de Mar del 2026 a las 03:14 PM",
-    "hora_utc": "2026-03-27 19:14",
-    "mensaje": "Se encuentra Disparado por Frecuencia el circuito de 33Kv 6230 Menéndez",
-    "timestamp": 1774638845,
-    "timestamp_local": 1774638845
-  },
-  {
-    "id": 18609,
-    "fecha": "27 de Mar del 2026 a las 02:11 PM",
-    "hora_utc": "2026-03-27 18:11",
-    "mensaje": "Se encuentra disparado el circuito de 33Kv 6305 Majibacoa",
-    "timestamp": 1774635066,
-    "timestamp_local": 1774635066
   }
 ]
