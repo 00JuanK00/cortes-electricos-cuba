@@ -1,5 +1,61 @@
 [
   {
+    "id": 43327,
+    "fecha": "31 de Mar del 2026 a las 01:25 AM",
+    "hora_utc": "2026-03-31 05:25",
+    "mensaje": "⚠️Afectado el servicio eléctrico en el circuito siguiente:\n👉Cto 4 Zona Centro",
+    "timestamp": 1774934705,
+    "timestamp_local": 1774934705
+  },
+  {
+    "id": 43326,
+    "fecha": "31 de Mar del 2026 a las 01:15 AM",
+    "hora_utc": "2026-03-31 05:15",
+    "mensaje": "⚠️Afectado el servicio eléctrico en los circuitos siguientes:\n🔸Municipio Remedios:\n👉Ctos 67 y 152, 68 y 118 \n👉Ctos 69 y 70 Zuluetas\n👉Cto 143 Batey Heriberto Duquezne \n👉Cto 71 Buena Vista",
+    "timestamp": 1774934100,
+    "timestamp_local": 1774934100
+  },
+  {
+    "id": 43325,
+    "fecha": "31 de Mar del 2026 a las 01:12 AM",
+    "hora_utc": "2026-03-31 05:12",
+    "mensaje": "⚠️Afectado el servicio eléctrico en el circuito siguiente:\n👉Cto 30 Capiro",
+    "timestamp": 1774933963,
+    "timestamp_local": 1774933963
+  },
+  {
+    "id": 43324,
+    "fecha": "31 de Mar del 2026 a las 12:49 AM",
+    "hora_utc": "2026-03-31 04:49",
+    "mensaje": "💡Restablecido el servicio eléctrico en los circuitos siguientes:\n👉Cto 167 Virginia\n👉Cto 170 José Martí",
+    "timestamp": 1774932545,
+    "timestamp_local": 1774932545
+  },
+  {
+    "id": 43323,
+    "fecha": "31 de Mar del 2026 a las 12:25 AM",
+    "hora_utc": "2026-03-31 04:25",
+    "mensaje": "⚡Afectado por DAF el circuito 170 José Martí.",
+    "timestamp": 1774931137,
+    "timestamp_local": 1774931137
+  },
+  {
+    "id": 43322,
+    "fecha": "31 de Mar del 2026 a las 12:11 AM",
+    "hora_utc": "2026-03-31 04:11",
+    "mensaje": "⚡Afectado por DAF el circuito 167 Virginia.",
+    "timestamp": 1774930260,
+    "timestamp_local": 1774930260
+  },
+  {
+    "id": 43321,
+    "fecha": "30 de Mar del 2026 a las 11:59 PM",
+    "hora_utc": "2026-03-31 03:59",
+    "mensaje": "🕛Actualización del servicio eléctrico en las últimas 6 horas.\n\n👉El déficit de capacidad de generación en estos momentos es de 92 MW\n👉En el momento de esta nota, se mantienen afectados 123 circuitos.\n👉Cuenta con 116 afectaciones por averías secundarias y de servicio:\n 🔸Caibarién (2)\n 🔸Manicaragua (11)\n 🔸Placetas (6)\n 🔸Ranchuelo (7)\n 🔸Remedios (4) \n 🔸Sagua (20) \n 🔸Santa Clara (44)\n 🔸Santo Domingo (4)\n🛠️Se encuentran 5 averías en vías de solución.\n🛠️Pendientes a solucionar por el área técnica 12.\n⚡La provincia no presenta averías primarias.",
+    "timestamp": 1774929540,
+    "timestamp_local": 1774929540
+  },
+  {
     "id": 43320,
     "fecha": "30 de Mar del 2026 a las 11:33 PM",
     "hora_utc": "2026-03-31 03:33",
@@ -94,61 +150,5 @@
     "mensaje": "⚠Afectado el servicio eléctrico en el siguiente circuito:\n👉Cto 13 Zona Industrial",
     "timestamp": 1774905616,
     "timestamp_local": 1774905616
-  },
-  {
-    "id": 43306,
-    "fecha": "30 de Mar del 2026 a las 05:13 PM",
-    "hora_utc": "2026-03-30 21:13",
-    "mensaje": "⚠Afectado el servicio eléctrico en los siguientes circuitos:\n🔸Municipio Encrucijada:\n👉Cto 122 Encrucijada  \n👉Cto123 Vizcaya  \n👉Cto 142 Comunidad La Sierra \n👉Cto 126 Batey Emilio Córdova\n👉Cto 125 Cavarrocas\n👉Cto 124 El Santo\n🔸Municipio Camajuaní:                                                    \n👉Cto 78 Jutiero",
-    "timestamp": 1774905235,
-    "timestamp_local": 1774905235
-  },
-  {
-    "id": 43305,
-    "fecha": "30 de Mar del 2026 a las 04:42 PM",
-    "hora_utc": "2026-03-30 20:42",
-    "mensaje": "⚠Afectada por disparo por tormenta la Línea 6585.\n**🔹Línea 6585 **\n🔸Municipio Camajuaní:\n👉Ctos  72, 73, 129 y 156 \n👉Cto 74 José María Pérez",
-    "timestamp": 1774903330,
-    "timestamp_local": 1774903330
-  },
-  {
-    "id": 43304,
-    "fecha": "30 de Mar del 2026 a las 04:38 PM",
-    "hora_utc": "2026-03-30 20:38",
-    "mensaje": "⚠Afectado el servicio eléctrico en los siguientes circuitos:\n**🔸Municipio Placetas **\n**👉C**tos 100 y 151 Placetas\n👉Cto 104 Hermanos Amejeiras\n👉Cto 103 Batey Carbó Servía",
-    "timestamp": 1774903127,
-    "timestamp_local": 1774903127
-  },
-  {
-    "id": 43303,
-    "fecha": "30 de Mar del 2026 a las 04:35 PM",
-    "hora_utc": "2026-03-30 20:35",
-    "mensaje": "🔸Actualización del servicio eléctrico en la provincia.\n👉De los circuitos apagables que presenta la provincia, se mantienen afectados 123 circuitos.\n👉En el momento de hacer esta nota la provincia tiene 109  MW de afectación por déficit de capacidad de generación, demanda máxima posible a apagar en estos momentos.\n👉Cuenta con 154 afectaciones por averías secundarias y de servicio.",
-    "timestamp": 1774902927,
-    "timestamp_local": 1774902927
-  },
-  {
-    "id": 43302,
-    "fecha": "30 de Mar del 2026 a las 04:09 PM",
-    "hora_utc": "2026-03-30 20:09",
-    "mensaje": "⚠Afectado el servicio eléctrico en los siguientes circuitos:\n🔸Municipio Santa Clara\n👉Cto 146 (Elevado Aeropuerto)** **\n👉Cto 25(Los Güiros)\n👉Cto 24(Planta Asfalto)\n👉Cto 35(Biotecnología)    \n👉Ctos 15 y 27 (Maleza)\n👉Cto 7 (Universidad)  \n👉Cto 131 (Las Antillas)\n👉Cto 22 (ConstruccionesTextil)",
-    "timestamp": 1774901392,
-    "timestamp_local": 1774901392
-  },
-  {
-    "id": 43301,
-    "fecha": "30 de Mar del 2026 a las 04:03 PM",
-    "hora_utc": "2026-03-30 20:03",
-    "mensaje": "⚠Afectado el servicio eléctrico en el circuito siguiente:\n👉Cto 39 Sandino.",
-    "timestamp": 1774901010,
-    "timestamp_local": 1774901010
-  },
-  {
-    "id": 43300,
-    "fecha": "30 de Mar del 2026 a las 04:02 PM",
-    "hora_utc": "2026-03-30 20:02",
-    "mensaje": "⚠Afectado el servicio eléctrico en los siguientes circuitos.\n🔸Municipio Ranchuelo: \n👉Ctos 89, 97, 188 y 189\n👉Ctos 148 y 149 San Juan\n👉Cto 91 Batey Osvaldo Herrera\n👉Cto 181 Batey Ifraín Alfonso",
-    "timestamp": 1774900949,
-    "timestamp_local": 1774900949
   }
 ]
