@@ -1,5 +1,21 @@
 [
   {
+    "id": 43365,
+    "fecha": "31 de Mar del 2026 a las 12:15 PM",
+    "hora_utc": "2026-03-31 16:15",
+    "mensaje": "🕛Actualización del servicio eléctrico en las últimas 6 horas.\n✍️El déficit de capacidad de generación en estos momentos es de 98 MW\n✍️En el momento de esta nota, se mantienen afectados 109 circuitos.\n✍️Cuenta con 144 afectaciones por averías secundarias y de servicio:\n 🔸Caibarién (2)\n 🔸Camajuaní (2)\n 🔸Cifuentes (2)\n 🔸Encrucijada (8)\n 🔸Manicaragua (15)\n 🔸Placetas (12)\n 🔸Ranchuelo (10)\n 🔸Remedios (6) \n 🔸Sagua (12) \n 🔸Santa Clara (52)\n 🔸Santo Domingo (12)\n✍️Se encuentran 10 averías en vías de solución.\nPendientes a solucionar por el área técnica 5.\n⚡La provincia presenta 1 avería primaria en el circuito 141 (Manuelita), del municipio Santa Clara, afectado por faltar una fase.",
+    "timestamp": 1774973706,
+    "timestamp_local": 1774973706
+  },
+  {
+    "id": 43364,
+    "fecha": "31 de Mar del 2026 a las 12:03 PM",
+    "hora_utc": "2026-03-31 16:03",
+    "mensaje": "⚡Afectado por faltar una fase el circuito 141 (Manuelita), del municipio Santa Clara.",
+    "timestamp": 1774972980,
+    "timestamp_local": 1774972980
+  },
+  {
     "id": 43363,
     "fecha": "31 de Mar del 2026 a las 11:29 AM",
     "hora_utc": "2026-03-31 15:29",
@@ -27,7 +43,7 @@
     "id": 43360,
     "fecha": "31 de Mar del 2026 a las 11:18 AM",
     "hora_utc": "2026-03-31 15:18",
-    "mensaje": "🛠️Afectado por vía libre el circuito 71 (Buena Vista), del municipio de Remedios por cable secundario con proximidad a la línea.",
+    "mensaje": "🛠️Afectado de manera parcial por vía libre el circuito 71 (Buena Vista), del municipio de Remedios por cable secundario con proximidad a la línea.",
     "timestamp": 1774970333,
     "timestamp_local": 1774970333
   },
@@ -126,29 +142,5 @@
     "mensaje": "💡Con servicio los siguientes circuitos:\n🔹Municipio Encrucijada\n👉Cto 120 Calabazar\n👉Ctos 121 y 127 Perucho",
     "timestamp": 1774963707,
     "timestamp_local": 1774963707
-  },
-  {
-    "id": 43346,
-    "fecha": "31 de Mar del 2026 a las 09:25 AM",
-    "hora_utc": "2026-03-31 13:25",
-    "mensaje": "➡️ La Provincia presenta 2 afectaciones de servicio eléctrico por transformador dañado:  \n👉Municipio Camajuani: Carretera a La Quinta , después de la loma a la derecha.\n👉Municipio Quemado: Callejón de Rodrigo,  al lado de la escuela Primaria.",
-    "timestamp": 1774963549,
-    "timestamp_local": 1774963549
-  },
-  {
-    "id": 43345,
-    "fecha": "31 de Mar del 2026 a las 09:03 AM",
-    "hora_utc": "2026-03-31 13:03",
-    "mensaje": "⚠️Afectado el servicio eléctrico en el siguiente circuito:\n🔹Municipio Santa Clara \n 👉Cto 6 (Vigía)",
-    "timestamp": 1774962201,
-    "timestamp_local": 1774962201
-  },
-  {
-    "id": 43344,
-    "fecha": "31 de Mar del 2026 a las 08:53 AM",
-    "hora_utc": "2026-03-31 12:53",
-    "mensaje": "⚡ Actualización del Sistema Electroenergético Nacional para el 31 de marzo de 2026.\n\nLeer más: https://www.unionelectrica.cu/nota-informativa/\n\n#UnidosXCuba #UniónEléctrica #UNE #NotaInformativa",
-    "timestamp": 1774961606,
-    "timestamp_local": 1774961606
   }
 ]
