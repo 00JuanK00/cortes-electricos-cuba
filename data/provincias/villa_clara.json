@@ -1,19 +1,35 @@
 [
   {
+    "id": 43371,
+    "fecha": "31 de Mar del 2026 a las 04:54 PM",
+    "hora_utc": "2026-03-31 20:54",
+    "mensaje": "⚠️Afectado el servicio eléctrico en el siguiente circuito:\n🔹Municipio Santa Clara:\n👉Cto 13 (Zona Industrial)",
+    "timestamp": 1774990475,
+    "timestamp_local": 1774990475
+  },
+  {
+    "id": 43370,
+    "fecha": "31 de Mar del 2026 a las 04:42 PM",
+    "hora_utc": "2026-03-31 20:42",
+    "mensaje": "⚠️Afectado el servicio eléctrico en los siguientes circuitos:\n🔹Municipio Santa Clara:\n👉Cto 153 (EIDE)\n👉Cto 14 (Maleza)",
+    "timestamp": 1774989770,
+    "timestamp_local": 1774989770
+  },
+  {
+    "id": 43369,
+    "fecha": "31 de Mar del 2026 a las 04:25 PM",
+    "hora_utc": "2026-03-31 20:25",
+    "mensaje": "✍️Actualización del servicio eléctrico en la provincia.\nDe los circuitos apagables que presenta la provincia, se mantienen afectados 115 circuitos.\nEn el momento de hacer esta nota la provincia tiene 102 MW de afectación por déficit de capacidad de generación, demanda máxima posible a apagar en estos momentos.\nCuenta con 129 afectaciones por averías secundarias y de servicio.",
+    "timestamp": 1774988748,
+    "timestamp_local": 1774988748
+  },
+  {
     "id": 43368,
     "fecha": "31 de Mar del 2026 a las 04:19 PM",
     "hora_utc": "2026-03-31 20:19",
     "mensaje": "⚠️Afectado el servicio en el siguiente circuito:\n🔹Municipio Santa Clara:\n👉Cto 167 (Virginia)",
     "timestamp": 1774988378,
     "timestamp_local": 1774988378
-  },
-  {
-    "id": 43367,
-    "fecha": "31 de Mar del 2026 a las 03:42 PM",
-    "hora_utc": "2026-03-31 19:42",
-    "mensaje": "🛠️Afectado por manipulación la línea 108 para reponer puentes abiertos en el circuito 141 (Manuelita):\n🔸Municipio Ranchuelo:\n👉Cto 92 Esperanza (Pueblo)\n👉Cto 93 Esperanza (Campo)\n🔸Municipio Santa Clara\n👉Cto 26 (Manuelita)\n👉Cto 191 (Quemado de Hilario)",
-    "timestamp": 1774986173,
-    "timestamp_local": 1774986173
   },
   {
     "id": 43365,
@@ -126,21 +142,5 @@
     "mensaje": "💡Con servicio los siguientes circuitos:\n🔹Municipio Santo Domingo:\n👉Cto 195 Batey George Washington\n👉Ctos 83 y 165 Manacas\n👉Ctos 85 y 86 Pajarito\n👉Ctos 160 y 161 Cascajal\n👉Cto 79 (Santo Domingo)\n👉Cto 81 (26 de Julio)\n👉Cto 163 (Batey 26 de Julio\n🔹Municipio Ranchuelo:\n👉Ctos 54, 94 y 95 Jicotea",
     "timestamp": 1774966619,
     "timestamp_local": 1774966619
-  },
-  {
-    "id": 43350,
-    "fecha": "31 de Mar del 2026 a las 10:06 AM",
-    "hora_utc": "2026-03-31 14:06",
-    "mensaje": "⚠️Afectado el servicio eléctrico en los siguientes circuitos:\n🔹Municipio Santa Clara:\n👉Cto 4 (Consejo-Centro)\n👉Cto 166 (Condado)",
-    "timestamp": 1774965991,
-    "timestamp_local": 1774965991
-  },
-  {
-    "id": 43349,
-    "fecha": "31 de Mar del 2026 a las 10:00 AM",
-    "hora_utc": "2026-03-31 14:00",
-    "mensaje": "⚠️Afectado el servicio eléctrico en el siguiente circuito:\n🔹Municipio Santa Clara:\n👉Cto 170 (José Martí)",
-    "timestamp": 1774965654,
-    "timestamp_local": 1774965654
   }
 ]
