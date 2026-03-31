@@ -1,5 +1,21 @@
 [
   {
+    "id": 43329,
+    "fecha": "31 de Mar del 2026 a las 01:59 AM",
+    "hora_utc": "2026-03-31 05:59",
+    "mensaje": "✅Actualización del servicio eléctrico en la provincia.\n👉De los circuitos apagables que presenta la provincia, se mantienen afectados 122 circuitos.\n👉En el momento de hacer esta nota la provincia tiene 80  MW de afectación por déficit de capacidad de generación, demanda máxima posible a apagar en estos momentos.\n👉Cuenta con 96 afectaciones por averías secundarias y de servicio.",
+    "timestamp": 1774936791,
+    "timestamp_local": 1774936791
+  },
+  {
+    "id": 43328,
+    "fecha": "31 de Mar del 2026 a las 01:30 AM",
+    "hora_utc": "2026-03-31 05:30",
+    "mensaje": "⚠️Afectado el servicio eléctrico en los siguientes circuitos: \n🔸Municipio Santa Clara\n👉Cto 146 (Elevado Aeropuerto) \n👉Cto 25 (Los Güiros)\n👉Cto 24 (Planta Asfalto)\n👉Cto 35 (Biotecnología)",
+    "timestamp": 1774935042,
+    "timestamp_local": 1774935042
+  },
+  {
     "id": 43327,
     "fecha": "31 de Mar del 2026 a las 01:25 AM",
     "hora_utc": "2026-03-31 05:25",
@@ -134,21 +150,5 @@
     "mensaje": "⚠️Continúa afectado el servicio eléctrico en el siguiente circuito:\n👉Cto 167 Virginia",
     "timestamp": 1774909878,
     "timestamp_local": 1774909878
-  },
-  {
-    "id": 43308,
-    "fecha": "30 de Mar del 2026 a las 06:05 PM",
-    "hora_utc": "2026-03-30 22:05",
-    "mensaje": "🕕Actualización del servicio eléctrico en las últimas 6 horas.\n\n👉El déficit de capacidad de generación en estos momentos es de 111 MW\n👉En el momento de esta nota, se mantienen afectados 121 circuitos.\n 👉Cuenta con 165 afectaciones por averías secundarias y de servicio:\n 🔸Caibarién (5)\n 🔸Corralillo (2)\n 🔸Encrucijada (3)\n 🔸Manicaragua (11)\n 🔸Placetas (7)\n 🔸Ranchuelo (8)\n 🔸Remedios (3) \n 🔸Sagua (18) \n 🔸Santa Clara (84)\n 🔸Santo Domingo (8)\n🛠Se encuentran 4 averías en vías de solución.\n🛠Pendientes a solucionar por el área técnica 9.\n⚡La provincia no presenta averías primarias.",
-    "timestamp": 1774908343,
-    "timestamp_local": 1774908343
-  },
-  {
-    "id": 43307,
-    "fecha": "30 de Mar del 2026 a las 05:20 PM",
-    "hora_utc": "2026-03-30 21:20",
-    "mensaje": "⚠Afectado el servicio eléctrico en el siguiente circuito:\n👉Cto 13 Zona Industrial",
-    "timestamp": 1774905616,
-    "timestamp_local": 1774905616
   }
 ]
