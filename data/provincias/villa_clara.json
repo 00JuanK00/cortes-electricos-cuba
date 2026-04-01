@@ -1,5 +1,45 @@
 [
   {
+    "id": 43472,
+    "fecha": "01 de Apr del 2026 a las 07:06 PM",
+    "hora_utc": "2026-04-01 23:06",
+    "mensaje": "Afectados 153 MW en la Provincia , demanda máxima a apagar en estos momentos.",
+    "timestamp": 1775084796,
+    "timestamp_local": 1775084796
+  },
+  {
+    "id": 43471,
+    "fecha": "01 de Apr del 2026 a las 06:47 PM",
+    "hora_utc": "2026-04-01 22:47",
+    "mensaje": "⚠️Afectado el servicio eléctrico en los siguientes circuitos:\n🔹Municipio Santa Clara:\n👉Ctos 2 y 4 (Consejo- Centro)",
+    "timestamp": 1775083665,
+    "timestamp_local": 1775083665
+  },
+  {
+    "id": 43470,
+    "fecha": "01 de Apr del 2026 a las 06:26 PM",
+    "hora_utc": "2026-04-01 22:26",
+    "mensaje": "⚠️Afectado el servicio eléctrico en los siguientes circuitos:\n🔹Municipio Sagua\n👉Ctos 43, 51 Sagua\n👉Cto 44 Isabela\n👉Ctos 50 y 147 Villa Alegre",
+    "timestamp": 1775082397,
+    "timestamp_local": 1775082397
+  },
+  {
+    "id": 43469,
+    "fecha": "01 de Apr del 2026 a las 06:15 PM",
+    "hora_utc": "2026-04-01 22:15",
+    "mensaje": "⚠️Afectado el servicio eléctrico en los siguientes circuitos:\n🔹Municipio Santa Clara\n👉Ctos 26 y 141 (Manuelita)\n👉Cto 191 (Quemado de Hilario)",
+    "timestamp": 1775081733,
+    "timestamp_local": 1775081733
+  },
+  {
+    "id": 43468,
+    "fecha": "01 de Apr del 2026 a las 06:14 PM",
+    "hora_utc": "2026-04-01 22:14",
+    "mensaje": "🕕Actualización del servicio eléctrico en las últimas 6 horas.\n✍️El déficit de capacidad de generación en estos momentos es de 153 MW\n✍️En el momento de esta nota, se mantienen afectados 149 circuitos.\n✍️Cuenta con 130 afectaciones por averías secundarias y de servicio:\n🔸Caibarién (4)\n🔸Cifuentes (2)\n🔸Corralillo (3)\n🔸Encrucijada (1)\n🔸Manicaragua (8)\n🔸Placetas (6)\n🔸Ranchuelo (10)\n🔸Remedios (1)\n🔸Sagua (12)\n🔸Santa Clara (77)\n🔸Santo Domingo (6)\n🛠️Pendientes a solucionar por el área técnica 2.\n⚡La provincia no presenta averías primarias.",
+    "timestamp": 1775081652,
+    "timestamp_local": 1775081652
+  },
+  {
     "id": 43467,
     "fecha": "01 de Apr del 2026 a las 05:28 PM",
     "hora_utc": "2026-04-01 21:28",
@@ -110,45 +150,5 @@
     "mensaje": "💡Con servicio eléctrico la línea del 1965:\n🔸Municipio Cifuentes:\n👉Ctos 114 y 117\n👉Ctos 116 y 155 Mata\n👉Cto 186 Batey Unidad Proletaria\n👉Cto 184 Sitio Grande",
     "timestamp": 1775067890,
     "timestamp_local": 1775067890
-  },
-  {
-    "id": 43452,
-    "fecha": "01 de Apr del 2026 a las 02:23 PM",
-    "hora_utc": "2026-04-01 18:23",
-    "mensaje": "💡Con servicio eléctrico el circuito 1 (Centro), perteneciente al municipio Santa Clara.",
-    "timestamp": 1775067812,
-    "timestamp_local": 1775067812
-  },
-  {
-    "id": 43451,
-    "fecha": "01 de Apr del 2026 a las 02:18 PM",
-    "hora_utc": "2026-04-01 18:18",
-    "mensaje": "⚠️Afectada por manipulación la línea del 1965:\n🔹Municipio Cifuentes:\n👉Ctos 114 y 117\n👉Ctos 116 y 155 Mata\n👉Cto 186 Batey Unidad Proletaria\n👉Cto 184 Sitio Grande",
-    "timestamp": 1775067493,
-    "timestamp_local": 1775067493
-  },
-  {
-    "id": 43450,
-    "fecha": "01 de Apr del 2026 a las 02:12 PM",
-    "hora_utc": "2026-04-01 18:12",
-    "mensaje": "⚠️Afectado el servicio eléctrico en los siguientes circuitos:\n🔹Municipio Santa Clara:\n👉Ctos 1 y 3 (Consejo- Centro)",
-    "timestamp": 1775067137,
-    "timestamp_local": 1775067137
-  },
-  {
-    "id": 43449,
-    "fecha": "01 de Apr del 2026 a las 02:09 PM",
-    "hora_utc": "2026-04-01 18:09",
-    "mensaje": "💡Con servicio eléctrico los siguientes circuitos:\n🔸Municipio Santa Clara:\n👉Cto 5 (Dobarganes)\n👉Cto 17 (Subplanta)",
-    "timestamp": 1775066948,
-    "timestamp_local": 1775066948
-  },
-  {
-    "id": 43448,
-    "fecha": "01 de Apr del 2026 a las 02:04 PM",
-    "hora_utc": "2026-04-01 18:04",
-    "mensaje": "✅Actualización del servicio eléctrico en la provincia.\n👉De los circuitos apagables que presenta la provincia, se mantienen afectados 129 circuitos.\n👉En el momento de hacer esta nota la provincia tiene 98 MW de afectación por déficit de capacidad de generación, demanda máxima posible a apagar en estos momentos.\n👉Cuenta con 123 afectaciones por averías secundarias y de servicio.",
-    "timestamp": 1775066687,
-    "timestamp_local": 1775066687
   }
 ]
