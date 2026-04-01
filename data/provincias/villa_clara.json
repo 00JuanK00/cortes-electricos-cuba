@@ -1,5 +1,37 @@
 [
   {
+    "id": 43387,
+    "fecha": "31 de Mar del 2026 a las 09:59 PM",
+    "hora_utc": "2026-04-01 01:59",
+    "mensaje": "✍️Actualización del servicio eléctrico en la provincia.\nDe los circuitos apagables que presenta la provincia, se mantienen afectados 136 circuitos.\nEn el momento de hacer esta nota la provincia tiene 119 MW de afectación por déficit de capacidad de generación, demanda máxima posible a apagar en estos momentos.\nCuenta con 127 afectaciones por averías secundarias y de servicio.",
+    "timestamp": 1775008774,
+    "timestamp_local": 1775008774
+  },
+  {
+    "id": 43386,
+    "fecha": "31 de Mar del 2026 a las 09:30 PM",
+    "hora_utc": "2026-04-01 01:30",
+    "mensaje": "Restablecido el servicio eléctrico en el circuito 169 (Condado), del municipio Santa Clara.",
+    "timestamp": 1775007023,
+    "timestamp_local": 1775007023
+  },
+  {
+    "id": 43385,
+    "fecha": "31 de Mar del 2026 a las 08:54 PM",
+    "hora_utc": "2026-04-01 00:54",
+    "mensaje": "🛠️Afectado por manipulación el circuito 169 (Condado), del municipio Santa Clara.",
+    "timestamp": 1775004840,
+    "timestamp_local": 1775004840
+  },
+  {
+    "id": 43384,
+    "fecha": "31 de Mar del 2026 a las 08:48 PM",
+    "hora_utc": "2026-04-01 00:48",
+    "mensaje": "🛠️Afectada por emergencia la línea 108:\nAfecta los siguientes circuitos:\n🔹Municipio Ranchuelo:\n👉Cto 92 Esperanza (Pueblo)\n👉Cto 93 Esperanza (Campo)\n🔹Municipio Santa Clara\n👉Ctos 26 y 141 (Manuelita)\n👉Cto 191 (Quemado de Hilario)",
+    "timestamp": 1775004504,
+    "timestamp_local": 1775004504
+  },
+  {
     "id": 43383,
     "fecha": "31 de Mar del 2026 a las 07:59 PM",
     "hora_utc": "2026-03-31 23:59",
@@ -126,29 +158,5 @@
     "mensaje": "⚠️Afectado el servicio en el siguiente circuito:\n🔹Municipio Santa Clara:\n👉Cto 167 (Virginia)",
     "timestamp": 1774988378,
     "timestamp_local": 1774988378
-  },
-  {
-    "id": 43365,
-    "fecha": "31 de Mar del 2026 a las 12:15 PM",
-    "hora_utc": "2026-03-31 16:15",
-    "mensaje": "🕛Actualización del servicio eléctrico en las últimas 6 horas.\n✍️El déficit de capacidad de generación en estos momentos es de 98 MW\n✍️En el momento de esta nota, se mantienen afectados 109 circuitos.\n✍️Cuenta con 144 afectaciones por averías secundarias y de servicio:\n 🔸Caibarién (2)\n 🔸Camajuaní (2)\n 🔸Cifuentes (2)\n 🔸Encrucijada (8)\n 🔸Manicaragua (15)\n 🔸Placetas (12)\n 🔸Ranchuelo (10)\n 🔸Remedios (6) \n 🔸Sagua (12) \n 🔸Santa Clara (52)\n 🔸Santo Domingo (12)\n✍️Se encuentran 10 averías en vías de solución.\nPendientes a solucionar por el área técnica 5.\n⚡La provincia presenta 1 avería primaria en el circuito 141 (Manuelita), del municipio Santa Clara, afectado por faltar una fase.",
-    "timestamp": 1774973706,
-    "timestamp_local": 1774973706
-  },
-  {
-    "id": 43364,
-    "fecha": "31 de Mar del 2026 a las 12:03 PM",
-    "hora_utc": "2026-03-31 16:03",
-    "mensaje": "⚡Afectado por faltar una fase el circuito 141 (Manuelita), del municipio Santa Clara.",
-    "timestamp": 1774972980,
-    "timestamp_local": 1774972980
-  },
-  {
-    "id": 43363,
-    "fecha": "31 de Mar del 2026 a las 11:29 AM",
-    "hora_utc": "2026-03-31 15:29",
-    "mensaje": "💡Con servicio el siguiente circuito:\n🔹Municipio Sagua:\n👉Cto 44 Isabela",
-    "timestamp": 1774970967,
-    "timestamp_local": 1774970967
   }
 ]
