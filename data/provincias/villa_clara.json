@@ -1,5 +1,29 @@
 [
   {
+    "id": 43407,
+    "fecha": "01 de Apr del 2026 a las 08:12 AM",
+    "hora_utc": "2026-04-01 12:12",
+    "mensaje": "⚠️Se encuentra disparado el Cto 185 (Vueltas), perteneciente al municipio Camajuaní, se estudian las causas.",
+    "timestamp": 1775045566,
+    "timestamp_local": 1775045566
+  },
+  {
+    "id": 43406,
+    "fecha": "01 de Apr del 2026 a las 08:09 AM",
+    "hora_utc": "2026-04-01 12:09",
+    "mensaje": "💡Con servicio los siguientes circuitos:\n🔸Municipio Placetas:\n👉Ctos 101 y 145 Cumbre",
+    "timestamp": 1775045374,
+    "timestamp_local": 1775045374
+  },
+  {
+    "id": 43405,
+    "fecha": "01 de Apr del 2026 a las 08:05 AM",
+    "hora_utc": "2026-04-01 12:05",
+    "mensaje": "✅Actualización del servicio eléctrico en la provincia.\n👉De los circuitos apagables que presenta la provincia, se mantienen afectados 135 circuitos.\n👉En el momento de hacer esta nota la provincia tiene 100  MW de afectación por déficit de capacidad de generación, demanda máxima posible a apagar en estos momentos.\n👉Cuenta con 118 afectaciones por averías secundarias y de servicio.",
+    "timestamp": 1775045106,
+    "timestamp_local": 1775045106
+  },
+  {
     "id": 43404,
     "fecha": "01 de Apr del 2026 a las 07:14 AM",
     "hora_utc": "2026-04-01 11:14",
@@ -126,29 +150,5 @@
     "mensaje": "🕛Actualización del servicio eléctrico en las últimas 6 horas.\n✍️El déficit de capacidad de generación en estos momentos es de 96 MW\n✍️En el momento de esta nota, se mantienen afectados 129 circuitos.\n ✍️Cuenta con 132 afectaciones por averías secundarias y de servicio:\n 🔸Caibarién (2)\n 🔸Camajuaní (1)\n 🔸Cifuentes (3)\n 🔸Manicaragua (16)\n 🔸Placetas (9)\n 🔸Ranchuelo (8)\n 🔸Remedios (7) \n 🔸Sagua (6) \n 🔸Santa Clara (58)\n 🔸Santo Domingo (10)\n✍️Se encuentran 5 averías en vías de solución.\n✍️Pendientes a solucionar por el área técnica 2.\n⚡La provincia presenta 1 avería primaria en el circuito 17 (Cupet), del municipio Santa Clara por cable primario partido. Brigada eléctrica se encuentra trabajando para restablecer el servicio.",
     "timestamp": 1775016297,
     "timestamp_local": 1775016297
-  },
-  {
-    "id": 43387,
-    "fecha": "31 de Mar del 2026 a las 09:59 PM",
-    "hora_utc": "2026-04-01 01:59",
-    "mensaje": "✍️Actualización del servicio eléctrico en la provincia.\nDe los circuitos apagables que presenta la provincia, se mantienen afectados 136 circuitos.\nEn el momento de hacer esta nota la provincia tiene 119 MW de afectación por déficit de capacidad de generación, demanda máxima posible a apagar en estos momentos.\nCuenta con 127 afectaciones por averías secundarias y de servicio.",
-    "timestamp": 1775008774,
-    "timestamp_local": 1775008774
-  },
-  {
-    "id": 43386,
-    "fecha": "31 de Mar del 2026 a las 09:30 PM",
-    "hora_utc": "2026-04-01 01:30",
-    "mensaje": "Restablecido el servicio eléctrico en el circuito 169 (Condado), del municipio Santa Clara.",
-    "timestamp": 1775007023,
-    "timestamp_local": 1775007023
-  },
-  {
-    "id": 43385,
-    "fecha": "31 de Mar del 2026 a las 08:54 PM",
-    "hora_utc": "2026-04-01 00:54",
-    "mensaje": "🛠️Afectado por manipulación el circuito 169 (Condado), del municipio Santa Clara.",
-    "timestamp": 1775004840,
-    "timestamp_local": 1775004840
   }
 ]
