@@ -1,5 +1,21 @@
 [
   {
+    "id": 111012,
+    "fecha": "01 de Apr del 2026 a las 02:39 AM",
+    "hora_utc": "2026-04-01 06:39",
+    "mensaje": "🚨Por déficit de capacidad de generación se afecta el servicio en los siguientes circuitos:\n*Catalina 1 y 2🚨",
+    "timestamp": 1775025586,
+    "timestamp_local": 1775025586
+  },
+  {
+    "id": 111011,
+    "fecha": "01 de Apr del 2026 a las 02:16 AM",
+    "hora_utc": "2026-04-01 06:16",
+    "mensaje": "🚨Por déficit de capacidad de generación se afecta el servicio en los siguientes circuitos:\n*Güines 3\n*Güines 4🚨",
+    "timestamp": 1775024188,
+    "timestamp_local": 1775024188
+  },
+  {
     "id": 111008,
     "fecha": "01 de Apr del 2026 a las 12:37 AM",
     "hora_utc": "2026-04-01 04:37",
@@ -102,29 +118,5 @@
     "mensaje": "🚨Por déficit de capacidad de generación se afecta el servicio en los siguientes circuitos:\n*2 y 3 de San José🚨",
     "timestamp": 1774995529,
     "timestamp_local": 1774995529
-  },
-  {
-    "id": 110993,
-    "fecha": "31 de Mar del 2026 a las 06:17 PM",
-    "hora_utc": "2026-03-31 22:17",
-    "mensaje": "🚨Por déficit de capacidad de generación se afecta el servicio en el siguiente circuito:\n*1790🚨",
-    "timestamp": 1774995428,
-    "timestamp_local": 1774995428
-  },
-  {
-    "id": 110992,
-    "fecha": "31 de Mar del 2026 a las 06:14 PM",
-    "hora_utc": "2026-03-31 22:14",
-    "mensaje": "♦️Afectado el servicio en el circuito San Francisco por disparo en las líneas♦️",
-    "timestamp": 1774995294,
-    "timestamp_local": 1774995294
-  },
-  {
-    "id": 110991,
-    "fecha": "31 de Mar del 2026 a las 06:11 PM",
-    "hora_utc": "2026-03-31 22:11",
-    "mensaje": "🚨Por déficit de capacidad de generación se afecta el servicio en el siguiente circuito:\n*UNAH🚨",
-    "timestamp": 1774995079,
-    "timestamp_local": 1774995079
   }
 ]
