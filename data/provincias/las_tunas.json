@@ -1,5 +1,13 @@
 [
   {
+    "id": 18650,
+    "fecha": "01 de Apr del 2026 a las 03:33 PM",
+    "hora_utc": "2026-04-01 19:33",
+    "mensaje": "La Empresa Eléctrica Las Tunas informa que, según la nota emitida por la Unión Eléctrica para el 1ro de abril, en el día de ayer se afectó el servicio por déficit de capacidad durante las 24 horas y se ha mantenido la afectación durante la madrugada de hoy. En nuestra provincia se afectaron la totalidad de los circuitos apagables, con una máxima afectación de 81.25 MW.\nActualmente están fuera de servicio por avería las Unidad 2 de la CTE Santa Cruz, Unidad 2 de la CTE Felton y Unidad 6 de la CTE Nuevitas.\nEn mantenimiento se encuentran las Unidades 5 y 6 de la CTE Mariel, Unidades 3 y 6 de la CTE Renté, Unidad 5 de la CTE Nuevitas.\nEn el horario nocturno se estima un déficit de 1755 MW, lo cual puede representar el 85% de los circuitos apagables de la provincia.\nEstos valores pueden variar según la demanda nacional.",
+    "timestamp": 1775072032,
+    "timestamp_local": 1775072032
+  },
+  {
     "id": 18648,
     "fecha": "01 de Apr del 2026 a las 08:03 AM",
     "hora_utc": "2026-04-01 12:03",
@@ -102,13 +110,5 @@
     "mensaje": "Se declara en avería el circuito:\nCircuito 33 Kv: 6220\nTK61 La Yaya\nTK58 La Calera\nTK62 Lora\nTK63 Lora\nTJ95 Poblado Menéndez\n6220 Carúpano, La Salina y La Playa\nTK15 Tunas El Pueblo\nCircuito 33 Kv: 6820 Poblado Amancio\nSe trabaja para restablecer el servicio en el menor tiempo posible.Ofrecemos disculpas por las molestias ocasionadas.",
     "timestamp": 1774880868,
     "timestamp_local": 1774880868
-  },
-  {
-    "id": 18629,
-    "fecha": "30 de Mar del 2026 a las 09:11 AM",
-    "hora_utc": "2026-03-30 13:11",
-    "mensaje": "**Nota Informativa: Estado del Sistema Eléctrico Nacional (SEN) – 30 de marzo de 2026**\nEn el día de ayer se afectó el servicio por déficit de capacidad durante las 24 horas y se ha mantenido la afectación durante la madrugada de hoy. La máxima afectación por déficit de capacidad de generación en el día de ayer fue de 1696 MW a las 19:40 horas.\nLa producción de energía de los 54 nuevos parques solares fotovoltaicos fue de 4389 MWh, con 663 MW como máxima potencia entregada en el horario de la media con esta fuente de generación.\n**Estado actual del SEN**\nLa disponibilidad del SEN a las 06:00 horas es de 1160 MW, la demanda 2290 MW, con 1143 MW afectados. En el horario de la media se estima una afectación de 1250 MW.\n**Principales incidencias**\nAvería: Unidades 1 y 2 de la CTE Santa Cruz, Unidad 2 de la CTE Felton y Unidad 5 de la CTE Antonio Maceo.\nMantenimiento: Unidades 5 y 6 de la CTE Mariel, Unidades 3 y 6 de la CTE Renté, Unidad 5 de la CTE Nuevitas.\nLimitaciones en la generación térmica: 350 MW fuera de servicio.\n**Pronóstico para el horario pico**\nPara el pico se prevé la entrada de la unidad 5 de Energás Jaruco con 20 MW y la entrada de la unidad 5 de la CTE Renté con 60 MW.\nCon este pronóstico se prevé para el pico una disponibilidad de 1230 MW con una demanda máxima de 3050 MW, para un déficit de 1820 MW, por lo que de mantenerse las condiciones previstas se pronostica una afectación de 1850 MW en este horario.",
-    "timestamp": 1774876264,
-    "timestamp_local": 1774876264
   }
 ]
