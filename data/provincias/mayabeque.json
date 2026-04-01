@@ -1,5 +1,29 @@
 [
   {
+    "id": 111026,
+    "fecha": "01 de Apr del 2026 a las 09:42 AM",
+    "hora_utc": "2026-04-01 13:42",
+    "mensaje": "🔷Con servicio el circuito de 1790 que se encontraba afectado por disparo por DAF 🔷",
+    "timestamp": 1775050951,
+    "timestamp_local": 1775050951
+  },
+  {
+    "id": 111025,
+    "fecha": "01 de Apr del 2026 a las 08:40 AM",
+    "hora_utc": "2026-04-01 12:40",
+    "mensaje": "**Nota Informativa: Estado del Sistema Eléctrico Nacional (SEN) – 1 de abril de 2026**\nEn el día de ayer se afectó el servicio por déficit de capacidad durante las 24 horas y se ha mantenido la afectación durante la madrugada de hoy. La máxima afectación por déficit de capacidad de generación en el día de ayer fue de 1945 MW a las 19:50 horas.\nLa producción de energía de los 54 nuevos parques solares fotovoltaicos fue de 3561 MWh, con 518 MW como máxima potencia entregada en el horario de la media con esta fuente de generación.\n**Estado actual del SEN**\nLa disponibilidad del SEN a las 06:00 horas es de 1190 MW, la demanda 2470 MW, con 1295 MW afectados. En el horario de la media se estima una afectación de 1300 MW.\n**Principales incidencias**\nAvería: Unidad 2 de la CTE Santa Cruz, Unidad 2 de la CTE Felton y Unidad 6 de la CTE Nuevitas.\nMantenimiento: Unidades 5 y 6 de la CTE Mariel, Unidades 3 y 6 de la CTE Renté, Unidad 5 de la CTE Nuevitas.\nLimitaciones en la generación térmica: 406 MW fuera de servicio.\n**Pronóstico para el horario pico**\nPara el pico se prevé la entrada de la unidad 5 de Energás Jaruco con 20 MW, la unidad 2 de la CTE Santa Cruz con 80 MW (En proceso de arranque) y la unidad 6 de la CTE Nuevitas con 85 MW.\nCon este pronóstico se prevé para el pico una disponibilidad de 1375 MW con una demanda máxima de 3100 MW, para un déficit de 1725 MW, por lo que de mantenerse las condiciones previstas se pronostica una afectación de 1755 MW en este horario.",
+    "timestamp": 1775047239,
+    "timestamp_local": 1775047239
+  },
+  {
+    "id": 111023,
+    "fecha": "01 de Apr del 2026 a las 08:39 AM",
+    "hora_utc": "2026-04-01 12:39",
+    "mensaje": "♦️ Afectado el servicio en el circuito 1790 por disparo por DAF♦️",
+    "timestamp": 1775047177,
+    "timestamp_local": 1775047177
+  },
+  {
     "id": 111022,
     "fecha": "01 de Apr del 2026 a las 08:10 AM",
     "hora_utc": "2026-04-01 12:10",
@@ -70,29 +94,5 @@
     "mensaje": "♦️Informamos a los clientes de los siguientes circuitos que se encuentran afectados por avería:\n*Camacho 1 y 2♦️",
     "timestamp": 1775018228,
     "timestamp_local": 1775018228
-  },
-  {
-    "id": 111005,
-    "fecha": "31 de Mar del 2026 a las 09:42 PM",
-    "hora_utc": "2026-04-01 01:42",
-    "mensaje": "🚨Por déficit de capacidad de generación se afecta el servicio en el siguiente circuito:\n*Vegas🚨",
-    "timestamp": 1775007779,
-    "timestamp_local": 1775007779
-  },
-  {
-    "id": 111004,
-    "fecha": "31 de Mar del 2026 a las 09:39 PM",
-    "hora_utc": "2026-04-01 01:39",
-    "mensaje": "🚨Por déficit de capacidad de generación se afecta el servicio en el siguiente circuito:\n*3655🚨",
-    "timestamp": 1775007555,
-    "timestamp_local": 1775007555
-  },
-  {
-    "id": 111003,
-    "fecha": "31 de Mar del 2026 a las 09:35 PM",
-    "hora_utc": "2026-04-01 01:35",
-    "mensaje": "🚨Por déficit de capacidad de generación se afecta el servicio en el siguiente circuito:\n*San Nicolás 1🚨",
-    "timestamp": 1775007351,
-    "timestamp_local": 1775007351
   }
 ]
