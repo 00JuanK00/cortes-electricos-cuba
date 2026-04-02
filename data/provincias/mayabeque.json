@@ -1,5 +1,53 @@
 [
   {
+    "id": 111091,
+    "fecha": "02 de Apr del 2026 a las 08:17 AM",
+    "hora_utc": "2026-04-02 12:17",
+    "mensaje": "**Nota Informativa: Estado del Sistema Eléctrico Nacional (SEN) – 2 de abril de 2026\n**En el día de ayer se afectó el servicio por déficit de capacidad durante las 24 horas y se ha mantenido la afectación durante la madrugada de hoy. La máxima afectación por déficit de capacidad de generación en el día de ayer fue de 1729 MW a las 20:20 horas.\nLa producción de energía de los 54 nuevos parques solares fotovoltaicos fue de 3613 MWh, con 526 MW como máxima potencia entregada en el horario de la media con esta fuente de generación. \n**Estado actual del SEN\n**La disponibilidad del SEN a las 06:00 horas es de 1375 MW, la demanda 2264 MW, con 927 MW afectados. En el horario de la media se estima una afectación de 1050 MW. \n**Principales incidencias\n**Avería: Unidad 2 de la CTE Felton.\nMantenimiento: Unidades 5 y 6 de la CTE Mariel, Unidades 3 y 6 de la CTE Renté, Unidad 5 de la CTE Nuevitas.\nLimitaciones en la generación térmica: 429 MW fuera de servicio.\n**Pronóstico para el horario pico\n**Para el pico se prevé las entradas de la unidad 6 de la CTE Mariel con 50 MW y de la turbina 5 de Energás Boca de Jaruco con 20 MW. \nCon este pronóstico se prevé para el pico una disponibilidad de 1445 MW con una demanda máxima de 3000 MW, para un déficit de 1555 MW, por lo que de mantenerse las condiciones previstas se pronostica una afectación de 1585 MW en este horario.",
+    "timestamp": 1775132266,
+    "timestamp_local": 1775132266
+  },
+  {
+    "id": 111089,
+    "fecha": "02 de Apr del 2026 a las 08:15 AM",
+    "hora_utc": "2026-04-02 12:15",
+    "mensaje": "🚨Por déficit de capacidad de generación se afecta el servicio en el siguiente circuito:\n*Aguacate 🚨",
+    "timestamp": 1775132142,
+    "timestamp_local": 1775132142
+  },
+  {
+    "id": 111088,
+    "fecha": "02 de Apr del 2026 a las 08:14 AM",
+    "hora_utc": "2026-04-02 12:14",
+    "mensaje": "🚨Por déficit de capacidad de generación se afecta el servicio en los siguientes circuitos:\n*Sopapo 1 y 2  🚨",
+    "timestamp": 1775132052,
+    "timestamp_local": 1775132052
+  },
+  {
+    "id": 111087,
+    "fecha": "02 de Apr del 2026 a las 08:11 AM",
+    "hora_utc": "2026-04-02 12:11",
+    "mensaje": "🚨Por déficit de capacidad de generación se afecta el servicio en los siguientes circuitos:\n*Nueva Paz\n*Los Palos 🚨",
+    "timestamp": 1775131868,
+    "timestamp_local": 1775131868
+  },
+  {
+    "id": 111086,
+    "fecha": "02 de Apr del 2026 a las 08:02 AM",
+    "hora_utc": "2026-04-02 12:02",
+    "mensaje": "🚨Por déficit de capacidad de generación se afecta el servicio en el siguiente circuito:\n*Vegas 🚨",
+    "timestamp": 1775131326,
+    "timestamp_local": 1775131326
+  },
+  {
+    "id": 111085,
+    "fecha": "02 de Apr del 2026 a las 07:30 AM",
+    "hora_utc": "2026-04-02 11:30",
+    "mensaje": "🚨Por déficit de capacidad de generación se afecta el servicio en el siguiente circuito:\n*Camilo 🚨",
+    "timestamp": 1775129428,
+    "timestamp_local": 1775129428
+  },
+  {
     "id": 111084,
     "fecha": "02 de Apr del 2026 a las 07:22 AM",
     "hora_utc": "2026-04-02 11:22",
@@ -70,61 +118,5 @@
     "mensaje": "🔷Con servicio el circuito 3590 que se encontraba afectado por disparo en las líneas 🔷",
     "timestamp": 1775103238,
     "timestamp_local": 1775103238
-  },
-  {
-    "id": 111071,
-    "fecha": "02 de Apr del 2026 a las 12:13 AM",
-    "hora_utc": "2026-04-02 04:13",
-    "mensaje": "♦️ Afectado el servicio en el circuito 3590 por disparo en las líneas ♦️",
-    "timestamp": 1775103238,
-    "timestamp_local": 1775103238
-  },
-  {
-    "id": 111070,
-    "fecha": "01 de Apr del 2026 a las 11:58 PM",
-    "hora_utc": "2026-04-02 03:58",
-    "mensaje": "🚨Por déficit de capacidad de generación se afecta el servicio en el siguiente circuito:\n*Caamaño 🚨",
-    "timestamp": 1775102293,
-    "timestamp_local": 1775102293
-  },
-  {
-    "id": 111069,
-    "fecha": "01 de Apr del 2026 a las 10:26 PM",
-    "hora_utc": "2026-04-02 02:26",
-    "mensaje": "🔷Con servicio el circuito de Aguacate que se encontraba afectado por avería 🔷\n\n♦️ Quedando afectada la siguiente zona correspondiente al circuito de Aguacate:\n*Acueducto el Rubio pendiente a recorrer líneas ♦️",
-    "timestamp": 1775096775,
-    "timestamp_local": 1775096775
-  },
-  {
-    "id": 111068,
-    "fecha": "01 de Apr del 2026 a las 07:54 PM",
-    "hora_utc": "2026-04-01 23:54",
-    "mensaje": "🔷 Con servicio las zonas del Vedado Correspondientes a circuito de Güines que se encontraban afectados por posible avería:\n*Gamarra\n*Julián García\n*Sandino\n*Loma de Candela\n*Loma de Cachimbo 🔷",
-    "timestamp": 1775087677,
-    "timestamp_local": 1775087677
-  },
-  {
-    "id": 111067,
-    "fecha": "01 de Apr del 2026 a las 07:48 PM",
-    "hora_utc": "2026-04-01 23:48",
-    "mensaje": "🚨Por déficit de capacidad de generación se afecta el servicio en el siguiente circuito:\n*Madruga 🚨",
-    "timestamp": 1775087319,
-    "timestamp_local": 1775087319
-  },
-  {
-    "id": 111066,
-    "fecha": "01 de Apr del 2026 a las 07:34 PM",
-    "hora_utc": "2026-04-01 23:34",
-    "mensaje": "🚨Por déficit de capacidad de generación se afecta el servicio en el siguiente circuito:\n*Santa Cruz 🚨",
-    "timestamp": 1775086453,
-    "timestamp_local": 1775086453
-  },
-  {
-    "id": 111065,
-    "fecha": "01 de Apr del 2026 a las 07:33 PM",
-    "hora_utc": "2026-04-01 23:33",
-    "mensaje": "🚨Por déficit de capacidad de generación se afecta el servicio en el siguiente circuito:\n*3 de San José 🚨",
-    "timestamp": 1775086403,
-    "timestamp_local": 1775086403
   }
 ]

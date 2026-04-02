@@ -1,5 +1,21 @@
 [
   {
+    "id": 18653,
+    "fecha": "02 de Apr del 2026 a las 08:06 AM",
+    "hora_utc": "2026-04-02 12:06",
+    "mensaje": "Se restablecen los siguientes circuitos afectados por déficit:  \nCircuito 33 Kv: 622**0**\nTK61 La Yaya\nTK58La Calera\nTK62Lora\nTK63\nLoraTJ95    Poblado Menéndez 6220\nCarúpano, La Salina y La Playa",
+    "timestamp": 1775131571,
+    "timestamp_local": 1775131571
+  },
+  {
+    "id": 18652,
+    "fecha": "02 de Apr del 2026 a las 07:41 AM",
+    "hora_utc": "2026-04-02 11:41",
+    "mensaje": "Se encuentra en avería:\nCircuito de 33 Kv 6840 Los Kilómetros",
+    "timestamp": 1775130060,
+    "timestamp_local": 1775130060
+  },
+  {
     "id": 18651,
     "fecha": "01 de Apr del 2026 a las 04:28 PM",
     "hora_utc": "2026-04-01 20:28",
@@ -102,21 +118,5 @@
     "mensaje": "Solucionada la avería del circuito:\nCircuito 33 Kv: 6220\nTK61 La Yaya\nTK58 La Calera\nTK62 Lora\nTK63 Lora\nTJ95 Poblado Menéndez\n6220 Carúpano, La Salina y La Playa\nTK15 Tunas El Pueblo\nCircuito 33 Kv: 6820 Poblado Amancio",
     "timestamp": 1774890667,
     "timestamp_local": 1774890667
-  },
-  {
-    "id": 18632,
-    "fecha": "30 de Mar del 2026 a las 12:12 PM",
-    "hora_utc": "2026-03-30 16:12",
-    "mensaje": "La Empresa Eléctrica Las Tunas informa que, según la nota emitida por la Unión Eléctrica para el 30 de marzo, en el día de ayer se afectó el servicio por déficit de capacidad durante las 24 horas y se ha mantenido la afectación durante la madrugada de hoy. En nuestra provincia se afectaron la totalidad de los circuitos apagables, con una máxima afectación de 67.6 MW.\nActualmente están fuera de servicio por avería las Unidades 1 y 2 de la CTE Santa Cruz, Unidad 2 de la CTE Felton y Unidad 5 de la CTE Antonio Maceo.\nEn mantenimiento se encuentran la Unidades 5 y 6 de la CTE Mariel, Unidades 3 y 6 de la CTE Renté, Unidad 5 de la CTE Nuevitas.\nEn el horario nocturno se estima un déficit de 1850 MW, lo cual puede representar una afectación del 90% de los circuitos de la provincia.\nEstos valores pueden variar según la demanda nacional.",
-    "timestamp": 1774887146,
-    "timestamp_local": 1774887146
-  },
-  {
-    "id": 18631,
-    "fecha": "30 de Mar del 2026 a las 10:27 AM",
-    "hora_utc": "2026-03-30 14:27",
-    "mensaje": "Se declara en avería el circuito:\nCircuito 33 Kv: 6220\nTK61 La Yaya\nTK58 La Calera\nTK62 Lora\nTK63 Lora\nTJ95 Poblado Menéndez\n6220 Carúpano, La Salina y La Playa\nTK15 Tunas El Pueblo\nCircuito 33 Kv: 6820 Poblado Amancio\nSe trabaja para restablecer el servicio en el menor tiempo posible.Ofrecemos disculpas por las molestias ocasionadas.",
-    "timestamp": 1774880868,
-    "timestamp_local": 1774880868
   }
 ]
