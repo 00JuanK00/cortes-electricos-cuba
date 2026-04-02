@@ -1,9 +1,33 @@
 [
   {
+    "id": 43542,
+    "fecha": "02 de Apr del 2026 a las 06:01 PM",
+    "hora_utc": "2026-04-02 22:01",
+    "mensaje": "🕕Actualización del servicio eléctrico en las últimas 6 horas.\n✍️El déficit de capacidad de generación en estos momentos es de 128 MW\n✍️En el momento de esta nota, se mantienen afectados 135 circuitos.\n✍️ Cuenta con 80 afectaciones por averías secundarias y de servicio:\n🔸 Caibarién (3)\n🔸 Camajuani (2)\n🔸 Cifuentes (1)\n🔸 Corralillo (2)\n🔸 Manicaragua (8)\n🔸 Placetas (9)\n🔸 Ranchuelo (2)\n🔸 Remedios (2)\n🔸 Sagua (12)\n🔸 Santa Clara (27)\n🔸 Santo Domingo (2)\n🛠️Se encuentran 5 averías en vías de solución.\n🛠️Pendientes a solucionar por el área técnica 5.\n✅La provincia no presenta averías primarias.",
+    "timestamp": 1775167305,
+    "timestamp_local": 1775167305
+  },
+  {
+    "id": 43541,
+    "fecha": "02 de Apr del 2026 a las 05:22 PM",
+    "hora_utc": "2026-04-02 21:22",
+    "mensaje": "⚠️Afectado el servicio eléctrico en los siguientes circuitos:\n🔹Municipio Santa Clara: \n👉Cto 167 (Virginia)\n👉Cto 170 (José Martí)\n👉Cto 171 (Los Caneyes)\n👉Cto 162 (Santa Clara Industrial)",
+    "timestamp": 1775164920,
+    "timestamp_local": 1775164920
+  },
+  {
+    "id": 43540,
+    "fecha": "02 de Apr del 2026 a las 05:14 PM",
+    "hora_utc": "2026-04-02 21:14",
+    "mensaje": "⚠️Afectado el servicio eléctrico en los siguientes circuitos:\n🔹Municipio Ranchuelo:\n👉Cto 92 Esperanza (Pueblo)\n👉Cto 93 Esperanza (Campo)\nMunicipio Santa Clara\n👉Ctos 26 y 141 (Manuelita)\n👉Cto 191 (Quemado de Hilario)",
+    "timestamp": 1775164461,
+    "timestamp_local": 1775164461
+  },
+  {
     "id": 43539,
     "fecha": "02 de Apr del 2026 a las 04:40 PM",
     "hora_utc": "2026-04-02 20:40",
-    "mensaje": "⚠️Afectado el servicio eléctrico en los siguientes circuitos:\n🔹Municipio Santo Domingo:\n👉Cto 195 Batey George Washington\n👉Ctos 83 y 165 Manacas\n👉Ctos 85 y 86 Pajarito\n👉Ctos 160 y 161 Cascajal\n👉Cto 79 (Santo Domingo)\n👉Cto 81 (26 de Julio)\n👉Cto 163 (Batey 26 de Julio\n🔹Municipio Ranchuelo:\n👉Ctos 54, 94 y 95 Jicotea",
+    "mensaje": "⚠️Afectado el servicio eléctrico en los siguientes circuitos:\n🔹Municipio Santo Domingo:\n👉Cto 195 Batey George Washington\n👉Ctos 83 y 165 Manacas\n👉Ctos 85 y 86 Pajarito\n👉Ctos 160 y 161 Cascajal\n👉Cto 79 (Santo Domingo)\n👉Cto 81 (26 de Julio)\n👉Cto 163 (Batey 26 de Julio\n🔹Municipio Ranchuelo:\n👉Ctos 54, 94 y 95 Jicotea\n👉Ctos 89, 97, 188 y 189\n👉Ctos 148 y 149 San Juan\n👉Cto 91 Batey Osvaldo Herrera\n👉Cto 181 Batey Ifraín Alfonso",
     "timestamp": 1775162442,
     "timestamp_local": 1775162442
   },
@@ -134,29 +158,5 @@
     "mensaje": "💡Con servicio eléctrico los siguientes circuitos.\n🔹Municipio Santa Clara: \n👉Cto 168 (Condado- XX Aniversario)\n👉Cto 170 (José Martí)\n👉Cto 171 (Los Caneyes)",
     "timestamp": 1775151220,
     "timestamp_local": 1775151220
-  },
-  {
-    "id": 43522,
-    "fecha": "02 de Apr del 2026 a las 01:32 PM",
-    "hora_utc": "2026-04-02 17:32",
-    "mensaje": "⚠️Afectado el servicio eléctrico en los siguientes circuitos:\n🔹Municipio Santo Domingo:\n👉Cto 134\n👉Ctos 87 y 96 Bermejal\n👉Cto 187 Batey Carlos Baliño\n👉Cto 82 Ulacia\n👉Cto 84 Rodrigo",
-    "timestamp": 1775151123,
-    "timestamp_local": 1775151123
-  },
-  {
-    "id": 43521,
-    "fecha": "02 de Apr del 2026 a las 01:23 PM",
-    "hora_utc": "2026-04-02 17:23",
-    "mensaje": "⚠️Afectado el servicio eléctrico en los siguientes circuitos:\n🔹Municipio Placetas:\n👉Ctos 101 y 145 Cumbre",
-    "timestamp": 1775150596,
-    "timestamp_local": 1775150596
-  },
-  {
-    "id": 43520,
-    "fecha": "02 de Apr del 2026 a las 01:15 PM",
-    "hora_utc": "2026-04-02 17:15",
-    "mensaje": "⚠️Afectado el servicio eléctrico en los siguientes circuitos:\n🔹Municipio Caibarién\n👉Ctos 61, 62 \n🔹Municipio Santa Clara:\n👉Cto 3 (Consejo- Centro)",
-    "timestamp": 1775150136,
-    "timestamp_local": 1775150136
   }
 ]
