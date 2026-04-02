@@ -1,9 +1,17 @@
 [
   {
+    "id": 111069,
+    "fecha": "01 de Apr del 2026 a las 10:26 PM",
+    "hora_utc": "2026-04-02 02:26",
+    "mensaje": "🔷Con servicio el circuito de Aguacate que se encontraba afectado por avería 🔷\n\n♦️ Quedando afectada la siguiente zona correspondiente al circuito de Aguacate:\n*Acueducto el Rubio pendiente a recorrer líneas ♦️",
+    "timestamp": 1775096775,
+    "timestamp_local": 1775096775
+  },
+  {
     "id": 111068,
     "fecha": "01 de Apr del 2026 a las 07:54 PM",
     "hora_utc": "2026-04-01 23:54",
-    "mensaje": "🔷 Con servicio servicio las zonas del Vedado Correspondientes a circuito de Güines que se encontraban afectados por posible avería:\n*Gamarra\n*Julián García\n*Sandino\n*Loma de Candela\n*Loma de Cachimbo 🔷",
+    "mensaje": "🔷 Con servicio las zonas del Vedado Correspondientes a circuito de Güines que se encontraban afectados por posible avería:\n*Gamarra\n*Julián García\n*Sandino\n*Loma de Candela\n*Loma de Cachimbo 🔷",
     "timestamp": 1775087677,
     "timestamp_local": 1775087677
   },
@@ -38,14 +46,6 @@
     "mensaje": "🚨Por déficit de capacidad de generación se afecta el servicio en los siguientes circuitos:\n*Surgidero\n\"Batabanó🚨",
     "timestamp": 1775085455,
     "timestamp_local": 1775085455
-  },
-  {
-    "id": 111062,
-    "fecha": "01 de Apr del 2026 a las 06:49 PM",
-    "hora_utc": "2026-04-01 22:49",
-    "mensaje": "🚨Por déficit de capacidad de generación se afecta el servicio en los siguientes circuitos:\n*Babiney\n\"Menocal \n*Nazareno 🚨",
-    "timestamp": 1775083776,
-    "timestamp_local": 1775083776
   },
   {
     "id": 111061,
@@ -94,14 +94,6 @@
     "mensaje": "🚨Por déficit de capacidad de generación se afecta el servicio en los siguientes circuitos:\n*1657\n*Bio 2 🚨",
     "timestamp": 1775081213,
     "timestamp_local": 1775081213
-  },
-  {
-    "id": 111053,
-    "fecha": "01 de Apr del 2026 a las 06:05 PM",
-    "hora_utc": "2026-04-01 22:05",
-    "mensaje": "🚨Por déficit de capacidad de generación se afecta el servicio en el siguiente circuito:\n*Madruga 🚨",
-    "timestamp": 1775081102,
-    "timestamp_local": 1775081102
   },
   {
     "id": 111052,
@@ -158,5 +150,13 @@
     "mensaje": "🚨Por déficit de capacidad de generación se afecta el servicio en el siguiente circuito:\n*3655🚨",
     "timestamp": 1775070246,
     "timestamp_local": 1775070246
+  },
+  {
+    "id": 111045,
+    "fecha": "01 de Apr del 2026 a las 03:01 PM",
+    "hora_utc": "2026-04-01 19:01",
+    "mensaje": "🚨Por déficit de capacidad de generación se afecta el servicio en el siguiente circuito:\n*San Nicolás 1🚨",
+    "timestamp": 1775070093,
+    "timestamp_local": 1775070093
   }
 ]
