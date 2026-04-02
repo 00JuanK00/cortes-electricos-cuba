@@ -1,5 +1,13 @@
 [
   {
+    "id": 18657,
+    "fecha": "02 de Apr del 2026 a las 10:13 AM",
+    "hora_utc": "2026-04-02 14:13",
+    "mensaje": "Nota Informativa: Estado del Sistema Eléctrico Nacional (SEN) – 2 de abril de 2026\n\nEn el día de ayer se afectó el servicio por déficit de capacidad durante las 24 horas y se ha mantenido la afectación durante la madrugada de hoy. La máxima afectación por déficit de capacidad de generación en el día de ayer fue de 1729 MW a las 20:20 horas.\n\nLa producción de energía de los 54 nuevos parques solares fotovoltaicos fue de 3613 MWh, con 526 MW como máxima potencia entregada en el horario de la media con esta fuente de generación.\nEstado actual del SEN\n\nLa disponibilidad del SEN a las 06:00 horas es de 1375 MW, la demanda 2264 MW, con 927 MW afectados. En el horario de la media se estima una afectación de 1050 MW.\nPrincipales incidencias\n\n    Avería: Unidad 2 de la CTE Felton.\n    Mantenimiento: Unidades 5 y 6 de la CTE Mariel, Unidades 3 y 6 de la CTE Renté, Unidad 5 de la CTE Nuevitas.\n    Limitaciones en la generación térmica: 429 MW fuera de servicio.\n\nPronóstico para el horario pico\n\nPara el pico se prevé las entradas de la unidad 6 de la CTE Mariel con 50 MW y de la turbina 5 de Energás Boca de Jaruco con 20 MW.\n\nCon este pronóstico se prevé para el pico una disponibilidad de 1445 MW con una demanda máxima de 3000 MW, para un déficit de 1555 MW, por lo que de mantenerse las condiciones previstas se pronostica una afectación de 1585 MW en este horario.",
+    "timestamp": 1775139186,
+    "timestamp_local": 1775139186
+  },
+  {
     "id": 18656,
     "fecha": "02 de Apr del 2026 a las 10:04 AM",
     "hora_utc": "2026-04-02 14:04",
@@ -118,13 +126,5 @@
     "mensaje": "Quedan restablecidos el TK 106 y TK5",
     "timestamp": 1774918547,
     "timestamp_local": 1774918547
-  },
-  {
-    "id": 18636,
-    "fecha": "30 de Mar del 2026 a las 08:19 PM",
-    "hora_utc": "2026-03-31 00:19",
-    "mensaje": "Disparado TK 106 palancón y TK5 Los Pinos Buena Vista por  por Frecuencia DAF",
-    "timestamp": 1774916348,
-    "timestamp_local": 1774916348
   }
 ]
