@@ -1,5 +1,21 @@
 [
   {
+    "id": 43483,
+    "fecha": "02 de Apr del 2026 a las 01:05 AM",
+    "hora_utc": "2026-04-02 05:05",
+    "mensaje": "Afectados 110 MW en la Provincia , demanda máxima a apagar en estos momentos.",
+    "timestamp": 1775106342,
+    "timestamp_local": 1775106342
+  },
+  {
+    "id": 43482,
+    "fecha": "02 de Apr del 2026 a las 12:19 AM",
+    "hora_utc": "2026-04-02 04:19",
+    "mensaje": "🕛Actualización del servicio eléctrico en las últimas 6 horas.\n✍️El déficit de capacidad de generación en estos momentos es de 119 MW.\n✍️En el momento de esta nota, se mantienen afectados 149 circuitos.\n✍️Cuenta con 79 afectaciones por averías secundarias y de servicio:\n🔸Caibarién (5)\n🔸Manicaragua (1)\n🔸Placetas (7)\n🔸Ranchuelo (1)\n🔸Remedios (1) \n🔸Sagua (14) \n🔸Santa Clara (43)\n🔸Santo Domingo (7)\n🛠️Pendientes a solucionar por el área técnica 3.\n⚡La provincia no presenta averías primarias.",
+    "timestamp": 1775103546,
+    "timestamp_local": 1775103546
+  },
+  {
     "id": 43481,
     "fecha": "01 de Apr del 2026 a las 11:01 PM",
     "hora_utc": "2026-04-02 03:01",
@@ -134,21 +150,5 @@
     "mensaje": "⚠️Afectado el servicio eléctrico en los siguientes circuitos:\n🔹Municipio Remedios:\n👉Ctos 67 y 152, 68 y 118\n👉Ctos 69 y 70 Zuluetas\n👉Cto 143 Batey Heriberto Duquezne \n👉Cto 71 Buena Vista\n🔹Municipio Quemado:\n👉Ctos 164, 52 y 53 Quemado.\n👉Cto 196 Batey Panchito Gómez Toro",
     "timestamp": 1775076965,
     "timestamp_local": 1775076965
-  },
-  {
-    "id": 43463,
-    "fecha": "01 de Apr del 2026 a las 04:53 PM",
-    "hora_utc": "2026-04-01 20:53",
-    "mensaje": "⚠️Afectado el servicio eléctrico en los siguientes circuitos:\n🔹Municipio Santa Clara:\n👉Cto 7 (Universidad)\n👉Cto 146 (Elevado Aeropuerto)\n👉Cto 22 (Construcciones Textil)\n👉Cto 131 (Las Antillas)\n👉Cto 25 (Los Güiros)\n👉Cto 24 (Planta Asfalto)\n👉Cto 35 (Biotecnología)",
-    "timestamp": 1775076787,
-    "timestamp_local": 1775076787
-  },
-  {
-    "id": 43462,
-    "fecha": "01 de Apr del 2026 a las 04:16 PM",
-    "hora_utc": "2026-04-01 20:16",
-    "mensaje": "💡Con servicio eléctrico el **circuito 162 (SC. Industrial**), perteneciente al municipio Santa Clara.",
-    "timestamp": 1775074570,
-    "timestamp_local": 1775074570
   }
 ]
