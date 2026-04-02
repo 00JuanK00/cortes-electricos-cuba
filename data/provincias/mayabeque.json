@@ -1,19 +1,43 @@
 [
   {
+    "id": 111068,
+    "fecha": "01 de Apr del 2026 a las 07:54 PM",
+    "hora_utc": "2026-04-01 23:54",
+    "mensaje": "🔷 Con servicio servicio las zonas del Vedado Correspondientes a circuito de Güines que se encontraban afectados por posible avería:\n*Gamarra\n*Julián García\n*Sandino\n*Loma de Candela\n*Loma de Cachimbo 🔷",
+    "timestamp": 1775087677,
+    "timestamp_local": 1775087677
+  },
+  {
+    "id": 111067,
+    "fecha": "01 de Apr del 2026 a las 07:48 PM",
+    "hora_utc": "2026-04-01 23:48",
+    "mensaje": "🚨Por déficit de capacidad de generación se afecta el servicio en el siguiente circuito:\n*Madruga 🚨",
+    "timestamp": 1775087319,
+    "timestamp_local": 1775087319
+  },
+  {
+    "id": 111066,
+    "fecha": "01 de Apr del 2026 a las 07:34 PM",
+    "hora_utc": "2026-04-01 23:34",
+    "mensaje": "🚨Por déficit de capacidad de generación se afecta el servicio en el siguiente circuito:\n*Santa Cruz 🚨",
+    "timestamp": 1775086453,
+    "timestamp_local": 1775086453
+  },
+  {
+    "id": 111065,
+    "fecha": "01 de Apr del 2026 a las 07:33 PM",
+    "hora_utc": "2026-04-01 23:33",
+    "mensaje": "🚨Por déficit de capacidad de generación se afecta el servicio en el siguiente circuito:\n*3 de San José 🚨",
+    "timestamp": 1775086403,
+    "timestamp_local": 1775086403
+  },
+  {
     "id": 111064,
     "fecha": "01 de Apr del 2026 a las 07:17 PM",
     "hora_utc": "2026-04-01 23:17",
-    "mensaje": "🚨Por déficit de capacidad de generación se afecta el servicio en los siguientes circuitos:\n*Surgidero\n\"Batabanó\n🚨",
+    "mensaje": "🚨Por déficit de capacidad de generación se afecta el servicio en los siguientes circuitos:\n*Surgidero\n\"Batabanó🚨",
     "timestamp": 1775085455,
     "timestamp_local": 1775085455
-  },
-  {
-    "id": 111063,
-    "fecha": "01 de Apr del 2026 a las 06:49 PM",
-    "hora_utc": "2026-04-01 22:49",
-    "mensaje": "🔷♦️Se restablece el servicio en el circuito que se encontraba afectado  por déficit de capacidad de generación:\n*Camaño♦️🔷",
-    "timestamp": 1775083776,
-    "timestamp_local": 1775083776
   },
   {
     "id": 111062,
@@ -40,28 +64,12 @@
     "timestamp_local": 1775083037
   },
   {
-    "id": 111059,
-    "fecha": "01 de Apr del 2026 a las 06:30 PM",
-    "hora_utc": "2026-04-01 22:30",
-    "mensaje": "🔷♦️Se restablece el servicio en los circuitos que se encontraban afectados  por déficit de capacidad de generación:\n*Melena 1 y 2♦️🔷",
-    "timestamp": 1775082604,
-    "timestamp_local": 1775082604
-  },
-  {
     "id": 111058,
     "fecha": "01 de Apr del 2026 a las 06:30 PM",
     "hora_utc": "2026-04-01 22:30",
     "mensaje": "🚨Por déficit de capacidad de generación se afecta el servicio en el siguiente circuito:\n*Güines 2 🚨",
     "timestamp": 1775082602,
     "timestamp_local": 1775082602
-  },
-  {
-    "id": 111057,
-    "fecha": "01 de Apr del 2026 a las 06:19 PM",
-    "hora_utc": "2026-04-01 22:19",
-    "mensaje": "🔷♦️Se restablece el servicio en el circuito que se encontraba afectado  por déficit de capacidad de generación:\n*5 de San José ♦️🔷",
-    "timestamp": 1775081996,
-    "timestamp_local": 1775081996
   },
   {
     "id": 111056,
@@ -150,13 +158,5 @@
     "mensaje": "🚨Por déficit de capacidad de generación se afecta el servicio en el siguiente circuito:\n*3655🚨",
     "timestamp": 1775070246,
     "timestamp_local": 1775070246
-  },
-  {
-    "id": 111045,
-    "fecha": "01 de Apr del 2026 a las 03:01 PM",
-    "hora_utc": "2026-04-01 19:01",
-    "mensaje": "🚨Por déficit de capacidad de generación se afecta el servicio en el siguiente circuito:\n*San Nicolás 1🚨",
-    "timestamp": 1775070093,
-    "timestamp_local": 1775070093
   }
 ]
