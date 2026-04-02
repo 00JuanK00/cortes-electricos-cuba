@@ -1,5 +1,37 @@
 [
   {
+    "id": 111110,
+    "fecha": "02 de Apr del 2026 a las 04:31 PM",
+    "hora_utc": "2026-04-02 20:31",
+    "mensaje": "🚨Por déficit de capacidad de generación se afecta el servicio en el siguiente circuito:\n*Santa Cruz 🚨",
+    "timestamp": 1775161879,
+    "timestamp_local": 1775161879
+  },
+  {
+    "id": 111109,
+    "fecha": "02 de Apr del 2026 a las 04:30 PM",
+    "hora_utc": "2026-04-02 20:30",
+    "mensaje": "🚨Por déficit de capacidad de generación se afecta el servicio en el siguiente circuito:\n*San Nicolás 1 🚨",
+    "timestamp": 1775161825,
+    "timestamp_local": 1775161825
+  },
+  {
+    "id": 111108,
+    "fecha": "02 de Apr del 2026 a las 04:15 PM",
+    "hora_utc": "2026-04-02 20:15",
+    "mensaje": "🚨Por déficit de capacidad de generación se afecta el servicio en los siguientes circuitos:\n*Melena 1 y 2  🚨",
+    "timestamp": 1775160914,
+    "timestamp_local": 1775160914
+  },
+  {
+    "id": 111107,
+    "fecha": "02 de Apr del 2026 a las 04:15 PM",
+    "hora_utc": "2026-04-02 20:15",
+    "mensaje": "🚨Por déficit de capacidad de generación se afecta el servicio en el siguiente circuito:\n*3655 🚨",
+    "timestamp": 1775160912,
+    "timestamp_local": 1775160912
+  },
+  {
     "id": 111106,
     "fecha": "02 de Apr del 2026 a las 03:11 PM",
     "hora_utc": "2026-04-02 19:11",
@@ -86,37 +118,5 @@
     "mensaje": "🚨Por déficit de capacidad de generación se afecta el servicio en los siguientes circuitos:\n*6 y 8 de San José  🚨",
     "timestamp": 1775144969,
     "timestamp_local": 1775144969
-  },
-  {
-    "id": 111091,
-    "fecha": "02 de Apr del 2026 a las 08:17 AM",
-    "hora_utc": "2026-04-02 12:17",
-    "mensaje": "**Nota Informativa: Estado del Sistema Eléctrico Nacional (SEN) – 2 de abril de 2026\n**En el día de ayer se afectó el servicio por déficit de capacidad durante las 24 horas y se ha mantenido la afectación durante la madrugada de hoy. La máxima afectación por déficit de capacidad de generación en el día de ayer fue de 1729 MW a las 20:20 horas.\nLa producción de energía de los 54 nuevos parques solares fotovoltaicos fue de 3613 MWh, con 526 MW como máxima potencia entregada en el horario de la media con esta fuente de generación. \n**Estado actual del SEN\n**La disponibilidad del SEN a las 06:00 horas es de 1375 MW, la demanda 2264 MW, con 927 MW afectados. En el horario de la media se estima una afectación de 1050 MW. \n**Principales incidencias\n**Avería: Unidad 2 de la CTE Felton.\nMantenimiento: Unidades 5 y 6 de la CTE Mariel, Unidades 3 y 6 de la CTE Renté, Unidad 5 de la CTE Nuevitas.\nLimitaciones en la generación térmica: 429 MW fuera de servicio.\n**Pronóstico para el horario pico\n**Para el pico se prevé las entradas de la unidad 6 de la CTE Mariel con 50 MW y de la turbina 5 de Energás Boca de Jaruco con 20 MW. \nCon este pronóstico se prevé para el pico una disponibilidad de 1445 MW con una demanda máxima de 3000 MW, para un déficit de 1555 MW, por lo que de mantenerse las condiciones previstas se pronostica una afectación de 1585 MW en este horario.",
-    "timestamp": 1775132266,
-    "timestamp_local": 1775132266
-  },
-  {
-    "id": 111089,
-    "fecha": "02 de Apr del 2026 a las 08:15 AM",
-    "hora_utc": "2026-04-02 12:15",
-    "mensaje": "🚨Por déficit de capacidad de generación se afecta el servicio en el siguiente circuito:\n*Aguacate 🚨",
-    "timestamp": 1775132142,
-    "timestamp_local": 1775132142
-  },
-  {
-    "id": 111088,
-    "fecha": "02 de Apr del 2026 a las 08:14 AM",
-    "hora_utc": "2026-04-02 12:14",
-    "mensaje": "🚨Por déficit de capacidad de generación se afecta el servicio en los siguientes circuitos:\n*Sopapo 1 y 2  🚨",
-    "timestamp": 1775132052,
-    "timestamp_local": 1775132052
-  },
-  {
-    "id": 111087,
-    "fecha": "02 de Apr del 2026 a las 08:11 AM",
-    "hora_utc": "2026-04-02 12:11",
-    "mensaje": "🚨Por déficit de capacidad de generación se afecta el servicio en los siguientes circuitos:\n*Nueva Paz\n*Los Palos 🚨",
-    "timestamp": 1775131868,
-    "timestamp_local": 1775131868
   }
 ]
