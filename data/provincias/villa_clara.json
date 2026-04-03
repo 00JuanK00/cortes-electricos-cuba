@@ -1,5 +1,29 @@
 [
   {
+    "id": 43582,
+    "fecha": "03 de Apr del 2026 a las 10:53 AM",
+    "hora_utc": "2026-04-03 14:53",
+    "mensaje": "💡Con servicio eléctrico la Línea 1955.",
+    "timestamp": 1775228026,
+    "timestamp_local": 1775228026
+  },
+  {
+    "id": 43581,
+    "fecha": "03 de Apr del 2026 a las 10:51 AM",
+    "hora_utc": "2026-04-03 14:51",
+    "mensaje": "⚠️Afectado el servicio eléctrico en el siguiente circuito:\n👉Cto 168 Condado",
+    "timestamp": 1775227882,
+    "timestamp_local": 1775227882
+  },
+  {
+    "id": 43580,
+    "fecha": "03 de Apr del 2026 a las 10:47 AM",
+    "hora_utc": "2026-04-03 14:47",
+    "mensaje": "⚠️Afectado el servicio eléctrico en los siguientes circuitos:\n🔹Municipio Quemado:\n👉Ctos 164, 52 y 53 Quemado.",
+    "timestamp": 1775227647,
+    "timestamp_local": 1775227647
+  },
+  {
     "id": 43579,
     "fecha": "03 de Apr del 2026 a las 10:23 AM",
     "hora_utc": "2026-04-03 14:23",
@@ -126,21 +150,5 @@
     "mensaje": "🟢Ante cualquier duda con la terminología eléctrica, les volvemos explicar: \n     \n✍️Las averías pueden ser primarias (afecta un volumen grande de población pues son las líneas de distribución a 13.8kV y puede afectar varias manzanas, incluso repartos completos).\n\n✍️Secundarias (afecta a todos los clientes que se alimenten del mismo transformador, puede afectar una o varias cuadras). \n\n✍️De servicio (afectan 1 solo cliente o instalación generalmente producto a daños en la acometida, metro contador, etc.).",
     "timestamp": 1775210742,
     "timestamp_local": 1775210742
-  },
-  {
-    "id": 43562,
-    "fecha": "03 de Apr del 2026 a las 04:52 AM",
-    "hora_utc": "2026-04-03 08:52",
-    "mensaje": "✅Actualización del servicio eléctrico en la provincia.\n👉De los circuitos apagables que presenta la provincia, se mantienen afectados 137 circuitos.\n👉En el momento de hacer esta nota la provincia tiene 89  MW de afectación por déficit de capacidad de generación, demanda máxima posible a apagar en estos momentos.\n👉Cuenta con 53 afectaciones por averías secundarias y de servicio.",
-    "timestamp": 1775206361,
-    "timestamp_local": 1775206361
-  },
-  {
-    "id": 43560,
-    "fecha": "03 de Apr del 2026 a las 02:16 AM",
-    "hora_utc": "2026-04-03 06:16",
-    "mensaje": "✅Actualización del servicio eléctrico en la provincia.\n👉De los circuitos apagables que presenta la provincia, se mantienen afectados 137 circuitos.\n👉En el momento de hacer esta nota la provincia tiene 93  MW de afectación por déficit de capacidad de generación, demanda máxima posible a apagar en estos momentos.\n👉Cuenta con 53 afectaciones por averías secundarias y de servicio.",
-    "timestamp": 1775196971,
-    "timestamp_local": 1775196971
   }
 ]
