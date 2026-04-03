@@ -1,5 +1,29 @@
 [
   {
+    "id": 111162,
+    "fecha": "03 de Apr del 2026 a las 01:04 PM",
+    "hora_utc": "2026-04-03 17:04",
+    "mensaje": "🚨Por déficit de capacidad de generación se afecta el servicio en los siguientes circuitos:\n*Sopapo 1 y 2🚨",
+    "timestamp": 1775235885,
+    "timestamp_local": 1775235885
+  },
+  {
+    "id": 111160,
+    "fecha": "03 de Apr del 2026 a las 12:29 PM",
+    "hora_utc": "2026-04-03 16:29",
+    "mensaje": "🔷 Restablecido el servicio en el circuito 2440 por manipulación 🔷",
+    "timestamp": 1775233796,
+    "timestamp_local": 1775233796
+  },
+  {
+    "id": 111159,
+    "fecha": "03 de Apr del 2026 a las 12:25 PM",
+    "hora_utc": "2026-04-03 16:25",
+    "mensaje": "🔷Con servicio el circuito 3590 que se encontraba afectado por manipulación🔷",
+    "timestamp": 1775233551,
+    "timestamp_local": 1775233551
+  },
+  {
     "id": 111158,
     "fecha": "03 de Apr del 2026 a las 12:02 PM",
     "hora_utc": "2026-04-03 16:02",
@@ -86,21 +110,5 @@
     "mensaje": "🚨Por déficit de capacidad de generación se afecta el servicio en el siguiente circuito:\n*3655 🚨",
     "timestamp": 1775207083,
     "timestamp_local": 1775207083
-  },
-  {
-    "id": 111140,
-    "fecha": "03 de Apr del 2026 a las 12:12 AM",
-    "hora_utc": "2026-04-03 04:12",
-    "mensaje": "🚨Por déficit de capacidad de generación se afecta el servicio en los siguientes circuitos:\n*2420\n*2440🚨",
-    "timestamp": 1775189534,
-    "timestamp_local": 1775189534
-  },
-  {
-    "id": 111139,
-    "fecha": "02 de Apr del 2026 a las 11:24 PM",
-    "hora_utc": "2026-04-03 03:24",
-    "mensaje": "🚨Por déficit de capacidad de generación se afecta el servicio en el siguiente circuito:\n*Güines 1 🚨",
-    "timestamp": 1775186654,
-    "timestamp_local": 1775186654
   }
 ]
