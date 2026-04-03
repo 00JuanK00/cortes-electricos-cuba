@@ -1,5 +1,29 @@
 [
   {
+    "id": 43573,
+    "fecha": "03 de Apr del 2026 a las 08:00 AM",
+    "hora_utc": "2026-04-03 12:00",
+    "mensaje": "⚠️Afectado el servicio eléctrico en los siguientes circuitos:\n🔹Municipio Santa Clara:\n👉Ctos 26 y 141 (Manuelita)\n👉Cto 191 (Quemado de Hilario)",
+    "timestamp": 1775217619,
+    "timestamp_local": 1775217619
+  },
+  {
+    "id": 43572,
+    "fecha": "03 de Apr del 2026 a las 07:59 AM",
+    "hora_utc": "2026-04-03 11:59",
+    "mensaje": "⚠️Afectado el servicio eléctrico en los siguientes circuitos:\n🔹Municipio Sagua\n👉Ctos 43, 51 Sagua\n👉Cto 44 Isabela",
+    "timestamp": 1775217548,
+    "timestamp_local": 1775217548
+  },
+  {
+    "id": 43571,
+    "fecha": "03 de Apr del 2026 a las 07:30 AM",
+    "hora_utc": "2026-04-03 11:30",
+    "mensaje": "🚨Nota informativa🚨\n\n📅Situación del SEN para el 3 de abril de 2026.\n\n👉En el día de ayer se afectó el servicio por déficit de capacidad durante las 24 horas y se ha mantenido la afectación durante la madrugada de hoy. La máxima afectación por déficit de capacidad de generación en el día de ayer fue de 1609 MW a las 19:10 horas.\n\n☀️La producción de energía de los 54 nuevos parques solares fotovoltaicos fue de 3303 MWh, con 563 MW como máxima potencia entregada en el horario de la media con esta fuente de generación.  \n\n👉La disponibilidad del SEN a las 06:00 horas es de 1335 MW, la demanda 2345 MW, con 1004 MW afectados. En el horario de la media se estima una afectación de 1050 MW.  \n\n🛠️Se encuentra en avería la unidad 2 de la CTE Felton. Se encuentran en mantenimiento las unidades 5 y 6 de la CTE Mariel, la unidad 5 de la CTE Nuevitas y las unidades 3 y 6 de la CTE Renté.\n\n👉Las limitaciones en la generación térmica son de 429 MW.\n\n👉Para el pico se prevé las entradas de la unidad 6 de la CTE Mariel con 80 MW y de la turbina 5 de Energás Boca de Jaruco con 30 MW. \n\n📈Con este pronóstico se prevé para el pico una disponibilidad de 1445 MW con una demanda máxima de 3000 MW, para un déficit de 1555 MW, por lo que de mantenerse las condiciones previstas se pronostica una afectación de 1585 MW en este horario.\n\nUNE-MINEM---07:00 horas.",
+    "timestamp": 1775215811,
+    "timestamp_local": 1775215811
+  },
+  {
     "id": 43570,
     "fecha": "03 de Apr del 2026 a las 07:20 AM",
     "hora_utc": "2026-04-03 11:20",
@@ -126,21 +150,5 @@
     "mensaje": "🇨🇺 Actualización del Sistema Electroenergético Nacional a las 19:00 del 2 de abril de 2026.\n\nIncidencias:\n18:52 Sincronizó la Unidad 6 de la CTE Máximo Gómez.\n\n#UnidosXCuba #NotaInformativa #UniónEléctrica #SEN",
     "timestamp": 1775180748,
     "timestamp_local": 1775180748
-  },
-  {
-    "id": 43552,
-    "fecha": "02 de Apr del 2026 a las 08:53 PM",
-    "hora_utc": "2026-04-03 00:53",
-    "mensaje": "💡Con servicio eléctrico los siguientes circuitos.\n🔹Municipio Placetas:\n👉Cto 192 Benito Juárez\n👉Cto 102 Peroti",
-    "timestamp": 1775177585,
-    "timestamp_local": 1775177585
-  },
-  {
-    "id": 43550,
-    "fecha": "02 de Apr del 2026 a las 08:10 PM",
-    "hora_utc": "2026-04-03 00:10",
-    "mensaje": "✅Actualización del servicio eléctrico en la provincia.\n👉De los circuitos apagables que presenta la provincia, se mantienen afectados 136 circuitos.\n👉En el momento de hacer esta nota la provincia tiene 147  MW de afectación por déficit de capacidad de generación, demanda máxima posible a apagar en estos momentos.\n👉Cuenta con 69 afectaciones por averías secundarias y de servicio.",
-    "timestamp": 1775175014,
-    "timestamp_local": 1775175014
   }
 ]
