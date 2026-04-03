@@ -1,5 +1,69 @@
 [
   {
+    "id": 43602,
+    "fecha": "03 de Apr del 2026 a las 05:00 PM",
+    "hora_utc": "2026-04-03 21:00",
+    "mensaje": "⚠️Afectado el servicio eléctrico en el siguiente circuito:\n👉Cto 162 SC Industrial.",
+    "timestamp": 1775250055,
+    "timestamp_local": 1775250055
+  },
+  {
+    "id": 43601,
+    "fecha": "03 de Apr del 2026 a las 04:58 PM",
+    "hora_utc": "2026-04-03 20:58",
+    "mensaje": "⚡En avería el circuito 44 Isabela, del municipio Sagua por presentar cables primarios partidos.",
+    "timestamp": 1775249937,
+    "timestamp_local": 1775249937
+  },
+  {
+    "id": 43600,
+    "fecha": "03 de Apr del 2026 a las 04:57 PM",
+    "hora_utc": "2026-04-03 20:57",
+    "mensaje": "🛠️Afectada por manipulación la Línea 1205.\n➡️Línea 1205\n🔹Municipio Sagua\n👉Ctos 43, 51 Sagua\n👉Cto 44 Isabela\n👉Ctos 50 y 147 Villa Alegre",
+    "timestamp": 1775249849,
+    "timestamp_local": 1775249849
+  },
+  {
+    "id": 43599,
+    "fecha": "03 de Apr del 2026 a las 04:54 PM",
+    "hora_utc": "2026-04-03 20:54",
+    "mensaje": "⚠️Afectado el servicio eléctrico en los siguientes circuitos:\n👉Cto 31 SC Industrial\n👉Cto 132 SC Industrial",
+    "timestamp": 1775249650,
+    "timestamp_local": 1775249650
+  },
+  {
+    "id": 43598,
+    "fecha": "03 de Apr del 2026 a las 04:25 PM",
+    "hora_utc": "2026-04-03 20:25",
+    "mensaje": "⚡Afectado por avería el circuito 108 La Piedra, del municipio Manicaragua, se estudian las causas.",
+    "timestamp": 1775247957,
+    "timestamp_local": 1775247957
+  },
+  {
+    "id": 43597,
+    "fecha": "03 de Apr del 2026 a las 04:16 PM",
+    "hora_utc": "2026-04-03 20:16",
+    "mensaje": "⚠️Afectado el servicio eléctrico en los siguientes circuitos:\n🔹Municipio Remedios:\n👉Ctos 68 y 118 \n👉Ctos 69 y 70 Zuluetas\n👉Cto 143 Batey Heriberto Duquezne \n👉Cto 71 Buena Vista",
+    "timestamp": 1775247383,
+    "timestamp_local": 1775247383
+  },
+  {
+    "id": 43596,
+    "fecha": "03 de Apr del 2026 a las 04:15 PM",
+    "hora_utc": "2026-04-03 20:15",
+    "mensaje": "⚠️Afectado el servicio eléctrico en los siguientes circuitos:\n🔹Municipio Encrucijada:\n👉Cto 122 Encrucijada  \n👉Cto 123 Vizcaya \n👉Cto 142 Comunidad La Sierra \n👉Cto 126 Batey Emilio Córdova\n👉Cto 125 Cavarrocas\n👉Cto 124 El Santo\n🔹Municipio Camajuaní:                                                              \n👉Cto 78 Jutiero\n👉Cto 75 La Quinta\n👉Cto 157 Luis Arcos Bergnes\n👉Ctos 76 y 90 Vega Alta",
+    "timestamp": 1775247330,
+    "timestamp_local": 1775247330
+  },
+  {
+    "id": 43595,
+    "fecha": "03 de Apr del 2026 a las 04:11 PM",
+    "hora_utc": "2026-04-03 20:11",
+    "mensaje": "✅Actualización del servicio eléctrico en la provincia.\n👉De los circuitos apagables que presenta la provincia, se mantienen afectados 103 circuitos.\n👉En el momento de hacer esta nota la provincia tiene 79 MW de afectación por déficit de capacidad de generación, demanda máxima posible a apagar en estos momentos.\n👉Cuenta con 102 afectaciones por averías secundarias y de servicio.",
+    "timestamp": 1775247100,
+    "timestamp_local": 1775247100
+  },
+  {
     "id": 43594,
     "fecha": "03 de Apr del 2026 a las 03:57 PM",
     "hora_utc": "2026-04-03 19:57",
@@ -94,61 +158,5 @@
     "mensaje": "🕛Actualización del servicio eléctrico en las últimas 6 horas.\n✍️El déficit de capacidad de generación en estos momentos es de 121 MW\n✍️En el momento de esta nota, se mantienen afectados 141 circuitos.\n✍️ Cuenta con 96 afectaciones por averías secundarias y de servicio:\n🔸 Caibarién (4)\n🔸Camajuaní (6)\n🔸 Cifuentes (1)\n🔸 Corralillo (3)\n🔸 Encrucijada (4)\n🔸 Manicaragua (8)\n🔸 Placetas (9)\n🔸 Ranchuelo (1)\n🔸 Remedios (3) \n🔸 Sagua (12) \n🔸 Santa Clara (31)\n🔸 Santo Domingo (1)\n🛠️Se encuentran 7 averías en vías de solución.\n🛠️Pendientes a solucionar por el área técnica 5.\n\n⚡Averías⚡\n👉Cto 141 en avería por presentar cable primario partido en el suelo.",
     "timestamp": 1775232607,
     "timestamp_local": 1775232607
-  },
-  {
-    "id": 43582,
-    "fecha": "03 de Apr del 2026 a las 10:53 AM",
-    "hora_utc": "2026-04-03 14:53",
-    "mensaje": "💡Con servicio eléctrico la Línea 1955.",
-    "timestamp": 1775228026,
-    "timestamp_local": 1775228026
-  },
-  {
-    "id": 43581,
-    "fecha": "03 de Apr del 2026 a las 10:51 AM",
-    "hora_utc": "2026-04-03 14:51",
-    "mensaje": "⚠️Afectado el servicio eléctrico en el siguiente circuito:\n👉Cto 168 Condado",
-    "timestamp": 1775227882,
-    "timestamp_local": 1775227882
-  },
-  {
-    "id": 43580,
-    "fecha": "03 de Apr del 2026 a las 10:47 AM",
-    "hora_utc": "2026-04-03 14:47",
-    "mensaje": "⚠️Afectado el servicio eléctrico en los siguientes circuitos:\n🔹Municipio Quemado:\n👉Ctos 164, 52 y 53 Quemado.",
-    "timestamp": 1775227647,
-    "timestamp_local": 1775227647
-  },
-  {
-    "id": 43579,
-    "fecha": "03 de Apr del 2026 a las 10:23 AM",
-    "hora_utc": "2026-04-03 14:23",
-    "mensaje": "⚡Afectada por avería la Línea 1955, se estudian las causas.\n➡️Línea 1955  \n🔹Municipio Encrucijada:\n👉Cto 122 Encrucijada  \n👉Cto 123 Vizcaya \n👉Cto 142 Comunidad La Sierra \n👉Cto 126 Batey Emilio Córdova\n👉Cto 125 Cavarrocas\n👉Cto 124 El Santo\n🔹Municipio Camajuaní:                                                              \n👉Cto 78 Jutiero\n👉Cto 75 La Quinta\n👉Cto 157 Luis Arcos Bergnes\n👉Ctos 76 y 90 Vega Alta",
-    "timestamp": 1775226217,
-    "timestamp_local": 1775226217
-  },
-  {
-    "id": 43578,
-    "fecha": "03 de Apr del 2026 a las 10:15 AM",
-    "hora_utc": "2026-04-03 14:15",
-    "mensaje": "➡️ La Provincia presenta 3 afectaciones de servicio eléctrico por transformador dañado:  \n👉Municipio Camajuani: Carretera a La Quinta , después de la loma a la derecha.\n👉Municipio Quemado: Callejón de Rodrigo,  al lado de la escuela Primaria.\n👉Municipio Santa Clara: Carretera de Maleza km 6 , frente a la granja de la pollera.",
-    "timestamp": 1775225731,
-    "timestamp_local": 1775225731
-  },
-  {
-    "id": 43577,
-    "fecha": "03 de Apr del 2026 a las 10:03 AM",
-    "hora_utc": "2026-04-03 14:03",
-    "mensaje": "✅Actualización del servicio eléctrico en la provincia.\n👉De los circuitos apagables que presenta la provincia, se mantienen afectados 141 circuitos.\n👉En el momento de hacer esta nota la provincia tiene 109  MW de afectación por déficit de capacidad de generación, demanda máxima posible a apagar en estos momentos.\n👉Cuenta con 67 afectaciones por averías secundarias y de servicio.",
-    "timestamp": 1775225016,
-    "timestamp_local": 1775225016
-  },
-  {
-    "id": 43575,
-    "fecha": "03 de Apr del 2026 a las 08:07 AM",
-    "hora_utc": "2026-04-03 12:07",
-    "mensaje": "⚡ Actualización del Sistema Electroenergético Nacional para el 3 de abril de 2026.\n\nLeer más: https://www.unionelectrica.cu/nota-informativa/\n\n#UnidosXCuba #UniónEléctrica #UNE #NotaInformativa",
-    "timestamp": 1775218021,
-    "timestamp_local": 1775218021
   }
 ]

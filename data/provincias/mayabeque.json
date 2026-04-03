@@ -1,5 +1,37 @@
 [
   {
+    "id": 111173,
+    "fecha": "03 de Apr del 2026 a las 04:43 PM",
+    "hora_utc": "2026-04-03 20:43",
+    "mensaje": "🚨Por déficit de capacidad de generación se afecta el servicio en el siguiente circuito:\n*UNAH 🚨",
+    "timestamp": 1775249000,
+    "timestamp_local": 1775249000
+  },
+  {
+    "id": 111172,
+    "fecha": "03 de Apr del 2026 a las 04:42 PM",
+    "hora_utc": "2026-04-03 20:42",
+    "mensaje": "🚨Por déficit de capacidad de generación se afecta el servicio en el siguiente circuito:\n*5 de San José 🚨",
+    "timestamp": 1775248935,
+    "timestamp_local": 1775248935
+  },
+  {
+    "id": 111171,
+    "fecha": "03 de Apr del 2026 a las 04:16 PM",
+    "hora_utc": "2026-04-03 20:16",
+    "mensaje": "🚨Por déficit de capacidad de generación se afecta el servicio en el siguiente circuito:\n*Jamaica🚨",
+    "timestamp": 1775247390,
+    "timestamp_local": 1775247390
+  },
+  {
+    "id": 111170,
+    "fecha": "03 de Apr del 2026 a las 04:13 PM",
+    "hora_utc": "2026-04-03 20:13",
+    "mensaje": "🚨Por déficit de capacidad de generación se afecta el servicio en el siguiente circuito:\n*Somorrostro 🚨",
+    "timestamp": 1775247203,
+    "timestamp_local": 1775247203
+  },
+  {
     "id": 111169,
     "fecha": "03 de Apr del 2026 a las 03:58 PM",
     "hora_utc": "2026-04-03 19:58",
@@ -118,29 +150,5 @@
     "mensaje": "Nota Informativa: Estado del Sistema Eléctrico Nacional (SEN) – 3 de abril de 2026\n\nEn el día de ayer se afectó el servicio por déficit de capacidad durante las 24 horas y se ha mantenido la afectación durante la madrugada de hoy. La máxima afectación por déficit de capacidad de generación en el día de ayer fue de 1609 MW a las 19:10 horas.\nLa producción de energía de los 54 nuevos parques solares fotovoltaicos fue de 3303 MWh, con 563 MW como máxima potencia entregada en el horario de la media con esta fuente de generación.\n\nEstado actual del SEN\n\nLa disponibilidad del SEN a las 06:00 horas es de 1335 MW, la demanda 2345 MW, con 1004 MW afectados. En el horario de la media se estima una afectación de 1050 MW.\n\nPrincipales incidencias\n\nAvería: Unidad 2 de la CTE Felton.\n\nMantenimiento: Unidades 5 y 6 de la CTE Mariel, Unidades 3 y 6 de la CTE Renté, Unidad 5 de la CTE Nuevitas.\n\nLimitaciones en la generación térmica: 429 MW fuera de servicio.\n\nPronóstico para el horario pico\n\nPara el pico se prevé las entradas de la unidad 6 de la CTE Mariel con 80 MW y de la turbina 5 de Energás Boca de Jaruco con 30 MW.\nCon este pronóstico se prevé para el pico una disponibilidad de 1445 MW con una demanda máxima de 3000 MW, para un déficit de 1555 MW, por lo que de mantenerse las condiciones previstas se pronostica una afectación de 1585 MW en este horario.",
     "timestamp": 1775218593,
     "timestamp_local": 1775218593
-  },
-  {
-    "id": 111153,
-    "fecha": "03 de Apr del 2026 a las 08:15 AM",
-    "hora_utc": "2026-04-03 12:15",
-    "mensaje": "🚨Por déficit de capacidad de generación se afecta el servicio en los siguientes circuitos:\n*Batabano\n*Surgidero\n*Camacho🚨",
-    "timestamp": 1775218543,
-    "timestamp_local": 1775218543
-  },
-  {
-    "id": 111152,
-    "fecha": "03 de Apr del 2026 a las 07:59 AM",
-    "hora_utc": "2026-04-03 11:59",
-    "mensaje": "🚨Por déficit de capacidad de generación se afecta el servicio en los siguientes circuitos:\n*Santa Cruz\n*Bío 2🚨",
-    "timestamp": 1775217555,
-    "timestamp_local": 1775217555
-  },
-  {
-    "id": 111151,
-    "fecha": "03 de Apr del 2026 a las 06:22 AM",
-    "hora_utc": "2026-04-03 10:22",
-    "mensaje": "🚨Por déficit de capacidad de generación se afecta el servicio en los siguientes circuitos:\n*6 y 8 de San José\n*2 de San José 🚨",
-    "timestamp": 1775211745,
-    "timestamp_local": 1775211745
   }
 ]
