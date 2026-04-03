@@ -1,5 +1,21 @@
 [
   {
+    "id": 37186,
+    "fecha": "03 de Apr del 2026 a las 01:48 PM",
+    "hora_utc": "2026-04-03 17:48",
+    "mensaje": "✅ Información.\n👉 Se encuentra disparado por sobrecarga el circuito 5, se trabaja para restablecer el servicio en el menor tiempo posible.",
+    "timestamp": 1775238480,
+    "timestamp_local": 1775238480
+  },
+  {
+    "id": 37185,
+    "fecha": "03 de Apr del 2026 a las 01:17 PM",
+    "hora_utc": "2026-04-03 17:17",
+    "mensaje": "✅ Información.\n👉 Se restablece el servicio en el circuito de Bolivia.",
+    "timestamp": 1775236648,
+    "timestamp_local": 1775236648
+  },
+  {
     "id": 37184,
     "fecha": "03 de Apr del 2026 a las 12:44 PM",
     "hora_utc": "2026-04-03 16:44",
@@ -126,21 +142,5 @@
     "mensaje": "‼️ Información del déficit de generación ‼️   \n👉Subimos a 81 MW en la provincia afectados por déficit de generación.\n⏰ Con este déficit, la carga a apagar en la provincia no nos permite realizar una rotación estable de los circuitos, por lo que se afectarán o se restablecerán en dependencia del déficit que haya en cada momento de la jornada, que es muy variable.",
     "timestamp": 1775167697,
     "timestamp_local": 1775167697
-  },
-  {
-    "id": 37165,
-    "fecha": "02 de Apr del 2026 a las 05:25 PM",
-    "hora_utc": "2026-04-02 21:25",
-    "mensaje": "👉Restablecido el servicio eléctrico del circuito A208 en Reparto Ortiz.",
-    "timestamp": 1775165141,
-    "timestamp_local": 1775165141
-  },
-  {
-    "id": 37163,
-    "fecha": "02 de Apr del 2026 a las 04:09 PM",
-    "hora_utc": "2026-04-02 20:09",
-    "mensaje": "👉Restablecido el servicio eléctrico en el circuito A208, continúa en fallo Reparto Ortiz, se recorren las líneas para encontrar la avería. Se trabaja para restablecer lo antes  servicio.",
-    "timestamp": 1775160559,
-    "timestamp_local": 1775160559
   }
 ]
