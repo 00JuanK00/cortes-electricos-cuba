@@ -1,5 +1,29 @@
 [
   {
+    "id": 111151,
+    "fecha": "03 de Apr del 2026 a las 06:22 AM",
+    "hora_utc": "2026-04-03 10:22",
+    "mensaje": "🚨Por déficit de capacidad de generación se afecta el servicio en los siguientes circuitos:\n*6 y 8 de San José\n*2 de San José 🚨",
+    "timestamp": 1775211745,
+    "timestamp_local": 1775211745
+  },
+  {
+    "id": 111149,
+    "fecha": "03 de Apr del 2026 a las 05:58 AM",
+    "hora_utc": "2026-04-03 09:58",
+    "mensaje": "🚨Por déficit de capacidad de generación se afecta el servicio en el siguiente circuito:\n*Güines 3 🚨",
+    "timestamp": 1775210331,
+    "timestamp_local": 1775210331
+  },
+  {
+    "id": 111148,
+    "fecha": "03 de Apr del 2026 a las 05:52 AM",
+    "hora_utc": "2026-04-03 09:52",
+    "mensaje": "🚨Por déficit de capacidad de generación se afecta el servicio en los siguientes circuitos:\n*Catalina 1 y 2🚨",
+    "timestamp": 1775209948,
+    "timestamp_local": 1775209948
+  },
+  {
     "id": 111146,
     "fecha": "03 de Apr del 2026 a las 05:04 AM",
     "hora_utc": "2026-04-03 09:04",
@@ -62,29 +86,5 @@
     "mensaje": "🚨Por déficit de capacidad de generación se afecta el servicio en los siguientes circuitos:\n*Nueva Paz\n*Los Palos  🚨",
     "timestamp": 1775175007,
     "timestamp_local": 1775175007
-  },
-  {
-    "id": 111131,
-    "fecha": "02 de Apr del 2026 a las 07:15 PM",
-    "hora_utc": "2026-04-02 23:15",
-    "mensaje": "🚨Por déficit de capacidad de generación se afecta el servicio en los siguientes circuitos:\n*Aguacate\n*Camilo 🚨",
-    "timestamp": 1775171748,
-    "timestamp_local": 1775171748
-  },
-  {
-    "id": 111130,
-    "fecha": "02 de Apr del 2026 a las 07:10 PM",
-    "hora_utc": "2026-04-02 23:10",
-    "mensaje": "🚨Por déficit de capacidad de generación se afecta el servicio en el siguiente circuito:\n*Magela 🚨",
-    "timestamp": 1775171439,
-    "timestamp_local": 1775171439
-  },
-  {
-    "id": 111129,
-    "fecha": "02 de Apr del 2026 a las 07:01 PM",
-    "hora_utc": "2026-04-02 23:01",
-    "mensaje": "INFORMACIÓN EN DESARROLLO... Mariel 6 en proceso de arranque. La unidad térmica, tras concluir mantenimiento planificado, generará al país entre 90 y 100 MW, con crudo ciento por ciento nacional.",
-    "timestamp": 1775170893,
-    "timestamp_local": 1775170893
   }
 ]
