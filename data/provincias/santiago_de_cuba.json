@@ -1,5 +1,37 @@
 [
   {
+    "id": 51861,
+    "fecha": "04 de Apr del 2026 a las 12:45 PM",
+    "hora_utc": "2026-04-04 16:45",
+    "mensaje": "🔴  Se les informa a nuestros clientes que el circuito 26 queda afectado por Déficit de Generación...",
+    "timestamp": 1775321145,
+    "timestamp_local": 1775321145
+  },
+  {
+    "id": 51860,
+    "fecha": "04 de Apr del 2026 a las 12:43 PM",
+    "hora_utc": "2026-04-04 16:43",
+    "mensaje": "‼️Déficit de Capacidad de Generación:‼️\n👉  Se produce cuando la demanda del Sistema Eléctrico Nacional, en determinado horario del día, supera la generación disponible del país, provocando la desconexión de los circuitos o líneas que permitan garantizar la frecuencia del SEN.",
+    "timestamp": 1775321037,
+    "timestamp_local": 1775321037
+  },
+  {
+    "id": 51859,
+    "fecha": "04 de Apr del 2026 a las 12:36 PM",
+    "hora_utc": "2026-04-04 16:36",
+    "mensaje": "🔴 Estimados clientes , se incorpora a la afectación el circuito 25 , 23 , 26 y El Cristo...",
+    "timestamp": 1775320599,
+    "timestamp_local": 1775320599
+  },
+  {
+    "id": 51858,
+    "fecha": "04 de Apr del 2026 a las 12:33 PM",
+    "hora_utc": "2026-04-04 16:33",
+    "mensaje": "🔴 Estimados clientes , se encuentran afectados por Déficit de Generación los circuitos 20 , 14 Secc ,19 , 21 y 4 de Palma ...",
+    "timestamp": 1775320437,
+    "timestamp_local": 1775320437
+  },
+  {
     "id": 51856,
     "fecha": "04 de Apr del 2026 a las 11:36 AM",
     "hora_utc": "2026-04-04 15:36",
@@ -118,37 +150,5 @@
     "mensaje": "🚨Disparo\nApertura no voluntaria de un interruptor como vía de protección para desconectar uno o varios elementos del circuito, subestación o sistema, restableciéndose el servicio rápidamente en dependencia de la causa.",
     "timestamp": 1775269518,
     "timestamp_local": 1775269518
-  },
-  {
-    "id": 51841,
-    "fecha": "03 de Apr del 2026 a las 10:25 PM",
-    "hora_utc": "2026-04-04 02:25",
-    "mensaje": "🔊Estimados clientes en estos momentos se encuentra Disparada La Línea 4385 Contramaestre",
-    "timestamp": 1775269504,
-    "timestamp_local": 1775269504
-  },
-  {
-    "id": 51840,
-    "fecha": "03 de Apr del 2026 a las 10:06 PM",
-    "hora_utc": "2026-04-04 02:06",
-    "mensaje": "🔊Estimados clientes en estos momentos se encuentra afectados por Déficit de Capacidad de Generación  el circuito 9 Seccionalizado y la Línea 5385 San Luis",
-    "timestamp": 1775268419,
-    "timestamp_local": 1775268419
-  },
-  {
-    "id": 51839,
-    "fecha": "03 de Apr del 2026 a las 08:46 PM",
-    "hora_utc": "2026-04-04 00:46",
-    "mensaje": "🔊Estimados clientes en estos momentos se encuentra afectados por Déficit de Capacidad de Generación el circuito 10",
-    "timestamp": 1775263601,
-    "timestamp_local": 1775263601
-  },
-  {
-    "id": 51838,
-    "fecha": "03 de Apr del 2026 a las 08:05 PM",
-    "hora_utc": "2026-04-04 00:05",
-    "mensaje": "🔊Estimados clientes en estos momentos se encuentra afectados por Déficit de Capacidad de Generación el circuito San Juan",
-    "timestamp": 1775261114,
-    "timestamp_local": 1775261114
   }
 ]
