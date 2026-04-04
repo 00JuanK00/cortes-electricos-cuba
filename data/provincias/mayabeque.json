@@ -1,5 +1,21 @@
 [
   {
+    "id": 111200,
+    "fecha": "04 de Apr del 2026 a las 08:17 AM",
+    "hora_utc": "2026-04-04 12:17",
+    "mensaje": "🚨Por déficit de capacidad de generación se afecta el servicio en el siguiente circuito:\n*Jaruco🚨",
+    "timestamp": 1775305054,
+    "timestamp_local": 1775305054
+  },
+  {
+    "id": 111199,
+    "fecha": "04 de Apr del 2026 a las 08:15 AM",
+    "hora_utc": "2026-04-04 12:15",
+    "mensaje": "🚨Por déficit de capacidad de generación se afecta el servicio en el siguiente circuito:\n*1790🚨",
+    "timestamp": 1775304942,
+    "timestamp_local": 1775304942
+  },
+  {
     "id": 111198,
     "fecha": "04 de Apr del 2026 a las 07:14 AM",
     "hora_utc": "2026-04-04 11:14",
@@ -102,21 +118,5 @@
     "mensaje": "🔷Restablecido el servicio en el siguiente circuito que se encontraba afectado por disparo en las líneas:\n*Güines 3🔷",
     "timestamp": 1775264560,
     "timestamp_local": 1775264560
-  },
-  {
-    "id": 111180,
-    "fecha": "03 de Apr del 2026 a las 08:59 PM",
-    "hora_utc": "2026-04-04 00:59",
-    "mensaje": "🚨Por déficit de capacidad de generación se afecta el servicio en los siguientes circuitos:\n*Ganuza\n*2420\n*2440\n*Santa Cruz🚨",
-    "timestamp": 1775264341,
-    "timestamp_local": 1775264341
-  },
-  {
-    "id": 111179,
-    "fecha": "03 de Apr del 2026 a las 08:56 PM",
-    "hora_utc": "2026-04-04 00:56",
-    "mensaje": "♦️ Afectado el servicio en el siguiente circuito por disparo en las líneas:\n*Güines 3♦️",
-    "timestamp": 1775264163,
-    "timestamp_local": 1775264163
   }
 ]
