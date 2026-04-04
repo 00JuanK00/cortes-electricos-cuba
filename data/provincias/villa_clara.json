@@ -1,5 +1,21 @@
 [
   {
+    "id": 43633,
+    "fecha": "04 de Apr del 2026 a las 06:59 AM",
+    "hora_utc": "2026-04-04 10:59",
+    "mensaje": "➡️Ante cualquier duda con la terminología eléctrica, les volvemos explicar: \n     \n1️⃣Las averías pueden ser primarias (afecta un volumen grande de población pues son las líneas de distribución a 13.8kV y puede afectar varias manzanas, incluso repartos completos).\n\n2️⃣Secundarias (afecta a todos los clientes que se alimenten del mismo transformador, puede afectar una o varias cuadras). \n\n3️⃣De servicio (afectan 1 solo cliente o instalación generalmente producto a daños en la acometida, metro contador, etc.).",
+    "timestamp": 1775300345,
+    "timestamp_local": 1775300345
+  },
+  {
+    "id": 43631,
+    "fecha": "04 de Apr del 2026 a las 06:11 AM",
+    "hora_utc": "2026-04-04 10:11",
+    "mensaje": "🕕Actualización del servicio eléctrico en las últimas 6 horas.\n✍️El déficit de capacidad de generación en estos momentos es de 76 MW\n✍️En el momento de esta nota, se mantienen afectados 117 circuitos.\n✍️ Cuenta con 90 afectaciones por averías secundarias y de servicio:\n🔸 Caibarién (3)\n🔸 Encrucijada (3)\n🔸 Manicaragua (8)\n🔸 Placetas (13)\n🔸 Ranchuelo (2)\n🔸 Remedios (4) \n🔸 Sagua (12) \n🔸 Santa Clara (31)\n🔸 Santo Domingo (4)\n🛠️Se encuentran 1 averías en vías de solución.\n🛠️Pendientes a solucionar por el área técnica 9.\n\n⚡Averías⚡\n👉Cto 108 Manicaragua, poblado La Piedra, se estudian las causas.\n👉Cto 78 Jutiero, municipio Camajuani, poste dañado por rayo.",
+    "timestamp": 1775297484,
+    "timestamp_local": 1775297484
+  },
+  {
     "id": 43630,
     "fecha": "04 de Apr del 2026 a las 04:04 AM",
     "hora_utc": "2026-04-04 08:04",
@@ -110,29 +126,5 @@
     "mensaje": "🔴 17:28 || Fuera de línea la Unidad 6 de Energás Boca de Jaruco por sargazo, actuando una DAF de 25 MW que se están restableciendo.",
     "timestamp": 1775256009,
     "timestamp_local": 1775256009
-  },
-  {
-    "id": 43613,
-    "fecha": "03 de Apr del 2026 a las 06:38 PM",
-    "hora_utc": "2026-04-03 22:38",
-    "mensaje": "💡Con servicio eléctrico el circuito 141 Manuelita.",
-    "timestamp": 1775255910,
-    "timestamp_local": 1775255910
-  },
-  {
-    "id": 43612,
-    "fecha": "03 de Apr del 2026 a las 06:20 PM",
-    "hora_utc": "2026-04-03 22:20",
-    "mensaje": "⚠️Afectado el servicio eléctrico en los siguientes circuitos:\n🔹Municipio Sagua \n👉Cto 48 Finalet\n👉Ctos 46 y 128 Sitiecito",
-    "timestamp": 1775254844,
-    "timestamp_local": 1775254844
-  },
-  {
-    "id": 43611,
-    "fecha": "03 de Apr del 2026 a las 06:19 PM",
-    "hora_utc": "2026-04-03 22:19",
-    "mensaje": "⚠️Afectado el servicio eléctrico en los siguientes circuitos:\n🔹Municipio Santa Clara: \n👉Cto 166 (Condado)\n👉Cto 171 (Los Caneyes)",
-    "timestamp": 1775254788,
-    "timestamp_local": 1775254788
   }
 ]
