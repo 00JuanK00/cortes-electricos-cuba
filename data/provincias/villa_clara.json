@@ -1,5 +1,45 @@
 [
   {
+    "id": 43655,
+    "fecha": "04 de Apr del 2026 a las 11:53 AM",
+    "hora_utc": "2026-04-04 15:53",
+    "mensaje": "🛠️Afectado parcialmente el circuito 47 (Caguagua), del municipio Sagua, por trabajo de vía libre para reparar puentes abiertos.",
+    "timestamp": 1775318003,
+    "timestamp_local": 1775318003
+  },
+  {
+    "id": 43654,
+    "fecha": "04 de Apr del 2026 a las 11:46 AM",
+    "hora_utc": "2026-04-04 15:46",
+    "mensaje": "⚠️Afectado el servicio eléctrico en los siguientes circuitos:\n🔹Municipio Camajuaní:\n👉Ctos 77, 59 y 185 Vueltas",
+    "timestamp": 1775317586,
+    "timestamp_local": 1775317586
+  },
+  {
+    "id": 43653,
+    "fecha": "04 de Apr del 2026 a las 11:15 AM",
+    "hora_utc": "2026-04-04 15:15",
+    "mensaje": "Afectados 75 MW en la provincia, demanda máxima a apagar en estos momentos.",
+    "timestamp": 1775315708,
+    "timestamp_local": 1775315708
+  },
+  {
+    "id": 43652,
+    "fecha": "04 de Apr del 2026 a las 11:12 AM",
+    "hora_utc": "2026-04-04 15:12",
+    "mensaje": "⚠️Afectado el servicio eléctrico en los siguientes circuitos:\n🔹Municipio Remedios:\n👉Ctos 67 y 152, 68 y 118 \n👉Ctos 69 y 70 Zuluetas\n👉Cto 143 Batey Heriberto Duquezne \n👉Cto 71 Buena Vista",
+    "timestamp": 1775315544,
+    "timestamp_local": 1775315544
+  },
+  {
+    "id": 43651,
+    "fecha": "04 de Apr del 2026 a las 11:02 AM",
+    "hora_utc": "2026-04-04 15:02",
+    "mensaje": "Con servicio la línea 1915:\n🔹Municipio Placetas:\n👉Cto 192 Benito Juárez\n👉Cto 102 Peroti",
+    "timestamp": 1775314970,
+    "timestamp_local": 1775314970
+  },
+  {
     "id": 43650,
     "fecha": "04 de Apr del 2026 a las 10:57 AM",
     "hora_utc": "2026-04-04 14:57",
@@ -118,37 +158,5 @@
     "mensaje": "💡Con servicio eléctrico los siguientes circuitos:\n🔹Municipio Placetas:\n👉Ctos 101 y 145 Cumbre",
     "timestamp": 1775304830,
     "timestamp_local": 1775304830
-  },
-  {
-    "id": 43635,
-    "fecha": "04 de Apr del 2026 a las 08:11 AM",
-    "hora_utc": "2026-04-04 12:11",
-    "mensaje": "⚠️Afectado el servicio eléctrico en los siguientes circuitos:\n🔹Municipio Sagua\n👉Ctos 50 y 147 Villa Alegre",
-    "timestamp": 1775304672,
-    "timestamp_local": 1775304672
-  },
-  {
-    "id": 43634,
-    "fecha": "04 de Apr del 2026 a las 08:10 AM",
-    "hora_utc": "2026-04-04 12:10",
-    "mensaje": "💡Con servicio eléctrico los siguientes circuitos\n🔹Municipio Sagua\n👉Ctos 43, 51 Sagua\n👉Cto 44 Isabela",
-    "timestamp": 1775304606,
-    "timestamp_local": 1775304606
-  },
-  {
-    "id": 43633,
-    "fecha": "04 de Apr del 2026 a las 06:59 AM",
-    "hora_utc": "2026-04-04 10:59",
-    "mensaje": "➡️Ante cualquier duda con la terminología eléctrica, les volvemos explicar: \n     \n1️⃣Las averías pueden ser primarias (afecta un volumen grande de población pues son las líneas de distribución a 13.8kV y puede afectar varias manzanas, incluso repartos completos).\n\n2️⃣Secundarias (afecta a todos los clientes que se alimenten del mismo transformador, puede afectar una o varias cuadras). \n\n3️⃣De servicio (afectan 1 solo cliente o instalación generalmente producto a daños en la acometida, metro contador, etc.).",
-    "timestamp": 1775300345,
-    "timestamp_local": 1775300345
-  },
-  {
-    "id": 43631,
-    "fecha": "04 de Apr del 2026 a las 06:11 AM",
-    "hora_utc": "2026-04-04 10:11",
-    "mensaje": "🕕Actualización del servicio eléctrico en las últimas 6 horas.\n✍️El déficit de capacidad de generación en estos momentos es de 76 MW\n✍️En el momento de esta nota, se mantienen afectados 117 circuitos.\n✍️ Cuenta con 90 afectaciones por averías secundarias y de servicio:\n🔸 Caibarién (3)\n🔸 Encrucijada (3)\n🔸 Manicaragua (8)\n🔸 Placetas (13)\n🔸 Ranchuelo (2)\n🔸 Remedios (4) \n🔸 Sagua (12) \n🔸 Santa Clara (31)\n🔸 Santo Domingo (4)\n🛠️Se encuentran 1 averías en vías de solución.\n🛠️Pendientes a solucionar por el área técnica 9.\n\n⚡Averías⚡\n👉Cto 108 Manicaragua, poblado La Piedra, se estudian las causas.\n👉Cto 78 Jutiero, municipio Camajuani, poste dañado por rayo.",
-    "timestamp": 1775297484,
-    "timestamp_local": 1775297484
   }
 ]
