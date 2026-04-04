@@ -1,5 +1,53 @@
 [
   {
+    "id": 43623,
+    "fecha": "03 de Apr del 2026 a las 10:06 PM",
+    "hora_utc": "2026-04-04 02:06",
+    "mensaje": "✅Actualización del servicio eléctrico en la provincia.\n👉De los circuitos apagables que presenta la provincia, se mantienen afectados 144 circuitos.\n👉En el momento de hacer esta nota la provincia tiene 116  MW de afectación por déficit de capacidad de generación, demanda máxima posible a apagar en estos momentos.\n👉Cuenta con 102 afectaciones por averías secundarias y de servicio.",
+    "timestamp": 1775268378,
+    "timestamp_local": 1775268378
+  },
+  {
+    "id": 43622,
+    "fecha": "03 de Apr del 2026 a las 09:38 PM",
+    "hora_utc": "2026-04-04 01:38",
+    "mensaje": "🟢 20:29 || En línea la Unidad 6 de la CTE Máximo Gómez, subiendo carga.",
+    "timestamp": 1775266710,
+    "timestamp_local": 1775266710
+  },
+  {
+    "id": 43621,
+    "fecha": "03 de Apr del 2026 a las 09:37 PM",
+    "hora_utc": "2026-04-04 01:37",
+    "mensaje": "⚠️Afectado el servicio eléctrico en los siguientes circuitos:\n🔹Municipio Corralillo\n👉Cto 56 Yabre\n👉Ctos 58 y 159 \n👉Cto 57 Motembo \n👉Cto 60 La Sierra\n👉Cto 55 Rancho Veloz\n 🔹Municipio Quemado:\n👉Cto 196 Batey Panchito Gómez Toro.",
+    "timestamp": 1775266665,
+    "timestamp_local": 1775266665
+  },
+  {
+    "id": 43620,
+    "fecha": "03 de Apr del 2026 a las 09:01 PM",
+    "hora_utc": "2026-04-04 01:01",
+    "mensaje": "💡Con servicio eléctrico el circuito 38 del poblado Yabú, en Santa Clara.",
+    "timestamp": 1775264465,
+    "timestamp_local": 1775264465
+  },
+  {
+    "id": 43619,
+    "fecha": "03 de Apr del 2026 a las 08:41 PM",
+    "hora_utc": "2026-04-04 00:41",
+    "mensaje": "🇨🇺 Actualización del Sistema Electroenergético Nacional a las 19:00 del 3 de abril de 2026.\n\nIncidencias:\n14:40 Fuera de servicio Unidad 6 de la CTE Máximo Gómez por falla en automática.\n17:28 Fuera de servicio unidad 6 de Energás Boca de Jaruco por fuera de servicio bomba de circulación.",
+    "timestamp": 1775263260,
+    "timestamp_local": 1775263260
+  },
+  {
+    "id": 43618,
+    "fecha": "03 de Apr del 2026 a las 08:32 PM",
+    "hora_utc": "2026-04-04 00:32",
+    "mensaje": "✅Actualización del servicio eléctrico en la provincia.\n👉De los circuitos apagables que presenta la provincia, se mantienen afectados 144 circuitos.\n👉En el momento de hacer esta nota la provincia tiene 141  MW de afectación por déficit de capacidad de generación, demanda máxima posible a apagar en estos momentos.\n👉Cuenta con 96 afectaciones por averías secundarias y de servicio.",
+    "timestamp": 1775262743,
+    "timestamp_local": 1775262743
+  },
+  {
     "id": 43617,
     "fecha": "03 de Apr del 2026 a las 07:12 PM",
     "hora_utc": "2026-04-03 23:12",
@@ -102,61 +150,5 @@
     "mensaje": "💡Con servicio eléctrico la Línea 108 después de reparada la avería.",
     "timestamp": 1775251007,
     "timestamp_local": 1775251007
-  },
-  {
-    "id": 43604,
-    "fecha": "03 de Apr del 2026 a las 05:14 PM",
-    "hora_utc": "2026-04-03 21:14",
-    "mensaje": "💡Con servicio eléctrico la Línea 861 después de reparada la avería en el poblado Yabú.",
-    "timestamp": 1775250886,
-    "timestamp_local": 1775250886
-  },
-  {
-    "id": 43603,
-    "fecha": "03 de Apr del 2026 a las 05:09 PM",
-    "hora_utc": "2026-04-03 21:09",
-    "mensaje": "⚠️Afectado el servicio eléctrico en los siguientes circuitos:\n🔹Municipio Camajuaní:\n👉Ctos  73 y 156",
-    "timestamp": 1775250555,
-    "timestamp_local": 1775250555
-  },
-  {
-    "id": 43602,
-    "fecha": "03 de Apr del 2026 a las 05:00 PM",
-    "hora_utc": "2026-04-03 21:00",
-    "mensaje": "⚠️Afectado el servicio eléctrico en el siguiente circuito:\n👉Cto 162 SC Industrial.",
-    "timestamp": 1775250055,
-    "timestamp_local": 1775250055
-  },
-  {
-    "id": 43601,
-    "fecha": "03 de Apr del 2026 a las 04:58 PM",
-    "hora_utc": "2026-04-03 20:58",
-    "mensaje": "⚡En avería el circuito 44 Isabela, del municipio Sagua por presentar cables primarios partidos.",
-    "timestamp": 1775249937,
-    "timestamp_local": 1775249937
-  },
-  {
-    "id": 43600,
-    "fecha": "03 de Apr del 2026 a las 04:57 PM",
-    "hora_utc": "2026-04-03 20:57",
-    "mensaje": "🛠️Afectada por manipulación la Línea 1205.\n➡️Línea 1205\n🔹Municipio Sagua\n👉Ctos 43, 51 Sagua\n👉Cto 44 Isabela\n👉Ctos 50 y 147 Villa Alegre",
-    "timestamp": 1775249849,
-    "timestamp_local": 1775249849
-  },
-  {
-    "id": 43599,
-    "fecha": "03 de Apr del 2026 a las 04:54 PM",
-    "hora_utc": "2026-04-03 20:54",
-    "mensaje": "⚠️Afectado el servicio eléctrico en los siguientes circuitos:\n👉Cto 31 SC Industrial\n👉Cto 132 SC Industrial",
-    "timestamp": 1775249650,
-    "timestamp_local": 1775249650
-  },
-  {
-    "id": 43598,
-    "fecha": "03 de Apr del 2026 a las 04:25 PM",
-    "hora_utc": "2026-04-03 20:25",
-    "mensaje": "⚡Afectado por avería el circuito 108 La Piedra, del municipio Manicaragua, se estudian las causas.",
-    "timestamp": 1775247957,
-    "timestamp_local": 1775247957
   }
 ]
