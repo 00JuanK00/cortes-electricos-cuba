@@ -1,5 +1,29 @@
 [
   {
+    "id": 111198,
+    "fecha": "04 de Apr del 2026 a las 07:14 AM",
+    "hora_utc": "2026-04-04 11:14",
+    "mensaje": "🚨Por déficit de capacidad de generación se afecta el servicio en los siguientes circuitos:\n*Melena 1 y 2🚨",
+    "timestamp": 1775301261,
+    "timestamp_local": 1775301261
+  },
+  {
+    "id": 111197,
+    "fecha": "04 de Apr del 2026 a las 07:06 AM",
+    "hora_utc": "2026-04-04 11:06",
+    "mensaje": "🚨Por déficit de capacidad de generación se afecta el servicio en el siguiente circuito:\n*Camilo🚨",
+    "timestamp": 1775300803,
+    "timestamp_local": 1775300803
+  },
+  {
+    "id": 111196,
+    "fecha": "04 de Apr del 2026 a las 07:03 AM",
+    "hora_utc": "2026-04-04 11:03",
+    "mensaje": "🚨Por déficit de capacidad de generación se afecta el servicio en el siguiente circuito:\n*Bío 1🚨",
+    "timestamp": 1775300634,
+    "timestamp_local": 1775300634
+  },
+  {
     "id": 111195,
     "fecha": "04 de Apr del 2026 a las 06:29 AM",
     "hora_utc": "2026-04-04 10:29",
@@ -94,29 +118,5 @@
     "mensaje": "♦️ Afectado el servicio en el siguiente circuito por disparo en las líneas:\n*Güines 3♦️",
     "timestamp": 1775264163,
     "timestamp_local": 1775264163
-  },
-  {
-    "id": 111178,
-    "fecha": "03 de Apr del 2026 a las 07:55 PM",
-    "hora_utc": "2026-04-03 23:55",
-    "mensaje": "Actualización del Sistema Electroenergético Nacional a las 19:00 del 3 de abril de 2026.\n\nIncidencias:\n14:40 Fuera de servicio Unidad 6 de la CTE Máximo Gómez por falla en automática.\n17:28 Fuera de servicio unidad 6 de Energás Boca de Jaruco por fuera de servicio bomba de circulación.\n\n#UnidosXCuba #NotaInformativa #UniónEléctrica #SEN",
-    "timestamp": 1775260518,
-    "timestamp_local": 1775260518
-  },
-  {
-    "id": 111177,
-    "fecha": "03 de Apr del 2026 a las 07:10 PM",
-    "hora_utc": "2026-04-03 23:10",
-    "mensaje": "🚨Por déficit de capacidad de generación se afecta el servicio en el siguiente circuito:\n*1657🚨",
-    "timestamp": 1775257813,
-    "timestamp_local": 1775257813
-  },
-  {
-    "id": 111176,
-    "fecha": "03 de Apr del 2026 a las 06:48 PM",
-    "hora_utc": "2026-04-03 22:48",
-    "mensaje": "17:28 || Fuera de línea la Unidad 6 de Energás Boca de Jaruco por sargazo, actuando una DAF de 25 MW que se estan restableciendo.",
-    "timestamp": 1775256539,
-    "timestamp_local": 1775256539
   }
 ]
