@@ -1,5 +1,37 @@
 [
   {
+    "id": 43709,
+    "fecha": "05 de Apr del 2026 a las 12:08 AM",
+    "hora_utc": "2026-04-05 04:08",
+    "mensaje": "⚠️Afectado el servicio eléctrico en los siguientes circuitos:\n🔹Municipio Sagua\n👉Ctos 50 y 147 Villa Alegre",
+    "timestamp": 1775362083,
+    "timestamp_local": 1775362083
+  },
+  {
+    "id": 43708,
+    "fecha": "05 de Apr del 2026 a las 12:07 AM",
+    "hora_utc": "2026-04-05 04:07",
+    "mensaje": "💡Con servicio eléctrico los siguientes circuitos:\n🔹Municipio Sagua\n👉Ctos 43, 51 Sagua\n👉Cto 44 Isabela",
+    "timestamp": 1775362041,
+    "timestamp_local": 1775362041
+  },
+  {
+    "id": 43707,
+    "fecha": "05 de Apr del 2026 a las 12:03 AM",
+    "hora_utc": "2026-04-05 04:03",
+    "mensaje": "🕛Actualización del servicio eléctrico en las últimas 6 horas.\n✍️El déficit de capacidad de generación en estos momentos es de 99 MW\n✍️En el momento de esta nota, se mantienen afectados 133 circuitos.\n✍️ Cuenta con 112 afectaciones por averías secundarias y de servicio:\n🔸 Caibarién (2)\n🔸Camajuaní (8)\n🔸 Encrucijada (1)\n🔸 Manicaragua (7)\n🔸 Placetas (16)\n🔸 Ranchuelo (1)\n🔸 Remedios (5) \n🔸 Sagua (9) \n🔸 Santa Clara (48)\n🔸 Santo Domingo (2)\n🛠️Se encuentran 4 averías en vías de solución.\n🛠️Pendientes a solucionar por el área técnica 9.\n✅La provincia no presenta averías primarias.",
+    "timestamp": 1775361799,
+    "timestamp_local": 1775361799
+  },
+  {
+    "id": 43706,
+    "fecha": "04 de Apr del 2026 a las 10:10 PM",
+    "hora_utc": "2026-04-05 02:10",
+    "mensaje": "✍️Actualización del servicio eléctrico en la provincia.\nDe los circuitos apagables que presenta la provincia, se mantienen afectados 133 circuitos.\nEn el momento de hacer esta nota la provincia tiene 111 MW de afectación por déficit de capacidad de generación, demanda máxima posible a apagar en estos momentos.\nCuenta con 102 afectaciones por averías secundarias y de servicio.",
+    "timestamp": 1775355016,
+    "timestamp_local": 1775355016
+  },
+  {
     "id": 43703,
     "fecha": "04 de Apr del 2026 a las 08:05 PM",
     "hora_utc": "2026-04-05 00:05",
@@ -118,37 +150,5 @@
     "mensaje": "⚠️Afectado el servicio eléctrico en los siguientes circuitos:\n🔹Municipio Cifuentes:\n👉Ctos 114 y 117\n👉Ctos 116 y 155 Mata\n👉Cto 186 Batey Unidad Proletaria\n👉Cto 184 Sitio Grande",
     "timestamp": 1775334734,
     "timestamp_local": 1775334734
-  },
-  {
-    "id": 43688,
-    "fecha": "04 de Apr del 2026 a las 04:19 PM",
-    "hora_utc": "2026-04-04 20:19",
-    "mensaje": "🔴 12:01 || Fuera de línea la Unidad 6 de la CTE Diez de Octubre en vía libre de emergencia por salidero en caldera.",
-    "timestamp": 1775333945,
-    "timestamp_local": 1775333945
-  },
-  {
-    "id": 43687,
-    "fecha": "04 de Apr del 2026 a las 04:15 PM",
-    "hora_utc": "2026-04-04 20:15",
-    "mensaje": "⚠️Afectado el servicio eléctrico en los siguientes circuitos:\n🔹Municipio Sagua\n👉Ctos 43, 51 Sagua\n👉Cto 44 Isabela",
-    "timestamp": 1775333756,
-    "timestamp_local": 1775333756
-  },
-  {
-    "id": 43686,
-    "fecha": "04 de Apr del 2026 a las 04:15 PM",
-    "hora_utc": "2026-04-04 20:15",
-    "mensaje": "💡Con servicio eléctrico los siguientes circuitos:\n🔹Municipio Sagua\n👉Ctos 50 y 147 Villa Alegre",
-    "timestamp": 1775333707,
-    "timestamp_local": 1775333707
-  },
-  {
-    "id": 43685,
-    "fecha": "04 de Apr del 2026 a las 03:59 PM",
-    "hora_utc": "2026-04-04 19:59",
-    "mensaje": "✍️Actualización del servicio eléctrico en la provincia.\nDe los circuitos apagables que presenta la provincia, se mantienen afectados 112 circuitos.\nEn el momento de hacer esta nota la provincia tiene 86 MW de afectación por déficit de capacidad de generación, demanda máxima posible a apagar en estos momentos.\nCuenta con 130 afectaciones por averías secundarias y de servicio.",
-    "timestamp": 1775332787,
-    "timestamp_local": 1775332787
   }
 ]
