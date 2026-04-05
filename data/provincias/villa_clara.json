@@ -1,5 +1,29 @@
 [
   {
+    "id": 43758,
+    "fecha": "05 de Apr del 2026 a las 06:43 PM",
+    "hora_utc": "2026-04-05 22:43",
+    "mensaje": "⚠️Afectado el servicio eléctrico en los siguientes circuitos:\n🔹Municipio Manicaragua:\n👉Ctos 109 y 15\n👉Ctos 108 y 110 La Piedra\n🔹Municipio Placetas\n👉Cto 99 Placetas",
+    "timestamp": 1775429030,
+    "timestamp_local": 1775429030
+  },
+  {
+    "id": 43757,
+    "fecha": "05 de Apr del 2026 a las 06:41 PM",
+    "hora_utc": "2026-04-05 22:41",
+    "mensaje": "⚠️Se encuentra en fallo el Cto 2 (Centro), perteneciente al municipio Santa Clara, se estudian las causas.",
+    "timestamp": 1775428900,
+    "timestamp_local": 1775428900
+  },
+  {
+    "id": 43756,
+    "fecha": "05 de Apr del 2026 a las 06:39 PM",
+    "hora_utc": "2026-04-05 22:39",
+    "mensaje": "⚠️Afectado el servicio eléctrico en los siguientes circuitos:\n🔹Municipio Santa Clara\n👉Cto 7 (Universidad)   \n👉Cto 22 (Construcciones Textil)\n👉Cto 153 (EIDE) \n👉Ctos 14, 15 y 27 (Maleza)",
+    "timestamp": 1775428786,
+    "timestamp_local": 1775428786
+  },
+  {
     "id": 43755,
     "fecha": "05 de Apr del 2026 a las 06:20 PM",
     "hora_utc": "2026-04-05 22:20",
@@ -126,21 +150,5 @@
     "mensaje": "Afectados 97 MW en la Provincia , demanda máxima a apagar en estos momentos.",
     "timestamp": 1775408659,
     "timestamp_local": 1775408659
-  },
-  {
-    "id": 43738,
-    "fecha": "05 de Apr del 2026 a las 12:20 PM",
-    "hora_utc": "2026-04-05 16:20",
-    "mensaje": "⚠️Afectado el servicio eléctrico en los siguientes circuitos:\n🔹Municipio Camajuaní:\n👉Ctos  72, 73, 129 y 156\n👉Cto 74 José María Pérez",
-    "timestamp": 1775406018,
-    "timestamp_local": 1775406018
-  },
-  {
-    "id": 43737,
-    "fecha": "05 de Apr del 2026 a las 12:14 PM",
-    "hora_utc": "2026-04-05 16:14",
-    "mensaje": "🕛Actualización del servicio eléctrico en las últimas 6 horas.\n✍️El déficit de capacidad de generación en estos momentos es de 105 MW\n✍️En el momento de esta nota, se mantienen afectados 125 circuitos.\n✍️ Cuenta con 133 afectaciones por averías secundarias y de servicio:\n🔸Caibarién (1)\n🔸Corralillo (1)\n🔸 Encrucijada (5)\n🔸 Manicaragua (7)\n🔸 Placetas (19)\n🔸 Ranchuelo (6)\n🔸 Remedios (8) \n🔸 Sagua (15) \n🔸 Santa Clara (57)\n🔸 Santo Domingo (5)\n🔸Camajuaní (9)\n🛠️Pendientes a solucionar por el área técnica 10.\n✅La provincia no presenta averías primarias.",
-    "timestamp": 1775405651,
-    "timestamp_local": 1775405651
   }
 ]
