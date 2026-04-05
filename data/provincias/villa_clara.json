@@ -1,5 +1,29 @@
 [
   {
+    "id": 43735,
+    "fecha": "05 de Apr del 2026 a las 11:29 AM",
+    "hora_utc": "2026-04-05 15:29",
+    "mensaje": "⚠️Afectado el servicio eléctrico en los siguientes circuitos:\n🔹Municipio Remedios:\n👉Ctos 67 y 152, 68 y 118 \n👉Ctos 69 y 70 Zuluetas\n👉Cto 143 Batey Heriberto Duquezne \n👉Cto 71 Buena Vista",
+    "timestamp": 1775402947,
+    "timestamp_local": 1775402947
+  },
+  {
+    "id": 43734,
+    "fecha": "05 de Apr del 2026 a las 11:18 AM",
+    "hora_utc": "2026-04-05 15:18",
+    "mensaje": "⚠️Afectado el servicio eléctrico en el siguiente circuito:\n🔹Municipio Santa Clara:\n👉Cto 144 (Camacho)",
+    "timestamp": 1775402287,
+    "timestamp_local": 1775402287
+  },
+  {
+    "id": 43733,
+    "fecha": "05 de Apr del 2026 a las 11:14 AM",
+    "hora_utc": "2026-04-05 15:14",
+    "mensaje": "⚠️Afectado el servicio eléctrico en los siguientes circuitos:\n🔹Municipio Caibarién:\n👉Ctos 63 y 64",
+    "timestamp": 1775402059,
+    "timestamp_local": 1775402059
+  },
+  {
     "id": 43732,
     "fecha": "05 de Apr del 2026 a las 11:04 AM",
     "hora_utc": "2026-04-05 15:04",
@@ -126,37 +150,5 @@
     "mensaje": "⚠️Afectado el servicio eléctrico en el siguiente circuito:\n🔹Municipio Santa Clara: \n👉Cto 170 (José Martí)",
     "timestamp": 1775388370,
     "timestamp_local": 1775388370
-  },
-  {
-    "id": 43716,
-    "fecha": "05 de Apr del 2026 a las 07:22 AM",
-    "hora_utc": "2026-04-05 11:22",
-    "mensaje": "⚡Afectado el circuito 7 (Universidad), del municipio Santa Clara. Se estudian las causas.",
-    "timestamp": 1775388145,
-    "timestamp_local": 1775388145
-  },
-  {
-    "id": 43715,
-    "fecha": "05 de Apr del 2026 a las 06:24 AM",
-    "hora_utc": "2026-04-05 10:24",
-    "mensaje": "💡Con servicio eléctrico los siguientes circuitos:\n🔹Municipio Encrucijada:\n👉Cto 122 Encrucijada  \n👉Cto 123 Vizcaya \n👉Cto 142 Comunidad La Sierra \n👉Cto 126 Batey Emilio Córdova\n👉Cto 125 Cavarrocas\n👉Cto 124 El Santo\n🔹Municipio Camajuaní:                                                              \n👉Cto 78 Jutiero\n👉Cto 75 La Quinta\n👉Cto 157 Luis Arcos Bergnes\n👉Ctos 76 y 90 Vega Alta",
-    "timestamp": 1775384645,
-    "timestamp_local": 1775384645
-  },
-  {
-    "id": 43714,
-    "fecha": "05 de Apr del 2026 a las 06:21 AM",
-    "hora_utc": "2026-04-05 10:21",
-    "mensaje": "🕕Actualización del servicio eléctrico en las últimas 6 horas.\n✍️El déficit de capacidad de generación en estos momentos es de 89 MW\n✍️En el momento de esta nota, se mantienen afectados 132 circuitos.\n✍️ Cuenta con 114 afectaciones por averías secundarias y de servicio:\n🔸 Caibarién (2)\n🔸Camajuaní (8)\n🔸 Encrucijada (1)\n🔸 Manicaragua (7)\n🔸 Placetas (16)\n🔸 Ranchuelo (1)\n🔸 Remedios (5) \n🔸 Sagua (11) \n🔸 Santa Clara (48)\n🔸 Santo Domingo (2)\n🛠️Se encuentran 4 averías en vías de solución.\n🛠️Pendientes a solucionar por el área técnica 9.\n✅La provincia no presenta averías primarias.",
-    "timestamp": 1775384507,
-    "timestamp_local": 1775384507
-  },
-  {
-    "id": 43713,
-    "fecha": "05 de Apr del 2026 a las 04:16 AM",
-    "hora_utc": "2026-04-05 08:16",
-    "mensaje": "✍️Actualización del servicio eléctrico en la provincia.\nDe los circuitos apagables que presenta la provincia, se mantienen afectados 132 circuitos.\nEn el momento de hacer esta nota la provincia tiene 81 MW de afectación por déficit de capacidad de generación, demanda máxima posible a apagar en estos momentos.\nCuenta con 101 afectaciones por averías secundarias y de servicio.",
-    "timestamp": 1775377005,
-    "timestamp_local": 1775377005
   }
 ]
