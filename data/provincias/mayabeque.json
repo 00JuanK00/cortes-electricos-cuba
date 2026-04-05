@@ -1,5 +1,21 @@
 [
   {
+    "id": 111283,
+    "fecha": "05 de Apr del 2026 a las 08:26 AM",
+    "hora_utc": "2026-04-05 12:26",
+    "mensaje": "🚨Por déficit de capacidad de generación se afecta el servicio en el siguiente circuito:\n*Camacho 🚨",
+    "timestamp": 1775391964,
+    "timestamp_local": 1775391964
+  },
+  {
+    "id": 111282,
+    "fecha": "05 de Apr del 2026 a las 08:12 AM",
+    "hora_utc": "2026-04-05 12:12",
+    "mensaje": "**Nota Informativa: Estado del Sistema Eléctrico Nacional (SEN) – 5 de abril de 2026**\nEn el día de ayer se afectó el servicio por déficit de capacidad durante las 24 horas y se ha mantenido la afectación durante la madrugada de hoy. La máxima afectación por déficit de capacidad de generación en el día de ayer fue de 1665 MW a las 20:00 horas, superior a lo planificado por la salida de la unidad 6 de la CTE Nuevitas.\nLa producción de energía de los 54 nuevos parques solares fotovoltaicos fue de 3915 MWh, con 477 MW como máxima potencia entregada en el horario de la media con esta fuente de generación.\n**Estado actual del SEN**\nLa disponibilidad del SEN a las 06:00 horas es de 1258 MW, la demanda 2366 MW, con 1109 MW afectados. En el horario de la media se estima una afectación de 1250 MW.\n**Principales incidencias**\nAvería: Unidad 2 de la CTE Felton y la Unidad 6 de la CTE Diez de Octubre.\nMantenimiento: Unidades 5 y 6 de la CTE Mariel, Unidades 3 y 6 de la CTE Renté, Unidad 5 de la CTE Nuevitas.\nLimitaciones en la generación térmica: 450 MW fuera de servicio.\n**Pronóstico para el horario pico**\nPara el pico se pronostica la entrada de la unidad 5 de Energás Boca de Jaruco con 20 MW.\nCon este pronóstico se prevé para el pico una disponibilidad de 1278 MW con una demanda máxima de 3000 MW, para un déficit de 1722 MW, por lo que de mantenerse las condiciones previstas se pronostica una afectación de 1752 MW en este horario.",
+    "timestamp": 1775391176,
+    "timestamp_local": 1775391176
+  },
+  {
     "id": 111280,
     "fecha": "05 de Apr del 2026 a las 07:42 AM",
     "hora_utc": "2026-04-05 11:42",
@@ -86,21 +102,5 @@
     "mensaje": "🔷 Informamos a los clientes del circuito Batabanó que se encuentra con servicio la mayor parte del mismo, quedando afectadas las siguientes zonas por avería:\n*CPA 28 de septiembre\n*Finca El Caimán\n*Zonas aledañas♦️",
     "timestamp": 1775369798,
     "timestamp_local": 1775369798
-  },
-  {
-    "id": 111261,
-    "fecha": "05 de Apr del 2026 a las 12:00 AM",
-    "hora_utc": "2026-04-05 04:00",
-    "mensaje": "🚨Por déficit de capacidad de generación se afecta el servicio en el siguiente circuito:\n*Aguacate🚨",
-    "timestamp": 1775361638,
-    "timestamp_local": 1775361638
-  },
-  {
-    "id": 111260,
-    "fecha": "04 de Apr del 2026 a las 11:50 PM",
-    "hora_utc": "2026-04-05 03:50",
-    "mensaje": "♦️Informamos a los clientes del circuito Batabanó que se encuentran afectados por avería.\n\nSe está trabajando para restablecer el servicio en el menor tiempo posible♦️",
-    "timestamp": 1775361036,
-    "timestamp_local": 1775361036
   }
 ]
