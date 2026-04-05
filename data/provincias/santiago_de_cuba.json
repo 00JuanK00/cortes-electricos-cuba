@@ -1,5 +1,37 @@
 [
   {
+    "id": 51878,
+    "fecha": "04 de Apr del 2026 a las 09:23 PM",
+    "hora_utc": "2026-04-05 01:23",
+    "mensaje": "🔉 Estimados clientes se les informa que el circuito 18 de Santiago se encuentra afectado por déficit de capacidad de generación .",
+    "timestamp": 1775352182,
+    "timestamp_local": 1775352182
+  },
+  {
+    "id": 51877,
+    "fecha": "04 de Apr del 2026 a las 08:39 PM",
+    "hora_utc": "2026-04-05 00:39",
+    "mensaje": "🔴Estimados clientes se incorpora a la afectación el circuito 24 de Santiago, disculpe por las molestias ocasionadas.",
+    "timestamp": 1775349587,
+    "timestamp_local": 1775349587
+  },
+  {
+    "id": 51876,
+    "fecha": "04 de Apr del 2026 a las 08:34 PM",
+    "hora_utc": "2026-04-05 00:34",
+    "mensaje": "Automático de Frecuencia (Disparo DAF):\nOcurre cuando la frecuencia está por debajo de los 60Hz y determinada carga o circuito se desconecta del sistema automáticamente hasta que se estabilice.",
+    "timestamp": 1775349254,
+    "timestamp_local": 1775349254
+  },
+  {
+    "id": 51875,
+    "fecha": "04 de Apr del 2026 a las 08:33 PM",
+    "hora_utc": "2026-04-05 00:33",
+    "mensaje": "🔴Estimados clientes se les informa que se encuentra disparado por DAF el circuito 4 de Palma.",
+    "timestamp": 1775349237,
+    "timestamp_local": 1775349237
+  },
+  {
     "id": 51874,
     "fecha": "04 de Apr del 2026 a las 07:55 PM",
     "hora_utc": "2026-04-04 23:55",
@@ -110,29 +142,5 @@
     "mensaje": "🔴 Estimados clientes , se incorpora a la afectación el circuito 25 , 23 , 26 y El Cristo...",
     "timestamp": 1775320599,
     "timestamp_local": 1775320599
-  },
-  {
-    "id": 51858,
-    "fecha": "04 de Apr del 2026 a las 12:33 PM",
-    "hora_utc": "2026-04-04 16:33",
-    "mensaje": "🔴 Estimados clientes , se encuentran afectados por Déficit de Generación los circuitos 20 , 14 Secc ,19 , 21 y 4 de Palma ...",
-    "timestamp": 1775320437,
-    "timestamp_local": 1775320437
-  },
-  {
-    "id": 51856,
-    "fecha": "04 de Apr del 2026 a las 11:36 AM",
-    "hora_utc": "2026-04-04 15:36",
-    "mensaje": "🔴 Estimados clientes, en estos momentos queda afectado por Déficit de Generación los circuitos 11, 1 de Palma y circuito 14 ...",
-    "timestamp": 1775316974,
-    "timestamp_local": 1775316974
-  },
-  {
-    "id": 51855,
-    "fecha": "04 de Apr del 2026 a las 07:24 AM",
-    "hora_utc": "2026-04-04 11:24",
-    "mensaje": "🔊Estimados clientes en estos momentos se encuentra afectados por Déficit de Capacidad de Generación el circuito 9 Seccionalizado",
-    "timestamp": 1775301878,
-    "timestamp_local": 1775301878
   }
 ]
