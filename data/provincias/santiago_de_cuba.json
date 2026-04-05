@@ -1,5 +1,45 @@
 [
   {
+    "id": 51893,
+    "fecha": "05 de Apr del 2026 a las 07:40 AM",
+    "hora_utc": "2026-04-05 11:40",
+    "mensaje": "🔊Estimados clientes, se incorpora a la afectación el circuito 14 de Santiago.",
+    "timestamp": 1775389229,
+    "timestamp_local": 1775389229
+  },
+  {
+    "id": 51892,
+    "fecha": "05 de Apr del 2026 a las 07:25 AM",
+    "hora_utc": "2026-04-05 11:25",
+    "mensaje": "Automático de Frecuencia (Disparo DAF):\nOcurre cuando la frecuencia está por debajo de los 60Hz y determinada carga o circuito se desconecta del sistema automáticamente hasta que se estabilice.",
+    "timestamp": 1775388349,
+    "timestamp_local": 1775388349
+  },
+  {
+    "id": 51891,
+    "fecha": "05 de Apr del 2026 a las 07:25 AM",
+    "hora_utc": "2026-04-05 11:25",
+    "mensaje": "🔴Estimados clientes en estos momentos se encuentra disparado por DAF el circuito 4 Palma.",
+    "timestamp": 1775388333,
+    "timestamp_local": 1775388333
+  },
+  {
+    "id": 51890,
+    "fecha": "05 de Apr del 2026 a las 07:24 AM",
+    "hora_utc": "2026-04-05 11:24",
+    "mensaje": "🚨Estimado clientes se incorpora a la afectación por Déficit de Capacidad de Generación los circuitos 1,21 de Santiago y la línea 5395 San Luis, disculpen por las molestias ocasionadas.",
+    "timestamp": 1775388264,
+    "timestamp_local": 1775388264
+  },
+  {
+    "id": 51889,
+    "fecha": "05 de Apr del 2026 a las 07:16 AM",
+    "hora_utc": "2026-04-05 11:16",
+    "mensaje": "🚨Estimado clientes en estos momentos se encuentran afectados por Déficit de Capacidad de Generación los circuitos 9 secc,19,25 de Santiago,circuito 1 Palma, disculpen por las molestias ocasionadas.",
+    "timestamp": 1775387768,
+    "timestamp_local": 1775387768
+  },
+  {
     "id": 51888,
     "fecha": "05 de Apr del 2026 a las 06:52 AM",
     "hora_utc": "2026-04-05 10:52",
@@ -110,37 +150,5 @@
     "mensaje": "🚨Estimados clientes en estos momentos se encuentra afectados por Déficit de Capacidad de Generación los circuitos 17 y 18 de Santiago, disculpen por las molestias ocasionadas.",
     "timestamp": 1775346915,
     "timestamp_local": 1775346915
-  },
-  {
-    "id": 51873,
-    "fecha": "04 de Apr del 2026 a las 07:19 PM",
-    "hora_utc": "2026-04-04 23:19",
-    "mensaje": "🚨Estimados clientes en estos momentos se encuentra afectados por Déficit de Capacidad de Generación los circuitos 9,11,20, 26 de Santiago y las líneas 5385 San Luis- Palma,1 Palma, 4385 y 4390- Contramaestre ,disculpen por las molestias ocasionadas.",
-    "timestamp": 1775344763,
-    "timestamp_local": 1775344763
-  },
-  {
-    "id": 51872,
-    "fecha": "04 de Apr del 2026 a las 06:18 PM",
-    "hora_utc": "2026-04-04 22:18",
-    "mensaje": "🔴Estimados clientes se incorpora a la afectación la línea 4395 Contramaestre-Baire,disculpe por las molestias ocasionadas.",
-    "timestamp": 1775341133,
-    "timestamp_local": 1775341133
-  },
-  {
-    "id": 51871,
-    "fecha": "04 de Apr del 2026 a las 05:39 PM",
-    "hora_utc": "2026-04-04 21:39",
-    "mensaje": "🚨Estimados clientes en estos momentos se encuentra afectados por Déficit de Capacidad de Generación las líneas 5330-El Cristo, 4435-Contramaestre, 5980-San Juan, 5335-Guamá y 5395 San Luis, disculpen por las molestias ocasionadas.",
-    "timestamp": 1775338744,
-    "timestamp_local": 1775338744
-  },
-  {
-    "id": 51870,
-    "fecha": "04 de Apr del 2026 a las 05:35 PM",
-    "hora_utc": "2026-04-04 21:35",
-    "mensaje": "🔴Estimados  cliente en estos momentos se encuentra disparada la línea 5385 Palma - San Luis ,disculpe por las molestias ocasionadas.",
-    "timestamp": 1775338513,
-    "timestamp_local": 1775338513
   }
 ]
