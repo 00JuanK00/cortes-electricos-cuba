@@ -1,5 +1,13 @@
 [
   {
+    "id": 111303,
+    "fecha": "05 de Apr del 2026 a las 03:35 PM",
+    "hora_utc": "2026-04-05 19:35",
+    "mensaje": "🔷Con servicio el circuito ML- 35 que se encontraba afectado por manipulación 🔷",
+    "timestamp": 1775417759,
+    "timestamp_local": 1775417759
+  },
+  {
     "id": 111302,
     "fecha": "05 de Apr del 2026 a las 03:15 PM",
     "hora_utc": "2026-04-05 19:15",
@@ -19,7 +27,7 @@
     "id": 111300,
     "fecha": "05 de Apr del 2026 a las 01:51 PM",
     "hora_utc": "2026-04-05 17:51",
-    "mensaje": "🚨Por déficit de capacidad de generación se afecta el servicio en el siguiente circuito:\n*Jaruco 🚨",
+    "mensaje": "🚨Por déficit de capacidad de generación se afecta el servicio en los siguientes circuitos:\n*Jaruco\n*2440 🚨",
     "timestamp": 1775411472,
     "timestamp_local": 1775411472
   },
@@ -150,13 +158,5 @@
     "mensaje": "🚨Por déficit de capacidad de generación se afecta el servicio en el siguiente circuito:\n*Catalina 1 y 2 🚨",
     "timestamp": 1775396956,
     "timestamp_local": 1775396956
-  },
-  {
-    "id": 111283,
-    "fecha": "05 de Apr del 2026 a las 08:26 AM",
-    "hora_utc": "2026-04-05 12:26",
-    "mensaje": "🚨Por déficit de capacidad de generación se afecta el servicio en el siguiente circuito:\n*Camacho 🚨",
-    "timestamp": 1775391964,
-    "timestamp_local": 1775391964
   }
 ]
