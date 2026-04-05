@@ -1,5 +1,21 @@
 [
   {
+    "id": 111269,
+    "fecha": "05 de Apr del 2026 a las 03:17 AM",
+    "hora_utc": "2026-04-05 07:17",
+    "mensaje": "🚨Por déficit de capacidad de generación se afecta el servicio en los siguientes circuitos:\n*Melena 1 y 2🚨",
+    "timestamp": 1775373455,
+    "timestamp_local": 1775373455
+  },
+  {
+    "id": 111268,
+    "fecha": "05 de Apr del 2026 a las 03:02 AM",
+    "hora_utc": "2026-04-05 07:02",
+    "mensaje": "🚨Por déficit de capacidad de generación se afecta el servicio en el siguiente circuito:\n*Caamaño🚨",
+    "timestamp": 1775372535,
+    "timestamp_local": 1775372535
+  },
+  {
     "id": 111266,
     "fecha": "05 de Apr del 2026 a las 02:16 AM",
     "hora_utc": "2026-04-05 06:16",
@@ -102,29 +118,5 @@
     "mensaje": "🚨Por déficit de capacidad de generación se afecta el servicio en los siguientes circuitos:\n*2420\n*2440\n*Camilo🚨",
     "timestamp": 1775346976,
     "timestamp_local": 1775346976
-  },
-  {
-    "id": 111248,
-    "fecha": "04 de Apr del 2026 a las 07:21 PM",
-    "hora_utc": "2026-04-04 23:21",
-    "mensaje": "🔷Informamos a los clientes del circuito Catalina 2 y los Pozos del Gato que se encuentran con servicio los cuales se encontraban afectados por avería🔷",
-    "timestamp": 1775344874,
-    "timestamp_local": 1775344874
-  },
-  {
-    "id": 111247,
-    "fecha": "04 de Apr del 2026 a las 07:14 PM",
-    "hora_utc": "2026-04-04 23:14",
-    "mensaje": "🔷Restablecido el servicio en el circuito Ganuza que se encontraba afectado por disparo en las líneas🔷",
-    "timestamp": 1775344492,
-    "timestamp_local": 1775344492
-  },
-  {
-    "id": 111246,
-    "fecha": "04 de Apr del 2026 a las 07:11 PM",
-    "hora_utc": "2026-04-04 23:11",
-    "mensaje": "♦️Afectado el servicio en el circuito Ganuza por disparo en las líneas♦️",
-    "timestamp": 1775344269,
-    "timestamp_local": 1775344269
   }
 ]
