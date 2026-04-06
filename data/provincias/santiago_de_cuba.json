@@ -1,5 +1,29 @@
 [
   {
+    "id": 51913,
+    "fecha": "05 de Apr del 2026 a las 07:44 PM",
+    "hora_utc": "2026-04-05 23:44",
+    "mensaje": "🔴Estimados clientes se les informa que se incorporan a la afectación los circuitos 25 y 19.",
+    "timestamp": 1775432643,
+    "timestamp_local": 1775432643
+  },
+  {
+    "id": 51912,
+    "fecha": "05 de Apr del 2026 a las 07:32 PM",
+    "hora_utc": "2026-04-05 23:32",
+    "mensaje": "🔴Estimados clientes se les informa que se incorporan a la afectación las líneas 5395 San Luis  y la 4435 Contramaestre.",
+    "timestamp": 1775431947,
+    "timestamp_local": 1775431947
+  },
+  {
+    "id": 51911,
+    "fecha": "05 de Apr del 2026 a las 07:30 PM",
+    "hora_utc": "2026-04-05 23:30",
+    "mensaje": "🔴Estimados clientes se les informa que se incorporan a la  afectación la línea 5335 Guama y los circuitos 24 , 26 , 16 , 4 de Palma , y el 14 seccionalizado .",
+    "timestamp": 1775431826,
+    "timestamp_local": 1775431826
+  },
+  {
     "id": 51910,
     "fecha": "05 de Apr del 2026 a las 05:36 PM",
     "hora_utc": "2026-04-05 21:36",
@@ -118,29 +142,5 @@
     "mensaje": "🔊Estimado clientes en estos momentos se encuentran afectados por Déficit de Capacidad de Generación el circuito 8",
     "timestamp": 1775395510,
     "timestamp_local": 1775395510
-  },
-  {
-    "id": 51893,
-    "fecha": "05 de Apr del 2026 a las 07:40 AM",
-    "hora_utc": "2026-04-05 11:40",
-    "mensaje": "🔊Estimados clientes, se incorpora a la afectación el circuito 14 de Santiago.",
-    "timestamp": 1775389229,
-    "timestamp_local": 1775389229
-  },
-  {
-    "id": 51892,
-    "fecha": "05 de Apr del 2026 a las 07:25 AM",
-    "hora_utc": "2026-04-05 11:25",
-    "mensaje": "Automático de Frecuencia (Disparo DAF):\nOcurre cuando la frecuencia está por debajo de los 60Hz y determinada carga o circuito se desconecta del sistema automáticamente hasta que se estabilice.",
-    "timestamp": 1775388349,
-    "timestamp_local": 1775388349
-  },
-  {
-    "id": 51891,
-    "fecha": "05 de Apr del 2026 a las 07:25 AM",
-    "hora_utc": "2026-04-05 11:25",
-    "mensaje": "🔴Estimados clientes en estos momentos se encuentra disparado por DAF el circuito 4 Palma.",
-    "timestamp": 1775388333,
-    "timestamp_local": 1775388333
   }
 ]
