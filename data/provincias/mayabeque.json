@@ -1,5 +1,21 @@
 [
   {
+    "id": 111347,
+    "fecha": "06 de Apr del 2026 a las 11:37 AM",
+    "hora_utc": "2026-04-06 15:37",
+    "mensaje": "🔷 Con servicio las siguientes zonas correspondientes al circuito de Melena 1 que se encontraba afectado por posible avería:\n*Monte \n*San José del Río\n*CPA Eulalio García\n*Taller de Maquinaria Plaza\n*Sistema de Riego y zonas aledañas 🔷",
+    "timestamp": 1775489871,
+    "timestamp_local": 1775489871
+  },
+  {
+    "id": 111346,
+    "fecha": "06 de Apr del 2026 a las 11:31 AM",
+    "hora_utc": "2026-04-06 15:31",
+    "mensaje": "🔷 Restablecido el servicio en el circuito 3130 que se encontraba afectado por manipulación 🔷",
+    "timestamp": 1775489461,
+    "timestamp_local": 1775489461
+  },
+  {
     "id": 111345,
     "fecha": "06 de Apr del 2026 a las 11:25 AM",
     "hora_utc": "2026-04-06 15:25",
@@ -110,13 +126,5 @@
     "mensaje": "🚨Por déficit de capacidad de generación se afecta el servicio en el siguiente circuito:\n*Catalina 1 y 2🚨",
     "timestamp": 1775461794,
     "timestamp_local": 1775461794
-  },
-  {
-    "id": 111326,
-    "fecha": "06 de Apr del 2026 a las 01:34 AM",
-    "hora_utc": "2026-04-06 05:34",
-    "mensaje": "🚨Por déficit de capacidad de generación se afecta el servicio en el siguiente circuito:\n*Melena 1 y 2\n*Güines 3 🚨",
-    "timestamp": 1775453662,
-    "timestamp_local": 1775453662
   }
 ]
