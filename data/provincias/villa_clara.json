@@ -1,5 +1,37 @@
 [
   {
+    "id": 43836,
+    "fecha": "06 de Apr del 2026 a las 05:58 PM",
+    "hora_utc": "2026-04-06 21:58",
+    "mensaje": "⚠️Afectado el servicio eléctrico en los siguientes circuitos:\n🔹Municipio Santa Clara: \n👉Cto 167 (Virginia)\n👉Cto 170 (José Martí)\n👉Cto 171 (Los Caneyes)\n🔹Municipio Camajuaní:\n👉Cto 185 (Vueltas)",
+    "timestamp": 1775512725,
+    "timestamp_local": 1775512725
+  },
+  {
+    "id": 43835,
+    "fecha": "06 de Apr del 2026 a las 05:41 PM",
+    "hora_utc": "2026-04-06 21:41",
+    "mensaje": "⚠️Afectado el servicio eléctrico en los siguientes circuitos:\n🔹Municipio Ranchuelo:\n👉Ctos 54, 94 y 95 Jicotea\n🔹Municipio Placetas\n👉Cto 99",
+    "timestamp": 1775511700,
+    "timestamp_local": 1775511700
+  },
+  {
+    "id": 43834,
+    "fecha": "06 de Apr del 2026 a las 05:15 PM",
+    "hora_utc": "2026-04-06 21:15",
+    "mensaje": "⚡Afectado por avería Cto 7(Universidad), perteneciente al Municipio Santa Clara por cables en corto circuito intenso.",
+    "timestamp": 1775510115,
+    "timestamp_local": 1775510115
+  },
+  {
+    "id": 43833,
+    "fecha": "06 de Apr del 2026 a las 05:11 PM",
+    "hora_utc": "2026-04-06 21:11",
+    "mensaje": "⚠️Afectado el servicio eléctrico en los siguientes circuitos:\n🔹Municipio Santa Clara\n👉Cto 13 (Zona Industrial)\n🔹Municipio Encrucijada:\n👉Cto 122 Encrucijada  \n👉Cto 123 Vizcaya \n👉Cto 142 Comunidad La Sierra \n👉Cto 126 Batey Emilio Córdova\n👉Cto 125 Cavarrocas\n👉Cto 124 El Santo\n🔹Municipio Camajuaní:                                                              \n👉Cto 78 Jutiero\n👉Cto 75 La Quinta\n👉Cto 157 Luis Arcos Bergnes\n👉Ctos 76 y 90 Vega Alta",
+    "timestamp": 1775509869,
+    "timestamp_local": 1775509869
+  },
+  {
     "id": 43832,
     "fecha": "06 de Apr del 2026 a las 04:44 PM",
     "hora_utc": "2026-04-06 20:44",
@@ -126,37 +158,5 @@
     "mensaje": "✅Actualización del servicio eléctrico en la provincia.\n✍️De los circuitos apagables que presenta la provincia, se mantienen afectados 107 circuitos.\n✍️En el momento de hacer esta nota la provincia tiene 80 MW de afectación por déficit de capacidad de generación, demanda máxima posible a apagar en estos momentos.\n✍️Cuenta con 155 afectaciones por averías secundarias y de servicio.",
     "timestamp": 1775498903,
     "timestamp_local": 1775498903
-  },
-  {
-    "id": 43816,
-    "fecha": "06 de Apr del 2026 a las 02:06 PM",
-    "hora_utc": "2026-04-06 18:06",
-    "mensaje": "✅Ante cualquier duda con la terminología eléctrica, les volvemos explicar: \n     \n✍️Las averías pueden ser primarias (afecta un volumen grande de población pues son las líneas de distribución a 13.8kV y puede afectar varias manzanas, incluso repartos completos).\n\n✍️Secundarias (afecta a todos los clientes que se alimenten del mismo transformador, puede afectar una o varias cuadras). \n\n✍️De servicio (afectan 1 solo cliente o instalación generalmente producto a daños en la acometida, metro contador, etc.).",
-    "timestamp": 1775498805,
-    "timestamp_local": 1775498805
-  },
-  {
-    "id": 43815,
-    "fecha": "06 de Apr del 2026 a las 02:05 PM",
-    "hora_utc": "2026-04-06 18:05",
-    "mensaje": "💡Con servicio eléctrico el siguiente circuito:\n🔹Municipio Santa Clara\n👉Ctos 132 (Santa Clara Industrial)",
-    "timestamp": 1775498702,
-    "timestamp_local": 1775498702
-  },
-  {
-    "id": 43814,
-    "fecha": "06 de Apr del 2026 a las 01:52 PM",
-    "hora_utc": "2026-04-06 17:52",
-    "mensaje": "💡Con servicio eléctrico los siguientes circuitos:\n🔹Municipio Santa Clara: \n👉Cto 167 (Virginia)\n👉Cto 170 (José Martí)\n👉Cto 171 (Los Caneyes)",
-    "timestamp": 1775497960,
-    "timestamp_local": 1775497960
-  },
-  {
-    "id": 43813,
-    "fecha": "06 de Apr del 2026 a las 01:41 PM",
-    "hora_utc": "2026-04-06 17:41",
-    "mensaje": "⚠️Afectado el servicio eléctrico en los siguientes circuitos:\n🔹Municipio Corralillo:\n👉Ctos 58 y 159 \n👉Cto 57 Motembo \n👉Cto 56 Yabre\n👉Cto 60 La Sierra\n👉Cto 55 Rancho Veloz",
-    "timestamp": 1775497264,
-    "timestamp_local": 1775497264
   }
 ]
