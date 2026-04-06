@@ -1,5 +1,45 @@
 [
   {
+    "id": 43790,
+    "fecha": "06 de Apr del 2026 a las 10:35 AM",
+    "hora_utc": "2026-04-06 14:35",
+    "mensaje": "⚠️Afectado el servicio eléctrico en el siguiente circuito:\n🔹Municipio Santa Clara: \n👉Cto 166 (Condado)",
+    "timestamp": 1775486151,
+    "timestamp_local": 1775486151
+  },
+  {
+    "id": 43789,
+    "fecha": "06 de Apr del 2026 a las 10:13 AM",
+    "hora_utc": "2026-04-06 14:13",
+    "mensaje": "💡Con servicio eléctrico los siguientes circuitos:\n🔹Municipio Santa Clara\n👉Cto 7 (Universidad)  \n👉Cto 146 (Elevado Aeropuerto) \n👉Cto 22 (Construcciones Textil)\n👉Cto 131 (Las Antillas)\n👉Cto 153 (EIDE)\n👉Cto 25 (Los Güiros)\n👉Cto 24 (Planta Asfalto)\n👉Cto 35 (Biotecnología) \n👉Ctos 14, 15 y 27 (Maleza)",
+    "timestamp": 1775484784,
+    "timestamp_local": 1775484784
+  },
+  {
+    "id": 43788,
+    "fecha": "06 de Apr del 2026 a las 10:10 AM",
+    "hora_utc": "2026-04-06 14:10",
+    "mensaje": "💡Con servicio eléctrico los siguientes circuitos:\n🔹Municipio Encrucijada\n👉Cto 120 Calabaza\n👉Ctos 121 y 127 Perucho",
+    "timestamp": 1775484611,
+    "timestamp_local": 1775484611
+  },
+  {
+    "id": 43787,
+    "fecha": "06 de Apr del 2026 a las 10:08 AM",
+    "hora_utc": "2026-04-06 14:08",
+    "mensaje": "💡Con servicio eléctrico los siguientes circuitos:\n🔹Municipio Remedios:\n👉Ctos  68 y 118 \n👉Ctos 69 y 70 Zuluetas\n👉Cto 143 Batey Heriberto Duquezne \n👉Cto 71 Buena Vista",
+    "timestamp": 1775484500,
+    "timestamp_local": 1775484500
+  },
+  {
+    "id": 43786,
+    "fecha": "06 de Apr del 2026 a las 10:05 AM",
+    "hora_utc": "2026-04-06 14:05",
+    "mensaje": "💡Con servicio eléctrico los siguientes circuitos:\n🔹Municipio Corralillo:\n👉Ctos 58 y 159 \n👉Cto 57 Motembo \n👉Cto 56 Yabre\n👉Cto 60 La Sierra\n🔹Municipio Quemado:\n👉Cto 196 Batey Panchito Gómez Toro.",
+    "timestamp": 1775484311,
+    "timestamp_local": 1775484311
+  },
+  {
     "id": 43785,
     "fecha": "06 de Apr del 2026 a las 09:30 AM",
     "hora_utc": "2026-04-06 13:30",
@@ -43,7 +83,7 @@
     "id": 43779,
     "fecha": "06 de Apr del 2026 a las 09:05 AM",
     "hora_utc": "2026-04-06 13:05",
-    "mensaje": "💡Con servicio eléctrico los siguientes circuitos:\n🔹Municipio Sagua\n👉Ctos 43, 51 Sagua\n👉Cto 44 Isabela",
+    "mensaje": "💡Con servicio eléctrico los siguientes circuitos:\n🔹Municipio Sagua\n👉Ctos 43, 51 Sagua\n👉Cto 44 Isabela\n🔹Municipio Camajuani\n👉Cto 74 José María Pérez",
     "timestamp": 1775480705,
     "timestamp_local": 1775480705
   },
@@ -102,45 +142,5 @@
     "mensaje": "Las energías renovables:\nSon aquellas que provienen de fuentes naturales e inagotables como el viento , el sol y el agua.\nTienen un impacto significativo ya que logran recuperar la ecosistemas, disminuyen el calentamiento global, permiten el aumento de la calidad de vida , son fuentes de energía inagotables, no generan residuos y sin fuentes de energía autóctonas.\n\n\nEnergía Solar Fotovoltaica:\nSe trata del aprovechamiento de la energía que procede del sol y su transformación en energía eléctrica. La corriente eléctrica producida podrá ser directamente consumidas almacenarse en baterías o acumuladores o adaptarse para su incorporación a la red eléctrica.",
     "timestamp": 1775458361,
     "timestamp_local": 1775458361
-  },
-  {
-    "id": 43770,
-    "fecha": "06 de Apr del 2026 a las 02:02 AM",
-    "hora_utc": "2026-04-06 06:02",
-    "mensaje": "✅Ante cualquier duda con la terminología eléctrica, les volvemos explicar: \n     \n✍️Las averías pueden ser primarias (afecta un volumen grande de población pues son las líneas de distribución a 13.8kV y puede afectar varias manzanas, incluso repartos completos).\n\n✍️Secundarias (afecta a todos los clientes que se alimenten del mismo transformador, puede afectar una o varias cuadras). \n\n✍️De servicio (afectan 1 solo cliente o instalación generalmente producto a daños en la acometida, metro contador, etc.).",
-    "timestamp": 1775455348,
-    "timestamp_local": 1775455348
-  },
-  {
-    "id": 43769,
-    "fecha": "06 de Apr del 2026 a las 01:21 AM",
-    "hora_utc": "2026-04-06 05:21",
-    "mensaje": "➡️Recordamos a nuestros clientes\n \n1️⃣. Si presenta o conoce alguna avería, haga su reporte al Centro de Atención Telefónico mediante el 18888, estamos a su servicio.\n2️⃣. Conocer de forma exacta la dirección de su vivienda (número de casa, calle, entre calles, reparto, localidad)\n3️⃣. Ubicar un punto de referencia, que permita llegar hasta su vivienda con mayor rapidez (lugar o persona reconocida en la zona)\n4️⃣. En caso de un cable caído, aunque usted crea que no está energizado, NO LO TOQUE. Repórtelo y preserve el lugar, hasta que llegue el personal de la Empresa.\n5️⃣. Anote el número de su reporte para ser utilizado en caso de reclamaciones, o para comprobar el estado del mismo.\n6️⃣. Si usted tiene servicio eléctrico, pero existen variaciones del voltaje, desconecte los equipos, para que no se dañen.",
-    "timestamp": 1775452895,
-    "timestamp_local": 1775452895
-  },
-  {
-    "id": 43768,
-    "fecha": "06 de Apr del 2026 a las 01:05 AM",
-    "hora_utc": "2026-04-06 05:05",
-    "mensaje": "⚡En avería de manera parcial el Cto 185 (Vueltas) perteneciente al municipio Camajuaní, por neutros y primarios partidos, actualmente se encuentra afectado por déficit.",
-    "timestamp": 1775451956,
-    "timestamp_local": 1775451956
-  },
-  {
-    "id": 43767,
-    "fecha": "06 de Apr del 2026 a las 12:49 AM",
-    "hora_utc": "2026-04-06 04:49",
-    "mensaje": "⚠️Afectado el servicio eléctrico en los siguientes circuitos:\n🔹Municipio Camajuaní\n👉Ctos 77, 59 y 185 Vueltas",
-    "timestamp": 1775450981,
-    "timestamp_local": 1775450981
-  },
-  {
-    "id": 43766,
-    "fecha": "05 de Apr del 2026 a las 11:35 PM",
-    "hora_utc": "2026-04-06 03:35",
-    "mensaje": "🛠️Culminadas las labores en el Cto 2 (Centro), perteneciente al municipio Santa Clara.",
-    "timestamp": 1775446551,
-    "timestamp_local": 1775446551
   }
 ]
