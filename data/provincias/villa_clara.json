@@ -1,5 +1,45 @@
 [
   {
+    "id": 43832,
+    "fecha": "06 de Apr del 2026 a las 04:44 PM",
+    "hora_utc": "2026-04-06 20:44",
+    "mensaje": "⚠️Afectado el servicio eléctrico en los siguientes circuitos:\n🔹Municipio Ranchuelo:\n👉Cto 92 Esperanza (Pueblo)\n👉Cto 93 Esperanza (Campo)\n🔹Municipio Santa Clara\n👉Ctos 26 y 141 (Manuelita)\n👉Cto 191 (Quemado de Hilario)     \n👉Ctos 1 y 2 (Consejo Centro)",
+    "timestamp": 1775508259,
+    "timestamp_local": 1775508259
+  },
+  {
+    "id": 43831,
+    "fecha": "06 de Apr del 2026 a las 04:42 PM",
+    "hora_utc": "2026-04-06 20:42",
+    "mensaje": "💡Con servicio eléctrico los siguientes circuitos:\n🔹Municipio Santa Clara\n👉Cto 7 (Universidad)  \n👉Cto 131 (Las Antillas)",
+    "timestamp": 1775508137,
+    "timestamp_local": 1775508137
+  },
+  {
+    "id": 43830,
+    "fecha": "06 de Apr del 2026 a las 04:14 PM",
+    "hora_utc": "2026-04-06 20:14",
+    "mensaje": "💡Con servicio eléctrico los siguientes circuitos:\n➡️Línea 1205\n🔹Municipio Sagua\n👉Ctos 43, 51 Sagua\n👉Cto 44 Isabela\n👉Ctos 50 y 147 Villa Alegre(Se encuentra afectado por Déficit)",
+    "timestamp": 1775506480,
+    "timestamp_local": 1775506480
+  },
+  {
+    "id": 43829,
+    "fecha": "06 de Apr del 2026 a las 04:12 PM",
+    "hora_utc": "2026-04-06 20:12",
+    "mensaje": "💡Con servicio eléctrico los siguientes circuitos:\n🔹Municipio Santa Clara:\n👉Ctos 30, 193,132 y 162 (Santa Clara Industrial)\n👉Cto  169 (Condado)",
+    "timestamp": 1775506377,
+    "timestamp_local": 1775506377
+  },
+  {
+    "id": 43828,
+    "fecha": "06 de Apr del 2026 a las 04:09 PM",
+    "hora_utc": "2026-04-06 20:09",
+    "mensaje": "✅Actualización del servicio eléctrico en la provincia.\n✍️De los circuitos apagables que presenta la provincia, se mantienen afectados 118 circuitos.\n✍️En el momento de hacer esta nota la provincia tiene 96 MW de afectación por déficit de capacidad de generación, demanda máxima posible a apagar en estos momentos.\n✍️Cuenta con 134afectaciones por averías secundarias y de servicio.",
+    "timestamp": 1775506163,
+    "timestamp_local": 1775506163
+  },
+  {
     "id": 43827,
     "fecha": "06 de Apr del 2026 a las 04:07 PM",
     "hora_utc": "2026-04-06 20:07",
@@ -118,45 +158,5 @@
     "mensaje": "⚠️Afectado el servicio eléctrico en los siguientes circuitos:\n🔹Municipio Corralillo:\n👉Ctos 58 y 159 \n👉Cto 57 Motembo \n👉Cto 56 Yabre\n👉Cto 60 La Sierra\n👉Cto 55 Rancho Veloz",
     "timestamp": 1775497264,
     "timestamp_local": 1775497264
-  },
-  {
-    "id": 43812,
-    "fecha": "06 de Apr del 2026 a las 01:37 PM",
-    "hora_utc": "2026-04-06 17:37",
-    "mensaje": "💡Con servicio eléctrico el siguiente circuito:\n🔹Municipio Santa Clara:\n👉Cto 166 (Condado)",
-    "timestamp": 1775497070,
-    "timestamp_local": 1775497070
-  },
-  {
-    "id": 43811,
-    "fecha": "06 de Apr del 2026 a las 01:35 PM",
-    "hora_utc": "2026-04-06 17:35",
-    "mensaje": "⚠️Afectado el servicio eléctrico en los siguientes circuitos:\n🔹Municipio Santa Clara:\n👉 Ctos 3 y 4 ( Consejo-Centro)",
-    "timestamp": 1775496956,
-    "timestamp_local": 1775496956
-  },
-  {
-    "id": 43810,
-    "fecha": "06 de Apr del 2026 a las 01:30 PM",
-    "hora_utc": "2026-04-06 17:30",
-    "mensaje": "⚠️Afectado el servicio eléctrico en los siguientes circuitos:\n🔹Municipio Placetas:\n👉Cto 192 Benito Juárez\n👉Cto 102 Peroti",
-    "timestamp": 1775496644,
-    "timestamp_local": 1775496644
-  },
-  {
-    "id": 43809,
-    "fecha": "06 de Apr del 2026 a las 01:25 PM",
-    "hora_utc": "2026-04-06 17:25",
-    "mensaje": "💡Con servicio eléctrico  Línea 108\n➡️Línea 108\n🔹Municipio Ranchuelo:\n👉Cto 92 Esperanza (Pueblo)\n👉Cto 93 Esperanza (Campo)\n🔹Municipio Santa Clara\n👉Ctos 26 y 141 (Manuelita)\n👉Cto 191 (Quemado de Hilario)",
-    "timestamp": 1775496352,
-    "timestamp_local": 1775496352
-  },
-  {
-    "id": 43808,
-    "fecha": "06 de Apr del 2026 a las 01:15 PM",
-    "hora_utc": "2026-04-06 17:15",
-    "mensaje": "🛠️Afectada por manipulación por emergencia Linea 108\n➡️Línea 108\n🔹Municipio Ranchuelo:\n👉Cto 92 Esperanza (Pueblo)\n👉Cto 93 Esperanza (Campo)\n🔹Municipio Santa Clara\n👉Ctos 26 y 141 (Manuelita)\n👉Cto 191 (Quemado de Hilario)",
-    "timestamp": 1775495753,
-    "timestamp_local": 1775495753
   }
 ]

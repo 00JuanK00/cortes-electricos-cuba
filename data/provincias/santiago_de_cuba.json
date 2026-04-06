@@ -1,5 +1,29 @@
 [
   {
+    "id": 51953,
+    "fecha": "06 de Apr del 2026 a las 04:55 PM",
+    "hora_utc": "2026-04-06 20:55",
+    "mensaje": "🚨Automático de Frecuencia (Disparo DAF):\nOcurre cuando la frecuencia está por debajo de los 60Hz y determinada carga o circuito se desconecta del sistema automáticamente hasta que se estabilice.",
+    "timestamp": 1775508927,
+    "timestamp_local": 1775508927
+  },
+  {
+    "id": 51952,
+    "fecha": "06 de Apr del 2026 a las 04:55 PM",
+    "hora_utc": "2026-04-06 20:55",
+    "mensaje": "🔊Estimado clientes en estos momentos se encuentra Disparado por DAF el circuito 4 de Palma",
+    "timestamp": 1775508911,
+    "timestamp_local": 1775508911
+  },
+  {
+    "id": 51951,
+    "fecha": "06 de Apr del 2026 a las 04:31 PM",
+    "hora_utc": "2026-04-06 20:31",
+    "mensaje": "🔴Estimados clientes se les comunica que en estos momentos se afectaron por Déficit los circuitos 1, 25 , 23 y LI 5395-San Luis.",
+    "timestamp": 1775507480,
+    "timestamp_local": 1775507480
+  },
+  {
     "id": 51949,
     "fecha": "06 de Apr del 2026 a las 03:13 PM",
     "hora_utc": "2026-04-06 19:13",
@@ -62,29 +86,5 @@
     "mensaje": "🚨Estimados clientes en estos momentos se encuentra afectado por Déficit la Línea 5380-Mella.",
     "timestamp": 1775480958,
     "timestamp_local": 1775480958
-  },
-  {
-    "id": 51933,
-    "fecha": "06 de Apr del 2026 a las 07:28 AM",
-    "hora_utc": "2026-04-06 11:28",
-    "mensaje": "🔴Estimados clientes se les informa que se incorporan a la afectación la línea 5335 Guama y los circuitos 1 y 2 .",
-    "timestamp": 1775474919,
-    "timestamp_local": 1775474919
-  },
-  {
-    "id": 51932,
-    "fecha": "06 de Apr del 2026 a las 06:58 AM",
-    "hora_utc": "2026-04-06 10:58",
-    "mensaje": "🔴Estimados clientes se les informa que se incorpora a la afectación el circuito 4 de Palma.",
-    "timestamp": 1775473082,
-    "timestamp_local": 1775473082
-  },
-  {
-    "id": 51931,
-    "fecha": "06 de Apr del 2026 a las 06:36 AM",
-    "hora_utc": "2026-04-06 10:36",
-    "mensaje": "🔴Estimados clientes se les informa que se incorporan a la afectación los circuitos 13 , 20 , 26 , 19 , 21 , el 14 seccionalizado , 23 y el 25.",
-    "timestamp": 1775471765,
-    "timestamp_local": 1775471765
   }
 ]
