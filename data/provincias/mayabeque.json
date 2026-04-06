@@ -1,9 +1,17 @@
 [
   {
+    "id": 111331,
+    "fecha": "06 de Apr del 2026 a las 06:34 AM",
+    "hora_utc": "2026-04-06 10:34",
+    "mensaje": "🔴 A las 03:00 horas. Salió de servicio la CTE Antonio Guiteras por ponchadura en caldera.",
+    "timestamp": 1775471648,
+    "timestamp_local": 1775471648
+  },
+  {
     "id": 111330,
     "fecha": "06 de Apr del 2026 a las 05:14 AM",
     "hora_utc": "2026-04-06 09:14",
-    "mensaje": "🚨Por déficit de capacidad de generación se afecta el servicio en el siguiente circuito:\n*Güines 1l🚨",
+    "mensaje": "🚨Por déficit de capacidad de generación se afecta el servicio en el siguiente circuito:\n*Güines 1🚨",
     "timestamp": 1775466847,
     "timestamp_local": 1775466847
   },
@@ -19,7 +27,7 @@
     "id": 111326,
     "fecha": "06 de Apr del 2026 a las 01:34 AM",
     "hora_utc": "2026-04-06 05:34",
-    "mensaje": "🚨Por déficit de capacidad de generación se afecta el servicio en el siguiente circuito:\n*Melena 1 y 2🚨",
+    "mensaje": "🚨Por déficit de capacidad de generación se afecta el servicio en el siguiente circuito:\n*Melena 1 y 2\n*Güines 3 🚨",
     "timestamp": 1775453662,
     "timestamp_local": 1775453662
   },
@@ -118,13 +126,5 @@
     "mensaje": "🚨Por déficit de capacidad de generación se afecta el servicio en el siguiente circuito:\n*Camacho\n*Batabanó\n*Surgidero 🚨",
     "timestamp": 1775427530,
     "timestamp_local": 1775427530
-  },
-  {
-    "id": 111311,
-    "fecha": "05 de Apr del 2026 a las 06:17 PM",
-    "hora_utc": "2026-04-05 22:17",
-    "mensaje": "🚨Por déficit de capacidad de generación se afecta el servicio en el siguiente circuito:\n*Fénix 🚨",
-    "timestamp": 1775427464,
-    "timestamp_local": 1775427464
   }
 ]
