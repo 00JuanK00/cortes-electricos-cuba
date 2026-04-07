@@ -1,5 +1,37 @@
 [
   {
+    "id": 43892,
+    "fecha": "07 de Apr del 2026 a las 02:00 PM",
+    "hora_utc": "2026-04-07 18:00",
+    "mensaje": "💡Restablecido el servicio eléctrico en la Línea 861.\n➡️Línea 861 (113)\n🔹Municipio Santa Clara:\n👉Cto 5 (Dobarganes)\n👉Cto 17 (Subplanta) \n👉Ctos 37 y 38 (Yabú)   \n👉Cto 9 (Moldes y Troqueles)\n👉Cto 133 (Taller Cafetera)",
+    "timestamp": 1775584859,
+    "timestamp_local": 1775584859
+  },
+  {
+    "id": 43891,
+    "fecha": "07 de Apr del 2026 a las 01:57 PM",
+    "hora_utc": "2026-04-07 17:57",
+    "mensaje": "✅Actualización del servicio eléctrico en la provincia.\n✍️De los circuitos apagables que presenta la provincia, se mantienen afectados 136 circuitos.\n✍️En el momento de hacer esta nota la provincia tiene 108 MW de afectación por déficit de capacidad de generación, demanda máxima posible a apagar en estos momentos.\n✍️Cuenta con 164 afectaciones por averías secundarias y de servicio.",
+    "timestamp": 1775584670,
+    "timestamp_local": 1775584670
+  },
+  {
+    "id": 43890,
+    "fecha": "07 de Apr del 2026 a las 01:54 PM",
+    "hora_utc": "2026-04-07 17:54",
+    "mensaje": "⚠️Afectado el servicio eléctrico en los siguientes circuitos:\n🔹Municipio Encrucijada:\n👉Cto 122 Encrucijada  \n👉Cto 123 Vizcaya \n👉Cto 142 Comunidad La Sierra \n👉Cto 126 Batey Emilio Córdova\n👉Cto 125 Cavarrocas\n👉Cto 124 El Santo\n🔹Municipio Camajuaní:                                                              \n👉Cto 78 Jutiero\n👉Cto 75 La Quinta\n👉Cto 157 Luis Arcos Bergnes\n👉Ctos 76 y 90 Vega Alta",
+    "timestamp": 1775584475,
+    "timestamp_local": 1775584475
+  },
+  {
+    "id": 43889,
+    "fecha": "07 de Apr del 2026 a las 01:48 PM",
+    "hora_utc": "2026-04-07 17:48",
+    "mensaje": "🛠️Afectada por manipulación la Línea 861.\n➡️Línea 861 (113)\n🔹Municipio Santa Clara:\n👉Cto 5 (Dobarganes)\n👉Cto 17 (Subplanta) \n👉Ctos 37(afectado por avería) y 38 (Yabú)   \n👉Cto 9 (Moldes y Troqueles)\n👉Cto 133 (Taller Cafetera)",
+    "timestamp": 1775584130,
+    "timestamp_local": 1775584130
+  },
+  {
     "id": 43888,
     "fecha": "07 de Apr del 2026 a las 01:04 PM",
     "hora_utc": "2026-04-07 17:04",
@@ -118,37 +150,5 @@
     "mensaje": "🛠️Afectado por vía libre el circuito 37 del poblado Yabú, para reparar cable primario partido.",
     "timestamp": 1775574739,
     "timestamp_local": 1775574739
-  },
-  {
-    "id": 43873,
-    "fecha": "07 de Apr del 2026 a las 11:04 AM",
-    "hora_utc": "2026-04-07 15:04",
-    "mensaje": "➡️La Provincia cuenta con 5 afectaciones de servicio eléctrico por transformador dañado:\n👉Municipio Camajuani: Santa Teresa e/ Camilo Cienfuegos y Leoncio Vidal.\n👉Municipio Quemado: Callejón de Rodrigo e/ Santa María y Al lado de la escuela primaria.\n👉Municipio Remedios: Camilo Cienfuegos  e/ Cupentino Garcia y Fe del Valle.\n👉Municipio Santo Domingo: Carretera de Amaro  e/ en Batey Las Glorias y después  de la tienda en el callejón de la Teje. \n👉Municipio Santo Domingo: Carretera Corralillo km 7  e/ detrás de la Cooperativa  . Batey Bermejal",
-    "timestamp": 1775574269,
-    "timestamp_local": 1775574269
-  },
-  {
-    "id": 43872,
-    "fecha": "07 de Apr del 2026 a las 10:56 AM",
-    "hora_utc": "2026-04-07 14:56",
-    "mensaje": "⚠️Afectado el servicio eléctrico en los siguientes circuitos:\n🔹Municipio Santa Clara:\n👉Cto 5 (Dobarganes)\n👉Cto 17 (Subplanta)",
-    "timestamp": 1775573796,
-    "timestamp_local": 1775573796
-  },
-  {
-    "id": 43871,
-    "fecha": "07 de Apr del 2026 a las 10:53 AM",
-    "hora_utc": "2026-04-07 14:53",
-    "mensaje": "🛠️Afectada por manipulación la Línea 1780.\n➡️Línea 1780 (6610)\n🔹Municipio Santa Clara:\n👉Cto 16 Cubanacán \n👉Ctos 23 y 130 La Ceniza\n👉Cto 42 Manajanabo\n🔹Municipio Placetas\n👉Cto 139 Miller\n👉Cto 190 Oliver\n👉Cto 106 Falcón\n👉Ctos 98 y 99 Placetas",
-    "timestamp": 1775573629,
-    "timestamp_local": 1775573629
-  },
-  {
-    "id": 43870,
-    "fecha": "07 de Apr del 2026 a las 10:37 AM",
-    "hora_utc": "2026-04-07 14:37",
-    "mensaje": "⚡Afectada por manipulación la Línea 1715 para reparar avería en interruptor de la sub estación.\n➡️Línea 1715 \n🔹Municipio Santo Domingo:\n👉Cto 134\n👉Ctos 87 y 96 Bermejal\n👉Cto 187 Batey Carlos Baliño\n👉Cto 82 Ulacia\n👉Cto 84 Rodrigo",
-    "timestamp": 1775572620,
-    "timestamp_local": 1775572620
   }
 ]
