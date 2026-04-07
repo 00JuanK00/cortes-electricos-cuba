@@ -1,5 +1,45 @@
 [
   {
+    "id": 43886,
+    "fecha": "07 de Apr del 2026 a las 12:51 PM",
+    "hora_utc": "2026-04-07 16:51",
+    "mensaje": "⚠️Afectado el servicio eléctrico en los siguientes circuitos:\n🔹Municipio Camajuaní:\n👉Ctos  72, 129",
+    "timestamp": 1775580713,
+    "timestamp_local": 1775580713
+  },
+  {
+    "id": 43885,
+    "fecha": "07 de Apr del 2026 a las 12:49 PM",
+    "hora_utc": "2026-04-07 16:49",
+    "mensaje": "⚠️Afectado el servicio eléctrico en los siguientes circuitos:\n🔹Municipio Camajuaní:\n👉Ctos 77, 59 y 185 Vueltas",
+    "timestamp": 1775580575,
+    "timestamp_local": 1775580575
+  },
+  {
+    "id": 43884,
+    "fecha": "07 de Apr del 2026 a las 12:23 PM",
+    "hora_utc": "2026-04-07 16:23",
+    "mensaje": "💡Restablecido el servicio eléctrico en la Línea 6375.\n➡️Línea 6375 (1775)\n🔹Municipio Santa Clara\n👉Cto 7 (Universidad)  \n👉Cto 146 (Elevado Aeropuerto) \n👉Cto 22 (Construcciones Textil)\n👉Cto 131 (Las Antillas)\n👉Cto 25 (Los Güiros)\n👉Cto 24 (Planta Asfalto)\n👉Cto 35 (Biotecnología) \n👉Ctos 14, 15 y 27 (Maleza)",
+    "timestamp": 1775579036,
+    "timestamp_local": 1775579036
+  },
+  {
+    "id": 43883,
+    "fecha": "07 de Apr del 2026 a las 12:18 PM",
+    "hora_utc": "2026-04-07 16:18",
+    "mensaje": "⚠️Afectado el servicio eléctrico en los siguientes circuitos:\n🔹Municipio Manicaragua:\n👉Ctos 108 y 110 La Piedra\n👉Cto 111 Mataguá",
+    "timestamp": 1775578706,
+    "timestamp_local": 1775578706
+  },
+  {
+    "id": 43882,
+    "fecha": "07 de Apr del 2026 a las 12:06 PM",
+    "hora_utc": "2026-04-07 16:06",
+    "mensaje": "🕛Actualización del servicio eléctrico en las últimas 6 horas.\n✍️El déficit de capacidad de generación en estos momentos es de 113 MW\n✍️En el momento de esta nota, se mantienen afectados 136 circuitos.\n✍️ Cuenta con 168 afectaciones por averías secundarias y de servicio:\n🔸 Caibarién (1)\n🔸Camajuaní (15)\n🔸 Cifuentes (2)\n🔸 Corralillo (1)\n🔸 Encrucijada (3)\n🔸 Manicaragua (16)\n🔸 Placetas (20)\n🔸 Ranchuelo (3)\n🔸 Remedios (10) \n🔸 Sagua (3) \n🔸 Santa Clara (68)\n🔸 Santo Domingo (6)\n🛠️Se encuentran 5 averías en vías de solución.\n🛠️Pendientes a solucionar por el área técnica 14.\n\n⚡Averías⚡\n⚡Afectado por disparo  el circuito 153 EIDE, se estudian las causas.\n🛠️Afectado por vía libre el circuito 37 del poblado Yabú, para reparar cable primario partido.",
+    "timestamp": 1775577965,
+    "timestamp_local": 1775577965
+  },
+  {
     "id": 43881,
     "fecha": "07 de Apr del 2026 a las 11:54 AM",
     "hora_utc": "2026-04-07 15:54",
@@ -102,37 +142,5 @@
     "mensaje": "✅Actualización del servicio eléctrico en la provincia.\n✍️De los circuitos apagables que presenta la provincia, se mantienen afectados 136 circuitos.\n✍️En el momento de hacer esta nota la provincia tiene 102 MW de afectación por déficit de capacidad de generación, demanda máxima posible a apagar en estos momentos.\n✍️Cuenta con 139 afectaciones por averías secundarias y de servicio.",
     "timestamp": 1775570420,
     "timestamp_local": 1775570420
-  },
-  {
-    "id": 43866,
-    "fecha": "07 de Apr del 2026 a las 08:34 AM",
-    "hora_utc": "2026-04-07 12:34",
-    "mensaje": "⚠️Afectado el servicio eléctrico en  los siguientes circuitos:\n🔸Municipio Sagua\n👉Ctos 43, 51 Sagua",
-    "timestamp": 1775565259,
-    "timestamp_local": 1775565259
-  },
-  {
-    "id": 43865,
-    "fecha": "07 de Apr del 2026 a las 07:58 AM",
-    "hora_utc": "2026-04-07 11:58",
-    "mensaje": "✅Actualización del servicio eléctrico en la provincia.\n✍️De los circuitos apagables que presenta la provincia, se mantienen afectados 140 circuitos.\n✍️En el momento de hacer esta nota la provincia tiene 105 MW de afectación por déficit de capacidad de generación, demanda máxima posible a apagar en estos momentos.\n✍️Cuenta con 116 afectaciones por averías secundarias y de servicio.",
-    "timestamp": 1775563116,
-    "timestamp_local": 1775563116
-  },
-  {
-    "id": 43864,
-    "fecha": "07 de Apr del 2026 a las 07:25 AM",
-    "hora_utc": "2026-04-07 11:25",
-    "mensaje": "🚨Nota informativa.🚨\n\n📅Situación del SEN para el 07 de abril de 2026.\n\n👉En el día de ayer se afectó el servicio por déficit de capacidad durante las 24 horas y se ha mantenido la afectación durante la madrugada de hoy. La máxima afectación por déficit de capacidad de generación en el día de ayer fue de 1871 MW a las 20:50 horas.\n\n☀️La producción de energía de los 54 nuevos parques solares fotovoltaicos fue de 3518 MWh, con 514 MW como máxima potencia entregada en el horario de la media con esta fuente de generación.  \n\n👉La disponibilidad del SEN a las 06:00 horas es de 1200 MW, la demanda 2518 MW, con 1337 MW afectados. En el horario de la media se estima una afectación de 1250 MW.  \n\n🛠️Se encuentran en avería la unidad de la CTE Guiteras y la unidad 2 de la CTE Felton. Se encuentran en mantenimiento la unidad 5 de la CTE Mariel, la unidad 5 de la CTE Nuevitas y las unidades 3 y 6 de la CTE Renté.\n\n▪️Las limitaciones en la generación térmica son de 366 MW.\n\n▪️Se pronostica la entrada para el horario de máxima demanda de la unidad 5 de la CTE Energás Boca de Jaruco con 20 MW y el completamiento del ciclo combinado de dicha central con 20 MW. \n\n📈Con este pronóstico para el pico una disponibilidad de 1240 MW con una demanda máxima de 3080 MW, para un déficit de 1840 MW, por lo que de mantenerse las condiciones previstas se pronostica una afectación de 1870 MW en este horario.\n\nUNE-MINEM",
-    "timestamp": 1775561158,
-    "timestamp_local": 1775561158
-  },
-  {
-    "id": 43863,
-    "fecha": "07 de Apr del 2026 a las 07:25 AM",
-    "hora_utc": "2026-04-07 11:25",
-    "mensaje": "⚡ Actualización del Sistema Electroenergético Nacional para el 7 de abril de 2026.\n\nLeer más: https://www.unionelectrica.cu/nota-informativa/\n\n#UnidosXCuba #UniónEléctrica #UNE #NotaInformativa",
-    "timestamp": 1775561106,
-    "timestamp_local": 1775561106
   }
 ]
