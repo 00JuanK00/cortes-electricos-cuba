@@ -1,5 +1,45 @@
 [
   {
+    "id": 111421,
+    "fecha": "07 de Apr del 2026 a las 09:58 AM",
+    "hora_utc": "2026-04-07 13:58",
+    "mensaje": "🚨Por déficit de capacidad de generación se afecta el servicio en el siguiente circuito:\n*ML-35 🚨",
+    "timestamp": 1775570298,
+    "timestamp_local": 1775570298
+  },
+  {
+    "id": 111420,
+    "fecha": "07 de Apr del 2026 a las 09:43 AM",
+    "hora_utc": "2026-04-07 13:43",
+    "mensaje": "🔷 Con servicio el circuito 5 de San Jose que se encontraba afectado por vía libre 🔷",
+    "timestamp": 1775569392,
+    "timestamp_local": 1775569392
+  },
+  {
+    "id": 111419,
+    "fecha": "07 de Apr del 2026 a las 09:12 AM",
+    "hora_utc": "2026-04-07 13:12",
+    "mensaje": "**Nota Informativa: Estado del Sistema Eléctrico Nacional (SEN) – 7 de abril de 2026\n**En el día de ayer se afectó el servicio por déficit de capacidad durante las 24 horas y se ha mantenido la afectación durante la madrugada de hoy. La máxima afectación por déficit de capacidad de generación en el día de ayer fue de 1871 MW a las 20:50 horas.\nLa producción de energía de los 54 nuevos parques solares fotovoltaicos fue de 3518 MWh, con 514 MW como máxima potencia entregada en el horario de la media con esta fuente de generación. \n**Estado actual del SEN\n**La disponibilidad del SEN a las 06:00 horas es de 1200 MW, la demanda 2518 MW, con 1337 MW afectados. En el horario de la media se estima una afectación de 1250 MW. \n**Principales incidencias\n**Avería: Unidad 2 de la CTE Felton, Unidad de la CTE Antonio Guitera.\nMantenimiento: Unidades 5 de la CTE Mariel, Unidades 3 y 6 de la CTE Renté, Unidad 5 de la CTE Nuevitas.\nLimitaciones en la generación térmica: 366 MW fuera de servicio.\n**Pronóstico para el horario pico\n**Se pronostica la entrada para el horario de máxima demanda de la unidad 5 de la CTE Energás Boca de Jaruco con 20 MW y el completamiento del ciclo combinado de dicha central con 20 MW. \nCon este pronóstico para el pico una disponibilidad de 1240 MW con una demanda máxima de 3080 MW, para un déficit de 1840 MW, por lo que de mantenerse las condiciones previstas se pronostica una afectación de 1870 MW en este horario.",
+    "timestamp": 1775567578,
+    "timestamp_local": 1775567578
+  },
+  {
+    "id": 111416,
+    "fecha": "07 de Apr del 2026 a las 09:09 AM",
+    "hora_utc": "2026-04-07 13:09",
+    "mensaje": "♦️ Afectado el servicio en  el circuito 5 de San Jose por Vía Libre ♦️",
+    "timestamp": 1775567385,
+    "timestamp_local": 1775567385
+  },
+  {
+    "id": 111415,
+    "fecha": "07 de Apr del 2026 a las 08:52 AM",
+    "hora_utc": "2026-04-07 12:52",
+    "mensaje": "🚨Por déficit de capacidad de generación se afecta el servicio en los siguientes circuitos:\n*Catalina 1 y 2\n*Bío 2🚨",
+    "timestamp": 1775566344,
+    "timestamp_local": 1775566344
+  },
+  {
     "id": 111414,
     "fecha": "07 de Apr del 2026 a las 08:28 AM",
     "hora_utc": "2026-04-07 12:28",
@@ -86,37 +126,5 @@
     "mensaje": "🔷 Con servicio el siguiente circuito que se encontraba afectado por avería:\n* Sureste 🔷",
     "timestamp": 1775539499,
     "timestamp_local": 1775539499
-  },
-  {
-    "id": 111401,
-    "fecha": "07 de Apr del 2026 a las 12:58 AM",
-    "hora_utc": "2026-04-07 04:58",
-    "mensaje": "🔷 Con servicio los siguientes circuitos que se encontraban afectados por avería:\n*Nueva Paz\n*Los Palos 🔷",
-    "timestamp": 1775537908,
-    "timestamp_local": 1775537908
-  },
-  {
-    "id": 111400,
-    "fecha": "07 de Apr del 2026 a las 12:58 AM",
-    "hora_utc": "2026-04-07 04:58",
-    "mensaje": "🔷 Restablecido el servicio en los siguientes circuitos que se encontraban afectados por manipulación :\n*Güines 3\n*Güines 2🔷",
-    "timestamp": 1775537905,
-    "timestamp_local": 1775537905
-  },
-  {
-    "id": 111399,
-    "fecha": "07 de Apr del 2026 a las 12:00 AM",
-    "hora_utc": "2026-04-07 04:00",
-    "mensaje": "♦️ Afectados los circuitos de Güines 2 y Güines 3 por manipulación ♦️",
-    "timestamp": 1775534410,
-    "timestamp_local": 1775534410
-  },
-  {
-    "id": 111397,
-    "fecha": "06 de Apr del 2026 a las 11:55 PM",
-    "hora_utc": "2026-04-07 03:55",
-    "mensaje": "Informamos a nuestros clientes que durante el día de mañana y el miércoles se estarán realizando trabajos en la infraestructura tecnológica del teléfono de Atención al Cliente 18888.Por tal motivo no se brindará  servicio a través del mismo y usted cómo cliente  podrá utilizar los teléfonos alternativos para el reporte de su queja o la evacuación de su duda.El trabajo a  realizar permitirá una mejor calidad en la atención a nuestros clientes Lamentamos las molestias ocasionadas.",
-    "timestamp": 1775534128,
-    "timestamp_local": 1775534128
   }
 ]
