@@ -1,5 +1,45 @@
 [
   {
+    "id": 36979,
+    "fecha": "07 de Apr del 2026 a las 05:18 PM",
+    "hora_utc": "2026-04-07 21:18",
+    "mensaje": "‼️ Circuito 1500 afectado por déficit de generación ‼️",
+    "timestamp": 1775596698,
+    "timestamp_local": 1775596698
+  },
+  {
+    "id": 36978,
+    "fecha": "07 de Apr del 2026 a las 04:45 PM",
+    "hora_utc": "2026-04-07 20:45",
+    "mensaje": "👉  Actualización de los circuitos que se encuentran en afectación por déficit de generación en estos momentos en la provincia : \n\n➡️Playa Baracoa , Baracoa 3 \n➡️236 , BH 342 , 246 Bahía \n➡️ 1570 , 3185  Artemisa \n➡️1940 San Antonio\n ➡️Güira 13000, 4000\n➡️Pedro Díaz \n➡️ Beliert , Cárcel Guanajay \n➡️San Gabriel ,Bombeo Ceiba 1 \n➡️Cabaña Quiebra Hacha \n➡️4 Caminos ,Martí  San Cristóbal \n➡️San Pedro Bauta \n➡️Bauta Nueva \n➡️1580 Alquizar \n\n👉  Se afectan 115 MW distribuidos en los circuitos antes mencionados",
+    "timestamp": 1775594728,
+    "timestamp_local": 1775594728
+  },
+  {
+    "id": 36977,
+    "fecha": "07 de Apr del 2026 a las 04:30 PM",
+    "hora_utc": "2026-04-07 20:30",
+    "mensaje": "📌 Normalizado circuito 3220",
+    "timestamp": 1775593819,
+    "timestamp_local": 1775593819
+  },
+  {
+    "id": 36976,
+    "fecha": "07 de Apr del 2026 a las 04:29 PM",
+    "hora_utc": "2026-04-07 20:29",
+    "mensaje": "‼️  Restablecido circuito  3210 excepto Bombeo Ceiba 1 y San Gabriel ( pasan a cubrir horario de déficit ) ‼️",
+    "timestamp": 1775593774,
+    "timestamp_local": 1775593774
+  },
+  {
+    "id": 36975,
+    "fecha": "07 de Apr del 2026 a las 04:11 PM",
+    "hora_utc": "2026-04-07 20:11",
+    "mensaje": "‼️ Disparado circuito 3220 por tormenta ‼️",
+    "timestamp": 1775592683,
+    "timestamp_local": 1775592683
+  },
+  {
     "id": 36974,
     "fecha": "07 de Apr del 2026 a las 04:00 PM",
     "hora_utc": "2026-04-07 20:00",
@@ -118,45 +158,5 @@
     "mensaje": "🚨  Continúan afectados los circuitos por déficit \n➡️ 1580 de Alquizar\n➡️SubSan Cristóbal , 4 Caminos y el Martí\n➡️Cárcel de Guanajay\n➡️1940 de San Antonio\n✅‼️Nos encontramos con una afectación de 98MW",
     "timestamp": 1775558417,
     "timestamp_local": 1775558417
-  },
-  {
-    "id": 36959,
-    "fecha": "07 de Apr del 2026 a las 06:30 AM",
-    "hora_utc": "2026-04-07 10:30",
-    "mensaje": "🚨 Avería en el circuito de Fábrica de pienso de Alquizar que afecta una parte pendiente a recorrer",
-    "timestamp": 1775557801,
-    "timestamp_local": 1775557801
-  },
-  {
-    "id": 36958,
-    "fecha": "07 de Apr del 2026 a las 12:48 AM",
-    "hora_utc": "2026-04-07 04:48",
-    "mensaje": "🚨  Continúan afectados los circuitos por déficit \n ➡️BH342 Sub Provisional de Bahía\n➡️1570 Artemisa Candelaria\n➡️ S340Maní de San Cristobal\n➡️ Fábrica de Carretas de Güira  y 1 de la 4 mil de Melena\n➡️341 de San Cristóbal\n➡️Bombeo Ceiba 1 y San Gabriel\n➡️5040 Caimito Bauta\n➡️3220 de San Antonio manipulado\n✅‼️Nos encontramos con una afectación de 116MW",
-    "timestamp": 1775537332,
-    "timestamp_local": 1775537332
-  },
-  {
-    "id": 36957,
-    "fecha": "06 de Apr del 2026 a las 06:29 PM",
-    "hora_utc": "2026-04-06 22:29",
-    "mensaje": "🚨   Afectado por deficit el Circuito\n➡️Cárcel y Beliert de Guanajay\n\n✅‼️Nos encontramos con una afectación de 125 MW",
-    "timestamp": 1775514576,
-    "timestamp_local": 1775514576
-  },
-  {
-    "id": 36956,
-    "fecha": "06 de Apr del 2026 a las 05:54 PM",
-    "hora_utc": "2026-04-06 21:54",
-    "mensaje": "🚨   Afectado por deficit el Circuito\n➡️1580 de Alquizar\n\n✅‼️Nos encontramos con una afectación de 116 MW",
-    "timestamp": 1775512462,
-    "timestamp_local": 1775512462
-  },
-  {
-    "id": 36955,
-    "fecha": "06 de Apr del 2026 a las 05:25 PM",
-    "hora_utc": "2026-04-06 21:25",
-    "mensaje": "🚨   Afectado por deficit el Circuito\n➡️Bauta Nueva\n\n✅‼️Nos encontramos con una afectación de 113 MW",
-    "timestamp": 1775510721,
-    "timestamp_local": 1775510721
   }
 ]
