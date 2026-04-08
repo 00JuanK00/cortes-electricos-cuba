@@ -1,5 +1,45 @@
 [
   {
+    "id": 36987,
+    "fecha": "07 de Apr del 2026 a las 10:04 PM",
+    "hora_utc": "2026-04-08 02:04",
+    "mensaje": "👉 Se encuentra restablecido Bombeo Ceiba 1",
+    "timestamp": 1775613863,
+    "timestamp_local": 1775613863
+  },
+  {
+    "id": 36986,
+    "fecha": "07 de Apr del 2026 a las 09:21 PM",
+    "hora_utc": "2026-04-08 01:21",
+    "mensaje": "‼️ Afectados los siguientes circuitos por déficit de generación ‼️\n\n➡️A 1258 \n➡️A 1262 \n➡️Junco\n ➡️Güira 4000 (manipulado )\n➡️Villa  Salado \n➡️1580 Alquizar \n➡️5045 \n➡️3517 Mariel \n➡️San Pedro \n\n👉  En estos momentos tenemos una afectación de 157  MW en la provincia",
+    "timestamp": 1775611308,
+    "timestamp_local": 1775611308
+  },
+  {
+    "id": 36985,
+    "fecha": "07 de Apr del 2026 a las 09:06 PM",
+    "hora_utc": "2026-04-08 01:06",
+    "mensaje": "‼️ Afectado Bombeo Ceiba 1 por candela  en el interruptor 4048 ‼️",
+    "timestamp": 1775610369,
+    "timestamp_local": 1775610369
+  },
+  {
+    "id": 36984,
+    "fecha": "07 de Apr del 2026 a las 09:03 PM",
+    "hora_utc": "2026-04-08 01:03",
+    "mensaje": "‼️ Restablecido circuito 5040 ‼️",
+    "timestamp": 1775610183,
+    "timestamp_local": 1775610183
+  },
+  {
+    "id": 36983,
+    "fecha": "07 de Apr del 2026 a las 09:03 PM",
+    "hora_utc": "2026-04-08 01:03",
+    "mensaje": "👉 Afectado circuito 5040 por falla",
+    "timestamp": 1775610182,
+    "timestamp_local": 1775610182
+  },
+  {
     "id": 36982,
     "fecha": "07 de Apr del 2026 a las 07:32 PM",
     "hora_utc": "2026-04-07 23:32",
@@ -118,45 +158,5 @@
     "mensaje": "📌 Vía libre en el circuito 3220 (afecta  Circunvalacion  )para colocar lámparas en la Subestación",
     "timestamp": 1775582658,
     "timestamp_local": 1775582658
-  },
-  {
-    "id": 36967,
-    "fecha": "07 de Apr del 2026 a las 12:07 PM",
-    "hora_utc": "2026-04-07 16:07",
-    "mensaje": "👉 Circuito 1580 municipio Alquizar afectado por déficit de generación, tenemos afectados 106 MW en estos momentos",
-    "timestamp": 1775578040,
-    "timestamp_local": 1775578040
-  },
-  {
-    "id": 36966,
-    "fecha": "07 de Apr del 2026 a las 11:32 AM",
-    "hora_utc": "2026-04-07 15:32",
-    "mensaje": "‼️  Afectado por déficit de generación circuito A 1270  municipio Artemisa ,en estos momentos se afectan 99 MW en la provincia ‼️",
-    "timestamp": 1775575967,
-    "timestamp_local": 1775575967
-  },
-  {
-    "id": 36965,
-    "fecha": "07 de Apr del 2026 a las 10:33 AM",
-    "hora_utc": "2026-04-07 14:33",
-    "mensaje": "👉 Circuitos afectados por déficit de generacion  en estos momentos en la provincia : \n\n➡️3220 (manipulado )Onix de Cuba, San Paul , Circumbalacion \n➡️5040\n➡️PD 246 Bahía \n➡️341 San Cristóbal (manipulado ) Fierro ,Chirigota \n➡️Fca de Carretas \n➡️Junco \n➡️S-340 Maní \n\n👉Tenemos una afectación de 92 MW",
-    "timestamp": 1775572429,
-    "timestamp_local": 1775572429
-  },
-  {
-    "id": 36964,
-    "fecha": "07 de Apr del 2026 a las 10:05 AM",
-    "hora_utc": "2026-04-07 14:05",
-    "mensaje": "‼️ Restablecido circuito 3185 municipio Artemisa ‼️",
-    "timestamp": 1775570729,
-    "timestamp_local": 1775570729
-  },
-  {
-    "id": 36963,
-    "fecha": "07 de Apr del 2026 a las 09:33 AM",
-    "hora_utc": "2026-04-07 13:33",
-    "mensaje": "➡️  Disparado circuito   3185",
-    "timestamp": 1775568827,
-    "timestamp_local": 1775568827
   }
 ]

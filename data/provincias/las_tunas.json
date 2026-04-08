@@ -1,5 +1,13 @@
 [
   {
+    "id": 18694,
+    "fecha": "07 de Apr del 2026 a las 08:46 PM",
+    "hora_utc": "2026-04-08 00:46",
+    "mensaje": "Se restablece la avería en el:\n  Circuito 33 Kv: 6305",
+    "timestamp": 1775609166,
+    "timestamp_local": 1775609166
+  },
+  {
     "id": 18693,
     "fecha": "07 de Apr del 2026 a las 05:34 PM",
     "hora_utc": "2026-04-07 21:34",
@@ -126,13 +134,5 @@
     "mensaje": "Nota Informativa: Estado del Sistema Eléctrico Nacional (SEN) – 5 de abril de 2026\n\nEn el día de ayer se afectó el servicio por déficit de capacidad durante las 24 horas y se ha mantenido la afectación durante la madrugada de hoy. La máxima afectación por déficit de capacidad de generación en el día de ayer fue de 1665 MW a las 20:00 horas, superior a lo planificado por la salida de la unidad 6 de la CTE Nuevitas.\n\nLa producción de energía de los 54 nuevos parques solares fotovoltaicos fue de 3915 MWh, con 477 MW como máxima potencia entregada en el horario de la media con esta fuente de generación.\nEstado actual del SEN\n\nLa disponibilidad del SEN a las 06:00 horas es de 1258 MW, la demanda 2366 MW, con 1109 MW afectados. En el horario de la media se estima una afectación de 1250 MW.\nPrincipales incidencias\n\n    Avería: Unidad 2 de la CTE Felton y la Unidad 6 de la CTE Diez de Octubre.\n    Mantenimiento: Unidades 5 y 6 de la CTE Mariel, Unidades 3 y 6 de la CTE Renté, Unidad 5 de la CTE Nuevitas.\n    Limitaciones en la generación térmica: 450 MW fuera de servicio.\n\nPronóstico para el horario pico\n\nPara el pico se pronostica la entrada de la unidad 5 de Energás Boca de Jaruco con 20 MW.\n\nCon este pronóstico se prevé para el pico una disponibilidad de 1278 MW con una demanda máxima de 3000 MW, para un déficit de 1722 MW, por lo que de mantenerse las condiciones previstas se pronostica una afectación de 1752 MW en este horario.",
     "timestamp": 1775390615,
     "timestamp_local": 1775390615
-  },
-  {
-    "id": 18674,
-    "fecha": "04 de Apr del 2026 a las 10:47 PM",
-    "hora_utc": "2026-04-05 02:47",
-    "mensaje": "Solucionada la avería de los circuitos:\nTK12:Las 40, Nuevo Sosa \nTK6:Calle Cuba, Zona Sur de Buena Vista",
-    "timestamp": 1775357267,
-    "timestamp_local": 1775357267
   }
 ]
