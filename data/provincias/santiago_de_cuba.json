@@ -1,5 +1,21 @@
 [
   {
+    "id": 52032,
+    "fecha": "08 de Apr del 2026 a las 10:10 AM",
+    "hora_utc": "2026-04-08 14:10",
+    "mensaje": "🔊Estimados clientes se incorpora a la afectación por Déficit de Capacidad de Generación la línea 5395 San Luis, disculpe por las molestias ocasionadas.",
+    "timestamp": 1775657448,
+    "timestamp_local": 1775657448
+  },
+  {
+    "id": 52031,
+    "fecha": "08 de Apr del 2026 a las 09:18 AM",
+    "hora_utc": "2026-04-08 13:18",
+    "mensaje": "🚨Estimados clientes en estos momentos se encuentran afectados por Déficit de Capacidad de Generación los circuitos 19 y 21 de Santiago, disculpen por las molestias ocasionadas.",
+    "timestamp": 1775654328,
+    "timestamp_local": 1775654328
+  },
+  {
     "id": 52029,
     "fecha": "08 de Apr del 2026 a las 07:18 AM",
     "hora_utc": "2026-04-08 11:18",
@@ -110,21 +126,5 @@
     "mensaje": "Automático de Frecuencia (Disparo DAF):\nOcurre cuando la frecuencia está por debajo de los 60Hz y determinada carga o circuito se desconecta del sistema automáticamente hasta que se estabilice.",
     "timestamp": 1775608255,
     "timestamp_local": 1775608255
-  },
-  {
-    "id": 52012,
-    "fecha": "07 de Apr del 2026 a las 08:30 PM",
-    "hora_utc": "2026-04-08 00:30",
-    "mensaje": "Estimados clientes se les comunica que el circuito 7 acaba de afectarse por DAF.",
-    "timestamp": 1775608205,
-    "timestamp_local": 1775608205
-  },
-  {
-    "id": 52011,
-    "fecha": "07 de Apr del 2026 a las 08:27 PM",
-    "hora_utc": "2026-04-08 00:27",
-    "mensaje": "🔴Usted puede mantenerse informado por nuestras Redes y unirse a nuestro canal de Telegram ,para usted trabajamos para darle una explicación a cada ciudadano sobre la Información clara y precisa, de la situación actualizada, de cómo se está comportando la situación del Sistema Energético Nacional, puede llamar al 18888 que prestamos servicios las 24 horas, ha sido un Placer Atenderle.",
-    "timestamp": 1775608030,
-    "timestamp_local": 1775608030
   }
 ]
