@@ -1,9 +1,41 @@
 [
   {
+    "id": 44010,
+    "fecha": "08 de Apr del 2026 a las 07:10 PM",
+    "hora_utc": "2026-04-08 23:10",
+    "mensaje": "Con servicio el circuito 168 (Condado -XX Aniversario), del municipio de Santa Clara.",
+    "timestamp": 1775689814,
+    "timestamp_local": 1775689814
+  },
+  {
+    "id": 44009,
+    "fecha": "08 de Apr del 2026 a las 07:05 PM",
+    "hora_utc": "2026-04-08 23:05",
+    "mensaje": "🛠️Afectado por manipulación el circuito 168 (Condado XX Aniversario), del municipio de Santa Clara.",
+    "timestamp": 1775689556,
+    "timestamp_local": 1775689556
+  },
+  {
+    "id": 44008,
+    "fecha": "08 de Apr del 2026 a las 06:42 PM",
+    "hora_utc": "2026-04-08 22:42",
+    "mensaje": "Con servicio la línea 1785 y 129:\n🔹Municipio Santa Clara:\n👉Cto 6 (Vigía)\n👉Cto 34(Sabana Rebacadero)\n👉Ctos 32 y 33 (RF-33Kv)\n👉Cto 39 (Sandino) \n👉Cto 40 (Hospital Militar)",
+    "timestamp": 1775688161,
+    "timestamp_local": 1775688161
+  },
+  {
+    "id": 44007,
+    "fecha": "08 de Apr del 2026 a las 06:38 PM",
+    "hora_utc": "2026-04-08 22:38",
+    "mensaje": "🛠️Afectado por manipulación la línea 1785 y 129:\nAfecta los siguientes circuitos:\n🔹Municipio Santa Clara:\n👉Cto 6 (Vigía)\n👉Cto 34(Sabana Rebacadero)\n👉Ctos 32 y 33 (RF-33Kv)\n👉Cto 39 (Sandino) (Afectado por vía libre)\n👉Cto 40 (Hospital Militar)",
+    "timestamp": 1775687939,
+    "timestamp_local": 1775687939
+  },
+  {
     "id": 44006,
     "fecha": "08 de Apr del 2026 a las 06:21 PM",
     "hora_utc": "2026-04-08 22:21",
-    "mensaje": "⚠️Afectado el servicio eléctrico en los siguientes circuitos:\n🔹Municipio Santa Clara:\n👉Cto 5 (Dobarganes)\n👉Cto 17 (Subplanta) \n👉Ctos 37 y 38 (Yabú)   \n👉Cto 9 (Moldes y Troqueles)\n👉Cto 133 (Taller Cafetera)",
+    "mensaje": "⚠️Afectado el servicio eléctrico en los siguientes circuitos:\n🔹Municipio Santa Clara\n👉Ctos 37 y 38 (Yabú)   \n👉Cto 9 (Moldes y Troqueles)\n👉Cto 133 (Taller Cafetera)",
     "timestamp": 1775686884,
     "timestamp_local": 1775686884
   },
@@ -126,37 +158,5 @@
     "mensaje": "⚠️Afectado el servicio eléctrico en los siguientes circuitos:\n🔹Municipio Remedios:\n👉Ctos 69 y 70 Zuluetas\n👉Cto 143 Batey Heriberto Duquezne \n👉Cto 71 Buena Vista",
     "timestamp": 1775681647,
     "timestamp_local": 1775681647
-  },
-  {
-    "id": 43990,
-    "fecha": "08 de Apr del 2026 a las 04:50 PM",
-    "hora_utc": "2026-04-08 20:50",
-    "mensaje": "🛠️Afectado por manipulación la línea 6375:\n🔹Municipio Santa Clara\n👉Cto 7 (Universidad)  \n👉Cto 146 (Elevado Aeropuerto) \n👉Cto 22 (Construcciones Textil)\n👉Cto 131 (Las Antillas)\n👉Cto 153 (EIDE)\n👉Cto 25 (Los Güiros)\n👉Cto 24 (Planta Asfalto)\n👉Cto 35 (Biotecnología) \n👉Ctos 14, 15 y 27 (Maleza)",
-    "timestamp": 1775681443,
-    "timestamp_local": 1775681443
-  },
-  {
-    "id": 43989,
-    "fecha": "08 de Apr del 2026 a las 04:49 PM",
-    "hora_utc": "2026-04-08 20:49",
-    "mensaje": "⚠️Afectado el servicio eléctrico en el siguiente circuito:\n🔹Municipio Santa Clara:\n👉Cto 162 (Santa Clara Industrial)",
-    "timestamp": 1775681370,
-    "timestamp_local": 1775681370
-  },
-  {
-    "id": 43988,
-    "fecha": "08 de Apr del 2026 a las 04:46 PM",
-    "hora_utc": "2026-04-08 20:46",
-    "mensaje": "⚠️Afectado el servicio eléctrico en los siguientes circuitos:\n🔹Municipio Cifuentes:\n👉Ctos 114 y 117\n👉Ctos 116 y 155 Mata\n👉Cto 186 Batey Unidad Proletaria\n👉Cto 184 Sitio Grande",
-    "timestamp": 1775681216,
-    "timestamp_local": 1775681216
-  },
-  {
-    "id": 43987,
-    "fecha": "08 de Apr del 2026 a las 04:34 PM",
-    "hora_utc": "2026-04-08 20:34",
-    "mensaje": "⚠️Afectado el servicio eléctrico en los siguientes circuitos:\n🔹Municipio Camajuaní:\n👉Ctos 77, 59 y 185 Vueltas",
-    "timestamp": 1775680486,
-    "timestamp_local": 1775680486
   }
 ]

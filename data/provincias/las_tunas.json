@@ -1,5 +1,21 @@
 [
   {
+    "id": 18704,
+    "fecha": "08 de Apr del 2026 a las 06:54 PM",
+    "hora_utc": "2026-04-08 22:54",
+    "mensaje": "¿Qué es un disparo por DAF?\nEl Disparo por Frecuencia (DAF) es un mecanismo de protección del sistema eléctrico. Se activa automáticamente cuando la frecuencia desciende por debajo de los valores mínimos seguros (menores de 60 Hz), lo que pone en riesgo la estabilidad del sistema.\nEn ese momento, algunos circuitos se desconectan de forma automática para aliviar la carga y permitir que la frecuencia vuelva a su valor nominal.\nEsto suele ocurrir cuando una planta generadora sale de servicio de manera imprevista, provocando un déficit de generación. El DAF ayuda a evitar un colapso mayor del sistema, aunque puede generar afectaciones al servicio como apagones parciales.",
+    "timestamp": 1775688866,
+    "timestamp_local": 1775688866
+  },
+  {
+    "id": 18703,
+    "fecha": "08 de Apr del 2026 a las 06:53 PM",
+    "hora_utc": "2026-04-08 22:53",
+    "mensaje": "Se encuentran disparados por DAF los siguientes circuitos:\nTK106 Palancón, Buena Vista\nTK5 Buena Vista, Los Pinos",
+    "timestamp": 1775688819,
+    "timestamp_local": 1775688819
+  },
+  {
     "id": 18697,
     "fecha": "08 de Apr del 2026 a las 12:36 PM",
     "hora_utc": "2026-04-08 16:36",
@@ -94,21 +110,5 @@
     "mensaje": "🔊Informamos a nuestros clientes que en este momento nos encontramos en la máxima capacidad apagable, lo que impide el restablecimiento inmediato del servicio eléctrico en los circuitos afectados. La situación podrá mejorar en la medida en que el Sistema Electroenergético Nacional permita recuperar la capacidad de generación.Ofrecemos disculpas por las molestas ocasionadas",
     "timestamp": 1775512974,
     "timestamp_local": 1775512974
-  },
-  {
-    "id": 18683,
-    "fecha": "06 de Apr del 2026 a las 05:55 PM",
-    "hora_utc": "2026-04-06 21:55",
-    "mensaje": "🛠Se declara en avería , (TK 39 Providencia IV).",
-    "timestamp": 1775512502,
-    "timestamp_local": 1775512502
-  },
-  {
-    "id": 18682,
-    "fecha": "06 de Apr del 2026 a las 10:41 AM",
-    "hora_utc": "2026-04-06 14:41",
-    "mensaje": "Se restablece los siguientes circuitos afectados por déficit:\nCircuito 33 Kv: 6230\nTK59 Vedado 3\nTK67 Porcino\nTK68 Vedado 6\nTK69 Poblado de Menéndez\nTK70 Transporte\nTK99 Santa Marías\nTK98 San Manuel, La Pedrera\nTK64 Palma Picada\n\n\nTK48 Puerto Padre y Maniabón",
-    "timestamp": 1775486507,
-    "timestamp_local": 1775486507
   }
 ]
