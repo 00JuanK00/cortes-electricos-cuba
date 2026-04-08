@@ -1,5 +1,21 @@
 [
   {
+    "id": 43923,
+    "fecha": "08 de Apr del 2026 a las 02:33 AM",
+    "hora_utc": "2026-04-08 06:33",
+    "mensaje": "⚡Afectado el circuito 170 José Martí por estar faltando una fase.",
+    "timestamp": 1775630036,
+    "timestamp_local": 1775630036
+  },
+  {
+    "id": 43922,
+    "fecha": "08 de Apr del 2026 a las 02:08 AM",
+    "hora_utc": "2026-04-08 06:08",
+    "mensaje": "✅Actualización del servicio eléctrico en la provincia.\n✍️De los circuitos apagables que presenta la provincia, se mantienen afectados 148 circuitos.\n✍️En el momento de hacer esta nota la provincia tiene 96 MW de afectación por déficit de capacidad de generación, demanda máxima posible a apagar en estos momentos.\n✍️Cuenta con 86 afectaciones por averías secundarias y de servicio.",
+    "timestamp": 1775628482,
+    "timestamp_local": 1775628482
+  },
+  {
     "id": 43921,
     "fecha": "08 de Apr del 2026 a las 01:06 AM",
     "hora_utc": "2026-04-08 05:06",
@@ -142,21 +158,5 @@
     "mensaje": "⚠️Afectado el servicio eléctrico en los siguientes circuitos:\n🔹Municipio Placetas \n👉Ctos 100 y 151 Placetas\n👉Cto 104 Hermanos Amejeiras\n👉Cto 103 Batey Carbó Servía",
     "timestamp": 1775599270,
     "timestamp_local": 1775599270
-  },
-  {
-    "id": 43903,
-    "fecha": "07 de Apr del 2026 a las 06:00 PM",
-    "hora_utc": "2026-04-07 22:00",
-    "mensaje": "🕕Actualización del servicio eléctrico en las últimas 6 horas.\n✍️El déficit de capacidad de generación en estos momentos es de 121 MW\n✍️En el momento de esta nota, se mantienen afectados 136 circuitos.\n✍️ Cuenta con 125 afectaciones por averías secundarias y de servicio:\n🔸 Caibarién (2)\n🔸Camajuaní (4)\n🔸 Cifuentes (1)\n🔸 Corralillo (2)\n🔸 Manicaragua (2)\n🔸 Placetas (7)\n🔸 Quemado (1)\n🔸 Ranchuelo (3)\n🔸 Remedios (8) \n🔸 Sagua (3) \n🔸 Santa Clara (66)\n🔸 Santo Domingo (5)\n🛠️Se encuentran 8 averías en vías de solución.\n🛠️Pendientes a solucionar por el área técnica 15.\n\n⚡Avería⚡\n⚡Afectados por disparo los siguientes circuitos, se estudian las causas.\n🔹Municipio Manicaragua:\n👉Ctos 109 y 150",
-    "timestamp": 1775599222,
-    "timestamp_local": 1775599222
-  },
-  {
-    "id": 43902,
-    "fecha": "07 de Apr del 2026 a las 05:48 PM",
-    "hora_utc": "2026-04-07 21:48",
-    "mensaje": "⚠️Afectado el servicio eléctrico en los siguientes circuitos:\n🔹Municipio Encrucijada\n👉Cto 120 Calabaza\n👉Ctos 121 y 127 Perucho\n🔹Municipio Santa Clara\n👉Cto 13 Zona Industrial",
-    "timestamp": 1775598538,
-    "timestamp_local": 1775598538
   }
 ]
