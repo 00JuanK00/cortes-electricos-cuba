@@ -1,5 +1,21 @@
 [
   {
+    "id": 44076,
+    "fecha": "09 de Apr del 2026 a las 02:05 PM",
+    "hora_utc": "2026-04-09 18:05",
+    "mensaje": "✅Actualización del servicio eléctrico en la provincia.\n✍️De los circuitos apagables que presenta la provincia, se mantienen afectados 99 circuitos.\n✍️En el momento de hacer esta nota la provincia tiene 87 MW de afectación por déficit de capacidad de generación, demanda máxima posible a apagar en estos momentos.\n✍️Cuenta con 143 afectaciones por averías secundarias y de servicio.",
+    "timestamp": 1775757932,
+    "timestamp_local": 1775757932
+  },
+  {
+    "id": 44075,
+    "fecha": "09 de Apr del 2026 a las 02:01 PM",
+    "hora_utc": "2026-04-09 18:01",
+    "mensaje": "💡Restablecido el servicio eléctrico en el siguiente circuito:\n🔹Municipio Santa Clara:\n👉Cto 167 (Virginia)",
+    "timestamp": 1775757664,
+    "timestamp_local": 1775757664
+  },
+  {
     "id": 44074,
     "fecha": "09 de Apr del 2026 a las 01:39 PM",
     "hora_utc": "2026-04-09 17:39",
@@ -134,21 +150,5 @@
     "mensaje": "💡Restablecido el servicio eléctrico en los siguientes circuitos:\n🔹Municipio Santa Clara:\n👉Cto 5 (Dobarganes)\n👉Cto 17 (Subplanta)",
     "timestamp": 1775749513,
     "timestamp_local": 1775749513
-  },
-  {
-    "id": 44056,
-    "fecha": "09 de Apr del 2026 a las 11:44 AM",
-    "hora_utc": "2026-04-09 15:44",
-    "mensaje": "⚠️Afectado el servicio eléctrico en los siguientes circuitos:\n🔹Municipio Santa Clara\n👉Cto 7 (Universidad)  \n👉Cto 131 (Las Antillas)",
-    "timestamp": 1775749464,
-    "timestamp_local": 1775749464
-  },
-  {
-    "id": 44055,
-    "fecha": "09 de Apr del 2026 a las 11:43 AM",
-    "hora_utc": "2026-04-09 15:43",
-    "mensaje": "👉En avería los Ctos 148 y 149 (San Juan), pertenecientes al municipio Ranchuelo, por primario partido.\n👉En avería el Cto 118 de manera parcial, perteneciente al municipio Remedios, se estudian las causas.",
-    "timestamp": 1775749384,
-    "timestamp_local": 1775749384
   }
 ]
