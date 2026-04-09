@@ -1,5 +1,21 @@
 [
   {
+    "id": 37004,
+    "fecha": "09 de Apr del 2026 a las 07:15 AM",
+    "hora_utc": "2026-04-09 11:15",
+    "mensaje": "🚨Avería en el circuito Bombeo Ceiba 1 y San Gabriel🚨",
+    "timestamp": 1775733330,
+    "timestamp_local": 1775733330
+  },
+  {
+    "id": 37003,
+    "fecha": "09 de Apr del 2026 a las 06:56 AM",
+    "hora_utc": "2026-04-09 10:56",
+    "mensaje": "🚨 Continúa en avería el circuito 341 de San Cristóbal afectando una parte de Chirigota , pendiente a trabajar de día 🚨",
+    "timestamp": 1775732175,
+    "timestamp_local": 1775732175
+  },
+  {
     "id": 37002,
     "fecha": "09 de Apr del 2026 a las 06:51 AM",
     "hora_utc": "2026-04-09 10:51",
@@ -142,21 +158,5 @@
     "mensaje": "‼️ Afectado Bombeo Ceiba 1 por candela  en el interruptor 4048 ‼️",
     "timestamp": 1775610369,
     "timestamp_local": 1775610369
-  },
-  {
-    "id": 36984,
-    "fecha": "07 de Apr del 2026 a las 09:03 PM",
-    "hora_utc": "2026-04-08 01:03",
-    "mensaje": "‼️ Restablecido circuito 5040 ‼️",
-    "timestamp": 1775610183,
-    "timestamp_local": 1775610183
-  },
-  {
-    "id": 36983,
-    "fecha": "07 de Apr del 2026 a las 09:03 PM",
-    "hora_utc": "2026-04-08 01:03",
-    "mensaje": "👉 Afectado circuito 5040 por falla",
-    "timestamp": 1775610182,
-    "timestamp_local": 1775610182
   }
 ]
