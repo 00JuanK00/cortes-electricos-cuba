@@ -1,5 +1,21 @@
 [
   {
+    "id": 18707,
+    "fecha": "09 de Apr del 2026 a las 09:28 AM",
+    "hora_utc": "2026-04-09 13:28",
+    "mensaje": "La Empresa Eléctrica Las Tunas informa que, según la nota emitida por la Unión Eléctrica para el 9 de abril, en el día de ayer se afectó el servicio por déficit de capacidad durante las 24 horas y se ha mantenido la afectación durante la madrugada de hoy. En nuestra provincia se afectaron la totalidad de los circuitos apagables, con una máxima afectación de 55.45 MW.\nActualmente están fuera de servicio por avería la Unidad 2 de la CTE Felton y la Unidad de la CTE Antonio Guiteras. En mantenimiento se encuentran la Unidad 5 de la CTE Mariel, Unidades 3 y 6 de la CTE Renté, Unidad 5 de la CTE Nuevitas. \nEn el horario de la media se estima una afectación de 1250 MW, esto puede implicar una afectación del 95% en nuestra provincia.\nEn el horario nocturno se estima un déficit de 1775 MW en el país, lo cual puede representar el 85% de los circuitos apagables de la provincia.\nEstos valores pueden variar según la demanda nacional.",
+    "timestamp": 1775741335,
+    "timestamp_local": 1775741335
+  },
+  {
+    "id": 18706,
+    "fecha": "09 de Apr del 2026 a las 09:18 AM",
+    "hora_utc": "2026-04-09 13:18",
+    "mensaje": "Nota Informativa: Estado del Sistema Eléctrico Nacional (SEN) – 9 de abril de 2026\n\nEn el día de ayer se afectó el servicio por déficit de capacidad durante las 24 horas y se ha mantenido la afectación durante la madrugada de hoy. La máxima afectación por déficit de capacidad de generación en el día de ayer fue de 1792 MW a las 19:30 horas.\n\nLa producción de energía de los 54 nuevos parques solares fotovoltaicos fue de 3675 MWh, con 487 MW como máxima potencia entregada en el horario de la media con esta fuente de generación.\nEstado actual del SEN\n\nLa disponibilidad del SEN a las 06:00 horas es de 1300 MW, la demanda 2380 MW, con 1110 MW afectados. En el horario de la media se estima una afectación de 1250 MW.\nPrincipales incidencias\n\n    Avería: Unidad 2 de la CTE Felton, Unidad de la CTE Antonio Guiteras.\n    Mantenimiento: Unidades 5 de la CTE Mariel, Unidades 3 y 6 de la CTE Renté, Unidad 5 de la CTE Nuevitas.\n    Limitaciones en la generación térmica: 355 MW fuera de servicio.\n\nPronóstico para el horario pico\n\nPara el pico se pronostica la entrada de la unidad 5 de Energás Jaruco con 30 MW y el completamiento de 45 MW en la unidad 6 de Energás Jaruco.\n\nCon este pronóstico se prevé para el pico una disponibilidad de 1375 MW con una demanda máxima de 3120 MW, para un déficit de 1745 MW, por lo que de mantenerse las condiciones previstas se pronostica una afectación de 1775 MW en este horario.Nota Informativa: Estado del Sistema Eléctrico Nacional (SEN) – 9 de abril de 2026\n\nEn el día de ayer se afectó el servicio por déficit de capacidad durante las 24 horas y se ha mantenido la afectación durante la madrugada de hoy. La máxima afectación por déficit de capacidad de generación en el día de ayer fue de 1792 MW a las 19:30 horas.\n\nLa producción de energía de los 54 nuevos parques solares fotovoltaicos fue de 3675 MWh, con 487 MW como máxima potencia entregada en el horario de la media con esta fuente de generación.\nEstado actual del SEN\n\nLa disponibilidad del SEN a las 06:00 horas es de 1300 MW, la demanda 2380 MW, con 1110 MW afectados. En el horario de la media se estima una afectación de 1250 MW.\nPrincipales incidencias\n\n    Avería: Unidad 2 de la CTE Felton, Unidad de la CTE Antonio Guiteras.\n    Mantenimiento: Unidades 5 de la CTE Mariel, Unidades 3 y 6 de la CTE Renté, Unidad 5 de la CTE Nuevitas.\n    Limitaciones en la generación térmica: 355 MW fuera de servicio.\n\nPronóstico para el horario pico\n\nPara el pico se pronostica la entrada de la unidad 5 de Energás Jaruco con 30 MW y el completamiento de 45 MW en la unidad 6 de Energás Jaruco.\n\nCon este pronóstico se prevé para el pico una disponibilidad de 1375 MW con una demanda máxima de 3120 MW, para un déficit de 1745 MW, por lo que de mantenerse las condiciones previstas se pronostica una afectación de 1775 MW en este horario.",
+    "timestamp": 1775740709,
+    "timestamp_local": 1775740709
+  },
+  {
     "id": 18704,
     "fecha": "08 de Apr del 2026 a las 06:54 PM",
     "hora_utc": "2026-04-08 22:54",
@@ -86,21 +102,5 @@
     "mensaje": "🛠Se declara en avería el Circuito 33 Kv: 6310\nTK20 Becerra \nTK21 Tunazúcar\nTK39 Providencia IV \nTK50 Vázquez \nTK51 Santa Teresa \nTK54 Vázquez",
     "timestamp": 1775560757,
     "timestamp_local": 1775560757
-  },
-  {
-    "id": 18686,
-    "fecha": "06 de Apr del 2026 a las 06:30 PM",
-    "hora_utc": "2026-04-06 22:30",
-    "mensaje": "✅Se restablecen los circuitos qué se encontraban afectados por disparo automático por frecuencia(DAF)",
-    "timestamp": 1775514613,
-    "timestamp_local": 1775514613
-  },
-  {
-    "id": 18685,
-    "fecha": "06 de Apr del 2026 a las 06:18 PM",
-    "hora_utc": "2026-04-06 22:18",
-    "mensaje": "👉 Se encuentran afectados por disparo automático por frecuencia (DAF) los siguientes circuitos:                                                                                                    TK106 Palancón, Buena Vista                                                                                TK5 Altura de Buena Vista, Los Pinos",
-    "timestamp": 1775513887,
-    "timestamp_local": 1775513887
   }
 ]
