@@ -1,5 +1,21 @@
 [
   {
+    "id": 44027,
+    "fecha": "09 de Apr del 2026 a las 05:41 AM",
+    "hora_utc": "2026-04-09 09:41",
+    "mensaje": "⚠️Afectado el servicio eléctrico en los siguientes circuitos:\n🔹Municipio Sagua \n👉Ctos 50 y 147 Villa Alegre \n🔹Municipio Santa Clara\n👉Cto 30 (Capiro-Santa Catalina)\n👉Cto 170 (José Martí)",
+    "timestamp": 1775727686,
+    "timestamp_local": 1775727686
+  },
+  {
+    "id": 44026,
+    "fecha": "09 de Apr del 2026 a las 04:51 AM",
+    "hora_utc": "2026-04-09 08:51",
+    "mensaje": "✅Actualización del servicio eléctrico en la provincia.\n✍️De los circuitos apagables que presenta la provincia, se mantienen afectados 140 circuitos.\n✍️En el momento de hacer esta nota la provincia tiene 82 MW de afectación por déficit de capacidad de generación, demanda máxima posible a apagar en estos momentos.\n✍️Cuenta con 123 afectaciones por averías secundarias y de servicio.",
+    "timestamp": 1775724713,
+    "timestamp_local": 1775724713
+  },
+  {
     "id": 44024,
     "fecha": "09 de Apr del 2026 a las 02:01 AM",
     "hora_utc": "2026-04-09 06:01",
@@ -134,21 +150,5 @@
     "mensaje": "Con servicio la línea 1785 y 129:\n🔹Municipio Santa Clara:\n👉Cto 6 (Vigía)\n👉Cto 34(Sabana Rebacadero)\n👉Ctos 32 y 33 (RF-33Kv)\n👉Cto 39 (Sandino) \n👉Cto 40 (Hospital Militar)",
     "timestamp": 1775688161,
     "timestamp_local": 1775688161
-  },
-  {
-    "id": 44007,
-    "fecha": "08 de Apr del 2026 a las 06:38 PM",
-    "hora_utc": "2026-04-08 22:38",
-    "mensaje": "🛠️Afectado por manipulación la línea 1785 y 129:\nAfecta los siguientes circuitos:\n🔹Municipio Santa Clara:\n👉Cto 6 (Vigía)\n👉Cto 34(Sabana Rebacadero)\n👉Ctos 32 y 33 (RF-33Kv)\n👉Cto 39 (Sandino) (Afectado por vía libre)\n👉Cto 40 (Hospital Militar)",
-    "timestamp": 1775687939,
-    "timestamp_local": 1775687939
-  },
-  {
-    "id": 44006,
-    "fecha": "08 de Apr del 2026 a las 06:21 PM",
-    "hora_utc": "2026-04-08 22:21",
-    "mensaje": "⚠️Afectado el servicio eléctrico en los siguientes circuitos:\n🔹Municipio Santa Clara\n👉Ctos 37 y 38 (Yabú)   \n👉Cto 9 (Moldes y Troqueles)\n👉Cto 133 (Taller Cafetera)",
-    "timestamp": 1775686884,
-    "timestamp_local": 1775686884
   }
 ]
