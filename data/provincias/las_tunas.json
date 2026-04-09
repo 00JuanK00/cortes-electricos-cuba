@@ -1,5 +1,13 @@
 [
   {
+    "id": 18709,
+    "fecha": "09 de Apr del 2026 a las 03:45 PM",
+    "hora_utc": "2026-04-09 19:45",
+    "mensaje": "✅Se restablece el servicio eléctrico al circuito TK 85 (Leningrado) que se encontraba afectado por avería.",
+    "timestamp": 1775763919,
+    "timestamp_local": 1775763919
+  },
+  {
     "id": 18708,
     "fecha": "09 de Apr del 2026 a las 02:04 PM",
     "hora_utc": "2026-04-09 18:04",
@@ -102,13 +110,5 @@
     "mensaje": "Nota Informativa: Estado del Sistema Eléctrico Nacional (SEN) – 7 de abril de 2026\n\nEn el día de ayer se afectó el servicio por déficit de capacidad durante las 24 horas y se ha mantenido la afectación durante la madrugada de hoy. La máxima afectación por déficit de capacidad de generación en el día de ayer fue de 1871 MW a las 20:50 horas.\n\nLa producción de energía de los 54 nuevos parques solares fotovoltaicos fue de 3518 MWh, con 514 MW como máxima potencia entregada en el horario de la media con esta fuente de generación.\nEstado actual del SEN\n\nLa disponibilidad del SEN a las 06:00 horas es de 1200 MW, la demanda 2518 MW, con 1337 MW afectados. En el horario de la media se estima una afectación de 1250 MW.\nPrincipales incidencias\n\n    Avería: Unidad 2 de la CTE Felton, Unidad de la CTE Antonio Guitera.\n    Mantenimiento: Unidades 5 de la CTE Mariel, Unidades 3 y 6 de la CTE Renté, Unidad 5 de la CTE Nuevitas.\n    Limitaciones en la generación térmica: 366 MW fuera de servicio.\n\nPronóstico para el horario pico\n\nSe pronostica la entrada para el horario de máxima demanda de la unidad 5 de la CTE Energás Boca de Jaruco con 20 MW y el completamiento del ciclo combinado de dicha central con 20 MW.\n\nCon este pronóstico para el pico una disponibilidad de 1240 MW con una demanda máxima de 3080 MW, para un déficit de 1840 MW, por lo que de mantenerse las condiciones previstas se pronostica una afectación de 1870 MW en este horario.",
     "timestamp": 1775563496,
     "timestamp_local": 1775563496
-  },
-  {
-    "id": 18688,
-    "fecha": "07 de Apr del 2026 a las 07:19 AM",
-    "hora_utc": "2026-04-07 11:19",
-    "mensaje": "🛠Se declara en avería el Circuito 33 Kv: 6310\nTK20 Becerra \nTK21 Tunazúcar\nTK39 Providencia IV \nTK50 Vázquez \nTK51 Santa Teresa \nTK54 Vázquez",
-    "timestamp": 1775560757,
-    "timestamp_local": 1775560757
   }
 ]
