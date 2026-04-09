@@ -1,5 +1,29 @@
 [
   {
+    "id": 44096,
+    "fecha": "09 de Apr del 2026 a las 05:09 PM",
+    "hora_utc": "2026-04-09 21:09",
+    "mensaje": "Afectados 103 MW en la Provincia , demanda máxima a apagar en estos momentos.",
+    "timestamp": 1775768943,
+    "timestamp_local": 1775768943
+  },
+  {
+    "id": 44095,
+    "fecha": "09 de Apr del 2026 a las 04:55 PM",
+    "hora_utc": "2026-04-09 20:55",
+    "mensaje": "⚠️Afectado el servicio eléctrico en los siguientes circuitos:\n🔹Municipio Santa Clara:\n👉Cto 167 (Virginia)\n👉Cto 170 (José Martí)\n👉Cto 171 (Los Caneyes)",
+    "timestamp": 1775768121,
+    "timestamp_local": 1775768121
+  },
+  {
+    "id": 44094,
+    "fecha": "09 de Apr del 2026 a las 04:38 PM",
+    "hora_utc": "2026-04-09 20:38",
+    "mensaje": "⚠️Afectado el servicio eléctrico en los siguientes circuitos:\n🔹Municipio Manicaragua:\n👉Cto 112 Hoyo Manicaragua\n🔹Municipio Placetas:\n👉Cto 107 Baez\n👉Cto 105 Nazareno",
+    "timestamp": 1775767091,
+    "timestamp_local": 1775767091
+  },
+  {
     "id": 44093,
     "fecha": "09 de Apr del 2026 a las 04:35 PM",
     "hora_utc": "2026-04-09 20:35",
@@ -126,29 +150,5 @@
     "mensaje": "Afectados 88 MW en la Provincia , demanda máxima a apagar en estos momentos.",
     "timestamp": 1775762371,
     "timestamp_local": 1775762371
-  },
-  {
-    "id": 44076,
-    "fecha": "09 de Apr del 2026 a las 02:05 PM",
-    "hora_utc": "2026-04-09 18:05",
-    "mensaje": "✅Actualización del servicio eléctrico en la provincia.\n✍️De los circuitos apagables que presenta la provincia, se mantienen afectados 99 circuitos.\n✍️En el momento de hacer esta nota la provincia tiene 87 MW de afectación por déficit de capacidad de generación, demanda máxima posible a apagar en estos momentos.\n✍️Cuenta con 143 afectaciones por averías secundarias y de servicio.",
-    "timestamp": 1775757932,
-    "timestamp_local": 1775757932
-  },
-  {
-    "id": 44075,
-    "fecha": "09 de Apr del 2026 a las 02:01 PM",
-    "hora_utc": "2026-04-09 18:01",
-    "mensaje": "💡Restablecido el servicio eléctrico en el siguiente circuito:\n🔹Municipio Santa Clara:\n👉Cto 167 (Virginia)",
-    "timestamp": 1775757664,
-    "timestamp_local": 1775757664
-  },
-  {
-    "id": 44074,
-    "fecha": "09 de Apr del 2026 a las 01:39 PM",
-    "hora_utc": "2026-04-09 17:39",
-    "mensaje": "⚠️Afectado el servicio eléctrico en los siguientes circuitos:\n🔹Municipio Camajuaní:\n👉Ctos 72 y 129",
-    "timestamp": 1775756372,
-    "timestamp_local": 1775756372
   }
 ]
