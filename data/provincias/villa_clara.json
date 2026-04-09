@@ -1,5 +1,29 @@
 [
   {
+    "id": 44023,
+    "fecha": "09 de Apr del 2026 a las 12:42 AM",
+    "hora_utc": "2026-04-09 04:42",
+    "mensaje": "⚠️Afectado el servicio eléctrico en los siguientes circuitos:\n🔹Municipio Remedios:\n👉Ctos 67 y 152, 68 y 118",
+    "timestamp": 1775709726,
+    "timestamp_local": 1775709726
+  },
+  {
+    "id": 44022,
+    "fecha": "09 de Apr del 2026 a las 12:15 AM",
+    "hora_utc": "2026-04-09 04:15",
+    "mensaje": "⚠️Afectado el servicio eléctrico en los siguientes circuitos:\n🔹Municipio Sagua \n👉Cto 48 Finalet\n👉Ctos 46 y 128 Sitiecito\n👉Ctos 43, 51 Sagua\n👉Cto 44 Isabela",
+    "timestamp": 1775708138,
+    "timestamp_local": 1775708138
+  },
+  {
+    "id": 44021,
+    "fecha": "09 de Apr del 2026 a las 12:00 AM",
+    "hora_utc": "2026-04-09 04:00",
+    "mensaje": "🕛Actualización del servicio eléctrico en las últimas 6 horas.\n✍️El déficit de capacidad de generación en estos momentos es de 107 MW\n✍️En el momento de esta nota, se mantienen afectados 141 circuitos.\n✍️ Cuenta con 132 afectaciones por averías secundarias y de servicio:\n🔸 Caibarién (2)\n🔸Camajuaní (1)\n🔸Cifuentes (1)\n🔸Corralillo (1)\n🔸 Encrucijada (1)\n🔸 Manicaragua (8)\n🔸 Placetas (3)\n🔸 Ranchuelo (8)\n🔸 Remedios (14) \n🔸 Sagua (11) \n🔸 Santa Clara (68)\n🔸 Santo Domingo (2)\n🛠️Se encuentran 2 averías en vías de solución.\n🛠️Pendientes a solucionar por el área técnica 10.\n⚡La provincia presenta 1 avería primaria en el circuito 118 (13kv), (Ramal Texisco) del municipio Remedios.",
+    "timestamp": 1775707242,
+    "timestamp_local": 1775707242
+  },
+  {
     "id": 44020,
     "fecha": "08 de Apr del 2026 a las 11:31 PM",
     "hora_utc": "2026-04-09 03:31",
@@ -134,29 +158,5 @@
     "mensaje": "🕕Actualización del servicio eléctrico en las últimas 6 horas.\n✍️El déficit de capacidad de generación en estos momentos es de 115 MW\n✍️En el momento de esta nota, se mantienen afectados 134 circuitos.\n✍️ Cuenta con 151 afectaciones por averías secundarias y de servicio:\n🔸 Caibarién (4)\n🔸Camajuaní (3)\n🔸Cifuentes (4)\n🔸Corralillo (2)\n🔸 Encrucijada (2)\n🔸 Manicaragua (9)\n🔸 Placetas (4)\n🔸 Ranchuelo (12)\n🔸 Remedios (14) \n🔸 Sagua (9) \n🔸 Santa Clara (59)\n🔸 Santo Domingo (8)\n🛠️Se encuentran 8 averías en vías de solución.\n🛠️Pendientes a solucionar por el área técnica 12.\n⚡La provincia presenta 1 avería primaria en los circuitos 68 y 118 (13kv), del municipio Remedios. Se estudian las causas.",
     "timestamp": 1775685583,
     "timestamp_local": 1775685583
-  },
-  {
-    "id": 44003,
-    "fecha": "08 de Apr del 2026 a las 05:46 PM",
-    "hora_utc": "2026-04-08 21:46",
-    "mensaje": "⚠️Afectado el servicio eléctrico en los siguientes circuitos:\n🔹Municipio Placetas:\n👉Cto 192 Benito Juárez\n👉Cto 102 Peroti",
-    "timestamp": 1775684774,
-    "timestamp_local": 1775684774
-  },
-  {
-    "id": 44002,
-    "fecha": "08 de Apr del 2026 a las 05:44 PM",
-    "hora_utc": "2026-04-08 21:44",
-    "mensaje": "⚠️Afectado el servicio eléctrico en el siguiente circuito:\n🔹Municipio Santa Clara:\n👉Cto 170 (José Martí)",
-    "timestamp": 1775684655,
-    "timestamp_local": 1775684655
-  },
-  {
-    "id": 44001,
-    "fecha": "08 de Apr del 2026 a las 05:43 PM",
-    "hora_utc": "2026-04-08 21:43",
-    "mensaje": "⚠️Afectado el servicio eléctrico en los siguientes circuitos:\n🔹Municipio Santo Domingo:\n👉Cto 195 Batey George Washington\n👉Ctos 83 y 165 Manacas\n👉Ctos 85 y 86 Pajarito\n👉Ctos 160 y 161 Cascajal\n👉Cto 79 (Santo Domingo)\n👉Cto 81 (26 de Julio)\n👉Cto 163 (Batey 26 de Julio\n🔹Municipio Ranchuelo:\n👉Ctos 54, 94 y 95 Jicotea",
-    "timestamp": 1775684604,
-    "timestamp_local": 1775684604
   }
 ]
