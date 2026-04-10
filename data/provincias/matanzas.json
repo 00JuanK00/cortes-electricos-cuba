@@ -1,5 +1,21 @@
 [
   {
+    "id": 34472,
+    "fecha": "10 de Apr del 2026 a las 02:11 PM",
+    "hora_utc": "2026-04-10 18:11",
+    "mensaje": "🔄 Una vez que podamos rotar el servicio, iremos restableciendo de manera paulatina los circuitos que han estado más tiempo sin suministro en dependencia del comportamiento de la demanda y la disponibilidad del sistema eléctrico.",
+    "timestamp": 1775844661,
+    "timestamp_local": 1775844661
+  },
+  {
+    "id": 34471,
+    "fecha": "10 de Apr del 2026 a las 02:10 PM",
+    "hora_utc": "2026-04-10 18:10",
+    "mensaje": "🪫 La provincia se encuentra en el máximo apagable con un déficit de capacidad de generación de 135 MW.",
+    "timestamp": 1775844620,
+    "timestamp_local": 1775844620
+  },
+  {
     "id": 34470,
     "fecha": "10 de Apr del 2026 a las 01:05 PM",
     "hora_utc": "2026-04-10 17:05",
@@ -142,21 +158,5 @@
     "mensaje": "⚡Déficit de capacidad de generación en la provincia: 141 MW . ⚡",
     "timestamp": 1775791566,
     "timestamp_local": 1775791566
-  },
-  {
-    "id": 34451,
-    "fecha": "09 de Apr del 2026 a las 10:17 PM",
-    "hora_utc": "2026-04-10 02:17",
-    "mensaje": "📈 Bajamos a 150 MW en la provincia por Déficit de capacidad de generación por la curva de demanda.",
-    "timestamp": 1775787448,
-    "timestamp_local": 1775787448
-  },
-  {
-    "id": 34450,
-    "fecha": "09 de Apr del 2026 a las 09:39 PM",
-    "hora_utc": "2026-04-10 01:39",
-    "mensaje": "📈 Bajamos a 156 MW en la provincia por Déficit de capacidad de generación por la curva de demanda.",
-    "timestamp": 1775785163,
-    "timestamp_local": 1775785163
   }
 ]

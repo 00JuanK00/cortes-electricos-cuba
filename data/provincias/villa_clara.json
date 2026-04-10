@@ -1,5 +1,37 @@
 [
   {
+    "id": 44163,
+    "fecha": "10 de Apr del 2026 a las 02:09 PM",
+    "hora_utc": "2026-04-10 18:09",
+    "mensaje": "⚠️Afectado el servicio eléctrico en los siguientes circuitos:\n🔹Municipio Santa Clara:\n👉Cto 6(Vigia)\n👉Cto 39 (Sandino)",
+    "timestamp": 1775844544,
+    "timestamp_local": 1775844544
+  },
+  {
+    "id": 44162,
+    "fecha": "10 de Apr del 2026 a las 02:05 PM",
+    "hora_utc": "2026-04-10 18:05",
+    "mensaje": "✅Actualización del servicio eléctrico en la provincia.\n✍️De los circuitos apagables que presenta la provincia, se mantienen afectados 134 circuitos.\n✍️En el momento de hacer esta nota la provincia tiene 100 MW de afectación por déficit de capacidad de generación, demanda máxima posible a apagar en estos momentos.\n✍️Cuenta con 125 afectaciones por averías secundarias y de servicio.",
+    "timestamp": 1775844339,
+    "timestamp_local": 1775844339
+  },
+  {
+    "id": 44161,
+    "fecha": "10 de Apr del 2026 a las 01:48 PM",
+    "hora_utc": "2026-04-10 17:48",
+    "mensaje": "💡Con servicio eléctrico los siguientes circuitos:\n🔹Municipio Santa Clara:\n👉Cto 170 (José Martí)\n👉Cto 171 (Los Caneyes)\n🔹Municipio Santo Domingo:\n👉Cto 134\n👉Ctos 87 y 96 Bermejal\n👉Cto 187 Batey Carlos Baliño\n👉Cto 82 Ulacia\n👉Cto 84 Rodrigo",
+    "timestamp": 1775843308,
+    "timestamp_local": 1775843308
+  },
+  {
+    "id": 44160,
+    "fecha": "10 de Apr del 2026 a las 01:43 PM",
+    "hora_utc": "2026-04-10 17:43",
+    "mensaje": "📣Ante cualquier duda con la terminología eléctrica, les volvemos explicar:  \n\n  1⃣  Las averías pueden ser primarias (afecta un volumen grande de población pues son las líneas de distribución a 13.8kV y puede afectar varias manzanas, incluso repartos completos).\n\n2⃣Secundarias (afecta a todos los clientes que se alimenten del mismo transformador puede afectar una o varias cuadras). \n\n3⃣De servicio(afectan 1 solo cliente o instalación generalmente producto a daños en la acometida, metro contador, etc.).",
+    "timestamp": 1775843004,
+    "timestamp_local": 1775843004
+  },
+  {
     "id": 44159,
     "fecha": "10 de Apr del 2026 a las 01:01 PM",
     "hora_utc": "2026-04-10 17:01",
@@ -126,37 +158,5 @@
     "mensaje": "⚡Afectada Linea 331`por disparo\n🔹Municipio Manicaragua:\n👉Ctos 109 y 150\n👉Ctos 108 y 110 La Piedra\n👉Cto 111 Mataguá",
     "timestamp": 1775830928,
     "timestamp_local": 1775830928
-  },
-  {
-    "id": 44143,
-    "fecha": "10 de Apr del 2026 a las 10:09 AM",
-    "hora_utc": "2026-04-10 14:09",
-    "mensaje": "✅Actualización del servicio eléctrico en la provincia.\n✍️De los circuitos apagables que presenta la provincia, se mantienen afectados 134 circuitos.\n✍️En el momento de hacer esta nota la provincia tiene 103 MW de afectación por déficit de capacidad de generación, demanda máxima posible a apagar en estos momentos.\n✍️Cuenta con 131 afectaciones por averías secundarias y de servicio.",
-    "timestamp": 1775830177,
-    "timestamp_local": 1775830177
-  },
-  {
-    "id": 44141,
-    "fecha": "10 de Apr del 2026 a las 09:37 AM",
-    "hora_utc": "2026-04-10 13:37",
-    "mensaje": "💡Con servicio eléctrico los siguientes circuitos:\n🔹Municipio Santo Domingo:\n👉Cto 134\n👉Ctos 87 y 96 Bermejal\n👉Cto 187 Batey Carlos Baliño\n👉Cto 82 Ulacia\n👉Cto 84 Rodrigo",
-    "timestamp": 1775828252,
-    "timestamp_local": 1775828252
-  },
-  {
-    "id": 44140,
-    "fecha": "10 de Apr del 2026 a las 09:32 AM",
-    "hora_utc": "2026-04-10 13:32",
-    "mensaje": "💡Con servicio eléctrico los siguientes circuitos:\n🔹Municipio Manicaragua:\n👉Ctos 109 y 150\n👉Ctos 108 y 110 La Piedra\n👉Cto 111 Mataguá",
-    "timestamp": 1775827973,
-    "timestamp_local": 1775827973
-  },
-  {
-    "id": 44139,
-    "fecha": "10 de Apr del 2026 a las 09:22 AM",
-    "hora_utc": "2026-04-10 13:22",
-    "mensaje": "🗣️Evita la desinformación. Sigue los canales oficiales de la Empresa Eléctrica Villa Clara para conocer sobre la situación del sistema eléctrico en nuestra provincia.\n\n🔗 Nuestras redes:\n Telegram: \nhttps://t.me/electrico1895\n\n Facebook: \nhttps://www.facebook.com/share/1DmaKAeQ29/\n\n X: @EmpElectricaVC\n\n💪Con la verdad somos más fuertes.",
-    "timestamp": 1775827369,
-    "timestamp_local": 1775827369
   }
 ]
