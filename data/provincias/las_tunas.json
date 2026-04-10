@@ -1,5 +1,13 @@
 [
   {
+    "id": 18714,
+    "fecha": "10 de Apr del 2026 a las 06:57 AM",
+    "hora_utc": "2026-04-10 10:57",
+    "mensaje": "Se encuentra en avería el circuito de 33Kv 6230 Menéndez",
+    "timestamp": 1775818649,
+    "timestamp_local": 1775818649
+  },
+  {
     "id": 18712,
     "fecha": "09 de Apr del 2026 a las 09:16 PM",
     "hora_utc": "2026-04-10 01:16",
@@ -102,13 +110,5 @@
     "mensaje": "Se restablece la avería en el:\n  Circuito 33 Kv: 6305",
     "timestamp": 1775609166,
     "timestamp_local": 1775609166
-  },
-  {
-    "id": 18693,
-    "fecha": "07 de Apr del 2026 a las 05:34 PM",
-    "hora_utc": "2026-04-07 21:34",
-    "mensaje": "Se encuentra en avería los siguientes circuitos :\nCircuito 33 Kv: 6305",
-    "timestamp": 1775597695,
-    "timestamp_local": 1775597695
   }
 ]
