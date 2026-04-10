@@ -1,5 +1,21 @@
 [
   {
+    "id": 44123,
+    "fecha": "10 de Apr del 2026 a las 04:00 AM",
+    "hora_utc": "2026-04-10 08:00",
+    "mensaje": "✅Actualización del servicio eléctrico en la provincia.\n✍️De los circuitos apagables que presenta la provincia, se mantienen afectados 136 circuitos.\n✍️En el momento de hacer esta nota la provincia tiene 90 MW de afectación por déficit de capacidad de generación, demanda máxima posible a apagar en estos momentos.\n✍️Cuenta con 99 afectaciones por averías secundarias y de servicio.",
+    "timestamp": 1775808056,
+    "timestamp_local": 1775808056
+  },
+  {
+    "id": 44122,
+    "fecha": "10 de Apr del 2026 a las 03:30 AM",
+    "hora_utc": "2026-04-10 07:30",
+    "mensaje": "🔔Queremos informar:\n\n📉El proceso de restablecimiento del servicio eléctrico por déficit de generación se realiza de forma controlada y gradual. Primero, debe haber capacidad de generación disponible y estable para reconectar las cargas de manera escalonada, evitando picos de demanda que puedan desestabilizar la red. Este procedimiento permite estabilizar la frecuencia y el voltaje, garantiza que la energía se distribuya de forma segura hasta que todas las cargas puedan ser atendidas nuevamente📉",
+    "timestamp": 1775806208,
+    "timestamp_local": 1775806208
+  },
+  {
     "id": 44121,
     "fecha": "10 de Apr del 2026 a las 03:01 AM",
     "hora_utc": "2026-04-10 07:01",
@@ -134,21 +150,5 @@
     "mensaje": "🕧Actualización del servicio eléctrico en las últimas 6 horas.\n✍️El déficit de capacidad de generación en estos momentos es de 135 MW\n✍️En el momento de esta nota, se mantienen afectados 132 circuitos.\n✍️Cuenta con 135 afectaciones por averías secundarias y de servicio:\n🔸Caibarién (2)\n🔸Camajuaní (4)\n🔸Cifuentes (1)\n🔸Manicaragua (5)\n🔸Placetas (7)\n🔸Ranchuelo (6)\n🔸Remedios (10) \n🔸Sagua (10) \n🔸Santa Clara (85)\n🔸Santo Domingo (5)\n🛠️Pendientes a solucionar por el área técnica 12.\n⚡La provincia no presenta averías primarias en este momento.",
     "timestamp": 1775773296,
     "timestamp_local": 1775773296
-  },
-  {
-    "id": 44103,
-    "fecha": "09 de Apr del 2026 a las 06:18 PM",
-    "hora_utc": "2026-04-09 22:18",
-    "mensaje": "⚠️Afectado el servicio eléctrico en los siguientes circuitos:\n🔹Municipio Santa Clara:\n👉**Cto 132 SC. Industrial**\n👉**Cto 162 SC. Industrial**",
-    "timestamp": 1775773099,
-    "timestamp_local": 1775773099
-  },
-  {
-    "id": 44102,
-    "fecha": "09 de Apr del 2026 a las 06:04 PM",
-    "hora_utc": "2026-04-09 22:04",
-    "mensaje": "💡Con servicio eléctrico el siguiente circuito:\n🔹Municipio Santa Clara:\n👉Cto 27 (Maleza)",
-    "timestamp": 1775772274,
-    "timestamp_local": 1775772274
   }
 ]
