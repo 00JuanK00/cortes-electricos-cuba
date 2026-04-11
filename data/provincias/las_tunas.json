@@ -1,5 +1,13 @@
 [
   {
+    "id": 18718,
+    "fecha": "11 de Apr del 2026 a las 06:50 AM",
+    "hora_utc": "2026-04-11 10:50",
+    "mensaje": "🚨Se encuentra afectado por emergencia el circuito 6230🚨",
+    "timestamp": 1775904603,
+    "timestamp_local": 1775904603
+  },
+  {
     "id": 18716,
     "fecha": "10 de Apr del 2026 a las 11:46 PM",
     "hora_utc": "2026-04-11 03:46",
@@ -94,13 +102,5 @@
     "mensaje": "Se encuentran disparados por DAF los siguientes circuitos:\nTK106 Palancón, Buena Vista\nTK5 Buena Vista, Los Pinos",
     "timestamp": 1775688819,
     "timestamp_local": 1775688819
-  },
-  {
-    "id": 18697,
-    "fecha": "08 de Apr del 2026 a las 12:36 PM",
-    "hora_utc": "2026-04-08 16:36",
-    "mensaje": "La producción de energía de los 54 nuevos parques solares fotovoltaicos fue de 3410 MWh, con 465 MW como máxima potencia entregada en el horario de la media con esta fuente de generación.\n**Estado actual del SEN**\nLa disponibilidad del SEN a las 06:00 horas es de 1090 MW, la demanda 2450 MW, con 1337 MW afectados. En el horario de la media se estima una afectación de 1350 MW.                                                      \n**Principales incidencias**\nAvería: Unidad 6 de la CTE Mariel, Unidad 1 de la CTE Santa Cruz, Unidad 2 de la CTE Felton, Unidad de la CTE Antonio Guitera.\nMantenimiento: Unidades 5 de la CTE Mariel, Unidades 3 y 6 de la CTE Renté, Unidad 5 de la CTE Nuevitas.\nLimitaciones en la generación térmica: 282 MW fuera de servicio.\n**Pronóstico para el horario pico**\nSe pronostica la entrada para el horario de máxima demanda de la unidad 6 de la CTE Mariel con 70 MW, la unidad 5 de la Energás Boca de Jaruco con 20 MW y el completamiento del ciclo combinado de dicha central con 20 MW. Con este pronóstico para el pico una disponibilidad de 1200 MW con una demanda máxima de 3050 MW, para un déficit de 1850 MW, por lo que de mantenerse las condiciones previstas se pronostica una afectación de 1880 MW en este horario.",
-    "timestamp": 1775666215,
-    "timestamp_local": 1775666215
   }
 ]
