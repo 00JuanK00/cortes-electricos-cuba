@@ -1,5 +1,13 @@
 [
   {
+    "id": 44196,
+    "fecha": "11 de Apr del 2026 a las 03:34 AM",
+    "hora_utc": "2026-04-11 07:34",
+    "mensaje": "📣Ante cualquier duda con la terminología eléctrica, les volvemos explicar:  \n\n  1⃣  Las averías pueden ser primarias (afecta un volumen grande de población pues son las líneas de distribución a 13.8kV y puede afectar varias manzanas, incluso repartos completos).\n\n2⃣Secundarias (afecta a todos los clientes que se alimenten del mismo transformador puede afectar una o varias cuadras). \n\n3⃣De servicio(afectan 1 solo cliente o instalación generalmente producto a daños en la acometida, metro contador, etc.).",
+    "timestamp": 1775892865,
+    "timestamp_local": 1775892865
+  },
+  {
     "id": 44195,
     "fecha": "11 de Apr del 2026 a las 12:41 AM",
     "hora_utc": "2026-04-11 04:41",
@@ -126,21 +134,5 @@
     "mensaje": "💡Con servicio eléctrico los siguientes circuitos:\n🔹Municipio Sagua\n👉Ctos 50 y 147 Villa Alegre",
     "timestamp": 1775853381,
     "timestamp_local": 1775853381
-  },
-  {
-    "id": 44177,
-    "fecha": "10 de Apr del 2026 a las 04:35 PM",
-    "hora_utc": "2026-04-10 20:35",
-    "mensaje": "⚠️Afectado el servicio eléctrico en los siguientes circuitos:\n🔹Municipio Sagua\n👉Ctos 43, 51 Sagua\n👉Cto 44 Isabela",
-    "timestamp": 1775853313,
-    "timestamp_local": 1775853313
-  },
-  {
-    "id": 44176,
-    "fecha": "10 de Apr del 2026 a las 04:30 PM",
-    "hora_utc": "2026-04-10 20:30",
-    "mensaje": "⚠️Afectado el servicio eléctrico en los siguientes circuitos:\n🔹Municipio Santo Domingo:\n👉Cto 134\n👉Ctos 87 y 96 Bermejal\n👉Cto 187 Batey Carlos Baliño\n👉Cto 82 Ulacia\n👉Cto 84 Rodrigo",
-    "timestamp": 1775853032,
-    "timestamp_local": 1775853032
   }
 ]
