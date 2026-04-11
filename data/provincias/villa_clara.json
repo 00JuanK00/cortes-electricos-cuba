@@ -1,5 +1,29 @@
 [
   {
+    "id": 44217,
+    "fecha": "11 de Apr del 2026 a las 10:57 AM",
+    "hora_utc": "2026-04-11 14:57",
+    "mensaje": "⚠Afectado el servicio eléctrico en los siguientes circuitos:\n🔹Municipio Santa Clara: \n👉Cto 166 (Condado)\n👉Cto 168 (Condado- XX Aniversario)",
+    "timestamp": 1775919420,
+    "timestamp_local": 1775919420
+  },
+  {
+    "id": 44216,
+    "fecha": "11 de Apr del 2026 a las 10:52 AM",
+    "hora_utc": "2026-04-11 14:52",
+    "mensaje": "🛠️Afectada por manipulación la Línea 6375.\n➡️Línea 6375 (1775)\n🔹Municipio Santa Clara\n👉Cto 7 (Universidad)  \n👉Cto 146 (Elevado Aeropuerto) \n👉Cto 22 (Construcciones Textil)\n👉Cto 131 (Las Antillas)\n👉Cto 153 (EIDE)\n👉Cto 25 (Los Güiros)\n👉Cto 24 (Planta Asfalto)\n👉Cto 35 (Biotecnología) \n👉Ctos 14, 15 y 27 (Maleza)",
+    "timestamp": 1775919148,
+    "timestamp_local": 1775919148
+  },
+  {
+    "id": 44215,
+    "fecha": "11 de Apr del 2026 a las 10:32 AM",
+    "hora_utc": "2026-04-11 14:32",
+    "mensaje": "⚠Afectado el servicio eléctrico en los siguientes circuitos:\n🔹Municipio Cifuentes:\n👉Ctos 114 y 117\n👉Ctos 116 y 155 Mata\n👉Cto 186 Batey Unidad Proletaria\n👉Cto 184 Sitio Grande",
+    "timestamp": 1775917955,
+    "timestamp_local": 1775917955
+  },
+  {
     "id": 44214,
     "fecha": "11 de Apr del 2026 a las 09:55 AM",
     "hora_utc": "2026-04-11 13:55",
@@ -126,21 +150,5 @@
     "mensaje": "✅Actualización del servicio eléctrico en la provincia.\n✍️De los circuitos apagables que presenta la provincia, se mantienen afectados 127 circuitos.\n✍️En el momento de hacer esta nota la provincia tiene 79 MW de afectación por déficit de capacidad de generación, demanda máxima posible a apagar en estos momentos.\n✍️Cuenta con 89 afectaciones por averías secundarias y de servicio.",
     "timestamp": 1775892984,
     "timestamp_local": 1775892984
-  },
-  {
-    "id": 44196,
-    "fecha": "11 de Apr del 2026 a las 03:34 AM",
-    "hora_utc": "2026-04-11 07:34",
-    "mensaje": "📣Ante cualquier duda con la terminología eléctrica, les volvemos explicar:  \n\n  1⃣  Las averías pueden ser primarias (afecta un volumen grande de población pues son las líneas de distribución a 13.8kV y puede afectar varias manzanas, incluso repartos completos).\n\n2⃣Secundarias (afecta a todos los clientes que se alimenten del mismo transformador puede afectar una o varias cuadras). \n\n3⃣De servicio(afectan 1 solo cliente o instalación generalmente producto a daños en la acometida, metro contador, etc.).",
-    "timestamp": 1775892865,
-    "timestamp_local": 1775892865
-  },
-  {
-    "id": 44195,
-    "fecha": "11 de Apr del 2026 a las 12:41 AM",
-    "hora_utc": "2026-04-11 04:41",
-    "mensaje": "🕛Actualización del servicio eléctrico en las últimas 6 horas.\n✍️El déficit de capacidad de generación en estos momentos es de 102 MW\n✍️En el momento de esta nota, se mantienen afectados 134 circuitos.\n✍️ Cuenta con 110 afectaciones por averías secundarias y de servicio:\n🔸 Caibarién (1)\n🔸 Cifuentes (1)\n🔸 Corralillo (1)\n🔸 Encrucijada (3)\n🔸 Manicaragua (9)\n🔸 Placetas (6)\n🔸 Ranchuelo (6)\n🔸 Remedios (16) \n🔸 Sagua (0) \n🔸 Santa Clara (47)\n🛠️Se encuentran 5 averías en vías de solución.\n🛠️Pendientes a solucionar por el área técnica 9.\n✅La provincia no presenta averías primarias.",
-    "timestamp": 1775882499,
-    "timestamp_local": 1775882499
   }
 ]
