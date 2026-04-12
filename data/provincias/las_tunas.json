@@ -1,5 +1,13 @@
 [
   {
+    "id": 18724,
+    "fecha": "12 de Apr del 2026 a las 04:25 PM",
+    "hora_utc": "2026-04-12 20:25",
+    "mensaje": "Circuito de 33 Kv\n6220\nTK 61(La Yaya)\nTK 58(La Calera)\nTK62(Lora)\nTK 63(Lora) \n TJ 95(Poblado Menéndez)\n\n Circuito de 33 Kv\n\n6230 TK 59 (Vedado 3)\nTK 67 (Porcino)\nTK 68 (Vedado6) \nTK 69 (Transporte)\nTK 70 (Transporte)\nTK 99 (La Pedrera)\nTK 98 (La Pedrera)\nTK 64 (Palma Picada)\n\nTK 20 (Becerra)\nTK 12 (Las 40 y Nuevo Sosa)\nTK 6 ( Calle Cuba y zona sur de Buena Vista)",
+    "timestamp": 1776025556,
+    "timestamp_local": 1776025556
+  },
+  {
     "id": 18723,
     "fecha": "12 de Apr del 2026 a las 11:20 AM",
     "hora_utc": "2026-04-12 15:20",
@@ -110,13 +118,5 @@
     "mensaje": "Nota Informativa: Estado del Sistema Eléctrico Nacional (SEN) – 9 de abril de 2026\n\nEn el día de ayer se afectó el servicio por déficit de capacidad durante las 24 horas y se ha mantenido la afectación durante la madrugada de hoy. La máxima afectación por déficit de capacidad de generación en el día de ayer fue de 1792 MW a las 19:30 horas.\n\nLa producción de energía de los 54 nuevos parques solares fotovoltaicos fue de 3675 MWh, con 487 MW como máxima potencia entregada en el horario de la media con esta fuente de generación.\nEstado actual del SEN\n\nLa disponibilidad del SEN a las 06:00 horas es de 1300 MW, la demanda 2380 MW, con 1110 MW afectados. En el horario de la media se estima una afectación de 1250 MW.\nPrincipales incidencias\n\n    Avería: Unidad 2 de la CTE Felton, Unidad de la CTE Antonio Guiteras.\n    Mantenimiento: Unidades 5 de la CTE Mariel, Unidades 3 y 6 de la CTE Renté, Unidad 5 de la CTE Nuevitas.\n    Limitaciones en la generación térmica: 355 MW fuera de servicio.\n\nPronóstico para el horario pico\n\nPara el pico se pronostica la entrada de la unidad 5 de Energás Jaruco con 30 MW y el completamiento de 45 MW en la unidad 6 de Energás Jaruco.\n\nCon este pronóstico se prevé para el pico una disponibilidad de 1375 MW con una demanda máxima de 3120 MW, para un déficit de 1745 MW, por lo que de mantenerse las condiciones previstas se pronostica una afectación de 1775 MW en este horario.Nota Informativa: Estado del Sistema Eléctrico Nacional (SEN) – 9 de abril de 2026\n\nEn el día de ayer se afectó el servicio por déficit de capacidad durante las 24 horas y se ha mantenido la afectación durante la madrugada de hoy. La máxima afectación por déficit de capacidad de generación en el día de ayer fue de 1792 MW a las 19:30 horas.\n\nLa producción de energía de los 54 nuevos parques solares fotovoltaicos fue de 3675 MWh, con 487 MW como máxima potencia entregada en el horario de la media con esta fuente de generación.\nEstado actual del SEN\n\nLa disponibilidad del SEN a las 06:00 horas es de 1300 MW, la demanda 2380 MW, con 1110 MW afectados. En el horario de la media se estima una afectación de 1250 MW.\nPrincipales incidencias\n\n    Avería: Unidad 2 de la CTE Felton, Unidad de la CTE Antonio Guiteras.\n    Mantenimiento: Unidades 5 de la CTE Mariel, Unidades 3 y 6 de la CTE Renté, Unidad 5 de la CTE Nuevitas.\n    Limitaciones en la generación térmica: 355 MW fuera de servicio.\n\nPronóstico para el horario pico\n\nPara el pico se pronostica la entrada de la unidad 5 de Energás Jaruco con 30 MW y el completamiento de 45 MW en la unidad 6 de Energás Jaruco.\n\nCon este pronóstico se prevé para el pico una disponibilidad de 1375 MW con una demanda máxima de 3120 MW, para un déficit de 1745 MW, por lo que de mantenerse las condiciones previstas se pronostica una afectación de 1775 MW en este horario.",
     "timestamp": 1775740709,
     "timestamp_local": 1775740709
-  },
-  {
-    "id": 18704,
-    "fecha": "08 de Apr del 2026 a las 06:54 PM",
-    "hora_utc": "2026-04-08 22:54",
-    "mensaje": "¿Qué es un disparo por DAF?\nEl Disparo por Frecuencia (DAF) es un mecanismo de protección del sistema eléctrico. Se activa automáticamente cuando la frecuencia desciende por debajo de los valores mínimos seguros (menores de 60 Hz), lo que pone en riesgo la estabilidad del sistema.\nEn ese momento, algunos circuitos se desconectan de forma automática para aliviar la carga y permitir que la frecuencia vuelva a su valor nominal.\nEsto suele ocurrir cuando una planta generadora sale de servicio de manera imprevista, provocando un déficit de generación. El DAF ayuda a evitar un colapso mayor del sistema, aunque puede generar afectaciones al servicio como apagones parciales.",
-    "timestamp": 1775688866,
-    "timestamp_local": 1775688866
   }
 ]
