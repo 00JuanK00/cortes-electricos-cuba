@@ -1,9 +1,57 @@
 [
   {
+    "id": 44308,
+    "fecha": "12 de Apr del 2026 a las 12:53 PM",
+    "hora_utc": "2026-04-12 16:53",
+    "mensaje": "⚡Afectado parcialmente el circuito 111 (Mataguá), del municipio Manicaragua. Se estudian las causas.",
+    "timestamp": 1776012827,
+    "timestamp_local": 1776012827
+  },
+  {
+    "id": 44307,
+    "fecha": "12 de Apr del 2026 a las 12:29 PM",
+    "hora_utc": "2026-04-12 16:29",
+    "mensaje": "⚠Afectado el servicio eléctrico en los siguientes circuitos:\n🔹Municipio Ranchuelo: \n👉Ctos 89, 97, 188 y 189\n👉Ctos 148 y 149 San Juan\n👉Cto 91 Batey Osvaldo Herrera\n👉Cto 181 Batey Ifraín Alfonso",
+    "timestamp": 1776011393,
+    "timestamp_local": 1776011393
+  },
+  {
+    "id": 44306,
+    "fecha": "12 de Apr del 2026 a las 12:28 PM",
+    "hora_utc": "2026-04-12 16:28",
+    "mensaje": "💡Con servicio eléctrico el siguiente circuito:\n🔹Municipio Placetas:\n👉Cto 99",
+    "timestamp": 1776011308,
+    "timestamp_local": 1776011308
+  },
+  {
+    "id": 44305,
+    "fecha": "12 de Apr del 2026 a las 12:23 PM",
+    "hora_utc": "2026-04-12 16:23",
+    "mensaje": "💡Con servicio eléctrico los siguientes circuitos:\n🔹Municipio Santa Clara\n👉Cto 5 (Dobarganes)\n👉Cto 17 (Subplanta)",
+    "timestamp": 1776011035,
+    "timestamp_local": 1776011035
+  },
+  {
+    "id": 44304,
+    "fecha": "12 de Apr del 2026 a las 12:22 PM",
+    "hora_utc": "2026-04-12 16:22",
+    "mensaje": "🕛Actualización del servicio eléctrico en las últimas 6 horas.\n✍️El déficit de capacidad de generación en estos momentos es de 92 MW\n✍️En el momento de esta nota, se mantienen afectados 117 circuitos.\n✍️ Cuenta con 131 afectaciones por averías secundarias y de servicio:\n🔸 Caibarién (1)\n🔸Camajuaní (6)\n🔸 Cifuentes (3)\n🔸 Corralillo (4)\n🔸Encrucijada (1)\n🔸Manicaragua (7)\n🔸 Placetas (3)\n🔸Quemado (1)\n🔸Ranchuelo (5)\n🔸 Remedios (13) \n🔸 Sagua (4) \n🔸 Santa Clara (59)\n🔸 Santo Domingo (6)\n🛠️Se encuentran 8 averías en vías de solución.\n🛠️Pendientes a solucionar por el área técnica 9.\n✅La provincia no presenta averías primarias.",
+    "timestamp": 1776010968,
+    "timestamp_local": 1776010968
+  },
+  {
+    "id": 44303,
+    "fecha": "12 de Apr del 2026 a las 12:06 PM",
+    "hora_utc": "2026-04-12 16:06",
+    "mensaje": "⚠Afectado el servicio eléctrico en los siguientes circuitos:\n🔹Municipio Caibarién:\n👉Ctos 63 y 64, 61, 62 \n👉Ctos 182 y 183 Van Troy",
+    "timestamp": 1776009986,
+    "timestamp_local": 1776009986
+  },
+  {
     "id": 44302,
     "fecha": "12 de Apr del 2026 a las 12:02 PM",
     "hora_utc": "2026-04-12 16:02",
-    "mensaje": "Con servicio servicio eléctrico los siguientes circuitos:\n🔹Municipio Santa Clara:\n👉Ctos 37 y 38 (Yabú)   \n👉Cto 9 (Moldes y Troqueles)\n👉Cto 133 (Taller Cafetera)",
+    "mensaje": "💡Con servicio servicio eléctrico los siguientes circuitos:\n🔹Municipio Santa Clara:\n👉Ctos 37 y 38 (Yabú)   \n👉Cto 9 (Moldes y Troqueles)\n👉Cto 133 (Taller Cafetera)",
     "timestamp": 1776009739,
     "timestamp_local": 1776009739
   },
@@ -110,53 +158,5 @@
     "mensaje": "⚠Afectado el servicio eléctrico en el siguiente circuito:\n🔹Municipio Santa Clara:\n👉Cto 166 (Condado)",
     "timestamp": 1776004141,
     "timestamp_local": 1776004141
-  },
-  {
-    "id": 44288,
-    "fecha": "12 de Apr del 2026 a las 10:26 AM",
-    "hora_utc": "2026-04-12 14:26",
-    "mensaje": "💡Con servicio los siguientes circuitos:\n🔹Municipio Camajuaní:\n👉Ctos 59 y 185 Vueltas",
-    "timestamp": 1776004000,
-    "timestamp_local": 1776004000
-  },
-  {
-    "id": 44287,
-    "fecha": "12 de Apr del 2026 a las 10:24 AM",
-    "hora_utc": "2026-04-12 14:24",
-    "mensaje": "Con servicio el circuito 114 del municipio Cifuentes.",
-    "timestamp": 1776003880,
-    "timestamp_local": 1776003880
-  },
-  {
-    "id": 44286,
-    "fecha": "12 de Apr del 2026 a las 10:18 AM",
-    "hora_utc": "2026-04-12 14:18",
-    "mensaje": "🛠️Afectado por manipulación el circuito 114 del municipio Cifuentes, para reponer transformador.",
-    "timestamp": 1776003482,
-    "timestamp_local": 1776003482
-  },
-  {
-    "id": 44285,
-    "fecha": "12 de Apr del 2026 a las 10:08 AM",
-    "hora_utc": "2026-04-12 14:08",
-    "mensaje": "✍️Actualización del servicio eléctrico en la provincia.\n👉De los circuitos apagables que presenta la provincia, se mantienen afectados 102 circuitos.\n👉En el momento de hacer esta nota la provincia tiene 72 MW de afectación por déficit de capacidad de generación, demanda máxima posible a apagar en estos momentos.\n👉Cuenta con 92 afectaciones por averías secundarias y de servicio.",
-    "timestamp": 1776002903,
-    "timestamp_local": 1776002903
-  },
-  {
-    "id": 44284,
-    "fecha": "12 de Apr del 2026 a las 09:55 AM",
-    "hora_utc": "2026-04-12 13:55",
-    "mensaje": "💡Con servicio los siguientes circuitos:\n🔹Municipio Remedios:\n👉Cto 67 \n👉Ctos 69 y 70 Zuluetas\n👉Cto 143 Batey Heriberto Duquezne \n👉Cto 71 Buena Vista",
-    "timestamp": 1776002146,
-    "timestamp_local": 1776002146
-  },
-  {
-    "id": 44283,
-    "fecha": "12 de Apr del 2026 a las 09:52 AM",
-    "hora_utc": "2026-04-12 13:52",
-    "mensaje": "🛠️ Afectado por disparo en la Subestación el circuito 111 (Mataguá), del municipio Manicaragua. Se estudian las causas.",
-    "timestamp": 1776001957,
-    "timestamp_local": 1776001957
   }
 ]

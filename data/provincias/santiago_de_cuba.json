@@ -1,5 +1,21 @@
 [
   {
+    "id": 52201,
+    "fecha": "12 de Apr del 2026 a las 12:40 PM",
+    "hora_utc": "2026-04-12 16:40",
+    "mensaje": "🔴Estimados clientes, se les reitera que el comportamiento de las afectaciones eléctricas y el restablecimiento del servicio, estará en dependencia de la situación que presente el Sistema Electro energético Nacional...",
+    "timestamp": 1776012003,
+    "timestamp_local": 1776012003
+  },
+  {
+    "id": 52200,
+    "fecha": "12 de Apr del 2026 a las 12:08 PM",
+    "hora_utc": "2026-04-12 16:08",
+    "mensaje": "🔴 Estimados clientes , se incorpora a la afectación por Déficit de Generación los circuitos 14 Secc ,  19 y San Luis - Palma ...",
+    "timestamp": 1776010096,
+    "timestamp_local": 1776010096
+  },
+  {
     "id": 52198,
     "fecha": "12 de Apr del 2026 a las 11:01 AM",
     "hora_utc": "2026-04-12 15:01",
@@ -102,21 +118,5 @@
     "mensaje": "🔊Estimados clientes en estos momentos se encuentran afectados por Déficit de Capacidad de Generación La Línea 5385 San Luis - Palma",
     "timestamp": 1775961942,
     "timestamp_local": 1775961942
-  },
-  {
-    "id": 52181,
-    "fecha": "11 de Apr del 2026 a las 10:29 PM",
-    "hora_utc": "2026-04-12 02:29",
-    "mensaje": "🔊Estimados clientes en estos momentos se encuentran afectados por Déficit de Capacidad de Generación el circuito 24",
-    "timestamp": 1775960949,
-    "timestamp_local": 1775960949
-  },
-  {
-    "id": 52180,
-    "fecha": "11 de Apr del 2026 a las 10:26 PM",
-    "hora_utc": "2026-04-12 02:26",
-    "mensaje": "🚨Manipulaciones:\nAcción que se realizan en los circuitos para dar paso al trabajo en zonas afectadas por averías o Vía Libre y posteriormente para restablecer el servicio eléctrico en los circuitos que se encontraban afectados y en los que se trabaja con anterioridad, luego de culminadas las labores pertinentes.",
-    "timestamp": 1775960792,
-    "timestamp_local": 1775960792
   }
 ]
