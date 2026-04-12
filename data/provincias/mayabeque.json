@@ -1,5 +1,29 @@
 [
   {
+    "id": 111726,
+    "fecha": "11 de Apr del 2026 a las 10:37 PM",
+    "hora_utc": "2026-04-12 02:37",
+    "mensaje": "♦️Afectado el servicio en el circuito 1790 que se encontraba restablecido por manipulación ♦️",
+    "timestamp": 1775961439,
+    "timestamp_local": 1775961439
+  },
+  {
+    "id": 111725,
+    "fecha": "11 de Apr del 2026 a las 10:11 PM",
+    "hora_utc": "2026-04-12 02:11",
+    "mensaje": "🔷 Restablecido el servicio en el circuito 1790 por manipulación 🔷",
+    "timestamp": 1775959889,
+    "timestamp_local": 1775959889
+  },
+  {
+    "id": 111724,
+    "fecha": "11 de Apr del 2026 a las 08:10 PM",
+    "hora_utc": "2026-04-12 00:10",
+    "mensaje": "🚨Por déficit de capacidad de generación se afecta el servicio en el siguiente circuito:\n*1790🚨",
+    "timestamp": 1775952612,
+    "timestamp_local": 1775952612
+  },
+  {
     "id": 111723,
     "fecha": "11 de Apr del 2026 a las 06:39 PM",
     "hora_utc": "2026-04-11 22:39",
@@ -110,21 +134,5 @@
     "mensaje": "🚨Por déficit de capacidad de generación se afecta el servicio en los siguientes circuitos:\n*Catalina 1 y 2🚨",
     "timestamp": 1775937953,
     "timestamp_local": 1775937953
-  },
-  {
-    "id": 111706,
-    "fecha": "11 de Apr del 2026 a las 03:56 PM",
-    "hora_utc": "2026-04-11 19:56",
-    "mensaje": "♦️Afectado el servicio en el circuito 1790 por disparo por DAF♦️",
-    "timestamp": 1775937404,
-    "timestamp_local": 1775937404
-  },
-  {
-    "id": 111705,
-    "fecha": "11 de Apr del 2026 a las 03:55 PM",
-    "hora_utc": "2026-04-11 19:55",
-    "mensaje": "🚨Por déficit de capacidad de generación se afecta el servicio en el siguiente circuito:\n*UNAH 🚨",
-    "timestamp": 1775937319,
-    "timestamp_local": 1775937319
   }
 ]
