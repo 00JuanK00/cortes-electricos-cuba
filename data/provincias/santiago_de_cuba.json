@@ -1,5 +1,29 @@
 [
   {
+    "id": 52186,
+    "fecha": "12 de Apr del 2026 a las 01:16 AM",
+    "hora_utc": "2026-04-12 05:16",
+    "mensaje": "🚨Manipulaciones:\nAcción que se realizan en los circuitos para dar paso al trabajo en zonas afectadas por averías o Vía Libre y posteriormente para restablecer el servicio eléctrico en los circuitos que se encontraban afectados y en los que se trabaja con anterioridad, luego de culminadas las labores pertinentes.",
+    "timestamp": 1775970994,
+    "timestamp_local": 1775970994
+  },
+  {
+    "id": 52185,
+    "fecha": "12 de Apr del 2026 a las 01:16 AM",
+    "hora_utc": "2026-04-12 05:16",
+    "mensaje": "🔊Estimados clientes en estos momentos se está Manipulando el circuito 1",
+    "timestamp": 1775970977,
+    "timestamp_local": 1775970977
+  },
+  {
+    "id": 52184,
+    "fecha": "12 de Apr del 2026 a las 01:13 AM",
+    "hora_utc": "2026-04-12 05:13",
+    "mensaje": "🔊Estimados clientes en estos momentos se encuentran afectados por Déficit de Capacidad de Generación los circuitos 19 , 25 , 23 Santiago , el 4 de Palma y La Línea 5395 San Luis",
+    "timestamp": 1775970804,
+    "timestamp_local": 1775970804
+  },
+  {
     "id": 52182,
     "fecha": "11 de Apr del 2026 a las 10:45 PM",
     "hora_utc": "2026-04-12 02:45",
@@ -126,29 +150,5 @@
     "mensaje": "🔊Estimados clientes se incorpora a la afectación los circuitos 3+2,12,17,18 de Santiago y la línea 5380 Mella.",
     "timestamp": 1775938015,
     "timestamp_local": 1775938015
-  },
-  {
-    "id": 52166,
-    "fecha": "11 de Apr del 2026 a las 03:57 PM",
-    "hora_utc": "2026-04-11 19:57",
-    "mensaje": "🔴Estimados clientes en estos momentos se encuentran afectados por Déficit de Capacidad de Generación los circuitos 16 de Santiago y las líneas 4435 Contramaestre y 2 Palma, disculpen por las molestias ocasionadas.",
-    "timestamp": 1775937465,
-    "timestamp_local": 1775937465
-  },
-  {
-    "id": 52165,
-    "fecha": "11 de Apr del 2026 a las 03:40 PM",
-    "hora_utc": "2026-04-11 19:40",
-    "mensaje": "🚨Estimados clientes en estos momentos se encuentran afectados por Déficit de Capacidad de Generación los circuitos 19,21,23,25 de Santiago y 4 de Palma, disculpen por las molestias ocasionadas.",
-    "timestamp": 1775936412,
-    "timestamp_local": 1775936412
-  },
-  {
-    "id": 52164,
-    "fecha": "11 de Apr del 2026 a las 02:29 PM",
-    "hora_utc": "2026-04-11 18:29",
-    "mensaje": "Disparo\nApertura no voluntaria de un interruptor como vía de protección para desconectar uno o varios elementos del circuito, subestación o sistema, restableciéndose el servicio rápidamente en dependencia de la causa.",
-    "timestamp": 1775932188,
-    "timestamp_local": 1775932188
   }
 ]

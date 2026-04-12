@@ -1,5 +1,21 @@
 [
   {
+    "id": 44257,
+    "fecha": "12 de Apr del 2026 a las 01:32 AM",
+    "hora_utc": "2026-04-12 05:32",
+    "mensaje": "🤔Ante cualquier duda con la terminología eléctrica, les volvemos explicar: \n     \n👉Las averías pueden ser primarias (afecta un volumen grande de población pues son las líneas de distribución a 13.8kV y puede afectar varias manzanas, incluso repartos completos).\n\n👉Secundarias (afecta a todos los clientes que se alimenten del mismo transformador, puede afectar una o varias cuadras). \n\n👉De servicio (afectan 1 solo cliente o instalación generalmente producto a daños en la acometida, metro contador, etc.).",
+    "timestamp": 1775971929,
+    "timestamp_local": 1775971929
+  },
+  {
+    "id": 44256,
+    "fecha": "11 de Apr del 2026 a las 11:56 PM",
+    "hora_utc": "2026-04-12 03:56",
+    "mensaje": "🕛Actualización del servicio eléctrico en las últimas 6 horas.\n✍️El déficit de capacidad de generación en estos momentos es de 82 MW\n✍️En el momento de esta nota, se mantienen afectados 116 circuitos.\n✍️ Cuenta con 115 afectaciones por averías secundarias y de servicio:\n🔸 Caibarién (2)\n🔸 Cifuentes (1)\n🔸 Corralillo (4)\n🔸 Placetas (1)\n🔸 Remedios (16) \n🔸 Sagua (6) \n🔸 Santa Clara (63)\n🔸 Santo Domingo (7)\n🛠️Se encuentran 4 averías en vías de solución.\n🛠️Pendientes a solucionar por el área técnica 11.\n✅La provincia no presenta averías primarias.",
+    "timestamp": 1775966177,
+    "timestamp_local": 1775966177
+  },
+  {
     "id": 44254,
     "fecha": "11 de Apr del 2026 a las 09:56 PM",
     "hora_utc": "2026-04-12 01:56",
@@ -126,21 +142,5 @@
     "mensaje": "💡Restablecido el servicio eléctrico en el circuito 118 del municipio Remedios después de reparada la avería.",
     "timestamp": 1775939992,
     "timestamp_local": 1775939992
-  },
-  {
-    "id": 44237,
-    "fecha": "11 de Apr del 2026 a las 04:37 PM",
-    "hora_utc": "2026-04-11 20:37",
-    "mensaje": "⚠Afectado el servicio eléctrico en el siguiente circuito:\n🔹Municipio Santa Clara:\n👉Cto 167 (Virginia)",
-    "timestamp": 1775939879,
-    "timestamp_local": 1775939879
-  },
-  {
-    "id": 44236,
-    "fecha": "11 de Apr del 2026 a las 04:18 PM",
-    "hora_utc": "2026-04-11 20:18",
-    "mensaje": "✅Actualización del servicio eléctrico en la provincia.\n👉De los circuitos apagables que presenta la provincia, se mantienen afectados 117 circuitos.\n👉En el momento de hacer esta nota la provincia tiene 84 MW de afectación por déficit de capacidad de generación, demanda máxima posible a apagar en estos momentos.\n👉Cuenta con 130 afectaciones por averías secundarias y de servicio.",
-    "timestamp": 1775938720,
-    "timestamp_local": 1775938720
   }
 ]
