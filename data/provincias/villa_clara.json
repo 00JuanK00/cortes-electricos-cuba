@@ -1,5 +1,21 @@
 [
   {
+    "id": 44259,
+    "fecha": "12 de Apr del 2026 a las 02:00 AM",
+    "hora_utc": "2026-04-12 06:00",
+    "mensaje": "✅Actualización del servicio eléctrico en la provincia.\n👉De los circuitos apagables que presenta la provincia, se mantienen afectados 106 circuitos.\n👉En el momento de hacer esta nota la provincia tiene 68 MW de afectación por déficit de capacidad de generación, demanda máxima posible a apagar en estos momentos.\n👉Cuenta con 98 afectaciones por averías secundarias y de servicio.",
+    "timestamp": 1775973600,
+    "timestamp_local": 1775973600
+  },
+  {
+    "id": 44258,
+    "fecha": "12 de Apr del 2026 a las 01:58 AM",
+    "hora_utc": "2026-04-12 05:58",
+    "mensaje": "💡Con servicio eléctrico los siguientes circuitos:\n🔹Municipio Camajuaní:\n👉Ctos 77, 59 y 185 Vueltas",
+    "timestamp": 1775973480,
+    "timestamp_local": 1775973480
+  },
+  {
     "id": 44257,
     "fecha": "12 de Apr del 2026 a las 01:32 AM",
     "hora_utc": "2026-04-12 05:32",
@@ -126,21 +142,5 @@
     "mensaje": "⚠️Afectado el servicio eléctrico en el siguiente circuito:\n👉Cto 31 SC Industrial",
     "timestamp": 1775940892,
     "timestamp_local": 1775940892
-  },
-  {
-    "id": 44239,
-    "fecha": "11 de Apr del 2026 a las 04:53 PM",
-    "hora_utc": "2026-04-11 20:53",
-    "mensaje": "⚠Afectado el servicio eléctrico en los siguientes circuitos:\n🔹Municipio Santa Clara:\n👉Ctos 2, 4 (Consejo- Centro)",
-    "timestamp": 1775940800,
-    "timestamp_local": 1775940800
-  },
-  {
-    "id": 44238,
-    "fecha": "11 de Apr del 2026 a las 04:39 PM",
-    "hora_utc": "2026-04-11 20:39",
-    "mensaje": "💡Restablecido el servicio eléctrico en el circuito 118 del municipio Remedios después de reparada la avería.",
-    "timestamp": 1775939992,
-    "timestamp_local": 1775939992
   }
 ]
