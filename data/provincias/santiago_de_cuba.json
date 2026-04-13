@@ -1,5 +1,29 @@
 [
   {
+    "id": 52270,
+    "fecha": "13 de Apr del 2026 a las 04:45 PM",
+    "hora_utc": "2026-04-13 20:45",
+    "mensaje": "🔴Estimados clientes se les informa que se incorporan a la afectación los circuitos 12 , 3 , 17 y la línea 5975 Baconao .",
+    "timestamp": 1776113119,
+    "timestamp_local": 1776113119
+  },
+  {
+    "id": 52267,
+    "fecha": "13 de Apr del 2026 a las 04:11 PM",
+    "hora_utc": "2026-04-13 20:11",
+    "mensaje": "🔊Estimados clientes en estos momentos se encuentra afectados por Déficit de Capacidad de Generación el circuito 9 Seccionalizado",
+    "timestamp": 1776111106,
+    "timestamp_local": 1776111106
+  },
+  {
+    "id": 52266,
+    "fecha": "13 de Apr del 2026 a las 04:03 PM",
+    "hora_utc": "2026-04-13 20:03",
+    "mensaje": "🔊Estimados clientes en estos momentos se encuentra afectados por Déficit de Capacidad de Generación los circuitos 11 , 16 de Santiago y 1 de Palma",
+    "timestamp": 1776110617,
+    "timestamp_local": 1776110617
+  },
+  {
     "id": 52265,
     "fecha": "13 de Apr del 2026 a las 03:37 PM",
     "hora_utc": "2026-04-13 19:37",
@@ -86,45 +110,5 @@
     "mensaje": "🔴La Empresa Eléctrica de Santiago de Cuba pone a disposición de sus clientes la programación correspondiente a la semana del 14/04 al 20/04.                                                                                                                   \n\nEl comportamiento de las afectaciones estará en dependencia de la situación que presente el Sistema Electroenergético Nacional.",
     "timestamp": 1776096801,
     "timestamp_local": 1776096801
-  },
-  {
-    "id": 52250,
-    "fecha": "13 de Apr del 2026 a las 12:12 PM",
-    "hora_utc": "2026-04-13 16:12",
-    "mensaje": "🚨Manipulaciones:\nAcción que se realizan en los circuitos para dar paso al trabajo en zonas afectadas por averías o Vía Libre y posteriormente para restablecer el servicio eléctrico en los circuitos que se encontraban afectados y en los que se trabaja con anterioridad, luego de culminadas las labores pertinentes.",
-    "timestamp": 1776096722,
-    "timestamp_local": 1776096722
-  },
-  {
-    "id": 52249,
-    "fecha": "13 de Apr del 2026 a las 12:12 PM",
-    "hora_utc": "2026-04-13 16:12",
-    "mensaje": "🔊Estimados clientes en estos momentos se está Manipulando el circuito 11",
-    "timestamp": 1776096722,
-    "timestamp_local": 1776096722
-  },
-  {
-    "id": 52248,
-    "fecha": "13 de Apr del 2026 a las 11:47 AM",
-    "hora_utc": "2026-04-13 15:47",
-    "mensaje": "🔊Estimados clientes en estos momentos se encuentra afectados por Déficit de Capacidad de Generación los circuitos 23 , 16 y La Línea 4385",
-    "timestamp": 1776095223,
-    "timestamp_local": 1776095223
-  },
-  {
-    "id": 52247,
-    "fecha": "13 de Apr del 2026 a las 10:49 AM",
-    "hora_utc": "2026-04-13 14:49",
-    "mensaje": "🚨Disparo Automático de Frecuencia (DAF):\nOcurre cuando la frecuencia está por debajo de los 60Hz y determinada carga o circuito se desconecta del sistema automáticamente hasta que se estabilice.",
-    "timestamp": 1776091782,
-    "timestamp_local": 1776091782
-  },
-  {
-    "id": 52246,
-    "fecha": "13 de Apr del 2026 a las 10:49 AM",
-    "hora_utc": "2026-04-13 14:49",
-    "mensaje": "🔊Estimados clientes en estos momentos se encuentra disparado por DAF el circuito 26",
-    "timestamp": 1776091765,
-    "timestamp_local": 1776091765
   }
 ]

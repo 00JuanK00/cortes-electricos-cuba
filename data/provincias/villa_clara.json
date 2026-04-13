@@ -1,5 +1,37 @@
 [
   {
+    "id": 44426,
+    "fecha": "13 de Apr del 2026 a las 04:27 PM",
+    "hora_utc": "2026-04-13 20:27",
+    "mensaje": "⚠Afectado el servicio eléctrico en los siguientes circuitos:\n🔹Municipio Santa Clara:\n👉Ctos 2 y 4 (Consejo- Centro)",
+    "timestamp": 1776112025,
+    "timestamp_local": 1776112025
+  },
+  {
+    "id": 44425,
+    "fecha": "13 de Apr del 2026 a las 04:16 PM",
+    "hora_utc": "2026-04-13 20:16",
+    "mensaje": "⚠Afectado el servicio eléctrico en los siguientes circuitos:\n🔹Municipio Camajuaní:\n👉Ctos 73 y 156",
+    "timestamp": 1776111369,
+    "timestamp_local": 1776111369
+  },
+  {
+    "id": 44424,
+    "fecha": "13 de Apr del 2026 a las 04:06 PM",
+    "hora_utc": "2026-04-13 20:06",
+    "mensaje": "✍️Actualización del servicio eléctrico en la provincia.\n👉De los circuitos apagables que presenta la provincia, se mantienen afectados 140 circuitos.\n👉En el momento de hacer esta nota la provincia tiene 109 MW de afectación por déficit de capacidad de generación, demanda máxima posible a apagar en estos momentos.\n👉Cuenta con 158 afectaciones por averías secundarias y de servicio",
+    "timestamp": 1776110797,
+    "timestamp_local": 1776110797
+  },
+  {
+    "id": 44423,
+    "fecha": "13 de Apr del 2026 a las 04:03 PM",
+    "hora_utc": "2026-04-13 20:03",
+    "mensaje": "⚠Afectado el servicio eléctrico en los siguientes circuitos:\n🔹Municipio Santa Clara\n👉Cto 7 (Universidad)  \n👉Cto 146 (Elevado Aeropuerto) \n👉Cto 22 (Construcciones Textil)\n👉Cto 131 (Las Antillas)\n👉Cto 25 (Los Güiros)\n👉Cto 24 (Planta Asfalto)\n👉Cto 35 (Biotecnología)",
+    "timestamp": 1776110639,
+    "timestamp_local": 1776110639
+  },
+  {
     "id": 44422,
     "fecha": "13 de Apr del 2026 a las 03:55 PM",
     "hora_utc": "2026-04-13 19:55",
@@ -118,37 +150,5 @@
     "mensaje": "⚠Afectado el servicio eléctrico en el siguiente circuito:\n🔹Municipio Santa Clara:\n👉Cto 6 (Vigía)",
     "timestamp": 1776098232,
     "timestamp_local": 1776098232
-  },
-  {
-    "id": 44406,
-    "fecha": "13 de Apr del 2026 a las 12:32 PM",
-    "hora_utc": "2026-04-13 16:32",
-    "mensaje": "💡Con servicio eléctrico los siguientes circuitos:\n🔹Municipio Ranchuelo:\n👉Cto 92 Esperanza (Pueblo)\n👉Cto 93 Esperanza (Campo)\n🔹Municipio Santa Clara\n👉Cto 191 (Quemado de Hilario)",
-    "timestamp": 1776097936,
-    "timestamp_local": 1776097936
-  },
-  {
-    "id": 44405,
-    "fecha": "13 de Apr del 2026 a las 12:16 PM",
-    "hora_utc": "2026-04-13 16:16",
-    "mensaje": "💡Con servicio eléctrico los siguientes circuitos:\n🔹Municipio Encrucijada\n👉Cto 120 Calabaza\n👉Ctos 121 y 127 Perucho\n🔹Municipio Placetas:\n👉Cto 192 Benito Juárez\n👉Cto 102 Peroti",
-    "timestamp": 1776096972,
-    "timestamp_local": 1776096972
-  },
-  {
-    "id": 44404,
-    "fecha": "13 de Apr del 2026 a las 12:05 PM",
-    "hora_utc": "2026-04-13 16:05",
-    "mensaje": "⚠Afectado el servicio eléctrico en los siguientes circuitos:\n🔹Municipio Santa Clara:\n👉Cto 5 (Dobarganes)\n👉Cto 17 (Subplanta)",
-    "timestamp": 1776096350,
-    "timestamp_local": 1776096350
-  },
-  {
-    "id": 44403,
-    "fecha": "13 de Apr del 2026 a las 12:05 PM",
-    "hora_utc": "2026-04-13 16:05",
-    "mensaje": "🕛Actualización del servicio eléctrico en las últimas 6 horas.\n✍️El déficit de capacidad de generación en estos momentos es de 111 MW\n✍️En el momento de esta nota, se mantienen afectados 130 circuitos.\n✍️ Cuenta con 163 afectaciones por averías secundarias y de servicio:\n🔸 Caibarién (4)\n🔸Camajuaní (2)\n🔸 Cifuentes (3)\n🔸 Corralillo (7)\n🔸 Encrucijada (1)\n🔸 Manicaragua (8)\n🔸 Placetas (4)\n🔸 Ranchuelo (6)\n🔸 Remedios (11) \n🔸 Sagua (6) \n🔸 Santa Clara (99)\n🔸 Santo Domingo (12)\n🛠️Pendientes a solucionar por el área técnica 7.\n✅La provincia no presenta averías primarias.",
-    "timestamp": 1776096325,
-    "timestamp_local": 1776096325
   }
 ]
