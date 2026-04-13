@@ -1,5 +1,21 @@
 [
   {
+    "id": 36395,
+    "fecha": "13 de Apr del 2026 a las 12:25 PM",
+    "hora_utc": "2026-04-13 16:25",
+    "mensaje": "📌Estimados Clientes📌\n\n🏭El Sistema Eléctrico Nacional este compuesto por:\n\n⚡️Unidades de generación\n⚡️Unidades de transmisión\n⚡️Unidades de distribución \n\n\n🔹🔹 ¿Que son los Microsistemas?\nPequeños sistemas eléctricos que están conectados por la red de distribución, se alimentan de sistemas de generación (motores de Fuel Oil, Diesel), que están en la misma red de distribución.\n\n🔷🔷 ¿Que son las Islas?\nEs un sistema eléctrico mas grande, incluye elementos de la red de transmisión y se enfocan en hacer arrancar el sistema base.\n\n🔴 ¿Que sucede si ocurre una desconexión del Sistema Eléctrico Nacional?   \nCuando se desconecta el SEN inicia un proceso de restauración, y se crean microsistemas eléctricos, que se agrupan en islas para abastecer la base del SEN (Termoeléctricas).\n\n\n*Grupo de Comunicación Institucional.",
+    "timestamp": 1776097531,
+    "timestamp_local": 1776097531
+  },
+  {
+    "id": 36394,
+    "fecha": "13 de Apr del 2026 a las 12:04 PM",
+    "hora_utc": "2026-04-13 16:04",
+    "mensaje": "Por déficit de capacidad de generación se encuentran afectados 109 mw.\n*Grupo de Comunicación Institucional.",
+    "timestamp": 1776096285,
+    "timestamp_local": 1776096285
+  },
+  {
     "id": 36393,
     "fecha": "13 de Apr del 2026 a las 11:51 AM",
     "hora_utc": "2026-04-13 15:51",
@@ -142,21 +158,5 @@
     "mensaje": "Por déficit de capacidad de generación se encuentran afectados 61 mw.\n*Grupo de Comunicación Institucional.",
     "timestamp": 1776065569,
     "timestamp_local": 1776065569
-  },
-  {
-    "id": 36375,
-    "fecha": "13 de Apr del 2026 a las 03:08 AM",
-    "hora_utc": "2026-04-13 07:08",
-    "mensaje": "📌 Estimados clientes 📌\n\n\n☀️⚡️| Conexión correcta de paneles solares a la red.\n\n✅ Para conectar paneles solares a la red eléctrica del hogar de forma segura y eficiente, primero los paneles deben unirse entre sí (en serie o paralelo) para generar la corriente continua (DC), la cual pasa a un inversor que la convierte en corriente alterna (AC) compatible con la red doméstica.\n\n✅Esta salida se conecta al tablero eléctrico a través de un interruptor dedicado y protecciones como disyuntores y supresores de sobretensión para evitar daños, y debe incluir un medidor bidireccional si se inyecta energía a la red pública. \n\n✅ Es fundamental que la instalación tenga una correcta puesta a tierra, dispositivos de desconexión rápida y que respete la normativa local, ya que una mala conexión puede causar fallas, pérdidas de eficiencia o incluso riesgos eléctricos. \n\n✅ Se recomienda que el sistema sea diseñado e instalado por un profesional certificado.\n\n\n*Grupo de Comunicación Institucional.",
-    "timestamp": 1776064081,
-    "timestamp_local": 1776064081
-  },
-  {
-    "id": 36374,
-    "fecha": "13 de Apr del 2026 a las 02:17 AM",
-    "hora_utc": "2026-04-13 06:17",
-    "mensaje": "📌 Estimados Clientes 📌\n\n💡 ¿Qué son los circuitos priorizados?  \nSon aquellas líneas de distribución que se mantienen con servicio incluso durante los apagones, porque alimentan centros estratégicos y vitales como hospitales, estaciones de bombeo de agua, telecomunicaciones, servicios básicos y algunas industrias esenciales.\n\n¿Como se diseñan los circuitos?\n〽️ La red eléctrica está organizada en grandes ramales; no siempre es posible separar solo un hospital o una estación de bombeo sin incluir también las viviendas y comercios conectados a la misma línea.\n〽️ Mantener circuitos más grandes reduce el riesgo de sobrecargas, facilita la operación en condiciones de déficit, da seguridad y estabilidad.  \n\n*Grupo de Comunicación Institucional.",
-    "timestamp": 1776061021,
-    "timestamp_local": 1776061021
   }
 ]
