@@ -1,5 +1,21 @@
 [
   {
+    "id": 18729,
+    "fecha": "13 de Apr del 2026 a las 09:35 AM",
+    "hora_utc": "2026-04-13 13:35",
+    "mensaje": "La Empresa Eléctrica Las Tunas informa que, según la nota emitida por la Unión Eléctrica para el 13 de abril, en el día de ayer se afectó el servicio por déficit de capacidad durante las 24 horas y se ha mantenido la afectación durante la madrugada de hoy. En nuestra provincia se afectaron la totalidad de los circuitos apagables, con una máxima afectación de 55.9 MW.\nActualmente están fuera de servicio por avería la Unidad 1 de la CTE Ernesto Guevara De La Serna, Unidad 5 de la CTE Antonio Maceo, Unidad 2 de la CTE Felton. En mantenimiento se encuentran las Unidades 5 de la CTE Mariel, Unidad 4 de la CTE Carlos Manuel de Céspedes, Unidades 3 y 6 de la CTE Renté, Unidad 5 de la CTE Nuevitas. \nEn el horario de la media se estima una afectación de 1100 MW, esto puede implicar una afectación del 90% en nuestra provincia.\nEn el horario nocturno se estima un déficit de 1700 MW en el país, lo cual puede representar el 85% de los circuitos apagables de la provincia.\nEstos valores pueden variar según la demanda nacional.",
+    "timestamp": 1776087321,
+    "timestamp_local": 1776087321
+  },
+  {
+    "id": 18728,
+    "fecha": "13 de Apr del 2026 a las 09:30 AM",
+    "hora_utc": "2026-04-13 13:30",
+    "mensaje": "Se encuentran afectados por disparo automático por frecuencia (DAF) los siguientes \nCircuito 33 Kv: 6310\nTK20 Becerra \nTK21 Tunazúcar\nTK39 Providencia IV \nTK50 Vázquez \nTK51 Santa Teresa \nTK54 Vázquez\n\nCircuito 33 Kv: 6305\nTK41 Calixto\nTK40 Vista Alegre\nTK42 Gastón y Arroyo Muerto\nTK45 La Ceiba\nTK43 Las Parras, Omaja y Cañada Honda\nTK44 Vivienda",
+    "timestamp": 1776087049,
+    "timestamp_local": 1776087049
+  },
+  {
     "id": 18727,
     "fecha": "13 de Apr del 2026 a las 08:18 AM",
     "hora_utc": "2026-04-13 12:18",
@@ -102,21 +118,5 @@
     "mensaje": "✅Se restablece el servicio eléctrico al circuito TK 54 (Vázquez) que se encontraba afectado por avería.",
     "timestamp": 1775765569,
     "timestamp_local": 1775765569
-  },
-  {
-    "id": 18709,
-    "fecha": "09 de Apr del 2026 a las 03:45 PM",
-    "hora_utc": "2026-04-09 19:45",
-    "mensaje": "✅Se restablece el servicio eléctrico al circuito TK 85 (Leningrado) que se encontraba afectado por avería.",
-    "timestamp": 1775763919,
-    "timestamp_local": 1775763919
-  },
-  {
-    "id": 18708,
-    "fecha": "09 de Apr del 2026 a las 02:04 PM",
-    "hora_utc": "2026-04-09 18:04",
-    "mensaje": "📲Centro Telefónico:\nLa Empresa Eléctrica Las Tunas pone a disposición de sus clientes un Centro de Atención Telefónica con el objetivo de brindar asistencia y responder a sus inquietudes. Para asegurar un flujo eficiente de comunicación, el centro cuenta con 38 líneas de entrada, gestionadas por 6 operadores en cada turno de trabajo.\nCuando los 6 operadores se encuentran atendiendo llamadas simultáneamente, las siguientes 32 llamadas entrantes son colocadas en una cola de espera, donde una operadora automática les informa que serán atendidas a la brevedad, acompañando la espera con música. En esta situación, se requiere paciencia por parte del cliente hasta que un operador se desocupe y su llamada sea transferida automáticamente. Sin embargo, el sistema tiene un límite. A partir de la llamada número 39, todas las líneas de entrada estarán ocupadas, lo que resultará en una señal de \"ocupado\" para el cliente. En este caso, para lograr contactar al centro, el cliente deberá intentar la llamada nuevamente hasta que una línea quede disponible. La Empresa Eléctrica Las Tunas trabaja continuamente para optimizar este servicio y agradece su comprensión.",
-    "timestamp": 1775757859,
-    "timestamp_local": 1775757859
   }
 ]

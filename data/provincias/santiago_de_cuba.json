@@ -1,5 +1,45 @@
 [
   {
+    "id": 52242,
+    "fecha": "13 de Apr del 2026 a las 09:56 AM",
+    "hora_utc": "2026-04-13 13:56",
+    "mensaje": "🔊Estimados clientes en estos momentos se encuentra afectados por Déficit de Capacidad de Generación el circuito 23",
+    "timestamp": 1776088564,
+    "timestamp_local": 1776088564
+  },
+  {
+    "id": 52241,
+    "fecha": "13 de Apr del 2026 a las 09:55 AM",
+    "hora_utc": "2026-04-13 13:55",
+    "mensaje": "📌🗓Nota Informativa: Estado del Sistema Eléctrico Nacional (SEN) – 13 de abril de 2026\n\n👉 En el día de ayer se afectó el servicio por déficit de capacidad durante las 24 horas y se ha mantenido la afectación durante la madrugada de hoy. La máxima afectación por déficit de capacidad de generación en el día de ayer fue de ⚡️1655 MW a las ⏰19:40 horas.\n\n🌞 La producción de energía de los 54 nuevos parques solares fotovoltaicos fue de 3659 MWh, con 424 MW como máxima potencia entregada en el horario de la media con esta fuente de generación.\n\n👉 La disponibilidad del SEN a las⏰ 06:00 horas del día de hoy fue de 1270 MW, la demanda 2265 MW, con ⚡️994 MW afectados. En el horario de la media se estima una afectación de ⚡️1100 MW.\n\n🛠Principales incidencias\n\n➡️ Avería: Unidad 1 de la CTE Ernesto Guevara De La Serna, Unidad 5 de la CTE Antonio Maceo, Unidad 2 de la CTE Felton.\n\n➡️ Mantenimiento: Unidades 5 de la CTE Mariel, Unidad 4 de la CTE Carlos Manuel de Céspedes, Unidades 3 y 6 de la CTE Renté, Unidad 5 de la CTE Nuevitas.\n\n👉 Limitaciones en la generación térmica: 345 MW fuera de servicio.\n\n🔊Pronóstico para el horario pico\n\n🏭Se pronostica para el pico la entrada de la unidad 3 de la CTE Renté con 40 MW.\n\n👉 Con este pronóstico se estima para el horario de máxima demanda una disponibilidad de 1310 MW con una demanda máxima de 2980 MW, para un déficit de 1670 MW, por lo que de mantenerse las condiciones previstas se pronostica una afectación de ⚡️1700 MW en este horario.",
+    "timestamp": 1776088523,
+    "timestamp_local": 1776088523
+  },
+  {
+    "id": 52240,
+    "fecha": "13 de Apr del 2026 a las 09:28 AM",
+    "hora_utc": "2026-04-13 13:28",
+    "mensaje": "🔊Estimados clientes en estos momentos se encuentra afectados por Déficit de Capacidad de Generación La Línea 5330 el Cristo",
+    "timestamp": 1776086880,
+    "timestamp_local": 1776086880
+  },
+  {
+    "id": 52239,
+    "fecha": "13 de Apr del 2026 a las 09:25 AM",
+    "hora_utc": "2026-04-13 13:25",
+    "mensaje": "🚨Disparo Automático de Frecuencia (DAF):\nOcurre cuando la frecuencia está por debajo de los 60Hz y determinada carga o circuito se desconecta del sistema automáticamente hasta que se estabilice.",
+    "timestamp": 1776086754,
+    "timestamp_local": 1776086754
+  },
+  {
+    "id": 52238,
+    "fecha": "13 de Apr del 2026 a las 09:25 AM",
+    "hora_utc": "2026-04-13 13:25",
+    "mensaje": "🔊Estimados clientes en estos momentos se encuentran Disparados por DAF los circuitos 17 y 14",
+    "timestamp": 1776086725,
+    "timestamp_local": 1776086725
+  },
+  {
     "id": 52237,
     "fecha": "13 de Apr del 2026 a las 07:20 AM",
     "hora_utc": "2026-04-13 11:20",
@@ -102,45 +142,5 @@
     "mensaje": "🔴Se incorpora a la afectación a la afectación el circuito 7 seccionalizado de Santiago.",
     "timestamp": 1776038345,
     "timestamp_local": 1776038345
-  },
-  {
-    "id": 52222,
-    "fecha": "12 de Apr del 2026 a las 07:19 PM",
-    "hora_utc": "2026-04-12 23:19",
-    "mensaje": "🚨Estimados clientes en estos momentos se encuentran afectados por Déficit de Capacidad de Generación los circuitos 9,11,20,26 de Santiago, circuito 1 Palma y la línea  5385 San Luis- Palma, disculpen por las molestias ocasionadas.",
-    "timestamp": 1776035942,
-    "timestamp_local": 1776035942
-  },
-  {
-    "id": 52221,
-    "fecha": "12 de Apr del 2026 a las 06:58 PM",
-    "hora_utc": "2026-04-12 22:58",
-    "mensaje": "🔊Estimados clientes en estos momentos se encuentran afectados por Déficit de Capacidad de Generación los circuitos 2 Palma y las líneas 4390  y 4395 Contramaestre, disculpen por las molestias ocasionadas.",
-    "timestamp": 1776034713,
-    "timestamp_local": 1776034713
-  },
-  {
-    "id": 52220,
-    "fecha": "12 de Apr del 2026 a las 06:11 PM",
-    "hora_utc": "2026-04-12 22:11",
-    "mensaje": "🔴Estimados clientes se encuentra afectada por Déficit de Generación la línea 5395 San Luis",
-    "timestamp": 1776031878,
-    "timestamp_local": 1776031878
-  },
-  {
-    "id": 52219,
-    "fecha": "12 de Apr del 2026 a las 05:43 PM",
-    "hora_utc": "2026-04-12 21:43",
-    "mensaje": "🚨Estimados clientes en estos momentos se encuentran afectados por Déficit de Capacidad de Generación los circuitos 10,22  de Santiago y las líneas 4435 Contramaestre  y 5335 Guamá, disculpen por las molestias ocasionadas.",
-    "timestamp": 1776030221,
-    "timestamp_local": 1776030221
-  },
-  {
-    "id": 52218,
-    "fecha": "12 de Apr del 2026 a las 05:22 PM",
-    "hora_utc": "2026-04-12 21:22",
-    "mensaje": "🔊Estimados clientes se incorpora a la afectación la línea 5980 San Juan.",
-    "timestamp": 1776028936,
-    "timestamp_local": 1776028936
   }
 ]
