@@ -1,5 +1,21 @@
 [
   {
+    "id": 111903,
+    "fecha": "14 de Apr del 2026 a las 05:29 PM",
+    "hora_utc": "2026-04-14 21:29",
+    "mensaje": "🚨Por déficit de capacidad de generación se afecta el servicio en los siguientes circuitos:\n*2440\n*Ganuza🚨",
+    "timestamp": 1776202182,
+    "timestamp_local": 1776202182
+  },
+  {
+    "id": 111902,
+    "fecha": "14 de Apr del 2026 a las 05:13 PM",
+    "hora_utc": "2026-04-14 21:13",
+    "mensaje": "🚨Por déficit de capacidad de generación se afecta el servicio en el siguiente circuito:\n*Guines 1 🚨",
+    "timestamp": 1776201205,
+    "timestamp_local": 1776201205
+  },
+  {
     "id": 111901,
     "fecha": "14 de Apr del 2026 a las 04:39 PM",
     "hora_utc": "2026-04-14 20:39",
@@ -94,21 +110,5 @@
     "mensaje": "**Nota Informativa: Estado del Sistema Eléctrico Nacional (SEN) – 14 de abril de 2026\n**En el día de ayer se afectó el servicio por déficit de capacidad durante las 24 horas y se ha mantenido la afectación durante la madrugada de hoy. La máxima afectación por déficit de capacidad de generación en el día de ayer fue de 1783 MW a las 19:40 horas, superior a lo planificado por salida imprevista de la unidad 6 de Energas Boca de Jaruco.\nLa producción de energía de los 54 nuevos parques solares fotovoltaicos fue de 3681 MWh, con 533 MW como máxima potencia entregada en el horario de la media con esta fuente de generación. \n**Estado actual del SEN\n**La disponibilidad del SEN a las 06:00 horas es de 1180 MW, la demanda 2340 MW, con 1158 MW afectados. En el horario de la media se estima una afectación de 1200 MW. \n**Principales incidencias\n**Avería: Unidad 1 de la CTE Ernesto Guevara De La Serna, Unidades 3 y 5 de la CTE Antonio Maceo, Unidad 2 de la CTE Felton.\nMantenimiento: Unidades 5 de la CTE Mariel, Unidad 4 de la CTE Carlos Manuel de Céspedes, Unidades 3 y 6 de la CTE Renté, Unidad 5 de la CTE Nuevitas.\nLimitaciones en la generación térmica: 353 MW fuera de servicio.\n**Pronóstico para el horario pico\n**Se estima para el horario de máxima demanda una disponibilidad de 1180 MW con una demanda máxima de 2850 MW, para un déficit de 1670 MW, por lo que de mantenerse las condiciones previstas se pronostica una afectación de 1700 MW en este horario.",
     "timestamp": 1776170110,
     "timestamp_local": 1776170110
-  },
-  {
-    "id": 111883,
-    "fecha": "14 de Apr del 2026 a las 08:17 AM",
-    "hora_utc": "2026-04-14 12:17",
-    "mensaje": "🚨Por déficit de capacidad de generación se afecta el servicio en el siguiente circuito:\n*1790 🚨",
-    "timestamp": 1776169038,
-    "timestamp_local": 1776169038
-  },
-  {
-    "id": 111882,
-    "fecha": "14 de Apr del 2026 a las 07:49 AM",
-    "hora_utc": "2026-04-14 11:49",
-    "mensaje": "🚨Por déficit de capacidad de generación se afecta el servicio en los siguientes circuitos:\n*Camilo\n*Jaruco \n*Bío 1\n*Salud 1 y 2🚨",
-    "timestamp": 1776167381,
-    "timestamp_local": 1776167381
   }
 ]
