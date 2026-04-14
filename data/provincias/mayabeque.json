@@ -1,5 +1,21 @@
 [
   {
+    "id": 111889,
+    "fecha": "14 de Apr del 2026 a las 12:30 PM",
+    "hora_utc": "2026-04-14 16:30",
+    "mensaje": "🚨Por déficit de capacidad de generación se afecta el servicio en el siguiente circuito:\n*San Nicolás 1🚨",
+    "timestamp": 1776184207,
+    "timestamp_local": 1776184207
+  },
+  {
+    "id": 111888,
+    "fecha": "14 de Apr del 2026 a las 12:12 PM",
+    "hora_utc": "2026-04-14 16:12",
+    "mensaje": "🚨Por déficit de capacidad de generación se afecta el servicio en el siguiente circuito:\n*3655🚨",
+    "timestamp": 1776183177,
+    "timestamp_local": 1776183177
+  },
+  {
     "id": 111885,
     "fecha": "14 de Apr del 2026 a las 08:35 AM",
     "hora_utc": "2026-04-14 12:35",
@@ -11,7 +27,7 @@
     "id": 111883,
     "fecha": "14 de Apr del 2026 a las 08:17 AM",
     "hora_utc": "2026-04-14 12:17",
-    "mensaje": "🚨Por déficit de capacidad de generación se afecta el servicio en los siguientes circuitos:\n*1790 🚨",
+    "mensaje": "🚨Por déficit de capacidad de generación se afecta el servicio en el siguiente circuito:\n*1790 🚨",
     "timestamp": 1776169038,
     "timestamp_local": 1776169038
   },
@@ -86,21 +102,5 @@
     "mensaje": "📣🚨Se informa a nuestros clientes  que continúa afectado el servicio por causa de un poste partido el cual afecta a los siguientes circuitos:\n- Nazareno\n- Menocal \n- Babiney\n- CENSA\n- UNAH🚨📣",
     "timestamp": 1776146113,
     "timestamp_local": 1776146113
-  },
-  {
-    "id": 111868,
-    "fecha": "14 de Apr del 2026 a las 12:44 AM",
-    "hora_utc": "2026-04-14 04:44",
-    "mensaje": "🚨Por déficit de capacidad de generación se afecta el servicio en el siguiente circuito:\n*Güines 1 🚨",
-    "timestamp": 1776141880,
-    "timestamp_local": 1776141880
-  },
-  {
-    "id": 111867,
-    "fecha": "14 de Apr del 2026 a las 12:44 AM",
-    "hora_utc": "2026-04-14 04:44",
-    "mensaje": "🚨Por déficit de capacidad de generación se afecta el servicio en los siguientes circuitos:\n*Nueva Paz\n*Los Palos🚨",
-    "timestamp": 1776141880,
-    "timestamp_local": 1776141880
   }
 ]
