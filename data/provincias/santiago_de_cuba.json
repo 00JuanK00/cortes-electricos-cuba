@@ -1,5 +1,21 @@
 [
   {
+    "id": 52354,
+    "fecha": "15 de Apr del 2026 a las 01:49 PM",
+    "hora_utc": "2026-04-15 17:49",
+    "mensaje": "‼️Disparo Automático de Frecuencia (DAF):‼️\nOcurre cuando la frecuencia está por debajo de los 60Hz y determinada carga o circuito se desconecta del sistema automáticamente hasta que se estabilice.",
+    "timestamp": 1776275396,
+    "timestamp_local": 1776275396
+  },
+  {
+    "id": 52353,
+    "fecha": "15 de Apr del 2026 a las 01:49 PM",
+    "hora_utc": "2026-04-15 17:49",
+    "mensaje": "🔴Se les informa a nuestros clientes que está disparado por DAF los circuitos14 y 17 ..",
+    "timestamp": 1776275352,
+    "timestamp_local": 1776275352
+  },
+  {
     "id": 52352,
     "fecha": "15 de Apr del 2026 a las 12:35 PM",
     "hora_utc": "2026-04-15 16:35",
@@ -134,21 +150,5 @@
     "mensaje": "Manipulaciones:\nAcción que se realizan en los circuitos para dar paso al trabajo en zonas afectadas por averías o Vía Libre y posteriormente para restablecer el servicio eléctrico en los circuitos que se encontraban afectados y en los que se trabaja con anterioridad, luego de culminadas las labores pertinentes.",
     "timestamp": 1776232887,
     "timestamp_local": 1776232887
-  },
-  {
-    "id": 52334,
-    "fecha": "15 de Apr del 2026 a las 02:01 AM",
-    "hora_utc": "2026-04-15 06:01",
-    "mensaje": "🔊 Estimados clientes se encuentra en manipulación el circuito 7 de Santiago, pedimos disculpas por las molestias ocasionadas.",
-    "timestamp": 1776232869,
-    "timestamp_local": 1776232869
-  },
-  {
-    "id": 52333,
-    "fecha": "15 de Apr del 2026 a las 01:26 AM",
-    "hora_utc": "2026-04-15 05:26",
-    "mensaje": "🔊 Estimados clientes se encuentra afectado por Déficit de Capacidad de Generación el circuito 9 de Santiago, la línea LI5385- Mella y SI5975- Baconao.",
-    "timestamp": 1776230786,
-    "timestamp_local": 1776230786
   }
 ]
