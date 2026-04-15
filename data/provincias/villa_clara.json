@@ -1,5 +1,37 @@
 [
   {
+    "id": 44512,
+    "fecha": "15 de Apr del 2026 a las 06:10 PM",
+    "hora_utc": "2026-04-15 22:10",
+    "mensaje": "💡Restablecido el servicio eléctrico en el circuito 28 Plaza de la Revolución.",
+    "timestamp": 1776291059,
+    "timestamp_local": 1776291059
+  },
+  {
+    "id": 44511,
+    "fecha": "15 de Apr del 2026 a las 06:01 PM",
+    "hora_utc": "2026-04-15 22:01",
+    "mensaje": "🕕Actualización del servicio eléctrico en las últimas 6 horas.\n✍️El déficit de capacidad de generación en estos momentos es de 97 MW\n✍️En el momento de esta nota, se mantienen afectados 112 circuitos.\n✍️ Cuenta con 148 afectaciones por averías secundarias y de servicio:\n🔸 Caibarién (2)\n🔸Camajuaní (3)\n🔸 Cifuentes ()\n🔸 Corralillo (3)\n🔸 Encrucijada (2)\n🔸 Manicaragua (22)\n🔸 Placetas (13)\n🔸 Quemado ()\n🔸 Ranchuelo (5)\n🔸 Remedios (4) \n🔸 Sagua (18) \n🔸 Santa Clara (57)\n🔸 Santo Domingo (8)\n🛠️Se encuentran 2 averías en vías de solución.\n🛠️Pendientes a solucionar por el área técnica 9.\n\n⚡Averías⚡\n🛠️En vía libre el circuito 28 Plaza de la Revolución para retirar transformador.\n⚡Afectado por avería el circuito 95 del poblado Jicotea, municipio Ranchuelo, se estudian las causas.\n⚡Afectado por avería el circuito 181 del Batey Ifraín Alfonso del municipio Ranchuelo. Se estudian las causas.",
+    "timestamp": 1776290509,
+    "timestamp_local": 1776290509
+  },
+  {
+    "id": 44510,
+    "fecha": "15 de Apr del 2026 a las 05:46 PM",
+    "hora_utc": "2026-04-15 21:46",
+    "mensaje": "⚠Afectado el servicio eléctrico en los siguientes circuitos:\n🔹Municipio Remedios:\n👉Ctos 67, 68 y 118",
+    "timestamp": 1776289583,
+    "timestamp_local": 1776289583
+  },
+  {
+    "id": 44509,
+    "fecha": "15 de Apr del 2026 a las 05:44 PM",
+    "hora_utc": "2026-04-15 21:44",
+    "mensaje": "🛠️En vía libre el circuito 28 Plaza de la Revolución para retirar transformador.",
+    "timestamp": 1776289496,
+    "timestamp_local": 1776289496
+  },
+  {
     "id": 44508,
     "fecha": "15 de Apr del 2026 a las 04:56 PM",
     "hora_utc": "2026-04-15 20:56",
@@ -19,7 +51,7 @@
     "id": 44506,
     "fecha": "15 de Apr del 2026 a las 04:24 PM",
     "hora_utc": "2026-04-15 20:24",
-    "mensaje": "⚠Afectado el servicio eléctrico en los siguientes circuitos:\n🔹Municipio Santa Clara:\n 👉Cto 167 (Virginia)\n👉Cto 170 (José Martí)\n\n👉Cto 31 (SC Industrial)",
+    "mensaje": "⚠Afectado el servicio eléctrico en los siguientes circuitos:\n🔹Municipio Santa Clara:\n 👉Cto 167 (Virginia)\n👉Cto 170 (José Martí)\n👉Cto 31 (SC Industrial)",
     "timestamp": 1776284694,
     "timestamp_local": 1776284694
   },
@@ -75,7 +107,7 @@
     "id": 44499,
     "fecha": "15 de Apr del 2026 a las 02:19 PM",
     "hora_utc": "2026-04-15 18:19",
-    "mensaje": "⚡Afectado por avería el circuito 95 del poblado Jicotea, municipio Ranchuelo, se estudian las caudas.",
+    "mensaje": "⚡Afectado por avería el circuito 95 del poblado Jicotea, municipio Ranchuelo, se estudian las causas.",
     "timestamp": 1776277148,
     "timestamp_local": 1776277148
   },
@@ -126,37 +158,5 @@
     "mensaje": "⚡Afectada por DAF la Línea 1205.\n➡️Línea 1205\n🔹Municipio Sagua\n👉Ctos 43, 51 Sagua (afectados por déficit en estos momentos)\n👉Cto 44 Isabela\n👉Ctos 50 y 147 Villa Alegre",
     "timestamp": 1776275810,
     "timestamp_local": 1776275810
-  },
-  {
-    "id": 44492,
-    "fecha": "15 de Apr del 2026 a las 01:43 PM",
-    "hora_utc": "2026-04-15 17:43",
-    "mensaje": "⚠️Afectado el servicio eléctrico en los siguientes circuitos:\n🔹Municipio Remedios:\n👉Cto 152\n👉Ctos 69 y 70 Zuluetas\n👉Cto 143 Batey Heriberto Duquezne \n👉Cto 71 Buena Vista",
-    "timestamp": 1776274992,
-    "timestamp_local": 1776274992
-  },
-  {
-    "id": 44491,
-    "fecha": "15 de Apr del 2026 a las 01:22 PM",
-    "hora_utc": "2026-04-15 17:22",
-    "mensaje": "⚠️Afectado el servicio eléctrico en los siguientes circuitos:\n🔹Municipio Encrucijada:\n👉Cto 122 Encrucijada  \n👉Cto 123 Vizcaya \n👉Cto 142 Comunidad La Sierra \n👉Cto 126 Batey Emilio Córdova\n👉Cto 125 Cavarrocas\n👉Cto 124 El Santo\n🔹Municipio Camajuaní:                                                              \n👉Cto 78 Jutiero\n👉Cto 75 La Quinta\n👉Cto 157 Luis Arcos Bergnes\n👉Ctos 76 y 90 Vega Alta",
-    "timestamp": 1776273733,
-    "timestamp_local": 1776273733
-  },
-  {
-    "id": 44490,
-    "fecha": "15 de Apr del 2026 a las 12:53 PM",
-    "hora_utc": "2026-04-15 16:53",
-    "mensaje": "⚠️Afectado el servicio eléctrico en los siguientes circuitos:\n🔹Municipio Camajuaní:\n👉Ctos  72, 129 y 156",
-    "timestamp": 1776271997,
-    "timestamp_local": 1776271997
-  },
-  {
-    "id": 44489,
-    "fecha": "15 de Apr del 2026 a las 12:36 PM",
-    "hora_utc": "2026-04-15 16:36",
-    "mensaje": "⚠️Afectado el servicio eléctrico en los siguientes circuitos:\n🔹Municipio Placetas \n👉Ctos 100 y 151 Placetas\n👉Cto 104 Hermanos Amejeiras\n👉Cto 103 Batey Carbó Servía",
-    "timestamp": 1776270964,
-    "timestamp_local": 1776270964
   }
 ]
