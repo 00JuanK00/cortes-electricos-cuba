@@ -1,5 +1,53 @@
 [
   {
+    "id": 52343,
+    "fecha": "15 de Apr del 2026 a las 05:59 AM",
+    "hora_utc": "2026-04-15 09:59",
+    "mensaje": "🔊 Estimados clientes se encuentra afectado por Déficit de Capacidad de Generación el circuito 12 de Santiago.",
+    "timestamp": 1776247185,
+    "timestamp_local": 1776247185
+  },
+  {
+    "id": 52342,
+    "fecha": "15 de Apr del 2026 a las 05:30 AM",
+    "hora_utc": "2026-04-15 09:30",
+    "mensaje": "🔊 Estimados clientes se afecta por Déficit de Capacidad de Generación la línea SI5975- Baconao.",
+    "timestamp": 1776245425,
+    "timestamp_local": 1776245425
+  },
+  {
+    "id": 52341,
+    "fecha": "15 de Apr del 2026 a las 05:16 AM",
+    "hora_utc": "2026-04-15 09:16",
+    "mensaje": "🔊 Estimados clientes se encuentra afectado por Déficit de Capacidad de Generación el servicio eléctrico de la línea LI5380- Mella.",
+    "timestamp": 1776244561,
+    "timestamp_local": 1776244561
+  },
+  {
+    "id": 52340,
+    "fecha": "15 de Apr del 2026 a las 05:04 AM",
+    "hora_utc": "2026-04-15 09:04",
+    "mensaje": "🔊 Estimados clientes se encuentra afectado por Déficit de Capacidad de Generación el servicio eléctrico de la línea 4395- III Frente.",
+    "timestamp": 1776243888,
+    "timestamp_local": 1776243888
+  },
+  {
+    "id": 52339,
+    "fecha": "15 de Apr del 2026 a las 04:51 AM",
+    "hora_utc": "2026-04-15 08:51",
+    "mensaje": "🔊 Estimados clientes se incorpora a la afectación por Déficit de Capacidad de Generación el circuito 9 seccionalizado y el 2 de Santiago.",
+    "timestamp": 1776243073,
+    "timestamp_local": 1776243073
+  },
+  {
+    "id": 52338,
+    "fecha": "15 de Apr del 2026 a las 04:25 AM",
+    "hora_utc": "2026-04-15 08:25",
+    "mensaje": "🔊 Estimados clientes se encuentran afectados por Déficit de Capacidad de Generación los circuitos 1, 21, 19, 14, 23, 25, 16 de Santiago y la línea LI5395 San Luis.",
+    "timestamp": 1776241505,
+    "timestamp_local": 1776241505
+  },
+  {
     "id": 52337,
     "fecha": "15 de Apr del 2026 a las 02:24 AM",
     "hora_utc": "2026-04-15 06:24",
@@ -110,53 +158,5 @@
     "mensaje": "🔊 Estimados clientes en estos momentos se encuentra afectado el circuito 10 por Emergencia, pedimos disculpas por las molestias ocasionadas.",
     "timestamp": 1776214646,
     "timestamp_local": 1776214646
-  },
-  {
-    "id": 52323,
-    "fecha": "14 de Apr del 2026 a las 08:26 PM",
-    "hora_utc": "2026-04-15 00:26",
-    "mensaje": "🔊 Estimados clientes se encuentran afectados por Déficit de Capacidad de Generación los circuitos 3, 17 de Santiago y la línea 4395- III Frente.",
-    "timestamp": 1776212812,
-    "timestamp_local": 1776212812
-  },
-  {
-    "id": 52322,
-    "fecha": "14 de Apr del 2026 a las 07:55 PM",
-    "hora_utc": "2026-04-14 23:55",
-    "mensaje": "Disparo\nApertura no voluntaria de un interruptor como vía de protección para desconectar uno o varios elementos del circuito, subestación o sistema, restableciéndose el servicio rápidamente en dependencia de la causa.",
-    "timestamp": 1776210954,
-    "timestamp_local": 1776210954
-  },
-  {
-    "id": 52321,
-    "fecha": "14 de Apr del 2026 a las 07:55 PM",
-    "hora_utc": "2026-04-14 23:55",
-    "mensaje": "🚨 Estimados clientes en estos momentos se encuentra disparado el circuito 24 de Santiago, pedimos disculpas por las molestias ocasionadas.",
-    "timestamp": 1776210917,
-    "timestamp_local": 1776210917
-  },
-  {
-    "id": 52320,
-    "fecha": "14 de Apr del 2026 a las 07:21 PM",
-    "hora_utc": "2026-04-14 23:21",
-    "mensaje": "🔊 Estimados clientes se encuentra afectado por Déficit de Capacidad de Generación el servicio eléctrico del circuito 12 de Santiago.",
-    "timestamp": 1776208867,
-    "timestamp_local": 1776208867
-  },
-  {
-    "id": 52319,
-    "fecha": "14 de Apr del 2026 a las 06:59 PM",
-    "hora_utc": "2026-04-14 22:59",
-    "mensaje": "🔊Estimados clientes en estos momentos se encuentra afectados por Déficit de Capacidad de Generación las Líneas 4395 Contramaestre - III Frente , 4390 Contramaestre , 5390 La Maya - II Frente , 5380 Mella - San Luis",
-    "timestamp": 1776207585,
-    "timestamp_local": 1776207585
-  },
-  {
-    "id": 52318,
-    "fecha": "14 de Apr del 2026 a las 06:27 PM",
-    "hora_utc": "2026-04-14 22:27",
-    "mensaje": "🔴 Disparo\nApertura no voluntaria de un interruptor como vía de protección para desconectar uno o varios elementos del circuito, subestación o sistema, restableciéndose el servicio rápidamente en dependencia de la causa.",
-    "timestamp": 1776205674,
-    "timestamp_local": 1776205674
   }
 ]
