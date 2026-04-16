@@ -1,5 +1,21 @@
 [
   {
+    "id": 44595,
+    "fecha": "16 de Apr del 2026 a las 04:37 PM",
+    "hora_utc": "2026-04-16 20:37",
+    "mensaje": "⚠️Afectado el servicio eléctrico en los siguientes circuitos:\n🔹Municipio Ranchuelo: \n👉Ctos 89, 97, 188 y 189\n👉Ctos 148 y 149 San Juan\n👉Cto 91 Batey Osvaldo Herrera\n👉Cto 181 Batey Ifraín Alfonso (Avería)",
+    "timestamp": 1776371879,
+    "timestamp_local": 1776371879
+  },
+  {
+    "id": 44594,
+    "fecha": "16 de Apr del 2026 a las 04:35 PM",
+    "hora_utc": "2026-04-16 20:35",
+    "mensaje": "⚠️Afectado el servicio eléctrico en los siguientes circuitos:\n🔹Municipio Encrucijada\n👉Cto 120 Calabazar\n👉Ctos 121 y 127 Perucho",
+    "timestamp": 1776371720,
+    "timestamp_local": 1776371720
+  },
+  {
     "id": 44593,
     "fecha": "16 de Apr del 2026 a las 04:16 PM",
     "hora_utc": "2026-04-16 20:16",
@@ -142,21 +158,5 @@
     "mensaje": "🛠️Afectada por emergencia la línea 1365: \nAfecta los siguientes circuitos:\n🔹Municipio Remedios:\n👉Ctos 67, 68 y 118 (Déficit) \n👉Cto 152\n👉Ctos 69 y 70 Zuluetas\n👉Cto 143 Batey Heriberto Duquezne \n👉Cto 71 Buena Vista",
     "timestamp": 1776364044,
     "timestamp_local": 1776364044
-  },
-  {
-    "id": 44575,
-    "fecha": "16 de Apr del 2026 a las 02:20 PM",
-    "hora_utc": "2026-04-16 18:20",
-    "mensaje": "⚠️Afectado el servicio eléctrico en el siguiente circuito:\n🔹Municipio Santa Clara: \n👉Cto 168 (Condado- XX Aniversario)",
-    "timestamp": 1776363623,
-    "timestamp_local": 1776363623
-  },
-  {
-    "id": 44574,
-    "fecha": "16 de Apr del 2026 a las 02:09 PM",
-    "hora_utc": "2026-04-16 18:09",
-    "mensaje": "✍️Actualización del servicio eléctrico en la provincia.\n👉De los circuitos apagables que presenta la provincia, se mantienen afectados 135 circuitos.\n👉En el momento de hacer esta nota la provincia tiene 102 MW de afectación por déficit de capacidad de generación, demanda máxima posible a apagar en estos momentos.\n👉Cuenta con 172 afectaciones por averías secundarias y de servicio",
-    "timestamp": 1776362943,
-    "timestamp_local": 1776362943
   }
 ]
