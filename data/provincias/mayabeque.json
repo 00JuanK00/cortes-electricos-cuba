@@ -1,5 +1,21 @@
 [
   {
+    "id": 112004,
+    "fecha": "16 de Apr del 2026 a las 04:11 PM",
+    "hora_utc": "2026-04-16 20:11",
+    "mensaje": "🚨Por déficit de capacidad de generación se afecta el servicio en el siguiente circuito:\n*Güines - 1 🚨",
+    "timestamp": 1776370275,
+    "timestamp_local": 1776370275
+  },
+  {
+    "id": 111999,
+    "fecha": "16 de Apr del 2026 a las 03:53 PM",
+    "hora_utc": "2026-04-16 19:53",
+    "mensaje": "🔷Restablecido el servicio en el circuito Güines 4 que se encontraba afectado por manipulación🔷",
+    "timestamp": 1776369186,
+    "timestamp_local": 1776369186
+  },
+  {
     "id": 111998,
     "fecha": "16 de Apr del 2026 a las 02:50 PM",
     "hora_utc": "2026-04-16 18:50",
@@ -86,45 +102,5 @@
     "mensaje": "🚨Por déficit de capacidad de generación se afecta el servicio en el siguiente circuito:\n*Quivicán 🚨",
     "timestamp": 1776345304,
     "timestamp_local": 1776345304
-  },
-  {
-    "id": 111981,
-    "fecha": "16 de Apr del 2026 a las 09:00 AM",
-    "hora_utc": "2026-04-16 13:00",
-    "mensaje": "🚨Por déficit de capacidad de generación se afecta el servicio en el siguiente circuito:\n*Camilo 🚨",
-    "timestamp": 1776344457,
-    "timestamp_local": 1776344457
-  },
-  {
-    "id": 111980,
-    "fecha": "16 de Apr del 2026 a las 08:58 AM",
-    "hora_utc": "2026-04-16 12:58",
-    "mensaje": "🚨Por déficit de capacidad de generación se afecta el servicio en el siguiente circuito:\n*Sopapo 🚨",
-    "timestamp": 1776344283,
-    "timestamp_local": 1776344283
-  },
-  {
-    "id": 111979,
-    "fecha": "16 de Apr del 2026 a las 08:23 AM",
-    "hora_utc": "2026-04-16 12:23",
-    "mensaje": "**Nota Informativa: Estado del Sistema Eléctrico Nacional (SEN) – 16 de abril de 2026**\nEn el día de ayer se afectó el servicio por déficit de capacidad durante las 24 horas y se ha mantenido la afectación durante la madrugada de hoy. La máxima afectación por déficit de capacidad de generación en el día de ayer fue de 1671 MW a las 20:20 horas. Adicionalmente de afectan 41 MW por incendio debajo de una línea de 110 kV en La Habana.\nLa producción de energía de los 54 nuevos parques solares fotovoltaicos fue de 3443 MWh, con 520 MW como máxima potencia entregada en el horario de la media con esta fuente de generación.\n**Estado actual del SEN**\nLa disponibilidad del SEN a las 06:00 horas es de 1217 MW, la demanda 2110 MW, con 1023 MW afectados. En el horario de la media se estima una afectación de 1350 MW.\n**Principales incidencias**\nAvería: Unidades 1 y 2 de la CTE Ernesto Guevara De La Serna, Unidades 3 y 5 de la CTE Antonio Maceo, Unidad 2 de la CTE Felton.\nMantenimiento: Unidades 5 de la CTE Mariel, Unidad 4 de la CTE Carlos Manuel de Céspedes, Unidad 6 de la CTE Renté, Unidad 5 de la CTE Nuevitas.\nLimitaciones en la generación térmica: 333 MW fuera de servicio.\n**Pronóstico para el horario pico**\nSe pronostica para el pico la entrada de la unidad 2 de la CTE Santa Cruz con 80 MW y la entrada de la unidad 5 de Energas Jaruco con 30 MW.\nCon este pronóstico se estima para el horario de máxima demanda una disponibilidad de 1158 MW con una demanda máxima de 3000 MW, para un déficit de 1842 MW, por lo que de mantenerse las condiciones previstas se pronostica una afectación de 1872 MW en este horario.",
-    "timestamp": 1776342226,
-    "timestamp_local": 1776342226
-  },
-  {
-    "id": 111977,
-    "fecha": "16 de Apr del 2026 a las 07:23 AM",
-    "hora_utc": "2026-04-16 11:23",
-    "mensaje": "🚨Por déficit de capacidad de generación se afecta el servicio en el siguiente circuito:\n*Aguacate 🚨",
-    "timestamp": 1776338636,
-    "timestamp_local": 1776338636
-  },
-  {
-    "id": 111976,
-    "fecha": "16 de Apr del 2026 a las 07:22 AM",
-    "hora_utc": "2026-04-16 11:22",
-    "mensaje": "♦️Informamos a los clientes del circuito Jaruco la zona de Casigua que se encuentran afectados por avería ♦️",
-    "timestamp": 1776338577,
-    "timestamp_local": 1776338577
   }
 ]
