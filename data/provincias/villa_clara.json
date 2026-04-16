@@ -1,5 +1,61 @@
 [
   {
+    "id": 44580,
+    "fecha": "16 de Apr del 2026 a las 02:43 PM",
+    "hora_utc": "2026-04-16 18:43",
+    "mensaje": "🛠️Afectado parcialmente por vía libre el circuito 71 Buena Vista (Ramal Pueblo), del municipio Remedios, para reparar primario partido.",
+    "timestamp": 1776365004,
+    "timestamp_local": 1776365004
+  },
+  {
+    "id": 44579,
+    "fecha": "16 de Apr del 2026 a las 02:41 PM",
+    "hora_utc": "2026-04-16 18:41",
+    "mensaje": "Con servicio la línea 4608: \n🔹Municipio Corralillo:\n👉Ctos 58 y 159 \n👉Cto 56 Yabre\n👉Cto 60 La Sierra\n👉Cto 55 Rancho Veloz\n👉Cto 57 Motembo",
+    "timestamp": 1776364879,
+    "timestamp_local": 1776364879
+  },
+  {
+    "id": 44578,
+    "fecha": "16 de Apr del 2026 a las 02:39 PM",
+    "hora_utc": "2026-04-16 18:39",
+    "mensaje": "Con servicio la línea 1365: \n🔹Municipio Remedios:\n👉Ctos 67, 68 y 118 (Déficit) \n👉Cto 152\n👉Ctos 69 y 70 Zuluetas\n👉Cto 143 Batey Heriberto Duquezne\n👉Cto 71 Buena Vista (Vía Libre)",
+    "timestamp": 1776364770,
+    "timestamp_local": 1776364770
+  },
+  {
+    "id": 44577,
+    "fecha": "16 de Apr del 2026 a las 02:30 PM",
+    "hora_utc": "2026-04-16 18:30",
+    "mensaje": "🛠️Manipulación de la línea 4608, para reponer circuito 57 de Motembo afectado por faltar una fase: \nAfecta los siguientes circuitos:\n🔹Municipio Corralillo:\n👉Ctos 58 y 159 \n👉Cto 56 Yabre\n👉Cto 60 La Sierra\n👉Cto 55 Rancho Veloz",
+    "timestamp": 1776364247,
+    "timestamp_local": 1776364247
+  },
+  {
+    "id": 44576,
+    "fecha": "16 de Apr del 2026 a las 02:27 PM",
+    "hora_utc": "2026-04-16 18:27",
+    "mensaje": "🛠️Afectada por emergencia la línea 1365: \nAfecta los siguientes circuitos:\n🔹Municipio Remedios:\n👉Ctos 67, 68 y 118 (Déficit) \n👉Cto 152\n👉Ctos 69 y 70 Zuluetas\n👉Cto 143 Batey Heriberto Duquezne \n👉Cto 71 Buena Vista",
+    "timestamp": 1776364044,
+    "timestamp_local": 1776364044
+  },
+  {
+    "id": 44575,
+    "fecha": "16 de Apr del 2026 a las 02:20 PM",
+    "hora_utc": "2026-04-16 18:20",
+    "mensaje": "⚠️Afectado el servicio eléctrico en el siguiente circuito:\n🔹Municipio Santa Clara: \n👉Cto 168 (Condado- XX Aniversario)",
+    "timestamp": 1776363623,
+    "timestamp_local": 1776363623
+  },
+  {
+    "id": 44574,
+    "fecha": "16 de Apr del 2026 a las 02:09 PM",
+    "hora_utc": "2026-04-16 18:09",
+    "mensaje": "✍️Actualización del servicio eléctrico en la provincia.\n👉De los circuitos apagables que presenta la provincia, se mantienen afectados 135 circuitos.\n👉En el momento de hacer esta nota la provincia tiene 102 MW de afectación por déficit de capacidad de generación, demanda máxima posible a apagar en estos momentos.\n👉Cuenta con 172 afectaciones por averías secundarias y de servicio",
+    "timestamp": 1776362943,
+    "timestamp_local": 1776362943
+  },
+  {
     "id": 44573,
     "fecha": "16 de Apr del 2026 a las 01:36 PM",
     "hora_utc": "2026-04-16 17:36",
@@ -102,53 +158,5 @@
     "mensaje": "⚡Afectado por faltar una fase el circuito 57 (Motembo), del municipio Corralillo. Se estudian las causas.",
     "timestamp": 1776354986,
     "timestamp_local": 1776354986
-  },
-  {
-    "id": 44558,
-    "fecha": "16 de Apr del 2026 a las 11:39 AM",
-    "hora_utc": "2026-04-16 15:39",
-    "mensaje": "🛠️Afectado parcialmente por vía libre para realizar cambio de transformador el circuito 146 (Elevado Aeropuerto), del municipio Santa Clara.",
-    "timestamp": 1776353970,
-    "timestamp_local": 1776353970
-  },
-  {
-    "id": 44557,
-    "fecha": "16 de Apr del 2026 a las 11:37 AM",
-    "hora_utc": "2026-04-16 15:37",
-    "mensaje": "Con servicio la línea 6375:\n🔹Municipio Santa Clara\n👉Cto 7 (Universidad)  \n👉Cto 146 (Elevado Aeropuerto) (Vía Libre)\n👉Cto 22 (Construcciones Textil)\n👉Cto 131 (Las Antillas)\n👉Cto 153 (EIDE)\n👉Cto 25 (Los Güiros)\n👉Cto 24 (Planta Asfalto)\n👉Cto 35 (Biotecnología) \n👉Ctos 14, 15 y 27 (Maleza)",
-    "timestamp": 1776353828,
-    "timestamp_local": 1776353828
-  },
-  {
-    "id": 44556,
-    "fecha": "16 de Apr del 2026 a las 11:34 AM",
-    "hora_utc": "2026-04-16 15:34",
-    "mensaje": "🛠️Afectado por manipulación la línea 6375:\nAfecta los siguientes circuitos:\n🔹Municipio Santa Clara\n👉Cto 7 (Universidad)  \n👉Cto 146 (Elevado Aeropuerto) \n👉Cto 22 (Construcciones Textil)\n👉Cto 131 (Las Antillas)\n👉Cto 153 (EIDE)\n👉Cto 25 (Los Güiros)\n👉Cto 24 (Planta Asfalto)\n👉Cto 35 (Biotecnología) \n👉Ctos 14, 15 y 27 (Maleza)",
-    "timestamp": 1776353653,
-    "timestamp_local": 1776353653
-  },
-  {
-    "id": 44555,
-    "fecha": "16 de Apr del 2026 a las 11:12 AM",
-    "hora_utc": "2026-04-16 15:12",
-    "mensaje": "⚠️Afectado el servicio eléctrico en los siguientes circuitos:\n🔹Municipio Santa Clara:\n👉Cto 132 (Santa Clara Industrial)\n👉Cto 162 (Santa Clara Industrial)",
-    "timestamp": 1776352358,
-    "timestamp_local": 1776352358
-  },
-  {
-    "id": 44553,
-    "fecha": "16 de Apr del 2026 a las 10:55 AM",
-    "hora_utc": "2026-04-16 14:55",
-    "mensaje": "⚡#EsNoticiaAhora  ||  Empresa Eléctrica Villa Clara  dice presente en la Feria Tecnológica del Parque Científico de Santa Clara\n\nCon miras a impulsar el cambio de matriz energética, la Empresa Eléctrica Villa Clara participa activamente en la feria tecnológica que se desarrolla en el Parque Científico de la ciudad de Santa Clara.\n\nDurante el evento, especialistas de la empresa intercambian experiencias con otros actores del ecosistema tecnológico, fortaleciendo alianzas estratégicas para el desarrollo de infraestructuras eléctricas más inteligentes y resilientes.\n\n📍 Parque Científico Tecnológico de Santa\n\nUnión Eléctrica  UNE \nMinisterio de Energía y Minas de Cuba",
-    "timestamp": 1776351342,
-    "timestamp_local": 1776351342
-  },
-  {
-    "id": 44552,
-    "fecha": "16 de Apr del 2026 a las 10:46 AM",
-    "hora_utc": "2026-04-16 14:46",
-    "mensaje": "⚠️Afectado el servicio eléctrico en el siguiente circuito:\n🔹Municipio Santa Clara:\n👉Cto 39 (Sandino)",
-    "timestamp": 1776350774,
-    "timestamp_local": 1776350774
   }
 ]
