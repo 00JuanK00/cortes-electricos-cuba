@@ -1,5 +1,77 @@
 [
   {
+    "id": 44654,
+    "fecha": "17 de Apr del 2026 a las 11:34 AM",
+    "hora_utc": "2026-04-17 15:34",
+    "mensaje": "⚠️Afectado el servicio eléctrico en el siguiente circuito:\n🔹Municipio Santa Clara:\n👉Cto 144 (Camacho)",
+    "timestamp": 1776440087,
+    "timestamp_local": 1776440087
+  },
+  {
+    "id": 44653,
+    "fecha": "17 de Apr del 2026 a las 11:29 AM",
+    "hora_utc": "2026-04-17 15:29",
+    "mensaje": "⚠️Afectado el servicio eléctrico en los siguientes circuitos:\n🔹Municipio Santa Clara \n👉Ctos 15 y 27 (Maleza)",
+    "timestamp": 1776439761,
+    "timestamp_local": 1776439761
+  },
+  {
+    "id": 44652,
+    "fecha": "17 de Apr del 2026 a las 11:18 AM",
+    "hora_utc": "2026-04-17 15:18",
+    "mensaje": "⚠️Afectado el servicio eléctrico en el siguiente circuito:\n🔹Municipio Santa Clara: \n👉Cto 4 (Centro)",
+    "timestamp": 1776439130,
+    "timestamp_local": 1776439130
+  },
+  {
+    "id": 44651,
+    "fecha": "17 de Apr del 2026 a las 11:18 AM",
+    "hora_utc": "2026-04-17 15:18",
+    "mensaje": "Afectados 123 MW en la provincia, demanda máxima a apagar en estos momentos.",
+    "timestamp": 1776439087,
+    "timestamp_local": 1776439087
+  },
+  {
+    "id": 44650,
+    "fecha": "17 de Apr del 2026 a las 10:52 AM",
+    "hora_utc": "2026-04-17 14:52",
+    "mensaje": "💡Restablecido el servicio eléctrico en la línea del 6375:\n🔹Municipio Santa Clara\n👉Cto 7 (Universidad)  \n👉Cto 146 (Elevado Aeropuerto) \n👉Cto 22 (Construcciones Textil)\n👉Cto 131 (Las Antillas)\n👉Cto 153 (EIDE)\n👉Cto 25 (Los Güiros)\n👉Cto 24 (Planta Asfalto)\n👉Cto 35 (Biotecnología) \n👉Ctos 15 y 27 (Maleza)",
+    "timestamp": 1776437572,
+    "timestamp_local": 1776437572
+  },
+  {
+    "id": 44649,
+    "fecha": "17 de Apr del 2026 a las 10:44 AM",
+    "hora_utc": "2026-04-17 14:44",
+    "mensaje": "⚠️Afectado el servicio eléctrico en los siguientes circuitos:\n🔹Municipio Manicaragua:\n👉Ctos 109 y 150\n👉Ctos 108 y 110 La Piedra\n👉Cto 111 Mataguá",
+    "timestamp": 1776437050,
+    "timestamp_local": 1776437050
+  },
+  {
+    "id": 44648,
+    "fecha": "17 de Apr del 2026 a las 10:42 AM",
+    "hora_utc": "2026-04-17 14:42",
+    "mensaje": "⚡ Actualización del Sistema Electroenergético Nacional para el 17 de abril de 2026.\n\nLeer más: https://www.unionelectrica.cu/nota-informativa/\n\n#UnidosXCuba #UniónEléctrica #UNE #NotaInformativa",
+    "timestamp": 1776436932,
+    "timestamp_local": 1776436932
+  },
+  {
+    "id": 44647,
+    "fecha": "17 de Apr del 2026 a las 10:41 AM",
+    "hora_utc": "2026-04-17 14:41",
+    "mensaje": "⚠Afectada por manipulación la línea del 6375:\n🔹Municipio Santa Clara\n👉Cto 7 (Universidad)  \n👉Cto 146 (Elevado Aeropuerto) \n👉Cto 22 (Construcciones Textil)\n👉Cto 131 (Las Antillas)\n👉Cto 153 (EIDE)\n👉Cto 25 (Los Güiros)\n👉Cto 24 (Planta Asfalto)\n👉Cto 35 (Biotecnología) \n👉Ctos 15 y 27 (Maleza)",
+    "timestamp": 1776436902,
+    "timestamp_local": 1776436902
+  },
+  {
+    "id": 44645,
+    "fecha": "17 de Apr del 2026 a las 10:07 AM",
+    "hora_utc": "2026-04-17 14:07",
+    "mensaje": "💡Con servicio los siguientes circuitos:\n🔹Municipio Caibarién\n👉Ctos 61, 62 \n👉Ctos 182 y 183 Van Troy\n🔹Municipio Camajuaní:\n👉Ctos  72, 73, 129 y 156",
+    "timestamp": 1776434848,
+    "timestamp_local": 1776434848
+  },
+  {
     "id": 44644,
     "fecha": "17 de Apr del 2026 a las 10:05 AM",
     "hora_utc": "2026-04-17 14:05",
@@ -78,77 +150,5 @@
     "mensaje": "⚠Afectado por Vía Libre el Cto 14 (Maleza), perteneciente al municipio Santa Clara, para reparar poste dañado.",
     "timestamp": 1776432664,
     "timestamp_local": 1776432664
-  },
-  {
-    "id": 44634,
-    "fecha": "17 de Apr del 2026 a las 09:27 AM",
-    "hora_utc": "2026-04-17 13:27",
-    "mensaje": "⚠Afectada por manipulación la línea del 6375:\n🔹Municipio Santa Clara\n👉Cto 7 (Universidad)  \n👉Cto 146 (Elevado Aeropuerto) \n👉Cto 22 (Construcciones Textil)\n👉Cto 131 (Las Antillas)\n👉Cto 153 (EIDE)\n👉Cto 25 (Los Güiros)\n👉Cto 24 (Planta Asfalto)\n👉Cto 35 (Biotecnología) \n👉Ctos 14, 15 y 27 (Maleza)",
-    "timestamp": 1776432475,
-    "timestamp_local": 1776432475
-  },
-  {
-    "id": 44633,
-    "fecha": "17 de Apr del 2026 a las 09:24 AM",
-    "hora_utc": "2026-04-17 13:24",
-    "mensaje": "💡Con servicio los siguientes circuitos:\n🔹Municipio Manicaragua:\n👉Ctos 109 y 150\n👉Ctos 108 y 110 La Piedra\n👉Cto 111 Mataguá",
-    "timestamp": 1776432268,
-    "timestamp_local": 1776432268
-  },
-  {
-    "id": 44632,
-    "fecha": "17 de Apr del 2026 a las 09:10 AM",
-    "hora_utc": "2026-04-17 13:10",
-    "mensaje": "⚠Afectada por manipulación la línea del 108:\n🔹Municipio Santa Clara\n👉Ctos 26 y 141 (Manuelita)\n👉Cto 191 (Quemado de Hilario)",
-    "timestamp": 1776431429,
-    "timestamp_local": 1776431429
-  },
-  {
-    "id": 44631,
-    "fecha": "17 de Apr del 2026 a las 09:05 AM",
-    "hora_utc": "2026-04-17 13:05",
-    "mensaje": "Afectados 96 MW en la provincia, demanda máxima a apagar en estos momentos.",
-    "timestamp": 1776431133,
-    "timestamp_local": 1776431133
-  },
-  {
-    "id": 44630,
-    "fecha": "17 de Apr del 2026 a las 09:04 AM",
-    "hora_utc": "2026-04-17 13:04",
-    "mensaje": "💡Con servicio los siguientes circuitos:\n🔹**Municipio Sagua:**\n👉Ctos 50 y 147 Villa Alegre",
-    "timestamp": 1776431073,
-    "timestamp_local": 1776431073
-  },
-  {
-    "id": 44629,
-    "fecha": "17 de Apr del 2026 a las 08:47 AM",
-    "hora_utc": "2026-04-17 12:47",
-    "mensaje": "⚡Afectados los Ctos 50 y 147 Villa Alegre, pertenecientes al municipio Sagua, por avería en la Sub Estación.",
-    "timestamp": 1776430027,
-    "timestamp_local": 1776430027
-  },
-  {
-    "id": 44628,
-    "fecha": "17 de Apr del 2026 a las 08:34 AM",
-    "hora_utc": "2026-04-17 12:34",
-    "mensaje": "💡Con servicio los siguientes circuitos:\n🔹Municipio Placetas:\n👉Ctos 101 y 145 Cumbre\n👉Cto 107 Baez\n👉Cto 105 Nazareno",
-    "timestamp": 1776429277,
-    "timestamp_local": 1776429277
-  },
-  {
-    "id": 44626,
-    "fecha": "17 de Apr del 2026 a las 08:20 AM",
-    "hora_utc": "2026-04-17 12:20",
-    "mensaje": "💡Con servicio los siguientes circuitos:\n🔹Municipio Santa Clara:\n👉Cto 5 (Dobarganes)\n👉Cto 17 (Subplanta) \n👉Ctos 37 y 38 (Yabú)   \n👉Cto 9 (Moldes y Troqueles)\n👉Cto 133 (Taller Cafetera)",
-    "timestamp": 1776428452,
-    "timestamp_local": 1776428452
-  },
-  {
-    "id": 44625,
-    "fecha": "17 de Apr del 2026 a las 08:08 AM",
-    "hora_utc": "2026-04-17 12:08",
-    "mensaje": "✍️Actualización del servicio eléctrico en la provincia.\n👉De los circuitos apagables que presenta la provincia, se mantienen afectados 137 circuitos.\n👉En el momento de hacer esta nota la provincia tiene 93 MW de afectación por déficit de capacidad de generación, demanda máxima posible a apagar en estos momentos.\n👉Cuenta con 113 afectaciones por averías secundarias y de servicio.",
-    "timestamp": 1776427716,
-    "timestamp_local": 1776427716
   }
 ]
