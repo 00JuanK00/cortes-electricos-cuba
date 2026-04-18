@@ -1,5 +1,37 @@
 [
   {
+    "id": 44701,
+    "fecha": "17 de Apr del 2026 a las 11:00 PM",
+    "hora_utc": "2026-04-18 03:00",
+    "mensaje": "Afectados 123 MW en la provincia, demanda máxima a apagar en estos momentos.",
+    "timestamp": 1776481229,
+    "timestamp_local": 1776481229
+  },
+  {
+    "id": 44700,
+    "fecha": "17 de Apr del 2026 a las 10:00 PM",
+    "hora_utc": "2026-04-18 02:00",
+    "mensaje": "✍️Actualización del servicio eléctrico en la provincia.\n👉De los circuitos apagables que presenta la provincia, se mantienen afectados 147 circuitos.\n👉En el momento de hacer esta nota la provincia tiene 128 MW de afectación por déficit de capacidad de generación, demanda máxima posible a apagar en estos momentos.\n👉Cuenta con 94 afectaciones por averías secundarias y de servicio.",
+    "timestamp": 1776477653,
+    "timestamp_local": 1776477653
+  },
+  {
+    "id": 44699,
+    "fecha": "17 de Apr del 2026 a las 09:42 PM",
+    "hora_utc": "2026-04-18 01:42",
+    "mensaje": "✅Ante cualquier duda con la terminología eléctrica, les volvemos explicar:\n\n✍Las averías pueden ser primarias (afecta un volumen grande de población pues son las líneas de distribución a 13.8kV y puede afectar varias manzanas, incluso repartos completos).\n\n✍Secundarias (afecta a todos los clientes que se alimenten del mismo transformador, puede afectar una o varias cuadras).\n\n✍De servicio (afectan 1 solo cliente o instalación generalmente producto a daños en la acometida, metro contador, etc.).",
+    "timestamp": 1776476536,
+    "timestamp_local": 1776476536
+  },
+  {
+    "id": 44698,
+    "fecha": "17 de Apr del 2026 a las 09:02 PM",
+    "hora_utc": "2026-04-18 01:02",
+    "mensaje": "Afectados 139 MW en la provincia, demanda máxima a apagar en estos momentos.",
+    "timestamp": 1776474155,
+    "timestamp_local": 1776474155
+  },
+  {
     "id": 44697,
     "fecha": "17 de Apr del 2026 a las 08:03 PM",
     "hora_utc": "2026-04-18 00:03",
@@ -126,29 +158,5 @@
     "mensaje": "⚠️Afectado el servicio eléctrico en los siguientes circuitos:\n🔹Municipio Encrucijada:\n👉Cto 122 Encrucijada  \n👉Cto 123 Vizcaya \n👉Cto 142 Comunidad La Sierra \n👉Cto 126 Batey Emilio Córdova\n👉Cto 125 Cavarrocas\n👉Cto 124 El Santo\n🔹Municipio Cifuentes:\n👉Ctos 114 y 117\n👉Ctos 116 y 155 Mata\n👉Cto 186 Batey Unidad Proletaria\n👉Cto 184 Sitio Grande",
     "timestamp": 1776455132,
     "timestamp_local": 1776455132
-  },
-  {
-    "id": 44680,
-    "fecha": "17 de Apr del 2026 a las 03:22 PM",
-    "hora_utc": "2026-04-17 19:22",
-    "mensaje": "💡Con servicio los siguientes circuitos:\n🔹Municipio Manicaragua:\n👉Ctos 109 y 150\n👉Cto 111 Mataguá",
-    "timestamp": 1776453723,
-    "timestamp_local": 1776453723
-  },
-  {
-    "id": 44679,
-    "fecha": "17 de Apr del 2026 a las 03:01 PM",
-    "hora_utc": "2026-04-17 19:01",
-    "mensaje": "Afectados 117 MW en la provincia, demanda máxima a apagar en estos momentos.",
-    "timestamp": 1776452465,
-    "timestamp_local": 1776452465
-  },
-  {
-    "id": 44678,
-    "fecha": "17 de Apr del 2026 a las 03:00 PM",
-    "hora_utc": "2026-04-17 19:00",
-    "mensaje": "⚠Se encuentra disparado el Cto 185 (Vueltas), perteneciente al municipio Camajuaní, se estudian las causas.",
-    "timestamp": 1776452421,
-    "timestamp_local": 1776452421
   }
 ]

@@ -1,5 +1,29 @@
 [
   {
+    "id": 37507,
+    "fecha": "17 de Apr del 2026 a las 11:22 PM",
+    "hora_utc": "2026-04-18 03:22",
+    "mensaje": "✅ Información.\n👉 Se están realizando varias manipulaciones en el circuito A206, para restablecer una parte afectada cerca de la Escuela Primaria 10 de Octubre.",
+    "timestamp": 1776482561,
+    "timestamp_local": 1776482561
+  },
+  {
+    "id": 37506,
+    "fecha": "17 de Apr del 2026 a las 10:24 PM",
+    "hora_utc": "2026-04-18 02:24",
+    "mensaje": "‼️ Información del déficit de generación ‼️   \n👉Tenemos 85 MW en la provincia afectados por déficit de generación.\n⏰ Con este déficit, la carga a apagar en la provincia no nos permite realizar una rotación estable de los circuitos, por lo que se afectarán o se restablecerán en dependencia del déficit que haya en cada momento de la jornada, que es muy variable.",
+    "timestamp": 1776479073,
+    "timestamp_local": 1776479073
+  },
+  {
+    "id": 37505,
+    "fecha": "17 de Apr del 2026 a las 08:31 PM",
+    "hora_utc": "2026-04-18 00:31",
+    "mensaje": "‼️ Información ‼️   \n👉En estos momentos tenemos 95 MW en la provincia afectados por déficit de generación. Con este déficit no podemos cumplir con una programación estable, por lo que los circuitos se afectarán o se restablecerán en dependencia del déficit que haya en cada momento de la jornada.",
+    "timestamp": 1776472315,
+    "timestamp_local": 1776472315
+  },
+  {
     "id": 37504,
     "fecha": "17 de Apr del 2026 a las 07:44 PM",
     "hora_utc": "2026-04-17 23:44",
@@ -118,21 +142,5 @@
     "mensaje": "‼️ Déficit de Generación ‼️   \n👉  Bajamos a 73 MW en la provincia por déficit de generación.\n\n ⏰ Reiteramos que los circuitos se afectarán o se restablecerán en dependencia del déficit solicitado en cada momento de la jornada que es muy variable.",
     "timestamp": 1776403887,
     "timestamp_local": 1776403887
-  },
-  {
-    "id": 37486,
-    "fecha": "17 de Apr del 2026 a las 12:31 AM",
-    "hora_utc": "2026-04-17 04:31",
-    "mensaje": "‼️Información‼️\n\n ⏰ Los circuitos  restablecidos tendrán servicio por un estimado de 1 hora y 30 min aproximadamente en dependencia del déficit solicitado en cada momento de la jornada que es muy variable.",
-    "timestamp": 1776400288,
-    "timestamp_local": 1776400288
-  },
-  {
-    "id": 37485,
-    "fecha": "17 de Apr del 2026 a las 12:31 AM",
-    "hora_utc": "2026-04-17 04:31",
-    "mensaje": "‼️ Déficit de Generación ‼️   \n👉  Bajamos a 83 MW en la provincia por déficit de generación.\n\n ⏰ Reiteramos que los circuitos se afectarán o se restablecerán en dependencia del déficit solicitado en cada momento de la jornada que es muy variable.",
-    "timestamp": 1776400273,
-    "timestamp_local": 1776400273
   }
 ]
