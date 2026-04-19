@@ -1,5 +1,29 @@
 [
   {
+    "id": 44814,
+    "fecha": "19 de Apr del 2026 a las 03:18 PM",
+    "hora_utc": "2026-04-19 19:18",
+    "mensaje": "⚠️Afectado el servicio eléctrico en los siguientes circuitos:\n🔹Municipio Placetas:\n👉Ctos 101 y 145 Cumbre",
+    "timestamp": 1776626286,
+    "timestamp_local": 1776626286
+  },
+  {
+    "id": 44813,
+    "fecha": "19 de Apr del 2026 a las 02:30 PM",
+    "hora_utc": "2026-04-19 18:30",
+    "mensaje": "⚡Restablecido el servicio eléctrico en el circuito 65 Dolores después de reparada la avería.",
+    "timestamp": 1776623447,
+    "timestamp_local": 1776623447
+  },
+  {
+    "id": 44812,
+    "fecha": "19 de Apr del 2026 a las 02:08 PM",
+    "hora_utc": "2026-04-19 18:08",
+    "mensaje": "✍️Actualización del servicio eléctrico en la provincia.\n👉De los circuitos apagables que presenta la provincia, se mantienen afectados 122 circuitos.\n👉En el momento de hacer esta nota la provincia tiene 91 MW de afectación por déficit de capacidad de generación, demanda máxima posible a apagar en estos momentos.\n👉Cuenta con 111 afectaciones por averías secundarias y de servicio.",
+    "timestamp": 1776622081,
+    "timestamp_local": 1776622081
+  },
+  {
     "id": 44811,
     "fecha": "19 de Apr del 2026 a las 02:01 PM",
     "hora_utc": "2026-04-19 18:01",
@@ -118,29 +142,5 @@
     "mensaje": "💡Con servicio el siguiente circuito:\n🔹Municipio Remedios\n👉Cto 67 Remedios",
     "timestamp": 1776590806,
     "timestamp_local": 1776590806
-  },
-  {
-    "id": 44794,
-    "fecha": "19 de Apr del 2026 a las 05:24 AM",
-    "hora_utc": "2026-04-19 09:24",
-    "mensaje": "🚨Usted puede mantenerseinformado por nuestras redes🛜, y unirse a nuestro canal de Telegram,para usted trabajamos🛠️ , para darle una actualización  clara y precisa de cómo se está comportandoel Sistema Eléctrico Nacional💡, puede llamar☎️ al 18888, dondeprestamos servicio las 24 horas.",
-    "timestamp": 1776590667,
-    "timestamp_local": 1776590667
-  },
-  {
-    "id": 44793,
-    "fecha": "19 de Apr del 2026 a las 05:21 AM",
-    "hora_utc": "2026-04-19 09:21",
-    "mensaje": "✍️Actualización del servicio eléctrico en la provincia.\n👉De los circuitos apagables que presenta la provincia, se mantienen afectados 86 circuitos.\n👉En el momento de hacer esta nota la provincia tiene 58 MW de afectación por déficit de capacidad de generación, demanda máxima posible a apagar en estos momentos.\n👉Cuenta con 73 afectaciones por averías secundarias y de servicio.",
-    "timestamp": 1776590507,
-    "timestamp_local": 1776590507
-  },
-  {
-    "id": 44792,
-    "fecha": "19 de Apr del 2026 a las 05:18 AM",
-    "hora_utc": "2026-04-19 09:18",
-    "mensaje": "💡Con servicio los siguientes circuitos:\n🔹Municipio Ranchuelo: \n👉Ctos 89, 97, 188 y 189\n👉Ctos 148 y 149 San Juan\n👉Cto 91 Batey Osvaldo Herrera\n👉Cto 181 Batey Ifraín Alfonso\n👉Cto 92 Esperanza (Pueblo)",
-    "timestamp": 1776590290,
-    "timestamp_local": 1776590290
   }
 ]
