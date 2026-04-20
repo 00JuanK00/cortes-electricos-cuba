@@ -1,5 +1,45 @@
 [
   {
+    "id": 44928,
+    "fecha": "20 de Apr del 2026 a las 05:24 PM",
+    "hora_utc": "2026-04-20 21:24",
+    "mensaje": "⚠️Afectado el servicio eléctrico en el siguiente circuito:\n🔹Municipio Santa Clara: \n👉Cto 167 (Virginia)",
+    "timestamp": 1776720285,
+    "timestamp_local": 1776720285
+  },
+  {
+    "id": 44927,
+    "fecha": "20 de Apr del 2026 a las 04:46 PM",
+    "hora_utc": "2026-04-20 20:46",
+    "mensaje": "⚠️Afectado el servicio eléctrico en el siguiente circuito:\n🔹Municipio Camajuaní:\n👉Cto 74 José María Pérez",
+    "timestamp": 1776717963,
+    "timestamp_local": 1776717963
+  },
+  {
+    "id": 44926,
+    "fecha": "20 de Apr del 2026 a las 04:43 PM",
+    "hora_utc": "2026-04-20 20:43",
+    "mensaje": "⚠️Afectado el servicio eléctrico en los siguientes circuitos:\n🔹Municipio Santa Clara: \n👉Cto 2 (Consejo-Centro)\n👉Cto 31 (Sakenaf)",
+    "timestamp": 1776717816,
+    "timestamp_local": 1776717816
+  },
+  {
+    "id": 44925,
+    "fecha": "20 de Apr del 2026 a las 04:40 PM",
+    "hora_utc": "2026-04-20 20:40",
+    "mensaje": "⚠️Afectado el servicio eléctrico en los siguientes circuitos:\n🔹Municipio Santa Clara: \n👉Cto 170 (José Martí)\n👉Cto 171 (Los Caneyes)",
+    "timestamp": 1776717628,
+    "timestamp_local": 1776717628
+  },
+  {
+    "id": 44924,
+    "fecha": "20 de Apr del 2026 a las 04:30 PM",
+    "hora_utc": "2026-04-20 20:30",
+    "mensaje": "⚠️Afectado el servicio eléctrico en los siguientes circuitos:\n🔹Municipio Ranchuelo: \n👉Ctos 89, 97, 188 y 189\n👉Ctos 148 y 149 San Juan\n👉Cto 91 Batey Osvaldo Herrera\n👉Cto 181 Batey Ifraín Alfonso\n👉Cto 92 Esperanza (Pueblo)",
+    "timestamp": 1776717012,
+    "timestamp_local": 1776717012
+  },
+  {
     "id": 44923,
     "fecha": "20 de Apr del 2026 a las 04:20 PM",
     "hora_utc": "2026-04-20 20:20",
@@ -118,45 +158,5 @@
     "mensaje": "⚠️Afectado el servicio eléctrico en los siguientes circuitos:\n🔹Municipio Santo Domingo:\n👉Cto 134\n👉Ctos 87 y 96 Bermejal\n👉Cto 187 Batey Carlos Baliño\n👉Cto 82 Ulacia\n👉Cto 84 Rodrigo",
     "timestamp": 1776711007,
     "timestamp_local": 1776711007
-  },
-  {
-    "id": 44908,
-    "fecha": "20 de Apr del 2026 a las 02:45 PM",
-    "hora_utc": "2026-04-20 18:45",
-    "mensaje": "Con servicio el circuito 95 (Jicotea), del municipio Ranchuelo.",
-    "timestamp": 1776710707,
-    "timestamp_local": 1776710707
-  },
-  {
-    "id": 44907,
-    "fecha": "20 de Apr del 2026 a las 02:17 PM",
-    "hora_utc": "2026-04-20 18:17",
-    "mensaje": "Con servicio la línea 1205:\nAfecta los siguientes circuitos:\n🔹Municipio Sagua\n👉Ctos 43, 51 Sagua \n👉Cto 44 Isabela \n👉Ctos 50 y 147 Villa Alegre (Déficit)",
-    "timestamp": 1776709020,
-    "timestamp_local": 1776709020
-  },
-  {
-    "id": 44906,
-    "fecha": "20 de Apr del 2026 a las 02:13 PM",
-    "hora_utc": "2026-04-20 18:13",
-    "mensaje": "✍️Actualización del servicio eléctrico en la provincia.\n👉De los circuitos apagables que presenta la provincia, se mantienen afectados 102 circuitos.\n👉En el momento de hacer esta nota la provincia tiene 74 MW de afectación por déficit de capacidad de generación, demanda máxima posible a apagar en estos momentos.\n👉Cuenta con 122 afectaciones por averías secundarias y de servicio.",
-    "timestamp": 1776708837,
-    "timestamp_local": 1776708837
-  },
-  {
-    "id": 44905,
-    "fecha": "20 de Apr del 2026 a las 02:12 PM",
-    "hora_utc": "2026-04-20 18:12",
-    "mensaje": "⚡Afectado por faltar una fase el circuito 95 (Jicotea), del municipio Ranchuelo. Se estudian las causas.",
-    "timestamp": 1776708732,
-    "timestamp_local": 1776708732
-  },
-  {
-    "id": 44904,
-    "fecha": "20 de Apr del 2026 a las 02:06 PM",
-    "hora_utc": "2026-04-20 18:06",
-    "mensaje": "🛠️Afectado por manipulación la línea 1205:\nAfecta los siguientes circuitos:\n🔹Municipio Sagua\n👉Ctos 43, 51 Sagua (Déficit)\n👉Cto 44 Isabela (Déficit)\n👉Ctos 50 y 147 Villa Alegre",
-    "timestamp": 1776708366,
-    "timestamp_local": 1776708366
   }
 ]
