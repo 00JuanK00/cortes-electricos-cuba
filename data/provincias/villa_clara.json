@@ -1,5 +1,69 @@
 [
   {
+    "id": 44923,
+    "fecha": "20 de Apr del 2026 a las 04:20 PM",
+    "hora_utc": "2026-04-20 20:20",
+    "mensaje": "⚠️Afectado el servicio eléctrico en los siguientes circuitos:\n👉Ctos  73 y 156\n👉Ctos 77, 59 y 185 Vueltas",
+    "timestamp": 1776716432,
+    "timestamp_local": 1776716432
+  },
+  {
+    "id": 44922,
+    "fecha": "20 de Apr del 2026 a las 04:10 PM",
+    "hora_utc": "2026-04-20 20:10",
+    "mensaje": "⚠️Afectado el servicio eléctrico en los siguientes circuitos:\n🔹Municipio Camajuaní:\n👉Ctos  72 y 129",
+    "timestamp": 1776715822,
+    "timestamp_local": 1776715822
+  },
+  {
+    "id": 44921,
+    "fecha": "20 de Apr del 2026 a las 04:07 PM",
+    "hora_utc": "2026-04-20 20:07",
+    "mensaje": "Con servicio la línea 6375:\n🔹Municipio Santa Clara\n👉Cto 7 (Universidad) (Queda afectado por Déficit)  \n👉Cto 146 (Elevado Aeropuerto) \n👉Cto 22 (Construcciones Textil)\n👉Cto 131 (Las Antillas) (Queda afectado por Déficit)  \n👉Cto 153 (EIDE)\n👉Cto 25 (Los Güiros)\n👉Cto 24 (Planta Asfalto)\n👉Cto 35 (Biotecnología) \n👉Ctos 14, 15 y 27 (Maleza)",
+    "timestamp": 1776715644,
+    "timestamp_local": 1776715644
+  },
+  {
+    "id": 44920,
+    "fecha": "20 de Apr del 2026 a las 04:06 PM",
+    "hora_utc": "2026-04-20 20:06",
+    "mensaje": "⚠️Afectado el servicio eléctrico en los siguientes circuitos:\n🔹Municipio Placetas:\n👉Ctos 101 y 145 Cumbre\n🔹Municipio Placetas \n👉Ctos 100 y 151 Placetas\n👉Cto 104 Hermanos Amejeiras\n👉Cto 103 Batey Carbó Servía",
+    "timestamp": 1776715570,
+    "timestamp_local": 1776715570
+  },
+  {
+    "id": 44919,
+    "fecha": "20 de Apr del 2026 a las 04:02 PM",
+    "hora_utc": "2026-04-20 20:02",
+    "mensaje": "🛠️Afectado por manipulación la línea 6375:\nAfecta los siguientes circuitos:\n🔹Municipio Santa Clara\n👉Cto 7 (Universidad)  \n👉Cto 146 (Elevado Aeropuerto) \n👉Cto 22 (Construcciones Textil)\n👉Cto 131 (Las Antillas)\n👉Cto 153 (EIDE)\n👉Cto 25 (Los Güiros)\n👉Cto 24 (Planta Asfalto)\n👉Cto 35 (Biotecnología) \n👉Ctos 14, 15 y 27 (Maleza)",
+    "timestamp": 1776715321,
+    "timestamp_local": 1776715321
+  },
+  {
+    "id": 44918,
+    "fecha": "20 de Apr del 2026 a las 04:00 PM",
+    "hora_utc": "2026-04-20 20:00",
+    "mensaje": "⚠️Afectado el servicio eléctrico en los siguientes circuitos:\n🔹Municipio Santa Clara\n👉Ctos 26 y 141 (Manuelita)\n👉Cto 191 (Quemado de Hilario)",
+    "timestamp": 1776715242,
+    "timestamp_local": 1776715242
+  },
+  {
+    "id": 44917,
+    "fecha": "20 de Apr del 2026 a las 03:59 PM",
+    "hora_utc": "2026-04-20 19:59",
+    "mensaje": "✍️Actualización del servicio eléctrico en la provincia.\n👉De los circuitos apagables que presenta la provincia, se mantienen afectados 102 circuitos.\n👉En el momento de hacer esta nota la provincia tiene 78 MW de afectación por déficit de capacidad de generación, demanda máxima posible a apagar en estos momentos.\n👉Cuenta con 122 afectaciones por averías secundarias y de servicio.",
+    "timestamp": 1776715144,
+    "timestamp_local": 1776715144
+  },
+  {
+    "id": 44916,
+    "fecha": "20 de Apr del 2026 a las 03:46 PM",
+    "hora_utc": "2026-04-20 19:46",
+    "mensaje": "Con servicio el circuito 1 (Consejo-Centro), del municipio Santa Clara.",
+    "timestamp": 1776714369,
+    "timestamp_local": 1776714369
+  },
+  {
     "id": 44915,
     "fecha": "20 de Apr del 2026 a las 03:22 PM",
     "hora_utc": "2026-04-20 19:22",
@@ -94,69 +158,5 @@
     "mensaje": "🛠️Afectado por manipulación la línea 1205:\nAfecta los siguientes circuitos:\n🔹Municipio Sagua\n👉Ctos 43, 51 Sagua (Déficit)\n👉Cto 44 Isabela (Déficit)\n👉Ctos 50 y 147 Villa Alegre",
     "timestamp": 1776708366,
     "timestamp_local": 1776708366
-  },
-  {
-    "id": 44903,
-    "fecha": "20 de Apr del 2026 a las 02:03 PM",
-    "hora_utc": "2026-04-20 18:03",
-    "mensaje": "Con servicio el circuito 86 (Pajarito), del municipio Santo Domingo.",
-    "timestamp": 1776708189,
-    "timestamp_local": 1776708189
-  },
-  {
-    "id": 44902,
-    "fecha": "20 de Apr del 2026 a las 02:00 PM",
-    "hora_utc": "2026-04-20 18:00",
-    "mensaje": "Restablecido parcialmente el circuito 95 (Jicotea), del municipio Ranchuelo.",
-    "timestamp": 1776708012,
-    "timestamp_local": 1776708012
-  },
-  {
-    "id": 44901,
-    "fecha": "20 de Apr del 2026 a las 01:20 PM",
-    "hora_utc": "2026-04-20 17:20",
-    "mensaje": "🛠️Afectado por disparo el circuito 95 (Jicotea), del municipio Ranchuelo. Se estudian las causas.",
-    "timestamp": 1776705631,
-    "timestamp_local": 1776705631
-  },
-  {
-    "id": 44900,
-    "fecha": "20 de Apr del 2026 a las 01:11 PM",
-    "hora_utc": "2026-04-20 17:11",
-    "mensaje": "⚠️Afectado el servicio eléctrico en el siguiente circuito:\n🔹Municipio Quemado:\n👉Cto 196 Batey Panchito Gómez Toro.",
-    "timestamp": 1776705115,
-    "timestamp_local": 1776705115
-  },
-  {
-    "id": 44899,
-    "fecha": "20 de Apr del 2026 a las 01:02 PM",
-    "hora_utc": "2026-04-20 17:02",
-    "mensaje": "⚠️Afectado el servicio eléctrico en los siguientes circuitos:\n🔹Municipio Caibarién:\n👉 Ctos 61, 62, 63 y 64\n👉Ctos 182 y 183 Van Troy",
-    "timestamp": 1776704572,
-    "timestamp_local": 1776704572
-  },
-  {
-    "id": 44898,
-    "fecha": "20 de Apr del 2026 a las 12:50 PM",
-    "hora_utc": "2026-04-20 16:50",
-    "mensaje": "⚠️Afectado el servicio eléctrico en los siguientes circuitos:\n🔹Municipio Quemado:\n👉Ctos 164, 52 y 53 Quemado.",
-    "timestamp": 1776703848,
-    "timestamp_local": 1776703848
-  },
-  {
-    "id": 44897,
-    "fecha": "20 de Apr del 2026 a las 12:30 PM",
-    "hora_utc": "2026-04-20 16:30",
-    "mensaje": "⚠️Afectado el servicio eléctrico en los siguientes circuitos:\n🔹Municipio Santo Domingo:\n👉Cto 134\n👉Ctos 87 y 96 Bermejal\n👉Cto 187 Batey Carlos Baliño\n👉Cto 82 Ulacia\n👉Cto 84 Rodrigo",
-    "timestamp": 1776702611,
-    "timestamp_local": 1776702611
-  },
-  {
-    "id": 44896,
-    "fecha": "20 de Apr del 2026 a las 12:29 PM",
-    "hora_utc": "2026-04-20 16:29",
-    "mensaje": "🛠️Afectado el circuito 86 (Pajarito), del municipio Santo Domingo, por vía libre por puentes abiertos. Brigadas eléctricas de nuestra empresa preparan las condiciones necesarias para trabajar en el lugar.",
-    "timestamp": 1776702580,
-    "timestamp_local": 1776702580
   }
 ]
