@@ -1,5 +1,29 @@
 [
   {
+    "id": 112297,
+    "fecha": "21 de Apr del 2026 a las 09:10 AM",
+    "hora_utc": "2026-04-21 13:10",
+    "mensaje": "🚨Por déficit de capacidad de generación se afecta el servicio en el siguiente circuito:\n*2 de San José 🚨",
+    "timestamp": 1776777012,
+    "timestamp_local": 1776777012
+  },
+  {
+    "id": 112296,
+    "fecha": "21 de Apr del 2026 a las 09:04 AM",
+    "hora_utc": "2026-04-21 13:04",
+    "mensaje": "🚨Por déficit de capacidad de generación se afecta el servicio en los siguientes circuitos:\n*6 y 8 de San José 🚨",
+    "timestamp": 1776776654,
+    "timestamp_local": 1776776654
+  },
+  {
+    "id": 112295,
+    "fecha": "21 de Apr del 2026 a las 08:47 AM",
+    "hora_utc": "2026-04-21 12:47",
+    "mensaje": "🚨Por déficit de capacidad de generación se afecta el servicio en el siguiente circuito:\n*Madruga 🚨",
+    "timestamp": 1776775650,
+    "timestamp_local": 1776775650
+  },
+  {
     "id": 112294,
     "fecha": "21 de Apr del 2026 a las 08:31 AM",
     "hora_utc": "2026-04-21 12:31",
@@ -11,7 +35,7 @@
     "id": 112292,
     "fecha": "21 de Apr del 2026 a las 08:02 AM",
     "hora_utc": "2026-04-21 12:02",
-    "mensaje": "🚨Por déficit de capacidad de generación se afecta el servicio en los siguientes circuitos:\n*Camacho 1y 2\n*Batabanó\n*Surgidero 🚨",
+    "mensaje": "🚨Por déficit de capacidad de generación se afecta el servicio en los siguientes circuitos:\n*Camacho 1y 2\n*Batabanó\n*Surgidero\n*Bío -2 🚨",
     "timestamp": 1776772951,
     "timestamp_local": 1776772951
   },
@@ -54,29 +78,5 @@
     "mensaje": "🚨Por déficit de capacidad de generación se afecta el servicio en el siguiente circuito:\n*Somorrostro 🚨",
     "timestamp": 1776743638,
     "timestamp_local": 1776743638
-  },
-  {
-    "id": 112277,
-    "fecha": "20 de Apr del 2026 a las 11:50 PM",
-    "hora_utc": "2026-04-21 03:50",
-    "mensaje": "♦️Informamos a los clientes de las siguientes zonas correspondientes al circuito Güines 3 que quedan afectadas  por avería:\n*Roberto Rodríguez\n*Zona de Desarrollo Amistad\n*Las Barcenas\n*La Gloria\n*Los Cocos\n*Zonas aledañas♦️",
-    "timestamp": 1776743410,
-    "timestamp_local": 1776743410
-  },
-  {
-    "id": 112276,
-    "fecha": "20 de Apr del 2026 a las 11:45 PM",
-    "hora_utc": "2026-04-21 03:45",
-    "mensaje": "🔷Restablecido el servicio en el circuito Güines 3 que se encontraba afectado por disparo en las líneas🔷",
-    "timestamp": 1776743145,
-    "timestamp_local": 1776743145
-  },
-  {
-    "id": 112275,
-    "fecha": "20 de Apr del 2026 a las 11:38 PM",
-    "hora_utc": "2026-04-21 03:38",
-    "mensaje": "🚨Por déficit de capacidad de generación se afecta el servicio en el siguiente circuito:\n*CENSA🚨",
-    "timestamp": 1776742709,
-    "timestamp_local": 1776742709
   }
 ]
