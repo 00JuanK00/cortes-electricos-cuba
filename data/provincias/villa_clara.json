@@ -1,5 +1,21 @@
 [
   {
+    "id": 44933,
+    "fecha": "20 de Apr del 2026 a las 08:10 PM",
+    "hora_utc": "2026-04-21 00:10",
+    "mensaje": "✍️Actualización del servicio eléctrico en la provincia.\n👉De los circuitos apagables que presenta la provincia, se mantienen afectados 109 circuitos.\n👉En el momento de hacer esta nota la provincia tiene 111 MW de afectación por déficit de capacidad de generación, demanda máxima posible a apagar en estos momentos.\n👉Cuenta con 93 afectaciones por averías secundarias y de servicio.",
+    "timestamp": 1776730220,
+    "timestamp_local": 1776730220
+  },
+  {
+    "id": 44932,
+    "fecha": "20 de Apr del 2026 a las 08:08 PM",
+    "hora_utc": "2026-04-21 00:08",
+    "mensaje": "⚠️Afectado el servicio eléctrico en los siguientes circuitos:\n🔹Municipio Cifuentes:\n👉Ctos 114 y 117\n👉Ctos 116 y 155 Mata\n👉Cto 186 Batey Unidad Proletaria\n👉Cto 184 Sitio Grande",
+    "timestamp": 1776730089,
+    "timestamp_local": 1776730089
+  },
+  {
     "id": 44930,
     "fecha": "20 de Apr del 2026 a las 06:08 PM",
     "hora_utc": "2026-04-20 22:08",
@@ -134,29 +150,5 @@
     "mensaje": "⚡Afectado por faltar una fase el circuito 95 (Jicotea), del municipio Ranchuelo. Se estudian las causas.",
     "timestamp": 1776712700,
     "timestamp_local": 1776712700
-  },
-  {
-    "id": 44913,
-    "fecha": "20 de Apr del 2026 a las 03:12 PM",
-    "hora_utc": "2026-04-20 19:12",
-    "mensaje": "Con servicio eléctrico el circuito 1 (Consejo-Centro), del municipio Santa Clara.",
-    "timestamp": 1776712366,
-    "timestamp_local": 1776712366
-  },
-  {
-    "id": 44912,
-    "fecha": "20 de Apr del 2026 a las 03:08 PM",
-    "hora_utc": "2026-04-20 19:08",
-    "mensaje": "⚠️Afectado el servicio eléctrico en los siguientes circuitos:\n🔹Municipio Encrucijada\n👉Cto 120 Calabazar\n👉Ctos 121 y 127 Perucho",
-    "timestamp": 1776712101,
-    "timestamp_local": 1776712101
-  },
-  {
-    "id": 44911,
-    "fecha": "20 de Apr del 2026 a las 03:03 PM",
-    "hora_utc": "2026-04-20 19:03",
-    "mensaje": "⚠️Afectado el servicio eléctrico en los siguientes circuitos:\n🔹Municipio Manicaragua:\n👉Ctos 109 y 150\n👉Ctos 108 y 110 La Piedra\n👉Cto 111 Mataguá",
-    "timestamp": 1776711826,
-    "timestamp_local": 1776711826
   }
 ]
