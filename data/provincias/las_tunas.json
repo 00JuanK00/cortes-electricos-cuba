@@ -1,5 +1,13 @@
 [
   {
+    "id": 18798,
+    "fecha": "21 de Apr del 2026 a las 02:41 PM",
+    "hora_utc": "2026-04-21 18:41",
+    "mensaje": "La Empresa Eléctrica Las Tunas informa que, según la nota emitida por la Unión Eléctrica para el 21 de abril, en el día de ayer se afectó el servicio por déficit de capacidad durante las 24 horas y se ha mantenido la afectación durante la madrugada de hoy. En nuestra provincia se afectaron la totalidad de los circuitos apagables, con una máxima afectación de 49.85 MW.\nActualmente están fuera de servicio por avería la Unidad 8 de la CTE Máximo Gómez, Unidad 6 de la CTE Diez de Octubre, Unidad 3 de la CTE Carlos Manuel de Céspedes, Unidad 5 de la CTE Antonio Maceo, Unidad 2 de la CTE Felton. En mantenimiento se encuentran Unidad 5 de la CTE Mariel, Unidad 6 de la CTE Renté, Unidad 5 de la CTE Nuevitas.\nEn el horario de la media se estima una afectación de 850 MW, esto puede implicar una afectación del 60% en nuestra provincia.\nEn el horario nocturno se estima un déficit de 1042 MW en el país, lo cual puede representar el 65% de los circuitos apagables de la provincia.\nEstos valores pueden variar según la demanda nacional.",
+    "timestamp": 1776796883,
+    "timestamp_local": 1776796883
+  },
+  {
     "id": 18797,
     "fecha": "21 de Apr del 2026 a las 08:24 AM",
     "hora_utc": "2026-04-21 12:24",
@@ -62,13 +70,5 @@
     "mensaje": "Se encuentra disparado el circuito:TJ11 Bartle",
     "timestamp": 1776630406,
     "timestamp_local": 1776630406
-  },
-  {
-    "id": 18778,
-    "fecha": "19 de Apr del 2026 a las 08:40 AM",
-    "hora_utc": "2026-04-19 12:40",
-    "mensaje": "Se declara en avería :TK70 Transporte",
-    "timestamp": 1776602427,
-    "timestamp_local": 1776602427
   }
 ]
