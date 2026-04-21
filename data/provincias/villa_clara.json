@@ -1,9 +1,33 @@
 [
   {
+    "id": 45016,
+    "fecha": "21 de Apr del 2026 a las 06:07 PM",
+    "hora_utc": "2026-04-21 22:07",
+    "mensaje": "🕕Actualización del servicio eléctrico en las últimas 6 horas.\n✍️El déficit de capacidad de generación en estos momentos es de 156 MW\n✍️En el momento de esta nota, se mantienen afectados 154 circuitos.\n✍️ Cuenta con 83 afectaciones por averías secundarias y de servicio:\n🔸 Camajuaní (2)\n🔸 Cifuentes (2)\n🔸 Corralillo (2)\n🔸 Manicaragua (7)\n🔸 Placetas (7)\n🔸 Ranchuelo (6)\n🔸 Remedios (2)\n🔸 Sagua (17) \n🔸 Santa Clara (29)\n🔸 Santo Domingo (9)\n🛠Se encuentra 1 avería en vía de solución.\n🛠️Pendientes a solucionar por el área técnica 12.\n✅La provincia no presenta averías primarias.",
+    "timestamp": 1776809265,
+    "timestamp_local": 1776809265
+  },
+  {
+    "id": 45015,
+    "fecha": "21 de Apr del 2026 a las 05:59 PM",
+    "hora_utc": "2026-04-21 21:59",
+    "mensaje": "✍La provincia se encuentra en su máxima capacidad apagable debido al incremento de la demanda por déficit de capacidad de generación.\n✍El restablecimiento del servicio eléctrico dependerá del comportamiento, la demanda y la disponibilidad del sistema eléctrico.",
+    "timestamp": 1776808779,
+    "timestamp_local": 1776808779
+  },
+  {
+    "id": 45014,
+    "fecha": "21 de Apr del 2026 a las 05:56 PM",
+    "hora_utc": "2026-04-21 21:56",
+    "mensaje": "⚠️Afectado el servicio eléctrico en los siguientes circuitos:\n🔹Municipio Santa Clara\n👉Cto 31 (Santa Clara Industrial)\n👉Cto 6 (Vigía)",
+    "timestamp": 1776808603,
+    "timestamp_local": 1776808603
+  },
+  {
     "id": 45013,
     "fecha": "21 de Apr del 2026 a las 05:08 PM",
     "hora_utc": "2026-04-21 21:08",
-    "mensaje": "Afectados 120 MW en la provincia, demanda máxima a apagar en estos momentos.",
+    "mensaje": "Afectados 139 MW en la provincia, demanda máxima a apagar en estos momentos.",
     "timestamp": 1776805710,
     "timestamp_local": 1776805710
   },
@@ -126,29 +150,5 @@
     "mensaje": "💡Con servicio los siguientes circuitos:\n🔹Municipio Encrucijada\n👉Cto 120 Calabaza\n👉Ctos 121 y 127 Perucho\n🔹Municipio Cifuentes:\n👉Ctos 114 y 117\n👉Ctos 116 y 155 Mata\n👉Cto 186 Batey Unidad Proletaria\n👉Cto 184 Sitio Grande\n🔹Municipio Santa Clara\n👉Cto 162 (Santa Clara Industrial)",
     "timestamp": 1776789310,
     "timestamp_local": 1776789310
-  },
-  {
-    "id": 44996,
-    "fecha": "21 de Apr del 2026 a las 12:33 PM",
-    "hora_utc": "2026-04-21 16:33",
-    "mensaje": "⚠Afectada por manipulación la línea del 1785:\n🔹Municipio Santa Clara:\n👉Cto 6 (Vigía)\n👉Cto 34(Sabana Rebacadero)\n👉Ctos 32 y 33 (RF-33Kv)\n👉Cto 39 (Sandino)",
-    "timestamp": 1776789210,
-    "timestamp_local": 1776789210
-  },
-  {
-    "id": 44995,
-    "fecha": "21 de Apr del 2026 a las 12:18 PM",
-    "hora_utc": "2026-04-21 16:18",
-    "mensaje": "⚠Se encuentra disparada la línea del 1365:\n🔹Municipio Remedios:\n👉Ctos 67 y 152, 68 y 118 \n👉Ctos 69 y 70 Zuluetas\n👉Cto 143 Batey Heriberto Duquezne \n👉Cto 71 Buena Vista",
-    "timestamp": 1776788284,
-    "timestamp_local": 1776788284
-  },
-  {
-    "id": 44994,
-    "fecha": "21 de Apr del 2026 a las 12:16 PM",
-    "hora_utc": "2026-04-21 16:16",
-    "mensaje": "⚠️Afectado el servicio eléctrico en los siguientes circuitos:\n🔹Municipio Caibarién:\n👉 Ctos 61, 62\n👉Ctos 182 y 183 Van Troy",
-    "timestamp": 1776788206,
-    "timestamp_local": 1776788206
   }
 ]
