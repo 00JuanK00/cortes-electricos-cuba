@@ -1,5 +1,37 @@
 [
   {
+    "id": 45039,
+    "fecha": "22 de Apr del 2026 a las 03:00 AM",
+    "hora_utc": "2026-04-22 07:00",
+    "mensaje": "Afectados 15 MW en la provincia, demanda máxima a apagar en estos momentos.",
+    "timestamp": 1776841247,
+    "timestamp_local": 1776841247
+  },
+  {
+    "id": 45038,
+    "fecha": "22 de Apr del 2026 a las 02:58 AM",
+    "hora_utc": "2026-04-22 06:58",
+    "mensaje": "💡Restablecido el servicio eléctrico en los siguientes circuitos:\n🔹Municipio Santo Domingo:\n👉Cto 134\n👉Ctos 87 y 96 Bermejal\n👉Cto 187 Batey Carlos Baliño\n👉Cto 82 Ulacia\n👉Cto 84 Rodrigo",
+    "timestamp": 1776841114,
+    "timestamp_local": 1776841114
+  },
+  {
+    "id": 45037,
+    "fecha": "22 de Apr del 2026 a las 02:03 AM",
+    "hora_utc": "2026-04-22 06:03",
+    "mensaje": "💡Restablecido el servicio eléctrico en los siguientes circuitos:\n🔹Municipio Sagua\n👉Ctos 43, 51 Sagua\n👉Cto 44 Isabela",
+    "timestamp": 1776837818,
+    "timestamp_local": 1776837818
+  },
+  {
+    "id": 45036,
+    "fecha": "22 de Apr del 2026 a las 02:01 AM",
+    "hora_utc": "2026-04-22 06:01",
+    "mensaje": "✍️Actualización del servicio eléctrico en la provincia.\n👉De los circuitos apagables que presenta la provincia, se mantienen afectados 44 circuitos.\n👉En el momento de hacer esta nota la provincia tiene 21 MW de afectación por déficit de capacidad de generación, demanda máxima posible a apagar en estos momentos.\n👉Cuenta con 86 afectaciones por averías secundarias y de servicio.",
+    "timestamp": 1776837696,
+    "timestamp_local": 1776837696
+  },
+  {
     "id": 45035,
     "fecha": "22 de Apr del 2026 a las 01:44 AM",
     "hora_utc": "2026-04-22 05:44",
@@ -126,29 +158,5 @@
     "mensaje": "Afectados 139 MW en la provincia, demanda máxima a apagar en estos momentos.",
     "timestamp": 1776821771,
     "timestamp_local": 1776821771
-  },
-  {
-    "id": 45019,
-    "fecha": "21 de Apr del 2026 a las 09:35 PM",
-    "hora_utc": "2026-04-22 01:35",
-    "mensaje": "⚡Se encuentra en avería la línea de 110 Kv Santa Clara la Moza, quedando afectado la Sub Moza 110 Kv, se están creando las coordinaciones y manipulaciones pertinentes para dar servicio a través de Cienfuegos cincronizando la Hidroeléctrica.\n⚠Se encuentran afectados los siguientes circuitos pertenecientes al municipio Manicaragua:\n👉Ctos 113 y 137 La Campana\n👉Cto 112 Hoyo Manicaragua",
-    "timestamp": 1776821729,
-    "timestamp_local": 1776821729
-  },
-  {
-    "id": 45018,
-    "fecha": "21 de Apr del 2026 a las 08:12 PM",
-    "hora_utc": "2026-04-22 00:12",
-    "mensaje": "✍️Actualización del servicio eléctrico en la provincia.\n👉De los circuitos apagables que presenta la provincia, se mantienen afectados 154 circuitos.\n👉En el momento de hacer esta nota la provincia tiene 161 MW de afectación por déficit de capacidad de generación, demanda máxima posible a apagar en estos momentos.\n👉Cuenta con 77 afectaciones por averías secundarias y de servicio.",
-    "timestamp": 1776816753,
-    "timestamp_local": 1776816753
-  },
-  {
-    "id": 45016,
-    "fecha": "21 de Apr del 2026 a las 06:07 PM",
-    "hora_utc": "2026-04-21 22:07",
-    "mensaje": "🕕Actualización del servicio eléctrico en las últimas 6 horas.\n✍️El déficit de capacidad de generación en estos momentos es de 156 MW\n✍️En el momento de esta nota, se mantienen afectados 154 circuitos.\n✍️ Cuenta con 83 afectaciones por averías secundarias y de servicio:\n🔸 Camajuaní (2)\n🔸 Cifuentes (2)\n🔸 Corralillo (2)\n🔸 Manicaragua (7)\n🔸 Placetas (7)\n🔸 Ranchuelo (6)\n🔸 Remedios (2)\n🔸 Sagua (17) \n🔸 Santa Clara (29)\n🔸 Santo Domingo (9)\n🛠Se encuentra 1 avería en vía de solución.\n🛠️Pendientes a solucionar por el área técnica 12.\n✅La provincia no presenta averías primarias.",
-    "timestamp": 1776809265,
-    "timestamp_local": 1776809265
   }
 ]
