@@ -1,5 +1,45 @@
 [
   {
+    "id": 45098,
+    "fecha": "22 de Apr del 2026 a las 04:38 PM",
+    "hora_utc": "2026-04-22 20:38",
+    "mensaje": "⚠Afectado el servicio eléctrico en los siguientes circuitos:\n🔹Municipio Santa Clara:\n👉Cto 144 (Camacho)\n🔹Municipio Manicaragua:\n👉Cto 110 La Piedra",
+    "timestamp": 1776890301,
+    "timestamp_local": 1776890301
+  },
+  {
+    "id": 45097,
+    "fecha": "22 de Apr del 2026 a las 04:28 PM",
+    "hora_utc": "2026-04-22 20:28",
+    "mensaje": "⚠Afectado el servicio eléctrico en los siguientes circuitos:\n🔹Municipio Santa Clara\n👉Cto 14 (Maleza)\n🔹Municipio Caibarién\n👉Ctos 63 y 64",
+    "timestamp": 1776889738,
+    "timestamp_local": 1776889738
+  },
+  {
+    "id": 45096,
+    "fecha": "22 de Apr del 2026 a las 04:20 PM",
+    "hora_utc": "2026-04-22 20:20",
+    "mensaje": "⚠Afectado el servicio eléctrico en los siguientes circuitos:\n🔹Municipio Camajuaní:\n👉Ctos 77, 59 y 185 Vueltas",
+    "timestamp": 1776889223,
+    "timestamp_local": 1776889223
+  },
+  {
+    "id": 45095,
+    "fecha": "22 de Apr del 2026 a las 04:11 PM",
+    "hora_utc": "2026-04-22 20:11",
+    "mensaje": "✍️Actualización del servicio eléctrico en la provincia.\n👉De los circuitos apagables que presenta la provincia, se mantienen afectados 117circuitos.\n👉En el momento de hacer esta nota la provincia tiene 91 MW de afectación por déficit de capacidad de generación, demanda máxima posible a apagar en estos momentos.\n👉Cuenta con 133 afectaciones por averías secundarias y de servicio.",
+    "timestamp": 1776888681,
+    "timestamp_local": 1776888681
+  },
+  {
+    "id": 45094,
+    "fecha": "22 de Apr del 2026 a las 04:01 PM",
+    "hora_utc": "2026-04-22 20:01",
+    "mensaje": "⚠Afectado el servicio eléctrico en los siguientes circuitos:\n🔹Municipio Ranchuelo: \n👉Ctos 89, 97, 188 y 189\n👉Ctos 148 y 149 San Juan\n👉Cto 91 Batey Osvaldo Herrera\n👉Cto 181 Batey Ifraín Alfonso\n👉Cto 92 Esperanza (Pueblo)",
+    "timestamp": 1776888072,
+    "timestamp_local": 1776888072
+  },
+  {
     "id": 45093,
     "fecha": "22 de Apr del 2026 a las 03:57 PM",
     "hora_utc": "2026-04-22 19:57",
@@ -118,45 +158,5 @@
     "mensaje": "⚠Afectado el servicio eléctrico en los siguientes circuitos:\n🔹Municipio Cifuentes:\n👉Ctos 114 y 117\n👉Ctos 116 y 155 Mata\n👉Cto 186 Batey Unidad Proletaria\n👉Cto 184 Sitio Grande",
     "timestamp": 1776881260,
     "timestamp_local": 1776881260
-  },
-  {
-    "id": 45078,
-    "fecha": "22 de Apr del 2026 a las 01:58 PM",
-    "hora_utc": "2026-04-22 17:58",
-    "mensaje": "💡Con servicio eléctrico  los siguientes circuitos:\n🔹Municipio Remedios:\n👉Ctos 67 , 68 y 118 \n👉Ctos 69 y 70 Zuluetas\n👉Cto 143 Batey Heriberto Duquezne \n👉Cto 71 Buena Vista",
-    "timestamp": 1776880681,
-    "timestamp_local": 1776880681
-  },
-  {
-    "id": 45077,
-    "fecha": "22 de Apr del 2026 a las 01:25 PM",
-    "hora_utc": "2026-04-22 17:25",
-    "mensaje": "💡Con servicio eléctrico  los siguientes circuitos:\n🔹Municipio Santa Clara\n👉Ctos 26 y 141 (Manuelita)\n👉Cto 191 (Quemado de Hilario)\n👉Cto 167 (Virginia)",
-    "timestamp": 1776878749,
-    "timestamp_local": 1776878749
-  },
-  {
-    "id": 45076,
-    "fecha": "22 de Apr del 2026 a las 01:21 PM",
-    "hora_utc": "2026-04-22 17:21",
-    "mensaje": "💡Con servicio eléctrico  los siguientes circuitos:\n🔹Municipio Santa Clara\n👉Cto 170 (José Martí)\n👉Cto 171 (Los Caneyes)",
-    "timestamp": 1776878518,
-    "timestamp_local": 1776878518
-  },
-  {
-    "id": 45075,
-    "fecha": "22 de Apr del 2026 a las 01:19 PM",
-    "hora_utc": "2026-04-22 17:19",
-    "mensaje": "⚠Afectado el servicio eléctrico en los siguientes circuitos:\n🔹Municipio Caibarién:\n👉 Ctos 61, 62\n👉Ctos 182 y 183 Van Troy",
-    "timestamp": 1776878395,
-    "timestamp_local": 1776878395
-  },
-  {
-    "id": 45074,
-    "fecha": "22 de Apr del 2026 a las 01:14 PM",
-    "hora_utc": "2026-04-22 17:14",
-    "mensaje": "💡Con servicio eléctrico  el  siguiente circuito:\n🔹Municipio Santa Clara\n👉Cto 162 (Santa Clara Industrial)",
-    "timestamp": 1776878056,
-    "timestamp_local": 1776878056
   }
 ]
