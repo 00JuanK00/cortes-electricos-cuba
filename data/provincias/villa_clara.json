@@ -1,5 +1,29 @@
 [
   {
+    "id": 45057,
+    "fecha": "22 de Apr del 2026 a las 08:18 AM",
+    "hora_utc": "2026-04-22 12:18",
+    "mensaje": "⚠️Afectado el servicio eléctrico en los siguientes circuitos:\n🔹Municipio Santa Clara: \n👉Cto 166 (Condado)\n👉Cto 167 (Virginia)\n👉Cto 170 (José Martí)\n👉Cto 171 (Los Caneyes)",
+    "timestamp": 1776860289,
+    "timestamp_local": 1776860289
+  },
+  {
+    "id": 45056,
+    "fecha": "22 de Apr del 2026 a las 08:16 AM",
+    "hora_utc": "2026-04-22 12:16",
+    "mensaje": "💡Restablecido el servicio eléctrico en los siguientes circuitos:\n🔹Municipio Placetas:\n👉Ctos 101 y 145 Cumbre\n🔹Municipio Encrucijada\n👉Cto 120 Calabaza\n👉Ctos 121 y 127 Perucho",
+    "timestamp": 1776860182,
+    "timestamp_local": 1776860182
+  },
+  {
+    "id": 45055,
+    "fecha": "22 de Apr del 2026 a las 08:12 AM",
+    "hora_utc": "2026-04-22 12:12",
+    "mensaje": "✍️Actualización del servicio eléctrico en la provincia.\n👉De los circuitos apagables que presenta la provincia, se mantienen afectados 67 circuitos.\n👉En el momento de hacer esta nota la provincia tiene 38 MW de afectación por déficit de capacidad de generación, demanda máxima posible a apagar en estos momentos.\n👉Cuenta con 99 afectaciones por averías secundarias y de servicio.",
+    "timestamp": 1776859967,
+    "timestamp_local": 1776859967
+  },
+  {
     "id": 45054,
     "fecha": "22 de Apr del 2026 a las 07:28 AM",
     "hora_utc": "2026-04-22 11:28",
@@ -126,29 +150,5 @@
     "mensaje": "💡Restablecido el servicio eléctrico en los siguientes circuitos:\n🔹Municipio Santo Domingo:\n👉Cto 134\n👉Ctos 87 y 96 Bermejal\n👉Cto 187 Batey Carlos Baliño\n👉Cto 82 Ulacia\n👉Cto 84 Rodrigo",
     "timestamp": 1776841114,
     "timestamp_local": 1776841114
-  },
-  {
-    "id": 45037,
-    "fecha": "22 de Apr del 2026 a las 02:03 AM",
-    "hora_utc": "2026-04-22 06:03",
-    "mensaje": "💡Restablecido el servicio eléctrico en los siguientes circuitos:\n🔹Municipio Sagua\n👉Ctos 43, 51 Sagua\n👉Cto 44 Isabela",
-    "timestamp": 1776837818,
-    "timestamp_local": 1776837818
-  },
-  {
-    "id": 45036,
-    "fecha": "22 de Apr del 2026 a las 02:01 AM",
-    "hora_utc": "2026-04-22 06:01",
-    "mensaje": "✍️Actualización del servicio eléctrico en la provincia.\n👉De los circuitos apagables que presenta la provincia, se mantienen afectados 44 circuitos.\n👉En el momento de hacer esta nota la provincia tiene 21 MW de afectación por déficit de capacidad de generación, demanda máxima posible a apagar en estos momentos.\n👉Cuenta con 86 afectaciones por averías secundarias y de servicio.",
-    "timestamp": 1776837696,
-    "timestamp_local": 1776837696
-  },
-  {
-    "id": 45035,
-    "fecha": "22 de Apr del 2026 a las 01:44 AM",
-    "hora_utc": "2026-04-22 05:44",
-    "mensaje": "⚠Afectada por manipulación la línea del 1205:\n🔹Municipio Sagua\n👉Ctos 43, 51 Sagua\n👉Cto 44 Isabela\n👉Ctos 50 y 147 Villa Alegre",
-    "timestamp": 1776836680,
-    "timestamp_local": 1776836680
   }
 ]
