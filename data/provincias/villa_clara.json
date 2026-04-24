@@ -1,5 +1,37 @@
 [
   {
+    "id": 45257,
+    "fecha": "24 de Apr del 2026 a las 05:24 PM",
+    "hora_utc": "2026-04-24 21:24",
+    "mensaje": "⚠️Afectado el servicio eléctrico en el siguiente circuito:\n🔹Municipio Santa Clara:\n👉Cto 31 (Santa Clara Industrial)",
+    "timestamp": 1777065882,
+    "timestamp_local": 1777065882
+  },
+  {
+    "id": 45256,
+    "fecha": "24 de Apr del 2026 a las 04:53 PM",
+    "hora_utc": "2026-04-24 20:53",
+    "mensaje": "Con servicio el circuito 170 (José Martí), del municipio Santa Clara.",
+    "timestamp": 1777063980,
+    "timestamp_local": 1777063980
+  },
+  {
+    "id": 45255,
+    "fecha": "24 de Apr del 2026 a las 04:48 PM",
+    "hora_utc": "2026-04-24 20:48",
+    "mensaje": "🛠Afectado por manipulación los siguientes circuitos:\n🔹Municipio Santa Clara:\n👉Cto 5 (Dobarganes)\n👉Cto 17 (Subplanta)",
+    "timestamp": 1777063722,
+    "timestamp_local": 1777063722
+  },
+  {
+    "id": 45254,
+    "fecha": "24 de Apr del 2026 a las 04:43 PM",
+    "hora_utc": "2026-04-24 20:43",
+    "mensaje": "⚠️Afectado el servicio eléctrico en los siguientes circuitos:\n🔹Municipio Santo Domingo:\n👉Cto 195 Batey George Washington\n👉Ctos 83 y 165 Manacas\n👉Ctos 85 y 86 Pajarito\n👉Ctos 160 y 161 Cascajal\n👉Cto 79 (Santo Domingo)\n👉Cto 81 (26 de Julio)\n👉Cto 163 (Batey 26 de Julio\n🔹Municipio Ranchuelo:\n👉Ctos 54, 94 y 95 Jicotea\n👉Cto 93 Esperanza (Campo)",
+    "timestamp": 1777063413,
+    "timestamp_local": 1777063413
+  },
+  {
     "id": 45253,
     "fecha": "24 de Apr del 2026 a las 04:19 PM",
     "hora_utc": "2026-04-24 20:19",
@@ -27,7 +59,7 @@
     "id": 45250,
     "fecha": "24 de Apr del 2026 a las 04:03 PM",
     "hora_utc": "2026-04-24 20:03",
-    "mensaje": "⚠️Afectado el servicio eléctrico en los siguientes circuitos:\n🔹Municipio Santa Clara\n👉Ctos 15 y 27 (Maleza)",
+    "mensaje": "⚠️Afectado por manipulación los siguientes circuitos:\n🔹Municipio Santa Clara\n👉Ctos 15 y 27 (Maleza)",
     "timestamp": 1777061033,
     "timestamp_local": 1777061033
   },
@@ -118,37 +150,5 @@
     "mensaje": "⚠️Afectado el servicio eléctrico en el siguiente circuito:\n🔹Municipio Camajuaní:\n👉Cto 74 José María Pérez",
     "timestamp": 1777056457,
     "timestamp_local": 1777056457
-  },
-  {
-    "id": 45237,
-    "fecha": "24 de Apr del 2026 a las 02:18 PM",
-    "hora_utc": "2026-04-24 18:18",
-    "mensaje": "⚠️Afectado el servicio eléctrico en los siguientes circuitos:\n🔹Municipio Camajuaní:\n👉Ctos 73 y 156",
-    "timestamp": 1777054694,
-    "timestamp_local": 1777054694
-  },
-  {
-    "id": 45236,
-    "fecha": "24 de Apr del 2026 a las 02:10 PM",
-    "hora_utc": "2026-04-24 18:10",
-    "mensaje": "⚠️Afectado el servicio eléctrico en los siguientes circuitos:\n🔹Municipio Camajuaní:\n👉Ctos 72 y 129",
-    "timestamp": 1777054236,
-    "timestamp_local": 1777054236
-  },
-  {
-    "id": 45235,
-    "fecha": "24 de Apr del 2026 a las 02:06 PM",
-    "hora_utc": "2026-04-24 18:06",
-    "mensaje": "Actualización del servicio eléctrico en la provincia.\n👉De los circuitos apagables que presenta la provincia, se mantienen afectados 97 circuitos.\n👉En el momento de hacer esta nota la provincia tiene 71 MW de afectación por déficit de capacidad de generación, demanda máxima posible a apagar en estos momentos.\n👉Cuenta con 105 afectaciones por averías secundarias y de servicio.",
-    "timestamp": 1777053975,
-    "timestamp_local": 1777053975
-  },
-  {
-    "id": 45234,
-    "fecha": "24 de Apr del 2026 a las 02:03 PM",
-    "hora_utc": "2026-04-24 18:03",
-    "mensaje": "⚠️Afectado el servicio eléctrico en los siguientes circuitos:\n🔹Municipio Santo Domingo:\n👉Cto 134\n👉Ctos 87 y 96 Bermejal\n👉Cto 187 Batey Carlos Baliño\n👉Cto 82 Ulacia\n👉Cto 84 Rodrigo",
-    "timestamp": 1777053819,
-    "timestamp_local": 1777053819
   }
 ]
