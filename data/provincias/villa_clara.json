@@ -1,5 +1,61 @@
 [
   {
+    "id": 45253,
+    "fecha": "24 de Apr del 2026 a las 04:19 PM",
+    "hora_utc": "2026-04-24 20:19",
+    "mensaje": "⚠️Afectado el servicio eléctrico en el siguiente circuito:\n🔹Municipio Santa Clara\n👉Cto 39 (Sandino)",
+    "timestamp": 1777061946,
+    "timestamp_local": 1777061946
+  },
+  {
+    "id": 45252,
+    "fecha": "24 de Apr del 2026 a las 04:14 PM",
+    "hora_utc": "2026-04-24 20:14",
+    "mensaje": "⚠️Afectado el servicio eléctrico en el siguiente circuito:\n🔹Municipio Santa Clara\n👉Cto 6 (Vigía)",
+    "timestamp": 1777061644,
+    "timestamp_local": 1777061644
+  },
+  {
+    "id": 45251,
+    "fecha": "24 de Apr del 2026 a las 04:05 PM",
+    "hora_utc": "2026-04-24 20:05",
+    "mensaje": "Actualización del servicio eléctrico en la provincia.\n👉De los circuitos apagables que presenta la provincia, se mantienen afectados 122 circuitos.\n👉En el momento de hacer esta nota la provincia tiene 93 MW de afectación por déficit de capacidad de generación, demanda máxima posible a apagar en estos momentos.\n👉Cuenta con 106 afectaciones por averías secundarias y de servicio.",
+    "timestamp": 1777061101,
+    "timestamp_local": 1777061101
+  },
+  {
+    "id": 45250,
+    "fecha": "24 de Apr del 2026 a las 04:03 PM",
+    "hora_utc": "2026-04-24 20:03",
+    "mensaje": "⚠️Afectado el servicio eléctrico en los siguientes circuitos:\n🔹Municipio Santa Clara\n👉Ctos 15 y 27 (Maleza)",
+    "timestamp": 1777061033,
+    "timestamp_local": 1777061033
+  },
+  {
+    "id": 45249,
+    "fecha": "24 de Apr del 2026 a las 03:48 PM",
+    "hora_utc": "2026-04-24 19:48",
+    "mensaje": "⚠️Afectado el servicio eléctrico en los siguientes circuitos:\n🔹Municipio Santa Clara:\n👉Ctos 1, 2, 4 (Consejo- Centro)",
+    "timestamp": 1777060132,
+    "timestamp_local": 1777060132
+  },
+  {
+    "id": 45248,
+    "fecha": "24 de Apr del 2026 a las 03:40 PM",
+    "hora_utc": "2026-04-24 19:40",
+    "mensaje": "⚠️Afectado el servicio eléctrico en los siguientes circuitos:\n🔹Municipio Quemado:\n👉Ctos 164, 52 y 53 Quemado.\n👉Cto 196 Batey Panchito Gómez Toro.",
+    "timestamp": 1777059645,
+    "timestamp_local": 1777059645
+  },
+  {
+    "id": 45247,
+    "fecha": "24 de Apr del 2026 a las 03:37 PM",
+    "hora_utc": "2026-04-24 19:37",
+    "mensaje": "⚠️Afectado el servicio eléctrico en los siguientes circuitos:\n🔹Municipio Cifuentes:\n👉Ctos 114 y 117\n👉Ctos 116 y 155 Mata\n👉Cto 186 Batey Unidad Proletaria\n👉Cto 184 Sitio Grande\n🔹Municipio Remedios:\n👉Ctos 67 y 152, 68 y 118 \n👉Ctos 69 y 70 Zuluetas\n👉Cto 143 Batey Heriberto Duquezne \n👉Cto 71 Buena Vista\n🔹Municipio Placetas \n👉Ctos 100 y 151 Placetas\n👉Cto 104 Hermanos Amejeiras\n👉Cto 103 Batey Carbó Servía",
+    "timestamp": 1777059459,
+    "timestamp_local": 1777059459
+  },
+  {
     "id": 45246,
     "fecha": "24 de Apr del 2026 a las 03:25 PM",
     "hora_utc": "2026-04-24 19:25",
@@ -94,61 +150,5 @@
     "mensaje": "⚠️Afectado el servicio eléctrico en los siguientes circuitos:\n🔹Municipio Santo Domingo:\n👉Cto 134\n👉Ctos 87 y 96 Bermejal\n👉Cto 187 Batey Carlos Baliño\n👉Cto 82 Ulacia\n👉Cto 84 Rodrigo",
     "timestamp": 1777053819,
     "timestamp_local": 1777053819
-  },
-  {
-    "id": 45233,
-    "fecha": "24 de Apr del 2026 a las 01:54 PM",
-    "hora_utc": "2026-04-24 17:54",
-    "mensaje": "🛠Afectado por faltar una fase el circuito 111 (Mataguá), del municipio Manicaragua. Se estudian las causas.",
-    "timestamp": 1777053251,
-    "timestamp_local": 1777053251
-  },
-  {
-    "id": 45232,
-    "fecha": "24 de Apr del 2026 a las 01:53 PM",
-    "hora_utc": "2026-04-24 17:53",
-    "mensaje": "⚠️Afectado el servicio eléctrico en los siguientes circuitos:\n🔹Municipio Camajuaní:\n👉Ctos 77, 59 y 185 Vueltas",
-    "timestamp": 1777053182,
-    "timestamp_local": 1777053182
-  },
-  {
-    "id": 45231,
-    "fecha": "24 de Apr del 2026 a las 01:47 PM",
-    "hora_utc": "2026-04-24 17:47",
-    "mensaje": "Con servicio la línea 6375 :\n🔹Municipio Santa Clara\n👉Cto 7 (Universidad)  \n👉Cto 146 (Elevado Aeropuerto) \n👉Cto 22 (Construcciones Textil)\n👉Cto 131 (Las Antillas)\n👉Cto 153 (EIDE)\n👉Cto 25 (Los Güiros)\n👉Cto 24 (Planta Asfalto)\n👉Cto 35 (Biotecnología) \n👉Ctos 14, 15 y 27 (Maleza)",
-    "timestamp": 1777052867,
-    "timestamp_local": 1777052867
-  },
-  {
-    "id": 45230,
-    "fecha": "24 de Apr del 2026 a las 01:45 PM",
-    "hora_utc": "2026-04-24 17:45",
-    "mensaje": "🛠Afectada por manipulación la línea 6375 para reponer transformador en el circuito 14 (Maleza):\nAfecta los siguientes circuitos:\n🔹Municipio Santa Clara\n👉Cto 7 (Universidad)  \n👉Cto 146 (Elevado Aeropuerto) \n👉Cto 22 (Construcciones Textil)\n👉Cto 131 (Las Antillas)\n👉Cto 153 (EIDE)\n👉Cto 25 (Los Güiros)\n👉Cto 24 (Planta Asfalto)\n👉Cto 35 (Biotecnología) \n👉Ctos 15 y 27 (Maleza)",
-    "timestamp": 1777052737,
-    "timestamp_local": 1777052737
-  },
-  {
-    "id": 45229,
-    "fecha": "24 de Apr del 2026 a las 01:31 PM",
-    "hora_utc": "2026-04-24 17:31",
-    "mensaje": "⚠️Afectado el servicio eléctrico en los siguientes circuitos:\n🔹Municipio Caibarién:\n👉 Ctos 61, 62, 63 y 64\n👉Ctos 182 y 183 Van Troy",
-    "timestamp": 1777051890,
-    "timestamp_local": 1777051890
-  },
-  {
-    "id": 45228,
-    "fecha": "24 de Apr del 2026 a las 12:50 PM",
-    "hora_utc": "2026-04-24 16:50",
-    "mensaje": "💡Con servicio los siguientes circuitos:\n🔹Municipio Santa Clara:\n👉Cto 170 (José Martí)\n👉Cto 171 (Los Caneyes)",
-    "timestamp": 1777049425,
-    "timestamp_local": 1777049425
-  },
-  {
-    "id": 45227,
-    "fecha": "24 de Apr del 2026 a las 12:45 PM",
-    "hora_utc": "2026-04-24 16:45",
-    "mensaje": "💡Con servicio los siguientes circuitos:\n🔹Municipio Manicaragua:\n👉Ctos 109 y 150\n👉Ctos 108 y 110 La Piedra\n👉Cto 111 Mataguá",
-    "timestamp": 1777049114,
-    "timestamp_local": 1777049114
   }
 ]
