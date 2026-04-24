@@ -1,5 +1,69 @@
 [
   {
+    "id": 45246,
+    "fecha": "24 de Apr del 2026 a las 03:25 PM",
+    "hora_utc": "2026-04-24 19:25",
+    "mensaje": "⚠️Afectado el servicio eléctrico en los siguientes circuitos:\n🔹Municipio Encrucijada:\n👉Cto 122 Encrucijada  \n👉Cto 123 Vizcaya \n👉Cto 142 Comunidad La Sierra \n👉Cto 126 Batey Emilio Córdova\n👉Cto 125 Cavarrocas\n👉Cto 124 El Santo\n🔹Municipio Camajuaní:                                                              \n👉Cto 78 Jutiero\n👉Cto 75 La Quinta\n👉Cto 157 Luis Arcos Bergnes\n👉Ctos 76 y 90 Vega Alta",
+    "timestamp": 1777058704,
+    "timestamp_local": 1777058704
+  },
+  {
+    "id": 45245,
+    "fecha": "24 de Apr del 2026 a las 03:23 PM",
+    "hora_utc": "2026-04-24 19:23",
+    "mensaje": "Con servicio la línea 1205:\n🔹Municipio Sagua\n👉Ctos 43, 51 Sagua\n👉Cto 44 Isabela \n👉Ctos 50 y 147 Villa Alegre (Déficit)",
+    "timestamp": 1777058620,
+    "timestamp_local": 1777058620
+  },
+  {
+    "id": 45244,
+    "fecha": "24 de Apr del 2026 a las 03:17 PM",
+    "hora_utc": "2026-04-24 19:17",
+    "mensaje": "🛠Afectada por manipulación la línea 1205:\nAfecta los siguientes circuitos:\n🔹Municipio Sagua\n👉Ctos 43, 51 Sagua (Déficit)\n👉Cto 44 Isabela (Déficit)\n👉Ctos 50 y 147 Villa Alegre",
+    "timestamp": 1777058250,
+    "timestamp_local": 1777058250
+  },
+  {
+    "id": 45243,
+    "fecha": "24 de Apr del 2026 a las 03:01 PM",
+    "hora_utc": "2026-04-24 19:01",
+    "mensaje": "⚠️Afectado el servicio eléctrico en los siguientes circuitos:\n🔹Municipio Encrucijada\n👉Cto 120 Calabazar\n👉Ctos 121 y 127 Perucho\n🔹Municipio Placetas:\n👉Cto 192 Benito Juárez\n👉Cto 102 Peroti",
+    "timestamp": 1777057288,
+    "timestamp_local": 1777057288
+  },
+  {
+    "id": 45242,
+    "fecha": "24 de Apr del 2026 a las 02:57 PM",
+    "hora_utc": "2026-04-24 18:57",
+    "mensaje": "⚠️Afectado el servicio eléctrico en los siguientes circuitos:\n🔹Municipio Manicaragua:\n👉Ctos 109 y 150\n👉Ctos 108 y 110 La Piedra\n👉Cto 111 Mataguá",
+    "timestamp": 1777057037,
+    "timestamp_local": 1777057037
+  },
+  {
+    "id": 45241,
+    "fecha": "24 de Apr del 2026 a las 02:53 PM",
+    "hora_utc": "2026-04-24 18:53",
+    "mensaje": "🛠 Afectado por vía libre el circuito 170 (José Martí), del municipio Santa Clara, para reparar primario partido en la salida de la subestación.",
+    "timestamp": 1777056796,
+    "timestamp_local": 1777056796
+  },
+  {
+    "id": 45239,
+    "fecha": "24 de Apr del 2026 a las 02:49 PM",
+    "hora_utc": "2026-04-24 18:49",
+    "mensaje": "🛠Afectado por faltar una fase el circuito 170 (José Martí), del municipio Santa Clara.",
+    "timestamp": 1777056540,
+    "timestamp_local": 1777056540
+  },
+  {
+    "id": 45238,
+    "fecha": "24 de Apr del 2026 a las 02:47 PM",
+    "hora_utc": "2026-04-24 18:47",
+    "mensaje": "⚠️Afectado el servicio eléctrico en el siguiente circuito:\n🔹Municipio Camajuaní:\n👉Cto 74 José María Pérez",
+    "timestamp": 1777056457,
+    "timestamp_local": 1777056457
+  },
+  {
     "id": 45237,
     "fecha": "24 de Apr del 2026 a las 02:18 PM",
     "hora_utc": "2026-04-24 18:18",
@@ -86,61 +150,5 @@
     "mensaje": "💡Con servicio los siguientes circuitos:\n🔹Municipio Manicaragua:\n👉Ctos 109 y 150\n👉Ctos 108 y 110 La Piedra\n👉Cto 111 Mataguá",
     "timestamp": 1777049114,
     "timestamp_local": 1777049114
-  },
-  {
-    "id": 45226,
-    "fecha": "24 de Apr del 2026 a las 12:25 PM",
-    "hora_utc": "2026-04-24 16:25",
-    "mensaje": "Con servicio eléctrico el circuito 168 (Condado- XX Aniversario), del municipio Santa Clara.",
-    "timestamp": 1777047911,
-    "timestamp_local": 1777047911
-  },
-  {
-    "id": 45225,
-    "fecha": "24 de Apr del 2026 a las 12:07 PM",
-    "hora_utc": "2026-04-24 16:07",
-    "mensaje": "🕛Actualización del servicio eléctrico en las últimas 6 horas.\n✍️El déficit de capacidad de generación en estos momentos es de 82 MW\n✍️En el momento de esta nota, se mantienen afectados 95 circuitos.\n✍️ Cuenta con 124 afectaciones por averías secundarias y de servicio:\n🔸Caibarién (1)\n🔸Camajuaní (3)\n🔸 Cifuentes (2)\n🔸 Corralillo (3)\n🔸Encrucijada (4)\n🔸 Manicaragua (18)\n🔸 Placetas (4)\n🔸Quemado (2)\n🔸 Ranchuelo (18)\n🔸 Remedios (1)\n🔸 Sagua (14) \n🔸 Santa Clara (27)\n🔸 Santo Domingo (8)\n🛠️Se encuentran 13 averías en vías de solución.\n🛠️Pendientes a solucionar por el área técnica 7.\n✅La provincia no presenta averías primarias.",
-    "timestamp": 1777046836,
-    "timestamp_local": 1777046836
-  },
-  {
-    "id": 45224,
-    "fecha": "24 de Apr del 2026 a las 11:42 AM",
-    "hora_utc": "2026-04-24 15:42",
-    "mensaje": "⚠️Afectado el servicio eléctrico en los siguientes circuitos:\n🔹Municipio Santa Clara: \n👉Cto 170 (José Martí)\n👉Cto 171 (Los Caneyes)",
-    "timestamp": 1777045332,
-    "timestamp_local": 1777045332
-  },
-  {
-    "id": 45223,
-    "fecha": "24 de Apr del 2026 a las 11:39 AM",
-    "hora_utc": "2026-04-24 15:39",
-    "mensaje": "⚠️Afectado el servicio eléctrico en los siguientes circuitos:\n🔹Municipio Manicaragua:\n👉Ctos 109 y 150\n👉Ctos 108 y 110 La Piedra\n👉Cto 111 Mataguá (Avería)\n🔹Municipio Cifuentes:\n👉Ctos 114 y 117\n👉Ctos 116 y 155 Mata\n👉Cto 186 Batey Unidad Proletaria\n👉Cto 184 Sitio Grande\n🔹Municipio Remedios:\n👉Ctos 67 y 152, 68 y 118 \n👉Ctos 69 y 70 Zuluetas\n👉Cto 143 Batey Heriberto Duquezne \n👉Cto 71 Buena Vista",
-    "timestamp": 1777045193,
-    "timestamp_local": 1777045193
-  },
-  {
-    "id": 45222,
-    "fecha": "24 de Apr del 2026 a las 11:22 AM",
-    "hora_utc": "2026-04-24 15:22",
-    "mensaje": "🛠Afectado por vía libre el circuito 168 (Condado- XX Aniversario), del municipio Santa Clara, para realizar montaje de transformador.",
-    "timestamp": 1777044153,
-    "timestamp_local": 1777044153
-  },
-  {
-    "id": 45221,
-    "fecha": "24 de Apr del 2026 a las 10:38 AM",
-    "hora_utc": "2026-04-24 14:38",
-    "mensaje": "⚠️Afectado el servicio eléctrico en los siguientes circuitos:\n🔹Municipio Encrucijada\n👉Cto 120 Calabazar\n👉Ctos 121 y 127 Perucho\n🔹Municipio Encrucijada:\n👉Cto 122 Encrucijada  \n👉Cto 123 Vizcaya \n👉Cto 142 Comunidad La Sierra \n👉Cto 126 Batey Emilio Córdova\n👉Cto 125 Cavarrocas\n👉Cto 124 El Santo\n🔹Municipio Camajuaní:                                                              \n👉Cto 78 Jutiero\n👉Cto 75 La Quinta\n👉Cto 157 Luis Arcos Bergnes\n👉Ctos 76 y 90 Vega Alta",
-    "timestamp": 1777041510,
-    "timestamp_local": 1777041510
-  },
-  {
-    "id": 45220,
-    "fecha": "24 de Apr del 2026 a las 10:29 AM",
-    "hora_utc": "2026-04-24 14:29",
-    "mensaje": "#VillaClara || Especialistas de Copextel S. A. Villa Clara  instalan  sistema fotovoltaico de 2 kW en una vivienda aislada de Quemado de Güines, con el respaldo de la comunidad local \n\nQuemado de Güines — Especialistas de  Copextel en la provincia de Villa Clara culminaron el montaje de un sistema fotovoltaico de 2 kilovatios en una vivienda aislada del municipio #QuemadoDeGüines, como parte de los esfuerzos por impulsar el cambio de matriz energética en Cuba.\nLa instalación, que contó con el decidido apoyo de vecinos de la comunidad durante la fase de ensamblaje de la estructura.El sistema solar instalado forma parte de una donación efectuada por la República Popular China al Estado cubano, destinada a fortalecer la capacidad de generación de energías limpias en zonas de difícil acceso o sin conexión estable a la red nacional electroenergética. \nGracias a esta colaboración, familias residentes en áreas rurales comienzan a beneficiarse de una fuente de electricidad sostenible, reduciendo su dependencia de generadores de combustible fósil..\nCon este tipo de proyectos, la provincia avanza en el cumplimiento de las estrategias nacionales para incrementar la participación de las fuentes renovables de energía en la matriz eléctrica del país, al tiempo que mejora la calidad de vida de poblaciones en zonas vulnerables.\n\n#UNE #UniónEléctrica #EnergíaRenovable #VillaClaraConTodos \n\nUnión Eléctrica  UNE \nMinisterio de Energía y Minas de Cuba",
-    "timestamp": 1777040994,
-    "timestamp_local": 1777040994
   }
 ]
