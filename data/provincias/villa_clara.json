@@ -1,5 +1,45 @@
 [
   {
+    "id": 45262,
+    "fecha": "24 de Apr del 2026 a las 06:25 PM",
+    "hora_utc": "2026-04-24 22:25",
+    "mensaje": "⚠️Afectado el servicio eléctrico en los siguientes circuitos:\n🔹Municipio Encrucijada\n👉Cto 120 Calabazar\n👉Ctos 121 y 127 Perucho",
+    "timestamp": 1777069521,
+    "timestamp_local": 1777069521
+  },
+  {
+    "id": 45261,
+    "fecha": "24 de Apr del 2026 a las 06:17 PM",
+    "hora_utc": "2026-04-24 22:17",
+    "mensaje": "Con servicio eléctrico el circuito 189 del municipio Ranchuelo .",
+    "timestamp": 1777069027,
+    "timestamp_local": 1777069027
+  },
+  {
+    "id": 45260,
+    "fecha": "24 de Apr del 2026 a las 06:15 PM",
+    "hora_utc": "2026-04-24 22:15",
+    "mensaje": "⚠️Afectado el servicio eléctrico en el siguiente circuito:\n🔹Municipio Santa Clara: \n👉Cto 167 (Virginia)",
+    "timestamp": 1777068959,
+    "timestamp_local": 1777068959
+  },
+  {
+    "id": 45259,
+    "fecha": "24 de Apr del 2026 a las 06:01 PM",
+    "hora_utc": "2026-04-24 22:01",
+    "mensaje": "🛠Afectado por vía libre para reparar rabiza primaria, el circuito 189 del municipio Ranchuelo .",
+    "timestamp": 1777068103,
+    "timestamp_local": 1777068103
+  },
+  {
+    "id": 45258,
+    "fecha": "24 de Apr del 2026 a las 05:56 PM",
+    "hora_utc": "2026-04-24 21:56",
+    "mensaje": "🕕Actualización del servicio eléctrico en las últimas 6 horas.\n✍️El déficit de capacidad de generación en estos momentos es de 101 MW\n✍️En el momento de esta nota, se mantienen afectados 122 circuitos.\n✍️ Cuenta con 109 afectaciones por averías secundarias y de servicio:\n🔸Caibarién (1)\n🔸 Corralillo (1)\n🔸Encrucijada (6)\n🔸 Manicaragua (19)\n🔸 Placetas (7)\n🔸Quemado (2)\n🔸 Ranchuelo (18)\n🔸 Remedios (1)\n🔸 Sagua (15) \n🔸 Santa Clara (17)\n🔸 Santo Domingo (5)\n🛠️Se encuentran 11 averías en vías de solución.\n🛠️Pendientes a solucionar por el área técnica 7.\n✅La provincia no presenta averías primarias.",
+    "timestamp": 1777067815,
+    "timestamp_local": 1777067815
+  },
+  {
     "id": 45257,
     "fecha": "24 de Apr del 2026 a las 05:24 PM",
     "hora_utc": "2026-04-24 21:24",
@@ -118,37 +158,5 @@
     "mensaje": "⚠️Afectado el servicio eléctrico en los siguientes circuitos:\n🔹Municipio Encrucijada\n👉Cto 120 Calabazar\n👉Ctos 121 y 127 Perucho\n🔹Municipio Placetas:\n👉Cto 192 Benito Juárez\n👉Cto 102 Peroti",
     "timestamp": 1777057288,
     "timestamp_local": 1777057288
-  },
-  {
-    "id": 45242,
-    "fecha": "24 de Apr del 2026 a las 02:57 PM",
-    "hora_utc": "2026-04-24 18:57",
-    "mensaje": "⚠️Afectado el servicio eléctrico en los siguientes circuitos:\n🔹Municipio Manicaragua:\n👉Ctos 109 y 150\n👉Ctos 108 y 110 La Piedra\n👉Cto 111 Mataguá",
-    "timestamp": 1777057037,
-    "timestamp_local": 1777057037
-  },
-  {
-    "id": 45241,
-    "fecha": "24 de Apr del 2026 a las 02:53 PM",
-    "hora_utc": "2026-04-24 18:53",
-    "mensaje": "🛠 Afectado por vía libre el circuito 170 (José Martí), del municipio Santa Clara, para reparar primario partido en la salida de la subestación.",
-    "timestamp": 1777056796,
-    "timestamp_local": 1777056796
-  },
-  {
-    "id": 45239,
-    "fecha": "24 de Apr del 2026 a las 02:49 PM",
-    "hora_utc": "2026-04-24 18:49",
-    "mensaje": "🛠Afectado por faltar una fase el circuito 170 (José Martí), del municipio Santa Clara.",
-    "timestamp": 1777056540,
-    "timestamp_local": 1777056540
-  },
-  {
-    "id": 45238,
-    "fecha": "24 de Apr del 2026 a las 02:47 PM",
-    "hora_utc": "2026-04-24 18:47",
-    "mensaje": "⚠️Afectado el servicio eléctrico en el siguiente circuito:\n🔹Municipio Camajuaní:\n👉Cto 74 José María Pérez",
-    "timestamp": 1777056457,
-    "timestamp_local": 1777056457
   }
 ]
