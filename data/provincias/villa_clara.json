@@ -1,5 +1,21 @@
 [
   {
+    "id": 45328,
+    "fecha": "25 de Apr del 2026 a las 02:04 PM",
+    "hora_utc": "2026-04-25 18:04",
+    "mensaje": "Actualización del servicio eléctrico en la provincia.\n👉De los circuitos apagables que presenta la provincia, se mantienen afectados 82 circuitos.\n👉En el momento de hacer esta nota la provincia tiene 67 MW de afectación por déficit de capacidad de generación, demanda máxima posible a apagar en estos momentos.\n👉Cuenta con 75 afectaciones por averías secundarias y de servicio.",
+    "timestamp": 1777140266,
+    "timestamp_local": 1777140266
+  },
+  {
+    "id": 45327,
+    "fecha": "25 de Apr del 2026 a las 01:42 PM",
+    "hora_utc": "2026-04-25 17:42",
+    "mensaje": "💡Con servicio los siguientes circuitos:\n🔹Municipio Camajuaní:\n👉Ctos 77, 59 y 185 Vueltas\n🔹Municipio Santa Clara: \n👉Cto 166 (Condado)",
+    "timestamp": 1777138923,
+    "timestamp_local": 1777138923
+  },
+  {
     "id": 45325,
     "fecha": "25 de Apr del 2026 a las 01:03 PM",
     "hora_utc": "2026-04-25 17:03",
@@ -134,29 +150,5 @@
     "mensaje": "💡Con servicio el siguiente circuito:\n🔹Municipio Cifuentes:\n👉Ctos 114",
     "timestamp": 1777126932,
     "timestamp_local": 1777126932
-  },
-  {
-    "id": 45308,
-    "fecha": "25 de Apr del 2026 a las 10:05 AM",
-    "hora_utc": "2026-04-25 14:05",
-    "mensaje": "Actualización del servicio eléctrico en la provincia.\n👉De los circuitos apagables que presenta la provincia, se mantienen afectados 96 circuitos.\n👉En el momento de hacer esta nota la provincia tiene 71 MW de afectación por déficit de capacidad de generación, demanda máxima posible a apagar en estos momentos.\n👉Cuenta con 81 afectaciones por averías secundarias y de servicio.",
-    "timestamp": 1777125954,
-    "timestamp_local": 1777125954
-  },
-  {
-    "id": 45307,
-    "fecha": "25 de Apr del 2026 a las 09:54 AM",
-    "hora_utc": "2026-04-25 13:54",
-    "mensaje": "⚠En avería de manera parcial el Cto 114, perteneciente al municipio Cifuentes, por primario partido.",
-    "timestamp": 1777125296,
-    "timestamp_local": 1777125296
-  },
-  {
-    "id": 45306,
-    "fecha": "25 de Apr del 2026 a las 09:41 AM",
-    "hora_utc": "2026-04-25 13:41",
-    "mensaje": "⚠️Afectado el servicio eléctrico en el siguiente circuito:\n🔹Municipio Santa Clara: \n👉Cto 166 (Condado)",
-    "timestamp": 1777124494,
-    "timestamp_local": 1777124494
   }
 ]
