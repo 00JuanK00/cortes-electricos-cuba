@@ -1,9 +1,49 @@
 [
   {
+    "id": 45325,
+    "fecha": "25 de Apr del 2026 a las 01:03 PM",
+    "hora_utc": "2026-04-25 17:03",
+    "mensaje": "Afectados 81 MW en la provincia, demanda máxima a apagar en estos momentos.",
+    "timestamp": 1777136601,
+    "timestamp_local": 1777136601
+  },
+  {
+    "id": 45324,
+    "fecha": "25 de Apr del 2026 a las 12:45 PM",
+    "hora_utc": "2026-04-25 16:45",
+    "mensaje": "⚠️Afectado el servicio eléctrico en los siguientes circuitos:\n🔹Municipio Cifuentes:\n👉Ctos 114 y 117\n👉Ctos 116 y 155 Mata\n👉Cto 186 Batey Unidad Proletaria\n👉Cto 184 Sitio Grande",
+    "timestamp": 1777135542,
+    "timestamp_local": 1777135542
+  },
+  {
+    "id": 45323,
+    "fecha": "25 de Apr del 2026 a las 12:45 PM",
+    "hora_utc": "2026-04-25 16:45",
+    "mensaje": "💡Con servicio los siguientes circuitos:\n🔹Municipio Santa Clara\n👉Cto 162 (Santa Clara Industrial)\n🔹Municipio Encrucijada\n👉Cto 120 Calabaza\n👉Ctos 121 y 127 Perucho",
+    "timestamp": 1777135510,
+    "timestamp_local": 1777135510
+  },
+  {
+    "id": 45322,
+    "fecha": "25 de Apr del 2026 a las 12:23 PM",
+    "hora_utc": "2026-04-25 16:23",
+    "mensaje": "💡Con servicio los siguientes circuitos:\n🔹Municipio Placetas:\n👉Cto 192 Benito Juárez\n👉Cto 102 Peroti",
+    "timestamp": 1777134232,
+    "timestamp_local": 1777134232
+  },
+  {
+    "id": 45321,
+    "fecha": "25 de Apr del 2026 a las 12:22 PM",
+    "hora_utc": "2026-04-25 16:22",
+    "mensaje": "⚠️Afectado el servicio eléctrico en los siguientes circuitos:\n🔹Municipio Caibarién:\n👉 Ctos 61, 62\n👉Ctos 63 y 64\n👉Ctos 182 y 183 Van Troy\n🔹Municipio Encrucijada:\n👉Cto 122 Encrucijada  \n👉Cto 123 Vizcaya \n👉Cto 142 Comunidad La Sierra \n👉Cto 126 Batey Emilio Córdova\n👉Cto 125 Cavarrocas\n👉Cto 124 El Santo",
+    "timestamp": 1777134141,
+    "timestamp_local": 1777134141
+  },
+  {
     "id": 45320,
     "fecha": "25 de Apr del 2026 a las 12:13 PM",
     "hora_utc": "2026-04-25 16:13",
-    "mensaje": "🕛Actualización del servicio eléctrico en las últimas 6 horas.\n✍️El déficit de capacidad de generación en estos momentos es de 86 MW\n✍️En el momento de esta nota, se mantienen afectados 100 circuitos.\n✍️ Cuenta con 70 afectaciones por averías secundarias y de servicio:\n🔸Caibarién (2)\n🔸Camajuaní (1)\n🔸 Cifuentes (1)\n🔸 Corralillo (2)\n🔸 Encrucijada (3)\n🔸 Manicaragua (9)\n🔸 Placetas (2)\n🔸 Quemado (3)\n🔸 Ranchuelo (8)\n🔸 Sagua (20) \n🔸 Santa Clara (14)\n🔸 Santo Domingo (5)\n🛠️Pendientes a solucionar por el área técnica 8.\n⚡En avería la línea del 1365:\n🔹Municipio Remedios:\n👉Ctos 69 y 70 Zuluetas \n👉Cto 143 Batey Heriberto Duquezne \n👉Cto 71 Buena Vista\n⚡En avería la línea del 4608, se estudian las causas:\n🔹Municipio Corralillo:\n👉Ctos 58 y 159 \n👉Cto 57 Motembo \n👉Cto 56 Yabre\n👉Cto 60 La Sierra\n👉Cto 55 Rancho Veloz\n⚡En avería el Cto 46 (Sitiecito), perteneciente al municipio Santa Clara, por primario partido.",
+    "mensaje": "🕛Actualización del servicio eléctrico en las últimas 6 horas.\n✍️El déficit de capacidad de generación en estos momentos es de 86 MW\n✍️En el momento de esta nota, se mantienen afectados 100 circuitos.\n✍️ Cuenta con 70 afectaciones por averías secundarias y de servicio:\n🔸Caibarién (2)\n🔸Camajuaní (1)\n🔸 Cifuentes (1)\n🔸 Corralillo (2)\n🔸 Encrucijada (3)\n🔸 Manicaragua (9)\n🔸 Placetas (2)\n🔸 Quemado (3)\n🔸 Ranchuelo (8)\n🔸 Sagua (20) \n🔸 Santa Clara (14)\n🔸 Santo Domingo (5)\n🛠️Pendientes a solucionar por el área técnica 8.\n⚡En avería la línea del 1365:\n🔹Municipio Remedios:\n👉Ctos 69 y 70 Zuluetas \n👉Cto 143 Batey Heriberto Duquezne \n👉Cto 71 Buena Vista\n⚡En avería la línea del 4608, se estudian las causas:\n🔹Municipio Corralillo:\n👉Ctos 58 y 159 \n👉Cto 57 Motembo \n👉Cto 56 Yabre\n👉Cto 60 La Sierra\n👉Cto 55 Rancho Veloz\n⚡En avería el Cto 46 (Sitiecito), perteneciente al municipio de Sagua, por primario partido.",
     "timestamp": 1777133633,
     "timestamp_local": 1777133633
   },
@@ -118,45 +158,5 @@
     "mensaje": "⚠️Afectado el servicio eléctrico en el siguiente circuito:\n🔹Municipio Santa Clara: \n👉Cto 166 (Condado)",
     "timestamp": 1777124494,
     "timestamp_local": 1777124494
-  },
-  {
-    "id": 45305,
-    "fecha": "25 de Apr del 2026 a las 09:31 AM",
-    "hora_utc": "2026-04-25 13:31",
-    "mensaje": "💡Con servicio los siguientes circuitos:\n🔹Municipio Placetas:\n👉Ctos 101 y 145 Cumbre\n🔹Municipio Cifuentes:\n👉Ctos 114 y 117\n👉Ctos 116 y 155 Mata\n👉Cto 186 Batey Unidad Proletaria\n👉Cto 184 Sitio Grande",
-    "timestamp": 1777123912,
-    "timestamp_local": 1777123912
-  },
-  {
-    "id": 45304,
-    "fecha": "25 de Apr del 2026 a las 09:10 AM",
-    "hora_utc": "2026-04-25 13:10",
-    "mensaje": "Afectados 63 MW en la provincia, demanda máxima a apagar en estos momentos.",
-    "timestamp": 1777122647,
-    "timestamp_local": 1777122647
-  },
-  {
-    "id": 45303,
-    "fecha": "25 de Apr del 2026 a las 08:56 AM",
-    "hora_utc": "2026-04-25 12:56",
-    "mensaje": "💡Con servicio los siguientes circuitos:\n🔹Municipio Caibarién:\n👉 Ctos 61, 62\n👉 Cto 66 (Las Torres)",
-    "timestamp": 1777121766,
-    "timestamp_local": 1777121766
-  },
-  {
-    "id": 45302,
-    "fecha": "25 de Apr del 2026 a las 08:55 AM",
-    "hora_utc": "2026-04-25 12:55",
-    "mensaje": "💡Con servicio los siguientes circuitos:\n🔹Municipio Santo Domingo:\n👉Cto 134\n👉Ctos 87 y 96 Bermejal\n👉Cto 187 Batey Carlos Baliño\n👉Cto 82 Ulacia\n👉Cto 84 Rodrigo",
-    "timestamp": 1777121737,
-    "timestamp_local": 1777121737
-  },
-  {
-    "id": 45301,
-    "fecha": "25 de Apr del 2026 a las 08:53 AM",
-    "hora_utc": "2026-04-25 12:53",
-    "mensaje": "⚠En avería el Cto 46 (Sitiecito), perteneciente al municipio Santa Clara, por primario partido.",
-    "timestamp": 1777121638,
-    "timestamp_local": 1777121638
   }
 ]
