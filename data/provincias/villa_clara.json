@@ -1,5 +1,45 @@
 [
   {
+    "id": 45280,
+    "fecha": "25 de Apr del 2026 a las 02:07 AM",
+    "hora_utc": "2026-04-25 06:07",
+    "mensaje": "Actualización del servicio eléctrico en la provincia.\n👉En el momento de hacer esta nota la provincia no presenta déficit de capacidad de generación.\n👉Cuenta con 70 afectaciones por averías secundarias y de servicio.",
+    "timestamp": 1777097239,
+    "timestamp_local": 1777097239
+  },
+  {
+    "id": 45278,
+    "fecha": "25 de Apr del 2026 a las 01:44 AM",
+    "hora_utc": "2026-04-25 05:44",
+    "mensaje": "Restablecido el servicio en los siguientes circuitos:\n🔹Municipio Remedios:\n👉Ctos 67 y 152, 68 y 118",
+    "timestamp": 1777095889,
+    "timestamp_local": 1777095889
+  },
+  {
+    "id": 45277,
+    "fecha": "25 de Apr del 2026 a las 12:55 AM",
+    "hora_utc": "2026-04-25 04:55",
+    "mensaje": "💡Con servicio los siguientes circuitos:\n🔹Municipio Santo Domingo:\n👉Cto 195 Batey George Washington\n👉Ctos 83 y 165 Manacas\n👉Ctos 85 y 86 Pajarito\n👉Ctos 160 y 161 Cascajal\n👉Cto 79 (Santo Domingo)\n👉Cto 81 (26 de Julio)\n👉Cto 163 (Batey 26 de Julio\n🔹Municipio Ranchuelo:\n👉Ctos 54, 94 y 95 Jicotea\n👉Cto 93 Esperanza (Campo)\n🔹Municipio Santo Domingo:\n👉Cto 134\n👉Ctos 87 y 96 Bermejal\n👉Cto 187 Batey Carlos Baliño\n👉Cto 82 Ulacia\n👉Cto 84 Rodrigo",
+    "timestamp": 1777092945,
+    "timestamp_local": 1777092945
+  },
+  {
+    "id": 45276,
+    "fecha": "25 de Apr del 2026 a las 12:54 AM",
+    "hora_utc": "2026-04-25 04:54",
+    "mensaje": "🛠Afectada la línea 1365:\nAfecta los siguientes circuitos:\n🔹Municipio Remedios:\n👉Ctos 67 y 152, 68 y 118 \n👉Ctos 69 y 70 Zuluetas\n👉Cto 143 Batey Heriberto Duquezne \n👉Cto 71 Buena Vista\n✍Se estudian las causas.",
+    "timestamp": 1777092845,
+    "timestamp_local": 1777092845
+  },
+  {
+    "id": 45275,
+    "fecha": "25 de Apr del 2026 a las 12:27 AM",
+    "hora_utc": "2026-04-25 04:27",
+    "mensaje": "🕛Actualización del servicio eléctrico en las últimas 6 horas.\n✍️El déficit de capacidad de generación en estos momentos es de 32 MW\n✍️En el momento de esta nota, se mantienen afectados 51 circuitos.\n✍️ Cuenta con 82 afectaciones por averías secundarias y de servicio:\n🔸Camajuaní (1)\n🔸 Corralillo (1)\n🔸Encrucijada (5)\n🔸 Manicaragua (9)\n🔸Quemado (2)\n🔸 Ranchuelo (18)\n🔸 Sagua (20) \n🔸 Santa Clara (12)\n🔸 Santo Domingo (2)\n🛠️Se encuentran 4 averías en vías de solución.\n🛠️Pendientes a solucionar por el área técnica 8.\n✅La provincia no presenta averías primarias.",
+    "timestamp": 1777091241,
+    "timestamp_local": 1777091241
+  },
+  {
     "id": 45274,
     "fecha": "24 de Apr del 2026 a las 11:15 PM",
     "hora_utc": "2026-04-25 03:15",
@@ -102,53 +142,5 @@
     "mensaje": "Con servicio eléctrico el circuito 189 del municipio Ranchuelo .",
     "timestamp": 1777069027,
     "timestamp_local": 1777069027
-  },
-  {
-    "id": 45260,
-    "fecha": "24 de Apr del 2026 a las 06:15 PM",
-    "hora_utc": "2026-04-24 22:15",
-    "mensaje": "⚠️Afectado el servicio eléctrico en el siguiente circuito:\n🔹Municipio Santa Clara: \n👉Cto 167 (Virginia)",
-    "timestamp": 1777068959,
-    "timestamp_local": 1777068959
-  },
-  {
-    "id": 45259,
-    "fecha": "24 de Apr del 2026 a las 06:01 PM",
-    "hora_utc": "2026-04-24 22:01",
-    "mensaje": "🛠Afectado por vía libre para reparar rabiza primaria, el circuito 189 del municipio Ranchuelo .",
-    "timestamp": 1777068103,
-    "timestamp_local": 1777068103
-  },
-  {
-    "id": 45258,
-    "fecha": "24 de Apr del 2026 a las 05:56 PM",
-    "hora_utc": "2026-04-24 21:56",
-    "mensaje": "🕕Actualización del servicio eléctrico en las últimas 6 horas.\n✍️El déficit de capacidad de generación en estos momentos es de 101 MW\n✍️En el momento de esta nota, se mantienen afectados 122 circuitos.\n✍️ Cuenta con 109 afectaciones por averías secundarias y de servicio:\n🔸Caibarién (1)\n🔸 Corralillo (1)\n🔸Encrucijada (6)\n🔸 Manicaragua (19)\n🔸 Placetas (7)\n🔸Quemado (2)\n🔸 Ranchuelo (18)\n🔸 Remedios (1)\n🔸 Sagua (15) \n🔸 Santa Clara (17)\n🔸 Santo Domingo (5)\n🛠️Se encuentran 11 averías en vías de solución.\n🛠️Pendientes a solucionar por el área técnica 7.\n✅La provincia no presenta averías primarias.",
-    "timestamp": 1777067815,
-    "timestamp_local": 1777067815
-  },
-  {
-    "id": 45257,
-    "fecha": "24 de Apr del 2026 a las 05:24 PM",
-    "hora_utc": "2026-04-24 21:24",
-    "mensaje": "⚠️Afectado el servicio eléctrico en el siguiente circuito:\n🔹Municipio Santa Clara:\n👉Cto 31 (Santa Clara Industrial)",
-    "timestamp": 1777065882,
-    "timestamp_local": 1777065882
-  },
-  {
-    "id": 45256,
-    "fecha": "24 de Apr del 2026 a las 04:53 PM",
-    "hora_utc": "2026-04-24 20:53",
-    "mensaje": "Con servicio el circuito 170 (José Martí), del municipio Santa Clara.",
-    "timestamp": 1777063980,
-    "timestamp_local": 1777063980
-  },
-  {
-    "id": 45255,
-    "fecha": "24 de Apr del 2026 a las 04:48 PM",
-    "hora_utc": "2026-04-24 20:48",
-    "mensaje": "🛠Afectado por manipulación los siguientes circuitos:\n🔹Municipio Santa Clara:\n👉Cto 5 (Dobarganes)\n👉Cto 17 (Subplanta)",
-    "timestamp": 1777063722,
-    "timestamp_local": 1777063722
   }
 ]
