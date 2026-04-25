@@ -1,5 +1,45 @@
 [
   {
+    "id": 45319,
+    "fecha": "25 de Apr del 2026 a las 11:02 AM",
+    "hora_utc": "2026-04-25 15:02",
+    "mensaje": "Afectados 78 MW en la provincia, demanda máxima a apagar en estos momentos.",
+    "timestamp": 1777129353,
+    "timestamp_local": 1777129353
+  },
+  {
+    "id": 45318,
+    "fecha": "25 de Apr del 2026 a las 10:49 AM",
+    "hora_utc": "2026-04-25 14:49",
+    "mensaje": "⚡En avería la línea del 4608, se estudian las causas:\n🔹Municipio Corralillo:\n👉Ctos 58 y 159 \n👉Cto 57 Motembo \n👉Cto 56 Yabre\n👉Cto 60 La Sierra\n👉Cto 55 Rancho Veloz",
+    "timestamp": 1777128583,
+    "timestamp_local": 1777128583
+  },
+  {
+    "id": 45317,
+    "fecha": "25 de Apr del 2026 a las 10:45 AM",
+    "hora_utc": "2026-04-25 14:45",
+    "mensaje": "⚠️Afectado el servicio eléctrico en los siguientes circuitos:\n🔹Municipio Quemado:\n👉Ctos 164, 52 y 53 Quemado.\n👉Cto 196 Batey Panchito Gómez Toro",
+    "timestamp": 1777128315,
+    "timestamp_local": 1777128315
+  },
+  {
+    "id": 45316,
+    "fecha": "25 de Apr del 2026 a las 10:33 AM",
+    "hora_utc": "2026-04-25 14:33",
+    "mensaje": "💡Con servicio el siguiente circuito:\n🔹Municipio Santa Clara: \n👉Cto 170 (José Martí)",
+    "timestamp": 1777127630,
+    "timestamp_local": 1777127630
+  },
+  {
+    "id": 45315,
+    "fecha": "25 de Apr del 2026 a las 10:33 AM",
+    "hora_utc": "2026-04-25 14:33",
+    "mensaje": "⚠️Afectado el servicio eléctrico en el siguiente circuito:\n🔹Municipio Santa Clara: \n👉Cto 168 (Condado- XX Aniversario)",
+    "timestamp": 1777127599,
+    "timestamp_local": 1777127599
+  },
+  {
     "id": 45314,
     "fecha": "25 de Apr del 2026 a las 10:32 AM",
     "hora_utc": "2026-04-25 14:32",
@@ -118,45 +158,5 @@
     "mensaje": "⚠Afectada por manipulación la línea del 1380:\n🔹Municipio Caibarién:\n👉 Ctos 61, 62\n👉 Cto 66 (Las Torres)",
     "timestamp": 1777121380,
     "timestamp_local": 1777121380
-  },
-  {
-    "id": 45299,
-    "fecha": "25 de Apr del 2026 a las 08:34 AM",
-    "hora_utc": "2026-04-25 12:34",
-    "mensaje": "⚠️Afectado el servicio eléctrico en el siguiente circuito:\n🔹Municipio Santa Clara\n👉Cto 162 (Santa Clara Industrial)\n🔹Municipio Remedios:\n👉Ctos 67 y 152, 68 y 118",
-    "timestamp": 1777120492,
-    "timestamp_local": 1777120492
-  },
-  {
-    "id": 45298,
-    "fecha": "25 de Apr del 2026 a las 08:32 AM",
-    "hora_utc": "2026-04-25 12:32",
-    "mensaje": "💡Con servicio los siguientes circuitos:\n🔹Municipio Santa Clara\n👉Cto 31 (Santa Clara Industrial)\n🔹Municipio Encrucijada:\n👉Cto 122 Encrucijada  \n👉Cto 123 Vizcaya \n👉Cto 142 Comunidad La Sierra \n👉Cto 126 Batey Emilio Córdova\n👉Cto 125 Cavarrocas\n👉Cto 124 El Santo",
-    "timestamp": 1777120358,
-    "timestamp_local": 1777120358
-  },
-  {
-    "id": 45297,
-    "fecha": "25 de Apr del 2026 a las 08:05 AM",
-    "hora_utc": "2026-04-25 12:05",
-    "mensaje": "⚠️Afectado el servicio eléctrico en los siguientes circuitos:\n🔹Municipio Encrucijada:\n👉Cto 122 Encrucijada  \n👉Cto 123 Vizcaya \n👉Cto 142 Comunidad La Sierra \n👉Cto 126 Batey Emilio Córdova\n👉Cto 125 Cavarrocas\n👉Cto 124 El Santo",
-    "timestamp": 1777118753,
-    "timestamp_local": 1777118753
-  },
-  {
-    "id": 45296,
-    "fecha": "25 de Apr del 2026 a las 08:04 AM",
-    "hora_utc": "2026-04-25 12:04",
-    "mensaje": "Actualización del servicio eléctrico en la provincia.\n👉De los circuitos apagables que presenta la provincia, se mantienen afectados 65 circuitos.\n👉En el momento de hacer esta nota la provincia tiene 48 MW de afectación por déficit de capacidad de generación, demanda máxima posible a apagar en estos momentos.\n👉Cuenta con 70 afectaciones por averías secundarias y de servicio.",
-    "timestamp": 1777118668,
-    "timestamp_local": 1777118668
-  },
-  {
-    "id": 45295,
-    "fecha": "25 de Apr del 2026 a las 07:51 AM",
-    "hora_utc": "2026-04-25 11:51",
-    "mensaje": "⚠️Afectado el servicio eléctrico en el siguiente circuito:\n🔹Municipio Santa Clara\n👉Cto 31 (Santa Clara Industrial)",
-    "timestamp": 1777117910,
-    "timestamp_local": 1777117910
   }
 ]
