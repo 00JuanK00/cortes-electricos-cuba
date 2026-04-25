@@ -1,5 +1,37 @@
 [
   {
+    "id": 45337,
+    "fecha": "25 de Apr del 2026 a las 05:16 PM",
+    "hora_utc": "2026-04-25 21:16",
+    "mensaje": "Afectados 123 MW en la provincia, demanda máxima a apagar en estos momentos.",
+    "timestamp": 1777151801,
+    "timestamp_local": 1777151801
+  },
+  {
+    "id": 45336,
+    "fecha": "25 de Apr del 2026 a las 04:31 PM",
+    "hora_utc": "2026-04-25 20:31",
+    "mensaje": "⚠️Afectado el servicio eléctrico en los siguientes circuitos:\n🔹Municipio Santa Clara:\n👉Ctos 15 y 27 (Maleza)",
+    "timestamp": 1777149073,
+    "timestamp_local": 1777149073
+  },
+  {
+    "id": 45335,
+    "fecha": "25 de Apr del 2026 a las 04:21 PM",
+    "hora_utc": "2026-04-25 20:21",
+    "mensaje": "⚠️Afectado el servicio eléctrico en los siguientes circuitos:\n🔹Municipio Camajuaní:\n👉Ctos 77, 59 y 185 Vueltas\n🔹Municipio Santo Domingo:\n👉Cto 195 Batey George Washington\n👉Ctos 83 y 165 Manacas\n👉Ctos 85 y 86 Pajarito\n👉Ctos 160 y 161 Cascajal\n👉Cto 79 (Santo Domingo)\n👉Cto 81 (26 de Julio)\n👉Cto 163 (Batey 26 de Julio",
+    "timestamp": 1777148503,
+    "timestamp_local": 1777148503
+  },
+  {
+    "id": 45334,
+    "fecha": "25 de Apr del 2026 a las 04:20 PM",
+    "hora_utc": "2026-04-25 20:20",
+    "mensaje": "Actualización del servicio eléctrico en la provincia.\n👉De los circuitos apagables que presenta la provincia, se mantienen afectados 125 circuitos.\n👉En el momento de hacer esta nota la provincia tiene 100 MW de afectación por déficit de capacidad de generación, demanda máxima posible a apagar en estos momentos.\n👉Cuenta con 77 afectaciones por averías secundarias y de servicio.",
+    "timestamp": 1777148401,
+    "timestamp_local": 1777148401
+  },
+  {
     "id": 45333,
     "fecha": "25 de Apr del 2026 a las 03:49 PM",
     "hora_utc": "2026-04-25 19:49",
@@ -118,37 +150,5 @@
     "mensaje": "⚡En avería la línea del 4608, se estudian las causas:\n🔹Municipio Corralillo:\n👉Ctos 58 y 159 \n👉Cto 57 Motembo \n👉Cto 56 Yabre\n👉Cto 60 La Sierra\n👉Cto 55 Rancho Veloz",
     "timestamp": 1777128583,
     "timestamp_local": 1777128583
-  },
-  {
-    "id": 45317,
-    "fecha": "25 de Apr del 2026 a las 10:45 AM",
-    "hora_utc": "2026-04-25 14:45",
-    "mensaje": "⚠️Afectado el servicio eléctrico en los siguientes circuitos:\n🔹Municipio Quemado:\n👉Ctos 164, 52 y 53 Quemado.\n👉Cto 196 Batey Panchito Gómez Toro",
-    "timestamp": 1777128315,
-    "timestamp_local": 1777128315
-  },
-  {
-    "id": 45316,
-    "fecha": "25 de Apr del 2026 a las 10:33 AM",
-    "hora_utc": "2026-04-25 14:33",
-    "mensaje": "💡Con servicio el siguiente circuito:\n🔹Municipio Santa Clara: \n👉Cto 170 (José Martí)",
-    "timestamp": 1777127630,
-    "timestamp_local": 1777127630
-  },
-  {
-    "id": 45315,
-    "fecha": "25 de Apr del 2026 a las 10:33 AM",
-    "hora_utc": "2026-04-25 14:33",
-    "mensaje": "⚠️Afectado el servicio eléctrico en el siguiente circuito:\n🔹Municipio Santa Clara: \n👉Cto 168 (Condado- XX Aniversario)",
-    "timestamp": 1777127599,
-    "timestamp_local": 1777127599
-  },
-  {
-    "id": 45314,
-    "fecha": "25 de Apr del 2026 a las 10:32 AM",
-    "hora_utc": "2026-04-25 14:32",
-    "mensaje": "🔴 7:20 || Fuera de línea la Unidad 4 de la CTE Carlos Manuel de Céspedes.",
-    "timestamp": 1777127550,
-    "timestamp_local": 1777127550
   }
 ]
