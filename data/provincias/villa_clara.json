@@ -1,9 +1,33 @@
 [
   {
+    "id": 45397,
+    "fecha": "26 de Apr del 2026 a las 02:17 PM",
+    "hora_utc": "2026-04-26 18:17",
+    "mensaje": "Actualización del servicio eléctrico en la provincia.\n👉De los circuitos apagables que presenta la provincia, se mantienen afectados 110 circuitos.\n👉En el momento de hacer esta nota la provincia tiene 76 MW de afectación por déficit de capacidad de generación, demanda máxima posible a apagar en estos momentos.\n👉Cuenta con 111 afectaciones por averías secundarias y de servicio.",
+    "timestamp": 1777227475,
+    "timestamp_local": 1777227475
+  },
+  {
+    "id": 45396,
+    "fecha": "26 de Apr del 2026 a las 01:41 PM",
+    "hora_utc": "2026-04-26 17:41",
+    "mensaje": "⚠️Afectado el servicio eléctrico en los siguientes circuitos:\n🔹Municipio Santo Domingo:\n👉Cto 134\n👉Ctos 87 y 96 Bermejal\n👉Cto 187 Batey Carlos Baliño\n👉Cto 82 Ulacia\n👉Cto 84 Rodrigo",
+    "timestamp": 1777225317,
+    "timestamp_local": 1777225317
+  },
+  {
+    "id": 45395,
+    "fecha": "26 de Apr del 2026 a las 01:25 PM",
+    "hora_utc": "2026-04-26 17:25",
+    "mensaje": "💡Con servicio los siguientes circuitos:\n🔹Municipio Santa Clara\n👉Cto 132 (Santa Clara Industrial)\n👉Cto 162 (Santa Clara Industrial)\n🔹Municipio Placetas:\n👉Cto 99",
+    "timestamp": 1777224316,
+    "timestamp_local": 1777224316
+  },
+  {
     "id": 45394,
     "fecha": "26 de Apr del 2026 a las 01:05 PM",
     "hora_utc": "2026-04-26 17:05",
-    "mensaje": "⚠️Afectado el servicio eléctrico en los siguientes circuitos:\n🔹Municipio Remedios:\n👉Ctos 67 y 152",
+    "mensaje": "⚠️Afectado el servicio eléctrico en los siguientes circuitos:\n🔹Municipio Remedios:\n👉Ctos 67 y 152\n🔹Municipio Quemado:\n👉Ctos 164, 52 y 53 Quemado.\n👉Cto 196 Batey Panchito Gómez Toro.",
     "timestamp": 1777223105,
     "timestamp_local": 1777223105
   },
@@ -134,29 +158,5 @@
     "mensaje": "⚠️Afectado el servicio eléctrico en los siguientes circuitos:\n🔹Municipio Santa Clara\n👉Cto 7 (Universidad)  \n👉Cto 146 (Elevado Aeropuerto) \n👉Cto 22 (Construcciones Textil)\n👉Cto 131 (Las Antillas)\n👉Cto 153 (EIDE)\n👉Cto 25 (Los Güiros)\n👉Cto 24 (Planta Asfalto)\n👉Cto 35 (Biotecnología) \n👉Ctos 14, 15 y 27 (Maleza)",
     "timestamp": 1777210835,
     "timestamp_local": 1777210835
-  },
-  {
-    "id": 45377,
-    "fecha": "26 de Apr del 2026 a las 09:33 AM",
-    "hora_utc": "2026-04-26 13:33",
-    "mensaje": "💡Con servicio el siguiente circuito:\n🔹Municipio Santa Clara: \n👉Cto 169 (Condado)",
-    "timestamp": 1777210427,
-    "timestamp_local": 1777210427
-  },
-  {
-    "id": 45376,
-    "fecha": "26 de Apr del 2026 a las 09:27 AM",
-    "hora_utc": "2026-04-26 13:27",
-    "mensaje": "⚠️Afectado por manipulación  Cto 169(Condado), perteneciente al Municipio Santa Clara",
-    "timestamp": 1777210044,
-    "timestamp_local": 1777210044
-  },
-  {
-    "id": 45375,
-    "fecha": "26 de Apr del 2026 a las 09:26 AM",
-    "hora_utc": "2026-04-26 13:26",
-    "mensaje": "⚠️Afectada por manipulación Linea 108\n➡️Línea 108\n🔹Municipio Santa Clara\n👉Ctos 26 y 141 (Manuelita)\n👉Cto 191 (Quemado de Hilario)",
-    "timestamp": 1777209990,
-    "timestamp_local": 1777209990
   }
 ]
