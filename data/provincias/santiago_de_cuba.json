@@ -1,5 +1,37 @@
 [
   {
+    "id": 52725,
+    "fecha": "26 de Apr del 2026 a las 01:03 PM",
+    "hora_utc": "2026-04-26 17:03",
+    "mensaje": "🚨Manipulaciones :\nAcción que se realizan en los circuitos para dar paso al trabajo en zonas afectadas por Averías o Vía Libre y posteriormente para restablecer el servicio eléctrico en los circuitos que se encontraban afectados y en los que se trabaja con anterioridad,luego de culminadas las labores pertinentes.",
+    "timestamp": 1777223030,
+    "timestamp_local": 1777223030
+  },
+  {
+    "id": 52724,
+    "fecha": "26 de Apr del 2026 a las 12:49 PM",
+    "hora_utc": "2026-04-26 16:49",
+    "mensaje": "🔊Estimados clientes en estos momentos se está Manipulando La Línea 5385 para reponer un fuse al aire",
+    "timestamp": 1777222185,
+    "timestamp_local": 1777222185
+  },
+  {
+    "id": 52723,
+    "fecha": "26 de Apr del 2026 a las 12:36 PM",
+    "hora_utc": "2026-04-26 16:36",
+    "mensaje": "🔊Estimados clientes en estos momentos se encuentra afectados por Déficit de Capacidad de Generación la Línea 4385 Contramaestre",
+    "timestamp": 1777221377,
+    "timestamp_local": 1777221377
+  },
+  {
+    "id": 52722,
+    "fecha": "26 de Apr del 2026 a las 12:32 PM",
+    "hora_utc": "2026-04-26 16:32",
+    "mensaje": "🔊Estimados clientes en estos momentos se encuentra afectados por Déficit de Capacidad de Generación los circuitos, 24 , 23 y 19",
+    "timestamp": 1777221130,
+    "timestamp_local": 1777221130
+  },
+  {
     "id": 52721,
     "fecha": "26 de Apr del 2026 a las 11:21 AM",
     "hora_utc": "2026-04-26 15:21",
@@ -110,37 +142,5 @@
     "mensaje": "🚨Estimados clientes en estos momentos se encuentra afectados por Déficit de Capacidad de Generación los circuitos 2 y 12 de Santiago y las líneas 5380 Mella, 4395 Baire- Contramaestre, disculpen por las molestias ocasionadas.",
     "timestamp": 1777170514,
     "timestamp_local": 1777170514
-  },
-  {
-    "id": 52705,
-    "fecha": "25 de Apr del 2026 a las 10:13 PM",
-    "hora_utc": "2026-04-26 02:13",
-    "mensaje": "🔊Estimados clientes en estos momentos se encuentra disparada la línea 5335 Guamá.",
-    "timestamp": 1777169587,
-    "timestamp_local": 1777169587
-  },
-  {
-    "id": 52704,
-    "fecha": "25 de Apr del 2026 a las 08:31 PM",
-    "hora_utc": "2026-04-26 00:31",
-    "mensaje": "🔴Se incorpora a la afectación el circuito 22 de Santiago, disculpe por las molestias ocasionadas.",
-    "timestamp": 1777163497,
-    "timestamp_local": 1777163497
-  },
-  {
-    "id": 52703,
-    "fecha": "25 de Apr del 2026 a las 07:31 PM",
-    "hora_utc": "2026-04-25 23:31",
-    "mensaje": "🚨Estimados clientes en estos momentos se encuentra afectados por Déficit de Capacidad de Generación los circuitos 1,14 seccionalizado,19,21,25 de Santiago y las líneas 4390 Contramaestre y circuitos 1 y 4 Palma, disculpen por las molestias ocasionadas.",
-    "timestamp": 1777159903,
-    "timestamp_local": 1777159903
-  },
-  {
-    "id": 52702,
-    "fecha": "25 de Apr del 2026 a las 05:44 PM",
-    "hora_utc": "2026-04-25 21:44",
-    "mensaje": "🔊Estimados clientes en estos momentos se encuentra afectados por Déficit de Capacidad de Generación los circuitos 3 y 20 de Santiago y las líneas 5335 Guamá, 4435 y 4385 de Contramaestre y circuito 2 de Palma, disculpen por las molestias ocasionadas.",
-    "timestamp": 1777153461,
-    "timestamp_local": 1777153461
   }
 ]
