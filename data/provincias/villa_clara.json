@@ -1,5 +1,37 @@
 [
   {
+    "id": 45401,
+    "fecha": "26 de Apr del 2026 a las 03:15 PM",
+    "hora_utc": "2026-04-26 19:15",
+    "mensaje": "Afectado 73 MW en la provincia, demanda máxima a apagar en estos momentos.",
+    "timestamp": 1777230913,
+    "timestamp_local": 1777230913
+  },
+  {
+    "id": 45400,
+    "fecha": "26 de Apr del 2026 a las 03:12 PM",
+    "hora_utc": "2026-04-26 19:12",
+    "mensaje": "💡Con servicio los siguientes circuitos:\n🔹Municipio Sagua\n👉Ctos 50 y 147 Villa Alegre",
+    "timestamp": 1777230727,
+    "timestamp_local": 1777230727
+  },
+  {
+    "id": 45399,
+    "fecha": "26 de Apr del 2026 a las 03:11 PM",
+    "hora_utc": "2026-04-26 19:11",
+    "mensaje": "⚠️Afectado el servicio eléctrico en los siguientes circuitos:\n🔹Municipio Sagua\n👉Ctos 43, 51 Sagua\n👉Cto 44 Isabela",
+    "timestamp": 1777230669,
+    "timestamp_local": 1777230669
+  },
+  {
+    "id": 45398,
+    "fecha": "26 de Apr del 2026 a las 02:51 PM",
+    "hora_utc": "2026-04-26 18:51",
+    "mensaje": "⚠️Afectado el servicio eléctrico en los siguientes circuitos:\n🔹Municipio Santa Clara:\n👉Ctos 1, 2, 4 (Consejo- Centro)\n🔹Municipio Caibarién:\n👉 Ctos 61, 62\n👉Ctos 182 y 183 Van Troy",
+    "timestamp": 1777229477,
+    "timestamp_local": 1777229477
+  },
+  {
     "id": 45397,
     "fecha": "26 de Apr del 2026 a las 02:17 PM",
     "hora_utc": "2026-04-26 18:17",
@@ -126,37 +158,5 @@
     "mensaje": "💡Con servicio los siguientes circuitos:\n🔹Municipio Ranchuelo\n👉Cto 92(Esperanza)\n🔹Municipio Santa Clara\n👉Ctos 26 y 141 (Manuelita)\n👉Cto 191 (Quemado de Hilario)",
     "timestamp": 1777213285,
     "timestamp_local": 1777213285
-  },
-  {
-    "id": 45381,
-    "fecha": "26 de Apr del 2026 a las 10:18 AM",
-    "hora_utc": "2026-04-26 14:18",
-    "mensaje": "Actualización del servicio eléctrico en la provincia.\n👉De los circuitos apagables que presenta la provincia, se mantienen afectados 98 circuitos.\n👉En el momento de hacer esta nota la provincia tiene 78 MW de afectación por déficit de capacidad de generación, demanda máxima posible a apagar en estos momentos.\n👉Cuenta con 90 afectaciones por averías secundarias y de servicio.",
-    "timestamp": 1777213119,
-    "timestamp_local": 1777213119
-  },
-  {
-    "id": 45380,
-    "fecha": "26 de Apr del 2026 a las 10:11 AM",
-    "hora_utc": "2026-04-26 14:11",
-    "mensaje": "💡Con servicio el siguiente circuito:\n🔹Municipio Santa Clara: \n👉Cto 166 (Condado)",
-    "timestamp": 1777212682,
-    "timestamp_local": 1777212682
-  },
-  {
-    "id": 45379,
-    "fecha": "26 de Apr del 2026 a las 09:52 AM",
-    "hora_utc": "2026-04-26 13:52",
-    "mensaje": "💡Con servicio los siguientes circuitos:\n🔹Municipio Santa Clara:\n👉Cto 5 (Dobarganes)\n👉Cto 17 (Subplanta)",
-    "timestamp": 1777211542,
-    "timestamp_local": 1777211542
-  },
-  {
-    "id": 45378,
-    "fecha": "26 de Apr del 2026 a las 09:40 AM",
-    "hora_utc": "2026-04-26 13:40",
-    "mensaje": "⚠️Afectado el servicio eléctrico en los siguientes circuitos:\n🔹Municipio Santa Clara\n👉Cto 7 (Universidad)  \n👉Cto 146 (Elevado Aeropuerto) \n👉Cto 22 (Construcciones Textil)\n👉Cto 131 (Las Antillas)\n👉Cto 153 (EIDE)\n👉Cto 25 (Los Güiros)\n👉Cto 24 (Planta Asfalto)\n👉Cto 35 (Biotecnología) \n👉Ctos 14, 15 y 27 (Maleza)",
-    "timestamp": 1777210835,
-    "timestamp_local": 1777210835
   }
 ]
