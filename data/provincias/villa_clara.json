@@ -1,5 +1,29 @@
 [
   {
+    "id": 45353,
+    "fecha": "26 de Apr del 2026 a las 02:05 AM",
+    "hora_utc": "2026-04-26 06:05",
+    "mensaje": "Actualización del servicio eléctrico en la provincia.\n👉De los circuitos apagables que presenta la provincia, se mantienen afectados 139 circuitos.\n👉En el momento de hacer esta nota la provincia tiene 91 MW de afectación por déficit de capacidad de generación, demanda máxima posible a apagar en estos momentos.\n👉Cuenta con 62 afectaciones por averías secundarias y de servicio.",
+    "timestamp": 1777183514,
+    "timestamp_local": 1777183514
+  },
+  {
+    "id": 45352,
+    "fecha": "26 de Apr del 2026 a las 01:15 AM",
+    "hora_utc": "2026-04-26 05:15",
+    "mensaje": "⚡En avería la línea del 1365 de manera parcial:\n🔹Municipio Remedios: \n👉Ctos 69 y 70 Zuluetas\n👉Cto 143 Batey Heriberto Duquezne \n👉Cto 71 Buena Vista",
+    "timestamp": 1777180506,
+    "timestamp_local": 1777180506
+  },
+  {
+    "id": 45351,
+    "fecha": "26 de Apr del 2026 a las 01:13 AM",
+    "hora_utc": "2026-04-26 05:13",
+    "mensaje": "Afectado 95 MW en la provincia, demanda máxima a apagar en estos momentos.",
+    "timestamp": 1777180397,
+    "timestamp_local": 1777180397
+  },
+  {
     "id": 45350,
     "fecha": "26 de Apr del 2026 a las 12:05 AM",
     "hora_utc": "2026-04-26 04:05",
@@ -118,29 +142,5 @@
     "mensaje": "Actualización del servicio eléctrico en la provincia.\n👉De los circuitos apagables que presenta la provincia, se mantienen afectados 125 circuitos.\n👉En el momento de hacer esta nota la provincia tiene 100 MW de afectación por déficit de capacidad de generación, demanda máxima posible a apagar en estos momentos.\n👉Cuenta con 77 afectaciones por averías secundarias y de servicio.",
     "timestamp": 1777148401,
     "timestamp_local": 1777148401
-  },
-  {
-    "id": 45333,
-    "fecha": "25 de Apr del 2026 a las 03:49 PM",
-    "hora_utc": "2026-04-25 19:49",
-    "mensaje": "⚠️Afectado el servicio eléctrico en el siguiente circuito:\n🔹Municipio Santa Clara\n👉Cto 31 (Santa Clara Industrial)",
-    "timestamp": 1777146548,
-    "timestamp_local": 1777146548
-  },
-  {
-    "id": 45332,
-    "fecha": "25 de Apr del 2026 a las 03:47 PM",
-    "hora_utc": "2026-04-25 19:47",
-    "mensaje": "⚠️Afectado el servicio eléctrico en los siguientes circuitos:\n🔹Municipio Manicaragua:\n👉Ctos 109 y 150\n👉Ctos 108 y 110 La Piedra\n👉Cto 111 Mataguá\n🔹Municipio Placetas \n👉Ctos 100 y 151 Placetas\n👉Cto 104 Hermanos Amejeiras\n👉Cto 103 Batey Carbó Servía",
-    "timestamp": 1777146451,
-    "timestamp_local": 1777146451
-  },
-  {
-    "id": 45331,
-    "fecha": "25 de Apr del 2026 a las 03:24 PM",
-    "hora_utc": "2026-04-25 19:24",
-    "mensaje": "⚠️Afectado el servicio eléctrico en los siguientes circuitos:\n🔹Municipio Encrucijada\n👉Cto 120 Calabaza\n👉Ctos 121 y 127 Perucho\n🔹Municipio Placetas:\n👉Cto 192 Benito Juárez\n👉Cto 102 Peroti",
-    "timestamp": 1777145078,
-    "timestamp_local": 1777145078
   }
 ]
