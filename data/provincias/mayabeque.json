@@ -1,5 +1,29 @@
 [
   {
+    "id": 112636,
+    "fecha": "27 de Apr del 2026 a las 08:38 AM",
+    "hora_utc": "2026-04-27 12:38",
+    "mensaje": "**Nota Informativa: Estado del Sistema Eléctrico Nacional (SEN) – 27 de abril de 2026\n**En el día de ayer se afectó el servicio por déficit de capacidad durante las 24 horas y se mantuvo la afectación durante todo el horario de la madrugada. La máxima afectación por déficit de capacidad de generación en el día de ayer fue de 1426 MW a las 20:20 horas. \nLa producción de energía de los 54 nuevos parques solares fotovoltaicos fue de 4102 MWh, con 521 MW como máxima potencia entregada en el horario de la media con esta fuente de generación. \n**Estado actual del SEN\n**La disponibilidad del SEN a las 06:00 horas es de 1675 MW, la demanda 2486 MW con 845 MW afectados. En el horario de la media se estima una afectación de 950 MW. \n**Principales incidencias\n**Avería: Unidad 2 de la CTE Ernesto Guevara De La Serna, Unidad 4 de la CTE Carlos Manuel de Céspedes, la unidad 2 de la CTE Felton y la unidad 5 de la CTE Renté.\nMantenimiento: Unidad 5 de la CTE Mariel, Unidad 6 de la CTE Renté, Unidad 5 de la CTE Nuevitas.\nLimitaciones en la generación térmica: 417 MW fuera de servicio.\n**Pronóstico para el horario pico\n**Se pronostica para el horario de máxima demanda una disponibilidad de 1675 MW con una demanda máxima de 3100 MW, para un déficit de 1425 MW, por lo que de mantenerse las condiciones previstas se pronostica una afectación de 1455 MW en este horario.",
+    "timestamp": 1777293505,
+    "timestamp_local": 1777293505
+  },
+  {
+    "id": 112634,
+    "fecha": "27 de Apr del 2026 a las 08:23 AM",
+    "hora_utc": "2026-04-27 12:23",
+    "mensaje": "🚨Por déficit de capacidad de generación se afecta el servicio en los siguientes circuitos:\n*CENSA\n*Somorrostro🚨",
+    "timestamp": 1777292612,
+    "timestamp_local": 1777292612
+  },
+  {
+    "id": 112633,
+    "fecha": "27 de Apr del 2026 a las 07:59 AM",
+    "hora_utc": "2026-04-27 11:59",
+    "mensaje": "🚨 Por déficit de capacidad de generación se afecta el servicio en el siguiente circuito:\n*Santa Cruz 🚨",
+    "timestamp": 1777291165,
+    "timestamp_local": 1777291165
+  },
+  {
     "id": 112632,
     "fecha": "27 de Apr del 2026 a las 07:22 AM",
     "hora_utc": "2026-04-27 11:22",
@@ -94,37 +118,5 @@
     "mensaje": "🚨Por déficit de capacidad de generación se afecta el servicio en los siguientes circuitos:\n*Batabanó\n*Surgidero de Batabanó 🚨",
     "timestamp": 1777245668,
     "timestamp_local": 1777245668
-  },
-  {
-    "id": 112616,
-    "fecha": "26 de Apr del 2026 a las 07:16 PM",
-    "hora_utc": "2026-04-26 23:16",
-    "mensaje": "🚨 Por déficit de capacidad de generación se afecta el servicio en el siguiente circuito:\n*Jaruco  🚨",
-    "timestamp": 1777245406,
-    "timestamp_local": 1777245406
-  },
-  {
-    "id": 112615,
-    "fecha": "26 de Apr del 2026 a las 07:16 PM",
-    "hora_utc": "2026-04-26 23:16",
-    "mensaje": "🔷 Culminada la vía libre en el siguiente circuito:\n*Somorrostro 🔷",
-    "timestamp": 1777245385,
-    "timestamp_local": 1777245385
-  },
-  {
-    "id": 112614,
-    "fecha": "26 de Apr del 2026 a las 07:16 PM",
-    "hora_utc": "2026-04-26 23:16",
-    "mensaje": "🔷 Restablecido el servicio en el circuito 3590 que se encontraba afectado por disparo en las líneas 🔷",
-    "timestamp": 1777245362,
-    "timestamp_local": 1777245362
-  },
-  {
-    "id": 112613,
-    "fecha": "26 de Apr del 2026 a las 07:14 PM",
-    "hora_utc": "2026-04-26 23:14",
-    "mensaje": "🔷 Culminada la vía libre en el siguiente circuito:\n*Jamaica 🔷",
-    "timestamp": 1777245253,
-    "timestamp_local": 1777245253
   }
 ]
