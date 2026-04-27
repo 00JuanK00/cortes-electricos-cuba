@@ -1,5 +1,101 @@
 [
   {
+    "id": 45455,
+    "fecha": "27 de Apr del 2026 a las 11:22 AM",
+    "hora_utc": "2026-04-27 15:22",
+    "mensaje": "💡Con servicio eléctrico el circuito 167 (Virginia).",
+    "timestamp": 1777303369,
+    "timestamp_local": 1777303369
+  },
+  {
+    "id": 45454,
+    "fecha": "27 de Apr del 2026 a las 11:14 AM",
+    "hora_utc": "2026-04-27 15:14",
+    "mensaje": "🛠️Afectado por manipulación el circuito 167 para reponer transformador.",
+    "timestamp": 1777302876,
+    "timestamp_local": 1777302876
+  },
+  {
+    "id": 45453,
+    "fecha": "27 de Apr del 2026 a las 11:06 AM",
+    "hora_utc": "2026-04-27 15:06",
+    "mensaje": "⚠️Afectado nuevamente el circuito 146 (Elevado Aeropuerto) por estar faltando una fase.",
+    "timestamp": 1777302417,
+    "timestamp_local": 1777302417
+  },
+  {
+    "id": 45452,
+    "fecha": "27 de Apr del 2026 a las 10:44 AM",
+    "hora_utc": "2026-04-27 14:44",
+    "mensaje": "💡Con servicio eléctrico el circuito 146 (Elevado Aeropuerto) en su totalidad.",
+    "timestamp": 1777301090,
+    "timestamp_local": 1777301090
+  },
+  {
+    "id": 45451,
+    "fecha": "27 de Apr del 2026 a las 10:19 AM",
+    "hora_utc": "2026-04-27 14:19",
+    "mensaje": "Actualización del servicio eléctrico en la provincia.\n👉De los circuitos apagables que presenta la provincia, se mantienen afectados 87 circuitos.\n👉En el momento de hacer esta nota la provincia tiene 70 MW de afectación por déficit de capacidad de generación, demanda máxima posible a apagar en estos momentos.\n👉Cuenta con 162 afectaciones por averías secundarias y de servicio.",
+    "timestamp": 1777299568,
+    "timestamp_local": 1777299568
+  },
+  {
+    "id": 45450,
+    "fecha": "27 de Apr del 2026 a las 10:11 AM",
+    "hora_utc": "2026-04-27 14:11",
+    "mensaje": "⚠️Afectado el circuito 146 (Elevado Aeropuerto) por estar faltando una fase.",
+    "timestamp": 1777299087,
+    "timestamp_local": 1777299087
+  },
+  {
+    "id": 45449,
+    "fecha": "27 de Apr del 2026 a las 09:56 AM",
+    "hora_utc": "2026-04-27 13:56",
+    "mensaje": "⚠️Afectada por DAF la Línea 1960:\n➡️Línea 1960 \n🔹Municipio Encrucijada\n👉Cto 120 Calabazar\n👉Ctos 121 y 127 Perucho",
+    "timestamp": 1777298208,
+    "timestamp_local": 1777298208
+  },
+  {
+    "id": 45448,
+    "fecha": "27 de Apr del 2026 a las 09:55 AM",
+    "hora_utc": "2026-04-27 13:55",
+    "mensaje": "🛠️Afectada de manera parcial la Línea 1955 por vía libre para realizar cambio de transformadores.\n➡️Línea 1955  \n🔹Municipio Encrucijada:\n👉Cto 142 Comunidad La Sierra \n👉Cto 126 Batey Emilio Córdova\n👉Cto 125 Cavarrocas\n👉Cto 124 El Santo\n🔹Municipio Camajuaní:                                                              \n👉Cto 78 Jutiero",
+    "timestamp": 1777298103,
+    "timestamp_local": 1777298103
+  },
+  {
+    "id": 45447,
+    "fecha": "27 de Apr del 2026 a las 09:41 AM",
+    "hora_utc": "2026-04-27 13:41",
+    "mensaje": "💡Con servicio los siguientes circuitos:\n🔹Municipio Camajuaní:\n👉Ctos  72, 73, 129 y 156",
+    "timestamp": 1777297317,
+    "timestamp_local": 1777297317
+  },
+  {
+    "id": 45446,
+    "fecha": "27 de Apr del 2026 a las 09:19 AM",
+    "hora_utc": "2026-04-27 13:19",
+    "mensaje": "➡️La Provincia cuenta con 2 afectaciones de servicio eléctrico por transformador dañado:\n👉Municipio Remedios: Carretera de Buena Vista a Zuluetas Km1  e/ Antes de llegar al Llano. Buena Vista\n👉Municipio Manicaragua: Autopista Nacional km 276, barrio Los Azules. Seibabo",
+    "timestamp": 1777295951,
+    "timestamp_local": 1777295951
+  },
+  {
+    "id": 45445,
+    "fecha": "27 de Apr del 2026 a las 09:10 AM",
+    "hora_utc": "2026-04-27 13:10",
+    "mensaje": "Actualización del servicio eléctrico en la provincia.\n👉De los circuitos apagables que presenta la provincia, se mantienen afectados 107 circuitos.\n👉En el momento de hacer esta nota la provincia tiene 79 MW de afectación por déficit de capacidad de generación, demanda máxima posible a apagar en estos momentos.\n👉Cuenta con 139 afectaciones por averías secundarias y de servicio.",
+    "timestamp": 1777295404,
+    "timestamp_local": 1777295404
+  },
+  {
+    "id": 45444,
+    "fecha": "27 de Apr del 2026 a las 09:07 AM",
+    "hora_utc": "2026-04-27 13:07",
+    "mensaje": "💡Con servicio los siguientes circuitos:\n🔹Municipio Manicaragua:\n👉Ctos 109 y 150\n👉Ctos 108 y 110 La Piedra\n👉Cto 111 Mataguá",
+    "timestamp": 1777295253,
+    "timestamp_local": 1777295253
+  },
+  {
     "id": 45442,
     "fecha": "27 de Apr del 2026 a las 09:01 AM",
     "hora_utc": "2026-04-27 13:01",
@@ -62,93 +158,5 @@
     "mensaje": "💡Con servicio los siguientes circuitos:\n🔹Municipio Santo Domingo:\n👉Cto 79 (Santo Domingo)\n👉Cto 81 (26 de Julio)\n👉Cto 163 (Batey 26 de Julio\n🔹Municipio Ranchuelo\n👉Ctos 54, 94 y 95 Jicotea\n👉Cto 93 Esperanza (Campo)",
     "timestamp": 1777288592,
     "timestamp_local": 1777288592
-  },
-  {
-    "id": 45433,
-    "fecha": "27 de Apr del 2026 a las 07:15 AM",
-    "hora_utc": "2026-04-27 11:15",
-    "mensaje": "⚠️Afectado el servicio eléctrico en los siguientes circuitos:\n🔹Municipio Santo Domingo:\n👉Cto 134\n👉Ctos 87 y 96 Bermejal\n👉Cto 187 Batey Carlos Baliño\n👉Cto 82 Ulacia\n👉Cto 84 Rodrigo",
-    "timestamp": 1777288551,
-    "timestamp_local": 1777288551
-  },
-  {
-    "id": 45432,
-    "fecha": "27 de Apr del 2026 a las 06:17 AM",
-    "hora_utc": "2026-04-27 10:17",
-    "mensaje": "🕛Actualización del servicio eléctrico en las últimas 6 horas.\n✍️El déficit de capacidad de generación en estos momentos es de 70 MW\n✍️En el momento de esta nota, se mantienen afectados 106 circuitos.\n✍️ Cuenta con 108 afectaciones por averías secundarias y de servicio:\n🔸 Caibarien (1)\n🔸 Camajuaní (3)\n🔸 Cifuentes (3)\n🔸 Encrucijada (2)\n🔸 Manicaragua (1)\n🔸 Placetas (2)\n🔸 Ranchuelo (9)\n🔸 Remedios (1) \n🔸 Sagua (12) \n🔸 Santa Clara (52)\n🔸 Santo Domingo (10)\n🛠️Se encuentran 2 averías en vías de solución.\n🛠️Pendientes a solucionar por el área técnica 10.\n✅La provincia no presenta averías primarias.",
-    "timestamp": 1777285022,
-    "timestamp_local": 1777285022
-  },
-  {
-    "id": 45431,
-    "fecha": "27 de Apr del 2026 a las 06:12 AM",
-    "hora_utc": "2026-04-27 10:12",
-    "mensaje": "🚨Usted puede mantenerseinformado por nuestras redes🛜, y unirse a nuestro canal de Telegram,para usted trabajamos🛠️ , para darle una actualización  clara y precisa de cómo se está comportandoel Sistema Eléctrico Nacional💡, puede llamar☎️ al 18888, dondeprestamos servicio las 24 horas.",
-    "timestamp": 1777284775,
-    "timestamp_local": 1777284775
-  },
-  {
-    "id": 45430,
-    "fecha": "27 de Apr del 2026 a las 01:53 AM",
-    "hora_utc": "2026-04-27 05:53",
-    "mensaje": "Actualización del servicio eléctrico en la provincia.\n👉De los circuitos apagables que presenta la provincia, se mantienen afectados 115 circuitos.\n👉En el momento de hacer esta nota la provincia tiene 65 MW de afectación por déficit de capacidad de generación, demanda máxima posible a apagar en estos momentos.\n👉Cuenta con 94 afectaciones por averías secundarias y de servicio.",
-    "timestamp": 1777269198,
-    "timestamp_local": 1777269198
-  },
-  {
-    "id": 45428,
-    "fecha": "27 de Apr del 2026 a las 12:22 AM",
-    "hora_utc": "2026-04-27 04:22",
-    "mensaje": "🕛Actualización del servicio eléctrico en las últimas 6 horas.\n✍️El déficit de capacidad de generación en estos momentos es de 83 MW\n✍️En el momento de esta nota, se mantienen afectados 116 circuitos.\n✍️ Cuenta con 107 afectaciones por averías secundarias y de servicio:\n🔸 Caibarien (1)\n🔸 Camajuaní (3)\n🔸 Cifuentes (2)\n🔸 Encrucijada (2)\n🔸 Manicaragua (1)\n🔸 Placetas (2)\n🔸 Ranchuelo (7)\n🔸 Remedios (1) \n🔸 Sagua (12) \n🔸 Santa Clara (55)\n🔸 Santo Domingo (10)\n🛠️Se encuentran 1 averías en vías de solución.\n🛠️Pendientes a solucionar por el área técnica 10.\n✅La provincia no presenta averías primarias.",
-    "timestamp": 1777263740,
-    "timestamp_local": 1777263740
-  },
-  {
-    "id": 45427,
-    "fecha": "27 de Apr del 2026 a las 12:16 AM",
-    "hora_utc": "2026-04-27 04:16",
-    "mensaje": "⚠️Afectado el servicio eléctrico en los siguientes circuitos:\n🔹Municipio Sagua\n👉Ctos 50 y 147 Villa Alegre",
-    "timestamp": 1777263372,
-    "timestamp_local": 1777263372
-  },
-  {
-    "id": 45426,
-    "fecha": "27 de Apr del 2026 a las 12:15 AM",
-    "hora_utc": "2026-04-27 04:15",
-    "mensaje": "💡Con servicio los siguientes circuitos:\n🔹Municipio Sagua\n👉Ctos 43, 51 Sagua\n👉Cto 44 Isabela",
-    "timestamp": 1777263322,
-    "timestamp_local": 1777263322
-  },
-  {
-    "id": 45425,
-    "fecha": "27 de Apr del 2026 a las 12:13 AM",
-    "hora_utc": "2026-04-27 04:13",
-    "mensaje": "➡Recordamos a nuestros clientes\n \n1️⃣. Si presenta o conoce alguna avería, haga su reporte al Centro de Atención Telefónico mediante el 18888, estamos a su servicio.\n2️⃣. Conocer de forma exacta la dirección de su vivienda (número de casa, calle, entre calles, reparto, localidad)\n3️⃣. Ubicar un punto de referencia, que permita llegar hasta su vivienda con mayor rapidez (lugar o persona reconocida en la zona)\n4️⃣. En caso de un cable caído, aunque usted crea que no está energizado, NO LO TOQUE. Repórtelo y preserve el lugar, hasta que llegue el personal de la Empresa.\n5️⃣. Anote el número de su reporte para ser utilizado en caso de reclamaciones, o para comprobar el estado del mismo.\n6️⃣. Si usted tiene servicio eléctrico, pero existen variaciones del voltaje, desconecte los equipos, para que no se dañen.",
-    "timestamp": 1777263212,
-    "timestamp_local": 1777263212
-  },
-  {
-    "id": 45424,
-    "fecha": "26 de Apr del 2026 a las 10:00 PM",
-    "hora_utc": "2026-04-27 02:00",
-    "mensaje": "Actualización del servicio eléctrico en la provincia.\n👉De los circuitos apagables que presenta la provincia, se mantienen afectados 116 circuitos.\n👉En el momento de hacer esta nota la provincia tiene 103 MW de afectación por déficit de capacidad de generación, demanda máxima posible a apagar en estos momentos.\n👉Cuenta con 94 afectaciones por averías secundarias y de servicio.",
-    "timestamp": 1777255223,
-    "timestamp_local": 1777255223
-  },
-  {
-    "id": 45423,
-    "fecha": "26 de Apr del 2026 a las 09:44 PM",
-    "hora_utc": "2026-04-27 01:44",
-    "mensaje": "💡Con servicio los siguientes circuitos:\n➡️Línea 1720\n🔹Municipio Santo Domingo:\n👉Cto 195 Batey George Washington\n👉Ctos 83 y 165 Manacas\n👉Ctos 85 y 86 Pajarito\n👉Ctos 160 y 161 Cascajal\n👉Cto 79 (Santo Domingo)\n👉Cto 81 (26 de Julio)\n👉Cto 163 (Batey 26 de Julio\n➡️Línea 1715 \n🔹Municipio Santo Domingo:\n👉Cto 134\n👉Ctos 87 y 96 Bermejal\n👉Cto 187 Batey Carlos Baliño\n👉Cto 82 Ulacia\n👉Cto 84 Rodrigo",
-    "timestamp": 1777254288,
-    "timestamp_local": 1777254288
-  },
-  {
-    "id": 45422,
-    "fecha": "26 de Apr del 2026 a las 09:37 PM",
-    "hora_utc": "2026-04-27 01:37",
-    "mensaje": "💡Con servicio el siguiente circuito:\n🔹Municipio Santa Clara: \n👉Cto 2 (Centro)",
-    "timestamp": 1777253863,
-    "timestamp_local": 1777253863
   }
 ]
