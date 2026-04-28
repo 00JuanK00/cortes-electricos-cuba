@@ -1,5 +1,21 @@
 [
   {
+    "id": 18894,
+    "fecha": "28 de Apr del 2026 a las 01:38 PM",
+    "hora_utc": "2026-04-28 17:38",
+    "mensaje": "Se declara en avería el circuito TK50 Vázquez",
+    "timestamp": 1777397901,
+    "timestamp_local": 1777397901
+  },
+  {
+    "id": 18893,
+    "fecha": "28 de Apr del 2026 a las 01:32 PM",
+    "hora_utc": "2026-04-28 17:32",
+    "mensaje": "Unión Eléctrica informa:11:34 || Fuera de línea la Unidad 2 de la CTE Ernesto Guevara De La Serna en vía libre de emergencia por fallo en el sistema de regulación de turbina.",
+    "timestamp": 1777397521,
+    "timestamp_local": 1777397521
+  },
+  {
     "id": 18891,
     "fecha": "28 de Apr del 2026 a las 11:41 AM",
     "hora_utc": "2026-04-28 15:41",
@@ -86,21 +102,5 @@
     "mensaje": "✅Restablecida la avería del circuito TK62 y TK63 pertenecientes a la subestación de Riego de Lora",
     "timestamp": 1777237308,
     "timestamp_local": 1777237308
-  },
-  {
-    "id": 18872,
-    "fecha": "26 de Apr del 2026 a las 03:00 PM",
-    "hora_utc": "2026-04-26 19:00",
-    "mensaje": "Se encuentra en avería el TK62 y TK63 pertenecientes a la Subestación del Riego de Lora.",
-    "timestamp": 1777230035,
-    "timestamp_local": 1777230035
-  },
-  {
-    "id": 18871,
-    "fecha": "26 de Apr del 2026 a las 12:31 PM",
-    "hora_utc": "2026-04-26 16:31",
-    "mensaje": "QUE SIGNIFICA E IMPLICA LA MÁXIMA CAPACIDAD APAGABLE EN LA PROVINCIA: \nMáxima capacidad apagable se refiere al nivel máximo de demanda eléctrica que puede ser desconectada o suspendida temporalmente en la provincia, explica la complejidad del déficit de generación o contingencias en el sistema eléctrico.\nRepresenta el límite superior de la reducción de carga que la empresa puede lograr mediante cortes de energía (apagones). Cuanto mayor sea la máxima capacidad apagable, mayor será el déficit de energía.\n¿Qué implica esto?\nSe identifica cuántos circuitos pueden ser apagados para equilibrar la carga del sistema, esto imposibilita realizar rotaciones, pues a excepción de los servicios priorizados, se encuentran afectados todos los circuitos apagables del territorio. Podrán presentarse afectaciones en el servicio de electricidad durante varias horas al día y el tiempo con servicio dependerá del comportamiento del SEN. Esta medida es necesaria para evitar fallas mayores y proteger la infraestructura eléctrica.",
-    "timestamp": 1777221062,
-    "timestamp_local": 1777221062
   }
 ]
