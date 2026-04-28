@@ -1,5 +1,37 @@
 [
   {
+    "id": 45494,
+    "fecha": "28 de Apr del 2026 a las 12:44 AM",
+    "hora_utc": "2026-04-28 04:44",
+    "mensaje": "💡Restablecido el servicio eléctrico en el Cto 7 Universidad perteneciente al municipio de Santa Clara",
+    "timestamp": 1777351457,
+    "timestamp_local": 1777351457
+  },
+  {
+    "id": 45493,
+    "fecha": "28 de Apr del 2026 a las 12:17 AM",
+    "hora_utc": "2026-04-28 04:17",
+    "mensaje": "🕕Actualización del servicio eléctrico en las últimas 6 horas.\n✍️El déficit de capacidad de generación en estos momentos es de 101 MW\n✍️En el momento de esta nota, se mantienen afectados 132 circuitos.\n✍️ Cuenta con 192 afectaciones por averías secundarias y de servicio:\n🔸 Caibarién (3)\n🔸Camajuaní (5)\n🔸 Cifuentes (4)\n🔸 Corralillo (3)\n🔸 Encrucijada (2)\n🔸 Manicaragua (8)\n🔸 Placetas (8)\n🔸 Ranchuelo (8)\n🔸 Remedios (8) \n🔸 Sagua (27) \n🔸 Santa Clara (99)\n🔸 Santo Domingo (17)\n🛠️Se encuentran 10 averías en vías de solución.\n🛠️Pendientes a solucionar por el área técnica 7.\n🛠️Se encuentra en avería el Cto 7 Universidad  perteneciente al municipio de Santa Clara",
+    "timestamp": 1777349820,
+    "timestamp_local": 1777349820
+  },
+  {
+    "id": 45490,
+    "fecha": "27 de Apr del 2026 a las 10:10 PM",
+    "hora_utc": "2026-04-28 02:10",
+    "mensaje": "Actualización del servicio eléctrico en la provincia.\n👉De los circuitos apagables que presenta la provincia, se mantienen afectados 132 circuitos.\n👉En el momento de hacer esta nota la provincia tiene 111 MW de afectación por déficit de capacidad de generación, demanda máxima posible a apagar en estos momentos.\n👉Cuenta con 194 afectaciones por averías secundarias y de servicio.",
+    "timestamp": 1777342259,
+    "timestamp_local": 1777342259
+  },
+  {
+    "id": 45489,
+    "fecha": "27 de Apr del 2026 a las 09:59 PM",
+    "hora_utc": "2026-04-28 01:59",
+    "mensaje": "🛠️Se encuentra en avería el Cto 7 Universidad  perteneciente al municipio de Santa Clara",
+    "timestamp": 1777341553,
+    "timestamp_local": 1777341553
+  },
+  {
     "id": 45488,
     "fecha": "27 de Apr del 2026 a las 08:25 PM",
     "hora_utc": "2026-04-28 00:25",
@@ -110,45 +142,5 @@
     "mensaje": "⚠️Afectado el servicio eléctrico en los siguientes circuitos:\n🔹Municipio Caibarién\n👉Ctos 63 y 64",
     "timestamp": 1777316593,
     "timestamp_local": 1777316593
-  },
-  {
-    "id": 45473,
-    "fecha": "27 de Apr del 2026 a las 02:47 PM",
-    "hora_utc": "2026-04-27 18:47",
-    "mensaje": "⚠️Afectado el servicio eléctrico en los siguientes circuitos:\n🔹Municipio Remedios:\n👉Ctos 68 y 118 \n👉Ctos 69 y 70 Zuluetas\n👉Cto 143 Batey Heriberto Duquezne \n👉Cto 71 Buena Vista",
-    "timestamp": 1777315622,
-    "timestamp_local": 1777315622
-  },
-  {
-    "id": 45472,
-    "fecha": "27 de Apr del 2026 a las 02:35 PM",
-    "hora_utc": "2026-04-27 18:35",
-    "mensaje": "💡Con servicio eléctrico el circuito 39 (Sandino).",
-    "timestamp": 1777314927,
-    "timestamp_local": 1777314927
-  },
-  {
-    "id": 45471,
-    "fecha": "27 de Apr del 2026 a las 02:11 PM",
-    "hora_utc": "2026-04-27 18:11",
-    "mensaje": "⚠️Afectado el servicio eléctrico en los siguientes circuitos:\n🔹Municipio Camajuaní:\n👉Ctos 77, 59 y 185 Vueltas",
-    "timestamp": 1777313516,
-    "timestamp_local": 1777313516
-  },
-  {
-    "id": 45470,
-    "fecha": "27 de Apr del 2026 a las 02:11 PM",
-    "hora_utc": "2026-04-27 18:11",
-    "mensaje": "🛠️Afectada por manipulación la Línea 1785 y 129.\n➡️Línea 1785\n🔹Municipio Santa Clara:\n👉Cto 6 (Vigía)\n👉Cto 34(Sabana Rebacadero)\n👉Ctos 32 y 33 (RF-33Kv)\n👉Cto 39 (Sandino)\n👉Cto 40 (Hospital Militar)",
-    "timestamp": 1777313465,
-    "timestamp_local": 1777313465
-  },
-  {
-    "id": 45469,
-    "fecha": "27 de Apr del 2026 a las 02:07 PM",
-    "hora_utc": "2026-04-27 18:07",
-    "mensaje": "⚠️Afectado el servicio eléctrico en los siguientes circuitos:\n🔹Municipio Manicaragua:\n👉Ctos 109 y 150\n👉Ctos 108 y 110 La Piedra\n👉Cto 111 Mataguá",
-    "timestamp": 1777313254,
-    "timestamp_local": 1777313254
   }
 ]
