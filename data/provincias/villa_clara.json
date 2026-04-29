@@ -1,5 +1,45 @@
 [
   {
+    "id": 45596,
+    "fecha": "29 de Apr del 2026 a las 07:06 AM",
+    "hora_utc": "2026-04-29 11:06",
+    "mensaje": "💡Restablecido el servicio eléctrico en los siguientes circuitos:\n🔹Municipio Sagua\n👉Ctos 50 y 147 Villa Alegre",
+    "timestamp": 1777460819,
+    "timestamp_local": 1777460819
+  },
+  {
+    "id": 45595,
+    "fecha": "29 de Apr del 2026 a las 07:04 AM",
+    "hora_utc": "2026-04-29 11:04",
+    "mensaje": "⚠️Afectado el servicio eléctrico en los siguientes circuitos:\n🔹Municipio Sagua\n👉Ctos 43, 51 Sagua",
+    "timestamp": 1777460663,
+    "timestamp_local": 1777460663
+  },
+  {
+    "id": 45594,
+    "fecha": "29 de Apr del 2026 a las 06:31 AM",
+    "hora_utc": "2026-04-29 10:31",
+    "mensaje": "⚠️Afectado el servicio eléctrico en los siguientes circuitos:\n🔹Municipio Manicaragua:\n👉Ctos 109 y 150\n👉Ctos 108 y 110 La Piedra\n👉Cto 111 Mataguá",
+    "timestamp": 1777458708,
+    "timestamp_local": 1777458708
+  },
+  {
+    "id": 45593,
+    "fecha": "29 de Apr del 2026 a las 06:16 AM",
+    "hora_utc": "2026-04-29 10:16",
+    "mensaje": "⚠️Afectado el servicio eléctrico en los siguientes circuitos:\n🔹Municipio Remedios:\n👉Ctos 67 y 152, 68 y 118 \n👉Ctos 69 y 70 Zuluetas\n👉Cto 143 Batey Heriberto Duquezne \n👉Cto 71 Buena Vista\n🔹Municipio Placetas\n👉Cto 99",
+    "timestamp": 1777457761,
+    "timestamp_local": 1777457761
+  },
+  {
+    "id": 45592,
+    "fecha": "29 de Apr del 2026 a las 06:15 AM",
+    "hora_utc": "2026-04-29 10:15",
+    "mensaje": "🕛Actualización del servicio eléctrico en las últimas 6 horas.\n✍️El déficit de capacidad de generación en estos momentos es de 69 MW\n✍️En el momento de esta nota, se mantienen afectados 115 circuitos.\n✍️ Cuenta con 160 afectaciones por averías secundarias y de servicio:\n🔸 Caibarién (6)\n🔸Camajuaní (5)\n🔸 Corralillo (2)\n🔸 Encrucijada (1)\n🔸 Manicaragua (14)\n🔸 Placetas (3)\n🔸 Ranchuelo (3)\n🔸 Remedios (6) \n🔸 Sagua (13) \n🔸 Santa Clara (86)\n🔸 Santo Domingo (5)\n🛠️Se encuentran 2 averías en vías de solución.\n🛠️Pendientes a solucionar por el área técnica 14.\n⚡La provincia no presenta averías primarias.",
+    "timestamp": 1777457712,
+    "timestamp_local": 1777457712
+  },
+  {
     "id": 45591,
     "fecha": "29 de Apr del 2026 a las 05:26 AM",
     "hora_utc": "2026-04-29 09:26",
@@ -110,45 +150,5 @@
     "mensaje": "Con servicio el circuito 194 (Santa Clara Industrial).",
     "timestamp": 1777423399,
     "timestamp_local": 1777423399
-  },
-  {
-    "id": 45576,
-    "fecha": "28 de Apr del 2026 a las 08:42 PM",
-    "hora_utc": "2026-04-29 00:42",
-    "mensaje": "Con servicio la línea 6375:\n🔹Municipio Santa Clara\n👉Cto 7 (Universidad)  \n👉Cto 146 (Elevado Aeropuerto) \n👉Cto 22 (Construcciones Textil)\n👉Cto 131 (Las Antillas) (Déficit)\n👉Cto 153 (EIDE)\n👉Cto 25 (Los Güiros)\n👉Cto 24 (Planta Asfalto)\n👉Cto 35 (Biotecnología) \n👉Ctos 14, 15 y 27 (Maleza)",
-    "timestamp": 1777423373,
-    "timestamp_local": 1777423373
-  },
-  {
-    "id": 45575,
-    "fecha": "28 de Apr del 2026 a las 08:30 PM",
-    "hora_utc": "2026-04-29 00:30",
-    "mensaje": "🛠️Afectado por manipulación la línea 6375:\nAfecta los siguientes circuitos:\n🔹Municipio Santa Clara\n👉Cto 7 (Universidad)  \n👉Cto 146 (Elevado Aeropuerto) \n👉Cto 22 (Construcciones Textil)\n👉Cto 131 (Las Antillas) (Déficit)\n👉Cto 153 (EIDE)\n👉Cto 25 (Los Güiros)\n👉Cto 24 (Planta Asfalto)\n👉Cto 35 (Biotecnología) \n👉Ctos 14, 15 y 27 (Maleza) (Déficit)",
-    "timestamp": 1777422608,
-    "timestamp_local": 1777422608
-  },
-  {
-    "id": 45574,
-    "fecha": "28 de Apr del 2026 a las 08:28 PM",
-    "hora_utc": "2026-04-29 00:28",
-    "mensaje": "Con servicio la línea 861:\n🔹Municipio Santa Clara:\n👉Cto 5 (Dobarganes)\n👉Cto 17 (Subplanta) \n👉Ctos 37 y 38 Yabú\n👉Cto 9 (Moldes y Troqueles)\n👉Cto 133 (Taller Cafetera)",
-    "timestamp": 1777422502,
-    "timestamp_local": 1777422502
-  },
-  {
-    "id": 45573,
-    "fecha": "28 de Apr del 2026 a las 08:20 PM",
-    "hora_utc": "2026-04-29 00:20",
-    "mensaje": "🛠️Afectado el circuito 194 (Santa Clara Industrial), para reparar cuchillas dañadas en la salida de la subestación.",
-    "timestamp": 1777422056,
-    "timestamp_local": 1777422056
-  },
-  {
-    "id": 45572,
-    "fecha": "28 de Apr del 2026 a las 08:18 PM",
-    "hora_utc": "2026-04-29 00:18",
-    "mensaje": "🛠️Afectada por manipulación la línea 861 para reponer circuito 37 (Yabú)\nAfecta los siguientes circuitos:\n🔹Municipio Santa Clara:\n👉Cto 5 (Dobarganes)\n👉Cto 17 (Subplanta) \n👉Cto 9 (Moldes y Troqueles)\n👉Cto 133 (Taller Cafetera)",
-    "timestamp": 1777421908,
-    "timestamp_local": 1777421908
   }
 ]
