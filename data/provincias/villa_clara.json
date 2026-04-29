@@ -1,5 +1,37 @@
 [
   {
+    "id": 45587,
+    "fecha": "29 de Apr del 2026 a las 01:56 AM",
+    "hora_utc": "2026-04-29 05:56",
+    "mensaje": "Actualización del servicio eléctrico en la provincia.\n👉De los circuitos apagables que presenta la provincia, se mantienen afectados 113 circuitos.\n👉En el momento de hacer esta nota la provincia tiene 72 MW de afectación por déficit de capacidad de generación, demanda máxima posible a apagar en estos momentos.\n👉Cuenta con 142 afectaciones por averías secundarias y de servicio.",
+    "timestamp": 1777442198,
+    "timestamp_local": 1777442198
+  },
+  {
+    "id": 45586,
+    "fecha": "29 de Apr del 2026 a las 01:12 AM",
+    "hora_utc": "2026-04-29 05:12",
+    "mensaje": "💡Restablecido el servicio eléctrico en los siguientes circuitos:\n🔹Municipio Caibarién:\n👉 Ctos 61, 62\n👉Ctos 182 y 183 Van Troy",
+    "timestamp": 1777439573,
+    "timestamp_local": 1777439573
+  },
+  {
+    "id": 45585,
+    "fecha": "29 de Apr del 2026 a las 01:06 AM",
+    "hora_utc": "2026-04-29 05:06",
+    "mensaje": "💡Restablecido el servicio eléctrico en los siguientes circuitos:\n🔹Municipio Placetas:\n👉Cto 192 Benito Juárez\n👉Cto 102 Peroti",
+    "timestamp": 1777439215,
+    "timestamp_local": 1777439215
+  },
+  {
+    "id": 45584,
+    "fecha": "29 de Apr del 2026 a las 01:03 AM",
+    "hora_utc": "2026-04-29 05:03",
+    "mensaje": "💡Restablecido el servicio eléctrico en los siguientes circuitos:\n🔹Municipio Remedios:\n👉Ctos 67 y 152, 68 y 118 \n👉Ctos 69 y 70 Zuluetas\n👉Cto 143 Batey Heriberto Duquezne \n👉Cto 71 Buena Vista",
+    "timestamp": 1777439039,
+    "timestamp_local": 1777439039
+  },
+  {
     "id": 45583,
     "fecha": "29 de Apr del 2026 a las 12:00 AM",
     "hora_utc": "2026-04-29 04:00",
@@ -126,37 +158,5 @@
     "mensaje": "🛠️Afectado por disparo la línea 75:\nAfecta los siguientes circuitos:\n🔹Municipio Ranchuelo: \n👉Ctos 89, 97, 188 y 189\n👉Ctos 148 y 149 San Juan\n👉Cto 91 Batey Osvaldo Herrera\n👉Cto 181 Batey Ifraín Alfonso\n👉Cto 92 Esperanza (Pueblo)\n✍️ Se estudian las causas.",
     "timestamp": 1777416530,
     "timestamp_local": 1777416530
-  },
-  {
-    "id": 45567,
-    "fecha": "28 de Apr del 2026 a las 06:45 PM",
-    "hora_utc": "2026-04-28 22:45",
-    "mensaje": "⚡Afectado el circuito 191 (Quemado de Hilario), del municipio Santa Clara, por cable primario partido.",
-    "timestamp": 1777416324,
-    "timestamp_local": 1777416324
-  },
-  {
-    "id": 45566,
-    "fecha": "28 de Apr del 2026 a las 06:33 PM",
-    "hora_utc": "2026-04-28 22:33",
-    "mensaje": "Con servicio el circuito 30 (Santa Clara Industrial).",
-    "timestamp": 1777415580,
-    "timestamp_local": 1777415580
-  },
-  {
-    "id": 45565,
-    "fecha": "28 de Apr del 2026 a las 06:30 PM",
-    "hora_utc": "2026-04-28 22:30",
-    "mensaje": "⚡Afectado por faltar una fase el circuito 37 (Yabú), del municipio Santa Clara. Se estudian las causas.",
-    "timestamp": 1777415405,
-    "timestamp_local": 1777415405
-  },
-  {
-    "id": 45564,
-    "fecha": "28 de Apr del 2026 a las 06:24 PM",
-    "hora_utc": "2026-04-28 22:24",
-    "mensaje": "🛠️ Afectado por manipulación el circuito 30 (Santa Clara Industrial), para reponer transformador.",
-    "timestamp": 1777415077,
-    "timestamp_local": 1777415077
   }
 ]
