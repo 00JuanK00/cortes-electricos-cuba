@@ -1,5 +1,21 @@
 [
   {
+    "id": 35082,
+    "fecha": "28 de Apr del 2026 a las 08:50 PM",
+    "hora_utc": "2026-04-29 00:50",
+    "mensaje": "Déficit de capacidad de generación : *160 ** MW*** de afectación lo que representa el máximo apagable para este horario en la provincia",
+    "timestamp": 1777423834,
+    "timestamp_local": 1777423834
+  },
+  {
+    "id": 35081,
+    "fecha": "28 de Apr del 2026 a las 08:01 PM",
+    "hora_utc": "2026-04-29 00:01",
+    "mensaje": "Déficit de capacidad de generación : *nos mantenemos en153 ** MW*** de afectación lo que representa el máximo apagable para este horario en la provincia",
+    "timestamp": 1777420888,
+    "timestamp_local": 1777420888
+  },
+  {
     "id": 35080,
     "fecha": "28 de Apr del 2026 a las 06:39 PM",
     "hora_utc": "2026-04-28 22:39",
@@ -142,21 +158,5 @@
     "mensaje": "Déficit de capacidad de generación en la provincia: ***86 MW*** de afectación.",
     "timestamp": 1777370291,
     "timestamp_local": 1777370291
-  },
-  {
-    "id": 35062,
-    "fecha": "28 de Apr del 2026 a las 04:27 AM",
-    "hora_utc": "2026-04-28 08:27",
-    "mensaje": "Déficit de capacidad de generación en la provincia: ***87 MW*** de afectación.",
-    "timestamp": 1777364820,
-    "timestamp_local": 1777364820
-  },
-  {
-    "id": 35061,
-    "fecha": "28 de Apr del 2026 a las 03:41 AM",
-    "hora_utc": "2026-04-28 07:41",
-    "mensaje": "Déficit de capacidad de generación en la provincia: ***100 MW*** de afectación.",
-    "timestamp": 1777362068,
-    "timestamp_local": 1777362068
   }
 ]
