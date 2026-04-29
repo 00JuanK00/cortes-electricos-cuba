@@ -1,5 +1,37 @@
 [
   {
+    "id": 45600,
+    "fecha": "29 de Apr del 2026 a las 08:08 AM",
+    "hora_utc": "2026-04-29 12:08",
+    "mensaje": "Actualización del servicio eléctrico en la provincia.\n👉De los circuitos apagables que presenta la provincia, se mantienen afectados 111 circuitos.\n👉En el momento de hacer esta nota la provincia tiene 74 MW de afectación por déficit de capacidad de generación, demanda máxima posible a apagar en estos momentos.\n👉Cuenta con 150 afectaciones por averías secundarias y de servicio.",
+    "timestamp": 1777464495,
+    "timestamp_local": 1777464495
+  },
+  {
+    "id": 45599,
+    "fecha": "29 de Apr del 2026 a las 07:48 AM",
+    "hora_utc": "2026-04-29 11:48",
+    "mensaje": "Afectado 86 MW en la provincia, demanda máxima a apagar en estos momentos.",
+    "timestamp": 1777463294,
+    "timestamp_local": 1777463294
+  },
+  {
+    "id": 45598,
+    "fecha": "29 de Apr del 2026 a las 07:46 AM",
+    "hora_utc": "2026-04-29 11:46",
+    "mensaje": "🚨Nota informativa🚨\n\n📆Situación del SEN para el 29 de abril de 2026.\n\n👉En el día de ayer se afectó el servicio por déficit de capacidad durante las 24 horas y se mantuvo la afectación durante todo el horario de la madrugada. La máxima afectación por déficit de capacidad de generación en el día de ayer fue de 1509 MW a las 19:50 horas, superior a lo planificado por la no entrada de la unidad 2 de la CTE Santa Cruz y de la unidad 3 de la CTE Renté. \n\n☀️La producción de energía de los 54 nuevos parques solares fotovoltaicos fue de 4262 MWh, con 568 MW como máxima potencia entregada en el horario de la media con esta fuente de generación.  \n\n👉La disponibilidad del SEN a las 06:00 horas es de 1630 MW, la demanda 2550 MW con 947 MW afectados. En el horario de la media se estima una afectación de 850 MW.  \n\n🛠️Se encuentran en avería la unidad 2 de la CTE Santa Cruz, la unidad 4 de la CTE Carlos Manuel de Céspedes, la unidad 2 de la CTE Felton y la unidad 5 de la CTE Renté. Se encuentran en mantenimiento la unidad 5 de la CTE Mariel, la unidad 5 de la CTE Nuevitas y la  unidad 6 de la CTE Renté.\nLas limitaciones en la generación térmica son de 366 MW.\n\n📉Para el horario pico se estima la entrada de la unidad 2 de la CTE Santa Cruz con 80 MW (En proceso de arranque)\n\n📝Con este pronóstico se prevé para el horario de máxima demanda una disponibilidad de 1710 MW con una demanda máxima de 3100 MW, para un déficit de 1390 MW, por lo que de mantenerse las condiciones previstas se pronostica una afectación de 1420 MW en este horario.\n\nUNE-MINEM---07:00 horas.",
+    "timestamp": 1777463163,
+    "timestamp_local": 1777463163
+  },
+  {
+    "id": 45597,
+    "fecha": "29 de Apr del 2026 a las 07:45 AM",
+    "hora_utc": "2026-04-29 11:45",
+    "mensaje": "💡Restablecido el servicio eléctrico en los siguientes circuitos:\n🔹Municipio Santo Domingo:\n👉Cto 195 Batey George Washington\n👉Ctos 83 y 165 Manacas\n👉Ctos 85 y 86 Pajarito\n👉Ctos 160 y 161 Cascajal\n👉Cto 79 (Santo Domingo)\n👉Cto 81 (26 de Julio)\n👉Cto 163 (Batey 26 de Julio\n🔹Municipio Ranchuelo:\n👉Ctos 54, 94 y 95 Jicotea\n👉Cto 93 Esperanza (Campo)",
+    "timestamp": 1777463143,
+    "timestamp_local": 1777463143
+  },
+  {
     "id": 45596,
     "fecha": "29 de Apr del 2026 a las 07:06 AM",
     "hora_utc": "2026-04-29 11:06",
@@ -118,37 +150,5 @@
     "mensaje": "⚠️Afectado el servicio eléctrico en los siguientes circuitos:\n🔹Municipio Sagua\n👉Ctos 50 y 147 Villa Alegre",
     "timestamp": 1777431866,
     "timestamp_local": 1777431866
-  },
-  {
-    "id": 45580,
-    "fecha": "28 de Apr del 2026 a las 10:39 PM",
-    "hora_utc": "2026-04-29 02:39",
-    "mensaje": "Con servicio el circuito 168 (Condado- XX Aniversario), del municipio Santa Clara.",
-    "timestamp": 1777430395,
-    "timestamp_local": 1777430395
-  },
-  {
-    "id": 45579,
-    "fecha": "28 de Apr del 2026 a las 10:19 PM",
-    "hora_utc": "2026-04-29 02:19",
-    "mensaje": "🛠️Afectado por manipulación el circuito 168 (Condado- XX Aniversario), del municipio Santa Clara, para realizar cambio de transformador.",
-    "timestamp": 1777429188,
-    "timestamp_local": 1777429188
-  },
-  {
-    "id": 45578,
-    "fecha": "28 de Apr del 2026 a las 10:00 PM",
-    "hora_utc": "2026-04-29 02:00",
-    "mensaje": "Actualización del servicio eléctrico en la provincia.\n👉De los circuitos apagables que presenta la provincia, se mantienen afectados 133 circuitos.\n👉En el momento de hacer esta nota la provincia tiene 117 MW de afectación por déficit de capacidad de generación, demanda máxima posible a apagar en estos momentos.\n👉Cuenta con 152 afectaciones por averías secundarias y de servicio.",
-    "timestamp": 1777428051,
-    "timestamp_local": 1777428051
-  },
-  {
-    "id": 45577,
-    "fecha": "28 de Apr del 2026 a las 08:43 PM",
-    "hora_utc": "2026-04-29 00:43",
-    "mensaje": "Con servicio el circuito 194 (Santa Clara Industrial).",
-    "timestamp": 1777423399,
-    "timestamp_local": 1777423399
   }
 ]
