@@ -1,5 +1,29 @@
 [
   {
+    "id": 45591,
+    "fecha": "29 de Apr del 2026 a las 05:26 AM",
+    "hora_utc": "2026-04-29 09:26",
+    "mensaje": "⚠️Afectado el servicio eléctrico en los siguientes circuitos:\n🔹Municipio Encrucijada\n👉Cto 120 Calabazar\n👉Ctos 121 y 127 Perucho",
+    "timestamp": 1777454804,
+    "timestamp_local": 1777454804
+  },
+  {
+    "id": 45590,
+    "fecha": "29 de Apr del 2026 a las 04:13 AM",
+    "hora_utc": "2026-04-29 08:13",
+    "mensaje": "💡Restablecido el servicio eléctrico en los siguientes circuitos:\n🔹Municipio Encrucijada:\n👉Cto 122 Encrucijada  \n👉Cto 123 Vizcaya \n👉Cto 142 Comunidad La Sierra \n👉Cto 126 Batey Emilio Córdova\n👉Cto 125 Cavarrocas\n👉Cto 124 El Santo\n🔹Municipio Camajuaní:                                                              \n👉Cto 78 Jutiero\n👉Cto 75 La Quinta\n👉Cto 157 Luis Arcos Bergnes\n👉Ctos 76 y 90 Vega Alta\n👉Ctos 77, 59 y 185 Vueltas\n🔹Municipio Placetas:\n👉Ctos 101 y 145 Cumbre",
+    "timestamp": 1777450397,
+    "timestamp_local": 1777450397
+  },
+  {
+    "id": 45589,
+    "fecha": "29 de Apr del 2026 a las 04:03 AM",
+    "hora_utc": "2026-04-29 08:03",
+    "mensaje": "Actualización del servicio eléctrico en la provincia.\n👉De los circuitos apagables que presenta la provincia, se mantienen afectados 111 circuitos.\n👉En el momento de hacer esta nota la provincia tiene 65 MW de afectación por déficit de capacidad de generación, demanda máxima posible a apagar en estos momentos.\n👉Cuenta con 142 afectaciones por averías secundarias y de servicio.",
+    "timestamp": 1777449820,
+    "timestamp_local": 1777449820
+  },
+  {
     "id": 45587,
     "fecha": "29 de Apr del 2026 a las 01:56 AM",
     "hora_utc": "2026-04-29 05:56",
@@ -126,37 +150,5 @@
     "mensaje": "🛠️Afectada por manipulación la línea 861 para reponer circuito 37 (Yabú)\nAfecta los siguientes circuitos:\n🔹Municipio Santa Clara:\n👉Cto 5 (Dobarganes)\n👉Cto 17 (Subplanta) \n👉Cto 9 (Moldes y Troqueles)\n👉Cto 133 (Taller Cafetera)",
     "timestamp": 1777421908,
     "timestamp_local": 1777421908
-  },
-  {
-    "id": 45571,
-    "fecha": "28 de Apr del 2026 a las 08:09 PM",
-    "hora_utc": "2026-04-29 00:09",
-    "mensaje": "Actualización del servicio eléctrico en la provincia.\n👉De los circuitos apagables que presenta la provincia, se mantienen afectados 133 circuitos.\n👉En el momento de hacer esta nota la provincia tiene 131 MW de afectación por déficit de capacidad de generación, demanda máxima posible a apagar en estos momentos.\n👉Cuenta con 150 afectaciones por averías secundarias y de servicio.",
-    "timestamp": 1777421392,
-    "timestamp_local": 1777421392
-  },
-  {
-    "id": 45570,
-    "fecha": "28 de Apr del 2026 a las 07:48 PM",
-    "hora_utc": "2026-04-28 23:48",
-    "mensaje": "💡Solucionada parcialmente por parte de la brigada eléctrica la avería en la línea 75.\n👉En estos momentos la línea se encuentra afectada por déficit de capacidad de generación.",
-    "timestamp": 1777420122,
-    "timestamp_local": 1777420122
-  },
-  {
-    "id": 45569,
-    "fecha": "28 de Apr del 2026 a las 06:56 PM",
-    "hora_utc": "2026-04-28 22:56",
-    "mensaje": "🛠️Afectada la línea 75:\nAfecta los siguientes circuitos:\n🔹Municipio Ranchuelo: \n👉Ctos 89, 97, 188 y 189\n👉Ctos 148 y 149 San Juan\n👉Cto 91 Batey Osvaldo Herrera\n👉Cto 181 Batey Ifraín Alfonso\n👉Cto 92 Esperanza (Pueblo)\n✍️ Se estudian las causas.",
-    "timestamp": 1777417005,
-    "timestamp_local": 1777417005
-  },
-  {
-    "id": 45568,
-    "fecha": "28 de Apr del 2026 a las 06:48 PM",
-    "hora_utc": "2026-04-28 22:48",
-    "mensaje": "🛠️Afectado por disparo la línea 75:\nAfecta los siguientes circuitos:\n🔹Municipio Ranchuelo: \n👉Ctos 89, 97, 188 y 189\n👉Ctos 148 y 149 San Juan\n👉Cto 91 Batey Osvaldo Herrera\n👉Cto 181 Batey Ifraín Alfonso\n👉Cto 92 Esperanza (Pueblo)\n✍️ Se estudian las causas.",
-    "timestamp": 1777416530,
-    "timestamp_local": 1777416530
   }
 ]
