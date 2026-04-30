@@ -1,5 +1,29 @@
 [
   {
+    "id": 45660,
+    "fecha": "30 de Apr del 2026 a las 03:06 AM",
+    "hora_utc": "2026-04-30 07:06",
+    "mensaje": "Afectado 91 MW en la provincia, demanda máxima a apagar en estos momentos.",
+    "timestamp": 1777532810,
+    "timestamp_local": 1777532810
+  },
+  {
+    "id": 45659,
+    "fecha": "30 de Apr del 2026 a las 02:02 AM",
+    "hora_utc": "2026-04-30 06:02",
+    "mensaje": "Actualización del servicio eléctrico en la provincia.\n👉De los circuitos apagables que presenta la provincia, se mantienen afectados 149 circuitos.\n👉En el momento de hacer esta nota la provincia tiene 95 MW de afectación por déficit de capacidad de generación, demanda máxima posible a apagar en estos momentos.\n👉Cuenta con 90 afectaciones por averías secundarias y de servicio.",
+    "timestamp": 1777528955,
+    "timestamp_local": 1777528955
+  },
+  {
+    "id": 45658,
+    "fecha": "30 de Apr del 2026 a las 01:16 AM",
+    "hora_utc": "2026-04-30 05:16",
+    "mensaje": "Afectado 99 MW en la provincia, demanda máxima a apagar en estos momentos.",
+    "timestamp": 1777526218,
+    "timestamp_local": 1777526218
+  },
+  {
     "id": 45657,
     "fecha": "30 de Apr del 2026 a las 12:08 AM",
     "hora_utc": "2026-04-30 04:08",
@@ -126,29 +150,5 @@
     "mensaje": "💡Restablecido el servicio eléctrico en los siguientes circuitos:\n🔹Municipio Remedios:\n👉Ctos 68 y 118",
     "timestamp": 1777497479,
     "timestamp_local": 1777497479
-  },
-  {
-    "id": 45640,
-    "fecha": "29 de Apr del 2026 a las 05:03 PM",
-    "hora_utc": "2026-04-29 21:03",
-    "mensaje": "Afectado 112 MW en la provincia, demanda máxima a apagar en estos momentos.",
-    "timestamp": 1777496604,
-    "timestamp_local": 1777496604
-  },
-  {
-    "id": 45639,
-    "fecha": "29 de Apr del 2026 a las 04:57 PM",
-    "hora_utc": "2026-04-29 20:57",
-    "mensaje": "⚠️Se encuentran disparados los Ctos 68 y 118, pertenecientes al municipio Remedios, se estudian las causas.",
-    "timestamp": 1777496274,
-    "timestamp_local": 1777496274
-  },
-  {
-    "id": 45638,
-    "fecha": "29 de Apr del 2026 a las 04:25 PM",
-    "hora_utc": "2026-04-29 20:25",
-    "mensaje": "💡Restablecido el servicio eléctrico en los siguientes circuitos:\n🔹Municipio Remedios:\n👉Ctos 67 ,68 y 118",
-    "timestamp": 1777494335,
-    "timestamp_local": 1777494335
   }
 ]
