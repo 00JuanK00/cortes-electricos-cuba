@@ -1,5 +1,45 @@
 [
   {
+    "id": 45657,
+    "fecha": "30 de Apr del 2026 a las 12:08 AM",
+    "hora_utc": "2026-04-30 04:08",
+    "mensaje": "🕛Actualización del servicio eléctrico en las últimas 6 horas.\n✍️El déficit de capacidad de generación en estos momentos es de 108 MW\n✍️En el momento de esta nota, se mantienen afectados 149 circuitos.\n✍️ Cuenta con 86 afectaciones por averías secundarias y de servicio:\n🔸 Cifuentes (5)\n🔸 Corralillo (3)\n🔸 Encrucijada (1)\n🔸 Placetas (3)\n🔸 Remedios (6) \n🔸 Sagua (18) \n🔸 Santa Clara (50)\n🛠️Se encuentran 3 averías en vías de solución.\n🛠️Pendientes a solucionar por el área técnica 18.\n⚡En avería de manera parcial el Cto 159, perteneciente al municipio Corralillo, por cables primarios partidos y crucetas dañadas.",
+    "timestamp": 1777522083,
+    "timestamp_local": 1777522083
+  },
+  {
+    "id": 45656,
+    "fecha": "29 de Apr del 2026 a las 11:59 PM",
+    "hora_utc": "2026-04-30 03:59",
+    "mensaje": "⚡En avería de manera parcial el Cto 159, perteneciente al municipio Corralillo, por cables primarios partidos y crucetas dañadas.",
+    "timestamp": 1777521586,
+    "timestamp_local": 1777521586
+  },
+  {
+    "id": 45654,
+    "fecha": "29 de Apr del 2026 a las 11:07 PM",
+    "hora_utc": "2026-04-30 03:07",
+    "mensaje": "Afectado 116 MW en la provincia, demanda máxima a apagar en estos momentos.",
+    "timestamp": 1777518474,
+    "timestamp_local": 1777518474
+  },
+  {
+    "id": 45653,
+    "fecha": "29 de Apr del 2026 a las 10:07 PM",
+    "hora_utc": "2026-04-30 02:07",
+    "mensaje": "✅Ante cualquier duda con la terminología eléctrica, les volvemos explicar: \n     \n👉Las averías pueden ser primarias (afecta un volumen grande de población pues son las líneas de distribución a 13.8kV y puede afectar varias manzanas, incluso repartos completos).\n\n👉Secundarias (afecta a todos los clientes que se alimenten del mismo transformador, puede afectar una o varias cuadras). \n\n👉De servicio (afectan 1 solo cliente o instalación generalmente producto a daños en la acometida, metro contador, etc.).",
+    "timestamp": 1777514877,
+    "timestamp_local": 1777514877
+  },
+  {
+    "id": 45652,
+    "fecha": "29 de Apr del 2026 a las 10:01 PM",
+    "hora_utc": "2026-04-30 02:01",
+    "mensaje": "Actualización del servicio eléctrico en la provincia.\n👉De los circuitos apagables que presenta la provincia, se mantienen afectados 149 circuitos.\n👉En el momento de hacer esta nota la provincia tiene 122 MW de afectación por déficit de capacidad de generación, demanda máxima posible a apagar en estos momentos.\n👉Cuenta con 100 afectaciones por averías secundarias y de servicio.",
+    "timestamp": 1777514474,
+    "timestamp_local": 1777514474
+  },
+  {
     "id": 45651,
     "fecha": "29 de Apr del 2026 a las 09:02 PM",
     "hora_utc": "2026-04-30 01:02",
@@ -110,53 +150,5 @@
     "mensaje": "💡Restablecido el servicio eléctrico en los siguientes circuitos:\n🔹Municipio Remedios:\n👉Ctos 67 ,68 y 118",
     "timestamp": 1777494335,
     "timestamp_local": 1777494335
-  },
-  {
-    "id": 45637,
-    "fecha": "29 de Apr del 2026 a las 04:24 PM",
-    "hora_utc": "2026-04-29 20:24",
-    "mensaje": "⚠️Afectado el servicio eléctrico en los siguientes circuitos:\n🔹Municipio Remedios:\n👉Cto 152 \n👉Ctos 69 y 70 Zuluetas\n👉Cto 143 Batey Heriberto Duquezne \n👉Cto 71 Buena Vista",
-    "timestamp": 1777494286,
-    "timestamp_local": 1777494286
-  },
-  {
-    "id": 45636,
-    "fecha": "29 de Apr del 2026 a las 04:21 PM",
-    "hora_utc": "2026-04-29 20:21",
-    "mensaje": "⚠️Afectado el servicio eléctrico en los siguientes circuitos:\n🔹Municipio Cifuentes:\n👉Ctos 114 y 117\n👉Ctos 116 y 155 Mata\n👉Cto 186 Batey Unidad Proletaria\n👉Cto 184 Sitio Grande",
-    "timestamp": 1777494084,
-    "timestamp_local": 1777494084
-  },
-  {
-    "id": 45635,
-    "fecha": "29 de Apr del 2026 a las 04:05 PM",
-    "hora_utc": "2026-04-29 20:05",
-    "mensaje": "Actualización del servicio eléctrico en la provincia.\n👉De los circuitos apagables que presenta la provincia, se mantienen afectados 119 circuitos.\n👉En el momento de hacer esta nota la provincia tiene 92 MW de afectación por déficit de capacidad de generación, demanda máxima posible a apagar en estos momentos.\n👉Cuenta con 148 afectaciones por averías secundarias y de servicio.",
-    "timestamp": 1777493123,
-    "timestamp_local": 1777493123
-  },
-  {
-    "id": 45634,
-    "fecha": "29 de Apr del 2026 a las 03:45 PM",
-    "hora_utc": "2026-04-29 19:45",
-    "mensaje": "⚠️Afectado el servicio eléctrico en los siguientes circuitos:\n🔹Municipio Caibarién:\n👉 Ctos 61, 62\n👉Ctos 182 y 183 Van Troy",
-    "timestamp": 1777491946,
-    "timestamp_local": 1777491946
-  },
-  {
-    "id": 45633,
-    "fecha": "29 de Apr del 2026 a las 03:35 PM",
-    "hora_utc": "2026-04-29 19:35",
-    "mensaje": "⚠️Afectado el servicio eléctrico en los siguientes circuitos:\n🔹Municipio Santo Domingo:\n👉Cto 134\n👉Ctos 87 y 96 Bermejal\n👉Cto 187 Batey Carlos Baliño\n👉Cto 82 Ulacia\n👉Cto 84 Rodrigo\n🔹Municipio Placetas:\n👉Cto 192 Benito Juárez\n👉Cto 102 Peroti",
-    "timestamp": 1777491317,
-    "timestamp_local": 1777491317
-  },
-  {
-    "id": 45632,
-    "fecha": "29 de Apr del 2026 a las 03:22 PM",
-    "hora_utc": "2026-04-29 19:22",
-    "mensaje": "⚠️Afectado por manipulación la línea del 108:\n🔹Municipio Santa Clara\n👉Ctos 26 y 141 (Manuelita)\n👉Cto 191 (Quemado de Hilario)",
-    "timestamp": 1777490579,
-    "timestamp_local": 1777490579
   }
 ]
