@@ -1,5 +1,37 @@
 [
   {
+    "id": 45725,
+    "fecha": "30 de Apr del 2026 a las 06:54 PM",
+    "hora_utc": "2026-04-30 22:54",
+    "mensaje": "⚠️Afectado el servicio eléctrico en el siguiente circuito:\n🔹Municipio Santa Clara: \n👉Cto 30 (Santa Clara industrial)",
+    "timestamp": 1777589662,
+    "timestamp_local": 1777589662
+  },
+  {
+    "id": 45724,
+    "fecha": "30 de Apr del 2026 a las 06:52 PM",
+    "hora_utc": "2026-04-30 22:52",
+    "mensaje": "🛠️Afectado por manipulación Cto 132(Santa Clara Industrial)perteneciente al Municipio Santa Clara",
+    "timestamp": 1777589561,
+    "timestamp_local": 1777589561
+  },
+  {
+    "id": 45723,
+    "fecha": "30 de Apr del 2026 a las 06:48 PM",
+    "hora_utc": "2026-04-30 22:48",
+    "mensaje": "⚠️Afectado el servicio eléctrico en los siguientes circuitos:\n🔹Municipio Santa Clara:\n👉Cto 5 (Dobarganes)\n👉Cto 17 (Subplanta)\n👉Cto 167 (Virginia)\n👉Cto 170 (José Martí)\n👉Ctos 26 y 141 (Manuelita)\n👉Cto 191 (Quemado de Hilario)",
+    "timestamp": 1777589339,
+    "timestamp_local": 1777589339
+  },
+  {
+    "id": 45722,
+    "fecha": "30 de Apr del 2026 a las 06:35 PM",
+    "hora_utc": "2026-04-30 22:35",
+    "mensaje": "💡Con servicio eléctrico el siguiente circuito:\n🔹Municipio Santa Clara: \n👉Cto 132 (Santa Clara Industrial)",
+    "timestamp": 1777588546,
+    "timestamp_local": 1777588546
+  },
+  {
     "id": 45721,
     "fecha": "30 de Apr del 2026 a las 06:31 PM",
     "hora_utc": "2026-04-30 22:31",
@@ -126,37 +158,5 @@
     "mensaje": "⚠️Afectado el servicio eléctrico en los siguientes circuitos:\n🔹Municipio Encrucijada:\n👉Cto 122 Encrucijada  \n👉Cto 123 Vizcaya \n👉Cto 142 Comunidad La Sierra \n👉Cto 126 Batey Emilio Córdova\n👉Cto 125 Cavarrocas\n👉Cto 124 El Santo\n🔹Municipio Camajuaní:                                                              \n👉Cto 78 Jutiero\n👉Cto 75 La Quinta\n👉Cto 157 Luis Arcos Bergnes\n👉Ctos 76 y 90 Vega Alta\n🔹Municipio Placetas:\n👉Cto 192 Benito Juárez\n👉Cto 102 Peroti\n🔹Municipio Santa Clara: \n👉Cto 132 y 162 (Santa Clara industrial)",
     "timestamp": 1777580421,
     "timestamp_local": 1777580421
-  },
-  {
-    "id": 45705,
-    "fecha": "30 de Apr del 2026 a las 04:17 PM",
-    "hora_utc": "2026-04-30 20:17",
-    "mensaje": "⚠️Afectado el servicio eléctrico en los siguientes circuitos:\n🔹Municipio Quemado:\n👉Ctos 164, 52 y 53 Quemado.\n👉Cto 196 Batey Panchito Gómez Toro.",
-    "timestamp": 1777580267,
-    "timestamp_local": 1777580267
-  },
-  {
-    "id": 45704,
-    "fecha": "30 de Apr del 2026 a las 04:14 PM",
-    "hora_utc": "2026-04-30 20:14",
-    "mensaje": "⚠️Afectado el servicio eléctrico en el siguiente circuito:\n🔹Municipio Santa Clara: \n👉Cto 31 (Santa Clara industrial)",
-    "timestamp": 1777580064,
-    "timestamp_local": 1777580064
-  },
-  {
-    "id": 45703,
-    "fecha": "30 de Apr del 2026 a las 04:09 PM",
-    "hora_utc": "2026-04-30 20:09",
-    "mensaje": "Actualización del servicio eléctrico en la provincia.\n👉En este momento la provincia tiene 99 MW de afectación por déficit de capacidad de generación, demanda máxima posible a apagar en estos momentos.\n👉De los circuitos apagables que presenta la provincia, se mantienen afectados 103 circuitos.\n👉Cuenta con 110 afectaciones por averías secundarias y de servicio.",
-    "timestamp": 1777579746,
-    "timestamp_local": 1777579746
-  },
-  {
-    "id": 45702,
-    "fecha": "30 de Apr del 2026 a las 03:48 PM",
-    "hora_utc": "2026-04-30 19:48",
-    "mensaje": "⚠️Afectado el servicio eléctrico en los siguientes circuitos:\n🔹Municipio Camajuaní:\n👉Ctos   73 y 156\n🔹Municipio Remedios:\n👉Ctos 67 y 152, 68 y 118 \n👉Ctos 69 y 70 Zuluetas\n👉Cto 143 Batey Heriberto Duquezne \n👉Cto 71 Buena Vista",
-    "timestamp": 1777578491,
-    "timestamp_local": 1777578491
   }
 ]
