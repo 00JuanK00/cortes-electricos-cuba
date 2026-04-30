@@ -1,5 +1,21 @@
 [
   {
+    "id": 18924,
+    "fecha": "30 de Apr del 2026 a las 06:03 PM",
+    "hora_utc": "2026-04-30 22:03",
+    "mensaje": "Qué es un disparo por DAF?\nEl Disparo por Frecuencia (DAF) es un mecanismo de protección del sistema eléctrico. Se activa automáticamente cuando la frecuencia desciende por debajo de los valores mínimos seguros (menores de 60 Hz), lo que pone en riesgo la estabilidad del sistema.\nEn ese momento, algunos circuitos se desconectan de forma automática para aliviar la carga y permitir que la frecuencia vuelva a su valor nominal.\nEsto suele ocurrir cuando una planta generadora sale de servicio de manera imprevista, provocando un déficit de generación. El DAF ayuda a evitar un colapso mayor del sistema, aunque puede generar afectaciones al servicio como apagones parciales.",
+    "timestamp": 1777586618,
+    "timestamp_local": 1777586618
+  },
+  {
+    "id": 18923,
+    "fecha": "30 de Apr del 2026 a las 06:00 PM",
+    "hora_utc": "2026-04-30 22:00",
+    "mensaje": "Se afecta el servicio eléctrico al circuito TK2 Bonachea por disparo automático por frecuencia (DAF)",
+    "timestamp": 1777586423,
+    "timestamp_local": 1777586423
+  },
+  {
     "id": 18922,
     "fecha": "30 de Apr del 2026 a las 04:13 PM",
     "hora_utc": "2026-04-30 20:13",
@@ -94,13 +110,5 @@
     "mensaje": "🚨Si presenta o conoce alguna avería haga su reporte al centro ☎️telefónico mediante el #18888.                                                                                                                                                                                                                      👉Asegúrese de:                                                                                                                                                                                                                                                    1️⃣ Conocer de forma exacta la dirección de su vivienda 🏠 (# de la casa, calle, /entre calles, reparto, localidad).                                                                                                                                                                                                             2️⃣ Ubicar un punto de referencia que permita llegar hasta su vivienda con mayor rapidez (lugar o persona reconocida en la zona)                                                                                                        3️⃣ En caso de haber algún cable caído, aunque usted crea que no está energizado, NO LO TOQUE ❌. Repórtelo y preserve el lugar hasta que llegue el personal de la Empresa eléctrica.                                                                                                                                                                                       4️⃣ Anote 📝 el # de reporte para ser utilizado en caso de reclamaciones o para comprobar el estado del reporte.                                                                                                                                                            5️⃣ Si usted tiene servicio eléctrico, pero existen variaciones de voltaje, desconecte 🔌 los equipos para que no se dañen.                                                                                                                          6️⃣ Si su acometida está en falso contacto por favor, no trate de arreglarlo 🪛usted podría dañar las instalaciones o sus equipos.                                                                                                                                                             📌Grupo organizacional de la Empresa Eléctrica de Las Tunas.",
     "timestamp": 1777480600,
     "timestamp_local": 1777480600
-  },
-  {
-    "id": 18904,
-    "fecha": "29 de Apr del 2026 a las 09:29 AM",
-    "hora_utc": "2026-04-29 13:29",
-    "mensaje": "Nota Informativa: Estado del Sistema Eléctrico Nacional (SEN) – 29 de abril de 2026\n\nEn el día de ayer se afectó el servicio por déficit de capacidad durante las 24 horas y se mantuvo la afectación durante todo el horario de la madrugada. La máxima afectación por déficit de capacidad de generación en el día de ayer fue de 1509 MW a las 19:50 horas, superior a lo planificado por la no entrada de la unidad 2 de la CTE Santa Cruz y de la unidad 3 de la CTE Renté.\n\nLa producción de energía de los 54 nuevos parques solares fotovoltaicos fue de 4262 MWh, con 568 MW como máxima potencia entregada en el horario de la media con esta fuente de generación.\nEstado actual del SEN\n\nLa disponibilidad del SEN a las 06:00 horas es de 1630 MW, la demanda 2550 MW con 947 MW afectados. En el horario de la media se estima una afectación de 850 MW. \nPrincipales incidencias\n\n    Avería: Unidad 2 de la CTE Ernesto Guevara De La Serna, Unidad 4 de la CTE Carlos Manuel de Céspedes, la unidad 2 de la CTE Lidio Ramón Pérez y la Unidad 5 de la CTE Antonio Maceo.\n    Mantenimiento: Unidad 5 de la CTE Mariel, Unidad 6 de la CTE Renté, Unidad 5 de la CTE Nuevitas.\n    Limitaciones en la generación térmica: 366 MW fuera de servicio.\n\nPronóstico para el horario pico\n\nPara el horario pico se estima la entrada de la unidad 2 de la CTE Santa Cruz con 80 MW (En proceso de arranque)\n\nCon este pronóstico se prevé para el horario de máxima demanda una disponibilidad de 1710 MW con una demanda máxima de 3100 MW, para un déficit de 1390 MW, por lo que de mantenerse las condiciones previstas se pronostica una afectación de 1420 MW en este horario.",
-    "timestamp": 1777469396,
-    "timestamp_local": 1777469396
   }
 ]
