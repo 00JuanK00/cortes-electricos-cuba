@@ -1,5 +1,21 @@
 [
   {
+    "id": 45664,
+    "fecha": "30 de Apr del 2026 a las 07:10 AM",
+    "hora_utc": "2026-04-30 11:10",
+    "mensaje": "Afectado 106 MW en la provincia, demanda máxima a apagar en estos momentos.",
+    "timestamp": 1777547443,
+    "timestamp_local": 1777547443
+  },
+  {
+    "id": 45663,
+    "fecha": "30 de Apr del 2026 a las 06:16 AM",
+    "hora_utc": "2026-04-30 10:16",
+    "mensaje": "🕕Actualización del servicio eléctrico en las últimas 6 horas.\n✍️El déficit de capacidad de generación en estos momentos es de 97 MW\n✍️En el momento de esta nota, se mantienen afectados 149 circuitos.\n✍️ Cuenta con 91 afectaciones por averías secundarias y de servicio:\n🔸 Cifuentes (5)\n🔸 Corralillo (3)\n🔸 Encrucijada (1)\n🔸 Placetas (3)\n🔸 Remedios (6) \n🔸 Sagua (18) \n🔸 Santa Clara (54)\n🛠️Se encuentran 3 averías en vías de solución.\n🛠️Pendientes a solucionar por el área técnica 18.\n⚡En avería de manera parcial el Cto 159, perteneciente al municipio Corralillo, por cables primarios partidos y crucetas dañadas.",
+    "timestamp": 1777544171,
+    "timestamp_local": 1777544171
+  },
+  {
     "id": 45662,
     "fecha": "30 de Apr del 2026 a las 05:03 AM",
     "hora_utc": "2026-04-30 09:03",
@@ -134,21 +150,5 @@
     "mensaje": "🕕Actualización del servicio eléctrico en las últimas 6 horas.\n✍️El déficit de capacidad de generación en estos momentos es de 129 MW\n✍️En el momento de esta nota, se mantienen afectados 135 circuitos.\n✍️ Cuenta con 148 afectaciones por averías secundarias y de servicio:\n🔸 Cifuentes (4)\n🔸 Corralillo (5)\n🔸 Encrucijada (1)\n🔸 Manicaragua (4)\n🔸 Placetas (9)\n🔸 Ranchuelo (2)\n🔸 Remedios (6) \n🔸 Sagua (17) \n🔸 Santa Clara (99)\n🔸 Santo Domingo (1)\n🛠️Se encuentran 3 averías en vías de solución.\n🛠️Pendientes a solucionar por el área técnica 13.\n✅La provincia no presenta averías primarias.",
     "timestamp": 1777500530,
     "timestamp_local": 1777500530
-  },
-  {
-    "id": 45644,
-    "fecha": "29 de Apr del 2026 a las 05:57 PM",
-    "hora_utc": "2026-04-29 21:57",
-    "mensaje": "⚠️Afectado el servicio eléctrico en el siguiente circuito:\n🔹Municipio Santa Clara\n👉Cto 162 (Santa Clara Industrial)",
-    "timestamp": 1777499824,
-    "timestamp_local": 1777499824
-  },
-  {
-    "id": 45643,
-    "fecha": "29 de Apr del 2026 a las 05:45 PM",
-    "hora_utc": "2026-04-29 21:45",
-    "mensaje": "⚠️Afectado el servicio eléctrico en los siguientes circuitos:\n🔹Municipio Manicaragua:\n👉Ctos 109 y 150\n👉Ctos 108 y 110 La Piedra\n👉Cto 111 Mataguá",
-    "timestamp": 1777499133,
-    "timestamp_local": 1777499133
   }
 ]
