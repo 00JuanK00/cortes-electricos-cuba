@@ -1,5 +1,61 @@
 [
   {
+    "id": 45781,
+    "fecha": "01 de May del 2026 a las 05:31 PM",
+    "hora_utc": "2026-05-01 21:31",
+    "mensaje": "⚠️Afectado el servicio eléctrico en los siguientes circuitos:\n🔹Municipio Remedios:\n👉Ctos 67 y 152, 68 y 118 \n👉Ctos 69 y 70 Zuluetas\n👉Cto 143 Batey Heriberto Duquezne \n👉Cto 71 Buena Vista",
+    "timestamp": 1777671070,
+    "timestamp_local": 1777671070
+  },
+  {
+    "id": 45780,
+    "fecha": "01 de May del 2026 a las 05:24 PM",
+    "hora_utc": "2026-05-01 21:24",
+    "mensaje": "⚠️Afectado el servicio eléctrico en el siguiente circuito:\n🔹Municipio Santa Clara:\n👉Cto 39 (Sandino)",
+    "timestamp": 1777670642,
+    "timestamp_local": 1777670642
+  },
+  {
+    "id": 45779,
+    "fecha": "01 de May del 2026 a las 05:01 PM",
+    "hora_utc": "2026-05-01 21:01",
+    "mensaje": "⚠️Afectado el servicio eléctrico en el siguiente circuito:\n🔹Municipio Santa Clara:\n👉Cto 6 (Vigía)",
+    "timestamp": 1777669267,
+    "timestamp_local": 1777669267
+  },
+  {
+    "id": 45778,
+    "fecha": "01 de May del 2026 a las 04:58 PM",
+    "hora_utc": "2026-05-01 20:58",
+    "mensaje": "💡Restablecido el servicio eléctrico en la Línea 332.",
+    "timestamp": 1777669082,
+    "timestamp_local": 1777669082
+  },
+  {
+    "id": 45777,
+    "fecha": "01 de May del 2026 a las 04:51 PM",
+    "hora_utc": "2026-05-01 20:51",
+    "mensaje": "⚠️Afectado el servicio eléctrico en los siguientes circuitos:\n🔹Municipio Santa Clara\n👉Ctos 15 y 27 (Maleza)",
+    "timestamp": 1777668712,
+    "timestamp_local": 1777668712
+  },
+  {
+    "id": 45776,
+    "fecha": "01 de May del 2026 a las 04:43 PM",
+    "hora_utc": "2026-05-01 20:43",
+    "mensaje": "⚠️Afectado el servicio eléctrico en los siguientes circuitos:\n🔹Municipio Encrucijada\n👉Cto 120 Calabazar\n👉Ctos 121 y 127 Perucho",
+    "timestamp": 1777668233,
+    "timestamp_local": 1777668233
+  },
+  {
+    "id": 45775,
+    "fecha": "01 de May del 2026 a las 04:43 PM",
+    "hora_utc": "2026-05-01 20:43",
+    "mensaje": "⚠️Afectado el servicio eléctrico en los siguientes circuitos:\n🔹Municipio Santa Clara:\n👉Ctos 1, 2, 4 (Consejo- Centro)",
+    "timestamp": 1777668202,
+    "timestamp_local": 1777668202
+  },
+  {
     "id": 45774,
     "fecha": "01 de May del 2026 a las 04:33 PM",
     "hora_utc": "2026-05-01 20:33",
@@ -94,37 +150,5 @@
     "mensaje": "⚡Afectado de manera parcial el circuito 14 Maleza, por estar faltando una fase por cable primario partido.",
     "timestamp": 1777651815,
     "timestamp_local": 1777651815
-  },
-  {
-    "id": 45761,
-    "fecha": "01 de May del 2026 a las 11:54 AM",
-    "hora_utc": "2026-05-01 15:54",
-    "mensaje": "💡Restablecido el servicio eléctrico en el circuito 77 de Vueltas.",
-    "timestamp": 1777650841,
-    "timestamp_local": 1777650841
-  },
-  {
-    "id": 45760,
-    "fecha": "01 de May del 2026 a las 11:51 AM",
-    "hora_utc": "2026-05-01 15:51",
-    "mensaje": "🕛Actualización del servicio eléctrico en las últimas 6 horas.\n✍️El déficit de capacidad de generación en estos momentos es de 70 MW\n✍️En el momento de esta nota, se mantienen afectados 73 circuitos.\n✍️ Cuenta con 119 afectaciones por averías secundarias y de servicio:\n🔸 Caibarién (3)\n🔸Camajuaní (3)\n🔸 Cifuentes (7)\n🔸 Corralillo (2)\n🔸 Encrucijada (4)\n🔸 Manicaragua (8)\n🔸 Placetas (6)\n🔸 Ranchuelo (10)\n🔸 Remedios (5) \n🔸 Sagua (9) \n🔸 Santa Clara (29)\n🔸 Santo Domingo (2)\n🛠️Se encuentran 5 averías en vías de solución.\n🛠️Pendientes a solucionar por el área técnica 22.\n\n⚡Averías⚡\n⚡Afectado por disparo el circuito 77 del poblado de vueltas, municipio Camajuani, se estudian las causas.",
-    "timestamp": 1777650686,
-    "timestamp_local": 1777650686
-  },
-  {
-    "id": 45759,
-    "fecha": "01 de May del 2026 a las 11:41 AM",
-    "hora_utc": "2026-05-01 15:41",
-    "mensaje": "💡Restablecido el servicio eléctrico en el circuito 59 de Vueltas.",
-    "timestamp": 1777650105,
-    "timestamp_local": 1777650105
-  },
-  {
-    "id": 45755,
-    "fecha": "01 de May del 2026 a las 10:52 AM",
-    "hora_utc": "2026-05-01 14:52",
-    "mensaje": "#RedDeJóvenesMINEM presentes este #1Mayo en la plaza #ErnestoCheGuevara 🇨🇺 #LaPatriaSeDefiende",
-    "timestamp": 1777647151,
-    "timestamp_local": 1777647151
   }
 ]
