@@ -1,5 +1,21 @@
 [
   {
+    "id": 45740,
+    "fecha": "01 de May del 2026 a las 02:58 AM",
+    "hora_utc": "2026-05-01 06:58",
+    "mensaje": "📣Ante cualquier duda con la terminología eléctrica, les volvemos explicar: \n     \n✍️Las averías pueden ser primarias (afecta un volumen grande de población pues son las líneas de distribución a 13.8kV y puede afectar varias manzanas, incluso repartos completos).\n\n✍️Secundarias (afecta a todos los clientes que se alimenten del mismo transformador, puede afectar una o varias cuadras). \n\n✍️De servicio (afectan 1 solo cliente o instalación generalmente producto a daños en la acometida, metro contador, etc.).",
+    "timestamp": 1777618700,
+    "timestamp_local": 1777618700
+  },
+  {
+    "id": 45737,
+    "fecha": "01 de May del 2026 a las 02:12 AM",
+    "hora_utc": "2026-05-01 06:12",
+    "mensaje": "Actualización del servicio eléctrico en la provincia.\n👉En este momento la provincia tiene 100 MW de afectación por déficit de capacidad de generación, demanda máxima posible a apagar en estos momentos.\n👉De los circuitos apagables que presenta la provincia, se mantienen afectados 119 circuitos.\n👉Cuenta con 64 afectaciones por averías secundarias y de servicio.",
+    "timestamp": 1777615953,
+    "timestamp_local": 1777615953
+  },
+  {
     "id": 45736,
     "fecha": "01 de May del 2026 a las 01:13 AM",
     "hora_utc": "2026-05-01 05:13",
@@ -126,29 +142,5 @@
     "mensaje": "💡Con servicio eléctrico  los siguientes circuitos:\n🔹Municipio Santa Clara:\n 👉Cto 167 (Virginia)\n➡️Línea 1205\n🔹Municipio Sagua\n👉Ctos 43, 51 Sagua(En este momento se encuentra en Déficit)\n👉Cto 44 Isabela(En este momento se encuentra en Déficit)\n👉Ctos 50 y 147 Villa Alegre",
     "timestamp": 1777587154,
     "timestamp_local": 1777587154
-  },
-  {
-    "id": 45719,
-    "fecha": "30 de Apr del 2026 a las 06:06 PM",
-    "hora_utc": "2026-04-30 22:06",
-    "mensaje": "🕕Actualización del servicio eléctrico en las últimas 6 horas.\n✍️El déficit de capacidad de generación en estos momentos es de 132 MW\n✍️En el momento de esta nota, se mantienen afectados 130 circuitos.\n✍️ Cuenta con 108 afectaciones por averías secundarias y de servicio:\n🔸 Cifuentes (5)\n🔸 Manicaragua (4)\n🔸 Placetas (6)\n🔸 Ranchuelo (3)\n🔸 Remedios (3) \n🔸 Sagua (17) \n🔸 Santa Clara (40)\n🛠️Se encuentran 10 averías en vías de solución.\n🛠️Pendientes a solucionar por el área técnica 20.\n🛠️Afectado parcial el Cto 132(Santa Clara Industrial)perteneciente al Municipio Santa Clara , después de restablecido el servicio  para  realizar cambio de transformador.",
-    "timestamp": 1777586812,
-    "timestamp_local": 1777586812
-  },
-  {
-    "id": 45718,
-    "fecha": "30 de Apr del 2026 a las 05:59 PM",
-    "hora_utc": "2026-04-30 21:59",
-    "mensaje": "🛠️Afectado parcial el Cto 132(Santa Clara Industrial)perteneciente al Municipio Santa Clara , después de restablecido el servicio  porque se esta realizando cambio de transformador.",
-    "timestamp": 1777586352,
-    "timestamp_local": 1777586352
-  },
-  {
-    "id": 45717,
-    "fecha": "30 de Apr del 2026 a las 05:53 PM",
-    "hora_utc": "2026-04-30 21:53",
-    "mensaje": "⚠️Afectado el servicio eléctrico en los siguientes circuitos:\n🔹Municipio Manicaragua:\n👉Ctos 109 y 150\n👉Ctos 108 y 110 La Piedra\n👉Cto 111 Mataguá",
-    "timestamp": 1777585986,
-    "timestamp_local": 1777585986
   }
 ]
