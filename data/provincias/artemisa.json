@@ -1,5 +1,21 @@
 [
   {
+    "id": 37344,
+    "fecha": "01 de May del 2026 a las 12:00 AM",
+    "hora_utc": "2026-05-01 04:00",
+    "mensaje": "➡️ Restablecida la Subestación de bombeo de Ceiba 1 de Caimito",
+    "timestamp": 1777608008,
+    "timestamp_local": 1777608008
+  },
+  {
+    "id": 37343,
+    "fecha": "01 de May del 2026 a las 12:00 AM",
+    "hora_utc": "2026-05-01 04:00",
+    "mensaje": "🚨 Disparado el circuito de Bombeo de Ceiba 1",
+    "timestamp": 1777608008,
+    "timestamp_local": 1777608008
+  },
+  {
     "id": 37342,
     "fecha": "30 de Apr del 2026 a las 09:14 PM",
     "hora_utc": "2026-05-01 01:14",
@@ -142,21 +158,5 @@
     "mensaje": "❌ Vía libre en el circuito de Bombeo Ceiba 1 para montar 2 transformadores ❌",
     "timestamp": 1777492357,
     "timestamp_local": 1777492357
-  },
-  {
-    "id": 37324,
-    "fecha": "29 de Apr del 2026 a las 03:46 PM",
-    "hora_utc": "2026-04-29 19:46",
-    "mensaje": "🚨 Circuitos afectados por déficit de generación 🚨\n\n➡️ Pedro Díaz de Güira de Melena\n➡️ Plátano de Artemisa\n➡️ Cárcel y 4 mil de Guanajay\n➡️ Bauta Vieja\n➡️ 4 caminos y Martí de San Cristóbal\n\n\n‼️ Tenemos una afectación de 100 MW ‼️",
-    "timestamp": 1777492015,
-    "timestamp_local": 1777492015
-  },
-  {
-    "id": 37323,
-    "fecha": "29 de Apr del 2026 a las 01:47 PM",
-    "hora_utc": "2026-04-29 17:47",
-    "mensaje": "✅ Restablecida la vía libre del circuito 1de Junco ✅",
-    "timestamp": 1777484857,
-    "timestamp_local": 1777484857
   }
 ]
