@@ -1,5 +1,13 @@
 [
   {
+    "id": 45746,
+    "fecha": "01 de May del 2026 a las 08:03 AM",
+    "hora_utc": "2026-05-01 12:03",
+    "mensaje": "Actualización del servicio eléctrico en la provincia.\n👉En este momento la provincia tiene 86 MW de afectación por déficit de capacidad de generación, demanda máxima posible a apagar en estos momentos.\n👉De los circuitos apagables que presenta la provincia, se mantienen afectados 98 circuitos.\n👉Cuenta con 71 afectaciones por averías secundarias y de servicio",
+    "timestamp": 1777637032,
+    "timestamp_local": 1777637032
+  },
+  {
     "id": 45745,
     "fecha": "01 de May del 2026 a las 06:46 AM",
     "hora_utc": "2026-05-01 10:46",
@@ -134,13 +142,5 @@
     "mensaje": "⚠️Afectado el servicio eléctrico en los siguientes circuitos:\n🔹Municipio Santa Clara: \n👉Cto 166 (Condado)\n🔹Municipio Sagua\n👉Ctos 50 y 147 Villa Alegre",
     "timestamp": 1777592370,
     "timestamp_local": 1777592370
-  },
-  {
-    "id": 45725,
-    "fecha": "30 de Apr del 2026 a las 06:54 PM",
-    "hora_utc": "2026-04-30 22:54",
-    "mensaje": "⚠️Afectado el servicio eléctrico en el siguiente circuito:\n🔹Municipio Santa Clara: \n👉Cto 30 (Santa Clara industrial)",
-    "timestamp": 1777589662,
-    "timestamp_local": 1777589662
   }
 ]
