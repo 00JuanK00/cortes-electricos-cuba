@@ -1,5 +1,37 @@
 [
   {
+    "id": 45785,
+    "fecha": "01 de May del 2026 a las 06:04 PM",
+    "hora_utc": "2026-05-01 22:04",
+    "mensaje": "⚠️Afectado el servicio eléctrico en el siguiente circuito:\n🔹Municipio Santa Clara:\n 👉Cto 170 (José Martí)",
+    "timestamp": 1777673092,
+    "timestamp_local": 1777673092
+  },
+  {
+    "id": 45784,
+    "fecha": "01 de May del 2026 a las 05:59 PM",
+    "hora_utc": "2026-05-01 21:59",
+    "mensaje": "⚠️Afectado el servicio eléctrico en los siguientes circuitos:\n🔹Municipio Placetas:\n👉Ctos 101 y 145 Cumbre",
+    "timestamp": 1777672780,
+    "timestamp_local": 1777672780
+  },
+  {
+    "id": 45783,
+    "fecha": "01 de May del 2026 a las 05:53 PM",
+    "hora_utc": "2026-05-01 21:53",
+    "mensaje": "⚡Afectado por disparo el circuito 40 Hospital Militar, se estudian las causas.",
+    "timestamp": 1777672423,
+    "timestamp_local": 1777672423
+  },
+  {
+    "id": 45782,
+    "fecha": "01 de May del 2026 a las 05:52 PM",
+    "hora_utc": "2026-05-01 21:52",
+    "mensaje": "🕕Actualización del servicio eléctrico en las últimas 6 horas.\n✍️El déficit de capacidad de generación en estos momentos es de 107 MW\n✍️En el momento de esta nota, se mantienen afectados 105 circuitos.\n✍️ Cuenta con 130 afectaciones por averías secundarias y de servicio:\n🔸 Caibarién (3)\n🔸Camajuaní (1)\n🔸 Cifuentes (8)\n🔸 Corralillo (3)\n🔸 Encrucijada (1)\n🔸 Manicaragua (10)\n🔸 Placetas (12)\n🔸 Ranchuelo (14)\n🔸 Remedios (6) \n🔸 Sagua (12) \n🔸 Santa Clara (31)\n🔸 Santo Domingo (3)\n🛠️Se encuentran 4 averías en vías de solución.\n🛠️Pendientes a solucionar por el área técnica 23.\n\n⚡Averías⚡\n⚡Afectado el circuito 146 Elevado Aeropuerto por estar faltando una fase.",
+    "timestamp": 1777672333,
+    "timestamp_local": 1777672333
+  },
+  {
     "id": 45781,
     "fecha": "01 de May del 2026 a las 05:31 PM",
     "hora_utc": "2026-05-01 21:31",
@@ -126,29 +158,5 @@
     "mensaje": "💡Restablecido el servicio eléctrico en el circuito 14 Maleza.",
     "timestamp": 1777661419,
     "timestamp_local": 1777661419
-  },
-  {
-    "id": 45765,
-    "fecha": "01 de May del 2026 a las 02:23 PM",
-    "hora_utc": "2026-05-01 18:23",
-    "mensaje": "Actualización del servicio eléctrico en la provincia.\n👉En este momento la provincia tiene 80 MW de afectación por déficit de capacidad de generación, demanda máxima posible a apagar en estos momentos.\n👉De los circuitos apagables que presenta la provincia, se mantienen afectados 83 circuitos.\n👉Cuenta con 97 afectaciones por averías secundarias y de servicio",
-    "timestamp": 1777659807,
-    "timestamp_local": 1777659807
-  },
-  {
-    "id": 45764,
-    "fecha": "01 de May del 2026 a las 01:40 PM",
-    "hora_utc": "2026-05-01 17:40",
-    "mensaje": "🛠️En vía libre el circuito 14 Maleza para reparar cable primario partido.",
-    "timestamp": 1777657201,
-    "timestamp_local": 1777657201
-  },
-  {
-    "id": 45763,
-    "fecha": "01 de May del 2026 a las 12:10 PM",
-    "hora_utc": "2026-05-01 16:10",
-    "mensaje": "⚡Afectado de manera parcial el circuito 14 Maleza, por estar faltando una fase por cable primario partido.",
-    "timestamp": 1777651815,
-    "timestamp_local": 1777651815
   }
 ]
