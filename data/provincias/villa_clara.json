@@ -1,5 +1,13 @@
 [
   {
+    "id": 45741,
+    "fecha": "01 de May del 2026 a las 04:59 AM",
+    "hora_utc": "2026-05-01 08:59",
+    "mensaje": "Actualización del servicio eléctrico en la provincia.\n👉En este momento la provincia tiene 83 MW de afectación por déficit de capacidad de generación, demanda máxima posible a apagar en estos momentos.\n👉De los circuitos apagables que presenta la provincia, se mantienen afectados 102 circuitos.\n👉Cuenta con 63 afectaciones por averías secundarias y de servicio",
+    "timestamp": 1777625954,
+    "timestamp_local": 1777625954
+  },
+  {
     "id": 45740,
     "fecha": "01 de May del 2026 a las 02:58 AM",
     "hora_utc": "2026-05-01 06:58",
@@ -134,13 +142,5 @@
     "mensaje": "🛠️Afectado por manipulación Cto 132(Santa Clara Industrial)perteneciente al Municipio Santa Clara",
     "timestamp": 1777588302,
     "timestamp_local": 1777588302
-  },
-  {
-    "id": 45720,
-    "fecha": "30 de Apr del 2026 a las 06:12 PM",
-    "hora_utc": "2026-04-30 22:12",
-    "mensaje": "💡Con servicio eléctrico  los siguientes circuitos:\n🔹Municipio Santa Clara:\n 👉Cto 167 (Virginia)\n➡️Línea 1205\n🔹Municipio Sagua\n👉Ctos 43, 51 Sagua(En este momento se encuentra en Déficit)\n👉Cto 44 Isabela(En este momento se encuentra en Déficit)\n👉Ctos 50 y 147 Villa Alegre",
-    "timestamp": 1777587154,
-    "timestamp_local": 1777587154
   }
 ]
