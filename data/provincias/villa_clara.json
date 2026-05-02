@@ -1,5 +1,37 @@
 [
   {
+    "id": 45812,
+    "fecha": "02 de May del 2026 a las 10:34 AM",
+    "hora_utc": "2026-05-02 14:34",
+    "mensaje": "Actualización del servicio eléctrico en la provincia.\n👉En este momento la provincia tiene 62 MW de afectación por déficit de capacidad de generación, demanda máxima posible a apagar en estos momentos.\n👉De los circuitos apagables que presenta la provincia, se mantienen afectados 65 circuitos.\n👉Cuenta con 80 afectaciones por averías secundarias y de servicio",
+    "timestamp": 1777732498,
+    "timestamp_local": 1777732498
+  },
+  {
+    "id": 45811,
+    "fecha": "02 de May del 2026 a las 10:33 AM",
+    "hora_utc": "2026-05-02 14:33",
+    "mensaje": "Con servicio eléctrico los siguientes circuitos:\n🔹Municipio Santa Clara:\n👉Cto 5 (Dobarganes)\n👉Cto 17 (Subplanta)",
+    "timestamp": 1777732438,
+    "timestamp_local": 1777732438
+  },
+  {
+    "id": 45810,
+    "fecha": "02 de May del 2026 a las 10:25 AM",
+    "hora_utc": "2026-05-02 14:25",
+    "mensaje": "🛠️Afectados por manipulación la línea 1215:\nAfecta los siguientes circuitos:\n🔹Municipio Sagua \n👉Cto 48 Finalet\n👉Ctos 46 Sitiecito (Avería)\n👉Cto 128 Sitiecito",
+    "timestamp": 1777731912,
+    "timestamp_local": 1777731912
+  },
+  {
+    "id": 45809,
+    "fecha": "02 de May del 2026 a las 09:58 AM",
+    "hora_utc": "2026-05-02 13:58",
+    "mensaje": "🛠️Afectados por manipulación los siguientes circuitos:\n🔹Municipio Santa Clara:\n👉Cto 5 (Dobarganes)\n👉Cto 17 (Subplanta)",
+    "timestamp": 1777730333,
+    "timestamp_local": 1777730333
+  },
+  {
     "id": 45807,
     "fecha": "02 de May del 2026 a las 08:17 AM",
     "hora_utc": "2026-05-02 12:17",
@@ -102,29 +134,5 @@
     "mensaje": "🕛Actualización del servicio eléctrico en las últimas 6 horas.\n✍️El déficit de capacidad de generación en estos momentos es de 99 MW\n✍️En el momento de esta nota, se mantienen afectados 111 circuitos.\n✍️ Cuenta con 91 afectaciones por averías secundarias y de servicio:\n🔸 Caibarién (3)\n🔸 Cifuentes (1)\n🔸 Corralillo (3)\n🔸 Encrucijada (1)\n🔸 Manicaragua (6)\n🔸 Placetas (7)\n🔸 Remedios (4) \n🔸 Sagua (11) \n🔸 Santa Clara (31)\n🔸 Santo Domingo (1)\n🛠️Se encuentran 2 averías en vías de solución.\n🛠️Pendientes a solucionar por el área técnica 21.\n\n⚡Averías⚡\n⚡Afectado por avería el circuito 4 (Zona Centro) por presentar cables primarios partidos.",
     "timestamp": 1777694736,
     "timestamp_local": 1777694736
-  },
-  {
-    "id": 45792,
-    "fecha": "01 de May del 2026 a las 10:12 PM",
-    "hora_utc": "2026-05-02 02:12",
-    "mensaje": "Actualización del servicio eléctrico en la provincia.\n👉En este momento la provincia tiene 116 MW de afectación por déficit de capacidad de generación, demanda máxima posible a apagar en estos momentos.\n👉De los circuitos apagables que presenta la provincia, se mantienen afectados 115 circuitos.\n👉Cuenta con 63 afectaciones por averías secundarias y de servicio",
-    "timestamp": 1777687958,
-    "timestamp_local": 1777687958
-  },
-  {
-    "id": 45791,
-    "fecha": "01 de May del 2026 a las 09:20 PM",
-    "hora_utc": "2026-05-02 01:20",
-    "mensaje": "⚡Afectado por avería el circuito 4 (Zona Centro) por presentar cables primarios partidos.",
-    "timestamp": 1777684811,
-    "timestamp_local": 1777684811
-  },
-  {
-    "id": 45789,
-    "fecha": "01 de May del 2026 a las 09:10 PM",
-    "hora_utc": "2026-05-02 01:10",
-    "mensaje": "🟢 20:15 || En línea la Unidad 4 de la CTE Carlos Manuel de Céspedes.",
-    "timestamp": 1777684218,
-    "timestamp_local": 1777684218
   }
 ]
