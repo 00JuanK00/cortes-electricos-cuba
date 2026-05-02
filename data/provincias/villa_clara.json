@@ -1,5 +1,13 @@
 [
   {
+    "id": 45800,
+    "fecha": "02 de May del 2026 a las 04:03 AM",
+    "hora_utc": "2026-05-02 08:03",
+    "mensaje": "Actualización del servicio eléctrico en la provincia.\n👉En este momento la provincia tiene 68 MW de afectación por déficit de capacidad de generación, demanda máxima posible a apagar en estos momentos.\n👉De los circuitos apagables que presenta la provincia, se mantienen afectados 88 circuitos.\n👉Cuenta con 51 afectaciones por averías secundarias y de servicio",
+    "timestamp": 1777709013,
+    "timestamp_local": 1777709013
+  },
+  {
     "id": 45798,
     "fecha": "02 de May del 2026 a las 01:55 AM",
     "hora_utc": "2026-05-02 05:55",
@@ -126,21 +134,5 @@
     "mensaje": "⚠️Afectado el servicio eléctrico en los siguientes circuitos:\n🔹Municipio Remedios:\n👉Ctos 67 y 152, 68 y 118 \n👉Ctos 69 y 70 Zuluetas\n👉Cto 143 Batey Heriberto Duquezne \n👉Cto 71 Buena Vista",
     "timestamp": 1777671070,
     "timestamp_local": 1777671070
-  },
-  {
-    "id": 45780,
-    "fecha": "01 de May del 2026 a las 05:24 PM",
-    "hora_utc": "2026-05-01 21:24",
-    "mensaje": "⚠️Afectado el servicio eléctrico en el siguiente circuito:\n🔹Municipio Santa Clara:\n👉Cto 39 (Sandino)",
-    "timestamp": 1777670642,
-    "timestamp_local": 1777670642
-  },
-  {
-    "id": 45779,
-    "fecha": "01 de May del 2026 a las 05:01 PM",
-    "hora_utc": "2026-05-01 21:01",
-    "mensaje": "⚠️Afectado el servicio eléctrico en el siguiente circuito:\n🔹Municipio Santa Clara:\n👉Cto 6 (Vigía)",
-    "timestamp": 1777669267,
-    "timestamp_local": 1777669267
   }
 ]
