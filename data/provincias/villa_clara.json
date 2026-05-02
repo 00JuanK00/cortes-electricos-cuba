@@ -1,5 +1,37 @@
 [
   {
+    "id": 45855,
+    "fecha": "02 de May del 2026 a las 07:14 PM",
+    "hora_utc": "2026-05-02 23:14",
+    "mensaje": "⚠️Afectado el servicio eléctrico en el siguiente circuito:\n🔹Municipio Placetas:\n👉Cto 99",
+    "timestamp": 1777763651,
+    "timestamp_local": 1777763651
+  },
+  {
+    "id": 45854,
+    "fecha": "02 de May del 2026 a las 06:47 PM",
+    "hora_utc": "2026-05-02 22:47",
+    "mensaje": "⚠️Afectado el servicio eléctrico en el siguiente circuito:\n🔹Municipio Santa Clara\n👉Cto 144 (Camacho)",
+    "timestamp": 1777762056,
+    "timestamp_local": 1777762056
+  },
+  {
+    "id": 45853,
+    "fecha": "02 de May del 2026 a las 06:46 PM",
+    "hora_utc": "2026-05-02 22:46",
+    "mensaje": "⚠️Afectado el servicio eléctrico en los siguientes circuitos:\n🔹Municipio Santa Clara\n👉Cto 132 y 162\n👉Cto 31 Sakenaf\n👉Cto 5 (Dobarganes)\n👉Cto 17 (Subplanta)",
+    "timestamp": 1777761987,
+    "timestamp_local": 1777761987
+  },
+  {
+    "id": 45852,
+    "fecha": "02 de May del 2026 a las 06:42 PM",
+    "hora_utc": "2026-05-02 22:42",
+    "mensaje": "⚠️Afectado el servicio eléctrico en los siguientes circuitos:\n🔹Municipio Santa Clara\n👉Ctos 2 y 4 (Consejo-Centro)",
+    "timestamp": 1777761770,
+    "timestamp_local": 1777761770
+  },
+  {
     "id": 45851,
     "fecha": "02 de May del 2026 a las 06:02 PM",
     "hora_utc": "2026-05-02 22:02",
@@ -126,37 +158,5 @@
     "mensaje": "Con servicio la línea 1780:\n🔹Municipio Santa Clara:\n👉Ctos 23 y 130 La Ceniza\n👉Cto 42 Manajanabo\n🔹Municipio Placetas\n👉Cto 139 Miller\n👉Cto 190 Oliver\n👉Cto 106 Falcón\n👉Ctos 98  y 99 Placetas\n✍️ Queda afectado por vía libre para reparar puente primario partido el circuito 16 (Cubanacán), del municipio Santa Clara.",
     "timestamp": 1777749416,
     "timestamp_local": 1777749416
-  },
-  {
-    "id": 45835,
-    "fecha": "02 de May del 2026 a las 03:11 PM",
-    "hora_utc": "2026-05-02 19:11",
-    "mensaje": "🛠️Afectado por manipulación la línea 1780:\nAfecta los siguientes circuitos:\n🔹Municipio Santa Clara:\n👉Cto 16 Cubanacán (Avería) \n👉Ctos 23 y 130 La Ceniza\n👉Cto 42 Manajanabo\n🔹Municipio Placetas\n👉Cto 139 Miller\n👉Cto 190 Oliver\n👉Cto 106 Falcón\n👉Ctos 98 y 99 Placetas",
-    "timestamp": 1777749094,
-    "timestamp_local": 1777749094
-  },
-  {
-    "id": 45834,
-    "fecha": "02 de May del 2026 a las 03:07 PM",
-    "hora_utc": "2026-05-02 19:07",
-    "mensaje": "⚠️Afectado el servicio eléctrico en los siguientes circuitos:\n🔹Municipio Quemado:\n👉Ctos 164, 52 y 53 Quemado.\n👉Cto 196 Batey Panchito Gómez Toro.",
-    "timestamp": 1777748834,
-    "timestamp_local": 1777748834
-  },
-  {
-    "id": 45833,
-    "fecha": "02 de May del 2026 a las 02:49 PM",
-    "hora_utc": "2026-05-02 18:49",
-    "mensaje": "⚠️Afectado el servicio eléctrico en los siguientes circuitos:\n🔹Municipio Remedios:\n👉Ctos 67 y 152, 68 y 118",
-    "timestamp": 1777747793,
-    "timestamp_local": 1777747793
-  },
-  {
-    "id": 45832,
-    "fecha": "02 de May del 2026 a las 02:36 PM",
-    "hora_utc": "2026-05-02 18:36",
-    "mensaje": "Con servicio la línea 1715:\n🔹Municipio Santo Domingo:\n👉Cto 134\n👉Ctos 87 y 96 Bermejal\n👉Cto 187 Batey Carlos Baliño\n👉Cto 82 Ulacia\n👉Cto 84 Rodrigo",
-    "timestamp": 1777746964,
-    "timestamp_local": 1777746964
   }
 ]
