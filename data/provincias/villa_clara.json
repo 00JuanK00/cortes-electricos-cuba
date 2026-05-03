@@ -1,5 +1,29 @@
 [
   {
+    "id": 45872,
+    "fecha": "03 de May del 2026 a las 02:07 AM",
+    "hora_utc": "2026-05-03 06:07",
+    "mensaje": "Actualización del servicio eléctrico en la provincia.\n👉En este momento la provincia tiene 107 MW de afectación por déficit de capacidad de generación, demanda máxima posible a apagar en estos momentos.\n👉De los circuitos apagables que presenta la provincia, se mantienen afectados 140 circuitos.\n👉Cuenta con 80 afectaciones por averías secundarias y de servicio.",
+    "timestamp": 1777788476,
+    "timestamp_local": 1777788476
+  },
+  {
+    "id": 45871,
+    "fecha": "03 de May del 2026 a las 01:29 AM",
+    "hora_utc": "2026-05-03 05:29",
+    "mensaje": "Con servicio el circuito168 (Condado- XX Aniversario), del municipio Santa Clara.",
+    "timestamp": 1777786188,
+    "timestamp_local": 1777786188
+  },
+  {
+    "id": 45870,
+    "fecha": "03 de May del 2026 a las 01:28 AM",
+    "hora_utc": "2026-05-03 05:28",
+    "mensaje": "🛠️Afectado por manipulación el circuito168 (Condado- XX Aniversario), del municipio Santa Clara, para reponer transformador.",
+    "timestamp": 1777786085,
+    "timestamp_local": 1777786085
+  },
+  {
     "id": 45869,
     "fecha": "03 de May del 2026 a las 12:01 AM",
     "hora_utc": "2026-05-03 04:01",
@@ -126,29 +150,5 @@
     "mensaje": "⚠️Afectado el servicio eléctrico en los siguientes circuitos:\n🔹Municipio Santa Clara\n👉Cto 132 y 162\n👉Cto 31 Sakenaf\n👉Cto 5 (Dobarganes)\n👉Cto 17 (Subplanta)",
     "timestamp": 1777761987,
     "timestamp_local": 1777761987
-  },
-  {
-    "id": 45852,
-    "fecha": "02 de May del 2026 a las 06:42 PM",
-    "hora_utc": "2026-05-02 22:42",
-    "mensaje": "⚠️Afectado el servicio eléctrico en los siguientes circuitos:\n🔹Municipio Santa Clara\n👉Ctos 2 y 4 (Consejo-Centro)",
-    "timestamp": 1777761770,
-    "timestamp_local": 1777761770
-  },
-  {
-    "id": 45851,
-    "fecha": "02 de May del 2026 a las 06:02 PM",
-    "hora_utc": "2026-05-02 22:02",
-    "mensaje": "🕛Actualización del servicio eléctrico en las últimas 6 horas.\n✍️El déficit de capacidad de generación en estos momentos es de 75 MW\n✍️En el momento de esta nota, se mantienen afectados 71 circuitos.\n✍️ Cuenta con 106 afectaciones por averías secundarias y de servicio:\n🔸Camajuaní (6)\n🔸 Cifuentes (1)\n🔸 Corralillo (7)\n🔸 Encrucijada (1)\n🔸 Manicaragua (4)\n🔸 Placetas (6)\n🔸Quemado (2)\n🔸 Ranchuelo (1)\n🔸 Remedios (4) \n🔸 Sagua (10) \n🔸 Santa Clara (33)\n🔸Santo Domingo (4)\n🛠️Se encuentran 10 averías en vías de solución.\n🛠️Pendientes a solucionar por el área técnica 17.\n⚡La provincia presenta 1 avería primaria en los circuitos 47 y 49 (Caguagua), del municipio Sagua. Brigada eléctrica de nuestra empresa se encuentra recorriendo la línea para determinar las causas de la avería.",
-    "timestamp": 1777759377,
-    "timestamp_local": 1777759377
-  },
-  {
-    "id": 45850,
-    "fecha": "02 de May del 2026 a las 05:47 PM",
-    "hora_utc": "2026-05-02 21:47",
-    "mensaje": "⚠️Afectado el servicio eléctrico en los siguientes circuitos:\n🔹Municipio Cifuentes:\n👉Ctos 114 y 117\n👉Ctos 116 y 155 Mata\n👉Cto 186 Batey Unidad Proletaria\n👉Cto 184 Sitio Grande\n🔹Municipio Placetas:\n👉Cto 192 Benito Juárez\n👉Cto 102 Peroti",
-    "timestamp": 1777758446,
-    "timestamp_local": 1777758446
   }
 ]
