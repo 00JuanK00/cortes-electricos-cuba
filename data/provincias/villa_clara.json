@@ -1,5 +1,13 @@
 [
   {
+    "id": 45874,
+    "fecha": "03 de May del 2026 a las 04:06 AM",
+    "hora_utc": "2026-05-03 08:06",
+    "mensaje": "Actualización del servicio eléctrico en la provincia.\n👉En este momento la provincia tiene 102 MW de afectación por déficit de capacidad de generación, demanda máxima posible a apagar en estos momentos.\n👉De los circuitos apagables que presenta la provincia, se mantienen afectados 140 circuitos.\n👉Cuenta con 81 afectaciones por averías secundarias y de servicio.",
+    "timestamp": 1777795561,
+    "timestamp_local": 1777795561
+  },
+  {
     "id": 45872,
     "fecha": "03 de May del 2026 a las 02:07 AM",
     "hora_utc": "2026-05-03 06:07",
@@ -134,21 +142,5 @@
     "mensaje": "⚠️Afectado el servicio eléctrico en el siguiente circuito:\n🔹Municipio Placetas:\n👉Cto 99",
     "timestamp": 1777763651,
     "timestamp_local": 1777763651
-  },
-  {
-    "id": 45854,
-    "fecha": "02 de May del 2026 a las 06:47 PM",
-    "hora_utc": "2026-05-02 22:47",
-    "mensaje": "⚠️Afectado el servicio eléctrico en el siguiente circuito:\n🔹Municipio Santa Clara\n👉Cto 144 (Camacho)",
-    "timestamp": 1777762056,
-    "timestamp_local": 1777762056
-  },
-  {
-    "id": 45853,
-    "fecha": "02 de May del 2026 a las 06:46 PM",
-    "hora_utc": "2026-05-02 22:46",
-    "mensaje": "⚠️Afectado el servicio eléctrico en los siguientes circuitos:\n🔹Municipio Santa Clara\n👉Cto 132 y 162\n👉Cto 31 Sakenaf\n👉Cto 5 (Dobarganes)\n👉Cto 17 (Subplanta)",
-    "timestamp": 1777761987,
-    "timestamp_local": 1777761987
   }
 ]
