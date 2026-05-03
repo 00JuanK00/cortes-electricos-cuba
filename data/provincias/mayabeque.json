@@ -1,5 +1,37 @@
 [
   {
+    "id": 112968,
+    "fecha": "03 de May del 2026 a las 08:24 AM",
+    "hora_utc": "2026-05-03 12:24",
+    "mensaje": "♦️ Afectado el servicio en el circuito de Bío -1 por manipulación ♦️",
+    "timestamp": 1777811061,
+    "timestamp_local": 1777811061
+  },
+  {
+    "id": 112967,
+    "fecha": "03 de May del 2026 a las 08:20 AM",
+    "hora_utc": "2026-05-03 12:20",
+    "mensaje": "**Nota Informativa: Estado del Sistema Eléctrico Nacional (SEN) – 3 de mayo de 2026**\nEn el día de ayer se afectó el servicio por déficit de capacidad durante las 24 horas y se mantuvo la afectación durante todo el horario de la madrugada. La máxima afectación por déficit de capacidad de generación en el día de ayer fue de 1742 MW a las 20:30 horas, superior a lo planificado por demanda superior al pronóstico y la no entrada de Fuel Moa.\nLa producción de energía de los 54 nuevos parques solares fotovoltaicos fue de 4708 MWh, con 710 MW como máxima potencia entregada en el horario de la media con esta fuente de generación.\n**Estado actual del SEN**\nLa disponibilidad del SEN a las 06:00 horas es de 1700 MW, la demanda 2700 MW con 989 MW afectados. En el horario de la media se estima una afectación de 800 MW.\n**Principales incidencias**\nAvería: Unidad 2 de la CTE Lidio Ramón Pérez y la Unidad 5 de la CTE Antonio Maceo.\nMantenimiento: Unidad 5 de la CTE Mariel, Unidad 6 de la CTE Renté, Unidad 5 de la CTE Nuevitas.\nLimitaciones en la generación térmica: 462 MW fuera de servicio.\n**Pronóstico para el horario pico**\nSe pronostica para el pico la entrada de la patana de Regla con 60 MW.\nCon este pronóstico se prevé para el horario de máxima demanda una disponibilidad de 1760 MW con una demanda máxima de 3200 MW, para un déficit de 1440 MW, por lo que de mantenerse las condiciones previstas se pronostica una afectación de 1470 MW en este horario.",
+    "timestamp": 1777810839,
+    "timestamp_local": 1777810839
+  },
+  {
+    "id": 112965,
+    "fecha": "03 de May del 2026 a las 07:29 AM",
+    "hora_utc": "2026-05-03 11:29",
+    "mensaje": "🚨Por déficit de capacidad de generación se afecta el servicio en los siguientes circuitos:\n*Santa Cruz\n*Catalina 1 y 2 🚨",
+    "timestamp": 1777807772,
+    "timestamp_local": 1777807772
+  },
+  {
+    "id": 112964,
+    "fecha": "03 de May del 2026 a las 07:26 AM",
+    "hora_utc": "2026-05-03 11:26",
+    "mensaje": "🚨Por déficit de capacidad de generación se afecta el servicio en el siguiente circuito:\n*Bío-2 🚨",
+    "timestamp": 1777807578,
+    "timestamp_local": 1777807578
+  },
+  {
     "id": 112963,
     "fecha": "03 de May del 2026 a las 07:06 AM",
     "hora_utc": "2026-05-03 11:06",
@@ -62,45 +94,5 @@
     "mensaje": "🚨Por déficit de capacidad de generación se afecta el servicio en el siguiente circuito:\n*3 de San José🚨",
     "timestamp": 1777769264,
     "timestamp_local": 1777769264
-  },
-  {
-    "id": 112947,
-    "fecha": "02 de May del 2026 a las 08:13 PM",
-    "hora_utc": "2026-05-03 00:13",
-    "mensaje": "🚨Por déficit de capacidad de generación se afecta el servicio en el siguiente circuito:\n*Fénix🚨",
-    "timestamp": 1777767200,
-    "timestamp_local": 1777767200
-  },
-  {
-    "id": 112946,
-    "fecha": "02 de May del 2026 a las 08:06 PM",
-    "hora_utc": "2026-05-03 00:06",
-    "mensaje": "🚨Por déficit de capacidad de generación se afecta el servicio en el siguiente circuito:\n*Jamaica🚨",
-    "timestamp": 1777766781,
-    "timestamp_local": 1777766781
-  },
-  {
-    "id": 112945,
-    "fecha": "02 de May del 2026 a las 08:03 PM",
-    "hora_utc": "2026-05-03 00:03",
-    "mensaje": "🚨Recuerde que puede seguir nuestro canal de WhatsApp para estar actualizado las 24 horas sobre la situación Electroenergética en la Provincia #Mayabeque. \n\n‼️COMPÁRTELO para que tus familiares y amigos también puedan estar informados.\n\n📌Pincha el enlace: https://whatsapp.com/channel/0029Vb6dwTM05MUoA9qmYf1k",
-    "timestamp": 1777766616,
-    "timestamp_local": 1777766616
-  },
-  {
-    "id": 112944,
-    "fecha": "02 de May del 2026 a las 07:54 PM",
-    "hora_utc": "2026-05-02 23:54",
-    "mensaje": "🚨Por déficit de capacidad de generación se afecta el servicio en los siguientes circuitos:\n*2440\n*Ganuza🚨",
-    "timestamp": 1777766068,
-    "timestamp_local": 1777766068
-  },
-  {
-    "id": 112943,
-    "fecha": "02 de May del 2026 a las 07:23 PM",
-    "hora_utc": "2026-05-02 23:23",
-    "mensaje": "🚨Por déficit de capacidad de generación se afecta el servicio en el siguiente circuito:\n*Güines 4🚨",
-    "timestamp": 1777764231,
-    "timestamp_local": 1777764231
   }
 ]
