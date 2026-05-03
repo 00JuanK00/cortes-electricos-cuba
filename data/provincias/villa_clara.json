@@ -1,5 +1,37 @@
 [
   {
+    "id": 45918,
+    "fecha": "03 de May del 2026 a las 02:33 PM",
+    "hora_utc": "2026-05-03 18:33",
+    "mensaje": "💡Restablecido el servicio eléctrico en el siguiente circuito:\n🔹Municipio Santa Clara\n👉Cto 162 (Santa Clara Industrial)",
+    "timestamp": 1777833193,
+    "timestamp_local": 1777833193
+  },
+  {
+    "id": 45917,
+    "fecha": "03 de May del 2026 a las 02:29 PM",
+    "hora_utc": "2026-05-03 18:29",
+    "mensaje": "⚡En avería el Cto 1 (Centro), perteneciente al municipio Santa Clara, por puente primario partido en la Sub Estación.",
+    "timestamp": 1777832986,
+    "timestamp_local": 1777832986
+  },
+  {
+    "id": 45916,
+    "fecha": "03 de May del 2026 a las 02:28 PM",
+    "hora_utc": "2026-05-03 18:28",
+    "mensaje": "Actualización del servicio eléctrico en la provincia.\n👉En este momento la provincia tiene 106 MW de afectación por déficit de capacidad de generación, demanda máxima posible a apagar en estos momentos.\n👉De los circuitos apagables que presenta la provincia, se mantienen afectados 116 circuitos.\n👉Cuenta con 108 afectaciones por averías secundarias y de servicio.",
+    "timestamp": 1777832904,
+    "timestamp_local": 1777832904
+  },
+  {
+    "id": 45915,
+    "fecha": "03 de May del 2026 a las 01:54 PM",
+    "hora_utc": "2026-05-03 17:54",
+    "mensaje": "💡Restablecido el servicio eléctrico en los siguientes circuitos:\n🔹Municipio Santa Clara:\n👉Cto 153 (EIDE)\n👉Ctos 14, 15 y 27 (Maleza)",
+    "timestamp": 1777830873,
+    "timestamp_local": 1777830873
+  },
+  {
     "id": 45914,
     "fecha": "03 de May del 2026 a las 01:00 PM",
     "hora_utc": "2026-05-03 17:00",
@@ -126,37 +158,5 @@
     "mensaje": "🕛Actualización del servicio eléctrico en las últimas 6 horas.\n✍️El déficit de capacidad de generación en estos momentos es de 86 MW\n✍️En el momento de esta nota, se mantienen afectados 86 circuitos.\n✍️ Cuenta con 105 afectaciones por averías secundarias y de servicio:\n🔸Camajuaní (2)\n🔸 Corralillo (6)\n🔸 Manicaragua (7)\n🔸 Placetas (10)\n🔸 Quemado (2)\n🔸 Ranchuelo (6)\n🔸 Remedios (11) \n🔸 Sagua (15) \n🔸 Santa Clara (42)\n🔸Santo Domingo (4)\n🛠️Pendientes a solucionar por el área técnica 19.\n✅La provincia no presenta averías primarias.",
     "timestamp": 1777824305,
     "timestamp_local": 1777824305
-  },
-  {
-    "id": 45898,
-    "fecha": "03 de May del 2026 a las 12:00 PM",
-    "hora_utc": "2026-05-03 16:00",
-    "mensaje": "⚠️Afectado el servicio eléctrico en los siguientes circuitos:\n🔹Municipio Santa Clara:\n👉Cto 2 (Consejo- Centro)\n🔹Municipio Santa Clara\n👉Cto 132 (Santa Clara Industrial)",
-    "timestamp": 1777824056,
-    "timestamp_local": 1777824056
-  },
-  {
-    "id": 45897,
-    "fecha": "03 de May del 2026 a las 11:58 AM",
-    "hora_utc": "2026-05-03 15:58",
-    "mensaje": "💡Con servicio los Ctos 164 y 52 pertenecientes al municipio Quemado..",
-    "timestamp": 1777823899,
-    "timestamp_local": 1777823899
-  },
-  {
-    "id": 45896,
-    "fecha": "03 de May del 2026 a las 11:42 AM",
-    "hora_utc": "2026-05-03 15:42",
-    "mensaje": "💡Con servicio el Cto 31, perteneciente al municipio Santa Clara.",
-    "timestamp": 1777822941,
-    "timestamp_local": 1777822941
-  },
-  {
-    "id": 45895,
-    "fecha": "03 de May del 2026 a las 11:30 AM",
-    "hora_utc": "2026-05-03 15:30",
-    "mensaje": "⚠️Afectado por manipulación el Cto 31, perteneciente al municipio Santa Clara.",
-    "timestamp": 1777822200,
-    "timestamp_local": 1777822200
   }
 ]
