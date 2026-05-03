@@ -1,5 +1,61 @@
 [
   {
+    "id": 45914,
+    "fecha": "03 de May del 2026 a las 01:00 PM",
+    "hora_utc": "2026-05-03 17:00",
+    "mensaje": "Afectado 96 MW en la provincia, demanda máxima a apagar en estos momentos.",
+    "timestamp": 1777827629,
+    "timestamp_local": 1777827629
+  },
+  {
+    "id": 45913,
+    "fecha": "03 de May del 2026 a las 12:55 PM",
+    "hora_utc": "2026-05-03 16:55",
+    "mensaje": "⚠️Afectado el servicio eléctrico en los siguientes circuitos:\n🔹Municipio Santa Clara\n👉Cto 7 (Universidad)  \n👉Cto 146 (Elevado Aeropuerto) \n👉Cto 22 (Construcciones Textil)\n👉Cto 131 (Las Antillas)\n👉Cto 25 (Los Güiros)\n👉Cto 24 (Planta Asfalto)\n👉Cto 35 (Biotecnología)\n👉Cto 153 (EIDE)\n👉Ctos 14, 15 y 27 (Maleza)",
+    "timestamp": 1777827355,
+    "timestamp_local": 1777827355
+  },
+  {
+    "id": 45912,
+    "fecha": "03 de May del 2026 a las 12:52 PM",
+    "hora_utc": "2026-05-03 16:52",
+    "mensaje": "💡Restablecido el servicio eléctrico en los siguientes circuitos:\n🔹Municipio Santo Domingo:\n👉Cto 134\n👉Ctos 87 y 96 Bermejal\n👉Cto 187 Batey Carlos Baliño\n👉Cto 82 Ulacia\n👉Cto 84 Rodrigo",
+    "timestamp": 1777827160,
+    "timestamp_local": 1777827160
+  },
+  {
+    "id": 45911,
+    "fecha": "03 de May del 2026 a las 12:50 PM",
+    "hora_utc": "2026-05-03 16:50",
+    "mensaje": "💡Restablecido el servicio eléctrico en los siguientes circuitos:\n🔹Municipio Camajuaní:\n👉Ctos 77, 59 y 185 Vueltas",
+    "timestamp": 1777827031,
+    "timestamp_local": 1777827031
+  },
+  {
+    "id": 45910,
+    "fecha": "03 de May del 2026 a las 12:39 PM",
+    "hora_utc": "2026-05-03 16:39",
+    "mensaje": "⚠️Afectado el servicio eléctrico en el siguiente circuito:\n🔹Municipio Santa Clara\n👉Cto 162 (Santa Clara Industrial)",
+    "timestamp": 1777826359,
+    "timestamp_local": 1777826359
+  },
+  {
+    "id": 45909,
+    "fecha": "03 de May del 2026 a las 12:33 PM",
+    "hora_utc": "2026-05-03 16:33",
+    "mensaje": "⚠️Afectado el servicio eléctrico en los siguientes circuitos:\n🔹Municipio Remedios:\n👉Ctos 67 y 152, 68 y 118",
+    "timestamp": 1777825983,
+    "timestamp_local": 1777825983
+  },
+  {
+    "id": 45908,
+    "fecha": "03 de May del 2026 a las 12:30 PM",
+    "hora_utc": "2026-05-03 16:30",
+    "mensaje": "⚠️Se encuentra disparado el Cto 156 perteneciente al municipio Camajuaní, se estudian las causas.",
+    "timestamp": 1777825846,
+    "timestamp_local": 1777825846
+  },
+  {
     "id": 45907,
     "fecha": "03 de May del 2026 a las 12:25 PM",
     "hora_utc": "2026-05-03 16:25",
@@ -102,61 +158,5 @@
     "mensaje": "⚠️Afectado por manipulación el Cto 31, perteneciente al municipio Santa Clara.",
     "timestamp": 1777822200,
     "timestamp_local": 1777822200
-  },
-  {
-    "id": 45894,
-    "fecha": "03 de May del 2026 a las 11:25 AM",
-    "hora_utc": "2026-05-03 15:25",
-    "mensaje": "⚡En avería los Ctos 164 y 52 pertenecientes al municipio Quemado, por faltar una fase.",
-    "timestamp": 1777821942,
-    "timestamp_local": 1777821942
-  },
-  {
-    "id": 45893,
-    "fecha": "03 de May del 2026 a las 11:18 AM",
-    "hora_utc": "2026-05-03 15:18",
-    "mensaje": "💡Restablecido el servicio eléctrico en los siguientes circuitos:\n🔹Municipio Sagua\n👉Ctos 43, 51 Sagua\n👉Cto 44 Isabela\n🔹Municipio Caibarién\n👉Ctos 182 y 183 Van Troy",
-    "timestamp": 1777821527,
-    "timestamp_local": 1777821527
-  },
-  {
-    "id": 45892,
-    "fecha": "03 de May del 2026 a las 11:18 AM",
-    "hora_utc": "2026-05-03 15:18",
-    "mensaje": "⚠️Afectado el servicio eléctrico en los siguientes circuitos:\n🔹Municipio Sagua\n👉Ctos 50 y 147 Villa Alegre",
-    "timestamp": 1777821481,
-    "timestamp_local": 1777821481
-  },
-  {
-    "id": 45891,
-    "fecha": "03 de May del 2026 a las 11:16 AM",
-    "hora_utc": "2026-05-03 15:16",
-    "mensaje": "💡Restablecido el servicio eléctrico en los siguientes circuitos:\n🔹Municipio Encrucijada:\n👉Cto 122 Encrucijada  \n👉Cto 123 Vizcaya \n👉Cto 142 Comunidad La Sierra \n👉Cto 126 Batey Emilio Córdova\n👉Cto 125 Cavarrocas\n👉Cto 124 El Santo\n🔹Municipio Camajuaní:                                                              \n👉Cto 78 Jutiero\n👉Cto 75 La Quinta\n👉Cto 157 Luis Arcos Bergnes\n👉Ctos 76 y 90 Vega Alta",
-    "timestamp": 1777821414,
-    "timestamp_local": 1777821414
-  },
-  {
-    "id": 45890,
-    "fecha": "03 de May del 2026 a las 11:07 AM",
-    "hora_utc": "2026-05-03 15:07",
-    "mensaje": "⚠️Afectado el servicio eléctrico en el siguiente circuito:\n🔹Municipio Santa Clara: \n👉Cto 168 (Condado- XX Aniversario)",
-    "timestamp": 1777820846,
-    "timestamp_local": 1777820846
-  },
-  {
-    "id": 45889,
-    "fecha": "03 de May del 2026 a las 11:06 AM",
-    "hora_utc": "2026-05-03 15:06",
-    "mensaje": "💡Restablecido el servicio eléctrico en el siguiente circuito:\n🔹Municipio Santa Clara: \n👉Cto 170 (José Martí)",
-    "timestamp": 1777820807,
-    "timestamp_local": 1777820807
-  },
-  {
-    "id": 45888,
-    "fecha": "03 de May del 2026 a las 11:03 AM",
-    "hora_utc": "2026-05-03 15:03",
-    "mensaje": "Afectado 85 MW en la provincia, demanda máxima a apagar en estos momentos.",
-    "timestamp": 1777820631,
-    "timestamp_local": 1777820631
   }
 ]
