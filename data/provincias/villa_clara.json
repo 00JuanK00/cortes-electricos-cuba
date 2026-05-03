@@ -1,5 +1,21 @@
 [
   {
+    "id": 45885,
+    "fecha": "03 de May del 2026 a las 10:27 AM",
+    "hora_utc": "2026-05-03 14:27",
+    "mensaje": "⚠️Afectado el servicio eléctrico en los siguientes circuitos:\n🔹Municipio Placetas \n👉Ctos 100 y 151 Placetas\n👉Cto 104 Hermanos Amejeiras\n👉Cto 103 Batey Carbó Servía",
+    "timestamp": 1777818473,
+    "timestamp_local": 1777818473
+  },
+  {
+    "id": 45883,
+    "fecha": "03 de May del 2026 a las 10:02 AM",
+    "hora_utc": "2026-05-03 14:02",
+    "mensaje": "Actualización del servicio eléctrico en la provincia.\n👉En este momento la provincia tiene 70 MW de afectación por déficit de capacidad de generación, demanda máxima posible a apagar en estos momentos.\n👉De los circuitos apagables que presenta la provincia, se mantienen afectados 81 circuitos.\n👉Cuenta con 88 afectaciones por averías secundarias y de servicio.",
+    "timestamp": 1777816921,
+    "timestamp_local": 1777816921
+  },
+  {
     "id": 45882,
     "fecha": "03 de May del 2026 a las 09:27 AM",
     "hora_utc": "2026-05-03 13:27",
@@ -118,29 +134,5 @@
     "mensaje": "⚠️Afectado el servicio eléctrico en el siguiente circuito:\n🔹Municipio Santa Clara: \n👉Cto 39 (Sandino)",
     "timestamp": 1777775333,
     "timestamp_local": 1777775333
-  },
-  {
-    "id": 45865,
-    "fecha": "02 de May del 2026 a las 10:28 PM",
-    "hora_utc": "2026-05-03 02:28",
-    "mensaje": "Con servicio los circuitos 47 y 49 (Caguagua), del municipio Sagua.",
-    "timestamp": 1777775314,
-    "timestamp_local": 1777775314
-  },
-  {
-    "id": 45864,
-    "fecha": "02 de May del 2026 a las 10:22 PM",
-    "hora_utc": "2026-05-03 02:22",
-    "mensaje": "⚠️Afectado el servicio eléctrico en los siguientes circuitos:\n🔹Municipio Placetas:\n👉Cto 107 Baez\n👉Cto 105 Nazareno",
-    "timestamp": 1777774967,
-    "timestamp_local": 1777774967
-  },
-  {
-    "id": 45863,
-    "fecha": "02 de May del 2026 a las 10:19 PM",
-    "hora_utc": "2026-05-03 02:19",
-    "mensaje": "⚠️Afectado el servicio eléctrico en el siguiente circuito:\n🔹Municipio Santa Clara: \n👉Cto 6 (Vigía)",
-    "timestamp": 1777774768,
-    "timestamp_local": 1777774768
   }
 ]
