@@ -1,9 +1,41 @@
 [
   {
+    "id": 45944,
+    "fecha": "03 de May del 2026 a las 07:21 PM",
+    "hora_utc": "2026-05-03 23:21",
+    "mensaje": "💡Restablecido el servicio eléctrico en el siguiente circuito:\n🔹Municipio Santa Clara: \n👉Cto 167 (Virginia)",
+    "timestamp": 1777850512,
+    "timestamp_local": 1777850512
+  },
+  {
+    "id": 45943,
+    "fecha": "03 de May del 2026 a las 07:16 PM",
+    "hora_utc": "2026-05-03 23:16",
+    "mensaje": "⚠️Afectado por manipulación el Cto 167 (Virginia), perteneciente al municipio Santa Clara, para reponer transformador.",
+    "timestamp": 1777850204,
+    "timestamp_local": 1777850204
+  },
+  {
+    "id": 45942,
+    "fecha": "03 de May del 2026 a las 07:01 PM",
+    "hora_utc": "2026-05-03 23:01",
+    "mensaje": "Afectado 135 MW en la provincia, demanda máxima a apagar en estos momentos.",
+    "timestamp": 1777849304,
+    "timestamp_local": 1777849304
+  },
+  {
+    "id": 45941,
+    "fecha": "03 de May del 2026 a las 06:25 PM",
+    "hora_utc": "2026-05-03 22:25",
+    "mensaje": "⚡En avería la línea del 1965, se estudian las causas:\n🔹Municipio Cifuentes:\n👉Ctos 114 y 117\n👉Ctos 116 y 155 Mata\n👉Cto 186 Batey Unidad Proletaria\n👉Cto 184 Sitio Grande",
+    "timestamp": 1777847116,
+    "timestamp_local": 1777847116
+  },
+  {
     "id": 45940,
     "fecha": "03 de May del 2026 a las 06:07 PM",
     "hora_utc": "2026-05-03 22:07",
-    "mensaje": "🕕Actualización del servicio eléctrico en las últimas 6 horas.\n✍️El déficit de capacidad de generación en estos momentos es de 124 MW\n✍️En el momento de esta nota, se mantienen afectados 125 circuitos.\n✍️ Cuenta con 86 afectaciones por averías secundarias y de servicio:\n🔸Camajuaní (7)\n🔸 Cifuentes (2)\n🔸 Corralillo (6)\n🔸 Manicaragua (2)\n🔸 Placetas (5)\n🔸 Quemado (4)\n🔸 Ranchuelo (3)\n🔸 Remedios (2) \n🔸 Sagua (6) \n🔸 Santa Clara (45)\n🔸Santo Domingo (1)\n🛠️Pendientes a solucionar por el área técnica 21.\n⚡En avería la línea del 4608, se estudian las causas:\n🔹Municipio Corralillo:\n👉Ctos 58 y 159 \n👉Cto 57 Motembo \n👉Cto 56 Yabre\n👉Cto 60 La Sierra\n👉Cto 55 Rancho Veloz",
+    "mensaje": "🕕Actualización del servicio eléctrico en las últimas 6 horas.\n✍️El déficit de capacidad de generación en estos momentos es de 124 MW\n✍️En el momento de esta nota, se mantienen afectados 125 circuitos.\n✍️ Cuenta con 86 afectaciones por averías secundarias y de servicio:\n🔸Camajuaní (7)\n🔸 Cifuentes (2)\n🔸 Corralillo (6)\n🔸 Manicaragua (2)\n🔸 Placetas (5)\n🔸 Quemado (4)\n🔸 Ranchuelo (3)\n🔸 Remedios (2) \n🔸 Sagua (6) \n🔸 Santa Clara (45)\n🔸Santo Domingo (1)\n🛠️Pendientes a solucionar por el área técnica 21.\n⚡En avería la línea del 4608, se estudian las causas:\n🔹Municipio Corralillo:\n👉Ctos 58 y 159 \n👉Cto 57 Motembo \n👉Cto 56 Yabre\n👉Cto 60 La Sierra",
     "timestamp": 1777846062,
     "timestamp_local": 1777846062
   },
@@ -126,37 +158,5 @@
     "mensaje": "⚠️Afectado el servicio eléctrico en los siguientes circuitos:\n🔹Municipio Caibarién:\n👉 Ctos 61, 62\n👉Ctos 182 y 183 Van Troy",
     "timestamp": 1777836098,
     "timestamp_local": 1777836098
-  },
-  {
-    "id": 45924,
-    "fecha": "03 de May del 2026 a las 03:21 PM",
-    "hora_utc": "2026-05-03 19:21",
-    "mensaje": "💡Restablecido el servicio eléctrico en los siguientes circuitos:\n🔹Municipio Caibarién\n👉Ctos 63 y 64",
-    "timestamp": 1777836065,
-    "timestamp_local": 1777836065
-  },
-  {
-    "id": 45923,
-    "fecha": "03 de May del 2026 a las 03:11 PM",
-    "hora_utc": "2026-05-03 19:11",
-    "mensaje": "💡Restablecido el servicio eléctrico en los siguientes circuitos:\n🔹Municipio Santa Clara: \n👉Cto 166 (Condado)\n👉Cto 168 (Condado- XX Aniversario)",
-    "timestamp": 1777835473,
-    "timestamp_local": 1777835473
-  },
-  {
-    "id": 45922,
-    "fecha": "03 de May del 2026 a las 03:06 PM",
-    "hora_utc": "2026-05-03 19:06",
-    "mensaje": "⚡En avería el Cto 87 (Bermejal), perteneciente al municipio Santo Domingo, por primario partido.",
-    "timestamp": 1777835212,
-    "timestamp_local": 1777835212
-  },
-  {
-    "id": 45921,
-    "fecha": "03 de May del 2026 a las 03:03 PM",
-    "hora_utc": "2026-05-03 19:03",
-    "mensaje": "Afectado 99 MW en la provincia, demanda máxima a apagar en estos momentos.",
-    "timestamp": 1777834997,
-    "timestamp_local": 1777834997
   }
 ]
