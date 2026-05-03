@@ -1,5 +1,21 @@
 [
   {
+    "id": 45876,
+    "fecha": "03 de May del 2026 a las 07:21 AM",
+    "hora_utc": "2026-05-03 11:21",
+    "mensaje": "⚠️Afectado el servicio eléctrico en los siguientes circuitos:\n🔹Municipio Santa Clara: \n👉Cto 167 (Virginia)\n👉Cto 170 (José Martí)",
+    "timestamp": 1777807293,
+    "timestamp_local": 1777807293
+  },
+  {
+    "id": 45875,
+    "fecha": "03 de May del 2026 a las 06:36 AM",
+    "hora_utc": "2026-05-03 10:36",
+    "mensaje": "🕕Actualización del servicio eléctrico en las últimas 6 horas.\n✍️El déficit de capacidad de generación en estos momentos es de 106 MW\n✍️En el momento de esta nota, se mantienen afectados 140 circuitos.\n✍️ Cuenta con 100 afectaciones por averías secundarias y de servicio:\n🔸 Corralillo (7)\n🔸 Encrucijada (1)\n🔸 Manicaragua (3)\n🔸 Placetas (4)\n🔸Quemado (2)\n🔸 Ranchuelo (2)\n🔸 Remedios (4) \n🔸 Sagua (10) \n🔸 Santa Clara (44)\n🔸Santo Domingo (4)\n🛠️Se encuentra 1 avería en vías de solución.\n🛠️Pendientes a solucionar por el área técnica 18.\n✅La provincia no presenta averías primarias.",
+    "timestamp": 1777804605,
+    "timestamp_local": 1777804605
+  },
+  {
     "id": 45874,
     "fecha": "03 de May del 2026 a las 04:06 AM",
     "hora_utc": "2026-05-03 08:06",
@@ -126,21 +142,5 @@
     "mensaje": "Con servicio las líneas 1785 y 129:\n🔹Municipio Santa Clara:\n👉Cto 6 (Vigía)\n👉Cto 34(Sabana Rebacadero)\n👉Ctos 32 y 33 (RF-33Kv)\n👉Cto 39 (Sandino)\n👉Cto 40 (Hospital Militar)",
     "timestamp": 1777766538,
     "timestamp_local": 1777766538
-  },
-  {
-    "id": 45856,
-    "fecha": "02 de May del 2026 a las 07:55 PM",
-    "hora_utc": "2026-05-02 23:55",
-    "mensaje": "🛠️Afectado por manipulación las líneas 1785 y 129 para reponer transformador del circuito 40 (Hospital Militar):\nAfecta los siguientes circuitos:\n🔹Municipio Santa Clara:\n👉Cto 6 (Vigía)\n👉Cto 34(Sabana Rebacadero)\n👉Ctos 32 y 33 (RF-33Kv)\n👉Cto 39 (Sandino)",
-    "timestamp": 1777766103,
-    "timestamp_local": 1777766103
-  },
-  {
-    "id": 45855,
-    "fecha": "02 de May del 2026 a las 07:14 PM",
-    "hora_utc": "2026-05-02 23:14",
-    "mensaje": "⚠️Afectado el servicio eléctrico en el siguiente circuito:\n🔹Municipio Placetas:\n👉Cto 99",
-    "timestamp": 1777763651,
-    "timestamp_local": 1777763651
   }
 ]
