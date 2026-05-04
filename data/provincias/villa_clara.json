@@ -1,5 +1,37 @@
 [
   {
+    "id": 45965,
+    "fecha": "04 de May del 2026 a las 04:03 AM",
+    "hora_utc": "2026-05-04 08:03",
+    "mensaje": "Actualización del servicio eléctrico en la provincia.\n👉En este momento la provincia tiene 69 MW de afectación por déficit de capacidad de generación, demanda máxima posible a apagar en estos momentos.\n👉De los circuitos apagables que presenta la provincia, se mantienen afectados 97 circuitos.\n👉Cuenta con 81 afectaciones por averías secundarias y de servicio.",
+    "timestamp": 1777881785,
+    "timestamp_local": 1777881785
+  },
+  {
+    "id": 45964,
+    "fecha": "04 de May del 2026 a las 03:08 AM",
+    "hora_utc": "2026-05-04 07:08",
+    "mensaje": "Afectado 71 MW en la provincia, demanda máxima a apagar en estos momentos.",
+    "timestamp": 1777878527,
+    "timestamp_local": 1777878527
+  },
+  {
+    "id": 45963,
+    "fecha": "04 de May del 2026 a las 02:02 AM",
+    "hora_utc": "2026-05-04 06:02",
+    "mensaje": "Actualización del servicio eléctrico en la provincia.\n👉En este momento la provincia tiene 75 MW de afectación por déficit de capacidad de generación, demanda máxima posible a apagar en estos momentos.\n👉De los circuitos apagables que presenta la provincia, se mantienen afectados 99 circuitos.\n👉Cuenta con 81 afectaciones por averías secundarias y de servicio.",
+    "timestamp": 1777874522,
+    "timestamp_local": 1777874522
+  },
+  {
+    "id": 45962,
+    "fecha": "04 de May del 2026 a las 01:03 AM",
+    "hora_utc": "2026-05-04 05:03",
+    "mensaje": "Afectado 77 MW en la provincia, demanda máxima a apagar en estos momentos.",
+    "timestamp": 1777871033,
+    "timestamp_local": 1777871033
+  },
+  {
     "id": 45961,
     "fecha": "04 de May del 2026 a las 01:02 AM",
     "hora_utc": "2026-05-04 05:02",
@@ -118,37 +150,5 @@
     "mensaje": "Actualización del servicio eléctrico en la provincia.\n👉En este momento la provincia tiene 139 MW de afectación por déficit de capacidad de generación, demanda máxima posible a apagar en estos momentos.\n👉De los circuitos apagables que presenta la provincia, se mantienen afectados 133 circuitos.\n👉Cuenta con 88 afectaciones por averías secundarias y de servicio.",
     "timestamp": 1777853463,
     "timestamp_local": 1777853463
-  },
-  {
-    "id": 45944,
-    "fecha": "03 de May del 2026 a las 07:21 PM",
-    "hora_utc": "2026-05-03 23:21",
-    "mensaje": "💡Restablecido el servicio eléctrico en el siguiente circuito:\n🔹Municipio Santa Clara: \n👉Cto 167 (Virginia)",
-    "timestamp": 1777850512,
-    "timestamp_local": 1777850512
-  },
-  {
-    "id": 45943,
-    "fecha": "03 de May del 2026 a las 07:16 PM",
-    "hora_utc": "2026-05-03 23:16",
-    "mensaje": "⚠️Afectado por manipulación el Cto 167 (Virginia), perteneciente al municipio Santa Clara, para reponer transformador.",
-    "timestamp": 1777850204,
-    "timestamp_local": 1777850204
-  },
-  {
-    "id": 45942,
-    "fecha": "03 de May del 2026 a las 07:01 PM",
-    "hora_utc": "2026-05-03 23:01",
-    "mensaje": "Afectado 135 MW en la provincia, demanda máxima a apagar en estos momentos.",
-    "timestamp": 1777849304,
-    "timestamp_local": 1777849304
-  },
-  {
-    "id": 45941,
-    "fecha": "03 de May del 2026 a las 06:25 PM",
-    "hora_utc": "2026-05-03 22:25",
-    "mensaje": "⚡En avería la línea del 1965, se estudian las causas:\n🔹Municipio Cifuentes:\n👉Ctos 114 y 117\n👉Ctos 116 y 155 Mata\n👉Cto 186 Batey Unidad Proletaria\n👉Cto 184 Sitio Grande",
-    "timestamp": 1777847116,
-    "timestamp_local": 1777847116
   }
 ]

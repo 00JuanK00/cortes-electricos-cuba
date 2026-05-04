@@ -1,5 +1,37 @@
 [
   {
+    "id": 37448,
+    "fecha": "04 de May del 2026 a las 03:25 AM",
+    "hora_utc": "2026-05-04 07:25",
+    "mensaje": "📌 Estimados Clientes 📌\n\n¿Qué es una vía libre de emergencia?\nEs un permiso de trabajo que se establece sobre un área determinada para realizar acciones en las redes eléctricas. Estas no pueden ser programadas pues se realizan ante averías que implican la afectación del servicio en todo un circuito o parte del mismo. La tardanza de esta depende de la magnitud del trabajo que se tenga que realizar en el lugar. \n\n*Grupo de Comunicación Institucional.",
+    "timestamp": 1777879520,
+    "timestamp_local": 1777879520
+  },
+  {
+    "id": 37447,
+    "fecha": "04 de May del 2026 a las 02:45 AM",
+    "hora_utc": "2026-05-04 06:45",
+    "mensaje": "📌 Estimados clientes 📌\nMicrosistema:\nEs un pequeño sistema que se crea para que con una parte de las máquinas generadoras de una región poder energizar servicios vitales y Termoeléctricas (CTE), con esta se incrementa paulatinamente las cargas, garantiza su arranque y sincronización hasta recuperar el Sistema Eléctrico Nacional.\n\n*Grupo de Comunicación Institucional.",
+    "timestamp": 1777877120,
+    "timestamp_local": 1777877120
+  },
+  {
+    "id": 37446,
+    "fecha": "04 de May del 2026 a las 02:39 AM",
+    "hora_utc": "2026-05-04 06:39",
+    "mensaje": "Por déficit de capacidad de generación se encuentran afectados 86 mw.\n\n*Grupo de Comunicación Institucional.",
+    "timestamp": 1777876762,
+    "timestamp_local": 1777876762
+  },
+  {
+    "id": 37445,
+    "fecha": "04 de May del 2026 a las 01:36 AM",
+    "hora_utc": "2026-05-04 05:36",
+    "mensaje": "📌Estimados Clientes📌\n\n🏭El Sistema Eléctrico Nacional este compuesto por:\n\n⚡️Unidades de generación\n⚡️Unidades de transmisión\n⚡️Unidades de distribución \n\n\n🔹🔹 ¿Que son los Microsistemas?\nPequeños sistemas eléctricos que están conectados por la red de distribución, se alimentan de sistemas de generación (motores de Fuel Oil, Diesel), que están en la misma red de distribución.\n\n🔷🔷 ¿Que son las Islas?\nEs un sistema eléctrico mas grande, incluye elementos de la red de transmisión y se enfocan en hacer arrancar el sistema base.\n\n🔴 ¿Que sucede si ocurre una desconexión del Sistema Eléctrico Nacional?   \nCuando se desconecta el SEN inicia un proceso de restauración, y se crean microsistemas eléctricos, que se agrupan en islas para abastecer la base del SEN (Termoeléctricas).\n\n\n*Grupo de Comunicación Institucional.",
+    "timestamp": 1777872961,
+    "timestamp_local": 1777872961
+  },
+  {
     "id": 37444,
     "fecha": "04 de May del 2026 a las 01:01 AM",
     "hora_utc": "2026-05-04 05:01",
@@ -126,37 +158,5 @@
     "mensaje": "Por déficit de capacidad de generación se encuentran afectados 127 mw.\n\n*Grupo de Comunicación Institucional.",
     "timestamp": 1777846912,
     "timestamp_local": 1777846912
-  },
-  {
-    "id": 37428,
-    "fecha": "03 de May del 2026 a las 06:18 PM",
-    "hora_utc": "2026-05-03 22:18",
-    "mensaje": "📌 Estimados clientes 📌\n\n\n☀️⚡️| Conexión correcta de paneles solares a la red.\n\n✅ Para conectar paneles solares a la red eléctrica del hogar de forma segura y eficiente, primero los paneles deben unirse entre sí (en serie o paralelo) para generar la corriente continua (DC), la cual pasa a un inversor que la convierte en corriente alterna (AC) compatible con la red doméstica.\n\n✅Esta salida se conecta al tablero eléctrico a través de un interruptor dedicado y protecciones como disyuntores y supresores de sobretensión para evitar daños, y debe incluir un medidor bidireccional si se inyecta energía a la red pública. \n\n✅ Es fundamental que la instalación tenga una correcta puesta a tierra, dispositivos de desconexión rápida y que respete la normativa local, ya que una mala conexión puede causar fallas, pérdidas de eficiencia o incluso riesgos eléctricos. \n\n✅ Se recomienda que el sistema sea diseñado e instalado por un profesional certificado.\n\n\n*Grupo de Comunicación Institucional.",
-    "timestamp": 1777846681,
-    "timestamp_local": 1777846681
-  },
-  {
-    "id": 37427,
-    "fecha": "03 de May del 2026 a las 05:35 PM",
-    "hora_utc": "2026-05-03 21:35",
-    "mensaje": "📌 Estimados Clientes 📌\n\nLabor del Liniero:\n Encargado de instalar y hacer mantenimiento a las líneas eléctricas, además de la instalación de transformadores y sistemas afines.\n\n*Grupo de Comunicación Institucional.",
-    "timestamp": 1777844124,
-    "timestamp_local": 1777844124
-  },
-  {
-    "id": 37426,
-    "fecha": "03 de May del 2026 a las 05:31 PM",
-    "hora_utc": "2026-05-03 21:31",
-    "mensaje": "Por déficit de capacidad de generación se encuentran afectados 120 mw.\n\n*Grupo de Comunicación Institucional.",
-    "timestamp": 1777843914,
-    "timestamp_local": 1777843914
-  },
-  {
-    "id": 37425,
-    "fecha": "03 de May del 2026 a las 04:20 PM",
-    "hora_utc": "2026-05-03 20:20",
-    "mensaje": "📌 Estimados Clientes 📌\n\n¿Que es una fase invertida?\nUna fase invertida no es más que cuando se invierten las fases en la electricidad en un área determinada y como consecuencia de esto provoca una entrada de corriente mayor a la normal. \nEjemplos: Cuando se trata de 110 volt entonces pasa a ser 220 volt y cuando se trata de 220 volt aumenta a 240 volt.\n\n*Grupo de Comunicación Institucional.",
-    "timestamp": 1777839629,
-    "timestamp_local": 1777839629
   }
 ]
