@@ -1,5 +1,29 @@
 [
   {
+    "id": 45947,
+    "fecha": "03 de May del 2026 a las 09:01 PM",
+    "hora_utc": "2026-05-04 01:01",
+    "mensaje": "Afectado 139 MW en la provincia, demanda máxima a apagar en estos momentos.",
+    "timestamp": 1777856485,
+    "timestamp_local": 1777856485
+  },
+  {
+    "id": 45946,
+    "fecha": "03 de May del 2026 a las 08:13 PM",
+    "hora_utc": "2026-05-04 00:13",
+    "mensaje": "⚠️Afectado el servicio eléctrico en los siguientes circuitos:\n🔹Municipio Santo Domingo:\n👉Cto 134\n👉Ctos 87 y 96 Bermejal\n👉Cto 187 Batey Carlos Baliño\n👉Cto 82 Ulacia\n👉Cto 84 Rodrigo",
+    "timestamp": 1777853593,
+    "timestamp_local": 1777853593
+  },
+  {
+    "id": 45945,
+    "fecha": "03 de May del 2026 a las 08:11 PM",
+    "hora_utc": "2026-05-04 00:11",
+    "mensaje": "Actualización del servicio eléctrico en la provincia.\n👉En este momento la provincia tiene 139 MW de afectación por déficit de capacidad de generación, demanda máxima posible a apagar en estos momentos.\n👉De los circuitos apagables que presenta la provincia, se mantienen afectados 133 circuitos.\n👉Cuenta con 88 afectaciones por averías secundarias y de servicio.",
+    "timestamp": 1777853463,
+    "timestamp_local": 1777853463
+  },
+  {
     "id": 45944,
     "fecha": "03 de May del 2026 a las 07:21 PM",
     "hora_utc": "2026-05-03 23:21",
@@ -134,29 +158,5 @@
     "mensaje": "💡Restablecido el servicio eléctrico en el siguiente circuito:\n🔹Municipio Santa Clara\n👉Cto 132 (Santa Clara Industrial)",
     "timestamp": 1777838040,
     "timestamp_local": 1777838040
-  },
-  {
-    "id": 45927,
-    "fecha": "03 de May del 2026 a las 03:41 PM",
-    "hora_utc": "2026-05-03 19:41",
-    "mensaje": "💡Restablecido el servicio eléctrico en los siguientes circuitos:\n🔹Municipio Santa Clara:\n👉Ctos 1 y 2 (Consejo- Centro)",
-    "timestamp": 1777837303,
-    "timestamp_local": 1777837303
-  },
-  {
-    "id": 45926,
-    "fecha": "03 de May del 2026 a las 03:35 PM",
-    "hora_utc": "2026-05-03 19:35",
-    "mensaje": "💡Restablecido el servicio eléctrico en el siguiente circuito:\n🔹Municipio Santa Clara:\n👉Cto 3 (Consejo- Centro)",
-    "timestamp": 1777836950,
-    "timestamp_local": 1777836950
-  },
-  {
-    "id": 45925,
-    "fecha": "03 de May del 2026 a las 03:21 PM",
-    "hora_utc": "2026-05-03 19:21",
-    "mensaje": "⚠️Afectado el servicio eléctrico en los siguientes circuitos:\n🔹Municipio Caibarién:\n👉 Ctos 61, 62\n👉Ctos 182 y 183 Van Troy",
-    "timestamp": 1777836098,
-    "timestamp_local": 1777836098
   }
 ]
