@@ -1,5 +1,21 @@
 [
   {
+    "id": 53027,
+    "fecha": "04 de May del 2026 a las 05:56 PM",
+    "hora_utc": "2026-05-04 21:56",
+    "mensaje": "🔴Circuito en avería:                                                                                                                          Sucede si un circuito se interrumpe por causa de un defecto en un cable conductor de corriente (fase o neutro), un fusible fundido o disyuntor. En sistemas trifásicos una falla puede implicar una fase, más de una fase con la tierra o puede ocurrir solo entre fases.",
+    "timestamp": 1777931799,
+    "timestamp_local": 1777931799
+  },
+  {
+    "id": 53026,
+    "fecha": "04 de May del 2026 a las 05:56 PM",
+    "hora_utc": "2026-05-04 21:56",
+    "mensaje": "🔴Estimados clientes se les comunica que en estos momentos se encuentra en Avería la LI 5380-Mella .",
+    "timestamp": 1777931774,
+    "timestamp_local": 1777931774
+  },
+  {
     "id": 53023,
     "fecha": "04 de May del 2026 a las 04:30 PM",
     "hora_utc": "2026-05-04 20:30",
@@ -126,21 +142,5 @@
     "mensaje": "🔊Estimados clientes en estos momentos se encuentra afectados por Déficit de Capacidad de Generación el circuito 12",
     "timestamp": 1777922495,
     "timestamp_local": 1777922495
-  },
-  {
-    "id": 53006,
-    "fecha": "04 de May del 2026 a las 03:11 PM",
-    "hora_utc": "2026-05-04 19:11",
-    "mensaje": "🚨Disparo Automático de Frecuencia (DAF):\nOcurre cuando la frecuencia está por debajo de los 60Hz y determinada carga o circuito se desconecta del sistema automáticamente hasta que se estabilice.",
-    "timestamp": 1777921905,
-    "timestamp_local": 1777921905
-  },
-  {
-    "id": 53005,
-    "fecha": "04 de May del 2026 a las 03:11 PM",
-    "hora_utc": "2026-05-04 19:11",
-    "mensaje": "🔊Estimados clientes en estos momentos se encuentra Disparado por DAF el circuito 4 de Palma",
-    "timestamp": 1777921884,
-    "timestamp_local": 1777921884
   }
 ]
