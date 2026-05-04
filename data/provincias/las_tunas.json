@@ -1,5 +1,13 @@
 [
   {
+    "id": 18946,
+    "fecha": "04 de May del 2026 a las 07:16 AM",
+    "hora_utc": "2026-05-04 11:16",
+    "mensaje": "📆Situación del SEN para el 4 de mayo de 2026.\n\n\n👉En el día de ayer se afectó el servicio por déficit de capacidad durante las 24 horas y se mantuvo la afectación durante todo el horario de la madrugada. La máxima afectación por déficit de capacidad de generación en el día de ayer fue de 1346 MW a las 19:10 horas.\n\n☀️La producción de energía de los 54 nuevos parques solares fotovoltaicos fue de 3889 MWh, con 550 MW como máxima potencia entregada en el horario de la media con esta fuente de generación.  \n\n👉La disponibilidad del SEN a las 06:00 horas es de 1700 MW, la demanda 2480 MW con 850 MW afectados. En el horario de la media se estima una afectación de 950 MW.  \n\n🛠️Se encuentran en avería la unidad 8 de la CTE Mariel, la unidad 2 de la CTE Felton y la unidad 5 de la CTE Renté. Se encuentran en mantenimiento la unidad 5 de la CTE Mariel, la unidad 5 de la CTE Nuevitas y la unidad 6 de la CTE Renté.\n\n👉Las limitaciones en la generación térmica son de 477 MW.\n\n📈Para el pico se prevé la entrada de la unidad 1 de Energás Varadero con 30 MW.    \n   \n📝Con este pronóstico se prevé para el horario de máxima demanda una disponibilidad de 1730 MW con una demanda máxima de 3100 MW, para un déficit de 1370 MW, por lo que de mantenerse las condiciones previstas se pronostica una afectación de 1400 MW en este horario.\n\nUNE-MINEM---07:00 horas.",
+    "timestamp": 1777893416,
+    "timestamp_local": 1777893416
+  },
+  {
     "id": 18945,
     "fecha": "03 de May del 2026 a las 10:26 PM",
     "hora_utc": "2026-05-04 02:26",
@@ -94,13 +102,5 @@
     "mensaje": "Restablecido el servicio eléctrico al circuito TK2 Bonachea que se encontraba afectado por disparo automático por frecuencia (DAF)",
     "timestamp": 1777589317,
     "timestamp_local": 1777589317
-  },
-  {
-    "id": 18924,
-    "fecha": "30 de Apr del 2026 a las 06:03 PM",
-    "hora_utc": "2026-04-30 22:03",
-    "mensaje": "Qué es un disparo por DAF?\nEl Disparo por Frecuencia (DAF) es un mecanismo de protección del sistema eléctrico. Se activa automáticamente cuando la frecuencia desciende por debajo de los valores mínimos seguros (menores de 60 Hz), lo que pone en riesgo la estabilidad del sistema.\nEn ese momento, algunos circuitos se desconectan de forma automática para aliviar la carga y permitir que la frecuencia vuelva a su valor nominal.\nEsto suele ocurrir cuando una planta generadora sale de servicio de manera imprevista, provocando un déficit de generación. El DAF ayuda a evitar un colapso mayor del sistema, aunque puede generar afectaciones al servicio como apagones parciales.",
-    "timestamp": 1777586618,
-    "timestamp_local": 1777586618
   }
 ]

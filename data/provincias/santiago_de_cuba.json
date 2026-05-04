@@ -1,5 +1,21 @@
 [
   {
+    "id": 52991,
+    "fecha": "04 de May del 2026 a las 07:30 AM",
+    "hora_utc": "2026-05-04 11:30",
+    "mensaje": "🚨Estimados clientes en estos momentos se encuentra afectados por Déficit de Capacidad de Generación los circuitos 1 , 7 seccionalizado ,  14 , 19 , 21 de Santiago , línea 4385 Contramaestre , 5380 Mella  , disculpen por las molestias ocasionadas.",
+    "timestamp": 1777894213,
+    "timestamp_local": 1777894213
+  },
+  {
+    "id": 52990,
+    "fecha": "04 de May del 2026 a las 06:37 AM",
+    "hora_utc": "2026-05-04 10:37",
+    "mensaje": "🚨Estimados clientes en estos momentos se encuentra afectados por Déficit de Capacidad de Generación los circuitos 8 , 11 ,  20 , 25 de Santiago , 4 de Palma  , línea 5395 San Luis , 5385 San Luis - Palma , disculpen por las molestias ocasionadas.",
+    "timestamp": 1777891076,
+    "timestamp_local": 1777891076
+  },
+  {
     "id": 52986,
     "fecha": "03 de May del 2026 a las 11:42 PM",
     "hora_utc": "2026-05-04 03:42",
@@ -102,21 +118,5 @@
     "mensaje": "🔴Déficit de Capacidad de Generación:\nSe produce cuando la demanda del Sistema Eléctrico Nacional,en determinado horario del día supera la generación disponible del país ,provocando la desconexión de los circuitos o líneas que permitan garantizar la frecuencia del SEN.",
     "timestamp": 1777821426,
     "timestamp_local": 1777821426
-  },
-  {
-    "id": 52971,
-    "fecha": "03 de May del 2026 a las 11:16 AM",
-    "hora_utc": "2026-05-03 15:16",
-    "mensaje": "🚨Le informamos a nuestros clientes que se incorpora a la afectación por Déficit la LI 5380-Mella .",
-    "timestamp": 1777821391,
-    "timestamp_local": 1777821391
-  },
-  {
-    "id": 52970,
-    "fecha": "03 de May del 2026 a las 11:13 AM",
-    "hora_utc": "2026-05-03 15:13",
-    "mensaje": "🔴Estimados clientes se incorporan a la afectación por Déficit los circuitos 2 de Palma y 2 de Contramaestre.",
-    "timestamp": 1777821238,
-    "timestamp_local": 1777821238
   }
 ]
