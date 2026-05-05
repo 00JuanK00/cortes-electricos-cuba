@@ -1,5 +1,69 @@
 [
   {
+    "id": 46075,
+    "fecha": "05 de May del 2026 a las 03:51 PM",
+    "hora_utc": "2026-05-05 19:51",
+    "mensaje": "⚠️Afectado el servicio eléctrico en los siguientes circuitos:\n🔹Municipio Encrucijada\n👉Cto 120 Calabazar\n👉Ctos 121 y 127 Perucho\n🔹Municipio Placetas:\n👉Cto 192 Benito Juárez\n👉Cto 102 Peroti",
+    "timestamp": 1778010696,
+    "timestamp_local": 1778010696
+  },
+  {
+    "id": 46074,
+    "fecha": "05 de May del 2026 a las 03:46 PM",
+    "hora_utc": "2026-05-05 19:46",
+    "mensaje": "⚠️Afectado el servicio eléctrico en los siguientes circuitos:\n🔹Municipio Remedios:\n👉Ctos  68 y 118",
+    "timestamp": 1778010399,
+    "timestamp_local": 1778010399
+  },
+  {
+    "id": 46073,
+    "fecha": "05 de May del 2026 a las 03:20 PM",
+    "hora_utc": "2026-05-05 19:20",
+    "mensaje": "⚠️Afectado el servicio eléctrico en los siguientes circuitos:\n🔹Municipio Camajuaní:\n👉Ctos  72  y 156",
+    "timestamp": 1778008828,
+    "timestamp_local": 1778008828
+  },
+  {
+    "id": 46072,
+    "fecha": "05 de May del 2026 a las 03:19 PM",
+    "hora_utc": "2026-05-05 19:19",
+    "mensaje": "⚡Afectada por disparo por DAF la siguiente Línea.\n➡️Línea 1715 \n🔹Municipio Santo Domingo:\n👉Cto 134\n👉Ctos 87 y 96 Bermejal\n👉Cto 187 Batey Carlos Baliño\n👉Cto 82 Ulacia\n👉Cto 84 Rodrigo",
+    "timestamp": 1778008763,
+    "timestamp_local": 1778008763
+  },
+  {
+    "id": 46071,
+    "fecha": "05 de May del 2026 a las 03:11 PM",
+    "hora_utc": "2026-05-05 19:11",
+    "mensaje": "💡Con servicio eléctrico los siguientes circuitos:\n🔹Municipio Caibarién:\n👉 Ctos 61, 62\n👉Ctos 182 y 183 Van Troy",
+    "timestamp": 1778008295,
+    "timestamp_local": 1778008295
+  },
+  {
+    "id": 46070,
+    "fecha": "05 de May del 2026 a las 02:55 PM",
+    "hora_utc": "2026-05-05 18:55",
+    "mensaje": "💡Con servicio eléctrico el siguiente circuito:\n🔹Municipio Camajuaní:\n👉Cto 74 José María Pérez",
+    "timestamp": 1778007313,
+    "timestamp_local": 1778007313
+  },
+  {
+    "id": 46069,
+    "fecha": "05 de May del 2026 a las 02:03 PM",
+    "hora_utc": "2026-05-05 18:03",
+    "mensaje": "⚠️Afectado el servicio eléctrico en los siguientes circuitos:\n🔹Municipio Quemado:\n👉Ctos 164, 52  Quemado.\n👉Cto 196 Batey Panchito Gómez Toro.",
+    "timestamp": 1778004187,
+    "timestamp_local": 1778004187
+  },
+  {
+    "id": 46068,
+    "fecha": "05 de May del 2026 a las 02:01 PM",
+    "hora_utc": "2026-05-05 18:01",
+    "mensaje": "Actualización del servicio eléctrico en la provincia.\n👉En este momento la provincia tiene 89 MW de afectación por déficit de capacidad de generación, demanda máxima posible a apagar en estos momentos.\n👉De los circuitos apagables que presenta la provincia, se mantienen afectados 99 circuitos.\n👉Cuenta con 217 afectaciones por averías secundarias y de servicio.",
+    "timestamp": 1778004117,
+    "timestamp_local": 1778004117
+  },
+  {
     "id": 46067,
     "fecha": "05 de May del 2026 a las 01:52 PM",
     "hora_utc": "2026-05-05 17:52",
@@ -78,69 +142,5 @@
     "mensaje": "➡️Los disparos de circuito tienen diferentes aristas todas con distintos significados, es decir que ocurren por varias causas. Entre ellas encontramos:\n\n👉-Disparo de Circuito con Recierre: El conocido por los clientes como “quita y pon de corriente” es un tipo de protección utilizada mundialmente a partir del 80% aproximadamente de las interrupciones eléctricas son transitorias. Este fenómeno lo hace una sola vez ante un evento de red y no es dañino para para nuestros equipos electrodomésticos.\n\n👉- Disparo Automático por Frecuencia (DAF): El disparo por DAF ocurre cuando la frecuencia llega a valores mínimos permisibles que ponen en peligro la estabilidad del mismo y como protección desconecta varios circuitos de la Capital. Los mismo restablecen a medida que se vaya recuperando la frecuencia que tiene un valor de 60hz o ciclos por segundo.\n\n👉-Disparo de Circuito por Sobrecarga: Este ocurre mayormente en los horarios pico y en verano, ya que las altas temperaturas generan elevados consumos en la población y como consecuencia de ello fallas en los circuitos.\n\n👉-Disparo de Circuito por Posible Avería: Este fenómeno ocurre cuando existe una falla en algún circuito, ya sea soterrado, aéreo o en una subestación. Estas, a pesar de que son mucho más frecuentes cuando existe algún evento climatológico, pueden ocurrir en cualquier momento del día o la noche, ya que son situaciones que no cuentan con programación.",
     "timestamp": 1777995123,
     "timestamp_local": 1777995123
-  },
-  {
-    "id": 46054,
-    "fecha": "05 de May del 2026 a las 11:18 AM",
-    "hora_utc": "2026-05-05 15:18",
-    "mensaje": "⚡Afectado por disparo el circuito 73 del municipio Camajuani, se estudian las causas.",
-    "timestamp": 1777994334,
-    "timestamp_local": 1777994334
-  },
-  {
-    "id": 46053,
-    "fecha": "05 de May del 2026 a las 10:56 AM",
-    "hora_utc": "2026-05-05 14:56",
-    "mensaje": "💡Con servicio eléctrico los siguientes circuitos:\n🔹Municipio Camajuaní:\n👉Ctos  73 y 156 \n👉Cto 74 José María Pérez",
-    "timestamp": 1777992997,
-    "timestamp_local": 1777992997
-  },
-  {
-    "id": 46052,
-    "fecha": "05 de May del 2026 a las 10:41 AM",
-    "hora_utc": "2026-05-05 14:41",
-    "mensaje": "Actualización del servicio eléctrico en la provincia.\n👉En este momento la provincia tiene 88 MW de afectación por déficit de capacidad de generación, demanda máxima posible a apagar en estos momentos.\n👉De los circuitos apagables que presenta la provincia, se mantienen afectados 101 circuitos.\n👉Cuenta con 178 afectaciones por averías secundarias y de servicio.",
-    "timestamp": 1777992063,
-    "timestamp_local": 1777992063
-  },
-  {
-    "id": 46051,
-    "fecha": "05 de May del 2026 a las 10:33 AM",
-    "hora_utc": "2026-05-05 14:33",
-    "mensaje": "💡Con servicio eléctrico los siguientes circuitos:\n🔹Municipio Camajuaní:\n👉Ctos  72, 129",
-    "timestamp": 1777991609,
-    "timestamp_local": 1777991609
-  },
-  {
-    "id": 46050,
-    "fecha": "05 de May del 2026 a las 10:32 AM",
-    "hora_utc": "2026-05-05 14:32",
-    "mensaje": "⚠️Afectado el servicio eléctrico en los siguientes circuitos:\n🔹Municipio Camajuaní:\n👉Ctos 77 y 185 Vueltas",
-    "timestamp": 1777991526,
-    "timestamp_local": 1777991526
-  },
-  {
-    "id": 46049,
-    "fecha": "05 de May del 2026 a las 10:13 AM",
-    "hora_utc": "2026-05-05 14:13",
-    "mensaje": "⚠️Afectado el servicio eléctrico en los siguientes circuitos:\n🔹Municipio Caibarién\n👉Ctos 182 y 183 Van Troy\n👉 Ctos 61, 62",
-    "timestamp": 1777990420,
-    "timestamp_local": 1777990420
-  },
-  {
-    "id": 46048,
-    "fecha": "05 de May del 2026 a las 10:12 AM",
-    "hora_utc": "2026-05-05 14:12",
-    "mensaje": "💡Con servicio eléctrico los siguientes circuitos:\n🔹Municipio Placetas:\n👉Ctos 101 y 145 Cumbre",
-    "timestamp": 1777990377,
-    "timestamp_local": 1777990377
-  },
-  {
-    "id": 46047,
-    "fecha": "05 de May del 2026 a las 10:06 AM",
-    "hora_utc": "2026-05-05 14:06",
-    "mensaje": "💡Con servicio eléctrico los siguientes circuitos:\n🔹Municipio Cifuentes:\n👉Ctos 114 y 117\n👉Ctos 116 y 155 Mata\n👉Cto 186 Batey Unidad Proletaria\n👉Cto 184 Sitio Grande",
-    "timestamp": 1777990002,
-    "timestamp_local": 1777990002
   }
 ]
