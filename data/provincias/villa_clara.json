@@ -1,5 +1,29 @@
 [
   {
+    "id": 46067,
+    "fecha": "05 de May del 2026 a las 01:52 PM",
+    "hora_utc": "2026-05-05 17:52",
+    "mensaje": "⚠️Afectado el servicio eléctrico en los siguientes circuitos:\n🔹Municipio Santa Clara\n👉Cto 132 (Santa Clara Industrial)\n👉Cto 162 (Santa Clara Industrial)\n👉Cto 31 (Santa Clara Industrial)",
+    "timestamp": 1778003529,
+    "timestamp_local": 1778003529
+  },
+  {
+    "id": 46066,
+    "fecha": "05 de May del 2026 a las 01:35 PM",
+    "hora_utc": "2026-05-05 17:35",
+    "mensaje": "➡️Los disparos de circuito tienen diferentes aristas todas con distintos significados, es decir que ocurren por varias causas. Entre ellas encontramos:\n\n👉-Disparo de Circuito con Recierre: El conocido por los clientes como “quita y pon de corriente” es un tipo de protección utilizada mundialmente a partir del 80% aproximadamente de las interrupciones eléctricas son transitorias. Este fenómeno lo hace una sola vez ante un evento de red y no es dañino para para nuestros equipos electrodomésticos.\n\n👉- Disparo Automático por Frecuencia (DAF): El disparo por DAF ocurre cuando la frecuencia llega a valores mínimos permisibles que ponen en peligro la estabilidad del mismo y como protección desconecta varios circuitos de la Capital. Los mismo restablecen a medida que se vaya recuperando la frecuencia que tiene un valor de 60hz o ciclos por segundo.\n\n👉-Disparo de Circuito por Sobrecarga: Este ocurre mayormente en los horarios pico y en verano, ya que las altas temperaturas generan elevados consumos en la población y como consecuencia de ello fallas en los circuitos.\n\n👉-Disparo de Circuito por Posible Avería: Este fenómeno ocurre cuando existe una falla en algún circuito, ya sea soterrado, aéreo o en una subestación. Estas, a pesar de que son mucho más frecuentes cuando existe algún evento climatológico, pueden ocurrir en cualquier momento del día o la noche, ya que son situaciones que no cuentan con programación.",
+    "timestamp": 1778002531,
+    "timestamp_local": 1778002531
+  },
+  {
+    "id": 46064,
+    "fecha": "05 de May del 2026 a las 01:34 PM",
+    "hora_utc": "2026-05-05 17:34",
+    "mensaje": "Afectada por disparo la Línea 1365.\n➡️Línea 1365\n🔹Municipio Remedios:\n👉Ctos 67 y 152, 68 y 118 \n👉Ctos 69 y 70 Zuluetas\n👉Cto 143 Batey Heriberto Duquezne (en avería)\n👉Cto 71 Buena Vista (en avería)",
+    "timestamp": 1778002470,
+    "timestamp_local": 1778002470
+  },
+  {
     "id": 46062,
     "fecha": "05 de May del 2026 a las 12:15 PM",
     "hora_utc": "2026-05-05 16:15",
@@ -99,7 +123,7 @@
     "id": 46049,
     "fecha": "05 de May del 2026 a las 10:13 AM",
     "hora_utc": "2026-05-05 14:13",
-    "mensaje": "⚠️Afectado el servicio eléctrico en los siguientes circuitos:\n🔹Municipio Caibarién\n\n👉Ctos 182 y 183 Van Troy\n👉 Ctos 61, 62",
+    "mensaje": "⚠️Afectado el servicio eléctrico en los siguientes circuitos:\n🔹Municipio Caibarién\n👉Ctos 182 y 183 Van Troy\n👉 Ctos 61, 62",
     "timestamp": 1777990420,
     "timestamp_local": 1777990420
   },
@@ -118,37 +142,5 @@
     "mensaje": "💡Con servicio eléctrico los siguientes circuitos:\n🔹Municipio Cifuentes:\n👉Ctos 114 y 117\n👉Ctos 116 y 155 Mata\n👉Cto 186 Batey Unidad Proletaria\n👉Cto 184 Sitio Grande",
     "timestamp": 1777990002,
     "timestamp_local": 1777990002
-  },
-  {
-    "id": 46046,
-    "fecha": "05 de May del 2026 a las 09:35 AM",
-    "hora_utc": "2026-05-05 13:35",
-    "mensaje": "💡Con servicio eléctrico los siguientes circuitos:\n🔹Municipio Encrucijada\n👉Cto 120 Calabazar\n👉Ctos 121 y 127 Perucho",
-    "timestamp": 1777988157,
-    "timestamp_local": 1777988157
-  },
-  {
-    "id": 46045,
-    "fecha": "05 de May del 2026 a las 09:32 AM",
-    "hora_utc": "2026-05-05 13:32",
-    "mensaje": "🔴 9:12 || Según lo previsto, ya se encuentra fuera de línea la Unidad de la CTE Antonio Guiteras para su mantenimiento.",
-    "timestamp": 1777987948,
-    "timestamp_local": 1777987948
-  },
-  {
-    "id": 46044,
-    "fecha": "05 de May del 2026 a las 09:10 AM",
-    "hora_utc": "2026-05-05 13:10",
-    "mensaje": "⚠️Afectado el servicio eléctrico en los siguientes circuitos:\n🔹Municipio Encrucijada:\n👉Cto 122 Encrucijada  \n👉Cto 123 Vizcaya \n👉Cto 142 Comunidad La Sierra \n👉Cto 126 Batey Emilio Córdova\n👉Cto 125 Cavarrocas\n👉Cto 124 El Santo\n🔹Municipio Camajuaní:                                                              \n👉Cto 78 Jutiero\n👉Cto 75 La Quinta\n👉Cto 157 Luis Arcos Bergnes\n👉Ctos 76 y 90 Vega Alta",
-    "timestamp": 1777986619,
-    "timestamp_local": 1777986619
-  },
-  {
-    "id": 46043,
-    "fecha": "05 de May del 2026 a las 09:04 AM",
-    "hora_utc": "2026-05-05 13:04",
-    "mensaje": "⚡ Actualización del Sistema Electroenergético Nacional para el 5 de mayo de 2026.\n\nLeer más: https://www.unionelectrica.cu/nota-informativa/\n\n#UnidosXCuba #UniónEléctrica #UNE #NotaInformativa",
-    "timestamp": 1777986272,
-    "timestamp_local": 1777986272
   }
 ]
