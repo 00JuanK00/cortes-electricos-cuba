@@ -1,5 +1,29 @@
 [
   {
+    "id": 46103,
+    "fecha": "06 de May del 2026 a las 08:07 AM",
+    "hora_utc": "2026-05-06 12:07",
+    "mensaje": "Actualización del servicio eléctrico en la provincia.\n👉En este momento la provincia tiene 97 MW de afectación por déficit de capacidad de generación, demanda máxima posible a apagar en estos momentos.\n👉De los circuitos apagables que presenta la provincia, se mantienen afectados 115 circuitos.\n👉Cuenta con 103 afectaciones por averías secundarias y de servicio.",
+    "timestamp": 1778069244,
+    "timestamp_local": 1778069244
+  },
+  {
+    "id": 46101,
+    "fecha": "06 de May del 2026 a las 07:13 AM",
+    "hora_utc": "2026-05-06 11:13",
+    "mensaje": "🚨Nota informativa.🚨 \n\n📆Situación del SEN para el 6 de mayo de 2026.\n\n👉 En el día de ayer se afectó el servicio por déficit de capacidad durante las 24 horas y se mantuvo la afectación durante todo el horario de la madrugada. La máxima afectación por déficit de capacidad de generación en el día de ayer fue de 1731 MW a las 20:20 horas, superior a lo planificado por salida de la unidad 5 de Energas Jaruco. \n\n☀️La producción de energía de los 54 nuevos parques solares fotovoltaicos fue de 3766 MWh, con 560 MW como máxima potencia entregada en el horario de la media con esta fuente de generación.  \n\n📈La disponibilidad del SEN a las 06:00 horas es de 1390 MW, la demanda 2772 MW con 1395 MW afectados. En el horario de la media se estima una afectación de 1200 MW.  \n\n🛠️Se encuentran en avería la unidad de la CTE Antonio Guiteras, la unidad 6 de la CTE Diez de Octubre, la unidad 2 de la CTE Felton y las unidades 3 y 5 de la CTE Renté. Se encuentran en mantenimiento la unidad 5 de la CTE Mariel, la unidad 5 de la CTE Nuevitas y la unidad 6 de la CTE Renté.\n\n◼️Las limitaciones en la generación térmica son de 254 MW.\n\n◼️Se pronostica la entrada para el horario de máxima demanda la unidad 6 de la CTE Nuevitas con 80 MW, la unidad 5 de Energas Jaruco con 30 MW y el completamiento de la carga de la unidad 6 con 30 MW de esta misma central.\n\n◼️Con este pronóstico se estima que para el horario de máxima demanda una disponibilidad de 1480 MW con una demanda máxima de 3200 MW, para un déficit de 1720MW, por lo que de mantenerse las condiciones previstas se pronostica una afectación de 1750 MW en este horario.\n\nUNE-MINEM",
+    "timestamp": 1778066026,
+    "timestamp_local": 1778066026
+  },
+  {
+    "id": 46100,
+    "fecha": "06 de May del 2026 a las 06:14 AM",
+    "hora_utc": "2026-05-06 10:14",
+    "mensaje": "🕕Actualización del servicio eléctrico en las últimas 6 horas.\n✍️El déficit de capacidad de generación en estos momentos es de 92 MW\n✍️En el momento de esta nota, se mantienen afectados 115 circuitos.\n✍️ Cuenta con 134 afectaciones por averías secundarias y de servicio:\n🔸Camajuaní (1)\n🔸 Cifuentes (3)\n🔸 Corralillo (6)\n🔸 Manicaragua (12)\n🔸 Placetas (9)\n🔸 Ranchuelo (22)\n🔸 Remedios (16) \n🔸 Sagua (14) \n🔸 Santa Clara (17)\n🔸 Santo Domingo (15)\n🛠️Se encuentran 1 averías en vías de solución.\n🛠️Pendientes a solucionar por el área técnica 18.\n\n⚡Averías⚡\n➡️Afectada parcialmente la línea 6580 (afectado el bombeo de Vueltas)\n➡️Municipio Corralillo\n👉Cto 56 Yabre \n👉 Cto 60 La Sierra\n➡️Afectado por avería de manera parcial el circuito 111 de Mataguá.",
+    "timestamp": 1778062470,
+    "timestamp_local": 1778062470
+  },
+  {
     "id": 46098,
     "fecha": "06 de May del 2026 a las 04:02 AM",
     "hora_utc": "2026-05-06 08:02",
@@ -110,45 +134,5 @@
     "mensaje": "Actualización del servicio eléctrico en la provincia.\n👉En este momento la provincia tiene 120 MW de afectación por déficit de capacidad de generación, demanda máxima posible a apagar en estos momentos.\n👉De los circuitos apagables que presenta la provincia, se mantienen afectados 115 circuitos.\n👉Cuenta con 148 afectaciones por averías secundarias y de servicio.",
     "timestamp": 1778026487,
     "timestamp_local": 1778026487
-  },
-  {
-    "id": 46083,
-    "fecha": "05 de May del 2026 a las 06:31 PM",
-    "hora_utc": "2026-05-05 22:31",
-    "mensaje": "⚠️Afectado el servicio eléctrico en los siguientes circuitos:\n🔹Municipio Santo Domingo:\n👉Cto 195 Batey George Washington\n👉Ctos 83 y 165 Manacas\n👉Ctos 85 y 86 Pajarito\n👉Ctos 160 y 161 Cascajal",
-    "timestamp": 1778020266,
-    "timestamp_local": 1778020266
-  },
-  {
-    "id": 46082,
-    "fecha": "05 de May del 2026 a las 06:08 PM",
-    "hora_utc": "2026-05-05 22:08",
-    "mensaje": "⚠️Afectado el servicio eléctrico en los siguientes circuitos:\n🔹Municipio Santa Clara\n👉Cto 7 (Universidad)  \n👉Cto 146 (Elevado Aeropuerto) \n👉Cto 22 (Construcciones Textil)\n👉Cto 131 (Las Antillas)\n👉Cto 153 (EIDE)\n👉Cto 25 (Los Güiros)\n👉Cto 24 (Planta Asfalto)\n👉Cto 35 (Biotecnología) \n👉Ctos 14, 15 y 27 (Maleza)",
-    "timestamp": 1778018908,
-    "timestamp_local": 1778018908
-  },
-  {
-    "id": 46081,
-    "fecha": "05 de May del 2026 a las 06:05 PM",
-    "hora_utc": "2026-05-05 22:05",
-    "mensaje": "🕕Actualización del servicio eléctrico en las últimas 6 horas.\n✍️El déficit de capacidad de generación en estos momentos es de 96 MW\n✍️En el momento de esta nota, se mantienen afectados 99 circuitos.\n✍️ Cuenta con 193 afectaciones por averías secundarias y de servicio:\n🔸Camajuaní (8)\n🔸 Cifuentes (3)\n🔸 Corralillo (10)\n🔸 Encrucijada (3)\n🔸 Manicaragua (12)\n🔸 Placetas (10)\n🔸 Ranchuelo (22)\n🔸 Remedios (19) \n🔸 Sagua (13) \n🔸 Santa Clara (54)\n🔸 Santo Domingo (15)\n🛠️Se encuentran 5 averías en vías de solución.\n🛠️Pendientes a solucionar por el área técnica 16.\n\n⚡Averías⚡\n➡️Municipio Remedios:\n👉Cto 143 Batey Heriberto Duquezne \n👉Cto 71 Buena Vista\n➡️Afectada por avería la Línea 6580( afectado el bombeo de Vueltas)\n➡️Municipio Corralillo\n👉Cto  57 Motembo \n👉Cto 56 Yabre \n👉 Cto 60 La Sierra",
-    "timestamp": 1778018730,
-    "timestamp_local": 1778018730
-  },
-  {
-    "id": 46080,
-    "fecha": "05 de May del 2026 a las 05:21 PM",
-    "hora_utc": "2026-05-05 21:21",
-    "mensaje": "⚠️Afectado el servicio eléctrico en los siguientes circuitos:\n🔹Municipio Placetas:\n👉Ctos 101 y 145 Cumbre",
-    "timestamp": 1778016095,
-    "timestamp_local": 1778016095
-  },
-  {
-    "id": 46079,
-    "fecha": "05 de May del 2026 a las 04:27 PM",
-    "hora_utc": "2026-05-05 20:27",
-    "mensaje": "Actualización del servicio eléctrico en la provincia.\n👉En este momento la provincia tiene 93 MW de afectación por déficit de capacidad de generación, demanda máxima posible a apagar en estos momentos.\n👉De los circuitos apagables que presenta la provincia, se mantienen afectados 99 circuitos.\n👉Cuenta con 188 afectaciones por averías secundarias y de servicio.",
-    "timestamp": 1778012878,
-    "timestamp_local": 1778012878
   }
 ]
