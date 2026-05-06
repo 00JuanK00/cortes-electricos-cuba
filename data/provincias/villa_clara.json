@@ -1,5 +1,37 @@
 [
   {
+    "id": 46161,
+    "fecha": "06 de May del 2026 a las 06:32 PM",
+    "hora_utc": "2026-05-06 22:32",
+    "mensaje": "Le informamos a nuestros clientes del municipio de Santa Clara que mañana miércoles 7 de Mayo se llevará a cabo un mantenimiento programado en el siguiente circuito:\n\n👉 Cto 13 Zona Industrial \n\nHorario establecida: 9:00 am - 2:00 pm\nObjetivo del trabajo : Realizar Poda de Árboles \n\nDurante el tiempo que duren estas labores, será necesario interrumpir temporalmente el servicio eléctrico en las áreas comprendidas en dicho circuito\n\nNuestros equipos técnicos trabajarán con la mayor celeridad posible para restablecer el servicio una vez concluidas las maniobras.",
+    "timestamp": 1778106724,
+    "timestamp_local": 1778106724
+  },
+  {
+    "id": 46160,
+    "fecha": "06 de May del 2026 a las 06:22 PM",
+    "hora_utc": "2026-05-06 22:22",
+    "mensaje": "🕛Actualización del servicio eléctrico.\n✍️El déficit de capacidad de generación en estos momentos es de 120 MW.\n✍️En el momento de esta nota, se mantienen afectados 111 circuitos.\n✍️ Cuenta con 203 afectaciones por averías secundarias y de servicio:\n🔸 Caibarién (4)\n🔸Camajuaní (13)\n🔸 Corralillo (5)\n🔸 Encrucijada (6)\n🔸 Manicaragua (17)\n🔸 Placetas (15)\n🔸 Ranchuelo (3)\n🔸 Remedios (23) \n🔸 Sagua (12) \n🔸 Santa Clara (63)\n🔸 Santo Domingo (10)\n🛠️Se encuentran 12 averías en vías de solución.\n🛠️Pendientes a solucionar por el área técnica 20.\n⚡Averías⚡\n➡️Afectado Bombeo de Vueltas, perteneciente a la línea 6580.\n➡️Afectados los siguientes circuitos:\nMunicipio Corralillo:\n👉Cto 56 Yabre \n👉 Cto 60 La Sierra\n➡️Afectado parcialmente el circuito 111 Mataguá (Ramal El Porvenir), del municipio Manicaragua.\n➡️ Afectado el circuito 1 Consejo-Centro del municipio Santa Clara, por cable primario partido a la salida de la subestación.",
+    "timestamp": 1778106125,
+    "timestamp_local": 1778106125
+  },
+  {
+    "id": 46159,
+    "fecha": "06 de May del 2026 a las 05:54 PM",
+    "hora_utc": "2026-05-06 21:54",
+    "mensaje": "⚠️Afectado el servicio eléctrico en los siguientes circuitos:\n🔹Municipio Santa Clara\n👉Ctos 26 y 141 Manuelita\n👉Cto 191 Quemado de Hilario",
+    "timestamp": 1778104473,
+    "timestamp_local": 1778104473
+  },
+  {
+    "id": 46158,
+    "fecha": "06 de May del 2026 a las 05:53 PM",
+    "hora_utc": "2026-05-06 21:53",
+    "mensaje": "Con servicio la línea 6375:\n🔹Municipio Santa Clara\n👉Cto 7 Universidad\n👉Cto 146 Elevado Aeropuerto\n👉Cto 22 Construcciones Textil\n👉Cto 131 Las Antillas\n👉Cto 153 EIDE\n👉Cto 25 Los Güiros\n👉Cto 24 Planta Asfalto\n👉Cto 35 Biotecnología \n👉Ctos 14, 15 y 27 Maleza",
+    "timestamp": 1778104439,
+    "timestamp_local": 1778104439
+  },
+  {
     "id": 46157,
     "fecha": "06 de May del 2026 a las 05:48 PM",
     "hora_utc": "2026-05-06 21:48",
@@ -126,37 +158,5 @@
     "mensaje": "⚠️Afectado el servicio eléctrico en el siguiente circuito:\n🔹Municipio Santa Clara:\n👉Cto 6 Vigía",
     "timestamp": 1778097743,
     "timestamp_local": 1778097743
-  },
-  {
-    "id": 46141,
-    "fecha": "06 de May del 2026 a las 03:55 PM",
-    "hora_utc": "2026-05-06 19:55",
-    "mensaje": "⚠️Afectado el servicio eléctrico en el siguiente circuito:\n🔹Municipio Santa Clara:\n👉Cto 4 Consejo-Centro",
-    "timestamp": 1778097358,
-    "timestamp_local": 1778097358
-  },
-  {
-    "id": 46140,
-    "fecha": "06 de May del 2026 a las 03:55 PM",
-    "hora_utc": "2026-05-06 19:55",
-    "mensaje": "🛠️Afectado por disparo el circuito 1 Consejo-Centro del municipio Santa Clara. Se estudian las causas.",
-    "timestamp": 1778097332,
-    "timestamp_local": 1778097332
-  },
-  {
-    "id": 46139,
-    "fecha": "06 de May del 2026 a las 03:44 PM",
-    "hora_utc": "2026-05-06 19:44",
-    "mensaje": "✍️ Una vez concluidas las acciones por parte de la brigada eléctrica en la avería del circuito 120 Calabazar la línea 1960 quedará afectada por déficit de capacidad de generación:\n🔹Municipio Encrucijada:\n👉Ctos 121 y 127 Perucho",
-    "timestamp": 1778096694,
-    "timestamp_local": 1778096694
-  },
-  {
-    "id": 46138,
-    "fecha": "06 de May del 2026 a las 03:39 PM",
-    "hora_utc": "2026-05-06 19:39",
-    "mensaje": "⚠️Afectado el servicio eléctrico en los siguientes circuitos:\n🔹Municipio Manicaragua:\n👉Ctos 109 y 150\n👉Ctos 108 y 110 La Piedra\n👉Cto 111 Mataguá (Avería Parcial)",
-    "timestamp": 1778096392,
-    "timestamp_local": 1778096392
   }
 ]
