@@ -1,5 +1,21 @@
 [
   {
+    "id": 37425,
+    "fecha": "06 de May del 2026 a las 02:05 AM",
+    "hora_utc": "2026-05-06 06:05",
+    "mensaje": "‼️ Nos encontramos en estos momentos con una afectación de 114 MW ‼️",
+    "timestamp": 1778047512,
+    "timestamp_local": 1778047512
+  },
+  {
+    "id": 37424,
+    "fecha": "06 de May del 2026 a las 01:34 AM",
+    "hora_utc": "2026-05-06 05:34",
+    "mensaje": "👉 Se encuentran afectados por déficit de generación los siguientes circuitos : \n\n➡️1940 San Antonio \n➡️Playa Baracoa\n ➡️BH 342  Bahía \n➡️Pedro Díaz \n➡️ S-20 ,4 Caminos ,Martí\n ➡️1570 Artemisa\n ➡️Beliert\n ➡️Plátano\n ➡️Villa Salado \n\n👉 Tenemos en estos momentos 113 MW afectados en la provincia",
+    "timestamp": 1778045651,
+    "timestamp_local": 1778045651
+  },
+  {
     "id": 37423,
     "fecha": "05 de May del 2026 a las 10:32 PM",
     "hora_utc": "2026-05-06 02:32",
@@ -142,21 +158,5 @@
     "mensaje": "👉  Restablecida la manipulación del circuito A 1270 Artemisa , excepto la cuchilla E 4034 , se mantiene afectada por Vía Libre para reparar puente primario",
     "timestamp": 1777991517,
     "timestamp_local": 1777991517
-  },
-  {
-    "id": 37405,
-    "fecha": "05 de May del 2026 a las 10:20 AM",
-    "hora_utc": "2026-05-05 14:20",
-    "mensaje": "👉 Se encuentra en manipulación circuito A 1270 municipio  Artemisa",
-    "timestamp": 1777990840,
-    "timestamp_local": 1777990840
-  },
-  {
-    "id": 37404,
-    "fecha": "05 de May del 2026 a las 09:12 AM",
-    "hora_utc": "2026-05-05 13:12",
-    "mensaje": "‼️ Afectado por déficit de generación circuito 1940 municipio San Antonio ,tenemos una afectación de 94 MW en estos momentos ‼️",
-    "timestamp": 1777986766,
-    "timestamp_local": 1777986766
   }
 ]

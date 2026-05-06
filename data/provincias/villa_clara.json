@@ -1,5 +1,21 @@
 [
   {
+    "id": 46097,
+    "fecha": "06 de May del 2026 a las 01:58 AM",
+    "hora_utc": "2026-05-06 05:58",
+    "mensaje": "Actualización del servicio eléctrico en la provincia.\n👉En este momento la provincia tiene 95 MW de afectación por déficit de capacidad de generación, demanda máxima posible a apagar en estos momentos.\n👉De los circuitos apagables que presenta la provincia, se mantienen afectados 115 circuitos.\n👉Cuenta con 123 afectaciones por averías secundarias y de servicio.",
+    "timestamp": 1778047080,
+    "timestamp_local": 1778047080
+  },
+  {
+    "id": 46096,
+    "fecha": "06 de May del 2026 a las 01:13 AM",
+    "hora_utc": "2026-05-06 05:13",
+    "mensaje": "💡Restablecido el servicio eléctrico en el circuito 28  (Plaza del Che).",
+    "timestamp": 1778044439,
+    "timestamp_local": 1778044439
+  },
+  {
     "id": 46094,
     "fecha": "06 de May del 2026 a las 12:01 AM",
     "hora_utc": "2026-05-06 04:01",
@@ -134,29 +150,5 @@
     "mensaje": "⚠️Afectado el servicio eléctrico en los siguientes circuitos:\n🔹Municipio Cifuentes:\n👉Ctos 114 y 117\n👉Ctos 116 y 155 Mata\n👉Cto 186 Batey Unidad Proletaria\n👉Cto 184 Sitio Grande",
     "timestamp": 1778012247,
     "timestamp_local": 1778012247
-  },
-  {
-    "id": 46077,
-    "fecha": "05 de May del 2026 a las 04:14 PM",
-    "hora_utc": "2026-05-05 20:14",
-    "mensaje": "⚠️Afectado el servicio eléctrico en los siguientes circuitos:\n🔹Municipio Placetas \n👉Ctos 100 y 151 Placetas\n👉Cto 104 Hermanos Amejeiras\n👉Cto 103 Batey Carbó Servía",
-    "timestamp": 1778012099,
-    "timestamp_local": 1778012099
-  },
-  {
-    "id": 46076,
-    "fecha": "05 de May del 2026 a las 04:02 PM",
-    "hora_utc": "2026-05-05 20:02",
-    "mensaje": "⚡Afectada por avería la Línea 6580, se estudian las causas:\n🔹Municipio Camajuaní:\n👉Ctos 77, 59 y 185 Vueltas",
-    "timestamp": 1778011330,
-    "timestamp_local": 1778011330
-  },
-  {
-    "id": 46075,
-    "fecha": "05 de May del 2026 a las 03:51 PM",
-    "hora_utc": "2026-05-05 19:51",
-    "mensaje": "⚠️Afectado el servicio eléctrico en los siguientes circuitos:\n🔹Municipio Encrucijada\n👉Cto 120 Calabazar\n👉Ctos 121 y 127 Perucho\n🔹Municipio Placetas:\n👉Cto 192 Benito Juárez\n👉Cto 102 Peroti",
-    "timestamp": 1778010696,
-    "timestamp_local": 1778010696
   }
 ]
