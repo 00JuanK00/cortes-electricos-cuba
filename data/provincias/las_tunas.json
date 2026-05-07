@@ -1,5 +1,45 @@
 [
   {
+    "id": 18982,
+    "fecha": "07 de May del 2026 a las 04:10 PM",
+    "hora_utc": "2026-05-07 20:10",
+    "mensaje": "✅Queda restablecido el servicio eléctrico a los circuitos que se encontraban afectados por disparo automático por frecuencia (DAF)",
+    "timestamp": 1778184611,
+    "timestamp_local": 1778184611
+  },
+  {
+    "id": 18981,
+    "fecha": "07 de May del 2026 a las 03:40 PM",
+    "hora_utc": "2026-05-07 19:40",
+    "mensaje": "Quedan afectados por disparo automático por frecuencia(DAF) los siguientes circuitos \nTK5 Buena Vista, Los Pinos\nTK106 Palancón, Buena Vista",
+    "timestamp": 1778182840,
+    "timestamp_local": 1778182840
+  },
+  {
+    "id": 18980,
+    "fecha": "07 de May del 2026 a las 03:36 PM",
+    "hora_utc": "2026-05-07 19:36",
+    "mensaje": "Qué es un disparo por DAF?\nEl Disparo por Frecuencia (DAF) es un mecanismo de protección del sistema eléctrico. Se activa automáticamente cuando la frecuencia desciende por debajo de los valores mínimos seguros (menores de 60 Hz), lo que pone en riesgo la estabilidad del sistema.\nEn ese momento, algunos circuitos se desconectan de forma automática para aliviar la carga y permitir que la frecuencia vuelva a su valor nominal.\nEsto suele ocurrir cuando una planta generadora sale de servicio de manera imprevista, provocando un déficit de generación. El DAF ayuda a evitar un colapso mayor del sistema, aunque puede generar afectaciones al servicio como apagones parciales.",
+    "timestamp": 1778182611,
+    "timestamp_local": 1778182611
+  },
+  {
+    "id": 18979,
+    "fecha": "07 de May del 2026 a las 03:36 PM",
+    "hora_utc": "2026-05-07 19:36",
+    "mensaje": "Quedan afectados por disparo automático por frecuencia (DAF)los siguientes circuitos \nCircuito 33 Kv: 6310\nTK20 Becerra\nTK21 Tunazúcar\nTK39 Providencia IV\nTK50 Vázquez, La Jíbara, El Mijial, Maniabón, Cordero, San Roque, Coloma 4\nTK51 Santa Teresa\nTK54 Vázquez\nCircuito 33 Kv: 6305\nTK41 Calixto\nTK40 Vista Alegre\nTK42 Gastón y Arroyo Muerto\nTK45 La Ceiba\nTK43 Las Parras, Omaja y Cañada Honda\nTK44 Vivienda\nTK2 Bonachea",
+    "timestamp": 1778182569,
+    "timestamp_local": 1778182569
+  },
+  {
+    "id": 18978,
+    "fecha": "07 de May del 2026 a las 03:30 PM",
+    "hora_utc": "2026-05-07 19:30",
+    "mensaje": "📲Centro Telefónico:\nLa Empresa Eléctrica Las Tunas pone a disposición de sus clientes un Centro de Atención Telefónica con el objetivo de brindar asistencia y responder a sus inquietudes. Para asegurar un flujo eficiente de comunicación, el centro cuenta con 38 líneas de entrada, gestionadas por 6 operadores en cada turno de trabajo.\nCuando los 6 operadores se encuentran atendiendo llamadas simultáneamente, las siguientes 32 llamadas entrantes son colocadas en una cola de espera, donde una operadora automática les informa que serán atendidas a la brevedad, acompañando la espera con música. En esta situación, se requiere paciencia por parte del cliente hasta que un operador se desocupe y su llamada sea transferida automáticamente. Sin embargo, el sistema tiene un límite. A partir de la llamada número 39, todas las líneas de entrada estarán ocupadas, lo que resultará en una señal de \"ocupado\" para el cliente. En este caso, para lograr contactar al centro, el cliente deberá intentar la llamada nuevamente hasta que una línea quede disponible. La Empresa Eléctrica Las Tunas trabaja continuamente para optimizar este servicio y agradece su comprensión.",
+    "timestamp": 1778182208,
+    "timestamp_local": 1778182208
+  },
+  {
     "id": 18977,
     "fecha": "07 de May del 2026 a las 01:04 PM",
     "hora_utc": "2026-05-07 17:04",
@@ -94,29 +134,5 @@
     "mensaje": "Queda solucionado el disparo de la subestación de Cuatro Caminos.",
     "timestamp": 1778032514,
     "timestamp_local": 1778032514
-  },
-  {
-    "id": 18962,
-    "fecha": "05 de May del 2026 a las 08:36 PM",
-    "hora_utc": "2026-05-06 00:36",
-    "mensaje": "Se encuentra disparada la subestación de Cuatro Caminos afectado los siguientes circuitos:\nTK19 San Antonio, Km 7\nTK26 Circunvalación Sur hasta La Larga \nTK29 Circunvalación Sur, Oro Negro \nTK25 Cuatro Caminos, Dormitorio\nTK14 Cayojo\nTK7 La Victoria",
-    "timestamp": 1778027800,
-    "timestamp_local": 1778027800
-  },
-  {
-    "id": 18959,
-    "fecha": "05 de May del 2026 a las 10:20 AM",
-    "hora_utc": "2026-05-05 14:20",
-    "mensaje": "Nota Informativa: Estado del Sistema Eléctrico Nacional (SEN) – 5 de mayo de 2026\nEn el día de ayer se afectó el servicio por déficit de capacidad durante las 24 horas y se mantuvo la afectación durante todo el horario de la madrugada. La máxima afectación por déficit de capacidad de generación en el día de ayer fue de 1578 MW a las 19:20 horas, mayor que lo planificado por demanda superior al pronóstico.\nLa producción de energía de los 54 nuevos parques solares fotovoltaicos fue de 3273 MWh, con 641 MW como máxima potencia entregada en el horario de la media con esta fuente de generación.\nEstado actual del SEN\nLa disponibilidad del SEN a las 06:30 horas es de 1690 MW, la demanda 2700 MW con 1060 MW afectados. En el horario de la media se estima una afectación de 1150 MW.\nPrincipales incidencias\nAvería: Unidad 8 de la CTE Máximo Gómez, Unidad 2 de la CTE Lidio Ramón Pérez y la Unidad 5 de la CTE Antonio Maceo.\nMantenimiento: Unidad 5 de la CTE Mariel, Unidad 6 de la CTE Renté, Unidad 5 de la CTE Nuevitas.\nLimitaciones en la generación térmica: 477 MW fuera de servicio.\nPronóstico para el horario pico\nPara el pico se prevé la entrada de la unidad 8 de la CTE Mariel con 50 MW y la salida en el horario de la mañana de la unidad de Antonio Guiteras con 140 MW por avería en caldera.\nCon este pronóstico se prevé para el horario de máxima demanda una disponibilidad de 1600 MW con una demanda máxima de 3250 MW, para un déficit de 1650 MW, por lo que de mantenerse las condiciones previstas se pronostica una afectación de 1680 MW en este horario.",
-    "timestamp": 1777990836,
-    "timestamp_local": 1777990836
-  },
-  {
-    "id": 18958,
-    "fecha": "05 de May del 2026 a las 10:20 AM",
-    "hora_utc": "2026-05-05 14:20",
-    "mensaje": "Unión Eléctrica informa: 9:12 || Según lo previsto, ya se encuentra fuera de línea la Unidad de la CTE Antonio Guiteras para su mantenimiento.",
-    "timestamp": 1777990800,
-    "timestamp_local": 1777990800
   }
 ]
