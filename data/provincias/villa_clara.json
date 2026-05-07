@@ -1,5 +1,21 @@
 [
   {
+    "id": 46254,
+    "fecha": "07 de May del 2026 a las 05:15 PM",
+    "hora_utc": "2026-05-07 21:15",
+    "mensaje": "⚠️Afectado el servicio eléctrico en los siguientes circuitos:\n🔹Municipio Santa Clara\n👉Cto 132 Santa Clara Industrial\n👉Cto 162 Santa Clara Industrial\n👉Cto 31 Sakenaf\n🔹Municipio Santa Clara\n👉Cto 146 Elevado Aeropuerto\n👉Cto 25 Los Güiros\n👉Cto 24 Planta Asfalto\n👉Cto 35 Biotecnología",
+    "timestamp": 1778188501,
+    "timestamp_local": 1778188501
+  },
+  {
+    "id": 46253,
+    "fecha": "07 de May del 2026 a las 05:03 PM",
+    "hora_utc": "2026-05-07 21:03",
+    "mensaje": "Afectados 132 MW en la provincia, demanda máxima a apagar en estos momentos.",
+    "timestamp": 1778187798,
+    "timestamp_local": 1778187798
+  },
+  {
     "id": 46252,
     "fecha": "07 de May del 2026 a las 04:20 PM",
     "hora_utc": "2026-05-07 20:20",
@@ -142,21 +158,5 @@
     "mensaje": "⚠Disparado por DAF la línea del 1205:\nMunicipio Sagua\n👉Ctos 43, 51 Sagua\n👉Cto 44 Isabela\n👉Ctos 50 y 147 Villa Alegre",
     "timestamp": 1778172773,
     "timestamp_local": 1778172773
-  },
-  {
-    "id": 46234,
-    "fecha": "07 de May del 2026 a las 12:35 PM",
-    "hora_utc": "2026-05-07 16:35",
-    "mensaje": "⚠️Afectado el servicio eléctrico en los siguientes circuitos:\n🔹Municipio Placetas \n👉Ctos 100 y 151 Placetas\n👉Cto 104 Hermanos Amejeiras\n👉Cto 103 Batey Carbó Servía",
-    "timestamp": 1778171733,
-    "timestamp_local": 1778171733
-  },
-  {
-    "id": 46233,
-    "fecha": "07 de May del 2026 a las 12:31 PM",
-    "hora_utc": "2026-05-07 16:31",
-    "mensaje": "⚠Se mantiene afectado por déficit de capacidad de generación el Cto 166 Condado, perteneciente al municipio Santa Clara.",
-    "timestamp": 1778171502,
-    "timestamp_local": 1778171502
   }
 ]
