@@ -1,5 +1,45 @@
 [
   {
+    "id": 46259,
+    "fecha": "07 de May del 2026 a las 06:38 PM",
+    "hora_utc": "2026-05-07 22:38",
+    "mensaje": "⚠️Afectado el servicio eléctrico en los siguientes circuitos:\n🔹Municipio Santa Clara\n👉Ctos 26 y 141 Manuelita\n👉Cto 191 Quemado de Hilario",
+    "timestamp": 1778193517,
+    "timestamp_local": 1778193517
+  },
+  {
+    "id": 46258,
+    "fecha": "07 de May del 2026 a las 06:29 PM",
+    "hora_utc": "2026-05-07 22:29",
+    "mensaje": "💡Con servicio el siguiente circuito:\n🔹Municipio Santa Clara:\n👉Cto 3 Consejo- Centro",
+    "timestamp": 1778192958,
+    "timestamp_local": 1778192958
+  },
+  {
+    "id": 46257,
+    "fecha": "07 de May del 2026 a las 06:27 PM",
+    "hora_utc": "2026-05-07 22:27",
+    "mensaje": "⚠️Afectado el servicio eléctrico en los siguientes circuitos:\n🔹Municipio Santa Clara:\n👉Ctos 2 y 4 Consejo- Centro",
+    "timestamp": 1778192843,
+    "timestamp_local": 1778192843
+  },
+  {
+    "id": 46256,
+    "fecha": "07 de May del 2026 a las 06:14 PM",
+    "hora_utc": "2026-05-07 22:14",
+    "mensaje": "🕕Actualización del servicio eléctrico.\n✍️El déficit de capacidad de generación en estos momentos es de 142 MW.\n✍️En el momento de esta nota, se mantienen afectados 130 circuitos.\n✍️ Cuenta con 114 afectaciones por averías secundarias y de servicio:\n🔸 Caibarién (1)\n🔸 Corralillo (9)\n🔸 Cifuentes (4)\n🔸 Corralillo (8)\n🔸 Encrucijada (1)\n🔸 Manicaragua (2)\n🔸 Placetas (7)\n🔸 Ranchuelo (3)\n🔸 Remedios (11) \n🔸 Sagua (13) \n🔸 Santa Clara (50)\n🔸 Santo Domingo (13)\n🛠️Se encuentran 1 averías en vías de solución.\n🛠️Pendientes a solucionar por el área técnica 21.\n⚡Averías⚡\n➡️Afectado el Cto 60 La Sierra, perteneciente al municipio Corralillo, por transformador dañado.",
+    "timestamp": 1778192096,
+    "timestamp_local": 1778192096
+  },
+  {
+    "id": 46255,
+    "fecha": "07 de May del 2026 a las 06:03 PM",
+    "hora_utc": "2026-05-07 22:03",
+    "mensaje": "⚠️Afectado el servicio eléctrico en el siguiente circuito:\n🔹Municipio Santa Clara:\n👉Cto 39 (Sandino)",
+    "timestamp": 1778191419,
+    "timestamp_local": 1778191419
+  },
+  {
     "id": 46254,
     "fecha": "07 de May del 2026 a las 05:15 PM",
     "hora_utc": "2026-05-07 21:15",
@@ -118,45 +158,5 @@
     "mensaje": "⚠️Afectado el servicio eléctrico en el siguiente circuito:\n🔹Municipio Santa Clara:\n👉Ctos 3 Consejo- Centro",
     "timestamp": 1778176832,
     "timestamp_local": 1778176832
-  },
-  {
-    "id": 46239,
-    "fecha": "07 de May del 2026 a las 01:31 PM",
-    "hora_utc": "2026-05-07 17:31",
-    "mensaje": "💡Con servicio los siguientes circuitos:\n🔹Municipio Sagua\n👉Ctos 43, 51 Sagua\n👉Cto 44 Isabela",
-    "timestamp": 1778175067,
-    "timestamp_local": 1778175067
-  },
-  {
-    "id": 46238,
-    "fecha": "07 de May del 2026 a las 01:30 PM",
-    "hora_utc": "2026-05-07 17:30",
-    "mensaje": "⚠️Afectado el servicio eléctrico en los siguientes circuitos:\n🔹Municipio Encrucijada\n👉Cto 120 Calabazar\n👉Ctos 121 y 127 Perucho",
-    "timestamp": 1778175011,
-    "timestamp_local": 1778175011
-  },
-  {
-    "id": 46237,
-    "fecha": "07 de May del 2026 a las 01:06 PM",
-    "hora_utc": "2026-05-07 17:06",
-    "mensaje": "Afectados 91 MW en la provincia, demanda máxima a apagar en estos momentos.",
-    "timestamp": 1778173575,
-    "timestamp_local": 1778173575
-  },
-  {
-    "id": 46236,
-    "fecha": "07 de May del 2026 a las 12:58 PM",
-    "hora_utc": "2026-05-07 16:58",
-    "mensaje": "⚠️Afectado por manipulación el Cto 1 Centro, perteneciente al municipio Santa Clara, para reponer transformador.",
-    "timestamp": 1778173096,
-    "timestamp_local": 1778173096
-  },
-  {
-    "id": 46235,
-    "fecha": "07 de May del 2026 a las 12:52 PM",
-    "hora_utc": "2026-05-07 16:52",
-    "mensaje": "⚠Disparado por DAF la línea del 1205:\nMunicipio Sagua\n👉Ctos 43, 51 Sagua\n👉Cto 44 Isabela\n👉Ctos 50 y 147 Villa Alegre",
-    "timestamp": 1778172773,
-    "timestamp_local": 1778172773
   }
 ]

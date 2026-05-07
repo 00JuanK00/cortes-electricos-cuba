@@ -1,5 +1,21 @@
 [
   {
+    "id": 53153,
+    "fecha": "07 de May del 2026 a las 06:36 PM",
+    "hora_utc": "2026-05-07 22:36",
+    "mensaje": "🔴Estimados clientes se les informa que se incorporan a la afectación los circuitos 8 , el 7 seccionalizado y el 11.",
+    "timestamp": 1778193394,
+    "timestamp_local": 1778193394
+  },
+  {
+    "id": 53151,
+    "fecha": "07 de May del 2026 a las 06:10 PM",
+    "hora_utc": "2026-05-07 22:10",
+    "mensaje": "🔊Estimados cliente en estos momentos se encuentra afectado por Déficit de Capacidad de Generación el circuito 13 .",
+    "timestamp": 1778191817,
+    "timestamp_local": 1778191817
+  },
+  {
     "id": 53150,
     "fecha": "07 de May del 2026 a las 04:28 PM",
     "hora_utc": "2026-05-07 20:28",
@@ -134,29 +150,5 @@
     "mensaje": "🚨Disparo Automático de Frecuencia (DAF):\nOcurre cuando la frecuencia está por debajo de los 60Hz y determinada carga o circuito se desconecta del sistema automáticamente hasta que se estabilice",
     "timestamp": 1778172719,
     "timestamp_local": 1778172719
-  },
-  {
-    "id": 53133,
-    "fecha": "07 de May del 2026 a las 12:51 PM",
-    "hora_utc": "2026-05-07 16:51",
-    "mensaje": "🔊Estimados clientes en estos momentos se encuentra Disparado por DAF el circuito 17",
-    "timestamp": 1778172694,
-    "timestamp_local": 1778172694
-  },
-  {
-    "id": 53132,
-    "fecha": "07 de May del 2026 a las 12:20 PM",
-    "hora_utc": "2026-05-07 16:20",
-    "mensaje": "🔊Estimados clientes en estos momentos se encuentra Disparada La Línea 4435 Contramaestre",
-    "timestamp": 1778170821,
-    "timestamp_local": 1778170821
-  },
-  {
-    "id": 53131,
-    "fecha": "07 de May del 2026 a las 11:49 AM",
-    "hora_utc": "2026-05-07 15:49",
-    "mensaje": "🔊Estimados clientes en estos momentos se encuentra afectados por Déficit de Capacidad de Generación el circuito 12",
-    "timestamp": 1778168967,
-    "timestamp_local": 1778168967
   }
 ]
