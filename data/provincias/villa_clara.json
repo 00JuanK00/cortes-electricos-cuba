@@ -1,5 +1,53 @@
 [
   {
+    "id": 46320,
+    "fecha": "08 de May del 2026 a las 04:30 PM",
+    "hora_utc": "2026-05-08 20:30",
+    "mensaje": "⚠️Afectado el servicio eléctrico en los siguientes circuitos:\n🔹Municipio Cifuentes:\n👉Ctos 114 y 117\n👉Ctos 116 y 155 Mata\n👉Cto 186 Batey Unidad Proletaria\n👉Cto 184 Sitio Grande",
+    "timestamp": 1778272204,
+    "timestamp_local": 1778272204
+  },
+  {
+    "id": 46319,
+    "fecha": "08 de May del 2026 a las 04:28 PM",
+    "hora_utc": "2026-05-08 20:28",
+    "mensaje": "⚠️Afectado el servicio eléctrico en el siguiente circuito:\n🔹Municipio Remedios\n👉Cto 152",
+    "timestamp": 1778272129,
+    "timestamp_local": 1778272129
+  },
+  {
+    "id": 46318,
+    "fecha": "08 de May del 2026 a las 04:26 PM",
+    "hora_utc": "2026-05-08 20:26",
+    "mensaje": "💡Restablecido el servicio eléctrico al Cto 67 pertenecientes al municipio de Remedios",
+    "timestamp": 1778271996,
+    "timestamp_local": 1778271996
+  },
+  {
+    "id": 46317,
+    "fecha": "08 de May del 2026 a las 04:20 PM",
+    "hora_utc": "2026-05-08 20:20",
+    "mensaje": "⚠️Actualización del servicio eléctrico en la provincia.\n👉En este momento la afectación por déficit de capacidad de generación es de 93 MW, demanda máxima posible a apagar en estos momentos.\n👉De los circuitos apagables se mantienen afectados 94.\n👉Cuenta con 118 afectaciones por averías secundarias y de servicio.",
+    "timestamp": 1778271607,
+    "timestamp_local": 1778271607
+  },
+  {
+    "id": 46316,
+    "fecha": "08 de May del 2026 a las 04:14 PM",
+    "hora_utc": "2026-05-08 20:14",
+    "mensaje": "⚠️Afectado el servicio eléctrico en los siguientes circuitos:\n🔹Municipio Placetas:\n👉Cto 192 Benito Juárez\n👉Cto 102 Peroti\n👉Ctos 100 y 151 Placetas\n👉Cto 104 Hermanos Amejeiras\n👉Cto 103 Batey Carbó Servía",
+    "timestamp": 1778271280,
+    "timestamp_local": 1778271280
+  },
+  {
+    "id": 46315,
+    "fecha": "08 de May del 2026 a las 04:09 PM",
+    "hora_utc": "2026-05-08 20:09",
+    "mensaje": "💡Restablecido el servicio eléctrico al  Cto 40 Hospital Militar",
+    "timestamp": 1778270959,
+    "timestamp_local": 1778270959
+  },
+  {
     "id": 46314,
     "fecha": "08 de May del 2026 a las 03:39 PM",
     "hora_utc": "2026-05-08 19:39",
@@ -110,53 +158,5 @@
     "mensaje": "⚠️Afectado el servicio eléctrico en los siguientes circuitos:\n🔹Municipio Santa Clara:\n👉Cto 4 Consejo- Centro\n👉Cto 3 Santa Clara",
     "timestamp": 1778259958,
     "timestamp_local": 1778259958
-  },
-  {
-    "id": 46300,
-    "fecha": "08 de May del 2026 a las 12:20 PM",
-    "hora_utc": "2026-05-08 16:20",
-    "mensaje": "🕛Actualización del servicio eléctrico.\n✍️El déficit de capacidad de generación en estos momentos es de 100 MW\n✍️En el momento de esta nota, se mantienen afectados 100 circuitos.\n✍️ Cuenta con 129 afectaciones por averías secundarias y de servicio:\n🔸 Cifuentes (2)\n🔸 Corralillo (12)\n🔸 Encrucijada (6)\n🔸 Manicaragua (6)\n🔸 Placetas (7)\n🔸 Quemado (1)\n🔸 Ranchuelo (4)\n🔸 Remedios (13) \n🔸 Sagua (14) \n🔸 Santa Clara (45)\n🔸 Santo Domingo (19)\n🛠️Se encuentran 16 averías en vías de solución.\n🛠️Pendientes a solucionar por el área técnica 11.\n🛠Afectado el Cto 13 (Zona Industrial) pertenciente al municipio Santa Clara por Via Libre planificada para realizar poda preventiva\n🛠 Se encuentra en averia los Cto 67, 68 y Cto 118 perteneciente al municipio de Remedios\n🛠Se encuentra en averia los Cto 85, 86 ( Pajarito) y los Ctos 160 y 161 (Cascajal) perteneciente al municipio de Santo Domingo",
-    "timestamp": 1778257221,
-    "timestamp_local": 1778257221
-  },
-  {
-    "id": 46299,
-    "fecha": "08 de May del 2026 a las 11:59 AM",
-    "hora_utc": "2026-05-08 15:59",
-    "mensaje": "⚠️Afectado el servicio eléctrico en los siguientes circuitos:\n🔹Municipio Santa Clara:\n👉Cto 6 Vigía\n👉Cto 39 (Sandino)",
-    "timestamp": 1778255945,
-    "timestamp_local": 1778255945
-  },
-  {
-    "id": 46298,
-    "fecha": "08 de May del 2026 a las 11:28 AM",
-    "hora_utc": "2026-05-08 15:28",
-    "mensaje": "🛠Afectado el Cto 13 (Zona Industrial) pertenciente al municipio Santa Clara por Via Libre planificada para realizar poda preventiva",
-    "timestamp": 1778254135,
-    "timestamp_local": 1778254135
-  },
-  {
-    "id": 46297,
-    "fecha": "08 de May del 2026 a las 11:18 AM",
-    "hora_utc": "2026-05-08 15:18",
-    "mensaje": "⚠️Afectado el servicio eléctrico en el siguiente circuito:\n🔹Municipio Santa Clara\n👉Cto 132 Santa Clara Industrial",
-    "timestamp": 1778253489,
-    "timestamp_local": 1778253489
-  },
-  {
-    "id": 46296,
-    "fecha": "08 de May del 2026 a las 10:56 AM",
-    "hora_utc": "2026-05-08 14:56",
-    "mensaje": "💡Restablecido de manera parcial la Linea 6580.\n🔹Municipio Camajuaní:\n👉Cto 59 Vueltas",
-    "timestamp": 1778252196,
-    "timestamp_local": 1778252196
-  },
-  {
-    "id": 46295,
-    "fecha": "08 de May del 2026 a las 10:51 AM",
-    "hora_utc": "2026-05-08 14:51",
-    "mensaje": "🛠 Se encuentra en averia el Cto 67y Cto 118 perteneciente al municipio de Remedios",
-    "timestamp": 1778251862,
-    "timestamp_local": 1778251862
   }
 ]
