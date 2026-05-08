@@ -1,5 +1,29 @@
 [
   {
+    "id": 35381,
+    "fecha": "08 de May del 2026 a las 03:24 PM",
+    "hora_utc": "2026-05-08 19:24",
+    "mensaje": "⚡En estos momentos tenemos afectados 147 MW en la provincia por déficit de capacidad de generación.⚡",
+    "timestamp": 1778268249,
+    "timestamp_local": 1778268249
+  },
+  {
+    "id": 35380,
+    "fecha": "08 de May del 2026 a las 02:34 PM",
+    "hora_utc": "2026-05-08 18:34",
+    "mensaje": "🪫 La provincia se encuentra en el máximo apagable con un déficit de capacidad de generación de 154 MW.",
+    "timestamp": 1778265282,
+    "timestamp_local": 1778265282
+  },
+  {
+    "id": 35379,
+    "fecha": "08 de May del 2026 a las 02:12 PM",
+    "hora_utc": "2026-05-08 18:12",
+    "mensaje": "⚡En estos momentos tenemos afectados 135 MW en la provincia por déficit de capacidad de generación.⚡",
+    "timestamp": 1778263939,
+    "timestamp_local": 1778263939
+  },
+  {
     "id": 35378,
     "fecha": "08 de May del 2026 a las 01:12 PM",
     "hora_utc": "2026-05-08 17:12",
@@ -134,29 +158,5 @@
     "mensaje": "📈 🪫Subimos a 147 MW en la provincia por Déficit de capacidad de generación por la curva de demanda.",
     "timestamp": 1778200101,
     "timestamp_local": 1778200101
-  },
-  {
-    "id": 35361,
-    "fecha": "07 de May del 2026 a las 07:34 PM",
-    "hora_utc": "2026-05-07 23:34",
-    "mensaje": "⚡Déficit de capacidad de generación en la provincia: 139 MW .⚡",
-    "timestamp": 1778196846,
-    "timestamp_local": 1778196846
-  },
-  {
-    "id": 35360,
-    "fecha": "07 de May del 2026 a las 07:33 PM",
-    "hora_utc": "2026-05-07 23:33",
-    "mensaje": "💡CIRCUITOS PRÓXIMOS A RESTABLECER.\n\n🔌 Circuito 502 da servicio al matadero de aves de Colón, a Sergio González y al bombeo de agua de Colón del Norte.\n🔌 Circuito MJ 1381 que da servicio a Mena – Corral Nuevo.\n🔌 Circuito MI638 que da servicio a Poblado de San Francisco. \n🔌 Circuito 4400 que da servicio a Frigorífico-Bellotex.\n🔌 Circuito 1328, Caserío Chirimoya, Base de ómnibus, EIDE, Caserío los Molinos.\n\n📢 A medida que las condiciones del sistema lo permitan, se irán restableciendo de forma gradual los circuitos que han tenido más tiempo de afectación.",
-    "timestamp": 1778196796,
-    "timestamp_local": 1778196796
-  },
-  {
-    "id": 35359,
-    "fecha": "07 de May del 2026 a las 06:56 PM",
-    "hora_utc": "2026-05-07 22:56",
-    "mensaje": "💡CIRCUITOS RESTABLECIDOS.\n\n🔌Circuito MI5660 que da servicio a Güira-Betancourt.\n🔌 Circuito MI5680 que da servicio a Cítrico y Sabana Grande.\n\n📢 A medida que las condiciones del sistema lo permitan, se irán restableciendo de forma gradual los circuitos que han tenido más tiempo de afectación.",
-    "timestamp": 1778194588,
-    "timestamp_local": 1778194588
   }
 ]
