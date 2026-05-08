@@ -1,5 +1,21 @@
 [
   {
+    "id": 35377,
+    "fecha": "08 de May del 2026 a las 12:40 PM",
+    "hora_utc": "2026-05-08 16:40",
+    "mensaje": "⚡En estos momentos tenemos afectados 132 MW en la provincia por déficit de capacidad de generación.⚡",
+    "timestamp": 1778258429,
+    "timestamp_local": 1778258429
+  },
+  {
+    "id": 35376,
+    "fecha": "08 de May del 2026 a las 11:23 AM",
+    "hora_utc": "2026-05-08 15:23",
+    "mensaje": "📢ACTUALIZAMOS:\n⚡ Déficit de capacidad de generación en la provincia: * 126  MW .* ⚡\n🚨Se restablecerá el servicio a los circuitos en las próximas horas en dependencia del comportamiento de la demanda✅",
+    "timestamp": 1778253796,
+    "timestamp_local": 1778253796
+  },
+  {
     "id": 35375,
     "fecha": "08 de May del 2026 a las 09:02 AM",
     "hora_utc": "2026-05-08 13:02",
@@ -142,21 +158,5 @@
     "mensaje": "📈 🪫Subimos a 148 MW en la provincia por Déficit de capacidad de generación por la curva de demanda.",
     "timestamp": 1778193387,
     "timestamp_local": 1778193387
-  },
-  {
-    "id": 35357,
-    "fecha": "07 de May del 2026 a las 05:07 PM",
-    "hora_utc": "2026-05-07 21:07",
-    "mensaje": "⚡Déficit de capacidad de generación en la provincia: 139 MW .⚡",
-    "timestamp": 1778188072,
-    "timestamp_local": 1778188072
-  },
-  {
-    "id": 35356,
-    "fecha": "07 de May del 2026 a las 04:02 PM",
-    "hora_utc": "2026-05-07 20:02",
-    "mensaje": "💡CIRCUITOS RESTABLECIDOS.\n\n🔌 Circuito 4935 que da servicio a San Pedro, Los Arabos,  Banaguises, San José de los Ramos,  Río Piedra, Colón Este, Central Méjico y Mario Muñoz. \n🔌 Circuito MI1452 que da servicio a Laboratorio Epidemiología, Tele Centro, Los Mangos.\n\n📢 A medida que las condiciones del sistema lo permitan, se irán restableciendo de forma gradual los circuitos que han tenido más tiempo de afectación.",
-    "timestamp": 1778184173,
-    "timestamp_local": 1778184173
   }
 ]
