@@ -1,5 +1,29 @@
 [
   {
+    "id": 46273,
+    "fecha": "08 de May del 2026 a las 02:09 AM",
+    "hora_utc": "2026-05-08 06:09",
+    "mensaje": "Actualización del servicio eléctrico en la provincia.\n👉En este momento la afectación por déficit de capacidad de generación es de 111 MW, demanda máxima posible a apagar en estos momentos.\n👉De los circuitos apagables se mantienen afectados 130.\n👉Cuenta con 104 afectaciones por averías secundarias y de servicio.",
+    "timestamp": 1778220553,
+    "timestamp_local": 1778220553
+  },
+  {
+    "id": 46272,
+    "fecha": "08 de May del 2026 a las 01:25 AM",
+    "hora_utc": "2026-05-08 05:25",
+    "mensaje": "✍️Ante cualquier duda conozca sobre la terminología eléctrica\n\n🔹Las averías pueden ser:\n     \n➡️Primarias: Afecta un volumen grande de población pues son las líneas de distribución a 13.8 kV y puede afectar varias manzanas, incluso repartos completos.\n\n➡️Secundarias: Afecta a todos los clientes que se alimenten del mismo transformador, puede afectar una o varias cuadras. \n\n➡️De servicio: Afectan 1 solo cliente o instalación generalmente producto a daños en la acometida, metro contador, etc.).",
+    "timestamp": 1778217940,
+    "timestamp_local": 1778217940
+  },
+  {
+    "id": 46271,
+    "fecha": "08 de May del 2026 a las 01:01 AM",
+    "hora_utc": "2026-05-08 05:01",
+    "mensaje": "Afectados 114 MW en la provincia, demanda máxima a apagar en estos momentos.",
+    "timestamp": 1778216476,
+    "timestamp_local": 1778216476
+  },
+  {
     "id": 46270,
     "fecha": "08 de May del 2026 a las 12:06 AM",
     "hora_utc": "2026-05-08 04:06",
@@ -134,29 +158,5 @@
     "mensaje": "⚠️Afectado el servicio eléctrico en los siguientes circuitos:\n🔹Municipio Santa Clara\n👉Cto 132 Santa Clara Industrial\n👉Cto 162 Santa Clara Industrial\n👉Cto 31 Sakenaf\n🔹Municipio Santa Clara\n👉Cto 146 Elevado Aeropuerto\n👉Cto 25 Los Güiros\n👉Cto 24 Planta Asfalto\n👉Cto 35 Biotecnología",
     "timestamp": 1778188501,
     "timestamp_local": 1778188501
-  },
-  {
-    "id": 46253,
-    "fecha": "07 de May del 2026 a las 05:03 PM",
-    "hora_utc": "2026-05-07 21:03",
-    "mensaje": "Afectados 132 MW en la provincia, demanda máxima a apagar en estos momentos.",
-    "timestamp": 1778187798,
-    "timestamp_local": 1778187798
-  },
-  {
-    "id": 46252,
-    "fecha": "07 de May del 2026 a las 04:20 PM",
-    "hora_utc": "2026-05-07 20:20",
-    "mensaje": "⚠️Afectado el servicio eléctrico en los siguientes circuitos:\n🔹Municipio Santo Domingo:\n👉Cto 195 Batey George Washington\n👉Ctos 83 y 165 Manacas\n👉Ctos 85 y 86 Pajarito\n👉Ctos 160 y 161 Cascajal\n🔹Municipio Santo Domingo:\n👉Cto 134\n👉Ctos 87 y 96 Bermejal\n👉Cto 187 Batey Carlos Baliño\n👉Cto 82 Ulacia\n👉Cto 84 Rodrigo",
-    "timestamp": 1778185223,
-    "timestamp_local": 1778185223
-  },
-  {
-    "id": 46251,
-    "fecha": "07 de May del 2026 a las 04:07 PM",
-    "hora_utc": "2026-05-07 20:07",
-    "mensaje": "Actualización del servicio eléctrico en la provincia.\n👉En este momento la afectación por déficit de capacidad de generación es de 116 MW, demanda máxima posible a apagar en estos momentos.\n👉De los circuitos apagables se mantienen afectados 123.\n👉Cuenta con 136 afectaciones por averías secundarias y de servicio.",
-    "timestamp": 1778184426,
-    "timestamp_local": 1778184426
   }
 ]
