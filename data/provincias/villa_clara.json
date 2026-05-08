@@ -1,5 +1,29 @@
 [
   {
+    "id": 46270,
+    "fecha": "08 de May del 2026 a las 12:06 AM",
+    "hora_utc": "2026-05-08 04:06",
+    "mensaje": "🕛Actualización del servicio eléctrico.\n✍️El déficit de capacidad de generación en estos momentos es de 122 MW.\n✍️En el momento de esta nota, se mantienen afectados 130 circuitos.\n✍️ Cuenta con 107 afectaciones por averías secundarias y de servicio:\n🔸 Corralillo (9)\n🔸 Cifuentes (4)\n🔸 Corralillo (11)\n🔸 Manicaragua (2)\n🔸 Placetas (8)\n🔸 Ranchuelo (1)\n🔸 Remedios (9) \n🔸 Sagua (13) \n🔸 Santa Clara (45)\n🔸 Santo Domingo (14)\n🛠️Se encuentran 1 averías en vías de solución.\n🛠️Pendientes a solucionar por el área técnica 22.\n⚡La provincia no presenta averías primarias en estos momentos.",
+    "timestamp": 1778213173,
+    "timestamp_local": 1778213173
+  },
+  {
+    "id": 46269,
+    "fecha": "07 de May del 2026 a las 11:07 PM",
+    "hora_utc": "2026-05-08 03:07",
+    "mensaje": "Afectados 128 MW en la provincia, demanda máxima a apagar en estos momentos.",
+    "timestamp": 1778209660,
+    "timestamp_local": 1778209660
+  },
+  {
+    "id": 46268,
+    "fecha": "07 de May del 2026 a las 10:06 PM",
+    "hora_utc": "2026-05-08 02:06",
+    "mensaje": "Actualización del servicio eléctrico en la provincia.\n👉En este momento la afectación por déficit de capacidad de generación es de 137 MW, demanda máxima posible a apagar en estos momentos.\n👉De los circuitos apagables se mantienen afectados 130.\n👉Cuenta con 107 afectaciones por averías secundarias y de servicio.",
+    "timestamp": 1778205991,
+    "timestamp_local": 1778205991
+  },
+  {
     "id": 46267,
     "fecha": "07 de May del 2026 a las 09:19 PM",
     "hora_utc": "2026-05-08 01:19",
@@ -134,29 +158,5 @@
     "mensaje": "Actualización del servicio eléctrico en la provincia.\n👉En este momento la afectación por déficit de capacidad de generación es de 116 MW, demanda máxima posible a apagar en estos momentos.\n👉De los circuitos apagables se mantienen afectados 123.\n👉Cuenta con 136 afectaciones por averías secundarias y de servicio.",
     "timestamp": 1778184426,
     "timestamp_local": 1778184426
-  },
-  {
-    "id": 46250,
-    "fecha": "07 de May del 2026 a las 04:02 PM",
-    "hora_utc": "2026-05-07 20:02",
-    "mensaje": "⚠️Afectado el servicio eléctrico en los siguientes circuitos:\n🔹Municipio Placetas:\n👉Ctos 101 y 145 Cumbre\n🔹Municipio Encrucijada:\n👉Cto 122 Encrucijada  \n👉Cto 123 Vizcaya \n👉Cto 142 Comunidad La Sierra \n👉Cto 126 Batey Emilio Córdova\n👉Cto 125 Cavarrocas\n👉Cto 124 El Santo\n🔹Municipio Camajuaní:                                                              \n👉Cto 78 Jutiero\n👉Cto 75 La Quinta\n👉Cto 157 Luis Arcos Bergnes\n👉Ctos 76 y 90 Vega Alta",
-    "timestamp": 1778184174,
-    "timestamp_local": 1778184174
-  },
-  {
-    "id": 46249,
-    "fecha": "07 de May del 2026 a las 03:39 PM",
-    "hora_utc": "2026-05-07 19:39",
-    "mensaje": "⚠Afectados por DAF los siguientes circuitos:\n🔹Municipio Santa Clara: \n👉Cto 167 Virginia\n👉Cto 170 José Martí",
-    "timestamp": 1778182792,
-    "timestamp_local": 1778182792
-  },
-  {
-    "id": 46248,
-    "fecha": "07 de May del 2026 a las 03:38 PM",
-    "hora_utc": "2026-05-07 19:38",
-    "mensaje": "⚠️Afectada por DAF la línea del 1910:\n➡️Línea 1910\n🔹Municipio Placetas \n👉Ctos 100 y 151 Placetas\n👉Cto 104 Hermanos Amejeiras\n👉Cto 103 Batey Carbó Servía",
-    "timestamp": 1778182714,
-    "timestamp_local": 1778182714
   }
 ]
