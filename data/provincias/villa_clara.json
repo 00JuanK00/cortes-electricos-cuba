@@ -1,5 +1,29 @@
 [
   {
+    "id": 46328,
+    "fecha": "08 de May del 2026 a las 09:10 PM",
+    "hora_utc": "2026-05-09 01:10",
+    "mensaje": "⚠️Afectado el servicio eléctrico en los siguientes circuitos:\n🔹Municipio Camajuaní:\n👉Ctos 77 ,185 Vuelta",
+    "timestamp": 1778289007,
+    "timestamp_local": 1778289007
+  },
+  {
+    "id": 46327,
+    "fecha": "08 de May del 2026 a las 08:10 PM",
+    "hora_utc": "2026-05-09 00:10",
+    "mensaje": "Actualización del servicio eléctrico en la provincia.\n👉En este momento la afectación por déficit de capacidad de generación es de 126 MW, demanda máxima posible a apagar en estos momentos.\n👉De los circuitos apagables se mantienen afectados 112.\n👉Cuenta con 107 afectaciones por averías secundarias y de servicio.",
+    "timestamp": 1778285429,
+    "timestamp_local": 1778285429
+  },
+  {
+    "id": 46326,
+    "fecha": "08 de May del 2026 a las 07:51 PM",
+    "hora_utc": "2026-05-08 23:51",
+    "mensaje": "⚠️Afectado el servicio eléctrico en el siguiente circuito:\n🔹Municipio Santa Clara:\n👉Cto 13 (Zona Industrial)",
+    "timestamp": 1778284280,
+    "timestamp_local": 1778284280
+  },
+  {
     "id": 46325,
     "fecha": "08 de May del 2026 a las 06:55 PM",
     "hora_utc": "2026-05-08 22:55",
@@ -19,7 +43,7 @@
     "id": 46323,
     "fecha": "08 de May del 2026 a las 05:42 PM",
     "hora_utc": "2026-05-08 21:42",
-    "mensaje": "💡Restablecido el servicio eléctrico al  Cto 13 (Zona Industrial)  perteneciente al municipio Santa Clara",
+    "mensaje": "💡Restablecido el servicio eléctrico en el  Cto 13 (Zona Industrial)  perteneciente al municipio Santa Clara",
     "timestamp": 1778276565,
     "timestamp_local": 1778276565
   },
@@ -83,7 +107,7 @@
     "id": 46315,
     "fecha": "08 de May del 2026 a las 04:09 PM",
     "hora_utc": "2026-05-08 20:09",
-    "mensaje": "💡Restablecido el servicio eléctrico al  Cto 40 Hospital Militar",
+    "mensaje": "💡Restablecido el servicio eléctrico en el Cto 40 Hospital Militar",
     "timestamp": 1778270959,
     "timestamp_local": 1778270959
   },
@@ -107,7 +131,7 @@
     "id": 46312,
     "fecha": "08 de May del 2026 a las 03:33 PM",
     "hora_utc": "2026-05-08 19:33",
-    "mensaje": "⚠️Disparo del Cto 40  Hospital Militar  pertenecientes al municipio de Santa Clara  Se estudian las causas",
+    "mensaje": "⚠️Disparo del Cto 40  Hospital Militar  perteneciente al municipio de Santa Clara  Se estudian las causas",
     "timestamp": 1778268802,
     "timestamp_local": 1778268802
   },
@@ -134,29 +158,5 @@
     "mensaje": "⚠️Afectado el servicio eléctrico en los siguientes circuitos:\n🔹Municipio Placetas:\n👉Cto 107 Baez\n👉Cto 105 Nazareno",
     "timestamp": 1778267834,
     "timestamp_local": 1778267834
-  },
-  {
-    "id": 46308,
-    "fecha": "08 de May del 2026 a las 02:52 PM",
-    "hora_utc": "2026-05-08 18:52",
-    "mensaje": "💡Con servicio electrico los siguientes circuitos\n🔹Municipio Santa Clara\n👉Ctos 26 y 141 Manuelita\n👉Cto 191 Quemado de Hilario",
-    "timestamp": 1778266337,
-    "timestamp_local": 1778266337
-  },
-  {
-    "id": 46307,
-    "fecha": "08 de May del 2026 a las 02:32 PM",
-    "hora_utc": "2026-05-08 18:32",
-    "mensaje": "⚠️Afectado el servicio eléctrico en los siguientes circuitos:\n🔹Municipio Quemado:\n👉Ctos 164, 52 y 53 Quemado.\n👉Cto 196 Batey Panchito GómezToro.",
-    "timestamp": 1778265152,
-    "timestamp_local": 1778265152
-  },
-  {
-    "id": 46306,
-    "fecha": "08 de May del 2026 a las 02:26 PM",
-    "hora_utc": "2026-05-08 18:26",
-    "mensaje": "Actualización del servicio eléctrico en la provincia.\n👉En este momento la afectación por déficit de capacidad de generación es de 108 MW, demanda máxima posible a apagar en estos momentos.\n👉De los circuitos apagables se mantienen afectados 102.\n👉Cuenta con 129 afectaciones por averías secundarias y de servicio.",
-    "timestamp": 1778264790,
-    "timestamp_local": 1778264790
   }
 ]
