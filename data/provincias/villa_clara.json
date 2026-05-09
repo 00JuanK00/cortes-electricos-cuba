@@ -1,5 +1,37 @@
 [
   {
+    "id": 46367,
+    "fecha": "09 de May del 2026 a las 05:20 PM",
+    "hora_utc": "2026-05-09 21:20",
+    "mensaje": "💡Restablecido el servicio eléctrico en el siguiente circuito:\n👉Cto 194 (Zona Hospitalaria)",
+    "timestamp": 1778361621,
+    "timestamp_local": 1778361621
+  },
+  {
+    "id": 46366,
+    "fecha": "09 de May del 2026 a las 05:10 PM",
+    "hora_utc": "2026-05-09 21:10",
+    "mensaje": "⚠️Afectada por avería la Línea 110 kV quedando afectados los municipios Camajuani y Remedios.",
+    "timestamp": 1778361056,
+    "timestamp_local": 1778361056
+  },
+  {
+    "id": 46365,
+    "fecha": "09 de May del 2026 a las 05:02 PM",
+    "hora_utc": "2026-05-09 21:02",
+    "mensaje": "⚠️Disparo en la Línea 110 kV Camajuani-Remedios, nuestro especialistas se encuentran trabajando para poder restablecer el servicio en el menor tiempo posible.",
+    "timestamp": 1778360520,
+    "timestamp_local": 1778360520
+  },
+  {
+    "id": 46364,
+    "fecha": "09 de May del 2026 a las 04:51 PM",
+    "hora_utc": "2026-05-09 20:51",
+    "mensaje": "⚠️Afectado el servicio eléctrico en los siguientes circuitos:\n🔹Municipio Santa Clara\n👉Cto 25 Los Güiros\n\n👉Cto 35 Biotecnología\n👉Ctos 15 y 27 Maleza",
+    "timestamp": 1778359867,
+    "timestamp_local": 1778359867
+  },
+  {
     "id": 46363,
     "fecha": "09 de May del 2026 a las 03:57 PM",
     "hora_utc": "2026-05-09 19:57",
@@ -118,37 +150,5 @@
     "mensaje": "🛠️Afectados por vía libre los siguientes circuitos:\n🔹Municipio Santa Clara:\n👉Cto 6 Vigía\n👉Cto 39 (Sandino)",
     "timestamp": 1778339056,
     "timestamp_local": 1778339056
-  },
-  {
-    "id": 46347,
-    "fecha": "09 de May del 2026 a las 10:31 AM",
-    "hora_utc": "2026-05-09 14:31",
-    "mensaje": "⚡Continúa afectado el circuito 6 (Vigía) por estar faltando una fase, brigadas de nuestra Empresa se dirigen hacia el lugar para poder reparar la avería en el menor tiempo posible.",
-    "timestamp": 1778337099,
-    "timestamp_local": 1778337099
-  },
-  {
-    "id": 46346,
-    "fecha": "09 de May del 2026 a las 10:28 AM",
-    "hora_utc": "2026-05-09 14:28",
-    "mensaje": "🟢 08:38 || En línea la Unidad de la CTE Antonio Guiteras.",
-    "timestamp": 1778336911,
-    "timestamp_local": 1778336911
-  },
-  {
-    "id": 46345,
-    "fecha": "09 de May del 2026 a las 10:09 AM",
-    "hora_utc": "2026-05-09 14:09",
-    "mensaje": "Actualización del servicio eléctrico en la provincia.\n👉En este momento la afectación por déficit de capacidad de generación es de 82 MW, demanda máxima posible a apagar en estos momentos.\n👉De los circuitos apagables se mantienen afectados 91.\n👉Cuenta con 116 afectaciones por averías secundarias y de servicio.",
-    "timestamp": 1778335742,
-    "timestamp_local": 1778335742
-  },
-  {
-    "id": 46344,
-    "fecha": "09 de May del 2026 a las 10:03 AM",
-    "hora_utc": "2026-05-09 14:03",
-    "mensaje": "⚠️Afectado el servicio eléctrico en los siguientes circuitos:\n🔹Municipio Encrucijada\n👉Cto 120 Calabazar\n👉Ctos 121 y 127 Perucho",
-    "timestamp": 1778335392,
-    "timestamp_local": 1778335392
   }
 ]
