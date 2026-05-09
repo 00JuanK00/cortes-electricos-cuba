@@ -1,5 +1,29 @@
 [
   {
+    "id": 46356,
+    "fecha": "09 de May del 2026 a las 01:23 PM",
+    "hora_utc": "2026-05-09 17:23",
+    "mensaje": "➡️Los disparos de circuito tienen diferentes aristas todas con distintos significados, es decir que ocurren por varias causas. Entre ellas encontramos:\n\n👉-Disparo de Circuito con Recierre: El conocido por los clientes como “quita y pon de corriente” es un tipo de protección utilizada mundialmente a partir del 80% aproximadamente de las interrupciones eléctricas son transitorias. Este fenómeno lo hace una sola vez ante un evento de red y no es dañino para para nuestros equipos electrodomésticos.\n\n👉- Disparo Automático por Frecuencia (DAF): El disparo por DAF ocurre cuando la frecuencia llega a valores mínimos permisibles que ponen en peligro la estabilidad del mismo y como protección desconecta varios circuitos de la Capital. Los mismo restablecen a medida que se vaya recuperando la frecuencia que tiene un valor de 60hz o ciclos por segundo.\n\n👉-Disparo de Circuito por Sobrecarga: Este ocurre mayormente en los horarios pico y en verano, ya que las altas temperaturas generan elevados consumos en la población y como consecuencia de ello fallas en los circuitos.\n\n👉-Disparo de Circuito por Posible Avería: Este fenómeno ocurre cuando existe una falla en algún circuito, ya sea soterrado, aéreo o en una subestación. Estas, a pesar de que son mucho más frecuentes cuando existe algún evento climatológico, pueden ocurrir en cualquier momento del día o la noche, ya que son situaciones que no cuentan con programación.",
+    "timestamp": 1778347418,
+    "timestamp_local": 1778347418
+  },
+  {
+    "id": 46354,
+    "fecha": "09 de May del 2026 a las 01:22 PM",
+    "hora_utc": "2026-05-09 17:22",
+    "mensaje": "⚡Afectado por disparo el circuito 77 Vueltas, del municipio Camajuani.",
+    "timestamp": 1778347363,
+    "timestamp_local": 1778347363
+  },
+  {
+    "id": 46353,
+    "fecha": "09 de May del 2026 a las 01:19 PM",
+    "hora_utc": "2026-05-09 17:19",
+    "mensaje": "💡Restablecido el servicio eléctrico en los siguientes circuitos:\n🔹Municipio Santa Clara:\n👉Cto 6 Vigía\n👉Cto 39 (Sandino)",
+    "timestamp": 1778347151,
+    "timestamp_local": 1778347151
+  },
+  {
     "id": 46352,
     "fecha": "09 de May del 2026 a las 12:15 PM",
     "hora_utc": "2026-05-09 16:15",
@@ -126,37 +150,5 @@
     "mensaje": "🚨Nota informativa.🚨\n\n📅Situación del SEN para el 9 de mayo de 2026.\n\n👉En el día de ayer se afectó el servicio por déficit de capacidad durante las 24 horas y se mantuvo la afectación durante todo el horario de la madrugada. La máxima afectación por déficit de capacidad de generación en el día de ayer fue de 1922 MW a las 22:00 horas, por salida imprevista de la unidad 3 de la CTE Renté.\n\n☀️La producción de energía de los 54 nuevos parques solares fotovoltaicos fue de 4239 MWh, con 572 MW como máxima potencia entregada en el horario de la media con esta fuente de generación.  \n\n👉La disponibilidad del SEN a las 06:00 horas es de 1390 MW, la demanda 2790 MW con 1422 MW afectados. En el horario de la media se estima una afectación de 1350 MW.  \n\n🛠️Se encuentran en avería la unidad de la CTE Antonio Guiteras, la unidad 2 de la CTE Felton y las unidades 3 y 5 de la CTE Renté. Se encuentran en mantenimiento la unidad 5 de la CTE Mariel, la unidad 5 de la CTE Nuevitas y la unidad 6 de la CTE Renté.\n\n👉Las limitaciones en la generación térmica son de 358 MW.\n\n👉Se pronostica para el pico la entrada de la unidad de la CTE Antonio Guiteras (en proceso de arranque) con 200 MW.\n\n📈Con este pronóstico se estima que para el horario de máxima demanda una disponibilidad de 1590 MW con una demanda máxima de 3300 MW, para un déficit de 1710 MW, por lo que de mantenerse las condiciones previstas se pronostica una afectación de 1740 MW en este horario.\n\nUNE-MINEM",
     "timestamp": 1778326589,
     "timestamp_local": 1778326589
-  },
-  {
-    "id": 46336,
-    "fecha": "09 de May del 2026 a las 06:41 AM",
-    "hora_utc": "2026-05-09 10:41",
-    "mensaje": "⚠️Afectado el servicio eléctrico en los siguientes circuitos:\n🔹Municipio Santa Clara:\n👉Cto 7 Universidad \n👉Cto 146 Elevado Aeropuerto\n👉Cto 22 Construcciones Textil\n👉Cto 131 Las Antillas\n👉Cto 153 EIDE\n👉Cto 25 Los Güiros\n👉Cto 24 Planta Asfalto\n👉Cto 35 (Biotecnología) \n👉Ctos 14, 15 y 27 Maleza",
-    "timestamp": 1778323305,
-    "timestamp_local": 1778323305
-  },
-  {
-    "id": 46335,
-    "fecha": "09 de May del 2026 a las 06:05 AM",
-    "hora_utc": "2026-05-09 10:05",
-    "mensaje": "🕕Actualización del servicio eléctrico.\n✍️El déficit de capacidad de generación en estos momentos es de 98 MW.\n✍️En el momento de esta nota, se mantienen afectados 113 circuitos.\n✍️ Cuenta con 94 afectaciones por averías secundarias y de servicio:\n🔸 Caibarién (2)\n🔸 Cifuentes (2)\n🔸 Corralillo (3)\n🔸 Encrucijada (2)\n🔸 Manicaragua (11)\n🔸 Placetas (3)\n🔸 Remedios (20) \n🔸 Sagua (14) \n🔸 Santa Clara (18)\n🔸 Santo Domingo (19)\n🛠️Se encuentran 1 averías en vías de solución.\n🛠️Pendientes a solucionar por el área técnica 23.\n🛠️Averia Cto 22 Construcciones Textil afectando  la Escuela Vocacional Ernesto Che Guevara.",
-    "timestamp": 1778321134,
-    "timestamp_local": 1778321134
-  },
-  {
-    "id": 46334,
-    "fecha": "09 de May del 2026 a las 04:08 AM",
-    "hora_utc": "2026-05-09 08:08",
-    "mensaje": "Actualización del servicio eléctrico en la provincia.\n👉En este momento la afectación por déficit de capacidad de generación es de 93 MW, demanda máxima posible a apagar en estos momentos.\n👉De los circuitos apagables se mantienen afectados 113.\n👉Cuenta con 94 afectaciones por averías secundarias y de servicio.",
-    "timestamp": 1778314108,
-    "timestamp_local": 1778314108
-  },
-  {
-    "id": 46333,
-    "fecha": "09 de May del 2026 a las 02:19 AM",
-    "hora_utc": "2026-05-09 06:19",
-    "mensaje": "Actualización del servicio eléctrico en la provincia.\n👉En este momento la afectación por déficit de capacidad de generación es de 99 MW, demanda máxima posible a apagar en estos momentos.\n👉De los circuitos apagables se mantienen afectados 113.\n👉Cuenta con 92 afectaciones por averías secundarias y de servicio.",
-    "timestamp": 1778307550,
-    "timestamp_local": 1778307550
   }
 ]

@@ -1,5 +1,21 @@
 [
   {
+    "id": 18993,
+    "fecha": "09 de May del 2026 a las 01:28 PM",
+    "hora_utc": "2026-05-09 17:28",
+    "mensaje": "Qué es un disparo por DAF?\nEl Disparo por Frecuencia (DAF) es un mecanismo de protección del sistema eléctrico. Se activa automáticamente cuando la frecuencia desciende por debajo de los valores mínimos seguros (menores de 60 Hz), lo que pone en riesgo la estabilidad del sistema.\nEn ese momento, algunos circuitos se desconectan de forma automática para aliviar la carga y permitir que la frecuencia vuelva a su valor nominal.\nEsto suele ocurrir cuando una planta generadora sale de servicio de manera imprevista, provocando un déficit de generación. El DAF ayuda a evitar un colapso mayor del sistema, aunque puede generar afectaciones al servicio como apagones parciales.",
+    "timestamp": 1778347694,
+    "timestamp_local": 1778347694
+  },
+  {
+    "id": 18992,
+    "fecha": "09 de May del 2026 a las 01:27 PM",
+    "hora_utc": "2026-05-09 17:27",
+    "mensaje": "Se encuentra disparado por DAF el circuito:\nCircuito 33 Kv: 6230\nTK59 Vedado 3\nTK67 Porcino\nTK68 Vedado 6\nTK69 Poblado de Menéndez\nTK70 Transporte\nTK99 Santa Marías\nTK98 San Manuel, La Pedrera\nTK64 Palma Picada",
+    "timestamp": 1778347663,
+    "timestamp_local": 1778347663
+  },
+  {
     "id": 18989,
     "fecha": "08 de May del 2026 a las 08:14 PM",
     "hora_utc": "2026-05-09 00:14",
@@ -126,13 +142,5 @@
     "mensaje": "Quedan afectados por disparo automático por frecuencia (DAF)los siguientes circuitos \nCircuito 33 Kv: 6310\nTK20 Becerra\nTK21 Tunazúcar\nTK39 Providencia IV\nTK50 Vázquez, La Jíbara, El Mijial, Maniabón, Cordero, San Roque, Coloma 4\nTK51 Santa Teresa\nTK54 Vázquez\nCircuito 33 Kv: 6305\nTK41 Calixto\nTK40 Vista Alegre\nTK42 Gastón y Arroyo Muerto\nTK45 La Ceiba\nTK43 Las Parras, Omaja y Cañada Honda\nTK44 Vivienda\nTK2 Bonachea",
     "timestamp": 1778172688,
     "timestamp_local": 1778172688
-  },
-  {
-    "id": 18973,
-    "fecha": "07 de May del 2026 a las 08:07 AM",
-    "hora_utc": "2026-05-07 12:07",
-    "mensaje": "Nota Informativa: Estado del Sistema Eléctrico Nacional (SEN) – 7 de mayo de 2026\n\nEn el día de ayer se afectó el servicio por déficit de capacidad durante las 24 horas y se mantuvo la afectación durante todo el horario de la madrugada. La máxima afectación por déficit de capacidad de generación en el día de ayer fue de 1874 MW a las 21:40 horas, superior a lo planificado por demanda por encima del plan.\n\nLa producción de energía de los 54 nuevos parques solares fotovoltaicos fue de 4420 MWh, con 604 MW como máxima potencia entregada en el horario de la media con esta fuente de generación.\nEstado actual del SEN\n\nLa disponibilidad del SEN a las 06:00 horas es de 1370 MW, la demanda 2850 MW con 1495 MW afectados. En el horario de la media se estima una afectación de 1350 MW.\nPrincipales incidencias\n\n    Avería: Unidad de la CTE Antonio Guiteras, Unidad 2 de la CTE Lidio Ramón Pérez y la Unidades 3 y 5 de la CTE Antonio Maceo.\n    Mantenimiento: Unidad 5 de la CTE Mariel, Unidad 6 de la CTE Renté, Unidad 5 de la CTE Nuevitas.\n    Limitaciones en la generación térmica: 345 MW fuera de servicio.\n\nPronóstico para el horario pico\n\nSe pronostica para el pico la entrada de Energás Varadero1 con 30 MW.\n\nCon este pronóstico se estima que para el horario de máxima demanda una disponibilidad de 1400 MW con una demanda máxima de 3250 MW, para un déficit de 1850 MW, por lo que de mantenerse las condiciones previstas se pronostica una afectación de 1880 MW en este horario.",
-    "timestamp": 1778155624,
-    "timestamp_local": 1778155624
   }
 ]
