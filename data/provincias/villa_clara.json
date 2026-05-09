@@ -1,5 +1,21 @@
 [
   {
+    "id": 46363,
+    "fecha": "09 de May del 2026 a las 03:57 PM",
+    "hora_utc": "2026-05-09 19:57",
+    "mensaje": "Actualización del servicio eléctrico en la provincia.\n👉En este momento la afectación por déficit de capacidad de generación es de 105 MW, demanda máxima posible a apagar en estos momentos.\n👉De los circuitos apagables se mantienen afectados 125.\n👉Cuenta con 129 afectaciones por averías secundarias y de servicio.",
+    "timestamp": 1778356643,
+    "timestamp_local": 1778356643
+  },
+  {
+    "id": 46362,
+    "fecha": "09 de May del 2026 a las 03:48 PM",
+    "hora_utc": "2026-05-09 19:48",
+    "mensaje": "🛠️Afectado por vía libre el circuito 194 (Zona Hospitalaria) por uso conjunto con la 33 kV.",
+    "timestamp": 1778356134,
+    "timestamp_local": 1778356134
+  },
+  {
     "id": 46361,
     "fecha": "09 de May del 2026 a las 03:36 PM",
     "hora_utc": "2026-05-09 19:36",
@@ -134,21 +150,5 @@
     "mensaje": "⚠️Afectado el servicio eléctrico en los siguientes circuitos:\n🔹Municipio Encrucijada\n👉Cto 120 Calabazar\n👉Ctos 121 y 127 Perucho",
     "timestamp": 1778335392,
     "timestamp_local": 1778335392
-  },
-  {
-    "id": 46343,
-    "fecha": "09 de May del 2026 a las 10:00 AM",
-    "hora_utc": "2026-05-09 14:00",
-    "mensaje": "💡Restablecido el servicio eléctrico en los siguientes circuitos:\n🔹Municipio Cifuentes:\n👉Ctos 114 y 117\n👉Ctos 116 y 155 Mata\n👉Cto 186 Batey Unidad Proletaria\n👉Cto 184 Sitio Grande\n🔹Municipio Encrucijada:\n👉Cto 122 Encrucijada  \n👉Cto 123 Vizcaya \n👉Cto 142 Comunidad La Sierra \n👉Cto 126 Batey Emilio Córdova\n👉Cto 125 Cavarrocas\n👉Cto 124 El Santo\n🔹Municipio Camajuaní:                                                              \n👉Cto 78 Jutiero\n👉Cto 75 La Quinta\n👉Cto 157 Luis Arcos Bergnes\n👉Ctos 76 y 90 Vega Alta",
-    "timestamp": 1778335240,
-    "timestamp_local": 1778335240
-  },
-  {
-    "id": 46342,
-    "fecha": "09 de May del 2026 a las 09:26 AM",
-    "hora_utc": "2026-05-09 13:26",
-    "mensaje": "🛠️Afectados por vía libre los siguientes circuitos:\n🔹Municipio Santa Clara\n👉Cto 146 Elevado Aeropuerto\n👉Cto 24 Planta Asfalto (de manera parcial, ramal Paraguitas)",
-    "timestamp": 1778333203,
-    "timestamp_local": 1778333203
   }
 ]
