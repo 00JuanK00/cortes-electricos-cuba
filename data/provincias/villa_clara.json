@@ -1,5 +1,13 @@
 [
   {
+    "id": 46384,
+    "fecha": "10 de May del 2026 a las 04:25 AM",
+    "hora_utc": "2026-05-10 08:25",
+    "mensaje": "Actualización del servicio eléctrico en la provincia.\n👉En este momento la afectación por déficit de capacidad de generación es de 101 MW, demanda máxima posible a apagar en estos momentos.\n👉De los circuitos apagables se mantienen afectados 136.\n👉Cuenta con 119 afectaciones por averías secundarias y de servicio.",
+    "timestamp": 1778401504,
+    "timestamp_local": 1778401504
+  },
+  {
     "id": 46382,
     "fecha": "10 de May del 2026 a las 01:56 AM",
     "hora_utc": "2026-05-10 05:56",
@@ -126,21 +134,5 @@
     "mensaje": "⚠️Afectado el servicio eléctrico en los siguientes circuitos:\n🔹Municipio Santa Clara\n👉Cto 25 Los Güiros\n\n👉Cto 35 Biotecnología\n👉Ctos 15 y 27 Maleza",
     "timestamp": 1778359867,
     "timestamp_local": 1778359867
-  },
-  {
-    "id": 46363,
-    "fecha": "09 de May del 2026 a las 03:57 PM",
-    "hora_utc": "2026-05-09 19:57",
-    "mensaje": "Actualización del servicio eléctrico en la provincia.\n👉En este momento la afectación por déficit de capacidad de generación es de 105 MW, demanda máxima posible a apagar en estos momentos.\n👉De los circuitos apagables se mantienen afectados 125.\n👉Cuenta con 129 afectaciones por averías secundarias y de servicio.",
-    "timestamp": 1778356643,
-    "timestamp_local": 1778356643
-  },
-  {
-    "id": 46362,
-    "fecha": "09 de May del 2026 a las 03:48 PM",
-    "hora_utc": "2026-05-09 19:48",
-    "mensaje": "🛠️Afectado por vía libre el circuito 194 (Zona Hospitalaria) por uso conjunto con la 33 kV.",
-    "timestamp": 1778356134,
-    "timestamp_local": 1778356134
   }
 ]
