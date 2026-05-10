@@ -1,5 +1,61 @@
 [
   {
+    "id": 46423,
+    "fecha": "10 de May del 2026 a las 02:30 PM",
+    "hora_utc": "2026-05-10 18:30",
+    "mensaje": "⚠️Afectado el servicio eléctrico en los siguientes circuitos:\n🔹Municipio Camajuaní:\n👉Cto 72 y 129",
+    "timestamp": 1778437848,
+    "timestamp_local": 1778437848
+  },
+  {
+    "id": 46422,
+    "fecha": "10 de May del 2026 a las 02:26 PM",
+    "hora_utc": "2026-05-10 18:26",
+    "mensaje": "➡️Los disparos de circuito tienen diferentes aristas todas con distintos significados, es decir que ocurren por varias causas. Entre ellas encontramos:\n\n👉-Disparo de Circuito con Recierre: El conocido por los clientes como “quita y pon de corriente” es un tipo de protección utilizada mundialmente a partir del 80% aproximadamente de las interrupciones eléctricas son transitorias. Este fenómeno lo hace una sola vez ante un evento de red y no es dañino para para nuestros equipos electrodomésticos.\n\n👉- Disparo Automático por Frecuencia (DAF): El disparo por DAF ocurre cuando la frecuencia llega a valores mínimos permisibles que ponen en peligro la estabilidad del mismo y como protección desconecta varios circuitos de la Capital. Los mismo restablecen a medida que se vaya recuperando la frecuencia que tiene un valor de 60hz o ciclos por segundo.\n\n👉-Disparo de Circuito por Sobrecarga: Este ocurre mayormente en los horarios pico y en verano, ya que las altas temperaturas generan elevados consumos en la población y como consecuencia de ello fallas en los circuitos.\n\n👉-Disparo de Circuito por Posible Avería: Este fenómeno ocurre cuando existe una falla en algún circuito, ya sea soterrado, aéreo o en una subestación. Estas, a pesar de que son mucho más frecuentes cuando existe algún evento climatológico, pueden ocurrir en cualquier momento del día o la noche, ya que son situaciones que no cuentan con programación.",
+    "timestamp": 1778437575,
+    "timestamp_local": 1778437575
+  },
+  {
+    "id": 46420,
+    "fecha": "10 de May del 2026 a las 02:13 PM",
+    "hora_utc": "2026-05-10 18:13",
+    "mensaje": "Actualización del servicio eléctrico en la provincia.\n👉En este momento la afectación por déficit de capacidad de generación es de 114 MW, demanda máxima posible a apagar en estos momentos.\n👉De los circuitos apagables se mantienen afectados 130.\n👉Cuenta con 150 afectaciones por averías secundarias y de servicio.",
+    "timestamp": 1778436804,
+    "timestamp_local": 1778436804
+  },
+  {
+    "id": 46419,
+    "fecha": "10 de May del 2026 a las 02:11 PM",
+    "hora_utc": "2026-05-10 18:11",
+    "mensaje": "⚠️Afectado el servicio eléctrico en los siguientes circuitos:\n🔹Municipio Encrucijada:\n👉Cto 122 Encrucijada  \n👉Cto 123 Vizcaya \n👉Cto 142 Comunidad La Sierra \n👉Cto 126 Batey Emilio Córdova\n👉Cto 125 Cavarrocas\n👉Cto 124 El Santo\n🔹Municipio Camajuaní:                                                              \n👉Cto 78 Jutiero\n👉Cto 75 La Quinta\n👉Cto 157 Luis Arcos Bergnes\n👉Ctos 76 y 90 Vega Alta",
+    "timestamp": 1778436671,
+    "timestamp_local": 1778436671
+  },
+  {
+    "id": 46418,
+    "fecha": "10 de May del 2026 a las 01:44 PM",
+    "hora_utc": "2026-05-10 17:44",
+    "mensaje": "⚠️Afectado el servicio eléctrico en los siguientes circuitos:\n🔹Municipio Manicaragua:\n👉Ctos 109 y 150\n👉Ctos 108 y 110 La Piedra\n👉Cto 111 Mataguá",
+    "timestamp": 1778435054,
+    "timestamp_local": 1778435054
+  },
+  {
+    "id": 46417,
+    "fecha": "10 de May del 2026 a las 01:41 PM",
+    "hora_utc": "2026-05-10 17:41",
+    "mensaje": "⚡Afectado el circuito 31 Sakenaf del municipio Santa Clara. Se estudian las causas.",
+    "timestamp": 1778434897,
+    "timestamp_local": 1778434897
+  },
+  {
+    "id": 46416,
+    "fecha": "10 de May del 2026 a las 01:35 PM",
+    "hora_utc": "2026-05-10 17:35",
+    "mensaje": "Restablecido parcialmente los circuitos 182 y 183 Van Troi del municipio Caibarién.\n✍️Queda afectado el Ramal Gambaito por cable primario partido. Brigadas eléctricas de nuestra empresa preparan las condiciones necesarias para trabajar en el lugar.",
+    "timestamp": 1778434526,
+    "timestamp_local": 1778434526
+  },
+  {
     "id": 46415,
     "fecha": "10 de May del 2026 a las 01:33 PM",
     "hora_utc": "2026-05-10 17:33",
@@ -94,69 +150,5 @@
     "mensaje": "⚠️Afectado el servicio eléctrico en los siguientes circuitos:\n🔹Municipio Cifuentes:\n👉Ctos 114 y 117\n👉Ctos 116 y 155 Mata\n👉Cto 186 Batey Unidad Proletaria\n👉Cto 184 Sitio Grande",
     "timestamp": 1778428811,
     "timestamp_local": 1778428811
-  },
-  {
-    "id": 46403,
-    "fecha": "10 de May del 2026 a las 10:43 AM",
-    "hora_utc": "2026-05-10 14:43",
-    "mensaje": "Con servicio el circuito 31 Sakenaf del municipio Santa Clara.",
-    "timestamp": 1778424184,
-    "timestamp_local": 1778424184
-  },
-  {
-    "id": 46402,
-    "fecha": "10 de May del 2026 a las 10:34 AM",
-    "hora_utc": "2026-05-10 14:34",
-    "mensaje": "🛠️ Afectado por manipulación el circuito 31 Sakenaf del municipio Santa Clara, para reponer transformador:",
-    "timestamp": 1778423683,
-    "timestamp_local": 1778423683
-  },
-  {
-    "id": 46401,
-    "fecha": "10 de May del 2026 a las 10:33 AM",
-    "hora_utc": "2026-05-10 14:33",
-    "mensaje": "⚠️Afectado el servicio eléctrico en los siguientes circuitos:\n🔹Municipio Ranchuelo: \n👉Ctos 89, 97, 188 y 189\n👉Ctos 148 y 149 San Juan\n👉Cto 91 Batey Osvaldo Herrera\n👉Cto 181 Batey Ifraín Alfonso\n👉Cto 92 Esperanza (Pueblo)",
-    "timestamp": 1778423614,
-    "timestamp_local": 1778423614
-  },
-  {
-    "id": 46400,
-    "fecha": "10 de May del 2026 a las 10:09 AM",
-    "hora_utc": "2026-05-10 14:09",
-    "mensaje": "Actualización del servicio eléctrico en la provincia.\n👉En este momento la afectación por déficit de capacidad de generación es de 111 MW, demanda máxima posible a apagar en estos momentos.\n👉De los circuitos apagables se mantienen afectados 130.\n👉Cuenta con 132 afectaciones por averías secundarias y de servicio.",
-    "timestamp": 1778422195,
-    "timestamp_local": 1778422195
-  },
-  {
-    "id": 46399,
-    "fecha": "10 de May del 2026 a las 10:05 AM",
-    "hora_utc": "2026-05-10 14:05",
-    "mensaje": "⚠️Afectado el servicio eléctrico en los siguientes circuitos:\n🔹Municipio Santa Clara: \n👉Cto 166 Condado\n👉Cto 167 Virginia\n👉Cto 170 José Martí\n👉Cto 171 Los Caneyes",
-    "timestamp": 1778421950,
-    "timestamp_local": 1778421950
-  },
-  {
-    "id": 46398,
-    "fecha": "10 de May del 2026 a las 09:36 AM",
-    "hora_utc": "2026-05-10 13:36",
-    "mensaje": "⚡ Actualización del Sistema Electroenergético Nacional para el 10 de mayo de 2026.\n\nLeer más: https://www.unionelectrica.cu/nota-informativa/\n\n#UnidosXCuba #UniónEléctrica #UNE #NotaInformativa",
-    "timestamp": 1778420197,
-    "timestamp_local": 1778420197
-  },
-  {
-    "id": 46397,
-    "fecha": "10 de May del 2026 a las 09:36 AM",
-    "hora_utc": "2026-05-10 13:36",
-    "mensaje": "🚨Nota informativa🚨 \n\n\n📅Situación del SEN para el 10 de mayo de 2026.\n\n\n👉En el día de ayer se afectó el servicio por déficit de capacidad durante las 24 horas y se mantuvo la afectación durante todo el horario de la madrugada. La máxima afectación por déficit de capacidad de generación en el día de ayer fue de 1773 MW a las 23:40 horas.\n\n\n🌞La producción de energía de los 54 nuevos parques solares fotovoltaicos fue de 4558 MWh, con 626 MW como máxima potencia entregada en el horario de la media con esta fuente de generación.  \n\n👉La disponibilidad del SEN a las 06:00 horas es de 1370 MW, la demanda 2800 MW con 1420 MW afectados. En el horario de la media se estima una afectación de 1350 MW.  \n\n🛠️Se encuentran en avería la unidad 3 de la CTE Santa Cruz, la unidad de la CTE Guiteras, la unidad 2 de la CTE Felton y las unidades 3 y 5 de la CTE Renté. Se encuentran en mantenimiento la unidad 5 de la CTE Mariel, la unidad 5 de la CTE Nuevitas y la unidad 6 de la CTE Renté.\n\n👉Las limitaciones en la generación térmica son de 290 MW.\n\n📈Para el pico se prevé la entrada de la unidad de la CTE Guiteras con 200 MW y la entrada de la unidad 3 de la CTE Renté con 45 MW (en proceso de arranque).   \n \n📝Con este pronóstico se estima que para el horario de máxima demanda una disponibilidad de 1615 MW con una demanda máxima de 3200 MW, para un déficit de 1585 MW, por lo que de mantenerse las condiciones previstas se pronostica una afectación de 1615 MW en este horario.\n\nUNE-MINEM",
-    "timestamp": 1778420181,
-    "timestamp_local": 1778420181
-  },
-  {
-    "id": 46396,
-    "fecha": "10 de May del 2026 a las 09:34 AM",
-    "hora_utc": "2026-05-10 13:34",
-    "mensaje": "Con servicio la línea 108:\n🔹Municipio Santa Clara\n👉Ctos 26 y 141 Manuelita\n👉Cto 191 Quemado de Hilario",
-    "timestamp": 1778420075,
-    "timestamp_local": 1778420075
   }
 ]
