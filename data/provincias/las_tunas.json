@@ -1,5 +1,21 @@
 [
   {
+    "id": 18996,
+    "fecha": "09 de May del 2026 a las 08:42 PM",
+    "hora_utc": "2026-05-10 00:42",
+    "mensaje": "Se declara en avería el avería el circuito 6840  Los Kilómetros de Amancio",
+    "timestamp": 1778373765,
+    "timestamp_local": 1778373765
+  },
+  {
+    "id": 18995,
+    "fecha": "09 de May del 2026 a las 08:32 PM",
+    "hora_utc": "2026-05-10 00:32",
+    "mensaje": "🇨🇺 Actualización del Sistema Electroenergético Nacional a las 19:00 del 9 de mayo de 2026.\n\nIncidencias\n8:38 En línea la Unidad de la CTE Antonio Guiteras",
+    "timestamp": 1778373122,
+    "timestamp_local": 1778373122
+  },
+  {
     "id": 18993,
     "fecha": "09 de May del 2026 a las 01:28 PM",
     "hora_utc": "2026-05-09 17:28",
@@ -118,21 +134,5 @@
     "mensaje": "✅Queda restablecido el servicio eléctrico a los circuitos que se encontraban afectados por disparo automático por frecuencia (DAF)",
     "timestamp": 1778173466,
     "timestamp_local": 1778173466
-  },
-  {
-    "id": 18976,
-    "fecha": "07 de May del 2026 a las 12:53 PM",
-    "hora_utc": "2026-05-07 16:53",
-    "mensaje": "🚨Quedan afectados por disparo automático por frecuencia( DAF) los siguientes circuitos \nBloque # 1\nCircuito 33 Kv: 6230\nTK59 Vedado 3\nTK67 Porcino\nTK68 Vedado 6\nTK69 Poblado de Menéndez\nTK70 Transporte\nTK99 Santa Marías\nTK98 San Manuel, La Pedrera\nTK64 Palma Picada",
-    "timestamp": 1778172834,
-    "timestamp_local": 1778172834
-  },
-  {
-    "id": 18975,
-    "fecha": "07 de May del 2026 a las 12:51 PM",
-    "hora_utc": "2026-05-07 16:51",
-    "mensaje": "Qué es un disparo por DAF?\nEl Disparo por Frecuencia (DAF) es un mecanismo de protección del sistema eléctrico. Se activa automáticamente cuando la frecuencia desciende por debajo de los valores mínimos seguros (menores de 60 Hz), lo que pone en riesgo la estabilidad del sistema.\nEn ese momento, algunos circuitos se desconectan de forma automática para aliviar la carga y permitir que la frecuencia vuelva a su valor nominal.\nEsto suele ocurrir cuando una planta generadora sale de servicio de manera imprevista, provocando un déficit de generación. El DAF ayuda a evitar un colapso mayor del sistema, aunque puede generar afectaciones al servicio como apagones parciales.",
-    "timestamp": 1778172709,
-    "timestamp_local": 1778172709
   }
 ]

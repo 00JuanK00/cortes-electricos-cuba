@@ -1,9 +1,25 @@
 [
   {
+    "id": 46373,
+    "fecha": "09 de May del 2026 a las 09:08 PM",
+    "hora_utc": "2026-05-10 01:08",
+    "mensaje": "Afectados 133 MW en la provincia, demanda máxima a apagar en estos momentos.",
+    "timestamp": 1778375303,
+    "timestamp_local": 1778375303
+  },
+  {
+    "id": 46371,
+    "fecha": "09 de May del 2026 a las 07:57 PM",
+    "hora_utc": "2026-05-09 23:57",
+    "mensaje": "Actualización del servicio eléctrico en la provincia.\n👉En este momento la afectación por déficit de capacidad de generación es de 134 MW, demanda máxima posible a apagar en estos momentos.\n👉De los circuitos apagables se mantienen afectados 136.\n👉Cuenta con 133 afectaciones por averías secundarias y de servicio.",
+    "timestamp": 1778371055,
+    "timestamp_local": 1778371055
+  },
+  {
     "id": 46369,
     "fecha": "09 de May del 2026 a las 06:09 PM",
     "hora_utc": "2026-05-09 22:09",
-    "mensaje": "🕕Actualización del servicio eléctrico.\n✍️El déficit de capacidad de generación en estos momentos es de 129 MW\n✍️En el momento de esta nota, se mantienen afectados 133 circuitos.\n✍️ Cuenta con 136 afectaciones por averías secundarias y de servicio:\n🔸Camajuaní (1)\n🔸 Cifuentes (2)\n🔸 Corralillo (2)\n🔸 Manicaragua (10)\n🔸 Placetas (11)\n🔸 Ranchuelo (7)\n🔸 Remedios (14) \n🔸 Sagua (18) \n🔸 Santa Clara (51)\n🔸 Santo Domingo (17)\n🛠️Se encuentran 2 averías en vías de solución.\n🛠️Pendientes a solucionar por el área técnica 20.\n\n⚡Averías⚡\n⚠️Afectada por avería la Línea 110 kV quedando afectados los municipios Camajuani y Remedios.",
+    "mensaje": "🕕Actualización del servicio eléctrico.\n✍️El déficit de capacidad de generación en estos momentos es de 129 MW\n✍️En el momento de esta nota, se mantienen afectados 133 circuitos.\n✍️ Cuenta con 136 afectaciones por averías secundarias y de servicio:\n🔸Camajuaní (1)\n🔸 Cifuentes (2)\n🔸 Corralillo (2)\n🔸 Manicaragua (10)\n🔸 Placetas (11)\n🔸 Ranchuelo (7)\n🔸 Remedios (14) \n🔸 Sagua (18) \n🔸 Santa Clara (51)\n🔸 Santo Domingo (17)\n🛠️Se encuentran 2 averías en vías de solución.\n🛠️Pendientes a solucionar por el área técnica 20.\n\n⚡Averías⚡\n⚠️Afectada por avería la Línea 110 kV quedando afectados los municipios Caibarien, Camajuani y Remedios.",
     "timestamp": 1778364569,
     "timestamp_local": 1778364569
   },
@@ -118,37 +134,5 @@
     "mensaje": "⚡Afectado por disparo el circuito 77 Vueltas, del municipio Camajuani.",
     "timestamp": 1778347363,
     "timestamp_local": 1778347363
-  },
-  {
-    "id": 46353,
-    "fecha": "09 de May del 2026 a las 01:19 PM",
-    "hora_utc": "2026-05-09 17:19",
-    "mensaje": "💡Restablecido el servicio eléctrico en los siguientes circuitos:\n🔹Municipio Santa Clara:\n👉Cto 6 Vigía\n👉Cto 39 (Sandino)",
-    "timestamp": 1778347151,
-    "timestamp_local": 1778347151
-  },
-  {
-    "id": 46352,
-    "fecha": "09 de May del 2026 a las 12:15 PM",
-    "hora_utc": "2026-05-09 16:15",
-    "mensaje": "⚡Afectado por estar faltando una fase el circuito 107 Baez, del municipio Placetas.",
-    "timestamp": 1778343358,
-    "timestamp_local": 1778343358
-  },
-  {
-    "id": 46351,
-    "fecha": "09 de May del 2026 a las 12:03 PM",
-    "hora_utc": "2026-05-09 16:03",
-    "mensaje": "🕛Actualización del servicio eléctrico.\n✍️El déficit de capacidad de generación en estos momentos es de 109 MW\n✍️En el momento de esta nota, se mantienen afectados 120 circuitos.\n✍️ Cuenta con 150 afectaciones por averías secundarias y de servicio:\n🔸 Caibarién (2)\n🔸 Cifuentes (2)\n🔸 Corralillo (3)\n🔸 Encrucijada (2)\n🔸 Manicaragua (9)\n🔸 Placetas (6)\n🔸 Ranchuelo (5)\n🔸 Remedios (19) \n🔸 Sagua (17) \n🔸 Santa Clara (37)\n🔸 Santo Domingo (24)\n🛠️Se encuentran 1 averías en vías de solución.\n🛠️Pendientes a solucionar por el área técnica 22.\n\n⚡Averías⚡\n🛠️Afectados por vía libre los siguientes circuitos:\n🔹Municipio Santa Clara:\n👉Cto 6 Vigía\n👉Cto 39 (Sandino)\n🛠️Afectados por vía libre los siguientes circuitos:\n🔹Municipio Santa Clara\n👉Cto 146 Elevado Aeropuerto\n👉Cto 24 Planta Asfalto (de manera parcial, ramal Paraguitas)\n🛠️En vía libre el circuito 22 Construcciones Textiles",
-    "timestamp": 1778342604,
-    "timestamp_local": 1778342604
-  },
-  {
-    "id": 46350,
-    "fecha": "09 de May del 2026 a las 11:37 AM",
-    "hora_utc": "2026-05-09 15:37",
-    "mensaje": "💡Con servicio eléctrico el circuito 31( Santa Clara industrial).",
-    "timestamp": 1778341052,
-    "timestamp_local": 1778341052
   }
 ]
