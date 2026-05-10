@@ -1,5 +1,13 @@
 [
   {
+    "id": 18999,
+    "fecha": "10 de May del 2026 a las 08:51 AM",
+    "hora_utc": "2026-05-10 12:51",
+    "mensaje": "📌 Estimados clientes 📌\n\nPronóstico para el horario pico:\n\n🔋 Para el pico se prevé la entrada de la unidad de la CTE Guiteras con 200 MW y la entrada de la unidad 3 de la CTE Renté con 45 MW (en proceso de arranque).",
+    "timestamp": 1778417464,
+    "timestamp_local": 1778417464
+  },
+  {
     "id": 18997,
     "fecha": "10 de May del 2026 a las 08:13 AM",
     "hora_utc": "2026-05-10 12:13",
@@ -102,29 +110,5 @@
     "mensaje": "✅Queda restablecido el servicio eléctrico a los circuitos que se encontraban afectados por disparo automático por frecuencia (DAF)",
     "timestamp": 1778184611,
     "timestamp_local": 1778184611
-  },
-  {
-    "id": 18981,
-    "fecha": "07 de May del 2026 a las 03:40 PM",
-    "hora_utc": "2026-05-07 19:40",
-    "mensaje": "Quedan afectados por disparo automático por frecuencia(DAF) los siguientes circuitos \nTK5 Buena Vista, Los Pinos\nTK106 Palancón, Buena Vista",
-    "timestamp": 1778182840,
-    "timestamp_local": 1778182840
-  },
-  {
-    "id": 18980,
-    "fecha": "07 de May del 2026 a las 03:36 PM",
-    "hora_utc": "2026-05-07 19:36",
-    "mensaje": "Qué es un disparo por DAF?\nEl Disparo por Frecuencia (DAF) es un mecanismo de protección del sistema eléctrico. Se activa automáticamente cuando la frecuencia desciende por debajo de los valores mínimos seguros (menores de 60 Hz), lo que pone en riesgo la estabilidad del sistema.\nEn ese momento, algunos circuitos se desconectan de forma automática para aliviar la carga y permitir que la frecuencia vuelva a su valor nominal.\nEsto suele ocurrir cuando una planta generadora sale de servicio de manera imprevista, provocando un déficit de generación. El DAF ayuda a evitar un colapso mayor del sistema, aunque puede generar afectaciones al servicio como apagones parciales.",
-    "timestamp": 1778182611,
-    "timestamp_local": 1778182611
-  },
-  {
-    "id": 18979,
-    "fecha": "07 de May del 2026 a las 03:36 PM",
-    "hora_utc": "2026-05-07 19:36",
-    "mensaje": "Quedan afectados por disparo automático por frecuencia (DAF)los siguientes circuitos \nCircuito 33 Kv: 6310\nTK20 Becerra\nTK21 Tunazúcar\nTK39 Providencia IV\nTK50 Vázquez, La Jíbara, El Mijial, Maniabón, Cordero, San Roque, Coloma 4\nTK51 Santa Teresa\nTK54 Vázquez\nCircuito 33 Kv: 6305\nTK41 Calixto\nTK40 Vista Alegre\nTK42 Gastón y Arroyo Muerto\nTK45 La Ceiba\nTK43 Las Parras, Omaja y Cañada Honda\nTK44 Vivienda\nTK2 Bonachea",
-    "timestamp": 1778182569,
-    "timestamp_local": 1778182569
   }
 ]
