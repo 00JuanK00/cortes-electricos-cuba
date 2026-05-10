@@ -1,5 +1,13 @@
 [
   {
+    "id": 46382,
+    "fecha": "10 de May del 2026 a las 01:56 AM",
+    "hora_utc": "2026-05-10 05:56",
+    "mensaje": "Actualización del servicio eléctrico en la provincia.\n👉En este momento la afectación por déficit de capacidad de generación es de 107 MW, demanda máxima posible a apagar en estos momentos.\n👉De los circuitos apagables se mantienen afectados 136.\n👉Cuenta con 120 afectaciones por averías secundarias y de servicio.",
+    "timestamp": 1778392562,
+    "timestamp_local": 1778392562
+  },
+  {
     "id": 46381,
     "fecha": "09 de May del 2026 a las 11:55 PM",
     "hora_utc": "2026-05-10 03:55",
@@ -134,13 +142,5 @@
     "mensaje": "🛠️Afectado por vía libre el circuito 194 (Zona Hospitalaria) por uso conjunto con la 33 kV.",
     "timestamp": 1778356134,
     "timestamp_local": 1778356134
-  },
-  {
-    "id": 46361,
-    "fecha": "09 de May del 2026 a las 03:36 PM",
-    "hora_utc": "2026-05-09 19:36",
-    "mensaje": "🛠️Afectada por manipulación la Línea 1920\n➡️Línea 1920\n🔹Municipio Placetas:\n👉Ctos 101 y 145 Cumbre\n👉Cto 107 Baez\n👉Cto 105 Nazareno",
-    "timestamp": 1778355367,
-    "timestamp_local": 1778355367
   }
 ]
