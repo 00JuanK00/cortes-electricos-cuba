@@ -1,5 +1,29 @@
 [
   {
+    "id": 46388,
+    "fecha": "10 de May del 2026 a las 08:22 AM",
+    "hora_utc": "2026-05-10 12:22",
+    "mensaje": "Actualización del servicio eléctrico en la provincia.\n👉En este momento la afectación por déficit de capacidad de generación es de 101 MW, demanda máxima posible a apagar en estos momentos.\n👉De los circuitos apagables se mantienen afectados 124.\n👉Cuenta con 128 afectaciones por averías secundarias y de servicio.",
+    "timestamp": 1778415774,
+    "timestamp_local": 1778415774
+  },
+  {
+    "id": 46387,
+    "fecha": "10 de May del 2026 a las 08:21 AM",
+    "hora_utc": "2026-05-10 12:21",
+    "mensaje": "Con servicio la línea 108:\n🔹Municipio Santa Clara\n👉Ctos 26 y 141 Manuelita\n👉Cto 191 Quemado de Hilario",
+    "timestamp": 1778415695,
+    "timestamp_local": 1778415695
+  },
+  {
+    "id": 46386,
+    "fecha": "10 de May del 2026 a las 07:45 AM",
+    "hora_utc": "2026-05-10 11:45",
+    "mensaje": "🛠️ Afectado por emergencia la línea 108:\nAfecta los siguientes circuitos:\n🔹Municipio Santa Clara\n👉Ctos 26 y 141 Manuelita\n👉Cto 191 Quemado de Hilario",
+    "timestamp": 1778413516,
+    "timestamp_local": 1778413516
+  },
+  {
     "id": 46385,
     "fecha": "10 de May del 2026 a las 06:12 AM",
     "hora_utc": "2026-05-10 10:12",
@@ -110,29 +134,5 @@
     "mensaje": "💡Restablecido el servicio eléctrico en el siguiente circuito:\n🔹Municipio Santa Clara\n:👉Cto 6 Vigía\n👉Cto 39 (Sandino)",
     "timestamp": 1778363741,
     "timestamp_local": 1778363741
-  },
-  {
-    "id": 46367,
-    "fecha": "09 de May del 2026 a las 05:20 PM",
-    "hora_utc": "2026-05-09 21:20",
-    "mensaje": "💡Restablecido el servicio eléctrico en el siguiente circuito:\n👉Cto 194 (Zona Hospitalaria)",
-    "timestamp": 1778361621,
-    "timestamp_local": 1778361621
-  },
-  {
-    "id": 46366,
-    "fecha": "09 de May del 2026 a las 05:10 PM",
-    "hora_utc": "2026-05-09 21:10",
-    "mensaje": "⚠️Afectada por avería la Línea 110 kV quedando afectados los municipios Camajuani y Remedios.",
-    "timestamp": 1778361056,
-    "timestamp_local": 1778361056
-  },
-  {
-    "id": 46365,
-    "fecha": "09 de May del 2026 a las 05:02 PM",
-    "hora_utc": "2026-05-09 21:02",
-    "mensaje": "⚠️Disparo en la Línea 110 kV Camajuani-Remedios, nuestro especialistas se encuentran trabajando para poder restablecer el servicio en el menor tiempo posible.",
-    "timestamp": 1778360520,
-    "timestamp_local": 1778360520
   }
 ]
