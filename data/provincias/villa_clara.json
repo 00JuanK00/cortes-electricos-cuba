@@ -1,5 +1,101 @@
 [
   {
+    "id": 46532,
+    "fecha": "11 de May del 2026 a las 03:10 PM",
+    "hora_utc": "2026-05-11 19:10",
+    "mensaje": "🔴 10:31 am || Fuera de línea la Unidad 1 de la CTE Lidio Ramón Pérez \"Felton\", por mantenimiento ligero.",
+    "timestamp": 1778526608,
+    "timestamp_local": 1778526608
+  },
+  {
+    "id": 46531,
+    "fecha": "11 de May del 2026 a las 03:01 PM",
+    "hora_utc": "2026-05-11 19:01",
+    "mensaje": "Afectados 110 MW en la provincia, demanda máxima a apagar en estos momentos.",
+    "timestamp": 1778526112,
+    "timestamp_local": 1778526112
+  },
+  {
+    "id": 46530,
+    "fecha": "11 de May del 2026 a las 02:59 PM",
+    "hora_utc": "2026-05-11 18:59",
+    "mensaje": "⚠️Afectada por manipulación la línea del 6375:\n🔹Municipio Santa Clara\n👉Cto 7 Universidad\n👉Cto 22 Construcciones Textil\n👉Cto 131 Las Antillas\n👉Cto 153 EIDE \n👉Ctos 14, 15 y 27 Maleza",
+    "timestamp": 1778525942,
+    "timestamp_local": 1778525942
+  },
+  {
+    "id": 46529,
+    "fecha": "11 de May del 2026 a las 02:39 PM",
+    "hora_utc": "2026-05-11 18:39",
+    "mensaje": "⚠️Afectado el servicio eléctrico en el siguiente circuito:\n🔹Municipio Santa Clara:\n👉Cto 3 Consejo- Centro",
+    "timestamp": 1778524788,
+    "timestamp_local": 1778524788
+  },
+  {
+    "id": 46528,
+    "fecha": "11 de May del 2026 a las 02:38 PM",
+    "hora_utc": "2026-05-11 18:38",
+    "mensaje": "💡Con servicio el siguiente circuito:\n🔹Municipio Santa Clara:\n👉Cto 4 Consejo- Centro",
+    "timestamp": 1778524722,
+    "timestamp_local": 1778524722
+  },
+  {
+    "id": 46527,
+    "fecha": "11 de May del 2026 a las 02:14 PM",
+    "hora_utc": "2026-05-11 18:14",
+    "mensaje": "💡Con servicio los siguientes circuitos:\n🔹Municipio Camajuaní:\n👉Ctos 77, 59 y 185 Vueltas",
+    "timestamp": 1778523269,
+    "timestamp_local": 1778523269
+  },
+  {
+    "id": 46526,
+    "fecha": "11 de May del 2026 a las 02:13 PM",
+    "hora_utc": "2026-05-11 18:13",
+    "mensaje": "⚠️Afectado el servicio eléctrico en los siguientes circuitos:\n🔹Municipio Caibarién\n👉Ctos 182 y 183 Van Troy",
+    "timestamp": 1778523228,
+    "timestamp_local": 1778523228
+  },
+  {
+    "id": 46525,
+    "fecha": "11 de May del 2026 a las 02:03 PM",
+    "hora_utc": "2026-05-11 18:03",
+    "mensaje": "Actualización del servicio eléctrico en la provincia.\n👉En este momento la afectación por déficit de capacidad de generación es de 108 MW, demanda máxima posible a apagar en estos momentos.\n👉De los circuitos apagables se mantienen afectados 126.\n👉Cuenta con 177 afectaciones por averías secundarias y de servicio.",
+    "timestamp": 1778522581,
+    "timestamp_local": 1778522581
+  },
+  {
+    "id": 46524,
+    "fecha": "11 de May del 2026 a las 01:39 PM",
+    "hora_utc": "2026-05-11 17:39",
+    "mensaje": "💡Con servicio los siguientes circuitos:\n🔹Municipio Placetas \n👉Ctos 100 y 151 Placetas\n👉Cto 104 Hermanos Amejeiras\n👉Cto 103 Batey Carbó Servía",
+    "timestamp": 1778521140,
+    "timestamp_local": 1778521140
+  },
+  {
+    "id": 46523,
+    "fecha": "11 de May del 2026 a las 01:38 PM",
+    "hora_utc": "2026-05-11 17:38",
+    "mensaje": "⚠️Afectado el servicio eléctrico en el siguiente circuito:\n🔹Municipio Placetas\n👉Cto 98 Placetas",
+    "timestamp": 1778521091,
+    "timestamp_local": 1778521091
+  },
+  {
+    "id": 46522,
+    "fecha": "11 de May del 2026 a las 01:37 PM",
+    "hora_utc": "2026-05-11 17:37",
+    "mensaje": "💡Con servicio los siguientes circuitos:\n🔹Municipio Santa Clara: \n👉Cto 167 Virginia\n👉Cto 170 José Martí",
+    "timestamp": 1778521033,
+    "timestamp_local": 1778521033
+  },
+  {
+    "id": 46521,
+    "fecha": "11 de May del 2026 a las 01:13 PM",
+    "hora_utc": "2026-05-11 17:13",
+    "mensaje": "Afectados 108 MW en la provincia, demanda máxima a apagar en estos momentos.",
+    "timestamp": 1778519632,
+    "timestamp_local": 1778519632
+  },
+  {
     "id": 46519,
     "fecha": "11 de May del 2026 a las 12:57 PM",
     "hora_utc": "2026-05-11 16:57",
@@ -62,101 +158,5 @@
     "mensaje": "⚠️Afectado el servicio eléctrico en los siguientes circuitos:\n🔹Municipio Santa Clara\n👉Cto 7 Universidad\n👉Cto 22 Construcciones Textil\n👉Cto 131 Las Antillas",
     "timestamp": 1778513396,
     "timestamp_local": 1778513396
-  },
-  {
-    "id": 46511,
-    "fecha": "11 de May del 2026 a las 11:27 AM",
-    "hora_utc": "2026-05-11 15:27",
-    "mensaje": "💡Con servicio el Cto 30 y 193 Santa Clara Industrial, pertenecientes al municipio Santa Clara.",
-    "timestamp": 1778513224,
-    "timestamp_local": 1778513224
-  },
-  {
-    "id": 46510,
-    "fecha": "11 de May del 2026 a las 11:24 AM",
-    "hora_utc": "2026-05-11 15:24",
-    "mensaje": "⚠️Afectado por manipulación el Cto 30 y 193 Santa Clara Industrial, pertenecientes al municipio Santa Clara.",
-    "timestamp": 1778513091,
-    "timestamp_local": 1778513091
-  },
-  {
-    "id": 46509,
-    "fecha": "11 de May del 2026 a las 11:20 AM",
-    "hora_utc": "2026-05-11 15:20",
-    "mensaje": "💡Con servicio el Cto 122 , perteneciente al municipio Encrucijada.",
-    "timestamp": 1778512821,
-    "timestamp_local": 1778512821
-  },
-  {
-    "id": 46508,
-    "fecha": "11 de May del 2026 a las 11:06 AM",
-    "hora_utc": "2026-05-11 15:06",
-    "mensaje": "💡Con servicio los siguientes circuitos:\n🔹Municipio Caibarién\n👉Ctos 182 y 183 Van Troy",
-    "timestamp": 1778512001,
-    "timestamp_local": 1778512001
-  },
-  {
-    "id": 46507,
-    "fecha": "11 de May del 2026 a las 11:05 AM",
-    "hora_utc": "2026-05-11 15:05",
-    "mensaje": "⚠️Afectado el servicio eléctrico en los siguientes circuitos:\n🔹Municipio Caibarién\n👉Ctos 63 y 64\n🔹Municipio Santa Clara:\n👉Ctos 1 y 4 Consejo- Centro",
-    "timestamp": 1778511955,
-    "timestamp_local": 1778511955
-  },
-  {
-    "id": 46506,
-    "fecha": "11 de May del 2026 a las 11:04 AM",
-    "hora_utc": "2026-05-11 15:04",
-    "mensaje": "Afectados 105 MW en la provincia, demanda máxima a apagar en estos momentos.",
-    "timestamp": 1778511898,
-    "timestamp_local": 1778511898
-  },
-  {
-    "id": 46505,
-    "fecha": "11 de May del 2026 a las 11:03 AM",
-    "hora_utc": "2026-05-11 15:03",
-    "mensaje": "⚠️Se encuentra afectado el Cto 122 , perteneciente al municipio Encrucijada, puente primario partido.",
-    "timestamp": 1778511806,
-    "timestamp_local": 1778511806
-  },
-  {
-    "id": 46504,
-    "fecha": "11 de May del 2026 a las 11:01 AM",
-    "hora_utc": "2026-05-11 15:01",
-    "mensaje": "⚠️Afectado el servicio eléctrico en los siguientes circuitos:\n🔹Municipio Remedios:\n👉Ctos 68 y 118 \n👉Ctos 69 y 70 Zuluetas\n👉Cto 143 Batey Heriberto Duquezne \n👉Cto 71 Buena Vista",
-    "timestamp": 1778511690,
-    "timestamp_local": 1778511690
-  },
-  {
-    "id": 46503,
-    "fecha": "11 de May del 2026 a las 10:39 AM",
-    "hora_utc": "2026-05-11 14:39",
-    "mensaje": "➡️La Provincia cuenta con 4 afectaciones de servicio eléctrico por transformador dañado:\n👉Municipio Manicaragua: Autopista Nacional km 276, barrio Los Azules. Seibabo\n👉Municipio Remedios: Carretera de Buena Vista a Zuluetas Km1  e/ Antes de llegar al Llano. Buena Vista.\n👉Municipio Quemado: Calle 5ta del Oeste e/ 1ra y 3ra del Norte.\n👉Municipio Santa  Clara: carretera Central km 291, al bajar la loma de Almacenes universales. Anton Diaz.",
-    "timestamp": 1778510378,
-    "timestamp_local": 1778510378
-  },
-  {
-    "id": 46502,
-    "fecha": "11 de May del 2026 a las 10:33 AM",
-    "hora_utc": "2026-05-11 14:33",
-    "mensaje": "⚠️Afectado el servicio eléctrico en los siguientes circuitos:\n🔹Municipio Santa Clara: \n👉Cto 166 Condado\n👉Cto 168 Condado - XX Aniversario.",
-    "timestamp": 1778510006,
-    "timestamp_local": 1778510006
-  },
-  {
-    "id": 46501,
-    "fecha": "11 de May del 2026 a las 10:25 AM",
-    "hora_utc": "2026-05-11 14:25",
-    "mensaje": "⚡Afectado por avería el Cto 31 Santa Clara Industrial, perteneciente al municipio Santa Clara, por primario partido.",
-    "timestamp": 1778509541,
-    "timestamp_local": 1778509541
-  },
-  {
-    "id": 46500,
-    "fecha": "11 de May del 2026 a las 10:16 AM",
-    "hora_utc": "2026-05-11 14:16",
-    "mensaje": "⚠️Afectada por manipulación la línea del 6375:\n🔹Municipio Santa Clara\n👉Cto 7 Universidad\n👉Cto 22 Construcciones Textil\n👉Cto 131 Las Antillas\n👉Cto 153 EIDE \n👉Ctos 14, 15 y 27 Maleza",
-    "timestamp": 1778509010,
-    "timestamp_local": 1778509010
   }
 ]
