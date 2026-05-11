@@ -1,5 +1,29 @@
 [
   {
+    "id": 38114,
+    "fecha": "10 de May del 2026 a las 08:10 PM",
+    "hora_utc": "2026-05-11 00:10",
+    "mensaje": "✅ Información.\n👉👉 Restablecidos los circuitos que estaban afectados por el DAF.",
+    "timestamp": 1778458243,
+    "timestamp_local": 1778458243
+  },
+  {
+    "id": 38113,
+    "fecha": "10 de May del 2026 a las 07:51 PM",
+    "hora_utc": "2026-05-10 23:51",
+    "mensaje": "🚨DAF (Disparo automático por frecuencia)🚨\n\n📍Se encuentran afectados por el DAF los circuitos: 📍\n\n\n👉 San Fernando .\n❌Un Disparo Automático por Frecuencia (DAF) es una protección que posee el sistema eléctrico para cuando la frecuencia llega a valores mínimos permisibles que ponen en peligro la estabilidad de todo el sistema en su conjunto y provoca una desconexión automática de algunos circuitos hasta que esta vuelva a recuperar su valor nominal a 60 Hz o ciclos por segundo. Esto ocurre al salir de forma imprevista o repentina una planta generadora con una potencia determinada y el sistema en su conjunto necesita liberar esa carga hasta tanto se puedan recuperar la potencia de generación perdida anteriormente o dar las afectaciones al servicio por déficit de generación.",
+    "timestamp": 1778457067,
+    "timestamp_local": 1778457067
+  },
+  {
+    "id": 38112,
+    "fecha": "10 de May del 2026 a las 07:45 PM",
+    "hora_utc": "2026-05-10 23:45",
+    "mensaje": "‼️Déficit de Generación ‼️   \n👉  Subimos  a 92 MW en la provincia afectados por déficit de generación.\n\n⏰ Reiteramos que los circuitos se afectarán o se restablecerán en dependencia del déficit en cada momento de la jornada, que es muy variable.",
+    "timestamp": 1778456719,
+    "timestamp_local": 1778456719
+  },
+  {
     "id": 38111,
     "fecha": "10 de May del 2026 a las 07:03 PM",
     "hora_utc": "2026-05-10 23:03",
@@ -126,29 +150,5 @@
     "mensaje": "‼️Déficit de Generación ‼️   \n👉 Continuamos con 84 MW en la provincia afectados por déficit de generación.\n\n⏰ Reiteramos que los circuitos se afectarán o se restablecerán en dependencia del déficit en cada momento de la jornada, que es muy variable.",
     "timestamp": 1778404054,
     "timestamp_local": 1778404054
-  },
-  {
-    "id": 38094,
-    "fecha": "10 de May del 2026 a las 03:33 AM",
-    "hora_utc": "2026-05-10 07:33",
-    "mensaje": "‼️Déficit de Generación ‼️   \n👉 Continuamos con 84 MW en la provincia afectados por déficit de generación.\n\n⏰ Reiteramos que los circuitos se afectarán o se restablecerán en dependencia del déficit en cada momento de la jornada, que es muy variable.",
-    "timestamp": 1778398385,
-    "timestamp_local": 1778398385
-  },
-  {
-    "id": 38093,
-    "fecha": "10 de May del 2026 a las 01:40 AM",
-    "hora_utc": "2026-05-10 05:40",
-    "mensaje": "‼️Información‼️\n\n ⏰ Los circuitos  restablecidos tendrán servicio por un estimado de 1 hora y 30 min aproximadamente en dependencia del déficit solicitado en cada momento de la jornada que es muy variable.",
-    "timestamp": 1778391647,
-    "timestamp_local": 1778391647
-  },
-  {
-    "id": 38092,
-    "fecha": "10 de May del 2026 a las 12:17 AM",
-    "hora_utc": "2026-05-10 04:17",
-    "mensaje": "‼️Déficit de Generación ‼️   \n👉 Continuamos con 84 MW en la provincia afectados por déficit de generación.\n\n⏰ Reiteramos que los circuitos se afectarán o se restablecerán en dependencia del déficit en cada momento de la jornada, que es muy variable.",
-    "timestamp": 1778386624,
-    "timestamp_local": 1778386624
   }
 ]
