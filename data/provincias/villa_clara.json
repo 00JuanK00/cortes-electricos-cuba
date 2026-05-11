@@ -1,5 +1,29 @@
 [
   {
+    "id": 46474,
+    "fecha": "11 de May del 2026 a las 04:14 AM",
+    "hora_utc": "2026-05-11 08:14",
+    "mensaje": "⚠️Afectado el servicio eléctrico en el siguiente circuito:\n🔹Municipio Santa Clara:\n👉Cto 30 Santa Clara Industrial",
+    "timestamp": 1778487281,
+    "timestamp_local": 1778487281
+  },
+  {
+    "id": 46473,
+    "fecha": "11 de May del 2026 a las 03:58 AM",
+    "hora_utc": "2026-05-11 07:58",
+    "mensaje": "Actualización del servicio eléctrico en la provincia.\n👉En este momento la afectación por déficit de capacidad de generación es de 86 MW, demanda máxima posible a apagar en estos momentos.\n👉De los circuitos apagables se mantienen afectados 117.\n👉Cuenta con 142 afectaciones por averías secundarias y de servicio.",
+    "timestamp": 1778486335,
+    "timestamp_local": 1778486335
+  },
+  {
+    "id": 46472,
+    "fecha": "11 de May del 2026 a las 01:42 AM",
+    "hora_utc": "2026-05-11 05:42",
+    "mensaje": "⚠️Afectado el servicio eléctrico en el siguiente circuito:\n🔹Municipio Santa Clara:\n👉Cto 166 Condado",
+    "timestamp": 1778478166,
+    "timestamp_local": 1778478166
+  },
+  {
     "id": 46471,
     "fecha": "11 de May del 2026 a las 12:48 AM",
     "hora_utc": "2026-05-11 04:48",
@@ -134,29 +158,5 @@
     "mensaje": "⚠️Afectado el servicio eléctrico en los siguientes circuitos:\n🔹Municipio Remedios:\n👉Ctos 69 y 70 Zuluetas\n👉Cto 143 Batey Heriberto Duquezne \n👉Cto 71 Buena Vista",
     "timestamp": 1778451868,
     "timestamp_local": 1778451868
-  },
-  {
-    "id": 46454,
-    "fecha": "10 de May del 2026 a las 06:20 PM",
-    "hora_utc": "2026-05-10 22:20",
-    "mensaje": "⚠️Afectado el servicio eléctrico en los siguientes circuitos:\n🔹Municipio Encrucijada\n👉Cto 120 Calabazar\n👉Ctos 121 y 127 Perucho",
-    "timestamp": 1778451652,
-    "timestamp_local": 1778451652
-  },
-  {
-    "id": 46453,
-    "fecha": "10 de May del 2026 a las 06:13 PM",
-    "hora_utc": "2026-05-10 22:13",
-    "mensaje": "⚠️Afectado el servicio eléctrico en el siguiente circuito:\n🔹Municipio Santa Clara:\n👉Cto 6 Vigía",
-    "timestamp": 1778451239,
-    "timestamp_local": 1778451239
-  },
-  {
-    "id": 46452,
-    "fecha": "10 de May del 2026 a las 06:05 PM",
-    "hora_utc": "2026-05-10 22:05",
-    "mensaje": "⚠️Afectado el servicio eléctrico en los siguientes circuitos:\n👉Cto 79 Santo Domingo\n👉Cto 81 26 de Julio\n👉Cto 163 Batey 26 de Julio\n🔹Municipio Ranchuelo:\n👉Ctos 54, 94 y 95 Jicotea\n👉Cto 93 Esperanza (Campo)",
-    "timestamp": 1778450701,
-    "timestamp_local": 1778450701
   }
 ]
