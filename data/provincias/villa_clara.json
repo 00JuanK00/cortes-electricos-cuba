@@ -1,5 +1,29 @@
 [
   {
+    "id": 46535,
+    "fecha": "11 de May del 2026 a las 04:02 PM",
+    "hora_utc": "2026-05-11 20:02",
+    "mensaje": "Actualización del servicio eléctrico en la provincia.\n👉En este momento la afectación por déficit de capacidad de generación es de 111 MW, demanda máxima posible a apagar en estos momentos.\n👉De los circuitos apagables se mantienen afectados 126.\n👉Cuenta con 170 afectaciones por averías secundarias y de servicio.",
+    "timestamp": 1778529728,
+    "timestamp_local": 1778529728
+  },
+  {
+    "id": 46534,
+    "fecha": "11 de May del 2026 a las 03:58 PM",
+    "hora_utc": "2026-05-11 19:58",
+    "mensaje": "⚠️Afectado por manipulación el Cto 30 y 193 Santa Clara Industrial, pertenecientes al municipio Santa Clara.",
+    "timestamp": 1778529534,
+    "timestamp_local": 1778529534
+  },
+  {
+    "id": 46533,
+    "fecha": "11 de May del 2026 a las 03:56 PM",
+    "hora_utc": "2026-05-11 19:56",
+    "mensaje": "⚠️Afectado el servicio eléctrico en el siguiente circuito:\n🔹Municipio Ranchuelo: \n👉Cto 188\n👉Ctos 148 y 149 San Juan\n👉Cto 91 Batey Osvaldo Herrera\n👉Cto 92 Esperanza (Pueblo)\n🔹Municipio Santa Clara \n👉Cto 15 y 27 Maleza",
+    "timestamp": 1778529412,
+    "timestamp_local": 1778529412
+  },
+  {
     "id": 46532,
     "fecha": "11 de May del 2026 a las 03:10 PM",
     "hora_utc": "2026-05-11 19:10",
@@ -134,29 +158,5 @@
     "mensaje": "⚠️Afectado el servicio eléctrico en el siguiente circuito:\n🔹Municipio Santa Clara\n👉Cto 132 Santa Clara Industrial",
     "timestamp": 1778514272,
     "timestamp_local": 1778514272
-  },
-  {
-    "id": 46514,
-    "fecha": "11 de May del 2026 a las 11:37 AM",
-    "hora_utc": "2026-05-11 15:37",
-    "mensaje": "⚠️Afectada por DAF la línea del 1715:\n🔹Municipio Santo Domingo:\n👉Cto 134\n👉Ctos 87 y 96 Bermejal\n👉Cto 187 Batey Carlos Baliño\n👉Cto 82 Ulacia\n👉Cto 84 Rodrigo",
-    "timestamp": 1778513839,
-    "timestamp_local": 1778513839
-  },
-  {
-    "id": 46513,
-    "fecha": "11 de May del 2026 a las 11:30 AM",
-    "hora_utc": "2026-05-11 15:30",
-    "mensaje": "💡Con servicio los siguientes circuitos:\n🔹Municipio Santa Clara\n👉Cto 153 EIDE \n👉Ctos 14, 15 y 27 Maleza",
-    "timestamp": 1778513431,
-    "timestamp_local": 1778513431
-  },
-  {
-    "id": 46512,
-    "fecha": "11 de May del 2026 a las 11:29 AM",
-    "hora_utc": "2026-05-11 15:29",
-    "mensaje": "⚠️Afectado el servicio eléctrico en los siguientes circuitos:\n🔹Municipio Santa Clara\n👉Cto 7 Universidad\n👉Cto 22 Construcciones Textil\n👉Cto 131 Las Antillas",
-    "timestamp": 1778513396,
-    "timestamp_local": 1778513396
   }
 ]

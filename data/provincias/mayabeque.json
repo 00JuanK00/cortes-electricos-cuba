@@ -1,9 +1,49 @@
 [
   {
+    "id": 113509,
+    "fecha": "11 de May del 2026 a las 04:53 PM",
+    "hora_utc": "2026-05-11 20:53",
+    "mensaje": "♦️ Informamos a los clientes del circuito ML-45 que se encuentra en falla ♦️",
+    "timestamp": 1778532813,
+    "timestamp_local": 1778532813
+  },
+  {
+    "id": 113508,
+    "fecha": "11 de May del 2026 a las 04:41 PM",
+    "hora_utc": "2026-05-11 20:41",
+    "mensaje": "🚨Por déficit de capacidad de generación se afecta el servicio en el siguiente circuito:\n*3 de San José 🚨",
+    "timestamp": 1778532104,
+    "timestamp_local": 1778532104
+  },
+  {
+    "id": 113507,
+    "fecha": "11 de May del 2026 a las 04:37 PM",
+    "hora_utc": "2026-05-11 20:37",
+    "mensaje": "🚨Por déficit de capacidad de generación se afecta el servicio en el siguiente circuito:\n*Ganuza 🚨",
+    "timestamp": 1778531863,
+    "timestamp_local": 1778531863
+  },
+  {
+    "id": 113506,
+    "fecha": "11 de May del 2026 a las 04:24 PM",
+    "hora_utc": "2026-05-11 20:24",
+    "mensaje": "🚨Por déficit de capacidad de generación se afecta el servicio en los siguientes circuitos:\n*Catalina 1 y 2 🚨",
+    "timestamp": 1778531088,
+    "timestamp_local": 1778531088
+  },
+  {
+    "id": 113505,
+    "fecha": "11 de May del 2026 a las 03:36 PM",
+    "hora_utc": "2026-05-11 19:36",
+    "mensaje": "🚨Por déficit de capacidad de generación se afecta el servicio en los siguientes circuitos:\n*Güines 1\n*3660\n*3555🚨",
+    "timestamp": 1778528197,
+    "timestamp_local": 1778528197
+  },
+  {
     "id": 113504,
     "fecha": "11 de May del 2026 a las 02:48 PM",
     "hora_utc": "2026-05-11 18:48",
-    "mensaje": "♦️ Continúa afectados los siguientes circuitos por avería: \n*ML-35\n*3135♦️",
+    "mensaje": "♦️ Informamos a los clientes de los siguientes circuitos que continúan afectados por avería: \n*ML-35\n*3135♦️",
     "timestamp": 1778525281,
     "timestamp_local": 1778525281
   },
@@ -102,21 +142,5 @@
     "mensaje": "🚨Por déficit de capacidad de generación se afecta el servicio en el siguiente circuito:\n*Güines -2🚨",
     "timestamp": 1778511656,
     "timestamp_local": 1778511656
-  },
-  {
-    "id": 113486,
-    "fecha": "11 de May del 2026 a las 08:42 AM",
-    "hora_utc": "2026-05-11 12:42",
-    "mensaje": "**Nota Informativa: Estado del Sistema Eléctrico Nacional (SEN) – 11 de mayo de 2026**\nEn el día de ayer se afectó el servicio por déficit de capacidad durante las 24 horas y se mantuvo la afectación durante todo el horario de la madrugada. La máxima afectación por déficit de capacidad de generación en el día de ayer fue de 1887 MW a las 22:00 horas, superior a lo planificado por la salida imprevista de la unidad 4 de la CTE Cienfuegos.\nLa producción de energía de los 54 nuevos parques solares fotovoltaicos fue de 3620 MWh, con 531 MW como máxima potencia entregada en el horario de la media con esta fuente de generación.\n**Estado actual del SEN**\nLa disponibilidad del SEN a las 06:00 horas es de 1430 MW, la demanda 2750 MW con 1305 MW afectados. En el horario de la media se estima una afectación de 1350 MW.\n**Principales incidencias**\nAvería: Unidades 2 y 3 de la CTE Ernesto Guevara De La Serna, Unidad 2 de la CTE Lidio Ramón Pérez y la Unidad 5 de la CTE Antonio Maceo.\nMantenimiento: Unidad 5 de la CTE Mariel, Unidad 6 de la CTE Renté, Unidad 5 de la CTE Nuevitas. En el horario de la mañana saldrá de servicio la unidad 1 de la CTE Felton para mantenimiento por 96 horas.\nLimitaciones en la generación térmica: 425 MW fuera de servicio.\n**Pronóstico para el horario pico**\nSe estima para el horario de máxima demanda una disponibilidad de 1245 MW con una demanda máxima de 3200 MW, para un déficit de 1955 MW, por lo que de mantenerse las condiciones previstas se pronostica una afectación de 1985 MW en este horario.",
-    "timestamp": 1778503351,
-    "timestamp_local": 1778503351
-  },
-  {
-    "id": 113484,
-    "fecha": "11 de May del 2026 a las 08:37 AM",
-    "hora_utc": "2026-05-11 12:37",
-    "mensaje": "🚨Por déficit de capacidad de generación se afecta el servicio en los siguientes circuitos:\n*Salud 2\n*5 de San José 🚨",
-    "timestamp": 1778503038,
-    "timestamp_local": 1778503038
   }
 ]
