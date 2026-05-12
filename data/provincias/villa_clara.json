@@ -1,5 +1,21 @@
 [
   {
+    "id": 46557,
+    "fecha": "12 de May del 2026 a las 06:12 PM",
+    "hora_utc": "2026-05-12 22:12",
+    "mensaje": "⚠️Afectado el servicio eléctrico en los siguientes circuitos:\n🔹Municipio Santa Clara\n👉Cto 7 Universidad\n👉Cto 146 Elevado Aeropuerto\n👉Cto 22 Construcciones Textil\n👉Cto 131 Las Antillas\n👉Cto 153 EIDE\n👉Cto 25 Los Güiros\n👉Cto 24 Planta Asfalto\n👉Cto 35 Biotecnología \n👉Cto 14 Maleza",
+    "timestamp": 1778623969,
+    "timestamp_local": 1778623969
+  },
+  {
+    "id": 46556,
+    "fecha": "12 de May del 2026 a las 06:06 PM",
+    "hora_utc": "2026-05-12 22:06",
+    "mensaje": "🕛Actualización del servicio eléctrico.\n✍️El déficit de capacidad de generación en estos momentos es de 130 MW\n✍️En el momento de esta nota, se mantienen afectados 126 circuitos.\n✍️ Cuenta con 126 afectaciones por averías secundarias y de servicio:\n🔸 Camajuaní (2)\n🔸 Cifuentes (4)\n🔸 Corralillo (7)\n🔸 Encrucijada (2)\n🔸 Manicaragua (6)\n🔸 Placetas (10)\n🔸 Quemado (1)\n🔸 Ranchuelo (8)\n🔸 Remedios (10) \n🔸 Sagua (13) \n🔸 Santa Clara (57)\n🔸 Santo Domingo (6)\n🛠️Se encuentran 7 averías en vías de solución.\n🛠️Pendientes a solucionar por el área técnica 14.\n✅La provincia no presenta averías primarias.",
+    "timestamp": 1778623607,
+    "timestamp_local": 1778623607
+  },
+  {
     "id": 46555,
     "fecha": "12 de May del 2026 a las 04:55 PM",
     "hora_utc": "2026-05-12 20:55",
@@ -126,21 +142,5 @@
     "mensaje": "Actualización del servicio eléctrico en la provincia.\n👉En este momento la afectación por déficit de capacidad de generación es de 110 MW, demanda máxima posible a apagar en estos momentos.\n👉De los circuitos apagables se mantienen afectados 115.\n👉Cuenta con 159 afectaciones por averías secundarias y de servicio.",
     "timestamp": 1778609574,
     "timestamp_local": 1778609574
-  },
-  {
-    "id": 46535,
-    "fecha": "11 de May del 2026 a las 04:02 PM",
-    "hora_utc": "2026-05-11 20:02",
-    "mensaje": "Actualización del servicio eléctrico en la provincia.\n👉En este momento la afectación por déficit de capacidad de generación es de 111 MW, demanda máxima posible a apagar en estos momentos.\n👉De los circuitos apagables se mantienen afectados 126.\n👉Cuenta con 170 afectaciones por averías secundarias y de servicio.",
-    "timestamp": 1778529728,
-    "timestamp_local": 1778529728
-  },
-  {
-    "id": 46534,
-    "fecha": "11 de May del 2026 a las 03:58 PM",
-    "hora_utc": "2026-05-11 19:58",
-    "mensaje": "⚠️Afectado por manipulación el Cto 30 y 193 Santa Clara Industrial, pertenecientes al municipio Santa Clara.",
-    "timestamp": 1778529534,
-    "timestamp_local": 1778529534
   }
 ]
