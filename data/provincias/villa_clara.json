@@ -1,5 +1,29 @@
 [
   {
+    "id": 46555,
+    "fecha": "12 de May del 2026 a las 04:55 PM",
+    "hora_utc": "2026-05-12 20:55",
+    "mensaje": "⚠️Afectado el servicio eléctrico en los siguientes circuitos:\n🔹Municipio Sagua\n👉 Ctos 43 y 51 Sagua",
+    "timestamp": 1778619327,
+    "timestamp_local": 1778619327
+  },
+  {
+    "id": 46554,
+    "fecha": "12 de May del 2026 a las 04:32 PM",
+    "hora_utc": "2026-05-12 20:32",
+    "mensaje": "⚠️Afectado el servicio eléctrico en los siguientes circuitos:\n🔹Municipio Caibarién\n👉Ctos 182 y 183 Van Troy",
+    "timestamp": 1778617939,
+    "timestamp_local": 1778617939
+  },
+  {
+    "id": 46553,
+    "fecha": "12 de May del 2026 a las 04:20 PM",
+    "hora_utc": "2026-05-12 20:20",
+    "mensaje": "Actualización del servicio eléctrico en la provincia.\n👉En este momento la afectación por déficit de capacidad de generación es de 115 MW, demanda máxima posible a apagar en estos momentos.\n👉De los circuitos apagables se mantienen afectados 128.\n👉Cuenta con 143 afectaciones por averías secundarias y de servicio.",
+    "timestamp": 1778617240,
+    "timestamp_local": 1778617240
+  },
+  {
     "id": 46552,
     "fecha": "12 de May del 2026 a las 03:56 PM",
     "hora_utc": "2026-05-12 19:56",
@@ -11,7 +35,7 @@
     "id": 46551,
     "fecha": "12 de May del 2026 a las 03:47 PM",
     "hora_utc": "2026-05-12 19:47",
-    "mensaje": "⚠️Afectado el servicio eléctrico en los siguientes circuitos:\n🔹Municipio Santa Clara:\n👉Ctos 1, 2",
+    "mensaje": "⚠️Afectado el servicio eléctrico en los siguientes circuitos:\n🔹Municipio Santa Clara:\n👉Ctos. 1 y 2  Zona Centro.",
     "timestamp": 1778615241,
     "timestamp_local": 1778615241
   },
@@ -118,29 +142,5 @@
     "mensaje": "⚠️Afectado por manipulación el Cto 30 y 193 Santa Clara Industrial, pertenecientes al municipio Santa Clara.",
     "timestamp": 1778529534,
     "timestamp_local": 1778529534
-  },
-  {
-    "id": 46533,
-    "fecha": "11 de May del 2026 a las 03:56 PM",
-    "hora_utc": "2026-05-11 19:56",
-    "mensaje": "⚠️Afectado el servicio eléctrico en el siguiente circuito:\n🔹Municipio Ranchuelo: \n👉Cto 188\n👉Ctos 148 y 149 San Juan\n👉Cto 91 Batey Osvaldo Herrera\n👉Cto 92 Esperanza (Pueblo)\n🔹Municipio Santa Clara \n👉Cto 15 y 27 Maleza",
-    "timestamp": 1778529412,
-    "timestamp_local": 1778529412
-  },
-  {
-    "id": 46532,
-    "fecha": "11 de May del 2026 a las 03:10 PM",
-    "hora_utc": "2026-05-11 19:10",
-    "mensaje": "🔴 10:31 am || Fuera de línea la Unidad 1 de la CTE Lidio Ramón Pérez \"Felton\", por mantenimiento ligero.",
-    "timestamp": 1778526608,
-    "timestamp_local": 1778526608
-  },
-  {
-    "id": 46531,
-    "fecha": "11 de May del 2026 a las 03:01 PM",
-    "hora_utc": "2026-05-11 19:01",
-    "mensaje": "Afectados 110 MW en la provincia, demanda máxima a apagar en estos momentos.",
-    "timestamp": 1778526112,
-    "timestamp_local": 1778526112
   }
 ]
