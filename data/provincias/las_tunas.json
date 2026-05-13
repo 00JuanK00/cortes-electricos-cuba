@@ -1,5 +1,21 @@
 [
   {
+    "id": 19032,
+    "fecha": "13 de May del 2026 a las 06:13 PM",
+    "hora_utc": "2026-05-13 22:13",
+    "mensaje": "Queda solucionada la avería del TK23",
+    "timestamp": 1778710388,
+    "timestamp_local": 1778710388
+  },
+  {
+    "id": 19031,
+    "fecha": "13 de May del 2026 a las 06:11 PM",
+    "hora_utc": "2026-05-13 22:11",
+    "mensaje": "Se declara en avería los siguientes circuitos:\nCircuito de 33Kv 6225\nTK53 La Morena y El Malecón \nTK47 La Micro Puerto Padre\nTK93 Batey Delicias\nTK48 Puerto Padre y Maniabón\nTK49 Hospital Pediátrico, Rto Médico, P. Padre",
+    "timestamp": 1778710298,
+    "timestamp_local": 1778710298
+  },
+  {
     "id": 19030,
     "fecha": "13 de May del 2026 a las 05:42 PM",
     "hora_utc": "2026-05-13 21:42",
@@ -110,21 +126,5 @@
     "mensaje": "🔊Informamos a nuestros clientes que en este momento nos encontramos en la máxima capacidad apagable, lo que impide el restablecimiento inmediato del servicio eléctrico en los circuitos afectados. La situación podrá mejorar en la medida en que el Sistema Electroenergético Nacional permita recuperar la capacidad de generación.Ofrecemos disculpas por las molestas ocasionadas",
     "timestamp": 1778521101,
     "timestamp_local": 1778521101
-  },
-  {
-    "id": 19011,
-    "fecha": "11 de May del 2026 a las 01:34 PM",
-    "hora_utc": "2026-05-11 17:34",
-    "mensaje": "📲Centro Telefónico:\nLa Empresa Eléctrica Las Tunas pone a disposición de sus clientes un Centro de Atención Telefónica con el objetivo de brindar asistencia y responder a sus inquietudes. Para asegurar un flujo eficiente de comunicación, el centro cuenta con 38 líneas de entrada, gestionadas por 6 operadores en cada turno de trabajo.\nCuando los 6 operadores se encuentran atendiendo llamadas simultáneamente, las siguientes 32 llamadas entrantes son colocadas en una cola de espera, donde una operadora automática les informa que serán atendidas a la brevedad, acompañando la espera con música. En esta situación, se requiere paciencia por parte del cliente hasta que un operador se desocupe y su llamada sea transferida automáticamente. Sin embargo, el sistema tiene un límite. A partir de la llamada número 39, todas las líneas de entrada estarán ocupadas, lo que resultará en una señal de \"ocupado\" para el cliente. En este caso, para lograr contactar al centro, el cliente deberá intentar la llamada nuevamente hasta que una línea quede disponible. La Empresa Eléctrica Las Tunas trabaja continuamente para optimizar este servicio y agradece su comprensión.",
-    "timestamp": 1778520890,
-    "timestamp_local": 1778520890
-  },
-  {
-    "id": 19010,
-    "fecha": "11 de May del 2026 a las 08:19 AM",
-    "hora_utc": "2026-05-11 12:19",
-    "mensaje": "**Nota Informativa: Estado del Sistema Eléctrico Nacional (SEN) – **11 **de mayo de **2026\nEn el día de ayer se afectó el servicio por déficit de capacidad durante las 24 horas y se mantuvo la afectación durante todo el horario de la madrugada. La máxima afectación por déficit de capacidad de generación en el día de ayer fue de 1887 MW a las 22:00 horas, superior a lo planificado por la salida imprevista de la unidad 4 de la CTE Cienfuegos.\nLa producción de energía de los 54 nuevos parques solares fotovoltaicos fue de 3620 MWh, con 531 MW como máxima potencia entregada en el horario de la media con esta fuente de generación.\nEstado actual del SEN\nLa disponibilidad del SEN a las 06:00 horas es de 1430 MW, la demanda 2750 MW con 1305 MW afectados. En el horario de la media se estima una afectación de 1350 MW.\nPrincipales incidencias\nAvería: Unidades 2 y 3 de la CTE Ernesto Guevara De La Serna, Unidad 2 de la CTE Lidio Ramón Pérez y la Unidad 5 de la CTE Antonio Maceo.\nMantenimiento: Unidad 5 de la CTE Mariel, Unidad 6 de la CTE Renté, Unidad 5 de la CTE Nuevitas. En el horario de la mañana saldrá de servicio la unidad 1 de la CTE Felton para mantenimiento por 96 horas.\nLimitaciones en la generación térmica: 425 MW fuera de servicio.\nPronóstico para el horario pico\nSe estima para el horario de máxima demanda una disponibilidad de 1245 MW con una demanda máxima de 3200 MW, para un déficit de 1955 MW, por lo que de mantenerse las condiciones previstas se pronostica una afectación de 1985 MW en este horario.",
-    "timestamp": 1778501969,
-    "timestamp_local": 1778501969
   }
 ]
