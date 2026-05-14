@@ -1,5 +1,37 @@
 [
   {
+    "id": 53458,
+    "fecha": "14 de May del 2026 a las 08:50 AM",
+    "hora_utc": "2026-05-14 12:50",
+    "mensaje": "🚨Nota informativa🚨\n\n📅Situación del SEN para el 14 de mayo de 2026.\n\n👉En el día de ayer se afectó el servicio por déficit de capacidad durante las 24 horas y se mantuvo la afectación durante todo el horario de la madrugada. La máxima afectación por déficit de capacidad de generación en el día de ayer fue de 2153 MW a las 21:30 horas, superior a lo planificado por salida por emergencia de la unidad 1 de la CTE Santa Cruz, la unidad 4 de la CTE Cienfuegos y los motores del emplazamiento de Moa.\n\n☀️La producción de energía de los 54 nuevos parques solares fotovoltaicos fue de 3348 MWh, con 470 MW como máxima potencia entregada en el horario de la media con esta fuente de generación.  \n\n📈A las 06:09 ocurrió una caída parcial del sistema desde la provincia de Ciego de Ávila hasta Guantánamo. La disponibilidad del SEN a las 06:30 horas es de 636 MW, la demanda 2420 MW con 1790 MW afectados. En estos momentos se encuentra en proceso de restablecimiento la zona afectada.\n\n🛠️Se encuentran en avería la unidad 6 de la CTE Mariel, las unidades 1 y 2 de la CTE Santa Cruz, la unidad de la CTE Guiteras, la unidad 2 de la CTE Felton y la unidad 5 de la CTE Renté. Se encuentran en mantenimiento la unidad 5 de la CTE Mariel, la unidad 5 de la CTE Nuevitas, la unidad 1 de la CTE Felton  y la unidad 6 de la CTE Renté. \nSe encuentra fuera de servicio la unidad 6 de la CTE Nuevitas, la unidad 3 de la CTE Renté y la central fuel de Moa por la caída parcial del SEN. \n \n👉Las limitaciones en la generación térmica son de 263 MW.\n\n✏️Para el pico se prevé la entrada la unidad 6 de la CTE Mariel con 75 MW, la entrada de la unidad 1 de la CTE Santa Cruz con 60 MW (en proceso de arranque), la entrada de              10 motores del emplazamiento de Moa fuel con 130 MW y la entrada de la unidad 6 de la CTE Nuevitas con 75 MW.  \n \n📝Con este pronóstico se estima que para el horario de máxima demanda una disponibilidad de 976 MW con una demanda máxima de 3150 MW, para un déficit de 2174 MW, por lo que de mantenerse las condiciones previstas se pronostica una afectación de 2204 MW en este horario.\n\n📌En la provincia Santiago de Cuba se creó un microsistema a través del cual tienen servicio los circuitos 15 (seccionalizado) y 16.  En estos  circuitos se encuentran enclavados centros vitales.",
+    "timestamp": 1778763048,
+    "timestamp_local": 1778763048
+  },
+  {
+    "id": 53457,
+    "fecha": "14 de May del 2026 a las 08:40 AM",
+    "hora_utc": "2026-05-14 12:40",
+    "mensaje": "🔴 04:58 || Fuera de línea la Unidad de la CTE Antonio Guiteras por salidero en caldera.",
+    "timestamp": 1778762455,
+    "timestamp_local": 1778762455
+  },
+  {
+    "id": 53455,
+    "fecha": "14 de May del 2026 a las 07:25 AM",
+    "hora_utc": "2026-05-14 11:25",
+    "mensaje": "🚨 Micro sistema    :Es  un pequeño sistema  que se crea para que con una parte de las máquinas generadoras  de una región poder energizar servicios vitales y Centrales termoeléctricas ( CTE ), con esta se incrementa  paulatinamente  las carga hasta su arranque y Sincronización hasta recuperar el SEN.",
+    "timestamp": 1778757936,
+    "timestamp_local": 1778757936
+  },
+  {
+    "id": 53454,
+    "fecha": "14 de May del 2026 a las 07:25 AM",
+    "hora_utc": "2026-05-14 11:25",
+    "mensaje": "🔊Estimados clientes en estos momentos a través de Micro Sistema  se encuentra con Servicio los circuitos 15 Seccionalizado y 16",
+    "timestamp": 1778757916,
+    "timestamp_local": 1778757916
+  },
+  {
     "id": 53453,
     "fecha": "14 de May del 2026 a las 06:43 AM",
     "hora_utc": "2026-05-14 10:43",
@@ -118,37 +150,5 @@
     "mensaje": "🔊Estimados clientes en estos momentos se encuentra en Avería el circuito 8",
     "timestamp": 1778727110,
     "timestamp_local": 1778727110
-  },
-  {
-    "id": 53435,
-    "fecha": "13 de May del 2026 a las 10:50 PM",
-    "hora_utc": "2026-05-14 02:50",
-    "mensaje": "🚨**Disparo**\nApertura no voluntaria de un interruptor como vía de protección para desconectar uno o varios elementos del circuito, subestación o sistema, restableciéndose el servicio rápidamente en dependencia de la causa.",
-    "timestamp": 1778727050,
-    "timestamp_local": 1778727050
-  },
-  {
-    "id": 53434,
-    "fecha": "13 de May del 2026 a las 10:50 PM",
-    "hora_utc": "2026-05-14 02:50",
-    "mensaje": "🔊Estimados clientes en estos momentos se encuentra Disparado el circuito 8",
-    "timestamp": 1778727032,
-    "timestamp_local": 1778727032
-  },
-  {
-    "id": 53433,
-    "fecha": "13 de May del 2026 a las 10:43 PM",
-    "hora_utc": "2026-05-14 02:43",
-    "mensaje": "🚨Manipulaciones :\nAcción que se realizan en los circuitos para dar paso al trabajo en zonas afectadas por Averías o Vía Libre y posteriormente para restablecer el servicio eléctrico en los circuitos que se encontraban afectados y en los que se trabaja con anterioridad,luego de culminadas las labores pertinentes.",
-    "timestamp": 1778726585,
-    "timestamp_local": 1778726585
-  },
-  {
-    "id": 53432,
-    "fecha": "13 de May del 2026 a las 10:42 PM",
-    "hora_utc": "2026-05-14 02:42",
-    "mensaje": "🔊Estimados clientes en estos momentos se está Manipulando el circuito 8 para reponer un Fuse al Aire",
-    "timestamp": 1778726529,
-    "timestamp_local": 1778726529
   }
 ]
