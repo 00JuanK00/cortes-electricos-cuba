@@ -1,5 +1,21 @@
 [
   {
+    "id": 19035,
+    "fecha": "14 de May del 2026 a las 06:27 AM",
+    "hora_utc": "2026-05-14 10:27",
+    "mensaje": "Nota Informativa:\nA las 06:10 horas ocurrió una desconexión parcial del SEN. Afectando la zona Centro Oriental. Manténgase informado por los canales oficiales de nuestra empresa.",
+    "timestamp": 1778754437,
+    "timestamp_local": 1778754437
+  },
+  {
+    "id": 19034,
+    "fecha": "14 de May del 2026 a las 06:24 AM",
+    "hora_utc": "2026-05-14 10:24",
+    "mensaje": "Se encuentra en avería los siguientes circuitos:\nCircuito 33 Kv: 4220\nTK28 La Guinea\nTK52 Covarrubias\nTK31 Pueblo Manatí\nTK33 Pueblo Manatí\nTK34 Pueblo Manatí\nCircuito 33 Kv: 6220\nTK61 La Yaya\nTK58 La Calera\nTK62 Lora\nTK63 Lora\nTJ95 Poblado Menéndez\n6220 Carúpano, La Salina y La Playa",
+    "timestamp": 1778754269,
+    "timestamp_local": 1778754269
+  },
+  {
     "id": 19033,
     "fecha": "13 de May del 2026 a las 09:08 PM",
     "hora_utc": "2026-05-14 01:08",
@@ -118,13 +134,5 @@
     "mensaje": "#NoAlDelito",
     "timestamp": 1778614333,
     "timestamp_local": 1778614333
-  },
-  {
-    "id": 19014,
-    "fecha": "12 de May del 2026 a las 08:09 AM",
-    "hora_utc": "2026-05-12 12:09",
-    "mensaje": "Nota Informativa: Estado del Sistema Eléctrico Nacional (SEN) – 12 de mayo de 2026\n\nEn el día de ayer se afectó el servicio por déficit de capacidad durante las 24 horas y se mantuvo la afectación durante todo el horario de la madrugada. La máxima afectación por déficit de capacidad de generación en el día de ayer fue de 2012 MW a las 21:10 horas, superior a lo planificado por la demanda ser superior a lo planificado.\n\nLa producción de energía de los 54 nuevos parques solares fotovoltaicos fue de 3822 MWh, con 490 MW como máxima potencia entregada en el horario de la media con esta fuente de generación.\nEstado actual del SEN\n\nLa disponibilidad del SEN a las 06:00 horas es de 1250 MW, la demanda 2884 MW con 1649 MW afectados. En el horario de la media se estima una afectación de 1450 MW.\nPrincipales incidencias\n\n    Avería: Unidades 2 y 3 de la CTE Ernesto Guevara De La Serna, Unidad 2 de la CTE Lidio Ramón Pérez y la Unidad 5 de la CTE Antonio Maceo.\n    Mantenimiento: Unidad 1 de la CTE Lidio Ramón Pérez, Unidad 5 de la CTE Mariel, Unidad 6 de la CTE Renté, Unidad 5 de la CTE Nuevitas.\n    Limitaciones en la generación térmica: 379 MW fuera de servicio.\n\nPronóstico para el horario pico\n\nSe estima, para el horario de máxima demanda, la entrada de la unidad 3 de la CTE Santa Cruz con 40 MW.\n\nCon este pronóstico se estima una disponibilidad de 1290 MW con una demanda máxima de 3250 MW, para un déficit de 1960 MW, por lo que de mantenerse las condiciones previstas se pronostica una afectación de 1990 MW en este horario.",
-    "timestamp": 1778587762,
-    "timestamp_local": 1778587762
   }
 ]

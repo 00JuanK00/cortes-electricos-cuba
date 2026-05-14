@@ -1,5 +1,45 @@
 [
   {
+    "id": 53453,
+    "fecha": "14 de May del 2026 a las 06:43 AM",
+    "hora_utc": "2026-05-14 10:43",
+    "mensaje": "**🔴Noticia en Desarrollo:** Empresa Eléctrica Santiago de Cuba comunica a sus clientes que se encuentra afectada toda la zona oriental. Se investigan las causas. Manténgase informado por nuestros canales oficiales.",
+    "timestamp": 1778755400,
+    "timestamp_local": 1778755400
+  },
+  {
+    "id": 53451,
+    "fecha": "14 de May del 2026 a las 05:36 AM",
+    "hora_utc": "2026-05-14 09:36",
+    "mensaje": "🔊Estimados clientes en estos momentos se encuentra afectados por Déficit de Capacidad de Generación los circuitos 2 , 13 , 16 , 23 y 24",
+    "timestamp": 1778751360,
+    "timestamp_local": 1778751360
+  },
+  {
+    "id": 53450,
+    "fecha": "14 de May del 2026 a las 05:34 AM",
+    "hora_utc": "2026-05-14 09:34",
+    "mensaje": "🚨**Disparo Automático de Frecuencia (DAF):**\n**Ocurre cuando la frecuencia está por debajo de los 60Hz y determinada carga o circuito se desconecta del sistema automáticamente hasta que se estabilice.**",
+    "timestamp": 1778751251,
+    "timestamp_local": 1778751251
+  },
+  {
+    "id": 53449,
+    "fecha": "14 de May del 2026 a las 05:33 AM",
+    "hora_utc": "2026-05-14 09:33",
+    "mensaje": "🔊Estimados clientes en estos momentos se encuentra  Disparado por DAF  los circuitos 17 y San Juan",
+    "timestamp": 1778751220,
+    "timestamp_local": 1778751220
+  },
+  {
+    "id": 53448,
+    "fecha": "14 de May del 2026 a las 04:19 AM",
+    "hora_utc": "2026-05-14 08:19",
+    "mensaje": "🔊Estimados clientes en estos momentos se encuentra afectados por Déficit de Capacidad de Generación el circuito 12",
+    "timestamp": 1778746772,
+    "timestamp_local": 1778746772
+  },
+  {
     "id": 53447,
     "fecha": "14 de May del 2026 a las 03:26 AM",
     "hora_utc": "2026-05-14 07:26",
@@ -110,45 +150,5 @@
     "mensaje": "🔊Estimados clientes en estos momentos se está Manipulando el circuito 8 para reponer un Fuse al Aire",
     "timestamp": 1778726529,
     "timestamp_local": 1778726529
-  },
-  {
-    "id": 53431,
-    "fecha": "13 de May del 2026 a las 10:25 PM",
-    "hora_utc": "2026-05-14 02:25",
-    "mensaje": "🔊Estimados clientes en estos momentos se encuentra afectados por Déficit de Capacidad de Generación el circuito 11",
-    "timestamp": 1778725536,
-    "timestamp_local": 1778725536
-  },
-  {
-    "id": 53430,
-    "fecha": "13 de May del 2026 a las 10:00 PM",
-    "hora_utc": "2026-05-14 02:00",
-    "mensaje": "🔊Estimados clientes en estos momentos se encuentra afectados por Déficit de Capacidad de Generación los circuitos 12 y 9",
-    "timestamp": 1778724033,
-    "timestamp_local": 1778724033
-  },
-  {
-    "id": 53429,
-    "fecha": "13 de May del 2026 a las 09:32 PM",
-    "hora_utc": "2026-05-14 01:32",
-    "mensaje": "🔊Estimados clientes en estos momentos se encuentra afectados por Déficit de Capacidad de Generación el circuito 20",
-    "timestamp": 1778722355,
-    "timestamp_local": 1778722355
-  },
-  {
-    "id": 53428,
-    "fecha": "13 de May del 2026 a las 09:13 PM",
-    "hora_utc": "2026-05-14 01:13",
-    "mensaje": "🔊Estimados clientes en estos momentos se encuentra afectados por Déficit de Capacidad de Generación el circuito 18",
-    "timestamp": 1778721205,
-    "timestamp_local": 1778721205
-  },
-  {
-    "id": 53427,
-    "fecha": "13 de May del 2026 a las 09:10 PM",
-    "hora_utc": "2026-05-14 01:10",
-    "mensaje": "🚨**Disparo Automático de Frecuencia (DAF):**\n**Ocurre cuando la frecuencia está por debajo de los 60Hz y determinada carga o circuito se desconecta del sistema automáticamente hasta que se estabilice.**",
-    "timestamp": 1778721011,
-    "timestamp_local": 1778721011
   }
 ]
