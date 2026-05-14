@@ -1,5 +1,53 @@
 [
   {
+    "id": 35552,
+    "fecha": "14 de May del 2026 a las 11:37 AM",
+    "hora_utc": "2026-05-14 15:37",
+    "mensaje": "🔔Si tienen alguna avería eléctrica. \n1⃣ 📞Haga su reporte al Centro de Atención Telefónico mediante el 18888, estamos a su servicio.\n2⃣ 🏠Conocer de forma exacta la dirección de su vivienda: número de casa, calle, entre calles, reparto, localidad.\n3⃣ 📍Ubicar un punto de referencia, que permita llegar hasta su vivienda con mayor rapidez (lugar o persona reconocida en la zona)\n4⃣ 📝Anote el número de su reporte para ser utilizado en caso de reclamaciones, o para comprobar el estado del mismo.",
+    "timestamp": 1778773051,
+    "timestamp_local": 1778773051
+  },
+  {
+    "id": 35551,
+    "fecha": "14 de May del 2026 a las 10:54 AM",
+    "hora_utc": "2026-05-14 14:54",
+    "mensaje": "🟢 Actualización sobre la situación del SEN\n\n👉 A las 10:44 se logró enlazar la provincia de Holguín al SEN.\n\nContinuaremos informando.",
+    "timestamp": 1778770488,
+    "timestamp_local": 1778770488
+  },
+  {
+    "id": 35550,
+    "fecha": "14 de May del 2026 a las 10:08 AM",
+    "hora_utc": "2026-05-14 14:08",
+    "mensaje": "Nota Informativa: Estado del Sistema Eléctrico Nacional (SEN) – 14 de mayo de 2026\n\nEn el día de ayer se afectó el servicio por déficit de capacidad durante las 24 horas y se mantuvo la afectación durante todo el horario de la madrugada. La máxima afectación por déficit de capacidad de generación en el día de ayer fue de 2153 MW a las 21:30 horas, superior a lo planificado por salida por emergencia de la unidad 1 de la CTE Santa Cruz, la unidad 4 de la CTE Cienfuegos y los motores del emplazamiento de Moa.\n\nLa producción de energía de los 54 nuevos parques solares fotovoltaicos fue de 3348 MWh, con 470 MW como máxima potencia entregada en el horario de la media con esta fuente de generación.\n\nEstado actual del SEN\nA las 06:09 ocurrió una caída parcial del sistema desde la provincia de Ciego de Ávila hasta Guantánamo. La disponibilidad del SEN a las 06:30 horas es de 636 MW, la demanda 2420 MW con 1790 MW afectados. En estos momentos se encuentra en proceso de restablecimiento la zona afectada.\n\nPrincipales incidencias\nAvería: Unidad 6 de la CTE Máximo Gómez, Unidades 1 y 2 de la CTE Ernesto Guevara De La Serna, Unidad 2 de la CTE Lidio Ramón Pérez y la Unidad 5 de la CTE Antonio Maceo.\nMantenimiento: Unidad 1 de la CTE Lidio Ramón Pérez, Unidad 5 de la CTE Mariel, Unidad 6 de la CTE Renté, Unidad 5 de la CTE Nuevitas.\nSe encuentra fuera de servicio la unidad 6 de la CTE Nuevitas, la unidad 3 de la CTE Renté y la central fuel de Moa por la caída parcial del SEN.\nLimitaciones en la generación térmica: 263 MW fuera de servicio.\n\nPronóstico para el horario pico\nPara el pico se prevé la entrada la unidad 6 de la CTE Mariel con 75 MW, la entrada de la unidad 1 de la CTE Santa Cruz con 60 MW (en proceso de arranque), la entrada de 10 motores del emplazamiento de Moa fuel con 130 MW y la entrada de la unidad 6 de la CTE Nuevitas con 75 MW.\n\nCon este pronóstico se estima que para el horario de máxima demanda una disponibilidad de 976 MW con una demanda máxima de 3150 MW, para un déficit de 2174 MW, por lo que de mantenerse las condiciones previstas se pronostica una afectación de 2204 MW en este horario.",
+    "timestamp": 1778767692,
+    "timestamp_local": 1778767692
+  },
+  {
+    "id": 35549,
+    "fecha": "14 de May del 2026 a las 09:55 AM",
+    "hora_utc": "2026-05-14 13:55",
+    "mensaje": "🟢 Actualización sobre la situación del SEN\n\n👉 A las 9:50 se logró enlazar la provincia de Las Tunas al SEN.\n\nContinuaremos informando.",
+    "timestamp": 1778766902,
+    "timestamp_local": 1778766902
+  },
+  {
+    "id": 35548,
+    "fecha": "14 de May del 2026 a las 09:54 AM",
+    "hora_utc": "2026-05-14 13:54",
+    "mensaje": "👉 Ya tiene servicio la Unidad 6 de la CTE Diez de Octubre, para comenzar el proceso de arranque.",
+    "timestamp": 1778766895,
+    "timestamp_local": 1778766895
+  },
+  {
+    "id": 35547,
+    "fecha": "14 de May del 2026 a las 09:43 AM",
+    "hora_utc": "2026-05-14 13:43",
+    "mensaje": "🟢 Actualización sobre la situación del SEN\n\n👉 A las 9:19 se logró enlazar la provincia Camagüey al SEN.\n\n👉 Ya tiene servicio la Unidad 6 de la CTE Diez de Octubre, para comenzar el proceso de arranque.\n\nContinuaremos informando.",
+    "timestamp": 1778766180,
+    "timestamp_local": 1778766180
+  },
+  {
     "id": 35546,
     "fecha": "14 de May del 2026 a las 09:10 AM",
     "hora_utc": "2026-05-14 13:10",
@@ -102,53 +150,5 @@
     "mensaje": "⚡ Déficit de capacidad de generación en la provincia: * 194 MW .* ⚡",
     "timestamp": 1778723112,
     "timestamp_local": 1778723112
-  },
-  {
-    "id": 35532,
-    "fecha": "13 de May del 2026 a las 08:56 PM",
-    "hora_utc": "2026-05-14 00:56",
-    "mensaje": "🇨🇺 Actualización del Sistema Electroenergético Nacional a las 19:00 del 13 de mayo de 2026.\n\nIncidencias\n11:57 Fuera de línea la Unidad 6 de la CTE Máximo Gómez por emergencia.\n17:37 En línea la Unidad 3 de la CTE Ernesto Guevara De La Serna.\n18:29 Fuera de línea la Unidad 1 de la CTE Ernesto Guevara De La Serna por salidero de aceite en turbina.\n\n#UnidosXCuba #NotaInformativa #UniónEléctrica #SEN",
-    "timestamp": 1778720189,
-    "timestamp_local": 1778720189
-  },
-  {
-    "id": 35531,
-    "fecha": "13 de May del 2026 a las 08:29 PM",
-    "hora_utc": "2026-05-14 00:29",
-    "mensaje": "⚡ Déficit de capacidad de generación en la provincia: * 186 MW .* ⚡",
-    "timestamp": 1778718550,
-    "timestamp_local": 1778718550
-  },
-  {
-    "id": 35530,
-    "fecha": "13 de May del 2026 a las 07:56 PM",
-    "hora_utc": "2026-05-13 23:56",
-    "mensaje": "Comparecencia Especial del Ministro de Energía y Minas sobre la situación electroenergética.\n\nhttps://www.facebook.com/share/v/1E97dRzAaj/",
-    "timestamp": 1778716610,
-    "timestamp_local": 1778716610
-  },
-  {
-    "id": 35529,
-    "fecha": "13 de May del 2026 a las 07:19 PM",
-    "hora_utc": "2026-05-13 23:19",
-    "mensaje": "https://whatsapp.com/channel/0029VbAlgRZDp2QEdEQbt50z/12824",
-    "timestamp": 1778714382,
-    "timestamp_local": 1778714382
-  },
-  {
-    "id": 35528,
-    "fecha": "13 de May del 2026 a las 07:12 PM",
-    "hora_utc": "2026-05-13 23:12",
-    "mensaje": "⚡ Déficit de capacidad de generación en la provincia: * 181 MW .* ⚡",
-    "timestamp": 1778713971,
-    "timestamp_local": 1778713971
-  },
-  {
-    "id": 35527,
-    "fecha": "13 de May del 2026 a las 06:04 PM",
-    "hora_utc": "2026-05-13 22:04",
-    "mensaje": "⚡ Déficit de capacidad de generación en la provincia: * 173 MW .* ⚡",
-    "timestamp": 1778709889,
-    "timestamp_local": 1778709889
   }
 ]
