@@ -1,5 +1,53 @@
 [
   {
+    "id": 46643,
+    "fecha": "14 de May del 2026 a las 01:41 PM",
+    "hora_utc": "2026-05-14 17:41",
+    "mensaje": "fr",
+    "timestamp": 1778780510,
+    "timestamp_local": 1778780510
+  },
+  {
+    "id": 46641,
+    "fecha": "14 de May del 2026 a las 01:39 PM",
+    "hora_utc": "2026-05-14 17:39",
+    "mensaje": "fr",
+    "timestamp": 1778780369,
+    "timestamp_local": 1778780369
+  },
+  {
+    "id": 46634,
+    "fecha": "14 de May del 2026 a las 12:52 PM",
+    "hora_utc": "2026-05-14 16:52",
+    "mensaje": "⚡Afectado el circuito 6 Vigía, del municipio Santa Clara. Se estudian las causas.",
+    "timestamp": 1778777571,
+    "timestamp_local": 1778777571
+  },
+  {
+    "id": 46633,
+    "fecha": "14 de May del 2026 a las 12:29 PM",
+    "hora_utc": "2026-05-14 16:29",
+    "mensaje": "Con servicio el circuito 162 Santa Clara Industrial.",
+    "timestamp": 1778776189,
+    "timestamp_local": 1778776189
+  },
+  {
+    "id": 46632,
+    "fecha": "14 de May del 2026 a las 12:29 PM",
+    "hora_utc": "2026-05-14 16:29",
+    "mensaje": "Con servicio la línea 1710:\n🔹Municipio Santo Domingo:\n👉Cto 79 \n👉Cto 81 26 de Julio\n👉Cto 163 Batey 26 de Julio\n🔹Municipio Ranchuelo:\n👉Ctos 54, 94 y 95 Jicotea\n👉Cto 93 Esperanza (Campo)",
+    "timestamp": 1778776189,
+    "timestamp_local": 1778776189
+  },
+  {
+    "id": 46631,
+    "fecha": "14 de May del 2026 a las 12:29 PM",
+    "hora_utc": "2026-05-14 16:29",
+    "mensaje": "⚡Afectado el circuito 6 Vigía, del municipio Santa Clara. Se estudian las causas.",
+    "timestamp": 1778776189,
+    "timestamp_local": 1778776189
+  },
+  {
     "id": 46630,
     "fecha": "14 de May del 2026 a las 11:41 AM",
     "hora_utc": "2026-05-14 15:41",
@@ -11,7 +59,7 @@
     "id": 46629,
     "fecha": "14 de May del 2026 a las 11:39 AM",
     "hora_utc": "2026-05-14 15:39",
-    "mensaje": "🛠️Afectado el circuito 193 Santa Clara Industrial. Se estudian las causas.",
+    "mensaje": "⚡Afectado el circuito 193 y 162 Santa Clara Industrial. Se estudian las causas.",
     "timestamp": 1778773150,
     "timestamp_local": 1778773150
   },
@@ -94,69 +142,5 @@
     "mensaje": "🛠️Afectado por manipulación la línea 332:\n🔹Municipio Manicaragua:\n👉Ctos 113 y 137 La Campana\n👉Cto 112 Hoyo Manicaragua",
     "timestamp": 1778769932,
     "timestamp_local": 1778769932
-  },
-  {
-    "id": 46618,
-    "fecha": "14 de May del 2026 a las 10:33 AM",
-    "hora_utc": "2026-05-14 14:33",
-    "mensaje": "Con servicio los circuitos 63 y 64 del municipio Caibarién.",
-    "timestamp": 1778769211,
-    "timestamp_local": 1778769211
-  },
-  {
-    "id": 46617,
-    "fecha": "14 de May del 2026 a las 10:29 AM",
-    "hora_utc": "2026-05-14 14:29",
-    "mensaje": "🛠️Afectado por disparo el circuito 31 Sakenaf, del municipio Santa Clara. Se estudian las causas.",
-    "timestamp": 1778768978,
-    "timestamp_local": 1778768978
-  },
-  {
-    "id": 46616,
-    "fecha": "14 de May del 2026 a las 10:23 AM",
-    "hora_utc": "2026-05-14 14:23",
-    "mensaje": "🟢 Actualización sobre la situación del SEN\n\n👉 A las 9:50 se logró enlazar la provincia de Las Tunas al SEN.\n\nContinuaremos informando.",
-    "timestamp": 1778768598,
-    "timestamp_local": 1778768598
-  },
-  {
-    "id": 46615,
-    "fecha": "14 de May del 2026 a las 10:23 AM",
-    "hora_utc": "2026-05-14 14:23",
-    "mensaje": "👉 Con servicio la Unidad 6 de la CTE Diez de Octubre, para comenzar el proceso de arranque.",
-    "timestamp": 1778768583,
-    "timestamp_local": 1778768583
-  },
-  {
-    "id": 46614,
-    "fecha": "14 de May del 2026 a las 10:21 AM",
-    "hora_utc": "2026-05-14 14:21",
-    "mensaje": "🟢 Actualización sobre la situación del SEN\n\n👉 A las 9:19 se logró enlazar la provincia Camagüey al SEN.",
-    "timestamp": 1778768493,
-    "timestamp_local": 1778768493
-  },
-  {
-    "id": 46613,
-    "fecha": "14 de May del 2026 a las 10:20 AM",
-    "hora_utc": "2026-05-14 14:20",
-    "mensaje": "Con servicio el circuito 30 Santa Clara Industrial. \n✍️Queda afectado el circuito 193 Santa Clara Industrial.",
-    "timestamp": 1778768452,
-    "timestamp_local": 1778768452
-  },
-  {
-    "id": 46612,
-    "fecha": "14 de May del 2026 a las 10:11 AM",
-    "hora_utc": "2026-05-14 14:11",
-    "mensaje": "🛠️Afectados por manipulación los circuitos 63 y 64 del municipio Caibarién, para reponer transformador.",
-    "timestamp": 1778767901,
-    "timestamp_local": 1778767901
-  },
-  {
-    "id": 46611,
-    "fecha": "14 de May del 2026 a las 10:05 AM",
-    "hora_utc": "2026-05-14 14:05",
-    "mensaje": "🛠️Afectados por disparo los circuitos 30 y 193 Santa Clara Industrial. Se estudian las causas.",
-    "timestamp": 1778767557,
-    "timestamp_local": 1778767557
   }
 ]

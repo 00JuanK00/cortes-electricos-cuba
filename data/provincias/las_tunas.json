@@ -1,5 +1,13 @@
 [
   {
+    "id": 19044,
+    "fecha": "14 de May del 2026 a las 01:37 PM",
+    "hora_utc": "2026-05-14 17:37",
+    "mensaje": "Información actual del servicio eléctrico\n\nLa Empresa Eléctrica Las Tunas informa que, en estos momentos se encuentran con servicio los circuitos TK4 y TK106\n\nTK4: Aeropuerto, Casa Piedra y Reparto Aurora.\n\nTK106: Buena Vista y Palancón.",
+    "timestamp": 1778780252,
+    "timestamp_local": 1778780252
+  },
+  {
     "id": 19042,
     "fecha": "14 de May del 2026 a las 11:27 AM",
     "hora_utc": "2026-05-14 15:27",
@@ -134,21 +142,5 @@
     "mensaje": "🔊Informamos a nuestros clientes que en este momento nos encontramos en la máxima capacidad apagable, lo que impide el restablecimiento inmediato del servicio eléctrico en los circuitos afectados. La situación podrá mejorar en la medida en que el Sistema Electroenergético Nacional permita recuperar la capacidad de generación.Ofrecemos disculpas por las molestas ocasionadas",
     "timestamp": 1778662337,
     "timestamp_local": 1778662337
-  },
-  {
-    "id": 19022,
-    "fecha": "12 de May del 2026 a las 11:09 PM",
-    "hora_utc": "2026-05-13 03:09",
-    "mensaje": "🛠 Se declara en avería el circuito TK19 las localidades de San Antonio, Pozo Salado , Aguas Blancas , Las Tablas , Ciruelito y los Melanios.",
-    "timestamp": 1778641793,
-    "timestamp_local": 1778641793
-  },
-  {
-    "id": 19021,
-    "fecha": "12 de May del 2026 a las 06:58 PM",
-    "hora_utc": "2026-05-12 22:58",
-    "mensaje": "📲Centro Telefónico:\nLa Empresa Eléctrica Las Tunas pone a disposición de sus clientes un Centro de Atención Telefónica con el objetivo de brindar asistencia y responder a sus inquietudes. Para asegurar un flujo eficiente de comunicación, el centro cuenta con 38 líneas de entrada, gestionadas por 6 operadores en cada turno de trabajo.\nCuando los 6 operadores se encuentran atendiendo llamadas simultáneamente, las siguientes 32 llamadas entrantes son colocadas en una cola de espera, donde una operadora automática les informa que serán atendidas a la brevedad, acompañando la espera con música. En esta situación, se requiere paciencia por parte del cliente hasta que un operador se desocupe y su llamada sea transferida automáticamente. Sin embargo, el sistema tiene un límite. A partir de la llamada número 39, todas las líneas de entrada estarán ocupadas, lo que resultará en una señal de \"ocupado\" para el cliente. En este caso, para lograr contactar al centro, el cliente deberá intentar la llamada nuevamente hasta que una línea quede disponible. La Empresa Eléctrica Las Tunas trabaja continuamente para optimizar este servicio y agradece su comprensión.",
-    "timestamp": 1778626685,
-    "timestamp_local": 1778626685
   }
 ]
