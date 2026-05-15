@@ -1,5 +1,29 @@
 [
   {
+    "id": 46696,
+    "fecha": "15 de May del 2026 a las 06:15 PM",
+    "hora_utc": "2026-05-15 22:15",
+    "mensaje": "⚠️Afectado el servicio eléctrico en el siguiente circuito: \n🔹Municipio Santa Clara.\n👉 Cto 6 Vigía",
+    "timestamp": 1778883341,
+    "timestamp_local": 1778883341
+  },
+  {
+    "id": 46695,
+    "fecha": "15 de May del 2026 a las 06:07 PM",
+    "hora_utc": "2026-05-15 22:07",
+    "mensaje": "🕕Actualización del servicio eléctrico.\n✍️El déficit de capacidad de generación en estos momentos es de 149 MW\n✍️En el momento de esta nota, se mantienen afectados 136 circuitos.\n✍️ Cuenta con 169 afectaciones por averías secundarias y de servicio:\n🔸 Caibarién (7)\n🔸 Camajuaní (3)\n🔸 Corralillo (10)\n🔸 Encrucijada (10)\n🔸 Manicaragua (7)\n🔸 Placetas (10)\n🔸 Ranchuelo (3)\n🔸 Remedios (6) \n🔸 Sagua (10) \n🔸 Santa Clara (80)\n🔸 Santo Domingo (23)\n🛠️Se encuentran 2 avería en vía de solución.\n🛠️Pendientes a solucionar por el área técnica 17.\n⚡Averías⚡\n👉Afectado por avería el Cto 106 Falcón, perteneciente al municipio Placetas, por cable primario partido.\n👉Afectado por avería el Cto 124 El Santo, perteneciente al municipio Encrucijada, Subestación disparada.\n👉Afectado por avería el Cto 126 Emilio Córdova, perteneciente al municipio Encrucijada, Subestación disparada.\n👉Afectado el Cto 55 Rancho Veloz, perteneciente al municipio Corralillo, se estudian las causas.",
+    "timestamp": 1778882847,
+    "timestamp_local": 1778882847
+  },
+  {
+    "id": 46694,
+    "fecha": "15 de May del 2026 a las 05:42 PM",
+    "hora_utc": "2026-05-15 21:42",
+    "mensaje": "⚠️Afectado el servicio eléctrico en los siguientes circuitos:\n🔹Municipio Santa Clara\n👉 Cto 132 Santa Clara Industrial\n👉 Cto 162 Santa Clara Industrial\n👉 Cto 169 Condado\n👉 Ctos 37 y 38 Yabú \n👉 Cto 9 Moldes y Troqueles\n👉 Cto 133 Taller Cafetera",
+    "timestamp": 1778881353,
+    "timestamp_local": 1778881353
+  },
+  {
     "id": 46693,
     "fecha": "15 de May del 2026 a las 05:38 PM",
     "hora_utc": "2026-05-15 21:38",
@@ -134,29 +158,5 @@
     "mensaje": "⚠️Se encuentra disparada la línea del 1780 por tormenta:\n🔹Municipio Santa Clara:\n👉 Cto 16 Cubanacán \n👉 Ctos 23 y 130 La Ceniza\n👉 Cto 42 Manajanabo\n🔹Municipio Placetas\n👉 Cto 139 Miller\n👉 Cto 190 Oliver\n👉 Cto 106 Falcón (Avería)\n👉 Ctos 98 y 99 Placetas",
     "timestamp": 1778873880,
     "timestamp_local": 1778873880
-  },
-  {
-    "id": 46676,
-    "fecha": "15 de May del 2026 a las 03:04 PM",
-    "hora_utc": "2026-05-15 19:04",
-    "mensaje": "Afectados 109 MW en la provincia, demanda máxima a apagar en estos momentos.",
-    "timestamp": 1778871846,
-    "timestamp_local": 1778871846
-  },
-  {
-    "id": 46675,
-    "fecha": "15 de May del 2026 a las 03:02 PM",
-    "hora_utc": "2026-05-15 19:02",
-    "mensaje": "🟢 14:07 || Enlazada la provincia de Santiago de Cuba al SEN.\n🟢 14:25 || Enlazada la provincia de Guantánamo al SEN.",
-    "timestamp": 1778871778,
-    "timestamp_local": 1778871778
-  },
-  {
-    "id": 46674,
-    "fecha": "15 de May del 2026 a las 02:55 PM",
-    "hora_utc": "2026-05-15 18:55",
-    "mensaje": "🔴13:13 || Fuera de línea la Unidad 1 de la CTE Lidio Ramón Pérez \"Felton\" por alto nivel en  calentador de baja presión.\n 🟢 14:02 || En línea la Unidad 1 de la CTE Lidio Ramón Pérez \"Felton\".",
-    "timestamp": 1778871358,
-    "timestamp_local": 1778871358
   }
 ]
