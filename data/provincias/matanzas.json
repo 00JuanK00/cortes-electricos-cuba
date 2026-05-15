@@ -1,5 +1,37 @@
 [
   {
+    "id": 35574,
+    "fecha": "15 de May del 2026 a las 11:30 AM",
+    "hora_utc": "2026-05-15 15:30",
+    "mensaje": "⚡ Déficit de capacidad de generación en la provincia: **118 MW** ⚡",
+    "timestamp": 1778859000,
+    "timestamp_local": 1778859000
+  },
+  {
+    "id": 35573,
+    "fecha": "15 de May del 2026 a las 10:53 AM",
+    "hora_utc": "2026-05-15 14:53",
+    "mensaje": "💡CIRCUITOS PRÓXIMOS A RESTABLECER.\n\n🔌 Circuito 4071 que da servicio a la Carlota y La Isabel.\n🔌 Circuito 4072 que da servicio al pueblo de Agramonte mediante el enlace con Yaguaramas.\n🔌 Circuito 4073 Batey Luisa, Peralta, San Carlos, Poblado San José de Marcos y Torriente.\n🔌 Circuito 4480 que da servicio a Jagüey circuitos 1 y 2.\n🔌 Circuito 5670 que da servicio a Manuelito, Bolondrón, Unión de Reyes, Cabezas, Bermejas y Alacranes.",
+    "timestamp": 1778856837,
+    "timestamp_local": 1778856837
+  },
+  {
+    "id": 35572,
+    "fecha": "15 de May del 2026 a las 10:44 AM",
+    "hora_utc": "2026-05-15 14:44",
+    "mensaje": "🟢 10:42 || En línea la Unidad 1 de la CTE Lidio Ramón Pérez \"Felton\".",
+    "timestamp": 1778856283,
+    "timestamp_local": 1778856283
+  },
+  {
+    "id": 35571,
+    "fecha": "15 de May del 2026 a las 09:30 AM",
+    "hora_utc": "2026-05-15 13:30",
+    "mensaje": "🔋🇨🇺Situación Electroenergética para hoy: 15 de abril de 2026.\n\n👉En el día de ayer se afectó el servicio por déficit de capacidad durante las 24 horas y se mantuvo la afectación durante todo el horario de la madrugada. La máxima afectación por déficit de capacidad de generación en el día de ayer fue de 1991 MW a las 21:20 horas.\n\n❌Se esperan afectaciones durante todo el horario diurno con un máximo de: 1350 MW.\n\n☀️Limitaciones térmicas: 246 MW.\n\n ⚠️Avería:\n    - Unidad 1 de la CTE Ernesto Guevara De La Serna.\n    - Unidad 2 de la CTE Lidio Ramón Pérez.\n    - Unidad 5 de la CTE Antonio Maceo.\n    -  Unidad 6 de la CTE Máximo Gómez \n\n⚒️Mantenimiento:\n    - Unidad 1 de la CTE Lidio Ramón Pérez.\n    - Unidad 5 de la CTE Mariel.\n    - Unidad 5 de la CTE Nuevitas.\n    - Unidades 6 de la CTE Renté.\n\n🌙Afectación nocturna estimada: 1639 MW en este horario.\n\nhttps://www.unionelectrica.cu/nota-informativa/",
+    "timestamp": 1778851835,
+    "timestamp_local": 1778851835
+  },
+  {
     "id": 35570,
     "fecha": "15 de May del 2026 a las 08:27 AM",
     "hora_utc": "2026-05-15 12:27",
@@ -126,37 +158,5 @@
     "mensaje": "⚡ Déficit de capacidad de generación en la provincia: * 163MW .* ⚡",
     "timestamp": 1778781379,
     "timestamp_local": 1778781379
-  },
-  {
-    "id": 35553,
-    "fecha": "14 de May del 2026 a las 12:36 PM",
-    "hora_utc": "2026-05-14 16:36",
-    "mensaje": "⚡ Déficit de capacidad de generación en la provincia: * 162 MW .* ⚡",
-    "timestamp": 1778776586,
-    "timestamp_local": 1778776586
-  },
-  {
-    "id": 35552,
-    "fecha": "14 de May del 2026 a las 11:37 AM",
-    "hora_utc": "2026-05-14 15:37",
-    "mensaje": "🔔Si tienen alguna avería eléctrica. \n1⃣ 📞Haga su reporte al Centro de Atención Telefónico mediante el 18888, estamos a su servicio.\n2⃣ 🏠Conocer de forma exacta la dirección de su vivienda: número de casa, calle, entre calles, reparto, localidad.\n3⃣ 📍Ubicar un punto de referencia, que permita llegar hasta su vivienda con mayor rapidez (lugar o persona reconocida en la zona)\n4⃣ 📝Anote el número de su reporte para ser utilizado en caso de reclamaciones, o para comprobar el estado del mismo.",
-    "timestamp": 1778773051,
-    "timestamp_local": 1778773051
-  },
-  {
-    "id": 35551,
-    "fecha": "14 de May del 2026 a las 10:54 AM",
-    "hora_utc": "2026-05-14 14:54",
-    "mensaje": "🟢 Actualización sobre la situación del SEN\n\n👉 A las 10:44 se logró enlazar la provincia de Holguín al SEN.\n\nContinuaremos informando.",
-    "timestamp": 1778770488,
-    "timestamp_local": 1778770488
-  },
-  {
-    "id": 35550,
-    "fecha": "14 de May del 2026 a las 10:08 AM",
-    "hora_utc": "2026-05-14 14:08",
-    "mensaje": "Nota Informativa: Estado del Sistema Eléctrico Nacional (SEN) – 14 de mayo de 2026\n\nEn el día de ayer se afectó el servicio por déficit de capacidad durante las 24 horas y se mantuvo la afectación durante todo el horario de la madrugada. La máxima afectación por déficit de capacidad de generación en el día de ayer fue de 2153 MW a las 21:30 horas, superior a lo planificado por salida por emergencia de la unidad 1 de la CTE Santa Cruz, la unidad 4 de la CTE Cienfuegos y los motores del emplazamiento de Moa.\n\nLa producción de energía de los 54 nuevos parques solares fotovoltaicos fue de 3348 MWh, con 470 MW como máxima potencia entregada en el horario de la media con esta fuente de generación.\n\nEstado actual del SEN\nA las 06:09 ocurrió una caída parcial del sistema desde la provincia de Ciego de Ávila hasta Guantánamo. La disponibilidad del SEN a las 06:30 horas es de 636 MW, la demanda 2420 MW con 1790 MW afectados. En estos momentos se encuentra en proceso de restablecimiento la zona afectada.\n\nPrincipales incidencias\nAvería: Unidad 6 de la CTE Máximo Gómez, Unidades 1 y 2 de la CTE Ernesto Guevara De La Serna, Unidad 2 de la CTE Lidio Ramón Pérez y la Unidad 5 de la CTE Antonio Maceo.\nMantenimiento: Unidad 1 de la CTE Lidio Ramón Pérez, Unidad 5 de la CTE Mariel, Unidad 6 de la CTE Renté, Unidad 5 de la CTE Nuevitas.\nSe encuentra fuera de servicio la unidad 6 de la CTE Nuevitas, la unidad 3 de la CTE Renté y la central fuel de Moa por la caída parcial del SEN.\nLimitaciones en la generación térmica: 263 MW fuera de servicio.\n\nPronóstico para el horario pico\nPara el pico se prevé la entrada la unidad 6 de la CTE Mariel con 75 MW, la entrada de la unidad 1 de la CTE Santa Cruz con 60 MW (en proceso de arranque), la entrada de 10 motores del emplazamiento de Moa fuel con 130 MW y la entrada de la unidad 6 de la CTE Nuevitas con 75 MW.\n\nCon este pronóstico se estima que para el horario de máxima demanda una disponibilidad de 976 MW con una demanda máxima de 3150 MW, para un déficit de 2174 MW, por lo que de mantenerse las condiciones previstas se pronostica una afectación de 2204 MW en este horario.",
-    "timestamp": 1778767692,
-    "timestamp_local": 1778767692
   }
 ]
