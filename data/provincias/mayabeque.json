@@ -1,5 +1,21 @@
 [
   {
+    "id": 113723,
+    "fecha": "15 de May del 2026 a las 06:34 AM",
+    "hora_utc": "2026-05-15 10:34",
+    "mensaje": "🚨Por déficit de capacidad de generación se afecta el servicio en el siguiente circuito:\n*CENSA 🚨",
+    "timestamp": 1778841252,
+    "timestamp_local": 1778841252
+  },
+  {
+    "id": 113722,
+    "fecha": "15 de May del 2026 a las 06:24 AM",
+    "hora_utc": "2026-05-15 10:24",
+    "mensaje": "🚨Por déficit de capacidad de generación se afecta el servicio en el siguiente circuito:\n*2 de San José 🚨",
+    "timestamp": 1778840673,
+    "timestamp_local": 1778840673
+  },
+  {
     "id": 113720,
     "fecha": "15 de May del 2026 a las 01:08 AM",
     "hora_utc": "2026-05-15 05:08",
@@ -83,7 +99,7 @@
     "id": 113707,
     "fecha": "14 de May del 2026 a las 08:05 PM",
     "hora_utc": "2026-05-15 00:05",
-    "mensaje": "🚨Por déficit de capacidad de generación se afecta el servicio en el siguiente circuito:\n*Surgidero 🚨",
+    "mensaje": "🚨Por déficit de capacidad de generación se afecta el servicio en los siguiente circuito:\n*Surgidero \n*3655\n*3660🚨",
     "timestamp": 1778803551,
     "timestamp_local": 1778803551
   },
@@ -118,29 +134,5 @@
     "mensaje": "🚨Por déficit de capacidad de generación se afecta el servicio en el siguiente circuito:\n*Madruga 🚨",
     "timestamp": 1778802205,
     "timestamp_local": 1778802205
-  },
-  {
-    "id": 113702,
-    "fecha": "14 de May del 2026 a las 07:29 PM",
-    "hora_utc": "2026-05-14 23:29",
-    "mensaje": "🚨Por déficit de capacidad de generación se afecta el servicio en los siguientes circuitos:\n*Aguacate\n*Jaruco🚨",
-    "timestamp": 1778801350,
-    "timestamp_local": 1778801350
-  },
-  {
-    "id": 113701,
-    "fecha": "14 de May del 2026 a las 07:18 PM",
-    "hora_utc": "2026-05-14 23:18",
-    "mensaje": "🔷Se normaliza el circuito 5 y 7   que se encontraba afectado por disparo en línea 🔷",
-    "timestamp": 1778800704,
-    "timestamp_local": 1778800704
-  },
-  {
-    "id": 113700,
-    "fecha": "14 de May del 2026 a las 07:10 PM",
-    "hora_utc": "2026-05-14 23:10",
-    "mensaje": "♦️ Informamos a los clientes del circuito 5 y 7  que se encuentran afectados por disparo  en línea ♦️",
-    "timestamp": 1778800245,
-    "timestamp_local": 1778800245
   }
 ]
