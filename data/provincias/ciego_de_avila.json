@@ -1,5 +1,29 @@
 [
   {
+    "id": 38221,
+    "fecha": "14 de May del 2026 a las 11:47 PM",
+    "hora_utc": "2026-05-15 03:47",
+    "mensaje": "‼️ Información ‼️   \n👉En estos momentos tenemos 96 MW en la provincia afectados por déficit de generación. Con este déficit no podemos cumplir con una programación estable, por lo que los circuitos se afectarán o se restablecerán en dependencia del déficit que haya en cada momento de la jornada.",
+    "timestamp": 1778816867,
+    "timestamp_local": 1778816867
+  },
+  {
+    "id": 38220,
+    "fecha": "14 de May del 2026 a las 10:27 PM",
+    "hora_utc": "2026-05-15 02:27",
+    "mensaje": "‼️ Información del déficit de generación ‼️   \n👉Tenemos 98 MW en la provincia afectados por déficit de generación.\n⏰ Con este déficit, la carga a apagar en la provincia no nos permite realizar una rotación estable de los circuitos, por lo que se afectarán o se restablecerán en dependencia del déficit que haya en cada momento de la jornada, que es muy variable.",
+    "timestamp": 1778812031,
+    "timestamp_local": 1778812031
+  },
+  {
+    "id": 38219,
+    "fecha": "14 de May del 2026 a las 09:43 PM",
+    "hora_utc": "2026-05-15 01:43",
+    "mensaje": "‼️ Déficit de Generación ‼️   \n👉 Nos mantenemos  con 100 MW en la provincia por déficit de generación.\n\n ⏰ Reiteramos que los circuitos se afectarán o se restablecerán en dependencia del déficit solicitado en cada momento de la jornada que es muy variable.",
+    "timestamp": 1778809433,
+    "timestamp_local": 1778809433
+  },
+  {
     "id": 38217,
     "fecha": "14 de May del 2026 a las 08:01 PM",
     "hora_utc": "2026-05-15 00:01",
@@ -118,37 +142,5 @@
     "mensaje": "🔉 Información 🔉\n\n👉En la provincia se realizan trabajos para la creación de los microsistemas con la generación distribuida del territorio de Chambas, Morón y Ciego Norte, seguidamente reforzado por los parques fotovoltáicos.\n☝️Con ellos se priorizará el servicio a los centros vitales como hospitales, bombeos de agua y lácteos  así como a los clientes enclavados en esas líneas.",
     "timestamp": 1778763592,
     "timestamp_local": 1778763592
-  },
-  {
-    "id": 38199,
-    "fecha": "14 de May del 2026 a las 08:58 AM",
-    "hora_utc": "2026-05-14 12:58",
-    "mensaje": "⚜️Información⚜️\n👉A las [ 06:09 a.m ocurrió una caída parcial del sistema desde la provincia de Ciego de Ávila hasta Guantánamo.](http://www.cubadebate.cu/noticias/2026/05/14/union-electrica-informa-desconexion-parcial-del-sen-desde-ciego-de-avila-hasta-guantanamo/) En estos momentos se encuentra en proceso de restablecimiento la zona afectada.",
-    "timestamp": 1778763480,
-    "timestamp_local": 1778763480
-  },
-  {
-    "id": 38197,
-    "fecha": "14 de May del 2026 a las 08:40 AM",
-    "hora_utc": "2026-05-14 12:40",
-    "mensaje": "✅ Información.\n👉 Se restablece el servicio telefónico del 18888.",
-    "timestamp": 1778762434,
-    "timestamp_local": 1778762434
-  },
-  {
-    "id": 38196,
-    "fecha": "14 de May del 2026 a las 08:33 AM",
-    "hora_utc": "2026-05-14 12:33",
-    "mensaje": "La Unión Eléctrica informa que [a las 06:09 ocurrió una caída parcial del sistema desde la provincia de Ciego de Ávila hasta Guantánamo.](http://www.cubadebate.cu/noticias/2026/05/14/union-electrica-informa-desconexion-parcial-del-sen-desde-ciego-de-avila-hasta-guantanamo/) La disponibilidad del SEN a las 06:30 horas\n es de 636 MW, la demanda 2420 MW con 1790 MW afectados. En estos \nmomentos se encuentra en proceso de restablecimiento la zona afectada.",
-    "timestamp": 1778761997,
-    "timestamp_local": 1778761997
-  },
-  {
-    "id": 38195,
-    "fecha": "14 de May del 2026 a las 08:21 AM",
-    "hora_utc": "2026-05-14 12:21",
-    "mensaje": "👉A las 06:09 ocurrió una caída parcial del sistema desde la provincia de Ciego de Ávila hasta Guantánamo.",
-    "timestamp": 1778761269,
-    "timestamp_local": 1778761269
   }
 ]
