@@ -1,5 +1,29 @@
 [
   {
+    "id": 35570,
+    "fecha": "15 de May del 2026 a las 08:27 AM",
+    "hora_utc": "2026-05-15 12:27",
+    "mensaje": "💡CIRCUITO RESTABLECIDO.\n🔌 Circuito 4427 que da servicio a Reparto 13 de marzo, circuitos 2 y 3 desde Salud hasta Obispo y desde García hasta Genes, Playa Larga, Smith Comas.",
+    "timestamp": 1778848049,
+    "timestamp_local": 1778848049
+  },
+  {
+    "id": 35569,
+    "fecha": "15 de May del 2026 a las 08:22 AM",
+    "hora_utc": "2026-05-15 12:22",
+    "mensaje": "📢 A medida que las condiciones del sistema lo permitan, se irán restableciendo de forma gradual los circuitos que han tenido más tiempo de afectación.",
+    "timestamp": 1778847771,
+    "timestamp_local": 1778847771
+  },
+  {
+    "id": 35568,
+    "fecha": "15 de May del 2026 a las 07:52 AM",
+    "hora_utc": "2026-05-15 11:52",
+    "mensaje": "QUEJAS PENDIENTES EN EL DÍA\n\n🔔Al cierre de las 7:35 am del día 15 de mayo se encuentran 329 quejas pendientes en el sistema.\n\n El desglose por municipio es el siguiente: \n\n🔸Calimete: 1\n🔸Cárdenas:  2\n🔸Colón: 8\n🔸Jaguey:   6\n🔸Jovellanos:  5\n🔸Limonar:  2\n🔸Los Arabos:  9\n🔸Martí:  1\n🔸Matanzas:  283\n🔸Perico:   1\n🔸Unión:   9\n🔸Varadero:   2\n\nNuestros Linieros ⚡️👷 continúan trabajando para restablecer el servicio a todos los clientes con quejas pendientes.‼️",
+    "timestamp": 1778845947,
+    "timestamp_local": 1778845947
+  },
+  {
     "id": 35567,
     "fecha": "15 de May del 2026 a las 06:27 AM",
     "hora_utc": "2026-05-15 10:27",
@@ -134,29 +158,5 @@
     "mensaje": "Nota Informativa: Estado del Sistema Eléctrico Nacional (SEN) – 14 de mayo de 2026\n\nEn el día de ayer se afectó el servicio por déficit de capacidad durante las 24 horas y se mantuvo la afectación durante todo el horario de la madrugada. La máxima afectación por déficit de capacidad de generación en el día de ayer fue de 2153 MW a las 21:30 horas, superior a lo planificado por salida por emergencia de la unidad 1 de la CTE Santa Cruz, la unidad 4 de la CTE Cienfuegos y los motores del emplazamiento de Moa.\n\nLa producción de energía de los 54 nuevos parques solares fotovoltaicos fue de 3348 MWh, con 470 MW como máxima potencia entregada en el horario de la media con esta fuente de generación.\n\nEstado actual del SEN\nA las 06:09 ocurrió una caída parcial del sistema desde la provincia de Ciego de Ávila hasta Guantánamo. La disponibilidad del SEN a las 06:30 horas es de 636 MW, la demanda 2420 MW con 1790 MW afectados. En estos momentos se encuentra en proceso de restablecimiento la zona afectada.\n\nPrincipales incidencias\nAvería: Unidad 6 de la CTE Máximo Gómez, Unidades 1 y 2 de la CTE Ernesto Guevara De La Serna, Unidad 2 de la CTE Lidio Ramón Pérez y la Unidad 5 de la CTE Antonio Maceo.\nMantenimiento: Unidad 1 de la CTE Lidio Ramón Pérez, Unidad 5 de la CTE Mariel, Unidad 6 de la CTE Renté, Unidad 5 de la CTE Nuevitas.\nSe encuentra fuera de servicio la unidad 6 de la CTE Nuevitas, la unidad 3 de la CTE Renté y la central fuel de Moa por la caída parcial del SEN.\nLimitaciones en la generación térmica: 263 MW fuera de servicio.\n\nPronóstico para el horario pico\nPara el pico se prevé la entrada la unidad 6 de la CTE Mariel con 75 MW, la entrada de la unidad 1 de la CTE Santa Cruz con 60 MW (en proceso de arranque), la entrada de 10 motores del emplazamiento de Moa fuel con 130 MW y la entrada de la unidad 6 de la CTE Nuevitas con 75 MW.\n\nCon este pronóstico se estima que para el horario de máxima demanda una disponibilidad de 976 MW con una demanda máxima de 3150 MW, para un déficit de 2174 MW, por lo que de mantenerse las condiciones previstas se pronostica una afectación de 2204 MW en este horario.",
     "timestamp": 1778767692,
     "timestamp_local": 1778767692
-  },
-  {
-    "id": 35549,
-    "fecha": "14 de May del 2026 a las 09:55 AM",
-    "hora_utc": "2026-05-14 13:55",
-    "mensaje": "🟢 Actualización sobre la situación del SEN\n\n👉 A las 9:50 se logró enlazar la provincia de Las Tunas al SEN.\n\nContinuaremos informando.",
-    "timestamp": 1778766902,
-    "timestamp_local": 1778766902
-  },
-  {
-    "id": 35548,
-    "fecha": "14 de May del 2026 a las 09:54 AM",
-    "hora_utc": "2026-05-14 13:54",
-    "mensaje": "👉 Ya tiene servicio la Unidad 6 de la CTE Diez de Octubre, para comenzar el proceso de arranque.",
-    "timestamp": 1778766895,
-    "timestamp_local": 1778766895
-  },
-  {
-    "id": 35547,
-    "fecha": "14 de May del 2026 a las 09:43 AM",
-    "hora_utc": "2026-05-14 13:43",
-    "mensaje": "🟢 Actualización sobre la situación del SEN\n\n👉 A las 9:19 se logró enlazar la provincia Camagüey al SEN.\n\n👉 Ya tiene servicio la Unidad 6 de la CTE Diez de Octubre, para comenzar el proceso de arranque.\n\nContinuaremos informando.",
-    "timestamp": 1778766180,
-    "timestamp_local": 1778766180
   }
 ]
