@@ -1,5 +1,21 @@
 [
   {
+    "id": 46698,
+    "fecha": "15 de May del 2026 a las 07:03 PM",
+    "hora_utc": "2026-05-15 23:03",
+    "mensaje": "⚠️Afectado el servicio eléctrico en los siguientes circuitos:\n🔹Municipio Manicaragua:\n👉Ctos 113 y 137 La Campana\n👉Cto 112 Hoyo Manicaragua",
+    "timestamp": 1778886237,
+    "timestamp_local": 1778886237
+  },
+  {
+    "id": 46697,
+    "fecha": "15 de May del 2026 a las 07:00 PM",
+    "hora_utc": "2026-05-15 23:00",
+    "mensaje": "Afectados 158 MW en la provincia, demanda máxima a apagar en estos momentos.",
+    "timestamp": 1778886047,
+    "timestamp_local": 1778886047
+  },
+  {
     "id": 46696,
     "fecha": "15 de May del 2026 a las 06:15 PM",
     "hora_utc": "2026-05-15 22:15",
@@ -142,21 +158,5 @@
     "mensaje": "⚠️Afectado el servicio eléctrico en los siguientes circuitos:\n🔹Municipio Manicaragua:\n👉Ctos 109 y 150",
     "timestamp": 1778874695,
     "timestamp_local": 1778874695
-  },
-  {
-    "id": 46678,
-    "fecha": "15 de May del 2026 a las 03:49 PM",
-    "hora_utc": "2026-05-15 19:49",
-    "mensaje": "⚠️Afectada por emergencia la línea del 124 por emergencia por poste caído:\n🔹Municipio Santa Clara:\n👉 Cto 1, actualmente en avería\n👉 Ctos 2, 3 y 4 Consejo- Centro, actualmente afectados por déficit",
-    "timestamp": 1778874579,
-    "timestamp_local": 1778874579
-  },
-  {
-    "id": 46677,
-    "fecha": "15 de May del 2026 a las 03:38 PM",
-    "hora_utc": "2026-05-15 19:38",
-    "mensaje": "⚠️Se encuentra disparada la línea del 1780 por tormenta:\n🔹Municipio Santa Clara:\n👉 Cto 16 Cubanacán \n👉 Ctos 23 y 130 La Ceniza\n👉 Cto 42 Manajanabo\n🔹Municipio Placetas\n👉 Cto 139 Miller\n👉 Cto 190 Oliver\n👉 Cto 106 Falcón (Avería)\n👉 Ctos 98 y 99 Placetas",
-    "timestamp": 1778873880,
-    "timestamp_local": 1778873880
   }
 ]
