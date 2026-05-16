@@ -1,9 +1,65 @@
 [
   {
+    "id": 46765,
+    "fecha": "16 de May del 2026 a las 05:18 PM",
+    "hora_utc": "2026-05-16 21:18",
+    "mensaje": "Afectados 129 MW en la provincia, demanda máxima a apagar en estos momentos.",
+    "timestamp": 1778966325,
+    "timestamp_local": 1778966325
+  },
+  {
+    "id": 46764,
+    "fecha": "16 de May del 2026 a las 05:00 PM",
+    "hora_utc": "2026-05-16 21:00",
+    "mensaje": "⚠️Afectado el servicio eléctrico en los siguientes circuitos:\n🔹Municipio Santa Clara: \n👉Cto 167 Virginia\n👉Cto 170 José Martí",
+    "timestamp": 1778965254,
+    "timestamp_local": 1778965254
+  },
+  {
+    "id": 46763,
+    "fecha": "16 de May del 2026 a las 04:55 PM",
+    "hora_utc": "2026-05-16 20:55",
+    "mensaje": "⚠️Afectado el servicio eléctrico en el siguiente circuito:\n🔹Municipio Santa Clara:\n👉Cto 13 (Zona Industrial)",
+    "timestamp": 1778964936,
+    "timestamp_local": 1778964936
+  },
+  {
+    "id": 46762,
+    "fecha": "16 de May del 2026 a las 04:50 PM",
+    "hora_utc": "2026-05-16 20:50",
+    "mensaje": "⚠️Afectado el servicio eléctrico en los siguientes circuitos:\n🔹Municipio Santa Clara: \n👉Cto 166 Condado\n🔹Municipio Caibarién\n👉Ctos 182 y 183 Van Troy",
+    "timestamp": 1778964601,
+    "timestamp_local": 1778964601
+  },
+  {
+    "id": 46761,
+    "fecha": "16 de May del 2026 a las 04:35 PM",
+    "hora_utc": "2026-05-16 20:35",
+    "mensaje": "⚠️Afectado el servicio eléctrico en los siguientes circuitos:\n🔹Municipio Sagua \n👉Cto 48 Finalet\n👉Ctos 46 y 128 Sitiecito\n🔹Municipio Santa Clara:\n👉Cto 162 Santa Clara Industrial",
+    "timestamp": 1778963720,
+    "timestamp_local": 1778963720
+  },
+  {
+    "id": 46760,
+    "fecha": "16 de May del 2026 a las 04:33 PM",
+    "hora_utc": "2026-05-16 20:33",
+    "mensaje": "⚠️Afectado el servicio eléctrico en el siguiente circuito:\n🔹Municipio Caibarién:\n👉Cto 66(Las Torres)",
+    "timestamp": 1778963602,
+    "timestamp_local": 1778963602
+  },
+  {
+    "id": 46759,
+    "fecha": "16 de May del 2026 a las 04:28 PM",
+    "hora_utc": "2026-05-16 20:28",
+    "mensaje": "⚠️Afectado el servicio eléctrico en los siguientes circuitos:\n🔹Municipio Santo Domingo:\n👉Cto 195 Batey George Washington\n👉Ctos 83 y 165 Manacas\n👉Ctos 85 y 86 Pajarito\n👉Ctos 160 y 161 Cascajal\n👉Cto 79 Santo Domingo\n👉Cto 81 26 de Julio\n👉Cto 163 Batey 26 de Julio\n🔹Municipio Ranchuelo:\n👉Ctos 54, 94 y 95 Jicotea\n👉Cto 93 Esperanza (Campo)",
+    "timestamp": 1778963313,
+    "timestamp_local": 1778963313
+  },
+  {
     "id": 46758,
     "fecha": "16 de May del 2026 a las 04:25 PM",
     "hora_utc": "2026-05-16 20:25",
-    "mensaje": "⚠️Afectado el servicio eléctrico en los siguientes circuitos:\n🔹Municipio Santa Clara:\n👉Ctos  2 Consejo- Centro\n👉Cto 5 Dobarganes\n👉Cto 17 Subplanta\n👉Ctos 37 y 38 Yabú \n👉Cto 9 Moldes y Troqueles\n👉Cto 133 Taller Cafetera",
+    "mensaje": "⚠️Afectado el servicio eléctrico en los siguientes circuitos:\n🔹Municipio Santa Clara:\n👉Ctos  2 Consejo- Centro\n👉Cto 5 Dobarganes\n👉Cto 17 Subplanta\n👉Ctos 37 y 38 Yabú \n👉Cto 9 Moldes y Troqueles\n👉Cto 133 Taller Cafetera\n🔹Municipio Encrucijada:\n👉Cto 122 Encrucijada  \n👉Cto 123 Vizcaya \n👉Cto 142 Comunidad La Sierra \n👉Cto 126 Batey Emilio Córdova\n👉Cto 125 Cavarrocas\n👉Cto 124 El Santo\n🔹Municipio Camajuaní:                                                              \n👉Cto 78 Jutiero\n👉Cto 75 La Quinta\n👉Cto 157 Luis Arcos Bergnes\n👉Ctos 76 y 90 Vega Alta",
     "timestamp": 1778963108,
     "timestamp_local": 1778963108
   },
@@ -35,7 +91,7 @@
     "id": 46754,
     "fecha": "16 de May del 2026 a las 02:46 PM",
     "hora_utc": "2026-05-16 18:46",
-    "mensaje": "🛠️Afectado parcial el Cto 171(Buena Vista) perteneciente al Municipio Remedios  para cambio de Transformador.",
+    "mensaje": "🛠️Afectado parcial el Cto 71(Buena Vista) perteneciente al Municipio Remedios  para cambio de Transformador.",
     "timestamp": 1778957180,
     "timestamp_local": 1778957180
   },
@@ -102,61 +158,5 @@
     "mensaje": "⚠️Afectado el servicio eléctrico en los siguientes circuitos:\n🔹Municipio Encrucijada\n👉Cto 120 Calabazar\n👉Ctos 121 y 127 Perucho\n🔹Municipio Santa Clara:\n👉Cto 4 Consejo- Centro",
     "timestamp": 1778952217,
     "timestamp_local": 1778952217
-  },
-  {
-    "id": 46745,
-    "fecha": "16 de May del 2026 a las 01:06 PM",
-    "hora_utc": "2026-05-16 17:06",
-    "mensaje": "⚠️Afectado el servicio eléctrico en los siguientes circuitos:\n🔹Municipio Cifuentes:\n👉Ctos 114 y 117\n👉Cto 184 Sitio Grande",
-    "timestamp": 1778951216,
-    "timestamp_local": 1778951216
-  },
-  {
-    "id": 46744,
-    "fecha": "16 de May del 2026 a las 12:40 PM",
-    "hora_utc": "2026-05-16 16:40",
-    "mensaje": "🔹Municipio Encrucijada\n👉Cto 120 Calabazar\n👉Ctos 121 y 127 Perucho\n🔹Municipio Santa Clara:\n👉Cto 4 Consejo- Centro",
-    "timestamp": 1778949649,
-    "timestamp_local": 1778949649
-  },
-  {
-    "id": 46743,
-    "fecha": "16 de May del 2026 a las 12:40 PM",
-    "hora_utc": "2026-05-16 16:40",
-    "mensaje": "⚡ Actualización del Sistema Electroenergético Nacional para el 16 de mayo de 2026.\n\nLeer más: https://www.unionelectrica.cu/nota-informativa/\n\n#UnidosXCuba #UniónEléctrica #UNE #NotaInformativa",
-    "timestamp": 1778949630,
-    "timestamp_local": 1778949630
-  },
-  {
-    "id": 46742,
-    "fecha": "16 de May del 2026 a las 12:34 PM",
-    "hora_utc": "2026-05-16 16:34",
-    "mensaje": "⚠️Afectado el servicio eléctrico en los siguientes circuitos:\n🔹Municipio Santa Clara:\n👉Cto 153 EIDE\n👉Cto 25 Los Güiros\n👉Cto 24 Planta Asfalto\n👉Cto 35 Biotecnología \n👉Ctos 15 y 27 Maleza\n👉Cto 146 Elevado Aeropuerto\n🔹Municipio Manicaragua:\n👉Ctos 109 y 150",
-    "timestamp": 1778949289,
-    "timestamp_local": 1778949289
-  },
-  {
-    "id": 46741,
-    "fecha": "16 de May del 2026 a las 12:15 PM",
-    "hora_utc": "2026-05-16 16:15",
-    "mensaje": "⚠️Afectado el servicio eléctrico en el siguiente circuito:\n🔹Municipio Santa Clara:\n👉Cto 144 (Libertad-Camacho)",
-    "timestamp": 1778948144,
-    "timestamp_local": 1778948144
-  },
-  {
-    "id": 46740,
-    "fecha": "16 de May del 2026 a las 12:13 PM",
-    "hora_utc": "2026-05-16 16:13",
-    "mensaje": "🕛Actualización del servicio eléctrico.\n✍️El déficit de capacidad de generación en estos momentos es de 126 MW\n✍️En el momento de esta nota, se mantienen afectad 124 circuitos.\n✍️ Cuenta con 195 afectaciones por averías secundarias y de servicio:\n🔸 Caibarién (6)\n🔸Camajuaní (4)\n🔸 Corralillo (14)\n🔸 Encrucijada (6)\n🔸 Manicaragua (11)\n🔸 Placetas (9)\n🔸 Quemado (1)\n🔸 Ranchuelo (7)\n🔸 Remedios (10) \n🔸 Sagua (10) \n🔸 Santa Clara (65)\n🔸 Santo Domingo (19)\n🛠️Se encuentran 19 averías en vías de solución.\n🛠️Pendientes a solucionar por el área técnica 17.\n⚡Averías⚡\n👉Afectado  parcial por avería el Cto 164 , perteneciente al municipio Quemado , quedando afectado el ramal a Riquelme, brigadas de nuestra empresa se encuentran trabajando en la avería para brindar servicio en el menor tiempo posible.",
-    "timestamp": 1778948031,
-    "timestamp_local": 1778948031
-  },
-  {
-    "id": 46739,
-    "fecha": "16 de May del 2026 a las 12:06 PM",
-    "hora_utc": "2026-05-16 16:06",
-    "mensaje": "⚠️Afectado el servicio eléctrico en los siguientes circuitos:\n🔹Municipio Santo Domingo:\n👉Cto 134\n👉Ctos 87 y 96 Bermejal\n👉Cto 187 Batey Carlos Baliño\n👉Cto 82 Ulacia\n👉Cto 84 Rodrigo",
-    "timestamp": 1778947580,
-    "timestamp_local": 1778947580
   }
 ]
