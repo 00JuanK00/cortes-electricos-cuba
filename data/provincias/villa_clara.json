@@ -1,5 +1,37 @@
 [
   {
+    "id": 46741,
+    "fecha": "16 de May del 2026 a las 12:15 PM",
+    "hora_utc": "2026-05-16 16:15",
+    "mensaje": "⚠️Afectado el servicio eléctrico en el siguiente circuito:\n🔹Municipio Santa Clara:\n👉Cto 144 (Libertad-Camacho)",
+    "timestamp": 1778948144,
+    "timestamp_local": 1778948144
+  },
+  {
+    "id": 46740,
+    "fecha": "16 de May del 2026 a las 12:13 PM",
+    "hora_utc": "2026-05-16 16:13",
+    "mensaje": "🕛Actualización del servicio eléctrico.\n✍️El déficit de capacidad de generación en estos momentos es de 126 MW\n✍️En el momento de esta nota, se mantienen afectad 124 circuitos.\n✍️ Cuenta con 195 afectaciones por averías secundarias y de servicio:\n🔸 Caibarién (6)\n🔸Camajuaní (4)\n🔸 Corralillo (14)\n🔸 Encrucijada (6)\n🔸 Manicaragua (11)\n🔸 Placetas (9)\n🔸 Quemado (1)\n🔸 Ranchuelo (7)\n🔸 Remedios (10) \n🔸 Sagua (10) \n🔸 Santa Clara (65)\n🔸 Santo Domingo (19)\n🛠️Se encuentran 19 averías en vías de solución.\n🛠️Pendientes a solucionar por el área técnica 17.\n⚡Averías⚡\n👉Afectado  parcial por avería el Cto 164 , perteneciente al municipio Quemado , quedando afectado el ramal a Riquelme, brigadas de nuestra empresa se encuentran trabajando en la avería para brindar servicio en el menor tiempo posible.",
+    "timestamp": 1778948031,
+    "timestamp_local": 1778948031
+  },
+  {
+    "id": 46739,
+    "fecha": "16 de May del 2026 a las 12:06 PM",
+    "hora_utc": "2026-05-16 16:06",
+    "mensaje": "⚠️Afectado el servicio eléctrico en los siguientes circuitos:\n🔹Municipio Santo Domingo:\n👉Cto 134\n👉Ctos 87 y 96 Bermejal\n👉Cto 187 Batey Carlos Baliño\n👉Cto 82 Ulacia\n👉Cto 84 Rodrigo",
+    "timestamp": 1778947580,
+    "timestamp_local": 1778947580
+  },
+  {
+    "id": 46738,
+    "fecha": "16 de May del 2026 a las 11:53 AM",
+    "hora_utc": "2026-05-16 15:53",
+    "mensaje": "⚠️Afectado el servicio eléctrico en los siguientes circuitos:\n🔹Municipio Santa Clara:\n👉Cto 30 y 193 Santa Clara Industrial",
+    "timestamp": 1778946815,
+    "timestamp_local": 1778946815
+  },
+  {
     "id": 46737,
     "fecha": "16 de May del 2026 a las 11:31 AM",
     "hora_utc": "2026-05-16 15:31",
@@ -126,37 +158,5 @@
     "mensaje": "Actualización del servicio eléctrico en la provincia.\n👉En este momento la afectación por déficit de capacidad de generación es de 122 MW, demanda máxima posible a apagar en estos momentos.\n👉De los circuitos apagables se mantienen afectados 139.\n👉Cuenta con 148 afectaciones por averías secundarias y de servicio.",
     "timestamp": 1778934843,
     "timestamp_local": 1778934843
-  },
-  {
-    "id": 46721,
-    "fecha": "16 de May del 2026 a las 08:32 AM",
-    "hora_utc": "2026-05-16 12:32",
-    "mensaje": "Afectados 122 MW en la provincia, demanda máxima a apagar en estos momentos.",
-    "timestamp": 1778934772,
-    "timestamp_local": 1778934772
-  },
-  {
-    "id": 46720,
-    "fecha": "16 de May del 2026 a las 07:50 AM",
-    "hora_utc": "2026-05-16 11:50",
-    "mensaje": "🚨Nota informativa🚨 \n\n📆Situación del SEN para el 16 de mayo de 2026.\n\n\n👉En el día de ayer se afectó el servicio por déficit de capacidad durante las 24 horas y se mantuvo la afectación durante todo el horario de la madrugada. La máxima afectación por déficit de capacidad de generación en el día de ayer fue de 1807 MW a las 22:00 horas. Superior al pronóstico por la no entrada de la unidad 3 de la CTE Rente e incremento de la demanda.\n\n🌞La producción de energía de los 54 nuevos parques solares fotovoltaicos fue de 2440 MWh, con 328 MW como máxima potencia entregada en el horario de la media con esta fuente de generación.  \n\n👉La disponibilidad del SEN a las 06:00 horas es de 1475 MW, la demanda 2800 MW con 1355 MW afectados. En el horario de la media se estima una afectación de 1350 MW.  \n\n🛠️Se encuentran en avería la unidad de la CTE Antonio Guiteras, las unidades 1 y 2 de la CTE Habana, la unidad 2 de la CTE Felton y la unidad 5 de la CTE Renté. Se encuentran en mantenimiento la unidad 5 de la CTE Mariel, la unidad 5 de la CTE Nuevitas y la unidad 6 de la CTE Renté.\n\n👉Las limitaciones en la generación térmica son de 397 MW.\n\n\n📈Se estima que para el horario de máxima demanda una disponibilidad de 1475 MW con una demanda máxima de 3300 MW, para un déficit de 1825 MW, por lo que de mantenerse las condiciones previstas se pronostica una afectación de 1855 MW en este horario.\n\nUNE-MINEM---07:00 horas.",
-    "timestamp": 1778932233,
-    "timestamp_local": 1778932233
-  },
-  {
-    "id": 46719,
-    "fecha": "16 de May del 2026 a las 07:28 AM",
-    "hora_utc": "2026-05-16 11:28",
-    "mensaje": "⚠️Se encuentra disparado el Cto 6 Vigía, perteneciente al municipio Santa Clara, se estudian las causas.",
-    "timestamp": 1778930935,
-    "timestamp_local": 1778930935
-  },
-  {
-    "id": 46718,
-    "fecha": "16 de May del 2026 a las 07:08 AM",
-    "hora_utc": "2026-05-16 11:08",
-    "mensaje": "Afectados 123 MW en la provincia, demanda máxima a apagar en estos momentos.",
-    "timestamp": 1778929721,
-    "timestamp_local": 1778929721
   }
 ]
