@@ -1,5 +1,37 @@
 [
   {
+    "id": 46779,
+    "fecha": "17 de May del 2026 a las 12:39 AM",
+    "hora_utc": "2026-05-17 04:39",
+    "mensaje": "🕕Actualización del servicio eléctrico.\n✍️El déficit de capacidad de generación en estos momentos es de 125 MW\n✍️En el momento de esta nota, se mantienen afectad 141circuitos.\n✍️ Cuenta con 155 afectaciones por averías secundarias y de servicio:\n🔸 Caibarién (3)\n🔸 Camajuaní (1)\n🔸 Cifuentes (4)\n🔸 Corralillo (6)\n🔸 Encrucijada (1)\n🔸 Manicaragua (12)\n🔸 Placetas (5)\n🔸 Quemado (1)\n🔸 Ranchuelo (3)\n🔸 Remedios (10) \n🔸 Sagua (8) \n🔸 Santa Clara (69)\n🔸 Santo Domingo (12)\n🛠️Se encuentran 8 averías en vías de solución.\n🛠️Pendientes a solucionar por el área técnica 12.\n⚡Averías⚡\n🛠️Afectado parcial el Cto 71(Buena Vista) perteneciente al Municipio Remedios.",
+    "timestamp": 1778992774,
+    "timestamp_local": 1778992774
+  },
+  {
+    "id": 46778,
+    "fecha": "16 de May del 2026 a las 11:39 PM",
+    "hora_utc": "2026-05-17 03:39",
+    "mensaje": "💡Con servicio eléctrico el Cto 144(Camacho), perteneciente al Municipio Santa Clara",
+    "timestamp": 1778989145,
+    "timestamp_local": 1778989145
+  },
+  {
+    "id": 46777,
+    "fecha": "16 de May del 2026 a las 11:32 PM",
+    "hora_utc": "2026-05-17 03:32",
+    "mensaje": "🛠️Afectado por manipulación Cto 144 (Camacho), para reponer transformador esquelético.",
+    "timestamp": 1778988724,
+    "timestamp_local": 1778988724
+  },
+  {
+    "id": 46776,
+    "fecha": "16 de May del 2026 a las 10:15 PM",
+    "hora_utc": "2026-05-17 02:15",
+    "mensaje": "Actualización del servicio eléctrico en la provincia.\n👉En este momento la afectación por déficit de capacidad de generación es de 138 MW, demanda máxima posible a apagar en estos momentos.\n👉De los circuitos apagables se mantienen afectados 140.\n👉Cuenta con 144 afectaciones por averías secundarias y de servicio",
+    "timestamp": 1778984159,
+    "timestamp_local": 1778984159
+  },
+  {
     "id": 46774,
     "fecha": "16 de May del 2026 a las 09:17 PM",
     "hora_utc": "2026-05-17 01:17",
@@ -126,37 +158,5 @@
     "mensaje": "⚠️Afectado el servicio eléctrico en los siguientes circuitos:\n🔹Municipio Santo Domingo:\n👉Cto 195 Batey George Washington\n👉Ctos 83 y 165 Manacas\n👉Ctos 85 y 86 Pajarito\n👉Ctos 160 y 161 Cascajal\n👉Cto 79 Santo Domingo\n👉Cto 81 26 de Julio\n👉Cto 163 Batey 26 de Julio\n🔹Municipio Ranchuelo:\n👉Ctos 54, 94 y 95 Jicotea\n👉Cto 93 Esperanza (Campo)",
     "timestamp": 1778963313,
     "timestamp_local": 1778963313
-  },
-  {
-    "id": 46758,
-    "fecha": "16 de May del 2026 a las 04:25 PM",
-    "hora_utc": "2026-05-16 20:25",
-    "mensaje": "⚠️Afectado el servicio eléctrico en los siguientes circuitos:\n🔹Municipio Santa Clara:\n👉Ctos  2 Consejo- Centro\n👉Cto 5 Dobarganes\n👉Cto 17 Subplanta\n👉Ctos 37 y 38 Yabú \n👉Cto 9 Moldes y Troqueles\n👉Cto 133 Taller Cafetera\n🔹Municipio Encrucijada:\n👉Cto 122 Encrucijada  \n👉Cto 123 Vizcaya \n👉Cto 142 Comunidad La Sierra \n👉Cto 126 Batey Emilio Córdova\n👉Cto 125 Cavarrocas\n👉Cto 124 El Santo\n🔹Municipio Camajuaní:                                                              \n👉Cto 78 Jutiero\n👉Cto 75 La Quinta\n👉Cto 157 Luis Arcos Bergnes\n👉Ctos 76 y 90 Vega Alta",
-    "timestamp": 1778963108,
-    "timestamp_local": 1778963108
-  },
-  {
-    "id": 46757,
-    "fecha": "16 de May del 2026 a las 04:07 PM",
-    "hora_utc": "2026-05-16 20:07",
-    "mensaje": "Actualización del servicio eléctrico en la provincia.\n👉En este momento la afectación por déficit de capacidad de generación es de 110 MW, demanda máxima posible a apagar en estos momentos.\n👉De los circuitos apagables se mantienen afectados 113.\n👉Cuenta con 156 afectaciones por averías secundarias y de servicio.",
-    "timestamp": 1778962020,
-    "timestamp_local": 1778962020
-  },
-  {
-    "id": 46756,
-    "fecha": "16 de May del 2026 a las 04:05 PM",
-    "hora_utc": "2026-05-16 20:05",
-    "mensaje": "➡️Los disparos de circuito tienen diferentes aristas todas con distintos significados, es decir que ocurren por varias causas. Entre ellas encontramos:\n\n👉-Disparo de Circuito con Recierre: El conocido por los clientes como “quita y pon de corriente” es un tipo de protección utilizada mundialmente a partir del 80% aproximadamente de las interrupciones eléctricas son transitorias. Este fenómeno lo hace una sola vez ante un evento de red y no es dañino para para nuestros equipos electrodomésticos.\n\n👉- Disparo Automático por Frecuencia (DAF): El disparo por DAF ocurre cuando la frecuencia llega a valores mínimos permisibles que ponen en peligro la estabilidad del mismo y como protección desconecta varios circuitos de la Capital. Los mismo restablecen a medida que se vaya recuperando la frecuencia que tiene un valor de 60hz o ciclos por segundo.\n\n👉-Disparo de Circuito por Sobrecarga: Este ocurre mayormente en los horarios pico y en verano, ya que las altas temperaturas generan elevados consumos en la población y como consecuencia de ello fallas en los circuitos.\n\n👉-Disparo de Circuito por Posible Avería: Este fenómeno ocurre cuando existe una falla en algún circuito, ya sea soterrado, aéreo o en una subestación. Estas, a pesar de que son mucho más frecuentes cuando existe algún evento climatológico, pueden ocurrir en cualquier momento del día o la noche, ya que son situaciones que no cuentan con programación.",
-    "timestamp": 1778961950,
-    "timestamp_local": 1778961950
-  },
-  {
-    "id": 46755,
-    "fecha": "16 de May del 2026 a las 02:54 PM",
-    "hora_utc": "2026-05-16 18:54",
-    "mensaje": "⚠️Afectado el servicio eléctrico en los siguientes circuitos:\n🔹Municipio Ranchuelo: \n👉Ctos 89, 97, 188 y 189\n👉Ctos 148 y 149 San Juan\n👉Cto 91 Batey Osvaldo Herrera\n👉Cto 181 Batey Ifraín Alfonso\n👉Cto 92 Esperanza (Pueblo)",
-    "timestamp": 1778957679,
-    "timestamp_local": 1778957679
   }
 ]
