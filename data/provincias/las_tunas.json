@@ -1,5 +1,13 @@
 [
   {
+    "id": 19077,
+    "fecha": "17 de May del 2026 a las 05:08 AM",
+    "hora_utc": "2026-05-17 09:08",
+    "mensaje": "📲Centro Telefónico:\nLa Empresa Eléctrica Las Tunas pone a disposición de sus clientes un Centro de Atención Telefónica con el objetivo de brindar asistencia y responder a sus inquietudes. Para asegurar un flujo eficiente de comunicación, el centro cuenta con 38 líneas de entrada, gestionadas por 6 operadores en cada turno de trabajo.\nCuando los 6 operadores se encuentran atendiendo llamadas simultáneamente, las siguientes 32 llamadas entrantes son colocadas en una cola de espera, donde una operadora automática les informa que serán atendidas a la brevedad, acompañando la espera con música. En esta situación, se requiere paciencia por parte del cliente hasta que un operador se desocupe y su llamada sea transferida automáticamente. Sin embargo, el sistema tiene un límite. A partir de la llamada número 39, todas las líneas de entrada estarán ocupadas, lo que resultará en una señal de \"ocupado\" para el cliente. En este caso, para lograr contactar al centro, el cliente deberá intentar la llamada nuevamente hasta que una línea quede disponible. La Empresa Eléctrica Las Tunas trabaja continuamente para optimizar este servicio y agradece su comprensión.",
+    "timestamp": 1779008906,
+    "timestamp_local": 1779008906
+  },
+  {
     "id": 19076,
     "fecha": "16 de May del 2026 a las 11:09 PM",
     "hora_utc": "2026-05-17 03:09",
@@ -126,13 +134,5 @@
     "mensaje": "Queda solucionada la Avería del 6230 a las 10:44 a.m",
     "timestamp": 1778857027,
     "timestamp_local": 1778857027
-  },
-  {
-    "id": 19055,
-    "fecha": "15 de May del 2026 a las 10:42 AM",
-    "hora_utc": "2026-05-15 14:42",
-    "mensaje": "**Nota Informativa: Estado del Sistema Eléctrico Nacional (SEN) – **15 **de mayo de **2026\nEn el día de ayer se afectó el servicio por déficit de capacidad durante las 24 horas y se mantuvo la afectación durante todo el horario de la madrugada. La máxima afectación por déficit de capacidad de generación en el día de ayer fue de 1991 MW a las 21:20 horas.\nLa producción de energía de los 54 nuevos parques solares fotovoltaicos fue de 2112 MWh, con 200 MW como máxima potencia entregada en el horario de la media con esta fuente de generación.\nEstado actual del SEN\nDurante la madrugada de hoy se continuo el proceso de restablecimiento del SEN, quedando interconectado desde Pinar del Río hasta Holguín, las provincias de Santiago de Cuba, Granma y Guantánamo se encuentran trabajando con microsistemas aislados, se estima su interconexión al SEN con la entrada de la unidad 1 de la CTE Felton.\nLa disponibilidad del SEN a las 06:30 horas es de 1241 MW, la demanda 2800 MW con 1565 MW afectados, para el horario de la media se estima una afectación de 1350 MW.\nPrincipales incidencias\nAvería: Unidad 6 de la CTE Máximo Gómez, Unidad 1 de la CTE Ernesto Guevara De La Serna, Unidad 2 de la CTE Lidio Ramón Pérez y la Unidad 5 de la CTE Antonio Maceo.\nMantenimiento: Unidad 1 de la CTE Lidio Ramón Pérez, Unidad 5 de la CTE Mariel, Unidad 6 de la CTE Renté, Unidad 5 de la CTE Nuevitas.\nSe encuentra fuera de servicio la unidad 3 de la CTE Renté por la desconexión parcial del SEN.\nLimitaciones en la generación térmica: 246 MW fuera de servicio.\nPronóstico para el horario pico\nPara el pico se prevé la entrada la unidad 6 de la CTE Mariel con 70 MW, la entrada de la unidad 1 de la CTE Felton (en proceso de arranque), la unidad 3 de la CTE Renté con 50 MW y la entrada de 6 motores del emplazamiento de Moa fuel con 90 M.\nCon este pronóstico se estima para el horario de máxima demanda una disponibilidad de 1601 MW con una demanda máxima de 3220 MW, para un déficit de 1619 MW, por lo que de mantenerse las condiciones previstas se pronostica una afectación de 1639 MW en este horario.",
-    "timestamp": 1778856121,
-    "timestamp_local": 1778856121
   }
 ]
