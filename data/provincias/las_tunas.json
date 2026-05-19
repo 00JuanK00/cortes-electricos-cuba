@@ -1,5 +1,53 @@
 [
   {
+    "id": 19121,
+    "fecha": "19 de May del 2026 a las 10:09 AM",
+    "hora_utc": "2026-05-19 14:09",
+    "mensaje": "La Empresa Eléctrica Las Tunas informa que, según la nota emitida por la Unión Eléctrica para el 19 de mayo, en el día de ayer se afectó el servicio por déficit de capacidad durante las 24 horas y se mantuvo la afectación durante todo el horario de la madrugada. En nuestra provincia se afectaron la totalidad de los circuitos apagables, con una máxima afectación de 74.5 MW.\nActualmente están fuera de servicio por avería la Unidad 1 de la CTE Ernesto Guevara De La Serna, Unidad 4 de la CTE Carlos Manuel de Céspedes, Unidad 2 de la CTE Lidio Ramón Pérez y las Unidades 3 y 5 de la CTE Antonio Maceo. En mantenimiento se encuentran la Unidad 5 de la CTE Mariel, Unidad 6 de la CTE Renté, Unidad 5 de la CTE Nuevitas.\nEn el horario de la media se estima un déficit en el país de 1350 MW, lo cual representa para nuestra provincia la totalidad de los circuitos apagables.\nEn el horario pico nocturno se prevén 1875 MW de afectación, en Las Tunas puede extenderse igualmente a todos los circuitos apagables, debido al alto déficit de capacidad de generación existente.\nEstos valores pueden variar según la demanda nacional.",
+    "timestamp": 1779199798,
+    "timestamp_local": 1779199798
+  },
+  {
+    "id": 19120,
+    "fecha": "19 de May del 2026 a las 09:59 AM",
+    "hora_utc": "2026-05-19 13:59",
+    "mensaje": "Qué es un disparo por DAF?\nEl Disparo por Frecuencia (DAF) es un mecanismo de protección del sistema eléctrico. Se activa automáticamente cuando la frecuencia desciende por debajo de los valores mínimos seguros (menores de 60 Hz), lo que pone en riesgo la estabilidad del sistema.\nEn ese momento, algunos circuitos se desconectan de forma automática para aliviar la carga y permitir que la frecuencia vuelva a su valor nominal.\nEsto suele ocurrir cuando una planta generadora sale de servicio de manera imprevista, provocando un déficit de generación. El DAF ayuda a evitar un colapso mayor del sistema, aunque puede generar afectaciones al servicio como apagones parciales.",
+    "timestamp": 1779199148,
+    "timestamp_local": 1779199148
+  },
+  {
+    "id": 19119,
+    "fecha": "19 de May del 2026 a las 09:49 AM",
+    "hora_utc": "2026-05-19 13:49",
+    "mensaje": "Se afecta el servicio eléctrico al circuito (6230-Menéndez) que se encuentra disparado  por disparo automático (DAF)",
+    "timestamp": 1779198545,
+    "timestamp_local": 1779198545
+  },
+  {
+    "id": 19118,
+    "fecha": "19 de May del 2026 a las 09:31 AM",
+    "hora_utc": "2026-05-19 13:31",
+    "mensaje": "🔊Se les informa a los clientes de los siguientes circuitos que aún se mantienen en avería. Se trabaja para restablecer en el menor tiempo posible.\nTK111 Ramírez\nTK19 San Antonio, Km 7",
+    "timestamp": 1779197470,
+    "timestamp_local": 1779197470
+  },
+  {
+    "id": 19117,
+    "fecha": "19 de May del 2026 a las 08:50 AM",
+    "hora_utc": "2026-05-19 12:50",
+    "mensaje": "✅Queda con servicio (TK25) la comunidad de Las Peloncitas y La Lomita que se encontraban afectados por avería.",
+    "timestamp": 1779195030,
+    "timestamp_local": 1779195030
+  },
+  {
+    "id": 19116,
+    "fecha": "19 de May del 2026 a las 08:14 AM",
+    "hora_utc": "2026-05-19 12:14",
+    "mensaje": "**Nota Informativa: Estado del Sistema Eléctrico Nacional (SEN) – **19 **de mayo de **2026\nEn el día de ayer se afectó el servicio por déficit de capacidad durante las 24 horas y se mantuvo la afectación durante todo el horario de la madrugada. La máxima afectación por déficit de capacidad de generación en el día de ayer fue de 2079 MW a las 21:40 horas.\nLa producción de energía de los 54 nuevos parques solares fotovoltaicos fue de 3138 MWh, con 482 MW como máxima potencia entregada en el horario de la media con esta fuente de generación.\nEstado actual del SEN\nLa disponibilidad del SEN a las 06:00 horas es de 1150 MW, la demanda 2700 MW con 1550 MW afectados. En el horario de la media se estima una afectación de 1350 MW.\nPrincipales incidencias\nAvería: Unidad 1 de la CTE Ernesto Guevara De La Serna, Unidad 4 de la CTE Carlos Manuel de Céspedes, Unidad 2 de la CTE Lidio Ramón Pérez y las Unidades 3 y 5 de la CTE Antonio Maceo.\nMantenimiento: Unidad 5 de la CTE Mariel, Unidad 6 de la CTE Renté, Unidad 5 de la CTE Nuevitas.\nLimitaciones en la generación térmica: 405 MW fuera de servicio.\nPronóstico para el horario pico\nPara el horario pico se estima la entrada de la unidad 1 de la CTE Santa Cruz con 60 MW (en proceso de arranque) y la unidad 4 de la CTE Cienfuegos con 145 MW.\nCon este pronóstico se estima que para el horario de máxima demanda una disponibilidad de 1355 MW con una demanda máxima de 3200 MW, para un déficit de 1845 MW, por lo que de mantenerse las condiciones previstas se pronostica una afectación de 1875 MW en este horario.",
+    "timestamp": 1779192865,
+    "timestamp_local": 1779192865
+  },
+  {
     "id": 19115,
     "fecha": "18 de May del 2026 a las 09:51 PM",
     "hora_utc": "2026-05-19 01:51",
@@ -62,45 +110,5 @@
     "mensaje": "👉Trabajos Operativos \n\n⚙️Garantizar los trabajos de mantenimiento en vías libres, o sea, realizar labores con la línea fría.\n\n🛠Ante avería, aislar la zona afectada y manipular el circuito para dar servicio a la zona que no está dentro del radio de la avería.\n\n⚡️Corregir y mantener la estabilidad del sistema ante desviaciones o algún punto de las redes.",
     "timestamp": 1779128175,
     "timestamp_local": 1779128175
-  },
-  {
-    "id": 19101,
-    "fecha": "18 de May del 2026 a las 01:22 PM",
-    "hora_utc": "2026-05-18 17:22",
-    "mensaje": "📣**Nota a los Clientes** 📣\n\nEstimados clientes, en días de muchas afectaciones al servicio eléctrico, el centro de atención telefónica ☎️ colapsa por la cantidad de llamadas📞que se reciben al mismo tiempo 🕰️para solicitar información o reportar una interrupción.\n\n👉Cuando esto sucede da timbre y no sale la contestadora porque la línea se encuentra ocupada.\n\n👉La pizarra es un sistema automático que no permite a la ejecutiva no responder las llamadas o colgar, mientras la línea esté ocupada no entran las llamadas.\n\n**👉Este sistema automatizado además de brindar toda la información estadística utilizada por nuestras operadoras, permite grabar todas las llamadas que se reciben en el 1️⃣8️⃣8️⃣8️⃣8️⃣.**",
-    "timestamp": 1779124955,
-    "timestamp_local": 1779124955
-  },
-  {
-    "id": 19100,
-    "fecha": "18 de May del 2026 a las 01:19 PM",
-    "hora_utc": "2026-05-18 17:19",
-    "mensaje": "En la jornada de ayer domingo se afectó el servicio por déficit de capacidad durante las 24 horas y se mantuvo la afectación durante todo el horario de la madrugada.                                                        \n\nLa máxima afectación por déficit de capacidad de generación en el día de ayer fue de 2119 MW a las 22:00 horas, **superior a lo planificado por la no entrada de la unidad de la CTE Guiteras y la unidad 2 de la CTE Santa Cruz.** La producción de energía de los 54 nuevos parques solares fotovoltaicos fue de 3365 MWh, **con 501 MW como máxima potencia entregada en el horario de la media con esta fuente de generación.                                               **\n\nEn cuanto al estado actual del SEN, la disponibilidad a las 06:00 horas es de 1150 MW, la demanda es de 2720 MW con 1520 MW afectados. En el horario de la media se estima una afectación de 1450 MW.                                                                                                                                                             Las principales incidencias incluyen averías en la Unidad 1 de la CTE Ernesto Guevara De La Serna, la Unidad 2 de la CTE Lidio Ramón Pérez y las Unidades 3 y 5 de la CTE Antonio Maceo. Se encuentran en mantenimiento la Unidad 5 de la CTE Mariel, la Unidad 6 de la CTE Renté y la Unidad 5 de la CTE Nuevitas. Las limitaciones en la generación térmica suman 516 MW fuera de servicio.                                                                                                                                                                                        Para el horario pico, se estima que para el horario de máxima demanda una disponibilidad de 1150 MW con una demanda máxima de 3200 MW, para un déficit de 2050 MW, **por lo que de mantenerse las condiciones previstas se pronostica una afectación de 2080 MW en este horario.\n\n información de UN**E-MINEM",
-    "timestamp": 1779124779,
-    "timestamp_local": 1779124779
-  },
-  {
-    "id": 19098,
-    "fecha": "18 de May del 2026 a las 12:40 PM",
-    "hora_utc": "2026-05-18 16:40",
-    "mensaje": "📌 Estimados clientes 📌\n\n☀️⚡️| Cuidado de los Paneles Fotovoltaicos.\n\nLos paneles solares están formados principalmente por celdas fotovoltaicas de silicio (que convierten la luz en electricidad), protegidas por una capa de vidrio templado en la parte superior. \n\nIncluyen un marco de aluminio que les da resistencia, materiales encapsulantes como el EVA que protegen las celdas internamente, y una lámina trasera que los aísla de la humedad y las condiciones ambientales.\n\n📌 Para mantener su eficiencia, es importante limpiarlos cada 2–3 meses, especialmente en zonas con polvo o salitre. Se recomienda usar agua limpia y un paño suave o esponja, evitando productos químicos agresivos y cepillos duros. \n\n📌 Lo ideal es limpiarlos temprano en la mañana o al atardecer, cuando no estén calientes, y no depender solo de la lluvia, ya que puede dejar residuos.",
-    "timestamp": 1779122447,
-    "timestamp_local": 1779122447
-  },
-  {
-    "id": 19097,
-    "fecha": "18 de May del 2026 a las 11:55 AM",
-    "hora_utc": "2026-05-18 15:55",
-    "mensaje": "Les informaremos oportunamente cuando se restablezca el servicio en el Centro de Atención Telefónica",
-    "timestamp": 1779119709,
-    "timestamp_local": 1779119709
-  },
-  {
-    "id": 19096,
-    "fecha": "18 de May del 2026 a las 08:59 AM",
-    "hora_utc": "2026-05-18 12:59",
-    "mensaje": "🚨Información🚨                                                                             Se le comunica a la población que el centro telefónico se encuentra sin comunicación por problemas con el servidor.                                           👉Ofrecemos disculpas por las molestias ocasionadas.",
-    "timestamp": 1779109156,
-    "timestamp_local": 1779109156
   }
 ]
