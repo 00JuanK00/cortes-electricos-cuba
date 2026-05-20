@@ -1,5 +1,21 @@
 [
   {
+    "id": 19141,
+    "fecha": "20 de May del 2026 a las 09:42 AM",
+    "hora_utc": "2026-05-20 13:42",
+    "mensaje": "La Empresa Eléctrica Las Tunas informa que, según la nota emitida por la Unión Eléctrica para el 20 de mayo, en el día de ayer se afectó el servicio por déficit de capacidad durante las 24 horas y se mantuvo la afectación durante todo el horario de la madrugada. En nuestra provincia se afectaron la totalidad de los circuitos apagables, con una máxima afectación de 85.35 MW.\nActualmente están fuera de servicio por avería la Unidad 1 de la CTE Ernesto Guevara De La Serna, Unidad 2 de la CTE Lidio Ramón Pérez y las Unidades 3 y 5 de la CTE Antonio Maceo. En mantenimiento se encuentran la Unidad 5 de la CTE Mariel, Unidad 6 de la CTE Renté, Unidad 5 de la CTE Nuevitas.\nEn el horario de la media se estima un déficit en el país de 1350 MW, lo cual representa para nuestra provincia la totalidad de los circuitos apagables.\nEn el horario pico nocturno se prevén 1980 MW de afectación, en Las Tunas puede extenderse igualmente a todos los circuitos apagables, debido al alto déficit de capacidad de generación existente.\nEstos valores pueden variar según la demanda nacional.",
+    "timestamp": 1779284552,
+    "timestamp_local": 1779284552
+  },
+  {
+    "id": 19140,
+    "fecha": "20 de May del 2026 a las 08:24 AM",
+    "hora_utc": "2026-05-20 12:24",
+    "mensaje": "Nota Informativa: Estado del Sistema Eléctrico Nacional (SEN) – 20 de mayo de 2026\n\nEn el día de ayer se afectó el servicio por déficit de capacidad durante las 24 horas y se mantuvo la afectación durante todo el horario de la madrugada. La máxima afectación por déficit de capacidad de generación en el día de ayer fue de 1965 MW a las 21:50 horas.\n\nLa producción de energía de los 54 nuevos parques solares fotovoltaicos fue de 3222 MWh, con 432 MW como máxima potencia entregada en el horario de la media con esta fuente de generación.\nEstado actual del SEN\n\nLa disponibilidad del SEN a las 06:00 horas es de 1300 MW, la demanda 2780 MW con 1474 MW afectados. En el horario de la media se estima una afectación de 1350 MW.\nPrincipales incidencias\n\n    Avería: Unidad 1 de la CTE Ernesto Guevara De La Serna, Unidad 2 de la CTE Lidio Ramón Pérez y las Unidades 3 y 5 de la CTE Antonio Maceo.\n    Mantenimiento: Unidad 5 de la CTE Mariel, Unidad 6 de la CTE Renté, Unidad 5 de la CTE Nuevitas.\n    Limitaciones en la generación térmica: 418 MW fuera de servicio.\n\nPronóstico para el horario pico\n\nPara el horario de máxima demanda se estima una disponibilidad de 1300 MW con una demanda máxima de 3250 MW, para un déficit de 1950 MW, por lo que de mantenerse las condiciones previstas se pronostica una afectación de 1980 MW en este horario.",
+    "timestamp": 1779279844,
+    "timestamp_local": 1779279844
+  },
+  {
     "id": 19137,
     "fecha": "19 de May del 2026 a las 10:50 PM",
     "hora_utc": "2026-05-20 02:50",
@@ -86,21 +102,5 @@
     "mensaje": "✅Se restablece el servicio eléctrico al circuito 33Kv 6230 Menéndez que se encontraba afectado por disparo automático por frecuencia (DAF)",
     "timestamp": 1779201190,
     "timestamp_local": 1779201190
-  },
-  {
-    "id": 19121,
-    "fecha": "19 de May del 2026 a las 10:09 AM",
-    "hora_utc": "2026-05-19 14:09",
-    "mensaje": "La Empresa Eléctrica Las Tunas informa que, según la nota emitida por la Unión Eléctrica para el 19 de mayo, en el día de ayer se afectó el servicio por déficit de capacidad durante las 24 horas y se mantuvo la afectación durante todo el horario de la madrugada. En nuestra provincia se afectaron la totalidad de los circuitos apagables, con una máxima afectación de 74.5 MW.\nActualmente están fuera de servicio por avería la Unidad 1 de la CTE Ernesto Guevara De La Serna, Unidad 4 de la CTE Carlos Manuel de Céspedes, Unidad 2 de la CTE Lidio Ramón Pérez y las Unidades 3 y 5 de la CTE Antonio Maceo. En mantenimiento se encuentran la Unidad 5 de la CTE Mariel, Unidad 6 de la CTE Renté, Unidad 5 de la CTE Nuevitas.\nEn el horario de la media se estima un déficit en el país de 1350 MW, lo cual representa para nuestra provincia la totalidad de los circuitos apagables.\nEn el horario pico nocturno se prevén 1875 MW de afectación, en Las Tunas puede extenderse igualmente a todos los circuitos apagables, debido al alto déficit de capacidad de generación existente.\nEstos valores pueden variar según la demanda nacional.",
-    "timestamp": 1779199798,
-    "timestamp_local": 1779199798
-  },
-  {
-    "id": 19120,
-    "fecha": "19 de May del 2026 a las 09:59 AM",
-    "hora_utc": "2026-05-19 13:59",
-    "mensaje": "Qué es un disparo por DAF?\nEl Disparo por Frecuencia (DAF) es un mecanismo de protección del sistema eléctrico. Se activa automáticamente cuando la frecuencia desciende por debajo de los valores mínimos seguros (menores de 60 Hz), lo que pone en riesgo la estabilidad del sistema.\nEn ese momento, algunos circuitos se desconectan de forma automática para aliviar la carga y permitir que la frecuencia vuelva a su valor nominal.\nEsto suele ocurrir cuando una planta generadora sale de servicio de manera imprevista, provocando un déficit de generación. El DAF ayuda a evitar un colapso mayor del sistema, aunque puede generar afectaciones al servicio como apagones parciales.",
-    "timestamp": 1779199148,
-    "timestamp_local": 1779199148
   }
 ]
