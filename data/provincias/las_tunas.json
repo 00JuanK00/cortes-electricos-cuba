@@ -1,5 +1,13 @@
 [
   {
+    "id": 19137,
+    "fecha": "19 de May del 2026 a las 10:50 PM",
+    "hora_utc": "2026-05-20 02:50",
+    "mensaje": "Se encuentran disparados por DAF los siguientes circuitos:                                                                                                                    Circuito 33 Kv: 6470-6300\nTK13 Yariguá\nTJ11 Bartle\nTK91 Macagua\nTK87 Pueblo Jobabo\nTK90 Escuela Especial Jobabo\n6470 Mina de Oro, Las Margaritas                                                                                     TK2 Bonachea",
+    "timestamp": 1779245408,
+    "timestamp_local": 1779245408
+  },
+  {
     "id": 19135,
     "fecha": "19 de May del 2026 a las 09:07 PM",
     "hora_utc": "2026-05-20 01:07",
@@ -94,37 +102,5 @@
     "mensaje": "Qué es un disparo por DAF?\nEl Disparo por Frecuencia (DAF) es un mecanismo de protección del sistema eléctrico. Se activa automáticamente cuando la frecuencia desciende por debajo de los valores mínimos seguros (menores de 60 Hz), lo que pone en riesgo la estabilidad del sistema.\nEn ese momento, algunos circuitos se desconectan de forma automática para aliviar la carga y permitir que la frecuencia vuelva a su valor nominal.\nEsto suele ocurrir cuando una planta generadora sale de servicio de manera imprevista, provocando un déficit de generación. El DAF ayuda a evitar un colapso mayor del sistema, aunque puede generar afectaciones al servicio como apagones parciales.",
     "timestamp": 1779199148,
     "timestamp_local": 1779199148
-  },
-  {
-    "id": 19119,
-    "fecha": "19 de May del 2026 a las 09:49 AM",
-    "hora_utc": "2026-05-19 13:49",
-    "mensaje": "Queda afectado el servicio eléctrico al circuito (33kv 6230-Menéndez)  por disparo automático por frecuencia (DAF)",
-    "timestamp": 1779198545,
-    "timestamp_local": 1779198545
-  },
-  {
-    "id": 19118,
-    "fecha": "19 de May del 2026 a las 09:31 AM",
-    "hora_utc": "2026-05-19 13:31",
-    "mensaje": "🔊Se les informa a los clientes de los siguientes circuitos que aún se mantienen en avería. Se trabaja para restablecer en el menor tiempo posible.\nTK111 Ramírez\nTK19 San Antonio, Km 7",
-    "timestamp": 1779197470,
-    "timestamp_local": 1779197470
-  },
-  {
-    "id": 19117,
-    "fecha": "19 de May del 2026 a las 08:50 AM",
-    "hora_utc": "2026-05-19 12:50",
-    "mensaje": "✅Queda con servicio (TK25) la comunidad de Las Peloncitas y La Lomita que se encontraban afectados por avería.",
-    "timestamp": 1779195030,
-    "timestamp_local": 1779195030
-  },
-  {
-    "id": 19116,
-    "fecha": "19 de May del 2026 a las 08:14 AM",
-    "hora_utc": "2026-05-19 12:14",
-    "mensaje": "**Nota Informativa: Estado del Sistema Eléctrico Nacional (SEN) – **19 **de mayo de **2026\nEn el día de ayer se afectó el servicio por déficit de capacidad durante las 24 horas y se mantuvo la afectación durante todo el horario de la madrugada. La máxima afectación por déficit de capacidad de generación en el día de ayer fue de 2079 MW a las 21:40 horas.\nLa producción de energía de los 54 nuevos parques solares fotovoltaicos fue de 3138 MWh, con 482 MW como máxima potencia entregada en el horario de la media con esta fuente de generación.\nEstado actual del SEN\nLa disponibilidad del SEN a las 06:00 horas es de 1150 MW, la demanda 2700 MW con 1550 MW afectados. En el horario de la media se estima una afectación de 1350 MW.\nPrincipales incidencias\nAvería: Unidad 1 de la CTE Ernesto Guevara De La Serna, Unidad 4 de la CTE Carlos Manuel de Céspedes, Unidad 2 de la CTE Lidio Ramón Pérez y las Unidades 3 y 5 de la CTE Antonio Maceo.\nMantenimiento: Unidad 5 de la CTE Mariel, Unidad 6 de la CTE Renté, Unidad 5 de la CTE Nuevitas.\nLimitaciones en la generación térmica: 405 MW fuera de servicio.\nPronóstico para el horario pico\nPara el horario pico se estima la entrada de la unidad 1 de la CTE Santa Cruz con 60 MW (en proceso de arranque) y la unidad 4 de la CTE Cienfuegos con 145 MW.\nCon este pronóstico se estima que para el horario de máxima demanda una disponibilidad de 1355 MW con una demanda máxima de 3200 MW, para un déficit de 1845 MW, por lo que de mantenerse las condiciones previstas se pronostica una afectación de 1875 MW en este horario.",
-    "timestamp": 1779192865,
-    "timestamp_local": 1779192865
   }
 ]

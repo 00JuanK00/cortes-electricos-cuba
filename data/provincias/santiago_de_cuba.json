@@ -1,5 +1,53 @@
 [
   {
+    "id": 53695,
+    "fecha": "20 de May del 2026 a las 12:23 AM",
+    "hora_utc": "2026-05-20 04:23",
+    "mensaje": "🚨Estimados clientes en estos momentos se encuentra afectados por Déficit de Capacidad de Generación el circuito 8 de Santiago, disculpen por las molestias ocasionadas.",
+    "timestamp": 1779250990,
+    "timestamp_local": 1779250990
+  },
+  {
+    "id": 53694,
+    "fecha": "19 de May del 2026 a las 11:55 PM",
+    "hora_utc": "2026-05-20 03:55",
+    "mensaje": "**Estimados clientes, debido a la compleja situación que presenta el sistema Eléctrico Nacional (SEN) no es posible cumplir con la rotación prevista según la programación diseñada, por lo que se extenderá el horario de afectación del servicio eléctrico, y su restablecimiento dependerá del comportamiento de la demanda y de la disponibilidad del sistema.**",
+    "timestamp": 1779249359,
+    "timestamp_local": 1779249359
+  },
+  {
+    "id": 53693,
+    "fecha": "19 de May del 2026 a las 11:19 PM",
+    "hora_utc": "2026-05-20 03:19",
+    "mensaje": "🚨Estimados clientes en estos momentos se encuentra afectados por Déficit de Capacidad de Generación los circuitos 16 y 23 de Santiago , disculpen por las molestias ocasionadas.",
+    "timestamp": 1779247149,
+    "timestamp_local": 1779247149
+  },
+  {
+    "id": 53692,
+    "fecha": "19 de May del 2026 a las 10:51 PM",
+    "hora_utc": "2026-05-20 02:51",
+    "mensaje": "**Disparo Automático de Frecuencia (DAF):**\n**Ocurre cuando la frecuencia está por debajo de los 60Hz y determinada carga o circuito se desconecta del sistema automáticamente hasta que se estabilice.**",
+    "timestamp": 1779245481,
+    "timestamp_local": 1779245481
+  },
+  {
+    "id": 53691,
+    "fecha": "19 de May del 2026 a las 10:51 PM",
+    "hora_utc": "2026-05-20 02:51",
+    "mensaje": "🚨Estimados clientes se les informa que los circuitos 14 , 17 y 26 de Santiago se encuentran Disparados por DAF , disculpen por las molestias ocasionadas.",
+    "timestamp": 1779245469,
+    "timestamp_local": 1779245469
+  },
+  {
+    "id": 53690,
+    "fecha": "19 de May del 2026 a las 10:34 PM",
+    "hora_utc": "2026-05-20 02:34",
+    "mensaje": "🚨Estimados clientes en estos momentos se encuentra afectados por Déficit de Capacidad de Generación la línea 5330 El Cristo , 5385 San Luis Palma , 5335 Guamá , disculpen por las molestias ocasionadas.",
+    "timestamp": 1779244462,
+    "timestamp_local": 1779244462
+  },
+  {
     "id": 53689,
     "fecha": "19 de May del 2026 a las 09:47 PM",
     "hora_utc": "2026-05-20 01:47",
@@ -94,53 +142,5 @@
     "mensaje": "🚨Estimados clientes en estos momentos se incorpora a la afectación por Déficit  el circuito 8 .",
     "timestamp": 1779215496,
     "timestamp_local": 1779215496
-  },
-  {
-    "id": 53676,
-    "fecha": "19 de May del 2026 a las 02:01 PM",
-    "hora_utc": "2026-05-19 18:01",
-    "mensaje": "🔴**Disparo Automático de Frecuencia (DAF):**\n**Ocurre cuando la frecuencia está por debajo de los 60Hz y determinada carga o circuito se desconecta del sistema automáticamente hasta que se estabilice.**",
-    "timestamp": 1779213679,
-    "timestamp_local": 1779213679
-  },
-  {
-    "id": 53675,
-    "fecha": "19 de May del 2026 a las 02:00 PM",
-    "hora_utc": "2026-05-19 18:00",
-    "mensaje": "🚨Estimados clientes en estos momentos se encuentra Disparado por DAF el circuito 17.",
-    "timestamp": 1779213642,
-    "timestamp_local": 1779213642
-  },
-  {
-    "id": 53674,
-    "fecha": "19 de May del 2026 a las 01:58 PM",
-    "hora_utc": "2026-05-19 17:58",
-    "mensaje": "🚨**Déficit de Capacidad de Generación:**\n**Se produce cuando la demanda del Sistema Eléctrico Nacional,en determinado horario del día supera la generación disponible del país ,provocando la desconexión de los circuitos o líneas que permitan garantizar la frecuencia del SEN.**",
-    "timestamp": 1779213539,
-    "timestamp_local": 1779213539
-  },
-  {
-    "id": 53673,
-    "fecha": "19 de May del 2026 a las 01:58 PM",
-    "hora_utc": "2026-05-19 17:58",
-    "mensaje": "🔴Estimados clientes en estos momentos se encuentran afectados por Déficit los circuitos 14, LI 5975-Baconao, LI 4385-Contramaestre y LI 5390-La Maya.",
-    "timestamp": 1779213518,
-    "timestamp_local": 1779213518
-  },
-  {
-    "id": 53671,
-    "fecha": "19 de May del 2026 a las 01:36 PM",
-    "hora_utc": "2026-05-19 17:36",
-    "mensaje": "📌**Estimados clientes, se les reitera que el comportamiento de las afectaciones eléctricas y el restablecimiento del servicio, estará en dependencia de la situación que presente el Sistema Electroenergético Nacional.**",
-    "timestamp": 1779212188,
-    "timestamp_local": 1779212188
-  },
-  {
-    "id": 53670,
-    "fecha": "19 de May del 2026 a las 12:21 PM",
-    "hora_utc": "2026-05-19 16:21",
-    "mensaje": "🚨Estimados clientes en estos momentos se encuentran afectados por Déficit los circuitos 11, LI 5380-Mella, 16, 2 de Palma y Baire-lll Frente.",
-    "timestamp": 1779207710,
-    "timestamp_local": 1779207710
   }
 ]
