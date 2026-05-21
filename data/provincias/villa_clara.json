@@ -1,5 +1,29 @@
 [
   {
+    "id": 46897,
+    "fecha": "21 de May del 2026 a las 06:29 AM",
+    "hora_utc": "2026-05-21 10:29",
+    "mensaje": "⚠️Afectado el servicio eléctrico en los siguientes circuitos:\n🔹Municipio Santa Clara:\n👉Cto 5 Dobarganes\n👉Cto 17 Subplanta",
+    "timestamp": 1779359385,
+    "timestamp_local": 1779359385
+  },
+  {
+    "id": 46896,
+    "fecha": "21 de May del 2026 a las 06:26 AM",
+    "hora_utc": "2026-05-21 10:26",
+    "mensaje": "🕛Actualización del servicio eléctrico.\n✍️El déficit de capacidad de generación en estos momentos es de 114 MW\n✍️En el momento de esta nota, se mantienen afectados 127 circuitos.\n✍️ Cuenta con 82 afectaciones por averías secundarias y de servicio:\n🔸 Caibarién (3)\n🔸 Camajuaní (1)\n🔸 Manicaragua (2)\n🔸 Placetas (3)\n🔸 Ranchuelo (5)\n🔸 Remedios (12) \n🔸 Sagua (10) \n🔸 Santa Clara (26)\n🔸 Santo Domingo (3)\n🛠️Se encuentran 1 averías en vías de solución.\n🛠️Pendientes a solucionar por el área técnica 16.",
+    "timestamp": 1779359208,
+    "timestamp_local": 1779359208
+  },
+  {
+    "id": 46894,
+    "fecha": "21 de May del 2026 a las 04:55 AM",
+    "hora_utc": "2026-05-21 08:55",
+    "mensaje": "Actualización del servicio eléctrico en la provincia.\n👉En este momento la afectación por déficit de capacidad de generación es de 110 MW, demanda máxima posible a apagar en estos momentos.\n👉De los circuitos apagables se mantienen afectados 127.\n👉Cuenta con 63 afectaciones por averías secundarias y de servicio.",
+    "timestamp": 1779353729,
+    "timestamp_local": 1779353729
+  },
+  {
     "id": 46892,
     "fecha": "21 de May del 2026 a las 01:36 AM",
     "hora_utc": "2026-05-21 05:36",
@@ -102,45 +126,5 @@
     "mensaje": "⚠️Afectado el servicio eléctrico en el siguiente circuito:\n🔹Municipio Santa Clara:\n👉Cto 13 (Zona Industrial)\n👉Cto 6(Vigía)",
     "timestamp": 1779315895,
     "timestamp_local": 1779315895
-  },
-  {
-    "id": 46876,
-    "fecha": "20 de May del 2026 a las 05:12 PM",
-    "hora_utc": "2026-05-20 21:12",
-    "mensaje": "⚠️Afectado el servicio eléctrico en los siguientes circuitos:\n🔹Municipio Camajuaní:\n👉Ctos 73 y 156\n🔹Municipio Placetas:\n👉Cto 107 Baez\n👉Cto 105 Nazareno\n🔹Municipio Santa Clara\n👉Cto 31 Sakenaf \n👉Cto 169 Condado",
-    "timestamp": 1779311567,
-    "timestamp_local": 1779311567
-  },
-  {
-    "id": 46875,
-    "fecha": "20 de May del 2026 a las 04:41 PM",
-    "hora_utc": "2026-05-20 20:41",
-    "mensaje": "⚠️Afectado el servicio eléctrico en los siguientes circuitos:\n🔹Municipio Placetas:\n👉Ctos 101 y 145 Cumbre\n🔹Municipio Santa Clara:\n👉Cto 167 Virginia\n👉Cto 170 José Martí\n👉Cto 171 Los Caneyes",
-    "timestamp": 1779309663,
-    "timestamp_local": 1779309663
-  },
-  {
-    "id": 46874,
-    "fecha": "20 de May del 2026 a las 04:34 PM",
-    "hora_utc": "2026-05-20 20:34",
-    "mensaje": "⚠️Afectado el servicio eléctrico en los siguientes circuitos:\n🔹Municipio Caibarién\n👉Ctos 182 y 183 Van Troy",
-    "timestamp": 1779309259,
-    "timestamp_local": 1779309259
-  },
-  {
-    "id": 46873,
-    "fecha": "20 de May del 2026 a las 04:27 PM",
-    "hora_utc": "2026-05-20 20:27",
-    "mensaje": "⚠️Afectado el servicio eléctrico en los siguientes circuitos:\n🔹Municipio Camajuaní:\n👉Ctos 77, 59 y 185 Vueltas\n🔹Municipio Manicaragua:\n👉Cto 112 Hoyo Manicaragua",
-    "timestamp": 1779308837,
-    "timestamp_local": 1779308837
-  },
-  {
-    "id": 46872,
-    "fecha": "20 de May del 2026 a las 04:23 PM",
-    "hora_utc": "2026-05-20 20:23",
-    "mensaje": "⚠️Afectado el servicio eléctrico en los siguientes circuitos:\n🔹Municipio Santa Clara\n👉Cto 132 Santa Clara Industrial\n👉Cto 162 Santa Clara Industrial\n🔹Municipio Quemado:\n👉 Ctos 164, 52 y 53 Quemado.\n👉 Cto 196 Batey Panchito Gómez Toro",
-    "timestamp": 1779308634,
-    "timestamp_local": 1779308634
   }
 ]
