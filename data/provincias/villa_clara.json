@@ -1,5 +1,21 @@
 [
   {
+    "id": 46881,
+    "fecha": "20 de May del 2026 a las 07:11 PM",
+    "hora_utc": "2026-05-20 23:11",
+    "mensaje": "🛠Afectado por manipulación el Cto 40(Hospital Militar)n perteneciente al Municipio Santa Clara.",
+    "timestamp": 1779318672,
+    "timestamp_local": 1779318672
+  },
+  {
+    "id": 46880,
+    "fecha": "20 de May del 2026 a las 07:07 PM",
+    "hora_utc": "2026-05-20 23:07",
+    "mensaje": "⚠️Afectado el servicio eléctrico en el siguiente circuito:\n🔹Municipio Sagua\n👉Ctos 43, 51 Sagua\n🔹Municipio Placetas\n👉Ctos 98 y 99 Placetas\n🔹Municipio Santa Clara: \n👉Cto 166 Condado",
+    "timestamp": 1779318435,
+    "timestamp_local": 1779318435
+  },
+  {
     "id": 46879,
     "fecha": "20 de May del 2026 a las 06:39 PM",
     "hora_utc": "2026-05-20 22:39",
@@ -27,7 +43,7 @@
     "id": 46876,
     "fecha": "20 de May del 2026 a las 05:12 PM",
     "hora_utc": "2026-05-20 21:12",
-    "mensaje": "⚠️Afectado el servicio eléctrico en los siguientes circuitos:\n🔹Municipio Camajuaní:\n👉Ctos 73 y 156\n🔹Municipio Placetas:\n👉Cto 107 Baez\n👉Cto 105 Nazareno",
+    "mensaje": "⚠️Afectado el servicio eléctrico en los siguientes circuitos:\n🔹Municipio Camajuaní:\n👉Ctos 73 y 156\n🔹Municipio Placetas:\n👉Cto 107 Baez\n👉Cto 105 Nazareno\n🔹Municipio Santa Clara\n👉Cto 31 Sakenaf \n👉Cto 169 Condado",
     "timestamp": 1779311567,
     "timestamp_local": 1779311567
   },
@@ -142,21 +158,5 @@
     "mensaje": "⚠️Afectado el servicio eléctrico en los siguientes circuitos:\n🔹Municipio Caibarién\n👉Ctos 61 y 62",
     "timestamp": 1779299767,
     "timestamp_local": 1779299767
-  },
-  {
-    "id": 46861,
-    "fecha": "20 de May del 2026 a las 01:53 PM",
-    "hora_utc": "2026-05-20 17:53",
-    "mensaje": "⚠️Afectado el servicio eléctrico en los siguientes circuitos:\n🔹Municipio Sagua\n👉Ctos 50 y 147 Villa Alegre",
-    "timestamp": 1779299605,
-    "timestamp_local": 1779299605
-  },
-  {
-    "id": 46860,
-    "fecha": "20 de May del 2026 a las 01:51 PM",
-    "hora_utc": "2026-05-20 17:51",
-    "mensaje": "⚠️Afectado el servicio eléctrico en los siguientes circuitos:\n🔹Municipio Placetas \n👉Ctos 100 y 151 Placetas\n👉Cto 104 Hermanos Amejeiras\n👉Cto 103 Batey Carbó Servía\n🔹Municipio Manicaragua:\n👉Cto 112 Hoyo Manicaragua\n🔹Municipio Manicaragua:\n👉Ctos 109 y 150\n👉Ctos 108 y 110 La Piedra\n👉Cto 111 Mataguá\n🔹Municipio Quemado:\n👉 Ctos  52 y 53 Quemado.",
-    "timestamp": 1779299488,
-    "timestamp_local": 1779299488
   }
 ]
