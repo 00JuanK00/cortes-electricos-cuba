@@ -1,5 +1,37 @@
 [
   {
+    "id": 46965,
+    "fecha": "22 de May del 2026 a las 07:41 PM",
+    "hora_utc": "2026-05-22 23:41",
+    "mensaje": "⚠Afectado el servicio eléctrico en los siguientes circuitos:\n🔹Municipio Caibarién:\n👉Ctos 61 y 62",
+    "timestamp": 1779493297,
+    "timestamp_local": 1779493297
+  },
+  {
+    "id": 46964,
+    "fecha": "22 de May del 2026 a las 07:24 PM",
+    "hora_utc": "2026-05-22 23:24",
+    "mensaje": "⚠Afectado el servicio eléctrico en el siguiente circuito:\n🔹Municipio Santa Clara:\n👉Cto 13 Zona Industrial",
+    "timestamp": 1779492297,
+    "timestamp_local": 1779492297
+  },
+  {
+    "id": 46963,
+    "fecha": "22 de May del 2026 a las 07:07 PM",
+    "hora_utc": "2026-05-22 23:07",
+    "mensaje": "🛠Afectado el circuito 25 Los Güiros del municipio Santa Clara. Se estudian las causas.",
+    "timestamp": 1779491224,
+    "timestamp_local": 1779491224
+  },
+  {
+    "id": 46962,
+    "fecha": "22 de May del 2026 a las 06:48 PM",
+    "hora_utc": "2026-05-22 22:48",
+    "mensaje": "⚠Afectado el servicio eléctrico en los siguientes circuitos:\n🔹Municipio Remedios:\n👉Ctos 67\n👉 Ctos 68 y 118",
+    "timestamp": 1779490126,
+    "timestamp_local": 1779490126
+  },
+  {
     "id": 46961,
     "fecha": "22 de May del 2026 a las 06:39 PM",
     "hora_utc": "2026-05-22 22:39",
@@ -126,37 +158,5 @@
     "mensaje": "🛠Afectado por disparo la línea 1205:\n🔹Municipio Sagua:\n👉Ctos 43, 51 Sagua (Déficit)\n👉Cto 44 Isabela (Déficit)\n👉Ctos 50 y 147 Villa Alegre\n✍ Se estudian las causas.",
     "timestamp": 1779482907,
     "timestamp_local": 1779482907
-  },
-  {
-    "id": 46945,
-    "fecha": "22 de May del 2026 a las 04:43 PM",
-    "hora_utc": "2026-05-22 20:43",
-    "mensaje": "➡️Los disparos de circuito tienen diferentes aristas todas con distintos significados, es decir que ocurren por varias causas. Entre ellas encontramos:\n\n👉-Disparo de Circuito con Recierre: El conocido por los clientes como “quita y pon de corriente” es un tipo de protección utilizada mundialmente a partir del 80% aproximadamente de las interrupciones eléctricas son transitorias. Este fenómeno lo hace una sola vez ante un evento de red y no es dañino para para nuestros equipos electrodomésticos.\n\n👉- Disparo Automático por Frecuencia (DAF): El disparo por DAF ocurre cuando la frecuencia llega a valores mínimos permisibles que ponen en peligro la estabilidad del mismo y como protección desconecta varios circuitos de la Capital. Los mismo restablecen a medida que se vaya recuperando la frecuencia que tiene un valor de 60hz o ciclos por segundo.\n\n👉-Disparo de Circuito por Sobrecarga: Este ocurre mayormente en los horarios pico y en verano, ya que las altas temperaturas generan elevados consumos en la población y como consecuencia de ello fallas en los circuitos.\n\n👉-Disparo de Circuito por Posible Avería: Este fenómeno ocurre cuando existe una falla en algún circuito, ya sea soterrado, aéreo o en una subestación. Estas, a pesar de que son mucho más frecuentes cuando existe algún evento climatológico, pueden ocurrir en cualquier momento del día o la noche, ya que son situaciones que no cuentan con programación.",
-    "timestamp": 1779482599,
-    "timestamp_local": 1779482599
-  },
-  {
-    "id": 46944,
-    "fecha": "22 de May del 2026 a las 04:42 PM",
-    "hora_utc": "2026-05-22 20:42",
-    "mensaje": "🛠Afectado por disparo el circuito 169 Condado, del municipio Santa Clara. Se estudian las causas.",
-    "timestamp": 1779482571,
-    "timestamp_local": 1779482571
-  },
-  {
-    "id": 46943,
-    "fecha": "22 de May del 2026 a las 04:17 PM",
-    "hora_utc": "2026-05-22 20:17",
-    "mensaje": "⚠Afectado el servicio eléctrico en el siguiente circuito:\n🔹Municipio Placetas:\n👉Cto 98",
-    "timestamp": 1779481062,
-    "timestamp_local": 1779481062
-  },
-  {
-    "id": 46942,
-    "fecha": "22 de May del 2026 a las 04:06 PM",
-    "hora_utc": "2026-05-22 20:06",
-    "mensaje": "Actualización del servicio eléctrico en la provincia.\n👉En este momento la afectación por déficit de capacidad de generación es de 129 MW, demanda máxima posible a apagar en estos momentos.\n👉De los circuitos apagables se mantienen afectados 126.\n👉Cuenta con 141 afectaciones por averías secundarias y de servicio.",
-    "timestamp": 1779480377,
-    "timestamp_local": 1779480377
   }
 ]
