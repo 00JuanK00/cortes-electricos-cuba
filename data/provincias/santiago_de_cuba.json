@@ -1,11 +1,27 @@
 [
   {
-    "id": 53808,
-    "fecha": "22 de May del 2026 a las 04:21 PM",
-    "hora_utc": "2026-05-22 20:21",
-    "mensaje": "**Circuito en avería:                                                                                                                          Sucede si un circuito se interrumpe por causa de un defecto en un cable conductor de corriente (fase o neutro), un fusible fundido o disyuntor. En sistemas trifásicos una falla puede implicar una fase, más de una fase con la tierra o puede ocurrir solo entre fases.**",
-    "timestamp": 1779481316,
-    "timestamp_local": 1779481316
+    "id": 53812,
+    "fecha": "22 de May del 2026 a las 05:44 PM",
+    "hora_utc": "2026-05-22 21:44",
+    "mensaje": "**🚨Estimados clientes en estos momentos se encuentran afectados por Déficit de Capacidad de Generación los circuitos 2 , 3 , 20 , 23 , 24 de Santiago , línea 5385 San Luis - Palma , disculpen por las molestias ocasionadas.**",
+    "timestamp": 1779486277,
+    "timestamp_local": 1779486277
+  },
+  {
+    "id": 53811,
+    "fecha": "22 de May del 2026 a las 04:35 PM",
+    "hora_utc": "2026-05-22 20:35",
+    "mensaje": "🔴Estimados clientes se les informa que se incorporan a la afectación el circuito 21  , la línea 4390 Contramaestre , el circuito 12  y la línea 5390 La Maya .",
+    "timestamp": 1779482137,
+    "timestamp_local": 1779482137
+  },
+  {
+    "id": 53810,
+    "fecha": "22 de May del 2026 a las 04:27 PM",
+    "hora_utc": "2026-05-22 20:27",
+    "mensaje": "Circuito en Avería :                                                                                                                        **Sucede si un circuito se interrumpe por causa de un defecto en un cable conductor de corriente (fase o neutro), un fusible fundido o disyuntor. En sistemas trifásicos una falla puede implicar una fase, más de una fase con la tierra o puede ocurrir solo entre fases.**",
+    "timestamp": 1779481628,
+    "timestamp_local": 1779481628
   },
   {
     "id": 53807,
@@ -126,21 +142,5 @@
     "mensaje": "🔴Estimados clientes se les informa que se encuentra afectado por manipulación el circuito 10 .",
     "timestamp": 1779460919,
     "timestamp_local": 1779460919
-  },
-  {
-    "id": 53790,
-    "fecha": "22 de May del 2026 a las 08:40 AM",
-    "hora_utc": "2026-05-22 12:40",
-    "mensaje": "🔴Estimados clientes se les informa que se incorporan a la afectación los circuitos 1 de Palma y el 9 y la línea 4260 ll Frente .",
-    "timestamp": 1779453634,
-    "timestamp_local": 1779453634
-  },
-  {
-    "id": 53789,
-    "fecha": "22 de May del 2026 a las 08:39 AM",
-    "hora_utc": "2026-05-22 12:39",
-    "mensaje": "**Déficit de Capacidad de Generación:**\n**Se produce cuando la demanda del Sistema Eléctrico Nacional,en determinado horario del día supera la generación disponible del país ,provocando la desconexión de los circuitos o líneas que permitan garantizar la frecuencia del SEN.**",
-    "timestamp": 1779453570,
-    "timestamp_local": 1779453570
   }
 ]
