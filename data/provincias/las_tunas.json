@@ -1,5 +1,13 @@
 [
   {
+    "id": 19205,
+    "fecha": "23 de May del 2026 a las 11:52 AM",
+    "hora_utc": "2026-05-23 15:52",
+    "mensaje": "Se encuentra disparada la Subestación de cuatro caminos afectando los siguientes circuitos.\nTK7 La Victoria\n\nTK19 San Antonio, Km 7\nTK26 Circunvalación Sur hasta La Larga\nTK29 Circunvalación Sur, Oro Negro\nTK25 Cuatro Caminos, Dormitorio\nTK14 Cayojo",
+    "timestamp": 1779551562,
+    "timestamp_local": 1779551562
+  },
+  {
     "id": 19204,
     "fecha": "23 de May del 2026 a las 11:28 AM",
     "hora_utc": "2026-05-23 15:28",
@@ -86,13 +94,5 @@
     "mensaje": "Nota informativa. \n\nSituación del SEN para el 22 de mayo de 2026.\n\nEn el día de ayer se afectó el servicio por déficit de capacidad durante las 24 horas y se mantuvo la afectación durante todo el horario de la madrugada. \n\nLa máxima afectación por déficit de capacidad de generación en el día de ayer fue de 1910 MW a las 21:30 horas. \n\nLa producción de energía de los 54 nuevos parques solares fotovoltaicos fue de 3843 MWh, con 606 MW como máxima potencia entregada en el horario de la media con esta fuente de generación.  \n\nLa disponibilidad del SEN a las 06:00 horas es de 1300 MW, la demanda 2746 MW con 1454 MW afectados. En el horario de la media se estima una afectación de 1350 MW.  \n\nSe encuentran en avería la unidad 1 de la CTE Habana, la unidad 2 de la CTE Felton y la unidad 5 de la CTE Renté. Se encuentran en mantenimiento la unidad 5 de la CTE Mariel, la unidad 5 de la CTE Nuevitas y la unidad 6 de la CTE Renté.\n\nLas limitaciones en la generación térmica son de 505 MW.\n\nSe pronostica, para el horario de máxima demanda, la entrada de la unidad 1 de la Central Energás Boca de Jaruco con 30 MW y el completamiento de la unidad 6 con 30 MW.\n\nCon este pronóstico, se estima una disponibilidad de 1360 MW con una demanda máxima de 3200 MW, para un déficit de 1840 MW, por lo que de mantenerse las condiciones previstas se pronostica una afectación de 1870 MW en este horario.\n\nUNE-MINEM---07:00 horas.",
     "timestamp": 1779452114,
     "timestamp_local": 1779452114
-  },
-  {
-    "id": 19183,
-    "fecha": "22 de May del 2026 a las 06:54 AM",
-    "hora_utc": "2026-05-22 10:54",
-    "mensaje": "Se declara en avería el circuito primario TK110 El Batey perteneciente al municipio de Amancio.",
-    "timestamp": 1779447268,
-    "timestamp_local": 1779447268
   }
 ]
