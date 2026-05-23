@@ -1,5 +1,61 @@
 [
   {
+    "id": 47004,
+    "fecha": "23 de May del 2026 a las 11:21 AM",
+    "hora_utc": "2026-05-23 15:21",
+    "mensaje": "💡Con servicio la línea del 861:\n🔹Municipio Santa Clara:\n👉Cto 5 Dobarganes\n👉Cto 17 Subplanta\n👉Ctos 37 y 38 Yabú\n👉Cto 9 Moldes y Troqueles\n👉Cto 133 Taller Cafetera",
+    "timestamp": 1779549708,
+    "timestamp_local": 1779549708
+  },
+  {
+    "id": 47003,
+    "fecha": "23 de May del 2026 a las 11:17 AM",
+    "hora_utc": "2026-05-23 15:17",
+    "mensaje": "⚠Afectado el servicio eléctrico en el siguiente circuito:\n🔹Municipio Santa Clara\n👉Cto 162 Santa Clara Industrial",
+    "timestamp": 1779549470,
+    "timestamp_local": 1779549470
+  },
+  {
+    "id": 47002,
+    "fecha": "23 de May del 2026 a las 11:11 AM",
+    "hora_utc": "2026-05-23 15:11",
+    "mensaje": "⚠️Afectado por manipulación la línea del 861:\n🔹Municipio Santa Clara:\n👉Cto 5 Dobarganes\n👉Cto 17 Subplanta\n👉Ctos 37 y 38 Yabú (Déficit)\n👉Cto 9 Moldes y Troqueles\n👉Cto 133 Taller Cafetera",
+    "timestamp": 1779549086,
+    "timestamp_local": 1779549086
+  },
+  {
+    "id": 47001,
+    "fecha": "23 de May del 2026 a las 11:08 AM",
+    "hora_utc": "2026-05-23 15:08",
+    "mensaje": "⚠Afectado el servicio eléctrico en los siguientes circuitos:\n🔹Municipio Santa Clara\n👉Cto 26\n👉Cto 141 Manuelita (Disparado)\n👉Cto 191 Quemado de Hilario",
+    "timestamp": 1779548909,
+    "timestamp_local": 1779548909
+  },
+  {
+    "id": 47000,
+    "fecha": "23 de May del 2026 a las 11:07 AM",
+    "hora_utc": "2026-05-23 15:07",
+    "mensaje": "Afectados 119 MW en la provincia, demanda máxima a apagar en estos momentos.",
+    "timestamp": 1779548834,
+    "timestamp_local": 1779548834
+  },
+  {
+    "id": 46999,
+    "fecha": "23 de May del 2026 a las 10:55 AM",
+    "hora_utc": "2026-05-23 14:55",
+    "mensaje": "🛠️Afectados por Vía Libre los siguientes circuitos para reparar primario partido:\n🔹Municipio Santa Clara\n👉Cto 25 Los Güiros\n👉Cto 35 Biotecnología",
+    "timestamp": 1779548144,
+    "timestamp_local": 1779548144
+  },
+  {
+    "id": 46998,
+    "fecha": "23 de May del 2026 a las 10:54 AM",
+    "hora_utc": "2026-05-23 14:54",
+    "mensaje": "💡Con servicio los siguientes circuitos de la línea del 6375:\nMunicipio Santa Clara\n👉Cto 7 Universidad\n👉Cto 146 Elevado Aeropuerto\n👉Cto 22 Construcciones Textil\n👉Cto 131 Las Antillas\n👉Cto 153 EIDE\n👉Cto 24 Planta Asfalto \n👉Ctos 14, 15 y 27 Maleza",
+    "timestamp": 1779548074,
+    "timestamp_local": 1779548074
+  },
+  {
     "id": 46997,
     "fecha": "23 de May del 2026 a las 10:43 AM",
     "hora_utc": "2026-05-23 14:43",
@@ -102,53 +158,5 @@
     "mensaje": "⚠Afectado el servicio eléctrico en los siguientes circuitos:\n🔹Municipio Santa Clara:\n👉 Cto 168 Condado-XX Aniversario\n👉Cto 169 Condado",
     "timestamp": 1779532993,
     "timestamp_local": 1779532993
-  },
-  {
-    "id": 46983,
-    "fecha": "23 de May del 2026 a las 06:34 AM",
-    "hora_utc": "2026-05-23 10:34",
-    "mensaje": "🕕Actualización del servicio eléctrico.\n✍️El déficit de capacidad de generación en estos momentos es de 118 MW.\n✍️En el momento de esta nota, se mantienen afectados 137 circuitos.\n✍️ Cuenta con 172 afectaciones por averías secundarias y de servicio:\n🔸 Caibarién (5)\n🔸Camajuaní (1)\n🔸 Cifuentes (1)\n🔸 Corralillo (1)\n🔸 Encrucijada (2)\n🔸 Manicaragua (21)\n🔸 Placetas (9)\n🔸 Quemado (1)\n🔸 Ranchuelo (14)\n🔸 Remedios (18) \n🔸 Sagua (10) \n🔸 Santa Clara (62)\n🔸 Santo Domingo (7)\n🛠️Se encuentran 2 averías en vías de solución.\n🛠️Pendientes a solucionar por el área técnica 17.\n⚡La provincia presenta 1 avería primaria:\n⚡Afectado el servicio eléctrico en el circuito 25 Los Güiros, del municipio Santa Clara.",
-    "timestamp": 1779532480,
-    "timestamp_local": 1779532480
-  },
-  {
-    "id": 46982,
-    "fecha": "23 de May del 2026 a las 03:56 AM",
-    "hora_utc": "2026-05-23 07:56",
-    "mensaje": "Actualización del servicio eléctrico en la provincia.\n👉En este momento la afectación por déficit de capacidad de generación es de 115 MW, demanda máxima posible a apagar en estos momentos.\n👉De los circuitos apagables se mantienen afectados 137.\n👉Cuenta con 152 afectaciones por averías secundarias y de servicio.",
-    "timestamp": 1779522963,
-    "timestamp_local": 1779522963
-  },
-  {
-    "id": 46981,
-    "fecha": "23 de May del 2026 a las 03:53 AM",
-    "hora_utc": "2026-05-23 07:53",
-    "mensaje": "⚠Afectado el servicio eléctrico en los siguientes circuitos:\n🔹Municipio Placetas:\n👉Ctos 101 y 145 Cumbre",
-    "timestamp": 1779522806,
-    "timestamp_local": 1779522806
-  },
-  {
-    "id": 46979,
-    "fecha": "23 de May del 2026 a las 01:54 AM",
-    "hora_utc": "2026-05-23 05:54",
-    "mensaje": "Actualización del servicio eléctrico en la provincia.\n👉En este momento la afectación por déficit de capacidad de generación es de 121 MW, demanda máxima posible a apagar en estos momentos.\n👉De los circuitos apagables se mantienen afectados 133.\n👉Cuenta con 151 afectaciones por averías secundarias y de servicio.",
-    "timestamp": 1779515667,
-    "timestamp_local": 1779515667
-  },
-  {
-    "id": 46978,
-    "fecha": "23 de May del 2026 a las 12:55 AM",
-    "hora_utc": "2026-05-23 04:55",
-    "mensaje": "⚠Afectado el servicio eléctrico en el siguiente circuito:\n🔹Municipio Manicaragua:\n👉Cto 111 Mataguá",
-    "timestamp": 1779512132,
-    "timestamp_local": 1779512132
-  },
-  {
-    "id": 46977,
-    "fecha": "23 de May del 2026 a las 12:06 AM",
-    "hora_utc": "2026-05-23 04:06",
-    "mensaje": "🕕Actualización del servicio eléctrico.\n✍️El déficit de capacidad de generación en estos momentos es de 129 MW.\n✍️En el momento de esta nota, se mantienen afectados 133 circuitos.\n✍️ Cuenta con 167 afectaciones por averías secundarias y de servicio:\n🔸 Caibarién (4)\n🔸Camajuaní (1)\n🔸 Cifuentes (1)\n🔸 Corralillo (1)\n🔸 Encrucijada (2)\n🔸 Manicaragua (21)\n🔸 Placetas (9)\n🔸 Quemado (1)\n🔸 Ranchuelo (14)\n🔸 Remedios (18) \n🔸 Sagua (10) \n🔸 Santa Clara (58)\n🔸 Santo Domingo (7)\n🛠️Se encuentran 3 averías en vías de solución.\n🛠️Pendientes a solucionar por el área técnica 17.\n⚡La provincia presenta 2 averías primarias:\n⚡Afectado el servicio eléctrico en el circuito 25 Los Güiros, del municipio Santa Clara.  \n⚡Afectado por avería en la subestación las siguientes líneas del municipio Placetas:\nLínea 1915:\n👉Cto 192 Benito Juárez\n👉Cto 102 Peroti\nLínea 1910\n 👉 Ctos 100 y 151 (Con servicio)                                                                                                                                                                                                                                                          \n👉Cto 104 Hermanos Amejeiras\n👉Cto 103 Batey Carbó Servía\nLínea 1920\n👉Ctos 101 y 145 Cumbre\n👉Ctos 107 Baez\n👉Cto 105 Nazareno\n✍ En estos momentos las líneas se encuentran afectadas por déficit de capacidad de generación.",
-    "timestamp": 1779509203,
-    "timestamp_local": 1779509203
   }
 ]
