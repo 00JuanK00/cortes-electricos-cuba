@@ -1,5 +1,45 @@
 [
   {
+    "id": 47021,
+    "fecha": "23 de May del 2026 a las 03:45 PM",
+    "hora_utc": "2026-05-23 19:45",
+    "mensaje": "⚠️Se encuentran disparados los Ctos 5 Dobarganes y 17 Subplanta, pertenecientes al municipio Santa Clara, se estudian las causas.",
+    "timestamp": 1779565534,
+    "timestamp_local": 1779565534
+  },
+  {
+    "id": 47020,
+    "fecha": "23 de May del 2026 a las 03:40 PM",
+    "hora_utc": "2026-05-23 19:40",
+    "mensaje": "⚠Afectado el servicio eléctrico en el siguiente circuito:\n🔹Municipio Santa Clara\n👉Cto 167 Virginia",
+    "timestamp": 1779565233,
+    "timestamp_local": 1779565233
+  },
+  {
+    "id": 47019,
+    "fecha": "23 de May del 2026 a las 03:25 PM",
+    "hora_utc": "2026-05-23 19:25",
+    "mensaje": "⚠Afectado el servicio eléctrico en los siguientes circuitos:\n🔹Municipio Santa Clara\n👉Cto 7 Universidad\n👉Cto 146 Elevado Aeropuerto\n👉Cto 22 Construcciones Textil\n👉Cto 131 Las Antillas\n👉Cto 153 EIDE\n👉Cto 25 Los Güiros\n👉Cto 24 Planta Asfalto\n👉Cto 35 Biotecnología \n👉Ctos 14, 15 y 27 Maleza",
+    "timestamp": 1779564326,
+    "timestamp_local": 1779564326
+  },
+  {
+    "id": 47018,
+    "fecha": "23 de May del 2026 a las 03:21 PM",
+    "hora_utc": "2026-05-23 19:21",
+    "mensaje": "✍️Ante cualquier duda conozca sobre la terminología eléctrica\n\n🔹Las averías pueden ser:\n     \n➡️Primarias: Afecta un volumen grande de población pues son las líneas de distribución a 13.8 kV y puede afectar varias manzanas, incluso repartos completos.\n\n➡️Secundarias: Afecta a todos los clientes que se alimenten del mismo transformador, puede afectar una o varias cuadras. \n\n➡️De servicio: Afectan 1 solo cliente o instalación generalmente producto a daños en la acometida, metro contador, etc.).",
+    "timestamp": 1779564079,
+    "timestamp_local": 1779564079
+  },
+  {
+    "id": 47017,
+    "fecha": "23 de May del 2026 a las 03:00 PM",
+    "hora_utc": "2026-05-23 19:00",
+    "mensaje": "Afectados 117 MW en la provincia, demanda máxima a apagar en estos momentos.",
+    "timestamp": 1779562849,
+    "timestamp_local": 1779562849
+  },
+  {
     "id": 47015,
     "fecha": "23 de May del 2026 a las 02:11 PM",
     "hora_utc": "2026-05-23 18:11",
@@ -110,45 +150,5 @@
     "mensaje": "⚠️Afectado por manipulación la línea del 861:\n🔹Municipio Santa Clara:\n👉Cto 5 Dobarganes\n👉Cto 17 Subplanta\n👉Ctos 37 y 38 Yabú (Déficit)\n👉Cto 9 Moldes y Troqueles\n👉Cto 133 Taller Cafetera",
     "timestamp": 1779549086,
     "timestamp_local": 1779549086
-  },
-  {
-    "id": 47001,
-    "fecha": "23 de May del 2026 a las 11:08 AM",
-    "hora_utc": "2026-05-23 15:08",
-    "mensaje": "⚠Afectado el servicio eléctrico en los siguientes circuitos:\n🔹Municipio Santa Clara\n👉Cto 26\n👉Cto 141 Manuelita (Disparado)\n👉Cto 191 Quemado de Hilario",
-    "timestamp": 1779548909,
-    "timestamp_local": 1779548909
-  },
-  {
-    "id": 47000,
-    "fecha": "23 de May del 2026 a las 11:07 AM",
-    "hora_utc": "2026-05-23 15:07",
-    "mensaje": "Afectados 119 MW en la provincia, demanda máxima a apagar en estos momentos.",
-    "timestamp": 1779548834,
-    "timestamp_local": 1779548834
-  },
-  {
-    "id": 46999,
-    "fecha": "23 de May del 2026 a las 10:55 AM",
-    "hora_utc": "2026-05-23 14:55",
-    "mensaje": "🛠️Afectados por Vía Libre los siguientes circuitos para reparar primario partido:\n🔹Municipio Santa Clara\n👉Cto 25 Los Güiros\n👉Cto 35 Biotecnología",
-    "timestamp": 1779548144,
-    "timestamp_local": 1779548144
-  },
-  {
-    "id": 46998,
-    "fecha": "23 de May del 2026 a las 10:54 AM",
-    "hora_utc": "2026-05-23 14:54",
-    "mensaje": "💡Con servicio los siguientes circuitos de la línea del 6375:\nMunicipio Santa Clara\n👉Cto 7 Universidad\n👉Cto 146 Elevado Aeropuerto\n👉Cto 22 Construcciones Textil\n👉Cto 131 Las Antillas\n👉Cto 153 EIDE\n👉Cto 24 Planta Asfalto \n👉Ctos 14, 15 y 27 Maleza",
-    "timestamp": 1779548074,
-    "timestamp_local": 1779548074
-  },
-  {
-    "id": 46997,
-    "fecha": "23 de May del 2026 a las 10:43 AM",
-    "hora_utc": "2026-05-23 14:43",
-    "mensaje": "⚠️Se encuentra disparado el Cto 141 Manuelita, perteneciente al municipio Santa Clara, se estudian las causas.",
-    "timestamp": 1779547393,
-    "timestamp_local": 1779547393
   }
 ]
