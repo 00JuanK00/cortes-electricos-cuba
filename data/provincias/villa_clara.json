@@ -1,5 +1,37 @@
 [
   {
+    "id": 47011,
+    "fecha": "23 de May del 2026 a las 01:38 PM",
+    "hora_utc": "2026-05-23 17:38",
+    "mensaje": "⚠Afectado el servicio eléctrico en los siguientes circuitos:\n🔹Municipio Caibarién\n👉Ctos 182 y 183 Van Troy",
+    "timestamp": 1779557926,
+    "timestamp_local": 1779557926
+  },
+  {
+    "id": 47010,
+    "fecha": "23 de May del 2026 a las 01:30 PM",
+    "hora_utc": "2026-05-23 17:30",
+    "mensaje": "⚠Afectado el servicio eléctrico en los siguientes circuitos:\n🔹Municipio Placetas:\n👉Ctos 101 y 145 Cumbre",
+    "timestamp": 1779557443,
+    "timestamp_local": 1779557443
+  },
+  {
+    "id": 47009,
+    "fecha": "23 de May del 2026 a las 01:01 PM",
+    "hora_utc": "2026-05-23 17:01",
+    "mensaje": "Afectados 114 MW en la provincia, demanda máxima a apagar en estos momentos.",
+    "timestamp": 1779555689,
+    "timestamp_local": 1779555689
+  },
+  {
+    "id": 47008,
+    "fecha": "23 de May del 2026 a las 12:48 PM",
+    "hora_utc": "2026-05-23 16:48",
+    "mensaje": "🚨Usted  manténgase informado a través de nuestras redes sociales 🛜 \n\n➡️X https://x.com/EmpElectricaVC\n➡️Facebook https://www.facebook.com/luzdelcentro\n➡️WhatsApp https://whatsapp.com/channel/0029Vafr4tFG3R3gKRPpm62b\n\nTambién puede comunicarse a través del Centro Telefónico 18888☎️ ,prestamos servicio las 24 hras .",
+    "timestamp": 1779554898,
+    "timestamp_local": 1779554898
+  },
+  {
     "id": 47007,
     "fecha": "23 de May del 2026 a las 12:17 PM",
     "hora_utc": "2026-05-23 16:17",
@@ -11,7 +43,7 @@
     "id": 47006,
     "fecha": "23 de May del 2026 a las 11:56 AM",
     "hora_utc": "2026-05-23 15:56",
-    "mensaje": "💡Con servicio los siguientes circuitos de la línea del 6375:\n🔹Municipio Santa Clara\n👉Cto 7 Universidad\n👉Cto 146 Elevado Aeropuerto\n👉Cto 22 Construcciones Textil\n👉Cto 131 Las Antillas\n👉Cto 153 EIDE\n👉Cto 24 Planta Asfalto \n👉Ctos 14, 15 y 27 Maleza",
+    "mensaje": "💡Con servicio los siguientes circuitos de la línea del 6375:\n🔹Municipio Santa Clara\n👉Cto 7 Universidad\n👉Cto 146 Elevado Aeropuerto\n👉Cto 22 Construcciones Textil\n👉Cto 131 Las Antillas\n👉Cto 153 EIDE\n👉Cto 24 Planta Asfalto \n👉Ctos 14, 15 y 27 Maleza\n👉Cto 25 Los Güiros\n👉Cto 35 Biotecnología",
     "timestamp": 1779551774,
     "timestamp_local": 1779551774
   },
@@ -126,37 +158,5 @@
     "mensaje": "💡Con servicio los Ctos 98 y 99, pertenecientes al municipio Placetas.",
     "timestamp": 1779541972,
     "timestamp_local": 1779541972
-  },
-  {
-    "id": 46991,
-    "fecha": "23 de May del 2026 a las 09:12 AM",
-    "hora_utc": "2026-05-23 13:12",
-    "mensaje": "Afectados 126 MW en la provincia, demanda máxima a apagar en estos momentos.",
-    "timestamp": 1779541920,
-    "timestamp_local": 1779541920
-  },
-  {
-    "id": 46990,
-    "fecha": "23 de May del 2026 a las 08:40 AM",
-    "hora_utc": "2026-05-23 12:40",
-    "mensaje": "⚡ Actualización del Sistema Electroenergético Nacional para el 23 de mayo de 2026.\n\nLeer más: https://www.unionelectrica.cu/nota-informativa/\n\n#UnidosXCuba #UniónEléctrica #UNE #NotaInformativa",
-    "timestamp": 1779540038,
-    "timestamp_local": 1779540038
-  },
-  {
-    "id": 46989,
-    "fecha": "23 de May del 2026 a las 08:28 AM",
-    "hora_utc": "2026-05-23 12:28",
-    "mensaje": "⚡En avería los Ctos 98 y 99 pertenecientes al municipio Placetas, faltando una fase en la Subestación.",
-    "timestamp": 1779539287,
-    "timestamp_local": 1779539287
-  },
-  {
-    "id": 46988,
-    "fecha": "23 de May del 2026 a las 08:03 AM",
-    "hora_utc": "2026-05-23 12:03",
-    "mensaje": "Actualización del servicio eléctrico en la provincia.\n👉En este momento la afectación por déficit de capacidad de generación es de 127 MW, demanda máxima posible a apagar en estos momentos.\n👉De los circuitos apagables se mantienen afectados 138.\n👉Cuenta con 160 afectaciones por averías secundarias y de servicio.",
-    "timestamp": 1779537802,
-    "timestamp_local": 1779537802
   }
 ]
