@@ -1,5 +1,37 @@
 [
   {
+    "id": 19210,
+    "fecha": "23 de May del 2026 a las 02:21 PM",
+    "hora_utc": "2026-05-23 18:21",
+    "mensaje": "📌 Estimados clientes 📌\n〽️El Sistema Electroenergético Nacional (SEN) tiene varios regímenes de operación, esto es fundamentalmente porque las cargas de los circuitos son variables, con sus características específicas y sus actividades propias, tanto estatales como de los demás sectores de la sociedad. 💡Durante el día se le llama “media”, al pico “máxima” y en la madrugada “mínima”. \n📊El déficit de capacidad de generación (apagón) puede variar sus cifras: los mayores valores son en el pico, los menores en la madrugada y en el día se comportan entre el máximo y el mínimo.\n✅Como resultado, con una cantidad de circuitos afectados, puede modificarse el déficit, con los mismos circuitos sin servicio eléctrico.",
+    "timestamp": 1779560487,
+    "timestamp_local": 1779560487
+  },
+  {
+    "id": 19209,
+    "fecha": "23 de May del 2026 a las 02:15 PM",
+    "hora_utc": "2026-05-23 18:15",
+    "mensaje": "💡Restablecido el servicio eléctrico a los circuitos que se encontraban afectados por disparo automático por frecuencia (DAF)",
+    "timestamp": 1779560155,
+    "timestamp_local": 1779560155
+  },
+  {
+    "id": 19208,
+    "fecha": "23 de May del 2026 a las 01:46 PM",
+    "hora_utc": "2026-05-23 17:46",
+    "mensaje": "Qué es un disparo por DAF?\nEl Disparo por Frecuencia (DAF) es un mecanismo de protección del sistema eléctrico. Se activa automáticamente cuando la frecuencia desciende por debajo de los valores mínimos seguros (menores de 60 Hz), lo que pone en riesgo la estabilidad del sistema.\nEn ese momento, algunos circuitos se desconectan de forma automática para aliviar la carga y permitir que la frecuencia vuelva a su valor nominal.\nEsto suele ocurrir cuando una planta generadora sale de servicio de manera imprevista, provocando un déficit de generación. El DAF ayuda a evitar un colapso mayor del sistema, aunque puede generar afectaciones al servicio como apagones parciales.",
+    "timestamp": 1779558407,
+    "timestamp_local": 1779558407
+  },
+  {
+    "id": 19207,
+    "fecha": "23 de May del 2026 a las 01:45 PM",
+    "hora_utc": "2026-05-23 17:45",
+    "mensaje": "🔊Se encuentran afectados por disparo automático por frecuencia (DAF) los circuitos \nTK5 Buena Vista, Los Pinos\n\nTK106 Palancón, Buena Vista",
+    "timestamp": 1779558302,
+    "timestamp_local": 1779558302
+  },
+  {
     "id": 19206,
     "fecha": "23 de May del 2026 a las 01:03 PM",
     "hora_utc": "2026-05-23 17:03",
@@ -78,21 +110,5 @@
     "mensaje": "🚨Se le informa a los clientes del circuito de 33Kv 6230 Menéndez, que el mismo se encuentra disparado por DAF.",
     "timestamp": 1779476674,
     "timestamp_local": 1779476674
-  },
-  {
-    "id": 19189,
-    "fecha": "22 de May del 2026 a las 01:34 PM",
-    "hora_utc": "2026-05-22 17:34",
-    "mensaje": "📌Se le informa a la población que el circuito Tk20 Becerra se encuentra disparado.📌",
-    "timestamp": 1779471265,
-    "timestamp_local": 1779471265
-  },
-  {
-    "id": 19187,
-    "fecha": "22 de May del 2026 a las 09:29 AM",
-    "hora_utc": "2026-05-22 13:29",
-    "mensaje": "📌 Estimados clientes 📌\n\n\nPronóstico para el horario pico:\n\n🔋Se pronostica la entrada de la unidad 1 de la Central Energás Boca de Jaruco con 30 MW y el completamiento de la unidad 6 con 30 MW.",
-    "timestamp": 1779456574,
-    "timestamp_local": 1779456574
   }
 ]

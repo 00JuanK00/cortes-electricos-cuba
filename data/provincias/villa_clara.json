@@ -1,5 +1,37 @@
 [
   {
+    "id": 47015,
+    "fecha": "23 de May del 2026 a las 02:11 PM",
+    "hora_utc": "2026-05-23 18:11",
+    "mensaje": "Actualización del servicio eléctrico en la provincia.\n👉En este momento la afectación por déficit de capacidad de generación es de 115 MW, demanda máxima posible a apagar en estos momentos.\n👉De los circuitos apagables se mantienen afectados 124.\n👉Cuenta con 181 afectaciones por averías secundarias y de servicio.",
+    "timestamp": 1779559867,
+    "timestamp_local": 1779559867
+  },
+  {
+    "id": 47014,
+    "fecha": "23 de May del 2026 a las 02:10 PM",
+    "hora_utc": "2026-05-23 18:10",
+    "mensaje": "⚠️Se encuentran disparados los Ctos 108 y 110 La Piedra, pertenecientes al municipio Manicaragua, se estudian las causas.",
+    "timestamp": 1779559811,
+    "timestamp_local": 1779559811
+  },
+  {
+    "id": 47013,
+    "fecha": "23 de May del 2026 a las 01:48 PM",
+    "hora_utc": "2026-05-23 17:48",
+    "mensaje": "⚠Afectado el servicio eléctrico en los siguientes circuitos:\n🔹Municipio Sagua \n👉Cto 48 Finalet\n👉Ctos 46 y 128 Sitiecito",
+    "timestamp": 1779558519,
+    "timestamp_local": 1779558519
+  },
+  {
+    "id": 47012,
+    "fecha": "23 de May del 2026 a las 01:42 PM",
+    "hora_utc": "2026-05-23 17:42",
+    "mensaje": "⚠Afectado el servicio eléctrico en los siguientes circuitos:\n🔹Municipio Placetas:\n👉Cto 192 Benito Juárez\n👉Cto 102 Peroti",
+    "timestamp": 1779558169,
+    "timestamp_local": 1779558169
+  },
+  {
     "id": 47011,
     "fecha": "23 de May del 2026 a las 01:38 PM",
     "hora_utc": "2026-05-23 17:38",
@@ -118,45 +150,5 @@
     "mensaje": "⚠️Se encuentra disparado el Cto 141 Manuelita, perteneciente al municipio Santa Clara, se estudian las causas.",
     "timestamp": 1779547393,
     "timestamp_local": 1779547393
-  },
-  {
-    "id": 46996,
-    "fecha": "23 de May del 2026 a las 10:42 AM",
-    "hora_utc": "2026-05-23 14:42",
-    "mensaje": "⚠️Afectado por manipulación la línea del 6375:\n🔹Municipio Santa Clara\n👉Cto 7 Universidad\n👉Cto 146 Elevado Aeropuerto\n👉Cto 22 Construcciones Textil\n👉Cto 131 Las Antillas\n👉Cto 153 EIDE\n👉Cto 25 Los Güiros\n👉Cto 24 Planta Asfalto\n👉Cto 35 Biotecnología \n👉Ctos 14, 15 y 27 Maleza",
-    "timestamp": 1779547327,
-    "timestamp_local": 1779547327
-  },
-  {
-    "id": 46995,
-    "fecha": "23 de May del 2026 a las 10:08 AM",
-    "hora_utc": "2026-05-23 14:08",
-    "mensaje": "Actualización del servicio eléctrico en la provincia.\n👉En este momento la afectación por déficit de capacidad de generación es de 113 MW, demanda máxima posible a apagar en estos momentos.\n👉De los circuitos apagables se mantienen afectados 123.\n👉Cuenta con 171 afectaciones por averías secundarias y de servicio.",
-    "timestamp": 1779545337,
-    "timestamp_local": 1779545337
-  },
-  {
-    "id": 46994,
-    "fecha": "23 de May del 2026 a las 09:56 AM",
-    "hora_utc": "2026-05-23 13:56",
-    "mensaje": "⚠Afectado el servicio eléctrico en los siguientes circuitos:\n🔹Municipio Santa Clara\n👉Cto 132 Santa Clara Industrial\n👉Cto 31 Sakenaf",
-    "timestamp": 1779544615,
-    "timestamp_local": 1779544615
-  },
-  {
-    "id": 46993,
-    "fecha": "23 de May del 2026 a las 09:33 AM",
-    "hora_utc": "2026-05-23 13:33",
-    "mensaje": "⚠Afectado el servicio eléctrico en el siguiente circuito:\n🔹Municipio Santa Clara: \n👉Cto 166 Condado",
-    "timestamp": 1779543210,
-    "timestamp_local": 1779543210
-  },
-  {
-    "id": 46992,
-    "fecha": "23 de May del 2026 a las 09:12 AM",
-    "hora_utc": "2026-05-23 13:12",
-    "mensaje": "💡Con servicio los Ctos 98 y 99, pertenecientes al municipio Placetas.",
-    "timestamp": 1779541972,
-    "timestamp_local": 1779541972
   }
 ]
