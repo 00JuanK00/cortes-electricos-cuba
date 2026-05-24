@@ -1,5 +1,29 @@
 [
   {
+    "id": 47044,
+    "fecha": "24 de May del 2026 a las 04:03 AM",
+    "hora_utc": "2026-05-24 08:03",
+    "mensaje": "Actualización del servicio eléctrico en la provincia.\n👉En este momento la afectación por déficit de capacidad de generación es de 104 MW, demanda máxima posible a apagar en estos momentos.\n👉De los circuitos apagables se mantienen afectados 137.\n👉Cuenta con 145 afectaciones por averías secundarias y de servicio.",
+    "timestamp": 1779609817,
+    "timestamp_local": 1779609817
+  },
+  {
+    "id": 47043,
+    "fecha": "24 de May del 2026 a las 03:08 AM",
+    "hora_utc": "2026-05-24 07:08",
+    "mensaje": "Afectados 106 MW en la provincia, demanda máxima a apagar en estos momentos.",
+    "timestamp": 1779606514,
+    "timestamp_local": 1779606514
+  },
+  {
+    "id": 47042,
+    "fecha": "24 de May del 2026 a las 02:07 AM",
+    "hora_utc": "2026-05-24 06:07",
+    "mensaje": "Actualización del servicio eléctrico en la provincia.\n👉En este momento la afectación por déficit de capacidad de generación es de 109 MW, demanda máxima posible a apagar en estos momentos.\n👉De los circuitos apagables se mantienen afectados 137.\n👉Cuenta con 144 afectaciones por averías secundarias y de servicio.",
+    "timestamp": 1779602878,
+    "timestamp_local": 1779602878
+  },
+  {
     "id": 47041,
     "fecha": "24 de May del 2026 a las 01:00 AM",
     "hora_utc": "2026-05-24 05:00",
@@ -126,29 +150,5 @@
     "mensaje": "⚠Afectado el servicio eléctrico en los siguientes circuitos:\n🔹Municipio Manicaragua:\n👉Ctos 108 y 110 La Piedra",
     "timestamp": 1779567656,
     "timestamp_local": 1779567656
-  },
-  {
-    "id": 47023,
-    "fecha": "23 de May del 2026 a las 04:03 PM",
-    "hora_utc": "2026-05-23 20:03",
-    "mensaje": "Actualización del servicio eléctrico en la provincia.\n👉En este momento la afectación por déficit de capacidad de generación es de 118 MW, demanda máxima posible a apagar en estos momentos.\n👉De los circuitos apagables se mantienen afectados 126.\n👉Cuenta con 155 afectaciones por averías secundarias y de servicio.",
-    "timestamp": 1779566604,
-    "timestamp_local": 1779566604
-  },
-  {
-    "id": 47022,
-    "fecha": "23 de May del 2026 a las 04:01 PM",
-    "hora_utc": "2026-05-23 20:01",
-    "mensaje": "⚠Afectado el servicio eléctrico en el siguiente circuito:\n🔹Municipio Santa Clara\n👉Cto 6 Vigía",
-    "timestamp": 1779566472,
-    "timestamp_local": 1779566472
-  },
-  {
-    "id": 47021,
-    "fecha": "23 de May del 2026 a las 03:45 PM",
-    "hora_utc": "2026-05-23 19:45",
-    "mensaje": "⚠️Se encuentran disparados los Ctos 5 Dobarganes y 17 Subplanta, pertenecientes al municipio Santa Clara, se estudian las causas.",
-    "timestamp": 1779565534,
-    "timestamp_local": 1779565534
   }
 ]
