@@ -1,5 +1,21 @@
 [
   {
+    "id": 47079,
+    "fecha": "24 de May del 2026 a las 06:02 PM",
+    "hora_utc": "2026-05-24 22:02",
+    "mensaje": "⚠Afectado el servicio eléctrico en los siguientes circuitos:\n🔹Municipio Santa Clara\n👉Cto 39 Sandino\n👉Cro 6 Vigía",
+    "timestamp": 1779660178,
+    "timestamp_local": 1779660178
+  },
+  {
+    "id": 47078,
+    "fecha": "24 de May del 2026 a las 05:56 PM",
+    "hora_utc": "2026-05-24 21:56",
+    "mensaje": "🕕Actualización del servicio eléctrico.\n✍️El déficit de capacidad de generación en estos momentos es de 132 MW\n✍️En el momento de esta nota, se mantienen afectados 137 circuitos.\n✍️ Cuenta con 181 afectaciones por averías secundarias y de servicio:\n🔸 Caibarién (1)\n🔸 Cifuentes (5)\n🔸 Corralillo (3)\n🔸 Encrucijada (2)\n🔸 Manicaragua (2)\n🔸 Placetas (3)\n🔸 Ranchuelo (9)\n🔸 Remedios (10) \n🔸 Sagua (14) \n🔸 Santa Clara (68)\n🔸 Santo Domingo (21)\n🛠️Se encuentran 9 averías en vías de solución.\n🛠️Pendientes a solucionar por el área técnica 28.\n✅La provincia no presenta averías primarias.",
+    "timestamp": 1779659814,
+    "timestamp_local": 1779659814
+  },
+  {
     "id": 47077,
     "fecha": "24 de May del 2026 a las 04:26 PM",
     "hora_utc": "2026-05-24 20:26",
@@ -142,21 +158,5 @@
     "mensaje": "Afectados 128 MW en la provincia, demanda máxima a apagar en estos momentos.",
     "timestamp": 1779634847,
     "timestamp_local": 1779634847
-  },
-  {
-    "id": 47059,
-    "fecha": "24 de May del 2026 a las 10:51 AM",
-    "hora_utc": "2026-05-24 14:51",
-    "mensaje": "⚡Afectado el Cto 6 Vigía, perteneciente al Municipio Santa Clara , faltando una fase.",
-    "timestamp": 1779634262,
-    "timestamp_local": 1779634262
-  },
-  {
-    "id": 47058,
-    "fecha": "24 de May del 2026 a las 10:41 AM",
-    "hora_utc": "2026-05-24 14:41",
-    "mensaje": "⚡Afectado el Cto 189, perteneciente al Municipio Ranchuelo por cable primario partido.",
-    "timestamp": 1779633697,
-    "timestamp_local": 1779633697
   }
 ]
