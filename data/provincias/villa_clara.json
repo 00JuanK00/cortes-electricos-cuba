@@ -1,5 +1,45 @@
 [
   {
+    "id": 47060,
+    "fecha": "24 de May del 2026 a las 11:00 AM",
+    "hora_utc": "2026-05-24 15:00",
+    "mensaje": "Afectados 128 MW en la provincia, demanda máxima a apagar en estos momentos.",
+    "timestamp": 1779634847,
+    "timestamp_local": 1779634847
+  },
+  {
+    "id": 47059,
+    "fecha": "24 de May del 2026 a las 10:51 AM",
+    "hora_utc": "2026-05-24 14:51",
+    "mensaje": "⚡Afectado el Cto 6 Vigía, perteneciente al Municipio Santa Clara , faltando una fase.",
+    "timestamp": 1779634262,
+    "timestamp_local": 1779634262
+  },
+  {
+    "id": 47058,
+    "fecha": "24 de May del 2026 a las 10:41 AM",
+    "hora_utc": "2026-05-24 14:41",
+    "mensaje": "⚡Afectado el Cto 189, perteneciente al Municipio Ranchuelo por cable primario partido.",
+    "timestamp": 1779633697,
+    "timestamp_local": 1779633697
+  },
+  {
+    "id": 47057,
+    "fecha": "24 de May del 2026 a las 10:39 AM",
+    "hora_utc": "2026-05-24 14:39",
+    "mensaje": "⚠Afectado el servicio eléctrico en los siguientes circuitos:\n👉Cto 169 Condado\n👉Cto 132 Santa Clara Industrial\n👉Cto 162 Santa Clara Industrial\n👉Cto 170 José Martí\n👉Cto 171 Los Caneyes",
+    "timestamp": 1779633541,
+    "timestamp_local": 1779633541
+  },
+  {
+    "id": 47056,
+    "fecha": "24 de May del 2026 a las 10:34 AM",
+    "hora_utc": "2026-05-24 14:34",
+    "mensaje": "🛠️Afectado por manipulación Línea 861\n➡️Línea 861 \n🔹Municipio Santa Clara:\n👉Cto 5 Dobarganes\n👉Cto 17 Subplanta\n👉Ctos 37 y 38 Yabú \n👉Cto 9 Moldes y Troqueles\n👉Cto 133 Taller Cafetera",
+    "timestamp": 1779633279,
+    "timestamp_local": 1779633279
+  },
+  {
     "id": 47055,
     "fecha": "24 de May del 2026 a las 10:02 AM",
     "hora_utc": "2026-05-24 14:02",
@@ -110,45 +150,5 @@
     "mensaje": "Afectados 112 MW en la provincia, demanda máxima a apagar en estos momentos.",
     "timestamp": 1779598854,
     "timestamp_local": 1779598854
-  },
-  {
-    "id": 47040,
-    "fecha": "24 de May del 2026 a las 12:09 AM",
-    "hora_utc": "2026-05-24 04:09",
-    "mensaje": "🕛Actualización del servicio eléctrico.\n✍️El déficit de capacidad de generación en estos momentos es de 119 MW.\n✍️En el momento de esta nota, se mantienen afectados 137 circuitos.\n✍️ Cuenta con 143 afectaciones por averías secundarias y de servicio:\n🔸 Caibarién (1)\n🔸 Camajuaní (1)\n🔸 Cifuentes (4)\n🔸 Corralillo (4)\n🔸 Manicaragua (14)\n🔸 Placetas (4)\n🔸 Ranchuelo (10)\n🔸 Remedios (6) \n🔸 Sagua (15) \n🔸 Santa Clara (78)\n🔸 Santo Domingo (6)\n🛠️Pendientes a solucionar por el área técnica 22.\n⚡En avería de manera parcial el Cto 17 Subplanta, perteneciente al municipio Santa Clara, se estudian las causas.",
-    "timestamp": 1779595748,
-    "timestamp_local": 1779595748
-  },
-  {
-    "id": 47039,
-    "fecha": "23 de May del 2026 a las 11:25 PM",
-    "hora_utc": "2026-05-24 03:25",
-    "mensaje": "Recordamos a nuestros clientes\n \n1. Si presenta o conoce alguna avería, haga su reporte al Centro de Atención Telefónico mediante el 18888, estamos a su servicio.\n2. Conocer de forma exacta la dirección de su vivienda (número de casa, calle, entre calles, reparto, localidad)\n3. Ubicar un punto de referencia, que permita llegar hasta su vivienda con mayor rapidez (lugar o persona reconocida en la zona)\n4. En caso de un cable caído, aunque usted crea que no está energizado, NO LO TOQUE. Repórtelo y preserve el lugar, hasta que llegue el personal de la Empresa.\n5. Anote el número de su reporte para ser utilizado en caso de reclamaciones, o para comprobar el estado del mismo.\n6. Si usted tiene servicio eléctrico, pero existen variaciones del voltaje, desconecte los equipos, para que no se dañen.",
-    "timestamp": 1779593135,
-    "timestamp_local": 1779593135
-  },
-  {
-    "id": 47038,
-    "fecha": "23 de May del 2026 a las 11:13 PM",
-    "hora_utc": "2026-05-24 03:13",
-    "mensaje": "Afectados 126 MW en la provincia, demanda máxima a apagar en estos momentos.",
-    "timestamp": 1779592423,
-    "timestamp_local": 1779592423
-  },
-  {
-    "id": 47037,
-    "fecha": "23 de May del 2026 a las 11:13 PM",
-    "hora_utc": "2026-05-24 03:13",
-    "mensaje": "✍️Ante cualquier duda conozca sobre la terminología eléctrica\n\n🔹Las averías pueden ser:\n     \n➡️Primarias: Afecta un volumen grande de población pues son las líneas de distribución a 13.8 kV y puede afectar varias manzanas, incluso repartos completos.\n\n➡️Secundarias: Afecta a todos los clientes que se alimenten del mismo transformador, puede afectar una o varias cuadras. \n\n➡️De servicio: Afectan 1 solo cliente o instalación generalmente producto a daños en la acometida, metro contador, etc.).",
-    "timestamp": 1779592398,
-    "timestamp_local": 1779592398
-  },
-  {
-    "id": 47036,
-    "fecha": "23 de May del 2026 a las 10:01 PM",
-    "hora_utc": "2026-05-24 02:01",
-    "mensaje": "Actualización del servicio eléctrico en la provincia.\n👉En este momento la afectación por déficit de capacidad de generación es de 136 MW, demanda máxima posible a apagar en estos momentos.\n👉De los circuitos apagables se mantienen afectados 137.\n👉Cuenta con 146 afectaciones por averías secundarias y de servicio.",
-    "timestamp": 1779588083,
-    "timestamp_local": 1779588083
   }
 ]

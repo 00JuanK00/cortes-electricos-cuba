@@ -1,5 +1,13 @@
 [
   {
+    "id": 19227,
+    "fecha": "24 de May del 2026 a las 11:05 AM",
+    "hora_utc": "2026-05-24 15:05",
+    "mensaje": "Se cierra la vía libre del TK27",
+    "timestamp": 1779635117,
+    "timestamp_local": 1779635117
+  },
+  {
     "id": 19226,
     "fecha": "24 de May del 2026 a las 09:59 AM",
     "hora_utc": "2026-05-24 13:59",
@@ -78,13 +86,5 @@
     "mensaje": "Qué es un disparo por DAF?\nEl Disparo por Frecuencia (DAF) es un mecanismo de protección del sistema eléctrico. Se activa automáticamente cuando la frecuencia desciende por debajo de los valores mínimos seguros (menores de 60 Hz), lo que pone en riesgo la estabilidad del sistema.\nEn ese momento, algunos circuitos se desconectan de forma automática para aliviar la carga y permitir que la frecuencia vuelva a su valor nominal.\nEsto suele ocurrir cuando una planta generadora sale de servicio de manera imprevista, provocando un déficit de generación. El DAF ayuda a evitar un colapso mayor del sistema, aunque puede generar afectaciones al servicio como apagones parciales.",
     "timestamp": 1779558407,
     "timestamp_local": 1779558407
-  },
-  {
-    "id": 19207,
-    "fecha": "23 de May del 2026 a las 01:45 PM",
-    "hora_utc": "2026-05-23 17:45",
-    "mensaje": "🔊Se encuentran afectados por disparo automático por frecuencia (DAF) los circuitos \nTK5 Buena Vista, Los Pinos\n\nTK106 Palancón, Buena Vista",
-    "timestamp": 1779558302,
-    "timestamp_local": 1779558302
   }
 ]
