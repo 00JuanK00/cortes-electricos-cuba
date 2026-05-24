@@ -1,5 +1,29 @@
 [
   {
+    "id": 47077,
+    "fecha": "24 de May del 2026 a las 04:26 PM",
+    "hora_utc": "2026-05-24 20:26",
+    "mensaje": "⚠Afectado el servicio eléctrico en los siguientes circuitos:\n🔹Municipio Santa Clara\n👉Cto 7 Universidad\n👉Cto 22 Construcciones Textil\n👉Cto 131 Las Antillas\n👉Cto 153 EIDE\n👉Cto 25 Los Güiros\n👉Cto 35 Biotecnología\n🔹Municipio Santa Clara:\n👉Cto 5 Dobarganes\n👉Cto 17 Subplanta\n👉Ctos 37 y 38 Yabú \n👉Cto 9 Moldes y Troqueles\n👉Cto 133 Taller Cafetera",
+    "timestamp": 1779654366,
+    "timestamp_local": 1779654366
+  },
+  {
+    "id": 47076,
+    "fecha": "24 de May del 2026 a las 04:23 PM",
+    "hora_utc": "2026-05-24 20:23",
+    "mensaje": "💡Con servicio eléctrico los siguientes circuitos.\n➡️Línea 1785\n🔹Municipio Santa Clara:\n👉Cto 6 Vigía\n👉Cto 34 Sabana Rebacadero\n👉Ctos 32 y 33 (RF-33Kv)\n👉Cto 39 (Sandino)\n\n⚡Avería⚡\n➡️ Línea 129 quedando afectada zona Bombeo Parmarito",
+    "timestamp": 1779654203,
+    "timestamp_local": 1779654203
+  },
+  {
+    "id": 47075,
+    "fecha": "24 de May del 2026 a las 03:59 PM",
+    "hora_utc": "2026-05-24 19:59",
+    "mensaje": "⚠Afectado el servicio eléctrico en los siguientes circuitos:\n🔹Municipio Santa Clara\n👉Cto 30 y 193 Santa Clara Industrial",
+    "timestamp": 1779652759,
+    "timestamp_local": 1779652759
+  },
+  {
     "id": 47074,
     "fecha": "24 de May del 2026 a las 03:57 PM",
     "hora_utc": "2026-05-24 19:57",
@@ -134,29 +158,5 @@
     "mensaje": "⚡Afectado el Cto 189, perteneciente al Municipio Ranchuelo por cable primario partido.",
     "timestamp": 1779633697,
     "timestamp_local": 1779633697
-  },
-  {
-    "id": 47057,
-    "fecha": "24 de May del 2026 a las 10:39 AM",
-    "hora_utc": "2026-05-24 14:39",
-    "mensaje": "⚠Afectado el servicio eléctrico en los siguientes circuitos:\n👉Cto 169 Condado\n👉Cto 132 Santa Clara Industrial\n👉Cto 162 Santa Clara Industrial\n👉Cto 170 José Martí\n👉Cto 171 Los Caneyes",
-    "timestamp": 1779633541,
-    "timestamp_local": 1779633541
-  },
-  {
-    "id": 47056,
-    "fecha": "24 de May del 2026 a las 10:34 AM",
-    "hora_utc": "2026-05-24 14:34",
-    "mensaje": "🛠️Afectado por manipulación Línea 861\n➡️Línea 861 \n🔹Municipio Santa Clara:\n👉Cto 5 Dobarganes\n👉Cto 17 Subplanta\n👉Ctos 37 y 38 Yabú \n👉Cto 9 Moldes y Troqueles\n👉Cto 133 Taller Cafetera",
-    "timestamp": 1779633279,
-    "timestamp_local": 1779633279
-  },
-  {
-    "id": 47055,
-    "fecha": "24 de May del 2026 a las 10:02 AM",
-    "hora_utc": "2026-05-24 14:02",
-    "mensaje": "Actualización del servicio eléctrico en la provincia.\n👉En este momento la afectación por déficit de capacidad de generación es de 121 MW, demanda máxima posible a apagar en estos momentos.\n👉De los circuitos apagables se mantienen afectados 137.\n👉Cuenta con 156 afectaciones por averías secundarias y de servicio.",
-    "timestamp": 1779631324,
-    "timestamp_local": 1779631324
   }
 ]
