@@ -1,5 +1,29 @@
 [
   {
+    "id": 53890,
+    "fecha": "24 de May del 2026 a las 12:30 PM",
+    "hora_utc": "2026-05-24 16:30",
+    "mensaje": "🚨**Déficit de Capacidad de Generación:                                **\n**Se produce cuando la demanda del Sistema Eléctrico Nacional,en determinado horario del día supera la generación disponible del país ,provocando la desconexión de los circuitos o líneas que permitan garantizar la frecuencia del SEN.**",
+    "timestamp": 1779640231,
+    "timestamp_local": 1779640231
+  },
+  {
+    "id": 53889,
+    "fecha": "24 de May del 2026 a las 12:30 PM",
+    "hora_utc": "2026-05-24 16:30",
+    "mensaje": "🚨Estimados clientes en estos momentos se encuentra afectado por Déficit el circuito 14.",
+    "timestamp": 1779640200,
+    "timestamp_local": 1779640200
+  },
+  {
+    "id": 53887,
+    "fecha": "24 de May del 2026 a las 11:48 AM",
+    "hora_utc": "2026-05-24 15:48",
+    "mensaje": "🔴Estimados clientes en estos momentos se encuentran afectados por Déficit los circuitos 20 y 17.",
+    "timestamp": 1779637681,
+    "timestamp_local": 1779637681
+  },
+  {
     "id": 53886,
     "fecha": "24 de May del 2026 a las 11:39 AM",
     "hora_utc": "2026-05-24 15:39",
@@ -118,29 +142,5 @@
     "mensaje": "🔴Estimados clientes se les informa que se incorporan a la afectación el circuito 25 y las líneas 5390 La Maya , la 4260 ll Frente.",
     "timestamp": 1779603615,
     "timestamp_local": 1779603615
-  },
-  {
-    "id": 53869,
-    "fecha": "24 de May del 2026 a las 01:20 AM",
-    "hora_utc": "2026-05-24 05:20",
-    "mensaje": "🔴Estimados clientes se les informa que se incorporan  a la afectación los circuitos 14 y el 7 seccionalizado .",
-    "timestamp": 1779600028,
-    "timestamp_local": 1779600028
-  },
-  {
-    "id": 53868,
-    "fecha": "23 de May del 2026 a las 11:41 PM",
-    "hora_utc": "2026-05-24 03:41",
-    "mensaje": "🔴Estimados clientes se les informa que se incorpora a la afectación el circuito 1.",
-    "timestamp": 1779594091,
-    "timestamp_local": 1779594091
-  },
-  {
-    "id": 53867,
-    "fecha": "23 de May del 2026 a las 11:24 PM",
-    "hora_utc": "2026-05-24 03:24",
-    "mensaje": "🔴Estimados clientes se les informa que se incorpora a la afectación el circuito 4 de Palma.",
-    "timestamp": 1779593043,
-    "timestamp_local": 1779593043
   }
 ]
