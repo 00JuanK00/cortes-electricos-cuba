@@ -1,5 +1,21 @@
 [
   {
+    "id": 19256,
+    "fecha": "25 de May del 2026 a las 03:38 PM",
+    "hora_utc": "2026-05-25 19:38",
+    "mensaje": "Qué es un disparo por DAF?\nEl Disparo por Frecuencia (DAF) es un mecanismo de protección del sistema eléctrico. Se activa automáticamente cuando la frecuencia desciende por debajo de los valores mínimos seguros (menores de 60 Hz), lo que pone en riesgo la estabilidad del sistema.\nEn ese momento, algunos circuitos se desconectan de forma automática para aliviar la carga y permitir que la frecuencia vuelva a su valor nominal.\nEsto suele ocurrir cuando una planta generadora sale de servicio de manera imprevista, provocando un déficit de generación. El DAF ayuda a evitar un colapso mayor del sistema, aunque puede generar afectaciones al servicio como apagones parciales.",
+    "timestamp": 1779737905,
+    "timestamp_local": 1779737905
+  },
+  {
+    "id": 19255,
+    "fecha": "25 de May del 2026 a las 03:38 PM",
+    "hora_utc": "2026-05-25 19:38",
+    "mensaje": "Se encuentran disparados por DAF los siguientes circuitos:\nTK5 Buena Vista, Los Pinos\nTK106 Palancón, Buena Vista",
+    "timestamp": 1779737883,
+    "timestamp_local": 1779737883
+  },
+  {
     "id": 19253,
     "fecha": "25 de May del 2026 a las 02:10 PM",
     "hora_utc": "2026-05-25 18:10",
@@ -62,13 +78,5 @@
     "mensaje": "El robo de conductores eléctricos trae consigo consecuencias graves tanto para la población como para la propia infraestructura del sistema. Al sustraer estos materiales esenciales para la transmisión y distribución de la energía, se generan interrupciones en el suministro que afectan hogares, centros de trabajo, hospitales y servicios básicos. Además, provoca daños costosos a la red eléctrica y retrasa la normalización del servicio, pues su reposición exige un esfuerzo adicional de recursos humanos y materiales. A ello se suman los riesgos de accidentes eléctricos para quienes cometen el delito y para la comunidad, así como las sanciones legales que enfrentan los responsables. En definitiva, este tipo de acciones atenta contra el patrimonio institucional y el bienestar colectivo, comprometiendo la estabilidad del Sistema Electroenergético Nacional.\n#NoAlDelito.",
     "timestamp": 1779668481,
     "timestamp_local": 1779668481
-  },
-  {
-    "id": 19234,
-    "fecha": "24 de May del 2026 a las 08:18 PM",
-    "hora_utc": "2026-05-25 00:18",
-    "mensaje": "🔊Informamos a nuestros clientes que en este momento nos encontramos en la máxima capacidad apagable, lo que impide el restablecimiento inmediato del servicio eléctrico en los circuitos afectados. La situación podrá mejorar en la medida en que el Sistema Electroenergético Nacional permita recuperar la capacidad de generación.Ofrecemos disculpas por las molestas ocasionadas",
-    "timestamp": 1779668286,
-    "timestamp_local": 1779668286
   }
 ]
