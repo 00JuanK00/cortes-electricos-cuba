@@ -1,5 +1,37 @@
 [
   {
+    "id": 19276,
+    "fecha": "26 de May del 2026 a las 03:03 PM",
+    "hora_utc": "2026-05-26 19:03",
+    "mensaje": "📌 Estimados clientes📌\n\nDespacho de Carga:\nEl despacho de carga es el responsable de la operación y supervisión coordinada en tiempo real, de las operaciones en las instalaciones que participan en los procesos de generación, transmisión y distribución de la energía eléctrica, a fin de garantizar un servicio de calidad para todos los clientes del sistema.",
+    "timestamp": 1779822190,
+    "timestamp_local": 1779822190
+  },
+  {
+    "id": 19275,
+    "fecha": "26 de May del 2026 a las 02:28 PM",
+    "hora_utc": "2026-05-26 18:28",
+    "mensaje": "Se encuentra en avería el circuito de 33Kv 6840 Amancio.",
+    "timestamp": 1779820082,
+    "timestamp_local": 1779820082
+  },
+  {
+    "id": 19274,
+    "fecha": "26 de May del 2026 a las 02:27 PM",
+    "hora_utc": "2026-05-26 18:27",
+    "mensaje": "Se encuentra disparado el circuito Tk19 San Antonio de la carretera de Jobabo.",
+    "timestamp": 1779820020,
+    "timestamp_local": 1779820020
+  },
+  {
+    "id": 19272,
+    "fecha": "26 de May del 2026 a las 02:13 PM",
+    "hora_utc": "2026-05-26 18:13",
+    "mensaje": "🚨Empresa Eléctrica de Las Tunas les recuerda que desde el día 15 su factura de electricidad se encontrará vencida.                                                       Evite las molestias de última hora⏱ o la interrupción del servicio. Le sugerimos realizar su pago 💵 a la brevedad posible a través de:\n\n⚡Oficinas comerciales.\n⚡ Lectores- cobradores.\n⚡ Plataformas digitales (Transfermóvil, Enzona**)**: ¡Más rápido, cómodo y con bonificación!\n⚡ Cajeros automáticos \n\n💡¡Mantenga su factura al día 📅 y ayúdenos a mejorar nuestros servicios!",
+    "timestamp": 1779819198,
+    "timestamp_local": 1779819198
+  },
+  {
     "id": 19271,
     "fecha": "26 de May del 2026 a las 12:15 PM",
     "hora_utc": "2026-05-26 16:15",
@@ -78,29 +110,5 @@
     "mensaje": "Qué es un disparo por DAF?\nEl Disparo por Frecuencia (DAF) es un mecanismo de protección del sistema eléctrico. Se activa automáticamente cuando la frecuencia desciende por debajo de los valores mínimos seguros (menores de 60 Hz), lo que pone en riesgo la estabilidad del sistema.\nEn ese momento, algunos circuitos se desconectan de forma automática para aliviar la carga y permitir que la frecuencia vuelva a su valor nominal.\nEsto suele ocurrir cuando una planta generadora sale de servicio de manera imprevista, provocando un déficit de generación. El DAF ayuda a evitar un colapso mayor del sistema, aunque puede generar afectaciones al servicio como apagones parciales.",
     "timestamp": 1779737905,
     "timestamp_local": 1779737905
-  },
-  {
-    "id": 19255,
-    "fecha": "25 de May del 2026 a las 03:38 PM",
-    "hora_utc": "2026-05-25 19:38",
-    "mensaje": "Se encuentran disparados por DAF los siguientes circuitos:\nTK5 Buena Vista, Los Pinos\nTK106 Palancón, Buena Vista",
-    "timestamp": 1779737883,
-    "timestamp_local": 1779737883
-  },
-  {
-    "id": 19253,
-    "fecha": "25 de May del 2026 a las 02:10 PM",
-    "hora_utc": "2026-05-25 18:10",
-    "mensaje": "La Empresa Eléctrica Las Tunas informa que, según la nota emitida por la Unión Eléctrica para el 25 de mayo, en el día de ayer se afectó el servicio por déficit de capacidad durante las 24 horas y se mantuvo la afectación durante todo el horario de la madrugada. En nuestra provincia se afectaron la totalidad de los circuitos apagables, con una máxima afectación de 81.7 MW.\nActualmente están fuera de servicio por avería la Unidad 1 de la CTE Ernesto Guevara De La Serna, Unidad de la CTE Antonio Guiteras, Unidad 2 de la CTE Lidio Ramón Pérez y las Unidades 3 y 5 de la CTE Antonio Maceo. En mantenimiento se encuentran la Unidad 5 de la CTE Mariel, Unidad 6 de la CTE Renté, Unidad 5 de la CTE Nuevitas.\nEn el horario de la media se estima un déficit en el país de 1600 MW, lo cual representa para nuestra provincia la totalidad de los circuitos apagables.\nEn el horario pico nocturno se prevén 2147 MW de afectación, en Las Tunas puede extenderse igualmente a todos los circuitos apagables, debido al alto déficit de capacidad de generación existente.\nEstos valores pueden variar según la demanda nacional.",
-    "timestamp": 1779732643,
-    "timestamp_local": 1779732643
-  },
-  {
-    "id": 19251,
-    "fecha": "25 de May del 2026 a las 01:57 PM",
-    "hora_utc": "2026-05-25 17:57",
-    "mensaje": "🟢 11:32 || En Línea la Unidad 1 de la CTE Ernesto Guevara De La Serna.",
-    "timestamp": 1779731825,
-    "timestamp_local": 1779731825
   }
 ]
