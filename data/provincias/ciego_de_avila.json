@@ -1,5 +1,21 @@
 [
   {
+    "id": 38450,
+    "fecha": "26 de May del 2026 a las 06:32 PM",
+    "hora_utc": "2026-05-26 22:32",
+    "mensaje": "‼️ Información ‼️   \n👉En estos momentos tenemos 90 MW en la provincia afectados por déficit de generación. Con este déficit no podemos cumplir con una programación estable, por lo que los circuitos se afectarán o se restablecerán en dependencia del déficit que haya en cada momento de la jornada.",
+    "timestamp": 1779834740,
+    "timestamp_local": 1779834740
+  },
+  {
+    "id": 38449,
+    "fecha": "26 de May del 2026 a las 05:22 PM",
+    "hora_utc": "2026-05-26 21:22",
+    "mensaje": "✅ Información.\n👉 Se encuentra en fallo los circuitos Cítrico II, Isaca y Santana se recorren las líneas para encontrar la avería .",
+    "timestamp": 1779830521,
+    "timestamp_local": 1779830521
+  },
+  {
     "id": 38448,
     "fecha": "26 de May del 2026 a las 04:24 PM",
     "hora_utc": "2026-05-26 20:24",
@@ -134,21 +150,5 @@
     "mensaje": "‼️ Información del déficit de generación ‼️   \n👉Tenemos 77 MW en la provincia afectados por déficit de generación.\n⏰ Con este déficit, la carga a apagar en la provincia no nos permite realizar una rotación estable de los circuitos, por lo que se afectarán o se restablecerán en dependencia del déficit que haya en cada momento de la jornada, que es muy variable.",
     "timestamp": 1779732164,
     "timestamp_local": 1779732164
-  },
-  {
-    "id": 38429,
-    "fecha": "25 de May del 2026 a las 12:37 PM",
-    "hora_utc": "2026-05-25 16:37",
-    "mensaje": "✅Información.\n👉 Se restablece el circuito de  Bolivia.",
-    "timestamp": 1779727020,
-    "timestamp_local": 1779727020
-  },
-  {
-    "id": 38428,
-    "fecha": "25 de May del 2026 a las 12:33 PM",
-    "hora_utc": "2026-05-25 16:33",
-    "mensaje": "‼️ Información ‼️   \nDebido a la situación energética que tiene el país, nos es imposible cumplir con una programación de afectaciones. En estos momentos tenemos 80MW en la provincia afectados. Reiteramos que los circuitos se afectarán o se restablecerán en dependencia del déficit en cada momento del día.",
-    "timestamp": 1779726806,
-    "timestamp_local": 1779726806
   }
 ]
