@@ -1,5 +1,21 @@
 [
   {
+    "id": 38448,
+    "fecha": "26 de May del 2026 a las 04:24 PM",
+    "hora_utc": "2026-05-26 20:24",
+    "mensaje": "✅ Información.\n👉 Se encuentra sin servicio los circuitos Cítrico II, Isaca y Santana se recorren las líneas para encontrar la avería .",
+    "timestamp": 1779827063,
+    "timestamp_local": 1779827063
+  },
+  {
+    "id": 38447,
+    "fecha": "26 de May del 2026 a las 04:09 PM",
+    "hora_utc": "2026-05-26 20:09",
+    "mensaje": "‼️ Información del déficit de generación ‼️   \n👉 Subimos a  88 MW en la provincia afectados por déficit de generación.\n⏰ Con este déficit, la carga a apagar en la provincia no nos permite realizar una rotación estable de los circuitos, por lo que se afectarán o se restablecerán en dependencia del déficit que haya en cada momento de la jornada, que es muy variable.",
+    "timestamp": 1779826176,
+    "timestamp_local": 1779826176
+  },
+  {
     "id": 38446,
     "fecha": "26 de May del 2026 a las 12:29 PM",
     "hora_utc": "2026-05-26 16:29",
@@ -134,21 +150,5 @@
     "mensaje": "‼️ Información ‼️   \nDebido a la situación energética que tiene el país, nos es imposible cumplir con una programación de afectaciones. En estos momentos tenemos 80MW en la provincia afectados. Reiteramos que los circuitos se afectarán o se restablecerán en dependencia del déficit en cada momento del día.",
     "timestamp": 1779726806,
     "timestamp_local": 1779726806
-  },
-  {
-    "id": 38427,
-    "fecha": "25 de May del 2026 a las 11:08 AM",
-    "hora_utc": "2026-05-25 15:08",
-    "mensaje": "🔊Información🔊\n\n✅ Se encuentran sin servicio eléctrico y con fase caída en  el circuito Bolivia por avería en la Subestación. Se trabaja para restablecer en el menor tiempo posible.",
-    "timestamp": 1779721721,
-    "timestamp_local": 1779721721
-  },
-  {
-    "id": 38426,
-    "fecha": "25 de May del 2026 a las 11:00 AM",
-    "hora_utc": "2026-05-25 15:00",
-    "mensaje": "‼️ Información ‼️   \n👉En estos momentos tenemos 78 MW en la provincia afectados por déficit de generación. Con este déficit no podemos cumplir con una programación estable, por lo que los circuitos se afectarán o se restablecerán en dependencia del déficit que haya en cada momento de la jornada.",
-    "timestamp": 1779721235,
-    "timestamp_local": 1779721235
   }
 ]
