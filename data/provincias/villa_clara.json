@@ -1,5 +1,37 @@
 [
   {
+    "id": 47232,
+    "fecha": "27 de May del 2026 a las 06:37 AM",
+    "hora_utc": "2026-05-27 10:37",
+    "mensaje": "⚠Afectado el servicio eléctrico en el siguiente circuito:\n🔹Municipio Santa Clara:\n👉Cto 168 Condado - XX Aniversario",
+    "timestamp": 1779878237,
+    "timestamp_local": 1779878237
+  },
+  {
+    "id": 47231,
+    "fecha": "27 de May del 2026 a las 06:29 AM",
+    "hora_utc": "2026-05-27 10:29",
+    "mensaje": "⚠Afectado el servicio eléctrico en los siguientes circuitos:\n🔹Municipio Santa Clara: \n👉Cto 167 Virginia\n👉Cto 170 José Martí",
+    "timestamp": 1779877749,
+    "timestamp_local": 1779877749
+  },
+  {
+    "id": 47230,
+    "fecha": "27 de May del 2026 a las 06:26 AM",
+    "hora_utc": "2026-05-27 10:26",
+    "mensaje": "🕕Actualización del servicio eléctrico.\n✍️El déficit de capacidad de generación en estos momentos es de 115 MW.\n✍️En el momento de esta nota, se mantienen afectados 139 circuitos.\n✍️ Cuenta con 156 afectaciones por averías secundarias y de servicio:\n🔸 Caibarién (3)\n🔸Camajuaní (3)\n🔸 Cifuentes (9)\n🔸 Corralillo (2)\n🔸 Encrucijada (9)\n🔸 Manicaragua (8)\n🔸 Placetas (3)\n🔸 Ranchuelo (18)\n🔸 Remedios (9) \n🔸 Sagua (27) \n🔸 Santa Clara (34)\n🔸 Santo Domingo (18)\n🛠️Se encuentra 1 avería en vías de solución.\n🛠️Pendientes a solucionar por el área técnica 13.\n⚡Averías⚡\n⚡Afectado el circuito 57 Motembo, del municipio Corralillo, por transformador de la subestación dañado.",
+    "timestamp": 1779877600,
+    "timestamp_local": 1779877600
+  },
+  {
+    "id": 47229,
+    "fecha": "27 de May del 2026 a las 04:18 AM",
+    "hora_utc": "2026-05-27 08:18",
+    "mensaje": "Actualización del servicio eléctrico en la provincia.\n👉En este momento la afectación por déficit de capacidad de generación es de 110 MW, demanda máxima posible a apagar en estos momentos.\n👉De los circuitos apagables se mantienen afectados 139.\n👉Cuenta con 152 afectaciones por averías secundarias  de servicio.",
+    "timestamp": 1779869902,
+    "timestamp_local": 1779869902
+  },
+  {
     "id": 47227,
     "fecha": "27 de May del 2026 a las 02:02 AM",
     "hora_utc": "2026-05-27 06:02",
@@ -110,45 +142,5 @@
     "mensaje": "⚠Afectado el servicio eléctrico en el siguiente circuito:\n🔹Municipio Camajuaní:\n👉Cto 74 José María Pérez",
     "timestamp": 1779841324,
     "timestamp_local": 1779841324
-  },
-  {
-    "id": 47212,
-    "fecha": "26 de May del 2026 a las 07:58 PM",
-    "hora_utc": "2026-05-26 23:58",
-    "mensaje": "Actualización del servicio eléctrico en la provincia.\n👉En este momento la afectación por déficit de capacidad de generación es de 158 MW, demanda máxima posible a apagar en estos momentos.\n👉De los circuitos apagables se mantienen afectados 140.\n👉Cuenta con 144 afectaciones por averías secundarias y de servicio.",
-    "timestamp": 1779839883,
-    "timestamp_local": 1779839883
-  },
-  {
-    "id": 47211,
-    "fecha": "26 de May del 2026 a las 07:53 PM",
-    "hora_utc": "2026-05-26 23:53",
-    "mensaje": "Con servicio el circuito 68 y  parcialmente restablecido el circuito 118 del municipio de Remedios. (Quedan afectados los Bombeos Papa, El Limón, Caña Brava, Finca Las Herreras y Guanabanabo).",
-    "timestamp": 1779839626,
-    "timestamp_local": 1779839626
-  },
-  {
-    "id": 47210,
-    "fecha": "26 de May del 2026 a las 07:41 PM",
-    "hora_utc": "2026-05-26 23:41",
-    "mensaje": "⚠Afectado el servicio eléctrico en el siguiente circuito:\n🔹Municipio Santa Clara:\n👉Cto 13 Zona Industrial",
-    "timestamp": 1779838909,
-    "timestamp_local": 1779838909
-  },
-  {
-    "id": 47209,
-    "fecha": "26 de May del 2026 a las 07:11 PM",
-    "hora_utc": "2026-05-26 23:11",
-    "mensaje": "🛠 En vía libre los circuitos 68 y 118 (13 KV), del municipio de Remedios para reparar puentes primarios partidos a la salida de la subestación.",
-    "timestamp": 1779837086,
-    "timestamp_local": 1779837086
-  },
-  {
-    "id": 47208,
-    "fecha": "26 de May del 2026 a las 06:47 PM",
-    "hora_utc": "2026-05-26 22:47",
-    "mensaje": "⚠Afectado el servicio eléctrico en el siguiente circuito:\n🔹Municipio Camajuaní:\n👉Cto 185 Vueltas",
-    "timestamp": 1779835669,
-    "timestamp_local": 1779835669
   }
 ]
