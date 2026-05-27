@@ -1,5 +1,37 @@
 [
   {
+    "id": 19296,
+    "fecha": "27 de May del 2026 a las 03:40 PM",
+    "hora_utc": "2026-05-27 19:40",
+    "mensaje": "💡Restablecido el servicio eléctrico a los circuitos que se encontraban afectados por disparo automático por frecuencia (DAF)",
+    "timestamp": 1779910804,
+    "timestamp_local": 1779910804
+  },
+  {
+    "id": 19295,
+    "fecha": "27 de May del 2026 a las 03:11 PM",
+    "hora_utc": "2026-05-27 19:11",
+    "mensaje": "Qué es un disparo por DAF?\nEl Disparo por Frecuencia (DAF) es un mecanismo de protección del sistema eléctrico. Se activa automáticamente cuando la frecuencia desciende por debajo de los valores mínimos seguros (menores de 60 Hz), lo que pone en riesgo la estabilidad del sistema.\nEn ese momento, algunos circuitos se desconectan de forma automática para aliviar la carga y permitir que la frecuencia vuelva a su valor nominal.\nEsto suele ocurrir cuando una planta generadora sale de servicio de manera imprevista, provocando un déficit de generación. El DAF ayuda a evitar un colapso mayor del sistema, aunque puede generar afectaciones al servicio como apagones parciales.",
+    "timestamp": 1779909084,
+    "timestamp_local": 1779909084
+  },
+  {
+    "id": 19294,
+    "fecha": "27 de May del 2026 a las 03:10 PM",
+    "hora_utc": "2026-05-27 19:10",
+    "mensaje": "Se encuentran disparados por DAF los siguientes circuitos:\nTK5 Buena Vista, Los Pinos\nTK106 Palancón, Buena Vista",
+    "timestamp": 1779909029,
+    "timestamp_local": 1779909029
+  },
+  {
+    "id": 19293,
+    "fecha": "27 de May del 2026 a las 02:48 PM",
+    "hora_utc": "2026-05-27 18:48",
+    "mensaje": "📌 Estimados clientes 📌\n〽️El Sistema Electroenergético Nacional (SEN) tiene varios regímenes de operación, esto es fundamentalmente porque las cargas de los circuitos son variables, con sus características específicas y sus actividades propias, tanto estatales como de los demás sectores de la sociedad. 💡Durante el día se le llama “media”, al pico “máxima” y en la madrugada “mínima”. \n📊El déficit de capacidad de generación (apagón) puede variar sus cifras: los mayores valores son en el pico, los menores en la madrugada y en el día se comportan entre el máximo y el mínimo.\n✅Como resultado, con una cantidad de circuitos afectados, puede modificarse el déficit, con los mismos circuitos sin servicio eléctrico.",
+    "timestamp": 1779907731,
+    "timestamp_local": 1779907731
+  },
+  {
     "id": 19288,
     "fecha": "27 de May del 2026 a las 10:02 AM",
     "hora_utc": "2026-05-27 14:02",
@@ -54,37 +86,5 @@
     "mensaje": "Se encuentra disparado por tormenta el circuito:\nCircuito 33 Kv: 6810\nTK82 Tana\nTK83 Las Maboas\nTK113 La Aurora\nTK74 La Lomita\nTK110 El Batey\n6810 Poblado Amancio",
     "timestamp": 1779832443,
     "timestamp_local": 1779832443
-  },
-  {
-    "id": 19276,
-    "fecha": "26 de May del 2026 a las 03:03 PM",
-    "hora_utc": "2026-05-26 19:03",
-    "mensaje": "📌 Estimados clientes📌\n\nDespacho de Carga:\nEl despacho de carga es el responsable de la operación y supervisión coordinada en tiempo real, de las operaciones en las instalaciones que participan en los procesos de generación, transmisión y distribución de la energía eléctrica, a fin de garantizar un servicio de calidad para todos los clientes del sistema.",
-    "timestamp": 1779822190,
-    "timestamp_local": 1779822190
-  },
-  {
-    "id": 19275,
-    "fecha": "26 de May del 2026 a las 02:28 PM",
-    "hora_utc": "2026-05-26 18:28",
-    "mensaje": "Se encuentra en avería el circuito de 33Kv 6840 Amancio.",
-    "timestamp": 1779820082,
-    "timestamp_local": 1779820082
-  },
-  {
-    "id": 19274,
-    "fecha": "26 de May del 2026 a las 02:27 PM",
-    "hora_utc": "2026-05-26 18:27",
-    "mensaje": "Se encuentra disparado el circuito Tk19 San Antonio de la carretera de Jobabo.",
-    "timestamp": 1779820020,
-    "timestamp_local": 1779820020
-  },
-  {
-    "id": 19272,
-    "fecha": "26 de May del 2026 a las 02:13 PM",
-    "hora_utc": "2026-05-26 18:13",
-    "mensaje": "🚨Empresa Eléctrica de Las Tunas les recuerda que desde el día 15 su factura de electricidad se encontrará vencida.                                                       Evite las molestias de última hora⏱ o la interrupción del servicio. Le sugerimos realizar su pago 💵 a la brevedad posible a través de:\n\n⚡Oficinas comerciales.\n⚡ Lectores- cobradores.\n⚡ Plataformas digitales (Transfermóvil, Enzona**)**: ¡Más rápido, cómodo y con bonificación!\n⚡ Cajeros automáticos \n\n💡¡Mantenga su factura al día 📅 y ayúdenos a mejorar nuestros servicios!",
-    "timestamp": 1779819198,
-    "timestamp_local": 1779819198
   }
 ]
