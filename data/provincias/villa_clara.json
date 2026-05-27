@@ -1,9 +1,49 @@
 [
   {
+    "id": 47278,
+    "fecha": "27 de May del 2026 a las 05:02 PM",
+    "hora_utc": "2026-05-27 21:02",
+    "mensaje": "⚠Afectado el servicio eléctrico en los siguientes circuitos:\n🔹Municipio Santa Clara\n👉Cto 30 y 193 Santa Clara Industrial",
+    "timestamp": 1779915762,
+    "timestamp_local": 1779915762
+  },
+  {
+    "id": 47277,
+    "fecha": "27 de May del 2026 a las 04:31 PM",
+    "hora_utc": "2026-05-27 20:31",
+    "mensaje": "⚠Continúan afectados por déficit de capacidad de generacion los siguientes circuitos:\n🔹Municipio Manicaragua:\n👉Ctos 108 y 110 La Piedra",
+    "timestamp": 1779913914,
+    "timestamp_local": 1779913914
+  },
+  {
+    "id": 47276,
+    "fecha": "27 de May del 2026 a las 04:27 PM",
+    "hora_utc": "2026-05-27 20:27",
+    "mensaje": "⚠Afectado el servicio eléctrico en los siguientes circuitos:\n🔹Municipio Manicaragua:\n👉Ctos 109 (Afectado parcialmente )\n👉Ctos 150",
+    "timestamp": 1779913640,
+    "timestamp_local": 1779913640
+  },
+  {
+    "id": 47275,
+    "fecha": "27 de May del 2026 a las 04:13 PM",
+    "hora_utc": "2026-05-27 20:13",
+    "mensaje": "Actualización del servicio eléctrico en la provincia.\n👉En este momento la afectación por déficit de capacidad de generación es de 134 MW, demanda máxima posible a apagar en estos momentos.\n👉De los circuitos apagables se mantienen afectados 139.\n👉Cuenta con 138 afectaciones por averías secundarias  de servicio.",
+    "timestamp": 1779912781,
+    "timestamp_local": 1779912781
+  },
+  {
+    "id": 47274,
+    "fecha": "27 de May del 2026 a las 04:05 PM",
+    "hora_utc": "2026-05-27 20:05",
+    "mensaje": "⚠Afectado el servicio eléctrico en los siguientes circuitos:\n🔹Municipio Santa Clara:\n👉Cto 5 Dobarganes\n👉Cto 17 Subplanta\n👉Ctos 37 y 38 Yabú \n👉Cto 9 Moldes y Troqueles\n👉Cto 133 Taller Cafetera",
+    "timestamp": 1779912349,
+    "timestamp_local": 1779912349
+  },
+  {
     "id": 47273,
     "fecha": "27 de May del 2026 a las 03:43 PM",
     "hora_utc": "2026-05-27 19:43",
-    "mensaje": "💡Restablecido el servicio eléctrico: \n🔹Municipio Santa Clara\n👉Cto 40 Hospital Militar \n👉Cto 4 Consejo- Centro",
+    "mensaje": "💡Restablecido el servicio eléctrico en los siguientes circuitos: \n🔹Municipio Santa Clara\n👉Cto 40 Hospital Militar \n👉Cto 4 Consejo- Centro",
     "timestamp": 1779911001,
     "timestamp_local": 1779911001
   },
@@ -11,7 +51,7 @@
     "id": 47272,
     "fecha": "27 de May del 2026 a las 03:40 PM",
     "hora_utc": "2026-05-27 19:40",
-    "mensaje": "💡Restablecido el servicio electrico :\n🔹Municipio Caibarién:\n👉 Ctos 61, 62\n🔹Municipio Caibarién\n👉Ctos 63 y 64\n👉Ctos 182 y 183 Van Troy",
+    "mensaje": "💡Restablecido el servicio electrico en los siguientes circuitos:\n🔹Municipio Caibarién:\n👉 Ctos 61, 62\n👉Ctos 63 y 64\n👉Ctos 182 y 183 Van Troy",
     "timestamp": 1779910810,
     "timestamp_local": 1779910810
   },
@@ -27,7 +67,7 @@
     "id": 47270,
     "fecha": "27 de May del 2026 a las 03:22 PM",
     "hora_utc": "2026-05-27 19:22",
-    "mensaje": "⚡Disparo por tormenta electrica afectando las Lineas 6580, 6585  ,1375 1380 y1365 sus circuitos son:\n🔹Municipio Camajuaní:\n👉Ctos 77, 59 y 185 Vueltas\n🔹Municipio Camajuaní:\n👉Ctos  72, 73, 129 y 156 \n👉Cto 74 José María Pérez\n🔹Municipio Caibarién:\n👉 Ctos 61, 62\n🔹Municipio Caibarién\n👉Ctos 63 y 64\n👉Ctos 182 y 183 Van Troy\n🔹Municipio Remedios:\n👉Ctos 67 y 152, 68 y 118 \n👉Ctos 69 y 70 Zuluetas\n👉Cto 143 Batey Heriberto Duquezne \n👉Cto 71 Buena Vista",
+    "mensaje": "⚡Se encuentran disparados por tormenta electrica  las  siguientes lineas 6580, 6585  ,1375, 1380 y 1365:\n🔹Municipio Camajuaní:\n👉Ctos 77, 59 y 185 Vueltas\n👉Ctos  72, 73, 129 y 156 \n👉Cto 74 José María Pérez\n🔹Municipio Caibarién:\n👉 Ctos 61, 62\n👉Ctos 63 y 64\n👉Ctos 182 y 183 Van Troy\n🔹Municipio Remedios:\n👉Ctos 67 y 152, 68 y 118 \n👉Ctos 69 y 70 Zuluetas\n👉Cto 143 Batey Heriberto Duquezne \n👉Cto 71 Buena Vista",
     "timestamp": 1779909741,
     "timestamp_local": 1779909741
   },
@@ -118,45 +158,5 @@
     "mensaje": "⚠Disparo en el Cto 6 Vigía perteneciente al municipio Santa Clara. Se estudian las causas\n🛠Afectado por Via Libre los siguientes circuitos pertenecientes al municipio de Remedios para realizar cambio de transformador de fuerza 4kV\n👉 CTO 67 \n👉CTO 152\n🛠Se encuentran afectados por avería los siguientes circuitos \n🔹Municipio Caibarién \n👉Cto 63 y 64\n⚡Afectado el circuito 57 Motembo, del municipio Corralillo, por transformador de la subestación dañado.\n⚡Afectado parcialmente el circuito 118 del municipio de Remedios. (Quedan afectados los Bombeos Papa, El Limón, Caña Brava, Finca Las Herreras y Guanabanabo).",
     "timestamp": 1779898520,
     "timestamp_local": 1779898520
-  },
-  {
-    "id": 47258,
-    "fecha": "27 de May del 2026 a las 12:12 PM",
-    "hora_utc": "2026-05-27 16:12",
-    "mensaje": "🕛Actualización del servicio eléctrico.\n✍️El déficit de capacidad de generación en estos momentos es de 135 MW\n✍️En el momento de esta nota, se mantienen afectados 139 circuitos.\n✍️ Cuenta con 157 afectaciones por averías secundarias y de servicio:\n🔸 Caibarién (4)\n🔸Camajuaní (6)\n🔸 Cifuentes (8)\n🔸 Corralillo (1)\n🔸 Encrucijada (12)\n🔸 Manicaragua (6)\n🔸 Placetas (5)\n🔸 Quemado (1)\n🔸 Ranchuelo (12)\n🔸 Remedios (9) \n🔸 Sagua (20) \n🔸 Santa Clara (62)\n🔸 Santo Domingo (10)\n🛠️Se encuentran 9 averías en vías de solución.\n🛠️Pendientes a solucionar por el área técnica 15.",
-    "timestamp": 1779898369,
-    "timestamp_local": 1779898369
-  },
-  {
-    "id": 47257,
-    "fecha": "27 de May del 2026 a las 11:56 AM",
-    "hora_utc": "2026-05-27 15:56",
-    "mensaje": "⚠Disparo en el Cto 6 Vigía perteneciente al municipio Santa Clara. Se estudian las causas",
-    "timestamp": 1779897368,
-    "timestamp_local": 1779897368
-  },
-  {
-    "id": 47256,
-    "fecha": "27 de May del 2026 a las 11:47 AM",
-    "hora_utc": "2026-05-27 15:47",
-    "mensaje": "⚠Disparo de la Línea 1785: \n🔹Municipio Santa Clara:\n👉Cto 6 Vigía\n👉Cto 34  Sabana Rebacadero\n👉Ctos 32 y 33 (RF-33Kv)\n👉Cto 39 Sandino\nSe estudian las causas",
-    "timestamp": 1779896826,
-    "timestamp_local": 1779896826
-  },
-  {
-    "id": 47255,
-    "fecha": "27 de May del 2026 a las 11:45 AM",
-    "hora_utc": "2026-05-27 15:45",
-    "mensaje": "🛠Afectado por Via Libre los siguientes circuitos pertenecientes al municipio de Remedios para realizar cambio de transformador de fuerza 4kV\n👉 CTO 67 \n👉CTO 152",
-    "timestamp": 1779896733,
-    "timestamp_local": 1779896733
-  },
-  {
-    "id": 47254,
-    "fecha": "27 de May del 2026 a las 11:40 AM",
-    "hora_utc": "2026-05-27 15:40",
-    "mensaje": "⚠Afectado el servicio eléctrico en los siguientes circuitos:\n🔹Municipio Encrucijada\n👉Cto 120 Calabazar\n👉Ctos 121 y 127 Perucho",
-    "timestamp": 1779896434,
-    "timestamp_local": 1779896434
   }
 ]
