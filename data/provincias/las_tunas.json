@@ -1,5 +1,13 @@
 [
   {
+    "id": 19308,
+    "fecha": "28 de May del 2026 a las 11:00 AM",
+    "hora_utc": "2026-05-28 15:00",
+    "mensaje": "Se declara en avería los siguientes circuitos \nTK61 La Yaya\nTK62 Lora\nTK63 Lora",
+    "timestamp": 1779980431,
+    "timestamp_local": 1779980431
+  },
+  {
     "id": 19306,
     "fecha": "28 de May del 2026 a las 07:16 AM",
     "hora_utc": "2026-05-28 11:16",
@@ -78,21 +86,5 @@
     "mensaje": "📌 Estimados clientes 📌\n〽️El Sistema Electroenergético Nacional (SEN) tiene varios regímenes de operación, esto es fundamentalmente porque las cargas de los circuitos son variables, con sus características específicas y sus actividades propias, tanto estatales como de los demás sectores de la sociedad. 💡Durante el día se le llama “media”, al pico “máxima” y en la madrugada “mínima”. \n📊El déficit de capacidad de generación (apagón) puede variar sus cifras: los mayores valores son en el pico, los menores en la madrugada y en el día se comportan entre el máximo y el mínimo.\n✅Como resultado, con una cantidad de circuitos afectados, puede modificarse el déficit, con los mismos circuitos sin servicio eléctrico.",
     "timestamp": 1779907731,
     "timestamp_local": 1779907731
-  },
-  {
-    "id": 19288,
-    "fecha": "27 de May del 2026 a las 10:02 AM",
-    "hora_utc": "2026-05-27 14:02",
-    "mensaje": "🛠Se declara en avería el TK-74 La Lomita",
-    "timestamp": 1779890523,
-    "timestamp_local": 1779890523
-  },
-  {
-    "id": 19287,
-    "fecha": "27 de May del 2026 a las 09:49 AM",
-    "hora_utc": "2026-05-27 13:49",
-    "mensaje": "🔊Se restablece la avería del circuito de 33kv 6810, (excepto los clientes pertenecientes al TK-82 Tana ,TK-83 Las Maboas y Guayabal.)",
-    "timestamp": 1779889778,
-    "timestamp_local": 1779889778
   }
 ]
