@@ -1,5 +1,29 @@
 [
   {
+    "id": 47451,
+    "fecha": "29 de May del 2026 a las 07:42 PM",
+    "hora_utc": "2026-05-29 23:42",
+    "mensaje": "⚡Afectado por avería el circuito 166 Condado, se estudian las causas.",
+    "timestamp": 1780098162,
+    "timestamp_local": 1780098162
+  },
+  {
+    "id": 47450,
+    "fecha": "29 de May del 2026 a las 07:27 PM",
+    "hora_utc": "2026-05-29 23:27",
+    "mensaje": "➡️Los disparos de circuito tienen diferentes aristas todas con distintos significados, es decir que ocurren por varias causas. Entre ellas encontramos:\n\n👉-Disparo de Circuito con Recierre: El conocido por los clientes como “quita y pon de corriente” es un tipo de protección utilizada mundialmente a partir del 80% aproximadamente de las interrupciones eléctricas son transitorias. Este fenómeno lo hace una sola vez ante un evento de red y no es dañino para para nuestros equipos electrodomésticos.\n\n👉- Disparo Automático por Frecuencia (DAF): El disparo por DAF ocurre cuando la frecuencia llega a valores mínimos permisibles que ponen en peligro la estabilidad del mismo y como protección desconecta varios circuitos de la Capital. Los mismo restablecen a medida que se vaya recuperando la frecuencia que tiene un valor de 60hz o ciclos por segundo.\n\n👉-Disparo de Circuito por Sobrecarga: Este ocurre mayormente en los horarios pico y en verano, ya que las altas temperaturas generan elevados consumos en la población y como consecuencia de ello fallas en los circuitos.\n\n👉-Disparo de Circuito por Posible Avería: Este fenómeno ocurre cuando existe una falla en algún circuito, ya sea soterrado, aéreo o en una subestación. Estas, a pesar de que son mucho más frecuentes cuando existe algún evento climatológico, pueden ocurrir en cualquier momento del día o la noche, ya que son situaciones que no cuentan con programación.",
+    "timestamp": 1780097251,
+    "timestamp_local": 1780097251
+  },
+  {
+    "id": 47448,
+    "fecha": "29 de May del 2026 a las 07:26 PM",
+    "hora_utc": "2026-05-29 23:26",
+    "mensaje": "⚡Afectado por disparo el circuito 166 Condado, se estudian las causas.",
+    "timestamp": 1780097213,
+    "timestamp_local": 1780097213
+  },
+  {
     "id": 47447,
     "fecha": "29 de May del 2026 a las 06:10 PM",
     "hora_utc": "2026-05-29 22:10",
@@ -126,37 +150,5 @@
     "mensaje": "⚠Afectado el servicio eléctrico en el siguiente circuito:\n🔹Municipio Santa Clara\n👉Cto 7 Universidad\n👉Cto 131 Las Antillas\n👉Cto 153 EIDE",
     "timestamp": 1780081916,
     "timestamp_local": 1780081916
-  },
-  {
-    "id": 47430,
-    "fecha": "29 de May del 2026 a las 03:11 PM",
-    "hora_utc": "2026-05-29 19:11",
-    "mensaje": "⚠Afectado el servicio eléctrico en los siguientes circuitos:\n🔹Municipio Placetas \n👉Ctos 100 y 151 Placetas\n👉Cto 104 Hermanos Amejeiras\n👉Cto 103 Batey Carbó Servía",
-    "timestamp": 1780081864,
-    "timestamp_local": 1780081864
-  },
-  {
-    "id": 47429,
-    "fecha": "29 de May del 2026 a las 03:06 PM",
-    "hora_utc": "2026-05-29 19:06",
-    "mensaje": "⚠Afectado el servicio eléctrico en los siguientes circuitos:\n🔹Municipio Santa Clara:\n👉Ctos  2 y 4 Consejo- Centro",
-    "timestamp": 1780081615,
-    "timestamp_local": 1780081615
-  },
-  {
-    "id": 47428,
-    "fecha": "29 de May del 2026 a las 02:53 PM",
-    "hora_utc": "2026-05-29 18:53",
-    "mensaje": "⚠Afectado el servicio eléctrico en el siguiente circuito:\n🔹Municipio Santa Clara\n👉Cto 15  Maleza",
-    "timestamp": 1780080795,
-    "timestamp_local": 1780080795
-  },
-  {
-    "id": 47427,
-    "fecha": "29 de May del 2026 a las 02:42 PM",
-    "hora_utc": "2026-05-29 18:42",
-    "mensaje": "💡Con servicio eléctrico los siguientes circuitos:\n➡️Línea 124\n🔹Municipio Santa Clara:\n👉Ctos 1, 2, 3 y 4 Consejo- Centro",
-    "timestamp": 1780080139,
-    "timestamp_local": 1780080139
   }
 ]
