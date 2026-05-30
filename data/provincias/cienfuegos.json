@@ -1,5 +1,29 @@
 [
   {
+    "id": 53233,
+    "fecha": "30 de May del 2026 a las 06:21 AM",
+    "hora_utc": "2026-05-30 10:21",
+    "mensaje": "⚠Se comunica a nuestros clientes que se encuentra en fallo el circuito:\n\n👉C-406 San Lázaro, Calle 39 desde Ave 74 hasta Ave 48, Calle 35 de Ave 58 hasta Ave 64, Ave 58 de Calle 47 hasta Calle 49, Calle 47 de Ave 54 hasta Ave 58.\n\n📌Se trabaja para restablecer el servicio lo antes posible.\n \n👉Ofrecemos disculpas por las molestias ocasionadas.",
+    "timestamp": 1780136507,
+    "timestamp_local": 1780136507
+  },
+  {
+    "id": 53232,
+    "fecha": "30 de May del 2026 a las 06:19 AM",
+    "hora_utc": "2026-05-30 10:19",
+    "mensaje": "⚠️ Se comunica a nuestros clientes que se encuentra restablecido el servicio en la sección S-40608, la zona:\n\n👉Calle 39 desde Ave 74 hasta Ave 50.\n\n📌 Ofrecemos disculpas por las molestias ocasionadas.",
+    "timestamp": 1780136370,
+    "timestamp_local": 1780136370
+  },
+  {
+    "id": 53231,
+    "fecha": "30 de May del 2026 a las 04:46 AM",
+    "hora_utc": "2026-05-30 08:46",
+    "mensaje": "⚠Se comunica a nuestros clientes que se encuentra en fallo el circuitos:\n\n👉C-19 Tulipán\n\n📌Se trabaja para restablecer el servicio lo antes posible.\n \n👉Ofrecemos disculpas por las molestias ocasionadas.",
+    "timestamp": 1780130797,
+    "timestamp_local": 1780130797
+  },
+  {
     "id": 53230,
     "fecha": "30 de May del 2026 a las 03:16 AM",
     "hora_utc": "2026-05-30 07:16",
@@ -118,21 +142,5 @@
     "mensaje": "⚠Se comunica a nuestros clientes que se encuentra restablecido el servicio en las líneas: \n\n👉Línea 1640 Zona Industrial\n👉Línea 1410 Horquita, San Ignacio.\n\n📌Ofrecemos disculpas por las molestias ocasionadas.",
     "timestamp": 1780100395,
     "timestamp_local": 1780100395
-  },
-  {
-    "id": 53212,
-    "fecha": "29 de May del 2026 a las 07:34 PM",
-    "hora_utc": "2026-05-29 23:34",
-    "mensaje": "⚠Disparo automático por frecuencia (DAF).\n\nUn disparo por frecuencia o Descarga Automática por Frecuencia, es una protección que posee el sistema eléctrico para cuando la frecuencia llega a valores mínimos permisibles que ponen en peligro la estabilidad de todo el sistema en su conjunto y provoca una desconexión automática de algunos circuitos hasta que se vuelva a recuperar su valor nominal a 60Hz o ciclos por segundo.",
-    "timestamp": 1780097681,
-    "timestamp_local": 1780097681
-  },
-  {
-    "id": 53211,
-    "fecha": "29 de May del 2026 a las 07:33 PM",
-    "hora_utc": "2026-05-29 23:33",
-    "mensaje": "⚠Se comunica a nuestros clientes que se encuentra afectado por Disparo Automático por Frecuencia (DAF) las líneas:\n\n👉Línea 1640 Zona Industrial\n👉Línea 1410 Horquita, San Ignacio.\n\n📌Ofrecemos disculpas por las molestias ocasionadas.",
-    "timestamp": 1780097632,
-    "timestamp_local": 1780097632
   }
 ]
