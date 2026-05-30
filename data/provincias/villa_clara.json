@@ -1,5 +1,29 @@
 [
   {
+    "id": 47470,
+    "fecha": "30 de May del 2026 a las 07:20 AM",
+    "hora_utc": "2026-05-30 11:20",
+    "mensaje": "💡Con servicio eléctrico el siguiente circuito:\n🔹Municipio Santa Clara:\n👉Cto 6 Vigía",
+    "timestamp": 1780140053,
+    "timestamp_local": 1780140053
+  },
+  {
+    "id": 47469,
+    "fecha": "30 de May del 2026 a las 07:12 AM",
+    "hora_utc": "2026-05-30 11:12",
+    "mensaje": "💡Con servicio eléctrico el siguiente circuito:\n🔹Municipio Santa Clara:\n👉Cto 39 (Sandino)",
+    "timestamp": 1780139533,
+    "timestamp_local": 1780139533
+  },
+  {
+    "id": 47468,
+    "fecha": "30 de May del 2026 a las 06:37 AM",
+    "hora_utc": "2026-05-30 10:37",
+    "mensaje": "⚠Afectado el servicio eléctrico en los siguientes circuitos:\n🔹Municipio Santa Clara: \n👉Cto 167 Virginia\n👉Cto 170 José Martí",
+    "timestamp": 1780137469,
+    "timestamp_local": 1780137469
+  },
+  {
     "id": 47467,
     "fecha": "30 de May del 2026 a las 05:57 AM",
     "hora_utc": "2026-05-30 09:57",
@@ -118,21 +142,5 @@
     "mensaje": "⚡Afectado por avería el circuito 166 Condado, se estudian las causas.",
     "timestamp": 1780098162,
     "timestamp_local": 1780098162
-  },
-  {
-    "id": 47450,
-    "fecha": "29 de May del 2026 a las 07:27 PM",
-    "hora_utc": "2026-05-29 23:27",
-    "mensaje": "➡️Los disparos de circuito tienen diferentes aristas todas con distintos significados, es decir que ocurren por varias causas. Entre ellas encontramos:\n\n👉-Disparo de Circuito con Recierre: El conocido por los clientes como “quita y pon de corriente” es un tipo de protección utilizada mundialmente a partir del 80% aproximadamente de las interrupciones eléctricas son transitorias. Este fenómeno lo hace una sola vez ante un evento de red y no es dañino para para nuestros equipos electrodomésticos.\n\n👉- Disparo Automático por Frecuencia (DAF): El disparo por DAF ocurre cuando la frecuencia llega a valores mínimos permisibles que ponen en peligro la estabilidad del mismo y como protección desconecta varios circuitos de la Capital. Los mismo restablecen a medida que se vaya recuperando la frecuencia que tiene un valor de 60hz o ciclos por segundo.\n\n👉-Disparo de Circuito por Sobrecarga: Este ocurre mayormente en los horarios pico y en verano, ya que las altas temperaturas generan elevados consumos en la población y como consecuencia de ello fallas en los circuitos.\n\n👉-Disparo de Circuito por Posible Avería: Este fenómeno ocurre cuando existe una falla en algún circuito, ya sea soterrado, aéreo o en una subestación. Estas, a pesar de que son mucho más frecuentes cuando existe algún evento climatológico, pueden ocurrir en cualquier momento del día o la noche, ya que son situaciones que no cuentan con programación.",
-    "timestamp": 1780097251,
-    "timestamp_local": 1780097251
-  },
-  {
-    "id": 47448,
-    "fecha": "29 de May del 2026 a las 07:26 PM",
-    "hora_utc": "2026-05-29 23:26",
-    "mensaje": "⚡Afectado por disparo el circuito 166 Condado, se estudian las causas.",
-    "timestamp": 1780097213,
-    "timestamp_local": 1780097213
   }
 ]
