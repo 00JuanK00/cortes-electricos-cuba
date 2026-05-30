@@ -1,5 +1,29 @@
 [
   {
+    "id": 54112,
+    "fecha": "30 de May del 2026 a las 02:15 AM",
+    "hora_utc": "2026-05-30 06:15",
+    "mensaje": "🔴**Déficit de Capacidad de Generación**:          \nSe produce cuando la demanda del Sistema Eléctrico Nacional, en determinado horario del día supera la generación disponible del país, provocando la desconexión de los circuitos o líneas que permitan garantizar la frecuencia del SEN.",
+    "timestamp": 1780121704,
+    "timestamp_local": 1780121704
+  },
+  {
+    "id": 54111,
+    "fecha": "30 de May del 2026 a las 02:14 AM",
+    "hora_utc": "2026-05-30 06:14",
+    "mensaje": "🚨 Estimados clientes en estos momentos se encuentran afectados por Déficit de Capacidad de Generación los circuitos 14 y 18 de Santiago, disculpen por las molestias ocasionadas.",
+    "timestamp": 1780121682,
+    "timestamp_local": 1780121682
+  },
+  {
+    "id": 54110,
+    "fecha": "30 de May del 2026 a las 02:03 AM",
+    "hora_utc": "2026-05-30 06:03",
+    "mensaje": "🚨Estimados clientes en estos momentos se encuentran afectados por Déficit de Capacidad de Generación los circuitos 7 seccionalizado, el LI5395 de San Luis, el SI5975 (Baconao)  y el circuito 13. Ofrecemos disculpas  por las molestias ocasionadas.",
+    "timestamp": 1780121014,
+    "timestamp_local": 1780121014
+  },
+  {
     "id": 54109,
     "fecha": "30 de May del 2026 a las 01:10 AM",
     "hora_utc": "2026-05-30 05:10",
@@ -126,29 +150,5 @@
     "mensaje": "🔴**Circuito en avería:                                                                                                                      \nSucede si un circuito se interrumpe por causa de un defecto en un cable conductor de corriente (fase o neutro), un fusible fundido o disyuntor. En sistemas trifásicos una falla puede implicar una fase, más de una fase con la tierra o puede ocurrir solo entre fases.**",
     "timestamp": 1780093809,
     "timestamp_local": 1780093809
-  },
-  {
-    "id": 54092,
-    "fecha": "29 de May del 2026 a las 06:28 PM",
-    "hora_utc": "2026-05-29 22:28",
-    "mensaje": "🚨 Estimados clientes se les informa que se encuentra en avería la línea LI5385- San Luis, pedimos disculpas por las molestias ocasionadas.",
-    "timestamp": 1780093729,
-    "timestamp_local": 1780093729
-  },
-  {
-    "id": 54091,
-    "fecha": "29 de May del 2026 a las 05:49 PM",
-    "hora_utc": "2026-05-29 21:49",
-    "mensaje": "🔴Manipulaciones :\nAcción que se realizan en los circuitos para dar paso al trabajo en zonas afectadas por Averías o Vía Libre y posteriormente para restablecer el servicio eléctrico en los circuitos que se encontraban afectados y en los que se trabaja con anterioridad, luego de culminadas las labores pertinentes.",
-    "timestamp": 1780091371,
-    "timestamp_local": 1780091371
-  },
-  {
-    "id": 54090,
-    "fecha": "29 de May del 2026 a las 05:48 PM",
-    "hora_utc": "2026-05-29 21:48",
-    "mensaje": "🚨 Estimados clientes se encuentra afectado por manipulación la línea LI5385- San Luis.",
-    "timestamp": 1780091329,
-    "timestamp_local": 1780091329
   }
 ]
