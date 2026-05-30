@@ -1,5 +1,53 @@
 [
   {
+    "id": 47516,
+    "fecha": "30 de May del 2026 a las 04:46 PM",
+    "hora_utc": "2026-05-30 20:46",
+    "mensaje": "⚠Afectado el servicio eléctrico en el siguiente circuito:\n🔹Municipio Santa Clara:\n👉Cto 13 Zona Industrial",
+    "timestamp": 1780174015,
+    "timestamp_local": 1780174015
+  },
+  {
+    "id": 47515,
+    "fecha": "30 de May del 2026 a las 04:37 PM",
+    "hora_utc": "2026-05-30 20:37",
+    "mensaje": "⚠Afectado el servicio eléctrico en los siguientes circuitos:\n🔹Municipio Santo Domingo:\n👉Cto 134\n👉Ctos 87 y 96 Bermejal\n👉Cto 187 Batey Carlos Baliño\n👉Cto 82 Ulacia\n👉Cto 84 Rodrigo\n🔹Municipio Santa Clara:\n👉Cto 4 Consejo- Centro",
+    "timestamp": 1780173437,
+    "timestamp_local": 1780173437
+  },
+  {
+    "id": 47514,
+    "fecha": "30 de May del 2026 a las 04:15 PM",
+    "hora_utc": "2026-05-30 20:15",
+    "mensaje": "⚠Afectado el servicio eléctrico en los siguientes circuitos:\n🔹Municipio Santa Clara:\n👉Ctos 2 y 3 Consejo- Centro",
+    "timestamp": 1780172117,
+    "timestamp_local": 1780172117
+  },
+  {
+    "id": 47513,
+    "fecha": "30 de May del 2026 a las 04:02 PM",
+    "hora_utc": "2026-05-30 20:02",
+    "mensaje": "Actualización del servicio eléctrico en la provincia.\n👉En este momento la afectación por déficit de capacidad de generación es de 134 MW, la demanda máxima posible a apagarse en estos momentos.\n👉De los circuitos apagables se mantienen afectados 130.\n👉Cuenta con 208 afectaciones por averías secundarias de servicio.",
+    "timestamp": 1780171323,
+    "timestamp_local": 1780171323
+  },
+  {
+    "id": 47512,
+    "fecha": "30 de May del 2026 a las 04:01 PM",
+    "hora_utc": "2026-05-30 20:01",
+    "mensaje": "⚠Afectada por disparo la línea del 1785:\n🔹Municipio Santa Clara:\n👉Cto 6 Vigía\n👉Cto 34 Sabana Rebacadero\n👉Ctos 32 y 33 (RF-33Kv)\n👉Cto 39 (Sandino)",
+    "timestamp": 1780171272,
+    "timestamp_local": 1780171272
+  },
+  {
+    "id": 47511,
+    "fecha": "30 de May del 2026 a las 03:59 PM",
+    "hora_utc": "2026-05-30 19:59",
+    "mensaje": "⚠Afectado el servicio eléctrico en los siguientes circuitos:\n🔹Municipio Santa Clara:\n👉Cto 5 Dobarganes\n👉Cto 17 Subplanta",
+    "timestamp": 1780171181,
+    "timestamp_local": 1780171181
+  },
+  {
     "id": 47510,
     "fecha": "30 de May del 2026 a las 03:28 PM",
     "hora_utc": "2026-05-30 19:28",
@@ -110,53 +158,5 @@
     "mensaje": "Afectados 118 MW en la provincia, demanda máxima a apagar en estos momentos.",
     "timestamp": 1780160569,
     "timestamp_local": 1780160569
-  },
-  {
-    "id": 47496,
-    "fecha": "30 de May del 2026 a las 12:31 PM",
-    "hora_utc": "2026-05-30 16:31",
-    "mensaje": "⚠Afectado el servicio eléctrico en el siguiente circuito:\n🔹Municipio Manicaragua:\n👉Cto 111 Mataguá",
-    "timestamp": 1780158719,
-    "timestamp_local": 1780158719
-  },
-  {
-    "id": 47495,
-    "fecha": "30 de May del 2026 a las 12:29 PM",
-    "hora_utc": "2026-05-30 16:29",
-    "mensaje": "⚠Afectado el servicio eléctrico en los siguientes circuitos:\n🔹Municipio Encrucijada\n👉Cto 120 Calabazar\n👉Ctos 121 y 127 Perucho",
-    "timestamp": 1780158596,
-    "timestamp_local": 1780158596
-  },
-  {
-    "id": 47494,
-    "fecha": "30 de May del 2026 a las 12:17 PM",
-    "hora_utc": "2026-05-30 16:17",
-    "mensaje": "💡Con servicio eléctrico los siguientes circuitos:\n🔹Municipio Santa Clara:\n👉Cto 5 Dobarganes\n👉Cto 17 Subplanta",
-    "timestamp": 1780157876,
-    "timestamp_local": 1780157876
-  },
-  {
-    "id": 47493,
-    "fecha": "30 de May del 2026 a las 12:17 PM",
-    "hora_utc": "2026-05-30 16:17",
-    "mensaje": "💡Con servicio eléctrico los siguientes circuitos:\n🔹Municipio Santa Clara\n👉Cto 7 Universidad\n👉Cto 146 Elevado Aeropuerto\n👉Cto 22 Construcciones Textil\n👉Cto 131 Las Antillas\n👉Cto 153 EIDE\n👉Cto 25 Los Güiros\n👉Cto 24 Planta Asfalto\n👉Cto 35 Biotecnología \n👉Ctos 14, 15 y 27 Maleza",
-    "timestamp": 1780157831,
-    "timestamp_local": 1780157831
-  },
-  {
-    "id": 47492,
-    "fecha": "30 de May del 2026 a las 12:16 PM",
-    "hora_utc": "2026-05-30 16:16",
-    "mensaje": "🕛Actualización del servicio eléctrico.\n✍️El déficit de capacidad de generación en estos momentos es de 123 MW\n✍️En el momento de esta nota, se mantienen afectados 122 circuitos.\n✍️ Cuenta con 220 afectaciones por averías secundarias y de servicio:\n🔸 Caibarién (4)\n🔸 Corralillo (2)\n🔸 Manicaragua (25)\n🔸 Placetas (12)\n🔸 Quemado (1)\n🔸 Ranchuelo (12)\n🔸 Remedios (10) \n🔸 Sagua (22) \n🔸 Santa Clara (108)\n🔸 Santo Domingo (24)\n🛠️Se encuentran 2 averías en vías de solución.\n🛠️Pendientes a solucionar por el área técnica 19.\n⚡En avería de manera parcial el Cto 111 Mataguá, perteneciente al municipio Manicaragua, se estudian las causas.",
-    "timestamp": 1780157800,
-    "timestamp_local": 1780157800
-  },
-  {
-    "id": 47491,
-    "fecha": "30 de May del 2026 a las 12:01 PM",
-    "hora_utc": "2026-05-30 16:01",
-    "mensaje": "💡Con servicio eléctrico los siguientes circuitos:\n🔹Municipio Santa Clara:\n👉Cto 6 Vigía\n👉Cto 34 Sabana Rebacadero\n👉Ctos 32 y 33 (RF-33Kv)\n👉Cto 39 (Sandino)",
-    "timestamp": 1780156881,
-    "timestamp_local": 1780156881
   }
 ]
