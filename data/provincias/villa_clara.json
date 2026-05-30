@@ -1,5 +1,29 @@
 [
   {
+    "id": 47510,
+    "fecha": "30 de May del 2026 a las 03:28 PM",
+    "hora_utc": "2026-05-30 19:28",
+    "mensaje": "⚠Afectado el servicio eléctrico en el siguiente circuito:\n🔹Municipio Placetas:\n👉Cto 98 Placetas",
+    "timestamp": 1780169308,
+    "timestamp_local": 1780169308
+  },
+  {
+    "id": 47509,
+    "fecha": "30 de May del 2026 a las 03:06 PM",
+    "hora_utc": "2026-05-30 19:06",
+    "mensaje": "⚠Afectado el servicio eléctrico en el siguiente circuito:\n🔹Municipio Santa Clara:\n👉Cto 1",
+    "timestamp": 1780168012,
+    "timestamp_local": 1780168012
+  },
+  {
+    "id": 47508,
+    "fecha": "30 de May del 2026 a las 03:01 PM",
+    "hora_utc": "2026-05-30 19:01",
+    "mensaje": "Afectados 131 MW en la provincia, demanda máxima a apagar en estos momentos.",
+    "timestamp": 1780167693,
+    "timestamp_local": 1780167693
+  },
+  {
     "id": 47507,
     "fecha": "30 de May del 2026 a las 02:41 PM",
     "hora_utc": "2026-05-30 18:41",
@@ -134,29 +158,5 @@
     "mensaje": "💡Con servicio eléctrico los siguientes circuitos:\n🔹Municipio Santa Clara:\n👉Cto 6 Vigía\n👉Cto 34 Sabana Rebacadero\n👉Ctos 32 y 33 (RF-33Kv)\n👉Cto 39 (Sandino)",
     "timestamp": 1780156881,
     "timestamp_local": 1780156881
-  },
-  {
-    "id": 47490,
-    "fecha": "30 de May del 2026 a las 11:54 AM",
-    "hora_utc": "2026-05-30 15:54",
-    "mensaje": "⚠Afectada por manipulación la línea del 1785:\nMunicipio Santa Clara:\n👉Cto 6 Vigía\n👉Cto 34 Sabana Rebacadero\n👉Ctos 32 y 33 (RF-33Kv)\n👉Cto 39 (Sandino)",
-    "timestamp": 1780156467,
-    "timestamp_local": 1780156467
-  },
-  {
-    "id": 47489,
-    "fecha": "30 de May del 2026 a las 11:36 AM",
-    "hora_utc": "2026-05-30 15:36",
-    "mensaje": "💡Con servicio eléctrico los siguientes circuitos:\n🔹Municipio Santa Clara:\n👉Cto 6 Vigía\n👉Cto 34 Sabana Rebacadero\n👉Ctos 32 y 33 (RF-33Kv)\n👉Cto 39 (Sandino)",
-    "timestamp": 1780155406,
-    "timestamp_local": 1780155406
-  },
-  {
-    "id": 47488,
-    "fecha": "30 de May del 2026 a las 11:32 AM",
-    "hora_utc": "2026-05-30 15:32",
-    "mensaje": "⚠Afectada por manipulación la línea del 1785:\nMunicipio Santa Clara:\n👉Cto 6 Vigía\n👉Cto 34 Sabana Rebacadero\n👉Ctos 32 y 33 (RF-33Kv)\n👉Cto 39 (Sandino)",
-    "timestamp": 1780155138,
-    "timestamp_local": 1780155138
   }
 ]
