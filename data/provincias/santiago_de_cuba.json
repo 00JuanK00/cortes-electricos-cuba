@@ -1,5 +1,21 @@
 [
   {
+    "id": 54120,
+    "fecha": "30 de May del 2026 a las 08:10 AM",
+    "hora_utc": "2026-05-30 12:10",
+    "mensaje": "🚨 Se incorpora a la afectación por Déficit de Capacidad de Generación el circuito 19 de Santiago.",
+    "timestamp": 1780143008,
+    "timestamp_local": 1780143008
+  },
+  {
+    "id": 54119,
+    "fecha": "30 de May del 2026 a las 08:00 AM",
+    "hora_utc": "2026-05-30 12:00",
+    "mensaje": "🚨 Estimados clientes en estos momentos se encuentran afectados por Déficit de Capacidad de Generación los circuitos 1 y 2 de Contramaestre, disculpen por las molestias ocasionadas.",
+    "timestamp": 1780142436,
+    "timestamp_local": 1780142436
+  },
+  {
     "id": 54118,
     "fecha": "30 de May del 2026 a las 07:53 AM",
     "hora_utc": "2026-05-30 11:53",
@@ -118,37 +134,5 @@
     "mensaje": "🔴**Déficit de Capacidad de Generación**:          \nSe produce cuando la demanda del Sistema Eléctrico Nacional, en determinado horario del día supera la generación disponible del país, provocando la desconexión de los circuitos o líneas que permitan garantizar la frecuencia del SEN.",
     "timestamp": 1780107309,
     "timestamp_local": 1780107309
-  },
-  {
-    "id": 54102,
-    "fecha": "29 de May del 2026 a las 10:14 PM",
-    "hora_utc": "2026-05-30 02:14",
-    "mensaje": "🚨 Estimados clientes en estos momentos se encuentran afectados por Déficit de Capacidad de Generación el circuito 20 de Santiago y las líneas SI5975- Baconao y 5335- Guamá, disculpen por las molestias ocasionadas.",
-    "timestamp": 1780107282,
-    "timestamp_local": 1780107282
-  },
-  {
-    "id": 54101,
-    "fecha": "29 de May del 2026 a las 10:10 PM",
-    "hora_utc": "2026-05-30 02:10",
-    "mensaje": "🚨 Estimados clientes en estos momentos se encuentra afectado por Emergencia el circuito 7 de Santiago, pedimos disculpas por las molestias ocasionadas.",
-    "timestamp": 1780107044,
-    "timestamp_local": 1780107044
-  },
-  {
-    "id": 54100,
-    "fecha": "29 de May del 2026 a las 09:53 PM",
-    "hora_utc": "2026-05-30 01:53",
-    "mensaje": "🔴**Disparo Automático de Frecuencia (DAF):**\n**Ocurre cuando la frecuencia está por debajo de los 60Hz y determinada carga o circuito se desconecta del sistema automáticamente hasta que se estabilice.**",
-    "timestamp": 1780105986,
-    "timestamp_local": 1780105986
-  },
-  {
-    "id": 54099,
-    "fecha": "29 de May del 2026 a las 09:52 PM",
-    "hora_utc": "2026-05-30 01:52",
-    "mensaje": "🚨 Estimados clientes en estos momentos se encuentran afectados por Disparo Automático de Frecuencia (DAF) el circuito 17 de Santiago, y las líneas 5980- San Juan y 4385- Contramaestre, pedimos disculpas por las molestias ocasionadas.",
-    "timestamp": 1780105946,
-    "timestamp_local": 1780105946
   }
 ]
