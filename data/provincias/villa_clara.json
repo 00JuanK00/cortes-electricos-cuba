@@ -1,9 +1,25 @@
 [
   {
+    "id": 47567,
+    "fecha": "31 de May del 2026 a las 07:09 PM",
+    "hora_utc": "2026-05-31 23:09",
+    "mensaje": "⚠Afectado el servicio eléctrico en el siguiente circuito:\n🔹Municipio Santa Clara:\nCto 13 Zona Industrial",
+    "timestamp": 1780268994,
+    "timestamp_local": 1780268994
+  },
+  {
+    "id": 47566,
+    "fecha": "31 de May del 2026 a las 07:07 PM",
+    "hora_utc": "2026-05-31 23:07",
+    "mensaje": "🕛Actualización del servicio eléctrico.\n✍️El déficit de capacidad de generación en estos momentos es de 149 MW\n✍️En el momento de esta nota, se mantienen afectados 143 circuitos.\n✍️ Cuenta con 199 afectaciones por averías secundarias y de servicio:\n🔸 Caibarién (3)\n🔸Camajuaní (2)\n🔸 Corralillo (2)\n🔸 Manicaragua (13)\n🔸 Placetas (18)\n🔸 Ranchuelo (1)\n🔸 Remedios (1) \n🔸 Sagua (6) \n🔸 Santa Clara (141)\n🔸 Santo Domingo (12)\n🛠️Se encuentran 1 averías en vías de solución.\n🛠️Pendientes a solucionar por el área técnica 25.\n🛠Avería en el Cto 14 Maleza de manera parcial por fase partida \n🛠Averia en el Cto 132 por árbol caído sobre la línea",
+    "timestamp": 1780268871,
+    "timestamp_local": 1780268871
+  },
+  {
     "id": 47565,
     "fecha": "31 de May del 2026 a las 05:04 PM",
     "hora_utc": "2026-05-31 21:04",
-    "mensaje": "💡Restablecido el servicio eléctrico \n🔹Municipio Santa Clara:\n👉Cto 34  Sabana Rebacadero\n👉Ctos 32 y 33 (RF-33Kv)\n👉Cto 39 Sandino",
+    "mensaje": "💡Restablecido el servicio eléctrico \n🔹Municipio Santa Clara:\n👉Cto 34  Sabana Rebacadero\n👉Cto 39 Sandino",
     "timestamp": 1780261471,
     "timestamp_local": 1780261471
   },
@@ -142,21 +158,5 @@
     "mensaje": "⚠Afectado el servicio eléctrico en los siguientes circuitos:\n🔹Municipio Santa Clara:\n👉Cto 5 Dobarganes\n👉Cto 17 Subplanta \n👉Ctos 37 y 38 Yabú   \n👉Cto 9 Moldes y Troqueles\n👉Cto 133 Taller Cafetera",
     "timestamp": 1780241978,
     "timestamp_local": 1780241978
-  },
-  {
-    "id": 47547,
-    "fecha": "31 de May del 2026 a las 11:36 AM",
-    "hora_utc": "2026-05-31 15:36",
-    "mensaje": "⚠Afectado el servicio eléctrico en el siguiente circuito:\n🔹Municipio Santa Clara:\n👉Cto 3",
-    "timestamp": 1780241779,
-    "timestamp_local": 1780241779
-  },
-  {
-    "id": 47546,
-    "fecha": "31 de May del 2026 a las 11:03 AM",
-    "hora_utc": "2026-05-31 15:03",
-    "mensaje": "⚠Afectado el servicio eléctrico en los siguientes circuitos:\n🔹Municipio Encrucijada:\n👉Cto 122 Encrucijada  \n👉Cto 123 Vizcaya \n👉Cto 142 Comunidad La Sierra \n👉Cto 126 Batey Emilio Córdova\n👉Cto 125 Cavarrocas\n👉Cto 124 El Santo\n🔹Municipio Camajuaní:                                                              \n👉Cto 78 Jutiero\n👉Cto 75 La Quinta\n👉Cto 157 Luis Arcos Bergnes\n👉Ctos 76 y 90 Vega Alta",
-    "timestamp": 1780239835,
-    "timestamp_local": 1780239835
   }
 ]
