@@ -1,5 +1,21 @@
 [
   {
+    "id": 47556,
+    "fecha": "31 de May del 2026 a las 02:49 PM",
+    "hora_utc": "2026-05-31 18:49",
+    "mensaje": "⚠Afectado el servicio eléctrico en el siguiente circuito:\n🔹Municipio Santa Clara:\n👉Cto 31 Sakenaf",
+    "timestamp": 1780253358,
+    "timestamp_local": 1780253358
+  },
+  {
+    "id": 47555,
+    "fecha": "31 de May del 2026 a las 02:17 PM",
+    "hora_utc": "2026-05-31 18:17",
+    "mensaje": "Actualización del servicio eléctrico en la provincia.\n👉En este momento la afectación por déficit de capacidad de generación es de 116 MW, la demanda máxima posible a apagarse en estos momentos.\n👉De los circuitos apagables se mantienen afectados 139.\n👉Cuenta con 195 afectaciones por averías secundarias de servicio.",
+    "timestamp": 1780251470,
+    "timestamp_local": 1780251470
+  },
+  {
     "id": 47554,
     "fecha": "31 de May del 2026 a las 01:18 PM",
     "hora_utc": "2026-05-31 17:18",
@@ -142,21 +158,5 @@
     "mensaje": "Actualización del servicio eléctrico en la provincia.\n👉En este momento la afectación por déficit de capacidad de generación es de 119 MW, la demanda máxima posible a apagarse en estos momentos.\n👉De los circuitos apagables se mantienen afectados 139.\n👉Cuenta con 239 afectaciones por averías secundarias de servicio.",
     "timestamp": 1780229300,
     "timestamp_local": 1780229300
-  },
-  {
-    "id": 47536,
-    "fecha": "31 de May del 2026 a las 07:09 AM",
-    "hora_utc": "2026-05-31 11:09",
-    "mensaje": "⚠Afectado el servicio eléctrico en los siguientes circuitos:\n🔹Municipio Santa Clara\n👉Ctos 26\n👉Cto 191 Quemado de Hilario\n🔹Municipio Ranchuelo:\n👉Cto 92 Esperanza (Pueblo)\n🔹Municipio Santa Clara: \n👉Cto 166 Condado\n👉Cto 168 Condado- XX Aniversario\n👉Cto 169 Condado\n👉Cto 132 Santa Clara Industrial\n👉Cto 162 Santa Clara Industrial",
-    "timestamp": 1780225758,
-    "timestamp_local": 1780225758
-  },
-  {
-    "id": 47535,
-    "fecha": "31 de May del 2026 a las 07:05 AM",
-    "hora_utc": "2026-05-31 11:05",
-    "mensaje": "Afectados 119 MW en la provincia, demanda máxima a apagar en estos momentos.",
-    "timestamp": 1780225559,
-    "timestamp_local": 1780225559
   }
 ]
