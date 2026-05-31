@@ -1,5 +1,37 @@
 [
   {
+    "id": 54154,
+    "fecha": "31 de May del 2026 a las 12:10 AM",
+    "hora_utc": "2026-05-31 04:10",
+    "mensaje": "🚨Estimados clientes en estos momentos se encuentra afectada por Déficit de Capacidad de Generación la línea 4395 Contramaestre, disculpen por las molestias ocasionadas.",
+    "timestamp": 1780200625,
+    "timestamp_local": 1780200625
+  },
+  {
+    "id": 54153,
+    "fecha": "30 de May del 2026 a las 11:18 PM",
+    "hora_utc": "2026-05-31 03:18",
+    "mensaje": "🔊Manipulaciones :\nAcción que se realizan en los circuitos para dar paso al trabajo en zonas afectadas por Averías o Vía Libre y posteriormente para restablecer el servicio eléctrico en los circuitos que se encontraban afectados y en los que se trabaja con anterioridad,luego de culminadas las labores pertinentes.",
+    "timestamp": 1780197514,
+    "timestamp_local": 1780197514
+  },
+  {
+    "id": 54152,
+    "fecha": "30 de May del 2026 a las 11:17 PM",
+    "hora_utc": "2026-05-31 03:17",
+    "mensaje": "🔴Estimados clientes en estos momentos se está manipulando el circuito 9 de Santiago, disculpen por las molestias ocasionadas.",
+    "timestamp": 1780197479,
+    "timestamp_local": 1780197479
+  },
+  {
+    "id": 54151,
+    "fecha": "30 de May del 2026 a las 10:17 PM",
+    "hora_utc": "2026-05-31 02:17",
+    "mensaje": "🚨Estimados clientes en estos momentos se encuentra afectado por Déficit de Capacidad de Generación el circuito Mar Verde -Guamá, disculpen por las molestias ocasionadas.",
+    "timestamp": 1780193857,
+    "timestamp_local": 1780193857
+  },
+  {
     "id": 54150,
     "fecha": "30 de May del 2026 a las 09:16 PM",
     "hora_utc": "2026-05-31 01:16",
@@ -118,37 +150,5 @@
     "mensaje": "🔴Estimados clientes se les informa que se incorpora a la afectación la línea 5385 San Luis - Palma.",
     "timestamp": 1780163017,
     "timestamp_local": 1780163017
-  },
-  {
-    "id": 54135,
-    "fecha": "30 de May del 2026 a las 01:23 PM",
-    "hora_utc": "2026-05-30 17:23",
-    "mensaje": "🔴Estimados clientes se les informa que se incorpora a la afectación la línea 5975 Baconao.",
-    "timestamp": 1780161782,
-    "timestamp_local": 1780161782
-  },
-  {
-    "id": 54134,
-    "fecha": "30 de May del 2026 a las 01:13 PM",
-    "hora_utc": "2026-05-30 17:13",
-    "mensaje": "🔴Estimados clientes se les informa que se incorporan a la afectación los circuitos 23 y San Juan.",
-    "timestamp": 1780161203,
-    "timestamp_local": 1780161203
-  },
-  {
-    "id": 54133,
-    "fecha": "30 de May del 2026 a las 01:00 PM",
-    "hora_utc": "2026-05-30 17:00",
-    "mensaje": "**Estimados clientes, en estos  días de muchas afectaciones al servicio eléctrico, el centro de atención Telefónica 18888 colapsa por la cantidad de llamadas que reciben, al mismo tiempo para solicitar información o reportar una interrupción .Cuando esto sucede da timbre  y no sale la contestadora ya que la línea se encuentra ocupada .Recomendamos insistir hasta que sea atendido por la operadora. Gracias.**",
-    "timestamp": 1780160403,
-    "timestamp_local": 1780160403
-  },
-  {
-    "id": 54131,
-    "fecha": "30 de May del 2026 a las 12:56 PM",
-    "hora_utc": "2026-05-30 16:56",
-    "mensaje": "**Déficit de Capacidad de Generación**:          \nSe produce cuando la demanda del Sistema Eléctrico Nacional, en determinado horario del día supera la generación disponible del país, provocando la desconexión de los circuitos o líneas que permitan garantizar la frecuencia del SEN.",
-    "timestamp": 1780160181,
-    "timestamp_local": 1780160181
   }
 ]
