@@ -1,5 +1,21 @@
 [
   {
+    "id": 47533,
+    "fecha": "31 de May del 2026 a las 04:32 AM",
+    "hora_utc": "2026-05-31 08:32",
+    "mensaje": "Actualización del servicio eléctrico en la provincia.\n👉En este momento la afectación por déficit de capacidad de generación es de 108 MW, la demanda máxima posible a apagarse en estos momentos.\n👉De los circuitos apagables se mantienen afectados 139.\n👉Cuenta con 231 afectaciones por averías secundarias de servicio.",
+    "timestamp": 1780216348,
+    "timestamp_local": 1780216348
+  },
+  {
+    "id": 47531,
+    "fecha": "31 de May del 2026 a las 02:09 AM",
+    "hora_utc": "2026-05-31 06:09",
+    "mensaje": "Actualización del servicio eléctrico en la provincia.\n👉En este momento la afectación por déficit de capacidad de generación es de 112 MW, la demanda máxima posible a apagarse en estos momentos.\n👉De los circuitos apagables se mantienen afectados 139.\n👉Cuenta con 229 afectaciones por averías secundarias de servicio.",
+    "timestamp": 1780207752,
+    "timestamp_local": 1780207752
+  },
+  {
     "id": 47530,
     "fecha": "31 de May del 2026 a las 01:48 AM",
     "hora_utc": "2026-05-31 05:48",
@@ -126,29 +142,5 @@
     "mensaje": "⚠Afectado el servicio eléctrico en los siguientes circuitos:\n🔹Municipio Santa Clara:\n👉Ctos 2 y 3 Consejo- Centro",
     "timestamp": 1780172117,
     "timestamp_local": 1780172117
-  },
-  {
-    "id": 47513,
-    "fecha": "30 de May del 2026 a las 04:02 PM",
-    "hora_utc": "2026-05-30 20:02",
-    "mensaje": "Actualización del servicio eléctrico en la provincia.\n👉En este momento la afectación por déficit de capacidad de generación es de 134 MW, la demanda máxima posible a apagarse en estos momentos.\n👉De los circuitos apagables se mantienen afectados 130.\n👉Cuenta con 208 afectaciones por averías secundarias de servicio.",
-    "timestamp": 1780171323,
-    "timestamp_local": 1780171323
-  },
-  {
-    "id": 47512,
-    "fecha": "30 de May del 2026 a las 04:01 PM",
-    "hora_utc": "2026-05-30 20:01",
-    "mensaje": "⚠Afectada por disparo la línea del 1785:\n🔹Municipio Santa Clara:\n👉Cto 6 Vigía\n👉Cto 34 Sabana Rebacadero\n👉Ctos 32 y 33 (RF-33Kv)\n👉Cto 39 (Sandino)",
-    "timestamp": 1780171272,
-    "timestamp_local": 1780171272
-  },
-  {
-    "id": 47511,
-    "fecha": "30 de May del 2026 a las 03:59 PM",
-    "hora_utc": "2026-05-30 19:59",
-    "mensaje": "⚠Afectado el servicio eléctrico en los siguientes circuitos:\n🔹Municipio Santa Clara:\n👉Cto 5 Dobarganes\n👉Cto 17 Subplanta",
-    "timestamp": 1780171181,
-    "timestamp_local": 1780171181
   }
 ]
