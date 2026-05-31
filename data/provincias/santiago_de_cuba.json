@@ -1,5 +1,37 @@
 [
   {
+    "id": 54171,
+    "fecha": "31 de May del 2026 a las 01:24 PM",
+    "hora_utc": "2026-05-31 17:24",
+    "mensaje": "🚨**Disparo**\nApertura no voluntaria de un interruptor como vía de protección para desconectar uno o varios elementos del circuito, subestación o sistema, restableciéndose el servicio rápidamente en dependencia de la causa.",
+    "timestamp": 1780248254,
+    "timestamp_local": 1780248254
+  },
+  {
+    "id": 54170,
+    "fecha": "31 de May del 2026 a las 01:23 PM",
+    "hora_utc": "2026-05-31 17:23",
+    "mensaje": "🔊Estimados clientes en estos momentos se encuentra Disparado el circuito 23",
+    "timestamp": 1780248235,
+    "timestamp_local": 1780248235
+  },
+  {
+    "id": 54169,
+    "fecha": "31 de May del 2026 a las 01:12 PM",
+    "hora_utc": "2026-05-31 17:12",
+    "mensaje": "🔊Estimados clientes en estos momentos se encuentran afectados por Déficit de Capacidad de Generación los circuitos 1 y 2 de Contramaestre",
+    "timestamp": 1780247569,
+    "timestamp_local": 1780247569
+  },
+  {
+    "id": 54168,
+    "fecha": "31 de May del 2026 a las 12:44 PM",
+    "hora_utc": "2026-05-31 16:44",
+    "mensaje": "🔊Estimados clientes en estos momentos se encuentran afectados por Déficit de Capacidad de Generación los circuitos 12 , 17 y la Línea 5395 San Luis",
+    "timestamp": 1780245880,
+    "timestamp_local": 1780245880
+  },
+  {
     "id": 54167,
     "fecha": "31 de May del 2026 a las 11:44 AM",
     "hora_utc": "2026-05-31 15:44",
@@ -110,37 +142,5 @@
     "mensaje": "🔴Estimados clientes en estos momentos se está manipulando el circuito 9 de Santiago, disculpen por las molestias ocasionadas.",
     "timestamp": 1780197479,
     "timestamp_local": 1780197479
-  },
-  {
-    "id": 54151,
-    "fecha": "30 de May del 2026 a las 10:17 PM",
-    "hora_utc": "2026-05-31 02:17",
-    "mensaje": "🚨Estimados clientes en estos momentos se encuentra afectado por Déficit de Capacidad de Generación el circuito Mar Verde -Guamá, disculpen por las molestias ocasionadas.",
-    "timestamp": 1780193857,
-    "timestamp_local": 1780193857
-  },
-  {
-    "id": 54150,
-    "fecha": "30 de May del 2026 a las 09:16 PM",
-    "hora_utc": "2026-05-31 01:16",
-    "mensaje": "🚨Estimados clientes en estos momentos se encuentra afectado por Déficit de Capacidad de Generación el circuito 2 de Palma, disculpen por las molestias ocasionadas.",
-    "timestamp": 1780190192,
-    "timestamp_local": 1780190192
-  },
-  {
-    "id": 54149,
-    "fecha": "30 de May del 2026 a las 08:54 PM",
-    "hora_utc": "2026-05-31 00:54",
-    "mensaje": "🚨Estimados clientes en estos momentos se encuentran afectados por Déficit de Capacidad de Generación el circuito 1y 2 de Contramaestre y La Maya , disculpen por las molestias ocasionadas.",
-    "timestamp": 1780188866,
-    "timestamp_local": 1780188866
-  },
-  {
-    "id": 54148,
-    "fecha": "30 de May del 2026 a las 08:00 PM",
-    "hora_utc": "2026-05-31 00:00",
-    "mensaje": "🚨Estimados clientes en estos momentos se encuentran afectados por Déficit de Capacidad de Generación el circuito 10 de Santiago , disculpen por las molestias ocasionadas",
-    "timestamp": 1780185603,
-    "timestamp_local": 1780185603
   }
 ]
