@@ -1,5 +1,29 @@
 [
   {
+    "id": 47524,
+    "fecha": "30 de May del 2026 a las 09:21 PM",
+    "hora_utc": "2026-05-31 01:21",
+    "mensaje": "Afectados 153 MW en la provincia, demanda máxima a apagar en estos momentos.",
+    "timestamp": 1780190463,
+    "timestamp_local": 1780190463
+  },
+  {
+    "id": 47523,
+    "fecha": "30 de May del 2026 a las 08:31 PM",
+    "hora_utc": "2026-05-31 00:31",
+    "mensaje": "⚠Se encuentra disparado el Cto 15 Maleza, perteneciente al municipio Santa Clara, se estudian las causas.",
+    "timestamp": 1780187482,
+    "timestamp_local": 1780187482
+  },
+  {
+    "id": 47522,
+    "fecha": "30 de May del 2026 a las 08:03 PM",
+    "hora_utc": "2026-05-31 00:03",
+    "mensaje": "Actualización del servicio eléctrico en la provincia.\n👉En este momento la afectación por déficit de capacidad de generación es de 152 MW, la demanda máxima posible a apagarse en estos momentos.\n👉De los circuitos apagables se mantienen afectados 130.\n👉Cuenta con 225 afectaciones por averías secundarias de servicio.",
+    "timestamp": 1780185833,
+    "timestamp_local": 1780185833
+  },
+  {
     "id": 47521,
     "fecha": "30 de May del 2026 a las 07:06 PM",
     "hora_utc": "2026-05-30 23:06",
@@ -126,29 +150,5 @@
     "mensaje": "✍️Ante cualquier duda conozca sobre la terminología eléctrica\n\n🔹Las averías pueden ser:\n     \n➡️Primarias: Afecta un volumen grande de población pues son las líneas de distribución a 13.8 kV y puede afectar varias manzanas, incluso repartos completos.\n\n➡️Secundarias: Afecta a todos los clientes que se alimenten del mismo transformador, puede afectar una o varias cuadras. \n\n➡️De servicio: Afectan 1 solo cliente o instalación generalmente producto a daños en la acometida, metro contador, etc.).",
     "timestamp": 1780164536,
     "timestamp_local": 1780164536
-  },
-  {
-    "id": 47504,
-    "fecha": "30 de May del 2026 a las 02:04 PM",
-    "hora_utc": "2026-05-30 18:04",
-    "mensaje": "Actualización del servicio eléctrico en la provincia.\n👉En este momento la afectación por déficit de capacidad de generación es de 130 MW, la demanda máxima posible a apagarse en estos momentos.\n👉De los circuitos apagables se mantienen afectados 130.\n👉Cuenta con 234 afectaciones por averías secundarias de servicio.",
-    "timestamp": 1780164241,
-    "timestamp_local": 1780164241
-  },
-  {
-    "id": 47503,
-    "fecha": "30 de May del 2026 a las 01:42 PM",
-    "hora_utc": "2026-05-30 17:42",
-    "mensaje": "⚠Disparados los Ctos 109 y 150 pertenecientes al municipio Manicaragua, se estudian las causas.",
-    "timestamp": 1780162979,
-    "timestamp_local": 1780162979
-  },
-  {
-    "id": 47502,
-    "fecha": "30 de May del 2026 a las 01:40 PM",
-    "hora_utc": "2026-05-30 17:40",
-    "mensaje": "⚠Afectado el servicio eléctrico en los siguientes circuitos:\n🔹Municipio Caibarién\n👉Ctos 63 y 64",
-    "timestamp": 1780162815,
-    "timestamp_local": 1780162815
   }
 ]
