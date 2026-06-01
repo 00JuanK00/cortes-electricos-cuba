@@ -1,5 +1,29 @@
 [
   {
+    "id": 47600,
+    "fecha": "01 de Jun del 2026 a las 06:49 PM",
+    "hora_utc": "2026-06-01 22:49",
+    "mensaje": "Afectados 163 MW en la provincia, demanda máxima a apagar en estos momentos.",
+    "timestamp": 1780354173,
+    "timestamp_local": 1780354173
+  },
+  {
+    "id": 47599,
+    "fecha": "01 de Jun del 2026 a las 06:10 PM",
+    "hora_utc": "2026-06-01 22:10",
+    "mensaje": "⚡Avería parcial Cto 70 Zulueta perteneciente al municipio de Remedios por cable primario partido \n⚡Avería Cto 143 Heriberto Duquezne y 71 Buena vista  perteneciente al municipio de Remedios por cable partido\n⚡Avería en la Línea 108 afectando los circuitos: \n🔹Municipio Ranchuelo:\n👉Cto 92 Esperanza (Pueblo)\n🔹Municipio Santa Clara\n👉Ctos 26 y 141 Manuelita\n👉Cto 191 Quemado de Hilario",
+    "timestamp": 1780351836,
+    "timestamp_local": 1780351836
+  },
+  {
+    "id": 47598,
+    "fecha": "01 de Jun del 2026 a las 06:04 PM",
+    "hora_utc": "2026-06-01 22:04",
+    "mensaje": "🕕Actualización del servicio eléctrico.\n✍️El déficit de capacidad de generación en estos momentos es de 151 MW\n✍️En el momento de esta nota, se mantienen afectados 146 circuitos.\n✍️ Cuenta con 200 afectaciones por averías secundarias y de servicio:\n🔸 Caibarién (1)\n🔸 Camajuaní (1)\n🔸 Cifuentes (2)\n🔸 Corralillo (2)\n🔸 Encrucijada (3)\n🔸 Manicaragua (14)\n🔸 Placetas (23)\n🔸 Ranchuelo (1)\n🔸 Remedios (6) \n🔸 Sagua (10) \n🔸 Santa Clara (95)\n🔸 Santo Domingo (5)\n🛠️Se encuentran 7 averías en vías de solución.\n🛠️Pendientes a solucionar por el área técnica 26.",
+    "timestamp": 1780351467,
+    "timestamp_local": 1780351467
+  },
+  {
     "id": 47596,
     "fecha": "01 de Jun del 2026 a las 04:43 PM",
     "hora_utc": "2026-06-01 20:43",
@@ -118,29 +142,5 @@
     "mensaje": "Actualización del servicio eléctrico en la provincia.\n👉En este momento la afectación por déficit de capacidad de generación es de 129 MW, la demanda máxima posible a apagarse en estos momentos.\n👉De los circuitos apagables se mantienen afectados 154.\n👉Cuenta con 203 afectaciones por averías secundarias de servicio.",
     "timestamp": 1780315578,
     "timestamp_local": 1780315578
-  },
-  {
-    "id": 47580,
-    "fecha": "01 de Jun del 2026 a las 07:48 AM",
-    "hora_utc": "2026-06-01 11:48",
-    "mensaje": "Afectados 131 MW en la provincia, demanda máxima a apagar en estos momentos.",
-    "timestamp": 1780314513,
-    "timestamp_local": 1780314513
-  },
-  {
-    "id": 47579,
-    "fecha": "01 de Jun del 2026 a las 07:03 AM",
-    "hora_utc": "2026-06-01 11:03",
-    "mensaje": "💡Restablecido el servicio eléctrico \n🔹Municipio Santa Clara:\n👉Cto 13 Zona Industrial",
-    "timestamp": 1780311804,
-    "timestamp_local": 1780311804
-  },
-  {
-    "id": 47578,
-    "fecha": "01 de Jun del 2026 a las 06:19 AM",
-    "hora_utc": "2026-06-01 10:19",
-    "mensaje": "🛠Avería Cto 70 Zulueta perteneciente al municipio de Remedios por cable primario partido \n🛠Averia Cto 143 Heriberto Duquezne y 71 Buena vista  perteneciente al municipio de Remedios por cable partido\n🛠Averia Cto 102 Peroti perteneciente al municipio de Placetas por varios cables partidos afectando el ramal Máximo\n🛠Averia en la Linea 108 afectando los circuitos: \n🔹Municipio Ranchuelo:\n👉Cto 92 Esperanza (Pueblo)\n🔹Municipio Santa Clara\n👉Ctos 26 y 141 Manuelita\n👉Cto 191 Quemado de Hilario\n⚠Disparo en el siguiente circuito \n🔹Municipio Santa Clara:\n👉Cto 13 Zona Industrial\n  Se estudian las causas",
-    "timestamp": 1780309189,
-    "timestamp_local": 1780309189
   }
 ]
