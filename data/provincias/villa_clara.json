@@ -1,5 +1,29 @@
 [
   {
+    "id": 47596,
+    "fecha": "01 de Jun del 2026 a las 04:43 PM",
+    "hora_utc": "2026-06-01 20:43",
+    "mensaje": "Actualización del servicio eléctrico en la provincia.\n👉En este momento la afectación por déficit de capacidad de generación es de 128 MW, la demanda máxima posible a apagarse en estos momentos.\n👉De los circuitos apagables se mantienen afectados 137.\n👉Cuenta con 193 afectaciones por averías secundarias de servicio.",
+    "timestamp": 1780346592,
+    "timestamp_local": 1780346592
+  },
+  {
+    "id": 47595,
+    "fecha": "01 de Jun del 2026 a las 03:00 PM",
+    "hora_utc": "2026-06-01 19:00",
+    "mensaje": "💡Restablecido el servicio eléctrico \n🔹Municipio Santa Clara\n👉Cto 2 Consejo Centro",
+    "timestamp": 1780340443,
+    "timestamp_local": 1780340443
+  },
+  {
+    "id": 47593,
+    "fecha": "01 de Jun del 2026 a las 02:31 PM",
+    "hora_utc": "2026-06-01 18:31",
+    "mensaje": "Actualización del servicio eléctrico en la provincia.\n👉En este momento la afectación por déficit de capacidad de generación es de 118 MW, la demanda máxima posible a apagarse en estos momentos.\n👉De los circuitos apagables se mantienen afectados 136.\n👉Cuenta con 217 afectaciones por averías secundarias de servicio.",
+    "timestamp": 1780338678,
+    "timestamp_local": 1780338678
+  },
+  {
     "id": 47592,
     "fecha": "01 de Jun del 2026 a las 01:20 PM",
     "hora_utc": "2026-06-01 17:20",
@@ -118,37 +142,5 @@
     "mensaje": "🛠Avería Cto 70 Zulueta perteneciente al municipio de Remedios por cable primario partido \n🛠Averia Cto 143 Heriberto Duquezne y 71 Buena vista  perteneciente al municipio de Remedios por cable partido\n🛠Averia Cto 102 Peroti perteneciente al municipio de Placetas por varios cables partidos afectando el ramal Máximo\n🛠Averia en la Linea 108 afectando los circuitos: \n🔹Municipio Ranchuelo:\n👉Cto 92 Esperanza (Pueblo)\n🔹Municipio Santa Clara\n👉Ctos 26 y 141 Manuelita\n👉Cto 191 Quemado de Hilario\n⚠Disparo en el siguiente circuito \n🔹Municipio Santa Clara:\n👉Cto 13 Zona Industrial\n  Se estudian las causas",
     "timestamp": 1780309189,
     "timestamp_local": 1780309189
-  },
-  {
-    "id": 47577,
-    "fecha": "01 de Jun del 2026 a las 06:19 AM",
-    "hora_utc": "2026-06-01 10:19",
-    "mensaje": "🕕Actualización del servicio eléctrico.\n✍️El déficit de capacidad de generación en estos momentos es de 121 MW\n✍️En el momento de esta nota, se mantienen afectados 154 circuitos.\n✍️ Cuenta con 194 afectaciones por averías secundarias y de servicio:\n🔸 Caibarién (3)\n🔸Camajuaní (2)\n🔸 Corralillo (3)\n🔸 Cifuentes(1)\n🔸 Encrucijada(2)\n🔸 Manicaragua (14)\n🔸 Placetas (17)\n🔸 Ranchuelo (2)\n🔸 Remedios (1) \n🔸 Sagua (6) \n🔸 Santa Clara (131)\n🔸 Santo Domingo (12)\n🛠️Se encuentran 0 averías en vías de solución.\n🛠️Pendientes a solucionar por el área técnica 27.",
-    "timestamp": 1780309176,
-    "timestamp_local": 1780309176
-  },
-  {
-    "id": 47576,
-    "fecha": "01 de Jun del 2026 a las 02:50 AM",
-    "hora_utc": "2026-06-01 06:50",
-    "mensaje": "Actualización del servicio eléctrico en la provincia.\n👉En este momento la afectación por déficit de capacidad de generación es de 123 MW, la demanda máxima posible a apagarse en estos momentos.\n👉De los circuitos apagables se mantienen afectados 154.\n👉Cuenta con 194 afectaciones por averías secundarias de servicio.",
-    "timestamp": 1780296656,
-    "timestamp_local": 1780296656
-  },
-  {
-    "id": 47575,
-    "fecha": "01 de Jun del 2026 a las 12:48 AM",
-    "hora_utc": "2026-06-01 04:48",
-    "mensaje": "💡Restablecido el servicio eléctrico\n🔹Municipio Santa Clara:\n👉Cto 34  Sabana Rebacadero\n👉Cto 39 Sandino\n👉Ctos 32 y 33 (RF-33Kv)",
-    "timestamp": 1780289315,
-    "timestamp_local": 1780289315
-  },
-  {
-    "id": 47573,
-    "fecha": "01 de Jun del 2026 a las 12:37 AM",
-    "hora_utc": "2026-06-01 04:37",
-    "mensaje": "🛠Afectado la linea 1785 por manipulacion :\n🔹Municipio Santa Clara:\n👉Cto 34  Sabana Rebacadero\n👉Cto 39 Sandino\n🛠Para reponer los Ctos 32 y 33 (RF-33Kv)",
-    "timestamp": 1780288633,
-    "timestamp_local": 1780288633
   }
 ]
