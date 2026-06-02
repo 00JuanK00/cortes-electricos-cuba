@@ -1,5 +1,21 @@
 [
   {
+    "id": 47602,
+    "fecha": "01 de Jun del 2026 a las 08:13 PM",
+    "hora_utc": "2026-06-02 00:13",
+    "mensaje": "Actualización del servicio eléctrico en la provincia.\n👉En este momento la afectación por déficit de capacidad de generación es de 162 MW, la demanda máxima posible a apagarse en estos momentos.\n👉De los circuitos apagables se mantienen afectados 151.\n👉Cuenta con 160 afectaciones por averías secundarias de servicio.",
+    "timestamp": 1780359220,
+    "timestamp_local": 1780359220
+  },
+  {
+    "id": 47601,
+    "fecha": "01 de Jun del 2026 a las 07:41 PM",
+    "hora_utc": "2026-06-01 23:41",
+    "mensaje": "✍️Ante cualquier duda conozca sobre la terminología eléctrica\n\n🔹Las averías pueden ser:\n     \n➡️Primarias: Afecta un volumen grande de población pues son las líneas de distribución a 13.8 kV y puede afectar varias manzanas, incluso repartos completos.\n\n➡️Secundarias: Afecta a todos los clientes que se alimenten del mismo transformador, puede afectar una o varias cuadras. \n\n➡️De servicio: Afectan 1 solo cliente o instalación generalmente producto a daños en la acometida, metro contador, etc.).",
+    "timestamp": 1780357263,
+    "timestamp_local": 1780357263
+  },
+  {
     "id": 47600,
     "fecha": "01 de Jun del 2026 a las 06:49 PM",
     "hora_utc": "2026-06-01 22:49",
@@ -126,21 +142,5 @@
     "mensaje": "⚡Afectado por primario partido Cto 3 Consejo Centro , perteneciente al Municipio Santa Clara",
     "timestamp": 1780319695,
     "timestamp_local": 1780319695
-  },
-  {
-    "id": 47582,
-    "fecha": "01 de Jun del 2026 a las 08:48 AM",
-    "hora_utc": "2026-06-01 12:48",
-    "mensaje": "⚡ Actualización del Sistema Electroenergético Nacional para el 1 de junio de 2026.\n\nPronóstico de afectación:\nPara el mediodía: 1550 MW\nPara el pico de la noche: 1970 MW\n\nLeer más: https://www.unionelectrica.cu/nota-informativa/\n\n#UnidosXCuba #UniónEléctrica #UNE #NotaInformativa",
-    "timestamp": 1780318117,
-    "timestamp_local": 1780318117
-  },
-  {
-    "id": 47581,
-    "fecha": "01 de Jun del 2026 a las 08:06 AM",
-    "hora_utc": "2026-06-01 12:06",
-    "mensaje": "Actualización del servicio eléctrico en la provincia.\n👉En este momento la afectación por déficit de capacidad de generación es de 129 MW, la demanda máxima posible a apagarse en estos momentos.\n👉De los circuitos apagables se mantienen afectados 154.\n👉Cuenta con 203 afectaciones por averías secundarias de servicio.",
-    "timestamp": 1780315578,
-    "timestamp_local": 1780315578
   }
 ]
