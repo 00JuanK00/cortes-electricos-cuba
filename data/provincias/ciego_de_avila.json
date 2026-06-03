@@ -1,5 +1,29 @@
 [
   {
+    "id": 38611,
+    "fecha": "02 de Jun del 2026 a las 11:23 PM",
+    "hora_utc": "2026-06-03 03:23",
+    "mensaje": "‼️ Información del déficit de generación ‼️   \n👉Continuamos con 73 MW en la provincia afectados por déficit de generación.\n⏰ Con este déficit, la carga a apagar en la provincia no nos permite realizar una rotación estable de los circuitos, por lo que se afectarán o se restablecerán en dependencia del déficit que haya en cada momento de la jornada, que es muy variable.",
+    "timestamp": 1780457007,
+    "timestamp_local": 1780457007
+  },
+  {
+    "id": 38610,
+    "fecha": "02 de Jun del 2026 a las 09:54 PM",
+    "hora_utc": "2026-06-03 01:54",
+    "mensaje": "‼️ Información del déficit de generación ‼️   \n👉Continuamos con 73 MW en la provincia afectados por déficit de generación.\n⏰ Con este déficit, la carga a apagar en la provincia no nos permite realizar una rotación estable de los circuitos, por lo que se afectarán o se restablecerán en dependencia del déficit que haya en cada momento de la jornada, que es muy variable.",
+    "timestamp": 1780451666,
+    "timestamp_local": 1780451666
+  },
+  {
+    "id": 38609,
+    "fecha": "02 de Jun del 2026 a las 09:20 PM",
+    "hora_utc": "2026-06-03 01:20",
+    "mensaje": "✅Restablecido el circuito Cítrico I, Cítrico III, Cítrico IV, Ceballos Pueblo que se encontraban en fallo.",
+    "timestamp": 1780449639,
+    "timestamp_local": 1780449639
+  },
+  {
     "id": 38608,
     "fecha": "02 de Jun del 2026 a las 07:15 PM",
     "hora_utc": "2026-06-02 23:15",
@@ -22,14 +46,6 @@
     "mensaje": "✅ Se encuentra sin servicio eléctrico el circuito Cítrico I, Cítrico III, Cítrico IV, Ceballos Pueblo. \n👉Se recorren las líneas para encontrar la causa. \n👉Si usted observa corto circuito en las redes o alguna irregularidad, por favor comuníquelo a través del ☎️18888.",
     "timestamp": 1780442000,
     "timestamp_local": 1780442000
-  },
-  {
-    "id": 38605,
-    "fecha": "02 de Jun del 2026 a las 07:12 PM",
-    "hora_utc": "2026-06-02 23:12",
-    "mensaje": "✅ Se encuentra sin servicio eléctrico el circuito La Juanita. \n👉Se recorren las líneas para encontrar la causa. \n👉Si usted observa corto circuito en las redes o alguna irregularidad, por favor comuníquelo a través del ☎️18888.",
-    "timestamp": 1780441972,
-    "timestamp_local": 1780441972
   },
   {
     "id": 38604,
@@ -126,21 +142,5 @@
     "mensaje": "🚨Nota informativa🚨\n\n📅Situación del SEN para el 1 de junio de 2026.\n\n\n👉En el día de ayer se afectó el servicio por déficit de capacidad durante las 24 horas y se mantuvo la afectación durante todo el horario de la madrugada. La máxima afectación por déficit de capacidad de generación en el día de ayer fue de 1918 MW a las 20:40 horas.\n\n\n☀️La producción de energía de los 54 nuevos parques solares fotovoltaicos fue de 2835 MWh, con 422 MW como máxima potencia entregada en el horario de la media con esta fuente de generación.  \n\n👉La disponibilidad del SEN a las 06:00 horas es de 1160 MW, la demanda 2689 MW con 1548 MW afectados. En el horario de la media se estima una afectación de 1550 MW.\n\n🛠Se encuentran en avería la unidad de la CTE Guiteras, la unidad 2 de la CTE Ernesto Guevara, la unidad 2 de la CTE Felton y la unidad 5 de la CTE Renté. Se encuentran en mantenimiento la unidad 5 de la CTE Mariel, la unidad 5 de la CTE Nuevitas y la unidad 6 de la CTE Renté. \n\n▪️Las limitaciones en la generación térmica son de 383 MW.\n\n📈Se estima para el horario de máxima demanda una disponibilidad de 1160 MW con una demanda máxima de 3100 MW, para un déficit de 1940 MW, por lo que de mantenerse las condiciones previstas se pronostica una afectación de 1970 MW en este horario.",
     "timestamp": 1780401297,
     "timestamp_local": 1780401297
-  },
-  {
-    "id": 38591,
-    "fecha": "02 de Jun del 2026 a las 06:22 AM",
-    "hora_utc": "2026-06-02 10:22",
-    "mensaje": "‼️ Déficit de Generación ‼️   \n\n👉Nos mantenemos con 80 MW en la provincia afectados por déficit de generación.\n\n⏰ Reiteramos que los circuitos se afectarán o se restablecerán en dependencia del déficit en cada momento de la jornada, que es muy variable.",
-    "timestamp": 1780395754,
-    "timestamp_local": 1780395754
-  },
-  {
-    "id": 38590,
-    "fecha": "02 de Jun del 2026 a las 03:48 AM",
-    "hora_utc": "2026-06-02 07:48",
-    "mensaje": "‼️ Déficit de Generación ‼️   \n\n👉Bajamos a 80 MW en la provincia afectados por déficit de generación.\n\n⏰ Reiteramos que los circuitos se afectarán o se restablecerán en dependencia del déficit en cada momento de la jornada, que es muy variable.",
-    "timestamp": 1780386487,
-    "timestamp_local": 1780386487
   }
 ]
