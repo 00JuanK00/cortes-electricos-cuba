@@ -1,5 +1,45 @@
 [
   {
+    "id": 47750,
+    "fecha": "04 de Jun del 2026 a las 04:10 PM",
+    "hora_utc": "2026-06-04 20:10",
+    "mensaje": "💡Restablecido el servicio eléctrico en el siguiente circuito:\n🔹Municipio Santa Clara\n👉Cto 169 Condado",
+    "timestamp": 1780603813,
+    "timestamp_local": 1780603813
+  },
+  {
+    "id": 47749,
+    "fecha": "04 de Jun del 2026 a las 04:09 PM",
+    "hora_utc": "2026-06-04 20:09",
+    "mensaje": "⚠Afectado el servicio eléctrico en el siguiente circuito:\n🔹Municipio Santa Clara: \n👉Cto 170 José Martí",
+    "timestamp": 1780603765,
+    "timestamp_local": 1780603765
+  },
+  {
+    "id": 47747,
+    "fecha": "04 de Jun del 2026 a las 03:40 PM",
+    "hora_utc": "2026-06-04 19:40",
+    "mensaje": "⚠Afectado el servicio eléctrico en el siguiente circuito:\n🔹Municipio Santa Clara: \n👉Cto 167 Virginia",
+    "timestamp": 1780602050,
+    "timestamp_local": 1780602050
+  },
+  {
+    "id": 47746,
+    "fecha": "04 de Jun del 2026 a las 03:20 PM",
+    "hora_utc": "2026-06-04 19:20",
+    "mensaje": "💡Restablecido el servicio eléctrico en los siguientes circuitos:\n🔹Municipio Sagua \n👉Cto 48 Finalet\n👉Ctos 46 y 128 Sitiecito\n🔹Municipio Encrucijada:  \n👉Cto 123 Vizcaya \n👉Cto 142 Comunidad La Sierra \n👉Cto 126 Batey Emilio Córdova\n👉Cto 125 Cavarrocas\n👉Cto 124 El Santo",
+    "timestamp": 1780600852,
+    "timestamp_local": 1780600852
+  },
+  {
+    "id": 47745,
+    "fecha": "04 de Jun del 2026 a las 03:19 PM",
+    "hora_utc": "2026-06-04 19:19",
+    "mensaje": "⚠Se encuentran afectados los siguientes circuitos:\n🔹Municipio Sagua\n👉Ctos 50 y 147 Villa Alegre\n🔹Municipio Santa Clara:\n👉Cto 5 Dobarganes\n👉Cto 17 Subplanta\n👉Ctos 37 y 38 Yabú \n👉Cto 9 Moldes y Troqueles\n👉Cto 133 Taller Cafetera\n👉Ctos 26 y 141 Manuelita\n👉Cto 191 Quemado de Hilario\n🔹Municipio Placetas:\n👉Cto 192 Benito Juárez\n👉Cto 102 Peroti",
+    "timestamp": 1780600773,
+    "timestamp_local": 1780600773
+  },
+  {
     "id": 47744,
     "fecha": "04 de Jun del 2026 a las 02:39 PM",
     "hora_utc": "2026-06-04 18:39",
@@ -110,37 +150,5 @@
     "mensaje": "💡Restablecido el servicio eléctrico en los siguientes circuitos:\n🔹Municipio Santa Clara:\n👉Cto 167 Virginia\n👉Ctos 1 y 4 Consejo- Centro",
     "timestamp": 1780590420,
     "timestamp_local": 1780590420
-  },
-  {
-    "id": 47729,
-    "fecha": "04 de Jun del 2026 a las 12:25 PM",
-    "hora_utc": "2026-06-04 16:25",
-    "mensaje": "⚠Afectado el servicio eléctrico en los siguientes circuitos:\nMunicipio Santa Clara:\n🔹Cto 169 Condado\n🔹Ctos 2 y 3 Consejo- Centro",
-    "timestamp": 1780590351,
-    "timestamp_local": 1780590351
-  },
-  {
-    "id": 47728,
-    "fecha": "04 de Jun del 2026 a las 12:17 PM",
-    "hora_utc": "2026-06-04 16:17",
-    "mensaje": "🕛Actualización del servicio eléctrico.\n✍️ Cuenta con 185 afectaciones por averías secundarias y de servicio:\n🔸 Caibarién (3)\n🔸Camajuaní (4)\n🔸 Corralillo (2)\n🔸 Encrucijada (1)\n🔸 Manicaragua (9)\n🔸 Placetas (14)\n🔸 Ranchuelo (10)\n🔸 Remedios (10) \n🔸 Sagua (23) \n🔸 Santa Clara (84)\n🔸 Santo Domingo (25)\n🛠️Pendientes a solucionar por el área técnica 17\n⚡En avería el Cto 193 Santa Clara Industrial, perteneciente al municipio Santa Clara, se estudian las causas.",
-    "timestamp": 1780589829,
-    "timestamp_local": 1780589829
-  },
-  {
-    "id": 47727,
-    "fecha": "04 de Jun del 2026 a las 11:43 AM",
-    "hora_utc": "2026-06-04 15:43",
-    "mensaje": "Se encuentran disparados los Ctos 162 y 193 Santa Clara Industrial, pertenecientes al municipio Santa Clara, se estudian las causas.",
-    "timestamp": 1780587831,
-    "timestamp_local": 1780587831
-  },
-  {
-    "id": 47726,
-    "fecha": "04 de Jun del 2026 a las 11:03 AM",
-    "hora_utc": "2026-06-04 15:03",
-    "mensaje": "Afectados 125 MW en la provincia, demanda máxima a apagar en estos momentos.",
-    "timestamp": 1780585402,
-    "timestamp_local": 1780585402
   }
 ]
