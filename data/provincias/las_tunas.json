@@ -1,5 +1,29 @@
 [
   {
+    "id": 19417,
+    "fecha": "04 de Jun del 2026 a las 11:33 AM",
+    "hora_utc": "2026-06-04 15:33",
+    "mensaje": "Se encuentran afectados por DAF los circuitos TK:5 Buena Vista Los Pinos y tk:106 Aeropuerto",
+    "timestamp": 1780587202,
+    "timestamp_local": 1780587202
+  },
+  {
+    "id": 19416,
+    "fecha": "04 de Jun del 2026 a las 08:57 AM",
+    "hora_utc": "2026-06-04 12:57",
+    "mensaje": "Se declara en avería el TK25 Cuatro Caminos, Dormitorio.",
+    "timestamp": 1780577870,
+    "timestamp_local": 1780577870
+  },
+  {
+    "id": 19415,
+    "fecha": "04 de Jun del 2026 a las 08:49 AM",
+    "hora_utc": "2026-06-04 12:49",
+    "mensaje": "**Nota Informativa: Estado del Sistema Eléctrico Nacional (SEN) – **4 **de junio de **2026\nEn el día de ayer se afectó el servicio por déficit de capacidad durante las 24 horas y se mantuvo la afectación durante todo el horario de la madrugada. La máxima afectación por déficit de capacidad de generación en el día de ayer fue de 1937 MW.\nLa producción de energía de los 54 nuevos parques solares fotovoltaicos fue de 3269 MWh, con 446 MW como máxima potencia entregada en el horario de la media con esta fuente de generación.\nEstado actual del SEN\nLa disponibilidad del SEN a las 06:00 horas es de 1120 MW, la demanda 2570 MW con 1452 MW afectados. En el horario de la media se estima una afectación de 1350 MW.\nPrincipales incidencias\nAvería: Unidades 6 y 8 de la CTE Máximo Gómez, Unidad 2 de la CTE Ernesto Guevara De La Serna, Unidad 2 de la CTE Lidio Ramón Pérez.\nMantenimiento: Unidad 5 de la CTE Mariel, Unidad 6 de la CTE Renté, Unidad 5 de la CTE Nuevitas.\nLimitaciones en la generación térmica: 458 MW fuera de servicio.\nFuera de servicio 106 centrales de generación distribuida por falta de combustible, con 890 MW.\nFuera de servicio la Patana de Regla, Patana de Melones, Central Fuel de Mariel, Central Fuel de Moa.\nTotal de MW indisponibles por combustible: 1203\nPronóstico para el horario pico\nPara el pico se prevé la entrada de la unidad 8 de la CTE Mariel con 35 MW (En proceso de arranque).\nCon este pronóstico se estima para el horario de máxima demanda una disponibilidad de 1155 MW con una demanda máxima de 3100 MW, para un déficit de 1945 MW, por lo que de mantenerse las condiciones previstas se pronostica una afectación de 1975 MW en este horario.",
+    "timestamp": 1780577342,
+    "timestamp_local": 1780577342
+  },
+  {
     "id": 19411,
     "fecha": "03 de Jun del 2026 a las 05:50 PM",
     "hora_utc": "2026-06-03 21:50",
@@ -86,13 +110,5 @@
     "mensaje": "🟥 Más de 1.200 MW indisponibles\n\n📊 Escala visual\n🟥 Generación Distribuida: ██████████\n🟧 Patanas: ████\n🟨 Centrales Fuel: ████\n\n🚨 La falta de combustible mantiene fuera de servicio\n106 centrales de generación distribuida, las patanas\nde Regla y Melones, además de las Centrales Fuel\nde Mariel y Moa.\n\n⚡ Potencia indisponible: MÁS DE 1.200 MW ⚡",
     "timestamp": 1780498318,
     "timestamp_local": 1780498318
-  },
-  {
-    "id": 19394,
-    "fecha": "03 de Jun del 2026 a las 09:07 AM",
-    "hora_utc": "2026-06-03 13:07",
-    "mensaje": "Nota Informativa: Estado del Sistema Eléctrico Nacional (SEN) – 3 de junio de 2026\n\nEn el día de ayer se afectó el servicio por déficit de capacidad durante las 24 horas y se mantuvo la afectación durante todo el horario de la madrugada. La máxima afectación por déficit de capacidad de generación en el día de ayer fue de 2110 MW a las 22:00 horas, superior a lo planificado por la salida por de las unidades 6 y 8 de la CTE Mariel y de la unidad 3 de la CTE Renté por oscilaciones provocadas por la avería en la subestación Apolo 110 kV.\n\nLa producción de energía de los 54 nuevos parques solares fotovoltaicos fue de 3342 MWh, con 497 MW como máxima potencia entregada en el horario de la media con esta fuente de generación.\nEstado actual del SEN\n\nLa disponibilidad del SEN a las 06:00 horas es de 1020 MW, la demanda 2570 MW con 1600 MW afectados. En el horario de la media se estima una afectación de 1450 MW.\nPrincipales incidencias\n\n    Avería: Unidad 6 de la CTE Máximo Gómez, Unidad 2 de la CTE Ernesto Guevara De La Serna, Unidad 2 de la CTE Lidio Ramón Pérez y la Unidad 5 de la CTE Antonio Maceo.\n    Mantenimiento: Unidad 5 de la CTE Mariel, Unidad 6 de la CTE Renté, Unidad 5 de la CTE Nuevitas.\n    Limitaciones en la generación térmica: 444 MW fuera de servicio.\n    Fuera de servicio 106 centrales de generación distribuida por falta de combustible, con 890 MW.\n    Fuera de servicio la Patana de Regla, Patana de Melones, Central Fuel de Mariel, Central Fuel de Moa.\n    Total de MW indisponibles por combustible: 1203\n\nPronóstico para el horario pico\n\nPara el pico se prevé la entrada de la CTE Guiteras con 200 MW (en proceso de arranque) y el completamiento de 45 MW en la unidad 3 de la CTE Cienfuegos.\n\nCon este pronóstico se estima para el horario de máxima demanda una disponibilidad de 1265 MW con una demanda máxima de 3150 MW, para un déficit de 1885 MW, por lo que de mantenerse las condiciones previstas se pronostica una afectación de 1905 MW en este horario.",
-    "timestamp": 1780492045,
-    "timestamp_local": 1780492045
   }
 ]

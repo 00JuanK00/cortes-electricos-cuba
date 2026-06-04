@@ -1,5 +1,21 @@
 [
   {
+    "id": 47727,
+    "fecha": "04 de Jun del 2026 a las 11:43 AM",
+    "hora_utc": "2026-06-04 15:43",
+    "mensaje": "Se encuentran disparados los Ctos 162 y 193 Santa Clara Industrial, pertenecientes al municipio Santa Clara, se estudian las causas.",
+    "timestamp": 1780587831,
+    "timestamp_local": 1780587831
+  },
+  {
+    "id": 47726,
+    "fecha": "04 de Jun del 2026 a las 11:03 AM",
+    "hora_utc": "2026-06-04 15:03",
+    "mensaje": "Afectados 125 MW en la provincia, demanda máxima a apagar en estos momentos.",
+    "timestamp": 1780585402,
+    "timestamp_local": 1780585402
+  },
+  {
     "id": 47724,
     "fecha": "03 de Jun del 2026 a las 04:37 PM",
     "hora_utc": "2026-06-03 20:37",
@@ -134,21 +150,5 @@
     "mensaje": "Actualización del servicio eléctrico en la provincia.\n👉En este momento la afectación por déficit de capacidad de generación es de 119 MW, la demanda máxima posible a apagarse en estos momentos.\n👉De los circuitos apagables se mantienen afectados 136.\n👉Cuenta con 269 afectaciones por averías secundarias de servicio.",
     "timestamp": 1780510018,
     "timestamp_local": 1780510018
-  },
-  {
-    "id": 47707,
-    "fecha": "03 de Jun del 2026 a las 02:02 PM",
-    "hora_utc": "2026-06-03 18:02",
-    "mensaje": "⚠Afectado el servicio eléctrico en el siguiente circuito:\n🔹Municipio Santa Clara:\n👉Cto 162 Santa Clara Industrial",
-    "timestamp": 1780509753,
-    "timestamp_local": 1780509753
-  },
-  {
-    "id": 47706,
-    "fecha": "03 de Jun del 2026 a las 01:59 PM",
-    "hora_utc": "2026-06-03 17:59",
-    "mensaje": "🛠Afectado por vía libre para realizar cambio de transformador el circuito 44 (Isabela) del municipio Sagua.",
-    "timestamp": 1780509549,
-    "timestamp_local": 1780509549
   }
 ]
