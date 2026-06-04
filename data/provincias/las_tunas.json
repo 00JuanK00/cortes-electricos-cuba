@@ -1,5 +1,29 @@
 [
   {
+    "id": 19424,
+    "fecha": "04 de Jun del 2026 a las 06:25 PM",
+    "hora_utc": "2026-06-04 22:25",
+    "mensaje": "Se declaran en avería los siguientes circuitos:                                                                           Tk24 Santo domingo-Sosa                                                                                                                 Tk27La victoria",
+    "timestamp": 1780611926,
+    "timestamp_local": 1780611926
+  },
+  {
+    "id": 19423,
+    "fecha": "04 de Jun del 2026 a las 06:04 PM",
+    "hora_utc": "2026-06-04 22:04",
+    "mensaje": "Se afecta el servicio fuera de horario al circuito Tk9 Aguilera",
+    "timestamp": 1780610667,
+    "timestamp_local": 1780610667
+  },
+  {
+    "id": 19421,
+    "fecha": "04 de Jun del 2026 a las 05:23 PM",
+    "hora_utc": "2026-06-04 21:23",
+    "mensaje": "Se afecta el circuito Tk1 Rpto Santos, B.Vista y Finlay fuera de horario.",
+    "timestamp": 1780608229,
+    "timestamp_local": 1780608229
+  },
+  {
     "id": 19420,
     "fecha": "04 de Jun del 2026 a las 02:55 PM",
     "hora_utc": "2026-06-04 18:55",
@@ -86,21 +110,5 @@
     "mensaje": "Quedó solucionada la avería del circuito Tk10 El Cornito",
     "timestamp": 1780515166,
     "timestamp_local": 1780515166
-  },
-  {
-    "id": 19403,
-    "fecha": "03 de Jun del 2026 a las 03:18 PM",
-    "hora_utc": "2026-06-03 19:18",
-    "mensaje": "⚡Informamos a la población que el circuito de 33kv 6310 El Roble-Vázquez se encuentra disparado por DAF",
-    "timestamp": 1780514309,
-    "timestamp_local": 1780514309
-  },
-  {
-    "id": 19402,
-    "fecha": "03 de Jun del 2026 a las 01:57 PM",
-    "hora_utc": "2026-06-03 17:57",
-    "mensaje": "📣 Informamos a los clientes de Pto Padre que el circuito de 33Kv 6225 se encuentra disparado en estos momentos.",
-    "timestamp": 1780509477,
-    "timestamp_local": 1780509477
   }
 ]
