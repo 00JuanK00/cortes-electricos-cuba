@@ -1,5 +1,29 @@
 [
   {
+    "id": 19427,
+    "fecha": "04 de Jun del 2026 a las 07:30 PM",
+    "hora_utc": "2026-06-04 23:30",
+    "mensaje": "📊 Porcentaje de afectación estimada por provincia (%)\n\n🟥 Holguín         77%  ████████████████████████████████████████\n🟧 Artemisa        73%  ██████████████████████████████████████\n🟧 Cienfuegos      73%  ██████████████████████████████████████\n🟧 Sancti Spíritus 73%  ██████████████████████████████████████\n🟨 Granma          71%  ████████████████████████████████████\n🟨 Villa Clara     67%  ██████████████████████████████████\n🟨 Ciego de Ávila  67%  ██████████████████████████████████\n🟨 Mayabeque       66%  █████████████████████████████████\n🟨 Las Tunas       66%  █████████████████████████████████\n🟨 Santiago de Cuba 66% █████████████████████████████████\n🟨 Guantánamo      65%  ████████████████████████████████\n🟩 Pinar del Río   63%  ███████████████████████████████\n🟩 Camagüey        57%  ████████████████████████████\n🟩 Matanzas        51%  █████████████████████████\n🟩 La Habana       50%  ████████████████████████\n\n📌 Promedio nacional estimado: 65.7%\n\n⚠️ Nota: Este valor es una estimación aproximada y no representa la cifra oficial exacta.",
+    "timestamp": 1780615820,
+    "timestamp_local": 1780615820
+  },
+  {
+    "id": 19426,
+    "fecha": "04 de Jun del 2026 a las 07:29 PM",
+    "hora_utc": "2026-06-04 23:29",
+    "mensaje": "Que significa e implica la máxima capacidad apagable en la provincia:                                                                                                \n📈 Máxima capacidad apagable se refiere al nivel máximo de demanda eléctrica que puede ser desconectada o suspendida temporalmente en la provincia, explica la complejidad del déficit de generación o contingencias en el sistema eléctrico.\nRepresenta el límite superior de la reducción de carga que la empresa puede lograr mediante cortes de energía (apagones). Cuanto mayor sea la máxima capacidad apagable, mayor será el déficit de energía.\n¿Qué implica esto?\nSe identifica cuántos circuitos pueden ser apagados para equilibrar la carga del sistema, esto imposibilita realizar rotaciones, pues a \nexcepción de los servicios priorizados, se encuentran afectados todos los circuitos apagables del territorio. Podrán presentarse afectaciones \nen el servicio de electricidad durante varias horas al día y el tiempo con servicio dependerá del comportamiento del SEN. Esta medida es \nnecesaria para evitar fallas mayores y proteger la infraestructura eléctrica.",
+    "timestamp": 1780615788,
+    "timestamp_local": 1780615788
+  },
+  {
+    "id": 19425,
+    "fecha": "04 de Jun del 2026 a las 07:28 PM",
+    "hora_utc": "2026-06-04 23:28",
+    "mensaje": "⚡ Actualización del Sistema Electroenergético Nacional para el 4 de junio de 2026.\n\nPronóstico de afectación:\nPara el mediodía: 1350 MW\nPara el pico de la noche: 1975 MW\n\nLeer más: https://www.unionelectrica.cu/nota-informativa/\n\n#UnidosXCuba #UniónEléctrica #UNE #NotaInformativa",
+    "timestamp": 1780615731,
+    "timestamp_local": 1780615731
+  },
+  {
     "id": 19424,
     "fecha": "04 de Jun del 2026 a las 06:25 PM",
     "hora_utc": "2026-06-04 22:25",
@@ -86,29 +110,5 @@
     "mensaje": "🔴 15:15 || Fuera de línea la Unidad 1 de la CTE Ernesto Guevara De La Serna por fallo en el sistema de regulación turbina.",
     "timestamp": 1780516643,
     "timestamp_local": 1780516643
-  },
-  {
-    "id": 19407,
-    "fecha": "03 de Jun del 2026 a las 03:51 PM",
-    "hora_utc": "2026-06-03 19:51",
-    "mensaje": "Se afectan fuera de horario los siguientes circuitos:                                                                                                                  TK6 Calle Cuba y zona sur de Buena Vista\nTK12 Las 40 y Nuevo Sosa\nTK4 Aeropuerto, Casa Piedra y Aurora",
-    "timestamp": 1780516274,
-    "timestamp_local": 1780516274
-  },
-  {
-    "id": 19406,
-    "fecha": "03 de Jun del 2026 a las 03:36 PM",
-    "hora_utc": "2026-06-03 19:36",
-    "mensaje": "Se mantiene en avería el circuito Tk 106 Palancón",
-    "timestamp": 1780515378,
-    "timestamp_local": 1780515378
-  },
-  {
-    "id": 19405,
-    "fecha": "03 de Jun del 2026 a las 03:32 PM",
-    "hora_utc": "2026-06-03 19:32",
-    "mensaje": "Quedó solucionada la avería del circuito Tk10 El Cornito",
-    "timestamp": 1780515166,
-    "timestamp_local": 1780515166
   }
 ]
