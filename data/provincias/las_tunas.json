@@ -1,5 +1,21 @@
 [
   {
+    "id": 19420,
+    "fecha": "04 de Jun del 2026 a las 02:55 PM",
+    "hora_utc": "2026-06-04 18:55",
+    "mensaje": "Se declaran en avería los siguientes circuitos:\nTK43 Las Parras, Omaja y Cañada Honda\nCircuito 33 Kv: 6100**\n**TK35 Puerto Manatí\nTK36 El Raúl\nTK22 Aeropuerto\nTK23 Veguita\nTK32 Fleytas\nTK30 Meriño",
+    "timestamp": 1780599319,
+    "timestamp_local": 1780599319
+  },
+  {
+    "id": 19419,
+    "fecha": "04 de Jun del 2026 a las 02:12 PM",
+    "hora_utc": "2026-06-04 18:12",
+    "mensaje": "La Empresa Eléctrica Las Tunas informa que, según la nota emitida por la Unión Eléctrica para el 4 de junio, en el día de ayer se afectó el servicio por déficit de capacidad durante las 24 horas y se mantuvo la afectación durante todo el horario de la madrugada. En nuestra provincia se afectaron la totalidad de los circuitos apagables, con una máxima afectación de 76.3 MW.\nActualmente están fuera de servicio por avería las Unidades 6 y 8 de la CTE Máximo Gómez, Unidad 2 de la CTE Ernesto Guevara De La Serna, Unidad 2 de la CTE Lidio Ramón Pérez.\nEn mantenimiento se encuentran la Unidad 5 de la CTE Mariel, Unidad 6 de la CTE Renté, Unidad 5 de la CTE Nuevitas.\nEn el horario pico nocturno se prevén 1975 MW de afectación, en Las Tunas puede extenderse a todos los circuitos apagables, debido al alto déficit de capacidad de generación existente.\nEstos valores pueden variar según la demanda nacional.",
+    "timestamp": 1780596764,
+    "timestamp_local": 1780596764
+  },
+  {
     "id": 19417,
     "fecha": "04 de Jun del 2026 a las 11:33 AM",
     "hora_utc": "2026-06-04 15:33",
@@ -86,29 +102,5 @@
     "mensaje": "📣 Informamos a los clientes de Pto Padre que el circuito de 33Kv 6225 se encuentra disparado en estos momentos.",
     "timestamp": 1780509477,
     "timestamp_local": 1780509477
-  },
-  {
-    "id": 19400,
-    "fecha": "03 de Jun del 2026 a las 11:23 AM",
-    "hora_utc": "2026-06-03 15:23",
-    "mensaje": "📈 RESUMEN GENERAL\n\n⚡ Generación termoeléctrica aproximada: 924 MW\n\n🟢 Unidades en línea: 9\n🔴 Unidades en avería: 4\n🟡 Unidades en mantenimiento: 3\n🟠 Unidades fuera por falta de combustible: 0\n\n🏆 PRINCIPALES APORTES AL SEN\n\n🥇 Antonio Guiteras → 200 MW\n🥈 Felton U1 → 190 MW\n🥉 Céspedes U3 → 158 MW\n\n🚨 RESUMEN\n\nEl Sistema Eléctrico Nacional cuenta actualmente con 9 unidades generando y aportando aproximadamente 924 MW. Las mayores contribuciones provienen de Antonio Guiteras, Felton 1 y Céspedes 3. Permanecen fuera de servicio 4 unidades por avería y 3 unidades en mantenimiento. No se reportan unidades indisponibles por falta de combustible. Las cargas mostradas corresponden a los últimos datos disponibles de la UNE y a estimaciones operativas que pueden variar durante la jornada.",
-    "timestamp": 1780500186,
-    "timestamp_local": 1780500186
-  },
-  {
-    "id": 19399,
-    "fecha": "03 de Jun del 2026 a las 10:56 AM",
-    "hora_utc": "2026-06-03 14:56",
-    "mensaje": "📣**Nota a los Clientes** 📣\n\nEstimados clientes, en días de muchas afectaciones al servicio eléctrico, el centro de atención telefónica ☎️ **colapsa** por la cantidad de llamadas📞que se reciben al mismo tiempo 🕰️para solicitar información o reportar una interrupción.\n\n👉Cuando esto sucede da timbre y no sale la contestadora porque la línea se encuentra ocupada.\n\n👉**La pizarra es un sistema automático** que no permite a la ejecutiva no responder las llamadas o colgar, mientras la línea esté ocupada no entran las llamadas.\n\n**👉Este sistema automatizado además de brindar toda la información estadística utilizada por nuestras operadoras, permite grabar todas las llamadas que se reciben en el 1️⃣8️⃣8️⃣8️⃣8️⃣.**",
-    "timestamp": 1780498617,
-    "timestamp_local": 1780498617
-  },
-  {
-    "id": 19398,
-    "fecha": "03 de Jun del 2026 a las 10:51 AM",
-    "hora_utc": "2026-06-03 14:51",
-    "mensaje": "🟥 Más de 1.200 MW indisponibles\n\n📊 Escala visual\n🟥 Generación Distribuida: ██████████\n🟧 Patanas: ████\n🟨 Centrales Fuel: ████\n\n🚨 La falta de combustible mantiene fuera de servicio\n106 centrales de generación distribuida, las patanas\nde Regla y Melones, además de las Centrales Fuel\nde Mariel y Moa.\n\n⚡ Potencia indisponible: MÁS DE 1.200 MW ⚡",
-    "timestamp": 1780498318,
-    "timestamp_local": 1780498318
   }
 ]
