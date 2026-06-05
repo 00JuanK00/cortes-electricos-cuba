@@ -1,9 +1,89 @@
 [
   {
+    "id": 47834,
+    "fecha": "05 de Jun del 2026 a las 03:55 PM",
+    "hora_utc": "2026-06-05 19:55",
+    "mensaje": "⚠Afectado el servicio eléctrico en el siguiente circuito:\n🔹Municipio Santa Clara\n👉Cto 31 Santa Clara Industrial",
+    "timestamp": 1780689328,
+    "timestamp_local": 1780689328
+  },
+  {
+    "id": 47833,
+    "fecha": "05 de Jun del 2026 a las 03:54 PM",
+    "hora_utc": "2026-06-05 19:54",
+    "mensaje": "💡Con servicio eléctrico los siguientes circuitos.\n🔹Municipio Ranchuelo:\n👉Cto 92 Esperanza",
+    "timestamp": 1780689245,
+    "timestamp_local": 1780689245
+  },
+  {
+    "id": 47832,
+    "fecha": "05 de Jun del 2026 a las 03:49 PM",
+    "hora_utc": "2026-06-05 19:49",
+    "mensaje": "Actualización del servicio eléctrico en la provincia.\n👉En este momento la afectación por déficit de capacidad de generación es de 135 MW, la demanda máxima posible a apagarse en estos momentos.\n👉De los circuitos apagables se mantienen afectados 145.\n👉Cuenta con 210 afectaciones por averías secundarias de servicio.",
+    "timestamp": 1780688993,
+    "timestamp_local": 1780688993
+  },
+  {
+    "id": 47831,
+    "fecha": "05 de Jun del 2026 a las 03:35 PM",
+    "hora_utc": "2026-06-05 19:35",
+    "mensaje": "⚡Afectado por cable primario partido Cto 4 Consejo- Centro, perteneciente al Municipio Santa Clara.",
+    "timestamp": 1780688154,
+    "timestamp_local": 1780688154
+  },
+  {
+    "id": 47830,
+    "fecha": "05 de Jun del 2026 a las 03:22 PM",
+    "hora_utc": "2026-06-05 19:22",
+    "mensaje": "⚡Afectado por disparo  Cto 39 Sandino, perteneciente al Municipio Santa Clara, se estudian las causas.",
+    "timestamp": 1780687344,
+    "timestamp_local": 1780687344
+  },
+  {
+    "id": 47829,
+    "fecha": "05 de Jun del 2026 a las 03:12 PM",
+    "hora_utc": "2026-06-05 19:12",
+    "mensaje": "💡Con servicio eléctrico el siguiente circuito:\n🔹Municipio Santa Clara\n👉Cto 4  Consejo- Centro",
+    "timestamp": 1780686742,
+    "timestamp_local": 1780686742
+  },
+  {
+    "id": 47828,
+    "fecha": "05 de Jun del 2026 a las 02:59 PM",
+    "hora_utc": "2026-06-05 18:59",
+    "mensaje": "💡Con servicio eléctrico los siguientes circuitos.\n🔹Municipio Quemado:\n👉 Cto 196 Batey Panchito Gómez Toro",
+    "timestamp": 1780685962,
+    "timestamp_local": 1780685962
+  },
+  {
+    "id": 47827,
+    "fecha": "05 de Jun del 2026 a las 02:57 PM",
+    "hora_utc": "2026-06-05 18:57",
+    "mensaje": "⚠Afectado el servicio eléctrico en el siguiente circuito:\n🔹Municipio Quemado:\n👉Cto 164 Quemado",
+    "timestamp": 1780685875,
+    "timestamp_local": 1780685875
+  },
+  {
+    "id": 47826,
+    "fecha": "05 de Jun del 2026 a las 02:51 PM",
+    "hora_utc": "2026-06-05 18:51",
+    "mensaje": "💡Con servicio eléctrico los siguientes circuitos.\n🔹Municipio Manicaragua:\n👉Ctos 108 y 110 La Piedra",
+    "timestamp": 1780685487,
+    "timestamp_local": 1780685487
+  },
+  {
+    "id": 47825,
+    "fecha": "05 de Jun del 2026 a las 02:48 PM",
+    "hora_utc": "2026-06-05 18:48",
+    "mensaje": "⚠Afectado el servicio eléctrico en el siguiente circuito:\n🔹Municipio Santa Clara\n👉Cto 153 EIDE",
+    "timestamp": 1780685316,
+    "timestamp_local": 1780685316
+  },
+  {
     "id": 47824,
     "fecha": "05 de Jun del 2026 a las 02:22 PM",
     "hora_utc": "2026-06-05 18:22",
-    "mensaje": "⚠Afectado el servicio eléctrico en los siguientes circuitos:\n🔹Municipio Santa Clara\n👉Cto 162  y 193 Santa Clara Industrial",
+    "mensaje": "⚠Afectado el servicio eléctrico en los siguientes circuitos:\n🔹Municipio Santa Clara\n👉Cto 162  y 193 Santa Clara Industrial\n👉Cto 144 Camacho-Libertad",
     "timestamp": 1780683753,
     "timestamp_local": 1780683753
   },
@@ -78,85 +158,5 @@
     "mensaje": "💡Con servicio eléctrico los siguientes circuitos.\n🔹Municipio Ranchuelo:\n👉Cto 92 Esperanza \n🔹Municipio Remedios:\n👉Ctos  68 y 118",
     "timestamp": 1780680248,
     "timestamp_local": 1780680248
-  },
-  {
-    "id": 47814,
-    "fecha": "05 de Jun del 2026 a las 01:22 PM",
-    "hora_utc": "2026-06-05 17:22",
-    "mensaje": "➡La Provincia presenta 5 afectaciones de servicio eléctrico por transformador dañado:\n👉Municipio Camajuaní: Carretera a Camajuaní  e/ La Guinea y . Vueltas\n👉Municipio Ranchuelo:Carretera de Esperanza a Ranchuelo  e/ Fte al Circulo y Batey Castaño.\n👉 Municipio Remedios: Carretera de Buena Vista a Carrillo  e/ En la Entrada del Batey y Subiendo La Loma. Batey Levisa\n👉Municipio  Santo Domingo: Agustin Rguez Mena  e/ Campo y . Santo Domingo\n👉Municipio Santa Clara: Carretera Central Bda Placetas km 306 , después de la delegación del MININT.",
-    "timestamp": 1780680148,
-    "timestamp_local": 1780680148
-  },
-  {
-    "id": 47813,
-    "fecha": "05 de Jun del 2026 a las 12:47 PM",
-    "hora_utc": "2026-06-05 16:47",
-    "mensaje": "⚠Afectado el servicio eléctrico en el siguiente circuito:\n🔹Municipio Manicaragua:\n👉Cto 112 Hoyo Manicaragua",
-    "timestamp": 1780678025,
-    "timestamp_local": 1780678025
-  },
-  {
-    "id": 47812,
-    "fecha": "05 de Jun del 2026 a las 12:41 PM",
-    "hora_utc": "2026-06-05 16:41",
-    "mensaje": "⚡Afectado por cable primario partido Cto 4 Consejo- Centro, perteneciente al Municipio Santa Clara.",
-    "timestamp": 1780677674,
-    "timestamp_local": 1780677674
-  },
-  {
-    "id": 47811,
-    "fecha": "05 de Jun del 2026 a las 12:24 PM",
-    "hora_utc": "2026-06-05 16:24",
-    "mensaje": "🕛Actualización del servicio eléctrico.\n✍️El déficit de capacidad de generación en estos momentos es de 142 MW\n✍️En el momento de esta nota, se mantienen afectados 145 circuitos.\n✍️ Cuenta con 231 afectaciones por averías secundarias y de servicio:\n🔸 Caibarién (11)\n🔸 Encrucijada (2)\n🔸 Manicaragua (5)\n🔸 Placetas (15)\n🔸 Ranchuelo (14)\n🔸 Remedios (13) \n🔸 Sagua (26) \n🔸 Santa Clara (114)\n🔸 Santo Domingo (11)\n🛠️Se encuentran 6 averías en vías de solución.\n🛠️Pendientes a solucionar por el área técnica 14.\n🛠Afectados por una Vía Libre para cambio de transformador en la Sub estacion eléctrica los siguientes circuitos pertenecientes a Línea 4608.\n➡️Línea 4608\n🔹Municipio Corralillo:\n👉Cto 57 Motembo \n👉Cto 56 Yabre\n👉Cto 60 La Sierra\n👉Cto 55 Rancho Veloz",
-    "timestamp": 1780676642,
-    "timestamp_local": 1780676642
-  },
-  {
-    "id": 47810,
-    "fecha": "05 de Jun del 2026 a las 12:21 PM",
-    "hora_utc": "2026-06-05 16:21",
-    "mensaje": "⚡ Actualización del Sistema Electroenergético Nacional para el 5 de junio de 2026.\n\nPronóstico de afectación:\nPara el mediodía: 1650 MW\nPara el pico de la noche: 1990 MW\n\nLeer más: https://www.unionelectrica.cu/nota-informativa/\n\n#UnidosXCuba #UniónEléctrica #UNE #NotaInformativa",
-    "timestamp": 1780676507,
-    "timestamp_local": 1780676507
-  },
-  {
-    "id": 47809,
-    "fecha": "05 de Jun del 2026 a las 12:18 PM",
-    "hora_utc": "2026-06-05 16:18",
-    "mensaje": "📍Sale del sistema eléctrico la CTE Máximo Gómez 8,  por causas desconocidas y la CTE Antonio Guiteras por salidero en caldera.",
-    "timestamp": 1780676311,
-    "timestamp_local": 1780676311
-  },
-  {
-    "id": 47808,
-    "fecha": "05 de Jun del 2026 a las 12:13 PM",
-    "hora_utc": "2026-06-05 16:13",
-    "mensaje": "💡Con servicio eléctrico el siguiente circuito:\n🔹Municipio Santa Clara\n👉Cto 39 Sandino",
-    "timestamp": 1780676017,
-    "timestamp_local": 1780676017
-  },
-  {
-    "id": 47807,
-    "fecha": "05 de Jun del 2026 a las 12:12 PM",
-    "hora_utc": "2026-06-05 16:12",
-    "mensaje": "💡Restablecido el servicio eléctrico en los siguientes circuitos:\n🔹Municipio Placetas:\n👉Cto 192 Benito Juárez\n👉Cto 102 Peroti\n🔹Municipio Quemado:\n👉Cto 164 Quemado",
-    "timestamp": 1780675938,
-    "timestamp_local": 1780675938
-  },
-  {
-    "id": 47806,
-    "fecha": "05 de Jun del 2026 a las 12:11 PM",
-    "hora_utc": "2026-06-05 16:11",
-    "mensaje": "⚠Afectado el servicio eléctrico en el siguiente circuito:\n🔹Municipio Quemado\n👉Cto 52 Quemado",
-    "timestamp": 1780675900,
-    "timestamp_local": 1780675900
-  },
-  {
-    "id": 47805,
-    "fecha": "05 de Jun del 2026 a las 12:01 PM",
-    "hora_utc": "2026-06-05 16:01",
-    "mensaje": "⚠Afectado el servicio eléctrico en los siguientes circuitos:\n🔹Municipio Santa Clara\n👉Cto 146 Elevado Aeropuerto\n👉Cto 24 Planta Asfalto",
-    "timestamp": 1780675273,
-    "timestamp_local": 1780675273
   }
 ]
