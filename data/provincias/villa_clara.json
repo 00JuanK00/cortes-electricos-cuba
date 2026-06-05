@@ -1,5 +1,53 @@
 [
   {
+    "id": 47771,
+    "fecha": "05 de Jun del 2026 a las 02:08 AM",
+    "hora_utc": "2026-06-05 06:08",
+    "mensaje": "Actualización del servicio eléctrico en la provincia.\n👉En este momento la afectación por déficit de capacidad de generación es de 125 MW, la demanda máxima posible a apagarse en estos momentos.\n👉De los circuitos apagables se mantienen afectados 145.\n👉Cuenta con 204 afectaciones por averías secundarias de servicio.",
+    "timestamp": 1780639696,
+    "timestamp_local": 1780639696
+  },
+  {
+    "id": 47770,
+    "fecha": "05 de Jun del 2026 a las 01:21 AM",
+    "hora_utc": "2026-06-05 05:21",
+    "mensaje": "Afectados 129 MW en la provincia, demanda máxima a apagar en estos momentos.",
+    "timestamp": 1780636911,
+    "timestamp_local": 1780636911
+  },
+  {
+    "id": 47769,
+    "fecha": "05 de Jun del 2026 a las 01:21 AM",
+    "hora_utc": "2026-06-05 05:21",
+    "mensaje": "✍️Ante cualquier duda conozca sobre la terminología eléctrica\n\n🔹Las averías pueden ser:\n     \n➡️Primarias: Afecta un volumen grande de población pues son las líneas de distribución a 13.8 kV y puede afectar varias manzanas, incluso repartos completos.\n\n➡️Secundarias: Afecta a todos los clientes que se alimenten del mismo transformador, puede afectar una o varias cuadras. \n\n➡️De servicio: Afectan 1 solo cliente o instalación generalmente producto a daños en la acometida, metro contador, etc.).",
+    "timestamp": 1780636864,
+    "timestamp_local": 1780636864
+  },
+  {
+    "id": 47768,
+    "fecha": "05 de Jun del 2026 a las 12:15 AM",
+    "hora_utc": "2026-06-05 04:15",
+    "mensaje": "🕛Actualización del servicio eléctrico.\n✍️ Cuenta con 202 afectaciones por averías secundarias y de servicio:\n🔸 Caibarién (9)\n🔸 Camajuaní (1)\n🔸 Encrucijada (2)\n🔸 Manicaragua (6)\n🔸 Placetas (15)\n🔸 Ranchuelo (13)\n🔸 Remedios (13) \n🔸 Sagua (24) \n🔸 Santa Clara (109)\n🔸 Santo Domingo (10)\n🛠️Pendientes a solucionar por el área técnica 18\n⚡La provincia no presenta averías primarias en estos momentos.",
+    "timestamp": 1780632919,
+    "timestamp_local": 1780632919
+  },
+  {
+    "id": 47767,
+    "fecha": "04 de Jun del 2026 a las 11:07 PM",
+    "hora_utc": "2026-06-05 03:07",
+    "mensaje": "🇨🇺 Actualización del Sistema Electroenergético Nacional a las 19:00 del 4 de junio de 2026.\n\n#UnidosXCuba #NotaInformativa #UniónEléctrica #SEN",
+    "timestamp": 1780628876,
+    "timestamp_local": 1780628876
+  },
+  {
+    "id": 47766,
+    "fecha": "04 de Jun del 2026 a las 11:04 PM",
+    "hora_utc": "2026-06-05 03:04",
+    "mensaje": "Afectados 140 MW en la provincia, demanda máxima a apagar en estos momentos.",
+    "timestamp": 1780628651,
+    "timestamp_local": 1780628651
+  },
+  {
     "id": 47764,
     "fecha": "04 de Jun del 2026 a las 10:07 PM",
     "hora_utc": "2026-06-05 02:07",
@@ -102,61 +150,5 @@
     "mensaje": "⚠Afectado el servicio eléctrico en los siguientes circuitos:\n🔹Municipio Caibarién\n👉Ctos 63 y 64",
     "timestamp": 1780607876,
     "timestamp_local": 1780607876
-  },
-  {
-    "id": 47751,
-    "fecha": "04 de Jun del 2026 a las 05:17 PM",
-    "hora_utc": "2026-06-04 21:17",
-    "mensaje": "💡Restablecido el servicio eléctrico en los siguientes circuitos:\n🔹Municipio Caibarién:\n👉 Ctos 61, 62\n🔹Municipio Encrucijada:\n👉Cto 122 Encrucijada",
-    "timestamp": 1780607836,
-    "timestamp_local": 1780607836
-  },
-  {
-    "id": 47750,
-    "fecha": "04 de Jun del 2026 a las 04:10 PM",
-    "hora_utc": "2026-06-04 20:10",
-    "mensaje": "💡Restablecido el servicio eléctrico en el siguiente circuito:\n🔹Municipio Santa Clara\n👉Cto 169 Condado",
-    "timestamp": 1780603813,
-    "timestamp_local": 1780603813
-  },
-  {
-    "id": 47749,
-    "fecha": "04 de Jun del 2026 a las 04:09 PM",
-    "hora_utc": "2026-06-04 20:09",
-    "mensaje": "⚠Afectado el servicio eléctrico en el siguiente circuito:\n🔹Municipio Santa Clara: \n👉Cto 170 José Martí",
-    "timestamp": 1780603765,
-    "timestamp_local": 1780603765
-  },
-  {
-    "id": 47747,
-    "fecha": "04 de Jun del 2026 a las 03:40 PM",
-    "hora_utc": "2026-06-04 19:40",
-    "mensaje": "⚠Afectado el servicio eléctrico en el siguiente circuito:\n🔹Municipio Santa Clara: \n👉Cto 167 Virginia",
-    "timestamp": 1780602050,
-    "timestamp_local": 1780602050
-  },
-  {
-    "id": 47746,
-    "fecha": "04 de Jun del 2026 a las 03:20 PM",
-    "hora_utc": "2026-06-04 19:20",
-    "mensaje": "💡Restablecido el servicio eléctrico en los siguientes circuitos:\n🔹Municipio Sagua \n👉Cto 48 Finalet\n👉Ctos 46 y 128 Sitiecito\n🔹Municipio Encrucijada:  \n👉Cto 123 Vizcaya \n👉Cto 142 Comunidad La Sierra \n👉Cto 126 Batey Emilio Córdova\n👉Cto 125 Cavarrocas\n👉Cto 124 El Santo",
-    "timestamp": 1780600852,
-    "timestamp_local": 1780600852
-  },
-  {
-    "id": 47745,
-    "fecha": "04 de Jun del 2026 a las 03:19 PM",
-    "hora_utc": "2026-06-04 19:19",
-    "mensaje": "⚠Se encuentran afectados los siguientes circuitos:\n🔹Municipio Sagua\n👉Ctos 50 y 147 Villa Alegre\n🔹Municipio Santa Clara:\n👉Cto 5 Dobarganes\n👉Cto 17 Subplanta\n👉Ctos 37 y 38 Yabú \n👉Cto 9 Moldes y Troqueles\n👉Cto 133 Taller Cafetera\n👉Ctos 26 y 141 Manuelita\n👉Cto 191 Quemado de Hilario\n🔹Municipio Placetas:\n👉Cto 192 Benito Juárez\n👉Cto 102 Peroti",
-    "timestamp": 1780600773,
-    "timestamp_local": 1780600773
-  },
-  {
-    "id": 47744,
-    "fecha": "04 de Jun del 2026 a las 02:39 PM",
-    "hora_utc": "2026-06-04 18:39",
-    "mensaje": "💡Restablecido el servicio eléctrico en la línea del 129:\n➡Línea 129\n👉Cto 40 Hospital Militar",
-    "timestamp": 1780598359,
-    "timestamp_local": 1780598359
   }
 ]

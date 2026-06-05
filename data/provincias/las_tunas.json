@@ -1,5 +1,37 @@
 [
   {
+    "id": 19437,
+    "fecha": "05 de Jun del 2026 a las 01:20 AM",
+    "hora_utc": "2026-06-05 05:20",
+    "mensaje": "Se extiende la afectación en el circuito Tk 6 Zona sur de B,Vista fuera de horario por déficit en capacidad de generación.",
+    "timestamp": 1780636853,
+    "timestamp_local": 1780636853
+  },
+  {
+    "id": 19436,
+    "fecha": "05 de Jun del 2026 a las 01:07 AM",
+    "hora_utc": "2026-06-05 05:07",
+    "mensaje": "S afecta el circuito TK18 Las 40, Sosa fuera de bloque",
+    "timestamp": 1780636052,
+    "timestamp_local": 1780636052
+  },
+  {
+    "id": 19434,
+    "fecha": "04 de Jun del 2026 a las 11:57 PM",
+    "hora_utc": "2026-06-05 03:57",
+    "mensaje": "Se encuentra Disparado por DAF el circuito Tk2 Bonachea-Buena Vista.",
+    "timestamp": 1780631869,
+    "timestamp_local": 1780631869
+  },
+  {
+    "id": 19433,
+    "fecha": "04 de Jun del 2026 a las 11:37 PM",
+    "hora_utc": "2026-06-05 03:37",
+    "mensaje": "📌Datos de interés📌                                                                                                                                                                                                                          🔌 Proceso cuando baja el deficit para poner la corriente\nSe verifica que haya energía suficiente\nNo basta con que baje la demanda, tiene que haber generación disponible.\nSe estabiliza el sistema\nEsperan unos minutos para asegurarse de que no haya riesgo de que se vuelva a caer.\nSe decide a qué circuitos dar servicio\nPrimero:\nHospitales 🏥\nAgua 💧\nServicios importantes\nSe energizan los circuitos poco a poco\nNo los ponen todos de golpe para evitar sobrecargas.\nSe monitorea el comportamiento\nSi todo aguanta → siguen conectando más\nSi no → vuelven a quitar carga\n🧠 En una sola idea:\n👉 No es “bajó el deficit= ponen la luz”, sino “bajó el  deficit+ hay generación estable = entonces conectan poco a poco”",
+    "timestamp": 1780630622,
+    "timestamp_local": 1780630622
+  },
+  {
     "id": 19431,
     "fecha": "04 de Jun del 2026 a las 09:41 PM",
     "hora_utc": "2026-06-05 01:41",
@@ -94,29 +126,5 @@
     "mensaje": "La Empresa Eléctrica Las Tunas informa que, según la nota emitida por la Unión Eléctrica para el 4 de junio, en el día de ayer se afectó el servicio por déficit de capacidad durante las 24 horas y se mantuvo la afectación durante todo el horario de la madrugada. En nuestra provincia se afectaron la totalidad de los circuitos apagables, con una máxima afectación de 76.3 MW.\nActualmente están fuera de servicio por avería las Unidades 6 y 8 de la CTE Máximo Gómez, Unidad 2 de la CTE Ernesto Guevara De La Serna, Unidad 2 de la CTE Lidio Ramón Pérez.\nEn mantenimiento se encuentran la Unidad 5 de la CTE Mariel, Unidad 6 de la CTE Renté, Unidad 5 de la CTE Nuevitas.\nEn el horario pico nocturno se prevén 1975 MW de afectación, en Las Tunas puede extenderse a todos los circuitos apagables, debido al alto déficit de capacidad de generación existente.\nEstos valores pueden variar según la demanda nacional.",
     "timestamp": 1780596764,
     "timestamp_local": 1780596764
-  },
-  {
-    "id": 19417,
-    "fecha": "04 de Jun del 2026 a las 11:33 AM",
-    "hora_utc": "2026-06-04 15:33",
-    "mensaje": "Se encuentran afectados por DAF los circuitos TK:5 Buena Vista Los Pinos y tk:106 Aeropuerto",
-    "timestamp": 1780587202,
-    "timestamp_local": 1780587202
-  },
-  {
-    "id": 19416,
-    "fecha": "04 de Jun del 2026 a las 08:57 AM",
-    "hora_utc": "2026-06-04 12:57",
-    "mensaje": "Se declara en avería el TK25 Cuatro Caminos, Dormitorio.",
-    "timestamp": 1780577870,
-    "timestamp_local": 1780577870
-  },
-  {
-    "id": 19415,
-    "fecha": "04 de Jun del 2026 a las 08:49 AM",
-    "hora_utc": "2026-06-04 12:49",
-    "mensaje": "**Nota Informativa: Estado del Sistema Eléctrico Nacional (SEN) – **4 **de junio de **2026\nEn el día de ayer se afectó el servicio por déficit de capacidad durante las 24 horas y se mantuvo la afectación durante todo el horario de la madrugada. La máxima afectación por déficit de capacidad de generación en el día de ayer fue de 1937 MW.\nLa producción de energía de los 54 nuevos parques solares fotovoltaicos fue de 3269 MWh, con 446 MW como máxima potencia entregada en el horario de la media con esta fuente de generación.\nEstado actual del SEN\nLa disponibilidad del SEN a las 06:00 horas es de 1120 MW, la demanda 2570 MW con 1452 MW afectados. En el horario de la media se estima una afectación de 1350 MW.\nPrincipales incidencias\nAvería: Unidades 6 y 8 de la CTE Máximo Gómez, Unidad 2 de la CTE Ernesto Guevara De La Serna, Unidad 2 de la CTE Lidio Ramón Pérez.\nMantenimiento: Unidad 5 de la CTE Mariel, Unidad 6 de la CTE Renté, Unidad 5 de la CTE Nuevitas.\nLimitaciones en la generación térmica: 458 MW fuera de servicio.\nFuera de servicio 106 centrales de generación distribuida por falta de combustible, con 890 MW.\nFuera de servicio la Patana de Regla, Patana de Melones, Central Fuel de Mariel, Central Fuel de Moa.\nTotal de MW indisponibles por combustible: 1203\nPronóstico para el horario pico\nPara el pico se prevé la entrada de la unidad 8 de la CTE Mariel con 35 MW (En proceso de arranque).\nCon este pronóstico se estima para el horario de máxima demanda una disponibilidad de 1155 MW con una demanda máxima de 3100 MW, para un déficit de 1945 MW, por lo que de mantenerse las condiciones previstas se pronostica una afectación de 1975 MW en este horario.",
-    "timestamp": 1780577342,
-    "timestamp_local": 1780577342
   }
 ]
