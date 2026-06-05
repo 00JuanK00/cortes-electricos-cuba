@@ -1,5 +1,21 @@
 [
   {
+    "id": 19439,
+    "fecha": "05 de Jun del 2026 a las 07:14 AM",
+    "hora_utc": "2026-06-05 11:14",
+    "mensaje": "🚨Nota informativa🚨 \n\n\n\n📆Situación del SEN para el 5 de junio de 2026.\n\n👉En el día de ayer se afectó el servicio por déficit de capacidad durante las 24 horas y se mantuvo la afectación durante todo el horario de la madrugada. La máxima afectación por déficit de capacidad de generación en el día de ayer fue de 1874 MW a las 21:00 horas.\n\n🌞La producción de energía de los 54 nuevos parques solares fotovoltaicos fue de 3220 MWh, con 482 MW como máxima potencia entregada en el horario de la media con esta fuente de generación.  \n\n👉La disponibilidad del SEN a las 06:00 horas es de 1000 MW, la demanda 2630 MW con 1590 MW afectados. En el horario de la media se estima una afectación de 1650 MW.\n\n🛠️Se encuentran en avería la unidad de la CTE Guiteras, la unidad 2 de la CTE Ernesto Guevara, la unidad 2 de la CTE Felton y la unidad 6 de la CTE Mariel. Se encuentran en mantenimiento la unidad 5 de la CTE Mariel, la unidad 5 de la CTE Nuevitas y las unidades 5 y 6 de la CTE Renté. \n\n👉Las limitaciones en la generación térmica son de 390 MW.\n\n📈Para el horario pico se prevé la entrada de los motores del Fuel Oil de Mariel con 90 MW.\n\n\n📝Con este pronóstico se estima para el horario de máxima demanda una disponibilidad de 1090 MW con una demanda máxima de 3050 MW, para un déficit de 1960 MW, por lo que de mantenerse las condiciones previstas se pronostica una afectación de 1990 MW en este horario.",
+    "timestamp": 1780658055,
+    "timestamp_local": 1780658055
+  },
+  {
+    "id": 19438,
+    "fecha": "05 de Jun del 2026 a las 07:07 AM",
+    "hora_utc": "2026-06-05 11:07",
+    "mensaje": "🔴En estos momentos la provincia enfrenta un déficit elevado, por lo que aún hay circuitos afectados fuera de horario. La recuperación del servicio dependerá de la demanda en tiempo real y las capacidades disponibles. Ofrecemos disculpas por las molestias ocasionadas.",
+    "timestamp": 1780657666,
+    "timestamp_local": 1780657666
+  },
+  {
     "id": 19437,
     "fecha": "05 de Jun del 2026 a las 01:20 AM",
     "hora_utc": "2026-06-05 05:20",
@@ -110,21 +126,5 @@
     "mensaje": "Se afecta el circuito Tk1 Rpto Santos, B.Vista y Finlay fuera de horario.",
     "timestamp": 1780608229,
     "timestamp_local": 1780608229
-  },
-  {
-    "id": 19420,
-    "fecha": "04 de Jun del 2026 a las 02:55 PM",
-    "hora_utc": "2026-06-04 18:55",
-    "mensaje": "Se declaran en avería los siguientes circuitos:\nTK43 Las Parras, Omaja y Cañada Honda\nCircuito 33 Kv: 6100**\n**TK35 Puerto Manatí\nTK36 El Raúl\nTK22 Aeropuerto\nTK23 Veguita\nTK32 Fleytas\nTK30 Meriño",
-    "timestamp": 1780599319,
-    "timestamp_local": 1780599319
-  },
-  {
-    "id": 19419,
-    "fecha": "04 de Jun del 2026 a las 02:12 PM",
-    "hora_utc": "2026-06-04 18:12",
-    "mensaje": "La Empresa Eléctrica Las Tunas informa que, según la nota emitida por la Unión Eléctrica para el 4 de junio, en el día de ayer se afectó el servicio por déficit de capacidad durante las 24 horas y se mantuvo la afectación durante todo el horario de la madrugada. En nuestra provincia se afectaron la totalidad de los circuitos apagables, con una máxima afectación de 76.3 MW.\nActualmente están fuera de servicio por avería las Unidades 6 y 8 de la CTE Máximo Gómez, Unidad 2 de la CTE Ernesto Guevara De La Serna, Unidad 2 de la CTE Lidio Ramón Pérez.\nEn mantenimiento se encuentran la Unidad 5 de la CTE Mariel, Unidad 6 de la CTE Renté, Unidad 5 de la CTE Nuevitas.\nEn el horario pico nocturno se prevén 1975 MW de afectación, en Las Tunas puede extenderse a todos los circuitos apagables, debido al alto déficit de capacidad de generación existente.\nEstos valores pueden variar según la demanda nacional.",
-    "timestamp": 1780596764,
-    "timestamp_local": 1780596764
   }
 ]
