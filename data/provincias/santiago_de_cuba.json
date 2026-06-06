@@ -1,5 +1,69 @@
 [
   {
+    "id": 54400,
+    "fecha": "06 de Jun del 2026 a las 01:22 AM",
+    "hora_utc": "2026-06-06 05:22",
+    "mensaje": "‼️**Déficit de Capacidad de Generación**:          \nSe produce cuando la demanda del Sistema Eléctrico Nacional, en determinado horario del día supera la generación disponible del país, provocando la desconexión de los circuitos o líneas que permitan garantizar la frecuencia del SEN.",
+    "timestamp": 1780723356,
+    "timestamp_local": 1780723356
+  },
+  {
+    "id": 54399,
+    "fecha": "06 de Jun del 2026 a las 01:21 AM",
+    "hora_utc": "2026-06-06 05:21",
+    "mensaje": "🚨Estimados clientes se les informa que se incorporan a la afectación por Déficit los circuitos 17 y 23.",
+    "timestamp": 1780723319,
+    "timestamp_local": 1780723319
+  },
+  {
+    "id": 54398,
+    "fecha": "05 de Jun del 2026 a las 11:35 PM",
+    "hora_utc": "2026-06-06 03:35",
+    "mensaje": "🔴**Estimados clientes, se les reitera que el comportamiento de las afectaciones eléctricas y el restablecimiento del servicio, estará en dependencia de la situación que presente el Sistema Electroenergético Nacional.**",
+    "timestamp": 1780716931,
+    "timestamp_local": 1780716931
+  },
+  {
+    "id": 54397,
+    "fecha": "05 de Jun del 2026 a las 11:10 PM",
+    "hora_utc": "2026-06-06 03:10",
+    "mensaje": "🔴Estimados clientes en estos momentos se encuentra afectado por Déficit la Línea 5330-Cristo.",
+    "timestamp": 1780715429,
+    "timestamp_local": 1780715429
+  },
+  {
+    "id": 54395,
+    "fecha": "05 de Jun del 2026 a las 10:30 PM",
+    "hora_utc": "2026-06-06 02:30",
+    "mensaje": "🔴Estimados clientes en estos momentos se encuentra afectado por Emergencia el SI 5980-San Juan .",
+    "timestamp": 1780713018,
+    "timestamp_local": 1780713018
+  },
+  {
+    "id": 54394,
+    "fecha": "05 de Jun del 2026 a las 10:27 PM",
+    "hora_utc": "2026-06-06 02:27",
+    "mensaje": "🔴Estimados clientes en estos momentos se incorporan a la afectación por Déficit el circuito 8 y la LI 5380-Mella.",
+    "timestamp": 1780712839,
+    "timestamp_local": 1780712839
+  },
+  {
+    "id": 54393,
+    "fecha": "05 de Jun del 2026 a las 10:04 PM",
+    "hora_utc": "2026-06-06 02:04",
+    "mensaje": "🔴Estimados clientes en estos momentos se afectaron por Déficit los circuitos 24 y 25 .",
+    "timestamp": 1780711449,
+    "timestamp_local": 1780711449
+  },
+  {
+    "id": 54392,
+    "fecha": "05 de Jun del 2026 a las 10:00 PM",
+    "hora_utc": "2026-06-06 02:00",
+    "mensaje": "🔴Les seguiremos informando a través de nuestro canal de Telegram sobre la situación de la Disponibilidad del Sistema en nuestra provincia.",
+    "timestamp": 1780711217,
+    "timestamp_local": 1780711217
+  },
+  {
     "id": 54391,
     "fecha": "05 de Jun del 2026 a las 09:29 PM",
     "hora_utc": "2026-06-06 01:29",
@@ -62,77 +126,5 @@
     "mensaje": "🔊Estimados clientes en estos momentos se encuentran afectados por manipulación el circuito 12 , disculpen por las molestias ocasionadas.",
     "timestamp": 1780688948,
     "timestamp_local": 1780688948
-  },
-  {
-    "id": 54380,
-    "fecha": "05 de Jun del 2026 a las 03:45 PM",
-    "hora_utc": "2026-06-05 19:45",
-    "mensaje": "🔊Estimados clientes en estos momentos se encuentra afectado por Déficit de Capacidad de Generación circuito San Juan, disculpen por las molestias ocasionadas.",
-    "timestamp": 1780688703,
-    "timestamp_local": 1780688703
-  },
-  {
-    "id": 54379,
-    "fecha": "05 de Jun del 2026 a las 02:59 PM",
-    "hora_utc": "2026-06-05 18:59",
-    "mensaje": "🔊Estimados clientes en estos momentos se encuentran afectados por Déficit de Capacidad de Generación los circuitos 1 y 2 de Contramaestre y la Línea 5395 San Luis , disculpen por las molestias ocasionadas.",
-    "timestamp": 1780685953,
-    "timestamp_local": 1780685953
-  },
-  {
-    "id": 54378,
-    "fecha": "05 de Jun del 2026 a las 02:39 PM",
-    "hora_utc": "2026-06-05 18:39",
-    "mensaje": "🔊Estimados clientes en estos momentos se encuentran afectados por Déficit de Capacidad de Generación el circuito 11, disculpen por las molestias ocasionadas.",
-    "timestamp": 1780684799,
-    "timestamp_local": 1780684799
-  },
-  {
-    "id": 54377,
-    "fecha": "05 de Jun del 2026 a las 02:11 PM",
-    "hora_utc": "2026-06-05 18:11",
-    "mensaje": "🔊Estimados clientes en estos momentos se encuentra Disparado el circuito  San Juan  por causa desconocida, disculpen por las molestias ocasionadas.",
-    "timestamp": 1780683112,
-    "timestamp_local": 1780683112
-  },
-  {
-    "id": 54376,
-    "fecha": "05 de Jun del 2026 a las 02:10 PM",
-    "hora_utc": "2026-06-05 18:10",
-    "mensaje": "**Disparo:**\nApertura no voluntaria de un interruptor como vía de protección para desconectar uno o varios elementos del circuito, subestación o sistema, restableciéndose el servicio rápidamente en dependencia de la causa.",
-    "timestamp": 1780683034,
-    "timestamp_local": 1780683034
-  },
-  {
-    "id": 54375,
-    "fecha": "05 de Jun del 2026 a las 02:09 PM",
-    "hora_utc": "2026-06-05 18:09",
-    "mensaje": "🔊Estimados clientes en estos momentos se encuentran afectados por manipulación la línea 4395 Contramaestre ,  disculpen por las molestias ocasionadas.",
-    "timestamp": 1780682967,
-    "timestamp_local": 1780682967
-  },
-  {
-    "id": 54374,
-    "fecha": "05 de Jun del 2026 a las 02:08 PM",
-    "hora_utc": "2026-06-05 18:08",
-    "mensaje": "**Manipulaciones:**\nAcción que se realizan en los circuitos para dar paso al trabajo en zonas afectadas por Averías o Vía Libre y posteriormente para restablecer el servicio eléctrico en los circuitos que se encontraban afectados y en los que se trabaja con anterioridad, luego de culminadas las labores pertinentes.",
-    "timestamp": 1780682907,
-    "timestamp_local": 1780682907
-  },
-  {
-    "id": 54373,
-    "fecha": "05 de Jun del 2026 a las 02:05 PM",
-    "hora_utc": "2026-06-05 18:05",
-    "mensaje": "🔊Estimados clientes en estos momentos se encuentra afectado por Déficit de Capacidad de Generación el circuito 16 de Santiago , disculpen por las molestias ocasionadas.",
-    "timestamp": 1780682740,
-    "timestamp_local": 1780682740
-  },
-  {
-    "id": 54372,
-    "fecha": "05 de Jun del 2026 a las 01:09 PM",
-    "hora_utc": "2026-06-05 17:09",
-    "mensaje": "🔊Estimados clientes en estos momentos se encuentran afectados por Déficit de Capacidad de Generación el circuito 9 seccionalizado, disculpen por las molestias ocasionadas.",
-    "timestamp": 1780679358,
-    "timestamp_local": 1780679358
   }
 ]
