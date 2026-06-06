@@ -1,5 +1,13 @@
 [
   {
+    "id": 19446,
+    "fecha": "05 de Jun del 2026 a las 08:28 PM",
+    "hora_utc": "2026-06-06 00:28",
+    "mensaje": "Reiteramos a nuestros clientes que en estos momentos la provincia enfrenta un alto déficit en capacidades de generación eléctrica lo que propicia una mayor afectación. La recuperación del servicio dependerá de la demanda en tiempo real y las capacidades disponibles. Ofrecemos disculpas por las molestias ocasionadas.",
+    "timestamp": 1780705719,
+    "timestamp_local": 1780705719
+  },
+  {
     "id": 19445,
     "fecha": "05 de Jun del 2026 a las 07:31 PM",
     "hora_utc": "2026-06-05 23:31",
@@ -118,13 +126,5 @@
     "mensaje": "📊 Porcentaje de afectación estimada por provincia (%)\n\n🟥 Holguín         77%  ████████████████████████████████████████\n🟧 Artemisa        73%  ██████████████████████████████████████\n🟧 Cienfuegos      73%  ██████████████████████████████████████\n🟧 Sancti Spíritus 73%  ██████████████████████████████████████\n🟨 Granma          71%  ████████████████████████████████████\n🟨 Villa Clara     67%  ██████████████████████████████████\n🟨 Ciego de Ávila  67%  ██████████████████████████████████\n🟨 Mayabeque       66%  █████████████████████████████████\n🟨 Las Tunas       66%  █████████████████████████████████\n🟨 Santiago de Cuba 66% █████████████████████████████████\n🟨 Guantánamo      65%  ████████████████████████████████\n🟩 Pinar del Río   63%  ███████████████████████████████\n🟩 Camagüey        57%  ████████████████████████████\n🟩 Matanzas        51%  █████████████████████████\n🟩 La Habana       50%  ████████████████████████\n\n📌 Promedio nacional estimado: 65.7%\n\n⚠️ Nota: Este valor es una estimación aproximada y no representa la cifra oficial exacta.",
     "timestamp": 1780615820,
     "timestamp_local": 1780615820
-  },
-  {
-    "id": 19426,
-    "fecha": "04 de Jun del 2026 a las 07:29 PM",
-    "hora_utc": "2026-06-04 23:29",
-    "mensaje": "Que significa e implica la máxima capacidad apagable en la provincia:                                                                                                \n📈 Máxima capacidad apagable se refiere al nivel máximo de demanda eléctrica que puede ser desconectada o suspendida temporalmente en la provincia, explica la complejidad del déficit de generación o contingencias en el sistema eléctrico.\nRepresenta el límite superior de la reducción de carga que la empresa puede lograr mediante cortes de energía (apagones). Cuanto mayor sea la máxima capacidad apagable, mayor será el déficit de energía.\n¿Qué implica esto?\nSe identifica cuántos circuitos pueden ser apagados para equilibrar la carga del sistema, esto imposibilita realizar rotaciones, pues a \nexcepción de los servicios priorizados, se encuentran afectados todos los circuitos apagables del territorio. Podrán presentarse afectaciones \nen el servicio de electricidad durante varias horas al día y el tiempo con servicio dependerá del comportamiento del SEN. Esta medida es \nnecesaria para evitar fallas mayores y proteger la infraestructura eléctrica.",
-    "timestamp": 1780615788,
-    "timestamp_local": 1780615788
   }
 ]
