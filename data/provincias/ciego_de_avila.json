@@ -1,5 +1,21 @@
 [
   {
+    "id": 38682,
+    "fecha": "06 de Jun del 2026 a las 09:23 AM",
+    "hora_utc": "2026-06-06 13:23",
+    "mensaje": "🚨Nota informativa🚨\n\n📆Situación del SEN para el 6 de junio de 2026.\n\n👉En el día de ayer se afectó el servicio por déficit de capacidad durante las 24 horas y se mantuvo la afectación durante todo el horario de la madrugada. La máxima afectación por déficit de capacidad de generación en el día de ayer fue de 1878 MW a las 21:40 horas.\n\nLa máxima afectación por déficit de capacidad por provincias fue la siguiente:\n\n🌞La producción de energía de los 54 nuevos parques solares fotovoltaicos fue de 3310 MWh, con 455 MW como máxima potencia entregada en el horario de la media con esta fuente de generación.  \n\n👉La disponibilidad del SEN a las 06:00 horas es de 1090 MW, la demanda 2557 MW con 1510 MW afectados. En el horario de la media se estima una afectación de 1650 MW.\n\n🛠Se encuentran en avería la unidad de la CTE Guiteras, la unidad 2 de la CTE Ernesto Guevara, la unidad 2 de la CTE Felton y la unidad 6 de la CTE Mariel. Se encuentran en mantenimiento la unidad 5 de la CTE Mariel, la unidad 5 de la CTE Nuevitas y las unidades 5 y 6 de la CTE Renté. \n\nLas limitaciones en la generación térmica son de 394 MW.\n\n👉Se estima, para el horario de máxima demanda, una disponibilidad de 1090 MW con una demanda máxima de 3050 MW, para un déficit de 1960 MW, por lo que de mantenerse las condiciones previstas se pronostica una afectación de 1990 MW en este horario",
+    "timestamp": 1780752216,
+    "timestamp_local": 1780752216
+  },
+  {
+    "id": 38681,
+    "fecha": "06 de Jun del 2026 a las 09:22 AM",
+    "hora_utc": "2026-06-06 13:22",
+    "mensaje": "‼️ Información del déficit de generación ‼️   \n👉Tenemos 68 MW en la provincia afectados por déficit de generación.\n⏰ Con este déficit, la carga a apagar en la provincia no nos permite realizar una rotación estable de los circuitos, por lo que se afectarán o se restablecerán en dependencia del déficit que haya en cada momento de la jornada, que es muy variable.",
+    "timestamp": 1780752123,
+    "timestamp_local": 1780752123
+  },
+  {
     "id": 38680,
     "fecha": "06 de Jun del 2026 a las 07:12 AM",
     "hora_utc": "2026-06-06 11:12",
@@ -118,21 +134,5 @@
     "mensaje": "‼️Información‼️\n\n ⏰ Los circuitos  restablecidos tendrán servicio por un estimado de 1 hora y 30 min aproximadamente en dependencia del déficit solicitado en cada momento de la jornada que es muy variable.",
     "timestamp": 1780668364,
     "timestamp_local": 1780668364
-  },
-  {
-    "id": 38662,
-    "fecha": "05 de Jun del 2026 a las 08:30 AM",
-    "hora_utc": "2026-06-05 12:30",
-    "mensaje": "✅ Se encuentra sin servicio eléctrico el circuito A208. \n👉Se recorren las líneas para encontrar la causa. \n👉Si usted observa corto circuito en las redes o alguna irregularidad, por favor comuníquelo a través del ☎️18888.",
-    "timestamp": 1780662652,
-    "timestamp_local": 1780662652
-  },
-  {
-    "id": 38661,
-    "fecha": "05 de Jun del 2026 a las 08:05 AM",
-    "hora_utc": "2026-06-05 12:05",
-    "mensaje": "‼️ Déficit de Generación ‼️   \n👉 Continuamos con 65 MW en la provincia por déficit de generación.\n\n ⏰ Reiteramos que los circuitos se afectarán o se restablecerán en dependencia del déficit solicitado en cada momento de la jornada que es muy variable.",
-    "timestamp": 1780661114,
-    "timestamp_local": 1780661114
   }
 ]

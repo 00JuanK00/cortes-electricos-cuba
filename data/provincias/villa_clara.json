@@ -1,5 +1,53 @@
 [
   {
+    "id": 47870,
+    "fecha": "06 de Jun del 2026 a las 09:35 AM",
+    "hora_utc": "2026-06-06 13:35",
+    "mensaje": "⚠Afectado el servicio eléctrico en el siguiente circuito:\n🔹Municipio Santa Clara\n👉Cto 6 Vigía",
+    "timestamp": 1780752921,
+    "timestamp_local": 1780752921
+  },
+  {
+    "id": 47869,
+    "fecha": "06 de Jun del 2026 a las 09:18 AM",
+    "hora_utc": "2026-06-06 13:18",
+    "mensaje": "➡️Los disparos de circuito tienen diferentes aristas todas con distintos significados, es decir que ocurren por varias causas. Entre ellas encontramos:\n\n👉-Disparo de Circuito con Recierre: El conocido por los clientes como “quita y pon de corriente” es un tipo de protección utilizada mundialmente a partir del 80% aproximadamente de las interrupciones eléctricas son transitorias. Este fenómeno lo hace una sola vez ante un evento de red y no es dañino para para nuestros equipos electrodomésticos.\n\n👉- Disparo Automático por Frecuencia (DAF): El disparo por DAF ocurre cuando la frecuencia llega a valores mínimos permisibles que ponen en peligro la estabilidad del mismo y como protección desconecta varios circuitos de la Capital. Los mismo restablecen a medida que se vaya recuperando la frecuencia que tiene un valor de 60hz o ciclos por segundo.\n\n👉-Disparo de Circuito por Sobrecarga: Este ocurre mayormente en los horarios pico y en verano, ya que las altas temperaturas generan elevados consumos en la población y como consecuencia de ello fallas en los circuitos.\n\n👉-Disparo de Circuito por Posible Avería: Este fenómeno ocurre cuando existe una falla en algún circuito, ya sea soterrado, aéreo o en una subestación. Estas, a pesar de que son mucho más frecuentes cuando existe algún evento climatológico, pueden ocurrir en cualquier momento del día o la noche, ya que son situaciones que no cuentan con programación.",
+    "timestamp": 1780751913,
+    "timestamp_local": 1780751913
+  },
+  {
+    "id": 47867,
+    "fecha": "06 de Jun del 2026 a las 09:17 AM",
+    "hora_utc": "2026-06-06 13:17",
+    "mensaje": "⚡Afectados por disparo los siguientes circuitos, se estudian las causas.\n🔹Municipio Santa Clara\n👉Cto 193 Santa Clara Industrial\n👉Cto 162 Santa Clara Industrial",
+    "timestamp": 1780751876,
+    "timestamp_local": 1780751876
+  },
+  {
+    "id": 47866,
+    "fecha": "06 de Jun del 2026 a las 09:02 AM",
+    "hora_utc": "2026-06-06 13:02",
+    "mensaje": "⚠Afectado el servicio eléctrico en los siguientes circuitos:\n🔹Municipio Santa Clara\n👉Cto 7 Universidad\n👉Cto 131 Las Antillas",
+    "timestamp": 1780750931,
+    "timestamp_local": 1780750931
+  },
+  {
+    "id": 47865,
+    "fecha": "06 de Jun del 2026 a las 08:29 AM",
+    "hora_utc": "2026-06-06 12:29",
+    "mensaje": "💡Con servicio eléctrico los siguientes circuitos.\n🔹Municipio Santa Clara\n👉Cto 193 Santa Clara Industrial\n👉Cto 162 Santa Clara Industrial",
+    "timestamp": 1780748974,
+    "timestamp_local": 1780748974
+  },
+  {
+    "id": 47864,
+    "fecha": "06 de Jun del 2026 a las 08:05 AM",
+    "hora_utc": "2026-06-06 12:05",
+    "mensaje": "Actualización del servicio eléctrico en la provincia.\n👉En este momento la afectación por déficit de capacidad de generación es de 128 MW, la demanda máxima posible a apagarse en estos momentos.\n👉De los circuitos apagables se mantienen afectados 140.\n👉Cuenta con 175 afectaciones por averías secundarias de servicio.",
+    "timestamp": 1780747533,
+    "timestamp_local": 1780747533
+  },
+  {
     "id": 47863,
     "fecha": "06 de Jun del 2026 a las 06:49 AM",
     "hora_utc": "2026-06-06 10:49",
@@ -94,61 +142,5 @@
     "mensaje": "⚠Afectado el servicio eléctrico en los siguientes circuitos:\n🔹Municipio Manicaragua:\n👉Ctos 108 y 110 La Piedra",
     "timestamp": 1780712757,
     "timestamp_local": 1780712757
-  },
-  {
-    "id": 47850,
-    "fecha": "05 de Jun del 2026 a las 09:58 PM",
-    "hora_utc": "2026-06-06 01:58",
-    "mensaje": "Actualización del servicio eléctrico en la provincia.\n👉En este momento la afectación por déficit de capacidad de generación es de 156 MW, la demanda máxima posible a apagarse en estos momentos.\n👉De los circuitos apagables se mantienen afectados 140.\n👉Cuenta con 168 afectaciones por averías secundarias de servicio.",
-    "timestamp": 1780711117,
-    "timestamp_local": 1780711117
-  },
-  {
-    "id": 47849,
-    "fecha": "05 de Jun del 2026 a las 09:09 PM",
-    "hora_utc": "2026-06-06 01:09",
-    "mensaje": "💡Con servicio eléctrico el siguiente circuito:\n🔹Municipio Santa Clara\n👉Cto 3  Consejo- Centro",
-    "timestamp": 1780708141,
-    "timestamp_local": 1780708141
-  },
-  {
-    "id": 47848,
-    "fecha": "05 de Jun del 2026 a las 08:57 PM",
-    "hora_utc": "2026-06-06 00:57",
-    "mensaje": "⚡Afectado faltando una fase después de restablecido el servicio el Cto 166 Condado perteneciente al Municipio Santa Clara.",
-    "timestamp": 1780707446,
-    "timestamp_local": 1780707446
-  },
-  {
-    "id": 47847,
-    "fecha": "05 de Jun del 2026 a las 08:54 PM",
-    "hora_utc": "2026-06-06 00:54",
-    "mensaje": "#UnidosXCuba #UniónEléctrica #UNE #NotaInformativa⚡ Actualización del Sistema Electroenergético Nacional para el 5 de junio de 2026.\n\nPronóstico de afectación:\nPara el mediodía: 1650 MW\nPara el pico de la noche: 1990 MW\n\nLeer más: https://www.unionelectrica.cu/nota-informativa/\n\n#UnidosXCuba #UniónEléctrica #UNE #NotaInformativa",
-    "timestamp": 1780707250,
-    "timestamp_local": 1780707250
-  },
-  {
-    "id": 47846,
-    "fecha": "05 de Jun del 2026 a las 08:06 PM",
-    "hora_utc": "2026-06-06 00:06",
-    "mensaje": "⚠Afectado el servicio eléctrico en los siguientes circuitos:\n🔹Municipio Santa Clara\n👉Cto 2  Consejo- Centro\n🔹Municipio Santa Clara:\n👉Cto 16 Cubanacán \n👉Ctos 23 y 130 La Ceniza\n👉Cto 42 Manajanabo\n🔹Municipio Placetas\n👉Cto 139 Miller\n👉Cto 190 Oliver\n👉Cto 106 Falcón",
-    "timestamp": 1780704398,
-    "timestamp_local": 1780704398
-  },
-  {
-    "id": 47845,
-    "fecha": "05 de Jun del 2026 a las 07:57 PM",
-    "hora_utc": "2026-06-05 23:57",
-    "mensaje": "Actualización del servicio eléctrico en la provincia.\n👉En este momento la afectación por déficit de capacidad de generación es de 155 MW, la demanda máxima posible a apagarse en estos momentos.\n👉De los circuitos apagables se mantienen afectados 140.\n👉Cuenta con 154 afectaciones por averías secundarias de servicio.",
-    "timestamp": 1780703820,
-    "timestamp_local": 1780703820
-  },
-  {
-    "id": 47844,
-    "fecha": "05 de Jun del 2026 a las 07:24 PM",
-    "hora_utc": "2026-06-05 23:24",
-    "mensaje": "💡Con servicio eléctrico el siguiente circuito:\n🔹Municipio Santa Clara\n👉Cto 2  Consejo- Centro",
-    "timestamp": 1780701882,
-    "timestamp_local": 1780701882
   }
 ]
