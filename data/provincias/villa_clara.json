@@ -1,5 +1,29 @@
 [
   {
+    "id": 47862,
+    "fecha": "06 de Jun del 2026 a las 06:15 AM",
+    "hora_utc": "2026-06-06 10:15",
+    "mensaje": "🕕Actualización del servicio eléctrico.\n✍️El déficit de capacidad de generación en estos momentos es de 124 MW\n✍️En el momento de esta nota, se mantienen afectados 140 circuitos.\n✍️ Cuenta con 192 afectaciones por averías secundarias y de servicio:\n🔸 Caibarién (11)\n🔸 Camajuaní (2)\n🔸 Cifuentes (1)\n🔸 Manicaragua (7)\n🔸 Placetas (9)\n🔸 Ranchuelo (12)\n🔸 Remedios (16) \n🔸 Sagua (26) \n🔸 Santa Clara (76)\n🔸 Santo Domingo (12)\n🛠️Se encuentran 2 averías en vías de solución.\n🛠️Pendientes a solucionar por el área técnica 18.\n✅La provincia no presenta averías. primarias.",
+    "timestamp": 1780740911,
+    "timestamp_local": 1780740911
+  },
+  {
+    "id": 47861,
+    "fecha": "06 de Jun del 2026 a las 05:14 AM",
+    "hora_utc": "2026-06-06 09:14",
+    "mensaje": "✍️Ante cualquier duda conozca sobre la terminología eléctrica\n\n🔹Las averías pueden ser:\n     \n➡️Primarias: Afecta un volumen grande de población pues son las líneas de distribución a 13.8 kV y puede afectar varias manzanas, incluso repartos completos.\n\n➡️Secundarias: Afecta a todos los clientes que se alimenten del mismo transformador, puede afectar una o varias cuadras. \n\n➡️De servicio: Afectan 1 solo cliente o instalación generalmente producto a daños en la acometida, metro contador, etc.).",
+    "timestamp": 1780737251,
+    "timestamp_local": 1780737251
+  },
+  {
+    "id": 47860,
+    "fecha": "06 de Jun del 2026 a las 05:13 AM",
+    "hora_utc": "2026-06-06 09:13",
+    "mensaje": "Actualización del servicio eléctrico en la provincia.\n👉En este momento la afectación por déficit de capacidad de generación es de 120 MW, la demanda máxima posible a apagarse en estos momentos.\n👉De los circuitos apagables se mantienen afectados 140.\n👉Cuenta con 171afectaciones por averías secundarias de servicio.",
+    "timestamp": 1780737211,
+    "timestamp_local": 1780737211
+  },
+  {
     "id": 47858,
     "fecha": "06 de Jun del 2026 a las 02:31 AM",
     "hora_utc": "2026-06-06 06:31",
@@ -126,29 +150,5 @@
     "mensaje": "⚠Afectado el servicio eléctrico en los siguientes circuitos:\n🔹Municipio Camajuaní:\n👉Ctos 73 y 156",
     "timestamp": 1780699321,
     "timestamp_local": 1780699321
-  },
-  {
-    "id": 47842,
-    "fecha": "05 de Jun del 2026 a las 06:29 PM",
-    "hora_utc": "2026-06-05 22:29",
-    "mensaje": "💡Con servicio eléctrico los siguientes circuitos.\n🔹Municipio Manicaragua:\n👉Ctos 108 y 110 La Piedra",
-    "timestamp": 1780698566,
-    "timestamp_local": 1780698566
-  },
-  {
-    "id": 47841,
-    "fecha": "05 de Jun del 2026 a las 06:19 PM",
-    "hora_utc": "2026-06-05 22:19",
-    "mensaje": "⚠Afectado el servicio eléctrico en el siguiente circuito:\n🔹Municipio Santa Clara\n👉Cto 132 Santa Clara Industrial",
-    "timestamp": 1780697949,
-    "timestamp_local": 1780697949
-  },
-  {
-    "id": 47840,
-    "fecha": "05 de Jun del 2026 a las 06:06 PM",
-    "hora_utc": "2026-06-05 22:06",
-    "mensaje": "🕕Actualización del servicio eléctrico.\n✍️El déficit de capacidad de generación en estos momentos es de 159 MW\n✍️En el momento de esta nota, se mantienen afectados 144 circuitos.\n✍️ Cuenta con 207 afectaciones por averías secundarias y de servicio:\n🔸 Caibarién (11)\n🔸 Manicaragua (5)\n🔸 Placetas (9)\n🔸 Ranchuelo (12)\n🔸 Remedios (18) \n🔸 Sagua (26) \n🔸 Santa Clara (93)\n🔸 Santo Domingo (12)\n🛠️Se encuentran 6 averías en vías de solución.\n🛠️Pendientes a solucionar por el área técnica 16.\n⚡Avería primaria en la provincia.\n⚡Afectado por cable primario partido Cto 4 Consejo- Centro, perteneciente al Municipio Santa Clara.",
-    "timestamp": 1780697181,
-    "timestamp_local": 1780697181
   }
 ]
