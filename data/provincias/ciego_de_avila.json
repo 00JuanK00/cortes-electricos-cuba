@@ -1,5 +1,29 @@
 [
   {
+    "id": 38704,
+    "fecha": "07 de Jun del 2026 a las 08:46 AM",
+    "hora_utc": "2026-06-07 12:46",
+    "mensaje": "✅ Información.\n👉 Se encuentra en fallo el circuito 5, se recorren las líneas para encontrar la avería.",
+    "timestamp": 1780836368,
+    "timestamp_local": 1780836368
+  },
+  {
+    "id": 38703,
+    "fecha": "07 de Jun del 2026 a las 08:09 AM",
+    "hora_utc": "2026-06-07 12:09",
+    "mensaje": "🚨Nota informativa🚨\n\n📆Situación del SEN para el 7 de junio de 2026.\n\n\n👉En el día de ayer se afectó el servicio por déficit de capacidad durante las 24 horas y se mantuvo la afectación durante todo el horario de la madrugada. La máxima afectación por déficit de capacidad de generación en el día de ayer fue de 2030 MW a las 20:50 horas.\n\n🌞La producción de energía de los 54 nuevos parques solares fotovoltaicos fue de 3376 MWh, con 490 MW como máxima potencia entregada en el horario de la media con esta fuente de generación.  \n\n✏️La disponibilidad del SEN a las 06:00 horas es de 1000 MW, la demanda 2570 MW con 1572 MW afectados. En el horario de la media se estima una afectación de 1650 MW.\n\n🛠Se encuentra en avería la unidad 6 de la CTE Mariel, la unidad de la CTE Guiteras, las unidades 1, 2 y 3 de la CTE Ernesto Guevara, la unidad 2 de la CTE Felton y la unidad 3 de la CTE Renté. Se encuentran en mantenimiento la unidad 5 de la CTE Mariel, la unidad 5 de la CTE Nuevitas y las unidades 5 y 6 de la CTE Renté. \n\n📈Las limitaciones en la generación térmica son de 315 MW.\n\n👉Para el horario pico se estima la entrada de la unidad 1 de la CTE Santa Cruz con 60 MW (en proceso de arranque).\n\n📝Con este pronóstico se prevé para el horario de máxima demanda, una disponibilidad de 1060 MW con una demanda máxima de 3050 MW, para un déficit de 1990 MW, por lo que de mantenerse las condiciones previstas se pronostica una afectación de 2020 MW en este horario.\n\nUNE-MINEM---07:00 horas.",
+    "timestamp": 1780834163,
+    "timestamp_local": 1780834163
+  },
+  {
+    "id": 38702,
+    "fecha": "07 de Jun del 2026 a las 07:48 AM",
+    "hora_utc": "2026-06-07 11:48",
+    "mensaje": "‼️ Déficit de Generación ‼️   \n👉 Nos mantenemos con 65  MW en la provincia por déficit de generación.\n\n⏰ Reiteramos que los circuitos se afectarán o se restablecerán en dependencia del déficit solicitado en cada momento de la jornada que es muy variable.",
+    "timestamp": 1780832933,
+    "timestamp_local": 1780832933
+  },
+  {
     "id": 38701,
     "fecha": "07 de Jun del 2026 a las 05:32 AM",
     "hora_utc": "2026-06-07 09:32",
@@ -118,21 +142,5 @@
     "mensaje": "‼️Déficit de Generación ‼️   \n👉 Subimos a 62MW en la provincia afectados por déficit de generación.\n\n⏰ Reiteramos que los circuitos se afectarán o se restablecerán en dependencia del déficit en cada momento de la jornada, que es muy variable.",
     "timestamp": 1780762586,
     "timestamp_local": 1780762586
-  },
-  {
-    "id": 38684,
-    "fecha": "06 de Jun del 2026 a las 11:14 AM",
-    "hora_utc": "2026-06-06 15:14",
-    "mensaje": "‼️ Déficit de Generación ‼️   \n👉  Bajamos a 60MW en la provincia por déficit de generación.\n\n ⏰ Reiteramos que los circuitos se afectarán o se restablecerán en dependencia del déficit solicitado en cada momento de la jornada que es muy variable.",
-    "timestamp": 1780758899,
-    "timestamp_local": 1780758899
-  },
-  {
-    "id": 38682,
-    "fecha": "06 de Jun del 2026 a las 09:23 AM",
-    "hora_utc": "2026-06-06 13:23",
-    "mensaje": "🚨Nota informativa🚨\n\n📆Situación del SEN para el 6 de junio de 2026.\n\n👉En el día de ayer se afectó el servicio por déficit de capacidad durante las 24 horas y se mantuvo la afectación durante todo el horario de la madrugada. La máxima afectación por déficit de capacidad de generación en el día de ayer fue de 1878 MW a las 21:40 horas.\n\nLa máxima afectación por déficit de capacidad por provincias fue la siguiente:\n\n🌞La producción de energía de los 54 nuevos parques solares fotovoltaicos fue de 3310 MWh, con 455 MW como máxima potencia entregada en el horario de la media con esta fuente de generación.  \n\n👉La disponibilidad del SEN a las 06:00 horas es de 1090 MW, la demanda 2557 MW con 1510 MW afectados. En el horario de la media se estima una afectación de 1650 MW.\n\n🛠Se encuentran en avería la unidad de la CTE Guiteras, la unidad 2 de la CTE Ernesto Guevara, la unidad 2 de la CTE Felton y la unidad 6 de la CTE Mariel. Se encuentran en mantenimiento la unidad 5 de la CTE Mariel, la unidad 5 de la CTE Nuevitas y las unidades 5 y 6 de la CTE Renté. \n\nLas limitaciones en la generación térmica son de 394 MW.\n\n👉Se estima, para el horario de máxima demanda, una disponibilidad de 1090 MW con una demanda máxima de 3050 MW, para un déficit de 1960 MW, por lo que de mantenerse las condiciones previstas se pronostica una afectación de 1990 MW en este horario",
-    "timestamp": 1780752216,
-    "timestamp_local": 1780752216
   }
 ]

@@ -1,5 +1,21 @@
 [
   {
+    "id": 19454,
+    "fecha": "07 de Jun del 2026 a las 08:40 AM",
+    "hora_utc": "2026-06-07 12:40",
+    "mensaje": "👌🏻⚡️ La Unión Eléctrica informó que a las 9:32 de la noche, la unidad generadora de la termoeléctrica Felton se reincorporó al Sistema Eléctrico Nacional. La salida de la planta se había producido en horas de la tarde de hoy debido a una falla en el sistema automático de la bomba de agua de alimentación.",
+    "timestamp": 1780836007,
+    "timestamp_local": 1780836007
+  },
+  {
+    "id": 19453,
+    "fecha": "07 de Jun del 2026 a las 08:10 AM",
+    "hora_utc": "2026-06-07 12:10",
+    "mensaje": "🚨Nota informativa🚨\n\n📆Situación del SEN para el 7 de junio de 2026.\n\n👉En el día de ayer se afectó el servicio por déficit de capacidad durante las 24 horas y se mantuvo la afectación durante todo el horario de la madrugada. La máxima afectación por déficit de capacidad de generación en el día de ayer fue de 2030 MW a las 20:50 horas.\n\n🌞La producción de energía de los 54 nuevos parques solares fotovoltaicos fue de 3376 MWh, con 490 MW como máxima potencia entregada en el horario de la media con esta fuente de generación.  \n\n✏️La disponibilidad del SEN a las 06:00 horas es de 1000 MW, la demanda 2570 MW con 1572 MW afectados. En el horario de la media se estima una afectación de 1650 MW.\n\n🛠️Se encuentra en avería la unidad 6 de la CTE Mariel, la unidad de la CTE Guiteras, las unidades 1, 2 y 3 de la CTE Ernesto Guevara, la unidad 2 de la CTE Felton y la unidad 3 de la CTE Renté. Se encuentran en mantenimiento la unidad 5 de la CTE Mariel, la unidad 5 de la CTE Nuevitas y las unidades 5 y 6 de la CTE Renté. \n\n📈Las limitaciones en la generación térmica son de 315 MW.\n\n👉Para el horario pico se estima la entrada de la unidad 1 de la CTE Santa Cruz con 60 MW (en proceso de arranque).\n\n📝Con este pronóstico se prevé para el horario de máxima demanda, una disponibilidad de 1060 MW con una demanda máxima de 3050 MW, para un déficit de 1990 MW, por lo que de mantenerse las condiciones previstas se pronostica una afectación de 2020 MW en este horario.\n\nUNE-MINEM---07:00 horas.",
+    "timestamp": 1780834245,
+    "timestamp_local": 1780834245
+  },
+  {
     "id": 19452,
     "fecha": "07 de Jun del 2026 a las 07:15 AM",
     "hora_utc": "2026-06-07 11:15",
@@ -86,21 +102,5 @@
     "mensaje": "S afecta el circuito TK18 Las 40, Sosa fuera de bloque",
     "timestamp": 1780636052,
     "timestamp_local": 1780636052
-  },
-  {
-    "id": 19434,
-    "fecha": "04 de Jun del 2026 a las 11:57 PM",
-    "hora_utc": "2026-06-05 03:57",
-    "mensaje": "Se encuentra Disparado por DAF el circuito Tk2 Bonachea-Buena Vista.",
-    "timestamp": 1780631869,
-    "timestamp_local": 1780631869
-  },
-  {
-    "id": 19433,
-    "fecha": "04 de Jun del 2026 a las 11:37 PM",
-    "hora_utc": "2026-06-05 03:37",
-    "mensaje": "📌Datos de interés📌                                                                                                                                                                                                                          🔌 Proceso cuando baja el deficit para poner la corriente\nSe verifica que haya energía suficiente\nNo basta con que baje la demanda, tiene que haber generación disponible.\nSe estabiliza el sistema\nEsperan unos minutos para asegurarse de que no haya riesgo de que se vuelva a caer.\nSe decide a qué circuitos dar servicio\nPrimero:\nHospitales 🏥\nAgua 💧\nServicios importantes\nSe energizan los circuitos poco a poco\nNo los ponen todos de golpe para evitar sobrecargas.\nSe monitorea el comportamiento\nSi todo aguanta → siguen conectando más\nSi no → vuelven a quitar carga\n🧠 En una sola idea:\n👉 No es “bajó el deficit= ponen la luz”, sino “bajó el  deficit+ hay generación estable = entonces conectan poco a poco”",
-    "timestamp": 1780630622,
-    "timestamp_local": 1780630622
   }
 ]
