@@ -1,5 +1,21 @@
 [
   {
+    "id": 47951,
+    "fecha": "07 de Jun del 2026 a las 01:42 PM",
+    "hora_utc": "2026-06-07 17:42",
+    "mensaje": "⚠Afectado el servicio eléctrico en el siguiente circuito:\n🔹Municipio Santa Clara:\n👉Cto 34 Sabana Rebacadero",
+    "timestamp": 1780854137,
+    "timestamp_local": 1780854137
+  },
+  {
+    "id": 47950,
+    "fecha": "07 de Jun del 2026 a las 01:12 PM",
+    "hora_utc": "2026-06-07 17:12",
+    "mensaje": "⚠Afectado el servicio eléctrico en los siguientes circuitos:\n🔹Municipio Santo Domingo:\n👉Cto 134\n👉Cto 87 Bermejal\n🔹Municipio Cifuentes:\n👉Ctos 114 y 117\n👉Ctos 116 y 155 Mata\n👉Cto 186 Batey Unidad Proletaria\n👉Cto 184 Sitio Grande",
+    "timestamp": 1780852363,
+    "timestamp_local": 1780852363
+  },
+  {
     "id": 47949,
     "fecha": "07 de Jun del 2026 a las 12:53 PM",
     "hora_utc": "2026-06-07 16:53",
@@ -142,21 +158,5 @@
     "mensaje": "⚠Afectado el servicio eléctrico en los siguientes circuitos:\n🔹Municipio Santa Clara\n👉Cto 7 Universidad\n👉Cto 131 Universidad\n👉Cto 153 EIDE\n👉Cto 25 Los Güiros\n👉Cto 35 Biotecnología \n👉Ctos 14, 15 y 27 Maleza",
     "timestamp": 1780843779,
     "timestamp_local": 1780843779
-  },
-  {
-    "id": 47931,
-    "fecha": "07 de Jun del 2026 a las 10:46 AM",
-    "hora_utc": "2026-06-07 14:46",
-    "mensaje": "Con servicio los circuitos 97 y 189 del municipio Ranchuelo.",
-    "timestamp": 1780843610,
-    "timestamp_local": 1780843610
-  },
-  {
-    "id": 47930,
-    "fecha": "07 de Jun del 2026 a las 10:40 AM",
-    "hora_utc": "2026-06-07 14:40",
-    "mensaje": "Actualización del servicio eléctrico en la provincia.\n👉En este momento la afectación por déficit de capacidad de generación es de 135 MW, la demanda máxima posible a apagarse en estos momentos.\n👉De los circuitos apagables se mantienen afectados 148.\n👉Cuenta con 175 afectaciones por averías secundarias de servicio.",
-    "timestamp": 1780843255,
-    "timestamp_local": 1780843255
   }
 ]
