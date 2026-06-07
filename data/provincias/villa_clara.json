@@ -1,5 +1,37 @@
 [
   {
+    "id": 47962,
+    "fecha": "07 de Jun del 2026 a las 04:33 PM",
+    "hora_utc": "2026-06-07 20:33",
+    "mensaje": "⚠Afectado el servicio eléctrico en los siguientes circuitos:\n🔹Municipio Ranchuelo: \n👉Ctos 148 y 149 San Juan\n👉Cto 91 Batey Osvaldo Herrera",
+    "timestamp": 1780864431,
+    "timestamp_local": 1780864431
+  },
+  {
+    "id": 47961,
+    "fecha": "07 de Jun del 2026 a las 04:28 PM",
+    "hora_utc": "2026-06-07 20:28",
+    "mensaje": "⚠Afectado el servicio eléctrico en el siguiente circuito:\n🔹Municipio Santa Clara:\n👉Cto 167 Virginia",
+    "timestamp": 1780864103,
+    "timestamp_local": 1780864103
+  },
+  {
+    "id": 47960,
+    "fecha": "07 de Jun del 2026 a las 03:59 PM",
+    "hora_utc": "2026-06-07 19:59",
+    "mensaje": "Actualización del servicio eléctrico en la provincia.\n👉En este momento la afectación por déficit de capacidad de generación es de 137 MW, la demanda máxima posible a apagarse en estos momentos.\n👉De los circuitos apagables se mantienen afectados 156.\n👉Cuenta con 208 afectaciones por averías secundarias de servicio.",
+    "timestamp": 1780862393,
+    "timestamp_local": 1780862393
+  },
+  {
+    "id": 47959,
+    "fecha": "07 de Jun del 2026 a las 03:20 PM",
+    "hora_utc": "2026-06-07 19:20",
+    "mensaje": "⚠Afectado el servicio eléctrico en los siguientes circuitos:\n🔹Municipio Santa Clara\n👉Cto 7 Universidad\n👉Cto 131 Las Antillas\n👉Cto 25 Los Güiros\n👉Cto 35 Biotecnología \n👉Cto 15  Maleza",
+    "timestamp": 1780860009,
+    "timestamp_local": 1780860009
+  },
+  {
     "id": 47958,
     "fecha": "07 de Jun del 2026 a las 03:03 PM",
     "hora_utc": "2026-06-07 19:03",
@@ -126,37 +158,5 @@
     "mensaje": "💡Con servicio eléctrico los siguientes circuitos:\n🔹Municipio Santa Clara:\n👉 Cto 162\n🔹Municipio Cifuentes:\n👉Ctos 114 y 117\n👉Ctos 116 y 155 Mata\n👉Cto 186 Batey Unidad Proletaria\n👉Cto 184 Sitio Grande",
     "timestamp": 1780846894,
     "timestamp_local": 1780846894
-  },
-  {
-    "id": 47942,
-    "fecha": "07 de Jun del 2026 a las 11:40 AM",
-    "hora_utc": "2026-06-07 15:40",
-    "mensaje": "⚠Afectado el servicio eléctrico en el siguiente circuito:\n🔹Municipio Santa Clara\n👉Cto 132 Santa Clara Industrial",
-    "timestamp": 1780846845,
-    "timestamp_local": 1780846845
-  },
-  {
-    "id": 47941,
-    "fecha": "07 de Jun del 2026 a las 11:22 AM",
-    "hora_utc": "2026-06-07 15:22",
-    "mensaje": "⚠Afectado el servicio eléctrico en el siguiente circuito:\n🔹Municipio Santa Clara:\n👉Cto 153 EIDE",
-    "timestamp": 1780845756,
-    "timestamp_local": 1780845756
-  },
-  {
-    "id": 47940,
-    "fecha": "07 de Jun del 2026 a las 11:19 AM",
-    "hora_utc": "2026-06-07 15:19",
-    "mensaje": "💡Con servicio eléctrico el siguiente circuito:\n🔹Municipio Camajuaní:\n👉 Cto 185 Vueltas",
-    "timestamp": 1780845577,
-    "timestamp_local": 1780845577
-  },
-  {
-    "id": 47939,
-    "fecha": "07 de Jun del 2026 a las 11:17 AM",
-    "hora_utc": "2026-06-07 15:17",
-    "mensaje": "💡Con servicio eléctrico el siguiente circuito:\n🔹Municipio Quemado:\n👉 Cto 196 Batey Panchito Gómez Toro",
-    "timestamp": 1780845460,
-    "timestamp_local": 1780845460
   }
 ]
