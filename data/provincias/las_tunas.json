@@ -1,5 +1,37 @@
 [
   {
+    "id": 19504,
+    "fecha": "09 de Jun del 2026 a las 03:36 PM",
+    "hora_utc": "2026-06-09 19:36",
+    "mensaje": "Resuelta la avería del TK88 Dos Hermanos",
+    "timestamp": 1781033794,
+    "timestamp_local": 1781033794
+  },
+  {
+    "id": 19503,
+    "fecha": "09 de Jun del 2026 a las 03:20 PM",
+    "hora_utc": "2026-06-09 19:20",
+    "mensaje": "Se declara en avería el TK10 El Cornito",
+    "timestamp": 1781032846,
+    "timestamp_local": 1781032846
+  },
+  {
+    "id": 19502,
+    "fecha": "09 de Jun del 2026 a las 02:34 PM",
+    "hora_utc": "2026-06-09 18:34",
+    "mensaje": "Se afecta también:\nTK24 Reparto Santo Domingo\nTK4 Aeropuerto, Casa Piedra y Aurora\nTK27 La Victoria",
+    "timestamp": 1781030077,
+    "timestamp_local": 1781030077
+  },
+  {
+    "id": 19501,
+    "fecha": "09 de Jun del 2026 a las 02:29 PM",
+    "hora_utc": "2026-06-09 18:29",
+    "mensaje": "Se afecta fuera de Bloque el TK12 Las 40 y Nuevo Sosa,TK5 Buena Vista, Los Pinos",
+    "timestamp": 1781029753,
+    "timestamp_local": 1781029753
+  },
+  {
     "id": 19500,
     "fecha": "09 de Jun del 2026 a las 11:24 AM",
     "hora_utc": "2026-06-09 15:24",
@@ -86,29 +118,5 @@
     "mensaje": "🔊Qué es un disparo por DAF?\nEl Disparo por Frecuencia (DAF) es un mecanismo de protección del sistema eléctrico. Se activa automáticamente cuando la frecuencia desciende por debajo de los valores mínimos seguros (menores de 60 Hz), lo que pone en riesgo la estabilidad del sistema.\nEn ese momento, algunos circuitos se desconectan de forma automática para aliviar la carga y permitir que la frecuencia vuelva a su valor nominal.\nEsto suele ocurrir cuando una planta generadora sale de servicio de manera imprevista, provocando un déficit de generación. El DAF ayuda a evitar un colapso mayor del sistema, aunque puede generar afectaciones al servicio como apagones parciales.",
     "timestamp": 1780946816,
     "timestamp_local": 1780946816
-  },
-  {
-    "id": 19484,
-    "fecha": "08 de Jun del 2026 a las 03:16 PM",
-    "hora_utc": "2026-06-08 19:16",
-    "mensaje": "Reiteramos a nuestros clientes que en estos momentos la provincia enfrenta un alto déficit en capacidades de generación eléctrica lo que propicia una mayor afectación. La recuperación del servicio dependerá de la demanda en tiempo real y las capacidades disponibles. Ofrecemos disculpas por las molestias ocasionadas.",
-    "timestamp": 1780946216,
-    "timestamp_local": 1780946216
-  },
-  {
-    "id": 19483,
-    "fecha": "08 de Jun del 2026 a las 03:10 PM",
-    "hora_utc": "2026-06-08 19:10",
-    "mensaje": "🔊Se encuentran afectados por disparo automático por frecuencia (DAF) los circuitos \nTK5 Buena Vista, Los Pinos\n\nTK106 Palancón, Buena Vista",
-    "timestamp": 1780945843,
-    "timestamp_local": 1780945843
-  },
-  {
-    "id": 19481,
-    "fecha": "08 de Jun del 2026 a las 02:11 PM",
-    "hora_utc": "2026-06-08 18:11",
-    "mensaje": "💡Queda con servicio el circuito 33kv 6470-6300 que se encontraba afectado por avería",
-    "timestamp": 1780942310,
-    "timestamp_local": 1780942310
   }
 ]
