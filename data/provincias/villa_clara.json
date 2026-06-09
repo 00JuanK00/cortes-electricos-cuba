@@ -1,5 +1,53 @@
 [
   {
+    "id": 48054,
+    "fecha": "08 de Jun del 2026 a las 09:14 PM",
+    "hora_utc": "2026-06-09 01:14",
+    "mensaje": "Afectados 153 MW en la provincia, demanda máxima a apagar en estos momentos.",
+    "timestamp": 1780967654,
+    "timestamp_local": 1780967654
+  },
+  {
+    "id": 48053,
+    "fecha": "08 de Jun del 2026 a las 08:05 PM",
+    "hora_utc": "2026-06-09 00:05",
+    "mensaje": "⚡En avería el Cto 6 Vigía, perteneciente al municipio Santa Clara, se estudian las causas.",
+    "timestamp": 1780963547,
+    "timestamp_local": 1780963547
+  },
+  {
+    "id": 48052,
+    "fecha": "08 de Jun del 2026 a las 08:04 PM",
+    "hora_utc": "2026-06-09 00:04",
+    "mensaje": "💡Con servicio eléctrico los siguientes circuitos:\n➡Línea 1785\n🔹Municipio Santa Clara:\n👉Cto 34 Sabana Rebacadero\n👉Ctos 32 y 33 (RF-33Kv)\n👉Cto 39 (Sandino)",
+    "timestamp": 1780963492,
+    "timestamp_local": 1780963492
+  },
+  {
+    "id": 48051,
+    "fecha": "08 de Jun del 2026 a las 08:03 PM",
+    "hora_utc": "2026-06-09 00:03",
+    "mensaje": "Actualización del servicio eléctrico en la provincia.\n👉En este momento la afectación por déficit de capacidad de generación es de 153 MW, la demanda máxima posible a apagar en estos momentos.\n👉De los circuitos apagables se mantienen afectados 156.\n👉Cuenta con 213 afectaciones por averías secundarias de servicio.",
+    "timestamp": 1780963438,
+    "timestamp_local": 1780963438
+  },
+  {
+    "id": 48050,
+    "fecha": "08 de Jun del 2026 a las 07:13 PM",
+    "hora_utc": "2026-06-08 23:13",
+    "mensaje": "⚠Se encuentra afectada por emergencia la línea del 1785 perteneciente al municipio Santa Clara:\n➡Línea 1785\n🔹Municipio Santa Clara:\n👉Cto 6 Vigía\n👉Cto 34 Sabana Rebacadero\n👉Ctos 32 y 33 (RF-33Kv)\n👉Cto 39 (Sandino)",
+    "timestamp": 1780960439,
+    "timestamp_local": 1780960439
+  },
+  {
+    "id": 48049,
+    "fecha": "08 de Jun del 2026 a las 07:12 PM",
+    "hora_utc": "2026-06-08 23:12",
+    "mensaje": "Afectados 156 MW en la provincia, demanda máxima a apagar en estos momentos.",
+    "timestamp": 1780960320,
+    "timestamp_local": 1780960320
+  },
+  {
     "id": 48048,
     "fecha": "08 de Jun del 2026 a las 07:00 PM",
     "hora_utc": "2026-06-08 23:00",
@@ -110,53 +158,5 @@
     "mensaje": "Afectados 137 MW en la provincia, demanda máxima a apagar en estos momentos.",
     "timestamp": 1780946379,
     "timestamp_local": 1780946379
-  },
-  {
-    "id": 48034,
-    "fecha": "08 de Jun del 2026 a las 03:19 PM",
-    "hora_utc": "2026-06-08 19:19",
-    "mensaje": "💡Con servicio eléctrico los siguientes circuitos:\n🔹Municipio Placetas:\n👉Ctos 101 y 145 Cumbre",
-    "timestamp": 1780946350,
-    "timestamp_local": 1780946350
-  },
-  {
-    "id": 48033,
-    "fecha": "08 de Jun del 2026 a las 03:18 PM",
-    "hora_utc": "2026-06-08 19:18",
-    "mensaje": "⚠Afectado el servicio eléctrico en los siguientes circuitos:\n🔹Municipio Placetas\n👉Ctos 98 y 99 Placetas",
-    "timestamp": 1780946301,
-    "timestamp_local": 1780946301
-  },
-  {
-    "id": 48032,
-    "fecha": "08 de Jun del 2026 a las 02:17 PM",
-    "hora_utc": "2026-06-08 18:17",
-    "mensaje": "⚠Afectado el servicio eléctrico en el siguiente circuito:\n🔹Municipio Santa Clara:\n👉Cto 3 Consejo- Centro",
-    "timestamp": 1780942671,
-    "timestamp_local": 1780942671
-  },
-  {
-    "id": 48031,
-    "fecha": "08 de Jun del 2026 a las 02:09 PM",
-    "hora_utc": "2026-06-08 18:09",
-    "mensaje": "Actualización del servicio eléctrico en la provincia.\n👉En este momento la afectación por déficit de capacidad de generación es de 134 MW, la demanda máxima posible a apagar en estos momentos.\n👉De los circuitos apagables se mantienen afectados 156.\n👉Cuenta con 238 afectaciones por averías secundarias de servicio.",
-    "timestamp": 1780942149,
-    "timestamp_local": 1780942149
-  },
-  {
-    "id": 48030,
-    "fecha": "08 de Jun del 2026 a las 01:11 PM",
-    "hora_utc": "2026-06-08 17:11",
-    "mensaje": "Afectados 137 MW en la provincia, demanda máxima a apagar en estos momentos.",
-    "timestamp": 1780938660,
-    "timestamp_local": 1780938660
-  },
-  {
-    "id": 48029,
-    "fecha": "08 de Jun del 2026 a las 01:09 PM",
-    "hora_utc": "2026-06-08 17:09",
-    "mensaje": "⚠Afectado el servicio eléctrico en los siguientes circuitos:\n🔹Municipio Santa Clara:\n👉Cto 5 Dobarganes\n👉Cto 17 Subplanta\n👉Ctos 37 y 38 Yabú \n👉Cto 9 Moldes y Troqueles\n👉Cto 133 Taller Cafetera",
-    "timestamp": 1780938595,
-    "timestamp_local": 1780938595
   }
 ]
