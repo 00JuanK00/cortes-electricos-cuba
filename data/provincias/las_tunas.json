@@ -1,5 +1,21 @@
 [
   {
+    "id": 19506,
+    "fecha": "09 de Jun del 2026 a las 05:06 PM",
+    "hora_utc": "2026-06-09 21:06",
+    "mensaje": "🔴En estos momentos la provincia enfrenta un déficit elevado, por lo que aún hay circuitos afectados fuera de horario. La recuperación del servicio dependerá de la demanda en tiempo real y las capacidades disponibles. Ofrecemos disculpas por las molestias ocasionadas.",
+    "timestamp": 1781039191,
+    "timestamp_local": 1781039191
+  },
+  {
+    "id": 19505,
+    "fecha": "09 de Jun del 2026 a las 04:07 PM",
+    "hora_utc": "2026-06-09 20:07",
+    "mensaje": "Se declara en avería El circuito 33 Kw 6840 Los Kilómetros",
+    "timestamp": 1781035623,
+    "timestamp_local": 1781035623
+  },
+  {
     "id": 19504,
     "fecha": "09 de Jun del 2026 a las 03:36 PM",
     "hora_utc": "2026-06-09 19:36",
@@ -102,21 +118,5 @@
     "mensaje": "⚡ Resumen: ¿Por qué pueden ocurrir explosiones en un circuito eléctrico?\n\nLas explosiones en un circuito eléctrico suelen producirse cuando se libera una gran cantidad de energía en muy poco tiempo. Esto puede generar altas temperaturas, arcos eléctricos, chispas y sobrepresiones capaces de provocar explosiones o incendios.\n\n🔍 Principales causas\n\n🔥 1. Cortocircuitos\n\nOcurren cuando dos conductores con diferente voltaje entran en contacto accidentalmente.\n\nSe produce una corriente extremadamente alta.\n\nEl calor generado puede fundir cables, equipos y provocar explosiones.\n\n\n⚡ 2. Arco eléctrico\n\nUna descarga eléctrica atraviesa el aire entre dos puntos conductores.\n\nPuede alcanzar temperaturas superiores a varios miles de grados Celsius.\n\nGenera una onda de presión, luz intensa y fragmentos metálicos.\n\n\n🔌 3. Sobrecargas\n\nCuando circula más corriente de la que soportan los cables o equipos.\n\nEl exceso de calor deteriora el aislamiento y puede desencadenar fallas violentas.\n\n\n🏭 4. Fallas en transformadores o equipos eléctricos\n\nAverías internas, aislamiento degradado o defectos mecánicos.\n\nPueden provocar explosiones por acumulación de gases o cortocircuitos internos.\n\n\n💧 5. Humedad y contaminación\n\nEl agua, la salinidad o el polvo conductor facilitan fugas de corriente.\n\nAumentan el riesgo de cortocircuitos y arcos eléctricos.\n\n\n🛠️ 6. Conexiones flojas o deterioradas\n\nLos contactos defectuosos generan calentamiento excesivo.\n\nCon el tiempo pueden producir chispas, incendios o explosiones.\n\n\n🌩️ 7. Descargas atmosféricas (rayos)\n\nIntroducen enormes sobretensiones en la red.\n\nPueden destruir equipos y causar explosiones en dispositivos de protección o transformadores.\n\n\n📌 Señales de advertencia\n\nOlor a cable quemado.\n\nChispas visibles.\n\nZumbidos o crepitaciones anormales.\n\nInterruptores que disparan frecuentemente.\n\nCalentamiento excesivo de cables o conexiones.\n\n\n✅ Medidas de prevención\n\nMantenimiento periódico de las instalaciones.\n\nUso correcto de interruptores automáticos y fusibles.\n\nSustitución de cables y equipos deteriorados.\n\nProtección contra sobretensiones y rayos.\n\nEvitar sobrecargar los circuitos.\n\n\nEn redes eléctricas de distribución, la causa más frecuente de una explosión suele ser un cortocircuito acompañado de un arco eléctrico, provocado por fallas de equipos, árboles sobre las líneas, animales, humedad o deterioro del aislamiento. ⚡🔥",
     "timestamp": 1780952943,
     "timestamp_local": 1780952943
-  },
-  {
-    "id": 19486,
-    "fecha": "08 de Jun del 2026 a las 04:22 PM",
-    "hora_utc": "2026-06-08 20:22",
-    "mensaje": "🔊Que significa e implica la máxima capacidad apagable en la provincia:                                                                                                \n📈 Máxima capacidad apagable se refiere al nivel máximo de demanda eléctrica que puede ser desconectada o suspendida temporalmente en la provincia, explica la complejidad del déficit de generación o contingencias en el sistema eléctrico.\nRepresenta el límite superior de la reducción de carga que la empresa puede lograr mediante cortes de energía (apagones). Cuanto mayor sea la máxima capacidad apagable, mayor será el déficit de energía.\n¿Qué implica esto?\nSe identifica cuántos circuitos pueden ser apagados para equilibrar la carga del sistema, esto imposibilita realizar rotaciones, pues a \nexcepción de los servicios priorizados, se encuentran afectados todos los circuitos apagables del territorio. Podrán presentarse afectaciones \nen el servicio de electricidad durante varias horas al día y el tiempo con servicio dependerá del comportamiento del SEN. Esta medida es \nnecesaria para evitar fallas mayores y proteger la infraestructura eléctrica.",
-    "timestamp": 1780950121,
-    "timestamp_local": 1780950121
-  },
-  {
-    "id": 19485,
-    "fecha": "08 de Jun del 2026 a las 03:26 PM",
-    "hora_utc": "2026-06-08 19:26",
-    "mensaje": "🔊Qué es un disparo por DAF?\nEl Disparo por Frecuencia (DAF) es un mecanismo de protección del sistema eléctrico. Se activa automáticamente cuando la frecuencia desciende por debajo de los valores mínimos seguros (menores de 60 Hz), lo que pone en riesgo la estabilidad del sistema.\nEn ese momento, algunos circuitos se desconectan de forma automática para aliviar la carga y permitir que la frecuencia vuelva a su valor nominal.\nEsto suele ocurrir cuando una planta generadora sale de servicio de manera imprevista, provocando un déficit de generación. El DAF ayuda a evitar un colapso mayor del sistema, aunque puede generar afectaciones al servicio como apagones parciales.",
-    "timestamp": 1780946816,
-    "timestamp_local": 1780946816
   }
 ]

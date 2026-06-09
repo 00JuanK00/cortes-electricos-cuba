@@ -1,5 +1,37 @@
 [
   {
+    "id": 35174,
+    "fecha": "09 de Jun del 2026 a las 04:53 PM",
+    "hora_utc": "2026-06-09 20:53",
+    "mensaje": "🚨 **Actualización del Sistema Electroenergético en la Provincia de Granma**\n\n🔺 **MW** **con servicio:** 10\n\n❎ **Se afecta el servicio eléctrico para el circuito**:\n\nEntronque de Guisa \n\n📢 **Continuaremos informando**.",
+    "timestamp": 1781038432,
+    "timestamp_local": 1781038432
+  },
+  {
+    "id": 35173,
+    "fecha": "09 de Jun del 2026 a las 04:32 PM",
+    "hora_utc": "2026-06-09 20:32",
+    "mensaje": "🚨 **Actualización del Sistema Electroenergético en la Provincia de Granma**.\n\n🔺 **MW** **con servicio:** 10\n\n❎ **Se afecta el servicio eléctrico para el circuito**:\n\nJiguaní Desarrollo \n\n✅ **Se restablece el servicio eléctrico para el circuito:**\n\nAmado Estévez ( seccionalizado)\n\n\n📢 **Continuaremos informando**.",
+    "timestamp": 1781037169,
+    "timestamp_local": 1781037169
+  },
+  {
+    "id": 35172,
+    "fecha": "09 de Jun del 2026 a las 04:06 PM",
+    "hora_utc": "2026-06-09 20:06",
+    "mensaje": "🚨 Restablecido el servicio eléctrico para el **Hospital Celia** **Sánchez Manduley** en el municipio de Manzanillo.\n\n👉 Continuaremos informando...",
+    "timestamp": 1781035614,
+    "timestamp_local": 1781035614
+  },
+  {
+    "id": 35171,
+    "fecha": "09 de Jun del 2026 a las 03:47 PM",
+    "hora_utc": "2026-06-09 19:47",
+    "mensaje": "🚨 **Actualización del Sistema Electroenergético en la Provincia de** **Granma**.\n\n🔺 Sincronizada la Provincia Granma al Sistema Electroenergético Nacional con **9** **MW** con servicio.\n\n\n✅ **Se restablece el servicio eléctrico** **para**: \n\n🏥 Hospital Provincial Carlos Manuel de Céspedes \n\nCircuitos 1 y 2\nProvisional \nSanta Rita \nMonjará \nEntronque de Guisa\nJiguaní Desarrollo \n\n\n📌 El restablecimiento del servicio eléctrico será paulatinamente para los circuitos vitales y en la medida en que la disponibilidad que el Sistema Electroenergético Nacional lo permita se le dará servicio eléctrico a los circuitos con mayor tiempo.\n\n📢 **Continuaremos informando**.",
+    "timestamp": 1781034473,
+    "timestamp_local": 1781034473
+  },
+  {
     "id": 35170,
     "fecha": "09 de Jun del 2026 a las 02:58 PM",
     "hora_utc": "2026-06-09 18:58",
@@ -126,37 +158,5 @@
     "mensaje": "🚨 **Actualización del Sistema Electroenergético en la Provincia de Granma**\n\n🔺 **MW** **afectados :** 71\n\n🔺 **MW** **con servicio:** 40\n\n\n✅ **Se restablece el servicio eléctrico para el  circuito**:\n\nProvisional \n\n🚗 El carro se dirige a restablecer el servicio eléctrico para los circuitos:\n\nProvidencia \nEl Zarzal\n\n⏰ **Circuitos con mayor tiempo de afectación**:\n\n* Jiguaní Desarrollo con 22 h y 40 min\n* Campechuela Pueblo con 22 h y 33 min\n* Ceiba Hueca con 22 h y 33 min\n* San Ramón con 22 h y 33 min\n* Calicito con 22 h y 33 min\n\n📢 **Continuaremos informando**.",
     "timestamp": 1781017139,
     "timestamp_local": 1781017139
-  },
-  {
-    "id": 35154,
-    "fecha": "09 de Jun del 2026 a las 10:49 AM",
-    "hora_utc": "2026-06-09 14:49",
-    "mensaje": "🚨 Afectado nuevamente el servicio eléctrico para el interruptor que alimenta el municipio de **Niquero**, por un disparo automático por frecuencia (DAF).\n\n👉 Continuaremos informando...",
-    "timestamp": 1781016557,
-    "timestamp_local": 1781016557
-  },
-  {
-    "id": 35153,
-    "fecha": "09 de Jun del 2026 a las 10:48 AM",
-    "hora_utc": "2026-06-09 14:48",
-    "mensaje": "🚨 Comunicamos a los clientes que el circuito **Veguita Sur **está disparado por alta.\n👷 Se crean las condiciones necesarias para que nuestros operarios se dirijan al lugar.\n\nOfrecemos disculpas por las molestias que esta situación ocasiona.\n\n👉 Continuaremos informando...",
-    "timestamp": 1781016483,
-    "timestamp_local": 1781016483
-  },
-  {
-    "id": 35152,
-    "fecha": "09 de Jun del 2026 a las 10:40 AM",
-    "hora_utc": "2026-06-09 14:40",
-    "mensaje": "🚨 Está restablecido el servicio eléctrico para el interruptor que alimenta el municipio de **Niquero** que se afectó por un disparo automático por frecuencia ( DAF).\n\n👉 Continuaremos informando...",
-    "timestamp": 1781016015,
-    "timestamp_local": 1781016015
-  },
-  {
-    "id": 35151,
-    "fecha": "09 de Jun del 2026 a las 10:35 AM",
-    "hora_utc": "2026-06-09 14:35",
-    "mensaje": "#NotaDeInterés \n\n📣 DAF:\nEl disparo automático por frecuencia ( DAF) : Es una protección que posee el sistema eléctrico para cuando la frecuencia llega a valores mínimos permisibles que ponen en peligro la estabilidad del sistema en su conjunto y provoca una desconexión automática de algunos circuitos hasta que está vuelva a recuperar su valor nominal a 60 Hz o ciclos por segundo.\nEsto ocurre al salir de forma imprevista o repentina una planta generadora con una potencia determinada y el sistema en su conjunto necesita liberar esa carga hasta tanto se puedan recuperar la potencia de generación perdida anteriormente o dar las afectaciones al ser déficit de generación.",
-    "timestamp": 1781015747,
-    "timestamp_local": 1781015747
   }
 ]
