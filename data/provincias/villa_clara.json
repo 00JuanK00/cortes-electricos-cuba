@@ -1,5 +1,37 @@
 [
   {
+    "id": 48071,
+    "fecha": "09 de Jun del 2026 a las 07:05 AM",
+    "hora_utc": "2026-06-09 11:05",
+    "mensaje": "Afectados 131 MW en la provincia, demanda máxima a apagar en estos momentos.",
+    "timestamp": 1781003129,
+    "timestamp_local": 1781003129
+  },
+  {
+    "id": 48070,
+    "fecha": "09 de Jun del 2026 a las 06:55 AM",
+    "hora_utc": "2026-06-09 10:55",
+    "mensaje": "✍️Ante cualquier duda conozca sobre la terminología eléctrica\n\n🔹Las averías pueden ser:\n     \n➡️Primarias: Afecta un volumen grande de población pues son las líneas de distribución a 13.8 kV y puede afectar varias manzanas, incluso repartos completos.\n\n➡️Secundarias: Afecta a todos los clientes que se alimenten del mismo transformador, puede afectar una o varias cuadras. \n\n➡️De servicio: Afectan 1 solo cliente o instalación generalmente producto a daños en la acometida, metro contador, etc.).",
+    "timestamp": 1781002533,
+    "timestamp_local": 1781002533
+  },
+  {
+    "id": 48069,
+    "fecha": "09 de Jun del 2026 a las 06:14 AM",
+    "hora_utc": "2026-06-09 10:14",
+    "mensaje": "🕕Actualización del servicio eléctrico.\n✍️El déficit de capacidad de generación en estos momentos es de 123 MW\n✍️En el momento de esta nota, se mantienen afectados 156 circuitos.\n✍️ Cuenta con 203 afectaciones por averías secundarias y de servicio:\n🔸 Caibarién (4)\n🔸 Corralillo (3)\n🔸 Encrucijada (4)\n🔸 Manicaragua (14)\n🔸 Placetas (11)\n🔸 Ranchuelo (21)\n🔸 Remedios (14) \n🔸 Sagua (6) \n🔸 Santa Clara (111)\n🔸 Santo Domingo (15)\n🛠Se encuentra 1 avería en vía de solución.\n🛠️Pendientes a solucionar por el área técnica 21.\n⚡En avería la línea del 1365, se estudian las causas:\n🔹Municipio Remedios:\n👉Ctos 67 y 152, 68 y 118 \n👉Ctos 69 y 70 Zuluetas\n👉Cto 143 Batey Heriberto Duquezne \n👉Cto 71 Buena Vista",
+    "timestamp": 1781000079,
+    "timestamp_local": 1781000079
+  },
+  {
+    "id": 48068,
+    "fecha": "09 de Jun del 2026 a las 05:21 AM",
+    "hora_utc": "2026-06-09 09:21",
+    "mensaje": "Afectados 119 MW en la provincia, demanda máxima a apagar en estos momentos.",
+    "timestamp": 1780996918,
+    "timestamp_local": 1780996918
+  },
+  {
     "id": 48067,
     "fecha": "09 de Jun del 2026 a las 04:42 AM",
     "hora_utc": "2026-06-09 08:42",
@@ -118,37 +150,5 @@
     "mensaje": "💡Con servicio eléctrico los siguientes circuitos:\n➡Línea 1785\n🔹Municipio Santa Clara:\n👉Cto 34 Sabana Rebacadero\n👉Ctos 32 y 33 (RF-33Kv)\n👉Cto 39 (Sandino)",
     "timestamp": 1780963492,
     "timestamp_local": 1780963492
-  },
-  {
-    "id": 48051,
-    "fecha": "08 de Jun del 2026 a las 08:03 PM",
-    "hora_utc": "2026-06-09 00:03",
-    "mensaje": "Actualización del servicio eléctrico en la provincia.\n👉En este momento la afectación por déficit de capacidad de generación es de 153 MW, la demanda máxima posible a apagar en estos momentos.\n👉De los circuitos apagables se mantienen afectados 156.\n👉Cuenta con 213 afectaciones por averías secundarias de servicio.",
-    "timestamp": 1780963438,
-    "timestamp_local": 1780963438
-  },
-  {
-    "id": 48050,
-    "fecha": "08 de Jun del 2026 a las 07:13 PM",
-    "hora_utc": "2026-06-08 23:13",
-    "mensaje": "⚠Se encuentra afectada por emergencia la línea del 1785 perteneciente al municipio Santa Clara:\n➡Línea 1785\n🔹Municipio Santa Clara:\n👉Cto 6 Vigía\n👉Cto 34 Sabana Rebacadero\n👉Ctos 32 y 33 (RF-33Kv)\n👉Cto 39 (Sandino)",
-    "timestamp": 1780960439,
-    "timestamp_local": 1780960439
-  },
-  {
-    "id": 48049,
-    "fecha": "08 de Jun del 2026 a las 07:12 PM",
-    "hora_utc": "2026-06-08 23:12",
-    "mensaje": "Afectados 156 MW en la provincia, demanda máxima a apagar en estos momentos.",
-    "timestamp": 1780960320,
-    "timestamp_local": 1780960320
-  },
-  {
-    "id": 48048,
-    "fecha": "08 de Jun del 2026 a las 07:00 PM",
-    "hora_utc": "2026-06-08 23:00",
-    "mensaje": "💡Con servicio eléctrico los siguientes circuitos:\n🔹Municipio Santa Clara:\n👉Cto 30 y 193 Santa Clara Industrial",
-    "timestamp": 1780959644,
-    "timestamp_local": 1780959644
   }
 ]
