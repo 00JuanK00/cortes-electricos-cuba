@@ -1,5 +1,45 @@
 [
   {
+    "id": 48184,
+    "fecha": "10 de Jun del 2026 a las 05:23 PM",
+    "hora_utc": "2026-06-10 21:23",
+    "mensaje": "⚡Afectado por avería de manera parcial el circuito 75 La Quinta, del municipio Camajuaní, por presentar cables partidos.",
+    "timestamp": 1781126628,
+    "timestamp_local": 1781126628
+  },
+  {
+    "id": 48182,
+    "fecha": "10 de Jun del 2026 a las 04:50 PM",
+    "hora_utc": "2026-06-10 20:50",
+    "mensaje": "⚠Afectado el servicio eléctrico en los siguientes circuitos:\n🔹Municipio Placetas \n👉Ctos 100 y 151 Placetas\n👉Cto 104 Hermanos Amejeiras\n👉Cto 103 Batey Carbó Servía",
+    "timestamp": 1781124621,
+    "timestamp_local": 1781124621
+  },
+  {
+    "id": 48181,
+    "fecha": "10 de Jun del 2026 a las 04:38 PM",
+    "hora_utc": "2026-06-10 20:38",
+    "mensaje": "⚡Avería en Línea 1365, municipio Remedios, se investigan las causas.\n➡️Línea 1365\n🔹Municipio Remedios:\n👉Ctos 67 y 152, 68 y 118 \n👉Ctos 69 y 70 Zuluetas\n👉Cto 143 Batey Heriberto Duquezne \n👉Cto 71 Buena Vista",
+    "timestamp": 1781123894,
+    "timestamp_local": 1781123894
+  },
+  {
+    "id": 48180,
+    "fecha": "10 de Jun del 2026 a las 04:06 PM",
+    "hora_utc": "2026-06-10 20:06",
+    "mensaje": "Actualización del servicio eléctrico en la provincia.\n👉En este momento la afectación por déficit de capacidad de generación es de 131 MW, la demanda máxima posible a apagar en estos momentos.\n👉De los circuitos apagables se mantienen afectados 147.\n👉Cuenta con 265 afectaciones por averías secundarias de servicio.",
+    "timestamp": 1781121985,
+    "timestamp_local": 1781121985
+  },
+  {
+    "id": 48179,
+    "fecha": "10 de Jun del 2026 a las 03:59 PM",
+    "hora_utc": "2026-06-10 19:59",
+    "mensaje": "💡Restablecido el servicio eléctrico en la Línea 1365.",
+    "timestamp": 1781121586,
+    "timestamp_local": 1781121586
+  },
+  {
     "id": 48178,
     "fecha": "10 de Jun del 2026 a las 03:19 PM",
     "hora_utc": "2026-06-10 19:19",
@@ -94,53 +134,5 @@
     "mensaje": "💡Con servicio eléctrico los siguientes circuitos:\n🔹Municipio Placetas \n👉Ctos 100 y 151 Placetas\n👉Cto 104 Hermanos Amejeiras\n👉Cto 103 Batey Carbó Servía",
     "timestamp": 1781110392,
     "timestamp_local": 1781110392
-  },
-  {
-    "id": 48164,
-    "fecha": "10 de Jun del 2026 a las 12:46 PM",
-    "hora_utc": "2026-06-10 16:46",
-    "mensaje": "⚠Afectado por emergencia el circuito 4 Complejo Centro por cable primario partido.",
-    "timestamp": 1781109967,
-    "timestamp_local": 1781109967
-  },
-  {
-    "id": 48163,
-    "fecha": "10 de Jun del 2026 a las 12:40 PM",
-    "hora_utc": "2026-06-10 16:40",
-    "mensaje": "💡Con servicio eléctrico el siguiente circuito:\n🔹Municipio Santa Clara\n👉Cto 162 Santa Clara Industrial",
-    "timestamp": 1781109640,
-    "timestamp_local": 1781109640
-  },
-  {
-    "id": 48162,
-    "fecha": "10 de Jun del 2026 a las 12:40 PM",
-    "hora_utc": "2026-06-10 16:40",
-    "mensaje": "⚠Afectado el servicio eléctrico en el siguiente circuito:\n🔹Municipio Santa Clara\n👉Cto 132 Santa Clara Industrial",
-    "timestamp": 1781109610,
-    "timestamp_local": 1781109610
-  },
-  {
-    "id": 48161,
-    "fecha": "10 de Jun del 2026 a las 12:19 PM",
-    "hora_utc": "2026-06-10 16:19",
-    "mensaje": "💡Con servicio eléctrico el siguiente circuito:\n🔹Municipio Camajuaní:\n👉Cto 77 Vueltas",
-    "timestamp": 1781108399,
-    "timestamp_local": 1781108399
-  },
-  {
-    "id": 48160,
-    "fecha": "10 de Jun del 2026 a las 12:06 PM",
-    "hora_utc": "2026-06-10 16:06",
-    "mensaje": "⚠Afectado el servicio eléctrico en el siguiente circuito:\n🔹Municipio Santa Clara:\n👉Cto 3 Consejo- Centro",
-    "timestamp": 1781107587,
-    "timestamp_local": 1781107587
-  },
-  {
-    "id": 48159,
-    "fecha": "10 de Jun del 2026 a las 12:05 PM",
-    "hora_utc": "2026-06-10 16:05",
-    "mensaje": "💡Con servicio eléctrico el siguiente circuito:\n🔹Municipio Santa Clara:\n👉Cto 4 Consejo- Centro",
-    "timestamp": 1781107533,
-    "timestamp_local": 1781107533
   }
 ]
