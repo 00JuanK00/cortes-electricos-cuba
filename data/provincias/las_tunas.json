@@ -1,5 +1,21 @@
 [
   {
+    "id": 19524,
+    "fecha": "10 de Jun del 2026 a las 12:34 PM",
+    "hora_utc": "2026-06-10 16:34",
+    "mensaje": "La Empresa Eléctrica Las Tunas informa que, según la nota emitida por la Unión Eléctrica para el 10 de junio, en el día de ayer se afectó el servicio por déficit de capacidad durante las 24 horas y se mantuvo la afectación durante todo el horario de la madrugada. En nuestra provincia se afectaron la totalidad de los circuitos apagables, con una máxima afectación de 82.2 MW.\nActualmente están fuera de servicio por avería Unidad de la CTE Antonio Guiteras, Unidad 6 de la CTE Máximo Gómez, Unidades 1, 2 y 3 de la CTE Ernesto Guevara De La Serna, Unidad 2 de la CTE Lidio Ramón Pérez.\nEn mantenimiento se encuentran la Unidad 5 de la CTE Mariel, Unidades 5 y 6 de la CTE Renté, Unidad 5 de la CTE Nuevitas\nEn el horario de la media se estima un déficit en el país de 1650 MW, lo cual representa para nuestra provincia la totalidad de los circuitos apagables.\nEn el horario pico nocturno se prevén 2040 MW de afectación, en Las Tunas puede extenderse igualmente a todos los circuitos apagables, debido al alto déficit de capacidad de generación existente.\nEstos valores pueden variar según la demanda nacional.",
+    "timestamp": 1781109244,
+    "timestamp_local": 1781109244
+  },
+  {
+    "id": 19523,
+    "fecha": "10 de Jun del 2026 a las 11:56 AM",
+    "hora_utc": "2026-06-10 15:56",
+    "mensaje": "📣🚨Informamos a nuestros clientes que en este momento nos encontramos en la máxima capacidad apagable, lo que impide el restablecimiento inmediato del servicio eléctrico en los circuitos afectados. La situación podrá mejorar en la medida en que el Sistema Electroenergético Nacional permita recuperar la capacidad de generación.Ofrecemos disculpas por las molestas ocasionadas.",
+    "timestamp": 1781107015,
+    "timestamp_local": 1781107015
+  },
+  {
     "id": 19521,
     "fecha": "10 de Jun del 2026 a las 07:07 AM",
     "hora_utc": "2026-06-10 11:07",
@@ -118,21 +134,5 @@
     "mensaje": "Resuelta la avería del TK88 Dos Hermanos",
     "timestamp": 1781033794,
     "timestamp_local": 1781033794
-  },
-  {
-    "id": 19503,
-    "fecha": "09 de Jun del 2026 a las 03:20 PM",
-    "hora_utc": "2026-06-09 19:20",
-    "mensaje": "Se declara en avería el TK10 El Cornito",
-    "timestamp": 1781032846,
-    "timestamp_local": 1781032846
-  },
-  {
-    "id": 19502,
-    "fecha": "09 de Jun del 2026 a las 02:34 PM",
-    "hora_utc": "2026-06-09 18:34",
-    "mensaje": "Se afecta también:\nTK24 Reparto Santo Domingo\nTK4 Aeropuerto, Casa Piedra y Aurora\nTK27 La Victoria",
-    "timestamp": 1781030077,
-    "timestamp_local": 1781030077
   }
 ]
