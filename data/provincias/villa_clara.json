@@ -1,5 +1,37 @@
 [
   {
+    "id": 48127,
+    "fecha": "09 de Jun del 2026 a las 09:37 PM",
+    "hora_utc": "2026-06-10 01:37",
+    "mensaje": "⚠Afectado el servicio eléctrico en los siguientes circuitos:\n🔹Municipio Santa Clara:\n👉Cto 5 Dobarganes\n👉Cto 17 Subplanta\n👉Cto 9 Moldes y Troqueles\n👉Cto 133 Taller Cafetera\n👉Cto 13 Zona Industrial",
+    "timestamp": 1781055435,
+    "timestamp_local": 1781055435
+  },
+  {
+    "id": 48126,
+    "fecha": "09 de Jun del 2026 a las 08:13 PM",
+    "hora_utc": "2026-06-10 00:13",
+    "mensaje": "Actualización del servicio eléctrico en la provincia.\n👉En este momento la afectación por déficit de capacidad de generación es de 153 MW, la demanda máxima posible a apagar en estos momentos.\n👉De los circuitos apagables se mantienen afectados 156.\n👉Cuenta con 223 afectaciones por averías secundarias de servicio.",
+    "timestamp": 1781050406,
+    "timestamp_local": 1781050406
+  },
+  {
+    "id": 48125,
+    "fecha": "09 de Jun del 2026 a las 08:10 PM",
+    "hora_utc": "2026-06-10 00:10",
+    "mensaje": "💡Con servicio eléctrico los siguientes circuitos:\n➡️Línea 861 \n🔹Municipio Santa Clara:\n👉Cto 5 Dobarganes\n👉Cto 17 Subplanta\n👉Cto 9 Moldes y Troqueles\n👉Cto 133 Taller Cafetera\n👉Cto 13 Zona Industrial",
+    "timestamp": 1781050243,
+    "timestamp_local": 1781050243
+  },
+  {
+    "id": 48124,
+    "fecha": "09 de Jun del 2026 a las 07:56 PM",
+    "hora_utc": "2026-06-09 23:56",
+    "mensaje": "🚨Usted  manténgase informado a través de nuestras redes sociales 🛜 \n\n➡️X https://x.com/EmpElectricaVC\n➡️Facebook https://www.facebook.com/luzdelcentro\n➡️WhatsApp \nhttps://whatsapp.com/channel/0029Vafr4tFG3R3gKRPpm62b\n\nTambién puede comunicarse a través del Centro Telefónico 18888☎️ ,prestamos servicio las 24 hras",
+    "timestamp": 1781049415,
+    "timestamp_local": 1781049415
+  },
+  {
     "id": 48122,
     "fecha": "09 de Jun del 2026 a las 06:24 PM",
     "hora_utc": "2026-06-09 22:24",
@@ -126,37 +158,5 @@
     "mensaje": "⚡Afectada Línea 1915 por tormenta\n➡️Línea 1915  \n🔹Municipio Placetas:\n👉Cto 192 Benito Juárez\n👉Cto 102 Peroti",
     "timestamp": 1781033659,
     "timestamp_local": 1781033659
-  },
-  {
-    "id": 48105,
-    "fecha": "09 de Jun del 2026 a las 03:28 PM",
-    "hora_utc": "2026-06-09 19:28",
-    "mensaje": "➡️Los disparos de circuito tienen diferentes aristas todas con distintos significados, es decir que ocurren por varias causas. Entre ellas encontramos:\n\n👉-Disparo de Circuito con Recierre: El conocido por los clientes como “quita y pon de corriente” es un tipo de protección utilizada mundialmente a partir del 80% aproximadamente de las interrupciones eléctricas son transitorias. Este fenómeno lo hace una sola vez ante un evento de red y no es dañino para para nuestros equipos electrodomésticos.\n\n👉- Disparo Automático por Frecuencia (DAF): El disparo por DAF ocurre cuando la frecuencia llega a valores mínimos permisibles que ponen en peligro la estabilidad del mismo y como protección desconecta varios circuitos de la Capital. Los mismo restablecen a medida que se vaya recuperando la frecuencia que tiene un valor de 60hz o ciclos por segundo.\n\n👉-Disparo de Circuito por Sobrecarga: Este ocurre mayormente en los horarios pico y en verano, ya que las altas temperaturas generan elevados consumos en la población y como consecuencia de ello fallas en los circuitos.\n\n👉-Disparo de Circuito por Posible Avería: Este fenómeno ocurre cuando existe una falla en algún circuito, ya sea soterrado, aéreo o en una subestación. Estas, a pesar de que son mucho más frecuentes cuando existe algún evento climatológico, pueden ocurrir en cualquier momento del día o la noche, ya que son situaciones que no cuentan con programación.",
-    "timestamp": 1781033310,
-    "timestamp_local": 1781033310
-  },
-  {
-    "id": 48104,
-    "fecha": "09 de Jun del 2026 a las 03:28 PM",
-    "hora_utc": "2026-06-09 19:28",
-    "mensaje": "⚠Afectado por disparo el Cto 143 Batey Heriberto Duquezne , perteneciente al Municipio Remedios",
-    "timestamp": 1781033287,
-    "timestamp_local": 1781033287
-  },
-  {
-    "id": 48103,
-    "fecha": "09 de Jun del 2026 a las 03:07 PM",
-    "hora_utc": "2026-06-09 19:07",
-    "mensaje": "⚠Afectado el servicio eléctrico en los siguientes circuitos:\n🔹Municipio Quemado:\n👉 Cto 53 Quemado.\n🔹Municipio Ranchuelo: \n👉Ctos 89 y 188",
-    "timestamp": 1781032034,
-    "timestamp_local": 1781032034
-  },
-  {
-    "id": 48102,
-    "fecha": "09 de Jun del 2026 a las 03:05 PM",
-    "hora_utc": "2026-06-09 19:05",
-    "mensaje": "💡Con servicio eléctrico los siguientes circuitos:\n🔹Municipio Quemado:\n👉 Cto 164 Quemado\n🔹Municipio Ranchuelo: \n👉Ctos  97 y 189",
-    "timestamp": 1781031939,
-    "timestamp_local": 1781031939
   }
 ]

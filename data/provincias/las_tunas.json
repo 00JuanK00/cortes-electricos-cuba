@@ -1,5 +1,53 @@
 [
   {
+    "id": 19513,
+    "fecha": "09 de Jun del 2026 a las 09:35 PM",
+    "hora_utc": "2026-06-10 01:35",
+    "mensaje": "📌 Estimados clientes 📌\n〽️El Sistema Electroenergético Nacional (SEN) tiene varios regímenes de operación, esto es fundamentalmente porque las cargas de los circuitos son variables, con sus características específicas y sus actividades propias, tanto estatales como de los demás sectores de la sociedad. 💡Durante el día se le llama “media”, al pico “máxima” y en la madrugada “mínima”. \n📊El déficit de capacidad de generación (apagón) puede variar sus cifras: los mayores valores son en el pico, los menores en la madrugada y en el día se comportan entre el máximo y el mínimo.\n✅Como resultado, con una cantidad de circuitos afectados, puede modificarse el déficit, con los mismos circuitos sin servicio eléctrico.",
+    "timestamp": 1781055327,
+    "timestamp_local": 1781055327
+  },
+  {
+    "id": 19512,
+    "fecha": "09 de Jun del 2026 a las 08:43 PM",
+    "hora_utc": "2026-06-10 00:43",
+    "mensaje": "🛠🚨Se declara en avería el TK1 Edificios de Buena  Vista",
+    "timestamp": 1781052225,
+    "timestamp_local": 1781052225
+  },
+  {
+    "id": 19511,
+    "fecha": "09 de Jun del 2026 a las 08:04 PM",
+    "hora_utc": "2026-06-10 00:04",
+    "mensaje": "🛠🚨Se declara en avería Circuito 33 Kv: 6470-6300🚨**\n**TK13 Yariguá\nTJ11 Bartle\nTK91 Macagua\nTK87 Pueblo Jobabo\nTK90 Escuela Especial Jobabo\n6470 Mina de Oro, Las Margaritas",
+    "timestamp": 1781049843,
+    "timestamp_local": 1781049843
+  },
+  {
+    "id": 19510,
+    "fecha": "09 de Jun del 2026 a las 07:59 PM",
+    "hora_utc": "2026-06-09 23:59",
+    "mensaje": "📣🚨Reiteramos a nuestros clientes que debido al significativo déficit energético que enfrenta nuestro país y la disponibilidad limitada del Sistema Eléctrico Nacional(SEN)en comparación con la demanda actual, lamentamos no poder proporcionar una programación detallada de las afectaciones en el suministro eléctrico.Agradecemos su compresión y ofrecemos nuestras más sinceras disculpas por las molestias que esto pueda causarles.",
+    "timestamp": 1781049548,
+    "timestamp_local": 1781049548
+  },
+  {
+    "id": 19509,
+    "fecha": "09 de Jun del 2026 a las 07:55 PM",
+    "hora_utc": "2026-06-09 23:55",
+    "mensaje": "💡Restablecido el servicio eléctrico a los circuitos que se encontraban afectados por disparo automático por frecuencia (DAF)",
+    "timestamp": 1781049328,
+    "timestamp_local": 1781049328
+  },
+  {
+    "id": 19508,
+    "fecha": "09 de Jun del 2026 a las 07:09 PM",
+    "hora_utc": "2026-06-09 23:09",
+    "mensaje": "🔊🚨Se les informa a los clientes de los siguientes circuitos que se encuentran afectados por disparo automático por frecuencia (DAF)\nTK5 Buena Vista, Los Pinos\nTK106 Palancón, Buena Vista",
+    "timestamp": 1781046544,
+    "timestamp_local": 1781046544
+  },
+  {
     "id": 19507,
     "fecha": "09 de Jun del 2026 a las 06:36 PM",
     "hora_utc": "2026-06-09 22:36",
@@ -86,37 +134,5 @@
     "mensaje": "Está afectado el servicio del circuito Tk5 por DAF",
     "timestamp": 1781002257,
     "timestamp_local": 1781002257
-  },
-  {
-    "id": 19493,
-    "fecha": "08 de Jun del 2026 a las 07:11 PM",
-    "hora_utc": "2026-06-08 23:11",
-    "mensaje": "Se afecta el servicio eléctrico al circuito  Tk9 Aguilera fuera de horario",
-    "timestamp": 1780960269,
-    "timestamp_local": 1780960269
-  },
-  {
-    "id": 19492,
-    "fecha": "08 de Jun del 2026 a las 05:27 PM",
-    "hora_utc": "2026-06-08 21:27",
-    "mensaje": "🔴Se afecta el servicio eléctrico al circuito TK1 Edificios de Buena Vista por emergencia para retirar puentes partidos.",
-    "timestamp": 1780954047,
-    "timestamp_local": 1780954047
-  },
-  {
-    "id": 19490,
-    "fecha": "08 de Jun del 2026 a las 05:16 PM",
-    "hora_utc": "2026-06-08 21:16",
-    "mensaje": "🔊Informamos a nuestros clientes que en este momento nos encontramos en la máxima capacidad apagable, lo que impide el restablecimiento inmediato del servicio eléctrico en los circuitos afectados. La situación podrá mejorar en la medida en que el Sistema Electroenergético Nacional permita recuperar la capacidad de generación.Ofrecemos disculpas por las molestas ocasionadas.",
-    "timestamp": 1780953384,
-    "timestamp_local": 1780953384
-  },
-  {
-    "id": 19489,
-    "fecha": "08 de Jun del 2026 a las 05:15 PM",
-    "hora_utc": "2026-06-08 21:15",
-    "mensaje": "👉Se afecta el servicio fuera de horario a los siguientes circuitos:                                                                        TK6 Calle Cuba y zona sur de Buena Vista\nTK12 Las 40 y Nuevo Sosa",
-    "timestamp": 1780953330,
-    "timestamp_local": 1780953330
   }
 ]
