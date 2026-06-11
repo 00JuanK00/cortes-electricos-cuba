@@ -1,5 +1,45 @@
 [
   {
+    "id": 115407,
+    "fecha": "10 de Jun del 2026 a las 09:50 PM",
+    "hora_utc": "2026-06-11 01:50",
+    "mensaje": "🚨Por déficit de capacidad de generación se afecta el servicio en el siguiente circuito:\n*5 de San José 🚨",
+    "timestamp": 1781142608,
+    "timestamp_local": 1781142608
+  },
+  {
+    "id": 115406,
+    "fecha": "10 de Jun del 2026 a las 09:24 PM",
+    "hora_utc": "2026-06-11 01:24",
+    "mensaje": "🔷 Solucionada la avería en las zonas correspondientes al circuito Babiney 🔷",
+    "timestamp": 1781141098,
+    "timestamp_local": 1781141098
+  },
+  {
+    "id": 115405,
+    "fecha": "10 de Jun del 2026 a las 08:23 PM",
+    "hora_utc": "2026-06-11 00:23",
+    "mensaje": "🚨Por déficit de capacidad de generación se afecta el servicio en el siguiente circuito:\n*Surgidero 🚨",
+    "timestamp": 1781137418,
+    "timestamp_local": 1781137418
+  },
+  {
+    "id": 115404,
+    "fecha": "10 de Jun del 2026 a las 07:59 PM",
+    "hora_utc": "2026-06-10 23:59",
+    "mensaje": "🚨Por déficit de capacidad de generación se afecta el servicio en el siguiente circuito:\n*Bío-2 🚨",
+    "timestamp": 1781135991,
+    "timestamp_local": 1781135991
+  },
+  {
+    "id": 115403,
+    "fecha": "10 de Jun del 2026 a las 07:23 PM",
+    "hora_utc": "2026-06-10 23:23",
+    "mensaje": "♦️ Informamos a los clientes de los siguientes zonas pertenecientes al circuito Jaruco que se encuentran afectados por manipulación :\n*San Francisco \n*Alegría de Pío\ny zonas aledañas  ♦️",
+    "timestamp": 1781133830,
+    "timestamp_local": 1781133830
+  },
+  {
     "id": 115402,
     "fecha": "10 de Jun del 2026 a las 06:58 PM",
     "hora_utc": "2026-06-10 22:58",
@@ -11,7 +51,7 @@
     "id": 115400,
     "fecha": "10 de Jun del 2026 a las 06:30 PM",
     "hora_utc": "2026-06-10 22:30",
-    "mensaje": "🚨Por déficit de capacidad de generación se afecta el servicio en el siguiente circuito:\n*Salud 2🚨",
+    "mensaje": "🚨Por déficit de capacidad de generación se afecta el servicio en los siguientes circuitos:\n*Salud 2\n*Los Palos🚨",
     "timestamp": 1781130601,
     "timestamp_local": 1781130601
   },
@@ -67,7 +107,7 @@
     "id": 115392,
     "fecha": "10 de Jun del 2026 a las 04:13 PM",
     "hora_utc": "2026-06-10 20:13",
-    "mensaje": "🚨Por déficit de capacidad de generación se afecta el servicio en el siguiente circuito:\n*CTO 🚨",
+    "mensaje": "🚨Por déficit de capacidad de generación se afecta el servicio en los siguientes circuitos:\n*CTO\n*Menocal 🚨",
     "timestamp": 1781122403,
     "timestamp_local": 1781122403
   },
@@ -118,45 +158,5 @@
     "mensaje": "♦️⚡ Informamos a los clientes del circuito ML-35 que se encuentran afectados por disparo por tormenta ⚡♦️",
     "timestamp": 1781118933,
     "timestamp_local": 1781118933
-  },
-  {
-    "id": 115385,
-    "fecha": "10 de Jun del 2026 a las 03:06 PM",
-    "hora_utc": "2026-06-10 19:06",
-    "mensaje": "♦️⚡ Informamos a los clientes del circuito 3 de San José que se encuentran afectados por disparo por tormenta ⚡♦️",
-    "timestamp": 1781118382,
-    "timestamp_local": 1781118382
-  },
-  {
-    "id": 115384,
-    "fecha": "10 de Jun del 2026 a las 02:56 PM",
-    "hora_utc": "2026-06-10 18:56",
-    "mensaje": "♦️⚡ Informamos a los clientes del circuito 3140 que se encuentran afectados por disparo por tormenta ⚡♦️",
-    "timestamp": 1781117805,
-    "timestamp_local": 1781117805
-  },
-  {
-    "id": 115383,
-    "fecha": "10 de Jun del 2026 a las 02:41 PM",
-    "hora_utc": "2026-06-10 18:41",
-    "mensaje": "♦️ Informamos a los clientes de las siguientes zonas pertenecientes al circuito Babiney que se encuentran afectados por avería \n*Vaquería La Julia\n*Caserío Durán\n*Finca La Ruda\n*Finca El Castillo \ny zonas aledañas \n♦️",
-    "timestamp": 1781116897,
-    "timestamp_local": 1781116897
-  },
-  {
-    "id": 115382,
-    "fecha": "10 de Jun del 2026 a las 02:21 PM",
-    "hora_utc": "2026-06-10 18:21",
-    "mensaje": "🚨Por déficit de capacidad de generación se afecta el servicio en el siguiente circuito:\n*2420 🚨",
-    "timestamp": 1781115719,
-    "timestamp_local": 1781115719
-  },
-  {
-    "id": 115381,
-    "fecha": "10 de Jun del 2026 a las 02:17 PM",
-    "hora_utc": "2026-06-10 18:17",
-    "mensaje": "🔷Se normaliza el circuito 1790 que se encontraba afectado por disparo por DAF 🔷",
-    "timestamp": 1781115457,
-    "timestamp_local": 1781115457
   }
 ]

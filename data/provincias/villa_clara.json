@@ -1,5 +1,29 @@
 [
   {
+    "id": 48192,
+    "fecha": "10 de Jun del 2026 a las 10:01 PM",
+    "hora_utc": "2026-06-11 02:01",
+    "mensaje": "Actualización del servicio eléctrico en la provincia.\n👉En este momento la afectación por déficit de capacidad de generación es de 143 MW, la demanda máxima posible a apagar en estos momentos.\n👉De los circuitos apagables se mantienen afectados 147.\n👉Cuenta con 223 afectaciones por averías secundarias de servicio.",
+    "timestamp": 1781143317,
+    "timestamp_local": 1781143317
+  },
+  {
+    "id": 48190,
+    "fecha": "10 de Jun del 2026 a las 08:06 PM",
+    "hora_utc": "2026-06-11 00:06",
+    "mensaje": "Actualización del servicio eléctrico en la provincia.\n👉En este momento la afectación por déficit de capacidad de generación es de 145 MW, la demanda máxima posible a apagar en estos momentos.\n👉De los circuitos apagables se mantienen afectados 147.\n👉Cuenta con 210 afectaciones por averías secundarias de servicio.",
+    "timestamp": 1781136407,
+    "timestamp_local": 1781136407
+  },
+  {
+    "id": 48189,
+    "fecha": "10 de Jun del 2026 a las 07:52 PM",
+    "hora_utc": "2026-06-10 23:52",
+    "mensaje": "🛠Afectada por vía libre la Línea 1920 para cambio de Drop out en la sub estación.\n➡️Línea 1920\n🔹Municipio Placetas:\n👉Ctos 101 y 145 Cumbre\n👉Cto 107 Baez\n👉Cto 105 Nazareno",
+    "timestamp": 1781135533,
+    "timestamp_local": 1781135533
+  },
+  {
     "id": 48188,
     "fecha": "10 de Jun del 2026 a las 06:08 PM",
     "hora_utc": "2026-06-10 22:08",
@@ -102,37 +126,5 @@
     "mensaje": "⚠Afectado el servicio eléctrico en los siguientes circuitos:\n🔹Municipio Santa Clara:\n👉Cto 5 Dobarganes\n👉Cto 17 Subplanta",
     "timestamp": 1781116885,
     "timestamp_local": 1781116885
-  },
-  {
-    "id": 48172,
-    "fecha": "10 de Jun del 2026 a las 02:40 PM",
-    "hora_utc": "2026-06-10 18:40",
-    "mensaje": "⚠Afectado el servicio eléctrico en los siguientes circuitos:\n🔹Municipio Santa Clara: \n👉Cto 167 Virginia\n👉Cto 170 José Martí\n👉Cto 144 Camacho",
-    "timestamp": 1781116848,
-    "timestamp_local": 1781116848
-  },
-  {
-    "id": 48171,
-    "fecha": "10 de Jun del 2026 a las 02:37 PM",
-    "hora_utc": "2026-06-10 18:37",
-    "mensaje": "⚠Afectado el servicio eléctrico en el siguiente circuito:\n🔹Municipio Santa Clara\n👉Cto 6 Vigía",
-    "timestamp": 1781116660,
-    "timestamp_local": 1781116660
-  },
-  {
-    "id": 48170,
-    "fecha": "10 de Jun del 2026 a las 02:28 PM",
-    "hora_utc": "2026-06-10 18:28",
-    "mensaje": "⚠Afectado el servicio eléctrico en el siguiente circuito:\n🔹Municipio Santa Clara\n👉Cto 31 Sakenaf",
-    "timestamp": 1781116082,
-    "timestamp_local": 1781116082
-  },
-  {
-    "id": 48169,
-    "fecha": "10 de Jun del 2026 a las 02:10 PM",
-    "hora_utc": "2026-06-10 18:10",
-    "mensaje": "Actualización del servicio eléctrico en la provincia.\n👉En este momento la afectación por déficit de capacidad de generación es de 126 MW, la demanda máxima posible a apagar en estos momentos.\n👉De los circuitos apagables se mantienen afectados 147.\n👉Cuenta con 262 afectaciones por averías secundarias de servicio.",
-    "timestamp": 1781115022,
-    "timestamp_local": 1781115022
   }
 ]
