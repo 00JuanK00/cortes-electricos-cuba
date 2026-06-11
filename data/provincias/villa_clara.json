@@ -1,5 +1,93 @@
 [
   {
+    "id": 48271,
+    "fecha": "11 de Jun del 2026 a las 04:55 PM",
+    "hora_utc": "2026-06-11 20:55",
+    "mensaje": "⚠Afectado el servicio eléctrico en el siguiente circuito:\n🔹Municipio Santa Clara\n👉Cto 3 Consejo-Centro",
+    "timestamp": 1781211343,
+    "timestamp_local": 1781211343
+  },
+  {
+    "id": 48270,
+    "fecha": "11 de Jun del 2026 a las 04:45 PM",
+    "hora_utc": "2026-06-11 20:45",
+    "mensaje": "⚠Afectado el servicio eléctrico en los siguientes circuitos:\n🔹Municipio Santa Clara:\n👉Cto 5 Dobarganes\n👉Cto 17 Subplanta\n👉Ctos 37 y 38 Yabú \n👉Cto 9 Moldes y Troqueles\n👉Cto 133 Taller Cafetera",
+    "timestamp": 1781210743,
+    "timestamp_local": 1781210743
+  },
+  {
+    "id": 48269,
+    "fecha": "11 de Jun del 2026 a las 04:44 PM",
+    "hora_utc": "2026-06-11 20:44",
+    "mensaje": "⚠Afectado el servicio eléctrico en los siguientes circuitos:\n🔹Municipio Santa Clara\n👉Cto 39 Sandino \n👉Cto 34 Sabana Rebacadero",
+    "timestamp": 1781210643,
+    "timestamp_local": 1781210643
+  },
+  {
+    "id": 48268,
+    "fecha": "11 de Jun del 2026 a las 04:15 PM",
+    "hora_utc": "2026-06-11 20:15",
+    "mensaje": "Actualización del servicio eléctrico en la provincia.\n👉En este momento la afectación por déficit de capacidad de generación es de 126 MW, la demanda máxima posible a apagar en estos momentos.\n👉De los circuitos apagables se mantienen afectados 142.\n👉Cuenta con 313 afectaciones por averías secundarias de servicio.",
+    "timestamp": 1781208913,
+    "timestamp_local": 1781208913
+  },
+  {
+    "id": 48267,
+    "fecha": "11 de Jun del 2026 a las 04:08 PM",
+    "hora_utc": "2026-06-11 20:08",
+    "mensaje": "⚠Afectado el servicio eléctrico en los siguientes circuitos:\n🔹Municipio Santa Clara\n👉Cto 7 Universidad \n👉Cto 24 Planta de Asfalto \n👉Cto 146 Elevado Aeropuerto \n👉Cto 131 Las Antillas \n👉Cto 153 EIDE \n👉Cto 25 Los Güiros\n👉Cto 35 Biotecnología\n👉Cto 22 Contrucciones Textil",
+    "timestamp": 1781208498,
+    "timestamp_local": 1781208498
+  },
+  {
+    "id": 48266,
+    "fecha": "11 de Jun del 2026 a las 03:54 PM",
+    "hora_utc": "2026-06-11 19:54",
+    "mensaje": "⚠Afectado el servicio eléctrico en el siguiente circuito:\n🔹Municipio Santa Clara:\n👉Cto 170 José Martí",
+    "timestamp": 1781207677,
+    "timestamp_local": 1781207677
+  },
+  {
+    "id": 48265,
+    "fecha": "11 de Jun del 2026 a las 03:53 PM",
+    "hora_utc": "2026-06-11 19:53",
+    "mensaje": "💡Con servicio eléctrico el siguiente circuito:\n🔹Municipio Santa Clara:\n👉Cto 169 Condado",
+    "timestamp": 1781207634,
+    "timestamp_local": 1781207634
+  },
+  {
+    "id": 48264,
+    "fecha": "11 de Jun del 2026 a las 03:30 PM",
+    "hora_utc": "2026-06-11 19:30",
+    "mensaje": "💡Con servicio eléctrico los siguientes circuitos:\n🔹Municipio Remedios:\n👉Ctos 69 y 70 Zuluetas\n👉Cto 143 Batey Heriberto Duquezne \n👉Cto 71 Buena Vista\n🔹Municipio Caibarién\n👉Ctos 182 y 183 Van Troy",
+    "timestamp": 1781206210,
+    "timestamp_local": 1781206210
+  },
+  {
+    "id": 48263,
+    "fecha": "11 de Jun del 2026 a las 02:43 PM",
+    "hora_utc": "2026-06-11 18:43",
+    "mensaje": "⚠Afectado el servicio eléctrico en los siguientes circuitos:\n🔹Municipio Manicaragua:\n👉Ctos 108 y 110 La Piedra",
+    "timestamp": 1781203425,
+    "timestamp_local": 1781203425
+  },
+  {
+    "id": 48262,
+    "fecha": "11 de Jun del 2026 a las 02:43 PM",
+    "hora_utc": "2026-06-11 18:43",
+    "mensaje": "💡Con servicio eléctrico los siguientes circuitos:\n🔹Municipio Manicaragua:\n👉Ctos 109 y 150",
+    "timestamp": 1781203381,
+    "timestamp_local": 1781203381
+  },
+  {
+    "id": 48261,
+    "fecha": "11 de Jun del 2026 a las 02:40 PM",
+    "hora_utc": "2026-06-11 18:40",
+    "mensaje": "💡Con servicio eléctrico los siguientes circuitos:\n🔹Municipio Santa Clara:\n👉Cto 5 Dobarganes\n👉Cto 17 Subplanta\n👉Ctos 37 y 38 Yabú \n👉Cto 9 Moldes y Troqueles\n👉Cto 133 Taller Cafetera",
+    "timestamp": 1781203205,
+    "timestamp_local": 1781203205
+  },
+  {
     "id": 48260,
     "fecha": "11 de Jun del 2026 a las 02:31 PM",
     "hora_utc": "2026-06-11 18:31",
@@ -70,93 +158,5 @@
     "mensaje": "Afectado por manipulación los circuitos 30 y 193 Santa Clara Industrial para reponer transformador.",
     "timestamp": 1781200554,
     "timestamp_local": 1781200554
-  },
-  {
-    "id": 48251,
-    "fecha": "11 de Jun del 2026 a las 01:55 PM",
-    "hora_utc": "2026-06-11 17:55",
-    "mensaje": "⚠Afectado el servicio eléctrico en los siguientes circuitos:\n🔹Municipio Sagua:\n👉Cto 44 Isabela\n👉Ctos 50 y 147 Villa Alegre",
-    "timestamp": 1781200503,
-    "timestamp_local": 1781200503
-  },
-  {
-    "id": 48250,
-    "fecha": "11 de Jun del 2026 a las 01:51 PM",
-    "hora_utc": "2026-06-11 17:51",
-    "mensaje": "⚠Afectado el servicio eléctrico en los siguientes circuitos:\n🔹Municipio Caibarién\n👉Ctos 63 y 64\n👉Cto 65 Dolores",
-    "timestamp": 1781200262,
-    "timestamp_local": 1781200262
-  },
-  {
-    "id": 48249,
-    "fecha": "11 de Jun del 2026 a las 01:40 PM",
-    "hora_utc": "2026-06-11 17:40",
-    "mensaje": "🛠Brigada eléctrica de nuestra empresa comienza las acciones en el circuito 132 Santa Clara Industrial para reparar cable primario partido y restablecer el servicio en el menor tiempo posible.",
-    "timestamp": 1781199630,
-    "timestamp_local": 1781199630
-  },
-  {
-    "id": 48248,
-    "fecha": "11 de Jun del 2026 a las 01:36 PM",
-    "hora_utc": "2026-06-11 17:36",
-    "mensaje": "Con servicio los circuitos 30 y 193 Santa Clara Industrial.",
-    "timestamp": 1781199400,
-    "timestamp_local": 1781199400
-  },
-  {
-    "id": 48247,
-    "fecha": "11 de Jun del 2026 a las 01:32 PM",
-    "hora_utc": "2026-06-11 17:32",
-    "mensaje": "⚠Afectado el servicio eléctrico en los siguientes circuitos:\n🔹Municipio Quemado:\n👉 Ctos 164 y 53 Quemado\n👉 Cto 196 Batey Panchito Gómez Toro",
-    "timestamp": 1781199151,
-    "timestamp_local": 1781199151
-  },
-  {
-    "id": 48246,
-    "fecha": "11 de Jun del 2026 a las 01:31 PM",
-    "hora_utc": "2026-06-11 17:31",
-    "mensaje": "Restablecido el servicio en los siguientes circuitos:\n🔹Municipio Quemado:\n👉Cto 52\n👉 Ctos 47 y 49 Caguagua\n👉 Ctos 45 y 197 Jumagua",
-    "timestamp": 1781199101,
-    "timestamp_local": 1781199101
-  },
-  {
-    "id": 48245,
-    "fecha": "11 de Jun del 2026 a las 01:26 PM",
-    "hora_utc": "2026-06-11 17:26",
-    "mensaje": "🛠Afectado el circuito 30 y 193 Santa Clara Industrial, para reparar parrilla de transformador.",
-    "timestamp": 1781198802,
-    "timestamp_local": 1781198802
-  },
-  {
-    "id": 48244,
-    "fecha": "11 de Jun del 2026 a las 01:25 PM",
-    "hora_utc": "2026-06-11 17:25",
-    "mensaje": "💡Con servicio eléctrico el siguiente circuito:\n🔹Municipio Santa Clara:\n👉Cto 167 Virginia",
-    "timestamp": 1781198708,
-    "timestamp_local": 1781198708
-  },
-  {
-    "id": 48243,
-    "fecha": "11 de Jun del 2026 a las 01:24 PM",
-    "hora_utc": "2026-06-11 17:24",
-    "mensaje": "⚠Afectado el servicio eléctrico en el siguiente circuito:\n🔹Municipio Santa Clara:\n👉Cto 169 Condado",
-    "timestamp": 1781198640,
-    "timestamp_local": 1781198640
-  },
-  {
-    "id": 48242,
-    "fecha": "11 de Jun del 2026 a las 01:21 PM",
-    "hora_utc": "2026-06-11 17:21",
-    "mensaje": "⚠Afectado el servicio eléctrico en los siguientes circuitos:\n🔹Municipio Santa Clara:\n👉Cto 6 Vigía\n👉Cto 34 Sabana Rebacadero\n👉Cto 39 Sandino",
-    "timestamp": 1781198464,
-    "timestamp_local": 1781198464
-  },
-  {
-    "id": 48241,
-    "fecha": "11 de Jun del 2026 a las 01:05 PM",
-    "hora_utc": "2026-06-11 17:05",
-    "mensaje": "Afectados 129 MW en la provincia, demanda máxima a apagar en estos momentos.",
-    "timestamp": 1781197520,
-    "timestamp_local": 1781197520
   }
 ]

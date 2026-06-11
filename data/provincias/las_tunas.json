@@ -1,5 +1,21 @@
 [
   {
+    "id": 19541,
+    "fecha": "11 de Jun del 2026 a las 03:21 PM",
+    "hora_utc": "2026-06-11 19:21",
+    "mensaje": "Qué es un disparo por DAF?\nEl Disparo por Frecuencia (DAF) es un mecanismo de protección del sistema eléctrico. Se activa automáticamente cuando la frecuencia desciende por debajo de los valores mínimos seguros (menores de 60 Hz), lo que pone en riesgo la estabilidad del sistema.\nEn ese momento, algunos circuitos se desconectan de forma automática para aliviar la carga y permitir que la frecuencia vuelva a su valor nominal.\nEsto suele ocurrir cuando una planta generadora sale de servicio de manera imprevista, provocando un déficit de generación. El DAF ayuda a evitar un colapso mayor del sistema, aunque puede generar afectaciones al servicio como apagones parciales.",
+    "timestamp": 1781205666,
+    "timestamp_local": 1781205666
+  },
+  {
+    "id": 19540,
+    "fecha": "11 de Jun del 2026 a las 03:19 PM",
+    "hora_utc": "2026-06-11 19:19",
+    "mensaje": "Se les informa a losclientes de los siguientes circuitos que se encuentran afectados por disparoautomático por frecuencia (DAF)TK\n 24",
+    "timestamp": 1781205548,
+    "timestamp_local": 1781205548
+  },
+  {
     "id": 19539,
     "fecha": "11 de Jun del 2026 a las 02:32 PM",
     "hora_utc": "2026-06-11 18:32",
@@ -102,21 +118,5 @@
     "mensaje": "📣🚨Informamos a nuestros clientes que en este momento nos encontramos en la máxima capacidad apagable, lo que impide el restablecimiento inmediato del servicio eléctrico en los circuitos afectados. La situación podrá mejorar en la medida en que el Sistema Electroenergético Nacional permita recuperar la capacidad de generación.Ofrecemos disculpas por las molestas ocasionadas.",
     "timestamp": 1781089663,
     "timestamp_local": 1781089663
-  },
-  {
-    "id": 19520,
-    "fecha": "10 de Jun del 2026 a las 06:53 AM",
-    "hora_utc": "2026-06-10 10:53",
-    "mensaje": "Reiteramos a los clientes del  circuito TK 10 El Cornito , La Caldosa que aún se encuentran afectados por avería.",
-    "timestamp": 1781088801,
-    "timestamp_local": 1781088801
-  },
-  {
-    "id": 19518,
-    "fecha": "10 de Jun del 2026 a las 05:54 AM",
-    "hora_utc": "2026-06-10 09:54",
-    "mensaje": "📣**Nota a los Clientes** 📣\n\nEstimados clientes, en días de muchas afectaciones al servicio eléctrico, el centro de atención telefónica ☎️ colapsa por la cantidad de llamadas📞que se reciben al mismo tiempo 🕰para solicitar información o reportar una interrupción.\n\n👉Cuando esto sucede da timbre y no sale la contestadora porque la línea se encuentra ocupada.\n\n👉La pizarra es un sistema automático que no permite a la ejecutiva no responder las llamadas o colgar, mientras la línea esté ocupada no entran las llamadas.\n\n**👉Este sistema automatizado además de brindar toda la información estadística utilizada por nuestras operadoras, permite grabar todas las llamadas que se reciben en el 1️⃣8️⃣8️⃣8️⃣8️⃣.**",
-    "timestamp": 1781085262,
-    "timestamp_local": 1781085262
   }
 ]
