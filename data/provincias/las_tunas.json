@@ -1,5 +1,21 @@
 [
   {
+    "id": 19535,
+    "fecha": "11 de Jun del 2026 a las 07:57 AM",
+    "hora_utc": "2026-06-11 11:57",
+    "mensaje": "**Nota Informativa: Estado del Sistema Eléctrico Nacional (SEN) – 11 de junio de 2026**\nEn el día de ayer se afectó el servicio por déficit de capacidad durante las 24 horas y se mantuvo la afectación durante todo el horario de la madrugada. La máxima afectación por déficit de capacidad de generación en el día de ayer fue de 2080 MW a las 20:00 horas.\nLa producción de energía de los 54 nuevos parques solares fotovoltaicos fue de 2360 MWh, con 386 MW como máxima potencia entregada en el horario de la media con esta fuente de generación.\n**Estado actual del SEN**\nLa disponibilidad del SEN a las 06:00 horas es de 980 MW, la demanda 2500 MW con 1522 MW afectados. En el horario de la media se estima una afectación de 1650 MW.\n**Principales incidencias**\nAvería: Unidad de la CTE Antonio Guiteras, Unidad 6 de la CTE Máximo Gómez, Unidades 1, 2 y 3 de la CTE Ernesto Guevara De La Serna, Unidad 2 de la CTE Lidio Ramón Pérez.\nMantenimiento: Unidad 5 de la CTE Mariel, Unidades 5 y 6 de la CTE Renté, Unidad 5 de la CTE Nuevitas.\nLimitaciones en la generación térmica: 277 MW fuera de servicio.\nFuera de servicio 106 centrales de generación distribuida por falta de combustible, con 890 MW.\nFuera de servicio la Patana de Regla, Patana de Melones, Central Fuel de Mariel, Central Fuel de Moa.\nTotal de MW indisponibles por combustible: 1203\n**Pronóstico para el horario pico**\nSe prevé para el horario pico la entrada de la unidad de la CTE Guiteras con 100 MW y la unidad 3 de la CTE Energás Varadero con 30 MW.\nCon este pronóstico se estima una disponibilidad de 1110 MW con una demanda máxima de 3000 MW, para un déficit de 1890 MW, por lo que de mantenerse las condiciones previstas se pronostica una afectación de 1920 MW en este horario.",
+    "timestamp": 1781179058,
+    "timestamp_local": 1781179058
+  },
+  {
+    "id": 19532,
+    "fecha": "11 de Jun del 2026 a las 06:54 AM",
+    "hora_utc": "2026-06-11 10:54",
+    "mensaje": "Queda solucionada la avería del TK24 y TK27",
+    "timestamp": 1781175279,
+    "timestamp_local": 1781175279
+  },
+  {
     "id": 19529,
     "fecha": "10 de Jun del 2026 a las 06:41 PM",
     "hora_utc": "2026-06-10 22:41",
@@ -86,29 +102,5 @@
     "mensaje": "💡Se restablece el servicio eléctrico al circuito TK1 Edificios de Buena Vista que se encontraban afectados por avería.",
     "timestamp": 1781057648,
     "timestamp_local": 1781057648
-  },
-  {
-    "id": 19513,
-    "fecha": "09 de Jun del 2026 a las 09:35 PM",
-    "hora_utc": "2026-06-10 01:35",
-    "mensaje": "📌 Estimados clientes 📌\n〽️El Sistema Electroenergético Nacional (SEN) tiene varios regímenes de operación, esto es fundamentalmente porque las cargas de los circuitos son variables, con sus características específicas y sus actividades propias, tanto estatales como de los demás sectores de la sociedad. 💡Durante el día se le llama “media”, al pico “máxima” y en la madrugada “mínima”. \n📊El déficit de capacidad de generación (apagón) puede variar sus cifras: los mayores valores son en el pico, los menores en la madrugada y en el día se comportan entre el máximo y el mínimo.\n✅Como resultado, con una cantidad de circuitos afectados, puede modificarse el déficit, con los mismos circuitos sin servicio eléctrico.",
-    "timestamp": 1781055327,
-    "timestamp_local": 1781055327
-  },
-  {
-    "id": 19512,
-    "fecha": "09 de Jun del 2026 a las 08:43 PM",
-    "hora_utc": "2026-06-10 00:43",
-    "mensaje": "🛠🚨Se declara en avería el TK1 Edificios de Buena  Vista",
-    "timestamp": 1781052225,
-    "timestamp_local": 1781052225
-  },
-  {
-    "id": 19511,
-    "fecha": "09 de Jun del 2026 a las 08:04 PM",
-    "hora_utc": "2026-06-10 00:04",
-    "mensaje": "🛠🚨Se declara en avería Circuito 33 Kv: 6470-6300🚨**\n**TK13 Yariguá\nTJ11 Bartle\nTK91 Macagua\nTK87 Pueblo Jobabo\nTK90 Escuela Especial Jobabo\n6470 Mina de Oro, Las Margaritas",
-    "timestamp": 1781049843,
-    "timestamp_local": 1781049843
   }
 ]
