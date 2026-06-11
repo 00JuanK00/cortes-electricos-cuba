@@ -1,9 +1,33 @@
 [
   {
+    "id": 54641,
+    "fecha": "11 de Jun del 2026 a las 06:41 PM",
+    "hora_utc": "2026-06-11 22:41",
+    "mensaje": "🔊Estimados clientes se les informa que se incorpora a la afectación el circuito 1.",
+    "timestamp": 1781217686,
+    "timestamp_local": 1781217686
+  },
+  {
+    "id": 54640,
+    "fecha": "11 de Jun del 2026 a las 06:38 PM",
+    "hora_utc": "2026-06-11 22:38",
+    "mensaje": "🔊Se les informa a los clientes que debido a una falla en la Subestación  Santiago Oeste se afectaron los circuitos 22 , 23 , 24 , 25  y 26 . Disculpen por las molestias ocasionadas .",
+    "timestamp": 1781217522,
+    "timestamp_local": 1781217522
+  },
+  {
+    "id": 54639,
+    "fecha": "11 de Jun del 2026 a las 05:31 PM",
+    "hora_utc": "2026-06-11 21:31",
+    "mensaje": "🔊Estimados clientes se les informa que se incorpora a la afectación la línea 4395 seccionalizado de Contramaestre.",
+    "timestamp": 1781213518,
+    "timestamp_local": 1781213518
+  },
+  {
     "id": 54638,
     "fecha": "11 de Jun del 2026 a las 05:05 PM",
     "hora_utc": "2026-06-11 21:05",
-    "mensaje": "🔊Estimados clientes se les informa que se incorporan a la afectación los circuitos , el 9 seccionalizado , 2 de Palma , 24 , 11 , 5335 Guamá , la línea 5330 El Cristo  y el circuito 22.",
+    "mensaje": "🔊Estimados clientes se les informa que se incorporan a la afectación los circuitos , 9 seccionalizado , 2 de Palma , 24 , 11 , las líneas 5335 Guamá , 5330 El Cristo  y el circuito 22.",
     "timestamp": 1781211902,
     "timestamp_local": 1781211902
   },
@@ -102,29 +126,5 @@
     "mensaje": "🔴Estimados clientes, se les reitera que el comportamiento de las afectaciones eléctricas y el restablecimiento del servicio, estará en dependencia de la situación que presente el Sistema Electroenergético Nacional.",
     "timestamp": 1781169063,
     "timestamp_local": 1781169063
-  },
-  {
-    "id": 54621,
-    "fecha": "11 de Jun del 2026 a las 03:18 AM",
-    "hora_utc": "2026-06-11 07:18",
-    "mensaje": "🔴Estimados clientes, se les reitera que el comportamiento de las afectaciones eléctricas y el restablecimiento del servicio, estará en dependencia de la situación que presente el Sistema Electroenergético Nacional.",
-    "timestamp": 1781162281,
-    "timestamp_local": 1781162281
-  },
-  {
-    "id": 54620,
-    "fecha": "11 de Jun del 2026 a las 03:03 AM",
-    "hora_utc": "2026-06-11 07:03",
-    "mensaje": "🔴Estimados clientes se les informa que se encuentra afectado por Déficit la LI 5390-La Maya.",
-    "timestamp": 1781161429,
-    "timestamp_local": 1781161429
-  },
-  {
-    "id": 54619,
-    "fecha": "11 de Jun del 2026 a las 02:55 AM",
-    "hora_utc": "2026-06-11 06:55",
-    "mensaje": "🚨Déficit de Capacidad de Generación:  \nSe produce cuando la demanda del Sistema Eléctrico Nacional, en determinado horario del día supera la generación disponible del país, provocando la desconexión de los circuitos o líneas que permitan garantizar la frecuencia del SEN.",
-    "timestamp": 1781160935,
-    "timestamp_local": 1781160935
   }
 ]
