@@ -1,5 +1,37 @@
 [
   {
+    "id": 54674,
+    "fecha": "12 de Jun del 2026 a las 11:22 AM",
+    "hora_utc": "2026-06-12 15:22",
+    "mensaje": "🔴Estimados clientes en estos momentos se encuentran afectados por Déficit los circuitos 1 y 2 de Contramaestre .",
+    "timestamp": 1781277772,
+    "timestamp_local": 1781277772
+  },
+  {
+    "id": 54673,
+    "fecha": "12 de Jun del 2026 a las 11:20 AM",
+    "hora_utc": "2026-06-12 15:20",
+    "mensaje": "🔴Estimados clientes estos momentos se encuentran afectados por Déficit los circuitos 21, 1 de palma, 13, 26 y LI 4385-Contramaestre.",
+    "timestamp": 1781277623,
+    "timestamp_local": 1781277623
+  },
+  {
+    "id": 54671,
+    "fecha": "12 de Jun del 2026 a las 10:07 AM",
+    "hora_utc": "2026-06-12 14:07",
+    "mensaje": "🔴Déficit de Capacidad de Generación:  \nSe produce cuando la demanda del Sistema Eléctrico Nacional, en determinado horario del día supera la generación disponible del país, provocando la desconexión de los circuitos o líneas que permitan garantizar la frecuencia del SEN.",
+    "timestamp": 1781273241,
+    "timestamp_local": 1781273241
+  },
+  {
+    "id": 54670,
+    "fecha": "12 de Jun del 2026 a las 10:03 AM",
+    "hora_utc": "2026-06-12 14:03",
+    "mensaje": "🔊Estimados clientes en estos momentos se incorpora a la afectación por Déficit el circuito 21 .",
+    "timestamp": 1781272985,
+    "timestamp_local": 1781272985
+  },
+  {
     "id": 54668,
     "fecha": "12 de Jun del 2026 a las 09:02 AM",
     "hora_utc": "2026-06-12 13:02",
@@ -78,45 +110,5 @@
     "mensaje": "🔊Estimados clientes se les informa que se encuentra en Manipulación el circuito 16. Disculpen las molestias ocasionadas.",
     "timestamp": 1781235239,
     "timestamp_local": 1781235239
-  },
-  {
-    "id": 54654,
-    "fecha": "11 de Jun del 2026 a las 11:07 PM",
-    "hora_utc": "2026-06-12 03:07",
-    "mensaje": "🔊Estimados clientes se les informa que se incorpora a la afectación el circuito 26.",
-    "timestamp": 1781233642,
-    "timestamp_local": 1781233642
-  },
-  {
-    "id": 54652,
-    "fecha": "11 de Jun del 2026 a las 10:29 PM",
-    "hora_utc": "2026-06-12 02:29",
-    "mensaje": "🔊Estimados clientes se les informa que se encuentra en Disparo Automático de Frecuencia (DAF) , el circuito 12 . Disculpen por las molestias ocasionadas .",
-    "timestamp": 1781231389,
-    "timestamp_local": 1781231389
-  },
-  {
-    "id": 54651,
-    "fecha": "11 de Jun del 2026 a las 09:43 PM",
-    "hora_utc": "2026-06-12 01:43",
-    "mensaje": "🔊Estimados clientes se les informa que se incorpora a la afectación el circuito 1 de Palma.",
-    "timestamp": 1781228598,
-    "timestamp_local": 1781228598
-  },
-  {
-    "id": 54650,
-    "fecha": "11 de Jun del 2026 a las 09:40 PM",
-    "hora_utc": "2026-06-12 01:40",
-    "mensaje": "🔊Estimados clientes se les informa que se incorporan a la afectación los circuitos 1 y 2 de Contramaestre.",
-    "timestamp": 1781228428,
-    "timestamp_local": 1781228428
-  },
-  {
-    "id": 54649,
-    "fecha": "11 de Jun del 2026 a las 09:38 PM",
-    "hora_utc": "2026-06-12 01:38",
-    "mensaje": "🔊Estimados clientes se les informa que se incorpora a la afectación el circuito 13.",
-    "timestamp": 1781228335,
-    "timestamp_local": 1781228335
   }
 ]
