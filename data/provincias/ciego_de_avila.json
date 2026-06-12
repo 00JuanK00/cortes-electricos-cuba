@@ -1,5 +1,13 @@
 [
   {
+    "id": 38792,
+    "fecha": "11 de Jun del 2026 a las 09:00 PM",
+    "hora_utc": "2026-06-12 01:00",
+    "mensaje": "‼️ Información del déficit de generación ‼️   \n👉Tenemos 90 MW en la provincia afectados por déficit de generación.\n⏰ Con este déficit, la carga a apagar en la provincia no nos permite realizar una rotación estable de los circuitos, por lo que se afectarán o se restablecerán en dependencia del déficit que haya en cada momento de la jornada, que es muy variable.",
+    "timestamp": 1781226027,
+    "timestamp_local": 1781226027
+  },
+  {
     "id": 38791,
     "fecha": "11 de Jun del 2026 a las 06:25 PM",
     "hora_utc": "2026-06-11 22:25",
@@ -142,13 +150,5 @@
     "mensaje": "✅ Se encuentra sin servicio eléctrico el circuito Patria. \n👉Se recorren las líneas para encontrar la causa. \n👉Si usted observa corto circuito en las redes o alguna irregularidad, por favor comuníquelo a través del ☎️18888.",
     "timestamp": 1781118974,
     "timestamp_local": 1781118974
-  },
-  {
-    "id": 38772,
-    "fecha": "10 de Jun del 2026 a las 02:49 PM",
-    "hora_utc": "2026-06-10 18:49",
-    "mensaje": "📌 Estimados Clientes 📌\n\n¿Por qué se puede estar manipulando un circuito?\nSe manipulan los circuitos para garantizar los trabajos de mantenimientos en vías libres, o sea con la línea fría. Ante averías, se aísla la zona de la misma y se manipula para dar servicio al resto del circuito que no está dentro del radio de la avería antes mencionada. También ante desviaciones de parámetros en subestaciones o algún punto de las redes, con manipulaciones se pueden corregir y mantener la estabilidad del sistema.\n *Grupo de Comunicación Institucional.",
-    "timestamp": 1781117355,
-    "timestamp_local": 1781117355
   }
 ]
