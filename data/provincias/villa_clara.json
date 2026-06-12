@@ -1,5 +1,45 @@
 [
   {
+    "id": 48358,
+    "fecha": "12 de Jun del 2026 a las 06:06 PM",
+    "hora_utc": "2026-06-12 22:06",
+    "mensaje": "⚡Averías⚡\n➡ Cto 110 La Piedra, perteneciente al municipio Manicaragua afectado parcialmente. Se estudian las causas.(En estos momentos la línea se encuentra afectada por déficit de capacidad de generación)\n➡Cto 149 San Juan, perteneciente al municipio Ranchuelo, por cable primario partido.\n➡Disparo del Cto 111 Matagua perteneciente al municipio de Manicaragua , se estudian las causas.",
+    "timestamp": 1781301987,
+    "timestamp_local": 1781301987
+  },
+  {
+    "id": 48357,
+    "fecha": "12 de Jun del 2026 a las 06:05 PM",
+    "hora_utc": "2026-06-12 22:05",
+    "mensaje": "🕕Actualización del servicio eléctrico.\n✍️El déficit de capacidad de generación en estos momentos es de 141 MW.\n✍️En el momento de esta nota, se mantienen afectados 142 circuitos.\n✍️ Cuenta con 274 afectaciones por averías secundarias y de servicio:\n🔸 Caibarién (4)\n🔸 Camajuaní (5)\n🔸 Cifuentes (3)\n🔸 Corralillo (7)\n🔸 Encrucijada (3)\n🔸 Manicaragua (15)\n🔸 Placetas (9)\n🔸 Ranchuelo (38)\n🔸 Remedios (16) \n🔸 Sagua (7) \n🔸 Santa Clara (141)\n🔸 Santo Domingo (26)\n🛠️Se encuentra 1 avería en vías de solución.\n🛠️Pendientes a solucionar por el área técnica 18.\nLa provincia presenta 3 averías primarias.",
+    "timestamp": 1781301948,
+    "timestamp_local": 1781301948
+  },
+  {
+    "id": 48356,
+    "fecha": "12 de Jun del 2026 a las 05:34 PM",
+    "hora_utc": "2026-06-12 21:34",
+    "mensaje": "⚠Afectado el servicio eléctrico en el siguiente circuito:\n🔹Municipio Santa Clara:\n👉Cto 13 Zona Industrial",
+    "timestamp": 1781300048,
+    "timestamp_local": 1781300048
+  },
+  {
+    "id": 48355,
+    "fecha": "12 de Jun del 2026 a las 05:23 PM",
+    "hora_utc": "2026-06-12 21:23",
+    "mensaje": "Afectados 130 MW en la provincia, demanda máxima a apagar en estos momentos.",
+    "timestamp": 1781299430,
+    "timestamp_local": 1781299430
+  },
+  {
+    "id": 48354,
+    "fecha": "12 de Jun del 2026 a las 05:00 PM",
+    "hora_utc": "2026-06-12 21:00",
+    "mensaje": "💡Con servicio eléctrico el siguiente circuito:\n🔹Municipio Santa Clara: \n👉Cto 166 Condado",
+    "timestamp": 1781298021,
+    "timestamp_local": 1781298021
+  },
+  {
     "id": 48353,
     "fecha": "12 de Jun del 2026 a las 04:51 PM",
     "hora_utc": "2026-06-12 20:51",
@@ -110,45 +150,5 @@
     "mensaje": "Actualización del servicio eléctrico en la provincia.\n👉En este momento la afectación por déficit de capacidad de generación es de 119 MW, la demanda máxima posible a apagar en estos momentos.\n👉De los circuitos apagables se mantienen afectados 142.\n👉Cuenta con 287 afectaciones por averías secundarias de servicio.",
     "timestamp": 1781287408,
     "timestamp_local": 1781287408
-  },
-  {
-    "id": 48338,
-    "fecha": "12 de Jun del 2026 a las 01:19 PM",
-    "hora_utc": "2026-06-12 17:19",
-    "mensaje": "💡Será restablecido el servicio eléctrico en los siguientes circuitos:\n🔹Municipio Santa Clara;\n👉Cto 6 Vigia\n👉Cto 39 Sandino",
-    "timestamp": 1781284768,
-    "timestamp_local": 1781284768
-  },
-  {
-    "id": 48337,
-    "fecha": "12 de Jun del 2026 a las 01:10 PM",
-    "hora_utc": "2026-06-12 17:10",
-    "mensaje": "⚠Afectado el servicio eléctrico en el siguiente circuito:\n🔹Municipio Santa Clara\n👉Cto 3 Consejo-Centro",
-    "timestamp": 1781284239,
-    "timestamp_local": 1781284239
-  },
-  {
-    "id": 48336,
-    "fecha": "12 de Jun del 2026 a las 01:09 PM",
-    "hora_utc": "2026-06-12 17:09",
-    "mensaje": "⚡Disparo del Cto 97 perteneciente al municipio de Ranchuelo, se estudian las causas",
-    "timestamp": 1781284171,
-    "timestamp_local": 1781284171
-  },
-  {
-    "id": 48335,
-    "fecha": "12 de Jun del 2026 a las 01:07 PM",
-    "hora_utc": "2026-06-12 17:07",
-    "mensaje": "Afectados 124 MW en la provincia, demanda máxima a apagar en estos momentos.",
-    "timestamp": 1781284066,
-    "timestamp_local": 1781284066
-  },
-  {
-    "id": 48334,
-    "fecha": "12 de Jun del 2026 a las 01:01 PM",
-    "hora_utc": "2026-06-12 17:01",
-    "mensaje": "🟢12:07 Horas. La CTE Antonio Guiteras, en línea con el SEN y subiendo carga.",
-    "timestamp": 1781283675,
-    "timestamp_local": 1781283675
   }
 ]
