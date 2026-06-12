@@ -1,5 +1,69 @@
 [
   {
+    "id": 48322,
+    "fecha": "12 de Jun del 2026 a las 09:32 AM",
+    "hora_utc": "2026-06-12 13:32",
+    "mensaje": "⚡En avería el Cto 149 San Juan, perteneciente al municipio Ranchuelo, por cable primario partido.",
+    "timestamp": 1781271125,
+    "timestamp_local": 1781271125
+  },
+  {
+    "id": 48321,
+    "fecha": "12 de Jun del 2026 a las 09:22 AM",
+    "hora_utc": "2026-06-12 13:22",
+    "mensaje": "⚠Afectado el servicio eléctrico en los siguientes circuitos:\n🔹Municipio Santa Clara\n👉Ctos 26 y 141 Manuelita\n👉Cto 191 Quemado de Hilario\n🔹Municipio Ranchuelo:\n👉Cto 92 Esperanza (Pueblo)\n👉Cto 93 Esperanza (Campo)",
+    "timestamp": 1781270570,
+    "timestamp_local": 1781270570
+  },
+  {
+    "id": 48320,
+    "fecha": "12 de Jun del 2026 a las 09:15 AM",
+    "hora_utc": "2026-06-12 13:15",
+    "mensaje": "⚠Afectado el servicio eléctrico en el siguiente circuito:\n🔹Municipio Santa Clara:\n👉Cto 169 Condado",
+    "timestamp": 1781270120,
+    "timestamp_local": 1781270120
+  },
+  {
+    "id": 48319,
+    "fecha": "12 de Jun del 2026 a las 09:09 AM",
+    "hora_utc": "2026-06-12 13:09",
+    "mensaje": "Afectados 117 MW en la provincia, demanda máxima a apagar en estos momentos.",
+    "timestamp": 1781269753,
+    "timestamp_local": 1781269753
+  },
+  {
+    "id": 48318,
+    "fecha": "12 de Jun del 2026 a las 09:07 AM",
+    "hora_utc": "2026-06-12 13:07",
+    "mensaje": "💡Con servicio eléctrico los siguientes circuitos:\n🔹Municipio Ranchuelo: \n👉Ctos 148 y 149 San Juan",
+    "timestamp": 1781269632,
+    "timestamp_local": 1781269632
+  },
+  {
+    "id": 48317,
+    "fecha": "12 de Jun del 2026 a las 08:04 AM",
+    "hora_utc": "2026-06-12 12:04",
+    "mensaje": "Actualización del servicio eléctrico en la provincia.\n👉En este momento la afectación por déficit de capacidad de generación es de 116 MW, la demanda máxima posible a apagar en estos momentos.\n👉De los circuitos apagables se mantienen afectados 142.\n👉Cuenta con 265 afectaciones por averías secundarias de servicio.",
+    "timestamp": 1781265889,
+    "timestamp_local": 1781265889
+  },
+  {
+    "id": 48316,
+    "fecha": "12 de Jun del 2026 a las 07:55 AM",
+    "hora_utc": "2026-06-12 11:55",
+    "mensaje": "🚨Nota informativa🚨\n\n📅Situación del SEN para el 12 de junio de 2026.\n\n👉En el día de ayer se afectó el servicio por déficit de capacidad durante las 24 horas y se mantuvo la afectación durante todo el horario de la madrugada. La máxima afectación por déficit de capacidad de generación en el día de ayer fue de 2027 MW a las 20:00 horas.\n\n☀️La producción de energía de los 54 nuevos parques solares fotovoltaicos fue de 3288 MWh, con 440 MW como máxima potencia entregada en el horario de la media con esta fuente de generación.  \n\n👉La disponibilidad del SEN a las 06:00 horas es de 1030 MW, la demanda 2590 MW con 1560 MW afectados. En el horario de la media se estima una afectación de 1550 MW.\n\n🛠️Se encuentran en avería la unidad 6 de la CTE Mariel, la unidad de la CTE Guiteras, las unidades 2 y 3 de la CTE Santa Cruz y la unidad 2 de la CTE Felton. Se encuentran en mantenimiento la unidad 5 de la CTE Mariel, la unidad 5 de la CTE Nuevitas y las unidades 5 y 6 de la CTE Renté. \n \n📈Las limitaciones en la generación térmica son de 337 MW.\n\n✏️Se prevé  para el horario pico la entrada de la unidad de la CTE Guiteras con 200 MW (en proceso de arranque) y la entrada de la unidad 2 de la CTE Santa Cruz con 80 MW.\n\n📝Con este pronóstico se estima una disponibilidad de 1310 MW con una demanda máxima de 3000 MW, para un déficit de 1690 MW, por lo que de mantenerse las condiciones previstas se pronostica una afectación de 1720 MW en este horario.\n\nUNE-MINEM---07:00 horas.",
+    "timestamp": 1781265358,
+    "timestamp_local": 1781265358
+  },
+  {
+    "id": 48315,
+    "fecha": "12 de Jun del 2026 a las 07:19 AM",
+    "hora_utc": "2026-06-12 11:19",
+    "mensaje": "⚠Afectado el servicio eléctrico en los siguientes circuitos:\n🔹Municipio Santa Clara:\n👉Cto 30 y 193 Santa Clara Industrial\n👉Cto 132 Santa Clara Industrial\n👉Cto 162 Santa Clara Industrial\n👉Cto 5 Dobarganes\n👉Cto 17 Subplanta\n👉Ctos 37 y 38 Yabú \n👉Cto 9 Moldes y Troqueles\n👉Cto 133 Taller Cafetera\n👉Cto 144 Camacho",
+    "timestamp": 1781263151,
+    "timestamp_local": 1781263151
+  },
+  {
     "id": 48314,
     "fecha": "12 de Jun del 2026 a las 06:24 AM",
     "hora_utc": "2026-06-12 10:24",
@@ -86,69 +150,5 @@
     "mensaje": "⚠Afectado el servicio eléctrico en el siguiente circuito:\n🔹Municipio Placetas:\n👉Cto 99",
     "timestamp": 1781240057,
     "timestamp_local": 1781240057
-  },
-  {
-    "id": 48302,
-    "fecha": "12 de Jun del 2026 a las 12:53 AM",
-    "hora_utc": "2026-06-12 04:53",
-    "mensaje": "⚠Afectado el servicio eléctrico en los siguientes circuitos:\n🔹Municipio Cifuentes:\n👉Ctos 114 y 117\n👉Ctos 116 y 155 Mata\n👉Cto 186 Batey Unidad Proletaria\n👉Cto 184 Sitio Grande",
-    "timestamp": 1781240009,
-    "timestamp_local": 1781240009
-  },
-  {
-    "id": 48301,
-    "fecha": "12 de Jun del 2026 a las 12:07 AM",
-    "hora_utc": "2026-06-12 04:07",
-    "mensaje": "⚠Afectado el servicio eléctrico en los siguientes circuitos:\n🔹Municipio Santa Clara:\n👉Cto 14 y 27 Maleza",
-    "timestamp": 1781237221,
-    "timestamp_local": 1781237221
-  },
-  {
-    "id": 48300,
-    "fecha": "12 de Jun del 2026 a las 12:03 AM",
-    "hora_utc": "2026-06-12 04:03",
-    "mensaje": "🕕Actualización del servicio eléctrico.\n✍️El déficit de capacidad de generación en estos momentos es de 120 MW.\n✍️En el momento de esta nota, se mantienen afectados 142 circuitos.\n✍️ Cuenta con 304 afectaciones por averías secundarias y de servicio:\n🔸 Caibarién (8)\n🔸 Camajuaní (6)\n🔸 Cifuentes (3)\n🔸 Corralillo (7)\n🔸 Encrucijada (3)\n🔸 Manicaragua (28)\n🔸 Placetas (10)\n🔸 Ranchuelo (35)\n🔸 Remedios (15) \n🔸 Sagua (11) \n🔸 Santa Clara (136)\n🔸 Santo Domingo (25)\n🛠️Se encuentra 1 avería en vías de solución.\n🛠️Pendientes a solucionar por el área técnica 17.\nLa provincia presenta 2 averías primarias:\n⚡Averías⚡\n➡ Cto 110 La Piedra, perteneciente al municipio Manicaragua afectado parcialmente. Se estudian las causas.(En estos momentos la línea se encuentra afectada por déficit de capacidad de generación)\n➡ Cto 78 Jutiero del municipio Camajuaní afectado por cable primario partido.(En estos momentos la línea se encuentra afectada por déficit de capacidad de generación)",
-    "timestamp": 1781237038,
-    "timestamp_local": 1781237038
-  },
-  {
-    "id": 48299,
-    "fecha": "11 de Jun del 2026 a las 11:24 PM",
-    "hora_utc": "2026-06-12 03:24",
-    "mensaje": "⚠Afectado el servicio eléctrico en los siguientes circuitos:\n🔹Municipio Encrucijada:\n👉Cto 123 Vizcaya \n👉Cto 142 Comunidad La Sierra \n👉Cto 126 Batey Emilio Córdova\n👉Cto 125 Cavarrocas\n👉Cto 124 El Santo\n🔹Municipio Camajuaní:                                                              \n👉Cto 78 Jutiero\n👉Cto 75 La Quinta\n👉Cto 157 Luis Arcos Bergnes\n👉Ctos 76 y 90 Vega Alta",
-    "timestamp": 1781234668,
-    "timestamp_local": 1781234668
-  },
-  {
-    "id": 48298,
-    "fecha": "11 de Jun del 2026 a las 11:06 PM",
-    "hora_utc": "2026-06-12 03:06",
-    "mensaje": "⚠Afectado el servicio eléctrico en los siguientes circuitos:\n🔹Municipio Remedios:\n👉Ctos 68 y 118",
-    "timestamp": 1781233584,
-    "timestamp_local": 1781233584
-  },
-  {
-    "id": 48297,
-    "fecha": "11 de Jun del 2026 a las 10:34 PM",
-    "hora_utc": "2026-06-12 02:34",
-    "mensaje": "Actualización del servicio eléctrico en la provincia.\n👉En este momento la afectación por déficit de capacidad de generación es de 133 MW, la demanda máxima posible a apagar en estos momentos.\n👉De los circuitos apagables se mantienen afectados 142.\n👉Cuenta con 288 afectaciones por averías secundarias de servicio.",
-    "timestamp": 1781231673,
-    "timestamp_local": 1781231673
-  },
-  {
-    "id": 48296,
-    "fecha": "11 de Jun del 2026 a las 09:19 PM",
-    "hora_utc": "2026-06-12 01:19",
-    "mensaje": "⚠Afectado el servicio eléctrico en el siguiente circuito:\n🔹Municipio Santa Clara:\n👉Cto 166 Condado",
-    "timestamp": 1781227174,
-    "timestamp_local": 1781227174
-  },
-  {
-    "id": 48295,
-    "fecha": "11 de Jun del 2026 a las 09:13 PM",
-    "hora_utc": "2026-06-12 01:13",
-    "mensaje": "Con servicio el circuito 166 Condado, del municipio Santa Clara.",
-    "timestamp": 1781226785,
-    "timestamp_local": 1781226785
   }
 ]
