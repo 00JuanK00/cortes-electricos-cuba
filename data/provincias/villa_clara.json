@@ -1,5 +1,29 @@
 [
   {
+    "id": 48363,
+    "fecha": "12 de Jun del 2026 a las 08:02 PM",
+    "hora_utc": "2026-06-13 00:02",
+    "mensaje": "Actualización del servicio eléctrico en la provincia.\n👉En este momento la afectación por déficit de capacidad de generación es de 137 MW, la demanda máxima posible a apagar en estos momentos.\n👉De los circuitos apagables se mantienen afectados 142.\n👉Cuenta con 278 afectaciones por averías secundarias de servicio.",
+    "timestamp": 1781308967,
+    "timestamp_local": 1781308967
+  },
+  {
+    "id": 48361,
+    "fecha": "12 de Jun del 2026 a las 07:02 PM",
+    "hora_utc": "2026-06-12 23:02",
+    "mensaje": "Afectados 141 MW en la provincia, demanda máxima a apagar en estos momentos.",
+    "timestamp": 1781305355,
+    "timestamp_local": 1781305355
+  },
+  {
+    "id": 48360,
+    "fecha": "12 de Jun del 2026 a las 06:38 PM",
+    "hora_utc": "2026-06-12 22:38",
+    "mensaje": "✍️Ante cualquier duda conozca sobre la terminología eléctrica\n\n🔹Las averías pueden ser:\n     \n➡️Primarias: Afecta un volumen grande de población pues son las líneas de distribución a 13.8 kV y puede afectar varias manzanas, incluso repartos completos.\n\n➡️Secundarias: Afecta a todos los clientes que se alimenten del mismo transformador, puede afectar una o varias cuadras. \n\n➡️De servicio: Afectan 1 solo cliente o instalación generalmente producto a daños en la acometida, metro contador, etc.).",
+    "timestamp": 1781303935,
+    "timestamp_local": 1781303935
+  },
+  {
     "id": 48358,
     "fecha": "12 de Jun del 2026 a las 06:06 PM",
     "hora_utc": "2026-06-12 22:06",
@@ -118,37 +142,5 @@
     "mensaje": "💡Con servicio eléctrico el siguiente circuito:\n🔹Municipio Santa Clara:\n👉Cto 153 EIDE",
     "timestamp": 1781290017,
     "timestamp_local": 1781290017
-  },
-  {
-    "id": 48342,
-    "fecha": "12 de Jun del 2026 a las 02:45 PM",
-    "hora_utc": "2026-06-12 18:45",
-    "mensaje": "💡Con servicio eléctrico los siguientes circuitos:\n🔹Municipio Santo Domingo:\n👉Cto 79 Santo Domingo\n👉Cto 81 26 de Julio\n👉Cto 163 Batey 26 de Julio\n🔹Municipio Ranchuelo:\n👉Ctos 54, 94 y 95 Jicotea",
-    "timestamp": 1781289952,
-    "timestamp_local": 1781289952
-  },
-  {
-    "id": 48341,
-    "fecha": "12 de Jun del 2026 a las 02:43 PM",
-    "hora_utc": "2026-06-12 18:43",
-    "mensaje": "⚡Disparo del Cto 111 Matagua perteneciente al municipio de Manicaragua , se estudian las causas.",
-    "timestamp": 1781289791,
-    "timestamp_local": 1781289791
-  },
-  {
-    "id": 48340,
-    "fecha": "12 de Jun del 2026 a las 02:19 PM",
-    "hora_utc": "2026-06-12 18:19",
-    "mensaje": "💡Con servicio eléctrico el siguiente circuito:\n🔹Municipio Santa Clara:\n👉Cto 170 José Martí",
-    "timestamp": 1781288381,
-    "timestamp_local": 1781288381
-  },
-  {
-    "id": 48339,
-    "fecha": "12 de Jun del 2026 a las 02:03 PM",
-    "hora_utc": "2026-06-12 18:03",
-    "mensaje": "Actualización del servicio eléctrico en la provincia.\n👉En este momento la afectación por déficit de capacidad de generación es de 119 MW, la demanda máxima posible a apagar en estos momentos.\n👉De los circuitos apagables se mantienen afectados 142.\n👉Cuenta con 287 afectaciones por averías secundarias de servicio.",
-    "timestamp": 1781287408,
-    "timestamp_local": 1781287408
   }
 ]
