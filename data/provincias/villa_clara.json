@@ -1,5 +1,37 @@
 [
   {
+    "id": 48441,
+    "fecha": "13 de Jun del 2026 a las 02:53 PM",
+    "hora_utc": "2026-06-13 18:53",
+    "mensaje": "⚠Afectado el servicio eléctrico en el siguiente circuito:\n🔹Municipio Santa Clara\n👉Cto 13 Zona Industrial",
+    "timestamp": 1781376800,
+    "timestamp_local": 1781376800
+  },
+  {
+    "id": 48440,
+    "fecha": "13 de Jun del 2026 a las 02:52 PM",
+    "hora_utc": "2026-06-13 18:52",
+    "mensaje": "⚠Afectado el servicio eléctrico en los siguientes circuitos:\n🔹Municipio Santo Domingo:\n👉Ctos  96 Bermejal\n👉Cto 187 Batey Carlos Baliño\n👉Cto 82 Ulacia\n👉Cto 84 Rodrigo",
+    "timestamp": 1781376753,
+    "timestamp_local": 1781376753
+  },
+  {
+    "id": 48439,
+    "fecha": "13 de Jun del 2026 a las 02:05 PM",
+    "hora_utc": "2026-06-13 18:05",
+    "mensaje": "Actualización del servicio eléctrico en la provincia.\n👉En este momento la afectación por déficit de capacidad de generación es de 120 MW, la demanda máxima posible a apagar en estos momentos.\n👉De los circuitos apagables se mantienen afectados 138\n👉Cuenta con 312 afectaciones por averías secundarias de servicio.",
+    "timestamp": 1781373958,
+    "timestamp_local": 1781373958
+  },
+  {
+    "id": 48438,
+    "fecha": "13 de Jun del 2026 a las 02:02 PM",
+    "hora_utc": "2026-06-13 18:02",
+    "mensaje": "⚠Afectado el servicio eléctrico en el siguiente circuito:\n🔹Municipio Santa Clara\n👉Cto 1 Consejo Centro",
+    "timestamp": 1781373746,
+    "timestamp_local": 1781373746
+  },
+  {
     "id": 48437,
     "fecha": "13 de Jun del 2026 a las 01:33 PM",
     "hora_utc": "2026-06-13 17:33",
@@ -126,37 +158,5 @@
     "mensaje": "⚠Afectado el servicio eléctrico en el siguiente circuito:\n🔹Municipio Placetas\n👉Cto 98 Placetas",
     "timestamp": 1781366558,
     "timestamp_local": 1781366558
-  },
-  {
-    "id": 48421,
-    "fecha": "13 de Jun del 2026 a las 11:51 AM",
-    "hora_utc": "2026-06-13 15:51",
-    "mensaje": "⚠Afectado el servicio eléctrico en los siguientes circuitos:\n🔹Municipio Ranchuelo: \n👉Ctos 97 y 189",
-    "timestamp": 1781365899,
-    "timestamp_local": 1781365899
-  },
-  {
-    "id": 48420,
-    "fecha": "13 de Jun del 2026 a las 11:50 AM",
-    "hora_utc": "2026-06-13 15:50",
-    "mensaje": "💡Con servicio eléctrico los siguientes circuitos:\n🔹Municipio Ranchuelo: \n👉Ctos 89 y 188\n👉Ctos 148 y 149 San Juan",
-    "timestamp": 1781365855,
-    "timestamp_local": 1781365855
-  },
-  {
-    "id": 48419,
-    "fecha": "13 de Jun del 2026 a las 11:26 AM",
-    "hora_utc": "2026-06-13 15:26",
-    "mensaje": "⚠Afectado el servicio eléctrico en los siguientes circuitos:\n🔹Municipio Placetas:\n👉Cto 192 Benito Juárez\n👉Cto 102 Peroti",
-    "timestamp": 1781364382,
-    "timestamp_local": 1781364382
-  },
-  {
-    "id": 48418,
-    "fecha": "13 de Jun del 2026 a las 11:25 AM",
-    "hora_utc": "2026-06-13 15:25",
-    "mensaje": "⚠Afectado el servicio eléctrico en el siguiente circuito:\n🔹Municipio Santa Clara:\n👉Ctos 26 Manuelita",
-    "timestamp": 1781364342,
-    "timestamp_local": 1781364342
   }
 ]
