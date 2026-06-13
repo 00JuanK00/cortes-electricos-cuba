@@ -1,5 +1,45 @@
 [
   {
+    "id": 54711,
+    "fecha": "13 de Jun del 2026 a las 10:18 AM",
+    "hora_utc": "2026-06-13 14:18",
+    "mensaje": "🚨 Estimados clientes se incorpora a la afectación la línea LI5380- San Luis.",
+    "timestamp": 1781360294,
+    "timestamp_local": 1781360294
+  },
+  {
+    "id": 54710,
+    "fecha": "13 de Jun del 2026 a las 10:10 AM",
+    "hora_utc": "2026-06-13 14:10",
+    "mensaje": "🚨 Estimados clientes en estos momentos se encuentran afectados por Déficit de Capacidad de Generación los circuitos 1 de Palma y 13 de Santiago, disculpen por las molestias ocasionadas.",
+    "timestamp": 1781359823,
+    "timestamp_local": 1781359823
+  },
+  {
+    "id": 54708,
+    "fecha": "13 de Jun del 2026 a las 09:11 AM",
+    "hora_utc": "2026-06-13 13:11",
+    "mensaje": "🔴 Déficit de Capacidad de Generación:  \nSe produce cuando la demanda del Sistema Eléctrico Nacional, en determinado horario del día supera la generación disponible del país, provocando la desconexión de los circuitos o líneas que permitan garantizar la frecuencia del SEN.",
+    "timestamp": 1781356298,
+    "timestamp_local": 1781356298
+  },
+  {
+    "id": 54707,
+    "fecha": "13 de Jun del 2026 a las 09:10 AM",
+    "hora_utc": "2026-06-13 13:10",
+    "mensaje": "🚨 Estimados clientes en estos momentos se encuentran afectados por Déficit de Capacidad de Generación los circuitos 20 y 25 de Santiago, disculpen por las molestias ocasionadas.",
+    "timestamp": 1781356230,
+    "timestamp_local": 1781356230
+  },
+  {
+    "id": 54706,
+    "fecha": "13 de Jun del 2026 a las 08:58 AM",
+    "hora_utc": "2026-06-13 12:58",
+    "mensaje": "🚨 Estimados clientes se encuentran afectados por Déficit de Capacidad de Generación los circuitos 17, 19, las líneas 5390-  II Frente seccionalizado, LI5385 (San Luis-Palma) seccionalizado y 4390- Contramaestre.",
+    "timestamp": 1781355496,
+    "timestamp_local": 1781355496
+  },
+  {
     "id": 54705,
     "fecha": "13 de Jun del 2026 a las 07:14 AM",
     "hora_utc": "2026-06-13 11:14",
@@ -102,53 +142,5 @@
     "mensaje": "🔴Estimados clientes en estos momentos se encuentran afectados por Déficit de Capacidad de Generación los circuitos 12 de Santiago y la línea 5390 La Maya,5395 San Luis, disculpen por las molestias ocasionadas.",
     "timestamp": 1781315684,
     "timestamp_local": 1781315684
-  },
-  {
-    "id": 54691,
-    "fecha": "12 de Jun del 2026 a las 08:11 PM",
-    "hora_utc": "2026-06-13 00:11",
-    "mensaje": "🔊Se incorpora a la afectación el circuito 10 de Santiago y 7 seccionalizado.",
-    "timestamp": 1781309489,
-    "timestamp_local": 1781309489
-  },
-  {
-    "id": 54690,
-    "fecha": "12 de Jun del 2026 a las 07:51 PM",
-    "hora_utc": "2026-06-12 23:51",
-    "mensaje": "🚨Estimados clientes en estos momentos se encuentran afectados por Déficit de Capacidad de Generación los circuitos 20,25,26 de Santiago y las líneas 5335 Guamá y 4 de Palma, disculpen por las molestias ocasionadas.",
-    "timestamp": 1781308270,
-    "timestamp_local": 1781308270
-  },
-  {
-    "id": 54688,
-    "fecha": "12 de Jun del 2026 a las 06:03 PM",
-    "hora_utc": "2026-06-12 22:03",
-    "mensaje": "🔴 Estimados clientes se incorpora a la afectación el circuito 2 de Palma y la línea 5975 Baconao.",
-    "timestamp": 1781301797,
-    "timestamp_local": 1781301797
-  },
-  {
-    "id": 54687,
-    "fecha": "12 de Jun del 2026 a las 05:10 PM",
-    "hora_utc": "2026-06-12 21:10",
-    "mensaje": "Disparo:\nApertura no voluntaria de un interruptor como vía de protección para desconectar uno o varios elementos del circuito, subestación o sistema, restableciéndose el servicio rápidamente en dependencia de la causa.",
-    "timestamp": 1781298634,
-    "timestamp_local": 1781298634
-  },
-  {
-    "id": 54686,
-    "fecha": "12 de Jun del 2026 a las 05:10 PM",
-    "hora_utc": "2026-06-12 21:10",
-    "mensaje": "🚨Estimados clientes se encuentra disparado el circuito 7 de Santiago.",
-    "timestamp": 1781298603,
-    "timestamp_local": 1781298603
-  },
-  {
-    "id": 54685,
-    "fecha": "12 de Jun del 2026 a las 04:58 PM",
-    "hora_utc": "2026-06-12 20:58",
-    "mensaje": "🚨Estimados clientes en estos momentos se encuentran  afectados por Déficit de Capacidad de Generación los circuitos, 19,17,21,23 de Santiago, disculpen por las molestias ocasionadas.",
-    "timestamp": 1781297888,
-    "timestamp_local": 1781297888
   }
 ]
