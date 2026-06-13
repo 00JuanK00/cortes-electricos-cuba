@@ -1,5 +1,13 @@
 [
   {
+    "id": 19560,
+    "fecha": "13 de Jun del 2026 a las 01:49 PM",
+    "hora_utc": "2026-06-13 17:49",
+    "mensaje": "Que da seccionalizado el Circuito 33 Kv: 6470-6300 partir de la cuchilla 6189 quedando solo sin servicio El poblado de Jobabo, Las Margaritas, Las Caballerías, Las Argentinas, Etc. Se sigue trabajando para localizar y reparar la avería del circuito con la mayor brevedad posible.",
+    "timestamp": 1781372974,
+    "timestamp_local": 1781372974
+  },
+  {
     "id": 19559,
     "fecha": "13 de Jun del 2026 a las 09:41 AM",
     "hora_utc": "2026-06-13 13:41",
@@ -110,13 +118,5 @@
     "mensaje": "Qué es un disparo por DAF?\nEl Disparo por Frecuencia (DAF) es un mecanismo de protección del sistema eléctrico. Se activa automáticamente cuando la frecuencia desciende por debajo de los valores mínimos seguros (menores de 60 Hz), lo que pone en riesgo la estabilidad del sistema.\nEn ese momento, algunos circuitos se desconectan de forma automática para aliviar la carga y permitir que la frecuencia vuelva a su valor nominal.\nEsto suele ocurrir cuando una planta generadora sale de servicio de manera imprevista, provocando un déficit de generación. El DAF ayuda a evitar un colapso mayor del sistema, aunque puede generar afectaciones al servicio como apagones parciales.",
     "timestamp": 1781205666,
     "timestamp_local": 1781205666
-  },
-  {
-    "id": 19540,
-    "fecha": "11 de Jun del 2026 a las 03:19 PM",
-    "hora_utc": "2026-06-11 19:19",
-    "mensaje": "Se les informa a losclientes de los siguientes circuitos que se encuentran afectados por disparoautomático por frecuencia (DAF)TK\n 24",
-    "timestamp": 1781205548,
-    "timestamp_local": 1781205548
   }
 ]
