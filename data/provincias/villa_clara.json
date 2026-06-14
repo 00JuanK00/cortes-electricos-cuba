@@ -1,5 +1,45 @@
 [
   {
+    "id": 48540,
+    "fecha": "14 de Jun del 2026 a las 06:44 PM",
+    "hora_utc": "2026-06-14 22:44",
+    "mensaje": "⚠Afectado el servicio eléctrico en los siguientes circuitos.\n🔹Municipio Placetas \n👉Ctos 100 y 151 Placetas\n👉Cto 104 Hermanos Amejeiras\n👉Cto 103 Batey Carbó Servía",
+    "timestamp": 1781477061,
+    "timestamp_local": 1781477061
+  },
+  {
+    "id": 48539,
+    "fecha": "14 de Jun del 2026 a las 06:35 PM",
+    "hora_utc": "2026-06-14 22:35",
+    "mensaje": "⚠Afectado el servicio eléctrico en los siguientes circuitos.\n🔹Municipio Santa Clara:\n👉Ctos 37 y 38 Yabú \n👉Cto 9 Moldes y Troqueles\n👉Cto 133 Taller Cafetera",
+    "timestamp": 1781476544,
+    "timestamp_local": 1781476544
+  },
+  {
+    "id": 48538,
+    "fecha": "14 de Jun del 2026 a las 06:11 PM",
+    "hora_utc": "2026-06-14 22:11",
+    "mensaje": "⚠Afectado el servicio eléctrico en los siguientes circuitos.\n🔹Municipio Remedios:\n👉Ctos 69 y 70 Zuluetas\n👉Cto 143 Batey Heriberto Duquezne \n👉Cto 71 Buena Vista",
+    "timestamp": 1781475099,
+    "timestamp_local": 1781475099
+  },
+  {
+    "id": 48537,
+    "fecha": "14 de Jun del 2026 a las 06:10 PM",
+    "hora_utc": "2026-06-14 22:10",
+    "mensaje": "⚠Afectado el servicio eléctrico en los siguientes circuitos.\n👉Cto 13 Zona Industrial\n🔹Municipio Camajuaní:\n👉Cto 129",
+    "timestamp": 1781475039,
+    "timestamp_local": 1781475039
+  },
+  {
+    "id": 48536,
+    "fecha": "14 de Jun del 2026 a las 06:04 PM",
+    "hora_utc": "2026-06-14 22:04",
+    "mensaje": "🕛Actualización del servicio eléctrico.\n✍️El déficit de capacidad de generación en estos momentos es de 100 MW\n✍️En el momento de esta nota, se mantienen afectados 109 circuitos.\n✍️ Cuenta con 324 afectaciones por averías secundarias y de servicio:\n🔸 Caibarién (1)\n🔸 Camajuaní (2)\n🔸 Cifuentes (4)\n🔸 Corralillo (13)\n🔸 Encrucijada (5)\n🔸 Manicaragua (29)\n🔸 Placetas (13)\n🔸 Ranchuelo (17)\n🔸 Remedios (11) \n🔸 Sagua (16) \n🔸 Santa Clara (173)\n🔸 Santo Domingo (16)\n🛠️Se encuentran 6 averías en vías de solución.\n🛠️Pendientes a solucionar por el área técnica 18.\n⚡Averías⚡\n⚡Afectado por primario partido el Cto 56 Yabre , perteneciente al Municipio Corralillo, quedando afectado el ramal de Manga Larga.\n⚡Afectada por avería la Línea 1205.\n➡️Línea 1205\n🔹Municipio Sagua\n👉Ctos 43, 51 Sagua\n👉Cto 44 Isabela\n👉Ctos 50 y 147 Villa Alegre",
+    "timestamp": 1781474644,
+    "timestamp_local": 1781474644
+  },
+  {
     "id": 48535,
     "fecha": "14 de Jun del 2026 a las 05:50 PM",
     "hora_utc": "2026-06-14 21:50",
@@ -118,45 +158,5 @@
     "mensaje": "⚠Afectado el servicio eléctrico en el siguiente circuito.\n🔹Municipio Santa Clara:\n👉Cto 167 Virginia",
     "timestamp": 1781455830,
     "timestamp_local": 1781455830
-  },
-  {
-    "id": 48520,
-    "fecha": "14 de Jun del 2026 a las 12:38 PM",
-    "hora_utc": "2026-06-14 16:38",
-    "mensaje": "⚠Afectado el servicio eléctrico en los siguientes circuitos.\n🔹Municipio Santa Clara\n👉Cto 28 Monumento Che\n👉Cto 168 Condado",
-    "timestamp": 1781455110,
-    "timestamp_local": 1781455110
-  },
-  {
-    "id": 48519,
-    "fecha": "14 de Jun del 2026 a las 12:37 PM",
-    "hora_utc": "2026-06-14 16:37",
-    "mensaje": "💡Con servicio eléctrico el siguiente circuito.\n🔹Municipio Santa Clara\n👉Cto 169 Condado",
-    "timestamp": 1781455036,
-    "timestamp_local": 1781455036
-  },
-  {
-    "id": 48518,
-    "fecha": "14 de Jun del 2026 a las 12:36 PM",
-    "hora_utc": "2026-06-14 16:36",
-    "mensaje": "💡Restablecido el servicio eléctrico en el circuito 6 (Vigía).",
-    "timestamp": 1781454975,
-    "timestamp_local": 1781454975
-  },
-  {
-    "id": 48517,
-    "fecha": "14 de Jun del 2026 a las 12:23 PM",
-    "hora_utc": "2026-06-14 16:23",
-    "mensaje": "🛠En vía libre el circuito 153 EIDE para reparar cable primario partido.",
-    "timestamp": 1781454235,
-    "timestamp_local": 1781454235
-  },
-  {
-    "id": 48516,
-    "fecha": "14 de Jun del 2026 a las 12:21 PM",
-    "hora_utc": "2026-06-14 16:21",
-    "mensaje": "⚠Afectado el servicio eléctrico en los siguientes circuitos:\n🔹Municipio Camajuaní:\n👉Ctos 77, 59 y 185 Vueltas",
-    "timestamp": 1781454116,
-    "timestamp_local": 1781454116
   }
 ]
