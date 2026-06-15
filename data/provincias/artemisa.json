@@ -1,5 +1,45 @@
 [
   {
+    "id": 37856,
+    "fecha": "15 de Jun del 2026 a las 03:00 PM",
+    "hora_utc": "2026-06-15 19:00",
+    "mensaje": "🚨Avería en el circuito Villa Salado de Caimito pendiente a recorrer🚨",
+    "timestamp": 1781550004,
+    "timestamp_local": 1781550004
+  },
+  {
+    "id": 37855,
+    "fecha": "15 de Jun del 2026 a las 02:30 PM",
+    "hora_utc": "2026-06-15 18:30",
+    "mensaje": "🚨 Restablecida la avería en el circuito 5040 de Caimito quedando afectado Bombeo Ceiba 1 pendiente a trabajar🚨",
+    "timestamp": 1781548240,
+    "timestamp_local": 1781548240
+  },
+  {
+    "id": 37854,
+    "fecha": "15 de Jun del 2026 a las 02:12 PM",
+    "hora_utc": "2026-06-15 18:12",
+    "mensaje": "🚨 Afectado por deficit  los circuitos \n\n➡️1940 de San Antonio\n➡️A1270 de Artemisa\n\n👉 Tenemos una afectación de 132MW",
+    "timestamp": 1781547148,
+    "timestamp_local": 1781547148
+  },
+  {
+    "id": 37853,
+    "fecha": "15 de Jun del 2026 a las 02:12 PM",
+    "hora_utc": "2026-06-15 18:12",
+    "mensaje": "🚨 Afectado por deficit  los circuitos \n\n➡️Bauta vieja\n➡️Martí de San Cristóbal\n➡️El Palmar y Alquitex de Alquízar \n➡️S340 del Maní de San Cristóbal\n➡️Cárcel de Guanajay\n\n👉 Tenemos una afectación de 128MW",
+    "timestamp": 1781547147,
+    "timestamp_local": 1781547147
+  },
+  {
+    "id": 37852,
+    "fecha": "15 de Jun del 2026 a las 01:39 PM",
+    "hora_utc": "2026-06-15 17:39",
+    "mensaje": "🚨 Continúa en avería el circuito 5040 de Caimito afectando Balkan , Bombeo Ceiba 1, Aguacate y Cementerio🚨",
+    "timestamp": 1781545188,
+    "timestamp_local": 1781545188
+  },
+  {
     "id": 37851,
     "fecha": "15 de Jun del 2026 a las 11:15 AM",
     "hora_utc": "2026-06-15 15:15",
@@ -118,45 +158,5 @@
     "mensaje": "🚨 Circuitos afectados por déficit de generación 🚨\n➡️1940 de San Antonio\n➡️1570de Artemisa Candelaria\n➡️ 1580 de Alquízar\n➡️ BH-342;246 de Bahía Honda\n➡️ Playa Baracoa\n➡️ 5040 de Caimito\n➡️ 1258 de Artemisa\n➡️ S-20; 4 Caminos , Martí y 341 de San Cristóbal\n➡️ A-1270 de Artemisa\n➡️ Fabrica de Carretas de Güira de Melena\n‼️ Tenemos una afectación de 134 MW‼️",
     "timestamp": 1781434357,
     "timestamp_local": 1781434357
-  },
-  {
-    "id": 37836,
-    "fecha": "13 de Jun del 2026 a las 10:18 PM",
-    "hora_utc": "2026-06-14 02:18",
-    "mensaje": "🚨 Restablecida la subestación del Pilar de Artemisa que se encontraba Disparada ‼️",
-    "timestamp": 1781403532,
-    "timestamp_local": 1781403532
-  },
-  {
-    "id": 37835,
-    "fecha": "13 de Jun del 2026 a las 08:05 PM",
-    "hora_utc": "2026-06-14 00:05",
-    "mensaje": "🚨 Disparada la subestación del Pilar de Artemisa ‼️",
-    "timestamp": 1781395548,
-    "timestamp_local": 1781395548
-  },
-  {
-    "id": 37834,
-    "fecha": "13 de Jun del 2026 a las 07:38 PM",
-    "hora_utc": "2026-06-13 23:38",
-    "mensaje": "🚨 Afectado por deficit  los circuitos \n➡️Bauta Nueva\n👉 Tenemos una afectación de 152MW",
-    "timestamp": 1781393887,
-    "timestamp_local": 1781393887
-  },
-  {
-    "id": 37833,
-    "fecha": "13 de Jun del 2026 a las 05:24 PM",
-    "hora_utc": "2026-06-13 21:24",
-    "mensaje": "🚨 Restablecida la Subestación de Vereda en Caimito que se encontraba Disparada",
-    "timestamp": 1781385889,
-    "timestamp_local": 1781385889
-  },
-  {
-    "id": 37832,
-    "fecha": "13 de Jun del 2026 a las 05:24 PM",
-    "hora_utc": "2026-06-13 21:24",
-    "mensaje": "🚨 Afectado por deficit  los circuitos \n➡️Villa Salado\n👉 Tenemos una afectación de 148MW",
-    "timestamp": 1781385871,
-    "timestamp_local": 1781385871
   }
 ]
