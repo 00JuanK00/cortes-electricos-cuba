@@ -1,5 +1,37 @@
 [
   {
+    "id": 48545,
+    "fecha": "14 de Jun del 2026 a las 10:45 PM",
+    "hora_utc": "2026-06-15 02:45",
+    "mensaje": "💡Con servicio eléctrico el circuito 166 Condado.",
+    "timestamp": 1781491554,
+    "timestamp_local": 1781491554
+  },
+  {
+    "id": 48544,
+    "fecha": "14 de Jun del 2026 a las 10:29 PM",
+    "hora_utc": "2026-06-15 02:29",
+    "mensaje": "🛠Afectado por manipulación el circuito 166 Condado para reponer transformador.",
+    "timestamp": 1781490594,
+    "timestamp_local": 1781490594
+  },
+  {
+    "id": 48543,
+    "fecha": "14 de Jun del 2026 a las 10:08 PM",
+    "hora_utc": "2026-06-15 02:08",
+    "mensaje": "Actualización del servicio eléctrico en la provincia.\n👉En este momento la afectación por déficit de capacidad de generación es de 143 MW, la demanda máxima posible a apagar en estos momentos.\n👉De los circuitos apagables se mantienen afectados 143.\n👉Cuenta con 301 afectaciones por averías secundarias de servicio.",
+    "timestamp": 1781489317,
+    "timestamp_local": 1781489317
+  },
+  {
+    "id": 48541,
+    "fecha": "14 de Jun del 2026 a las 08:04 PM",
+    "hora_utc": "2026-06-15 00:04",
+    "mensaje": "Actualización del servicio eléctrico en la provincia.\n👉En este momento la afectación por déficit de capacidad de generación es de 147 MW, la demanda máxima posible a apagar en estos momentos.\n👉De los circuitos apagables se mantienen afectados 143.\n👉Cuenta con 288 afectaciones por averías secundarias de servicio.",
+    "timestamp": 1781481840,
+    "timestamp_local": 1781481840
+  },
+  {
     "id": 48540,
     "fecha": "14 de Jun del 2026 a las 06:44 PM",
     "hora_utc": "2026-06-14 22:44",
@@ -118,45 +150,5 @@
     "mensaje": "🛠En vía libre el circuito 32 RF para realizar cambio de transformador.",
     "timestamp": 1781464162,
     "timestamp_local": 1781464162
-  },
-  {
-    "id": 48525,
-    "fecha": "14 de Jun del 2026 a las 03:02 PM",
-    "hora_utc": "2026-06-14 19:02",
-    "mensaje": "⚠Afectado el servicio eléctrico en el siguiente circuito.\n🔹Municipio Manicaragua:\n👉Ctos 109 y 150",
-    "timestamp": 1781463771,
-    "timestamp_local": 1781463771
-  },
-  {
-    "id": 48524,
-    "fecha": "14 de Jun del 2026 a las 02:21 PM",
-    "hora_utc": "2026-06-14 18:21",
-    "mensaje": "⚠Afectado el servicio eléctrico en el siguiente circuito.\n🔹Municipio Santa Clara:\n👉Cto 132 Santa Clara Industrial",
-    "timestamp": 1781461310,
-    "timestamp_local": 1781461310
-  },
-  {
-    "id": 48523,
-    "fecha": "14 de Jun del 2026 a las 02:19 PM",
-    "hora_utc": "2026-06-14 18:19",
-    "mensaje": "Actualización del servicio eléctrico en la provincia.\n👉En este momento la afectación por déficit de capacidad de generación es de 92 MW, la demanda máxima posible a apagar en estos momentos.\n👉De los circuitos apagables se mantienen afectados 109.\n👉Cuenta con 286 afectaciones por averías secundarias de servicio.",
-    "timestamp": 1781461191,
-    "timestamp_local": 1781461191
-  },
-  {
-    "id": 48522,
-    "fecha": "14 de Jun del 2026 a las 01:58 PM",
-    "hora_utc": "2026-06-14 17:58",
-    "mensaje": "⚠Afectado el servicio eléctrico en el siguiente circuito.\n🔹Municipio Santa Clara:\n👉Cto 170 José Martí",
-    "timestamp": 1781459885,
-    "timestamp_local": 1781459885
-  },
-  {
-    "id": 48521,
-    "fecha": "14 de Jun del 2026 a las 12:50 PM",
-    "hora_utc": "2026-06-14 16:50",
-    "mensaje": "⚠Afectado el servicio eléctrico en el siguiente circuito.\n🔹Municipio Santa Clara:\n👉Cto 167 Virginia",
-    "timestamp": 1781455830,
-    "timestamp_local": 1781455830
   }
 ]
