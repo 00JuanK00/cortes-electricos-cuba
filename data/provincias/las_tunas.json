@@ -1,5 +1,13 @@
 [
   {
+    "id": 19664,
+    "fecha": "19 de Jun del 2026 a las 08:18 AM",
+    "hora_utc": "2026-06-19 12:18",
+    "mensaje": "Nota Informativa: Estado del Sistema Eléctrico Nacional (SEN) – 19 de junio de 2026\n\nEn el día de ayer se afectó el servicio por déficit de capacidad durante las 24 horas y se mantuvo la afectación durante todo el horario de la madrugada. La máxima afectación por déficit de capacidad de generación en el día de ayer fue de 2191 MW a las 20:40 horas.\n\nLa producción de energía de los 54 nuevos parques solares fotovoltaicos fue de 4173 MWh, con 522 MW como máxima potencia entregada en el horario de la media con esta fuente de generación.\nEstado actual del SEN\n\nLa disponibilidad del SEN a las 06:00 horas es de 1016 MW, la demanda 2650 MW con 1620 MW afectados. En el horario de la media se estima una afectación de 1700 MW.\nPrincipales incidencias\n\nGeneración Térmica\n\n    Avería: Unidad 6 de la CTE Máximo Gómez, Unidad 2 de la CTE Ernesto Guevara De La Serna, Unidad de la CTE Antonio Guiteras, Unidad 2 de la CTE Lidio Ramón Pérez.\n\n    Mantenimiento: Unidad 5 de la CTE Máximo Gómez, Unidad 3 de la CTE Ernesto Guevara De La Serna, Unidades 5 y 6 de la CTE Antonio Maceo, Unidad 5 de la CTE Diez de Octubre.\n\nTotal de MW afectados por esta causa: 353 MW fuera de servicio.\n\nGeneración Distribuida\n\n    Fuera de servicio 106 centrales de generación distribuida por indisponibilidad de combustible, con 890 MW.\n\n    Fuera de servicio la Patana de Regla, Patana de Melones, Central Fuel de Mariel y Central Fuel de Moa.\n\nTotal de MW indisponibles por combustible: 1203 MW\nPronóstico para el horario pico\n\nPara el horario de máxima demanda se estima una disponibilidad de 1016 MW con una demanda máxima de 3150 MW, para un déficit de 2134 MW, por lo que de mantenerse las condiciones previstas se pronostica una afectación de 2164 MW en este horario.",
+    "timestamp": 1781871512,
+    "timestamp_local": 1781871512
+  },
+  {
     "id": 19663,
     "fecha": "18 de Jun del 2026 a las 11:39 PM",
     "hora_utc": "2026-06-19 03:39",
@@ -70,37 +78,5 @@
     "mensaje": "🛠🚨Se declara en avería el  Circuito 33 Kv: 6100**\n**TK35 Puerto Manatí\nTK36 El Raúl\nTK22 Aeropuerto\nTK23 Veguita\nTK32 Fleytas\nTK30 Meriño",
     "timestamp": 1781781910,
     "timestamp_local": 1781781910
-  },
-  {
-    "id": 19647,
-    "fecha": "18 de Jun del 2026 a las 06:34 AM",
-    "hora_utc": "2026-06-18 10:34",
-    "mensaje": "🛠🚨Se declara en avería el Circuito de 33 Kv 6840 Los Kilómetros perteneciente al municipio de Amancio.",
-    "timestamp": 1781778863,
-    "timestamp_local": 1781778863
-  },
-  {
-    "id": 19646,
-    "fecha": "18 de Jun del 2026 a las 06:28 AM",
-    "hora_utc": "2026-06-18 10:28",
-    "mensaje": "🛠🚨Se declara en avería el circuito TK4 Aeropuerto, Casa Piedra y Aurora",
-    "timestamp": 1781778502,
-    "timestamp_local": 1781778502
-  },
-  {
-    "id": 19645,
-    "fecha": "18 de Jun del 2026 a las 06:24 AM",
-    "hora_utc": "2026-06-18 10:24",
-    "mensaje": "📣🚨Reiteramos a nuestros clientes que debido al significativo déficit energético que enfrenta nuestro país y la disponibilidad limitada del Sistema Eléctrico Nacional(SEN)en comparación con la demanda actual, lamentamos no poder proporcionar una programación detallada de las afectaciones en el suministro eléctrico.Agradecemos su compresión y ofrecemos nuestras más sinceras disculpas por las molestias que esto pueda causarles.",
-    "timestamp": 1781778267,
-    "timestamp_local": 1781778267
-  },
-  {
-    "id": 19644,
-    "fecha": "18 de Jun del 2026 a las 01:24 AM",
-    "hora_utc": "2026-06-18 05:24",
-    "mensaje": "📣🚨Informamos a nuestros clientes que en este momento nos encontramos en la máxima capacidad apagable, lo que impide el restablecimiento inmediato del servicio eléctrico en los circuitos afectados. La situación podrá mejorar en la medida en que el Sistema Electroenergético Nacional permita recuperar la capacidad de generación.Ofrecemos disculpas por las molestas ocasionadas.",
-    "timestamp": 1781760258,
-    "timestamp_local": 1781760258
   }
 ]
