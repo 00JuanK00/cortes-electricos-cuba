@@ -1,5 +1,37 @@
 [
   {
+    "id": 49031,
+    "fecha": "20 de Jun del 2026 a las 04:09 PM",
+    "hora_utc": "2026-06-20 20:09",
+    "mensaje": "Actualización del servicio eléctrico en la provincia.\n👉En este momento la afectación por déficit de capacidad de generación es de 136 MW, la demanda máxima posible a apagar en estos momentos.\n👉De los circuitos apagables se mantienen afectados 136.\n👉Cuenta con 312 afectaciones por averías secundarias de servicio.",
+    "timestamp": 1781986195,
+    "timestamp_local": 1781986195
+  },
+  {
+    "id": 49030,
+    "fecha": "20 de Jun del 2026 a las 04:09 PM",
+    "hora_utc": "2026-06-20 20:09",
+    "mensaje": "⚠Afectado el servicio eléctrico en los siguientes circuitos:\n🔹Municipio Santa Clara:\n👉Cto 1 Consejo- Centro\n🔹Municipio Camajuaní:\n👉Ctos 59 y 185 Vueltas\n🔹Municipio Camajuaní:\n👉Ctos 73 y 156",
+    "timestamp": 1781986151,
+    "timestamp_local": 1781986151
+  },
+  {
+    "id": 49029,
+    "fecha": "20 de Jun del 2026 a las 03:23 PM",
+    "hora_utc": "2026-06-20 19:23",
+    "mensaje": "Afectados 134 MW en la provincia, demanda máxima a apagar en estos momentos.",
+    "timestamp": 1781983404,
+    "timestamp_local": 1781983404
+  },
+  {
+    "id": 49028,
+    "fecha": "20 de Jun del 2026 a las 03:22 PM",
+    "hora_utc": "2026-06-20 19:22",
+    "mensaje": "⚠Afectado el servicio eléctrico en los siguientes circuitos:\n🔹Municipio Ranchuelo: \n👉Ctos 148 y 149 San Juan\n👉Cto 91 Batey Osvaldo Herrera\n🔹Municipio Encrucijada\n👉Cto 120 Calabazar\n👉Ctos 121 y 127 Perucho\n🔹Municipio Santa Clara\n👉Cto 26 Manuelita",
+    "timestamp": 1781983322,
+    "timestamp_local": 1781983322
+  },
+  {
     "id": 49027,
     "fecha": "20 de Jun del 2026 a las 02:06 PM",
     "hora_utc": "2026-06-20 18:06",
@@ -126,37 +158,5 @@
     "mensaje": "💡Con servicio el siguiente circuito:\n🔹Municipio Santa Clara\n👉Cto 26 Manuelita",
     "timestamp": 1781963659,
     "timestamp_local": 1781963659
-  },
-  {
-    "id": 49011,
-    "fecha": "20 de Jun del 2026 a las 09:32 AM",
-    "hora_utc": "2026-06-20 13:32",
-    "mensaje": "⚠Afectado el servicio eléctrico en el siguiente circuito:\n🔹Municipio Santa Clara:\n👉Cto 30 Santa Clara Industrial",
-    "timestamp": 1781962373,
-    "timestamp_local": 1781962373
-  },
-  {
-    "id": 49010,
-    "fecha": "20 de Jun del 2026 a las 09:31 AM",
-    "hora_utc": "2026-06-20 13:31",
-    "mensaje": "💡Con servicio los siguientes circuitos:\n🔹Municipio Ranchuelo: \n👉Ctos 97 y 189\n👉Cto 181 Batey Ifraín Alfonso\n🔹Municipio Quemado:\n👉 Cto 164 Quemado.",
-    "timestamp": 1781962274,
-    "timestamp_local": 1781962274
-  },
-  {
-    "id": 49009,
-    "fecha": "20 de Jun del 2026 a las 09:29 AM",
-    "hora_utc": "2026-06-20 13:29",
-    "mensaje": "⚠Afectado el servicio eléctrico en los siguientes circuitos:\n🔹Municipio Quemado:\n👉 Cto 52 Quemado.\n👉 Cto 196 Batey Panchito Gómez Toro",
-    "timestamp": 1781962188,
-    "timestamp_local": 1781962188
-  },
-  {
-    "id": 49008,
-    "fecha": "20 de Jun del 2026 a las 09:12 AM",
-    "hora_utc": "2026-06-20 13:12",
-    "mensaje": "Afectados 123 MW en la provincia, demanda máxima a apagar en estos momentos.",
-    "timestamp": 1781961133,
-    "timestamp_local": 1781961133
   }
 ]
