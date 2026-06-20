@@ -1,5 +1,53 @@
 [
   {
+    "id": 49038,
+    "fecha": "20 de Jun del 2026 a las 05:20 PM",
+    "hora_utc": "2026-06-20 21:20",
+    "mensaje": "⚠Afectado el servicio eléctrico en los siguientes circuitos:\n🔹Municipio Santo Domingo:\n👉Cto 134\n👉Ctos 87 y 96 Bermejal\n👉Cto 187 Batey Carlos Baliño\n👉Cto 82 Ulacia\n👉Cto 84 Rodrigo",
+    "timestamp": 1781990434,
+    "timestamp_local": 1781990434
+  },
+  {
+    "id": 49037,
+    "fecha": "20 de Jun del 2026 a las 05:17 PM",
+    "hora_utc": "2026-06-20 21:17",
+    "mensaje": "⚠Afectado el servicio eléctrico en los siguientes circuitos:\n🔹Municipio Santa Clara:\n👉Cto 5 Dobarganes\n👉Cto 17 Subplanta",
+    "timestamp": 1781990241,
+    "timestamp_local": 1781990241
+  },
+  {
+    "id": 49036,
+    "fecha": "20 de Jun del 2026 a las 05:10 PM",
+    "hora_utc": "2026-06-20 21:10",
+    "mensaje": "Afectados 141 MW en la provincia, demanda máxima a apagar en estos momentos.",
+    "timestamp": 1781989827,
+    "timestamp_local": 1781989827
+  },
+  {
+    "id": 49035,
+    "fecha": "20 de Jun del 2026 a las 04:49 PM",
+    "hora_utc": "2026-06-20 20:49",
+    "mensaje": "⚠Se encuentran afectados los siguientes circuitos por disparado en la línea del 6375:\n🔹Municipio Santa Clara\n👉Cto 7 Universidad\n👉Cto 131 Las Antillas\n👉Cto 24 Planta Asfalto\n👉Cto 25 Los Güiros\n👉Cto 35 Biotecnología",
+    "timestamp": 1781988572,
+    "timestamp_local": 1781988572
+  },
+  {
+    "id": 49034,
+    "fecha": "20 de Jun del 2026 a las 04:46 PM",
+    "hora_utc": "2026-06-20 20:46",
+    "mensaje": "⚠Se encuentra disparado el Cto 4 Centro, perteneciente al municipio Santa Clara, se estudian las causas.",
+    "timestamp": 1781988419,
+    "timestamp_local": 1781988419
+  },
+  {
+    "id": 49033,
+    "fecha": "20 de Jun del 2026 a las 04:31 PM",
+    "hora_utc": "2026-06-20 20:31",
+    "mensaje": "⚠Afectado el servicio eléctrico en el siguiente circuito:\n🔹Municipio Santa Clara: \n👉Cto 170 José Martí",
+    "timestamp": 1781987507,
+    "timestamp_local": 1781987507
+  },
+  {
     "id": 49031,
     "fecha": "20 de Jun del 2026 a las 04:09 PM",
     "hora_utc": "2026-06-20 20:09",
@@ -102,61 +150,5 @@
     "mensaje": "⚠Afectado el servicio eléctrico en el siguiente circuito:\n🔹Municipio Santa Clara:\n👉Cto 153 EIDE",
     "timestamp": 1781966410,
     "timestamp_local": 1781966410
-  },
-  {
-    "id": 49018,
-    "fecha": "20 de Jun del 2026 a las 10:07 AM",
-    "hora_utc": "2026-06-20 14:07",
-    "mensaje": "⚠Se encuentran disparados los siguientes circuitos:\n🔹Municipio Placetas:\n👉Cto 151 Placetas\n🔹Municipio Camajuaní:\n👉Cto 77 Vueltas",
-    "timestamp": 1781964455,
-    "timestamp_local": 1781964455
-  },
-  {
-    "id": 49017,
-    "fecha": "20 de Jun del 2026 a las 10:06 AM",
-    "hora_utc": "2026-06-20 14:06",
-    "mensaje": "⚡ Actualización del Sistema Electroenergético Nacional para el 20 de junio de 2026.\n\nPronóstico de afectación:\nPara el mediodía: 1600 MW\nPara el pico de la noche: 1935 MW\n\nLeer más: https://www.unionelectrica.cu/nota-informativa/\n\n#UnidosXCuba #UniónEléctrica #UNE #NotaInformativa",
-    "timestamp": 1781964408,
-    "timestamp_local": 1781964408
-  },
-  {
-    "id": 49016,
-    "fecha": "20 de Jun del 2026 a las 10:04 AM",
-    "hora_utc": "2026-06-20 14:04",
-    "mensaje": "Actualización del servicio eléctrico en la provincia.\n👉En este momento la afectación por déficit de capacidad de generación es de 127 MW, la demanda máxima posible a apagar en estos momentos.\n👉De los circuitos apagables se mantienen afectados 135.\n👉Cuenta con 298 afectaciones por averías secundarias de servicio.",
-    "timestamp": 1781964269,
-    "timestamp_local": 1781964269
-  },
-  {
-    "id": 49015,
-    "fecha": "20 de Jun del 2026 a las 10:03 AM",
-    "hora_utc": "2026-06-20 14:03",
-    "mensaje": "⚡En avería el Cto 111 Mataguá, perteneciente al municipio Manicaragua, se estudian las causas.",
-    "timestamp": 1781964233,
-    "timestamp_local": 1781964233
-  },
-  {
-    "id": 49014,
-    "fecha": "20 de Jun del 2026 a las 09:57 AM",
-    "hora_utc": "2026-06-20 13:57",
-    "mensaje": "⚠Afectado por Emergencia el circuito 167 Virginia, perteneciente al municipio Santa Clara por incendio en Transformador.",
-    "timestamp": 1781963863,
-    "timestamp_local": 1781963863
-  },
-  {
-    "id": 49013,
-    "fecha": "20 de Jun del 2026 a las 09:55 AM",
-    "hora_utc": "2026-06-20 13:55",
-    "mensaje": "⚠Afectado por Vía Libre el circuito 141 Manuelita, perteneciente al municipio Santa Clara para realizar mantenimiento.",
-    "timestamp": 1781963750,
-    "timestamp_local": 1781963750
-  },
-  {
-    "id": 49012,
-    "fecha": "20 de Jun del 2026 a las 09:54 AM",
-    "hora_utc": "2026-06-20 13:54",
-    "mensaje": "💡Con servicio el siguiente circuito:\n🔹Municipio Santa Clara\n👉Cto 26 Manuelita",
-    "timestamp": 1781963659,
-    "timestamp_local": 1781963659
   }
 ]
