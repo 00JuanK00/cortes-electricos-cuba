@@ -1,5 +1,53 @@
 [
   {
+    "id": 49008,
+    "fecha": "20 de Jun del 2026 a las 09:12 AM",
+    "hora_utc": "2026-06-20 13:12",
+    "mensaje": "Afectados 123 MW en la provincia, demanda máxima a apagar en estos momentos.",
+    "timestamp": 1781961133,
+    "timestamp_local": 1781961133
+  },
+  {
+    "id": 49007,
+    "fecha": "20 de Jun del 2026 a las 08:20 AM",
+    "hora_utc": "2026-06-20 12:20",
+    "mensaje": "⚠Afectado el servicio eléctrico en el siguiente circuito:\n🔹Municipio Santa Clara:\n👉Cto 169 Condado",
+    "timestamp": 1781958058,
+    "timestamp_local": 1781958058
+  },
+  {
+    "id": 49006,
+    "fecha": "20 de Jun del 2026 a las 08:20 AM",
+    "hora_utc": "2026-06-20 12:20",
+    "mensaje": "💡Con servicio el siguiente circuito:\n🔹Municipio Santa Clara:\n👉Cto 167 Virginia",
+    "timestamp": 1781958015,
+    "timestamp_local": 1781958015
+  },
+  {
+    "id": 49005,
+    "fecha": "20 de Jun del 2026 a las 08:02 AM",
+    "hora_utc": "2026-06-20 12:02",
+    "mensaje": "Actualización del servicio eléctrico en la provincia.\n👉En este momento la afectación por déficit de capacidad de generación es de 122 MW, la demanda máxima posible a apagar en estos momentos.\n👉De los circuitos apagables se mantienen afectados 135.\n👉Cuenta con 306 afectaciones por averías secundarias de servicio.",
+    "timestamp": 1781956952,
+    "timestamp_local": 1781956952
+  },
+  {
+    "id": 49004,
+    "fecha": "20 de Jun del 2026 a las 08:00 AM",
+    "hora_utc": "2026-06-20 12:00",
+    "mensaje": "💡Con servicio el siguiente circuito:\n🔹Municipio Santa Clara:\n👉Cto 3 Consejo-Centro",
+    "timestamp": 1781956859,
+    "timestamp_local": 1781956859
+  },
+  {
+    "id": 49003,
+    "fecha": "20 de Jun del 2026 a las 07:58 AM",
+    "hora_utc": "2026-06-20 11:58",
+    "mensaje": "Afectados 122 MW en la provincia, demanda máxima a apagar en estos momentos.",
+    "timestamp": 1781956736,
+    "timestamp_local": 1781956736
+  },
+  {
     "id": 49002,
     "fecha": "20 de Jun del 2026 a las 06:24 AM",
     "hora_utc": "2026-06-20 10:24",
@@ -102,53 +150,5 @@
     "mensaje": "Actualización del servicio eléctrico en la provincia.\n👉En este momento la afectación por déficit de capacidad de generación es de 110 MW, la demanda máxima posible a apagar en estos momentos.\n👉De los circuitos apagables se mantienen afectados 135.\n👉Cuenta con 290 afectaciones por averías secundarias de servicio.",
     "timestamp": 1781943363,
     "timestamp_local": 1781943363
-  },
-  {
-    "id": 48988,
-    "fecha": "20 de Jun del 2026 a las 04:15 AM",
-    "hora_utc": "2026-06-20 08:15",
-    "mensaje": "⚠Afectado el servicio eléctrico en el siguiente circuito:\n🔹Municipio Santa Clara:\n👉Cto 4 Consejo-Centro",
-    "timestamp": 1781943312,
-    "timestamp_local": 1781943312
-  },
-  {
-    "id": 48987,
-    "fecha": "20 de Jun del 2026 a las 03:14 AM",
-    "hora_utc": "2026-06-20 07:14",
-    "mensaje": "💡Con servicio el siguiente circuito:\n🔹Municipio Santa Clara:\n👉Cto 141 Manuelita",
-    "timestamp": 1781939640,
-    "timestamp_local": 1781939640
-  },
-  {
-    "id": 48986,
-    "fecha": "20 de Jun del 2026 a las 02:41 AM",
-    "hora_utc": "2026-06-20 06:41",
-    "mensaje": "⚠Afectado el servicio eléctrico en el siguiente circuito:\n🔹Municipio Santa Clara:\n👉Cto 168 Condado-XX Aniversario",
-    "timestamp": 1781937684,
-    "timestamp_local": 1781937684
-  },
-  {
-    "id": 48985,
-    "fecha": "20 de Jun del 2026 a las 02:08 AM",
-    "hora_utc": "2026-06-20 06:08",
-    "mensaje": "⚠Afectado el servicio eléctrico en el siguiente circuito:\n🔹Municipio Santa Clara:\n👉Cto 3 Consejo-Centro",
-    "timestamp": 1781935710,
-    "timestamp_local": 1781935710
-  },
-  {
-    "id": 48984,
-    "fecha": "20 de Jun del 2026 a las 02:02 AM",
-    "hora_utc": "2026-06-20 06:02",
-    "mensaje": "⚠Afectado el servicio eléctrico en el siguiente circuito:\n🔹Municipio Santa Clara:\n👉Cto 169 Condado",
-    "timestamp": 1781935377,
-    "timestamp_local": 1781935377
-  },
-  {
-    "id": 48983,
-    "fecha": "20 de Jun del 2026 a las 02:02 AM",
-    "hora_utc": "2026-06-20 06:02",
-    "mensaje": "Actualización del servicio eléctrico en la provincia.\n👉En este momento la afectación por déficit de capacidad de generación es de 119 MW, la demanda máxima posible a apagar en estos momentos.\n👉De los circuitos apagables se mantienen afectados 135.\n👉Cuenta con 300 afectaciones por averías secundarias de servicio.",
-    "timestamp": 1781935334,
-    "timestamp_local": 1781935334
   }
 ]
