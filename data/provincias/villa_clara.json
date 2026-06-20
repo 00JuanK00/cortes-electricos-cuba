@@ -1,5 +1,45 @@
 [
   {
+    "id": 49002,
+    "fecha": "20 de Jun del 2026 a las 06:24 AM",
+    "hora_utc": "2026-06-20 10:24",
+    "mensaje": "⚠Afectado el servicio eléctrico en los siguientes circuitos:\n🔹Municipio Santa Clara\n👉Ctos 26 y 141 Manuelita\n👉Cto 191 Quemado de Hilario",
+    "timestamp": 1781951062,
+    "timestamp_local": 1781951062
+  },
+  {
+    "id": 49001,
+    "fecha": "20 de Jun del 2026 a las 06:09 AM",
+    "hora_utc": "2026-06-20 10:09",
+    "mensaje": "🕛Actualización del servicio eléctrico.\n✍️El déficit de capacidad de generación en estos momentos es de 116 MW\n✍️En el momento de esta nota, se mantienen afectados 135 circuitos.\n✍️ Cuenta con 315 afectaciones por averías secundarias y de servicio:\n🔸 Caibarién (7)\n🔸 Camajuaní (7)\n🔸 Cifuentes (11)\n🔸 Corralillo (6)\n🔸 Encrucijada (5)\n🔸 Manicaragua (23)\n🔸 Placetas (23)\n🔸 Quemado (1)\n🔸 Ranchuelo (12)\n🔸 Remedios (6) \n🔸 Sagua (9) \n🔸 Santa Clara (169)\n🔸 Santo Domingo (17)\n🛠️Se encuentran 2 averías en vías de solución.\n🛠️Pendientes a solucionar por el área técnica 17.\n✅La provincia no presenta averías primarias.",
+    "timestamp": 1781950163,
+    "timestamp_local": 1781950163
+  },
+  {
+    "id": 49000,
+    "fecha": "20 de Jun del 2026 a las 06:01 AM",
+    "hora_utc": "2026-06-20 10:01",
+    "mensaje": "⚠Afectado el servicio eléctrico en el siguiente circuito:\n🔹Municipio Santa Clara:\n👉Cto 166 Condado",
+    "timestamp": 1781949666,
+    "timestamp_local": 1781949666
+  },
+  {
+    "id": 48999,
+    "fecha": "20 de Jun del 2026 a las 06:00 AM",
+    "hora_utc": "2026-06-20 10:00",
+    "mensaje": "💡Con servicio el siguiente circuito:\n🔹Municipio Santa Clara:\n👉Cto 169 Condado",
+    "timestamp": 1781949637,
+    "timestamp_local": 1781949637
+  },
+  {
+    "id": 48998,
+    "fecha": "20 de Jun del 2026 a las 05:59 AM",
+    "hora_utc": "2026-06-20 09:59",
+    "mensaje": "⚠Afectado el servicio eléctrico en el siguiente circuito:\n🔹Municipio Santa Clara:\n👉Cto 170 José Martí",
+    "timestamp": 1781949595,
+    "timestamp_local": 1781949595
+  },
+  {
     "id": 48997,
     "fecha": "20 de Jun del 2026 a las 05:46 AM",
     "hora_utc": "2026-06-20 09:46",
@@ -110,45 +150,5 @@
     "mensaje": "Actualización del servicio eléctrico en la provincia.\n👉En este momento la afectación por déficit de capacidad de generación es de 119 MW, la demanda máxima posible a apagar en estos momentos.\n👉De los circuitos apagables se mantienen afectados 135.\n👉Cuenta con 300 afectaciones por averías secundarias de servicio.",
     "timestamp": 1781935334,
     "timestamp_local": 1781935334
-  },
-  {
-    "id": 48982,
-    "fecha": "20 de Jun del 2026 a las 01:02 AM",
-    "hora_utc": "2026-06-20 05:02",
-    "mensaje": "💡Con servicio el siguiente circuito:\n🔹Municipio Santa Clara:\n👉Cto 132 Santa Clara Industrial",
-    "timestamp": 1781931765,
-    "timestamp_local": 1781931765
-  },
-  {
-    "id": 48981,
-    "fecha": "20 de Jun del 2026 a las 12:27 AM",
-    "hora_utc": "2026-06-20 04:27",
-    "mensaje": "Con servicio el circuito 4 Consejo-Centro, del municipio Santa Clara.",
-    "timestamp": 1781929649,
-    "timestamp_local": 1781929649
-  },
-  {
-    "id": 48980,
-    "fecha": "20 de Jun del 2026 a las 12:26 AM",
-    "hora_utc": "2026-06-20 04:26",
-    "mensaje": "⚠Afectado el servicio eléctrico en el siguiente circuito:\n🔹Municipio Santa Clara:\n👉Cto 2 Consejo-Centro",
-    "timestamp": 1781929617,
-    "timestamp_local": 1781929617
-  },
-  {
-    "id": 48979,
-    "fecha": "20 de Jun del 2026 a las 12:25 AM",
-    "hora_utc": "2026-06-20 04:25",
-    "mensaje": "⚠Afectado el servicio eléctrico en los siguientes circuitos:\n🔹Municipio Santa Clara:\n👉Ctos 37 y 38 Yabú \n👉Cto 9 Moldes y Troqueles\n👉Cto 133 Taller Cafetera",
-    "timestamp": 1781929525,
-    "timestamp_local": 1781929525
-  },
-  {
-    "id": 48978,
-    "fecha": "20 de Jun del 2026 a las 12:15 AM",
-    "hora_utc": "2026-06-20 04:15",
-    "mensaje": "💡Con servicio el siguiente circuito:\n🔹Municipio Santa Clara:\n👉Cto 30 Santa Clara Industrial",
-    "timestamp": 1781928911,
-    "timestamp_local": 1781928911
   }
 ]
