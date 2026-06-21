@@ -1,5 +1,45 @@
 [
   {
+    "id": 49053,
+    "fecha": "21 de Jun del 2026 a las 03:14 AM",
+    "hora_utc": "2026-06-21 07:14",
+    "mensaje": "Afectados 119 MW en la provincia, demanda máxima a apagar en estos momentos.",
+    "timestamp": 1782026080,
+    "timestamp_local": 1782026080
+  },
+  {
+    "id": 49052,
+    "fecha": "21 de Jun del 2026 a las 02:13 AM",
+    "hora_utc": "2026-06-21 06:13",
+    "mensaje": "Actualización del servicio eléctrico en la provincia.\n👉En este momento la afectación por déficit de capacidad de generación es de 119 MW, la demanda máxima posible a apagar en estos momentos.\n👉De los circuitos apagables se mantienen afectados 135.\n👉Cuenta con 336 afectaciones por averías secundarias de servicio.",
+    "timestamp": 1782022392,
+    "timestamp_local": 1782022392
+  },
+  {
+    "id": 49051,
+    "fecha": "21 de Jun del 2026 a las 01:04 AM",
+    "hora_utc": "2026-06-21 05:04",
+    "mensaje": "Afectados 124 MW en la provincia, demanda máxima a apagar en estos momentos.",
+    "timestamp": 1782018284,
+    "timestamp_local": 1782018284
+  },
+  {
+    "id": 49050,
+    "fecha": "21 de Jun del 2026 a las 12:11 AM",
+    "hora_utc": "2026-06-21 04:11",
+    "mensaje": "🕛Actualización del servicio eléctrico.\n✍️El déficit de capacidad de generación en estos momentos es de 128 MW\n✍️En el momento de esta nota, se mantienen afectados 135 circuitos.\n✍️ Cuenta con 335 afectaciones por averías secundarias y de servicio:\n🔸 Caibarién (7)\n🔸 Camajuaní (6)\n🔸 Cifuentes (11)\n🔸 Manicaragua (16)\n🔸 Placetas (9)\n🔸 Quemado (3)\n🔸 Ranchuelo (10)\n🔸 Remedios (3)\n🔸 Sagua (5) \n🔸 Santa Clara (241)\n🔸 Santo Domingo (22)\n🛠️Pendientes a solucionar por el área técnica 21.\n⚡La provincia no presenta averías primarias:",
+    "timestamp": 1782015097,
+    "timestamp_local": 1782015097
+  },
+  {
+    "id": 49049,
+    "fecha": "20 de Jun del 2026 a las 11:06 PM",
+    "hora_utc": "2026-06-21 03:06",
+    "mensaje": "Afectados 137 MW en la provincia, demanda máxima a apagar en estos momentos.",
+    "timestamp": 1782011161,
+    "timestamp_local": 1782011161
+  },
+  {
     "id": 49048,
     "fecha": "20 de Jun del 2026 a las 10:04 PM",
     "hora_utc": "2026-06-21 02:04",
@@ -110,37 +150,5 @@
     "mensaje": "⚠Se encuentra disparado el Cto 4 Centro, perteneciente al municipio Santa Clara, se estudian las causas.",
     "timestamp": 1781988419,
     "timestamp_local": 1781988419
-  },
-  {
-    "id": 49033,
-    "fecha": "20 de Jun del 2026 a las 04:31 PM",
-    "hora_utc": "2026-06-20 20:31",
-    "mensaje": "⚠Afectado el servicio eléctrico en el siguiente circuito:\n🔹Municipio Santa Clara: \n👉Cto 170 José Martí",
-    "timestamp": 1781987507,
-    "timestamp_local": 1781987507
-  },
-  {
-    "id": 49031,
-    "fecha": "20 de Jun del 2026 a las 04:09 PM",
-    "hora_utc": "2026-06-20 20:09",
-    "mensaje": "Actualización del servicio eléctrico en la provincia.\n👉En este momento la afectación por déficit de capacidad de generación es de 136 MW, la demanda máxima posible a apagar en estos momentos.\n👉De los circuitos apagables se mantienen afectados 136.\n👉Cuenta con 312 afectaciones por averías secundarias de servicio.",
-    "timestamp": 1781986195,
-    "timestamp_local": 1781986195
-  },
-  {
-    "id": 49030,
-    "fecha": "20 de Jun del 2026 a las 04:09 PM",
-    "hora_utc": "2026-06-20 20:09",
-    "mensaje": "⚠Afectado el servicio eléctrico en los siguientes circuitos:\n🔹Municipio Santa Clara:\n👉Cto 1 Consejo- Centro\n🔹Municipio Camajuaní:\n👉Ctos 59 y 185 Vueltas\n🔹Municipio Camajuaní:\n👉Ctos 73 y 156",
-    "timestamp": 1781986151,
-    "timestamp_local": 1781986151
-  },
-  {
-    "id": 49029,
-    "fecha": "20 de Jun del 2026 a las 03:23 PM",
-    "hora_utc": "2026-06-20 19:23",
-    "mensaje": "Afectados 134 MW en la provincia, demanda máxima a apagar en estos momentos.",
-    "timestamp": 1781983404,
-    "timestamp_local": 1781983404
   }
 ]
