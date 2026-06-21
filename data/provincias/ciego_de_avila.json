@@ -1,5 +1,13 @@
 [
   {
+    "id": 38962,
+    "fecha": "21 de Jun del 2026 a las 05:54 PM",
+    "hora_utc": "2026-06-21 21:54",
+    "mensaje": "‼️ Información del déficit de generación ‼️   \n👉Tenemos un máximo apagable de 88 MW en la provincia afectados por déficit de generación.\n⏰ Con este déficit, la carga a apagar en la provincia no nos permite realizar una rotación estable de los circuitos, por lo que se afectarán o se restablecerán en dependencia del déficit que haya en cada momento de la jornada, que es muy variable.",
+    "timestamp": 1782078852,
+    "timestamp_local": 1782078852
+  },
+  {
     "id": 38961,
     "fecha": "21 de Jun del 2026 a las 04:23 PM",
     "hora_utc": "2026-06-21 20:23",
@@ -134,13 +142,5 @@
     "mensaje": "Una inquietud recurrente es por qué en el Telegram se publica un déficit de 100 MW a las 7:00 p.m. y que es el máximo apagable y a las 7:00 a.m. con 60 MW seguimos estando con el máximo apagable. Esto está dado en la curva de la demanda y la carga. A las 7:00 a.m. Ciego de Ávila tiene una demanda de alrededor de 85 MW, que con un déficit de 60 quedan disponibles 15 MW. En la noche, en el horario de máxima demanda, esta, es alrededor de los 115 MW y con un déficit de 100, quedan igualmente 15 MW. Aproximadamente la carga de los circuitos priorizados en cada momento, teniendo siempre en cuenta que debido al factor de coincidencia de carga un circuito que en tiempos normales su carga era de 3 MW, ahora es de 6 o 7 MW. La coincidencia de carga es producto a que todos, aprovechando el momento que tenemos servicio, conectamos cocinas, hornillas, lavadoras, turbinas de agua, aires acondicionados, refrigeradores, ventiladores, al unísono en todos los hogares, esto crea también otro problema, los transformadores se dañan, los drop out se abren. \nAhora la situacion es mas difícil, pues no llega a 10 MW, la disponibilidad, agravada por el bloqueo petrolero impuesto por el gobierno norteamericano, en el que ya los combinados lácteos no han podido ser protegidos, los circuitos A110, A208, Nereida y Micro Norte están siendo apagados igual que al resto de los circuitos. Sólo en contados días u horarios se les ha servido para la producción del alimento. \nPor eso en muchas ocasiones en que el déficit baja es imposible restablecer servicios a más circuitos, pues la carga a servir es la misma.",
     "timestamp": 1781982504,
     "timestamp_local": 1781982504
-  },
-  {
-    "id": 38942,
-    "fecha": "20 de Jun del 2026 a las 01:36 PM",
-    "hora_utc": "2026-06-20 17:36",
-    "mensaje": "✅Información..\n🔉Se encuentra restablecido el circuito 2.",
-    "timestamp": 1781976974,
-    "timestamp_local": 1781976974
   }
 ]
