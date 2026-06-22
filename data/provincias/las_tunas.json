@@ -1,5 +1,29 @@
 [
   {
+    "id": 19725,
+    "fecha": "22 de Jun del 2026 a las 04:08 PM",
+    "hora_utc": "2026-06-22 20:08",
+    "mensaje": "Se afecta por emergencia el circuito:TK4 Aeropuerto, Casa Piedra y Aurora",
+    "timestamp": 1782158911,
+    "timestamp_local": 1782158911
+  },
+  {
+    "id": 19724,
+    "fecha": "22 de Jun del 2026 a las 04:02 PM",
+    "hora_utc": "2026-06-22 20:02",
+    "mensaje": "Se declara en avería el circuito:TK110 El Batey",
+    "timestamp": 1782158557,
+    "timestamp_local": 1782158557
+  },
+  {
+    "id": 19723,
+    "fecha": "22 de Jun del 2026 a las 02:42 PM",
+    "hora_utc": "2026-06-22 18:42",
+    "mensaje": "La Empresa Eléctrica Las Tunas informa que, según la nota emitida por la Unión Eléctrica para el 22 de junio, en el día de ayer se afectó el servicio por déficit de capacidad durante las 24 horas y se mantuvo la afectación durante todo el horario de la madrugada. \nActualmente están fuera de servicio por avería las Unidades 6 y 8 de la CTE Máximo Gómez, Unidad de la CTE Antonio Guiteras, la Unidad 4 de la CTE Carlos Manuel de Céspedes, Unidad 2 de la CTE Lidio Ramón Pérez. \nEn mantenimiento se encuentran la Unidad 5 de la CTE Máximo Gómez, Unidad 3 de la CTE Ernesto Guevara De La Serna, Unidades 5 y 6 de la CTE Antonio Maceo, Unidad 5 de la CTE Diez de Octubre.\nEn el horario diurno se estima una afectación en el país de 1600 MW y en el horario pico nocturno se prevén 1950 MW de afectación.\nEn nuestra provincia, la máxima afectación en el horario diurno puede representar la totalidad de los circuitos apagables y en el horario pico nocturno puede extenderse igualmente a todos ellos, debido al alto déficit de capacidad de generación existente. Estos valores pueden variar en función de la demanda nacional, pero reflejan que, en las condiciones actuales, ningún circuito apagable está exento de posibles interrupciones.",
+    "timestamp": 1782153753,
+    "timestamp_local": 1782153753
+  },
+  {
     "id": 19719,
     "fecha": "22 de Jun del 2026 a las 08:23 AM",
     "hora_utc": "2026-06-22 12:23",
@@ -78,13 +102,5 @@
     "mensaje": "Nota Informativa: Estado del Sistema Eléctrico Nacional (SEN) – 21 de junio de 2026\n\nEn el día de ayer se afectó el servicio por déficit de capacidad durante las 24 horas y se mantuvo la afectación durante todo el horario de la madrugada. La máxima afectación por déficit de capacidad de generación en el día de ayer fue de 2008 MW a las 20:30 horas.\n\nLa producción de energía de los 54 nuevos parques solares fotovoltaicos fue de 3913 MWh, con 552 MW como máxima potencia entregada en el horario de la media con esta fuente de generación.\nEstado actual del SEN\n\nLa disponibilidad del SEN a las 06:00 horas es de 1080 MW, la demanda 2609 MW con 1548 MW afectados. En el horario de la media se estima una afectación de 1550 MW.\nPrincipales incidencias\n\nGeneración Térmica\n\n    Avería: Unidad 6 de la CTE Máximo Gómez, Unidad 2 de la CTE Ernesto Guevara De La Serna (en proceso de arranque), Unidad de la CTE Antonio Guiteras, la Unidad 4 de la CTE Carlos Manuel de Céspedes, Unidad 2 de la CTE Lidio Ramón Pérez.\n\n    Mantenimiento: Unidad 5 de la CTE Máximo Gómez, Unidad 3 de la CTE Ernesto Guevara De La Serna, Unidades 5 y 6 de la CTE Antonio Maceo, Unidad 5 de la CTE Diez de Octubre.\n\nTotal de MW afectados por esta causa: 333 MW fuera de servicio.\n\nGeneración Distribuida\n\n    Fuera de servicio 106 centrales de generación distribuida por indisponibilidad de combustible, con 890 MW.\n\n    Fuera de servicio la Patana de Regla, Patana de Melones, Central Fuel de Mariel y Central Fuel de Moa.\n\nTotal de MW indisponibles por combustible: 1203 MW\nPronóstico para el horario pico\n\nPara el pico se prevé la entrada de la unidad 2 de la CTE Ernesto Guevara con 80 MW.\n\nCon este pronóstico para el horario de máxima demanda se estima una disponibilidad de 1160 MW con una demanda máxima de 3100 MW, para un déficit de 1940 MW, por lo que de mantenerse las condiciones previstas se pronostica una afectación de 1970 MW en este horario.",
     "timestamp": 1782045934,
     "timestamp_local": 1782045934
-  },
-  {
-    "id": 19705,
-    "fecha": "21 de Jun del 2026 a las 07:42 AM",
-    "hora_utc": "2026-06-21 11:42",
-    "mensaje": "Queda seccionada la avería del TK 27 La Victoria, Solo afectando dos transformadores entre la calle Colón y la Feria. Se trabaja para dar solución con la mayor prontitud.",
-    "timestamp": 1782042172,
-    "timestamp_local": 1782042172
   }
 ]
