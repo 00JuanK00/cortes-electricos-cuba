@@ -1,5 +1,37 @@
 [
   {
+    "id": 54932,
+    "fecha": "21 de Jun del 2026 a las 10:12 PM",
+    "hora_utc": "2026-06-22 02:12",
+    "mensaje": "🛑**Déficit de Capacidad de Generación**:\nSe produce cuando la demanda del Sistema Eléctrico Nacional, en determinado horario del día supera la generación disponible del país, provocando la desconexión de los circuitos o líneas que permitan garantizar la frecuencia del SEN.",
+    "timestamp": 1782094337,
+    "timestamp_local": 1782094337
+  },
+  {
+    "id": 54931,
+    "fecha": "21 de Jun del 2026 a las 10:11 PM",
+    "hora_utc": "2026-06-22 02:11",
+    "mensaje": "🔴Informamos a nuestros clientes que en estos momentos se ha afectado por Déficit la Línea 5395-San Luis .",
+    "timestamp": 1782094299,
+    "timestamp_local": 1782094299
+  },
+  {
+    "id": 54930,
+    "fecha": "21 de Jun del 2026 a las 09:46 PM",
+    "hora_utc": "2026-06-22 01:46",
+    "mensaje": "📌Si presenta o conoce alguna avería, haga su reporte al Centro Telefónico mediante el 18888☎️.Gracias.",
+    "timestamp": 1782092768,
+    "timestamp_local": 1782092768
+  },
+  {
+    "id": 54929,
+    "fecha": "21 de Jun del 2026 a las 09:17 PM",
+    "hora_utc": "2026-06-22 01:17",
+    "mensaje": "📌Informamos a nuestros clientes que en estos momentos se incorporan a la afectación por Déficit los circuitos 21, 25, 17 , La Maya , Songo, LI 4390-Contramaestre y LI 4385-Contramaestre.",
+    "timestamp": 1782091035,
+    "timestamp_local": 1782091035
+  },
+  {
     "id": 54928,
     "fecha": "21 de Jun del 2026 a las 07:28 PM",
     "hora_utc": "2026-06-21 23:28",
@@ -118,37 +150,5 @@
     "mensaje": "🔴**Disparo:**\nApertura no voluntaria de un interruptor como vía de protección para desconectar uno o varios elementos del circuito, subestación o sistema, restableciéndose el servicio rápidamente en dependencia de la causa.",
     "timestamp": 1782060560,
     "timestamp_local": 1782060560
-  },
-  {
-    "id": 54912,
-    "fecha": "21 de Jun del 2026 a las 12:48 PM",
-    "hora_utc": "2026-06-21 16:48",
-    "mensaje": "🚨Estimados clientes en estos momentos se encuentra Disparado el circuito 14",
-    "timestamp": 1782060525,
-    "timestamp_local": 1782060525
-  },
-  {
-    "id": 54911,
-    "fecha": "21 de Jun del 2026 a las 12:45 PM",
-    "hora_utc": "2026-06-21 16:45",
-    "mensaje": "🚨Estimados clientes en estos momentos se encuentran afectados por Déficit de Capacidad de Generación el circuito 12",
-    "timestamp": 1782060353,
-    "timestamp_local": 1782060353
-  },
-  {
-    "id": 54910,
-    "fecha": "21 de Jun del 2026 a las 12:04 PM",
-    "hora_utc": "2026-06-21 16:04",
-    "mensaje": "🚨Estimados clientes en estos momentos se encuentran afectados por Déficit de Capacidad de Generación los circuitos 2 , San Juan y la Línea 5395 San Luis",
-    "timestamp": 1782057843,
-    "timestamp_local": 1782057843
-  },
-  {
-    "id": 54909,
-    "fecha": "21 de Jun del 2026 a las 11:41 AM",
-    "hora_utc": "2026-06-21 15:41",
-    "mensaje": "🚨Estimados clientes en estos momentos se encuentran afectados por Déficit de Capacidad de Generación el circuito 20",
-    "timestamp": 1782056468,
-    "timestamp_local": 1782056468
   }
 ]
