@@ -1,5 +1,29 @@
 [
   {
+    "id": 49308,
+    "fecha": "23 de Jun del 2026 a las 07:30 PM",
+    "hora_utc": "2026-06-23 23:30",
+    "mensaje": "Con servicio el circuito 2 Consejo-Centro, del municipio Santa Clara.",
+    "timestamp": 1782257427,
+    "timestamp_local": 1782257427
+  },
+  {
+    "id": 49307,
+    "fecha": "23 de Jun del 2026 a las 07:29 PM",
+    "hora_utc": "2026-06-23 23:29",
+    "mensaje": "Con servicio el circuito 15 Maleza, del municipio Santa Clara.",
+    "timestamp": 1782257378,
+    "timestamp_local": 1782257378
+  },
+  {
+    "id": 49306,
+    "fecha": "23 de Jun del 2026 a las 06:55 PM",
+    "hora_utc": "2026-06-23 22:55",
+    "mensaje": "🛠Afectado por disparo el circuito 15 Maleza, del municipio Santa Clara. Se estudian las causas.",
+    "timestamp": 1782255336,
+    "timestamp_local": 1782255336
+  },
+  {
     "id": 49305,
     "fecha": "23 de Jun del 2026 a las 06:39 PM",
     "hora_utc": "2026-06-23 22:39",
@@ -134,29 +158,5 @@
     "mensaje": "⚠Afectado el servicio eléctrico en los siguientes circuitos:\n🔹Municipio Santa Clara:\n👉Cto 146 Elevado Aeropuerto\n👉 Cto 24 Planta Asfalto",
     "timestamp": 1782244985,
     "timestamp_local": 1782244985
-  },
-  {
-    "id": 49288,
-    "fecha": "23 de Jun del 2026 a las 04:00 PM",
-    "hora_utc": "2026-06-23 20:00",
-    "mensaje": "Actualización del servicio eléctrico en la provincia.\n👉En este momento la afectación por déficit de capacidad de generación es de 102 MW, la demanda máxima posible a apagar en estos momentos.\n👉De los circuitos apagables se mantienen afectados 106.\n👉Cuenta con 366 afectaciones por averías secundarias de servicio.",
-    "timestamp": 1782244826,
-    "timestamp_local": 1782244826
-  },
-  {
-    "id": 49287,
-    "fecha": "23 de Jun del 2026 a las 03:58 PM",
-    "hora_utc": "2026-06-23 19:58",
-    "mensaje": "⚠Afectado el servicio eléctrico en los siguientes circuitos:\n🔹Municipio Santa Clara:\n👉Ctos 37 y 38 Yabú \n👉Cto 9 Moldes y Troqueles\n👉Cto 133 Taller Cafetera",
-    "timestamp": 1782244730,
-    "timestamp_local": 1782244730
-  },
-  {
-    "id": 49286,
-    "fecha": "23 de Jun del 2026 a las 03:46 PM",
-    "hora_utc": "2026-06-23 19:46",
-    "mensaje": "🛠Afectado por vía libre para realizar cambio de transformador, el circuito 4 Consejo-Centro, del municipio Santa Clara.",
-    "timestamp": 1782243986,
-    "timestamp_local": 1782243986
   }
 ]
