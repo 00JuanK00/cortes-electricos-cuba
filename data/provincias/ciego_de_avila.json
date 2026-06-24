@@ -1,5 +1,37 @@
 [
   {
+    "id": 39010,
+    "fecha": "24 de Jun del 2026 a las 04:09 AM",
+    "hora_utc": "2026-06-24 08:09",
+    "mensaje": "‼️ Información ‼️   \n👉Continuamos con 70 MW, tenemos el máximo apagable en la provincia afectados por déficit de generación. Con este déficit no podemos cumplir con una programación estable, por lo que los circuitos se afectarán o se restablecerán en dependencia del déficit que haya en cada momento de la jornada.",
+    "timestamp": 1782288544,
+    "timestamp_local": 1782288544
+  },
+  {
+    "id": 39009,
+    "fecha": "24 de Jun del 2026 a las 01:52 AM",
+    "hora_utc": "2026-06-24 05:52",
+    "mensaje": "‼️ Información del déficit de generación ‼️   \n👉En estos momentos   tenemos 70MW el máximo apagable en la provincia afectados por déficit de generación.\n⏰ Con este déficit, la carga a apagar en la provincia no nos permite realizar una rotación estable de los circuitos, por lo que se afectarán o se restablecerán en dependencia del déficit que haya en cada momento de la jornada, que es muy variable.",
+    "timestamp": 1782280352,
+    "timestamp_local": 1782280352
+  },
+  {
+    "id": 39008,
+    "fecha": "24 de Jun del 2026 a las 01:51 AM",
+    "hora_utc": "2026-06-24 05:51",
+    "mensaje": "🔉Información.\n👉 Se restablece el  servicio en  el circuito A110.",
+    "timestamp": 1782280302,
+    "timestamp_local": 1782280302
+  },
+  {
+    "id": 39007,
+    "fecha": "24 de Jun del 2026 a las 01:50 AM",
+    "hora_utc": "2026-06-24 05:50",
+    "mensaje": "👌Restablecido el servicio telefónico del 18888.",
+    "timestamp": 1782280256,
+    "timestamp_local": 1782280256
+  },
+  {
     "id": 39006,
     "fecha": "24 de Jun del 2026 a las 01:34 AM",
     "hora_utc": "2026-06-24 05:34",
@@ -110,29 +142,5 @@
     "mensaje": "‼️ Información ‼️   \n👉Continuamos con 80 MW, tenemos el máximo apagable en la provincia afectados por déficit de generación. Con este déficit no podemos cumplir con una programación estable, por lo que los circuitos se afectarán o se restablecerán en dependencia del déficit que haya en cada momento de la jornada.",
     "timestamp": 1782228880,
     "timestamp_local": 1782228880
-  },
-  {
-    "id": 38990,
-    "fecha": "23 de Jun del 2026 a las 08:24 AM",
-    "hora_utc": "2026-06-23 12:24",
-    "mensaje": "‼️ Información del déficit de generación ‼️   \n👉En estos momentos   tenemos 80MW el máximo apagable en la provincia afectados por déficit de generación.\n⏰ Con este déficit, la carga a apagar en la provincia no nos permite realizar una rotación estable de los circuitos, por lo que se afectarán o se restablecerán en dependencia del déficit que haya en cada momento de la jornada, que es muy variable.",
-    "timestamp": 1782217452,
-    "timestamp_local": 1782217452
-  },
-  {
-    "id": 38989,
-    "fecha": "23 de Jun del 2026 a las 07:52 AM",
-    "hora_utc": "2026-06-23 11:52",
-    "mensaje": "🚨Nota informativa.🚨 \n\n📅Situación del SEN para el 23 de junio de 2026.\n\n👉En el día de ayer se afectó el servicio por déficit de capacidad durante las 24 horas y se mantuvo la afectación durante todo el horario de la madrugada. \n\n▪️La máxima afectación por déficit de capacidad de generación en el día de ayer fue de 2037 MW a las 20:30 horas, por demanda superior a lo pronosticado.\n\n☀️La producción de energía de los 54 nuevos parques solares fotovoltaicos fue de 4579 MWh, con 631 MW como máxima potencia entregada en el horario de la media con esta fuente de generación.  \n\n▪️La disponibilidad del SEN a las 06:00 horas es de 1180 MW, la demanda 2780 MW con 1600 MW afectados. En el horario de la media se estima una afectación de 1450 MW.\n\n▪️Se encuentran en avería las unidades 6 y 8 de la CTE Mariel, la unidad 4 de la CTE Cienfuegos y la unidad 2 de la CTE Felton. \n\n🛠Se encuentran en mantenimiento la unidad 5 de la CTE Mariel, la unidad 3 de la CTE Santa Cruz, la unidad 5 de la CTE Nuevitas y las unidades 5 y 6 de la CTE Renté. \n \n▪️Las limitaciones en la generación térmica son de 410 MW.\n\n▪️Para el pico se prevé la entrada de la unidad 8 de la CTE Mariel con 35 MW. \n\n▪️Con este pronóstico para el horario de máxima demanda se estima una disponibilidad de 1215 MW con una demanda máxima de 3250 MW, para un déficit de 2035 MW, por lo que de mantenerse las condiciones previstas se pronostica una afectación de 2075 MW en este horario.\n\nUNE-MINEM",
-    "timestamp": 1782215579,
-    "timestamp_local": 1782215579
-  },
-  {
-    "id": 38988,
-    "fecha": "23 de Jun del 2026 a las 07:10 AM",
-    "hora_utc": "2026-06-23 11:10",
-    "mensaje": "‼️ Información ‼️   \n👉Continuamos con 84 MW, tenemos el máximo apagable en la provincia afectados por déficit de generación. Con este déficit no podemos cumplir con una programación estable, por lo que los circuitos se afectarán o se restablecerán en dependencia del déficit que haya en cada momento de la jornada.",
-    "timestamp": 1782213003,
-    "timestamp_local": 1782213003
   }
 ]
