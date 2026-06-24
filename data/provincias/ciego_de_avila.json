@@ -1,5 +1,13 @@
 [
   {
+    "id": 39012,
+    "fecha": "24 de Jun del 2026 a las 06:20 AM",
+    "hora_utc": "2026-06-24 10:20",
+    "mensaje": "‼️ Información del déficit de generación ‼️   \n👉En estos momentos   tenemos 69MW el máximo apagable en la provincia afectados por déficit de generación.\n⏰ Con este déficit, la carga a apagar en la provincia no nos permite realizar una rotación estable de los circuitos, por lo que se afectarán o se restablecerán en dependencia del déficit que haya en cada momento de la jornada, que es muy variable.",
+    "timestamp": 1782296418,
+    "timestamp_local": 1782296418
+  },
+  {
     "id": 39010,
     "fecha": "24 de Jun del 2026 a las 04:09 AM",
     "hora_utc": "2026-06-24 08:09",
@@ -134,13 +142,5 @@
     "mensaje": "📌 Estimados clientes📌\n \nQue significa e implica la máxima capacidad apagable en la provincia:                                                                                                \n📈 Máxima capacidad apagable se refiere al nivel máximo de demanda eléctrica que puede ser desconectada o suspendida temporalmente en la provincia, explica la complejidad del déficit de generación o contingencias en el sistema eléctrico.\nRepresenta el límite superior de la reducción de carga que la empresa puede lograr mediante cortes de energía (apagones). Cuanto mayor sea la máxima capacidad apagable, mayor será el déficit de energía.\n¿Qué implica esto?\nSe identifica cuántos circuitos pueden ser apagados para equilibrar la carga del sistema, esto imposibilita realizar rotaciones, pues a \nexcepción de los servicios priorizados, se encuentran afectados todos los circuitos apagables del territorio. Podrán presentarse afectaciones \nen el servicio de electricidad durante varias horas al día y el tiempo con servicio dependerá del comportamiento del SEN. Esta medida es \nnecesaria para evitar fallas mayores y proteger la infraestructura eléctrica.\n\n*Grupo de Comunicación Institucional.",
     "timestamp": 1782234632,
     "timestamp_local": 1782234632
-  },
-  {
-    "id": 38992,
-    "fecha": "23 de Jun del 2026 a las 11:34 AM",
-    "hora_utc": "2026-06-23 15:34",
-    "mensaje": "‼️ Información ‼️   \n👉Continuamos con 80 MW, tenemos el máximo apagable en la provincia afectados por déficit de generación. Con este déficit no podemos cumplir con una programación estable, por lo que los circuitos se afectarán o se restablecerán en dependencia del déficit que haya en cada momento de la jornada.",
-    "timestamp": 1782228880,
-    "timestamp_local": 1782228880
   }
 ]
