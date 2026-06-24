@@ -1,5 +1,21 @@
 [
   {
+    "id": 39018,
+    "fecha": "24 de Jun del 2026 a las 02:10 PM",
+    "hora_utc": "2026-06-24 18:10",
+    "mensaje": "🔉Información:\n👉 Restablecido el servicio telefónico del ☎️18888.",
+    "timestamp": 1782324658,
+    "timestamp_local": 1782324658
+  },
+  {
+    "id": 39017,
+    "fecha": "24 de Jun del 2026 a las 02:04 PM",
+    "hora_utc": "2026-06-24 18:04",
+    "mensaje": "‼️ Información del déficit de generación ‼️   \n👉En estos momentos tenemos 73 MW el máximo apagable en la provincia afectados por déficit de generación.\n⏰ Con este déficit, la carga a apagar en la provincia no nos permite realizar una rotación estable de los circuitos, por lo que se afectarán o se restablecerán en dependencia del déficit que haya en cada momento de la jornada, que es muy variable.",
+    "timestamp": 1782324276,
+    "timestamp_local": 1782324276
+  },
+  {
     "id": 39016,
     "fecha": "24 de Jun del 2026 a las 11:46 AM",
     "hora_utc": "2026-06-24 15:46",
@@ -126,21 +142,5 @@
     "mensaje": "‼️ Información ‼️   \n👉Continuamos con 86 MW, tenemos el máximo apagable en la provincia afectados por déficit de generación. Con este déficit no podemos cumplir con una programación estable, por lo que los circuitos se afectarán o se restablecerán en dependencia del déficit que haya en cada momento de la jornada.",
     "timestamp": 1782257338,
     "timestamp_local": 1782257338
-  },
-  {
-    "id": 38998,
-    "fecha": "23 de Jun del 2026 a las 05:27 PM",
-    "hora_utc": "2026-06-23 21:27",
-    "mensaje": "‼️Información‼️\n\n⏰ Los circuitos  restablecidos tendrán servicio por un estimado de 1 hora y 30 min aproximadamente en dependencia del déficit solicitado en cada momento de la jornada que es muy variable.",
-    "timestamp": 1782250025,
-    "timestamp_local": 1782250025
-  },
-  {
-    "id": 38997,
-    "fecha": "23 de Jun del 2026 a las 05:26 PM",
-    "hora_utc": "2026-06-23 21:26",
-    "mensaje": "‼️ Información ‼️   \n👉En estos momentos tenemos  86 MW el máximo apagable en la provincia afectados por déficit de generación. Con este déficit no podemos cumplir con una programación estable, por lo que los circuitos se afectarán o se restablecerán en dependencia del déficit que haya en cada momento de la jornada.",
-    "timestamp": 1782249998,
-    "timestamp_local": 1782249998
   }
 ]
