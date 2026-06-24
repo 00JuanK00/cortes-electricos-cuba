@@ -1,9 +1,49 @@
 [
   {
+    "id": 39006,
+    "fecha": "24 de Jun del 2026 a las 01:34 AM",
+    "hora_utc": "2026-06-24 05:34",
+    "mensaje": "🔉Información:\n👉 Se encuentra afectado el servicio telefónico del ☎️18888, se trabaja para restablecer lo antes posible.",
+    "timestamp": 1782279253,
+    "timestamp_local": 1782279253
+  },
+  {
+    "id": 39005,
+    "fecha": "24 de Jun del 2026 a las 01:34 AM",
+    "hora_utc": "2026-06-24 05:34",
+    "mensaje": "🔉Información.\n👉 Se encuentra sin servicio el circuito A110, se trabaja para restablecer el servicio en el menor tiempo posible.",
+    "timestamp": 1782279253,
+    "timestamp_local": 1782279253
+  },
+  {
+    "id": 39004,
+    "fecha": "24 de Jun del 2026 a las 12:20 AM",
+    "hora_utc": "2026-06-24 04:20",
+    "mensaje": "‼️ Información ‼️   \n👉Continuamos con 78 MW, tenemos el máximo apagable en la provincia afectados por déficit de generación. Con este déficit no podemos cumplir con una programación estable, por lo que los circuitos se afectarán o se restablecerán en dependencia del déficit que haya en cada momento de la jornada.",
+    "timestamp": 1782274800,
+    "timestamp_local": 1782274800
+  },
+  {
+    "id": 39002,
+    "fecha": "23 de Jun del 2026 a las 10:37 PM",
+    "hora_utc": "2026-06-24 02:37",
+    "mensaje": "‼️ Información del déficit de generación ‼️   \n👉En estos momentos   tenemos 80MW el máximo apagable en la provincia afectados por déficit de generación.\n⏰ Con este déficit, la carga a apagar en la provincia no nos permite realizar una rotación estable de los circuitos, por lo que se afectarán o se restablecerán en dependencia del déficit que haya en cada momento de la jornada, que es muy variable.",
+    "timestamp": 1782268646,
+    "timestamp_local": 1782268646
+  },
+  {
+    "id": 39001,
+    "fecha": "23 de Jun del 2026 a las 10:35 PM",
+    "hora_utc": "2026-06-24 02:35",
+    "mensaje": "🔉Información.\n👉 Se están realizando manipulaciones en el circuito 1 para restablecer una parte afectada, en breve se restablecerá el servicio.",
+    "timestamp": 1782268542,
+    "timestamp_local": 1782268542
+  },
+  {
     "id": 39000,
     "fecha": "23 de Jun del 2026 a las 08:58 PM",
     "hora_utc": "2026-06-24 00:58",
-    "mensaje": "‼️ Información ‼️   \n👉En estos momentos tenemos  89 MW tenemos el máximo apagable en la provincia afectados por déficit de generación. Con este déficit no podemos cumplir con una programación estable, por lo que los circuitos se afectarán o se restablecerán en dependencia del déficit que haya en cada momento de la jornada.",
+    "mensaje": "‼️ Información ‼️   \n👉En estos momentos tenemos  89 MW el máximo apagable en la provincia afectados por déficit de generación. Con este déficit no podemos cumplir con una programación estable, por lo que los circuitos se afectarán o se restablecerán en dependencia del déficit que haya en cada momento de la jornada.",
     "timestamp": 1782262686,
     "timestamp_local": 1782262686
   },
@@ -27,7 +67,7 @@
     "id": 38997,
     "fecha": "23 de Jun del 2026 a las 05:26 PM",
     "hora_utc": "2026-06-23 21:26",
-    "mensaje": "‼️ Información ‼️   \n👉En estos momentos tenemos  86 MW tenemos el máximo apagable en la provincia afectados por déficit de generación. Con este déficit no podemos cumplir con una programación estable, por lo que los circuitos se afectarán o se restablecerán en dependencia del déficit que haya en cada momento de la jornada.",
+    "mensaje": "‼️ Información ‼️   \n👉En estos momentos tenemos  86 MW el máximo apagable en la provincia afectados por déficit de generación. Con este déficit no podemos cumplir con una programación estable, por lo que los circuitos se afectarán o se restablecerán en dependencia del déficit que haya en cada momento de la jornada.",
     "timestamp": 1782249998,
     "timestamp_local": 1782249998
   },
@@ -94,53 +134,5 @@
     "mensaje": "‼️ Información ‼️   \n👉Continuamos con 84 MW, tenemos el máximo apagable en la provincia afectados por déficit de generación. Con este déficit no podemos cumplir con una programación estable, por lo que los circuitos se afectarán o se restablecerán en dependencia del déficit que haya en cada momento de la jornada.",
     "timestamp": 1782213003,
     "timestamp_local": 1782213003
-  },
-  {
-    "id": 38986,
-    "fecha": "23 de Jun del 2026 a las 05:06 AM",
-    "hora_utc": "2026-06-23 09:06",
-    "mensaje": "‼️ Información ‼️   \n👉Continuamos con 84 MW, tenemos el máximo apagable en la provincia afectados por déficit de generación. Con este déficit no podemos cumplir con una programación estable, por lo que los circuitos se afectarán o se restablecerán en dependencia del déficit que haya en cada momento de la jornada.",
-    "timestamp": 1782205597,
-    "timestamp_local": 1782205597
-  },
-  {
-    "id": 38985,
-    "fecha": "23 de Jun del 2026 a las 02:50 AM",
-    "hora_utc": "2026-06-23 06:50",
-    "mensaje": "‼️ Información ‼️   \n👉Continuamos con 84 MW, tenemos el máximo apagable en la provincia afectados por déficit de generación. Con este déficit no podemos cumplir con una programación estable, por lo que los circuitos se afectarán o se restablecerán en dependencia del déficit que haya en cada momento de la jornada.",
-    "timestamp": 1782197418,
-    "timestamp_local": 1782197418
-  },
-  {
-    "id": 38984,
-    "fecha": "22 de Jun del 2026 a las 11:54 PM",
-    "hora_utc": "2026-06-23 03:54",
-    "mensaje": "‼️Información‼️\n\n⏰ Los circuitos  restablecidos tendrán servicio por un estimado de 1 hora y 30 min aproximadamente en dependencia del déficit solicitado en cada momento de la jornada que es muy variable.",
-    "timestamp": 1782186869,
-    "timestamp_local": 1782186869
-  },
-  {
-    "id": 38983,
-    "fecha": "22 de Jun del 2026 a las 11:03 PM",
-    "hora_utc": "2026-06-23 03:03",
-    "mensaje": "‼️ Información ‼️   \n👉Continuamos con 84 MW, tenemos el máximo apagable en la provincia afectados por déficit de generación. Con este déficit no podemos cumplir con una programación estable, por lo que los circuitos se afectarán o se restablecerán en dependencia del déficit que haya en cada momento de la jornada.",
-    "timestamp": 1782183823,
-    "timestamp_local": 1782183823
-  },
-  {
-    "id": 38982,
-    "fecha": "22 de Jun del 2026 a las 09:03 PM",
-    "hora_utc": "2026-06-23 01:03",
-    "mensaje": "‼️ Información ‼️   \n👉Continuamos con 84 MW, tenemos el máximo apagable en la provincia afectados por déficit de generación. Con este déficit no podemos cumplir con una programación estable, por lo que los circuitos se afectarán o se restablecerán en dependencia del déficit que haya en cada momento de la jornada.",
-    "timestamp": 1782176593,
-    "timestamp_local": 1782176593
-  },
-  {
-    "id": 38981,
-    "fecha": "22 de Jun del 2026 a las 08:43 PM",
-    "hora_utc": "2026-06-23 00:43",
-    "mensaje": "👉Terminadas las manipulaciones del circuito A208, continúan afectados por déficit de generación.",
-    "timestamp": 1782175390,
-    "timestamp_local": 1782175390
   }
 ]
