@@ -1,5 +1,69 @@
 [
   {
+    "id": 55098,
+    "fecha": "25 de Jun del 2026 a las 05:32 PM",
+    "hora_utc": "2026-06-25 21:32",
+    "mensaje": "🔴**Disparo:**\nApertura no voluntaria de un interruptor como vía de protección para desconectar uno o varios elementos del circuito, subestación o sistema, restableciéndose el servicio rápidamente en dependencia de la causa.",
+    "timestamp": 1782423131,
+    "timestamp_local": 1782423131
+  },
+  {
+    "id": 55097,
+    "fecha": "25 de Jun del 2026 a las 05:31 PM",
+    "hora_utc": "2026-06-25 21:31",
+    "mensaje": "🚨 Estimados clientes se encuentran disparados los circuitos 14, 15 y 16 de Santiago.",
+    "timestamp": 1782423091,
+    "timestamp_local": 1782423091
+  },
+  {
+    "id": 55096,
+    "fecha": "25 de Jun del 2026 a las 05:14 PM",
+    "hora_utc": "2026-06-25 21:14",
+    "mensaje": "🚨 Estimados clientes en estos momentos se encuentran afectados por Déficit de Capacidad de Generación los circuitos 11 seccionalizado y la línea 5390- La Maya, disculpen por las molestias ocasionadas.",
+    "timestamp": 1782422088,
+    "timestamp_local": 1782422088
+  },
+  {
+    "id": 55095,
+    "fecha": "25 de Jun del 2026 a las 04:53 PM",
+    "hora_utc": "2026-06-25 20:53",
+    "mensaje": "🚨 Estimados clientes en estos momentos se encuentran afectados por Déficit de Capacidad de Generación las líneas 5330- Cristo y 4390- Contramaestre, disculpen por las molestias ocasionadas.",
+    "timestamp": 1782420835,
+    "timestamp_local": 1782420835
+  },
+  {
+    "id": 55094,
+    "fecha": "25 de Jun del 2026 a las 04:42 PM",
+    "hora_utc": "2026-06-25 20:42",
+    "mensaje": "🔴**Manipulaciones:**\nAcción que se realizan en los circuitos para dar paso al trabajo en zonas afectadas por Averías o Vía Libre y posteriormente para restablecer el servicio eléctrico en los circuitos que se encontraban afectados y en los que se trabaja con anterioridad, luego de culminadas las labores pertinentes.",
+    "timestamp": 1782420138,
+    "timestamp_local": 1782420138
+  },
+  {
+    "id": 55093,
+    "fecha": "25 de Jun del 2026 a las 04:41 PM",
+    "hora_utc": "2026-06-25 20:41",
+    "mensaje": "🔴Se les informa a nuestros clientes que esta afectado el circuito 16 por Manipulación .",
+    "timestamp": 1782420114,
+    "timestamp_local": 1782420114
+  },
+  {
+    "id": 55092,
+    "fecha": "25 de Jun del 2026 a las 04:37 PM",
+    "hora_utc": "2026-06-25 20:37",
+    "mensaje": "🚨**Disparo Automático de Frecuencia (DAF):**\n**Ocurre cuando la frecuencia está por debajo de los 60Hz y determinada carga o circuito se desconecta del sistema automáticamente hasta que se estabilice.**",
+    "timestamp": 1782419823,
+    "timestamp_local": 1782419823
+  },
+  {
+    "id": 55091,
+    "fecha": "25 de Jun del 2026 a las 04:36 PM",
+    "hora_utc": "2026-06-25 20:36",
+    "mensaje": "🔴Se les informa a nuestros clientes que se encuentra afectado por DAF el circuito 14 .",
+    "timestamp": 1782419793,
+    "timestamp_local": 1782419793
+  },
+  {
     "id": 55090,
     "fecha": "25 de Jun del 2026 a las 04:19 PM",
     "hora_utc": "2026-06-25 20:19",
@@ -86,53 +150,5 @@
     "mensaje": "🔵Se les comunica que se incorporan a la afectación el circuito 2 de Palma , Línea 5390-La Maya-ll Frente y Línea 5975-Baconao.",
     "timestamp": 1782407955,
     "timestamp_local": 1782407955
-  },
-  {
-    "id": 55076,
-    "fecha": "25 de Jun del 2026 a las 11:34 AM",
-    "hora_utc": "2026-06-25 15:34",
-    "mensaje": "🟡Se les comunica que se incorpora a la afectación por Déficit el circuito 7 secc.",
-    "timestamp": 1782401673,
-    "timestamp_local": 1782401673
-  },
-  {
-    "id": 55075,
-    "fecha": "25 de Jun del 2026 a las 11:18 AM",
-    "hora_utc": "2026-06-25 15:18",
-    "mensaje": "🟡**Vía Libre:**\n**Trabajos planificados o por emergencias que se realizan con el fin de construir y mantener líneas aéreas y soterradas; así como contribuir a la constante mejora en la entrega de la energía eléctrica.**",
-    "timestamp": 1782400687,
-    "timestamp_local": 1782400687
-  },
-  {
-    "id": 55074,
-    "fecha": "25 de Jun del 2026 a las 11:15 AM",
-    "hora_utc": "2026-06-25 15:15",
-    "mensaje": "🟠Informamos a nuestros clientes que se encuentra afectado el circuito 10 por una Vía Libre .",
-    "timestamp": 1782400539,
-    "timestamp_local": 1782400539
-  },
-  {
-    "id": 55073,
-    "fecha": "25 de Jun del 2026 a las 11:04 AM",
-    "hora_utc": "2026-06-25 15:04",
-    "mensaje": "🟠Informamos a nuestros clientes que se incorporan a la afectación por Déficit el circuito 26 y la Línea 5390-La Maya.",
-    "timestamp": 1782399855,
-    "timestamp_local": 1782399855
-  },
-  {
-    "id": 55072,
-    "fecha": "25 de Jun del 2026 a las 11:01 AM",
-    "hora_utc": "2026-06-25 15:01",
-    "mensaje": "⚪️ Se les reitera a nuestros clientes que el restablecimiento del servicio eléctrico estará en dependencia del comportamiento del SEN.",
-    "timestamp": 1782399682,
-    "timestamp_local": 1782399682
-  },
-  {
-    "id": 55071,
-    "fecha": "25 de Jun del 2026 a las 10:15 AM",
-    "hora_utc": "2026-06-25 14:15",
-    "mensaje": "🔴Si presenta o conoce alguna avería, haga su reporte al Centro Telefónico mediante el 18888.Gracias.",
-    "timestamp": 1782396940,
-    "timestamp_local": 1782396940
   }
 ]
