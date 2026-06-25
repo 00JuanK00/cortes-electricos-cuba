@@ -1,5 +1,45 @@
 [
   {
+    "id": 49403,
+    "fecha": "24 de Jun del 2026 a las 09:20 PM",
+    "hora_utc": "2026-06-25 01:20",
+    "mensaje": "⚠Afectado por emergencia el Cto 4 Centro, perteneciente al municipio Santa Clara, por incendio en transformador.",
+    "timestamp": 1782350410,
+    "timestamp_local": 1782350410
+  },
+  {
+    "id": 49402,
+    "fecha": "24 de Jun del 2026 a las 09:09 PM",
+    "hora_utc": "2026-06-25 01:09",
+    "mensaje": "🔴 17:48 || Fuera de línea la Unidad de la CTE Antonio Guiteras.",
+    "timestamp": 1782349789,
+    "timestamp_local": 1782349789
+  },
+  {
+    "id": 49401,
+    "fecha": "24 de Jun del 2026 a las 09:09 PM",
+    "hora_utc": "2026-06-25 01:09",
+    "mensaje": "Afectados 121 MW en la provincia, demanda máxima a apagar en estos momentos.",
+    "timestamp": 1782349770,
+    "timestamp_local": 1782349770
+  },
+  {
+    "id": 49399,
+    "fecha": "24 de Jun del 2026 a las 08:03 PM",
+    "hora_utc": "2026-06-25 00:03",
+    "mensaje": "Actualización del servicio eléctrico en la provincia.\n👉En este momento la afectación por déficit de capacidad de generación es de 122 MW, la demanda máxima posible a apagar en estos momentos.\n👉De los circuitos apagables se mantienen afectados 122.\n👉Cuenta con 324 afectaciones por averías secundarias de servicio.",
+    "timestamp": 1782345809,
+    "timestamp_local": 1782345809
+  },
+  {
+    "id": 49398,
+    "fecha": "24 de Jun del 2026 a las 07:09 PM",
+    "hora_utc": "2026-06-24 23:09",
+    "mensaje": "Afectados 124 MW en la provincia, demanda máxima a apagar en estos momentos.",
+    "timestamp": 1782342571,
+    "timestamp_local": 1782342571
+  },
+  {
     "id": 49397,
     "fecha": "24 de Jun del 2026 a las 06:13 PM",
     "hora_utc": "2026-06-24 22:13",
@@ -102,53 +142,5 @@
     "mensaje": "💡Con servicio eléctrico los siguientes circuitos:\n🔹Municipio Santa Clara\n👉Cto 141 Manuelita\n🔹Municipio Ranchuelo:\n👉Cto 92 Esperanza (Pueblo)\n👉Cto 93 Esperanza (Campo)",
     "timestamp": 1782326819,
     "timestamp_local": 1782326819
-  },
-  {
-    "id": 49383,
-    "fecha": "24 de Jun del 2026 a las 02:45 PM",
-    "hora_utc": "2026-06-24 18:45",
-    "mensaje": "⚠Afectado el servicio eléctrico en el siguiente circuito:\n🔹Municipio Santa Clara\n👉Cto 26 Manuelita",
-    "timestamp": 1782326735,
-    "timestamp_local": 1782326735
-  },
-  {
-    "id": 49382,
-    "fecha": "24 de Jun del 2026 a las 02:25 PM",
-    "hora_utc": "2026-06-24 18:25",
-    "mensaje": "⚠Afectado el servicio eléctrico en el siguiente circuito:\n🔹Municipio Manicaragua:\n👉Cto 111 Mataguá",
-    "timestamp": 1782325526,
-    "timestamp_local": 1782325526
-  },
-  {
-    "id": 49381,
-    "fecha": "24 de Jun del 2026 a las 02:04 PM",
-    "hora_utc": "2026-06-24 18:04",
-    "mensaje": "💡Con servicio eléctrico los siguientes circuitos:\n🔹Municipio Manicaragua:\n👉Ctos 109 y 150",
-    "timestamp": 1782324254,
-    "timestamp_local": 1782324254
-  },
-  {
-    "id": 49380,
-    "fecha": "24 de Jun del 2026 a las 02:02 PM",
-    "hora_utc": "2026-06-24 18:02",
-    "mensaje": "Actualización del servicio eléctrico en la provincia.\n👉En este momento la afectación por déficit de capacidad de generación es de 106 MW, la demanda máxima posible a apagar en estos momentos.\n👉De los circuitos apagables se mantienen afectados 122.\n👉Cuenta con 379 afectaciones por averías secundarias de servicio.",
-    "timestamp": 1782324129,
-    "timestamp_local": 1782324129
-  },
-  {
-    "id": 49379,
-    "fecha": "24 de Jun del 2026 a las 01:32 PM",
-    "hora_utc": "2026-06-24 17:32",
-    "mensaje": "💡Con servicio eléctrico el siguiente circuito:\n🔹Municipio Santa Clara: \n👉Cto 167 Virginia",
-    "timestamp": 1782322328,
-    "timestamp_local": 1782322328
-  },
-  {
-    "id": 49378,
-    "fecha": "24 de Jun del 2026 a las 01:31 PM",
-    "hora_utc": "2026-06-24 17:31",
-    "mensaje": "⚠Afectado el servicio eléctrico en el siguiente circuito:\n🔹Municipio Santa Clara:\n👉Cto 31 Sakenaf",
-    "timestamp": 1782322285,
-    "timestamp_local": 1782322285
   }
 ]
