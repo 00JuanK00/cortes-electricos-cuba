@@ -1,5 +1,21 @@
 [
   {
+    "id": 49412,
+    "fecha": "25 de Jun del 2026 a las 03:01 AM",
+    "hora_utc": "2026-06-25 07:01",
+    "mensaje": "Afectados 96 MW en la provincia, demanda máxima a apagar en estos momentos.",
+    "timestamp": 1782370887,
+    "timestamp_local": 1782370887
+  },
+  {
+    "id": 49411,
+    "fecha": "25 de Jun del 2026 a las 02:03 AM",
+    "hora_utc": "2026-06-25 06:03",
+    "mensaje": "Actualización del servicio eléctrico en la provincia.\n👉En este momento la afectación por déficit de capacidad de generación es de 100 MW, la demanda máxima posible a apagar en estos momentos.\n👉De los circuitos apagables se mantienen afectados 122.\n👉Cuenta con 238 afectaciones por averías secundarias de servicio.",
+    "timestamp": 1782367435,
+    "timestamp_local": 1782367435
+  },
+  {
     "id": 49410,
     "fecha": "25 de Jun del 2026 a las 01:13 AM",
     "hora_utc": "2026-06-25 05:13",
@@ -134,13 +150,5 @@
     "mensaje": "⚠Afectado el servicio eléctrico en el siguiente circuito:\n🔹Municipio Santa Clara:\n👉Cto 2 Consejo- Centro",
     "timestamp": 1782331223,
     "timestamp_local": 1782331223
-  },
-  {
-    "id": 49392,
-    "fecha": "24 de Jun del 2026 a las 03:56 PM",
-    "hora_utc": "2026-06-24 19:56",
-    "mensaje": "⚠Afectado el servicio eléctrico en los siguientes circuitos:\n🔹Municipio Santa Clara:\n👉Cto 5 Dobarganes\n👉Cto 17 Subplanta",
-    "timestamp": 1782330992,
-    "timestamp_local": 1782330992
   }
 ]
