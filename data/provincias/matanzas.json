@@ -1,5 +1,37 @@
 [
   {
+    "id": 36599,
+    "fecha": "26 de Jun del 2026 a las 10:17 AM",
+    "hora_utc": "2026-06-26 14:17",
+    "mensaje": "El déficit de capacidad de generación que presenta la provincia en estos momentos es de 146 MW",
+    "timestamp": 1782483434,
+    "timestamp_local": 1782483434
+  },
+  {
+    "id": 36598,
+    "fecha": "26 de Jun del 2026 a las 09:17 AM",
+    "hora_utc": "2026-06-26 13:17",
+    "mensaje": "El déficit de capacidad de generación que presenta la provincia en estos momentos es de 143 MW",
+    "timestamp": 1782479845,
+    "timestamp_local": 1782479845
+  },
+  {
+    "id": 36597,
+    "fecha": "26 de Jun del 2026 a las 09:11 AM",
+    "hora_utc": "2026-06-26 13:11",
+    "mensaje": "Se reporta transformador dañado en Matanzas San Juan entre San Isidro y Santa Cecilia con 60 clientes afectados",
+    "timestamp": 1782479461,
+    "timestamp_local": 1782479461
+  },
+  {
+    "id": 36596,
+    "fecha": "26 de Jun del 2026 a las 08:31 AM",
+    "hora_utc": "2026-06-26 12:31",
+    "mensaje": "Se reporta en fallo:\n\nMU 4475 afectando a Playa Larga y Playa Girón.",
+    "timestamp": 1782477061,
+    "timestamp_local": 1782477061
+  },
+  {
     "id": 36595,
     "fecha": "26 de Jun del 2026 a las 08:01 AM",
     "hora_utc": "2026-06-26 12:01",
@@ -126,37 +158,5 @@
     "mensaje": "Circuitos no apagables que se afectarán debido al alto déficit:\n\n• Circuitos GI101,  JI48, Z130,  y CI185 se afectarán de 14:00 pm a 18:00 pm.\n\n• Circuito MK1183 se afectará de 1:00 pm a 17:00 pm.",
     "timestamp": 1782406967,
     "timestamp_local": 1782406967
-  },
-  {
-    "id": 36579,
-    "fecha": "25 de Jun del 2026 a las 12:57 PM",
-    "hora_utc": "2026-06-25 16:57",
-    "mensaje": "⚠Se comunica a nuestros clientes que se encuentra en avería :\n\n▪️MU4955 se afecta Mocha, San Francisco la Julia afectando a 4347 clientes.",
-    "timestamp": 1782406675,
-    "timestamp_local": 1782406675
-  },
-  {
-    "id": 36578,
-    "fecha": "25 de Jun del 2026 a las 12:55 PM",
-    "hora_utc": "2026-06-25 16:55",
-    "mensaje": "ATENCIÓN: Se encuentran afectados los transformadores dañados perteneciente a los siguientes circuitos : \nJaguey barrio Eudelvis afectando 40 clientes.\nCardenas Ruiz , Industria y Obispo afectando a 70 clientes.\nColon Mario Muñoz entre E.Hernandez y Mariana Grajakes afectando a 30 clientes.\nColon Mario Muñoz entre Marianao Grajales y Marta Abreu afectando a 35 clientes.",
-    "timestamp": 1782406536,
-    "timestamp_local": 1782406536
-  },
-  {
-    "id": 36577,
-    "fecha": "25 de Jun del 2026 a las 12:05 PM",
-    "hora_utc": "2026-06-25 16:05",
-    "mensaje": "📢ACTUALIZAMOS:\n⚡ Déficit de capacidad de generación en la provincia: *  159 MW .* ⚡",
-    "timestamp": 1782403544,
-    "timestamp_local": 1782403544
-  },
-  {
-    "id": 36576,
-    "fecha": "25 de Jun del 2026 a las 10:14 AM",
-    "hora_utc": "2026-06-25 14:14",
-    "mensaje": "Actualización del Sistema Electroenergético Nacional para el 25 de junio de 2026.\n\nPronóstico de afectación:\nPara el mediodía: 1550 MW\nPara el pico de la noche: 2056 MW\n\nLeer más: https://www.unionelectrica.cu/nota-informativa/\n\n#UnidosXCuba #UniónEléctrica #UNE #NotaInformativa",
-    "timestamp": 1782396890,
-    "timestamp_local": 1782396890
   }
 ]
