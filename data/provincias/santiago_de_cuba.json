@@ -1,5 +1,21 @@
 [
   {
+    "id": 55112,
+    "fecha": "26 de Jun del 2026 a las 07:43 AM",
+    "hora_utc": "2026-06-26 11:43",
+    "mensaje": "🚨 Estimados clientes en estos momentos se encuentran afectados por Déficit de Capacidad de Generación los circuitos 1 y 2 de Palma, disculpen por las molestias ocasionadas.",
+    "timestamp": 1782474190,
+    "timestamp_local": 1782474190
+  },
+  {
+    "id": 55111,
+    "fecha": "26 de Jun del 2026 a las 07:18 AM",
+    "hora_utc": "2026-06-26 11:18",
+    "mensaje": "🚨 Estimados clientes se encuentra afectado por Déficit de Capacidad de Generación el circuito 17 de Santiago.",
+    "timestamp": 1782472696,
+    "timestamp_local": 1782472696
+  },
+  {
     "id": 55110,
     "fecha": "26 de Jun del 2026 a las 05:46 AM",
     "hora_utc": "2026-06-26 09:46",
@@ -110,29 +126,5 @@
     "mensaje": "🔴**Manipulaciones:**\nAcción que se realizan en los circuitos para dar paso al trabajo en zonas afectadas por Averías o Vía Libre y posteriormente para restablecer el servicio eléctrico en los circuitos que se encontraban afectados y en los que se trabaja con anterioridad, luego de culminadas las labores pertinentes.",
     "timestamp": 1782420138,
     "timestamp_local": 1782420138
-  },
-  {
-    "id": 55093,
-    "fecha": "25 de Jun del 2026 a las 04:41 PM",
-    "hora_utc": "2026-06-25 20:41",
-    "mensaje": "🔴Se les informa a nuestros clientes que esta afectado el circuito 16 por Manipulación .",
-    "timestamp": 1782420114,
-    "timestamp_local": 1782420114
-  },
-  {
-    "id": 55092,
-    "fecha": "25 de Jun del 2026 a las 04:37 PM",
-    "hora_utc": "2026-06-25 20:37",
-    "mensaje": "🚨**Disparo Automático de Frecuencia (DAF):**\n**Ocurre cuando la frecuencia está por debajo de los 60Hz y determinada carga o circuito se desconecta del sistema automáticamente hasta que se estabilice.**",
-    "timestamp": 1782419823,
-    "timestamp_local": 1782419823
-  },
-  {
-    "id": 55091,
-    "fecha": "25 de Jun del 2026 a las 04:36 PM",
-    "hora_utc": "2026-06-25 20:36",
-    "mensaje": "🔴Se les informa a nuestros clientes que se encuentra afectado por DAF el circuito 14 .",
-    "timestamp": 1782419793,
-    "timestamp_local": 1782419793
   }
 ]

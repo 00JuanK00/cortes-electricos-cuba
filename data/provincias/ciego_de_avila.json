@@ -1,5 +1,29 @@
 [
   {
+    "id": 39049,
+    "fecha": "26 de Jun del 2026 a las 08:00 AM",
+    "hora_utc": "2026-06-26 12:00",
+    "mensaje": "🚨Nota informativa🚨\n\n📅Situación del SEN para el 26 de junio de 2026.\n\n\n👉 En el día de ayer se afectó el servicio por déficit de capacidad durante las 24 horas y se mantuvo la afectación durante todo el horario de la madrugada. La máxima afectación por déficit de capacidad de generación en el día de ayer fue de 2208 MW a las 20:50 horas.\n\n\n☀️La producción de energía de los 54 nuevos parques solares fotovoltaicos fue de 5001 MWh, con 775 MW como máxima potencia entregada en el horario de la media con esta fuente de generación.  \n\n👉La disponibilidad del SEN a las 06:00 horas es de 995 MW, la demanda 2863 MW con 1866 MW afectados. En el horario de la media se estima una afectación de 1550 MW.\n\n🛠Se encuentran en avería la unidad 6 de la CTE Mariel, la unidad de la CTE Guiteras, la unidad 6 de la CTE Diez de Octubre y la unidad 2 de la CTE Felton. Se encuentran en mantenimiento la unidad 5 de la CTE Mariel, la unidad 3 de la CTE Habana, la unidad 5 de la CTE Nuevitas y las unidades 5 y 6 de la CTE Renté. \n\n\n👉Las limitaciones en la generación térmica son de 311 MW.\n\n📈Se prevé la entrada para el horario pico de la unidad 5 de la CTE Mariel con 65 MW y la salida de la unidad 2 de la CTE Santa Cruz con 75 MW.\n  \n📝Con este pronóstico se estima para el horario de máxima demanda una disponibilidad de 1065 MW con una demanda máxima de 3200 MW, para un déficit de 2215 MW, por lo que de mantenerse las condiciones previstas se pronostica una afectación de 2245 MW en este horario.\n\n\n\nUNE-MINEM---07:00 horas.",
+    "timestamp": 1782475230,
+    "timestamp_local": 1782475230
+  },
+  {
+    "id": 39048,
+    "fecha": "26 de Jun del 2026 a las 07:45 AM",
+    "hora_utc": "2026-06-26 11:45",
+    "mensaje": "🔉Información.\n👉 Se encuentra sin servicio el circuito 2 por cables en el suelo, en Simón Reyes /  Cuba y Ciego de Ávila.",
+    "timestamp": 1782474304,
+    "timestamp_local": 1782474304
+  },
+  {
+    "id": 39047,
+    "fecha": "26 de Jun del 2026 a las 06:11 AM",
+    "hora_utc": "2026-06-26 10:11",
+    "mensaje": "‼️ Información del déficit de generación ‼️   \n👉Tenemos 75 MW, el máximo apagable en la provincia afectados por déficit de generación.\n⏰ Con este déficit, la carga a apagar en la provincia no nos permite realizar una rotación estable de los circuitos, por lo que se afectarán o se restablecerán en dependencia del déficit que haya en cada momento de la jornada, que es muy variable.",
+    "timestamp": 1782468665,
+    "timestamp_local": 1782468665
+  },
+  {
     "id": 39046,
     "fecha": "26 de Jun del 2026 a las 01:55 AM",
     "hora_utc": "2026-06-26 05:55",
@@ -118,29 +142,5 @@
     "mensaje": "🔉 Información.\n👉 Se restablece el servicio en el circuito A110, quedando en fallo el Azufre , # 1 y lugares aledaños se recorren las líneas para encontrar la avería.",
     "timestamp": 1782379878,
     "timestamp_local": 1782379878
-  },
-  {
-    "id": 39028,
-    "fecha": "25 de Jun del 2026 a las 03:53 AM",
-    "hora_utc": "2026-06-25 07:53",
-    "mensaje": "⚡️ Información.\n💥 Se encuentra en fallo el circuito A110 se trabaja para restablecer el servicio en el menor tiempo posible.",
-    "timestamp": 1782373987,
-    "timestamp_local": 1782373987
-  },
-  {
-    "id": 39027,
-    "fecha": "25 de Jun del 2026 a las 03:43 AM",
-    "hora_utc": "2026-06-25 07:43",
-    "mensaje": "‼️ Información del déficit de generación ‼️   \n👉En estos momentos tenemos 75 MW el máximo apagable en la provincia afectados por déficit de generación.\n⏰ Con este déficit, la carga a apagar en la provincia no nos permite realizar una rotación estable de los circuitos, por lo que se afectarán o se restablecerán en dependencia del déficit que haya en cada momento de la jornada, que es muy variable.",
-    "timestamp": 1782373414,
-    "timestamp_local": 1782373414
-  },
-  {
-    "id": 39026,
-    "fecha": "25 de Jun del 2026 a las 12:18 AM",
-    "hora_utc": "2026-06-25 04:18",
-    "mensaje": "‼️ Información ‼️   \n👉Continuamos con 83  MW, tenemos el máximo apagable en la provincia afectados por déficit de generación. Con este déficit no podemos cumplir con una programación estable, por lo que los circuitos se afectarán o se restablecerán en dependencia del déficit que haya en cada momento de la jornada.",
-    "timestamp": 1782361099,
-    "timestamp_local": 1782361099
   }
 ]
