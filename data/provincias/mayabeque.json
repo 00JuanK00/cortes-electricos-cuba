@@ -1,5 +1,21 @@
 [
   {
+    "id": 116395,
+    "fecha": "27 de Jun del 2026 a las 07:17 AM",
+    "hora_utc": "2026-06-27 11:17",
+    "mensaje": "🚨Por déficit de capacidad de generación se afecta el servicio en el siguiente circuito:\n*Jaruco 2🚨",
+    "timestamp": 1782559050,
+    "timestamp_local": 1782559050
+  },
+  {
+    "id": 116394,
+    "fecha": "27 de Jun del 2026 a las 06:54 AM",
+    "hora_utc": "2026-06-27 10:54",
+    "mensaje": "📣🚨Informamos a nuestros clientes que la situación actual del Sistema Eléctrico Nacional continúa siendo bien compleja. En estos momentos la provincia se encuentra casi en su totalidad afectada reflejando circuitos con más de 30 horas sin servicio. Por esta razón no se puede precisar el tiempo de afectación ni con servicio. \nComo parte de las medidas adoptadas, se prioriza el suministro eléctrico a servicios vitales, principalmente hospitales y sistemas de bombeo de agua.\nRecomendamos a nuestros clientes mantenerse informados a través de nuestros canales oficiales de Telegram y WhatsApp donde estaremos ofreciendo información🚨",
+    "timestamp": 1782557680,
+    "timestamp_local": 1782557680
+  },
+  {
     "id": 116393,
     "fecha": "27 de Jun del 2026 a las 06:13 AM",
     "hora_utc": "2026-06-27 10:13",
@@ -11,7 +27,7 @@
     "id": 116392,
     "fecha": "27 de Jun del 2026 a las 02:37 AM",
     "hora_utc": "2026-06-27 06:37",
-    "mensaje": "🚨Por déficit de capacidad de generación se afecta el servicio en el siguiente circuito:\n*Jaruco1🚨",
+    "mensaje": "🚨Por déficit de capacidad de generación se afecta el servicio en los siguientes circuitos:\n* Jaruco1\n* 8 de San José🚨",
     "timestamp": 1782542267,
     "timestamp_local": 1782542267
   },
@@ -134,21 +150,5 @@
     "mensaje": "🚨Por déficit de capacidad de generación se afecta el servicio en el siguiente circuito: \n*Quivicán 🚨",
     "timestamp": 1782522796,
     "timestamp_local": 1782522796
-  },
-  {
-    "id": 116375,
-    "fecha": "26 de Jun del 2026 a las 08:59 PM",
-    "hora_utc": "2026-06-27 00:59",
-    "mensaje": "♦️Informamos a los clientes del circuito Espirulina que se encuentran afectados por avería.\n👉La brigada de la UEB de San José se encuentra trabajando para solucionar la misma ♦️",
-    "timestamp": 1782521979,
-    "timestamp_local": 1782521979
-  },
-  {
-    "id": 116374,
-    "fecha": "26 de Jun del 2026 a las 08:05 PM",
-    "hora_utc": "2026-06-27 00:05",
-    "mensaje": "🔷Se normaliza el circuito ML -35 que se encontraba afectado por disparo en las líneas🔷",
-    "timestamp": 1782518727,
-    "timestamp_local": 1782518727
   }
 ]

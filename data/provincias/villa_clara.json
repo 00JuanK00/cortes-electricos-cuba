@@ -1,5 +1,37 @@
 [
   {
+    "id": 49588,
+    "fecha": "27 de Jun del 2026 a las 07:57 AM",
+    "hora_utc": "2026-06-27 11:57",
+    "mensaje": "🚨Nota informativa 🚨\n\n📆Situación del SEN para el 27 de junio de 2026.\n\n👉En el día de ayer se afectó el servicio por déficit de capacidad durante las 24 horas y se mantuvo la afectación durante todo el horario de la madrugada. \nLa máxima afectación por déficit de capacidad de generación en el día de ayer fue de 2149 MW a las 19:50 horas.\n\nLa producción de energía de los 54 nuevos parques solares fotovoltaicos fue de 4788 MWh, con 731 MW como máxima potencia entregada en el horario de la media con esta fuente de generación.  \n\nLa disponibilidad del SEN a las 06:00 horas es de 1015 MW, la demanda 2730 MW con 1718 MW afectados. En el horario de la media se estima una afectación de 1600 MW.\n\nSe encuentran en avería la unidad 6 de la CTE Mariel, la unidad de la CTE Guiteras, la unidad 6 de la CTE Diez de Octubre y la unidad 2 de la CTE Felton. Se encuentran en mantenimiento la unidad 5 de la CTE Mariel, la unidad 3 de la CTE Habana, la unidad 5 de la CTE Nuevitas y las unidades 5 y 6 de la CTE Renté. \n\nLas limitaciones en la generación térmica son de 298 MW.\n  \nSe estima para el horario de máxima demanda una disponibilidad de 1015 MW con una demanda máxima de 3150 MW, para un déficit de 2135 MW, por lo que de mantenerse las condiciones previstas se pronostica una afectación de 2165 MW en este horario.\n\nUNE-MINEM",
+    "timestamp": 1782561461,
+    "timestamp_local": 1782561461
+  },
+  {
+    "id": 49587,
+    "fecha": "27 de Jun del 2026 a las 07:54 AM",
+    "hora_utc": "2026-06-27 11:54",
+    "mensaje": "💡Con servicio eléctrico el siguiente circuito:\n🔹Municipio Sagua:\n👉Cto 44 Isabela",
+    "timestamp": 1782561272,
+    "timestamp_local": 1782561272
+  },
+  {
+    "id": 49586,
+    "fecha": "27 de Jun del 2026 a las 07:15 AM",
+    "hora_utc": "2026-06-27 11:15",
+    "mensaje": "⚡Afectada por avería la Línea 4608, se estudian las causas.\n➡️Línea 4608\n🔹Municipio Corralillo:\n👉Ctos 58 y 159 \n👉Cto 57 Motembo \n👉Cto 56 Yabre\n👉Cto 60 La Sierra",
+    "timestamp": 1782558905,
+    "timestamp_local": 1782558905
+  },
+  {
+    "id": 49585,
+    "fecha": "27 de Jun del 2026 a las 07:03 AM",
+    "hora_utc": "2026-06-27 11:03",
+    "mensaje": "💡Con servicio eléctrico los siguientes circuitos:\n🔹Municipio Santa Clara:\n👉Cto 25 Los Güiros\n👉Cto 35 Biotecnología \n👉Cto 27 Maleza",
+    "timestamp": 1782558233,
+    "timestamp_local": 1782558233
+  },
+  {
     "id": 49584,
     "fecha": "27 de Jun del 2026 a las 06:27 AM",
     "hora_utc": "2026-06-27 10:27",
@@ -110,29 +142,5 @@
     "mensaje": "💡Restablecido el servicio eléctrico en el circuito 3 Consejo Centro.",
     "timestamp": 1782525325,
     "timestamp_local": 1782525325
-  },
-  {
-    "id": 49568,
-    "fecha": "26 de Jun del 2026 a las 09:28 PM",
-    "hora_utc": "2026-06-27 01:28",
-    "mensaje": "➡️Los disparos de circuito tienen diferentes aristas todas con distintos significados, es decir que ocurren por varias causas. Entre ellas encontramos:\n\n👉-Disparo de Circuito con Recierre: El conocido por los clientes como “quita y pon de corriente” es un tipo de protección utilizada mundialmente a partir del 80% aproximadamente de las interrupciones eléctricas son transitorias. Este fenómeno lo hace una sola vez ante un evento de red y no es dañino para para nuestros equipos electrodomésticos.\n\n👉- Disparo Automático por Frecuencia (DAF): El disparo por DAF ocurre cuando la frecuencia llega a valores mínimos permisibles que ponen en peligro la estabilidad del mismo y como protección desconecta varios circuitos de la Capital. Los mismo restablecen a medida que se vaya recuperando la frecuencia que tiene un valor de 60hz o ciclos por segundo.\n\n👉-Disparo de Circuito por Sobrecarga: Este ocurre mayormente en los horarios pico y en verano, ya que las altas temperaturas generan elevados consumos en la población y como consecuencia de ello fallas en los circuitos.\n\n👉-Disparo de Circuito por Posible Avería: Este fenómeno ocurre cuando existe una falla en algún circuito, ya sea soterrado, aéreo o en una subestación. Estas, a pesar de que son mucho más frecuentes cuando existe algún evento climatológico, pueden ocurrir en cualquier momento del día o la noche, ya que son situaciones que no cuentan con programación.",
-    "timestamp": 1782523732,
-    "timestamp_local": 1782523732
-  },
-  {
-    "id": 49566,
-    "fecha": "26 de Jun del 2026 a las 09:28 PM",
-    "hora_utc": "2026-06-27 01:28",
-    "mensaje": "⚠Afectado por disparo el circuito 3 Consejo Centro.",
-    "timestamp": 1782523709,
-    "timestamp_local": 1782523709
-  },
-  {
-    "id": 49565,
-    "fecha": "26 de Jun del 2026 a las 08:04 PM",
-    "hora_utc": "2026-06-27 00:04",
-    "mensaje": "⚠Afectado el servicio eléctrico en el siguiente circuito:\n🔹Municipio Santa Clara:\n👉Cto 167 Virginia",
-    "timestamp": 1782518674,
-    "timestamp_local": 1782518674
   }
 ]
