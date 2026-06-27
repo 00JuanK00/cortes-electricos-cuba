@@ -1,5 +1,69 @@
 [
   {
+    "id": 49634,
+    "fecha": "27 de Jun del 2026 a las 01:41 PM",
+    "hora_utc": "2026-06-27 17:41",
+    "mensaje": "⚠Afectado el servicio eléctrico en los siguientes circuitos:\n🔹Municipio Santa Clara:\n👉Cto 5 Dobarganes\n👉Cto 17 Subplanta",
+    "timestamp": 1782582114,
+    "timestamp_local": 1782582114
+  },
+  {
+    "id": 49633,
+    "fecha": "27 de Jun del 2026 a las 01:34 PM",
+    "hora_utc": "2026-06-27 17:34",
+    "mensaje": "⚠Afectado el servicio eléctrico en el siguiente circuito:\n🔹Municipio Santa Clara:\n👉Cto 144 Camacho",
+    "timestamp": 1782581640,
+    "timestamp_local": 1782581640
+  },
+  {
+    "id": 49632,
+    "fecha": "27 de Jun del 2026 a las 01:29 PM",
+    "hora_utc": "2026-06-27 17:29",
+    "mensaje": "💡Con servicio eléctrico el siguiente circuito:\n🔹Municipio Santa Clara:\n👉Cto 153 EIDE",
+    "timestamp": 1782581397,
+    "timestamp_local": 1782581397
+  },
+  {
+    "id": 49631,
+    "fecha": "27 de Jun del 2026 a las 01:17 PM",
+    "hora_utc": "2026-06-27 17:17",
+    "mensaje": "Con servicio los circuitos 68 y 118 13Kv del municipio Remedios.",
+    "timestamp": 1782580628,
+    "timestamp_local": 1782580628
+  },
+  {
+    "id": 49630,
+    "fecha": "27 de Jun del 2026 a las 12:59 PM",
+    "hora_utc": "2026-06-27 16:59",
+    "mensaje": "⚠Afectado el servicio eléctrico en el siguiente circuito:\n🔹Municipio Santa Clara:\n👉Cto 170 José Martí",
+    "timestamp": 1782579581,
+    "timestamp_local": 1782579581
+  },
+  {
+    "id": 49629,
+    "fecha": "27 de Jun del 2026 a las 12:59 PM",
+    "hora_utc": "2026-06-27 16:59",
+    "mensaje": "⚠Afectado el servicio eléctrico en el siguiente circuito:\n🔹Municipio Sagua:\n👉Cto 43",
+    "timestamp": 1782579552,
+    "timestamp_local": 1782579552
+  },
+  {
+    "id": 49628,
+    "fecha": "27 de Jun del 2026 a las 12:58 PM",
+    "hora_utc": "2026-06-27 16:58",
+    "mensaje": "💡Con servicio eléctrico el siguiente circuito:\n🔹Municipio Sagua:\n👉Cto 51",
+    "timestamp": 1782579521,
+    "timestamp_local": 1782579521
+  },
+  {
+    "id": 49627,
+    "fecha": "27 de Jun del 2026 a las 12:57 PM",
+    "hora_utc": "2026-06-27 16:57",
+    "mensaje": "💡Con servicio eléctrico los siguientes circuitos:\n🔹Municipio Santo Domingo:\n👉Cto 79 Santo Domingo\n👉Cto 81 26 de Julio\n👉Cto 163 Batey 26 de Julio\n🔹Municipio Ranchuelo:\n👉Ctos 54, 94 y 95 Jicotea",
+    "timestamp": 1782579474,
+    "timestamp_local": 1782579474
+  },
+  {
     "id": 49626,
     "fecha": "27 de Jun del 2026 a las 12:29 PM",
     "hora_utc": "2026-06-27 16:29",
@@ -86,69 +150,5 @@
     "mensaje": "Con servicio el circuito 2 Consejo-Centro, del municipio Santa Clara.",
     "timestamp": 1782572639,
     "timestamp_local": 1782572639
-  },
-  {
-    "id": 49614,
-    "fecha": "27 de Jun del 2026 a las 11:03 AM",
-    "hora_utc": "2026-06-27 15:03",
-    "mensaje": "⚡ Actualización del Sistema Electroenergético Nacional para el 27 de junio de 2026.\n\nPronóstico de afectación:\nPara el mediodía: 1600 MW\nPara el pico de la noche: 2165 MW\n\nLeer más: https://www.unionelectrica.cu/nota-informativa/\n\n#UnidosXCuba #UniónEléctrica #UNE #NotaInformativa",
-    "timestamp": 1782572638,
-    "timestamp_local": 1782572638
-  },
-  {
-    "id": 49613,
-    "fecha": "27 de Jun del 2026 a las 11:03 AM",
-    "hora_utc": "2026-06-27 15:03",
-    "mensaje": "🛠Afectado por faltar una fase el circuito 6 Vigía, del municipio Santa Clara. Se estudian las causas.",
-    "timestamp": 1782572589,
-    "timestamp_local": 1782572589
-  },
-  {
-    "id": 49612,
-    "fecha": "27 de Jun del 2026 a las 10:53 AM",
-    "hora_utc": "2026-06-27 14:53",
-    "mensaje": "⚠Afectado el servicio eléctrico en el siguiente circuito:\n🔹Municipio Santa Clara:\n👉Cto 31 Sakenaf",
-    "timestamp": 1782572013,
-    "timestamp_local": 1782572013
-  },
-  {
-    "id": 49611,
-    "fecha": "27 de Jun del 2026 a las 10:52 AM",
-    "hora_utc": "2026-06-27 14:52",
-    "mensaje": "🛠Afectado nuevamente por disparo el circuito 2 Consejo-Centro, del municipio Santa Clara. Se estudian las causas.",
-    "timestamp": 1782571970,
-    "timestamp_local": 1782571970
-  },
-  {
-    "id": 49610,
-    "fecha": "27 de Jun del 2026 a las 10:49 AM",
-    "hora_utc": "2026-06-27 14:49",
-    "mensaje": "Con servicio el circuito 2 Consejo-Centro, del municipio Santa Clara.",
-    "timestamp": 1782571795,
-    "timestamp_local": 1782571795
-  },
-  {
-    "id": 49609,
-    "fecha": "27 de Jun del 2026 a las 10:39 AM",
-    "hora_utc": "2026-06-27 14:39",
-    "mensaje": "🛠Afectado por disparo el circuito 2 Consejo-Centro, del municipio Santa Clara. Se estudian las causas.",
-    "timestamp": 1782571142,
-    "timestamp_local": 1782571142
-  },
-  {
-    "id": 49608,
-    "fecha": "27 de Jun del 2026 a las 10:26 AM",
-    "hora_utc": "2026-06-27 14:26",
-    "mensaje": "⚠Afectado el servicio eléctrico en el siguiente circuito:\n🔹Municipio Santa Clara:\n👉Cto 22 Construcciones Textil",
-    "timestamp": 1782570373,
-    "timestamp_local": 1782570373
-  },
-  {
-    "id": 49607,
-    "fecha": "27 de Jun del 2026 a las 10:23 AM",
-    "hora_utc": "2026-06-27 14:23",
-    "mensaje": "💡Con servicio eléctrico los siguientes circuitos:\n🔹Municipio Placetas \n👉Cto151 Placetas\n👉Cto 104 Hermanos Amejeiras\n👉Cto 103 Batey Carbó Servía",
-    "timestamp": 1782570214,
-    "timestamp_local": 1782570214
   }
 ]
