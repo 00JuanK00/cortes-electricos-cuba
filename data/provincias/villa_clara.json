@@ -1,5 +1,37 @@
 [
   {
+    "id": 49568,
+    "fecha": "26 de Jun del 2026 a las 09:28 PM",
+    "hora_utc": "2026-06-27 01:28",
+    "mensaje": "➡️Los disparos de circuito tienen diferentes aristas todas con distintos significados, es decir que ocurren por varias causas. Entre ellas encontramos:\n\n👉-Disparo de Circuito con Recierre: El conocido por los clientes como “quita y pon de corriente” es un tipo de protección utilizada mundialmente a partir del 80% aproximadamente de las interrupciones eléctricas son transitorias. Este fenómeno lo hace una sola vez ante un evento de red y no es dañino para para nuestros equipos electrodomésticos.\n\n👉- Disparo Automático por Frecuencia (DAF): El disparo por DAF ocurre cuando la frecuencia llega a valores mínimos permisibles que ponen en peligro la estabilidad del mismo y como protección desconecta varios circuitos de la Capital. Los mismo restablecen a medida que se vaya recuperando la frecuencia que tiene un valor de 60hz o ciclos por segundo.\n\n👉-Disparo de Circuito por Sobrecarga: Este ocurre mayormente en los horarios pico y en verano, ya que las altas temperaturas generan elevados consumos en la población y como consecuencia de ello fallas en los circuitos.\n\n👉-Disparo de Circuito por Posible Avería: Este fenómeno ocurre cuando existe una falla en algún circuito, ya sea soterrado, aéreo o en una subestación. Estas, a pesar de que son mucho más frecuentes cuando existe algún evento climatológico, pueden ocurrir en cualquier momento del día o la noche, ya que son situaciones que no cuentan con programación.",
+    "timestamp": 1782523732,
+    "timestamp_local": 1782523732
+  },
+  {
+    "id": 49566,
+    "fecha": "26 de Jun del 2026 a las 09:28 PM",
+    "hora_utc": "2026-06-27 01:28",
+    "mensaje": "⚠Afectado por disparo el circuito 3 Consejo Centro.",
+    "timestamp": 1782523709,
+    "timestamp_local": 1782523709
+  },
+  {
+    "id": 49565,
+    "fecha": "26 de Jun del 2026 a las 08:04 PM",
+    "hora_utc": "2026-06-27 00:04",
+    "mensaje": "⚠Afectado el servicio eléctrico en el siguiente circuito:\n🔹Municipio Santa Clara:\n👉Cto 167 Virginia",
+    "timestamp": 1782518674,
+    "timestamp_local": 1782518674
+  },
+  {
+    "id": 49564,
+    "fecha": "26 de Jun del 2026 a las 07:57 PM",
+    "hora_utc": "2026-06-26 23:57",
+    "mensaje": "Actualización del servicio eléctrico en la provincia.\n👉En este momento la afectación por déficit de capacidad de generación es de 114 MW, la demanda máxima posible a apagar en estos momentos.\n👉De los circuitos apagables se mantienen afectados 112.\n👉Cuenta con 211  afectaciones por averías secundarias de servicio.",
+    "timestamp": 1782518270,
+    "timestamp_local": 1782518270
+  },
+  {
     "id": 49563,
     "fecha": "26 de Jun del 2026 a las 07:50 PM",
     "hora_utc": "2026-06-26 23:50",
@@ -110,45 +142,5 @@
     "mensaje": "💡Con servicio eléctrico los siguientes circuitos:\n🔹Municipio Camajuaní:\n👉Ctos 59 y 185 Vueltas",
     "timestamp": 1782498620,
     "timestamp_local": 1782498620
-  },
-  {
-    "id": 49548,
-    "fecha": "26 de Jun del 2026 a las 02:27 PM",
-    "hora_utc": "2026-06-26 18:27",
-    "mensaje": "⚠Afectado el servicio eléctrico en el siguiente circuito:\n🔹Municipio Santa Clara:\n👉Cto 144 Camacho",
-    "timestamp": 1782498444,
-    "timestamp_local": 1782498444
-  },
-  {
-    "id": 49547,
-    "fecha": "26 de Jun del 2026 a las 02:23 PM",
-    "hora_utc": "2026-06-26 18:23",
-    "mensaje": "💡Restablecido el servicio eléctrico en la Línea 1780.",
-    "timestamp": 1782498184,
-    "timestamp_local": 1782498184
-  },
-  {
-    "id": 49546,
-    "fecha": "26 de Jun del 2026 a las 02:15 PM",
-    "hora_utc": "2026-06-26 18:15",
-    "mensaje": "🛠Afectada por manipulación la línea 1780.\n🔹Municipio Santa Clara:\n👉Cto 16 Cubanacán \n👉Ctos 23 y 130 La Ceniza\n👉Cto 42 Manajanabo\n🔹Municipio Placetas\n👉Cto 139 Miller\n👉Cto 190 Oliver\n👉Cto 106 Falcón\n👉Ctos 98 y 99 Placetas",
-    "timestamp": 1782497756,
-    "timestamp_local": 1782497756
-  },
-  {
-    "id": 49545,
-    "fecha": "26 de Jun del 2026 a las 02:12 PM",
-    "hora_utc": "2026-06-26 18:12",
-    "mensaje": "Actualización del servicio eléctrico en la provincia.\n👉En este momento la afectación por déficit de capacidad de generación es de 96 MW, la demanda máxima posible a apagar en estos momentos.\n👉De los circuitos apagables se mantienen afectados 112.\n👉Cuenta con 257  afectaciones por averías secundarias de servicio.",
-    "timestamp": 1782497561,
-    "timestamp_local": 1782497561
-  },
-  {
-    "id": 49544,
-    "fecha": "26 de Jun del 2026 a las 02:07 PM",
-    "hora_utc": "2026-06-26 18:07",
-    "mensaje": "🛠Brigadas de nuestra Empresa preparan los recursos necesarios para comenzar a trabajar en el circuito 26 Manuelita afectado por poste caído.",
-    "timestamp": 1782497236,
-    "timestamp_local": 1782497236
   }
 ]

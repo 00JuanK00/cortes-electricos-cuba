@@ -1,5 +1,21 @@
 [
   {
+    "id": 39062,
+    "fecha": "26 de Jun del 2026 a las 09:24 PM",
+    "hora_utc": "2026-06-27 01:24",
+    "mensaje": "‼️Información‼️\n\n⏰ Los circuitos  restablecidos tendrán servicio por un estimado de 1 hora y 30 min aproximadamente en dependencia del déficit solicitado en cada momento de la jornada que es muy variable.",
+    "timestamp": 1782523487,
+    "timestamp_local": 1782523487
+  },
+  {
+    "id": 39061,
+    "fecha": "26 de Jun del 2026 a las 09:09 PM",
+    "hora_utc": "2026-06-27 01:09",
+    "mensaje": "‼️ Información del déficit de generación ‼️   \n👉Tenemos 80 MW, el máximo apagable en la provincia afectados por déficit de generación.\n⏰ Con este déficit, la carga a apagar en la provincia no nos permite realizar una rotación estable de los circuitos, por lo que se afectarán o se restablecerán en dependencia del déficit que haya en cada momento de la jornada, que es muy variable.",
+    "timestamp": 1782522566,
+    "timestamp_local": 1782522566
+  },
+  {
     "id": 39060,
     "fecha": "26 de Jun del 2026 a las 05:12 PM",
     "hora_utc": "2026-06-26 21:12",
@@ -134,21 +150,5 @@
     "mensaje": "‼️ Información del déficit de generación ‼️   \n👉Tenemos 83 MW, el máximo apagable en la provincia afectados por déficit de generación.\n⏰ Con este déficit, la carga a apagar en la provincia no nos permite realizar una rotación estable de los circuitos, por lo que se afectarán o se restablecerán en dependencia del déficit que haya en cada momento de la jornada, que es muy variable.",
     "timestamp": 1782428550,
     "timestamp_local": 1782428550
-  },
-  {
-    "id": 39042,
-    "fecha": "25 de Jun del 2026 a las 05:21 PM",
-    "hora_utc": "2026-06-25 21:21",
-    "mensaje": "‼️Información‼️\n\n⏰ Los circuitos  restablecidos tendrán servicio por un estimado de 1 hora y 30 min aproximadamente en dependencia del déficit solicitado en cada momento de la jornada que es muy variable.",
-    "timestamp": 1782422515,
-    "timestamp_local": 1782422515
-  },
-  {
-    "id": 39041,
-    "fecha": "25 de Jun del 2026 a las 05:21 PM",
-    "hora_utc": "2026-06-25 21:21",
-    "mensaje": "📌 Estimados clientes📌\n \nQue significa e implica la máxima capacidad apagable en la provincia:                                                                                                \n📈 Máxima capacidad apagable se refiere al nivel máximo de demanda eléctrica que puede ser desconectada o suspendida temporalmente en la provincia, explica la complejidad del déficit de generación o contingencias en el sistema eléctrico.\nRepresenta el límite superior de la reducción de carga que la empresa puede lograr mediante cortes de energía (apagones). Cuanto mayor sea la máxima capacidad apagable, mayor será el déficit de energía.\n¿Qué implica esto?\nSe identifica cuántos circuitos pueden ser apagados para equilibrar la carga del sistema, esto imposibilita realizar rotaciones, pues a \nexcepción de los servicios priorizados, se encuentran afectados todos los circuitos apagables del territorio. Podrán presentarse afectaciones \nen el servicio de electricidad durante varias horas al día y el tiempo con servicio dependerá del comportamiento del SEN. Esta medida es \nnecesaria para evitar fallas mayores y proteger la infraestructura eléctrica.\n\n*Grupo de Comunicación Institucional.",
-    "timestamp": 1782422504,
-    "timestamp_local": 1782422504
   }
 ]
