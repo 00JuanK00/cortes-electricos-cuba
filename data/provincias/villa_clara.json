@@ -1,5 +1,21 @@
 [
   {
+    "id": 49745,
+    "fecha": "28 de Jun del 2026 a las 04:01 PM",
+    "hora_utc": "2026-06-28 20:01",
+    "mensaje": "Actualización del servicio eléctrico en la provincia.\n👉En este momento la afectación por déficit de capacidad de generación es de 135 MW, la demanda máxima posible a apagar en estos momentos.\n👉De los circuitos apagables se mantienen afectados 139.\n👉Cuenta con 304 afectaciones por averías secundarias de servicio.",
+    "timestamp": 1782676876,
+    "timestamp_local": 1782676876
+  },
+  {
+    "id": 49743,
+    "fecha": "28 de Jun del 2026 a las 03:01 PM",
+    "hora_utc": "2026-06-28 19:01",
+    "mensaje": "Afectados 132 MW en la provincia, demanda máxima a apagar en estos momentos.",
+    "timestamp": 1782673294,
+    "timestamp_local": 1782673294
+  },
+  {
     "id": 49742,
     "fecha": "28 de Jun del 2026 a las 02:41 PM",
     "hora_utc": "2026-06-28 18:41",
@@ -134,29 +150,5 @@
     "mensaje": "💡Con servicio eléctrico los siguientes circuitos:\n🔹Municipio Santo Domingo:\n👉Cto 195 Batey George Washington\n👉Ctos 83 y 165 Manacas\n👉Ctos 85 y 86 Pajarito\n👉Ctos 160 y 161 Cascajal \n👉Cto 79 Santo Domingo\n👉Cto 81 26 de Julio\n👉Cto 163 Batey 26 de Julio\n🔹Municipio Ranchuelo:\n👉Ctos 54, 94 y 95 Jicotea\n🔹Municipio Santa Clara: \n👉Cto 170 José Martí",
     "timestamp": 1782653473,
     "timestamp_local": 1782653473
-  },
-  {
-    "id": 49725,
-    "fecha": "28 de Jun del 2026 a las 09:01 AM",
-    "hora_utc": "2026-06-28 13:01",
-    "mensaje": "Afectados 146 MW en la provincia, demanda máxima a apagar en estos momentos.",
-    "timestamp": 1782651702,
-    "timestamp_local": 1782651702
-  },
-  {
-    "id": 49724,
-    "fecha": "28 de Jun del 2026 a las 09:01 AM",
-    "hora_utc": "2026-06-28 13:01",
-    "mensaje": "✍️Ante cualquier duda conozca sobre la terminología eléctrica\n\n🔹Las averías pueden ser:\n     \n➡️Primarias: Afecta un volumen grande de población pues son las líneas de distribución a 13.8 kV y puede afectar varias manzanas, incluso repartos completos.\n\n➡️Secundarias: Afecta a todos los clientes que se alimenten del mismo transformador, puede afectar una o varias cuadras. \n\n➡️De servicio: Afectan 1 solo cliente o instalación generalmente producto a daños en la acometida, metro contador, etc.).",
-    "timestamp": 1782651663,
-    "timestamp_local": 1782651663
-  },
-  {
-    "id": 49723,
-    "fecha": "28 de Jun del 2026 a las 08:04 AM",
-    "hora_utc": "2026-06-28 12:04",
-    "mensaje": "Actualización del servicio eléctrico en la provincia.\n👉En este momento la afectación por déficit de capacidad de generación es de 144 MW, la demanda máxima posible a apagar en estos momentos.\n👉De los circuitos apagables se mantienen afectados 172.\n👉Cuenta con 276 afectaciones por averías secundarias de servicio.",
-    "timestamp": 1782648242,
-    "timestamp_local": 1782648242
   }
 ]
