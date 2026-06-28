@@ -1,5 +1,29 @@
 [
   {
+    "id": 49748,
+    "fecha": "28 de Jun del 2026 a las 05:26 PM",
+    "hora_utc": "2026-06-28 21:26",
+    "mensaje": "⚠Afectado el servicio eléctrico en el siguiente circuito:\n🔹Municipio Santa Clara:\n👉Cto 144 Camacho",
+    "timestamp": 1782682019,
+    "timestamp_local": 1782682019
+  },
+  {
+    "id": 49747,
+    "fecha": "28 de Jun del 2026 a las 05:15 PM",
+    "hora_utc": "2026-06-28 21:15",
+    "mensaje": "⚠Afectado el servicio eléctrico en el siguiente circuito:\n🔹Municipio Santa Clara:\n👉Cto 31 Sakenaf",
+    "timestamp": 1782681325,
+    "timestamp_local": 1782681325
+  },
+  {
+    "id": 49746,
+    "fecha": "28 de Jun del 2026 a las 05:10 PM",
+    "hora_utc": "2026-06-28 21:10",
+    "mensaje": "Afectados 141 MW en la provincia, demanda máxima a apagar en estos momentos.",
+    "timestamp": 1782681048,
+    "timestamp_local": 1782681048
+  },
+  {
     "id": 49745,
     "fecha": "28 de Jun del 2026 a las 04:01 PM",
     "hora_utc": "2026-06-28 20:01",
@@ -126,29 +150,5 @@
     "mensaje": "Actualización del servicio eléctrico en la provincia.\n👉En este momento la afectación por déficit de capacidad de generación es de 151 MW, la demanda máxima posible a apagar en estos momentos.\n👉De los circuitos apagables se mantienen afectados 172.\n👉Cuenta con 273 afectaciones por averías secundarias de servicio.",
     "timestamp": 1782655575,
     "timestamp_local": 1782655575
-  },
-  {
-    "id": 49728,
-    "fecha": "28 de Jun del 2026 a las 10:05 AM",
-    "hora_utc": "2026-06-28 14:05",
-    "mensaje": "🚨Nota informativa🚨\n\n📅Situación del SEN para el 28 de junio de 2026.\n\n👉En el día de ayer se afectó el servicio por déficit de capacidad durante las 24 horas y se mantuvo la afectación durante todo el horario de la madrugada. La máxima afectación por déficit de capacidad de generación en el día de ayer fue de 2135 MW a las 21:50 horas.\n\n☀️La producción de energía de los 54 nuevos parques solares fotovoltaicos fue de 4959 MWh, con 745 MW como máxima potencia entregada en el horario de la media con esta fuente de generación.  \n\n📈La disponibilidad del SEN a las 06:00 horas es de 980 MW, la demanda 2650 MW con 1710 MW afectados. En el horario de la media se estima una afectación de 1650 MW.\n\n🛠️Se encuentran en avería la unidad 6 de la CTE Mariel, la unidad de la CTE Guiteras, la unidad 6 de la CTE Diez de Octubre y la unidad 2 de la CTE Felton. Se encuentran en mantenimiento la unidad 5 de la CTE Mariel, la unidad 3 de la CTE Habana, la unidad 5 de la CTE Nuevitas y las unidades 5 y 6 de la CTE Renté. \n\n👉Las limitaciones en la generación térmica son de 298 MW.\n\n👉Se estima para el horario de máxima demanda una disponibilidad de 980 MW con una demanda máxima de 3100 MW, para un déficit de 2120 MW, por lo que de mantenerse las condiciones previstas se pronostica una afectación de 2150 MW en este horario.\n\nUNE-MINEM---07:00 horas.",
-    "timestamp": 1782655504,
-    "timestamp_local": 1782655504
-  },
-  {
-    "id": 49727,
-    "fecha": "28 de Jun del 2026 a las 09:33 AM",
-    "hora_utc": "2026-06-28 13:33",
-    "mensaje": "⚠Afectado por emergencia el Cto 167 Virginia, perteneciente al municipio Santa Clara, por poste con presencia de fuego.",
-    "timestamp": 1782653607,
-    "timestamp_local": 1782653607
-  },
-  {
-    "id": 49726,
-    "fecha": "28 de Jun del 2026 a las 09:31 AM",
-    "hora_utc": "2026-06-28 13:31",
-    "mensaje": "💡Con servicio eléctrico los siguientes circuitos:\n🔹Municipio Santo Domingo:\n👉Cto 195 Batey George Washington\n👉Ctos 83 y 165 Manacas\n👉Ctos 85 y 86 Pajarito\n👉Ctos 160 y 161 Cascajal \n👉Cto 79 Santo Domingo\n👉Cto 81 26 de Julio\n👉Cto 163 Batey 26 de Julio\n🔹Municipio Ranchuelo:\n👉Ctos 54, 94 y 95 Jicotea\n🔹Municipio Santa Clara: \n👉Cto 170 José Martí",
-    "timestamp": 1782653473,
-    "timestamp_local": 1782653473
   }
 ]
