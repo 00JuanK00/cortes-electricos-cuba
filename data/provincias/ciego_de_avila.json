@@ -1,5 +1,29 @@
 [
   {
+    "id": 39090,
+    "fecha": "28 de Jun del 2026 a las 01:21 AM",
+    "hora_utc": "2026-06-28 05:21",
+    "mensaje": "👉Restablecido el  servicio eléctrico en Santo Tomás",
+    "timestamp": 1782624091,
+    "timestamp_local": 1782624091
+  },
+  {
+    "id": 39088,
+    "fecha": "28 de Jun del 2026 a las 12:02 AM",
+    "hora_utc": "2026-06-28 04:02",
+    "mensaje": "🔉Información.\n👉 Se encuentra sin servicio del circuito de Ceballos,  Santo Tomás  y lugares aledaños por avería en las líneas, se trabaja para restablecer el servicio en el menor tiempo posible.",
+    "timestamp": 1782619338,
+    "timestamp_local": 1782619338
+  },
+  {
+    "id": 39087,
+    "fecha": "27 de Jun del 2026 a las 11:43 PM",
+    "hora_utc": "2026-06-28 03:43",
+    "mensaje": "‼️ Información del déficit de generación ‼️   \n👉Tenemos 71 MW, el máximo apagable en la provincia afectados por déficit de generación.\n⏰ Con este déficit, la carga a apagar en la provincia no nos permite realizar una rotación estable de los circuitos, por lo que se afectarán o se restablecerán en dependencia del déficit que haya en cada momento de la jornada, que es muy variable.",
+    "timestamp": 1782618206,
+    "timestamp_local": 1782618206
+  },
+  {
     "id": 39085,
     "fecha": "27 de Jun del 2026 a las 09:19 PM",
     "hora_utc": "2026-06-28 01:19",
@@ -110,45 +134,5 @@
     "mensaje": "👉Se encuentra sin servicio eléctrico del circuito A206 en calle Abraham Delgado / Isabel y  La Guajira por secundario partido. Se crean las condiciones para trabajar y restablecer el servicio. Ofrecemos disculpas por las molestias ocasionadas.",
     "timestamp": 1782557494,
     "timestamp_local": 1782557494
-  },
-  {
-    "id": 39070,
-    "fecha": "27 de Jun del 2026 a las 04:58 AM",
-    "hora_utc": "2026-06-27 08:58",
-    "mensaje": "‼️ Información del déficit de generación ‼️   \n👉Tenemos 80 MW, el máximo apagable en la provincia afectados por déficit de generación.\n⏰ Con este déficit, la carga a apagar en la provincia no nos permite realizar una rotación estable de los circuitos, por lo que se afectarán o se restablecerán en dependencia del déficit que haya en cada momento de la jornada, que es muy variable.",
-    "timestamp": 1782550697,
-    "timestamp_local": 1782550697
-  },
-  {
-    "id": 39069,
-    "fecha": "27 de Jun del 2026 a las 04:58 AM",
-    "hora_utc": "2026-06-27 08:58",
-    "mensaje": "👉Restablecido el  servicio eléctrico en el circuito A206.",
-    "timestamp": 1782550685,
-    "timestamp_local": 1782550685
-  },
-  {
-    "id": 39068,
-    "fecha": "27 de Jun del 2026 a las 03:04 AM",
-    "hora_utc": "2026-06-27 07:04",
-    "mensaje": "👉Se encuentra sin servicio eléctrico por emergencia el circuito A206 por cables en el suelo en calle Abraham  Delgado/Isabel y La Guajira, Reparto La Guajira. Se trabaja para restablecer lo antes posible el servicio.",
-    "timestamp": 1782543871,
-    "timestamp_local": 1782543871
-  },
-  {
-    "id": 39067,
-    "fecha": "27 de Jun del 2026 a las 02:08 AM",
-    "hora_utc": "2026-06-27 06:08",
-    "mensaje": "‼️Información‼️\n\n⏰ Los circuitos  restablecidos tendrán servicio por un estimado de 1 hora y 30 min aproximadamente en dependencia del déficit solicitado en cada momento de la jornada que es muy variable.",
-    "timestamp": 1782540528,
-    "timestamp_local": 1782540528
-  },
-  {
-    "id": 39066,
-    "fecha": "27 de Jun del 2026 a las 02:08 AM",
-    "hora_utc": "2026-06-27 06:08",
-    "mensaje": "‼️ Información del déficit de generación ‼️   \n👉Tenemos 80 MW, el máximo apagable en la provincia afectados por déficit de generación.\n⏰ Con este déficit, la carga a apagar en la provincia no nos permite realizar una rotación estable de los circuitos, por lo que se afectarán o se restablecerán en dependencia del déficit que haya en cada momento de la jornada, que es muy variable.",
-    "timestamp": 1782540514,
-    "timestamp_local": 1782540514
   }
 ]
