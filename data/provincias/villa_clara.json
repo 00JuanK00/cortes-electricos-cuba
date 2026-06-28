@@ -1,5 +1,53 @@
 [
   {
+    "id": 49723,
+    "fecha": "28 de Jun del 2026 a las 08:04 AM",
+    "hora_utc": "2026-06-28 12:04",
+    "mensaje": "Actualización del servicio eléctrico en la provincia.\n👉En este momento la afectación por déficit de capacidad de generación es de 144 MW, la demanda máxima posible a apagar en estos momentos.\n👉De los circuitos apagables se mantienen afectados 172.\n👉Cuenta con 276 afectaciones por averías secundarias de servicio.",
+    "timestamp": 1782648242,
+    "timestamp_local": 1782648242
+  },
+  {
+    "id": 49722,
+    "fecha": "28 de Jun del 2026 a las 07:21 AM",
+    "hora_utc": "2026-06-28 11:21",
+    "mensaje": "⚡Afectado al momento de restablecerse el servicio el circuito 4 Consejo-Centro, del municipio Santa Clara, por cable primario partido.",
+    "timestamp": 1782645690,
+    "timestamp_local": 1782645690
+  },
+  {
+    "id": 49721,
+    "fecha": "28 de Jun del 2026 a las 07:07 AM",
+    "hora_utc": "2026-06-28 11:07",
+    "mensaje": "⚠Afectado el servicio eléctrico en los siguientes circuitos:\n🔹Municipio Santa Clara:\n👉Ctos 162 y 193 Santa Clara Industrial",
+    "timestamp": 1782644836,
+    "timestamp_local": 1782644836
+  },
+  {
+    "id": 49720,
+    "fecha": "28 de Jun del 2026 a las 07:05 AM",
+    "hora_utc": "2026-06-28 11:05",
+    "mensaje": "⚠Afectado el servicio eléctrico en el siguiente circuito:\n🔹Municipio Santa Clara:\n👉Cto 166 Condado",
+    "timestamp": 1782644740,
+    "timestamp_local": 1782644740
+  },
+  {
+    "id": 49719,
+    "fecha": "28 de Jun del 2026 a las 07:04 AM",
+    "hora_utc": "2026-06-28 11:04",
+    "mensaje": "🛠Afectado por disparo al momento de reponerse el circuito 111 Mataguá, del municipio Manicaragua. Se estudian las causas.",
+    "timestamp": 1782644649,
+    "timestamp_local": 1782644649
+  },
+  {
+    "id": 49718,
+    "fecha": "28 de Jun del 2026 a las 07:01 AM",
+    "hora_utc": "2026-06-28 11:01",
+    "mensaje": "💡Con servicio eléctrico los siguientes circuitos:\n🔹Municipio Santa Clara:\n👉Ctos 2 y 4 Consejo-Centro\n🔹Municipio Manicaragua\n👉Cto 111 Mataguá",
+    "timestamp": 1782644507,
+    "timestamp_local": 1782644507
+  },
+  {
     "id": 49717,
     "fecha": "28 de Jun del 2026 a las 06:48 AM",
     "hora_utc": "2026-06-28 10:48",
@@ -110,45 +158,5 @@
     "mensaje": "💡Con servicio eléctrico el siguiente circuito:\n🔹Municipio Santa Clara:\n👉Cto 131 Universidad",
     "timestamp": 1782631684,
     "timestamp_local": 1782631684
-  },
-  {
-    "id": 49703,
-    "fecha": "28 de Jun del 2026 a las 03:25 AM",
-    "hora_utc": "2026-06-28 07:25",
-    "mensaje": "💡Con servicio eléctrico los siguientes circuitos:\n🔹Municipio Santa Clara:\n👉Cto 16 Cubanacán \n👉Ctos 23 y 130 La Ceniza\n👉Cto 42 Manajanabo\n🔹Municipio Placetas\n👉Cto 139 Miller\n👉Cto 190 Oliver\n👉Cto 106 Falcón",
-    "timestamp": 1782631505,
-    "timestamp_local": 1782631505
-  },
-  {
-    "id": 49702,
-    "fecha": "28 de Jun del 2026 a las 03:20 AM",
-    "hora_utc": "2026-06-28 07:20",
-    "mensaje": "⚠Afectado el servicio eléctrico en los siguientes circuitos:\n🔹Municipio Placetas:\n👉Ctos 101 y 145 Cumbre",
-    "timestamp": 1782631252,
-    "timestamp_local": 1782631252
-  },
-  {
-    "id": 49701,
-    "fecha": "28 de Jun del 2026 a las 03:09 AM",
-    "hora_utc": "2026-06-28 07:09",
-    "mensaje": "🛠Afectado por manipulación el circuito 169 Condado, del municipio Santa Clara, para reparar rabiza secundaria de transformador.\n✍Quedará afectado por déficit de capacidad de generación.",
-    "timestamp": 1782630588,
-    "timestamp_local": 1782630588
-  },
-  {
-    "id": 49699,
-    "fecha": "28 de Jun del 2026 a las 01:59 AM",
-    "hora_utc": "2026-06-28 05:59",
-    "mensaje": "Actualización del servicio eléctrico en la provincia.\n👉En este momento la afectación por déficit de capacidad de generación es de 149 MW, la demanda máxima posible a apagar en estos momentos.\n👉De los circuitos apagables se mantienen afectados 172.\n👉Cuenta con 268 afectaciones por averías secundarias de servicio.",
-    "timestamp": 1782626377,
-    "timestamp_local": 1782626377
-  },
-  {
-    "id": 49698,
-    "fecha": "28 de Jun del 2026 a las 01:49 AM",
-    "hora_utc": "2026-06-28 05:49",
-    "mensaje": "💡Con servicio eléctrico el siguiente circuito:\n🔹Municipio Santa Clara:\n👉Cto 13 Zona Industrial",
-    "timestamp": 1782625747,
-    "timestamp_local": 1782625747
   }
 ]
