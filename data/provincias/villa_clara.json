@@ -1,5 +1,29 @@
 [
   {
+    "id": 49751,
+    "fecha": "28 de Jun del 2026 a las 06:14 PM",
+    "hora_utc": "2026-06-28 22:14",
+    "mensaje": "⚠Afectado el servicio eléctrico en los siguientes circuitos:\n🔹Municipio Santa Clara:\n👉Cto 5 Dobarganes\n👉Cto 17 Subplanta\n👉Cto 13 Zona Industrial",
+    "timestamp": 1782684898,
+    "timestamp_local": 1782684898
+  },
+  {
+    "id": 49750,
+    "fecha": "28 de Jun del 2026 a las 06:09 PM",
+    "hora_utc": "2026-06-28 22:09",
+    "mensaje": "➡Afectados circuitos 67 y 152 4Kv del municipio Remedios, por  problemas en el transformador de la subestación.",
+    "timestamp": 1782684590,
+    "timestamp_local": 1782684590
+  },
+  {
+    "id": 49749,
+    "fecha": "28 de Jun del 2026 a las 06:07 PM",
+    "hora_utc": "2026-06-28 22:07",
+    "mensaje": "🕕Actualización del servicio eléctrico.\n✍️El déficit de capacidad de generación en estos momentos es de 153 MW\n✍️En el momento de esta nota, se mantienen afectados 139 circuitos.\n✍️ Cuenta con 292 afectaciones por averías secundarias y de servicio:\n🔸 Caibarién (4)\n🔸 Camajuaní (9)\n🔸 Cifuentes (3)\n🔸 Corralillo (7)\n🔸 Manicaragua (19)\n🔸 Placetas (10)\n🔸 Ranchuelo (2)\n🔸 Remedios (3) \n🔸 Sagua (3) \n🔸 Santa Clara (226)\n🔸 Santo Domingo (8)\n🛠️Pendientes a solucionar por el área técnica 34.",
+    "timestamp": 1782684441,
+    "timestamp_local": 1782684441
+  },
+  {
     "id": 49748,
     "fecha": "28 de Jun del 2026 a las 05:26 PM",
     "hora_utc": "2026-06-28 21:26",
@@ -126,29 +150,5 @@
     "mensaje": "➡Línea 4608 del municipio Corralillo, afectada por puentes partidos:\n👉Ctos 58 y 159 \n👉Cto 57 Motembo \n👉Cto 56 Yabre\n👉Cto 60 La Sierra\n➡Afectados circuitos 67 y 152 4Kv del municipio Remedios, por  problemas en el transformador de la subestación.(La Línea se encuentra afectada por déficit de capacidad de generación)\n➡ Afectado parcialmente circuito 110 La Piedra, del municipio Manicaragua, Ramal El Negrito. (La Línea se encuentra afectada por déficit de capacidad de generación)\n➡Cto 111 Matagua, perteneciente al municipio Manicaragua, se estudian las causas.\n➡Cto 31 Sakenaf, perteneciente al municipio Santa Clara, primario partido.",
     "timestamp": 1782659703,
     "timestamp_local": 1782659703
-  },
-  {
-    "id": 49731,
-    "fecha": "28 de Jun del 2026 a las 11:01 AM",
-    "hora_utc": "2026-06-28 15:01",
-    "mensaje": "Afectados 158 MW en la provincia, demanda máxima a apagar en estos momentos.",
-    "timestamp": 1782658890,
-    "timestamp_local": 1782658890
-  },
-  {
-    "id": 49730,
-    "fecha": "28 de Jun del 2026 a las 10:15 AM",
-    "hora_utc": "2026-06-28 14:15",
-    "mensaje": "⚠Afectado el servicio eléctrico en los siguientes circuitos:\n🔹Municipio Santa Clara\n👉Ctos 26 Manuelita\n🔹Municipio Santa Clara:\n👉Cto 5 Dobarganes\n👉Cto 17 Subplanta",
-    "timestamp": 1782656130,
-    "timestamp_local": 1782656130
-  },
-  {
-    "id": 49729,
-    "fecha": "28 de Jun del 2026 a las 10:06 AM",
-    "hora_utc": "2026-06-28 14:06",
-    "mensaje": "Actualización del servicio eléctrico en la provincia.\n👉En este momento la afectación por déficit de capacidad de generación es de 151 MW, la demanda máxima posible a apagar en estos momentos.\n👉De los circuitos apagables se mantienen afectados 172.\n👉Cuenta con 273 afectaciones por averías secundarias de servicio.",
-    "timestamp": 1782655575,
-    "timestamp_local": 1782655575
   }
 ]
