@@ -1,5 +1,29 @@
 [
   {
+    "id": 55212,
+    "fecha": "28 de Jun del 2026 a las 01:40 PM",
+    "hora_utc": "2026-06-28 17:40",
+    "mensaje": "🔴Estimados clientes en estos momentos se encuentran afectados por Déficit los circuitos 19 y 21.",
+    "timestamp": 1782668453,
+    "timestamp_local": 1782668453
+  },
+  {
+    "id": 55211,
+    "fecha": "28 de Jun del 2026 a las 01:10 PM",
+    "hora_utc": "2026-06-28 17:10",
+    "mensaje": "🟡**Déficit de Capacidad de Generación: **\n**Se produce cuando la demanda del Sistema Eléctrico Nacional, en determinado horario del día supera la generación disponible del país, provocando la desconexión de los circuitos o líneas que permitan garantizar la frecuencia del SEN.**",
+    "timestamp": 1782666648,
+    "timestamp_local": 1782666648
+  },
+  {
+    "id": 55210,
+    "fecha": "28 de Jun del 2026 a las 01:10 PM",
+    "hora_utc": "2026-06-28 17:10",
+    "mensaje": "🟠Se les informa que se incorporan a la afectación por Déficit los circuitos Baire-lll Frente y 2 de Palma.",
+    "timestamp": 1782666602,
+    "timestamp_local": 1782666602
+  },
+  {
     "id": 55209,
     "fecha": "28 de Jun del 2026 a las 12:50 PM",
     "hora_utc": "2026-06-28 16:50",
@@ -94,29 +118,5 @@
     "mensaje": "🔴Estimados clientes se les informa que se incorpora a la afectación el circuito 21 y el 9 seccionalizado.",
     "timestamp": 1782630297,
     "timestamp_local": 1782630297
-  },
-  {
-    "id": 55192,
-    "fecha": "28 de Jun del 2026 a las 03:01 AM",
-    "hora_utc": "2026-06-28 07:01",
-    "mensaje": "🔴Estimados clientes se les informa que se incorpora a la afectación el circuitos 23 , el 7 seccionalizado , 20 , San Juan seccionalizado , la línea 4435 Contramaestre , el circuito 2 de Palma y las líneas 5975 Baconao , 5395 San Luis .",
-    "timestamp": 1782630068,
-    "timestamp_local": 1782630068
-  },
-  {
-    "id": 55191,
-    "fecha": "27 de Jun del 2026 a las 11:43 PM",
-    "hora_utc": "2026-06-28 03:43",
-    "mensaje": "🔴Estimados clientes se les informa que se incorpora a la afectación el circuito 16.",
-    "timestamp": 1782618188,
-    "timestamp_local": 1782618188
-  },
-  {
-    "id": 55190,
-    "fecha": "27 de Jun del 2026 a las 10:33 PM",
-    "hora_utc": "2026-06-28 02:33",
-    "mensaje": "🔴Estimados clientes se les informa que se incorpora a la afectación el circuito 12.",
-    "timestamp": 1782614005,
-    "timestamp_local": 1782614005
   }
 ]
