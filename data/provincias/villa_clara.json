@@ -1,5 +1,77 @@
 [
   {
+    "id": 49717,
+    "fecha": "28 de Jun del 2026 a las 06:48 AM",
+    "hora_utc": "2026-06-28 10:48",
+    "mensaje": "Con servicio la línea 6375:\n🔹Municipio Santa Clara\n👉Cto 7 Universidad (Déficit)\n👉Cto 131 Las Antillas\n👉Cto 22 Construcciones Textil\n👉Cto 153 EIDE (Déficit)\n👉Cto 25 Los Güiros (Déficit)\n👉Cto 35 Biotecnología (Déficit)\n👉Ctos 14 y 27 Maleza (Déficit)\n👉Cto 15 Maleza",
+    "timestamp": 1782643722,
+    "timestamp_local": 1782643722
+  },
+  {
+    "id": 49716,
+    "fecha": "28 de Jun del 2026 a las 06:33 AM",
+    "hora_utc": "2026-06-28 10:33",
+    "mensaje": "🛠Afectada por manipulación la línea 6375:\nAfecta los siguientes circuitos:\n🔹Municipio Santa Clara\n👉Cto 7 Universidad (Déficit)\n👉Cto 131 Las Antillas\n👉Cto 22 Construcciones Textil\n👉Cto 153 EIDE (Déficit)\n👉Cto 25 Los Güiros (Déficit)\n👉Cto 35 Biotecnología (Déficit)\n👉Ctos 14, 15 y 27 Maleza",
+    "timestamp": 1782642836,
+    "timestamp_local": 1782642836
+  },
+  {
+    "id": 49715,
+    "fecha": "28 de Jun del 2026 a las 06:31 AM",
+    "hora_utc": "2026-06-28 10:31",
+    "mensaje": "🕕Actualización del servicio eléctrico.\n✍️El déficit de capacidad de generación en estos momentos es de 138 MW\n✍️En el momento de esta nota, se mantienen afectados 172 circuitos.\n✍️ Cuenta con 302 afectaciones por averías secundarias y de servicio:\n🔸 Caibarién (12)\n🔸 Camajuaní (9)\n🔸 Cifuentes (2)\n🔸 Corralillo (8)\n🔸 Encrucijada (2)\n🔸 Manicaragua (18)\n🔸 Placetas (13)\n🔸 Ranchuelo (4)\n🔸 Remedios (7) \n🔸 Sagua (4) \n🔸 Santa Clara (187)\n🔸 Santo Domingo (4)\n🛠️Se encuentra 1 avería en vías de solución.\n🛠️Pendientes a solucionar por el área técnica 32.\n⚡La provincia presenta 3 averías primarias:\n➡ Línea 4608 del municipio Corralillo, afectada por puentes partidos:\n👉Ctos 58 y 159 \n👉Cto 57 Motembo \n👉Cto 56 Yabre\n👉Cto 60 La Sierra\n➡Afectados circuitos 67 y 152 4Kv del municipio Remedios, por  problemas en el transformador de la subestación.(La Línea se encuentra afectada por déficit de capacidad de generación)\n➡ Afectado parcialmente circuito 110 La Piedra, del municipio Manicaragua, Ramal El Negrito. (La Línea se encuentra afectada por déficit de capacidad de generación)",
+    "timestamp": 1782642696,
+    "timestamp_local": 1782642696
+  },
+  {
+    "id": 49714,
+    "fecha": "28 de Jun del 2026 a las 06:08 AM",
+    "hora_utc": "2026-06-28 10:08",
+    "mensaje": "🛠Afectado por emergencia el circuito 31 Sakenaf, del municipio Santa Clara.",
+    "timestamp": 1782641293,
+    "timestamp_local": 1782641293
+  },
+  {
+    "id": 49713,
+    "fecha": "28 de Jun del 2026 a las 05:52 AM",
+    "hora_utc": "2026-06-28 09:52",
+    "mensaje": "⚠Afectado el servicio eléctrico en los siguientes circuitos:\n🔹Municipio Santa Clara:\n👉Ctos 37 y 38 Yabú \n👉Cto 9 Moldes y Troqueles\n👉Cto 133 Taller Cafetera",
+    "timestamp": 1782640326,
+    "timestamp_local": 1782640326
+  },
+  {
+    "id": 49712,
+    "fecha": "28 de Jun del 2026 a las 05:48 AM",
+    "hora_utc": "2026-06-28 09:48",
+    "mensaje": "⚠Afectado el servicio eléctrico en el siguiente circuito:\n🔹Municipio Santa Clara:\n👉Cto 3 Consejo-Centro",
+    "timestamp": 1782640083,
+    "timestamp_local": 1782640083
+  },
+  {
+    "id": 49711,
+    "fecha": "28 de Jun del 2026 a las 05:23 AM",
+    "hora_utc": "2026-06-28 09:23",
+    "mensaje": "💡Con servicio eléctrico el siguiente circuito:\n🔹Municipio Santa Clara:\n👉Cto 31 Sakenaf",
+    "timestamp": 1782638637,
+    "timestamp_local": 1782638637
+  },
+  {
+    "id": 49710,
+    "fecha": "28 de Jun del 2026 a las 05:07 AM",
+    "hora_utc": "2026-06-28 09:07",
+    "mensaje": "Con servicio eléctrico el circuito 22 Construcciones Textil, del municipio Santa Clara.",
+    "timestamp": 1782637624,
+    "timestamp_local": 1782637624
+  },
+  {
+    "id": 49709,
+    "fecha": "28 de Jun del 2026 a las 05:04 AM",
+    "hora_utc": "2026-06-28 09:04",
+    "mensaje": "⚡Afectados por disparo al momento de restablecerse los circuitos 67 y 152 4Kv del municipio Remedios, por  problemas en el transformador de la subestación.",
+    "timestamp": 1782637477,
+    "timestamp_local": 1782637477
+  },
+  {
     "id": 49708,
     "fecha": "28 de Jun del 2026 a las 04:36 AM",
     "hora_utc": "2026-06-28 08:36",
@@ -78,77 +150,5 @@
     "mensaje": "💡Con servicio eléctrico el siguiente circuito:\n🔹Municipio Santa Clara:\n👉Cto 13 Zona Industrial",
     "timestamp": 1782625747,
     "timestamp_local": 1782625747
-  },
-  {
-    "id": 49696,
-    "fecha": "28 de Jun del 2026 a las 01:35 AM",
-    "hora_utc": "2026-06-28 05:35",
-    "mensaje": "💡Con servicio eléctrico los siguientes circuitos:\n🔹Municipio Santa Clara:\n👉Ctos 144 Camacho\n👉Ctos 15 y 27 Maleza",
-    "timestamp": 1782624904,
-    "timestamp_local": 1782624904
-  },
-  {
-    "id": 49695,
-    "fecha": "28 de Jun del 2026 a las 12:46 AM",
-    "hora_utc": "2026-06-28 04:46",
-    "mensaje": "💡Con servicio eléctrico los siguientes circuitos:\n🔹Municipio Placetas:\n👉Ctos 101 y 145 Cumbre\n👉Cto 107 Baez\n👉Cto 105 Nazareno",
-    "timestamp": 1782621974,
-    "timestamp_local": 1782621974
-  },
-  {
-    "id": 49694,
-    "fecha": "28 de Jun del 2026 a las 12:26 AM",
-    "hora_utc": "2026-06-28 04:26",
-    "mensaje": "⚠Afectado el servicio eléctrico en el siguiente circuito:\n🔹Municipio Santa Clara:\n👉Cto 153 EIDE",
-    "timestamp": 1782620762,
-    "timestamp_local": 1782620762
-  },
-  {
-    "id": 49693,
-    "fecha": "28 de Jun del 2026 a las 12:16 AM",
-    "hora_utc": "2026-06-28 04:16",
-    "mensaje": "💡Con servicio eléctrico el siguiente circuito:\n🔹Municipio Santa Clara:\n👉Cto 14 Maleza",
-    "timestamp": 1782620193,
-    "timestamp_local": 1782620193
-  },
-  {
-    "id": 49692,
-    "fecha": "28 de Jun del 2026 a las 12:15 AM",
-    "hora_utc": "2026-06-28 04:15",
-    "mensaje": "🕛Actualización del servicio eléctrico.\n✍️El déficit de capacidad de generación en estos momentos es de 155 MW\n✍️En el momento de esta nota, se mantienen afectados 172 circuitos.\n✍️ Cuenta con 304 afectaciones por averías secundarias y de servicio:\n🔸 Caibarién (12)\n🔸 Camajuaní (9)\n🔸 Cifuentes (2)\n🔸 Corralillo (8)\n🔸 Encrucijada (2)\n🔸 Manicaragua (18)\n🔸 Placetas (13)\n🔸 Ranchuelo (4)\n🔸 Remedios (7) \n🔸 Sagua (4) \n🔸 Santa Clara (184)\n🔸 Santo Domingo (4)\n🛠️Se encuentran 4 averías en vías de solución.\n🛠️Pendientes a solucionar por el área técnica 32.\n⚡La provincia presenta 3 averías primarias:\n➡ Línea 4608 del municipio Corralillo, afectada por puentes partidos:\n👉Ctos 58 y 159 \n👉Cto 57 Motembo \n👉Cto 56 Yabre\n👉Cto 60 La Sierra\n➡Afectada línea 6375 por 33Kv, debido a puentes partidos a la salida de la subestación del circuito 22 Construcciones Textil del municipio Santa Clara. Brigada eléctrica de nuestra empresa prepara las condiciones necesarias para trabajar en el lugar.\n➡ Afectado parcialmente circuito 110 La Piedra, del municipio Manicaragua, Ramal El Negrito. (La Línea se encuentra afectada por déficit de capacidad de generación)",
-    "timestamp": 1782620157,
-    "timestamp_local": 1782620157
-  },
-  {
-    "id": 49691,
-    "fecha": "27 de Jun del 2026 a las 11:43 PM",
-    "hora_utc": "2026-06-28 03:43",
-    "mensaje": "⚡Afectada línea 6375 por 33Kv, debido a puentes partidos a la salida de la subestación del circuito 22 Construcciones Textil del municipio Santa Clara. Brigada eléctrica de nuestra empresa prepara las condiciones necesarias para trabajar en el lugar.\n👉Cto 131 Las Antillas\n👉Cto 153 EIDE\n✍ Los siguientes circuitos se encontraban afectados afectados por déficit de capacidad de generación:\n👉Cto 7 Universidad\n👉Cto 25 Los Güiros\n👉Cto 35 Biotecnología \n👉Ctos 14, 15 y 27 Maleza",
-    "timestamp": 1782618227,
-    "timestamp_local": 1782618227
-  },
-  {
-    "id": 49690,
-    "fecha": "27 de Jun del 2026 a las 11:26 PM",
-    "hora_utc": "2026-06-28 03:26",
-    "mensaje": "⚠Afectado el servicio eléctrico en los siguientes circuitos:\n🔹Municipio Santa Clara:\n👉Cto 141 Manuelita\n👉 Cto 191 Quemado de Hilario",
-    "timestamp": 1782617209,
-    "timestamp_local": 1782617209
-  },
-  {
-    "id": 49689,
-    "fecha": "27 de Jun del 2026 a las 11:26 PM",
-    "hora_utc": "2026-06-28 03:26",
-    "mensaje": "💡Con servicio eléctrico el siguiente circuito:\n🔹Municipio Santa Clara:\n👉Cto 30 Santa Clara Industrial",
-    "timestamp": 1782617170,
-    "timestamp_local": 1782617170
-  },
-  {
-    "id": 49688,
-    "fecha": "27 de Jun del 2026 a las 11:04 PM",
-    "hora_utc": "2026-06-28 03:04",
-    "mensaje": "Afectados 161 MW en la provincia, demanda máxima a apagar en estos momentos.",
-    "timestamp": 1782615879,
-    "timestamp_local": 1782615879
   }
 ]
