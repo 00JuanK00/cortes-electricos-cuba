@@ -1,5 +1,37 @@
 [
   {
+    "id": 49767,
+    "fecha": "29 de Jun del 2026 a las 07:32 AM",
+    "hora_utc": "2026-06-29 11:32",
+    "mensaje": "Afectados 125 MW en la provincia, demanda máxima a apagar en estos momentos.",
+    "timestamp": 1782732747,
+    "timestamp_local": 1782732747
+  },
+  {
+    "id": 49766,
+    "fecha": "29 de Jun del 2026 a las 06:24 AM",
+    "hora_utc": "2026-06-29 10:24",
+    "mensaje": "➡Afectados circuitos 67 y 152 4Kv del municipio Remedios, por  problemas en el transformador de la subestación.",
+    "timestamp": 1782728641,
+    "timestamp_local": 1782728641
+  },
+  {
+    "id": 49765,
+    "fecha": "29 de Jun del 2026 a las 06:23 AM",
+    "hora_utc": "2026-06-29 10:23",
+    "mensaje": "🕕Actualización del servicio eléctrico.\n✍️El déficit de capacidad de generación en estos momentos es de 120 MW\n✍️En el momento de esta nota, se mantienen afectados 134 circuitos.\n✍️ Cuenta con 292 afectaciones por averías secundarias y de servicio:\n🔸 Caibarién (4)\n🔸 Camajuaní (9)\n🔸 Cifuentes (3)\n🔸 Corralillo (7)\n🔸 Manicaragua (19)\n🔸 Placetas (10)\n🔸 Ranchuelo (2)\n🔸 Remedios (3) \n🔸 Sagua (3) \n🔸 Santa Clara (226)\n🔸 Santo Domingo (8)\n🛠️Pendientes a solucionar por el área técnica 34.",
+    "timestamp": 1782728623,
+    "timestamp_local": 1782728623
+  },
+  {
+    "id": 49764,
+    "fecha": "29 de Jun del 2026 a las 03:03 AM",
+    "hora_utc": "2026-06-29 07:03",
+    "mensaje": "Afectados 123 MW en la provincia, demanda máxima a apagar en estos momentos.",
+    "timestamp": 1782716609,
+    "timestamp_local": 1782716609
+  },
+  {
     "id": 49763,
     "fecha": "29 de Jun del 2026 a las 02:22 AM",
     "hora_utc": "2026-06-29 06:22",
@@ -118,29 +150,5 @@
     "mensaje": "⚠Afectado el servicio eléctrico en el siguiente circuito:\n🔹Municipio Santa Clara:\n👉Cto 144 Camacho",
     "timestamp": 1782682019,
     "timestamp_local": 1782682019
-  },
-  {
-    "id": 49747,
-    "fecha": "28 de Jun del 2026 a las 05:15 PM",
-    "hora_utc": "2026-06-28 21:15",
-    "mensaje": "⚠Afectado el servicio eléctrico en el siguiente circuito:\n🔹Municipio Santa Clara:\n👉Cto 31 Sakenaf",
-    "timestamp": 1782681325,
-    "timestamp_local": 1782681325
-  },
-  {
-    "id": 49746,
-    "fecha": "28 de Jun del 2026 a las 05:10 PM",
-    "hora_utc": "2026-06-28 21:10",
-    "mensaje": "Afectados 141 MW en la provincia, demanda máxima a apagar en estos momentos.",
-    "timestamp": 1782681048,
-    "timestamp_local": 1782681048
-  },
-  {
-    "id": 49745,
-    "fecha": "28 de Jun del 2026 a las 04:01 PM",
-    "hora_utc": "2026-06-28 20:01",
-    "mensaje": "Actualización del servicio eléctrico en la provincia.\n👉En este momento la afectación por déficit de capacidad de generación es de 135 MW, la demanda máxima posible a apagar en estos momentos.\n👉De los circuitos apagables se mantienen afectados 139.\n👉Cuenta con 304 afectaciones por averías secundarias de servicio.",
-    "timestamp": 1782676876,
-    "timestamp_local": 1782676876
   }
 ]
