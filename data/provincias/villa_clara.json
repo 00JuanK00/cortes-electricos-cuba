@@ -1,5 +1,37 @@
 [
   {
+    "id": 49839,
+    "fecha": "29 de Jun del 2026 a las 09:02 PM",
+    "hora_utc": "2026-06-30 01:02",
+    "mensaje": "💡Con servicio eléctrico los siguientes circuitos:\n🔹Municipio Santa Clara\n👉Cto 5 Dobarganes\n👉Cto 17 Subplanta",
+    "timestamp": 1782781351,
+    "timestamp_local": 1782781351
+  },
+  {
+    "id": 49837,
+    "fecha": "29 de Jun del 2026 a las 08:14 PM",
+    "hora_utc": "2026-06-30 00:14",
+    "mensaje": "Actualización del servicio eléctrico en la provincia.\n👉En este momento la afectación por déficit de capacidad de generación es de 148 MW, la demanda máxima posible a apagar en estos momentos.\n👉De los circuitos apagables se mantienen afectados 133.\n👉Cuenta con 224 afectaciones por averías secundarias de servicio.",
+    "timestamp": 1782778475,
+    "timestamp_local": 1782778475
+  },
+  {
+    "id": 49836,
+    "fecha": "29 de Jun del 2026 a las 08:10 PM",
+    "hora_utc": "2026-06-30 00:10",
+    "mensaje": "⚠Afectado el servicio eléctrico en los siguientes circuitos:\n🔹Municipio Manicaragua:\n👉Ctos 108 y 110 La Piedra",
+    "timestamp": 1782778240,
+    "timestamp_local": 1782778240
+  },
+  {
+    "id": 49835,
+    "fecha": "29 de Jun del 2026 a las 08:04 PM",
+    "hora_utc": "2026-06-30 00:04",
+    "mensaje": "⚠Afectado el servicio eléctrico en los siguientes circuitos:\n🔹Municipio Ranchuelo:\n👉Cto 92 Esperanza (Pueblo)\n👉Cto 93 Esperanza (Campo)\n🔹Municipio Santa Clara:\n👉Ctos 37 y 38 Yabú \n👉Cto 9 Moldes y Troqueles\n👉Cto 133 Taller Cafetera",
+    "timestamp": 1782777872,
+    "timestamp_local": 1782777872
+  },
+  {
     "id": 49834,
     "fecha": "29 de Jun del 2026 a las 07:00 PM",
     "hora_utc": "2026-06-29 23:00",
@@ -118,45 +150,5 @@
     "mensaje": "⚠Afectada por manipulación Línea 1785\n➡️Línea 1785\n🔹Municipio Santa Clara:\n👉Cto 6 Vigía\n👉Cto 34 Sabana Rebacadero\n👉Ctos 32 y 33 (RF-33Kv)\n👉Cto 39 (Sandino)",
     "timestamp": 1782764468,
     "timestamp_local": 1782764468
-  },
-  {
-    "id": 49819,
-    "fecha": "29 de Jun del 2026 a las 03:55 PM",
-    "hora_utc": "2026-06-29 19:55",
-    "mensaje": "⚠Afectado el servicio eléctrico en el siguiente circuito:\n🔹Municipio Santa Clara\n👉Cto 30  Santa Clara Industrial",
-    "timestamp": 1782762933,
-    "timestamp_local": 1782762933
-  },
-  {
-    "id": 49818,
-    "fecha": "29 de Jun del 2026 a las 03:53 PM",
-    "hora_utc": "2026-06-29 19:53",
-    "mensaje": "💡Con servicio eléctrico el siguiente circuito:\n🔹Municipio Santa Clara\n👉Cto  166 Condado",
-    "timestamp": 1782762828,
-    "timestamp_local": 1782762828
-  },
-  {
-    "id": 49817,
-    "fecha": "29 de Jun del 2026 a las 03:51 PM",
-    "hora_utc": "2026-06-29 19:51",
-    "mensaje": "Actualización del servicio eléctrico en la provincia.\n👉En este momento la afectación por déficit de capacidad de generación es de 127 MW, la demanda máxima posible a apagar en estos momentos.\n👉De los circuitos apagables se mantienen afectados 133.\n👉Cuenta con 300 afectaciones por averías secundarias de servicio.",
-    "timestamp": 1782762678,
-    "timestamp_local": 1782762678
-  },
-  {
-    "id": 49816,
-    "fecha": "29 de Jun del 2026 a las 03:17 PM",
-    "hora_utc": "2026-06-29 19:17",
-    "mensaje": "💡Con servicio eléctrico los siguientes circuitos:\n🔹Municipio Encrucijada\n👉Cto 123 Vizcaya\n👉Cto 142 Comunidad La Sierra\n🔹Municipio Camajuaní\n👉Ctos 76 y 90 Vega Alta\n👉Cto 157 Luis Arcos Bergnes",
-    "timestamp": 1782760674,
-    "timestamp_local": 1782760674
-  },
-  {
-    "id": 49815,
-    "fecha": "29 de Jun del 2026 a las 03:12 PM",
-    "hora_utc": "2026-06-29 19:12",
-    "mensaje": "💡Con servicio eléctrico los siguientes circuitos:\n🔹Municipio Santa Clara\n👉Cto 6 Vigía\n👉Cto 34 Sabana Rebacadero\n👉Cto 39 (Sandino)",
-    "timestamp": 1782760333,
-    "timestamp_local": 1782760333
   }
 ]

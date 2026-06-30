@@ -1,5 +1,29 @@
 [
   {
+    "id": 39123,
+    "fecha": "29 de Jun del 2026 a las 08:56 PM",
+    "hora_utc": "2026-06-30 00:56",
+    "mensaje": "‼️ Información del déficit de generación ‼️   \n👉Tenemos 80 MW, máximo apagable  en la provincia afectados por déficit de generación.\n⏰ Con este déficit, la carga a apagar en la provincia no nos permite realizar una rotación estable de los circuitos, por lo que se afectarán o se restablecerán en dependencia del déficit que haya en cada momento de la jornada, que es muy variable.",
+    "timestamp": 1782781002,
+    "timestamp_local": 1782781002
+  },
+  {
+    "id": 39122,
+    "fecha": "29 de Jun del 2026 a las 08:41 PM",
+    "hora_utc": "2026-06-30 00:41",
+    "mensaje": "🔉Información.\n👉 Se encuentra sin servicio el circuito A208 por primario en el suelo en la zona de La Playita.",
+    "timestamp": 1782780070,
+    "timestamp_local": 1782780070
+  },
+  {
+    "id": 39121,
+    "fecha": "29 de Jun del 2026 a las 08:01 PM",
+    "hora_utc": "2026-06-30 00:01",
+    "mensaje": "🔉Información.\n👉 Se restablece el servicio en el circuito A208.",
+    "timestamp": 1782777676,
+    "timestamp_local": 1782777676
+  },
+  {
     "id": 39120,
     "fecha": "29 de Jun del 2026 a las 07:17 PM",
     "hora_utc": "2026-06-29 23:17",
@@ -110,29 +134,5 @@
     "mensaje": "‼️ Información del déficit de generación ‼️   \n👉Tenemos 82 MW, máximo apagable  en la provincia afectados por déficit de generación.\n⏰ Con este déficit, la carga a apagar en la provincia no nos permite realizar una rotación estable de los circuitos, por lo que se afectarán o se restablecerán en dependencia del déficit que haya en cada momento de la jornada, que es muy variable.",
     "timestamp": 1782696214,
     "timestamp_local": 1782696214
-  },
-  {
-    "id": 39103,
-    "fecha": "28 de Jun del 2026 a las 06:26 PM",
-    "hora_utc": "2026-06-28 22:26",
-    "mensaje": "‼️ Información del déficit de generación ‼️   \n👉Tenemos 77 MW, máximo apagable  en la provincia afectados por déficit de generación.\n⏰ Con este déficit, la carga a apagar en la provincia no nos permite realizar una rotación estable de los circuitos, por lo que se afectarán o se restablecerán en dependencia del déficit que haya en cada momento de la jornada, que es muy variable.",
-    "timestamp": 1782685589,
-    "timestamp_local": 1782685589
-  },
-  {
-    "id": 39102,
-    "fecha": "28 de Jun del 2026 a las 04:47 PM",
-    "hora_utc": "2026-06-28 20:47",
-    "mensaje": "‼️ Información del déficit de generación ‼️   \n👉Tenemos 75 MW,  en la provincia afectados por déficit de generación.\n⏰ Con este déficit, la carga a apagar en la provincia no nos permite realizar una rotación estable de los circuitos, por lo que se afectarán o se restablecerán en dependencia del déficit que haya en cada momento de la jornada, que es muy variable.",
-    "timestamp": 1782679655,
-    "timestamp_local": 1782679655
-  },
-  {
-    "id": 39101,
-    "fecha": "28 de Jun del 2026 a las 02:53 PM",
-    "hora_utc": "2026-06-28 18:53",
-    "mensaje": "🚨Nota informativa🚨\n\n📅Situación del SEN para el 28 de junio de 2026.\n\n👉En el día de ayer se afectó el servicio por déficit de capacidad durante las 24 horas y se mantuvo la afectación durante todo el horario de la madrugada. La máxima afectación por déficit de capacidad de generación en el día de ayer fue de 2135 MW a las 21:50 horas.\n\n☀️La producción de energía de los 54 nuevos parques solares fotovoltaicos fue de 4959 MWh, con 745 MW como máxima potencia entregada en el horario de la media con esta fuente de generación.  \n\n📈La disponibilidad del SEN a las 06:00 horas es de 980 MW, la demanda 2650 MW con 1710 MW afectados. En el horario de la media se estima una afectación de 1650 MW.\n\n🛠Se encuentran en avería la unidad 6 de la CTE Mariel, la unidad de la CTE Guiteras, la unidad 6 de la CTE Diez de Octubre y la unidad 2 de la CTE Felton. Se encuentran en mantenimiento la unidad 5 de la CTE Mariel, la unidad 3 de la CTE Habana, la unidad 5 de la CTE Nuevitas y las unidades 5 y 6 de la CTE Renté. \n\n👉Las limitaciones en la generación térmica son de 298 MW.\n\n👉Se estima para el horario de máxima demanda una disponibilidad de 980 MW con una demanda máxima de 3100 MW, para un déficit de 2120 MW, por lo que de mantenerse las condiciones previstas se pronostica una afectación de 2150 MW en este horario.\n\nUNE-MINEM---",
-    "timestamp": 1782672823,
-    "timestamp_local": 1782672823
   }
 ]
