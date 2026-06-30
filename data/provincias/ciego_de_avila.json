@@ -1,5 +1,21 @@
 [
   {
+    "id": 39128,
+    "fecha": "30 de Jun del 2026 a las 03:10 AM",
+    "hora_utc": "2026-06-30 07:10",
+    "mensaje": "🔉Información.\n👉 Se restablece  el servicio en el  circuito A208.",
+    "timestamp": 1782803449,
+    "timestamp_local": 1782803449
+  },
+  {
+    "id": 39127,
+    "fecha": "30 de Jun del 2026 a las 02:06 AM",
+    "hora_utc": "2026-06-30 06:06",
+    "mensaje": "‼️ Información del déficit de generación ‼️   \n👉Tenemos 65 MW, máximo apagable  en la provincia afectados por déficit de generación.\n⏰ Con este déficit, la carga a apagar en la provincia no nos permite realizar una rotación estable de los circuitos, por lo que se afectarán o se restablecerán en dependencia del déficit que haya en cada momento de la jornada, que es muy variable.",
+    "timestamp": 1782799610,
+    "timestamp_local": 1782799610
+  },
+  {
     "id": 39126,
     "fecha": "30 de Jun del 2026 a las 01:47 AM",
     "hora_utc": "2026-06-30 05:47",
@@ -126,13 +142,5 @@
     "mensaje": "‼️ Información del déficit de generación ‼️   \n👉Tenemos 70 MW, máximo apagable  en la provincia afectados por déficit de generación.\n⏰ Con este déficit, la carga a apagar en la provincia no nos permite realizar una rotación estable de los circuitos, por lo que se afectarán o se restablecerán en dependencia del déficit que haya en cada momento de la jornada, que es muy variable.",
     "timestamp": 1782729402,
     "timestamp_local": 1782729402
-  },
-  {
-    "id": 39107,
-    "fecha": "29 de Jun del 2026 a las 01:02 AM",
-    "hora_utc": "2026-06-29 05:02",
-    "mensaje": "‼️ Información del déficit de generación ‼️   \n👉Tenemos 76 MW, máximo apagable  en la provincia afectados por déficit de generación.\n⏰ Con este déficit, la carga a apagar en la provincia no nos permite realizar una rotación estable de los circuitos, por lo que se afectarán o se restablecerán en dependencia del déficit que haya en cada momento de la jornada, que es muy variable.",
-    "timestamp": 1782709341,
-    "timestamp_local": 1782709341
   }
 ]
