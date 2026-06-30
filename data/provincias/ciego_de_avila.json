@@ -1,5 +1,13 @@
 [
   {
+    "id": 39144,
+    "fecha": "30 de Jun del 2026 a las 06:34 PM",
+    "hora_utc": "2026-06-30 22:34",
+    "mensaje": "‼️ Déficit de Generación ‼️   \n👉 Tenemos 76 MW, máximo apagable en la provincia afectados por déficit de generación.\n\n ⏰Con este déficit, la carga a apagar en la provincia no nos permite realizar una rotación estable de los circuitos, por lo que se afectarán o se restablecerán en dependencia del déficit que haya en cada momento de la jornada, que es muy variable.",
+    "timestamp": 1782858859,
+    "timestamp_local": 1782858859
+  },
+  {
     "id": 39143,
     "fecha": "30 de Jun del 2026 a las 05:13 PM",
     "hora_utc": "2026-06-30 21:13",
@@ -118,21 +126,5 @@
     "mensaje": "🔉Información.\n👉 Se encuentra sin servicio el circuito A206, se trabaja para restablecer el servicio en el menor tiempo posible.",
     "timestamp": 1782786590,
     "timestamp_local": 1782786590
-  },
-  {
-    "id": 39123,
-    "fecha": "29 de Jun del 2026 a las 08:56 PM",
-    "hora_utc": "2026-06-30 00:56",
-    "mensaje": "‼️ Información del déficit de generación ‼️   \n👉Tenemos 80 MW, máximo apagable  en la provincia afectados por déficit de generación.\n⏰ Con este déficit, la carga a apagar en la provincia no nos permite realizar una rotación estable de los circuitos, por lo que se afectarán o se restablecerán en dependencia del déficit que haya en cada momento de la jornada, que es muy variable.",
-    "timestamp": 1782781002,
-    "timestamp_local": 1782781002
-  },
-  {
-    "id": 39122,
-    "fecha": "29 de Jun del 2026 a las 08:41 PM",
-    "hora_utc": "2026-06-30 00:41",
-    "mensaje": "🔉Información.\n👉 Se encuentra sin servicio el circuito A208 por primario en el suelo en la zona de La Playita.",
-    "timestamp": 1782780070,
-    "timestamp_local": 1782780070
   }
 ]

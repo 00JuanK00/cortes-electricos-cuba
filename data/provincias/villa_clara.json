@@ -1,5 +1,37 @@
 [
   {
+    "id": 49899,
+    "fecha": "30 de Jun del 2026 a las 07:36 PM",
+    "hora_utc": "2026-06-30 23:36",
+    "mensaje": "⚠Afectado el servicio eléctrico en los siguientes circuitos:\n🔹Municipio Manicaragua:\n👉Ctos 113 y 137 La Campana",
+    "timestamp": 1782862584,
+    "timestamp_local": 1782862584
+  },
+  {
+    "id": 49898,
+    "fecha": "30 de Jun del 2026 a las 07:24 PM",
+    "hora_utc": "2026-06-30 23:24",
+    "mensaje": "⚠Afectado el servicio eléctrico en el siguiente circuito:\n🔹Municipio Caibarién:\n 👉183 Van Troy",
+    "timestamp": 1782861867,
+    "timestamp_local": 1782861867
+  },
+  {
+    "id": 49897,
+    "fecha": "30 de Jun del 2026 a las 06:11 PM",
+    "hora_utc": "2026-06-30 22:11",
+    "mensaje": "⚠Afectado el servicio eléctrico en los siguientes circuitos:\n🔹Municipio Quemado:\n👉Cto 196 Batey Panchito GómezToro\n🔹Municipio Corralillo:\n👉Cto 55 Rancho Veloz",
+    "timestamp": 1782857508,
+    "timestamp_local": 1782857508
+  },
+  {
+    "id": 49896,
+    "fecha": "30 de Jun del 2026 a las 06:08 PM",
+    "hora_utc": "2026-06-30 22:08",
+    "mensaje": "🕛Actualización del servicio eléctrico.\n✍️El déficit de capacidad de generación en estos momentos es de 149 MW\n✍️En el momento de esta nota, se mantienen afectados 133 circuitos.\n✍️ Cuenta con 227 afectaciones por averías secundarias y de servicio:\n🔸 Caibarién (7)\n🔸 Camajuaní (5)\n🔸 Cifuentes (6)\n🔸 Corralillo (2)\n🔸 Manicaragua (8)\n🔸 Placetas (9)\n🔸 Quemado (3)\n🔸 Ranchuelo (8)\n🔸 Remedios (7) \n🔸 Sagua (11) \n🔸 Santa Clara (151)\n🔸 Santo Domingo (10)\n🛠️Se encuentran 7 averías en vías de solución\n🛠️Pendientes a solucionar por el área técnica 22\n🛠Averia en el Cto 102 Peroti  perteneciente al Municipio Placetas afectado parcialmente  por poste primario partido",
+    "timestamp": 1782857338,
+    "timestamp_local": 1782857338
+  },
+  {
     "id": 49895,
     "fecha": "30 de Jun del 2026 a las 06:00 PM",
     "hora_utc": "2026-06-30 22:00",
@@ -118,37 +150,5 @@
     "mensaje": "Actualización del servicio eléctrico en la provincia.\n👉En este momento la afectación por déficit de capacidad de generación es de 127 MW, la demanda máxima posible a apagar en estos momentos.\n👉De los circuitos apagables se mantienen afectados 133.\n👉Cuenta con 231 afectaciones por averías secundarias de servicio.",
     "timestamp": 1782842654,
     "timestamp_local": 1782842654
-  },
-  {
-    "id": 49879,
-    "fecha": "30 de Jun del 2026 a las 12:33 PM",
-    "hora_utc": "2026-06-30 16:33",
-    "mensaje": "🛠Se encuentra en averia el Cto 1 Consejo Centro perteneciente al Municipio de Santa Clara por  estar faltando una fase",
-    "timestamp": 1782837235,
-    "timestamp_local": 1782837235
-  },
-  {
-    "id": 49878,
-    "fecha": "30 de Jun del 2026 a las 12:11 PM",
-    "hora_utc": "2026-06-30 16:11",
-    "mensaje": "⚠Afectado el servicio eléctrico en los siguientes circuitos:\n🔹Municipio Caibarién:\n👉 Ctos 61, 62",
-    "timestamp": 1782835865,
-    "timestamp_local": 1782835865
-  },
-  {
-    "id": 49877,
-    "fecha": "30 de Jun del 2026 a las 12:09 PM",
-    "hora_utc": "2026-06-30 16:09",
-    "mensaje": "🛠Disparo del  Cto 27 Maleza perteneciente al Municipio Santa Clara (Se estudian las causas)",
-    "timestamp": 1782835746,
-    "timestamp_local": 1782835746
-  },
-  {
-    "id": 49876,
-    "fecha": "30 de Jun del 2026 a las 12:08 PM",
-    "hora_utc": "2026-06-30 16:08",
-    "mensaje": "🕛Actualización del servicio eléctrico.\n✍️El déficit de capacidad de generación en estos momentos es de 137 MW\n✍️En el momento de esta nota, se mantienen afectados 133 circuitos.\n✍️ Cuenta con 247 afectaciones por averías secundarias y de servicio:\n🔸 Caibarién (7)\n🔸 Camajuaní (12)\n🔸 Cifuentes (7)\n🔸 Corralillo (2)\n🔸 Encrucijada (10)\n🔸 Manicaragua (7)\n🔸 Placetas (8)\n🔸 Quemado (3)\n🔸 Ranchuelo (5)\n🔸 Remedios (11) \n🔸 Sagua (10) \n🔸 Santa Clara (132)\n🔸 Santo Domingo (13)\n🛠️Pendientes a solucionar por el área técnica 20\n✅La provincia no presenta averías primarias.",
-    "timestamp": 1782835734,
-    "timestamp_local": 1782835734
   }
 ]
