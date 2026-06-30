@@ -1,5 +1,13 @@
 [
   {
+    "id": 39129,
+    "fecha": "30 de Jun del 2026 a las 06:01 AM",
+    "hora_utc": "2026-06-30 10:01",
+    "mensaje": "‼️ Información del déficit de generación ‼️   \n👉Tenemos 65 MW, máximo apagable  en la provincia afectados por déficit de generación.\n⏰ Con este déficit, la carga a apagar en la provincia no nos permite realizar una rotación estable de los circuitos, por lo que se afectarán o se restablecerán en dependencia del déficit que haya en cada momento de la jornada, que es muy variable.",
+    "timestamp": 1782813700,
+    "timestamp_local": 1782813700
+  },
+  {
     "id": 39128,
     "fecha": "30 de Jun del 2026 a las 03:10 AM",
     "hora_utc": "2026-06-30 07:10",
@@ -134,13 +142,5 @@
     "mensaje": "Nota informativa de la Empresa Eléctrica Ciego de Ávila \n\nDesde las 10:00 am hasta las 4:00 pm la provincia sólo se sirve de la generación de los parques fotovoltaicos y desde  las 4:00 pm hasta las 10:00 am de cada día, la provincia operará con el máximo apagable más la generación de los parques, estos últimos hasta y cuando haya radiación solar. \n\nEsto posibilitará una disminución de las afectaciones por déficit generación. \n\nAunque la provincia posee una capacidad de generación de 108 MW con energía fotovoltaica, no se puede llegar a esa cifra. Han llegado a generar hasta 70 MW, pues se mantienen con una generación estable por debajo de su potencia real para evitar oscilaciones de frecuencia, pues su generación depende de la radiación solar en cada momento.",
     "timestamp": 1782734448,
     "timestamp_local": 1782734448
-  },
-  {
-    "id": 39109,
-    "fecha": "29 de Jun del 2026 a las 06:36 AM",
-    "hora_utc": "2026-06-29 10:36",
-    "mensaje": "‼️ Información del déficit de generación ‼️   \n👉Tenemos 70 MW, máximo apagable  en la provincia afectados por déficit de generación.\n⏰ Con este déficit, la carga a apagar en la provincia no nos permite realizar una rotación estable de los circuitos, por lo que se afectarán o se restablecerán en dependencia del déficit que haya en cada momento de la jornada, que es muy variable.",
-    "timestamp": 1782729402,
-    "timestamp_local": 1782729402
   }
 ]
