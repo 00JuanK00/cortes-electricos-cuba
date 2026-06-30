@@ -1,5 +1,29 @@
 [
   {
+    "id": 49880,
+    "fecha": "30 de Jun del 2026 a las 02:04 PM",
+    "hora_utc": "2026-06-30 18:04",
+    "mensaje": "Actualización del servicio eléctrico en la provincia.\n👉En este momento la afectación por déficit de capacidad de generación es de 127 MW, la demanda máxima posible a apagar en estos momentos.\n👉De los circuitos apagables se mantienen afectados 133.\n👉Cuenta con 231 afectaciones por averías secundarias de servicio.",
+    "timestamp": 1782842654,
+    "timestamp_local": 1782842654
+  },
+  {
+    "id": 49879,
+    "fecha": "30 de Jun del 2026 a las 12:33 PM",
+    "hora_utc": "2026-06-30 16:33",
+    "mensaje": "🛠Se encuentra en averia el Cto 1 Consejo Centro perteneciente al Municipio de Santa Clara por  estar faltando una fase",
+    "timestamp": 1782837235,
+    "timestamp_local": 1782837235
+  },
+  {
+    "id": 49878,
+    "fecha": "30 de Jun del 2026 a las 12:11 PM",
+    "hora_utc": "2026-06-30 16:11",
+    "mensaje": "⚠Afectado el servicio eléctrico en los siguientes circuitos:\n🔹Municipio Caibarién:\n👉 Ctos 61, 62",
+    "timestamp": 1782835865,
+    "timestamp_local": 1782835865
+  },
+  {
     "id": 49877,
     "fecha": "30 de Jun del 2026 a las 12:09 PM",
     "hora_utc": "2026-06-30 16:09",
@@ -11,7 +35,7 @@
     "id": 49876,
     "fecha": "30 de Jun del 2026 a las 12:08 PM",
     "hora_utc": "2026-06-30 16:08",
-    "mensaje": "🕛Actualización del servicio eléctrico.\n✍️El déficit de capacidad de generación en estos momentos es de 137 MW\n✍️En el momento de esta nota, se mantienen afectados 133 circuitos.\n✍️ Cuenta con 247 afectaciones por averías secundarias y de servicio:\n🔸 Caibarién (7)\n🔸 Camajuaní (12)\n🔸 Cifuentes (7)\n🔸 Corralillo (2)\n🔸 Encrucijada (10)\n🔸 Manicaragua (7)\n🔸 Placetas (8)\n🔸 Quemado (3)\n🔸 Ranchuelo (5)\n🔸 Remedios (11) \n🔸 Sagua (10) \n🔸 Santa Clara (132)\n🔸 Santo Domingo (13)\n🛠️Se encuentran 0 averías en vías de solución.\n🛠️Pendientes a solucionar por el área técnica 20\n✅La provincia no presenta averías primarias.",
+    "mensaje": "🕛Actualización del servicio eléctrico.\n✍️El déficit de capacidad de generación en estos momentos es de 137 MW\n✍️En el momento de esta nota, se mantienen afectados 133 circuitos.\n✍️ Cuenta con 247 afectaciones por averías secundarias y de servicio:\n🔸 Caibarién (7)\n🔸 Camajuaní (12)\n🔸 Cifuentes (7)\n🔸 Corralillo (2)\n🔸 Encrucijada (10)\n🔸 Manicaragua (7)\n🔸 Placetas (8)\n🔸 Quemado (3)\n🔸 Ranchuelo (5)\n🔸 Remedios (11) \n🔸 Sagua (10) \n🔸 Santa Clara (132)\n🔸 Santo Domingo (13)\n🛠️Pendientes a solucionar por el área técnica 20\n✅La provincia no presenta averías primarias.",
     "timestamp": 1782835734,
     "timestamp_local": 1782835734
   },
@@ -134,29 +158,5 @@
     "mensaje": "Actualización del servicio eléctrico en la provincia.\n👉En este momento la afectación por déficit de capacidad de generación es de 126 MW, la demanda máxima posible a apagar en estos momentos.\n👉De los circuitos apagables se mantienen afectados 133.\n👉Cuenta con 206 afectaciones por averías secundarias de servicio.",
     "timestamp": 1782828221,
     "timestamp_local": 1782828221
-  },
-  {
-    "id": 49859,
-    "fecha": "30 de Jun del 2026 a las 09:53 AM",
-    "hora_utc": "2026-06-30 13:53",
-    "mensaje": "⚠Afectado el servicio eléctrico en los siguientes circuitos:\n🔹Municipio Santa Clara\n👉Cto 30  Santa Clara Industrial\n👉Cto 170 José Martí\n👉Cto 171 Los Caneyes",
-    "timestamp": 1782827623,
-    "timestamp_local": 1782827623
-  },
-  {
-    "id": 49858,
-    "fecha": "30 de Jun del 2026 a las 09:38 AM",
-    "hora_utc": "2026-06-30 13:38",
-    "mensaje": "💡Con servicio eléctrico los siguientes circuitos:\n🔹Municipio Caibarién:\n👉 Ctos 61, 62",
-    "timestamp": 1782826684,
-    "timestamp_local": 1782826684
-  },
-  {
-    "id": 49857,
-    "fecha": "30 de Jun del 2026 a las 08:29 AM",
-    "hora_utc": "2026-06-30 12:29",
-    "mensaje": "⚠Afectado el servicio eléctrico en los siguientes circuitos:\n🔹Municipio Santa Clara\n👉Cto  166 Condado\n👉Ctos 162 y 193 Santa Clara Industrial",
-    "timestamp": 1782822573,
-    "timestamp_local": 1782822573
   }
 ]
