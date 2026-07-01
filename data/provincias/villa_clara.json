@@ -1,5 +1,45 @@
 [
   {
+    "id": 49909,
+    "fecha": "01 de Jul del 2026 a las 02:06 AM",
+    "hora_utc": "2026-07-01 06:06",
+    "mensaje": "Actualización del servicio eléctrico en la provincia.\n👉En este momento la afectación por déficit de capacidad de generación es de 124 MW, la demanda máxima posible a apagar en estos momentos.\n👉De los circuitos apagables se mantienen afectados 133.\n👉Cuenta con 201 afectaciones por averías secundarias de servicio.",
+    "timestamp": 1782885989,
+    "timestamp_local": 1782885989
+  },
+  {
+    "id": 49908,
+    "fecha": "01 de Jul del 2026 a las 12:26 AM",
+    "hora_utc": "2026-07-01 04:26",
+    "mensaje": "💡Restablecido el  servicio eléctrico  en el  Cto 166 Condado perteneciente al Municipio Santa Clara",
+    "timestamp": 1782880011,
+    "timestamp_local": 1782880011
+  },
+  {
+    "id": 49907,
+    "fecha": "01 de Jul del 2026 a las 12:08 AM",
+    "hora_utc": "2026-07-01 04:08",
+    "mensaje": "⚠Afectado el servicio eléctrico por emergencia al Cto 166 Condado perteneciente al Municipio Santa Clara",
+    "timestamp": 1782878897,
+    "timestamp_local": 1782878897
+  },
+  {
+    "id": 49906,
+    "fecha": "01 de Jul del 2026 a las 12:05 AM",
+    "hora_utc": "2026-07-01 04:05",
+    "mensaje": "🕛Actualización del servicio eléctrico.\n✍️El déficit de capacidad de generación en estos momentos es de 134 MW\n✍️En el momento de esta nota, se mantienen afectados 133 circuitos.\n✍️ Cuenta con 202 afectaciones por averías secundarias y de servicio:\n🔸 Caibarién (9)\n🔸 Camajuaní (1)\n🔸 Cifuentes (6)\n🔸Corralillo (2)\n🔸Encrucijada (4)\n🔸 Manicaragua (8)\n🔸 Placetas (9)\n🔸 Quemado (3)\n🔸 Ranchuelo (8)\n🔸 Remedios (7) \n🔸 Sagua (13) \n🔸 Santa Clara (122)\n🔸 Santo Domingo (10)\n🛠️Se encuentran 3 averías en vías de solución\n🛠️Pendientes a solucionar por el área técnica 21\n🛠Averia en el Cto 102 Peroti  perteneciente al Municipio Placetas afectado parcialmente  por poste primario partido",
+    "timestamp": 1782878746,
+    "timestamp_local": 1782878746
+  },
+  {
+    "id": 49904,
+    "fecha": "30 de Jun del 2026 a las 10:11 PM",
+    "hora_utc": "2026-07-01 02:11",
+    "mensaje": "Actualización del servicio eléctrico en la provincia.\n👉En este momento la afectación por déficit de capacidad de generación es de 146 MW, la demanda máxima posible a apagar en estos momentos.\n👉De los circuitos apagables se mantienen afectados 133.\n👉Cuenta con 200 afectaciones por averías secundarias de servicio.",
+    "timestamp": 1782871901,
+    "timestamp_local": 1782871901
+  },
+  {
     "id": 49903,
     "fecha": "30 de Jun del 2026 a las 09:16 PM",
     "hora_utc": "2026-07-01 01:16",
@@ -110,45 +150,5 @@
     "mensaje": "🛠Averia en el Cto 102 Peroti  perteneciente al Municipio Placetas afectado parcialmente  por poste primario partido",
     "timestamp": 1782851738,
     "timestamp_local": 1782851738
-  },
-  {
-    "id": 49889,
-    "fecha": "30 de Jun del 2026 a las 04:05 PM",
-    "hora_utc": "2026-06-30 20:05",
-    "mensaje": "Actualización del servicio eléctrico en la provincia.\n👉En este momento la afectación por déficit de capacidad de generación es de 131 MW, la demanda máxima posible a apagar en estos momentos.\n👉De los circuitos apagables se mantienen afectados 133.\n👉Cuenta con 221 afectaciones por averías secundarias de servicio.",
-    "timestamp": 1782849913,
-    "timestamp_local": 1782849913
-  },
-  {
-    "id": 49888,
-    "fecha": "30 de Jun del 2026 a las 04:02 PM",
-    "hora_utc": "2026-06-30 20:02",
-    "mensaje": "⚠Afectado el servicio eléctrico en el siguiente circuito:\n🔹Municipio Santa Clara\n👉Cto 146 Elevado Aeropuerto",
-    "timestamp": 1782849745,
-    "timestamp_local": 1782849745
-  },
-  {
-    "id": 49887,
-    "fecha": "30 de Jun del 2026 a las 03:58 PM",
-    "hora_utc": "2026-06-30 19:58",
-    "mensaje": "⚠Afectado el servicio eléctrico en los siguientes circuitos:\n🔹Municipio Remedios:\n👉Ctos 68 y 118",
-    "timestamp": 1782849489,
-    "timestamp_local": 1782849489
-  },
-  {
-    "id": 49886,
-    "fecha": "30 de Jun del 2026 a las 03:23 PM",
-    "hora_utc": "2026-06-30 19:23",
-    "mensaje": "⚠Afectado el servicio eléctrico en el siguiente circuito:\n🔹Municipio Santa Clara:\n👉Cto 167 Virginia",
-    "timestamp": 1782847413,
-    "timestamp_local": 1782847413
-  },
-  {
-    "id": 49885,
-    "fecha": "30 de Jun del 2026 a las 03:22 PM",
-    "hora_utc": "2026-06-30 19:22",
-    "mensaje": "⚠Afectado el servicio eléctrico en el siguiente circuito:\n🔹Municipio Manicaragua:\n👉Cto 111 Mataguá",
-    "timestamp": 1782847356,
-    "timestamp_local": 1782847356
   }
 ]
