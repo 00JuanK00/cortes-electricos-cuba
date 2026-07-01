@@ -1,5 +1,37 @@
 [
   {
+    "id": 36713,
+    "fecha": "01 de Jul del 2026 a las 11:09 AM",
+    "hora_utc": "2026-07-01 15:09",
+    "mensaje": "Déficit de capacidad de generación en la provincia: 130MW . ⚡",
+    "timestamp": 1782918584,
+    "timestamp_local": 1782918584
+  },
+  {
+    "id": 36712,
+    "fecha": "01 de Jul del 2026 a las 11:08 AM",
+    "hora_utc": "2026-07-01 15:08",
+    "mensaje": "CON SERVICIO\n\nCIRCUITO **502 Colón 110kV**",
+    "timestamp": 1782918521,
+    "timestamp_local": 1782918521
+  },
+  {
+    "id": 36711,
+    "fecha": "01 de Jul del 2026 a las 11:07 AM",
+    "hora_utc": "2026-07-01 15:07",
+    "mensaje": "CON SERVICIO\n\nCIRCUITO **4935 Guanábana 110kV**\n**CIRCUITO 4427 Cárdenas 110/33kV**",
+    "timestamp": 1782918445,
+    "timestamp_local": 1782918445
+  },
+  {
+    "id": 36710,
+    "fecha": "01 de Jul del 2026 a las 10:04 AM",
+    "hora_utc": "2026-07-01 14:04",
+    "mensaje": "Nota Informativa: Estado del SEN – 1 de julio de 2026\nEn el día de ayer el servicio eléctrico estuvo afectado durante las 24 horas, incluyendo la madrugada, por falta de capacidad de generación. La mayor afectación fue de 2211 MW a las 22:00 de la noche, con impacto en todas las provincias del país. Para hoy se estima una afectación de 2130 MW.\n\nSituación de las unidades de generación térmica\nUnidades en avería:\n\nUnidad 6 de la Termoeléctrica Máximo Gómez, en la Zona Especial del Mariel.\nUnidad 6 de la Termoeléctrica Diez de Octubre, en Nuevitas.\nUnidad 2 de la Termoeléctrica Lidio Ramón Pérez, en Felton.\nUnidades en mantenimiento:\n\nUnidad 5 de la Termoeléctrica Máximo Gómez, en la Zona Especial del Mariel.\nUnidad 3 de la Termoeléctrica Ernesto Guevara De La Serna, en Santa Cruz.\nUnidades 5 y 6 de la Termoeléctrica Antonio Maceo, en Renté.\nUnidad 5 de la Termoeléctrica Diez de Octubre, en Nuevitas.\nEnergías renovables y otras fuentes\n\nLos 54 parques solares fotovoltaicos generaron ayer 5148 MW/hora, con una potencia máxima de 858 MW.\n\nGeneración Distribuida\n\nFuera de servicio 106 centrales de generación distribuida por indisponibilidad de combustible.\nFuera de servicio la Patana de Regla, Patana de Melones, Central Fuel de Mariel y Central Fuel de Moa.\nPronóstico para el horario pico\nDisponibilidad en horario pico: 1100 MW\nDemanda máxima prevista: 3200 MW\nDéficit esperado: 2100 MW\nAfectación pronosticada: 2130 MW",
+    "timestamp": 1782914664,
+    "timestamp_local": 1782914664
+  },
+  {
     "id": 36709,
     "fecha": "01 de Jul del 2026 a las 09:11 AM",
     "hora_utc": "2026-07-01 13:11",
@@ -118,37 +150,5 @@
     "mensaje": "Déficit de capacidad de generación en la provincia: 137 MW . ⚡",
     "timestamp": 1782843846,
     "timestamp_local": 1782843846
-  },
-  {
-    "id": 36693,
-    "fecha": "30 de Jun del 2026 a las 01:14 PM",
-    "hora_utc": "2026-06-30 17:14",
-    "mensaje": "Déficit de capacidad de generación en la provincia: 134 MW . ⚡",
-    "timestamp": 1782839692,
-    "timestamp_local": 1782839692
-  },
-  {
-    "id": 36692,
-    "fecha": "30 de Jun del 2026 a las 01:13 PM",
-    "hora_utc": "2026-06-30 17:13",
-    "mensaje": "✅CON SERVICIO✅\n\n-Circuito 501 que da servicio a 6 de agosto, Manguito, La Montaña, Calimete, Amarillas, Plan de arroz.\n\n- Circuito MI1451 que da servicio a Armando Mestre, Quintanales, Reparto Lozano, Kilómetro.",
-    "timestamp": 1782839610,
-    "timestamp_local": 1782839610
-  },
-  {
-    "id": 36691,
-    "fecha": "30 de Jun del 2026 a las 12:36 PM",
-    "hora_utc": "2026-06-30 16:36",
-    "mensaje": "✅CON SERVICIO✅\n\n- Circuito MK1510 que da servicio a Santa Marta desde el policlínico hasta la lavandería.\n\n- Circuito VI2020 que da servicio a Boca de Camarioca.",
-    "timestamp": 1782837374,
-    "timestamp_local": 1782837374
-  },
-  {
-    "id": 36690,
-    "fecha": "30 de Jun del 2026 a las 12:18 PM",
-    "hora_utc": "2026-06-30 16:18",
-    "mensaje": "ACTUALIZAMOS:\n⚡ Déficit de capacidad de generación en la provincia: 137 MW . ⚡",
-    "timestamp": 1782836327,
-    "timestamp_local": 1782836327
   }
 ]
