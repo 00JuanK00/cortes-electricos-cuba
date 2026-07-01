@@ -1,5 +1,29 @@
 [
   {
+    "id": 39149,
+    "fecha": "30 de Jun del 2026 a las 09:10 PM",
+    "hora_utc": "2026-07-01 01:10",
+    "mensaje": "‼️ Déficit de Generación ‼️   \n👉 Tenemos 76 MW, máximo apagable en la provincia afectados por déficit de generación.\n\n ⏰Con este déficit, la carga a apagar en la provincia no nos permite realizar una rotación estable de los circuitos, por lo que se afectarán o se restablecerán en dependencia del déficit que haya en cada momento de la jornada, que es muy variable.",
+    "timestamp": 1782868258,
+    "timestamp_local": 1782868258
+  },
+  {
+    "id": 39148,
+    "fecha": "30 de Jun del 2026 a las 09:03 PM",
+    "hora_utc": "2026-07-01 01:03",
+    "mensaje": "👌Restablecido el servicio telefónico del 18888.",
+    "timestamp": 1782867789,
+    "timestamp_local": 1782867789
+  },
+  {
+    "id": 39147,
+    "fecha": "30 de Jun del 2026 a las 08:39 PM",
+    "hora_utc": "2026-07-01 00:39",
+    "mensaje": "👉Estamos presentados problemas técnicos con el servicio telefónico 18888. Se trabaja para restablecer lo antes posible.",
+    "timestamp": 1782866345,
+    "timestamp_local": 1782866345
+  },
+  {
     "id": 39144,
     "fecha": "30 de Jun del 2026 a las 06:34 PM",
     "hora_utc": "2026-06-30 22:34",
@@ -94,37 +118,5 @@
     "mensaje": "🔉Información.\n👉 Se restablece  el servicio en el  circuito A208.",
     "timestamp": 1782803449,
     "timestamp_local": 1782803449
-  },
-  {
-    "id": 39127,
-    "fecha": "30 de Jun del 2026 a las 02:06 AM",
-    "hora_utc": "2026-06-30 06:06",
-    "mensaje": "‼️ Información del déficit de generación ‼️   \n👉Tenemos 65 MW, máximo apagable  en la provincia afectados por déficit de generación.\n⏰ Con este déficit, la carga a apagar en la provincia no nos permite realizar una rotación estable de los circuitos, por lo que se afectarán o se restablecerán en dependencia del déficit que haya en cada momento de la jornada, que es muy variable.",
-    "timestamp": 1782799610,
-    "timestamp_local": 1782799610
-  },
-  {
-    "id": 39126,
-    "fecha": "30 de Jun del 2026 a las 01:47 AM",
-    "hora_utc": "2026-06-30 05:47",
-    "mensaje": "🔉Información.\n👉  Continúa sin servicio el circuito A208 por primario en el suelo en la zona de La Playita.",
-    "timestamp": 1782798434,
-    "timestamp_local": 1782798434
-  },
-  {
-    "id": 39125,
-    "fecha": "29 de Jun del 2026 a las 10:50 PM",
-    "hora_utc": "2026-06-30 02:50",
-    "mensaje": "🔉Información.\n👉 Se restablece  el servicio en el  circuito A206.",
-    "timestamp": 1782787847,
-    "timestamp_local": 1782787847
-  },
-  {
-    "id": 39124,
-    "fecha": "29 de Jun del 2026 a las 10:29 PM",
-    "hora_utc": "2026-06-30 02:29",
-    "mensaje": "🔉Información.\n👉 Se encuentra sin servicio el circuito A206, se trabaja para restablecer el servicio en el menor tiempo posible.",
-    "timestamp": 1782786590,
-    "timestamp_local": 1782786590
   }
 ]

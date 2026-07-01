@@ -1,5 +1,37 @@
 [
   {
+    "id": 49903,
+    "fecha": "30 de Jun del 2026 a las 09:16 PM",
+    "hora_utc": "2026-07-01 01:16",
+    "mensaje": "⚠Afectado el servicio eléctrico en el siguiente circuito:\n🔹Municipio Santa Clara:\n👉Cto 40 Hospital Militar",
+    "timestamp": 1782868606,
+    "timestamp_local": 1782868606
+  },
+  {
+    "id": 49902,
+    "fecha": "30 de Jun del 2026 a las 09:15 PM",
+    "hora_utc": "2026-07-01 01:15",
+    "mensaje": "⚠Afectado el servicio eléctrico en los siguientes circuitos:\n🔹Municipio Santa Clara:\n👉Ctos 37 y 38 Yabú   \n👉Cto 9 Moldes y Troqueles\n👉Cto 133 Taller Cafetera",
+    "timestamp": 1782868502,
+    "timestamp_local": 1782868502
+  },
+  {
+    "id": 49901,
+    "fecha": "30 de Jun del 2026 a las 08:06 PM",
+    "hora_utc": "2026-07-01 00:06",
+    "mensaje": "Actualización del servicio eléctrico en la provincia.\n👉En este momento la afectación por déficit de capacidad de generación es de 148 MW, la demanda máxima posible a apagar en estos momentos.\n👉De los circuitos apagables se mantienen afectados 133.\n👉Cuenta con 208 afectaciones por averías secundarias de servicio.",
+    "timestamp": 1782864366,
+    "timestamp_local": 1782864366
+  },
+  {
+    "id": 49900,
+    "fecha": "30 de Jun del 2026 a las 07:51 PM",
+    "hora_utc": "2026-06-30 23:51",
+    "mensaje": "📢La Empresa Eléctrica Villa Clara informa a sus clientes del municipio de Santa Clara que, como parte de las acciones planificadas para garantizar la estabilidad y calidad del servicio eléctrico, se ejecutará mañana miércoles 1 de Julio un mantenimiento programado en los siguientes circuitos:\n\n➡️Cto 30 SC Industrial \n➡️Cto 193 SC Industrial \n\n\n👉Objetivo del trabajo: Mantenimiento en la subestación , interruptores y sustitución de conductores soterrados en mal estado\n\n\n👉Horario establecido: \nEstos trabajos se efectuarán en horario comprendido entre las 8:00a.m. y las 5:00 p.m.\n\n⚙️Durante el tiempo que duren estás labores será necesario interrumpir el servicio eléctrico en las áreas comprendidas.\n 🛠️Nuestros equipos técnicos trabajarán con la mayor celeridad posible.",
+    "timestamp": 1782863482,
+    "timestamp_local": 1782863482
+  },
+  {
     "id": 49899,
     "fecha": "30 de Jun del 2026 a las 07:36 PM",
     "hora_utc": "2026-06-30 23:36",
@@ -118,37 +150,5 @@
     "mensaje": "⚠Afectado el servicio eléctrico en el siguiente circuito:\n🔹Municipio Manicaragua:\n👉Cto 111 Mataguá",
     "timestamp": 1782847356,
     "timestamp_local": 1782847356
-  },
-  {
-    "id": 49883,
-    "fecha": "30 de Jun del 2026 a las 02:39 PM",
-    "hora_utc": "2026-06-30 18:39",
-    "mensaje": "💡Restablecido el  servicio eléctrico  en el Cto 1 Consejo Centro perteneciente al Municipio Santa Clara",
-    "timestamp": 1782844778,
-    "timestamp_local": 1782844778
-  },
-  {
-    "id": 49882,
-    "fecha": "30 de Jun del 2026 a las 02:34 PM",
-    "hora_utc": "2026-06-30 18:34",
-    "mensaje": "⚠Afectado el servicio eléctrico en el siguiente circuito:\n🔹Municipio Santa Clara:\n👉Cto 4** **Consejo- Centro",
-    "timestamp": 1782844486,
-    "timestamp_local": 1782844486
-  },
-  {
-    "id": 49881,
-    "fecha": "30 de Jun del 2026 a las 02:30 PM",
-    "hora_utc": "2026-06-30 18:30",
-    "mensaje": "⚠Afectado el servicio eléctrico en el siguiente circuito:\n🔹Municipio Quemado:\n👉Cto 52 Quemado.",
-    "timestamp": 1782844241,
-    "timestamp_local": 1782844241
-  },
-  {
-    "id": 49880,
-    "fecha": "30 de Jun del 2026 a las 02:04 PM",
-    "hora_utc": "2026-06-30 18:04",
-    "mensaje": "Actualización del servicio eléctrico en la provincia.\n👉En este momento la afectación por déficit de capacidad de generación es de 127 MW, la demanda máxima posible a apagar en estos momentos.\n👉De los circuitos apagables se mantienen afectados 133.\n👉Cuenta con 231 afectaciones por averías secundarias de servicio.",
-    "timestamp": 1782842654,
-    "timestamp_local": 1782842654
   }
 ]
