@@ -1,5 +1,37 @@
 [
   {
+    "id": 55377,
+    "fecha": "02 de Jul del 2026 a las 12:48 PM",
+    "hora_utc": "2026-07-02 16:48",
+    "mensaje": "🚨 Estimados clientes en estos momentos se encuentra afectado por Déficit de Capacidad de Generación el circuito 11 de Santiago, disculpen por las molestias ocasionadas.",
+    "timestamp": 1783010934,
+    "timestamp_local": 1783010934
+  },
+  {
+    "id": 55376,
+    "fecha": "02 de Jul del 2026 a las 12:27 PM",
+    "hora_utc": "2026-07-02 16:27",
+    "mensaje": "🚨 Les informamos a nuestros clientes que en estos momentos se encuentra afectado por emergencia el circuito 24 de Santiago, disculpen por las molestias ocasionadas.",
+    "timestamp": 1783009623,
+    "timestamp_local": 1783009623
+  },
+  {
+    "id": 55375,
+    "fecha": "02 de Jul del 2026 a las 12:17 PM",
+    "hora_utc": "2026-07-02 16:17",
+    "mensaje": "🚨 Estimados clientes en estos momentos se encuentran afectados por Déficit de Capacidad de Generación los circuitos 1 y 13 de Santiago, disculpen por las molestias ocasionadas.",
+    "timestamp": 1783009068,
+    "timestamp_local": 1783009068
+  },
+  {
+    "id": 55374,
+    "fecha": "02 de Jul del 2026 a las 12:05 PM",
+    "hora_utc": "2026-07-02 16:05",
+    "mensaje": "🔴 **Déficit de Capacidad de Generación: **\n**Se produce cuando la demanda del Sistema Eléctrico Nacional, en determinado horario del día supera la generación disponible del país, provocando la desconexión de los circuitos o líneas que permitan garantizar la frecuencia del SEN.**",
+    "timestamp": 1783008301,
+    "timestamp_local": 1783008301
+  },
+  {
     "id": 55373,
     "fecha": "02 de Jul del 2026 a las 11:33 AM",
     "hora_utc": "2026-07-02 15:33",
@@ -102,29 +134,5 @@
     "mensaje": "🚨Estimados clientes en estos momentos se encuentran afectados por Déficit de Capacidad de Generación los circuitos 7 seccionalizado , 26 de Santiago , Ramal Baire - III Frente , 5330 El Cristo  , disculpen por las molestias ocasionadas.",
     "timestamp": 1782978938,
     "timestamp_local": 1782978938
-  },
-  {
-    "id": 55356,
-    "fecha": "02 de Jul del 2026 a las 12:49 AM",
-    "hora_utc": "2026-07-02 04:49",
-    "mensaje": "🚨Estimados clientes en estos momentos se encuentran afectados por Déficit de Capacidad de Generación la línea 5335 Guama  , disculpen por las molestias ocasionadas.",
-    "timestamp": 1782967787,
-    "timestamp_local": 1782967787
-  },
-  {
-    "id": 55355,
-    "fecha": "01 de Jul del 2026 a las 11:37 PM",
-    "hora_utc": "2026-07-02 03:37",
-    "mensaje": "**Disparo:**\nApertura no voluntaria de un interruptor como vía de protección para desconectar uno o varios elementos del circuito, subestación o sistema, restableciéndose el servicio rápidamente en dependencia de la causa.",
-    "timestamp": 1782963478,
-    "timestamp_local": 1782963478
-  },
-  {
-    "id": 55354,
-    "fecha": "01 de Jul del 2026 a las 11:37 PM",
-    "hora_utc": "2026-07-02 03:37",
-    "mensaje": "🚨Estimados clientes se les informa que el circuito 7 se encuentra Disparado , disculpen por las molestias ocasionadas.",
-    "timestamp": 1782963469,
-    "timestamp_local": 1782963469
   }
 ]
