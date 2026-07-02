@@ -1,9 +1,33 @@
 [
   {
+    "id": 55391,
+    "fecha": "02 de Jul del 2026 a las 06:24 PM",
+    "hora_utc": "2026-07-02 22:24",
+    "mensaje": "🔴📌**Disparo:**\nApertura no voluntaria de un interruptor como vía de protección para desconectar uno o varios elementos del circuito, subestación o sistema, restableciéndose el servicio rápidamente en dependencia de la causa.",
+    "timestamp": 1783031041,
+    "timestamp_local": 1783031041
+  },
+  {
+    "id": 55390,
+    "fecha": "02 de Jul del 2026 a las 06:23 PM",
+    "hora_utc": "2026-07-02 22:23",
+    "mensaje": "🚨Estimados clientes se les informa que en estos momentos el circuito 7 se encuentra disparado.",
+    "timestamp": 1783031002,
+    "timestamp_local": 1783031002
+  },
+  {
+    "id": 55389,
+    "fecha": "02 de Jul del 2026 a las 06:01 PM",
+    "hora_utc": "2026-07-02 22:01",
+    "mensaje": "🔴📌**Déficit de Capacidad de Generación: **\n**Se produce cuando la demanda del Sistema Eléctrico Nacional, en determinado horario del día supera la generación disponible del país, provocando la desconexión de los circuitos o líneas que permitan garantizar la frecuencia del SEN.**",
+    "timestamp": 1783029664,
+    "timestamp_local": 1783029664
+  },
+  {
     "id": 55388,
     "fecha": "02 de Jul del 2026 a las 05:40 PM",
     "hora_utc": "2026-07-02 21:40",
-    "mensaje": "🚨Estimados clientes en estos momentos se encuentra afectado por Déficit de Capacidad de Generación el circuito 16 de Santiago, disculpen las molestias ocasionadas.",
+    "mensaje": "🚨Estimados clientes en estos momentos se incorporan a la afectación  por Déficit de Capacidad de Generación los circuitos  3, 9 secc.  y 16 de Santiago y la línea 5330 Cristo, disculpen las molestias ocasionadas.",
     "timestamp": 1783028450,
     "timestamp_local": 1783028450
   },
@@ -126,29 +150,5 @@
     "mensaje": "🚨 Estimados clientes se encuentra afectado por Déficit de Capacidad de Generación la línea 5385 (San Luis- Palma)",
     "timestamp": 1783006278,
     "timestamp_local": 1783006278
-  },
-  {
-    "id": 55371,
-    "fecha": "02 de Jul del 2026 a las 10:29 AM",
-    "hora_utc": "2026-07-02 14:29",
-    "mensaje": "🚨 Estimados clientes en estos momentos se encuentra afectado por Déficit de Capacidad de Generación el circuito 17 seccionalizado de Santiago.",
-    "timestamp": 1783002593,
-    "timestamp_local": 1783002593
-  },
-  {
-    "id": 55370,
-    "fecha": "02 de Jul del 2026 a las 10:08 AM",
-    "hora_utc": "2026-07-02 14:08",
-    "mensaje": "🔴 **Manipulaciones:**\nAcción que se realizan en los circuitos para dar paso al trabajo en zonas afectadas por Averías o Vía Libre y posteriormente para restablecer el servicio eléctrico en los circuitos que se encontraban afectados y en los que se trabaja con anterioridad, luego de culminadas las labores pertinentes.",
-    "timestamp": 1783001329,
-    "timestamp_local": 1783001329
-  },
-  {
-    "id": 55369,
-    "fecha": "02 de Jul del 2026 a las 10:08 AM",
-    "hora_utc": "2026-07-02 14:08",
-    "mensaje": "🚨 Estimados clientes en estos momentos se encuentra en manipulación el circuito 17 de Santiago.",
-    "timestamp": 1783001313,
-    "timestamp_local": 1783001313
   }
 ]
