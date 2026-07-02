@@ -1,5 +1,37 @@
 [
   {
+    "id": 50081,
+    "fecha": "02 de Jul del 2026 a las 04:02 PM",
+    "hora_utc": "2026-07-02 20:02",
+    "mensaje": "Actualización del servicio eléctrico en la provincia.\n👉En este momento la afectación por déficit de capacidad de generación es de 136 MW, la demanda máxima posible a apagar en estos momentos.\n👉De los circuitos apagables se mantienen afectados 143.\n👉Cuenta con 231 afectaciones por averías secundarias de servicio.",
+    "timestamp": 1783022525,
+    "timestamp_local": 1783022525
+  },
+  {
+    "id": 50080,
+    "fecha": "02 de Jul del 2026 a las 03:52 PM",
+    "hora_utc": "2026-07-02 19:52",
+    "mensaje": "✍️Ante cualquier duda conozca sobre la terminología eléctrica\n\n🔹Las averías pueden ser:\n     \n➡️Primarias: Afecta un volumen grande de población pues son las líneas de distribución a 13.8 kV y puede afectar varias manzanas, incluso repartos completos.\n\n➡️Secundarias: Afecta a todos los clientes que se alimenten del mismo transformador, puede afectar una o varias cuadras. \n\n➡️De servicio: Afectan 1 solo cliente o instalación generalmente producto a daños en la acometida, metro contador, etc.).",
+    "timestamp": 1783021957,
+    "timestamp_local": 1783021957
+  },
+  {
+    "id": 50079,
+    "fecha": "02 de Jul del 2026 a las 03:11 PM",
+    "hora_utc": "2026-07-02 19:11",
+    "mensaje": "Afectados 133 MW en la provincia, demanda máxima a apagar en estos momentos.",
+    "timestamp": 1783019498,
+    "timestamp_local": 1783019498
+  },
+  {
+    "id": 50078,
+    "fecha": "02 de Jul del 2026 a las 03:09 PM",
+    "hora_utc": "2026-07-02 19:09",
+    "mensaje": "⚠Afectado el servicio eléctrico en los siguientes circuitos:\n🔹Municipio Placetas:\n👉Cto 192 Benito Juárez\n👉Cto 102 Peroti\n🔹Municipio Santa Clara\n👉Cto 30  Santa Clara Industrial",
+    "timestamp": 1783019396,
+    "timestamp_local": 1783019396
+  },
+  {
     "id": 50077,
     "fecha": "02 de Jul del 2026 a las 02:58 PM",
     "hora_utc": "2026-07-02 18:58",
@@ -118,37 +150,5 @@
     "mensaje": "➡La Provincia presenta 9 afectaciones de servicio eléctrico por transformador dañado:\n👉Municipio Camajuaní: Calle Manuel Herrada  e/ Desp de Loma del Rastro y . Vueltas\n👉Municipio Caibarien: Calle 16 final. Rpto Pesquera \n👉Municipio Corralillo: Carretera a Santo Domingo, Batey San Pedro \n👉Municipio Placetas: Carret de Zulueta , biplanta 1 e/ 6 y B, Rpto Los Chinos. Placetas\n👉Municipio Placetas: Autopista Nacional km 302 en el parador la Legua.\n👉Municipio Placetas: 2da del Este  e/ 3 y 4 del Norte. \n👉Municipio Placetas: 3ra del Norte e/ 8 y 9 del Este.\n👉Municipio Ranchuelo: Calle Luz Caballero, Barrio la Pelua. Esperanza\n👉 Municipio Santo Domingo: Camino a Cayo Bejuco e/ Después de la Placita y .Cascajal.",
     "timestamp": 1783001713,
     "timestamp_local": 1783001713
-  },
-  {
-    "id": 50061,
-    "fecha": "02 de Jul del 2026 a las 10:09 AM",
-    "hora_utc": "2026-07-02 14:09",
-    "mensaje": "⚡En avería el Cto 13 Zona Industrial, perteneciente al municipio Santa Clara, por primario partido.",
-    "timestamp": 1783001358,
-    "timestamp_local": 1783001358
-  },
-  {
-    "id": 50060,
-    "fecha": "02 de Jul del 2026 a las 10:00 AM",
-    "hora_utc": "2026-07-02 14:00",
-    "mensaje": "🚨Nota informativa🚨\n\n📅Situación del SEN para el 2 de julio de 2026.\n\n👉En el día de ayer se afectó el servicio por déficit de capacidad durante las 24 horas y se mantuvo la afectación durante todo el horario de la madrugada. La máxima afectación por déficit de capacidad de generación en el día de ayer fue de 2081 MW a las 22:00 horas. \n\n☀️La producción de energía de los 54 nuevos parques solares fotovoltaicos fue de 4734 MWh, con 787 MW como máxima potencia entregada en el horario de la media con esta fuente de generación.  \n\n👉La disponibilidad del SEN a las 06:00 horas es de 1150 MW, la demanda 2880 MW con 1566 MW afectados. En el horario de la media se estima una afectación de 1400 MW.\n\n🛠️Se encuentran en avería las unidades 6 y 8 de la CTE Mariel, la unidad 6 de la CTE Diez de Octubre y la unidad 2 de la CTE Felton. Se encuentran en mantenimiento la unidad 3 de la CTE Habana, la unidad 5 de la CTE Nuevitas y las unidades 5 y 6 de la CTE Renté. \n\n👉Las limitaciones en la generación térmica son de 439 MW.\n\n📝Se estima para el horario de máxima demanda una disponibilidad de 1150 MW con una demanda máxima de 3100 MW, para un déficit de 1950 MW, por lo que de mantenerse las condiciones previstas se pronostica una afectación de 1980 MW en este horario.\n\nUNE-MINEM---07:00 horas.",
-    "timestamp": 1783000858,
-    "timestamp_local": 1783000858
-  },
-  {
-    "id": 50059,
-    "fecha": "02 de Jul del 2026 a las 10:00 AM",
-    "hora_utc": "2026-07-02 14:00",
-    "mensaje": "Actualización del servicio eléctrico en la provincia.\n👉En este momento la afectación por déficit de capacidad de generación es de 134 MW, la demanda máxima posible a apagar en estos momentos.\n👉De los circuitos apagables se mantienen afectados 145.\n👉Cuenta con 225 afectaciones por averías secundarias de servicio.",
-    "timestamp": 1783000843,
-    "timestamp_local": 1783000843
-  },
-  {
-    "id": 50058,
-    "fecha": "02 de Jul del 2026 a las 10:00 AM",
-    "hora_utc": "2026-07-02 14:00",
-    "mensaje": "⚡ Actualización del Sistema Electroenergético Nacional para el 2 de julio de 2026.\n\nPronóstico de afectación:\nPara el mediodía: 1400 MW\nPara el pico de la noche: 1980 MW\n\nLeer más: https://www.unionelectrica.cu/nota-informativa/\n\n#UnidosXCuba #UniónEléctrica #UNE #NotaInformativa",
-    "timestamp": 1783000836,
-    "timestamp_local": 1783000836
   }
 ]
