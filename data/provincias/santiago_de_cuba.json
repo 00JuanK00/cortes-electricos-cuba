@@ -1,5 +1,37 @@
 [
   {
+    "id": 55397,
+    "fecha": "02 de Jul del 2026 a las 11:32 PM",
+    "hora_utc": "2026-07-03 03:32",
+    "mensaje": "🚨  **Estimados clientes, se les reitera que el comportamiento de las afectaciones eléctricas y el restablecimiento del servicio, estará en dependencia de la situación que presente el Sistema Electroenergético Nacional.**",
+    "timestamp": 1783049538,
+    "timestamp_local": 1783049538
+  },
+  {
+    "id": 55396,
+    "fecha": "02 de Jul del 2026 a las 11:22 PM",
+    "hora_utc": "2026-07-03 03:22",
+    "mensaje": "🚨Estimados clientes en estos momentos se incorporan a la afectación por Déficit de Capacidad de Generación los circuitos  17 y 21 de Santiago y las líneas 4385 y 4390 Contramaestre, disculpen las molestias ocasionadas.",
+    "timestamp": 1783048967,
+    "timestamp_local": 1783048967
+  },
+  {
+    "id": 55395,
+    "fecha": "02 de Jul del 2026 a las 10:04 PM",
+    "hora_utc": "2026-07-03 02:04",
+    "mensaje": "🔴**Circuito en avería:                                                                                                                            Sucede si un circuito se interrumpe por causa de un defecto en un cable conductor de corriente (fase o neutro), un fusible fundido o disyuntor. En sistemas trifásicos una falla puede implicar una fase, más de una fase con la tierra o puede ocurrir solo entre fases.**",
+    "timestamp": 1783044273,
+    "timestamp_local": 1783044273
+  },
+  {
+    "id": 55394,
+    "fecha": "02 de Jul del 2026 a las 10:02 PM",
+    "hora_utc": "2026-07-03 02:02",
+    "mensaje": "🚨Estimados clientes se les informa que en estos momentos los circuitos 19 y 22  de Santiago  se encuentran en avería primaria.",
+    "timestamp": 1783044164,
+    "timestamp_local": 1783044164
+  },
+  {
     "id": 55393,
     "fecha": "02 de Jul del 2026 a las 09:15 PM",
     "hora_utc": "2026-07-03 01:15",
@@ -118,37 +150,5 @@
     "mensaje": "🚨 Estimados clientes en estos momentos se encuentra afectado por Déficit de Capacidad de Generación el circuito 2 de Palma.",
     "timestamp": 1783013777,
     "timestamp_local": 1783013777
-  },
-  {
-    "id": 55377,
-    "fecha": "02 de Jul del 2026 a las 12:48 PM",
-    "hora_utc": "2026-07-02 16:48",
-    "mensaje": "🚨 Estimados clientes en estos momentos se encuentra afectado por Déficit de Capacidad de Generación el circuito 11 de Santiago, disculpen por las molestias ocasionadas.",
-    "timestamp": 1783010934,
-    "timestamp_local": 1783010934
-  },
-  {
-    "id": 55376,
-    "fecha": "02 de Jul del 2026 a las 12:27 PM",
-    "hora_utc": "2026-07-02 16:27",
-    "mensaje": "🚨 Les informamos a nuestros clientes que en estos momentos se encuentra afectado por emergencia el circuito 24 de Santiago, disculpen por las molestias ocasionadas.",
-    "timestamp": 1783009623,
-    "timestamp_local": 1783009623
-  },
-  {
-    "id": 55375,
-    "fecha": "02 de Jul del 2026 a las 12:17 PM",
-    "hora_utc": "2026-07-02 16:17",
-    "mensaje": "🚨 Estimados clientes en estos momentos se encuentran afectados por Déficit de Capacidad de Generación los circuitos 1 y 13 de Santiago, disculpen por las molestias ocasionadas.",
-    "timestamp": 1783009068,
-    "timestamp_local": 1783009068
-  },
-  {
-    "id": 55374,
-    "fecha": "02 de Jul del 2026 a las 12:05 PM",
-    "hora_utc": "2026-07-02 16:05",
-    "mensaje": "🔴 **Déficit de Capacidad de Generación: **\n**Se produce cuando la demanda del Sistema Eléctrico Nacional, en determinado horario del día supera la generación disponible del país, provocando la desconexión de los circuitos o líneas que permitan garantizar la frecuencia del SEN.**",
-    "timestamp": 1783008301,
-    "timestamp_local": 1783008301
   }
 ]
