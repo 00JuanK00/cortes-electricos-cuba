@@ -1,5 +1,29 @@
 [
   {
+    "id": 55435,
+    "fecha": "03 de Jul del 2026 a las 07:00 PM",
+    "hora_utc": "2026-07-03 23:00",
+    "mensaje": "🚨 IMPORTANTE 🚨\n🔊La Empresa Eléctrica Santiago de Cuba informa a los clientes del circuito 7 que, debido a la elevada demanda de energía provocada por la simultaneidad de cargas, se activa la ⚠️protección automática por sobrecarga en la subestación que alimenta este circuito, ocasionando interrupciones en el servicio.\n\nCon el objetivo de contribuir a la estabilidad del servicio durante las dos horas de suministro eléctrico y evitar nuevas afectaciones, es imprescindible reducir el consumo de energía durante este período. Utilice únicamente los equipos eléctricos indispensables y desconecte aquellos que no estén en uso o cuyo funcionamiento pueda posponerse.\n\nLa colaboración de cada cliente es fundamental para disminuir la carga del circuito y  evitar el disparo de las protecciones.",
+    "timestamp": 1783119650,
+    "timestamp_local": 1783119650
+  },
+  {
+    "id": 55433,
+    "fecha": "03 de Jul del 2026 a las 06:42 PM",
+    "hora_utc": "2026-07-03 22:42",
+    "mensaje": "🔴 **Disparo:**\nApertura no voluntaria de un interruptor como vía de protección para desconectar uno o varios elementos del circuito, subestación o sistema, restableciéndose el servicio rápidamente en dependencia de la causa.",
+    "timestamp": 1783118572,
+    "timestamp_local": 1783118572
+  },
+  {
+    "id": 55432,
+    "fecha": "03 de Jul del 2026 a las 06:41 PM",
+    "hora_utc": "2026-07-03 22:41",
+    "mensaje": "🚨 Estimados clientes en estos momentos se encuentra disparado el circuito 7 de Santiago, disculpen por las molestias ocasionadas.",
+    "timestamp": 1783118486,
+    "timestamp_local": 1783118486
+  },
+  {
     "id": 55430,
     "fecha": "03 de Jul del 2026 a las 06:18 PM",
     "hora_utc": "2026-07-03 22:18",
@@ -102,29 +126,5 @@
     "mensaje": "👉🏽**Manipulaciones:**\nAcción que se realizan en los circuitos para dar paso al trabajo en zonas afectadas por Averías o Vía Libre y posteriormente para restablecer el servicio eléctrico en los circuitos que se encontraban afectados y en los que se trabaja con anterioridad, luego de culminadas las labores pertinentes.",
     "timestamp": 1783098359,
     "timestamp_local": 1783098359
-  },
-  {
-    "id": 55415,
-    "fecha": "03 de Jul del 2026 a las 01:05 PM",
-    "hora_utc": "2026-07-03 17:05",
-    "mensaje": "🔴Estimados clientes en estos momentos se esta manipulando el circuito 22.",
-    "timestamp": 1783098340,
-    "timestamp_local": 1783098340
-  },
-  {
-    "id": 55414,
-    "fecha": "03 de Jul del 2026 a las 01:02 PM",
-    "hora_utc": "2026-07-03 17:02",
-    "mensaje": "🔴Estimados clientes se les comunica que se encuentran afectados por Déficit los circuitos 2, 16 , 26 y ll Frente.",
-    "timestamp": 1783098174,
-    "timestamp_local": 1783098174
-  },
-  {
-    "id": 55413,
-    "fecha": "03 de Jul del 2026 a las 12:52 PM",
-    "hora_utc": "2026-07-03 16:52",
-    "mensaje": "📌**Estimados clientes, se les reitera que el comportamiento de las afectaciones eléctricas y el restablecimiento del servicio, estará en dependencia de la situación que presente el Sistema Electroenergético Nacional.**",
-    "timestamp": 1783097523,
-    "timestamp_local": 1783097523
   }
 ]
