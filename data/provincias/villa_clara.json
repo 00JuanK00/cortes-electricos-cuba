@@ -1,5 +1,29 @@
 [
   {
+    "id": 50088,
+    "fecha": "02 de Jul del 2026 a las 09:13 PM",
+    "hora_utc": "2026-07-03 01:13",
+    "mensaje": "Afectados 153 MW en la provincia, demanda máxima a apagar en estos momentos.",
+    "timestamp": 1783041185,
+    "timestamp_local": 1783041185
+  },
+  {
+    "id": 50087,
+    "fecha": "02 de Jul del 2026 a las 08:19 PM",
+    "hora_utc": "2026-07-03 00:19",
+    "mensaje": "Actualización del servicio eléctrico en la provincia.\n👉En este momento la afectación por déficit de capacidad de generación es de 152 MW, la demanda máxima posible a apagar en estos momentos.\n👉De los circuitos apagables se mantienen afectados 143.\n👉Cuenta con 225 afectaciones por averías secundarias de servicio.",
+    "timestamp": 1783037951,
+    "timestamp_local": 1783037951
+  },
+  {
+    "id": 50086,
+    "fecha": "02 de Jul del 2026 a las 07:55 PM",
+    "hora_utc": "2026-07-02 23:55",
+    "mensaje": "⚡En avería el Cto 159 de manera parcial, perteneciente al municipio Corralillo, por cable primario partido y poste inclinado que ofrece peligro.",
+    "timestamp": 1783036556,
+    "timestamp_local": 1783036556
+  },
+  {
     "id": 50085,
     "fecha": "02 de Jul del 2026 a las 07:11 PM",
     "hora_utc": "2026-07-02 23:11",
@@ -118,29 +142,5 @@
     "mensaje": "🕛Actualización del servicio eléctrico.\n✍️El déficit de capacidad de generación en estos momentos es de 141 MW\n✍️En el momento de esta nota, se mantienen afectados 143 circuitos.\n✍️ Cuenta con 228 afectaciones por averías secundarias y de servicio:\n🔸 Camajuaní (1)\n🔸 Cifuentes (3)\n🔸 Manicaragua (11)\n🔸 Placetas (14)\n🔸 Ranchuelo (6)\n🔸 Sagua (3) \n🔸 Santa Clara (177)\n🔸 Santo Domingo (15)\n🛠️Pendientes a solucionar por el área técnica 18.\n⚡La provincia presenta 2 averías primarias:\n➡Cto 102 Peroti, perteneciente al municipio Placetas, afectado parcialmente  por poste primario partido.\n➡Cto 111 Mataguá, perteneciente al municipio Manicaragua, afectado parcialmente por cable primario partido.",
     "timestamp": 1783010243,
     "timestamp_local": 1783010243
-  },
-  {
-    "id": 50068,
-    "fecha": "02 de Jul del 2026 a las 12:00 PM",
-    "hora_utc": "2026-07-02 16:00",
-    "mensaje": "⚠Afectado el servicio eléctrico en el siguiente circuito:\n🔹Municipio Placetas\n👉Cto 99 Placetas",
-    "timestamp": 1783008025,
-    "timestamp_local": 1783008025
-  },
-  {
-    "id": 50067,
-    "fecha": "02 de Jul del 2026 a las 11:59 AM",
-    "hora_utc": "2026-07-02 15:59",
-    "mensaje": "💡Con servicio eléctrico los siguientes circuitos:\n🔹Municipio Caibarién\n👉Ctos 63 y 64\n🔹Municipio Placetas:\n👉Ctos 101 y 145 Cumbre\n🔹Municipio Placetas\n👉Cto 98 Placetas",
-    "timestamp": 1783007990,
-    "timestamp_local": 1783007990
-  },
-  {
-    "id": 50066,
-    "fecha": "02 de Jul del 2026 a las 11:28 AM",
-    "hora_utc": "2026-07-02 15:28",
-    "mensaje": "⚠Afectado el servicio eléctrico en el siguiente circuito:\n🔹Municipio Santa Clara\n👉Cto 168 Condado",
-    "timestamp": 1783006139,
-    "timestamp_local": 1783006139
   }
 ]
