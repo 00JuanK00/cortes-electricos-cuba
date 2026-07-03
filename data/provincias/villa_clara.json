@@ -1,5 +1,53 @@
 [
   {
+    "id": 50104,
+    "fecha": "03 de Jul del 2026 a las 09:21 AM",
+    "hora_utc": "2026-07-03 13:21",
+    "mensaje": "💡Con servicio eléctrico los siguientes circuitos:\n🔹Municipio Camajuaní:\n👉Ctos  72 y 129\n🔹Municipio Caibarién:\n👉 Ctos 61 y 62",
+    "timestamp": 1783084881,
+    "timestamp_local": 1783084881
+  },
+  {
+    "id": 50103,
+    "fecha": "03 de Jul del 2026 a las 08:31 AM",
+    "hora_utc": "2026-07-03 12:31",
+    "mensaje": "Actualización del servicio eléctrico en la provincia.\n👉En este momento la afectación por déficit de capacidad de generación es de 125 MW, la demanda máxima posible a apagar en estos momentos.\n👉De los circuitos apagables se mantienen afectados 141.\n👉Cuenta con 211 afectaciones por averías secundarias de servicio.",
+    "timestamp": 1783081876,
+    "timestamp_local": 1783081876
+  },
+  {
+    "id": 50102,
+    "fecha": "03 de Jul del 2026 a las 08:14 AM",
+    "hora_utc": "2026-07-03 12:14",
+    "mensaje": "⚠Afectado el servicio eléctrico en los siguientes circuitos:\n🔹Municipio Santa Clara:\n👉Cto 6 Vigía\n👉Cto 34 Sabana Rebacadero\n👉Cto 39 (Sandino)",
+    "timestamp": 1783080858,
+    "timestamp_local": 1783080858
+  },
+  {
+    "id": 50101,
+    "fecha": "03 de Jul del 2026 a las 08:08 AM",
+    "hora_utc": "2026-07-03 12:08",
+    "mensaje": "💡Con servicio eléctrico los siguientes circuitos:\n🔹Municipio Ranchuelo:\n👉Cto 92 Esperanza (Pueblo)\n👉Cto 93 Esperanza (Campo)",
+    "timestamp": 1783080484,
+    "timestamp_local": 1783080484
+  },
+  {
+    "id": 50100,
+    "fecha": "03 de Jul del 2026 a las 07:43 AM",
+    "hora_utc": "2026-07-03 11:43",
+    "mensaje": "💡Con servicio eléctrico los siguientes circuitos:\n🔹Municipio Santa Clara\n👉Ctos 30 y 193  Santa Clara Industrial",
+    "timestamp": 1783078995,
+    "timestamp_local": 1783078995
+  },
+  {
+    "id": 50099,
+    "fecha": "03 de Jul del 2026 a las 07:18 AM",
+    "hora_utc": "2026-07-03 11:18",
+    "mensaje": "Afectados 126 MW en la provincia, demanda máxima a apagar en estos momentos.",
+    "timestamp": 1783077501,
+    "timestamp_local": 1783077501
+  },
+  {
     "id": 50098,
     "fecha": "03 de Jul del 2026 a las 06:21 AM",
     "hora_utc": "2026-07-03 10:21",
@@ -110,45 +158,5 @@
     "mensaje": "Afectados 154 MW en la provincia, demanda máxima a apagar en estos momentos.",
     "timestamp": 1783033877,
     "timestamp_local": 1783033877
-  },
-  {
-    "id": 50084,
-    "fecha": "02 de Jul del 2026 a las 06:18 PM",
-    "hora_utc": "2026-07-02 22:18",
-    "mensaje": "🕕Actualización del servicio eléctrico.\n✍️El déficit de capacidad de generación en estos momentos es de 154 MW\n✍️En el momento de esta nota, se mantienen afectados 143 circuitos.\n✍️ Cuenta con 226 afectaciones por averías secundarias y de servicio:\n🔸 Cifuentes (5)\n🔸 Corralillo (3)\n🔸 Manicaragua (6)\n🔸 Placetas (10)\n🔸 Ranchuelo (5)\n🔸 Remedios (2)\n🔸 Sagua (2) \n🔸 Santa Clara (187)\n🔸 Santo Domingo (13)\n🛠️Pendientes a solucionar por el área técnica 20.\n⚡La provincia presenta 3 averías primarias:\n➡Cto 102 Peroti, perteneciente al municipio Placetas, afectado parcialmente  por poste primario partido.\n➡Cto 111 Mataguá, perteneciente al municipio Manicaragua, afectado parcialmente por cable primario partido.\n➡Cto 13 Zona Industrial, perteneciente al municipio Santa Clara, por primario partido.",
-    "timestamp": 1783030704,
-    "timestamp_local": 1783030704
-  },
-  {
-    "id": 50082,
-    "fecha": "02 de Jul del 2026 a las 05:03 PM",
-    "hora_utc": "2026-07-02 21:03",
-    "mensaje": "Afectados 141 MW en la provincia, demanda máxima a apagar en estos momentos.",
-    "timestamp": 1783026191,
-    "timestamp_local": 1783026191
-  },
-  {
-    "id": 50081,
-    "fecha": "02 de Jul del 2026 a las 04:02 PM",
-    "hora_utc": "2026-07-02 20:02",
-    "mensaje": "Actualización del servicio eléctrico en la provincia.\n👉En este momento la afectación por déficit de capacidad de generación es de 136 MW, la demanda máxima posible a apagar en estos momentos.\n👉De los circuitos apagables se mantienen afectados 143.\n👉Cuenta con 231 afectaciones por averías secundarias de servicio.",
-    "timestamp": 1783022525,
-    "timestamp_local": 1783022525
-  },
-  {
-    "id": 50080,
-    "fecha": "02 de Jul del 2026 a las 03:52 PM",
-    "hora_utc": "2026-07-02 19:52",
-    "mensaje": "✍️Ante cualquier duda conozca sobre la terminología eléctrica\n\n🔹Las averías pueden ser:\n     \n➡️Primarias: Afecta un volumen grande de población pues son las líneas de distribución a 13.8 kV y puede afectar varias manzanas, incluso repartos completos.\n\n➡️Secundarias: Afecta a todos los clientes que se alimenten del mismo transformador, puede afectar una o varias cuadras. \n\n➡️De servicio: Afectan 1 solo cliente o instalación generalmente producto a daños en la acometida, metro contador, etc.).",
-    "timestamp": 1783021957,
-    "timestamp_local": 1783021957
-  },
-  {
-    "id": 50079,
-    "fecha": "02 de Jul del 2026 a las 03:11 PM",
-    "hora_utc": "2026-07-02 19:11",
-    "mensaje": "Afectados 133 MW en la provincia, demanda máxima a apagar en estos momentos.",
-    "timestamp": 1783019498,
-    "timestamp_local": 1783019498
   }
 ]
