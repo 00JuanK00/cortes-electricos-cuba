@@ -1,5 +1,45 @@
 [
   {
+    "id": 55413,
+    "fecha": "03 de Jul del 2026 a las 12:52 PM",
+    "hora_utc": "2026-07-03 16:52",
+    "mensaje": "📌**Estimados clientes, se les reitera que el comportamiento de las afectaciones eléctricas y el restablecimiento del servicio, estará en dependencia de la situación que presente el Sistema Electroenergético Nacional.**",
+    "timestamp": 1783097523,
+    "timestamp_local": 1783097523
+  },
+  {
+    "id": 55411,
+    "fecha": "03 de Jul del 2026 a las 11:59 AM",
+    "hora_utc": "2026-07-03 15:59",
+    "mensaje": "🔴**Déficit de Capacidad de Generación: **\n**Se produce cuando la demanda del Sistema Eléctrico Nacional, en determinado horario del día supera la generación disponible del país, provocando la desconexión de los circuitos o líneas que permitan garantizar la frecuencia del SEN.**",
+    "timestamp": 1783094363,
+    "timestamp_local": 1783094363
+  },
+  {
+    "id": 55410,
+    "fecha": "03 de Jul del 2026 a las 11:58 AM",
+    "hora_utc": "2026-07-03 15:58",
+    "mensaje": "🟡Se les comunica a nuestros clientes que se incorporan a la afectación por Déficit los circuitos 14, San Juan , Guama y LI 4435-Contramaestre.",
+    "timestamp": 1783094327,
+    "timestamp_local": 1783094327
+  },
+  {
+    "id": 55409,
+    "fecha": "03 de Jul del 2026 a las 11:45 AM",
+    "hora_utc": "2026-07-03 15:45",
+    "mensaje": "**👉🏽Manipulaciones:**\nAcción que se realizan en los circuitos para dar paso al trabajo en zonas afectadas por Averías o Vía Libre y posteriormente para restablecer el servicio eléctrico en los circuitos que se encontraban afectados y en los que se trabaja con anterioridad, luego de culminadas las labores pertinentes.",
+    "timestamp": 1783093530,
+    "timestamp_local": 1783093530
+  },
+  {
+    "id": 55408,
+    "fecha": "03 de Jul del 2026 a las 11:44 AM",
+    "hora_utc": "2026-07-03 15:44",
+    "mensaje": "🟣Informamos a nuestros clientes que se encuentra afectado por Manipulación el circuito 18.",
+    "timestamp": 1783093490,
+    "timestamp_local": 1783093490
+  },
+  {
     "id": 55407,
     "fecha": "03 de Jul del 2026 a las 10:54 AM",
     "hora_utc": "2026-07-03 14:54",
@@ -86,53 +126,5 @@
     "mensaje": "🚨Estimados clientes se les informa que en estos momentos los circuitos 19 y 22  de Santiago  se encuentran en avería primaria.",
     "timestamp": 1783044164,
     "timestamp_local": 1783044164
-  },
-  {
-    "id": 55393,
-    "fecha": "02 de Jul del 2026 a las 09:15 PM",
-    "hora_utc": "2026-07-03 01:15",
-    "mensaje": "🚨Estimados clientes se les informa que en estos momentos se encuentra disparado el circuito 19 de Santiago y la línea 4335 Contramaestre.",
-    "timestamp": 1783041321,
-    "timestamp_local": 1783041321
-  },
-  {
-    "id": 55392,
-    "fecha": "02 de Jul del 2026 a las 07:11 PM",
-    "hora_utc": "2026-07-02 23:11",
-    "mensaje": "🚨 Estimados clientes, se les reitera que el comportamiento de las afectaciones eléctricas y el restablecimiento del servicio, estará en dependencia de la situación que presente el Sistema Electroenergético Nacional...",
-    "timestamp": 1783033863,
-    "timestamp_local": 1783033863
-  },
-  {
-    "id": 55391,
-    "fecha": "02 de Jul del 2026 a las 06:24 PM",
-    "hora_utc": "2026-07-02 22:24",
-    "mensaje": "🔴📌**Disparo:**\nApertura no voluntaria de un interruptor como vía de protección para desconectar uno o varios elementos del circuito, subestación o sistema, restableciéndose el servicio rápidamente en dependencia de la causa.",
-    "timestamp": 1783031041,
-    "timestamp_local": 1783031041
-  },
-  {
-    "id": 55390,
-    "fecha": "02 de Jul del 2026 a las 06:23 PM",
-    "hora_utc": "2026-07-02 22:23",
-    "mensaje": "🚨Estimados clientes se les informa que en estos momentos el circuito 7 se encuentra disparado.",
-    "timestamp": 1783031002,
-    "timestamp_local": 1783031002
-  },
-  {
-    "id": 55389,
-    "fecha": "02 de Jul del 2026 a las 06:01 PM",
-    "hora_utc": "2026-07-02 22:01",
-    "mensaje": "🔴📌**Déficit de Capacidad de Generación: **\n**Se produce cuando la demanda del Sistema Eléctrico Nacional, en determinado horario del día supera la generación disponible del país, provocando la desconexión de los circuitos o líneas que permitan garantizar la frecuencia del SEN.**",
-    "timestamp": 1783029664,
-    "timestamp_local": 1783029664
-  },
-  {
-    "id": 55388,
-    "fecha": "02 de Jul del 2026 a las 05:40 PM",
-    "hora_utc": "2026-07-02 21:40",
-    "mensaje": "🚨Estimados clientes en estos momentos se incorporan a la afectación  por Déficit de Capacidad de Generación los circuitos  3, 9 secc. y 16 de Santiago, el circuito 1 de Palma, la línea 5330 Cristo y 5390 La Maya, disculpen las molestias ocasionadas.",
-    "timestamp": 1783028450,
-    "timestamp_local": 1783028450
   }
 ]
