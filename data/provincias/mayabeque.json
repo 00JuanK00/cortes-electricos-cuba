@@ -1,5 +1,37 @@
 [
   {
+    "id": 116831,
+    "fecha": "04 de Jul del 2026 a las 11:39 AM",
+    "hora_utc": "2026-07-04 15:39",
+    "mensaje": "🚨Por déficit de capacidad de generación se afecta el servicio en el siguiente circuito:\n*8 de San José 🚨",
+    "timestamp": 1783179590,
+    "timestamp_local": 1783179590
+  },
+  {
+    "id": 116830,
+    "fecha": "04 de Jul del 2026 a las 11:37 AM",
+    "hora_utc": "2026-07-04 15:37",
+    "mensaje": "♦️Informamos a los clientes del circuito Güines 2 que se encuentran afectados por disparo en las líneas ♦️",
+    "timestamp": 1783179469,
+    "timestamp_local": 1783179469
+  },
+  {
+    "id": 116829,
+    "fecha": "04 de Jul del 2026 a las 11:17 AM",
+    "hora_utc": "2026-07-04 15:17",
+    "mensaje": "♦️Informamos a los clientes del circuito Sub Petróleo que se encuentran afectados por vía libre para cambio de transformador♦️",
+    "timestamp": 1783178255,
+    "timestamp_local": 1783178255
+  },
+  {
+    "id": 116827,
+    "fecha": "04 de Jul del 2026 a las 11:07 AM",
+    "hora_utc": "2026-07-04 15:07",
+    "mensaje": "♦️informamos a los clientes del circuito Vedado de Güines que se encuentran afectados por vía libre para cambio de transformador♦️",
+    "timestamp": 1783177658,
+    "timestamp_local": 1783177658
+  },
+  {
     "id": 116826,
     "fecha": "04 de Jul del 2026 a las 09:42 AM",
     "hora_utc": "2026-07-04 13:42",
@@ -94,45 +126,5 @@
     "mensaje": "🚨Por déficit de capacidad de generación se afecta el servicio en el siguiente circuito:\n*Héctor Molina 🚨",
     "timestamp": 1783134968,
     "timestamp_local": 1783134968
-  },
-  {
-    "id": 116811,
-    "fecha": "03 de Jul del 2026 a las 10:43 PM",
-    "hora_utc": "2026-07-04 02:43",
-    "mensaje": "🚨Pasa a quedar afectado por déficit de capacidad de generación el siguiente circuito:\n*Batabanó 🚨",
-    "timestamp": 1783132992,
-    "timestamp_local": 1783132992
-  },
-  {
-    "id": 116810,
-    "fecha": "03 de Jul del 2026 a las 10:35 PM",
-    "hora_utc": "2026-07-04 02:35",
-    "mensaje": "🚨Por déficit de capacidad de generación se afecta el servicio en el siguiente circuito:\n*Camilo 🚨",
-    "timestamp": 1783132504,
-    "timestamp_local": 1783132504
-  },
-  {
-    "id": 116809,
-    "fecha": "03 de Jul del 2026 a las 10:31 PM",
-    "hora_utc": "2026-07-04 02:31",
-    "mensaje": "🚨Debido a la bajada brusca de la frecuencia por la falla en la subestación Victoria de Girón el Despacho Nacional de Cargas abrió los circuitos HB 101 y HB 102 como medida preventiva.En estos momentos  están cerrados pero sin asumir carga. La situación de SEN continúa siendo  bien compleja.🚨",
-    "timestamp": 1783132272,
-    "timestamp_local": 1783132272
-  },
-  {
-    "id": 116808,
-    "fecha": "03 de Jul del 2026 a las 10:13 PM",
-    "hora_utc": "2026-07-04 02:13",
-    "mensaje": "🚨Por déficit de capacidad de generación se afecta el servicio en el siguiente circuito:\n*6 de San José 🚨",
-    "timestamp": 1783131184,
-    "timestamp_local": 1783131184
-  },
-  {
-    "id": 116807,
-    "fecha": "03 de Jul del 2026 a las 10:11 PM",
-    "hora_utc": "2026-07-04 02:11",
-    "mensaje": "Una Falla en Subestación Victoria de Girón, en la Capital a las 20:08 horas, provoca alta oscilación en SEN y la salida abrupta de Unidades Rente 3 y Felton 1. En este minuto Felton en línea, con 50 MW y sube cargas. Unidades de ENERGAS se suman a Generación Base. SEN, con baja disponibilidad de capacidades de Generación. Afectación elevada en todo el país.",
-    "timestamp": 1783131077,
-    "timestamp_local": 1783131077
   }
 ]

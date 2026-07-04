@@ -1,5 +1,21 @@
 [
   {
+    "id": 50206,
+    "fecha": "04 de Jul del 2026 a las 11:06 AM",
+    "hora_utc": "2026-07-04 15:06",
+    "mensaje": "Afectados 152 MW en la provincia, demanda máxima a apagar en estos momentos.",
+    "timestamp": 1783177562,
+    "timestamp_local": 1783177562
+  },
+  {
+    "id": 50205,
+    "fecha": "04 de Jul del 2026 a las 10:48 AM",
+    "hora_utc": "2026-07-04 14:48",
+    "mensaje": "⚠Se encuentra afectada por DAF la línea del 1960:\n🔹Municipio Encrucijada\n👉Cto 120 Calabazar\n👉Ctos 121 y 127 Perucho",
+    "timestamp": 1783176484,
+    "timestamp_local": 1783176484
+  },
+  {
     "id": 50203,
     "fecha": "04 de Jul del 2026 a las 10:02 AM",
     "hora_utc": "2026-07-04 14:02",
@@ -134,21 +150,5 @@
     "mensaje": "🕕Actualización del servicio eléctrico.\n✍️El déficit de capacidad de generación en estos momentos es de 132 MW\n✍️En el momento de esta nota, se mantienen afectados 160 circuitos.\n✍️ Cuenta con 238 afectaciones por averías secundarias y de servicio:\n🔸 Caibarién (2)\n🔸 Camajuaní (2)\n🔸 Corralillo (4)\n🔸 Manicaragua (7)\n🔸 Placetas (11)\n🔸 Ranchuelo (7)\n🔸 Remedios (2)\n🔸 Sagua (6) \n🔸 Santa Clara (165)\n🔸 Santo Domingo (11)\n🛠️Pendientes a solucionar por el área técnica  21.\n⚡La provincia presenta 2 averías primarias:\n➡ Cto 102 Peroti, perteneciente al municipio Placetas, afectado parcialmente  por poste primario partido.\n➡ Cto 111 Mataguá, perteneciente al municipio Manicaragua, afectado parcialmente por cable primario partido.",
     "timestamp": 1783160845,
     "timestamp_local": 1783160845
-  },
-  {
-    "id": 50186,
-    "fecha": "04 de Jul del 2026 a las 03:29 AM",
-    "hora_utc": "2026-07-04 07:29",
-    "mensaje": "💡Con servicio eléctrico el siguiente circuito.\n🔹Municipio Santa Clara: \n👉Cto 26 Manuelita",
-    "timestamp": 1783150179,
-    "timestamp_local": 1783150179
-  },
-  {
-    "id": 50185,
-    "fecha": "04 de Jul del 2026 a las 02:57 AM",
-    "hora_utc": "2026-07-04 06:57",
-    "mensaje": "Actualización del servicio eléctrico en la provincia.\n👉En este momento la afectación por déficit de capacidad de generación es de 139 MW, la demanda máxima posible a apagar en estos momentos.\n👉De los circuitos apagables se mantienen afectados 143.\n👉Cuenta con 217 afectaciones por averías secundarias de servicio.",
-    "timestamp": 1783148233,
-    "timestamp_local": 1783148233
   }
 ]
