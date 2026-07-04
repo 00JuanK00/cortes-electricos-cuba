@@ -1,5 +1,21 @@
 [
   {
+    "id": 55464,
+    "fecha": "04 de Jul del 2026 a las 01:20 PM",
+    "hora_utc": "2026-07-04 17:20",
+    "mensaje": "🚨Estimados cliente se incorporan a la afectación por Déficit de Capacidad de Generación el circuito 23 y la línea II Frente. Disculpen las molestias ocasionadas.",
+    "timestamp": 1783185630,
+    "timestamp_local": 1783185630
+  },
+  {
+    "id": 55463,
+    "fecha": "04 de Jul del 2026 a las 12:53 PM",
+    "hora_utc": "2026-07-04 16:53",
+    "mensaje": "🚨Estimados clientes se les informa que en estos momentos se encuentran manipulando el circuito 7 de Santiago, disculpen las molestias ocasionadas.",
+    "timestamp": 1783183983,
+    "timestamp_local": 1783183983
+  },
+  {
     "id": 55462,
     "fecha": "04 de Jul del 2026 a las 12:24 PM",
     "hora_utc": "2026-07-04 16:24",
@@ -126,21 +142,5 @@
     "mensaje": "🚨 Estimados clientes se afecta por Déficit de Capacidad de Generación el servicio eléctrico de la línea 4435 de Contramaestre y el circuito 7 seccionalizado.",
     "timestamp": 1783137114,
     "timestamp_local": 1783137114
-  },
-  {
-    "id": 55444,
-    "fecha": "03 de Jul del 2026 a las 11:10 PM",
-    "hora_utc": "2026-07-04 03:10",
-    "mensaje": "🔴 **Disparo:**\nApertura no voluntaria de un interruptor como vía de protección para desconectar uno o varios elementos del circuito, subestación o sistema, restableciéndose el servicio rápidamente en dependencia de la causa.",
-    "timestamp": 1783134608,
-    "timestamp_local": 1783134608
-  },
-  {
-    "id": 55443,
-    "fecha": "03 de Jul del 2026 a las 11:09 PM",
-    "hora_utc": "2026-07-04 03:09",
-    "mensaje": "🚨 Estimados clientes en estos momentos se encuentra disparado el circuito 7 de Santiago.",
-    "timestamp": 1783134563,
-    "timestamp_local": 1783134563
   }
 ]

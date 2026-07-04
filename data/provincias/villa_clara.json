@@ -1,5 +1,29 @@
 [
   {
+    "id": 50214,
+    "fecha": "04 de Jul del 2026 a las 01:15 PM",
+    "hora_utc": "2026-07-04 17:15",
+    "mensaje": "⚠Afectado el servicio eléctrico en los siguientes circuitos:\n🔹Municipio Santo Domingo:\n👉Cto 79 Santo Domingo\n👉Cto 81 26 de Julio\n👉Cto 163 Batey 26 de Julio\n🔹Municipio Ranchuelo:\n👉Ctos 54, 94 y 95 Jicotea",
+    "timestamp": 1783185324,
+    "timestamp_local": 1783185324
+  },
+  {
+    "id": 50213,
+    "fecha": "04 de Jul del 2026 a las 01:14 PM",
+    "hora_utc": "2026-07-04 17:14",
+    "mensaje": "💡Con servicio eléctrico los siguientes circuitos:\n🔹Municipio Santa Clara:\n👉Municipio Santo Domingo:\n👉Cto 134\n👉Ctos 87 y 96 Bermejal\n👉Cto 187 Batey Carlos Baliño\n👉Cto 82 Ulacia\n👉Cto 84 Rodrigo",
+    "timestamp": 1783185246,
+    "timestamp_local": 1783185246
+  },
+  {
+    "id": 50212,
+    "fecha": "04 de Jul del 2026 a las 01:11 PM",
+    "hora_utc": "2026-07-04 17:11",
+    "mensaje": "Afectados 150 MW en la provincia, demanda máxima a apagar en estos momentos.",
+    "timestamp": 1783185105,
+    "timestamp_local": 1783185105
+  },
+  {
     "id": 50211,
     "fecha": "04 de Jul del 2026 a las 12:34 PM",
     "hora_utc": "2026-07-04 16:34",
@@ -126,29 +150,5 @@
     "mensaje": "⚠Afectado el servicio eléctrico en los siguientes circuitos:\n🔹Municipio Santa Clara:\n👉Cto 5 Dobarganes\n👉Cto 17 Subplanta",
     "timestamp": 1783170400,
     "timestamp_local": 1783170400
-  },
-  {
-    "id": 50194,
-    "fecha": "04 de Jul del 2026 a las 08:07 AM",
-    "hora_utc": "2026-07-04 12:07",
-    "mensaje": "Actualización del servicio eléctrico en la provincia.\n👉En este momento la afectación por déficit de capacidad de generación es de 137 MW, la demanda máxima posible a apagar en estos momentos.\n👉De los circuitos apagables se mantienen afectados 160.\n👉Cuenta con 223 afectaciones por averías secundarias de servicio.",
-    "timestamp": 1783166825,
-    "timestamp_local": 1783166825
-  },
-  {
-    "id": 50193,
-    "fecha": "04 de Jul del 2026 a las 07:21 AM",
-    "hora_utc": "2026-07-04 11:21",
-    "mensaje": "💡Con servicio eléctrico en los siguientes circuitos:\n🔹Municipio Encrucijada\n👉Cto 120 Calabazar\n👉Ctos 121 y 127 Perucho",
-    "timestamp": 1783164098,
-    "timestamp_local": 1783164098
-  },
-  {
-    "id": 50192,
-    "fecha": "04 de Jul del 2026 a las 07:20 AM",
-    "hora_utc": "2026-07-04 11:20",
-    "mensaje": "💡Con servicio eléctrico el siguiente circuito.\n🔹Municipio Santa Clara\n👉Cto 3 Centro",
-    "timestamp": 1783164043,
-    "timestamp_local": 1783164043
   }
 ]
