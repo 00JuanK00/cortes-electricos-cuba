@@ -1,5 +1,29 @@
 [
   {
+    "id": 55438,
+    "fecha": "03 de Jul del 2026 a las 08:52 PM",
+    "hora_utc": "2026-07-04 00:52",
+    "mensaje": "🔴 **Disparo Automático de Frecuencia (DAF):**\n**Ocurre cuando la frecuencia está por debajo de los 60Hz y determinada carga o circuito se desconecta del sistema automáticamente hasta que se estabilice.**",
+    "timestamp": 1783126321,
+    "timestamp_local": 1783126321
+  },
+  {
+    "id": 55437,
+    "fecha": "03 de Jul del 2026 a las 08:52 PM",
+    "hora_utc": "2026-07-04 00:52",
+    "mensaje": "📌Estimados clientes, en estos momentos se encuentra disparado por DAF el circuito 17 de Santiago.",
+    "timestamp": 1783126321,
+    "timestamp_local": 1783126321
+  },
+  {
+    "id": 55436,
+    "fecha": "03 de Jul del 2026 a las 08:32 PM",
+    "hora_utc": "2026-07-04 00:32",
+    "mensaje": "📌 **Estimados clientes, se les reitera que el comportamiento de las afectaciones eléctricas y el restablecimiento del servicio, estará en dependencia de la situación que presente el Sistema Electroenergético Nacional.**",
+    "timestamp": 1783125122,
+    "timestamp_local": 1783125122
+  },
+  {
     "id": 55435,
     "fecha": "03 de Jul del 2026 a las 07:00 PM",
     "hora_utc": "2026-07-03 23:00",
@@ -102,29 +126,5 @@
     "mensaje": "🟠Se les informa que en estos momentos se encuentran afectados por Déficit los circuitos 10 y 3 .",
     "timestamp": 1783103933,
     "timestamp_local": 1783103933
-  },
-  {
-    "id": 55418,
-    "fecha": "03 de Jul del 2026 a las 02:14 PM",
-    "hora_utc": "2026-07-03 18:14",
-    "mensaje": "🔵Se les informa a nuestros clientes que se incorpora a la afectación la Línea 5380-Mella .",
-    "timestamp": 1783102472,
-    "timestamp_local": 1783102472
-  },
-  {
-    "id": 55417,
-    "fecha": "03 de Jul del 2026 a las 02:13 PM",
-    "hora_utc": "2026-07-03 18:13",
-    "mensaje": "🟠Estimados clientes en estos momentos se encuentran afectados por Déficit los circuitos 2 de Palma, 11 y la Línea 5330-Cristo .",
-    "timestamp": 1783102382,
-    "timestamp_local": 1783102382
-  },
-  {
-    "id": 55416,
-    "fecha": "03 de Jul del 2026 a las 01:05 PM",
-    "hora_utc": "2026-07-03 17:05",
-    "mensaje": "👉🏽**Manipulaciones:**\nAcción que se realizan en los circuitos para dar paso al trabajo en zonas afectadas por Averías o Vía Libre y posteriormente para restablecer el servicio eléctrico en los circuitos que se encontraban afectados y en los que se trabaja con anterioridad, luego de culminadas las labores pertinentes.",
-    "timestamp": 1783098359,
-    "timestamp_local": 1783098359
   }
 ]
