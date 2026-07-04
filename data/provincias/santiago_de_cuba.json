@@ -1,5 +1,29 @@
 [
   {
+    "id": 55454,
+    "fecha": "04 de Jul del 2026 a las 06:32 AM",
+    "hora_utc": "2026-07-04 10:32",
+    "mensaje": "🚨 Estimados clientes se incorpora a la afectación por Déficit la línea 5390- La Maya.",
+    "timestamp": 1783161145,
+    "timestamp_local": 1783161145
+  },
+  {
+    "id": 55453,
+    "fecha": "04 de Jul del 2026 a las 06:19 AM",
+    "hora_utc": "2026-07-04 10:19",
+    "mensaje": "🚨 Estimados clientes en estos momentos se encuentran afectados por Déficit de Capacidad de Generación los circuitos 25, 14, 2 de Santiago, 4 de Palma y la línea 5330- Cristo, disculpen por las molestias ocasionadas.",
+    "timestamp": 1783160356,
+    "timestamp_local": 1783160356
+  },
+  {
+    "id": 55451,
+    "fecha": "04 de Jul del 2026 a las 04:43 AM",
+    "hora_utc": "2026-07-04 08:43",
+    "mensaje": "🚨 Estimados clientes en estos momentos se encuentran afectados por Déficit de Capacidad de Generación los circuitos  13, 1, 24, 17 de Santiago y las líneas 5385 ( Palma- Contramaestre) y 5380 ( Mella- San Luis) , disculpen por las molestias ocasionadas",
+    "timestamp": 1783154597,
+    "timestamp_local": 1783154597
+  },
+  {
     "id": 55450,
     "fecha": "04 de Jul del 2026 a las 02:14 AM",
     "hora_utc": "2026-07-04 06:14",
@@ -118,21 +142,5 @@
     "mensaje": "🚨 IMPORTANTE 🚨\n🔊La Empresa Eléctrica Santiago de Cuba informa a los clientes del circuito 7 que, debido a la elevada demanda de energía provocada por la simultaneidad de cargas, se activa la ⚠️protección automática por sobrecarga en la subestación que alimenta este circuito, ocasionando interrupciones en el servicio.\n\nCon el objetivo de contribuir a la estabilidad del servicio durante las dos horas de suministro eléctrico y evitar nuevas afectaciones, es imprescindible reducir el consumo de energía durante este período. Utilice únicamente los equipos eléctricos indispensables y desconecte aquellos que no estén en uso o cuyo funcionamiento pueda posponerse.\n\nLa colaboración de cada cliente es fundamental para disminuir la carga del circuito y  evitar el disparo de las protecciones.",
     "timestamp": 1783119650,
     "timestamp_local": 1783119650
-  },
-  {
-    "id": 55433,
-    "fecha": "03 de Jul del 2026 a las 06:42 PM",
-    "hora_utc": "2026-07-03 22:42",
-    "mensaje": "🔴 **Disparo:**\nApertura no voluntaria de un interruptor como vía de protección para desconectar uno o varios elementos del circuito, subestación o sistema, restableciéndose el servicio rápidamente en dependencia de la causa.",
-    "timestamp": 1783118572,
-    "timestamp_local": 1783118572
-  },
-  {
-    "id": 55432,
-    "fecha": "03 de Jul del 2026 a las 06:41 PM",
-    "hora_utc": "2026-07-03 22:41",
-    "mensaje": "🚨 Estimados clientes en estos momentos se encuentra disparado el circuito 7 de Santiago, disculpen por las molestias ocasionadas.",
-    "timestamp": 1783118486,
-    "timestamp_local": 1783118486
   }
 ]
