@@ -1,5 +1,29 @@
 [
   {
+    "id": 50217,
+    "fecha": "04 de Jul del 2026 a las 02:32 PM",
+    "hora_utc": "2026-07-04 18:32",
+    "mensaje": "⚠Afectado el servicio eléctrico en los siguientes circuitos:\n🔹Municipio Santa Clara\n👉Cto 30  y 193 Santa Clara Industrial",
+    "timestamp": 1783189950,
+    "timestamp_local": 1783189950
+  },
+  {
+    "id": 50216,
+    "fecha": "04 de Jul del 2026 a las 02:14 PM",
+    "hora_utc": "2026-07-04 18:14",
+    "mensaje": "⚠Afectado el servicio eléctrico en el siguiente circuito:\n🔹Municipio Santa Clara: \n👉Cto 6 Vigía",
+    "timestamp": 1783188861,
+    "timestamp_local": 1783188861
+  },
+  {
+    "id": 50215,
+    "fecha": "04 de Jul del 2026 a las 02:07 PM",
+    "hora_utc": "2026-07-04 18:07",
+    "mensaje": "Actualización del servicio eléctrico en la provincia.\n👉En este momento la afectación por déficit de capacidad de generación es de 137 MW, la demanda máxima posible a apagar en estos momentos.\n👉De los circuitos apagables se mantienen afectados 149.\n👉Cuenta con 265 afectaciones por averías secundarias de servicio.",
+    "timestamp": 1783188473,
+    "timestamp_local": 1783188473
+  },
+  {
     "id": 50214,
     "fecha": "04 de Jul del 2026 a las 01:15 PM",
     "hora_utc": "2026-07-04 17:15",
@@ -126,29 +150,5 @@
     "mensaje": "🔴 A las 23:10 horas de ayer queda fuera de línea la CTE FELTON 1.  \n🔴 La causa de la salida de FELTON 1 fue, por sobre presión en el horno.",
     "timestamp": 1783170686,
     "timestamp_local": 1783170686
-  },
-  {
-    "id": 50197,
-    "fecha": "04 de Jul del 2026 a las 09:09 AM",
-    "hora_utc": "2026-07-04 13:09",
-    "mensaje": "Afectados 136 MW en la provincia, demanda máxima a apagar en estos momentos.",
-    "timestamp": 1783170554,
-    "timestamp_local": 1783170554
-  },
-  {
-    "id": 50196,
-    "fecha": "04 de Jul del 2026 a las 09:07 AM",
-    "hora_utc": "2026-07-04 13:07",
-    "mensaje": "💡Con servicio eléctrico el siguiente circuito.\n🔹Municipio Santa Clara\n👉Cto 162 Santa Clara Industrial",
-    "timestamp": 1783170436,
-    "timestamp_local": 1783170436
-  },
-  {
-    "id": 50195,
-    "fecha": "04 de Jul del 2026 a las 09:06 AM",
-    "hora_utc": "2026-07-04 13:06",
-    "mensaje": "⚠Afectado el servicio eléctrico en los siguientes circuitos:\n🔹Municipio Santa Clara:\n👉Cto 5 Dobarganes\n👉Cto 17 Subplanta",
-    "timestamp": 1783170400,
-    "timestamp_local": 1783170400
   }
 ]
