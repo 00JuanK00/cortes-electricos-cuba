@@ -1,9 +1,25 @@
 [
   {
+    "id": 55462,
+    "fecha": "04 de Jul del 2026 a las 12:24 PM",
+    "hora_utc": "2026-07-04 16:24",
+    "mensaje": "🔴Circuito en avería:    Sucede si un circuito se interrumpe por causa de un defecto en un cable conductor de corriente (fase   o neutro), un fusible fundido o disyuntor. En sistemas trifásicos una falla puede implicar una fase, más de una fase con la tierra o puede ocurrir solo entre fases.",
+    "timestamp": 1783182291,
+    "timestamp_local": 1783182291
+  },
+  {
+    "id": 55461,
+    "fecha": "04 de Jul del 2026 a las 12:24 PM",
+    "hora_utc": "2026-07-04 16:24",
+    "mensaje": "🚨Estimados clientes se les informa que en estos momentos se encuentra en avería la línea de Belleza, La Maya. Disculpen las molestias ocasionadas.",
+    "timestamp": 1783182275,
+    "timestamp_local": 1783182275
+  },
+  {
     "id": 55460,
     "fecha": "04 de Jul del 2026 a las 09:55 AM",
     "hora_utc": "2026-07-04 13:55",
-    "mensaje": "🚨Estimados clientes se incorporan a la afectación por Déficit de Capacidad de Generación los  circuitos 8, 9, 11 de Santiago , 1 y 2 de Palma , las líneas 5980 San Juan y  5390 La Maya. Disculpen las molestias ocasionadas.",
+    "mensaje": "🚨Estimados clientes se incorporan a la afectación por Déficit de Capacidad de Generación los  circuitos 8, 9, 11 de Santiago , 1 y 2 de Palma , las líneas 5980 San Juan, 5335 Guamá , 5390 La Maya, 4385 y 4390 Contramaestre. Disculpen las molestias ocasionadas.",
     "timestamp": 1783173318,
     "timestamp_local": 1783173318
   },
@@ -126,21 +142,5 @@
     "mensaje": "🚨 Estimados clientes en estos momentos se encuentra disparado el circuito 7 de Santiago.",
     "timestamp": 1783134563,
     "timestamp_local": 1783134563
-  },
-  {
-    "id": 55442,
-    "fecha": "03 de Jul del 2026 a las 10:35 PM",
-    "hora_utc": "2026-07-04 02:35",
-    "mensaje": "🚨 Estimados clientes en estos momentos se encuentra afectado por Déficit de Capacidad de Generación el circuito 2 de Palma, disculpen por las molestias ocasionadas.",
-    "timestamp": 1783132537,
-    "timestamp_local": 1783132537
-  },
-  {
-    "id": 55441,
-    "fecha": "03 de Jul del 2026 a las 10:01 PM",
-    "hora_utc": "2026-07-04 02:01",
-    "mensaje": "🚨 Estimados clientes en estos momentos se encuentra  afectado por Déficit de Capacidad de Generación el circuito 17 de Santiago.",
-    "timestamp": 1783130476,
-    "timestamp_local": 1783130476
   }
 ]
