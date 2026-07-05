@@ -1,9 +1,25 @@
 [
   {
+    "id": 50244,
+    "fecha": "05 de Jul del 2026 a las 03:22 PM",
+    "hora_utc": "2026-07-05 19:22",
+    "mensaje": "⚠Afectado el servicio eléctrico en los siguientes circuitos:\n🔹Municipio Santa Clara:\n👉Cto 7 Universidad \n👉Cto 146 Elevado Aeropuerto\n👉Cto 22 Construcciones Textil\n👉Cto 131 Las Antillas\n👉Cto 153 EIDE\n👉Cto 25 Los Güiros\n👉Cto 24 Planta Asfalto\n👉Cto 35 (Biotecnología) \n👉Ctos 14, 27 Maleza",
+    "timestamp": 1783279374,
+    "timestamp_local": 1783279374
+  },
+  {
+    "id": 50243,
+    "fecha": "05 de Jul del 2026 a las 03:15 PM",
+    "hora_utc": "2026-07-05 19:15",
+    "mensaje": "⚠Afectado el servicio eléctrico en los siguientes circuitos:\n🔹Municipio Santa Clara:\n👉Cto 6 Vigía\n👉Cto 34  Sabana Rebacadero\n👉Ctos 32 y 33 (RF-33Kv)\n👉Cto 39 Sandino",
+    "timestamp": 1783278913,
+    "timestamp_local": 1783278913
+  },
+  {
     "id": 50242,
     "fecha": "05 de Jul del 2026 a las 02:52 PM",
     "hora_utc": "2026-07-05 18:52",
-    "mensaje": "⚠Afectado el servicio eléctrico en los siguientes circuitos:\n\n\n🔹Municipio Caibarién:\n👉 Ctos 61, 62 \n👉 Cto 66 Las Torres",
+    "mensaje": "⚠Afectado el servicio eléctrico en los siguientes circuitos:\n🔹Municipio Caibarién:\n👉 Ctos 61, 62 \n👉 Cto 66 Las Torres",
     "timestamp": 1783277547,
     "timestamp_local": 1783277547
   },
@@ -27,7 +43,7 @@
     "id": 50239,
     "fecha": "05 de Jul del 2026 a las 01:41 PM",
     "hora_utc": "2026-07-05 17:41",
-    "mensaje": "💡Restablecido el servicio electrico al Cto 4 Consejo Centro perteneciente al Muncipio Santa Clara",
+    "mensaje": "💡Restablecido el servicio electrico en el Cto 4 Consejo Centro perteneciente al Muncipio Santa Clara",
     "timestamp": 1783273273,
     "timestamp_local": 1783273273
   },
@@ -142,21 +158,5 @@
     "mensaje": "🕛Actualización del servicio eléctrico.\n✍️El déficit de capacidad de generación en estos momentos es de 186 MW\n✍️En el momento de esta nota, se mantienen afectados 107 circuitos.\n✍️ Cuenta con 280 afectaciones por averías secundarias y de servicio:\n🔸 Caibarién (6)\n🔸 Camajuaní (5)\n🔸 Cifuentes (1)\n🔸 Corralillo (5)\n🔸 Encrucijada (2)\n🔸 Manicaragua (18)\n🔸 Placetas (11)\n🔸 Ranchuelo (9)\n🔸 Remedios (14) \n🔸 Sagua (6) \n🔸 Santa Clara (187)\n🔸 Santo Domingo (16)\n🛠️Se encuentran 3 averías en vías de solución.\n🛠️Pendientes a solucionar por el área técnica 15\n⚠️Afectado por emergencia el Cto 170 Jose Marti perteneciente al municipio Santa clara por incendio en el  transformador.\n🛠️Disparo  en el Cto 15 Maleza perteneciente al Municipio Santa Clara (Se estudian las causas)\n🛠️Se encuentra en averia el Cto 4 Consejo Centro  perteneciente al municipio Santa Clara por cable primario partido",
     "timestamp": 1783267866,
     "timestamp_local": 1783267866
-  },
-  {
-    "id": 50224,
-    "fecha": "05 de Jul del 2026 a las 11:57 AM",
-    "hora_utc": "2026-07-05 15:57",
-    "mensaje": "⚠Afectado el servicio eléctrico en el siguiente circuito :\n🔹Municipio Santa Clara:\n👉Cto 167 Virginia",
-    "timestamp": 1783267024,
-    "timestamp_local": 1783267024
-  },
-  {
-    "id": 50223,
-    "fecha": "05 de Jul del 2026 a las 10:52 AM",
-    "hora_utc": "2026-07-05 14:52",
-    "mensaje": "Actualización del servicio eléctrico en la provincia.\n👉En este momento la afectación por déficit de capacidad de generación es de 185 MW, la demanda máxima posible a apagar en estos momentos.\n👉De los circuitos apagables se mantienen afectados 115.\n👉Cuenta con 266 afectaciones por averías secundarias de servicio.",
-    "timestamp": 1783263120,
-    "timestamp_local": 1783263120
   }
 ]
