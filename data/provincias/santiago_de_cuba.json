@@ -1,5 +1,29 @@
 [
   {
+    "id": 55521,
+    "fecha": "05 de Jul del 2026 a las 07:31 PM",
+    "hora_utc": "2026-07-05 23:31",
+    "mensaje": "🔴📌Estimados clientes, se les reitera que el comportamiento de las afectaciones eléctricas y el restablecimiento del servicio, estará en dependencia de la situación que presente el Sistema Electroenergético Nacional.",
+    "timestamp": 1783294310,
+    "timestamp_local": 1783294310
+  },
+  {
+    "id": 55520,
+    "fecha": "05 de Jul del 2026 a las 07:30 PM",
+    "hora_utc": "2026-07-05 23:30",
+    "mensaje": "🔴📌**Déficit de Capacidad de Generación: **\n**Se produce cuando la demanda del Sistema Eléctrico Nacional, en determinado horario del día supera la generación disponible del país, provocando la desconexión de los circuitos o líneas que permitan garantizar la frecuencia del SEN.**",
+    "timestamp": 1783294212,
+    "timestamp_local": 1783294212
+  },
+  {
+    "id": 55519,
+    "fecha": "05 de Jul del 2026 a las 07:29 PM",
+    "hora_utc": "2026-07-05 23:29",
+    "mensaje": "🚨Estimados clientes se incorporan a la afectación por Déficit de Capacidad de Generación el circuito 14 de Santiago y la línea 4390 Contramaestre. Disculpen las molestias ocasionadas.",
+    "timestamp": 1783294157,
+    "timestamp_local": 1783294157
+  },
+  {
     "id": 55518,
     "fecha": "05 de Jul del 2026 a las 05:57 PM",
     "hora_utc": "2026-07-05 21:57",
@@ -134,29 +158,5 @@
     "mensaje": "🟡Se les comunica que se incorporan a la afectación por Déficit la Línea 5395-San Luis , Línea 5390-La Maya y Songo.",
     "timestamp": 1783253071,
     "timestamp_local": 1783253071
-  },
-  {
-    "id": 55501,
-    "fecha": "05 de Jul del 2026 a las 07:37 AM",
-    "hora_utc": "2026-07-05 11:37",
-    "mensaje": "👉🏽**Déficit de Capacidad de Generación**:\nSe produce cuando la demanda del Sistema Eléctrico Nacional, en determinado horario del día supera la generación disponible del país, provocando la desconexión de los circuitos o líneas que permitan garantizar la frecuencia del SEN.",
-    "timestamp": 1783251459,
-    "timestamp_local": 1783251459
-  },
-  {
-    "id": 55500,
-    "fecha": "05 de Jul del 2026 a las 07:37 AM",
-    "hora_utc": "2026-07-05 11:37",
-    "mensaje": "🟡Estimados clientes se les informa que se incorporan a la afectación por Déficit los circuitos 23, 26 , 17 y Línea 4385-Contramaestre.",
-    "timestamp": 1783251441,
-    "timestamp_local": 1783251441
-  },
-  {
-    "id": 55499,
-    "fecha": "05 de Jul del 2026 a las 07:36 AM",
-    "hora_utc": "2026-07-05 11:36",
-    "mensaje": "🟡Estimados clientes se les informa que se incorporan a la afectación los circuitos 8 , 1 de Palma , 11, 16, 2 , Línea 5380-Mella, San Juan y Línea 5390-La Maya.",
-    "timestamp": 1783251371,
-    "timestamp_local": 1783251371
   }
 ]

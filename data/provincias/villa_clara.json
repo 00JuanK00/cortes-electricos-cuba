@@ -1,5 +1,21 @@
 [
   {
+    "id": 50250,
+    "fecha": "05 de Jul del 2026 a las 07:25 PM",
+    "hora_utc": "2026-07-05 23:25",
+    "mensaje": "⚠Afectado el servicio eléctrico en el siguiente circuito :\n🔹Municipio Santa Clara:\n👉Cto 170 José Martí",
+    "timestamp": 1783293904,
+    "timestamp_local": 1783293904
+  },
+  {
+    "id": 50249,
+    "fecha": "05 de Jul del 2026 a las 07:12 PM",
+    "hora_utc": "2026-07-05 23:12",
+    "mensaje": "⚠️Se encuentra en averia el Cto 167 Virginia perteneciente al Municipio de Santa Clara por primario partido (actualmente afectado por deficit de generacion )",
+    "timestamp": 1783293164,
+    "timestamp_local": 1783293164
+  },
+  {
     "id": 50248,
     "fecha": "05 de Jul del 2026 a las 06:18 PM",
     "hora_utc": "2026-07-05 22:18",
@@ -134,21 +150,5 @@
     "mensaje": "💡Con servicio eléctrico el siguiente circuito :\n🔹Municipio Santa Clara:\n👉Cto 166 Condado",
     "timestamp": 1783269793,
     "timestamp_local": 1783269793
-  },
-  {
-    "id": 50230,
-    "fecha": "05 de Jul del 2026 a las 12:23 PM",
-    "hora_utc": "2026-07-05 16:23",
-    "mensaje": "💡Con servicio eléctrico el siguiente circuito :\n🔹Municipio Santa Clara:\n👉Cto 6 Vigía",
-    "timestamp": 1783268590,
-    "timestamp_local": 1783268590
-  },
-  {
-    "id": 50229,
-    "fecha": "05 de Jul del 2026 a las 12:20 PM",
-    "hora_utc": "2026-07-05 16:20",
-    "mensaje": "💡Con servicio eléctrico los siguientes circuitos:\n🔹Municipio Placetas \n👉Cto 100 Placetas\n👉Cto 104 Hermanos Amejeiras",
-    "timestamp": 1783268427,
-    "timestamp_local": 1783268427
   }
 ]
