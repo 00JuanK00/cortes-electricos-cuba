@@ -1,5 +1,21 @@
 [
   {
+    "id": 55504,
+    "fecha": "05 de Jul del 2026 a las 09:12 AM",
+    "hora_utc": "2026-07-05 13:12",
+    "mensaje": "🟡**Déficit de Capacidad de Generación: **\n**Se produce cuando la demanda del Sistema Eléctrico Nacional, en determinado horario del día supera la generación disponible del país, provocando la desconexión de los circuitos o líneas que permitan garantizar la frecuencia del SEN.**",
+    "timestamp": 1783257170,
+    "timestamp_local": 1783257170
+  },
+  {
+    "id": 55503,
+    "fecha": "05 de Jul del 2026 a las 08:07 AM",
+    "hora_utc": "2026-07-05 12:07",
+    "mensaje": "🟠**Estimados clientes, se les reitera que el comportamiento de las afectaciones eléctricas y el restablecimiento del servicio, estará en dependencia de la situación que presente el Sistema Electroenergético Nacional.**",
+    "timestamp": 1783253247,
+    "timestamp_local": 1783253247
+  },
+  {
     "id": 55502,
     "fecha": "05 de Jul del 2026 a las 08:04 AM",
     "hora_utc": "2026-07-05 12:04",
@@ -110,21 +126,5 @@
     "mensaje": "🔴Informamos a nuestros clientes que se encuentra en avería el circuito 10 .",
     "timestamp": 1783221658,
     "timestamp_local": 1783221658
-  },
-  {
-    "id": 55483,
-    "fecha": "04 de Jul del 2026 a las 11:01 PM",
-    "hora_utc": "2026-07-05 03:01",
-    "mensaje": "👉🏽**Manipulaciones:**\nAcción que se realizan en los circuitos para dar paso al trabajo en zonas afectadas por Averías o Vía Libre y posteriormente para restablecer el servicio eléctrico en los circuitos que se encontraban afectados y en los que se trabaja con anterioridad, luego de culminadas las labores pertinentes.",
-    "timestamp": 1783220463,
-    "timestamp_local": 1783220463
-  },
-  {
-    "id": 55482,
-    "fecha": "04 de Jul del 2026 a las 11:00 PM",
-    "hora_utc": "2026-07-05 03:00",
-    "mensaje": "🔵Informamos a nuestros clientes que se encuentra afectado por una Manipulación el circuito 10.",
-    "timestamp": 1783220446,
-    "timestamp_local": 1783220446
   }
 ]
