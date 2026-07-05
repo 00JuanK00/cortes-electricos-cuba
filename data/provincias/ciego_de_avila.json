@@ -1,5 +1,21 @@
 [
   {
+    "id": 39230,
+    "fecha": "05 de Jul del 2026 a las 01:22 AM",
+    "hora_utc": "2026-07-05 05:22",
+    "mensaje": "‼️Información‼️\n\n⏰ Los circuitos  restablecidos tendrán servicio por un estimado de 1 hora y 30 min aproximadamente en dependencia del déficit solicitado en cada momento de la jornada que es muy variable.",
+    "timestamp": 1783228959,
+    "timestamp_local": 1783228959
+  },
+  {
+    "id": 39229,
+    "fecha": "05 de Jul del 2026 a las 01:22 AM",
+    "hora_utc": "2026-07-05 05:22",
+    "mensaje": "‼️ Déficit de Generación ‼️   \n👉 Tenemos  máximo apagable en la provincia afectados por déficit de generación.\n\n⏰Con este déficit, la carga a apagar en la provincia no nos permite realizar una rotación estable de los circuitos, por lo que se afectarán o se restablecerán en dependencia del déficit que haya en cada momento de la jornada, que es muy variable.",
+    "timestamp": 1783228947,
+    "timestamp_local": 1783228947
+  },
+  {
     "id": 39227,
     "fecha": "04 de Jul del 2026 a las 08:49 PM",
     "hora_utc": "2026-07-05 00:49",
@@ -102,29 +118,5 @@
     "mensaje": "‼️ Déficit de Generación ‼️   \n👉 Tenemos 95 MW, máximo apagable en la provincia afectados por déficit de generación.\n\n⏰Con este déficit, la carga a apagar en la provincia no nos permite realizar una rotación estable de los circuitos, por lo que se afectarán o se restablecerán en dependencia del déficit que haya en cada momento de la jornada, que es muy variable.",
     "timestamp": 1783137444,
     "timestamp_local": 1783137444
-  },
-  {
-    "id": 39209,
-    "fecha": "03 de Jul del 2026 a las 10:36 PM",
-    "hora_utc": "2026-07-04 02:36",
-    "mensaje": "🔊Información🔊\n✅ Se encuentra sin servicio eléctrico el circuito 2, por primarios en el suelo, se trabaja para restablecer en el menor tiempo posible.",
-    "timestamp": 1783132605,
-    "timestamp_local": 1783132605
-  },
-  {
-    "id": 39208,
-    "fecha": "03 de Jul del 2026 a las 10:35 PM",
-    "hora_utc": "2026-07-04 02:35",
-    "mensaje": "‼️Información‼️\n\n⏰ Los circuitos  restablecidos tendrán servicio por un estimado de 1 hora y 30 min aproximadamente en dependencia del déficit solicitado en cada momento de la jornada que es muy variable.",
-    "timestamp": 1783132514,
-    "timestamp_local": 1783132514
-  },
-  {
-    "id": 39207,
-    "fecha": "03 de Jul del 2026 a las 10:12 PM",
-    "hora_utc": "2026-07-04 02:12",
-    "mensaje": "Información de la Unión Eléctrica \n\n🔴Una Falla en Sub. Estación Victoria de Girón, en la Capital a las 20:08 horas, provoca alta oscilación en el SEN y la salida abrupta de las  Unidades Rente 3 y Felton 1. En este minuto Felton en línea, con 50 MW y sube cargas. Unidades de ENERGAS se suman a Generación Base. SEN, con baja disponibilidad de capacidades de Generación. Afectación elevada en todo el país.",
-    "timestamp": 1783131157,
-    "timestamp_local": 1783131157
   }
 ]
