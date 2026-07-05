@@ -1,5 +1,21 @@
 [
   {
+    "id": 50246,
+    "fecha": "05 de Jul del 2026 a las 04:15 PM",
+    "hora_utc": "2026-07-05 20:15",
+    "mensaje": "Actualización del servicio eléctrico en la provincia.\n👉En este momento la afectación por déficit de capacidad de generación es de 201 MW, la demanda máxima posible a apagar en estos momentos.\n👉De los circuitos apagables se mantienen afectados 128.\n👉Cuenta con 310 afectaciones por averías secundarias de servicio.",
+    "timestamp": 1783282501,
+    "timestamp_local": 1783282501
+  },
+  {
+    "id": 50245,
+    "fecha": "05 de Jul del 2026 a las 04:12 PM",
+    "hora_utc": "2026-07-05 20:12",
+    "mensaje": "⚠Afectado el servicio eléctrico en los siguientes circuitos:\n🔹Municipio Quemado:\n👉Cto 164 Quemado.",
+    "timestamp": 1783282322,
+    "timestamp_local": 1783282322
+  },
+  {
     "id": 50244,
     "fecha": "05 de Jul del 2026 a las 03:22 PM",
     "hora_utc": "2026-07-05 19:22",
@@ -134,29 +150,5 @@
     "mensaje": "⚠Afectado el servicio eléctrico en el siguiente circuito :\n🔹Municipio Placetas \n👉Cto 151 Placetas",
     "timestamp": 1783268363,
     "timestamp_local": 1783268363
-  },
-  {
-    "id": 50227,
-    "fecha": "05 de Jul del 2026 a las 12:17 PM",
-    "hora_utc": "2026-07-05 16:17",
-    "mensaje": "💡Con servicio eléctrico los siguientes circuitos:\n🔹Municipio Santa Clara:\n👉Cto 34  Sabana Rebacadero\n👉Ctos 32 y 33 (RF-33Kv)\n👉Cto 39 Sandino",
-    "timestamp": 1783268269,
-    "timestamp_local": 1783268269
-  },
-  {
-    "id": 50226,
-    "fecha": "05 de Jul del 2026 a las 12:15 PM",
-    "hora_utc": "2026-07-05 16:15",
-    "mensaje": "🛠️Se encuentra en averia el Cto 37 Yabu perteneciente al Municipio Santa Clara por falta de fase en el circuito",
-    "timestamp": 1783268138,
-    "timestamp_local": 1783268138
-  },
-  {
-    "id": 50225,
-    "fecha": "05 de Jul del 2026 a las 12:11 PM",
-    "hora_utc": "2026-07-05 16:11",
-    "mensaje": "🕛Actualización del servicio eléctrico.\n✍️El déficit de capacidad de generación en estos momentos es de 186 MW\n✍️En el momento de esta nota, se mantienen afectados 107 circuitos.\n✍️ Cuenta con 280 afectaciones por averías secundarias y de servicio:\n🔸 Caibarién (6)\n🔸 Camajuaní (5)\n🔸 Cifuentes (1)\n🔸 Corralillo (5)\n🔸 Encrucijada (2)\n🔸 Manicaragua (18)\n🔸 Placetas (11)\n🔸 Ranchuelo (9)\n🔸 Remedios (14) \n🔸 Sagua (6) \n🔸 Santa Clara (187)\n🔸 Santo Domingo (16)\n🛠️Se encuentran 3 averías en vías de solución.\n🛠️Pendientes a solucionar por el área técnica 15\n⚠️Afectado por emergencia el Cto 170 Jose Marti perteneciente al municipio Santa clara por incendio en el  transformador.\n🛠️Disparo  en el Cto 15 Maleza perteneciente al Municipio Santa Clara (Se estudian las causas)\n🛠️Se encuentra en averia el Cto 4 Consejo Centro  perteneciente al municipio Santa Clara por cable primario partido",
-    "timestamp": 1783267866,
-    "timestamp_local": 1783267866
   }
 ]
