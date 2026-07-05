@@ -1,5 +1,29 @@
 [
   {
+    "id": 50242,
+    "fecha": "05 de Jul del 2026 a las 02:52 PM",
+    "hora_utc": "2026-07-05 18:52",
+    "mensaje": "⚠Afectado el servicio eléctrico en los siguientes circuitos:\n\n\n🔹Municipio Caibarién:\n👉 Ctos 61, 62 \n👉 Cto 66 Las Torres",
+    "timestamp": 1783277547,
+    "timestamp_local": 1783277547
+  },
+  {
+    "id": 50241,
+    "fecha": "05 de Jul del 2026 a las 02:37 PM",
+    "hora_utc": "2026-07-05 18:37",
+    "mensaje": "⚠Afectado el servicio eléctrico en los siguientes circuitos:\n🔹Municipio Santo Domingo:\n👉Cto 79 Santo Domingo\n👉Cto 81 26 de Julio\n👉Cto 163 Batey 26 de Julio\n🔹Municipio Ranchuelo:\n👉Ctos 54, 94 y 95 Jicotea",
+    "timestamp": 1783276656,
+    "timestamp_local": 1783276656
+  },
+  {
+    "id": 50240,
+    "fecha": "05 de Jul del 2026 a las 02:12 PM",
+    "hora_utc": "2026-07-05 18:12",
+    "mensaje": "Actualización del servicio eléctrico en la provincia.\n👉En este momento la afectación por déficit de capacidad de generación es de 184 MW, la demanda máxima posible a apagar en estos momentos.\n👉De los circuitos apagables se mantienen afectados 109.\n👉Cuenta con 297 afectaciones por averías secundarias de servicio.",
+    "timestamp": 1783275123,
+    "timestamp_local": 1783275123
+  },
+  {
     "id": 50239,
     "fecha": "05 de Jul del 2026 a las 01:41 PM",
     "hora_utc": "2026-07-05 17:41",
@@ -134,21 +158,5 @@
     "mensaje": "Actualización del servicio eléctrico en la provincia.\n👉En este momento la afectación por déficit de capacidad de generación es de 185 MW, la demanda máxima posible a apagar en estos momentos.\n👉De los circuitos apagables se mantienen afectados 115.\n👉Cuenta con 266 afectaciones por averías secundarias de servicio.",
     "timestamp": 1783263120,
     "timestamp_local": 1783263120
-  },
-  {
-    "id": 50221,
-    "fecha": "04 de Jul del 2026 a las 03:13 PM",
-    "hora_utc": "2026-07-04 19:13",
-    "mensaje": "➡Cto 102 Peroti, perteneciente al municipio Placetas, afectado parcialmente  por poste primario partido.\n➡ Cto 111 Mataguá, perteneciente al municipio Manicaragua, afectado parcialmente por cable primario partido.\n➡Cto 141 Manuelita, perteneciente al municipio Santa Clara, se estudian las causas.",
-    "timestamp": 1783192395,
-    "timestamp_local": 1783192395
-  },
-  {
-    "id": 50220,
-    "fecha": "04 de Jul del 2026 a las 03:11 PM",
-    "hora_utc": "2026-07-04 19:11",
-    "mensaje": "⚠Afectado el servicio eléctrico en los siguientes circuitos:\n🔹Municipio Santa Clara:\n👉Ctos 3 y 4 Centro",
-    "timestamp": 1783192261,
-    "timestamp_local": 1783192261
   }
 ]
