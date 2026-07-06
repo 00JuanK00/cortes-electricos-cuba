@@ -1,5 +1,21 @@
 [
   {
+    "id": 39258,
+    "fecha": "06 de Jul del 2026 a las 06:11 AM",
+    "hora_utc": "2026-07-06 10:11",
+    "mensaje": "‼️ Déficit de Generación ‼️   \n👉 Tenemos 76MW, máximo apagable en la provincia afectados por déficit de generación.\n\n ⏰Con este déficit, la carga a apagar en la provincia no nos permite realizar una rotación estable de los circuitos, por lo que se afectarán o se restablecerán en dependencia del déficit que haya en cada momento de la jornada, que es muy variable.",
+    "timestamp": 1783332677,
+    "timestamp_local": 1783332677
+  },
+  {
+    "id": 39256,
+    "fecha": "06 de Jul del 2026 a las 03:32 AM",
+    "hora_utc": "2026-07-06 07:32",
+    "mensaje": "‼️ Déficit de Generación ‼️   \n👉 Tenemos  77MW, máximo apagable en la provincia afectados por déficit de generación.\n\n⏰Con este déficit, la carga a apagar en la provincia no nos permite realizar una rotación estable de los circuitos, por lo que se afectarán o se restablecerán en dependencia del déficit que haya en cada momento de la jornada, que es muy variable.",
+    "timestamp": 1783323143,
+    "timestamp_local": 1783323143
+  },
+  {
     "id": 39255,
     "fecha": "06 de Jul del 2026 a las 12:38 AM",
     "hora_utc": "2026-07-06 04:38",
@@ -102,29 +118,5 @@
     "mensaje": "✅ Se encuentra en fallo el circuito Venezuela. \n👉Se recorren las líneas para encontrar la causa. \n👉Si usted observa corto circuito en las redes o alguna irregularidad, por favor comuníquelo a través del ☎️18888.",
     "timestamp": 1783260080,
     "timestamp_local": 1783260080
-  },
-  {
-    "id": 39238,
-    "fecha": "05 de Jul del 2026 a las 08:32 AM",
-    "hora_utc": "2026-07-05 12:32",
-    "mensaje": "✅ Continua en fallo el circuito Cítrico I y III .\n👉Se recorren las líneas para encontrar la causa. \n👉Si usted observa corto circuito en las redes o alguna irregularidad, por favor comuníquelo a través del ☎️18888.",
-    "timestamp": 1783254757,
-    "timestamp_local": 1783254757
-  },
-  {
-    "id": 39237,
-    "fecha": "05 de Jul del 2026 a las 08:08 AM",
-    "hora_utc": "2026-07-05 12:08",
-    "mensaje": "🚨Nota informativa de la Empresa Eléctrica Ciego de Ávila 🚨\n\nLa provincia continúa sirviendose de la generación de los parques fotovoltaicos, desde las 10:00 am hasta las 4:00 pm. Reiteramos que los circuitos se afectarán o se restablecerán en dependencia del déficit en cada momento de la jornada, que es muy variable.",
-    "timestamp": 1783253328,
-    "timestamp_local": 1783253328
-  },
-  {
-    "id": 39236,
-    "fecha": "05 de Jul del 2026 a las 08:07 AM",
-    "hora_utc": "2026-07-05 12:07",
-    "mensaje": "‼️ Déficit de Generación ‼️   \n👉 Tenemos 76 MW en la provincia afectados por déficit de generación.\n\n⏰Con este déficit, la carga a apagar en la provincia no nos permite realizar una rotación estable de los circuitos, por lo que se afectarán o se restablecerán en dependencia del déficit que haya en cada momento de la jornada, que es muy variable.",
-    "timestamp": 1783253263,
-    "timestamp_local": 1783253263
   }
 ]
