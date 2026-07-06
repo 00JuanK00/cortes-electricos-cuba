@@ -1,5 +1,21 @@
 [
   {
+    "id": 116920,
+    "fecha": "05 de Jul del 2026 a las 09:09 PM",
+    "hora_utc": "2026-07-06 01:09",
+    "mensaje": "🚨Por déficit de capacidad de generación se afecta el servicio en el siguiente circuito:\n*Güines 1 🚨",
+    "timestamp": 1783300176,
+    "timestamp_local": 1783300176
+  },
+  {
+    "id": 116918,
+    "fecha": "05 de Jul del 2026 a las 08:21 PM",
+    "hora_utc": "2026-07-06 00:21",
+    "mensaje": "🚨Por déficit de capacidad de generación se afecta el servicio en el siguiente circuito:\n*Vegas🚨",
+    "timestamp": 1783297314,
+    "timestamp_local": 1783297314
+  },
+  {
     "id": 116917,
     "fecha": "05 de Jul del 2026 a las 07:15 PM",
     "hora_utc": "2026-07-05 23:15",
@@ -43,7 +59,7 @@
     "id": 116912,
     "fecha": "05 de Jul del 2026 a las 06:39 PM",
     "hora_utc": "2026-07-05 22:39",
-    "mensaje": "🚨Por déficit de capacidad de generación se afecta el servicio en el siguiente circuito:\n*Melena 2 🚨",
+    "mensaje": "🚨Por déficit de capacidad de generación se afecta el servicio en los siguientes circuitos:\n*Melena 2 \n*Catalina 1 y 2🚨",
     "timestamp": 1783291179,
     "timestamp_local": 1783291179
   },
@@ -126,29 +142,5 @@
     "mensaje": "🔷 Culminada la manipulación en el circuito 3590🔷",
     "timestamp": 1783283558,
     "timestamp_local": 1783283558
-  },
-  {
-    "id": 116899,
-    "fecha": "05 de Jul del 2026 a las 04:31 PM",
-    "hora_utc": "2026-07-05 20:31",
-    "mensaje": "📣🚨Continúa afectado el servicio en los siguientes circuitos correspondientes al circuito 3135 por avería:\n*Nueva Paz 2\n*Flor de Itabo\n*Vegas🚨📣",
-    "timestamp": 1783283502,
-    "timestamp_local": 1783283502
-  },
-  {
-    "id": 116898,
-    "fecha": "05 de Jul del 2026 a las 04:25 PM",
-    "hora_utc": "2026-07-05 20:25",
-    "mensaje": "♦️ Informamos a los clientes del circuito 3590 que se encuentran afectados por manipulación ♦️",
-    "timestamp": 1783283135,
-    "timestamp_local": 1783283135
-  },
-  {
-    "id": 116897,
-    "fecha": "05 de Jul del 2026 a las 04:00 PM",
-    "hora_utc": "2026-07-05 20:00",
-    "mensaje": "♦️⚡Informamos a los clientes de los siguientes circuitos que se encuentran afectados por  disparo por tormenta correspondientes al circuito 3135:\n*Nueva Paz 2\n*Flor de Itabo\n*Vegas⚡ ♦️",
-    "timestamp": 1783281625,
-    "timestamp_local": 1783281625
   }
 ]

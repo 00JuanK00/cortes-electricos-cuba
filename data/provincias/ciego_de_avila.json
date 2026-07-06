@@ -1,5 +1,21 @@
 [
   {
+    "id": 39249,
+    "fecha": "05 de Jul del 2026 a las 08:05 PM",
+    "hora_utc": "2026-07-06 00:05",
+    "mensaje": "🔊Información🔊\n✅ Restablecido el servicio eléctrico en el circuito el A110.",
+    "timestamp": 1783296326,
+    "timestamp_local": 1783296326
+  },
+  {
+    "id": 39248,
+    "fecha": "05 de Jul del 2026 a las 07:54 PM",
+    "hora_utc": "2026-07-05 23:54",
+    "mensaje": "‼️ Déficit de Generación ‼️   \n👉 Tenemos 91MW, máximo apagable en la provincia afectados por déficit de generación.\n\n ⏰Con este déficit, la carga a apagar en la provincia no nos permite realizar una rotación estable de los circuitos, por lo que se afectarán o se restablecerán en dependencia del déficit que haya en cada momento de la jornada, que es muy variable.",
+    "timestamp": 1783295698,
+    "timestamp_local": 1783295698
+  },
+  {
     "id": 39247,
     "fecha": "05 de Jul del 2026 a las 05:23 PM",
     "hora_utc": "2026-07-05 21:23",
@@ -118,21 +134,5 @@
     "mensaje": "‼️ Déficit de Generación ‼️   \n👉 Tenemos  máximo apagable en la provincia afectados por déficit de generación.\n\n⏰Con este déficit, la carga a apagar en la provincia no nos permite realizar una rotación estable de los circuitos, por lo que se afectarán o se restablecerán en dependencia del déficit que haya en cada momento de la jornada, que es muy variable.",
     "timestamp": 1783236868,
     "timestamp_local": 1783236868
-  },
-  {
-    "id": 39230,
-    "fecha": "05 de Jul del 2026 a las 01:22 AM",
-    "hora_utc": "2026-07-05 05:22",
-    "mensaje": "‼️Información‼️\n\n⏰ Los circuitos  restablecidos tendrán servicio por un estimado de 1 hora y 30 min aproximadamente en dependencia del déficit solicitado en cada momento de la jornada que es muy variable.",
-    "timestamp": 1783228959,
-    "timestamp_local": 1783228959
-  },
-  {
-    "id": 39229,
-    "fecha": "05 de Jul del 2026 a las 01:22 AM",
-    "hora_utc": "2026-07-05 05:22",
-    "mensaje": "‼️ Déficit de Generación ‼️   \n👉 Tenemos  76 mw en la provincia afectados por déficit de generación.\n\n⏰Con este déficit, la carga a apagar en la provincia no nos permite realizar una rotación estable de los circuitos, por lo que se afectarán o se restablecerán en dependencia del déficit que haya en cada momento de la jornada, que es muy variable.",
-    "timestamp": 1783228947,
-    "timestamp_local": 1783228947
   }
 ]
