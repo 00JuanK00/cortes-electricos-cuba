@@ -1,5 +1,21 @@
 [
   {
+    "id": 55574,
+    "fecha": "07 de Jul del 2026 a las 06:48 AM",
+    "hora_utc": "2026-07-07 10:48",
+    "mensaje": "🚨**Microsistema: **Son varios emplazamientos interconectados independientemente del SEN, estos se crean para llevar la electricidad a centros vitales (hospitales, centros de comunicación y de elaboración de alimentos), y en una situación compleja como la desconexión total del SEN, se utilizan para lograr el arranque de las unidades térmicas.\nEl trabajo con los mismos puede ser inestable, cuando esto sucede el circuito vuelve a quedarse sin servicio eléctrico, lo que puede ser frecuente hasta que se normalice su funcionamiento.",
+    "timestamp": 1783421293,
+    "timestamp_local": 1783421293
+  },
+  {
+    "id": 55573,
+    "fecha": "07 de Jul del 2026 a las 06:45 AM",
+    "hora_utc": "2026-07-07 10:45",
+    "mensaje": "🔉La Empresa Eléctrica Santiago de Cuba Comunica a sus clientes que ya se encuentra creado un Microsistema con los grupos de generación distribuida . Se encuentra con servicio eléctrico en estos momentos  el circuito 10 Seccionalizado",
+    "timestamp": 1783421154,
+    "timestamp_local": 1783421154
+  },
+  {
     "id": 55571,
     "fecha": "07 de Jul del 2026 a las 04:36 AM",
     "hora_utc": "2026-07-07 08:36",
@@ -11,7 +27,7 @@
     "id": 55569,
     "fecha": "07 de Jul del 2026 a las 02:16 AM",
     "hora_utc": "2026-07-07 06:16",
-    "mensaje": "Informamos a nuestros clientes que una vez implementados los protocolos correspondientes para el restablecimiento paulatino del Sistema Eléctrico Nacional, en la provincia ha comenzado la puesta en marcha de los microsistemas, los cuales permitirán en una primera instancia, brindar servicio a los circuitos donde se encuentran centros vitales.\nDurante el proceso de creación de los microsistemas debemos mantener publicando los siguientes mensajes:",
+    "mensaje": "Informamos a nuestros clientes que una vez implementados los protocolos correspondientes para el restablecimiento paulatino del Sistema Eléctrico Nacional, en la provincia ha comenzado la puesta en marcha de los microsistemas, los cuales permitirán en una primera instancia, brindar servicio a los circuitos donde se encuentran centros vitales.",
     "timestamp": 1783404964,
     "timestamp_local": 1783404964
   },
@@ -126,29 +142,5 @@
     "mensaje": "⛔️¿Qué es un microsistema?\nVarios emplazamientos de generación interconectados que alimentan la misma carga. La estabilidad del microsistema depende de la capacidad de regulación de las unidades que posea.",
     "timestamp": 1783370603,
     "timestamp_local": 1783370603
-  },
-  {
-    "id": 55554,
-    "fecha": "06 de Jul del 2026 a las 04:30 PM",
-    "hora_utc": "2026-07-06 20:30",
-    "mensaje": "🔴Les seguiremos informando a través de nuestro canal de Telegram sobre la situación de la Disponibilidad del Sistema en nuestra provincia.",
-    "timestamp": 1783369854,
-    "timestamp_local": 1783369854
-  },
-  {
-    "id": 55553,
-    "fecha": "06 de Jul del 2026 a las 04:07 PM",
-    "hora_utc": "2026-07-06 20:07",
-    "mensaje": "🔴La Empresa Eléctrica Santiago de Cuba Comunica a sus clientes que ya se encuentra creado un microsistema con los grupos de generación distribuida .Se encuentra con servicio eléctrico en estos momentos el circuito 7 seccionalizado .",
-    "timestamp": 1783368446,
-    "timestamp_local": 1783368446
-  },
-  {
-    "id": 55552,
-    "fecha": "06 de Jul del 2026 a las 03:58 PM",
-    "hora_utc": "2026-07-06 19:58",
-    "mensaje": "📌  Estimados clientes luego de la desconexión del Sistema Eléctrico Nacional se han comenzado a implementar los protocolos para el paulatino restablecimiento del mismo. Manténgase Informado a través de nuestros canales oficiales.",
-    "timestamp": 1783367936,
-    "timestamp_local": 1783367936
   }
 ]
