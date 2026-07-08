@@ -1,5 +1,29 @@
 [
   {
+    "id": 55600,
+    "fecha": "07 de Jul del 2026 a las 09:02 PM",
+    "hora_utc": "2026-07-08 01:02",
+    "mensaje": "📌**Microsistema: **Son varios emplazamientos interconectados independientemente del SEN, estos se crean para llevar la electricidad a centros vitales (hospitales, centros de comunicación y de elaboración de alimentos), y en una situación compleja como la desconexión total del SEN, se utilizan para lograr el arranque de las unidades térmicas.\n⚠️El trabajo con los mismos puede ser inestable, cuando esto sucede el circuito vuelve a quedarse sin servicio eléctrico, lo que puede ser frecuente hasta que se normalice su funcionamiento.",
+    "timestamp": 1783472570,
+    "timestamp_local": 1783472570
+  },
+  {
+    "id": 55599,
+    "fecha": "07 de Jul del 2026 a las 09:00 PM",
+    "hora_utc": "2026-07-08 01:00",
+    "mensaje": "🔴La Empresa Eléctrica Santiago de Cuba Comunica a sus clientes que ya se encuentra creado un microsistema con los grupos de generación distribuida . Se encuentran con servicio eléctrico en estos momentos los circuitos 18 , 15 seccionalizado, 10 seccionalizado , 1 y 2 de San Luis seccionalizado.",
+    "timestamp": 1783472449,
+    "timestamp_local": 1783472449
+  },
+  {
+    "id": 55598,
+    "fecha": "07 de Jul del 2026 a las 08:20 PM",
+    "hora_utc": "2026-07-08 00:20",
+    "mensaje": "🟠Les seguiremos informando a través de nuestro canal de Telegram sobre la situación electroenergética  que presenta nuestra provincia.",
+    "timestamp": 1783470052,
+    "timestamp_local": 1783470052
+  },
+  {
     "id": 55597,
     "fecha": "07 de Jul del 2026 a las 06:11 PM",
     "hora_utc": "2026-07-07 22:11",
@@ -110,21 +134,5 @@
     "mensaje": "🔊 Actualización de la situación energética en la provincia Santiago de Cuba.\n\n⚡| En nuestra provincia se mantiene el trabajo con los microsistemas, en estos momentos tienen 🔌servicio eléctrico los circuitos 15 y 10 seccionalizado.\n\n⚡| El circuito 7 recibió servicio por breve tiempo en el día de ayer, pero ocurrió un disparo que provocó su desconexión del microsistema. ⚠️Debido a que el trabajo con microsistemas es muy delicado, no es posible volver a conectar este circuito hasta tanto no se identifique y solucione la causa del disparo. \n\n⚡| También debemos informar que a las 6:14am, un disparo provocó la salida de servicio del transformador de la Subestación Santiago Norte, afectando el circuito 18 que se alimenta de dicha Subestación. Se trabaja evaluando las causas del disparo para restablecer la red 🏥hospitalaria lo antes posible. \n\n⚡| De igual manera se 🛠️labora en el arranque de los grupos fuel oil de San Luis para crear otro microsistema y dar servicio a parte del municipio San Luis. \n\n👉🏽Reiteramos a nuestros clientes que se mantengan informados a través de nuestros 📲canales oficiales.",
     "timestamp": 1783434139,
     "timestamp_local": 1783434139
-  },
-  {
-    "id": 55577,
-    "fecha": "07 de Jul del 2026 a las 09:10 AM",
-    "hora_utc": "2026-07-07 13:10",
-    "mensaje": "Actualización 8.00.am\n💡Se ha logrado enlazar el sistema eléctrico desde Mariel hasta Sancti Spíritus.\n💡La prioridad es llegar con energía a Felton para energizar oriente. \n📴Artemisa y Pinar del Río continúan fuera del SEN",
-    "timestamp": 1783429815,
-    "timestamp_local": 1783429815
-  },
-  {
-    "id": 55576,
-    "fecha": "07 de Jul del 2026 a las 09:00 AM",
-    "hora_utc": "2026-07-07 13:00",
-    "mensaje": "🚨 La Empresa Eléctrica de Santiago de Cuba les comunica a sus clientes que mientras se encuentra a la espera para recibir el servicio eléctrico mediante Islas o microsistemas se le recomienda:\n🔌Desconectar todos los equipos electrodomésticos de la corriente, en momentos como este debe protegerlos. Una vez que reciba el servicio espere varios minutos antes de conectarlos y hágalo uno a uno.",
-    "timestamp": 1783429235,
-    "timestamp_local": 1783429235
   }
 ]

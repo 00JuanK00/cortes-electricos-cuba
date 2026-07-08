@@ -1,5 +1,37 @@
 [
   {
+    "id": 50329,
+    "fecha": "07 de Jul del 2026 a las 08:42 PM",
+    "hora_utc": "2026-07-08 00:42",
+    "mensaje": "⚠Afectado el servicio eléctrico en los siguientes circuitos:\n🔹Municipio Camajuaní:\n👉Ctos  72  y 129",
+    "timestamp": 1783471336,
+    "timestamp_local": 1783471336
+  },
+  {
+    "id": 50328,
+    "fecha": "07 de Jul del 2026 a las 08:38 PM",
+    "hora_utc": "2026-07-08 00:38",
+    "mensaje": "💡Con servicio eléctrico el siguiente circuito:\n🔹Municipio Santa Clara\n👉 Cto 166 Condado",
+    "timestamp": 1783471119,
+    "timestamp_local": 1783471119
+  },
+  {
+    "id": 50327,
+    "fecha": "07 de Jul del 2026 a las 08:09 PM",
+    "hora_utc": "2026-07-08 00:09",
+    "mensaje": "⚠Afectado el servicio eléctrico en los siguientes circuitos:\n🔹Municipio Santa Clara:\n👉Cto 144 Camacho\n🔹Municipio Santa Clara:\n👉Cto 6 Vigía\n👉Cto 34 Sabana Rebacadero\n👉Cto 39 (Sandino)",
+    "timestamp": 1783469353,
+    "timestamp_local": 1783469353
+  },
+  {
+    "id": 50326,
+    "fecha": "07 de Jul del 2026 a las 08:08 PM",
+    "hora_utc": "2026-07-08 00:08",
+    "mensaje": "💡Con servicio eléctrico el siguiente circuito:\n🔹Municipio Santa Clara\n👉 Cto 3 Centro",
+    "timestamp": 1783469281,
+    "timestamp_local": 1783469281
+  },
+  {
     "id": 50325,
     "fecha": "07 de Jul del 2026 a las 07:30 PM",
     "hora_utc": "2026-07-07 23:30",
@@ -126,37 +158,5 @@
     "mensaje": "🟢 #Actualización || Ya se encuentra interconectado el Sistema Electroenergético Nacional desde Pinar del Río hasta Holguín. Se trabaja para reestablecer la conexión con el resto de las provincias.",
     "timestamp": 1783452323,
     "timestamp_local": 1783452323
-  },
-  {
-    "id": 50309,
-    "fecha": "07 de Jul del 2026 a las 02:48 PM",
-    "hora_utc": "2026-07-07 18:48",
-    "mensaje": "💡Con servicio eléctrico los siguientes circuitos:\n🔹Municipio Placetas:\n👉Cto 192 Benito Juárez\n👉Cto 102 Peroti",
-    "timestamp": 1783450110,
-    "timestamp_local": 1783450110
-  },
-  {
-    "id": 50308,
-    "fecha": "07 de Jul del 2026 a las 02:44 PM",
-    "hora_utc": "2026-07-07 18:44",
-    "mensaje": "⚠Afectado el servicio eléctrico en los siguientes circuitos:\n🔹Municipio Caibarién\n👉Ctos 63 y 64\n🔹Municipio Santa Clara:\n👉Cto 169 Condado\n👉Cto 31 Santa Clara Industrial",
-    "timestamp": 1783449849,
-    "timestamp_local": 1783449849
-  },
-  {
-    "id": 50307,
-    "fecha": "07 de Jul del 2026 a las 02:40 PM",
-    "hora_utc": "2026-07-07 18:40",
-    "mensaje": "➡️Los disparos de circuito tienen diferentes aristas todas con distintos significados, es decir que ocurren por varias causas. Entre ellas encontramos:\n\n👉-Disparo de Circuito con Recierre: El conocido por los clientes como “quita y pon de corriente” es un tipo de protección utilizada mundialmente a partir del 80% aproximadamente de las interrupciones eléctricas son transitorias. Este fenómeno lo hace una sola vez ante un evento de red y no es dañino para para nuestros equipos electrodomésticos.\n\n👉- Disparo Automático por Frecuencia (DAF): El disparo por DAF ocurre cuando la frecuencia llega a valores mínimos permisibles que ponen en peligro la estabilidad del mismo y como protección desconecta varios circuitos de la Capital. Los mismo restablecen a medida que se vaya recuperando la frecuencia que tiene un valor de 60hz o ciclos por segundo.\n\n👉-Disparo de Circuito por Sobrecarga: Este ocurre mayormente en los horarios pico y en verano, ya que las altas temperaturas generan elevados consumos en la población y como consecuencia de ello fallas en los circuitos.\n\n👉-Disparo de Circuito por Posible Avería: Este fenómeno ocurre cuando existe una falla en algún circuito, ya sea soterrado, aéreo o en una subestación. Estas, a pesar de que son mucho más frecuentes cuando existe algún evento climatológico, pueden ocurrir en cualquier momento del día o la noche, ya que son situaciones que no cuentan con programación.",
-    "timestamp": 1783449611,
-    "timestamp_local": 1783449611
-  },
-  {
-    "id": 50306,
-    "fecha": "07 de Jul del 2026 a las 02:39 PM",
-    "hora_utc": "2026-07-07 18:39",
-    "mensaje": "⚡Afectados por disparo los siguientes circuitos:\n🔹Municipio Santa Clara:\n👉Cto 5 Dobarganes\n👉Cto 17 Subplanta",
-    "timestamp": 1783449591,
-    "timestamp_local": 1783449591
   }
 ]
