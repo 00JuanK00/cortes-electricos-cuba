@@ -1,19 +1,27 @@
 [
   {
+    "id": 36877,
+    "fecha": "08 de Jul del 2026 a las 01:03 PM",
+    "hora_utc": "2026-07-08 17:03",
+    "mensaje": "⚡ Déficit de capacidad de generación en la provincia: 156 MW .⚡",
+    "timestamp": 1783530192,
+    "timestamp_local": 1783530192
+  },
+  {
+    "id": 36876,
+    "fecha": "08 de Jul del 2026 a las 12:45 PM",
+    "hora_utc": "2026-07-08 16:45",
+    "mensaje": "⚡ Déficit de capacidad de generación en la provincia: 154 MW .⚡",
+    "timestamp": 1783529140,
+    "timestamp_local": 1783529140
+  },
+  {
     "id": 36875,
     "fecha": "08 de Jul del 2026 a las 11:52 AM",
     "hora_utc": "2026-07-08 15:52",
     "mensaje": "CON SERVICIO\n\nCIRCUITO  5660 Bolondrón 110kV",
     "timestamp": 1783525944,
     "timestamp_local": 1783525944
-  },
-  {
-    "id": 36874,
-    "fecha": "08 de Jul del 2026 a las 11:47 AM",
-    "hora_utc": "2026-07-08 15:47",
-    "mensaje": "CON SERVICIO\n\nCIRCUITO 501 Colón 110kV",
-    "timestamp": 1783525661,
-    "timestamp_local": 1783525661
   },
   {
     "id": 36873,
@@ -134,13 +142,5 @@
     "mensaje": "🟢 Ya se encuentra interconectado el Sistema Electroenergético Nacional desde Pinar del Río hasta Holguín.\nℹ️Unión Eléctrica",
     "timestamp": 1783451942,
     "timestamp_local": 1783451942
-  },
-  {
-    "id": 36854,
-    "fecha": "07 de Jul del 2026 a las 12:46 PM",
-    "hora_utc": "2026-07-07 16:46",
-    "mensaje": "🟢Circuito 4071 que da servicio a Cítrico, La Carlota e Isabel.\n🟢 Circuito MI1451 que da servicio a Armando Mestre, Quintanales, Reparto Lozano, Kilómetro.\n\nContinuamos trabajando para restablecer el servicio eléctrico.",
-    "timestamp": 1783442796,
-    "timestamp_local": 1783442796
   }
 ]
