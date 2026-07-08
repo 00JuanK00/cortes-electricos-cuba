@@ -1,5 +1,61 @@
 [
   {
+    "id": 50404,
+    "fecha": "08 de Jul del 2026 a las 07:52 PM",
+    "hora_utc": "2026-07-08 23:52",
+    "mensaje": "💡Restablecido el servicio eléctrico en el circuito 27 Maleza.",
+    "timestamp": 1783554757,
+    "timestamp_local": 1783554757
+  },
+  {
+    "id": 50403,
+    "fecha": "08 de Jul del 2026 a las 07:30 PM",
+    "hora_utc": "2026-07-08 23:30",
+    "mensaje": "⚠Afectado el servicio eléctrico en el siguiente circuito:\n\n🔹Municipio Santa Clara\n👉Cto 167 Virginia",
+    "timestamp": 1783553425,
+    "timestamp_local": 1783553425
+  },
+  {
+    "id": 50402,
+    "fecha": "08 de Jul del 2026 a las 07:25 PM",
+    "hora_utc": "2026-07-08 23:25",
+    "mensaje": "🛠️Afectado por manipulación el circuito 4 Complejo Centro.",
+    "timestamp": 1783553131,
+    "timestamp_local": 1783553131
+  },
+  {
+    "id": 50401,
+    "fecha": "08 de Jul del 2026 a las 07:12 PM",
+    "hora_utc": "2026-07-08 23:12",
+    "mensaje": "⚠Afectado el servicio eléctrico en el siguiente circuito:\n\n🔹Municipio Santa Clara\n👉Cto 2 Consejo- Centro",
+    "timestamp": 1783552331,
+    "timestamp_local": 1783552331
+  },
+  {
+    "id": 50400,
+    "fecha": "08 de Jul del 2026 a las 07:11 PM",
+    "hora_utc": "2026-07-08 23:11",
+    "mensaje": "💡Con servicio eléctrico el siguiente circuito:\n🔹Municipio Santa Clara:\n👉Cto 4 Consejo- Centro",
+    "timestamp": 1783552278,
+    "timestamp_local": 1783552278
+  },
+  {
+    "id": 50399,
+    "fecha": "08 de Jul del 2026 a las 07:10 PM",
+    "hora_utc": "2026-07-08 23:10",
+    "mensaje": "💡Con servicio eléctrico el siguiente circuito:\n🔹Municipio Santa Clara:\n👉Cto 169 Condado",
+    "timestamp": 1783552201,
+    "timestamp_local": 1783552201
+  },
+  {
+    "id": 50398,
+    "fecha": "08 de Jul del 2026 a las 07:09 PM",
+    "hora_utc": "2026-07-08 23:09",
+    "mensaje": "⚠Afectado el servicio eléctrico en el siguiente circuito:\n\n🔹Municipio Santa Clara\n👉Cto 31 Sakenaf",
+    "timestamp": 1783552174,
+    "timestamp_local": 1783552174
+  },
+  {
     "id": 50397,
     "fecha": "08 de Jul del 2026 a las 06:48 PM",
     "hora_utc": "2026-07-08 22:48",
@@ -102,61 +158,5 @@
     "mensaje": "💡Con servicio eléctrico los siguientes circuitos:\n🔹Municipio Placetas:\n👉Ctos 101 y 145 Cumbre",
     "timestamp": 1783539125,
     "timestamp_local": 1783539125
-  },
-  {
-    "id": 50384,
-    "fecha": "08 de Jul del 2026 a las 03:04 PM",
-    "hora_utc": "2026-07-08 19:04",
-    "mensaje": "⚠Afectado el servicio eléctrico en los siguientes circuitos:\n🔹Municipio Caibarién\n👉Ctos 63 y 64",
-    "timestamp": 1783537464,
-    "timestamp_local": 1783537464
-  },
-  {
-    "id": 50383,
-    "fecha": "08 de Jul del 2026 a las 03:03 PM",
-    "hora_utc": "2026-07-08 19:03",
-    "mensaje": "💡Con servicio eléctrico los siguientes circuitos:\n🔹Municipio Caibarién:\n👉 Ctos 61, 62",
-    "timestamp": 1783537418,
-    "timestamp_local": 1783537418
-  },
-  {
-    "id": 50382,
-    "fecha": "08 de Jul del 2026 a las 02:41 PM",
-    "hora_utc": "2026-07-08 18:41",
-    "mensaje": "⚠Afectado el servicio eléctrico en el siguiente circuito:\n\n🔹Municipio Santa Clara\n👉Cto 170 José Martí",
-    "timestamp": 1783536067,
-    "timestamp_local": 1783536067
-  },
-  {
-    "id": 50381,
-    "fecha": "08 de Jul del 2026 a las 02:23 PM",
-    "hora_utc": "2026-07-08 18:23",
-    "mensaje": "💡Restablecido el servicio eléctrico en el siguiente circuito:\n🔹Municipio Santa Clara\n👉Cto 191 Quemado de Hilario",
-    "timestamp": 1783534996,
-    "timestamp_local": 1783534996
-  },
-  {
-    "id": 50380,
-    "fecha": "08 de Jul del 2026 a las 02:07 PM",
-    "hora_utc": "2026-07-08 18:07",
-    "mensaje": "💡Con servicio eléctrico los siguientes circuitos:\n🔹Municipio Corralillo:\n👉Cto 57 Motembo \n👉Cto 56 Yabre\n👉Cto 60 La Sierra\n👉Cto 55 Rancho Veloz",
-    "timestamp": 1783534066,
-    "timestamp_local": 1783534066
-  },
-  {
-    "id": 50379,
-    "fecha": "08 de Jul del 2026 a las 01:57 PM",
-    "hora_utc": "2026-07-08 17:57",
-    "mensaje": "Actualización del servicio eléctrico en la provincia.\n👉En este momento la afectación por déficit de capacidad de generación es de 151 MW, demanda máxima posible a apagar en estos momentos.\n👉De los circuitos apagables se mantienen afectados 150.\n👉Cuenta con 303 afectaciones por averías secundarias y de servicio.",
-    "timestamp": 1783533449,
-    "timestamp_local": 1783533449
-  },
-  {
-    "id": 50378,
-    "fecha": "08 de Jul del 2026 a las 01:40 PM",
-    "hora_utc": "2026-07-08 17:40",
-    "mensaje": "💡Con servicio eléctrico los siguientes circuitos:\n🔹Municipio Camajuaní:\n👉Ctos  73 y 156\n🔹Municipio Ranchuelo: \n👉Ctos 148 y 149 San Juan\n👉Cto 91 Batey Osvaldo Herrera",
-    "timestamp": 1783532448,
-    "timestamp_local": 1783532448
   }
 ]
