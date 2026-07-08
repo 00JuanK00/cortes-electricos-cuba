@@ -1,5 +1,37 @@
 [
   {
+    "id": 55627,
+    "fecha": "08 de Jul del 2026 a las 11:09 AM",
+    "hora_utc": "2026-07-08 15:09",
+    "mensaje": "🚨Estimados clientes en estos momentos se encuentran afectados por Déficit de Capacidad de Generación los circuitos 3 y 10 de Santiago , disculpen por las molestias ocasionadas.",
+    "timestamp": 1783523345,
+    "timestamp_local": 1783523345
+  },
+  {
+    "id": 55626,
+    "fecha": "08 de Jul del 2026 a las 10:24 AM",
+    "hora_utc": "2026-07-08 14:24",
+    "mensaje": "🚨Estimados clientes en estos momentos se encuentran afectados por Déficit de Capacidad de Generación  el circuito 19 de Santiago, disculpen por las molestias ocasionadas.",
+    "timestamp": 1783520678,
+    "timestamp_local": 1783520678
+  },
+  {
+    "id": 55625,
+    "fecha": "08 de Jul del 2026 a las 10:20 AM",
+    "hora_utc": "2026-07-08 14:20",
+    "mensaje": "🔊Actualización de la situación energética en la provincia Santiago de Cuba\n\n⚡️|Como informamos anteriormente a las 11:55pm la provincia #Santiago de Cuba quedó 🔌enlazada al Sistema Eléctrico Nacional (SEN). \n\n⚡️| Inicialmente se conectaron al Sistema aquellos circuitos que alimentan 🏥centros vitales y que recibían el servicio eléctrico a través de los microsistemas creados en el territorio. \n\n⚡️| Posteriormente se ha dado servicio paulatinamente a aquellos circuitos con mayor tiempo de afectación y teniendo en cuenta la carga autorizada a servir por el Despacho Nacional. \n\n⚡️| En estos momentos la provincia tiene aproximadamente ⚠️30 MW en servicio. \n\n⚡️| Los circuitos con mayor tiempo de afectación que aún no han recibido el servicio y serán restablecidos en las próximas horas son:\n\n➡️Circuito 1\n➡️Circuito 7\n➡️Línea 4395 Tercer Frente y Baire\n➡️Circuitos 1 y 2 de Contramaestre \n➡️Segundo Frente\n\n🚨Es importante recordar que el sistema continúa operando con baja disponibilidad de generación, por lo que el tiempo de afectación por déficit de capacidad de generación dependerá de las condiciones del SEN, y la rotación de los circuitos debe hacerse garantizando la estabilidad del sistema.\n\n📲En las redes sociales circulan informaciones falsas atribuidas nuestra empresa. Reiteramos a nuestros clientes que se mantengan informados a través de nuestros canales oficiales y siempre verificar la fuente antes de replicar cualquier información.",
+    "timestamp": 1783520402,
+    "timestamp_local": 1783520402
+  },
+  {
+    "id": 55623,
+    "fecha": "08 de Jul del 2026 a las 10:16 AM",
+    "hora_utc": "2026-07-08 14:16",
+    "mensaje": "-  Les seguiremos informando a través de nuestro canal de Telegram sobre la situación de la Disponibilidad del Sistema en nuestra provincia.",
+    "timestamp": 1783520187,
+    "timestamp_local": 1783520187
+  },
+  {
     "id": 55622,
     "fecha": "08 de Jul del 2026 a las 08:51 AM",
     "hora_utc": "2026-07-08 12:51",
@@ -86,37 +118,5 @@
     "mensaje": "🔇Informamos a nuestros clientes  que hasta tanto no esté fortalecido el sistema eléctrico nacional es imposible restablecer el servicio a la totalidad de los circuitos ,pues es un proceso lento e inestable.",
     "timestamp": 1783483737,
     "timestamp_local": 1783483737
-  },
-  {
-    "id": 55604,
-    "fecha": "08 de Jul del 2026 a las 12:08 AM",
-    "hora_utc": "2026-07-08 04:08",
-    "mensaje": "🚨Actualización:                                                                                                       Se les comunica a nuestros clientes que a las 23:55 hemos enlazado al (SEN) Sistema eléctrico nacional.",
-    "timestamp": 1783483712,
-    "timestamp_local": 1783483712
-  },
-  {
-    "id": 55602,
-    "fecha": "07 de Jul del 2026 a las 10:07 PM",
-    "hora_utc": "2026-07-08 02:07",
-    "mensaje": "⚡️Les informamos a nuestros clientes que en la provincia se mantiene el trabajo con los Microsistemas que** s**on varios emplazamientos interconectados independientemente del SEN, estos se crean para llevar la electricidad a centros vitales (hospitales, centros de comunicación y de elaboración de alimentos), y en una situación compleja como la desconexión total del SEN, se utilizan para lograr el arranque de las unidades térmicas.",
-    "timestamp": 1783476440,
-    "timestamp_local": 1783476440
-  },
-  {
-    "id": 55601,
-    "fecha": "07 de Jul del 2026 a las 09:57 PM",
-    "hora_utc": "2026-07-08 01:57",
-    "mensaje": "🔴Se les comunica a nuestros clientes que se encuentra con servicio eléctrico en estos momentos el circuito 7 seccionalizado .",
-    "timestamp": 1783475875,
-    "timestamp_local": 1783475875
-  },
-  {
-    "id": 55600,
-    "fecha": "07 de Jul del 2026 a las 09:02 PM",
-    "hora_utc": "2026-07-08 01:02",
-    "mensaje": "📌**Microsistema: **Son varios emplazamientos interconectados independientemente del SEN, estos se crean para llevar la electricidad a centros vitales (hospitales, centros de comunicación y de elaboración de alimentos), y en una situación compleja como la desconexión total del SEN, se utilizan para lograr el arranque de las unidades térmicas.\n⚠️El trabajo con los mismos puede ser inestable, cuando esto sucede el circuito vuelve a quedarse sin servicio eléctrico, lo que puede ser frecuente hasta que se normalice su funcionamiento.",
-    "timestamp": 1783472570,
-    "timestamp_local": 1783472570
   }
 ]

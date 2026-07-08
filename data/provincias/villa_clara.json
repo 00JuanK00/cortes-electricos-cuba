@@ -1,146 +1,162 @@
 [
   {
+    "id": 50363,
+    "fecha": "08 de Jul del 2026 a las 11:39 AM",
+    "hora_utc": "2026-07-08 15:39",
+    "mensaje": "⚠Afectado el servicio eléctrico en el siguiente circuito:\n\n🔹Municipio Santa Clara\n👉Cto 1 Consejo- Centro",
+    "timestamp": 1783525170,
+    "timestamp_local": 1783525170
+  },
+  {
+    "id": 50362,
+    "fecha": "08 de Jul del 2026 a las 11:29 AM",
+    "hora_utc": "2026-07-08 15:29",
+    "mensaje": "⚡Afectado por avería el circuito 15 Maleza, se estudian las causas.",
+    "timestamp": 1783524587,
+    "timestamp_local": 1783524587
+  },
+  {
+    "id": 50361,
+    "fecha": "08 de Jul del 2026 a las 11:28 AM",
+    "hora_utc": "2026-07-08 15:28",
+    "mensaje": "💡Con servicio eléctrico el siguiente circuito:\n\n🔹Municipio Santa Clara\n👉Cto 27 Maleza",
+    "timestamp": 1783524537,
+    "timestamp_local": 1783524537
+  },
+  {
+    "id": 50360,
+    "fecha": "08 de Jul del 2026 a las 11:27 AM",
+    "hora_utc": "2026-07-08 15:27",
+    "mensaje": "⚠Afectado el servicio eléctrico en el siguiente circuito:\n\n🔹Municipio Santa Clara\n👉Cto 14 Maleza",
+    "timestamp": 1783524466,
+    "timestamp_local": 1783524466
+  },
+  {
+    "id": 50359,
+    "fecha": "08 de Jul del 2026 a las 10:59 AM",
+    "hora_utc": "2026-07-08 14:59",
+    "mensaje": "💡Con servicio eléctrico el siguiente circuito:\n🔹Municipio Sagua\n👉Cto 44 Isabela",
+    "timestamp": 1783522741,
+    "timestamp_local": 1783522741
+  },
+  {
+    "id": 50358,
+    "fecha": "08 de Jul del 2026 a las 10:56 AM",
+    "hora_utc": "2026-07-08 14:56",
+    "mensaje": "⚠Afectado el servicio eléctrico en el siguiente circuito:\n🔹Municipio Santa Clara\n👉Cto 24 Planta Asfalto",
+    "timestamp": 1783522564,
+    "timestamp_local": 1783522564
+  },
+  {
+    "id": 50357,
+    "fecha": "08 de Jul del 2026 a las 10:39 AM",
+    "hora_utc": "2026-07-08 14:39",
+    "mensaje": "💡Con servicio eléctrico los siguientes circuitos:\n🔹Municipio Ranchuelo: \n👉Ctos 89 y 188 , 97 y 189",
+    "timestamp": 1783521569,
+    "timestamp_local": 1783521569
+  },
+  {
+    "id": 50356,
+    "fecha": "08 de Jul del 2026 a las 10:37 AM",
+    "hora_utc": "2026-07-08 14:37",
+    "mensaje": "⚠Afectado el servicio eléctrico en los siguientes circuitos:\n🔹Municipio Santa Clara\n👉Cto 7 Universidad\n👉Cto 131 Las Antillas",
+    "timestamp": 1783521458,
+    "timestamp_local": 1783521458
+  },
+  {
+    "id": 50355,
+    "fecha": "08 de Jul del 2026 a las 10:33 AM",
+    "hora_utc": "2026-07-08 14:33",
+    "mensaje": "💡Con servicio eléctrico los siguientes circuitos:\n🔹Municipio Sagua \n👉Cto 48 Finalet\n👉Ctos 46 y 128 Sitiecito",
+    "timestamp": 1783521220,
+    "timestamp_local": 1783521220
+  },
+  {
+    "id": 50354,
+    "fecha": "08 de Jul del 2026 a las 10:24 AM",
+    "hora_utc": "2026-07-08 14:24",
+    "mensaje": "⚠Afectado el servicio eléctrico en el siguiente circuito:\n\n🔹Municipio Santa Clara\n👉Cto 22 Construcciones Textiles",
+    "timestamp": 1783520679,
+    "timestamp_local": 1783520679
+  },
+  {
+    "id": 50353,
+    "fecha": "08 de Jul del 2026 a las 10:02 AM",
+    "hora_utc": "2026-07-08 14:02",
+    "mensaje": "Actualización del servicio eléctrico en la provincia.\n👉En este momento la afectación por déficit de capacidad de generación es de 137 MW, demanda máxima posible a apagar en estos momentos.\n👉De los circuitos apagables se mantienen afectados 151.\n👉Cuenta con 140 afectaciones por averías secundarias y de servicio.",
+    "timestamp": 1783519367,
+    "timestamp_local": 1783519367
+  },
+  {
+    "id": 50352,
+    "fecha": "08 de Jul del 2026 a las 09:59 AM",
+    "hora_utc": "2026-07-08 13:59",
+    "mensaje": "💡Con servicio eléctrico los siguientes circuitos:\n🔹Municipio Santo Domingo:\n👉Cto 195 Batey George Washington\n👉Ctos 83 y 165 Manacas\n👉Ctos 85 y 86 Pajarito\n👉Ctos 160 y 161 Cascajal",
+    "timestamp": 1783519184,
+    "timestamp_local": 1783519184
+  },
+  {
+    "id": 50351,
+    "fecha": "08 de Jul del 2026 a las 09:46 AM",
+    "hora_utc": "2026-07-08 13:46",
+    "mensaje": "💡Con servicio eléctrico el siguiente circuito:\n🔹Municipio Manicaragua:\n👉Cto 112 Hoyo Manicaragua",
+    "timestamp": 1783518397,
+    "timestamp_local": 1783518397
+  },
+  {
+    "id": 50350,
+    "fecha": "08 de Jul del 2026 a las 09:43 AM",
+    "hora_utc": "2026-07-08 13:43",
+    "mensaje": "💡Restablecido el servicio eléctrico en el circuito 9 (Moldes y Troqueles) después de reparada la avería.",
+    "timestamp": 1783518205,
+    "timestamp_local": 1783518205
+  },
+  {
+    "id": 50349,
+    "fecha": "08 de Jul del 2026 a las 09:41 AM",
+    "hora_utc": "2026-07-08 13:41",
+    "mensaje": "💡Con servicio eléctrico los siguientes circuitos:\n🔹Municipio Manicaragua:\n👉Ctos 108 y 110 La Piedra",
+    "timestamp": 1783518111,
+    "timestamp_local": 1783518111
+  },
+  {
+    "id": 50348,
+    "fecha": "08 de Jul del 2026 a las 09:40 AM",
+    "hora_utc": "2026-07-08 13:40",
+    "mensaje": "⚡Afectado por estar faltando una fase el circuito 191 Quemado de Hilario.",
+    "timestamp": 1783518026,
+    "timestamp_local": 1783518026
+  },
+  {
+    "id": 50347,
+    "fecha": "08 de Jul del 2026 a las 09:37 AM",
+    "hora_utc": "2026-07-08 13:37",
+    "mensaje": "⚠Afectado el servicio eléctrico en el siguiente circuito:\n\n🔹Municipio Santa Clara\n👉Cto 30 SC Industrial",
+    "timestamp": 1783517859,
+    "timestamp_local": 1783517859
+  },
+  {
+    "id": 50345,
+    "fecha": "08 de Jul del 2026 a las 09:31 AM",
+    "hora_utc": "2026-07-08 13:31",
+    "mensaje": "🟢 #Actualización || Sobre el restablecimiento del SEN:\n\n👉 En línea la Unidad 1 de la CTE Lidio Ramón Pérez Felton.\n\n👉 Quedó interconectado el Sistema Electroenergético Nacional en todas las provincias del país.\n\n#UnidosXCuba",
+    "timestamp": 1783517494,
+    "timestamp_local": 1783517494
+  },
+  {
+    "id": 50344,
+    "fecha": "08 de Jul del 2026 a las 09:23 AM",
+    "hora_utc": "2026-07-08 13:23",
+    "mensaje": "🛠️En vía libre el circuito 9 (Moldes y Troqueles) para reparar cable primario partido.",
+    "timestamp": 1783517025,
+    "timestamp_local": 1783517025
+  },
+  {
     "id": 50343,
     "fecha": "08 de Jul del 2026 a las 09:12 AM",
     "hora_utc": "2026-07-08 13:12",
     "mensaje": "💡Restablecido el servicio eléctrico en la Línea 113 quedando afectado el circuito 9 (Moldes y Troqueles) por cable primario partido.",
     "timestamp": 1783516328,
     "timestamp_local": 1783516328
-  },
-  {
-    "id": 50342,
-    "fecha": "08 de Jul del 2026 a las 09:08 AM",
-    "hora_utc": "2026-07-08 13:08",
-    "mensaje": "🛠️Afectada por manipulación la Línea 113:\n➡️Línea 861 \n🔹Municipio Santa Clara:\n👉Cto 5 Dobarganes\n👉Cto 17 Subplanta\n👉Ctos 37 y 38 Yabú \n👉Cto 9 Moldes y Troqueles\n👉Cto 133 Taller Cafetera",
-    "timestamp": 1783516119,
-    "timestamp_local": 1783516119
-  },
-  {
-    "id": 50340,
-    "fecha": "08 de Jul del 2026 a las 08:16 AM",
-    "hora_utc": "2026-07-08 12:16",
-    "mensaje": "🚨Nota informativa.🚨\n\n📅Situación del SEN para el 8 de julio de 2026.\n\n👉En el día de ayer se continuó con el restablecimiento del SEN, quedando conectadas todas las provincias a las 01 horas con 10 minutos de la madrugada de hoy. \n\n☀️La producción de energía de los 54 nuevos parques solares fotovoltaicos fue de 2512 MWh, con 548 MW como máxima potencia entregada en el horario de la media con esta fuente de generación.  \n\n👉La disponibilidad del SEN a las 06:00 horas es de 1000 MW, la demanda 2750 MW con 1780 MW afectados. En el horario de la media se estima una afectación de 1650 MW.\n\n🛠️Se encuentran en avería las unidades 5, 6 y 8 de la CTE Mariel, la unidad de la CTE Guiteras, la unidad 4 de la CTE Cienfuegos, la unidad 6 de la CTE Diez de Octubre y la unidad 2 de la CTE Felton. Se encuentran en mantenimiento la unidad 3 de la CTE Habana, la unidad 5 de la CTE Nuevitas y las unidades 5 y 6 de la CTE Renté. \n\n👉Las limitaciones en la generación térmica son de 255 MW.\n\n👉Para el pico se prevé la entrada de la unidad 5 CTE Mariel con 48 MW y la unidad 3 de la CTE Renté con 35 MW.\n\n📈Con este pronóstico se estima para el horario de máxima demanda una disponibilidad de 1083 MW con una demanda máxima de 3100 MW, para un déficit de 2017 MW, por lo que de mantenerse las condiciones previstas se pronostica una afectación de 2047 MW en este horario.\n\nUNE-MINEM",
-    "timestamp": 1783513019,
-    "timestamp_local": 1783513019
-  },
-  {
-    "id": 50339,
-    "fecha": "08 de Jul del 2026 a las 07:37 AM",
-    "hora_utc": "2026-07-08 11:37",
-    "mensaje": "💡Con servicio eléctrico el siguiente circuito:\n🔹Municipio Camajuani:\n👉Cto 74 José María Pérez",
-    "timestamp": 1783510653,
-    "timestamp_local": 1783510653
-  },
-  {
-    "id": 50338,
-    "fecha": "08 de Jul del 2026 a las 07:03 AM",
-    "hora_utc": "2026-07-08 11:03",
-    "mensaje": "⚠Afectado el servicio eléctrico en el siguiente circuito:\n🔹Municipio Santa Clara\n👉 Cto  141 Manuelita",
-    "timestamp": 1783508621,
-    "timestamp_local": 1783508621
-  },
-  {
-    "id": 50337,
-    "fecha": "08 de Jul del 2026 a las 07:02 AM",
-    "hora_utc": "2026-07-08 11:02",
-    "mensaje": "💡Con servicio eléctrico el siguiente circuito:\n🔹Municipio Santa Clara\n👉 Cto   26 Manuelita",
-    "timestamp": 1783508526,
-    "timestamp_local": 1783508526
-  },
-  {
-    "id": 50336,
-    "fecha": "08 de Jul del 2026 a las 06:10 AM",
-    "hora_utc": "2026-07-08 10:10",
-    "mensaje": "🕕Actualización del servicio eléctrico.\n✍️ Cuenta con 101 afectaciones por averías secundarias y de servicio:\n🔸 Caibarién (1)\n🔸 Cifuentes (1)\n🔸 Encrucijada (4)\n🔸 Manicaragua (2)\n🔸 Placetas (1)\n🔸 Remedios (5) \n🔸 Santa Clara (87)\n\n🛠️Pendientes a solucionar por el área técnica 1.\n⚡Averías primarias en la provincia⚡\n⚡Afectado  parcial Cto 141 Manuelita , perteneciente al Municipio Santa Clara por avería.\n⚡Afectado  parcial Cto 5 Dobarganes, perteneciente al Municipio Santa Clara por avería.\n⚡Afectado parcial Cto 153 EIDE , perteneciente al Municipio Santa Clara por poste partido con transformador y cables de alta tensión  partidos por mata.\n⚡Afectado Cto  116  Mata, perteneciente al Municipio Cifuentes, se estudian las causas.\n⚡Afectado Linea 1365 parcial, perteneciente.\n🔹Municipio Remedios:\n👉Cto 143 Batey Heriberto Duquezne \n👉Cto 71 Buena Vista",
-    "timestamp": 1783505451,
-    "timestamp_local": 1783505451
-  },
-  {
-    "id": 50334,
-    "fecha": "07 de Jul del 2026 a las 10:58 PM",
-    "hora_utc": "2026-07-08 02:58",
-    "mensaje": "🟢 20:40 || En línea la Unidad 3 de la CTE Carlos Manuel de Céspedes.\n\n#CubaVencerá",
-    "timestamp": 1783479526,
-    "timestamp_local": 1783479526
-  },
-  {
-    "id": 50333,
-    "fecha": "07 de Jul del 2026 a las 10:34 PM",
-    "hora_utc": "2026-07-08 02:34",
-    "mensaje": "💡Con servicio eléctrico los siguientes circuitos:\n🔹Municipio Placetas\n👉Cto 139 Miller\n👉Cto 190 Oliver\n👉Cto 106 Falcón",
-    "timestamp": 1783478061,
-    "timestamp_local": 1783478061
-  },
-  {
-    "id": 50332,
-    "fecha": "07 de Jul del 2026 a las 10:26 PM",
-    "hora_utc": "2026-07-08 02:26",
-    "mensaje": "⚠Afectado el servicio eléctrico en los siguientes circuitos:\n🔹Municipio Santa Clara\n👉Cto 7 Universidad\n👉Cto 131 Las Antillas\n👉Cto 22 Construcciones Textil\n👉Cto 25 Los Güiros\n👉Cto 35 Biotecnología \n👉Ctos 14 y 27 Maleza",
-    "timestamp": 1783477562,
-    "timestamp_local": 1783477562
-  },
-  {
-    "id": 50331,
-    "fecha": "07 de Jul del 2026 a las 09:36 PM",
-    "hora_utc": "2026-07-08 01:36",
-    "mensaje": "💡Con servicio eléctrico los siguientes circuitos:\n🔹Municipio Remedios:\n👉Ctos 69 y 70 Zuluetas",
-    "timestamp": 1783474596,
-    "timestamp_local": 1783474596
-  },
-  {
-    "id": 50330,
-    "fecha": "07 de Jul del 2026 a las 09:27 PM",
-    "hora_utc": "2026-07-08 01:27",
-    "mensaje": "🚨Usted  manténgase informado a través de nuestras redes sociales 🛜 \n\n➡️X https://x.com/EmpElectricaVC\n➡️Facebook https://www.facebook.com/luzdelcentro\n➡️WhatsApp \nhttps://whatsapp.com/channel/0029Vafr4tFG3R3gKRPpm62b\n\nTambién puede comunicarse a través del Centro Telefónico 18888☎️ ,prestamos servicio las 24 hras .",
-    "timestamp": 1783474072,
-    "timestamp_local": 1783474072
-  },
-  {
-    "id": 50329,
-    "fecha": "07 de Jul del 2026 a las 08:42 PM",
-    "hora_utc": "2026-07-08 00:42",
-    "mensaje": "⚠Afectado el servicio eléctrico en los siguientes circuitos:\n🔹Municipio Camajuaní:\n👉Ctos  72  y 129",
-    "timestamp": 1783471336,
-    "timestamp_local": 1783471336
-  },
-  {
-    "id": 50328,
-    "fecha": "07 de Jul del 2026 a las 08:38 PM",
-    "hora_utc": "2026-07-08 00:38",
-    "mensaje": "💡Con servicio eléctrico el siguiente circuito:\n🔹Municipio Santa Clara\n👉 Cto 166 Condado",
-    "timestamp": 1783471119,
-    "timestamp_local": 1783471119
-  },
-  {
-    "id": 50327,
-    "fecha": "07 de Jul del 2026 a las 08:09 PM",
-    "hora_utc": "2026-07-08 00:09",
-    "mensaje": "⚠Afectado el servicio eléctrico en los siguientes circuitos:\n🔹Municipio Santa Clara:\n👉Cto 144 Camacho\n🔹Municipio Santa Clara:\n👉Cto 6 Vigía\n👉Cto 34 Sabana Rebacadero\n👉Cto 39 (Sandino)",
-    "timestamp": 1783469353,
-    "timestamp_local": 1783469353
-  },
-  {
-    "id": 50326,
-    "fecha": "07 de Jul del 2026 a las 08:08 PM",
-    "hora_utc": "2026-07-08 00:08",
-    "mensaje": "💡Con servicio eléctrico el siguiente circuito:\n🔹Municipio Santa Clara\n👉 Cto 3 Centro",
-    "timestamp": 1783469281,
-    "timestamp_local": 1783469281
-  },
-  {
-    "id": 50325,
-    "fecha": "07 de Jul del 2026 a las 07:30 PM",
-    "hora_utc": "2026-07-07 23:30",
-    "mensaje": "⚡Afectado Cto 153 EIDE , perteneciente al Municipio Santa Clara por poste partido con transformador y cables de alta tensión  partidos por mata.",
-    "timestamp": 1783467029,
-    "timestamp_local": 1783467029
-  },
-  {
-    "id": 50324,
-    "fecha": "07 de Jul del 2026 a las 07:21 PM",
-    "hora_utc": "2026-07-07 23:21",
-    "mensaje": "⚠Afectado el servicio eléctrico en los siguientes circuitos:\n🔹Municipio Santa Clara\n👉 Cto  167 Virginia\n🔹Municipio Placetas \n👉Cto  151 Placetas\n👉Cto 104 Hermanos Amejeiras\n👉Cto 103 Batey Carbó Servía",
-    "timestamp": 1783466466,
-    "timestamp_local": 1783466466
   }
 ]
