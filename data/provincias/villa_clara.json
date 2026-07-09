@@ -1,5 +1,37 @@
 [
   {
+    "id": 50462,
+    "fecha": "09 de Jul del 2026 a las 04:19 PM",
+    "hora_utc": "2026-07-09 20:19",
+    "mensaje": "⚠Afectado el servicio eléctrico en los siguientes circuitos:\n🔹Municipio Santa Clara:\n👉Cto 132 Santa Clara Industrial\n👉Cto 162  Santa Clara Industrial",
+    "timestamp": 1783628372,
+    "timestamp_local": 1783628372
+  },
+  {
+    "id": 50461,
+    "fecha": "09 de Jul del 2026 a las 04:06 PM",
+    "hora_utc": "2026-07-09 20:06",
+    "mensaje": "⚠Afectado el servicio eléctrico en los siguientes circuitos:\n🔹Municipio Placetas:\n👉Cto 192 Benito Juárez\n👉Cto 102 Peroti",
+    "timestamp": 1783627578,
+    "timestamp_local": 1783627578
+  },
+  {
+    "id": 50460,
+    "fecha": "09 de Jul del 2026 a las 04:03 PM",
+    "hora_utc": "2026-07-09 20:03",
+    "mensaje": "⚠Afectado el servicio eléctrico en los siguientes circuitos:\n🔹Municipio Santa Clara:\n👉Cto 5 Dobarganes\n👉Cto 17 Subplanta",
+    "timestamp": 1783627408,
+    "timestamp_local": 1783627408
+  },
+  {
+    "id": 50459,
+    "fecha": "09 de Jul del 2026 a las 04:01 PM",
+    "hora_utc": "2026-07-09 20:01",
+    "mensaje": "Actualización del servicio eléctrico en la provincia.\n👉En este momento la afectación por déficit de capacidad de generación es de 189 MW, demanda máxima posible a apagar en estos momentos.\n👉De los circuitos apagables se mantienen afectados 116.\n👉Cuenta con 266 afectaciones por averías secundarias y de servicio",
+    "timestamp": 1783627285,
+    "timestamp_local": 1783627285
+  },
+  {
     "id": 50458,
     "fecha": "09 de Jul del 2026 a las 03:03 PM",
     "hora_utc": "2026-07-09 19:03",
@@ -126,37 +158,5 @@
     "mensaje": "Actualización del servicio eléctrico en la provincia.\n👉En este momento la afectación por déficit de capacidad de generación es de 192 MW, demanda máxima posible a apagar en estos momentos.\n👉De los circuitos apagables se mantienen afectados 118.\n👉Cuenta con 233 afectaciones por averías secundarias y de servicio",
     "timestamp": 1783606802,
     "timestamp_local": 1783606802
-  },
-  {
-    "id": 50442,
-    "fecha": "09 de Jul del 2026 a las 09:33 AM",
-    "hora_utc": "2026-07-09 13:33",
-    "mensaje": "🛠️Afectado el Cto 30 Santa Clara Industrial perteneciente al Municipio Santa Clara por manipulación para reponer transformador",
-    "timestamp": 1783603991,
-    "timestamp_local": 1783603991
-  },
-  {
-    "id": 50441,
-    "fecha": "09 de Jul del 2026 a las 09:29 AM",
-    "hora_utc": "2026-07-09 13:29",
-    "mensaje": "⚠Afectado el servicio eléctrico en el siguiente circuito\n🔹Municipio Santa Clara:\n👉Cto 14 Maleza",
-    "timestamp": 1783603769,
-    "timestamp_local": 1783603769
-  },
-  {
-    "id": 50439,
-    "fecha": "09 de Jul del 2026 a las 08:41 AM",
-    "hora_utc": "2026-07-09 12:41",
-    "mensaje": "Actualización del servicio eléctrico en la provincia.\n👉En este momento la afectación por déficit de capacidad de generación es de 197 MW, demanda máxima posible a apagar en estos momentos.\n👉De los circuitos apagables se mantienen afectados 124.\n👉Cuenta con 269 afectaciones por averías secundarias y de servicio.",
-    "timestamp": 1783600898,
-    "timestamp_local": 1783600898
-  },
-  {
-    "id": 50438,
-    "fecha": "09 de Jul del 2026 a las 08:39 AM",
-    "hora_utc": "2026-07-09 12:39",
-    "mensaje": "➡La Provincia presenta 5 afectaciones de servicio eléctrico por transformador dañado:\n👉Municipio Placetas: Autopista Nacional km 302 en el parador la Legua.\n👉 Municipio Corralillo: Carretera de Santo Domingo, Batey San Pedro.\n👉 Municipio Santa Clara: Calle H e/ G y 4ta. José Martí.\n👉Municipio Santa Clara: Gregorio Rguez e/ Carretera de Sagua y Avenida de Páez. Camacho\n👉Municipio Santa Clara: Calle A e/ 1ra y 2da. Virginia",
-    "timestamp": 1783600752,
-    "timestamp_local": 1783600752
   }
 ]
