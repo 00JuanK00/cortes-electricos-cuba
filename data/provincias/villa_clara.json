@@ -1,5 +1,45 @@
 [
   {
+    "id": 50409,
+    "fecha": "08 de Jul del 2026 a las 09:00 PM",
+    "hora_utc": "2026-07-09 01:00",
+    "mensaje": "💡Restablecido el servicio eléctrico en el circuito 27 Maleza.",
+    "timestamp": 1783558808,
+    "timestamp_local": 1783558808
+  },
+  {
+    "id": 50408,
+    "fecha": "08 de Jul del 2026 a las 08:39 PM",
+    "hora_utc": "2026-07-09 00:39",
+    "mensaje": "💡Con servicio eléctrico el siguiente circuito:\n\n🔹Municipio Santa Clara:\n👉Cto 168 Condado",
+    "timestamp": 1783557551,
+    "timestamp_local": 1783557551
+  },
+  {
+    "id": 50407,
+    "fecha": "08 de Jul del 2026 a las 08:38 PM",
+    "hora_utc": "2026-07-09 00:38",
+    "mensaje": "Actualización del servicio eléctrico en la provincia.\n👉En este momento la afectación por déficit de capacidad de generación es de 157 MW, demanda máxima posible a apagar en estos momentos.\n👉De los circuitos apagables se mantienen afectados 150.\n👉Cuenta con 247 afectaciones por averías secundarias y de servicio.",
+    "timestamp": 1783557481,
+    "timestamp_local": 1783557481
+  },
+  {
+    "id": 50406,
+    "fecha": "08 de Jul del 2026 a las 08:00 PM",
+    "hora_utc": "2026-07-09 00:00",
+    "mensaje": "⚡Afectado por disparo el circuito 27 Maleza.",
+    "timestamp": 1783555203,
+    "timestamp_local": 1783555203
+  },
+  {
+    "id": 50405,
+    "fecha": "08 de Jul del 2026 a las 07:55 PM",
+    "hora_utc": "2026-07-08 23:55",
+    "mensaje": "💡Restablecido el servicio eléctrico en el circuito 4 Consejo centro.",
+    "timestamp": 1783554948,
+    "timestamp_local": 1783554948
+  },
+  {
     "id": 50404,
     "fecha": "08 de Jul del 2026 a las 07:52 PM",
     "hora_utc": "2026-07-08 23:52",
@@ -118,45 +158,5 @@
     "mensaje": "🛠️En vía libre el circuito 141 para reparar poste primario partido.",
     "timestamp": 1783546188,
     "timestamp_local": 1783546188
-  },
-  {
-    "id": 50389,
-    "fecha": "08 de Jul del 2026 a las 05:13 PM",
-    "hora_utc": "2026-07-08 21:13",
-    "mensaje": "⚠Afectado el servicio eléctrico en el siguiente circuito:\n🔹Municipio Caibarién:\n👉 Cto 61",
-    "timestamp": 1783545194,
-    "timestamp_local": 1783545194
-  },
-  {
-    "id": 50388,
-    "fecha": "08 de Jul del 2026 a las 05:01 PM",
-    "hora_utc": "2026-07-08 21:01",
-    "mensaje": "⚠Afectado el servicio eléctrico en el siguiente circuito:\n🔹Municipio Manicaragua:\n👉Cto 111 Mataguá",
-    "timestamp": 1783544489,
-    "timestamp_local": 1783544489
-  },
-  {
-    "id": 50387,
-    "fecha": "08 de Jul del 2026 a las 04:33 PM",
-    "hora_utc": "2026-07-08 20:33",
-    "mensaje": "‼️Estimados Clientes del municipio Santo Domingo‼️\nSe encuentra averiado el transformador principal de la sub estación Santo Domingo por 110 kV por lo que todo el municipio se encuentra afectado. Ya el personal calificado se encuentra en función de tomar las medidas necesarias para poder darle solución en el menor tiempo posible.",
-    "timestamp": 1783542803,
-    "timestamp_local": 1783542803
-  },
-  {
-    "id": 50386,
-    "fecha": "08 de Jul del 2026 a las 04:17 PM",
-    "hora_utc": "2026-07-08 20:17",
-    "mensaje": "Actualización del servicio eléctrico en la provincia.\n👉En este momento la afectación por déficit de capacidad de generación es de 156 MW, demanda máxima posible a apagar en estos momentos.\n👉De los circuitos apagables se mantienen afectados 150.\n👉Cuenta con 254 afectaciones por averías secundarias y de servicio.",
-    "timestamp": 1783541862,
-    "timestamp_local": 1783541862
-  },
-  {
-    "id": 50385,
-    "fecha": "08 de Jul del 2026 a las 03:32 PM",
-    "hora_utc": "2026-07-08 19:32",
-    "mensaje": "💡Con servicio eléctrico los siguientes circuitos:\n🔹Municipio Placetas:\n👉Ctos 101 y 145 Cumbre",
-    "timestamp": 1783539125,
-    "timestamp_local": 1783539125
   }
 ]
