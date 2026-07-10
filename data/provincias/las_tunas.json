@@ -1,5 +1,37 @@
 [
   {
+    "id": 20026,
+    "fecha": "10 de Jul del 2026 a las 07:30 AM",
+    "hora_utc": "2026-07-10 11:30",
+    "mensaje": "🚨Actualización 7:30am, la provincia mantiene una afectación de 64MW por déficit en capacidad de generación.",
+    "timestamp": 1783683009,
+    "timestamp_local": 1783683009
+  },
+  {
+    "id": 20025,
+    "fecha": "10 de Jul del 2026 a las 07:27 AM",
+    "hora_utc": "2026-07-10 11:27",
+    "mensaje": "Trasformadores disparados por Municipios:\n-Amancio:-\n-Colombia:-\n-Jobabo:7\n-Puerto Padre:13\n-Manatí:-\n-Menéndez:6\n-Majibacoa:1\n-Las Tunas:4",
+    "timestamp": 1783682874,
+    "timestamp_local": 1783682874
+  },
+  {
+    "id": 20024,
+    "fecha": "10 de Jul del 2026 a las 07:27 AM",
+    "hora_utc": "2026-07-10 11:27",
+    "mensaje": "Actualización de las quejas pendientes a solución por municipios:\n-Amancio:7\n-Colombia:4\n-Jobabo:2\n-Puerto Padre:14 \n-Manatí:-\n-Menéndez:2\n-Majibacoa:2\n-Las Tunas:21",
+    "timestamp": 1783682850,
+    "timestamp_local": 1783682850
+  },
+  {
+    "id": 20023,
+    "fecha": "10 de Jul del 2026 a las 07:26 AM",
+    "hora_utc": "2026-07-10 11:26",
+    "mensaje": "Actualización de las quejas pendientes por municipios:\n-Amancio:11\n-Colombia:-\n-Jobabo:34\n-Puerto Padre:92\n-Manatí:2\n-Menéndez:15 \n-Majibacoa:3\n-Las Tunas:56",
+    "timestamp": 1783682789,
+    "timestamp_local": 1783682789
+  },
+  {
     "id": 20018,
     "fecha": "09 de Jul del 2026 a las 09:58 PM",
     "hora_utc": "2026-07-10 01:58",
@@ -46,21 +78,5 @@
     "mensaje": "🟢Se encuentran afectados por DAF los clientes pertenecientes a los siguientes circuitos:                                                                                                                                                                                                                                      **Circuito 33 Kv: 6310**\nTK20 Becerra \nTK21 Tunazúcar\nTK39 Providencia IV \nTK50 Vázquez \nTK51 Santa Teresa \nTK54 Vázquez",
     "timestamp": 1783629265,
     "timestamp_local": 1783629265
-  },
-  {
-    "id": 20005,
-    "fecha": "09 de Jul del 2026 a las 04:10 PM",
-    "hora_utc": "2026-07-09 20:10",
-    "mensaje": "🟥🟥🟥🟥🟥🟥🟥🟥🟥🟥🟥🟥🟥🟥🟥🟥\n      ⚡🏭 ESTADO DE LAS CTE DEL SEN 🏭⚡\n🟥🟥🟥🟥🟥🟥🟥🟥🟥🟥🟥🟥🟥🟥🟥🟥\n\n🟢 GENERACIÓN TÉRMICA APROX.\n⚡ 545 MW\n\n━━━━━━━━━━━━━━━━━━━━━━\n\n🏭 MARIEL\n🟢 U-5 ➜ 50 MW\n🔴 U-6 ➜ 🧑‍🔧 EN AVERÍA\n🔴 U-8 ➜ 🧑‍🔧 EN AVERÍA\n\n🏭 SANTA CRUZ\n🟢 U-1 ➜ 55 MW\n🟢 U-2 ➜ 65 MW\n🟠 U-3 ➜ 🛠 MANTENIMIENTO\n\n🏭 GUITERAS\n🔵 U-1 ➜ 🧪 PRUEBA HIDRÁULICA\n\n🏭 CIENFUEGOS\n🟢 U-3 ➜ 158 MW\n🔴 U-4 ➜ 🧑‍🔧 EN AVERÍA\n\n🏭 NUEVITAS\n🟠 U-5 ➜ 🛠 MANTENIMIENTO\n🔴 U-6 ➜ 🧑‍🔧 EN AVERÍA\n\n🏭 RENTÉ\n🟢 U-3 ➜ 40 MW\n🟠 U-5 ➜ 🛠 MANTENIMIENTO\n🟠 U-6 ➜ 🛠 MANTENIMIENTO\n\n🏭 FELTON\n🟢 U-1 ➜ 180 MW\n🔴 U-2 ➜ 🧑‍🔧 EN AVERÍA\n\n━━━━━━━━━━━━━━━━━━━━━━\n\n📊 RESUMEN NACIONAL\n\n🏭 Total de unidades: 16\n🟢 En línea con el SEN: 6\n🔴 En avería: 6\n🟠 En mantenimiento: 4\n🛢 Por falta de combustible: 0\n🔄 Por fallo parcial o total del SEN: 0\n\n⚠️ AVISO IMPORTANTE\n🚨 Las cargas de las unidades corresponden a la última información publicada por la UNE. La potencia de algunas unidades es estimada y puede variar según la operación del SEN.\n🟥🟥🟥🟥🟥🟥🟥🟥🟥🟥🟥🟥🟥🟥🟥🟥",
-    "timestamp": 1783627801,
-    "timestamp_local": 1783627801
-  },
-  {
-    "id": 20003,
-    "fecha": "09 de Jul del 2026 a las 03:40 PM",
-    "hora_utc": "2026-07-09 19:40",
-    "mensaje": "Qué sucede en la central térmica Antonio Guiteras de Matanzas. #cteantonioguiteras \n🏭 ACTUALIZACIÓN: Proceso de arranque en la Guiteras\n\nTras la soldadura de alta complejidad, esta es la secuencia oficial que definirá la vuelta a la red. ¡Atención a estos pasos!\n\n---\n\n🔍 Fase 1 – Controles Metalográficos (En curso)\n✅ Verificación no destructiva de las soldaduras.\n🔬 Se busca integridad estructural y cero microfisuras.\n⚠️ Requisito obligatorio: Resultado FAVORABLE para seguir avanzando.\n\n---\n\n💧 Fase 2 – Prueba Hidráulica (Duración: 6 horas reglamentarias)\n🚿 Presurización con agua en el economizador y circuitos reparados.\n👀 Vigilancia constante contra fugas o deformaciones.\n🚫 Si algo falla, el proceso se detiene aquí.\n\n---\n\n🔥 Fase 3 – Encendido de la Caldera (Duración: 6 a 8 horas)\n🌡️ Calentamiento gradual y controlado.\n💨 Purgado de gases y estabilización térmica de todos los componentes.\n⚙️ La fase más compleja de todo el arranque.\n\n---\n\n⚡ Fase 4 – Sincronización (Hito final)\n🔗 El turbogenerador se pone en marcha.\n📡 Se igualan voltaje, frecuencia y fase con la red nacional (SEN).\n✅ ¡Momento del acople e inyección de energía!\n\n---\n\n⏳ RESUMEN DE TIEMPOS (Cuenta atrás):\n\n🕒 Controles metalográficos → Variable (depende de los resultados)\n➕ Prueba hidráulica → + 6 horas\n➕ Encendido + Sincronización → + 6 a 8 horas\n📌 Total acumulado (solo desde la hidráulica): 12 a 14 horas\n\n---\n\n🤞 Si la prueba hidráulica sale bien y los controles dan luz verde, el encendido comenzaría inmediatamente después. Las próximas horas son claves para la estabilidad del sistema.",
-    "timestamp": 1783626051,
-    "timestamp_local": 1783626051
   }
 ]
