@@ -1,5 +1,45 @@
 [
   {
+    "id": 55672,
+    "fecha": "10 de Jul del 2026 a las 12:24 AM",
+    "hora_utc": "2026-07-10 04:24",
+    "mensaje": "🔴Circuito en avería:                                                                                                                            Sucede si un circuito se interrumpe por causa de un defecto en un cable conductor de corriente (fase o neutro), un fusible fundido o disyuntor. En sistemas trifásicos una falla puede implicar una fase, más de una fase con la tierra o puede ocurrir solo entre fases.",
+    "timestamp": 1783657441,
+    "timestamp_local": 1783657441
+  },
+  {
+    "id": 55671,
+    "fecha": "10 de Jul del 2026 a las 12:23 AM",
+    "hora_utc": "2026-07-10 04:23",
+    "mensaje": "🚨Estimados clientes en estos momentos se encuentra en Avería el circuito San Juan",
+    "timestamp": 1783657403,
+    "timestamp_local": 1783657403
+  },
+  {
+    "id": 55670,
+    "fecha": "10 de Jul del 2026 a las 12:22 AM",
+    "hora_utc": "2026-07-10 04:22",
+    "mensaje": "🚨Estimados clientes en estos momentos se encuentran afectados por Déficit de Capacidad de Generación el circuito 11 y  las Líneas 4395 Contramaestre, 5380 Mella disculpen por las molestias ocasionadas.",
+    "timestamp": 1783657338,
+    "timestamp_local": 1783657338
+  },
+  {
+    "id": 55669,
+    "fecha": "09 de Jul del 2026 a las 10:34 PM",
+    "hora_utc": "2026-07-10 02:34",
+    "mensaje": "🚨Estimados clientes en estos momentos se encuentran afectados por Déficit de Capacidad de Generación  el circuito 8 de Santiago  , disculpen por las molestias ocasionadas.",
+    "timestamp": 1783650855,
+    "timestamp_local": 1783650855
+  },
+  {
+    "id": 55668,
+    "fecha": "09 de Jul del 2026 a las 09:35 PM",
+    "hora_utc": "2026-07-10 01:35",
+    "mensaje": "🚨Estimados clientes en estos momentos se encuentran afectados por Déficit de Capacidad de Generación los circuitos 1 y 2 de Contramaestre , línea 5335 Guama , disculpen por las molestias ocasionadas.",
+    "timestamp": 1783647307,
+    "timestamp_local": 1783647307
+  },
+  {
     "id": 55667,
     "fecha": "09 de Jul del 2026 a las 08:46 PM",
     "hora_utc": "2026-07-10 00:46",
@@ -110,37 +150,5 @@
     "mensaje": "**Manipulaciones:**\nAcción que se realizan en los circuitos para dar paso al trabajo en zonas afectadas por Averías o Vía Libre y posteriormente para restablecer el servicio eléctrico en los circuitos que se encontraban afectados y en los que se trabaja con anterioridad, luego de culminadas las labores pertinentes.",
     "timestamp": 1783613831,
     "timestamp_local": 1783613831
-  },
-  {
-    "id": 55652,
-    "fecha": "09 de Jul del 2026 a las 12:16 PM",
-    "hora_utc": "2026-07-09 16:16",
-    "mensaje": "🔴 Estimados clientes se encuentra en manipulación el circuito 15 de Santiago.",
-    "timestamp": 1783613782,
-    "timestamp_local": 1783613782
-  },
-  {
-    "id": 55651,
-    "fecha": "09 de Jul del 2026 a las 10:54 AM",
-    "hora_utc": "2026-07-09 14:54",
-    "mensaje": "🔴 Estimados clientes en estos momentos se incorporan a la afectación por Déficit de Capacidad de Generación los circuitos 1, 24, 25 de Santiago.",
-    "timestamp": 1783608846,
-    "timestamp_local": 1783608846
-  },
-  {
-    "id": 55650,
-    "fecha": "09 de Jul del 2026 a las 10:10 AM",
-    "hora_utc": "2026-07-09 14:10",
-    "mensaje": "🔊**Nota Informativa: Estado del SEN – **9 de julio de 2026\n \n⚡️En el día de ayer el servicio eléctrico estuvo afectado durante las 24 horas, incluyendo la madrugada, por falta de capacidad de generación. La mayor afectación fue de ⚠️**2341** MW a las 10:20 de la noche, con impacto en todas las provincias del país. 🚨Para hoy se estima una afectación de **2260** MW.\n \n🏭**Situación de las unidades de generación térmica**\n** **\n⚠️**Unidades en avería:**\nUnidades 5, 6 y 8 de la Termoeléctrica Máximo Gómez, en la Zona Especial del Mariel.\nUnidad de la Termoeléctrica Antonio Guiteras, en Matanzas.\nUnidad 6 de la Termoeléctrica Diez de Octubre, en Nuevitas.\nUnidad 2 de la Termoeléctrica Lidio Ramón Pérez, en Felton.\nUnidad 3 de la Termoeléctrica Antonio Maceo, en Renté.\n** **\n🛠**Unidades en mantenimiento:**\nUnidad 5 de la Termoeléctrica Máximo Gómez, en la Zona Especial del Mariel.\nUnidad 3 de la Termoeléctrica Ernesto Guevara De La Serna, en Santa Cruz.\nUnidades 5 y 6 de la Termoeléctrica Antonio Maceo, en Renté.\nUnidad 5 de la Termoeléctrica Diez de Octubre, en Nuevitas.\n** **\n☀️**Energías renovables y otras fuentes**\nLos 54 parques solares fotovoltaicos generaron ayer **4612 MW/hora**, con una potencia máxima de **717 MW**.\n** **\n⛽️**Generación Distribuida**\nFuera de servicio 106 centrales de generación distribuida por indisponibilidad de combustible.\nFuera de servicio la Patana de Regla, Patana de Melones, Central Fuel de Mariel y Central Fuel de Moa.\n** **\n⚡️**Pronóstico para el horario pico**\n➡️**Disponibilidad en horario pico: **970 MW\n➡️**Demanda máxima prevista: **3200 MW\n➡️**Déficit esperado: **2230 MW\n⚠️**Afectación pronosticada: **2260 MW",
-    "timestamp": 1783606258,
-    "timestamp_local": 1783606258
-  },
-  {
-    "id": 55648,
-    "fecha": "09 de Jul del 2026 a las 09:49 AM",
-    "hora_utc": "2026-07-09 13:49",
-    "mensaje": "🚨Estimados clientes en estos momentos se incorporan a la afectación por Déficit de Capacidad de Generación los circuitos 2 de Santiago y 1 de Palma.",
-    "timestamp": 1783604998,
-    "timestamp_local": 1783604998
   }
 ]
