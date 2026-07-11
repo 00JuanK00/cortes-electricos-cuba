@@ -1,9 +1,17 @@
 [
   {
+    "id": 55702,
+    "fecha": "10 de Jul del 2026 a las 07:40 PM",
+    "hora_utc": "2026-07-10 23:40",
+    "mensaje": "📌 Recuerde que los Microsistemas son varios emplazamientos interconectados independientemente del SEN, estos se crean para llevar la electricidad a centros vitales (hospitales, centros de comunicación), y en una situación compleja como la desconexión total del SEN, se utilizan para lograr el arranque de las unidades térmicas.\n\n⚠️El trabajo con los mismos puede ser inestable, cuando esto sucede el circuito vuelve a quedarse sin servicio eléctrico, lo que puede ser frecuente hasta que se normalice su funcionamiento.\n\n👉 Una vez que el servicio eléctrico llegue a su vivienda, conecte los equipos de forma paulatina. Evite conectar simultáneamente equipos de alto consumo para preservar la estabilidad de estos sistemas aislados.\n\n⛔ Advertencia:\n✍🏻 Es crucial que nuestros clientes comprendan que estos son sistemas aislados y vulnerables, por lo que están propensos a fallas o interrupciones súbitas mientras dure la contingencia.",
+    "timestamp": 1783726829,
+    "timestamp_local": 1783726829
+  },
+  {
     "id": 55701,
     "fecha": "10 de Jul del 2026 a las 07:32 PM",
     "hora_utc": "2026-07-10 23:32",
-    "mensaje": "🚨Estimados clientes les informamos que en estos momentos se encuentra con servicio por Batería el circuito 15 seccionalizado de Santiago.",
+    "mensaje": "🚨Estimados clientes les informamos que en estos momentos se encuentra con servicio por microsistema el circuito 15 seccionalizado de Santiago.",
     "timestamp": 1783726347,
     "timestamp_local": 1783726347
   },
@@ -126,13 +134,5 @@
     "mensaje": "🚨 Estimados clientes en estos momentos se encuentra disparado por DAF el circuito San Juan.",
     "timestamp": 1783693630,
     "timestamp_local": 1783693630
-  },
-  {
-    "id": 55680,
-    "fecha": "10 de Jul del 2026 a las 10:11 AM",
-    "hora_utc": "2026-07-10 14:11",
-    "mensaje": "🚨 Estimados clientes se encuentra afectado por Déficit de Capacidad de Generación la línea 5330- Cristo.",
-    "timestamp": 1783692694,
-    "timestamp_local": 1783692694
   }
 ]
