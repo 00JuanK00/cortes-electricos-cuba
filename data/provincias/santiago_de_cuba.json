@@ -1,5 +1,37 @@
 [
   {
+    "id": 55745,
+    "fecha": "12 de Jul del 2026 a las 10:13 AM",
+    "hora_utc": "2026-07-12 14:13",
+    "mensaje": "🚨Estimados clientes se les informa que en estos momentos se encuentran afectados por Déficit de Capacidad de Generación los circuitos 1 y 3 de Santiago. Disculpen las molestias ocasionadas",
+    "timestamp": 1783865600,
+    "timestamp_local": 1783865600
+  },
+  {
+    "id": 55744,
+    "fecha": "12 de Jul del 2026 a las 09:37 AM",
+    "hora_utc": "2026-07-12 13:37",
+    "mensaje": "🚨Estimados clientes se les informa que en estos momentos se encuentra en Disparo Automático de Frecuencia el circuito 8 de Santiago, disculpen las molestias ocasionadas.",
+    "timestamp": 1783863431,
+    "timestamp_local": 1783863431
+  },
+  {
+    "id": 55743,
+    "fecha": "12 de Jul del 2026 a las 09:00 AM",
+    "hora_utc": "2026-07-12 13:00",
+    "mensaje": "🔴**Disparo:**\nApertura no voluntaria de un interruptor como vía de protección para desconectar uno o varios elementos del circuito, subestación o sistema, restableciéndose el servicio rápidamente en dependencia de la causa.",
+    "timestamp": 1783861216,
+    "timestamp_local": 1783861216
+  },
+  {
+    "id": 55742,
+    "fecha": "12 de Jul del 2026 a las 08:58 AM",
+    "hora_utc": "2026-07-12 12:58",
+    "mensaje": "🚨 Estimados clientes se les informa que el circuito 9  de Santiago se encuentra disparado en estos momentos. Disculpen las molestias ocasionadas.",
+    "timestamp": 1783861125,
+    "timestamp_local": 1783861125
+  },
+  {
     "id": 55741,
     "fecha": "12 de Jul del 2026 a las 07:19 AM",
     "hora_utc": "2026-07-12 11:19",
@@ -118,29 +150,5 @@
     "mensaje": "🚨 Se les informa a nuestros clientes que se encuentran con servicio eléctrico mediante los microsistemas creados los circuitos 18, 10, 7, 16, y la línea 5380- San Luis seccionalizados, los cuales alimentan centros vitales.",
     "timestamp": 1783807117,
     "timestamp_local": 1783807117
-  },
-  {
-    "id": 55725,
-    "fecha": "11 de Jul del 2026 a las 04:37 PM",
-    "hora_utc": "2026-07-11 20:37",
-    "mensaje": "🔴Actualización de la recuperación del Sistema Eléctrico Nacional.\n👉🏻Sincronizó Energas Jaruco 6 y  ya se encuentra con servicio en el micro sistema del occidente,  la CTE Antonio Guiteras y Energas Varadero. ⚡️Unión Eléctrica.",
-    "timestamp": 1783802266,
-    "timestamp_local": 1783802266
-  },
-  {
-    "id": 55723,
-    "fecha": "11 de Jul del 2026 a las 03:26 PM",
-    "hora_utc": "2026-07-11 19:26",
-    "mensaje": "👉🏽Les seguiremos informando a través de nuestro canal de Telegram sobre la situación de la Disponibilidad del Sistema en nuestra provincia.",
-    "timestamp": 1783797985,
-    "timestamp_local": 1783797985
-  },
-  {
-    "id": 55722,
-    "fecha": "11 de Jul del 2026 a las 03:14 PM",
-    "hora_utc": "2026-07-11 19:14",
-    "mensaje": "🛑¿Qué es un microsistema?\n⚡️Varios emplazamientos de generación interconectados que alimentan la misma carga. La estabilidad del microsistema depende de la capacidad de regulación de las unidades que posea.",
-    "timestamp": 1783797282,
-    "timestamp_local": 1783797282
   }
 ]

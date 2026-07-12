@@ -1,5 +1,29 @@
 [
   {
+    "id": 20118,
+    "fecha": "12 de Jul del 2026 a las 09:14 AM",
+    "hora_utc": "2026-07-12 13:14",
+    "mensaje": "Informamos a nuestros Clientes que como parte del restablecimiento del servicio Eléctrico en nuestra provincia, se trabajó en brindar servicio a la mayoría de los circuitos del territorio, pudiéndose servir a gran parte de ellos.\n\nQuedan pendientes los pertenecientes al sur de la provincia, a los que de forma paulatina se les facilitará en correspondencia con el incremento en la generación.\n\nEspecíficamente en Amancio, en este minuto se trabaja en la solución del transformador de la Subestación afectado por bajo nivel de aceite.\n\nContinuaremos informando y actualizándolos sobre el comportamiento del sistema eléctrico en el territorio.",
+    "timestamp": 1783862074,
+    "timestamp_local": 1783862074
+  },
+  {
+    "id": 20117,
+    "fecha": "12 de Jul del 2026 a las 08:55 AM",
+    "hora_utc": "2026-07-12 12:55",
+    "mensaje": "Afectado el  servicio eléctrico al circuito:TK48 Puerto Padre y Maniabón",
+    "timestamp": 1783860926,
+    "timestamp_local": 1783860926
+  },
+  {
+    "id": 20116,
+    "fecha": "12 de Jul del 2026 a las 08:52 AM",
+    "hora_utc": "2026-07-12 12:52",
+    "mensaje": "Restablecido el servicio a los siguientes circuitos:\nTK50 Vázquez \nTK51 Santa Teresa \nCircuito 33 Kv: 6220\nTK61 La Yaya\nTK58 La Calera\nTK62 Lora\nTK63 Lora\nTJ95 Poblado Menéndez\n6220 Carúpano, La Salina y La Playa",
+    "timestamp": 1783860741,
+    "timestamp_local": 1783860741
+  },
+  {
     "id": 20115,
     "fecha": "12 de Jul del 2026 a las 08:31 AM",
     "hora_utc": "2026-07-12 12:31",
@@ -102,29 +126,5 @@
     "mensaje": "📣Informamos a nuestros clientes que cuentan con servicio eléctrico los circuitos siguientes.\n TK27 La Victoria\n\nTK24 Reparto Santo Domingo\nTK4 Aeropuerto, Casa Piedra y Aurora\n\nTK15Tunas El Pueblo\n\nTK7 La Victoria\nTK18 Las 40, Sosa\n\nTK29 Circunvalación Sur, Oro Negro\nDel circuito 33 kv 6305 Los Bombeos del Rincón \nTK-3Bombeo de Piedra Hueca \nTK-14 Bombeo Cayojo.",
     "timestamp": 1783828435,
     "timestamp_local": 1783828435
-  },
-  {
-    "id": 20098,
-    "fecha": "11 de Jul del 2026 a las 11:12 PM",
-    "hora_utc": "2026-07-12 03:12",
-    "mensaje": "🟢Felton 1 enlazado con el SEN e iniciando arranque",
-    "timestamp": 1783825932,
-    "timestamp_local": 1783825932
-  },
-  {
-    "id": 20097,
-    "fecha": "11 de Jul del 2026 a las 10:58 PM",
-    "hora_utc": "2026-07-12 02:58",
-    "mensaje": "🟢Actualización de la recuperación del SEN. \nYa se encuentra conectado el SEN, desde la provincia de Pinar del Río hasta Holguin.",
-    "timestamp": 1783825091,
-    "timestamp_local": 1783825091
-  },
-  {
-    "id": 20096,
-    "fecha": "11 de Jul del 2026 a las 10:40 PM",
-    "hora_utc": "2026-07-12 02:40",
-    "mensaje": "🟢Actualización restablecimiento del SEN\nSincronizó al microsistema \ncentro-occidente la unidad 2 de la CTE Santa Cruz. Subiendo carga.",
-    "timestamp": 1783824055,
-    "timestamp_local": 1783824055
   }
 ]
