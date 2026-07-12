@@ -1,5 +1,21 @@
 [
   {
+    "id": 20139,
+    "fecha": "12 de Jul del 2026 a las 07:08 PM",
+    "hora_utc": "2026-07-12 23:08",
+    "mensaje": "Queda solucionada la avería del 6305 Bombeo del Rincón",
+    "timestamp": 1783897712,
+    "timestamp_local": 1783897712
+  },
+  {
+    "id": 20138,
+    "fecha": "12 de Jul del 2026 a las 06:37 PM",
+    "hora_utc": "2026-07-12 22:37",
+    "mensaje": "Se encuentra en avería Del circuito de 33 kV 6305 la zona del Bombeo del Rincón",
+    "timestamp": 1783895829,
+    "timestamp_local": 1783895829
+  },
+  {
     "id": 20137,
     "fecha": "12 de Jul del 2026 a las 06:04 PM",
     "hora_utc": "2026-07-12 22:04",
@@ -118,21 +134,5 @@
     "mensaje": "Se le informa a los clientes que se encuentran restablecidos los siguientes circuitos:\nTK4 Aeropuerto, Casa Piedra y Aurora\nTK15 Tunas El Pueblo",
     "timestamp": 1783866286,
     "timestamp_local": 1783866286
-  },
-  {
-    "id": 20119,
-    "fecha": "12 de Jul del 2026 a las 10:22 AM",
-    "hora_utc": "2026-07-12 14:22",
-    "mensaje": "Se afecta el servicio eléctrico a los siguientes circuitos:\nCircuito 33 Kv: 6305\nTK41 Calixto\nTK40 Vista Alegre\nTK42 Gastón y Arroyo Muerto\nTK45 La Ceiba\nTK43 Las Parras, Omaja y Cañada Honda\nTK44 Vivienda\nTK19 San Antonio, Km 7\nTK25 Cuatro Caminos, Dormitorio",
-    "timestamp": 1783866127,
-    "timestamp_local": 1783866127
-  },
-  {
-    "id": 20118,
-    "fecha": "12 de Jul del 2026 a las 09:14 AM",
-    "hora_utc": "2026-07-12 13:14",
-    "mensaje": "Informamos a nuestros Clientes que como parte del restablecimiento del servicio Eléctrico en nuestra provincia, se trabajó en brindar servicio a la mayoría de los circuitos del territorio, pudiéndose servir a gran parte de ellos.\n\nQuedan pendientes los pertenecientes al sur de la provincia, a los que de forma paulatina se les facilitará en correspondencia con el incremento en la generación.\n\nEspecíficamente en Amancio, en este minuto se trabaja en la solución del transformador de la Subestación afectado por bajo nivel de aceite.\n\nContinuaremos informando y actualizándolos sobre el comportamiento del sistema eléctrico en el territorio.",
-    "timestamp": 1783862074,
-    "timestamp_local": 1783862074
   }
 ]
