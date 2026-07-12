@@ -1,5 +1,21 @@
 [
   {
+    "id": 20133,
+    "fecha": "12 de Jul del 2026 a las 04:26 PM",
+    "hora_utc": "2026-07-12 20:26",
+    "mensaje": "Se restablece el servicio eléctrico a los siguientes circuitos:\nTK4 Aeropuerto, Casa Piedra y Aurora\nTK1 Edificios de Buena Vista\nTK12 Las 40 y Nuevo Sosa\nTK6 Calle Cuba y zona sur de Buena Vista\nTK9 Aguilera, La Victoria \nTK24 Reparto Santo Domingo",
+    "timestamp": 1783887974,
+    "timestamp_local": 1783887974
+  },
+  {
+    "id": 20132,
+    "fecha": "12 de Jul del 2026 a las 04:23 PM",
+    "hora_utc": "2026-07-12 20:23",
+    "mensaje": "Se afecta el servicio eléctrico a los siguientes circuitos:\nTK15 Tunas El Pueblo\nTK41 Calixto\nTK42 Gastón y Arroyo Muerto\nTK45 La Ceiba\nTK44 Vivienda\nTK2 Bonachea\nTK106 Palancón, Buena Vista\nTK29 Circunvalación Sur, Oro Negro\nTK7 La Victoria\nTK19 San Antonio, Km 7\nTK25 Cuatro Caminos, Dormitorio\nTK18 Las 40, Sosa",
+    "timestamp": 1783887833,
+    "timestamp_local": 1783887833
+  },
+  {
     "id": 20131,
     "fecha": "12 de Jul del 2026 a las 03:35 PM",
     "hora_utc": "2026-07-12 19:35",
@@ -118,21 +134,5 @@
     "mensaje": "Con servicio el circuito:TK53 La Morena y El Malecón",
     "timestamp": 1783859235,
     "timestamp_local": 1783859235
-  },
-  {
-    "id": 20113,
-    "fecha": "12 de Jul del 2026 a las 08:25 AM",
-    "hora_utc": "2026-07-12 12:25",
-    "mensaje": "Se informa a los clientes del circuito:\nCircuito 33 Kv: 6100\nTK35 Puerto Manatí\nTK36 El Raúl\nTK22 Aeropuerto\nTK23 Veguita \nTK32 Fleytas \nTK30 Meriño\nQue el mismo ya se encuentra con servicio después de solucionada la avería.",
-    "timestamp": 1783859159,
-    "timestamp_local": 1783859159
-  },
-  {
-    "id": 20112,
-    "fecha": "12 de Jul del 2026 a las 08:15 AM",
-    "hora_utc": "2026-07-12 12:15",
-    "mensaje": "Se afecta el servicio eléctrico circuito:TK47 La Micro Puerto Padre",
-    "timestamp": 1783858521,
-    "timestamp_local": 1783858521
   }
 ]
