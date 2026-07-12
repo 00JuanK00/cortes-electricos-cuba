@@ -1,5 +1,21 @@
 [
   {
+    "id": 36999,
+    "fecha": "12 de Jul del 2026 a las 12:10 PM",
+    "hora_utc": "2026-07-12 16:10",
+    "mensaje": "📢 Actualizamos \nLa afectación por déficit de capacidad de generación en la provincia es de 136 MW.",
+    "timestamp": 1783872603,
+    "timestamp_local": 1783872603
+  },
+  {
+    "id": 36998,
+    "fecha": "12 de Jul del 2026 a las 11:58 AM",
+    "hora_utc": "2026-07-12 15:58",
+    "mensaje": "CIRCUITOS RESTABLECIDOS\n\n🔌 Circuito 1387 que da servicio a caserío Niña Bonita, Fábrica de Mosaico, Finca La Victoria, Rebombeo de la Bellotex, Finca el Bolo, Somatón, Almacenes del CIMEX, Prisión de mujeres, Las Marías, Bombeo de Guanábana, caserío La Conga.\n🔌 Circuito MI 1390 que da servicio a Guanábana, Álvaro Reynoso, Pre Henrique Hard, Base Santa Clara, La Biofan, Hospital Psiquiátrico y Finca el Retiro.\n🔌 Circuito MJ 662 que da servicio a Gelpys - Frutas Selectas.\n🔌 Circuito que dan servicio al Poblado de Limonar\n🔌 Circuito MJ1083 que da servicio desde Salud hasta Obispo y desde García hasta Genes.\n🔌 Circuito MK120 que da servicio a Ciudad de Cárdenas Rpto 13 de Marzo, Valdés Reyes, El Cerro.\n🔌 Circuito 145 que da servicio a  Ciudad Cárdenas desde Industria hasta Héctor, desde Sáez hasta San José y Playa Larga",
+    "timestamp": 1783871926,
+    "timestamp_local": 1783871926
+  },
+  {
     "id": 36997,
     "fecha": "12 de Jul del 2026 a las 10:34 AM",
     "hora_utc": "2026-07-12 14:34",
@@ -142,21 +158,5 @@
     "mensaje": "🔌En el momento de restablecer el servicio a los circuitos MK 1504 y MK 1501 fue necesario disminuir la energía servida para evitar el colapso del sistema.\n👉 En cuanto las condiciones  lo permitan se le dará prioridad y se les restablecerá el servicio.",
     "timestamp": 1783824982,
     "timestamp_local": 1783824982
-  },
-  {
-    "id": 36977,
-    "fecha": "11 de Jul del 2026 a las 10:37 PM",
-    "hora_utc": "2026-07-12 02:37",
-    "mensaje": "🟢Actualización restablecimiento del SEN.\nSincronizó al microsistema \ncentro-occidente la unidad 2 de la CTE Santa Cruz. Subiendo carga.",
-    "timestamp": 1783823835,
-    "timestamp_local": 1783823835
-  },
-  {
-    "id": 36976,
-    "fecha": "11 de Jul del 2026 a las 10:22 PM",
-    "hora_utc": "2026-07-12 02:22",
-    "mensaje": "CON SERVICIO\n\nCircuito MK1504 Pueblo Nuevo desde Santa Cristina o calle D hasta la calzada General Betancourt, desde Luis Cuni hasta Candelaria, desde Espíritu Santos hasta calle Canímar y desde Manglar hasta San Vicente \nCircuito MK1501 que da servicio a Reparto Camilo Cienfuegos, La Violeta, Escuela del PCC, Almacenes de TRD.",
-    "timestamp": 1783822952,
-    "timestamp_local": 1783822952
   }
 ]
