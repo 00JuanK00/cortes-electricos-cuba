@@ -1,5 +1,45 @@
 [
   {
+    "id": 55765,
+    "fecha": "12 de Jul del 2026 a las 08:38 PM",
+    "hora_utc": "2026-07-13 00:38",
+    "mensaje": "🚨Estimados clientes se les informa que se incorpora a la afectación por Déficit el circuito 17.",
+    "timestamp": 1783903133,
+    "timestamp_local": 1783903133
+  },
+  {
+    "id": 55764,
+    "fecha": "12 de Jul del 2026 a las 08:16 PM",
+    "hora_utc": "2026-07-13 00:16",
+    "mensaje": "🔴**Déficit de Capacidad de Generación: **\n**Se produce cuando la demanda del Sistema Eléctrico Nacional, en determinado horario del día supera la generación disponible del país, provocando la desconexión de los circuitos o líneas que permitan garantizar la frecuencia del SEN.**",
+    "timestamp": 1783901797,
+    "timestamp_local": 1783901797
+  },
+  {
+    "id": 55763,
+    "fecha": "12 de Jul del 2026 a las 08:08 PM",
+    "hora_utc": "2026-07-13 00:08",
+    "mensaje": "🟠Estimados clientes se les informa que se incorporan a la afectación por Déficit los circuitos 4 de Palma , 13, 19 y LI 5390-La Maya.",
+    "timestamp": 1783901308,
+    "timestamp_local": 1783901308
+  },
+  {
+    "id": 55762,
+    "fecha": "12 de Jul del 2026 a las 08:05 PM",
+    "hora_utc": "2026-07-13 00:05",
+    "mensaje": "🔴Se les informa que se incorporan a la afectación por Déficit los circuitos 20, 12, 25, 9, 2  y LI 5380-Mella.",
+    "timestamp": 1783901127,
+    "timestamp_local": 1783901127
+  },
+  {
+    "id": 55761,
+    "fecha": "12 de Jul del 2026 a las 07:33 PM",
+    "hora_utc": "2026-07-12 23:33",
+    "mensaje": "⚠️Le recordamos que puede comunicarse con nosotros y obtener información a través de nuestros diferentes canales de comunicación: Centro Telefónico 18888, el cual brinda servicio las 24 horas del día, a través del correo electrónico:atencionalcliente@elecstg.une.cu, a través de nuestro perfil institucional en la red social Facebook y de Telegram:t.me/electricastg.",
+    "timestamp": 1783899199,
+    "timestamp_local": 1783899199
+  },
+  {
     "id": 55759,
     "fecha": "12 de Jul del 2026 a las 06:31 PM",
     "hora_utc": "2026-07-12 22:31",
@@ -94,45 +134,5 @@
     "mensaje": "🔴📌Estimados clientes, se les reitera que el comportamiento de las afectaciones eléctricas y el restablecimiento del servicio, estará en dependencia de la situación que presente el Sistema Electroenergético Nacional.",
     "timestamp": 1783871296,
     "timestamp_local": 1783871296
-  },
-  {
-    "id": 55745,
-    "fecha": "12 de Jul del 2026 a las 10:13 AM",
-    "hora_utc": "2026-07-12 14:13",
-    "mensaje": "🚨Estimados clientes se les informa que en estos momentos se encuentran afectados por Déficit de Capacidad de Generación los circuitos 1 , 3, 9 secc., 16 ,23,  24 de Santiago , las líneas 4435  Y 4395 Contramaestre y 5390 La Maya . Disculpen las molestias ocasionadas.",
-    "timestamp": 1783865600,
-    "timestamp_local": 1783865600
-  },
-  {
-    "id": 55744,
-    "fecha": "12 de Jul del 2026 a las 09:37 AM",
-    "hora_utc": "2026-07-12 13:37",
-    "mensaje": "🚨Estimados clientes se les informa que en estos momentos se encuentra en Disparo Automático de Frecuencia el circuito 8 de Santiago, disculpen las molestias ocasionadas.",
-    "timestamp": 1783863431,
-    "timestamp_local": 1783863431
-  },
-  {
-    "id": 55743,
-    "fecha": "12 de Jul del 2026 a las 09:00 AM",
-    "hora_utc": "2026-07-12 13:00",
-    "mensaje": "🔴**Disparo:**\nApertura no voluntaria de un interruptor como vía de protección para desconectar uno o varios elementos del circuito, subestación o sistema, restableciéndose el servicio rápidamente en dependencia de la causa.",
-    "timestamp": 1783861216,
-    "timestamp_local": 1783861216
-  },
-  {
-    "id": 55742,
-    "fecha": "12 de Jul del 2026 a las 08:58 AM",
-    "hora_utc": "2026-07-12 12:58",
-    "mensaje": "🚨 Estimados clientes se les informa que el circuito 9  de Santiago se encuentra disparado en estos momentos. Disculpen las molestias ocasionadas.",
-    "timestamp": 1783861125,
-    "timestamp_local": 1783861125
-  },
-  {
-    "id": 55741,
-    "fecha": "12 de Jul del 2026 a las 07:19 AM",
-    "hora_utc": "2026-07-12 11:19",
-    "mensaje": "🚨 Se les informa a nuestros clientes que se encuentran con servicio eléctrico en estos momentos los circuitos 1, 10, 3, 15, 18, 7 seccionalizado,  y las líneas 5395- (San Luis), 5380- (Mella- San Luis) y 5390- (La Maya) seccionalizadas.",
-    "timestamp": 1783855174,
-    "timestamp_local": 1783855174
   }
 ]

@@ -1,5 +1,37 @@
 [
   {
+    "id": 50633,
+    "fecha": "12 de Jul del 2026 a las 08:21 PM",
+    "hora_utc": "2026-07-13 00:21",
+    "mensaje": "💡Restablecido el servicio eléctrico en el circuito 27 Maleza.",
+    "timestamp": 1783902112,
+    "timestamp_local": 1783902112
+  },
+  {
+    "id": 50632,
+    "fecha": "12 de Jul del 2026 a las 08:15 PM",
+    "hora_utc": "2026-07-13 00:15",
+    "mensaje": "⚠️Afectado el servicio eléctrico en los siguientes circuitos:\n🔹Municipio Santa Clara:\n👉Cto 6 Vigía\n👉Cto 34 Sabana Rebacadero\n👉Cto 39 (Sandino)",
+    "timestamp": 1783901724,
+    "timestamp_local": 1783901724
+  },
+  {
+    "id": 50631,
+    "fecha": "12 de Jul del 2026 a las 07:57 PM",
+    "hora_utc": "2026-07-12 23:57",
+    "mensaje": "⚡Afectado por avería el circuito 157 Luis Arcos Bergnes, de manera parcial.",
+    "timestamp": 1783900621,
+    "timestamp_local": 1783900621
+  },
+  {
+    "id": 50630,
+    "fecha": "12 de Jul del 2026 a las 07:51 PM",
+    "hora_utc": "2026-07-12 23:51",
+    "mensaje": "⚠️Afectado el servicio eléctrico en los siguientes circuitos:\n🔹Municipio Manicaragua:\n👉Ctos 109 y 150\n👉Ctos 108 y 110 La Piedra\n👉Cto 111 Mataguá",
+    "timestamp": 1783900314,
+    "timestamp_local": 1783900314
+  },
+  {
     "id": 50629,
     "fecha": "12 de Jul del 2026 a las 07:01 PM",
     "hora_utc": "2026-07-12 23:01",
@@ -126,37 +158,5 @@
     "mensaje": "⚠️Afectado el servicio eléctrico en los siguientes circuitos:\n🔹Municipio Caibarién:\n👉 Ctos 61, 62\n 👉Ctos 63 y 64\n👉Ctos 182 y 183 Van Troy",
     "timestamp": 1783886640,
     "timestamp_local": 1783886640
-  },
-  {
-    "id": 50613,
-    "fecha": "12 de Jul del 2026 a las 04:02 PM",
-    "hora_utc": "2026-07-12 20:02",
-    "mensaje": "⚠️Afectado el servicio eléctrico en los siguientes circuitos:\n🔹Municipio Remedios:\n👉Ctos 67 y 152",
-    "timestamp": 1783886558,
-    "timestamp_local": 1783886558
-  },
-  {
-    "id": 50612,
-    "fecha": "12 de Jul del 2026 a las 03:55 PM",
-    "hora_utc": "2026-07-12 19:55",
-    "mensaje": "⚠️Afectado el servicio eléctrico en los siguientes circuitos:\n🔹Municipio Santa Clara:\n👉Cto 5 Dobarganes\n👉Cto 17 Subplanta",
-    "timestamp": 1783886128,
-    "timestamp_local": 1783886128
-  },
-  {
-    "id": 50611,
-    "fecha": "12 de Jul del 2026 a las 03:47 PM",
-    "hora_utc": "2026-07-12 19:47",
-    "mensaje": "💡Con servicio eléctrico el siguiente circuito.\n\n🔹Municipio Santa Clara:\n👉Cto 39 (Sandino)",
-    "timestamp": 1783885620,
-    "timestamp_local": 1783885620
-  },
-  {
-    "id": 50610,
-    "fecha": "12 de Jul del 2026 a las 03:37 PM",
-    "hora_utc": "2026-07-12 19:37",
-    "mensaje": "💡Con servicio eléctrico los siguientes circuitos:\n🔹Municipio Placetas\n👉Cto 139 Miller\n👉Cto 190 Oliver\n👉Cto 106 Falcón",
-    "timestamp": 1783885041,
-    "timestamp_local": 1783885041
   }
 ]
