@@ -1,5 +1,29 @@
 [
   {
+    "id": 37011,
+    "fecha": "12 de Jul del 2026 a las 11:07 PM",
+    "hora_utc": "2026-07-13 03:07",
+    "mensaje": "⚡ Déficit de capacidad de generación en la provincia: 172 MW .⚡",
+    "timestamp": 1783912027,
+    "timestamp_local": 1783912027
+  },
+  {
+    "id": 37010,
+    "fecha": "12 de Jul del 2026 a las 10:05 PM",
+    "hora_utc": "2026-07-13 02:05",
+    "mensaje": "CIRCUITOS RESTABLECIDOS\n🔌** Circuito 4935** que da servicio a San Pedro, Los Arabos, Colón Este, Central Méjico y Mario Muñoz.",
+    "timestamp": 1783908352,
+    "timestamp_local": 1783908352
+  },
+  {
+    "id": 37009,
+    "fecha": "12 de Jul del 2026 a las 10:04 PM",
+    "hora_utc": "2026-07-13 02:04",
+    "mensaje": "⚠ Se comunica a clientes de Circuito MK110 (Municipio de Colón) una avería que afecta a Meteorología, Barrio Guispert, Acueducto Laberinto, Poblado Maceo, Batey Rene Fraga, Santa Bárbara y Barrio Palestina.",
+    "timestamp": 1783908273,
+    "timestamp_local": 1783908273
+  },
+  {
     "id": 37008,
     "fecha": "12 de Jul del 2026 a las 08:45 PM",
     "hora_utc": "2026-07-13 00:45",
@@ -134,29 +158,5 @@
     "mensaje": "🟢 #Actualización || Sobre el restablecimiento del SEN:\n\n👉 A las 6:30 de esta mañana quedó interconectado el SEN en todo el país.\n\n👉 En línea la Unidad 3 de la CTE Carlos Manuel de Céspedes.",
     "timestamp": 1783859077,
     "timestamp_local": 1783859077
-  },
-  {
-    "id": 36991,
-    "fecha": "12 de Jul del 2026 a las 07:07 AM",
-    "hora_utc": "2026-07-12 11:07",
-    "mensaje": "El despacho provincial de carga continúa trabajando para restablecer el servicio eléctrico.",
-    "timestamp": 1783854458,
-    "timestamp_local": 1783854458
-  },
-  {
-    "id": 36990,
-    "fecha": "12 de Jul del 2026 a las 06:33 AM",
-    "hora_utc": "2026-07-12 10:33",
-    "mensaje": "Se le da servicio a:\n\n🔌 Circuito MI1451 que da servicio al Naranjal.\n🔌 Circuito 4071 que da servicio a la Carlota y La Isabel.\n🔌 Circuito Z739 que da servicio a La Conchita, Boca de Camarioca, Camarioca.",
-    "timestamp": 1783852426,
-    "timestamp_local": 1783852426
-  },
-  {
-    "id": 36989,
-    "fecha": "12 de Jul del 2026 a las 06:07 AM",
-    "hora_utc": "2026-07-12 10:07",
-    "mensaje": "💡💡✅✅**Servicio restablecido**✅✅ 💡💡\nCircuito MI1452 que da servicio a Laboratorio Epidemiología, Tele Centro, Los Mangos.\n Circuito MI1454 que da servicio a COMPOSTELA\n\nCircuito MI1456 que da servicio a Calzada de San Luis hasta Parque Maceo y La Jaiba.\nCircuitoMI1406 que da servicio a Casco Histórico de la ciudad.\nCircuito Z1170 que da servicio a Campestre-Campismo Bacunayagüa.",
-    "timestamp": 1783850855,
-    "timestamp_local": 1783850855
   }
 ]

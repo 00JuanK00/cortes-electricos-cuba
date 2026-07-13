@@ -1,5 +1,13 @@
 [
   {
+    "id": 20141,
+    "fecha": "12 de Jul del 2026 a las 09:50 PM",
+    "hora_utc": "2026-07-13 01:50",
+    "mensaje": "Se informa a la población que a las 16:00 horas se ha restablecido el transformador de la subestación que presta servicio al municipio de Amancio, el cual se encontraba afectado por un bajo nivel de aceite dieléctrico. Se ha logrado restituir el servicio a estos circuitos según la disponibilidad existente, tras la desconexión del SEN.",
+    "timestamp": 1783907444,
+    "timestamp_local": 1783907444
+  },
+  {
     "id": 20139,
     "fecha": "12 de Jul del 2026 a las 07:08 PM",
     "hora_utc": "2026-07-12 23:08",
@@ -110,21 +118,5 @@
     "mensaje": "Se afecta el servicio eléctrico a los siguientes circuitos:\nTK4 Aeropuerto, Casa Piedra y Aurora\nCircuito 33 Kv: 6230\nTK59 Vedado 3\nTK67 Porcino\nTK68 Vedado 6\nTK69 Poblado de Menéndez\nTK70 Transporte\nTK99 Santa Marías\nTK98 San Manuel, La Pedrera\nTK64 Palma Picada\nCircuito 33 Kv: 6100\nTK35 Puerto Manatí\nTK36 El Raúl\nTK22 Aeropuerto\nTK23 Veguita \nTK32 Fleytas \nTK30 Meriño\nCircuito 33 Kv: 6220\nTK61 La Yaya\nTK58 La Calera\nTK62 Lora\nTK63 Lora\nTJ95 Poblado Menéndez\n6220 Carúpano, La Salina y La Playa\nTK53 La Morena y El Malecón",
     "timestamp": 1783875190,
     "timestamp_local": 1783875190
-  },
-  {
-    "id": 20122,
-    "fecha": "12 de Jul del 2026 a las 11:01 AM",
-    "hora_utc": "2026-07-12 15:01",
-    "mensaje": "Con servicio el circuito:TK2 Bonachea",
-    "timestamp": 1783868491,
-    "timestamp_local": 1783868491
-  },
-  {
-    "id": 20121,
-    "fecha": "12 de Jul del 2026 a las 10:35 AM",
-    "hora_utc": "2026-07-12 14:35",
-    "mensaje": "Restablecidos los siguientes circuitos:\nTK29 Circunvalación Sur, Oro Negro\nTK106 Palancón, Buena Vista\nTK7 La Victoria",
-    "timestamp": 1783866927,
-    "timestamp_local": 1783866927
   }
 ]
