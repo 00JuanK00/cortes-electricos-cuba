@@ -1,5 +1,21 @@
 [
   {
+    "id": 37036,
+    "fecha": "13 de Jul del 2026 a las 03:51 PM",
+    "hora_utc": "2026-07-13 19:51",
+    "mensaje": "🔴 14:06 || Fuera de línea la Unidad 3 de la CTE Carlos Manuel de Céspedes.",
+    "timestamp": 1783972266,
+    "timestamp_local": 1783972266
+  },
+  {
+    "id": 37033,
+    "fecha": "13 de Jul del 2026 a las 03:31 PM",
+    "hora_utc": "2026-07-13 19:31",
+    "mensaje": "⚡ Déficit de capacidad de generación en la provincia: * 115 MW .* ⚡",
+    "timestamp": 1783971073,
+    "timestamp_local": 1783971073
+  },
+  {
     "id": 37032,
     "fecha": "13 de Jul del 2026 a las 02:05 PM",
     "hora_utc": "2026-07-13 18:05",
@@ -142,21 +158,5 @@
     "mensaje": "⚡ Déficit de capacidad de generación en la provincia: 142 MW .⚡",
     "timestamp": 1783932346,
     "timestamp_local": 1783932346
-  },
-  {
-    "id": 37013,
-    "fecha": "13 de Jul del 2026 a las 04:38 AM",
-    "hora_utc": "2026-07-13 08:38",
-    "mensaje": "CIRCUITOS RESTABLECIDOS\n🔌 Circuito Z-720\n🔌 Circuito  Z-723",
-    "timestamp": 1783931901,
-    "timestamp_local": 1783931901
-  },
-  {
-    "id": 37012,
-    "fecha": "13 de Jul del 2026 a las 01:08 AM",
-    "hora_utc": "2026-07-13 05:08",
-    "mensaje": "CIRCUITOS PROXIMOS A RESTABLECER\n🔌 Circuito Z-720 que da servicio desde Calle Martorell hasta el Reparto 14 Festival y desde Calle América hasta batey Por Fuerza.\n🔌 Circuito Z-723 que da servicio desde Calle Mario Muñoz hasta Batey San Isidro, desde Calle Céspedes, Bartolomé Maso hasta Calle Mesa y desde Agramonte hasta Pasaje 13.",
-    "timestamp": 1783919289,
-    "timestamp_local": 1783919289
   }
 ]
