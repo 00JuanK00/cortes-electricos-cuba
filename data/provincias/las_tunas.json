@@ -1,5 +1,29 @@
 [
   {
+    "id": 20186,
+    "fecha": "13 de Jul del 2026 a las 10:56 PM",
+    "hora_utc": "2026-07-14 02:56",
+    "mensaje": "Se restablecen los siguientes circuitos:\nTK24 Reparto Santo Domingo\nTK27 La Victoria\nCircuito 33 Kv: 6820 Poblado Amancio\nTK75 Vicente Pérez \nTK77 San Alberto\nTK78 Ana Luisa\nTK76 El Paraíso",
+    "timestamp": 1783997778,
+    "timestamp_local": 1783997778
+  },
+  {
+    "id": 20185,
+    "fecha": "13 de Jul del 2026 a las 10:54 PM",
+    "hora_utc": "2026-07-14 02:54",
+    "mensaje": "Se afecta el servicio eléctrico a los siguientes circuitos:\nTK9 Aguilera, La Victoria \nTK1 Edificios de Buena Vista",
+    "timestamp": 1783997659,
+    "timestamp_local": 1783997659
+  },
+  {
+    "id": 20184,
+    "fecha": "13 de Jul del 2026 a las 09:31 PM",
+    "hora_utc": "2026-07-14 01:31",
+    "mensaje": "‼️Información del Déficit de generación ‼️\n📣🚨Reiteramos a nuestros clientes que en estos momentos la provincia enfrenta un alto déficit en capacidades de generación eléctrica lo que propicia una mayor afectación. La recuperación del servicio dependerá de la demanda en tiempo real y las capacidades disponibles. Ofrecemos disculpas por las molestias ocasionadas.",
+    "timestamp": 1783992669,
+    "timestamp_local": 1783992669
+  },
+  {
     "id": 20182,
     "fecha": "13 de Jul del 2026 a las 08:28 PM",
     "hora_utc": "2026-07-14 00:28",
@@ -54,29 +78,5 @@
     "mensaje": "🏭⚡ ESTADO DEL PARQUE TERMOELÉCTRICO ⚡🏭\n        (Generación aproximada)\n\n🟩 = En servicio   🟥 = Fuera de servicio\n\n🏭 CTE MÁXIMO GÓMEZ (Mariel)\nU5 🟩 ██████ 60 MW\nU6 🟥 ░░░░░░ 0 MW\nU8 🟥 ░░░░░░ 0 MW\n\n🏭 CTE ERNESTO GUEVARA (Santa Cruz)\nU1 🟩 █████▌ 55 MW\nU2 🟩 ██████▌ 65 MW\nU3 🟥 ░░░░░░░ 0 MW\n\n🏭 CTE ANTONIO GUITERAS\nU1 🟩 ████████████████████ 200 MW\n\n🏭 CTE CARLOS MANUEL DE CÉSPEDES\nU3 🟥 ░░░░░░░ 0 MW\nU4 🟩 ██████████ 100 MW\n\n🏭 CTE DIEZ DE OCTUBRE (Nuevitas)\nU5 🟥 ░░░░░░░ 0 MW\nU6 🟥 ░░░░░░░ 0 MW\n\n🏭 CTE ANTONIO MACEO (Renté)\nU3 🟥 ░░░░░░░ 0 MW\nU5 🟥 ░░░░░░░ 0 MW\nU6 🟥 ░░░░░░░ 0 MW\n\n🏭 CTE LIDIO RAMÓN PÉREZ (Felton)\nU1 🟩 █████████████████ 170 MW\nU2 🟥 ░░░░░░░ 0 MW\n\n━━━━━━━━━━━━━━━━━━━━━━━━━━\n⚡ GENERACIÓN TÉCNICA APROXIMADA\n🟢 656 MW",
     "timestamp": 1783978644,
     "timestamp_local": 1783978644
-  },
-  {
-    "id": 20167,
-    "fecha": "13 de Jul del 2026 a las 04:16 PM",
-    "hora_utc": "2026-07-13 20:16",
-    "mensaje": "👉🟢 Cte Antonio Guiteras 200 mw aportando al sen estable",
-    "timestamp": 1783973784,
-    "timestamp_local": 1783973784
-  },
-  {
-    "id": 20165,
-    "fecha": "13 de Jul del 2026 a las 04:11 PM",
-    "hora_utc": "2026-07-13 20:11",
-    "mensaje": "🔴  || Fuera de línea la Unidad 6 de la CTE 10 de octubre.",
-    "timestamp": 1783973494,
-    "timestamp_local": 1783973494
-  },
-  {
-    "id": 20163,
-    "fecha": "13 de Jul del 2026 a las 04:08 PM",
-    "hora_utc": "2026-07-13 20:08",
-    "mensaje": "🏭 Mantenemos un déficit en la provincia de 60.25MW",
-    "timestamp": 1783973284,
-    "timestamp_local": 1783973284
   }
 ]
