@@ -1,5 +1,37 @@
 [
   {
+    "id": 20197,
+    "fecha": "14 de Jul del 2026 a las 07:55 AM",
+    "hora_utc": "2026-07-14 11:55",
+    "mensaje": "**Nota Informativa: Estado del SEN – **14 de julio de 2026\nEn el día de ayer el servicio eléctrico estuvo afectado durante las 24 horas, incluyendo la madrugada, por falta de capacidad de generación. La mayor afectación fue de **2015** MW a las 21:10 de la noche, con impacto en todas las provincias del país. Para hoy se estima una afectación de **2160** MW.\n**Situación de las unidades de generación térmica**\n**Unidades en avería:**\nUnidades 6 y 8 de la Termoeléctrica Máximo Gómez, en la Zona Especial del Mariel.\nUnidad 2 de la Termoeléctrica Lidio Ramón Pérez, en Felton.\nUnidad 3 de la Termoeléctrica Antonio Maceo, en Renté.\n**Unidades en mantenimiento:**\nUnidad 3 de la Termoeléctrica Ernesto Guevara De La Serna, en Santa Cruz.\nUnidades 5 y 6 de la Termoeléctrica Antonio Maceo, en Renté.\nUnidad 5 de la Termoeléctrica Diez de Octubre, en Nuevitas.\n**Energías renovables y otras fuentes**\nLos 54 parques solares fotovoltaicos generaron ayer **5109 MW/hora**, con una potencia máxima de **794 MW**.\n**Generación Distribuida**\nFuera de servicio 106 centrales de generación distribuida por indisponibilidad de combustible.\nFuera de servicio la Patana de Regla, Patana de Melones, Central Fuel de Mariel y Central Fuel de Moa.\nPronóstico para el horario pico\n**Disponibilidad en horario pico: **1020 MW\n**Demanda máxima prevista: **3150 MW\n**Déficit esperado: **2130 MW\n**Afectación pronosticada: **2160 MW",
+    "timestamp": 1784030152,
+    "timestamp_local": 1784030152
+  },
+  {
+    "id": 20196,
+    "fecha": "14 de Jul del 2026 a las 07:17 AM",
+    "hora_utc": "2026-07-14 11:17",
+    "mensaje": "🔔Informamos a nuestros clientes que en el horario de 7:00am del día 14/07/2026 nuestro sistema registra 264 interrupciones pendientes.\n\n♦️Quejas pendientes por municipios:\n-Amancio: 18\n-Colombia: 4\n-Jobabo: 56 \n-Manatí: -\n-Puerto Padre: 110\n-Menéndez: 13\n-Majibacoa: 13\n-Las Tunas: 50\n\n♦️Quejas pendientes a solución por municipios:\n-Amancio: 5\n-Colombia: 2\n-Jobabo: 2\n-Manatí: -\n-Puerto Padre:\n-Menéndez: 4\n-Majibacoa: 2\n-Las Tunas: 26\n\n♦️Transformadores disparados por municipios:\n-Amancio: 2\n-Colombia: -\n-Jobabo: 11\n-Manatí: -\n-Puerto Padre: 13\n-Menéndez: 1\n-Majibacoa: 3\n-Las Tunas: 3\n\n♦️Transformadores dañados por municipios:\n-Amancio: 2\n-Colombia: -\n-Jobabo: 1\n-Manatí: -\n-Puerto Padre: 6\n-Menéndez: 2\n-Majibacoa: -\n-Las Tunas: 5",
+    "timestamp": 1784027862,
+    "timestamp_local": 1784027862
+  },
+  {
+    "id": 20195,
+    "fecha": "14 de Jul del 2026 a las 06:31 AM",
+    "hora_utc": "2026-07-14 10:31",
+    "mensaje": "Se le restablece el servicio a los circuitos:\nTK9 Aguilera, La Victoria \nTK1 Edificios de Buena Vista\nTK24 Reparto Santo Domingo\nTK27 La Victoria\nTK4 Aeropuerto, Casa Piedra y Aurora",
+    "timestamp": 1784025090,
+    "timestamp_local": 1784025090
+  },
+  {
+    "id": 20194,
+    "fecha": "14 de Jul del 2026 a las 06:29 AM",
+    "hora_utc": "2026-07-14 10:29",
+    "mensaje": "Afectado el servicio eléctrico a los siguientes circuitos:\nTK2 Bonachea \nTK106 Palancón, Buena Vista\nTK18 Las 40, Sosa \nTK29 Circunvalación Sur, Oro Negro \nTK15 Tunas El Pueblo\nTK26 Circunvalación Sur hasta La Larga \nTK7 La Victoria\nTK5 Buena Vista, Los Pinos\nCircuito de 33Kv 6225\nTK93 Batey Delicias",
+    "timestamp": 1784024945,
+    "timestamp_local": 1784024945
+  },
+  {
     "id": 20192,
     "fecha": "14 de Jul del 2026 a las 01:28 AM",
     "hora_utc": "2026-07-14 05:28",
@@ -70,21 +102,5 @@
     "mensaje": "🔔Se encuentran disparados los siguientes circuitos:\nTK26 Circunvalación Sur hasta La Larga \nTK7 La Victoria\nNuestros operarios revisan la causa del disparo para restablecer en el menor tiempo posible.Ofrecemos disculpas por las molestias ocasionadas.",
     "timestamp": 1783985198,
     "timestamp_local": 1783985198
-  },
-  {
-    "id": 20177,
-    "fecha": "13 de Jul del 2026 a las 06:29 PM",
-    "hora_utc": "2026-07-13 22:29",
-    "mensaje": "🔴 Se encuentra disparado el circuito Tk 25 Cuatro Camino",
-    "timestamp": 1783981779,
-    "timestamp_local": 1783981779
-  },
-  {
-    "id": 20175,
-    "fecha": "13 de Jul del 2026 a las 06:04 PM",
-    "hora_utc": "2026-07-13 22:04",
-    "mensaje": "🟡|| 3:05 pm : En Arranque la unidad 3 de la CTE Carlos Manuel de Céspedes que había salido del SEN por fallo en el transformador de salida .",
-    "timestamp": 1783980257,
-    "timestamp_local": 1783980257
   }
 ]
