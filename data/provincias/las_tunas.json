@@ -1,5 +1,29 @@
 [
   {
+    "id": 20182,
+    "fecha": "13 de Jul del 2026 a las 08:28 PM",
+    "hora_utc": "2026-07-14 00:28",
+    "mensaje": "Afectados los circuitos:\nTK18 Las 40, Sosa \nTK106 Palancón, Buena Vista\nTK5 Buena Vista, Los Pinos\nTK2 Bonachea",
+    "timestamp": 1783988922,
+    "timestamp_local": 1783988922
+  },
+  {
+    "id": 20181,
+    "fecha": "13 de Jul del 2026 a las 08:26 PM",
+    "hora_utc": "2026-07-14 00:26",
+    "mensaje": "Con servicio eléctrico los circuitos:\nTK4 Aeropuerto, Casa Piedra y Aurora\nTK1 Edificios de Buena Vista\nTK9 Aguilera, La Victoria",
+    "timestamp": 1783988798,
+    "timestamp_local": 1783988798
+  },
+  {
+    "id": 20180,
+    "fecha": "13 de Jul del 2026 a las 08:25 PM",
+    "hora_utc": "2026-07-14 00:25",
+    "mensaje": "Restablecidos los circuitos que se encontraban disparados:\nTK7 La Victoria\nTK29 Circunvalación Sur, Oro Negro",
+    "timestamp": 1783988706,
+    "timestamp_local": 1783988706
+  },
+  {
     "id": 20179,
     "fecha": "13 de Jul del 2026 a las 07:26 PM",
     "hora_utc": "2026-07-13 23:26",
@@ -54,13 +78,5 @@
     "mensaje": "🏭 Mantenemos un déficit en la provincia de 60.25MW",
     "timestamp": 1783973284,
     "timestamp_local": 1783973284
-  },
-  {
-    "id": 20160,
-    "fecha": "13 de Jul del 2026 a las 02:50 PM",
-    "hora_utc": "2026-07-13 18:50",
-    "mensaje": "⚡Se declara en avería el Circuito 33 Kv: 6820 Poblado Amancio\nTK75 Vicente Pérez \nTK77 San Alberto\nTK78 Ana Luisa\nTK76 El Paraíso",
-    "timestamp": 1783968638,
-    "timestamp_local": 1783968638
   }
 ]

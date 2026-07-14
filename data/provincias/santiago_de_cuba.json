@@ -1,9 +1,17 @@
 [
   {
+    "id": 55802,
+    "fecha": "13 de Jul del 2026 a las 08:19 PM",
+    "hora_utc": "2026-07-14 00:19",
+    "mensaje": "🚨Estimados clientes se les informa que en estos momentos se encuentran manipulando el circuito 7 de Santiago, disculpen las molestias ocasionadas.",
+    "timestamp": 1783988354,
+    "timestamp_local": 1783988354
+  },
+  {
     "id": 55801,
     "fecha": "13 de Jul del 2026 a las 06:52 PM",
     "hora_utc": "2026-07-13 22:52",
-    "mensaje": "🚨Estimados clientes se les informa que se incorporan a la afectación por Déficit de Capacidad de Generación los circuitos 7 seccionalizado, 14 de Santiago , 2 de Palma, las líneas  5330 Cristo y Baire-III Frente. Disculpen las molestias ocasionadas.",
+    "mensaje": "🚨Estimados clientes se les informa que se incorporan a la afectación por Déficit de Capacidad de Generación los circuitos 1, 7 seccionalizado,11, 14,23  de Santiago , 2 de Palma, las líneas 5980 San Juan, 5330 Cristo , 5390 La Maya, Baire-III Frente, 4435 y 4390 Contramaestre . Disculpen las molestias ocasionadas.",
     "timestamp": 1783983145,
     "timestamp_local": 1783983145
   },
@@ -134,21 +142,5 @@
     "mensaje": "⚡️**Déficit de Capacidad de Generación: **\n**Se produce cuando la demanda del Sistema Eléctrico Nacional, en determinado horario del día supera la generación disponible del país, provocando la desconexión de los circuitos o líneas que permitan garantizar la frecuencia del SEN.**",
     "timestamp": 1783941454,
     "timestamp_local": 1783941454
-  },
-  {
-    "id": 55783,
-    "fecha": "13 de Jul del 2026 a las 07:16 AM",
-    "hora_utc": "2026-07-13 11:16",
-    "mensaje": "🔵Se les informa que se encuentran afectados por Déficit los circuitos 16, 23, 1, 4435-Contramaestre, 3, 24, 1 y 2 de Contramaestre.",
-    "timestamp": 1783941363,
-    "timestamp_local": 1783941363
-  },
-  {
-    "id": 55782,
-    "fecha": "13 de Jul del 2026 a las 07:14 AM",
-    "hora_utc": "2026-07-13 11:14",
-    "mensaje": "🔴Estimados clientes se les informa que se encuentran afectados por Déficit los circuitos 2, LI 5330-Cristo, LI 5335-Guama, 8, Contramaestre y 11.",
-    "timestamp": 1783941271,
-    "timestamp_local": 1783941271
   }
 ]
