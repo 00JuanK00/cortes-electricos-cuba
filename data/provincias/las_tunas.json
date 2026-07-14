@@ -1,5 +1,37 @@
 [
   {
+    "id": 20215,
+    "fecha": "14 de Jul del 2026 a las 06:15 PM",
+    "hora_utc": "2026-07-14 22:15",
+    "mensaje": "En estos momentos  reciben servicio eléctrico los clientes del circuito TK 26, que abarca las zonas: Lácteo, Reparto La Loma, La Larga y La Pesca.",
+    "timestamp": 1784067350,
+    "timestamp_local": 1784067350
+  },
+  {
+    "id": 20214,
+    "fecha": "14 de Jul del 2026 a las 06:15 PM",
+    "hora_utc": "2026-07-14 22:15",
+    "mensaje": "En estos momentos se brinda servicio eléctrico al circuito TK 106, que abarca la zona de Aereopuerto y Palancón.",
+    "timestamp": 1784067314,
+    "timestamp_local": 1784067314
+  },
+  {
+    "id": 20213,
+    "fecha": "14 de Jul del 2026 a las 06:14 PM",
+    "hora_utc": "2026-07-14 22:14",
+    "mensaje": "En estos momentos tenemos 8 MW servidos en la provincia.",
+    "timestamp": 1784067279,
+    "timestamp_local": 1784067279
+  },
+  {
+    "id": 20211,
+    "fecha": "14 de Jul del 2026 a las 05:49 PM",
+    "hora_utc": "2026-07-14 21:49",
+    "mensaje": "Angel Oduardo Pérez, Director de la EMGEF, y Eduardo Rafael Oliva, Director de Geysel, estuvieron presentes en el Despacho Provincial de Carga, intercambiando con los especialistas sobre las acciones implementadas para garantizar la recuperación del servicio. Su presencia reafirma el compromiso institucional de respaldar y asegurar que cada decisión se tome con responsabilidad y coordinación, en beneficio de la población y los centros vitales de la provincia.",
+    "timestamp": 1784065788,
+    "timestamp_local": 1784065788
+  },
+  {
     "id": 20210,
     "fecha": "14 de Jul del 2026 a las 05:24 PM",
     "hora_utc": "2026-07-14 21:24",
@@ -86,37 +118,5 @@
     "mensaje": "🔔Informamos a nuestros clientes que en el horario de 7:00am del día 14/07/2026 nuestro sistema registra 264 interrupciones pendientes.\n\n♦️Quejas pendientes por municipios:\n-Amancio: 18\n-Colombia: 4\n-Jobabo: 56 \n-Manatí: -\n-Puerto Padre: 110\n-Menéndez: 13\n-Majibacoa: 13\n-Las Tunas: 50\n\n♦️Quejas pendientes a solución por municipios:\n-Amancio: 5\n-Colombia: 2\n-Jobabo: 2\n-Manatí: -\n-Puerto Padre:\n-Menéndez: 4\n-Majibacoa: 2\n-Las Tunas: 26\n\n♦️Transformadores disparados por municipios:\n-Amancio: 2\n-Colombia: -\n-Jobabo: 11\n-Manatí: -\n-Puerto Padre: 13\n-Menéndez: 1\n-Majibacoa: 3\n-Las Tunas: 3\n\n♦️Transformadores dañados por municipios:\n-Amancio: 2\n-Colombia: -\n-Jobabo: 1\n-Manatí: -\n-Puerto Padre: 6\n-Menéndez: 2\n-Majibacoa: -\n-Las Tunas: 5",
     "timestamp": 1784027862,
     "timestamp_local": 1784027862
-  },
-  {
-    "id": 20195,
-    "fecha": "14 de Jul del 2026 a las 06:31 AM",
-    "hora_utc": "2026-07-14 10:31",
-    "mensaje": "Se le restablece el servicio a los circuitos:\nTK9 Aguilera, La Victoria \nTK1 Edificios de Buena Vista\nTK24 Reparto Santo Domingo\nTK27 La Victoria\nTK4 Aeropuerto, Casa Piedra y Aurora",
-    "timestamp": 1784025090,
-    "timestamp_local": 1784025090
-  },
-  {
-    "id": 20194,
-    "fecha": "14 de Jul del 2026 a las 06:29 AM",
-    "hora_utc": "2026-07-14 10:29",
-    "mensaje": "Afectado el servicio eléctrico a los siguientes circuitos:\nTK2 Bonachea \nTK106 Palancón, Buena Vista\nTK18 Las 40, Sosa \nTK29 Circunvalación Sur, Oro Negro \nTK15 Tunas El Pueblo\nTK26 Circunvalación Sur hasta La Larga \nTK7 La Victoria\nTK5 Buena Vista, Los Pinos\nCircuito de 33Kv 6225\nTK93 Batey Delicias",
-    "timestamp": 1784024945,
-    "timestamp_local": 1784024945
-  },
-  {
-    "id": 20192,
-    "fecha": "14 de Jul del 2026 a las 01:28 AM",
-    "hora_utc": "2026-07-14 05:28",
-    "mensaje": "Con servicio eléctrico a los siguientes circuitos:\nTK2 Bonachea \nTK106 Palancón, Buena Vista\nTK18 Las 40, Sosa \nTK29 Circunvalación Sur, Oro Negro \nTK15 Tunas El Pueblo\nTK27 La Victoria",
-    "timestamp": 1784006890,
-    "timestamp_local": 1784006890
-  },
-  {
-    "id": 20191,
-    "fecha": "14 de Jul del 2026 a las 01:24 AM",
-    "hora_utc": "2026-07-14 05:24",
-    "mensaje": "Se afecta el servicio eléctrico a los siguientes circuitos:\nTK24 Reparto Santo Domingo\nTK27 La Victoria\nTK4 Aeropuerto, Casa Piedra y Aurora\nTK12 Las 40 y Nuevo Sosa\nTK6 Calle Cuba y zona sur de Buena Vista",
-    "timestamp": 1784006669,
-    "timestamp_local": 1784006669
   }
 ]
