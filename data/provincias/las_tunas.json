@@ -1,5 +1,21 @@
 [
   {
+    "id": 20263,
+    "fecha": "15 de Jul del 2026 a las 07:26 PM",
+    "hora_utc": "2026-07-15 23:26",
+    "mensaje": "Se afecta el servicio eléctrico por déficit de generación a los siguientes circuitos. \nCircuito 33 Kv: 6810**\n**TK82 Tana\nTK83 Las Maboas\nTK113 La Aurora\nTK74 La Lomita\nTK110 El Batey\n6810 Poblado Amancio",
+    "timestamp": 1784157978,
+    "timestamp_local": 1784157978
+  },
+  {
+    "id": 20262,
+    "fecha": "15 de Jul del 2026 a las 07:22 PM",
+    "hora_utc": "2026-07-15 23:22",
+    "mensaje": "Se encuentran con servicio eléctrico los siguientes circuitos.\nCircuito 33 Kv: 6820 Poblado Amancio, La Carretera\nTK78 Ana Luisa\nTK76 El Paraíso\nTK75 Vicente Pérez\nTK77 San Alberto\nTK15Tunas El Pueblo\nTK2 Bonachea\nT TK18 Las 40, Sosa\nTK10 El Cornito\n\nTK106 Palancón, Buena Vista\nTK14 Bombeo Cayojo\nBombeo de Piedra Hueca \nBombeo del Rincón.\nK5 Buena Vista, Los Pinos",
+    "timestamp": 1784157735,
+    "timestamp_local": 1784157735
+  },
+  {
     "id": 20259,
     "fecha": "15 de Jul del 2026 a las 04:17 PM",
     "hora_utc": "2026-07-15 20:17",
@@ -118,29 +134,5 @@
     "mensaje": "Con servicio el circuito TK9: Aguilera, la Victoria\nTK1: Edificios de Buena Vista",
     "timestamp": 1784096816,
     "timestamp_local": 1784096816
-  },
-  {
-    "id": 20242,
-    "fecha": "15 de Jul del 2026 a las 01:53 AM",
-    "hora_utc": "2026-07-15 05:53",
-    "mensaje": "👉Sincronizada la provincia Las Tunas con Camagüey en microsistema ampliado.",
-    "timestamp": 1784094820,
-    "timestamp_local": 1784094820
-  },
-  {
-    "id": 20241,
-    "fecha": "15 de Jul del 2026 a las 01:35 AM",
-    "hora_utc": "2026-07-15 05:35",
-    "mensaje": "🚨Estimados Clientes🚨\n\n📣Manténgase actualizado de la situación del SEN, y su recuperación, por nuestros canales oficiales. Continuaremos informando. Ofrecemos disculpas por las molestias ocasionadas y agradecemos su comprensión.",
-    "timestamp": 1784093731,
-    "timestamp_local": 1784093731
-  },
-  {
-    "id": 20240,
-    "fecha": "15 de Jul del 2026 a las 01:14 AM",
-    "hora_utc": "2026-07-15 05:14",
-    "mensaje": "Tras la creación de un nuevo microsistema se restablece el servicio eléctrico al Complejo de Salud por el circuito Tk15, la parte del TK10 que alimenta la Empresa Eléctrica Las Tunas y parte del circuito TK18",
-    "timestamp": 1784092471,
-    "timestamp_local": 1784092471
   }
 ]

@@ -1,5 +1,21 @@
 [
   {
+    "id": 50840,
+    "fecha": "15 de Jul del 2026 a las 07:12 PM",
+    "hora_utc": "2026-07-15 23:12",
+    "mensaje": "✍️Ante cualquier duda conozca sobre la terminología eléctrica\n\n🔹Las averías pueden ser:\n     \n➡️Primarias: Afecta un volumen grande de población pues son las líneas de distribución a 13.8 kV y puede afectar varias manzanas, incluso repartos completos.\n\n➡️Secundarias: Afecta a todos los clientes que se alimenten del mismo transformador, puede afectar una o varias cuadras. \n\n➡️De servicio: Afectan 1 solo cliente o instalación generalmente producto a daños en la acometida, metro contador, etc.).",
+    "timestamp": 1784157143,
+    "timestamp_local": 1784157143
+  },
+  {
+    "id": 50839,
+    "fecha": "15 de Jul del 2026 a las 06:54 PM",
+    "hora_utc": "2026-07-15 22:54",
+    "mensaje": "⚠️Afectado el servicio eléctrico en  los siguientes circuitos.\n🔹Municipio Santa Clara:\n👉Cto 16 Cubanacán \n👉Ctos 23 y 130 La Ceniza\n👉Cto 42 Manajanabo\n🔹Municipio Placetas\n👉Cto 139 Miller\n👉Cto 190 Oliver\n👉Cto 106 Falcón",
+    "timestamp": 1784156064,
+    "timestamp_local": 1784156064
+  },
+  {
     "id": 50838,
     "fecha": "15 de Jul del 2026 a las 06:22 PM",
     "hora_utc": "2026-07-15 22:22",
@@ -142,21 +158,5 @@
     "mensaje": "💡Con servicio eléctrico el siguiente circuito:\n🔹Municipio Sagua\n👉Ctos 43  Sagua",
     "timestamp": 1784146267,
     "timestamp_local": 1784146267
-  },
-  {
-    "id": 50820,
-    "fecha": "15 de Jul del 2026 a las 04:07 PM",
-    "hora_utc": "2026-07-15 20:07",
-    "mensaje": "Actualización del servicio eléctrico en la provincia.\n👉En este momento la afectación por déficit de capacidad de generación es de 176 MW, demanda máxima posible a apagar en estos momentos.\n👉De los circuitos apagables se mantienen afectados 175.\n👉Cuenta con 379 afectaciones por averías secundarias y de servicio.",
-    "timestamp": 1784146047,
-    "timestamp_local": 1784146047
-  },
-  {
-    "id": 50819,
-    "fecha": "15 de Jul del 2026 a las 03:40 PM",
-    "hora_utc": "2026-07-15 19:40",
-    "mensaje": "💡Con servicio eléctrico el siguiente circuito:\n🔹Municipio Manicaragua:\n👉Cto 111 Mataguá",
-    "timestamp": 1784144400,
-    "timestamp_local": 1784144400
   }
 ]
