@@ -1,5 +1,53 @@
 [
   {
+    "id": 55900,
+    "fecha": "16 de Jul del 2026 a las 06:58 AM",
+    "hora_utc": "2026-07-16 10:58",
+    "mensaje": "👉🏽**Disparo:**\nApertura no voluntaria de un interruptor como vía de protección para desconectar uno o varios elementos del circuito, subestación o sistema, restableciéndose el servicio rápidamente en dependencia de la causa.",
+    "timestamp": 1784199501,
+    "timestamp_local": 1784199501
+  },
+  {
+    "id": 55899,
+    "fecha": "16 de Jul del 2026 a las 06:57 AM",
+    "hora_utc": "2026-07-16 10:57",
+    "mensaje": "🟠Se les informa que se encuentra afectado el circuito 12 por Disparo .",
+    "timestamp": 1784199428,
+    "timestamp_local": 1784199428
+  },
+  {
+    "id": 55896,
+    "fecha": "16 de Jul del 2026 a las 06:34 AM",
+    "hora_utc": "2026-07-16 10:34",
+    "mensaje": "👉🏽**Déficit de Capacidad de Generación: **\n**Se produce cuando la demanda del Sistema Eléctrico Nacional, en determinado horario del día supera la generación disponible del país, provocando la desconexión de los circuitos o líneas que permitan garantizar la frecuencia del SEN.**",
+    "timestamp": 1784198099,
+    "timestamp_local": 1784198099
+  },
+  {
+    "id": 55895,
+    "fecha": "16 de Jul del 2026 a las 06:34 AM",
+    "hora_utc": "2026-07-16 10:34",
+    "mensaje": "🟡Se les comunica a nuestros clientes que se incorporan a la afectación el circuito 19 y las líneas 5390-San Luis y 4395-Baire.",
+    "timestamp": 1784198057,
+    "timestamp_local": 1784198057
+  },
+  {
+    "id": 55894,
+    "fecha": "16 de Jul del 2026 a las 06:32 AM",
+    "hora_utc": "2026-07-16 10:32",
+    "mensaje": "🔴Se les informa que se incorporan a la afectación por Déficit los circuitos 8, LI 5395-San Luis, 24,14, LI 5330-Cristo, 4435-Contramaestre,LI 5380-Mella, 17,16 y LI 5975-Baconao.",
+    "timestamp": 1784197930,
+    "timestamp_local": 1784197930
+  },
+  {
+    "id": 55893,
+    "fecha": "16 de Jul del 2026 a las 06:28 AM",
+    "hora_utc": "2026-07-16 10:28",
+    "mensaje": "⚡️Les seguiremos informando a través de nuestro canal de Telegram sobre la situación de la Disponibilidad del Sistema en nuestra provincia.",
+    "timestamp": 1784197720,
+    "timestamp_local": 1784197720
+  },
+  {
     "id": 55892,
     "fecha": "16 de Jul del 2026 a las 02:08 AM",
     "hora_utc": "2026-07-16 06:08",
@@ -70,45 +118,5 @@
     "mensaje": "⛔️Les seguiremos informando a través de nuestro canal de Telegram sobre la situación de la Disponibilidad del Sistema en nuestra provincia.",
     "timestamp": 1784160659,
     "timestamp_local": 1784160659
-  },
-  {
-    "id": 55878,
-    "fecha": "15 de Jul del 2026 a las 07:02 PM",
-    "hora_utc": "2026-07-15 23:02",
-    "mensaje": "🟣Se les informa a nuestros clientes que se incorporan a la afectación por Déficit los circuitos 1 y 2 de Contramaestre.",
-    "timestamp": 1784156569,
-    "timestamp_local": 1784156569
-  },
-  {
-    "id": 55876,
-    "fecha": "15 de Jul del 2026 a las 06:23 PM",
-    "hora_utc": "2026-07-15 22:23",
-    "mensaje": "🔴Circuito en avería:                                                                                                                            Sucede si un circuito se interrumpe por causa de un defecto en un cable conductor de corriente (fase o neutro), un fusible fundido o disyuntor. En sistemas trifásicos una falla puede implicar una fase, más de una fase con la tierra o puede ocurrir solo entre fases.",
-    "timestamp": 1784154187,
-    "timestamp_local": 1784154187
-  },
-  {
-    "id": 55875,
-    "fecha": "15 de Jul del 2026 a las 06:22 PM",
-    "hora_utc": "2026-07-15 22:22",
-    "mensaje": "🚨Se les comunica a nuestros clientes que se encuentra en avería el circuito 17.",
-    "timestamp": 1784154167,
-    "timestamp_local": 1784154167
-  },
-  {
-    "id": 55874,
-    "fecha": "15 de Jul del 2026 a las 06:04 PM",
-    "hora_utc": "2026-07-15 22:04",
-    "mensaje": "👉🏽**Déficit de Capacidad de Generación: **\n**Se produce cuando la demanda del Sistema Eléctrico Nacional, en determinado horario del día supera la generación disponible del país, provocando la desconexión de los circuitos o líneas que permitan garantizar la frecuencia del SEN.**",
-    "timestamp": 1784153084,
-    "timestamp_local": 1784153084
-  },
-  {
-    "id": 55873,
-    "fecha": "15 de Jul del 2026 a las 06:04 PM",
-    "hora_utc": "2026-07-15 22:04",
-    "mensaje": "🔴Estimados clientes se les informa que se incorporan a la afectación por Déficit los circuitos 20, 16, 21,11,9 sec LI 5380-San Luis, LI 5975-Baconao, LI 5335-Guama y LI 5330-Cristo.",
-    "timestamp": 1784153050,
-    "timestamp_local": 1784153050
   }
 ]
