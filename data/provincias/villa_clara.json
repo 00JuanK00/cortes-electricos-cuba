@@ -1,5 +1,37 @@
 [
   {
+    "id": 50995,
+    "fecha": "17 de Jul del 2026 a las 07:30 PM",
+    "hora_utc": "2026-07-17 23:30",
+    "mensaje": "⚠️Afectado el servicio eléctrico en los siguientes circuitos:\n🔹Municipio Placetas:\n👉Ctos 101 y 145 Cumbre",
+    "timestamp": 1784331012,
+    "timestamp_local": 1784331012
+  },
+  {
+    "id": 50994,
+    "fecha": "17 de Jul del 2026 a las 07:27 PM",
+    "hora_utc": "2026-07-17 23:27",
+    "mensaje": "💡Con servicio eléctrico los siguientes circuitos:\n🔹Municipio Santa Clara\n👉Cto 131 Las Antillas\n👉Cto 153 EIDE",
+    "timestamp": 1784330839,
+    "timestamp_local": 1784330839
+  },
+  {
+    "id": 50993,
+    "fecha": "17 de Jul del 2026 a las 06:45 PM",
+    "hora_utc": "2026-07-17 22:45",
+    "mensaje": "💡Con servicio eléctrico el siguiente circuito:\n🔹Municipio Placetas:\n👉Cto 99",
+    "timestamp": 1784328357,
+    "timestamp_local": 1784328357
+  },
+  {
+    "id": 50992,
+    "fecha": "17 de Jul del 2026 a las 06:35 PM",
+    "hora_utc": "2026-07-17 22:35",
+    "mensaje": "⚠️Afectado el servicio eléctrico en el siguiente circuito:\n🔹Municipio Placetas:\n👉Cto 98",
+    "timestamp": 1784327731,
+    "timestamp_local": 1784327731
+  },
+  {
     "id": 50991,
     "fecha": "17 de Jul del 2026 a las 06:10 PM",
     "hora_utc": "2026-07-17 22:10",
@@ -126,37 +158,5 @@
     "mensaje": "💡Con servicio eléctrico el siguiente circuito:\n🔹Municipio Santa Clara:\n👉Cto 166 Condado",
     "timestamp": 1784319526,
     "timestamp_local": 1784319526
-  },
-  {
-    "id": 50975,
-    "fecha": "17 de Jul del 2026 a las 04:17 PM",
-    "hora_utc": "2026-07-17 20:17",
-    "mensaje": "⚠️Afectado el servicio eléctrico en los siguientes circuitos:\n🔹Municipio Santa Clara:\n👉Ctos 1 y 2 Consejo-Centro",
-    "timestamp": 1784319451,
-    "timestamp_local": 1784319451
-  },
-  {
-    "id": 50974,
-    "fecha": "17 de Jul del 2026 a las 04:16 PM",
-    "hora_utc": "2026-07-17 20:16",
-    "mensaje": "💡Con servicio eléctrico el siguiente circuito:\n🔹Municipio Santa Clara:\n👉Cto 3 Consejo-Centro",
-    "timestamp": 1784319414,
-    "timestamp_local": 1784319414
-  },
-  {
-    "id": 50973,
-    "fecha": "17 de Jul del 2026 a las 04:14 PM",
-    "hora_utc": "2026-07-17 20:14",
-    "mensaje": "💡Con servicio eléctrico los siguientes circuitos:\n🔹Municipio Placetas:\n👉Ctos 101 y 145 Cumbre",
-    "timestamp": 1784319243,
-    "timestamp_local": 1784319243
-  },
-  {
-    "id": 50972,
-    "fecha": "17 de Jul del 2026 a las 04:01 PM",
-    "hora_utc": "2026-07-17 20:01",
-    "mensaje": "Actualización del servicio eléctrico en la provincia.\n👉En este momento la afectación por déficit de capacidad de generación es de 179 MW, demanda máxima posible a apagar en estos momentos.\n👉De los circuitos apagables se mantienen afectados 104.\n👉Cuenta con 230 afectaciones por averías secundarias y de servicio.",
-    "timestamp": 1784318513,
-    "timestamp_local": 1784318513
   }
 ]

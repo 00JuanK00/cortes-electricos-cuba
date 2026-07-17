@@ -1,9 +1,17 @@
 [
   {
+    "id": 39467,
+    "fecha": "17 de Jul del 2026 a las 07:26 PM",
+    "hora_utc": "2026-07-17 23:26",
+    "mensaje": "‼️ Déficit de Generación ‼️   \n👉 Tenemos 81 MW, en la provincia afectados por déficit de generación.\n\n ⏰Con este déficit, la carga a apagar en la provincia no nos permite realizar una rotación estable de los circuitos, por lo que se afectarán o se restablecerán en dependencia del déficit que haya en cada momento de la jornada, que es muy variable.",
+    "timestamp": 1784330768,
+    "timestamp_local": 1784330768
+  },
+  {
     "id": 39466,
     "fecha": "17 de Jul del 2026 a las 06:05 PM",
     "hora_utc": "2026-07-17 22:05",
-    "mensaje": "[17/7 6:02 p. m.] null: 🔴 A las 17:20 horas,  CTE Antonio Guiteras, fuera de línea por vía libre de emergencia por fallo en la automática.\n[17/7 6:03 p. m.] null: 🔴 A las 17:20 horas,  CTE Antonio Guiteras, fuera de línea por salidero en caldera.",
+    "mensaje": "🔴 A las 17:20 horas,  CTE Antonio Guiteras, fuera de línea por vía libre de emergencia por fallo en la automática.\n 🔴 A las 17:20 horas,  CTE Antonio Guiteras, fuera de línea por salidero en caldera.",
     "timestamp": 1784325913,
     "timestamp_local": 1784325913
   },
@@ -126,13 +134,5 @@
     "mensaje": "✅Información:\n\n🔉Continuamos con 35 MW servidos en la provincia.",
     "timestamp": 1784244865,
     "timestamp_local": 1784244865
-  },
-  {
-    "id": 39447,
-    "fecha": "16 de Jul del 2026 a las 04:24 PM",
-    "hora_utc": "2026-07-16 20:24",
-    "mensaje": "✅Información:\n\n🔉Tenemos 35 MW servidos en la provincia.",
-    "timestamp": 1784233490,
-    "timestamp_local": 1784233490
   }
 ]
