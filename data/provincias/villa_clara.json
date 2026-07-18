@@ -1,5 +1,45 @@
 [
   {
+    "id": 51066,
+    "fecha": "18 de Jul del 2026 a las 03:35 PM",
+    "hora_utc": "2026-07-18 19:35",
+    "mensaje": "⚠️Afectado el servicio eléctrico en el siguiente circuito:\n🔹Municipio Santa Clara:\n👉Cto 2 Consejo- Centro",
+    "timestamp": 1784403325,
+    "timestamp_local": 1784403325
+  },
+  {
+    "id": 51065,
+    "fecha": "18 de Jul del 2026 a las 03:26 PM",
+    "hora_utc": "2026-07-18 19:26",
+    "mensaje": "⚠️Afectado el servicio eléctrico en los siguientes circuitos:\n🔹Municipio Santa Clara:\n👉Cto 167 Virginia\n🔹Municipio Placetas\n👉Cto 99 Placetas\n🔹Municipio Caibarién\n👉Cto 182 Van Troy\n🔹Municipio Santa Clara:\n👉Cto 5 Dobarganes\n👉Cto 17 Subplanta",
+    "timestamp": 1784402792,
+    "timestamp_local": 1784402792
+  },
+  {
+    "id": 51064,
+    "fecha": "18 de Jul del 2026 a las 03:16 PM",
+    "hora_utc": "2026-07-18 19:16",
+    "mensaje": "💡Con servicio eléctrico los siguientes circuitos:\n🔹Municipio Sagua\n👉Ctos 43 y 51 Sagua\n🔹Municipio Placetas \n👉Cto 151 Placetas\n👉Cto 104 Hermanos Amejeiras\n🔹Municipio Caibarién\n👉Cto 183 Van Troy",
+    "timestamp": 1784402218,
+    "timestamp_local": 1784402218
+  },
+  {
+    "id": 51063,
+    "fecha": "18 de Jul del 2026 a las 03:02 PM",
+    "hora_utc": "2026-07-18 19:02",
+    "mensaje": "Afectados 157 MW en la provincia, demanda máxima a apagar en estos momentos.",
+    "timestamp": 1784401360,
+    "timestamp_local": 1784401360
+  },
+  {
+    "id": 51062,
+    "fecha": "18 de Jul del 2026 a las 02:59 PM",
+    "hora_utc": "2026-07-18 18:59",
+    "mensaje": "✍️Ante cualquier duda conozca sobre la terminología eléctrica\n\n🔹Las averías pueden ser:\n     \n➡️Primarias: Afecta un volumen grande de población pues son las líneas de distribución a 13.8 kV y puede afectar varias manzanas, incluso repartos completos.\n\n➡️Secundarias: Afecta a todos los clientes que se alimenten del mismo transformador, puede afectar una o varias cuadras. \n\n➡️De servicio: Afectan 1 solo cliente o instalación generalmente producto a daños en la acometida, metro contador, etc.).",
+    "timestamp": 1784401187,
+    "timestamp_local": 1784401187
+  },
+  {
     "id": 51061,
     "fecha": "18 de Jul del 2026 a las 02:06 PM",
     "hora_utc": "2026-07-18 18:06",
@@ -118,37 +158,5 @@
     "mensaje": "⚠️En Vía Libre el Cto 4 de manera parcial, perteneciente al municipio Santa Clara, para realizar cambio de conductor.",
     "timestamp": 1784384899,
     "timestamp_local": 1784384899
-  },
-  {
-    "id": 51046,
-    "fecha": "18 de Jul del 2026 a las 10:13 AM",
-    "hora_utc": "2026-07-18 14:13",
-    "mensaje": "💡Con servicio eléctrico los siguientes circuitos:\n🔹Municipio Santa Clara:\n👉Cto 5 Dobarganes\n👉Cto 17 Subplanta\n👉Cto 4 Consejo- Centro",
-    "timestamp": 1784384023,
-    "timestamp_local": 1784384023
-  },
-  {
-    "id": 51045,
-    "fecha": "18 de Jul del 2026 a las 10:01 AM",
-    "hora_utc": "2026-07-18 14:01",
-    "mensaje": "Actualización del servicio eléctrico en la provincia.\n👉En este momento la afectación por déficit de capacidad de generación es de 186 MW, demanda máxima posible a apagar en estos momentos.\n👉De los circuitos apagables se mantienen afectados 114.\n👉Cuenta con 195 afectaciones por averías secundarias y de servicio.",
-    "timestamp": 1784383280,
-    "timestamp_local": 1784383280
-  },
-  {
-    "id": 51044,
-    "fecha": "18 de Jul del 2026 a las 09:56 AM",
-    "hora_utc": "2026-07-18 13:56",
-    "mensaje": "⚠️Afectado el servicio eléctrico en los siguientes circuitos:\n🔹Municipio Santa Clara:\n👉Cto 132 Santa Clara Industrial\n👉Cto 162  Santa Clara Industrial",
-    "timestamp": 1784382978,
-    "timestamp_local": 1784382978
-  },
-  {
-    "id": 51043,
-    "fecha": "18 de Jul del 2026 a las 09:15 AM",
-    "hora_utc": "2026-07-18 13:15",
-    "mensaje": "Afectados 193 MW en la provincia, demanda máxima a apagar en estos momentos.",
-    "timestamp": 1784380519,
-    "timestamp_local": 1784380519
   }
 ]
