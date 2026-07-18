@@ -1,5 +1,29 @@
 [
   {
+    "id": 51041,
+    "fecha": "18 de Jul del 2026 a las 08:02 AM",
+    "hora_utc": "2026-07-18 12:02",
+    "mensaje": "Actualización del servicio eléctrico en la provincia.\n👉En este momento la afectación por déficit de capacidad de generación es de 206 MW, demanda máxima posible a apagar en estos momentos.\n👉De los circuitos apagables se mantienen afectados 129.\n👉Cuenta con 197 afectaciones por averías secundarias y de servicio.",
+    "timestamp": 1784376152,
+    "timestamp_local": 1784376152
+  },
+  {
+    "id": 51040,
+    "fecha": "18 de Jul del 2026 a las 07:43 AM",
+    "hora_utc": "2026-07-18 11:43",
+    "mensaje": "⚠️Afectado el servicio eléctrico en los siguientes circuitos:\n🔹Municipio Santa Clara:\n👉Cto 5 Dobarganes\n👉Cto 17 Subplanta",
+    "timestamp": 1784375029,
+    "timestamp_local": 1784375029
+  },
+  {
+    "id": 51039,
+    "fecha": "18 de Jul del 2026 a las 07:41 AM",
+    "hora_utc": "2026-07-18 11:41",
+    "mensaje": "🚨Nota informativa🚨\n\n📆Situación del SEN para el 18 de julio de 202\n\n👉En el día de ayer se afectó el servicio por déficit de capacidad durante las 24 horas y se mantuvo la afectación durante todo el horario de la madrugada. La máxima afectación por déficit de capacidad de generación en el día de ayer fue de 2310 MW a las 21:40 horas.\n\n☀️La producción de energía de los 54 nuevos parques solares fotovoltaicos fue de 5102 MWh, con 793 MW como máxima potencia entregada en el horario de la media con esta fuente de generación.  \n\n👉La disponibilidad del SEN a las 06:00 horas es de 955 MW, la demanda 2750 MW con 1770 MW afectados. En el horario de la media se estima una afectación de 1600 MW.\n\n🛠️Se encuentran en avería las unidades 6 y 8 de la CTE Mariel, la unidad de la CTE Guiteras, la unidad 2 de la CTE Felton y la unidad 3 de la CTE Renté. Se encuentran en mantenimiento la unidad 3 de la CTE Santa Cruz, la unidad 5 de la CTE Nuevitas y las unidades 5 y 6 de la CTE Renté. \n\n👉Las limitaciones en la generación térmica son de 298 MW.\n\n📈Se pronostica para la máxima demanda del SEN la entrada de la CTE Antonio Guiteras con 200 MW.\n\n📝Con este pronóstico se estima para el horario de máxima demanda una disponibilidad de 1155 MW con una demanda máxima de 3200 MW, para un déficit de 2045 MW, por lo que de mantenerse las condiciones previstas se pronostica una afectación de 2075 MW en este horario.\n\nUNE-MINEM---07:00 horas.",
+    "timestamp": 1784374883,
+    "timestamp_local": 1784374883
+  },
+  {
     "id": 51038,
     "fecha": "18 de Jul del 2026 a las 06:12 AM",
     "hora_utc": "2026-07-18 10:12",
@@ -126,29 +150,5 @@
     "mensaje": "💡Con servicio eléctrico el siguiente circuito:\n🔹Municipio Santa Clara:\n👉Cto 132 Santa Clara Industrial",
     "timestamp": 1784356476,
     "timestamp_local": 1784356476
-  },
-  {
-    "id": 51021,
-    "fecha": "18 de Jul del 2026 a las 02:32 AM",
-    "hora_utc": "2026-07-18 06:32",
-    "mensaje": "💡Con servicio eléctrico los siguientes circuitos:\n🔹Municipio Manicaragua:\n👉Ctos 109 y 150",
-    "timestamp": 1784356350,
-    "timestamp_local": 1784356350
-  },
-  {
-    "id": 51020,
-    "fecha": "18 de Jul del 2026 a las 02:28 AM",
-    "hora_utc": "2026-07-18 06:28",
-    "mensaje": "⚠️Afectado el servicio eléctrico en el siguiente circuito:\n🔹Municipio Santa Clara:\n👉Cto 7 Universidad",
-    "timestamp": 1784356132,
-    "timestamp_local": 1784356132
-  },
-  {
-    "id": 51019,
-    "fecha": "18 de Jul del 2026 a las 02:16 AM",
-    "hora_utc": "2026-07-18 06:16",
-    "mensaje": "💡Con servicio eléctrico el siguiente circuito:\n🔹Municipio Santa Clara:\n👉Cto 22 Construcciones Textil",
-    "timestamp": 1784355400,
-    "timestamp_local": 1784355400
   }
 ]
