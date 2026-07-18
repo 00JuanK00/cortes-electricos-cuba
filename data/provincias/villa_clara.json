@@ -1,5 +1,37 @@
 [
   {
+    "id": 51070,
+    "fecha": "18 de Jul del 2026 a las 04:04 PM",
+    "hora_utc": "2026-07-18 20:04",
+    "mensaje": "Actualización del servicio eléctrico en la provincia.\n👉En este momento la afectación por déficit de capacidad de generación es de 188 MW, demanda máxima posible a apagar en estos momentos.\n👉De los circuitos apagables se mantienen afectados 109.\n👉Cuenta con 195 afectaciones por averías secundarias y de servicio.",
+    "timestamp": 1784405071,
+    "timestamp_local": 1784405071
+  },
+  {
+    "id": 51069,
+    "fecha": "18 de Jul del 2026 a las 04:03 PM",
+    "hora_utc": "2026-07-18 20:03",
+    "mensaje": "⚠️Afectado el servicio eléctrico en los siguientes circuitos:\n🔹Municipio Santa Clara\n👉Cto 153 EIDE \n👉Cto 15 Maleza\n🔹Municipio Santa Clara:\n👉Ctos 37 y 38 Yabú\n👉Cto 9 Moldes y Troqueles\n👉Cto 133 Taller Cafetera",
+    "timestamp": 1784405006,
+    "timestamp_local": 1784405006
+  },
+  {
+    "id": 51068,
+    "fecha": "18 de Jul del 2026 a las 03:50 PM",
+    "hora_utc": "2026-07-18 19:50",
+    "mensaje": "💡Con servicio eléctrico el siguiente circuito:\n🔹Municipio Quemado:\n👉 Cto 52 Quemado",
+    "timestamp": 1784404220,
+    "timestamp_local": 1784404220
+  },
+  {
+    "id": 51067,
+    "fecha": "18 de Jul del 2026 a las 03:49 PM",
+    "hora_utc": "2026-07-18 19:49",
+    "mensaje": "⚠️Afectado el servicio eléctrico en los siguientes circuitos:\n🔹Municipio Quemado:\n👉 Cto 164 Quemado.\n👉 Cto 196 Batey Panchito Gómez Toro\n🔹Municipio Corralillo:\n👉Cto 55 Rancho Veloz",
+    "timestamp": 1784404162,
+    "timestamp_local": 1784404162
+  },
+  {
     "id": 51066,
     "fecha": "18 de Jul del 2026 a las 03:35 PM",
     "hora_utc": "2026-07-18 19:35",
@@ -126,37 +158,5 @@
     "mensaje": "Afectados 173 MW en la provincia, demanda máxima a apagar en estos momentos.",
     "timestamp": 1784387325,
     "timestamp_local": 1784387325
-  },
-  {
-    "id": 51050,
-    "fecha": "18 de Jul del 2026 a las 10:45 AM",
-    "hora_utc": "2026-07-18 14:45",
-    "mensaje": "💡Con servicio eléctrico los siguientes circuitos:\n🔹Municipio Santa Clara\n👉Ctos 26 y 141 Manuelita\n👉Cto 191 Quemado de Hilario\n➡️Línea 1710 \n🔹Municipio Santo Domingo:\n👉Cto 79 Santo Domingo\n👉Cto 81 26 de Julio\n👉Cto 163 Batey 26 de Julio\n🔹Municipio Ranchuelo:\n👉Ctos 54 y 94 Jicotea",
-    "timestamp": 1784385917,
-    "timestamp_local": 1784385917
-  },
-  {
-    "id": 51049,
-    "fecha": "18 de Jul del 2026 a las 10:41 AM",
-    "hora_utc": "2026-07-18 14:41",
-    "mensaje": "⚠️Afectada por manipulación la línea del 108 y el 1710:\n➡️Línea 108\n🔹Municipio Santa Clara\n👉Ctos 26 y 141 Manuelita\n👉Cto 191 Quemado de Hilario\n🔹Municipio Ranchuelo:\n👉Cto 92 Esperanza (Pueblo)\n👉Cto 93 Esperanza (Campo)\n➡️Línea 1710 \n🔹Municipio Santo Domingo:\n👉Cto 79 Santo Domingo\n👉Cto 81 26 de Julio\n👉Cto 163 Batey 26 de Julio\n🔹Municipio Ranchuelo:\n👉Ctos 54, 94 y 95 Jicotea",
-    "timestamp": 1784385689,
-    "timestamp_local": 1784385689
-  },
-  {
-    "id": 51048,
-    "fecha": "18 de Jul del 2026 a las 10:29 AM",
-    "hora_utc": "2026-07-18 14:29",
-    "mensaje": "⚠️Afectado el servicio eléctrico en el siguiente circuito:\n🔹Municipio Santa Clara:\n👉Cto 144 Camacho",
-    "timestamp": 1784384959,
-    "timestamp_local": 1784384959
-  },
-  {
-    "id": 51047,
-    "fecha": "18 de Jul del 2026 a las 10:28 AM",
-    "hora_utc": "2026-07-18 14:28",
-    "mensaje": "⚠️En Vía Libre el Cto 4 de manera parcial, perteneciente al municipio Santa Clara, para realizar cambio de conductor.",
-    "timestamp": 1784384899,
-    "timestamp_local": 1784384899
   }
 ]
