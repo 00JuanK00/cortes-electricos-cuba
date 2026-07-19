@@ -1,5 +1,29 @@
 [
   {
+    "id": 51093,
+    "fecha": "19 de Jul del 2026 a las 05:05 AM",
+    "hora_utc": "2026-07-19 09:05",
+    "mensaje": "Afectados 193 MW en la provincia, demanda máxima a apagar en estos momentos.",
+    "timestamp": 1784451921,
+    "timestamp_local": 1784451921
+  },
+  {
+    "id": 51092,
+    "fecha": "19 de Jul del 2026 a las 04:15 AM",
+    "hora_utc": "2026-07-19 08:15",
+    "mensaje": "Actualización del servicio eléctrico en la provincia.\n👉En este momento la afectación por déficit de capacidad de generación es de 192 MW, demanda máxima posible a apagar en estos momentos.\n👉De los circuitos apagables se mantienen afectados 122.\n👉Cuenta con 165 afectaciones por averías secundarias y de servicio.",
+    "timestamp": 1784448914,
+    "timestamp_local": 1784448914
+  },
+  {
+    "id": 51091,
+    "fecha": "19 de Jul del 2026 a las 03:35 AM",
+    "hora_utc": "2026-07-19 07:35",
+    "mensaje": "🟢 A las 14:28 horas, en línea la CTE Antonio Guiteras.\n#CubaVencerá",
+    "timestamp": 1784446523,
+    "timestamp_local": 1784446523
+  },
+  {
     "id": 51090,
     "fecha": "19 de Jul del 2026 a las 03:15 AM",
     "hora_utc": "2026-07-19 07:15",
@@ -126,29 +150,5 @@
     "mensaje": "⚠️Afectado el servicio eléctrico en los siguientes circuitos:\n🔹Municipio Sagua\n👉Ctos 43, 51 Sagua\n🔹Municipio Santa Clara:\n👉Cto 6 Vigía\n👉Cto 39 (Sandino)\n👉Cto 34 Sabana Rebacadero\n👉Ctos 32 y 33 (RF-33Kv)",
     "timestamp": 1784409345,
     "timestamp_local": 1784409345
-  },
-  {
-    "id": 51072,
-    "fecha": "18 de Jul del 2026 a las 05:14 PM",
-    "hora_utc": "2026-07-18 21:14",
-    "mensaje": "💡Con servicio eléctrico el siguiente circuito:\n🔹Municipio Santa Clara: \n👉Cto 166 Condado",
-    "timestamp": 1784409263,
-    "timestamp_local": 1784409263
-  },
-  {
-    "id": 51071,
-    "fecha": "18 de Jul del 2026 a las 05:08 PM",
-    "hora_utc": "2026-07-18 21:08",
-    "mensaje": "Afectados 195 MW en la provincia, demanda máxima a apagar en estos momentos.",
-    "timestamp": 1784408922,
-    "timestamp_local": 1784408922
-  },
-  {
-    "id": 51070,
-    "fecha": "18 de Jul del 2026 a las 04:04 PM",
-    "hora_utc": "2026-07-18 20:04",
-    "mensaje": "Actualización del servicio eléctrico en la provincia.\n👉En este momento la afectación por déficit de capacidad de generación es de 188 MW, demanda máxima posible a apagar en estos momentos.\n👉De los circuitos apagables se mantienen afectados 109.\n👉Cuenta con 195 afectaciones por averías secundarias y de servicio.",
-    "timestamp": 1784405071,
-    "timestamp_local": 1784405071
   }
 ]
