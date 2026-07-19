@@ -1,5 +1,61 @@
 [
   {
+    "id": 51104,
+    "fecha": "19 de Jul del 2026 a las 10:05 AM",
+    "hora_utc": "2026-07-19 14:05",
+    "mensaje": "⚠️Afectado el servicio eléctrico en los siguientes circuitos:\n🔹Municipio Santa Clara:\n👉Cto 5 Dobarganes\n👉Cto 17 Subplanta",
+    "timestamp": 1784469929,
+    "timestamp_local": 1784469929
+  },
+  {
+    "id": 51103,
+    "fecha": "19 de Jul del 2026 a las 10:01 AM",
+    "hora_utc": "2026-07-19 14:01",
+    "mensaje": "💡Con servicio eléctrico los siguientes circuitos.\n🔹Municipio Santa Clara:\n👉Ctos 1 y 2 Consejo- Centro",
+    "timestamp": 1784469664,
+    "timestamp_local": 1784469664
+  },
+  {
+    "id": 51102,
+    "fecha": "19 de Jul del 2026 a las 09:42 AM",
+    "hora_utc": "2026-07-19 13:42",
+    "mensaje": "💡Con servicio eléctrico los siguientes circuitos.\n🔹Municipio Santa Clara:\n👉Cto 132 Santa Clara Industrial\n👉Cto 162  y 193 Santa Clara Industrial",
+    "timestamp": 1784468550,
+    "timestamp_local": 1784468550
+  },
+  {
+    "id": 51101,
+    "fecha": "19 de Jul del 2026 a las 09:34 AM",
+    "hora_utc": "2026-07-19 13:34",
+    "mensaje": "💡Con servicio eléctrico los siguientes circuitos.\n🔹Municipio Sagua\n👉Ctos 50 y 147 Villa Alegre",
+    "timestamp": 1784468048,
+    "timestamp_local": 1784468048
+  },
+  {
+    "id": 51100,
+    "fecha": "19 de Jul del 2026 a las 09:15 AM",
+    "hora_utc": "2026-07-19 13:15",
+    "mensaje": "💡Con servicio eléctrico el siguiente circuito:\n🔹Municipio Santa Clara:\n👉Cto 167 Virginia",
+    "timestamp": 1784466926,
+    "timestamp_local": 1784466926
+  },
+  {
+    "id": 51099,
+    "fecha": "19 de Jul del 2026 a las 08:49 AM",
+    "hora_utc": "2026-07-19 12:49",
+    "mensaje": "🚨Nota informativa.🚨\n\n📆Situación del SEN para el 19 de julio de 2026.\n\n👉En el día de ayer se afectó el servicio por déficit de capacidad durante las 24 horas y se mantuvo la afectación durante todo el horario de la madrugada. La máxima afectación por déficit de capacidad de generación en el día de ayer fue de 2179 MW a las 19:50 horas.\n\n☀️La producción de energía de los 54 nuevos parques solares fotovoltaicos fue de 4870 MWh, con 758 MW como máxima potencia entregada en el horario de la media con esta fuente de generación.  \n\n👉La disponibilidad del SEN a las 06:00 horas es de 1108 MW, la demanda 2807 MW con 1723 MW afectados. En el horario de la media se estima una afectación de 1500 MW.\n\n🛠️Se encuentran en avería las unidades 6 y 8 de la CTE Mariel, la unidad 2 de la CTE Felton y la unidad 3 de la CTE Renté. Se encuentran en mantenimiento la unidad 3 de la CTE Santa Cruz, la unidad 5 de la CTE Nuevitas y las unidades 5 y 6 de la CTE Renté. \n\n👉Las limitaciones en la generación térmica son de 460 MW.\n\n👉Se pronostica para la máxima demanda del SEN la entrada de la unidad 8 de la CTE Mariel (en proceso de arranque) con 60 MW.\n\n📈Con este pronóstico se estima para el horario de máxima demanda una disponibilidad de 1108 MW con una demanda máxima de 3200 MW, para un déficit de 2032 MW, por lo que de mantenerse las condiciones previstas se pronostica una afectación de 2062 MW en este horario.\n\nUNE-MINEM",
+    "timestamp": 1784465368,
+    "timestamp_local": 1784465368
+  },
+  {
+    "id": 51098,
+    "fecha": "19 de Jul del 2026 a las 08:48 AM",
+    "hora_utc": "2026-07-19 12:48",
+    "mensaje": "💡Con servicio eléctrico los siguientes circuitos\n🔹Municipio Encrucijada\n👉Cto 120 Calabazar\n👉Ctos 121 y 127 Perucho",
+    "timestamp": 1784465280,
+    "timestamp_local": 1784465280
+  },
+  {
     "id": 51097,
     "fecha": "19 de Jul del 2026 a las 08:12 AM",
     "hora_utc": "2026-07-19 12:12",
@@ -102,53 +158,5 @@
     "mensaje": "Afectados 195 MW en la provincia, demanda máxima a apagar en estos momentos.",
     "timestamp": 1784430587,
     "timestamp_local": 1784430587
-  },
-  {
-    "id": 51083,
-    "fecha": "18 de Jul del 2026 a las 10:08 PM",
-    "hora_utc": "2026-07-19 02:08",
-    "mensaje": "⚠️Se encuentra en fallo el Cto 4 Centro, perteneciente al municipio Santa Clara, se estudian las causas.",
-    "timestamp": 1784426923,
-    "timestamp_local": 1784426923
-  },
-  {
-    "id": 51082,
-    "fecha": "18 de Jul del 2026 a las 10:06 PM",
-    "hora_utc": "2026-07-19 02:06",
-    "mensaje": "Actualización del servicio eléctrico en la provincia.\n👉En este momento la afectación por déficit de capacidad de generación es de 199 MW, demanda máxima posible a apagar en estos momentos.\n👉De los circuitos apagables se mantienen afectados 127.\n👉Cuenta con 158 afectaciones por averías secundarias y de servicio.",
-    "timestamp": 1784426818,
-    "timestamp_local": 1784426818
-  },
-  {
-    "id": 51080,
-    "fecha": "18 de Jul del 2026 a las 09:08 PM",
-    "hora_utc": "2026-07-19 01:08",
-    "mensaje": "Afectados 208 MW en la provincia, demanda máxima a apagar en estos momentos.",
-    "timestamp": 1784423291,
-    "timestamp_local": 1784423291
-  },
-  {
-    "id": 51079,
-    "fecha": "18 de Jul del 2026 a las 08:51 PM",
-    "hora_utc": "2026-07-19 00:51",
-    "mensaje": "🚨Usted  manténgase informado a través de nuestras redes sociales 🛜 \n\n➡️X https://x.com/EmpElectricaVC\n➡️Facebook https://www.facebook.com/luzdelcentro\n➡️WhatsApp https://whatsapp.com/channel/0029Vafr4tFG3R3gKRPpm62b\n\nTambién puede comunicarse a través del Centro Telefónico 18888☎️ ,prestamos servicio las 24 horas .",
-    "timestamp": 1784422302,
-    "timestamp_local": 1784422302
-  },
-  {
-    "id": 51078,
-    "fecha": "18 de Jul del 2026 a las 08:21 PM",
-    "hora_utc": "2026-07-19 00:21",
-    "mensaje": "💡Con servicio eléctrico el siguiente circuito:\n🔹Municipio Santa Clara:\n👉Cto 3 Consejo- Centro",
-    "timestamp": 1784420516,
-    "timestamp_local": 1784420516
-  },
-  {
-    "id": 51077,
-    "fecha": "18 de Jul del 2026 a las 08:10 PM",
-    "hora_utc": "2026-07-19 00:10",
-    "mensaje": "Actualización del servicio eléctrico en la provincia.\n👉En este momento la afectación por déficit de capacidad de generación es de 208 MW, demanda máxima posible a apagar en estos momentos.\n👉De los circuitos apagables se mantienen afectados 132.\n👉Cuenta con 165 afectaciones por averías secundarias y de servicio.",
-    "timestamp": 1784419847,
-    "timestamp_local": 1784419847
   }
 ]
