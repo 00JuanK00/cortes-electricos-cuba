@@ -1,5 +1,29 @@
 [
   {
+    "id": 20385,
+    "fecha": "20 de Jul del 2026 a las 11:19 AM",
+    "hora_utc": "2026-07-20 15:19",
+    "mensaje": "🔔Restablecida la avería que se encontraba en la Subestación de Tunas 2 . Queda restablecido el servicio hasta el momento a los circuitos:\nTK9 Aguilera, La Victoria \nTK10 El Cornito \nTK24 Reparto Santo Domingo\nLos demás circuitos que estaban afectados también se le brindará servicio paulatinamente según lo permita el sistema.",
+    "timestamp": 1784560751,
+    "timestamp_local": 1784560751
+  },
+  {
+    "id": 20383,
+    "fecha": "20 de Jul del 2026 a las 10:49 AM",
+    "hora_utc": "2026-07-20 14:49",
+    "mensaje": "📣La Empresa Eléctrica Las Tunas pone a disposición de sus clientes un Centro de Atención Telefónica con el objetivo de brindar asistencia y responder a sus inquietudes. Para asegurar un flujo eficiente de comunicación, el centro cuenta con 38 líneas de entrada, gestionadas por 6 operadores en cada turno de trabajo.\nCuando los 6 operadores se encuentran atendiendo llamadas simultáneamente, las siguientes 32 llamadas entrantes son colocadas en una cola de espera, donde una operadora automática les informa que serán atendidas a la brevedad, acompañando la espera con música. En esta situación, se requiere paciencia por parte del cliente hasta que un operador se desocupe y su llamada sea transferida automáticamente. Sin embargo, el sistema tiene un límite. A partir de la llamada número 39, todas las líneas de entrada estarán ocupadas, lo que resultará en una señal de \"ocupado\" para el cliente. En este caso, para lograr contactar al centro, el cliente deberá intentar la llamada nuevamente hasta que una línea quede disponible. La Empresa Eléctrica Las Tunas trabaja continuamente para optimizar este servicio y agradece su comprensión.",
+    "timestamp": 1784558980,
+    "timestamp_local": 1784558980
+  },
+  {
+    "id": 20381,
+    "fecha": "20 de Jul del 2026 a las 09:51 AM",
+    "hora_utc": "2026-07-20 13:51",
+    "mensaje": "📌 Estimados clientes 📌\n〽️El Sistema Electroenergético Nacional (SEN) tiene varios regímenes de operación, esto es fundamentalmente porque las cargas de los circuitos son variables, con sus características específicas y sus actividades propias, tanto estatales como de los demás sectores de la sociedad. 💡Durante el día se le llama “media”, al pico “máxima” y en la madrugada “mínima”. \n📊El déficit de capacidad de generación (apagón) puede variar sus cifras: los mayores valores son en el pico, los menores en la madrugada y en el día se comportan entre el máximo y el mínimo.\n✅Como resultado, con una cantidad de circuitos afectados, puede modificarse el déficit, con los mismos circuitos sin servicio eléctrico.",
+    "timestamp": 1784555487,
+    "timestamp_local": 1784555487
+  },
+  {
     "id": 20380,
     "fecha": "20 de Jul del 2026 a las 08:09 AM",
     "hora_utc": "2026-07-20 12:09",
@@ -70,29 +94,5 @@
     "mensaje": "📣La Empresa Eléctrica Las Tunas pone a disposición de sus clientes un Centro de Atención Telefónica con el objetivo de brindar asistencia y responder a sus inquietudes. Para asegurar un flujo eficiente de comunicación, el centro cuenta con 38 líneas de entrada, gestionadas por 6 operadores en cada turno de trabajo.\nCuando los 6 operadores se encuentran atendiendo llamadas simultáneamente, las siguientes 32 llamadas entrantes son colocadas en una cola de espera, donde una operadora automática les informa que serán atendidas a la brevedad, acompañando la espera con música. En esta situación, se requiere paciencia por parte del cliente hasta que un operador se desocupe y su llamada sea transferida automáticamente. Sin embargo, el sistema tiene un límite. A partir de la llamada número 39, todas las líneas de entrada estarán ocupadas, lo que resultará en una señal de \"ocupado\" para el cliente. En este caso, para lograr contactar al centro, el cliente deberá intentar la llamada nuevamente hasta que una línea quede disponible. La Empresa Eléctrica Las Tunas trabaja continuamente para optimizar este servicio y agradece su comprensión.",
     "timestamp": 1784502922,
     "timestamp_local": 1784502922
-  },
-  {
-    "id": 20364,
-    "fecha": "19 de Jul del 2026 a las 05:52 PM",
-    "hora_utc": "2026-07-19 21:52",
-    "mensaje": "A las 05:40 p.m., la provincia registra un total de 129 interrupciones pendientes y 46 pendientes de solución. Se ha confirmado un total de 10 transformadores disparados y 46 dañados; de estos, 27 corresponden al sector residencial y 19 al sector estatal. Los municipios con mayor incidencia son Jobabo, Puerto Padre y Las Tunas.",
-    "timestamp": 1784497930,
-    "timestamp_local": 1784497930
-  },
-  {
-    "id": 20363,
-    "fecha": "19 de Jul del 2026 a las 03:29 PM",
-    "hora_utc": "2026-07-19 19:29",
-    "mensaje": "Queda solucionada la avería del TK19. Lamentamos las molestias ocasionadas",
-    "timestamp": 1784489343,
-    "timestamp_local": 1784489343
-  },
-  {
-    "id": 20361,
-    "fecha": "19 de Jul del 2026 a las 12:32 PM",
-    "hora_utc": "2026-07-19 16:32",
-    "mensaje": "Se declara en avería el TK19 Km 7, San Antonio de Jobabo. Se trabaja para localizar la avería y dar solución lo antes posible.",
-    "timestamp": 1784478725,
-    "timestamp_local": 1784478725
   }
 ]
