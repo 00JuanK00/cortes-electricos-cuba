@@ -1,5 +1,37 @@
 [
   {
+    "id": 51173,
+    "fecha": "20 de Jul del 2026 a las 12:42 AM",
+    "hora_utc": "2026-07-20 04:42",
+    "mensaje": "🛠️Afectada por manipulación Línea 6375\n➡️Línea 6375 \n🔹Municipio Santa Clara\n👉Cto 7 Universidad \n👉Cto 131 Las Antillas\n👉Cto 22 Construcciones Textil\n👉Cto 153 EIDE(Déficit)\n👉Cto 25 Los Güiros\n👉Cto 35 Biotecnología \n👉Ctos 14, \n👉Ctos 15 y 27 Maleza(Déficit)\n👉Cto 146 Elevado Aeropuerto\n👉Cto 24 Planta Asfalto(Déficit)",
+    "timestamp": 1784522523,
+    "timestamp_local": 1784522523
+  },
+  {
+    "id": 51172,
+    "fecha": "20 de Jul del 2026 a las 12:11 AM",
+    "hora_utc": "2026-07-20 04:11",
+    "mensaje": "⚠️Afectado el servicio eléctrico en el siguiente circuito:\n🔹Municipio Caibarién\n👉Cto 183 Van Troy",
+    "timestamp": 1784520686,
+    "timestamp_local": 1784520686
+  },
+  {
+    "id": 51171,
+    "fecha": "20 de Jul del 2026 a las 12:10 AM",
+    "hora_utc": "2026-07-20 04:10",
+    "mensaje": "💡Con servicio eléctrico el siguiente circuito:\n🔹Municipio Caibarién\n👉Cto 183 Van Troy",
+    "timestamp": 1784520616,
+    "timestamp_local": 1784520616
+  },
+  {
+    "id": 51170,
+    "fecha": "20 de Jul del 2026 a las 12:08 AM",
+    "hora_utc": "2026-07-20 04:08",
+    "mensaje": "🕛Actualización del servicio eléctrico.\n✍️El déficit de capacidad de generación en estos momentos es de 93 MW\n✍️En el momento de esta nota, se mantienen afectados 105 circuitos.\n✍️ Cuenta con 231 afectaciones por averías secundarias y de servicio:\n🔸 Camajuaní (1)\n🔸 Cifuentes (2)\n🔸 Encrucijada (1)\n🔸 Manicaragua (21)\n🔸 Placetas (19)\n🔸 Ranchuelo (5)\n🔸 Remedios (6) \n🔸 Sagua (6) \n🔸 Santa Clara (144)\n🔸 Santo Domingo (8)\n🛠️Se encuentran 5 averías en vías de solución.\n🛠️Pendientes a solucionar por el área técnica 13.\n✅La provincia no presenta averías primarias.",
+    "timestamp": 1784520499,
+    "timestamp_local": 1784520499
+  },
+  {
     "id": 51168,
     "fecha": "19 de Jul del 2026 a las 09:47 PM",
     "hora_utc": "2026-07-20 01:47",
@@ -118,45 +150,5 @@
     "mensaje": "⚠️Afectado el servicio eléctrico en el siguiente circuito:\n🔹Municipio Camajuaní:\n👉Ctos 77 y 59 Vueltas",
     "timestamp": 1784501783,
     "timestamp_local": 1784501783
-  },
-  {
-    "id": 51153,
-    "fecha": "19 de Jul del 2026 a las 06:48 PM",
-    "hora_utc": "2026-07-19 22:48",
-    "mensaje": "⚠️Afectado el servicio eléctrico en el siguiente circuito:\n🔹Municipio Manicaragua:\n👉Ctos 109 y 150",
-    "timestamp": 1784501284,
-    "timestamp_local": 1784501284
-  },
-  {
-    "id": 51152,
-    "fecha": "19 de Jul del 2026 a las 06:47 PM",
-    "hora_utc": "2026-07-19 22:47",
-    "mensaje": "🟢 11:05 || En línea la Unidad 8 de la CTE Máximo Gómez.",
-    "timestamp": 1784501233,
-    "timestamp_local": 1784501233
-  },
-  {
-    "id": 51151,
-    "fecha": "19 de Jul del 2026 a las 06:45 PM",
-    "hora_utc": "2026-07-19 22:45",
-    "mensaje": "💡Con servicio eléctrico  el siguiente circuito:\n🔹Municipio Camajuaní:\n👉Cto 185 Vueltas",
-    "timestamp": 1784501109,
-    "timestamp_local": 1784501109
-  },
-  {
-    "id": 51150,
-    "fecha": "19 de Jul del 2026 a las 06:42 PM",
-    "hora_utc": "2026-07-19 22:42",
-    "mensaje": "⚠️Afectado el servicio eléctrico en el siguiente circuito:\n🔹Municipio Remedios:\n👉Ctos  68 y 118",
-    "timestamp": 1784500930,
-    "timestamp_local": 1784500930
-  },
-  {
-    "id": 51149,
-    "fecha": "19 de Jul del 2026 a las 06:39 PM",
-    "hora_utc": "2026-07-19 22:39",
-    "mensaje": "💡Con servicio eléctrico  en los siguientes circuitos:\n🔹Municipio Remedios:\n👉Ctos 67 y 152\n🔹Municipio Caibarién\n👉Cto 182 Van Troy",
-    "timestamp": 1784500798,
-    "timestamp_local": 1784500798
   }
 ]
