@@ -1,9 +1,33 @@
 [
   {
+    "id": 51244,
+    "fecha": "20 de Jul del 2026 a las 05:38 PM",
+    "hora_utc": "2026-07-20 21:38",
+    "mensaje": "⚡Afectada por avería la Línea 129, se estudian las causas.\n🔹Municipio Santa Clara:\n👉Ctos 32 y 33 (RF-33Kv)\n👉Cto 40 (Hospital Militar)",
+    "timestamp": 1784583525,
+    "timestamp_local": 1784583525
+  },
+  {
+    "id": 51243,
+    "fecha": "20 de Jul del 2026 a las 05:27 PM",
+    "hora_utc": "2026-07-20 21:27",
+    "mensaje": "⚠️Afectado el servicio eléctrico en el siguiente circuito:\n🔹Municipio Santa Clara:\n👉Cto 30   Santa Clara Industrial",
+    "timestamp": 1784582865,
+    "timestamp_local": 1784582865
+  },
+  {
+    "id": 51242,
+    "fecha": "20 de Jul del 2026 a las 05:05 PM",
+    "hora_utc": "2026-07-20 21:05",
+    "mensaje": "⚠️Afectado el servicio eléctrico en el siguiente circuito:\n🔹Municipio Santa Clara:\n👉Cto 13 Zona Industrial",
+    "timestamp": 1784581541,
+    "timestamp_local": 1784581541
+  },
+  {
     "id": 51241,
     "fecha": "20 de Jul del 2026 a las 04:35 PM",
     "hora_utc": "2026-07-20 20:35",
-    "mensaje": "💡Con servicio eléctrico  los siguientes circuitos:\n\n🔹Municipio Santa Clara\n\n👉Cto 169 Condado\n👉Cto 166 Condado",
+    "mensaje": "💡Con servicio eléctrico  los siguientes circuitos:\n🔹Municipio Santa Clara\n👉Cto 169 Condado\n👉Cto 166 Condado",
     "timestamp": 1784579706,
     "timestamp_local": 1784579706
   },
@@ -134,29 +158,5 @@
     "mensaje": "⚠️Afectado el servicio eléctrico en los siguientes circuitos:\n🔹Municipio Ranchuelo: \n👉Ctos 89 y 188 , 97",
     "timestamp": 1784567775,
     "timestamp_local": 1784567775
-  },
-  {
-    "id": 51224,
-    "fecha": "20 de Jul del 2026 a las 01:13 PM",
-    "hora_utc": "2026-07-20 17:13",
-    "mensaje": "⚡Afectado por avería el circuito 108 La Piedra, del municipio Manicaragua. Se estudian las causas.",
-    "timestamp": 1784567594,
-    "timestamp_local": 1784567594
-  },
-  {
-    "id": 51223,
-    "fecha": "20 de Jul del 2026 a las 01:08 PM",
-    "hora_utc": "2026-07-20 17:08",
-    "mensaje": "💡Con servicio eléctrico  el siguiente circuito:\n🔹Municipio Manicaragua:\n👉Cto 110 La Piedra",
-    "timestamp": 1784567329,
-    "timestamp_local": 1784567329
-  },
-  {
-    "id": 51222,
-    "fecha": "20 de Jul del 2026 a las 01:03 PM",
-    "hora_utc": "2026-07-20 17:03",
-    "mensaje": "⚠️Afectado el servicio eléctrico en los siguientes circuitos:\n🔹Municipio Santa Clara\n👉Ctos 26 y 141 Manuelita",
-    "timestamp": 1784566990,
-    "timestamp_local": 1784566990
   }
 ]
