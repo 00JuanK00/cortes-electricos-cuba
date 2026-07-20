@@ -1,5 +1,21 @@
 [
   {
+    "id": 37211,
+    "fecha": "20 de Jul del 2026 a las 07:00 AM",
+    "hora_utc": "2026-07-20 11:00",
+    "mensaje": "Déficit de capacidad degeneración en la provincia: * 130 MW .*",
+    "timestamp": 1784545218,
+    "timestamp_local": 1784545218
+  },
+  {
+    "id": 37210,
+    "fecha": "20 de Jul del 2026 a las 06:36 AM",
+    "hora_utc": "2026-07-20 10:36",
+    "mensaje": "ACTUALIZAMOS: Déficit de capacidad degeneración en la provincia: * 126 MW .*",
+    "timestamp": 1784543813,
+    "timestamp_local": 1784543813
+  },
+  {
     "id": 37209,
     "fecha": "20 de Jul del 2026 a las 12:19 AM",
     "hora_utc": "2026-07-20 04:19",
@@ -142,21 +158,5 @@
     "mensaje": "ATENCIÓN: Se encuentran afectados los transformadores dañados perteneciente a los siguientes circuitos :  \n\n▪️Matanzas, Compostela entre Medio y Milanés afectando 100 clientes.\n▪️Martí ,Cosme de la Torriente afectando 45 clientes.\n\n Estamos trabajando para resolver los problemas de suministro de energía .",
     "timestamp": 1784466036,
     "timestamp_local": 1784466036
-  },
-  {
-    "id": 37191,
-    "fecha": "19 de Jul del 2026 a las 08:57 AM",
-    "hora_utc": "2026-07-19 12:57",
-    "mensaje": "CON SERVICIO ✅\n\n🔌 Circuito 4935 que da servicio a San Pedro, Los Arabos, Colón Este, Central Méjico y Mario Muñoz.",
-    "timestamp": 1784465860,
-    "timestamp_local": 1784465860
-  },
-  {
-    "id": 37190,
-    "fecha": "19 de Jul del 2026 a las 08:43 AM",
-    "hora_utc": "2026-07-19 12:43",
-    "mensaje": "‼️¡Estimados clientes! ‼️\n⚡En estos momentos tenemos afectados 126 MW en la provincia por déficit de capacidad de generación.⚡",
-    "timestamp": 1784465032,
-    "timestamp_local": 1784465032
   }
 ]
