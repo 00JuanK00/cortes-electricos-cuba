@@ -1,5 +1,21 @@
 [
   {
+    "id": 51251,
+    "fecha": "20 de Jul del 2026 a las 08:21 PM",
+    "hora_utc": "2026-07-21 00:21",
+    "mensaje": "⚠️Afectado el servicio eléctrico en el siguiente circuito:\n\n🔹Municipio Santa Clara:\n👉Cto 1 Consejo- Centro",
+    "timestamp": 1784593262,
+    "timestamp_local": 1784593262
+  },
+  {
+    "id": 51250,
+    "fecha": "20 de Jul del 2026 a las 08:18 PM",
+    "hora_utc": "2026-07-21 00:18",
+    "mensaje": "Actualización del servicio eléctrico en la provincia.\n👉En este momento la afectación por déficit de capacidad de generación es de 200 MW, demanda máxima posible a apagar en estos momentos.\n👉De los circuitos apagables se mantienen afectados 128.\n👉Cuenta con 242 afectaciones por averías secundarias y de servicio.",
+    "timestamp": 1784593092,
+    "timestamp_local": 1784593092
+  },
+  {
     "id": 51249,
     "fecha": "20 de Jul del 2026 a las 07:32 PM",
     "hora_utc": "2026-07-20 23:32",
@@ -142,21 +158,5 @@
     "mensaje": "⚡Afectado por avería el circuito 162 en subconjunto con el 193 pertenecientes a SC Industrial. Se estudian las causas.",
     "timestamp": 1784573102,
     "timestamp_local": 1784573102
-  },
-  {
-    "id": 51231,
-    "fecha": "20 de Jul del 2026 a las 02:42 PM",
-    "hora_utc": "2026-07-20 18:42",
-    "mensaje": "Actualización del servicio eléctrico en la provincia.\n👉En este momento la afectación por déficit de capacidad de generación es de 127 MW, demanda máxima posible a apagar en estos momentos.\n👉De los circuitos apagables se mantienen afectados 74.\n👉Cuenta con 269 afectaciones por averías secundarias y de servicio.",
-    "timestamp": 1784572968,
-    "timestamp_local": 1784572968
-  },
-  {
-    "id": 51230,
-    "fecha": "20 de Jul del 2026 a las 02:23 PM",
-    "hora_utc": "2026-07-20 18:23",
-    "mensaje": "⚠️Afectado el servicio eléctrico en el siguiente circuito:\n🔹Municipio Santa Clara:\n👉Cto 2  Consejo- Centro",
-    "timestamp": 1784571797,
-    "timestamp_local": 1784571797
   }
 ]
