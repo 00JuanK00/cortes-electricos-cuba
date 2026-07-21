@@ -1,5 +1,53 @@
 [
   {
+    "id": 51345,
+    "fecha": "21 de Jul del 2026 a las 05:36 PM",
+    "hora_utc": "2026-07-21 21:36",
+    "mensaje": "⚠️Afectado el servicio eléctrico en los siguientes circuitos:\n🔹Municipio Manicaragua:\n👉Ctos 108 y 110 La Piedra",
+    "timestamp": 1784669796,
+    "timestamp_local": 1784669796
+  },
+  {
+    "id": 51343,
+    "fecha": "21 de Jul del 2026 a las 05:12 PM",
+    "hora_utc": "2026-07-21 21:12",
+    "mensaje": "⚠️Afectado el servicio eléctrico en los siguientes circuitos:\n🔹Municipio Manicaragua:\n👉Ctos 113 y 137 La Campana\n👉Cto 112 Hoyo Manicaragua",
+    "timestamp": 1784668374,
+    "timestamp_local": 1784668374
+  },
+  {
+    "id": 51342,
+    "fecha": "21 de Jul del 2026 a las 05:09 PM",
+    "hora_utc": "2026-07-21 21:09",
+    "mensaje": "⚠️Afectado el servicio eléctrico en el siguiente circuito:\n🔹Municipio Santa Clara:\n👉Cto 27 Maleza",
+    "timestamp": 1784668179,
+    "timestamp_local": 1784668179
+  },
+  {
+    "id": 51341,
+    "fecha": "21 de Jul del 2026 a las 05:01 PM",
+    "hora_utc": "2026-07-21 21:01",
+    "mensaje": "⚠️Afectado el servicio eléctrico en los siguientes circuitos:\n🔹Municipio Santa Clara:\n👉Cto 191 Quemado de Hilario\n🔹Municipio Santo Domingo:\n👉Cto 79 Santo Domingo\n👉Cto 81 26 de Julio\n👉Cto 163 Batey 26 de Julio\n🔹Municipio Ranchuelo:\n👉Ctos 54, 94 y 95 Jicotea",
+    "timestamp": 1784667673,
+    "timestamp_local": 1784667673
+  },
+  {
+    "id": 51340,
+    "fecha": "21 de Jul del 2026 a las 04:53 PM",
+    "hora_utc": "2026-07-21 20:53",
+    "mensaje": "⚠️Afectado el servicio eléctrico en los siguientes circuitos:\n🔹Municipio Santo Domingo:\n👉Cto 195 Batey George Washington\n👉Ctos 83 y 165 Manacas\n👉Ctos 85 y 86 Pajarito\n👉Ctos 160 y 161 Cascajal",
+    "timestamp": 1784667203,
+    "timestamp_local": 1784667203
+  },
+  {
+    "id": 51339,
+    "fecha": "21 de Jul del 2026 a las 04:48 PM",
+    "hora_utc": "2026-07-21 20:48",
+    "mensaje": "💡Con servicio eléctrico el siguiente circuito:\n🔹Municipio Santa Clara:\n👉Cto 169 Condado",
+    "timestamp": 1784666917,
+    "timestamp_local": 1784666917
+  },
+  {
     "id": 51338,
     "fecha": "21 de Jul del 2026 a las 04:35 PM",
     "hora_utc": "2026-07-21 20:35",
@@ -110,53 +158,5 @@
     "mensaje": "Afectado el circuito 2 Consejo-Centro, del municipio Santa Clara. Se estudian las causas.",
     "timestamp": 1784658696,
     "timestamp_local": 1784658696
-  },
-  {
-    "id": 51324,
-    "fecha": "21 de Jul del 2026 a las 02:27 PM",
-    "hora_utc": "2026-07-21 18:27",
-    "mensaje": "Con servicio el circuito 132 Santa Clara Industrial.",
-    "timestamp": 1784658470,
-    "timestamp_local": 1784658470
-  },
-  {
-    "id": 51323,
-    "fecha": "21 de Jul del 2026 a las 02:08 PM",
-    "hora_utc": "2026-07-21 18:08",
-    "mensaje": "Actualización del servicio eléctrico en la provincia.\n👉En este momento la afectación por déficit de capacidad de generación es de 194 MW, demanda máxima posible a apagar en estos momentos.\n👉De los circuitos apagables se mantienen afectados 115.\n👉Cuenta con 283 afectaciones por averías secundarias y de servicio.",
-    "timestamp": 1784657301,
-    "timestamp_local": 1784657301
-  },
-  {
-    "id": 51322,
-    "fecha": "21 de Jul del 2026 a las 02:03 PM",
-    "hora_utc": "2026-07-21 18:03",
-    "mensaje": "⚠️Afectado el servicio eléctrico en el siguiente circuito:\n🔹Municipio Ranchuelo:\n👉Cto 189",
-    "timestamp": 1784656996,
-    "timestamp_local": 1784656996
-  },
-  {
-    "id": 51321,
-    "fecha": "21 de Jul del 2026 a las 02:02 PM",
-    "hora_utc": "2026-07-21 18:02",
-    "mensaje": "💡Con servicio eléctrico el siguiente circuito:\n🔹Municipio Ranchuelo:\n👉Cto 97",
-    "timestamp": 1784656962,
-    "timestamp_local": 1784656962
-  },
-  {
-    "id": 51320,
-    "fecha": "21 de Jul del 2026 a las 02:01 PM",
-    "hora_utc": "2026-07-21 18:01",
-    "mensaje": "💡Con servicio eléctrico el siguiente circuito:\n🔹Municipio Santa Clara:\n👉Cto 27 Maleza",
-    "timestamp": 1784656888,
-    "timestamp_local": 1784656888
-  },
-  {
-    "id": 51319,
-    "fecha": "21 de Jul del 2026 a las 01:56 PM",
-    "hora_utc": "2026-07-21 17:56",
-    "mensaje": "💡Con servicio eléctrico el siguiente circuito:\n🔹Municipio Santa Clara:\n👉Cto 144 Camacho",
-    "timestamp": 1784656576,
-    "timestamp_local": 1784656576
   }
 ]
