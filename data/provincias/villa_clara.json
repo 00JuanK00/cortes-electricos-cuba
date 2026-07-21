@@ -1,9 +1,33 @@
 [
   {
+    "id": 51278,
+    "fecha": "21 de Jul del 2026 a las 08:08 AM",
+    "hora_utc": "2026-07-21 12:08",
+    "mensaje": "💡Con servicio eléctrico  los siguientes circuitos:\n🔹Municipio Santo Domingo:\n👉Cto 79 Santo Domingo\n👉Cto 81 26 de Julio\n👉Cto 163 Batey 26 de Julio\n🔹Municipio Ranchuelo:\n👉Ctos 54, 94 y 95 Jicotea",
+    "timestamp": 1784635706,
+    "timestamp_local": 1784635706
+  },
+  {
+    "id": 51277,
+    "fecha": "21 de Jul del 2026 a las 07:55 AM",
+    "hora_utc": "2026-07-21 11:55",
+    "mensaje": "Actualización del servicio eléctrico en la provincia.\n👉En este momento la afectación por déficit de capacidad de generación es de 130 MW, demanda máxima posible a apagar en estos momentos.\n👉De los circuitos apagables se mantienen afectados 148.\n👉Cuenta con 235 afectaciones por averías secundarias y de servicio.",
+    "timestamp": 1784634917,
+    "timestamp_local": 1784634917
+  },
+  {
+    "id": 51276,
+    "fecha": "21 de Jul del 2026 a las 06:14 AM",
+    "hora_utc": "2026-07-21 10:14",
+    "mensaje": "⚠️Afectado el servicio eléctrico en el siguiente circuito:\n🔹Municipio Santa Clara:\n👉Cto 22 Construcciones Textil",
+    "timestamp": 1784628891,
+    "timestamp_local": 1784628891
+  },
+  {
     "id": 51275,
     "fecha": "21 de Jul del 2026 a las 05:58 AM",
     "hora_utc": "2026-07-21 09:58",
-    "mensaje": "💡Con servicio eléctrico  los siguientes circuitos:\n\n🔹Municipio Santa Clara:\n\n👉Cto 4 Consejo- Centro\n👉Cto 5 Dobarganes\n👉Cto 17 Subplanta",
+    "mensaje": "💡Con servicio eléctrico  los siguientes circuitos:\n🔹Municipio Santa Clara:\n👉Cto 4 Consejo- Centro\n👉Cto 5 Dobarganes\n👉Cto 17 Subplanta",
     "timestamp": 1784627910,
     "timestamp_local": 1784627910
   },
@@ -126,29 +150,5 @@
     "mensaje": "💡Con servicio eléctrico el siguiente circuito:\n🔹Municipio Santa Clara:\n👉Cto 22 Construcciones Textil",
     "timestamp": 1784607466,
     "timestamp_local": 1784607466
-  },
-  {
-    "id": 51257,
-    "fecha": "20 de Jul del 2026 a las 11:43 PM",
-    "hora_utc": "2026-07-21 03:43",
-    "mensaje": "💡Restablecido el servicio eléctrico en el circuito 193 SC Industrial.",
-    "timestamp": 1784605409,
-    "timestamp_local": 1784605409
-  },
-  {
-    "id": 51256,
-    "fecha": "20 de Jul del 2026 a las 11:02 PM",
-    "hora_utc": "2026-07-21 03:02",
-    "mensaje": "⚡Afectado por avería el circuito 108 La Piedra, del municipio Manicaragua.\n⚡En avería  Línea 1915 afectando el Cto 102 Peroti.\n⚡Afectado por avería el circuito 193  SC Industrial.",
-    "timestamp": 1784602960,
-    "timestamp_local": 1784602960
-  },
-  {
-    "id": 51255,
-    "fecha": "20 de Jul del 2026 a las 10:58 PM",
-    "hora_utc": "2026-07-21 02:58",
-    "mensaje": "🕛Actualización del servicio eléctrico.\n✍️El déficit de capacidad de generación en estos momentos es de 199 MW\n✍️En el momento de esta nota, se mantienen afectados 129 circuitos.\n✍️ Cuenta con 265 afectaciones por averías secundarias y de servicio:\n🔸 Caibarien (7)\n🔸 Camajuaní (4)\n🔸 Cifuentes (2)\n🔸 Encrucijada (2)\n🔸 Manicaragua (13)\n🔸 Placetas (29)\n🔸 Ranchuelo (10)\n🔸 Remedios (3) \n🔸 Sagua (15) \n🔸 Santa Clara (151)\n🔸 Santo Domingo (11)\n🛠️Se encuentran 4 averías en vías de solución.\n🛠️Pendientes a solucionar por el área técnica 14.",
-    "timestamp": 1784602706,
-    "timestamp_local": 1784602706
   }
 ]
