@@ -1,9 +1,81 @@
 [
   {
+    "id": 51260,
+    "fecha": "21 de Jul del 2026 a las 12:39 AM",
+    "hora_utc": "2026-07-21 04:39",
+    "mensaje": "⚠️Afectado el servicio eléctrico en los siguientes circuitos:\n🔹Municipio Santa Clara\n👉Cto 141 Manuelita\n👉Cto 191 Quemado de Hilario",
+    "timestamp": 1784608774,
+    "timestamp_local": 1784608774
+  },
+  {
+    "id": 51259,
+    "fecha": "21 de Jul del 2026 a las 12:34 AM",
+    "hora_utc": "2026-07-21 04:34",
+    "mensaje": "⚠️Afectado el servicio eléctrico en los siguientes circuitos:\n\n🔹Municipio Santa Clara:\n👉Ctos 37 y 38 Yabú \n👉Cto 9 Moldes y Troqueles\n👉Cto 133 Taller Cafetera",
+    "timestamp": 1784608496,
+    "timestamp_local": 1784608496
+  },
+  {
+    "id": 51258,
+    "fecha": "21 de Jul del 2026 a las 12:17 AM",
+    "hora_utc": "2026-07-21 04:17",
+    "mensaje": "💡Con servicio eléctrico el siguiente circuito:\n\n🔹Municipio Santa Clara:\n👉Cto 22 Construcciones Textil",
+    "timestamp": 1784607466,
+    "timestamp_local": 1784607466
+  },
+  {
+    "id": 51257,
+    "fecha": "20 de Jul del 2026 a las 11:43 PM",
+    "hora_utc": "2026-07-21 03:43",
+    "mensaje": "💡Restablecido el servicio eléctrico en el circuito 193 SC Industrial.",
+    "timestamp": 1784605409,
+    "timestamp_local": 1784605409
+  },
+  {
+    "id": 51256,
+    "fecha": "20 de Jul del 2026 a las 11:02 PM",
+    "hora_utc": "2026-07-21 03:02",
+    "mensaje": "⚡Afectado por avería el circuito 108 La Piedra, del municipio Manicaragua.\n⚡En avería  Línea 1915 afectando el Cto 102 Peroti.\n⚡Afectado por avería el circuito 193  SC Industrial.",
+    "timestamp": 1784602960,
+    "timestamp_local": 1784602960
+  },
+  {
+    "id": 51255,
+    "fecha": "20 de Jul del 2026 a las 10:58 PM",
+    "hora_utc": "2026-07-21 02:58",
+    "mensaje": "🕛Actualización del servicio eléctrico.\n✍️El déficit de capacidad de generación en estos momentos es de 199 MW\n✍️En el momento de esta nota, se mantienen afectados 129 circuitos.\n✍️ Cuenta con 265 afectaciones por averías secundarias y de servicio:\n🔸 Caibarien (7)\n🔸 Camajuaní (4)\n🔸 Cifuentes (2)\n🔸 Encrucijada (2)\n🔸 Manicaragua (13)\n🔸 Placetas (29)\n🔸 Ranchuelo (10)\n🔸 Remedios (3) \n🔸 Sagua (15) \n🔸 Santa Clara (151)\n🔸 Santo Domingo (11)\n🛠️Se encuentran 4 averías en vías de solución.\n🛠️Pendientes a solucionar por el área técnica 14.",
+    "timestamp": 1784602706,
+    "timestamp_local": 1784602706
+  },
+  {
+    "id": 51254,
+    "fecha": "20 de Jul del 2026 a las 10:48 PM",
+    "hora_utc": "2026-07-21 02:48",
+    "mensaje": "⚠️Afectado el servicio eléctrico en los siguientes circuitos:\n🔹Municipio Santa Clara:\n👉Cto 16 Cubanacán \n👉Ctos 23 y 130 La Ceniza\n👉Cto 42 Manajanabo\n🔹Municipio Placetas\n👉Cto 139 Miller\n👉Cto 190 Oliver\n👉Cto 106 Falcón\n👉Ctos 98 y 99 Placetas",
+    "timestamp": 1784602098,
+    "timestamp_local": 1784602098
+  },
+  {
+    "id": 51253,
+    "fecha": "20 de Jul del 2026 a las 09:56 PM",
+    "hora_utc": "2026-07-21 01:56",
+    "mensaje": "Actualización del servicio eléctrico en la provincia.\n👉En este momento la afectación por déficit de capacidad de generación es de 200 MW, demanda máxima posible a apagar en estos momentos.\n👉De los circuitos apagables se mantienen afectados 126.\n👉Cuenta con 247 afectaciones por averías secundarias y de servicio.",
+    "timestamp": 1784599005,
+    "timestamp_local": 1784599005
+  },
+  {
+    "id": 51252,
+    "fecha": "20 de Jul del 2026 a las 09:53 PM",
+    "hora_utc": "2026-07-21 01:53",
+    "mensaje": "💡Con servicio eléctrico el siguiente circuito:\n🔹Municipio Santa Clara:\n👉Cto 162  Santa Clara Industrial",
+    "timestamp": 1784598826,
+    "timestamp_local": 1784598826
+  },
+  {
     "id": 51251,
     "fecha": "20 de Jul del 2026 a las 08:21 PM",
     "hora_utc": "2026-07-21 00:21",
-    "mensaje": "⚠️Afectado el servicio eléctrico en el siguiente circuito:\n\n🔹Municipio Santa Clara:\n👉Cto 1 Consejo- Centro",
+    "mensaje": "⚠️Afectado el servicio eléctrico en el siguiente circuito:\n🔹Municipio Santa Clara:\n👉Cto 1 Consejo- Centro",
     "timestamp": 1784593262,
     "timestamp_local": 1784593262
   },
@@ -86,77 +158,5 @@
     "mensaje": "💡Con servicio eléctrico  los siguientes circuitos:\n🔹Municipio Santa Clara\n👉Cto 169 Condado\n👉Cto 166 Condado",
     "timestamp": 1784579706,
     "timestamp_local": 1784579706
-  },
-  {
-    "id": 51240,
-    "fecha": "20 de Jul del 2026 a las 04:31 PM",
-    "hora_utc": "2026-07-20 20:31",
-    "mensaje": "⚠️Afectado el servicio eléctrico en el siguiente circuito:\n🔹Municipio Santa Clara:\n👉Cto 15  Maleza",
-    "timestamp": 1784579512,
-    "timestamp_local": 1784579512
-  },
-  {
-    "id": 51239,
-    "fecha": "20 de Jul del 2026 a las 04:27 PM",
-    "hora_utc": "2026-07-20 20:27",
-    "mensaje": "⚠️Afectado el servicio eléctrico en el siguiente circuito:\n🔹Municipio Santa Clara:\n👉Cto 31 Sakenaf",
-    "timestamp": 1784579269,
-    "timestamp_local": 1784579269
-  },
-  {
-    "id": 51238,
-    "fecha": "20 de Jul del 2026 a las 04:27 PM",
-    "hora_utc": "2026-07-20 20:27",
-    "mensaje": "💡Con servicio eléctrico  los siguientes circuitos:\n🔹Municipio Santa Clara\n👉Cto 28 Monumento Che\n👉Cto 168 Condado",
-    "timestamp": 1784579234,
-    "timestamp_local": 1784579234
-  },
-  {
-    "id": 51237,
-    "fecha": "20 de Jul del 2026 a las 04:14 PM",
-    "hora_utc": "2026-07-20 20:14",
-    "mensaje": "💡Restablecido el servicio eléctrico en la Línea 1955.",
-    "timestamp": 1784578489,
-    "timestamp_local": 1784578489
-  },
-  {
-    "id": 51236,
-    "fecha": "20 de Jul del 2026 a las 04:13 PM",
-    "hora_utc": "2026-07-20 20:13",
-    "mensaje": "⚠️Afectado el servicio eléctrico en el siguiente circuito:\n🔹Municipio Caibarién\n👉Cto 182  Van Troy",
-    "timestamp": 1784578433,
-    "timestamp_local": 1784578433
-  },
-  {
-    "id": 51235,
-    "fecha": "20 de Jul del 2026 a las 04:11 PM",
-    "hora_utc": "2026-07-20 20:11",
-    "mensaje": "🛠️En vía libre la Línea 861 para reparar avería.\n➡️Línea 861 \n🔹Municipio Santa Clara:\n👉Ctos 37 y 38 Yabú \n👉Cto 9 Moldes y Troqueles\n👉Cto 133 Taller Cafetera",
-    "timestamp": 1784578298,
-    "timestamp_local": 1784578298
-  },
-  {
-    "id": 51234,
-    "fecha": "20 de Jul del 2026 a las 04:08 PM",
-    "hora_utc": "2026-07-20 20:08",
-    "mensaje": "Actualización del servicio eléctrico en la provincia.\n👉En este momento la afectación por déficit de capacidad de generación es de 140 MW, demanda máxima posible a apagar en estos momentos.\n👉De los circuitos apagables se mantienen afectados 84.\n👉Cuenta con 277 afectaciones por averías secundarias y de servicio.",
-    "timestamp": 1784578133,
-    "timestamp_local": 1784578133
-  },
-  {
-    "id": 51233,
-    "fecha": "20 de Jul del 2026 a las 03:58 PM",
-    "hora_utc": "2026-07-20 19:58",
-    "mensaje": "💡Restablecido el servicio eléctrico en el circuito 144 (Camacho) después de reparar la avería.",
-    "timestamp": 1784577509,
-    "timestamp_local": 1784577509
-  },
-  {
-    "id": 51232,
-    "fecha": "20 de Jul del 2026 a las 02:45 PM",
-    "hora_utc": "2026-07-20 18:45",
-    "mensaje": "⚡Afectado por avería el circuito 162 en subconjunto con el 193 pertenecientes a SC Industrial. Se estudian las causas.",
-    "timestamp": 1784573102,
-    "timestamp_local": 1784573102
   }
 ]
