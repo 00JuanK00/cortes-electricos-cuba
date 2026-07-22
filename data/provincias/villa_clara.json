@@ -1,5 +1,37 @@
 [
   {
+    "id": 51419,
+    "fecha": "22 de Jul del 2026 a las 01:18 PM",
+    "hora_utc": "2026-07-22 17:18",
+    "mensaje": "Afectados 147 MW en la provincia, demanda máxima a apagar en estos momentos.",
+    "timestamp": 1784740700,
+    "timestamp_local": 1784740700
+  },
+  {
+    "id": 51418,
+    "fecha": "22 de Jul del 2026 a las 01:12 PM",
+    "hora_utc": "2026-07-22 17:12",
+    "mensaje": "🔴 12:35 || Fuera de línea la Unidad 6 de la CTE 10 de Octubre.",
+    "timestamp": 1784740339,
+    "timestamp_local": 1784740339
+  },
+  {
+    "id": 51417,
+    "fecha": "22 de Jul del 2026 a las 12:43 PM",
+    "hora_utc": "2026-07-22 16:43",
+    "mensaje": "⚠️Afectado el servicio eléctrico en el siguiente circuito:\n🔹Municipio Santa Clara\n👉Cto 144 Camacho",
+    "timestamp": 1784738612,
+    "timestamp_local": 1784738612
+  },
+  {
+    "id": 51416,
+    "fecha": "22 de Jul del 2026 a las 12:10 PM",
+    "hora_utc": "2026-07-22 16:10",
+    "mensaje": "🕛Actualización del servicio eléctrico.\n✍️El déficit de capacidad de generación en estos momentos es de 155 MW\n✍️En el momento de esta nota, se mantienen afectados 94 circuitos.\n✍️ Cuenta con 315 afectaciones por averías secundarias y de servicio:\n🔸 Caibarien (3)\n🔸 Camajuaní (8)\n🔸 Cifuentes (6)\n🔸 Corralillo (4)\n🔸 Encrucijada (1)\n🔸 Manicaragua (12)\n🔸 Placetas (21)\n🔸 Quemado (1)\n🔸 Ranchuelo (5)\n🔸 Sagua (16) \n🔸 Santa Clara (212)\n🔸 Santo Domingo (25)\n🛠️Se encuentra 3 avería en vías de solución.\n🛠️Pendientes a solucionar por el área técnica 21.\n⚡La provincia presenta 1 avería primaria:\n➡️Línea 1915 afectada por spanes de línea partidos:\nAfecta los siguientes circuitos:\n 🔹Municipio Placetas:\n👉Cto 192 Benito Juárez\n👉Cto 102 Peroti\n➡️Cto 170 José Martí, perteneciente al municipio Santa Clara, se estudian las causas.",
+    "timestamp": 1784736614,
+    "timestamp_local": 1784736614
+  },
+  {
     "id": 51415,
     "fecha": "22 de Jul del 2026 a las 11:32 AM",
     "hora_utc": "2026-07-22 15:32",
@@ -126,37 +158,5 @@
     "mensaje": "💡Con servicio eléctrico el siguiente circuito:\n🔹Municipio Santa Clara:\n👉Cto 2 Consejo-Centro",
     "timestamp": 1784717550,
     "timestamp_local": 1784717550
-  },
-  {
-    "id": 51398,
-    "fecha": "22 de Jul del 2026 a las 06:52 AM",
-    "hora_utc": "2026-07-22 10:52",
-    "mensaje": "⚠️Afectado el servicio eléctrico en el siguiente circuito:\n🔹Municipio Santa Clara:\n👉Cto 1 Consejo-Centro",
-    "timestamp": 1784717528,
-    "timestamp_local": 1784717528
-  },
-  {
-    "id": 51397,
-    "fecha": "22 de Jul del 2026 a las 06:22 AM",
-    "hora_utc": "2026-07-22 10:22",
-    "mensaje": "⚠️Afectado el servicio eléctrico en los siguientes circuitos:\n🔹Municipio Santa Clara:\n👉Ctos 37 y 38 Yabú \n👉Cto 9 Moldes y Troqueles\n👉Cto 133 Taller Cafetera\n👉Cto 144 Camacho\n👉Cto 27 Maleza\n👉Cto 14 Maleza\n👉Cto 22 Construcciones Textil\n👉Cto 153 EIDE",
-    "timestamp": 1784715733,
-    "timestamp_local": 1784715733
-  },
-  {
-    "id": 51396,
-    "fecha": "22 de Jul del 2026 a las 06:20 AM",
-    "hora_utc": "2026-07-22 10:20",
-    "mensaje": "🕛Actualización del servicio eléctrico.\n✍️El déficit de capacidad de generación en estos momentos es de 212 MW\n✍️En el momento de esta nota, se mantienen afectados 137 circuitos.\n✍️ Cuenta con 330 afectaciones por averías secundarias y de servicio:\n🔸 Caibarien (2)\n🔸 Camajuaní (7)\n🔸 Cifuentes (9)\n🔸 Encrucijada (1)\n🔸 Manicaragua (19)\n🔸 Placetas (39)\n🔸 Ranchuelo (4)\n🔸 Remedios (3) \n🔸 Sagua (13) \n🔸 Santa Clara (186)\n🔸 Santo Domingo (25)\n🛠️Se encuentra 1 avería en vías de solución.\n🛠️Pendientes a solucionar por el área técnica 21.\n⚡La provincia presenta 1 avería primaria:\n➡️Línea 1915 afectada por spanes de línea partidos:\nAfecta los siguientes circuitos:\n 🔹Municipio Placetas:\n👉Cto 192 Benito Juárez\n👉Cto 102 Peroti",
-    "timestamp": 1784715600,
-    "timestamp_local": 1784715600
-  },
-  {
-    "id": 51395,
-    "fecha": "22 de Jul del 2026 a las 06:06 AM",
-    "hora_utc": "2026-07-22 10:06",
-    "mensaje": "💡Con servicio eléctrico el siguiente circuito:\n🔹Municipio Santa Clara:\n👉Cto 169 Condado",
-    "timestamp": 1784714764,
-    "timestamp_local": 1784714764
   }
 ]
