@@ -1,5 +1,85 @@
 [
   {
+    "id": 51560,
+    "fecha": "24 de Jul del 2026 a las 05:35 AM",
+    "hora_utc": "2026-07-24 09:35",
+    "mensaje": "⚠️Afectado el servicio eléctrico en los siguientes circuitos:\n🔹Municipio Sagua\n👉Ctos 50 y 147 Villa Alegre",
+    "timestamp": 1784885732,
+    "timestamp_local": 1784885732
+  },
+  {
+    "id": 51559,
+    "fecha": "24 de Jul del 2026 a las 05:29 AM",
+    "hora_utc": "2026-07-24 09:29",
+    "mensaje": "💡Con servicio eléctrico el siguiente circuito:\n🔹Municipio Santa Clara:\n👉Cto 27 Maleza",
+    "timestamp": 1784885394,
+    "timestamp_local": 1784885394
+  },
+  {
+    "id": 51558,
+    "fecha": "24 de Jul del 2026 a las 05:21 AM",
+    "hora_utc": "2026-07-24 09:21",
+    "mensaje": "⚠️Afectado el servicio eléctrico en el siguiente circuito:\n🔹Municipio Santa Clara:\n👉Cto 1 Consejo- Centro",
+    "timestamp": 1784884905,
+    "timestamp_local": 1784884905
+  },
+  {
+    "id": 51557,
+    "fecha": "24 de Jul del 2026 a las 05:17 AM",
+    "hora_utc": "2026-07-24 09:17",
+    "mensaje": "💡Con servicio eléctrico el siguiente circuito:\n🔹Municipio Santa Clara:\n👉Cto 3 Consejo- Centro",
+    "timestamp": 1784884646,
+    "timestamp_local": 1784884646
+  },
+  {
+    "id": 51556,
+    "fecha": "24 de Jul del 2026 a las 05:05 AM",
+    "hora_utc": "2026-07-24 09:05",
+    "mensaje": "💡Con servicio eléctrico los siguientes circuitos.\n🔹Municipio Santa Clara\n👉Ctos 37 y 38 Yabú \n👉Cto 9 Moldes y Troqueles\n👉Cto 133 Taller Cafetera",
+    "timestamp": 1784883946,
+    "timestamp_local": 1784883946
+  },
+  {
+    "id": 51555,
+    "fecha": "24 de Jul del 2026 a las 05:00 AM",
+    "hora_utc": "2026-07-24 09:00",
+    "mensaje": "⚠️Afectado el servicio eléctrico en los siguientes circuitos:\n🔹Municipio Santa Clara: \n👉Cto 166 Condado\n👉Cto 169 Condado",
+    "timestamp": 1784883621,
+    "timestamp_local": 1784883621
+  },
+  {
+    "id": 51554,
+    "fecha": "24 de Jul del 2026 a las 04:57 AM",
+    "hora_utc": "2026-07-24 08:57",
+    "mensaje": "💡Con servicio eléctrico los siguientes circuitos.\n🔹Municipio Santa Clara\n👉Cto 42 Manajanabo\n👉Cto 132 Santa Clara Industrial\n👉Cto 162  y 193 Santa Clara Industrial\n🔹Municipio Remedios:\n👉Ctos  68 y 118",
+    "timestamp": 1784883460,
+    "timestamp_local": 1784883460
+  },
+  {
+    "id": 51553,
+    "fecha": "24 de Jul del 2026 a las 04:07 AM",
+    "hora_utc": "2026-07-24 08:07",
+    "mensaje": "Actualización del servicio eléctrico en la provincia.\n👉En este momento la afectación por déficit de capacidad de generación es de 192 MW, demanda máxima posible a apagar en estos momentos.\n👉De los circuitos apagables se mantienen afectados 131.\n👉Cuenta con 267 afectaciones por averías secundarias y de servicio.",
+    "timestamp": 1784880450,
+    "timestamp_local": 1784880450
+  },
+  {
+    "id": 51551,
+    "fecha": "24 de Jul del 2026 a las 03:40 AM",
+    "hora_utc": "2026-07-24 07:40",
+    "mensaje": "💡Con servicio eléctrico el siguiente circuito:\n🔹Municipio Caibarien\n👉Cto 182 Van Troi",
+    "timestamp": 1784878814,
+    "timestamp_local": 1784878814
+  },
+  {
+    "id": 51550,
+    "fecha": "24 de Jul del 2026 a las 03:36 AM",
+    "hora_utc": "2026-07-24 07:36",
+    "mensaje": "💡Con servicio eléctrico los siguientes circuitos:\n🔹Municipio Sagua\n👉Ctos 50 y 147 Villa Alegre",
+    "timestamp": 1784878585,
+    "timestamp_local": 1784878585
+  },
+  {
     "id": 51549,
     "fecha": "24 de Jul del 2026 a las 03:02 AM",
     "hora_utc": "2026-07-24 07:02",
@@ -32,14 +112,6 @@
     "timestamp_local": 1784863258
   },
   {
-    "id": 51544,
-    "fecha": "23 de Jul del 2026 a las 10:55 PM",
-    "hora_utc": "2026-07-24 02:55",
-    "mensaje": "✍️Ante cualquier duda conozca sobre la terminología eléctrica\n\n🔹Las averías pueden ser:\n     \n➡️Primarias: Afecta un volumen grande de población pues son las líneas de distribución a 13.8 kV y puede afectar varias manzanas, incluso repartos completos.\n\n➡️Secundarias: Afecta a todos los clientes que se alimenten del mismo transformador, puede afectar una o varias cuadras. \n\n➡️De servicio: Afectan 1 solo cliente o instalación generalmente producto a daños en la acometida, metro contador, etc.).",
-    "timestamp": 1784861714,
-    "timestamp_local": 1784861714
-  },
-  {
     "id": 51543,
     "fecha": "23 de Jul del 2026 a las 10:47 PM",
     "hora_utc": "2026-07-24 02:47",
@@ -70,85 +142,5 @@
     "mensaje": "💡Con servicio eléctrico el siguiente circuito:\n🔹Municipio Santa Clara\n👉Cto169 Condado",
     "timestamp": 1784857432,
     "timestamp_local": 1784857432
-  },
-  {
-    "id": 51539,
-    "fecha": "23 de Jul del 2026 a las 09:21 PM",
-    "hora_utc": "2026-07-24 01:21",
-    "mensaje": "💡Con servicio eléctrico el siguiente circuito:\n🔹Municipio Caibarién\n👉Cto 182  Van Troy",
-    "timestamp": 1784856076,
-    "timestamp_local": 1784856076
-  },
-  {
-    "id": 51538,
-    "fecha": "23 de Jul del 2026 a las 09:15 PM",
-    "hora_utc": "2026-07-24 01:15",
-    "mensaje": "💡Con servicio eléctrico el siguiente circuito:\n🔹Municipio Santa Clara\n👉Cto 2 Consejo Centro",
-    "timestamp": 1784855729,
-    "timestamp_local": 1784855729
-  },
-  {
-    "id": 51537,
-    "fecha": "23 de Jul del 2026 a las 08:16 PM",
-    "hora_utc": "2026-07-24 00:16",
-    "mensaje": "🛠️Afectada Linea 124 para trabajar en avería perteneciente al Cto 2 Consejo centro quedando afectado el servicio eléctrico los siguientes circuitos incluyendo el centro de atención telefónico  ☎️ 18888\n➡️Línea 124\n🔹Municipio Santa Clara:\n👉Ctos 1, 2 ,3 y 4 Consejo- Centro(Déficit)",
-    "timestamp": 1784852218,
-    "timestamp_local": 1784852218
-  },
-  {
-    "id": 51536,
-    "fecha": "23 de Jul del 2026 a las 08:07 PM",
-    "hora_utc": "2026-07-24 00:07",
-    "mensaje": "Actualización del servicio eléctrico en la provincia.\n👉En este momento la afectación por déficit de capacidad de generación es de 188 MW, demanda máxima posible a apagar en estos momentos.\n👉De los circuitos apagables se mantienen afectados 121.\n👉Cuenta con 259 afectaciones por averías secundarias y de servicio.",
-    "timestamp": 1784851655,
-    "timestamp_local": 1784851655
-  },
-  {
-    "id": 51535,
-    "fecha": "23 de Jul del 2026 a las 08:04 PM",
-    "hora_utc": "2026-07-24 00:04",
-    "mensaje": "⚠️Afectado el servicio eléctrico en el siguiente circuito:\n🔹Municipio Santa Clara:\n👉Cto 42 Manajanabo",
-    "timestamp": 1784851453,
-    "timestamp_local": 1784851453
-  },
-  {
-    "id": 51534,
-    "fecha": "23 de Jul del 2026 a las 07:42 PM",
-    "hora_utc": "2026-07-23 23:42",
-    "mensaje": "⚠️Afectado por manipulación los  los siguientes circuitos:\n🔹Municipio Santa Clara:\n👉Cto 5 Dobarganes\n👉Cto 17 Subplanta",
-    "timestamp": 1784850145,
-    "timestamp_local": 1784850145
-  },
-  {
-    "id": 51533,
-    "fecha": "23 de Jul del 2026 a las 07:37 PM",
-    "hora_utc": "2026-07-23 23:37",
-    "mensaje": "⚠️Afectado el servicio eléctrico en los siguientes circuitos:\n🔹Municipio Caibarién:\n👉 Cto 66 las Torres\n🔹Municipio Manicaragua:\n👉Ctos 113 y 137 La Campana\n👉Cto 112 Hoyo Manicaragua",
-    "timestamp": 1784849822,
-    "timestamp_local": 1784849822
-  },
-  {
-    "id": 51532,
-    "fecha": "23 de Jul del 2026 a las 07:22 PM",
-    "hora_utc": "2026-07-23 23:22",
-    "mensaje": "💡Con servicio eléctrico los siguientes circuitos:\n🔹Municipio Santa Clara: \n👉Cto 166 Condado\n👉Cto 28 Monumento Che\n👉Cto 168 Condado- XX Aniversario",
-    "timestamp": 1784848920,
-    "timestamp_local": 1784848920
-  },
-  {
-    "id": 51531,
-    "fecha": "23 de Jul del 2026 a las 07:20 PM",
-    "hora_utc": "2026-07-23 23:20",
-    "mensaje": "⚠️Afectado el servicio eléctrico los siguientes circuitos:\n🔹Municipio Santa Clara\n👉Cto 141 Manuelita\n👉Cto 191 Quemado de Hilario\n🔹Municipio Ranchuelo:\n👉Cto 92 Esperanza (Pueblo)\n👉Cto 93 Esperanza (Campo)",
-    "timestamp": 1784848844,
-    "timestamp_local": 1784848844
-  },
-  {
-    "id": 51530,
-    "fecha": "23 de Jul del 2026 a las 07:05 PM",
-    "hora_utc": "2026-07-23 23:05",
-    "mensaje": "⚠️Afectado el servicio eléctrico en el siguiente circuito:\n🔹Municipio Caibarién:\n👉 Cto 65 Dolores",
-    "timestamp": 1784847903,
-    "timestamp_local": 1784847903
   }
 ]
