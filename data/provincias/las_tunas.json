@@ -1,5 +1,45 @@
 [
   {
+    "id": 20501,
+    "fecha": "24 de Jul del 2026 a las 06:36 PM",
+    "hora_utc": "2026-07-24 22:36",
+    "mensaje": "➡️Los disparos de circuito tienen diferentes aristas todas con distintos significados, es decir que ocurren por varias causas. Entre ellas encontramos:\n\n👉-Disparo de Circuito con Recierre: El conocido por los clientes como “quita y pon de corriente” es un tipo de protección utilizada mundialmente a partir del 80% aproximadamente de las interrupciones eléctricas son transitorias. Este fenómeno lo hace una sola vez ante un evento de red y no es dañino para para nuestros equipos electrodomésticos.\n\n👉- Disparo Automático por Frecuencia (DAF): El disparo por DAF ocurre cuando la frecuencia llega a valores mínimos permisibles que ponen en peligro la estabilidad del mismo y como protección desconecta varios circuitos de la Capital. Los mismo restablecen a medida que se vaya recuperando la frecuencia que tiene un valor de 60hz o ciclos por segundo.\n\n👉-Disparo de Circuito por Sobrecarga: Este ocurre mayormente en los horarios pico y en verano, ya que las altas temperaturas generan elevados consumos en la población y como consecuencia de ello fallas en los circuitos.\n\n👉-Disparo de Circuito por Posible Avería: Este fenómeno ocurre cuando existe una falla en algún circuito, ya sea soterrado, aéreo o en una subestación. Estas, a pesar de que son mucho más frecuentes cuando existe algún evento climatológico, pueden ocurrir en cualquier momento del día o la noche, ya que son situaciones que no cuentan con programación.",
+    "timestamp": 1784932608,
+    "timestamp_local": 1784932608
+  },
+  {
+    "id": 20500,
+    "fecha": "24 de Jul del 2026 a las 06:18 PM",
+    "hora_utc": "2026-07-24 22:18",
+    "mensaje": "🔔Al cierre de las 18:00 nuestro sistema registra un total de 155 interrupciones pendientes.\n\n♦️Interrupciones pendientes:\n-Amancio:12\n-Jobabo:2\n-Colombia:12\n-Puerto Padre:2\n-Menéndez:7\n-Las Tunas:116\n-Majibacoa:4\n\n♦️Interrupciones pendientes a solución:\n-Amancio:4\n-Jobabo:3\n-Colombia:1\n-Puerto Padre:18\n-Menéndez:6\n-Las Tunas:35\n-Majibacoa:1\n\n🔔Se registran 51 transformadores dañados, de ese total 30 residenciales y 21 estatales.\n\n♦️Transformadores dañados por municipios:\n-Amancio:7\n-Jobabo:5\n-Colombia:4\n-Puerto Padre:7\n-Menéndez:6\n-Manatí:1\n-Las Tunas:18 \n-Majibacoa:3",
+    "timestamp": 1784931520,
+    "timestamp_local": 1784931520
+  },
+  {
+    "id": 20499,
+    "fecha": "24 de Jul del 2026 a las 06:03 PM",
+    "hora_utc": "2026-07-24 22:03",
+    "mensaje": "Se declaran en avería los circuitos:\nTK24 Reparto Santo Domingo\nTK27 La Victoria\nSe trabaja para restablecer lo antes posible. Ofrecemos disculpas por las molestias ocasionadas",
+    "timestamp": 1784930593,
+    "timestamp_local": 1784930593
+  },
+  {
+    "id": 20498,
+    "fecha": "24 de Jul del 2026 a las 06:00 PM",
+    "hora_utc": "2026-07-24 22:00",
+    "mensaje": "Disparado por tormenta el circuito:TK24 Reparto Santo Domingo",
+    "timestamp": 1784930405,
+    "timestamp_local": 1784930405
+  },
+  {
+    "id": 20497,
+    "fecha": "24 de Jul del 2026 a las 05:56 PM",
+    "hora_utc": "2026-07-24 21:56",
+    "mensaje": "Se declaran en avería los circuitos:\nTK26 Circunvalación Sur hasta La Larga \nTK9 Aguilera, La Victoria \nSe trabaja para restablecer lo antes posible. Ofrecemos disculpas por las molestias ocasionadas.",
+    "timestamp": 1784930190,
+    "timestamp_local": 1784930190
+  },
+  {
     "id": 20490,
     "fecha": "24 de Jul del 2026 a las 10:18 AM",
     "hora_utc": "2026-07-24 14:18",
@@ -38,29 +78,5 @@
     "mensaje": "📣🚨Informamos a nuestros clientes que debido al significativo déficit energético que enfrenta nuestro país y la disponibilidad limitada del Sistema Eléctrico Nacional(SEN)en comparación con la demanda actual, lamentamos no poder proporcionar una programación detallada de las afectaciones en el suministro eléctrico.Agradecemos su compresión y ofrecemos nuestras más sinceras disculpas por las molestias que esto pueda causarles.",
     "timestamp": 1784865666,
     "timestamp_local": 1784865666
-  },
-  {
-    "id": 20480,
-    "fecha": "23 de Jul del 2026 a las 11:10 PM",
-    "hora_utc": "2026-07-24 03:10",
-    "mensaje": "📣La Empresa Eléctrica Las Tunas pone a disposición de sus clientes un Centro de Atención Telefónica con el objetivo de brindar asistencia y responder a sus inquietudes. Para asegurar un flujo eficiente de comunicación, el centro cuenta con 38 líneas de entrada, gestionadas por 6 operadores en cada turno de trabajo.\nCuando los 6 operadores se encuentran atendiendo llamadas simultáneamente, las siguientes 32 llamadas entrantes son colocadas en una cola de espera, donde una operadora automática les informa que serán atendidas a la brevedad, acompañando la espera con música. En esta situación, se requiere paciencia por parte del cliente hasta que un operador se desocupe y su llamada sea transferida automáticamente. Sin embargo, el sistema tiene un límite. A partir de la llamada número 39, todas las líneas de entrada estarán ocupadas, lo que resultará en una señal de \"ocupado\" para el cliente. En este caso, para lograr contactar al centro, el cliente deberá intentar la llamada nuevamente hasta que una línea quede disponible. La Empresa Eléctrica Las Tunas trabaja continuamente para optimizar este servicio y agradece su comprensión.",
-    "timestamp": 1784862655,
-    "timestamp_local": 1784862655
-  },
-  {
-    "id": 20479,
-    "fecha": "23 de Jul del 2026 a las 10:57 PM",
-    "hora_utc": "2026-07-24 02:57",
-    "mensaje": "📣Detrás de cada transformador existe un elemento clave: el aceite dieléctrico. Este líquido permite evitar fallas eléctricas, controlar la temperatura y prolongar la vida útil del equipo.",
-    "timestamp": 1784861866,
-    "timestamp_local": 1784861866
-  },
-  {
-    "id": 20477,
-    "fecha": "23 de Jul del 2026 a las 09:51 PM",
-    "hora_utc": "2026-07-24 01:51",
-    "mensaje": "El robo de conductores eléctricos trae consigo consecuencias graves tanto para la población como para la propia infraestructura del sistema. Al sustraer estos materiales esenciales para la transmisión y distribución de la energía, se generan interrupciones en el suministro que afectan hogares, centros de trabajo, hospitales y servicios básicos. Además, provoca daños costosos a la red eléctrica y retrasa la normalización del servicio, pues su reposición exige un esfuerzo adicional de recursos humanos y materiales. A ello se suman los riesgos de accidentes eléctricos para quienes cometen el delito y para la comunidad, así como las sanciones legales que enfrentan los responsables. En definitiva, este tipo de acciones atenta contra el patrimonio institucional y el bienestar colectivo, comprometiendo la estabilidad del Sistema Electroenergético Nacional.\n#NoAlDelito.",
-    "timestamp": 1784857864,
-    "timestamp_local": 1784857864
   }
 ]
