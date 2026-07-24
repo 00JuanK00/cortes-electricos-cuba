@@ -1,5 +1,85 @@
 [
   {
+    "id": 51599,
+    "fecha": "24 de Jul del 2026 a las 02:46 PM",
+    "hora_utc": "2026-07-24 18:46",
+    "mensaje": "⚠️Afectado el servicio eléctrico en el siguiente circuito:\n🔹Municipio Santa Clara\n👉Cto 39 (Sandino)",
+    "timestamp": 1784918816,
+    "timestamp_local": 1784918816
+  },
+  {
+    "id": 51598,
+    "fecha": "24 de Jul del 2026 a las 02:27 PM",
+    "hora_utc": "2026-07-24 18:27",
+    "mensaje": "💡Con servicio eléctrico los siguientes circuitos.\n🔹Municipio Santa Clara:\n👉Cto 167 Virginia\n👉Cto 28 Monumento Che",
+    "timestamp": 1784917675,
+    "timestamp_local": 1784917675
+  },
+  {
+    "id": 51597,
+    "fecha": "24 de Jul del 2026 a las 02:26 PM",
+    "hora_utc": "2026-07-24 18:26",
+    "mensaje": "⚠️Afectado el servicio eléctrico en el siguiente circuito:\n🔹Municipio Santa Clara\n👉Cto 170 José Martí",
+    "timestamp": 1784917612,
+    "timestamp_local": 1784917612
+  },
+  {
+    "id": 51596,
+    "fecha": "24 de Jul del 2026 a las 02:16 PM",
+    "hora_utc": "2026-07-24 18:16",
+    "mensaje": "💡Restablecido el servicio eléctrico en el circuito 170 (José Martí).",
+    "timestamp": 1784916988,
+    "timestamp_local": 1784916988
+  },
+  {
+    "id": 51595,
+    "fecha": "24 de Jul del 2026 a las 01:55 PM",
+    "hora_utc": "2026-07-24 17:55",
+    "mensaje": "🛠️Afectado por manipulación el circuito 170 (José Martí).",
+    "timestamp": 1784915711,
+    "timestamp_local": 1784915711
+  },
+  {
+    "id": 51594,
+    "fecha": "24 de Jul del 2026 a las 01:43 PM",
+    "hora_utc": "2026-07-24 17:43",
+    "mensaje": "Actualización del servicio eléctrico en la provincia.\n👉En este momento la afectación por déficit de capacidad de generación es de 163 MW, demanda máxima posible a apagar en estos momentos.\n👉De los circuitos apagables se mantienen afectados 92.\n👉Cuenta con 296 afectaciones por averías secundarias y de servicio.",
+    "timestamp": 1784915006,
+    "timestamp_local": 1784915006
+  },
+  {
+    "id": 51593,
+    "fecha": "24 de Jul del 2026 a las 01:41 PM",
+    "hora_utc": "2026-07-24 17:41",
+    "mensaje": "⚠️Afectado el servicio eléctrico en el siguiente circuito:\n🔹Municipio Santa Clara\n👉Cto 141 Manuelita",
+    "timestamp": 1784914915,
+    "timestamp_local": 1784914915
+  },
+  {
+    "id": 51592,
+    "fecha": "24 de Jul del 2026 a las 01:41 PM",
+    "hora_utc": "2026-07-24 17:41",
+    "mensaje": "💡Con servicio eléctrico el siguiente circuito:\n🔹Municipio Santa Clara\n👉Cto 26 (Manuelita)",
+    "timestamp": 1784914884,
+    "timestamp_local": 1784914884
+  },
+  {
+    "id": 51591,
+    "fecha": "24 de Jul del 2026 a las 01:28 PM",
+    "hora_utc": "2026-07-24 17:28",
+    "mensaje": "💡Con servicio eléctrico los siguientes circuitos.\n🔹Municipio Santa Clara:\n👉Ctos 1 y 4 Consejo- Centro",
+    "timestamp": 1784914131,
+    "timestamp_local": 1784914131
+  },
+  {
+    "id": 51590,
+    "fecha": "24 de Jul del 2026 a las 01:20 PM",
+    "hora_utc": "2026-07-24 17:20",
+    "mensaje": "⚠️Afectado el servicio eléctrico en los siguientes circuitos:\n🔹Municipio Santa Clara\n👉Ctos  15 y 27 Maleza",
+    "timestamp": 1784913634,
+    "timestamp_local": 1784913634
+  },
+  {
     "id": 51589,
     "fecha": "24 de Jul del 2026 a las 12:02 PM",
     "hora_utc": "2026-07-24 16:02",
@@ -51,7 +131,7 @@
     "id": 51583,
     "fecha": "24 de Jul del 2026 a las 11:28 AM",
     "hora_utc": "2026-07-24 15:28",
-    "mensaje": "🛠️Afectado por vía libre el circuito 6 (Vigía) para realizar cambio de conductor.",
+    "mensaje": "🛠️Afectado por vía libre el circuito 6 (Vigía) (afectado por déficit en estos momentos) para realizar cambio de conductor.",
     "timestamp": 1784906897,
     "timestamp_local": 1784906897
   },
@@ -78,85 +158,5 @@
     "mensaje": "⚠️Afectado el servicio eléctrico en los siguientes circuitos:\n🔹Municipio Ranchuelo: \n👉Ctos  89  y 97",
     "timestamp": 1784906249,
     "timestamp_local": 1784906249
-  },
-  {
-    "id": 51579,
-    "fecha": "24 de Jul del 2026 a las 10:57 AM",
-    "hora_utc": "2026-07-24 14:57",
-    "mensaje": "⚠️Afectado el servicio eléctrico en los siguientes circuitos:\n🔹Municipio Corralillo:\n👉Cto 57 Motembo \n👉Cto 56 Yabre\n👉Cto 60 La Sierra\n👉Cto 55 Rancho Veloz\n🔹Municipio Quemado:\n👉 Cto 196 Batey Panchito Gómez Toro\n🔹Municipio Santa Clara:\n👉Cto 144 Camacho",
-    "timestamp": 1784905072,
-    "timestamp_local": 1784905072
-  },
-  {
-    "id": 51578,
-    "fecha": "24 de Jul del 2026 a las 10:50 AM",
-    "hora_utc": "2026-07-24 14:50",
-    "mensaje": "💡Restablecido el servicio eléctrico en los siguientes circuitos:\n🔹Municipio Santa Clara\n👉Ctos 32 y 33 (RF-33Kv)\n👉Cto 40 (Hospital Militar)",
-    "timestamp": 1784904654,
-    "timestamp_local": 1784904654
-  },
-  {
-    "id": 51577,
-    "fecha": "24 de Jul del 2026 a las 09:41 AM",
-    "hora_utc": "2026-07-24 13:41",
-    "mensaje": "💡Con servicio eléctrico el siguiente circuito:\n🔹Municipio Sagua\n👉Cto 43",
-    "timestamp": 1784900514,
-    "timestamp_local": 1784900514
-  },
-  {
-    "id": 51576,
-    "fecha": "24 de Jul del 2026 a las 09:28 AM",
-    "hora_utc": "2026-07-24 13:28",
-    "mensaje": "⚠️Afectado el servicio eléctrico en los siguientes circuitos:\n🔹Municipio Santa Clara:\n👉Cto 7 Universidad\n👉Cto 131 Las Antillas\n👉Cto 22 Construcciones Textil\n👉Cto 24 Planta Asfalto\n👉Cto 25 Los Güiros\n👉Cto 35 Biotecnología",
-    "timestamp": 1784899721,
-    "timestamp_local": 1784899721
-  },
-  {
-    "id": 51575,
-    "fecha": "24 de Jul del 2026 a las 09:26 AM",
-    "hora_utc": "2026-07-24 13:26",
-    "mensaje": "➡La Provincia presenta 9 afectaciones de servicio eléctrico por transformador dañado:\n👉Municipio Cifuentes: Carretera de Sagua km15 , barrio Campamento. Wilfredo Page.\n👉Municipio Ranchuelo: Carretera Central , Batey 10 de Octubre. Barrio el Barracón \n👉Municipio Ranchuelo: Calle Monteagudo e/ Villuenda y Carretera de Ranchuelo.\n👉Municipio Manicaragua: Límite final. Rpto 72.\n👉Municipio Remedios: Calle Carme  e/ Cupertino Garcia y Egido Sur.\n👉Municipio Santa Clara: Calle 6ta e/ 10 y 12. Reparto Camacho\n👉Municipio Santa Clara: calle San Cristobal e/ Maceo y Unión. \n👉Municipio Santa Clara: Calle San Isidro , esquina Marti y Independencia.\n👉Municipio Santa Clara: Calle Doble Via e/ 5ta , fte a la candonga",
-    "timestamp": 1784899591,
-    "timestamp_local": 1784899591
-  },
-  {
-    "id": 51574,
-    "fecha": "24 de Jul del 2026 a las 09:08 AM",
-    "hora_utc": "2026-07-24 13:08",
-    "mensaje": "💡Con servicio eléctrico el siguiente circuito:\n🔹Municipio Camajuaní:\n👉Cto 77 Vueltas",
-    "timestamp": 1784898527,
-    "timestamp_local": 1784898527
-  },
-  {
-    "id": 51573,
-    "fecha": "24 de Jul del 2026 a las 08:30 AM",
-    "hora_utc": "2026-07-24 12:30",
-    "mensaje": "💡Con servicio eléctrico los siguientes circuitos.\n🔹Municipio Santo Domingo:\n👉Cto 79 Santo Domingo\n👉Cto 81 26 de Julio\n👉Cto 163 Batey 26 de Julio\n🔹Municipio Ranchuelo:\n👉Ctos 54, 94 y 95 Jicotea",
-    "timestamp": 1784896226,
-    "timestamp_local": 1784896226
-  },
-  {
-    "id": 51572,
-    "fecha": "24 de Jul del 2026 a las 08:28 AM",
-    "hora_utc": "2026-07-24 12:28",
-    "mensaje": "💡Con servicio eléctrico los siguientes circuitos.\n🔹Municipio Santa Clara\n👉Cto 30 Santa Clara Industrial\n👉Cto 31 Santa Clara Industrial",
-    "timestamp": 1784896104,
-    "timestamp_local": 1784896104
-  },
-  {
-    "id": 51571,
-    "fecha": "24 de Jul del 2026 a las 08:10 AM",
-    "hora_utc": "2026-07-24 12:10",
-    "mensaje": "⚡ Actualización del Sistema Electroenergético Nacional para el 24 de julio de 2026.\n\nPronóstico de afectación:\nPara el mediodía: 1500 MW\nPara el pico de la noche: 2160 MW\n\nLeer más: https://www.unionelectrica.cu/nota-informativa/\n\n#UnidosXCuba #UniónEléctrica #UNE #NotaInformativa",
-    "timestamp": 1784895058,
-    "timestamp_local": 1784895058
-  },
-  {
-    "id": 51570,
-    "fecha": "24 de Jul del 2026 a las 07:58 AM",
-    "hora_utc": "2026-07-24 11:58",
-    "mensaje": "Actualización del servicio eléctrico en la provincia.\n👉En este momento la afectación por déficit de capacidad de generación es de 197 MW, demanda máxima posible a apagar en estos momentos.\n👉De los circuitos apagables se mantienen afectados 123.\n👉Cuenta con 272 afectaciones por averías secundarias y de servicio.",
-    "timestamp": 1784894303,
-    "timestamp_local": 1784894303
   }
 ]
