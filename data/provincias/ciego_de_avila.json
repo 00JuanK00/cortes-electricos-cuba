@@ -1,5 +1,29 @@
 [
   {
+    "id": 39600,
+    "fecha": "24 de Jul del 2026 a las 07:45 PM",
+    "hora_utc": "2026-07-24 23:45",
+    "mensaje": "✅Información:\n\n🔉Tenemos 25 MW servidos en la provincia.",
+    "timestamp": 1784936723,
+    "timestamp_local": 1784936723
+  },
+  {
+    "id": 39599,
+    "fecha": "24 de Jul del 2026 a las 07:36 PM",
+    "hora_utc": "2026-07-24 23:36",
+    "mensaje": "✅Restablecido el servicio eléctrico la zona norte que se encontraban afectados por avería en la línea de 110kV.",
+    "timestamp": 1784936205,
+    "timestamp_local": 1784936205
+  },
+  {
+    "id": 39598,
+    "fecha": "24 de Jul del 2026 a las 07:27 PM",
+    "hora_utc": "2026-07-24 23:27",
+    "mensaje": "‼️Información‼️\n\n ⏰ Los circuitos  restablecidos tendrán servicio por un estimado de 1 hora y 30 min aproximadamente en dependencia del déficit solicitado en cada momento de la jornada que es muy variable.",
+    "timestamp": 1784935659,
+    "timestamp_local": 1784935659
+  },
+  {
     "id": 39597,
     "fecha": "24 de Jul del 2026 a las 06:33 PM",
     "hora_utc": "2026-07-24 22:33",
@@ -19,7 +43,7 @@
     "id": 39595,
     "fecha": "24 de Jul del 2026 a las 04:49 PM",
     "hora_utc": "2026-07-24 20:49",
-    "mensaje": "🔊Información🔊\n✅ Se encuentra sin servicio eléctrico el circuito Chambas, Morón, Ceballos y la zona norte de la provincia por avería en la línea de 110kV  se trabaja para restablecer en el menor tiempo posible.",
+    "mensaje": "🔊Información🔊\n✅ Se encuentra sin servicio eléctrico la zona norte, Morón, Chambas por avería en la línea de 110kV. Se trabaja para restablecer lo antes posible el servicio.",
     "timestamp": 1784926143,
     "timestamp_local": 1784926143
   },
@@ -110,29 +134,5 @@
     "mensaje": "‼️ Déficit de Generación ‼️   \n👉Tenemos 93 MW en la provincia afectados por déficit de generación.\n⏰ Reiteramos que los circuitos se afectarán o se restablecerán en dependencia del déficit en cada momento de la jornada, que es muy variable.",
     "timestamp": 1784853290,
     "timestamp_local": 1784853290
-  },
-  {
-    "id": 39580,
-    "fecha": "23 de Jul del 2026 a las 06:49 PM",
-    "hora_utc": "2026-07-23 22:49",
-    "mensaje": "‼️ Déficit de Generación ‼️   \n👉Tenemos 76 MW en la provincia afectados por déficit de generación.\n⏰ Reiteramos que los circuitos se afectarán o se restablecerán en dependencia del déficit en cada momento de la jornada, que es muy variable.",
-    "timestamp": 1784846988,
-    "timestamp_local": 1784846988
-  },
-  {
-    "id": 39579,
-    "fecha": "23 de Jul del 2026 a las 05:49 PM",
-    "hora_utc": "2026-07-23 21:49",
-    "mensaje": "‼️Información‼️\n\n ⏰ Los circuitos  restablecidos tendrán servicio por un estimado de 1 hora y 30 min aproximadamente en dependencia del déficit solicitado en cada momento de la jornada que es muy variable.",
-    "timestamp": 1784843388,
-    "timestamp_local": 1784843388
-  },
-  {
-    "id": 39578,
-    "fecha": "23 de Jul del 2026 a las 04:03 PM",
-    "hora_utc": "2026-07-23 20:03",
-    "mensaje": "‼️ Déficit de Generación ‼️   \n👉Tenemos 70 MW en la provincia afectados por déficit de generación.\n⏰ Reiteramos que los circuitos se afectarán o se restablecerán en dependencia del déficit en cada momento de la jornada, que es muy variable.",
-    "timestamp": 1784836981,
-    "timestamp_local": 1784836981
   }
 ]

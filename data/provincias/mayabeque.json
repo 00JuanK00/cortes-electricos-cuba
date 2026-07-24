@@ -1,5 +1,29 @@
 [
   {
+    "id": 117888,
+    "fecha": "24 de Jul del 2026 a las 07:40 PM",
+    "hora_utc": "2026-07-24 23:40",
+    "mensaje": "🚨Por déficit de capacidad de generación se afecta el servicio en los siguientes circuitos:\n*Palomo\n*Ganuza🚨",
+    "timestamp": 1784936450,
+    "timestamp_local": 1784936450
+  },
+  {
+    "id": 117887,
+    "fecha": "24 de Jul del 2026 a las 06:55 PM",
+    "hora_utc": "2026-07-24 22:55",
+    "mensaje": "🔷Solucionada la avería en el circuito Güines 4🔷",
+    "timestamp": 1784933741,
+    "timestamp_local": 1784933741
+  },
+  {
+    "id": 117886,
+    "fecha": "24 de Jul del 2026 a las 06:51 PM",
+    "hora_utc": "2026-07-24 22:51",
+    "mensaje": "🚨Por déficit de capacidad de generación se afecta el servicio en el siguiente circuito:\n*Güines 3🚨",
+    "timestamp": 1784933507,
+    "timestamp_local": 1784933507
+  },
+  {
     "id": 117885,
     "fecha": "24 de Jul del 2026 a las 06:35 PM",
     "hora_utc": "2026-07-24 22:35",
@@ -35,7 +59,7 @@
     "id": 117881,
     "fecha": "24 de Jul del 2026 a las 05:39 PM",
     "hora_utc": "2026-07-24 21:39",
-    "mensaje": "🚨Por déficit de capacidad de generación se afecta el servicio en el siguiente circuito:\n*San Nicolás 1 🚨",
+    "mensaje": "🚨Por déficit de capacidad de generación se afecta el servicio en los siguientes circuitos:\n*San Nicolás 1\n*Jaruco 2🚨",
     "timestamp": 1784929157,
     "timestamp_local": 1784929157
   },
@@ -110,29 +134,5 @@
     "mensaje": "🔷 Normalizado el circuito 1790 que se encontraba afectado por disparo por DAF🔷",
     "timestamp": 1784921889,
     "timestamp_local": 1784921889
-  },
-  {
-    "id": 117868,
-    "fecha": "24 de Jul del 2026 a las 03:37 PM",
-    "hora_utc": "2026-07-24 19:37",
-    "mensaje": "🚨Por déficit de capacidad de generación se afecta el servicio en los siguientes circuitos:\n*2420\n*UNAH\n*3655🚨",
-    "timestamp": 1784921850,
-    "timestamp_local": 1784921850
-  },
-  {
-    "id": 117867,
-    "fecha": "24 de Jul del 2026 a las 03:04 PM",
-    "hora_utc": "2026-07-24 19:04",
-    "mensaje": "🚨Por déficit de capacidad de generación se afecta el servicio en los siguientes circuitos:\n* Nazareno\n* Babiney🚨",
-    "timestamp": 1784919893,
-    "timestamp_local": 1784919893
-  },
-  {
-    "id": 117866,
-    "fecha": "24 de Jul del 2026 a las 03:00 PM",
-    "hora_utc": "2026-07-24 19:00",
-    "mensaje": "🚨Por déficit de capacidad de generación se afecta el servicio en el siguiente circuito:\n*Somorrostro🚨",
-    "timestamp": 1784919600,
-    "timestamp_local": 1784919600
   }
 ]
