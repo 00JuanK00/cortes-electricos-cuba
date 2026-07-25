@@ -1,5 +1,37 @@
 [
   {
+    "id": 56221,
+    "fecha": "25 de Jul del 2026 a las 02:36 AM",
+    "hora_utc": "2026-07-25 06:36",
+    "mensaje": "🔴 Disparo    \nApertura no voluntaria de un interruptor como vía de protección para desconectar uno o varios elementos del circuito, subestación o sistema, restableciéndose el servicio rápidamente en dependencia de la causa.",
+    "timestamp": 1784961412,
+    "timestamp_local": 1784961412
+  },
+  {
+    "id": 56220,
+    "fecha": "25 de Jul del 2026 a las 02:36 AM",
+    "hora_utc": "2026-07-25 06:36",
+    "mensaje": "🚨 Estimados clientes en estos momentos se encuentra disparado el circuito 16 de Santiago.",
+    "timestamp": 1784961396,
+    "timestamp_local": 1784961396
+  },
+  {
+    "id": 56219,
+    "fecha": "25 de Jul del 2026 a las 02:24 AM",
+    "hora_utc": "2026-07-25 06:24",
+    "mensaje": "🚨 Se incorporan a la afectación por Déficit de Capacidad de Generación las líneas 5335- Guamá, 4385- Contramaestre y el circuito 1 de Palma.",
+    "timestamp": 1784960690,
+    "timestamp_local": 1784960690
+  },
+  {
+    "id": 56218,
+    "fecha": "25 de Jul del 2026 a las 02:04 AM",
+    "hora_utc": "2026-07-25 06:04",
+    "mensaje": "🚨Estimados clientes en estos momentos se encuentran afectados por Déficit de Capacidad de Generación los circuitos 14, 8, 12, 2, las líneas 5330- Cristo y 5380-Mella, disculpen por las molestias ocasionadas.",
+    "timestamp": 1784959494,
+    "timestamp_local": 1784959494
+  },
+  {
     "id": 56217,
     "fecha": "24 de Jul del 2026 a las 11:58 PM",
     "hora_utc": "2026-07-25 03:58",
@@ -110,37 +142,5 @@
     "mensaje": "🔉Estimados clientes en estos momentos se encuentra afectado por Déficit de Capacidad de Generación el circuito 9 de Santiago, disculpen por las molestias ocasionadas.",
     "timestamp": 1784917491,
     "timestamp_local": 1784917491
-  },
-  {
-    "id": 56201,
-    "fecha": "24 de Jul del 2026 a las 01:41 PM",
-    "hora_utc": "2026-07-24 17:41",
-    "mensaje": "🔉Estimados clientes en estos momentos se encuentran afectados por Déficit de Capacidad de Generación la línea 5390  , el circuito de Songo y el circuito 20 de Santiago  , disculpen por las molestias ocasionadas.",
-    "timestamp": 1784914869,
-    "timestamp_local": 1784914869
-  },
-  {
-    "id": 56200,
-    "fecha": "24 de Jul del 2026 a las 12:37 PM",
-    "hora_utc": "2026-07-24 16:37",
-    "mensaje": "🔉Estimados clientes en estos momentos se incorpora a la afectación por Déficit de Capacidad de Generación el circuito 3 de Santiago.",
-    "timestamp": 1784911067,
-    "timestamp_local": 1784911067
-  },
-  {
-    "id": 56199,
-    "fecha": "24 de Jul del 2026 a las 11:56 AM",
-    "hora_utc": "2026-07-24 15:56",
-    "mensaje": "🔉Estimados clientes en estos momentos se encuentran afectados por Déficit de Capacidad de Generación los circuitos 14 y 16 de Santiago y 4385,4390,4435 de Contramaestre disculpen por las molestias ocasionadas.",
-    "timestamp": 1784908571,
-    "timestamp_local": 1784908571
-  },
-  {
-    "id": 56198,
-    "fecha": "24 de Jul del 2026 a las 11:01 AM",
-    "hora_utc": "2026-07-24 15:01",
-    "mensaje": "🔉Estimados clientes en estos momentos se incorpora a la afectación por Déficit de Capacidad de Generación el circuito 11 de Santiago.",
-    "timestamp": 1784905318,
-    "timestamp_local": 1784905318
   }
 ]
