@@ -1,5 +1,53 @@
 [
   {
+    "id": 51713,
+    "fecha": "25 de Jul del 2026 a las 04:32 PM",
+    "hora_utc": "2026-07-25 20:32",
+    "mensaje": "⚠️Afectado el servicio eléctrico en los siguientes circuitos:\n🔹Municipio Camajuaní:\n👉Ctos 73 y 156",
+    "timestamp": 1785011549,
+    "timestamp_local": 1785011549
+  },
+  {
+    "id": 51712,
+    "fecha": "25 de Jul del 2026 a las 04:27 PM",
+    "hora_utc": "2026-07-25 20:27",
+    "mensaje": "⚠️Afectado el servicio eléctrico en los siguientes circuitos:\n🔹Municipio Remedios:\n👉Ctos 68 y 118 \n👉Ctos 69 y 70 Zuluetas\n👉Cto 143 Batey Heriberto Duquezne \n👉Cto 71 Buena Vista",
+    "timestamp": 1785011249,
+    "timestamp_local": 1785011249
+  },
+  {
+    "id": 51711,
+    "fecha": "25 de Jul del 2026 a las 04:11 PM",
+    "hora_utc": "2026-07-25 20:11",
+    "mensaje": "⚠️Afectado el servicio eléctrico en los siguientes circuitos:\n🔹Municipio Santa Clara:\n👉Ctos 30 y 193 Santa Clara Industrial",
+    "timestamp": 1785010269,
+    "timestamp_local": 1785010269
+  },
+  {
+    "id": 51710,
+    "fecha": "25 de Jul del 2026 a las 04:10 PM",
+    "hora_utc": "2026-07-25 20:10",
+    "mensaje": "Actualización del servicio eléctrico en la provincia.\n👉En este momento la afectación por déficit de capacidad de generación es de 123 MW, demanda máxima posible a apagar en estos momentos.\n👉De los circuitos apagables se mantienen afectados 74.\n👉Cuenta con 244 afectaciones por averías secundarias y de servicio.",
+    "timestamp": 1785010228,
+    "timestamp_local": 1785010228
+  },
+  {
+    "id": 51709,
+    "fecha": "25 de Jul del 2026 a las 03:59 PM",
+    "hora_utc": "2026-07-25 19:59",
+    "mensaje": "⚠️Afectado el servicio eléctrico en los siguientes circuitos:\n🔹Municipio Camajuaní:\n👉Ctos 72 y 129",
+    "timestamp": 1785009541,
+    "timestamp_local": 1785009541
+  },
+  {
+    "id": 51708,
+    "fecha": "25 de Jul del 2026 a las 03:51 PM",
+    "hora_utc": "2026-07-25 19:51",
+    "mensaje": "💡Con servicio eléctrico el siguiente circuito:\n🔹Municipio Santa Clara:\n👉Cto 169 Condado",
+    "timestamp": 1785009088,
+    "timestamp_local": 1785009088
+  },
+  {
     "id": 51707,
     "fecha": "25 de Jul del 2026 a las 03:50 PM",
     "hora_utc": "2026-07-25 19:50",
@@ -19,7 +67,7 @@
     "id": 51705,
     "fecha": "25 de Jul del 2026 a las 03:41 PM",
     "hora_utc": "2026-07-25 19:41",
-    "mensaje": "💡Con servicio eléctrico los siguientes circuitos:\n🔹Municipio Camajuaní:\n👉Ctos 59 y 185 Vueltas",
+    "mensaje": "💡Con servicio eléctrico el siguiente circuito:\n🔹Municipio Camajuaní:\n👉Cto 185 Vueltas",
     "timestamp": 1785008468,
     "timestamp_local": 1785008468
   },
@@ -110,53 +158,5 @@
     "mensaje": "Con servicio la línea 6375:\n🔹Municipio Santa Clara\n👉Cto 7 Universidad (Déficit)\n👉Cto 146 Elevado Aeropuerto\n👉Cto 22 Construcciones Textil(Déficit) \n👉Cto 131 Las Antillas(Déficit)\n👉Cto 153 EIDE(Déficit)\n👉Cto 25 Los Güiros\n👉Cto 24 Planta Asfalto\n👉Cto 35 Biotecnología \n👉Ctos 14 y 27 Maleza (Déficit)",
     "timestamp": 1785004938,
     "timestamp_local": 1785004938
-  },
-  {
-    "id": 51693,
-    "fecha": "25 de Jul del 2026 a las 02:39 PM",
-    "hora_utc": "2026-07-25 18:39",
-    "mensaje": "🛠Afectada por manipulación la línea 6375 para reponer circuito 146 Elevado Aeropuerto:\n🔹Municipio Santa Clara\n👉Cto 7 Universidad (Déficit)\n👉Cto 22 Construcciones Textil(Déficit) \n👉Cto 131 Las Antillas(Déficit)\n👉Cto 153 EIDE(Déficit)\n👉Cto 25 Los Güiros\n👉Cto 24 Planta Asfalto\n👉Cto 35 Biotecnología \n👉Ctos 14 y 27 Maleza (Déficit)",
-    "timestamp": 1785004783,
-    "timestamp_local": 1785004783
-  },
-  {
-    "id": 51692,
-    "fecha": "25 de Jul del 2026 a las 02:35 PM",
-    "hora_utc": "2026-07-25 18:35",
-    "mensaje": "💡Con servicio eléctrico el siguiente circuito:\n🔹Municipio Santa Clara:\n👉Cto 141 Manuelita",
-    "timestamp": 1785004549,
-    "timestamp_local": 1785004549
-  },
-  {
-    "id": 51691,
-    "fecha": "25 de Jul del 2026 a las 02:26 PM",
-    "hora_utc": "2026-07-25 18:26",
-    "mensaje": "💡Con servicio eléctrico el siguiente circuito:\n🔹Municipio Placetas:\n👉Cto 151",
-    "timestamp": 1785004010,
-    "timestamp_local": 1785004010
-  },
-  {
-    "id": 51690,
-    "fecha": "25 de Jul del 2026 a las 02:22 PM",
-    "hora_utc": "2026-07-25 18:22",
-    "mensaje": "Con servicio el circuito 44 Isabela, del municipio Sagua.",
-    "timestamp": 1785003722,
-    "timestamp_local": 1785003722
-  },
-  {
-    "id": 51689,
-    "fecha": "25 de Jul del 2026 a las 02:17 PM",
-    "hora_utc": "2026-07-25 18:17",
-    "mensaje": "🛠️Afectado por disparo al momento de restablecerse el circuito 44 Isabela, del municipio Sagua. Se estudian las causas.",
-    "timestamp": 1785003439,
-    "timestamp_local": 1785003439
-  },
-  {
-    "id": 51688,
-    "fecha": "25 de Jul del 2026 a las 02:14 PM",
-    "hora_utc": "2026-07-25 18:14",
-    "mensaje": "⚡Afectado el circuito 108 La Piedra, del municipio Manicaragua. Se estudian las causas.",
-    "timestamp": 1785003269,
-    "timestamp_local": 1785003269
   }
 ]
