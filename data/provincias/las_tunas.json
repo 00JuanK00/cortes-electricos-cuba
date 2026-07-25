@@ -1,5 +1,13 @@
 [
   {
+    "id": 20521,
+    "fecha": "25 de Jul del 2026 a las 06:15 PM",
+    "hora_utc": "2026-07-25 22:15",
+    "mensaje": "Al cierre de las 06:15 pm en nuestra provincia se encuentran reportadas 236 interrupciones de servicio y pendiente a solución 72. Existen identificados 53 transformadores dañados que están distribuidos en 32 en la zona residencial y 21 en el sector estatal.",
+    "timestamp": 1785017706,
+    "timestamp_local": 1785017706
+  },
+  {
     "id": 20519,
     "fecha": "25 de Jul del 2026 a las 03:08 PM",
     "hora_utc": "2026-07-25 19:08",
@@ -86,21 +94,5 @@
     "mensaje": "De declara en avería avería el TK25 Cuatro Caminos Dormitorio Hermanos Mayo",
     "timestamp": 1784935782,
     "timestamp_local": 1784935782
-  },
-  {
-    "id": 20501,
-    "fecha": "24 de Jul del 2026 a las 06:36 PM",
-    "hora_utc": "2026-07-24 22:36",
-    "mensaje": "➡️Los disparos de circuito tienen diferentes aristas todas con distintos significados, es decir que ocurren por varias causas. Entre ellas encontramos:\n\n👉-Disparo de Circuito con Recierre: El conocido por los clientes como “quita y pon de corriente” es un tipo de protección utilizada mundialmente a partir del 80% aproximadamente de las interrupciones eléctricas son transitorias. Este fenómeno lo hace una sola vez ante un evento de red y no es dañino para para nuestros equipos electrodomésticos.\n\n👉- Disparo Automático por Frecuencia (DAF): El disparo por DAF ocurre cuando la frecuencia llega a valores mínimos permisibles que ponen en peligro la estabilidad del mismo y como protección desconecta varios circuitos de la Capital. Los mismo restablecen a medida que se vaya recuperando la frecuencia que tiene un valor de 60hz o ciclos por segundo.\n\n👉-Disparo de Circuito por Sobrecarga: Este ocurre mayormente en los horarios pico y en verano, ya que las altas temperaturas generan elevados consumos en la población y como consecuencia de ello fallas en los circuitos.\n\n👉-Disparo de Circuito por Posible Avería: Este fenómeno ocurre cuando existe una falla en algún circuito, ya sea soterrado, aéreo o en una subestación. Estas, a pesar de que son mucho más frecuentes cuando existe algún evento climatológico, pueden ocurrir en cualquier momento del día o la noche, ya que son situaciones que no cuentan con programación.",
-    "timestamp": 1784932608,
-    "timestamp_local": 1784932608
-  },
-  {
-    "id": 20500,
-    "fecha": "24 de Jul del 2026 a las 06:18 PM",
-    "hora_utc": "2026-07-24 22:18",
-    "mensaje": "🔔Al cierre de las 18:00 nuestro sistema registra un total de 155 interrupciones pendientes.\n\n♦️Interrupciones pendientes:\n-Amancio:12\n-Jobabo:2\n-Colombia:12\n-Puerto Padre:2\n-Menéndez:7\n-Las Tunas:116\n-Majibacoa:4\n\n♦️Interrupciones pendientes a solución:\n-Amancio:4\n-Jobabo:3\n-Colombia:1\n-Puerto Padre:18\n-Menéndez:6\n-Las Tunas:35\n-Majibacoa:1\n\n🔔Se registran 51 transformadores dañados, de ese total 30 residenciales y 21 estatales.\n\n♦️Transformadores dañados por municipios:\n-Amancio:7\n-Jobabo:5\n-Colombia:4\n-Puerto Padre:7\n-Menéndez:6\n-Manatí:1\n-Las Tunas:18 \n-Majibacoa:3",
-    "timestamp": 1784931520,
-    "timestamp_local": 1784931520
   }
 ]
