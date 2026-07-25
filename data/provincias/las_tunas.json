@@ -1,5 +1,13 @@
 [
   {
+    "id": 20519,
+    "fecha": "25 de Jul del 2026 a las 03:08 PM",
+    "hora_utc": "2026-07-25 19:08",
+    "mensaje": "╔══════════════════════════════════════╗\n⚡ ESTADO DE LAS CENTRALES ELÉCTRICAS ⚡\n║          25 de julio de 2026         ║\n╚══════════════════════════════════════╝\n\n🟢 EN SERVICIO\n\n🏭 Mariel\n🟢 U5 ┃ ██████ 65 MW\n🔴 U6 ┃ 0 MW\n🟢 U8 ┃ ██████ 60 MW\n\n🏭 Santa Cruz\n🔴 U1 ┃ 0 MW\n🟢 U2 ┃ ████████ 80 MW\n🔴 U3 ┃ 0 MW\n\n🏭 Antonio Guiteras\n🟡 U1 ┃ ███████████████ 150 MW (Limitada)\n\n🏭 Carlos M. de Céspedes\n🟢 U3 ┃ ████████████████ 158 MW\n🟢 U4 ┃ ████████████████ 158 MW\n\n🏭 Nuevitas\n🔴 U5 ┃ 0 MW\n🔴 U6 ┃ 0 MW\n\n🏭 Renté\n🔴 U3 ┃ 0 MW\n🔴 U5 ┃ 0 MW\n🔴 U6 ┃ 0 MW\n\n🏭 Felton\n🟢 U1 ┃ █████████████████ 170 MW\n🔴 U2 ┃ 0 MW\n\n━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\n⚡ RESUMEN DEL SEN\n\n🟢 Unidades sincronizadas: 7\n🔴 Unidades fuera de servicio: 10\n⚡ Generación térmica aproximada:\n➡️ 786 MW\n\n🏭 ENERGAS\n🟢 Boca de Jaruco ........ 187 MW\n🟢 Varadero ............... 79 MW\n🟢 Puerto Escondido ....... 8 MW\n\n⚡ Generación Energas:\n➡️ 274 MW\n\n═══════════════════════════════\n⚡ Generación total aproximada\n(CTE + Energas): 1 060 MW\n═══════════════════════════════",
+    "timestamp": 1785006482,
+    "timestamp_local": 1785006482
+  },
+  {
     "id": 20512,
     "fecha": "25 de Jul del 2026 a las 09:22 AM",
     "hora_utc": "2026-07-25 13:22",
@@ -102,13 +110,5 @@
     "mensaje": "Se declaran en avería los circuitos:\nTK24 Reparto Santo Domingo\nTK27 La Victoria\nSe trabaja para restablecer lo antes posible. Ofrecemos disculpas por las molestias ocasionadas",
     "timestamp": 1784930593,
     "timestamp_local": 1784930593
-  },
-  {
-    "id": 20498,
-    "fecha": "24 de Jul del 2026 a las 06:00 PM",
-    "hora_utc": "2026-07-24 22:00",
-    "mensaje": "Disparado por tormenta el circuito:TK24 Reparto Santo Domingo",
-    "timestamp": 1784930405,
-    "timestamp_local": 1784930405
   }
 ]
