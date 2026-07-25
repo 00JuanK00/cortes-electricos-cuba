@@ -1,5 +1,13 @@
 [
   {
+    "id": 51641,
+    "fecha": "25 de Jul del 2026 a las 04:04 AM",
+    "hora_utc": "2026-07-25 08:04",
+    "mensaje": "Actualización del servicio eléctrico en la provincia.\n👉En este momento la afectación por déficit de capacidad de generación es de 187 MW, demanda máxima posible a apagar en estos momentos.\n👉De los circuitos apagables se mantienen afectados 135.\n👉Cuenta con 209 afectaciones por averías secundarias y de servicio.",
+    "timestamp": 1784966642,
+    "timestamp_local": 1784966642
+  },
+  {
     "id": 51640,
     "fecha": "25 de Jul del 2026 a las 03:05 AM",
     "hora_utc": "2026-07-25 07:05",
@@ -142,13 +150,5 @@
     "mensaje": "💡Con servicio eléctrico los siguientes circuitos:\n🔹Municipio Santa Clara:\n👉Cto 6 Vigía\n👉Cto 39 (Sandino)",
     "timestamp": 1784936269,
     "timestamp_local": 1784936269
-  },
-  {
-    "id": 51620,
-    "fecha": "24 de Jul del 2026 a las 07:25 PM",
-    "hora_utc": "2026-07-24 23:25",
-    "mensaje": "⚡Afectado el circuito 168 Condado por estar faltando una fase.",
-    "timestamp": 1784935530,
-    "timestamp_local": 1784935530
   }
 ]
