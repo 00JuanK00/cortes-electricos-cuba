@@ -1,5 +1,13 @@
 [
   {
+    "id": 117930,
+    "fecha": "25 de Jul del 2026 a las 01:05 PM",
+    "hora_utc": "2026-07-25 17:05",
+    "mensaje": "🚨Por déficit de capacidad de generación se afecta el servicio en las zonas del circuito 5 de San José correspondientes a ETECSA 🚨",
+    "timestamp": 1784999154,
+    "timestamp_local": 1784999154
+  },
+  {
     "id": 117929,
     "fecha": "25 de Jul del 2026 a las 12:25 PM",
     "hora_utc": "2026-07-25 16:25",
@@ -11,7 +19,7 @@
     "id": 117928,
     "fecha": "25 de Jul del 2026 a las 12:19 PM",
     "hora_utc": "2026-07-25 16:19",
-    "mensaje": "🚨Por déficit de capacidad de generación se afecta el servicio en el siguiente circuito:\n*Jaruco 1 🚨",
+    "mensaje": "🚨Por déficit de capacidad de generación se afecta el servicio en los siguientes circuitos:\n*Jaruco 1 \n*Nueva Paz 1 y 2 🚨",
     "timestamp": 1784996346,
     "timestamp_local": 1784996346
   },
@@ -142,13 +150,5 @@
     "mensaje": "♦️ Informamos a los clientes del circuito 3 de San José que se encuentran afectados por disparo en las líneas ♦️",
     "timestamp": 1784975675,
     "timestamp_local": 1784975675
-  },
-  {
-    "id": 117909,
-    "fecha": "25 de Jul del 2026 a las 06:22 AM",
-    "hora_utc": "2026-07-25 10:22",
-    "mensaje": "🚨Por déficit de capacidad de generación se afecta el servicio en el siguiente circuito:\n* Aguacate🚨",
-    "timestamp": 1784974968,
-    "timestamp_local": 1784974968
   }
 ]
