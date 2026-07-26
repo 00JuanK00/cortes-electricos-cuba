@@ -1,5 +1,37 @@
 [
   {
+    "id": 51800,
+    "fecha": "26 de Jul del 2026 a las 05:23 PM",
+    "hora_utc": "2026-07-26 21:23",
+    "mensaje": "Afectados 194 MW en la provincia, demanda máxima a apagar en estos momentos.",
+    "timestamp": 1785100986,
+    "timestamp_local": 1785100986
+  },
+  {
+    "id": 51799,
+    "fecha": "26 de Jul del 2026 a las 05:09 PM",
+    "hora_utc": "2026-07-26 21:09",
+    "mensaje": "💡Con servicio eléctrico el siguiente circuito:\n🔹Municipio Santa Clara: \n👉Cto 168 Condado- XX Aniversario",
+    "timestamp": 1785100186,
+    "timestamp_local": 1785100186
+  },
+  {
+    "id": 51798,
+    "fecha": "26 de Jul del 2026 a las 05:09 PM",
+    "hora_utc": "2026-07-26 21:09",
+    "mensaje": "⚠️Afectado el servicio eléctrico en los siguientes circuitos:\n🔹Municipio Santa Clara:\n👉Cto 170 José Martí\n🔹Municipio Santo Domingo:\n👉Cto 134\n👉Ctos 87 y 96 Bermejal\n👉Cto 187 Batey Carlos Baliño\n👉Cto 82 Ulacia\n👉Cto 84 Rodrigo\n🔹Municipio Santa Clara:\n👉Cto 13 Zona Industrial",
+    "timestamp": 1785100140,
+    "timestamp_local": 1785100140
+  },
+  {
+    "id": 51797,
+    "fecha": "26 de Jul del 2026 a las 04:54 PM",
+    "hora_utc": "2026-07-26 20:54",
+    "mensaje": "⚠️Afectado el servicio eléctrico en el siguiente circuito:\n🔹Municipio Santa Clara:\n👉Cto 6 Vigía",
+    "timestamp": 1785099245,
+    "timestamp_local": 1785099245
+  },
+  {
     "id": 51796,
     "fecha": "26 de Jul del 2026 a las 04:31 PM",
     "hora_utc": "2026-07-26 20:31",
@@ -126,29 +158,5 @@
     "mensaje": "Afectados 144 MW en la provincia, demanda máxima a apagar en estos momentos.",
     "timestamp": 1785078053,
     "timestamp_local": 1785078053
-  },
-  {
-    "id": 51780,
-    "fecha": "26 de Jul del 2026 a las 10:57 AM",
-    "hora_utc": "2026-07-26 14:57",
-    "mensaje": "💡Con servicio eléctrico los siguientes circuitos:\n🔹Municipio Santa Clara\n👉Cto 7 Universidad\n👉Cto 131 Las Antillas\n👉Cto 24 Planta Asfalto\n👉Cto 146 Elevado Aeropuerto\n👉Cto 25 Los Güiros\n👉Cto 35 Biotecnología",
-    "timestamp": 1785077865,
-    "timestamp_local": 1785077865
-  },
-  {
-    "id": 51779,
-    "fecha": "26 de Jul del 2026 a las 10:18 AM",
-    "hora_utc": "2026-07-26 14:18",
-    "mensaje": "💡Con servicio eléctrico los siguientes circuitos:\n🔹Municipio Sagua \n👉Cto 48 Finalet\n👉Ctos 46 y 128 Sitiecito",
-    "timestamp": 1785075498,
-    "timestamp_local": 1785075498
-  },
-  {
-    "id": 51778,
-    "fecha": "26 de Jul del 2026 a las 10:04 AM",
-    "hora_utc": "2026-07-26 14:04",
-    "mensaje": "Actualización del servicio eléctrico en la provincia.\n👉En este momento la afectación por déficit de capacidad de generación es de 172 MW, demanda máxima posible a apagar en estos momentos.\n👉De los circuitos apagables se mantienen afectados 104.\n👉Cuenta con 266 afectaciones por averías secundarias y de servicio.",
-    "timestamp": 1785074680,
-    "timestamp_local": 1785074680
   }
 ]
