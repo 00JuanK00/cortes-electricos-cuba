@@ -1,5 +1,21 @@
 [
   {
+    "id": 20534,
+    "fecha": "26 de Jul del 2026 a las 07:59 AM",
+    "hora_utc": "2026-07-26 11:59",
+    "mensaje": "**Nota Informativa: Estado del SEN – **26 de julio de 2026\nEn el día de ayer el servicio eléctrico estuvo afectado durante las 24 horas, incluyendo la madrugada, por falta de capacidad de generación. La mayor afectación fue de **1883** MW a las 21:40 de la noche, con impacto en todas las provincias del país. Para hoy se estima una afectación de **2080 **MW.\n**Situación de las unidades de generación térmica**\n**Unidades en avería:**\nUnidad 6 de la Termoeléctrica Máximo Gómez, en la Zona Especial del Mariel.\nUnidad 1 de la Termoeléctrica Antonio Guiteras, en Matanzas.\nUnidad 6 de la Termoeléctrica Diez de Octubre, en Nuevitas.\nUnidad 2 de la Termoeléctrica Lidio Ramón Pérez, en Felton.\nUnidad 3 de la Termoeléctrica Antonio Maceo, en Renté.\n**Unidades en mantenimiento:**\nUnidad 3 de la Termoeléctrica Ernesto Guevara De La Serna, en Santa Cruz.\nUnidades 5 y 6 de la Termoeléctrica Antonio Maceo, en Renté.\nUnidad 5 de la Termoeléctrica Diez de Octubre, en Nuevitas.\n**Energías renovables y otras fuentes**\nLos 54 parques solares fotovoltaicos generaron ayer **5258 MW/hora**, con una potencia máxima de **876 MW**.\n**Generación Distribuida**\nFuera de servicio 106 centrales de generación distribuida por indisponibilidad de combustible.\nFuera de servicio la Patana de Regla, Patana de Melones, Central Fuel de Mariel y Central Fuel de Moa.\nPronóstico para el horario pico\n**Disponibilidad en horario pico: **1150 MW\n**Demanda máxima prevista: **3200 MW\n**Afectación pronosticada: **2080 MW",
+    "timestamp": 1785067184,
+    "timestamp_local": 1785067184
+  },
+  {
+    "id": 20533,
+    "fecha": "26 de Jul del 2026 a las 07:55 AM",
+    "hora_utc": "2026-07-26 11:55",
+    "mensaje": "🔴 01:07 || Fuera de línea la Unidad 1 de la CTE Antonio Guiteras, por salidero en economizador.",
+    "timestamp": 1785066953,
+    "timestamp_local": 1785066953
+  },
+  {
     "id": 20532,
     "fecha": "26 de Jul del 2026 a las 07:07 AM",
     "hora_utc": "2026-07-26 11:07",
@@ -30,13 +46,5 @@
     "mensaje": "╔══════════════════════════════════════╗\n⚡ ESTADO DE LAS CENTRALES ELÉCTRICAS ⚡\n║          25 de julio de 2026         ║\n╚══════════════════════════════════════╝\n\n🟢 EN SERVICIO\n\n🏭 Mariel\n🟢 U5 ┃ ██████ 65 MW\n🔴 U6 ┃ 0 MW\n🟢 U8 ┃ ██████ 60 MW\n\n🏭 Santa Cruz\n🔴 U1 ┃ 0 MW\n🟢 U2 ┃ ████████ 80 MW\n🔴 U3 ┃ 0 MW\n\n🏭 Antonio Guiteras\n🟡 U1 ┃ ███████████████ 150 MW (Limitada)\n\n🏭 Carlos M. de Céspedes\n🟢 U3 ┃ ████████████████ 158 MW\n🟢 U4 ┃ ████████████████ 158 MW\n\n🏭 Nuevitas\n🔴 U5 ┃ 0 MW\n🔴 U6 ┃ 0 MW\n\n🏭 Renté\n🔴 U3 ┃ 0 MW\n🔴 U5 ┃ 0 MW\n🔴 U6 ┃ 0 MW\n\n🏭 Felton\n🟢 U1 ┃ █████████████████ 170 MW\n🔴 U2 ┃ 0 MW\n\n━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\n⚡ RESUMEN DEL SEN\n\n🟢 Unidades sincronizadas: 7\n🔴 Unidades fuera de servicio: 10\n⚡ Generación térmica aproximada:\n➡️ 786 MW\n\n🏭 ENERGAS\n🟢 Boca de Jaruco ........ 187 MW\n🟢 Varadero ............... 79 MW\n🟢 Puerto Escondido ....... 8 MW\n\n⚡ Generación Energas:\n➡️ 274 MW\n\n═══════════════════════════════\n⚡ Generación total aproximada\n(CTE + Energas): 1 060 MW\n═══════════════════════════════",
     "timestamp": 1785006482,
     "timestamp_local": 1785006482
-  },
-  {
-    "id": 20512,
-    "fecha": "25 de Jul del 2026 a las 09:22 AM",
-    "hora_utc": "2026-07-25 13:22",
-    "mensaje": "⚠️** Recomendación importante:**\n\nNo se acerque a líneas partidas, cables en el suelo, postes inclinados o cualquier instalación en mal estado. ¡Es un grave peligro! 🚫⚡\n\n📞** Ante cualquier avería o duda, comuníquese con nuestro 18888, disponible las 24 horas**",
-    "timestamp": 1784985737,
-    "timestamp_local": 1784985737
   }
 ]
