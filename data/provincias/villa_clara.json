@@ -1,5 +1,53 @@
 [
   {
+    "id": 51770,
+    "fecha": "26 de Jul del 2026 a las 07:00 AM",
+    "hora_utc": "2026-07-26 11:00",
+    "mensaje": "⚠️Afectado el servicio eléctrico en el siguiente circuito:\n🔹Municipio Sagua:\n👉Cto 51",
+    "timestamp": 1785063630,
+    "timestamp_local": 1785063630
+  },
+  {
+    "id": 51769,
+    "fecha": "26 de Jul del 2026 a las 06:52 AM",
+    "hora_utc": "2026-07-26 10:52",
+    "mensaje": "💡Con servicio eléctrico los siguientes circuitos:\n🔹Municipio Santa Clara:\n👉Cto 5 Dobarganes\n👉Cto 17 Subplanta",
+    "timestamp": 1785063138,
+    "timestamp_local": 1785063138
+  },
+  {
+    "id": 51768,
+    "fecha": "26 de Jul del 2026 a las 06:28 AM",
+    "hora_utc": "2026-07-26 10:28",
+    "mensaje": "⚠️Afectado el servicio eléctrico en los siguientes circuitos:\n🔹Municipio Santa Clara: \n👉Ctos 132 y 162 Santa Clara Industrial\n👉 Cto 39 Sandino\n👉Cto 34 Rebacadero",
+    "timestamp": 1785061732,
+    "timestamp_local": 1785061732
+  },
+  {
+    "id": 51767,
+    "fecha": "26 de Jul del 2026 a las 06:21 AM",
+    "hora_utc": "2026-07-26 10:21",
+    "mensaje": "🕕Actualización del servicio eléctrico.\n✍️El déficit de capacidad de generación en estos momentos es de 186 MW\n✍️En el momento de esta nota, se mantienen afectados 121 circuitos.\n✍️ Cuenta con 285 afectaciones por averías secundarias y de servicio:\n🔸 Caibarién (4)\n🔸Camajuaní (1)\n🔸 Cifuentes (6)\n🔸Corralillo (2)\n🔸 Encrucijada (4)\n🔸 Manicaragua (9)\n🔸 Placetas (16)\n🔸 Ranchuelo (2)\n🔸 Remedios (10) \n🔸 Sagua (4) \n🔸 Santa Clara (190)\n🔸 Santo Domingo (19)\n🛠️Se encuentran 3 averías en vías de solución.\n🛠️Pendientes a solucionar por el área técnica 19.\n⚡La provincia presenta 3 averías primarias:\n➡️Afectada parcialmente la línea 1780, por spanes y cables primarios partidos, debido a poste caído. (Brigadas eléctricas de nuestra empresa preparan las condiciones necesarias para trabajar en el lugar.)\nAfecta los siguientes circuitos:\n🔹Municipio Santa Clara:\n👉Ctos 23 y 130 La Ceniza\n👉Cto 42 Manajanabo\n🔹Municipio Placetas\n👉Cto 139 Miller\n👉Cto 190 Oliver\n👉Cto 106 Falcón\n➡️Cto 131 Las Antillas, del municipio Santa Clara, afectado por spanes partidos y puentes abiertos.\n➡️Cto 108 La Piedra, del municipio Manicaragua. Se estudian las causas. (La línea se encuentra afectada por déficit de capacidad de generación.)",
+    "timestamp": 1785061272,
+    "timestamp_local": 1785061272
+  },
+  {
+    "id": 51766,
+    "fecha": "26 de Jul del 2026 a las 06:08 AM",
+    "hora_utc": "2026-07-26 10:08",
+    "mensaje": "⚠️Afectado el servicio eléctrico en los siguientes circuitos:\n🔹Municipio Santa Clara: \n👉Cto 166 Condado\n👉Cto 168 Condado- XX Aniversario\n👉Cto 169 Condado",
+    "timestamp": 1785060491,
+    "timestamp_local": 1785060491
+  },
+  {
+    "id": 51765,
+    "fecha": "26 de Jul del 2026 a las 06:07 AM",
+    "hora_utc": "2026-07-26 10:07",
+    "mensaje": "💡Con servicio eléctrico los siguientes circuitos:\n🔹Municipio Santa Clara:\n👉Ctos 37 y 38 Yabú \n👉Cto 9 Moldes y Troqueles\n👉Cto 133 Taller Cafetera",
+    "timestamp": 1785060443,
+    "timestamp_local": 1785060443
+  },
+  {
     "id": 51764,
     "fecha": "26 de Jul del 2026 a las 04:44 AM",
     "hora_utc": "2026-07-26 08:44",
@@ -110,53 +158,5 @@
     "mensaje": "Actualización del servicio eléctrico en la provincia.\n👉En este momento la afectación por déficit de capacidad de generación es de 198 MW, demanda máxima posible a apagar en estos momentos.\n👉De los circuitos apagables se mantienen afectados 127.\n👉Cuenta con 270 afectaciones por averías secundarias y de servicio.",
     "timestamp": 1785046008,
     "timestamp_local": 1785046008
-  },
-  {
-    "id": 51750,
-    "fecha": "26 de Jul del 2026 a las 01:17 AM",
-    "hora_utc": "2026-07-26 05:17",
-    "mensaje": "🛠️Afectado por disparo el circuito 3 Consejo-Centro, del municipio Santa Clara. Se estudian las causas.",
-    "timestamp": 1785043074,
-    "timestamp_local": 1785043074
-  },
-  {
-    "id": 51749,
-    "fecha": "26 de Jul del 2026 a las 01:16 AM",
-    "hora_utc": "2026-07-26 05:16",
-    "mensaje": "💡Con servicio eléctrico los siguientes circuitos:\n🔹Municipio Manicaragua:\n👉Ctos 109 y 150",
-    "timestamp": 1785043011,
-    "timestamp_local": 1785043011
-  },
-  {
-    "id": 51748,
-    "fecha": "26 de Jul del 2026 a las 12:51 AM",
-    "hora_utc": "2026-07-26 04:51",
-    "mensaje": "⚡Afectada línea 1780:\n🔹Municipio Santa Clara:\n👉Cto 16 Cubanacán \n👉Ctos 23 y 130 La Ceniza\n👉Cto 42 Manajanabo\n🔹Municipio Placetas\n👉Cto 139 Miller\n👉Cto 190 Oliver\n👉Cto 106 Falcón\n✍️Se estudian las causas.",
-    "timestamp": 1785041505,
-    "timestamp_local": 1785041505
-  },
-  {
-    "id": 51747,
-    "fecha": "26 de Jul del 2026 a las 12:49 AM",
-    "hora_utc": "2026-07-26 04:49",
-    "mensaje": "💡Con servicio eléctrico el siguiente circuito:\n🔹Municipio Santa Clara:\n👉Cto 166 Condado",
-    "timestamp": 1785041346,
-    "timestamp_local": 1785041346
-  },
-  {
-    "id": 51746,
-    "fecha": "26 de Jul del 2026 a las 12:39 AM",
-    "hora_utc": "2026-07-26 04:39",
-    "mensaje": "⚠️Afectado el servicio eléctrico en el siguiente circuito:\n🔹Municipio Santa Clara:\n👉Cto 6 Vigía",
-    "timestamp": 1785040781,
-    "timestamp_local": 1785040781
-  },
-  {
-    "id": 51745,
-    "fecha": "26 de Jul del 2026 a las 12:21 AM",
-    "hora_utc": "2026-07-26 04:21",
-    "mensaje": "⚠️Afectado el servicio eléctrico en el siguiente circuito:\n🔹Municipio Santa Clara:\n👉Cto 166 Condado",
-    "timestamp": 1785039669,
-    "timestamp_local": 1785039669
   }
 ]
