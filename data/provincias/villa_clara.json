@@ -1,5 +1,29 @@
 [
   {
+    "id": 51820,
+    "fecha": "27 de Jul del 2026 a las 07:48 AM",
+    "hora_utc": "2026-07-27 11:48",
+    "mensaje": "🚨Nota informativa🚨\n\n📆Situación del SEN para el 27 de julio de 2026.\n\n👉En el día de ayer se afectó el servicio por déficit de capacidad durante las 24 horas y se mantuvo la afectación durante todo el horario de la madrugada. La máxima afectación por déficit de capacidad de generación en el día de ayer fue de 2083 MW a las 20:10 horas.\n\n☀️La producción de energía los parques solares fotovoltaicos fue de 4863 MWh, con 756 MW como máxima potencia entregada en el horario de la media con esta fuente de generación.  \n\n👉La disponibilidad del SEN a las 06:00 horas es de 1150 MW, la demanda 2840 MW con 1700 MW afectados. En el horario de la media se estima una afectación de 1600 MW.\n🛠️Se encuentran en avería la unidad 6 de la CTE Mariel, la unidad de la CTE Guiteras, la unidad 2 de la CTE Felton y la unidad 3 de la CTE Renté. Se encuentran en mantenimiento la unidad 3 de la CTE Santa Cruz, la unidad 5 de la CTE Nuevitas y las unidades 5 y 6 de la CTE Renté. \n\n👉Las limitaciones en la generación térmica son de 337 MW.\n\n📈Se prevé para el horario de máxima demanda se estima una disponibilidad de 1150 MW con una demanda máxima de 3250 MW, para un déficit de 2100 MW, por lo que de mantenerse las condiciones previstas se pronostica una afectación de 2130 MW en este horario.\n\nUNE-MINEM---07:00 horas.",
+    "timestamp": 1785152885,
+    "timestamp_local": 1785152885
+  },
+  {
+    "id": 51819,
+    "fecha": "27 de Jul del 2026 a las 07:05 AM",
+    "hora_utc": "2026-07-27 11:05",
+    "mensaje": "Afectados 189 MW en la provincia, demanda máxima a apagar en estos momentos.",
+    "timestamp": 1785150332,
+    "timestamp_local": 1785150332
+  },
+  {
+    "id": 51818,
+    "fecha": "27 de Jul del 2026 a las 06:28 AM",
+    "hora_utc": "2026-07-27 10:28",
+    "mensaje": "🕕Actualización del servicio eléctrico.\n✍️El déficit de capacidad de generación en estos momentos es de 192 MW\n✍️En el momento de esta nota, se mantienen afectados 119 circuitos.\n✍️ Cuenta con 305 afectaciones por averías secundarias y de servicio:\n🔸 Caibarién (2)\n🔸 Cifuentes (6)\n🔸 Corralillo (4)\n🔸 Encrucijada (1)\n🔸 Manicaragua (8)\n🔸 Placetas (12)\n🔸 Quemado (1)\n🔸 Ranchuelo (7)\n🔸 Remedios (9) \n🔸 Sagua (4) \n🔸 Santa Clara (235)\n🔸 Santo Domingo (16)\n🛠️Se encuentran 1 averías en vías de solución.\n🛠️Pendientes a solucionar por el área técnica 21.\n⚡La provincia presenta 3 averías primarias:\n➡️Cto 108 La Piedra, del municipio Manicaragua. Se estudian las causas.\n➡️Cto 111 Matagua de manera parcial, del municipio Manicaragua. Se estudian las causas.\n➡️En avería la línea del 129, quedando afectados los siguientes circuitos:\n🔹Municipio Santa Clara:\n👉Ctos 32 y 33 (RF-33Kv)\n👉Cto 39 (Sandino)\n👉Cto 40 Hospital Militar\n➡️Se encuentra en fallo el Cto 4 Centro, perteneciente al municipio Santa Clara, se estudian las causas.\n➡️En avería de manera parcial el Cto 141 Manuelita, perteneciente al municipio Santa Clara, se estudian las causas.\n➡️En avería el Cto 144 Camacho, perteneciente al municipio Santa Clara, se estudian las causas.",
+    "timestamp": 1785148127,
+    "timestamp_local": 1785148127
+  },
+  {
     "id": 51817,
     "fecha": "27 de Jul del 2026 a las 04:15 AM",
     "hora_utc": "2026-07-27 08:15",
@@ -118,29 +142,5 @@
     "mensaje": "💡Con servicio eléctrico el siguiente circuito:\n🔹Municipio Santa Clara: \n👉Cto 3 Centro",
     "timestamp": 1785104082,
     "timestamp_local": 1785104082
-  },
-  {
-    "id": 51800,
-    "fecha": "26 de Jul del 2026 a las 05:23 PM",
-    "hora_utc": "2026-07-26 21:23",
-    "mensaje": "Afectados 194 MW en la provincia, demanda máxima a apagar en estos momentos.",
-    "timestamp": 1785100986,
-    "timestamp_local": 1785100986
-  },
-  {
-    "id": 51799,
-    "fecha": "26 de Jul del 2026 a las 05:09 PM",
-    "hora_utc": "2026-07-26 21:09",
-    "mensaje": "💡Con servicio eléctrico el siguiente circuito:\n🔹Municipio Santa Clara: \n👉Cto 168 Condado- XX Aniversario",
-    "timestamp": 1785100186,
-    "timestamp_local": 1785100186
-  },
-  {
-    "id": 51798,
-    "fecha": "26 de Jul del 2026 a las 05:09 PM",
-    "hora_utc": "2026-07-26 21:09",
-    "mensaje": "⚠️Afectado el servicio eléctrico en los siguientes circuitos:\n🔹Municipio Santa Clara:\n👉Cto 170 José Martí\n🔹Municipio Santo Domingo:\n👉Cto 134\n👉Ctos 87 y 96 Bermejal\n👉Cto 187 Batey Carlos Baliño\n👉Cto 82 Ulacia\n👉Cto 84 Rodrigo\n🔹Municipio Santa Clara:\n👉Cto 13 Zona Industrial",
-    "timestamp": 1785100140,
-    "timestamp_local": 1785100140
   }
 ]
