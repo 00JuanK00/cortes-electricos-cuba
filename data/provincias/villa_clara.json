@@ -1,5 +1,21 @@
 [
   {
+    "id": 51807,
+    "fecha": "26 de Jul del 2026 a las 09:12 PM",
+    "hora_utc": "2026-07-27 01:12",
+    "mensaje": "Afectados 206 MW en la provincia, demanda máxima a apagar en estos momentos.",
+    "timestamp": 1785114761,
+    "timestamp_local": 1785114761
+  },
+  {
+    "id": 51806,
+    "fecha": "26 de Jul del 2026 a las 08:11 PM",
+    "hora_utc": "2026-07-27 00:11",
+    "mensaje": "Actualización del servicio eléctrico en la provincia.\n👉En este momento la afectación por déficit de capacidad de generación es de 209 MW, demanda máxima posible a apagar en estos momentos.\n👉De los circuitos apagables se mantienen afectados 136.\n👉Cuenta con 292 afectaciones por averías secundarias y de servicio.",
+    "timestamp": 1785111111,
+    "timestamp_local": 1785111111
+  },
+  {
     "id": 51805,
     "fecha": "26 de Jul del 2026 a las 07:20 PM",
     "hora_utc": "2026-07-26 23:20",
@@ -134,21 +150,5 @@
     "mensaje": "⚠️Afectado el servicio eléctrico en los siguientes circuitos:\n🔹Municipio Placetas:\n👉Ctos 100 y 151 Placetas\n👉Cto 104 Hermanos Amejeiras\n👉Cto 103 Batey Carbó Servía",
     "timestamp": 1785084368,
     "timestamp_local": 1785084368
-  },
-  {
-    "id": 51787,
-    "fecha": "26 de Jul del 2026 a las 12:44 PM",
-    "hora_utc": "2026-07-26 16:44",
-    "mensaje": "💡Con servicio eléctrico el siguiente circuito:\n🔹Municipio Placetas:\n👉Cto 98",
-    "timestamp": 1785084277,
-    "timestamp_local": 1785084277
-  },
-  {
-    "id": 51786,
-    "fecha": "26 de Jul del 2026 a las 12:23 PM",
-    "hora_utc": "2026-07-26 16:23",
-    "mensaje": "⚠️Afectado el servicio eléctrico en el siguiente circuito:\n🔹Municipio Santa Clara:\n👉Cto 3 Centro",
-    "timestamp": 1785083029,
-    "timestamp_local": 1785083029
   }
 ]
