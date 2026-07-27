@@ -1,5 +1,37 @@
 [
   {
+    "id": 51817,
+    "fecha": "27 de Jul del 2026 a las 04:15 AM",
+    "hora_utc": "2026-07-27 08:15",
+    "mensaje": "⚠️Se encuentra en fallo el Cto 4 Centro, perteneciente al municipio Santa Clara, se estudian las causas.",
+    "timestamp": 1785140109,
+    "timestamp_local": 1785140109
+  },
+  {
+    "id": 51816,
+    "fecha": "27 de Jul del 2026 a las 04:13 AM",
+    "hora_utc": "2026-07-27 08:13",
+    "mensaje": "⚡En avería de manera parcial el Cto 141 Manuelita, perteneciente al municipio Santa Clara, se estudian las causas.",
+    "timestamp": 1785140017,
+    "timestamp_local": 1785140017
+  },
+  {
+    "id": 51815,
+    "fecha": "27 de Jul del 2026 a las 04:04 AM",
+    "hora_utc": "2026-07-27 08:04",
+    "mensaje": "Actualización del servicio eléctrico en la provincia.\n👉En este momento la afectación por déficit de capacidad de generación es de 192 MW, demanda máxima posible a apagar en estos momentos.\n👉De los circuitos apagables se mantienen afectados 119.\n👉Cuenta con 300 afectaciones por averías secundarias y de servicio.",
+    "timestamp": 1785139474,
+    "timestamp_local": 1785139474
+  },
+  {
+    "id": 51814,
+    "fecha": "27 de Jul del 2026 a las 02:15 AM",
+    "hora_utc": "2026-07-27 06:15",
+    "mensaje": "Actualización del servicio eléctrico en la provincia.\n👉En este momento la afectación por déficit de capacidad de generación es de 193 MW, demanda máxima posible a apagar en estos momentos.\n👉De los circuitos apagables se mantienen afectados 121.\n👉Cuenta con 306 afectaciones por averías secundarias y de servicio.",
+    "timestamp": 1785132925,
+    "timestamp_local": 1785132925
+  },
+  {
     "id": 51813,
     "fecha": "27 de Jul del 2026 a las 01:06 AM",
     "hora_utc": "2026-07-27 05:06",
@@ -110,37 +142,5 @@
     "mensaje": "⚠️Afectado el servicio eléctrico en los siguientes circuitos:\n🔹Municipio Santa Clara:\n👉Cto 170 José Martí\n🔹Municipio Santo Domingo:\n👉Cto 134\n👉Ctos 87 y 96 Bermejal\n👉Cto 187 Batey Carlos Baliño\n👉Cto 82 Ulacia\n👉Cto 84 Rodrigo\n🔹Municipio Santa Clara:\n👉Cto 13 Zona Industrial",
     "timestamp": 1785100140,
     "timestamp_local": 1785100140
-  },
-  {
-    "id": 51797,
-    "fecha": "26 de Jul del 2026 a las 04:54 PM",
-    "hora_utc": "2026-07-26 20:54",
-    "mensaje": "⚠️Afectado el servicio eléctrico en el siguiente circuito:\n🔹Municipio Santa Clara:\n👉Cto 6 Vigía",
-    "timestamp": 1785099245,
-    "timestamp_local": 1785099245
-  },
-  {
-    "id": 51796,
-    "fecha": "26 de Jul del 2026 a las 04:31 PM",
-    "hora_utc": "2026-07-26 20:31",
-    "mensaje": "⚠️Afectado el servicio eléctrico en los siguientes circuitos:\n🔹Municipio Santa Clara:\n👉Ctos 30 y 193 Santa Clara Industrial\n🔹Municipio Santa Clara\n👉Cto 7 Universidad\n👉Cto 131 Las Antillas\n👉Cto 24 Planta Asfalto\n👉Cto 35 Biotecnología\n👉Cto 14  Maleza\n🔹Municipio Caibarién\n👉Cto 183 Van Troy",
-    "timestamp": 1785097882,
-    "timestamp_local": 1785097882
-  },
-  {
-    "id": 51795,
-    "fecha": "26 de Jul del 2026 a las 04:09 PM",
-    "hora_utc": "2026-07-26 20:09",
-    "mensaje": "⚠️Afectado el servicio eléctrico en los siguientes circuitos:\n🔹Municipio Santa Clara:\n👉Cto 5 Dobarganes\n👉Cto 17 Subplanta\n👉Cto 144 Camacho\n👉Cto 26 Manuelita",
-    "timestamp": 1785096564,
-    "timestamp_local": 1785096564
-  },
-  {
-    "id": 51794,
-    "fecha": "26 de Jul del 2026 a las 04:05 PM",
-    "hora_utc": "2026-07-26 20:05",
-    "mensaje": "Actualización del servicio eléctrico en la provincia.\n👉En este momento la afectación por déficit de capacidad de generación es de 142 MW, demanda máxima posible a apagar en estos momentos.\n👉De los circuitos apagables se mantienen afectados 92.\n👉Cuenta con 275 afectaciones por averías secundarias y de servicio.",
-    "timestamp": 1785096303,
-    "timestamp_local": 1785096303
   }
 ]
