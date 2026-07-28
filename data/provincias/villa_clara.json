@@ -1,5 +1,77 @@
 [
   {
+    "id": 51970,
+    "fecha": "28 de Jul del 2026 a las 10:59 AM",
+    "hora_utc": "2026-07-28 14:59",
+    "mensaje": "⚠️Afectado el servicio eléctrico en el siguiente circuito:\n🔹Municipio Santa Clara:\n👉Cto 27 Maleza",
+    "timestamp": 1785250759,
+    "timestamp_local": 1785250759
+  },
+  {
+    "id": 51969,
+    "fecha": "28 de Jul del 2026 a las 10:56 AM",
+    "hora_utc": "2026-07-28 14:56",
+    "mensaje": "💡Con servicio eléctrico el siguiente circuito:\n🔹Municipio Santa Clara:\n👉Cto 15  Maleza",
+    "timestamp": 1785250602,
+    "timestamp_local": 1785250602
+  },
+  {
+    "id": 51968,
+    "fecha": "28 de Jul del 2026 a las 10:39 AM",
+    "hora_utc": "2026-07-28 14:39",
+    "mensaje": "💡Con servicio eléctrico los siguientes circuitos:\n🔹Municipio Santa Clara:\n👉Cto 5 Dobarganes\n👉Cto 17 Subplanta",
+    "timestamp": 1785249580,
+    "timestamp_local": 1785249580
+  },
+  {
+    "id": 51967,
+    "fecha": "28 de Jul del 2026 a las 10:05 AM",
+    "hora_utc": "2026-07-28 14:05",
+    "mensaje": "💡Con servicio eléctrico el siguiente circuito:\n🔹Municipio Santa Clara:\n👉Cto 153 EIDE",
+    "timestamp": 1785247511,
+    "timestamp_local": 1785247511
+  },
+  {
+    "id": 51966,
+    "fecha": "28 de Jul del 2026 a las 10:01 AM",
+    "hora_utc": "2026-07-28 14:01",
+    "mensaje": "Actualización del servicio eléctrico en la provincia.\n👉En este momento la afectación por déficit de capacidad de generación es de 178 MW, demanda máxima posible a apagar en estos momentos.\n👉De los circuitos apagables se mantienen afectados 116.\n👉Cuenta con 367 afectaciones por averías secundarias y de servicio.",
+    "timestamp": 1785247268,
+    "timestamp_local": 1785247268
+  },
+  {
+    "id": 51964,
+    "fecha": "28 de Jul del 2026 a las 09:32 AM",
+    "hora_utc": "2026-07-28 13:32",
+    "mensaje": "⚠️Afectado el servicio eléctrico en el siguiente circuito:\n🔹Municipio Santa Clara:\n👉Cto 162 Santa Clara Industrial",
+    "timestamp": 1785245532,
+    "timestamp_local": 1785245532
+  },
+  {
+    "id": 51963,
+    "fecha": "28 de Jul del 2026 a las 09:30 AM",
+    "hora_utc": "2026-07-28 13:30",
+    "mensaje": "💡Con servicio eléctrico los siguientes circuitos:\n🔹Municipio Santa Clara:\n👉Cto  2  Consejo- Centro\n👉Cto 132 Santa Clara Industrial",
+    "timestamp": 1785245457,
+    "timestamp_local": 1785245457
+  },
+  {
+    "id": 51962,
+    "fecha": "28 de Jul del 2026 a las 08:38 AM",
+    "hora_utc": "2026-07-28 12:38",
+    "mensaje": "💡Restablecido el servicio eléctrico en los siguientes circuitos:\n 🔹Municipio Santa Clara:\n👉Cto 30 y 193 Santa Clara Industrial",
+    "timestamp": 1785242329,
+    "timestamp_local": 1785242329
+  },
+  {
+    "id": 51961,
+    "fecha": "28 de Jul del 2026 a las 08:30 AM",
+    "hora_utc": "2026-07-28 12:30",
+    "mensaje": "⚡En avería de manera parcial el circuito 146 Elevado Aeropuerto.",
+    "timestamp": 1785241840,
+    "timestamp_local": 1785241840
+  },
+  {
     "id": 51960,
     "fecha": "28 de Jul del 2026 a las 08:19 AM",
     "hora_utc": "2026-07-28 12:19",
@@ -75,88 +147,8 @@
     "id": 51949,
     "fecha": "28 de Jul del 2026 a las 06:04 AM",
     "hora_utc": "2026-07-28 10:04",
-    "mensaje": "⚡La provincia presenta 6 averías primarias:\n➡️Cto 108 La Piedra, del municipio Manicaragua. Afectado el ramal a Boquerones.\n➡️Cto 111 Matagua de manera parcial, del municipio Manicaragua. Afectados por cables primarios partidos el ramal a Jorobada y el ramal a Curamaguey\n➡️En avería de manera el Cto 141 Manuelita, perteneciente al municipio Santa Clara, se estudian las causas.\n➡️Afectados por emergencia por cable primario partido los siguientes circuitos:\n🔹Municipio Santa Clara:\n👉Cto 16 Cubanacán \n➡️Afectado parcial Cto 107 Baez , perteneciente al Municipio Placetas, por cable primario partido afectando la zona de la Minglera y 1ro de Enero\n➡️Afectada Línea 1960 parcial quedando afectados los siguientes circuitos\n➡️Línea 1960 \n🔹Municipio Encrucijada\n👉Ctos 121 y 127 Perucho\n➡️Afectada Línea 1375 por 33kv, cable partido de alta tensión afectando los siguientes circuitos:\n🔸Línea 1375\n🔹Municipio Caibarién\n👉Ctos 63 y 64\n👉Cto 182 Van Troy\n👉Cto 183 Van Troy (Déficit)\n👉Cto 65 Dolores (Déficit)",
+    "mensaje": "⚡La provincia presenta 6 averías primarias:\n➡️Cto 108 La Piedra, del municipio Manicaragua. Afectado el ramal a Boquerones.\n➡️Cto 111 Matagua de manera parcial, del municipio Manicaragua. Afectados por cables primarios partidos el ramal a Jorobada y el ramal a Curamaguey\n➡️En avería de manera el Cto 141 Manuelita, perteneciente al municipio Santa Clara, se estudian las causas.\n➡️Afectado por emergencia por cable primario partido el siguiente circuito:\n🔹Municipio Santa Clara:\n👉Cto 16 Cubanacán \n➡️Afectado parcial Cto 107 Baez , perteneciente al Municipio Placetas, por cable primario partido afectando la zona de la Minglera y 1ro de Enero\n➡️Afectada Línea 1960 parcial quedando afectados los siguientes circuitos\n➡️Línea 1960 \n🔹Municipio Encrucijada\n👉Ctos 121 y 127 Perucho\n➡️Afectada Línea 1375 por 33kv, cable partido de alta tensión afectando los siguientes circuitos:\n🔸Línea 1375\n🔹Municipio Caibarién\n👉Ctos 63 y 64\n👉Cto 182 Van Troy\n👉Cto 183 Van Troy (Déficit)\n👉Cto 65 Dolores (Déficit)",
     "timestamp": 1785233068,
     "timestamp_local": 1785233068
-  },
-  {
-    "id": 51948,
-    "fecha": "28 de Jul del 2026 a las 06:03 AM",
-    "hora_utc": "2026-07-28 10:03",
-    "mensaje": "🕕Actualización del servicio eléctrico.\n✍️El déficit de capacidad de generación en estos momentos es de 190__ MW__\n✍️__En el momento de esta nota, se mantienen afectados__  121 circuitos.\n✍️ Cuenta con __ 367 afectaciones por averías secundarias y de servicio:__\n🔸__ Caibarién (1)__\n🔸__ Camajuaní (3)__\n🔸__ Cifuentes (3)__\n🔸__ Corralillo (3)__\n🔸__ Encrucijada (3)__\n🔸__ Manicaragua (11)__\n🔸__ Placetas (17)__\n🔸__ Quemado (1)__\n🔸__ Ranchuelo (7)__\n🔸__ Remedios (13)__ \n🔸__ Sagua (9)__ \n🔸__ Santa Clara (268)__\n🔸__ Santo Domingo (5)__\n🛠️__Se encuentran 2__ averías en vías de solución.\n🛠️Pendientes a solucionar por el área técnica 22.",
-    "timestamp": 1785232989,
-    "timestamp_local": 1785232989
-  },
-  {
-    "id": 51947,
-    "fecha": "28 de Jul del 2026 a las 05:53 AM",
-    "hora_utc": "2026-07-28 09:53",
-    "mensaje": "➡️Los disparos de circuito tienen diferentes aristas todas con distintos significados, es decir que ocurren por varias causas. Entre ellas encontramos:\n\n👉-Disparo de Circuito con Recierre: El conocido por los clientes como “quita y pon de corriente” es un tipo de protección utilizada mundialmente a partir del 80% aproximadamente de las interrupciones eléctricas son transitorias. Este fenómeno lo hace una sola vez ante un evento de red y no es dañino para para nuestros equipos electrodomésticos.\n\n👉- Disparo Automático por Frecuencia (DAF): El disparo por DAF ocurre cuando la frecuencia llega a valores mínimos permisibles que ponen en peligro la estabilidad del mismo y como protección desconecta varios circuitos de la Capital. Los mismo restablecen a medida que se vaya recuperando la frecuencia que tiene un valor de 60hz o ciclos por segundo.\n\n👉-Disparo de Circuito por Sobrecarga: Este ocurre mayormente en los horarios pico y en verano, ya que las altas temperaturas generan elevados consumos en la población y como consecuencia de ello fallas en los circuitos.\n\n👉-Disparo de Circuito por Posible Avería: Este fenómeno ocurre cuando existe una falla en algún circuito, ya sea soterrado, aéreo o en una subestación. Estas, a pesar de que son mucho más frecuentes cuando existe algún evento climatológico, pueden ocurrir en cualquier momento del día o la noche, ya que son situaciones que no cuentan con programación.",
-    "timestamp": 1785232388,
-    "timestamp_local": 1785232388
-  },
-  {
-    "id": 51946,
-    "fecha": "28 de Jul del 2026 a las 05:52 AM",
-    "hora_utc": "2026-07-28 09:52",
-    "mensaje": "⚡Disparado el Cto 141 Manuelita , perteneciente al Municipio Santa Clara después de restablecido el servicio, se estudian las causas",
-    "timestamp": 1785232366,
-    "timestamp_local": 1785232366
-  },
-  {
-    "id": 51945,
-    "fecha": "28 de Jul del 2026 a las 05:43 AM",
-    "hora_utc": "2026-07-28 09:43",
-    "mensaje": "⚠️Afectado el servicio eléctrico en los siguientes circuitos:\n🔹Municipio Santa Clara: \n👉Cto 168  y 169 Condado\n👉Cto 28 Monumento Che",
-    "timestamp": 1785231791,
-    "timestamp_local": 1785231791
-  },
-  {
-    "id": 51944,
-    "fecha": "28 de Jul del 2026 a las 05:08 AM",
-    "hora_utc": "2026-07-28 09:08",
-    "mensaje": "💡Con servicio eléctrico los siguientes circuitos:\n🔹Municipio Santa Clara\n👉Ctos 26 y 141 Manuelita",
-    "timestamp": 1785229720,
-    "timestamp_local": 1785229720
-  },
-  {
-    "id": 51943,
-    "fecha": "28 de Jul del 2026 a las 04:48 AM",
-    "hora_utc": "2026-07-28 08:48",
-    "mensaje": "⚠️Afectado el servicio eléctrico en los siguientes circuitos:\n🔹Municipio Santa Clara: \n👉Cto 1 y 4 Centro",
-    "timestamp": 1785228508,
-    "timestamp_local": 1785228508
-  },
-  {
-    "id": 51942,
-    "fecha": "28 de Jul del 2026 a las 04:44 AM",
-    "hora_utc": "2026-07-28 08:44",
-    "mensaje": "💡Con servicio eléctrico los siguientes circuitos:\n🔹Municipio Santa Clara:\n👉Cto 144 Camacho\n👉Cto 7 Universidad\n👉Cto 131 Las Antillas\n👉Cto 27 Maleza\n👉Ctos 23 y 130 La Ceniza\n👉Cto 42 Manajanabo\n🔹Municipio Placetas\n👉Cto 139 Miller\n👉Cto 190 Oliver\n👉Cto 106 Falcón\n👉Cto  98 Placetas",
-    "timestamp": 1785228248,
-    "timestamp_local": 1785228248
-  },
-  {
-    "id": 51941,
-    "fecha": "28 de Jul del 2026 a las 04:28 AM",
-    "hora_utc": "2026-07-28 08:28",
-    "mensaje": "💡Con servicio eléctrico el siguiente circuito:\n🔹Municipio Santa Clara: \n👉Cto 13 Zona Industrial",
-    "timestamp": 1785227297,
-    "timestamp_local": 1785227297
-  },
-  {
-    "id": 51940,
-    "fecha": "28 de Jul del 2026 a las 04:20 AM",
-    "hora_utc": "2026-07-28 08:20",
-    "mensaje": "💡Con servicio eléctrico el siguiente circuito:\n🔹Municipio Santa Clara: \n👉Cto 30 Santa Clara Industrial",
-    "timestamp": 1785226814,
-    "timestamp_local": 1785226814
-  },
-  {
-    "id": 51939,
-    "fecha": "28 de Jul del 2026 a las 04:19 AM",
-    "hora_utc": "2026-07-28 08:19",
-    "mensaje": "⚠️Afectado el servicio eléctrico en el siguiente circuito:\n🔹Municipio Santa Clara: \n👉Cto 166 Condado",
-    "timestamp": 1785226773,
-    "timestamp_local": 1785226773
   }
 ]
