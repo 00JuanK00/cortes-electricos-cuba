@@ -1,5 +1,37 @@
 [
   {
+    "id": 20596,
+    "fecha": "28 de Jul del 2026 a las 07:22 AM",
+    "hora_utc": "2026-07-28 11:22",
+    "mensaje": "🛠Se declara en avería el circuito 33Kv 6310 Subestación El Roble, Vázquez hasta la Unidad Militar.",
+    "timestamp": 1785237743,
+    "timestamp_local": 1785237743
+  },
+  {
+    "id": 20595,
+    "fecha": "28 de Jul del 2026 a las 07:17 AM",
+    "hora_utc": "2026-07-28 11:17",
+    "mensaje": "Restablecida la avería del circuito de 33kv 6820",
+    "timestamp": 1785237441,
+    "timestamp_local": 1785237441
+  },
+  {
+    "id": 20594,
+    "fecha": "28 de Jul del 2026 a las 07:10 AM",
+    "hora_utc": "2026-07-28 11:10",
+    "mensaje": "🔊Informamos a nuestros clientes que en este momento nos encontramos en la máxima capacidad apagable, lo que impide el restablecimiento inmediato del servicio eléctrico en los circuitos afectados. La situación podrá mejorar en la medida en que el Sistema Electroenergético Nacional permita recuperar la capacidad de generación.Ofrecemos disculpas por las molestas ocasionadas",
+    "timestamp": 1785237024,
+    "timestamp_local": 1785237024
+  },
+  {
+    "id": 20593,
+    "fecha": "28 de Jul del 2026 a las 06:40 AM",
+    "hora_utc": "2026-07-28 10:40",
+    "mensaje": "🔔 Al cierre de las 6:40horas pm del día 28/07/2026 nuestro sistema registra un total de 263 interrupciones pendientes en la provincia.\n♦️ Interrupciones pendientes: \n-Amancio:16\n-Jobabo: 6\n-Colombia:10\n-Puerto Padre:22\n-Menéndez: 5\n-Manatí:-\n-Majibacoa:7\n-Las Tunas:197 \n♦️Interrupciones pendientes a solución:\n-Amancio:4\n-Jobabo: 3\n-Colombia:4\n-Puerto Padre:18\n-Menéndez: 7\n-Manatí:-\n-Majibacoa:2\n-Las Tunas:36\n🔔El municipio registra un total de 60 transformadores dañados, de ellos 38 residenciales y 22 estatales.",
+    "timestamp": 1785235237,
+    "timestamp_local": 1785235237
+  },
+  {
     "id": 20592,
     "fecha": "28 de Jul del 2026 a las 04:36 AM",
     "hora_utc": "2026-07-28 08:36",
@@ -78,29 +110,5 @@
     "mensaje": "A las 1809 horas Disparo de la línea Tuna 110 Kv. Se trabaja para restablecer lo más pronto posible",
     "timestamp": 1785190781,
     "timestamp_local": 1785190781
-  },
-  {
-    "id": 20576,
-    "fecha": "27 de Jul del 2026 a las 06:19 PM",
-    "hora_utc": "2026-07-27 22:19",
-    "mensaje": "A las 1800 horas Disparo en la Línea Tunas- Holguín por tormenta.",
-    "timestamp": 1785190743,
-    "timestamp_local": 1785190743
-  },
-  {
-    "id": 20575,
-    "fecha": "27 de Jul del 2026 a las 05:57 PM",
-    "hora_utc": "2026-07-27 21:57",
-    "mensaje": "En la provincia se encuentran disparados 27 transformadores y 58 dañados, de ellos 36 en el sector residencial y 22 en el estatal. Reportadas 265 interrupciones de servicio y pendiente a solución 72. El municipio con mayor incidencia es Las Tunas.",
-    "timestamp": 1785189421,
-    "timestamp_local": 1785189421
-  },
-  {
-    "id": 20573,
-    "fecha": "27 de Jul del 2026 a las 05:36 PM",
-    "hora_utc": "2026-07-27 21:36",
-    "mensaje": "Se declaran en avería los siguientes circuitos :\nCircuito 33 Kv: 6820 Poblado Amancio\nTK75 Vicente Pérez \nTK77 San Alberto\nTK78 Ana Luisa\nTK76 El Paraíso",
-    "timestamp": 1785188217,
-    "timestamp_local": 1785188217
   }
 ]
