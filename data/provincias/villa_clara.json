@@ -1,5 +1,53 @@
 [
   {
+    "id": 51988,
+    "fecha": "28 de Jul del 2026 a las 02:01 PM",
+    "hora_utc": "2026-07-28 18:01",
+    "mensaje": "⚠️Afectado el servicio eléctrico en el siguiente circuito:\n🔹Municipio Santa Clara:\n👉Cto  2  Consejo- Centro",
+    "timestamp": 1785261668,
+    "timestamp_local": 1785261668
+  },
+  {
+    "id": 51987,
+    "fecha": "28 de Jul del 2026 a las 01:55 PM",
+    "hora_utc": "2026-07-28 17:55",
+    "mensaje": "💡Con servicio eléctrico el siguiente circuito:\n🔹Municipio Santa Clara:\n👉Cto 4 Consejo Centro",
+    "timestamp": 1785261330,
+    "timestamp_local": 1785261330
+  },
+  {
+    "id": 51986,
+    "fecha": "28 de Jul del 2026 a las 01:50 PM",
+    "hora_utc": "2026-07-28 17:50",
+    "mensaje": "‼️Afectada por emergencia la Línea 1910.\n➡️Línea 1910\n🔹Municipio Placetas \n👉Ctos 100 y 151 Placetas\n👉Cto 104 Hermanos Amejeiras\n👉Cto 103 Batey Carbó Servía",
+    "timestamp": 1785261055,
+    "timestamp_local": 1785261055
+  },
+  {
+    "id": 51985,
+    "fecha": "28 de Jul del 2026 a las 01:48 PM",
+    "hora_utc": "2026-07-28 17:48",
+    "mensaje": "⚠️Afectado el servicio eléctrico en los siguientes circuitos:\n🔹Municipio Camajuaní:\n👉Ctos 72 y 129",
+    "timestamp": 1785260937,
+    "timestamp_local": 1785260937
+  },
+  {
+    "id": 51984,
+    "fecha": "28 de Jul del 2026 a las 01:46 PM",
+    "hora_utc": "2026-07-28 17:46",
+    "mensaje": "💡Restablecido el servicio eléctrico en el siguiente circuito:\n🔹Municipio Santa Clara:\n👉Cto 6 Vigía",
+    "timestamp": 1785260779,
+    "timestamp_local": 1785260779
+  },
+  {
+    "id": 51983,
+    "fecha": "28 de Jul del 2026 a las 01:44 PM",
+    "hora_utc": "2026-07-28 17:44",
+    "mensaje": "💡Restablecido el servicio eléctrico en el siguiente circuito:\n🔹Municipio Camajuaní:\n👉Cto 157 Luis Arcos Bergnes",
+    "timestamp": 1785260669,
+    "timestamp_local": 1785260669
+  },
+  {
     "id": 51982,
     "fecha": "28 de Jul del 2026 a las 12:24 PM",
     "hora_utc": "2026-07-28 16:24",
@@ -110,45 +158,5 @@
     "mensaje": "💡Con servicio eléctrico el siguiente circuito:\n🔹Municipio Santa Clara:\n👉Cto 153 EIDE",
     "timestamp": 1785247511,
     "timestamp_local": 1785247511
-  },
-  {
-    "id": 51966,
-    "fecha": "28 de Jul del 2026 a las 10:01 AM",
-    "hora_utc": "2026-07-28 14:01",
-    "mensaje": "Actualización del servicio eléctrico en la provincia.\n👉En este momento la afectación por déficit de capacidad de generación es de 178 MW, demanda máxima posible a apagar en estos momentos.\n👉De los circuitos apagables se mantienen afectados 116.\n👉Cuenta con 367 afectaciones por averías secundarias y de servicio.",
-    "timestamp": 1785247268,
-    "timestamp_local": 1785247268
-  },
-  {
-    "id": 51964,
-    "fecha": "28 de Jul del 2026 a las 09:32 AM",
-    "hora_utc": "2026-07-28 13:32",
-    "mensaje": "⚠️Afectado el servicio eléctrico en el siguiente circuito:\n🔹Municipio Santa Clara:\n👉Cto 162 Santa Clara Industrial",
-    "timestamp": 1785245532,
-    "timestamp_local": 1785245532
-  },
-  {
-    "id": 51963,
-    "fecha": "28 de Jul del 2026 a las 09:30 AM",
-    "hora_utc": "2026-07-28 13:30",
-    "mensaje": "💡Con servicio eléctrico los siguientes circuitos:\n🔹Municipio Santa Clara:\n👉Cto  2  Consejo- Centro\n👉Cto 132 Santa Clara Industrial",
-    "timestamp": 1785245457,
-    "timestamp_local": 1785245457
-  },
-  {
-    "id": 51962,
-    "fecha": "28 de Jul del 2026 a las 08:38 AM",
-    "hora_utc": "2026-07-28 12:38",
-    "mensaje": "💡Restablecido el servicio eléctrico en los siguientes circuitos:\n 🔹Municipio Santa Clara:\n👉Cto 30 y 193 Santa Clara Industrial",
-    "timestamp": 1785242329,
-    "timestamp_local": 1785242329
-  },
-  {
-    "id": 51961,
-    "fecha": "28 de Jul del 2026 a las 08:30 AM",
-    "hora_utc": "2026-07-28 12:30",
-    "mensaje": "⚡En avería de manera parcial el circuito 146 Elevado Aeropuerto.",
-    "timestamp": 1785241840,
-    "timestamp_local": 1785241840
   }
 ]
