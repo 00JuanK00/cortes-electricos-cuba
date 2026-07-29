@@ -1,5 +1,29 @@
 [
   {
+    "id": 52000,
+    "fecha": "29 de Jul del 2026 a las 05:36 PM",
+    "hora_utc": "2026-07-29 21:36",
+    "mensaje": "⚠️Afectado el servicio eléctrico en los siguientes circuitos:\n🔹Municipio Camajuaní:\n👉Ctos 73 y 156",
+    "timestamp": 1785360996,
+    "timestamp_local": 1785360996
+  },
+  {
+    "id": 51999,
+    "fecha": "29 de Jul del 2026 a las 05:32 PM",
+    "hora_utc": "2026-07-29 21:32",
+    "mensaje": "⚠️Afectado el servicio eléctrico en los siguientes circuitos:\n🔹Municipio Santa Clara:\n👉Ctos 2 y 4 Consejo-Centro",
+    "timestamp": 1785360751,
+    "timestamp_local": 1785360751
+  },
+  {
+    "id": 51998,
+    "fecha": "29 de Jul del 2026 a las 05:23 PM",
+    "hora_utc": "2026-07-29 21:23",
+    "mensaje": "⚠️Afectado el servicio eléctrico en los siguientes circuitos:\n🔹Municipio Placetas:\n👉Ctos 101 y 145 Cumbre",
+    "timestamp": 1785360191,
+    "timestamp_local": 1785360191
+  },
+  {
     "id": 51997,
     "fecha": "29 de Jul del 2026 a las 04:54 PM",
     "hora_utc": "2026-07-29 20:54",
@@ -94,29 +118,5 @@
     "mensaje": "💡Con servicio eléctrico el siguiente circuito:\n🔹Municipio Santa Clara:\n👉Cto 170 José Martí",
     "timestamp": 1785255293,
     "timestamp_local": 1785255293
-  },
-  {
-    "id": 51979,
-    "fecha": "28 de Jul del 2026 a las 12:06 PM",
-    "hora_utc": "2026-07-28 16:06",
-    "mensaje": "⚡Continúa afectado por avería el circuito 157 Luis Arcos Bergnes, del municipio Camajuani.",
-    "timestamp": 1785254797,
-    "timestamp_local": 1785254797
-  },
-  {
-    "id": 51978,
-    "fecha": "28 de Jul del 2026 a las 12:05 PM",
-    "hora_utc": "2026-07-28 16:05",
-    "mensaje": "💡Restablecido el servicio eléctrico en los siguientes circuitos:\n🔹Municipio Camajuaní:\n👉Cto 75 La Quinta\n👉Ctos 76 y 90 Vega Alta",
-    "timestamp": 1785254707,
-    "timestamp_local": 1785254707
-  },
-  {
-    "id": 51977,
-    "fecha": "28 de Jul del 2026 a las 12:00 PM",
-    "hora_utc": "2026-07-28 16:00",
-    "mensaje": "⚡ Averías primarias:\n➡️Cto 108 La Piedra, del municipio Manicaragua. Afectado el ramal a Boquerones.\n➡️Cto 111 Matagua de manera parcial, del municipio Manicaragua. Afectados por cables primarios partidos el ramal a Jorobada y el ramal a Curamaguey\n➡️En avería de manera el Cto 141 Manuelita, perteneciente al municipio Santa Clara.\n➡️Afectado por emergencia por cable primario partido el siguiente circuito:\n🔹Municipio Santa Clara:\n👉Cto 16 Cubanacán \n➡️Afectado parcial Cto 107 Baez , perteneciente al Municipio Placetas, por cable primario partido afectando la zona de la Minglera y 1ro de Enero\n➡️Afectada Línea 1960 parcial quedando afectados los siguientes circuitos\n➡️Línea 1960 \n🔹Municipio Encrucijada\n👉Ctos 121 y 127 Perucho\n➡️Afectada Línea 1375 por 33kv, cable partido de alta tensión. \n\n👉 En avería de manera parcial Línea 1205\n\n👉Línea 1915 de manera parcial.\n👉Línea 1955 de manera parcial.\n🔹Municipio Camajuaní:\n👉Cto 75 La Quinta\n👉Ctos 76 y 90 Vega Alta\n👉Cto 157 Luis Arcos Bergnes",
-    "timestamp": 1785254456,
-    "timestamp_local": 1785254456
   }
 ]
