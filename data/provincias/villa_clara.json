@@ -1,5 +1,53 @@
 [
   {
+    "id": 52010,
+    "fecha": "29 de Jul del 2026 a las 07:08 PM",
+    "hora_utc": "2026-07-29 23:08",
+    "mensaje": "⚠️Afectado el servicio eléctrico en los siguientes circuitos:\n🔹Municipio Corralillo:\n👉Ctos 58 y 159",
+    "timestamp": 1785366511,
+    "timestamp_local": 1785366511
+  },
+  {
+    "id": 52009,
+    "fecha": "29 de Jul del 2026 a las 07:00 PM",
+    "hora_utc": "2026-07-29 23:00",
+    "mensaje": "⚠️Afectado el servicio eléctrico en el siguiente circuito:\n🔹Municipio Santa Clara:\n👉Cto 166 Condado",
+    "timestamp": 1785366009,
+    "timestamp_local": 1785366009
+  },
+  {
+    "id": 52008,
+    "fecha": "29 de Jul del 2026 a las 06:46 PM",
+    "hora_utc": "2026-07-29 22:46",
+    "mensaje": "⚠️Afectado el servicio eléctrico en el siguiente circuito:\n🔹Municipio Sagua:\n👉Cto 44 Isabela",
+    "timestamp": 1785365204,
+    "timestamp_local": 1785365204
+  },
+  {
+    "id": 52007,
+    "fecha": "29 de Jul del 2026 a las 06:44 PM",
+    "hora_utc": "2026-07-29 22:44",
+    "mensaje": "⚠️Afectado el servicio eléctrico en los siguientes circuitos:\n🔹Municipio Santa Clara:\n👉Ctos 30 y 193 Santa Clara Industrial",
+    "timestamp": 1785365055,
+    "timestamp_local": 1785365055
+  },
+  {
+    "id": 52006,
+    "fecha": "29 de Jul del 2026 a las 06:43 PM",
+    "hora_utc": "2026-07-29 22:43",
+    "mensaje": "⚠️Afectado el servicio eléctrico en el siguiente circuito:\n🔹Municipio Camajuaní:\n👉Cto 59 Vueltas",
+    "timestamp": 1785365000,
+    "timestamp_local": 1785365000
+  },
+  {
+    "id": 52005,
+    "fecha": "29 de Jul del 2026 a las 06:39 PM",
+    "hora_utc": "2026-07-29 22:39",
+    "mensaje": "⚠️Afectado el servicio eléctrico en el siguiente circuito:\n🔹Municipio Caibarién:\n👉Cto 182 Van Troi",
+    "timestamp": 1785364758,
+    "timestamp_local": 1785364758
+  },
+  {
     "id": 52004,
     "fecha": "29 de Jul del 2026 a las 06:16 PM",
     "hora_utc": "2026-07-29 22:16",
@@ -78,45 +126,5 @@
     "mensaje": "⚠️Afectado el servicio eléctrico en los siguientes circuitos:\n🔹Municipio Remedios:\n👉 Ctos 68 y 118",
     "timestamp": 1785358077,
     "timestamp_local": 1785358077
-  },
-  {
-    "id": 51988,
-    "fecha": "28 de Jul del 2026 a las 02:01 PM",
-    "hora_utc": "2026-07-28 18:01",
-    "mensaje": "⚠️Afectado el servicio eléctrico en el siguiente circuito:\n🔹Municipio Santa Clara:\n👉Cto  2  Consejo- Centro",
-    "timestamp": 1785261668,
-    "timestamp_local": 1785261668
-  },
-  {
-    "id": 51987,
-    "fecha": "28 de Jul del 2026 a las 01:55 PM",
-    "hora_utc": "2026-07-28 17:55",
-    "mensaje": "💡Con servicio eléctrico el siguiente circuito:\n🔹Municipio Santa Clara:\n👉Cto 4 Consejo Centro",
-    "timestamp": 1785261330,
-    "timestamp_local": 1785261330
-  },
-  {
-    "id": 51986,
-    "fecha": "28 de Jul del 2026 a las 01:50 PM",
-    "hora_utc": "2026-07-28 17:50",
-    "mensaje": "‼️Afectada por emergencia la Línea 1910.\n➡️Línea 1910\n🔹Municipio Placetas \n👉Ctos 100 y 151 Placetas\n👉Cto 104 Hermanos Amejeiras\n👉Cto 103 Batey Carbó Servía",
-    "timestamp": 1785261055,
-    "timestamp_local": 1785261055
-  },
-  {
-    "id": 51985,
-    "fecha": "28 de Jul del 2026 a las 01:48 PM",
-    "hora_utc": "2026-07-28 17:48",
-    "mensaje": "⚠️Afectado el servicio eléctrico en los siguientes circuitos:\n🔹Municipio Camajuaní:\n👉Ctos 72 y 129",
-    "timestamp": 1785260937,
-    "timestamp_local": 1785260937
-  },
-  {
-    "id": 51984,
-    "fecha": "28 de Jul del 2026 a las 01:46 PM",
-    "hora_utc": "2026-07-28 17:46",
-    "mensaje": "💡Restablecido el servicio eléctrico en el siguiente circuito:\n🔹Municipio Santa Clara:\n👉Cto 6 Vigía",
-    "timestamp": 1785260779,
-    "timestamp_local": 1785260779
   }
 ]
