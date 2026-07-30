@@ -1,5 +1,61 @@
 [
   {
+    "id": 118226,
+    "fecha": "30 de Jul del 2026 a las 02:08 AM",
+    "hora_utc": "2026-07-30 06:08",
+    "mensaje": "♦️Informamos a los clientes del los siguientes circuitos que se encuentran afectados por disparo en las líneas:\n*3655\n*ML-35♦️",
+    "timestamp": 1785391717,
+    "timestamp_local": 1785391717
+  },
+  {
+    "id": 118224,
+    "fecha": "30 de Jul del 2026 a las 01:37 AM",
+    "hora_utc": "2026-07-30 05:37",
+    "mensaje": "🚨Por déficit de capacidad de generación se afecta el servicio en los siguientes circuitos:\n*Nazareno\n*Babiney🚨",
+    "timestamp": 1785389822,
+    "timestamp_local": 1785389822
+  },
+  {
+    "id": 118223,
+    "fecha": "30 de Jul del 2026 a las 01:37 AM",
+    "hora_utc": "2026-07-30 05:37",
+    "mensaje": "🚨Por déficit de capacidad de generación se afecta el servicio en el siguiente circuito:\n*Salud 1🚨",
+    "timestamp": 1785389820,
+    "timestamp_local": 1785389820
+  },
+  {
+    "id": 118222,
+    "fecha": "30 de Jul del 2026 a las 01:19 AM",
+    "hora_utc": "2026-07-30 05:19",
+    "mensaje": "🚨Por déficit de capacidad de generación se afecta el servicio en el siguiente circuito:\n*Palomo 🚨",
+    "timestamp": 1785388756,
+    "timestamp_local": 1785388756
+  },
+  {
+    "id": 118220,
+    "fecha": "30 de Jul del 2026 a las 12:31 AM",
+    "hora_utc": "2026-07-30 04:31",
+    "mensaje": "🚨Por déficit de capacidad de generación se afecta el servicio en el siguiente circuito:\n*8 de San José 🚨",
+    "timestamp": 1785385913,
+    "timestamp_local": 1785385913
+  },
+  {
+    "id": 118218,
+    "fecha": "30 de Jul del 2026 a las 12:00 AM",
+    "hora_utc": "2026-07-30 04:00",
+    "mensaje": "🚨Por déficit de capacidad de generación se afecta el servicio en el siguiente circuito:\n*Surgidero 🚨",
+    "timestamp": 1785384005,
+    "timestamp_local": 1785384005
+  },
+  {
+    "id": 118217,
+    "fecha": "30 de Jul del 2026 a las 12:00 AM",
+    "hora_utc": "2026-07-30 04:00",
+    "mensaje": "🚨Por déficit de capacidad de generación se afecta el servicio en el siguiente circuito:\n*Héctor Molina 🚨",
+    "timestamp": 1785384004,
+    "timestamp_local": 1785384004
+  },
+  {
     "id": 118216,
     "fecha": "29 de Jul del 2026 a las 10:29 PM",
     "hora_utc": "2026-07-30 02:29",
@@ -86,61 +142,5 @@
     "mensaje": "🚨Por déficit de capacidad de generación se afecta el servicio en el siguiente circuito:\n*Río Seco 🚨",
     "timestamp": 1785367474,
     "timestamp_local": 1785367474
-  },
-  {
-    "id": 118205,
-    "fecha": "29 de Jul del 2026 a las 07:20 PM",
-    "hora_utc": "2026-07-29 23:20",
-    "mensaje": "🚨Por déficit de capacidad de generación se afecta el servicio en el siguiente circuito:\n*Vegas 🚨",
-    "timestamp": 1785367252,
-    "timestamp_local": 1785367252
-  },
-  {
-    "id": 118204,
-    "fecha": "29 de Jul del 2026 a las 07:17 PM",
-    "hora_utc": "2026-07-29 23:17",
-    "mensaje": "🚨Por déficit de capacidad de generación se afecta el servicio en el siguiente circuito:\n*Melena 1 🚨",
-    "timestamp": 1785367073,
-    "timestamp_local": 1785367073
-  },
-  {
-    "id": 118203,
-    "fecha": "29 de Jul del 2026 a las 07:12 PM",
-    "hora_utc": "2026-07-29 23:12",
-    "mensaje": "🚨Por déficit de capacidad de generación se afecta el servicio en el siguiente circuito:\n*Los Palos 1 🚨",
-    "timestamp": 1785366747,
-    "timestamp_local": 1785366747
-  },
-  {
-    "id": 118201,
-    "fecha": "29 de Jul del 2026 a las 06:17 PM",
-    "hora_utc": "2026-07-29 22:17",
-    "mensaje": "🚨Por déficit de capacidad de generación se afecta el servicio en los siguientes circuitos:\n*2 de San José\n*Fénix🚨",
-    "timestamp": 1785363475,
-    "timestamp_local": 1785363475
-  },
-  {
-    "id": 118200,
-    "fecha": "29 de Jul del 2026 a las 06:09 PM",
-    "hora_utc": "2026-07-29 22:09",
-    "mensaje": "🚨Por déficit de capacidad de generación se afecta el servicio en el siguiente circuito:\n*Vedado\n*Banco de Sangre de Güines🚨",
-    "timestamp": 1785362983,
-    "timestamp_local": 1785362983
-  },
-  {
-    "id": 118199,
-    "fecha": "29 de Jul del 2026 a las 05:47 PM",
-    "hora_utc": "2026-07-29 21:47",
-    "mensaje": "🚨Por déficit de capacidad de generación se afecta el servicio en el siguiente circuito:\n*Bio 2 🚨",
-    "timestamp": 1785361670,
-    "timestamp_local": 1785361670
-  },
-  {
-    "id": 118196,
-    "fecha": "29 de Jul del 2026 a las 05:24 PM",
-    "hora_utc": "2026-07-29 21:24",
-    "mensaje": "🔷Normalizado el servicio en el circuito Acueductos Integrales🔷",
-    "timestamp": 1785360297,
-    "timestamp_local": 1785360297
   }
 ]
