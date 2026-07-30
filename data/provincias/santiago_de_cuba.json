@@ -1,5 +1,21 @@
 [
   {
+    "id": 56431,
+    "fecha": "30 de Jul del 2026 a las 09:00 AM",
+    "hora_utc": "2026-07-30 13:00",
+    "mensaje": "🔉🚨Estimados clientes en estos momentos se encuentra afectado por Déficit de Capacidad de Generación la línea 5385 San Luis, disculpen por las molestias ocasionadas.",
+    "timestamp": 1785416445,
+    "timestamp_local": 1785416445
+  },
+  {
+    "id": 56429,
+    "fecha": "30 de Jul del 2026 a las 07:39 AM",
+    "hora_utc": "2026-07-30 11:39",
+    "mensaje": "➡️➡️ **Déficit de Capacidad de Generación**:⬅️\nSe produce cuando la demanda del Sistema Eléctrico Nacional, en determinado horario del día supera la generación disponible del país, provocando la desconexión de los circuitos o líneas que permitan garantizar la frecuencia del SEN.",
+    "timestamp": 1785411578,
+    "timestamp_local": 1785411578
+  },
+  {
     "id": 56428,
     "fecha": "30 de Jul del 2026 a las 07:10 AM",
     "hora_utc": "2026-07-30 11:10",
@@ -110,29 +126,5 @@
     "mensaje": "🚨 Estimados clientes , se incorpora a la afectación los circuitos 2 y 10...",
     "timestamp": 1785377933,
     "timestamp_local": 1785377933
-  },
-  {
-    "id": 56411,
-    "fecha": "29 de Jul del 2026 a las 09:43 PM",
-    "hora_utc": "2026-07-30 01:43",
-    "mensaje": "🚨 Se les informa a nuestros clientes que los circuitos 12 ,15 y 16 quedan afectados por  Emergencia ... Se les ofrece disculpas por las molestias que esto pueda ocasionar..",
-    "timestamp": 1785375816,
-    "timestamp_local": 1785375816
-  },
-  {
-    "id": 56410,
-    "fecha": "29 de Jul del 2026 a las 08:57 PM",
-    "hora_utc": "2026-07-30 00:57",
-    "mensaje": "🚨 Estimados clientes , en estos momentos  queda afectado el circuito 25...",
-    "timestamp": 1785373041,
-    "timestamp_local": 1785373041
-  },
-  {
-    "id": 56409,
-    "fecha": "29 de Jul del 2026 a las 08:23 PM",
-    "hora_utc": "2026-07-30 00:23",
-    "mensaje": "🚨 Se les informa a nuestros clientes que  se encuentra  disparado el circuito 12",
-    "timestamp": 1785370982,
-    "timestamp_local": 1785370982
   }
 ]
