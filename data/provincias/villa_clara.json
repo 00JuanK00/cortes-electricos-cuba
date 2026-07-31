@@ -1,5 +1,29 @@
 [
   {
+    "id": 52110,
+    "fecha": "31 de Jul del 2026 a las 04:01 AM",
+    "hora_utc": "2026-07-31 08:01",
+    "mensaje": "Actualización del servicio eléctrico en la provincia.\n👉En este momento la afectación por déficit de capacidad de generación es de 199 MW, demanda máxima posible a apagar en estos momentos.\n👉De los circuitos apagables se mantienen afectados 124.\n👉Cuenta con 343 afectaciones por averías secundarias y de servicio.",
+    "timestamp": 1785484917,
+    "timestamp_local": 1785484917
+  },
+  {
+    "id": 52109,
+    "fecha": "31 de Jul del 2026 a las 04:01 AM",
+    "hora_utc": "2026-07-31 08:01",
+    "mensaje": "✍️Ante cualquier duda conozca sobre la terminología eléctrica\n\n🔹Las averías pueden ser:\n     \n➡️Primarias: Afecta un volumen grande de población pues son las líneas de distribución a 13.8 kV y puede afectar varias manzanas, incluso repartos completos.\n\n➡️Secundarias: Afecta a todos los clientes que se alimenten del mismo transformador, puede afectar una o varias cuadras. \n\n➡️De servicio: Afectan 1 solo cliente o instalación generalmente producto a daños en la acometida, metro contador, etc.).",
+    "timestamp": 1785484863,
+    "timestamp_local": 1785484863
+  },
+  {
+    "id": 52108,
+    "fecha": "31 de Jul del 2026 a las 02:09 AM",
+    "hora_utc": "2026-07-31 06:09",
+    "mensaje": "Actualización del servicio eléctrico en la provincia.\n👉En este momento la afectación por déficit de capacidad de generación es de 203 MW, demanda máxima posible a apagar en estos momentos.\n👉De los circuitos apagables se mantienen afectados 132.\n👉Cuenta con 343 afectaciones por averías secundarias y de servicio.",
+    "timestamp": 1785478190,
+    "timestamp_local": 1785478190
+  },
+  {
     "id": 52107,
     "fecha": "31 de Jul del 2026 a las 01:03 AM",
     "hora_utc": "2026-07-31 05:03",
@@ -126,29 +150,5 @@
     "mensaje": "⚠Afectado el servicio eléctrico en los siguientes circuitos:\n🔹Municipio Camajuani\n👉 Cto 73 y 156",
     "timestamp": 1785439900,
     "timestamp_local": 1785439900
-  },
-  {
-    "id": 52090,
-    "fecha": "30 de Jul del 2026 a las 03:20 PM",
-    "hora_utc": "2026-07-30 19:20",
-    "mensaje": "🛠Afectado por manipulación los siguientes circuitos:\n🔹Municipio Santa Clara\n👉Cto 7 Universidad\n👉Cto 131 Las Antillas\n👉Cto 22 Construcciones Textil\n👉Cto 153 EIDE\n👉Cto 24 Planta Asfalto\n👉Cto 146 Elevado Aeropuerto\n👉Cto 25 Los Güiros\n👉Cto 35 Biotecnología\n👉Ctos 14, 27 Maleza y 15 (Deficit)",
-    "timestamp": 1785439215,
-    "timestamp_local": 1785439215
-  },
-  {
-    "id": 52089,
-    "fecha": "30 de Jul del 2026 a las 03:13 PM",
-    "hora_utc": "2026-07-30 19:13",
-    "mensaje": "⚠Afectado el servicio eléctrico en los siguientes circuitos:\n🔹Municipio Encrucijada:\n👉Cto 122 Encrucijada  \n👉Cto 123 Vizcaya \n👉Cto 142 Comunidad La Sierra \n👉Cto 126 Batey Emilio Córdova\n👉Cto 125 Cavarrocas\n👉Cto 124 El Santo",
-    "timestamp": 1785438824,
-    "timestamp_local": 1785438824
-  },
-  {
-    "id": 52088,
-    "fecha": "30 de Jul del 2026 a las 03:12 PM",
-    "hora_utc": "2026-07-30 19:12",
-    "mensaje": "💡Con servicio eléctrico los siguientes circuitos:\n🔹Municipio Caibarién:\n👉 Ctos 61, 62",
-    "timestamp": 1785438764,
-    "timestamp_local": 1785438764
   }
 ]
