@@ -1,5 +1,53 @@
 [
   {
+    "id": 56508,
+    "fecha": "01 de Aug del 2026 a las 10:08 AM",
+    "hora_utc": "2026-08-01 14:08",
+    "mensaje": "🚨Estimados clientes en estos momentos se encuentran afectados por Déficit de Capacidad de Generación la Línea 5380 San Luis",
+    "timestamp": 1785593289,
+    "timestamp_local": 1785593289
+  },
+  {
+    "id": 56507,
+    "fecha": "01 de Aug del 2026 a las 09:54 AM",
+    "hora_utc": "2026-08-01 13:54",
+    "mensaje": "🚨Estimados clientes en estos momentos se encuentran afectados por Déficit de Capacidad de Generación los circuitos San Juan y la Línea 4390 Contramaestre",
+    "timestamp": 1785592471,
+    "timestamp_local": 1785592471
+  },
+  {
+    "id": 56506,
+    "fecha": "01 de Aug del 2026 a las 09:50 AM",
+    "hora_utc": "2026-08-01 13:50",
+    "mensaje": "🔴**Manipulaciones:**\nAcción que se realizan en los circuitos para dar paso al trabajo en zonas afectadas por Averías o Vía Libre y posteriormente para restablecer el servicio eléctrico en los circuitos que se encontraban afectados y en los que se trabaja con anterioridad, luego de culminadas las labores pertinentes.",
+    "timestamp": 1785592215,
+    "timestamp_local": 1785592215
+  },
+  {
+    "id": 56505,
+    "fecha": "01 de Aug del 2026 a las 09:49 AM",
+    "hora_utc": "2026-08-01 13:49",
+    "mensaje": "🚨Estimados clientes en estos momentos se está Manipulando el circuito San Juan",
+    "timestamp": 1785592171,
+    "timestamp_local": 1785592171
+  },
+  {
+    "id": 56504,
+    "fecha": "01 de Aug del 2026 a las 09:41 AM",
+    "hora_utc": "2026-08-01 13:41",
+    "mensaje": "🚨Estimados clientes en estos momentos se encuentran afectados por Déficit de Capacidad de Generación los circuitos 11 Seccionalizado , 3 y 23",
+    "timestamp": 1785591683,
+    "timestamp_local": 1785591683
+  },
+  {
+    "id": 56503,
+    "fecha": "01 de Aug del 2026 a las 09:37 AM",
+    "hora_utc": "2026-08-01 13:37",
+    "mensaje": "🚨**Déficit de Capacidad de Generación**:\nSe produce cuando la demanda del Sistema Eléctrico Nacional, en determinado horario del día supera la generación disponible del país, provocando la desconexión de los circuitos o líneas que permitan garantizar la frecuencia del SEN.",
+    "timestamp": 1785591451,
+    "timestamp_local": 1785591451
+  },
+  {
     "id": 56501,
     "fecha": "01 de Aug del 2026 a las 06:59 AM",
     "hora_utc": "2026-08-01 10:59",
@@ -78,53 +126,5 @@
     "mensaje": "⚡️🟠Estimados clientes se les informa que el circuito 16 se encuentra disparado. Les ofrecemos disculpas por las molestias ocasionadas.",
     "timestamp": 1785553308,
     "timestamp_local": 1785553308
-  },
-  {
-    "id": 56488,
-    "fecha": "31 de Jul del 2026 a las 10:48 PM",
-    "hora_utc": "2026-08-01 02:48",
-    "mensaje": "🔉🚨Estimados clientes en estos momentos se encuentra afectado por Déficit de Capacidad de Generación el circuito 10, disculpen por las molestias ocasionadas.",
-    "timestamp": 1785552482,
-    "timestamp_local": 1785552482
-  },
-  {
-    "id": 56487,
-    "fecha": "31 de Jul del 2026 a las 10:32 PM",
-    "hora_utc": "2026-08-01 02:32",
-    "mensaje": "🔉🚨Estimados clientes en estos momentos se encuentra afectado por Déficit de Capacidad de Generación el circuito 1, disculpen por las molestias ocasionadas.",
-    "timestamp": 1785551557,
-    "timestamp_local": 1785551557
-  },
-  {
-    "id": 56486,
-    "fecha": "31 de Jul del 2026 a las 10:09 PM",
-    "hora_utc": "2026-08-01 02:09",
-    "mensaje": "⚠️➡️Disparo automático de frecuencia (DAF).  Es una protección que posee el sistema eléctrico, para cuando la frecuencia llega a valores mínimos permisibles que ponen en peligro la estabilidad de todo el sistema en su conjunto, provoca una desconexión automática de algunos circuitos hasta que ésta vuelva a recuperar su valor nominal a 60 Hz o ciclos por segundo. Esto ocurre al salir de forma imprevista o repentina de una planta generadora con una potencia determinada y el sistema en su conjunto necesita liberar esa carga hasta tanto se puedan recuperar la potencia de generación perdida anteriormente.",
-    "timestamp": 1785550150,
-    "timestamp_local": 1785550150
-  },
-  {
-    "id": 56485,
-    "fecha": "31 de Jul del 2026 a las 10:08 PM",
-    "hora_utc": "2026-08-01 02:08",
-    "mensaje": "⚡️🟠Estimados clientes se les informa que el circuito 12 se encuentra disparado. Les ofrecemos disculpas por las molestias ocasionadas.",
-    "timestamp": 1785550094,
-    "timestamp_local": 1785550094
-  },
-  {
-    "id": 56484,
-    "fecha": "31 de Jul del 2026 a las 10:07 PM",
-    "hora_utc": "2026-08-01 02:07",
-    "mensaje": "🔉🚨 Estimados clientes en estos momentos se encuentra afectado por Déficit de Capacidad de Generación el circuito 7, disculpen por las molestias ocasionadas.",
-    "timestamp": 1785550035,
-    "timestamp_local": 1785550035
-  },
-  {
-    "id": 56483,
-    "fecha": "31 de Jul del 2026 a las 08:22 PM",
-    "hora_utc": "2026-08-01 00:22",
-    "mensaje": "⚠️➡️Circuito en avería:    Sucede si un circuito se interrumpe por causa de un defecto en un cable conductor de corriente (fase   o neutro), un fusible fundido o disyuntor. En sistemas trifásicos una falla puede implicar una fase, más de una fase con la tierra o puede ocurrir solo entre fases.",
-    "timestamp": 1785543729,
-    "timestamp_local": 1785543729
   }
 ]

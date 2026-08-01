@@ -1,5 +1,37 @@
 [
   {
+    "id": 52228,
+    "fecha": "01 de Aug del 2026 a las 10:05 AM",
+    "hora_utc": "2026-08-01 14:05",
+    "mensaje": "⚠️Afectado el servicio eléctrico en los siguientes circuitos:\n🔹Municipio Santa Clara:\n👉Cto 7 Universidad\n👉Cto 131 Las Antillas\n👉Ctos 14, 15 y 27 Maleza",
+    "timestamp": 1785593104,
+    "timestamp_local": 1785593104
+  },
+  {
+    "id": 52227,
+    "fecha": "01 de Aug del 2026 a las 10:04 AM",
+    "hora_utc": "2026-08-01 14:04",
+    "mensaje": "⚠️Afectado el servicio eléctrico en los siguientes circuitos:\n🔹Municipio Santa Clara:\n👉Cto 30 y 193 Santa Clara Industrial",
+    "timestamp": 1785593067,
+    "timestamp_local": 1785593067
+  },
+  {
+    "id": 52226,
+    "fecha": "01 de Aug del 2026 a las 09:13 AM",
+    "hora_utc": "2026-08-01 13:13",
+    "mensaje": "⚠️Afectado el servicio eléctrico en el siguiente circuito\n🔹Municipio Santa Clara\n👉Cto 144 Camacho.",
+    "timestamp": 1785590002,
+    "timestamp_local": 1785590002
+  },
+  {
+    "id": 52225,
+    "fecha": "01 de Aug del 2026 a las 08:37 AM",
+    "hora_utc": "2026-08-01 12:37",
+    "mensaje": "💡Con servicio eléctrico los siguientes circuitos:\n🔹Municipio Santo Domingo:\n👉Cto 79 Santo Domingo\n👉Cto 81 26 de Julio\n👉Cto 163 Batey 26 de Julio\n🔹Municipio Ranchuelo:\n👉Ctos 54, 94 y 95 Jicotea",
+    "timestamp": 1785587849,
+    "timestamp_local": 1785587849
+  },
+  {
     "id": 52224,
     "fecha": "01 de Aug del 2026 a las 08:17 AM",
     "hora_utc": "2026-08-01 12:17",
@@ -126,37 +158,5 @@
     "mensaje": "🕛Actualización del servicio eléctrico.\n✍️El déficit de capacidad de generación en estos momentos es de 217__ MW__\n✍️__En el momento de esta nota, se mantienen afectados 144__ circuitos.\n✍️ Cuenta con __ 308 afectaciones por averías secundarias y de servicio:__\n🔸__ Caibarién (10)__\n🔸__ Camajuaní (5)__\n🔸__ Cifuentes (7)__\n🔸__ Corralillo (2)__\n🔸__ Encrucijada (5)__\n🔸__ Manicaragua (25)__\n🔸__ Placetas (19)__\n🔸__ Quemado (3)__\n🔸__ Ranchuelo (4)__\n🔸__ Remedios (14)__ \n🔸__ Sagua (17)__ \n🔸__ Santa Clara (153)__\n🔸__ Santo Domingo (21)__\n🛠️__Se encuentran 3__ averías en vías de solución.\n🛠️Pendientes a solucionar por el área técnica 22.\n✅La provincia  presenta 1 avería primaria.\n⚡Avería⚡\n👉 Cto 111 Mataguá del municipio Manicaragua, afectado parcial afectando el ramal a Jorobada por cables primarios",
     "timestamp": 1785557498,
     "timestamp_local": 1785557498
-  },
-  {
-    "id": 52208,
-    "fecha": "31 de Jul del 2026 a las 11:13 PM",
-    "hora_utc": "2026-08-01 03:13",
-    "mensaje": "⚠️Afectado el servicio eléctrico en el siguiente circuito\n🔹Municipio Santa Clara\n👉Cto 162 Santa Clara Industrial",
-    "timestamp": 1785553990,
-    "timestamp_local": 1785553990
-  },
-  {
-    "id": 52207,
-    "fecha": "31 de Jul del 2026 a las 10:58 PM",
-    "hora_utc": "2026-08-01 02:58",
-    "mensaje": "💡Con servicio eléctrico los siguientes circuitos\n🔹Municipio Quemado:\n👉 Cto 53 Quemado.\n🔹Municipio Sagua:\n👉 Ctos 45 y 197 Jumagua\n👉 Ctos 47 y 49 Caguagua",
-    "timestamp": 1785553098,
-    "timestamp_local": 1785553098
-  },
-  {
-    "id": 52206,
-    "fecha": "31 de Jul del 2026 a las 10:55 PM",
-    "hora_utc": "2026-08-01 02:55",
-    "mensaje": "💡Con servicio eléctrico los siguientes circuitos\n➡️Línea 129\n🔹Municipio Santa Clara:\n👉Ctos 32 y 33 (RF-33Kv)\n👉Cto 40 Hospital Militar\n👉Zona Hospital Viejo- Cardiocentro",
-    "timestamp": 1785552939,
-    "timestamp_local": 1785552939
-  },
-  {
-    "id": 52205,
-    "fecha": "31 de Jul del 2026 a las 10:11 PM",
-    "hora_utc": "2026-08-01 02:11",
-    "mensaje": "Actualización del servicio eléctrico en la provincia.\n👉En este momento la afectación por déficit de capacidad de generación es de 224 MW, demanda máxima posible a apagar en estos momentos.\n👉De los circuitos apagables se mantienen afectados 151.\n👉Cuenta con 285 afectaciones por averías secundarias y de servicio.",
-    "timestamp": 1785550308,
-    "timestamp_local": 1785550308
   }
 ]
