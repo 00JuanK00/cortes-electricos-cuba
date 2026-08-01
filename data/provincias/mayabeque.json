@@ -1,5 +1,37 @@
 [
   {
+    "id": 118408,
+    "fecha": "01 de Aug del 2026 a las 03:02 AM",
+    "hora_utc": "2026-08-01 07:02",
+    "mensaje": "🚨Por déficit de capacidad de generación se afecta el servicio en los siguientes circuitos:\n* San Felipe\n*Palomo 🚨",
+    "timestamp": 1785567741,
+    "timestamp_local": 1785567741
+  },
+  {
+    "id": 118407,
+    "fecha": "01 de Aug del 2026 a las 02:15 AM",
+    "hora_utc": "2026-08-01 06:15",
+    "mensaje": "🚨Por déficit de capacidad de generación se afecta el servicio en el siguiente circuito:\n*Jaruco 1 🚨",
+    "timestamp": 1785564920,
+    "timestamp_local": 1785564920
+  },
+  {
+    "id": 118406,
+    "fecha": "01 de Aug del 2026 a las 02:14 AM",
+    "hora_utc": "2026-08-01 06:14",
+    "mensaje": "🔷 Normalizado el servicio en el circuito 3665🔷",
+    "timestamp": 1785564886,
+    "timestamp_local": 1785564886
+  },
+  {
+    "id": 118405,
+    "fecha": "01 de Aug del 2026 a las 02:14 AM",
+    "hora_utc": "2026-08-01 06:14",
+    "mensaje": "🚨Por déficit de capacidad de generación se afecta el servicio en el siguiente circuito:\n*5 de San José 🚨",
+    "timestamp": 1785564845,
+    "timestamp_local": 1785564845
+  },
+  {
     "id": 118404,
     "fecha": "01 de Aug del 2026 a las 12:51 AM",
     "hora_utc": "2026-08-01 04:51",
@@ -118,37 +150,5 @@
     "mensaje": "♦️ Informamos a los clientes del circuito 5 de San José que se encuentran afectados por manipulación ♦️",
     "timestamp": 1785548906,
     "timestamp_local": 1785548906
-  },
-  {
-    "id": 118387,
-    "fecha": "31 de Jul del 2026 a las 09:25 PM",
-    "hora_utc": "2026-08-01 01:25",
-    "mensaje": "🚨Por déficit de capacidad de generación se afecta el servicio en el siguiente circuito:\n*6 de San José 🚨",
-    "timestamp": 1785547543,
-    "timestamp_local": 1785547543
-  },
-  {
-    "id": 118386,
-    "fecha": "31 de Jul del 2026 a las 09:03 PM",
-    "hora_utc": "2026-08-01 01:03",
-    "mensaje": "🚨Por déficit de capacidad de generación se afecta el servicio en el siguiente circuito:\n*Camilo 🚨",
-    "timestamp": 1785546210,
-    "timestamp_local": 1785546210
-  },
-  {
-    "id": 118385,
-    "fecha": "31 de Jul del 2026 a las 08:57 PM",
-    "hora_utc": "2026-08-01 00:57",
-    "mensaje": "♦️ Informamos a los clientes del circuito de Petróleo que se encuentran afectados por avería ♦️",
-    "timestamp": 1785545832,
-    "timestamp_local": 1785545832
-  },
-  {
-    "id": 118384,
-    "fecha": "31 de Jul del 2026 a las 08:50 PM",
-    "hora_utc": "2026-08-01 00:50",
-    "mensaje": "🔷 Normalizado el servicio en los circuitos \n*Menocal\n*CTO 🔷",
-    "timestamp": 1785545404,
-    "timestamp_local": 1785545404
   }
 ]

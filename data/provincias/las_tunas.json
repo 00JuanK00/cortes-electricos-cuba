@@ -1,5 +1,13 @@
 [
   {
+    "id": 20691,
+    "fecha": "01 de Aug del 2026 a las 01:07 AM",
+    "hora_utc": "2026-08-01 05:07",
+    "mensaje": "📣La Empresa Eléctrica Las Tunas pone a disposición de sus clientes un Centro de Atención Telefónica con el objetivo de brindar asistencia y responder a sus inquietudes. Para asegurar un flujo eficiente de comunicación, el centro cuenta con 38 líneas de entrada, gestionadas por 6 operadores en cada turno de trabajo.\nCuando los 6 operadores se encuentran atendiendo llamadas simultáneamente, las siguientes 32 llamadas entrantes son colocadas en una cola de espera, donde una operadora automática les informa que serán atendidas a la brevedad, acompañando la espera con música. En esta situación, se requiere paciencia por parte del cliente hasta que un operador se desocupe y su llamada sea transferida automáticamente. Sin embargo, el sistema tiene un límite. A partir de la llamada número 39, todas las líneas de entrada estarán ocupadas, lo que resultará en una señal de \"ocupado\" para el cliente. En este caso, para lograr contactar al centro, el cliente deberá intentar la llamada nuevamente hasta que una línea quede disponible. La Empresa Eléctrica Las Tunas trabaja continuamente para optimizar este servicio y agradece su comprensión.",
+    "timestamp": 1785560845,
+    "timestamp_local": 1785560845
+  },
+  {
     "id": 20690,
     "fecha": "01 de Aug del 2026 a las 12:04 AM",
     "hora_utc": "2026-08-01 04:04",
@@ -118,13 +126,5 @@
     "mensaje": "🇨🇺 Actualización del Sistema Electroenergético Nacional para el 31 de julio de 2026.\n\n👉 En el día de ayer se afectó el servicio por déficit de capacidad durante las 24 horas y se mantuvo la afectación durante todo el horario de la madrugada. La máxima afectación por déficit de capacidad de generación en el día de ayer fue de 2222 MW a las 21:20 horas.\n\n☀️ La producción de energía los parques solares fotovoltaicos fue de 5694 MWh, con 885 MW como máxima potencia entregada en el horario de la media con esta fuente de generación.  \n\n👉 La disponibilidad del SEN a las 06:00 horas es de 955 MW, la demanda 2787 MW con 1840 MW afectados. En el horario de la media se estima una afectación de 1700 MW.\n\n🛠 Se encuentran en avería las unidades 6 y 8 de la CTE Mariel, la unidad de la CTE Guiteras, la unidad 2 de la CTE Felton y la unidad 3 de la CTE Renté. Se encuentran en mantenimiento la unidad 3 de la CTE Santa Cruz, la unidad 5 de la CTE Nuevitas y las unidades 5 y 6 de la CTE Renté.  \n\n👉 Las limitaciones en la generación térmica son de 322 MW.\n\n👉 Se prevé para el horario de máxima demanda la entrada de la unidad 3 de la CTE Renté con 45 MW.\n\n📈 Con este pronóstico se estima una disponibilidad de 1000 MW con una demanda máxima de 3200 MW, para un déficit de 2200 MW, por lo que de mantenerse las condiciones previstas se pronostica una afectación de 2230 MW en este horario.",
     "timestamp": 1785501869,
     "timestamp_local": 1785501869
-  },
-  {
-    "id": 20669,
-    "fecha": "31 de Jul del 2026 a las 08:44 AM",
-    "hora_utc": "2026-07-31 12:44",
-    "mensaje": "Se retira servicio por vía libre por emergencia el circuito 33 KV 6225 Puerto Padre.",
-    "timestamp": 1785501864,
-    "timestamp_local": 1785501864
   }
 ]
