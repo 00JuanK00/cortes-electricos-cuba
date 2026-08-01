@@ -1,5 +1,21 @@
 [
   {
+    "id": 56522,
+    "fecha": "01 de Aug del 2026 a las 03:14 PM",
+    "hora_utc": "2026-08-01 19:14",
+    "mensaje": "🚨Estimados clientes en estos momentos se encuentra Disparado el circuito 21",
+    "timestamp": 1785611691,
+    "timestamp_local": 1785611691
+  },
+  {
+    "id": 56520,
+    "fecha": "01 de Aug del 2026 a las 02:37 PM",
+    "hora_utc": "2026-08-01 18:37",
+    "mensaje": "🔴**Disparo:**\nApertura no voluntaria de un interruptor como vía de protección para desconectar uno o varios elementos del circuito, subestación o sistema, restableciéndose el servicio rápidamente en dependencia de la causa.",
+    "timestamp": 1785609456,
+    "timestamp_local": 1785609456
+  },
+  {
     "id": 56519,
     "fecha": "01 de Aug del 2026 a las 02:23 PM",
     "hora_utc": "2026-08-01 18:23",
@@ -126,21 +142,5 @@
     "mensaje": "🚨**Déficit de Capacidad de Generación**:\nSe produce cuando la demanda del Sistema Eléctrico Nacional, en determinado horario del día supera la generación disponible del país, provocando la desconexión de los circuitos o líneas que permitan garantizar la frecuencia del SEN.",
     "timestamp": 1785591451,
     "timestamp_local": 1785591451
-  },
-  {
-    "id": 56501,
-    "fecha": "01 de Aug del 2026 a las 06:59 AM",
-    "hora_utc": "2026-08-01 10:59",
-    "mensaje": "🔉🚨Estimados clientes en estos momentos se encuentran afectados por Déficit de Capacidad de Generación los circuitos 13, 17, disculpen por las molestias ocasionadas.",
-    "timestamp": 1785581995,
-    "timestamp_local": 1785581995
-  },
-  {
-    "id": 56500,
-    "fecha": "01 de Aug del 2026 a las 06:12 AM",
-    "hora_utc": "2026-08-01 10:12",
-    "mensaje": "🔉🚨Estimados clientes en estos momentos se encuentran afectados por Déficit de Capacidad de Generación los circuitos 11 y 5385 San Luis, disculpen por las molestias ocasionadas.",
-    "timestamp": 1785579142,
-    "timestamp_local": 1785579142
   }
 ]
