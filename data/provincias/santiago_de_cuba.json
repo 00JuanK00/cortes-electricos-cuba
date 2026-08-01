@@ -1,5 +1,45 @@
 [
   {
+    "id": 56513,
+    "fecha": "01 de Aug del 2026 a las 11:37 AM",
+    "hora_utc": "2026-08-01 15:37",
+    "mensaje": "🚨Estimados clientes en estos momentos se encuentran afectados por Déficit de Capacidad de Generación la Línea 5390 Songo la Maya",
+    "timestamp": 1785598658,
+    "timestamp_local": 1785598658
+  },
+  {
+    "id": 56512,
+    "fecha": "01 de Aug del 2026 a las 11:10 AM",
+    "hora_utc": "2026-08-01 15:10",
+    "mensaje": "🚨Estimados clientes en estos momentos se encuentran afectados por Déficit de Capacidad de Generación La Línea 5380 San Luis",
+    "timestamp": 1785597035,
+    "timestamp_local": 1785597035
+  },
+  {
+    "id": 56511,
+    "fecha": "01 de Aug del 2026 a las 10:44 AM",
+    "hora_utc": "2026-08-01 14:44",
+    "mensaje": "🚨Estimados clientes en estos momentos se encuentran afectados por Déficit de Capacidad de Generación la Línea 4435 Contramaestre",
+    "timestamp": 1785595488,
+    "timestamp_local": 1785595488
+  },
+  {
+    "id": 56510,
+    "fecha": "01 de Aug del 2026 a las 10:40 AM",
+    "hora_utc": "2026-08-01 14:40",
+    "mensaje": "🔴Circuito en avería:    Sucede si un circuito se interrumpe por causa de un defecto en un cable conductor de corriente (fase   o neutro), un fusible fundido o disyuntor. En sistemas trifásicos una falla puede implicar una fase, más de una fase con la tierra o puede ocurrir solo entre fases.",
+    "timestamp": 1785595240,
+    "timestamp_local": 1785595240
+  },
+  {
+    "id": 56509,
+    "fecha": "01 de Aug del 2026 a las 10:40 AM",
+    "hora_utc": "2026-08-01 14:40",
+    "mensaje": "🚨Estimados clientes en estos momentos se encuentra en Avería el circuito 26",
+    "timestamp": 1785595216,
+    "timestamp_local": 1785595216
+  },
+  {
     "id": 56508,
     "fecha": "01 de Aug del 2026 a las 10:08 AM",
     "hora_utc": "2026-08-01 14:08",
@@ -86,45 +126,5 @@
     "mensaje": "⚡️🟠Estimados clientes en estos momentos se encuentra afectado el circuito 15 por manipulación. Les ofrecemos disculpas por las molestias ocasionadas.",
     "timestamp": 1785564257,
     "timestamp_local": 1785564257
-  },
-  {
-    "id": 56493,
-    "fecha": "01 de Aug del 2026 a las 01:35 AM",
-    "hora_utc": "2026-08-01 05:35",
-    "mensaje": "🔉🚨Estimados clientes en estos momentos se encuentra afectado por Déficit de Capacidad de Generación el circuito 14, disculpen por las molestias ocasionadas.",
-    "timestamp": 1785562552,
-    "timestamp_local": 1785562552
-  },
-  {
-    "id": 56492,
-    "fecha": "01 de Aug del 2026 a las 01:32 AM",
-    "hora_utc": "2026-08-01 05:32",
-    "mensaje": "🔉🚨Estimados clientes en estos momentos se encuentran afectados por Déficit de Capacidad de Generación los circuitos 5395 San Luis, 5330 Cristo, 19, 12, 16, disculpen por las molestias ocasionadas.",
-    "timestamp": 1785562347,
-    "timestamp_local": 1785562347
-  },
-  {
-    "id": 56491,
-    "fecha": "31 de Jul del 2026 a las 11:29 PM",
-    "hora_utc": "2026-08-01 03:29",
-    "mensaje": "🔉🚨Estimados clientes en estos momentos se encuentran afectados por Déficit de Capacidad de Generación los circuitos 1 y 2 de Palma, disculpen por las molestias ocasionadas.",
-    "timestamp": 1785554967,
-    "timestamp_local": 1785554967
-  },
-  {
-    "id": 56490,
-    "fecha": "31 de Jul del 2026 a las 11:02 PM",
-    "hora_utc": "2026-08-01 03:02",
-    "mensaje": "⚠️➡️Disparo automático de frecuencia (DAF).  Es una protección que posee el sistema eléctrico, para cuando la frecuencia llega a valores mínimos permisibles que ponen en peligro la estabilidad de todo el sistema en su conjunto, provoca una desconexión automática de algunos circuitos hasta que ésta vuelva a recuperar su valor nominal a 60 Hz o ciclos por segundo. Esto ocurre al salir de forma imprevista o repentina de una planta generadora con una potencia determinada y el sistema en su conjunto necesita liberar esa carga hasta tanto se puedan recuperar la potencia de generación perdida anteriormente.",
-    "timestamp": 1785553367,
-    "timestamp_local": 1785553367
-  },
-  {
-    "id": 56489,
-    "fecha": "31 de Jul del 2026 a las 11:01 PM",
-    "hora_utc": "2026-08-01 03:01",
-    "mensaje": "⚡️🟠Estimados clientes se les informa que el circuito 16 se encuentra disparado. Les ofrecemos disculpas por las molestias ocasionadas.",
-    "timestamp": 1785553308,
-    "timestamp_local": 1785553308
   }
 ]
