@@ -1,5 +1,53 @@
 [
   {
+    "id": 52394,
+    "fecha": "02 de Aug del 2026 a las 05:09 PM",
+    "hora_utc": "2026-08-02 21:09",
+    "mensaje": "⚠️Afectado el servicio eléctrico en el siguiente circuito:\n🔹Municipio Santa Clara:\n👉Cto 144 Camacho",
+    "timestamp": 1785704996,
+    "timestamp_local": 1785704996
+  },
+  {
+    "id": 52393,
+    "fecha": "02 de Aug del 2026 a las 05:09 PM",
+    "hora_utc": "2026-08-02 21:09",
+    "mensaje": "⚠️Afectado el servicio eléctrico en los siguientes circuitos:\n🔹Municipio Encrucijada\n👉Cto 120 Calabazar\n👉Cto 121Perucho (Avería)\n👉Cto 127 Perucho",
+    "timestamp": 1785704950,
+    "timestamp_local": 1785704950
+  },
+  {
+    "id": 52392,
+    "fecha": "02 de Aug del 2026 a las 05:08 PM",
+    "hora_utc": "2026-08-02 21:08",
+    "mensaje": "⚡Afectado el circuito 121 Perucho, del municipio Encrucijada, por cable primario partido.",
+    "timestamp": 1785704885,
+    "timestamp_local": 1785704885
+  },
+  {
+    "id": 52391,
+    "fecha": "02 de Aug del 2026 a las 05:00 PM",
+    "hora_utc": "2026-08-02 21:00",
+    "mensaje": "⚠️Afectado el servicio eléctrico en los siguientes circuitos:\n🔹Municipio Santa Clara:\n👉Cto 38 Yabú\n👉Cto 37 Yabú (Avería) \n👉Cto 9 Moldes y Troqueles\n👉Cto 133 Taller Cafetera",
+    "timestamp": 1785704420,
+    "timestamp_local": 1785704420
+  },
+  {
+    "id": 52390,
+    "fecha": "02 de Aug del 2026 a las 04:46 PM",
+    "hora_utc": "2026-08-02 20:46",
+    "mensaje": "⚠️Afectado el servicio eléctrico en los siguientes circuitos:\n🔹Municipio Remedios:\n👉Ctos 67 y 152",
+    "timestamp": 1785703606,
+    "timestamp_local": 1785703606
+  },
+  {
+    "id": 52389,
+    "fecha": "02 de Aug del 2026 a las 04:39 PM",
+    "hora_utc": "2026-08-02 20:39",
+    "mensaje": "⚠️Afectado el servicio eléctrico en los siguientes circuitos:\n🔹Municipio Ranchuelo:\n👉Ctos 189 y 97",
+    "timestamp": 1785703179,
+    "timestamp_local": 1785703179
+  },
+  {
     "id": 52388,
     "fecha": "02 de Aug del 2026 a las 04:34 PM",
     "hora_utc": "2026-08-02 20:34",
@@ -110,53 +158,5 @@
     "mensaje": "💡Con servicio eléctrico los siguientes circuitos:\n🔹Municipio Encrucijada\n👉Cto 120 Calabazar\n👉Ctos 121 y 127 Perucho",
     "timestamp": 1785697664,
     "timestamp_local": 1785697664
-  },
-  {
-    "id": 52374,
-    "fecha": "02 de Aug del 2026 a las 02:33 PM",
-    "hora_utc": "2026-08-02 18:33",
-    "mensaje": "💡Con servicio eléctrico los siguientes circuitos:\n🔹Municipio Remedios:\n👉Ctos 67 y 152",
-    "timestamp": 1785695631,
-    "timestamp_local": 1785695631
-  },
-  {
-    "id": 52373,
-    "fecha": "02 de Aug del 2026 a las 02:26 PM",
-    "hora_utc": "2026-08-02 18:26",
-    "mensaje": "Con servicio el circuito 166 Condado, del municipio Santa Clara.",
-    "timestamp": 1785695177,
-    "timestamp_local": 1785695177
-  },
-  {
-    "id": 52372,
-    "fecha": "02 de Aug del 2026 a las 02:25 PM",
-    "hora_utc": "2026-08-02 18:25",
-    "mensaje": "⚠️Afectado el servicio eléctrico en el siguiente circuito:\n🔹Municipio Encrucijada:\n👉Cto 122",
-    "timestamp": 1785695148,
-    "timestamp_local": 1785695148
-  },
-  {
-    "id": 52371,
-    "fecha": "02 de Aug del 2026 a las 02:22 PM",
-    "hora_utc": "2026-08-02 18:22",
-    "mensaje": "Con servicio el circuito 111 Mataguá, del municipio Manicaragua.",
-    "timestamp": 1785694925,
-    "timestamp_local": 1785694925
-  },
-  {
-    "id": 52370,
-    "fecha": "02 de Aug del 2026 a las 02:19 PM",
-    "hora_utc": "2026-08-02 18:19",
-    "mensaje": "🛠Afectado el circuito 3 Consejo-Centro, del municipio Santa Clara, para realizar cambio de transformador.",
-    "timestamp": 1785694768,
-    "timestamp_local": 1785694768
-  },
-  {
-    "id": 52369,
-    "fecha": "02 de Aug del 2026 a las 02:14 PM",
-    "hora_utc": "2026-08-02 18:14",
-    "mensaje": "⚠️Afectado el servicio eléctrico en los siguientes circuitos:\n🔹Municipio Santa Clara:\n👉Cto 6 Vigía\n👉Cto 39 Sandino\n👉Cto 34 Sabana Rebacadero",
-    "timestamp": 1785694472,
-    "timestamp_local": 1785694472
   }
 ]
