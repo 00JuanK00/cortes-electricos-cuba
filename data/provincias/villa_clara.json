@@ -1,5 +1,45 @@
 [
   {
+    "id": 52305,
+    "fecha": "02 de Aug del 2026 a las 02:15 AM",
+    "hora_utc": "2026-08-02 06:15",
+    "mensaje": "💡Con servicio eléctrico los siguientes circuitos:\n🔹Municipio Santa Clara:\n👉Cto 7 Universidad\n👉Cto 131 Las Antillas",
+    "timestamp": 1785651301,
+    "timestamp_local": 1785651301
+  },
+  {
+    "id": 52304,
+    "fecha": "02 de Aug del 2026 a las 02:01 AM",
+    "hora_utc": "2026-08-02 06:01",
+    "mensaje": "Actualización del servicio eléctrico en la provincia.\n👉En este momento la afectación por déficit de capacidad de generación es de 219 MW, demanda máxima posible a apagar en estos momentos.\n👉De los circuitos apagables se mantienen afectados 139.\n👉Cuenta con 308 afectaciones por averías secundarias y de servicio.",
+    "timestamp": 1785650470,
+    "timestamp_local": 1785650470
+  },
+  {
+    "id": 52303,
+    "fecha": "02 de Aug del 2026 a las 01:41 AM",
+    "hora_utc": "2026-08-02 05:41",
+    "mensaje": "⚠️Afectado el servicio eléctrico en el siguiente circuito:\n🔹Municipio Santa Clara.\n👉Cto  3  Consejo- Centro",
+    "timestamp": 1785649317,
+    "timestamp_local": 1785649317
+  },
+  {
+    "id": 52302,
+    "fecha": "02 de Aug del 2026 a las 01:20 AM",
+    "hora_utc": "2026-08-02 05:20",
+    "mensaje": "🟢01:10 am. Restablecido el Sistema Eléctrico en el occidente del país.",
+    "timestamp": 1785648055,
+    "timestamp_local": 1785648055
+  },
+  {
+    "id": 52301,
+    "fecha": "02 de Aug del 2026 a las 01:19 AM",
+    "hora_utc": "2026-08-02 05:19",
+    "mensaje": "💡Con servicio eléctrico el siguiente circuito:\n🔹Municipio Santa Clara:\n👉Cto 4 Consejo- Centro",
+    "timestamp": 1785647989,
+    "timestamp_local": 1785647989
+  },
+  {
     "id": 52298,
     "fecha": "02 de Aug del 2026 a las 12:36 AM",
     "hora_utc": "2026-08-02 04:36",
@@ -118,45 +158,5 @@
     "mensaje": "18:07 Caída parcial de SEN producto del disparo de las 220 kV MATANZAS CIENFUEGOS y 220kV MATANZAS - SANTA CLARA. Se afectan las provincias desde Matanzas hasta Pinar del Río",
     "timestamp": 1785624989,
     "timestamp_local": 1785624989
-  },
-  {
-    "id": 52283,
-    "fecha": "01 de Aug del 2026 a las 06:40 PM",
-    "hora_utc": "2026-08-01 22:40",
-    "mensaje": "🚨18:07 - Desconexión del Sistema Eléctrico en la zona occidental. Se afectan las provincias desde Matanzas hasta Pinar del Río",
-    "timestamp": 1785624014,
-    "timestamp_local": 1785624014
-  },
-  {
-    "id": 52282,
-    "fecha": "01 de Aug del 2026 a las 06:15 PM",
-    "hora_utc": "2026-08-01 22:15",
-    "mensaje": "💡Con servicio eléctrico los siguientes circuitos:\n🔹Municipio Santa Clara:\n👉Cto 30 y 193 Santa Clara Industrial\n👉Cto 132 Santa Clara Industrial\n👉Cto 162 Santa Clara Industrial\n👉Cto 31 Santa Clara Industrial",
-    "timestamp": 1785622523,
-    "timestamp_local": 1785622523
-  },
-  {
-    "id": 52281,
-    "fecha": "01 de Aug del 2026 a las 06:09 PM",
-    "hora_utc": "2026-08-01 22:09",
-    "mensaje": "🕛Actualización del servicio eléctrico.\n✍️El déficit de capacidad de generación en estos momentos es de  185 MW\n✍️En el momento de esta nota, se mantienen afectados 108 circuitos.\n✍️ Cuenta con 350 afectaciones por averías secundarias y de servicio:\n🔸 Caibarién (1)\n🔸 Cifuentes (3)\n🔸 Corralillo (1)\n🔸 Encrucijada (4)\n🔸 Manicaragua (30)\n🔸 Placetas (16)\n🔸 Ranchuelo (7)\n🔸 Remedios (20) \n🔸 Sagua (17) \n🔸 Santa Clara (212)\n🔸 Santo Domingo (13)\n🛠️Se encuentran 3 averías en vías de solución.\n🛠️Pendientes a solucionar por el área técnica 22.\n⚡Averías⚡\n🛠️Afectado por vía libre el circuito 35 Biotecnología para realizar cambio de poste.",
-    "timestamp": 1785622150,
-    "timestamp_local": 1785622150
-  },
-  {
-    "id": 52280,
-    "fecha": "01 de Aug del 2026 a las 06:03 PM",
-    "hora_utc": "2026-08-01 22:03",
-    "mensaje": "⚠️Afectado el servicio eléctrico en los siguientes circuitos:\n🔹Municipio Santa Clara:\n👉Ctos 37 y 38 Yabú \n👉Cto 9 Moldes y Troqueles\n👉Cto 133 Taller Cafetera",
-    "timestamp": 1785621807,
-    "timestamp_local": 1785621807
-  },
-  {
-    "id": 52279,
-    "fecha": "01 de Aug del 2026 a las 06:00 PM",
-    "hora_utc": "2026-08-01 22:00",
-    "mensaje": "⚠️Afectado el servicio eléctrico en los siguientes circuitos:\n🔹Municipio Santa Clara:\n👉Cto 5 Dobarganes\n👉Cto 17 Subplanta",
-    "timestamp": 1785621615,
-    "timestamp_local": 1785621615
   }
 ]
