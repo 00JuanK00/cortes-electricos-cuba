@@ -1,5 +1,53 @@
 [
   {
+    "id": 52360,
+    "fecha": "02 de Aug del 2026 a las 01:35 PM",
+    "hora_utc": "2026-08-02 17:35",
+    "mensaje": "⚠️Afectado el servicio eléctrico en los siguientes circuitos:\n🔹Municipio Santa Clara:\n👉Ctos 27 y 15 Maleza",
+    "timestamp": 1785692107,
+    "timestamp_local": 1785692107
+  },
+  {
+    "id": 52359,
+    "fecha": "02 de Aug del 2026 a las 01:24 PM",
+    "hora_utc": "2026-08-02 17:24",
+    "mensaje": "⚠️Afectado el servicio eléctrico en los siguientes circuitos:\n🔹Municipio Sagua:\n👉Ctos 43 y 51",
+    "timestamp": 1785691455,
+    "timestamp_local": 1785691455
+  },
+  {
+    "id": 52358,
+    "fecha": "02 de Aug del 2026 a las 01:11 PM",
+    "hora_utc": "2026-08-02 17:11",
+    "mensaje": "⚠️Afectado el servicio eléctrico en el siguiente circuito:\n🔹Municipio Santa Clara:\n👉Cto 170 Virginia",
+    "timestamp": 1785690676,
+    "timestamp_local": 1785690676
+  },
+  {
+    "id": 52357,
+    "fecha": "02 de Aug del 2026 a las 01:11 PM",
+    "hora_utc": "2026-08-02 17:11",
+    "mensaje": "💡Con servicio eléctrico el siguiente circuito:\n🔹Municipio Santa Clara:\n👉Cto 169 Condado",
+    "timestamp": 1785690663,
+    "timestamp_local": 1785690663
+  },
+  {
+    "id": 52356,
+    "fecha": "02 de Aug del 2026 a las 12:56 PM",
+    "hora_utc": "2026-08-02 16:56",
+    "mensaje": "💡Con servicio eléctrico el siguiente circuito:\n🔹Municipio Manicaragua:\n👉Cto 111 Mataguá",
+    "timestamp": 1785689788,
+    "timestamp_local": 1785689788
+  },
+  {
+    "id": 52355,
+    "fecha": "02 de Aug del 2026 a las 12:50 PM",
+    "hora_utc": "2026-08-02 16:50",
+    "mensaje": "🔴 11:17 || Fuera de línea la Unidad 4 de la CTE Carlos Manuel de Céspedes.",
+    "timestamp": 1785689408,
+    "timestamp_local": 1785689408
+  },
+  {
     "id": 52354,
     "fecha": "02 de Aug del 2026 a las 12:26 PM",
     "hora_utc": "2026-08-02 16:26",
@@ -110,53 +158,5 @@
     "mensaje": "💡Con servicio eléctrico los siguientes circuitos:\n🔹Municipio Remedios:\n👉Ctos 69 y 70 Zuluetas\n👉Cto 143 Batey Heriberto Duquezne \n👉Cto 71 Buena Vista\n🔹Municipio Santo Domingo:\n👉Cto 134\n👉Ctos 87 y 96 Bermejal\n👉Cto 187 Batey Carlos Baliño\n👉Cto 82 Ulacia\n👉Cto 84 Rodrigo",
     "timestamp": 1785682180,
     "timestamp_local": 1785682180
-  },
-  {
-    "id": 52340,
-    "fecha": "02 de Aug del 2026 a las 10:48 AM",
-    "hora_utc": "2026-08-02 14:48",
-    "mensaje": "🛠Afectado por vía libre el circuito 144 Camacho, del municipio Santa Clara, para reparar puente primario partido.",
-    "timestamp": 1785682084,
-    "timestamp_local": 1785682084
-  },
-  {
-    "id": 52339,
-    "fecha": "02 de Aug del 2026 a las 10:47 AM",
-    "hora_utc": "2026-08-02 14:47",
-    "mensaje": "En vía libre el circuito 122 del municipio Encrucijada, para reparar puente primario partido.",
-    "timestamp": 1785682060,
-    "timestamp_local": 1785682060
-  },
-  {
-    "id": 52338,
-    "fecha": "02 de Aug del 2026 a las 10:46 AM",
-    "hora_utc": "2026-08-02 14:46",
-    "mensaje": "💡Con servicio eléctrico el siguiente circuito:\n🔹Municipio Camajuaní:\n👉Cto 74 José María Peréz",
-    "timestamp": 1785681962,
-    "timestamp_local": 1785681962
-  },
-  {
-    "id": 52337,
-    "fecha": "02 de Aug del 2026 a las 10:31 AM",
-    "hora_utc": "2026-08-02 14:31",
-    "mensaje": "⚠️Afectado el servicio eléctrico en el siguiente circuito:\n🔹Municipio Camajuaní:\n👉Cto 129",
-    "timestamp": 1785681110,
-    "timestamp_local": 1785681110
-  },
-  {
-    "id": 52336,
-    "fecha": "02 de Aug del 2026 a las 10:29 AM",
-    "hora_utc": "2026-08-02 14:29",
-    "mensaje": "🛠Afectado por faltar una fase al momento de restablecerse el circuito 122 del municipio Encrucijada, por puente primario partido.",
-    "timestamp": 1785680995,
-    "timestamp_local": 1785680995
-  },
-  {
-    "id": 52334,
-    "fecha": "02 de Aug del 2026 a las 10:17 AM",
-    "hora_utc": "2026-08-02 14:17",
-    "mensaje": "💡Con servicio eléctrico los siguientes circuitos:\n🔹Municipio Santa Clara:\n👉Cto 132 Santa Clara Industrial\n👉Cto 162  Santa Clara Industrial",
-    "timestamp": 1785680246,
-    "timestamp_local": 1785680246
   }
 ]

@@ -1,5 +1,29 @@
 [
   {
+    "id": 56560,
+    "fecha": "02 de Aug del 2026 a las 01:19 PM",
+    "hora_utc": "2026-08-02 17:19",
+    "mensaje": "📌🛑**Déficit de Capacidad de Generación**:\nSe produce cuando la demanda del Sistema Eléctrico Nacional, en determinado horario del día supera la generación disponible del país, provocando la desconexión de los circuitos o líneas que permitan garantizar la frecuencia del SEN.",
+    "timestamp": 1785691163,
+    "timestamp_local": 1785691163
+  },
+  {
+    "id": 56559,
+    "fecha": "02 de Aug del 2026 a las 01:18 PM",
+    "hora_utc": "2026-08-02 17:18",
+    "mensaje": "🚨  Estimados clientes en estos momentos se encuentran afectados los circuitos 1 y 2 de Contramaestre ,4 de Palma y la línea 4395 Contramaestre ,disculpen por las molestias ocasionadas..",
+    "timestamp": 1785691081,
+    "timestamp_local": 1785691081
+  },
+  {
+    "id": 56558,
+    "fecha": "02 de Aug del 2026 a las 12:38 PM",
+    "hora_utc": "2026-08-02 16:38",
+    "mensaje": "🚨  Estimados clientes en estos momentos se incorporan a la afectación las líneas 5980 San Juan ,5380 Mella ,5975 Baconao además del circuito 12 , disculpen por las molestias ocasionadas..",
+    "timestamp": 1785688729,
+    "timestamp_local": 1785688729
+  },
+  {
     "id": 56557,
     "fecha": "02 de Aug del 2026 a las 11:53 AM",
     "hora_utc": "2026-08-02 15:53",
@@ -118,37 +142,5 @@
     "mensaje": "🚨 Estimados clientes se encuentra afectado por Déficit de Capacidad de Generación el circuito 1 y la línea 5395- San Luis.",
     "timestamp": 1785653253,
     "timestamp_local": 1785653253
-  },
-  {
-    "id": 56541,
-    "fecha": "02 de Aug del 2026 a las 01:33 AM",
-    "hora_utc": "2026-08-02 05:33",
-    "mensaje": "🚨  Estimados clientes se encuentra afectado por Déficit de Capacidad de Generación el circuito 14 de Santiago.",
-    "timestamp": 1785648835,
-    "timestamp_local": 1785648835
-  },
-  {
-    "id": 56540,
-    "fecha": "02 de Aug del 2026 a las 12:54 AM",
-    "hora_utc": "2026-08-02 04:54",
-    "mensaje": "🚨 Estimados clientes en estos momentos se encuentran                                                                                                                              afectados por Déficit de Capacidad de Generación los circuitos 25 de Santiago y el 1 de Palma, disculpen por las molestias ocasionadas.",
-    "timestamp": 1785646460,
-    "timestamp_local": 1785646460
-  },
-  {
-    "id": 56539,
-    "fecha": "02 de Aug del 2026 a las 12:16 AM",
-    "hora_utc": "2026-08-02 04:16",
-    "mensaje": "🛑 **Disparo:**\nApertura no voluntaria de un interruptor como vía de protección para desconectar uno o varios elementos del circuito, subestación o sistema, restableciéndose el servicio rápidamente en dependencia de la causa.",
-    "timestamp": 1785644191,
-    "timestamp_local": 1785644191
-  },
-  {
-    "id": 56538,
-    "fecha": "02 de Aug del 2026 a las 12:16 AM",
-    "hora_utc": "2026-08-02 04:16",
-    "mensaje": "🚨 Estimados clientes se encuentra disparado en estos momentos el circuito 12 de Santiago.",
-    "timestamp": 1785644163,
-    "timestamp_local": 1785644163
   }
 ]
