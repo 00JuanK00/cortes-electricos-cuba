@@ -1,5 +1,21 @@
 [
   {
+    "id": 52307,
+    "fecha": "02 de Aug del 2026 a las 05:20 AM",
+    "hora_utc": "2026-08-02 09:20",
+    "mensaje": "⚠️Afectado el servicio eléctrico en los siguientes circuitos:\n🔹Municipio Santa Clara:\n👉Cto 169 Condado\n👉Cto 28 Monumento Che\n👉Cto 168 Condado",
+    "timestamp": 1785662456,
+    "timestamp_local": 1785662456
+  },
+  {
+    "id": 52306,
+    "fecha": "02 de Aug del 2026 a las 04:57 AM",
+    "hora_utc": "2026-08-02 08:57",
+    "mensaje": "Actualización del servicio eléctrico en la provincia.\n👉En este momento la afectación por déficit de capacidad de generación es de 213 MW, demanda máxima posible a apagar en estos momentos.\n👉De los circuitos apagables se mantienen afectados 136.\n👉Cuenta con 308 afectaciones por averías secundarias y de servicio.",
+    "timestamp": 1785661024,
+    "timestamp_local": 1785661024
+  },
+  {
     "id": 52305,
     "fecha": "02 de Aug del 2026 a las 02:15 AM",
     "hora_utc": "2026-08-02 06:15",
@@ -142,21 +158,5 @@
     "mensaje": "💡Con servicio eléctrico el siguiente circuito:\n🔹Municipio Santa Clara:\n👉Cto 166 Condado",
     "timestamp": 1785627624,
     "timestamp_local": 1785627624
-  },
-  {
-    "id": 52285,
-    "fecha": "01 de Aug del 2026 a las 07:39 PM",
-    "hora_utc": "2026-08-01 23:39",
-    "mensaje": "⚠️Afectado el servicio eléctrico en los siguientes circuitos:\n🔹Municipio Sagua \n👉Cto 48 Finalet\n👉Ctos 46 y 128 Sitiecito\n🔹Municipio Santa Clara\n👉Cto 30 y 193 Santa Clara Industrial",
-    "timestamp": 1785627599,
-    "timestamp_local": 1785627599
-  },
-  {
-    "id": 52284,
-    "fecha": "01 de Aug del 2026 a las 06:56 PM",
-    "hora_utc": "2026-08-01 22:56",
-    "mensaje": "18:07 Caída parcial de SEN producto del disparo de las 220 kV MATANZAS CIENFUEGOS y 220kV MATANZAS - SANTA CLARA. Se afectan las provincias desde Matanzas hasta Pinar del Río",
-    "timestamp": 1785624989,
-    "timestamp_local": 1785624989
   }
 ]
