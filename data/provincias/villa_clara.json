@@ -1,5 +1,21 @@
 [
   {
+    "id": 52405,
+    "fecha": "02 de Aug del 2026 a las 07:35 PM",
+    "hora_utc": "2026-08-02 23:35",
+    "mensaje": "💡Con servicio eléctrico los siguientes circuitos:\n🔹Municipio Placetas \n👉Cto 100\n👉Cto 103 Batey Carbó Servía",
+    "timestamp": 1785713742,
+    "timestamp_local": 1785713742
+  },
+  {
+    "id": 52404,
+    "fecha": "02 de Aug del 2026 a las 07:09 PM",
+    "hora_utc": "2026-08-02 23:09",
+    "mensaje": "Afectados 200 MW en la provincia, demanda máxima a apagar en estos momentos.",
+    "timestamp": 1785712199,
+    "timestamp_local": 1785712199
+  },
+  {
     "id": 52402,
     "fecha": "02 de Aug del 2026 a las 06:19 PM",
     "hora_utc": "2026-08-02 22:19",
@@ -35,7 +51,7 @@
     "id": 52398,
     "fecha": "02 de Aug del 2026 a las 06:12 PM",
     "hora_utc": "2026-08-02 22:12",
-    "mensaje": "🕕Actualización del servicio eléctrico.\n✍️El déficit de capacidad de generación en estos momentos es de 203 MW\n✍️En el momento de esta nota, se mantienen afectados 132 circuitos.\n✍️ Cuenta con 369 afectaciones por averías secundarias y de servicio:\n🔸Caibarién (5)\n🔸Camajuaní (1)\n🔸 Cifuentes (2)\n🔸 Encrucijada (13)\n🔸 Manicaragua (32)\n🔸 Placetas (7)\n🔸 Ranchuelo (6)\n🔸 Remedios (4)\n🔸Sagua (13) \n🔸 Santa Clara (247)\n🔸 Santo Domingo (11)\n🛠️Se encuentran 6 avería en vías de solución.\n🛠️Pendientes a solucionar por el área técnica 24.\n⚡La provincia presenta 3 averías primarias:\n➡Cto 146 Elevado Aeropuerto, del municipio Santa Clara, afectado por faltar una fase.\n➡Cto 37 Yabú, del municipio Santa Clara, afectado por cable primario partido.\n➡Cto 121 Perucho, del municipio Encrucijada, afectado por cable primario partido.",
+    "mensaje": "🕕Actualización del servicio eléctrico.\n✍️El déficit de capacidad de generación en estos momentos es de 203 MW\n✍️En el momento de esta nota, se mantienen afectados 132 circuitos.\n✍️ Cuenta con 369 afectaciones por averías secundarias y de servicio:\n🔸Caibarién (5)\n🔸Camajuaní (1)\n🔸 Cifuentes (2)\n🔸 Encrucijada (13)\n🔸 Manicaragua (32)\n🔸 Placetas (7)\n🔸 Ranchuelo (6)\n🔸 Remedios (4)\n🔸Sagua (13) \n🔸 Santa Clara (247)\n🔸 Santo Domingo (11)\n🛠️Se encuentran 6 averías en vías de solución.\n🛠️Pendientes a solucionar por el área técnica 24.\n⚡La provincia presenta 3 averías primarias:)\n➡Cto 146 Elevado Aeropuerto, del municipio Santa Clara, afectado por faltar una fase.\n➡Cto 37 Yabú, del municipio Santa Clara, afectado por cable primario partido.\n➡Cto 121 Perucho, del municipio Encrucijada, afectado por cable primario partido.\n✍(En estos momentos los circuitos se encuentran afectados por déficit de capacidad de generación)",
     "timestamp": 1785708721,
     "timestamp_local": 1785708721
   },
@@ -134,29 +150,5 @@
     "mensaje": "Durante las últimas horas,  han ocurrido múltiples disparos  en el circuito 166 Condado, perteneciente al municipio de Santa Clara, ocasionados principalmente por sobrecarga en el circuito tras ser restablecido por déficit de capacidad.\nEsta situación, ha provocado afectaciones intermitentes a los clientes , por lo que se recomienda una vez restablecido el servicio conectar los equipos de manera gradual para de esta forma evitar que se dañen.",
     "timestamp": 1785701292,
     "timestamp_local": 1785701292
-  },
-  {
-    "id": 52385,
-    "fecha": "02 de Aug del 2026 a las 04:06 PM",
-    "hora_utc": "2026-08-02 20:06",
-    "mensaje": "⚡Afectado el circuito 37 Yabú, del municipio Santa Clara. Se estudian las causas.",
-    "timestamp": 1785701167,
-    "timestamp_local": 1785701167
-  },
-  {
-    "id": 52384,
-    "fecha": "02 de Aug del 2026 a las 04:00 PM",
-    "hora_utc": "2026-08-02 20:00",
-    "mensaje": "⚠️Afectado el servicio eléctrico en los siguientes circuitos:\n🔹Municipio Santo Domingo:\n👉Cto 79 Santo Domingo\n👉Cto 81 26 de Julio\n👉Cto 163 Batey 26 de Julio\n🔹Municipio Ranchuelo:\n👉Ctos 54, 94 y 95 Jicotea\n🔹Municipio Santa Clara:\n👉Cto 141 Manuelita\n👉Cto 191 Quemado de Hilario",
-    "timestamp": 1785700820,
-    "timestamp_local": 1785700820
-  },
-  {
-    "id": 52383,
-    "fecha": "02 de Aug del 2026 a las 03:59 PM",
-    "hora_utc": "2026-08-02 19:59",
-    "mensaje": "💡Con servicio eléctrico el siguiente circuito:\n🔹Municipio Santa Clara:\n👉Cto 4 Consejo-Centro",
-    "timestamp": 1785700746,
-    "timestamp_local": 1785700746
   }
 ]

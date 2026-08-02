@@ -1,5 +1,37 @@
 [
   {
+    "id": 56575,
+    "fecha": "02 de Aug del 2026 a las 07:24 PM",
+    "hora_utc": "2026-08-02 23:24",
+    "mensaje": "🚨Estimados clientes en estos momentos se encuentran afectados por Déficit de Capacidad de Generación los circuitos 19 , 25 y las Líneas 4435 , 4390 de Contramaestre",
+    "timestamp": 1785713073,
+    "timestamp_local": 1785713073
+  },
+  {
+    "id": 56574,
+    "fecha": "02 de Aug del 2026 a las 07:02 PM",
+    "hora_utc": "2026-08-02 23:02",
+    "mensaje": "🚨 Estimados clientes en estos momentos se encuentran afectados por Déficit de Capacidad de Generación La Línea 5390 La Maya",
+    "timestamp": 1785711760,
+    "timestamp_local": 1785711760
+  },
+  {
+    "id": 56573,
+    "fecha": "02 de Aug del 2026 a las 06:52 PM",
+    "hora_utc": "2026-08-02 22:52",
+    "mensaje": "🚨 Estimados clientes en estos momentos se encuentran afectados por Déficit de Capacidad de Generación los circuitos 1 y 2 de Palma",
+    "timestamp": 1785711174,
+    "timestamp_local": 1785711174
+  },
+  {
+    "id": 56572,
+    "fecha": "02 de Aug del 2026 a las 06:52 PM",
+    "hora_utc": "2026-08-02 22:52",
+    "mensaje": "🚨Estimados clientes en estos momentos se encuentran afectados por Déficit de Capacidad de Generación los circuitos 17 , 9 , 7 Seccionalizado y La Línea 4385 Contramaestre",
+    "timestamp": 1785711143,
+    "timestamp_local": 1785711143
+  },
+  {
     "id": 56571,
     "fecha": "02 de Aug del 2026 a las 06:14 PM",
     "hora_utc": "2026-08-02 22:14",
@@ -110,37 +142,5 @@
     "mensaje": "📌🛑Disparo automático de frecuencia (DAF).  Es una protección que posee el sistema eléctrico, para cuando la frecuencia llega a valores mínimos permisibles que ponen en peligro la estabilidad de todo el sistema en su conjunto, provoca una desconexión automática de algunos circuitos hasta que ésta vuelva a recuperar su valor nominal a 60 Hz o ciclos por segundo. Esto ocurre al salir de forma imprevista o repentina de una planta generadora con una potencia determinada y el sistema en su conjunto necesita liberar esa carga hasta tanto se puedan recuperar la potencia de generación perdida anteriormente.",
     "timestamp": 1785684979,
     "timestamp_local": 1785684979
-  },
-  {
-    "id": 56555,
-    "fecha": "02 de Aug del 2026 a las 11:34 AM",
-    "hora_utc": "2026-08-02 15:34",
-    "mensaje": "⚡️🛑Estimados clientes en estos momentos se encuentran disparadas las líneas 5980 San Juan , 4385  Contramaestre y los circuitos 7 y 22, les ofrecemos disculpa por las molestias ocasionadas..",
-    "timestamp": 1785684893,
-    "timestamp_local": 1785684893
-  },
-  {
-    "id": 56554,
-    "fecha": "02 de Aug del 2026 a las 10:57 AM",
-    "hora_utc": "2026-08-02 14:57",
-    "mensaje": "📌🛑**Manipulaciones:**\nAcción que se realizan en los circuitos para dar paso al trabajo en zonas afectadas por Averías o Vía Libre y posteriormente para restablecer el servicio eléctrico en los circuitos que se encontraban afectados y en los que se trabaja con anterioridad, luego de culminadas las labores pertinentes.",
-    "timestamp": 1785682631,
-    "timestamp_local": 1785682631
-  },
-  {
-    "id": 56553,
-    "fecha": "02 de Aug del 2026 a las 10:55 AM",
-    "hora_utc": "2026-08-02 14:55",
-    "mensaje": "🚧🚨  Estimados clientes en estos momentos se esta manipulando la línea 4395 de Contramaestre ,disculpen por las molestias ocasionadas..",
-    "timestamp": 1785682502,
-    "timestamp_local": 1785682502
-  },
-  {
-    "id": 56552,
-    "fecha": "02 de Aug del 2026 a las 10:27 AM",
-    "hora_utc": "2026-08-02 14:27",
-    "mensaje": "🚨 Estimados clientes en estos momentos se incorporan a la afectación por Déficit de Capacidad de Generación  los circuitos  2 y 21,disculpen por las molestias ocasionadas..",
-    "timestamp": 1785680847,
-    "timestamp_local": 1785680847
   }
 ]
