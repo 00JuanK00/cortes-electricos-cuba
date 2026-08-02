@@ -1,5 +1,45 @@
 [
   {
+    "id": 56556,
+    "fecha": "02 de Aug del 2026 a las 11:36 AM",
+    "hora_utc": "2026-08-02 15:36",
+    "mensaje": "📌🛑Disparo automático de frecuencia (DAF).  Es una protección que posee el sistema eléctrico, para cuando la frecuencia llega a valores mínimos permisibles que ponen en peligro la estabilidad de todo el sistema en su conjunto, provoca una desconexión automática de algunos circuitos hasta que ésta vuelva a recuperar su valor nominal a 60 Hz o ciclos por segundo. Esto ocurre al salir de forma imprevista o repentina de una planta generadora con una potencia determinada y el sistema en su conjunto necesita liberar esa carga hasta tanto se puedan recuperar la potencia de generación perdida anteriormente.",
+    "timestamp": 1785684979,
+    "timestamp_local": 1785684979
+  },
+  {
+    "id": 56555,
+    "fecha": "02 de Aug del 2026 a las 11:34 AM",
+    "hora_utc": "2026-08-02 15:34",
+    "mensaje": "⚡️🛑Estimados clientes en estos momentos se encuentran disparadas las líneas 5980 San Juan , 4385  Contramaestre y los circuitos 7 y 22, les ofrecemos disculpa por las molestias ocasionadas..",
+    "timestamp": 1785684893,
+    "timestamp_local": 1785684893
+  },
+  {
+    "id": 56554,
+    "fecha": "02 de Aug del 2026 a las 10:57 AM",
+    "hora_utc": "2026-08-02 14:57",
+    "mensaje": "📌🛑**Manipulaciones:**\nAcción que se realizan en los circuitos para dar paso al trabajo en zonas afectadas por Averías o Vía Libre y posteriormente para restablecer el servicio eléctrico en los circuitos que se encontraban afectados y en los que se trabaja con anterioridad, luego de culminadas las labores pertinentes.",
+    "timestamp": 1785682631,
+    "timestamp_local": 1785682631
+  },
+  {
+    "id": 56553,
+    "fecha": "02 de Aug del 2026 a las 10:55 AM",
+    "hora_utc": "2026-08-02 14:55",
+    "mensaje": "🚧🚨  Estimados clientes en estos momentos se esta manipulando la línea 4395 de Contramaestre ,disculpen por las molestias ocasionadas..",
+    "timestamp": 1785682502,
+    "timestamp_local": 1785682502
+  },
+  {
+    "id": 56552,
+    "fecha": "02 de Aug del 2026 a las 10:27 AM",
+    "hora_utc": "2026-08-02 14:27",
+    "mensaje": "🚨 Estimados clientes en estos momentos se incorporan a la afectación por Déficit de Capacidad de Generación  los circuitos  2 y 21,disculpen por las molestias ocasionadas..",
+    "timestamp": 1785680847,
+    "timestamp_local": 1785680847
+  },
+  {
     "id": 56551,
     "fecha": "02 de Aug del 2026 a las 09:51 AM",
     "hora_utc": "2026-08-02 13:51",
@@ -102,37 +142,5 @@
     "mensaje": "🚨 Estimados clientes se encuentra disparado en estos momentos el circuito 12 de Santiago.",
     "timestamp": 1785644163,
     "timestamp_local": 1785644163
-  },
-  {
-    "id": 56536,
-    "fecha": "01 de Aug del 2026 a las 11:12 PM",
-    "hora_utc": "2026-08-02 03:12",
-    "mensaje": "🚨 Estimados clientes en estos momentos se encuentran                                                                                                                              afectados por Déficit de Capacidad de Generación los circuitos 20 y la línea 5390- La Maya, disculpen por las molestias ocasionadas.",
-    "timestamp": 1785640370,
-    "timestamp_local": 1785640370
-  },
-  {
-    "id": 56534,
-    "fecha": "01 de Aug del 2026 a las 10:25 PM",
-    "hora_utc": "2026-08-02 02:25",
-    "mensaje": "🚨 Estimados clientes en estos momentos se encuentran                                                                                                                              afectados por Déficit de Capacidad de Generación los circuitos 21, 4 de Palma y la línea 5380- Mella, disculpen por las molestias ocasionadas.",
-    "timestamp": 1785637519,
-    "timestamp_local": 1785637519
-  },
-  {
-    "id": 56533,
-    "fecha": "01 de Aug del 2026 a las 10:14 PM",
-    "hora_utc": "2026-08-02 02:14",
-    "mensaje": "🛑🔉 **Estimados clientes, se les reitera que el comportamiento de las afectaciones eléctricas y el restablecimiento del servicio, estará en dependencia de la situación que presente el Sistema Electroenergético Nacional.**",
-    "timestamp": 1785636871,
-    "timestamp_local": 1785636871
-  },
-  {
-    "id": 56532,
-    "fecha": "01 de Aug del 2026 a las 09:44 PM",
-    "hora_utc": "2026-08-02 01:44",
-    "mensaje": "🚨 Estimados clientes se encuentra afectado por Déficit de Capacidad de Generación la línea 4395- Contramaestre.",
-    "timestamp": 1785635041,
-    "timestamp_local": 1785635041
   }
 ]
