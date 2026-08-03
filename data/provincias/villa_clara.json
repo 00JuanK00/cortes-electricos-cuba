@@ -1,5 +1,45 @@
 [
   {
+    "id": 52410,
+    "fecha": "02 de Aug del 2026 a las 09:08 PM",
+    "hora_utc": "2026-08-03 01:08",
+    "mensaje": "⚠️Afectado el servicio eléctrico en el siguiente circuito:\n🔹Municipio Santa Clara:\n👉Cto 131 Las Antillas",
+    "timestamp": 1785719307,
+    "timestamp_local": 1785719307
+  },
+  {
+    "id": 52409,
+    "fecha": "02 de Aug del 2026 a las 09:05 PM",
+    "hora_utc": "2026-08-03 01:05",
+    "mensaje": "💡Con servicio los circuitos 68 y 118 13kv del municipio Remedios.\n✍ Queda en avería el Ramal de Guanabanabo.",
+    "timestamp": 1785719149,
+    "timestamp_local": 1785719149
+  },
+  {
+    "id": 52408,
+    "fecha": "02 de Aug del 2026 a las 08:51 PM",
+    "hora_utc": "2026-08-03 00:51",
+    "mensaje": "🛠Afectada la línea 1375 por emergencia para retirar cable primario partido:\n🔹Municipio Caibarién\n👉Ctos 63 y 64\n👉Ctos 65 Dolores",
+    "timestamp": 1785718313,
+    "timestamp_local": 1785718313
+  },
+  {
+    "id": 52407,
+    "fecha": "02 de Aug del 2026 a las 08:06 PM",
+    "hora_utc": "2026-08-03 00:06",
+    "mensaje": "Actualización del servicio eléctrico en la provincia.\n👉En este momento la afectación por déficit de capacidad de generación es de 202 MW, demanda máxima posible a apagar en estos momentos.\n👉De los circuitos apagables se mantienen afectados 132.\n👉Cuenta con 356 afectaciones por averías secundarias y de servicio.",
+    "timestamp": 1785715596,
+    "timestamp_local": 1785715596
+  },
+  {
+    "id": 52406,
+    "fecha": "02 de Aug del 2026 a las 07:38 PM",
+    "hora_utc": "2026-08-02 23:38",
+    "mensaje": "Afectado el circuito 42 Manajanabo, del municipio Santa Clara, por cable primario partido.",
+    "timestamp": 1785713887,
+    "timestamp_local": 1785713887
+  },
+  {
     "id": 52405,
     "fecha": "02 de Aug del 2026 a las 07:35 PM",
     "hora_utc": "2026-08-02 23:35",
@@ -110,45 +150,5 @@
     "mensaje": "⚠️Afectado el servicio eléctrico en los siguientes circuitos:\n🔹Municipio Santa Clara:\n👉Cto 38 Yabú\n👉Cto 37 Yabú (Avería) \n👉Cto 9 Moldes y Troqueles\n👉Cto 133 Taller Cafetera",
     "timestamp": 1785704420,
     "timestamp_local": 1785704420
-  },
-  {
-    "id": 52390,
-    "fecha": "02 de Aug del 2026 a las 04:46 PM",
-    "hora_utc": "2026-08-02 20:46",
-    "mensaje": "⚠️Afectado el servicio eléctrico en los siguientes circuitos:\n🔹Municipio Remedios:\n👉Ctos 67 y 152",
-    "timestamp": 1785703606,
-    "timestamp_local": 1785703606
-  },
-  {
-    "id": 52389,
-    "fecha": "02 de Aug del 2026 a las 04:39 PM",
-    "hora_utc": "2026-08-02 20:39",
-    "mensaje": "⚠️Afectado el servicio eléctrico en los siguientes circuitos:\n🔹Municipio Ranchuelo:\n👉Ctos 189 y 97",
-    "timestamp": 1785703179,
-    "timestamp_local": 1785703179
-  },
-  {
-    "id": 52388,
-    "fecha": "02 de Aug del 2026 a las 04:34 PM",
-    "hora_utc": "2026-08-02 20:34",
-    "mensaje": "🛠Afectado por disparo la línea 332:\n🔹Municipio Manicaragua:\n👉Ctos 113 y 137 La Campana\n👉Cto 112 Hoyo Manicaragua \n✍Se estudian las causas.",
-    "timestamp": 1785702855,
-    "timestamp_local": 1785702855
-  },
-  {
-    "id": 52387,
-    "fecha": "02 de Aug del 2026 a las 04:13 PM",
-    "hora_utc": "2026-08-02 20:13",
-    "mensaje": "Actualización del servicio eléctrico en la provincia.\n👉En este momento la afectación por déficit de capacidad de generación es de 184 MW, demanda máxima posible a apagar en estos momentos.\n👉De los circuitos apagables se mantienen afectados 120.\n👉Cuenta con 327 afectaciones por averías secundarias y de servicio.",
-    "timestamp": 1785701586,
-    "timestamp_local": 1785701586
-  },
-  {
-    "id": 52386,
-    "fecha": "02 de Aug del 2026 a las 04:08 PM",
-    "hora_utc": "2026-08-02 20:08",
-    "mensaje": "Durante las últimas horas,  han ocurrido múltiples disparos  en el circuito 166 Condado, perteneciente al municipio de Santa Clara, ocasionados principalmente por sobrecarga en el circuito tras ser restablecido por déficit de capacidad.\nEsta situación, ha provocado afectaciones intermitentes a los clientes , por lo que se recomienda una vez restablecido el servicio conectar los equipos de manera gradual para de esta forma evitar que se dañen.",
-    "timestamp": 1785701292,
-    "timestamp_local": 1785701292
   }
 ]

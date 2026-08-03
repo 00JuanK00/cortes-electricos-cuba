@@ -1,5 +1,21 @@
 [
   {
+    "id": 56577,
+    "fecha": "02 de Aug del 2026 a las 08:55 PM",
+    "hora_utc": "2026-08-03 00:55",
+    "mensaje": "🔴**Manipulaciones:**\nAcción que se realizan en los circuitos para dar paso al trabajo en zonas afectadas por Averías o Vía Libre y posteriormente para restablecer el servicio eléctrico en los circuitos que se encontraban afectados y en los que se trabaja con anterioridad, luego de culminadas las labores pertinentes.",
+    "timestamp": 1785718505,
+    "timestamp_local": 1785718505
+  },
+  {
+    "id": 56576,
+    "fecha": "02 de Aug del 2026 a las 08:54 PM",
+    "hora_utc": "2026-08-03 00:54",
+    "mensaje": "🚨Estimados clientes en estos momentos se está Manipulando el circuito 26",
+    "timestamp": 1785718486,
+    "timestamp_local": 1785718486
+  },
+  {
     "id": 56575,
     "fecha": "02 de Aug del 2026 a las 07:24 PM",
     "hora_utc": "2026-08-02 23:24",
@@ -126,21 +142,5 @@
     "mensaje": "🚨  Estimados clientes en estos momentos se incorporan a la afectación las líneas 5980 San Juan ,5380 Mella ,5975 Baconao además del circuito 12 , disculpen por las molestias ocasionadas..",
     "timestamp": 1785688729,
     "timestamp_local": 1785688729
-  },
-  {
-    "id": 56557,
-    "fecha": "02 de Aug del 2026 a las 11:53 AM",
-    "hora_utc": "2026-08-02 15:53",
-    "mensaje": "🔴 Estimados clientes en estos momentos se encuentra afectado el circuito 9 ,disculpen por las molestias ocasionadas..",
-    "timestamp": 1785686037,
-    "timestamp_local": 1785686037
-  },
-  {
-    "id": 56556,
-    "fecha": "02 de Aug del 2026 a las 11:36 AM",
-    "hora_utc": "2026-08-02 15:36",
-    "mensaje": "📌🛑Disparo automático de frecuencia (DAF).  Es una protección que posee el sistema eléctrico, para cuando la frecuencia llega a valores mínimos permisibles que ponen en peligro la estabilidad de todo el sistema en su conjunto, provoca una desconexión automática de algunos circuitos hasta que ésta vuelva a recuperar su valor nominal a 60 Hz o ciclos por segundo. Esto ocurre al salir de forma imprevista o repentina de una planta generadora con una potencia determinada y el sistema en su conjunto necesita liberar esa carga hasta tanto se puedan recuperar la potencia de generación perdida anteriormente.",
-    "timestamp": 1785684979,
-    "timestamp_local": 1785684979
   }
 ]

@@ -1,5 +1,29 @@
 [
   {
+    "id": 37571,
+    "fecha": "02 de Aug del 2026 a las 08:42 PM",
+    "hora_utc": "2026-08-03 00:42",
+    "mensaje": "CON SERVICIO\n\n🔌 Circuito MI1454 que da servicio a COMPOSTELA\n🔌 Circuito MI1456 que da servicio a Calzada de San Luis hasta Parque Maceo y La Jaiba.",
+    "timestamp": 1785717764,
+    "timestamp_local": 1785717764
+  },
+  {
+    "id": 37569,
+    "fecha": "02 de Aug del 2026 a las 08:41 PM",
+    "hora_utc": "2026-08-03 00:41",
+    "mensaje": "🧏 El restablecimiento del servicio eléctrico dependerá del comportamiento de la demanda y la disponibilidad de Sistema.",
+    "timestamp": 1785717661,
+    "timestamp_local": 1785717661
+  },
+  {
+    "id": 37567,
+    "fecha": "02 de Aug del 2026 a las 08:06 PM",
+    "hora_utc": "2026-08-03 00:06",
+    "mensaje": "⚡En estos momentos tenemos afectados 192 MW en la provincia por déficit de capacidad de generación.⚡",
+    "timestamp": 1785715572,
+    "timestamp_local": 1785715572
+  },
+  {
     "id": 37566,
     "fecha": "02 de Aug del 2026 a las 06:22 PM",
     "hora_utc": "2026-08-02 22:22",
@@ -11,7 +35,7 @@
     "id": 37565,
     "fecha": "02 de Aug del 2026 a las 05:13 PM",
     "hora_utc": "2026-08-02 21:13",
-    "mensaje": "⚡En estos momentos tenemos afectados 164 MW en la provincia por déficit de capacidad de generación.⚡",
+    "mensaje": "⚡Tenemos afectados 164 MW en la provincia por déficit de capacidad de generación.⚡t",
     "timestamp": 1785705220,
     "timestamp_local": 1785705220
   },
@@ -134,29 +158,5 @@
     "mensaje": "CON SERVICIO\n\n-✅️Hospital de Colón",
     "timestamp": 1785671991,
     "timestamp_local": 1785671991
-  },
-  {
-    "id": 37548,
-    "fecha": "02 de Aug del 2026 a las 07:58 AM",
-    "hora_utc": "2026-08-02 11:58",
-    "mensaje": "QUEJAS PENDIENTES EN EL DÍA\n🔔Al cierre de las 8:15 am del día 2 de agosto se encuentran 546 quejas pendientes en el sistema. \n\nEl desglose por municipio es el siguiente: \n🔸Betancourt:  2\n🔸Calimete:  2\n🔸Cárdenas:  141\n🔸Ciénaga de Zapata:  0\n🔸Colón:   32\n🔸Jaguey:   38\n🔸Jovellanos:  69\n🔸Limonar:  11\n🔸Los Arabos:  5\n🔸Martí:   2\n🔸Matanzas:  221\n🔸Perico:   9\n🔸Unión: 12\n🔸Varadero:  2\n\nNuestros Linieros ⚡️👷 continúan trabajando para restablecer el servicio a todos los clientes con quejas pendientes.‼️",
-    "timestamp": 1785671904,
-    "timestamp_local": 1785671904
-  },
-  {
-    "id": 37546,
-    "fecha": "02 de Aug del 2026 a las 01:22 AM",
-    "hora_utc": "2026-08-02 05:22",
-    "mensaje": "🟢 A las 01:10 am. Restablecido el Sistema Eléctrico en el occidente del país.",
-    "timestamp": 1785648127,
-    "timestamp_local": 1785648127
-  },
-  {
-    "id": 37545,
-    "fecha": "02 de Aug del 2026 a las 12:35 AM",
-    "hora_utc": "2026-08-02 04:35",
-    "mensaje": "🛑Sincronizadas al SEN , Unidades de Energás Varadero 1 y 3. En proceso de arranque la Unidad 5 de la CTE Máximo Gómez, y Unidades 1 y 2 de la CTE Ernesto Guevara y el ciclo combinado de Energás Boca de Jaruco.",
-    "timestamp": 1785645345,
-    "timestamp_local": 1785645345
   }
 ]
