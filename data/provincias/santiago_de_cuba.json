@@ -1,5 +1,21 @@
 [
   {
+    "id": 56600,
+    "fecha": "03 de Aug del 2026 a las 05:04 PM",
+    "hora_utc": "2026-08-03 21:04",
+    "mensaje": "🚨Estimados clientes se mantienen con servicio por microsistemas los circuitos 15 seccionalizado hasta el Banco de Sangre y el 18.  Dando servicio a centros vitales de la ciudad.",
+    "timestamp": 1785791088,
+    "timestamp_local": 1785791088
+  },
+  {
+    "id": 56599,
+    "fecha": "03 de Aug del 2026 a las 04:56 PM",
+    "hora_utc": "2026-08-03 20:56",
+    "mensaje": "🚨 🔴**Microsistema: **Son varios emplazamientos interconectados independientemente del SEN, estos se crean para llevar la electricidad a centros vitales (hospitales, centros de comunicación y de elaboración de alimentos), y en una situación compleja como la desconexión total del SEN, se utilizan para lograr el arranque de las unidades térmicas.\n👉🏼El trabajo con los mismos puede ser inestable, cuando esto sucede el circuito vuelve a quedarse sin servicio eléctrico, lo que puede ser frecuente hasta que se normalice su funcionamiento.",
+    "timestamp": 1785790568,
+    "timestamp_local": 1785790568
+  },
+  {
     "id": 56598,
     "fecha": "03 de Aug del 2026 a las 03:03 PM",
     "hora_utc": "2026-08-03 19:03",
@@ -142,21 +158,5 @@
     "mensaje": "🔴**Manipulaciones:**\nAcción que se realizan en los circuitos para dar paso al trabajo en zonas afectadas por Averías o Vía Libre y posteriormente para restablecer el servicio eléctrico en los circuitos que se encontraban afectados y en los que se trabaja con anterioridad, luego de culminadas las labores pertinentes.",
     "timestamp": 1785718505,
     "timestamp_local": 1785718505
-  },
-  {
-    "id": 56576,
-    "fecha": "02 de Aug del 2026 a las 08:54 PM",
-    "hora_utc": "2026-08-03 00:54",
-    "mensaje": "🚨Estimados clientes en estos momentos se está Manipulando el circuito 26",
-    "timestamp": 1785718486,
-    "timestamp_local": 1785718486
-  },
-  {
-    "id": 56575,
-    "fecha": "02 de Aug del 2026 a las 07:24 PM",
-    "hora_utc": "2026-08-02 23:24",
-    "mensaje": "🚨Estimados clientes en estos momentos se encuentran afectados por Déficit de Capacidad de Generación los circuitos 19 , 25 y las Líneas 4435 , 4390 de Contramaestre",
-    "timestamp": 1785713073,
-    "timestamp_local": 1785713073
   }
 ]
