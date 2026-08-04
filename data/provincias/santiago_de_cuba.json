@@ -1,5 +1,13 @@
 [
   {
+    "id": 56630,
+    "fecha": "04 de Aug del 2026 a las 04:25 PM",
+    "hora_utc": "2026-08-04 20:25",
+    "mensaje": "🟡Empresa Eléctrica Santiago de Cuba comunica a sus clientes que se encuentra con servicio por el SEN el circuito 2.",
+    "timestamp": 1785875120,
+    "timestamp_local": 1785875120
+  },
+  {
     "id": 56628,
     "fecha": "04 de Aug del 2026 a las 02:44 PM",
     "hora_utc": "2026-08-04 18:44",
@@ -19,7 +27,7 @@
     "id": 56626,
     "fecha": "04 de Aug del 2026 a las 02:08 PM",
     "hora_utc": "2026-08-04 18:08",
-    "mensaje": "🟡Empresa Eléctrica Santiago de Cuba comunica a sus clientes que se encuentran con servicio por el SEN los circuitos 18 seccionalizado, 16, 15, 14, SI 5980-San Juan seccionalizado, Línea 5380-Mella, Línea 5395-San Luis, 2 de Palma, Línea 4395-Contramaestre seccionalizado y 7 seccionalizado.",
+    "mensaje": "🟡Empresa Eléctrica Santiago de Cuba comunica a sus clientes que se encuentran con servicio por el SEN los circuitos 18 seccionalizado, 16, 15, 14, SI 5980-( San Juan ) seccionalizado, Línea 5380-Mella, Línea 5395-San Luis, 2 de Palma, Línea 4395-Contramaestre seccionalizado y 7 seccionalizado.",
     "timestamp": 1785866912,
     "timestamp_local": 1785866912
   },
@@ -126,21 +134,5 @@
     "mensaje": "📌Centro Telefónico 18888, el cual brinda servicio las 24 horas del día, a través del correo electrónico: atencionalcliente@elecstg.une.cu , a través de nuestro perfil institucional en la red social Facebook y de Telegram: t.me/electricastg. Le recordamos que puede comunicarse con nosotros y obtener información a través de nuestros diferentes canales.",
     "timestamp": 1785846057,
     "timestamp_local": 1785846057
-  },
-  {
-    "id": 56610,
-    "fecha": "04 de Aug del 2026 a las 07:40 AM",
-    "hora_utc": "2026-08-04 11:40",
-    "mensaje": "🚨🔴Estimados clientes se les informa que el Sistema Eléctrico Nacional se encuentra enlazado parcialmente desde La Habana hasta Cienfuegos. Les seguiremos informando.",
-    "timestamp": 1785843639,
-    "timestamp_local": 1785843639
-  },
-  {
-    "id": 56609,
-    "fecha": "04 de Aug del 2026 a las 06:22 AM",
-    "hora_utc": "2026-08-04 10:22",
-    "mensaje": "🚨📌 **Microsistema: **Son varios emplazamientos interconectados independientemente del SEN, estos se crean para llevar la electricidad a centros vitales (hospitales, centros de comunicación y de elaboración de alimentos), y en una situación compleja como la desconexión total del SEN, se utilizan para lograr el arranque de las unidades térmicas.\n👉🏼El trabajo con los mismos puede ser inestable, cuando esto sucede el circuito vuelve a quedarse sin servicio eléctrico, lo que puede ser frecuente hasta que se normalice su funcionamiento.",
-    "timestamp": 1785838958,
-    "timestamp_local": 1785838958
   }
 ]
