@@ -1,5 +1,37 @@
 [
   {
+    "id": 56708,
+    "fecha": "06 de Aug del 2026 a las 10:46 AM",
+    "hora_utc": "2026-08-06 14:46",
+    "mensaje": "🚨Estimados clientes en estos momentos se encuentran afectados por Déficit de Capacidad de Generación el circuito 23",
+    "timestamp": 1786027580,
+    "timestamp_local": 1786027580
+  },
+  {
+    "id": 56707,
+    "fecha": "06 de Aug del 2026 a las 10:33 AM",
+    "hora_utc": "2026-08-06 14:33",
+    "mensaje": "🚨Estimados clientes en estos momentos se encuentran afectados por Déficit de Capacidad de Generación Las Líneas 5395 San Luis y 4435 Contramaestre",
+    "timestamp": 1786026832,
+    "timestamp_local": 1786026832
+  },
+  {
+    "id": 56706,
+    "fecha": "06 de Aug del 2026 a las 10:30 AM",
+    "hora_utc": "2026-08-06 14:30",
+    "mensaje": "🔉**Disparo Automático de Frecuencia (DAF):**\n**Ocurre cuando la frecuencia está por debajo de los 60Hz y determinada carga o circuito se desconecta del sistema automáticamente hasta que se estabilice.**",
+    "timestamp": 1786026615,
+    "timestamp_local": 1786026615
+  },
+  {
+    "id": 56705,
+    "fecha": "06 de Aug del 2026 a las 10:28 AM",
+    "hora_utc": "2026-08-06 14:28",
+    "mensaje": "🚨Estimados clientes en estos momentos se encuentra Disparado por DAF el circuito 22",
+    "timestamp": 1786026483,
+    "timestamp_local": 1786026483
+  },
+  {
     "id": 56704,
     "fecha": "06 de Aug del 2026 a las 08:26 AM",
     "hora_utc": "2026-08-06 12:26",
@@ -102,29 +134,5 @@
     "mensaje": "🔉Estimados clientes se les informa que se encuentra afectado por Déficit lll Frente.",
     "timestamp": 1785996311,
     "timestamp_local": 1785996311
-  },
-  {
-    "id": 56688,
-    "fecha": "06 de Aug del 2026 a las 01:29 AM",
-    "hora_utc": "2026-08-06 05:29",
-    "mensaje": "🛑Se les comunica que se encuentran afectados por Déficit los circuitos 15, 7 seccionalizado .",
-    "timestamp": 1785994160,
-    "timestamp_local": 1785994160
-  },
-  {
-    "id": 56687,
-    "fecha": "06 de Aug del 2026 a las 01:25 AM",
-    "hora_utc": "2026-08-06 05:25",
-    "mensaje": "🔴 Estimados clientes se les informa que se encuentran afectados por Déficit los circuitos 2, 4 de Palma y San Juan .",
-    "timestamp": 1785993937,
-    "timestamp_local": 1785993937
-  },
-  {
-    "id": 56685,
-    "fecha": "05 de Aug del 2026 a las 10:03 PM",
-    "hora_utc": "2026-08-06 02:03",
-    "mensaje": "🔴Estimados clientes en estos momentos se encuentran afectados por Déficit los circuitos 19, 20, 25, 21 y Línea 5330-Cristo.",
-    "timestamp": 1785981793,
-    "timestamp_local": 1785981793
   }
 ]
