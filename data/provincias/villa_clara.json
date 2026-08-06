@@ -1,5 +1,29 @@
 [
   {
+    "id": 52604,
+    "fecha": "05 de Aug del 2026 a las 08:34 PM",
+    "hora_utc": "2026-08-06 00:34",
+    "mensaje": "⚠️Afectado el servicio eléctrico en los siguientes circuitos:\n🔹Municipio Encrucijada\n👉Ctos 121 y 127 Perucho",
+    "timestamp": 1785976463,
+    "timestamp_local": 1785976463
+  },
+  {
+    "id": 52602,
+    "fecha": "05 de Aug del 2026 a las 08:02 PM",
+    "hora_utc": "2026-08-06 00:02",
+    "mensaje": "⚠️Afectado el servicio eléctrico en los siguientes circuitos:\n🔹Municipio Santa Clara:\n👉Cto 6 Vigía\n👉Cto 39 (Sandino)",
+    "timestamp": 1785974531,
+    "timestamp_local": 1785974531
+  },
+  {
+    "id": 52601,
+    "fecha": "05 de Aug del 2026 a las 07:56 PM",
+    "hora_utc": "2026-08-05 23:56",
+    "mensaje": "Actualización del servicio eléctrico en la provincia.\n👉En este momento la afectación por déficit de capacidad de generación es de 196 MW, demanda máxima posible a apagar en estos momentos.\n👉De los circuitos apagables se mantienen afectados 125.\n👉Cuenta con 482 afectaciones por averías secundarias y de servicio.",
+    "timestamp": 1785974194,
+    "timestamp_local": 1785974194
+  },
+  {
     "id": 52599,
     "fecha": "05 de Aug del 2026 a las 06:47 PM",
     "hora_utc": "2026-08-05 22:47",
@@ -118,37 +142,5 @@
     "mensaje": "⚠️Afectado el servicio eléctrico los siguientes circuitos:\n🔹Municipio Santo Domingo:\n👉Cto 134\n👉Ctos 87 y 96 Bermejal\n👉Cto 187 Batey Carlos Baliño\n👉Cto 82 Ulacia\n👉Cto 84 Rodrigo",
     "timestamp": 1785957003,
     "timestamp_local": 1785957003
-  },
-  {
-    "id": 52584,
-    "fecha": "05 de Aug del 2026 a las 03:06 PM",
-    "hora_utc": "2026-08-05 19:06",
-    "mensaje": "💡Con servicio eléctrico el siguiente circuito:\n🔹Municipio Santa Clara:\n👉Cto 166 Condado",
-    "timestamp": 1785956768,
-    "timestamp_local": 1785956768
-  },
-  {
-    "id": 52583,
-    "fecha": "05 de Aug del 2026 a las 02:57 PM",
-    "hora_utc": "2026-08-05 18:57",
-    "mensaje": "⚠️Afectado el servicio eléctrico los siguientes circuitos:\n🔹Municipio Santa Clara:\n👉Cto 170 José Marti\n👉Cto 132 SC Industrial\n👉Cto 26 y 141 Manuelita",
-    "timestamp": 1785956244,
-    "timestamp_local": 1785956244
-  },
-  {
-    "id": 52582,
-    "fecha": "05 de Aug del 2026 a las 02:46 PM",
-    "hora_utc": "2026-08-05 18:46",
-    "mensaje": "⚡Afectado por Via Libre el circuito 2 Consejo Centro para reparar puentes primarios partidos.",
-    "timestamp": 1785955615,
-    "timestamp_local": 1785955615
-  },
-  {
-    "id": 52581,
-    "fecha": "05 de Aug del 2026 a las 02:40 PM",
-    "hora_utc": "2026-08-05 18:40",
-    "mensaje": "⚠️Afectado el servicio eléctrico en los siguientes circuitos:\n🔹Municipio Santa Clara:\n👉Ctos 1 y 3  Consejo- Centro",
-    "timestamp": 1785955257,
-    "timestamp_local": 1785955257
   }
 ]
