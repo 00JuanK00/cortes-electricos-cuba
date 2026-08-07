@@ -1,5 +1,21 @@
 [
   {
+    "id": 56769,
+    "fecha": "07 de Aug del 2026 a las 01:15 PM",
+    "hora_utc": "2026-08-07 17:15",
+    "mensaje": "🚨Estimados clientes en estos momentos se encuentran afectados por Déficit el circuito 8, ll Frente y Songo .",
+    "timestamp": 1786122929,
+    "timestamp_local": 1786122929
+  },
+  {
+    "id": 56768,
+    "fecha": "07 de Aug del 2026 a las 12:33 PM",
+    "hora_utc": "2026-08-07 16:33",
+    "mensaje": "🚨Estimados clientes, se les reitera que el comportamiento de las afectaciones eléctricas y el restablecimiento del servicio, estará en dependencia de la situación que presente el Sistema Electroenergético Nacional.🚨",
+    "timestamp": 1786120421,
+    "timestamp_local": 1786120421
+  },
+  {
     "id": 56767,
     "fecha": "07 de Aug del 2026 a las 12:19 PM",
     "hora_utc": "2026-08-07 16:19",
@@ -118,21 +134,5 @@
     "mensaje": "📌🛑**Déficit de Capacidad de Generación: **\n**Se produce cuando la demanda del Sistema Eléctrico Nacional, en determinado horario del día supera la generación disponible del país, provocando la desconexión de los circuitos o líneas que permitan garantizar la frecuencia del SEN.**",
     "timestamp": 1786098461,
     "timestamp_local": 1786098461
-  },
-  {
-    "id": 56749,
-    "fecha": "07 de Aug del 2026 a las 06:25 AM",
-    "hora_utc": "2026-08-07 10:25",
-    "mensaje": "🚨Estimados clientes en estos momentos se encuentran afectados los circuitos 19 ,21 ,25 y las líneas 5385 Palma ,5330 Cristo y 5980 San Juan seccionalizado,les ofrecemos disculpas por las molestias ocasionadas..",
-    "timestamp": 1786098343,
-    "timestamp_local": 1786098343
-  },
-  {
-    "id": 56747,
-    "fecha": "07 de Aug del 2026 a las 06:14 AM",
-    "hora_utc": "2026-08-07 10:14",
-    "mensaje": "📌🛑Disparo automático de frecuencia (DAF).  Es una protección que posee el sistema eléctrico, para cuando la frecuencia llega a valores mínimos permisibles que ponen en peligro la estabilidad de todo el sistema en su conjunto, provoca una desconexión automática de algunos circuitos hasta que ésta vuelva a recuperar su valor nominal a 60 Hz o ciclos por segundo. Esto ocurre al salir de forma imprevista o repentina de una planta generadora con una potencia determinada y el sistema en su conjunto necesita liberar esa carga hasta tanto se puedan recuperar la potencia de generación perdida anteriormente",
-    "timestamp": 1786097657,
-    "timestamp_local": 1786097657
   }
 ]
