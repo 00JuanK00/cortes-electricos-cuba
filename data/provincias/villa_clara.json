@@ -1,9 +1,113 @@
 [
   {
+    "id": 52781,
+    "fecha": "07 de Aug del 2026 a las 02:41 AM",
+    "hora_utc": "2026-08-07 06:41",
+    "mensaje": "⚠️Afectado el servicio eléctrico en el siguiente circuito:\n🔹Municipio Sagua \n👉Cto 43",
+    "timestamp": 1786084887,
+    "timestamp_local": 1786084887
+  },
+  {
+    "id": 52780,
+    "fecha": "07 de Aug del 2026 a las 02:40 AM",
+    "hora_utc": "2026-08-07 06:40",
+    "mensaje": "💡Con servicio eléctrico el siguiente circuito:\n🔹Municipio Sagua:\n👉Cto 51",
+    "timestamp": 1786084836,
+    "timestamp_local": 1786084836
+  },
+  {
+    "id": 52779,
+    "fecha": "07 de Aug del 2026 a las 02:31 AM",
+    "hora_utc": "2026-08-07 06:31",
+    "mensaje": "💡Con servicio eléctrico el siguiente circuito:\n🔹Municipio Santa Clara:\n👉Cto 22 Construcciones Textil",
+    "timestamp": 1786084297,
+    "timestamp_local": 1786084297
+  },
+  {
+    "id": 52778,
+    "fecha": "07 de Aug del 2026 a las 02:17 AM",
+    "hora_utc": "2026-08-07 06:17",
+    "mensaje": "💡Con servicio eléctrico los siguientes circuitos:\n🔹Municipio Santa Clara:\n👉Ctos 14 y 27 Maleza",
+    "timestamp": 1786083435,
+    "timestamp_local": 1786083435
+  },
+  {
+    "id": 52777,
+    "fecha": "07 de Aug del 2026 a las 02:11 AM",
+    "hora_utc": "2026-08-07 06:11",
+    "mensaje": "💡Con servicio eléctrico el siguiente circuito:\n🔹Municipio Santa Clara:\n👉Cto 144 Camacho",
+    "timestamp": 1786083106,
+    "timestamp_local": 1786083106
+  },
+  {
+    "id": 52776,
+    "fecha": "07 de Aug del 2026 a las 02:09 AM",
+    "hora_utc": "2026-08-07 06:09",
+    "mensaje": "⚠️Afectado el servicio eléctrico en los siguientes circuitos:\n🔹Municipio Sagua \n👉Cto 48 Finalet\n👉Ctos 46 y 128 Sitiecito",
+    "timestamp": 1786082980,
+    "timestamp_local": 1786082980
+  },
+  {
+    "id": 52775,
+    "fecha": "07 de Aug del 2026 a las 02:07 AM",
+    "hora_utc": "2026-08-07 06:07",
+    "mensaje": "💡Con servicio eléctrico el siguiente circuito:\n🔹Municipio Santa Clara:\n👉Cto 1 Consejo-Centro",
+    "timestamp": 1786082840,
+    "timestamp_local": 1786082840
+  },
+  {
+    "id": 52774,
+    "fecha": "07 de Aug del 2026 a las 02:04 AM",
+    "hora_utc": "2026-08-07 06:04",
+    "mensaje": "⚠️Afectado el servicio eléctrico en los siguientes circuitos:\n🔹Municipio Santa Clara:\n👉Cto 3 y 4 Consejo-Centro",
+    "timestamp": 1786082677,
+    "timestamp_local": 1786082677
+  },
+  {
+    "id": 52773,
+    "fecha": "07 de Aug del 2026 a las 01:58 AM",
+    "hora_utc": "2026-08-07 05:58",
+    "mensaje": "Actualización del servicio eléctrico en la provincia.\n👉En este momento la afectación por déficit de capacidad de generación es de 197 MW, demanda máxima posible a apagar en estos momentos.\n👉De los circuitos apagables se mantienen afectados 129.\n👉Cuenta con 371 afectaciones por averías secundarias y de servicio.",
+    "timestamp": 1786082323,
+    "timestamp_local": 1786082323
+  },
+  {
+    "id": 52772,
+    "fecha": "07 de Aug del 2026 a las 01:56 AM",
+    "hora_utc": "2026-08-07 05:56",
+    "mensaje": "✍️Concluidas las acciones por parte de la brigada eléctrica en el circuito 168 Condado -XX Aniversario, del municipio Santa Clara, queda afectado por déficit de capacidad de generación.",
+    "timestamp": 1786082199,
+    "timestamp_local": 1786082199
+  },
+  {
+    "id": 52771,
+    "fecha": "07 de Aug del 2026 a las 01:55 AM",
+    "hora_utc": "2026-08-07 05:55",
+    "mensaje": "Con servicio el circuito 169 Condado, del municipio Santa Clara.",
+    "timestamp": 1786082104,
+    "timestamp_local": 1786082104
+  },
+  {
+    "id": 52770,
+    "fecha": "07 de Aug del 2026 a las 01:33 AM",
+    "hora_utc": "2026-08-07 05:33",
+    "mensaje": "💡Con servicio eléctrico el siguiente circuito:\n🔹Municipio Santa Clara:\n👉Cto 13 Zona Industrial",
+    "timestamp": 1786080795,
+    "timestamp_local": 1786080795
+  },
+  {
+    "id": 52769,
+    "fecha": "07 de Aug del 2026 a las 01:31 AM",
+    "hora_utc": "2026-08-07 05:31",
+    "mensaje": "⚡Afectado el circuito 168 Condado -XX Aniversario, del municipio Santa Clara, por estar en subconjunto con el circuito 169 Condado el cual se encuentra en avería.",
+    "timestamp": 1786080697,
+    "timestamp_local": 1786080697
+  },
+  {
     "id": 52768,
     "fecha": "07 de Aug del 2026 a las 12:53 AM",
     "hora_utc": "2026-08-07 04:53",
-    "mensaje": "⚡Afectado el circuito 169 Condado, del municipio Santa Clara. Se estudian las causas.",
+    "mensaje": "⚡Afectado el circuito 169 Condado, del municipio Santa Clara, por línea desprendida del aislador. Brigada eléctrica de nuestra empresa prepara las condiciones necesarias para trabajar en el lugar.",
     "timestamp": 1786078427,
     "timestamp_local": 1786078427
   },
@@ -54,109 +158,5 @@
     "mensaje": "💡Con servicio eléctrico los siguientes circuitos:\n🔹Municipio Sagua \n👉Cto 48 Finalet\n👉Ctos 46 y 128 Sitiecito",
     "timestamp": 1786074613,
     "timestamp_local": 1786074613
-  },
-  {
-    "id": 52761,
-    "fecha": "06 de Aug del 2026 a las 11:07 PM",
-    "hora_utc": "2026-08-07 03:07",
-    "mensaje": "💡Con servicio eléctrico el siguiente circuito:\n🔹Municipio Camajuaní:\n👉Cto 74 José María Pérez",
-    "timestamp": 1786072055,
-    "timestamp_local": 1786072055
-  },
-  {
-    "id": 52760,
-    "fecha": "06 de Aug del 2026 a las 11:04 PM",
-    "hora_utc": "2026-08-07 03:04",
-    "mensaje": "💡Con servicio eléctrico los siguientes circuitos:\n🔹Municipio Camajuaní:\n👉Ctos 72 y 129",
-    "timestamp": 1786071844,
-    "timestamp_local": 1786071844
-  },
-  {
-    "id": 52759,
-    "fecha": "06 de Aug del 2026 a las 10:52 PM",
-    "hora_utc": "2026-08-07 02:52",
-    "mensaje": "⚠️Afectado el servicio eléctrico en los siguientes circuitos:\n🔹Municipio Corralillo:\n👉Cto 60 La Sierra (En Avería)\n👉Cto 55 Rancho Veloz\n🔹Municipio Quemado:\n👉Cto 196 Panchito Gómez Toro",
-    "timestamp": 1786071134,
-    "timestamp_local": 1786071134
-  },
-  {
-    "id": 52758,
-    "fecha": "06 de Aug del 2026 a las 10:49 PM",
-    "hora_utc": "2026-08-07 02:49",
-    "mensaje": "Con servicio el circuito 166 Condado, del municipio Santa Clara.",
-    "timestamp": 1786070998,
-    "timestamp_local": 1786070998
-  },
-  {
-    "id": 52757,
-    "fecha": "06 de Aug del 2026 a las 10:36 PM",
-    "hora_utc": "2026-08-07 02:36",
-    "mensaje": "💡Con servicio eléctrico el siguiente circuito:\n🔹Municipio Santa Clara:\n👉Cto 162 Santa Clara Industrial",
-    "timestamp": 1786070186,
-    "timestamp_local": 1786070186
-  },
-  {
-    "id": 52756,
-    "fecha": "06 de Aug del 2026 a las 10:33 PM",
-    "hora_utc": "2026-08-07 02:33",
-    "mensaje": "🛠️Afectado por manipulación el circuito 166 Condado, del municipio Santa Clara, para reponer transformador.",
-    "timestamp": 1786069994,
-    "timestamp_local": 1786069994
-  },
-  {
-    "id": 52755,
-    "fecha": "06 de Aug del 2026 a las 10:30 PM",
-    "hora_utc": "2026-08-07 02:30",
-    "mensaje": "💡Con servicio eléctrico los siguientes circuitos:\n🔹Municipio Manicaragua:\n👉Cto 108  \n👉110 La Piedra (Afectado parcialmente)",
-    "timestamp": 1786069814,
-    "timestamp_local": 1786069814
-  },
-  {
-    "id": 52754,
-    "fecha": "06 de Aug del 2026 a las 10:08 PM",
-    "hora_utc": "2026-08-07 02:08",
-    "mensaje": "Restablecido el servicio eléctrico en el circuito 4 Consejo-Centro, del municipio Santa Clara.",
-    "timestamp": 1786068506,
-    "timestamp_local": 1786068506
-  },
-  {
-    "id": 52753,
-    "fecha": "06 de Aug del 2026 a las 09:57 PM",
-    "hora_utc": "2026-08-07 01:57",
-    "mensaje": "Actualización del servicio eléctrico en la provincia.\n👉En este momento la afectación por déficit de capacidad de generación es de 204 MW, demanda máxima posible a apagar en estos momentos.\n👉De los circuitos apagables se mantienen afectados 136.\n👉Cuenta con 527 afectaciones por averías secundarias y de servicio.",
-    "timestamp": 1786067830,
-    "timestamp_local": 1786067830
-  },
-  {
-    "id": 52752,
-    "fecha": "06 de Aug del 2026 a las 09:23 PM",
-    "hora_utc": "2026-08-07 01:23",
-    "mensaje": "Con servicio el circuito 44 Isabela, del municipio Sagua.",
-    "timestamp": 1786065834,
-    "timestamp_local": 1786065834
-  },
-  {
-    "id": 52751,
-    "fecha": "06 de Aug del 2026 a las 09:22 PM",
-    "hora_utc": "2026-08-07 01:22",
-    "mensaje": "🛠️Afectado por disparo el circuito 4 Consejo-Centro, del municipio Santa Clara. Se estudian las causas.",
-    "timestamp": 1786065750,
-    "timestamp_local": 1786065750
-  },
-  {
-    "id": 52750,
-    "fecha": "06 de Aug del 2026 a las 09:17 PM",
-    "hora_utc": "2026-08-07 01:17",
-    "mensaje": "⚠️Afectado el servicio eléctrico en los siguientes circuitos:\n🔹Municipio Santa Clara:\n👉Cto 16 Cubanacán \n👉Ctos 23 y 130 La Ceniza\n👉Cto 42 Manajanabo\n🔹Municipio Placetas\n👉Cto 139 Miller\n👉Cto 190 Oliver\n👉Cto 106 Falcón",
-    "timestamp": 1786065476,
-    "timestamp_local": 1786065476
-  },
-  {
-    "id": 52749,
-    "fecha": "06 de Aug del 2026 a las 09:14 PM",
-    "hora_utc": "2026-08-07 01:14",
-    "mensaje": "⚡Afectado al momento de restablecerse por faltar una fase, el circuito 60 La Sierra, del municipio Corralillo.",
-    "timestamp": 1786065270,
-    "timestamp_local": 1786065270
   }
 ]
