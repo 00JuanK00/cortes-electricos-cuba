@@ -1,5 +1,21 @@
 [
   {
+    "id": 56754,
+    "fecha": "07 de Aug del 2026 a las 09:35 AM",
+    "hora_utc": "2026-08-07 13:35",
+    "mensaje": "➡️**Déficit de Capacidad de Generación: **\n**Se produce cuando la demanda del Sistema Eléctrico Nacional, en determinado horario del día supera la generación disponible del país, provocando la desconexión de los circuitos o líneas que permitan garantizar la frecuencia del SEN.**",
+    "timestamp": 1786109727,
+    "timestamp_local": 1786109727
+  },
+  {
+    "id": 56753,
+    "fecha": "07 de Aug del 2026 a las 09:34 AM",
+    "hora_utc": "2026-08-07 13:34",
+    "mensaje": "🔴Estimados clientes se les informa que se encuentra afectado por Déficit el circuito 20 .",
+    "timestamp": 1786109685,
+    "timestamp_local": 1786109685
+  },
+  {
     "id": 56751,
     "fecha": "07 de Aug del 2026 a las 07:24 AM",
     "hora_utc": "2026-08-07 11:24",
@@ -118,29 +134,5 @@
     "mensaje": "🚨  Estimados clientes en estos momentos se incorpora a la afectación el circuito 1 ,disculpen por las molestias ocasionadas..",
     "timestamp": 1786066924,
     "timestamp_local": 1786066924
-  },
-  {
-    "id": 56732,
-    "fecha": "06 de Aug del 2026 a las 09:23 PM",
-    "hora_utc": "2026-08-07 01:23",
-    "mensaje": "🚨 Estimados clientes se les informa que en estos momentos se encuentran manipulando los circuitos 22  y 16 de Santiago. Disculpen las molestias ocasionadas.",
-    "timestamp": 1786065831,
-    "timestamp_local": 1786065831
-  },
-  {
-    "id": 56731,
-    "fecha": "06 de Aug del 2026 a las 08:55 PM",
-    "hora_utc": "2026-08-07 00:55",
-    "mensaje": "📌🛑Disparo automático de frecuencia (DAF).  Es una protección que posee el sistema eléctrico, para cuando la frecuencia llega a valores mínimos permisibles que ponen en peligro la estabilidad de todo el sistema en su conjunto, provoca una desconexión automática de algunos circuitos hasta que ésta vuelva a recuperar su valor nominal a 60 Hz o ciclos por segundo. Esto ocurre al salir de forma imprevista o repentina de una planta generadora con una potencia determinada y el sistema en su conjunto necesita liberar esa carga hasta tanto se puedan recuperar la potencia de generación perdida anteriormente",
-    "timestamp": 1786064100,
-    "timestamp_local": 1786064100
-  },
-  {
-    "id": 56730,
-    "fecha": "06 de Aug del 2026 a las 08:54 PM",
-    "hora_utc": "2026-08-07 00:54",
-    "mensaje": "🔴  Estimados clientes en estos momentos se encuentra disparado el circuito 12 ,disculpen por las molestias ocasionadas..",
-    "timestamp": 1786064064,
-    "timestamp_local": 1786064064
   }
 ]
