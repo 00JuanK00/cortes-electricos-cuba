@@ -1,5 +1,37 @@
 [
   {
+    "id": 56767,
+    "fecha": "07 de Aug del 2026 a las 12:19 PM",
+    "hora_utc": "2026-08-07 16:19",
+    "mensaje": "👉🏽Si presenta o conoce alguna avería haga su reporte al Centro Telefónico mediante el 1️⃣8️⃣8️⃣8️⃣8️⃣☎️. Asegúrese de:\n1.Tener a mano el comprobante de pago del servicio eléctrico para ofrecer a la operadora el código de cliente (ID).\n2. Conocer de forma exacta la dirección de su vivienda (número de la casa, calle, entre calles, reparto   , localidad).\n3. Ubicar un punto de referencia que permita llegar hasta su vivienda con mayor rapidez (lugar o persona reconocida en la zona).\n4. En caso de haber algún cable caído, aunque usted crea que no está energizado   . NO LO TOQUE. Repórtelo y preserve el lugar hasta que llegue el personal de la empresa.\n5. Anote el número de reporte para ser utilizado en caso de reclamaciones o para comprobar el estado de su reporte.\n6. Si usted tiene servicio eléctrico   , pero existen variaciones de voltaje  , desconecte los equipos para que no se dañen.",
+    "timestamp": 1786119550,
+    "timestamp_local": 1786119550
+  },
+  {
+    "id": 56766,
+    "fecha": "07 de Aug del 2026 a las 11:56 AM",
+    "hora_utc": "2026-08-07 15:56",
+    "mensaje": "🚧**Vía Libre:**\n**Trabajos planificados o por emergencias que se realizan con el fin de construir y mantener líneas aéreas y soterradas; así como contribuir a la constante mejora en la entrega de la energía eléctrica**.",
+    "timestamp": 1786118200,
+    "timestamp_local": 1786118200
+  },
+  {
+    "id": 56765,
+    "fecha": "07 de Aug del 2026 a las 11:55 AM",
+    "hora_utc": "2026-08-07 15:55",
+    "mensaje": "🔴Estimados clientes en estos momentos se encuentran afectados por una 🚧 Vía Libre los circuitos 16 y 15 .",
+    "timestamp": 1786118157,
+    "timestamp_local": 1786118157
+  },
+  {
+    "id": 56763,
+    "fecha": "07 de Aug del 2026 a las 11:47 AM",
+    "hora_utc": "2026-08-07 15:47",
+    "mensaje": "🔴Estimados clientes se encuentra afectado por Déficit el circuito 17 .",
+    "timestamp": 1786117647,
+    "timestamp_local": 1786117647
+  },
+  {
     "id": 56761,
     "fecha": "07 de Aug del 2026 a las 11:21 AM",
     "hora_utc": "2026-08-07 15:21",
@@ -102,45 +134,5 @@
     "mensaje": "📌🛑Disparo automático de frecuencia (DAF).  Es una protección que posee el sistema eléctrico, para cuando la frecuencia llega a valores mínimos permisibles que ponen en peligro la estabilidad de todo el sistema en su conjunto, provoca una desconexión automática de algunos circuitos hasta que ésta vuelva a recuperar su valor nominal a 60 Hz o ciclos por segundo. Esto ocurre al salir de forma imprevista o repentina de una planta generadora con una potencia determinada y el sistema en su conjunto necesita liberar esa carga hasta tanto se puedan recuperar la potencia de generación perdida anteriormente",
     "timestamp": 1786097657,
     "timestamp_local": 1786097657
-  },
-  {
-    "id": 56746,
-    "fecha": "07 de Aug del 2026 a las 06:13 AM",
-    "hora_utc": "2026-08-07 10:13",
-    "mensaje": "🚨⚡️  Estimados clientes en estos momentos se encuentra disparado el circuito 14,disculpen por las molestias ocasionadas..",
-    "timestamp": 1786097624,
-    "timestamp_local": 1786097624
-  },
-  {
-    "id": 56744,
-    "fecha": "07 de Aug del 2026 a las 04:54 AM",
-    "hora_utc": "2026-08-07 08:54",
-    "mensaje": "🚨 Estimados clientes en estos momentos se encuentran afectados los circuitos 2 , 26  y 1 de Palma, disculpen por las molestias ocasionadas..",
-    "timestamp": 1786092881,
-    "timestamp_local": 1786092881
-  },
-  {
-    "id": 56743,
-    "fecha": "07 de Aug del 2026 a las 02:52 AM",
-    "hora_utc": "2026-08-07 06:52",
-    "mensaje": "🚨   Estimados clientes se incorpora a la afectación la línea 5975 Baconao y los circuitos 3 y  el 11 seccionalizado además de las líneas 5390 La Maya  -5395 San Luis , les ofrecemos disculpas por las molestias ocasionadas..",
-    "timestamp": 1786085573,
-    "timestamp_local": 1786085573
-  },
-  {
-    "id": 56742,
-    "fecha": "07 de Aug del 2026 a las 01:32 AM",
-    "hora_utc": "2026-08-07 05:32",
-    "mensaje": "🚨  Estimados clientes en estos momentos se encuentra afectado por Déficit de  Capacidad de Generación la línea 4435 de Contramaestre y el circuito 9 , disculpen por las molestias ocasionadas..",
-    "timestamp": 1786080774,
-    "timestamp_local": 1786080774
-  },
-  {
-    "id": 56741,
-    "fecha": "07 de Aug del 2026 a las 01:30 AM",
-    "hora_utc": "2026-08-07 05:30",
-    "mensaje": "📌🚧**Circuito en Avería**\n** **\n**Sucede si un circuito se interrumpe por causa de un defecto en un cable conductor de corriente (fase o neutro), un fusible fundido o disyuntor. En sistemas trifásicos una falla puede implicar una fase, más de una fase con la tierra o puede ocurrir solo entre fases.**",
-    "timestamp": 1786080642,
-    "timestamp_local": 1786080642
   }
 ]
