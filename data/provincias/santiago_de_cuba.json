@@ -1,5 +1,21 @@
 [
   {
+    "id": 56796,
+    "fecha": "08 de Aug del 2026 a las 06:51 AM",
+    "hora_utc": "2026-08-08 10:51",
+    "mensaje": "🔴Estimados clientes en estos momentos se encuentran afectados por Déficit de Capacidad de Generación el circuito 8",
+    "timestamp": 1786186273,
+    "timestamp_local": 1786186273
+  },
+  {
+    "id": 56795,
+    "fecha": "08 de Aug del 2026 a las 06:10 AM",
+    "hora_utc": "2026-08-08 10:10",
+    "mensaje": "🔴Estimados clientes en estos momentos se encuentran afectados por Déficit de Capacidad de Generación los circuitos 1 y 2 de Contramaestre",
+    "timestamp": 1786183801,
+    "timestamp_local": 1786183801
+  },
+  {
     "id": 56794,
     "fecha": "08 de Aug del 2026 a las 04:58 AM",
     "hora_utc": "2026-08-08 08:58",
@@ -126,21 +142,5 @@
     "mensaje": "🔴Le informamos a nuestros clientes que se encuentran afectados por Déficit los circuitos ➡️ 12, 3 , 24, 23, 13, 20 y la Línea 4385-Contramaestre,",
     "timestamp": 1786134003,
     "timestamp_local": 1786134003
-  },
-  {
-    "id": 56775,
-    "fecha": "07 de Aug del 2026 a las 03:59 PM",
-    "hora_utc": "2026-08-07 19:59",
-    "mensaje": "➡️**Disparo Automático de Frecuencia (DAF):**\n**Ocurre cuando la frecuencia está por debajo de los 60Hz y determinada carga o circuito se desconecta del sistema automáticamente hasta que se estabilice.**",
-    "timestamp": 1786132783,
-    "timestamp_local": 1786132783
-  },
-  {
-    "id": 56774,
-    "fecha": "07 de Aug del 2026 a las 03:59 PM",
-    "hora_utc": "2026-08-07 19:59",
-    "mensaje": "🚨Estimados clientes en estos momentos se encuentran Disparados por DAF el circuito 14 y SI 5980 San Juan.",
-    "timestamp": 1786132763,
-    "timestamp_local": 1786132763
   }
 ]
