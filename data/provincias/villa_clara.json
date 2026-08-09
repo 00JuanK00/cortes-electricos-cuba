@@ -1,5 +1,29 @@
 [
   {
+    "id": 52961,
+    "fecha": "09 de Aug del 2026 a las 02:21 AM",
+    "hora_utc": "2026-08-09 06:21",
+    "mensaje": "⚠️Afectado el servicio eléctrico en los siguientes circuitos:\n🔹Municipio Remedios:\n👉Ctos  68 y 118",
+    "timestamp": 1786256486,
+    "timestamp_local": 1786256486
+  },
+  {
+    "id": 52960,
+    "fecha": "09 de Aug del 2026 a las 02:18 AM",
+    "hora_utc": "2026-08-09 06:18",
+    "mensaje": "💡Con servicio eléctrico los siguientes circuitos:\n🔹Municipio Santa Clara\n👉Cto 7 Universidad\n👉Cto 131 Las Antillas\n👉Cto 13 Zona Industrial",
+    "timestamp": 1786256329,
+    "timestamp_local": 1786256329
+  },
+  {
+    "id": 52959,
+    "fecha": "09 de Aug del 2026 a las 02:16 AM",
+    "hora_utc": "2026-08-09 06:16",
+    "mensaje": "Actualización del servicio eléctrico en la provincia.\n👉En este momento la afectación por déficit de capacidad de generación es de 186 MW, demanda máxima posible a apagar en estos momentos.\n👉De los circuitos apagables se mantienen afectados 122.\n👉Cuenta con 394 afectaciones por averías secundarias y de servicio.",
+    "timestamp": 1786256206,
+    "timestamp_local": 1786256206
+  },
+  {
     "id": 52957,
     "fecha": "08 de Aug del 2026 a las 11:53 PM",
     "hora_utc": "2026-08-09 03:53",
@@ -118,29 +142,5 @@
     "mensaje": "💡Con servicio eléctrico el siguiente circuito:\n🔹Municipio Placetas \n👉Cto 98 Placetas",
     "timestamp": 1786235301,
     "timestamp_local": 1786235301
-  },
-  {
-    "id": 52941,
-    "fecha": "08 de Aug del 2026 a las 08:09 PM",
-    "hora_utc": "2026-08-09 00:09",
-    "mensaje": "Actualización del servicio eléctrico en la provincia.\n👉En este momento la afectación por déficit de capacidad de generación es de 204 MW, demanda máxima posible a apagar en estos momentos.\n👉De los circuitos apagables se mantienen afectados 139.\n👉Cuenta con 396 afectaciones por averías secundarias y de servicio.",
-    "timestamp": 1786234199,
-    "timestamp_local": 1786234199
-  },
-  {
-    "id": 52940,
-    "fecha": "08 de Aug del 2026 a las 08:05 PM",
-    "hora_utc": "2026-08-09 00:05",
-    "mensaje": "⚠️Afectado el servicio eléctrico en los siguientes circuitos:\n🔹Municipio Caibarién:\n👉 Cto 183 Van Troi\n🔹Municipio Placetas \n👉Cto 151 Placetas\n👉Cto 98 Placetas",
-    "timestamp": 1786233953,
-    "timestamp_local": 1786233953
-  },
-  {
-    "id": 52939,
-    "fecha": "08 de Aug del 2026 a las 07:32 PM",
-    "hora_utc": "2026-08-08 23:32",
-    "mensaje": "💡Con servicio eléctrico el siguiente circuito:\n🔹Municipio Ranchuelo: \n👉Cto 188",
-    "timestamp": 1786231925,
-    "timestamp_local": 1786231925
   }
 ]
