@@ -1,5 +1,29 @@
 [
   {
+    "id": 52982,
+    "fecha": "09 de Aug del 2026 a las 08:43 AM",
+    "hora_utc": "2026-08-09 12:43",
+    "mensaje": "⚠️Afectado el servicio eléctrico en el siguiente circuito:\n🔹Municipio Santa Clara:\n👉Cto 32  (RF-33Kv)",
+    "timestamp": 1786279414,
+    "timestamp_local": 1786279414
+  },
+  {
+    "id": 52981,
+    "fecha": "09 de Aug del 2026 a las 08:12 AM",
+    "hora_utc": "2026-08-09 12:12",
+    "mensaje": "Actualización del servicio eléctrico en la provincia.\n👉En este momento la afectación por déficit de capacidad de generación es de 172 MW, demanda máxima posible a apagar en estos momentos.\n👉De los circuitos apagables se mantienen afectados 109.\n👉Cuenta con 395 afectaciones por averías secundarias y de servicio.",
+    "timestamp": 1786277533,
+    "timestamp_local": 1786277533
+  },
+  {
+    "id": 52980,
+    "fecha": "09 de Aug del 2026 a las 08:10 AM",
+    "hora_utc": "2026-08-09 12:10",
+    "mensaje": "🚨Nota informativa.🚨\n\n📅Situación del SEN para el 09 de agosto de 2026.\n\n👉En el día de ayer se afectó el servicio por déficit de capacidad durante las 24 horas y se mantuvo la afectación durante todo el horario de la madrugada. La máxima afectación por déficit de capacidad de generación en el día de ayer fue de         2293 MW a las 22:40 horas.\n\n☀️La producción de energía los parques solares fotovoltaicos fue de 4807 MWh, con 747 MW como máxima potencia entregada en el horario de la media con esta fuente de generación.  \n\n☑️La disponibilidad del SEN a las 06:00 horas es de 1015 MW, la demanda 2830 MW con 1815 MW afectados. En el horario de la media se estima una afectación de 1650 MW.\n\n☑️Se encuentran en avería la unidad 6 de la CTE Mariel, la unidad 4 de la CTE Carlos Manuel de Céspedes y la unidad 2 de la CTE Felton. \n\n🛠️Se encuentran en mantenimiento la unidad 3 de la CTE Santa Cruz, la unidad 5 de la CTE Nuevitas y las unidades 5 y 6 de la CTE Renté. \n\n☑️Las limitaciones en la generación térmica son de 584 MW.\n\n☑️Para el horario de máxima demanda se estima una disponibilidad de 1015 MW con una demanda máxima de 3250 MW, para un déficit de 2235 MW, por lo que de mantenerse las condiciones previstas se pronostica una afectación de 2265 MW en este horario.\n\nUNE-MINEM",
+    "timestamp": 1786277407,
+    "timestamp_local": 1786277407
+  },
+  {
     "id": 52979,
     "fecha": "09 de Aug del 2026 a las 07:54 AM",
     "hora_utc": "2026-08-09 11:54",
@@ -67,7 +91,7 @@
     "id": 52971,
     "fecha": "09 de Aug del 2026 a las 06:10 AM",
     "hora_utc": "2026-08-09 10:10",
-    "mensaje": "💡Con servicio eléctrico los siguientes circuitos:\n🔹Municipio Santa Clara:\n👉Cto 1 Consejo- Centro\n👉Cto 5 Dobarganes\n👉Cto 17 Subplanta",
+    "mensaje": "💡Con servicio eléctrico los siguientes circuitos:\n🔹Municipio Santa Clara:\n👉Cto 4 Consejo- Centro\n👉Cto 5 Dobarganes\n👉Cto 17 Subplanta",
     "timestamp": 1786270218,
     "timestamp_local": 1786270218
   },
@@ -134,29 +158,5 @@
     "mensaje": "💡Con servicio eléctrico los siguientes circuitos:\n🔹Municipio Santa Clara:\n👉Cto 144 Camacho\n👉Ctos  27 Maleza",
     "timestamp": 1786257494,
     "timestamp_local": 1786257494
-  },
-  {
-    "id": 52962,
-    "fecha": "09 de Aug del 2026 a las 02:27 AM",
-    "hora_utc": "2026-08-09 06:27",
-    "mensaje": "⚠️Afectado el servicio eléctrico en el siguiente circuito:\n🔹Municipio Santa Clara:\n👉Cto 3 Consejo- Centro",
-    "timestamp": 1786256849,
-    "timestamp_local": 1786256849
-  },
-  {
-    "id": 52961,
-    "fecha": "09 de Aug del 2026 a las 02:21 AM",
-    "hora_utc": "2026-08-09 06:21",
-    "mensaje": "⚠️Afectado el servicio eléctrico en los siguientes circuitos:\n🔹Municipio Remedios:\n👉Ctos  68 y 118",
-    "timestamp": 1786256486,
-    "timestamp_local": 1786256486
-  },
-  {
-    "id": 52960,
-    "fecha": "09 de Aug del 2026 a las 02:18 AM",
-    "hora_utc": "2026-08-09 06:18",
-    "mensaje": "💡Con servicio eléctrico los siguientes circuitos:\n🔹Municipio Santa Clara\n👉Cto 7 Universidad\n👉Cto 131 Las Antillas\n👉Cto 13 Zona Industrial",
-    "timestamp": 1786256329,
-    "timestamp_local": 1786256329
   }
 ]
