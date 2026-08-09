@@ -1,5 +1,45 @@
 [
   {
+    "id": 53018,
+    "fecha": "09 de Aug del 2026 a las 01:49 PM",
+    "hora_utc": "2026-08-09 17:49",
+    "mensaje": "💡Con servicio eléctrico los siguientes circuitos:\n🔹Municipio Ranchuelo: \n👉Cto 89 \n👉Ctos 148 y 149 San Juan\n👉Cto 91 Batey Osvaldo Herrera\n 🔹Municipio Placetas:\n👉Cto 192 Benito Juárez\n👉Cto 102 Peroti",
+    "timestamp": 1786297752,
+    "timestamp_local": 1786297752
+  },
+  {
+    "id": 53017,
+    "fecha": "09 de Aug del 2026 a las 01:22 PM",
+    "hora_utc": "2026-08-09 17:22",
+    "mensaje": "💡Con servicio eléctrico el siguiente circuito:\n🔹Municipio Santa Clara\n👉Cto 2  Consejo- Centro",
+    "timestamp": 1786296142,
+    "timestamp_local": 1786296142
+  },
+  {
+    "id": 53016,
+    "fecha": "09 de Aug del 2026 a las 01:21 PM",
+    "hora_utc": "2026-08-09 17:21",
+    "mensaje": "⚠️Afectado el servicio eléctrico en el siguiente circuito:\n🔹Municipio Santa Clara:\n👉Cto  4 Consejo- Centro",
+    "timestamp": 1786296100,
+    "timestamp_local": 1786296100
+  },
+  {
+    "id": 53015,
+    "fecha": "09 de Aug del 2026 a las 01:10 PM",
+    "hora_utc": "2026-08-09 17:10",
+    "mensaje": "💡Con servicio eléctrico los siguientes circuitos:\n🔹Municipio Santa Clara\n👉Cto 28 Monumento Che\n👉Cto 168 Condado",
+    "timestamp": 1786295424,
+    "timestamp_local": 1786295424
+  },
+  {
+    "id": 53014,
+    "fecha": "09 de Aug del 2026 a las 01:09 PM",
+    "hora_utc": "2026-08-09 17:09",
+    "mensaje": "⚡Afectado por avería el circuito 100 del municipio Placetas, se estudian las causas.",
+    "timestamp": 1786295354,
+    "timestamp_local": 1786295354
+  },
+  {
     "id": 53013,
     "fecha": "09 de Aug del 2026 a las 01:04 PM",
     "hora_utc": "2026-08-09 17:04",
@@ -118,45 +158,5 @@
     "mensaje": "💡Con servicio eléctrico el siguiente circuito:\n🔹Municipio Santa Clara\n👉Cto 167 Virginia",
     "timestamp": 1786286418,
     "timestamp_local": 1786286418
-  },
-  {
-    "id": 52997,
-    "fecha": "09 de Aug del 2026 a las 10:39 AM",
-    "hora_utc": "2026-08-09 14:39",
-    "mensaje": "⚠️Afectado el servicio eléctrico en los siguientes circuitos:\n🔹Municipio Santa Clara\n👉Cto 30 y 193 Santa Clara Industrial",
-    "timestamp": 1786286389,
-    "timestamp_local": 1786286389
-  },
-  {
-    "id": 52996,
-    "fecha": "09 de Aug del 2026 a las 10:37 AM",
-    "hora_utc": "2026-08-09 14:37",
-    "mensaje": "💡Con servicio eléctrico los siguientes circuitos:\n🔹Municipio Camajuaní:\n👉Ctos  73 y 156",
-    "timestamp": 1786286266,
-    "timestamp_local": 1786286266
-  },
-  {
-    "id": 52995,
-    "fecha": "09 de Aug del 2026 a las 10:32 AM",
-    "hora_utc": "2026-08-09 14:32",
-    "mensaje": "💡Con servicio eléctrico los siguientes circuitos:\n🔹Municipio Manicaragua:\n👉Ctos 109 y 150",
-    "timestamp": 1786285955,
-    "timestamp_local": 1786285955
-  },
-  {
-    "id": 52994,
-    "fecha": "09 de Aug del 2026 a las 10:30 AM",
-    "hora_utc": "2026-08-09 14:30",
-    "mensaje": "⚠️Afectado el servicio eléctrico en los siguientes circuitos:\n🔹Municipio Placetas:\n👉Ctos 101 y 145 Cumbre",
-    "timestamp": 1786285814,
-    "timestamp_local": 1786285814
-  },
-  {
-    "id": 52993,
-    "fecha": "09 de Aug del 2026 a las 10:17 AM",
-    "hora_utc": "2026-08-09 14:17",
-    "mensaje": "Actualización del servicio eléctrico en la provincia.\n👉En este momento la afectación por déficit de capacidad de generación es de 152 MW, demanda máxima posible a apagar en estos momentos.\n👉De los circuitos apagables se mantienen afectados 91.\n👉Cuenta con 401 afectaciones por averías secundarias y de servicio.",
-    "timestamp": 1786285066,
-    "timestamp_local": 1786285066
   }
 ]
