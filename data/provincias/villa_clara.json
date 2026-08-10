@@ -1,5 +1,45 @@
 [
   {
+    "id": 53078,
+    "fecha": "10 de Aug del 2026 a las 07:31 AM",
+    "hora_utc": "2026-08-10 11:31",
+    "mensaje": "💡Con servicio eléctrico los siguientes circuitos:\n🔹Municipio Manicaragua:\n👉Ctos 113 y 137 La Campana\n👉Cto 112 Hoyo Manicaragua",
+    "timestamp": 1786361518,
+    "timestamp_local": 1786361518
+  },
+  {
+    "id": 53077,
+    "fecha": "10 de Aug del 2026 a las 07:30 AM",
+    "hora_utc": "2026-08-10 11:30",
+    "mensaje": "⚠️Afectado el servicio eléctrico en los siguientes circuitos:\n🔹Municipio Santa Clara:\n👉Cto 30 y 193 Santa Clara Industrial",
+    "timestamp": 1786361456,
+    "timestamp_local": 1786361456
+  },
+  {
+    "id": 53076,
+    "fecha": "10 de Aug del 2026 a las 07:30 AM",
+    "hora_utc": "2026-08-10 11:30",
+    "mensaje": "💡Con servicio eléctrico el siguiente circuito:\n🔹Municipio Santa Clara:\n👉Cto 31 Santa Clara Industrial",
+    "timestamp": 1786361400,
+    "timestamp_local": 1786361400
+  },
+  {
+    "id": 53075,
+    "fecha": "10 de Aug del 2026 a las 07:04 AM",
+    "hora_utc": "2026-08-10 11:04",
+    "mensaje": "⚡Afectado el circuito 146 Elevado Aeropuerto por estar faltando una fase.",
+    "timestamp": 1786359850,
+    "timestamp_local": 1786359850
+  },
+  {
+    "id": 53074,
+    "fecha": "10 de Aug del 2026 a las 07:00 AM",
+    "hora_utc": "2026-08-10 11:00",
+    "mensaje": "⚠️Afectado el servicio eléctrico en los siguientes circuitos:\n🔹Municipio Santa Clara:\n👉Cto 4 Consejo- Centro\n👉Cto 5 Dobarganes\n👉Cto 17 Subplanta",
+    "timestamp": 1786359639,
+    "timestamp_local": 1786359639
+  },
+  {
     "id": 53073,
     "fecha": "10 de Aug del 2026 a las 06:29 AM",
     "hora_utc": "2026-08-10 10:29",
@@ -118,45 +158,5 @@
     "mensaje": "💡Con servicio eléctrico el siguiente circuito:\n🔹Municipio Santa Clara:\n👉Cto 132 Santa Clara Industrial",
     "timestamp": 1786335734,
     "timestamp_local": 1786335734
-  },
-  {
-    "id": 53058,
-    "fecha": "10 de Aug del 2026 a las 12:02 AM",
-    "hora_utc": "2026-08-10 04:02",
-    "mensaje": "➡️Cto 110 La Piedra, del municipio Manicaragua, afectado el Ramal Guinia, por cables primarios partidos.\n➡️Cto SK114 Ramal El Bagá , perteneciente al Municipio Manicaragua, afectado por avería en la zona de Fomento\n➡️Afectado por avería Cto 75 La Quinta perteneciente al Municipio Camajuaní , por cables primarios partidos.",
-    "timestamp": 1786334561,
-    "timestamp_local": 1786334561
-  },
-  {
-    "id": 53057,
-    "fecha": "10 de Aug del 2026 a las 12:01 AM",
-    "hora_utc": "2026-08-10 04:01",
-    "mensaje": "🕛Actualización del servicio eléctrico.\n✍️El déficit de capacidad de generación en estos momentos es de 209 MW\n✍️En el momento de esta nota, se mantienen afectados 134 circuitos.\n✍️ Cuenta con 472 afectaciones por averías secundarias y de servicio:\n🔸 Caibarién (4)\n🔸 Camajuaní (16)\n🔸 Cifuentes (2)\n🔸 Corralillo (10)\n🔸 Manicaragua (16)\n🔸 Placetas (17)\n🔸 Quemado (1)\n🔸 Ranchuelo (14)\n🔸 Remedios (11) \n🔸 Sagua (42) \n🔸 Santa Clara (251)\n🔸 Santo Domingo (46)\n🛠️Se encuentran 2 averías en vías de solución.\n🛠️Pendientes a solucionar por el área técnica 40.",
-    "timestamp": 1786334516,
-    "timestamp_local": 1786334516
-  },
-  {
-    "id": 53056,
-    "fecha": "09 de Aug del 2026 a las 10:11 PM",
-    "hora_utc": "2026-08-10 02:11",
-    "mensaje": "💡Restablecido el servicio eléctrico en el circuito 166 Condado.",
-    "timestamp": 1786327889,
-    "timestamp_local": 1786327889
-  },
-  {
-    "id": 53055,
-    "fecha": "09 de Aug del 2026 a las 10:10 PM",
-    "hora_utc": "2026-08-10 02:10",
-    "mensaje": "🛠️Afectado por manipulación el circuito 166 Condado.",
-    "timestamp": 1786327809,
-    "timestamp_local": 1786327809
-  },
-  {
-    "id": 53054,
-    "fecha": "09 de Aug del 2026 a las 09:58 PM",
-    "hora_utc": "2026-08-10 01:58",
-    "mensaje": "✍️Ante cualquier duda conozca sobre la terminología eléctrica\n\n🔹Las averías pueden ser:\n     \n➡️Primarias: Afecta un volumen grande de población pues son las líneas de distribución a 13.8 kV y puede afectar varias manzanas, incluso repartos completos.\n\n➡️Secundarias: Afecta a todos los clientes que se alimenten del mismo transformador, puede afectar una o varias cuadras. \n\n➡️De servicio: Afectan 1 solo cliente o instalación generalmente producto a daños en la acometida, metro contador, etc.).",
-    "timestamp": 1786327106,
-    "timestamp_local": 1786327106
   }
 ]
