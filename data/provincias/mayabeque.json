@@ -1,9 +1,17 @@
 [
   {
+    "id": 119040,
+    "fecha": "10 de Aug del 2026 a las 05:55 AM",
+    "hora_utc": "2026-08-10 09:55",
+    "mensaje": "♦️Informamos a los clientes del circuito Camacho 1 y 2 que se encuentran afectados por avería ♦️",
+    "timestamp": 1786355726,
+    "timestamp_local": 1786355726
+  },
+  {
     "id": 119039,
     "fecha": "10 de Aug del 2026 a las 01:14 AM",
     "hora_utc": "2026-08-10 05:14",
-    "mensaje": "🚨Por déficit de capacidad de generación se afecta el servicio en el siguiente circuito:\n* Fénix 🚨",
+    "mensaje": "🚨Por déficit de capacidad de generación se afecta el servicio en los siguientes circuitos:\n* Fénix \n* Salud 1🚨",
     "timestamp": 1786338898,
     "timestamp_local": 1786338898
   },
@@ -142,13 +150,5 @@
     "mensaje": "🚨Por déficit de capacidad de generación se afecta el servicio en los siguientes circuitos:\n*Melena 1 y 2🚨",
     "timestamp": 1786312247,
     "timestamp_local": 1786312247
-  },
-  {
-    "id": 119020,
-    "fecha": "09 de Aug del 2026 a las 05:24 PM",
-    "hora_utc": "2026-08-09 21:24",
-    "mensaje": "🚨Por déficit de capacidad de generación se afecta el servicio en el siguiente circuito:\n*Jaruco 2 🚨",
-    "timestamp": 1786310695,
-    "timestamp_local": 1786310695
   }
 ]
