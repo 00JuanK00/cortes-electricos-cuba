@@ -1,5 +1,53 @@
 [
   {
+    "id": 53159,
+    "fecha": "10 de Aug del 2026 a las 07:08 PM",
+    "hora_utc": "2026-08-10 23:08",
+    "mensaje": "Afectados 205 MW en la provincia, demanda máxima a apagar en estos momentos.",
+    "timestamp": 1786403283,
+    "timestamp_local": 1786403283
+  },
+  {
+    "id": 53158,
+    "fecha": "10 de Aug del 2026 a las 06:45 PM",
+    "hora_utc": "2026-08-10 22:45",
+    "mensaje": "⚠️Afectado el servicio eléctrico en el siguiente circuito:\n🔹Municipio Santa Clara:\n👉Cto 2 Consejo-Centro",
+    "timestamp": 1786401916,
+    "timestamp_local": 1786401916
+  },
+  {
+    "id": 53157,
+    "fecha": "10 de Aug del 2026 a las 06:44 PM",
+    "hora_utc": "2026-08-10 22:44",
+    "mensaje": "💡Con servicio eléctrico el siguiente circuito:\n🔹Municipio Santa Clara:\n👉 Cto 3 Consejo-Centro",
+    "timestamp": 1786401887,
+    "timestamp_local": 1786401887
+  },
+  {
+    "id": 53156,
+    "fecha": "10 de Aug del 2026 a las 06:35 PM",
+    "hora_utc": "2026-08-10 22:35",
+    "mensaje": "⚠️Afectado el servicio eléctrico en los siguientes circuitos:\n🔹Municipio Santo Domingo:\n👉Cto 79 Santo Domingo\n👉Cto 81 26 de Julio\n👉Cto 163 Batey 26 de Julio\n🔹Municipio Ranchuelo:\n👉Ctos 54, 94 y 95 Jicotea\n🔹Municipio Santa Clara:\n👉Cto 191 Quemado de Hilario",
+    "timestamp": 1786401350,
+    "timestamp_local": 1786401350
+  },
+  {
+    "id": 53155,
+    "fecha": "10 de Aug del 2026 a las 06:28 PM",
+    "hora_utc": "2026-08-10 22:28",
+    "mensaje": "⚠️Afectado el servicio eléctrico en los siguientes circuitos:\n🔹Municipio Santa Clara:\n👉Cto 132 Santa Clara Industrial\n👉Cto 162 Santa Clara Industrial\n👉Cto 13 Zona Industrial",
+    "timestamp": 1786400913,
+    "timestamp_local": 1786400913
+  },
+  {
+    "id": 53154,
+    "fecha": "10 de Aug del 2026 a las 06:17 PM",
+    "hora_utc": "2026-08-10 22:17",
+    "mensaje": "💡Con servicio eléctrico el siguiente circuito:\n🔹Municipio Corralillo:\n👉 Cto 55 Rancho Veloz",
+    "timestamp": 1786400245,
+    "timestamp_local": 1786400245
+  },
+  {
     "id": 53153,
     "fecha": "10 de Aug del 2026 a las 06:12 PM",
     "hora_utc": "2026-08-10 22:12",
@@ -110,53 +158,5 @@
     "mensaje": "⚠️Afectado el servicio eléctrico en los siguientes circuitos:\n🔹Municipio Santa Clara:\n👉Ctos 1 y 3 Consejo-Centro\n👉Ctos 37 y 38 Yabú \n👉Cto 9 Moldes y Troqueles",
     "timestamp": 1786393222,
     "timestamp_local": 1786393222
-  },
-  {
-    "id": 53139,
-    "fecha": "10 de Aug del 2026 a las 04:18 PM",
-    "hora_utc": "2026-08-10 20:18",
-    "mensaje": "⚠️Afectado el servicio eléctrico en el siguiente circuito:\n🔹Municipio Quemado:\n👉Cto 52",
-    "timestamp": 1786393134,
-    "timestamp_local": 1786393134
-  },
-  {
-    "id": 53138,
-    "fecha": "10 de Aug del 2026 a las 04:02 PM",
-    "hora_utc": "2026-08-10 20:02",
-    "mensaje": "Actualización del servicio eléctrico en la provincia.\n👉En este momento la afectación por déficit de capacidad de generación es de 161 MW, demanda máxima posible a apagar en estos momentos.\n👉De los circuitos apagables se mantienen afectados 90.\n👉Cuenta con 380 afectaciones por averías secundarias y de servicio.",
-    "timestamp": 1786392141,
-    "timestamp_local": 1786392141
-  },
-  {
-    "id": 53137,
-    "fecha": "10 de Aug del 2026 a las 03:59 PM",
-    "hora_utc": "2026-08-10 19:59",
-    "mensaje": "⚠️Afectado el servicio eléctrico en el siguiente circuito:\n🔹Municipio Camajuaní:\n👉Cto 77 Vueltas",
-    "timestamp": 1786391955,
-    "timestamp_local": 1786391955
-  },
-  {
-    "id": 53136,
-    "fecha": "10 de Aug del 2026 a las 03:55 PM",
-    "hora_utc": "2026-08-10 19:55",
-    "mensaje": "💡Con servicio eléctrico los siguientes circuitos:\n🔹Municipio Santo Domingo:\n👉Cto 195 Batey George Washington\n👉Ctos 83 y 165 Manacas\n👉Ctos 85 y 86 Pajarito\n👉Ctos 160 y 161 Cascajal",
-    "timestamp": 1786391702,
-    "timestamp_local": 1786391702
-  },
-  {
-    "id": 53135,
-    "fecha": "10 de Aug del 2026 a las 03:52 PM",
-    "hora_utc": "2026-08-10 19:52",
-    "mensaje": "⚠️Afectado el servicio eléctrico en los siguientes circuitos:\n🔹Municipio Santo Domingo:\n👉Cto 134\n👉Ctos 87 y 96 Bermejal\n👉Cto 187 Batey Carlos Baliño\n👉Cto 82 Ulacia\n👉Cto 84 Rodrigo",
-    "timestamp": 1786391521,
-    "timestamp_local": 1786391521
-  },
-  {
-    "id": 53134,
-    "fecha": "10 de Aug del 2026 a las 03:51 PM",
-    "hora_utc": "2026-08-10 19:51",
-    "mensaje": "⚠️Afectado el servicio eléctrico en los siguientes circuitos:\n🔹Municipio Santa Clara:\n👉Ctos 15 y 27 Maleza\n👉Cto 153 EIDE",
-    "timestamp": 1786391509,
-    "timestamp_local": 1786391509
   }
 ]
