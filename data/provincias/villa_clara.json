@@ -1,5 +1,37 @@
 [
   {
+    "id": 53068,
+    "fecha": "10 de Aug del 2026 a las 02:36 AM",
+    "hora_utc": "2026-08-10 06:36",
+    "mensaje": "⚠️Afectado el servicio eléctrico en el siguiente circuito:\n🔹Municipio Santa Clara:\n👉Cto 168 Condado",
+    "timestamp": 1786343801,
+    "timestamp_local": 1786343801
+  },
+  {
+    "id": 53067,
+    "fecha": "10 de Aug del 2026 a las 02:11 AM",
+    "hora_utc": "2026-08-10 06:11",
+    "mensaje": "⚠️Afectado el servicio eléctrico en el siguiente circuito:\n🔹Municipio Santa Clara:\n👉Cto 169 Condado",
+    "timestamp": 1786342302,
+    "timestamp_local": 1786342302
+  },
+  {
+    "id": 53066,
+    "fecha": "10 de Aug del 2026 a las 02:07 AM",
+    "hora_utc": "2026-08-10 06:07",
+    "mensaje": "Actualización del servicio eléctrico en la provincia.\n👉En este momento la afectación por déficit de capacidad de generación es de 199 MW, demanda máxima posible a apagar en estos momentos.\n👉De los circuitos apagables se mantienen afectados 122.\n👉Cuenta con 460 afectaciones por averías secundarias y de servicio.",
+    "timestamp": 1786342050,
+    "timestamp_local": 1786342050
+  },
+  {
+    "id": 53065,
+    "fecha": "10 de Aug del 2026 a las 02:00 AM",
+    "hora_utc": "2026-08-10 06:00",
+    "mensaje": "💡Con servicio eléctrico los siguientes circuitos:\n🔹Municipio Santa Clara:\n👉Cto 7 Universidad\n👉Cto 131 Las Antillas\n👉Cto 22 Construcciones Textil\n👉Cto 14 Maleza",
+    "timestamp": 1786341615,
+    "timestamp_local": 1786341615
+  },
+  {
     "id": 53064,
     "fecha": "10 de Aug del 2026 a las 01:45 AM",
     "hora_utc": "2026-08-10 05:45",
@@ -118,37 +150,5 @@
     "mensaje": "⚠️Afectado el servicio eléctrico en los siguientes circuitos:\n🔹Municipio Santa Clara:\n👉Cto 6 Vigía\n👉Cto 39 (Sandino)\n👉Cto 34 Sabana Rebacadero",
     "timestamp": 1786316774,
     "timestamp_local": 1786316774
-  },
-  {
-    "id": 53048,
-    "fecha": "09 de Aug del 2026 a las 07:05 PM",
-    "hora_utc": "2026-08-09 23:05",
-    "mensaje": "⚠️Afectado el servicio eléctrico en los siguientes circuitos:\n🔹Municipio Santa Clara:\n👉Ctos 37 y 38 Yabú \n👉Cto 9 Moldes y Troqueles\n👉Cto 133 Taller Cafetera",
-    "timestamp": 1786316708,
-    "timestamp_local": 1786316708
-  },
-  {
-    "id": 53047,
-    "fecha": "09 de Aug del 2026 a las 07:04 PM",
-    "hora_utc": "2026-08-09 23:04",
-    "mensaje": "⚠️Afectado el servicio eléctrico en el siguiente circuito:\n🔹Municipio Santa Clara:\n👉Cto 2  Consejo- Centro",
-    "timestamp": 1786316656,
-    "timestamp_local": 1786316656
-  },
-  {
-    "id": 53046,
-    "fecha": "09 de Aug del 2026 a las 06:21 PM",
-    "hora_utc": "2026-08-09 22:21",
-    "mensaje": "⚠️Afectado el servicio eléctrico en el siguiente circuito:\n🔹Municipio Santa Clara:\n👉Cto 13 Zona Industrial",
-    "timestamp": 1786314075,
-    "timestamp_local": 1786314075
-  },
-  {
-    "id": 53045,
-    "fecha": "09 de Aug del 2026 a las 06:07 PM",
-    "hora_utc": "2026-08-09 22:07",
-    "mensaje": "➡️Cto 110 La Piedra, del municipio Manicaragua, afectado el Ramal Guinia, por cables primarios partidos.\n➡️Cto SK114 Ramal El Bagá , perteneciente al Municipio Manicaragua, afectado por avería en la zona de Fomento\n➡️Afectado por avería Cto 75 La Quinta perteneciente al Municipio Camajuaní , por cables primarios partidos.",
-    "timestamp": 1786313225,
-    "timestamp_local": 1786313225
   }
 ]
