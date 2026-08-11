@@ -1,9 +1,17 @@
 [
   {
+    "id": 119111,
+    "fecha": "11 de Aug del 2026 a las 05:25 AM",
+    "hora_utc": "2026-08-11 09:25",
+    "mensaje": "🔷Se normaliza el circuito 3665 que se encontraba afectado por disparo por DAF 🔷",
+    "timestamp": 1786440343,
+    "timestamp_local": 1786440343
+  },
+  {
     "id": 119108,
     "fecha": "11 de Aug del 2026 a las 03:18 AM",
     "hora_utc": "2026-08-11 07:18",
-    "mensaje": "🚨Por déficit de capacidad de generación se afecta el servicio en el siguiente circuito\n*Melena 1 🚨",
+    "mensaje": "🚨Por déficit de capacidad de generación se afecta el servicio en los siguientes circuitos:\n*Melena 1\n*Jaruco 2 🚨",
     "timestamp": 1786432694,
     "timestamp_local": 1786432694
   },
@@ -102,21 +110,5 @@
     "mensaje": "🚨Por déficit de capacidad de generación se afecta el servicio en el siguiente circuito\n*Güines 2🚨",
     "timestamp": 1786406176,
     "timestamp_local": 1786406176
-  },
-  {
-    "id": 119090,
-    "fecha": "10 de Aug del 2026 a las 07:43 PM",
-    "hora_utc": "2026-08-10 23:43",
-    "mensaje": "🚨Por déficit de capacidad de generación se afecta el servicio en el siguiente circuito\n*3 de San José 🚨",
-    "timestamp": 1786405420,
-    "timestamp_local": 1786405420
-  },
-  {
-    "id": 119089,
-    "fecha": "10 de Aug del 2026 a las 07:05 PM",
-    "hora_utc": "2026-08-10 23:05",
-    "mensaje": "🚨Por déficit de capacidad de generación se afecta el servicio en el siguiente circuito\n*6 de San José 🚨",
-    "timestamp": 1786403118,
-    "timestamp_local": 1786403118
   }
 ]
