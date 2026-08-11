@@ -1,9 +1,73 @@
 [
   {
+    "id": 53273,
+    "fecha": "11 de Aug del 2026 a las 07:12 PM",
+    "hora_utc": "2026-08-11 23:12",
+    "mensaje": "⚠️Afectado el servicio eléctrico en los siguientes circuitos:\n🔹Municipio Santa Clara\n👉Cto 35 Biotecnología\n👉Cto 25 Los Güiros\n👉Cto 153 EIDE\n👉Cto 24 Planta Asfalto",
+    "timestamp": 1786489943,
+    "timestamp_local": 1786489943
+  },
+  {
+    "id": 53272,
+    "fecha": "11 de Aug del 2026 a las 07:09 PM",
+    "hora_utc": "2026-08-11 23:09",
+    "mensaje": "⚠️Afectado el servicio eléctrico en los siguientes circuitos:\n🔹Municipio Placetas:\n👉Cto 107 Baez\n👉Cto 105 Nazareno",
+    "timestamp": 1786489780,
+    "timestamp_local": 1786489780
+  },
+  {
+    "id": 53271,
+    "fecha": "11 de Aug del 2026 a las 07:06 PM",
+    "hora_utc": "2026-08-11 23:06",
+    "mensaje": "💡Con servicio eléctrico el siguiente circuito:\n🔹Municipio Camajuaní:\n👉Ctos 185 Vueltas",
+    "timestamp": 1786489605,
+    "timestamp_local": 1786489605
+  },
+  {
+    "id": 53270,
+    "fecha": "11 de Aug del 2026 a las 06:45 PM",
+    "hora_utc": "2026-08-11 22:45",
+    "mensaje": "💡Con servicio eléctrico los siguientes circuitos:\n🔹Municipio Sagua\n👉Ctos 50 y 147 Villa Alegre",
+    "timestamp": 1786488356,
+    "timestamp_local": 1786488356
+  },
+  {
+    "id": 53269,
+    "fecha": "11 de Aug del 2026 a las 06:45 PM",
+    "hora_utc": "2026-08-11 22:45",
+    "mensaje": "⚠️Afectado el servicio eléctrico en los siguientes circuitos:\n🔹Municipio Sagua\n👉Cto 48 Finalet\n👉Ctos 46 y 128 Sitiecito",
+    "timestamp": 1786488301,
+    "timestamp_local": 1786488301
+  },
+  {
+    "id": 53268,
+    "fecha": "11 de Aug del 2026 a las 06:42 PM",
+    "hora_utc": "2026-08-11 22:42",
+    "mensaje": "⚠️Afectado el servicio eléctrico en el siguiente circuito:\n🔹Municipio Quemado:\n👉 Cto  52",
+    "timestamp": 1786488121,
+    "timestamp_local": 1786488121
+  },
+  {
+    "id": 53267,
+    "fecha": "11 de Aug del 2026 a las 06:41 PM",
+    "hora_utc": "2026-08-11 22:41",
+    "mensaje": "💡Con servicio eléctrico el siguiente circuito:\n🔹Municipio Quemado:\n👉 Ctos 164",
+    "timestamp": 1786488066,
+    "timestamp_local": 1786488066
+  },
+  {
+    "id": 53266,
+    "fecha": "11 de Aug del 2026 a las 06:23 PM",
+    "hora_utc": "2026-08-11 22:23",
+    "mensaje": "🕛Actualización del servicio eléctrico.\n✍️El déficit de capacidad de generación en estos momentos es de 132 MW\n✍️En el momento de esta nota, se mantienen afectados 215 circuitos.\n✍️ Cuenta con 298 afectaciones por averías secundarias y de servicio:\n🔸 Caibarién (1)\n🔸 Camajuaní (1)\n🔸 Cifuentes (1)\n🔸 Corralillo (1)\n🔸Encrucijada (2)\n🔸 Manicaragua (11)\n🔸 Placetas (12)\n🔸 Ranchuelo (6)\n🔸 Remedios (5) \n🔸 Sagua (32) \n🔸 Santa Clara (218)\n🔸 Santo Domingo (8)\n🛠️Se encuentran 2 averías en vías de solución.\n🛠️Pendientes a solucionar por el área técnica 15.\n⚡Avería ⚡\n🛠 Continúan las labores de reparación por parte de nuestras brigadas eléctricas en primario partido y llenado de aceite dieléctrico en transformador de la Sub perteneciente al Cto 40 Hospital Militar.\n🛠️Averia en el Cto 146  Elevado Aeropuerto, del municipio Santa Clara,por cable primario partido",
+    "timestamp": 1786487020,
+    "timestamp_local": 1786487020
+  },
+  {
     "id": 53264,
     "fecha": "11 de Aug del 2026 a las 06:20 PM",
     "hora_utc": "2026-08-11 22:20",
-    "mensaje": "🛠 Continúan las labores por parte de nuestras Brigadas eléctricas en  primario partido y llenado de aceite dieléctrico en transformador de la Sub  perteneciente al Cto 40 Hospital Militar.",
+    "mensaje": "🛠 Continúan las labores de reparación por parte de nuestras brigadas eléctricas en  primario partido y llenado de aceite dieléctrico en transformador de la Sub  perteneciente al Cto 40 Hospital Militar.",
     "timestamp": 1786486804,
     "timestamp_local": 1786486804
   },
@@ -86,69 +150,5 @@
     "mensaje": "⚠️Afectado el servicio eléctrico en los siguientes circuitos:\n🔹Municipio Cifuentes:\n👉Ctos 114 y 117\n👉Ctos 116 y 155 Mata\n👉Cto 186 Batey Unidad Proletaria\n👉Cto 184 Sitio Grande",
     "timestamp": 1786483030,
     "timestamp_local": 1786483030
-  },
-  {
-    "id": 53253,
-    "fecha": "11 de Aug del 2026 a las 05:14 PM",
-    "hora_utc": "2026-08-11 21:14",
-    "mensaje": "💡Con servicio eléctrico el siguiente circuito:\n🔹Municipio Quemado:\n👉Cto 52 Quemado",
-    "timestamp": 1786482878,
-    "timestamp_local": 1786482878
-  },
-  {
-    "id": 53252,
-    "fecha": "11 de Aug del 2026 a las 05:07 PM",
-    "hora_utc": "2026-08-11 21:07",
-    "mensaje": "⚠️Afectado el servicio eléctrico en los siguientes circuitos:\n🔹Municipio Santa Clara:\n👉Cto 16 Cubanacán\n👉Ctos 23 y 130 La Ceniza\n👉Cto 42 Manajanabo\n🔹Municipio Placetas\n👉Cto 139 Miller\n👉Cto 190 Oliver\n👉Cto 106 Falcón",
-    "timestamp": 1786482475,
-    "timestamp_local": 1786482475
-  },
-  {
-    "id": 53251,
-    "fecha": "11 de Aug del 2026 a las 05:06 PM",
-    "hora_utc": "2026-08-11 21:06",
-    "mensaje": "⚠️Afectado el servicio eléctrico en los siguientes circuitos:\n🔹Municipio Santa Clara\n👉Ctos 26 y 141 Manuelita\n👉Cto 191 Quemado de Hilario\n🔹Municipio Santo Domingo:\n👉Cto 79 Santo Domingo\n👉Cto 81 26 de Julio\n👉Cto 163 Batey 26 de Julio\n🔹Municipio Ranchuelo:\n👉Ctos 54, 94 y 95 Jicotea",
-    "timestamp": 1786482363,
-    "timestamp_local": 1786482363
-  },
-  {
-    "id": 53250,
-    "fecha": "11 de Aug del 2026 a las 04:49 PM",
-    "hora_utc": "2026-08-11 20:49",
-    "mensaje": "💡Con servicio eléctrico los siguientes circuitos:\n🔹Municipio Santa Clara\n👉Cto 35 Biotecnología\n👉Cto 25 Los Güiros\n👉Cto 153 EIDE\n👉Cto 24 Planta Asfalto",
-    "timestamp": 1786481391,
-    "timestamp_local": 1786481391
-  },
-  {
-    "id": 53249,
-    "fecha": "11 de Aug del 2026 a las 04:24 PM",
-    "hora_utc": "2026-08-11 20:24",
-    "mensaje": "💡Con servicio eléctrico los siguientes circuitos:\n🔹Municipio Placetas\n👉Cto 100 Placetas\n👉Cto 103 Batey Carbó Servía",
-    "timestamp": 1786479886,
-    "timestamp_local": 1786479886
-  },
-  {
-    "id": 53248,
-    "fecha": "11 de Aug del 2026 a las 04:14 PM",
-    "hora_utc": "2026-08-11 20:14",
-    "mensaje": "Actualización del servicio eléctrico en la provincia.\n👉En este momento la afectación por déficit de capacidad de generación es de 203 MW, demanda máxima posible a apagar en estos momentos.\n👉De los circuitos apagables se mantienen afectados 116.\n👉Cuenta con 318 afectaciones por averías secundarias y de servicio.",
-    "timestamp": 1786479292,
-    "timestamp_local": 1786479292
-  },
-  {
-    "id": 53247,
-    "fecha": "11 de Aug del 2026 a las 04:02 PM",
-    "hora_utc": "2026-08-11 20:02",
-    "mensaje": "⚠️Afectado el servicio eléctrico en el siguiente circuito:\n🔹Municipio Santa Clara\n👉Cto 13 Zona Industrial",
-    "timestamp": 1786478532,
-    "timestamp_local": 1786478532
-  },
-  {
-    "id": 53246,
-    "fecha": "11 de Aug del 2026 a las 03:56 PM",
-    "hora_utc": "2026-08-11 19:56",
-    "mensaje": "⚠️Afectado el servicio eléctrico en el siguiente circuito:\n🔹Municipio Camajuaní:\n👉Cto 73",
-    "timestamp": 1786478179,
-    "timestamp_local": 1786478179
   }
 ]
