@@ -1,5 +1,29 @@
 [
   {
+    "id": 53194,
+    "fecha": "11 de Aug del 2026 a las 04:39 AM",
+    "hora_utc": "2026-08-11 08:39",
+    "mensaje": "💡Con servicio eléctrico el siguiente circuito:\n🔹Municipio Santa Clara:\n👉 Cto 166 Condado",
+    "timestamp": 1786437545,
+    "timestamp_local": 1786437545
+  },
+  {
+    "id": 53193,
+    "fecha": "11 de Aug del 2026 a las 04:29 AM",
+    "hora_utc": "2026-08-11 08:29",
+    "mensaje": "⚠️Afectado el servicio eléctrico en el siguiente circuito:\n🔹Municipio Santa Clara:\n👉 Cto 166 Condado",
+    "timestamp": 1786436945,
+    "timestamp_local": 1786436945
+  },
+  {
+    "id": 53192,
+    "fecha": "11 de Aug del 2026 a las 04:01 AM",
+    "hora_utc": "2026-08-11 08:01",
+    "mensaje": "Actualización del servicio eléctrico en la provincia.\n👉En este momento la afectación por déficit de capacidad de generación es de 214 MW, demanda máxima posible a apagar en estos momentos.\n👉De los circuitos apagables se mantienen afectados 139.\n👉Cuenta con 377 afectaciones por averías secundarias y de servicio.",
+    "timestamp": 1786435316,
+    "timestamp_local": 1786435316
+  },
+  {
     "id": 53191,
     "fecha": "11 de Aug del 2026 a las 03:09 AM",
     "hora_utc": "2026-08-11 07:09",
@@ -134,29 +158,5 @@
     "mensaje": "🛠️Afectado por disparo el circuito 3 Consejo-Centro, del municipio Santa Clara. Se estudian las causas.",
     "timestamp": 1786417255,
     "timestamp_local": 1786417255
-  },
-  {
-    "id": 53174,
-    "fecha": "10 de Aug del 2026 a las 10:07 PM",
-    "hora_utc": "2026-08-11 02:07",
-    "mensaje": "Actualización del servicio eléctrico en la provincia.\n👉En este momento la afectación por déficit de capacidad de generación es de 226 MW, demanda máxima posible a apagar en estos momentos.\n👉De los circuitos apagables se mantienen afectados 147.\n👉Cuenta con 382 afectaciones por averías secundarias y de servicio.",
-    "timestamp": 1786414062,
-    "timestamp_local": 1786414062
-  },
-  {
-    "id": 53173,
-    "fecha": "10 de Aug del 2026 a las 09:26 PM",
-    "hora_utc": "2026-08-11 01:26",
-    "mensaje": "Afectados 226 MW en la provincia, demanda máxima a apagar en estos momentos.",
-    "timestamp": 1786411602,
-    "timestamp_local": 1786411602
-  },
-  {
-    "id": 53172,
-    "fecha": "10 de Aug del 2026 a las 09:08 PM",
-    "hora_utc": "2026-08-11 01:08",
-    "mensaje": "⚠️Afectado el servicio eléctrico en el siguiente circuito:\n🔹Municipio Ranchuelo: \n👉Cto 181 Batey Ifraín Alfonso",
-    "timestamp": 1786410527,
-    "timestamp_local": 1786410527
   }
 ]
