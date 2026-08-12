@@ -1,5 +1,93 @@
 [
   {
+    "id": 53395,
+    "fecha": "12 de Aug del 2026 a las 02:31 PM",
+    "hora_utc": "2026-08-12 18:31",
+    "mensaje": "⚠️Afectado el servicio eléctrico en el siguiente circuito:\n🔹Municipio Santa Clara\n👉Cto 167 Virginia",
+    "timestamp": 1786559483,
+    "timestamp_local": 1786559483
+  },
+  {
+    "id": 53394,
+    "fecha": "12 de Aug del 2026 a las 02:27 PM",
+    "hora_utc": "2026-08-12 18:27",
+    "mensaje": "Actualización del servicio eléctrico en la provincia.\n👉En este momento la afectación por déficit de capacidad de generación es de 124 MW, demanda máxima posible a apagar en estos momentos.\n👉De los circuitos apagables se mantienen afectados 66.\n👉Cuenta con 305 afectaciones por averías secundarias y de servicio.",
+    "timestamp": 1786559268,
+    "timestamp_local": 1786559268
+  },
+  {
+    "id": 53393,
+    "fecha": "12 de Aug del 2026 a las 02:24 PM",
+    "hora_utc": "2026-08-12 18:24",
+    "mensaje": "⚠️Afectados por manipulación en los siguientes circuitos:\n🔹Municipio Santa Clara:\n👉Cto 5 Dobarganes\n👉Cto 17 Subplanta",
+    "timestamp": 1786559081,
+    "timestamp_local": 1786559081
+  },
+  {
+    "id": 53392,
+    "fecha": "12 de Aug del 2026 a las 02:13 PM",
+    "hora_utc": "2026-08-12 18:13",
+    "mensaje": "⚠️Afectado el servicio eléctrico en los siguientes circuitos:\n🔹Municipio Encrucijada:\n👉Cto 122 Encrucijada \n👉Cto 123 Vizcaya \n👉Cto 142 Comunidad La Sierra \n👉Cto 126 Batey Emilio Córdova\n👉Cto 125 Cavarrocas\n👉Cto 124 El Santo\n🔹Municipio Camajuaní: \n👉Cto 78 Jutiero\n👉Cto 75 La Quinta\n👉Cto 157 Luis Arcos Bergnes\n👉Ctos 76 y 90 Vega Alta",
+    "timestamp": 1786558392,
+    "timestamp_local": 1786558392
+  },
+  {
+    "id": 53391,
+    "fecha": "12 de Aug del 2026 a las 02:12 PM",
+    "hora_utc": "2026-08-12 18:12",
+    "mensaje": "💡Con servicio eléctrico en los siguientes circuitos:\n🔹Municipio Santo Domingo:\n👉Cto 195 Batey George Washington\n👉Ctos 83 y 165 Manacas\n👉Cto 134\n👉Ctos 87 y 96 Bermejal\n👉Cto 187 Batey Carlos Baliño\n👉Cto 82 Ulacia\n👉Cto 84 Rodrigo",
+    "timestamp": 1786558342,
+    "timestamp_local": 1786558342
+  },
+  {
+    "id": 53390,
+    "fecha": "12 de Aug del 2026 a las 02:11 PM",
+    "hora_utc": "2026-08-12 18:11",
+    "mensaje": "💡Con servicio eléctrico en los siguientes circuitos:\n🔹Municipio Manicaragua:\n👉Ctos 109 y 150",
+    "timestamp": 1786558261,
+    "timestamp_local": 1786558261
+  },
+  {
+    "id": 53389,
+    "fecha": "12 de Aug del 2026 a las 01:52 PM",
+    "hora_utc": "2026-08-12 17:52",
+    "mensaje": "⚠️Afectado el servicio eléctrico en el siguiente circuito:\n🔹Municipio Caibarién\n👉Ctos 182 Van Troy",
+    "timestamp": 1786557146,
+    "timestamp_local": 1786557146
+  },
+  {
+    "id": 53388,
+    "fecha": "12 de Aug del 2026 a las 01:51 PM",
+    "hora_utc": "2026-08-12 17:51",
+    "mensaje": "💡Con servicio eléctrico el siguiente circuito:\n🔹Municipio Caibarién\n👉Ctos 183 Van Troy",
+    "timestamp": 1786557071,
+    "timestamp_local": 1786557071
+  },
+  {
+    "id": 53387,
+    "fecha": "12 de Aug del 2026 a las 01:46 PM",
+    "hora_utc": "2026-08-12 17:46",
+    "mensaje": "🛠️ Se encuentra en avería el circuito 146 Elevado Aeropuerto por estar faltando una fase.",
+    "timestamp": 1786556767,
+    "timestamp_local": 1786556767
+  },
+  {
+    "id": 53386,
+    "fecha": "12 de Aug del 2026 a las 01:46 PM",
+    "hora_utc": "2026-08-12 17:46",
+    "mensaje": "⚠️Afectados por manipulación en los siguientes circuitos:\n🔹Municipio Santo Domingo:\n👉Cto 195 Batey George Washington\n👉Ctos 83 y 165 Manacas\n👉Ctos 85 y 86 Pajarito\n👉Ctos 160 y 161 Cascajal",
+    "timestamp": 1786556767,
+    "timestamp_local": 1786556767
+  },
+  {
+    "id": 53385,
+    "fecha": "12 de Aug del 2026 a las 01:46 PM",
+    "hora_utc": "2026-08-12 17:46",
+    "mensaje": "💡Con servicio eléctrico en los siguientes circuitos:\n🔹Municipio Camajuaní:\n👉Ctos 77 y 59  Vueltas",
+    "timestamp": 1786556766,
+    "timestamp_local": 1786556766
+  },
+  {
     "id": 53384,
     "fecha": "12 de Aug del 2026 a las 01:28 PM",
     "hora_utc": "2026-08-12 17:28",
@@ -70,93 +158,5 @@
     "mensaje": "💡Con servicio eléctrico el siguiente circuito:\n🔹Municipio Santa Clara:\n👉Cto 32  (RF-33Kv)",
     "timestamp": 1786553710,
     "timestamp_local": 1786553710
-  },
-  {
-    "id": 53374,
-    "fecha": "12 de Aug del 2026 a las 12:53 PM",
-    "hora_utc": "2026-08-12 16:53",
-    "mensaje": "💡Con servicio eléctrico el siguiente circuito:\n🔹Municipio Santa Clara:          \n  👉Cto 153 EIDE",
-    "timestamp": 1786553585,
-    "timestamp_local": 1786553585
-  },
-  {
-    "id": 53373,
-    "fecha": "12 de Aug del 2026 a las 12:47 PM",
-    "hora_utc": "2026-08-12 16:47",
-    "mensaje": "💡Restablecido el servicio eléctrico en el Cto 146 Elevado Aeropuerto.",
-    "timestamp": 1786553226,
-    "timestamp_local": 1786553226
-  },
-  {
-    "id": 53372,
-    "fecha": "12 de Aug del 2026 a las 12:45 PM",
-    "hora_utc": "2026-08-12 16:45",
-    "mensaje": "⚡Se encuentra afectado por disparo el Cto 2 Consejo Centro perteneciente al municipio de Santa Clara, se estudian las causas.",
-    "timestamp": 1786553117,
-    "timestamp_local": 1786553117
-  },
-  {
-    "id": 53371,
-    "fecha": "12 de Aug del 2026 a las 12:40 PM",
-    "hora_utc": "2026-08-12 16:40",
-    "mensaje": "🛠️ Se encuentra en avería el circuito 146 Elevado Aeropuerto  por estar faltando una fase en la subestación.",
-    "timestamp": 1786552853,
-    "timestamp_local": 1786552853
-  },
-  {
-    "id": 53370,
-    "fecha": "12 de Aug del 2026 a las 12:38 PM",
-    "hora_utc": "2026-08-12 16:38",
-    "mensaje": "💡 Restablecido el servicio eléctrico en el circuito 1 Consejo- Centro perteneciente al municipio de Santa Clara.",
-    "timestamp": 1786552714,
-    "timestamp_local": 1786552714
-  },
-  {
-    "id": 53369,
-    "fecha": "12 de Aug del 2026 a las 12:36 PM",
-    "hora_utc": "2026-08-12 16:36",
-    "mensaje": "💡 Restablecido el servicio eléctrico en los siguientes circuitos:\n➡️Línea 6375 \n🔹Municipio Santa Clara\n👉Cto 7 Universidad\n👉Cto 131 Las Antillas\n👉Cto 22 Construcciones Textil(Deficit)\n👉Cto 153 EIDE (Deficit)\n👉Cto 24 Planta Asfalto\n👉Cto 146 Elevado Aeropuerto\n👉Cto 25 Los Güiros\n👉Cto 35 Biotecnología\n👉Cto 14\n👉Cto 15 y 27 Maleza(Deficit)",
-    "timestamp": 1786552600,
-    "timestamp_local": 1786552600
-  },
-  {
-    "id": 53368,
-    "fecha": "12 de Aug del 2026 a las 12:35 PM",
-    "hora_utc": "2026-08-12 16:35",
-    "mensaje": "💡Restablecido el servicio eléctrico en los siguientes circuitos:\n🔹Municipio Santa Clara\n👉Cto 7 Universidad\n👉Cto 131 Las Antillas\n👉Cto 22 Construcciones Textil(Deficit)\n🔹Municipio Santa Clara\n👉Cto 153 EIDE (Déficit)\n👉Cto 24 Planta Asfalto\n👉Cto 146 Elevado Aeropuerto\n👉Cto 25 Los Güiros\n👉Cto 35 Biotecnología\n👉Cto 14\n👉Cto 15 y 27 Maleza(Deficit)",
-    "timestamp": 1786552529,
-    "timestamp_local": 1786552529
-  },
-  {
-    "id": 53367,
-    "fecha": "12 de Aug del 2026 a las 12:31 PM",
-    "hora_utc": "2026-08-12 16:31",
-    "mensaje": "💡 Restablecido el servicio eléctrico en los siguientes circuitos:\n🔹Municipio Santa Clara:\n👉Ctos 30 ( Parcial) y 193 Santa Clara Industrial",
-    "timestamp": 1786552262,
-    "timestamp_local": 1786552262
-  },
-  {
-    "id": 53366,
-    "fecha": "12 de Aug del 2026 a las 12:14 PM",
-    "hora_utc": "2026-08-12 16:14",
-    "mensaje": "🕛Actualización del servicio eléctrico.\n✍️El déficit de capacidad de generación en estos momentos es de 147 __ MW__\n✍️__En el momento de esta nota, se mantienen afectados 81__ circuitos.\n✍️ Cuenta con __344 afectaciones por averías secundarias y de servicio:__\n🔸__ Camajuaní (1)__\n🔸__ Cifuentes (1)__\n🔸__ Corralillo (2)__\n🔸__ Encrucijada (2)__\n🔸__ Manicaragua (7)__\n🔸__ Placetas (7)__\n🔸__ Ranchuelo (5)__\n🔸__ Remedios (4)__ \n🔸__ Sagua (36)__ \n🔸__ Santa Clara (224)__\n🔸__ Santo Domingo (7)__\n🛠️__Se encuentran__  7 averías en vías de solución.\n🛠️Pendientes a solucionar por el área técnica 41.\n⚡La provincia presenta 2 averías primarias.\n➡️Cto 146 Elevado Aeropuerto, faltando una fase ya brigadas de nuestra empresa se encuentran trabajando en la zona.\n➡️Cto 1 Consejo Centro, afectado por puente partido,ya brigadas de nuestra empresa se encuentran trabajando.",
-    "timestamp": 1786551259,
-    "timestamp_local": 1786551259
-  },
-  {
-    "id": 53365,
-    "fecha": "12 de Aug del 2026 a las 11:54 AM",
-    "hora_utc": "2026-08-12 15:54",
-    "mensaje": "💡Con servicio eléctrico el siguiente circuito:\n🔹Municipio Santa Clara:\n👉Cto 2 Consejo- Centro",
-    "timestamp": 1786550060,
-    "timestamp_local": 1786550060
-  },
-  {
-    "id": 53364,
-    "fecha": "12 de Aug del 2026 a las 11:43 AM",
-    "hora_utc": "2026-08-12 15:43",
-    "mensaje": "💡Con servicio eléctrico en los siguientes circuitos:\n🔹Municipio Encrucijada:\n👉Cto 122 Encrucijada \n👉Cto 123 Vizcaya \n👉Cto 142 Comunidad La Sierra \n👉Cto 126 Batey Emilio Córdova\n👉Cto 125 Cavarrocas\n👉Cto 124 El Santo\n🔹Municipio Camajuaní: \n👉Cto 78 Jutiero\n👉Cto 75 La Quinta\n👉Cto 157 Luis Arcos Bergnes\n👉Ctos 76 y 90 Vega Alta",
-    "timestamp": 1786549433,
-    "timestamp_local": 1786549433
   }
 ]
