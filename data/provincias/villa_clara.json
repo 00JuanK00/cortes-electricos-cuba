@@ -1,5 +1,21 @@
 [
   {
+    "id": 53321,
+    "fecha": "12 de Aug del 2026 a las 02:26 AM",
+    "hora_utc": "2026-08-12 06:26",
+    "mensaje": "Actualización del servicio eléctrico en la provincia.\n👉En este momento la afectación por déficit de capacidad de generación es de 217 MW, demanda máxima posible a apagar en estos momentos.\n👉De los circuitos apagables se mantienen afectados 143.\n👉Cuenta con 310 afectaciones por averías secundarias y de servicio.",
+    "timestamp": 1786515982,
+    "timestamp_local": 1786515982
+  },
+  {
+    "id": 53320,
+    "fecha": "12 de Aug del 2026 a las 01:30 AM",
+    "hora_utc": "2026-08-12 05:30",
+    "mensaje": "⚠️Afectado el servicio eléctrico en los siguientes circuitos:\n🔹Municipio Remedios:\n👉Ctos 67 y 152",
+    "timestamp": 1786512635,
+    "timestamp_local": 1786512635
+  },
+  {
     "id": 53319,
     "fecha": "12 de Aug del 2026 a las 12:59 AM",
     "hora_utc": "2026-08-12 04:59",
@@ -142,21 +158,5 @@
     "mensaje": "💡Restablecido el servicio eléctrico al Cto 40 Hospital Militar perteneciente al Municipio Santa Clara",
     "timestamp": 1786500410,
     "timestamp_local": 1786500410
-  },
-  {
-    "id": 53301,
-    "fecha": "11 de Aug del 2026 a las 10:04 PM",
-    "hora_utc": "2026-08-12 02:04",
-    "mensaje": "Actualización del servicio eléctrico en la provincia.\n👉En este momento la afectación por déficit de capacidad de generación es de 215 MW, demanda máxima posible a apagar en estos momentos.\n👉De los circuitos apagables se mantienen afectados 139.\n👉Cuenta con 310 afectaciones por averías secundarias y de servicio.",
-    "timestamp": 1786500275,
-    "timestamp_local": 1786500275
-  },
-  {
-    "id": 53300,
-    "fecha": "11 de Aug del 2026 a las 09:55 PM",
-    "hora_utc": "2026-08-12 01:55",
-    "mensaje": "💡Con servicio eléctrico el siguiente circuito:\n🔹Municipio Ranchuelo:\n👉Ctos 89",
-    "timestamp": 1786499704,
-    "timestamp_local": 1786499704
   }
 ]
