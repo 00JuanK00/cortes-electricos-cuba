@@ -1,9 +1,33 @@
 [
   {
+    "id": 57017,
+    "fecha": "13 de Aug del 2026 a las 03:40 PM",
+    "hora_utc": "2026-08-13 19:40",
+    "mensaje": "🚨Se incorpora a la afectación por Déficit de Capacidad de Generación el circuito 10 de Santiago. Disculpen las molestias ocasionadas.",
+    "timestamp": 1786650028,
+    "timestamp_local": 1786650028
+  },
+  {
+    "id": 57016,
+    "fecha": "13 de Aug del 2026 a las 03:23 PM",
+    "hora_utc": "2026-08-13 19:23",
+    "mensaje": "🚨🔴 Estimados clientes se les informa que en estos momentos se esta manipulando el circuito 15 de Santiago, disculpen las molestias ocasionadas.",
+    "timestamp": 1786649006,
+    "timestamp_local": 1786649006
+  },
+  {
+    "id": 57015,
+    "fecha": "13 de Aug del 2026 a las 03:15 PM",
+    "hora_utc": "2026-08-13 19:15",
+    "mensaje": "🚨 Se incorpora a la afectación por Déficit de Capacidad de Generación el circuito 26 de Santiago, disculpen las molestias ocasionadas.",
+    "timestamp": 1786648513,
+    "timestamp_local": 1786648513
+  },
+  {
     "id": 57014,
     "fecha": "13 de Aug del 2026 a las 02:30 PM",
     "hora_utc": "2026-08-13 18:30",
-    "mensaje": "🚨🔴 Se incorpora a la afectación por Déficit de Capacidad de Generación la línea 5380 Mella. Disculpen las molestias ocasionadas.",
+    "mensaje": "🚨🔴 Se incorporan a la afectación por Déficit de Capacidad de Generación los  circuitos 2 , 12 de Santiago y la línea 5380 Mella  ,disculpen las molestias ocasionadas.",
     "timestamp": 1786645807,
     "timestamp_local": 1786645807
   },
@@ -126,29 +150,5 @@
     "mensaje": "🔴 **Disparo:**\nApertura no voluntaria de un interruptor como vía de protección para desconectar uno o varios elementos del circuito, subestación o sistema, restableciéndose el servicio rápidamente en dependencia de la causa.",
     "timestamp": 1786612852,
     "timestamp_local": 1786612852
-  },
-  {
-    "id": 56996,
-    "fecha": "13 de Aug del 2026 a las 05:20 AM",
-    "hora_utc": "2026-08-13 09:20",
-    "mensaje": "🚨 Estimados clientes en estos momentos se encuentra disparado el circuito 11 de Santiago.",
-    "timestamp": 1786612829,
-    "timestamp_local": 1786612829
-  },
-  {
-    "id": 56995,
-    "fecha": "13 de Aug del 2026 a las 04:47 AM",
-    "hora_utc": "2026-08-13 08:47",
-    "mensaje": "⚠️Estimados clientes, se les reitera que el comportamiento de las afectaciones eléctricas y el restablecimiento del servicio, estará en dependencia de la situación que presente el Sistema Electroenergético Nacional.",
-    "timestamp": 1786610867,
-    "timestamp_local": 1786610867
-  },
-  {
-    "id": 56994,
-    "fecha": "13 de Aug del 2026 a las 04:39 AM",
-    "hora_utc": "2026-08-13 08:39",
-    "mensaje": "🚨 Se afectan por Déficit de Capacidad de Generación los circuitos 7 seccionalizado y 19 de Santiago.",
-    "timestamp": 1786610349,
-    "timestamp_local": 1786610349
   }
 ]
