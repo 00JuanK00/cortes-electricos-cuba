@@ -1,5 +1,13 @@
 [
   {
+    "id": 53452,
+    "fecha": "13 de Aug del 2026 a las 05:03 AM",
+    "hora_utc": "2026-08-13 09:03",
+    "mensaje": "Actualización del servicio eléctrico en la provincia.\n👉En este momento la afectación por déficit de capacidad de generación es de 201 MW, demanda máxima posible a apagar en estos momentos.\n👉De los circuitos apagables se mantienen afectados 122.\n👉Cuenta con 311 afectaciones por averías secundarias y de servicio.",
+    "timestamp": 1786611833,
+    "timestamp_local": 1786611833
+  },
+  {
     "id": 53451,
     "fecha": "13 de Aug del 2026 a las 03:14 AM",
     "hora_utc": "2026-08-13 07:14",
@@ -142,13 +150,5 @@
     "mensaje": "⚡Continua afectado Cto 146 Elevado Aeropuerto, perteneciente al Municipio Santa Clara pendiente a trabajo de brigada.",
     "timestamp": 1786585843,
     "timestamp_local": 1786585843
-  },
-  {
-    "id": 53432,
-    "fecha": "12 de Aug del 2026 a las 09:43 PM",
-    "hora_utc": "2026-08-13 01:43",
-    "mensaje": "💡Restablecido el servicio en los siguientes circuitos\n🔹Municipio Santa Clara: \n👉Cto 166 Condado\n👉Cto 169 Condado",
-    "timestamp": 1786585412,
-    "timestamp_local": 1786585412
   }
 ]
