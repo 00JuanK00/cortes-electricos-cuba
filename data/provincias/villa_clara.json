@@ -1,5 +1,29 @@
 [
   {
+    "id": 53449,
+    "fecha": "13 de Aug del 2026 a las 02:23 AM",
+    "hora_utc": "2026-08-13 06:23",
+    "mensaje": "⚠️Afectado el servicio eléctrico en el siguiente circuito:\n🔹Municipio Santa Clara: \n👉Cto 168 Condado\n👉Cto 28 Monumento Che",
+    "timestamp": 1786602181,
+    "timestamp_local": 1786602181
+  },
+  {
+    "id": 53448,
+    "fecha": "13 de Aug del 2026 a las 02:21 AM",
+    "hora_utc": "2026-08-13 06:21",
+    "mensaje": "Actualización del servicio eléctrico en la provincia.\n👉En este momento la afectación por déficit de capacidad de generación es de 193 MW, demanda máxima posible a apagar en estos momentos.\n👉De los circuitos apagables se mantienen afectados 126.\n👉Cuenta con 310 afectaciones por averías secundarias y de servicio.",
+    "timestamp": 1786602071,
+    "timestamp_local": 1786602071
+  },
+  {
+    "id": 53447,
+    "fecha": "13 de Aug del 2026 a las 02:19 AM",
+    "hora_utc": "2026-08-13 06:19",
+    "mensaje": "💡Restablecido el servicio en los siguientes circuitos\n🔹Municipio Santa Clara\n👉Ctos 26 y 141 Manuelita",
+    "timestamp": 1786601970,
+    "timestamp_local": 1786601970
+  },
+  {
     "id": 53445,
     "fecha": "13 de Aug del 2026 a las 01:10 AM",
     "hora_utc": "2026-08-13 05:10",
@@ -126,37 +150,5 @@
     "mensaje": "🛠️Afectado por manipulación para reponer transformador el Cto 169 Condado, perteneciente al Municipio Santa Clara.",
     "timestamp": 1786584395,
     "timestamp_local": 1786584395
-  },
-  {
-    "id": 53427,
-    "fecha": "12 de Aug del 2026 a las 09:09 PM",
-    "hora_utc": "2026-08-13 01:09",
-    "mensaje": "⚠️Afectado el servicio eléctrico en los siguientes circuitos:\n🔹Municipio Santa Clara\n👉Cto 24 Planta Asfalto\n👉Cto 146 Elevado Aeropuerto(Avería)\n👉Cto 25 Los Güiros\n👉Cto 35 Biotecnología\n👉Cto 153 EIDE",
-    "timestamp": 1786583381,
-    "timestamp_local": 1786583381
-  },
-  {
-    "id": 53426,
-    "fecha": "12 de Aug del 2026 a las 09:08 PM",
-    "hora_utc": "2026-08-13 01:08",
-    "mensaje": "⚠️Afectado el servicio eléctrico en los siguientes circuitos:\n🔹Municipio Santa Clara:\n👉Cto 16 Cubanacán \n👉Ctos 23 y 130 La Ceniza\n👉Cto 42 Manajanabo\n🔹Municipio Placetas\n👉Cto 139 Miller\n👉Cto 190 Oliver\n👉Cto 106 Falcón",
-    "timestamp": 1786583306,
-    "timestamp_local": 1786583306
-  },
-  {
-    "id": 53425,
-    "fecha": "12 de Aug del 2026 a las 08:39 PM",
-    "hora_utc": "2026-08-13 00:39",
-    "mensaje": "⚠️Afectado el servicio eléctrico en el siguiente circuito:\n🔹Municipio Placetas:\n👉Cto 98",
-    "timestamp": 1786581548,
-    "timestamp_local": 1786581548
-  },
-  {
-    "id": 53424,
-    "fecha": "12 de Aug del 2026 a las 08:16 PM",
-    "hora_utc": "2026-08-13 00:16",
-    "mensaje": "⚠️Afectado el servicio eléctrico en los siguientes circuitos:\nActualización del servicio eléctrico en la provincia.\n👉En este momento la afectación por déficit de capacidad de generación es de 199 MW, demanda máxima posible a apagar en estos momentos.\n👉De los circuitos apagables se mantienen afectados 124.\n👉Cuenta con 319 afectaciones por averías secundarias y de servicio.",
-    "timestamp": 1786580166,
-    "timestamp_local": 1786580166
   }
 ]
