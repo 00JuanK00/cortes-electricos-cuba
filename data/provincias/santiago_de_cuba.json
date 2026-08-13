@@ -1,9 +1,33 @@
 [
   {
+    "id": 57014,
+    "fecha": "13 de Aug del 2026 a las 02:30 PM",
+    "hora_utc": "2026-08-13 18:30",
+    "mensaje": "🚨🔴 Se incorpora a la afectación por Déficit de Capacidad de Generación la línea 5380 Mella. Disculpen las molestias ocasionadas.",
+    "timestamp": 1786645807,
+    "timestamp_local": 1786645807
+  },
+  {
+    "id": 57013,
+    "fecha": "13 de Aug del 2026 a las 02:09 PM",
+    "hora_utc": "2026-08-13 18:09",
+    "mensaje": "🔴📌**Disparo:**\nApertura no voluntaria de un interruptor como vía de protección para desconectar uno o varios elementos del circuito, subestación o sistema, restableciéndose el servicio rápidamente en dependencia de la causa.",
+    "timestamp": 1786644563,
+    "timestamp_local": 1786644563
+  },
+  {
+    "id": 57012,
+    "fecha": "13 de Aug del 2026 a las 02:08 PM",
+    "hora_utc": "2026-08-13 18:08",
+    "mensaje": "🚨⚡️ Estimados clientes se  les informa que en estos momentos el circuito 14 de Santiago se encuentra disparado. Disculpen las molestias ocasionadas.",
+    "timestamp": 1786644534,
+    "timestamp_local": 1786644534
+  },
+  {
     "id": 57011,
     "fecha": "13 de Aug del 2026 a las 01:31 PM",
     "hora_utc": "2026-08-13 17:31",
-    "mensaje": "🚨🔴Se incorpora a la afectación por Déficit de Capacidad de Generación el circuito 1 de Santiago.",
+    "mensaje": "🚨🔴Se incorporan a la afectación por Déficit de Capacidad de Generación los circuitos 1 , 16 y 21 de Santiago.",
     "timestamp": 1786642311,
     "timestamp_local": 1786642311
   },
@@ -126,21 +150,5 @@
     "mensaje": "🚨 Se afectan por Déficit de Capacidad de Generación los circuitos 7 seccionalizado y 19 de Santiago.",
     "timestamp": 1786610349,
     "timestamp_local": 1786610349
-  },
-  {
-    "id": 56993,
-    "fecha": "13 de Aug del 2026 a las 04:22 AM",
-    "hora_utc": "2026-08-13 08:22",
-    "mensaje": "🚨 Estimados clientes se encuentra afectado por Déficit de Capacidad de Generación el circuito 4 de Palma.",
-    "timestamp": 1786609329,
-    "timestamp_local": 1786609329
-  },
-  {
-    "id": 56991,
-    "fecha": "13 de Aug del 2026 a las 03:05 AM",
-    "hora_utc": "2026-08-13 07:05",
-    "mensaje": "🚨  Se encuentra afectado por Déficit de Capacidad de Generación la línea 5390- La Maya- II Frente.",
-    "timestamp": 1786604728,
-    "timestamp_local": 1786604728
   }
 ]
