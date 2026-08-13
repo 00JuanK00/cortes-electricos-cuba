@@ -1,5 +1,13 @@
 [
   {
+    "id": 20912,
+    "fecha": "13 de Aug del 2026 a las 06:02 PM",
+    "hora_utc": "2026-08-13 22:02",
+    "mensaje": "🔔Nuestro sistema registra a las 18:00 horas del día 13/08/2026 un total de 428 interrupciones pendientes.\n\n♦️Interrupciones pendientes:\n-Amancio:25\n-Jobabo:6\n-Colombia:14\n-Menéndez:5\n-Puerto Padre:88\n-Majibacoa:21\n-Las Tunas:268\n\n♦️Interrupciones pendientes a solución:\n-Amancio:7\n-Jobabo:2\n-Colombia:6\n-Menéndez:8\n-Puerto Padre:23\n-Majibacoa:3\n-Las Tunas:48\n\n🔔Se registra un total de 58 transformadores dañados, de ellos 34 residenciales y 24 estatales.",
+    "timestamp": 1786658524,
+    "timestamp_local": 1786658524
+  },
+  {
     "id": 20910,
     "fecha": "13 de Aug del 2026 a las 02:19 PM",
     "hora_utc": "2026-08-13 18:19",
@@ -94,13 +102,5 @@
     "mensaje": "👉- Disparo Automático por Frecuencia (DAF): El disparo por DAF ocurre cuando la frecuencia llega a valores mínimos permisibles que ponen en peligro la estabilidad del mismo y como protección desconecta varios circuitos de la Capital. Los mismo restablecen a medida que se vaya recuperando la frecuencia que tiene un valor de 60hz o ciclos por segundo.",
     "timestamp": 1786576125,
     "timestamp_local": 1786576125
-  },
-  {
-    "id": 20892,
-    "fecha": "12 de Aug del 2026 a las 07:06 PM",
-    "hora_utc": "2026-08-12 23:06",
-    "mensaje": "Disparado por DAF el circuito  TK5 Buena Vista, Los Pinos",
-    "timestamp": 1786575972,
-    "timestamp_local": 1786575972
   }
 ]
