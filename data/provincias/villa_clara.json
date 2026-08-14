@@ -1,5 +1,93 @@
 [
   {
+    "id": 53600,
+    "fecha": "14 de Aug del 2026 a las 02:06 PM",
+    "hora_utc": "2026-08-14 18:06",
+    "mensaje": "💡Con servicio eléctrico el siguiente circuito:\n🔹Municipio Santa Clara: \n👉Cto 2 Consejo-Centro",
+    "timestamp": 1786730773,
+    "timestamp_local": 1786730773
+  },
+  {
+    "id": 53599,
+    "fecha": "14 de Aug del 2026 a las 02:05 PM",
+    "hora_utc": "2026-08-14 18:05",
+    "mensaje": "⚠️Afectado el servicio eléctrico en los siguientes circuitos:\n🔹Municipio Santa Clara:\n👉Ctos 1 y 4 Consejo-Centro",
+    "timestamp": 1786730728,
+    "timestamp_local": 1786730728
+  },
+  {
+    "id": 53598,
+    "fecha": "14 de Aug del 2026 a las 02:04 PM",
+    "hora_utc": "2026-08-14 18:04",
+    "mensaje": "💡Con servicio eléctrico los siguientes circuitos:\n 🔹Municipio Ranchuelo: \n👉Ctos 148 y 149 San Juan\n👉Cto 91 Batey Osvaldo Herrera",
+    "timestamp": 1786730688,
+    "timestamp_local": 1786730688
+  },
+  {
+    "id": 53597,
+    "fecha": "14 de Aug del 2026 a las 02:03 PM",
+    "hora_utc": "2026-08-14 18:03",
+    "mensaje": "Actualización del servicio eléctrico en la provincia.\n👉En este momento la afectación por déficit de capacidad de generación es de 149 MW, demanda máxima posible a apagar en estos momentos.\n👉De los circuitos apagables se mantienen afectados 93.\n👉Cuenta con 417 afectaciones por averías secundarias y de servicio.",
+    "timestamp": 1786730633,
+    "timestamp_local": 1786730633
+  },
+  {
+    "id": 53596,
+    "fecha": "14 de Aug del 2026 a las 02:01 PM",
+    "hora_utc": "2026-08-14 18:01",
+    "mensaje": "Con servicio la línea 119:\n🔹Municipio Santa Clara:\n👉Cto 144 Camacho",
+    "timestamp": 1786730519,
+    "timestamp_local": 1786730519
+  },
+  {
+    "id": 53595,
+    "fecha": "14 de Aug del 2026 a las 02:00 PM",
+    "hora_utc": "2026-08-14 18:00",
+    "mensaje": "💡Con servicio eléctrico los siguientes circuitos:\n🔹Municipio Sagua\n👉Ctos 43 y 51 Sagua",
+    "timestamp": 1786730415,
+    "timestamp_local": 1786730415
+  },
+  {
+    "id": 53594,
+    "fecha": "14 de Aug del 2026 a las 01:59 PM",
+    "hora_utc": "2026-08-14 17:59",
+    "mensaje": "⚠️Afectado el servicio eléctrico en los siguientes circuitos:\n🔹Municipio Sagua\n👉Ctos 50 y 147 Villa Alegre",
+    "timestamp": 1786730376,
+    "timestamp_local": 1786730376
+  },
+  {
+    "id": 53593,
+    "fecha": "14 de Aug del 2026 a las 01:52 PM",
+    "hora_utc": "2026-08-14 17:52",
+    "mensaje": "🛠️Manipulación de la línea 119, para reponer transformador:\n🔹Municipio Santa Clara:\n👉Cto 144 Camacho",
+    "timestamp": 1786729963,
+    "timestamp_local": 1786729963
+  },
+  {
+    "id": 53592,
+    "fecha": "14 de Aug del 2026 a las 01:51 PM",
+    "hora_utc": "2026-08-14 17:51",
+    "mensaje": "💡Con servicio eléctrico el siguiente circuito:\n🔹Municipio Santa Clara:\n👉Cto 132 Santa Clara Industrial",
+    "timestamp": 1786729874,
+    "timestamp_local": 1786729874
+  },
+  {
+    "id": 53591,
+    "fecha": "14 de Aug del 2026 a las 01:49 PM",
+    "hora_utc": "2026-08-14 17:49",
+    "mensaje": "⚠️Afectado el servicio eléctrico en los siguientes circuitos:\n🔹Municipio Encrucijada:\n👉Cto 122 Encrucijada \n👉Cto 123 Vizcaya \n👉Cto 142 Comunidad La Sierra \n👉Cto 126 Batey Emilio Córdova\n👉Cto 125 Cavarrocas\n👉Cto 124 El Santo\n🔹Municipio Camajuaní: \n👉Cto 78 Jutiero\n👉Cto 75 La Quinta\n👉Cto 157 Luis Arcos Bergnes\n👉Ctos 76 y 90 Vega Alta",
+    "timestamp": 1786729782,
+    "timestamp_local": 1786729782
+  },
+  {
+    "id": 53590,
+    "fecha": "14 de Aug del 2026 a las 01:47 PM",
+    "hora_utc": "2026-08-14 17:47",
+    "mensaje": "💡Con servicio eléctrico los siguientes circuitos:\n🔹Municipio Santa Clara:\n👉Cto 162 Santa Clara Industrial\n👉Cto 153 EIDE",
+    "timestamp": 1786729668,
+    "timestamp_local": 1786729668
+  },
+  {
     "id": 53589,
     "fecha": "14 de Aug del 2026 a las 01:29 PM",
     "hora_utc": "2026-08-14 17:29",
@@ -70,93 +158,5 @@
     "mensaje": "🕕Actualización del servicio eléctrico.\n✍️El déficit de capacidad de generación en estos momentos es de __132 MW.__\n✍️__En el momento de esta nota, se mantienen afectados__  74 circuitos.\n✍️ Cuenta con 431__ afectaciones por averías secundarias y de servicio:__\n🔸__ Caibarién (8)__\n🔸__ Camajuaní (3)__\n🔸__ Cifuentes (4)__\n🔸__ Corralillo (5)__\n🔸__ Encrucijada (13)__\n🔸__ Manicaragua (7)__\n🔸__ Placetas (17)__\n🔸__ Quemado (2)__\n🔸__ Ranchuelo (11)__\n🔸__ Remedios (11)__ \n🔸__ Sagua (45)__ \n🔸__ Santa Clara (254)__\n🔸__ Santo Domingo (11)__\n🛠️__Se encuentran 4__ averías en vías de solución.\n🛠️Pendientes a solucionar por el área técnica 36.\n⚡La provincia presenta 1 avería primaria en el Purio, afectando el Ramal Molino de Piedra en el municipio Encrucijada, debido a cable primario partido.",
     "timestamp": 1786724027,
     "timestamp_local": 1786724027
-  },
-  {
-    "id": 53580,
-    "fecha": "14 de Aug del 2026 a las 12:03 PM",
-    "hora_utc": "2026-08-14 16:03",
-    "mensaje": "⚠️Afectado el servicio eléctrico en los siguientes circuitos:\n🔹Municipio Placetas:\n👉Cto 192 Benito Juárez\n👉Cto 102 Peroti",
-    "timestamp": 1786723387,
-    "timestamp_local": 1786723387
-  },
-  {
-    "id": 53579,
-    "fecha": "14 de Aug del 2026 a las 11:36 AM",
-    "hora_utc": "2026-08-14 15:36",
-    "mensaje": "🛠️Afectada por emergencia debido a incendio la línea 108:\nAfecta los siguientes circuitos \n🔹Municipio Santo Domingo:\n👉Cto 134\n👉Ctos 87 y 96 Bermejal\n👉Cto 187 Batey Carlos Baliño\n👉Cto 82 Ulacia\n👉Cto 84 Rodrigo\n🔹Municipio Santa Clara\n👉Ctos 26 y 141 Manuelita\n👉Cto 191 Quemado de Hilario\n🔹Municipio Ranchuelo:\n👉Cto 92 Esperanza (Pueblo)(Déficit)\n👉Cto 93 Esperanza (Campo)(Déficit)\n🔹Municipio Santo Domingo:\n👉Cto 195 Batey George Washington (Déficit)\n👉Ctos 83 y 165 Manacas (Déficit)\n👉Ctos 85 y 86 Pajarito (Déficit)\n👉Ctos 160 y 161 Cascajal (Déficit)\n👉Cto 79 \n👉Cto 81 26 de Julio\n👉Cto 163 Batey 26 de Julio\n🔹Municipio Ranchuelo:\n👉Ctos 54, 94 y 95 Jicotea",
-    "timestamp": 1786721814,
-    "timestamp_local": 1786721814
-  },
-  {
-    "id": 53578,
-    "fecha": "14 de Aug del 2026 a las 11:12 AM",
-    "hora_utc": "2026-08-14 15:12",
-    "mensaje": "Con servicio los circuitos 63 y 64 del municipio Caibarién.",
-    "timestamp": 1786720334,
-    "timestamp_local": 1786720334
-  },
-  {
-    "id": 53577,
-    "fecha": "14 de Aug del 2026 a las 11:10 AM",
-    "hora_utc": "2026-08-14 15:10",
-    "mensaje": "⚠️Afectado el servicio eléctrico en los siguientes circuitos:\n🔹Municipio Santa Clara: \n👉Cto 7 Universidad\n👉Cto 131 Las Antillas",
-    "timestamp": 1786720224,
-    "timestamp_local": 1786720224
-  },
-  {
-    "id": 53576,
-    "fecha": "14 de Aug del 2026 a las 11:04 AM",
-    "hora_utc": "2026-08-14 15:04",
-    "mensaje": "💡Con servicio eléctrico los siguientes circuitos:\n🔹Municipio Sagua:\n👉Cto 44 Isabela\n👉Ctos 50 y 147 Villa Alegre",
-    "timestamp": 1786719889,
-    "timestamp_local": 1786719889
-  },
-  {
-    "id": 53575,
-    "fecha": "14 de Aug del 2026 a las 11:01 AM",
-    "hora_utc": "2026-08-14 15:01",
-    "mensaje": "⚠️Afectado el servicio eléctrico en el siguiente circuito:\n🔹Municipio Santa Clara: \n👉Cto 22 Construcciones Textil",
-    "timestamp": 1786719695,
-    "timestamp_local": 1786719695
-  },
-  {
-    "id": 53574,
-    "fecha": "14 de Aug del 2026 a las 10:58 AM",
-    "hora_utc": "2026-08-14 14:58",
-    "mensaje": "🛠️Afectados por faltar una fase los circuitos 63 y 64 del municipio Caibarién.",
-    "timestamp": 1786719481,
-    "timestamp_local": 1786719481
-  },
-  {
-    "id": 53573,
-    "fecha": "14 de Aug del 2026 a las 10:54 AM",
-    "hora_utc": "2026-08-14 14:54",
-    "mensaje": "💡Con servicio eléctrico el siguiente circuito:\n🔹Municipio Santa Clara:\n👉Cto 4 Consejo-Centro",
-    "timestamp": 1786719294,
-    "timestamp_local": 1786719294
-  },
-  {
-    "id": 53572,
-    "fecha": "14 de Aug del 2026 a las 10:47 AM",
-    "hora_utc": "2026-08-14 14:47",
-    "mensaje": "💡Con servicio eléctrico los siguientes circuitos:\n🔹Municipio Santa Clara:\n👉Cto 6 Vigía\n👉Cto 39 Sandino\n👉Cto 34 Sabana Rebacadero",
-    "timestamp": 1786718876,
-    "timestamp_local": 1786718876
-  },
-  {
-    "id": 53571,
-    "fecha": "14 de Aug del 2026 a las 10:46 AM",
-    "hora_utc": "2026-08-14 14:46",
-    "mensaje": "Con servicio la línea 1955:\n🔹Municipio Encrucijada:\n👉Cto 122 Encrucijada \n👉Cto 123 Vizcaya \n👉Cto 142 Comunidad La Sierra \n👉Cto 126 Batey Emilio Córdova\n👉Cto 125 Cavarrocas\n👉Cto 124 El Santo\n🔹Municipio Camajuaní: \n👉Cto 78 Jutiero\n👉Cto 75 La Quinta\n👉Cto 157 Luis Arcos Bergnes\n👉Ctos 76 y 90 Vega Alta",
-    "timestamp": 1786718773,
-    "timestamp_local": 1786718773
-  },
-  {
-    "id": 53570,
-    "fecha": "14 de Aug del 2026 a las 10:44 AM",
-    "hora_utc": "2026-08-14 14:44",
-    "mensaje": "Con servicio los siguientes circuitos:\n🔹Municipio Santa Clara:\n👉Cto 5 Dobarganes\n👉Cto 17 Subplanta",
-    "timestamp": 1786718686,
-    "timestamp_local": 1786718686
   }
 ]
