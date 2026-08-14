@@ -1,9 +1,33 @@
 [
   {
+    "id": 53582,
+    "fecha": "14 de Aug del 2026 a las 12:21 PM",
+    "hora_utc": "2026-08-14 16:21",
+    "mensaje": "⚠️Afectado el servicio eléctrico en los siguientes circuitos:\n🔹Municipio Ranchuelo: \n👉Ctos 97 y 189",
+    "timestamp": 1786724492,
+    "timestamp_local": 1786724492
+  },
+  {
+    "id": 53581,
+    "fecha": "14 de Aug del 2026 a las 12:13 PM",
+    "hora_utc": "2026-08-14 16:13",
+    "mensaje": "🕕Actualización del servicio eléctrico.\n✍️El déficit de capacidad de generación en estos momentos es de __132 MW.__\n✍️__En el momento de esta nota, se mantienen afectados__  74 circuitos.\n✍️ Cuenta con 431__ afectaciones por averías secundarias y de servicio:__\n🔸__ Caibarién (8)__\n🔸__ Camajuaní (3)__\n🔸__ Cifuentes (4)__\n🔸__ Corralillo (5)__\n🔸__ Encrucijada (13)__\n🔸__ Manicaragua (7)__\n🔸__ Placetas (17)__\n🔸__ Quemado (2)__\n🔸__ Ranchuelo (11)__\n🔸__ Remedios (11)__ \n🔸__ Sagua (45)__ \n🔸__ Santa Clara (254)__\n🔸__ Santo Domingo (11)__\n🛠️__Se encuentran 4__ averías en vías de solución.\n🛠️Pendientes a solucionar por el área técnica 36.\n⚡La provincia presenta 1 avería primaria en el Purio, afectando el Ramal Molino de Piedra en el municipio Encrucijada, debido a cable primario partido.",
+    "timestamp": 1786724027,
+    "timestamp_local": 1786724027
+  },
+  {
+    "id": 53580,
+    "fecha": "14 de Aug del 2026 a las 12:03 PM",
+    "hora_utc": "2026-08-14 16:03",
+    "mensaje": "⚠️Afectado el servicio eléctrico en los siguientes circuitos:\n🔹Municipio Placetas:\n👉Cto 192 Benito Juárez\n👉Cto 102 Peroti",
+    "timestamp": 1786723387,
+    "timestamp_local": 1786723387
+  },
+  {
     "id": 53579,
     "fecha": "14 de Aug del 2026 a las 11:36 AM",
     "hora_utc": "2026-08-14 15:36",
-    "mensaje": "🛠️Afectada por emergencia debido a incendio la línea 108:\nAfecta los siguientes circuitos \n🔹Municipio Santo Domingo:\n👉Cto 134\n👉Ctos 87 y 96 Bermejal\n👉Cto 187 Batey Carlos Baliño\n👉Cto 82 Ulacia\n👉Cto 84 Rodrigo\n🔹Municipio Santa Clara\n👉Ctos 26 y 141 Manuelita\n👉Cto 191 Quemado de Hilario\n🔹Municipio Ranchuelo:\n👉Cto 92 Esperanza (Pueblo)\n👉Cto 93 Esperanza (Campo)\n🔹Municipio Santo Domingo:\n👉Cto 195 Batey George Washington\n👉Ctos 83 y 165 Manacas\n👉Ctos 85 y 86 Pajarito\n👉Ctos 160 y 161 Cascajal\n👉Cto 79 \n👉Cto 81 26 de Julio\n👉Cto 163 Batey 26 de Julio\n🔹Municipio Ranchuelo:\n👉Ctos 54, 94 y 95 Jicotea",
+    "mensaje": "🛠️Afectada por emergencia debido a incendio la línea 108:\nAfecta los siguientes circuitos \n🔹Municipio Santo Domingo:\n👉Cto 134\n👉Ctos 87 y 96 Bermejal\n👉Cto 187 Batey Carlos Baliño\n👉Cto 82 Ulacia\n👉Cto 84 Rodrigo\n🔹Municipio Santa Clara\n👉Ctos 26 y 141 Manuelita\n👉Cto 191 Quemado de Hilario\n🔹Municipio Ranchuelo:\n👉Cto 92 Esperanza (Pueblo)(Déficit)\n👉Cto 93 Esperanza (Campo)(Déficit)\n🔹Municipio Santo Domingo:\n👉Cto 195 Batey George Washington (Déficit)\n👉Ctos 83 y 165 Manacas (Déficit)\n👉Ctos 85 y 86 Pajarito (Déficit)\n👉Ctos 160 y 161 Cascajal (Déficit)\n👉Cto 79 \n👉Cto 81 26 de Julio\n👉Cto 163 Batey 26 de Julio\n🔹Municipio Ranchuelo:\n👉Ctos 54, 94 y 95 Jicotea",
     "timestamp": 1786721814,
     "timestamp_local": 1786721814
   },
@@ -134,29 +158,5 @@
     "mensaje": "💡Con servicio eléctrico los siguientes circuitos:\n🔹Municipio Cifuentes:\n👉Ctos 114 y 117\n👉Ctos 116 y 155 Mata\n👉Cto 186 Batey Unidad Proletaria\n👉Cto 184 Sitio Grande\n🔹Municipio Quemado:\n👉Cto 52",
     "timestamp": 1786715943,
     "timestamp_local": 1786715943
-  },
-  {
-    "id": 53562,
-    "fecha": "14 de Aug del 2026 a las 09:50 AM",
-    "hora_utc": "2026-08-14 13:50",
-    "mensaje": "🛠️Afectado por disparo la línea 1955:\nAfecta los siguientes circuitos:\n🔹Municipio Encrucijada:\n👉Cto 122 Encrucijada \n👉Cto 123 Vizcaya \n👉Cto 142 Comunidad La Sierra \n👉Cto 126 Batey Emilio Córdova\n👉Cto 125 Cavarrocas\n👉Cto 124 El Santo\n🔹Municipio Camajuaní: \n👉Cto 78 Jutiero\n👉Cto 75 La Quinta\n👉Cto 157 Luis Arcos Bergnes\n👉Ctos 76 y 90 Vega Alta\n✍️Se estudian las causas.",
-    "timestamp": 1786715417,
-    "timestamp_local": 1786715417
-  },
-  {
-    "id": 53561,
-    "fecha": "14 de Aug del 2026 a las 09:44 AM",
-    "hora_utc": "2026-08-14 13:44",
-    "mensaje": "Durante la última hora, han ocurrido múltiples disparos en el circuito 144 Camacho perteneciente al municipio de Santa Clara, ocasionados principalmente por sobrecarga en el circuito tras ser restablecidos por déficit de capacidad.\n\nEsta situación, ha provocado afectaciones intermitentes a los clientes , por lo que se recomienda una vez restablecido el servicio conectar los equipos de manera gradual para de esta forma evitar que se dañen.",
-    "timestamp": 1786715060,
-    "timestamp_local": 1786715060
-  },
-  {
-    "id": 53560,
-    "fecha": "14 de Aug del 2026 a las 09:40 AM",
-    "hora_utc": "2026-08-14 13:40",
-    "mensaje": "💡Con servicio eléctrico los siguientes circuitos:\n🔹Municipio Encrucijada:\n👉Cto 122 Encrucijada \n👉Cto 123 Vizcaya \n👉Cto 142 Comunidad La Sierra \n👉Cto 126 Batey Emilio Córdova\n👉Cto 125 Cavarrocas\n👉Cto 124 El Santo\n🔹Municipio Camajuaní: \n👉Cto 78 Jutiero\n👉Cto 75 La Quinta\n👉Cto 157 Luis Arcos Bergnes\n👉Ctos 76 y 90 Vega Alta",
-    "timestamp": 1786714853,
-    "timestamp_local": 1786714853
   }
 ]
