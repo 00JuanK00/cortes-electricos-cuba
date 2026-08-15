@@ -1,5 +1,21 @@
 [
   {
+    "id": 53714,
+    "fecha": "15 de Aug del 2026 a las 08:07 AM",
+    "hora_utc": "2026-08-15 12:07",
+    "mensaje": "⚠️Afectado el servicio eléctrico en el siguiente circuito:\n🔹Municipio Santa Clara:\n👉Cto 167 Virginia",
+    "timestamp": 1786795656,
+    "timestamp_local": 1786795656
+  },
+  {
+    "id": 53713,
+    "fecha": "15 de Aug del 2026 a las 08:06 AM",
+    "hora_utc": "2026-08-15 12:06",
+    "mensaje": "Actualización del servicio eléctrico en la provincia.\n👉En este momento la afectación por déficit de capacidad de generación es de 201 MW, demanda máxima posible a apagar en estos momentos.\n👉De los circuitos apagables se mantienen afectados 130.\n👉Cuenta con 373 afectaciones por averías secundarias y de servicio.",
+    "timestamp": 1786795608,
+    "timestamp_local": 1786795608
+  },
+  {
     "id": 53712,
     "fecha": "15 de Aug del 2026 a las 07:21 AM",
     "hora_utc": "2026-08-15 11:21",
@@ -118,21 +134,5 @@
     "mensaje": "💡Con servicio eléctrico el siguiente circuito:\n🔹Municipio Santa Clara:\n👉Cto 144 Camacho",
     "timestamp": 1786774961,
     "timestamp_local": 1786774961
-  },
-  {
-    "id": 53694,
-    "fecha": "15 de Aug del 2026 a las 02:21 AM",
-    "hora_utc": "2026-08-15 06:21",
-    "mensaje": "⚠️Afectado el servicio eléctrico en el siguiente circuito:\n🔹Municipio Santa Clara:\n👉Cto 169 Condado",
-    "timestamp": 1786774919,
-    "timestamp_local": 1786774919
-  },
-  {
-    "id": 53693,
-    "fecha": "15 de Aug del 2026 a las 02:21 AM",
-    "hora_utc": "2026-08-15 06:21",
-    "mensaje": "💡Con servicio eléctrico el siguiente circuito:\n🔹Municipio Santa Clara:\n👉Cto 27 Maleza",
-    "timestamp": 1786774879,
-    "timestamp_local": 1786774879
   }
 ]
