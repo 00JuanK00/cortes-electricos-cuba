@@ -1,5 +1,13 @@
 [
   {
+    "id": 53719,
+    "fecha": "15 de Aug del 2026 a las 09:18 AM",
+    "hora_utc": "2026-08-15 13:18",
+    "mensaje": "Afectados 188 MW en la provincia, demanda máxima a apagar en estos momentos.",
+    "timestamp": 1786799880,
+    "timestamp_local": 1786799880
+  },
+  {
     "id": 53718,
     "fecha": "15 de Aug del 2026 a las 08:59 AM",
     "hora_utc": "2026-08-15 12:59",
@@ -134,13 +142,5 @@
     "mensaje": "Actualización del servicio eléctrico en la provincia.\n👉En este momento la afectación por déficit de capacidad de generación es de 202 MW, demanda máxima posible a apagar en estos momentos.\n👉De los circuitos apagables se mantienen afectados 140.\n👉Cuenta con 368 afectaciones por averías secundarias y de servicio.",
     "timestamp": 1786780620,
     "timestamp_local": 1786780620
-  },
-  {
-    "id": 53700,
-    "fecha": "15 de Aug del 2026 a las 03:28 AM",
-    "hora_utc": "2026-08-15 07:28",
-    "mensaje": "💡Con servicio eléctrico los siguientes circuitos:\n🔹Municipio Santa Clara:\n👉Cto 16 Cubanacán \n👉Ctos 23 y 130 La Ceniza\n👉Cto 42 Manajanabo\n🔹Municipio Placetas\n👉Cto 139 Miller\n👉Cto 190 Oliver\n👉Cto 106 Falcón",
-    "timestamp": 1786778898,
-    "timestamp_local": 1786778898
   }
 ]
