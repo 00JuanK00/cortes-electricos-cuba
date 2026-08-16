@@ -1,5 +1,21 @@
 [
   {
+    "id": 53762,
+    "fecha": "15 de Aug del 2026 a las 11:29 PM",
+    "hora_utc": "2026-08-16 03:29",
+    "mensaje": "Afectados 208 MW en la provincia, demanda máxima a apagar en estos momentos.",
+    "timestamp": 1786850962,
+    "timestamp_local": 1786850962
+  },
+  {
+    "id": 53761,
+    "fecha": "15 de Aug del 2026 a las 10:28 PM",
+    "hora_utc": "2026-08-16 02:28",
+    "mensaje": "Actualización del servicio eléctrico en la provincia.\n👉En este momento la afectación por déficit de capacidad de generación es de 209 MW, demanda máxima posible a apagar en estos momentos.\n👉De los circuitos apagables se mantienen afectados 136.\n👉Cuenta con 347 afectaciones por averías secundarias y de servicio.",
+    "timestamp": 1786847315,
+    "timestamp_local": 1786847315
+  },
+  {
     "id": 53760,
     "fecha": "15 de Aug del 2026 a las 09:23 PM",
     "hora_utc": "2026-08-16 01:23",
@@ -142,21 +158,5 @@
     "mensaje": "💡Se encuentran con servicio eléctrico los siguientes circuitos:\n🔹Municipio Manicaragua:\n👉Ctos 109 y 150\n🔹Municipio Encrucijada:\n👉Cto 120 Calabazar\n👉Ctos 121 y 127 Perucho\n🔹Municipio Camajuaní:\n👉Ctos 73 y 156\n🔹Municipio Quemado:\n👉 Cto 52 Quemado\n🔹Municipio Sagua:\n👉Ctos 50 y 147 Villa Alegre\n🔹Municipio Remedios:\n👉Ctos 69 y 70 Zuluetas\n👉Cto 143 Batey Heriberto Duquezne\n👉Cto 71 Buena Vista\n🔹Municipio Cifuentes:\n👉Ctos 114 y 117\n👉Cto 184 Sitio Grande",
     "timestamp": 1786821609,
     "timestamp_local": 1786821609
-  },
-  {
-    "id": 53741,
-    "fecha": "15 de Aug del 2026 a las 02:20 PM",
-    "hora_utc": "2026-08-15 18:20",
-    "mensaje": "Actualización del servicio eléctrico en la provincia.\n👉En este momento la afectación por déficit de capacidad de generación es de 133 MW, demanda máxima posible a apagar en estos momentos.\n👉De los circuitos apagables se mantienen afectados 71.\n👉Cuenta con 323 afectaciones por averías secundarias y de servicio.",
-    "timestamp": 1786818022,
-    "timestamp_local": 1786818022
-  },
-  {
-    "id": 53740,
-    "fecha": "15 de Aug del 2026 a las 01:15 PM",
-    "hora_utc": "2026-08-15 17:15",
-    "mensaje": "Afectados 139 MW en la provincia, demanda máxima a apagar en estos momentos.",
-    "timestamp": 1786814113,
-    "timestamp_local": 1786814113
   }
 ]
