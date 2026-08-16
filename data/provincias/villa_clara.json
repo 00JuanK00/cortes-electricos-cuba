@@ -1,5 +1,13 @@
 [
   {
+    "id": 53772,
+    "fecha": "16 de Aug del 2026 a las 04:15 AM",
+    "hora_utc": "2026-08-16 08:15",
+    "mensaje": "Actualización del servicio eléctrico en la provincia.\n👉En este momento la afectación por déficit de capacidad de generación es de 198 MW, demanda máxima posible a apagar en estos momentos.\n👉De los circuitos apagables se mantienen afectados 131.\n👉Cuenta con 348 afectaciones por averías secundarias y de servicio.",
+    "timestamp": 1786868114,
+    "timestamp_local": 1786868114
+  },
+  {
     "id": 53771,
     "fecha": "16 de Aug del 2026 a las 03:16 AM",
     "hora_utc": "2026-08-16 07:16",
@@ -150,13 +158,5 @@
     "mensaje": "⚠️Afectado el servicio eléctrico en el siguiente circuito:\n🔹Municipio Santa Clara:\n👉Cto 13 Zona Industrial",
     "timestamp": 1786832223,
     "timestamp_local": 1786832223
-  },
-  {
-    "id": 53752,
-    "fecha": "15 de Aug del 2026 a las 05:42 PM",
-    "hora_utc": "2026-08-15 21:42",
-    "mensaje": "⚠️Afectado el servicio eléctrico en los siguientes circuitos:\n🔹Municipio Santa Clara:\n👉Ctos 1 y 4 Consejo- Centro",
-    "timestamp": 1786830143,
-    "timestamp_local": 1786830143
   }
 ]
