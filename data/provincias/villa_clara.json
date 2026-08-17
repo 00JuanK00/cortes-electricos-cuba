@@ -1,5 +1,21 @@
 [
   {
+    "id": 53908,
+    "fecha": "17 de Aug del 2026 a las 07:48 AM",
+    "hora_utc": "2026-08-17 11:48",
+    "mensaje": "Actualización del servicio eléctrico en la provincia.\n👉En este momento la afectación por déficit de capacidad de generación es de 202 MW, demanda máxima posible a apagar en estos momentos.\n👉De los circuitos apagables se mantienen afectados 127.\n👉Cuenta con 267 afectaciones por averías secundarias y de servicio.",
+    "timestamp": 1786967290,
+    "timestamp_local": 1786967290
+  },
+  {
+    "id": 53907,
+    "fecha": "17 de Aug del 2026 a las 07:40 AM",
+    "hora_utc": "2026-08-17 11:40",
+    "mensaje": "🚨Nota informativa🚨\n\n📅Situación del SEN para el 17 de agosto de 2026.\n\n☑️En el día de ayer se afectó el servicio por déficit de capacidad durante las 24 horas y se mantuvo la afectación durante todo el horario de la madrugada. La máxima afectación por déficit de capacidad de generación en el día de ayer fue de 2213 MW a las 20:20 horas.\n\n☀️La producción energías de los parques solares fotovoltaicos fue de 5495 MWh, con 854 MW como máxima potencia entregada en el horario de la media con esta fuente de generación. \n\n☑️La disponibilidad del SEN a las 06:00 horas es de 1120 MW, la demanda 2860 MW con 1730 MW afectados. En el horario de la media se estima una afectación de 1500 MW.\n\n🛠️Se encuentran en avería la unidad 6 de la CTE Mariel, la unidad 6 de la CTE Nuevitas y la unidad 2 de la CTE Felton. Se encuentran en mantenimiento la unidad 3 de la CTE Santa Cruz, la unidad 5 de la CTE Nuevitas y las unidades 5 y 6 de la CTE Renté. \n\n☑️Las limitaciones en la generación térmica son de 551 MW.\n\n📈Se prevé para el horario de máxima demanda una disponibilidad de 1120 MW con una demanda máxima de 3300 MW, para un déficit de 2180 MW, por lo que de mantenerse las condiciones previstas se pronostica una afectación de 2210 MW en este horario.\n\nUNE-MINEM",
+    "timestamp": 1786966821,
+    "timestamp_local": 1786966821
+  },
+  {
     "id": 53906,
     "fecha": "17 de Aug del 2026 a las 07:17 AM",
     "hora_utc": "2026-08-17 11:17",
@@ -134,21 +150,5 @@
     "mensaje": "⚠️Afectado el servicio eléctrico en el siguiente circuito:\n🔹Municipio Santa Clara:\n👉Cto 166 Condado",
     "timestamp": 1786946879,
     "timestamp_local": 1786946879
-  },
-  {
-    "id": 53888,
-    "fecha": "17 de Aug del 2026 a las 02:05 AM",
-    "hora_utc": "2026-08-17 06:05",
-    "mensaje": "💡Con servicio eléctrico en los siguientes circuitos.\n🔹Municipio Santa Clara: \n👉Cto 167 Virginia\n👉Cto 30 y 193 Santa Clara Industrial\n👉Cto 141 Manuelita\n👉Cto 191 Quemado de Hilario",
-    "timestamp": 1786946737,
-    "timestamp_local": 1786946737
-  },
-  {
-    "id": 53887,
-    "fecha": "17 de Aug del 2026 a las 02:04 AM",
-    "hora_utc": "2026-08-17 06:04",
-    "mensaje": "⚠️Afectado el servicio eléctrico en el siguiente circuito:\n🔹Municipio Santa Clara:\n👉Cto 169 Condado",
-    "timestamp": 1786946659,
-    "timestamp_local": 1786946659
   }
 ]
