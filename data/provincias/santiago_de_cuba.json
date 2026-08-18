@@ -1,5 +1,29 @@
 [
   {
+    "id": 57201,
+    "fecha": "18 de Aug del 2026 a las 03:07 AM",
+    "hora_utc": "2026-08-18 07:07",
+    "mensaje": "🔴📌 **Déficit de Capacidad de Generación**:\nSe produce cuando la demanda del Sistema Eléctrico Nacional, en determinado horario del día supera la generación disponible del país, provocando la desconexión de los circuitos o líneas que permitan garantizar la frecuencia del SEN.",
+    "timestamp": 1787036875,
+    "timestamp_local": 1787036875
+  },
+  {
+    "id": 57200,
+    "fecha": "18 de Aug del 2026 a las 03:06 AM",
+    "hora_utc": "2026-08-18 07:06",
+    "mensaje": "🚨Estimados clientes en estos momentos se encuentran afectados por Déficit de Capacidad de Generación los circuitos 2 y 17.",
+    "timestamp": 1787036777,
+    "timestamp_local": 1787036777
+  },
+  {
+    "id": 57199,
+    "fecha": "18 de Aug del 2026 a las 02:44 AM",
+    "hora_utc": "2026-08-18 06:44",
+    "mensaje": "🚨 Se afectan por Déficit de Capacidad de Generación los circuitos 7 y 9 seccionalizado",
+    "timestamp": 1787035440,
+    "timestamp_local": 1787035440
+  },
+  {
     "id": 57198,
     "fecha": "18 de Aug del 2026 a las 02:25 AM",
     "hora_utc": "2026-08-18 06:25",
@@ -118,29 +142,5 @@
     "mensaje": "🚨 Se incorpora a la afectación por Déficit de Capacidad de Generación el circuito 2 de Santiago.",
     "timestamp": 1787006241,
     "timestamp_local": 1787006241
-  },
-  {
-    "id": 57181,
-    "fecha": "17 de Aug del 2026 a las 06:23 PM",
-    "hora_utc": "2026-08-17 22:23",
-    "mensaje": "🚨 Se afectan por Déficit de Capacidad de Generación los circuitos 13 y 20 de Santiago.",
-    "timestamp": 1787005430,
-    "timestamp_local": 1787005430
-  },
-  {
-    "id": 57180,
-    "fecha": "17 de Aug del 2026 a las 05:36 PM",
-    "hora_utc": "2026-08-17 21:36",
-    "mensaje": "🚨Estimados clientes en estos momentos se encuentra afectado por Déficit de Capacidad de Generación la línea 4395 ramal 5175 ( Baire- III Frente)",
-    "timestamp": 1787002561,
-    "timestamp_local": 1787002561
-  },
-  {
-    "id": 57179,
-    "fecha": "17 de Aug del 2026 a las 05:06 PM",
-    "hora_utc": "2026-08-17 21:06",
-    "mensaje": "🛑 **Manipulaciones:**\nAcción que se realizan en los circuitos para dar paso al trabajo en zonas afectadas por Averías o Vía Libre y posteriormente para restablecer el servicio eléctrico en los circuitos que se encontraban afectados y en los que se trabaja con anterioridad, luego de culminadas las labores pertinentes.",
-    "timestamp": 1787000819,
-    "timestamp_local": 1787000819
   }
 ]
