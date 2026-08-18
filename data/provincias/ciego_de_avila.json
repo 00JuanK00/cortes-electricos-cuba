@@ -1,5 +1,13 @@
 [
   {
+    "id": 40060,
+    "fecha": "18 de Aug del 2026 a las 04:37 PM",
+    "hora_utc": "2026-08-18 20:37",
+    "mensaje": "📲[**Alerta sísmica recibida en teléfonos no correspondió a un terremoto en Cuba: ¿Cómo funciona? **](http://www.cubadebate.cu/especiales/2026/08/18/alerta-sismica-recibida-en-telefonos-no-correspondio-a-un-terremoto-en-cuba-como-funciona/)\n\n**❓¿Por qué pudo llegar una alerta si no hubo un terremoto?**\n\nUna posible explicación está relacionada con el funcionamiento del sistema de alertas sísmicas de Google para teléfonos Android.\n\nEste sistema utiliza los acelerómetros incorporados en los dispositivos móviles para detectar movimientos que puedan presentar características compatibles con un terremoto. \nCuando recibe información de numerosos teléfonos que parecen experimentar simultáneamente un movimiento similar, puede estimar que está ocurriendo un evento sísmico y enviar una advertencia a los usuarios de una determinada zona.",
+    "timestamp": 1787085436,
+    "timestamp_local": 1787085436
+  },
+  {
     "id": 40059,
     "fecha": "18 de Aug del 2026 a las 03:19 PM",
     "hora_utc": "2026-08-18 19:19",
@@ -134,13 +142,5 @@
     "mensaje": "🔊Información🔊\n\n👉Se encuentra sin servicio eléctrico por fallo en las líneas del circuito  La Ofelia, Sanguily, El Macizo, La Caoba, La Susana y lugares aledaños, se recorren las líneas para encontrar la avería y restablecer lo antes posible el servicio.",
     "timestamp": 1786981652,
     "timestamp_local": 1786981652
-  },
-  {
-    "id": 40038,
-    "fecha": "17 de Aug del 2026 a las 10:55 AM",
-    "hora_utc": "2026-08-17 14:55",
-    "mensaje": "✅Información :\n👉Tenemos 45 MW servidos en la Provincia .\n👉Se irán restableciendo paulatinamente los circuitos con más tiempo de afectación según las condiciones del SEN lo Permita.",
-    "timestamp": 1786978548,
-    "timestamp_local": 1786978548
   }
 ]
