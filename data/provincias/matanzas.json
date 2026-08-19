@@ -1,5 +1,21 @@
 [
   {
+    "id": 38046,
+    "fecha": "19 de Aug del 2026 a las 08:23 AM",
+    "hora_utc": "2026-08-19 12:23",
+    "mensaje": "ATENCIÓN: Se encuentran afectados los transformadores dañados perteneciente a los siguientes circuitos : \n\n▪️MK1387 Matanzas Bombeo Guanábana afectando 1 cliente.\n▪️MK185 Cárdenas Coronel Verdugo entre 47 y 51 afectando 70 clientes.\n▪️MK 1390 Guanábana Caserío Finca Lau afectando 46 clientes.\n▪️MU4814 Jovellanos, Jovellanos entre Sorbeto afectando 289 clientes.\n▪️MK0610 Jovellanos Jaime Lopez  afectando 40 clientes.\n▪️ MU4485 Jovellanos Cochiquera ACV.\n▪️MK96 Jovellanos Independencia entre Maceo y Moncada afectando 90 clientes.\n▪️MK96 Jaguey Grande Agramonte entre Matha Sanchez Hacha y Cosme de la Torriente afectando 60 clientes.\n▪️ MU4072 Jaguey Acueducto Agramonte afectando 1 cliente.\n▪️MK078 Jovellanos Carlota entre Batey Sofia afectando 240 clientes.\n\n Estamos trabajando para resolver los problemas de suministro de energía .",
+    "timestamp": 1787142203,
+    "timestamp_local": 1787142203
+  },
+  {
+    "id": 38045,
+    "fecha": "19 de Aug del 2026 a las 07:59 AM",
+    "hora_utc": "2026-08-19 11:59",
+    "mensaje": "‼️¡Estimados clientes! ‼️\n⚡En estos momentos tenemos afectados 128 MW en la provincia por déficit de capacidad de generación.⚡",
+    "timestamp": 1787140788,
+    "timestamp_local": 1787140788
+  },
+  {
     "id": 38044,
     "fecha": "19 de Aug del 2026 a las 07:08 AM",
     "hora_utc": "2026-08-19 11:08",
@@ -142,21 +158,5 @@
     "mensaje": "🔴 Fuera de línea la Unidad 3 de la CTE Antonio Maceo por humedad en el gabinete de control del generador.",
     "timestamp": 1787059086,
     "timestamp_local": 1787059086
-  },
-  {
-    "id": 38025,
-    "fecha": "18 de Aug del 2026 a las 09:01 AM",
-    "hora_utc": "2026-08-18 13:01",
-    "mensaje": "⚡ Actualización del Sistema Electroenergético Nacional para el 18 de agosto de 2026.\n\n☑️ En el día de ayer se afectó el servicio por déficit de capacidad durante las 24 horas y se mantuvo la afectación durante todo el horario de la madrugada. La máxima afectación por déficit de capacidad de generación en el día de ayer fue de         2275 MW a las 21:40 horas.\n\n☀️ La producción energías de los parques solares fotovoltaicos fue de 5754 MWh, con 895 MW como máxima potencia entregada en el horario de la media con esta fuente de generación.\n\n☑️ La disponibilidad del SEN a las 06:00 horas es de 1048 MW, la demanda 2855 MW con 1804 MW afectados. En el horario de la media se estima una afectación de 1750 MW.\n\n🛠️ Se encuentran en avería las unidades 6 y 8 de la CTE Mariel, la unidad 6 de la CTE Nuevitas y la unidad 2 de la CTE Felton. Se encuentran en mantenimiento la unidad 3 de la CTE Santa Cruz, la unidad 5 de la CTE Nuevitas y las unidades 5 y 6 de la CTE Renté.\n\n☑️ Las limitaciones en la generación térmica son de 522 MW.\n\n📈 Se prevé para el horario de máxima demanda una disponibilidad de 1011 MW con una demanda máxima de 3350 MW, para un déficit de 2339 MW, por lo que de mantenerse las condiciones previstas se pronostica una afectación de 2369 MW en este horario.",
-    "timestamp": 1787058092,
-    "timestamp_local": 1787058092
-  },
-  {
-    "id": 38024,
-    "fecha": "18 de Aug del 2026 a las 07:38 AM",
-    "hora_utc": "2026-08-18 11:38",
-    "mensaje": "⚡ Déficit de capacidad de generación en la provincia: **132 MW .** ⚡",
-    "timestamp": 1787053135,
-    "timestamp_local": 1787053135
   }
 ]
