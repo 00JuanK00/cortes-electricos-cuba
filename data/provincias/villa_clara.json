@@ -1,5 +1,21 @@
 [
   {
+    "id": 54180,
+    "fecha": "19 de Aug del 2026 a las 03:20 PM",
+    "hora_utc": "2026-08-19 19:20",
+    "mensaje": "Afectados 159 MW en la provincia, demanda máxima a apagar en estos momentos.",
+    "timestamp": 1787167210,
+    "timestamp_local": 1787167210
+  },
+  {
+    "id": 54179,
+    "fecha": "19 de Aug del 2026 a las 03:16 PM",
+    "hora_utc": "2026-08-19 19:16",
+    "mensaje": "⚠️Afectado el servicio eléctrico en el siguiente circuito:\n🔹Municipio Santa Clara\n👉Cto 14 Maleza",
+    "timestamp": 1787167016,
+    "timestamp_local": 1787167016
+  },
+  {
     "id": 54178,
     "fecha": "19 de Aug del 2026 a las 02:41 PM",
     "hora_utc": "2026-08-19 18:41",
@@ -142,21 +158,5 @@
     "mensaje": "Actualización del servicio eléctrico en la provincia.\n👉En este momento la afectación por déficit de capacidad de generación es de 181 MW, demanda máxima posible a apagar en estos momentos.\n👉De los circuitos apagables se mantienen afectados 106.\n👉Cuenta con 229 afectaciones por averías secundarias y de servicio.",
     "timestamp": 1787148468,
     "timestamp_local": 1787148468
-  },
-  {
-    "id": 54160,
-    "fecha": "19 de Aug del 2026 a las 09:34 AM",
-    "hora_utc": "2026-08-19 13:34",
-    "mensaje": "💡Con servicio eléctrico los siguientes circuitos:\n🔹Municipio Ranchuelo:\n👉Ctos 89 y 188\n👉Cto 181 Batey Ifraín Alfonso",
-    "timestamp": 1787146482,
-    "timestamp_local": 1787146482
-  },
-  {
-    "id": 54159,
-    "fecha": "19 de Aug del 2026 a las 09:07 AM",
-    "hora_utc": "2026-08-19 13:07",
-    "mensaje": "💡Con servicio eléctrico el siguiente circuito:\n🔹Municipio Sagua:\n👉Cto 44 Isabela",
-    "timestamp": 1787144824,
-    "timestamp_local": 1787144824
   }
 ]
