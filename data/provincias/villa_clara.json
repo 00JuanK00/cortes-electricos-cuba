@@ -1,5 +1,37 @@
 [
   {
+    "id": 54213,
+    "fecha": "20 de Aug del 2026 a las 08:26 AM",
+    "hora_utc": "2026-08-20 12:26",
+    "mensaje": "💡Con servicio eléctrico los siguientes circuitos:\n🔹Municipio Ranchuelo:\n👉Cto 92 Esperanza (Pueblo)\n👉Cto 93 Esperanza (Campo)",
+    "timestamp": 1787228793,
+    "timestamp_local": 1787228793
+  },
+  {
+    "id": 54212,
+    "fecha": "20 de Aug del 2026 a las 08:09 AM",
+    "hora_utc": "2026-08-20 12:09",
+    "mensaje": "💡Con servicio eléctrico los siguientes circuitos:\n🔹Municipio Santa Clara:\n👉Cto 168 Condado- XX Aniversario\n👉Cto 28 Monumento Che\n🔹Municipio Ranchuelo: \n👉Cto  188",
+    "timestamp": 1787227779,
+    "timestamp_local": 1787227779
+  },
+  {
+    "id": 54211,
+    "fecha": "20 de Aug del 2026 a las 08:07 AM",
+    "hora_utc": "2026-08-20 12:07",
+    "mensaje": "Actualización del servicio eléctrico en la provincia.\n👉En este momento la afectación por déficit de capacidad de generación es de  193 MW, demanda máxima posible a apagar en estos momentos.\n👉De los circuitos apagables se mantienen afectados 125.\n👉Cuenta con 221 afectaciones por averías secundarias y de servicio.",
+    "timestamp": 1787227665,
+    "timestamp_local": 1787227665
+  },
+  {
+    "id": 54210,
+    "fecha": "20 de Aug del 2026 a las 08:07 AM",
+    "hora_utc": "2026-08-20 12:07",
+    "mensaje": "🚨Nota informativa🚨\n\n📅Situación del SEN para el 20 de agosto de 2026.\n\n👉En el día de ayer se afectó el servicio por déficit de capacidad durante las 24 horas y se mantuvo la afectación durante todo el horario de la madrugada. La máxima afectación por déficit de capacidad de generación en el día de ayer fue de 2298 MW a las 21:40 horas.\n\n☀️La producción energías de los parques solares fotovoltaicos fue de 5552 MWh, con 864 MW como máxima potencia entregada en el horario de la media con esta fuente de generación. \n\n👉La disponibilidad del SEN a las 06:00 horas es de 1099 MW, la demanda 2864 MW con 1765 MW afectados. En el horario de la media se estima una afectación de 1600 MW.\n\n👉Se encuentran en avería la unidad 6 de la CTE Mariel y las unidades 1 y 2 de la CTE Felton. Se encuentran en mantenimiento la unidad 3 de la CTE Santa Cruz, la unidad 5 de la CTE Nuevitas y las unidades 5 y 6 de la CTE Renté. \n\n📈Las limitaciones en la generación térmica son de 434 MW.\n\n📝Se prevé para el horario de máxima demanda una disponibilidad de 1099 MW con una demanda máxima de 3350 MW, para un déficit de 2251 MW, por lo que de mantenerse las condiciones previstas se pronostica una afectación de 2281 MW en este horario.\n\nUNE-MINEM---07:00 horas.",
+    "timestamp": 1787227664,
+    "timestamp_local": 1787227664
+  },
+  {
     "id": 54208,
     "fecha": "20 de Aug del 2026 a las 07:00 AM",
     "hora_utc": "2026-08-20 11:00",
@@ -126,37 +158,5 @@
     "mensaje": "Afectados 200 MW en la provincia, demanda máxima a apagar en estos momentos.",
     "timestamp": 1787180486,
     "timestamp_local": 1787180486
-  },
-  {
-    "id": 54192,
-    "fecha": "19 de Aug del 2026 a las 06:24 PM",
-    "hora_utc": "2026-08-19 22:24",
-    "mensaje": "🕕Actualización del servicio eléctrico.\n✍️El déficit de capacidad de generación en estos momentos es de __202 MW__\n✍️__En el momento de esta nota, se mantienen afectados 136__ circuitos.\n✍️ Cuenta con 222__ afectaciones por averías secundarias y de servicio:__\n🔸__ Camajuaní (3)__\n🔸__ Cifuentes (3)__\n🔸__ Corralillo (13)__\n🔸__ Encrucijada (2)__\n🔸__ Manicaragua (7)__\n🔸__ Placetas (21)__\n🔸 Ranchuelo (5)\n🔸 Remedios (3)\n🔸__ Sagua (9)__ \n🔸__ Santa Clara (143)__\n🔸__ Santo Domingo (13)__\n🛠️__Se encuentra 6__ avería en vías de solución.\n🛠️Pendientes a solucionar por el área técnica 48.\n⚡La provincia presenta 4 averías primarias:\n➡️Ctos 54 y 94 Jicotea, del municipio Ranchuelo, afectados por transformador dañado en la subestación y cambio de poste.\n➡️Cto 75 La Quinta, perteneciente al municipio Camajuaní, quedando afectado el ramal a la presa.\n➡️Cto 103 Batey Carbó Servía de manera parcial, perteneciente al municipio Placetas, se estudian las causas.\n➡️Cto 22 Construcciones Textil de manera parcial, del municipio Santa Clara, por primario partido.",
-    "timestamp": 1787178257,
-    "timestamp_local": 1787178257
-  },
-  {
-    "id": 54191,
-    "fecha": "19 de Aug del 2026 a las 05:29 PM",
-    "hora_utc": "2026-08-19 21:29",
-    "mensaje": "💡Con servicio eléctrico el siguiente circuito:\n🔹Municipio Santa Clara:\n👉Cto 166 Condado",
-    "timestamp": 1787174987,
-    "timestamp_local": 1787174987
-  },
-  {
-    "id": 54190,
-    "fecha": "19 de Aug del 2026 a las 05:29 PM",
-    "hora_utc": "2026-08-19 21:29",
-    "mensaje": "⚠️Afectado el servicio eléctrico en el siguiente circuito:\n🔹Municipio Santa Clara:\n👉Cto 167 Virginia",
-    "timestamp": 1787174951,
-    "timestamp_local": 1787174951
-  },
-  {
-    "id": 54189,
-    "fecha": "19 de Aug del 2026 a las 04:40 PM",
-    "hora_utc": "2026-08-19 20:40",
-    "mensaje": "⚠️Afectado el servicio eléctrico en los siguientes circuito:\n🔹Municipio Ranchuelo:\n👉Ctos 148 y 149 San Juan\n👉Cto 91 Batey Osvaldo Herrera\n👉Cto 181 Batey Ifraín Alfonso",
-    "timestamp": 1787172056,
-    "timestamp_local": 1787172056
   }
 ]
