@@ -1,5 +1,21 @@
 [
   {
+    "id": 119711,
+    "fecha": "20 de Aug del 2026 a las 12:03 AM",
+    "hora_utc": "2026-08-20 04:03",
+    "mensaje": "🚨Por déficit de capacidad de generación se afecta el servicio en los siguientes circuitos:\n*Sopapo 1 y 2 🚨",
+    "timestamp": 1787198626,
+    "timestamp_local": 1787198626
+  },
+  {
+    "id": 119710,
+    "fecha": "20 de Aug del 2026 a las 12:03 AM",
+    "hora_utc": "2026-08-20 04:03",
+    "mensaje": "🚨Por déficit de capacidad de generación se afecta el servicio en el siguiente circuito:\n*Nueva Paz 1 🚨",
+    "timestamp": 1787198593,
+    "timestamp_local": 1787198593
+  },
+  {
     "id": 119707,
     "fecha": "19 de Aug del 2026 a las 11:15 PM",
     "hora_utc": "2026-08-20 03:15",
@@ -11,7 +27,7 @@
     "id": 119706,
     "fecha": "19 de Aug del 2026 a las 10:53 PM",
     "hora_utc": "2026-08-20 02:53",
-    "mensaje": "🚨Por déficit de capacidad de generación se afecta el servicio en el siguiente circuito:\n*Melena 2 🚨",
+    "mensaje": "🚨Por déficit de capacidad de generación se afecta el servicio en los siguientes circuitos:\n*Melena 2 \n*8 de San José 🚨",
     "timestamp": 1787194383,
     "timestamp_local": 1787194383
   },
@@ -118,29 +134,5 @@
     "mensaje": "🚨 Continúa afectado el servicio en el circuito 2 de San José por déficit de capacidad de generación 🚨",
     "timestamp": 1787181660,
     "timestamp_local": 1787181660
-  },
-  {
-    "id": 119690,
-    "fecha": "19 de Aug del 2026 a las 07:20 PM",
-    "hora_utc": "2026-08-19 23:20",
-    "mensaje": "🔷 Culminada la manipulación en el circuito 2 de San José 🔷",
-    "timestamp": 1787181610,
-    "timestamp_local": 1787181610
-  },
-  {
-    "id": 119689,
-    "fecha": "19 de Aug del 2026 a las 07:10 PM",
-    "hora_utc": "2026-08-19 23:10",
-    "mensaje": "🚨Por déficit de capacidad de generación se afecta el servicio en el siguiente circuito:\n*Ganuza 🚨",
-    "timestamp": 1787181051,
-    "timestamp_local": 1787181051
-  },
-  {
-    "id": 119688,
-    "fecha": "19 de Aug del 2026 a las 07:05 PM",
-    "hora_utc": "2026-08-19 23:05",
-    "mensaje": "🔷 Solucionada la avería del circuito de Magela 🔷",
-    "timestamp": 1787180729,
-    "timestamp_local": 1787180729
   }
 ]
