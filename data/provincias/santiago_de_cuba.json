@@ -1,5 +1,29 @@
 [
   {
+    "id": 57297,
+    "fecha": "20 de Aug del 2026 a las 07:30 PM",
+    "hora_utc": "2026-08-20 23:30",
+    "mensaje": "🛑 Disparo    \nApertura no voluntaria de un interruptor como vía de protección para desconectar uno o varios elementos del circuito, subestación o sistema, restableciéndose el servicio rápidamente en dependencia de la causa.",
+    "timestamp": 1787268636,
+    "timestamp_local": 1787268636
+  },
+  {
+    "id": 57296,
+    "fecha": "20 de Aug del 2026 a las 07:29 PM",
+    "hora_utc": "2026-08-20 23:29",
+    "mensaje": "🚨 Estimados clientes en estos momentos se encuentra disparado el circuito 19 de Santiago.",
+    "timestamp": 1787268564,
+    "timestamp_local": 1787268564
+  },
+  {
+    "id": 57295,
+    "fecha": "20 de Aug del 2026 a las 07:25 PM",
+    "hora_utc": "2026-08-20 23:25",
+    "mensaje": "🚨 Estimados clientes en estos momentos se encuentran afectados por Déficit los circuitos 1, 15 de Santiago y el 4 de Palma.",
+    "timestamp": 1787268305,
+    "timestamp_local": 1787268305
+  },
+  {
     "id": 57294,
     "fecha": "20 de Aug del 2026 a las 05:27 PM",
     "hora_utc": "2026-08-20 21:27",
@@ -102,29 +126,5 @@
     "mensaje": "🟡Se incorporan a la afectación por Déficit los circuitos 7 y San Juan.",
     "timestamp": 1787240730,
     "timestamp_local": 1787240730
-  },
-  {
-    "id": 57277,
-    "fecha": "20 de Aug del 2026 a las 11:44 AM",
-    "hora_utc": "2026-08-20 15:44",
-    "mensaje": "📌**Estimados clientes, se les reitera que el comportamiento de las afectaciones eléctricas y el restablecimiento del servicio, estará en dependencia de la situación que presente el Sistema Electroenergético Nacional.**",
-    "timestamp": 1787240653,
-    "timestamp_local": 1787240653
-  },
-  {
-    "id": 57276,
-    "fecha": "20 de Aug del 2026 a las 11:43 AM",
-    "hora_utc": "2026-08-20 15:43",
-    "mensaje": "🟠Se incorporan a la afectación por Déficit la Línea 5380-Mella.",
-    "timestamp": 1787240609,
-    "timestamp_local": 1787240609
-  },
-  {
-    "id": 57275,
-    "fecha": "20 de Aug del 2026 a las 11:25 AM",
-    "hora_utc": "2026-08-20 15:25",
-    "mensaje": "➡️**Déficit de Capacidad de Generación: **⬅️\n**Se produce cuando la demanda del Sistema Eléctrico Nacional, en determinado horario del día supera la generación disponible del país, provocando la desconexión de los circuitos o líneas que permitan garantizar la frecuencia del SEN.**",
-    "timestamp": 1787239525,
-    "timestamp_local": 1787239525
   }
 ]
