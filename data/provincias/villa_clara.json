@@ -1,5 +1,29 @@
 [
   {
+    "id": 54200,
+    "fecha": "19 de Aug del 2026 a las 11:08 PM",
+    "hora_utc": "2026-08-20 03:08",
+    "mensaje": "Actualización del servicio eléctrico en la provincia.\n👉En este momento la afectación por déficit de capacidad de generación es de 212 MW, demanda máxima posible a apagar en estos momentos.\n👉De los circuitos apagables se mantienen afectados 143.\n👉Cuenta con 222 afectaciones por averías secundarias y de servicio.",
+    "timestamp": 1787195293,
+    "timestamp_local": 1787195293
+  },
+  {
+    "id": 54199,
+    "fecha": "19 de Aug del 2026 a las 11:06 PM",
+    "hora_utc": "2026-08-20 03:06",
+    "mensaje": "Afectados 212 MW en la provincia, demanda máxima a apagar en estos momentos.",
+    "timestamp": 1787195213,
+    "timestamp_local": 1787195213
+  },
+  {
+    "id": 54198,
+    "fecha": "19 de Aug del 2026 a las 11:05 PM",
+    "hora_utc": "2026-08-20 03:05",
+    "mensaje": "✍️Ante cualquier duda conozca sobre la terminología eléctrica\n\n🔹Las averías pueden ser:\n\n➡️Primarias: Afecta un volumen grande de población pues son las líneas de distribución a 13.8 kV y puede afectar varias manzanas, incluso repartos completos.\n\n➡️Secundarias: Afecta a todos los clientes que se alimenten del mismo transformador, puede afectar una o varias cuadras.\n\n➡️De servicio: Afectan 1 solo cliente o instalación generalmente producto a daños en la acometida, metro contador, etc.).",
+    "timestamp": 1787195140,
+    "timestamp_local": 1787195140
+  },
+  {
     "id": 54197,
     "fecha": "19 de Aug del 2026 a las 09:50 PM",
     "hora_utc": "2026-08-20 01:50",
@@ -126,29 +150,5 @@
     "mensaje": "Actualización del servicio eléctrico en la provincia.\n👉En este momento la afectación por déficit de capacidad de generación es de 153 MW, demanda máxima posible a apagar en estos momentos.\n👉De los circuitos apagables se mantienen afectados 89.\n👉Cuenta con 216 afectaciones por averías secundarias y de servicio.",
     "timestamp": 1787169674,
     "timestamp_local": 1787169674
-  },
-  {
-    "id": 54180,
-    "fecha": "19 de Aug del 2026 a las 03:20 PM",
-    "hora_utc": "2026-08-19 19:20",
-    "mensaje": "Afectados 159 MW en la provincia, demanda máxima a apagar en estos momentos.",
-    "timestamp": 1787167210,
-    "timestamp_local": 1787167210
-  },
-  {
-    "id": 54179,
-    "fecha": "19 de Aug del 2026 a las 03:16 PM",
-    "hora_utc": "2026-08-19 19:16",
-    "mensaje": "⚠️Afectado el servicio eléctrico en el siguiente circuito:\n🔹Municipio Santa Clara\n👉Cto 14 Maleza",
-    "timestamp": 1787167016,
-    "timestamp_local": 1787167016
-  },
-  {
-    "id": 54178,
-    "fecha": "19 de Aug del 2026 a las 02:41 PM",
-    "hora_utc": "2026-08-19 18:41",
-    "mensaje": "⚠️Afectado el servicio eléctrico en los siguientes circuito:\n🔹Municipio Santo Domingo:\n👉Cto 195 Batey George Washington\n👉Ctos 83 y 165 Manacas\n👉Ctos 85 y 86 Pajarito\n👉Ctos 160 y 161 Cascajal\n🔹Municipio Santa Clara:\n👉Cto 5 Dobarganes\n👉Cto 17 Subplanta\n👉Ctos 1 y 4 Consejo- Centro\n🔹Municipio Camajuaní:\n👉Ctos 77 y 59 Vueltas\n🔹Municipio Ranchuelo:\n👉Ctos 97 y 189",
-    "timestamp": 1787164882,
-    "timestamp_local": 1787164882
   }
 ]
