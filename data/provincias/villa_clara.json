@@ -1,5 +1,37 @@
 [
   {
+    "id": 54374,
+    "fecha": "21 de Aug del 2026 a las 11:06 AM",
+    "hora_utc": "2026-08-21 15:06",
+    "mensaje": "⚠️Afectado el servicio eléctrico en los siguientes circuitos:\n🔹Municipio Sagua\n👉Ctos 43, 51 Sagua",
+    "timestamp": 1787324777,
+    "timestamp_local": 1787324777
+  },
+  {
+    "id": 54373,
+    "fecha": "21 de Aug del 2026 a las 10:49 AM",
+    "hora_utc": "2026-08-21 14:49",
+    "mensaje": "💡Con servicio eléctrico los siguientes circuitos:\n🔹Municipio Camajuaní:\n👉Ctos 72 y 129",
+    "timestamp": 1787323752,
+    "timestamp_local": 1787323752
+  },
+  {
+    "id": 54372,
+    "fecha": "21 de Aug del 2026 a las 10:38 AM",
+    "hora_utc": "2026-08-21 14:38",
+    "mensaje": "💡Con servicio eléctrico los siguientes circuitos:\n🔹Municipio Caibarién:\n👉 Ctos 61, 62",
+    "timestamp": 1787323093,
+    "timestamp_local": 1787323093
+  },
+  {
+    "id": 54371,
+    "fecha": "21 de Aug del 2026 a las 10:37 AM",
+    "hora_utc": "2026-08-21 14:37",
+    "mensaje": "⚠️Afectado el servicio eléctrico en los siguientes circuitos:\n🔹Municipio Caibarién\n👉Ctos 63 y 64",
+    "timestamp": 1787323066,
+    "timestamp_local": 1787323066
+  },
+  {
     "id": 54370,
     "fecha": "21 de Aug del 2026 a las 10:07 AM",
     "hora_utc": "2026-08-21 14:07",
@@ -126,37 +158,5 @@
     "mensaje": "🚨Nota informativa🚨\n\n📅Situación del SEN para el 21 de agosto de 2026.\n\n👉En el día de ayer se afectó el servicio por déficit de capacidad durante las 24 horas y se mantuvo la afectación durante todo el horario de la madrugada. La máxima afectación por déficit de capacidad de generación en el día de ayer fue de 2245 MW a las 21:50 horas.\n\n☀️La producción energías de los parques solares fotovoltaicos fue de 6105 MWh, con 949 MW como máxima potencia entregada en el horario de la media con esta fuente de generación.\n\n👉La disponibilidad del SEN a las 06:00 horas es de 1040 MW, la demanda 2850 MW con 1797 MW afectados. En el horario de la media se estima una afectación de 1650 MW.\n\n🛠️Se encuentran en avería la unidad 6 de la CTE Mariel y las unidades 1 y 2 de la CTE Felton. Se encuentran en mantenimiento la unidad 3 de la CTE Santa Cruz, la unidad 5 de la CTE Nuevitas y las unidades 5 y 6 de la CTE Renté.\n\n👉Las limitaciones en la generación térmica son de 432 MW.\n\n👉Se prevé para el horario de máxima demanda una disponibilidad de 1040 MW con una demanda máxima de 3350 MW, para un déficit de 2310 MW, por lo que de mantenerse las condiciones previstas se pronostica una afectación de 2340 MW en este horario.\nUNE-MINEM",
     "timestamp": 1787312284,
     "timestamp_local": 1787312284
-  },
-  {
-    "id": 54354,
-    "fecha": "21 de Aug del 2026 a las 07:08 AM",
-    "hora_utc": "2026-08-21 11:08",
-    "mensaje": "⚠️Afectado el servicio eléctrico en los siguientes circuitos:\n🔹Municipio Santa Clara\n👉Cto 30  y 193 Santa Clara Industrial",
-    "timestamp": 1787310509,
-    "timestamp_local": 1787310509
-  },
-  {
-    "id": 54353,
-    "fecha": "21 de Aug del 2026 a las 07:06 AM",
-    "hora_utc": "2026-08-21 11:06",
-    "mensaje": "💡Con servicio eléctrico los siguientes circuitos\n🔹Municipio Santa Clara\n👉Cto 24 Planta Asfalto\n👉Cto 146 Elevado Aeropuerto(Se encuentra en avería)\n👉Cto 25 Los Güiros\n👉Cto 35 Biotecnología",
-    "timestamp": 1787310405,
-    "timestamp_local": 1787310405
-  },
-  {
-    "id": 54352,
-    "fecha": "21 de Aug del 2026 a las 06:53 AM",
-    "hora_utc": "2026-08-21 10:53",
-    "mensaje": "💡Con servicio eléctrico los siguientes circuitos\n🔹Municipio Santa Clara:\n👉Ctos 3 y 4 Consejo Centro",
-    "timestamp": 1787309618,
-    "timestamp_local": 1787309618
-  },
-  {
-    "id": 54351,
-    "fecha": "21 de Aug del 2026 a las 06:40 AM",
-    "hora_utc": "2026-08-21 10:40",
-    "mensaje": "💡Con servicio eléctrico los siguientes circuitos\n🔹Municipio Santa Clara:\n👉Cto 16 Cubanacán \n👉Ctos 23 y 130 La Ceniza\n👉Cto 42 Manajanabo\n🔹Municipio Placetas\n👉Cto 139 Miller\n👉Cto 190 Oliver\n👉Cto 106 Falcón",
-    "timestamp": 1787308825,
-    "timestamp_local": 1787308825
   }
 ]
