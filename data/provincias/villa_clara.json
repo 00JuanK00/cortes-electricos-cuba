@@ -1,5 +1,45 @@
 [
   {
+    "id": 54330,
+    "fecha": "20 de Aug del 2026 a las 10:02 PM",
+    "hora_utc": "2026-08-21 02:02",
+    "mensaje": "Actualización del servicio eléctrico en la provincia.\n👉En este momento la afectación por déficit de capacidad de generación es de 208 MW, demanda máxima posible a apagar en estos momentos.\n👉De los circuitos apagables se mantienen afectados 145.\n👉Cuenta con 239 afectaciones por averías secundarias y de servicio.",
+    "timestamp": 1787277724,
+    "timestamp_local": 1787277724
+  },
+  {
+    "id": 54329,
+    "fecha": "20 de Aug del 2026 a las 10:00 PM",
+    "hora_utc": "2026-08-21 02:00",
+    "mensaje": "⚠️Afectado el servicio eléctrico en el siguiente circuito:\n🔹Municipio Ranchuelo: \n👉Cto  189",
+    "timestamp": 1787277635,
+    "timestamp_local": 1787277635
+  },
+  {
+    "id": 54328,
+    "fecha": "20 de Aug del 2026 a las 09:11 PM",
+    "hora_utc": "2026-08-21 01:11",
+    "mensaje": "💡Con servicio eléctrico el siguiente circuito:\n🔹Municipio Santa Clara: \n👉Cto 2 Consejo Centro",
+    "timestamp": 1787274661,
+    "timestamp_local": 1787274661
+  },
+  {
+    "id": 54327,
+    "fecha": "20 de Aug del 2026 a las 08:47 PM",
+    "hora_utc": "2026-08-21 00:47",
+    "mensaje": "⚠️Afectado el servicio eléctrico en los siguientes circuitos:\n🔹Municipio Manicaragua:\n👉Ctos 113 y 137 La Campana\n👉Cto 112 Hoyo Manicaragua",
+    "timestamp": 1787273237,
+    "timestamp_local": 1787273237
+  },
+  {
+    "id": 54326,
+    "fecha": "20 de Aug del 2026 a las 08:44 PM",
+    "hora_utc": "2026-08-21 00:44",
+    "mensaje": "💡Con servicio eléctrico los siguientes circuitos\n🔹Municipio Santa Clara:\n👉Cto 7 Universidad\n👉Cto 131 Las Antillas\n👉Cto 22 Construcciones Textil",
+    "timestamp": 1787273095,
+    "timestamp_local": 1787273095
+  },
+  {
     "id": 54324,
     "fecha": "20 de Aug del 2026 a las 08:24 PM",
     "hora_utc": "2026-08-21 00:24",
@@ -118,45 +158,5 @@
     "mensaje": "💡Con servicio eléctrico el siguiente circuito:\n🔹Municipio Santa Clara: \n👉Cto 169 Condado",
     "timestamp": 1787258970,
     "timestamp_local": 1787258970
-  },
-  {
-    "id": 54298,
-    "fecha": "20 de Aug del 2026 a las 04:38 PM",
-    "hora_utc": "2026-08-20 20:38",
-    "mensaje": "⚠️Afectado el servicio eléctrico en los siguientes circuitos:\n🔹Municipio Santa Clara\n👉Cto 24 Planta Asfalto\n👉Cto 146 Elevado Aeropuerto(En estos momentos se encuentra en avería)\n👉Cto 25 Los Güiros\n👉Cto 35 Biotecnología",
-    "timestamp": 1787258298,
-    "timestamp_local": 1787258298
-  },
-  {
-    "id": 54297,
-    "fecha": "20 de Aug del 2026 a las 04:24 PM",
-    "hora_utc": "2026-08-20 20:24",
-    "mensaje": "💡Con servicio eléctrico los siguientes circuitos\n🔹Municipio Remedios:\n👉Ctos  68 y 118",
-    "timestamp": 1787257457,
-    "timestamp_local": 1787257457
-  },
-  {
-    "id": 54296,
-    "fecha": "20 de Aug del 2026 a las 04:21 PM",
-    "hora_utc": "2026-08-20 20:21",
-    "mensaje": "💡Con servicio eléctrico el siguiente circuito:\n🔹Municipio Caibarién\n👉Cto 182 Van Troy",
-    "timestamp": 1787257298,
-    "timestamp_local": 1787257298
-  },
-  {
-    "id": 54294,
-    "fecha": "20 de Aug del 2026 a las 04:19 PM",
-    "hora_utc": "2026-08-20 20:19",
-    "mensaje": "⚠️Afectado el servicio eléctrico en los siguientes circuitos:\n🔹Municipio Placetas:\n👉Ctos 101 y 145 Cumbre\n🔹Municipio Manicaragua:\n👉Cto 111 Mataguá\n🔹Municipio Caibarién\n👉Cto 183 Van Troy",
-    "timestamp": 1787257169,
-    "timestamp_local": 1787257169
-  },
-  {
-    "id": 54293,
-    "fecha": "20 de Aug del 2026 a las 04:16 PM",
-    "hora_utc": "2026-08-20 20:16",
-    "mensaje": "⚡Afectado por avería Cto 146 Elevado Aeropuerto, perteneciente al Municipio Santa Clara, por disparo en la Sub quedando afectada cruceta y Drop Out dañado.",
-    "timestamp": 1787256986,
-    "timestamp_local": 1787256986
   }
 ]
