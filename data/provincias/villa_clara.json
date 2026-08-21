@@ -1,5 +1,45 @@
 [
   {
+    "id": 54370,
+    "fecha": "21 de Aug del 2026 a las 10:07 AM",
+    "hora_utc": "2026-08-21 14:07",
+    "mensaje": "💡Con servicio eléctrico los siguientes circuitos:\n🔹Municipio Camajuaní:\n👉Cto 74 José María Pérez\n🔹Municipio Santa Clara\n👉Cto 30 y 193 Santa Clara Industrial",
+    "timestamp": 1787321252,
+    "timestamp_local": 1787321252
+  },
+  {
+    "id": 54369,
+    "fecha": "21 de Aug del 2026 a las 09:56 AM",
+    "hora_utc": "2026-08-21 13:56",
+    "mensaje": "⚠️Afectado el servicio eléctrico en los siguientes circuitos:\n🔹Municipio Santa Clara:\n👉Cto 7 Universidad\n👉Cto 131 Las Antillas",
+    "timestamp": 1787320610,
+    "timestamp_local": 1787320610
+  },
+  {
+    "id": 54368,
+    "fecha": "21 de Aug del 2026 a las 09:56 AM",
+    "hora_utc": "2026-08-21 13:56",
+    "mensaje": "Actualización del servicio eléctrico en la provincia.\n👉En este momento la afectación por déficit de capacidad de generación es de 165 MW, demanda máxima posible a apagar en estos momentos.\n👉De los circuitos apagables se mantienen afectados 100.\n👉Cuenta con 247 afectaciones por averías secundarias y de servicio.",
+    "timestamp": 1787320584,
+    "timestamp_local": 1787320584
+  },
+  {
+    "id": 54367,
+    "fecha": "21 de Aug del 2026 a las 09:41 AM",
+    "hora_utc": "2026-08-21 13:41",
+    "mensaje": "💡Con servicio eléctrico el siguiente circuito:\n🔹Municipio Santa Clara:\n👉Cto 15  Maleza",
+    "timestamp": 1787319687,
+    "timestamp_local": 1787319687
+  },
+  {
+    "id": 54366,
+    "fecha": "21 de Aug del 2026 a las 09:40 AM",
+    "hora_utc": "2026-08-21 13:40",
+    "mensaje": "⚠️Afectado el servicio eléctrico en los siguientes circuitos:\n🔹Municipio Santa Clara:\n👉Cto  27 Maleza\n👉Cto 144 Camacho",
+    "timestamp": 1787319607,
+    "timestamp_local": 1787319607
+  },
+  {
     "id": 54365,
     "fecha": "21 de Aug del 2026 a las 09:10 AM",
     "hora_utc": "2026-08-21 13:10",
@@ -118,45 +158,5 @@
     "mensaje": "💡Con servicio eléctrico los siguientes circuitos\n🔹Municipio Santa Clara:\n👉Cto 16 Cubanacán \n👉Ctos 23 y 130 La Ceniza\n👉Cto 42 Manajanabo\n🔹Municipio Placetas\n👉Cto 139 Miller\n👉Cto 190 Oliver\n👉Cto 106 Falcón",
     "timestamp": 1787308825,
     "timestamp_local": 1787308825
-  },
-  {
-    "id": 54350,
-    "fecha": "21 de Aug del 2026 a las 06:07 AM",
-    "hora_utc": "2026-08-21 10:07",
-    "mensaje": "⚡La provincia presenta 6 averías primarias:\n➡️Ctos 54 y 94 Jicotea, del municipio Ranchuelo, afectados por transformador dañado en la subestación.\n➡️Cto 78 Jutiero, perteneciente al municipio Camajuaní, se estudian las causas. .\n➡️Cto 77 Vueltas, perteneciente al Municipio Camajuaní, se estudian las causas.\n➡️Cto 103 Batey Carbó Servía de manera parcial, perteneciente al municipio Placetas, se estudian las causas.\n➡️ Cto 110 La Piedra, perteneciente al Municipio Manicaragua, se estudian las causas.\n➡️Cto 146 Elevado Aeropuerto, perteneciente al Municipio Santa Clara, por disparo en la Sub quedando afectada cruceta y Drop Out dañado.",
-    "timestamp": 1787306826,
-    "timestamp_local": 1787306826
-  },
-  {
-    "id": 54349,
-    "fecha": "21 de Aug del 2026 a las 06:06 AM",
-    "hora_utc": "2026-08-21 10:06",
-    "mensaje": "🕕Actualización del servicio eléctrico.\n✍️El déficit de capacidad de generación en estos momentos es de 202__ MW__\n✍️__En el momento de esta nota, se mantienen afectados 139__ circuitos.\n✍️ Cuenta con 280 __afectaciones por averías secundarias y de servicio:__\n🔸__ Caibarién (2)__\n🔸__ Camajuaní (4)__\n🔸__ Cifuentes (2)__\n🔸__ Corralillo (13)__\n🔸__ Encrucijada (1)__\n🔸__ Manicaragua (3)__\n🔸__ Placetas (9)__\n🔸__ Ranchuelo (12)__\n🔸__ Remedios (7)__ \n🔸__ Sagua (16)__ \n🔸__ Santa Clara (142)__\n🔸__ Santo Domingo (19)__\n🛠️Pendientes a solucionar por el área técnica 55.",
-    "timestamp": 1787306789,
-    "timestamp_local": 1787306789
-  },
-  {
-    "id": 54348,
-    "fecha": "21 de Aug del 2026 a las 06:02 AM",
-    "hora_utc": "2026-08-21 10:02",
-    "mensaje": "✍️Ante cualquier duda conozca sobre la terminología eléctrica\n\n🔹Las averías pueden ser:\n\n➡️Primarias: Afecta un volumen grande de población pues son las líneas de distribución a 13.8 kV y puede afectar varias manzanas, incluso repartos completos.\n\n➡️Secundarias: Afecta a todos los clientes que se alimenten del mismo transformador, puede afectar una o varias cuadras. \n\n➡️De servicio: Afectan 1 solo cliente o instalación generalmente producto a daños en la acometida, metro contador, etc.).",
-    "timestamp": 1787306558,
-    "timestamp_local": 1787306558
-  },
-  {
-    "id": 54347,
-    "fecha": "21 de Aug del 2026 a las 05:39 AM",
-    "hora_utc": "2026-08-21 09:39",
-    "mensaje": "Actualización del servicio eléctrico en la provincia.\n👉En este momento la afectación por déficit de capacidad de generación es de 201 MW, demanda máxima posible a apagar en estos momentos.\n👉De los circuitos apagables se mantienen afectados 139.\n👉Cuenta con 230 afectaciones por averías secundarias y de servicio.",
-    "timestamp": 1787305158,
-    "timestamp_local": 1787305158
-  },
-  {
-    "id": 54346,
-    "fecha": "21 de Aug del 2026 a las 02:17 AM",
-    "hora_utc": "2026-08-21 06:17",
-    "mensaje": "💡Con servicio eléctrico los siguientes circuitos\n🔹Municipio Santa Clara:\n👉Ctos  30 y 193 Santa Clara Industrial",
-    "timestamp": 1787293048,
-    "timestamp_local": 1787293048
   }
 ]
