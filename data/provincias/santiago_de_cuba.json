@@ -1,5 +1,13 @@
 [
   {
+    "id": 57305,
+    "fecha": "21 de Aug del 2026 a las 02:03 AM",
+    "hora_utc": "2026-08-21 06:03",
+    "mensaje": "⚠️ **Déficit de Capacidad de Generación: **\n**Se produce cuando la demanda del Sistema Eléctrico Nacional, en determinado horario del día supera la generación disponible del país, provocando la desconexión de los circuitos o líneas que permitan garantizar la frecuencia del SEN.**",
+    "timestamp": 1787292184,
+    "timestamp_local": 1787292184
+  },
+  {
     "id": 57304,
     "fecha": "21 de Aug del 2026 a las 12:57 AM",
     "hora_utc": "2026-08-21 04:57",
@@ -126,13 +134,5 @@
     "mensaje": "🟢Estimados clientes en estos momentos se incorporan a la afectación por Déficit los circuitos 2 de Palma , 9 Y 14.",
     "timestamp": 1787251256,
     "timestamp_local": 1787251256
-  },
-  {
-    "id": 57285,
-    "fecha": "20 de Aug del 2026 a las 02:37 PM",
-    "hora_utc": "2026-08-20 18:37",
-    "mensaje": "⚠️**Estimados clientes, se les reitera que el comportamiento de las afectaciones eléctricas y el restablecimiento del servicio, estará en dependencia de la situación que presente el Sistema Electroenergético Nacional.**",
-    "timestamp": 1787251045,
-    "timestamp_local": 1787251045
   }
 ]
