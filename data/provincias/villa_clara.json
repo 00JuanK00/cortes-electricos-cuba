@@ -1,5 +1,21 @@
 [
   {
+    "id": 54400,
+    "fecha": "21 de Aug del 2026 a las 04:05 PM",
+    "hora_utc": "2026-08-21 20:05",
+    "mensaje": "Actualización del servicio eléctrico en la provincia.\n👉En este momento la afectación por déficit de capacidad de generación es de 164 MW, demanda máxima posible a apagar en estos momentos.\n👉De los circuitos apagables se mantienen afectados 100.\n👉Cuenta con 280 afectaciones por averías secundarias y de servicio.",
+    "timestamp": 1787342706,
+    "timestamp_local": 1787342706
+  },
+  {
+    "id": 54399,
+    "fecha": "21 de Aug del 2026 a las 04:00 PM",
+    "hora_utc": "2026-08-21 20:00",
+    "mensaje": "⚠️Afectado el servicio eléctrico en los siguientes circuitos:\n🔹Municipio Santa Clara:\n👉Ctos 37 y 38 Yabú \n👉Cto 9 Moldes y Troqueles\n👉Cto 133 Taller Cafetera",
+    "timestamp": 1787342424,
+    "timestamp_local": 1787342424
+  },
+  {
     "id": 54398,
     "fecha": "21 de Aug del 2026 a las 03:39 PM",
     "hora_utc": "2026-08-21 19:39",
@@ -142,21 +158,5 @@
     "mensaje": "💡Con servicio eléctrico el siguiente circuito:\n🔹Municipio Caibarién\n👉Cto 182  Van Troy",
     "timestamp": 1787329910,
     "timestamp_local": 1787329910
-  },
-  {
-    "id": 54380,
-    "fecha": "21 de Aug del 2026 a las 12:31 PM",
-    "hora_utc": "2026-08-21 16:31",
-    "mensaje": "⚠️Afectado el servicio eléctrico en los siguientes circuitos:\n🔹Municipio Caibarién:\n👉 Ctos 61, 62",
-    "timestamp": 1787329873,
-    "timestamp_local": 1787329873
-  },
-  {
-    "id": 54379,
-    "fecha": "21 de Aug del 2026 a las 12:10 PM",
-    "hora_utc": "2026-08-21 16:10",
-    "mensaje": "💡Con servicio eléctrico los siguientes circuitos:\n🔹Municipio Santa Clara\n👉Cto 132 Santa Clara Industrial\n👉Cto 162 Santa Clara Industrial",
-    "timestamp": 1787328641,
-    "timestamp_local": 1787328641
   }
 ]
