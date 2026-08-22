@@ -1,5 +1,21 @@
 [
   {
+    "id": 54503,
+    "fecha": "22 de Aug del 2026 a las 04:06 PM",
+    "hora_utc": "2026-08-22 20:06",
+    "mensaje": "⚠️Afectado el servicio eléctrico en los siguientes circuitos:\n🔹Municipio Ranchuelo: \n👉Ctos 148 y 149 San Juan\n👉Cto 91 Batey Osvaldo Herrera\n🔹Municipio Santo Domingo:\n👉Cto 134\n👉Ctos 87 y 96 Bermejal\n👉Cto 187 Batey Carlos Baliño\n👉Cto 82 Ulacia\n👉Cto 84 Rodrigo",
+    "timestamp": 1787429185,
+    "timestamp_local": 1787429185
+  },
+  {
+    "id": 54502,
+    "fecha": "22 de Aug del 2026 a las 03:53 PM",
+    "hora_utc": "2026-08-22 19:53",
+    "mensaje": "⚠️Afectado el servicio eléctrico en los siguientes circuitos:\n🔹Municipio Santa Clara:\n👉Cto 14 Maleza\n🔹Municipio Ranchuelo\n👉Cto 89",
+    "timestamp": 1787428386,
+    "timestamp_local": 1787428386
+  },
+  {
     "id": 54501,
     "fecha": "22 de Aug del 2026 a las 03:51 PM",
     "hora_utc": "2026-08-22 19:51",
@@ -142,21 +158,5 @@
     "mensaje": "💡Con servicio eléctrico los siguientes circuitos:\n🔹Municipio Camajuaní:\n👉Ctos 73 y 156",
     "timestamp": 1787422125,
     "timestamp_local": 1787422125
-  },
-  {
-    "id": 54483,
-    "fecha": "22 de Aug del 2026 a las 02:05 PM",
-    "hora_utc": "2026-08-22 18:05",
-    "mensaje": "💡Con servicio eléctrico el siguiente circuito:\n🔹Municipio Placetas:\n👉Cto 151",
-    "timestamp": 1787421951,
-    "timestamp_local": 1787421951
-  },
-  {
-    "id": 54482,
-    "fecha": "22 de Aug del 2026 a las 02:05 PM",
-    "hora_utc": "2026-08-22 18:05",
-    "mensaje": "Actualización del servicio eléctrico en la provincia.\n👉En este momento la afectación por déficit de capacidad de generación es de 133 MW, demanda máxima posible a apagar en estos momentos.\n👉De los circuitos apagables se mantienen afectados 76.\n👉Cuenta con 322 afectaciones por averías secundarias y de servicio.",
-    "timestamp": 1787421920,
-    "timestamp_local": 1787421920
   }
 ]
