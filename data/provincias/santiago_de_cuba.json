@@ -1,5 +1,29 @@
 [
   {
+    "id": 57358,
+    "fecha": "22 de Aug del 2026 a las 03:40 PM",
+    "hora_utc": "2026-08-22 19:40",
+    "mensaje": "🚨Estimados clientes en estos momentos se está Manipulando el circuito 10",
+    "timestamp": 1787427643,
+    "timestamp_local": 1787427643
+  },
+  {
+    "id": 57357,
+    "fecha": "22 de Aug del 2026 a las 03:29 PM",
+    "hora_utc": "2026-08-22 19:29",
+    "mensaje": "Estimados clientes en estos momentos se encuentran afectados por Déficit de Capacidad de Generación el circuito 19",
+    "timestamp": 1787426972,
+    "timestamp_local": 1787426972
+  },
+  {
+    "id": 57356,
+    "fecha": "22 de Aug del 2026 a las 03:07 PM",
+    "hora_utc": "2026-08-22 19:07",
+    "mensaje": "🚨Estimados clientes en estos momentos se encuentran afectados por Déficit de Capacidad de Generación la Línea 4435 Contramaestre",
+    "timestamp": 1787425672,
+    "timestamp_local": 1787425672
+  },
+  {
     "id": 57355,
     "fecha": "22 de Aug del 2026 a las 02:32 PM",
     "hora_utc": "2026-08-22 18:32",
@@ -134,29 +158,5 @@
     "mensaje": "🚨 Estimados clientes se encuentran afectados por Déficit de Capacidad de Generación los Circuitos 10 y 13 de Santiago de Cuba",
     "timestamp": 1787368918,
     "timestamp_local": 1787368918
-  },
-  {
-    "id": 57338,
-    "fecha": "21 de Aug del 2026 a las 09:36 PM",
-    "hora_utc": "2026-08-22 01:36",
-    "mensaje": "🚨 Estimados clientes se encuentra afectada por Déficit de Capacidad de Generación la Línea 4395 Contramaestre",
-    "timestamp": 1787362575,
-    "timestamp_local": 1787362575
-  },
-  {
-    "id": 57337,
-    "fecha": "21 de Aug del 2026 a las 08:25 PM",
-    "hora_utc": "2026-08-22 00:25",
-    "mensaje": "🛑 Disparo    \nApertura no voluntaria de un interruptor como vía de protección para desconectar uno o varios elementos del circuito, subestación o sistema, restableciéndose el servicio rápidamente en dependencia de la causa.",
-    "timestamp": 1787358320,
-    "timestamp_local": 1787358320
-  },
-  {
-    "id": 57336,
-    "fecha": "21 de Aug del 2026 a las 08:23 PM",
-    "hora_utc": "2026-08-22 00:23",
-    "mensaje": "🚨 Estimados clientes en estos momentos se encuentra disparada la Línea 4385 Contramaestre .",
-    "timestamp": 1787358208,
-    "timestamp_local": 1787358208
   }
 ]
