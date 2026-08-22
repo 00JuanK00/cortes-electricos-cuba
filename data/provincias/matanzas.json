@@ -1,5 +1,21 @@
 [
   {
+    "id": 38146,
+    "fecha": "21 de Aug del 2026 a las 11:20 PM",
+    "hora_utc": "2026-08-22 03:20",
+    "mensaje": "En este momento tenemos afectados por déficit de capacidad de generación 184 MW",
+    "timestamp": 1787368853,
+    "timestamp_local": 1787368853
+  },
+  {
+    "id": 38145,
+    "fecha": "21 de Aug del 2026 a las 10:32 PM",
+    "hora_utc": "2026-08-22 02:32",
+    "mensaje": "En este momento tenemos afectados por déficit de capacidad de generación 190 MW",
+    "timestamp": 1787365976,
+    "timestamp_local": 1787365976
+  },
+  {
     "id": 38143,
     "fecha": "21 de Aug del 2026 a las 09:20 PM",
     "hora_utc": "2026-08-22 01:20",
@@ -142,21 +158,5 @@
     "mensaje": "Con Servicio\n\nCircuito 1510 Santa Martha desde el Policlínico hasta la lavandería.\nCircuito 501 Colón 110 kV.\nCircuito 4071 /4072 /4073 Agramonte 110 kV\nCircuito JI 51. Poblado de Jovellanos\nCircuito 4220 Cárdenas 110/33 kV",
     "timestamp": 1787320311,
     "timestamp_local": 1787320311
-  },
-  {
-    "id": 38125,
-    "fecha": "21 de Aug del 2026 a las 09:41 AM",
-    "hora_utc": "2026-08-21 13:41",
-    "mensaje": "Con Servicio\n\nCircuito 1139 que da servicio a Guásima y oficinas de petróleo.",
-    "timestamp": 1787319715,
-    "timestamp_local": 1787319715
-  },
-  {
-    "id": 38124,
-    "fecha": "21 de Aug del 2026 a las 09:36 AM",
-    "hora_utc": "2026-08-21 13:36",
-    "mensaje": "Se reportan transformadores dañados\nCircuito 1501. Matanzas, Buen Viaje entre San Ambrosio y San Vicente. Afecta 44 clientes\nCircuito MK 101. Jagüey Grande. Calle 17 entre 74 y 76. Afecta 85 clientes",
-    "timestamp": 1787319399,
-    "timestamp_local": 1787319399
   }
 ]
