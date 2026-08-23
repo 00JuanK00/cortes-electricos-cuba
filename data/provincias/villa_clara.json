@@ -1,5 +1,29 @@
 [
   {
+    "id": 54546,
+    "fecha": "22 de Aug del 2026 a las 10:07 PM",
+    "hora_utc": "2026-08-23 02:07",
+    "mensaje": "⚠️Afectado el servicio eléctrico en el siguiente circuito:\n🔹Municipio Caibarién:\n👉Cto 183 Van Troi",
+    "timestamp": 1787450851,
+    "timestamp_local": 1787450851
+  },
+  {
+    "id": 54545,
+    "fecha": "22 de Aug del 2026 a las 10:06 PM",
+    "hora_utc": "2026-08-23 02:06",
+    "mensaje": "Actualización del servicio eléctrico en la provincia.\n👉En este momento la afectación por déficit de capacidad de generación es de 202 MW, demanda máxima posible a apagar en estos momentos.\n👉De los circuitos apagables se mantienen afectados 137.\n👉Cuenta con 294 afectaciones por averías secundarias y de servicio.",
+    "timestamp": 1787450817,
+    "timestamp_local": 1787450817
+  },
+  {
+    "id": 54543,
+    "fecha": "22 de Aug del 2026 a las 08:57 PM",
+    "hora_utc": "2026-08-23 00:57",
+    "mensaje": "⚠️Afectado el servicio eléctrico en los siguientes circuitos:\n🔹Municipio Placetas \n👉Cto 104 Hermanos Amejeiras\n👉Cto 103 Batey Carbó Servía",
+    "timestamp": 1787446640,
+    "timestamp_local": 1787446640
+  },
+  {
     "id": 54542,
     "fecha": "22 de Aug del 2026 a las 08:05 PM",
     "hora_utc": "2026-08-23 00:05",
@@ -126,37 +150,5 @@
     "mensaje": "⚠️Afectado el servicio eléctrico en los siguientes circuitos:\n🔹Municipio Santa Clara:\n👉Cto 191 Quemado de Hilario\n🔹Municipio Ranchuelo:\n👉Cto 92 Esperanza (Pueblo)\n👉Cto 93 Esperanza (Campo)\n🔹Municipio Santo Domingo\n👉Cto 79 Santo Domingo\n👉Cto 81 26 de Julio\n👉Cto 163 Batey 26 de Julio\n🔹Municipio Ranchuelo:\n👉Ctos 54, 94 y 95 Jicotea",
     "timestamp": 1787436724,
     "timestamp_local": 1787436724
-  },
-  {
-    "id": 54526,
-    "fecha": "22 de Aug del 2026 a las 06:09 PM",
-    "hora_utc": "2026-08-22 22:09",
-    "mensaje": "⚠️Afectado el servicio eléctrico en los siguientes circuitos:\n🔹Municipio Santa Clara:\n👉Cto 5 Dobarganes\n👉Cto 17 Subplanta",
-    "timestamp": 1787436563,
-    "timestamp_local": 1787436563
-  },
-  {
-    "id": 54525,
-    "fecha": "22 de Aug del 2026 a las 05:58 PM",
-    "hora_utc": "2026-08-22 21:58",
-    "mensaje": "⚠️Afectado el servicio eléctrico en el siguiente circuito:\n🔹Municipio Camajuaní:\n👉Cto 77 Vueltas",
-    "timestamp": 1787435915,
-    "timestamp_local": 1787435915
-  },
-  {
-    "id": 54524,
-    "fecha": "22 de Aug del 2026 a las 05:52 PM",
-    "hora_utc": "2026-08-22 21:52",
-    "mensaje": "⚠️Afectado el servicio eléctrico en el siguiente circuito:\n🔹Municipio Santa Clara:\n👉Cto 15 Maleza",
-    "timestamp": 1787435533,
-    "timestamp_local": 1787435533
-  },
-  {
-    "id": 54522,
-    "fecha": "22 de Aug del 2026 a las 05:48 PM",
-    "hora_utc": "2026-08-22 21:48",
-    "mensaje": "💡Con servicio eléctrico el siguiente circuito:\n🔹Municipio Placetas:\n👉Cto 103 Batey Carbó Servía",
-    "timestamp": 1787435303,
-    "timestamp_local": 1787435303
   }
 ]
