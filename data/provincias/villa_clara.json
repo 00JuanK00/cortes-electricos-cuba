@@ -1,5 +1,21 @@
 [
   {
+    "id": 54625,
+    "fecha": "23 de Aug del 2026 a las 04:03 PM",
+    "hora_utc": "2026-08-23 20:03",
+    "mensaje": "⚠️Afectado el servicio eléctrico en los siguientes circuitos:\n🔹Municipio Camajuaní:\n👉Ctos  72  y 129\n🔹Municipio Cifuentes:\n👉Ctos 114 y 117\n👉Ctos 116 y 155 Mata\n👉Cto 186 Batey Unidad Proletaria\n👉Cto 184 Sitio Grande",
+    "timestamp": 1787515412,
+    "timestamp_local": 1787515412
+  },
+  {
+    "id": 54624,
+    "fecha": "23 de Aug del 2026 a las 04:02 PM",
+    "hora_utc": "2026-08-23 20:02",
+    "mensaje": "Actualización del servicio eléctrico en la provincia.\n👉En este momento la afectación por déficit de capacidad de generación es de 174 MW, demanda máxima posible a apagar en estos momentos.\n👉De los circuitos apagables se mantienen afectados 105.\n👉Cuenta con 294 afectaciones por averías secundarias y de servicio.",
+    "timestamp": 1787515362,
+    "timestamp_local": 1787515362
+  },
+  {
     "id": 54623,
     "fecha": "23 de Aug del 2026 a las 03:47 PM",
     "hora_utc": "2026-08-23 19:47",
@@ -142,21 +158,5 @@
     "mensaje": "💡Con servicio eléctrico el siguiente circuito:\n🔹Municipio Santa Clara:\n👉Cto 167 Virginia",
     "timestamp": 1787509035,
     "timestamp_local": 1787509035
-  },
-  {
-    "id": 54605,
-    "fecha": "23 de Aug del 2026 a las 02:14 PM",
-    "hora_utc": "2026-08-23 18:14",
-    "mensaje": "Actualización del servicio eléctrico en la provincia.\n👉En este momento la afectación por déficit de capacidad de generación es de 139 MW, demanda máxima posible a apagar en estos momentos.\n👉De los circuitos apagables se mantienen afectados 82.\n👉Cuenta con 289 afectaciones por averías secundarias y de servicio.",
-    "timestamp": 1787508842,
-    "timestamp_local": 1787508842
-  },
-  {
-    "id": 54604,
-    "fecha": "23 de Aug del 2026 a las 01:57 PM",
-    "hora_utc": "2026-08-23 17:57",
-    "mensaje": "💡Con servicio eléctrico los siguientes circuitos:\n🔹Municipio Santa Clara:\n👉Cto 153 EIDE\n👉Cto 14 Maleza\n👉Cto 7 Universidad\n👉Cto 131 Las Antillas\n🔹Municipio Corralillo:\n👉Cto 57 Motembo\n👉Cto 56 Yabre\n👉Cto 60 La Sierra\n👉Cto 55 Rancho Veloz",
-    "timestamp": 1787507846,
-    "timestamp_local": 1787507846
   }
 ]
