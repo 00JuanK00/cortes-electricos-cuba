@@ -1,5 +1,53 @@
 [
   {
+    "id": 54599,
+    "fecha": "23 de Aug del 2026 a las 12:42 PM",
+    "hora_utc": "2026-08-23 16:42",
+    "mensaje": "⚠️Afectado el servicio eléctrico en el siguiente circuito:\n🔹Municipio Santa Clara\n👉Cto 31 Santa Clara Industrial",
+    "timestamp": 1787503375,
+    "timestamp_local": 1787503375
+  },
+  {
+    "id": 54598,
+    "fecha": "23 de Aug del 2026 a las 12:40 PM",
+    "hora_utc": "2026-08-23 16:40",
+    "mensaje": "⚠️Afectado el servicio eléctrico en el siguiente circuito:\n👉Ctos 98 Placetas",
+    "timestamp": 1787503249,
+    "timestamp_local": 1787503249
+  },
+  {
+    "id": 54597,
+    "fecha": "23 de Aug del 2026 a las 12:39 PM",
+    "hora_utc": "2026-08-23 16:39",
+    "mensaje": "💡Con servicio eléctrico los siguientes circuitos:\n🔹Municipio Placetas\n👉Ctos 100 y 151 Placetas\n👉Cto 104 Hermanos Amejeiras\n👉Cto 103 Batey Carbó Servía\n👉Cto 99 Placetas",
+    "timestamp": 1787503197,
+    "timestamp_local": 1787503197
+  },
+  {
+    "id": 54596,
+    "fecha": "23 de Aug del 2026 a las 12:24 PM",
+    "hora_utc": "2026-08-23 16:24",
+    "mensaje": "💡Con servicio eléctrico los siguientes circuitos:\n🔹Municipio Santa Clara:\n👉Cto 6 Vigía\n👉Cto 39 (Sandino)\n👉Cto 34 Sabana Rebacadero",
+    "timestamp": 1787502280,
+    "timestamp_local": 1787502280
+  },
+  {
+    "id": 54595,
+    "fecha": "23 de Aug del 2026 a las 12:20 PM",
+    "hora_utc": "2026-08-23 16:20",
+    "mensaje": "⚡Averías⚡\n➡️Ctos 54 y 94 Jicotea, del municipio Ranchuelo, afectados por transformador dañado en la subestación.\n➡️Cto 42 Manajanabo, del municipio Santa Clara, afectado por poste y cables partidos. Se encuentra pendiente por trabajo de brigada.\n➡️Cto 110 La Piedra, afectado el Ramal Bermejo. Se estudian las causas.\n➡️Cto 14 Maleza, del municipio Santa Clara, afectado por cable primario partido.",
+    "timestamp": 1787502039,
+    "timestamp_local": 1787502039
+  },
+  {
+    "id": 54594,
+    "fecha": "23 de Aug del 2026 a las 12:20 PM",
+    "hora_utc": "2026-08-23 16:20",
+    "mensaje": "🕛Actualización del servicio eléctrico.\n✍️El déficit de capacidad de generación en estos momentos es de 157 MW\n✍️En el momento de esta nota, se mantienen afectados 98 circuitos.\n✍️ Cuenta con 286 afectaciones por averías secundarias y de servicio:\n🔸 Caibarién (9)\n🔸 Cifuentes (7)\n🔸 Corralillo (17)\n🔸 Encrucijada (3)\n🔸 Manicaragua (6)\n🔸 Placetas (6)\n🔸 Ranchuelo (15)\n🔸 Remedios (2)\n🔸 Sagua (16)\n🔸 Santa Clara (172)\n🔸 Santo Domingo (33)\n🛠️Se encuentra 3 avería en vías de solución.\n🛠️Pendientes a solucionar por el área técnica 49.\n⚡La provincia presenta 4 averías primarias.",
+    "timestamp": 1787502018,
+    "timestamp_local": 1787502018
+  },
+  {
     "id": 54593,
     "fecha": "23 de Aug del 2026 a las 11:48 AM",
     "hora_utc": "2026-08-23 15:48",
@@ -102,53 +150,5 @@
     "mensaje": "💡Con servicio eléctrico el siguiente circuito:\n🔹Municipio Santa Clara:\n👉Cto 170 José Martí",
     "timestamp": 1787483453,
     "timestamp_local": 1787483453
-  },
-  {
-    "id": 54579,
-    "fecha": "23 de Aug del 2026 a las 06:51 AM",
-    "hora_utc": "2026-08-23 10:51",
-    "mensaje": "💡Con servicio eléctrico el siguiente circuito:\n🔹Municipio Santa Clara:\n👉Cto 3 Consejo-Centro",
-    "timestamp": 1787482309,
-    "timestamp_local": 1787482309
-  },
-  {
-    "id": 54578,
-    "fecha": "23 de Aug del 2026 a las 06:14 AM",
-    "hora_utc": "2026-08-23 10:14",
-    "mensaje": "⚡Averías⚡\n➡️Ctos 54 y 94 Jicotea, del municipio Ranchuelo, afectados por transformador dañado en la subestación.\n➡️Cto 42 Manajanabo, del municipio Santa Clara, afectado por poste y cables partidos. Se encuentra pendiente por trabajo de brigada.\n➡️Cto 110 La Piedra, afectado el Ramal Bermejo. Se estudian las causas.\n➡️Cto 14 Maleza, del municipio Santa Clara, afectado por cable primario partido.",
-    "timestamp": 1787480056,
-    "timestamp_local": 1787480056
-  },
-  {
-    "id": 54577,
-    "fecha": "23 de Aug del 2026 a las 06:11 AM",
-    "hora_utc": "2026-08-23 10:11",
-    "mensaje": "🕛Actualización del servicio eléctrico.\n✍️El déficit de capacidad de generación en estos momentos es de 189 MW\n✍️En el momento de esta nota, se mantienen afectados 127 circuitos.\n✍️ Cuenta con 334 afectaciones por averías secundarias y de servicio:\n🔸 Caibarién (13)\n🔸 Cifuentes (7)\n🔸 Corralillo (17)\n🔸 Encrucijada (1)\n🔸 Manicaragua (15)\n🔸 Placetas (12)\n🔸 Ranchuelo (10)\n🔸 Remedios (4)\n🔸 Sagua (14)\n🔸 Santa Clara (159)\n🔸 Santo Domingo (33)\n🛠️Se encuentra 1 avería en vías de solución.\n🛠️Pendientes a solucionar por el área técnica 48.\n⚡La provincia presenta 4 averías primarias.",
-    "timestamp": 1787479886,
-    "timestamp_local": 1787479886
-  },
-  {
-    "id": 54576,
-    "fecha": "23 de Aug del 2026 a las 05:16 AM",
-    "hora_utc": "2026-08-23 09:16",
-    "mensaje": "✍️Concluido el trabajo de vía libre por parte de la brigada eléctrica para cerrar puentes abiertos en el circuito 14 Maleza, del municipio Santa Clara, continúa afectado debido a cable primario partido hasta tanto se creen las condiciones necesarias para trabajar en el lugar y restablecer el servicio.",
-    "timestamp": 1787476617,
-    "timestamp_local": 1787476617
-  },
-  {
-    "id": 54575,
-    "fecha": "23 de Aug del 2026 a las 05:08 AM",
-    "hora_utc": "2026-08-23 09:08",
-    "mensaje": "⚠️Afectado el servicio eléctrico en los siguientes circuitos:\n🔹Municipio Santa Clara:\n👉Cto 169 Condado\n👉Cto 166 Condado",
-    "timestamp": 1787476120,
-    "timestamp_local": 1787476120
-  },
-  {
-    "id": 54574,
-    "fecha": "23 de Aug del 2026 a las 04:23 AM",
-    "hora_utc": "2026-08-23 08:23",
-    "mensaje": "🛠️Comienzan las labores por parte de la brigada eléctrica para cerrar puentes abiertos en el circuito 14 Maleza, del municipio Santa Clara.",
-    "timestamp": 1787473391,
-    "timestamp_local": 1787473391
   }
 ]
