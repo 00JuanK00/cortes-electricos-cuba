@@ -1,5 +1,21 @@
 [
   {
+    "id": 54640,
+    "fecha": "23 de Aug del 2026 a las 11:04 PM",
+    "hora_utc": "2026-08-24 03:04",
+    "mensaje": "Afectados 210 MW en la provincia, demanda máxima a apagar en estos momentos.",
+    "timestamp": 1787540681,
+    "timestamp_local": 1787540681
+  },
+  {
+    "id": 54639,
+    "fecha": "23 de Aug del 2026 a las 10:33 PM",
+    "hora_utc": "2026-08-24 02:33",
+    "mensaje": "Actualización del servicio eléctrico en la provincia.\n👉En este momento la afectación por déficit de capacidad de generación es de 211 MW, demanda máxima posible a apagar en estos momentos.\n👉De los circuitos apagables se mantienen afectados 143.\n👉Cuenta con 298 afectaciones por averías secundarias y de servicio.",
+    "timestamp": 1787538816,
+    "timestamp_local": 1787538816
+  },
+  {
     "id": 54638,
     "fecha": "23 de Aug del 2026 a las 09:16 PM",
     "hora_utc": "2026-08-24 01:16",
@@ -134,21 +150,5 @@
     "mensaje": "💡Con servicio eléctrico los siguientes circuitos:\n🔹Municipio Santa Clara:\n👉Cto 144 Camacho\n👉Cto 27 Maleza",
     "timestamp": 1787513457,
     "timestamp_local": 1787513457
-  },
-  {
-    "id": 54620,
-    "fecha": "23 de Aug del 2026 a las 03:29 PM",
-    "hora_utc": "2026-08-23 19:29",
-    "mensaje": "⚠️Afectado el servicio eléctrico en los siguientes circuitos:\n🔹Municipio Santa Clara:\n👉Ctos 37 y 38 Yabú\n👉Cto 9 Moldes y Troqueles\n👉Cto 133 Taller Cafetera",
-    "timestamp": 1787513396,
-    "timestamp_local": 1787513396
-  },
-  {
-    "id": 54619,
-    "fecha": "23 de Aug del 2026 a las 03:24 PM",
-    "hora_utc": "2026-08-23 19:24",
-    "mensaje": "⚠️Afectado el servicio eléctrico en el siguiente circuito:\n🔹Municipio Santa Clara\n👉Cto 15 Maleza",
-    "timestamp": 1787513076,
-    "timestamp_local": 1787513076
   }
 ]
