@@ -1,9 +1,49 @@
 [
   {
+    "id": 54663,
+    "fecha": "24 de Aug del 2026 a las 11:17 AM",
+    "hora_utc": "2026-08-24 15:17",
+    "mensaje": "💡Con servicio eléctrico los siguientes circuitos.\n🔹Municipio Santa Clara\n👉Cto 22 Construcciones Textil\n🔹Municipio Placetas:\n👉Ctos 101 y 145 Cumbre",
+    "timestamp": 1787584655,
+    "timestamp_local": 1787584655
+  },
+  {
+    "id": 54662,
+    "fecha": "24 de Aug del 2026 a las 11:00 AM",
+    "hora_utc": "2026-08-24 15:00",
+    "mensaje": "🛠️Afectado por manipulación Línea 6375\n🔹Municipio Santa Clara\n👉Cto 7 Universidad\n👉Cto 131 Las Antillas\n👉Cto 22 Construcciones Textil\n👉Cto 153 EIDE\n👉Cto 24 Planta Asfalto\n👉Cto 146 Elevado Aeropuerto\n👉Cto 25 Los Güiros\n👉Cto 35 Biotecnología\n👉Ctos 14, 15 y 27 Maleza",
+    "timestamp": 1787583654,
+    "timestamp_local": 1787583654
+  },
+  {
+    "id": 54661,
+    "fecha": "24 de Aug del 2026 a las 10:50 AM",
+    "hora_utc": "2026-08-24 14:50",
+    "mensaje": "💡Restablecido el servicio eléctrico en el siguiente circuito:\n🔹Municipio Santa Clara:\n👉Cto 170 José Martí",
+    "timestamp": 1787583026,
+    "timestamp_local": 1787583026
+  },
+  {
+    "id": 54660,
+    "fecha": "24 de Aug del 2026 a las 10:40 AM",
+    "hora_utc": "2026-08-24 14:40",
+    "mensaje": "Actualización del servicio eléctrico en la provincia.\n👉En este momento la afectación por déficit de capacidad de generación es de 105 MW, demanda máxima posible a apagar en estos momentos.\n👉De los circuitos apagables se mantienen afectados 118.\n👉Cuenta con 315 afectaciones por averías secundarias y de servicio.",
+    "timestamp": 1787582448,
+    "timestamp_local": 1787582448
+  },
+  {
+    "id": 54658,
+    "fecha": "24 de Aug del 2026 a las 10:23 AM",
+    "hora_utc": "2026-08-24 14:23",
+    "mensaje": "💡Restablecido el servicio eléctrico en el siguiente circuito:\n🔹Municipio Santa Clara:\n👉Cto 31 Santa Clara Industrial",
+    "timestamp": 1787581436,
+    "timestamp_local": 1787581436
+  },
+  {
     "id": 54657,
     "fecha": "24 de Aug del 2026 a las 10:19 AM",
     "hora_utc": "2026-08-24 14:19",
-    "mensaje": "💡Restablecido el servicio eléctrico en los siguientes circuitos:\n🔹Municipio Quemado:\n👉 Ctos 164 y 53 Quemado.",
+    "mensaje": "⚠️Afectado el servicio eléctrico en los siguientes circuitos:\n🔹Municipio Ranchuelo: \n👉Ctos 148 y 149 San Juan\n👉Cto 91 Batey Osvaldo Herrera\n👉Cto 181 Batey Ifraín Alfonso",
     "timestamp": 1787581181,
     "timestamp_local": 1787581181
   },
@@ -11,7 +51,7 @@
     "id": 54656,
     "fecha": "24 de Aug del 2026 a las 10:17 AM",
     "hora_utc": "2026-08-24 14:17",
-    "mensaje": "💡Restablecido el servicio eléctrico en los siguientes circuitos:\n🔹Municipio Remedios:\n👉Ctos 67 y 152",
+    "mensaje": "💡Restablecido el servicio eléctrico en los siguientes circuitos:\n🔹Municipio Remedios:\n👉Ctos 67 y 152\n🔹Municipio Quemado:\n👉 Ctos 164 y 53 Quemado.",
     "timestamp": 1787581071,
     "timestamp_local": 1787581071
   },
@@ -110,53 +150,5 @@
     "mensaje": "Afectados 210 MW en la provincia, demanda máxima a apagar en estos momentos.",
     "timestamp": 1787548729,
     "timestamp_local": 1787548729
-  },
-  {
-    "id": 54643,
-    "fecha": "24 de Aug del 2026 a las 12:44 AM",
-    "hora_utc": "2026-08-24 04:44",
-    "mensaje": "💡Restablecido el servicio eléctrico en el siguiente circuito:\n🔹Municipio Santa Clara:\n👉Cto 166 Condado",
-    "timestamp": 1787546688,
-    "timestamp_local": 1787546688
-  },
-  {
-    "id": 54642,
-    "fecha": "24 de Aug del 2026 a las 12:30 AM",
-    "hora_utc": "2026-08-24 04:30",
-    "mensaje": "⚡Averías⚡\n➡️Ctos 54 y 94 Jicotea, del municipio Ranchuelo, afectados por transformador dañado en la subestación.\n➡️Cto 110 La Piedra, afectado el Ramal Bermejo. Se estudian las causas.",
-    "timestamp": 1787545841,
-    "timestamp_local": 1787545841
-  },
-  {
-    "id": 54641,
-    "fecha": "24 de Aug del 2026 a las 12:29 AM",
-    "hora_utc": "2026-08-24 04:29",
-    "mensaje": "🕛Actualización del servicio eléctrico.\n✍️El déficit de capacidad de generación en estos momentos es de 211 MW\n✍️En el momento de esta nota, se mantienen afectados 143 circuitos.\n✍️ Cuenta con 294 afectaciones por averías secundarias y de servicio:\n🔸 Caibarién (4)\n🔸 Cifuentes (9)\n🔸 Corralillo (18)\n🔸 Encrucijada (1)\n🔸 Manicaragua (9)\n🔸 Placetas (4)\n🔸 Ranchuelo (16)\n🔸 Remedios (1)\n🔸 Sagua (20)\n🔸 Santa Clara (176)\n🔸 Santo Domingo (36)\n🛠️Se encuentra 1 avería en vías de solución.\n🛠️Pendientes a solucionar por el área técnica 50.\n⚡La provincia presenta 2 averías primarias.",
-    "timestamp": 1787545773,
-    "timestamp_local": 1787545773
-  },
-  {
-    "id": 54640,
-    "fecha": "23 de Aug del 2026 a las 11:04 PM",
-    "hora_utc": "2026-08-24 03:04",
-    "mensaje": "Afectados 210 MW en la provincia, demanda máxima a apagar en estos momentos.",
-    "timestamp": 1787540681,
-    "timestamp_local": 1787540681
-  },
-  {
-    "id": 54639,
-    "fecha": "23 de Aug del 2026 a las 10:33 PM",
-    "hora_utc": "2026-08-24 02:33",
-    "mensaje": "Actualización del servicio eléctrico en la provincia.\n👉En este momento la afectación por déficit de capacidad de generación es de 211 MW, demanda máxima posible a apagar en estos momentos.\n👉De los circuitos apagables se mantienen afectados 143.\n👉Cuenta con 298 afectaciones por averías secundarias y de servicio.",
-    "timestamp": 1787538816,
-    "timestamp_local": 1787538816
-  },
-  {
-    "id": 54638,
-    "fecha": "23 de Aug del 2026 a las 09:16 PM",
-    "hora_utc": "2026-08-24 01:16",
-    "mensaje": "Afectados 212 MW en la provincia, demanda máxima a apagar en estos momentos.",
-    "timestamp": 1787534215,
-    "timestamp_local": 1787534215
   }
 ]
