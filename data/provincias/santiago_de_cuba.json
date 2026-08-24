@@ -1,5 +1,45 @@
 [
   {
+    "id": 57424,
+    "fecha": "24 de Aug del 2026 a las 03:07 PM",
+    "hora_utc": "2026-08-24 19:07",
+    "mensaje": "🛑 Disparo    \nApertura no voluntaria de un interruptor como vía de protección para desconectar uno o varios elementos del circuito, subestación o sistema, restableciéndose el servicio rápidamente en dependencia de la causa.",
+    "timestamp": 1787598475,
+    "timestamp_local": 1787598475
+  },
+  {
+    "id": 57423,
+    "fecha": "24 de Aug del 2026 a las 03:07 PM",
+    "hora_utc": "2026-08-24 19:07",
+    "mensaje": "🚨 Estimados clientes en estos momentos se encuentra disparado el circuito 12 de Santiago.",
+    "timestamp": 1787598448,
+    "timestamp_local": 1787598448
+  },
+  {
+    "id": 57422,
+    "fecha": "24 de Aug del 2026 a las 03:05 PM",
+    "hora_utc": "2026-08-24 19:05",
+    "mensaje": "🚨 Estimados clientes se encuentra afectado por Déficit de Capacidad de Generación la línea 4395 de Contramaestre y el circuito 25 de Santiago.",
+    "timestamp": 1787598309,
+    "timestamp_local": 1787598309
+  },
+  {
+    "id": 57421,
+    "fecha": "24 de Aug del 2026 a las 02:41 PM",
+    "hora_utc": "2026-08-24 18:41",
+    "mensaje": "🚨 Se incorporan a la afectación por Déficit de Capacidad de Generación los circuitos 10 y 11 de Santiago.",
+    "timestamp": 1787596862,
+    "timestamp_local": 1787596862
+  },
+  {
+    "id": 57420,
+    "fecha": "24 de Aug del 2026 a las 02:21 PM",
+    "hora_utc": "2026-08-24 18:21",
+    "mensaje": "🚨  Estimados clientes se encuentra afectado por Déficit de Capacidad de Generación la línea 5330- Cristo, los circuitos 16, 3 y 22 de Santiago.",
+    "timestamp": 1787595676,
+    "timestamp_local": 1787595676
+  },
+  {
     "id": 57419,
     "fecha": "24 de Aug del 2026 a las 01:25 PM",
     "hora_utc": "2026-08-24 17:25",
@@ -102,37 +142,5 @@
     "mensaje": "🚨Estimados clientes en estos momentos se encuentra Disparada La Línea 5385 San Luis - Palma",
     "timestamp": 1787563024,
     "timestamp_local": 1787563024
-  },
-  {
-    "id": 57404,
-    "fecha": "24 de Aug del 2026 a las 03:40 AM",
-    "hora_utc": "2026-08-24 07:40",
-    "mensaje": "🚨Estimados clientes en estos momentos se encuentra afectado por Déficit de Capacidad de Generación la Línea 5390 Seccionalizados La Maya",
-    "timestamp": 1787557207,
-    "timestamp_local": 1787557207
-  },
-  {
-    "id": 57403,
-    "fecha": "24 de Aug del 2026 a las 02:29 AM",
-    "hora_utc": "2026-08-24 06:29",
-    "mensaje": "🚨Estimados clientes en estos momentos se encuentra afectado por Déficit de Capacidad de Generación los circuitos San Juan Seccionalizado y el 24",
-    "timestamp": 1787552980,
-    "timestamp_local": 1787552980
-  },
-  {
-    "id": 57401,
-    "fecha": "23 de Aug del 2026 a las 11:17 PM",
-    "hora_utc": "2026-08-24 03:17",
-    "mensaje": "🚨**Disparo:**\nApertura no voluntaria de un interruptor como vía de protección para desconectar uno o varios elementos del circuito, subestación o sistema, restableciéndose el servicio rápidamente en dependencia de la causa.",
-    "timestamp": 1787541466,
-    "timestamp_local": 1787541466
-  },
-  {
-    "id": 57400,
-    "fecha": "23 de Aug del 2026 a las 11:17 PM",
-    "hora_utc": "2026-08-24 03:17",
-    "mensaje": "🚨Estimados clientes en estos momentos está Disparado el circuito San Juan",
-    "timestamp": 1787541445,
-    "timestamp_local": 1787541445
   }
 ]
