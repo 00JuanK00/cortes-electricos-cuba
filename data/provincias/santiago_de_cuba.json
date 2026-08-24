@@ -1,5 +1,21 @@
 [
   {
+    "id": 57407,
+    "fecha": "24 de Aug del 2026 a las 05:17 AM",
+    "hora_utc": "2026-08-24 09:17",
+    "mensaje": "🔴**Disparo:**\nApertura no voluntaria de un interruptor como vía de protección para desconectar uno o varios elementos del circuito, subestación o sistema, restableciéndose el servicio rápidamente en dependencia de la causa.",
+    "timestamp": 1787563046,
+    "timestamp_local": 1787563046
+  },
+  {
+    "id": 57406,
+    "fecha": "24 de Aug del 2026 a las 05:17 AM",
+    "hora_utc": "2026-08-24 09:17",
+    "mensaje": "🚨Estimados clientes en estos momentos se encuentra Disparada La Línea 5385 San Luis - Palma",
+    "timestamp": 1787563024,
+    "timestamp_local": 1787563024
+  },
+  {
     "id": 57404,
     "fecha": "24 de Aug del 2026 a las 03:40 AM",
     "hora_utc": "2026-08-24 07:40",
@@ -110,29 +126,5 @@
     "mensaje": "➡️**Déficit de Capacidad de Generación**:⬅️\nSe produce cuando la demanda del Sistema Eléctrico Nacional, en determinado horario del día supera la generación disponible del país, provocando la desconexión de los circuitos o líneas que permitan garantizar la frecuencia del SEN.",
     "timestamp": 1787510752,
     "timestamp_local": 1787510752
-  },
-  {
-    "id": 57387,
-    "fecha": "23 de Aug del 2026 a las 02:45 PM",
-    "hora_utc": "2026-08-23 18:45",
-    "mensaje": "🟡Se incorpora a la afectación por Déficit de Capacidad de Generación el circuito 2 .",
-    "timestamp": 1787510717,
-    "timestamp_local": 1787510717
-  },
-  {
-    "id": 57386,
-    "fecha": "23 de Aug del 2026 a las 02:30 PM",
-    "hora_utc": "2026-08-23 18:30",
-    "mensaje": "🟡Se incorpora a la afectación por Déficit  el circuito 17 y la Línea 5380-Mella.",
-    "timestamp": 1787509850,
-    "timestamp_local": 1787509850
-  },
-  {
-    "id": 57385,
-    "fecha": "23 de Aug del 2026 a las 02:01 PM",
-    "hora_utc": "2026-08-23 18:01",
-    "mensaje": "📌Si presenta o conoce alguna avería, haga su reporte al Centro Telefónico mediante el 18888.Gracias.☑️",
-    "timestamp": 1787508063,
-    "timestamp_local": 1787508063
   }
 ]
