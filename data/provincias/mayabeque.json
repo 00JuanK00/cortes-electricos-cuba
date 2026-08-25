@@ -1,5 +1,29 @@
 [
   {
+    "id": 120003,
+    "fecha": "25 de Aug del 2026 a las 12:05 AM",
+    "hora_utc": "2026-08-25 04:05",
+    "mensaje": "🚨Por déficit de capacidad de generación se afecta el servicio en el siguiente circuito: \n*Aguacate 🚨",
+    "timestamp": 1787630757,
+    "timestamp_local": 1787630757
+  },
+  {
+    "id": 120002,
+    "fecha": "25 de Aug del 2026 a las 12:05 AM",
+    "hora_utc": "2026-08-25 04:05",
+    "mensaje": "🔷 Normalizados los servicios en los siguientes circuitos:\n*3130\n*3135\n*3140 🔷",
+    "timestamp": 1787630748,
+    "timestamp_local": 1787630748
+  },
+  {
+    "id": 120001,
+    "fecha": "25 de Aug del 2026 a las 12:01 AM",
+    "hora_utc": "2026-08-25 04:01",
+    "mensaje": "🚨Por déficit de capacidad de generación se afecta el servicio en el siguiente circuito: \n*Quivicán 🚨",
+    "timestamp": 1787630517,
+    "timestamp_local": 1787630517
+  },
+  {
     "id": 120000,
     "fecha": "24 de Aug del 2026 a las 11:05 PM",
     "hora_utc": "2026-08-25 03:05",
@@ -126,29 +150,5 @@
     "mensaje": "🚨Por déficit de capacidad de generación se afecta el servicio en el siguiente circuito: \n*Bío 2 🚨",
     "timestamp": 1787608901,
     "timestamp_local": 1787608901
-  },
-  {
-    "id": 119983,
-    "fecha": "24 de Aug del 2026 a las 05:35 PM",
-    "hora_utc": "2026-08-24 21:35",
-    "mensaje": "🚨Por déficit de capacidad de generación se afecta el servicio en los siguientes circuitos: \n*6 y 8 de San José 🚨",
-    "timestamp": 1787607330,
-    "timestamp_local": 1787607330
-  },
-  {
-    "id": 119981,
-    "fecha": "24 de Aug del 2026 a las 05:28 PM",
-    "hora_utc": "2026-08-24 21:28",
-    "mensaje": "🔷 Normalizado el circuito 3590🔷",
-    "timestamp": 1787606935,
-    "timestamp_local": 1787606935
-  },
-  {
-    "id": 119980,
-    "fecha": "24 de Aug del 2026 a las 05:20 PM",
-    "hora_utc": "2026-08-24 21:20",
-    "mensaje": "🚨Por déficit de capacidad de generación se afecta el servicio en el siguiente circuito: \n*2420 🚨",
-    "timestamp": 1787606432,
-    "timestamp_local": 1787606432
   }
 ]
