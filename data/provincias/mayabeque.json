@@ -1,9 +1,49 @@
 [
   {
+    "id": 120029,
+    "fecha": "25 de Aug del 2026 a las 01:49 PM",
+    "hora_utc": "2026-08-25 17:49",
+    "mensaje": "🚨Por déficit de capacidad de generación se afecta el servicio en el siguiente circuito: \n*2 de San José 🚨",
+    "timestamp": 1787680175,
+    "timestamp_local": 1787680175
+  },
+  {
+    "id": 120028,
+    "fecha": "25 de Aug del 2026 a las 01:49 PM",
+    "hora_utc": "2026-08-25 17:49",
+    "mensaje": "🚨Por déficit de capacidad de generación se afecta el servicio en el siguiente circuito: \n*Los Palos 🚨",
+    "timestamp": 1787680150,
+    "timestamp_local": 1787680150
+  },
+  {
+    "id": 120027,
+    "fecha": "25 de Aug del 2026 a las 01:48 PM",
+    "hora_utc": "2026-08-25 17:48",
+    "mensaje": "♦️ Informamos a los clientes de las siguientes zonas pertenecientes al circuito 6 de San José que se encuentran afectados por avería:\n* Rodeo\n* PNR\n* Minint\n* Callejón de Guanaga\n* Aldama \n* Zonas aledañas♦️",
+    "timestamp": 1787680093,
+    "timestamp_local": 1787680093
+  },
+  {
+    "id": 120026,
+    "fecha": "25 de Aug del 2026 a las 01:40 PM",
+    "hora_utc": "2026-08-25 17:40",
+    "mensaje": "♦️ Informamos a los clientes de las siguientes zonas pertenecientes al circuito Espirulina que se encuentran afectados por avería:\n* Morales\n* San Marcos\n* Centro de Alevinaje Mamposton\n* Caserío Rotolactor\n* Pollerías\n* Zonas aledañas♦️",
+    "timestamp": 1787679614,
+    "timestamp_local": 1787679614
+  },
+  {
+    "id": 120025,
+    "fecha": "25 de Aug del 2026 a las 01:39 PM",
+    "hora_utc": "2026-08-25 17:39",
+    "mensaje": "🧏🏻‍♂️|¿Cómo marcha la reposición de transformadores dañados en la provincia de Mayabeque? \n\nDurante el presente mes de agosto, la Unión Eléctrica ha asignado 25 transformadores a la provincia de Mayabeque para atender las afectaciones existentes. De este total, ya se han utilizado unidades que permitieron solucionar 18 posiciones. \n\nLa distribución de la reposición de transformadores se comportó de la siguiente manera: \n\nSan José de las Lajas: 8\nGüines: 3\nQuivicán: 2\nJaruco: 1\nNueva Paz: 1\nBatabanó: 1\nBejucal: 2 \n\nLas afectaciones atendidas corresponden a reportes realizados hasta el 26 de julio. \n\nPara determinar la prioridad en la asignación y reposición de los transformadores se cumplen estrictamente dos principios fundamentales: \n\n* La fecha en que ocurrió el daño o la afectación.\n* La correspondencia entre la capacidad del transformador asignado y la cantidad de clientes afectados. \n\nEn estos momentos, la provincia continúa presentando importantes afectaciones, mientras se mantienen las gestiones y se espera la asignación de nuevos transformadores que permitan dar continuidad al proceso de reposición.",
+    "timestamp": 1787679563,
+    "timestamp_local": 1787679563
+  },
+  {
     "id": 120022,
     "fecha": "25 de Aug del 2026 a las 12:31 PM",
     "hora_utc": "2026-08-25 16:31",
-    "mensaje": "🚨Por déficit de capacidad de generación se afecta el servicio en el siguiente circuito: \n*Batabanó 🚨",
+    "mensaje": "🚨Por déficit de capacidad de generación se afecta el servicio en los siguientes circuitos: \n*Batabanó\n*Bío 1 🚨",
     "timestamp": 1787675460,
     "timestamp_local": 1787675460
   },
@@ -86,53 +126,5 @@
     "mensaje": "🚨Por déficit de capacidad de generación se afecta el servicio en el siguiente circuito: \n*San Nicolás 3 🚨",
     "timestamp": 1787649067,
     "timestamp_local": 1787649067
-  },
-  {
-    "id": 120006,
-    "fecha": "25 de Aug del 2026 a las 05:02 AM",
-    "hora_utc": "2026-08-25 09:02",
-    "mensaje": "🚨Por déficit de capacidad de generación se afecta el servicio en el siguiente circuito: \n*San Felipe 🚨",
-    "timestamp": 1787648546,
-    "timestamp_local": 1787648546
-  },
-  {
-    "id": 120005,
-    "fecha": "25 de Aug del 2026 a las 04:48 AM",
-    "hora_utc": "2026-08-25 08:48",
-    "mensaje": "🚨Por déficit de capacidad de generación se afecta el servicio en el siguiente circuito: \n*Héctor Molina 🚨",
-    "timestamp": 1787647714,
-    "timestamp_local": 1787647714
-  },
-  {
-    "id": 120004,
-    "fecha": "25 de Aug del 2026 a las 12:36 AM",
-    "hora_utc": "2026-08-25 04:36",
-    "mensaje": "🚨Por déficit de capacidad de generación se afecta el servicio en el siguiente circuito: \n*Melena 2 🚨",
-    "timestamp": 1787632586,
-    "timestamp_local": 1787632586
-  },
-  {
-    "id": 120003,
-    "fecha": "25 de Aug del 2026 a las 12:05 AM",
-    "hora_utc": "2026-08-25 04:05",
-    "mensaje": "🚨Por déficit de capacidad de generación se afecta el servicio en el siguiente circuito: \n*Aguacate 🚨",
-    "timestamp": 1787630757,
-    "timestamp_local": 1787630757
-  },
-  {
-    "id": 120002,
-    "fecha": "25 de Aug del 2026 a las 12:05 AM",
-    "hora_utc": "2026-08-25 04:05",
-    "mensaje": "🔷 Normalizados los servicios en los siguientes circuitos:\n*3130\n*3135\n*3140 🔷",
-    "timestamp": 1787630748,
-    "timestamp_local": 1787630748
-  },
-  {
-    "id": 120001,
-    "fecha": "25 de Aug del 2026 a las 12:01 AM",
-    "hora_utc": "2026-08-25 04:01",
-    "mensaje": "🚨Por déficit de capacidad de generación se afecta el servicio en el siguiente circuito: \n*Quivicán 🚨",
-    "timestamp": 1787630517,
-    "timestamp_local": 1787630517
   }
 ]
