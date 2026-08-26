@@ -1,5 +1,37 @@
 [
   {
+    "id": 54862,
+    "fecha": "25 de Aug del 2026 a las 09:59 PM",
+    "hora_utc": "2026-08-26 01:59",
+    "mensaje": "💡Con servicio eléctrico los siguientes circuitos:\n🔹Municipio Santa Clara:\n👉Cto 5 Dobarganes\n👉Cto 17 Subplanta",
+    "timestamp": 1787709594,
+    "timestamp_local": 1787709594
+  },
+  {
+    "id": 54861,
+    "fecha": "25 de Aug del 2026 a las 09:57 PM",
+    "hora_utc": "2026-08-26 01:57",
+    "mensaje": "Actualización del servicio eléctrico en la provincia.\n👉En este momento la afectación por déficit de capacidad de generación es de 133 MW, demanda máxima posible a apagar en estos momentos.\n👉De los circuitos apagables se mantienen afectados 139.\n👉Cuenta con 277 afectaciones por averías secundarias y de servicio.",
+    "timestamp": 1787709451,
+    "timestamp_local": 1787709451
+  },
+  {
+    "id": 54860,
+    "fecha": "25 de Aug del 2026 a las 09:23 PM",
+    "hora_utc": "2026-08-26 01:23",
+    "mensaje": "💡Restablecido el servicio eléctrico en el circuito 169 Condado.",
+    "timestamp": 1787707385,
+    "timestamp_local": 1787707385
+  },
+  {
+    "id": 54859,
+    "fecha": "25 de Aug del 2026 a las 08:38 PM",
+    "hora_utc": "2026-08-26 00:38",
+    "mensaje": "⚠️Afectado por emergencia el servicio eléctrico en el siguiente circuito:\n🔹Municipio Santa Clara: \n👉Cto 169 Condado",
+    "timestamp": 1787704680,
+    "timestamp_local": 1787704680
+  },
+  {
     "id": 54858,
     "fecha": "25 de Aug del 2026 a las 08:25 PM",
     "hora_utc": "2026-08-26 00:25",
@@ -126,37 +158,5 @@
     "mensaje": "💡Restablecido el servicio eléctrico en la Línea 129.\n🔹Municipio Santa Clara:\n👉Ctos 32 y 33 (RF-33Kv)\n👉Hospital Cardiocentro\n👉Hospital (viejo) Celestino Hernández",
     "timestamp": 1787693098,
     "timestamp_local": 1787693098
-  },
-  {
-    "id": 54842,
-    "fecha": "25 de Aug del 2026 a las 05:21 PM",
-    "hora_utc": "2026-08-25 21:21",
-    "mensaje": "💡Con servicio eléctrico los siguientes circuitos:\n🔹Municipio Remedios:\n👉Ctos  68 y 118",
-    "timestamp": 1787692872,
-    "timestamp_local": 1787692872
-  },
-  {
-    "id": 54841,
-    "fecha": "25 de Aug del 2026 a las 05:20 PM",
-    "hora_utc": "2026-08-25 21:20",
-    "mensaje": "⚠️Afectado el servicio eléctrico en los siguientes circuitos:\n🔹Municipio Remedios:\n👉Ctos 69 y 70 Zuluetas\n👉Cto 143 Batey Heriberto Duquezne \n👉Cto 71 Buena Vista",
-    "timestamp": 1787692811,
-    "timestamp_local": 1787692811
-  },
-  {
-    "id": 54840,
-    "fecha": "25 de Aug del 2026 a las 04:58 PM",
-    "hora_utc": "2026-08-25 20:58",
-    "mensaje": "⚠️Afectado el servicio eléctrico en los siguientes circuitos:\n🔹Municipio Santa Clara:\n👉Cto 5 Dobarganes\n👉Cto 17 Subplanta",
-    "timestamp": 1787691480,
-    "timestamp_local": 1787691480
-  },
-  {
-    "id": 54838,
-    "fecha": "25 de Aug del 2026 a las 04:50 PM",
-    "hora_utc": "2026-08-25 20:50",
-    "mensaje": "⚠️Afectado el servicio eléctrico en el siguiente circuito:\n🔹Municipio Camajuaní: \n👉Cto 74 José María Pérez",
-    "timestamp": 1787691041,
-    "timestamp_local": 1787691041
   }
 ]
