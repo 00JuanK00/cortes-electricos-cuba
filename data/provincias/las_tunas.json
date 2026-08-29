@@ -1,5 +1,21 @@
 [
   {
+    "id": 21151,
+    "fecha": "28 de Aug del 2026 a las 07:18 PM",
+    "hora_utc": "2026-08-28 23:18",
+    "mensaje": "Que significa e implica la máxima capacidad apagable en la provincia: \n📈 Máxima capacidad apagable se refiere al nivel máximo de demanda eléctrica que puede ser desconectada o suspendida temporalmente en la provincia, explica la complejidad del déficit de generación o contingencias en el sistema eléctrico.\nRepresenta el límite superior de la reducción de carga que la empresa puede lograr mediante cortes de energía (apagones). Cuanto mayor sea la máxima capacidad apagable, mayor será el déficit de energía.\n¿Qué implica esto?\nSe identifica cuántos circuitos pueden ser apagados para equilibrar la carga del sistema, esto imposibilita realizar rotaciones, se encuentran afectados todos los circuitos apagables del territorio. Podrán presentarse afectaciones en el servicio de electricidad durante varias horas al día y el tiempo con servicio dependerá del comportamiento del SEN. Esta medida es \nnecesaria para evitar fallas mayores y proteger la infraestructura eléctrica.",
+    "timestamp": 1787959081,
+    "timestamp_local": 1787959081
+  },
+  {
+    "id": 21148,
+    "fecha": "28 de Aug del 2026 a las 04:30 PM",
+    "hora_utc": "2026-08-28 20:30",
+    "mensaje": "Se encuentra disparados los siguientes circuitos \nTK106 Palancón\nTK5 Los Pinos Buena Vista.",
+    "timestamp": 1787949005,
+    "timestamp_local": 1787949005
+  },
+  {
     "id": 21144,
     "fecha": "28 de Aug del 2026 a las 07:02 AM",
     "hora_utc": "2026-08-28 11:02",
@@ -62,45 +78,5 @@
     "mensaje": "✍️Ante cualquier duda conozca sobre la terminología eléctrica\n\n🔹Las averías pueden ser:\n\n➡️Primarias: Afecta un volumen grande de población pues son las líneas de distribución a 13.8 kV y puede afectar varias manzanas, incluso repartos completos.\n\n➡️Secundarias: Afecta a todos los clientes que se alimenten del mismo transformador, puede afectar una o varias cuadras.\n\n➡️De servicio: Afectan 1 solo cliente o instalación generalmente producto a daños en la acometida, metro contador, etc.).",
     "timestamp": 1787864551,
     "timestamp_local": 1787864551
-  },
-  {
-    "id": 21132,
-    "fecha": "27 de Aug del 2026 a las 04:27 PM",
-    "hora_utc": "2026-08-27 20:27",
-    "mensaje": "📣De la avería del circuito TK5 Buena Vista , Los Pinos quedan afectados a partir de la TD 650 desde Los Refugios hasta El Jiquí.",
-    "timestamp": 1787862472,
-    "timestamp_local": 1787862472
-  },
-  {
-    "id": 21131,
-    "fecha": "27 de Aug del 2026 a las 03:39 PM",
-    "hora_utc": "2026-08-27 19:39",
-    "mensaje": "‼️Nota Informativa \n👉Les comunicamos que debido a la salida imprevista de la CTE Lidio Ramón Pérez ( Felton) provocó una fuerte oscilación en la provincia y quedaron afectados la gran mayoría de los interruptores que brindan servicio eléctrico a los diferentes circuitos que se encontraban con servicio eléctrico \n\nEn dependencia del comportamiento del Sistema Electroenergético Nacional (SEN) se restablecerá el servicio eléctrico en la medida que sea posible.\nContinuamos Informando …..",
-    "timestamp": 1787859552,
-    "timestamp_local": 1787859552
-  },
-  {
-    "id": 21128,
-    "fecha": "27 de Aug del 2026 a las 02:48 PM",
-    "hora_utc": "2026-08-27 18:48",
-    "mensaje": "🔴Informamos a nuestros clientes:\nPor oscilaciones en la Red Nacional se encuentra abierto por emergencia la Provincia de Las Tunas.",
-    "timestamp": 1787856530,
-    "timestamp_local": 1787856530
-  },
-  {
-    "id": 21127,
-    "fecha": "27 de Aug del 2026 a las 01:08 PM",
-    "hora_utc": "2026-08-27 17:08",
-    "mensaje": "🛠Se declara en avería el circuito  TK5 Buena Vista, Los Pinos",
-    "timestamp": 1787850539,
-    "timestamp_local": 1787850539
-  },
-  {
-    "id": 21125,
-    "fecha": "27 de Aug del 2026 a las 12:07 PM",
-    "hora_utc": "2026-08-27 16:07",
-    "mensaje": "👉1. Si presenta o conoce alguna avería, haga su reporte al Centro de Atención Telefónico📲 mediante el 18888, estamos a su servicio.\n2. Conocer de forma exacta la dirección de su vivienda (número de casa, calle, entre calles, reparto, localidad)\n3. Ubicar un punto de referencia, que permita llegar hasta su vivienda con mayor rapidez (lugar o persona reconocida en la zona)\n\n4. En caso de un cable caído, aunque usted crea que no está energizado, NO\nLO TOQUE. Repórtelo y preserve el lugar, hasta que llegue el personal \nde la Empresa.\n5. Anote el número de su reporte para ser utilizado en caso de reclamaciones, o para comprobar el estado del mismo.\n6. Si usted tiene servicio eléctrico, pero existen variaciones del voltaje, desconecte los equipos, para que no se dañen.",
-    "timestamp": 1787846879,
-    "timestamp_local": 1787846879
   }
 ]
