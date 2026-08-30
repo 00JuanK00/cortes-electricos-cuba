@@ -1,130 +1,154 @@
 [
   {
+    "id": 120481,
+    "fecha": "30 de Aug del 2026 a las 07:49 PM",
+    "hora_utc": "2026-08-30 23:49",
+    "mensaje": "🚨Pasa a quedar afectado el servicio en el circuito Güines 2 por déficit de capacidad de generación🚨",
+    "timestamp": 1788133749,
+    "timestamp_local": 1788133749
+  },
+  {
+    "id": 120479,
+    "fecha": "30 de Aug del 2026 a las 07:36 PM",
+    "hora_utc": "2026-08-30 23:36",
+    "mensaje": "🚨Por déficit de capacidad de generación se afecta el servicio en los siguientes circuitos:\n*Madruga\n*Jaruco 2🚨",
+    "timestamp": 1788133013,
+    "timestamp_local": 1788133013
+  },
+  {
+    "id": 120478,
+    "fecha": "30 de Aug del 2026 a las 07:30 PM",
+    "hora_utc": "2026-08-30 23:30",
+    "mensaje": "🚨Por déficit de capacidad de generación se afecta el servicio en el siguiente circuito:\n*UNAH🚨",
+    "timestamp": 1788132636,
+    "timestamp_local": 1788132636
+  },
+  {
+    "id": 120477,
+    "fecha": "30 de Aug del 2026 a las 07:25 PM",
+    "hora_utc": "2026-08-30 23:25",
+    "mensaje": "🚨Por déficit de capacidad de generación se afecta el servicio en el siguiente circuito:\n*6 de San José🚨",
+    "timestamp": 1788132324,
+    "timestamp_local": 1788132324
+  },
+  {
+    "id": 120476,
+    "fecha": "30 de Aug del 2026 a las 07:10 PM",
+    "hora_utc": "2026-08-30 23:10",
+    "mensaje": "🔷Solucionada la avería en las siguientes zonas correspondientes al circuito Vedado:\n*Gamarra\n*Loma de Candela\n*Tierra Colorada\n*Loma de Cachimbo\n*Caserío 4\n*Zonas aledañas🔷",
+    "timestamp": 1788131418,
+    "timestamp_local": 1788131418
+  },
+  {
+    "id": 120475,
+    "fecha": "30 de Aug del 2026 a las 07:07 PM",
+    "hora_utc": "2026-08-30 23:07",
+    "mensaje": "🔷Culminada la manipulación en el circuito Vedado en su totalidad🔷",
+    "timestamp": 1788131270,
+    "timestamp_local": 1788131270
+  },
+  {
+    "id": 120474,
+    "fecha": "30 de Aug del 2026 a las 07:06 PM",
+    "hora_utc": "2026-08-30 23:06",
+    "mensaje": "🚨Por déficit de capacidad de generación se afecta el servicio en el siguiente circuito:\n*San Felipe🚨",
+    "timestamp": 1788131194,
+    "timestamp_local": 1788131194
+  },
+  {
+    "id": 120473,
+    "fecha": "30 de Aug del 2026 a las 06:53 PM",
+    "hora_utc": "2026-08-30 22:53",
+    "mensaje": "♦️ Informamos a los clientes del circuito 1790 que se encuentran afectados por disparo por DAF ♦️",
+    "timestamp": 1788130395,
+    "timestamp_local": 1788130395
+  },
+  {
+    "id": 120472,
+    "fecha": "30 de Aug del 2026 a las 06:53 PM",
+    "hora_utc": "2026-08-30 22:53",
+    "mensaje": "♦️ Informamos a los clientes del circuito 3140 que se encuentran afectados por disparo por DAF ♦️",
+    "timestamp": 1788130389,
+    "timestamp_local": 1788130389
+  },
+  {
+    "id": 120471,
+    "fecha": "30 de Aug del 2026 a las 06:52 PM",
+    "hora_utc": "2026-08-30 22:52",
+    "mensaje": "♦️ Informamos a los clientes del circuito Vedado en su totalidad que se encuentran afectados por manipulación♦️",
+    "timestamp": 1788130358,
+    "timestamp_local": 1788130358
+  },
+  {
+    "id": 120470,
+    "fecha": "30 de Aug del 2026 a las 06:20 PM",
+    "hora_utc": "2026-08-30 22:20",
+    "mensaje": "🚨Por déficit de capacidad de generación se afecta el servicio en el siguiente circuito:\n*2420🚨",
+    "timestamp": 1788128422,
+    "timestamp_local": 1788128422
+  },
+  {
+    "id": 120469,
+    "fecha": "30 de Aug del 2026 a las 06:16 PM",
+    "hora_utc": "2026-08-30 22:16",
+    "mensaje": "🚨Por déficit de capacidad de generación se afecta el servicio en el siguiente circuito:\n*Salud 1🚨",
+    "timestamp": 1788128164,
+    "timestamp_local": 1788128164
+  },
+  {
+    "id": 120468,
+    "fecha": "30 de Aug del 2026 a las 06:14 PM",
+    "hora_utc": "2026-08-30 22:14",
+    "mensaje": "♦️Informamos a los clientes del circuito Güines 2 que se encuentran afectados por posible avería♦️",
+    "timestamp": 1788128094,
+    "timestamp_local": 1788128094
+  },
+  {
+    "id": 120467,
+    "fecha": "30 de Aug del 2026 a las 06:13 PM",
+    "hora_utc": "2026-08-30 22:13",
+    "mensaje": "🔷Se normaliza el circuito Güines 3 que se encontraba afectado por disparo en las líneas🔷",
+    "timestamp": 1788128018,
+    "timestamp_local": 1788128018
+  },
+  {
+    "id": 120466,
+    "fecha": "30 de Aug del 2026 a las 06:08 PM",
+    "hora_utc": "2026-08-30 22:08",
+    "mensaje": "🔷Solucionada la avería en las siguientes zonas correspondientes al circuito UNAH:\n*Caserío Loma del cheche\n*Pozo #2 y 3 del INCA\n*Caserío San Rafael\n*Túneles 1, 3, 5 y 6\n*Zonas aledañas🔷",
+    "timestamp": 1788127696,
+    "timestamp_local": 1788127696
+  },
+  {
+    "id": 120465,
+    "fecha": "30 de Aug del 2026 a las 06:03 PM",
+    "hora_utc": "2026-08-30 22:03",
+    "mensaje": "🚨Por déficit de capacidad de generación se afecta el servicio en el siguiente circuito:\n*Bio 2🚨",
+    "timestamp": 1788127383,
+    "timestamp_local": 1788127383
+  },
+  {
+    "id": 120464,
+    "fecha": "30 de Aug del 2026 a las 06:01 PM",
+    "hora_utc": "2026-08-30 22:01",
+    "mensaje": "🚨| La Empresa Eléctrica Mayabeque informa que se presenta inconvenientes con el servidor de red, por tal motivo el número de base 1️⃣ 8️⃣8️⃣8️⃣8️⃣ se encuentra fuera de servicio.\n\n👉 Ante cualquier afectación en el servicio, debe comunicarse a través de nuestros números alternativos.",
+    "timestamp": 1788127262,
+    "timestamp_local": 1788127262
+  },
+  {
+    "id": 120463,
+    "fecha": "30 de Aug del 2026 a las 05:43 PM",
+    "hora_utc": "2026-08-30 21:43",
+    "mensaje": "♦️Informamos a los clientes del circuito Güines 2 que se encuentran afectados por disparo en las líneas♦️",
+    "timestamp": 1788126222,
+    "timestamp_local": 1788126222
+  },
+  {
     "id": 120462,
     "fecha": "30 de Aug del 2026 a las 05:39 PM",
     "hora_utc": "2026-08-30 21:39",
     "mensaje": "♦️Informamos a los clientes del circuito Güines 3 que se encuentran afectados por disparo en las líneas♦️",
     "timestamp": 1788125950,
     "timestamp_local": 1788125950
-  },
-  {
-    "id": 120461,
-    "fecha": "30 de Aug del 2026 a las 04:41 PM",
-    "hora_utc": "2026-08-30 20:41",
-    "mensaje": "♦️Informamos a los clientes del circuito Magela que se encuentran afectados por disparo en las líneas♦️",
-    "timestamp": 1788122493,
-    "timestamp_local": 1788122493
-  },
-  {
-    "id": 120460,
-    "fecha": "30 de Aug del 2026 a las 04:17 PM",
-    "hora_utc": "2026-08-30 20:17",
-    "mensaje": "♦️ Informamos a los clientes de las siguientes zonas que continúan afectados por avería:\n\n👉 Magela\n*Campamento El Palmar \n \n👉Vedado de Güines \n*Gamarra\n*Loma de candela\n*Tierra Colorada\n*Loma de Cachimbo\n*Caserío 4\n*Zonas aledañas\n\n👉UNAH\n*Caserío Loma del cheche\n*Pozo #2 y 3 del INCA\n*Caserío San Rafael\n*Túneles 1, 3, 5 y 6\n*Zonas aledañas\n\n👉Jaruco 2\n*Vaquería 12\n\n👉San Francisco \n*Batey peñas altas \n*Planta potabilizadora\n*Tumba 4 \n*Presa San Miguel \n*Finca Isabel \n*Finca Félix iglesias \n*Finca Quintín \n*Finca Castellanos \n*Zonas Aledañas♦️",
-    "timestamp": 1788121029,
-    "timestamp_local": 1788121029
-  },
-  {
-    "id": 120459,
-    "fecha": "30 de Aug del 2026 a las 04:16 PM",
-    "hora_utc": "2026-08-30 20:16",
-    "mensaje": "🔷Solucionada la avería en las siguientes zonas correspondientes al circuito Ganuza:\n*Valle Grande \n*Ravelo\n*Fábrica de pintura\n*Zonas Aledañas🔷",
-    "timestamp": 1788120984,
-    "timestamp_local": 1788120984
-  },
-  {
-    "id": 120458,
-    "fecha": "30 de Aug del 2026 a las 04:14 PM",
-    "hora_utc": "2026-08-30 20:14",
-    "mensaje": "🚨Por déficit de capacidad de generación se afecta el servicio en el siguiente circuito:\n*5 de San José🚨",
-    "timestamp": 1788120878,
-    "timestamp_local": 1788120878
-  },
-  {
-    "id": 120456,
-    "fecha": "30 de Aug del 2026 a las 03:50 PM",
-    "hora_utc": "2026-08-30 19:50",
-    "mensaje": "♦️ Informamos a los clientes del circuito 3665 que se encuentran afectados por disparo por DAF ♦️",
-    "timestamp": 1788119437,
-    "timestamp_local": 1788119437
-  },
-  {
-    "id": 120455,
-    "fecha": "30 de Aug del 2026 a las 03:49 PM",
-    "hora_utc": "2026-08-30 19:49",
-    "mensaje": "🚨Por déficit de capacidad de generación se afecta el servicio en el siguiente circuito:\n*Fénix🚨",
-    "timestamp": 1788119399,
-    "timestamp_local": 1788119399
-  },
-  {
-    "id": 120454,
-    "fecha": "30 de Aug del 2026 a las 03:49 PM",
-    "hora_utc": "2026-08-30 19:49",
-    "mensaje": "🚨Por déficit de capacidad de generación se afecta el servicio en el siguiente circuito:\n*Somorrostro🚨",
-    "timestamp": 1788119359,
-    "timestamp_local": 1788119359
-  },
-  {
-    "id": 120453,
-    "fecha": "30 de Aug del 2026 a las 03:42 PM",
-    "hora_utc": "2026-08-30 19:42",
-    "mensaje": "🔷Culminada la manipulación en el circuito 3590🔷",
-    "timestamp": 1788118924,
-    "timestamp_local": 1788118924
-  },
-  {
-    "id": 120452,
-    "fecha": "30 de Aug del 2026 a las 03:35 PM",
-    "hora_utc": "2026-08-30 19:35",
-    "mensaje": "🔷 Se normaliza el circuito 3665 que se encontraba afectado por disparo por DAF 🔷",
-    "timestamp": 1788118515,
-    "timestamp_local": 1788118515
-  },
-  {
-    "id": 120451,
-    "fecha": "30 de Aug del 2026 a las 03:28 PM",
-    "hora_utc": "2026-08-30 19:28",
-    "mensaje": "🚨Por déficit de capacidad de generación se afecta el servicio en los siguientes circuitos:\n*Nazareno\n*Babiney🚨",
-    "timestamp": 1788118138,
-    "timestamp_local": 1788118138
-  },
-  {
-    "id": 120450,
-    "fecha": "30 de Aug del 2026 a las 03:25 PM",
-    "hora_utc": "2026-08-30 19:25",
-    "mensaje": "♦️ Informamos a los clientes del circuito 3590 que se encuentran afectados por manipulación♦️",
-    "timestamp": 1788117944,
-    "timestamp_local": 1788117944
-  },
-  {
-    "id": 120449,
-    "fecha": "30 de Aug del 2026 a las 03:21 PM",
-    "hora_utc": "2026-08-30 19:21",
-    "mensaje": "🚨Por déficit de capacidad de generación se afecta el servicio en el siguiente circuito:\n*Camilo🚨",
-    "timestamp": 1788117693,
-    "timestamp_local": 1788117693
-  },
-  {
-    "id": 120448,
-    "fecha": "30 de Aug del 2026 a las 03:17 PM",
-    "hora_utc": "2026-08-30 19:17",
-    "mensaje": "🚨Por déficit de capacidad de generación se afecta el servicio en el siguiente circuito:\n*Río Seco 🚨",
-    "timestamp": 1788117479,
-    "timestamp_local": 1788117479
-  },
-  {
-    "id": 120447,
-    "fecha": "30 de Aug del 2026 a las 03:15 PM",
-    "hora_utc": "2026-08-30 19:15",
-    "mensaje": "♦️ Informamos a los clientes del circuito Vedado que continúan afectados por avería las siguientes zonas: \n*Gamarra\n*Loma de candela\n*Tierra Colorada\n*Loma de Cachimbo\n*Caserío 4\n*Zonas aledañas\n\nSe encuentra trabajando la brigada de la UEB del municipio Güines para solucionar la misma ♦️",
-    "timestamp": 1788117324,
-    "timestamp_local": 1788117324
-  },
-  {
-    "id": 120446,
-    "fecha": "30 de Aug del 2026 a las 03:11 PM",
-    "hora_utc": "2026-08-30 19:11",
-    "mensaje": "🚨Por déficit de capacidad de generación se afecta el servicio en los siguientes circuitos:\n*Catalina 1 y 2🚨",
-    "timestamp": 1788117090,
-    "timestamp_local": 1788117090
   }
 ]
