@@ -1,5 +1,21 @@
 [
   {
+    "id": 21181,
+    "fecha": "30 de Aug del 2026 a las 04:27 PM",
+    "hora_utc": "2026-08-30 20:27",
+    "mensaje": "Se encuentran afectados por Disparo Automático por Frecuencia (DAF) los circuito TK106 palancón, Alturas de Buena Vista. TK2 Bonachea",
+    "timestamp": 1788121666,
+    "timestamp_local": 1788121666
+  },
+  {
+    "id": 21180,
+    "fecha": "30 de Aug del 2026 a las 03:08 PM",
+    "hora_utc": "2026-08-30 19:08",
+    "mensaje": "⚠¿Por qué se puede estar manipulando un circuito?⚠\nSe manipulan los circuitos para garantizar los trabajos de mantenimientos en vías libres, o sea con la línea fría. Ante averías, se aísla la zona de la misma y se manipula para dar servicio al resto del circuito que no está dentro del radio de la avería antes mencionada. También ante desviaciones de parámetros en subestaciones o algún punto de las redes, con manipulaciones se pueden corregir y mantener la estabilidad del sistema.",
+    "timestamp": 1788116907,
+    "timestamp_local": 1788116907
+  },
+  {
     "id": 21177,
     "fecha": "30 de Aug del 2026 a las 07:09 AM",
     "hora_utc": "2026-08-30 11:09",
@@ -70,13 +86,5 @@
     "mensaje": "⚠️¡Cuidado con los Cables Eléctricos en el Piso! ⚠️\n\nLa seguridad es lo primero. Aquí te dejamos algunas recomendaciones para evitar accidentes:\n\n1. No toques cables en el piso: Si ves un cable suelto, no lo toques. Podría estar energizado y representar un riesgo de electrocución.\n2. Reporta inmediatamente: Si encuentras cables dañados o expuestos, informa al 18888.\n3.Mantén el área libre de obstáculos: Si trabajas en un lugar donde hay cables, asegúrate de que estén bien asegurados y no representen un peligro de tropiezo.\n4. Usa calzado adecuado: Si debes trabajar en un entorno con cables, asegúrate de usar calzado que ofrezca buena protección.\n\nTu seguridad es lo más importante. ¡Mantente alerta y cuida de ti y de los demás!",
     "timestamp": 1787994069,
     "timestamp_local": 1787994069
-  },
-  {
-    "id": 21159,
-    "fecha": "29 de Aug del 2026 a las 03:42 AM",
-    "hora_utc": "2026-08-29 07:42",
-    "mensaje": "📣La Empresa Eléctrica Las Tunas pone a disposición de sus clientes un Centro de Atención Telefónica con el objetivo de brindar asistencia y responder a sus inquietudes. Para asegurar un flujo eficiente de comunicación, el centro cuenta con 38 líneas de entrada, gestionadas por 6 operadores en cada turno de trabajo.\nCuando los 6 operadores se encuentran atendiendo llamadas simultáneamente, las siguientes 32 llamadas entrantes son colocadas en una cola de espera, donde una operadora automática les informa que serán atendidas a la brevedad, acompañando la espera con música. En esta situación, se requiere paciencia por parte del cliente hasta que un operador se desocupe y su llamada sea transferida automáticamente. Sin embargo, el sistema tiene un límite. A partir de la llamada número 39, todas las líneas de entrada estarán ocupadas, lo que resultará en una señal de \"ocupado\" para el cliente. En este caso, para lograr contactar al centro, el cliente deberá intentar la llamada nuevamente hasta que una línea quede disponible. La Empresa Eléctrica Las Tunas trabaja continuamente para optimizar este servicio y agradece su comprensión.",
-    "timestamp": 1787989323,
-    "timestamp_local": 1787989323
   }
 ]
