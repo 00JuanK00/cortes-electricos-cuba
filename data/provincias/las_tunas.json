@@ -1,5 +1,29 @@
 [
   {
+    "id": 21216,
+    "fecha": "01 de Sep del 2026 a las 06:56 PM",
+    "hora_utc": "2026-09-01 22:56",
+    "mensaje": "📣 Actualización del Sistema Electroenergético\nDebido al significativo déficit energético que enfrenta nuestro país y la disponibilidad limitada del Sistema Eléctrico Nacional(SEN)en comparación con la demanda actual, lamentamos no poder proporcionar una programación detallada de las afectaciones en el suministro eléctrico. Agradecemos su compresión y ofrecemos nuestras más sinceras disculpas por las molestias que esto pueda causarles",
+    "timestamp": 1788303378,
+    "timestamp_local": 1788303378
+  },
+  {
+    "id": 21215,
+    "fecha": "01 de Sep del 2026 a las 06:54 PM",
+    "hora_utc": "2026-09-01 22:54",
+    "mensaje": "🌈⚡️ ACTUALIZACIÓN DE LAS UNIDADES DEL SEN ⚡️🌈\n━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\n\n🔴❌ EN AVERÍA — 7 UNIDADES ❌🔴\n\n🔻 🏭 Unidad 8 de Mariel — 0 MW\n🔻 🏭 Unidad 5 de Mariel — 0 MW\n🔻 🏭 Unidad 6 de Mariel — 0 MW\n🔻 🏭 Unidad 2 de Santa Cruz — 0 MW\n🔻 🏭 Unidad 4 de Cienfuegos — 0 MW\n🔻 🏭 Unidad 2 de Felton — 0 MW\n🔻 🏭 Unidad 6 de Renté — 0 MW\n\n━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\n\n🟠🧑‍🔧 EN MANTENIMIENTO — 3 UNIDADES 🧑‍🔧🟠\n\n🔧 🏭 Unidad 3 de Santa Cruz — 0 MW\n🔧 🏭 Unidad 5 de Nuevitas — 0 MW\n🔧 🏭 Unidad 5 de Renté — 0 MW\n\n━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\n\n🟢⚡️ UNIDADES EN LÍNEA — 6 UNIDADES ⚡️🟢\n\n🟢 🏭 Unidad 1 de Santa Cruz — 65 MW\n🟢 🏭 Unidad 3 de Cienfuegos — 145 MW\n🟢 🏭 Antonio Guiteras — 190 MW\n🟢 🏭 Unidad 1 de Felton — 170 MW\n🟢 🏭 Unidad 3 de Renté — 45 MW\n🟢 🏭 Unidad 6 de Nuevitas — 80 MW\n\n━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\n\n🔥⚡️ GENERACIÓN TÉRMICA ⚡️🔥\n\n🟦 ≈ 695 MW\n\n━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\n\n📊 RESUMEN DEL SEN 📊\n\n⚠️ 16 unidades\n🔴 Avería: 7\n🟠 Mantenimiento: 3\n🟢 En línea: 6\n⚡️ Caída del SEN: 0\n\n━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\n\n🚨⚠️ AVISO IMPORTANTE ⚠️🚨\n\n📌 Las cargas de las unidades corresponden a las últimas informaciones proporcionadas por la UNE.\n\n📌 En otras unidades, la carga indicada es estimada y puede variar en dependencia de la disponibilidad del SEN.\n\n🔵⚡️ SITUACIÓN DEL SEN — ACTUALIZADA ⚡️🔵",
+    "timestamp": 1788303276,
+    "timestamp_local": 1788303276
+  },
+  {
+    "id": 21214,
+    "fecha": "01 de Sep del 2026 a las 05:46 PM",
+    "hora_utc": "2026-09-01 21:46",
+    "mensaje": "🔔Al cierre de las 17:40 horas pm del día 01/09/2026 nuestro sistema registra un total de 560 interrupciones.\n\n♦️Interrupciones pendientes: \n-Amancio:47\n-Jobabo:45\n-Colombia:22\n-Puerto Padre:115\n-Menéndez:4\n-Manatí:4\n-Majibacoa:12\n-Las Tunas:311\n\n♦️Interrupciones pendientes a solución:\n-Amancio:6\n-Jobabo:4\n-Colombia:6\n-Puerto Padre:27\n-Menéndez:11\n-Manatí: -\n-Majibacoa:7\n-Las Tunas:73\n-Para un total de 133 quejas pendientes por solución :\n🔔Se registran un total de 78 transformadores dañados, de ellos 49 residenciales y 29 estatales.",
+    "timestamp": 1788299163,
+    "timestamp_local": 1788299163
+  },
+  {
     "id": 21212,
     "fecha": "01 de Sep del 2026 a las 04:48 PM",
     "hora_utc": "2026-09-01 20:48",
@@ -102,21 +126,5 @@
     "mensaje": "⚡️ Se afecta el servicio eléctrico por disparo automático por frecuencia (DAF)el siguiente circuito.\nTK18 Las 40, Sosa",
     "timestamp": 1788197560,
     "timestamp_local": 1788197560
-  },
-  {
-    "id": 21195,
-    "fecha": "31 de Aug del 2026 a las 01:20 PM",
-    "hora_utc": "2026-08-31 17:20",
-    "mensaje": "Qué es un disparo por DAF?\nEl Disparo por Frecuencia (DAF) es un mecanismo de protección del sistema eléctrico. Se activa automáticamente cuando la frecuencia desciende por debajo de los valores mínimos seguros (menores de 60 Hz), lo que pone en riesgo la estabilidad del sistema.\nEn ese momento, algunos circuitos se desconectan de forma automática para aliviar la carga y permitir que la frecuencia vuelva a su valor nominal.\nEsto suele ocurrir cuando una planta generadora sale de servicio de manera imprevista, provocando un déficit de generación. El DAF ayuda a evitar un colapso mayor del sistema, aunque puede generar afectaciones al servicio como apagones parciales.",
-    "timestamp": 1788196801,
-    "timestamp_local": 1788196801
-  },
-  {
-    "id": 21194,
-    "fecha": "31 de Aug del 2026 a las 01:19 PM",
-    "hora_utc": "2026-08-31 17:19",
-    "mensaje": "⚡️ Se afecta el servicio eléctrico por disparo automático por frecuencia (DAF)los siguientes circuitos \nTK5 Buena Vista, Los Pinos\nTK106 Palancón, Buena Vista",
-    "timestamp": 1788196780,
-    "timestamp_local": 1788196780
   }
 ]
