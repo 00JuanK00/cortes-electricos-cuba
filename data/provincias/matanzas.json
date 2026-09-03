@@ -1,5 +1,37 @@
 [
   {
+    "id": 38485,
+    "fecha": "03 de Sep del 2026 a las 10:31 AM",
+    "hora_utc": "2026-09-03 14:31",
+    "mensaje": "CON SERVICIO\n\nCIRCUIITO 5170 Varadero 110kV",
+    "timestamp": 1788445865,
+    "timestamp_local": 1788445865
+  },
+  {
+    "id": 38484,
+    "fecha": "03 de Sep del 2026 a las 10:28 AM",
+    "hora_utc": "2026-09-03 14:28",
+    "mensaje": "CON SERVICIO\n\n🔌 Circuito 4940 Colón circuito 11 desde calle Martorell hasta reparto 14 festival y desde calle América hasta Batey Por fuerza.",
+    "timestamp": 1788445713,
+    "timestamp_local": 1788445713
+  },
+  {
+    "id": 38483,
+    "fecha": "03 de Sep del 2026 a las 09:01 AM",
+    "hora_utc": "2026-09-03 13:01",
+    "mensaje": "Actualización del Sistema Electroenergético Nacional para el 3 de septiembre de 2026.\n\n👉 En el día de ayer se afectó el servicio por déficit de capacidad durante las 24 horas y se mantuvo la afectación durante todo el horario de la madrugada. La máxima afectación por déficit de capacidad de generación en el día de ayer fue de 2310          MW a las 20:10 horas.\n\n☀️ La producción energías de los parques solares fotovoltaicos fue de 3219 MWh, con 500 MW como máxima potencia entregada en el horario de la media con esta fuente de generación.  \n\n👉 La disponibilidad del SEN a las 06:00 horas es de 990 MW, la demanda 2830 MW con 1855 MW afectados. En el horario de la media se estima una afectación de 1700 MW.\n\n🛠️ Se encuentran en avería las unidades 5 y 6 de la CTE Mariel, la unidad 2 de la CTE Santa Cruz, la unidad 4 de la CTE Cienfuegos, la unidad 6 de la CTE Rente y la unidad 2 de la CTE Felton. Se encuentran en mantenimiento la unidad 3 de la CTE Santa Cruz, la unidad 5 de la CTE Nuevitas y la unidad 5 de la CTE Renté. \n \n📈 Las limitaciones en la generación térmica son de 450 MW.\n\n📝 Se pronostica que para el horario de máxima demanda se estima una disponibilidad de 990 MW con una demanda máxima de 3250 MW, para un déficit de 2060 MW, por lo que de mantenerse las condiciones previstas se pronostica una afectación de 2090 MW en este horario.",
+    "timestamp": 1788440492,
+    "timestamp_local": 1788440492
+  },
+  {
+    "id": 38482,
+    "fecha": "03 de Sep del 2026 a las 08:05 AM",
+    "hora_utc": "2026-09-03 12:05",
+    "mensaje": "QUEJAS PENDIENTES EN EL DÍA\n🔔Al cierre de las 7:31am del día 3 de septiembre se encuentran 637 quejas pendientes en2 el sistema. \n\nEl desglose por municipio es el siguiente: \n🔸Betancourt:  14\n🔸Calimete: 8\n🔸Cárdenas:  28\n🔸Ciénaga de Zapata:  1\n🔸Colón:  41\n🔸Jaguey:   45\n🔸Jovellanos:  67\n🔸Limonar: 14\n🔸Los Arabos: 18\n🔸Martí:   6\n🔸Matanzas:  347\n🔸Perico:  24\n🔸Unión: 9\n🔸Varadero: 15\n\nNuestros Linieros ⚡️👷 continúan trabajando para restablecer el servicio a todos los clientes con quejas pendientes.‼️",
+    "timestamp": 1788437129,
+    "timestamp_local": 1788437129
+  },
+  {
     "id": 38481,
     "fecha": "03 de Sep del 2026 a las 06:55 AM",
     "hora_utc": "2026-09-03 10:55",
@@ -126,37 +158,5 @@
     "mensaje": "Déficit de capacidad de generación en la provincia: * 187 MW",
     "timestamp": 1788393764,
     "timestamp_local": 1788393764
-  },
-  {
-    "id": 38465,
-    "fecha": "02 de Sep del 2026 a las 07:04 PM",
-    "hora_utc": "2026-09-02 23:04",
-    "mensaje": "CON SERVICIO✅\n-Circuito MI5670 que da servicio a Manuelito, Bolondrón, Unión de Reyes, Cabezas, Bermejas y Alacranes.\n- Circuito GI41 que da servicio a Australia.\n - Circuito GI51que da servicio a Villa Playa Girón. \n -Circuito GI55 que da servicio a Playa Girón.\n- Circuito GI69 que da servicio a Playa Larga.\n- Circuito GI73 que da servicio a Guamá.\n- Circuito 4220 Cárdenas, San Miguel.",
-    "timestamp": 1788390275,
-    "timestamp_local": 1788390275
-  },
-  {
-    "id": 38464,
-    "fecha": "02 de Sep del 2026 a las 06:30 PM",
-    "hora_utc": "2026-09-02 22:30",
-    "mensaje": "⚡ Déficit de capacidad de generación en la provincia: * 186 MW .",
-    "timestamp": 1788388229,
-    "timestamp_local": 1788388229
-  },
-  {
-    "id": 38463,
-    "fecha": "02 de Sep del 2026 a las 05:33 PM",
-    "hora_utc": "2026-09-02 21:33",
-    "mensaje": "Presentamos 179 MW de afectación en la provincia por déficit de capacidad de generación .",
-    "timestamp": 1788384820,
-    "timestamp_local": 1788384820
-  },
-  {
-    "id": 38462,
-    "fecha": "02 de Sep del 2026 a las 04:50 PM",
-    "hora_utc": "2026-09-02 20:50",
-    "mensaje": "‼En este momento tenemos afectados por déficit de capacidad de generación 176 MW‼",
-    "timestamp": 1788382224,
-    "timestamp_local": 1788382224
   }
 ]
