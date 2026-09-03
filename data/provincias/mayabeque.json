@@ -1,9 +1,41 @@
 [
   {
+    "id": 120730,
+    "fecha": "03 de Sep del 2026 a las 07:08 AM",
+    "hora_utc": "2026-09-03 11:08",
+    "mensaje": "🚨Por déficit de capacidad de generación se afecta el servicio en el siguiente circuito:\n*Melena 1🚨",
+    "timestamp": 1788433704,
+    "timestamp_local": 1788433704
+  },
+  {
+    "id": 120729,
+    "fecha": "03 de Sep del 2026 a las 07:05 AM",
+    "hora_utc": "2026-09-03 11:05",
+    "mensaje": "♦️ Informamos a los clientes de las siguientes zonas  que continúan afectados por avería:\n\n👉 Magela\n*Campamento El Palmar \n\n👉 Concuní\n*Los Cuabales y zonas aledañas \n\n👉Sureste\n\n👉Vedado\n* Vaquería 095\n* Rinconada ♦️",
+    "timestamp": 1788433557,
+    "timestamp_local": 1788433557
+  },
+  {
+    "id": 120728,
+    "fecha": "03 de Sep del 2026 a las 07:04 AM",
+    "hora_utc": "2026-09-03 11:04",
+    "mensaje": "🚨| La Empresa Eléctrica Mayabeque informa que se presenta inconvenientes con el servidor de red, por tal motivo el número de base 1️⃣ 8️⃣8️⃣8️⃣8️⃣ se encuentra fuera de servicio.\n\n👉 Ante cualquier afectación en el servicio, debe comunicarse a través de nuestros números alternativos.",
+    "timestamp": 1788433462,
+    "timestamp_local": 1788433462
+  },
+  {
+    "id": 120727,
+    "fecha": "03 de Sep del 2026 a las 07:02 AM",
+    "hora_utc": "2026-09-03 11:02",
+    "mensaje": "🚨Por déficit de capacidad de generación se afecta el servicio en el siguiente circuito:\n*Magela🚨",
+    "timestamp": 1788433349,
+    "timestamp_local": 1788433349
+  },
+  {
     "id": 120726,
     "fecha": "03 de Sep del 2026 a las 02:26 AM",
     "hora_utc": "2026-09-03 06:26",
-    "mensaje": "🚨Por déficit de capacidad de generación se afecta el servicio en el siguiente circuito:\n*Aguacate🚨",
+    "mensaje": "🚨Por déficit de capacidad de generación se afecta el servicio en los siguientes circuitos:\n* Aguacate\n* Vegas \n* Nueva Paz 2\n* Palomo\n* San Nicolás 1 🚨",
     "timestamp": 1788416760,
     "timestamp_local": 1788416760
   },
@@ -110,29 +142,5 @@
     "mensaje": "🔷 Se normaliza el circuito 3140 que se encontraba afectado por disparo por DAF 🔷",
     "timestamp": 1788385161,
     "timestamp_local": 1788385161
-  },
-  {
-    "id": 120710,
-    "fecha": "02 de Sep del 2026 a las 05:38 PM",
-    "hora_utc": "2026-09-02 21:38",
-    "mensaje": "🔷 Se normaliza el circuito 3130 que se encontraba afectado por disparo en las líneas 🔷",
-    "timestamp": 1788385136,
-    "timestamp_local": 1788385136
-  },
-  {
-    "id": 120709,
-    "fecha": "02 de Sep del 2026 a las 05:17 PM",
-    "hora_utc": "2026-09-02 21:17",
-    "mensaje": "♦️ Informamos a los clientes de las siguientes zonas que continúan afectados por avería:\n\n👉 Magela\n*Campamento El Palmar \n\n👉 Concuní\n*Los Cuabales y zonas aledañas ♦️",
-    "timestamp": 1788383859,
-    "timestamp_local": 1788383859
-  },
-  {
-    "id": 120707,
-    "fecha": "02 de Sep del 2026 a las 05:05 PM",
-    "hora_utc": "2026-09-02 21:05",
-    "mensaje": "🔷 Solucionada la avería en los siguientes circuitos:\n* Somorrostro\n* Liberación 🔷",
-    "timestamp": 1788383115,
-    "timestamp_local": 1788383115
   }
 ]
