@@ -1,5 +1,29 @@
 [
   {
+    "id": 21271,
+    "fecha": "04 de Sep del 2026 a las 01:20 PM",
+    "hora_utc": "2026-09-04 17:20",
+    "mensaje": "📣La Empresa Eléctrica Las Tunas pone a disposición de sus clientes un Centro de Atención Telefónica con el objetivo de brindar asistencia y responder a sus inquietudes. Para asegurar un flujo eficiente de comunicación, el centro cuenta con 38 líneas de entrada, gestionadas por 6 operadores en cada turno de trabajo.\nCuando los 6 operadores se encuentran atendiendo llamadas simultáneamente, las siguientes 32 llamadas entrantes son colocadas en una cola de espera, donde una operadora automática les informa que serán atendidas a la brevedad, acompañando la espera con música. En esta situación, se requiere paciencia por parte del cliente hasta que un operador se desocupe y su llamada sea transferida automáticamente. Sin embargo, el sistema tiene un límite. A partir de la llamada número 39, todas las líneas de entrada estarán ocupadas, lo que resultará en una señal de \"ocupado\" para el cliente. En este caso, para lograr contactar al centro, el cliente deberá intentar la llamada nuevamente hasta que una línea quede disponible. La Empresa Eléctrica Las Tunas trabaja continuamente para optimizar este servicio y agradece su comprensión.",
+    "timestamp": 1788542419,
+    "timestamp_local": 1788542419
+  },
+  {
+    "id": 21270,
+    "fecha": "04 de Sep del 2026 a las 11:33 AM",
+    "hora_utc": "2026-09-04 15:33",
+    "mensaje": "🛠Se declara en avería el circuito Circuito 33 Kv: 6100**\n**TK35 Puerto Manatí\nTK36 El Raúl\nTK22 Aeropuerto\nTK23 Veguita\nTK32 Fleytas\nTK30 Meriño",
+    "timestamp": 1788535997,
+    "timestamp_local": 1788535997
+  },
+  {
+    "id": 21269,
+    "fecha": "04 de Sep del 2026 a las 11:24 AM",
+    "hora_utc": "2026-09-04 15:24",
+    "mensaje": "📣 Actualización del Sistema Electroenergético\nDebido al significativo déficit energético que enfrenta nuestro país y la disponibilidad limitada del Sistema Eléctrico Nacional(SEN)en comparación con la demanda actual, lamentamos no poder proporcionar una programación detallada de las afectaciones en el suministro eléctrico. Agradecemos su compresión y ofrecemos nuestras más sinceras disculpas por las molestias que esto pueda causarles",
+    "timestamp": 1788535448,
+    "timestamp_local": 1788535448
+  },
+  {
     "id": 21266,
     "fecha": "04 de Sep del 2026 a las 07:44 AM",
     "hora_utc": "2026-09-04 11:44",
@@ -86,21 +110,5 @@
     "mensaje": "🟢 Se afecta el circuito de 33Kv6300 Jobabo por emergencia.",
     "timestamp": 1788448356,
     "timestamp_local": 1788448356
-  },
-  {
-    "id": 21249,
-    "fecha": "03 de Sep del 2026 a las 10:32 AM",
-    "hora_utc": "2026-09-03 14:32",
-    "mensaje": "📌 Estimados clientes 📌\n\n〽️El Sistema Electroenergético Nacional (SEN) tiene varios regímenes de operación, esto es fundamentalmente porque las cargas de los circuitos son variables, con sus características específicas y sus actividades propias, tanto estatales como de los demás sectores de la sociedad.\n\n💡Durante el día se le llama “media”, al pico “máxima” y en la madrugada “mínima”. \n\n📊El déficit de capacidad de generación (apagón) puede variar sus cifras: los mayores valores son en el pico, los menores en la madrugada y en el día se comportan entre el máximo y el mínimo.\n\n✅Como resultado, con una cantidad de circuitos afectados, puede modificarse el déficit, con los mismos circuitos sin servicio eléctrico.",
-    "timestamp": 1788445968,
-    "timestamp_local": 1788445968
-  },
-  {
-    "id": 21248,
-    "fecha": "03 de Sep del 2026 a las 09:01 AM",
-    "hora_utc": "2026-09-03 13:01",
-    "mensaje": "🚨Nota informativa🚨\n\n📅Situación del SEN para el 03 de septiembre de 2026.\n\n👉En el día de ayer se afectó el servicio por déficit de capacidad durante las 24 horas y se mantuvo la afectación durante todo el horario de la madrugada. La máxima afectación por déficit de capacidad de generación en el día de ayer fue de 2310  MW a las 20:10 horas.\n\n☀️La producción energías de los parques solares fotovoltaicos fue de 3219 MWh, con 500 MW como máxima potencia entregada en el horario de la media con esta fuente de generación.\n\n👉La disponibilidad del SEN a las 06:00 horas es de 990 MW, la demanda 2830 MW con 1855 MW afectados. En el horario de la media se estima una afectación de 1700 MW.\n\n🛠Se encuentran en avería las unidades 5 y 6 de la CTE Mariel, la unidad 2 de la CTE Santa Cruz, la unidad 4 de la CTE Cienfuegos, la unidad 6 de la CTE Rente y la unidad 2 de la CTE Felton. Se encuentran en mantenimiento la unidad 3 de la CTE Santa Cruz, la unidad 5 de la CTE Nuevitas y la unidad 5 de la CTE Renté.\n\n📈Las limitaciones en la generación térmica son de 450 MW.\n\n📝Se pronostica que para el horario de máxima demanda se estima una disponibilidad de 990 MW con una demanda máxima de 3250 MW, para un déficit de 2060 MW, por lo que de mantenerse las condiciones previstas se pronostica una afectación de 2090 MW en este horario.\n\nUNE-MINEM---07:00 horas.",
-    "timestamp": 1788440493,
-    "timestamp_local": 1788440493
   }
 ]
