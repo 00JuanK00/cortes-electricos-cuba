@@ -1,5 +1,53 @@
 [
   {
+    "id": 120896,
+    "fecha": "05 de Sep del 2026 a las 02:02 PM",
+    "hora_utc": "2026-09-05 18:02",
+    "mensaje": "🚨Por déficit de capacidad de generación se afecta el servicio en el siguiente circuito:\n*Somorrostro 🚨",
+    "timestamp": 1788631337,
+    "timestamp_local": 1788631337
+  },
+  {
+    "id": 120895,
+    "fecha": "05 de Sep del 2026 a las 01:38 PM",
+    "hora_utc": "2026-09-05 17:38",
+    "mensaje": "🚨Por déficit de capacidad de generación se afecta el servicio en el siguiente circuito:\n*UNAH 🚨",
+    "timestamp": 1788629890,
+    "timestamp_local": 1788629890
+  },
+  {
+    "id": 120894,
+    "fecha": "05 de Sep del 2026 a las 01:06 PM",
+    "hora_utc": "2026-09-05 17:06",
+    "mensaje": "🚨Por déficit de capacidad de generación se afecta el servicio en el siguiente circuito:\n*Aguacate 🚨",
+    "timestamp": 1788628018,
+    "timestamp_local": 1788628018
+  },
+  {
+    "id": 120893,
+    "fecha": "05 de Sep del 2026 a las 01:05 PM",
+    "hora_utc": "2026-09-05 17:05",
+    "mensaje": "♦️ Informamos a los clientes del circuito 1790 que se encuentran afectados por DAF ♦️",
+    "timestamp": 1788627951,
+    "timestamp_local": 1788627951
+  },
+  {
+    "id": 120892,
+    "fecha": "05 de Sep del 2026 a las 01:05 PM",
+    "hora_utc": "2026-09-05 17:05",
+    "mensaje": "🚨Por déficit de capacidad de generación se afecta el servicio en los siguientes circuitos:\n*La Salud 1\n*Bío -1 🚨",
+    "timestamp": 1788627910,
+    "timestamp_local": 1788627910
+  },
+  {
+    "id": 120891,
+    "fecha": "05 de Sep del 2026 a las 12:28 PM",
+    "hora_utc": "2026-09-05 16:28",
+    "mensaje": "🚨Por déficit de capacidad de generación se afecta el servicio en el siguiente circuito:\n*Güines 4 🚨",
+    "timestamp": 1788625688,
+    "timestamp_local": 1788625688
+  },
+  {
     "id": 120890,
     "fecha": "05 de Sep del 2026 a las 12:12 PM",
     "hora_utc": "2026-09-05 16:12",
@@ -94,53 +142,5 @@
     "mensaje": "⚡ Actualización del Sistema Electroenergético Nacional para el 5 de septiembre de 2026.\n\nEn el día de ayer se afectó el servicio por déficit de capacidad durante las 24 horas y se mantuvo la afectación durante todo el horario de la madrugada. La máxima afectación por déficit de capacidad de generación en el día de ayer fue de 2272 MW a las 21:00 horas.\n\nLa producción energías de los parques solares fotovoltaicos fue de 4221 MWh, con 657 MW como máxima potencia entregada en el horario de la media con esta fuente de generación.  \n\nLa disponibilidad del SEN a las 06:00 horas es de 1000 MW, la demanda 2890 MW con 1915 MW afectados. En el horario de la media se estima una afectación de 1950 MW.\n\nSe encuentran en avería las unidades 5 y 6 de la CTE Mariel, la unidad 2 de la CTE Santa Cruz, la unidad 4 de la CTE Cienfuegos, la unidad 2 de la CTE Felton y la unidad 6 de la CTE Rente. Se encuentran en mantenimiento la unidad 3 de la CTE Santa Cruz, la unidad 5 de la CTE Nuevitas y la unidad 5 de la CTE Renté. \n \nLas limitaciones en la generación térmica son de 402 MW.\n\nCon este pronóstico se prevé para el horario de máxima demanda una disponibilidad de 1000 MW con una demanda máxima de 3250 MW, para un déficit de 2250 MW, por lo que de mantenerse las condiciones previstas se pronostica una afectación de 2280 MW en este horario.",
     "timestamp": 1788610810,
     "timestamp_local": 1788610810
-  },
-  {
-    "id": 120875,
-    "fecha": "05 de Sep del 2026 a las 08:04 AM",
-    "hora_utc": "2026-09-05 12:04",
-    "mensaje": "🔷 Normalizado el servicio en el 1790 🔷",
-    "timestamp": 1788609847,
-    "timestamp_local": 1788609847
-  },
-  {
-    "id": 120874,
-    "fecha": "05 de Sep del 2026 a las 07:11 AM",
-    "hora_utc": "2026-09-05 11:11",
-    "mensaje": "♦️ Informamos a los clientes del circuito 1790 que se encuentran afectados por DAF ♦️",
-    "timestamp": 1788606718,
-    "timestamp_local": 1788606718
-  },
-  {
-    "id": 120873,
-    "fecha": "05 de Sep del 2026 a las 06:48 AM",
-    "hora_utc": "2026-09-05 10:48",
-    "mensaje": "🚨Por déficit de capacidad de generación se afecta el servicio en el siguiente circuito:\n*Jaruco 1🚨",
-    "timestamp": 1788605292,
-    "timestamp_local": 1788605292
-  },
-  {
-    "id": 120872,
-    "fecha": "05 de Sep del 2026 a las 06:44 AM",
-    "hora_utc": "2026-09-05 10:44",
-    "mensaje": "🚨Por déficit de capacidad de generación se afecta el servicio en el siguiente circuito:\n*8 de San José 🚨",
-    "timestamp": 1788605045,
-    "timestamp_local": 1788605045
-  },
-  {
-    "id": 120871,
-    "fecha": "05 de Sep del 2026 a las 05:56 AM",
-    "hora_utc": "2026-09-05 09:56",
-    "mensaje": "🚨Por déficit de capacidad de generación se afecta el servicio en el siguiente circuito:\n*5 de San José 🚨",
-    "timestamp": 1788602197,
-    "timestamp_local": 1788602197
-  },
-  {
-    "id": 120870,
-    "fecha": "05 de Sep del 2026 a las 03:48 AM",
-    "hora_utc": "2026-09-05 07:48",
-    "mensaje": "🚨Por déficit de capacidad de generación se afecta el servicio en el siguiente circuito:\n*Melena 2 🚨",
-    "timestamp": 1788594532,
-    "timestamp_local": 1788594532
   }
 ]
