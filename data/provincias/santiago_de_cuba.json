@@ -1,9 +1,25 @@
 [
   {
+    "id": 57840,
+    "fecha": "06 de Sep del 2026 a las 07:01 AM",
+    "hora_utc": "2026-09-06 11:01",
+    "mensaje": "🛑Estimados clientes en estos momentos se encuentra  afectado  por Déficit de Capacidad de Generación el circuito 1 , disculpen por las molestias ocasionadas.",
+    "timestamp": 1788692470,
+    "timestamp_local": 1788692470
+  },
+  {
+    "id": 57839,
+    "fecha": "06 de Sep del 2026 a las 05:54 AM",
+    "hora_utc": "2026-09-06 09:54",
+    "mensaje": "🔉Estimados clientes en estos momentos se encuentra disparada la Línea 5380-Mella , disculpen por las molestias ocasionadas.",
+    "timestamp": 1788688440,
+    "timestamp_local": 1788688440
+  },
+  {
     "id": 57837,
     "fecha": "06 de Sep del 2026 a las 05:29 AM",
     "hora_utc": "2026-09-06 09:29",
-    "mensaje": "🛑Estimados clientes en estos momentos se encuentran afectados por Déficit de Capacidad de Generación  el circuito 19 , disculpen por las molestias ocasionadas.",
+    "mensaje": "🛑Estimados clientes en estos momentos se encuentran afectados por Déficit de Capacidad de Generación  el circuito 17 , 19 , disculpen por las molestias ocasionadas.",
     "timestamp": 1788686955,
     "timestamp_local": 1788686955
   },
@@ -126,21 +142,5 @@
     "mensaje": "🟢Se incorporan a la afectación por Déficit  el circuito 16 y la Línea 5385-San Luis.",
     "timestamp": 1788633293,
     "timestamp_local": 1788633293
-  },
-  {
-    "id": 57820,
-    "fecha": "05 de Sep del 2026 a las 01:09 PM",
-    "hora_utc": "2026-09-05 17:09",
-    "mensaje": "🟡Se incorpora a la afectación por Déficit de Capacidad de Generación el circuito 8 .",
-    "timestamp": 1788628147,
-    "timestamp_local": 1788628147
-  },
-  {
-    "id": 57819,
-    "fecha": "05 de Sep del 2026 a las 12:44 PM",
-    "hora_utc": "2026-09-05 16:44",
-    "mensaje": "🟡Se incorpora a la afectación por Déficit de Capacidad de Generación circuito 15 .",
-    "timestamp": 1788626690,
-    "timestamp_local": 1788626690
   }
 ]
