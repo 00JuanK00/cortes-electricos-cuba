@@ -1,5 +1,77 @@
 [
   {
+    "id": 56026,
+    "fecha": "05 de Sep del 2026 a las 08:09 PM",
+    "hora_utc": "2026-09-06 00:09",
+    "mensaje": "Actualización del servicio eléctrico en la provincia.\n👉En este momento la afectación por déficit de capacidad de generación es de 205 MW, demanda máxima posible a apagar en estos momentos.\n👉De los circuitos apagables se mantienen afectados 131.\n👉Cuenta con 484afectaciones por averías secundarias y de servicio.",
+    "timestamp": 1788653397,
+    "timestamp_local": 1788653397
+  },
+  {
+    "id": 56025,
+    "fecha": "05 de Sep del 2026 a las 08:07 PM",
+    "hora_utc": "2026-09-06 00:07",
+    "mensaje": "⚠️Afectado el servicio eléctrico en el siguiente circuito:\n🔹Municipio Santa Clara:\n👉Cto 13 Zona Industrial",
+    "timestamp": 1788653267,
+    "timestamp_local": 1788653267
+  },
+  {
+    "id": 56024,
+    "fecha": "05 de Sep del 2026 a las 07:59 PM",
+    "hora_utc": "2026-09-05 23:59",
+    "mensaje": "💡Con servicio eléctrico en el siguiente circuito:\n🔹Municipio Santa Clara:\n👉Cto 168 Condado\n👉Cto 28 Monumento Che",
+    "timestamp": 1788652781,
+    "timestamp_local": 1788652781
+  },
+  {
+    "id": 56023,
+    "fecha": "05 de Sep del 2026 a las 07:34 PM",
+    "hora_utc": "2026-09-05 23:34",
+    "mensaje": "⚠️Afectado el servicio eléctrico en el siguiente circuito:\n🔹Municipio Santa Clara:\n👉Cto 4 Consejo Centro",
+    "timestamp": 1788651260,
+    "timestamp_local": 1788651260
+  },
+  {
+    "id": 56022,
+    "fecha": "05 de Sep del 2026 a las 07:14 PM",
+    "hora_utc": "2026-09-05 23:14",
+    "mensaje": "💡Con servicio eléctrico el siguiente circuito:\n🔹Municipio Santa Clara:\n👉Cto 132 Santa Clara Industrial",
+    "timestamp": 1788650078,
+    "timestamp_local": 1788650078
+  },
+  {
+    "id": 56021,
+    "fecha": "05 de Sep del 2026 a las 07:14 PM",
+    "hora_utc": "2026-09-05 23:14",
+    "mensaje": "⚠️Afectado el servicio eléctrico en el siguiente circuito:\n🔹Municipio Santa Clara:\n👉Cto 162 Santa Clara Industrial",
+    "timestamp": 1788650045,
+    "timestamp_local": 1788650045
+  },
+  {
+    "id": 56020,
+    "fecha": "05 de Sep del 2026 a las 07:03 PM",
+    "hora_utc": "2026-09-05 23:03",
+    "mensaje": "⚠️Afectado el servicio eléctrico en los siguientes circuitos:\n🔹Municipio Caibarién\n👉Ctos 63 y 64\n👉Cto 65 Dolores\n👉Cto 183 Van Troy\n🔹Municipio Encrucijada\n👉Cto 120 Calabazar\n👉Ctos 121 y 127 Perucho",
+    "timestamp": 1788649388,
+    "timestamp_local": 1788649388
+  },
+  {
+    "id": 56019,
+    "fecha": "05 de Sep del 2026 a las 06:25 PM",
+    "hora_utc": "2026-09-05 22:25",
+    "mensaje": "⚡La provincia presenta 7 averías primarias:\n➡️Ctos 54 y 94 Jicotea, del municipio Ranchuelo, afectados por transformador dañado en la subestación.\n➡️Cto 104 Hermanos Amejeiras, perteneciente al municipio Placetas (afectado ramal La Pollera)\n➡️Cto 106 Falcón, del municipio Placetas, afectado por transformador dañado en la subestación.\n➡️ Cto 132 Santa Clara Industrial, perteneciente al Municipio Santa Clara, por puente partido.\n➡️ Cto 33 (RF-33Kv), perteneciente al Municipio Santa Clara, faltando una fase.\n➡️Línea 1215 avería en soterrado a la salida de la Sub.\n🔹Municipio Sagua \n👉Cto 48 Finalet\n👉Ctos 46 y 128 Sitiecito\n➡️Línea  4608 parcial, se estudian las causas, afectando los siguientes circuitos.\n🔹Municipio Corralillo:\n👉Cto 57 Motembo \n👉Cto 56 Yabre\n👉Cto 60 La Sierra",
+    "timestamp": 1788647113,
+    "timestamp_local": 1788647113
+  },
+  {
+    "id": 56018,
+    "fecha": "05 de Sep del 2026 a las 06:24 PM",
+    "hora_utc": "2026-09-05 22:24",
+    "mensaje": "🕕Actualización del servicio eléctrico.\n✍️El déficit de capacidad de generación en estos momentos es de __ 199 MW__\n✍️__En el momento de esta nota, se mantienen afectados__  123 circuitos.\n✍️ Cuenta con 569__ afectaciones por averías secundarias y de servicio:__\n🔸__ Camajuaní (6)__\n🔸__ Cifuentes (24)__\n🔸__ Corralillo 6__\n🔸__ Encrucijada (1)__\n🔸__ Manicaragua (9)__\n🔸__ Placetas (9)__\n🔸__ Quemado (1)__\n🔸__ Ranchuelo (10)__\n🔸__ Remedios (11)__ \n🔸__ Sagua (21)__ \n🔸__ Santa Clara (302)__\n🔸__ Santo Domingo (80)__\n🛠️__Se encuentran 7__ averías en vías de solución.\n🛠️Pendientes a solucionar por el área técnica 88.",
+    "timestamp": 1788647078,
+    "timestamp_local": 1788647078
+  },
+  {
     "id": 56017,
     "fecha": "05 de Sep del 2026 a las 06:12 PM",
     "hora_utc": "2026-09-05 22:12",
@@ -86,77 +158,5 @@
     "mensaje": "⚠️Afectado el servicio eléctrico en los siguientes circuitos:\n🔹Municipio Ranchuelo:\n👉Ctos 89 y 188\n🔹Municipio Quemado:\n👉 Cto 196 Batey Panchito Gómez Toro\n🔹Municipio Corralillo:\n👉Cto 55 Rancho Veloz",
     "timestamp": 1788639700,
     "timestamp_local": 1788639700
-  },
-  {
-    "id": 56005,
-    "fecha": "05 de Sep del 2026 a las 04:20 PM",
-    "hora_utc": "2026-09-05 20:20",
-    "mensaje": "💡Con servicio eléctrico los siguientes circuitos:\n🔹Municipio Ranchuelo:\n👉Ctos 97 y 189",
-    "timestamp": 1788639632,
-    "timestamp_local": 1788639632
-  },
-  {
-    "id": 56004,
-    "fecha": "05 de Sep del 2026 a las 04:12 PM",
-    "hora_utc": "2026-09-05 20:12",
-    "mensaje": "Actualización del servicio eléctrico en la provincia.\n👉En este momento la afectación por déficit de capacidad de generación es de 186 MW, demanda máxima posible a apagar en estos momentos.\n👉De los circuitos apagables se mantienen afectados 103.\n👉Cuenta con 479 afectaciones por averías secundarias y de servicio.",
-    "timestamp": 1788639159,
-    "timestamp_local": 1788639159
-  },
-  {
-    "id": 56003,
-    "fecha": "05 de Sep del 2026 a las 03:57 PM",
-    "hora_utc": "2026-09-05 19:57",
-    "mensaje": "➡️Los disparos de circuito tienen diferentes aristas todas con distintos significados, es decir que ocurren por varias causas. Entre ellas encontramos:\n\n👉-Disparo de Circuito con Recierre: El conocido por los clientes como “quita y pon de corriente” es un tipo de protección utilizada mundialmente a partir del 80% aproximadamente de las interrupciones eléctricas son transitorias. Este fenómeno lo hace una sola vez ante un evento de red y no es dañino para para nuestros equipos electrodomésticos.\n\n👉- Disparo Automático por Frecuencia (DAF): El disparo por DAF ocurre cuando la frecuencia llega a valores mínimos permisibles que ponen en peligro la estabilidad del mismo y como protección desconecta varios circuitos de la Capital. Los mismo restablecen a medida que se vaya recuperando la frecuencia que tiene un valor de 60hz o ciclos por segundo.\n\n👉-Disparo de Circuito por Sobrecarga: Este ocurre mayormente en los horarios pico y en verano, ya que las altas temperaturas generan elevados consumos en la población y como consecuencia de ello fallas en los circuitos.\n\n👉-Disparo de Circuito por Posible Avería: Este fenómeno ocurre cuando existe una falla en algún circuito, ya sea soterrado, aéreo o en una subestación. Estas, a pesar de que son mucho más frecuentes cuando existe algún evento climatológico, pueden ocurrir en cualquier momento del día o la noche, ya que son situaciones que no cuentan con programación.",
-    "timestamp": 1788638235,
-    "timestamp_local": 1788638235
-  },
-  {
-    "id": 56002,
-    "fecha": "05 de Sep del 2026 a las 03:57 PM",
-    "hora_utc": "2026-09-05 19:57",
-    "mensaje": "⚡Disparados al restablecer el servicio los Ctos 76 y 90 Vega Alta, pertenecientes al Municipio Camajuaní, se estudian las causas.",
-    "timestamp": 1788638222,
-    "timestamp_local": 1788638222
-  },
-  {
-    "id": 56001,
-    "fecha": "05 de Sep del 2026 a las 03:55 PM",
-    "hora_utc": "2026-09-05 19:55",
-    "mensaje": "💡Con servicio eléctrico los siguientes circuitos:\n🔹Municipio Encrucijada:\n👉Cto 123 Vizcaya\n👉Cto 142 Comunidad La Sierra\n👉Cto 126 Batey Emilio Córdova\n👉Cto 125 Cavarrocas\n👉Cto 124 El Santo\n🔹Municipio Camajuaní:                                                             \n👉Cto 78 Jutiero\n👉Cto 75 La Quinta\n👉Cto 157 Luis Arcos Bergnes\n👉Ctos 76 y 90 Vega Alta",
-    "timestamp": 1788638113,
-    "timestamp_local": 1788638113
-  },
-  {
-    "id": 56000,
-    "fecha": "05 de Sep del 2026 a las 03:54 PM",
-    "hora_utc": "2026-09-05 19:54",
-    "mensaje": "🔴14:55 || Fuera de servicio la Unidad 3 de la CTE Carlos Manuel de Céspedes de Cienfuegos por la salida del interruptor del compresor de aire.\n\n✏️ Tomado de la Unión Eléctrica (UNE)",
-    "timestamp": 1788638045,
-    "timestamp_local": 1788638045
-  },
-  {
-    "id": 55999,
-    "fecha": "05 de Sep del 2026 a las 03:47 PM",
-    "hora_utc": "2026-09-05 19:47",
-    "mensaje": "⚠️Afectado el servicio eléctrico en los siguientes circuitos:\n🔹Municipio Santa Clara:\n👉Ctos 26 y 141 Manuelita",
-    "timestamp": 1788637640,
-    "timestamp_local": 1788637640
-  },
-  {
-    "id": 55998,
-    "fecha": "05 de Sep del 2026 a las 03:42 PM",
-    "hora_utc": "2026-09-05 19:42",
-    "mensaje": "⚠️Afectado el servicio eléctrico en el siguiente circuito:\n🔹Municipio Encrucijada:\n👉Cto 122 Encrucijada ",
-    "timestamp": 1788637333,
-    "timestamp_local": 1788637333
-  },
-  {
-    "id": 55997,
-    "fecha": "05 de Sep del 2026 a las 02:35 PM",
-    "hora_utc": "2026-09-05 18:35",
-    "mensaje": "💡Con servicio eléctrico los siguientes circuitos:\n🔹Municipio Santa Clara:\n👉Cto 6 Vigía\n👉Cto 39 (Sandino)\n👉Cto 34 Sabana Rebacadero",
-    "timestamp": 1788633332,
-    "timestamp_local": 1788633332
   }
 ]
