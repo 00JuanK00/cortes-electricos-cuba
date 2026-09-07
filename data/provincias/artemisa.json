@@ -1,9 +1,41 @@
 [
   {
+    "id": 38916,
+    "fecha": "07 de Sep del 2026 a las 06:50 PM",
+    "hora_utc": "2026-09-07 22:50",
+    "mensaje": "⛔Queda afectado la Subestación del Borgita por problemas en el interruptor❌",
+    "timestamp": 1788821429,
+    "timestamp_local": 1788821429
+  },
+  {
+    "id": 38915,
+    "fecha": "07 de Sep del 2026 a las 04:52 PM",
+    "hora_utc": "2026-09-07 20:52",
+    "mensaje": "🚨 Abierto el HB 102 quedando afectado los circuitos 5050, 5040 y 5045",
+    "timestamp": 1788814354,
+    "timestamp_local": 1788814354
+  },
+  {
+    "id": 38914,
+    "fecha": "07 de Sep del 2026 a las 04:52 PM",
+    "hora_utc": "2026-09-07 20:52",
+    "mensaje": "❌ Restablecido el circuito 1570 quedando Afectado la parte de Ciudad industria, Majana y Mango Dulce",
+    "timestamp": 1788814350,
+    "timestamp_local": 1788814350
+  },
+  {
+    "id": 38913,
+    "fecha": "07 de Sep del 2026 a las 04:52 PM",
+    "hora_utc": "2026-09-07 20:52",
+    "mensaje": "❌Restablecido el circuito 236 de Bahía Honda",
+    "timestamp": 1788814345,
+    "timestamp_local": 1788814345
+  },
+  {
     "id": 38912,
     "fecha": "07 de Sep del 2026 a las 04:06 PM",
     "hora_utc": "2026-09-07 20:06",
-    "mensaje": "⛔ Circuito 236 de Bahía Honda y 1570 de Artemisa en falla ⛔",
+    "mensaje": "⛔ Circuito 236 de Bahía Honda y 1570 de Artemisa en falla por posible avería ⛔",
     "timestamp": 1788811597,
     "timestamp_local": 1788811597
   },
@@ -126,37 +158,5 @@
     "mensaje": "🚨 Disparado el circuito de Bauta Vieja ‼️",
     "timestamp": 1788662885,
     "timestamp_local": 1788662885
-  },
-  {
-    "id": 38896,
-    "fecha": "05 de Sep del 2026 a las 08:40 PM",
-    "hora_utc": "2026-09-06 00:40",
-    "mensaje": "🚨 Restablecido el circuito de Gran Panel que se encontraba en Falla quedando afectado el 13 de marzo y el rastro ‼️",
-    "timestamp": 1788655209,
-    "timestamp_local": 1788655209
-  },
-  {
-    "id": 38895,
-    "fecha": "05 de Sep del 2026 a las 05:05 PM",
-    "hora_utc": "2026-09-05 21:05",
-    "mensaje": "🚨En falla el circuito de gran panel de Artemisa",
-    "timestamp": 1788642335,
-    "timestamp_local": 1788642335
-  },
-  {
-    "id": 38894,
-    "fecha": "05 de Sep del 2026 a las 04:50 PM",
-    "hora_utc": "2026-09-05 20:50",
-    "mensaje": "🚨En falla el circuito 3220 de San Antonio",
-    "timestamp": 1788641423,
-    "timestamp_local": 1788641423
-  },
-  {
-    "id": 38893,
-    "fecha": "05 de Sep del 2026 a las 04:50 PM",
-    "hora_utc": "2026-09-05 20:50",
-    "mensaje": "🚨Afectado por deficit los siguientes circuitos\n➡️Cárcel y 4 mil de Guanajay\n➡️ Bauta vieja y playa Baracoa \n➡️1570 de Artemisa\n‼️Tenemos una afectación de 135 MW",
-    "timestamp": 1788641418,
-    "timestamp_local": 1788641418
   }
 ]
