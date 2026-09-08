@@ -1,5 +1,21 @@
 [
   {
+    "id": 38596,
+    "fecha": "08 de Sep del 2026 a las 04:27 AM",
+    "hora_utc": "2026-09-08 08:27",
+    "mensaje": "Déficit de capacidad de generación en la provincia: *  133 MW .*",
+    "timestamp": 1788856061,
+    "timestamp_local": 1788856061
+  },
+  {
+    "id": 38595,
+    "fecha": "08 de Sep del 2026 a las 01:39 AM",
+    "hora_utc": "2026-09-08 05:39",
+    "mensaje": "Déficit de capacidad de generación en la provincia: *  138 MW .*",
+    "timestamp": 1788845958,
+    "timestamp_local": 1788845958
+  },
+  {
     "id": 38594,
     "fecha": "08 de Sep del 2026 a las 01:10 AM",
     "hora_utc": "2026-09-08 05:10",
@@ -142,21 +158,5 @@
     "mensaje": "📢ACTUALIZAMOS:\n⚡ Déficit de capacidad de generación en la provincia: * 133 MW .* ⚡",
     "timestamp": 1788779838,
     "timestamp_local": 1788779838
-  },
-  {
-    "id": 38575,
-    "fecha": "07 de Sep del 2026 a las 06:25 AM",
-    "hora_utc": "2026-09-07 10:25",
-    "mensaje": "⚠SE ENCUENTRA EN AVERÍA:\n- Circuito 4073 Batey Luisa, Peralta, San Carlos, Poblado San José de Marcos.",
-    "timestamp": 1788776749,
-    "timestamp_local": 1788776749
-  },
-  {
-    "id": 38574,
-    "fecha": "07 de Sep del 2026 a las 06:07 AM",
-    "hora_utc": "2026-09-07 10:07",
-    "mensaje": "CON SERVICIO ✅\n-Circuito 4935 que da servicio a San Pedro, Los Arabos, Colón Este, Central Méjico y Mario Muñoz.\n-Circuito 4071 que da servicio a Cítrico, La Carlota e Isabel.\n**- **Circuito 4072 que da servicio a Cítrico y Pueblo de Agramonte.\n- Circuito 4073 Batey Luisa, Peralta, San Carlos, Poblado San José de Marcos.",
-    "timestamp": 1788775656,
-    "timestamp_local": 1788775656
   }
 ]
