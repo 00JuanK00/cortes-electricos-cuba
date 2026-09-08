@@ -1,5 +1,45 @@
 [
   {
+    "id": 38601,
+    "fecha": "08 de Sep del 2026 a las 08:30 AM",
+    "hora_utc": "2026-09-08 12:30",
+    "mensaje": "⚡Déficit de capacidad de generación en la provincia:  125 MW⚡",
+    "timestamp": 1788870623,
+    "timestamp_local": 1788870623
+  },
+  {
+    "id": 38600,
+    "fecha": "08 de Sep del 2026 a las 08:12 AM",
+    "hora_utc": "2026-09-08 12:12",
+    "mensaje": "**Nota Informativa: Estado del SEN – 8 de septiembre de 2026**\nEn el día de ayer se afectó el servicio por déficit de capacidad durante las 24 horas y se mantuvo la afectación durante todo el horario de la madrugada. \n\n**⚠ Unidades en avería:**\nUnidades 5 y 6 de la Termoeléctrica Máximo Gómez, en la Zona Especial del Mariel.\nUnidad 1 de la Termoeléctrica Ernesto Guevara De La Serna, en Santa Cruz.\nUnidad 2 de la Termoeléctrica Lidio Ramón Pérez, en Felton.\nUnidad 6 de la Termoeléctrica Antonio Maceo, en Renté.\n\n**🛠 Unidades en mantenimiento:**\nUnidad 3 de la Termoeléctrica Ernesto Guevara De La Serna, en Santa Cruz.\nUnidad 5 de la Termoeléctrica Antonio Maceo, en Renté.\nUnidad 5 de la Termoeléctrica Diez de Octubre, en Nuevitas.\n\n**Pronóstico para el horario pico **🌙\n**Disponibilidad en horario pico: **1150 MW\n**Demanda máxima prevista: **3250 MW\n**Afectación pronosticada: **2130 MW",
+    "timestamp": 1788869532,
+    "timestamp_local": 1788869532
+  },
+  {
+    "id": 38599,
+    "fecha": "08 de Sep del 2026 a las 07:58 AM",
+    "hora_utc": "2026-09-08 11:58",
+    "mensaje": "QUEJAS PENDIENTES EN EL DÍA\n🔔Al cierre de las 7:55 am del día 8 de septiembre se encuentran 731 quejas pendientes en el sistema. \n\nEl desglose por municipio es el siguiente: \n🔸Betancourt:  13\n🔸Calimete:  10\n🔸Cárdenas:  70\n🔸Ciénaga de Zapata:   4\n🔸Colón:   49\n🔸Jaguey:   68\n🔸Jovellanos:  59\n🔸Limonar:  15\n🔸Los Arabos:  22\n🔸Martí:   7\n🔸Matanzas:  363\n🔸Perico:   19\n🔸Unión:   15\n🔸Varadero:  17\n\nNuestros Linieros ⚡️👷 continúan trabajando para restablecer el servicio a todos los clientes con quejas pendientes.‼️",
+    "timestamp": 1788868683,
+    "timestamp_local": 1788868683
+  },
+  {
+    "id": 38598,
+    "fecha": "08 de Sep del 2026 a las 06:43 AM",
+    "hora_utc": "2026-09-08 10:43",
+    "mensaje": "CON SERVICIO\n\nCIRCUITO **4475Jaguey 110kV**\n**CIRCUITO 4427 Cárdenas 110/33kV**",
+    "timestamp": 1788864214,
+    "timestamp_local": 1788864214
+  },
+  {
+    "id": 38597,
+    "fecha": "08 de Sep del 2026 a las 06:12 AM",
+    "hora_utc": "2026-09-08 10:12",
+    "mensaje": "Déficit de capacidad de generación en la provincia: *  131 MW .*",
+    "timestamp": 1788862360,
+    "timestamp_local": 1788862360
+  },
+  {
     "id": 38596,
     "fecha": "08 de Sep del 2026 a las 04:27 AM",
     "hora_utc": "2026-09-08 08:27",
@@ -118,45 +158,5 @@
     "mensaje": "⚡ Actualización del Sistema Electroenergético Nacional para el 7 de septiembre de 2026.\n\nPronóstico de afectación:\nPara el pico de la noche: 2220 MW\n\nLeer más: https://www.unionelectrica.cu/nota-informativa/\n\n#UnidosXCuba #UniónEléctrica #UNE #NotaInformativa",
     "timestamp": 1788787662,
     "timestamp_local": 1788787662
-  },
-  {
-    "id": 38580,
-    "fecha": "07 de Sep del 2026 a las 09:26 AM",
-    "hora_utc": "2026-09-07 13:26",
-    "mensaje": "CON SERVICIO\n\nCIRCUITO 4074 Agramonte 110kV\nCIRCUITO 5660 Bolondrón 110kV\nCIRCUITO 4405 Guanábana 110kV\nCIRCUITO 4604 Hoyo 110kV\nCIRCUTO 4427 Cárdenas 110/33kV",
-    "timestamp": 1788787607,
-    "timestamp_local": 1788787607
-  },
-  {
-    "id": 38579,
-    "fecha": "07 de Sep del 2026 a las 08:25 AM",
-    "hora_utc": "2026-09-07 12:25",
-    "mensaje": "CON SERVICIO\n\nCIRCUITO 501 Colón 110kV51",
-    "timestamp": 1788783932,
-    "timestamp_local": 1788783932
-  },
-  {
-    "id": 38578,
-    "fecha": "07 de Sep del 2026 a las 08:24 AM",
-    "hora_utc": "2026-09-07 12:24",
-    "mensaje": "QUEJAS PENDIENTES EN EL DÍA\n🔔Al cierre de las 8:21 am del día 7 de septiembre se encuentran 668 quejas pendientes en2 el sistema. \n\nEl desglose por municipio es el siguiente: \n🔸Betancourt:  14\n🔸Calimete: 7\n🔸Cárdenas:  48\n🔸Ciénaga de Zapata:  4\n🔸Colón:  56\n🔸Jaguey:   65\n🔸Jovellanos:  47\n🔸Limonar: 13\n🔸Los Arabos: 22\n🔸Martí:   1\n🔸Matanzas: 352\n🔸Perico:  14\n🔸Unión: 11\n🔸Varadero: 14\n\nNuestros Linieros ⚡️👷 continúan trabajando para restablecer el servicio a todos los clientes con quejas pendientes.‼️",
-    "timestamp": 1788783878,
-    "timestamp_local": 1788783878
-  },
-  {
-    "id": 38577,
-    "fecha": "07 de Sep del 2026 a las 07:56 AM",
-    "hora_utc": "2026-09-07 11:56",
-    "mensaje": "CON SERVICIO:\n\nCIRCUITO 4824 Jovellanos 110kV\nCIRCUITO 5670 Bolondrón 110kV",
-    "timestamp": 1788782170,
-    "timestamp_local": 1788782170
-  },
-  {
-    "id": 38576,
-    "fecha": "07 de Sep del 2026 a las 07:17 AM",
-    "hora_utc": "2026-09-07 11:17",
-    "mensaje": "📢ACTUALIZAMOS:\n⚡ Déficit de capacidad de generación en la provincia: * 133 MW .* ⚡",
-    "timestamp": 1788779838,
-    "timestamp_local": 1788779838
   }
 ]
