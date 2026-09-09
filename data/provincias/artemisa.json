@@ -1,5 +1,53 @@
 [
   {
+    "id": 38949,
+    "fecha": "09 de Sep del 2026 a las 10:34 AM",
+    "hora_utc": "2026-09-09 14:34",
+    "mensaje": "❌vía libre en el circuito de Bombeo de ceiba 1 para reparar avería ❌",
+    "timestamp": 1788964465,
+    "timestamp_local": 1788964465
+  },
+  {
+    "id": 38948,
+    "fecha": "09 de Sep del 2026 a las 09:57 AM",
+    "hora_utc": "2026-09-09 13:57",
+    "mensaje": "❌ Vía libre en el circuito 3210 : Guanajay y 3517 : Mariel para cojer puntos calientes❌",
+    "timestamp": 1788962239,
+    "timestamp_local": 1788962239
+  },
+  {
+    "id": 38947,
+    "fecha": "09 de Sep del 2026 a las 09:57 AM",
+    "hora_utc": "2026-09-09 13:57",
+    "mensaje": "❌El circuito 1580 : Alquízar  se encuentra en avería❌",
+    "timestamp": 1788962234,
+    "timestamp_local": 1788962234
+  },
+  {
+    "id": 38946,
+    "fecha": "09 de Sep del 2026 a las 09:57 AM",
+    "hora_utc": "2026-09-09 13:57",
+    "mensaje": "🚨 Afectado por déficit 🚨\n\n➡️ Artemisa: Gran Panel",
+    "timestamp": 1788962234,
+    "timestamp_local": 1788962234
+  },
+  {
+    "id": 38945,
+    "fecha": "09 de Sep del 2026 a las 08:55 AM",
+    "hora_utc": "2026-09-09 12:55",
+    "mensaje": "🚨 Afectado por déficit cabaña 🚨",
+    "timestamp": 1788958525,
+    "timestamp_local": 1788958525
+  },
+  {
+    "id": 38944,
+    "fecha": "09 de Sep del 2026 a las 08:10 AM",
+    "hora_utc": "2026-09-09 12:10",
+    "mensaje": "❌Se mantiene en avería circuito Guira 13000 a partir de la x344 pendiente a recorrer ❌",
+    "timestamp": 1788955804,
+    "timestamp_local": 1788955804
+  },
+  {
     "id": 38943,
     "fecha": "09 de Sep del 2026 a las 07:09 AM",
     "hora_utc": "2026-09-09 11:09",
@@ -110,53 +158,5 @@
     "mensaje": "🚨A continuación los siguientes circuitos afectados por déficit 🚨\n\n\n➡️ Artemisa:1570; A-1270 manipulado, Plátano\n➡️ Güira de Melena:3305  en fallas.\n➡️ Mariel: Cabañas y Sandino.\n➡️ S.A.B: 3220 Vereda Ceiba\n➡️ San Cristóbal: S-20; 4 Caminos y Martí.\n\n‼️ Tenemos una afectación de 98 MW ‼️",
     "timestamp": 1788886299,
     "timestamp_local": 1788886299
-  },
-  {
-    "id": 38929,
-    "fecha": "08 de Sep del 2026 a las 11:59 AM",
-    "hora_utc": "2026-09-08 15:59",
-    "mensaje": "❌ Vía libre en el circuito 3220 afecta Vereda ,Ceiba ,Borgita ❌",
-    "timestamp": 1788883175,
-    "timestamp_local": 1788883175
-  },
-  {
-    "id": 38928,
-    "fecha": "08 de Sep del 2026 a las 07:41 AM",
-    "hora_utc": "2026-09-08 11:41",
-    "mensaje": "❌ Circuito BH 342 de Bahía Honda en falla por posible avería❌",
-    "timestamp": 1788867666,
-    "timestamp_local": 1788867666
-  },
-  {
-    "id": 38927,
-    "fecha": "08 de Sep del 2026 a las 07:02 AM",
-    "hora_utc": "2026-09-08 11:02",
-    "mensaje": "🚨 Actualización de los circuitos afectados por défici de generación en la Provincia:\n➡️1940 de San Antonio\n➡️3220 (manipulado) Afectado la parte de Onix de Cuba y Circunvalación\n➡️ Playa Baracoa de Bauta\n➡️ Villa Salado de Caimito\n➡️ Cárcel 2, Beliert y Guanajay 4 mil\n➡️ Cayo Lenin, Mármol y Zayas del Mariel\n➡️3205 de Cabaña y Quiebra Hacha\n➡️236 y 246 (manipulado) de Bahía Honda\n➡️341, 4 Caminos, Martí y el S.20 de San Cristóbal\n➡️ Candelaria y Soroa\n➡️1580 de Alquízar\n➡️Gran Panel y Pilar de Artemisa\n❌En estos momentos tenemos una afectación de 180 MW en la Provincia❌",
-    "timestamp": 1788865322,
-    "timestamp_local": 1788865322
-  },
-  {
-    "id": 38926,
-    "fecha": "08 de Sep del 2026 a las 07:02 AM",
-    "hora_utc": "2026-09-08 11:02",
-    "mensaje": "❌ Circuito el Dagame de Alquízar afectado por cables partidos❌",
-    "timestamp": 1788865322,
-    "timestamp_local": 1788865322
-  },
-  {
-    "id": 38925,
-    "fecha": "08 de Sep del 2026 a las 07:02 AM",
-    "hora_utc": "2026-09-08 11:02",
-    "mensaje": "❌ Restablecida la avería que estaba pendiente del circuito 1570❌",
-    "timestamp": 1788865322,
-    "timestamp_local": 1788865322
-  },
-  {
-    "id": 38924,
-    "fecha": "08 de Sep del 2026 a las 07:02 AM",
-    "hora_utc": "2026-09-08 11:02",
-    "mensaje": "❌ Del circuito 1424 queda abierto a partir de los 3601 que afecta el pozo 11 ❌",
-    "timestamp": 1788865322,
-    "timestamp_local": 1788865322
   }
 ]
