@@ -1,5 +1,21 @@
 [
   {
+    "id": 40567,
+    "fecha": "08 de Sep del 2026 a las 09:04 PM",
+    "hora_utc": "2026-09-09 01:04",
+    "mensaje": "🔉Información.\n👉 Se restablece el servicio en el circuito A110.",
+    "timestamp": 1788915882,
+    "timestamp_local": 1788915882
+  },
+  {
+    "id": 40566,
+    "fecha": "08 de Sep del 2026 a las 08:46 PM",
+    "hora_utc": "2026-09-09 00:46",
+    "mensaje": "🔉Información :\n👉Continuamos con  28 MW servido en la provincia .\n👉Se irán restableciendo paulatinamente los circuitos con más tiempo de afectación según las condiciones del SEN lo permita .",
+    "timestamp": 1788914774,
+    "timestamp_local": 1788914774
+  },
+  {
     "id": 40565,
     "fecha": "08 de Sep del 2026 a las 06:28 PM",
     "hora_utc": "2026-09-08 22:28",
@@ -134,21 +150,5 @@
     "mensaje": "🔉Información :\n👉 Continuamos con 28 MW servido en la provincia .\n👉Se irán restableciendo paulatinamente los circuitos con más tiempo de afectación según las condiciones del SEN lo permita .",
     "timestamp": 1788870246,
     "timestamp_local": 1788870246
-  },
-  {
-    "id": 40547,
-    "fecha": "08 de Sep del 2026 a las 07:51 AM",
-    "hora_utc": "2026-09-08 11:51",
-    "mensaje": "‼️ Información ‼️\n💥Se restablece el  circuito 5 correspondiente al bloque: 9",
-    "timestamp": 1788868279,
-    "timestamp_local": 1788868279
-  },
-  {
-    "id": 40546,
-    "fecha": "08 de Sep del 2026 a las 07:21 AM",
-    "hora_utc": "2026-09-08 11:21",
-    "mensaje": "‼️ Información ‼️\n💥Se restablece el  circuito correspondiente al bloque: 5\n💥 Violeta, Velazco, Pablo.\n\n👉 Los circuitos de Montoto, Tres Marías, Ognara quedan afectados por avería.",
-    "timestamp": 1788866491,
-    "timestamp_local": 1788866491
   }
 ]
