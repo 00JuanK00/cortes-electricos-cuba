@@ -1,5 +1,37 @@
 [
   {
+    "id": 38692,
+    "fecha": "11 de Sep del 2026 a las 07:16 PM",
+    "hora_utc": "2026-09-11 23:16",
+    "mensaje": "Presentamos 155 MW de afectación en la provincia por déficit de capacidad de generación .",
+    "timestamp": 1789168579,
+    "timestamp_local": 1789168579
+  },
+  {
+    "id": 38691,
+    "fecha": "11 de Sep del 2026 a las 06:42 PM",
+    "hora_utc": "2026-09-11 22:42",
+    "mensaje": "CON SERVICIO:\n\nCIRCUITO 5170 Varadero 110kV\nCIRCUITO 4995 Varadero 110kV",
+    "timestamp": 1789166547,
+    "timestamp_local": 1789166547
+  },
+  {
+    "id": 38690,
+    "fecha": "11 de Sep del 2026 a las 05:24 PM",
+    "hora_utc": "2026-09-11 21:24",
+    "mensaje": "CON SERVICIO:\n🔌 Circuito MI1452 que da servicio a Laboratorio Epidemiología, Tele Centro, Los Mangos.\n🔌 Circuito MI1455 que da servicio a Pueblo Nuevo desde la calle Comercio hasta San Fernando y desde la calle Monserrate hasta la calle San Carlos. \n🔌 Circuito MI1456 que da servicio a Calzada de San Luis hasta Parque Maceo y La Jaiba.",
+    "timestamp": 1789161857,
+    "timestamp_local": 1789161857
+  },
+  {
+    "id": 38689,
+    "fecha": "11 de Sep del 2026 a las 05:23 PM",
+    "hora_utc": "2026-09-11 21:23",
+    "mensaje": "CON SERVICIO:\n\nCIRCUITO 4604 Hoyo 110kV\nCIRCUITO 4074 Agramonte 110kV",
+    "timestamp": 1789161788,
+    "timestamp_local": 1789161788
+  },
+  {
     "id": 38688,
     "fecha": "11 de Sep del 2026 a las 05:18 PM",
     "hora_utc": "2026-09-11 21:18",
@@ -126,37 +158,5 @@
     "mensaje": "‼En este momento tenemos afectados por déficit de capacidad de generación 164 MW.",
     "timestamp": 1789096006,
     "timestamp_local": 1789096006
-  },
-  {
-    "id": 38671,
-    "fecha": "10 de Sep del 2026 a las 10:10 PM",
-    "hora_utc": "2026-09-11 02:10",
-    "mensaje": "🟢20:50 || En línea la Unidad 1 de Lidio Ramón Pérez. \"Felton",
-    "timestamp": 1789092625,
-    "timestamp_local": 1789092625
-  },
-  {
-    "id": 38670,
-    "fecha": "10 de Sep del 2026 a las 09:41 PM",
-    "hora_utc": "2026-09-11 01:41",
-    "mensaje": "⚡ Déficit de capacidad de generación en la provincia: * 179 MW .*",
-    "timestamp": 1789090908,
-    "timestamp_local": 1789090908
-  },
-  {
-    "id": 38669,
-    "fecha": "10 de Sep del 2026 a las 08:43 PM",
-    "hora_utc": "2026-09-11 00:43",
-    "mensaje": "⚡ Déficit de capacidad de generación en la provincia: * 184 MW .*",
-    "timestamp": 1789087425,
-    "timestamp_local": 1789087425
-  },
-  {
-    "id": 38668,
-    "fecha": "10 de Sep del 2026 a las 07:41 PM",
-    "hora_utc": "2026-09-10 23:41",
-    "mensaje": "⚡ Déficit de capacidad de generación en la provincia: * 173 MW .*",
-    "timestamp": 1789083711,
-    "timestamp_local": 1789083711
   }
 ]
