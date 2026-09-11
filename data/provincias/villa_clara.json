@@ -1,5 +1,77 @@
 [
   {
+    "id": 56641,
+    "fecha": "11 de Sep del 2026 a las 02:13 AM",
+    "hora_utc": "2026-09-11 06:13",
+    "mensaje": "Actualización del servicio eléctrico en la provincia.\n👉En este momento la afectación por déficit de capacidad de generación es de 211 MW, demanda máxima posible a apagar en estos momentos.\n👉De los circuitos apagables se mantienen afectados 135.\n👉Cuenta con 359 afectaciones por averías secundarias y de servicio",
+    "timestamp": 1789107225,
+    "timestamp_local": 1789107225
+  },
+  {
+    "id": 56640,
+    "fecha": "11 de Sep del 2026 a las 12:06 AM",
+    "hora_utc": "2026-09-11 04:06",
+    "mensaje": "⚡La provincia presenta 5 averías primarias:\n➡️Cto 104 Hermanos Amejeiras, perteneciente al municipio Placetas, afectado ramal La Pollera.\n➡️Cto 106 Falcón, del municipio Placetas, afectado por transformador dañado en la subestación.\n➡️Cto 110 La Piedra del municipio Manicaragua, se estudian las causas.\n➡️Avería en el Cto 42 Manajanabo perteneciente al municipio Santa Clara por cable primario partido\n➡️Avería en el Cto 3 Consejo Centro perteneciente al Municipio Santa Clara por cable primario partido",
+    "timestamp": 1789099574,
+    "timestamp_local": 1789099574
+  },
+  {
+    "id": 56639,
+    "fecha": "11 de Sep del 2026 a las 12:05 AM",
+    "hora_utc": "2026-09-11 04:05",
+    "mensaje": "🕕Actualización del servicio eléctrico.\n✍️El déficit de capacidad de generación en estos momentos es de 214__ MW__\n✍️__En el momento de esta nota, se mantienen afectados 136__ circuitos.\n✍️ Cuenta con 359 __afectaciones por averías secundarias y de servicio:__\n🔸__ Caibarién (12)__\n🔸__ Camajuaní (17)__\n🔸__ Cifuentes (18)__\n🔸__ Corralillo (6)__\n🔸__ Manicaragua (14)__\n🔸__ Placetas (22)__\n🔸__ Quemado (5)__\n🔸__ Ranchuelo (18)__\n🔸__ Remedios (26)__ \n🔸__ Sagua (4)__ \n🔸__ Santa Clara (185)__\n🔸__ Santo Domingo (32)__\n🛠️__Se encuentran 5__ averías en vías de solución.\n🛠️Pendientes a solucionar por el área técnica 69.",
+    "timestamp": 1789099521,
+    "timestamp_local": 1789099521
+  },
+  {
+    "id": 56638,
+    "fecha": "10 de Sep del 2026 a las 11:24 PM",
+    "hora_utc": "2026-09-11 03:24",
+    "mensaje": "🛠️Avería en el Cto 3 Consejo Centro perteneciente al Municipio Santa Clara por cable primario partido",
+    "timestamp": 1789097098,
+    "timestamp_local": 1789097098
+  },
+  {
+    "id": 56637,
+    "fecha": "10 de Sep del 2026 a las 10:36 PM",
+    "hora_utc": "2026-09-11 02:36",
+    "mensaje": "💡Restablecido el servicio eléctrico el siguiente circuito:\n🔹Municipio Santa Clara:\n👉Cto 3 Consejo centro",
+    "timestamp": 1789094212,
+    "timestamp_local": 1789094212
+  },
+  {
+    "id": 56636,
+    "fecha": "10 de Sep del 2026 a las 10:11 PM",
+    "hora_utc": "2026-09-11 02:11",
+    "mensaje": "Actualización del servicio eléctrico en la provincia.\n👉En este momento la afectación por déficit de capacidad de generación es de 225 MW, demanda máxima posible a apagar en estos momentos.\n👉De los circuitos apagables se mantienen afectados 146.\n👉Cuenta con 358 afectaciones por averías secundarias y de servicio",
+    "timestamp": 1789092688,
+    "timestamp_local": 1789092688
+  },
+  {
+    "id": 56635,
+    "fecha": "10 de Sep del 2026 a las 10:09 PM",
+    "hora_utc": "2026-09-11 02:09",
+    "mensaje": "🛠️Disparo del Cto 3 Consejo centro perteneciente al Municipio Santa Clara ( Se estudian las causas)",
+    "timestamp": 1789092545,
+    "timestamp_local": 1789092545
+  },
+  {
+    "id": 56634,
+    "fecha": "10 de Sep del 2026 a las 09:46 PM",
+    "hora_utc": "2026-09-11 01:46",
+    "mensaje": "⚠️Afectado el servicio eléctrico en el siguiente circuito:\n🔹Municipio Santa Clara:\n👉Cto 13 Zona Industrial",
+    "timestamp": 1789091189,
+    "timestamp_local": 1789091189
+  },
+  {
+    "id": 56633,
+    "fecha": "10 de Sep del 2026 a las 09:45 PM",
+    "hora_utc": "2026-09-11 01:45",
+    "mensaje": "💡Con servicio eléctrico los siguientes circuitos:\n🔹Municipio Santa Clara\n👉Cto 24 Planta Asfalto\n👉Cto 146 Elevado Aeropuerto\n👉Cto 25 Los Güiros\n👉Cto 35 Biotecnología",
+    "timestamp": 1789091149,
+    "timestamp_local": 1789091149
+  },
+  {
     "id": 56632,
     "fecha": "10 de Sep del 2026 a las 08:59 PM",
     "hora_utc": "2026-09-11 00:59",
@@ -86,77 +158,5 @@
     "mensaje": "💡Con servicio eléctrico el siguiente circuito:\n🔹Municipio Santa Clara:\n👉Cto 3 Consejo centro",
     "timestamp": 1789081178,
     "timestamp_local": 1789081178
-  },
-  {
-    "id": 56621,
-    "fecha": "10 de Sep del 2026 a las 06:41 PM",
-    "hora_utc": "2026-09-10 22:41",
-    "mensaje": "⚠️Afectado el servicio eléctrico en el siguiente circuito:\n🔹Municipio Santa Clara\n👉Cto 30  y 193 Santa Clara Industrial",
-    "timestamp": 1789080073,
-    "timestamp_local": 1789080073
-  },
-  {
-    "id": 56620,
-    "fecha": "10 de Sep del 2026 a las 06:37 PM",
-    "hora_utc": "2026-09-10 22:37",
-    "mensaje": "⚠️Afectado el servicio eléctrico en el siguiente circuito:\n🔹Municipio Santa Clara:\n👉Cto 31 Santa Clara Industrial",
-    "timestamp": 1789079850,
-    "timestamp_local": 1789079850
-  },
-  {
-    "id": 56619,
-    "fecha": "10 de Sep del 2026 a las 06:19 PM",
-    "hora_utc": "2026-09-10 22:19",
-    "mensaje": "💡Con servicio eléctrico el siguiente circuito:\n🔹Municipio Santa Clara:\n👉Cto 169 Condado",
-    "timestamp": 1789078765,
-    "timestamp_local": 1789078765
-  },
-  {
-    "id": 56618,
-    "fecha": "10 de Sep del 2026 a las 06:18 PM",
-    "hora_utc": "2026-09-10 22:18",
-    "mensaje": "💡Con servicio eléctrico el siguiente circuito:\n🔹Municipio Santa Clara:\n👉Cto 168 Condado",
-    "timestamp": 1789078728,
-    "timestamp_local": 1789078728
-  },
-  {
-    "id": 56617,
-    "fecha": "10 de Sep del 2026 a las 06:18 PM",
-    "hora_utc": "2026-09-10 22:18",
-    "mensaje": "⚡La provincia presenta 4 averías primarias:\n➡️Cto 104 Hermanos Amejeiras, perteneciente al municipio Placetas, afectado ramal La Pollera.\n➡️Cto 106 Falcón, del municipio Placetas, afectado por transformador dañado en la subestación.\n➡️Cto 110 La Piedra del municipio Manicaragua, se estudian las causas.\n➡️Avería en el Cto 42 Manajanabo perteneciente al municipio Santa Clara por cable primario partido",
-    "timestamp": 1789078712,
-    "timestamp_local": 1789078712
-  },
-  {
-    "id": 56616,
-    "fecha": "10 de Sep del 2026 a las 06:07 PM",
-    "hora_utc": "2026-09-10 22:07",
-    "mensaje": "🕕Actualización del servicio eléctrico.\n✍️El déficit de capacidad de generación en estos momentos es de 184__ MW__\n✍️__En el momento de esta nota, se mantienen afectados 122__ circuitos.\n✍️ Cuenta con __422 afectaciones por averías secundarias y de servicio:__\n🔸__ Caibarién (11)__\n🔸__ Camajuaní (18)__\n🔸__ Cifuentes (18)__\n🔸__ Corralillo (6)__\n🔸__ Manicaragua (14)__\n🔸__ Placetas (18)__\n🔸__ Quemado (5)__\n🔸__ Ranchuelo (18)__\n🔸__ Remedios (24)__ \n🔸__ Sagua (4)__ \n🔸__ Santa Clara (254)__\n🔸__ Santo Domingo (32)__\n🛠️__Se encuentran 2__ averías en vías de solución.\n🛠️Pendientes a solucionar por el área técnica 96.",
-    "timestamp": 1789078052,
-    "timestamp_local": 1789078052
-  },
-  {
-    "id": 56615,
-    "fecha": "10 de Sep del 2026 a las 05:58 PM",
-    "hora_utc": "2026-09-10 21:58",
-    "mensaje": "⚠️Afectado el servicio eléctrico en los siguientes circuitos:\n🔹Municipio Santa Clara:\n👉Cto 153 EIDE",
-    "timestamp": 1789077512,
-    "timestamp_local": 1789077512
-  },
-  {
-    "id": 56614,
-    "fecha": "10 de Sep del 2026 a las 05:52 PM",
-    "hora_utc": "2026-09-10 21:52",
-    "mensaje": "⚠️Afectado el servicio eléctrico en los siguientes circuitos:\n🔹Municipio Santa Clara:\n👉Cto 6 Vigía\n👉Cto 39 (Sandino)\n👉Cto 34 Sabana Rebacadero",
-    "timestamp": 1789077144,
-    "timestamp_local": 1789077144
-  },
-  {
-    "id": 56613,
-    "fecha": "10 de Sep del 2026 a las 05:36 PM",
-    "hora_utc": "2026-09-10 21:36",
-    "mensaje": "⚠️Afectado el servicio eléctrico en los siguientes circuitos:\n🔹Municipio Sagua\n👉Ctos 43, 51 Sagua",
-    "timestamp": 1789076206,
-    "timestamp_local": 1789076206
   }
 ]
