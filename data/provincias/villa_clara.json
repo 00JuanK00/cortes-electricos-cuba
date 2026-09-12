@@ -1,5 +1,37 @@
 [
   {
+    "id": 56865,
+    "fecha": "12 de Sep del 2026 a las 05:29 PM",
+    "hora_utc": "2026-09-12 21:29",
+    "mensaje": "Afectados 208 MW en la provincia, demanda máxima a apagar en estos momentos.",
+    "timestamp": 1789248542,
+    "timestamp_local": 1789248542
+  },
+  {
+    "id": 56864,
+    "fecha": "12 de Sep del 2026 a las 04:30 PM",
+    "hora_utc": "2026-09-12 20:30",
+    "mensaje": "⚠️Afectado el servicio eléctrico en los siguientes circuitos:\n🔹Municipio Santa Clara:\n👉Cto 5 Dobarganes\n👉Cto 17 Subplanta\n👉Cto 1 Consejo- Centro\n👉Cto 31 Santa Clara Industrial",
+    "timestamp": 1789245032,
+    "timestamp_local": 1789245032
+  },
+  {
+    "id": 56863,
+    "fecha": "12 de Sep del 2026 a las 04:06 PM",
+    "hora_utc": "2026-09-12 20:06",
+    "mensaje": "⚠️Afectado el servicio eléctrico en los siguientes circuitos:\n🔹Municipio Sagua:\n👉Cto 48 Finalet\n👉Ctos 46 y 128 Sitiecito\n🔹Municipio Placetas:\n👉Cto 100 Placetas\n👉Cto 104 Hermanos Amejeiras\n👉Cto 103 Batey Carbó Servía\n🔹Municipio Santa Clara:\n👉Cto 153 EIDE",
+    "timestamp": 1789243602,
+    "timestamp_local": 1789243602
+  },
+  {
+    "id": 56862,
+    "fecha": "12 de Sep del 2026 a las 04:05 PM",
+    "hora_utc": "2026-09-12 20:05",
+    "mensaje": "Actualización del servicio eléctrico en la provincia.\n👉En este momento la afectación por déficit de capacidad de generación es de 171 MW, demanda máxima posible a apagar en estos momentos.\n👉De los circuitos apagables se mantienen afectados 98.\n👉Cuenta con 393 afectaciones por averías secundarias y de servicio.",
+    "timestamp": 1789243511,
+    "timestamp_local": 1789243511
+  },
+  {
     "id": 56860,
     "fecha": "12 de Sep del 2026 a las 03:24 PM",
     "hora_utc": "2026-09-12 19:24",
@@ -118,37 +150,5 @@
     "mensaje": "Afectados 153 MW en la provincia, demanda máxima a apagar en estos momentos.",
     "timestamp": 1789232549,
     "timestamp_local": 1789232549
-  },
-  {
-    "id": 56844,
-    "fecha": "12 de Sep del 2026 a las 01:01 PM",
-    "hora_utc": "2026-09-12 17:01",
-    "mensaje": "✍️Ante cualquier duda conozca sobre la terminología eléctrica\n\n🔹Las averías pueden ser:\n\n➡️Primarias: Afecta un volumen grande de población pues son las líneas de distribución a 13.8 kV y puede afectar varias manzanas, incluso repartos completos.\n\n➡️Secundarias: Afecta a todos los clientes que se alimenten del mismo transformador, puede afectar una o varias cuadras.\n\n➡️De servicio: Afectan 1 solo cliente o instalación generalmente producto a daños en la acometida, metro contador, etc.).",
-    "timestamp": 1789232513,
-    "timestamp_local": 1789232513
-  },
-  {
-    "id": 56843,
-    "fecha": "12 de Sep del 2026 a las 12:20 PM",
-    "hora_utc": "2026-09-12 16:20",
-    "mensaje": "🕛Actualización del servicio eléctrico.\n✍️El déficit de capacidad de generación en estos momentos es de 157 __MW__\n✍️__En el momento de esta nota, se mantienen afectados 89__ circuitos.\n✍️ Cuenta con 382 __afectaciones por averías secundarias y de servicio:__\n🔸__ Caibarién (17)__\n🔸__ Camajuaní (14)__\n🔸__ Cifuentes (13)__\n🔸 Corralillo (3)\n🔸 Encrucijada (5)\n🔸__ Manicaragua (9)__\n🔸__ Placetas (34)__\n🔸__ Quemado (5)__\n🔸__ Ranchuelo (27)__\n🔸__ Remedios (22)__\n🔸__ Sagua (7)__\n🔸__ Santa Clara (198)__\n🔸__ Santo Domingo (29)__\n🛠️__Se encuentran 5__ averías en vías de solución.\n🛠️Pendientes a solucionar por el área técnica 69.\n⚡La provincia presenta 2 averías primarias:\n➡️Cto 104 Hermanos Amejeiras, perteneciente al municipio Placetas, afectado ramal La Pollera.\n➡️Cto 106 Falcón, del municipio Placetas, afectado por transformador dañado en la subestación.",
-    "timestamp": 1789230027,
-    "timestamp_local": 1789230027
-  },
-  {
-    "id": 56842,
-    "fecha": "12 de Sep del 2026 a las 11:35 AM",
-    "hora_utc": "2026-09-12 15:35",
-    "mensaje": "💡Con servicio eléctrico los siguientes circuitos:\n🔹Municipio Santa Clara:\n👉Cto 132 Santa Clara Industrial\n👉Cto 162  Santa Clara Industrial",
-    "timestamp": 1789227325,
-    "timestamp_local": 1789227325
-  },
-  {
-    "id": 56841,
-    "fecha": "12 de Sep del 2026 a las 11:34 AM",
-    "hora_utc": "2026-09-12 15:34",
-    "mensaje": "⚠️Afectado el servicio eléctrico los siguientes circuitos:\n🔹Municipio Santa Clara:\n👉Cto 30  y 193 Santa Clara Industrial",
-    "timestamp": 1789227298,
-    "timestamp_local": 1789227298
   }
 ]
