@@ -1,5 +1,53 @@
 [
   {
+    "id": 39017,
+    "fecha": "12 de Sep del 2026 a las 12:28 PM",
+    "hora_utc": "2026-09-12 16:28",
+    "mensaje": "❌En falla el circuito 1500 de Artemisa❌",
+    "timestamp": 1789230488,
+    "timestamp_local": 1789230488
+  },
+  {
+    "id": 39016,
+    "fecha": "12 de Sep del 2026 a las 12:11 PM",
+    "hora_utc": "2026-09-12 16:11",
+    "mensaje": "❌En falla las líneas de 110kv MG-110 y GN-106 afecta ZDEM❌",
+    "timestamp": 1789229499,
+    "timestamp_local": 1789229499
+  },
+  {
+    "id": 39015,
+    "fecha": "12 de Sep del 2026 a las 11:24 AM",
+    "hora_utc": "2026-09-12 15:24",
+    "mensaje": "❌ El circuito 5050 se encuentra en fallas❌",
+    "timestamp": 1789226654,
+    "timestamp_local": 1789226654
+  },
+  {
+    "id": 39014,
+    "fecha": "12 de Sep del 2026 a las 11:24 AM",
+    "hora_utc": "2026-09-12 15:24",
+    "mensaje": "🚨Disparada la línea de 110kv afectando las subestaciones de Artemisa , Guanajay , San Cristóbal , ZDEM y Bahía Honda🚨",
+    "timestamp": 1789226647,
+    "timestamp_local": 1789226647
+  },
+  {
+    "id": 39013,
+    "fecha": "12 de Sep del 2026 a las 11:00 AM",
+    "hora_utc": "2026-09-12 15:00",
+    "mensaje": "⛔ Circuito 1580 Disparado⛔",
+    "timestamp": 1789225253,
+    "timestamp_local": 1789225253
+  },
+  {
+    "id": 39012,
+    "fecha": "12 de Sep del 2026 a las 10:52 AM",
+    "hora_utc": "2026-09-12 14:52",
+    "mensaje": "🚨 Afectados por déficit de generación🚨\n\n➡️ A-1270; 1570; Gran Panel y Pilar",
+    "timestamp": 1789224720,
+    "timestamp_local": 1789224720
+  },
+  {
     "id": 39011,
     "fecha": "12 de Sep del 2026 a las 07:23 AM",
     "hora_utc": "2026-09-12 11:23",
@@ -110,53 +158,5 @@
     "mensaje": "🚨Afectado por defecit los circuitos 🚨\n\n➡️Bauta Nueva \n\n‼️tenemos una afectación de 149 MW ‼️",
     "timestamp": 1789141345,
     "timestamp_local": 1789141345
-  },
-  {
-    "id": 38997,
-    "fecha": "11 de Sep del 2026 a las 11:30 AM",
-    "hora_utc": "2026-09-11 15:30",
-    "mensaje": "🚨 Actualización de los circuitos afectados por déficit de generación en estos momentos en la provincia : \n\n➡️1940 de San Antonio\n➡️S340 del Maní \n ➡️ Fabrica de Carretas de Güira de Melena \n➡️Pilar de Artemisa\n➡️Gran Panel de Artemisa \n➡️ Platano de Artemisa\n➡️1580 de Alquízar manipulado\n➡️Beliert de Guanajay \n➡️Sandino de Mariel \n➡️ S-20 de San Cristóbal\n➡️4 Caminos de San Cristóbal\n ➡️Martí de San Cristóbal\n ➡️A1270 de Artemisa manipulado\n\n 👉 Tenemos un afectación de 149 MW",
-    "timestamp": 1789140631,
-    "timestamp_local": 1789140631
-  },
-  {
-    "id": 38996,
-    "fecha": "11 de Sep del 2026 a las 07:26 AM",
-    "hora_utc": "2026-09-11 11:26",
-    "mensaje": "📌  Circuitos afectados por déficit de generación en la provincia : \n\n➡️3220 (manipulado ) \n➡️Junco \n➡️Candelaria \n➡️Soroa \n➡️Fca de Pienso , Alquízar 4000 , Palmar ,Alquitex (pueblo ) \n➡️Beliert \n➡️Guanajay 4000 \n➡️Cabaña \n➡️S-20 ,4 Caminos,Martí San Cristóbal \n➡️246, BH 342 ,236 Bahía \n➡️A 1270 Artemisa \n\n👉 Nos encontramos con una afectación de 149 MW",
-    "timestamp": 1789125969,
-    "timestamp_local": 1789125969
-  },
-  {
-    "id": 38995,
-    "fecha": "11 de Sep del 2026 a las 05:33 AM",
-    "hora_utc": "2026-09-11 09:33",
-    "mensaje": "➡️ Tenemos una afectación en estos momentos de 160 MW",
-    "timestamp": 1789119215,
-    "timestamp_local": 1789119215
-  },
-  {
-    "id": 38994,
-    "fecha": "10 de Sep del 2026 a las 09:49 PM",
-    "hora_utc": "2026-09-11 01:49",
-    "mensaje": "📌  Se encuentra restablecido el disparo por las líneas HB 101 y HB 102",
-    "timestamp": 1789091345,
-    "timestamp_local": 1789091345
-  },
-  {
-    "id": 38993,
-    "fecha": "10 de Sep del 2026 a las 08:07 PM",
-    "hora_utc": "2026-09-11 00:07",
-    "mensaje": "🚨  Informamos a nuestros clientes la afectación al servicio eléctrico  por disparo en las líneas HB 101 y HB 102 , esto afecta a los siguientes circuitos de la provincia : \n\n➡️1940\n➡️3220 \n➡️5040 \n➡️1424 \n➡️5050\n\n 👉  Ofrecemos disculpas por las molestias  ocacionadas.",
-    "timestamp": 1789085237,
-    "timestamp_local": 1789085237
-  },
-  {
-    "id": 38992,
-    "fecha": "10 de Sep del 2026 a las 07:25 PM",
-    "hora_utc": "2026-09-10 23:25",
-    "mensaje": "🚨 Actualización de los circuitos afectados por déficit de generación en estos momentos en la provincia : \n\n➡️3220 (manipulado ) \n➡️Fca de Carretas (pueblo ),Guira 13000,4000\n ➡️5040 \n➡️Playa Baracoa , Baracoa 3 , Bauta Vieja \n➡️BH 342 , 236 , 246 (manipulado ) Bahía \n➡️341 , S-20 , 4 Caminos , Martí S-340 San Cristóbal \n➡️Mármol , Entronque Zaya , Cayo Lenin \n➡️Cabaña (manipulado ) ,Quiebra Hacha \n➡️Guanajay 4000 ,Beliert , Cárcel \n➡️San Gabriel , Capricho \n➡️1580 Alquízar\n ➡️1570 , A 1270 Artemisa\n ➡️Candelaria , Soroa \n➡️Plátano\n\n 👉 Tenemos un afectación de 187 MW",
-    "timestamp": 1789082714,
-    "timestamp_local": 1789082714
   }
 ]
