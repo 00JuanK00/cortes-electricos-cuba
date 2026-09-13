@@ -1,5 +1,101 @@
 [
   {
+    "id": 121601,
+    "fecha": "13 de Sep del 2026 a las 04:55 PM",
+    "hora_utc": "2026-09-13 20:55",
+    "mensaje": "🚨Por déficit de capacidad de generación se afecta el servicio en el siguiente circuito :\n*Río Seco 🚨",
+    "timestamp": 1789332942,
+    "timestamp_local": 1789332942
+  },
+  {
+    "id": 121600,
+    "fecha": "13 de Sep del 2026 a las 04:35 PM",
+    "hora_utc": "2026-09-13 20:35",
+    "mensaje": "🚨Por déficit de capacidad de generación se afecta el servicio en el siguiente circuito :\n*Madruga 🚨",
+    "timestamp": 1789331748,
+    "timestamp_local": 1789331748
+  },
+  {
+    "id": 121599,
+    "fecha": "13 de Sep del 2026 a las 04:28 PM",
+    "hora_utc": "2026-09-13 20:28",
+    "mensaje": "🚨Por déficit de capacidad de generación se afecta el servicio en el siguiente circuito :\n*Jaruco 1 🚨",
+    "timestamp": 1789331289,
+    "timestamp_local": 1789331289
+  },
+  {
+    "id": 121598,
+    "fecha": "13 de Sep del 2026 a las 04:26 PM",
+    "hora_utc": "2026-09-13 20:26",
+    "mensaje": "🚨Por déficit de capacidad de generación se afecta el servicio en los siguientes circuitos :\n*Catalina 1 y 2 🚨",
+    "timestamp": 1789331174,
+    "timestamp_local": 1789331174
+  },
+  {
+    "id": 121597,
+    "fecha": "13 de Sep del 2026 a las 04:24 PM",
+    "hora_utc": "2026-09-13 20:24",
+    "mensaje": "🚨Por déficit de capacidad de generación se afecta el servicio en el siguiente circuito :\n*San Nicolás 1 🚨",
+    "timestamp": 1789331055,
+    "timestamp_local": 1789331055
+  },
+  {
+    "id": 121596,
+    "fecha": "13 de Sep del 2026 a las 04:16 PM",
+    "hora_utc": "2026-09-13 20:16",
+    "mensaje": "🚨Por déficit de capacidad de generación se afecta el servicio en el siguiente circuito :\n*San Nicolás 3 🚨",
+    "timestamp": 1789330614,
+    "timestamp_local": 1789330614
+  },
+  {
+    "id": 121595,
+    "fecha": "13 de Sep del 2026 a las 04:11 PM",
+    "hora_utc": "2026-09-13 20:11",
+    "mensaje": "🚨Por déficit de capacidad de generación se afecta el servicio en el siguiente circuito :\n*Güines 4 🚨",
+    "timestamp": 1789330309,
+    "timestamp_local": 1789330309
+  },
+  {
+    "id": 121594,
+    "fecha": "13 de Sep del 2026 a las 04:11 PM",
+    "hora_utc": "2026-09-13 20:11",
+    "mensaje": "🟢15:52 || En línea la Unidad 6 de la CTE de Renté. Subiendo carga.",
+    "timestamp": 1789330298,
+    "timestamp_local": 1789330298
+  },
+  {
+    "id": 121593,
+    "fecha": "13 de Sep del 2026 a las 04:08 PM",
+    "hora_utc": "2026-09-13 20:08",
+    "mensaje": "🚨Por déficit de capacidad de generación se afecta el servicio en el siguiente circuito :\n*Caamaño 🚨",
+    "timestamp": 1789330090,
+    "timestamp_local": 1789330090
+  },
+  {
+    "id": 121592,
+    "fecha": "13 de Sep del 2026 a las 04:05 PM",
+    "hora_utc": "2026-09-13 20:05",
+    "mensaje": "🚨Por déficit de capacidad de generación se afecta el servicio en el siguiente circuito :\n*Güines 1 🚨",
+    "timestamp": 1789329930,
+    "timestamp_local": 1789329930
+  },
+  {
+    "id": 121591,
+    "fecha": "13 de Sep del 2026 a las 03:37 PM",
+    "hora_utc": "2026-09-13 19:37",
+    "mensaje": "🚨Por déficit de capacidad de generación se afecta el servicio en el siguiente circuito :\n*Palomo 🚨",
+    "timestamp": 1789328260,
+    "timestamp_local": 1789328260
+  },
+  {
+    "id": 121590,
+    "fecha": "13 de Sep del 2026 a las 03:34 PM",
+    "hora_utc": "2026-09-13 19:34",
+    "mensaje": "♦️ Informamos a los clientes de los circuitos 6 y 8 de San José que se encuentran afectados por manipulación ♦️",
+    "timestamp": 1789328063,
+    "timestamp_local": 1789328063
+  },
+  {
     "id": 121589,
     "fecha": "13 de Sep del 2026 a las 02:34 PM",
     "hora_utc": "2026-09-13 18:34",
@@ -19,7 +115,7 @@
     "id": 121587,
     "fecha": "13 de Sep del 2026 a las 01:29 PM",
     "hora_utc": "2026-09-13 17:29",
-    "mensaje": "🔷 Solucionada la avería en el circuito de CTO quedando afectado Menocal y zonas aledañas ♦️",
+    "mensaje": "🔷 Solucionada la avería en el circuito de CTO 🔷\n♦️ Quedando afectado:\n *Menocal y zonas aledañas \n*Finca San Ramón\n*Vaquería 39 ♦️",
     "timestamp": 1789320589,
     "timestamp_local": 1789320589
   },
@@ -62,101 +158,5 @@
     "mensaje": "⚡|¿Por qué en una zona donde había un transformador ahora puede haber dos? \n\nLa respuesta está en los estudios de carga. 📊\nA medida que aumenta el consumo eléctrico de una zona, un solo transformador puede resultar insuficiente y trabajar por encima de su capacidad. \n\n👉 Ejemplo:\nSi una zona tenía un transformador de 50 kVA y la demanda creció hasta el punto de sobrecargarlo, el estudio de carga puede indicar la necesidad de instalar dos transformadores de 37 kVA.\nAsí, en una misma posición de transformador pueden instalarse dos equipos, distribuyendo mejor la carga y evitando la sobrecarga de un solo transformador. \n\n#Mayabeque",
     "timestamp": 1789308410,
     "timestamp_local": 1789308410
-  },
-  {
-    "id": 121581,
-    "fecha": "13 de Sep del 2026 a las 09:20 AM",
-    "hora_utc": "2026-09-13 13:20",
-    "mensaje": "♦️ Informamos a los clientes del circuito de Somorrostro que se encuentran afectados por manipulación ♦️",
-    "timestamp": 1789305621,
-    "timestamp_local": 1789305621
-  },
-  {
-    "id": 121580,
-    "fecha": "13 de Sep del 2026 a las 09:18 AM",
-    "hora_utc": "2026-09-13 13:18",
-    "mensaje": "♦️ Informamos a los clientes de las siguientes zonas y circuitos que continúan afectados por avería:\n\n👉San Francisco\n*Tumba 4\n*Zonas aledañas\n\n👉 CTO y Menocal\n\n👉 Villa Trópico\n*Campismo La Laguna\n*Bombeo El Abra\n\n👉Camilo\n*Barrio Obrero\n*La Sierra\n\n👉Magela\n*La Clarita\n\n👉 Catalina 2\n*Vaquería 39\n*Turbina Vista del Río\n*Recría Pecuaria El Cangre\n\n👉 Caamaño\n*IPVC República de Hungría\n*Peniche\n*Zonas aledañas \n\n👉Melena 1 ♦️",
-    "timestamp": 1789305532,
-    "timestamp_local": 1789305532
-  },
-  {
-    "id": 121579,
-    "fecha": "13 de Sep del 2026 a las 09:08 AM",
-    "hora_utc": "2026-09-13 13:08",
-    "mensaje": "♦️ Informamos a los clientes del circuito Sub Petróleo que se encuentran afectados por disparo en las líneas♦️",
-    "timestamp": 1789304929,
-    "timestamp_local": 1789304929
-  },
-  {
-    "id": 121578,
-    "fecha": "13 de Sep del 2026 a las 08:53 AM",
-    "hora_utc": "2026-09-13 12:53",
-    "mensaje": "🔷 Solucionada la avería en el circuito de Camacho 1 y 2 🔷",
-    "timestamp": 1789304039,
-    "timestamp_local": 1789304039
-  },
-  {
-    "id": 121577,
-    "fecha": "13 de Sep del 2026 a las 08:53 AM",
-    "hora_utc": "2026-09-13 12:53",
-    "mensaje": "♦️ Informamos a los clientes del circuito de Melena 1 q se encuentran afectados por avería ♦️",
-    "timestamp": 1789304007,
-    "timestamp_local": 1789304007
-  },
-  {
-    "id": 121576,
-    "fecha": "13 de Sep del 2026 a las 08:14 AM",
-    "hora_utc": "2026-09-13 12:14",
-    "mensaje": "♦️ Informamos a los clientes del circuito de Camacho 1 y 2 q se encuentran afectados por avería ♦️",
-    "timestamp": 1789301671,
-    "timestamp_local": 1789301671
-  },
-  {
-    "id": 121575,
-    "fecha": "13 de Sep del 2026 a las 07:05 AM",
-    "hora_utc": "2026-09-13 11:05",
-    "mensaje": "🚨| La Empresa Eléctrica Mayabeque informa que se presenta inconvenientes con el servidor de red, por tal motivo el número de base 1️⃣ 8️⃣8️⃣8️⃣8️⃣ se encuentra fuera de servicio.\n\n👉 Ante cualquier afectación en el servicio, debe comunicarse a través de nuestros números alternativos.",
-    "timestamp": 1789297503,
-    "timestamp_local": 1789297503
-  },
-  {
-    "id": 121574,
-    "fecha": "13 de Sep del 2026 a las 06:39 AM",
-    "hora_utc": "2026-09-13 10:39",
-    "mensaje": "🚨Por déficit de capacidad de generación se afecta el servicio en el siguiente circuito :\n*Héctor Molina 🚨",
-    "timestamp": 1789295999,
-    "timestamp_local": 1789295999
-  },
-  {
-    "id": 121573,
-    "fecha": "13 de Sep del 2026 a las 06:27 AM",
-    "hora_utc": "2026-09-13 10:27",
-    "mensaje": "🚨Por déficit de capacidad de generación se afecta el servicio en el siguiente circuito :\n*Fénix 🚨",
-    "timestamp": 1789295265,
-    "timestamp_local": 1789295265
-  },
-  {
-    "id": 121572,
-    "fecha": "13 de Sep del 2026 a las 06:20 AM",
-    "hora_utc": "2026-09-13 10:20",
-    "mensaje": "🚨Por déficit de capacidad de generación se afecta el servicio en el siguiente circuito :\n*Bío 1 🚨",
-    "timestamp": 1789294839,
-    "timestamp_local": 1789294839
-  },
-  {
-    "id": 121571,
-    "fecha": "13 de Sep del 2026 a las 03:42 AM",
-    "hora_utc": "2026-09-13 07:42",
-    "mensaje": "🚨Por déficit de capacidad de generación se afecta el servicio en el siguiente circuito :\n*Catalina 1 🚨",
-    "timestamp": 1789285357,
-    "timestamp_local": 1789285357
-  },
-  {
-    "id": 121570,
-    "fecha": "13 de Sep del 2026 a las 02:05 AM",
-    "hora_utc": "2026-09-13 06:05",
-    "mensaje": "🚨Por déficit de capacidad de generación se afecta el servicio en el siguiente circuito :\n*Vega🚨",
-    "timestamp": 1789279546,
-    "timestamp_local": 1789279546
   }
 ]

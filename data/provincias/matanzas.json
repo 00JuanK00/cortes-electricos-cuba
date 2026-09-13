@@ -1,5 +1,53 @@
 [
   {
+    "id": 38728,
+    "fecha": "13 de Sep del 2026 a las 04:49 PM",
+    "hora_utc": "2026-09-13 20:49",
+    "mensaje": "⚠️Se comunica a nuestros clientes que se encuentra en avería  el circuito MU4950 se afectan 927 clientes.\n\n• Se trabaja activamente para solucionar la afectación👷",
+    "timestamp": 1789332590,
+    "timestamp_local": 1789332590
+  },
+  {
+    "id": 38727,
+    "fecha": "13 de Sep del 2026 a las 04:24 PM",
+    "hora_utc": "2026-09-13 20:24",
+    "mensaje": "⚡En estos momentos tenemos afectados 140 MW en la provincia por déficit de capacidad de generación.⚡",
+    "timestamp": 1789331083,
+    "timestamp_local": 1789331083
+  },
+  {
+    "id": 38726,
+    "fecha": "13 de Sep del 2026 a las 04:24 PM",
+    "hora_utc": "2026-09-13 20:24",
+    "mensaje": "🟢15:52 || En línea la Unidad 6 de la CTE de Renté. Subiendo carga.",
+    "timestamp": 1789331048,
+    "timestamp_local": 1789331048
+  },
+  {
+    "id": 38725,
+    "fecha": "13 de Sep del 2026 a las 04:23 PM",
+    "hora_utc": "2026-09-13 20:23",
+    "mensaje": "CON SERVICIO ✅\n\n🔌 Circuito MJ 662 que da servicio a Gelpys-Frutas Selectas.\nCircuito 4071 que da servicio a Cítrico, La Carlota e Isabel.\n🔌 Circuito 4072 que da servicio al pueblo de Agramonte mediante el enlace con Yaguaramas.\n🔌Circuito 4073 Batey Luisa, Peralta, San Carlos, Poblado San José de Marcos. \n🔌Circuito 1387 que da servicio a caserío Niña Bonita, Fábrica de Mosaico, Finca La Victoria, Rebombeo de la Bellotex, Finca el Bolo, Somatón, Almacenes del CIMEX, Prisión de mujeres, Las Marías, Bombeo de Guanábana, caserío La Conga.",
+    "timestamp": 1789331035,
+    "timestamp_local": 1789331035
+  },
+  {
+    "id": 38724,
+    "fecha": "13 de Sep del 2026 a las 03:20 PM",
+    "hora_utc": "2026-09-13 19:20",
+    "mensaje": "CON SERVICIO ✅\n\n🔌 Circuito4220 que da servicio a Fines, Coliseo, Lagunilla, Ponce, Picadora A Maceo ,San Miguel.\n🔌 Circuito 4935 que da servicio a San Pedro, Los Arabos, Colón Este, Central Méjico y Mario Muñoz.** **\n**🔌 Circuito 4480 que da servicio a Jagüey circuitos 1 y 2.**",
+    "timestamp": 1789327237,
+    "timestamp_local": 1789327237
+  },
+  {
+    "id": 38723,
+    "fecha": "13 de Sep del 2026 a las 03:18 PM",
+    "hora_utc": "2026-09-13 19:18",
+    "mensaje": "⚡En estos momentos tenemos afectados 128 MW en la provincia por déficit de capacidad de generación.⚡",
+    "timestamp": 1789327084,
+    "timestamp_local": 1789327084
+  },
+  {
     "id": 38722,
     "fecha": "13 de Sep del 2026 a las 02:22 PM",
     "hora_utc": "2026-09-13 18:22",
@@ -110,53 +158,5 @@
     "mensaje": "⚡En este momento tenemos afectados por déficit de capacidad de generación 126 MW. ⚡",
     "timestamp": 1789297872,
     "timestamp_local": 1789297872
-  },
-  {
-    "id": 38705,
-    "fecha": "13 de Sep del 2026 a las 05:56 AM",
-    "hora_utc": "2026-09-13 09:56",
-    "mensaje": "⚡Déficit de capacidad de generación en la provincia: 135 MW. ⚡",
-    "timestamp": 1789293382,
-    "timestamp_local": 1789293382
-  },
-  {
-    "id": 38704,
-    "fecha": "13 de Sep del 2026 a las 03:39 AM",
-    "hora_utc": "2026-09-13 07:39",
-    "mensaje": "⚡En este momento tenemos afectados por déficit de capacidad de generación 139 MW. ⚡",
-    "timestamp": 1789285143,
-    "timestamp_local": 1789285143
-  },
-  {
-    "id": 38703,
-    "fecha": "13 de Sep del 2026 a las 12:29 AM",
-    "hora_utc": "2026-09-13 04:29",
-    "mensaje": "⚡Déficit de capacidad de generación en la provincia: 158 MW. ⚡\n📢 A medida que las condiciones del sistema lo permitan, se irán restableciendo de forma gradual los circuitos que han tenido más tiempo de afectación.",
-    "timestamp": 1789273799,
-    "timestamp_local": 1789273799
-  },
-  {
-    "id": 38702,
-    "fecha": "12 de Sep del 2026 a las 11:02 PM",
-    "hora_utc": "2026-09-13 03:02",
-    "mensaje": "⚡Déficit de capacidad de generación en la provincia: 165 MW. ⚡",
-    "timestamp": 1789268531,
-    "timestamp_local": 1789268531
-  },
-  {
-    "id": 38701,
-    "fecha": "12 de Sep del 2026 a las 09:00 PM",
-    "hora_utc": "2026-09-13 01:00",
-    "mensaje": "En este momento tenemos afectados por déficit de capacidad de generación 179 MW.",
-    "timestamp": 1789261201,
-    "timestamp_local": 1789261201
-  },
-  {
-    "id": 38700,
-    "fecha": "12 de Sep del 2026 a las 07:57 PM",
-    "hora_utc": "2026-09-12 23:57",
-    "mensaje": "⚡Déficit de capacidad de generación en la provincia: 163 MW. ⚡",
-    "timestamp": 1789257424,
-    "timestamp_local": 1789257424
   }
 ]
