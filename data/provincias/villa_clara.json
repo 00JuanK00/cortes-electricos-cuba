@@ -1,5 +1,85 @@
 [
   {
+    "id": 57274,
+    "fecha": "15 de Sep del 2026 a las 08:23 PM",
+    "hora_utc": "2026-09-16 00:23",
+    "mensaje": "➡️Los disparos de circuito tienen diferentes aristas todas con distintos significados, es decir que ocurren por varias causas. Entre ellas encontramos:\n\n👉-Disparo de Circuito con Recierre: El conocido por los clientes como “quita y pon de corriente” es un tipo de protección utilizada mundialmente a partir del 80% aproximadamente de las interrupciones eléctricas son transitorias. Este fenómeno lo hace una sola vez ante un evento de red y no es dañino para para nuestros equipos electrodomésticos.\n\n👉- Disparo Automático por Frecuencia (DAF): El disparo por DAF ocurre cuando la frecuencia llega a valores mínimos permisibles que ponen en peligro la estabilidad del mismo y como protección desconecta varios circuitos de la Capital. Los mismo restablecen a medida que se vaya recuperando la frecuencia que tiene un valor de 60hz o ciclos por segundo.\n\n👉-Disparo de Circuito por Sobrecarga: Este ocurre mayormente en los horarios pico y en verano, ya que las altas temperaturas generan elevados consumos en la población y como consecuencia de ello fallas en los circuitos.\n\n👉-Disparo de Circuito por Posible Avería: Este fenómeno ocurre cuando existe una falla en algún circuito, ya sea soterrado, aéreo o en una subestación. Estas, a pesar de que son mucho más frecuentes cuando existe algún evento climatológico, pueden ocurrir en cualquier momento del día o la noche, ya que son situaciones que no cuentan con programación.",
+    "timestamp": 1789518198,
+    "timestamp_local": 1789518198
+  },
+  {
+    "id": 57272,
+    "fecha": "15 de Sep del 2026 a las 08:22 PM",
+    "hora_utc": "2026-09-16 00:22",
+    "mensaje": "🛠️Afectado por disparo el circuito 3 Consejo-Centro, del municipio Santa Clara. Se estudian las causas.",
+    "timestamp": 1789518149,
+    "timestamp_local": 1789518149
+  },
+  {
+    "id": 57271,
+    "fecha": "15 de Sep del 2026 a las 08:19 PM",
+    "hora_utc": "2026-09-16 00:19",
+    "mensaje": "💡Con servicio eléctrico el siguiente circuito:\n🔹Municipio Santa Clara:\n👉Cto 131 Las Antillas",
+    "timestamp": 1789517946,
+    "timestamp_local": 1789517946
+  },
+  {
+    "id": 57270,
+    "fecha": "15 de Sep del 2026 a las 08:04 PM",
+    "hora_utc": "2026-09-16 00:04",
+    "mensaje": "💡Con servicio eléctrico el siguiente circuito:\n🔹Municipio Santa Clara:\n👉Cto 3 Consejo-Centro",
+    "timestamp": 1789517069,
+    "timestamp_local": 1789517069
+  },
+  {
+    "id": 57269,
+    "fecha": "15 de Sep del 2026 a las 08:01 PM",
+    "hora_utc": "2026-09-16 00:01",
+    "mensaje": "Actualización del servicio eléctrico en la provincia.\n👉En este momento la afectación por déficit de capacidad de generación es de 214 MW, demanda máxima posible a apagar en estos momentos.\n👉De los circuitos apagables se mantienen afectados 141.\n👉Cuenta con 450 afectaciones por averías secundarias y de servicio.",
+    "timestamp": 1789516883,
+    "timestamp_local": 1789516883
+  },
+  {
+    "id": 57268,
+    "fecha": "15 de Sep del 2026 a las 07:54 PM",
+    "hora_utc": "2026-09-15 23:54",
+    "mensaje": "⚠️Afectado el servicio eléctrico en los siguientes circuitos:\n🔹Municipio Santa Clara:\n👉Cto 16 Cubanacán \n👉Ctos 23 y 130 La Ceniza\n👉Cto 42 Manajanabo\n🔹Municipio Placetas\n👉Cto 139 Miller\n👉Cto 190 Oliver",
+    "timestamp": 1789516485,
+    "timestamp_local": 1789516485
+  },
+  {
+    "id": 57267,
+    "fecha": "15 de Sep del 2026 a las 07:30 PM",
+    "hora_utc": "2026-09-15 23:30",
+    "mensaje": "⚡Afectado el circuito 167 Virginia, del municipio Santa Clara, por cable primario partido.",
+    "timestamp": 1789515021,
+    "timestamp_local": 1789515021
+  },
+  {
+    "id": 57266,
+    "fecha": "15 de Sep del 2026 a las 07:10 PM",
+    "hora_utc": "2026-09-15 23:10",
+    "mensaje": "💡Con servicio eléctrico el siguiente circuito:\n🔹Municipio Santa Clara:\n👉Cto 168 Condado - XX Aniversario",
+    "timestamp": 1789513803,
+    "timestamp_local": 1789513803
+  },
+  {
+    "id": 57265,
+    "fecha": "15 de Sep del 2026 a las 07:04 PM",
+    "hora_utc": "2026-09-15 23:04",
+    "mensaje": "🛠️Afectado por disparo al momento de restablecerse el circuito 167 Virginia, del municipio Santa Clara. Se estudian las causas.",
+    "timestamp": 1789513495,
+    "timestamp_local": 1789513495
+  },
+  {
+    "id": 57264,
+    "fecha": "15 de Sep del 2026 a las 07:02 PM",
+    "hora_utc": "2026-09-15 23:02",
+    "mensaje": "🛠️Afectado por manipulación el siguiente circuito:\n🔹Municipio Santa Clara:\n👉Cto 168 Condado- XX Aniversario",
+    "timestamp": 1789513320,
+    "timestamp_local": 1789513320
+  },
+  {
     "id": 57263,
     "fecha": "15 de Sep del 2026 a las 06:13 PM",
     "hora_utc": "2026-09-15 22:13",
@@ -70,93 +150,5 @@
     "mensaje": "⚠️Afectado el servicio eléctrico en el siguiente circuito:\n🔹Municipio Manicaragua:\n👉Cto 111 Mataguá",
     "timestamp": 1789507272,
     "timestamp_local": 1789507272
-  },
-  {
-    "id": 57254,
-    "fecha": "15 de Sep del 2026 a las 05:18 PM",
-    "hora_utc": "2026-09-15 21:18",
-    "mensaje": "⚠️Afectado el servicio eléctrico en el siguiente circuito:\n🔹Municipio Santa Clara:\n👉Cto 13 Zona Industrial",
-    "timestamp": 1789507134,
-    "timestamp_local": 1789507134
-  },
-  {
-    "id": 57253,
-    "fecha": "15 de Sep del 2026 a las 05:16 PM",
-    "hora_utc": "2026-09-15 21:16",
-    "mensaje": "💡Con servicio eléctrico el siguiente circuito:\n🔹Municipio Santa Clara:\n👉Cto 168 Condado - XX Aniversario",
-    "timestamp": 1789507004,
-    "timestamp_local": 1789507004
-  },
-  {
-    "id": 57252,
-    "fecha": "15 de Sep del 2026 a las 05:15 PM",
-    "hora_utc": "2026-09-15 21:15",
-    "mensaje": "⚠️Afectado el servicio eléctrico en los siguientes circuitos:\n🔹Municipio Remedios:\n👉Ctos 67 y 152",
-    "timestamp": 1789506957,
-    "timestamp_local": 1789506957
-  },
-  {
-    "id": 57251,
-    "fecha": "15 de Sep del 2026 a las 05:09 PM",
-    "hora_utc": "2026-09-15 21:09",
-    "mensaje": "⚠️Afectado el servicio eléctrico en los siguientes circuitos:\n🔹Municipio Camajuaní:\n👉Ctos 72 y 129",
-    "timestamp": 1789506573,
-    "timestamp_local": 1789506573
-  },
-  {
-    "id": 57250,
-    "fecha": "15 de Sep del 2026 a las 05:05 PM",
-    "hora_utc": "2026-09-15 21:05",
-    "mensaje": "⚠️Afectado el servicio eléctrico en los siguientes circuitos:\n🔹Municipio Santa Clara:\n👉Cto 191 Quemado de Hilario\n🔹Municipio Ranchuelo:\n👉Cto 92 Esperanza (Pueblo)\n👉Cto 93 Esperanza (Campo)\n🔹Municipio Santo Domingo:\n👉Cto 79 \n👉Cto 81 26 de Julio\n👉Cto 163 Batey 26 de Julio\n🔹Municipio Ranchuelo:\n👉Ctos 54, 94 y 95 Jicotea",
-    "timestamp": 1789506300,
-    "timestamp_local": 1789506300
-  },
-  {
-    "id": 57249,
-    "fecha": "15 de Sep del 2026 a las 04:51 PM",
-    "hora_utc": "2026-09-15 20:51",
-    "mensaje": "⚠️Afectado el servicio eléctrico en los siguientes circuitos:\n🔹Municipio Ranchuelo: \n👉Ctos 188 , 97 y 189\n👉Cto 181 Batey Ifraín Alfonso",
-    "timestamp": 1789505500,
-    "timestamp_local": 1789505500
-  },
-  {
-    "id": 57248,
-    "fecha": "15 de Sep del 2026 a las 04:27 PM",
-    "hora_utc": "2026-09-15 20:27",
-    "mensaje": "💡Con servicio eléctrico el siguiente circuito:\n🔹Municipio Santa Clara:\n👉Cto 166 Condado",
-    "timestamp": 1789504027,
-    "timestamp_local": 1789504027
-  },
-  {
-    "id": 57247,
-    "fecha": "15 de Sep del 2026 a las 04:26 PM",
-    "hora_utc": "2026-09-15 20:26",
-    "mensaje": "⚠️Afectado el servicio eléctrico en los siguientes circuitos:\n🔹Municipio Cifuentes:\n👉Ctos 114 y 117\n👉Ctos 116 y 155 Mata\n👉Cto 186 Batey Unidad Proletaria\n👉Cto 184 Sitio Grande\n🔹Municipio Santa Clara:\n👉Cto 170 José Martí",
-    "timestamp": 1789504003,
-    "timestamp_local": 1789504003
-  },
-  {
-    "id": 57246,
-    "fecha": "15 de Sep del 2026 a las 04:22 PM",
-    "hora_utc": "2026-09-15 20:22",
-    "mensaje": "⚠️Afectado el servicio eléctrico en los siguientes circuitos:\n🔹Municipio Quemado:\n👉 Cto 196 Batey Panchito Gómez Toro\n🔹Municipio Corralillo:\n👉Cto 57 Motembo \n👉Cto 56 Yabre\n👉Cto 55 Rancho Veloz",
-    "timestamp": 1789503773,
-    "timestamp_local": 1789503773
-  },
-  {
-    "id": 57245,
-    "fecha": "15 de Sep del 2026 a las 04:16 PM",
-    "hora_utc": "2026-09-15 20:16",
-    "mensaje": "⚠️Afectado el servicio eléctrico en los siguientes circuitos:\n🔹Municipio Santa Clara:\n👉Ctos 1, 4 y 3 Consejo - Centro",
-    "timestamp": 1789503391,
-    "timestamp_local": 1789503391
-  },
-  {
-    "id": 57244,
-    "fecha": "15 de Sep del 2026 a las 04:11 PM",
-    "hora_utc": "2026-09-15 20:11",
-    "mensaje": "⚠️Afectado el servicio eléctrico en los siguientes circuitos:\n🔹Municipio Caibarién:\n👉Ctos 61 y 62",
-    "timestamp": 1789503118,
-    "timestamp_local": 1789503118
   }
 ]
