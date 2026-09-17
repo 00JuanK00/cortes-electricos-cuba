@@ -1,5 +1,77 @@
 [
   {
+    "id": 121869,
+    "fecha": "17 de Sep del 2026 a las 05:52 PM",
+    "hora_utc": "2026-09-17 21:52",
+    "mensaje": "🔷 Culminada la Vía Libre en las siguientes zonas:\n*Gran Panel 70\n*Gobierno Provincial\n*La Cantera de la FAR\n*Loma de Chávez\n*Somarriba 🔷",
+    "timestamp": 1789681947,
+    "timestamp_local": 1789681947
+  },
+  {
+    "id": 121868,
+    "fecha": "17 de Sep del 2026 a las 05:34 PM",
+    "hora_utc": "2026-09-17 21:34",
+    "mensaje": "♦️ Informamos a los clientes de las siguientes zonas correspondientes al circuito de Menocal continúan afectados por avería:\n\n*Taller UBPC Hermanos Gómez\n*Base Radar ♦️",
+    "timestamp": 1789680849,
+    "timestamp_local": 1789680849
+  },
+  {
+    "id": 121867,
+    "fecha": "17 de Sep del 2026 a las 05:32 PM",
+    "hora_utc": "2026-09-17 21:32",
+    "mensaje": "🚨Por déficit de capacidad de generación se afecta el servicio en los siguientes circuitos:\n*Güines 2\n*Güines 4 🚨",
+    "timestamp": 1789680744,
+    "timestamp_local": 1789680744
+  },
+  {
+    "id": 121866,
+    "fecha": "17 de Sep del 2026 a las 05:25 PM",
+    "hora_utc": "2026-09-17 21:25",
+    "mensaje": "🚨Por déficit de capacidad de generación se afecta el servicio en el siguiente circuito:\n*8 de San José 🚨",
+    "timestamp": 1789680301,
+    "timestamp_local": 1789680301
+  },
+  {
+    "id": 121865,
+    "fecha": "17 de Sep del 2026 a las 05:20 PM",
+    "hora_utc": "2026-09-17 21:20",
+    "mensaje": "🚨Por déficit de capacidad de generación se afecta el servicio en el siguiente circuito:\n*Palomo🚨",
+    "timestamp": 1789680058,
+    "timestamp_local": 1789680058
+  },
+  {
+    "id": 121864,
+    "fecha": "17 de Sep del 2026 a las 05:17 PM",
+    "hora_utc": "2026-09-17 21:17",
+    "mensaje": "🚨Por déficit de capacidad de generación se afecta el servicio en el siguiente circuito:\n*2420 🚨",
+    "timestamp": 1789679859,
+    "timestamp_local": 1789679859
+  },
+  {
+    "id": 121863,
+    "fecha": "17 de Sep del 2026 a las 04:40 PM",
+    "hora_utc": "2026-09-17 20:40",
+    "mensaje": "♦️ Informamos a los clientes del circuito 2495 que se encuentran afectados por disparo en las líneas♦️",
+    "timestamp": 1789677643,
+    "timestamp_local": 1789677643
+  },
+  {
+    "id": 121862,
+    "fecha": "17 de Sep del 2026 a las 03:54 PM",
+    "hora_utc": "2026-09-17 19:54",
+    "mensaje": "🚨Por déficit de capacidad de generación se afecta el servicio en el siguiente circuito:\n*San Nicolás 3 🚨",
+    "timestamp": 1789674868,
+    "timestamp_local": 1789674868
+  },
+  {
+    "id": 121861,
+    "fecha": "17 de Sep del 2026 a las 03:54 PM",
+    "hora_utc": "2026-09-17 19:54",
+    "mensaje": "🧏🏻‍♂️| Transformadores y posiciones de transformadores ¿Cuáles son sus diferencias?",
+    "timestamp": 1789674867,
+    "timestamp_local": 1789674867
+  },
+  {
     "id": 121860,
     "fecha": "17 de Sep del 2026 a las 02:11 PM",
     "hora_utc": "2026-09-17 18:11",
@@ -86,61 +158,5 @@
     "mensaje": "🚨Por déficit de capacidad de generación se afecta el servicio en el siguiente circuito:\n*Nueva Paz 1 🚨",
     "timestamp": 1789661868,
     "timestamp_local": 1789661868
-  },
-  {
-    "id": 121849,
-    "fecha": "17 de Sep del 2026 a las 12:17 PM",
-    "hora_utc": "2026-09-17 16:17",
-    "mensaje": "🚨Por déficit de capacidad de generación se afecta el servicio en el siguiente circuito:\n*Quivicán 🚨",
-    "timestamp": 1789661868,
-    "timestamp_local": 1789661868
-  },
-  {
-    "id": 121848,
-    "fecha": "17 de Sep del 2026 a las 12:17 PM",
-    "hora_utc": "2026-09-17 16:17",
-    "mensaje": "🚨Por déficit de capacidad de generación se afecta el servicio en el siguiente circuito:\n*Bío 1🚨",
-    "timestamp": 1789661868,
-    "timestamp_local": 1789661868
-  },
-  {
-    "id": 121847,
-    "fecha": "17 de Sep del 2026 a las 11:57 AM",
-    "hora_utc": "2026-09-17 15:57",
-    "mensaje": "🚨Por déficit de capacidad de generación se afecta el servicio en el siguiente circuito:\n*2 de San José 🚨",
-    "timestamp": 1789660663,
-    "timestamp_local": 1789660663
-  },
-  {
-    "id": 121846,
-    "fecha": "17 de Sep del 2026 a las 11:19 AM",
-    "hora_utc": "2026-09-17 15:19",
-    "mensaje": "⚡|¿Por qué en una zona donde había un transformador ahora puede haber dos? \n\nLa respuesta está en los estudios de carga. 📊\nA medida que aumenta el consumo eléctrico de una zona, un solo transformador puede resultar insuficiente y trabajar por encima de su capacidad. \n\n👉 Ejemplo:\nSi una zona tenía un transformador de 50 kVA y la demanda creció hasta el punto de sobrecargarlo, el estudio de carga puede indicar la necesidad de instalar dos transformadores de 37 kVA.\nAsí, en una misma posición de transformador pueden instalarse dos equipos, distribuyendo mejor la carga y evitando la sobrecarga de un solo transformador. \n\n#Mayabeque",
-    "timestamp": 1789658358,
-    "timestamp_local": 1789658358
-  },
-  {
-    "id": 121845,
-    "fecha": "17 de Sep del 2026 a las 11:09 AM",
-    "hora_utc": "2026-09-17 15:09",
-    "mensaje": "🚨 Actualización  en nuestra provincia Mayabeque 🚨\n\nSe informa a nuestros clientes que hoy día 17/09/2026 el  sistema registra un total de  __135____ interrupciones ,reflejadas así por municipios:\n\n. Batabanó: 13\n. Bejucal: 10\n. Güines: 31\n. Jaruco: 4\n. Madruga: 11\n. Melena: 4\n. Nueva Paz: 2 \n. Quivicán: 7\n. San José de las Lajas: 33\n. San Nicolás: 2\n. Santa Cruz : 18\n\n♦️ La provincia tiene un total de 116 transformadores dañados, reflejados así por municipios:\n\n. Batabanó: 3\n. Bejucal: 11\n. Güines: 23\n. Jaruco: 7\n. Madruga: 4\n. Melena: 3\n. Nueva Paz: 3\n. Quivicán: 12\n. San José de las Lajas: 40\n.San Nicolás: 1\n. Santa Cruz: 9\n\n♦️ Averias pendientes en la provincia:\n\n👉 Menocal\n*Taller UBPC Hermanos Gómez\n*Base Radar\n\n👉Flor de Itabo\n*Calderón\n*La Malanga\n*Zonas aledañas\n\nRecomendamos a nuestros clientes mantenerse informados a través de nuestros canales oficiales de Telegram y WhatsApp🚨",
-    "timestamp": 1789657774,
-    "timestamp_local": 1789657774
-  },
-  {
-    "id": 121843,
-    "fecha": "17 de Sep del 2026 a las 10:05 AM",
-    "hora_utc": "2026-09-17 14:05",
-    "mensaje": "🚨Recuerde que puede seguir nuestro canal de WhatsApp para estar actualizado las 24 horas sobre la situación Electroenergética en la Provincia #Mayabeque. \n\n‼️COMPÁRTELO para que tus familiares y amigos también puedan estar informados.\n\n📌Pincha el enlace: https://whatsapp.com/channel/0029Vb6dwTM05MUoA9qmYf1k",
-    "timestamp": 1789653935,
-    "timestamp_local": 1789653935
-  },
-  {
-    "id": 121842,
-    "fecha": "17 de Sep del 2026 a las 09:25 AM",
-    "hora_utc": "2026-09-17 13:25",
-    "mensaje": "♦️ Informamos a los clientes de las siguientes zonas que se encuentran afectados por Vía Libre:\n*Gran Panel 70\n*Gobierno Provincial\n*La Cantera de la FAR\n*Loma de Chávez \n*Somarriba ♦️",
-    "timestamp": 1789651541,
-    "timestamp_local": 1789651541
   }
 ]
