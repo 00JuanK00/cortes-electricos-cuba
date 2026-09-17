@@ -1,9 +1,41 @@
 [
   {
+    "id": 121832,
+    "fecha": "17 de Sep del 2026 a las 05:07 AM",
+    "hora_utc": "2026-09-17 09:07",
+    "mensaje": "🚨Por déficit de capacidad de generación se afecta el servicio en los siguientes circuitos:\n*Sopapo 1 y 2 🚨",
+    "timestamp": 1789636059,
+    "timestamp_local": 1789636059
+  },
+  {
+    "id": 121831,
+    "fecha": "17 de Sep del 2026 a las 02:11 AM",
+    "hora_utc": "2026-09-17 06:11",
+    "mensaje": "🚨Por déficit de capacidad de generación se afecta el servicio en el siguiente circuito:\n*Los Palos 2 🚨",
+    "timestamp": 1789625492,
+    "timestamp_local": 1789625492
+  },
+  {
+    "id": 121830,
+    "fecha": "17 de Sep del 2026 a las 01:49 AM",
+    "hora_utc": "2026-09-17 05:49",
+    "mensaje": "🚨Por déficit de capacidad de generación se afecta el servicio en el siguiente circuito:\n*Fénix 🚨",
+    "timestamp": 1789624177,
+    "timestamp_local": 1789624177
+  },
+  {
+    "id": 121829,
+    "fecha": "17 de Sep del 2026 a las 01:40 AM",
+    "hora_utc": "2026-09-17 05:40",
+    "mensaje": "🚨Por déficit de capacidad de generación se afecta el servicio en el siguiente circuito:\n*San Felipe 🚨",
+    "timestamp": 1789623624,
+    "timestamp_local": 1789623624
+  },
+  {
     "id": 121828,
     "fecha": "17 de Sep del 2026 a las 01:08 AM",
     "hora_utc": "2026-09-17 05:08",
-    "mensaje": "🚨Por déficit de capacidad de generación se afecta el servicio en el siguiente circuito:\n*Camacho 1 y 2 🚨",
+    "mensaje": "🚨Por déficit de capacidad de generación se afecta el servicio en los siguientes circuitos:\n*Camacho 1 y 2 🚨",
     "timestamp": 1789621719,
     "timestamp_local": 1789621719
   },
@@ -118,37 +150,5 @@
     "mensaje": "🚨 Informamos a nuestros clientes que en estos momentos el teléfono de Atención a la Población 18888 se encuentra en un periodo de prueba después de haber estado sin prestar servicios por 2 meses. Este periodo de prueba se realizará para verificar el estado del servidor así como de toda su infraestructura tecnológica .En cuanto esté idóneo su funcionamiento se informará. Pedimos a nuestros clientes utilizar la vía del 18888 para realizar su inquietud. En caso de no comunicar continuar con la utilización de los teléfonos alternativos🚨",
     "timestamp": 1789593176,
     "timestamp_local": 1789593176
-  },
-  {
-    "id": 121810,
-    "fecha": "16 de Sep del 2026 a las 04:11 PM",
-    "hora_utc": "2026-09-16 20:11",
-    "mensaje": "♦️ Informamos a los clientes de las siguientes zonas correspondientes a los siguientes circuitos que continúan afectados por avería:\n\n👉 Menocal\n*Taller UBPC Hermanos Gómez\n*Base Radar\n\n👉Flor de Itabo\n*Calderón\n*La Malanga\n*Zonas aledañas♦️",
-    "timestamp": 1789589474,
-    "timestamp_local": 1789589474
-  },
-  {
-    "id": 121809,
-    "fecha": "16 de Sep del 2026 a las 04:07 PM",
-    "hora_utc": "2026-09-16 20:07",
-    "mensaje": "⚡|¿Por qué en una zona donde había un transformador ahora puede haber dos? \n\nLa respuesta está en los estudios de carga. 📊\nA medida que aumenta el consumo eléctrico de una zona, un solo transformador puede resultar insuficiente y trabajar por encima de su capacidad. \n\n👉 Ejemplo:\nSi una zona tenía un transformador de 50 kVA y la demanda creció hasta el punto de sobrecargarlo, el estudio de carga puede indicar la necesidad de instalar dos transformadores de 37 kVA.\nAsí, en una misma posición de transformador pueden instalarse dos equipos, distribuyendo mejor la carga y evitando la sobrecarga de un solo transformador. \n\n#Mayabeque",
-    "timestamp": 1789589278,
-    "timestamp_local": 1789589278
-  },
-  {
-    "id": 121808,
-    "fecha": "16 de Sep del 2026 a las 03:56 PM",
-    "hora_utc": "2026-09-16 19:56",
-    "mensaje": "🚨Por déficit de capacidad de generación se afecta el servicio en el siguiente circuito:\n*Somorrostro 🚨",
-    "timestamp": 1789588564,
-    "timestamp_local": 1789588564
-  },
-  {
-    "id": 121807,
-    "fecha": "16 de Sep del 2026 a las 03:31 PM",
-    "hora_utc": "2026-09-16 19:31",
-    "mensaje": "🚨Por déficit de capacidad de generación se afecta el servicio en los siguientes circuitos:\n*UNAH\n*CENSA\n*Jamaica 🚨",
-    "timestamp": 1789587064,
-    "timestamp_local": 1789587064
   }
 ]
