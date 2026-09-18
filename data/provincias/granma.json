@@ -1,9 +1,25 @@
 [
   {
+    "id": 39582,
+    "fecha": "18 de Sep del 2026 a las 03:12 PM",
+    "hora_utc": "2026-09-18 19:12",
+    "mensaje": "⚠️ #Actualización || Sobre el restablecimiento del SEN:\n\nSe produjo un disparo de la línea de transmisión de 220 kV Matanzas - Cienfuegos y posteriormente se disparó la línea de transmisión Matanzas - Santa Clara.\n\nAdemás se identificaron condiciones meteorológicos inestables en la zona.\n\nEn un primer momento se produjo una división del sistema en las Zonas Oriental y Occidental, y unos minutos después se registró la desconexión total del SEN.\n\n👉 Continuaremos informando.",
+    "timestamp": 1789758747,
+    "timestamp_local": 1789758747
+  },
+  {
+    "id": 39581,
+    "fecha": "18 de Sep del 2026 a las 02:17 PM",
+    "hora_utc": "2026-09-18 18:17",
+    "mensaje": "⚠️ #EnEsteMomento || Ourrió una desconexión total del Sistema Electroenergético Nacional. De inmediato se investiga la causa y se activan los protocolos para el restablecimiento.\n\n👉 Continuaremos informando.\n\nℹ️ Unión Eléctrica",
+    "timestamp": 1789755450,
+    "timestamp_local": 1789755450
+  },
+  {
     "id": 39580,
     "fecha": "18 de Sep del 2026 a las 01:21 PM",
     "hora_utc": "2026-09-18 17:21",
-    "mensaje": "🚨 Actualización del Sistema Electroenergético en la Provincia de Granma. \n\n🔺 MW afectados: 66\n\n🔺MW con servicio: 44\n\n\n❎Se afecta el servicio eléctrico para el circuito:\n\nCampechuela Pueblo \n\n\n⏰ Circuitos con mayor tiempo de afectación:\n\n• San Ramón (en falla)\n• Ceiba Hueca (en falla)\n• Jiguaní Desarrollo \n• San Francisco \n• Santa Isabel \n\n📢Continuaremos informando.",
+    "mensaje": "🚨 Actualización del Sistema Electroenergético en la Provincia de Granma. \n\n🔺 MW afectados: 66\n\n🔺MW con servicio: 44\n\n\n❎Se afecta el servicio eléctrico para el circuito:\n\nCampechuela Pueblo \n\n\n⏰ Circuitos con mayor tiempo de afectación:\n\n• San Ramón **(en falla)**\n• Ceiba Hueca **(en falla)**\n• Jiguaní Desarrollo \n• San Francisco \n• Santa Isabel \n\n📢Continuaremos informando.",
     "timestamp": 1789752080,
     "timestamp_local": 1789752080
   },
@@ -19,7 +35,7 @@
     "id": 39578,
     "fecha": "18 de Sep del 2026 a las 12:26 PM",
     "hora_utc": "2026-09-18 16:26",
-    "mensaje": "🚨 Actualización del Sistema Electroenergético en la Provincia de Granma. \n\n🔺 MW afectados: 72\n\n🔺MW con servicio: 47\n\n✅Se restablece el servicio eléctrico para el circuito:\n\nHospital Infantil \n\n\n⏰ Circuitos con mayor tiempo de afectación:\n\n• San Ramón (en falla)\n• Ceiba Hueca (en falla)\n• Jiguaní Desarrollo \n• San Francisco \n• Santa Isabel \n\n📢Continuaremos informando.",
+    "mensaje": "🚨 Actualización del Sistema Electroenergético en la Provincia de Granma. \n\n🔺 MW afectados: 72\n\n🔺MW con servicio: 47\n\n✅Se restablece el servicio eléctrico para el circuito:\n\nHospital Infantil \n\n\n⏰ Circuitos con mayor tiempo de afectación:\n\n• San Ramón **(en falla)**\n• Ceiba Hueca **(en falla)**\n• Jiguaní Desarrollo \n• San Francisco \n• Santa Isabel \n\n📢Continuaremos informando.",
     "timestamp": 1789748775,
     "timestamp_local": 1789748775
   },
@@ -134,21 +150,5 @@
     "mensaje": "🚨 Actualización del Sistema Electroenergético en la Provincia de Granma. \n\n🔺 MW afectados: 67\n\n🔺MW con servicio: 31\n\n\n✅ Se restablece el servicio eléctrico para los circuitos:\n\nGuisa \nHoracio Rodríguez \n\n\n⏰ Circuitos con mayor tiempo de afectación:\n\n• Hospital Infantil \n• San Ramón \n• Ceiba Hueca \n• Campechuela Pueblo \n• Jiguaní Desarrollo \n\n📢Continuaremos informando.",
     "timestamp": 1789734002,
     "timestamp_local": 1789734002
-  },
-  {
-    "id": 39560,
-    "fecha": "18 de Sep del 2026 a las 08:13 AM",
-    "hora_utc": "2026-09-18 12:13",
-    "mensaje": "🚨 Actualización del Sistema Electroenergético en la Provincia de Granma. \n\n🔺 MW afectados: 67\n\n🔺MW con servicio: 31\n\n\n✅ Se restablece el servicio eléctrico para el circuito:\n\nJiguaní \n\n\n⏰ Circuitos con mayor tiempo de afectación:\n\n• Hospital Infantil \n• San Ramón \n• Horacio Rodríguez \n• Ceiba Hueca \n• Campechuela Pueblo \n\n📢Continuaremos informando.",
-    "timestamp": 1789733621,
-    "timestamp_local": 1789733621
-  },
-  {
-    "id": 39559,
-    "fecha": "18 de Sep del 2026 a las 07:47 AM",
-    "hora_utc": "2026-09-18 11:47",
-    "mensaje": "🚨 Actualización del Sistema Electroenergético en la Provincia de Granma. \n\n🔺 MW afectados: 71\n\n🔺MW con servicio: 29\n\n\n✅ Se restablece el servicio eléctrico para los circuitos:\n\nPalmarón  \nDoce y Medio (por bombeo)\n\n\n⏰ Circuitos con mayor tiempo de afectación:\n\n• Jiguaní \n• Hospital Infantil \n• San Ramón \n• Horacio Rodríguez \n• Ceiba Hueca \n\n📢Continuaremos informando.",
-    "timestamp": 1789732066,
-    "timestamp_local": 1789732066
   }
 ]
