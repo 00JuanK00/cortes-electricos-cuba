@@ -1,5 +1,29 @@
 [
   {
+    "id": 21523,
+    "fecha": "20 de Sep del 2026 a las 01:09 AM",
+    "hora_utc": "2026-09-20 05:09",
+    "mensaje": "Se declara en avería el circuito:TK5 Buena Vista, Los Pinos",
+    "timestamp": 1789880989,
+    "timestamp_local": 1789880989
+  },
+  {
+    "id": 21522,
+    "fecha": "19 de Sep del 2026 a las 10:12 PM",
+    "hora_utc": "2026-09-20 02:12",
+    "mensaje": "Se restablecen los siguientes circuitos:\nTK12 Las 40 y Nuevo Sosa\nTK6 Calle Cuba y zona sur de Buena Vista",
+    "timestamp": 1789870369,
+    "timestamp_local": 1789870369
+  },
+  {
+    "id": 21521,
+    "fecha": "19 de Sep del 2026 a las 09:55 PM",
+    "hora_utc": "2026-09-20 01:55",
+    "mensaje": "Se restablecen los circuitos:\nCircuito 33 Kv: 6810\nTK82 Tana\nTK83 Las Maboas\nTK113 La Aurora\nTK74 La Lomita\nTK110 El Batey\n6810 Poblado Amancio\nTK24 Reparto Santo Domingo\nTK27 La Victoria",
+    "timestamp": 1789869339,
+    "timestamp_local": 1789869339
+  },
+  {
     "id": 21520,
     "fecha": "19 de Sep del 2026 a las 09:10 PM",
     "hora_utc": "2026-09-20 01:10",
@@ -134,29 +158,5 @@
     "mensaje": "Terminada la inspección de la ETE \"Lidio Ramón Pérez\" Felton, en estos  momentos en espera de la energía en la línea para comenzar el arranque. \n\nℹ️ ETE \"Lidio Ramón Pérez\" Felton",
     "timestamp": 1789838259,
     "timestamp_local": 1789838259
-  },
-  {
-    "id": 21503,
-    "fecha": "19 de Sep del 2026 a las 12:34 PM",
-    "hora_utc": "2026-09-19 16:34",
-    "mensaje": "⚡ Cuidemos nuestros transformadores\n⚠️ IMPORTANTE\nCuando la electricidad regrese a su hogar, no encienda todos los equipos a la vez. La llamada \" carga coincidente \" provoca picos de demanda que dañan los transformadores y dejan sin electricidad a muchas personas. \n✅ Recomendamos encender los equipos de forma escalonada y no conectarse a transformadores ajenos.\n📋 En este contexto, le recordamos que se actualizó el registro de transformadores dañados en la provincia, tomando la fecha en que el cliente reportó su queja, lo que modificó el orden del listado publicado. Nuestras disculpas a los afectados; reafirmamos nuestro compromiso con la transparencia.\n🙏 Cada acción individual cuenta. Con su colaboración, protegemos la red y garantizamos energía segura para todos.",
-    "timestamp": 1789835679,
-    "timestamp_local": 1789835679
-  },
-  {
-    "id": 21502,
-    "fecha": "19 de Sep del 2026 a las 12:32 PM",
-    "hora_utc": "2026-09-19 16:32",
-    "mensaje": "Ya en línea y generando de forma estable el ciclo combinado de Boca Jaruco, 5 unidades con gas acompañante, 2 unidades CTE del Mariel, 2 unidades CTE \nSanta Cruz. \nEn proceso de arranque las \n2 unidades de CTE Céspedes  \nConectado el SEN desde \nPinar del Río hasta Nuevitas.",
-    "timestamp": 1789835527,
-    "timestamp_local": 1789835527
-  },
-  {
-    "id": 21501,
-    "fecha": "19 de Sep del 2026 a las 12:32 PM",
-    "hora_utc": "2026-09-19 16:32",
-    "mensaje": "🟢La unidad 5 de Mariel con 55 mw aproximadamente",
-    "timestamp": 1789835523,
-    "timestamp_local": 1789835523
   }
 ]
