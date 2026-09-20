@@ -1,5 +1,29 @@
 [
   {
+    "id": 38920,
+    "fecha": "20 de Sep del 2026 a las 11:00 AM",
+    "hora_utc": "2026-09-20 15:00",
+    "mensaje": "📢 A medida que las condiciones del sistema lo permitan, se irán restableciendo de forma gradual los circuitos que han tenido más tiempo de afectación.",
+    "timestamp": 1789916419,
+    "timestamp_local": 1789916419
+  },
+  {
+    "id": 38919,
+    "fecha": "20 de Sep del 2026 a las 10:40 AM",
+    "hora_utc": "2026-09-20 14:40",
+    "mensaje": "⚡ Déficit de capacidad de generación en la provincia: 141 MW .⚡",
+    "timestamp": 1789915252,
+    "timestamp_local": 1789915252
+  },
+  {
+    "id": 38918,
+    "fecha": "20 de Sep del 2026 a las 08:46 AM",
+    "hora_utc": "2026-09-20 12:46",
+    "mensaje": "⚡ Actualización del Sistema Electroenergético Nacional para el 20 de septiembre de 2026.\n\nEn el día de ayer a las 19:56 quedó restablecido todo el SEN. \n\nLa producción energías de los parques solares fotovoltaicos fue de 985 MWh, menor que días anteriores debido al proceso de restablecimiento.\n\nLa disponibilidad del SEN a las 06:00 horas es de 1160 MW, la demanda 2673 MW con 1510 MW afectados. En el horario de la media se estima una afectación de 1300 MW.\n\nSe encuentran en avería la unidad 8 de la CTE Mariel, la unidad de la CTE Guiteras, la unidad 2 de la CTE Felton y la unidad 3 de la CTE Renté. Se encuentran en mantenimiento la unidad 3 de la CTE Santa Cruz, la unidad 5 de la CTE Nuevitas y la unidad 5 de la CTE Renté. \n \nLas limitaciones en la generación térmica son de 502 MW.\n\nSe prevé para el horario de máxima demanda una disponibilidad de 1160 MW con una demanda máxima de 3200 MW, para un déficit de 2040 MW, por lo que de mantenerse las condiciones previstas se pronostica una afectación de 2070 MW en este horario.",
+    "timestamp": 1789908409,
+    "timestamp_local": 1789908409
+  },
+  {
     "id": 38917,
     "fecha": "20 de Sep del 2026 a las 07:37 AM",
     "hora_utc": "2026-09-20 11:37",
@@ -134,29 +158,5 @@
     "mensaje": "🟢 Sincronizada la Unidad 4 de la CTE Carlos Manuel de Céspedes y en fase de arranque su Unidad 3.\n#CubaNoSeRinde",
     "timestamp": 1789848368,
     "timestamp_local": 1789848368
-  },
-  {
-    "id": 38900,
-    "fecha": "19 de Sep del 2026 a las 03:46 PM",
-    "hora_utc": "2026-09-19 19:46",
-    "mensaje": "En línea \nUnidad 4 CTE Céspedes.\nSe mantiene en proceso de arranque la Unidad 3.\nContinúa el restablecimiento del SEN.",
-    "timestamp": 1789847202,
-    "timestamp_local": 1789847202
-  },
-  {
-    "id": 38899,
-    "fecha": "19 de Sep del 2026 a las 02:32 PM",
-    "hora_utc": "2026-09-19 18:32",
-    "mensaje": "🚨Actualización de la Situación Eléctrica en la provincia con cierre 02:30 pm🚨\n\nActualmente se encuentra con servicio:\n\n✅️Hospital  Maternidad\n✅️Hospital Militar\n✅️Hospital Faustino Pérez\n✅️Hospital Pediátrico\n✅️Hospital de Jovellanos\n✅️Hospital de Colón\n✅️Hospital de Cárdenas\n\n\n💧Bombeo de Bello y San Juan\n💧Bombeos de Canímar\n💧Bombeos de Cárdenas\n\n👷‍♂️👷‍♂️Desde el Despacho Provincial de Carga se labora sin descanso para restablecer el servicio eléctrico en la provincia.",
-    "timestamp": 1789842770,
-    "timestamp_local": 1789842770
-  },
-  {
-    "id": 38898,
-    "fecha": "19 de Sep del 2026 a las 01:20 PM",
-    "hora_utc": "2026-09-19 17:20",
-    "mensaje": "🟢 A esta hora, conectado el SEN desde Pinar del Río hasta Nuevitas, Camagüey.",
-    "timestamp": 1789838412,
-    "timestamp_local": 1789838412
   }
 ]
