@@ -1,5 +1,21 @@
 [
   {
+    "id": 21549,
+    "fecha": "21 de Sep del 2026 a las 06:14 PM",
+    "hora_utc": "2026-09-21 22:14",
+    "mensaje": "Queda solucionada la avería del TK62 Lora.",
+    "timestamp": 1790028864,
+    "timestamp_local": 1790028864
+  },
+  {
+    "id": 21548,
+    "fecha": "21 de Sep del 2026 a las 06:13 PM",
+    "hora_utc": "2026-09-21 22:13",
+    "mensaje": "Se encuentran en avería los siguientes Circuitos:\nTK25 La zona de Dormitorio.\nTK19 La Zona de San Antonio\n4220 El poblado de la Guinea y alrededores.",
+    "timestamp": 1790028817,
+    "timestamp_local": 1790028817
+  },
+  {
     "id": 21545,
     "fecha": "21 de Sep del 2026 a las 03:34 PM",
     "hora_utc": "2026-09-21 19:34",
@@ -94,29 +110,5 @@
     "mensaje": "Se restablece el circuito de 33 kV :6840 Los Kilómetros de Amancio que se encontraba afectado por avería.",
     "timestamp": 1789936663,
     "timestamp_local": 1789936663
-  },
-  {
-    "id": 21529,
-    "fecha": "20 de Sep del 2026 a las 03:53 PM",
-    "hora_utc": "2026-09-20 19:53",
-    "mensaje": "👉1. Si presenta o conoce alguna avería, haga su reporte al Centro de Atención Telefónico📲 mediante el 18888, estamos a su servicio.\n2. Conocer de forma exacta la dirección de su vivienda (número de casa, calle, entre calles, reparto, localidad)\n3. Ubicar un punto de referencia, que permita llegar hasta su vivienda con mayor rapidez (lugar o persona reconocida en la zona)\n\n4. En caso de un cable caído, aunque usted crea que no está energizado, NO\nLO TOQUE. Repórtelo y preserve el lugar, hasta que llegue el personal \nde la Empresa.\n5. Anote el número de su reporte para ser utilizado en caso de reclamaciones, o para comprobar el estado del mismo.\n6. Si usted tiene servicio eléctrico, pero existen variaciones del voltaje, desconecte los equipos, para que no se dañen.",
-    "timestamp": 1789934036,
-    "timestamp_local": 1789934036
-  },
-  {
-    "id": 21528,
-    "fecha": "20 de Sep del 2026 a las 01:29 PM",
-    "hora_utc": "2026-09-20 17:29",
-    "mensaje": "La Empresa Eléctrica Las Tunas pone a disposición de sus clientes un Centro de Atención Telefónica con el objetivo de brindar asistencia y responder a sus inquietudes. Para asegurar un flujo eficiente de comunicación, el centro cuenta con 38 líneas de entrada, gestionadas por 6 operadores en cada turno de trabajo.\nCuando los 6 operadores se encuentran atendiendo llamadas simultáneamente, las siguientes 32 llamadas entrantes son colocadas en una cola de espera, donde una operadora automática les informa que serán atendidas a la brevedad, acompañando la espera con música. En esta situación, se requiere paciencia por parte del cliente hasta que un operador se desocupe y su llamada sea transferida automáticamente. Sin embargo, el sistema tiene un límite. A partir de la llamada número 39, todas las líneas de entrada estarán ocupadas, lo que resultará en una señal de \"ocupado\" para el cliente. En este caso, para lograr contactar al centro, el cliente deberá intentar la llamada nuevamente hasta que una línea quede disponible. La Empresa Eléctrica Las Tunas trabaja continuamente para optimizar este servicio y agradece su comprensión.",
-    "timestamp": 1789925399,
-    "timestamp_local": 1789925399
-  },
-  {
-    "id": 21527,
-    "fecha": "20 de Sep del 2026 a las 12:18 PM",
-    "hora_utc": "2026-09-20 16:18",
-    "mensaje": "Se restablecen los siguientes circuitosque se encontraban afectados por avería: TK91 Macagua y el TK84 El Triángulo",
-    "timestamp": 1789921115,
-    "timestamp_local": 1789921115
   }
 ]
