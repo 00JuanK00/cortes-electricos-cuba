@@ -1,5 +1,21 @@
 [
   {
+    "id": 21545,
+    "fecha": "21 de Sep del 2026 a las 03:34 PM",
+    "hora_utc": "2026-09-21 19:34",
+    "mensaje": "Se declara en avería el TK62 Lora",
+    "timestamp": 1790019268,
+    "timestamp_local": 1790019268
+  },
+  {
+    "id": 21544,
+    "fecha": "21 de Sep del 2026 a las 12:12 PM",
+    "hora_utc": "2026-09-21 16:12",
+    "mensaje": "Se encuentra disparado el TK19 Km 7, San Antonio de Jobabo.",
+    "timestamp": 1790007122,
+    "timestamp_local": 1790007122
+  },
+  {
     "id": 21543,
     "fecha": "21 de Sep del 2026 a las 10:20 AM",
     "hora_utc": "2026-09-21 14:20",
@@ -102,29 +118,5 @@
     "mensaje": "Se restablecen los siguientes circuitosque se encontraban afectados por avería: TK91 Macagua y el TK84 El Triángulo",
     "timestamp": 1789921115,
     "timestamp_local": 1789921115
-  },
-  {
-    "id": 21526,
-    "fecha": "20 de Sep del 2026 a las 11:44 AM",
-    "hora_utc": "2026-09-20 15:44",
-    "mensaje": "Se declara en avería el TK:84 El Triángulo Colombia",
-    "timestamp": 1789919055,
-    "timestamp_local": 1789919055
-  },
-  {
-    "id": 21525,
-    "fecha": "20 de Sep del 2026 a las 07:17 AM",
-    "hora_utc": "2026-09-20 11:17",
-    "mensaje": "⚡ Cuidemos nuestros transformadores\n⚠️ IMPORTANTE\nCuando la electricidad regrese a su hogar, no encienda todos los equipos a la vez. La llamada \" carga coincidente \" provoca picos de demanda que dañan los transformadores y dejan sin electricidad a muchas personas. \n✅ Recomendamos encender los equipos de forma escalonada y no conectarse a transformadores ajenos.\n📋 En este contexto, le recordamos que se actualizó el registro de transformadores dañados en la provincia, tomando la fecha en que el cliente reportó su queja, lo que modificó el orden del listado publicado. Nuestras disculpas a los afectados; reafirmamos nuestro compromiso con la transparencia.\n🙏 Cada acción individual cuenta. Con su colaboración, protegemos la red y garantizamos energía segura para todos.",
-    "timestamp": 1789903027,
-    "timestamp_local": 1789903027
-  },
-  {
-    "id": 21524,
-    "fecha": "20 de Sep del 2026 a las 07:08 AM",
-    "hora_utc": "2026-09-20 11:08",
-    "mensaje": "🔔Al cierre de las 07:00am del día 20/09/2026 nuestro sistema registra un total de 359 interrupciones.\n\n♦️Interrupciones pendientes: \nAmancio:37\n-Jobabo:43\n-Colombia:12\n-Puerto Padre:48\n-Menéndez:2\n-Manatí:8\n-Majibacoa:13\n-Las Tunas:197\n\n♦️Interrupciones pendientes a solución:\nAmancio:7\n-Jobabo:7\n-Colombia:5\n-Puerto Padre:30\n-Menéndez:14\n-Majibacoa:10\n-Las Tunas:73\n\n🔔El municipio registra un total de 87 transformadores dañados, de ellos 56 residenciales y 31 estatales.",
-    "timestamp": 1789902492,
-    "timestamp_local": 1789902492
   }
 ]
