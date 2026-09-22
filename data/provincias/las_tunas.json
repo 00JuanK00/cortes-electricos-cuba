@@ -1,5 +1,13 @@
 [
   {
+    "id": 21558,
+    "fecha": "22 de Sep del 2026 a las 02:47 PM",
+    "hora_utc": "2026-09-22 18:47",
+    "mensaje": "La Empresa Eléctrica Las Tunas informa que, según la nota emitida por la Unión Eléctrica para el 22 de septiembre, en el día de ayer se afectó el servicio por déficit de capacidad durante las 24 horas y se mantuvo la afectación durante todo el horario de la madrugada. \nActualmente están fuera de servicio por avería:\n•  unidad de la CTE Guiteras\n•  unidad 2 de la CTE Felton \n•  unidad 3 de la CTE Renté. \nEn mantenimiento se encuentran:  \n•  unidad 3 de la CTE Santa Cruz\n•  unidad 5 de la CTE Nuevitas \n•  unidad 5 de la CTE Renté.\nEn el horario pico nocturno se prevén 2050 MW de afectación.\nEn nuestra provincia, la máxima afectación puede representar la totalidad de los circuitos apagables, debido al alto déficit de capacidad de generación existente. Estos valores pueden variar en función de la demanda nacional, pero reflejan que, en las condiciones actuales, ningún circuito apagable está exento de posibles interrupciones.",
+    "timestamp": 1790102830,
+    "timestamp_local": 1790102830
+  },
+  {
     "id": 21557,
     "fecha": "22 de Sep del 2026 a las 12:13 PM",
     "hora_utc": "2026-09-22 16:13",
@@ -78,13 +86,5 @@
     "mensaje": "Que significa e implica la máxima capacidad apagable en la provincia:                                                                                                \n📈 Máxima capacidad apagable se refiere al nivel máximo de demanda eléctrica que puede ser desconectada o suspendida temporalmente en la provincia, explica la complejidad del déficit de generación o contingencias en el sistema eléctrico.\nRepresenta el límite superior de la reducción de carga que la empresa puede lograr mediante cortes de energía (apagones). Cuanto mayor sea la máxima capacidad apagable, mayor será el déficit de energía.\n¿Qué implica esto?\nSe identifica cuántos circuitos pueden ser apagados para equilibrar la carga del sistema, esto imposibilita realizar rotaciones, pues a \nexcepción de los servicios priorizados, se encuentran afectados todos los circuitos apagables del territorio. Podrán presentarse afectaciones \nen el servicio de electricidad durante varias horas al día y el tiempo con servicio dependerá del comportamiento del SEN. Esta medida es \nnecesaria para evitar fallas mayores y proteger la infraestructura eléctrica.",
     "timestamp": 1789989410,
     "timestamp_local": 1789989410
-  },
-  {
-    "id": 21538,
-    "fecha": "21 de Sep del 2026 a las 07:05 AM",
-    "hora_utc": "2026-09-21 11:05",
-    "mensaje": "📌** Disparo de circuito:**\nEs la apertura no voluntaria de un interruptor como vía de protección para desconectar uno o varios elementos del circuito, subestación o sistema, restableciéndose el servicio rápidamente en dependencia de la causa.",
-    "timestamp": 1789988742,
-    "timestamp_local": 1789988742
   }
 ]
