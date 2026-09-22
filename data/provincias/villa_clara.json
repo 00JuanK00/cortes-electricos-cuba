@@ -1,5 +1,45 @@
 [
   {
+    "id": 57880,
+    "fecha": "21 de Sep del 2026 a las 08:06 PM",
+    "hora_utc": "2026-09-22 00:06",
+    "mensaje": "Actualización del servicio eléctrico en la provincia.\n👉En este momento la afectación por déficit de capacidad de generación es de 207 MW, demanda máxima posible a apagar en estos momentos.\n👉De los circuitos apagables se mantienen afectados 145.\n👉Cuenta con 340 afectaciones por averías secundarias y de servicio.",
+    "timestamp": 1790035597,
+    "timestamp_local": 1790035597
+  },
+  {
+    "id": 57879,
+    "fecha": "21 de Sep del 2026 a las 08:05 PM",
+    "hora_utc": "2026-09-22 00:05",
+    "mensaje": "🛠️Manipulación  Línea 861 para comprobar momentáneamente el servicio después de trabajar en una avería primaria, continúa afectada por déficit.\n🔹Municipio Santa Clara:\n👉Ctos 37 y 38 Yabú\n👉Cto 9 Moldes y Troqueles\n👉Cto 133 Taller Cafetera",
+    "timestamp": 1790035504,
+    "timestamp_local": 1790035504
+  },
+  {
+    "id": 57878,
+    "fecha": "21 de Sep del 2026 a las 07:53 PM",
+    "hora_utc": "2026-09-21 23:53",
+    "mensaje": "🛠️ Afectado por manipulación  Cto 169 Condado perteneciente al Municipio Santa Clara para trabajar en avería.",
+    "timestamp": 1790034823,
+    "timestamp_local": 1790034823
+  },
+  {
+    "id": 57877,
+    "fecha": "21 de Sep del 2026 a las 07:31 PM",
+    "hora_utc": "2026-09-21 23:31",
+    "mensaje": "⚠️Afectado el servicio eléctrico en el siguiente circuito:\n🔹Municipio Santa Clara:\n👉Cto 4 Consejo- Centro",
+    "timestamp": 1790033509,
+    "timestamp_local": 1790033509
+  },
+  {
+    "id": 57876,
+    "fecha": "21 de Sep del 2026 a las 07:31 PM",
+    "hora_utc": "2026-09-21 23:31",
+    "mensaje": "💡Restablecido el servicio eléctrico en el siguiente circuito:\n🔹Municipio Santa Clara:\n👉Cto 3 Consejo- Centro",
+    "timestamp": 1790033465,
+    "timestamp_local": 1790033465
+  },
+  {
     "id": 57875,
     "fecha": "21 de Sep del 2026 a las 06:45 PM",
     "hora_utc": "2026-09-21 22:45",
@@ -118,45 +158,5 @@
     "mensaje": "💡Restablecido el servicio eléctrico en los siguientes circuitos:\n🔹Municipio Camajuaní:\n👉Ctos 73 y 156",
     "timestamp": 1790021778,
     "timestamp_local": 1790021778
-  },
-  {
-    "id": 57860,
-    "fecha": "21 de Sep del 2026 a las 04:14 PM",
-    "hora_utc": "2026-09-21 20:14",
-    "mensaje": "⚠️Afectado el servicio eléctrico en el siguiente circuito:\n🔹Municipio Quemado:\n👉 Cto  53 Quemado.",
-    "timestamp": 1790021653,
-    "timestamp_local": 1790021653
-  },
-  {
-    "id": 57859,
-    "fecha": "21 de Sep del 2026 a las 04:12 PM",
-    "hora_utc": "2026-09-21 20:12",
-    "mensaje": "💡Restablecido el servicio eléctrico en el siguiente circuito:\n🔹Municipio Santa Clara:\n👉Cto 169 Condado",
-    "timestamp": 1790021553,
-    "timestamp_local": 1790021553
-  },
-  {
-    "id": 57858,
-    "fecha": "21 de Sep del 2026 a las 04:12 PM",
-    "hora_utc": "2026-09-21 20:12",
-    "mensaje": "⚠️Afectado el servicio eléctrico en los siguientes circuitos:\n🔹Municipio Santa Clara:\n👉Ctos 1 y 2 Consejo- Centro",
-    "timestamp": 1790021533,
-    "timestamp_local": 1790021533
-  },
-  {
-    "id": 57857,
-    "fecha": "21 de Sep del 2026 a las 04:10 PM",
-    "hora_utc": "2026-09-21 20:10",
-    "mensaje": "💡Restablecido el servicio eléctrico en el siguiente circuito:\n🔹Municipio Santa Clara:\n👉Cto 4 Consejo- Centro",
-    "timestamp": 1790021442,
-    "timestamp_local": 1790021442
-  },
-  {
-    "id": 57856,
-    "fecha": "21 de Sep del 2026 a las 03:46 PM",
-    "hora_utc": "2026-09-21 19:46",
-    "mensaje": "⚠️Continuará afectado servicio eléctrico en Cto 3 Consejo Centro , perteneciente al Municipio Santa Clara.",
-    "timestamp": 1790019979,
-    "timestamp_local": 1790019979
   }
 ]
