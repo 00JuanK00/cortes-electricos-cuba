@@ -1,5 +1,13 @@
 [
   {
+    "id": 21572,
+    "fecha": "23 de Sep del 2026 a las 03:45 PM",
+    "hora_utc": "2026-09-23 19:45",
+    "mensaje": "🔴 15:20 || Fuera de línea la máquina 1 de Energas, Boca de Jaruco. Debido a las inclemencias del tiempo (descargas eléctricas).",
+    "timestamp": 1790192746,
+    "timestamp_local": 1790192746
+  },
+  {
     "id": 21571,
     "fecha": "23 de Sep del 2026 a las 12:29 PM",
     "hora_utc": "2026-09-23 16:29",
@@ -94,13 +102,5 @@
     "mensaje": "Se declara en avería el circuito:TK62 Lora",
     "timestamp": 1790093600,
     "timestamp_local": 1790093600
-  },
-  {
-    "id": 21552,
-    "fecha": "22 de Sep del 2026 a las 06:50 AM",
-    "hora_utc": "2026-09-22 10:50",
-    "mensaje": "Al cierre de las 6:50 horas del día 22/09/2026, nuestro sistema registra un total de 432 interrupciones.\n\nInterrupciones pendientes:\nAmancio: 31\nJobabo: 17\nColombia: 15\nPuerto Padre: 82\nMenéndez: 12\nManatí: 8\nMajibacoa: 15\nLas Tunas: 252\n\nInterrupciones pendientes a solución:\nAmancio: 7\nJobabo: 5\nColombia: 5\nPuerto Padre: 30\nMenéndez: 15\nManatí: 0\nMajibacoa: 10\nLas Tunas: 73\n\nLa provincia registra un total de 90 transformadores dañados, de ellos 57 residenciales y 33 estatales.",
-    "timestamp": 1790074250,
-    "timestamp_local": 1790074250
   }
 ]

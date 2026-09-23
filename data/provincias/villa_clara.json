@@ -1,5 +1,45 @@
 [
   {
+    "id": 58036,
+    "fecha": "23 de Sep del 2026 a las 04:03 PM",
+    "hora_utc": "2026-09-23 20:03",
+    "mensaje": "Actualización del servicio eléctrico en la provincia.\n👉En este momento la afectación por déficit de capacidad de generación es de 211 MW, demanda máxima posible a apagar en estos momentos.\n👉De los circuitos apagables se mantienen afectados 138.\n👉Cuenta con 324 afectaciones por averías secundarias y de servicio.",
+    "timestamp": 1790193798,
+    "timestamp_local": 1790193798
+  },
+  {
+    "id": 58035,
+    "fecha": "23 de Sep del 2026 a las 03:47 PM",
+    "hora_utc": "2026-09-23 19:47",
+    "mensaje": "⚠️Afectado el servicio eléctrico en los siguientes circuitos:\n🔹Municipio Santa Clara\n👉Cto 191 Quemado de Hilario\n🔹Municipio Santo Domingo:\n👉Cto 79 Santo Domingo\n👉Cto 81 26 de Julio\n👉Cto 163 Batey 26 de Julio\n👉Cto 195 Batey George Washington\n👉Ctos 83 y 165 Manacas\n👉Ctos 85 y 86 Pajarito\n👉Ctos 160 y 161 Cascajal",
+    "timestamp": 1790192866,
+    "timestamp_local": 1790192866
+  },
+  {
+    "id": 58034,
+    "fecha": "23 de Sep del 2026 a las 03:17 PM",
+    "hora_utc": "2026-09-23 19:17",
+    "mensaje": "💡Restablecido el servicio eléctrico en los siguientes circuitos:\n🔹Municipio Quemado:\n👉 Cto 52\n👉 Cto 196 Batey Panchito Gómez Toro\n🔹Municipio Corralillo:\n👉Ctos 58 y 159\n👉Cto 57 Motembo\n👉Cto 56 Yabre\n👉Cto 60 La Sierra\n👉Cto 55 Rancho Veloz",
+    "timestamp": 1790191024,
+    "timestamp_local": 1790191024
+  },
+  {
+    "id": 58033,
+    "fecha": "23 de Sep del 2026 a las 03:17 PM",
+    "hora_utc": "2026-09-23 19:17",
+    "mensaje": "⚠️Afectado el servicio eléctrico en los siguientes circuitos:\n🔹Municipio Santa Clara:\n👉Ctos 1 y 3 Consejo- Centro",
+    "timestamp": 1790191024,
+    "timestamp_local": 1790191024
+  },
+  {
+    "id": 58032,
+    "fecha": "23 de Sep del 2026 a las 03:17 PM",
+    "hora_utc": "2026-09-23 19:17",
+    "mensaje": "⚠️Afectado el servicio eléctrico en el siguiente circuito:\n🔹Municipio Sagua\n👉Cto 44 Isabela",
+    "timestamp": 1790191024,
+    "timestamp_local": 1790191024
+  },
+  {
     "id": 58029,
     "fecha": "23 de Sep del 2026 a las 12:59 PM",
     "hora_utc": "2026-09-23 16:59",
@@ -102,61 +142,5 @@
     "mensaje": "💡Restablecido el servicio eléctrico en los siguientes circuitos:\n🔹Municipio Sagua\n👉Cto 48 Finalet\n👉Ctos 46 y 128 Sitiecito",
     "timestamp": 1790175819,
     "timestamp_local": 1790175819
-  },
-  {
-    "id": 58016,
-    "fecha": "23 de Sep del 2026 a las 10:56 AM",
-    "hora_utc": "2026-09-23 14:56",
-    "mensaje": "⚠️Afectado el servicio eléctrico en el siguiente circuito:\n🔹Municipio Santa Clara:\n👉Cto 131 Las Antillas",
-    "timestamp": 1790175394,
-    "timestamp_local": 1790175394
-  },
-  {
-    "id": 58015,
-    "fecha": "23 de Sep del 2026 a las 10:46 AM",
-    "hora_utc": "2026-09-23 14:46",
-    "mensaje": "🛠️Disparo del Cto 153 EIDE perteneciente al Municipio Santa Clara (Se estudian las causas )",
-    "timestamp": 1790174812,
-    "timestamp_local": 1790174812
-  },
-  {
-    "id": 58014,
-    "fecha": "23 de Sep del 2026 a las 10:34 AM",
-    "hora_utc": "2026-09-23 14:34",
-    "mensaje": "💡Restablecido el servicio eléctrico en los siguientes circuitos:\n🔹Municipio Placetas\n👉Ctos 100 y 151 Placetas\n👉Cto 104 Hermanos Amejeiras\n👉Cto 103 Batey Carbó Servía",
-    "timestamp": 1790174052,
-    "timestamp_local": 1790174052
-  },
-  {
-    "id": 58013,
-    "fecha": "23 de Sep del 2026 a las 10:33 AM",
-    "hora_utc": "2026-09-23 14:33",
-    "mensaje": "💡Restablecido el servicio eléctrico en el siguiente circuito:\n🔹Municipio Placetas\n👉Cto 99 Placetas",
-    "timestamp": 1790174011,
-    "timestamp_local": 1790174011
-  },
-  {
-    "id": 58012,
-    "fecha": "23 de Sep del 2026 a las 10:33 AM",
-    "hora_utc": "2026-09-23 14:33",
-    "mensaje": "⚠️Afectado el servicio eléctrico en el siguiente circuito:\n🔹Municipio Placetas\n👉Cto 98",
-    "timestamp": 1790173981,
-    "timestamp_local": 1790173981
-  },
-  {
-    "id": 58011,
-    "fecha": "23 de Sep del 2026 a las 10:23 AM",
-    "hora_utc": "2026-09-23 14:23",
-    "mensaje": "⚠️Afectado el servicio eléctrico en el siguiente circuito:\n🔹Municipio Sagua\n👉Cto 48 Finalet",
-    "timestamp": 1790173439,
-    "timestamp_local": 1790173439
-  },
-  {
-    "id": 58010,
-    "fecha": "23 de Sep del 2026 a las 10:23 AM",
-    "hora_utc": "2026-09-23 14:23",
-    "mensaje": "💡Restablecido el servicio eléctrico en el siguiente circuito:\n🔹Municipio Ranchuelo:\n👉Cto 181 Batey Ifraín Alfonso",
-    "timestamp": 1790173380,
-    "timestamp_local": 1790173380
   }
 ]
