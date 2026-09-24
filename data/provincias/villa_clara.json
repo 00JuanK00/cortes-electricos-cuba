@@ -1,9 +1,41 @@
 [
   {
+    "id": 58043,
+    "fecha": "23 de Sep del 2026 a las 09:23 PM",
+    "hora_utc": "2026-09-24 01:23",
+    "mensaje": "💡Restablecido el servicio eléctrico en el siguiente circuito:\n🔹Municipio Santa Clara\n👉Cto 7 Universidad",
+    "timestamp": 1790212984,
+    "timestamp_local": 1790212984
+  },
+  {
+    "id": 58042,
+    "fecha": "23 de Sep del 2026 a las 09:17 PM",
+    "hora_utc": "2026-09-24 01:17",
+    "mensaje": "💡Restablecido el servicio eléctrico en el siguiente circuito:\n🔹Municipio Ranchuelo:\n👉Cto 93 Esperanza (Campo)",
+    "timestamp": 1790212627,
+    "timestamp_local": 1790212627
+  },
+  {
+    "id": 58041,
+    "fecha": "23 de Sep del 2026 a las 08:24 PM",
+    "hora_utc": "2026-09-24 00:24",
+    "mensaje": "💡Restablecido el servicio eléctrico en el siguiente circuito:\n🔹Municipio Santa Clara:\n👉Cto 169 Condado",
+    "timestamp": 1790209455,
+    "timestamp_local": 1790209455
+  },
+  {
+    "id": 58040,
+    "fecha": "23 de Sep del 2026 a las 08:04 PM",
+    "hora_utc": "2026-09-24 00:04",
+    "mensaje": "Actualización del servicio eléctrico en la provincia.\n👉En este momento la afectación por déficit de capacidad de generación es de 218 MW, demanda máxima posible a apagar en estos momentos.\n👉De los circuitos apagables se mantienen afectados 147.\n👉Cuenta con 289 afectaciones por averías secundarias y de servicio.",
+    "timestamp": 1790208281,
+    "timestamp_local": 1790208281
+  },
+  {
     "id": 58039,
     "fecha": "23 de Sep del 2026 a las 06:29 PM",
     "hora_utc": "2026-09-23 22:29",
-    "mensaje": "⚡La provincia presenta 7 averías primarias:\n➡️Cto 106 Falcón del municipio Placetas, afectado por transformador dañado en la subestación.\n➡️Cto 110 La Piedra de manera parcial, del municipio Manicaragua, por poste caído.\n➡️Ctos 67 y 152 del municipio Remedios, por transformador dañado en la subestación.\n➡️ Cto 93 Esperanza perteneciente al Municipio Ranchuelo, afectado por avería en la Sub\n➡️Afectado por avería el circuito 170 José Martí.\n➡️Afectado por avería el Cto 107 Baez pertenciente al Municipio Placetas por cable primario partido \n➡️Avería en el Cto 163 Batey 26 de Julio perteneciente al Municipio Santo Domingo por cable primario partido (Continua afectado por deficit )",
+    "mensaje": "⚡La provincia presenta 6 averías primarias:\n➡️Cto 106 Falcón del municipio Placetas, afectado por transformador dañado en la subestación.\n➡️Cto 110 La Piedra de manera parcial, del municipio Manicaragua, por poste caído.\n➡️Ctos 67 y 152 del municipio Remedios, por transformador dañado en la subestación.\n➡️ Cto 93 Esperanza perteneciente al Municipio Ranchuelo, afectado por avería en la Sub\n➡️Afectado por avería el Cto 107 Baez pertenciente al Municipio Placetas por cable primario partido \n➡️Avería en el Cto 163 Batey 26 de Julio perteneciente al Municipio Santo Domingo por cable primario partido (Continua afectado por deficit )",
     "timestamp": 1790202552,
     "timestamp_local": 1790202552
   },
@@ -110,37 +142,5 @@
     "mensaje": "🕛Actualización del servicio eléctrico.\n✍️El déficit de capacidad de generación en estos momentos es de 167 MW\n✍️En el momento de esta nota, se mantienen afectados 105 circuitos.\n✍️ Cuenta con 324 afectaciones por averías secundarias y de servicio:\n🔸 Caibarién (7)\n🔸 Camajuaní (1)\n🔸 Cifuentes (6)\n🔸 Corralillo (4)\n🔸 Encrucijada (5)\n🔸 Manicaragua (13)\n🔸 Placetas (5)\n🔸 Quemado (6)\n🔸 Ranchuelo (22)\n🔸 Remedios (17)\n🔸 Sagua (12)\n🔸 Santa Clara (213)\n🔸 Santo Domingo (13)\n🛠️Se encuentran 6 averías en vías de solución.\n🛠️Pendientes a solucionar por el área técnica 73.",
     "timestamp": 1790179916,
     "timestamp_local": 1790179916
-  },
-  {
-    "id": 58023,
-    "fecha": "23 de Sep del 2026 a las 11:48 AM",
-    "hora_utc": "2026-09-23 15:48",
-    "mensaje": "💡Restablecido el servicio eléctrico en el siguiente circuito:\n🔹Municipio Santa Clara:\n👉Cto 26 Manuelita",
-    "timestamp": 1790178494,
-    "timestamp_local": 1790178494
-  },
-  {
-    "id": 58022,
-    "fecha": "23 de Sep del 2026 a las 11:31 AM",
-    "hora_utc": "2026-09-23 15:31",
-    "mensaje": "⚠️Afectado el servicio eléctrico en el siguiente circuito:\n🔹Municipio Santa Clara:\n👉Cto 31 Santa Clara Industrial",
-    "timestamp": 1790177511,
-    "timestamp_local": 1790177511
-  },
-  {
-    "id": 58021,
-    "fecha": "23 de Sep del 2026 a las 11:31 AM",
-    "hora_utc": "2026-09-23 15:31",
-    "mensaje": "💡Restablecido el servicio eléctrico en los siguientes circuitos:\n🔹Municipio Santa Clara:\n👉Cto 30 y 193 Santa Clara Industrial",
-    "timestamp": 1790177486,
-    "timestamp_local": 1790177486
-  },
-  {
-    "id": 58020,
-    "fecha": "23 de Sep del 2026 a las 11:27 AM",
-    "hora_utc": "2026-09-23 15:27",
-    "mensaje": "🛠️Disparo el Cto 114 perteneciente al Municipio Cifuentes ( Se estudian las causas)",
-    "timestamp": 1790177229,
-    "timestamp_local": 1790177229
   }
 ]
