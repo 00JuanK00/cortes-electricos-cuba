@@ -1,5 +1,85 @@
 [
   {
+    "id": 58477,
+    "fecha": "27 de Sep del 2026 a las 09:46 PM",
+    "hora_utc": "2026-09-28 01:46",
+    "mensaje": "⚠️Afectado el servicio eléctrico en el siguiente circuito:\n🔹Municipio Caibarién:\n👉Cto 183 Van Troy",
+    "timestamp": 1790559982,
+    "timestamp_local": 1790559982
+  },
+  {
+    "id": 58476,
+    "fecha": "27 de Sep del 2026 a las 09:45 PM",
+    "hora_utc": "2026-09-28 01:45",
+    "mensaje": "💡Restablecido el servicio eléctrico en el siguiente circuito:\n🔹Municipio Caibarién:\n👉Cto 182 Van Troy",
+    "timestamp": 1790559952,
+    "timestamp_local": 1790559952
+  },
+  {
+    "id": 58475,
+    "fecha": "27 de Sep del 2026 a las 09:45 PM",
+    "hora_utc": "2026-09-28 01:45",
+    "mensaje": "💡Restablecido el servicio eléctrico en los siguientes circuitos:\n🔹Municipio Santa Clara:\n👉Cto 7 Universidad\n👉Cto 131 Las Antillas",
+    "timestamp": 1790559917,
+    "timestamp_local": 1790559917
+  },
+  {
+    "id": 58474,
+    "fecha": "27 de Sep del 2026 a las 09:39 PM",
+    "hora_utc": "2026-09-28 01:39",
+    "mensaje": "⚠️Afectado el servicio eléctrico en los siguientes circuitos:\n🔹Municipio Sagua \n👉Cto 48 Finalet\n👉Cto 136 Electroquímica",
+    "timestamp": 1790559549,
+    "timestamp_local": 1790559549
+  },
+  {
+    "id": 58473,
+    "fecha": "27 de Sep del 2026 a las 08:34 PM",
+    "hora_utc": "2026-09-28 00:34",
+    "mensaje": "💡Restablecido el servicio eléctrico en el siguiente circuito:\n🔹Municipio Ranchuelo:\n👉Cto 93 Esperanza",
+    "timestamp": 1790555677,
+    "timestamp_local": 1790555677
+  },
+  {
+    "id": 58472,
+    "fecha": "27 de Sep del 2026 a las 08:02 PM",
+    "hora_utc": "2026-09-28 00:02",
+    "mensaje": "Actualización del servicio eléctrico en la provincia.\n👉En este momento la afectación por déficit de capacidad de generación es de 219 MW, demanda máxima posible a apagar en estos momentos.\n👉De los circuitos apagables se mantienen afectados 149.\n👉Cuenta con 393 afectaciones por averías secundarias y de servicio.",
+    "timestamp": 1790553753,
+    "timestamp_local": 1790553753
+  },
+  {
+    "id": 58471,
+    "fecha": "27 de Sep del 2026 a las 07:35 PM",
+    "hora_utc": "2026-09-27 23:35",
+    "mensaje": "💡Restablecido el servicio eléctrico en el siguiente circuito:\n🔹Municipio Caibarién:\n👉Cto 183 Van Troy",
+    "timestamp": 1790552137,
+    "timestamp_local": 1790552137
+  },
+  {
+    "id": 58470,
+    "fecha": "27 de Sep del 2026 a las 07:35 PM",
+    "hora_utc": "2026-09-27 23:35",
+    "mensaje": "⚠️Afectado el servicio eléctrico en los siguientes circuitos:\n🔹Municipio Caibarién:\n👉Ctos 63 y 64",
+    "timestamp": 1790552101,
+    "timestamp_local": 1790552101
+  },
+  {
+    "id": 58469,
+    "fecha": "27 de Sep del 2026 a las 07:29 PM",
+    "hora_utc": "2026-09-27 23:29",
+    "mensaje": "💡Restablecido el servicio eléctrico en el siguiente circuito:\n🔹Municipio Santa Clara:\n👉Cto 4 Consejo-Centro",
+    "timestamp": 1790551796,
+    "timestamp_local": 1790551796
+  },
+  {
+    "id": 58468,
+    "fecha": "27 de Sep del 2026 a las 07:25 PM",
+    "hora_utc": "2026-09-27 23:25",
+    "mensaje": "⚠️Afectado el servicio eléctrico en los siguientes circuitos:\n🔹Municipio Remedios:\n👉Ctos 68 y 118",
+    "timestamp": 1790551528,
+    "timestamp_local": 1790551528
+  },
+  {
     "id": 58467,
     "fecha": "27 de Sep del 2026 a las 07:16 PM",
     "hora_utc": "2026-09-27 23:16",
@@ -78,85 +158,5 @@
     "mensaje": "🕛Actualización del servicio eléctrico.\n✍️El déficit de capacidad de generación en estos momentos es de 197 MW\n✍️En el momento de esta nota, se mantienen afectados 131 circuitos.\n✍️ Cuenta con 462 afectaciones por averías secundarias y de servicio:\n🔸 Caibarién (9)\n🔸 Camajuaní (10)\n🔸 Cifuentes (19)\n🔸 Corralillo (9)\n🔸Encrucijada (8)\n🔸 Manicaragua (12)\n🔸 Placetas (4)\n🔸 Ranchuelo (13)\n🔸 Remedios (17)\n🔸 Sagua (16)\n🔸 Santa Clara (245)\n🔸 Santo Domingo (19)\n🛠️Se encuentran 8 averías en vías de solución.\n🛠️Pendientes a solucionar por el área técnica 73.",
     "timestamp": 1790546283,
     "timestamp_local": 1790546283
-  },
-  {
-    "id": 58456,
-    "fecha": "27 de Sep del 2026 a las 05:39 PM",
-    "hora_utc": "2026-09-27 21:39",
-    "mensaje": "⚠️Afectado el servicio eléctrico en los siguientes circuitos:\n🔹Municipio Santo Domingo:\n👉Cto 79 Santo Domingo\n👉Cto 81 26 de Julio\n👉Cto 163 Batey 26 de Julio\n🔹Municipio Ranchuelo:\n👉Ctos 54, 94 y 95 Jicotea",
-    "timestamp": 1790545163,
-    "timestamp_local": 1790545163
-  },
-  {
-    "id": 58455,
-    "fecha": "27 de Sep del 2026 a las 05:24 PM",
-    "hora_utc": "2026-09-27 21:24",
-    "mensaje": "💡Restablecido el servicio eléctrico en los siguientes circuitos:\n🔹Municipio Santa Clara:\n👉Ctos 169 y 168 Condado",
-    "timestamp": 1790544289,
-    "timestamp_local": 1790544289
-  },
-  {
-    "id": 58454,
-    "fecha": "27 de Sep del 2026 a las 05:09 PM",
-    "hora_utc": "2026-09-27 21:09",
-    "mensaje": "⚠️Afectado el servicio eléctrico en los siguientes circuitos:\n🔹Municipio Camajuaní:\n👉Ctos 72 y 129",
-    "timestamp": 1790543341,
-    "timestamp_local": 1790543341
-  },
-  {
-    "id": 58453,
-    "fecha": "27 de Sep del 2026 a las 05:05 PM",
-    "hora_utc": "2026-09-27 21:05",
-    "mensaje": "⚠️Afectado el servicio eléctrico en los siguientes circuitos:\n🔹Municipio Remedios:\n👉Ctos 69 y 70 Zuluetas",
-    "timestamp": 1790543150,
-    "timestamp_local": 1790543150
-  },
-  {
-    "id": 58452,
-    "fecha": "27 de Sep del 2026 a las 04:43 PM",
-    "hora_utc": "2026-09-27 20:43",
-    "mensaje": "⚠️Afectado el servicio eléctrico en los siguientes circuitos:\n🔹Municipio Sagua\n👉Ctos 43 y 51 \n🔹Municipio Camajuaní:\n👉Cto 74 José María Pérez",
-    "timestamp": 1790541835,
-    "timestamp_local": 1790541835
-  },
-  {
-    "id": 58451,
-    "fecha": "27 de Sep del 2026 a las 04:38 PM",
-    "hora_utc": "2026-09-27 20:38",
-    "mensaje": "⚠️Afectado el servicio eléctrico en el siguiente circuito:\n🔹Municipio Santa Clara:\n👉Cto 13 Zona Industrial",
-    "timestamp": 1790541489,
-    "timestamp_local": 1790541489
-  },
-  {
-    "id": 58450,
-    "fecha": "27 de Sep del 2026 a las 04:25 PM",
-    "hora_utc": "2026-09-27 20:25",
-    "mensaje": "⚠️Afectado el servicio eléctrico en los siguientes circuitos:\n🔹Municipio Santa Clara:\n👉Ctos 37 y 38 Yabú \n👉Cto 9 Moldes y Troqueles\n👉Cto 133 Taller Cafetera",
-    "timestamp": 1790540759,
-    "timestamp_local": 1790540759
-  },
-  {
-    "id": 58449,
-    "fecha": "27 de Sep del 2026 a las 04:23 PM",
-    "hora_utc": "2026-09-27 20:23",
-    "mensaje": "⚠️Afectado el servicio eléctrico en los siguientes circuitos:\n🔹Municipio Santa Clara:\n👉Cto 5 Dobarganes\n👉Cto 17 Subplanta",
-    "timestamp": 1790540592,
-    "timestamp_local": 1790540592
-  },
-  {
-    "id": 58448,
-    "fecha": "27 de Sep del 2026 a las 04:19 PM",
-    "hora_utc": "2026-09-27 20:19",
-    "mensaje": "⚠️Afectado el servicio eléctrico en el siguiente circuito:\n🔹Municipio Quemado:\n👉Cto 196 Batey Panchito Gómez Toro",
-    "timestamp": 1790540382,
-    "timestamp_local": 1790540382
-  },
-  {
-    "id": 58447,
-    "fecha": "27 de Sep del 2026 a las 04:17 PM",
-    "hora_utc": "2026-09-27 20:17",
-    "mensaje": "⚠️Afectado el servicio eléctrico en los siguientes circuitos:\n🔹Municipio Ranchuelo: \n👉Cto188 \n👉Ctos 148 y 149 San Juan\n👉Cto 91 Batey Osvaldo Herrera\n🔹Municipio Quemado:\n👉Cto 53",
-    "timestamp": 1790540224,
-    "timestamp_local": 1790540224
   }
 ]
