@@ -1,5 +1,21 @@
 [
   {
+    "id": 21649,
+    "fecha": "29 de Sep del 2026 a las 08:10 AM",
+    "hora_utc": "2026-09-29 12:10",
+    "mensaje": "Nota informativa. \nSituación del SEN para el 29 de septiembre de 2026.\nEn el día de ayer se afectó el servicio por déficit de capacidad durante las 24 horas y se mantuvo la afectación durante todo el horario de la madrugada. La máxima afectación por déficit de capacidad de generación en el día de ayer fue de 1858 MW a las 19:10 horas.\nLa producción energías de los parques solares fotovoltaicos fue de 3659 MWh, con 569 MW como máxima potencia entregada en el horario de la media con esta fuente de generación.\nLa disponibilidad del SEN a las 06:00 horas es de 1060 MW, la demanda 2461 MW con 1401 MW afectados. En el horario de la media se estima una afectación de 1650 MW.\nSe encuentran en avería la unidad de la CTE Guiteras, la unidad 2 de la CTE Felton y la unidad 6 de la CTE Renté. Se encuentran en mantenimiento la unidad 3 de la CTE Santa Cruz, la unidad 5 de la CTE Nuevitas y la unidad 5 de la CTE Renté.\nLas limitaciones en la generación térmica son de 396 MW.\nSe prevé, para el horario de máxima demanda, una disponibilidad de 1060 MW con una demanda máxima de 3050 MW, para un déficit de 1990 MW, por lo que de mantenerse las condiciones previstas se pronostica una afectación de 2020 MW en este horario.\nUNE-MINEM",
+    "timestamp": 1790683839,
+    "timestamp_local": 1790683839
+  },
+  {
+    "id": 21647,
+    "fecha": "29 de Sep del 2026 a las 07:00 AM",
+    "hora_utc": "2026-09-29 11:00",
+    "mensaje": "🗓Al cierre de las 6:00 horas del día 29/09/2026, nuestro sistema registra un total de 534 interrupciones.                                                                                                            📋 Nuestra provincia cuenta con 105 Transformadores dañados, de ellos 71 en el sector residencial y 34 en el sector estatal.",
+    "timestamp": 1790679620,
+    "timestamp_local": 1790679620
+  },
+  {
     "id": 21643,
     "fecha": "28 de Sep del 2026 a las 09:04 PM",
     "hora_utc": "2026-09-29 01:04",
@@ -62,21 +78,5 @@
     "mensaje": "👉1. Si presenta o conoce alguna avería, haga su reporte al Centro de Atención Telefónico📲 mediante el 18888, estamos a su servicio.\n2. Conocer de forma exacta la dirección de su vivienda (número de casa, calle, entre calles, reparto, localidad)\n3. Ubicar un punto de referencia, que permita llegar hasta su vivienda con mayor rapidez (lugar o persona reconocida en la zona)\n\n4. En caso de un cable caído, aunque usted crea que no está energizado, NO\nLO TOQUE. Repórtelo y preserve el lugar, hasta que llegue el personal \nde la Empresa.\n5. Anote el número de su reporte para ser utilizado en caso de reclamaciones, o para comprobar el estado del mismo.\n6. Si usted tiene servicio eléctrico, pero existen variaciones del voltaje, desconecte los equipos, para que no se dañen.",
     "timestamp": 1790559020,
     "timestamp_local": 1790559020
-  },
-  {
-    "id": 21627,
-    "fecha": "27 de Sep del 2026 a las 06:00 PM",
-    "hora_utc": "2026-09-27 22:00",
-    "mensaje": "🔔Al cierre de las 18:00 horas del día 27/09/2026 nuestro sistema registra un total de 565 interrupciones.                                                                                   🔔La Provincia registra un total de 93 transformadores dañados, de ellos 59 residenciales y 34 estatales.",
-    "timestamp": 1790546409,
-    "timestamp_local": 1790546409
-  },
-  {
-    "id": 21625,
-    "fecha": "27 de Sep del 2026 a las 04:41 PM",
-    "hora_utc": "2026-09-27 20:41",
-    "mensaje": "⚡📊 ACTUALIZACIÓN DEL SEN 📊⚡\n\n☀️ GENERACIÓN FOTOVOLTAICA ESTIMADA\n🔹 Entre 290 y 340 MW\n\n📈 COMIENZA EL AUMENTO DE LA DEMANDA NACIONAL\n\n📉 COMIENZA LA CAÍDA DE LA GENERACIÓN FOTOVOLTAICA\n\n⚠️ La combinación de mayor demanda y menor generación fotovoltaica puede incrementar progresivamente la afectación por déficit.",
-    "timestamp": 1790541660,
-    "timestamp_local": 1790541660
   }
 ]
