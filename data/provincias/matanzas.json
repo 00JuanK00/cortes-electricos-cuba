@@ -1,5 +1,45 @@
 [
   {
+    "id": 39143,
+    "fecha": "28 de Sep del 2026 a las 08:20 PM",
+    "hora_utc": "2026-09-29 00:20",
+    "mensaje": "⚡En este momento tenemos afectados por déficit de capacidad de generación 183 MW.",
+    "timestamp": 1790641206,
+    "timestamp_local": 1790641206
+  },
+  {
+    "id": 39142,
+    "fecha": "28 de Sep del 2026 a las 08:01 PM",
+    "hora_utc": "2026-09-29 00:01",
+    "mensaje": "Se encuentra en AVERÍA el circuito Z1183 el Ramal de Monticelo,  se afecta Monticelo y Canímar.",
+    "timestamp": 1790640073,
+    "timestamp_local": 1790640073
+  },
+  {
+    "id": 39141,
+    "fecha": "28 de Sep del 2026 a las 07:31 PM",
+    "hora_utc": "2026-09-28 23:31",
+    "mensaje": "⚡En este momento tenemos afectados por déficit de capacidad de generación 173 MW.",
+    "timestamp": 1790638310,
+    "timestamp_local": 1790638310
+  },
+  {
+    "id": 39140,
+    "fecha": "28 de Sep del 2026 a las 06:31 PM",
+    "hora_utc": "2026-09-28 22:31",
+    "mensaje": "🔄 Una vez que podamos rotar el servicio, iremos restableciendo de manera paulatina los circuitos que han estado más tiempo sin suministro en dependencia del comportamiento de la demanda y la disponibilidad del sistema eléctrico.",
+    "timestamp": 1790634677,
+    "timestamp_local": 1790634677
+  },
+  {
+    "id": 39139,
+    "fecha": "28 de Sep del 2026 a las 06:30 PM",
+    "hora_utc": "2026-09-28 22:30",
+    "mensaje": "La provincia se encuentra en el máximo apagable en este horario con un déficit de capacidad de generación de 173 MW.",
+    "timestamp": 1790634610,
+    "timestamp_local": 1790634610
+  },
+  {
     "id": 39138,
     "fecha": "28 de Sep del 2026 a las 04:54 PM",
     "hora_utc": "2026-09-28 20:54",
@@ -118,45 +158,5 @@
     "mensaje": "⚡ Déficit de capacidad de generación en la provincia: * 163 MW .* ⚡",
     "timestamp": 1790544230,
     "timestamp_local": 1790544230
-  },
-  {
-    "id": 39123,
-    "fecha": "27 de Sep del 2026 a las 04:29 PM",
-    "hora_utc": "2026-09-27 20:29",
-    "mensaje": "CON SERVICIO\n\nCIRCUITO 5170 Varadero 110kV\nCIRCUITO 4995 Varadero 110kV",
-    "timestamp": 1790540977,
-    "timestamp_local": 1790540977
-  },
-  {
-    "id": 39122,
-    "fecha": "27 de Sep del 2026 a las 03:53 PM",
-    "hora_utc": "2026-09-27 19:53",
-    "mensaje": "‼️Nos mantenemos con 129  MW de afectación por déficit de capacidad de generación en nuestra provincia.",
-    "timestamp": 1790538810,
-    "timestamp_local": 1790538810
-  },
-  {
-    "id": 39121,
-    "fecha": "27 de Sep del 2026 a las 02:32 PM",
-    "hora_utc": "2026-09-27 18:32",
-    "mensaje": "CON SERVICIO\n\nCIRCUITO 4935 Colón 110kV",
-    "timestamp": 1790533926,
-    "timestamp_local": 1790533926
-  },
-  {
-    "id": 39120,
-    "fecha": "27 de Sep del 2026 a las 01:38 PM",
-    "hora_utc": "2026-09-27 17:38",
-    "mensaje": "‼️Nos mantenemos con 123 MW de afectación por déficit de capacidad de generación en nuestra provincia.",
-    "timestamp": 1790530734,
-    "timestamp_local": 1790530734
-  },
-  {
-    "id": 39119,
-    "fecha": "27 de Sep del 2026 a las 12:59 PM",
-    "hora_utc": "2026-09-27 16:59",
-    "mensaje": "CON SERVICIO\n\nCIRCUITO 4220 Cárdenas 110/33kV",
-    "timestamp": 1790528343,
-    "timestamp_local": 1790528343
   }
 ]
