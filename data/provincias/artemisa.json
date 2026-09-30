@@ -1,5 +1,53 @@
 [
   {
+    "id": 39312,
+    "fecha": "30 de Sep del 2026 a las 11:59 AM",
+    "hora_utc": "2026-09-30 15:59",
+    "mensaje": "👉  Actualización de los circuitos afectados por déficit de generación en estos momentos en la provincia :\n\n ➡️ Candelaria ,Soroa \n➡️S-20, 4 Caminos , Martí San Cristóbal\n ➡️Fca de Pienso , Palmar (pueblo ) , Alquitex (pueblo) ,Alquizar 4000\n ➡️236 , 246 (manipulado ) BH 342 Bahía \n➡️A-1270 (manipulado ), 1500, 1570 , Gran Panel , Pilar  Artemisa \n➡️3220 (manipulado ) \n➡️Gabriel , Pedro Díaz , Junco Güira de Melena \n\n👉  Nos encontramos con una afectación de 155 MW .",
+    "timestamp": 1790783959,
+    "timestamp_local": 1790783959
+  },
+  {
+    "id": 39311,
+    "fecha": "30 de Sep del 2026 a las 10:29 AM",
+    "hora_utc": "2026-09-30 14:29",
+    "mensaje": "‼️ Circuito 341 municipio San Cristóbal en falla. ‼️",
+    "timestamp": 1790778549,
+    "timestamp_local": 1790778549
+  },
+  {
+    "id": 39310,
+    "fecha": "30 de Sep del 2026 a las 10:27 AM",
+    "hora_utc": "2026-09-30 14:27",
+    "mensaje": "🚨 Se encuentra en afectación por Vía libre Subestación Plátano perteneciente al municipio Artemisa, para trabajar en primario partido  .",
+    "timestamp": 1790778474,
+    "timestamp_local": 1790778474
+  },
+  {
+    "id": 39309,
+    "fecha": "30 de Sep del 2026 a las 06:58 AM",
+    "hora_utc": "2026-09-30 10:58",
+    "mensaje": "🚨Avería en fábrica de carretas a partir del x 421 pendiente a recorrer",
+    "timestamp": 1790765913,
+    "timestamp_local": 1790765913
+  },
+  {
+    "id": 39308,
+    "fecha": "30 de Sep del 2026 a las 06:54 AM",
+    "hora_utc": "2026-09-30 10:54",
+    "mensaje": "🚨Afectado por deficit los siguientes circuitos \n➡️San Cristóbal (excepto el hospital)\n➡️1940 de San Antonio\n➡️5040 de Caimito\n➡️Cárcel y 4 mil de Guanajay\n➡️1580 de Alquízar\n➡️1270 de Artemisa\n➡️ Bahía Honda excepto  el hospital\n❌Tenemos una afectación de 204 MW",
+    "timestamp": 1790765672,
+    "timestamp_local": 1790765672
+  },
+  {
+    "id": 39307,
+    "fecha": "30 de Sep del 2026 a las 06:45 AM",
+    "hora_utc": "2026-09-30 10:45",
+    "mensaje": "🚨En falla el circuito 3210 de Guanajay",
+    "timestamp": 1790765148,
+    "timestamp_local": 1790765148
+  },
+  {
     "id": 39306,
     "fecha": "30 de Sep del 2026 a las 12:56 AM",
     "hora_utc": "2026-09-30 04:56",
@@ -110,53 +158,5 @@
     "mensaje": "🚨Afectados por defecti los siguientes circuitos\n➡️1580 de Alquízar\n➡️1270 (manipulado de Artemisa\n➡️246 de Bahía Honda",
     "timestamp": 1790713017,
     "timestamp_local": 1790713017
-  },
-  {
-    "id": 39291,
-    "fecha": "29 de Sep del 2026 a las 02:01 PM",
-    "hora_utc": "2026-09-29 18:01",
-    "mensaje": "🚨Disparado por tormenta los siguientes circuitos\n➡️3220 de San Antonio\n➡️3305 de Güira de Melena\n➡️1580 de Alquízar\n➡️3210 de Guanajay",
-    "timestamp": 1790704883,
-    "timestamp_local": 1790704883
-  },
-  {
-    "id": 39290,
-    "fecha": "29 de Sep del 2026 a las 01:41 PM",
-    "hora_utc": "2026-09-29 17:41",
-    "mensaje": "🚨Afectado por deficit los siguientes circuitos\n➡️S 20 de San Cristóbal\n➡️2 Palmar y 4 mil de Alquízar\n❌Tenemos una afectación de 132 MW",
-    "timestamp": 1790703704,
-    "timestamp_local": 1790703704
-  },
-  {
-    "id": 39289,
-    "fecha": "29 de Sep del 2026 a las 12:29 PM",
-    "hora_utc": "2026-09-29 16:29",
-    "mensaje": "🚨Vía libre en Junco para empatar primarios",
-    "timestamp": 1790699393,
-    "timestamp_local": 1790699393
-  },
-  {
-    "id": 39288,
-    "fecha": "29 de Sep del 2026 a las 12:19 PM",
-    "hora_utc": "2026-09-29 16:19",
-    "mensaje": "🚨Afectado por deficit el circuito BH 342 de Bahía Honda",
-    "timestamp": 1790698780,
-    "timestamp_local": 1790698780
-  },
-  {
-    "id": 39287,
-    "fecha": "29 de Sep del 2026 a las 12:06 PM",
-    "hora_utc": "2026-09-29 16:06",
-    "mensaje": "🚨Disparado el circuito de Mártires de Artemisa",
-    "timestamp": 1790697979,
-    "timestamp_local": 1790697979
-  },
-  {
-    "id": 39286,
-    "fecha": "29 de Sep del 2026 a las 11:40 AM",
-    "hora_utc": "2026-09-29 15:40",
-    "mensaje": "🚨Afectado por deficit los siguientes circuitos\n➡️Gran panel ,Pilar y1500 de Artemisa",
-    "timestamp": 1790696454,
-    "timestamp_local": 1790696454
   }
 ]
