@@ -1,9 +1,49 @@
 [
   {
+    "id": 58616,
+    "fecha": "30 de Sep del 2026 a las 04:20 PM",
+    "hora_utc": "2026-09-30 20:20",
+    "mensaje": "🔴Estimados clientes se les informa que se incorpora a la afectación por Déficit el circuito 11 seccionalizado .",
+    "timestamp": 1790799614,
+    "timestamp_local": 1790799614
+  },
+  {
+    "id": 58615,
+    "fecha": "30 de Sep del 2026 a las 04:07 PM",
+    "hora_utc": "2026-09-30 20:07",
+    "mensaje": "🛑 Estimados clientes en estos momentos se encuentran afectados por Déficit de Capacidad de Generación los circuitos 7 seccionalizado de Santiago, 1 y 2 de  Contramaestre y la línea 4435 Contramaestre. Disculpen por las molestias ocasionadas.",
+    "timestamp": 1790798847,
+    "timestamp_local": 1790798847
+  },
+  {
+    "id": 58614,
+    "fecha": "30 de Sep del 2026 a las 03:39 PM",
+    "hora_utc": "2026-09-30 19:39",
+    "mensaje": "🛑Estimados clientes en estos momentos se encuentran afectados por Déficit de Capacidad de Generación los circuitos 3, las líneas 5395 San Luis, 4390 y 4385 Contramaestre, disculpen por las molestias ocasionadas.",
+    "timestamp": 1790797154,
+    "timestamp_local": 1790797154
+  },
+  {
+    "id": 58613,
+    "fecha": "30 de Sep del 2026 a las 01:47 PM",
+    "hora_utc": "2026-09-30 17:47",
+    "mensaje": "🛑 Estimados clientes en estos momentos se encuentra afectado por Déficit de Capacidad de Generación el ramal de III Frente , disculpen por las molestias ocasionadas.",
+    "timestamp": 1790790450,
+    "timestamp_local": 1790790450
+  },
+  {
+    "id": 58612,
+    "fecha": "30 de Sep del 2026 a las 01:12 PM",
+    "hora_utc": "2026-09-30 17:12",
+    "mensaje": "🛑Estimados clientes en estos momentos se encuentran afectados por Déficit de Capacidad de Generación el circuito 24 y la línea 5390 seccionalizada , disculpen por las molestias ocasionadas.",
+    "timestamp": 1790788331,
+    "timestamp_local": 1790788331
+  },
+  {
     "id": 58611,
     "fecha": "30 de Sep del 2026 a las 11:42 AM",
     "hora_utc": "2026-09-30 15:42",
-    "mensaje": "🛑Estimados clientes en estos momentos se encuentra afectado por Déficit de Capacidad de Generación el circuito 8, disculpen por las molestias ocasionadas.",
+    "mensaje": "🛑Estimados clientes en estos momentos se encuentran afectados por Déficit de Capacidad de Generación los circuitos 8 , 16 de Santiago y 2 de Palma, disculpen por las molestias ocasionadas.",
     "timestamp": 1790782969,
     "timestamp_local": 1790782969
   },
@@ -110,37 +150,5 @@
     "mensaje": "🚨 Estimados clientes en estos momentos se encuentran afectados por Déficit 1, 11, 21, 1 de Palma y la línea 5330- Cristo y 5380- Mella.",
     "timestamp": 1790753167,
     "timestamp_local": 1790753167
-  },
-  {
-    "id": 58595,
-    "fecha": "30 de Sep del 2026 a las 12:56 AM",
-    "hora_utc": "2026-09-30 04:56",
-    "mensaje": "🚨Estimados clientes se afecta por Déficit de Capacidad de Generación el circuito 19 de Santiago.",
-    "timestamp": 1790744173,
-    "timestamp_local": 1790744173
-  },
-  {
-    "id": 58594,
-    "fecha": "30 de Sep del 2026 a las 12:28 AM",
-    "hora_utc": "2026-09-30 04:28",
-    "mensaje": "🚨 Estimados clientes en estos momentos se encuentran afectados por Déficit  el circuito 13 de Santiago y las líneas 4435 y 4385 de Contramaestre.",
-    "timestamp": 1790742517,
-    "timestamp_local": 1790742517
-  },
-  {
-    "id": 58593,
-    "fecha": "29 de Sep del 2026 a las 11:23 PM",
-    "hora_utc": "2026-09-30 03:23",
-    "mensaje": "🚨 Estimados clientes se afecta por Déficit de Capacidad de Generación el circuito 20.",
-    "timestamp": 1790738591,
-    "timestamp_local": 1790738591
-  },
-  {
-    "id": 58592,
-    "fecha": "29 de Sep del 2026 a las 11:01 PM",
-    "hora_utc": "2026-09-30 03:01",
-    "mensaje": "🛑📌 Estimados clientes, se les reitera que el comportamiento de las afectaciones eléctricas y el restablecimiento del servicio, estará en dependencia de la situación que presente el Sistema Electroenergético Nacional.",
-    "timestamp": 1790737297,
-    "timestamp_local": 1790737297
   }
 ]
