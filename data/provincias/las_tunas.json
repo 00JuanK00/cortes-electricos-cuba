@@ -1,5 +1,13 @@
 [
   {
+    "id": 21695,
+    "fecha": "02 de Oct del 2026 a las 05:00 PM",
+    "hora_utc": "2026-10-02 21:00",
+    "mensaje": "📣Que significa e implica la máxima capacidad apagable en la provincia: \n 📈 Máxima capacidad apagable se refiere al nivel máximo de demanda eléctrica que puede ser desconectada o suspendida temporalmente en la provincia, explica la complejidad del déficit de generación o contingencias en el sistema eléctrico.\nRepresenta el límite superior de la reducción de carga que la empresa puede lograr mediante cortes de energía (apagones). Cuanto mayor sea la máxima capacidad apagable, mayor será el déficit de energía.\n                              ¿Qué implica esto?\nSe identifica cuántos circuitos pueden ser apagados para equilibrar la carga del sistema, esto imposibilita realizar rotaciones, se encuentran afectados todos los circuitos apagables del territorio. Podrán presentarse afectaciones en el servicio de electricidad durante varias horas al día y el tiempo con servicio dependerá del comportamiento del SEN. Esta medida es necesaria para evitar fallas mayores y proteger la infraestructura eléctrica.",
+    "timestamp": 1790974816,
+    "timestamp_local": 1790974816
+  },
+  {
     "id": 21694,
     "fecha": "02 de Oct del 2026 a las 04:06 PM",
     "hora_utc": "2026-10-02 20:06",
@@ -70,21 +78,5 @@
     "mensaje": "La ejecución de una treintena de cordones de soldadura, la verificación metalográfica y las pruebas neumáticas e hidráulicas marcan, en este momento, la ruta crítica del mantenimiento de la central termoeléctrica Antonio Guiteras, en Matanzas.\n\nEl ingeniero Elmer García Romero, subdirector técnico del bloque yumurino, precisó que, dado el avance de los trabajos de soldadura, que se realizan durante las 24 horas, se estima que la unidad podría entrar al Sistema Electroenergético Nacional el próximo sábado.\n\nGarcía Romero añadió que se trabaja en un área de difícil acceso del recalentador de alta temperatura, con sumo cuidado en todos los componentes intervenidos, y además en varios frentes, como el eléctrico, la automática y el de válvulas.\n\nSi todo sale como esperamos —apuntó—, después del mediodía del viernes concluirán los trabajos y se iniciarán las pruebas con presión de trabajo, que pueden demorar hasta seis horas; a partir de ese momento comenzará el proceso de arranque.",
     "timestamp": 1790892310,
     "timestamp_local": 1790892310
-  },
-  {
-    "id": 21674,
-    "fecha": "01 de Oct del 2026 a las 08:13 AM",
-    "hora_utc": "2026-10-01 12:13",
-    "mensaje": "🔴 02:40 || fuera de línea la Unidad 5 de Máximo Gómez.",
-    "timestamp": 1790856828,
-    "timestamp_local": 1790856828
-  },
-  {
-    "id": 21673,
-    "fecha": "01 de Oct del 2026 a las 08:12 AM",
-    "hora_utc": "2026-10-01 12:12",
-    "mensaje": "🚨Nota informativa🚨\n\n📅Situación del SEN para el 01 de octubre de 2026.\n\n👉 En el día de ayer se afectó el servicio por déficit de capacidad durante las 24 horas y se mantuvo la afectación durante todo el horario de la madrugada. La máxima afectación por déficit de capacidad de generación en el día de ayer fue de 1940 MW a las 19:30 horas, no coincidiendo con el horario de máxima de demanda.\n\n☀️ La producción energías de los parques solares fotovoltaicos fue de 2843 MWh, con 442 MW como máxima potencia entregada en el horario de la media con esta fuente de generación.\n\n📈 La disponibilidad del SEN a las 06:00 horas es de 1060 MW, la demanda 2550 MW con 1520 MW afectados. En el horario de la media se estima una afectación de 1500 MW.\n\n🛠️ Se encuentran en avería la unidad 5 de la CTE Mariel, la unidad de la CTE Guiteras, la unidad 2 de la CTE Felton y la unidad 6 de la CTE Renté. Se encuentran en mantenimiento la unidad 3 de la CTE Santa Cruz, la unidad 5 de la CTE Nuevitas y la unidad 5 de la CTE Renté.\n\n👉 Las limitaciones en la generación térmica son de 377 MW.\n\n🟢 Para el pico se pronostica la entrada de la unidad 5 de la CTE Mariel con 60 MW y el completamiento de 20 MW en la unidad 6 de la CTE Nuevitas.\n\n📝 Con este pronóstico se prevé para el horario de máxima demanda una disponibilidad de 1140 MW con una demanda máxima de 3050 MW, para un déficit de 1910 MW, por lo que de mantenerse las condiciones previstas se pronostica una afectación de 1940 MW en este horario.\n\nUNE-MINEM---07:00 horas.",
-    "timestamp": 1790856775,
-    "timestamp_local": 1790856775
   }
 ]
