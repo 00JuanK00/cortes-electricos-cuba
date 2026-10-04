@@ -1,5 +1,21 @@
 [
   {
+    "id": 21720,
+    "fecha": "04 de Oct del 2026 a las 01:27 PM",
+    "hora_utc": "2026-10-04 17:27",
+    "mensaje": "Se declara en avería el circuito:TK47 La Micro Puerto Padre",
+    "timestamp": 1791134868,
+    "timestamp_local": 1791134868
+  },
+  {
+    "id": 21719,
+    "fecha": "04 de Oct del 2026 a las 01:25 PM",
+    "hora_utc": "2026-10-04 17:25",
+    "mensaje": "Se declara en avería el circuito:TK25 Cuatro Caminos, Dormitorio",
+    "timestamp": 1791134724,
+    "timestamp_local": 1791134724
+  },
+  {
     "id": 21718,
     "fecha": "04 de Oct del 2026 a las 12:49 PM",
     "hora_utc": "2026-10-04 16:49",
@@ -62,29 +78,5 @@
     "mensaje": "Nota informativa. \nSituación del SEN para el 03 de octubre de 2026.\nEn el día de ayer se afectó el servicio por déficit de capacidad durante las 24 horas y se mantuvo la afectación durante todo el horario de la madrugada. La máxima afectación por déficit de capacidad de generación en el día de ayer fue de 2130          MW a las 20:40 horas.\nLa producción energías de los parques solares fotovoltaicos fue de 3726 MWh, con 580 MW como máxima potencia entregada en el horario de la media con esta fuente de generación.  \nLa disponibilidad del SEN a las 06:00 horas es de 1050 MW, la demanda 2720 MW con 1670 MW afectados. En el horario de la media se estima una afectación de 1550 MW.\nSe encuentran en avería la unidad 5 de la CTE Mariel, la unidad de la CTE Guiteras, la unidad 2 de la CTE Felton y la unidad 6 de la CTE Rente. Se encuentran en mantenimiento la unidad 3 de la CTE Santa Cruz, la unidad 5 de la CTE Nuevitas y la unidad 5 de la CTE Renté. \nLas limitaciones en la generación térmica son de 377 MW.\nSe considera la entrada para el horario pico la unidad 5 de la CTE Mariel con 50 MW, con este pronóstico para el horario de máxima demanda se estima una disponibilidad de 1100 MW con una demanda máxima de 3100 MW, para un déficit de 2000 MW, por lo que de mantenerse las condiciones previstas se pronostica una afectación de 2030 MW en este horario.",
     "timestamp": 1791029671,
     "timestamp_local": 1791029671
-  },
-  {
-    "id": 21703,
-    "fecha": "03 de Oct del 2026 a las 08:09 AM",
-    "hora_utc": "2026-10-03 12:09",
-    "mensaje": "En la provincia en estos momentos se encuentran en avería los siguientes circuitos:\nTK19- Desde Melanio 5 y Pozo Salado hasta Las Lajitas, Las 40´s y Las Tablas, del municipio de Jobabo\nTK50 Vázquez en la zona de Gayol, Las Brisas, Pozo Prieto,Playa la Jíbara.",
-    "timestamp": 1791029352,
-    "timestamp_local": 1791029352
-  },
-  {
-    "id": 21702,
-    "fecha": "03 de Oct del 2026 a las 08:04 AM",
-    "hora_utc": "2026-10-03 12:04",
-    "mensaje": "🟢 07:27 || En línea la Unidad 5 de la CTE Máximo Gómez de Mariel",
-    "timestamp": 1791029090,
-    "timestamp_local": 1791029090
-  },
-  {
-    "id": 21697,
-    "fecha": "02 de Oct del 2026 a las 08:54 PM",
-    "hora_utc": "2026-10-03 00:54",
-    "mensaje": "🔵⚡ DÉFICIT NACIONAL – #AHORA ⚡🔵\n\n━━━━━━━━━━━━━━━━━━━━ 📊 DÉFICIT ESTIMADO:\n🔴 2,068 MW\n\n🕣 Hora: 8:39 PM\n📍 Sistema Eléctrico Nacional (SEN)\n\n⚠️ Situación energética crítica",
-    "timestamp": 1790988859,
-    "timestamp_local": 1790988859
   }
 ]

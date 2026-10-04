@@ -1,5 +1,61 @@
 [
   {
+    "id": 123030,
+    "fecha": "04 de Oct del 2026 a las 04:00 PM",
+    "hora_utc": "2026-10-04 20:00",
+    "mensaje": "♦️Informamos a los clientes de los siguientes circuitos que se encuentran afectados por disparo en las líneas por 110 KV:\n*Héctor Molina\n*Vedado de Güines ♦️",
+    "timestamp": 1791144034,
+    "timestamp_local": 1791144034
+  },
+  {
+    "id": 123029,
+    "fecha": "04 de Oct del 2026 a las 03:57 PM",
+    "hora_utc": "2026-10-04 19:57",
+    "mensaje": "🔷Solucionadas las averías en los siguientes circuitos:\n*Somorrostro\n*Jamaica\n*Censa🔷",
+    "timestamp": 1791143844,
+    "timestamp_local": 1791143844
+  },
+  {
+    "id": 123028,
+    "fecha": "04 de Oct del 2026 a las 03:40 PM",
+    "hora_utc": "2026-10-04 19:40",
+    "mensaje": "🚨Por déficit de capacidad de generación se afecta el servicio en el siguiente circuito :\n*Sureste🚨",
+    "timestamp": 1791142833,
+    "timestamp_local": 1791142833
+  },
+  {
+    "id": 123027,
+    "fecha": "04 de Oct del 2026 a las 03:00 PM",
+    "hora_utc": "2026-10-04 19:00",
+    "mensaje": "🚨Por déficit de capacidad de generación se afecta el servicio en el siguiente circuito :\n*Jaruco 1 🚨",
+    "timestamp": 1791140429,
+    "timestamp_local": 1791140429
+  },
+  {
+    "id": 123026,
+    "fecha": "04 de Oct del 2026 a las 02:41 PM",
+    "hora_utc": "2026-10-04 18:41",
+    "mensaje": "🚨Por déficit de capacidad de generación se afecta el servicio en el siguiente circuito :\n*Quivicán 🚨",
+    "timestamp": 1791139301,
+    "timestamp_local": 1791139301
+  },
+  {
+    "id": 123025,
+    "fecha": "04 de Oct del 2026 a las 02:30 PM",
+    "hora_utc": "2026-10-04 18:30",
+    "mensaje": "🚨Por déficit de capacidad de generación se afecta el servicio en el siguiente circuito :\n*Güines 2 🚨",
+    "timestamp": 1791138626,
+    "timestamp_local": 1791138626
+  },
+  {
+    "id": 123024,
+    "fecha": "04 de Oct del 2026 a las 01:30 PM",
+    "hora_utc": "2026-10-04 17:30",
+    "mensaje": "🚨Por déficit de capacidad de generación se afecta el servicio en los siguientes circuitos:\n*La Salud 2\n*Palomo\n*5 de San José 🚨",
+    "timestamp": 1791135033,
+    "timestamp_local": 1791135033
+  },
+  {
     "id": 123023,
     "fecha": "04 de Oct del 2026 a las 12:57 PM",
     "hora_utc": "2026-10-04 16:57",
@@ -27,7 +83,7 @@
     "id": 123020,
     "fecha": "04 de Oct del 2026 a las 12:08 PM",
     "hora_utc": "2026-10-04 16:08",
-    "mensaje": "🚨Por déficit de capacidad de generación se afecta el servicio en los siguientes circuitos:\n*Melena 1 y 2\n*Bío 1 🚨",
+    "mensaje": "🚨Por déficit de capacidad de generación se afecta el servicio en los siguientes circuitos:\n*Melena 1 y 2\n*Bío 2🚨",
     "timestamp": 1791130085,
     "timestamp_local": 1791130085
   },
@@ -94,53 +150,5 @@
     "mensaje": "⚡Situación del SEN para el 04 de octubre de 2026.\n\n👉En el día de ayer se afectó el servicio por déficit de capacidad durante las 24 horas y se mantuvo la afectación durante todo el horario de la madrugada. La máxima afectación por déficit de capacidad de generación en el día de ayer fue de 1996          MW a las 20:20 horas.\n\nLa producción energías de los parques solares fotovoltaicos fue de 3937 MWh, con 612 MW como máxima potencia entregada en el horario de la media con esta fuente de generación.  \n\nLa disponibilidad del SEN a las 06:00 horas es de 1070 MW, la demanda 2636 MW con 1591 MW afectados. En el horario de la media se estima una afectación de 1600 MW.\n\nSe encuentran en avería la unidad de la CTE Guiteras, la unidad 2 de la CTE Felton y la unidad 6 de la CTE Rente. Se encuentran en mantenimiento la unidad 3 de la CTE Santa Cruz, la unidad 5 de la CTE Nuevitas y la unidad 5 de la CTE Renté. \n \nLas limitaciones en la generación térmica son de 433 MW.\n\nSe considera la entrada para el horario pico de la unidad de la CTE Guiteras con 140 MW y el completamiento de la unidad 4 de CTE CMC con 30 MW.\n\nCon este pronóstico para el horario de máxima demanda se estima una disponibilidad de 1240 MW con una demanda máxima de 3050 MW, para un déficit de 1810 MW, por lo que de mantenerse las condiciones previstas se pronostica una afectación de 1840 MW en este horario.",
     "timestamp": 1791119211,
     "timestamp_local": 1791119211
-  },
-  {
-    "id": 123009,
-    "fecha": "04 de Oct del 2026 a las 07:33 AM",
-    "hora_utc": "2026-10-04 11:33",
-    "mensaje": "♦️ Informamos a los clientes del circuito Somorrostro que se encuentran afectados por avería ♦️",
-    "timestamp": 1791113602,
-    "timestamp_local": 1791113602
-  },
-  {
-    "id": 123008,
-    "fecha": "04 de Oct del 2026 a las 06:51 AM",
-    "hora_utc": "2026-10-04 10:51",
-    "mensaje": "♦️ Informamos a los clientes del circuito Somorrostro que se encuentran afectados por emergencia ♦️",
-    "timestamp": 1791111115,
-    "timestamp_local": 1791111115
-  },
-  {
-    "id": 123007,
-    "fecha": "04 de Oct del 2026 a las 06:47 AM",
-    "hora_utc": "2026-10-04 10:47",
-    "mensaje": "🚨Por déficit de capacidad de generación se afecta el servicio en el siguiente circuito :\n*UNAH 🚨",
-    "timestamp": 1791110879,
-    "timestamp_local": 1791110879
-  },
-  {
-    "id": 123006,
-    "fecha": "04 de Oct del 2026 a las 06:22 AM",
-    "hora_utc": "2026-10-04 10:22",
-    "mensaje": "🚨Por déficit de capacidad de generación se afecta el servicio en el siguiente circuito :\n*San Nicolás 3 🚨",
-    "timestamp": 1791109362,
-    "timestamp_local": 1791109362
-  },
-  {
-    "id": 123005,
-    "fecha": "04 de Oct del 2026 a las 06:16 AM",
-    "hora_utc": "2026-10-04 10:16",
-    "mensaje": "🚨Por déficit de capacidad de generación se afecta el servicio en el siguiente circuito :\n*2320 🚨",
-    "timestamp": 1791108965,
-    "timestamp_local": 1791108965
-  },
-  {
-    "id": 123004,
-    "fecha": "04 de Oct del 2026 a las 06:15 AM",
-    "hora_utc": "2026-10-04 10:15",
-    "mensaje": "🚨Por déficit de capacidad de generación se afecta el servicio en el siguiente circuito :\n*Magela 🚨",
-    "timestamp": 1791108908,
-    "timestamp_local": 1791108908
   }
 ]
