@@ -1,5 +1,37 @@
 [
   {
+    "id": 21751,
+    "fecha": "06 de Oct del 2026 a las 09:34 AM",
+    "hora_utc": "2026-10-06 13:34",
+    "mensaje": "📌 Estimados Clientes 📌\n1 -Si tienen alguna avería eléctrica, recordamos a nuestros clientes que: \n 2 -Haga su reporte al Centro de Atención Telefónico mediante el 18888, estamos a su servicio 24 horas. \n 3 -Conocer la dirección de su vivienda: número de vivienda, calle, entre calles, localidad o reparto.\n 4 -Ubicar un punto de referencia que permita llegar a su vivienda con mayor rapidez (lugar o persona reconocida en la zona).\n 5 -Anote el número de su reporte para ser utilizado en caso de reclamaciones o para comprobar el estado del mismo.",
+    "timestamp": 1791293692,
+    "timestamp_local": 1791293692
+  },
+  {
+    "id": 21750,
+    "fecha": "06 de Oct del 2026 a las 09:15 AM",
+    "hora_utc": "2026-10-06 13:15",
+    "mensaje": "💡 Restablecida la avería del circuito TK25 Cuatro Caminos, Dormitorio",
+    "timestamp": 1791292503,
+    "timestamp_local": 1791292503
+  },
+  {
+    "id": 21749,
+    "fecha": "06 de Oct del 2026 a las 08:47 AM",
+    "hora_utc": "2026-10-06 12:47",
+    "mensaje": "Al cierre de las 8:10AM horas del día 6/10/2026, nuestro sistema registra un total  de 750 interrupciones\nInterrupciones pendientes: (589)\nAmancio: 12\nJobabo: 17\nColombia:8\nPuerto Padre: 155\nMéndez:10\nManatí:11\nMajibacoa: 15\nLas Tunas: 361\nInterrupciones pendientes a solución:(161)\nAmancio: 6\nJobabo: 7\nColombia:11\nPuerto Padre:35\nMéndez: 15\nManatí: 1\nMajibacoa:8\nLas Tunas: 78\n\nLa provincia registra un total de 101 transformadores dañados, de ellos 66 residenciales y 35 estatales.",
+    "timestamp": 1791290835,
+    "timestamp_local": 1791290835
+  },
+  {
+    "id": 21748,
+    "fecha": "06 de Oct del 2026 a las 07:56 AM",
+    "hora_utc": "2026-10-06 11:56",
+    "mensaje": "🚨Nota informativa🚨\n\n Situación del SEN para el 06 de octubre de 2026.\n\n👉En el día de ayer se afectó el servicio por déficit de capacidad durante las 24 horas y se mantuvo la afectación durante todo el horario de la madrugada. La máxima afectación por déficit de capacidad de generación en el día de ayer fue de 1798          MW a las 19:50 horas.\n\nLa producción energías de los parques solares fotovoltaicos fue de 4742 MWh, con 737 MW como máxima potencia entregada en el horario de la media con esta fuente de generación.\n\n👉La disponibilidad del SEN a las 06:00 horas es de 1223 MW, la demanda 2464 MW con 1231 MW afectados. En el horario de la media se estima una afectación de 1350 MW.\n\n🛠Se encuentran en avería la unidad 2 de la CTE Felton y las unidades 3 y 6 de la CTE Rente. Se encuentran en mantenimiento la unidad 3 de la CTE Santa Cruz, la unidad 5 de la CTE Nuevitas y la unidad 5 de la CTE Renté.\n\n👉Las limitaciones en la generación térmica son de 513 MW.\n\n🗨Con este pronóstico para el horario de máxima demanda se estima una disponibilidad de 1223 MW con una demanda máxima de 3050MW, para un déficit de 1827 MW, por lo que de mantenerse las condiciones previstas se pronostica una afectación de 1857 MW en este horario.\n\nUNE-MINEM",
+    "timestamp": 1791287791,
+    "timestamp_local": 1791287791
+  },
+  {
     "id": 21745,
     "fecha": "05 de Oct del 2026 a las 10:51 PM",
     "hora_utc": "2026-10-06 02:51",
@@ -62,21 +94,5 @@
     "mensaje": "⚡ SEN — 05 DE OCTUBRE DE 2026 ⚡ ║\n║   UNIDADES EN AVERÍA Y MANTENIMIENTO ║\n╠══════════════════════════════════════╣\n║                                      ║\n║ 🔴 EN AVERÍA                         ║\n║                                      ║\n║ 🏭 CTE FELTON                        ║\n║    U2 🔴                             ║\n║                                      ║\n║ 🏭 CTE RENTÉ                         ║\n║    U3 🔴                             ║\n║    U6 🔴                             ║\n║                                      ║\n║ ──────────────────────────────────── ║\n║                                      ║\n║ 🟡 EN MANTENIMIENTO                  ║\n║                                      ║\n║ 🏭 CTE SANTA CRUZ                    ║\n║    U3 🛠️                             ║\n║                                      ║\n║ 🏭 CTE NUEVITAS                      ║\n║    U5 🛠️                             ║\n║                                      ║\n║ 🏭 CTE RENTÉ                         ║\n║    U5 🛠️                             ║\n║                                      ║\n╠══════════════════════════════════════╣\n║ 🔴 AVERÍA:       3 UNIDADES          ║\n║ 🟡 MANTENIMIENTO: 3 UNIDADES         ║\n║                                      ║\n║ ⚠️ LIMITACIONES TÉRMICAS: 519 MW     ║\n╚══════════════════════════════════════╝",
     "timestamp": 1791211940,
     "timestamp_local": 1791211940
-  },
-  {
-    "id": 21731,
-    "fecha": "05 de Oct del 2026 a las 10:41 AM",
-    "hora_utc": "2026-10-05 14:41",
-    "mensaje": "🚨Nota informativa.🚨\n\n📅 Situación del SEN para el 05 de octubre de 2026.\n\nEn el día de ayer se afectó el servicio por déficit de capacidad durante las 24 horas y se mantuvo la afectación durante todo el horario de la madrugada. La máxima afectación por déficit de capacidad de generación en el día de ayer fue de 1895 MW a las 20:10 horas.\n\n📅La producción energías de los parques solares fotovoltaicos fue de 5115 MWh, con 795 MW como máxima potencia entregada en el horario de la media con esta fuente de generación. \n\n👉La disponibilidad del SEN a las 06:00 horas es de 1260 MW, la demanda 2695 MW con 1442 MW afectados. En el horario de la media se estima una afectación de 1500 MW.\n\n🛠Se encuentran en avería la unidad 2 de la CTE Felton y las unidades 3 y 6 de la CTE Rente. Se encuentran en mantenimiento la unidad 3 de la CTE Santa Cruz, la unidad 5 de la CTE Nuevitas y la unidad 5 de la CTE Renté.\n\n👉Las limitaciones en la generación térmica son de 519 MW.\n\n🗨Con este pronóstico para el horario de máxima demanda se estima una disponibilidad de 1260 MW con una demanda máxima de 3150 MW, para un déficit de 1890 MW, por lo que de mantenerse las condiciones previstas se pronostica una afectación de 1920 MW en este horario.",
-    "timestamp": 1791211307,
-    "timestamp_local": 1791211307
-  },
-  {
-    "id": 21729,
-    "fecha": "05 de Oct del 2026 a las 06:57 AM",
-    "hora_utc": "2026-10-05 10:57",
-    "mensaje": "En estos momentos se encuentra disparada la subestación de 4 Caminos:\nTK29 Circunvalación Sur, La Victoria.\nTK7 La Victoria, San Gregorio.\nTK 25 Hermanos Mayo, Parnaso, Dormitorio.\nTK26 Circumbalacion Sur, La Loma, La Larga.",
-    "timestamp": 1791197876,
-    "timestamp_local": 1791197876
   }
 ]
