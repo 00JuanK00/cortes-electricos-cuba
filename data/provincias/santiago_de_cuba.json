@@ -1,5 +1,53 @@
 [
   {
+    "id": 58876,
+    "fecha": "09 de Oct del 2026 a las 02:25 AM",
+    "hora_utc": "2026-10-09 06:25",
+    "mensaje": "🛑**Estimados clientes, se les reitera que el comportamiento de las afectaciones eléctricas y el restablecimiento del servicio, estará en dependencia de la situación que presente el Sistema Electroenergético Nacional.**",
+    "timestamp": 1791527142,
+    "timestamp_local": 1791527142
+  },
+  {
+    "id": 58874,
+    "fecha": "09 de Oct del 2026 a las 01:17 AM",
+    "hora_utc": "2026-10-09 05:17",
+    "mensaje": "⚠️Si presenta o conoce alguna avería, haga su reporte al Centro Telefónico mediante el 18888.Gracias.",
+    "timestamp": 1791523068,
+    "timestamp_local": 1791523068
+  },
+  {
+    "id": 58872,
+    "fecha": "08 de Oct del 2026 a las 11:24 PM",
+    "hora_utc": "2026-10-09 03:24",
+    "mensaje": "⚠️**Disparo:**\nApertura no voluntaria de un interruptor como vía de protección para desconectar uno o varios elementos del circuito, subestación o sistema, restableciéndose el servicio rápidamente en dependencia de la causa.",
+    "timestamp": 1791516278,
+    "timestamp_local": 1791516278
+  },
+  {
+    "id": 58871,
+    "fecha": "08 de Oct del 2026 a las 11:24 PM",
+    "hora_utc": "2026-10-09 03:24",
+    "mensaje": "🔉Estimados clientes en estos momentos se encuentra Disparado el circuito 14.",
+    "timestamp": 1791516247,
+    "timestamp_local": 1791516247
+  },
+  {
+    "id": 58870,
+    "fecha": "08 de Oct del 2026 a las 10:26 PM",
+    "hora_utc": "2026-10-09 02:26",
+    "mensaje": "🟡**Déficit de Capacidad de Generación**:\nSe produce cuando la demanda del Sistema Eléctrico Nacional, en determinado horario del día supera la generación disponible del país, provocando la desconexión de los circuitos o líneas que permitan garantizar la frecuencia del SEN.",
+    "timestamp": 1791512807,
+    "timestamp_local": 1791512807
+  },
+  {
+    "id": 58869,
+    "fecha": "08 de Oct del 2026 a las 10:26 PM",
+    "hora_utc": "2026-10-09 02:26",
+    "mensaje": "⛔️Se les informa que se encuentran afectados por Déficit los circuitos 17, 18  y  Línea 5330-Cristo",
+    "timestamp": 1791512788,
+    "timestamp_local": 1791512788
+  },
+  {
     "id": 58867,
     "fecha": "08 de Oct del 2026 a las 08:36 PM",
     "hora_utc": "2026-10-09 00:36",
@@ -86,69 +134,5 @@
     "mensaje": "🛑 Estimados clientes en estos momentos se encuentran afectados por Déficit de Capacidad de Generación los circuitos 8 y 24 de Santiago , 4 de Palma y la línea 5390 La Maya. Disculpen por las molestias ocasionadas.",
     "timestamp": 1791488546,
     "timestamp_local": 1791488546
-  },
-  {
-    "id": 58856,
-    "fecha": "08 de Oct del 2026 a las 03:20 PM",
-    "hora_utc": "2026-10-08 19:20",
-    "mensaje": "🛑 Estimados clientes en estos momentos se encuentran afectados por Déficit de Capacidad de Generación la línea 5385 Palma-San Luis y el ramal La Tanqueta, disculpen por las molestias ocasionadas.",
-    "timestamp": 1791487234,
-    "timestamp_local": 1791487234
-  },
-  {
-    "id": 58855,
-    "fecha": "08 de Oct del 2026 a las 02:10 PM",
-    "hora_utc": "2026-10-08 18:10",
-    "mensaje": "🛑 Estimados clientes en estos momentos se encuentran afectados por Déficit de Capacidad de Generación los circuitos 11 seccionalizado y  25 de Santiago, 1 de Palma  y la línea 4435 Contramaestre. Disculpen por las molestias ocasionadas.",
-    "timestamp": 1791483011,
-    "timestamp_local": 1791483011
-  },
-  {
-    "id": 58854,
-    "fecha": "08 de Oct del 2026 a las 12:55 PM",
-    "hora_utc": "2026-10-08 16:55",
-    "mensaje": "🛑⚠️📌**Disparo:**\nApertura no voluntaria de un interruptor como vía de protección para desconectar uno o varios elementos del circuito, subestación o sistema, restableciéndose el servicio rápidamente en dependencia de la causa.",
-    "timestamp": 1791478538,
-    "timestamp_local": 1791478538
-  },
-  {
-    "id": 58853,
-    "fecha": "08 de Oct del 2026 a las 12:55 PM",
-    "hora_utc": "2026-10-08 16:55",
-    "mensaje": "🛑⚡️Estimados clientes se les informa que en estos momentos se encuentra disparada la línea 4435 Contramaestre, disculpen las molestias ocasionadas.",
-    "timestamp": 1791478510,
-    "timestamp_local": 1791478510
-  },
-  {
-    "id": 58852,
-    "fecha": "08 de Oct del 2026 a las 11:52 AM",
-    "hora_utc": "2026-10-08 15:52",
-    "mensaje": "🛑 Estimados clientes en estos momentos se encuentran afectados por Déficit de Capacidad de Generación los circuitos 7 y 9 de Santiago y 2 de Contramaestre, disculpen por las molestias ocasionadas.",
-    "timestamp": 1791474741,
-    "timestamp_local": 1791474741
-  },
-  {
-    "id": 58850,
-    "fecha": "08 de Oct del 2026 a las 11:50 AM",
-    "hora_utc": "2026-10-08 15:50",
-    "mensaje": "🚨⚠️Avería : Sucede si un circuito se interrumpe por causa de un defecto en un cable conductor de corriente (fase o neutro), un fusible fundido o disyuntor. En sistemas trifásicos una falla puede implicar una fase más de una fase con la tierra o puede ocurrir solo entre fases.",
-    "timestamp": 1791474651,
-    "timestamp_local": 1791474651
-  },
-  {
-    "id": 58849,
-    "fecha": "08 de Oct del 2026 a las 11:49 AM",
-    "hora_utc": "2026-10-08 15:49",
-    "mensaje": "🚨🚧 Estimados clientes se les informa que en estos momentos se encuentra en avería el circuito 1 de Contramaestre, disculpen las molestias ocasionadas.",
-    "timestamp": 1791474575,
-    "timestamp_local": 1791474575
-  },
-  {
-    "id": 58848,
-    "fecha": "08 de Oct del 2026 a las 11:16 AM",
-    "hora_utc": "2026-10-08 15:16",
-    "mensaje": "🛑📌**Estimados clientes, se les reitera que el comportamiento de las afectaciones eléctricas y el restablecimiento del servicio, estará en dependencia de la situación que presente el Sistema Electroenergético Nacional.**",
-    "timestamp": 1791472565,
-    "timestamp_local": 1791472565
   }
 ]
