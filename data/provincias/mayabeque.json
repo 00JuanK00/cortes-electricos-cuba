@@ -1,5 +1,101 @@
 [
   {
+    "id": 123485,
+    "fecha": "10 de Oct del 2026 a las 06:47 PM",
+    "hora_utc": "2026-10-10 22:47",
+    "mensaje": "🚨Por déficit de capacidad de generación se afecta el servicio en los siguientes circuitos:\n* Salud 1\n* San Felipe 🚨",
+    "timestamp": 1791672430,
+    "timestamp_local": 1791672430
+  },
+  {
+    "id": 123484,
+    "fecha": "10 de Oct del 2026 a las 06:11 PM",
+    "hora_utc": "2026-10-10 22:11",
+    "mensaje": "🚨Por déficit de capacidad de generación se afecta el servicio en el siguiente circuito:\n* Batabanó 🚨",
+    "timestamp": 1791670271,
+    "timestamp_local": 1791670271
+  },
+  {
+    "id": 123483,
+    "fecha": "10 de Oct del 2026 a las 06:07 PM",
+    "hora_utc": "2026-10-10 22:07",
+    "mensaje": "🚨Por déficit de capacidad de generación se afecta el servicio en el siguiente circuito:\n* Bío 1 🚨",
+    "timestamp": 1791670073,
+    "timestamp_local": 1791670073
+  },
+  {
+    "id": 123481,
+    "fecha": "10 de Oct del 2026 a las 05:26 PM",
+    "hora_utc": "2026-10-10 21:26",
+    "mensaje": "🚨Por déficit de capacidad de generación se afecta el servicio en el siguiente circuito:\n* Güines 2 🚨",
+    "timestamp": 1791667576,
+    "timestamp_local": 1791667576
+  },
+  {
+    "id": 123479,
+    "fecha": "10 de Oct del 2026 a las 05:02 PM",
+    "hora_utc": "2026-10-10 21:02",
+    "mensaje": "🚨Por déficit de capacidad de generación se afecta el servicio en los siguientes circuitos:\n* Nazareno\n* Babiney 🚨",
+    "timestamp": 1791666176,
+    "timestamp_local": 1791666176
+  },
+  {
+    "id": 123478,
+    "fecha": "10 de Oct del 2026 a las 04:57 PM",
+    "hora_utc": "2026-10-10 20:57",
+    "mensaje": "🟢 || 16:46 En línea la Unidad 1 de la CTE Lidio Ramón Pérez de Felton.",
+    "timestamp": 1791665836,
+    "timestamp_local": 1791665836
+  },
+  {
+    "id": 123476,
+    "fecha": "10 de Oct del 2026 a las 04:29 PM",
+    "hora_utc": "2026-10-10 20:29",
+    "mensaje": "🚨Por déficit de capacidad de generación se afecta el servicio en los siguientes circuitos:\n* CENSA\n* Jamaica 🚨",
+    "timestamp": 1791664160,
+    "timestamp_local": 1791664160
+  },
+  {
+    "id": 123475,
+    "fecha": "10 de Oct del 2026 a las 04:10 PM",
+    "hora_utc": "2026-10-10 20:10",
+    "mensaje": "♦️Informamos a los clientes de los siguientes circuitos que se encuentran afectados por avería:\n\n👉 Aguacate\n* Villena y zonas aledañas\n* La Luisa y zonas aledañas ♦️",
+    "timestamp": 1791663031,
+    "timestamp_local": 1791663031
+  },
+  {
+    "id": 123472,
+    "fecha": "10 de Oct del 2026 a las 03:50 PM",
+    "hora_utc": "2026-10-10 19:50",
+    "mensaje": "🚨Por déficit de capacidad de generación se afecta el servicio en el siguiente circuito:\n* Somorrostro 🚨",
+    "timestamp": 1791661816,
+    "timestamp_local": 1791661816
+  },
+  {
+    "id": 123471,
+    "fecha": "10 de Oct del 2026 a las 03:47 PM",
+    "hora_utc": "2026-10-10 19:47",
+    "mensaje": "🟢 15:23 || En Línea Unidad 6 de la CTE Máximo Gómez.",
+    "timestamp": 1791661620,
+    "timestamp_local": 1791661620
+  },
+  {
+    "id": 123470,
+    "fecha": "10 de Oct del 2026 a las 03:45 PM",
+    "hora_utc": "2026-10-10 19:45",
+    "mensaje": "🟢 15:17 ||Restablecida la desconexión parcial del SEN en la zona oriental.",
+    "timestamp": 1791661550,
+    "timestamp_local": 1791661550
+  },
+  {
+    "id": 123468,
+    "fecha": "10 de Oct del 2026 a las 03:43 PM",
+    "hora_utc": "2026-10-10 19:43",
+    "mensaje": "🚨Por déficit de capacidad de generación se afecta el servicio en el siguiente circuito:\n* UNAH 🚨",
+    "timestamp": 1791661392,
+    "timestamp_local": 1791661392
+  },
+  {
     "id": 123467,
     "fecha": "10 de Oct del 2026 a las 03:18 PM",
     "hora_utc": "2026-10-10 19:18",
@@ -14,117 +110,5 @@
     "mensaje": "🚨Por déficit de capacidad de generación se afecta el servicio en el siguiente circuito:\n* Güines 4 🚨",
     "timestamp": 1791658526,
     "timestamp_local": 1791658526
-  },
-  {
-    "id": 123465,
-    "fecha": "10 de Oct del 2026 a las 02:21 PM",
-    "hora_utc": "2026-10-10 18:21",
-    "mensaje": "🚨Por déficit de capacidad de generación se afecta el servicio en el siguiente circuito:\n* Santa Cruz 🚨",
-    "timestamp": 1791656485,
-    "timestamp_local": 1791656485
-  },
-  {
-    "id": 123461,
-    "fecha": "10 de Oct del 2026 a las 01:20 PM",
-    "hora_utc": "2026-10-10 17:20",
-    "mensaje": "♦️ Informamos a los clientes del circuito 1790 que se encuentran afectados por disparo por DAF ♦️",
-    "timestamp": 1791652820,
-    "timestamp_local": 1791652820
-  },
-  {
-    "id": 123460,
-    "fecha": "10 de Oct del 2026 a las 01:18 PM",
-    "hora_utc": "2026-10-10 17:18",
-    "mensaje": "🔴 12:46\nDispara la línea 220KV NUEVITAS-TUNAS 220 kV lo que provoca una desconexión parcial del SEN en la zona oriental",
-    "timestamp": 1791652735,
-    "timestamp_local": 1791652735
-  },
-  {
-    "id": 123458,
-    "fecha": "10 de Oct del 2026 a las 01:17 PM",
-    "hora_utc": "2026-10-10 17:17",
-    "mensaje": "🚨Por déficit de capacidad de generación se afecta el servicio en el siguiente circuito:\n* Héctor Molina 🚨",
-    "timestamp": 1791652641,
-    "timestamp_local": 1791652641
-  },
-  {
-    "id": 123457,
-    "fecha": "10 de Oct del 2026 a las 01:10 PM",
-    "hora_utc": "2026-10-10 17:10",
-    "mensaje": "🚨Por déficit de capacidad de generación se afecta el servicio en el siguiente circuito:\n* San Nicolás 3 🚨",
-    "timestamp": 1791652230,
-    "timestamp_local": 1791652230
-  },
-  {
-    "id": 123456,
-    "fecha": "10 de Oct del 2026 a las 01:02 PM",
-    "hora_utc": "2026-10-10 17:02",
-    "mensaje": "🚨Por déficit de capacidad de generación se afecta el servicio en los siguientes circuitos:\n* Catalina1y2  🚨",
-    "timestamp": 1791651747,
-    "timestamp_local": 1791651747
-  },
-  {
-    "id": 123455,
-    "fecha": "10 de Oct del 2026 a las 01:00 PM",
-    "hora_utc": "2026-10-10 17:00",
-    "mensaje": "♦️ Informamos a los clientes del circuito Ganuza que se encuentran afectados por vía libre, las siguientes zonas:\n* San Pedro\n* La Rufina\n* Soria\n*Zonas aledañas♦️",
-    "timestamp": 1791651601,
-    "timestamp_local": 1791651601
-  },
-  {
-    "id": 123454,
-    "fecha": "10 de Oct del 2026 a las 12:54 PM",
-    "hora_utc": "2026-10-10 16:54",
-    "mensaje": "🚨Por déficit de capacidad de generación se afecta el servicio en el siguiente circuito:\n* 5 de San José 🚨",
-    "timestamp": 1791651284,
-    "timestamp_local": 1791651284
-  },
-  {
-    "id": 123453,
-    "fecha": "10 de Oct del 2026 a las 12:52 PM",
-    "hora_utc": "2026-10-10 16:52",
-    "mensaje": "🚨Por déficit de capacidad de generación se afecta el servicio en el siguiente circuito:\n* Caamaño 🚨",
-    "timestamp": 1791651162,
-    "timestamp_local": 1791651162
-  },
-  {
-    "id": 123452,
-    "fecha": "10 de Oct del 2026 a las 12:45 PM",
-    "hora_utc": "2026-10-10 16:45",
-    "mensaje": "🚨Por déficit de capacidad de generación se afecta el servicio en el siguiente circuito:\n* Camilo 🚨",
-    "timestamp": 1791650739,
-    "timestamp_local": 1791650739
-  },
-  {
-    "id": 123451,
-    "fecha": "10 de Oct del 2026 a las 12:38 PM",
-    "hora_utc": "2026-10-10 16:38",
-    "mensaje": "Informamos a nuestros clientes que  el teléfono de  Atención a la Población 18888 ya  se encuentra funcionando correctamente ,no se descarta la posibilidad de que alguna llamada se  nos quede en cola ,las inclemencias del tiempo así como los recierres abruptos dañan la tecnología utilizada .Pedimos en caso que usted no se  pueda comunicar,  utilizar las vías de nuestros teléfonos alternativos. 🚨",
-    "timestamp": 1791650305,
-    "timestamp_local": 1791650305
-  },
-  {
-    "id": 123450,
-    "fecha": "10 de Oct del 2026 a las 12:29 PM",
-    "hora_utc": "2026-10-10 16:29",
-    "mensaje": "🚨Por déficit de capacidad de generación se afecta el servicio en los siguientes circuitos:\n* La salud 2\n* Palomo\n*  Bío 2 🚨",
-    "timestamp": 1791649798,
-    "timestamp_local": 1791649798
-  },
-  {
-    "id": 123449,
-    "fecha": "10 de Oct del 2026 a las 12:29 PM",
-    "hora_utc": "2026-10-10 16:29",
-    "mensaje": "♦️ Informamos a los clientes del circuito Aguacate que se encuentran afectados por manipulación las siguientes zonas:\n*Villena  y zonas aledañas\n*La Luisa y zonas aledañas ♦️",
-    "timestamp": 1791649796,
-    "timestamp_local": 1791649796
-  },
-  {
-    "id": 123448,
-    "fecha": "10 de Oct del 2026 a las 12:10 PM",
-    "hora_utc": "2026-10-10 16:10",
-    "mensaje": "🚨Por déficit de capacidad de generación se afecta el servicio en los siguientes circuitos:\n* Melena 1 y 2\n* Sopapo 1 y 2 🚨",
-    "timestamp": 1791648643,
-    "timestamp_local": 1791648643
   }
 ]
