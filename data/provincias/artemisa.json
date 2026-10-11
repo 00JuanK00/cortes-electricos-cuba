@@ -1,5 +1,77 @@
 [
   {
+    "id": 39547,
+    "fecha": "11 de Oct del 2026 a las 02:28 PM",
+    "hora_utc": "2026-10-11 18:28",
+    "mensaje": "🚨Afectado por déficit 🚨\n\n➡️ 341 de San Cristóbal",
+    "timestamp": 1791743339,
+    "timestamp_local": 1791743339
+  },
+  {
+    "id": 39546,
+    "fecha": "11 de Oct del 2026 a las 01:47 PM",
+    "hora_utc": "2026-10-11 17:47",
+    "mensaje": "🚨Afectado por déficit 🚨\n\n➡️ Sandino",
+    "timestamp": 1791740832,
+    "timestamp_local": 1791740832
+  },
+  {
+    "id": 39545,
+    "fecha": "11 de Oct del 2026 a las 01:36 PM",
+    "hora_utc": "2026-10-11 17:36",
+    "mensaje": "🚨Afectado por déficit 🚨\n\n➡️ Bauta Vieja\n\n\n‼️ Tenemos una afectación de 105 MW ‼️",
+    "timestamp": 1791740196,
+    "timestamp_local": 1791740196
+  },
+  {
+    "id": 39544,
+    "fecha": "11 de Oct del 2026 a las 01:18 PM",
+    "hora_utc": "2026-10-11 17:18",
+    "mensaje": "🚨Afectado por déficit 🚨\n\n➡️ San Cristóbal, 4 camino y el Martí\n\n\n‼️ Tenemos una afectación de 105 MW ‼️",
+    "timestamp": 1791739105,
+    "timestamp_local": 1791739105
+  },
+  {
+    "id": 39543,
+    "fecha": "11 de Oct del 2026 a las 01:18 PM",
+    "hora_utc": "2026-10-11 17:18",
+    "mensaje": "🚨Afectado por déficit 🚨\n\n➡️ 1580 de Alquízar",
+    "timestamp": 1791739086,
+    "timestamp_local": 1791739086
+  },
+  {
+    "id": 39542,
+    "fecha": "11 de Oct del 2026 a las 11:09 AM",
+    "hora_utc": "2026-10-11 15:09",
+    "mensaje": "🚨Afectado por déficit 🚨\n\n➡️ 1570 de Artemisa",
+    "timestamp": 1791731375,
+    "timestamp_local": 1791731375
+  },
+  {
+    "id": 39541,
+    "fecha": "11 de Oct del 2026 a las 10:44 AM",
+    "hora_utc": "2026-10-11 14:44",
+    "mensaje": "🚨Afectado por déficit 🚨\n\n➡️ Gran Panel de Artemisa",
+    "timestamp": 1791729893,
+    "timestamp_local": 1791729893
+  },
+  {
+    "id": 39540,
+    "fecha": "11 de Oct del 2026 a las 10:36 AM",
+    "hora_utc": "2026-10-11 14:36",
+    "mensaje": "‼️ En fallas circuito 1940 de San Antonio‼️",
+    "timestamp": 1791729361,
+    "timestamp_local": 1791729361
+  },
+  {
+    "id": 39539,
+    "fecha": "11 de Oct del 2026 a las 10:35 AM",
+    "hora_utc": "2026-10-11 14:35",
+    "mensaje": "🚨Afectado por déficit 🚨\n\n➡️ 341 de San Cristóbal\n\n‼️ Tenemos una afectación de 99MW‼️",
+    "timestamp": 1791729347,
+    "timestamp_local": 1791729347
+  },
+  {
     "id": 39538,
     "fecha": "11 de Oct del 2026 a las 10:12 AM",
     "hora_utc": "2026-10-11 14:12",
@@ -86,77 +158,5 @@
     "mensaje": "🚨 Afectado por déficit de generación🚨\n➡️ Güira 13 mil.\n➡️Güira 4 mil.",
     "timestamp": 1791631297,
     "timestamp_local": 1791631297
-  },
-  {
-    "id": 39527,
-    "fecha": "10 de Oct del 2026 a las 07:13 AM",
-    "hora_utc": "2026-10-10 11:13",
-    "mensaje": "🚨Afectado por déficit de generación el circuito:🚨\n➡️ Plátano",
-    "timestamp": 1791630835,
-    "timestamp_local": 1791630835
-  },
-  {
-    "id": 39526,
-    "fecha": "10 de Oct del 2026 a las 07:12 AM",
-    "hora_utc": "2026-10-10 11:12",
-    "mensaje": "📌 Se mantiene en avería el circuito del Maní, a partir de la cuchilla S-344 afectando Los Tumbos,  Navarro, Rancho Mar, Carretera Bahía, Caja de agua, Juanelo, 5 Pesos📌",
-    "timestamp": 1791630778,
-    "timestamp_local": 1791630778
-  },
-  {
-    "id": 39525,
-    "fecha": "10 de Oct del 2026 a las 07:03 AM",
-    "hora_utc": "2026-10-10 11:03",
-    "mensaje": "📌 Avería en Mango Dulce, pendiente a recorrer de día📌",
-    "timestamp": 1791630192,
-    "timestamp_local": 1791630192
-  },
-  {
-    "id": 39524,
-    "fecha": "10 de Oct del 2026 a las 06:52 AM",
-    "hora_utc": "2026-10-10 10:52",
-    "mensaje": "🚨 Afectados en la provincia en estos momentos los siguientes circuitos: 🚨\n➡️ Entronque Mariel, Zayas, Mármol y Quiebra Hacha de Mariel.\n➡️1580 de Alquízar.\n➡️ Candelaria y Soroa.\n➡️S-20, 4 Caminos, Martí, Maní y PD 341 de San Cristóbal.\n➡️236, 246(manipulado), Sub Provisional de Bahía Honda.\n➡️Gran Panel, Pilar y Reparto Pablo Torres.\n➡️Guanajay 4000,  Cárcel y Beliert.\n➡️A 1270 (manipulado)\n➡️ Villa Salado\n➡️Gabriel de Güira de Melena.\n➡️1940 de San Antonio \n➡️5040 \n👉 Tenemos una afectación de 102 mw.",
-    "timestamp": 1791629531,
-    "timestamp_local": 1791629531
-  },
-  {
-    "id": 39523,
-    "fecha": "10 de Oct del 2026 a las 12:56 AM",
-    "hora_utc": "2026-10-10 04:56",
-    "mensaje": "📌Avería a partir de la cuchilla 610 , en Bauta afectando Cangrejera, El Tahoro.📌",
-    "timestamp": 1791608169,
-    "timestamp_local": 1791608169
-  },
-  {
-    "id": 39522,
-    "fecha": "09 de Oct del 2026 a las 11:05 PM",
-    "hora_utc": "2026-10-10 03:05",
-    "mensaje": "📌 Circuito Cabaña, banda Sandino en avería, pendiente a recorrer de día.📌",
-    "timestamp": 1791601503,
-    "timestamp_local": 1791601503
-  },
-  {
-    "id": 39521,
-    "fecha": "09 de Oct del 2026 a las 08:52 PM",
-    "hora_utc": "2026-10-10 00:52",
-    "mensaje": "📌Circuito de Silvio Caro en avería, pendiente a recorrer para mañana📌",
-    "timestamp": 1791593529,
-    "timestamp_local": 1791593529
-  },
-  {
-    "id": 39520,
-    "fecha": "09 de Oct del 2026 a las 08:44 PM",
-    "hora_utc": "2026-10-10 00:44",
-    "mensaje": "🚨 Afectado por déficit de generación el circuito🚨\n➡️ Gabriel y Junco de Güira de Melena.",
-    "timestamp": 1791593043,
-    "timestamp_local": 1791593043
-  },
-  {
-    "id": 39519,
-    "fecha": "09 de Oct del 2026 a las 08:19 PM",
-    "hora_utc": "2026-10-10 00:19",
-    "mensaje": "🚨Afectado por déficit de generación el circuito🚨\n➡️1940 de San Antonio.\n👉 Tenemos una afectación en estos momentos de 141 mw.",
-    "timestamp": 1791591592,
-    "timestamp_local": 1791591592
   }
 ]
