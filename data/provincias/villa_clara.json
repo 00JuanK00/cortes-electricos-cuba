@@ -1,5 +1,101 @@
 [
   {
+    "id": 59696,
+    "fecha": "10 de Oct del 2026 a las 09:15 PM",
+    "hora_utc": "2026-10-11 01:15",
+    "mensaje": "Afectados 209 MW en la provincia, demanda máxima a apagar en estos momentos.",
+    "timestamp": 1791681337,
+    "timestamp_local": 1791681337
+  },
+  {
+    "id": 59695,
+    "fecha": "10 de Oct del 2026 a las 08:23 PM",
+    "hora_utc": "2026-10-11 00:23",
+    "mensaje": "⚡En avería el Cto 92 Esperanza del municipio Ranchuelo, por cables primarios partidos.",
+    "timestamp": 1791678206,
+    "timestamp_local": 1791678206
+  },
+  {
+    "id": 59694,
+    "fecha": "10 de Oct del 2026 a las 08:17 PM",
+    "hora_utc": "2026-10-11 00:17",
+    "mensaje": "Actualización del servicio eléctrico en la provincia.\n👉En este momento la afectación por déficit de capacidad de generación es de 214 MW, demanda máxima posible a apagar en estos momentos.\n👉De los circuitos apagables se mantienen afectados 144.\n👉Cuenta con 428 afectaciones por averías secundarias y de servicio.",
+    "timestamp": 1791677864,
+    "timestamp_local": 1791677864
+  },
+  {
+    "id": 59693,
+    "fecha": "10 de Oct del 2026 a las 08:16 PM",
+    "hora_utc": "2026-10-11 00:16",
+    "mensaje": "💡Restablecido el servicio eléctrico en los siguientes circuitos:\n🔹Municipio Santa Clara:\n👉Cto 168 Condado\n👉Cto 28 Monumento Che",
+    "timestamp": 1791677809,
+    "timestamp_local": 1791677809
+  },
+  {
+    "id": 59692,
+    "fecha": "10 de Oct del 2026 a las 08:16 PM",
+    "hora_utc": "2026-10-11 00:16",
+    "mensaje": "⚠️Afectado el servicio eléctrico en los siguientes circuitos:\n🔹Municipio Sagua:\n👉Ctos 50 y 147 Villa Alegre",
+    "timestamp": 1791677771,
+    "timestamp_local": 1791677771
+  },
+  {
+    "id": 59691,
+    "fecha": "10 de Oct del 2026 a las 07:36 PM",
+    "hora_utc": "2026-10-10 23:36",
+    "mensaje": "Afectados 210 MW en la provincia, demanda máxima a apagar en estos momentos.",
+    "timestamp": 1791675413,
+    "timestamp_local": 1791675413
+  },
+  {
+    "id": 59690,
+    "fecha": "10 de Oct del 2026 a las 07:35 PM",
+    "hora_utc": "2026-10-10 23:35",
+    "mensaje": "💡Restablecido el servicio eléctrico en el siguiente circuito:\n🔹Municipio Santa Clara:\n👉Cto 166 Condado",
+    "timestamp": 1791675318,
+    "timestamp_local": 1791675318
+  },
+  {
+    "id": 59689,
+    "fecha": "10 de Oct del 2026 a las 07:34 PM",
+    "hora_utc": "2026-10-10 23:34",
+    "mensaje": "⚠️Afectado el servicio eléctrico en los siguientes circuitos:\n🔹Municipio Manicaragua:\n👉Ctos 113 y 137 La Campana\n👉Cto 112 Hoyo Manicaragua\n🔹Municipio Camajuaní:\n👉Cto 77 Vueltas",
+    "timestamp": 1791675283,
+    "timestamp_local": 1791675283
+  },
+  {
+    "id": 59688,
+    "fecha": "10 de Oct del 2026 a las 07:15 PM",
+    "hora_utc": "2026-10-10 23:15",
+    "mensaje": "💡Restablecido el servicio eléctrico en el siguiente circuito:\n🔹Municipio Caibarién:\n👉Cto 182 Van Troy",
+    "timestamp": 1791674114,
+    "timestamp_local": 1791674114
+  },
+  {
+    "id": 59687,
+    "fecha": "10 de Oct del 2026 a las 07:14 PM",
+    "hora_utc": "2026-10-10 23:14",
+    "mensaje": "⚠️Afectado el servicio eléctrico en los siguientes circuitos:\n🔹Municipio Caibarién\n👉Ctos 63 y 64",
+    "timestamp": 1791674085,
+    "timestamp_local": 1791674085
+  },
+  {
+    "id": 59686,
+    "fecha": "10 de Oct del 2026 a las 07:01 PM",
+    "hora_utc": "2026-10-10 23:01",
+    "mensaje": "💡Restablecido el servicio eléctrico en el siguiente circuito:\n🔹Municipio Santa Clara:\n👉Cto 3 Consejo- Centro",
+    "timestamp": 1791673271,
+    "timestamp_local": 1791673271
+  },
+  {
+    "id": 59685,
+    "fecha": "10 de Oct del 2026 a las 07:00 PM",
+    "hora_utc": "2026-10-10 23:00",
+    "mensaje": "⚠️Afectado el servicio eléctrico en los siguientes circuitos:\n🔹Municipio Santa Clara:\n👉Cto 5 Dobarganes\n👉Cto 17 Subplanta\n👉Cto 1 Consejo- Centro",
+    "timestamp": 1791673237,
+    "timestamp_local": 1791673237
+  },
+  {
     "id": 59684,
     "fecha": "10 de Oct del 2026 a las 06:37 PM",
     "hora_utc": "2026-10-10 22:37",
@@ -62,101 +158,5 @@
     "mensaje": "‼️ Estimados clientes‼️\n\n⚠️¡Cuidado con los Cables Eléctricos en el Piso! ⚠️\n\nLa seguridad es lo primero. Aquí te dejamos algunas recomendaciones para evitar accidentes:\n\n\n1- No toques cables en el piso:\nSi ves un cable suelto, no lo toques. Podría estar energizado y representar un riesgo de electrocución.\n2- Reporta inmediatamente:\nSi encuentras cables dañados o expuestos, informa al 18888.\n3- Mantén el área libre de obstáculos:\nSi trabajas en un lugar donde hay cables, asegúrate de que estén bien asegurados y no representen un peligro de tropiezo.\n4- Usa calzado adecuado:\nSi debes trabajar en un entorno con cables, asegúrate de usar calzado que ofrezca buena protección.",
     "timestamp": 1791668449,
     "timestamp_local": 1791668449
-  },
-  {
-    "id": 59676,
-    "fecha": "10 de Oct del 2026 a las 05:31 PM",
-    "hora_utc": "2026-10-10 21:31",
-    "mensaje": "🟢 15:23 || En línea la Unidad 6 de la CTE Máximo Gómez.\n\n🟢 16:46 || En línea la Unidad 1 de la CTE Lidio Ramón Pérez de Felton.",
-    "timestamp": 1791667914,
-    "timestamp_local": 1791667914
-  },
-  {
-    "id": 59675,
-    "fecha": "10 de Oct del 2026 a las 05:02 PM",
-    "hora_utc": "2026-10-10 21:02",
-    "mensaje": "Afectados 205 MW en la provincia, demanda máxima a apagar en estos momentos.",
-    "timestamp": 1791666176,
-    "timestamp_local": 1791666176
-  },
-  {
-    "id": 59674,
-    "fecha": "10 de Oct del 2026 a las 05:02 PM",
-    "hora_utc": "2026-10-10 21:02",
-    "mensaje": "⚠️Afectado el servicio eléctrico en los siguientes circuitos:\n🔹Municipio Camajuaní:\n👉Cto 185 Vueltas\n🔹Municipio Santa Clara:\n👉Cto 131 Las Antillas\n 🔹Municipio Placetas:\n👉Cto 192 Benito Juárez\n👉Cto 102 Peroti\n🔹Municipio Santa Clara:\n👉Cto 16 Cubanacán\n👉Ctos 23 y 130 La Ceniza\n👉Cto 42 Manajanabo\n🔹Municipio Placetas:\n👉Cto 139 Miller\n👉Cto 190 Oliver\n👉Cto 106 Falcón\n🔹Municipio Santa Clara:\n👉Cto 2 Consejo - Centro\n🔹Municipio Camajuaní:\n👉Cto 59 Vueltas\n🔹Municipio Quemado:\n👉 Cto 196 Batey Panchito Gómez Toro\n🔹Municipio Corralillo:\n👉Cto 57 Motembo\n👉Cto 56 Yabre\n👉Cto 55 Rancho Veloz\n🔹Municipio Manicaragua:\n👉Ctos 108 y 110 La Piedra\n🔹Municipio Santa Clara:\n👉Cto 153 EIDE",
-    "timestamp": 1791666129,
-    "timestamp_local": 1791666129
-  },
-  {
-    "id": 59673,
-    "fecha": "10 de Oct del 2026 a las 04:57 PM",
-    "hora_utc": "2026-10-10 20:57",
-    "mensaje": "💡Restablecido el servicio eléctrico en los siguientes circuitos:\n🔹Municipio Camajuaní:\n👉Cto 77 Vueltas\n🔹Municipio Ranchuelo:\n👉Cto 93 Esperanza (Campo)\n🔹Municipio Santa Clara:\n👉Cto 191 Quemado de Hilario\n🔹Municipio Placetas:\n👉Cto 100 Placetas",
-    "timestamp": 1791665829,
-    "timestamp_local": 1791665829
-  },
-  {
-    "id": 59672,
-    "fecha": "10 de Oct del 2026 a las 04:26 PM",
-    "hora_utc": "2026-10-10 20:26",
-    "mensaje": "Actualización del servicio eléctrico en la provincia.\n👉En este momento la afectación por déficit de capacidad de generación es de 190 MW, demanda máxima posible a apagar en estos momentos.\n👉De los circuitos apagables se mantienen afectados 108.\n👉Cuenta con 421 afectaciones por averías secundarias y de servicio.",
-    "timestamp": 1791663977,
-    "timestamp_local": 1791663977
-  },
-  {
-    "id": 59671,
-    "fecha": "10 de Oct del 2026 a las 03:56 PM",
-    "hora_utc": "2026-10-10 19:56",
-    "mensaje": "🟢 15:17 Restablecida la desconexión parcial del SEN en la zona oriental.\n\n✍️ Tomado del Canal de WhatsApp de la Unión Eléctrica.",
-    "timestamp": 1791662175,
-    "timestamp_local": 1791662175
-  },
-  {
-    "id": 59670,
-    "fecha": "10 de Oct del 2026 a las 03:55 PM",
-    "hora_utc": "2026-10-10 19:55",
-    "mensaje": "⚠️Afectado el servicio eléctrico en el siguiente circuito:\n🔹Municipio Santa Clara:\n👉Cto 22 Construcciones Textil",
-    "timestamp": 1791662106,
-    "timestamp_local": 1791662106
-  },
-  {
-    "id": 59669,
-    "fecha": "10 de Oct del 2026 a las 03:46 PM",
-    "hora_utc": "2026-10-10 19:46",
-    "mensaje": "⚠️Afectado el servicio eléctrico en los siguientes circuitos:\n🔹Municipio Cifuentes:\n👉Ctos 114 y 117\n👉Ctos 116 y 155 Mata\n👉Cto 186 Batey Unidad Proletaria\n👉Cto 184 Sitio Grande\n🔹Municipio Santa Clara:\n👉Cto 15 Maleza",
-    "timestamp": 1791661612,
-    "timestamp_local": 1791661612
-  },
-  {
-    "id": 59668,
-    "fecha": "10 de Oct del 2026 a las 03:45 PM",
-    "hora_utc": "2026-10-10 19:45",
-    "mensaje": "💡Restablecido el servicio eléctrico en los siguientes circuitos:\n🔹Municipio Santa Clara:\n👉Ctos 37 y 38 Yabú\n👉Cto 9 Moldes y Troqueles\n👉Cto 133 Taller Cafetera\n👉Cto 5 Dobarganes\n👉Cto 17 Subplanta\n👉Cto 6 Vigía\n👉Cto 39 (Sandino)\n👉Cto 34 Sabana Rebacadero\n🔹Municipio Ranchuelo:\n👉Ctos 148 y 149 San Juan\n👉Cto 91 Batey Osvaldo Herrera",
-    "timestamp": 1791661557,
-    "timestamp_local": 1791661557
-  },
-  {
-    "id": 59667,
-    "fecha": "10 de Oct del 2026 a las 03:44 PM",
-    "hora_utc": "2026-10-10 19:44",
-    "mensaje": "Afectados 181 MW en la provincia, demanda máxima a apagar en estos momentos.",
-    "timestamp": 1791661463,
-    "timestamp_local": 1791661463
-  },
-  {
-    "id": 59666,
-    "fecha": "10 de Oct del 2026 a las 03:08 PM",
-    "hora_utc": "2026-10-10 19:08",
-    "mensaje": "⚠️Afectado el servicio eléctrico en los siguientes circuitos:\n🔹Municipio Santa Clara:\n👉Cto 132 Santa Clara Industrial\n👉Cto 162  Santa Clara Industrial\n🔹Municipio Quemado:\n👉 Cto 53 Quemado",
-    "timestamp": 1791659281,
-    "timestamp_local": 1791659281
-  },
-  {
-    "id": 59665,
-    "fecha": "10 de Oct del 2026 a las 03:07 PM",
-    "hora_utc": "2026-10-10 19:07",
-    "mensaje": "🔴 12:46\nDispara la línea 220KV NUEVITAS - LAS TUNAS 220 kV lo que provoca una desconexión parcial del SEN en la zona oriental.",
-    "timestamp": 1791659223,
-    "timestamp_local": 1791659223
   }
 ]
