@@ -1,154 +1,162 @@
 [
   {
+    "id": 123822,
+    "fecha": "15 de Oct del 2026 a las 06:39 PM",
+    "hora_utc": "2026-10-15 22:39",
+    "mensaje": "🚨Por déficit de capacidad de generación se afecta el servicio en el siguiente circuito:\n*Río Seco 🚨",
+    "timestamp": 1792103946,
+    "timestamp_local": 1792103946
+  },
+  {
+    "id": 123821,
+    "fecha": "15 de Oct del 2026 a las 06:38 PM",
+    "hora_utc": "2026-10-15 22:38",
+    "mensaje": "🚨Por déficit de capacidad de generación se afecta el servicio en el siguiente circuito:\n*Aguacate 🚨",
+    "timestamp": 1792103924,
+    "timestamp_local": 1792103924
+  },
+  {
+    "id": 123820,
+    "fecha": "15 de Oct del 2026 a las 06:28 PM",
+    "hora_utc": "2026-10-15 22:28",
+    "mensaje": "🔷 Normalizado el servicio en el circuito Güines 3 🔷",
+    "timestamp": 1792103317,
+    "timestamp_local": 1792103317
+  },
+  {
+    "id": 123819,
+    "fecha": "15 de Oct del 2026 a las 06:26 PM",
+    "hora_utc": "2026-10-15 22:26",
+    "mensaje": "⚡🔷 Normalizado el servicio en el circuito 3135 🔷⚡",
+    "timestamp": 1792103160,
+    "timestamp_local": 1792103160
+  },
+  {
+    "id": 123818,
+    "fecha": "15 de Oct del 2026 a las 06:15 PM",
+    "hora_utc": "2026-10-15 22:15",
+    "mensaje": "⚡♦️ Informamos a los clientes del circuito Babiney que se encuentran afectados por tormenta ♦️⚡",
+    "timestamp": 1792102538,
+    "timestamp_local": 1792102538
+  },
+  {
+    "id": 123817,
+    "fecha": "15 de Oct del 2026 a las 06:15 PM",
+    "hora_utc": "2026-10-15 22:15",
+    "mensaje": "⚡♦️ Informamos a los clientes del circuito 3590 que se encuentran afectados por tormenta ♦️⚡",
+    "timestamp": 1792102534,
+    "timestamp_local": 1792102534
+  },
+  {
+    "id": 123816,
+    "fecha": "15 de Oct del 2026 a las 06:08 PM",
+    "hora_utc": "2026-10-15 22:08",
+    "mensaje": "🚨Por déficit de capacidad de generación se afecta el servicio en el siguiente circuito:\n*Surgidero de Batabanó 🚨",
+    "timestamp": 1792102126,
+    "timestamp_local": 1792102126
+  },
+  {
+    "id": 123815,
+    "fecha": "15 de Oct del 2026 a las 06:05 PM",
+    "hora_utc": "2026-10-15 22:05",
+    "mensaje": "🚨Por déficit de capacidad de generación se afecta el servicio en los siguientes circuitos:\n*Camacho 1 y 2 🚨",
+    "timestamp": 1792101936,
+    "timestamp_local": 1792101936
+  },
+  {
+    "id": 123814,
+    "fecha": "15 de Oct del 2026 a las 06:02 PM",
+    "hora_utc": "2026-10-15 22:02",
+    "mensaje": "⚡♦️ Informamos a los clientes del circuito ML -35 que se encuentran afectados por tormenta ♦️⚡",
+    "timestamp": 1792101720,
+    "timestamp_local": 1792101720
+  },
+  {
+    "id": 123813,
+    "fecha": "15 de Oct del 2026 a las 05:52 PM",
+    "hora_utc": "2026-10-15 21:52",
+    "mensaje": "⚡♦️ Informamos a los clientes de los siguientes circuitos que se encuentran afectados por tormenta:\n*3130\n*3135 \n*Güines 3♦️⚡",
+    "timestamp": 1792101163,
+    "timestamp_local": 1792101163
+  },
+  {
+    "id": 123811,
+    "fecha": "15 de Oct del 2026 a las 05:41 PM",
+    "hora_utc": "2026-10-15 21:41",
+    "mensaje": "🚨Por déficit de capacidad de generación se afecta el servicio en el siguiente circuito:\n*Fénix 🚨",
+    "timestamp": 1792100495,
+    "timestamp_local": 1792100495
+  },
+  {
+    "id": 123810,
+    "fecha": "15 de Oct del 2026 a las 04:55 PM",
+    "hora_utc": "2026-10-15 20:55",
+    "mensaje": "🧏🏻‍♂️| Si usted encuentra un transformador ubicado en un lugar apartado, cubierto de ramas, enredaderas u otra vegetación que pueda dificultar su visibilidad, puedes reportarlo a la UEB de tu municipio. \n\n🤝 ¡Con tu colaboración protegemos nuestros recursos! \n\n#Mayabeque",
+    "timestamp": 1792097707,
+    "timestamp_local": 1792097707
+  },
+  {
+    "id": 123809,
+    "fecha": "15 de Oct del 2026 a las 04:52 PM",
+    "hora_utc": "2026-10-15 20:52",
+    "mensaje": "🔷 Normalizado el servicio en el circuito Güines 2 🔷",
+    "timestamp": 1792097529,
+    "timestamp_local": 1792097529
+  },
+  {
+    "id": 123808,
+    "fecha": "15 de Oct del 2026 a las 04:44 PM",
+    "hora_utc": "2026-10-15 20:44",
+    "mensaje": "🔷 Normalizado el servicio en el circuito Vedado de Güines 🔷",
+    "timestamp": 1792097051,
+    "timestamp_local": 1792097051
+  },
+  {
+    "id": 123807,
+    "fecha": "15 de Oct del 2026 a las 04:42 PM",
+    "hora_utc": "2026-10-15 20:42",
+    "mensaje": "🔷 Normalizado el servicio en el circuito 3130 🔷",
+    "timestamp": 1792096927,
+    "timestamp_local": 1792096927
+  },
+  {
+    "id": 123806,
+    "fecha": "15 de Oct del 2026 a las 04:27 PM",
+    "hora_utc": "2026-10-15 20:27",
+    "mensaje": "♦️ Informamos a los clientes de los siguientes circuitos que se encuentran afectados por disparo en las líneas:\n*Güines 2\n*Güines 4\n*Vedado de Güines ♦️",
+    "timestamp": 1792096022,
+    "timestamp_local": 1792096022
+  },
+  {
+    "id": 123805,
+    "fecha": "15 de Oct del 2026 a las 04:25 PM",
+    "hora_utc": "2026-10-15 20:25",
+    "mensaje": "♦️ Informamos a los clientes del circuito 3130 que se encuentran afectados por disparo en las líneas♦️",
+    "timestamp": 1792095920,
+    "timestamp_local": 1792095920
+  },
+  {
+    "id": 123804,
+    "fecha": "15 de Oct del 2026 a las 04:23 PM",
+    "hora_utc": "2026-10-15 20:23",
+    "mensaje": "🔷 Solucionada la avería en el circuito de Ganuza 🔷",
+    "timestamp": 1792095803,
+    "timestamp_local": 1792095803
+  },
+  {
+    "id": 123803,
+    "fecha": "15 de Oct del 2026 a las 03:45 PM",
+    "hora_utc": "2026-10-15 19:45",
+    "mensaje": "🔷 Culminada la vía libre en el circuito de San Antonio de las Vegas 🔷",
+    "timestamp": 1792093512,
+    "timestamp_local": 1792093512
+  },
+  {
     "id": 123802,
     "fecha": "15 de Oct del 2026 a las 03:20 PM",
     "hora_utc": "2026-10-15 19:20",
     "mensaje": "⚡|¿Por qué en una zona donde había un transformador ahora puede haber dos? \n\nLa respuesta está en los estudios de carga. 📊\nA medida que aumenta el consumo eléctrico de una zona, un solo transformador puede resultar insuficiente y trabajar por encima de su capacidad. \n\n👉 Ejemplo:\nSi una zona tenía un transformador de 50 kVA y la demanda creció hasta el punto de sobrecargarlo, el estudio de carga puede indicar la necesidad de instalar dos transformadores de 37 kVA.\nAsí, en una misma posición de transformador pueden instalarse dos equipos, distribuyendo mejor la carga y evitando la sobrecarga de un solo transformador. \n\n#Mayabeque",
     "timestamp": 1792092032,
     "timestamp_local": 1792092032
-  },
-  {
-    "id": 123801,
-    "fecha": "15 de Oct del 2026 a las 03:00 PM",
-    "hora_utc": "2026-10-15 19:00",
-    "mensaje": "🚨Por déficit de capacidad de generación se afecta el servicio en el siguiente circuito:\n*UNAH 🚨",
-    "timestamp": 1792090800,
-    "timestamp_local": 1792090800
-  },
-  {
-    "id": 123800,
-    "fecha": "15 de Oct del 2026 a las 02:50 PM",
-    "hora_utc": "2026-10-15 18:50",
-    "mensaje": "🚨Por déficit de capacidad de generación se afecta el servicio en el siguiente circuito:\n*Somorrostro 🚨",
-    "timestamp": 1792090223,
-    "timestamp_local": 1792090223
-  },
-  {
-    "id": 123799,
-    "fecha": "15 de Oct del 2026 a las 02:38 PM",
-    "hora_utc": "2026-10-15 18:38",
-    "mensaje": "🚨Por déficit de capacidad de generación se afecta el servicio en los siguientes circuitos:\n*2420\n*2320 🚨",
-    "timestamp": 1792089534,
-    "timestamp_local": 1792089534
-  },
-  {
-    "id": 123798,
-    "fecha": "15 de Oct del 2026 a las 02:29 PM",
-    "hora_utc": "2026-10-15 18:29",
-    "mensaje": "🚨Por déficit de capacidad de generación se afecta el servicio en el siguiente circuito:\n*5 de San José 🚨",
-    "timestamp": 1792088987,
-    "timestamp_local": 1792088987
-  },
-  {
-    "id": 123797,
-    "fecha": "15 de Oct del 2026 a las 02:29 PM",
-    "hora_utc": "2026-10-15 18:29",
-    "mensaje": "🔷 Normalizado el servicio en el circuito Güines 4 🔷",
-    "timestamp": 1792088964,
-    "timestamp_local": 1792088964
-  },
-  {
-    "id": 123796,
-    "fecha": "15 de Oct del 2026 a las 02:28 PM",
-    "hora_utc": "2026-10-15 18:28",
-    "mensaje": "♦️ Informamos a los clientes del circuito Güines 4 que se encuentran afectados por disparo en las líneas♦️",
-    "timestamp": 1792088897,
-    "timestamp_local": 1792088897
-  },
-  {
-    "id": 123795,
-    "fecha": "15 de Oct del 2026 a las 02:27 PM",
-    "hora_utc": "2026-10-15 18:27",
-    "mensaje": "🚨Por déficit de capacidad de generación se afecta el servicio en el siguiente circuito:\n*Güines 1 🚨",
-    "timestamp": 1792088870,
-    "timestamp_local": 1792088870
-  },
-  {
-    "id": 123794,
-    "fecha": "15 de Oct del 2026 a las 02:17 PM",
-    "hora_utc": "2026-10-15 18:17",
-    "mensaje": "♦️ Informamos a los clientes de los siguientes Circuitos que se encuentran afectados por déficit de capacidad de generación, se informa en estos momentos por problemas de comunicación:\n*La Salud 1\n*Batabanó ♦️",
-    "timestamp": 1792088236,
-    "timestamp_local": 1792088236
-  },
-  {
-    "id": 123793,
-    "fecha": "15 de Oct del 2026 a las 02:00 PM",
-    "hora_utc": "2026-10-15 18:00",
-    "mensaje": "♦️ Informamos a los clientes del circuito de Caraballo que se encuentran afectados por avería ♦️",
-    "timestamp": 1792087211,
-    "timestamp_local": 1792087211
-  },
-  {
-    "id": 123792,
-    "fecha": "15 de Oct del 2026 a las 01:59 PM",
-    "hora_utc": "2026-10-15 17:59",
-    "mensaje": "♦️ Informamos a los clientes del circuito 1790 que se encuentran afectados por DAF ♦️",
-    "timestamp": 1792087159,
-    "timestamp_local": 1792087159
-  },
-  {
-    "id": 123791,
-    "fecha": "15 de Oct del 2026 a las 01:03 PM",
-    "hora_utc": "2026-10-15 17:03",
-    "mensaje": "🚨Por déficit de capacidad de generación se afecta el servicio en el siguiente circuito:\n*San Nicolás 3 🚨",
-    "timestamp": 1792083821,
-    "timestamp_local": 1792083821
-  },
-  {
-    "id": 123790,
-    "fecha": "15 de Oct del 2026 a las 12:52 PM",
-    "hora_utc": "2026-10-15 16:52",
-    "mensaje": "🔷 Normalizado el servicio en el circuito Vedado  🔷",
-    "timestamp": 1792083172,
-    "timestamp_local": 1792083172
-  },
-  {
-    "id": 123789,
-    "fecha": "15 de Oct del 2026 a las 12:51 PM",
-    "hora_utc": "2026-10-15 16:51",
-    "mensaje": "🚨 Actualización  en nuestra provincia Mayabeque 🚨\n\nSe informa a nuestros clientes que hoy día 15/10/2026 el  sistema registra un total de  __114__ interrupciones ,reflejadas así por municipios:\n\n- Batabanó : 19\n- Bejucal: 5\n- Güines : 13\n- Jaruco : 12\n- Madruga : 13\n- Melena : 16\n- Nueva Paz: 9\n- Quivicán : 3\n- San José de las Lajas: 15\n- Santa Cruz : 9\n\n♦️ La provincia tiene un total de 85 transformadores dañados, reflejados así por municipios:\n\n- Batabanó : 7\n- Bejucal : 7\n- Güines : 16\n- Jaruco : 7\n- Madruga : 6\n- Nueva Paz : 3\n- Quivicán : 12\n- San José de las Lajas: 19\n- San Nicolás : 1\n- Santa Cruz : 7 \n\n♦️ Averías pendientes en la provincia:\n\n👉Ganuza\n\nRecomendamos a nuestros clientes mantenerse informados a través de nuestros canales oficiales de Telegram y WhatsApp🚨",
-    "timestamp": 1792083078,
-    "timestamp_local": 1792083078
-  },
-  {
-    "id": 123787,
-    "fecha": "15 de Oct del 2026 a las 12:43 PM",
-    "hora_utc": "2026-10-15 16:43",
-    "mensaje": "🧏🏻‍♂️| Las conexiones ilegales sobrecargan los transformadores.\nCuidemos nuestra red eléctrica‼️.",
-    "timestamp": 1792082624,
-    "timestamp_local": 1792082624
-  },
-  {
-    "id": 123786,
-    "fecha": "15 de Oct del 2026 a las 12:43 PM",
-    "hora_utc": "2026-10-15 16:43",
-    "mensaje": "♦️ Informamos a los clientes del circuito Ganuza que se encuentran afectados por avería ♦️",
-    "timestamp": 1792082623,
-    "timestamp_local": 1792082623
-  },
-  {
-    "id": 123785,
-    "fecha": "15 de Oct del 2026 a las 12:43 PM",
-    "hora_utc": "2026-10-15 16:43",
-    "mensaje": "🔷 Normalizado el servicio en el circuito 3 de San José 🔷",
-    "timestamp": 1792082623,
-    "timestamp_local": 1792082623
-  },
-  {
-    "id": 123784,
-    "fecha": "15 de Oct del 2026 a las 12:43 PM",
-    "hora_utc": "2026-10-15 16:43",
-    "mensaje": "♦️ Informamos a los clientes del circuito Vedado de Güines que se encuentran afectados por manipulación ♦️",
-    "timestamp": 1792082622,
-    "timestamp_local": 1792082622
-  },
-  {
-    "id": 123783,
-    "fecha": "15 de Oct del 2026 a las 12:05 PM",
-    "hora_utc": "2026-10-15 16:05",
-    "mensaje": "🚨Por déficit de capacidad de generación se afecta el servicio en el siguiente circuito:\n*San Felipe 🚨",
-    "timestamp": 1792080320,
-    "timestamp_local": 1792080320
   }
 ]

@@ -1,5 +1,21 @@
 [
   {
+    "id": 59049,
+    "fecha": "15 de Oct del 2026 a las 05:30 PM",
+    "hora_utc": "2026-10-15 21:30",
+    "mensaje": "🔉Estimados clientes en estos momentos se encuentran afectados por Déficit de Capacidad de Generación los circuitos 22 y el 1 de Palma y el Ramal 4260 - II Frente , disculpen por las molestias ocasionadas.",
+    "timestamp": 1792099806,
+    "timestamp_local": 1792099806
+  },
+  {
+    "id": 59047,
+    "fecha": "15 de Oct del 2026 a las 04:11 PM",
+    "hora_utc": "2026-10-15 20:11",
+    "mensaje": "🔴Estimados clientes en estos momentos les informamos que el circuito 10 de Santiago de Cuba y el circuito 2 de palma  están afectados por Déficit de Capacidad de Generación.",
+    "timestamp": 1792095119,
+    "timestamp_local": 1792095119
+  },
+  {
     "id": 59046,
     "fecha": "15 de Oct del 2026 a las 01:48 PM",
     "hora_utc": "2026-10-15 17:48",
@@ -126,29 +142,5 @@
     "mensaje": "🛑⚠️Avería : Sucede si un circuito se interrumpe por causa de un defecto en un cable conductor de corriente (fase o neutro), un fusible fundido o disyuntor. En sistemas trifásicos una falla puede implicar una fase más de una fase con la tierra o puede ocurrir solo entre fases.",
     "timestamp": 1792015432,
     "timestamp_local": 1792015432
-  },
-  {
-    "id": 59029,
-    "fecha": "14 de Oct del 2026 a las 06:03 PM",
-    "hora_utc": "2026-10-14 22:03",
-    "mensaje": "🚨🚧 Estimados clientes se les informa que en estos momentos se encuentra en avería el circuito 17 de Santiago, disculpan las molestias ocasionadas.",
-    "timestamp": 1792015380,
-    "timestamp_local": 1792015380
-  },
-  {
-    "id": 59028,
-    "fecha": "14 de Oct del 2026 a las 05:30 PM",
-    "hora_utc": "2026-10-14 21:30",
-    "mensaje": "🛑 Disparo :                                                                                                                                                    Apertura no voluntaria de un interruptor como vía de protección para desconectar uno o varios elementos del circuito, subestación o sistema, restableciéndose el servicio rápidamente en dependencia de la causa.",
-    "timestamp": 1792013414,
-    "timestamp_local": 1792013414
-  },
-  {
-    "id": 59027,
-    "fecha": "14 de Oct del 2026 a las 05:29 PM",
-    "hora_utc": "2026-10-14 21:29",
-    "mensaje": "🚨 Estimados clientes en estos momentos se encuentra disparado el circuito 17 de Santiago.",
-    "timestamp": 1792013385,
-    "timestamp_local": 1792013385
   }
 ]
