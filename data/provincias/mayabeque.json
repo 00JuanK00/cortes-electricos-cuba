@@ -1,5 +1,37 @@
 [
   {
+    "id": 123826,
+    "fecha": "15 de Oct del 2026 a las 07:09 PM",
+    "hora_utc": "2026-10-15 23:09",
+    "mensaje": "🔷 Normalizado el servicio en el circuito Vedado de Güines 🔷",
+    "timestamp": 1792105786,
+    "timestamp_local": 1792105786
+  },
+  {
+    "id": 123825,
+    "fecha": "15 de Oct del 2026 a las 06:52 PM",
+    "hora_utc": "2026-10-15 22:52",
+    "mensaje": "⚡🔷 Normalizado el servicio en el circuito 3130 🔷⚡",
+    "timestamp": 1792104751,
+    "timestamp_local": 1792104751
+  },
+  {
+    "id": 123824,
+    "fecha": "15 de Oct del 2026 a las 06:45 PM",
+    "hora_utc": "2026-10-15 22:45",
+    "mensaje": "🔷 Normalizado el servicio en el circuito Babiney 🔷",
+    "timestamp": 1792104333,
+    "timestamp_local": 1792104333
+  },
+  {
+    "id": 123823,
+    "fecha": "15 de Oct del 2026 a las 06:40 PM",
+    "hora_utc": "2026-10-15 22:40",
+    "mensaje": "🚨Por déficit de capacidad de generación se afecta el servicio en el siguiente circuito:\n*Magela 🚨",
+    "timestamp": 1792104023,
+    "timestamp_local": 1792104023
+  },
+  {
     "id": 123822,
     "fecha": "15 de Oct del 2026 a las 06:39 PM",
     "hora_utc": "2026-10-15 22:39",
@@ -126,37 +158,5 @@
     "mensaje": "♦️ Informamos a los clientes de los siguientes circuitos que se encuentran afectados por disparo en las líneas:\n*Güines 2\n*Güines 4\n*Vedado de Güines ♦️",
     "timestamp": 1792096022,
     "timestamp_local": 1792096022
-  },
-  {
-    "id": 123805,
-    "fecha": "15 de Oct del 2026 a las 04:25 PM",
-    "hora_utc": "2026-10-15 20:25",
-    "mensaje": "♦️ Informamos a los clientes del circuito 3130 que se encuentran afectados por disparo en las líneas♦️",
-    "timestamp": 1792095920,
-    "timestamp_local": 1792095920
-  },
-  {
-    "id": 123804,
-    "fecha": "15 de Oct del 2026 a las 04:23 PM",
-    "hora_utc": "2026-10-15 20:23",
-    "mensaje": "🔷 Solucionada la avería en el circuito de Ganuza 🔷",
-    "timestamp": 1792095803,
-    "timestamp_local": 1792095803
-  },
-  {
-    "id": 123803,
-    "fecha": "15 de Oct del 2026 a las 03:45 PM",
-    "hora_utc": "2026-10-15 19:45",
-    "mensaje": "🔷 Culminada la vía libre en el circuito de San Antonio de las Vegas 🔷",
-    "timestamp": 1792093512,
-    "timestamp_local": 1792093512
-  },
-  {
-    "id": 123802,
-    "fecha": "15 de Oct del 2026 a las 03:20 PM",
-    "hora_utc": "2026-10-15 19:20",
-    "mensaje": "⚡|¿Por qué en una zona donde había un transformador ahora puede haber dos? \n\nLa respuesta está en los estudios de carga. 📊\nA medida que aumenta el consumo eléctrico de una zona, un solo transformador puede resultar insuficiente y trabajar por encima de su capacidad. \n\n👉 Ejemplo:\nSi una zona tenía un transformador de 50 kVA y la demanda creció hasta el punto de sobrecargarlo, el estudio de carga puede indicar la necesidad de instalar dos transformadores de 37 kVA.\nAsí, en una misma posición de transformador pueden instalarse dos equipos, distribuyendo mejor la carga y evitando la sobrecarga de un solo transformador. \n\n#Mayabeque",
-    "timestamp": 1792092032,
-    "timestamp_local": 1792092032
   }
 ]
