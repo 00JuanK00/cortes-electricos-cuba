@@ -1,5 +1,21 @@
 [
   {
+    "id": 123976,
+    "fecha": "17 de Oct del 2026 a las 08:16 PM",
+    "hora_utc": "2026-10-18 00:16",
+    "mensaje": "⚡|¿Por qué en una zona donde había un transformador ahora puede haber dos? \n\nLa respuesta está en los estudios de carga. 📊\nA medida que aumenta el consumo eléctrico de una zona, un solo transformador puede resultar insuficiente y trabajar por encima de su capacidad. \n\n👉 Ejemplo:\nSi una zona tenía un transformador de 50 kVA y la demanda creció hasta el punto de sobrecargarlo, el estudio de carga puede indicar la necesidad de instalar dos transformadores de 37 kVA.\nAsí, en una misma posición de transformador pueden instalarse dos equipos, distribuyendo mejor la carga y evitando la sobrecarga de un solo transformador. \n\n#Mayabeque",
+    "timestamp": 1792282574,
+    "timestamp_local": 1792282574
+  },
+  {
+    "id": 123971,
+    "fecha": "17 de Oct del 2026 a las 08:08 PM",
+    "hora_utc": "2026-10-18 00:08",
+    "mensaje": "🚨Por déficit de capacidad de generación se afecta el servicio en el siguiente circuito:\n*Somorrostro 🚨",
+    "timestamp": 1792282103,
+    "timestamp_local": 1792282103
+  },
+  {
     "id": 123970,
     "fecha": "17 de Oct del 2026 a las 07:24 PM",
     "hora_utc": "2026-10-17 23:24",
@@ -126,37 +142,5 @@
     "mensaje": "🚨Por déficit de capacidad de generación se afecta el servicio en los siguientes circuitos:\n*Melena 1 y 2 🚨",
     "timestamp": 1792272214,
     "timestamp_local": 1792272214
-  },
-  {
-    "id": 123954,
-    "fecha": "17 de Oct del 2026 a las 04:49 PM",
-    "hora_utc": "2026-10-17 20:49",
-    "mensaje": "🚨Por déficit de capacidad de generación se afecta el servicio en el siguiente circuito:\n*Sureste 🚨",
-    "timestamp": 1792270194,
-    "timestamp_local": 1792270194
-  },
-  {
-    "id": 123953,
-    "fecha": "17 de Oct del 2026 a las 04:20 PM",
-    "hora_utc": "2026-10-17 20:20",
-    "mensaje": "🚨Por déficit de capacidad de generación se afecta el servicio en el siguiente circuito:\n*San Nicolás 3 🚨",
-    "timestamp": 1792268436,
-    "timestamp_local": 1792268436
-  },
-  {
-    "id": 123952,
-    "fecha": "17 de Oct del 2026 a las 04:20 PM",
-    "hora_utc": "2026-10-17 20:20",
-    "mensaje": "🚨Por déficit de capacidad de generación se afecta el servicio en el siguiente circuito:\n*Güines 4 🚨",
-    "timestamp": 1792268436,
-    "timestamp_local": 1792268436
-  },
-  {
-    "id": 123951,
-    "fecha": "17 de Oct del 2026 a las 04:20 PM",
-    "hora_utc": "2026-10-17 20:20",
-    "mensaje": "♦️Informamos a los clientes del circuito 3 de San Jose que se encuentran afectados por manipulación ♦️",
-    "timestamp": 1792268436,
-    "timestamp_local": 1792268436
   }
 ]
