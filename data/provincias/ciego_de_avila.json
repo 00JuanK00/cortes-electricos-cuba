@@ -1,5 +1,13 @@
 [
   {
+    "id": 41511,
+    "fecha": "22 de Oct del 2026 a las 05:13 AM",
+    "hora_utc": "2026-10-22 09:13",
+    "mensaje": "✅Información.\n👉 Continuamos 28 MW servidos en la provincia.\n\n👉Se irán restableciendo paulatinamente los circuitos con más tiempo de afectación según las condiciones del SEN lo permita.",
+    "timestamp": 1792660439,
+    "timestamp_local": 1792660439
+  },
+  {
     "id": 41509,
     "fecha": "22 de Oct del 2026 a las 12:45 AM",
     "hora_utc": "2026-10-22 04:45",
@@ -142,21 +150,5 @@
     "mensaje": "Una consecuencia de los apagones es la coincidencia de carga en cada circuito al que se le restablece el servicio eléctrico. Este factor, a su vez, provoca, disparos de desconectivos, sobrecalentamiento de transformadores, ruptura de puentes y de conductores, dado a que cada equipo está diseñado para determinada carga y la coincidencia de carga provoca que se calienten. Por ejemplo, un circuito que normalmente su carga es de 4.5 MW, hoy por el factor antes mencionado, es de 10 MW. Un ejemplo común es el de una tubería de agua de una pulgada de diámetro, si en un momento dado le embutes un volumen de agua que demanda una de dos pulgadas, revienta. Así sucede con los componentes de las líneas eléctricas, Esta situación provoca las innumerables averías en las líneas que causan un significativo atraso en su solución, además de la falta de materiales para trabajar, con el consiguiente malestar de los clientes afectados.",
     "timestamp": 1792603609,
     "timestamp_local": 1792603609
-  },
-  {
-    "id": 41491,
-    "fecha": "21 de Oct del 2026 a las 12:42 PM",
-    "hora_utc": "2026-10-21 16:42",
-    "mensaje": "🔉Información.\n👉 Se están realizando manipulaciones en el circuito Expreso, en breve se restablecerá el servicio.",
-    "timestamp": 1792600946,
-    "timestamp_local": 1792600946
-  },
-  {
-    "id": 41490,
-    "fecha": "21 de Oct del 2026 a las 12:40 PM",
-    "hora_utc": "2026-10-21 16:40",
-    "mensaje": "🔉Información.\n👉 Se encuentra sin servicio del circuito de Ciro Redondo, Combinado Minas, se trabaja para restablecer el servicio en el menor tiempo posible.",
-    "timestamp": 1792600856,
-    "timestamp_local": 1792600856
   }
 ]
