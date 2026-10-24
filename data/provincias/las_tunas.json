@@ -1,5 +1,21 @@
 [
   {
+    "id": 22001,
+    "fecha": "23 de Oct del 2026 a las 08:05 PM",
+    "hora_utc": "2026-10-24 00:05",
+    "mensaje": "📣 Actualización del Sistema Electroenergético\nDebido al significativo déficit energético que enfrenta nuestro país y la disponibilidad limitada del Sistema Eléctrico Nacional(SEN)en comparación con la demanda actual, lamentamos no poder proporcionar una programación detallada de las afectaciones en el suministro eléctrico. Agradecemos su compresión y ofrecemos nuestras más sinceras disculpas por las molestias que esto pueda causarles",
+    "timestamp": 1792800331,
+    "timestamp_local": 1792800331
+  },
+  {
+    "id": 22000,
+    "fecha": "23 de Oct del 2026 a las 07:35 PM",
+    "hora_utc": "2026-10-23 23:35",
+    "mensaje": "Se declara en avería el Circuito 33 Kv: 6100\nTK35 Puerto Manatí\nTK36 El Raúl\nTK22 Aeropuerto\nTK23 Veguita \nTK32 Fleytas \nTK30 Meriño",
+    "timestamp": 1792798547,
+    "timestamp_local": 1792798547
+  },
+  {
     "id": 21998,
     "fecha": "23 de Oct del 2026 a las 05:58 PM",
     "hora_utc": "2026-10-23 21:58",
@@ -102,21 +118,5 @@
     "mensaje": "Queda solucionada la avería del TK87 Pueblo de Jobabo",
     "timestamp": 1792691241,
     "timestamp_local": 1792691241
-  },
-  {
-    "id": 21980,
-    "fecha": "22 de Oct del 2026 a las 11:49 AM",
-    "hora_utc": "2026-10-22 15:49",
-    "mensaje": "Se restablece la  avería del circuito:\nCircuito 33 Kv: 6470-6300\nTK13 Yariguá \nTJ11 Bartle \nTK91 Macagua \nTK90 Escuela Especial Jobabo\n6470 Mina de Oro, Las Margaritas \nQuedando afectado el TK87 Pueblo Jobabo",
-    "timestamp": 1792684180,
-    "timestamp_local": 1792684180
-  },
-  {
-    "id": 21979,
-    "fecha": "22 de Oct del 2026 a las 11:00 AM",
-    "hora_utc": "2026-10-22 15:00",
-    "mensaje": "Queda solucionada la avería del circuito TK20 Becerra",
-    "timestamp": 1792681256,
-    "timestamp_local": 1792681256
   }
 ]
