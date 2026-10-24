@@ -1,5 +1,29 @@
 [
   {
+    "id": 22010,
+    "fecha": "24 de Oct del 2026 a las 07:30 AM",
+    "hora_utc": "2026-10-24 11:30",
+    "mensaje": "🛠Circuitos que se encuentran en averías en la provincia : \nCircuito 33 Kv: 6100\nTK35 Puerto Manatí\nTK36 El Raúl\nTK22 Aeropuerto\nTK23 Veguita \nTK32 Fleytas \nTK30 Meriño\nTK19 San Antonio, Km 7\nTK31 Pueblo Manatí\nTK25 Cuatro Caminos, Dormitorio\nTK82 Tana",
+    "timestamp": 1792841426,
+    "timestamp_local": 1792841426
+  },
+  {
+    "id": 22007,
+    "fecha": "24 de Oct del 2026 a las 06:19 AM",
+    "hora_utc": "2026-10-24 10:19",
+    "mensaje": "Sobrecarga por el factor de coincidencias de carga. \n \nUna de las consecuencias de los apagones es la sobrecarga por coincidencia de carga al ser restablecido un circuito. Esto se debe que al restablecerse el servicio todos los refrigeradores comienzan a trabajar al máximo, más el uso simultaneo de aires acondicionados, ventiladores, televisores y luces. \nSiempre es bueno encender los equipos pasado un tiempo prudencial para evitar la coincidencia de carga y no dañar el transformador que alimenta nuestro hogar.",
+    "timestamp": 1792837152,
+    "timestamp_local": 1792837152
+  },
+  {
+    "id": 22006,
+    "fecha": "24 de Oct del 2026 a las 04:19 AM",
+    "hora_utc": "2026-10-24 08:19",
+    "mensaje": "✍️Ante cualquier duda conozca sobre la terminología eléctrica\n\n🔹Las averías pueden ser:\n\n➡️Primarias: Afecta un volumen grande de población pues son las líneas de distribución a 13.8 kV y puede afectar varias manzanas, incluso repartos completos.\n\n➡️Secundarias: Afecta a todos los clientes que se alimenten del mismo transformador, puede afectar una o varias cuadras.\n\n➡️De servicio: Afectan 1 solo cliente o instalación generalmente producto a daños en la acometida, metro contador, etc.).",
+    "timestamp": 1792829990,
+    "timestamp_local": 1792829990
+  },
+  {
     "id": 22005,
     "fecha": "24 de Oct del 2026 a las 01:01 AM",
     "hora_utc": "2026-10-24 05:01",
@@ -110,13 +134,5 @@
     "mensaje": "📌 Estimados Clientes 📌\n\nEvite las molestias de última hora⏱️ o la interrupción del servicio. Le sugerimos realizar su pago 💵 a la brevedad posible a través de:\n⚡️Oficinas comerciales.\n⚡️ Lectores- cobradores.\n⚡️ Plataformas digitales (Transfermóvil, Enzona): ¡Más rápido, cómodo y con bonificación!\n\n💡 ¡Mantenga su factura al día 📅 y ayúdenos a mejorar nuestros servicios!",
     "timestamp": 1792753390,
     "timestamp_local": 1792753390
-  },
-  {
-    "id": 21986,
-    "fecha": "22 de Oct del 2026 a las 08:44 PM",
-    "hora_utc": "2026-10-23 00:44",
-    "mensaje": "🛠 Se declara en avería el TK5 Alturas de Buena Vista-Los Pinos",
-    "timestamp": 1792716262,
-    "timestamp_local": 1792716262
   }
 ]
