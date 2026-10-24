@@ -1,5 +1,29 @@
 [
   {
+    "id": 22018,
+    "fecha": "24 de Oct del 2026 a las 01:01 PM",
+    "hora_utc": "2026-10-24 17:01",
+    "mensaje": "Se restablece el servicio parcialmente al circuito: 33 Kv: 6100. Quedando afectada la zona de Veguita. Se trabaja para restablecerlo en su totalidad. Ofrecemos disculpas por las molestias ocasionadas.",
+    "timestamp": 1792861284,
+    "timestamp_local": 1792861284
+  },
+  {
+    "id": 22017,
+    "fecha": "24 de Oct del 2026 a las 12:53 PM",
+    "hora_utc": "2026-10-24 16:53",
+    "mensaje": "Se declara en avería el circuito:TK48 Puerto Padre y Maniabón",
+    "timestamp": 1792860781,
+    "timestamp_local": 1792860781
+  },
+  {
+    "id": 22015,
+    "fecha": "24 de Oct del 2026 a las 12:09 PM",
+    "hora_utc": "2026-10-24 16:09",
+    "mensaje": "Restablecida la avería del circuito:TK25 Cuatro Caminos, Dormitorio",
+    "timestamp": 1792858190,
+    "timestamp_local": 1792858190
+  },
+  {
     "id": 22012,
     "fecha": "24 de Oct del 2026 a las 09:42 AM",
     "hora_utc": "2026-10-24 13:42",
@@ -86,45 +110,5 @@
     "mensaje": "Se declara en avería el Circuito 33 Kv: 6100\nTK35 Puerto Manatí\nTK36 El Raúl\nTK22 Aeropuerto\nTK23 Veguita \nTK32 Fleytas \nTK30 Meriño",
     "timestamp": 1792798547,
     "timestamp_local": 1792798547
-  },
-  {
-    "id": 21998,
-    "fecha": "23 de Oct del 2026 a las 05:58 PM",
-    "hora_utc": "2026-10-23 21:58",
-    "mensaje": "A las 1636 horas queda solucionada la avería del Tk20 y Tk21",
-    "timestamp": 1792792681,
-    "timestamp_local": 1792792681
-  },
-  {
-    "id": 21997,
-    "fecha": "23 de Oct del 2026 a las 12:42 PM",
-    "hora_utc": "2026-10-23 16:42",
-    "mensaje": "Se declara en avería los siguientes circuitos:\nTK20 Becerra\nTK21 Tuna Azucar",
-    "timestamp": 1792773733,
-    "timestamp_local": 1792773733
-  },
-  {
-    "id": 21995,
-    "fecha": "23 de Oct del 2026 a las 10:31 AM",
-    "hora_utc": "2026-10-23 14:31",
-    "mensaje": "Se declara en avería el TK25 Dormitorio, Cuatro Caminos.",
-    "timestamp": 1792765865,
-    "timestamp_local": 1792765865
-  },
-  {
-    "id": 21994,
-    "fecha": "23 de Oct del 2026 a las 08:40 AM",
-    "hora_utc": "2026-10-23 12:40",
-    "mensaje": "‼️Situación del SEN para el 23 de octubre de 2026‼️\n\nEn el día de ayer se afectó el servicio por déficit de capacidad durante las 24 horas y se mantuvo la afectación durante todo el horario de la madrugada. La máxima afectación por déficit de capacidad de generación en el día de ayer fue de 1820         MW a las 19:30 horas.\n\nLa producción energías de los parques solares fotovoltaicos fue de 3980 MWh, con 619 MW como máxima potencia entregada en el horario de la media con esta fuente de generación.  \n\nLa disponibilidad del SEN a las 06:00 horas es de 1030 MW, la demanda 2300 MW con 1280 MW afectados. En el horario de la media se estima una afectación de 1400 MW.\n\nSe encuentran en avería las unidades 1 y 2 de la CTE Santa Cruz, la unidad 2 de la CTE Felton y las unidades 3 y 6 de la CTE Rente. Se encuentran en mantenimiento la unidad 8 de la CTE Mariel, la unidad 3 de la CTE Santa Cruz, la unidad 5 de la CTE Nuevitas y la unidad 5 de la CTE Renté. \n \nLas limitaciones en la generación térmica son de 453 MW.\n\nSe estima para el horario de máxima demanda una disponibilidad de 1030 MW con una demanda máxima de 2850 MW, para un déficit de 1820 MW, por lo que de mantenerse las condiciones previstas se pronostica una afectación de 1850 MW en este horario.\n\n\n\nUNE-MINEM",
-    "timestamp": 1792759248,
-    "timestamp_local": 1792759248
-  },
-  {
-    "id": 21993,
-    "fecha": "23 de Oct del 2026 a las 08:24 AM",
-    "hora_utc": "2026-10-23 12:24",
-    "mensaje": "⚡️ __Parte de afectaciones eléctricas – Las Tunas__\n📅 __23/10/2026 | 08:10 a.m.__\nAl cierre de las 08:10 a.m. se registran en la provincia __813 interrupciones__; de ellas, __179 pendientes visitadas__.\n🔌 __Interrupciones pendientes totales por municipio__\n• Amancio: 22\n• Jobabo: 35\n• Colombia: 12\n• Puerto Padre: 187\n• Menéndez: 21\n• Manatí: 10\n• Majibacoa: 18\n• Las Tunas: 508\n🔧 __Transformadores dañados: 111__\n• Sector estatal: 37\n• Sector residencial: 74\n🏠 __Distribución de transformadores dañados del sector residencial por municipio__\n• Amancio: 7\n• Jobabo: 1\n• Colombia: 4\n• Puerto Padre: 10\n• Menéndez: 10\n• Manatí: 2\n• Majibacoa: 1\n• Las Tunas: 39\n• __Total residencial: 74__\n#LasTunas #ParteEléctrico",
-    "timestamp": 1792758294,
-    "timestamp_local": 1792758294
   }
 ]
