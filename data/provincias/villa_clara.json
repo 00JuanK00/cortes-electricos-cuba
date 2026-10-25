@@ -1,5 +1,21 @@
 [
   {
+    "id": 60205,
+    "fecha": "24 de Oct del 2026 a las 07:45 PM",
+    "hora_utc": "2026-10-24 23:45",
+    "mensaje": "⚠Afectado el servicio eléctrico en los siguientes circuitos:\n🔹Municipio Santa Clara:\n👉Cto 30 y 193 Santa Clara Industrial",
+    "timestamp": 1792885530,
+    "timestamp_local": 1792885530
+  },
+  {
+    "id": 60203,
+    "fecha": "24 de Oct del 2026 a las 07:34 PM",
+    "hora_utc": "2026-10-24 23:34",
+    "mensaje": "💡Restablecido el servicio eléctrico en los siguientes circuitos:\n🔹Municipio Santa Clara\n👉Cto 30 y 193 Santa Clara Industrial",
+    "timestamp": 1792884893,
+    "timestamp_local": 1792884893
+  },
+  {
     "id": 60201,
     "fecha": "24 de Oct del 2026 a las 05:43 PM",
     "hora_utc": "2026-10-24 21:43",
@@ -118,37 +134,5 @@
     "mensaje": "⚠Afectado el servicio eléctrico en el siguiente circuito:\n🔹Municipio Caibarién\n👉Cto 182 Van Troy",
     "timestamp": 1792775343,
     "timestamp_local": 1792775343
-  },
-  {
-    "id": 60184,
-    "fecha": "23 de Oct del 2026 a las 01:08 PM",
-    "hora_utc": "2026-10-23 17:08",
-    "mensaje": "💡Restablecido el servicio eléctrico en el siguiente circuito:\n🔹Municipio Caibarién\n👉Cto 183 Van Troy",
-    "timestamp": 1792775305,
-    "timestamp_local": 1792775305
-  },
-  {
-    "id": 60183,
-    "fecha": "23 de Oct del 2026 a las 12:37 PM",
-    "hora_utc": "2026-10-23 16:37",
-    "mensaje": "⚠Afectado el servicio eléctrico en el siguiente circuito:\n🔹Municipio Santa Clara\n👉Cto 153 EIDE",
-    "timestamp": 1792773425,
-    "timestamp_local": 1792773425
-  },
-  {
-    "id": 60182,
-    "fecha": "23 de Oct del 2026 a las 12:35 PM",
-    "hora_utc": "2026-10-23 16:35",
-    "mensaje": "💡Restablecido el servicio eléctrico en  los siguientes circuitos:\n🔹Municipio Santa Clara:\n👉Cto 16 Cubanacán\n👉Ctos 23 y 130 La Ceniza\n👉Cto 42 Manajanabo\n🔹Municipio Placetas\n👉Cto 139 Miller\n👉Cto 190 Oliver\n👉Cto 106 Falcón",
-    "timestamp": 1792773328,
-    "timestamp_local": 1792773328
-  },
-  {
-    "id": 60181,
-    "fecha": "23 de Oct del 2026 a las 12:31 PM",
-    "hora_utc": "2026-10-23 16:31",
-    "mensaje": "💡Restablecido el servicio eléctrico en el siguiente circuito:\n🔹Municipio Quemado:\n👉 Cto 164 Quemado.",
-    "timestamp": 1792773086,
-    "timestamp_local": 1792773086
   }
 ]
