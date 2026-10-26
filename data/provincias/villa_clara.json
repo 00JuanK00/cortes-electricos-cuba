@@ -1,5 +1,53 @@
 [
   {
+    "id": 60318,
+    "fecha": "25 de Oct del 2026 a las 08:20 PM",
+    "hora_utc": "2026-10-26 00:20",
+    "mensaje": "Actualización del servicio eléctrico en la provincia.\n👉En este momento la afectación por déficit de capacidad de generación es de 200 MW, demanda máxima posible a apagar en estos momentos.\n👉De los circuitos apagables se mantienen afectados 133.\n👉Cuenta con 381 afectaciones por averías secundarias y de servicio.",
+    "timestamp": 1792974055,
+    "timestamp_local": 1792974055
+  },
+  {
+    "id": 60317,
+    "fecha": "25 de Oct del 2026 a las 08:05 PM",
+    "hora_utc": "2026-10-26 00:05",
+    "mensaje": "Restablecido parcialmente el circuito 22 Construcciones Textil, del municipio Santa Clara.",
+    "timestamp": 1792973104,
+    "timestamp_local": 1792973104
+  },
+  {
+    "id": 60316,
+    "fecha": "25 de Oct del 2026 a las 07:59 PM",
+    "hora_utc": "2026-10-25 23:59",
+    "mensaje": "💡Restablecido el servicio eléctrico en el siguiente circuito:\n🔹Municipio Santa Clara:\n👉Cto 13 Zona Industrial",
+    "timestamp": 1792972761,
+    "timestamp_local": 1792972761
+  },
+  {
+    "id": 60315,
+    "fecha": "25 de Oct del 2026 a las 07:47 PM",
+    "hora_utc": "2026-10-25 23:47",
+    "mensaje": "💡Restablecido el servicio eléctrico en los siguientes circuitos:\n🔹Municipio Caibarién:\n👉Ctos 63 y 64",
+    "timestamp": 1792972069,
+    "timestamp_local": 1792972069
+  },
+  {
+    "id": 60314,
+    "fecha": "25 de Oct del 2026 a las 07:47 PM",
+    "hora_utc": "2026-10-25 23:47",
+    "mensaje": "⚠Afectado el servicio eléctrico en el siguiente circuito:\n🔹Municipio Caibarién:\n👉Cto 183 Almest Van Troi",
+    "timestamp": 1792972025,
+    "timestamp_local": 1792972025
+  },
+  {
+    "id": 60313,
+    "fecha": "25 de Oct del 2026 a las 07:40 PM",
+    "hora_utc": "2026-10-25 23:40",
+    "mensaje": "⚠Afectado el servicio eléctrico en el siguiente circuito:\n🔹Municipio Santa Clara:\n👉Cto 4 Consejo-Centro",
+    "timestamp": 1792971650,
+    "timestamp_local": 1792971650
+  },
+  {
     "id": 60312,
     "fecha": "25 de Oct del 2026 a las 06:24 PM",
     "hora_utc": "2026-10-25 22:24",
@@ -110,53 +158,5 @@
     "mensaje": "💡Restablecido el servicio eléctrico en el siguiente circuito:\n🔹Municipio Santa Clara:\n👉Cto 169 Condado",
     "timestamp": 1792961845,
     "timestamp_local": 1792961845
-  },
-  {
-    "id": 60298,
-    "fecha": "25 de Oct del 2026 a las 04:46 PM",
-    "hora_utc": "2026-10-25 20:46",
-    "mensaje": "⚠Afectado el servicio eléctrico en los siguientes circuitos:\n🔹Municipio Placetas \n👉Ctos 100 y 151 Placetas\n👉Cto 104 Hermanos Amejeiras\n👉Cto 103 Batey Carbó Servía\n🔹Municipio Caibarién\n👉Ctos 63 y 64",
-    "timestamp": 1792961167,
-    "timestamp_local": 1792961167
-  },
-  {
-    "id": 60297,
-    "fecha": "25 de Oct del 2026 a las 04:41 PM",
-    "hora_utc": "2026-10-25 20:41",
-    "mensaje": "⚠Afectado el servicio eléctrico en los siguientes circuitos:\n🔹Municipio Remedios:\n👉Ctos 69 y 70 Zuluetas\n👉Cto 143 Batey Heriberto Duquezne \n👉Cto 71 Buena Vista",
-    "timestamp": 1792960916,
-    "timestamp_local": 1792960916
-  },
-  {
-    "id": 60296,
-    "fecha": "25 de Oct del 2026 a las 04:38 PM",
-    "hora_utc": "2026-10-25 20:38",
-    "mensaje": "💡Restablecido el servicio eléctrico en el siguiente circuito:\n🔹Municipio Santa Clara:\n👉Cto 168 Condado- XX Aniversario",
-    "timestamp": 1792960700,
-    "timestamp_local": 1792960700
-  },
-  {
-    "id": 60295,
-    "fecha": "25 de Oct del 2026 a las 04:37 PM",
-    "hora_utc": "2026-10-25 20:37",
-    "mensaje": "⚠Afectado el servicio eléctrico en el siguiente circuito:\n🔹Municipio Ranchuelo:\n👉Cto 93 Esperanza (Campo)",
-    "timestamp": 1792960663,
-    "timestamp_local": 1792960663
-  },
-  {
-    "id": 60294,
-    "fecha": "25 de Oct del 2026 a las 04:36 PM",
-    "hora_utc": "2026-10-25 20:36",
-    "mensaje": "⚠Afectado el servicio eléctrico en los siguientes circuitos:\n🔹Municipio Placetas:\n👉Cto 192 Benito Juárez\n👉Cto 102 Peroti",
-    "timestamp": 1792960573,
-    "timestamp_local": 1792960573
-  },
-  {
-    "id": 60293,
-    "fecha": "25 de Oct del 2026 a las 04:26 PM",
-    "hora_utc": "2026-10-25 20:26",
-    "mensaje": "⚠Afectado el servicio eléctrico en los siguientes circuitos:\n🔹Municipio Quemado:\n👉 Cto 196 Batey Panchito Gómez Toro\n🔹Municipio Corralillo:\n👉Cto 57 Motembo \n👉Cto 56 Yabre\n👉Cto 60 La Sierra\n👉Cto 55 Rancho Veloz",
-    "timestamp": 1792960008,
-    "timestamp_local": 1792960008
   }
 ]
