@@ -1,5 +1,37 @@
 [
   {
+    "id": 60492,
+    "fecha": "28 de Oct del 2026 a las 01:02 AM",
+    "hora_utc": "2026-10-28 05:02",
+    "mensaje": "La provincia presenta 5 averías primarias:\n➡️Afectado de forma parcial el circuito 118 (13Kv), ramal Jinaguayabo, del municipio Remedios, por cable primario partido.\n➡️Afectado de forma parcial el circuito 55 Rancho Veloz, ramal Salvadora, del municipio Corralillo. Se estudian las causas.\n➡En avería la línea del 4608 por parte de la provincia de Matanzas:\nLínea 4608\n🔹Municipio Corralillo:\n👉Ctos 58 y 159\n➡En avería el circuito 111 Mataguá, del municipio Manicaragua, se estudian las causas.\n➡En avería el circuito 34 Sabana Rebacadero perteneciente al municipio Santa Clara (Se estudian las causas)",
+    "timestamp": 1793163765,
+    "timestamp_local": 1793163765
+  },
+  {
+    "id": 60491,
+    "fecha": "28 de Oct del 2026 a las 01:01 AM",
+    "hora_utc": "2026-10-28 05:01",
+    "mensaje": "🕕Actualización del servicio eléctrico.\n✍️El déficit de capacidad de generación en estos momentos es de 208 MW\n✍️En el momento de esta nota, se mantienen afectados 139 circuitos.\n✍️ Cuenta con 404 afectaciones por averías secundarias y de servicio:\n🔸 Caibarién (17)\n🔸 Camajuaní (12)\n🔸 Cifuentes (11)\n🔸 Corralillo (4)\n🔸 Encrucijada (3)\n🔸 Manicaragua (32)\n🔸 Placetas (9)\n🔸 Quemado (3)\n🔸 Ranchuelo (24)\n🔸 Remedios (15)\n🔸 Sagua (47)\n🔸 Santa Clara (194)\n🔸 Santo Domingo (33)\n🛠️Se encuentran 4 averías en vías de solución.\n🛠️Pendientes a solucionar por el área técnica 75.",
+    "timestamp": 1793163710,
+    "timestamp_local": 1793163710
+  },
+  {
+    "id": 60490,
+    "fecha": "27 de Oct del 2026 a las 10:22 PM",
+    "hora_utc": "2026-10-28 02:22",
+    "mensaje": "Actualización del servicio eléctrico en la provincia.\n👉En este momento la afectación por déficit de capacidad de generación es de 217 MW, demanda máxima posible a apagar en estos momentos.\n👉De los circuitos apagables se mantienen afectados 146.\n👉Cuenta con 423 afectaciones por averías secundarias y de servicio.",
+    "timestamp": 1793154148,
+    "timestamp_local": 1793154148
+  },
+  {
+    "id": 60489,
+    "fecha": "27 de Oct del 2026 a las 10:15 PM",
+    "hora_utc": "2026-10-28 02:15",
+    "mensaje": "🔴 11:44 || Fuera de línea la CTE Antonio Guiteras por bajo vacío en el condensador.\n 🔴 13:21 || Un disparo en la linea de 220 kV de Pinar -Mariel, provoca una desconexión del SEN de la Provincia Pinar del Río.\n🟢 14:07 || Restablecido el servicio eléctrico en la provincia de Pinar del Río.",
+    "timestamp": 1793153751,
+    "timestamp_local": 1793153751
+  },
+  {
     "id": 60488,
     "fecha": "27 de Oct del 2026 a las 07:59 PM",
     "hora_utc": "2026-10-27 23:59",
@@ -118,37 +150,5 @@
     "mensaje": "💡Restablecido el servicio eléctrico en los siguientes circuitos:\n🔹Municipio Sagua\n👉Ctos 43, 51 Sagua",
     "timestamp": 1793127802,
     "timestamp_local": 1793127802
-  },
-  {
-    "id": 60472,
-    "fecha": "27 de Oct del 2026 a las 03:02 PM",
-    "hora_utc": "2026-10-27 19:02",
-    "mensaje": "⚠Afectado el servicio eléctrico en los siguientes circuitos:\n🔹Municipio Sagua\n👉Ctos 50 y 147 Villa Alegre",
-    "timestamp": 1793127773,
-    "timestamp_local": 1793127773
-  },
-  {
-    "id": 60471,
-    "fecha": "27 de Oct del 2026 a las 03:00 PM",
-    "hora_utc": "2026-10-27 19:00",
-    "mensaje": "💡Restablecido el servicio eléctrico en los siguientes circuitos:\n🔹Municipio Santa Clara:\n👉Ctos 1 y 4 Consejo- Centro",
-    "timestamp": 1793127655,
-    "timestamp_local": 1793127655
-  },
-  {
-    "id": 60470,
-    "fecha": "27 de Oct del 2026 a las 02:22 PM",
-    "hora_utc": "2026-10-27 18:22",
-    "mensaje": "Actualización del servicio eléctrico en la provincia.\n👉En este momento la afectación por déficit de capacidad de generación es de 163 MW, demanda máxima posible a apagar en estos momentos.\n👉De los circuitos apagables se mantienen afectados 97.\n👉Cuenta con 423 afectaciones por averías secundarias y de servicio.",
-    "timestamp": 1793125345,
-    "timestamp_local": 1793125345
-  },
-  {
-    "id": 60469,
-    "fecha": "27 de Oct del 2026 a las 02:10 PM",
-    "hora_utc": "2026-10-27 18:10",
-    "mensaje": "💡Restablecido el servicio eléctrico en el siguiente circuito:\n🔹Municipio Caibarién\n👉Cto 183 Van Troy",
-    "timestamp": 1793124621,
-    "timestamp_local": 1793124621
   }
 ]
