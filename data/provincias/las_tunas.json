@@ -1,5 +1,21 @@
 [
   {
+    "id": 22088,
+    "fecha": "29 de Oct del 2026 a las 04:27 PM",
+    "hora_utc": "2026-10-29 20:27",
+    "mensaje": "La Empresa Eléctrica Las Tunas informa que, según la nota emitida por la Unión Eléctrica para el 29 de octubre, en el día de ayer se afectó el servicio por déficit de capacidad durante las 24 horas y se mantuvo la afectación durante todo el horario de la madrugada.\n\nActualmente se encuentran en avería la unidad 5 de la CTE Mariel, la unidad 1 de la CTE Santa Cruz, la unidad de la CTE Guiteras, la unidad 2 de la CTE Felton y las unidades 3 y 6 de la CTE Renté.\n\nEn mantenimiento se encuentran la unidad 3 de la CTE Santa Cruz, las unidades 5 y 6 de la CTE Nuevitas y la unidad 5 de la CTE Renté.\n\nEn el horario diurno se estima una afectación en el país de 1550 MW y en el horario pico nocturno se prevén 1940 MW de afectación.\n\nEn nuestra provincia, la máxima afectación en el horario diurno puede representar la totalidad de los circuitos apagables y en el horario pico nocturno puede extenderse igualmente a todos ellos, debido al alto déficit de capacidad de generación existente. Estos valores pueden variar en función de la demanda nacional, pero reflejan que, en las condiciones actuales, ningún circuito apagable está exento de posibles interrupciones.",
+    "timestamp": 1793305676,
+    "timestamp_local": 1793305676
+  },
+  {
+    "id": 22087,
+    "fecha": "29 de Oct del 2026 a las 12:58 PM",
+    "hora_utc": "2026-10-29 16:58",
+    "mensaje": "Se afecta por emergencia el circuito Tk93 Delicias",
+    "timestamp": 1793293123,
+    "timestamp_local": 1793293123
+  },
+  {
     "id": 22086,
     "fecha": "29 de Oct del 2026 a las 10:27 AM",
     "hora_utc": "2026-10-29 14:27",
@@ -94,21 +110,5 @@
     "mensaje": "OTA PARA INFORMAR LA MÁXIMA CAPACIDAD APAGABLE:\nEstimados clientes,\nLes informamos que, debido a la actual situación energética del país, nuestra provincia se encuentra operando bajo la máxima capacidad apagable. Esto significa que todos los circuitos eléctricos que pueden ser desconectados temporalmente están siendo utilizados para mantener el equilibrio del sistema nacional.\n\nQUE SIGNIFICA E IMPLICA LA MÁXIMA CAPACIDAD APAGABLE EN LA PROVINCIA: \nMáxima capacidad apagable se refiere al nivel máximo de demanda eléctrica que puede ser desconectada o suspendida temporalmente en la provincia, explica la complejidad del déficit de generación o contingencias en el sistema eléctrico.\nRepresenta el límite superior de la reducción de carga que la empresa puede lograr mediante cortes de energía (apagones). Cuanto mayor sea la máxima capacidad apagable, mayor será el déficit de energía.\n¿Qué implica esto?\nSe identifica cuántos circuitos pueden ser apagados para equilibrar la carga del sistema, esto imposibilita realizar rotaciones, pues a excepción de los servicios priorizados, se encuentran afectados todos los circuitos apagables del territorio. Podrán presentarse afectaciones en el servicio de electricidad durante varias horas al día y el tiempo con servicio dependerá del comportamiento del SEN. Esta medida es necesaria para evitar fallas mayores y proteger la infraestructura eléctrica.",
     "timestamp": 1793120979,
     "timestamp_local": 1793120979
-  },
-  {
-    "id": 22068,
-    "fecha": "27 de Oct del 2026 a las 12:09 PM",
-    "hora_utc": "2026-10-27 16:09",
-    "mensaje": "🔴 11:44 || Fuera de línea la CTE Antonio Guiteras por bajo vacío en el condensador.",
-    "timestamp": 1793117371,
-    "timestamp_local": 1793117371
-  },
-  {
-    "id": 22067,
-    "fecha": "27 de Oct del 2026 a las 11:14 AM",
-    "hora_utc": "2026-10-27 15:14",
-    "mensaje": "Queda solucionada la avería del TK50 Vázquez. Se brindará servicio según la disponibilidad del sistema.",
-    "timestamp": 1793114041,
-    "timestamp_local": 1793114041
   }
 ]
