@@ -1,5 +1,133 @@
 [
   {
+    "id": 59670,
+    "fecha": "30 de Oct del 2026 a las 02:22 PM",
+    "hora_utc": "2026-10-30 18:22",
+    "mensaje": "📌 El tiempo de servicio puede variar en dependencia del aumento, la disminución de la demanda o cualquier situación que se presente en el Sistema Eléctrico.",
+    "timestamp": 1793384566,
+    "timestamp_local": 1793384566
+  },
+  {
+    "id": 59669,
+    "fecha": "30 de Oct del 2026 a las 02:21 PM",
+    "hora_utc": "2026-10-30 18:21",
+    "mensaje": "🔉 Se encuentra con servicio el circuito 1 de Santiago.",
+    "timestamp": 1793384510,
+    "timestamp_local": 1793384510
+  },
+  {
+    "id": 59668,
+    "fecha": "30 de Oct del 2026 a las 01:56 PM",
+    "hora_utc": "2026-10-30 17:56",
+    "mensaje": "⚡️En estos momentos la provincia tiene:\n 110 MW afectados. \nCon servicio 50 MW.",
+    "timestamp": 1793382973,
+    "timestamp_local": 1793382973
+  },
+  {
+    "id": 59667,
+    "fecha": "30 de Oct del 2026 a las 01:40 PM",
+    "hora_utc": "2026-10-30 17:40",
+    "mensaje": "🚨Se encuentra con servicio el circuito 17 de Santiago",
+    "timestamp": 1793382021,
+    "timestamp_local": 1793382021
+  },
+  {
+    "id": 59666,
+    "fecha": "30 de Oct del 2026 a las 01:34 PM",
+    "hora_utc": "2026-10-30 17:34",
+    "mensaje": "🚨 Se afecta por Déficit de Generación la línea 5385- (San Luis- Palma)",
+    "timestamp": 1793381683,
+    "timestamp_local": 1793381683
+  },
+  {
+    "id": 59665,
+    "fecha": "30 de Oct del 2026 a las 12:58 PM",
+    "hora_utc": "2026-10-30 16:58",
+    "mensaje": "🚨 Se encuentra afectado por Déficit el circuito 3+2 de Santiago.",
+    "timestamp": 1793379508,
+    "timestamp_local": 1793379508
+  },
+  {
+    "id": 59664,
+    "fecha": "30 de Oct del 2026 a las 12:36 PM",
+    "hora_utc": "2026-10-30 16:36",
+    "mensaje": "📍Actualización de los circuitos que se encuentran afectados por Déficit con cierre 12: 30 pm.\nMW Afectados- 125\nMW Servidos - 50\n\n📌 Circuitos con mayor tiempo de afectación:\nCircuito 1 ➡️ 23 horas y 24 min.\nLínea 4395- Contramaestre ➡️ 22 horas y 4 min.\nLínea 5975- Baconao ➡️ 21 horas y 24 min.\nLínea 5380- Mella ➡️ 20 horas y 48 min.\nLínea 5390- La Maya ➡️ 19 horas y 40 min.\nCircuito 19 ➡️ 18 horas y 55 min.\nLínea 5335- Guamá ➡️ 17 horas y 54 min.\n\n🔉 Si usted presenta afectaciones superiores a los tiempos aquí informados, puede ser a causa de averías u otras incidencias no relacionadas con la afectación por Déficit de Generación. En esos casos le pedimos contactarnos por las vías establecidas.",
+    "timestamp": 1793378190,
+    "timestamp_local": 1793378190
+  },
+  {
+    "id": 59663,
+    "fecha": "30 de Oct del 2026 a las 12:26 PM",
+    "hora_utc": "2026-10-30 16:26",
+    "mensaje": "🚨 Se afecta por Déficit de Generación el circuito 15 de Santiago.",
+    "timestamp": 1793377601,
+    "timestamp_local": 1793377601
+  },
+  {
+    "id": 59662,
+    "fecha": "30 de Oct del 2026 a las 12:20 PM",
+    "hora_utc": "2026-10-30 16:20",
+    "mensaje": "🚨 Se encuentran afectados por Déficit de Capacidad de Generación los circuitos 1 y 2 de Contramaestre.",
+    "timestamp": 1793377240,
+    "timestamp_local": 1793377240
+  },
+  {
+    "id": 59661,
+    "fecha": "30 de Oct del 2026 a las 11:51 AM",
+    "hora_utc": "2026-10-30 15:51",
+    "mensaje": "🔉Se encuentra con servicio la línea 5385- (San Luis- Palma)",
+    "timestamp": 1793375473,
+    "timestamp_local": 1793375473
+  },
+  {
+    "id": 59660,
+    "fecha": "30 de Oct del 2026 a las 11:49 AM",
+    "hora_utc": "2026-10-30 15:49",
+    "mensaje": "🚨 Se encuentra afectado por Déficit el circuito 7 seccionalizado de Santiago.",
+    "timestamp": 1793375392,
+    "timestamp_local": 1793375392
+  },
+  {
+    "id": 59659,
+    "fecha": "30 de Oct del 2026 a las 10:52 AM",
+    "hora_utc": "2026-10-30 14:52",
+    "mensaje": "⚡️En estos momentos la provincia tiene:\n 111 MW afectados. \nCon servicio 50 MW.",
+    "timestamp": 1793371976,
+    "timestamp_local": 1793371976
+  },
+  {
+    "id": 59658,
+    "fecha": "30 de Oct del 2026 a las 10:31 AM",
+    "hora_utc": "2026-10-30 14:31",
+    "mensaje": "🔉 Se encuentra con servicio la línea 4435 de Contramaestre.",
+    "timestamp": 1793370697,
+    "timestamp_local": 1793370697
+  },
+  {
+    "id": 59657,
+    "fecha": "30 de Oct del 2026 a las 10:30 AM",
+    "hora_utc": "2026-10-30 14:30",
+    "mensaje": "🚨 Se encuentra afectado por Déficit de Capacidad de Generación el circuito 9 de Santiago y la línea 5980- San Juan.",
+    "timestamp": 1793370628,
+    "timestamp_local": 1793370628
+  },
+  {
+    "id": 59656,
+    "fecha": "30 de Oct del 2026 a las 09:52 AM",
+    "hora_utc": "2026-10-30 13:52",
+    "mensaje": "⚡️En estos momentos la provincia tiene:\n 110 MW afectados. \nCon servicio 50 MW.",
+    "timestamp": 1793368365,
+    "timestamp_local": 1793368365
+  },
+  {
+    "id": 59655,
+    "fecha": "30 de Oct del 2026 a las 09:51 AM",
+    "hora_utc": "2026-10-30 13:51",
+    "mensaje": "🔉 Se encuentran con servicio los circuitos 1 y 2 de Contramaestre.",
+    "timestamp": 1793368298,
+    "timestamp_local": 1793368298
+  },
+  {
     "id": 59654,
     "fecha": "30 de Oct del 2026 a las 09:13 AM",
     "hora_utc": "2026-10-30 13:13",
@@ -22,125 +150,5 @@
     "mensaje": "🔉 Se encuentran con servicio:\nLínea 5395- San Luis\nCircuito 7 de Santiago\nCircuito 3 de Santiago",
     "timestamp": 1793365561,
     "timestamp_local": 1793365561
-  },
-  {
-    "id": 59651,
-    "fecha": "30 de Oct del 2026 a las 09:03 AM",
-    "hora_utc": "2026-10-30 13:03",
-    "mensaje": "🚨 Se encuentra afectado por Déficit de Capacidad de Generación el circuito 11 de Santiago.",
-    "timestamp": 1793365437,
-    "timestamp_local": 1793365437
-  },
-  {
-    "id": 59650,
-    "fecha": "30 de Oct del 2026 a las 08:32 AM",
-    "hora_utc": "2026-10-30 12:32",
-    "mensaje": "🛑 En estos momentos la provincia tiene:\n 106 MW afectados. \nCon servicio 38 MW.",
-    "timestamp": 1793363559,
-    "timestamp_local": 1793363559
-  },
-  {
-    "id": 59649,
-    "fecha": "30 de Oct del 2026 a las 08:25 AM",
-    "hora_utc": "2026-10-30 12:25",
-    "mensaje": "🚨 Se encuentra afectado por Déficit de Capacidad de Generación la línea 5330- Cristo.",
-    "timestamp": 1793363105,
-    "timestamp_local": 1793363105
-  },
-  {
-    "id": 59648,
-    "fecha": "30 de Oct del 2026 a las 07:58 AM",
-    "hora_utc": "2026-10-30 11:58",
-    "mensaje": "🚨**Estimados clientes, se les reitera que el comportamiento de las afectaciones eléctricas y el restablecimiento del servicio, estará en dependencia de la situación que presente el Sistema Electroenergético Nacional.**",
-    "timestamp": 1793361504,
-    "timestamp_local": 1793361504
-  },
-  {
-    "id": 59647,
-    "fecha": "30 de Oct del 2026 a las 07:19 AM",
-    "hora_utc": "2026-10-30 11:19",
-    "mensaje": "Actualización del Sistema Electroenergético en Santiago de Cuba \nMW  Afectados - 110\nMW Servicio - 38\nCircuitos con mayor Tiempo de Afectación \n* Circuito 7 seccionalizado SD 3030  ➡️ 21 Horas y 15 minutos \n* Circuito 1 de Contramaestre ➡️ 19 Horas y 37 minutos \n* Circuito 2 Contramaestre ➡️ 19 Horas  y 36  minutos\n*Línea  5385  San Luis - Palma  ➡️ 19 Horas y 03 minutos\n*Circuito 17 ➡️ 18 Horas y 54 minutos \n* Circuito 3  ➡️18 Horas y  15 minutos \n*Circuito 1 ➡️18 Horas y  02 minutos \n\n➡️ Si usted presenta afectaciones superiores a los tiempos aquí informados, puede ser a causa de averías u otras incidencias no relacionadas con la afectación por déficit de generación. En esos casos le pedimos contactarnos por las vías establecidas.",
-    "timestamp": 1793359158,
-    "timestamp_local": 1793359158
-  },
-  {
-    "id": 59646,
-    "fecha": "30 de Oct del 2026 a las 07:11 AM",
-    "hora_utc": "2026-10-30 11:11",
-    "mensaje": "*❗️ Actualización de las quejas existentes en la provincia.  ( 7:00 am/ 7:00 pm)\n📍 Actualmente tenemos reportadas un total de 301 quejas en la provincia\nSantiago - 181\nLa Maya - 8\nContramaestre 18 \nIII Frente - 2 \nSan Luis - 8 \nPalma - 83 \nMella - 1\n\n📌-Pendientes por visitar: 301 quejas.\n📌Pendientes por solución: ------ quejas.\n📌Barriadas afectadas por interrupciones: 24\n📌Transformadores dañados en la provincia: 49\nSantiago- 16\nLa Maya - 4 \nContramaestre - 8\nII Frente - 1\nIII Frente  - 3\nSan Luis - 8\nPalma - 4\nMella - 3\nGuamá - 2\n📌Averías Primarias: 0\nSe trabaja para dar solución a las mismas. Si conoce o presenta alguna afectación puede reportarla a través del 18888 o el 22647442, será un placer atenderles.",
-    "timestamp": 1793358682,
-    "timestamp_local": 1793358682
-  },
-  {
-    "id": 59645,
-    "fecha": "30 de Oct del 2026 a las 06:35 AM",
-    "hora_utc": "2026-10-30 10:35",
-    "mensaje": "📌Actualización de afectaciones por déficit:\nEn estos momentos la provincia tiene  103 MW afectados. \nCon servicio  35 MW",
-    "timestamp": 1793356502,
-    "timestamp_local": 1793356502
-  },
-  {
-    "id": 59644,
-    "fecha": "30 de Oct del 2026 a las 05:51 AM",
-    "hora_utc": "2026-10-30 09:51",
-    "mensaje": "📌Actualización de las afectaciones por déficit:\nSe restablece el servicio a los siguientes circuitos:\n* Circuito 11\n*Línea 4390 Contramaestre",
-    "timestamp": 1793353863,
-    "timestamp_local": 1793353863
-  },
-  {
-    "id": 59643,
-    "fecha": "30 de Oct del 2026 a las 05:49 AM",
-    "hora_utc": "2026-10-30 09:49",
-    "mensaje": "📌Se afecta el servicio eléctrico para los siguientes circuitos\n*Circuito 2\n* Circuito 23 \n *Línea 4385 y 4435  Contramaestre",
-    "timestamp": 1793353758,
-    "timestamp_local": 1793353758
-  },
-  {
-    "id": 59642,
-    "fecha": "30 de Oct del 2026 a las 05:13 AM",
-    "hora_utc": "2026-10-30 09:13",
-    "mensaje": "📌Se afecta el servicio eléctrico para los siguientes circuitos\n* Circuito 8 \n* Circuito 21",
-    "timestamp": 1793351587,
-    "timestamp_local": 1793351587
-  },
-  {
-    "id": 59641,
-    "fecha": "30 de Oct del 2026 a las 05:11 AM",
-    "hora_utc": "2026-10-30 09:11",
-    "mensaje": "📌Actualización de las afectaciones por déficit:\nSe restablece el servicio a los siguientes circuitos:\n* Línea 5330 El Cristo \n* Línea 5980 San Juan seccionalizada \n* Circuito 9 seccionalizado",
-    "timestamp": 1793351509,
-    "timestamp_local": 1793351509
-  },
-  {
-    "id": 59640,
-    "fecha": "30 de Oct del 2026 a las 04:25 AM",
-    "hora_utc": "2026-10-30 08:25",
-    "mensaje": "📌Actualización de afectaciones por déficit:\nEn estos momentos la provincia tiene  94 MW afectados. \nCon servicio  35  MW",
-    "timestamp": 1793348742,
-    "timestamp_local": 1793348742
-  },
-  {
-    "id": 59637,
-    "fecha": "30 de Oct del 2026 a las 01:55 AM",
-    "hora_utc": "2026-10-30 05:55",
-    "mensaje": "📌Actualización de afectaciones por déficit:\nEn estos momentos la provincia tiene  104  MW afectados. \nCon servicio 35 MW",
-    "timestamp": 1793339710,
-    "timestamp_local": 1793339710
-  },
-  {
-    "id": 59636,
-    "fecha": "30 de Oct del 2026 a las 01:31 AM",
-    "hora_utc": "2026-10-30 05:31",
-    "mensaje": "📌Se afecta el servicio eléctrico para los siguientes circuitos\n* Circuito 12\n* Circuito 1 Palma",
-    "timestamp": 1793338319,
-    "timestamp_local": 1793338319
-  },
-  {
-    "id": 59635,
-    "fecha": "30 de Oct del 2026 a las 01:20 AM",
-    "hora_utc": "2026-10-30 05:20",
-    "mensaje": "📌Actualización de las afectaciones por déficit:\nSe restablece el servicio a los siguientes circuitos:\n* Circuito 14 \n* Circuito 4 de Palma",
-    "timestamp": 1793337616,
-    "timestamp_local": 1793337616
   }
 ]
