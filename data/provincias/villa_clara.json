@@ -1,5 +1,53 @@
 [
   {
+    "id": 60726,
+    "fecha": "30 de Oct del 2026 a las 08:20 PM",
+    "hora_utc": "2026-10-31 00:20",
+    "mensaje": "Actualización del servicio eléctrico en la provincia.\n👉En este momento la afectación por déficit de capacidad de generación es de 240 MW, demanda máxima posible a apagar en estos momentos.\n👉De los circuitos apagables se mantienen afectados 159.\n👉Cuenta con 386 afectaciones por averías secundarias y de servicio.",
+    "timestamp": 1793406039,
+    "timestamp_local": 1793406039
+  },
+  {
+    "id": 60724,
+    "fecha": "30 de Oct del 2026 a las 07:47 PM",
+    "hora_utc": "2026-10-30 23:47",
+    "mensaje": "🔹Municipio Remedios:\n👉Ctos 68 y 118\n🔹Municipio Sagua:\n👉 Ctos 45 y 197 Jumagua\n👉 Ctos 47 y 49 Caguagua\n🔹Municipio Placetas:\n👉Cto 98",
+    "timestamp": 1793404028,
+    "timestamp_local": 1793404028
+  },
+  {
+    "id": 60723,
+    "fecha": "30 de Oct del 2026 a las 07:37 PM",
+    "hora_utc": "2026-10-30 23:37",
+    "mensaje": "🔹Municipio Caibarién:\n👉Ctos 63 y 64\n👉Cto 65 Dolores",
+    "timestamp": 1793403435,
+    "timestamp_local": 1793403435
+  },
+  {
+    "id": 60722,
+    "fecha": "30 de Oct del 2026 a las 07:35 PM",
+    "hora_utc": "2026-10-30 23:35",
+    "mensaje": "💡Con servicio la línea 129:\n🔹Municipio Santa Clara:\n👉Ctos 32 y 33 (RF-33Kv)\n👉Cto 40 Hospital Militar\n👉Hospital Cardiocentro\n👉Bombeo Palmarito",
+    "timestamp": 1793403337,
+    "timestamp_local": 1793403337
+  },
+  {
+    "id": 60721,
+    "fecha": "30 de Oct del 2026 a las 07:34 PM",
+    "hora_utc": "2026-10-30 23:34",
+    "mensaje": "🔹Municipio Santa Clara:\n👉Cto 194 (Hospital Materno Infantil)\n👉Cto Hospital Nuevo",
+    "timestamp": 1793403290,
+    "timestamp_local": 1793403290
+  },
+  {
+    "id": 60720,
+    "fecha": "30 de Oct del 2026 a las 07:14 PM",
+    "hora_utc": "2026-10-30 23:14",
+    "mensaje": "🚨Debido a la compleja situación electroenergética que presenta el país con los altos niveles por déficit de capacidad de generación, se hace apertura por emergencia en la provincia, afectando la totalidad de los circuitos.\n✍Se irá restableciendo paulatinamente los circuitos priorizados que brindan los servicios hospitalarios.\n✍El restablecimiento del servicio eléctrico dependerá del comportamiento, la demanda y la disponibilidad del sistema eléctrico.",
+    "timestamp": 1793402066,
+    "timestamp_local": 1793402066
+  },
+  {
     "id": 60719,
     "fecha": "30 de Oct del 2026 a las 06:34 PM",
     "hora_utc": "2026-10-30 22:34",
@@ -102,61 +150,5 @@
     "mensaje": "💡Restablecido el servicio eléctrico en los siguientes circuitos:\n🔹Municipio Santa Clara:\n👉Cto 191 Quemado de Hilario\n🔹Municipio Ranchuelo:\n👉Cto 92 Esperanza (Pueblo)",
     "timestamp": 1793391495,
     "timestamp_local": 1793391495
-  },
-  {
-    "id": 60706,
-    "fecha": "30 de Oct del 2026 a las 04:04 PM",
-    "hora_utc": "2026-10-30 20:04",
-    "mensaje": "💡Restablecido el servicio eléctrico en el siguiente circuito:\n🔹Municipio Placetas:\n👉Cto 98",
-    "timestamp": 1793390665,
-    "timestamp_local": 1793390665
-  },
-  {
-    "id": 60705,
-    "fecha": "30 de Oct del 2026 a las 04:03 PM",
-    "hora_utc": "2026-10-30 20:03",
-    "mensaje": "⚠Afectado el servicio eléctrico en el siguiente circuito:\n🔹Municipio Placetas: \n👉Cto 99",
-    "timestamp": 1793390617,
-    "timestamp_local": 1793390617
-  },
-  {
-    "id": 60704,
-    "fecha": "30 de Oct del 2026 a las 04:00 PM",
-    "hora_utc": "2026-10-30 20:00",
-    "mensaje": "⚠Afectado el servicio eléctrico en el siguiente circuito:\n🔹Municipio Quemado: \n👉Cto 53",
-    "timestamp": 1793390424,
-    "timestamp_local": 1793390424
-  },
-  {
-    "id": 60703,
-    "fecha": "30 de Oct del 2026 a las 04:00 PM",
-    "hora_utc": "2026-10-30 20:00",
-    "mensaje": "Actualización del servicio eléctrico en la provincia.\n👉En este momento la afectación por déficit de capacidad de generación es de 217 MW, demanda máxima posible a apagar en estos momentos.\n👉De los circuitos apagables se mantienen afectados 139.\n👉Cuenta con 378 afectaciones por averías secundarias y de servicio.",
-    "timestamp": 1793390403,
-    "timestamp_local": 1793390403
-  },
-  {
-    "id": 60702,
-    "fecha": "30 de Oct del 2026 a las 03:56 PM",
-    "hora_utc": "2026-10-30 19:56",
-    "mensaje": "⚠Afectado el servicio eléctrico en el siguiente circuito:\n🔹Municipio Santa Clara: \n👉Cto 167 Virginia",
-    "timestamp": 1793390168,
-    "timestamp_local": 1793390168
-  },
-  {
-    "id": 60701,
-    "fecha": "30 de Oct del 2026 a las 03:55 PM",
-    "hora_utc": "2026-10-30 19:55",
-    "mensaje": "⚠Afectado el servicio eléctrico en los siguientes circuitos:\n 🔹Municipio Caibarién:\n👉Ctos 61 y 62",
-    "timestamp": 1793390119,
-    "timestamp_local": 1793390119
-  },
-  {
-    "id": 60700,
-    "fecha": "30 de Oct del 2026 a las 03:51 PM",
-    "hora_utc": "2026-10-30 19:51",
-    "mensaje": "⚠Afectado el servicio eléctrico en el siguiente circuito:\n🔹Municipio Santa Clara: \n👉Cto 4 Consejo-Centro",
-    "timestamp": 1793389910,
-    "timestamp_local": 1793389910
   }
 ]
