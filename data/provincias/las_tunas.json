@@ -1,5 +1,21 @@
 [
   {
+    "id": 22115,
+    "fecha": "31 de Oct del 2026 a las 03:34 PM",
+    "hora_utc": "2026-10-31 19:34",
+    "mensaje": "Nota técnica: Disparo de circuitos eléctricos y el retardo de tres minutos\n\n¿Por qué se dispara un circuito eléctrico? Un interruptor automático (magnetotérmico o diferencial) se activa para proteger la instalación y a las personas frente a anomalías. Las causas más habituales son:\n\n· Sobrecarga: circula más corriente de la que el cable puede soportar durante un tiempo prolongado (por ejemplo, por conectar demasiados aparatos a un mismo circuito).\n· Cortocircuito: contacto directo entre fase y neutro, o entre fase y tierra, lo que provoca un pico de corriente muy elevado.\n· Fuga a tierra (fallo de aislamiento): parte de la corriente se deriva a tierra, lo que puede electrocutar a una persona o provocar un incendio.\n\n¿Por qué esperar unos tres minutos antes de rearmar? El retardo de tres minutos (aproximado, pues puede variar entre uno y cinco minutos según el dispositivo) responde a razones de seguridad técnica.\n\n· Enfriamiento de componentes térmicos: en los interruptores magnetotérmicos, el disparo por sobrecarga calienta una lámina bimetálica. Esta necesita de tres a cinco minutos para enfriarse y recuperar su forma original. Si se rearma antes, el mecanismo puede quedar forzado, provocar un contacto deficiente y reducir la vida útil del aparato.\n· Disipación de gases ionizados: tras un cortocircuito, en el interior del interruptor se generan gases ionizados. Si se rearma de inmediato, esos gases pueden facilitar la formación de un arco eléctrico interno y provocar daños graves o incluso una explosión. Esperar unos tres minutos permite que los gases se disipen y el interruptor pueda cerrarse con seguridad.\n· Evitar rearmes repetidos sobre una falla activa: muchos diferenciales con rearme automático (o los reconectadores) utilizan intervalos progresivos (por ejemplo, 10 segundos, 60 segundos y hasta 300 segundos) para no insistir sobre un defecto que sigue presente. Si el problema persiste, el dispositivo se bloquea y exige una revisión manual, evitando así un ciclo peligroso de disparos y rearmes.\n\nEn resumen: el disparo protege ante sobrecargas, cortocircuitos o fugas; el retardo de aproximadamente tres minutos es un tiempo de seguridad que permite que los componentes se enfríen, los gases se disipen y se evite rearmar sobre una falla que podría causar daños mayores.",
+    "timestamp": 1793475258,
+    "timestamp_local": 1793475258
+  },
+  {
+    "id": 22114,
+    "fecha": "31 de Oct del 2026 a las 03:28 PM",
+    "hora_utc": "2026-10-31 19:28",
+    "mensaje": "Se le informa a los clientes que en el horario de la tarde el circuito primario TK1 que comprende el área alrededor de los edificio de Buena Vista y parte del reparto Finlay, se encontraba disparando por sobre carga.",
+    "timestamp": 1793474905,
+    "timestamp_local": 1793474905
+  },
+  {
     "id": 22112,
     "fecha": "31 de Oct del 2026 a las 08:24 AM",
     "hora_utc": "2026-10-31 12:24",
