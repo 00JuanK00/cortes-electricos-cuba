@@ -1,5 +1,29 @@
 [
   {
+    "id": 40085,
+    "fecha": "31 de Oct del 2026 a las 10:01 PM",
+    "hora_utc": "2026-11-01 02:01",
+    "mensaje": "⚡ Déficit de capacidad de generación en la provincia: 152",
+    "timestamp": 1793498477,
+    "timestamp_local": 1793498477
+  },
+  {
+    "id": 40084,
+    "fecha": "31 de Oct del 2026 a las 08:58 PM",
+    "hora_utc": "2026-11-01 00:58",
+    "mensaje": "⚡ Déficit de capacidad de generación en la provincia: 163 MW ⚡",
+    "timestamp": 1793494686,
+    "timestamp_local": 1793494686
+  },
+  {
+    "id": 40083,
+    "fecha": "31 de Oct del 2026 a las 08:02 PM",
+    "hora_utc": "2026-11-01 00:02",
+    "mensaje": "⚡ Déficit de capacidad de generación en la provincia: 167 MW ⚡",
+    "timestamp": 1793491340,
+    "timestamp_local": 1793491340
+  },
+  {
     "id": 40082,
     "fecha": "31 de Oct del 2026 a las 07:06 PM",
     "hora_utc": "2026-10-31 23:06",
@@ -134,29 +158,5 @@
     "mensaje": "‼️¡Estimados clientes! ‼️\n⚡ Déficit de capacidad de generación en la provincia: * 126 MW .* ⚡",
     "timestamp": 1793455412,
     "timestamp_local": 1793455412
-  },
-  {
-    "id": 40065,
-    "fecha": "31 de Oct del 2026 a las 09:34 AM",
-    "hora_utc": "2026-10-31 13:34",
-    "mensaje": "🔔Al cierre de las 9:32 am del día 31 de Octubre se encuentran 624 quejas pendientes en el sistema. \n\nEl desglose por municipio es el siguiente: \n🔸Betancourt:  1\n🔸Calimete:  15\n🔸Cárdenas:  57\n🔸Colón:   37\n🔸Jaguey:   11\n🔸Jovellanos:  24\n🔸Limonar:  2\n🔸Los Arabos:  18\n🔸Martí:   1\n🔸Matanzas:  452\n🔸Perico:   1\n🔸Unión:   3\n🔸Varadero:  2\n\n⚡️👷 Nuestros Linieros continúan trabajando para restablecer el servicio a todos los clientes con quejas pendientes.‼️",
-    "timestamp": 1793453643,
-    "timestamp_local": 1793453643
-  },
-  {
-    "id": 40064,
-    "fecha": "31 de Oct del 2026 a las 09:28 AM",
-    "hora_utc": "2026-10-31 13:28",
-    "mensaje": "⚠️ATENCIÓN: Se encuentra afectado transformador dañado perteneciente a Jaguey en la calle 15 entre 60 y 62 afectando 71 clientes.",
-    "timestamp": 1793453324,
-    "timestamp_local": 1793453324
-  },
-  {
-    "id": 40063,
-    "fecha": "31 de Oct del 2026 a las 09:22 AM",
-    "hora_utc": "2026-10-31 13:22",
-    "mensaje": "🔉Circuitos no apagables que estarán afectados debido al alto déficit:\n\n👉MI1453,MK130,JI48,MK1183\n\n🧏Se afectarán de 10:00am a 18:00pm",
-    "timestamp": 1793452944,
-    "timestamp_local": 1793452944
   }
 ]

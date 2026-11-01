@@ -1,5 +1,85 @@
 [
   {
+    "id": 60814,
+    "fecha": "31 de Oct del 2026 a las 10:03 PM",
+    "hora_utc": "2026-11-01 02:03",
+    "mensaje": "Actualización del servicio eléctrico en la provincia.\n👉En este momento la afectación por déficit de capacidad de generación es de 223 MW, demanda máxima posible a apagar en estos momentos.\n👉De los circuitos apagables se mantienen afectados 150.\n👉Cuenta con 376 afectaciones por averías secundarias y de servicio.",
+    "timestamp": 1793498594,
+    "timestamp_local": 1793498594
+  },
+  {
+    "id": 60813,
+    "fecha": "31 de Oct del 2026 a las 09:36 PM",
+    "hora_utc": "2026-11-01 01:36",
+    "mensaje": "💡Restablecido el servicio eléctrico en los siguientes circuitos:\n🔹Municipio Santa Clara:\n👉Cto 28 Monumento Che\n👉Cto 168 Condado- XX Aniversario",
+    "timestamp": 1793496960,
+    "timestamp_local": 1793496960
+  },
+  {
+    "id": 60812,
+    "fecha": "31 de Oct del 2026 a las 09:34 PM",
+    "hora_utc": "2026-11-01 01:34",
+    "mensaje": "💡Restablecido el servicio eléctrico en el siguiente circuito:\n🔹Municipio Santa Clara\n👉Cto  144 Camacho",
+    "timestamp": 1793496892,
+    "timestamp_local": 1793496892
+  },
+  {
+    "id": 60811,
+    "fecha": "31 de Oct del 2026 a las 09:34 PM",
+    "hora_utc": "2026-11-01 01:34",
+    "mensaje": "⚠Afectado el servicio eléctrico  en los siguientes circuitos:\n🔹Municipio Santa Clara\n👉Cto 166 Condado\n👉Cto 169 Condado\n👉Cto 153 EIDE",
+    "timestamp": 1793496852,
+    "timestamp_local": 1793496852
+  },
+  {
+    "id": 60810,
+    "fecha": "31 de Oct del 2026 a las 09:32 PM",
+    "hora_utc": "2026-11-01 01:32",
+    "mensaje": "💡Restablecido el servicio eléctrico en el siguiente circuito:\n🔹Municipio Santa Clara\n👉Cto 27 Maleza",
+    "timestamp": 1793496721,
+    "timestamp_local": 1793496721
+  },
+  {
+    "id": 60809,
+    "fecha": "31 de Oct del 2026 a las 08:42 PM",
+    "hora_utc": "2026-11-01 00:42",
+    "mensaje": "💡Restablecido el servicio eléctrico en el siguiente circuito:\n🔹Municipio Santa Clara\n👉Cto 3 Consejo- Centro",
+    "timestamp": 1793493731,
+    "timestamp_local": 1793493731
+  },
+  {
+    "id": 60808,
+    "fecha": "31 de Oct del 2026 a las 08:22 PM",
+    "hora_utc": "2026-11-01 00:22",
+    "mensaje": "💡Restablecido el servicio eléctrico en el siguiente circuito:\n🔹Municipio Placetas\n👉Cto 151 Placetas",
+    "timestamp": 1793492520,
+    "timestamp_local": 1793492520
+  },
+  {
+    "id": 60807,
+    "fecha": "31 de Oct del 2026 a las 08:15 PM",
+    "hora_utc": "2026-11-01 00:15",
+    "mensaje": "Actualización del servicio eléctrico en la provincia.\n👉En este momento la afectación por déficit de capacidad de generación es de 225 MW, demanda máxima posible a apagar en estos momentos.\n👉De los circuitos apagables se mantienen afectados 153.\n👉Cuenta con 388 afectaciones por averías secundarias y de servicio.",
+    "timestamp": 1793492110,
+    "timestamp_local": 1793492110
+  },
+  {
+    "id": 60806,
+    "fecha": "31 de Oct del 2026 a las 08:00 PM",
+    "hora_utc": "2026-11-01 00:00",
+    "mensaje": "⚡Afectado por cable primario partido Cto 3 Consejo- Centro, perteneciente al Municipio Santa Clara, brigadas de nuestra empresa se encuentran trabajando en el lugar.",
+    "timestamp": 1793491224,
+    "timestamp_local": 1793491224
+  },
+  {
+    "id": 60805,
+    "fecha": "31 de Oct del 2026 a las 07:58 PM",
+    "hora_utc": "2026-10-31 23:58",
+    "mensaje": "💡Restablecido el servicio eléctrico en el siguiente circuito:\n🔹Municipio Santa Clara\n👉Cto 1 Consejo- Centro",
+    "timestamp": 1793491083,
+    "timestamp_local": 1793491083
+  },
+  {
     "id": 60804,
     "fecha": "31 de Oct del 2026 a las 06:48 PM",
     "hora_utc": "2026-10-31 22:48",
@@ -11,7 +91,7 @@
     "id": 60803,
     "fecha": "31 de Oct del 2026 a las 06:47 PM",
     "hora_utc": "2026-10-31 22:47",
-    "mensaje": "⚠Afectado el servicio eléctrico  en el siguiente circuito:\n🔹Municipio Santa Clara\n👉Cto 22 Construcciones Textil",
+    "mensaje": "⚠Afectado el servicio eléctrico  en los siguientes circuitos:\n🔹Municipio Santa Clara\n👉Cto 22 Construcciones Textil\n🔹Municipio Manicaragua:\n👉Ctos 113 y 137 La Campana\n👉Cto 112 Hoyo Manicaragua",
     "timestamp": 1793486825,
     "timestamp_local": 1793486825
   },
@@ -78,85 +158,5 @@
     "mensaje": "Actualización del servicio eléctrico en la provincia.\n👉En este momento la afectación por déficit de capacidad de generación es de 203 MW, demanda máxima posible a apagar en estos momentos.\n👉De los circuitos apagables se mantienen afectados 134.\n👉Cuenta con 418 afectaciones por averías secundarias y de servicio",
     "timestamp": 1793477936,
     "timestamp_local": 1793477936
-  },
-  {
-    "id": 60794,
-    "fecha": "31 de Oct del 2026 a las 04:17 PM",
-    "hora_utc": "2026-10-31 20:17",
-    "mensaje": "💡Restablecido el servicio eléctrico en el siguiente circuito:\n🔹Municipio Caibarién\n👉Cto 183  Van Troy",
-    "timestamp": 1793477870,
-    "timestamp_local": 1793477870
-  },
-  {
-    "id": 60793,
-    "fecha": "31 de Oct del 2026 a las 04:17 PM",
-    "hora_utc": "2026-10-31 20:17",
-    "mensaje": "⚠Afectado el servicio eléctrico  en  los siguientes circuitos:\n🔹Municipio Sagua\n👉Cto 48 Finalet\n👉Ctos 46 y 128 Sitiecito",
-    "timestamp": 1793477835,
-    "timestamp_local": 1793477835
-  },
-  {
-    "id": 60792,
-    "fecha": "31 de Oct del 2026 a las 04:00 PM",
-    "hora_utc": "2026-10-31 20:00",
-    "mensaje": "⚠Afectado el servicio eléctrico  en  los siguientes circuitos:\n🔹Municipio Quemado:\n👉 Ctos 164 y 53 Quemado.\n🔹Municipio Santa Clara\n👉Cto 31 Santa Clara Industrial",
-    "timestamp": 1793476820,
-    "timestamp_local": 1793476820
-  },
-  {
-    "id": 60791,
-    "fecha": "31 de Oct del 2026 a las 03:30 PM",
-    "hora_utc": "2026-10-31 19:30",
-    "mensaje": "💡Restablecido el servicio eléctrico en  los siguientes circuitos:\n🔹Municipio Ranchuelo:\n👉Cto 93 Esperanza (Campo)\n🔹Municipio Santa Clara\n👉Cto 141  Manuelita",
-    "timestamp": 1793475026,
-    "timestamp_local": 1793475026
-  },
-  {
-    "id": 60790,
-    "fecha": "31 de Oct del 2026 a las 03:27 PM",
-    "hora_utc": "2026-10-31 19:27",
-    "mensaje": "⚡Afectado por emergencia el Cto 1 Consejo- Centro perteneciente al Municipio Santa Clara por cruceta partida y  transformadores a punto de caerse.",
-    "timestamp": 1793474861,
-    "timestamp_local": 1793474861
-  },
-  {
-    "id": 60789,
-    "fecha": "31 de Oct del 2026 a las 03:13 PM",
-    "hora_utc": "2026-10-31 19:13",
-    "mensaje": "💡Restablecido el servicio eléctrico en  los siguientes circuitos:\n🔹Municipio Santa Clara:\n👉Ctos 1 y 2 Consejo- Centro\n👉Cto 14 Maleza\n🔹Municipio Camajuaní:\n👉Ctos  72  y 129\n🔹Municipio  Encrucijada \n👉Cto 122 Encrucijada",
-    "timestamp": 1793474022,
-    "timestamp_local": 1793474022
-  },
-  {
-    "id": 60788,
-    "fecha": "31 de Oct del 2026 a las 03:10 PM",
-    "hora_utc": "2026-10-31 19:10",
-    "mensaje": "⚠Afectado el servicio eléctrico  en  los siguientes circuitos:\n🔹Municipio Santa Clara:\n👉Cto 3  Consejo- Centro\n🔹Municipio Manicaragua:\n👉Ctos 109 y 150\n🔹Municipio Camajuaní:\n👉Cto 185 Vueltas\n🔹Municipio Santa Clara:\n👉Ctos 37 y 38 Yabú\n👉Cto 9 Moldes y Troqueles\n👉Cto 133 Taller Cafetera",
-    "timestamp": 1793473848,
-    "timestamp_local": 1793473848
-  },
-  {
-    "id": 60787,
-    "fecha": "31 de Oct del 2026 a las 02:39 PM",
-    "hora_utc": "2026-10-31 18:39",
-    "mensaje": "⚠Afectado el servicio eléctrico  en  los siguientes circuitos:\n🔹Municipio Santa Clara\n👉Ctos 26  Manuelita\n🔹Municipio Ranchuelo:\n👉Cto 92 Esperanza (Pueblo)",
-    "timestamp": 1793471964,
-    "timestamp_local": 1793471964
-  },
-  {
-    "id": 60786,
-    "fecha": "31 de Oct del 2026 a las 02:22 PM",
-    "hora_utc": "2026-10-31 18:22",
-    "mensaje": "Actualización del servicio eléctrico en la provincia.\n👉En este momento la afectación por déficit de capacidad de generación es de 191 MW, demanda máxima posible a apagar en estos momentos.\n👉De los circuitos apagables se mantienen afectados 127.\n👉Cuenta con 409 afectaciones por averías secundarias y de servicio",
-    "timestamp": 1793470965,
-    "timestamp_local": 1793470965
-  },
-  {
-    "id": 60785,
-    "fecha": "31 de Oct del 2026 a las 02:19 PM",
-    "hora_utc": "2026-10-31 18:19",
-    "mensaje": "💡Restablecido el servicio eléctrico en  los siguientes circuitos:\n🔹Municipio Ranchuelo:\n👉Ctos 97 y 189",
-    "timestamp": 1793470783,
-    "timestamp_local": 1793470783
   }
 ]
