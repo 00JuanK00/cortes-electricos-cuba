@@ -1,5 +1,53 @@
 [
   {
+    "id": 61052,
+    "fecha": "03 de Nov del 2026 a las 10:42 PM",
+    "hora_utc": "2026-11-04 02:42",
+    "mensaje": "💡Restablecido el servicio eléctrico en el siguiente circuito:\n🔹Municipio Santa Clara:\n👉Cto 166 Condado",
+    "timestamp": 1793760155,
+    "timestamp_local": 1793760155
+  },
+  {
+    "id": 61051,
+    "fecha": "03 de Nov del 2026 a las 10:40 PM",
+    "hora_utc": "2026-11-04 02:40",
+    "mensaje": "⚠️Afectado por manipulación el Cto 166 Condado, perteneciente al municipio Santa Clara, para reponer transformador.",
+    "timestamp": 1793760003,
+    "timestamp_local": 1793760003
+  },
+  {
+    "id": 61050,
+    "fecha": "03 de Nov del 2026 a las 10:20 PM",
+    "hora_utc": "2026-11-04 02:20",
+    "mensaje": "Actualización del servicio eléctrico en la provincia.\n👉En este momento la afectación por déficit de capacidad de generación es de 207 MW, demanda máxima posible a apagar en estos momentos.\n👉De los circuitos apagables se mantienen afectados 138.\n👉Cuenta con 359 afectaciones por averías secundarias y de servicio.",
+    "timestamp": 1793758825,
+    "timestamp_local": 1793758825
+  },
+  {
+    "id": 61049,
+    "fecha": "03 de Nov del 2026 a las 09:05 PM",
+    "hora_utc": "2026-11-04 01:05",
+    "mensaje": "💡Restablecido el servicio eléctrico en el siguiente circuito:\n🔹Municipio Santa Clara:\n👉Cto 16 Cubanacán\n👉Ctos 23 y 130 La Ceniza\n👉Cto 42 Manajanabo\n🔹Municipio Placetas\n👉Cto 139 Miller\n👉Cto 190 Oliver\n👉Cto 106 Falcón",
+    "timestamp": 1793754336,
+    "timestamp_local": 1793754336
+  },
+  {
+    "id": 61048,
+    "fecha": "03 de Nov del 2026 a las 09:04 PM",
+    "hora_utc": "2026-11-04 01:04",
+    "mensaje": "💡Restablecido el servicio eléctrico en el siguiente circuito:\n🔹Municipio Santa Clara:\n👉Cto 6 Vigía",
+    "timestamp": 1793754277,
+    "timestamp_local": 1793754277
+  },
+  {
+    "id": 61047,
+    "fecha": "03 de Nov del 2026 a las 08:31 PM",
+    "hora_utc": "2026-11-04 00:31",
+    "mensaje": "Actualización del servicio eléctrico en la provincia.\n👉En este momento la afectación por déficit de capacidad de generación es de 218 MW, demanda máxima posible a apagar en estos momentos.\n👉De los circuitos apagables se mantienen afectados 148.\n👉Cuenta con 357 afectaciones por averías secundarias y de servicio.",
+    "timestamp": 1793752289,
+    "timestamp_local": 1793752289
+  },
+  {
     "id": 61046,
     "fecha": "03 de Nov del 2026 a las 07:18 PM",
     "hora_utc": "2026-11-03 23:18",
@@ -110,53 +158,5 @@
     "mensaje": "💡Restablecido el servicio eléctrico en los siguientes circuitos:\n🔹Municipio Santa Clara:\n👉Cto 2 Consejo- Centro\n👉Cto 15 Maleza\n🔹Municipio Placetas:\n👉Cto 99 Placetas\n🔹Municipio Corralillo:\n👉Ctos 58 y 159",
     "timestamp": 1793733927,
     "timestamp_local": 1793733927
-  },
-  {
-    "id": 61032,
-    "fecha": "03 de Nov del 2026 a las 03:12 PM",
-    "hora_utc": "2026-11-03 19:12",
-    "mensaje": "Afectados 202 MW en la provincia, demanda máxima a apagar en estos momentos.",
-    "timestamp": 1793733146,
-    "timestamp_local": 1793733146
-  },
-  {
-    "id": 61031,
-    "fecha": "03 de Nov del 2026 a las 02:48 PM",
-    "hora_utc": "2026-11-03 18:48",
-    "mensaje": "✍️Ante cualquier duda conozca sobre la terminología eléctrica\n\n🔹Las averías pueden ser:\n\n➡️Primarias: Afecta un volumen grande de población pues son las líneas de distribución a 13.8 kV y puede afectar varias manzanas, incluso repartos completos.\n\n➡️Secundarias: Afecta a todos los clientes que se alimenten del mismo transformador, puede afectar una o varias cuadras.\n\n➡️De servicio: Afectan 1 solo cliente o instalación generalmente producto a daños en la acometida, metro contador, etc.).",
-    "timestamp": 1793731682,
-    "timestamp_local": 1793731682
-  },
-  {
-    "id": 61030,
-    "fecha": "03 de Nov del 2026 a las 02:11 PM",
-    "hora_utc": "2026-11-03 18:11",
-    "mensaje": "Actualización del servicio eléctrico en la provincia.\n👉En este momento la afectación por déficit de capacidad de generación es de 194 MW, demanda máxima posible a apagar en estos momentos.\n👉De los circuitos apagables se mantienen afectados 117.\n👉Cuenta con 404 afectaciones por averías secundarias y de servicio.",
-    "timestamp": 1793729475,
-    "timestamp_local": 1793729475
-  },
-  {
-    "id": 61029,
-    "fecha": "03 de Nov del 2026 a las 02:10 PM",
-    "hora_utc": "2026-11-03 18:10",
-    "mensaje": "💡Restablecido el servicio eléctrico en los siguientes circuitos:\n🔹Municipio Santa Clara:\n👉Cto 132 Santa Clara Industrial\n👉Cto 162  Santa Clara Industrial\n👉Cto 22 Construcciones Textil",
-    "timestamp": 1793729421,
-    "timestamp_local": 1793729421
-  },
-  {
-    "id": 61028,
-    "fecha": "03 de Nov del 2026 a las 02:09 PM",
-    "hora_utc": "2026-11-03 18:09",
-    "mensaje": "⚠Afectado el servicio eléctrico en los siguientes circuitos:\n🔹Municipio Santa Clara:\n👉Cto 5 Dobarganes\n👉Cto 17 Subplanta\n🔹Municipio Camajuaní:\n👉Ctos 73 y 156",
-    "timestamp": 1793729379,
-    "timestamp_local": 1793729379
-  },
-  {
-    "id": 61027,
-    "fecha": "03 de Nov del 2026 a las 01:51 PM",
-    "hora_utc": "2026-11-03 17:51",
-    "mensaje": "💡Restablecido el servicio eléctrico en el siguiente circuito:\n🔹Municipio Santa Clara:\n👉Cto 131 Las Antillas",
-    "timestamp": 1793728304,
-    "timestamp_local": 1793728304
   }
 ]
