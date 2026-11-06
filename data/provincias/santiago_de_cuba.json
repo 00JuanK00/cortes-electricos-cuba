@@ -1,5 +1,29 @@
 [
   {
+    "id": 59912,
+    "fecha": "05 de Nov del 2026 a las 08:14 PM",
+    "hora_utc": "2026-11-06 00:14",
+    "mensaje": "🔴 Actualización de las afectaciones por déficit de capacidad de generación con cierre a las 7:00pm\nMW servidos 50\nMW afectados 120\n\n⚡ Circuitos con mayor tiempo de afectación.\n➡️Circuito 8 - 27 horas\n➡️ LI4395 (SI 5175) Contramaestre - 25horas 40 min\n➡️ Circuito 17 - 19 horas \n➡️ LI5390(SI4260) La Maya- 18 horas.",
+    "timestamp": 1793924079,
+    "timestamp_local": 1793924079
+  },
+  {
+    "id": 59911,
+    "fecha": "05 de Nov del 2026 a las 06:02 PM",
+    "hora_utc": "2026-11-05 22:02",
+    "mensaje": "🔉Informamos a nuestros clientes que se encuentran disparados los circuitos 8 y 9.",
+    "timestamp": 1793916158,
+    "timestamp_local": 1793916158
+  },
+  {
+    "id": 59910,
+    "fecha": "05 de Nov del 2026 a las 06:02 PM",
+    "hora_utc": "2026-11-05 22:02",
+    "mensaje": "🔴 Actualización de las afectaciones por déficit de generación.\n120 MW afectados \n45 MW servidos",
+    "timestamp": 1793916151,
+    "timestamp_local": 1793916151
+  },
+  {
     "id": 59909,
     "fecha": "05 de Nov del 2026 a las 12:59 PM",
     "hora_utc": "2026-11-05 16:59",
@@ -118,29 +142,5 @@
     "mensaje": "📌Actualización de las afectaciones por déficit:\nEn estos momentos la provincia tiene :\n98 MW afectados \nCon servicio 50 MW",
     "timestamp": 1793710990,
     "timestamp_local": 1793710990
-  },
-  {
-    "id": 59891,
-    "fecha": "03 de Nov del 2026 a las 08:00 AM",
-    "hora_utc": "2026-11-03 12:00",
-    "mensaje": "🛑Con servicio la línea 5395 San Luis.",
-    "timestamp": 1793707223,
-    "timestamp_local": 1793707223
-  },
-  {
-    "id": 59890,
-    "fecha": "03 de Nov del 2026 a las 07:34 AM",
-    "hora_utc": "2026-11-03 11:34",
-    "mensaje": "🛑Con servicio el circuito 22 de Santiago.",
-    "timestamp": 1793705678,
-    "timestamp_local": 1793705678
-  },
-  {
-    "id": 59889,
-    "fecha": "03 de Nov del 2026 a las 07:07 AM",
-    "hora_utc": "2026-11-03 11:07",
-    "mensaje": "🛑Se incorporan a la afectación por Déficit de Capacidad de Generación los circuitos 13 y 19 de Santiago, disculpen las molestias ocasionadas.",
-    "timestamp": 1793704026,
-    "timestamp_local": 1793704026
   }
 ]
