@@ -1,5 +1,29 @@
 [
   {
+    "id": 22162,
+    "fecha": "06 de Nov del 2026 a las 11:17 AM",
+    "hora_utc": "2026-11-06 15:17",
+    "mensaje": "⚒ Se declara en avería el circuito Tk25 4 Camino",
+    "timestamp": 1793978221,
+    "timestamp_local": 1793978221
+  },
+  {
+    "id": 22161,
+    "fecha": "06 de Nov del 2026 a las 10:13 AM",
+    "hora_utc": "2026-11-06 14:13",
+    "mensaje": "⚒ Se afecta el servicio eléctrico al circuito Tk15 por emergencia.",
+    "timestamp": 1793974407,
+    "timestamp_local": 1793974407
+  },
+  {
+    "id": 22160,
+    "fecha": "06 de Nov del 2026 a las 09:35 AM",
+    "hora_utc": "2026-11-06 13:35",
+    "mensaje": "‼️Situación del SEN para el 06 de noviembre de 2026‼️\n\n👉🏻En el día de ayer se afectó el servicio por déficit de capacidad durante las 24 horas y se mantuvo la afectación durante todo el horario de la madrugada. La máxima afectación por déficit de capacidad de generación en el día de ayer fue de         1785 MW a las 18:10 horas.\n\n🌞La producción energías de los parques solares fotovoltaicos fue de 4166 MWh, con 648 MW como máxima potencia entregada en el horario de la media con esta fuente de generación.  \n\n💡La disponibilidad del SEN a las 06:00 horas es de 932 MW, la demanda 2173 MW con 1238 MW afectados. En el horario de la media se estima una afectación de 1450 MW.\n\n⚒️Se encuentran en avería la unidad 5 de la CTE Mariel, la unidad 1 de la CTE Santa Cruz, la unidad 3 de la CTE Cienfuegos, la unidad 2 de la CTE Felton y la unidad 3 de la CTE Renté. Se encuentran en mantenimiento la unidad 3 de la CTE Santa Cruz, la unidad 5 de la CTE Nuevitas y la unidad 5 de la CTE Renté.\n\n👉🏻Las limitaciones en la generación térmica son de 530 MW.\n\n💡Para el horario pico se pronostica la entrada de la unidad 5 de la CTE Mariel con 60 MW, la unidad 3 de la CTE Cienfuegos con 80 MW.\n\n📈Con este pronóstico para el horario de máxima demanda se prevé una disponibilidad de 1072 MW con una demanda máxima de 2880 MW, para un déficit de 1808 MW, por lo que de mantenerse las condiciones previstas se pronostica una afectación de 1838 MW en este horario.\n\nUNE-MINEM",
+    "timestamp": 1793972156,
+    "timestamp_local": 1793972156
+  },
+  {
     "id": 22154,
     "fecha": "05 de Nov del 2026 a las 01:18 PM",
     "hora_utc": "2026-11-05 17:18",
@@ -62,21 +86,5 @@
     "mensaje": "En estos momentos la provincia no registra averías en ningún circuito.",
     "timestamp": 1793829808,
     "timestamp_local": 1793829808
-  },
-  {
-    "id": 22142,
-    "fecha": "04 de Nov del 2026 a las 11:42 AM",
-    "hora_utc": "2026-11-04 15:42",
-    "mensaje": "‼️Situación del SEN para el 04 de noviembre de 2026‼️\n\n🪫En el día de ayer se afectó el servicio por déficit de capacidad durante las 24 horas y se mantuvo la afectación durante todo el horario de la madrugada. La máxima afectación por déficit de capacidad de generación en el día de ayer fue de         1905 MW a las 19:30 horas. \n\n👉🏻La máxima afectación por déficit de capacidad por provincias fue la siguiente:\n\n🌞La producción energías de los parques solares fotovoltaicos fue de 2341 MWh, con 364 MW como máxima potencia entregada en el horario de la media con esta fuente de generación.  \n\n💡La disponibilidad del SEN a las 06:00 horas es de 960 MW, la demanda 2180 MW con 1220 MW afectados. En el horario de la media se estima una afectación de 1500 MW.\n\n⚒️Se encuentran en avería la unidad 5 de la CTE Mariel, la unidad 1 de la CTE Santa Cruz, la unidad 2 de la CTE Felton y la unidad 3 de la CTE Renté. Se encuentran en mantenimiento la unidad 3 de la CTE Santa Cruz, la unidad 5 de la CTE Nuevitas y la unidad 5 de la CTE Renté. \n \n👉🏻Las limitaciones en la generación térmica son de 538 MW.\n\n📈Con este pronóstico se prevé para el horario de máxima demanda una disponibilidad de 960 MW con una demanda máxima de 2850 MW, para un déficit de 1890 MW, por lo que de mantenerse las condiciones previstas se pronostica una afectación de 1920 MW en este horario.\n\nUNE-MINEM",
-    "timestamp": 1793806960,
-    "timestamp_local": 1793806960
-  },
-  {
-    "id": 22141,
-    "fecha": "04 de Nov del 2026 a las 08:17 AM",
-    "hora_utc": "2026-11-04 12:17",
-    "mensaje": "Al cierre de las 08:15 am del día 4/11/2026 se registra en la provincia 561 interrupciones pendientes .\nInterrupciones pendientes por municipios:\n-Amancio: 25\n-Jobabo: 8\n-Colombia:9\n-Puerto Padre:221\n-Menéndez: 24\n- Manatí: 4\n-Majibacoa: 10\n-Las Tunas: 260\n\nSe registra un total de 121 transformadores dañados, de ellos 38 en el sector estatal y 83 en el sector residencial de los cuales se encuentran en los siguientes municipios:\n-Amancio:7\n-Jobabo: 1\n-Colombia:5\n-Puerto Padre:10\n-Menéndez: 11\n-Manatí: 2\n-Majibacoa:1\n-Las Tunas:46",
-    "timestamp": 1793794660,
-    "timestamp_local": 1793794660
   }
 ]
