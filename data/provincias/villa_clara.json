@@ -1,5 +1,61 @@
 [
   {
+    "id": 61440,
+    "fecha": "07 de Nov del 2026 a las 09:29 PM",
+    "hora_utc": "2026-11-08 01:29",
+    "mensaje": "⚠️Afectado por manipulación el Cto 168 Condado perteneciente al municipio Santa Clara, para reponer transformador.",
+    "timestamp": 1794101396,
+    "timestamp_local": 1794101396
+  },
+  {
+    "id": 61439,
+    "fecha": "07 de Nov del 2026 a las 09:10 PM",
+    "hora_utc": "2026-11-08 01:10",
+    "mensaje": "⚠️Afectado el servicio eléctrico en el siguiente circuito:\n🔹Municipio Santa Clara:\n👉Cto 153 EIDE",
+    "timestamp": 1794100225,
+    "timestamp_local": 1794100225
+  },
+  {
+    "id": 61438,
+    "fecha": "07 de Nov del 2026 a las 09:09 PM",
+    "hora_utc": "2026-11-08 01:09",
+    "mensaje": "💡Restablecido el servicio eléctrico en los siguientes circuitos:\n🔹Municipio Remedios:\n👉Ctos 69 y 70 Zuluetas\n👉Cto 143 Batey Heriberto Duquezne\n👉Cto 71 Buena Vista",
+    "timestamp": 1794100195,
+    "timestamp_local": 1794100195
+  },
+  {
+    "id": 61437,
+    "fecha": "07 de Nov del 2026 a las 09:09 PM",
+    "hora_utc": "2026-11-08 01:09",
+    "mensaje": "Afectados 214 MW en la provincia, demanda máxima a apagar en estos momentos.",
+    "timestamp": 1794100158,
+    "timestamp_local": 1794100158
+  },
+  {
+    "id": 61435,
+    "fecha": "07 de Nov del 2026 a las 08:02 PM",
+    "hora_utc": "2026-11-08 00:02",
+    "mensaje": "Actualización del servicio eléctrico en la provincia.\n👉En este momento la afectación por déficit de capacidad de generación es de 219 MW, demanda máxima posible a apagar en estos momentos.\n👉De los circuitos apagables se mantienen afectados 147.\n👉Cuenta con 320 afectaciones por averías secundarias y de servicio.",
+    "timestamp": 1794096139,
+    "timestamp_local": 1794096139
+  },
+  {
+    "id": 61434,
+    "fecha": "07 de Nov del 2026 a las 08:00 PM",
+    "hora_utc": "2026-11-08 00:00",
+    "mensaje": "💡Restablecido el servicio eléctrico en los siguientes circuitos:\n🔹Municipio Santa Clara:\n👉Cto 28 Monumento Che\n👉Cto 168 Condado- XX Aniversario",
+    "timestamp": 1794096040,
+    "timestamp_local": 1794096040
+  },
+  {
+    "id": 61433,
+    "fecha": "07 de Nov del 2026 a las 07:17 PM",
+    "hora_utc": "2026-11-07 23:17",
+    "mensaje": "Afectados 227 MW en la provincia, demanda máxima a apagar en estos momentos.",
+    "timestamp": 1794093450,
+    "timestamp_local": 1794093450
+  },
+  {
     "id": 61432,
     "fecha": "07 de Nov del 2026 a las 06:56 PM",
     "hora_utc": "2026-11-07 22:56",
@@ -94,69 +150,5 @@
     "mensaje": "⚡En avería de manera parcial el Cto 189 del municipio Ranchuelo, se estudian las causas.",
     "timestamp": 1794081874,
     "timestamp_local": 1794081874
-  },
-  {
-    "id": 61420,
-    "fecha": "07 de Nov del 2026 a las 04:03 PM",
-    "hora_utc": "2026-11-07 20:03",
-    "mensaje": "💡Restablecido el servicio eléctrico en el siguiente circuito:\n🔹Municipio Quemado:\n👉 Cto 164 Quemado",
-    "timestamp": 1794081817,
-    "timestamp_local": 1794081817
-  },
-  {
-    "id": 61419,
-    "fecha": "07 de Nov del 2026 a las 04:02 PM",
-    "hora_utc": "2026-11-07 20:02",
-    "mensaje": "⚠️Afectado el servicio eléctrico en los siguientes circuitos:\n🔹Municipio Quemado:\n👉 Ctos 52 y 53 Quemado",
-    "timestamp": 1794081774,
-    "timestamp_local": 1794081774
-  },
-  {
-    "id": 61418,
-    "fecha": "07 de Nov del 2026 a las 03:25 PM",
-    "hora_utc": "2026-11-07 19:25",
-    "mensaje": "💡Restablecido el servicio eléctrico en los siguientes circuitos:\n🔹Municipio Santa Clara:\n👉Cto 16 Cubanacán\n👉Ctos 23 y 130 La Ceniza\n👉Cto 42 Manajanabo\n🔹Municipio Placetas:\n👉Cto 139 Miller\n👉Cto 190 Oliver\n👉Cto 106 Falcón",
-    "timestamp": 1794079517,
-    "timestamp_local": 1794079517
-  },
-  {
-    "id": 61417,
-    "fecha": "07 de Nov del 2026 a las 03:24 PM",
-    "hora_utc": "2026-11-07 19:24",
-    "mensaje": "⚠️Afectado el servicio eléctrico en los siguientes circuitos:\n🔹Municipio Santa Clara:\n👉Cto 6 Vigía\n👉Cto 39 (Sandino)\n👉Cto 34 Sabana Rebacadero",
-    "timestamp": 1794079476,
-    "timestamp_local": 1794079476
-  },
-  {
-    "id": 61416,
-    "fecha": "07 de Nov del 2026 a las 03:23 PM",
-    "hora_utc": "2026-11-07 19:23",
-    "mensaje": "💡Restablecido el servicio eléctrico en los siguientes circuitos:\n🔹Municipio Manicaragua:\n👉Ctos 108 y 110 La Piedra",
-    "timestamp": 1794079407,
-    "timestamp_local": 1794079407
-  },
-  {
-    "id": 61415,
-    "fecha": "07 de Nov del 2026 a las 03:22 PM",
-    "hora_utc": "2026-11-07 19:22",
-    "mensaje": "Afectados 163 MW en la provincia, demanda máxima a apagar en estos momentos.",
-    "timestamp": 1794079367,
-    "timestamp_local": 1794079367
-  },
-  {
-    "id": 61414,
-    "fecha": "07 de Nov del 2026 a las 03:17 PM",
-    "hora_utc": "2026-11-07 19:17",
-    "mensaje": "⚠️Se encuentra disparado el circuito 189 perteneciente al municipio Ranchuelo, se estudian las causas.",
-    "timestamp": 1794079049,
-    "timestamp_local": 1794079049
-  },
-  {
-    "id": 61413,
-    "fecha": "07 de Nov del 2026 a las 03:15 PM",
-    "hora_utc": "2026-11-07 19:15",
-    "mensaje": "💡Restablecido el servicio eléctrico en los siguientes circuitos:\n🔹Municipio Ranchuelo:\n👉Cto 97\n👉Ctos 148 y 149 San Juan\n👉Cto 91 Batey Osvaldo Herrera\n🔹Municipio Placetas:\n👉Ctos 100 Placetas\n👉Cto 104 Hermanos Amejeiras\n👉Cto 103 Batey Carbó Servía",
-    "timestamp": 1794078901,
-    "timestamp_local": 1794078901
   }
 ]
