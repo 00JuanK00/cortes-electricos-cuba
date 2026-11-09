@@ -1,5 +1,13 @@
 [
   {
+    "id": 22189,
+    "fecha": "08 de Nov del 2026 a las 07:31 PM",
+    "hora_utc": "2026-11-08 23:31",
+    "mensaje": "Nota técnica: Disparo de circuitos eléctricos y el retardo de tres minutos\n\n¿Por qué se dispara un circuito eléctrico? Un interruptor automático (magnetotérmico o diferencial) se activa para proteger la instalación y a las personas frente a anomalías. Las causas más habituales son:\n\n· Sobrecarga: circula más corriente de la que el cable puede soportar durante un tiempo prolongado (por ejemplo, por conectar demasiados aparatos a un mismo circuito).\n· Cortocircuito: contacto directo entre fase y neutro, o entre fase y tierra, lo que provoca un pico de corriente muy elevado.\n· Fuga a tierra (fallo de aislamiento): parte de la corriente se deriva a tierra, lo que puede electrocutar a una persona o provocar un incendio.\n\n¿Por qué esperar unos tres minutos antes de rearmar? El retardo de tres minutos (aproximado, pues puede variar entre uno y cinco minutos según el dispositivo) responde a razones de seguridad técnica.\n\n· Enfriamiento de componentes térmicos: en los interruptores magnetotérmicos, el disparo por sobrecarga calienta una lámina bimetálica. Esta necesita de tres a cinco minutos para enfriarse y recuperar su forma original. Si se rearma antes, el mecanismo puede quedar forzado, provocar un contacto deficiente y reducir la vida útil del aparato.\n· Disipación de gases ionizados: tras un cortocircuito, en el interior del interruptor se generan gases ionizados. Si se rearma de inmediato, esos gases pueden facilitar la formación de un arco eléctrico interno y provocar daños graves o incluso una explosión. Esperar unos tres minutos permite que los gases se disipen y el interruptor pueda cerrarse con seguridad.\n· Evitar rearmes repetidos sobre una falla activa: muchos diferenciales con rearme automático (o los reconectadores) utilizan intervalos progresivos (por ejemplo, 10 segundos, 60 segundos y hasta 300 segundos) para no insistir sobre un defecto que sigue presente. Si el problema persiste, el dispositivo se bloquea y exige una revisión manual, evitando así un ciclo peligroso de disparos y rearmes.\n\nEn resumen: el disparo protege ante sobrecargas, cortocircuitos o fugas; el retardo de aproximadamente tres minutos es un tiempo de seguridad que permite que los componentes se enfríen, los gases se disipen y se evite rearmar sobre una falla que podría causar daños mayores.",
+    "timestamp": 1794180662,
+    "timestamp_local": 1794180662
+  },
+  {
     "id": 22185,
     "fecha": "08 de Nov del 2026 a las 09:03 AM",
     "hora_utc": "2026-11-08 13:03",
@@ -86,13 +94,5 @@
     "mensaje": "🔔Se encuentran disparados por DAF los siguientes circuitos:\nTK12 Las 40 y Nuevo Sosa\nTK6 Calle Cuba y zona sur de Buena Vista\nCircuito 33 Kv: 6305\nTK41 Calixto\nTK40 Vista Alegre\nTK42 Gastón y Arroyo Muerto\nTK45 La Ceiba\nTK43 Las Parras, Omaja y Cañada Honda\nTK44 Vivienda",
     "timestamp": 1794025176,
     "timestamp_local": 1794025176
-  },
-  {
-    "id": 22170,
-    "fecha": "06 de Nov del 2026 a las 11:24 PM",
-    "hora_utc": "2026-11-07 03:24",
-    "mensaje": "👉1. Si presenta o conoce alguna avería, haga su reporte al Centro de Atención Telefónico📲 mediante el 18888, estamos a su servicio.\n2. Conocer de forma exacta la dirección de su vivienda (número de casa, calle, entre calles, reparto, localidad)\n3. Ubicar un punto de referencia, que permita llegar hasta su vivienda con mayor rapidez (lugar o persona reconocida en la zona)\n\n4. En caso de un cable caído, aunque usted crea que no está energizado, NO\nLO TOQUE. Repórtelo y preserve el lugar, hasta que llegue el personal \nde la Empresa.\n5. Anote el número de su reporte para ser utilizado en caso de reclamaciones, o para comprobar el estado del mismo.\n6. Si usted tiene servicio eléctrico, pero existen variaciones del voltaje, desconecte los equipos, para que no se dañen.",
-    "timestamp": 1794021879,
-    "timestamp_local": 1794021879
   }
 ]
