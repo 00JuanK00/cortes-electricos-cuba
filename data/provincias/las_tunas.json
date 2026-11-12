@@ -1,5 +1,45 @@
 [
   {
+    "id": 22225,
+    "fecha": "11 de Nov del 2026 a las 08:04 PM",
+    "hora_utc": "2026-11-12 00:04",
+    "mensaje": "La Unidad 1 de la Central Termoeléctrica 🏭 Antonio Guiteras se encuentra fuera de línea debido a un salidero en el economizador, según informó la Unión Eléctrica (UNE)⚡️. La desconexión de esta unidad, una de las más importantes del Sistema Eléctrico Nacional, se suma a las afectaciones que ya enfrenta el país por el déficit de generación y el estado técnico de varias termoeléctricas.",
+    "timestamp": 1794441885,
+    "timestamp_local": 1794441885
+  },
+  {
+    "id": 22224,
+    "fecha": "11 de Nov del 2026 a las 06:15 PM",
+    "hora_utc": "2026-11-11 22:15",
+    "mensaje": "Informamos a nuestros Clientes que con la salida imprevista de la central termoeléctrica Antonio Guiteras de Matanzas, ocurrida cerca de las cuatro de la tarde de este miércoles 11 de noviembre, la situación electrenergetica del país se agrava al encontrarse fuera las dos principales unidades base del sistema.\n\nEsta situación condiciona que Las Tunas opere con unos 15 MW entrada la tarde noche de esta jornada, capacidad que solo permite mantener la vitalidad de los servicios priorizados.\nComo se había informado el martes el bloque uno de Felton había detenido sus máquinas para un mantenimiento previsto a prolongarse unos 21 días dejando ya muy fragmentado y débil el sistema agravándose con esta salida imprevista de Guiteras.",
+    "timestamp": 1794435317,
+    "timestamp_local": 1794435317
+  },
+  {
+    "id": 22223,
+    "fecha": "11 de Nov del 2026 a las 05:51 PM",
+    "hora_utc": "2026-11-11 21:51",
+    "mensaje": "Nota técnica: Disparo de circuitos eléctricos y el retardo de tres minutos\n\n¿Por qué se dispara un circuito eléctrico? Un interruptor automático (magnetotérmico o diferencial) se activa para proteger la instalación y a las personas frente a anomalías. Las causas más habituales son:\n\n· Sobrecarga: circula más corriente de la que el cable puede soportar durante un tiempo prolongado (por ejemplo, por conectar demasiados aparatos a un mismo circuito).\n· Cortocircuito: contacto directo entre fase y neutro, o entre fase y tierra, lo que provoca un pico de corriente muy elevado.\n· Fuga a tierra (fallo de aislamiento): parte de la corriente se deriva a tierra, lo que puede electrocutar a una persona o provocar un incendio.\n\n¿Por qué esperar unos tres minutos antes de rearmar? El retardo de tres minutos (aproximado, pues puede variar entre uno y cinco minutos según el dispositivo) responde a razones de seguridad técnica.\n\n· Enfriamiento de componentes térmicos: en los interruptores magnetotérmicos, el disparo por sobrecarga calienta una lámina bimetálica. Esta necesita de tres a cinco minutos para enfriarse y recuperar su forma original. Si se rearma antes, el mecanismo puede quedar forzado, provocar un contacto deficiente y reducir la vida útil del aparato.\n· Disipación de gases ionizados: tras un cortocircuito, en el interior del interruptor se generan gases ionizados. Si se rearma de inmediato, esos gases pueden facilitar la formación de un arco eléctrico interno y provocar daños graves o incluso una explosión. Esperar unos tres minutos permite que los gases se disipen y el interruptor pueda cerrarse con seguridad.\n· Evitar rearmes repetidos sobre una falla activa: muchos diferenciales con rearme automático (o los reconectadores) utilizan intervalos progresivos (por ejemplo, 10 segundos, 60 segundos y hasta 300 segundos) para no insistir sobre un defecto que sigue presente. Si el problema persiste, el dispositivo se bloquea y exige una revisión manual, evitando así un ciclo peligroso de disparos y rearmes.\n\nEn resumen: el disparo protege ante sobrecargas, cortocircuitos o fugas; el retardo de aproximadamente tres minutos es un tiempo de seguridad que permite que los componentes se enfríen, los gases se disipen y se evite rearmar sobre una falla que podría causar daños mayores.",
+    "timestamp": 1794433908,
+    "timestamp_local": 1794433908
+  },
+  {
+    "id": 22221,
+    "fecha": "11 de Nov del 2026 a las 04:39 PM",
+    "hora_utc": "2026-11-11 20:39",
+    "mensaje": "🔴 16:06 || Fuera de línea la Unidad 1 de la CTE Antonio Guiteras por salidero en el economizador.",
+    "timestamp": 1794429587,
+    "timestamp_local": 1794429587
+  },
+  {
+    "id": 22220,
+    "fecha": "11 de Nov del 2026 a las 04:38 PM",
+    "hora_utc": "2026-11-11 20:38",
+    "mensaje": "📣Se les informa a los clientes de los siguientes circuitos TK43 Las Parras, Omaja del circuito TK44 Vivienda y el circuito TK39 Providencia IV que se encuentran afectados por averías en las líneas por puentes partidos.",
+    "timestamp": 1794429503,
+    "timestamp_local": 1794429503
+  },
+  {
     "id": 22219,
     "fecha": "11 de Nov del 2026 a las 02:30 PM",
     "hora_utc": "2026-11-11 18:30",
@@ -94,29 +134,5 @@
     "mensaje": "Al cierre de las 10:17 am del día 10/11/2026 se registra en la provincia 225 interrupciones pendientes y 190 pendientes a solución visitadas.\n**Interrupciones pendientes por municipios:**\n-Amancio: 20\n-Jobabo: 5\n-Colombia: 14\n-Puerto Padre: 12\n-Menéndez: 5\n- Manatí: 34\n-Majibacoa: 180\n-Las Tunas: 141\n\nSe registra un total de 123 transformadores dañados, de ellos 38 en el sector estatal y 85 en el sector residencial de los cuales se encuentran en los siguientes municipios:\n-Amancio: 7\n-Jobabo: 1\n-Colombia: 5\n-Puerto Padre: 10\n-Menéndez: 12\n-Manatí: 2\n-Majibacoa: 1\n-Las Tunas: 47",
     "timestamp": 1794320291,
     "timestamp_local": 1794320291
-  },
-  {
-    "id": 22205,
-    "fecha": "10 de Nov del 2026 a las 09:49 AM",
-    "hora_utc": "2026-11-10 13:49",
-    "mensaje": "🔴 09:27 || fuera de línea la Unidad 1 de la CTE Lidio Ramón Pérez de Felton por mantenimiento ligero.",
-    "timestamp": 1794318597,
-    "timestamp_local": 1794318597
-  },
-  {
-    "id": 22204,
-    "fecha": "10 de Nov del 2026 a las 07:05 AM",
-    "hora_utc": "2026-11-10 11:05",
-    "mensaje": "Se declara en avería el circuito 33 Kv 6840 Los Kilómetros de Amancio.",
-    "timestamp": 1794308748,
-    "timestamp_local": 1794308748
-  },
-  {
-    "id": 22200,
-    "fecha": "09 de Nov del 2026 a las 03:30 PM",
-    "hora_utc": "2026-11-09 19:30",
-    "mensaje": "📌 Estimados Clientes 📌\n\n¿Qué es una fase invertida?\nUna fase invertida no es más que cuando se invierten las fases en la electricidad en un área determinada y como consecuencia de esto provoca una entrada de corriente mayor a la normal. \nEjemplos: Cuando se trata de 110 volt entonces pasa a ser 220 volt y cuando se trata de 220 volt aumenta a 240 volt.",
-    "timestamp": 1794252644,
-    "timestamp_local": 1794252644
   }
 ]
