@@ -1,5 +1,93 @@
 [
   {
+    "id": 61882,
+    "fecha": "12 de Nov del 2026 a las 10:10 PM",
+    "hora_utc": "2026-11-13 02:10",
+    "mensaje": "⚡Afectado por puente abierto Cto 67 Remedios.",
+    "timestamp": 1794535819,
+    "timestamp_local": 1794535819
+  },
+  {
+    "id": 61881,
+    "fecha": "12 de Nov del 2026 a las 09:55 PM",
+    "hora_utc": "2026-11-13 01:55",
+    "mensaje": "💡Restablecido el servicio eléctrico en los siguientes circuitos:\n🔹Municipio Remedios:\n👉Ctos 67\n🔹Municipio Santa Clara:\n👉Cto 13 Zona Industrial",
+    "timestamp": 1794534907,
+    "timestamp_local": 1794534907
+  },
+  {
+    "id": 61880,
+    "fecha": "12 de Nov del 2026 a las 09:50 PM",
+    "hora_utc": "2026-11-13 01:50",
+    "mensaje": "💡Restablecido el servicio eléctrico en los siguientes circuitos:\n🔹Municipio Santa Clara\n👉Cto 7 Universidad\n👉Cto 14 Maleza",
+    "timestamp": 1794534644,
+    "timestamp_local": 1794534644
+  },
+  {
+    "id": 61879,
+    "fecha": "12 de Nov del 2026 a las 08:51 PM",
+    "hora_utc": "2026-11-13 00:51",
+    "mensaje": "Actualización del servicio eléctrico en la provincia.\n👉En este momento la afectación por déficit de capacidad de generación es de 225 MW, demanda máxima posible a apagar en estos momentos.\n👉De los circuitos apagables se mantienen afectados 149.\n👉Cuenta con 338 afectaciones por averías secundarias y de servicio.",
+    "timestamp": 1794531064,
+    "timestamp_local": 1794531064
+  },
+  {
+    "id": 61878,
+    "fecha": "12 de Nov del 2026 a las 08:36 PM",
+    "hora_utc": "2026-11-13 00:36",
+    "mensaje": "⚠️Afectado el servicio eléctrico en el siguiente circuito:\n🔹Municipio Santa Clara\n👉Cto 166 Condado",
+    "timestamp": 1794530165,
+    "timestamp_local": 1794530165
+  },
+  {
+    "id": 61877,
+    "fecha": "12 de Nov del 2026 a las 08:12 PM",
+    "hora_utc": "2026-11-13 00:12",
+    "mensaje": "⚠️Afectado el servicio eléctrico en los siguientes circuitos:\n🔹Municipio Santa Clara\n👉Cto 169 Condado\n👉Cto 162  Santa Clara Industrial",
+    "timestamp": 1794528723,
+    "timestamp_local": 1794528723
+  },
+  {
+    "id": 61876,
+    "fecha": "12 de Nov del 2026 a las 08:11 PM",
+    "hora_utc": "2026-11-13 00:11",
+    "mensaje": "💡Restablecido el servicio eléctrico en los siguientes circuitos:\n🔹Municipio Santa Clara\n👉Cto 28 Monumento Che\n👉Cto 168 Condado",
+    "timestamp": 1794528664,
+    "timestamp_local": 1794528664
+  },
+  {
+    "id": 61875,
+    "fecha": "12 de Nov del 2026 a las 07:51 PM",
+    "hora_utc": "2026-11-12 23:51",
+    "mensaje": "⚡Afectado por cable primario partido en la Sub el Cto 122 Encrucijada",
+    "timestamp": 1794527477,
+    "timestamp_local": 1794527477
+  },
+  {
+    "id": 61874,
+    "fecha": "12 de Nov del 2026 a las 07:25 PM",
+    "hora_utc": "2026-11-12 23:25",
+    "mensaje": "💡Restablecido el servicio eléctrico en el siguiente circuito:\n🔹Municipio Santa Clara:\n👉Cto  3  Consejo- Centro",
+    "timestamp": 1794525930,
+    "timestamp_local": 1794525930
+  },
+  {
+    "id": 61873,
+    "fecha": "12 de Nov del 2026 a las 07:04 PM",
+    "hora_utc": "2026-11-12 23:04",
+    "mensaje": "🛠️Afectado por manipulación Cto 166 Condado, para trabajar en avería de cable secundario partido.",
+    "timestamp": 1794524664,
+    "timestamp_local": 1794524664
+  },
+  {
+    "id": 61872,
+    "fecha": "12 de Nov del 2026 a las 06:54 PM",
+    "hora_utc": "2026-11-12 22:54",
+    "mensaje": "💡Restablecido el servicio eléctrico en el siguiente circuito:\n🔹Municipio  Encrucijada \n👉Cto 122 Encrucijada ",
+    "timestamp": 1794524045,
+    "timestamp_local": 1794524045
+  },
+  {
     "id": 61871,
     "fecha": "12 de Nov del 2026 a las 06:22 PM",
     "hora_utc": "2026-11-12 22:22",
@@ -11,7 +99,7 @@
     "id": 61870,
     "fecha": "12 de Nov del 2026 a las 06:21 PM",
     "hora_utc": "2026-11-12 22:21",
-    "mensaje": "⚠️Afectado el servicio eléctrico en el siguiente circuito:\n🔹Municipio Placetas\n👉Cto 104 Hermanos Amejeiras",
+    "mensaje": "⚠️Afectado el servicio eléctrico en el siguiente circuito:\n🔹Municipio Placetas\n👉Cto 104 Hermanos Amejeiras\n🔹Municipio Santa Clara\n👉Cto 132 Santa Clara Industrial",
     "timestamp": 1794522104,
     "timestamp_local": 1794522104
   },
@@ -70,93 +158,5 @@
     "mensaje": "💡Restablecido el servicio eléctrico en los siguientes circuitos:\n🔹Municipio Santa Clara:\n👉Cto 166 Condado\n👉Cto 169 Condado",
     "timestamp": 1794513493,
     "timestamp_local": 1794513493
-  },
-  {
-    "id": 61862,
-    "fecha": "12 de Nov del 2026 a las 03:57 PM",
-    "hora_utc": "2026-11-12 19:57",
-    "mensaje": "⚠️Afectado el servicio eléctrico en el siguiente circuito:\n🔹Municipio Santa Clara\n👉Cto 14 Maleza",
-    "timestamp": 1794513456,
-    "timestamp_local": 1794513456
-  },
-  {
-    "id": 61861,
-    "fecha": "12 de Nov del 2026 a las 03:34 PM",
-    "hora_utc": "2026-11-12 19:34",
-    "mensaje": "⚠️Afectado el servicio eléctrico en los siguientes circuitos:\n🔹Municipio Santa Clara\n👉Cto 7 Universidad\n👉Cto 131 Las Antillas\n👉Cto 39 (Sandino)\n👉Cto 34 Sabana Rebacadero",
-    "timestamp": 1794512062,
-    "timestamp_local": 1794512062
-  },
-  {
-    "id": 61860,
-    "fecha": "12 de Nov del 2026 a las 03:19 PM",
-    "hora_utc": "2026-11-12 19:19",
-    "mensaje": "💡Restablecido el servicio eléctrico en los siguientes circuitos:\n🔹Municipio Santa Clara\n👉Ctos 26 y 141 Manuelita",
-    "timestamp": 1794511144,
-    "timestamp_local": 1794511144
-  },
-  {
-    "id": 61859,
-    "fecha": "12 de Nov del 2026 a las 03:03 PM",
-    "hora_utc": "2026-11-12 19:03",
-    "mensaje": "Actualización del servicio eléctrico en la provincia.\n👉En este momento la afectación por déficit de capacidad de generación es de 213 MW, demanda máxima posible a apagar en estos momentos.\n👉De los circuitos apagables se mantienen afectados 137.\n👉Cuenta con 355 afectaciones por averías secundarias y de servicio.",
-    "timestamp": 1794510200,
-    "timestamp_local": 1794510200
-  },
-  {
-    "id": 61858,
-    "fecha": "12 de Nov del 2026 a las 02:24 PM",
-    "hora_utc": "2026-11-12 18:24",
-    "mensaje": "⚠️Afectado el servicio eléctrico en los siguientes circuitos:\n🔹Municipio Santa Clara:\n👉Ctos 2 y 3 Consejo- Centro\n👉Cto 167 Virginia\n🔹Municipio Quemado:\n👉 Cto 196 Batey Panchito Gómez Toro\n🔹Municipio Corralillo:\n👉Cto 57 Motembo\n👉Cto 56 Yabre\n👉Cto 60 La Sierra\n👉Cto 55 Rancho Veloz",
-    "timestamp": 1794507856,
-    "timestamp_local": 1794507856
-  },
-  {
-    "id": 61857,
-    "fecha": "12 de Nov del 2026 a las 01:59 PM",
-    "hora_utc": "2026-11-12 17:59",
-    "mensaje": "✍️ Programación del servicio eléctrico para la madrugada del día 13 en el horario comprendido entre las 00.00 y las 6.00 am.\n🔹Municipio Ranchuelo:\n👉Ctos 89 y 188 , 97 y 189\n👉Ctos 148 y 149 San Juan\n👉Cto 91 Batey Osvaldo Herrera\n👉Cto 181 Batey Ifraín Alfonso\n🔹Municipio Remedios:\n👉Ctos 67, 68 y 118\n👉Ctos 69 y 70 Zuluetas\n👉Cto 143 Batey Heriberto Duquezne\n👉Cto 71 Buena Vista",
-    "timestamp": 1794506343,
-    "timestamp_local": 1794506343
-  },
-  {
-    "id": 61856,
-    "fecha": "12 de Nov del 2026 a las 01:58 PM",
-    "hora_utc": "2026-11-12 17:58",
-    "mensaje": "⚠️Afectado el servicio eléctrico en el siguiente circuito:\n🔹Municipio Santa Clara\n👉Cto 15 Maleza",
-    "timestamp": 1794506311,
-    "timestamp_local": 1794506311
-  },
-  {
-    "id": 61855,
-    "fecha": "12 de Nov del 2026 a las 01:36 PM",
-    "hora_utc": "2026-11-12 17:36",
-    "mensaje": "Afectados 214 MW en la provincia, demanda máxima a apagar en estos momentos.",
-    "timestamp": 1794504966,
-    "timestamp_local": 1794504966
-  },
-  {
-    "id": 61854,
-    "fecha": "12 de Nov del 2026 a las 01:29 PM",
-    "hora_utc": "2026-11-12 17:29",
-    "mensaje": "⚠️Afectado el servicio eléctrico en el siguiente circuito:\n🔹Municipio Quemado:\n👉 Ctos 53",
-    "timestamp": 1794504570,
-    "timestamp_local": 1794504570
-  },
-  {
-    "id": 61853,
-    "fecha": "12 de Nov del 2026 a las 01:12 PM",
-    "hora_utc": "2026-11-12 17:12",
-    "mensaje": "✍️Debido a la compleja situación electro energético que presenta el país  con los altos niveles de déficit de capacidad de generación debido a la salida de la Unidad 1 de la CTE Antonio Guiteras por salidero en el economizador y fuera de línea la Unidad 1 de la CTE Lidio Ramón Pérez de Felton por mantenimiento ligero.\n✍️La provincia se encuentra en su máxima capacidad apagable debido al incremento de la demanda por déficit de capacidad de generación por lo que se le informa a los clientes pertenecientes a los circuitos  de Gran Panel en la zona del Condado que les corresponde servicio en el horario de la tarde que a estos se les brindará servicio paulatinamente por un tiempo estimado de 4 horas rotándolos entre ellos, los circuitos son :\n🔹Municipio Santa Clara:\n👉Cto 166 Condado\n👉Cto 28 Monumento Che\n👉Cto 168 Condado- XX Aniversario\n👉Cto 169 Condado",
-    "timestamp": 1794503572,
-    "timestamp_local": 1794503572
-  },
-  {
-    "id": 61852,
-    "fecha": "12 de Nov del 2026 a las 01:12 PM",
-    "hora_utc": "2026-11-12 17:12",
-    "mensaje": "💡Restablecido el servicio eléctrico en los siguientes circuitos:\n🔹Municipio Quemado:\n👉 Cto 196 Batey Panchito Gómez Toro\n🔹Municipio Corralillo:\n👉Cto 57 Motembo\n👉Cto 56 Yabre\n👉Cto 60 La Sierra\n👉Cto 55 Rancho Veloz",
-    "timestamp": 1794503525,
-    "timestamp_local": 1794503525
   }
 ]
