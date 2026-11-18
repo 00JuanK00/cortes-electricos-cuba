@@ -1,5 +1,29 @@
 [
   {
+    "id": 22338,
+    "fecha": "17 de Nov del 2026 a las 07:56 PM",
+    "hora_utc": "2026-11-17 23:56",
+    "mensaje": "Se declara en averío el TK10 El Cornito",
+    "timestamp": 1794959794,
+    "timestamp_local": 1794959794
+  },
+  {
+    "id": 22337,
+    "fecha": "17 de Nov del 2026 a las 06:47 PM",
+    "hora_utc": "2026-11-17 22:47",
+    "mensaje": "En estos momentos se encuentra disparando los circuitos TK6 Calle Cuba y zona sur de Buena Vista y  TK12 Las 40 y Nuevo Sosa. Nos encontramos verificando las causas.",
+    "timestamp": 1794955633,
+    "timestamp_local": 1794955633
+  },
+  {
+    "id": 22335,
+    "fecha": "17 de Nov del 2026 a las 03:58 PM",
+    "hora_utc": "2026-11-17 19:58",
+    "mensaje": "- 📣Detrás de cada transformador existe un elemento clave: el aceite dieléctrico. Este líquido permite evitar fallas eléctricas, controlar la temperatura y prolongar la vida útil del equipo.",
+    "timestamp": 1794945501,
+    "timestamp_local": 1794945501
+  },
+  {
     "id": 22333,
     "fecha": "17 de Nov del 2026 a las 02:11 PM",
     "hora_utc": "2026-11-17 18:11",
@@ -78,37 +102,5 @@
     "mensaje": "Nota técnica: Disparo de circuitos eléctricos y el retardo de tres minutos\n\n¿Por qué se dispara un circuito eléctrico? Un interruptor automático (magnetotérmico o diferencial) se activa para proteger la instalación y a las personas frente a anomalías. Las causas más habituales son:\n\n· Sobrecarga: circula más corriente de la que el cable puede soportar durante un tiempo prolongado (por ejemplo, por conectar demasiados aparatos a un mismo circuito).\n· Cortocircuito: contacto directo entre fase y neutro, o entre fase y tierra, lo que provoca un pico de corriente muy elevado.\n· Fuga a tierra (fallo de aislamiento): parte de la corriente se deriva a tierra, lo que puede electrocutar a una persona o provocar un incendio.\n\n¿Por qué esperar unos tres minutos antes de rearmar? El retardo de tres minutos (aproximado, pues puede variar entre uno y cinco minutos según el dispositivo) responde a razones de seguridad técnica.\n\n· Enfriamiento de componentes térmicos: en los interruptores magnetotérmicos, el disparo por sobrecarga calienta una lámina bimetálica. Esta necesita de tres a cinco minutos para enfriarse y recuperar su forma original. Si se rearma antes, el mecanismo puede quedar forzado, provocar un contacto deficiente y reducir la vida útil del aparato.\n· Disipación de gases ionizados: tras un cortocircuito, en el interior del interruptor se generan gases ionizados. Si se rearma de inmediato, esos gases pueden facilitar la formación de un arco eléctrico interno y provocar daños graves o incluso una explosión. Esperar unos tres minutos permite que los gases se disipen y el interruptor pueda cerrarse con seguridad.\n· Evitar rearmes repetidos sobre una falla activa: muchos diferenciales con rearme automático (o los reconectadores) utilizan intervalos progresivos (por ejemplo, 10 segundos, 60 segundos y hasta 300 segundos) para no insistir sobre un defecto que sigue presente. Si el problema persiste, el dispositivo se bloquea y exige una revisión manual, evitando así un ciclo peligroso de disparos y rearmes.\n\nEn resumen: el disparo protege ante sobrecargas, cortocircuitos o fugas; el retardo de aproximadamente tres minutos es un tiempo de seguridad que permite que los componentes se enfríen, los gases se disipen y se evite rearmar sobre una falla que podría causar daños mayores.",
     "timestamp": 1794899766,
     "timestamp_local": 1794899766
-  },
-  {
-    "id": 22317,
-    "fecha": "17 de Nov del 2026 a las 12:15 AM",
-    "hora_utc": "2026-11-17 04:15",
-    "mensaje": "📣**Estimados clientes**📣\n\n📊Por el alto **déficit de generación** existente en estos momentos en el Sistema Eléctrico Nacional y encontrarnos en el **Máximo Apagable** para este horario en la provincia.\n\n▶️**El Despacho Nacional de Carga** es el encargado de autorizar los **MW** a la provincia para poder realizar una rotación.\n\n▶️Cuando las condiciones del sistema eléctrico lo permitan serán restablecidos, según el Mayor Tiempo de afectación.                                                                                                                                                                                                                                                                                                                     Ante la **compleja situación **energética🪫 que enfrenta el país, nuestra provincia se encuentra trabajando bajo la **máxima capacidad de afectación, donde no se precisa horario de restablecimiento**📈.",
-    "timestamp": 1794888925,
-    "timestamp_local": 1794888925
-  },
-  {
-    "id": 22315,
-    "fecha": "16 de Nov del 2026 a las 09:41 PM",
-    "hora_utc": "2026-11-17 01:41",
-    "mensaje": "📣Detrás de cada transformador existe un elemento clave: el aceite dieléctrico. Este líquido permite evitar fallas eléctricas, controlar la temperatura y prolongar la vida útil del equipo.",
-    "timestamp": 1794879692,
-    "timestamp_local": 1794879692
-  },
-  {
-    "id": 22314,
-    "fecha": "16 de Nov del 2026 a las 07:26 PM",
-    "hora_utc": "2026-11-16 23:26",
-    "mensaje": "🟢 19:00 || En linea la Unidad 3 de la CTE Carlos Manuel de Céspedes.",
-    "timestamp": 1794871588,
-    "timestamp_local": 1794871588
-  },
-  {
-    "id": 22313,
-    "fecha": "16 de Nov del 2026 a las 07:13 PM",
-    "hora_utc": "2026-11-16 23:13",
-    "mensaje": "🚨Estimados clientes🚨\nLes informamos que, debido a la actual situación energética del país, nuestra provincia se encuentra operando bajo la máxima capacidad apagable. Esto significa que todos los circuitos eléctricos que pueden ser desconectados están siendo utilizados para mantener el equilibrio del sistema nacional.",
-    "timestamp": 1794870831,
-    "timestamp_local": 1794870831
   }
 ]
