@@ -1,5 +1,13 @@
 [
   {
+    "id": 22369,
+    "fecha": "19 de Nov del 2026 a las 08:12 PM",
+    "hora_utc": "2026-11-20 00:12",
+    "mensaje": "🔴⚡ SITUACIÓN ELÉCTRICA NACIONAL ⚡🔴\n\n📊 DÉFICIT NACIONAL ESTIMADO: 1 764 MW\n\n☀️ GENERACIÓN FOTOVOLTAICA\n➡️ Cerrando progresivamente su generación durante el horario de la tarde.\n\n📈 TENDENCIA DE LA DEMANDA\n⬆️ Se observa una tendencia al aumento de la demanda eléctrica nacional.\n\n⚠️ PRONÓSTICO\nLa disminución de la generación fotovoltaica, unida al incremento de la demanda, puede provocar un aumento de las afectaciones al servicio eléctrico.\n\n🔵 Información estimada. La situación puede variar en dependencia del comportamiento de la generación y la demanda.",
+    "timestamp": 1795133558,
+    "timestamp_local": 1795133558
+  },
+  {
     "id": 22368,
     "fecha": "19 de Nov del 2026 a las 06:03 PM",
     "hora_utc": "2026-11-19 22:03",
@@ -126,13 +134,5 @@
     "mensaje": "Nota técnica: Disparo de circuitos eléctricos y el retardo de tres minutos\n\n¿Por qué se dispara un circuito eléctrico? Un interruptor automático (magnetotérmico o diferencial) se activa para proteger la instalación y a las personas frente a anomalías. Las causas más habituales son:\n\n· Sobrecarga: circula más corriente de la que el cable puede soportar durante un tiempo prolongado (por ejemplo, por conectar demasiados aparatos a un mismo circuito).\n· Cortocircuito: contacto directo entre fase y neutro, o entre fase y tierra, lo que provoca un pico de corriente muy elevado.\n· Fuga a tierra (fallo de aislamiento): parte de la corriente se deriva a tierra, lo que puede electrocutar a una persona o provocar un incendio.\n\n¿Por qué esperar unos tres minutos antes de rearmar? El retardo de tres minutos (aproximado, pues puede variar entre uno y cinco minutos según el dispositivo) responde a razones de seguridad técnica.\n\n· Enfriamiento de componentes térmicos: en los interruptores magnetotérmicos, el disparo por sobrecarga calienta una lámina bimetálica. Esta necesita de tres a cinco minutos para enfriarse y recuperar su forma original. Si se rearma antes, el mecanismo puede quedar forzado, provocar un contacto deficiente y reducir la vida útil del aparato.\n· Disipación de gases ionizados: tras un cortocircuito, en el interior del interruptor se generan gases ionizados. Si se rearma de inmediato, esos gases pueden facilitar la formación de un arco eléctrico interno y provocar daños graves o incluso una explosión. Esperar unos tres minutos permite que los gases se disipen y el interruptor pueda cerrarse con seguridad.\n· Evitar rearmes repetidos sobre una falla activa: muchos diferenciales con rearme automático (o los reconectadores) utilizan intervalos progresivos (por ejemplo, 10 segundos, 60 segundos y hasta 300 segundos) para no insistir sobre un defecto que sigue presente. Si el problema persiste, el dispositivo se bloquea y exige una revisión manual, evitando así un ciclo peligroso de disparos y rearmes.\n\nEn resumen: el disparo protege ante sobrecargas, cortocircuitos o fugas; el retardo de aproximadamente tres minutos es un tiempo de seguridad que permite que los componentes se enfríen, los gases se disipen y se evite rearmar sobre una falla que podría causar daños mayores.",
     "timestamp": 1795043529,
     "timestamp_local": 1795043529
-  },
-  {
-    "id": 22349,
-    "fecha": "18 de Nov del 2026 a las 06:18 PM",
-    "hora_utc": "2026-11-18 22:18",
-    "mensaje": "🛠 Se encuentra en avería el circuito de 33kv 6100 carretera de Manatí",
-    "timestamp": 1795040288,
-    "timestamp_local": 1795040288
   }
 ]
