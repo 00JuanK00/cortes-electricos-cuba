@@ -1,5 +1,53 @@
 [
   {
+    "id": 60800,
+    "fecha": "20 de Nov del 2026 a las 10:28 PM",
+    "hora_utc": "2026-11-21 02:28",
+    "mensaje": "Actualización de las afectaciones por déficit:\nSe afecta el servicio eléctrico para los siguientes circuitos:\n12\n19",
+    "timestamp": 1795228080,
+    "timestamp_local": 1795228080
+  },
+  {
+    "id": 60799,
+    "fecha": "20 de Nov del 2026 a las 08:48 PM",
+    "hora_utc": "2026-11-21 00:48",
+    "mensaje": "📌Actualización de las afectaciones por déficit:\nSe afecta el servicio eléctrico para los siguientes circuitos:\n7 Secc (SD3030)\n16\n25\n4 de Palma",
+    "timestamp": 1795222136,
+    "timestamp_local": 1795222136
+  },
+  {
+    "id": 60798,
+    "fecha": "20 de Nov del 2026 a las 07:10 PM",
+    "hora_utc": "2026-11-20 23:10",
+    "mensaje": "📌Actualización de afectaciones por déficit:\nEn estos momentos la provincia tiene:\n100 MW afectados. \nCon servicio 45 MW\n\n📢Continuaremos informando.",
+    "timestamp": 1795216202,
+    "timestamp_local": 1795216202
+  },
+  {
+    "id": 60797,
+    "fecha": "20 de Nov del 2026 a las 07:08 PM",
+    "hora_utc": "2026-11-20 23:08",
+    "mensaje": "📌 Actualización de las quejas existentes en la provincia.   \n📍 Actualmente tenemos reportadas un total de  340 quejas en la provincia.\nSantiago-178\nLa Maya-25\nContramaestre-21\nII Frente-3\nIII Frente-2\nSan Luis-26\nPalma-78\nMella-4\nGuamá-2\n\n📌-Pendientes por visitar: 309quejas.\n📌Pendientes por solución: 279 quejas.\n📌Barriadas afectadas por interrupciones: 63\n📌Transformadores dañados en la provincia: 53\n \n\n🔇Se trabaja para dar solución a las mismas. Si conoce o presenta alguna afectación puede reportarla a través del 18888 o el 22647442, será un placer atenderles.",
+    "timestamp": 1795216131,
+    "timestamp_local": 1795216131
+  },
+  {
+    "id": 60796,
+    "fecha": "20 de Nov del 2026 a las 06:33 PM",
+    "hora_utc": "2026-11-20 22:33",
+    "mensaje": "📌 Circuitos con mayor tiempo de afectación:\n1 y 2 de Contramaestre➡️ 12 horas y 35 minutos\nHospital Contramaestre➡️ 11 horas y 36 minutos\n12 ➡️12 horas y 30 minutos\n19➡️ 10 horas \nLínea 4385-Contramaestre ➡️8 horas y 36 minutos\nLínea 5385-Palma ➡️8 horas y 14 minutos\n\n🔴Si usted presenta afectaciones superiores a los tiempos aquí informados, puede ser a causa de averías u otras incidencias no relacionadas con la afectación por Déficit de Generación. En esos casos le pedimos contactarnos por las vías establecidas.",
+    "timestamp": 1795213997,
+    "timestamp_local": 1795213997
+  },
+  {
+    "id": 60795,
+    "fecha": "20 de Nov del 2026 a las 06:01 PM",
+    "hora_utc": "2026-11-20 22:01",
+    "mensaje": "🛑Estimados clientes, se les reitera que el comportamiento de las afectaciones eléctricas y el restablecimiento del servicio, estará en dependencia de la situación que presente el Sistema Electroenergético Nacional.",
+    "timestamp": 1795212101,
+    "timestamp_local": 1795212101
+  },
+  {
     "id": 60793,
     "fecha": "20 de Nov del 2026 a las 04:47 PM",
     "hora_utc": "2026-11-20 20:47",
@@ -94,53 +142,5 @@
     "mensaje": "🚨 Se afectan por Déficit de Generación los circuitos 13, 24 y la línea 5330- Cristo.",
     "timestamp": 1795200721,
     "timestamp_local": 1795200721
-  },
-  {
-    "id": 60780,
-    "fecha": "20 de Nov del 2026 a las 02:49 PM",
-    "hora_utc": "2026-11-20 18:49",
-    "mensaje": "🔉 Con servicio el circuito 11 de Santiago.",
-    "timestamp": 1795200564,
-    "timestamp_local": 1795200564
-  },
-  {
-    "id": 60778,
-    "fecha": "20 de Nov del 2026 a las 02:15 PM",
-    "hora_utc": "2026-11-20 18:15",
-    "mensaje": "🚨 Se encuentra afectado por Déficit el circuito 1 de Palma.",
-    "timestamp": 1795198519,
-    "timestamp_local": 1795198519
-  },
-  {
-    "id": 60777,
-    "fecha": "20 de Nov del 2026 a las 02:12 PM",
-    "hora_utc": "2026-11-20 18:12",
-    "mensaje": "🔉 Con servicio el circuito 26 y el ramal 4260- II Frente.",
-    "timestamp": 1795198371,
-    "timestamp_local": 1795198371
-  },
-  {
-    "id": 60776,
-    "fecha": "20 de Nov del 2026 a las 02:06 PM",
-    "hora_utc": "2026-11-20 18:06",
-    "mensaje": "🚨 Se encuentra afectado por Déficit de Generación el circuito 20 de Santiago.",
-    "timestamp": 1795198002,
-    "timestamp_local": 1795198002
-  },
-  {
-    "id": 60775,
-    "fecha": "20 de Nov del 2026 a las 01:43 PM",
-    "hora_utc": "2026-11-20 17:43",
-    "mensaje": "📍Actualización de los circuitos que se encuentran afectados por Déficit \nMW Afectados-  81\nMW Servidos - 60\n\n📌 Circuitos con mayor tiempo de afectación:\nCircuito 7 - SD3030 ➡️17 horas y 06 minutos\nLínea 5335- Guamá ➡️ 15 horas y 55 minutos\nLínea 5390- ramal 4260- II Frente ➡️ 13 horas y 22 minutos\nLínea 5975- Baconao ➡️ 9 horas y 25 minutos\nCircuito 11 ➡️ 9 horas y 07 minutos\nCircuito 25 ➡️ 8 horas y 33 minutos\nCircuito 26 ➡️ 8 horas y 27 minutos\n\n🔉 Si usted presenta afectaciones superiores a los tiempos aquí informados, puede ser a causa de averías u otras incidencias no relacionadas con la afectación por Déficit de Generación. En esos casos le pedimos contactarnos por las vías establecidas.",
-    "timestamp": 1795196623,
-    "timestamp_local": 1795196623
-  },
-  {
-    "id": 60774,
-    "fecha": "20 de Nov del 2026 a las 01:23 PM",
-    "hora_utc": "2026-11-20 17:23",
-    "mensaje": "🔉 Con servicio la línea 5980- San Juan.",
-    "timestamp": 1795195413,
-    "timestamp_local": 1795195413
   }
 ]

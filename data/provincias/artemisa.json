@@ -1,5 +1,13 @@
 [
   {
+    "id": 40001,
+    "fecha": "20 de Nov del 2026 a las 07:45 PM",
+    "hora_utc": "2026-11-20 23:45",
+    "mensaje": "🚨 Subestación Dagame en avería🚨",
+    "timestamp": 1795218312,
+    "timestamp_local": 1795218312
+  },
+  {
     "id": 40000,
     "fecha": "20 de Nov del 2026 a las 04:26 PM",
     "hora_utc": "2026-11-20 20:26",
@@ -150,13 +158,5 @@
     "mensaje": "🚨 Afectado por deficit de generación\n\n➡️1580 de Alquízar manipulado\n➡️A1270 de Artemisa manipulado\n➡️ 341 de San Cristóbal\n\n‼️ Tenemos una afectación de 111MW‼️",
     "timestamp": 1795025340,
     "timestamp_local": 1795025340
-  },
-  {
-    "id": 39980,
-    "fecha": "18 de Nov del 2026 a las 12:52 PM",
-    "hora_utc": "2026-11-18 16:52",
-    "mensaje": "🚨 Afectado por deficit de generación\n\n➡️Cayo Lenin del Mariel\n➡️Playa Baracoa \n➡️1570 de Artemisa\n➡️ Caimito Cementerio\n\n‼️ Tenemos una afectación de 111MW‼️",
-    "timestamp": 1795020742,
-    "timestamp_local": 1795020742
   }
 ]
