@@ -1,5 +1,45 @@
 [
   {
+    "id": 22394,
+    "fecha": "21 de Nov del 2026 a las 12:56 PM",
+    "hora_utc": "2026-11-21 16:56",
+    "mensaje": "Se declaran en avería los siguientes circuitos:TK10 El Cornito y TK8 Sendero. Nuestros operarios trabajan para restablecer en el menor tiempo. Ofrecemos disculpas por las molestias ocasionadas.",
+    "timestamp": 1795280188,
+    "timestamp_local": 1795280188
+  },
+  {
+    "id": 22393,
+    "fecha": "21 de Nov del 2026 a las 12:17 PM",
+    "hora_utc": "2026-11-21 16:17",
+    "mensaje": "Que significa e implica la máxima capacidad apagable en la provincia: \n📈 Máxima capacidad apagable se refiere al nivel máximo de demanda eléctrica que puede ser desconectada o suspendida temporalmente en la provincia, explica la complejidad del déficit de generación o contingencias en el sistema eléctrico.\nRepresenta el límite superior de la reducción de carga que la empresa puede lograr mediante cortes de energía (apagones). Cuanto mayor sea la máxima capacidad apagable, mayor será el déficit de energía.\n¿Qué implica esto?\nSe identifica cuántos circuitos pueden ser apagados para equilibrar la carga del sistema, esto imposibilita realizar rotaciones, se encuentran afectados todos los circuitos apagables del territorio. Podrán presentarse afectaciones en el servicio de electricidad durante varias horas al día y el tiempo con servicio dependerá del comportamiento del SEN. Esta medida es \nnecesaria para evitar fallas mayores y proteger la infraestructura eléctrica",
+    "timestamp": 1795277836,
+    "timestamp_local": 1795277836
+  },
+  {
+    "id": 22389,
+    "fecha": "21 de Nov del 2026 a las 08:58 AM",
+    "hora_utc": "2026-11-21 12:58",
+    "mensaje": "🔔Al cierre de las 09:00 am del día 21/11/2026 se registra en la provincia 433 interrupciones pendientes y 183 pendientes a solución visitadas.\n\n♦️Interrupciones pendientes por municipios:\n\n-Amancio: 19\n-Jobabo: 10\n-Colombia: 7\n-Puerto Padre: 158\n-Menéndez: 25\n- Manatí: 6\n-Majibacoa: 9\n-Las Tunas:199\n\n🔔Se registra un total de 126 transformadores dañados, de ellos 41 en el sector estatal y 88 en el sector residencial de los cuales se encuentran en los siguientes municipios:\n\n-Amancio: 7\n-Jobabo: 1\n-Colombia: 5\n-Puerto Padre: 11\n-Menéndez: 13\n-Manatí: 2\n-Majibacoa: 1\n-Las Tunas: 45",
+    "timestamp": 1795265935,
+    "timestamp_local": 1795265935
+  },
+  {
+    "id": 22388,
+    "fecha": "21 de Nov del 2026 a las 07:31 AM",
+    "hora_utc": "2026-11-21 11:31",
+    "mensaje": "📣 Actualización del Sistema Electroenergético\nDebido al significativo déficit energético que enfrenta nuestro país y la disponibilidad limitada del Sistema Eléctrico Nacional(SEN)en comparación con la demanda actual, lamentamos no poder proporcionar una programación detallada de las afectaciones en el suministro eléctrico. Agradecemos su compresión y ofrecemos nuestras más sinceras disculpas por las molestias que esto pueda causarles.",
+    "timestamp": 1795260687,
+    "timestamp_local": 1795260687
+  },
+  {
+    "id": 22387,
+    "fecha": "21 de Nov del 2026 a las 07:26 AM",
+    "hora_utc": "2026-11-21 11:26",
+    "mensaje": "✍️Ante cualquier duda conozca sobre la terminología eléctrica\n\n🔹Las averías pueden ser:\n\n➡️Primarias: Afecta un volumen grande de población pues son las líneas de distribución a 13.8 kV y puede afectar varias manzanas, incluso repartos completos.\n\n➡️Secundarias: Afecta a todos los clientes que se alimenten del mismo transformador, puede afectar una o varias cuadras.\n\n➡️De servicio: Afectan 1 solo cliente o instalación generalmente producto a daños en la acometida, metro contador, etc.).",
+    "timestamp": 1795260412,
+    "timestamp_local": 1795260412
+  },
+  {
     "id": 22386,
     "fecha": "21 de Nov del 2026 a las 05:46 AM",
     "hora_utc": "2026-11-21 09:46",
@@ -62,61 +102,5 @@
     "mensaje": "‼️Situación del SEN para el 20 de noviembre de 2026‼️.\n\n⚠️En el día de ayer se afectó el servicio por déficit de capacidad durante las 24 horas y se mantuvo la afectación durante todo el horario de la madrugada. La máxima afectación por déficit de capacidad de generación en el día de ayer fue de 1789         MW a las 18:50 horas.\n\n🌞La producción energías de los parques solares fotovoltaicos fue de 4320 MWh, con 672 MW como máxima potencia entregada en el horario de la media con esta fuente de generación.\n\n⚡️La disponibilidad del SEN a las 06:00 horas es de 1000 MW, la demanda 2250 MW con 1242 MW afectados. En el horario de la media se estima una afectación de 1350 MW.\n\n⚒️Se encuentran en avería la unidad 8 de la CTE Mariel, la unidad 1 de la CTE Santa Cruz, la unidad 2 de la CTE Felton y la unidad 6 de la CTE Renté. Se encuentran en mantenimiento la unidad 3 de la CTE Santa Cruz, la unidad 5 de la CTE Nuevitas, la unidad 1 de la CTE Felton y la unidad 5 de la CTE Renté. \n\n👉🏻Para el horario pico se estima la entrada de la unidad 8 de la CTE Mariel con 45 MW.\n \n👉🏻Las limitaciones en la generación térmica son de 368 MW.\n\n📈Se prevé que para el horario de máxima demanda una disponibilidad de 1045 MW con una demanda máxima de 2850 MW, para un déficit de 1805 MW, por lo que de mantenerse las condiciones previstas se pronostica una afectación de 1835 MW en este horario.",
     "timestamp": 1795176390,
     "timestamp_local": 1795176390
-  },
-  {
-    "id": 22373,
-    "fecha": "20 de Nov del 2026 a las 07:27 AM",
-    "hora_utc": "2026-11-20 11:27",
-    "mensaje": "Evite las molestias de última hora⏱️ o la interrupción del servicio. Le sugerimos realizar su pago 💵 a la brevedad posible a través de:\n⚡️Oficinas comerciales.\n⚡️ Lectores- cobradores.\n⚡️ Plataformas digitales (Transfermóvil, Enzona): ¡Más rápido, cómodo y con bonificación!\n\n💡 ¡Mantenga su factura al día  y ayúdenos a mejorar nuestros servicios!",
-    "timestamp": 1795174068,
-    "timestamp_local": 1795174068
-  },
-  {
-    "id": 22372,
-    "fecha": "20 de Nov del 2026 a las 07:27 AM",
-    "hora_utc": "2026-11-20 11:27",
-    "mensaje": "Fusible de Protección (DROP- OUT)\n\nEs un dispositivo de seguridad que se utiliza para proteger el transformador una vez que la corriente alcance valores elevados, el mismo se dispara e interrumpe el flujo de corriente, evitando una sobrecarga eléctrica del transformador.",
-    "timestamp": 1795174062,
-    "timestamp_local": 1795174062
-  },
-  {
-    "id": 22371,
-    "fecha": "20 de Nov del 2026 a las 07:26 AM",
-    "hora_utc": "2026-11-20 11:26",
-    "mensaje": "🛠 Se declara en avería el circuito de 33kv 4215",
-    "timestamp": 1795173988,
-    "timestamp_local": 1795173988
-  },
-  {
-    "id": 22370,
-    "fecha": "20 de Nov del 2026 a las 07:24 AM",
-    "hora_utc": "2026-11-20 11:24",
-    "mensaje": "🌦️🌡️**#PRONÓSTICO**** DEL TIEMPO PARA 20 DE NOVIEMBRE DE 2026**🌬🌊\n\n🌤️**NUBOSIDAD Y LLUVIAS**: Estará parcialmente nublado en gran parte del país durante la mañana. En la tarde se nublará en localidades del Occidente con algunos chubascos, y lluvias, que serán aislados en el resto del territorio nacional.\n\n🌡️📉**Temperaturas mínimas**: 19-23 °C.\n🌡️📈**Temperaturas máximas**: 27-30 °C.\n\n🌬️**VIENTOS**: Variables y débiles.\n\n🌊**MAR**: POCO OLEAJE en el Norte Oriental. MAR TRANQUILA en el resto de las costas.\n\n🌗**Fase Lunar**: Cuarto Creciente.\n\nSomos https://t.me/tiempocuba 🌦️🇨🇺",
-    "timestamp": 1795173855,
-    "timestamp_local": 1795173855
-  },
-  {
-    "id": 22369,
-    "fecha": "19 de Nov del 2026 a las 08:12 PM",
-    "hora_utc": "2026-11-20 00:12",
-    "mensaje": "🔴⚡ SITUACIÓN ELÉCTRICA NACIONAL ⚡🔴\n\n📊 DÉFICIT NACIONAL ESTIMADO: 1 764 MW\n\n☀️ GENERACIÓN FOTOVOLTAICA\n➡️ Cerrando progresivamente su generación durante el horario de la tarde.\n\n📈 TENDENCIA DE LA DEMANDA\n⬆️ Se observa una tendencia al aumento de la demanda eléctrica nacional.\n\n⚠️ PRONÓSTICO\nLa disminución de la generación fotovoltaica, unida al incremento de la demanda, puede provocar un aumento de las afectaciones al servicio eléctrico.\n\n🔵 Información estimada. La situación puede variar en dependencia del comportamiento de la generación y la demanda.",
-    "timestamp": 1795133558,
-    "timestamp_local": 1795133558
-  },
-  {
-    "id": 22368,
-    "fecha": "19 de Nov del 2026 a las 06:03 PM",
-    "hora_utc": "2026-11-19 22:03",
-    "mensaje": "✅Queda restablecida la avería del circuito 33kv:6100",
-    "timestamp": 1795125805,
-    "timestamp_local": 1795125805
-  },
-  {
-    "id": 22367,
-    "fecha": "19 de Nov del 2026 a las 05:44 PM",
-    "hora_utc": "2026-11-19 21:44",
-    "mensaje": "Que significa e implica la máxima capacidad apagable en la provincia: \n📈 Máxima capacidad apagable se refiere al nivel máximo de demanda eléctrica que puede ser desconectada o suspendida temporalmente en la provincia, explica la complejidad del déficit de generación o contingencias en el sistema eléctrico.\nRepresenta el límite superior de la reducción de carga que la empresa puede lograr mediante cortes de energía (apagones). Cuanto mayor sea la máxima capacidad apagable, mayor será el déficit de energía.\n¿Qué implica esto?\nSe identifica cuántos circuitos pueden ser apagados para equilibrar la carga del sistema, esto imposibilita realizar rotaciones, se encuentran afectados todos los circuitos apagables del territorio. Podrán presentarse afectaciones en el servicio de electricidad durante varias horas al día y el tiempo con servicio dependerá del comportamiento del SEN. Esta medida es \nnecesaria para evitar fallas mayores y proteger la infraestructura eléctrica",
-    "timestamp": 1795124653,
-    "timestamp_local": 1795124653
   }
 ]
