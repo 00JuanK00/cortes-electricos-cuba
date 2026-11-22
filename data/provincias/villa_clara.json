@@ -1,5 +1,77 @@
 [
   {
+    "id": 62747,
+    "fecha": "21 de Nov del 2026 a las 10:22 PM",
+    "hora_utc": "2026-11-22 02:22",
+    "mensaje": "💡Restablecido el servicio eléctrico en el siguiente circuito:\n🔹Municipio Santa Clara:\n👉Cto 166 Condado",
+    "timestamp": 1795314139,
+    "timestamp_local": 1795314139
+  },
+  {
+    "id": 62746,
+    "fecha": "21 de Nov del 2026 a las 10:21 PM",
+    "hora_utc": "2026-11-22 02:21",
+    "mensaje": "⚠️Afectado el servicio eléctrico en los siguientes circuitos:\n🔹Municipio Santa Clara:\n👉Cto 132 Santa Clara Industrial\n👉Cto 162 Santa Clara Industrial\n👉Cto 31 Santa Clara Industrial",
+    "timestamp": 1795314118,
+    "timestamp_local": 1795314118
+  },
+  {
+    "id": 62745,
+    "fecha": "21 de Nov del 2026 a las 10:18 PM",
+    "hora_utc": "2026-11-22 02:18",
+    "mensaje": "Actualización del servicio eléctrico en la provincia.\n👉En este momento la afectación por déficit de capacidad de generación es de 199 MW, demanda máxima posible a apagar en estos momentos.\n👉De los circuitos apagables se mantienen afectados 134.\n👉Cuenta con 460 afectaciones por averías secundarias y de servicio.",
+    "timestamp": 1795313935,
+    "timestamp_local": 1795313935
+  },
+  {
+    "id": 62744,
+    "fecha": "21 de Nov del 2026 a las 09:23 PM",
+    "hora_utc": "2026-11-22 01:23",
+    "mensaje": "💡Restablecido el servicio eléctrico en el siguiente circuito:\n🔹Municipio Santa Clara\n👉Cto 14  Maleza",
+    "timestamp": 1795310635,
+    "timestamp_local": 1795310635
+  },
+  {
+    "id": 62743,
+    "fecha": "21 de Nov del 2026 a las 08:49 PM",
+    "hora_utc": "2026-11-22 00:49",
+    "mensaje": "💡Restablecido el servicio eléctrico en el siguiente circuito:\n🔹Municipio Remedios:\n👉Cto 152",
+    "timestamp": 1795308569,
+    "timestamp_local": 1795308569
+  },
+  {
+    "id": 62742,
+    "fecha": "21 de Nov del 2026 a las 07:57 PM",
+    "hora_utc": "2026-11-21 23:57",
+    "mensaje": "Actualización del servicio eléctrico en la provincia.\n👉En este momento la afectación por déficit de capacidad de generación es de 202 MW, demanda máxima posible a apagar en estos momentos.\n👉De los circuitos apagables se mantienen afectados 141.\n👉Cuenta con 460 afectaciones por averías secundarias y de servicio.",
+    "timestamp": 1795305440,
+    "timestamp_local": 1795305440
+  },
+  {
+    "id": 62741,
+    "fecha": "21 de Nov del 2026 a las 07:25 PM",
+    "hora_utc": "2026-11-21 23:25",
+    "mensaje": "💡Restablecido el servicio eléctrico en los siguientes circuitos:\n🔹Municipio Santa Clara\n👉Cto 132 Santa Clara Industrial\n👉Cto 162 Santa Clara Industrial\n👉Cto 31 Santa Clara Industrial",
+    "timestamp": 1795303512,
+    "timestamp_local": 1795303512
+  },
+  {
+    "id": 62740,
+    "fecha": "21 de Nov del 2026 a las 07:18 PM",
+    "hora_utc": "2026-11-21 23:18",
+    "mensaje": "💡Restablecido el servicio eléctrico en el siguiente circuito:\n🔹Municipio Santa Clara:\n👉Cto  3 Consejo- Centro",
+    "timestamp": 1795303094,
+    "timestamp_local": 1795303094
+  },
+  {
+    "id": 62739,
+    "fecha": "21 de Nov del 2026 a las 06:40 PM",
+    "hora_utc": "2026-11-21 22:40",
+    "mensaje": "⚡Afectado por avería el circuito 166 Condado, se estudian las causas.",
+    "timestamp": 1795300805,
+    "timestamp_local": 1795300805
+  },
+  {
     "id": 62738,
     "fecha": "21 de Nov del 2026 a las 05:57 PM",
     "hora_utc": "2026-11-21 21:57",
@@ -86,77 +158,5 @@
     "mensaje": "Actualización del servicio eléctrico en la provincia.\n👉En este momento la afectación por déficit de capacidad de generación es de 188 MW, demanda máxima posible a apagar en estos momentos.\n👉De los circuitos apagables se mantienen afectados 118.\n👉Cuenta con 451 afectaciones por averías secundarias y de servicio.",
     "timestamp": 1795291677,
     "timestamp_local": 1795291677
-  },
-  {
-    "id": 62727,
-    "fecha": "21 de Nov del 2026 a las 04:01 PM",
-    "hora_utc": "2026-11-21 20:01",
-    "mensaje": "⚠️Afectado el servicio eléctrico en los siguientes circuitos:\n🔹Municipio Manicaragua:\n👉Ctos 109 y 150",
-    "timestamp": 1795291303,
-    "timestamp_local": 1795291303
-  },
-  {
-    "id": 62726,
-    "fecha": "21 de Nov del 2026 a las 03:56 PM",
-    "hora_utc": "2026-11-21 19:56",
-    "mensaje": "⚠️Afectado el servicio eléctrico en los siguientes circuitos:\n🔹Municipio Santa Clara:\n👉Cto 7 Universidad\n👉Cto 131 Las Antillas\n🔹Municipio Santa Clara\n👉Cto 191 Quemado de Hilario\n🔹Municipio Ranchuelo:\n👉Cto 93 Esperanza (Campo)\n🔹Municipio Santo Domingo:\n👉Cto 79 Santo Domingo\n👉Cto 81 26 de Julio\n👉Cto 163 Batey 26 de Julio\n🔹Municipio Ranchuelo:\n👉Ctos 54, 94 y 95 Jicotea",
-    "timestamp": 1795290981,
-    "timestamp_local": 1795290981
-  },
-  {
-    "id": 62725,
-    "fecha": "21 de Nov del 2026 a las 02:46 PM",
-    "hora_utc": "2026-11-21 18:46",
-    "mensaje": "⚡Afectado por avería el circuito 122 perteneciente al municipio Encrucijada, se estudian las causas.",
-    "timestamp": 1795286774,
-    "timestamp_local": 1795286774
-  },
-  {
-    "id": 62724,
-    "fecha": "21 de Nov del 2026 a las 02:29 PM",
-    "hora_utc": "2026-11-21 18:29",
-    "mensaje": "⚠️Afectado el servicio eléctrico en los siguientes circuitos:\n🔹Municipio Ranchuelo: \n👉Ctos  97 y 189\n👉Ctos 148 y 149 San Juan\n👉Cto 91 Batey Osvaldo Herrera\n👉Cto 181 Batey Ifraín Alfonso",
-    "timestamp": 1795285789,
-    "timestamp_local": 1795285789
-  },
-  {
-    "id": 62723,
-    "fecha": "21 de Nov del 2026 a las 02:24 PM",
-    "hora_utc": "2026-11-21 18:24",
-    "mensaje": "💡Restablecido el servicio eléctrico en los siguientes circuitos:\n🔹Municipio Cifuentes:\n👉Ctos 116 y 155 Mata\n👉Cto 186 Batey Unidad Proletaria\n🔹Municipio Encrucijada:\n👉Cto 122 \n🔹Municipio Camajuaní: \n👉Cto 75 La Quinta\n👉Cto 157 Luis Arcos Bergnes\n👉Ctos 76 y 90 Vega Alta",
-    "timestamp": 1795285444,
-    "timestamp_local": 1795285444
-  },
-  {
-    "id": 62722,
-    "fecha": "21 de Nov del 2026 a las 02:16 PM",
-    "hora_utc": "2026-11-21 18:16",
-    "mensaje": "✍️ Programación del servicio eléctrico para la madrugada del día 22 en el horario comprendido entre las 00.00 y las 6.00 am.\n🔹Municipio Sagua\n👉Cto 48 Finalet\n👉Ctos 46 y 128 Sitiecito\n👉Ctos 43, 51 Sagua\n👉Cto 44 Isabela\n👉Ctos 50 y 147 Villa Alegre\n👉Cto 136 Electroquímica\n👉Cto Batey Héctor Rodríguez\n🔹Municipio Cifuentes:\n👉Ctos 114 y 117\n👉Ctos 116 y 155 Mata\n👉Cto 186 Batey Unidad Proletaria\n👉Cto 184 Sitio Grande",
-    "timestamp": 1795284973,
-    "timestamp_local": 1795284973
-  },
-  {
-    "id": 62721,
-    "fecha": "21 de Nov del 2026 a las 02:04 PM",
-    "hora_utc": "2026-11-21 18:04",
-    "mensaje": "Actualización del servicio eléctrico en la provincia.\n👉En este momento la afectación por déficit de capacidad de generación es de 142 MW, demanda máxima posible a apagar en estos momentos.\n👉De los circuitos apagables se mantienen afectados 86.\n👉Cuenta con 439 afectaciones por averías secundarias y de servicio.",
-    "timestamp": 1795284292,
-    "timestamp_local": 1795284292
-  },
-  {
-    "id": 62720,
-    "fecha": "21 de Nov del 2026 a las 01:55 PM",
-    "hora_utc": "2026-11-21 17:55",
-    "mensaje": "💡Restablecido el servicio eléctrico en los siguientes circuitos:\n🔹Municipio Santa Clara:\n👉Cto 6 Vigía\n👉Cto 39 Sandino\n👉Cto 34 Sabana Rebacadero",
-    "timestamp": 1795283725,
-    "timestamp_local": 1795283725
-  },
-  {
-    "id": 62719,
-    "fecha": "21 de Nov del 2026 a las 01:52 PM",
-    "hora_utc": "2026-11-21 17:52",
-    "mensaje": "⚠️Afectado el servicio eléctrico en el siguiente circuito:\n🔹Municipio Santa Clara\n👉Cto 22 Construcciones Textil",
-    "timestamp": 1795283552,
-    "timestamp_local": 1795283552
   }
 ]
